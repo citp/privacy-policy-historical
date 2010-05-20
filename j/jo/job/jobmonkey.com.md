@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205125317id_/http%3A//www.jobmonkey.com/main/html/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobmonkey.com privacy policy that was archived on 2010-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100520143032id_/http%3A//www.jobmonkey.com/main/html/privacy.html) for the most accurate reproduction.*
 
 # JobMonkey Privacy Policy
 
-**Revised: September 22, 2009**
+**Revised: March 5, 2010**
 
 JobMonkey, Inc. believes that the best way to market on the Internet is with honesty, accountability, and self-regulation. We value the privacy of our visitors and customers. 
 
@@ -25,5 +25,10 @@ Deleting cookies does not mean you are permanently opted out of any advertising 
 
 **Other Third-Party Advertising**  
 We also use other third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+
+**Unsubscribe to Newsletter**  
+JobMonkey distributes a free newsletter to people who opt-in via a Registration Form or by creating a Job Center User Account. It's easy to unsubscribe
+
+[Unsubscribe from our Newsletter](http://jobmonkey.us1.list-manage.com/unsubscribe?u=566693791d9cd069725e007f5&id=407672011e)
 
 **[JobMonkey Home](http://www.jobmonkey.com/) >>>**
