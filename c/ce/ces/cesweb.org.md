@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501170305id_/http%3A//www.cesweb.org/privacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cesweb.org privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521045301id_/http%3A//www.cesweb.org/privacyPolicy.asp) for the most accurate reproduction.*
 
-# 2010 International CES, January 7-10: Privacy Policy
+# 2010 CES: Privacy Policy
 
 The Consumer Electronics Association ("CEA") is committed to protecting the privacy and security of your personal information. We want  to share with you how we treat personal information about you that we receive in connection with this Website.
 
