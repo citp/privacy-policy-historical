@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705124352id_/http%3A//www.venusianarts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venusianarts.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522014732id_/http%3A//www.venusianarts.com/privacy.php) for the most accurate reproduction.*
 
 # The Venusian Arts
 
