@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207194158id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virb.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521044924id_/http%3A//virb.com/privacy) for the most accurate reproduction.*
 
-# VIRB° - Privacy Policy
+# Virb - Privacy Policy
 
-Welcome to Virb.com (“Virb”), owned, produced and operated by Unborn Media, Inc. (“Unborn Media”) and, potentially, in part or in whole, by its parents, subsidiary and affiliate corporations, successors, and assigns (collectively referred to as “Unborn Companies”). Unless explicitly stated otherwise, any current, updated and new products and services (“Products and Services”), including the addition of new properties shall be subject to this Privacy Policy, as well as the General Terms and Conditions of Use (“Terms and Conditions”). By using Virb you agree to be bound by this Privacy Policy and the Terms and Conditions, whether or not you register as a listener (“Listener”). Please read this Privacy Policy carefully. 
+Welcome to Virb.com (“Virb”), owned, produced and operated by Virb LLC (“Virb LLC”). Virb LLC is a (mt) Media Temple Venture company. Virb.com is a creative-oriented content and information website that provides a service to musicians, artists, and other content creators to post information regarding themselves as well as content owned and/or created by them. Unless explicitly stated otherwise, any current, updated and new products and services (“Products and Services”), including the addition of new properties shall be subject to these General Terms and Conditions of Use (“Terms and Conditions”,) whether or not you register as a user. Please read this Privacy Policy carefully. 
 
-Virb.com is a music-oriented content and information website that provides a service to musical artists and to record companies on behalf of musical artists (each an “Artist” and collectively “Artists”) to post information regarding themselves as well as musical content owned and/or created by them. Virb members can view each others' profiles (“Profiles”), communicate with each other, share photos, post journals and comments, and describe their interests. Registered Users can change their Profile information at any time and can control how other Users and the service communicates with them. Users and Artists are sometimes referred to hereinafter individually and collectively as “Users.” 
-
-Virb cares about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy[at]Virb[dot]com](mailto:privacy@virb.com).
+Virb cares about online privacy. If you have any questions concerning this privacy policy, please email us at [privacy@virb.com](mailto:privacy@virb.com "privacy@virb.com").
 
 #### INFORMATION COLLECTION AND USE BY Virb
 
@@ -36,7 +34,7 @@ Virb contains links to third party websites. Virb is not responsible for the pri
 
 #### CHAT ROOMS, PROFILES, MESSAGE BOARDS AND PUBLIC FORUMS
 
-Please be aware that whenever you voluntarily post public information to Chat Rooms, Profiles, Message Boards or any other Public Forum, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Unborn Media and the Unborn Companies are not responsible for the personally identifiable information you choose to submit on Virb. Please think before you post any personal information online. 
+Please be aware that whenever you voluntarily post public information to Chat Rooms, Profiles, Message Boards or any other Public Forum, that information can be accessed by the public and can in turn be used by those people to send you unsolicited communications. Virb LLC is not responsible for the personally identifiable information you choose to submit on Virb. Please think before you post any personal information online. 
 
 #### CORRECTING/UPDATING OR REMOVING INFORMATION
 
@@ -60,7 +58,7 @@ Except as otherwise described in this Privacy Policy, Virb will not disclose per
 
 #### PRIVACY OF CHILDREN
 
-None of the Unborn Media sites are directed to children under the age of 13. We operate our network of sites in compliance with the Children’s Online Privacy Protection Act of 1998, and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+None of the Virb LLC sites are directed to children under the age of 13. We operate our network of sites in compliance with the Children’s Online Privacy Protection Act of 1998, and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
 
 #### CHANGES IN OUR PRIVACY POLICY
 
@@ -68,6 +66,6 @@ From time to time Virb may make changes to our Privacy Policy. If we make change
 
 #### CONTACTING THE WEB SITE
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy[at]Virb[dot]com](mailto:privacy@Virb.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [privacy@virb.com](mailto:privacy@virb.com "privacy@virb.com")
 
-**Last updated November 21st, 2006**
+**Last updated February 16, 2009**
