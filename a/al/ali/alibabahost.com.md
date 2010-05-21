@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109000927id_/http%3A//www.alibabahost.com/aup.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alibabahost.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521050848id_/http%3A//www.alibabahost.com/aup.html) for the most accurate reproduction.*
 
-# Web Hosting : Professional Netherland Hosting from Alibaba Host
+# ALIBABAHOST || Offshore provider | Offshore vps | Offshore hosting | Unmetered dedicated | Offshore dedicated | Seedboxes | Rapidleech
 
 ## Privacy Policy
 
