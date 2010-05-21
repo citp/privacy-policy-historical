@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423033855id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeagain.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521234945id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.*
 
-# HomeAgain® - Always looking out for your pet
+# Privacy Policy | Home Again Pet ID System
 
 ## HomeAgain Online Privacy Notice
 
@@ -96,4 +96,4 @@ We do not knowingly collect Personal Information directly from any person under 
 
 **_Contact Us_** **.**   If you have questions or concerns regarding this Privacy Notice, you should contact our Privacy Officer at: Global Privacy Officer, Schering-Plough Corporation, 2000 Galloping Hill Road, Kenilworth, New Jersey 07033. E-mail: [privacyoffice@spcorp.com](mailto:privacyoffice@spcorp.com).
 
-If you have comments or questions about the HomeAgain® Program or trouble accessing your account, please contact us at: Home Again Customer Service, 300 Connell Drive, Berkeley Heights, NJ 07922.  E-mail: [customerservice@homeagain.com](mailto:customerservice@homeagain.com), or call us at 1-888-HomeAgain (466-3242). 
+If you have comments or questions about the HomeAgain® Program or trouble accessing your account, please contact us at: Home Again Customer Service, 56 Livingston Avenue, SP-R-3, Roseland, NJ 07068 USA.  E-mail: [customerservice@homeagain.com](mailto:customerservice@homeagain.com), or call us at 1-888-HomeAgain (466-3242).
