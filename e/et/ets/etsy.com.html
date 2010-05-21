@@ -1,19 +1,19 @@
-<!--The following is the downloaded HTML source of the etsy.com privacy policy that was archived on 2009-12-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091229175740id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the etsy.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522005210id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js"><head>
     <title>Etsy :: Privacy Policy</title>
     
 
-    <!-- provide a check for js support in CSS -->
+	<!-- provide a check for js support in CSS -->
     <script type="text/javascript" charset="utf-8">document.getElementsByTagName("html")[0].className = "js";</script>
     
     <link rel="shortcut icon" href="/images/favicon.ico">
-    <link href="/styles.css?v=1261678251" rel="stylesheet" type="text/css">
-    <link href="/assets/css/base.css?v=1261678251" rel="stylesheet" type="text/css">
-    <!--[if IE ]><link href="/assets/css/base_IE.css?v=1261678251" rel="stylesheet" type="text/css" /><![endif]-->
+    <link href="/styles.css?v=201005211274475853" rel="stylesheet" type="text/css">
+    <link href="/assets/css/base.css?v=201005211274475853" rel="stylesheet" type="text/css">
+    <!--[if IE ]><link href="/assets/css/base_IE.css?v=201005211274475853" rel="stylesheet" type="text/css" /><![endif]-->
     
-    <script language="javascript" src="/assets/1261678251/js/jquery-1.3.2.min.js"></script>
+    <script src="/assets/dist/201005211274475853/js/base.js" type="text/javascript"></script>
 
     <script type="text/javascript">
         jQuery.noConflict();
@@ -21,59 +21,85 @@
     
 </head>
 <body>
-    <!-- Calls the Header and assigns the proper values -->
-<!-- Header -->
-<!-- Adding js and hidden divs needed for the facebook nav -->
     
-<!-- /facebook init -->
+    
+
+<!-- Header -->
 <div id="header">
-	<!-- Logo -->
+    <!-- Logo -->
             <h1 id="etsy"><a href="/">Etsy</a></h1>
-        <!-- <p id="tagline">Your place to buy and sell all things handmade</p> -->
-	<div id="meta-group">
-		<!-- Cart -->
-		<ul id="cart-nav">
-			<li><a href="/cartcheckout.php" title="Your shopping cart">Cart <em>0 items  </em></a></li>
-				</ul>
-		<!-- User Navigation -->
-		<ul id="user-nav">
-		    			<li><a href="http://help.etsy.com/app/home" title="Help">Help</a></li>
-			<li><a href="/register.php" title="Register">Register</a></li>
-			<li class="last"><a href="http://www.etsy.com/login.php?from_page=http%3A%2F%2Fwww.etsy.com%2Fprivacy_policy.php" title="Sign in to your Etsy account">Sign In</a></li>
-					</ul>
-	</div>
-	
-	<div id="navigation-group">
-		<!-- Main Navigation -->
-		<ul id="main-nav">
-			<li><a href="/buy.php" title="Buy handmade">Buy</a></li>
-            			<li><a href="/how_selling_works.php" title="Sell handmade">Sell</a></li>
-            			<li><a href="/alchemy/" title="Custom">Custom</a></li>
-			<li><a href="/community.php" title="Participate in our community">Community</a></li>
-			<li><a href="/storque/" title="Check out the latest Etsy news at the Storque">Blog</a></li>
-            <li class="last"><a href="/your_etsy.php" title="Your Etsy">Your Etsy</a></li>
-		</ul>
-	</div>
-	
-	<!-- Search -->
-	<form action="/search.php" id="search-bar">
-		<div class="input-group">
-			<select name="search_type" id="search_select" class="select">
-		                    <option value="handmade">Handmade</option>
-		                    <option value="vintage">Vintage</option>
-		                    <option value="supplies">Supplies</option>
-		                    <option value="all">All Items</option>
-		                    <option value="seller_usernames">Sellers</option>
-		    			</select>
-			<input type="text" value="" name="search_query" id="search-query" class="text">
-			<input type="image" id="search_submit" alt="Search" src="/images/button_search.gif" value="Search" class="submit">
-		</div>
-		<p class="advanced-search"><a href="/search_advanced.php" title="Advanced Search">Advanced Search</a></p>
-		
-	</form>
+        
+    <!-- Begin site nav. -->
+    <div id="meta-group" class="clear">
+        <ul id="meta-nav">
+            <li class="first" id="meta-cart">
+                <a href="/cartcheckout.php" title="Your shopping cart">Cart <em>0</em></a>
+            </li>
+                </ul>
+
+        <!-- User Navigation -->
+        <ul id="user-nav">
+                        <li><a href="/your_etsy.php" title="Your Etsy">Your Etsy</a></li>
+            <li><a href="http://help.etsy.com/app/home" title="Help">Help</a></li>
+            <li><a href="/register.php" title="Register">Register</a></li>
+            <li class="last">
+                <a href="http://www.etsy.com/login.php?from_page=http%3A%2F%2Fwww.etsy.com%2Fprivacy_policy.php" title="Sign in to your Etsy account">Sign In</a></li>
+                    </ul>
+    </div>
+    
+    <div id="navigation-group" class="clear" role="navigation">
+        <!-- Main Navigation -->
+        <ul id="main-nav">
+            <li id="buy" class="first"><a href="/buy.php" title="Buy handmade">Buy</a></li>
+                        <li id="sell"><a href="/how_selling_works.php" title="Sell handmade">Sell</a></li>
+                        <li id="alchemy"><a href="/alchemy/" title="Request">Request</a></li>
+            <li id="community"><a href="/community.php" title="Participate in our community">Community</a></li>
+            <li id="blog" class="last"><a href="/storque/" title="Check out the latest Etsy news at the Storque">Blog</a></li>
+        </ul>
+        
+                <!-- Search -->
+        <form action="/search.php" id="search-bar">
+            <div id="search-facet" tabindex="0" aria-haspopup="true">
+                <label for="search-query">Handmade</label>
+                <iframe src="javascript:false;" id="search-facet-shim" frameborder="0" tabindex="-1" longdesc="Decorative" title=""></iframe>
+                <ul id="search-facet-list" class="closed" tabindex="0">
+                                    <li class="handmade selected">Handmade</li>
+                                    <li class="vintage">Vintage</li>
+                                    <li class="supplies">Supplies</li>
+                                    <li class="all">All Items</li>
+                                    <li class="seller_usernames">Sellers</li>
+                                </ul>
+            </div>
+            <div class="input-group">
+                <input type="text" value="" name="search_query" id="search-query" class="text" tabindex="0">
+                <button id="search_submit" type="submit">
+                    Search
+                </button>
+            </div>
+            <input type="hidden" value="handmade" name="search_type" id="search-type"> 
+                        <link rel="stylesheet" href="/assets/dist/201005211274475853/css/autosuggest.css" type="text/css" media="screen">
+
+
+<script>
+Etsy.loader.require('bootstrap/search.suggestions.js');
+</script>
+
+                    </form>
+            </div>
     </div>
 
-
+<script>
+if (this.jQuery) {
+    (function($){
+                $("#search-facet").searchDropDown();
+                /*@cc_on 
+        Etsy.loader.require("ie.rounded.corners.js", function() {
+            $("#etsy, #main-nav, #search-bar").corner();
+        });
+        @*/
+    })(jQuery);
+}
+</script>
     <!-- begin content -->
     <table class="big_n_tall centered_text" style="vertical-align: top">
         <tbody><tr>
@@ -601,9 +627,8 @@ unsubscribe at anytime by following the instructions contained in the email.</p>
     other places Etsy deems appropriate.</p>
     
 <p><strong>Questions</strong><br>
-</p><p>If you have questions or suggestions you can contact support@etsy.com or at 
-    Etsy Customer Care - Privacy Policy 325 Gold St., 6th Floor Brooklyn, NY 
-    11201 (718) 855 7955.</p>
+</p><p>If you have questions or suggestions you can contact Etsy's Support Team <a href="http://help.etsy.com/app/ask/">via our Help site</a> 
+	or write to: Etsy Customer Care - Privacy Policy; 55 Washington Street, Suite 512; Brooklyn, NY 11201; telephone: (718) 855-7955.</p>
 
 											</td>
 										</tr>
@@ -624,9 +649,9 @@ unsubscribe at anytime by following the instructions contained in the email.</p>
                     <td style="border-width:1px 0px 0px 0px; border-style:solid; border-color:#EAEAEA;"><table style="width:100%; margin:7px 0px 7px 0px;">
                         <tbody><tr>
                                 <td style="width:116px; padding-right:10px;"><a href="http://www.truste.org/ivalidate.php?url=www.etsy.com&amp;sealid=102" title="Shopping on Etsy is secure and safe"><img src="/images/truste_seal_eu.gif" alt="Shopping on Etsy is secure and safe" width="105" height="30"></a></td>
-                            <td class="dark_grey_text" style="font-size:11px;"><a href="/about.php" title="About Etsy">About</a> | <a href="http://press.etsy.com ">Press</a> | <a href="http://www.etsy.com/contact.php" title="Contact Etsy">Contact</a> | <a href="http://team.etsy.com">Teams</a> | <a href="http://www.etsy.com/jobs/" title="Etsy Jobs">Jobs</a> | <a href="http://www.etsy.com/shop.php?user_id=5029420" title="Etsy Store">Etsy Store</a> | <a href="http://developer.etsy.com">Developers</a><br>
+                            <td class="dark_grey_text" style="font-size:11px;"><a href="/about.php" title="About Etsy">About</a> | <a href="http://press.etsy.com ">Press</a> | <a href="http://www.etsy.com/contact.php" title="Contact Etsy">Contact</a> | <a href="http://team.etsy.com">Teams</a> | <a href="http://www.etsy.com/jobs/" title="Etsy Jobs">Jobs</a> | <a href="http://www.etsy.com/shop/EtsyStore" title="Etsy Store">Etsy Store</a> | <a href="http://developer.etsy.com">Developers</a><br>
                             <a href="/terms_of_use.php" title="Terms of Use">Terms of Use</a> | <a href="/privacy_policy.php" title="Privacy Policy">Privacy Policy</a> | <a href="/copyright_policy.php" title="Copyright Policy">Copyright Policy</a></td>
-                            <td class="dark_grey_text" style="text-align:right; font-size:11px;">© 2009 Etsy Inc.</td>
+                            <td class="dark_grey_text" style="text-align:right; font-size:11px;">© 2010 Etsy Inc.</td>
 
             </tr>
                     </tbody></table></td>
@@ -648,7 +673,8 @@ unsubscribe at anytime by following the instructions contained in the email.</p>
     </script>
              
         
-        
+    
+    <!-- web0040.ny4.etsy.com at Fri May 21 20:52:10 2010 in 29 ms -->
 
 
   </body></html>
