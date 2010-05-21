@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229175740id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etsy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522005210id_/http%3A//www.etsy.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Etsy :: Privacy Policy
 
@@ -104,4 +104,4 @@ If the privacy policy is changed, Etsy will post changes so that you are aware o
 **Questions**  
 
 
-If you have questions or suggestions you can contact support@etsy.com or at Etsy Customer Care - Privacy Policy 325 Gold St., 6th Floor Brooklyn, NY 11201 (718) 855 7955.
+If you have questions or suggestions you can contact Etsy's Support Team [via our Help site](http://help.etsy.com/app/ask/) or write to: Etsy Customer Care - Privacy Policy; 55 Washington Street, Suite 512; Brooklyn, NY 11201; telephone: (718) 855-7955.
