@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626180432id_/http%3A//producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the producerloops.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521065351id_/http%3A//www.producerloops.com/privacy-policy-and-legal-statement.html) for the most accurate reproduction.*
 
 # Privacy Policy and Legal Statement - Producer Loops
 
@@ -46,15 +46,6 @@ Some of our product data (the information you see) is managed by third parties, 
 
 If we believe that your use of the site is unlawful or damaging to others, we reserve the right to disclose the information we have obtained through the site about you to the extent that it is reasonably necessary in our opinion to prevent, remedy or take action in relation to such conduct.  
   
-ProducerLoops.com is Launched. Inspiration Sounds welcome you to their new website for producers looking to download a wide variety of Pro Audio resources, including Sample CDs, MIDI Files, Virtual Instruments, Plug-ins and much more.
-
-[Previous news](https://web.archive.org/web/20090626180432id_/http%3A//producerloops.com/news.php)
-
 Download 300MB of Samples, Loops & Reason Refills for FREE when you sign up to our Weekly Newsletter:
 
 0845 094 3077
-
-  
-  
-  
-
