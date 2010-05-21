@@ -1,40 +1,99 @@
-<!--The following is the downloaded HTML source of the homeagain.com privacy policy that was archived on 2009-04-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090423033855id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the homeagain.com privacy policy that was archived on 2010-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100521234945id_/http%3A//public.homeagain.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<title>HomeAgain® - Always looking out for your pet</title>
+	<title>Privacy Policy | Home Again Pet ID System</title>
+	<meta name="”ROBOTS”" content="”NOINDEX," follow”="">
 	<link type="text/css" href="style.css" rel="Stylesheet">
 	<script src="popwindows.js" type="text/javascript"></script>
 </head>
 <body class="subpage">
 	<div id="outercontainer">
 		<div id="logonav">
-			<a href="index.html"><h1 id="logo"><span>HomeAgain® - Always looking out for your pet</span></h1></a>
-			<div id="toprightlinks">
-				<div class="inner">
-					<a href="https://dev.homeagainpets.com/homeagain/login.do?vet" id="forvets"><span class="noCSS">For Vets</span></a><span class="divider">&nbsp;|&nbsp;</span><a href="https://dev.homeagainpets.com/homeagain/login.do?shelter" id="forshelters"><span class="noCSS">For Shelters</span></a>
-					<span class="noCSS">&nbsp;|&nbsp;</span><a href="javascript:pop_medemergency()" id="pet-med-emerg"><span class="noCSS">Pet Medical Emergency</span></a>
-					<span class="noCSS">&nbsp;|&nbsp;</span><a href="javascript:pop_reportlost()" id="report-lostpet"><span class="noCSS">Report a Lost Pet</span></a>
-				</div>
-			<div style="clear:both;"></div>
-			</div>
-			<div style="clear:both;"></div>
-			 <div id="nav">
-				<ul>
-					<li id="home"><a class="selected" href="index.html"><span>Home</span></a></li>
-					<li id="ourservices"><a href="ourservices.html"><span>Our Services</span></a></li>
-					<li id="howworks"><a href="howworks_twoways.html"><span>How It Works</span></a></li>
-					<li id="reunion"><a href="http://www.homeagainpet.com/recoverystories.html"><span>Reunion Stories</span></a></li>
-					<li id="petrescue"><a href="https://dev.homeagainpets.com/homeagain/petRescuerSignup.do"><span>PetRescuers</span></a></li>
-					<li id="faqs"><a href="faq.html"><span>FAQs</span></a></li>
-				</ul>
-			</div> 
-			<!-- end nav -->
-			<div style="clear:both;"></div>
+	<a href="/index.html"><div id="logo"><span>HomeAgain® - Always looking out for your pet</span></div></a>
+	<div id="toprightlinks">
+		<div class="inner">
+			<a href="http://microchip.homeagain.com" id="forvets"><span class="noCSS">For Vets</span></a><span class="divider">&nbsp;|&nbsp;</span><a href="http://microchip.homeagain.com" id="forshelters"><span class="noCSS">For Shelters</span></a>
+			<span class="noCSS">&nbsp;|&nbsp;</span><a href="javascript:pop_medemergency()" id="pet-med-emerg"><span class="noCSS">Pet Medical Emergency</span></a>
+			<span class="noCSS">&nbsp;|&nbsp;</span><a href="javascript:pop_reportlost()" id="report-lostpet"><span class="noCSS">Report a Lost Pet</span></a>
+		</div>
+	    <div style="clear:both;"></div>
+	</div>
+	<div style="clear:both;"></div>
+<div id="nav">
+  <ul>
+    <li id="home">
+      <a id="homelink" class="" href="/index.html">
+        <span>Home</span>
+      </a>
+    </li>
+    <li id="ourservices">
+      <a id="ourserviceslink" class="" href="/membership-services.html">
+        <span>Our Services</span>
+      </a>
+    </li>
+    <li id="howworks">
+      <a id="howworkslink" class="" href="/how-pet-microchipping-works.html">
+        <span>How It Works</span>
+      </a>
+    </li>
+    <li id="reunion">
+      <a id="reunionlink" class="" href="http://foundpets.homeagain.com/reunion-stories.aspx">
+        <span>Found Pet Stories</span>
+      </a>
+    </li>
+    <li id="petrescue">
+      <a id="petrescuelink" class="" href="https://www.homeagain.com/homeagain/petRescuerSignup.do">
+        <span>PetRescuers</span>
+      </a>
+    </li>
+    <li id="faqs">
+      <a id="faqslink" class="" href="/faq.html">
+        <span>FAQs</span>
+      </a>
+    </li>
+  </ul>
+  <script type="text/javascript">
+
+    var pathinfo = window.location.pathname;
+    pathinfo = pathinfo.toLowerCase();
+
+    if((pathinfo.indexOf('index') !=-1) || (pathinfo.length == 1))
+    {
+    document.getElementById('homelink').className = 'selected';
+    }
+
+    else if((pathinfo.indexOf('membership-services') !=-1) || (pathinfo.indexOf('national-pet-recovery') != -1) || (pathinfo.indexOf('lost-pet-specialists') != -1) || (pathinfo.indexOf('rapid-lost-pet-alerts') != -1) || (pathinfo.indexOf('medical-insurance') != -1) || (pathinfo.indexOf('emergency-medical') != -1) || (pathinfo.indexOf('travel-assistance') != -1) || (pathinfo.indexOf('vetsearch') != -1))
+    {
+    document.getElementById('ourserviceslink').className = 'selected';
+    }
+
+    else if(pathinfo.indexOf('how-microchipping-works') !=-1)
+    {
+    document.getElementById('howworkslink').className = 'selected';
+    }
+
+    else if((pathinfo.indexOf('stories-home') != -1) || (pathinfo.indexOf('story-archive') != -1) || (pathinfo.indexOf('stories-search') != -1) || (pathinfo.indexOf('story-watch') != -1) || (pathinfo.indexOf('share-story') != -1))
+    {
+    document.getElementById('reunionlink').className = 'selected';
+    }
+
+    else if(pathinfo.indexOf('pet-rescue') !=-1)
+    {
+    document.getElementById('petrescuelink').className = 'selected';
+    }
+
+    else if(pathinfo.indexOf('faq') !=-1)
+    {
+    document.getElementById('faqslink').className = 'selected';
+    }
+  </script>
+</div>
+<div style="clear:both;"></div>
 		</div>
 		<!-- end logonav -->
 		<div id="main">
-		  <div id="leftcol">
+			<div id="leftcol">
 			
 			<div id="subpage-mast_privacy"><h2>HomeAgain Online Privacy Notice</h2></div>
 
@@ -67,14 +126,14 @@
     </li>
 </ul>
 <p><strong><u>Use  of Cookies and Other Technologies To Collect Information On Our Web Site</u>. </strong>Our Web site will  automatically collect information from or about your computer when you visit,  such as your browser type, the Web site you came from (known as the referring  URL), the time and date of your access, and your Internet Protocol address.</p>
-
+ 
   <p>We also collect information through cookies and other technologies to help us keep track of your interactions with our Web site.  If you have shared Personal Information, such as an e-mail address or username, we will include a portion of this information in a cookie so that we can recognize you and remember your selections when you return to our Web site.  Please note that your Web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent.</p>
-
-<p></p>
+<!-- </li> -->
+<!-- </p> -->
   <p>We also also will use standard Internet technology, such as Internet tags (also known as Web beacons, action tags, or GIFs) in combination with cookies at our Web site and will deploy these tags through an advertising company.  These tags are placed on both online advertisements that bring users to our Web site and on different pages within our Web site.  We use this technology to measure visitors' responses to our Web site and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted).  Please be assured that we do not collect or seek through these tags or cookies any Personal Information about our visitors.</p>
  <p>Cookies or Internet tags may also be used within certain promotional e-mail communications or in conjunction with such communications sent by us or our business partners for the purpose of tracking whether a promotion was viewed by the e-mail recipient or someone the e-mail was referred to.  These cookies or Internet tags are not linked to your Personal Information.</p>
-
-<p></p>
+<!-- </li> -->
+<!-- </p> -->
 <p><strong><u>Uses of Information</u></strong><strong>.</strong>&nbsp; We will use the Personal Information and  other information we collect to:</p>
 <ul>
   <li>
@@ -129,49 +188,83 @@
 <p><strong><u>Changes to this Privacy Notice</u></strong><strong>.</strong>&nbsp; We reserve the right to modify this Privacy  Notice at any time, so please review it frequently.&nbsp; You can determine whether the Notice has  changed by reviewing the date posted at the top. &nbsp;If we make any material changes to this Privacy  Notice, we will post notice of the change on our Web site or notify you in  other ways we deem appropriate to keep you informed of our information  practices. <br>
       </p>
 <p><strong><u>Contact Us</u></strong><strong>.</strong>&nbsp; If you have questions or concerns regarding  this Privacy Notice, you should contact our Privacy Officer at: Global Privacy  Officer, Schering-Plough Corporation, 2000 Galloping Hill Road, Kenilworth, New  Jersey 07033. E-mail: <a href="mailto:privacyoffice@spcorp.com">privacyoffice@spcorp.com</a>.</p>
-<p>If you have comments or questions about the HomeAgain®  Program or trouble accessing your account, please contact us at: Home Again  Customer Service, 300 Connell Drive, Berkeley Heights, NJ 07922.&nbsp; E-mail: <a href="mailto:customerservice@homeagain.com">customerservice@homeagain.com</a>,  or call us at 1-888-HomeAgain (466-3242).
-  <!-- end leftcol -->
-		  </p>
-</div>
+<p>If you have comments or questions about the HomeAgain®  Program or trouble accessing your account, please contact us at: Home Again  Customer Service, 56 Livingston Avenue, SP-R-3, Roseland, NJ 07068 USA.&nbsp; E-mail: <a href="mailto:customerservice@homeagain.com">customerservice@homeagain.com</a>,  or call us at 1-888-HomeAgain (466-3242).</p>
+<p>&nbsp;</p>
+
+			</div>
+			<!-- end leftcol -->
 			<div id="rightcol">
 			
 				<div id="rightcol-boxyellow">
 					<div class="inner">
-						<div id="mast_readytoenroll"><h3>Ready to enroll?</h3></div>
+						<div id="mast_readytoenroll"><h3>Ready to Enroll?</h3></div>
 						<div class="text">If your pet is microchipped but you have not enrolled, your pet is not fully protected!</div>
-						<a href="http://dev.homeagainpets.com/homeagain/enhancedConsumerEnrollmentEmailEntry.do"><div id="btn_enroll-today"><span>Enroll Today</span></div></a>
+						<a href="http://www.homeagain.com/homeagain/enhancedConsumerEnrollmentEmailEntry.do"><div id="btn_enroll-now"><span>Enroll Now</span></div></a>
 						<div class="divider"></div>
 						<div id="mast_readymicrochip"><h3>Ready to microchip?</h3></div>
-						<a href="http://dev.homeagainpets.com/homeagain/vetSearch.do"><div id="btn_sub-findavet"><span>Find a Vet</span></div></a>
+						<a href="http://www.homeagain.com/homeagain/vetSearch.do"><div id="btn_sub-findavet"><span>Ready to Microchip?</span></div></a>
 					</div>
 				</div>
-                    <!-- end rightcol-boxyellow -->
-                                    
-                    <div id="rightcol-promobox">
-                        <div class="inner">
-                        <a href="http://bringpetshome.com"><div id="mast_promobox_bph"></div></a>
-                    </div>
-                    </div>
-                                
-                    <!-- end rightcol-promobox -->
+				<!-- end rightcol-boxyellow -->
+				
+				<div id="rightcol-promobox">
+					<div class="inner">
+					    <a href="http://www.homeagain.com/homeagain/petRescuerSignup.do"><div id="mast_promobox_petrescue"><span class="noCSS">Sign up to receive emails about lost pets in your area.  HomeAgain® PetRescuers - <strong>SIGN UP NOW!</strong></span></div></a>
+				    </div>
+				</div>
+				<!-- end rightcol-promobox -->
 				
 			</div>
 			<!-- end rightcol -->
 			<div style="clear:both;"></div>
 		</div>
 		<!-- end main -->
-		
-		<div id="footer">
-			<ul>
-				<li class="first"><a href="copyright.html">Copyright</a></li> 
-				<li><a href="terms.html">Terms and Conditions</a></li>   
-				<li><a href="contact.html">Contact</a></li> 
-				<li><a href="press.html">Press Room</a></li>  
-				<li><a href="promotional.html">Promotional Materials</a></li>  
-				<li class="last"><a href="privacy.html">Privacy Policy (Updated)</a></li> 
-			</ul>
-		</div>
-		<!-- end footer -->
+
+<div id="footer">
+  <ul>
+    <li class="first">
+      <a href="/contact.html">Contact</a>
+    </li>
+    <li>
+      <a href="/promotional.html">Promotional Materials</a>
+    </li>
+    <li>
+      <a href="/Site-Map.html">Site Map</a>
+    </li>
+    <li>
+      <a href="/copyright.html">Copyright</a>
+    </li>
+    <li>
+      <a href="/terms.html">Terms and Conditions</a>
+    </li>
+    <li>
+      <a href="/privacy.html">Privacy Policy</a>
+    </li>
+    <li>
+      <a href="/partners.html">Partners</a>
+    </li>
+    <li class="last">
+      <a href="/press.html">Press Room</a>
+    </li>
+
+  </ul>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+   var pageTracker = _gat._getTracker("UA-3864925-19");
+   pageTracker._setDomainName(".homeagain.com");
+   pageTracker._trackPageview();
+   var secondTracker = _gat._getTracker("UA-3864925-11");
+   secondTracker._setDomainName(".homeagain.com");
+   secondTracker._trackPageview();
+} catch(err){}
+</script>
+
+</div>
 		
 	</div>
 	<!-- end outercontainer -->
