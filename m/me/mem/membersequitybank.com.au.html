@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the membersequitybank.com.au privacy policy that was archived on 2009-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106001759id_/http%3A//membersequitybank.com.au/legal/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the membersequitybank.com.au privacy policy that was archived on 2010-05-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100521051451id_/http%3A//www.membersequitybank.com.au/legal/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -13,29 +13,70 @@
 		
 		<meta name="keywords" content="Privacy Policy, privacy, Members Equity, ME, Internet Banking">
 		
-		<link href="/styles/layout.css" rel="stylesheet" type="text/css" media="all">
-		<link href="/styles/nav.css" rel="stylesheet" type="text/css" media="screen">
-		<link href="/styles/typo.css" rel="stylesheet" type="text/css" media="all">
-		<link href="/styles/forms.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/styles2/layout.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/styles2/nav.css" rel="stylesheet" type="text/css" media="screen">
+		<link href="/styles2/typo.css" rel="stylesheet" type="text/css" media="all">
+		<link href="/styles2/forms.css" rel="stylesheet" type="text/css" media="all">		
+		
 		
 		<!--[if IE 6]>
-		<link href="/styles/ie6.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/styles2/ie6.css" rel="stylesheet" type="text/css" media="all" />
 		<![endif]-->
 		<!--[if IE 7]>
-		<link href="/styles/ie7.css" rel="stylesheet" type="text/css" media="all" />
+		<link href="/styles2/ie7.css" rel="stylesheet" type="text/css" media="all" />
 		<![endif]-->
-		<link href="/styles/print.css" rel="stylesheet" type="text/css" media="print">
+		<link href="/styles2/print.css" rel="stylesheet" type="text/css" media="print">
 		
 		<script type="text/javascript" src="/scripts/DIY-switch.js"></script>
 		<script type="text/javascript" src="/scripts/DIYBanking.js"></script>
-		<script type="text/javascript" src="/scripts/stdFuncs.js"></script>
+		<script type="text/javascript" src="/scripts/stdFuncs.js"></script>			
 		<!-- Google Analytics: tracking code must go above enhance.js -->
 		<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 		<script type="text/javascript">var pageTracker = _gat._getTracker("UA-3785619-1"); pageTracker._initData(); pageTracker._trackPageview();</script>
 		<script type="text/javascript" src="/scripts/mootools.js"></script><script type="text/javascript" src="/scripts/enhance.js"></script>
-</head>
+		<script type="text/javascript" src="/adPages/scripts/MEIB_Ads.js"></script>
+		
+		<!-- script works with the included script above 'MEIB_Ads.js' -->
+		<script type="text/javascript">
+		window.addEvent('domready', function() {
+		this.ibads = new MEIB_Ads([			
+<!--			{                                 -->
+<!--				id: 'FHSA_20100304',            -->
+<!--				url: '/adPages/1/fhsa.html',    -->
+<!--				expires: '12/31/2010'           -->
+<!--			},                                -->
+			{
+				id: 'YourBank_20100412',
+				url: '/adPages/2/your_bank.html',
+				expires: '12/31/2099'
+			},
+			{
+				id: 'SuperTD_20100412',
+				url: '/adPages/3/super_td.html',
+				expires: '12/31/2010'
+			},
+			{
+				id: 'MDC_20100505',
+				url: '/adPages/4/MDC.html',
+				expires: '05/10/2010'
+			}
+		]);
+		
+		var loginButton = $('ib_login').addEvent('click',function(e) {
+			new Event(e).stop();
+			goLogin();
+			ibads.openAd();
+		}).set('href','#');
+		
+		});
+		</script>
+		</head>
 <body id="top" onload="checkCookie();">
 <div id="header">
+<img class="spacer" src="/images/blank.gif" alt=""><img class="bottom-left" src="/images/nav/header_bottom_left.png" alt=""><img class="bottom-right" src="/images/nav/header_bottom_right.png" alt=""><h1 title="ME Bank">
+<a href="/">ME Bank</a>
+</h1>
+<p class="hide">The new face of Members Equity</p>
 <div id="ancillary">
 <ul>
 <li class="first">
@@ -57,15 +98,12 @@
 <a href="/contact/locate.html">Locate<abbr title="ME Bank">ME</abbr></a>
 </li>
 </ul>
-<p class="call-back">
-<span class="call">Call ME Bank on <strong>13 15 63</strong> / </span><a href="/contact/call_back.html#call_back_personal" class="request">Request a call back »</a>
+<p class="call">Call ME Bank on 13 15 63</p>
+<p class="request">
+<a href="/contact/call_back.html#call_back_personal" onclick="javascript: pageTracker._trackPageview('/callback');">Request a call back &gt;</a>
 </p>
 </div>
-<div id="nav_top">
-<h1 title="ME Bank">
-<a href="/">ME Bank</a>
-</h1>
-<p class="hide">The new face of Members Equity</p><hr><div id="nav_main">
+<div id="nav_main">
 <ul>
 <li id="nav_personal">
 <a href="/personal/" title="Personal">Personal</a>
@@ -77,17 +115,12 @@
 <a href="/investments_and_financial_planning/" title="Industry Fund Financial Planning">Investments &amp; Financial Planning</a>
 </li>
 <li id="nav_banking">
-<span class="label">Internet Banking</span><a href="javascript:goLogin();" class="login" title="ME Bank - Internet Banking" id="ib_login"><span>Log in »</span><img src="/images/blank.gif" alt="Log in »"></a><a href="/internet_banking/" class="info"><span>More info »</span><img src="/images/blank.gif" alt="More info »"></a>
+<span class="label">Internet Banking</span><a href="javascript:goLogin();" id="ib_login" class="login" title="ME Bank Internet Banking Login"><span>Log in »</span><img src="/images/blank.gif" alt="Log in »"></a><a href="/internet_banking/" class="info"><span>More info »</span><img src="/images/blank.gif" alt="More info »"></a>
 </li>
 </ul>
 </div>
 </div>
-</div>
-			
-			<hr><!-- ================================================================= -->
-			<div class="divider"><img src="/images/corners/content-top.gif" alt=""></div>
-			
-			<div id="content" class="two-cols">
+<div id="content" class="two-cols">
 <div id="main">
 <div id="copy">
 <h1>About Privacy</h1>
@@ -100,7 +133,7 @@
         <a href="/internet_banking/security.html">Internet Banking security information page</a>
         .</p>
 <p>Please be aware that whenever you voluntarily disclose personal information over the Internet (for example: in discussion forums, via e-mail, or in chat sites) that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your Customer ID and Access Code and/or any account information. Please be careful and responsible whenever you are using the Internet and our website.</p>
-<p>If you have any concerns or questions, please call 1300 654 990 for the cost of a local call anywhere in Australia.</p>
+<p>If you have any concerns or questions, please call 1300 654 998 for the cost of a local call anywhere in Australia.</p>
 <p>We will apply our privacy compliance procedures (which are based on privacy legislation and the Federal Privacy Commissioner's National Principles for the Fair Handling of Personal Information), in relation to any personal information which we gather in the course of carrying on our business. We regard all the personal information we have collected from and about you as being equally sensitive and undertake to treat it all in accordance with the principles set out in this Privacy Policy.</p>
 <h2>Collection of Information</h2>
 <h4>We will:</h4>
@@ -322,8 +355,8 @@
 </fieldset>
 </form>
 <div class="quick-links">
-<h2>Contact <abbr title="ME Bank">ME</abbr>
-</h2>
+<h3>Contact <abbr title="ME Bank">ME</abbr>
+</h3>
 <dl class="collapser">
 <dt class="toggle">Product Enquiries</dt>
 <dd style="display: none;">
@@ -544,260 +577,4 @@
 
 
 <div class="tips" style="visibility: hidden; zoom: 1; opacity: 0;"><div class="top"></div><div class="content">The Privacy Officer - ME Bank <br>GPO 1345, Melbourne 3001 <br>
-<strong>or</strong> call us on 1300 654 998</div><div class="btm"></div></div><div style="width: 900px; position: absolute; left: -9999px; top: 0px; visibility: hidden;"><form name="callback_personal" action="/web/20080912105852/http://www.membersequitybank.com.au/mailer/mailHandler.jsp" method="post" id="call_back_personal">
-        
-<input type="hidden" name="item" value="three">
-        <input type="hidden" name="f00section" id="cb_pb_section" value="personal">
-        
-<fieldset>
-          
-<p class="instruction">
-            
-<sup class="required">*</sup>
-            indicates required field</p>
-          
-<legend>Personal - Request a Call Back</legend>
-          
-<ol>
-            
-<li class="clearfix">
-              
-<label><sup class="required">*</sup>Name</label>
-              <span class="fauxset">
-                <span class="field-wrapper tiny">
-                  <label for="cb_pb_title"><sup class="required">*</sup>Title</label>
-                  <select class="tiny required" id="cb_pb_title" name="f01title">
-                    <option selected=""></option>
-                    <option>Mr</option>
-                    <option>Mrs</option>
-                    <option>Ms</option>
-                    <option>Miss</option>
-                    <option>Dr</option>
-                    <option>Other</option>
-                  </select>
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_pb_firstname"><sup class="required">*</sup>First name</label>
-                  <input class="small required" id="cb_pb_firstname" name="f02firstname" size="20" type="text">
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_pb_surname"><sup class="required">*</sup>Surname</label>
-                  <input class="small required" id="cb_pb_surname" name="f03surname" size="20" type="text">
-                </span>
-              </span>
-            
-</li>
-            
-<li>
-              
-<label for="cb_pb_email"><sup class="required">*</sup>Email</label>
-              <input class="required" id="cb_pb_email" name="f04email" size="20" type="text">
-            
-</li>
-            
-<li>
-              
-<label for="cb_pb_phone"><sup class="required">*</sup>Phone</label>
-              <input id="cb_pb_phone" name="f05phone" size="20" type="text">
-            
-</li>
-            
-<li>
-              
-<label for="cb_pb_postcode"><sup class="required">*</sup>Postcode</label>
-              <input id="cb_pb_postcode" name="f06postcode" size="20" maxlength="4" type="text">
-            
-</li>
-            
-<li class="clearfix">
-              
-<label>Prefered contact time</label>
-              <span class="fauxset">
-                <span class="field-wrapper small">
-                  <label for="cb_pb_day">Day</label>
-                  <select class="small" id="cb_pb_day" name="f07day">
-                    <option></option>
-                    <option>Monday</option>
-                    <option>Tuesday</option>
-                    <option>Wednesday</option>
-                    <option>Thursday</option>
-                    <option>Friday</option>
-                  </select>
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_pb_time">Time</label>
-                  <select class="small" id="cb_pb_time" name="f08time">
-                    <option></option>
-                    <option>8am - 12pm</option>
-                    <option>12pm - 4pm</option>
-                    <option>4pm - 8pm</option>
-                  </select>
-                </span>
-              </span>
-            
-</li>
-            
-<li>
-              
-<label>Interest</label>
-              <span class="fauxset">
-                <small>Which Personal products are you interested in?</small>
-                <span class="radio-group">
-                  <label>
-                    <input name="f09interest_1" type="checkbox" value="Home Loans">
-                    Home Loans</label>
-                  <label>
-                    <input name="f10interest_2" type="checkbox" value="Personal Loans">
-                    Personal Loans</label>
-                  <label>
-                    <input name="f11interest_3" type="checkbox" value="Credit Cards">
-                    Credit Cards</label>
-                  <label>
-                    <input name="f12interest_4" type="checkbox" value="Savings Accounts or Term Deposits">
-                    Savings Accounts or Term Deposits</label>
-                </span>
-              </span>
-            
-</li>
-          
-</ol>
-        
-</fieldset>
-        
-<div class="button-wrapper">
-          
-<button class="submit" id="cb_pb_submit" type="submit">Submit</button>
-        
-</div>
-      
-</form><form name="callback_business" action="/web/20080912105852/http://www.membersequitybank.com.au/mailer/mailHandler.jsp" method="post" id="call_back_business">
-        
-<input type="hidden" name="item" id="item" value="three">
-        <input type="hidden" name="f00section" id="cb_bb_section" value="business">
-	
-<fieldset>
-          
-<p class="instruction">
-            
-<sup class="required">*</sup>
-            indicates required field</p>
-          
-<legend>Business - Request a Call Back</legend>
-          
-<ol>
-            
-<li class="clearfix">
-              
-<label>
-                <sup class="required">*</sup>
-                Name</label>
-              <span class="fauxset">
-                <span class="field-wrapper tiny">
-                  <label for="cb_bb_title"><sup class="required">*</sup>Title</label>
-                  <select class="tiny required" id="cb_bb_title" name="f01title">
-                    <option selected=""></option>
-                    <option>Mr</option>
-                    <option>Mrs</option>
-                    <option>Ms</option>
-                    <option>Miss</option>
-                    <option>Dr</option>
-                    <option>Other</option>
-                  </select>
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_bb_firstname"><sup class="required">*</sup>First name</label>
-                  <input class="small required" id="cb_bb_firstname" name="f02firstname" size="20" type="text">
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_bb_surname"><sup class="required">*</sup>Surname</label>
-                  <input class="small required" id="cb_bb_surname" name="f03surname" size="20" type="text">
-                </span>
-              </span>
-            
-</li>
-            
-<li>
-              
-<label for="cb_bb_email"><sup class="required">*</sup>Email</label>
-              <input class="required" id="cb_bb_email" name="f04email" size="20" type="text">
-            
-</li>
-            
-<li>
-              
-<label for="cb_bb_phone"><sup class="required">*</sup>Phone</label>
-              <input id="cb_bb_phone" name="f05phone" size="20" type="text">
-            
-</li>
-            
-<li>
-              
-<label for="cb_bb_postcode"><sup class="required">*</sup>Postcode</label>
-              <input id="cb_bb_postcode" name="f06postcode" size="20" maxlength="4" type="text">
-            
-</li>
-            
-<li class="clearfix">
-              
-<label>Prefered contact time</label>
-              <span class="fauxset">
-                <span class="field-wrapper small">
-                  <label for="cb_bb_day">Day</label>
-                  <select class="small" id="cb_bb_day" name="f07day">
-                    <option></option>
-                    <option>Monday</option>
-                    <option>Tuesday</option>
-                    <option>Wednesday</option>
-                    <option>Thursday</option>
-                    <option>Friday</option>
-                  </select>
-                </span>
-                <span class="field-wrapper small">
-                  <label for="cb_bb_time">Time</label>
-                  <select class="small" id="cb_bb_time" name="f08time">
-                    <option></option>
-                    <option>8am - 10am</option>
-                    <option>10am - 12pm</option>
-                    <option>12pm - 2pm</option>
-                    <option>2pm - 4pm</option>
-                    <option>4pm - 6pm</option>
-                  </select>
-                </span>
-              </span>
-            
-</li>
-            
-<li>
-              
-<label>Interest</label>
-              <span class="fauxset">
-                <small>Which Business products are you interested in?</small>
-                <span class="radio-group">
-                  <label>
-                    <input name="f09interest_1" type="checkbox" value="Business Lending">
-                    Business Lending</label>
-                  <label>
-                    <input name="f10interest_2" type="checkbox" value="Asset Finance">
-                    Asset Finance</label>
-                  <label>
-                    <input name="f11interest_3" type="checkbox" value="Development and Construction">
-                    Development and Construction</label>
-                  <label>
-                    <input name="f12interest_4" type="checkbox" value="Business Deposits">
-                    Business Deposits</label>
-                </span>
-              </span>
-            
-</li>
-          
-</ol>
-        
-</fieldset>
-        
-<div class="button-wrapper">
-          
-<button class="submit" id="cb_bb_submit" type="submit">Submit</button>
-        
-</div>
-      
-</form></div></body></html>
+<strong>or</strong> call us on 1300 654 998</div><div class="btm"></div></div></body></html>
