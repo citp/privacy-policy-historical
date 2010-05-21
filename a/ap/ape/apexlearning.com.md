@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231232351id_/http%3A//www.apexlearning.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexlearning.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521083946id_/http%3A//www.apexlearning.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Apex Learning | Privacy Policy
 
@@ -74,7 +74,7 @@ Apex Learning provides notice of its Privacy Policy to your school and any Spons
 
 ### Non-personal User Information
 
-An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Apex Learning websites, our servers log your computer's IP address. Apex Learning collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Apex Learning websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Apex Learning; (2) protect and defend the rights or property of Apex Learning; (3) protect the personal safety of other Apex Learning websites users or the public; or (4) to ensure compliance with our Terms of Use, including the [Terms of Use for the Apex Learning Corporate Websites](http://apexlearning.com/Terms_of_Use.htm) and the [Terms of Use for the Apex Learning Customer Websites](http://apexlearning.com/Terms_of_Use_Customer_Websites.htm).
+An IP address is a number that is automatically assigned to your computer whenever you're surfing the Internet. When you request pages from Apex Learning websites, our servers log your computer's IP address. Apex Learning collects these IP addresses for the sole purpose of identifying our users' service providers (whether AOL, MSN, etc.) so we can better develop our offerings at the Apex Learning websites. We do not automatically link IP addresses to anything personally identifiable, however we can and will use IP addresses to identify users when we feel it is necessary to: (1) comply with the law or comply with legal process served on Apex Learning; (2) protect and defend the rights or property of Apex Learning; (3) protect the personal safety of other Apex Learning websites users or the public; or (4) to ensure compliance with our Terms of Use, including the [Terms of Use for the Apex Learning Corporate Websites](http://www.apexlearning.com/Terms_of_Use.htm) and the [Terms of Use for the Apex Learning Customer Websites](http://www.apexlearning.com/Terms_of_Use_Customer_Websites.htm).
 
 ### Cookies
 
@@ -121,4 +121,4 @@ _No Guarantee of Security_. No data transmission over the Internet is guaranteed
 If you have questions or concerns regarding this Privacy Policy, please contact our support department at: Apex Learning Inc. 1215 Fourth Ave., Suite 1500 Seattle, WA 98161 or via email at: [support@apexlearning.com](mailto:support@apexlearning.com). In the U.S. you may also call us toll-free at: 1 (800) 453-1454.   
 
 
-Copyright © 2009 Apex Learning Inc. Apex Learning®, the Apex Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage™, and Beyond Books® are either registered trademarks or trademarks of Apex Learning Inc. 
+Copyright © 2010 Apex Learning Inc. Apex Learning®, the Apex Learning logo, ClassTools®, ClassTools Achieve®, ClassTools Virtual™, Literacy Advantage™, and Beyond Books® are either registered trademarks or trademarks of Apex Learning Inc. 
