@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102161500id_/http%3A//www.dotwnews.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotwnews.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521171917id_/http%3A//www.dotwnews.com/Home/tabid/36/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
-# Destinations of the World News > Home
+# Destinations of the World News > Host > Extensions
 
 Destinations of the World News is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Destinations of the World News Web site and governs data collection and usage. By using the Destinations of the World News website, you consent to the data practices described in this statement.
 
