@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227211735id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3schools.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002702id_/http%3A//www.w3schools.com/about/about_privacy.asp) for the most accurate reproduction.*
 
 # About Privacy
 
@@ -59,30 +59,37 @@ For any questions about this privacy statement, please contact:
 
 * * *
 
+## [ Free Online Website Builder - No Downloading Needed](http://www.wix.com/start/matrix/?utm_campaign=w3&experiment_id=ma_w500)
+
+Create a free Flash website with our simple, online web design editing platform. Stunning templates and user-friendly tools make website building easy and fun.
+
+[ Start Creating your free website now!](http://www.wix.com/start/matrix/?utm_campaign=w3&experiment_id=ma_w500)
+
 * * *
 
-## [ Altova® XMLSpy® - The industry-leading XML editor!](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+## [ Altova® MissionKit® - Integrated Suite of XML Tools](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
 
-[ ](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+[ ](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
 
-Whether you're new to XML or already an advanced user, the user-friendly views and powerful entry helpers, wizards, and debuggers in XMLSpy are designed to meet your XML and Web development needs from start to finish. [**New features in Version 2010!**](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)
+The Altova MissionKit is an integrated suite of tools ideal for:
 
-  * XML editor 
-  * Graphical XML Schema / DTD editors 
-  * XSLT 1.0/2.0 editor, debugger, profiler 
-  * XQuery editor, debugger, profiler 
-  * XBRL validator, taxonomy editor, taxonomy wizard
-  * Support for Office Open XML (OOXML) 
-  * Graphical WSDL 1.1/2.0 editor & SOAP debugger
-  * JSON editing & conversion
-  * Java, C#, C++ code generation
-  * And much more! 
+  * XML development
+  * Web & Web services development
+  * Data mapping & integration
+  * Rendering & publishing XML & database data
+  * XBRL validation, taxonomy editing, transformation & rendering
 
 
 
-**[Download a free trial today!](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)**
+The MissionKit for XML Developers includes XMLSpy® - the industry-leading XML editor; MapForce® - a graphical data mapping, conversion, and integration tool; StyleVision® - a visual XSLT stylesheet designer; DiffDog® - an XML-aware diff/merge tool; and 2 additional tools.
 
-|   |  [ ](http://www.altova.com/ref/?s=w3s_spotlight&q=xmlspy)  
+Try all 6 products free for 30 days!
+
+[ **Download a fully-functional free trial**](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)
+
+|   |  [ ](http://www.altova.com/ref/?s=w3s_spotlight&q=missionkitxml)  
 ---|---|---  
   
+* * *
+
 * * *
