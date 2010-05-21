@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827222325id_/http%3A//vimeo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vimeo.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522003256id_/http%3A//www.vimeo.com/privacy) for the most accurate reproduction.*
 
 # Vimeo.com Privacy Policy
 
@@ -93,4 +93,4 @@ If you have any questions about this summary, our Privacy Policy, or our informa
 >  ATTN: Privacy Officer/Legal Dept.  
 >  [privacy@vimeo.com](mailto:privacy@vimeo.com)
 
-©2009 Vimeo, LLC. All rights reserved.
+©2010 Vimeo, LLC. All rights reserved.
