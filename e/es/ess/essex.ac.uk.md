@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307060421id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essex.ac.uk privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521040048id_/http%3A//www.essex.ac.uk/site/privacy_policy.aspx) for the most accurate reproduction.*
 
 # University of Essex :: Website privacy policy
+
+This statement explains what information we gather when you visit the University of Essex website and informs you how this information is used and protected.  privacy, policy 
 
 ## What is this statement and what does it cover?
 
@@ -8,7 +10,7 @@ This statement explains what information we gather when you visit the University
 
 This privacy policy, and the ways in which personal data may be gathered and processed via this website, are subject to review and development and any such changes will only be notified by this page.
 
-**This policy was last reviewed on 03 March 2009.**
+**This policy was last reviewed on 07 April 2010.**
 
 ## What data is collected?
 
@@ -22,6 +24,8 @@ It is standard practice for webservers to collect data automatically about all r
 * search terms and search results
 * the domain from which your request originated
 * your username, if you have authenticated with the webserver
+
+This information is also gathered by Google Analytics to provide web traffic reporting for the University.
 
 If you visit our pages via a proxy server, some of the logged data will be obscured; for instance, the IP address collected will be that of the proxy server rather than that of your computer. 
 
@@ -41,14 +45,15 @@ Specialist applications, including the myEssex portals and e-learning tools, suc
 
 ## What do we do with the data?
 
-Data relating to webserver requests is used for completion of the current activity (eg a request to view a web page), and are subsequently stored in log files, which are subsequently processed to provide statistical information about usage, load on servers, traffic patterns, troubleshooting, incident investigation, etc. Analysis of web usage may be used for: systems and performance monitoring; research; marketing (eg analysis of demographic information and user behaviour). Information gathered by specialist applications such as e-learning tools and portals will be used to support the function and management of those applications. Information gathered will not be used to contact users, except where consent has been explicitly given or where security incidents are under investigation.
+Data relating to webserver requests are used for completion of the current activity (eg a request to view a web page), and are subsequently stored in log files, which are later processed to provide statistical information about usage, load on servers, traffic patterns, troubleshooting, incident investigation, etc. These data are also recorded by Google Analytics which is used by the University to report on web traffic on its sites. Analysis of web usage may be used for: systems and performance monitoring; research; marketing (eg analysis of demographic information and user behaviour). Information gathered by specialist applications such as e-learning tools and portals will be used to support the function and management of those applications. Information gathered will not be used to contact users, except where consent has been explicitly given or where security incidents are under investigation.
 
 ## Do we share the data?
 
-Personal data will not be passed on to third parties and will remain confidential, unless explicitly stated (eg if a web form is gathering data to be passed on to an external partner). The three exceptions to this are:
+Personal data will not be passed on to third parties and will remain confidential, unless explicitly stated (eg if a web form is gathering data to be passed on to an external partner). The four exceptions to this are:
 
 * Log files and other data may be analysed by the University's external support providers when investigating faults and other technical issues relating to webserver performance.
-* Data entered by the user for online ordering of certain goods and services is passed to our credit card-processing partner Netbanx together with a unique transaction number when required for the purpose of processing online orders and payments. Such data is also stored by the University in accordance with the Data Protection Act 1998. University web pages do not gather details of your credit or debit card.
+* Many University of Essex web pages include tracking code which allows Google Analytics to record usage and traffic information. These data are held on Google servers, are used for reporting and analysis within the University, and are not shared with any other parties.
+* Data entered by the user for online ordering of certain goods and services are passed to our credit card-processing partner Netbanx together with a unique transaction number when required for the purpose of processing online orders and payments. Such data is also stored by the University in accordance with the Data Protection Act 1998. University web pages do not gather details of your credit or debit card.
 * Data may be passed to the police and other authorities where it is required in the investigation of illegal activities and security breaches.
 
 Where data is passed to third parties, it is done so in compliance with the Data Protection Act 1998.
