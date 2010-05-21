@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919042036id_/http%3A//www.wikia.com/wiki/Wikia%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowwiki.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522002815id_/http%3A//www.wikia.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Wikia:Privacy Policy - Wikis from Wikia - Join the best wiki communities
-
-### Wikia - creating communities
-
-    _Please note that this is the[Central Wikia](https://web.archive.org/wiki/Central_Wikia "Central Wikia"). If you arrived here from another wiki, you will need to press “back” in your browser to return to that wiki._
+# Privacy Policy - Wikis from Wikia - Join the best wiki communities
 
 Date of Last Revision: January 1, 2009 
 
 This policy outlines the information Wikia collects, how we use that information, and how you can control how your information is shared. This policy applies only to Wikia (the “Site” or “Service”) and services that are owned and operated by Wikia, Inc ("the Company"). Please be aware that when you follow a link to another site, this privacy policy does not apply, and Wikia has no control over what information they collect from you. Please further note that in the event that this policy conflicts with our terms of use, the terms of use controls. 
-
-This policy may change from time to time. This policy was last updated on January 1, 2009 
 
 ##  The Information We Collect, And What We Do With It 
 
@@ -29,6 +23,10 @@ If you send a communication to the Company, we may hold onto that communication 
 You are not required to register for an account or to provide any personal information to us in order to use the Service. 
 
 Wikia collects all the information you provide when you modify the content of a page or the Service (such as making edits, uploading images, etc.) An indicator that you provided that information is left on the History tab associated with the edited page or appropriate special/image page; on the Recent Changes link, in the Community box on the left side of the wiki pages, and in your user contributions. 
+
+###  Online behavioral advertising
+
+Wikia may use Online behavioral advertising ("OBA") or multi-site advertising on some wikis. We collect data on the number of pages you visit per day, in order to support frequency capped advertising campaigns for certain advertisers or to improve the ad targeting based on the types of wikis you visit on Wikia. Third parties may also leave a cookie with your browser to track your visits to Wikia. We do not transfer data to third parties. Wikia users may opt out of this on the [NetworkAdvertising.org](http://www.wikia.com/index.php?title=Special:Outbound&f=Privacy_Policy&u=http%3A%2F%2Fwww.networkadvertising.org%2Fmanaging%2Fopt_out.asp "http://www.networkadvertising.org/managing/opt_out.asp") site. 
 
 ###  Sharing Your Information 
 
