@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216230751id_/http%3A//www.serverintellect.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serverintellect.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522014014id_/http%3A//www.serverintellect.com/privacy.aspx) for the most accurate reproduction.*
 
 # Server Intellect Privacy Policy
 
@@ -60,4 +60,4 @@ Orlando, FL 32801
 
 Server Intellect will use commercially reasonable efforts to promptly respond and resolve any problem or question.
 
-Acceptance of the Master Service Agreement incorporating the [Terms of Service](https://web.archive.org/legal/tos.aspx), [Acceptable Use Policy](https://web.archive.org/legal/aup.aspx), [Service Level Agreement](https://web.archive.org/legal/sla.aspx) and [Privacy Agreement](https://web.archive.org/web/20091216230751id_/http%3A//www.serverintellect.com/privacy.aspx) hereby initiates billable services and is deemed complete by agreement to the terms as described on the online signup form(s) and completion of the ordering process. 
+Acceptance of the Master Service Agreement incorporating the [Terms of Service](https://web.archive.org/legal/tos.aspx), [Acceptable Use Policy](https://web.archive.org/legal/aup.aspx), [Service Level Agreement](https://web.archive.org/legal/sla.aspx) and [Privacy Agreement](https://web.archive.org/web/20100522014014id_/http%3A//www.serverintellect.com/privacy.aspx) hereby initiates billable services and is deemed complete by agreement to the terms as described on the online signup form(s) and completion of the ordering process. 
