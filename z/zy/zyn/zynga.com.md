@@ -1,28 +1,23 @@
-> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216201622id_/http%3A//www.zynga.com/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zynga.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522005337id_/http%3A//www.zynga.com/about/privacy-policy.php) for the most accurate reproduction.*
 
-# Zynga Game Network Inc. - Privacy Policy
+# Zynga - Connecting the world through games
 
-﻿
-
-(Last Updated January 7, 2009)
+Effective Date: January 7, 2009  
+(Last Updated March 16, 2010) 
 
 Welcome to Zynga, a personal online service operated by Zynga Game Network Inc. ("Zynga") which consists of, among other things, software that you have downloaded or are about to download, any software that you have embedded on a web site or are about to embed (“Zynga Games”), any applications created by Zynga and available through social networking sites (“SNS Apps”), any software running on Zynga's servers, (“Zynga Software”), content, related documentation, information on the Zynga domain, and information made available by users to each other through the Zynga Software (collectively, the “Service”). Your privacy is important to us and, as described in this Privacy Policy, we have designed the Service to protect information about you from unauthorized disclosure to others. This Privacy Policy explains how we collect, use and, in certain circumstances, share your personally identifying information. Please read this Privacy Policy carefully, and if you have any questions, feel free to contact us.
 
 By using the Service, you consent to the collection and use of your personal information as outlined in this Privacy Policy, as such policy may be amended from time to time. We may update the Privacy Policy and if we do, we will post a notice that changes have been made on the website www.zynga.com. You should visit this page periodically to review any changes to the Privacy Policy.
 
-### What We Collect
+## What We Collect
 
 Zynga gives you a number of options regarding what information you will give us:
 
-When you register a profile with Zynga, your profile including any information (name, address, gender) will be registered with Zynga.
-
-When you identify yourself on a Zynga site, you may identify yourself using a Zynga account.
-
-When you identify yourself on a Zynga site, you may identify yourself through a social network account in which Zynga may receive additional information about your profile.
+When you register a profile with Zynga, your profile including any information (name, address, gender) will be registered with Zynga. When you identify yourself on a Zynga site, you may identify yourself using a Zynga account. When you identify yourself on a Zynga site, you may identify yourself through a social network account in which Zynga may receive additional information about your profile. 
 
 In each case, we will collect and record the information you have provided. Other than names and email addresses provided at your discretion, we don't generally collect any “Personally Identifying Information” about our users (such as social security number, telephone number, street address, drivers license number, etc.), exception being for billing and payments where we store your billing information such as name, street address, phone number. We may offer you the opportunity to submit other information about yourself (such as gender, age, occupation, hobbies, interests, zip code, etc.), or we may be able to collect that information from social networking systems on which you have used Zynga Games or SNS Apps (in accordance with the terms of use of those systems), which would then also be covered by this Privacy Policy.
 
-In addition to information about yourself, you may choose to share information about yourself in other content ("Content"), such as in games. Any action you perform with other players are considered public, and at your own discretion.
+In addition to information about yourself, you may choose to share information about yourself in other content ("Content"), such as in games. Any action you perform with other players are considered public, and at your own discretion. 
 
 When you use an SNS App on your social network page or use an SNS App on someone else's page, we may record information regarding the use of that SNS App, and we may collect other information that is visible on your social network page in accordance with the relevant terms of use associated with that page.
 
@@ -40,21 +35,21 @@ Finally, in order to provide the best possible service and to allow us to make c
 
 By using the Service, you consent to our retaining all the above-described information in anonymous form as long as Zynga sees fit.
 
-### Children Under The Age Of 13
+## Children Under The Age Of 13
 
-Zynga does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Zynga or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Zynga. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at [privacy@zynga.com](mailto:privacy@zynga.com) .
+Zynga does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for Zynga or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Zynga. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at privacy@zynga.com .
 
-### Children Between The Ages of 13 and 18
+## Children Between The Ages of 13 and 18
 
 We recommend that minors over the age of 13 ask their parents for permission before sending any information about themselves to anyone over the Internet.
 
-### How We Use Your Information
+## How We Use Your Information
 
-We do not sell or rent your “Personally Identifiable Information” to any third party. We may, however, use certain information about you that is not personally.
+We do not sell or rent your “Personally Identifiable Information” to any third party. We may, however, use certain information about you that is not personally identifiable.
 
 We use public information collected to determine the kinds of content that you would like to view and to assist any advertisers in targeting their advertising.
 
-We also use your name, email address and other information on our system to notify you of new product releases, service notifications, and to solicit your feedback and input. Those emails will contain an “unsubscribe” link should you ever decide you do not want to receive further emails.
+We also use your name, email address and other information on our system to notify you of new product releases, service notifications, and to solicit your feedback and input. Those emails will contain links for preference management and where appropriate, unsubscribe links should you decide you do not want to receive further emails.
 
 You understand and agree that we may access, preserve, and disclose any information we may have about you and the contents of your account if required to do so by law or in a good faith belief that such access, preservation or disclosure is reasonably necessary to avoid liability, to comply with legal process, such as a search warrant, subpoena, statute, or court order, or to protect our rights and property, or that of our affiliates or the public. Zynga is not required to question or contest the validity of any search warrant, subpoena or other similar governmental request that Zynga receives.
 
@@ -68,46 +63,44 @@ Due to our contractual obligations with these third parties and the need to shar
 
 Zynga, certain of its partners, and each of their contractors and employees may view the Content that you transmit to the service to provide the Service and otherwise perform the tasks set forth in this Privacy Policy.
 
-### Controlling Your Personal Information
+## Controlling Your Personal Information
 
 Be advised that if you send messages or post material containing personal information, that information may be collected and used by others.
 
 You can terminate your account at any time which will remove your profile and other personal information from view. Zynga, however, may (but is not obligated to) keep information about you that is on its system following your termination. Please contact Zynga to terminate your account or for any other questions about your personal information.
 
-### Transfer of Information
+## Transfer of Information
 
 We reserve the right to transfer your personal information in the event of a transfer of ownership of Zynga or the acquisition of substantially all the assets of Zynga related to the business which collected such information, such as acquisition by or merger with another company. In such an event, Zynga will notify users who have provided email addresses when information about those users is transferred and becomes subject to a different privacy policy.
 
-### Others' Information
+## Others' Information
 
 You may decide to provide us with another person's email address so that person may be invited to join Zynga or so that we may facilitate your communication with other people through the Service (such as when you upload an address book).
 
 You may also provide us with another person's contact information for purposes of delivering information through SNS Apps. We use this information to contact and, if necessary, remind that person that he or she has been invited to join Zynga or received content through an SNS App. All invitees are provided with the option not to receive further invitations from Zynga. We may disclose such information if required to do so in order to comply with legal process, as described above.
 
-### Cookies
+## Cookies
 
 The Service sends "cookies" to your computer when you access the Zynga site, or otherwise view content through a Zynga game, or use an SNS App and the Service uses such cookies as described in here. The Service uses cookies to improve the quality of our service, make recommendations, and make the Service easier to use for our users. A cookie is a small text file recorded on your hard drive that identifies you as a unique user and contains certain information about your particular login session and/or your use of the Service.
 
-### Use of Information
+## Use of Information
 
 Zynga may contain links to other web sites, and content in Zynga game and SNS Apps may be hosted by other web sites. In addition, as described above, most content offered through Zynga games or SNS Apps is served or hosted by other sites. These other sites maintain their own policies regarding cookies and the collection and use of personal information. It is up to you to review those policies yourself. 
 
-### Third-Party Advertising Companies
+## Third-Party Advertising Companies
 
-We use third-party advertising companies to serve ads on our site and on certain Zynga games and SNS Apps. Our system and the third-party advertising technology uses information derived from Activity Information, Zynga's cookies on your hard drive, your visits to our site, the Zynga games that you view and the SNS Apps you use to target advertising within our site or Zynga games or SNS Apps. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site.
+We use third-party advertising companies to serve ads on our site and on certain Zynga games and SNS Apps. Our system and the third-party advertising technology uses information derived from Activity Information, Zynga's cookies on your hard drive, your visits to our site, the Zynga games that you view and the SNS Apps you use to target advertising within our site or Zynga games or SNS Apps. In addition, our advertisers may use other third-party advertising technology to target advertising on our site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed on your computer. Similarly, third-party advertising companies may provide us with pixel tags (also called “clear gifs” or “beacons”) to help manage and optimize our online advertising. Beacons enable us to recognize a browser's cookie when a browser visits the site on which the beacon is located, and to learn which banner ads bring users to a given site. 
 
 Zynga does not provide any Personally Identifiable Information to third-party advertising companies. Note, however, that if an advertiser asks Zynga to show an advertisement to users with certain characteristics (for example, women ages 18-24) or a segment of that group (for example, women ages 18-24 who have viewed certain categories of content) and you respond to that advertisement, the third-party advertising company may conclude that you have the characteristics of the audience that they are trying to reach.
 
-### Security
+## Security
 
-Zynga takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Zynga Web Site, please contact us at [privacy@zynga.com](mailto:privacy@zynga.com)
+Zynga takes appropriate precautions to protect our users' information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Zynga Web Site, please contact us at privacy@zynga.com
 
-### Additional Questions
+## Additional Questions
 
-Again, feel free to contact us by sending an email to [privacy@zynga.com](mailto:privacy@zynga.com) , any time, if you have further questions about Zynga or this Privacy Policy, or if you want to receive a previous version of this document.
+Again, feel free to contact us by sending an email to privacy@zynga.com , any time, if you have further questions about Zynga or this Privacy Policy, or if you want to receive a previous version of this document.
 
-### California Residents: Your California Privacy Rights
+## California Residents: Your California Privacy Rights
 
-Under California law, California Residents who have an established business relationship with Zynga or one of its subsidiaries may choose to opt out of Zynga disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email [privacy@zynga.com](mailto:privacy@zynga.com).
-
-Copyright © 2009 Zynga Game Network Inc.. All rights reserved.   |    [Privacy Policy](http://www.zynga.com/privacyPolicy/)   |    [Terms of Service](http://www.zynga.com/legal/terms_of_service.php)
+Under California law, California Residents who have an established business relationship with Zynga or one of its subsidiaries may choose to opt out of Zynga disclosure of personal information about them to third parties for direct marketing purposes. As detailed above, our policy is not to disclose personal information collected online to a third party for direct marketing purposes without your approval. If you choose to opt-out at any time after granting approval, email privacy@zynga.com.
