@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214042432id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spiritnow.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522015439id_/http%3A//www.spiritnow.com/static/privacy) for the most accurate reproduction.*
 
-# Spirit Now FREE online psychic readings - Free Daily horoscopes - Home of Psychic Sylvia Browne - Angels - Love - Feng Shui
+# Spirit Now
 
 ## Preston Media Privacy Policy
 
