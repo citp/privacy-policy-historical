@@ -1,71 +1,41 @@
-> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422170055id_/http%3A//www.weddingbycolor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingbycolor.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522014519id_/http%3A//www.weddingbycolor.com/legals/privacy) for the most accurate reproduction.*
 
-# Wedding By Color- Bride's Online Scrapbook. Share Your Wedding Story
+# Wedding By Color- Free Wedding Blogs & Brides' Online Community
 
-Thank you for using WeddingByColor.com.
+Your privacy is critically important to us. At Tov Solutions we have a few fundamental principles:
 
-WeddingByColor.com is an online community that allow users (brides) to share their wedding and connect with each other.
-
-We are committed to protect the personal privacy of all our users. As we we promise such information is to be kept used carefully and considerably.
-
-The following discloses our information gathering and dissemination practices for this website and by visiting WeddingByColor.com, you are accepting the practices described in this Privacy Policy.
-
-## Information we collect from you
-
-Users informations are very important to WeddingByColor.com. The core service of WeddingByColor.com are base on the content submitted by our users. We need to know about our users in order to continually improve our service.
-
-There are a couple ways that we collect Information from our users, all such information are stored in our internal database and used for the purposes as communicating with you and improving our services.
-
-All our employees and data processors, who have access to, and are associated with the processing of personal data, are obliged to respect the confidentiality of our visitors' personal data.
-
-### a. Information gather at registration
-
-Registration is not required to enter our site; however, some features are available to registered members only. Certain personal information, such as name and email address, is required when you register for a member account on the signup page of our website. You can access your personal data by signing in to your "Account Setting" area. You can request to have your information removed from our database anytime, although we may require proof of your identity. In order to protect our Member's information, if we are suspecious about the proof of identity provided, we reserve the right to refuse requests for personal data retrieval/removal.
-
-### b. Automatically collected information
-
-When you visit WeddingByColor.com, our system automatically receives certain information from you. Your IP address (IP address is used to connect your computer to the Internet) is also used to gather broad demographic information and help diagnose problems with our server, and to administer our Web site. Other information collected such as: user id, password, computer and connection information such as browser type, version, operating system, platform, the URL you click to, from our website, pages you viewed, date, time....etc. Some of these information are collected using "cookies". If you wish, you can change the setting of your browser to prevent it from accepting cookies or have it notify you when a new cookie is received.
-
-### c. Content
-
-The service of WeddingByColor.com is base on the content submitted by our users. Such content may contain instruction, ideas, concepts, and personal comments, in forms of text, images, and multimedia files, personal comments, links...etc. Please remember any information published in WeddingByColor.com becomes public information and you should exercise caution when deciding to disclose your personal information.
-
-Regarding Copyright of content published, please read our terms of use.
-
-## Sharing of information
-
-Businesses: We reserve the right to share user information with our business partners and future websites and services developed by Tov Solutions Inc. We will do our best to prevent such information being abused.
-
-Agents: We may employ other companies and individuals to perform functions on our behalf. Examples include sending e-mail and analyzing data. They would have access to personal information needed to perform their functions, but may not use it for other purposes.
-
-Business Transfers: As we continue to develop our business, we might sell or buy additional services or business units. In such transactions, user information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the user consents otherwise). Also, in the unlikely event that WeddingByColor.com or Tov Solutions Inc., or substantially all of its assets are acquired, user information will of course be one of the transferred assets.
-
-Protection of WeddingByColor.com and Others: We release account and other personal information when we believe release is appropriate to comply with law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of WeddingByColor.com, Tov Solutions Inc., our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Obviously, however, this does not include selling, renting, sharing, or otherwise disclosing personally identifiable information from users for commercial purposes in violation of the commitments set forth in this Privacy Notice. 
-
-## Third-Party Advertisers
-
-Our site includes third-party advertising, and some of our advertisers use third-party companies to serve their advertisements that appear on our site. Often, these third-party advertising companies, called “ad networks” or “network advertisers”, employ cookie and other technologies to measure the effectiveness of their ads and to show you ads that are more relevant and interesting to you. We do not provide any user information to them, and we do not have access to or control cookies that may be placed by the ad networks. 
-
-## Children
-
-We don't think it is appropriate for us to collect personally identifiable information from children under 13 without notifying their parents. Therefore, if you are under 13, you may not submit information about yourself to WeddingByColor.com. 
-
-## Terms of Use, Notices, and Revisions
-
-If you choose to visit WeddingByColor.com, your visit and any dispute over privacy is subject to this Notice and our Terms of Use, including limitations on damages, arbitration of disputes, and application of the law of the Province of BC, Canada. If you have any concern about privacy at WeddingByColor.com, please email us at:  
-inquiry@WeddingByColor.com.
-
-Our business changes constantly, and so as our Privacy Notice and the Terms of Use. Please check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of user information collected in the past without the consent of affected users.
-
-## Privacy Compliance
-
-Our privacy policy is compliant with the following instruments: 
-
-  * The Privacy Act, Canada
-  * The Personal Information Protection and Electrionic Documents Act (PIPEDA), Canada
+  * We don't ask you for personal information unless we truly need it. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don't store personal information on our servers unless required for the on-going operation of one of our services.
 
 
 
-## Mailing Lists
+Below is our privacy policy which incorporates these goals:
 
-By registering a WeddingByColor.com Member account, you agree to subscribe to our Members Update and Special Offers mailing lists. We will send you information about our promotions, special offers and new services. The email will not contain third-party endorsements. 
+Weddingbycolor.com is one of the websites operated by Tov Solutions Inc. ("Tov Solutions"). It is Tov Solutions's policy to respect your privacy regarding any information we may collect while operating our websites.
+
+## Website Visitors
+
+Like most website operators, Tov Solutions collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Tov Solutions's purpose in collecting non-personally identifying information is to better understand how Tov Solutions's visitors use its website. From time to time, Tov Solutions may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+
+Tov Solutions also collects potentially personally-identifying information like Internet Protocol (IP) addresses. Tov Solutions does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
+
+## Gathering of Personally-Identifying Information
+
+Certain visitors to Tov Solutions's websites choose to interact with Tov Solutions in ways that require Tov Solutions to gather personally-identifying information. The amount and type of information that Tov Solutions gathers depends on the nature of the interaction. For example, we ask visitors who sign up for a blog at weddingbycolor.com to provide a username and email address. Those who engage in transactions with Tov Solutions â€“ by purchasing vendor's listing service, for example â€“ are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, Tov Solutions collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with Tov Solutions. Tov Solutions does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+
+## Aggregated Statistics
+
+Tov Solutions may collect statistics about the behavior of visitors to its websites. For instance, Tov Solutions may monitor the most popular blogs on the Weddingbycolor.com site. Tov Solutions may display this information publicly or provide it to others. However, Tov Solutions does not disclose personally-identifying information other than as described below.
+
+## Protection of Certain Personally-Identifying Information
+
+Tov Solutions discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Tov Solutions's behalf or to provide services available at Tov Solutions's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Tov Solutions's websites, you consent to the transfer of such information to them. Tov Solutions will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Tov Solutions discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when Tov Solutions believes in good faith that disclosure is reasonably necessary to protect the property or rights of Tov Solutions, third parties or the public at large. If you are a registered user of an Tov Solutions website and have supplied your email address, Tov Solutions may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with Tov Solutions and our partners. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Tov Solutions takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+## Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. Tov Solutions uses cookies to help Tov Solutions identify and track visitors, their usage of Tov Solutions website, and their website access preferences. Tov Solutions visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Tov Solutions's websites, with the drawback that certain features of Tov Solutions's websites may not function properly without the aid of cookies.
+
+## Privacy Policy Changes
+
+Although most changes are likely to be minor, Tov Solutions may change its Privacy Policy from time to time, and in Tov Solutions's sole discretion. Tov Solutions encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
