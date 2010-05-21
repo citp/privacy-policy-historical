@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119042149id_/http%3A//www.turbocad.com/TurboCAD/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turbocad.com privacy policy that was archived on 2010-05-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100521035029id_/http%3A//www.turbocad.com/TurboCAD/tabid/63/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # TurboCAD
 
@@ -44,4 +44,4 @@ TurboCAD will occasionally update this Statement of Privacy to reflect company a
 
 Contact Information
 
-TurboCAD welcomes your comments regarding this Statement of Privacy. If you believe that TurboCAD has not adhered to this Statement, please contact TurboCAD at [mbotha@imsidesign.com](mailto:mbotha@imsidesign.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+TurboCAD welcomes your comments regarding this Statement of Privacy. If you believe that TurboCAD has not adhered to this Statement, please contact TurboCAD at [Monizuka@imsidesign.com](mailto:Monizuka@imsidesign.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
