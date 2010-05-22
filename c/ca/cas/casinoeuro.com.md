@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120163800id_/http%3A//www.casinoeuro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casinoeuro.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522182128id_/http%3A//www.casinoeuro.com/privacy-policy) for the most accurate reproduction.*
 
 # Europe's online casino - CasinoEuro
 
@@ -9,9 +9,9 @@
 
 CasinoEuro is concerned to protect the privacy of any personal information that you may choose to provide to us ("Personal Information"). Personal Information is any information about you and may include your name and address, date of birth, payment card details and any other information you may wish to provide. CasinoEuro will attempt to ensure that its use of your Personal Information is compliant with data protection and privacy regulations in the countries where we operate. Accordingly, CasinoEuro issues this policy to inform you of our use of your Personal Information.
 
-## Is your Personal Information collected by our Website? 
+## Is your Personal Information collected by our Website?
 
-If you provide your name and address on the public area of this website in order to request information about our products and services, you may voluntarily provide additional Personal Information. You will be asked to provide your Personal Information in this area for the purposes of registering with CasinoEuro and opening an account with us. 
+If you provide your name and address on the public area of this website in order to request information about our products and services, you may voluntarily provide additional Personal Information. You will be asked to provide your Personal Information in this area for the purposes of registering with CasinoEuro and opening an account with us.
 
 If you are already a CasinoEuro Client and have opened an account with us, you must use a password to enter the CasinoEuro Website. A "session cookie" may be used to enable you to leave and re-enter our Website without re-entering your password. Our web server will record the pages you visit within our Website.
 
