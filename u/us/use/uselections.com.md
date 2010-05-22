@@ -1,52 +1,40 @@
-> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2007-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071013044819id_/http%3A//www.uselections.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uselections.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052435id_/http%3A//www.uselections.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
-# Privacy Policy: USElections.com
-
-**>** [Home](http://www.uselections.com/)
-
-**>** [Election Listing  
-   **Submissions**](http://www.uselections.com/election-sub.html)
-
-**>** [Site Map](http://www.uselections.com/sitemap.shtml)
-
-  
-  
-  
-| 
+# Privacy Policy : USElections.com
 
 **Privacy Policy**
 
-Thank you for visiting USElections.com and for reviewing our privacy policy. The privacy of our Internet users has always been very important to USElections.com/Launch 3, LLC.
+Thank you for visiting USElections.com and for reviewing my Privacy Policy. This policy is on the collection of personal information:
 
-  * Our concern for your privacy continues in the electronic age. That view underlies our policy, stated below:
-  * We collect detailed information about you (i.e. more than your Internet address) like your name, e-mail address, affiliation with a political committee, etc. only if you specifically and knowingly provide it to us.   
-We collect this information for statistical purposes and for evaluating our web site to make it more useful to our visitors. 
+Unless you provide additional information, I collect only the following information as you browse through my web site:
 
-
-
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically. This information does not necessarily identify you personally. We automatically collect and store only the following information about your visit:
-
-  * The Internet domain (such as "xcompany.com" or "yourschool.edu", or "agency.com) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
-  * The date and time you access our site;
-  * The pages you visit;
-  * Whether you successfully received the document or image file you requested;
-  * The type of browser you are using;   
-and
-  * The size of the document you received.
+  * the browser you use to access the Internet;
+  * the operating system on your computing device;
+  * the date and time of your visit;
+  * the pages you visited; and
+  * the address of the Web site you visited immediately prior to visiting our site.
 
 
 
-We use this information to help us make our site more useful to visitors and to learn about the number of visitors to our site. We do not track or record information about individuals, organizations or their visits.
+I collect this information for statistical purposes and for evaluating my web site to make it more useful to you.
 
-If you contact us by e-mail we may forward the message to the appropriate staff in order to review it and respond if necessary. We may retain messages for a period of time to ensure responses and we may delete them when action has been completed.
+If you send an e-mail message to me or complete a questionnaire, form, or other online survey found on my web site, I will maintain the information in accordance with applicable federal law.
 
-We do not disclose, give, sell, or transfer any personal information about our web site visitors unless required for law enforcement or otherwise required by law.
+I do not disclose, give, sell, or transfer any personal information about you unless required for law enforcement or otherwise required by law.
 
-E-mail Lists:  
-We do not share, sell or give away the e-mail addresses on our list with outside organizations.
+**3rd Party Advertising:**
 
+I use third-party advertising companies (ie: Google) to serve ads when you visit this website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
+
+**Google / DoubleClick DART cookie:**
+
+  * Google, as a third party vendor, uses cookies to serve ads on this site.
+  * Google's use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to you based on your visit to my site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
+  
 This site is owned by Launch 3, LLC and is copyrighted and protected by various U.S. Laws. Violations are subject to criminal prosecution in federal court.
 
-For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage.  
-  
----|---
+For site security purposes and to ensure that this service remains available to all users, we employ software programs to identify unauthorized attempts to upload or change information, or otherwise cause damage. 
