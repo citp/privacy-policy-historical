@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the cbtnuggets.com privacy policy that was archived on 2009-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501180001id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cbtnuggets.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522210022id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.-->
 
 <html><head>
 <title>CBT Nuggets: Privacy Statement for CBT Nuggets, Inc</title>
 <meta name="viewport" content="width=320; initial-scale=0.41; maximum-scale=1.0; user-scalable=1;">
+<meta name="google-site-verification" content="Ur5YlRWQ9I49LdmWMtbekVLFGRnDMuMomwRdlGxDhgM">
 
 
 <link rel="stylesheet" type="text/css" href="/includes/cbtnuggets.css" title="style1">
@@ -29,15 +30,61 @@ function frameThis() {
 	}
 }
 
+var livepersonlinkcache = null;
+
+function livepersonStatusCheck() {
+  var timeout = 500;
+
+  var img = document.getElementById("chatStatusImage");
+
+  if (livepersonlinkcache == null) {
+    livepersonlinkcache = new Array();
+
+    var anchors = document.getElementsByTagName("a");
+    for (var i = 0; i < anchors.length; i++) {
+      if (anchors[i].className == "_lpChatBtn") {
+        livepersonlinkcache.push(anchors[i]);
+      }
+    }
+  }
+
+  var btns = livepersonlinkcache;
+
+  if (btns && btns.length > 0) {
+    for(var i = 0; i < btns.length; i++) {
+      if(img.width == 40) {
+        btns[i].innerHTML = "<img src='/images/chat_online.png' style='padding: 0; margin: 0; border: 0; width: 150px;' />";
+      } else {
+        btns[i].innerHTML = "<img src='/images/chat_offline.png' style='padding: 0; margin: 0; border: 0; width: 150px;' />";
+        timeout = 1000;
+      }
+    }
+     
+    /* 
+    var time = img.src.indexOf("&d=");
+
+    if (time > 0) {
+      img.src = img.src.substring(0, time + 3) + (new Date()).getTime();
+    } else {
+      img.src = img.src + "&d=" + (new Date()).getTime();
+    }
+
+    window.setTimeout("livepersonStatusCheck()", timeout);
+    */
+  }
+}
 
 
 //-->
 </script>
 
 
+	
 
 
-</head>
+
+
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=61158425"></script></head>
 
 
 <body bgcolor="black" onload="" style="background-image: url(/images/BackBulbs.jpg); background-position: 50% 0%;
@@ -141,7 +188,7 @@ function frameThis() {
 
 	
     <form name="headergs" method="GET" action="http://www.cbtnuggets.com/html/support/search.html" onsubmit="this.q.focus();"></form>
-		<input type="hidden" name="cx" value="018330044477346612895:tw29djmlevi">
+		<input type="hidden" name="cx" value="002650621117526918670:ocntsof9atu">
 		<input type="hidden" name="cof" value="FORID:11">
 		<input type="hidden" name="ie" value="UTF-8">
 		<tr>
@@ -309,7 +356,7 @@ function closeLoginByEscape(e, w) {
 			<center>
 		<div id="loginform" style="visibility: inherit; position: absolute; width=100%">
 			<font style="color: gold; font-weight: bold;">User Login</font>
-			<form name="logindivform" action="https://www.cbtnuggets.com/webapp/login" method="post">
+			<form name="logindivform" action="https://secure.cbtnuggets.com/webapp/login" method="post">
 			<input type="hidden" name="url" value="/html/help/privacy.html">
 			<table border="0">
 			<tbody><tr><td class="formlabels" style="color: white">E-mail Address</td>
@@ -375,37 +422,37 @@ function closeLoginByEscape(e, w) {
 
 	<div style="position: absolute; z-index: 10000">
 
-	<div class="mainmenu" style="left: 0px; width: 70px" onmouseover="shade(this)" onmouseout="unshade(this)" id="mainmenu_home">
+	<div class="mainmenu" style="left: 0px; width: 70px" id="mainmenu_home">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/" class="mainmenulink">Home</a>
 	</div>
 
-	<div class="mainmenu" style="left: 70; width: 128px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_my">
+	<div class="mainmenu" style="left: 70; width: 128px" id="mainmenu_my">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/webapp/my" class="mainmenulink">My CBT Nuggets</a>
 	</div>
 
-	<div class="mainmenu" style="left: 198px; width: 87px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_products">
+	<div class="mainmenu" style="left: 198px; width: 87px" id="mainmenu_products">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/webapp/store" class="mainmenulink">Products</a>
 	</div>
 
-	<div class="mainmenu" style="left: 285px; width: 106px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_free">
+	<div class="mainmenu" style="left: 285px; width: 106px" id="mainmenu_free">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/webapp/videos" class="mainmenulink">Free Videos</a>
 	</div>
 
-	<div class="mainmenu" style="left: 391px; width: 91px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_support">
+	<div class="mainmenu" style="left: 391px; width: 91px" id="mainmenu_support">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/html/support/menu.html" class="mainmenulink">Support</a>
 	</div>
 
-	<div class="mainmenu" style="left: 482px;  width: 177px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_dev">
+	<div class="mainmenu" style="left: 482px;  width: 177px" id="mainmenu_dev">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a href="/webapp/dev" class="mainmenulink">Videos in Development</a>
 	</div>
 
-	<div class="mainmenu" style="left: 659px; width: 97px" onmouseover="showmenu(this)" onmouseout="hidemenu(this)" id="mainmenu_about">
+	<div class="mainmenu" style="left: 659px; width: 97px" id="mainmenu_about">
 		&nbsp;<img src="/images/spacer.gif" width="10" height="9">
 		<a id="aboutlink" href="/html/about" class="mainmenulink">About Us</a>
 	</div>
@@ -429,7 +476,7 @@ function closeLoginByEscape(e, w) {
 </table>
 -->
 
-<table width="100%" border="0" cellpadding="10" bgcolor="white">
+<table id="headerContentTable" width="100%" border="0" cellpadding="10" bgcolor="white">
 <tbody><tr><td width="100%">
 
  
@@ -762,6 +809,37 @@ The data is used for contacting the user.
 At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.
 
 
+<!-- BEGIN LivePerson Monitor. -->
+<script language="javascript">
+  var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "61158425",'lpProtocol' : "https"};
+
+  function lpAddMonitorTag(src) {
+    if(typeof(src)=='undefined'||typeof(src)=='object') {
+      src = lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';
+    }
+    if(src.indexOf('http')!=0) {
+      src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;
+    } else {
+      if(src.indexOf('site=')<0) {
+        if(src.indexOf('?')<0) {
+          src=src+'?';
+        } else {
+          src=src+'&';
+        }
+        src=src+'site='+lpMTagConfig.lpNumber;
+      }
+    }
+    var s=document.createElement('script');
+    s.setAttribute('type','text/javascript');
+    s.setAttribute('charset','iso-8859-1');
+    s.setAttribute('src',src);
+    document.getElementsByTagName('head').item(0).appendChild(s);
+  }
+
+  if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
+</script>
+<!-- END LivePerson Monitor. -->
+
 
 
 <img src="/images/spacer.gif" width="500" height="1" border="0"><br>
@@ -804,7 +882,7 @@ At the High setting, and at the Medium High setting for third-party cookies, all
 <a href="/webapp/videos" class="footerText">Free Videos</a> |
 <a href="/webapp/store" class="footerText">Catalog</a>
 <br>
-Copyright ©1999-2009, CBT Nuggets, LLC
+Copyright ©1999-2010, CBT Nuggets, LLC
 </font>
 </td></tr>
 <tr><td bgcolor="#FFFFCE"><img src="/images/spacer.gif" width="50" height="2" border="0"></td></tr>
