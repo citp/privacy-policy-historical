@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2009-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090915225034id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmax.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522020131id_/http%3A//www.carmax.com/enUS/privacy-policy/default.html) for the most accurate reproduction.*
 
 # CarMax
 
@@ -7,37 +7,38 @@ At CarMax, we value our customers and are committed to protecting your privacy, 
 
 The CarMax family is made up of several companies, or "affiliates." As of the date of this Privacy Policy, these companies include, but are not limited to: 
 
-**CarMax, Inc.**  
- **CarMax Auto Superstores, Inc.**  
- **CarMax Auto Superstores West Coast, Inc.**  
- **CarMax Auto Superstores California, LLC**  
- **CarMax Auto Mall, LLC**  
- **CarMax of Laurel, LLC**  
- **CarMax Business Services, LLC** (includes **CarMax Auto Finance** , a division)  
- **CarMax Funding Services, LLC**  
- **CarMax Auto Superstores Services, Inc.**
+**CarMax, Inc.  
+CarMax Auto Superstores, Inc.  
+CarMax Auto Superstores West Coast, Inc.  
+CarMax Auto Superstores California, LLC  
+CarMax Auto Mall, LLC  
+CarMax of Laurel, LLC  
+CarMax Business Services, LLC** (includes **CarMax Auto Finance** , a division)  
+**CarMax Funding Services, LLC  
+CarMax Funding Services II, LLC  
+CarMax Auto Superstores Services, Inc.**
 
-When we use the term _**CarMax**_ , _**us**_ , _**we**_ , or _**our**_ , it refers to each affiliate in the CarMax family. 
+When we use the term _**CarMax** , **us** , **we** ,_ or _**our**_ , it refers to each affiliate in the CarMax family. 
 
 **The Information CarMax Collects**  
- _Depending upon the type of transaction or relationship you have with us, we may collect the following types of information about you:_
+_Depending upon the type of transaction or relationship you have with us, we may collect the following types of information about you:_
 
   * Demographic or identifying information _(name, address, phone number, social security number, drivers license number, state identification card number and e-mail address)_
   * Credit related information _(your workplace, debts and income)_
   * Transactional information _(license and registration)_
-  * Non-transactional information _(responses from surveys, including the CarMax Survey)_
+  * Non-transactional information _(responses from surveys, including the CarMax Survey)_.
 
 
 
 _This information is gathered from the following sources:_
 
-  * You, in credit applications and other transaction forms 
+  * You, in credit applications and other transaction forms
   * Reports from consumer reporting agencies _(also known as credit bureaus)_
   * Current and previous transactions or experiences with us or our affiliates _(purchase of a vehicle, vehicle service history)_
   * Current and previous transactions or experiences with other third parties _(relating to your credit, or other relationships with them and to confirm employment or insurance)_
   * Our websites _(from transactions, surveys, site navigation, cookies*, image tags**, or other technology used to remember information you enter on our websites or your navigation through our websites)***_
   * Other third parties for marketing programs _(demographic firms, direct marketing database firms, and inventory listing websites)_
-  * **The following only applies to Website users:** If any information we have about you is incorrect, we will gladly correct it. Simply [Email](https://web.archive.org/enUS/optout/default.html) us noting the incorrect information and the correction. We reserve the right to verify the correctness of this information. Please note that in the event we amend the Privacy Policy, posting the amendment will serve as notice to you of that change and the policy will note its effective date. The effective date for this Privacy Policy is May 6, 2009. 
+  * **The following only applies to Website users:** If any information we have about you is incorrect, we will gladly correct it. Simply [Email](https://web.archive.org/enUS/optout/default.html) us noting the incorrect information and the correction. We reserve the right to verify the correctness of this information. Please note that in the event we amend the Privacy Policy, posting the amended version will serve as notice to you of that change and the policy will note its effective date. The effective date for this Privacy Policy is May 1, 2010. 
 
 
 
@@ -67,12 +68,12 @@ Employees are only authorized to access personal information about you when it i
 **Important Information About Credit Reporting For CarMax Auto Finance Customers**  
 We may report information about your account to credit bureaus. Late payments, missed payments or other defaults on your account may be reflected in your credit report. 
 
-*A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser to decline them. We use cookies on certain pages of our websites, but these cookies are not used to identify anonymous site visitors. Our cookies enable you to proceed smoothly through our sites and enable us to know whether you've visited our sites before to eliminate some steps that are directed to new visitors. 
+* A "cookie" is a small text file that a website can place on your computer's hard drive in order to collect information about your activities on the website. Most browsers automatically accept cookies, but you have the option to change your browser to decline them. We use cookies on certain pages of our websites, but these cookies are not used to identify anonymous site visitors. Our cookies enable you to proceed smoothly through our sites and enable us to know whether you've visited our sites before to eliminate some steps that are directed to new visitors. 
 
-**Image tags work in conjunction with cookies. An image tag, also referred to as a clear GIF or web beacon, is a small image file that may be located on select pages on our websites. 
+** Image tags work in conjunction with cookies. An image tag, also referred to as a clear GIF or web beacon, is a small image file that may be located on select pages on our websites. 
 
-***At this time, CarMax has contracted with Omniture and TruEffect to collect information about how website users navigate our websites. This information will not be disclosed and will be used only to generate anonymous visitor profiles, which do not contain personally identifiable information. The anonymous profiles are used to provide website users content specifically tailored to them. To opt out of Omniture’s collection of information about how you navigate our websites, please go to   
-[http://www.112.2o7.net/optout.html?omniture=1&popup=1&locale=en_US](http://www.112.2o7.net/optout.html?omniture=1&popup=1&locale=en_US). To opt out of TruEffect’s collection of information about how you navigate our websites, please go to <http://www.trueffect.com/privacy>. 
+*** At this time, CarMax has contracted with Omniture and TruEffect to collect information about how website users navigate our websites. This information will not be disclosed and will be used only to generate anonymous visitor profiles, which do not contain personally identifiable information. The anonymous profiles are used to provide website users content specifically tailored to them. To opt out of Omniture's collection of information about how you navigate our websites, please go to  
+<http://www.omniture.com/en/company/acquisitions/visualsciences/privacy/policy>. To opt out of TruEffect's collection of information about how you navigate our websites, please go to [http://www.trueffect.com/privacy](http://www.trueffect.com/about-us/privacy). 
 
 CarMax may change what companies we use to collect this type of information at any time. If we do, we will revise this policy to reflect this change and notify you as required by law. 
 
