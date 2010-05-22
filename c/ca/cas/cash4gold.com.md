@@ -1,17 +1,28 @@
-> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020025553id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4gold.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220111id_/http%3A//www.cash4gold.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Cash 4 Gold
+# Privacy Policy « Cash4Gold.com
+
+[Home](http://www.cash4gold.com/ "Go to Home.") > Privacy Policy
+
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.cash4gold.com&sealid=103 "Truste Verification")
 
 To be removed from receiving future Cash4Gold.com emails, please [click here](http://cash4gold.c4gusc.com/unsub/unsub.form?id=644eca1e2e045ae40ebe572dce362889).
 
 ## 1.         General.
 
 This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that Green Bullion Financial Services, LLC (“we,” “us,” or “our” ) may gather about or collect from you in connection with your use of this site (this “Site”).  It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information.  
-The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.
+The procedures for modifying or changing this Privacy Policy in the future are discussed in Section 6 of this document.  
+Green Bullion Financial is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.cash4gold.com.  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this Policy, you should first contact [Privacy@cash4gold.com](mailto:Privacy@kenexa.com). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url)  
+,by mail at WatchDog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105, by phone at 415-520-3400, or by fax at 415-520-3420.  If you are mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe’s dispute resolution process, see [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url)  
+or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. 
+
+Green Bullion Financial complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union
 
 ## 2.         Children
 
-This Site is not intended for children under 21 years of age.  We do not knowingly collect personal information from children under 21.
+This Site is not intended for children under 18 years of age.  We do not knowingly collect personal information from children under 18.
 
 ## 3.         Gathering, Use and Disclosure of Non-Personally-Identifying Information
 
@@ -20,17 +31,17 @@ We collect both Non-Personally-Identifying Information and Personally-Identifyin
 #### A.         Gathering Non-Personally-Identifying Information
 
 (i)         Web Browsers  
-Like most site operators, we gather Non-Personally-Identifying Information from you of the sort that web browsers, depending on their settings, may make available.  That information includes your Internet Protocol (“IP”) address, operating system and browser type, and the locations of the web pages you view right before arriving at, while navigating and immediately after leaving this Site.
-
+Like most site operators, we gather Non-Personally-Identifying Information from you of the sort that web browsers, depending on their settings, may make available.  That information includes your Internet Protocol (“IP”) address, operating system and browser type, and the locations of the web pages you view right before arriving at, while navigating and immediately after leaving this Site.  
 (ii)        Web Cookies  
-A “Web Cookie” is a string of information that a site stores on a your computer, and you’re your browser provides to this Site each time you submit a query to the site.  We use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used.  
-IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES , YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+A “Web Cookie” is a string of information that a site stores on a computer, and  your browser provides to this Site each time you submit a query to the site.  We use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experience and to help us understand how this Site is being used. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
 
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES , YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.  
 (iii)       Web Beacons  
-A “Web Beacon” is an object that is embedded in a web page.  It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication.  We may occasionally place Web Beacons on pages of this Site and in email messages that we send to you.
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective.  Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users.  In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers’ personally identifiable information. 
 
-You may not decline Web Beacons.  However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.  Please note, however, that this only renders Web Beacons ineffective on this Site; Web Beacons in email communications cannot be rendered ineffective.
+We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  If you would like to opt-out of these emails, please see “Choice and Opt-out.” 
 
+You may not decline Web Beacons.  However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis.  Please note, however, that this only renders Web Beacons ineffective on this Site; Web Beacons in email communications cannot be rendered ineffective.  
 (iv)       Third Parties’ Use of Web Beacons and Web Cookies  
 This Site may include third-party advertising, links to other sites, and other content from third party businesses. The content posted by these parties will be reasonably identifiable as coming from a third party. These third-party sites, businesses, and advertisers, or advertising companies working on their behalf, sometimes use Web Beacons (also known as action tags or single-pixel gifs), and Web Cookies to measure the effectiveness of their ads, personalize or optimize advertising content and to track users who link from their respective sites to this Site, but this third party technology does not permit them to access your Personal Information. We do not have access to or control over Web Beacons or Web Cookies that these third parties may use, and the information practices of these advertisers and third-party websites or businesses are not covered by this Privacy Policy but are covered by their respective privacy policies as is described in more detail in Section 5 below.
 
@@ -48,7 +59,20 @@ As defined above, Personally-Identifying Information is information that can be 
 
 #### A.         Registration and Other Information Provided to Us
 
-When you register with the site, you may be asked to disclose Personally–Identifying Information.  You may also choose to submit Personally-Identifying Information to us when you send us an email.  We will not disclose this information to third parties, except as set forth in this Section
+In order to have a Jewelry Return Pack sent to you, we request certain personally identifiable information from you on the request form  On the request form you are required to give contact information (such as name, address and email address). We use this information to send you the Jewelry Return Pack and to communicate with you once we receive your Jewelry Return Pack. 
+
+**Affiliate Program**  
+**  
+** When you sign up for our affiliate program we collect your name, address, and email address.  We ask for your domains in which you will be linking marketing materials from as well as some site information.  You also have the ability to refer a friend to let them know about our affiliate program. We will ask for your friend’s email address so that we may send them a one time email inviting them to sign up for our affiliate program.  Cash4gold stores this information for the purpose of tracking the success of the affiliate referral program.
+
+## _Newsletters_
+
+Receiving our newsletter is required as part of the service that we offer. We will use your name and email address to send the newsletter to you.  If you no longer wish to receive our newsletters you may deactivate your account optout@cash4gold.com, or you may click on the unsubscribe link located in the footer of each page of the site, within each email communication or click on the link at the top of this privacy policy. 
+
+**AddToAny Widget**
+
+We use the addtoany widget to allow you to share news and other items with your friends on third party sites.  You are also able to email a friend through this widget.  All information collected within the widget is governed by addtoany’s privacy policy.  Cash4gold has no access or control over the information you choose to submit within the widget.  
+We will not sell, share, rent or trade this information to third parties, except as described within this privacy policy. 
 
 #### B.         Surveys
 
@@ -58,42 +82,52 @@ From time to time, we may also ask you to participate in surveys designed to hel
 
 Notwithstanding any other provision in this Privacy Policy, we will disclose Personally-Identifying Information in the following limited circumstances:
 
-(i)         Employees and Third Party Processors  
-We will disclose Personally–Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally–Identifying Information on our behalf or participate with us in the provision or operation of this Site.
+#### (i)         Employees and Third Party Processors  
+We will disclose Personally–Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally–Identifying Information on our behalf or participate with us in the provision or operation of this Site. __ We use other third parties such as a shipping company to fulfill orders, an email service provider to send out emails on our behalf and a third party marketing provider to provide broadcast email services for us.  When you sign up for a Jewelry Return Pack, we will share your name and address as necessary for the third party to provide that service.  These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
 (ii)        By Law, to Protect Rights and to Comply with Our Policies  
-We disclose Personally–Identifying Information if:  (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
-
+We disclose Personally–Identifying Information if:  (1) required to do so by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, legal process served on our Web site or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the service by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.  
 (iii)       Business Transfers; Bankruptcy  
-We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of our assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it.  Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.
-
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other sale of all or a portion of our assets.  Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that new privacy policy and you affirmatively opt-in to accept it.  Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization.  
 (iv)       Marketing  
-We may email you about products and services that we believe may be of interest to you.  We may also will provide your email information to third parties, so that those third parties may directly contact you about additional products and services.  If you wish to opt-out of receiving emails from us or from third parties, please follow the instructions at the bottom of each email.
+Unless you opt-out at the point of collection of your Personally-Identifying Information, we may email you about products and services that we believe may be of interest to you.  Also, unless you opt-out at the point of collection of your Personally-Identifying Information, we may also provide your email information to third parties, so that those third parties may directly contact you about additional products and services.  If you wish to opt-out of receiving emails from us or from third parties,  you may opt-out at the point of collection of your Personally-Identifying Information or follow the instructions at the bottom of each email.
 
 #### F.         Contests, Giveaways and other Promotions
 
 From time to time, we may offer you the opportunity to participate in contests, giveaways and other promotions.  Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy.   You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion.  You will not be required to participate in any promotion.
 
-#### G.        Security
+#### Security
 
-We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof.  Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security.
+The security of your personal information is important to us.  When you enter sensitive information (such as your cash4gold number) on our signature page, we encrypt that information using secure socket layer technology (SSL). 
+
+We follow generally accepted industry standards to protect the personally identifiable information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you can email us at info@cash4Gold.com.
 
 ## 5.         Collection and Use of Information by Third Parties Not Covered By This Agreement
 
-Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves.  We do not control the third-party sites that may be accessible through this Site.  Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them.  Before visiting a third party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to you’re your discretion, protect their privacy.
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves.  We do not control the third-party sites that may be accessible through this Site.  Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them.  Before visiting a third party site, whether by means of a link on this Site or otherwise, and before providing any Personally-Identifying Information to any third party, you should inform yourself of the privacy policies and practices (if any) of the third party responsible for that site, and should take those steps necessary to you’re your discretion, protect their privacy.  
+Blog  
+Our blog is hosted on a third party site, all the personal information collected within the blog area is governed by the privacy policy of our third party service provider.  Cash4gold has no access to this information, if you choose to enter personal information within the blog you should be aware that your information may be viewed by others and may be used to send you unsolicited messages.  We are not responsible for any personal information you choose to submit within the blog.
 
 ## 6.         Privacy Policy Changes
 
-Because of changes in technology and the growth and development of our business or for other business reasons, we may need to modify this Privacy Policy from time to time. We will post a copy of the new policy with its effective date on this Site. It is therefore important that you register with the site and notify us if you change email addresses. If you do not provide us with a current email address, you should regularly review this policy to ensure that you are informed of any changes.  
-Unless we obtain your express consent, any revised Privacy Policy will apply only to information collected after the time it takes effect, and not to information collected under any earlier Privacy Policy.  
-This policy is effective as of and was last updated on May 28, 2009.
+If we decide to change our privacy practices, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-**You may remove yourself from all C4G communication and promotions at any time.   Methods of removal:**
+We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we change how we use your personally identifiable information, we will notify you here, by email, or by means of a notice on our home page.
 
-**Electronically:**[Fill In Your EMail Address Here](http://cash4gold.c4gusc.com/unsub/unsub.form?id=644eca1e2e045ae40ebe572dce362889)
+7. **Updating, Correcting or Deleting Personally Identifiable Information**
 
+If your personally identifiable information changes, you may correct,  or update it by emailing our Customer Support at info@cash4gold.com or by contacting us by postal mail at the contact information listed below.  If you no longer desire our service, you may delete your personally identifiable information by emailing our Customer Support at optout@cash4gold.com. We will respond to your request within 30 days.
+
+8\. **Customer Testimonials**
+
+We post customer testimonials on our web site which may contain personally identifiable information.  We do obtain the customer’s consent via email prior to posting the testimonial to post their name along with their testimonial. ****
+
+This policy is effective as of and was last updated on February 19 , 2010 ****  
+**You may remove yourself from all C4G communication and promotions at any time.   Methods of removal:**  
+**Electronically:[optout@cash4gold.com](mailto:optout@cash4gold.com)**   
 **Written Letter:**  
 Cash4Gold  
 Opt-Out List  
-1701 Blount Rd  
-Pompano Beach, FL 33069
+2800 Gateway Drive,Pompano  Beach, FL 33069
