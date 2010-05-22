@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423113234id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psoug.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213032id_/http%3A//psoug.org/w3c/privacy.htm) for the most accurate reproduction.*
 
-# Oracle PL/SQL Code Library and Resources
+# Oracle PL/SQL Database Code Library and Resources
 
 ## Privacy Policy
 
@@ -20,7 +20,7 @@ In addition to the use of your Personal Information as described above, we may a
   4. **Cookies**  
 This website may, from time to time, use Cookies. Cookies are pieces of information that a website transfers to your computer's hard disk for record keeping purposes and they can make the World Wide Web more useful by storing information about your preferences on a particular site. The use of Cookies is normal practice in the industry and are typically used to help tailor a site's features for their customers. Cookies do not personally identify users but they do identify a user's computer. Most browsers are initally set to accept Cookies. If you prefer, you can set your Internet browser to refuse Cookies. if your Internet browser refuses Cookies, some parts of this site may not be accessible to you. 
   5. **Terms of Service**  
-Please review our [Terms of Service](https://web.archive.org/w3c/tos.htm?PHPSESSID=f26f0e33d9a49bd8c563daa9006f589a), which also governs your use of this site. 
+Please review our [Terms of Service](https://web.archive.org/w3c/tos.htm), which also governs your use of this site. 
   6. **Passwords**  
 For your security, password-protected accounts are required to use certain parts of the system. 
   7. **Email Addresses**  
