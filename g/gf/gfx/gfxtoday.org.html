@@ -1,0 +1,1170 @@
+<!--The following is the downloaded HTML source of the gfxtoday.org privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522215040id_/http%3A//www.gfxtoday.org/Privacy_Policy.html) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript">
+// Node object
+function Node(id, pid, name, url, title, target, icon, iconOpen, open) {
+	this.id = id;
+	this.pid = pid;
+	this.name = name;
+	this.url = url;
+	this.title = title;
+	this.target = target;
+	this.icon = icon;
+	this.iconOpen = iconOpen;
+	this._io = open || false;
+	this._is = false;
+	this._ls = false;
+	this._hc = false;
+	this._ai = 0;
+	this._p;
+};
+
+// Tree object
+function dTree(objName) {
+	this.config = {
+		target			: null,
+		folderLinks		: true,
+		useSelection	: true,
+		useCookies		: true,
+		useLines		: true,
+		useIcons		: true,
+		useStatusText	: false,
+		closeSameLevel	: false,
+		inOrder			: false
+	}
+	this.icon = {
+		root		    : 'http://www.gfxtoday.org/treemenu/img/base.gif',
+		folder		   	: 'http://www.gfxtoday.org/treemenu/img/folder.gif',
+		folderOpen	    : 'http://www.gfxtoday.org/treemenu/img/folderopen.gif',
+		node		    : 'http://www.gfxtoday.org/treemenu/img/page.gif',
+		empty		    : 'http://www.gfxtoday.org/treemenu/img/empty.gif',
+		line		    : 'http://www.gfxtoday.org/treemenu/img/line.gif',
+		join		    : 'http://www.gfxtoday.org/treemenu/img/join.gif',
+		joinBottom	    : 'http://www.gfxtoday.org/treemenu/img/joinbottom.gif',
+		plus			: 'http://www.gfxtoday.org/treemenu/img/plus.gif',
+		plusBottom	    : 'http://www.gfxtoday.org/treemenu/img/plusbottom.gif',
+		minus		    : 'http://www.gfxtoday.org/treemenu/img/minus.gif',
+		minusBottom	    : 'http://www.gfxtoday.org/treemenu/img/minusbottom.gif',
+		nlPlus		   	: 'http://www.gfxtoday.org/treemenu/img/nolines_plus.gif',
+		nlMinus		   	: 'http://www.gfxtoday.org/treemenu/img/nolines_minus.gif'
+	};
+	this.obj = objName;
+	this.aNodes = [];
+	this.aIndent = [];
+	this.root = new Node(-1);
+	this.selectedNode = null;
+	this.selectedFound = false;
+	this.completed = false;
+};
+
+// Adds a new node to the node array
+dTree.prototype.add = function(id, pid, name, url, title, target, icon, iconOpen, open) {
+	this.aNodes[this.aNodes.length] = new Node(id, pid, name, url, title, target, icon, iconOpen, open);
+};
+
+// Open/close all nodes
+dTree.prototype.openAll = function() {
+	this.oAll(true);
+};
+dTree.prototype.closeAll = function() {
+	this.oAll(false);
+};
+
+// Outputs the tree to the page
+dTree.prototype.toString = function() {
+	var str = '<div>\n';
+	if (document.getElementById) {
+		if (this.config.useCookies) this.selectedNode = this.getSelected();
+		str += this.addNode(this.root);
+	} else str += 'Browser not supported.';
+	str += '</div>';
+	if (!this.selectedFound) this.selectedNode = null;
+	this.completed = true;
+	return str;
+};
+
+// Creates the tree structure
+dTree.prototype.addNode = function(pNode) {
+	var str = '';
+	var n=0;
+	if (this.config.inOrder) n = pNode._ai;
+	for (n; n<this.aNodes.length; n++) {
+		if (this.aNodes[n].pid == pNode.id) {
+			var cn = this.aNodes[n];
+			cn._p = pNode;
+			cn._ai = n;
+			this.setCS(cn);
+			if (!cn.target && this.config.target) cn.target = this.config.target;
+			if (cn._hc && !cn._io && this.config.useCookies) cn._io = this.isOpen(cn.id);
+			if (!this.config.folderLinks && cn._hc) cn.url = null;
+			if (this.config.useSelection && cn.id == this.selectedNode && !this.selectedFound) {
+					cn._is = true;
+					this.selectedNode = n;
+					this.selectedFound = true;
+			}
+			str += this.node(cn, n);
+			if (cn._ls) break;
+		}
+	}
+	return str;
+};
+
+// Creates the node icon, url and text
+dTree.prototype.node = function(node, nodeId) {
+	var str = '<div>' + this.indent(node, nodeId);
+	if (this.config.useIcons) {
+		if (!node.icon) node.icon = (this.root.id == node.pid) ? this.icon.root : ((node._hc) ? this.icon.folder : this.icon.node);
+		if (!node.iconOpen) node.iconOpen = (node._hc) ? this.icon.folderOpen : this.icon.node;
+		if (this.root.id == node.pid) {
+			node.icon = this.icon.root;
+			node.iconOpen = this.icon.root;
+		}
+		str += '<img id="i' + this.obj + nodeId + '" src="' + ((node._io) ? node.iconOpen : node.icon) + '" alt="" />';
+	}
+	if (node.url) {
+		str += '<a id="s' + this.obj + nodeId + '" class="body""' + ((this.config.useSelection) ? ((node._is ? 'nodeSel' : 'node')) : 'node') + '" href="' + node.url + '"';
+		if (node.title) str += ' title="' + node.title + '"';
+		if (node.target) str += ' target="' + node.target + '"';
+		if (this.config.useStatusText) str += ' onmouseover="window.status=\'' + node.name + '\';return true;" onmouseout="window.status=\'\';return true;" ';
+		if (this.config.useSelection && ((node._hc && this.config.folderLinks) || !node._hc))
+			str += ' onclick="javascript: ' + this.obj + '.s(' + nodeId + ');"';
+		str += '>';
+	}
+	else if ((!this.config.folderLinks || !node.url) && node._hc && node.pid != this.root.id)
+		str += '<a href="javascript: ' + this.obj + '.o(' + nodeId + ');">';
+	str += node.name;
+	if (node.url || ((!this.config.folderLinks || !node.url) && node._hc)) str += '</a>';
+	str += '</div>';
+	if (node._hc) {
+		str += '<div id="d' + this.obj + nodeId + '" style="display:' + ((this.root.id == node.pid || node._io) ? 'block' : 'none') + ';">';
+		str += this.addNode(node);
+		str += '</div>';
+	}
+	this.aIndent.pop();
+	return str;
+};
+
+// Adds the empty and line icons
+dTree.prototype.indent = function(node, nodeId) {
+	var str = '';
+	if (this.root.id != node.pid) {
+		for (var n=0; n<this.aIndent.length; n++)
+			str += '<img src="' + ( (this.aIndent[n] == 1 && this.config.useLines) ? this.icon.line : this.icon.empty ) + '" alt="" />';
+		(node._ls) ? this.aIndent.push(0) : this.aIndent.push(1);
+		if (node._hc) {
+			str += '<a href="javascript: ' + this.obj + '.o(' + nodeId + ');"><img id="j' + this.obj + nodeId + '" border="0" src="';
+			if (!this.config.useLines) str += (node._io) ? this.icon.nlMinus : this.icon.nlPlus;
+			else str += ( (node._io) ? ((node._ls && this.config.useLines) ? this.icon.minusBottom : this.icon.minus) : ((node._ls && this.config.useLines) ? this.icon.plusBottom : this.icon.plus ) );
+			str += '" alt="" /></a>';
+		} else str += '<img src="' + ( (this.config.useLines) ? ((node._ls) ? this.icon.joinBottom : this.icon.join ) : this.icon.empty) + '" border="0" alt="" />';
+	}
+	return str;
+};
+
+// Checks if a node has any children and if it is the last sibling
+dTree.prototype.setCS = function(node) {
+	var lastId;
+	for (var n=0; n<this.aNodes.length; n++) {
+		if (this.aNodes[n].pid == node.id) node._hc = true;
+		if (this.aNodes[n].pid == node.pid) lastId = this.aNodes[n].id;
+	}
+	if (lastId==node.id) node._ls = true;
+};
+
+// Returns the selected node
+dTree.prototype.getSelected = function() {
+	var sn = this.getCookie('cs' + this.obj);
+	return (sn) ? sn : null;
+};
+
+// Highlights the selected node
+dTree.prototype.s = function(id) {
+	if (!this.config.useSelection) return;
+	var cn = this.aNodes[id];
+	if (cn._hc && !this.config.folderLinks) return;
+	if (this.selectedNode != id) {
+		if (this.selectedNode || this.selectedNode==0) {
+			eOld = document.getElementById("s" + this.obj + this.selectedNode);
+			eOld.className = "body";
+		}
+		eNew = document.getElementById("s" + this.obj + id);
+		eNew.className = "body";
+		this.selectedNode = id;
+		if (this.config.useCookies) this.setCookie('cs' + this.obj, cn.id);
+	}
+};
+
+// Toggle Open or close
+dTree.prototype.o = function(id) {
+	var cn = this.aNodes[id];
+	this.nodeStatus(!cn._io, id, cn._ls);
+	cn._io = !cn._io;
+	if (this.config.closeSameLevel) this.closeLevel(cn);
+	if (this.config.useCookies) this.updateCookie();
+};
+
+// Open or close all nodes
+dTree.prototype.oAll = function(status) {
+	for (var n=0; n<this.aNodes.length; n++) {
+		if (this.aNodes[n]._hc && this.aNodes[n].pid != this.root.id) {
+			this.nodeStatus(status, n, this.aNodes[n]._ls)
+			this.aNodes[n]._io = status;
+		}
+	}
+	if (this.config.useCookies) this.updateCookie();
+};
+
+// Opens the tree to a specific node
+dTree.prototype.openTo = function(nId, bSelect, bFirst) {
+	if (!bFirst) {
+		for (var n=0; n<this.aNodes.length; n++) {
+			if (this.aNodes[n].id == nId) {
+				nId=n;
+				break;
+			}
+		}
+	}
+	var cn=this.aNodes[nId];
+	if (cn.pid==this.root.id || !cn._p) return;
+	cn._io = true;
+	cn._is = bSelect;
+	if (this.completed && cn._hc) this.nodeStatus(true, cn._ai, cn._ls);
+	if (this.completed && bSelect) this.s(cn._ai);
+	else if (bSelect) this._sn=cn._ai;
+	this.openTo(cn._p._ai, false, true);
+};
+
+// Closes all nodes on the same level as certain node
+dTree.prototype.closeLevel = function(node) {
+	for (var n=0; n<this.aNodes.length; n++) {
+		if (this.aNodes[n].pid == node.pid && this.aNodes[n].id != node.id && this.aNodes[n]._hc) {
+			this.nodeStatus(false, n, this.aNodes[n]._ls);
+			this.aNodes[n]._io = false;
+			this.closeAllChildren(this.aNodes[n]);
+		}
+	}
+}
+
+// Closes all children of a node
+dTree.prototype.closeAllChildren = function(node) {
+	for (var n=0; n<this.aNodes.length; n++) {
+		if (this.aNodes[n].pid == node.id && this.aNodes[n]._hc) {
+			if (this.aNodes[n]._io) this.nodeStatus(false, n, this.aNodes[n]._ls);
+			this.aNodes[n]._io = false;
+			this.closeAllChildren(this.aNodes[n]);		
+		}
+	}
+}
+
+// Change the status of a node(open or closed)
+dTree.prototype.nodeStatus = function(status, id, bottom) {
+	eDiv	= document.getElementById('d' + this.obj + id);
+	eJoin	= document.getElementById('j' + this.obj + id);
+	if (this.config.useIcons) {
+		eIcon	= document.getElementById('i' + this.obj + id);
+		eIcon.src = (status) ? this.aNodes[id].iconOpen : this.aNodes[id].icon;
+	}
+	eJoin.src = (this.config.useLines)?
+	((status)?((bottom)?this.icon.minusBottom:this.icon.minus):((bottom)?this.icon.plusBottom:this.icon.plus)):
+	((status)?this.icon.nlMinus:this.icon.nlPlus);
+	eDiv.style.display = (status) ? 'block': 'none';
+};
+
+
+// [Cookie] Clears a cookie
+dTree.prototype.clearCookie = function() {
+	var now = new Date();
+	var yesterday = new Date(now.getTime() - 1000 * 60 * 60 * 24);
+	this.setCookie('co'+this.obj, 'cookieValue', yesterday);
+	this.setCookie('cs'+this.obj, 'cookieValue', yesterday);
+};
+
+// [Cookie] Sets value in a cookie
+dTree.prototype.setCookie = function(cookieName, cookieValue, expires, path, domain, secure) {
+	document.cookie =
+		escape(cookieName) + '=' + escape(cookieValue)
+		+ (expires ? '; expires=' + expires.toGMTString() : '')
+		+ (path ? '; path=' + path : '')
+		+ (domain ? '; domain=' + domain : '')
+		+ (secure ? '; secure' : '');
+};
+
+// [Cookie] Gets a value from a cookie
+dTree.prototype.getCookie = function(cookieName) {
+	var cookieValue = '';
+	var posName = document.cookie.indexOf(escape(cookieName) + '=');
+	if (posName != -1) {
+		var posValue = posName + (escape(cookieName) + '=').length;
+		var endPos = document.cookie.indexOf(';', posValue);
+		if (endPos != -1) cookieValue = unescape(document.cookie.substring(posValue, endPos));
+		else cookieValue = unescape(document.cookie.substring(posValue));
+	}
+	return (cookieValue);
+};
+
+// [Cookie] Returns ids of open nodes as a string
+dTree.prototype.updateCookie = function() {
+	var str = '';
+	for (var n=0; n<this.aNodes.length; n++) {
+		if (this.aNodes[n]._io && this.aNodes[n].pid != this.root.id) {
+			if (str) str += '.';
+			str += this.aNodes[n].id;
+		}
+	}
+	this.setCookie('co' + this.obj, str);
+};
+
+// [Cookie] Checks if a node id is in a cookie
+dTree.prototype.isOpen = function(id) {
+	var aOpen = this.getCookie('co' + this.obj).split('.');
+	for (var n=0; n<aOpen.length; n++)
+		if (aOpen[n] == id) return true;
+	return false;
+};
+
+// If Push and pop is not implemented by the browser
+if (!Array.prototype.push) {
+	Array.prototype.push = function array_push() {
+		for(var i=0;i<arguments.length;i++)
+			this[this.length]=arguments[i];
+		return this.length;
+	}
+};
+if (!Array.prototype.pop) {
+	Array.prototype.pop = function array_pop() {
+		lastElement = this[this.length-1];
+		this.length = Math.max(this.length-1,0);
+		return lastElement;
+	}
+};
+</script>
+
+
+
+
+
+<meta name="google-site-verification" content="gF4GTFFMhlckBiXaZvFzGOL_OZ32MBTdL0EMLSF4uvM">
+<meta name="verify-v1" content="OpeAaA8sBjEIP/CG6xkBfoo+RWliPEIRWA4J0wESaVo=">
+<meta name="hotfile" content="hotfile.com-ateya3d-476fd0a37d2b00f">
+<meta name="y_key" content="bf7f6f4939db5e25">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1251">
+<title>Privacy Policy for www.gfxtoday.org » GFXtoday - All Graphic news daily</title>
+<meta name="description" content="HTML clipboardPrivacy Policy for www.gfxtoday.org     If you require any more information or have any questions about our privacy  policy, please feel free to contact us by email at webmaste">
+<meta name="keywords" content="information, wwwgfxtodayorg, privacy, cookies, other, browser, thirdparty, about, visitors, browsers, advertising, policy, their, files, sites, detailed, practices, respective, addresses, these">
+<meta name="generator" content="DataLife Engine (http://dle-news.ru)">
+<meta name="robots" content="all">
+<meta name="revisit-after" content="1 days">
+<link rel="search" type="application/opensearchdescription+xml" href="http://www.gfxtoday.org/engine/opensearch.php" title="GFXtoday - All Graphic news daily">
+<link rel="alternate" type="application/rss+xml" title="GFXtoday - All Graphic news daily" href="http://www.gfxtoday.org/rss.xml">
+<script type="text/javascript" src="/engine/classes/js/menu.js"></script>
+<script type="text/javascript" src="/engine/classes/js/dle_ajax.js"></script>
+<script type="text/javascript" src="/engine/classes/js/js_edit.js"></script>
+<link rel="alternate" type="application/rss+xml" title="RSS" href="/rss.xml">
+<style type="text/css" media="all">
+@import url(/templates/gfxtoday-2008/css/style.css);
+</style>
+<style type="text/css" media="all">
+@import url(/templates/gfxtoday-2008/css/engine.css);
+</style>
+<style type="text/css">
+</style>
+<link rel="StyleSheet" href="/templates/gfxtoday-2008/css/dtree.css" type="text/css">
+<link rel="StyleSheet" href="/templates/gfxtoday-2008/css/topbar.css" type="text/css">
+<script type="text/javascript" src="/templates/gfxtoday-2008/css/dtree.js"></script>
+<script type="text/javascript" src="/templates/gfxtoday-2008/css/script.js"></script>
+</head>
+<body topmargin="0" bottommargin="0">
+
+<div id="loading-layer" style="display:none;font-family: Verdana;font-size: 11px;width:200px;height:50px;background:#FFF;padding:10px;text-align:center;border:1px solid #000"><div style="font-weight:bold" id="loading-layer-text">Processing. Please wait... </div><br><img src="/engine/ajax/loading.gif" border="0" alt=""></div>
+
+<div id="busy_layer" style="visibility: hidden; display: block; position: absolute; left: 0px; top: 0px; width: 100%; height: 100%; background-color: gray; opacity: 0.1; -ms-filter: 'progid:DXImageTransform.Microsoft.Alpha(Opacity=10)'; filter:progid:DXImageTransform.Microsoft.Alpha(opacity=10); "></div>
+
+<script language="javascript" type="text/javascript">
+
+<!--
+
+var dle_root       = '/';
+
+var dle_admin      = '';
+
+var dle_login_hash = '';
+
+var dle_skin       = 'gfxtoday-2008';
+
+var dle_wysiwyg    = 'yes';
+
+var quick_wysiwyg  = '1';
+
+var menu_short     = 'Quick edit';
+
+var menu_full      = 'Full edit';
+
+var menu_profile   = 'Profile';
+
+var menu_fnews     = 'Find all publications';
+
+var menu_fcomments = 'Find all comments';
+
+var menu_send      = 'Send message';
+
+var menu_uedit     = 'Admin CP';
+
+var dle_req_field  = 'Fill out all required fields';
+
+var dle_del_agree  = 'Are you sure to delete this comment?';
+
+var dle_del_news   = 'Delete article';
+
+
+var allow_dle_delete_news   = false;
+
+
+//-->
+
+</script>
+
+
+
+
+<div class="topbar">
+<a href="" onclick="closebar(); return false"><img src="/templates/gfxtoday-2008/images/close.png" border="0"></a>
+test
+test
+test
+test
+test
+test
+test
+test
+test
+</div>
+
+<div align="center">
+
+
+
+
+<table width="960" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="100" colspan="3" bgcolor="#FFFFFF">
+    <table width="100%" height="100" border="0" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="214" background="/templates/gfxtoday-2008/images/to.png"><a href="http://www.gfxtoday.com"><img border="0" src="/templates/gfxtoday-2008/images/to.png"></a></td>
+        <td background="/templates/gfxtoday-2008/images/to_c.png" style="background-repeat:repeat-x" align="right"><p align="center"><span class="header_maintitle"><font color="#33CCCC">
+		<b><font size="4">Come as guests, stay as family.</font></b><font size="4">
+		</font></font><br>
+		<font color="#FFFFFF"><span class="header_genmed">Our members and our 
+		staff are here to help. </span></font></span></p>
+		</td>
+        <td width="26" background="/templates/gfxtoday-2008/images/to_r.png" style="background-position:right">&nbsp;</td>
+      </tr>
+    </tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td colspan="3" bgcolor="#FFFFFF"><div align="center"><div align="center">
+	<script type="text/javascript"><!--
+google_ad_client = "pub-8483989955378740";
+/* 728x90-under-header */
+google_ad_slot = "8242931531";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div align="center">
+        <script type="text/javascript"><!--
+google_ad_client = "pub-8483989955378740";
+/* 728x15-links-footer */
+google_ad_slot = "1302154872";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+        </div></div></td>
+  </tr>
+  <tr>
+    <td width="200" align="center" valign="top" bgcolor="#FFFFFF" style="width:200px">
+             <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_search_bg.gif"></td>
+      </tr>
+      <tr>
+        <td class="SideBar">
+                <form onsubmit="javascript: showBusyLayer()" method="post" action="">
+                  <input type="hidden" name="do" value="search">
+                  <input type="hidden" name="subaction" value="search">
+                  <table width="180" border="0" cellspacing="0" cellpadding="0">
+                    <tbody><tr>
+                      <td width="110" align="center">
+                      <input name="story" type="text" class="s_field" style="width:110px" size="20"></td>
+                      <td width="70" align="center"><input type="submit" style="border:1px solid #C0C0C0; height:20px; font-size:11px" value="Search"></td>
+                    </tr>
+                  </tbody></table>
+                </form>
+                <div align="left" style="padding-top:8px"><a href="/index.php?do=search&amp;mode=advanced" class="categorya">Advanced Search</a></div>        </td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+        
+        <br>
+     <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_categories_bg.gif"></td>
+      </tr>
+       <tr>
+        <td align="left" class="SideBar" style="padding-left:15px;"><a href="http://forums.gfxtoday.org/">GFXtoday Forums</a></td>
+      </tr>
+      
+      <tr>
+      </tr><tr>
+        <td align="left" class="SideBar" style="padding-left:15px;">
+       <script type="text/javascript">
+d = new dTree('d', '/templates/gfxtoday-2008/images/category/');
+d.add(0,-1, 'Site Categories');
+d.add(30, 1, 'Gnomon Workshop', 'http://www.gfxtoday.org/gnomon_workshop/', '', '', '', '');d.add(72, 2, '3D Applications ', 'http://www.gfxtoday.org/3d-applications/', '', '', '', '');d.add(73, 3, '3D Graphics ', 'http://www.gfxtoday.org/3d-graphics/', '', '', '', '');d.add(74, 0, 'Exclusive in GFXtoday', 'http://www.gfxtoday.org/exclusive-in-gfxtoday/', '', '', '', '');d.add(87, 3, 'Drawing, Painting', 'http://www.gfxtoday.org/drawing_painting/', '', '', '', '');d.add(15, 5, 'DAZ/Poser', 'http://www.gfxtoday.org/daz_poser/', '', '', '', '');d.add(17, 4, 'Photostock', 'http://www.gfxtoday.org/photostock/', '', '', '', '');d.add(18, 2, '3D Editors', 'http://www.gfxtoday.org/3d_editors/', '', '', '', '');d.add(19, 2, 'Video Editors', 'http://www.gfxtoday.org/video_editors/', '', '', '', '');d.add(20, 2, 'Flash Tools ', 'http://www.gfxtoday.org/flash_tools/', '', '', '', '');d.add(21, 11, 'After Effects ', 'http://www.gfxtoday.org/after_effects/', '', '', '', '');d.add(23, 9, 'Brushes', 'http://www.gfxtoday.org/brushes/', '', '', '', '');d.add(24, 12, 'Flash, Animated', 'http://www.gfxtoday.org/flash_animated/', '', '', '', '');d.add(25, 6, '3D Bank', 'http://www.gfxtoday.org/video/', '', '', '', '');d.add(26, 2, 'Web-Design ', 'http://www.gfxtoday.org/web_design/', '', '', '', '');d.add(27, 11, '3ds Max ', 'http://www.gfxtoday.org/3ds_max/', '', '', '', '');d.add(28, 5, 'For 3Ds Max ', 'http://www.gfxtoday.org/for_3ds_max/', '', '', '', '');d.add(31, 2, 'Portable', 'http://www.gfxtoday.org/portable/', '', '', '', '');d.add(34, 1, 'Gnomonology', 'http://www.gfxtoday.org/gnomonology/', '', '', '', '');d.add(35, 8, 'Photo', 'http://www.gfxtoday.org/photo/', '', '', '', '');d.add(36, 8, 'Designing', 'http://www.gfxtoday.org/designing/', '', '', '', '');d.add(37, 4, 'Art/Design', 'http://www.gfxtoday.org/art-design/', '', '', '', '');d.add(38, 4, 'Patterns', 'http://www.gfxtoday.org/patterns/', '', '', '', '');d.add(39, 4, 'Textures ', 'http://www.gfxtoday.org/textures/', '', '', '', '');d.add(40, 2, 'Image Editors', 'http://www.gfxtoday.org/image_editors/', '', '', '', '');d.add(41, 12, 'Joomla', 'http://www.gfxtoday.org/joomla/', '', '', '', '');d.add(42, 12, 'PHP', 'http://www.gfxtoday.org/php/', '', '', '', '');d.add(43, 12, 'Scripts', 'http://www.gfxtoday.org/scripts/', '', '', '', '');d.add(44, 12, 'Worldpress', 'http://www.gfxtoday.org/worldpress/', '', '', '', '');d.add(45, 11, 'Others', 'http://www.gfxtoday.org/others/', '', '', '', '');d.add(53, 8, '3D', 'http://www.gfxtoday.org/3d_m/', '', '', '', '');d.add(55, 3, 'Photography ', 'http://www.gfxtoday.org/photography/', '', '', '', '');d.add(56, 3, 'Artbooks', 'http://www.gfxtoday.org/artbooks/', '', '', '', '');d.add(57, 1, 'Total Training', 'http://www.gfxtoday.org/total_training/', '', '', '', '');d.add(58, 2, 'DVD Copy/Rip Tools ', 'http://www.gfxtoday.org/dvd_copy_rip_tools/', '', '', '', '');d.add(59, 3, 'Design', 'http://www.gfxtoday.org/design/', '', '', '', '');d.add(60, 9, 'Plug-ins', 'http://www.gfxtoday.org/plug-ins/', '', '', '', '');d.add(61, 3, 'HTML, CSS, Ajax, PHP, Java', 'http://www.gfxtoday.org/html_css_ajax_php_java/', '', '', '', '');d.add(62, 3, 'Soft', 'http://www.gfxtoday.org/soft/', '', '', '', '');d.add(63, 2, 'CAD/CAM', 'http://www.gfxtoday.org/cad_cam/', '', '', '', '');d.add(64, 9, 'PSD templates ', 'http://www.gfxtoday.org/psd_templates/', '', '', '', '');d.add(65, 9, 'Frames ', 'http://www.gfxtoday.org/frames/', '', '', '', '');d.add(66, 3, 'Film, Filmmaking  ', 'http://www.gfxtoday.org/film_filmmaking/', '', '', '', '');d.add(68, 9, 'Actions', 'http://www.gfxtoday.org/actions/', '', '', '', '');d.add(69, 3, 'Web-related', 'http://www.gfxtoday.org/web_related/', '', '', '', '');d.add(70, 8, '2D', 'http://www.gfxtoday.org/2d/', '', '', '', '');d.add(71, 3, 'Programing', 'http://www.gfxtoday.org/programing/', '', '', '', '');d.add(75, 5, 'Dosch 3D', 'http://www.gfxtoday.org/dosch-3d/', '', '', '', '');d.add(76, 4, 'Maps', 'http://www.gfxtoday.org/maps/', '', '', '', '');d.add(77, 6, 'Digital Juice', 'http://www.gfxtoday.org/digital-juice/', '', '', '', '');d.add(78, 6, 'Artbeats', 'http://www.gfxtoday.org/artbeats/', '', '', '', '');d.add(79, 6, 'Sound Effects', 'http://www.gfxtoday.org/sound-effects/', '', '', '', '');d.add(80, 2, 'Audio and Music', 'http://www.gfxtoday.org/audio-and-music/', '', '', '', '');d.add(81, 2, 'Graphic and Design', 'http://www.gfxtoday.org/graphic-and-design/', '', '', '', '');d.add(82, 2, 'Science and Engineering', 'http://www.gfxtoday.org/science-and-engineering/', '', '', '', '');d.add(85, 1, 'Making Of', 'http://www.gfxtoday.org/making-of/', '', '', '', '');d.add(86, 3, 'Architecture', 'http://www.gfxtoday.org/architecture/', '', '', '', '');d.add(1, 0, 'Tutorials', 'http://www.gfxtoday.org/tutorials/', '', '', '', '');d.add(4, 0, 'Clipart', 'http://www.gfxtoday.org/clipart/', '', '', '', '');d.add(13, 0, 'Vector Graphics', 'http://www.gfxtoday.org/vector_graphics/', '', '', '', '');d.add(29, 1, 'Simply Maya', 'http://www.gfxtoday.org/simply_maya/', '', '', '', '');d.add(3, 0, 'Ebooks', 'http://www.gfxtoday.org/ebooks/', '', '', '', '');d.add(22, 1, 'Lynda.com', 'http://www.gfxtoday.org/lynda/', '', '', '', '');d.add(32, 1, 'Digital Tutors', 'http://www.gfxtoday.org/digital_tutors/', '', '', '', '');d.add(8, 0, 'Magazines', 'http://www.gfxtoday.org/magazines/', '', '', '', '');d.add(9, 0, 'Photoshop stuff', 'http://www.gfxtoday.org/photoshop_stuff/', '', '', '', '');d.add(33, 1, 'Autodesk', 'http://www.gfxtoday.org/autodesk/', '', '', '', '');d.add(5, 0, '3d models', 'http://www.gfxtoday.org/3d_models/', '', '', '', '');d.add(11, 0, 'Plugins', 'http://www.gfxtoday.org/plugins/', '', '', '', '');d.add(51, 1, 'Cartoon Smart', 'http://www.gfxtoday.org/cartoon_smart/', '', '', '', '');d.add(2, 0, 'Software', 'http://www.gfxtoday.org/software/', '', '', '', '');d.add(6, 0, 'Footage', 'http://www.gfxtoday.org/footage/', '', '', '', '');d.add(46, 1, 'Photoshop, Photography', 'http://www.gfxtoday.org/photoshop_photography/', '', '', '', '');d.add(7, 0, 'Fonts', 'http://www.gfxtoday.org/fonts/', '', '', '', '');d.add(47, 1, 'Art, Drawing, Painting ', 'http://www.gfxtoday.org/art_drawing_painting/', '', '', '', '');d.add(52, 1, '3D', 'http://www.gfxtoday.org/3d/', '', '', '', '');d.add(10, 0, 'Icons', 'http://www.gfxtoday.org/icons/', '', '', '', '');d.add(48, 1, 'FXphd', 'http://www.gfxtoday.org/fxphd/', '', '', '', '');d.add(67, 1, 'Digital Art ', 'http://www.gfxtoday.org/digital_art/', '', '', '', '');d.add(12, 0, 'Templates', 'http://www.gfxtoday.org/templates/', '', '', '', '');d.add(54, 1, 'VTC', 'http://www.gfxtoday.org/vtc/', '', '', '', '');d.add(50, 1, 'Videocopilot', 'http://www.gfxtoday.org/videocopilot/', '', '', '', '');d.add(14, 0, 'Wallpapers', 'http://www.gfxtoday.org/wallpapers/', '', '', '', '');d.add(49, 1, 'Luxology ', 'http://www.gfxtoday.org/luxology/', '', '', '', '');d.add(16, 1, 'Other', 'http://www.gfxtoday.org/other/', '', '', '', '');
+document.write(d);
+</script><div>
+<div><img id="id0" src="http://www.gfxtoday.org/treemenu/img/base.gif" alt="">Site Categories</div><div id="dd0" style="display:block;"><div><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id4" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd4" class="body" "node"="" href="http://www.gfxtoday.org/exclusive-in-gfxtoday/" onclick="javascript: d.s(4);">Exclusive in GFXtoday</a></div><div><a href="javascript: d.o(58);"><img id="jd58" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id58" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd58" class="body" "node"="" href="http://www.gfxtoday.org/tutorials/" onclick="javascript: d.s(58);">Tutorials</a></div><div id="dd58" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id1" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd1" class="body" "node"="" href="http://www.gfxtoday.org/gnomon_workshop/" onclick="javascript: d.s(1);">Gnomon Workshop</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id19" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd19" class="body" "node"="" href="http://www.gfxtoday.org/gnomonology/" onclick="javascript: d.s(19);">Gnomonology</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id34" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd34" class="body" "node"="" href="http://www.gfxtoday.org/total_training/" onclick="javascript: d.s(34);">Total Training</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id56" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd56" class="body" "node"="" href="http://www.gfxtoday.org/making-of/" onclick="javascript: d.s(56);">Making Of</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id61" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd61" class="body" "node"="" href="http://www.gfxtoday.org/simply_maya/" onclick="javascript: d.s(61);">Simply Maya</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id63" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd63" class="body" "node"="" href="http://www.gfxtoday.org/lynda/" onclick="javascript: d.s(63);">Lynda.com</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id64" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd64" class="body" "node"="" href="http://www.gfxtoday.org/digital_tutors/" onclick="javascript: d.s(64);">Digital Tutors</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id67" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd67" class="body" "node"="" href="http://www.gfxtoday.org/autodesk/" onclick="javascript: d.s(67);">Autodesk</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id70" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd70" class="body" "node"="" href="http://www.gfxtoday.org/cartoon_smart/" onclick="javascript: d.s(70);">Cartoon Smart</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id73" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd73" class="body" "node"="" href="http://www.gfxtoday.org/photoshop_photography/" onclick="javascript: d.s(73);">Photoshop, Photography</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id75" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd75" class="body" "node"="" href="http://www.gfxtoday.org/art_drawing_painting/" onclick="javascript: d.s(75);">Art, Drawing, Painting </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id76" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd76" class="body" "node"="" href="http://www.gfxtoday.org/3d/" onclick="javascript: d.s(76);">3D</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id78" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd78" class="body" "node"="" href="http://www.gfxtoday.org/fxphd/" onclick="javascript: d.s(78);">FXphd</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id79" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd79" class="body" "node"="" href="http://www.gfxtoday.org/digital_art/" onclick="javascript: d.s(79);">Digital Art </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id81" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd81" class="body" "node"="" href="http://www.gfxtoday.org/vtc/" onclick="javascript: d.s(81);">VTC</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id82" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd82" class="body" "node"="" href="http://www.gfxtoday.org/videocopilot/" onclick="javascript: d.s(82);">Videocopilot</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id84" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd84" class="body" "node"="" href="http://www.gfxtoday.org/luxology/" onclick="javascript: d.s(84);">Luxology </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id85" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd85" class="body" "node"="" href="http://www.gfxtoday.org/other/" onclick="javascript: d.s(85);">Other</a></div></div><div><a href="javascript: d.o(59);"><img id="jd59" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id59" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd59" class="body" "node"="" href="http://www.gfxtoday.org/clipart/" onclick="javascript: d.s(59);">Clipart</a></div><div id="dd59" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id7" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd7" class="body" "node"="" href="http://www.gfxtoday.org/photostock/" onclick="javascript: d.s(7);">Photostock</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id22" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd22" class="body" "node"="" href="http://www.gfxtoday.org/art-design/" onclick="javascript: d.s(22);">Art/Design</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id23" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd23" class="body" "node"="" href="http://www.gfxtoday.org/patterns/" onclick="javascript: d.s(23);">Patterns</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id24" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd24" class="body" "node"="" href="http://www.gfxtoday.org/textures/" onclick="javascript: d.s(24);">Textures </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id49" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd49" class="body" "node"="" href="http://www.gfxtoday.org/maps/" onclick="javascript: d.s(49);">Maps</a></div></div><div><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id60" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd60" class="body" "node"="" href="http://www.gfxtoday.org/vector_graphics/" onclick="javascript: d.s(60);">Vector Graphics</a></div><div><a href="javascript: d.o(62);"><img id="jd62" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id62" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd62" class="body" "node"="" href="http://www.gfxtoday.org/ebooks/" onclick="javascript: d.s(62);">Ebooks</a></div><div id="dd62" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id3" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd3" class="body" "node"="" href="http://www.gfxtoday.org/3d-graphics/" onclick="javascript: d.s(3);">3D Graphics </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id5" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd5" class="body" "node"="" href="http://www.gfxtoday.org/drawing_painting/" onclick="javascript: d.s(5);">Drawing, Painting</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id32" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd32" class="body" "node"="" href="http://www.gfxtoday.org/photography/" onclick="javascript: d.s(32);">Photography </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id33" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd33" class="body" "node"="" href="http://www.gfxtoday.org/artbooks/" onclick="javascript: d.s(33);">Artbooks</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id36" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd36" class="body" "node"="" href="http://www.gfxtoday.org/design/" onclick="javascript: d.s(36);">Design</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id38" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd38" class="body" "node"="" href="http://www.gfxtoday.org/html_css_ajax_php_java/" onclick="javascript: d.s(38);">HTML, CSS, Ajax, PHP, Java</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id39" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd39" class="body" "node"="" href="http://www.gfxtoday.org/soft/" onclick="javascript: d.s(39);">Soft</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id43" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd43" class="body" "node"="" href="http://www.gfxtoday.org/film_filmmaking/" onclick="javascript: d.s(43);">Film, Filmmaking  </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id45" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd45" class="body" "node"="" href="http://www.gfxtoday.org/web_related/" onclick="javascript: d.s(45);">Web-related</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id47" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd47" class="body" "node"="" href="http://www.gfxtoday.org/programing/" onclick="javascript: d.s(47);">Programing</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id57" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd57" class="body" "node"="" href="http://www.gfxtoday.org/architecture/" onclick="javascript: d.s(57);">Architecture</a></div></div><div><a href="javascript: d.o(65);"><img id="jd65" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id65" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd65" class="body" "node"="" href="http://www.gfxtoday.org/magazines/" onclick="javascript: d.s(65);">Magazines</a></div><div id="dd65" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id20" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd20" class="body" "node"="" href="http://www.gfxtoday.org/photo/" onclick="javascript: d.s(20);">Photo</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id21" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd21" class="body" "node"="" href="http://www.gfxtoday.org/designing/" onclick="javascript: d.s(21);">Designing</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id31" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd31" class="body" "node"="" href="http://www.gfxtoday.org/3d_m/" onclick="javascript: d.s(31);">3D</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id46" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd46" class="body" "node"="" href="http://www.gfxtoday.org/2d/" onclick="javascript: d.s(46);">2D</a></div></div><div><a href="javascript: d.o(66);"><img id="jd66" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id66" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd66" class="body" "node"="" href="http://www.gfxtoday.org/photoshop_stuff/" onclick="javascript: d.s(66);">Photoshop stuff</a></div><div id="dd66" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id12" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd12" class="body" "node"="" href="http://www.gfxtoday.org/brushes/" onclick="javascript: d.s(12);">Brushes</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id37" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd37" class="body" "node"="" href="http://www.gfxtoday.org/plug-ins/" onclick="javascript: d.s(37);">Plug-ins</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id41" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd41" class="body" "node"="" href="http://www.gfxtoday.org/psd_templates/" onclick="javascript: d.s(41);">PSD templates </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id42" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd42" class="body" "node"="" href="http://www.gfxtoday.org/frames/" onclick="javascript: d.s(42);">Frames </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id44" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd44" class="body" "node"="" href="http://www.gfxtoday.org/actions/" onclick="javascript: d.s(44);">Actions</a></div></div><div><a href="javascript: d.o(68);"><img id="jd68" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id68" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd68" class="body" "node"="" href="http://www.gfxtoday.org/3d_models/" onclick="javascript: d.s(68);">3d models</a></div><div id="dd68" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id6" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd6" class="body" "node"="" href="http://www.gfxtoday.org/daz_poser/" onclick="javascript: d.s(6);">DAZ/Poser</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id17" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd17" class="body" "node"="" href="http://www.gfxtoday.org/for_3ds_max/" onclick="javascript: d.s(17);">For 3Ds Max </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id48" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd48" class="body" "node"="" href="http://www.gfxtoday.org/dosch-3d/" onclick="javascript: d.s(48);">Dosch 3D</a></div></div><div><a href="javascript: d.o(69);"><img id="jd69" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id69" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd69" class="body" "node"="" href="http://www.gfxtoday.org/plugins/" onclick="javascript: d.s(69);">Plugins</a></div><div id="dd69" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id11" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd11" class="body" "node"="" href="http://www.gfxtoday.org/after_effects/" onclick="javascript: d.s(11);">After Effects </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id16" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd16" class="body" "node"="" href="http://www.gfxtoday.org/3ds_max/" onclick="javascript: d.s(16);">3ds Max </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id30" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd30" class="body" "node"="" href="http://www.gfxtoday.org/others/" onclick="javascript: d.s(30);">Others</a></div></div><div><a href="javascript: d.o(71);"><img id="jd71" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id71" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd71" class="body" "node"="" href="http://www.gfxtoday.org/software/" onclick="javascript: d.s(71);">Software</a></div><div id="dd71" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id2" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd2" class="body" "node"="" href="http://www.gfxtoday.org/3d-applications/" onclick="javascript: d.s(2);">3D Applications </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id8" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd8" class="body" "node"="" href="http://www.gfxtoday.org/3d_editors/" onclick="javascript: d.s(8);">3D Editors</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id9" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd9" class="body" "node"="" href="http://www.gfxtoday.org/video_editors/" onclick="javascript: d.s(9);">Video Editors</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id10" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd10" class="body" "node"="" href="http://www.gfxtoday.org/flash_tools/" onclick="javascript: d.s(10);">Flash Tools </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id15" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd15" class="body" "node"="" href="http://www.gfxtoday.org/web_design/" onclick="javascript: d.s(15);">Web-Design </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id18" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd18" class="body" "node"="" href="http://www.gfxtoday.org/portable/" onclick="javascript: d.s(18);">Portable</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id25" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd25" class="body" "node"="" href="http://www.gfxtoday.org/image_editors/" onclick="javascript: d.s(25);">Image Editors</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id35" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd35" class="body" "node"="" href="http://www.gfxtoday.org/dvd_copy_rip_tools/" onclick="javascript: d.s(35);">DVD Copy/Rip Tools </a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id40" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd40" class="body" "node"="" href="http://www.gfxtoday.org/cad_cam/" onclick="javascript: d.s(40);">CAD/CAM</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id53" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd53" class="body" "node"="" href="http://www.gfxtoday.org/audio-and-music/" onclick="javascript: d.s(53);">Audio and Music</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id54" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd54" class="body" "node"="" href="http://www.gfxtoday.org/graphic-and-design/" onclick="javascript: d.s(54);">Graphic and Design</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id55" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd55" class="body" "node"="" href="http://www.gfxtoday.org/science-and-engineering/" onclick="javascript: d.s(55);">Science and Engineering</a></div></div><div><a href="javascript: d.o(72);"><img id="jd72" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id72" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd72" class="body" "node"="" href="http://www.gfxtoday.org/footage/" onclick="javascript: d.s(72);">Footage</a></div><div id="dd72" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id14" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd14" class="body" "node"="" href="http://www.gfxtoday.org/video/" onclick="javascript: d.s(14);">3D Bank</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id50" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd50" class="body" "node"="" href="http://www.gfxtoday.org/digital-juice/" onclick="javascript: d.s(50);">Digital Juice</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id51" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd51" class="body" "node"="" href="http://www.gfxtoday.org/artbeats/" onclick="javascript: d.s(51);">Artbeats</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id52" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd52" class="body" "node"="" href="http://www.gfxtoday.org/sound-effects/" onclick="javascript: d.s(52);">Sound Effects</a></div></div><div><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id74" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd74" class="body" "node"="" href="http://www.gfxtoday.org/fonts/" onclick="javascript: d.s(74);">Fonts</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id77" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd77" class="body" "node"="" href="http://www.gfxtoday.org/icons/" onclick="javascript: d.s(77);">Icons</a></div><div><a href="javascript: d.o(80);"><img id="jd80" border="0" src="http://www.gfxtoday.org/treemenu/img/plus.gif" alt=""></a><img id="id80" src="http://www.gfxtoday.org/treemenu/img/folder.gif" alt=""><a id="sd80" class="body" "node"="" href="http://www.gfxtoday.org/templates/" onclick="javascript: d.s(80);">Templates</a></div><div id="dd80" style="display:none;"><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id13" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd13" class="body" "node"="" href="http://www.gfxtoday.org/flash_animated/" onclick="javascript: d.s(13);">Flash, Animated</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id26" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd26" class="body" "node"="" href="http://www.gfxtoday.org/joomla/" onclick="javascript: d.s(26);">Joomla</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id27" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd27" class="body" "node"="" href="http://www.gfxtoday.org/php/" onclick="javascript: d.s(27);">PHP</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/join.gif" border="0" alt=""><img id="id28" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd28" class="body" "node"="" href="http://www.gfxtoday.org/scripts/" onclick="javascript: d.s(28);">Scripts</a></div><div><img src="http://www.gfxtoday.org/treemenu/img/line.gif" alt=""><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id29" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd29" class="body" "node"="" href="http://www.gfxtoday.org/worldpress/" onclick="javascript: d.s(29);">Worldpress</a></div></div><div><img src="http://www.gfxtoday.org/treemenu/img/joinbottom.gif" border="0" alt=""><img id="id83" src="http://www.gfxtoday.org/treemenu/img/page.gif" alt=""><a id="sd83" class="body" "node"="" href="http://www.gfxtoday.org/wallpapers/" onclick="javascript: d.s(83);">Wallpapers</a></div></div></div></td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+      <br>
+      <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_advertising_bg.gif"></td>
+      </tr>
+
+      <tr>
+        <td align="left" class="SideBar"><!-- Banners -->
+<div align="center">
+<table align="" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td width="160" bgcolor="#ffffff"><iframe width="160" height="600" bgcolor="#ffffff" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://www.ads.gfxtoday.com/adframe.php?source=&amp;what=zone:2"></iframe></td>
+</tr></tbody></table>
+</div>
+<!-- /Banners --></td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+      <br>      
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_archive_bg.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar"><a class="archives" href="http://www.gfxtoday.org/2010/05/"><b>May 2010 (2490)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2010/04/"><b>April 2010 (3442)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2010/03/"><b>March 2010 (3946)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2010/02/"><b>February 2010 (1577)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2010/01/"><b>January 2010 (2413)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/12/"><b>December 2009 (2205)</b></a><br><div id="dle_news_archive" style="display:none;"><a class="archives" href="http://www.gfxtoday.org/2009/11/"><b>November 2009 (2009)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/10/"><b>October 2009 (1984)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/09/"><b>September 2009 (1824)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/08/"><b>August 2009 (1629)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/07/"><b>July 2009 (957)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/06/"><b>June 2009 (779)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/05/"><b>May 2009 (975)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/04/"><b>April 2009 (792)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/03/"><b>March 2009 (612)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/02/"><b>February 2009 (653)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2009/01/"><b>January 2009 (549)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2008/12/"><b>December 2008 (997)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2008/11/"><b>November 2008 (1929)</b></a><br><a class="archives" href="http://www.gfxtoday.org/2008/10/"><b>October 2008 (1058)</b></a><br></div><div id="dle_news_archive_link"><br><a class="archives" onclick="ShowOrHide('dle_news_archive'); document.getElementById( 'dle_news_archive_link' ).innerHTML = ''; return false;" href="#">View the entire archive</a></div></td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr>
+    </tbody></table>
+	<br>
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_topnews_bg.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar">» <a href="http://www.gfxtoday.org/magazines/designing/38914-contrakt-2010-04.html">Contrakt 2010-04</a><br>» <a href="http://www.gfxtoday.org/plugins/43343-vray-for-maya-2009-2011-x86x64.html">Vray for Maya 2009-2011 x86/x64</a><br>» <a href="http://www.gfxtoday.org/plugins/3ds_max/43386-vray-releases-for-max-2008-2011-sp4-sp5-all-releases-x64x86.html">VRAY releases for max 2008-2011 (SP4 &amp; SP5) All release ...</a><br>» <a href="http://www.gfxtoday.org/tutorials/lynda/43339-lyndacom-3ds-max-2011-new-features.html">Lynda.com 3DS Max 2011 New Features</a><br>» <a href="http://www.gfxtoday.org/wallpapers/40213-beautiful-nature-wallpapers-part-6.html">Beautiful nature wallpapers Part 6</a><br>» <a href="http://www.gfxtoday.org/42813-we-are-looking-new-sub-editors.html">We are Looking New Sub Editors</a><br>» <a href="http://www.gfxtoday.org/wallpapers/38075-wallpapers_movies.html">Wallpapers_movies</a><br>» <a href="http://www.gfxtoday.org/wallpapers/39525-beautiful-abstract-wallpaper-pack2.html">Beautiful abstract wallpaper pack2</a><br>» <a href="http://www.gfxtoday.org/icons/37519-computericon-part3.html">ComputerIcon part3</a><br>» <a href="http://www.gfxtoday.org/wallpapers/37076-positive-wallpaper-part7.html">Positive wallpaper part7</a><br></td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr>
+    </tbody></table>
+		<br>
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/lscomm.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar"><script type="text/javascript" src="http://www.gfxtoday.org/engine/skins/default.js"></script> <div onmouseover="showhint('<b>Comment</b>:</b><br />I tried to open it and it asks for a pass, can you tell us please', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/gsmaga/">gsmaga</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/05/15/lyndacom-maya-2011-new-features.html#comment">Lynda.com Maya 2011 New Features</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />sab kuch bik chuka hai? hotfile why?', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/kakaji/">kakaji</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/04/07/autodesk-maya-2011-32-bit-64-bit.html#comment">Autodesk Maya 2011 32-bit + 64-bit</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />whree is 3rd link??', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/azoz91/">azoz91</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/05/10/nero-burning-rom-94260-keygen-thanhthuy15.html#comment">Nero Burning Rom 9.4.26.0 KeyGen (thanhthuy15)</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />Nice post!
+2D Artist Issue 052 April 2010 :
+http://rapidshare.com/files/389831945/2DArtist_Issue_052_Apr_2010.pdf
+en<br />joy!!!', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/betterfly/">betterfly</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/03/23/2dartist-issue-51-march-2010.html#comment">2DArtist Issue 51 - March 2010</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />thanks any chance rapid share links', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/gsmaga/">gsmaga</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/05/19/digital-tutors-architectural-previsualization-in-maya.html#comment">Digital Tutors - Architectural Previsualization in Maya</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />http://hotfile.com/dl/39688682/1260eaf/CRUX1.part01.rar.html
+http://hotfile.c<br />om/dl/39688758/605351f/CRUX1.part02.rar.html
+http://hotfile.com/dl/39688777/b<br />a7cd15/CRUX1.part03.rar.html
+http://hotfile.com/dl/39688835/ea86305/CRUX1.par<br />t04.rar.html
+http://hotfile.com/dl/39688874/4140eb3/CRUX1.part05.rar.html
+<br />http://hotfile.com/dl/39688901/39647f3/CRUX1.part06.rar.html
+http://hotfile.c<br />om/dl/39689122/3443be9/CRUX1.part07.rar.html
+http://hotfile.com/dl/39689147/a<br />fff0f3/CRUX1.part08.rar.html
+http://hotfile.com/dl/39689171/129a7f9/CRUX1.par<br />t09.rar.html
+http://hotfile.com/dl/39689218/6b7d397/CRUX1.part10.rar.html
+<br />http://hotfile.com/dl/39689253/57de0c6/CRUX1.part11.rar.html
+http://hotfile.c<br />om/dl/39689319/26c085d/CRUX1.part12.rar.html
+http://hotfile.com/dl/39689325/c<br />ed8d1a/CRUX1.part13.rar.html
+http://hotfile.com/dl/39689399/c79f3fb/CRUX1.par<br />t14.rar.html
+http://hotfile.com/dl/39689547/1fa28d3/CRUX1.part15.rar.html
+<br />http://hotfile.com/dl/39689589/83d986c/CRUX1.part16.rar.html
+http://hotfile.c<br />om/dl/39689611/2e85c44/CRUX1.part17.rar.html
+http://hotfile.com/dl/39689637/8<br />50c09e/CRUX1.part18.rar.html
+http://hotfile.com/dl/39689694/9aa815d/CRUX1.par<br />t19.rar.html
+http://hotfile.com/dl/39689713/241d4fe/CRUX1.part20.rar.html', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/Asim_45b/">Asim_45b</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/01/28/3d-palace-3ds-max-the-crux-mechanical-masterclass-dvd-edition-3dvds.html#comment">3D-Palace: 3ds Max-The Crux Mechanical Masterclass DVD  ...</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />thanks...', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/ByIIIShArK/">ByIIIShArK</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/05/04/bisazza-mosaico-texture-of-ceramic-and-tiles-for-3d.html#comment">Bisazza MOSAICO : Texture of Ceramic and Tiles For 3D</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />Mi kurva any&amp;#225;d&amp;#233;rt nem tudod felt&amp;#246;lteni valami norm&amp;#225;lis oldalra.', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/joeal/">joeal</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/03/26/2dartist-issue-005-may-2006.html#comment">2DArtist issue 005 May 2006</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />sorry to say but  the hotfiles and uploads links are not working......', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/adimehta/">adimehta</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2010/04/24/drawing-for-all-1-4.html#comment">Drawing For All 1-4</a></div></div><div onmouseover="showhint('<b>Comment</b>:</b><br />These uploading files request for a password...Does this need one?', this, event, '200px')"><div onmouseover="this.className='lastcomm_over';" onmouseout="this.className='lastcomm';" class="lastcomm">Author: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/user/Willymaze/">Willymaze</a><br> Article: <a style="color: #1176CC; text-decoration: none;" href="http://www.gfxtoday.org/2009/10/10/what-is-packaging-design.html#comment">What is Packaging Design?</a></div></div> </td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr>
+    </tbody></table>
+	<br>
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/randoms.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar"><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/photoshop_stuff/psd_templates/21407-yellow-flowers.html">Yellow flowers</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/tutorials/3d/14787-noesissource_choreography_and_in_game_cinematics.html">[Noesis] Source Choreography and in Game Cinematics</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/vector_graphics/41994-25000-logo-png-pack.html">25000 Logo PNG Pack</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/vector_graphics/33117-foliaga-backgrounds.html">Foliaga backgrounds</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org//744-lynda-photoshop-brushes-with-bruce-heavin.html">Lynda: Photoshop Brushes with Bruce Heavin</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/wallpapers/23263-pictures-of-fire-fire-wallpapers.html">Pictures of Fire, Fire Wallpapers</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/software/39254-next-limit-maxwell-render-v203-all-windowseng-update.html">Next Limit Maxwell Render v2.0.3 (All Windows/ENG) + Update</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/tutorials/photoshop_photography/24305-sessions-with-joey-l-22-gb.html">Sessions with Joey L | 2.2 GB</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/photoshop_stuff/plug-ins/33945-topaz-dejpeg-40-win-3264-bit.html">Topaz DeJPEG 4.0 Win 32/64-bit</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/software/dvd_copy_rip_tools/1479-prodad-vitascene-1.0.32-tutoria.html">proDAD Vitascene 1.0.32 + Tutoria</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/software/3d-applications/41960-hamrick-vuescan-prov8630-multilingual-cracked-eat.html">Hamrick VueScan Pro.v8.6.30 Multilingual Cracked-EAT</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/ebooks/7914-joomla-a-users-guide-building-a-successful-joomla.html">Joomla! A User's Guide: Building a Successful Joomla! Power</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/vector_graphics/19455-vectors-art-stylish-people.html">Vectors Art Stylish People</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org//16359-ask-video-mixing-with-the-pros-226-gb.html">Ask Video - Mixing With The Pros | 2.26 GB</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/photoshop_stuff/3213-globes-images-collection.html">Globes Images Collection</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/clipart/photostock/3261-night-city.html">Night City</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/templates/flash_animated/27435-colorshot-flash-site-template.html">color.shot - Flash Site Template</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/wallpapers/22881-cadillac-cars-wallpapers-2.html">Cadillac Cars Wallpapers # 2</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/3d_models/for_3ds_max/11313-3dsmax-full-detailed-3d-stadium.html">3dsmax Full detailed 3d Stadium</a><br><!-- UpDiwnload.iR.iR --><font color="#ff0000"> » </font>  <a href="http://www.gfxtoday.org/vector_graphics/14249-free-set-of-shapes.html">Free Set of Shapes</a><br><!-- UpDiwnload.iR.iR --></td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr>
+    </tbody></table>
+
+</td>
+    <td align="center" valign="top" bgcolor="#FFFFFF">
+        <div id="dle-info"></div>
+        <div id="dle-content">			<table width="100%" align="center" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                  <td width="20" height="30" align="left" valign="top"><img src="/templates/gfxtoday-2008/images/m_l_t.gif"></td>
+                  <td align="left" valign="middle" background="/templates/gfxtoday-2008/images/m_t_t.gif" style="background-repeat:repeat-x"><span class="ntitle">Privacy Policy for www.gfxtoday.org</span></td>
+                  <td width="20" height="30" align="right" valign="top"><img src="/templates/gfxtoday-2008/images/m_r_t.gif"></td>
+                </tr>
+                
+                <tr>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_l_b.gif" style="background-repeat:repeat-y; background-position:left">&nbsp;</td>
+                  <td align="left" valign="top" class="a_block_42"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                     
+                        <td height="20" align="left" class="slink"><table width="100%"><tbody><tr><td align="left" valign="top" class="news">
+                         <div align="center">
+                        <script type="text/javascript"><!--
+google_ad_client = "pub-8483989955378740";
+/* 468x60, FullStory */
+google_ad_slot = "5013209931";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                        </div>
+                        <strong>Privacy Policy for www.gfxtoday.org</strong> <br>
+<p><br> If you require any more information or have any questions about our privacy  policy, please feel free to contact us by email at webmaster@gfxnew.org. <br> <br> At www.gfxtoday.org, the privacy of our visitors is of extreme importance to us.  This privacy policy document outlines the types of personal information is  received and collected by www.gfxtoday.org and how it is used. <br> <br> <strong>Log Files</strong><br> Like many other Web sites, www.gfxtoday.org makes use of log files. The information  inside the log files includes internet protocol ( IP ) addresses, type of  browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit  pages, and number of clicks to analyze trends, administer the site, track user’s  movement around the site, and gather demographic information. IP addresses, and  other such information are not linked to any information that is personally  identifiable. <br> <br> <strong>Cookies and Web Beacons</strong> <br> www.gfxtoday.org does use cookies to store information about visitors preferences,  record user-specific information on which pages the user access or visit,  customize Web page content based on visitors browser type or other information  that the visitor sends via their browser. <br> <br> Some of our advertising partners may use cookies and web beacons on our site.  Our advertising partners include Google Adsense, . <br> <br> These third-party ad servers or ad networks use technology to the advertisements  and links that appear on www.gfxtoday.org send directly to your browsers. They  automatically receive your IP address when this occurs. Other technologies (  such as cookies, javascript, or Web Beacons ) may also be used by the  third-party ad networks to measure the effectiveness of their advertisements and  / or to personalize the advertising content that you see. <br> <br> www.gfxtoday.org has no access to or control over these cookies that are used by  third-party advertisers. <br> <br> You should consult the respective privacy policies of these third-party ad  servers for more detailed information on their practices as well as for  instructions about how to opt-out of certain practices. www.gfxtoday.org's privacy  policy does not apply to, and we cannot control the activities of, such other  advertisers or web sites. <br> <br> If you wish to disable cookies, you may do so through your individual browser  options. More detailed information about cookie management with specific web  browsers can be found at the browsers' respective websites.</p></td></tr></tbody></table></td>
+                      </tr>
+                    </tbody></table></td>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_r_b.gif" style="background-repeat:repeat-y; background-position:right">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_l_b.gif" style="background-repeat:repeat-y; background-position:left">&nbsp;</td>
+                  <td align="center" valign="top" class="news">                         <div align="center">
+                        <script type="text/javascript"><!--
+google_ad_client = "pub-8483989955378740";
+/* 468x60, FullStory */
+google_ad_slot = "5013209931";
+google_ad_width = 468;
+google_ad_height = 60;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+                        </div>
+</td>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_r_b.gif" style="background-repeat:repeat-y; background-position:right">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_l_b.gif" style="background-repeat:repeat-y; background-position:left">&nbsp;</td>
+                  <td align="left" valign="top" style="border-top:1px dotted #EEEEEE">
+				  </td>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_r_b.gif" style="background-repeat:repeat-y; background-position:right">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td width="20" height="20" align="left" valign="top"><img src="/templates/gfxtoday-2008/images/m_l_bb.gif"></td>
+                  <td align="left" valign="top" background="/templates/gfxtoday-2008/images/m_b_b.gif" style="background-repeat:repeat-x; background-position:top">&nbsp;</td>
+                  <td width="20" height="20" align="right" valign="top"><img src="/templates/gfxtoday-2008/images/m_r_bb.gif"></td>
+                </tr>
+			</tbody></table>              <br></div>   
+                 </td>
+                <td width="200" align="center" valign="top" bgcolor="#FFFFFF" style="width:200px">
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td style="height: 20px"><img src="/templates/gfxtoday-2008/images/t_user_bg.gif"></td>
+      </tr>
+      <tr>
+        <td class="SideBar" style="height: 19px">
+                                <table width="180" border="0" cellspacing="0" cellpadding="0">
+                      <tbody><tr>
+                        <td width="170" align="left" valign="top">
+                          <table width="170" border="0" cellpadding="0" cellspacing="0" class="cpbkgr_nolog">
+                            <tbody><tr>
+                              <td height="37" align="left" class="ltitle">Login</td>
+                            </tr>
+                            <tr>
+                              <td align="right" valign="top">
+                                <form method="post" onsubmit="javascript:showBusyLayer()" action="">
+                                  <table width="170" border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                      <td align="left" class="ltitle_small">Name :</td>
+                                      <td width="5" height="18" align="left">&nbsp;</td>
+                                      <td align="right"><input name="login_name" type="text" class="s_field" style="width:100px"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left" class="ltitle_small">Password :</td>
+                                      <td width="5" height="18" align="left">&nbsp;</td>
+                                      <td align="right"><input name="login_password" type="password" class="s_field" style="width:100px"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left">&nbsp;</td>
+                                      <td width="5" height="18" align="left">&nbsp;</td>
+                                      <td align="right"><input onclick="submit();" name="submit" type="submit" style="border:1px solid #C0C0C0; height:20px; font-size:11px" value="Sign In"><input name="login" type="hidden" id="login" value="submit"></td>
+                                    </tr>
+                                    <tr>
+                                      <td align="left">&nbsp;</td>
+                                      <td align="right">&nbsp;</td>
+                                    </tr>
+                                    <tr>
+                                      <td colspan="3" align="right">
+									  	<table width="170" border="0" cellspacing="0" cellpadding="0">
+                                          <tbody><tr>
+                                            <td width="170" align="left" class="copy"><a href="http://www.gfxtoday.org/index.php?do=register">Register Now!</a></td>
+                                          </tr>
+                                          <tr>
+                                            <td width="170" align="left" class="copy"><a href="http://www.gfxtoday.org/index.php?do=lostpassword">Forgot Your Pass?</a></td>
+                                          </tr>
+                                        </tbody></table>
+										</td>
+                                    </tr>
+                                  </tbody></table>
+                                </form>
+                              </td>
+                            </tr>
+                          </tbody></table>
+                        </td>
+                      </tr>
+                    </tbody></table>        </td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+    <br>
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_donate_bg.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar" style="height: 19px">
+        <div align="center">
+<div><br></div><table style="width: 100%">
+<tbody><tr>
+<td style="text-align:center;font-style:italic;color:red">Donate Us 
+</td>
+</tr>
+
+<tr>
+<td align="center">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9244432">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="I1" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+<br>
+</td>
+
+</tr><tr><td align="center"><a href="http://www.gfxtoday.org/Donators.html">Donators List </a> <hr style="width: 180px"></td>
+</tr>
+
+<tr>
+<td style="text-align:center;font-style:italic;color:red">MemberShip Subscription</td>
+</tr>
+
+<tr>
+<td align="center"><form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="9230239">
+<table>
+<tbody><tr>
+<td><input type="hidden" name="on0" value="Amount">Amount</td>
+<td><select name="os0">
+	<option value="5.00">5.00 </option>
+	<option value="10.00">10.00 </option>
+	<option value="25.00">25.00 </option>
+	<option value="50.00">50.00 </option>
+	<option value="100.00">100.00 </option>
+	<option value="500.00">500.00 </option>
+</select> </td></tr>
+</tbody></table>
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1">
+</form>
+</td>
+</tr>
+<tr><td align="center"><a href="http://www.gfxtoday.org/Membership_Subscription.html">Membership Subscription</a></td>
+</tr>
+
+</tbody></table>
+</div>
+
+        </td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr> 
+    </tbody></table>
+
+        <br>
+    <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_friends_bg.gif"></td>
+        </tr>
+      <tr>
+        <td align="left" class="SideBar" style="height: 19px"><!-- ads -->
+<div align="center">
+<a href="http://www.clicksor.com/new_aa_site.php?srid=7436981" target="_new">
+<img src="http://www.clicksor.com/publisher/images/ad/110x32_1.gif" border="0"></a>
+</div>
+<br>
+ <div align="center">
+<a href="http://www.clicksor.com/pub/index.php?ref=96647" target="_new">
+<img src="http://www.clicksor.com/publisher/images/pub/110x32_1.gif" border="0"></a>
+</div>
+<div align="center">
+<iframe width="175" height="100" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://www.ads.gfxtoday.com/adframe.php?source=&amp;what=zone:7"></iframe>
+</div>
+<!-- / ads -->
+<!-- ads --> 
+<div align="center">
+<iframe width="175" height="100" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://www.ads.gfxtoday.com/adframe.php?source=&amp;what=zone:8"></iframe>
+</div>
+<!-- / ads --></td>
+        </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+        </tr> 
+    </tbody></table>
+        	   <br>
+	<table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_advertising_bg.gif"></td>
+      </tr>
+
+      <tr>
+        <td align="left" class="SideBar"><!-- ads --> 
+<div align="center">
+<iframe width="180" height="150" frameborder="0" scrolling="no" marginwidth="0" marginheight="0" src="http://www.ads.gfxtoday.com/adframe.php?source=&amp;what=zone:6"></iframe>
+</div>
+<!-- / ads --></td>
+      </tr>
+
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+<br>
+        <table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_poll_bg.gif"></td>
+      </tr>
+      <tr>
+        <td align="left" class="SideBar"><script language="javascript" type="text/javascript">
+<!--
+function doVote( event ){
+
+    var frm = document.vote;
+	var vote_check = '';
+
+    for (var i=0; i < frm.elements.length; i++) {
+        var elmnt = frm.elements[i];
+        if (elmnt.type=='radio') {
+            if(elmnt.checked == true){ vote_check = elmnt.value; break;}
+        }
+    }
+
+	var ajax = new dle_ajax();
+	ajax.onShow ('');
+	var varsString = "";
+	ajax.setVar("vote_id", "1" );
+	ajax.setVar("vote_action", event);
+	ajax.setVar("vote_check", vote_check);
+	ajax.setVar("vote_skin", "gfxtoday-2008");
+	ajax.requestFile = dle_root + "engine/ajax/vote.php";
+	ajax.method = 'GET';
+	ajax.element = 'vote-layer';
+	ajax.sendAJAX(varsString);
+}
+//-->
+</script><div id="vote-layer">
+                              <!-- Voting question start -->
+                              <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                <tbody><tr>
+                                  <td align="left"><strong>GFXtoday Site is:</strong></td>
+                                </tr>
+                              </tbody></table>
+                              <!-- Voting question end -->
+                              <br>
+                              <!-- Voting answers start -->
+                              <form method="post" name="vote" action=""><div id="dle-vote"><div class="vote"><input name="vote_check" type="radio" checked="checked" value="0"> Excellent</div><div class="vote"><input name="vote_check" type="radio" value="1"> Good</div><div class="vote"><input name="vote_check" type="radio" value="2"> Fair</div><div class="vote"><input name="vote_check" type="radio" value="3"> Poor</div><div class="vote"><input name="vote_check" type="radio" value="4"> Bad</div></div>
+                                <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                                  <tbody><tr>
+                                    <td width="25" align="left"><img src="/templates/gfxtoday-2008/images/spacer.gif" width="25" height="1"></td>
+                                    <td align="left">
+                                    <br>
+                                      <input type="hidden" name="vote_action" value="vote">
+                                      <input type="hidden" name="vote_id" id="vote_id" value="1">
+                                      <input type="submit" onclick="doVote('vote'); return false;" class="bbcodes_poll" value="Submit"></td>
+                                  </tr>
+                                </tbody></table>
+                              </form>
+                              <!-- Voting answers end -->
+                              <!-- Voting results start -->
+                              <form method="post" name="vote_result" action="">
+                                <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                                  <tbody><tr>
+                                    <td align="left" width="20"><img src="/templates/gfxtoday-2008/images/spacer.gif" width="1" height="3"></td>
+                                    <td align="left"><img src="/templates/gfxtoday-2008/images/spacer.gif" width="1" height="3"></td>
+                                  </tr>
+                                  <tr>
+                                    <td width="25" align="left"><img src="/templates/gfxtoday-2008/images/spacer.gif" width="25" height="1"></td>
+                                    <td align="left"><input type="hidden" name="vote_action" value="results">
+                                      <input type="hidden" name="vote_id" value="1">
+                                      <input type="submit" onclick="doVote('results'); return false;" class="bbcodes_poll" value="Results"></td>
+                                  </tr>
+                                </tbody></table>
+                              </form>
+                              <!-- Voting results end -->
+
+</div></td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+<br>
+<table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_bookmark_bg.gif"></td>
+      </tr>
+      <tr>
+        <td class="SideBar">
+		<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="http://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('http://feedburner.google.com/fb/a/mailverify?uri=gfxtoday', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"></p><input type="hidden" value="gfxtoday" name="uri"><input type="hidden" name="loc" value="en_US"><input type="submit" value="Subscribe"></form>
+        
+         <p align="center"><a href="http://feeds.feedburner.com/gfxtoday"><img src="/templates/gfxtoday-2008/images/rss-icons.gif" style="border:0" alt=""></a></p>
+        <p align="center"><a href="http://feeds.feedburner.com/gfxtoday"><img src="http://feeds.feedburner.com/~fc/gfxtoday?bg=99CCFF&amp;fg=444444&amp;anim=1&amp;label=listeners" height="26" width="88" style="border:0" alt=""></a></p>       </td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+<br>
+<table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/info.gif"></td>
+      </tr>
+      <tr>
+        <td align="left" class="SideBar">
+		<fieldset class="fieldset">
+<legend style="color: rgb(0, 153, 51);"><strong>Site Statistics</strong></legend>
+<div class="copy" align="left">
+        <!--START USERRATING-->
+		<table class="text" cellpadding="0" cellspacing="0">
+        <tbody><tr><td colspan="4"><b>Top Author:
+        </b></td></tr>
+       
+		<tr><td><b>&nbsp;&nbsp;1&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/webmaster" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src=http://www.gfxtoday.org/uploads/fotos/foto_1.jpg alt=foto_1.jpg></center><br><b>User Group :</b>  Administrator<br><b>Last Visit :</b> 22/05/2010 - 03:21', this, event, '200px');">webmaster</a> </td>
+        <td align="center"><b>5239</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;2&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/artbon" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 21/05/2010 - 00:45', this, event, '200px');">artbon</a> </td>
+        <td align="center"><b>2209</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;3&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/neithnim84" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 22/05/2010 - 08:02', this, event, '200px');">neithnim84</a> </td>
+        <td align="center"><b>1882</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;4&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/Proskorp" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src=http://www.gfxtoday.org/uploads/fotos/foto_7091.jpg alt=foto_7091.jpg></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 22/05/2010 - 09:08', this, event, '200px');">Proskorp</a> </td>
+        <td align="center"><b>1376</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;5&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/naveennisha" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Editor<br><b>Last Visit :</b> 22/05/2010 - 09:36', this, event, '200px');">naveennisha</a> </td>
+        <td align="center"><b>1209</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/Pray" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 12/04/2010 - 18:27', this, event, '200px');">Pray</a> </td>
+        <td align="center"><b>1124</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;7&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/Poiskovik" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src=http://www.gfxtoday.org/uploads/fotos/foto_1634.gif alt=foto_1634.gif></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 22/05/2010 - 03:03', this, event, '200px');">Poiskovik</a> </td>
+        <td align="center"><b>1087</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;8&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/nhattinh92" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 22/05/2010 - 09:47', this, event, '200px');">nhattinh92</a> </td>
+        <td align="center"><b>936</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;9&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/Liberti" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src=http://www.gfxtoday.org/uploads/fotos/foto_13610.jpg alt=foto_13610.jpg></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 22/05/2010 - 07:26', this, event, '200px');">Liberti</a> </td>
+        <td align="center"><b>844</b></td>
+        </tr>
+		<tr><td><b>&nbsp;&nbsp;10&nbsp;&nbsp;&nbsp;</b></td>
+        <td><a href="http://www.gfxtoday.org/user/geroczka" onmouseover="showhint('<div style=\'text-align: center;\'></div><br><center><img src= \'/templates/gfxtoday-2008/images/noavatar.png\'></center><br><b>User Group :</b>  Member<br><b>Last Visit :</b> 13/05/2010 - 07:46', this, event, '200px');">geroczka</a> </td>
+        <td align="center"><b>551</b></td>
+        </tr></tbody></table>
+<!--END USERRATING-->
+<!--START USERSTATISTIC -->
+<br><br><table class="stext" cellpadding="0" cellspacing="0" width="90%">
+<tbody><tr><td><b>Membership:</b></td></tr>
+<tr><td>&nbsp;&nbsp;Total : 20846&nbsp;&nbsp;&nbsp;<font color="red">( +5 )</font></td> </tr>
+<tr><td>&nbsp;&nbsp;This month : 275</td></tr>
+<tr><td>&nbsp;&nbsp;This hour : 0</td></tr>
+<tr><td>&nbsp;&nbsp;Banned : 0</td></tr>
+</tbody></table>
+<!--END USERSTATISTIC -->
+<!--STATISTIC NEWS-->
+<br><br><table class="stext" cellpadding="0" cellspacing="0" width="90%">
+<tbody><tr><td><b>Articles:</b></td></tr>
+<tr><td>&nbsp;&nbsp;Total : 33512&nbsp;&nbsp;<font color="green">( +410 )</font></td></tr>
+<tr><td>&nbsp;&nbsp;This Month : 4080</td></tr>
+<tr><td>&nbsp;&nbsp;This hour : 0</td></tr>
+<tr><td>&nbsp;&nbsp;Awaiting validation : <font color="red">692</font></td></tr>
+</tbody></table>
+<!-- END STATISTIC NEWS -->
+<br><br><table class="stext" cellpadding="0" cellspacing="0" width="90%">
+<tbody><tr><td><b>Comments:</b></td></tr>
+<tr><td>&nbsp;&nbsp;Total : 10446&nbsp;&nbsp;<font color="blue">( +0 )</font></td></tr>
+<tr><td>&nbsp;&nbsp;This month : 155</td></tr>
+<tr><td>&nbsp;&nbsp;This hour : 0</td></tr>
+</tbody></table>
+</div>
+								</fieldset></td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+    <br>
+
+<table width="190" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td height="20"><img src="/templates/gfxtoday-2008/images/t_advertising_bg.gif"></td>
+      </tr>
+      <tr>
+        <td align="left" class="SideBar"><a href="http://www.gfxnew.us/templets-designs/116887-solid-pdf-word-converter-1-0-mac-os-x.html&#10;&#9;&#9;&#9;" target="_blank"><b>Solid PDF to Word Converter 1.0 for Mac OS X</b></a><br>Solid PDF to Word Converter 1.0 | Mac OS X | 23.3 MB 
+ 
+Solid Converter PDF helps you convert PDF ...<br><br><a href="http://www.gfxnew.us/templets-designs/116886-typeit4me-v5-0-2-macosx-incl-keymaker-core.html&#10;&#9;&#9;&#9;" target="_blank"><b>TypeIt4Me v5.0.2 MacOSX Incl Keymaker-CORE</b></a><br>TypeIt4Me.v5.0.2.MacOSX.Incl.Keymaker-CORE 
+NFO 
+Type a short abbreviation and have it expand to ...<br><br><a href="http://www.gfxnew.us/templets-designs/116885-iphone-sdk-4-beta-4-build-10m2252-intel.html&#10;&#9;&#9;&#9;" target="_blank"><b>iPhone SDK 4 beta 4 Build 10M2252 [Intel]</b></a><br>iPhone SDK 4 beta 4 Build 10M2252 [Intel] | MacOSX | 2.05 GB 
+ 
+iPhone SDK 4.0 provides support ...<br><br><a href="http://www.gfxnew.us/templets-designs/116884-elgato-eyetv-v3-3-3-mac-osx-hotiso.html&#10;&#9;&#9;&#9;" target="_blank"><b>Elgato EyeTV v3.3.3 MAC OSX-HOTiSO</b></a><br>Elgato.EyeTV.v3.3.3.MAC.OSX-HOTiSO 
+ The award-winning TV software for Mac 
+NFO 
+ 
+Features: 
+ ...<br><br><a href="http://www.gfxnew.us/templets-designs/116883-writeflow-0-9114-a.html&#10;&#9;&#9;&#9;" target="_blank"><b>WriteFlow 0.9114</b></a><br>WriteFlow 0.9114 | Mac OS X | 6.8 MB 
+ 
+Writing long and complex texts always presents a ...<br><br><a href="http://www.gfxnew.us/templets-designs/116882-mackeeper-0-9-3-a.html&#10;&#9;&#9;&#9;" target="_blank"><b>MacKeeper 0.9.3</b></a><br>MacKeeper 0.9.3 | Mac Os X | 6.7 MB 
+ 
+MacKeeper is not just an ordinary app. It is an all-in-one ...<br><br><a href="http://www.gfxnew.us/programming-related/116881-windows-7-diamond-violet-2010-rus-ukr-eng-2010-a.html&#10;&#9;&#9;&#9;" target="_blank"><b>Windows 7 Diamond - Violet 2010 (RUS/UKR/ENG/2010)</b></a><br>Windows 7 Diamond - Violet 2010 (RUS/UKR/ENG/2010) 
+ 
+ 
+Windows 7 Diamond - Violet 2010 ...<br><br><a href="http://www.gfxnew.us/templets-designs/116880-iwork-09-serials.html&#10;&#9;&#9;&#9;" target="_blank"><b>iWork '09   Serials</b></a><br>iWork '09 + Serials 
+ 
+This has been virus checked and guaranteed CLEAN 
+Pages 
+Your instant ...<br><br><a href="http://www.gfxnew.us/adobe-aftereffect/116879-after-effects-project-film-masters-iv-09-green-world.html&#10;&#9;&#9;&#9;" target="_blank"><b>After Effects Project - Film Masters IV - 09 Green World</b></a><br>After Effects Project - Film Masters IV - 09 Green World 
+For After Effects CS4 and 3DS Max 9.0 | ...<br><br><a href="http://www.gfxnew.us/templets-designs/116878-iconfactory-twitterrific-v3-2-2-macosx-incl-keymaker-cor.html&#10;&#9;&#9;&#9;" target="_blank"><b>The Iconfactory Twitterrific v3.2.2 MacOSX Incl Keymaker-COR</b></a><br>The.Iconfactory.Twitterrific.v3.2.2.MacOSX.Incl.Keymaker-CORE 
+Twitterrific is a fun application ...<br><br></td>
+      </tr>
+      <tr>
+        <td><img src="/templates/gfxtoday-2008/images/b_bg.gif"></td>
+      </tr>
+    </tbody></table>
+        <br>
+</td>
+
+        
+        
+        
+    
+  </tr><tr>
+    <td colspan="3" align="center" height="60" bgcolor="#FFFFFF" class="stext" style="border-top:1px dotted #EEEEEE">
+    <div align="center">
+        <div align="center">
+        <script type="text/javascript"><!--
+google_ad_client = "pub-8483989955378740";
+/* 728x15-links-footer */
+google_ad_slot = "1302154872";
+google_ad_width = 728;
+google_ad_height = 15;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</div>
+<div align="center">
+	<script type="text/javascript">
+//interstitial ad
+clicksor_enable_inter = true; clicksor_maxad = -1;	 
+clicksor_hourcap = -1; clicksor_showcap = 2;
+//Alert MsgAd
+clicksor_enable_MsgAlert = true;
+//default pop-under house ad url
+clicksor_enable_pop = true; clicksor_frequencyCap = -1;
+durl = 'http://forums.cgway.net/';
+//default banner house ad url 
+clicksor_default_url = '';
+clicksor_banner_border = '#ffffff'; clicksor_banner_ad_bg = '#FFFFFF';
+clicksor_banner_link_color = '#757575'; clicksor_banner_text_color = '#3060A0';
+clicksor_banner_image_banner = true; clicksor_banner_text_banner = true;
+clicksor_layer_border_color = '';
+clicksor_layer_ad_bg = ''; clicksor_layer_ad_link_color = '';
+clicksor_layer_ad_text_color = ''; clicksor_text_link_bg = '';
+clicksor_text_link_color = '#ff0000'; clicksor_enable_text_link = true;
+clicksor_enable_VideoAd = true;
+</script>
+<script type="text/javascript" src="http://ads.clicksor.com/showAd.php?nid=1&amp;pid=96647&amp;adtype=1&amp;sid=142983"></script>
+<noscript><a href="http://www.yesads.com">online marketing</a></noscript>
+ 
+</div>    </div>
+    <a href="/" class="">
+    Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/?do=register">Register</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/rss.xml">RSS</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.gfxtoday.org/Privacy_Policy.html">Privacy Policy</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/sitemap.html">Sitemap</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/?do=feedback">Contact Us</a>
+    <br><br>
+    <div align="center">
+    <div style="width:95%; border:1px solid #e1dfdf; padding:2px">
+    <span style="font-size:10px"><strong>DISCLAIMER</strong><p style="text-align:justify">
+		None of the files shown here are hosted or transmitted by this server. The links are provided solely by this site's users. The administrator of this site (www.gfxtoday.com) cannot be held responsible for what its users post, or any other actions of its users. You may not use this site to distribute or download any material when you do not have the legal rights to do so. It is your own responsibility to adhere to these terms.</p>
+	<p><a href="http://www.gfxtoday.com/dmca.html">DMCA Information</a> <b>
+	<sub>If you have any doubts about legality of content or you have another 
+	suspicions,feel free to contact us directly by email gfxtoday(at)gmail.com.<br>
+	GFXtoday.com does not store any files listed on its server.</sub></b></p></span></div></div>
+	<p style="width:95%; border:1px solid #e1dfdf; padding:2px">Copyright © 2008-2009 <a href="http://www.gfxtoday.com/">gfxtoday</a>. All rights reserved.</p>
+</td>
+  </tr>
+</tbody></table>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-5370134-2");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<!-- DataLife Engine Copyright SoftNews Media Group (http://dle-news.ru) -->
+</body></html>
