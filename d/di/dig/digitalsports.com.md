@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215100735id_/http%3A//www.digitalsports.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalsports.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205839id_/http%3A//www.digitalsports.com/privacy_policy.aspx) for the most accurate reproduction.*
 
 # DigitalSports - Privacy Policy
 
