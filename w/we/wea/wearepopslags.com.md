@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117053521id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearepopslags.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522110222id_/http%3A//www.wearepopslags.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Are Pop Slags
 
@@ -30,6 +30,6 @@ For further information on cookies and how to switch them off see [www.allaboutc
 This site contains links and references to other websites outside of our control. Please be aware that we have no control over these sites and our privacy policy does not apply to these sites. We encourage you to read the privacy policies and terms and conditions of linked or referenced sites you enter.
 
 **4\. International data transfer**  
-The use of a website to collect and process personal information inevitably involves the transmission of data internationally. Please note that if you are based within the European Economic Area (”EEA”) the information you provide may be transferred outside of the EEA for the purposes of processing by us. By visiting our website you acknowledge this and agree to the transmission of data in this way. 
+The use of a website to collect and process personal information inevitably involves the transmission of data internationally. Please note that if you are based within the European Economic Area (“EEA”) the information you provide may be transferred outside of the EEA for the purposes of processing by us. By visiting our website you acknowledge this and agree to the transmission of data in this way. 
 
 If you do not agree with this Privacy Policy you should not submit your personal information on this website.
