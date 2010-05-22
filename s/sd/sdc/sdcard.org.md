@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120063234id_/http%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdcard.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522101342id_/http%3A//www.sdcard.org/privacy) for the most accurate reproduction.*
 
-# Privacy Statement - SD Card Association
-
-| 
+# Privacy Statement - SD Association
 
 [Home](http://www.sdcard.org/) » **Privacy  Statement**
 
@@ -36,6 +34,4 @@ You may review and update the information that you provide to us through this We
 
 ## Changes to this Policy
 
-Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.  
-  
----|---
+Please check this privacy policy periodically to inform yourself of any changes. Although we reserve the right to modify or supplement this privacy policy, we will provide notice to you on this Web site of any major changes for at least 30 days following the change.
