@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403231258id_/http%3A//fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionmodeldirectory.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214937id_/http%3A//www.fashionmodeldirectory.com/info/privacy) for the most accurate reproduction.*
 
 # The Fashion Model Directory (FMD) - FashionModelDirectory.com
 
 | [](https://web.archive.org/models)| [](https://web.archive.org/models)  
 ---|---  
 [](https://web.archive.org/agencies/)| [](https://web.archive.org/agencies/)  
+[](https://web.archive.org/magazines/)| [](https://web.archive.org/magazines/)  
 [](https://web.archive.org/designers/)| [](https://web.archive.org/designers/)  
-[](https://web.archive.org/fashion_directory/)| [](https://web.archive.org/fashion_directory/)  
+[](https://web.archive.org/brands/)| [](https://web.archive.org/brands/)  
 [](https://web.archive.org/specials/)| [](https://web.archive.org/specials/)  
 [](http://forums.fmd1.com/)| [](http://forums.fmd1.com/)  
 [](https://web.archive.org/info/about/)| [](https://web.archive.org/info/about/)  
@@ -71,7 +72,7 @@ Please click the back button on your browser to return to the previous page.
 ---|---  
   
   
-newsletter   
+newsletter  
 ---  
   
 Sign up for our newsletter!
@@ -80,8 +81,5 @@ email:
   
   
   
+  
 
-
-|  [join FMD Club](https://web.archive.org/register) | [about](https://web.archive.org/info/about) | [sitemap](https://web.archive.org/sitemap) | [contact us](https://web.archive.org/contact) © 1999-2009 Fashion Model Directory. All rights reserved. 
-
-Use of this site constitutes acceptance of our [ Copyright](https://web.archive.org/info/cipa/), [ User Agreement](https://web.archive.org/info/dua), [ Disclaimer ](https://web.archive.org/info/disclaimer) and [ Privacy Policy](https://web.archive.org/info/privacy). The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Fashion Model Directory. Any unauthorized or uncredited use of this material will result in possible prosecution. All 3rd party copyrights and trademarks are the property of their respective owners. 
