@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119054324id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poconorecord.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522103700id_/http%3A//www.poconorecord.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # 
 
