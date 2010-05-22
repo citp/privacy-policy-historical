@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202082319id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcteach.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215206id_/http%3A//www.abcteach.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,16 @@ Some of our business partners use cookies on our site (for example, advertisers)
 
 This privacy statement applies solely to information collected by **a** **b** **c** **teach**. a **bcteach** contains links to other sites and advertisements for other sites. Please be aware that **a** **b** **c** **teach** is not responsible for the privacy practices of these sites. We encourage our users to read the privacy statements of any web site that collects personally identifiable information. 
 
+## Advertisements
+
+  * Google, as a third party vendor, uses cookies to serve ads on www.abcteach.com.
+  * Google’s use of the DART cookie enables it to serve ads to abcteach users based on their visit to www.abcteach.com and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
+
+
+
+Update your [Google Ad Preferences](http://www.google.com/ads/preferences) to control the ads you see.
+
 ## Your Consent to This Agreement
 
 By using our web sites, you consent to the collection and usage of information by **a** **b** **c** **teach** as specified above.
@@ -33,18 +43,14 @@ By using our web sites, you consent to the collection and usage of information b
 
 Main Menu: 
 
-[Member Log In](http://members.abcteach.com/ "Member Log In")  
-[Directory](http://www.abcteach.com/ "Directory")  
-[abctools](http://www.abcteach.com/abctools_home.php "abctools")  
-[What's New?](https://web.archive.org/whats_new.php "What's New?")  
-[Search](http://www.abcteach.com/search.php "Search")  
-[Site License](http://www.abcteach.com/membership.php "Site License")  
-[Gift Memberships](https://web.archive.org/gift.php "Gift Memberships")  
-[University Partnerships](https://web.archive.org/universities.php "University Partnerships")  
-[Newsletter Archive](https://web.archive.org/newsletter/ "Newsletter Archive")  
-[My Account](http://www.abcteach.com/member_tools.php "My Account")  
-[Submission Guidelines](http://www.abcteach.com/submission_guidelines.php "Submission Guidelines")  
-[Contact Us](http://www.abcteach.com/contact_us.php "Contact Us")  
-[Advertise](https://web.archive.org/advertising.php "Advertise")  
-[Help](http://www.abcteach.com/help.php "Help")  
+[abctools](http://www.abcteach.com/abctools_home.php)  
+[What's New?](https://web.archive.org/whats_new.php)  
+[Blog](https://web.archive.org/blog/)  
+[Search](http://www.abcteach.com/search.php)  
+[Educational Links](https://web.archive.org/directory/educational_links/)  
+[Membership](http://www.abcteach.com/membership.php)  
+[Newsletter Archive](https://web.archive.org/newsletter/)  
+[Contact Us](http://www.abcteach.com/contact_us.php)  
+[Advertise](https://web.archive.org/advertising.php)  
+[Help/FAQ](http://www.abcteach.com/help.php)  
 [RSS](http://www.abcteach.com/cmd/rss.php)
