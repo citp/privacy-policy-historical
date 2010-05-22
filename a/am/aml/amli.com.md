@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118154533id_/http%3A//www.amli.com/global/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amli.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522152910id_/http%3A//www.amli.com/global/privacy-policy.aspx) for the most accurate reproduction.*
 
 # AMLI Residential
+
+  [ ](https://web.archive.org/apartments/contact-us.aspx) [ ](https://web.archive.org/apartments/my-picks.aspx)
 
 [ ](https://web.archive.org/)  
   
