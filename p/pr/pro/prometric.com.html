@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prometric.com privacy policy that was archived on 2009-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123062445id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prometric.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522103441id_/http%3A//www.prometric.com/Privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -541,6 +541,11 @@ objTargetField.value = strMonth + "/" + strDay + "/" + strYear;
 // This function is based on setAppointmentDate, but accepts a date format as a parameter
 function setDateDay (strYear, strMonth, strDay, objTargetField, intDateFormat) 
 {
+    var currDate = new Date();
+    currDay = currDate.getDate();
+    currMonth = currDate.getMonth() + 1;
+    currYear = currDate.getYear();
+
     switch(intDateFormat)
     {
         case 1: //month/day/year
@@ -556,6 +561,14 @@ function setDateDay (strYear, strMonth, strDay, objTargetField, intDateFormat)
             if (strYear.length == 4) {strYear = strYear.substr(2,2);}
 
             objTargetField.value = strDay + strMonth + strYear;
+            break;
+        case 4: // mm/dd/yyyy
+            if (strDay.length == 1) {strDay = "0" + strDay;}
+            if (strMonth.length == 1) {strMonth = "0" + strMonth;}
+            if (strYear.length == 1) {strYear = "0" + strYear;}
+            if (strYear.length == 2) {strYear = currYear.substr(0,2) + strYear.substr(2,2);}
+
+            objTargetField.value =  strMonth + "/" + strDay + "/" + strYear;
             break;
         default:
             alert("setDateDay: Unexpected date format encountered");
@@ -583,9 +596,9 @@ if ((document.form1.altTcCode.value.length >= 1) ||
 return false;
 }
 
-
 // -->
 </script>
+
 
 
 <script language="javascript"> 
