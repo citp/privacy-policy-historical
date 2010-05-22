@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117112152id_/http%3A//www.gamerzines.com/support/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerzines.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522204758id_/http%3A//www.gamerzines.com/support/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - GamerZines : Free Digital Games Magazines
 
