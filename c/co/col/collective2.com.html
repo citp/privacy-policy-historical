@@ -1,0 +1,794 @@
+<!--The following is the downloaded HTML source of the collective2.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522110753id_/http%3A//www.collective2.com/static/info/privacy.htm) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title> Become a trading system developer on Collective2</title>
+    <meta http-equiv="Pragma" content="no-cache">
+	<meta http-equiv="Expires" content="-1">
+    <meta name="description" content="">
+    
+    <meta name="keywords" content="trading system, automated trading">
+    <meta name="robots" content="index, follow">
+    <meta name="GOOGLEBOT" content="INDEX, FOLLOW">
+    <meta name="language" content="english">
+
+    <link rel="icon" type="image/gif" href="/favicon.ico">
+    <link rel="SHORTCUT ICON" href="/favicon.ico">
+
+
+    <link rel="stylesheet" href="/css/stylelight.css" type="text/css">
+
+
+<link href="/css/themes/default.css" rel="stylesheet" type="text/css">
+<link href="/css/themes/alphacube.css" rel="stylesheet" type="text/css">
+<link href="/css/tablekit/style.css" rel="stylesheet" type="text/css">
+
+
+
+
+<!-- Note that broker styles are now overriding any that are specified per-app! -->
+
+
+
+
+
+<!--[if IE]><link rel="stylesheet" href="/css/iefixes.css" type="text/css" /><![endif]-->
+<!--[if IE 6]><link rel="stylesheet" href="/css/ie6fixes.css" type="text/css" /><![endif]-->
+<!--[if lt IE 8]><link rel="stylesheet" href="/css/ie7fixes.css" type="text/css" /><![endif]-->
+<!--[if IE 8]><link rel="stylesheet" href="/css/ie8fixes.css" type="text/css" /><![endif]-->
+
+<script src="/scripts/scriptlight.js" type="text/javascript"></script>
+<script src="/scripts/popup.js" type="text/javascript"></script>
+       
+<script src="/js/dw_event.js" type="text/javascript"></script>
+<script src="/js/dw_viewport.js" type="text/javascript"></script>
+<script src="/js/dw_tooltip.js" type="text/javascript"></script>
+<script src="/js/prototype.js" type="text/javascript"></script>
+<script src="/js/scriptaculous.js" type="text/javascript"></script>
+<script src="/js/window.js" type="text/javascript"></script>
+
+<script src="/js/dashboardscripts.js" type="text/javascript"></script>
+
+<script src="/js/browserDetect.js" type="text/javascript"></script>
+<script src="/js/splash.js" type="text/javascript"></script>
+<script src="/js/tablekit.js" type="text/javascript"></script>
+<script src="/js/c2systems.js" type="text/javascript"></script>
+
+
+
+<script type="text/javascript">
+    var SITE_NAME="Collective2";
+    var SITE_BASE="http://www.collective2.com";
+    var CGI='http://www.collective2.com/cgi-perl';
+    var CGIAPP="http://www.collective2.com/cgi-perl/static.mpl";
+    var ns4 = (document.layers) ? true : false;
+    var ie4 = (document.all && !document.getElementById) ? true : false;
+    var ie5 = (document.all && document.getElementById) ? true : false;
+    var ns6 = (!document.all && document.getElementById) ? true : false;
+    var browserString = BrowserDetect.browser + ' ' + BrowserDetect.version;
+    var http;
+    var pendURL=new Array();
+    var gDisposalEvents=new Array();
+    var gWaitingForURL=0;
+    var gsess='783546183331807664597792845111617';
+    var session='783546183331807664597792845111617';
+    var gRespondingApp='/cgi-perl/dashreceiver.mpl';
+    var gLastKeyPressDate=0;
+    var gUnprocKeypress=0;
+    var gLastSearchKeyPressDate=0;
+    var gUnprocSearchKeypress=0;
+    var gPersonID=0;
+    var gWatchList=new Array();
+    var gRecentLooks=new Array();
+    var gWLdrag=new Array();
+    var gDraggables=new Array();
+    var gMouseDownDate;
+    var gLastXClick=0;
+    var gV='';
+    var gPopUpSid=0;
+    var preloadNext0;
+    var preloadNext1;
+    var gVisibleTicker=0;
+    var gFreezeTicker=0;
+    var gDragTicker=0;
+    var gFreezePoll=0;
+    var gAdWaitStart=0;
+    var gEventStack=new Array();
+    var gVisibleEventStack=new Array();
+    var gDeltaIntervalms=8000;
+    var gDeltaClass='forum';
+    var gPopUpSid=0;
+    var gPageLock=0;
+    var gNoWatchListTop=0;
+    
+    gScriptName='static.mpl';
+    
+    pendURL.push( '/cgi-perl/dashreceiver.mpl?want=warnloadNonSyspage' );
+
+
+function dragndropInit()
+{
+
+    //draggable
+    
+    
+
+    //droppable
+    Droppables.add('watchlistdroptarget',{
+accept: ['favoriteChart','reportChart','reccontainer','reccontainerlast','verticaltilerl','verticaltilerlON','dashsys','revitem','gainitem','gainitemON','loseitem','loseitemON','forsys','forsysON','innerTickerSponsorDROP','featuredSystemBlk','searchsysitem','wltileclass','findertile','ldrUP','ldrDOWN','ldrNEUT','mysysitem','sysbc','leftnavsys','gridsys','tickChart','tickerAdChart'],
+onDrop:  function(element) 
+{
+   var sid=element.id.substring(6);
+   var url=gRespondingApp+'?want=addtowatchlist&session='+gsess+'&sid='+sid+'&noTop='+gNoWatchListTop;
+   pendURL.push(url);
+  
+   
+   if (jIsInList(sid,gWatchList))
+   {
+       return (false);
+   }
+   else
+   {
+       setTimeout('glowdiv(\'wltileframe'+sid+'\');',800);
+       gWatchList.push(sid);
+       return (true);
+   }
+},
+onHover: function(element)
+{
+    var sid=element.id.substring(6);
+    document.getElementById('watchlistcontainer').style.border='1px #F87500 solid';
+},
+onUnhover: function(element)
+{
+    var sid=element.id.substring(6);
+    document.getElementById('watchlistcontainer').style.border='1px white solid';
+}
+});
+
+    
+
+}
+
+
+</script>
+</head>
+
+
+<!--start NOT invisible-->
+
+<body onload="initsimplepage(1);">
+<!-- skip navigation -->
+<div id="skipNav">
+	<ul title="Accessibility options">
+        <li><a href="#menuMain">Skip to main menu</a></li>
+		<li><a href="#columnLeft">Skip to menu</a></li>
+		<li><a href="#content">Skip to main content</a></li>
+	</ul>
+</div>
+<!-- end skip navigation -->
+
+<div id="notify_bar" style="display:none">
+<div id="notify_bar_content"></div>
+<div id="notify_bar_cancel" style="display:none;" onclick="hide_notify();">X</div>
+</div>
+
+
+
+
+	<div id="system_perf" style="display:none">
+	Receive a free weekly performance summary for <span id="system_perf_name"></span>?
+	</div>
+
+	<div id="system_perf_cancel" style="display:none;">
+	You are signed up to receive a Weekly Performance Report for <span id="system_perf_name_4"></span>
+	&nbsp;
+	<a href="#" onclick="pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=cancelSystemPerf&amp;system_id=' + gSystemID );">Click here to cancel</a>
+	</div>
+
+	<div id="notify_content" style="display:none">
+		<div class="tutorial">
+		
+		
+		<table><tbody><tr><td valign="top"><div style="padding:10px 0 0 10px;"><img src="/images/perf_report.gif" alt="Weekly Performance Report"></div></td><td valign="top">
+		
+		<div style="padding-left:10px;padding-right:10px;font-size:80%;">
+			<p>Sign up for a free Weekly Performance Report for <b><span id="system_perf_name_2"></span></b>. We'll email you each week and tell you how the strategy is performing, and any other news about the strategy.</p>
+
+			<div id="system_perf_email">
+			<p>Please enter your email address: 
+			</p><form>
+			<input type="text" id="perf_email_address">
+			</form>
+			</div>
+
+			<br>
+			<br>
+
+			<a href="#" style="font-size:14px;" onclick="if ( ( $('system_perf_email').style.display=='none') || $('perf_email_address').value ) { pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=getSystemPerf&amp;email=' + $('perf_email_address').value + '&amp;system_id=' + gSystemID );Dialog.closeInfo(); } else { $('perf_email_address').style.backgroundColor='yellow';return false; }">Yes, send free Weekly Performance Report for <span id="system_perf_name_3"></span></a>
+
+			<p></p>
+
+        </div></td></tr></tbody></table>
+        
+			<br>
+		</div>
+	</div>
+	<div style="clear:both;"></div>
+	<script type="text/javascript">
+		if ( window.gSystemName && gSystemName ) { 
+			$('system_perf_name').innerHTML= gSystemName; 
+			$('system_perf_name_2').innerHTML= gSystemName; 
+			$('system_perf_name_3').innerHTML= gSystemName; 
+			$('system_perf_name_4').innerHTML= gSystemName; 
+            		pendURL.push('/cgi-perl/utility/ajax_util.mpl?rm=checkSystemPerf&system_id=' + gSystemID);
+		}
+	</script>
+
+
+
+
+
+
+<!-- popup window -->
+
+<div id="popupbg" class="popupbgClass"></div>
+<div id="popupwrapper" class="popupwrapperClass">
+    <div id="popupouter" class="popupouterClass">
+        <div id="popupContainer">
+            <div class="popupTop"></div>
+            <div class="popupContent" id="popupContentDiv">
+                          
+           </div>
+            <div class="popupBot"></div>
+        </div>
+	</div>
+</div>
+
+<!-- end popup window -->
+<div id="page">
+<!-- header -->
+    <div id="header">
+<h1><a href="/">Collective2</a></h1>
+
+
+
+
+
+<p><span>
+
+    
+    Welcome, new user. <a href="#" onclick="hidepopupcmd();stopcrop();loginpopupshowInside(true,'page');return false;">Log in</a> 
+    
+    
+        <a href="/cgi-perl/signup200.mpl">Sign up for free account</a>
+    
+
+</span></p>
+
+
+
+<div class="headlinks">
+<span>
+
+
+
+	<a href="/content/vendorintro.htm">System Developers</a> |
+	<a href="/static/brokers.htm">Brokers</a> 
+
+
+</span>
+</div> <!--headlinks-->
+
+</div>
+<!-- end header -->
+
+<!-- menu -->
+
+<div id="menuMain" onmouseover="hidepopupcmd();"><div><div><div>
+
+	<ul>
+
+
+    
+	 
+		<li>
+			<a href="/cgi-perl/c2dashboard.mpl"><span><span><span>Dashboard</span></span></span></a>
+		</li>
+	 
+    
+	<li>
+		<a href="/cgi-perl/t200.mpl?want=finder"><span><span><span>Find a System</span></span></span></a>
+		<div class="level">
+	
+<ul>
+    <li class="begin"><a href="/cgi-perl/t200.mpl?want=finder">System Finder</a></li>
+
+    
+    <li><a href="/cgi-perl/system/grid.mpl">The Grid</a></li>
+    <li><a href="/cgi-perl/my_analyst.mpl">My Analyst</a></li>
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=best">Hot Systems</a></li>
+
+     
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestforex">Hot Forex Systems</a></li>
+    
+
+     
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestfutures">Hot Futures Systems</a></li>
+    
+
+     
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=bestoptions">Hot Options Systems</a></li>
+    
+
+     
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=beststocks">Hot Stock Systems</a></li>
+    
+
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=latest">Latest Additions</a></li>
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=popular">Most Popular Systems</a></li>
+    <li><a href="/cgi-perl/system/sysreports.mpl?report_type=stinky">Worst Systems</a></li>
+    
+    
+    
+</ul>
+
+		</div>
+	</li>
+
+	<li class="active">
+		<a href="/content/vendorintro.htm"><span><span><span>Sell a System</span></span></span></a>
+		<div class="level">
+	<ul>
+    <li class="begin"><a href="/static/systemDeveloper.htm">How it works</a></li>
+    <li><a href="/cgi-perl/page.mpl?page=offerstart1">Create a new system</a></li>
+    <li><a href="/static/faqdev.htm">Frequent Questions (FAQ)</a></li>
+    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
+    
+    
+    
+    
+    
+</ul>
+
+		</div>
+	</li>
+
+	<li>
+		<a href="/static/aboutAutoTrade.htm"><span><span><span>AutoTrade</span></span></span></a>
+		<div class="level">
+	<ul>
+    
+
+    <li class="begin"><a href="/static/aboutAutoTrade.htm">How it works</a></li>
+
+    
+
+    
+
+    
+    
+    
+
+    
+        
+    
+    
+    
+</ul>
+
+		</div>
+	</li>
+	<li>
+		<a href="/cgi-perl/board.mpl?want=list"><span><span><span>Forums</span></span></span></a>
+	</li>
+	<li>
+		<a href="/"><span><span><span>Information</span></span></span></a>
+		<div class="level">
+	<ul>
+    <li class="begin"><a href="/">Welcome to C2</a></li>
+    <li><a href="/static/info/intro.html">What is this?</a></li>
+    <li><a href="/static/info/welcome_video_embed.htm">Welcome Video</a></li>
+    <li><a href="/static/info/faq.htm">Frequent Questions</a></li>
+    <li><a href="/static/info/prices.htm">Prices</a></li>
+    <li><a href="/static/info/c2_compatible.htm">C2 Compatible</a></li>
+
+    
+    <li class="ind"><a href="/static/info/c2_compatible.htm">Overview</a></li>
+    <li class="ind"><a href="/static/info/mtinfo.htm">Using MetaTrader with C2</a></li>
+    <li class="ind"><a href="/static/info/tradestation.htm">Using TradeStation with C2</a></li>
+    <li class="ind"><a href="/static/info/ninjasetup.htm">Using NinjaTrader with C2</a></li>
+    <li class="ind"><a href="/static/info/tws_ibtoc2.htm">Using Interactive Brokers</a></li>
+    
+
+    <li><a href="/static/affiliate.htm">Affiliate Program</a></li>
+    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
+    <li><a href="/static/info/risks.html">Trading Risks</a></li>
+    <li><a href="/static/info/termsofservice.htm">Terms of Service</a></li>
+    <li><a href="/static/info/privacy.htm">Privacy Policy</a></li>
+    <li><a href="/static/info/advertising.htm">Advertising</a></li>
+    <li><a href="/static/info/press.htm">C2 in the Media</a></li>
+    <li><a href="/static/info/about_us.htm">About Us</a></li>
+    
+    
+</ul>
+
+		</div>
+	</li>
+
+
+
+
+</ul>
+</div></div></div></div>
+<!-- end menu -->
+
+<!-- breadcrumb navigation -->
+<div class="breadcrumbs" onmouseover="hidepopupcmd();">
+
+
+
+
+<div class="bcq">»</div>
+
+
+
+
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=0' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    Dashboard
+    
+    
+    
+    </a>
+    
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=1' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    Collective2
+    
+    
+    
+    </a>
+    
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcu"><a onmouseup="handleMouseUpURL( '/cgi-perl/page.mpl?navto=2' );return false;" onmousedown="handleMouseDown();return false;" href="#">
+    
+    
+    
+
+    Latest Additions
+    
+    
+    
+    </a>
+    
+    
+
+    </div>
+
+    <div class="bcd">/</div>
+
+
+    
+
+    
+        <div class="bcuON">
+    
+    
+    
+
+     Intro: C2 System Developer
+    
+    
+    
+    
+    
+    
+
+    </div>
+
+    
+
+</div>
+<div style="clear:both;"></div>
+
+<!-- end breadcrumb navigation -->
+
+
+
+
+    <div id="columnLeft" onmouseover="hidepopupcmd();">
+
+ 
+    
+    
+        <div class="searchBlkLft"><div><div><div>
+        <h3>Find System by Name</h3>
+        <span><input type="text" class="inputbox" id="namesearch" name="namesearch" onkeyup="javascript:handleSearchKeyUp();"></span>
+        <div id="searchbutton"><input type="image" src="/images/lightimages/buttons/btn_search.gif" value="find" onclick="javascript:handleSearchSubmit();"></div>
+        <div id="searchactive"><img src="/images/ajax-loader.gif" alt="Wait"></div>
+        </div></div></div></div>
+        <div id="searchresults"></div>
+        <br>
+    
+    
+ 
+
+
+
+
+    <!-- menu -->
+    
+<div class="menu show">
+<h3 onclick="divtoggle(this,'quicklinks');"><span><span><span><b>Sell a system</b></span></span></span></h3>
+<div id="quicklinks">
+
+
+
+
+
+
+    <ul>
+    <li><a href="/static/systemDeveloper.htm">How it works</a></li>
+    <li><a href="/cgi-perl/page.mpl?page=offerstart1">Create a new system</a></li>
+    <li><a href="/static/faqdev.htm">Frequent Questions (FAQ)</a></li>
+    <li><a href="/static/info/dev_apis.htm">Developer APIs</a></li>
+    
+    
+    
+</ul>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+</div>
+
+
+    <!-- end menu -->
+
+    
+
+ 
+
+
+    <!-- start systems owned -->
+    
+    <!-- end systems owned -->
+    
+    <!-- start systems sub -->
+    
+    <!-- end systems sub -->
+
+
+
+ 
+
+
+
+    <!-- start watch list -->
+    <div id="watchlistdroptarget"><div id="outerwatchlistholder"><div class="menu show"><h3 onclick="divtoggle(this,'watchlist');"><span><span><span><b>Watch List</b></span></span></span></h3><div class="bnrBlk"><div id="watchlist"><div id="watchlistcontainer" class="emptyContainer">Drag any system on page<br>to here.</div></div></div></div></div></div>
+    <!-- end watch list -->
+
+
+
+
+    </div>
+
+<!-- end left column -->
+
+
+
+
+<!-- end NOT invisible-->
+ 
+
+
+
+<!-- content -->
+    <div id="content2colbig">
+<div class="tutorial">
+ 
+<h1>Privacy Policy</h1>
+                  <p class="posts">Collective2 takes your privacy seriously.
+                  Please read the following to learn more about our privacy
+                  policy.</p>
+                  <p><b>What This Privacy Policy Covers</b></p>
+                  <p>This policy covers how Collective2 treats personal
+                  information that Collective2 collects and receives. Personal
+                  information is information about you that is personally
+                  identifiable like your name, address, email address, or phone
+                  number, and that is not otherwise publicly available. This
+                  policy does not apply to the practices of companies that Collective2
+                  does not own or control, or to people that Collective2 does
+                  not employ or manage.&nbsp;</p>
+                  <p><b>Information Collection and Use General</b></p>
+                  <p>Collective2 collects personal information when you register
+                  with Collective2, and when you use Collective2 products or
+                  services. When you register we ask for information such as
+                  your name and email address. Once you register with Collective2
+                  and sign in to our services, you are not anonymous to us. Collective2
+                  collects information about your transactions with us and with
+                  some of our business partners, including information about
+                  trading advice you subscribe to. Collective2 automatically
+                  receives and records information on our server logs from your
+                  browser, including your IP address, Collective2 cookie
+                  information, and the page you request. Collective2 uses this
+                  information to customize the content and advertising you see,
+                  fulfill your requests for products and services, improve our
+                  services, contact you, conduct research, and provide anonymous
+                  reporting for internal and external clients.&nbsp;</p>
+                  <p><b>Information Sharing and Disclosure</b></p>
+                  <p><u>Collective2 <b>does not</b> rent, sell, or share
+                  personal information about you with other people or
+                  nonaffiliated companies except to provide products or services
+                  you've requested, when we have your permission</u>, or under
+                  the following circumstances:</p>
+                  <blockquote>
+                    <p>We provide the information to trusted partners who work
+                    on behalf of or with Collective2 under confidentiality
+                    agreements.&nbsp; However, these companies do not have any
+                    independent right to use or share this information.&nbsp;</p>
+                    <p>We respond to subpoenas, court orders, or legal process,
+                    or to establish or exercise our legal rights or defend
+                    against legal claims;&nbsp;</p>
+                    <p>We believe it is necessary to share information in order
+                    to investigate, prevent, or take action regarding illegal
+                    activities, suspected fraud, situations involving potential
+                    threats to the physical safety of any person, violations of Collective2's
+                    terms of use, or as otherwise required by law.&nbsp;</p>
+                    <p>We transfer information about you if Collective2 is
+                    acquired by or merged with another company. In this event, Collective2
+                    will notify you before information about you is transferred
+                    and becomes subject to a different privacy policy.&nbsp;</p>
+                  </blockquote>
+                  <p><b>Cookies</b></p>
+                  <p>Collective2 may set and access Collective2 cookies on your
+                  computer. Advertisers or other companies do not have access to
+                  Collective2's cookies.&nbsp;</p>
+                  <p><b>Your Ability to Edit Your Account Information</b></p>
+                  <p>You can edit your Collective2 Account Information,
+                  including your marketing preferences, at any time. New
+                  categories of marketing communications may be added to the
+                  Marketing Preferences page from time to time. Users who visit
+                  this page can opt out of receiving future marketing
+                  communications from these new categories or they can
+                  unsubscribe by following instructions contained in the
+                  messages they receive. We reserve the right to send you
+                  certain communications relating to the Collective2 service,
+                  such as service announcements and administrative messages ,
+                  that are considered part of your Collective2 account, without
+                  offering you the opportunity to opt-out of receiving them.</p>
+                  <p><b>Confidentiality and Security</b></p>
+                  <p>We limit access to personal information about you to
+                  employees who we believe reasonably need to come into contact
+                  with that information to provide products or services to you
+                  or in order to do their jobs.&nbsp;</p>
+                  <p><b>Your Collective2 Account Information is
+                  password-protected.</b></p>
+                  <p>In certain areas Collective2 uses industry-standard SSL-encryption
+                  to protect data transmissions.</p>
+                  <p><b>Changes to this Privacy Policy</b></p>
+                  <p>Collective2 may update this policy. We will notify you
+                  about significant changes in the way we treat personal
+                  information by sending a notice to the primary email address
+                  specified in your Collective2 account or by placing a
+                  prominent notice on our site.
+</p>
+</div>
+   
+	
+    </div>
+<!-- end content -->
+<!-- right column -->
+	<div id="columnRight">
+	
+	</div>
+<!-- end right column -->
+<!-- footer -->
+	<div class="nofloat"></div>
+    <div id="footer" onmouseover="hidepopupcmd();">
+<p align="center">
+    
+        <a href="/cgi-perl/c2dashboard.mpl">Dashboard</a> <span>|</span>
+    
+    
+    <a href="/cgi-perl/t200.mpl?want=finder">System Finder</a>
+    
+        <span>|</span> <a href="/cgi-perl/system/grid.mpl">The Grid</a>
+    
+    
+        <span>|</span> <a href="/cgi-perl/page.mpl?page=offerstart1">Create a System</a>
+        <span>|</span> <a href="/cgi-perl/board.mpl?want=list">Forums</a>
+    
+
+    <!--information link GOES HERE!-->
+    
+    <br>
+    
+        <a href="/static/info/dev_apis.htm">Developer APIs</a>
+        <span>|</span> <a href="/static/info/faq.htm">Frequent Questions</a>
+        <span>|</span> 
+    
+    <a href="/static/info/risks.html">Risks of Trading</a>
+    <span>|</span> <a href="/static/info/termsofservice.htm">Terms of Service</a> 
+    <span>|</span> <a href="/static/contact_us.htm">Contact Us</a>
+</p>
+
+<p align="center">Site Version: 3098</p>
+<p align="center">(c) 2010 Collective2 LLC</p>
+    </div></div>
+<!-- end footer -->
+<div id="waiticon" style="display:none;"><img src="/images/c2snake.gif"></div>
+<div id="loadingdiv" style="display:none;">
+<div style="width:300px;display:block;">
+	<div style="margin:0 auto 0 auto; text-align:center;"><img src="/images/loading.gif"></div><br>
+	<div style="margin:0 auto 0 auto; font-size:12px; color:#333; text-align:center;"><span id="loadingtext">Running Monte Carlo simulation...</span></div>
+</div>
+</div>
+<div id="c2popupframe" style="display:none;"></div>
+<div id="popupAddTo" style="display:none;"></div>
+<div id="popupAdmin" style="display:none;"></div>
+<!-- c2pageid=sysdetails1.0 -->
+
+<iframe style="height:0px;width:0px;visibility:hidden" src="about:blank">
+</iframe>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-224858-1");
+pageTracker._setDomainName(".collective2.com");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<div id="tipDiv"></div></body></html>
