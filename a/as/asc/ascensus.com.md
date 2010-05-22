@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the ascensus.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816193520id_/http%3A//www.ascensus.com/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ascensus.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522134331id_/http%3A//www.ascensus.com/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Ascensus
 
-[ ](http://www.ascensus.com/images/Ff09datesflash4.swf)
-
 | 
 
-[Home](https://web.archive.org/web/20090816193520id_/http%3A//www.ascensus.com/default.aspx) >> Privacy Policy
+[Home](https://web.archive.org/web/20100522134331id_/http%3A//www.ascensus.com/default.aspx) >> Privacy Policy
 
-[Click Here](https://web.archive.org/web/20090816193520id_/http%3A//www.ascensus.com/nonPublicInfo.aspx) for AscensusSM Policy Concerning NonPublic Personal Consumer Information. 
+[Click Here](https://web.archive.org/web/20100522134331id_/http%3A//www.ascensus.com/nonPublicInfo.aspx) for AscensusSM Policy Concerning NonPublic Personal Consumer Information. 
 
 Ascensus is committed to the privacy interests of users of this website. This privacy statement summarizes the privacy practices and procedures Ascensus has adopted. Ascensus is the sole owner of the information collected on this website. 
 
