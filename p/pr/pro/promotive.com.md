@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119213306id_/http%3A//www.promotive.com/action/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205609id_/http%3A//www.promotive.com/action/privacy) for the most accurate reproduction.*
 
-# Promotive.com - Incentives for Insiders!
+# ProMotive.com - Incentives for Insiders!
 
 **ProMotive.com is committed to protecting your privacy online**. In order to fully understand your rights, please read this privacy statement before using the ProMotive.com website (the "Site"), which includes any Retail Management Module or link from a manufacturers site that is powered by ProMotive.com. 
 
