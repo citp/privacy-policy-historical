@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102073140id_/http%3A//www.aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aquacard.co.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205205id_/http%3A//aquacard.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,7 +18,7 @@ The Data Protection Act puts obligations on users of personal information and la
 
 Organisations must lodge a notification with the Information Commissioner describing the purposes for which they process personal information. The details are publicly available from the Commissioner's office at Wycliffe House, Water Lane, Wilmslow, Cheshire SK9 5AF (Tel 01625 545745. Fax 01625 524510). Alternatively, see the Commissioner's website ([www.ico.gov.uk](http://www.ico.gov.uk/)).
 
-We are also committed to meeting the standards set by the Banking Code, copies of which are available in branches of Halifax or on their website ([www.bba.org.uk](http://www.bba.org.uk/)). Occasionally, the Banking Code Standards Board's compliance monitoring body audits a sample of our customer records to assess our compliance with the Code. Whenever this happens, strict confidentiality conditions are always imposed.
+We also subscribe to The Lending Code; copies of the Code can be obtained from [www.lendingstandardsboard.org.uk](http://www.lendingstandardsboard.org.uk/)
 
 Some Acts of Parliament oblige us to disclose information about our customers to certain bodys with statutory powers. For example, we must give information to authorised benefit fraud investigators where fraudulent benefit claims are suspected. In addition, the Inland Revenue has the statutory authority to audit our customers' accounts from time to time.
 
