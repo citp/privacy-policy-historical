@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226060853id_/http%3A//www.harvest.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harvest.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213055id_/http%3A//www.harvest.org/privacy-policy.html) for the most accurate reproduction.*
 
-# Harvest Online ::: Privacy Policy
+# Privacy Policy ::: Harvest Ministries
 
 ### Privacy Policy
 
