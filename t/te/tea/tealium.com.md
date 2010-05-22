@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119111212id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tealium.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522115745id_/http%3A//www.tealium.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Tealium
 
@@ -32,7 +32,7 @@ In order to collect the anonymous data described in the preceding paragraph, the
 
 ## Tealium Social Media
 
-We also use JavaScript that enables us to measure the effectiveness of social media sites such as blogs, news articles, videos, and other similar marketing focused pages in driving traffic to our site. The information helps us measure the effectiveness of social media and online PR. We do not use this technology to determine if you've been to any other pages, and we do not collect any personally identifiable information. If you'd like to opt out of this service, please click the opt-out link.
+We also use JavaScript that allows us to determine if you've been to social media sites such as blogs, news articles, videos, and other similar pages that mention our brand. The information helps us measure the effectiveness of social media and online PR. We do not collect any personally identifiable information and all information is at the aggregate level. If you'd like to opt out of this service, please click the opt-out link.
 
 If you've already opted out of this service and would like to opt back in, you may opt back in here.
 
@@ -52,4 +52,4 @@ This privacy policy forms part of our web site Terms of Use and as such shall be
 
 If you have any questions about this privacy policy or concerns about the way the Company uses personal data, please contact us.
 
-This policy was last updated on January 15th, 2009.
+This policy was last updated on March 22, 2010.
