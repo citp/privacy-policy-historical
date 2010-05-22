@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keystoneresort.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118135808id_/http%3A//www.keystoneresort.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keystoneresort.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522154049id_/http%3A//www.keystoneresort.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Keystone Resort's Privacy Policy | KeystoneResort.com
 
