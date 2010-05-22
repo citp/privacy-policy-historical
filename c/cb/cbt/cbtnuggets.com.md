@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501180001id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522210022id_/http%3A//www.cbtnuggets.com/html/help/privacy.html) for the most accurate reproduction.*
 
 # CBT Nuggets: Privacy Statement for CBT Nuggets, Inc
 
@@ -245,5 +245,5 @@ In addition, the data is used in the following manner, marking the policy as uns
 
 
 
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.   
+Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.    
 
