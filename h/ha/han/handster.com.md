@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913023642id_/http%3A//handster.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handster.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220922id_/http%3A//www.handster.com/privacy.php) for the most accurate reproduction.*
 
-# Handster.com - Windows Mobile Software for HTC, iPAQ, i-mate, MDA, Cingular 8125 and other Pocket PC.
+# Handster Privacy Statement
 
 Because we gather information about the customers of Handster.com we feel you should fully understand the terms and conditions for use of that information.
 
@@ -61,7 +61,9 @@ Handster.com gives users options wherever necessary and practical, such choices 
   * Opting not to provide certain personal information when registering for a site or service 
   * Opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users 
 
-For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration for. You may also update your preferences at any time by accessing our member information area. 
+
+
+For example, if you register with us but do not wish to receive any additional marketing material from us, you can indicate your preference on our registration for. You may also update your preferences at any time by accessing our member information area.
 
 This privacy statement applies only to information collected by Handster.com website. The website contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy policy of such other websites. 
 
