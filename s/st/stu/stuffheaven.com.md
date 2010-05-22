@@ -1,23 +1,29 @@
-> *The following text is extracted and transformed from the stuffheaven.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219085124id_/http%3A//stuffheaven.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stuffheaven.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522111005id_/http%3A//stuffheaven.com/privacy-policy-3) for the most accurate reproduction.*
 
 # Privacy Policy | Stuffheaven
 
-**Stuffheaven** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
+**Your Privacy**
 
-## Routine Information Collection
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
+**Google Ads and Double Click Dart Ads**
 
-## Cookies and Web Beacons
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-Where necessary, Stuffheaven uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url http://www.google.com/privacy_ads.html Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, @blogname has no access or control over these cookies that may be used by third party advertisers.
 
-## Controlling Your Privacy
+**Collection of Personal Information**
 
-Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms.
+When visiting @blogname, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.  
+**  
+Links to third party Websites**
 
-## Contact Information
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
 
-Concerns or questions about this privacy policy can be directed to http://stuffheaven.com/contact-us/ for further clarification.
+**Changes to this Privacy Statement**
+
+The contents of this statement may be altered at any time, at our discretion.
+
+If you have any questions regarding the privacy policy of Stuffheaven then you may [contact us](http://stuffheaven.com/contact-us/).
