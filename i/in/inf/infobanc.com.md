@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224210334id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infobanc.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215044id_/http%3A//www.infobanc.com/privacy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - The Great Indian Bazaar
+# Privacy Policy - infobanc.com
+
+| 
 
 Ace Infobanc Private Limited (Infobanc) has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.infobanc.com. 
 
@@ -14,29 +16,33 @@ infobanc.com site allows its visitors to post (free of cost) messages for exim c
 
 _None of this collected information will be provided to third parties_
 
-, except in the case of a requirement by law enforcement. In such case, the requested information will be provided to appropriate government authorities upon receipt of the appropriate documentation.
+, except in the case of a requirement by law enforcement. In such case, the requested information will be provided to appropriate government authorities upon receipt of necessary documentation.
 
-This site contains links to many other sites. www.infobanc.com is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to many other sites. www.infobanc.com is not responsible for the privacy practices or the content of such Web sites. 
+
+We may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice, particularly how to opt out of advertising cookie or to know your choices about not having this information used by these companies, [ please click here ](http://www.google.com/privacy_ads.html)
+
+| 
 
 **Public Forums** This site makes use of forms and bulletin boards to allow users to post offers to buy, sell etc. Personal information (such as email address, phone number) is collected in these forms to allow potential buyers & sellers to contact you. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. We do not monitor any of these facilities and your use of them is at your own risk.
 
-**Choice/Opt-Out** infobanc.com provides users the opportunity to opt-out of receiving communications from us. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service: 
+**Choice/Opt-Out** infobanc.com provides users the opportunity to opt-out of receiving communications from us. This site gives users the following options for removing their information from our database or not to receive future communications or to no longer receive our service: 
 
--On-line removal - Every Special Alert, e-zine that we send has a link for immediate and on-line 'Unsubscribe'. Subscribers may remove themselves from any of our mailking lists by clicking at 'Unsubscribe' link. Every trade alert, e-zine has clear instructions on how to 'Unsubscribe' 
+**On-line removal** \- Every Special Alert, e-zine that we send has a link for immediate and on-line 'Unsubscribe'. Subscribers may remove themselves from any of our mailing lists by clicking at 'Unsubscribe' link. Every trade alert, e-zine has clear instructions on how to 'Unsubscribe' 
 
--Opt-out via email - Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20090224210334id_/http%3A//www.infobanc.com/contactus.htm)
+**Permanent Removal/Termination of Membership** \- Any member (free or paid) can terminate his/her membership of infobanc.com by log-in to Member's Control Panel and de-activate his/her membership. This process automatically removes the member's profile from directory listing amd mailing lists. Such de-activated members never receive any e-mail from us, except reply e-mail in case he/she has written to us. However, we do not monitor public forums and bulletin boards. In case such de-activated member has posted any message in a public forum, he/she needs to inform us for removal of such message giving specific URL 
 
--Removal/Termination of Membership - Any member (free or paid) can terminate his/her membership of infobanc.com by log-in to Member's Control Panel and de-activate his/her membership. This process automatically removes the member's profile from directory listing amd mailing lists. Such de-activated members never receive any e-mail from us, except reply e-mail in case he/she has written to us. However, we do not monitor public forums and bulletin boards. In case such de-activated member has posted any message in a public forum, he/she needs to inform us for removal of such message giving specific URL 
-
--Opt-out via email - Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20090224210334id_/http%3A//www.infobanc.com/contactus.htm)
+**Opt-out via email** \- Additionally. one may send e-mail at info@infobanc.com for unsubscription/opt-out or [ contact us ](https://web.archive.org/web/20100522215044id_/http%3A//www.infobanc.com/contactus.htm)
 
 **Contacting the Web Site** If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact 
 
 **Customer Service  
 Ace Infobanc Private Limited (InfoBanc.com)  
-7-C, 3rd Floor, Flat No. 4   
+Konark Apartment, 3rd Floor 7-C, Katwaria Sarai   
 Katwaria Sarai,   
 New Delhi - 110 016  
 India   
 Tel: 91-11-26961886 / 26866235   
-E-Mail: info@infobanc.com **
+E-Mail: info@infobanc.com **  
+  
+---|---
