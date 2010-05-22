@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twitiq.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219010839id_/http%3A//www.twitiq.com/%3Faction%3Dabout%26q%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitiq.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522112317id_/http%3A//twitiq.com/_/about/tab%3Dprivacy) for the most accurate reproduction.*
 
-# TwitIQ.com - Smarter Twitter Web Application
+# TwitIQ Smarter Twitter
 
-TwitIQ.com Privacy Policy
+Last revised December 28, 2009
 
-Last revised April 7, 2009
+TwitIQ Privacy Policy 
 
 TwitIQ.com realizes that privacy is an important issue for our users. This document outlines the type of information that TwitIQ.com ("we," "us," "TwitIQ" or "TwitIQ.com") collects when our users use our services, and the steps that we take to safeguard your information. 
 
@@ -12,9 +12,9 @@ Information Collected by TwitIQ.com
 
 TwitIQ.com collects various pieces of information on our servers in the United States when you use our services. Some of this information collection happens with your permission and some of it happens implicitly as you use our services. 
 
-  * Your Twitter Username and Password
+  * Your Twitter Username
 
-When you login to TwitIQ.com, we request your Twitter username and Password. 
+To access TwitIQ.com, we redirect you to Twitter.com to authorize your username and password against Twitter's servers. Twitter then redirects you back to TwitIQ.com with a token containing your Twitter Username only. Your Twitter Password never passes through TwitIQ.com's servers. 
 
   * Your TwitIQ.com Session Cookie
 
@@ -32,6 +32,10 @@ When you use our website, we record and maintain a log of requests sent by your 
 
 TwitIQ.com utilizes Twitter's web service APIs to authenticate, access, and update your Twitter activities on your behalf. Your Twitter activities conducted through Twitter's web service API's are governed by their individual privacy policy, not by TwitIQ.com's privacy policy. 
 
+  * Google Search APIs
+
+TwitIQ.com utilizes Google Search API's to provide web, news, and blog search services. Your Search activities conducted through Google Search service API's are governed by their individual privacy policy, not by TwitIQ.com's privacy policy. 
+
   * Third Party Advertisers
 
 Advertisements of third-party advertisers may be displayed on TwitIQ.com. If you choose to click on an advertisement or link, TwitIQ.com may provide non-personally identifiable information to the advertiser and/or web publisher. Also, the advertiser or web publisher may use cookies or other technologies to collect information when you are visiting their web sites. The information advertisers or other third parties collect is governed by their individual privacy policies, not by TwitIQ.com's privacy policy. 
@@ -41,11 +45,9 @@ Advertisements of third-party advertisers may be displayed on TwitIQ.com. If you
 
 How we Store and Use your Information
 
-  * Your Twitter Username and Password
+  * Your Twitter Username
 
-We collect your Twitter Username and Password so that it can be sent to Twitter's API services to authenticate you as a valid Twitter user. 
-
-Your Twitter Username and Password are stored on TwitIQ.com's servers in encrypted form. We will never disclose your Twitter Password to other users or to third parties. 
+We collect your Twitter Username and associate it with your TwitIQ.com session so that we can identify your actions to invoke Twitter's API's. Your Twitter Password never passes through TwitIQ.com and is not stored on TwitIQ.com servers. 
 
   * Interest Profiles
 
@@ -90,4 +92,4 @@ Changes to Privacy Policy
 
 We reserve the right to make changes to this privacy policy. Please check the effective date to determine if the privacy policy has been modified since you last reviewed it. Whenever we make significant changes, we will post advance notices on our website before we actually make the changes. 
 
-If you have any questions or concerns about our privacy policy, please contact us at support@twitiq.com. 
+If you have any questions or concerns about our privacy policy, please contact us at support@hanperson.com. 
