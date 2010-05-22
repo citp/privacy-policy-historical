@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articles4today.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622172138id_/http%3A//articles4today.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articles4today.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522211417id_/http%3A//www.articles4today.com/privacy.html) for the most accurate reproduction.*
 
-# privacy articles4today.com
+# privacy Articles For Todays Online Readers. Submit your articles to the top article Directories. <a href="http://www.goodcontentwebsites.com/top-ten-article-submitters.htm">Top Article Directories</a>
 
 **Privacy:[http://articles4today.com](http://articles4today.com/)**
 
