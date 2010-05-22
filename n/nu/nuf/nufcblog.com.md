@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016120312id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nufcblog.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522184307id_/http%3A//www.nufcblog.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -60,3 +60,5 @@ If you decide to visit NUFCBLOG website, your visit and any possible dispute ove
 Effective Date of this Privacy Policy 
 
 This Privacy Policy is effective as of 23rd September, 2008 and last updated 23rd September, 2008.
+
+[](http://twitter.com/home/?status=Privacy+Policy+http://pq7wz.th8.us "Post to Twitter")
