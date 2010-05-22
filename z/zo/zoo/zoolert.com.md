@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121063354id_/http%3A//www.zoolert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoolert.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133147id_/http%3A//www.zoolert.com/privacy) for the most accurate reproduction.*
 
 # zooLert.com - Hot Deals Current In Stock!
 
@@ -34,10 +34,10 @@ zooLert may at any time, and without notice, revise this Privacy Policy statemen
 
 ### What's all this?
 
-## We're happy you found us!
+## Track, Alert, Buy
 
-Now that you've found us, let us find things for you! zooLert.com's wild pack of web animals are scouring the web constantly looking for hard to find items. When we find them, we let you know!   **  
-If you like our services, please tell your friends about zooLert** **.**
+Whether you use our already [predefined hot trackers](http://www.zoolert.com/alltrackers.php) to find [PS3](http://www.zoolert.com/sony-playstation-3-tracker/), [Apple iPad](http://www.zoolert.com/apple-ipad-in-stock-tracker/), [Wii Fit Plus](http://www.zoolert.com/nintendo-wii-fit-tracker/) in stock or our tools to create your own [Amazon Price Tracker](http://www.zoolert.com/amazon-price-tracker/), find [Daily Deals](http://www.zoolert.com/hot-daily-deals.php), discover [Ebay Typos](http://www.zoolert.com/ebay-typo-search.php)... zooLert finds what you want, at the price you need!  
+[ **Click to read our introduction to using zooLert.com for more information!**](http://www.zoolert.com/forums/welcome/6653-new-here-old-need-refresher-welcome-faq-tips-howtos-key-threads-more-inside.html#post23282)
 
 ###  Today's Hot Product Trackers Alert Status:
 
@@ -45,10 +45,10 @@ If you like our services, please tell your friends about zooLert** **.**
 
 ### What are people saying:
 
-"I just want to send along a huge THANK YOU for all your help in locating [Zhu Zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/). With the helpful hints I learned in the [discussion forums](http://www.zoolert.com/forums) as well as the alerts you send out, I was able to purchase all [4 hamsters](http://www.zoolert.com/zhu-zhu-pets-tracker/) at retail price. Keep up the good work...and I will make sure the kids thank Santa and [zoolert](http://www.zoolert.com/) for all the cool gifts!" -Dawn
+“Thank you, thank you zoolert. I have been able to get all the [zhu zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/) and accessories I needed for my two granddaughters for christmas without paying the outrageous prices some people are wanting. You never stopped keeping me on the alert and I can't tell you how much help it was to get this done. I have been telling everyone about how great your service is and I know for a fact you are going to have some more customers. Our christmas is going to be a lot of fun now. You people are wonderful. Happy holidays to all of you. ” -Sharon
 
-"I have to give you a BIG THANK YOU, I have been searching for this [Playmobil Egyptian Pyramid](http://www.zoolert.com/playmobil-egyptian-playset-pyramid-in-stock-tracker/) for my 8 yr old for Christmas, and found your site. Set up an alert with the rooster and left my PC on with that page and low & behold, the rooster cackled & I got to order my item on Toys R Us....This makes me so happy, my Christmas once again will be the best!!! I'm one of those moms that spoil her sons and thanks to your site, you will make my son very pleased on Christmas Day!!!!!! Thanks again!!!!!" -Kate
+“Just wanted to say Thank you for the wonderful job you did in finding me the [Zhu Zhu pets](http://www.zoolert.com/zhu-zhu-pets-tracker/). Thanks to your alert, not only was I able to find it, but I was able to buy it from Walmart at 1/2 the price of other locations and that included shipping! I went in as soon as I received the alert and checked back 5 minutes later and they were out of stock again!!! Thank you!! ” -Cheryl
 
-"Thank you very much for your [service](http://www.zoolert.com/alltrackers.php), and I will definitely be using it again in the future." - Chris
+“You guys rock again...I just picked up the [Chunk Zhu Zhu Pet](http://www.zoolert.com/zhu-zhu-pets-tracker/) from Walmart; thanks to my favorite tracker!” -Kelly
 
-"You guys are doing a great job! This is the best and most appealing [tracker site](http://www.zoolert.com/) I've seen!" - Kim
+“Thanks to your awesomely awesome website, I scored the [Zhu Zhu hamsters](http://www.zoolert.com/zhu-zhu-pets-tracker/) I needed for NO MARKUP (ahem, eBay) on Walmart.com this morning. Keep up the good work! ” -Rachel
