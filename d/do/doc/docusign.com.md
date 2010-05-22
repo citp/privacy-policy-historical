@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230180532id_/http%3A//www.docusign.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the docusign.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213631id_/http%3A//www.docusign.com/privacy_policy) for the most accurate reproduction.*
 
 # DocuSign Privacy Policy
 
