@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the lulegacy.com privacy policy that was archived on 2009-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106024319id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lulegacy.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522133040id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	
@@ -34,45 +34,162 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <link rel="alternate" type="application/rss+xml" title="RSS feed for The Legacy" href="http://www.lulegacy.com/articles.rss">
 
 <script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/mtvi_reporting.js"></script>
-<script type="text/javascript">
+<script type="text/javascript" src="http://media.collegepublisher.com/media/scripts/coda/poolreturn.js"></script>
+<script type="text/javascript"> 
 //<![CDATA[
-	function getPageName(){
-		var defaultPageName = "index.cfm"
-		return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
- 	}
-	function getHierarchy(argPageName){
-		return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
-	}
-	var qString = com.mtvi.util.queryStringToHash(location.search);
-	var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
-	var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
-	if(refsource != null && refsource.length > 0) {
-		SetCookie('refsourcekey', refsource);
-	}
-	// Reporting Account Config
-	com.mtvi.reporting.Account={
-		name:"viay2m",
-		filters: "javascript:,y2m.com"
-	};
-	var dispatcher=com.mtvi.reporting.Dispatcher;
-	dispatcher.setAttribute('pageName',getPageName());
-	dispatcher.setAttribute('hier1',getHierarchy(getPageName())); 
-	dispatcher.setAttribute('prop1','displayPrivacyPolicy');
-	dispatcher.setAttribute('prop2',sectioncategory);
-	dispatcher.setAttribute('prop3','event=displayPrivacyPolicy');
-	dispatcher.setAttribute('prop4',refsource);
-	dispatcher.setAttribute('prop5',window.document.location.pathname.toString() + window.document.location.search.toString());
-	dispatcher.setAttribute('prop6',origserver);
-	dispatcher.setAttribute('prop7','The Legacy');
-	dispatcher.setAttribute('prop8','www.lulegacy.com');
-	dispatcher.setAttribute('prop9',story_id);
-	dispatcher.setAttribute('prop10','1262');
-	dispatcher.setAttribute('prop11','user');
-	dispatcher.setAttribute('prop12',GetCookie('refsourcekey'));
-	dispatcher.setAttribute('prop13',reffeature);
-	dispatcher.sendCall();
-	//]]>
+ function getPageName(){
+  var defaultPageName = "index.cfm"
+  return (location.pathname=="" || location.pathname=="/")?"/"+defaultPageName:location.pathname;
+  }
+ function getHierarchy(argPageName){
+  return (argPageName.charAt(0)=="/")?argPageName.substring(1):argPageName;
+ }
+ var qString = com.mtvi.util.queryStringToHash(location.search);
+ var refsource = (com.mtvi.util.isDefined(qString))?qString["refsource"]:"";
+ var reffeature = (com.mtvi.util.isDefined(qString))?qString["reffeature"]:"";
+ if(refsource != null && refsource.length > 0) {
+  SetCookie('refsourcekey', refsource);
+ }
+ 
+var filterDomain = 'www.lulegacy.com';
+var filterUrl = filterDomain.substring(filterDomain.indexOf("www.")+4, filterDomain.length);
+var filterVar = "javascript:,"+filterUrl+",media."+filterDomain;
+ 
+//Reporting Account Config 
+   
+ com.mtvi.reporting.Account={ 
+ name:"viay2m",
+ filters:filterVar, 
+ trackExternalLinks:true, 
+ trackInlineStats:true 
+ }; 
+ 
+var chValue = "home";
+var cpCode = "CP4";
+var paperId = '1262';
+var pipe = getPoolIdForPaper (paperId);
+var storyName = "";
+var secRef = "home";
+var orgPath = location.toString();
+var pageValueOrg = getHierarchy(getPageName());
+var pageValue = "paper"+paperId+"/"+secRef;
+var h1 = "paper"+paperId+"/"+secRef;
+ 
+if(paperId=="1218"){
+document.write("<br><br>pageValueOrg: "+pageValueOrg);
+document.write("<br><br>filters: "+filterVar);
+document.write("<br><br>pipe: "+pipe);
+}
+ 
+if(sectioncategory=="Campus News")
+{
+sectioncategory = "news";
+}
+else
+{
+var sectionValue = sectioncategory.toLowerCase();
+}
+ 
+if(pageValueOrg.indexOf("user/register/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "registration/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "registration";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("user/login/") >-1)
+{
+story_id = "";
+sectionValue = "";
+secRef = "login/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "login";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg.indexOf("media/storage") >-1)
+{
+sectionValue = "";
+storyName = '';
+pageValue = "paper"+paperId+"/"+chValue+"/article";
+chValue = "news";
+h1 = "paper"+paperId+"/"+chValue+"/article";
+}
+else if(pageValueOrg.indexOf("media/") >-1)
+{
+story_id = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+sectionValue+"/main";
+chValue = sectionValue;
+h1 = "paper"+paperId+"/"+sectionValue+"/main";
+}
+else if(orgPath.indexOf("blog.") >-1 || orgPath.indexOf("blogs.") >-1)
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "blog";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/archives/")
+{
+story_id = "";
+sectionValue = "";
+secRef = "archives/main";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "archives";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="home/index.cfm")
+{
+story_id = "";
+sectionValue = "";
+secRef = "objectdisplaymode";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = "maintenance";
+h1 = "paper"+paperId+"/"+secRef;
+}
+else if(pageValueOrg=="index.cfm" || pageValueOrg=="home/")
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+else
+{
+story_id = "";
+sectionValue = "";
+storyName = "";
+secRef = "news";
+pageValue = "paper"+paperId+"/"+secRef;
+chValue = secRef;
+h1 = "paper"+paperId+"/"+secRef;
+}
+ 
+var dispatcher=new com.mtvi.reporting.Dispatcher();
+ dispatcher.setAttribute('pageName',pageValue);
+ dispatcher.setAttribute('channel',chValue);
+ dispatcher.setAttribute('hier1',h1); 
+ dispatcher.setAttribute('prop1','frontPage');
+ dispatcher.setAttribute('prop2',sectionValue);
+ dispatcher.setAttribute('prop7','The Legacy');
+ dispatcher.setAttribute('prop8','www.lulegacy.com');
+ dispatcher.setAttribute('prop9',story_id);
+ dispatcher.setAttribute('prop10',paperId);
+ dispatcher.setAttribute('prop11',secRef);
+ dispatcher.setAttribute('prop14',cpCode);
+ dispatcher.setAttribute('server',pipe);
+ dispatcher.setAttribute('prop18',storyName);
+ dispatcher.sendCall();
+ //]]>
 </script>
+
 
 
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
@@ -105,16 +222,16 @@ document.write('<SCR'+'IPT SRC='+'http://media.collegepublisher.com/media/script
 <meta name="author" content="The Staff of The Legacy">
 <meta name="description" content="The Legacy, a college media publication.">
 <meta name="keywords" content="The Legacy, newspaper, college media, student media">
-<meta name="copyright" content="Copyright 2009 The Legacy.">
+<meta name="copyright" content="Copyright 2010 The Legacy.">
 
 <script type="text/javascript">
 /* <![CDATA[ */
-var currentissuedate='11/04/09';
+var currentissuedate='04/28/10';
 var currentissuedayname='Wednesday';
-var currentissuemonthname='November';
-var currentissueday='4';
-var currentissuemonth='11';
-var currentissueyear='2009';
+var currentissuemonthname='April';
+var currentissueday='28';
+var currentissuemonth='4';
+var currentissueyear='2010';
 var basehref='http://www.lulegacy.com/';
 var paper_id='1262';
 var paperzip='63301';
@@ -141,13 +258,13 @@ var slideshowpath='http://www.lulegacy.com/home/index.cfm?event=displaySlideShow
 var aSectionNames = new Array();
 var aSectionLinks = new Array();
 aSectionNames[0] = 'News';
-aSectionLinks[0] = '/news/2009/10/21/News/';
+aSectionLinks[0] = '/news/2010/04/14/News/';
 aSectionNames[1] = 'Sports';
-aSectionLinks[1] = '/news/2009/10/21/Sports/';
+aSectionLinks[1] = '/news/2010/04/14/Sports/';
 aSectionNames[2] = 'Entertainment';
-aSectionLinks[2] = '/news/2009/10/21/Entertainment/';
+aSectionLinks[2] = '/news/2010/04/14/Entertainment/';
 aSectionNames[3] = 'Opinion';
-aSectionLinks[3] = '/news/2009/10/21/Opinion/';
+aSectionLinks[3] = '/news/2010/04/14/Opinion/';
 /* ]]> */
 </script>
 
@@ -339,12 +456,14 @@ a.issuesummaryheadline:hover {
 					</div>
 					<div id="net_channels">
 						<ul>
+							
                         
-							<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top"> Spring Break</a></li>
+							<!--<li><a href="http://springbreak.mtvu.com/" target="_blank"><img src="/media/assets/images/ncbar_mtvu.gif" border="0" alt="mtvU Logo" align="top" /> Spring Break</a></li>-->
 							<!--<li><a href="http://govoteabsentee.com/" target="_blank"><img src="/media/assets/images/ncbar_absentee.gif" border="0" alt="Absentee Logo" align="top" /> Vote Absentee</a></li>-->
 
 						
-							<li><a href="http://media.www.lulegacy.com/channel/collegeheadlines/" target="_parent">Top College News</a></li>
+							<li><a href="http://www.CareerRookie.com/?siteid=mtvu005" target="_blank">Jobs and internships for students</a></li>
+							<li><a href="http://media.www.lulegacy.com/channel/collegeheadlines/" target="_blank">Top College News</a></li>
 							
 						</ul>
 					</div>
@@ -376,7 +495,7 @@ a.issuesummaryheadline:hover {
 <ul id="flan_sections">
 	<li><a href="/home" title="The Legacy Front Page">Front Page</a></li>
 	
-	  <li><a href="/news/2009/11/04/News/" title="News">News</a></li>
+	  <li><a href="/news/2010/04/28/News/" title="News">News</a></li>
 	    
 		  
 			  
@@ -389,7 +508,7 @@ a.issuesummaryheadline:hover {
 		  
 		  
 	
-	  <li><a href="/news/2009/11/04/Sports/" title="Sports">Sports</a></li>
+	  <li><a href="/news/2010/04/28/Sports/" title="Sports">Sports</a></li>
 	    
 		  
 			  
@@ -402,7 +521,7 @@ a.issuesummaryheadline:hover {
 		  
 		  
 	
-	  <li><a href="/news/2009/11/04/Entertainment/" title="Entertainment">Entertainment</a></li>
+	  <li><a href="/news/2010/04/28/Entertainment/" title="Entertainment">Entertainment</a></li>
 	    
 		  
 			  
@@ -415,7 +534,7 @@ a.issuesummaryheadline:hover {
 		  
 		  
 	
-	  <li><a href="/news/2009/11/04/Opinion/" title="Opinion">Opinion</a></li>
+	  <li><a href="/news/2010/04/28/Opinion/" title="Opinion">Opinion</a></li>
 	    
 		  
 			  
@@ -608,7 +727,7 @@ a.issuesummaryheadline:hover {
 	<p><b>10. Questions:</b> If you have questions about this Privacy Policy or if you do not understand any information about how we collect, maintain, use or share your Personal Information, you may contact us directly by sending an email to <u><a href="mailto:feedback@collegepublisher.com">feedback@collegepublisher.com</a></u>. </p>
 	<p><b>11. Sole Statement:</b> This document is the sole statement of the Site’s Privacy Policy and no summary, restatement or other version thereof, or other privacy statement or policy, in any form, including, without limitation, machine-generated, is valid.</p>
 	<p>This Privacy Policy was last modified on September 9, 2009 and is effective immediately.</p>
-	<p>Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
+	<p>Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.</p>
 
 			
 			
@@ -648,35 +767,30 @@ a.issuesummaryheadline:hover {
 		
 </div><script language="Javascript" type="text/javascript">
 	document.write('<scr'+'ipt src=http://media.collegepublisher.com/media/paper' + paper_id + '/template/betapopularstories.js?'+currentissuedate+'><\/scr'+'ipt>');
-</script><script src="http://media.collegepublisher.com/media/paper1262/template/betapopularstories.js?11/04/09"></script><div id="flan_poll" class="content">
+</script><script src="http://media.collegepublisher.com/media/paper1262/template/betapopularstories.js?04/28/10"></script><div id="flan_poll" class="content">
 	<h4>Poll</h4>
 	<form name="voteform" action="/poll/index.cfm?event=castVote" method="post">
-		<div class="pollquestionstyle">How long will it take for you to graduate?</div>
+		<div class="pollquestionstyle">What do you think about Lindenwood trying to become a NCAA Div. II school?</div>
 		<div id="poll_answers">
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_162839" value="162839">
-					<label for="poll_answer_162839">less than 4 years</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_170392" value="170392">
+					<label for="poll_answer_170392">It's good</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_162840" value="162840">
-					<label for="poll_answer_162840">4 years</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_170393" value="170393">
+					<label for="poll_answer_170393">It's bad</label>
 				</div>
 			
 				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_162841" value="162841">
-					<label for="poll_answer_162841">5 years</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_170394" value="170394">
+					<label for="poll_answer_170394">It will both help and hurt the school</label>
 				</div>
 			
 				<div class="poll_even">
-					<input type="radio" name="poll_answer_id" id="poll_answer_162842" value="162842">
-					<label for="poll_answer_162842">6 years</label>
-				</div>
-			
-				<div>
-					<input type="radio" name="poll_answer_id" id="poll_answer_162843" value="162843">
-					<label for="poll_answer_162843">more than 6 years</label>
+					<input type="radio" name="poll_answer_id" id="poll_answer_170395" value="170395">
+					<label for="poll_answer_170395">I'm indifferent</label>
 				</div>
 			
 		</div>
