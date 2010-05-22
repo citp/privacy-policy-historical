@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116182835id_/http%3A//www.asmnet.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmnet.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105510id_/http%3A//asmnet.com/AboutUs/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-|  [ ](https://web.archive.org/web/20091116182835id_/http%3A//www.asmnet.com/) |   
+|  [ ](https://web.archive.org/web/20100522105510id_/http%3A//asmnet.com/) |   
 ---|---  
 |  |  Search   | 
 
@@ -144,6 +144,5 @@ Fax: (949) 797-9112
 ---|---  
 |  |   
   
-National Office: 18100 Von Karman Ave., Suite 900, Irvine CA 92612 USA | +1.949.797.2900  
-Copyright 2009 Advantage Sales & Marketing LLC | [Privacy Policy](https://web.archive.org/AboutUs/Pages/PrivacyPolicy.aspx) | [Terms of Use](https://web.archive.org/AboutUs/Pages/TermsofUse.aspx)  
-ASMnet.com is a production of the ASM Corporate Communications department. Contact [Webmaster](mailto:webmaster@asmnet.com "Contact Webmaster").
+Copyright © 2010 Advantage Sales & Marketing LLC | National Office: 18100 Von Karman Ave., Suite 900, Irvine CA 92612 USA | +1.949.797.2900  
+ASMnet.com is a production of the ASM Corporate Communications department. Contact [Webmaster](mailto:webmaster@asmnet.com "Contact Webmaster") | [Privacy Policy](http://asmnet.com/AboutUs/Pages/PrivacyPolicy.aspx) | [Terms of Use](http://asmnet.com/AboutUs/Pages/TermsofUse.aspx)
