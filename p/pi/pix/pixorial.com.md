@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109233232id_/http%3A//www.pixorial.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixorial.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522020949id_/http%3A//www.pixorial.com/company/privacy.html) for the most accurate reproduction.*
 
 # Pixorial, Inc - Privacy - How we use and protect the information we collect. E-mail policy
 
