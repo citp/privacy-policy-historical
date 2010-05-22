@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170051id_/http%3A//www.mccormick.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mccormick.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522070556id_/http%3A//mccormick.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | McCormick®
 
