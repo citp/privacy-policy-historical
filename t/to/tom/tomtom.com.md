@@ -1,95 +1,92 @@
-> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2008-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080605124625id_/http%3A//www.tomtom.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tomtom.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522020011id_/http%3A//tomtom.com/legal/privacy) for the most accurate reproduction.*
 
 # TomTom, portable GPS car navigation systems - Website Privacy Policy
 
 **Privacy Policy**
 
+This Policy was last updated in December 2009.
+
 **Scope**
 
-TomTom International B.V. and its parent company, subsidiaries and affiliates (collectively “ **TomTom** ”, “ **us** ”, or “ **we** ”) appreciate the interest you have shown in its products and services by visiting the website [www.tomtom.com](http://www.tomtom.com/) (" **Website** ") or related communication channels such as, without limitation, TomTom HOME or TomTom WORK (“ **Communication Channels** ”). This Privacy Policy outlines the guidelines we have established with respect to the information TomTom collects when you interact with TomTom, such as when you visit our Website, when you use the products and services offered by TomTom, like the TomTom Plus services or TomTom HOME, or when you subscribe to our newsletter or when you call our Customer Support.
+TomTom International B.V. and its parent company, subsidiaries and affiliates (collectively “ **TomTom** ”, “ **us** ”, or “ **we** ”) appreciate the interest you (“You” or “Your”) have shown in our products and services by visiting our websites, 
 
-“ **Personal Information** ” is information about you that is personally identifiable to you like your name, address, e-mail address, or phone number, as well as other non-public information that is associated with the foregoing.
+_[www.tomtom.com](http://www.tomtom.com/)_
 
-“ **Anonymous Information** ” means information that is not associated with or linked to your Personal Information; Anonymous Information does not permit the identification of individual persons. 
+or related communication channels such as TomTom HOME, TomTom WORK and TomTom’s route planner and route widget (collectively, the " **Websites** "). This Privacy Policy outlines our guidelines for the information TomTom collects when You interact with TomTom, such as when You visit our Websites, when You use the products and services offered by TomTom, like TomTom HOME or our TomTom LIVE services, when You subscribe to our newsletter or when You call our Customer Support.
 
-In accessing the Website or related Communication Channels you accept all the terms and conditions of this Privacy Policy. You also agree that TomTom may amend and/or revise this Privacy Policy at its discretion and you agree to be bound by these revisions and amendments. Your Personal Information may be processed in the country where it was collected as well as in third countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in your country.   
-If you do not agree with the terms and conditions of this Privacy Policy we request that you immediately cease using and accessing the Website or related Communication Channels as well as the products and services for which you need to provide Personal Information.  
+“ **Personal Information** ” is information about You that is personally identifiable to You like Your name, address, e-mail address, or phone number.
+
+“ **Anonymous Information** ” means information that is not associated with or linked to Your Personal Information.  Anonymous Information does not permit identification of You.  Anonymous Information, such as basic usage statistics regarding Your use of the products and services offered by TomTom, does not by itself identify You to TomTom, though such information may be unique or consist of or contain information that You consider personal.  
+In accessing the Websites You accept all the terms and conditions of this Privacy Policy. You also agree that TomTom may amend and/or revise this Privacy Policy at its discretion, and You agree to be bound by these revisions and amendments. Your Personal Information may be processed in the country where it was collected as well as in other countries (including the United States) where laws regarding processing of Personal Information may be less stringent than the laws in Your country.   
+If You do not agree with the terms and conditions of this Privacy Policy we request that You immediately cease using and accessing the Websites as well as the products and services for which You need to provide Personal Information.  
 **  
-Collection of Personal Information by TomTom**
+**Collection of Information by TomTom****
 
-The Personal Information we gather from you helps us learn about our visitors and customers. We use this information to provide you with our products and services and the products and services of our carefully selected partners, to develop new products and services, to better tailor the features, performance and support of our products and services, and to offer you additional information and opportunities.  
-We collect Personal Information that you submit to us voluntarily through our Website or related Communication Channels and your use of our products and services. The types of Personal Information we collect are:
+The Personal Information we gather from You helps us learn about our visitors and customers. We use this information to provide You with our products and services and the products and services of our carefully selected partners, to develop new products and services, to better tailor the features, performance and support of our products and services, and to offer You additional information and opportunities.  
+We collect Personal Information that You submit to us voluntarily through our Websites and Your use of our products and services. We may collect Anonymous Information passively or actively. The types of Personal Information and Anonymous Information we collect are:
 
-  * If you set up a “MyTomTom” account, we will collect your contact details such as name, address, gender, email address and country as well as, if appreciated, the information you provide us with in order to receive the newsletter of your preference.
-  * If you buy items from our webstore, we will collect your full name, the name of your company (if applicable), your postal address (each for shipping and billing purposes), email address, phone number, and all the information we need to process your payment of the purchase amount.
-  * If you request customer support services for TomTom products and/or services, we will collect Personal Information to enable us to provide such customer support services to you, including your name, mailing address, phone number, email address, and contact preferences. We will also collect other information about the TomTom products you own, such as the serial numbers, date of purchase and information related to a support or service issue, some of which might be Personal Information.
-  * By using a bulletin board or a chat room at our Website, you should be aware that you are sharing all information you post on such bulletin boards or chat rooms with other users, including any Personal Information that you may choose to share. Please choose the information that you share carefully and accordingly. TomTom is not responsible for any use of information you provide on a bulletin board or in a chat room by any third party. 
-  * You may also be requested to provide Personal Information about a person other than yourself (for example if you want to purchase a gift for someone and this Personal Information is required for the fulfillment of the delivery of your purchase, or if you use the TomTom Buddies service), such as name, address, email address and/or location data. This Personal Information is used only for the purpose for which you provide it to TomTom.
-  * TomTom may collect Personal Information through surveys for market research purposes to gain a better understanding of our customers, to improve our products and services, and to develop new products and services. The information we collect in such instances depends on the survey, but might include your name, address, age, information about your use of our services and products and the like. 
-  * If you request TomTom Plus services such as traffic information, TomTom may collect location data from your TomTom device in order to provide you with the services requested.
-  * If you send us an email to apply for a position with TomTom, we will collect your email address and the full content of your email, included attached files, such as resumes, and other information necessary to process your application.
-
-
-
-Any Personal Information which you supply to TomTom shall be true, complete and accurate in all respects. You agree to notify TomTom immediately of any changes to your Personal Information via our Website or related Communication Channels. 
+You represent, warrant and covenant that any Personal Information that You supply to TomTom is true, complete and accurate in all respects. You agree to notify TomTom immediately of any changes to Your Personal Information via our Websites. 
 
 **Cookie Policy**
 
-This Website uses Cookies to allow TomTom to collect data about the visitors of the Website and users of our service (that we may associate with Personal Information that we have collected from you) and to customise and personalise our Website and related Communication Channels for its viewers. A “ **Cookie** ” is a small text file that is placed on your hard disk by a web server and is used by our Website or related Communication Channels to identify your computer whenever you visit our Website. TomTom uses Cookies to store your preferences and other related information. TomTom does not use Cookies to gather other information from your personal computer. Cookies can be removed by following Internet browser help file directions. If you choose to disable Cookies, some areas of the Website or related Communication Channels may not work properly.
+Our Websites use Cookies to allow TomTom to collect data about the visitors of the Websites and users of our service (that we may associate with Personal Information that we have collected from You) and to customise and personalise our Websites for its viewers. A “ **Cookie** ” is a small text file that is placed on Your hard disk by a web server and is used by our Websites to identify Your computer whenever You visit our Websites. TomTom uses Cookies to store Your preferences and other related information. TomTom does not use Cookies to gather other information from Your personal computer. Cookies can be removed by following Internet browser help file directions. If You choose to disable Cookies, some areas of the Websites may not work properly.
 
 **Information Collected Via Technology**
 
-As you navigate our Website or related Communication Channels, certain Anonymous Information may also be collected passively, including your Internet protocol address, browser type, and operating system. We also use Cookies and data like Uniform Resource Locators (URL) to gather information regarding the date and time of your visit and the information for which you searched and viewed. We use this Anonymous Information to measure the traffic on our Website and related Communication Channels and to help us make our Website and Communication Channels more useful. We delete this information after a period of time.  
-TomTom may gather Anonymous Information from your TomTom device when you are using it or when you are connecting it to a computer by using TomTom HOME. This Anonymous Information may include information on how long it took you to travel certain routes, traffic patterns and on any technical glitches you may have encountered. The nature of the Anonymous Information that your TomTom device transmits to us will not enable us to trace it back to an identifiable person. We will only collect this Anonymous Information if you agree to provide it to us and you can always disable that such Anonymous Information will be provided to us by changing the settings of your TomTom HOME service. 
+As You navigate our Websites, certain Anonymous Information may also be collected passively, including Your Internet protocol address, browser type, and operating system. We also use Cookies and data like Uniform Resource Locators (URL) to gather information regarding the date and time of Your visit and the information for which You searched and viewed. We use this Anonymous Information to measure the traffic on our Websites and to help us make our Websites more useful. We delete this information after a period of time.  
+TomTom may gather Anonymous Information from Your TomTom device when You are using it or when You are connecting it to a computer by using TomTom HOME. This Anonymous Information includes location information (information about Your location), information on how long it took You to travel certain routes, traffic patterns and on any technical glitches You may have encountered. The nature of the Anonymous Information that Your TomTom device transmits to us will not enable us to trace it back to an identifiable person; provided, however, You may elect to permit us to associate such Anonymous Information with Personal Information we have collected from You to provide You with specific location-based services that are tailored to meet Your needs or interests, to improve our products and services or to enforce the agreements, terms and conditions related to our Websites, products and services. 
 
-**Personal Information we receive from Other Sources**
+**Our disclosure of Your information**   
+We may disclose Personal Information to respond to legal requirements, to enforce our policies, to respond to claims that a listing or other content violates the rights of others, or to protect anyone's rights, property, or safety. Such Personal Information will be disclosed in accordance with applicable laws and regulations.  
+We may also share Your Personal Information with: 
 
-We may receive Personal Information about you from third parties that provide us with data from their databases. We may add this information to the information we have already collected from you for the purposes described in this Privacy Policy.
+Please note that if You access our Websites from a shared computer or a public computer, such as one in an internet café, certain information about You, such as Your user account, may be visible to other individuals who use the computer after You.   
+**Your Choices regarding Your Personal Information**
 
-**How does TomTom processes Personal Information and Anonymous Information?**
+We offer You choices regarding the collection, use and sharing of Your Personal Information. When You receive newsletters or promotional communications from us, You may indicate a preference to stop receiving further communications from us and You have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail You receive or by contacting us directly at 
 
-  * Personal Information will be collected, processed, and used by TomTom for the purposes as mentioned in this Privacy Policy. 
-  * Your Personal Information is used by TomTom to perform its obligations resulting from the delivery of the TomTom products and/or services to you, under the End-User License Agreement, Limited Warranty, if any, or any other terms that may apply. TomTom uses your Personal Information to respond to your questions and to fulfill your requests or to manage interactive customer programs. TomTom is entitled to contract third parties for its fulfillment of its obligations hereunder, however, TomTom will not provide your Personal Information to a third party without your permission, except as necessary to process your order, fulfill your requests or manage the interactive customer programs or if compelled by law. These third parties may help TomTom to i.e. process information, fulfill customer orders, deliver products to you, manage and enhance customer data, provide customer service, assess your interest in our products and services or to conduct customer research or satisfaction surveys. These third parties are also obligated to protect your Personal Information in accordance with this policy. TomTom is and will remain responsible for the use of your Personal Information. 
-  * TomTom also uses Personal Information to contact you, always on an “opt-in” basis, via mail, via e-mail or phone to inform you of our (new) products and/or services and the products and services of our carefully selected partners, promotions we may offer, to submit a customer survey and any other marketing activity. TomTom is entitled to contract third parties to perform its direct marketing activities. TomTom may use your Personal Information to conduct market research, to improve our products and/or services, to provide more responsive customer service and to improve our Website, products and services. 
-  * TomTom may provide, distribute or disclose your Personal Information to third parties where TomTom reasonably believes that it is required to do so to conform to legal requirements or litigation, to protect and defend the rights or property of TomTom or other third parties, to enforce this Privacy Policy or act to protect the interests of its users. TomTom is also entitled to disclose your Personal Information for the purposes of national security or other issues of public importance, at TomTom's discretion.
-  * Your Personal Information and Anonymous Information are stored by TomTom in a central database. This central database is shared by all TomTom entities that will use this information on a “need to know” basis in accordance with this Privacy Policy. 
-  * TomTom is entitled to exchange any Personal Information between the TomTom entities including, but not limited to, those based in countries within and outside the EU, for the purposes mentioned in this Privacy Policy.
-  * TomTom may create Anonymous Information records from Personal Information by excluding information (such as your name) that make the information personally identifiable to you. We may use this Anonymous Information to analyse usage patterns, to improve our services and reserve the right to use and disclose Anonymous Information to third parties in its discretion. 
-  * If our company or our assets are acquired by another company, that company will possess the Personal Information collected by us and it will assume the rights and obligations regarding your Personal Information as described in this Privacy Policy.
+_www.tomtom.com/support_ __
 
+or [privacy@tomtom.com](mailto:privacy@tomtom.com).  However, regardless of Your indicated e-mail preferences, we may send You service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy.   
+You may change any of the Personal Information in Your account by editing Your account information.
 
+**Accessing, reviewing and changing Your Personal Information**   
+You can see, review and change much of Your Personal Information by signing in to Your TomTom account. Generally, we will not modify Your Personal Information because it is very difficult to verify Your identity remotely (e.g. via telephone). You must promptly update Your Personal Information if it changes or is inaccurate. Once You make a public posting, You may not be able to change or remove it. Upon Your request (privacy@tomtom.com), we will close Your account and remove Your Personal Information from view as soon as reasonably possible, based on Your account activity and in accordance with applicable law. We do retain Personal Information from closed accounts to comply with law, prevent fraud, collect any fees owed, resolve disputes, troubleshoot problems, assist with any investigations, enforce our terms and conditions, and take other actions permitted by law.
 
-**Your Choices regarding your Personal Information** ****
+**Transfer of Business Assets**
 
-We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out” by following the unsubscribe instructions provided in the e-mail you receive or by contacting us directly (please see contact information below).  
-Despite your indicated e-mail preferences, we may send you service e-mails regarding our products and services or notices of any updates to the terms and conditions or Privacy Policy.   
-You may change any of the Personal Information in your account by editing your account information.
+In the event that TomTom undergoes a change of control or is sold or transferred, or in the event that substantially all of its assets are sold or transferred to a third party, TomTom’s website, products and services, and any personally identifiable information collected by TomTom, will be among the transferred assets. By using our Websites, products and/or services, You hereby agree and consent to such transfer or assignment of Your Personal Information collected by TomTom or to a change of control of TomTom, and You further waive any claims that could be made against us in relation thereto.
 
 **Feedback**
 
-If you provide feedback to us, we may use such feedback for any purpose, provided we do not associate such feedback with your Personal Information. TomTom will collect any information contained in such communication and will treat the Personal Information in such communication in accordance with this Privacy Policy.
+If You provide feedback to us, we may use such feedback for any purpose, provided we do not associate this feedback with Your Personal Information. TomTom will collect any information contained in such communication and will treat the Personal Information in the communication in accordance with this Privacy Policy.
 
 **Other Sites**  
 **  
-Our provision of links to other websites or locations is for your convenience and does not signify our endorsement of such other websites or location or its contents. We have no control over, do not review, and cannot be responsible for these outside websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside websites.**  
+****Our provision of links to other Websites or locations is for Your convenience and does not signify our endorsement of these other Websites, location or its contents. We have no control over, do not review, and cannot be responsible for these third party Websites or their content. Please be aware that the terms of our Privacy Policy do not apply to these outside Websites.**  
 **  
-Regarding Children**
+**Children****
 
-We do not intentionally gather Personal Information about visitors who are under the age of 16 **.**  
+We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at 
+
+_[www.tomtom.com/support](http://www.tomtom.com/support)_
+
+or [privacy@tomtom.com](mailto:privacy@tomtom.com) **, and such Personal Information will be deleted.**  
 **  
-Safeguarding the information you share with us**
+**Safeguarding the information You share with us****
 
-We recognize our responsibility to protect the Personal Information you entrust to us. We take precautions including administrative, technical and physical measures to safeguard your Personal Information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. However, no company, including TomTom, can fully eliminate security risks associated with Personal Information and TomTom can not be held liable for any unauthorised access or use of the data you have supplied to TomTom.  
-You can also take precautions to protect your Personal Information when you are on the Internet. Change your passwords often using a combination of letters and numbers, and make sure you use a secure Internet browser.  
+We recognize our responsibility to protect the Personal Information You entrust to us. We take precautions including administrative, technical and physical measures to safeguard Your Personal Information against loss, theft, and misuse, as well as unauthorized access, disclosure, alteration, and destruction. However We cannot fully eliminate security risks associated with Personal Information and TomTom cannot be held liable for any unauthorised access or use of the data You have supplied to Us  
+You can also take precautions to protect Your Personal Information when You are on the Internet. Change Your passwords often using a combination of letters and numbers, and make sure You use a secure Internet browser.  
 **  
-Privacy questions**
+**Privacy questions****
 
-If you think that the use of your Personal Information is not in alignment with the purpose for which you have provided it to TomTom, as described in this Privacy Policy, or if you have any questions or suggestions regarding this Privacy Policy, please refer to our website [www.tomtom.com/support](http://www.tomtom.com/support/). We will duly process your questions, requests and suggestions.   
+If You think that the use of Your Personal Information is not in alignment with the purpose for which You have provided it to Us, as described in this Privacy Policy, or if You have any questions or suggestions regarding this Privacy Policy, please contact Us at We do not intentionally gather Personal Information about visitors who are under the age of 16 **. If You believe that we have collected Personal Information about a visitor who is under the age of 16, please** contact Us at 
+
+_[www.tomtom.com/support](http://www.tomtom.com/support)_
+
+or [privacy@tomtom.com](mailto:privacy@tomtom.com).  
 **  
-Privacy Policy Updates**  
+**Privacy Policy Updates****  
 **  
-This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information** **,** we will post an alert on this page. If you object to any such changes, you must cease using our Website and our products and services for which Personal Information is collected. Continued use of our Website and our products and services following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-This Policy was last updated in September 2006.
-
-Copyright © 2006 TomTom International BV. All rights reserved.
+****This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use Your Personal Information,** **** we will post a notice on this page. If You object to any such changes, You must cease using our Websites and our products and services where Personal Information is collected. Continued use of our Websites and our products and services following notice of any such changes will indicate Your acknowledgement of the changes and agreement to be bound by the new terms and conditions.  
+Copyright © 2009 TomTom International BV. All rights reserved.
