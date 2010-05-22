@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814191753id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videouniversity.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522230028id_/http%3A//www.videouniversity.com/videouniversity-privacy-policy) for the most accurate reproduction.*
 
 # VideoUniversity Privacy Policy « Video University
 
