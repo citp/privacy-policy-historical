@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203341id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ishares.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522221717id_/http%3A//us.ishares.com/misc/privacy.htm) for the most accurate reproduction.*
 
 # iShares ETFs for US investors - Exchange Traded Funds
 
@@ -8,12 +8,11 @@ iShares is committed to your privacy. This Privacy Policy is designed to inform 
 
 To put it simply: We will not sell non-public, personal information we collect about you on this Site to anyone. We will store the information using generally accepted encryption and data-storage technology. And we will give you the ability to opt out of our using the information to send you separate online marketing and advertising.
 
-Please direct any questions to [isharesetfs@barclaysglobal.com](mailto:isharesetfs@barclaysglobal.com) or call 1-800-iShares.
+Please direct any questions to [isharesetfs@blackrock.com](mailto:isharesetfs@blackrock.com) or call 1-800-iShares.
 
-This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or Barclays Global Investors may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
+This Privacy Policy explains the Site's processing and storage practices in the United States for personal information transmitted through the Site. Visitors subject to the jurisdiction of other countries must not submit information through this Site, and by doing so waive any and all liability iShares or BlackRock Institutional Trust Company, N.A. and its affiliates ("BlackRock") may have to them in connection with such information. By browsing the Site and communicating electronically with us, Site visitors acknowledge that we are processing and storing their personal information in the United States under U.S. privacy standards.
 
-**Personally Identifiable Information**
-
+**Personally Identifiable Information**  
 _When you register_ with the Site we collect your name, company address, email address, telephone number, and additional contact information. We also ask whether you are an individual or a financial professional and for related information. We collect a web site username and password.
 
 _When you send email_ through the site, we collect your screen name and email address, as well as any additional information you include in the message.
@@ -22,14 +21,12 @@ _When you're navigating_ the Site we record your IP address.
 
 We consider each of the above pieces of information to be "Personally Identifiable Information" because it is individually identifiable information about you.
 
-**Other Information Associable with You**
-
+**Other Information Associable with You**  
 _When you answer our online surveys_ we collect your responses.
 
 _When you're navigating the Site_ we log various information to help manage and improve our Site, services, and marketing, in general and for you in particular. For example, we identify items such as domains and browser types to understand how our Site is used and to report these statistics in the aggregate to the vendors that manage the technology of our website. We also record any information you enter, such as search terms and input to the tools such as hypothetical portfolio information.
 
-**Cookies, etc.**
-
+**Cookies, etc.**  
 Like many websites, we use cookies, 1x1-pixel images (Action Tags), JavaScript code, and other standard web technology to collect information for our own use.
 
 A cookie is a small data file that we transfer to your computer's hard disk for record-keeping purposes. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie and to permit you to refuse it. In most cases you can refuse a cookie and still navigate our site, though it may disable some features. Check with the maker of your browser for more information about how to control cookies.
@@ -58,36 +55,28 @@ We also disclose such information as permitted or required by law or as required
 
 As our business evolves, we may sell, transfer, or otherwise share some or all of our assets, including information provided by you, in connection with a merger, reorganization, or sale of some or all of our assets, or in the event of bankruptcy. In any such event, personally identifiable and other information may be one of the assets transferred.
 
-**Choosing NOT to disclose personal information**
-
+**Choosing NOT to disclose personal information**  
 You are not required to register to gain access to many areas of the Site. In order to use all of the site's services, however, we require registration for a username and password for authentication and for secure access to personalized Site information or services.
 
-**Opting out**
-
+**Opting out**  
 You can opt out of our using non-public, personally identifiable information we collect on the Site to send you separate online marketing and advertising materials by updating your Profile (see below), contacting us at the below phone number or email, or clicking on an "unsubscribe" link in our marketing emails.
 
-**Reviewing your information and requesting changes to your Profile**
+**Reviewing your information and requesting changes to your Profile**  
+You should identify and correct any inaccuracies in the information you submit. To update information previously submitted, please sign in and click on the "My Profile" link located at the top of every web page. Please direct inquiries about the accuracy of information previously submitted through the Site, or requests to update information, to: isharesetfs@blackrock.com or call 1-800-iShares. iShares will not be responsible for outdated information or for verifying personal information.
 
-You should identify and correct any inaccuracies in the information you submit. To update information previously submitted, please sign in and click on the "My Profile" link located at the top of every web page. Please direct inquiries about the accuracy of information previously submitted through the Site, or requests to update information, to: isharesetfs@barclaysglobal.com or call 1-800-iShares. iShares will not be responsible for outdated information or for verifying personal information.
-
-**Children's online privacy protection**
-
+**Children's online privacy protection**  
 iShares understands the importance of protecting children's privacy, especially in an online environment. The Site is not designed for or directed at children. It is our policy not to knowingly collect or maintain information about anyone under the age of 13.
 
-**Links to third party sites**
-
+**Links to third party sites**  
 The Site contains links to third party websites. We assume no responsibility for the information practices of those websites. We encourage visitors to review each site's privacy policy before disclosing any personal information on that site.
 
-**Phishing**
-
+**Phishing**  
 We do not and will not, at any time, request personal information in a non-secure or unsolicited email or telephone communication. Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, visit the Federal Trade Commission at [http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.htm](https://web.archive.org/exit_tracking.htm?url=http%3A%2F%2Fwww.ftc.gov%2Fbcp%2Fedu%2Fpubs%2Fconsumer%2Falerts%2Falt127.htm).
 
-**Security**
-
+**Security**  
 The Site uses generally accepted standards of technology and operational security to protect personal information. Personal information received through the Site is encrypted.
 
-**Changes to this Policy**
-
+**Changes to this Policy**  
 This Privacy Policy may be updated from time to time as our services change and grow. We will indicate any such changes at the privacy link at the bottom of our home page, and your continued use of the Site will signify your acknowledgement of any new terms. The most current version of the Privacy Policy can be found by visiting the privacy link at [http://www.iShares.com](https://web.archive.org/home.htm).
 
-We welcome inquiries or comments about our Privacy Policy and any queries or concerns about iShares at [isharesetfs@barclaysglobal.com](mailto:isharesetfs@barclaysglobal.com) or 1-800-iShares.
+We welcome inquiries or comments about our Privacy Policy and any queries or concerns about iShares at [isharesetfs@blackrock.com](mailto:isharesetfs@blackrock.com) or 1-800-iShares.
