@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214071751id_/http%3A//www.highwinds.com/tabid/110/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwinds.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522113142id_/http%3A//www.highwinds.com/tabid/110/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
