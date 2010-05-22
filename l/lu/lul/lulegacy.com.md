@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106024319id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulegacy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522133040id_/http%3A//www.lulegacy.com/user/privacypolicy) for the most accurate reproduction.*
 
 # The Legacy
 
@@ -144,4 +144,4 @@ We reserve the right to deny access, use and registration privileges to any user
 
 This Privacy Policy was last modified on September 9, 2009 and is effective immediately.
 
-Copyright ©2009 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
+Copyright ©2010 MTV Networks, a division of Viacom International Inc. - All Rights Reserved.
