@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the work-at-home-forum.com privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306203339id_/http%3A//www.work-at-home-forum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the work-at-home-forum.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214835id_/http%3A//www.work-at-home-forum.com/privacy.shtml) for the most accurate reproduction.*
 
 # Work at Home Forum - Privacy Policy
 
@@ -36,7 +36,7 @@ We may send special offers and related news once a week to those who have opted 
 
 ## Advertisements
 
-We display ads by third-party advertisers like Google on our site. In order to display relevant ads, they may use cookies, to which we do not have any access or control. 
+We use third-party advertising companies, like Google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 ## Public Forums
 
