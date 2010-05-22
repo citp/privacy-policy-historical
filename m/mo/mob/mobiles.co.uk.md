@@ -1,6 +1,16 @@
-> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419180850id_/http%3A//www.mobiles.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobiles.co.uk privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214709id_/http%3A//www.mobiles.co.uk/privacy.html) for the most accurate reproduction.*
 
-# our privacy policy. - Best Mobile Phone Deals on Orange, O2, T-Mobile, 3, Virgin
+# Mobiles.co.uk privacy policy - Best Mobile Phone Deals on Orange, O2, T-Mobile, 3, Vodafone
+
+  
+  
+  
+  
+
+
+[](http://www.mobiles.co.uk/faq.html "Mobiles.co.uk Help Section")
+
+[](https://securesite.mobiles.co.uk/contact-sales-team.html "Mobiles.co.uk Contact Sales")
 
 ## Mobiles.co.uk Privacy Statement
 
@@ -30,8 +40,6 @@ The type of information we will collect about you includes:
 The information we hold will be accurate and up to date. You can check the information that we hold about you by e-mailing us. If you find any inaccuracies we will delete or correct it promptly. You may request that we remove your details from our marketing database at any time, however for legal and internal accounting reasons we are not able to remove your details from any other systems.
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
-
-If we intend to transfer your information outside the EEA (European Economic Area) we will always obtain your consent first.
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings.
 
@@ -68,6 +76,6 @@ We will respond in full within 40 days. We recommend using Recorded Delivery so 
 
 If you have any questions about privacy, please e-mail [Ben Godber](mailto:ben.godber@mobiles.co.uk?subject=Privacy%20Policy). 
 
-[](http://www.mobiles.co.uk/security.htm "100% Secure Online Ordering")
-
 [](https://web.archive.org/customer-feedback.html "More customer feedback")
+
+[](http://www.mobiles.co.uk/security.htm "100% Secure Online Ordering")
