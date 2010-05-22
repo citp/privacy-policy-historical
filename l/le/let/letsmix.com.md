@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the letsmix.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212191721id_/http%3A//www.letsmix.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsmix.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522121654id_/http%3A//www.letsmix.com/privacy_policy) for the most accurate reproduction.*
 
-# Let's mix - Privacy policy
+# Privacy policy - Let's mix
 
 Membership in Letsmix.com requires that Tonium AB records your name, address, date of birth (Civic Reg. No.), e-mail address, age, sex and telephone number. The purpose of this registration is primarily to prevent and facilitate the tracing of any non-approved activity. Your personal data will also be handled by us so that you will be able to use Letsmix.com and its functions in the best possible way, so that we can provide you with information and offers from us, from other Tonium companies or our cooperation partners, and for direct marketing via e-mail or other Letsmix.com functions.
 
