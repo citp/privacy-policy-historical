@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formassembly.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120185508id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formassembly.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105118id_/http%3A//www3.formassembly.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
