@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the maturedatinguk.com privacy policy that was archived on 2009-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091117193303id_/http%3A//www.maturedatinguk.com/dating-online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maturedatinguk.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523003623id_/http%3A//www.maturedatinguk.com/dating-online-privacy) for the most accurate reproduction.*
 
-# Privacy - Mature Dating UK
+# Your privacy and safety at MatureDatingUK
 
-## This website ("Site") is operated by Allegran Limited ("We")
-
-. We are registered in England and Wales under company number 04363830 and have our registered office at Northcliffe House, 2 Derry Street, London W8 5TT. Our VAT number is GB 243 571 174
+This website ("Site") is operated by Easy Date Holdings Ltd. ("We"). Registered Office: 23 Manor Place, Edinburgh EH3 7XE. Registered in Scotland no. SC368538 
 
 We are committed to protecting and respecting your privacy and this policy sets out the basis on which any personal data we collect from you through the Site, or that you provide to us via the Site, will be processed by us. Please read this statement carefully.
 
