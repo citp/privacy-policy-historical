@@ -1,18 +1,99 @@
-> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617063840id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bixee.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522092003id_/http%3A//www.bixee.com/help/privacy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy - Bixee.com
 
-This Privacy Policy explains how ibibo Web Private Ltd. ("Company") collects, use, disclose and protect the Personal Information obtained explicitly through the Company.s web site, "www.Bixee.com" .Site. as well as other information collected automatically without direct submission by you. "Personal Information" is information that enables anyone to contact you. Your full name, address, telephone number, or email address are examples of personal information. 
+Privacy Policy
 
-You may need to provide the Company your Personal Information during the course of using some services of the Company. For example, you have to provide your email address to use Job Alerts. For example, you also give your complete Personal Information when you upload your resume. 
+**1\. General Principles**
 
-The Company may use the information submitted by you to send you emails that you have requested, and for administrative purposes. In emails that the Company sends you, the Company provides a method to unsubscribe from future emails. When you submit your email address as part of the Job Alert application, the Company may use this address for no purpose other than to email you the job alerts that you requested. Your email address is deleted from the Company.s database when you remove/unsubscribe from the Job Alert. The Company does not make these email addresses available to any third party.  
-When you use the Site, the Company.s servers (which may be hosted by a third party service provider) may collect information indirectly and automatically about your activities on the Site. This anonymous information is maintained distinctly and is not linked to the Personal Information you submit to the Company. The anonymous information will be used for the Company.s understanding of how the Site is used, for system administration and to personalize your experience.  
-The Company may disclose aggregated information about the use of the Site, but it will never contain Personal Information. The Company does not disclose Personal Information to third parties in the normal course of operations. However, in situations when the Company is legally obligated to disclose information to the government or other third parties, the Company will do so.
+Protecting your privacy is very important to us. We have developed this Privacy Policy to protect your personal information and keep it confidential. 
 
-The Company implements standard measures to protect against unauthorized access to and unlawful interception of Personal Information. However, no internet site can fully eliminate security risks.  
-Questions? If you have questions about this Privacy Policy, please send us an email at **contactus@bixee.com**.
+Since Bixee.com is a career site we give you the option of putting your profile in our database. Any potential employer may review the Curriculum Vitae that you create as part of your profile. You can elect to keep some details on your Curriculum Vitae confidential. You can alos customize your privacy settings. Although we will take commercially reasonable efforts to ensure that no person or entity views your full profile without your permission, we cannot guarantee that unauthorized persons will not have access to or view your profile and will not be responsible for any such unauthorized access or viewing of your profile.
 
-The Company hopes that this policy clarifies the Company.s procedures regarding your Personal Information. The Company may amend this policy at any time by posting the amended policy on the Site. Please see our Terms of Service for further details. 
+You may remove your profile at any time. However, potential employers who you have permitted to view your profile may have retained a copy of your Curriculum Vitae in their own files or databases. We are not responsible for the retention, use, or privacy of profiles in these instances.
 
-* * *
+We do everything we reasonably can to protect your rights of privacy on systems and websites controlled by us, but we are not liable for any unauthorised or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Site. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours.
+
+We also cannot warrant the security of the information, which you transmit to us.
+
+We categorise information about you (collectively referred to as "Personal Information") as follows:
+
+  * Profiling Information: Information which you provide when you Subscribe or register for a Service 
+    * Information about your personal identity such as race, gender, marital status, religion, age etc.;
+    * Information as detailed in your Curriculem Vitae i.e. your academic qualifications, experience etc.
+    * Your financial information such as your banking details and any information relating to your income and lifestyle levels; and
+    * Your contact details such as your physical addresses, postal addresses, telephone and fax numbers and the like.
+    * Payment and Account Information: Your account history with us including (without limitation) all billing information and communications, payment history etc. We maintain this in encrypted form on secure servers 
+  * **Service Usage:** Information about your navigation using our Services, for example the URLs of websites, which you visit and from which you request downloads. 
+  * **Log information:** Information such as your web request, IP address, browser type, browser language, date and time of request.
+  * **Transactional Information:** Transactional history (other than banking details) about your e-commerce activities.
+  * **Correspondence Information:** Content, information about your correspondents, and the destination/origin of communications between you and any other person using our Services, which include email communications, blog, chat room and discussion board communications, instant message communications, experts forum communications, faxmail communications, membership of mailing lists etc.
+  * **User IDs:** Your usernames, passwords, email addresses and other security-related information used by you in relation to our Services.
+  * **Stored Information:** Data either created by you or by a third party and which you wish to store on our servers such as image files, documents etc.
+
+
+
+**We only collect your Personal Information to conduct our business and to enable us to deliver and improve our Services.**
+
+We will only disclose your Personal Information in accordance with this Privacy Policy. If we want to use it for any other purpose, we will obtain your prior written consent.
+
+If you decline to submit personal information to us, then we will unfortunately not be in a position to provide the Services to you.
+
+Any of your information which you provide when you use our Services in an unencrypted manner and/or to an open, public environment or forum including (without limitation) any blog, chat room, community, classifieds or discussion board, is not confidential, does not constitute Personal Information, and is not subject to protection under Privacy Policy.
+
+Since such public environments are accessible by third parties, it is possible that third parties may collect and collate and use such information for their own purposes. You should accordingly be careful when deciding to share any of your Personal Information in such public environments.
+
+Information, which is disclosed publicly, is also shared with our affiliates, third party service providers, sponsors of competitions etc. unless expressly stated otherwise.
+
+We are not liable to you or any third party for any damages (as defined in clause 13 of the Terms and Conditions of our Site.) that you or any third party may suffer howsoever arising from your disclosure of Personal Information in any public environment. You accordingly disclose information in a public environment at your own risk.
+
+**2\. Right to collect**
+
+By accepting the Terms you agree that we may collect and store your Personal Information as long as you Subscribe to or use our Services subject to the limitations set out in this Privacy Policy.
+
+**We collect your Profiling and Account Information for the following reasons:**
+
+  * determine and verify the Service Charges payable by you and to administer our relationship with you;
+  * comply with any statutory or regulatory requirement;
+  * compile statistical and demographical profiles about you for our business and marketing activities and to customise our Services to you. While we are entitled to use such information about you for our own internal business purposes without limitation, we will only disclose it in a non-aggregated form which is not capable of being used or interpreted in such a manner as to identify you; and
+  * monitor your use of our Services for the purposes of ensuring compliance with our User Rules.
+
+
+
+**We collect and store your Correspondence Information and Personal Identifiers to:**
+
+  * comply with our obligations under clause 3 below; and
+  * monitor your use of our Services in order to ensure your compliance with our User Rules as provided for in clause 3 below.
+
+
+
+We will only disclose Correspondence Information and Personal Identifiers under clause 3 below.
+
+We may scan your Stored Information to ensure that you comply with clause 3 below.
+
+Any Personal Information which we collect and which we may use in an aggregated format is our property. We may use it, in our sole discretion and without any compensation to you, for any legitimate purpose including (without limitation) the commercial sale thereof to third parties.
+
+Some of our own websites use "cookies" so that we can provide you with more customised information when you return to our website. "Cookies" are used to store user preferences and to track user trends, so as to enhance your interactive experience and generally improve our Services to you. You can set your browser to notify you when you are sent a "cookie", giving you the chance to decide whether or not to accept it. If you do accept a "cookie", you thereby agree to our use of any Personal Information collected by us using that Cookie.
+
+You may update your Profiling Information at any time by using the personalise function.
+
+You acknowledge and agree that in the interests of improving personalisation and Service efficiency, we may, under controlled and secure circumstances, share your Personal Information with our affiliates (an entity which is our subsidiary or holding company or a subsidiary of our holding company or an entity which controls, is controlled by or is under common control with us).
+
+**3\. General exceptions**
+
+If we are required to intercept, disclose, monitor and/or store your Personal Information:
+
+  * by law;
+  * to conduct our business;
+  * to secure our systems; or
+  * to enforce our own rights, we will do so in the manner as prescribed by legislation.
+
+
+
+Such interception, disclosure, monitoring and storage may take place without your knowledge. In that case, we will not be liable to you or any third party for any damages (as defined in the clause 13 of the Terms and Conditions of our Site) howsoever arising from such interception, disclosure, monitoring and storage.
+
+In order to ensure that all our Users comply with the User Rules, we may monitor your Personal Information to the extent that this may be required to determine compliance and/or to identify instances of non-compliance.
+
+**To ensure that the security and integrity of our Services are safeguarded, we may monitor your Personal Information. This monitoring may include (without limitation) the filtering of incoming and outgoing electronic data messages to identify, limit and/or prevent the transmission of spam, viruses and/or unlawful, defamatory, obscene or otherwise undesirable material or content.**
+
+We may under certain circumstances procure an element of the Services from a third party service provider for example we may use third party advertising companies to serve advertisements when you visit our Website. To the extent that it may be necessary, and solely for the purposes of providing the Service to you, you agree that we may disclose to such third party any of your Personal Information that may be necessary for the procurement of services from the third party. These companies may also use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. More information about this practice and your choices about not having this information used by these companies would be available with the respective third parties. In addition to the general limitation in the Terms, we will not be liable to you or any other third party for any damages (as defined in clause 13 of the Terms and Conditions of our Site) suffered by you or any other third party howsoever arising from the disclosure of your Personal Information. Your only remedy under such circumstances will be to end this agreement.
