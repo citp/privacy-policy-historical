@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121174317id_/http%3A//www.iihs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iihs.org privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523002737id_/http%3A//www.iihs.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy policy for iihs.org site
 
@@ -26,4 +26,4 @@ The Institute sells its consumer videos and DVDs through an outside vendor, 2Ch
 
 Our website includes links to federal agencies and other highway-safety organizations. When you link to another site, you are no longer on our site and subject to the privacy policy of the new site you are visiting. The Institute does not endorse any information or services offered by these external sites; it only provides these links as a service to you.
 
-If you have any further questions, please contact [permissions@iihs.org](mailto:permissions@iihs.org).
+If you have any further questions, please contact [permissions@iihs.org](mailto:permissions@iihs.org?subject=Question%20from%20iihs.org%20website%20user).
