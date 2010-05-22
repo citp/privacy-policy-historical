@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120044105id_/http%3A//www.techstartups.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techstartups.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522170726id_/http%3A//www.techstartups.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Tech Startups
+# » Privacy Policy | Tech Startups
 
 **TechStartups.com, Inc.  
 Privacy Policy**
@@ -8,7 +8,7 @@ Privacy Policy**
 Thank you for visiting the TechStartups.com Web site (hereinafter “the Site” or “TechStartups.com”) and reviewing our Privacy Policy, effective September 24, 2008. TechStartups takes your privacy very seriously and is committed to safeguarding your privacy online. Please read the following policy to understand how your personal information will be treated as you make full use of our Site.
 
 **Overview**  
-This Privacy Policy (hereinafter “Policy”) governs your use of TechStartups.com. This Policy describes the information we collect from you and what may happen to that information. For example, this Policy will let you know what information we collect from you; what cookies and IP addresses are and how they are used; how your information is used; who is collecting your information; with whom your information may be shared; what options are available to you regarding collection, use, and distribution of your information; how you may use other users’ information (”Users”); the types of security precautions in place to protect against loss, misuse, or alteration of your information; how TechStartups protects children’s privacy; and what else you should know about your online privacy.
+This Privacy Policy (hereinafter “Policy”) governs your use of TechStartups.com. This Policy describes the information we collect from you and what may happen to that information. For example, this Policy will let you know what information we collect from you; what cookies and IP addresses are and how they are used; how your information is used; who is collecting your information; with whom your information may be shared; what options are available to you regarding collection, use, and distribution of your information; how you may use other users’ information (“Users”); the types of security precautions in place to protect against loss, misuse, or alteration of your information; how TechStartups protects children’s privacy; and what else you should know about your online privacy.
 
 Please note that we review our privacy practices from time to time, and that our practices are subject to change. We ask that you bookmark and periodically review this page to ensure continuing familiarity with the most current version of our Privacy Policy. All amended terms shall be automatically effective after they are posted on the Site.
 
