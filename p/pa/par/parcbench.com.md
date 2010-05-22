@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2009-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090919180918id_/http%3A//www.parcbench.com%3Fpage_id%3D321) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcbench.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105005id_/http%3A//www.parcbench.com%3Fpage_id%3D321) for the most accurate reproduction.*
 
 # Privacy Policy | Parcbench
 
@@ -62,5 +62,3 @@ Parcbench Media
 616 West 137th Street. 3A  
 New York, NY 10031  
 contact@parcbench.com
-
-[](http://twitter.com/home/?status=Privacy+Policy+http://is.gd/3szLI+%23pb "Post to Twitter") [](http://delicious.com/post?url=http://www.parcbench.com/about-2/privacy-policy/&title=Privacy+Policy "Post to Delicious")[](http://digg.com/submit?url=http://www.parcbench.com/about-2/privacy-policy/&title=Privacy+Policy "Post to Digg")[](http://www.facebook.com/share.php?u=http://www.parcbench.com/about-2/privacy-policy/ "Post to Ping.fm")
