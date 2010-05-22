@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705125903id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewishowes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522214835id_/http%3A//www.lewishowes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Lewis Howes
 
