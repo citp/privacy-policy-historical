@@ -1,0 +1,1466 @@
+<!--The following is the downloaded HTML source of the qtel.qa privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522022651id_/http%3A//www.qtel.qa/Privacy.do) for the most accurate reproduction.-->
+
+<html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="Content-Style-Type" content="text/css">
+<script type="text/javascript" language="Javascript1.1"> 
+
+<!-- Begin 
+
+     var bCancel = false; 
+
+    function validateMVDSForm(form) {                                                                   
+        if (bCancel) 
+      return true; 
+        else 
+ var formValidationResult;
+       formValidationResult = validateRequired(form) && validateMaxLength(form) && validateMask(form) && validateMinLength(form) && validateIntRange(form); 
+     return (formValidationResult == 1);
+   } 
+
+    function MVDSForm_required () { 
+     this.a0 = new Array("cust_name", "Please enter your Customer name .", new Function ("varName", "this.maxlength='150'; this.mask=/^[.\' a-zA-Z]*$/;  return this[varName];"));
+     this.a1 = new Array("home_tel", "Please enter your Home Telephone number.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+     this.a2 = new Array("decod_number", "Please enter your Decoder number.", new Function ("varName", "this.min='30000000'; this.maxlength='8'; this.mask=/^[+0-9]*$/; this.max='39999999';  return this[varName];"));
+     this.a3 = new Array("contct_number", "Please enter your Contact number.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+    } 
+
+    function MVDSForm_maxlength () { 
+     this.a0 = new Array("cust_name", "Customer name  can not be greater than 150 characters.", new Function ("varName", "this.maxlength='150'; this.mask=/^[.\' a-zA-Z]*$/;  return this[varName];"));
+     this.a1 = new Array("home_tel", "Home Telephone number can not be greater than 7 characters.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+     this.a2 = new Array("decod_number", "Decoder number can not be greater than 8 characters.", new Function ("varName", "this.min='30000000'; this.maxlength='8'; this.mask=/^[+0-9]*$/; this.max='39999999';  return this[varName];"));
+     this.a3 = new Array("contct_number", "Contact number can not be greater than 7 characters.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+    } 
+
+    function MVDSForm_mask () { 
+     this.a0 = new Array("cust_name", "Customer name  is invalid.", new Function ("varName", "this.maxlength='150'; this.mask=/^[.\' a-zA-Z]*$/;  return this[varName];"));
+     this.a1 = new Array("home_tel", "Home Telephone number is invalid.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+     this.a2 = new Array("decod_number", "Decoder number is invalid.", new Function ("varName", "this.min='30000000'; this.maxlength='8'; this.mask=/^[+0-9]*$/; this.max='39999999';  return this[varName];"));
+     this.a3 = new Array("contct_number", "Contact number is invalid.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+    } 
+
+    function MVDSForm_minlength () { 
+     this.a0 = new Array("home_tel", "Home Telephone number can not be less than 7 characters.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+     this.a1 = new Array("contct_number", "Contact number can not be less than 7 characters.", new Function ("varName", "this.maxlength='7'; this.mask=/^[+0-9]*$/; this.minlength='7';  return this[varName];"));
+    } 
+
+    function MVDSForm_intRange () { 
+     this.a0 = new Array("decod_number", "Decoder number is not in the range 30000000 through 39999999.", new Function ("varName", "this.min='30000000'; this.maxlength='8'; this.mask=/^[+0-9]*$/; this.max='39999999';  return this[varName];"));
+    } 
+
+
+
+
+   /*$RCSfile: validateFloatRange.js,v $ $Revision: 1.9 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are in a valid float range.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateFloatRange(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+
+        oRange = eval('new ' + formName.value + '_floatRange()');
+        for (x in oRange) {
+            var field = form[oRange[x][0]];
+            
+            if ((field.type == 'hidden' ||
+                field.type == 'text' || field.type == 'textarea') &&
+                (field.value.length > 0)  &&
+                 field.disabled == false) {
+        
+                var fMin = parseFloat(oRange[x][2]("min"));
+                var fMax = parseFloat(oRange[x][2]("max"));
+                var fValue = parseFloat(field.value);
+                if (!(fValue >= fMin && fValue <= fMax)) {
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oRange[x][1];
+                    isValid = false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+            focusField.focus();
+            alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+
+    /*$RCSfile: validateUtilities.js,v $ $Revision: 1.2 $ $Date: 2004/03/28 16:53:21 $ */
+
+  /**
+  * This is a place holder for common utilities used across the javascript validation
+  *
+  **/
+
+
+    /*$RCSfile: validateByte.js,v $ $Revision: 1.9 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid byte.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateByte(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+        oByte = eval('new ' + formName.value + '_ByteValidations()');
+
+        for (x in oByte) {
+            var field = form[oByte[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea' ||
+                field.type == 'select-one' ||
+                field.type == 'radio')  &&
+                field.disabled == false) {
+
+                var value = '';
+                // get field's value
+                if (field.type == "select-one") {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                } else {
+                    value = field.value;
+                }
+
+                if (value.length > 0) {
+                    if (!isAllDigits(value)) {
+                        bValid = false;
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oByte[x][1];
+
+                    } else {
+
+                        var iValue = parseInt(value);
+                        if (isNaN(iValue) || !(iValue >= -128 && iValue <= 127)) {
+                            if (i == 0) {
+                                focusField = field;
+                            }
+                            fields[i++] = oByte[x][1];
+                            bValid = false;
+                        }
+                    }
+                }
+
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+
+    /*$RCSfile: validateMaxLength.js,v $ $Revision: 1.10 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * A field is considered valid if less than the specified maximum.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * <strong>Caution:</strong> Using <code>validateMaxLength</code> on a password field in a 
+    *  login page gives unnecessary information away to hackers. While it only slightly
+    *  weakens security, we suggest using it only when modifying a password.</p>
+    * @param form The form validation is taking place on.
+    */
+    function validateMaxLength(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+
+        oMaxLength = eval('new ' + formName.value + '_maxlength()');        
+        for (x in oMaxLength) {
+            var field = form[oMaxLength[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'password' ||
+                field.type == 'textarea') &&
+                field.disabled == false) {
+
+                var iMax = parseInt(oMaxLength[x][2]("maxlength"));
+                if (field.value.length > iMax) {
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oMaxLength[x][1];
+                    isValid = false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+
+
+    /*$RCSfile: validateRequired.js,v $ $Revision: 1.13 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    *  Check to see if fields must contain a value.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+
+    function validateRequired(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name");
+
+        oRequired = eval('new ' + formName.value + '_required()');
+
+        for (x in oRequired) {
+            var field = form[oRequired[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea' ||
+                field.type == 'file' ||
+                field.type == 'checkbox' ||
+                field.type == 'select-one' ||
+                field.type == 'password') &&
+                field.disabled == false) {
+
+                var value = '';
+                // get field's value
+                if (field.type == "select-one") {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                } else if (field.type == 'checkbox') {
+                    if (field.checked) {
+                        value = field.value;
+                    }
+                } else {
+                    value = field.value;
+                }
+
+                if (trim(value).length == 0) {
+
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oRequired[x][1];
+                    isValid = false;
+                }
+            } else if (field.type == "select-multiple") { 
+                var numOptions = field.options.length;
+                lastSelected=-1;
+                for(loop=numOptions-1;loop>=0;loop--) {
+                    if(field.options[loop].selected) {
+                        lastSelected = loop;
+                        value = field.options[loop].value;
+                        break;
+                    }
+                }
+                if(lastSelected < 0 || trim(value).length == 0) {
+                    if(i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oRequired[x][1];
+                    isValid=false;
+                }
+            } else if ((field.length > 0) && (field[0].type == 'radio' || field[0].type == 'checkbox')) {
+                isChecked=-1;
+                for (loop=0;loop < field.length;loop++) {
+                    if (field[loop].checked) {
+                        isChecked=loop;
+                        break; // only one needs to be checked
+                    }
+                }
+                if (isChecked < 0) {
+                    if (i == 0) {
+                        focusField = field[0];
+                    }
+                    fields[i++] = oRequired[x][1];
+                    isValid=false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+    
+    // Trim whitespace from left and right sides of s.
+    function trim(s) {
+        return s.replace( /^\s*/, "" ).replace( /\s*$/, "" );
+    }
+
+
+    /*$RCSfile: validateInteger.js,v $ $Revision: 1.9 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid integer.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateInteger(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+
+        oInteger = eval('new ' + formName.value + '_IntegerValidations()');
+        for (x in oInteger) {
+            var field = form[oInteger[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea' ||
+                field.type == 'select-one' ||
+                field.type == 'radio') &&
+                field.disabled == false) {
+
+                var value = '';
+                // get field's value
+                if (field.type == "select-one") {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                } else {
+                    value = field.value;
+                }
+
+                if (value.length > 0) {
+
+                    if (!isAllDigits(value)) {
+                        bValid = false;
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oInteger[x][1];
+
+                    } else {
+                        var iValue = parseInt(value);
+                        if (isNaN(iValue) || !(iValue >= -2147483648 && iValue <= 2147483647)) {
+                            if (i == 0) {
+                                focusField = field;
+                            }
+                            fields[i++] = oInteger[x][1];
+                            bValid = false;
+                       }
+                   }
+               }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+    function isAllDigits(argvalue) {
+        argvalue = argvalue.toString();
+        var validChars = "0123456789";
+        var startFrom = 0;
+        if (argvalue.substring(0, 2) == "0x") {
+           validChars = "0123456789abcdefABCDEF";
+           startFrom = 2;
+        } else if (argvalue.charAt(0) == "0") {
+           validChars = "01234567";
+           startFrom = 1;
+        } else if (argvalue.charAt(0) == "-") {
+            startFrom = 1;
+        }
+
+        for (var n = startFrom; n < argvalue.length; n++) {
+            if (validChars.indexOf(argvalue.substring(n, n+1)) == -1) return false;
+        }
+        return true;
+    }
+
+
+    /*$RCSfile: validateCreditCard.js,v $ $Revision: 1.8 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid creditcard number based on Luhn checksum.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateCreditCard(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name");
+
+        oCreditCard = eval('new ' + formName.value + '_creditCard()');
+
+        for (x in oCreditCard) {
+            if ((form[oCreditCard[x][0]].type == 'text' ||
+                 form[oCreditCard[x][0]].type == 'textarea') &&
+                (form[oCreditCard[x][0]].value.length > 0)  &&
+                 form[oCreditCard[x][0]].disabled == false) {
+                if (!luhnCheck(form[oCreditCard[x][0]].value)) {
+                    if (i == 0) {
+                        focusField = form[oCreditCard[x][0]];
+                    }
+                    fields[i++] = oCreditCard[x][1];
+                    bValid = false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+            focusField.focus();
+            alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+    /**
+     * Checks whether a given credit card number has a valid Luhn checksum.
+     * This allows you to spot most randomly made-up or garbled credit card numbers immediately.
+     * Reference: http://www.speech.cs.cmu.edu/~sburke/pub/luhn_lib.html
+     */
+    function luhnCheck(cardNumber) {
+        if (isLuhnNum(cardNumber)) {
+            var no_digit = cardNumber.length;
+            var oddoeven = no_digit & 1;
+            var sum = 0;
+            for (var count = 0; count < no_digit; count++) {
+                var digit = parseInt(cardNumber.charAt(count));
+                if (!((count & 1) ^ oddoeven)) {
+                    digit *= 2;
+                    if (digit > 9) digit -= 9;
+                };
+                sum += digit;
+            };
+            if (sum == 0) return false;
+            if (sum % 10 == 0) return true;
+        };
+        return false;
+    }
+
+    function isLuhnNum(argvalue) {
+        argvalue = argvalue.toString();
+        if (argvalue.length == 0) {
+            return false;
+        }
+        for (var n = 0; n < argvalue.length; n++) {
+            if ((argvalue.substring(n, n+1) < "0") ||
+                (argvalue.substring(n,n+1) > "9")) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+
+   /*$RCSfile: validateDate.js,v $ $Revision: 1.10 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid date.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateDate(form) {
+       var bValid = true;
+       var focusField = null;
+       var i = 0;
+       var fields = new Array();
+       var formName = form.getAttributeNode("name"); 
+
+       oDate = eval('new ' + formName.value + '_DateValidations()');
+
+       for (x in oDate) {
+           var field = form[oDate[x][0]];
+           var value = field.value;
+           var datePattern = oDate[x][2]("datePatternStrict");
+           // try loose pattern
+           if (datePattern == null)
+               datePattern = oDate[x][2]("datePattern");
+           if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea') &&
+               (value.length > 0) && (datePattern.length > 0) &&
+                field.disabled == false) {
+                 var MONTH = "MM";
+                 var DAY = "dd";
+                 var YEAR = "yyyy";
+                 var orderMonth = datePattern.indexOf(MONTH);
+                 var orderDay = datePattern.indexOf(DAY);
+                 var orderYear = datePattern.indexOf(YEAR);
+                 if ((orderDay < orderYear && orderDay > orderMonth)) {
+                     var iDelim1 = orderMonth + MONTH.length;
+                     var iDelim2 = orderDay + DAY.length;
+                     var delim1 = datePattern.substring(iDelim1, iDelim1 + 1);
+                     var delim2 = datePattern.substring(iDelim2, iDelim2 + 1);
+                     if (iDelim1 == orderDay && iDelim2 == orderYear) {
+                        dateRegexp = new RegExp("^(\\d{2})(\\d{2})(\\d{4})$");
+                     } else if (iDelim1 == orderDay) {
+                        dateRegexp = new RegExp("^(\\d{2})(\\d{2})[" + delim2 + "](\\d{4})$");
+                     } else if (iDelim2 == orderYear) {
+                        dateRegexp = new RegExp("^(\\d{2})[" + delim1 + "](\\d{2})(\\d{4})$");
+                     } else {
+                        dateRegexp = new RegExp("^(\\d{2})[" + delim1 + "](\\d{2})[" + delim2 + "](\\d{4})$");
+                     }
+                     var matched = dateRegexp.exec(value);
+                     if(matched != null) {
+                        if (!isValidDate(matched[2], matched[1], matched[3])) {
+                           if (i == 0) {
+                               focusField = field;
+                           }
+                           fields[i++] = oDate[x][1];
+                           bValid =  false;
+                        }
+                     } else {
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oDate[x][1];
+                        bValid =  false;
+                     }
+                 } else if ((orderMonth < orderYear && orderMonth > orderDay)) {
+                     var iDelim1 = orderDay + DAY.length;
+                     var iDelim2 = orderMonth + MONTH.length;
+                     var delim1 = datePattern.substring(iDelim1, iDelim1 + 1);
+                     var delim2 = datePattern.substring(iDelim2, iDelim2 + 1);
+                     if (iDelim1 == orderMonth && iDelim2 == orderYear) {
+                         dateRegexp = new RegExp("^(\\d{2})(\\d{2})(\\d{4})$");
+                     } else if (iDelim1 == orderMonth) {
+                         dateRegexp = new RegExp("^(\\d{2})(\\d{2})[" + delim2 + "](\\d{4})$");
+                     } else if (iDelim2 == orderYear) {
+                         dateRegexp = new RegExp("^(\\d{2})[" + delim1 + "](\\d{2})(\\d{4})$");
+                     } else {
+                         dateRegexp = new RegExp("^(\\d{2})[" + delim1 + "](\\d{2})[" + delim2 + "](\\d{4})$");
+                     }
+                     var matched = dateRegexp.exec(value);
+                     if(matched != null) {
+                         if (!isValidDate(matched[1], matched[2], matched[3])) {
+                             if (i == 0) {
+                         focusField = field;
+                             }
+                             fields[i++] = oDate[x][1];
+                             bValid =  false;
+                          }
+                     } else {
+                         if (i == 0) {
+                             focusField = field;
+                         }
+                         fields[i++] = oDate[x][1];
+                         bValid =  false;
+                     }
+                 } else if ((orderMonth > orderYear && orderMonth < orderDay)) {
+                     var iDelim1 = orderYear + YEAR.length;
+                     var iDelim2 = orderMonth + MONTH.length;
+                     var delim1 = datePattern.substring(iDelim1, iDelim1 + 1);
+                     var delim2 = datePattern.substring(iDelim2, iDelim2 + 1);
+                     if (iDelim1 == orderMonth && iDelim2 == orderDay) {
+                         dateRegexp = new RegExp("^(\\d{4})(\\d{2})(\\d{2})$");
+                     } else if (iDelim1 == orderMonth) {
+                         dateRegexp = new RegExp("^(\\d{4})(\\d{2})[" + delim2 + "](\\d{2})$");
+                     } else if (iDelim2 == orderDay) {
+                         dateRegexp = new RegExp("^(\\d{4})[" + delim1 + "](\\d{2})(\\d{2})$");
+                     } else {
+                         dateRegexp = new RegExp("^(\\d{4})[" + delim1 + "](\\d{2})[" + delim2 + "](\\d{2})$");
+                     }
+                     var matched = dateRegexp.exec(value);
+                     if(matched != null) {
+                         if (!isValidDate(matched[3], matched[2], matched[1])) {
+                             if (i == 0) {
+                                 focusField = field;
+                             }
+                             fields[i++] = oDate[x][1];
+                             bValid =  false;
+                         }
+                     } else {
+                          if (i == 0) {
+                              focusField = field;
+                          }
+                          fields[i++] = oDate[x][1];
+                          bValid =  false;
+                     }
+                 } else {
+                     if (i == 0) {
+                         focusField = field;
+                     }
+                     fields[i++] = oDate[x][1];
+                     bValid =  false;
+                 }
+          }
+       }
+       if (fields.length > 0) {
+          focusField.focus();
+          alert(fields.join('\n'));
+       }
+       return bValid;
+    }
+    
+    function isValidDate(day, month, year) {
+	    if (month < 1 || month > 12) {
+            return false;
+        }
+        if (day < 1 || day > 31) {
+            return false;
+        }
+        if ((month == 4 || month == 6 || month == 9 || month == 11) &&
+            (day == 31)) {
+            return false;
+        }
+        if (month == 2) {
+            var leap = (year % 4 == 0 &&
+               (year % 100 != 0 || year % 400 == 0));
+            if (day>29 || (day == 29 && !leap)) {
+                return false;
+            }
+        }
+        return true;
+    }
+
+
+    /*$RCSfile: validateIntRange.js,v $ $Revision: 1.10 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields is in a valid integer range.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateIntRange(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+
+        oRange = eval('new ' + formName.value + '_intRange()');        
+        for (x in oRange) {
+            var field = form[oRange[x][0]];
+            if (field.disabled == false)  {
+                var value = '';
+                if (field.type == 'hidden' ||
+                    field.type == 'text' || field.type == 'textarea' ||
+                    field.type == 'radio' ) {
+                    value = field.value;
+                }
+                if (field.type == 'select-one') {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                }
+                if (value.length > 0) {
+                    var iMin = parseInt(oRange[x][2]("min"));
+                    var iMax = parseInt(oRange[x][2]("max"));
+                    var iValue = parseInt(value);
+                    if (!(iValue >= iMin && iValue <= iMax)) {
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oRange[x][1];
+                        isValid = false;
+                    }
+                }
+            }
+        }
+        if (fields.length > 0) {
+            focusField.focus();
+            alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+
+
+    /*$RCSfile: validateShort.js,v $ $Revision: 1.9 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    *  Check to see if fields are a valid short.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateShort(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name");
+
+        oShort = eval('new ' + formName.value + '_ShortValidations()');
+
+        for (x in oShort) {
+            var field = form[oShort[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea' ||
+                field.type == 'select-one' ||
+                field.type == 'radio')  &&
+                field.disabled == false) {
+
+                var value = '';
+                // get field's value
+                if (field.type == "select-one") {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                } else {
+                    value = field.value;
+                }
+
+                if (value.length > 0) {
+                    if (!isAllDigits(value)) {
+                        bValid = false;
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oShort[x][1];
+
+                    } else {
+
+                        var iValue = parseInt(value);
+                        if (isNaN(iValue) || !(iValue >= -32768 && iValue <= 32767)) {
+                            if (i == 0) {
+                                focusField = field;
+                            }
+                            fields[i++] = oShort[x][1];
+                            bValid = false;
+                        }
+                   }
+               }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+
+    /*$RCSfile: validateFloat.js,v $ $Revision: 1.11 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid float.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateFloat(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+         var formName = form.getAttributeNode("name");
+
+        oFloat = eval('new ' + formName.value + '_FloatValidations()');
+        for (x in oFloat) {
+        	var field = form[oFloat[x][0]];
+        	
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'textarea' ||
+                field.type == 'select-one' ||
+                field.type == 'radio') &&
+                field.disabled == false) {
+        
+            	var value = '';
+                // get field's value
+                if (field.type == "select-one") {
+                    var si = field.selectedIndex;
+                    if (si >= 0) {
+                        value = field.options[si].value;
+                    }
+                } else {
+                    value = field.value;
+                }
+        
+                if (value.length > 0) {
+                    // remove '.' before checking digits
+                    var tempArray = value.split('.');
+                    //Strip off leading '0'
+                    var zeroIndex = 0;
+                    var joinedString= tempArray.join('');
+                    while (joinedString.charAt(zeroIndex) == '0') {
+                        zeroIndex++;
+                    }
+                    var noZeroString = joinedString.substring(zeroIndex,joinedString.length);
+
+                    if (!isAllDigits(noZeroString)) {
+                        bValid = false;
+                        if (i == 0) {
+                            focusField = field;
+                        }
+                        fields[i++] = oFloat[x][1];
+
+                    } else {
+	                var iValue = parseFloat(value);
+	                if (isNaN(iValue)) {
+	                    if (i == 0) {
+	                        focusField = field;
+	                    }
+	                    fields[i++] = oFloat[x][1];
+	                    bValid = false;
+	                }
+                    }
+                }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+
+   /*$RCSfile: validateEmail.js,v $ $Revision: 1.9 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid email address.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateEmail(form) {
+        var bValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name");
+
+
+        oEmail = eval('new ' + formName.value + '_email()');
+
+        for (x in oEmail) {
+            var field = form[oEmail[x][0]];
+            if ((field.type == 'hidden' || 
+                 field.type == 'text' ||
+                 field.type == 'textarea') &&
+                (field.value.length > 0) &&
+                field.disabled == false) {
+                if (!checkEmail(field.value)) {
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oEmail[x][1];
+                    bValid = false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+            focusField.focus();
+            alert(fields.join('\n'));
+        }
+        return bValid;
+    }
+
+    /**
+     * Reference: Sandeep V. Tamhankar (stamhankar@hotmail.com),
+     * http://javascript.internet.com
+     */
+    function checkEmail(emailStr) {
+       if (emailStr.length == 0) {
+           return true;
+       }
+       var emailPat=/^(.+)@(.+)$/;
+       var specialChars="\\(\\)<>@,;:\\\\\\\"\\.\\[\\]";
+       var validChars="\[^\\s" + specialChars + "\]";
+       var quotedUser="(\"[^\"]*\")";
+       var ipDomainPat=/^(\d{1,3})[.](\d{1,3})[.](\d{1,3})[.](\d{1,3})$/;
+       var atom=validChars + '+';
+       var word="(" + atom + "|" + quotedUser + ")";
+       var userPat=new RegExp("^" + word + "(\\." + word + ")*$");
+       var domainPat=new RegExp("^" + atom + "(\\." + atom + ")*$");
+       var matchArray=emailStr.match(emailPat);
+       if (matchArray == null) {
+           return false;
+       }
+       var user=matchArray[1];
+       var domain=matchArray[2];
+       if (user.match(userPat) == null) {
+           return false;
+       }
+       var IPArray = domain.match(ipDomainPat);
+       if (IPArray != null) {
+           for (var i = 1; i <= 4; i++) {
+              if (IPArray[i] > 255) {
+                 return false;
+              }
+           }
+           return true;
+       }
+       var domainArray=domain.match(domainPat);
+       if (domainArray == null) {
+           return false;
+       }
+       var atomPat=new RegExp(atom,"g");
+       var domArr=domain.match(atomPat);
+       var len=domArr.length;
+       if ((domArr[domArr.length-1].length < 2) ||
+           (domArr[domArr.length-1].length > 3)) {
+           return false;
+       }
+       if (len < 2) {
+           return false;
+       }
+       return true;
+    }
+
+  
+
+
+    /*$RCSfile: validateMask.js,v $ $Revision: 1.10 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * Check to see if fields are a valid using a regular expression.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * @param form The form validation is taking place on.
+    */
+    function validateMask(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name"); 
+
+        oMasked = eval('new ' + formName.value + '_mask()');      
+        for (x in oMasked) {
+            var field = form[oMasked[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                 field.type == 'textarea' ||
+				 field.type == 'file') &&
+                 (field.value.length > 0) &&
+                 field.disabled == false) {
+
+                if (!matchPattern(field.value, oMasked[x][2]("mask"))) {
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oMasked[x][1];
+                    isValid = false;
+                }
+            }
+        }
+
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+
+    function matchPattern(value, mask) {
+       return mask.exec(value);
+    }
+
+
+    /*$RCSfile: validateMinLength.js,v $ $Revision: 1.11 $ $Date: 2004/03/28 16:53:21 $ */
+    /**
+    * A field is considered valid if greater than the specified minimum.
+    * Fields are not checked if they are disabled.
+    * <p>
+    * <strong>Caution:</strong> Using <code>validateMinLength</code> on a password field in a 
+    *  login page gives unnecessary information away to hackers. While it only slightly
+    *  weakens security, we suggest using it only when modifying a password.</p>
+    * @param form The form validation is taking place on.
+    */
+    function validateMinLength(form) {
+        var isValid = true;
+        var focusField = null;
+        var i = 0;
+        var fields = new Array();
+        var formName = form.getAttributeNode("name");
+
+
+        oMinLength = eval('new ' + formName.value + '_minlength()');
+
+        for (x in oMinLength) {
+            var field = form[oMinLength[x][0]];
+
+            if ((field.type == 'hidden' ||
+                field.type == 'text' ||
+                field.type == 'password' ||
+                field.type == 'textarea') &&
+                field.disabled == false) {
+
+                var iMin = parseInt(oMinLength[x][2]("minlength"));
+                if ((trim(field.value).length > 0) && (field.value.length < iMin)) {
+                    if (i == 0) {
+                        focusField = field;
+                    }
+                    fields[i++] = oMinLength[x][1];
+                    isValid = false;
+                }
+            }
+        }
+        if (fields.length > 0) {
+           focusField.focus();
+           alert(fields.join('\n'));
+        }
+        return isValid;
+    }
+
+
+//End --> 
+</script>
+
+
+<script language="javascript" src="js/scroll.js"></script>
+<title>Privacy Statement</title>
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<link href="css/style_New.css" rel="stylesheet" type="text/css">
+<script src="js/jquery.js" type="text/javascript"></script>
+<script src="js/jquery.skinned-select.js" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" media="all" href="css/skinned-select.css">
+
+ <style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+-->
+ </style>
+ <script language="JavaScript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script><noscript>Please enable Javascript on your browser</noscript>
+</head>
+
+<body onload="test.load();">
+<!-- Google Analtics  -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-5644086-1");
+pageTracker._trackPageview();
+</script>
+<!-- end -->
+<table summary="layout" width="997" border="0" cellspacing="0" cellpadding="0" height="100%">
+  <tbody><tr>
+    <td height="111" align="left" valign="top">
+	<!--header include starts from here-->
+
+	
+<style type="text/css">
+<!--
+.quicklinks li a.firstQuicklink,.quicklinks li a.firstQuicklink:visited{font-family:Simplified Arabic;font-size:18px;color:#766F70; text-decoration:none;font-weight:bold;}
+.quicklinks li a.firstQuicklink:hover{color:#000000;}
+
+#breadcrumb{margin:0;padding:0 0 0 10px; position:absolute; top:120px; left:0px;}
+#breadcrumb ul{margin:0;padding:0;}
+#breadcrumb li{margin:0 5px 0 0;padding:0;list-style:none;float:left;}
+#breadcrumb ul li a{color:#FFFFFF; text-decoration:none;font-family:Arial;
+font-size:11px;font-weight:normal;color:#FFFFFF; text-decoration:none;}
+#breadcrumb ul li a:hover{color:#CA005D;}
+-->
+</style>
+
+<div id="header">
+	  <div class="quicklinks">
+		<ul>
+			<li><a href="Privacy.do?trans=ar&amp;null" class="firstQuicklink" title="Arabic">عربي </a></li>
+			<li style="padding-top:12px;"><a href="AboutUs.do" title="Click here for About Us ">About us</a></li>
+			<li style="padding-top:12px;"><a href="Careers.do" title="Click here for Careers">Careers</a></li>
+			<li style="padding-top:12px;"><a href="InvestPurpose.do" title="Click here for Investor Relations">Investor Relations</a></li>
+			<li style="padding-top:12px;"><a href="Procurement.do" title="Click here for eProcurement ">eProcurement</a></li>
+			<li style="padding-top:12px;"><a href="Glossary.do" title="Click here for Glossary">Glossary</a></li>
+			<li style="padding-top:12px;"><a href="FAQBank.do" title="Click here for FAQ's">FAQ's</a></li>
+		</ul>
+	  </div>
+     <div id="menu">
+		<ul>
+			<li class="width40px"><a href="IndexPage.do"> Home</a>	
+         </li>
+
+
+			<li class="width180px"><a href="HomeProdsServs.do">Products &amp; Services</a>
+			
+          </li>
+			<li class="width120px"><a href="NewsInfo.do">Press room</a>
+			
+            </li>
+
+			<li class="width120px"><a href="Sponsorship.do">Sponsorship</a>
+			
+              </li>
+
+			<li class="width120px"><a href="http://wm.qatar.net.qa/" target="_blank">Your email</a></li>
+			<li class="width50px"><a href="https://www.nojoom.qtel.com.qa" target="_blank">Nojoom</a></li>
+		</ul>
+	  </div>
+	  
+	
+	</div>
+
+		<!--header include ends here-->
+
+	</td>
+  </tr>
+  <tr>
+    <td height="100%" align="left" valign="top"><table summary="layout" width="100%" border="0" cellspacing="0" cellpadding="0" height="100%">
+     <!-- <tr>
+        <td width="27" rowspan="2" class="header_one"><img src="images/Qt_service.gif" width="26" height="155" alt=""></td>
+        <td height="19" colspan="3" class="header_two"><a href="IndexPage.do" class="b">Home</a>
+            &gt;&gt; <span class="breadcrumb">Products and Services&gt;&gt;Privacy Statement</span></td>
+
+        </tr> -->
+      <tbody><tr>
+        <td width="154" valign="top">
+			<!--left menu include starts from here-->
+		
+<script language="Javascript">
+ function eqtel(){
+	
+	 window.open ('https://webcare.qtel.com.qa');
+	 //window.open ('http://angara.qtel.com.qa:7777/qteltest/eqtel.do');
+	 //window.location.href='http://angara.qtel.com.qa:7777/qteltest/eqtel.do'
+  }
+
+ function surveyQatar(){
+	
+	  window.open ('http://www.surveyqatar.info');
+  }
+
+  function etr(){
+	
+	  window.open ('images/etr2.JPG','_win',"width=580,height=350,status=1,toolbar=0,screenX=10,screenY=10");
+  }
+   function mozaic(){
+	
+	  window.open ('http://www.mozaic.qa/');
+  }
+  
+ </script>
+<div id="leftnav" border="1" style="border-right:1px solid #B5B6B3; height:200px;">
+		<h4>Qtel Services</h4>
+		<ul>
+			<li><a href="Javascript:eqtel();">eQtel Service </a></li>
+			<li><a href="WhteAdvPg.do">Online directory</a></li>
+			<li><a href="MyTools.do">Internet Qatar</a></li>
+			<li><a href="Javascript:mozaic();">Mozaic</a></li>
+			<li><a href="BlackBerryServices.do">BlackBerry </a></li>
+			<li><a href="Procurement.do">eProcurement</a></li>
+			<li><a href="Regulatory.do">Regulatory <br>&amp; Interconnect</a></li>
+</ul>
+<div>
+<table border="0" cellpadding="0" cellspacing="0">
+
+
+<tbody><tr><td align="left">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.virginmobile.com.qa/" target="_blank"><img src="images/VM.jpg" alt="Virgin Mobile" border="0" align="center"></a></td></tr>
+<tr><td>&nbsp;</td></tr>
+
+   <tr><td>
+	<a href="http://www.qatar2022bid.com/" target="_blank"><img src="images/Qatar2022BID-en.jpg" alt="Qtel Supports Qatar2022 BID" border="0" align="left" width="153"></a>
+	</td></tr>
+	</tbody></table>
+
+</div>
+	
+	</div>
+	
+	<div class="leftline">&nbsp;</div>
+		<!--left menu include ends here-->
+
+		</td>
+        <td align="center" valign="top" class="content">
+<!--content area starts from here-->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tbody><tr>
+	<td width="15"></td>
+	<td height="22"></td>
+	<td width="15"></td>
+</tr>	
+<tr>
+	<td></td>
+	<td>
+
+
+	
+
+						<table width="540" border="0" cellspacing="0" cellpadding="2" class="content">
+	                       
+						<tbody><tr>
+						<td><h1 class="heading">Privacy Statement </h1><br></td></tr>
+						 <tr>
+						<td valign="top" class="content">
+						 <p><b>Information about our Web site</b><br><br>Modern information and communication technologies play a fundamental role in our activities. Qtel is based in Qatar. Our principal activity is Telecommunication. Our privacy policy covers the Web Site. Our legal disclaimer above is applicable for your use of the Web Site, and is linked with this Privacy policy. By viewing the pages of this Web Site, you do acknowledge that you did read and accept our disclaimer and Privacy policy. If you do not want to accept the legal disclaimer and/or the privacy policy, you should leave the Web Site. 
+                         <br>The owner of the Web Site is Qtel. Our Head Office is situated at West Bay, PO Box 217, Doha, Qatar. </p>
+
+						 <p><b>Providing Visitors with Anonymous Access</b><br><br>
+						 You can access our Web site home page and browse our site without disclosing your personal data. Your personal data are requested only if you want to access online services (e.g. check your email). We do not sell or provide any third party with any of the data you disclosed. 
+ <br>If you are just surfing and reading information on the Web Site, as any other web site we do collect and store the following anonymous information about your visit: 
+ <br><br>
+						</p><li>the IP address of your machine when you were visiting the Web Site<br>
+                        </li><li>the operating system and the browser your computer uses<br>
+                        </li><li>any search engine you were using before arriving to the Web Site<br>
+						</li><li>the date and time of your visit <br>
+						</li><li>the URLs of the pages you visit on the Web Site <br><br>
+						We only use these anonymous information for statistical reasons and we will not give these anonymous information to any third party. We may keep more extensive information if we are concerned, for example, about security issues (attack against the Web Site). If necessary, or following a request of the relevant public authority, we may then keep and give to the relevant authority additional information within the legal framework of the law of Qatar. 
+                        <br>
+						If you give us more information, like your email address if you contact Qtel, we will only use this information for the purpose of the service or information you requested from Qtel. 
+                        <br>
+						If you log in to Messenger express trough the Web Site, Qtel will not keep any information concerning the way you use this service that is governed by the specific terms and conditions you accepted before receiving your email address.
+
+                       
+                         <p></p>
+
+						 <!--p><b>Cookies</b><br><br> We do not use cookies on our Web site.</p-->
+
+						 <p><b>The services and links of our Web site
+</b><br><br> Our Web site does not enable our visitors to communicate with other visitors or to post information to be accessed by others. 
+</p>
+						 <p><b>Automatic Collection of Information
+</b><br><br> We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. 
+</p>
+						 <p><b>Data Collection and Purpose Specification
+</b><br><br> We collect the personal data that you may volunteer while using our survey services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organisations. 
+</p>
+						 <p><b>Children's Privacy
+</b><br><br>We do not knowingly collect personal data from children. We do not take specific steps to protect the privacy of children who disclose their personal data to us. 
+</p>
+						 <p><b>Disclosure and Visitor Choice
+</b><br><br> We do not disclose your personal data to any other individual or organization. 
+</p>
+						 <p><b>Privacy Support
+</b><br><br>If you have an enquiry or concern about our privacy policy, please contact us at <a href="mailto: info@Qtel.com.qa" class="new_one">info@Qtel.com.qa</a></p>
+						 <p><b>Change of this policy
+</b><br><br>Qtel reserves the right to change, adapt, adjust this Privacy policy on the Web Site without any prior notification. You aknowledge and agree that this Policy may change from time to time and you realise that the latest version is applicable when you visit the Web Site. </p>
+
+                                 
+</li></td></tr>
+
+<tr align="right" valign="bottom">
+                              <td colspan="2" background="images/dotted-lines.gif" style="background-repeat:repeat-x; line-height:4px;"><a href="#top"><img src="images/icon_up.gif" width="29" height="13" border="0"></a></td>
+                            </tr>
+					
+                            </tbody></table>
+
+
+			
+
+</td>
+<td></td>
+</tr>
+</tbody></table>
+
+
+
+
+
+
+
+                	<!--content area ends here-->
+
+		</td>
+        <td width="190" valign="top">
+	<!-- right menu include starts from here -->
+		 
+
+
+
+
+
+
+
+
+
+ <script language="JavaScript" type="text/javascript">
+function goHereRight()
+	{  
+		
+		if(document.getElementById("ShopSearchForm_Right").strselectshoplocation.options[document.getElementById("ShopSearchForm_Right").strselectshoplocation.selectedIndex].value == "All"){
+
+               window.location = "ShopSearch.do";
+}
+           else{
+
+               document.getElementById("ShopSearchForm_Right").action.value="/ShopSearch.do";
+               document.getElementById("ShopSearchForm_Right").submit();
+            }
+
+       }
+		</script>
+<div id="rightnav" style="background:url(images/line_left.gif);background-repeat:no-repeat; height:400px;">	
+
+
+  
+     <table class="content" border="0" cellspacing="0" cellpadding="0" width="190"><tbody><tr><td background="images/Expansion-en-2-pink_Smaller English.jpg" height="115" width="85"> <center><b><font color="white" size="2">67<br> Days<br> Remaining</font><b><center></center></b></b></center></td><td align="left"><a href="NumberChange.do" border="0"><img src="images/Expansion-en-2-white1.jpg" height="113" width="100" border="0"></a></td></tr>
+	 
+	 </tbody></table><br>
+	 <table class="content" border="0" cellspacing="0" cellpadding="0" width="190">
+	 <tbody><tr><td class="content" align="center" colspan="2"><b>Connect with us</b></td>
+	 </tr>
+	 <tr><td colspan="2">&nbsp;</td></tr>
+	 <tr>
+	 <td align="center" colspan="2"><a href="http://www.facebook.com/QtelQatar" target="_blank"><img src="images/facebook.jpg" alt="Follow Qtel Qatar on Facebook" border="0"></a></td>
+	<!--  <td align="right"><a href="NumberChange.do" target="_blank"><img src="images/facebook.jpg" alt="Follow Qtel Qatar on Facebook" border="0"></a></td>
+	 <td align="left"><a href="http://www.twitter.com/QtelQatar" target="_blank"><img src="images/Twitter-b.png" alt="Follow Qtel Qatar on Twitter" border="0"/></a></td> --></tr>
+	 
+	 </tbody></table>
+	 <br>
+	 <!--  <table class="content" border="0"  cellspacing="0" cellpadding="0" width="190"><tr><td class="content" align="center"><a href="http://www.twitter.com/QtelQatar"><img src="images/Twitter-b.png" alt="Follow Qtel Qatar on Twitter" border="0"/></a></td></tr>
+	 	 </table>
+	 <br> -->
+
+		<h3 style="border-top:none; padding:0;margin:0;">News and Events</h3>
+		 
+                       <p><a href="NewsFull.do?News=24761">Huge Public Response to Qtel Fan Zone  ...</a></p>
+					  
+					<p> <a href="NewsFull.do?News=24701" class="t" title="click here for details">Huge Success: Qtel’s Credit Facility oversubscribed by 157 Percent. ... </a></p>
+					
+		           
+		<form name="SearchForm" method="post" action="/SimpleSearch.do;jsessionid=ac10968830d5a10e868ddfb04472bc27fe04421e1e4f.e34RbNiMc38RaO0La3eQaxuNah8Qe6fznA5Pp7ftolbGmkTy">
+		<span>Search News</span> 
+		 <input type="text" name="search" value="" class="textfield"><input type="submit" value="Go" class="button">
+		</form>
+		                   
+				
+		<h3>Products and Services Highlights</h3>
+		<p><a href="https://webcare.qtel.com.qa/qwsc/controller/processSiteEntry">Win the latest Blackberry 9700.</a></p>
+		<!-- <a href="Qtel-MWC.do"><img src="images/Qtel-MWC-banner.gif" align="center" alt="Qtel at GSMA Mobile World Congress - Barcelona 2010" border="0"></a> -->
+		<h3><a href="CustomerCare.do">Customer Services</a></h3>
+		<h3>Promotions</h3>
+		 
+					  <p><a href="PromotionFull.do?PromotionFull=24342">Shahry Value Packs Now Bigger and Better</a></p>
+					 
+		<!--html:form method="POST" action="/ShopSearch.do"-->
+ <form id="ShopSearchForm_Right" method="POST" action="/ShopSearch.do">
+		<h3>Locate a Qtel Shop</h3>		
+ 		 <div class="skinned-select">
+		   
+			    <div class="select-text">Find a Qtel Shop</div><select onchange="javascript:goHereRight();" name="strselectshoplocation" class="listbox">
+ <option selected="">Find a Qtel Shop</option>
+ <option value="All">View All Shops</option>
+                            
+                            
+                    <option value="121">Al-Khor Branch </option>
+					
+                            
+                    <option value="1">Al-Najada (Souq Najada) </option>
+					
+                            
+                    <option value="101">Al-Rayyan </option>
+					
+                            
+                    <option value="2">Al-Shamal </option>
+					
+                            
+                    <option value="9">Al-Wakra Branch </option>
+					
+                            
+                    <option value="4">Alsadd </option>
+					
+                            
+                    <option value="5">City Center Mall (First Floor) </option>
+					
+                            
+                    <option value="15">Hamad Medical Corporation </option>
+					
+                            
+                    <option value="14">Hyatt Plaza Mall </option>
+					
+                            
+                    <option value="6">Land Mark Mall </option>
+					
+                            
+                    <option value="13">LuLu Hypermarket </option>
+					
+                            
+                    <option value="11">Mushairb Street </option>
+					
+                            
+                    <option value="3">Qatar Foundation </option>
+					
+                            
+                    <option value="7">Salwa Road </option>
+					
+                            
+                    <option value="41">Umm Said </option>
+					
+                            
+                    <option value="81">Villaggio </option>
+					
+                  </select>
+     	 
+  	  </div>	
+	  </form>
+		<h3>Qtel Stock</h3>
+		<p style="font-style:normal; "> 
+                        
+						19-05-2010 <strong class="stock">
+                        158.20</strong></p>
+						<p align="right"><a href="InvestorRelationsAction.do"><font color="#CA005D">More...</font></a></p><font color="#CA005D">
+		
+	</font></div><font color="#CA005D">
+	
+			<!-- right menu include ends here -->
+		</font></td>
+      </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td height="10%" valign="bottom">
+	<!--footer include starts from here-->
+	
+		<div id="footer">		
+			<a href="Privacy.do" title="Privacy">Privacy</a>  |	<a href="Legal.do" title="Terms &amp; Conditions">Website Terms and Conditions</a>  |	 <a href="SiteMap.do" title="Site Map">Site map</a>
+			
+	</div>
+	<div style="font-family:Arial;font-size:11px; color:#766F70; padding-top:3px; text-align:top;" align="center">Copyright (c) Qtel 2010. All Rights Reserved.</div>
+	<div> &nbsp;
+	</div> 
+<!--footer include ends here-->
+	</td>
+  </tr>
+</tbody></table>
+
+
+</body></html>
