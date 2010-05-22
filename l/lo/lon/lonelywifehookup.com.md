@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119181641id_/http%3A//www.lonelywifehookup.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lonelywifehookup.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522112326id_/http%3A//www.lonelywifehookup.com/%3Fpage%3Dpp%26wm_login%3D%26sub%3D%26k%3D%26t%3D%26ps%3Ds%26nn%3D%26ref_url%3Ddefault%26country%3DUnited%2BStates) for the most accurate reproduction.*
 
 # Lonely Wife Hookup
 
