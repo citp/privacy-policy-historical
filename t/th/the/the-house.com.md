@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118172409id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-house.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522222514id_/http%3A//helpdesk.the-house.com/index.php%3Fpage%3Dour_privacy_policy) for the most accurate reproduction.*
 
 # The House Helpdesk - Our Privacy Policy
-
-[](https://www.scanalert.com/RatingVerify?ref=www.the-house.com)
 
   
 
@@ -47,9 +45,10 @@ October-February
 12PM - 4PM (Sun)
 
 March-September  
-8AM - 7PM (M-F)  
-9AM - 2PM (Sat)  
-Closed (Sun)
+8AM - 7PM (M-TH)  
+8AM - 6PM (F)  
+9AM - 5PM (Sat)  
+12PM-4PM (Sun)
 
 ### Showroom Hours
 
