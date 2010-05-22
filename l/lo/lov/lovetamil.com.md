@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lovetamil.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623231239id_/http%3A//www.lovetamil.com/policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovetamil.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522221150id_/http%3A//www.lovetamils.com/policy.php) for the most accurate reproduction.*
 
-# Welcome To Lovetamil.Com - Movies/Dramas/Mp3Songs/CinemaNews/EelamNews/and more..
+# Welcome To lovetamils.com - Movies/Dramas/Mp3Songs/CinemaNews/EelamNews/and more..
 
-At LoveTamil.Com, all personal information collected by us on this site (for example, on contests/sweepstakes entry forms) will be utilized primarily for internal purposes and/or to enhance visitor enjoyment and experience. 
+At lovetamils.com, all personal information collected by us on this site (for example, on contests/sweepstakes entry forms) will be utilized primarily for internal purposes and/or to enhance visitor enjoyment and experience. 
 
 We may also use email addresses or other personally identifiable information to contact visitors who directly communicate with, For example, to notify visitors that they have won a contest/sweepstakes or to provide a requested email newsletter. Visitors may voluntarily subscribe to newsletters. 
 
