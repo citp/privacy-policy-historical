@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2009-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090720030921id_/http%3A//ethnicelebs.com/welcome/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethnicelebs.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522182105id_/http%3A//ethnicelebs.com/welcome/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Celebrity Ethnicity - What Nationality Background and Race
-
-## Privacy Policy
+# Privacy Policy – Celebrity Ethnicity – What Nationality Background Race
 
 > Privacy Policy for ethnicelebs.com
 > 
@@ -25,4 +23,4 @@
 > 
 > Deleting cookies does not mean you are permanently opted out of any advertising program.  Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
 
-AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20090720030921id_/http%3A//ethnicelebs.com/welcome/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
+AdSense Privacy Policy Provided by [JenSense](https://web.archive.org/web/20100522182105id_/http://ethnicelebs.com/submit-a-celeb/%E2%80%9Dhttp://www.JenSense.com%E2%80%9D)
