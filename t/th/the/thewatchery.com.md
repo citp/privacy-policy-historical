@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewatchery.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120055136id_/http%3A//www.thewatchery.com/about.asp%3Ftopic%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewatchery.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522181756id_/http%3A//www.thewatchery.com/about.asp%3Ftopic%3D11) for the most accurate reproduction.*
 
 # Luxury Watches - About The Watchery - Privacy Policy
 
@@ -8,39 +8,29 @@ TheWatchery.com Help Center
 
 ## Customer Testimonials
 
-Good Morning Miriam,
+I just wanted The Watchery and other potential customers to know what a wonderful experience I had with their company. I am a first time purchaser from The Watchery and placed my order online on Sunday. Unlike other companies, they have a great verification system where they will telephone you with an automated pin number which you simply type to confirm. I have ordered from other online watch companies and they take forever to verify your order (this is usually when your order is for a large amount.) I searched online for The Watchery coupons and found one for 10% of all Gucci watches. Then, my order was shipped on Monday morning next day UPS air for no extra charge!!! (Not everyone may qualify for this, but my order was for a pricey Gucci!) Anyway, nice gesture. I received it on Tuesday morning by 9:30 am. The watch was surely authentic (not my first Gucci), very well-packaged, and wrapped in a The Watchery tote bag. Very cute. To top it all off, I live in Texas and they set the time for my time zone (they ship from a different time zone.) These are small, but very much appreciated, gestures that will make me order time and time again (when I have the money!) Folks, you can't go wrong with this company. I am very impressed and I think you will be too!
 
-Thank you very much. Now, I can say with confidence if any family members ask where we got our son's watch, The Watchery will be our response and with a very good story to tell.
+Sincerely,
 
-You know Miriam, my husband & I typically do not spend that kind of $$ for a watch, but it was for our son's graduation, and he loved it...So, I thank you most sincerely for your service.
+Laura Rupp
 
-Today, customer service is not like it used to be, but at The Watchery...it is.
-
-Patti Baran
-
-_Patti Baran, E. Longmeadow, MA, 11/09/09_
+_Laura Rupp, Texas, 05/11/2010_
 
 * * *
 
-Hi. My name is Ben and I had the distinct pleasure of working with Zack to purchase a men's Concord Delirium 18kt gold watch with diamonds on the sides of the bezel (your item 0311002). It arrived as promised, on time, new but the fit was a bit snug.
+Sam
 
-I then had the distinct pleasure of speaking with Carlotta who then introduced me to Molly. I also had the distinct privilege to chat and e-mail Eddie Shaer who got Katy to get in touch with me and now the whole thing seems to be handled quite well and to my great satisfaction.
+Just wanted to thank you for your recommendation and assitance for another graduation watch for my daughter. I asked her what she wanted. She asked what was possible. I said anything but me paying off her loans OR a watch. She said "but daddy I really need a nice watch"
 
-I want to express my gratitude to all of you who made this (somewhat expensive) sale, go smoothly from start to finish. I would rate The Watchery as follows;
+She came down last week and we talked again about graduation -- she said she really could use a watch. I said no way, ain't gonna happen -- besides her WAtch was fine. I said let me see it. She gave hers to me, I turned my back, put it in my pocket and handed the new one back. Once she realized it wasn't hers, she was floored.
 
-Sales 100%  
-Customer Service 100%  
-Cust. Service after sale 100%  
-Overall Cust. Satisfaction 110%  
-Referral to Friends/Family 100%
+Thanks for making her day!
 
-Thanks to each and every one of you for making this special gift, that more special.
+Jeff
 
-Ben
+_Jeff, San Juan Capistrano, CA, 05/07/2010_
 
-_Ben, Tarzana, CA, 11/09/09_
-
-  [Read More Testimonials](https://web.archive.org/web/20091120055136id_/http%3A//www.thewatchery.com/testimonials.asp) [Add Your Testimonials](https://web.archive.org/web/20091120055136id_/http%3A//www.thewatchery.com/testimonials.asp?add=1)
+  [Read More Testimonials](https://web.archive.org/testimonials.asp) [Add Your Testimonials](https://web.archive.org/testimonials.asp?add=1)
 
 Privacy Policy
 
