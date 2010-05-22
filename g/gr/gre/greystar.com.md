@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the greystar.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125042839id_/http%3A//www.greystar.com/GreystarInner/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greystar.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522193849id_/http%3A//www.greystar.com/Etc/Privacy.aspx) for the most accurate reproduction.*
 
 # Greystar
 
-This Privacy Policy was last updated: **February 26, 2009**   
-This Privacy Policy is effective as of: **February 24, 2009**
+PRIVACY POLICY 
 
 Thank you for visiting Greystar Real Estate Partners and JPI Management Services (“Greystar”) Internet web site (“Site”) located at the URL [www.greystar.com](http://www.greystar.com/). This Privacy Policy details certain policies implemented by Greystar governing use of personally identifiable information collected from users of our Site and applicants and residents of Greystar and JPI properties (“Properties”) in the Unites States. 
 
@@ -66,3 +65,5 @@ We may employ procedural and technological measures designed to protect the secu
 
 **QUESTIONS**   
 If you have any questions regarding this Privacy Policy please contact us via email at: [webmaster@greystar.com.](mailto:webmaster@greystar.com.)
+
+This Privacy Policy was last updated: **January 2010**
