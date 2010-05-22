@@ -1,119 +1,73 @@
-<!--The following is the downloaded HTML source of the letsmix.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212191721id_/http%3A//www.letsmix.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the letsmix.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522121654id_/http%3A//www.letsmix.com/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link href="/Content/css/960/reset.css" rel="stylesheet" type="text/css"><link href="/Content/css/960/960.css" rel="stylesheet" type="text/css"><link href="/Content/css/960/text.css" rel="stylesheet" type="text/css"><link href="/Content/css/Site.css" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/Content/img/icons/favicon.gif" type="image/x-icon"><link rel="icon" href="/Content/img/icons/favicon.gif" type="image/x-icon"><link rel="apple-touch-icon" href="/Content/img/letsmix_cover_iphone.png">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><link href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/css/960/reset.css" rel="stylesheet" type="text/css"><link href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/css/960/960.css" rel="stylesheet" type="text/css"><link href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/css/960/text.css" rel="stylesheet" type="text/css"><link href="/Content/css/Site.css?v=1.20100301" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/img/icons/favicon.gif" type="image/x-icon"><link rel="icon" href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/img/icons/favicon.gif" type="image/x-icon"><link rel="apple-touch-icon" href="http://toniumlive_letsmix_images.s3.amazonaws.com/content/img/letsmix_cover_iphone.png">
 
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.js"></script>
-    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.js"></script>
+
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
     <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
 
 
-    
-    <script type="text/javascript" src="/Scripts/jquery.easing.1.3.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.cookie.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.history.js"></script>
-
-    <script type="text/javascript" src="/Scripts/jquery.autogrow.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.scrollTo-1.4.2.min.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery.livequery.js"></script>
-    <script type="text/javascript" src="/Scripts/chroma-hash.js"></script>
-    <script type="text/javascript" src="/Scripts/swfupload.js"></script>
-    <script type="text/javascript" src="/Scripts/jquery-asyncUpload-0.1.js"></script>
-    <script type="text/javascript" src="/Scripts/letsmix/LetsMix_include_in_header.js"></script>
-    <script type="text/javascript" src="/Scripts/letsmix/LetsMix.Utils.js"></script>
-    <script type="text/javascript" src="/Scripts/letsmix/LetsMix.Browsing.js"></script>
+    <script type="text/javascript" src="http://toniumlive_letsmix_images.s3.amazonaws.com/Scripts/letsmix-header-min-v2.js?v=1.20100520"></script>
 
 
 
-    <script type="text/javascript" src="/Content/flash/open-flash-chart-2/js/json/json2.js"></script>
 
 
     <script type="text/javascript" charset="utf-8">
     <!--
 
-        // If user arrives to the page with a url with hash - stop loading and redirect to the hashed url
-        if(document.location.hash.substring(1).length > 0)
-        {
-            try {
-                window.stop();
-                document.location = document.location.hash.substring(1);
-            }catch(err) {}
-        }
-
-
-        // Setup chroma-hash for passwords
-        $('input:password').livequery(function() {
-            $(this).chromaHash({ number: 3 });
-        });
-
-
-        
         $(document).ready(function() {
-            // Setup basic stuff like clicks on links, etc
-            initPage();
-
-            timeoutRecentlyPlayedMixes = setTimeout('updateRecentlyPlayed();', 1000);
-        });
-
-
-
-
-        $(document).ready(function() {
-            window.onbeforeunload = function() {
-                if (LetsMixPlayer.IsPlaying)
-                {
-                    return "\n\nNOTICE!\nYou have a mix playing, it will be closed (and if playing - stop) if you continue.\n\n(Avoid this by right-clicking the link and choose \"Open in New Window\", or you could also detach the player to a window of it's own)\n\n";
-                }
-            }
-
             currentUserIsLoggedIn = false;
+            currentUserId = '-1';
+            playerLastVolume = '1';
         });
 
-
-        function initPage() {
-            //alert('initPage 1');
-            initModules();
-            //alert('initPage 2');
-
-            initPlayerPanel();
-            //rewrite_links();
-
-            //alert('initPage 3');
-            /*
-            initShowLogonSignupButton();
-            */
-            //alert('initPage 4');
-
-            initComments();
-            //alert('initPage 5');
-            initPlayQue();
-
-        }
-
-
-
-
-
-
-        
-
-
-
+        soundManager.url = '/content/soundcloud/'; // change to '.' to use local non-crossdomain soundmanager
 
     //-->
     </script>
-<title>
-	Let's mix - Privacy policy
-</title></head>
 
+
+<title>
+	Privacy policy - Let's mix
+</title></head>
 <body>
 
 
+
+<div id="signin-overlay">
+</div>
+
+<div id="signin-container" class="register-form width_6 color-listen">
+<div id="signin-inner-container" class="">
+    <form action="/Account/Logon" method="post">
+    <h3><b>Login</b></h3>
+    <div class="hr-glow"></div>
+    <label for="username">Username</label>
+    <input type="text" name="username" id="username" class="text large" tabindex="1" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); return false; }">
+
+    <label for="password" class="left">Password</label><a href="/Account/LostPassword" class="right dark lost-password nobrowse">Lost password?</a>
+    <div class="clear"></div>
+    <input type="password" name="password" id="password" class="login-password-4f297a51-d802-44f9-a448-7e85c47a6054 text large" tabindex="2" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); return false; }">
+
+    <input type="checkbox" name="rememberMe" id="rememberMe" checked="checked" value="true" class="checkbox inline"> <label for="rememberMe" class="inline">Remember me?</label>
+    <input type="hidden" value="false" name="rememberMe" class="hidden">        
+
+    <input class="hidden" id="returnUrl" name="returnUrl" type="hidden" value="">
+
+    <button class="right button-large" onclick="login(this); return false;" tabindex="3">Login »</button>
+</form>
+    <a href="javascript:hideSigninPopup();">Cancel</a>
+</div>
+</div>
+
 <input id="focus" value="" style="display:none;">
 <input id="mousemove" value="" style="display:none;">
-    <!--div style="position:absolute;">Your ip:75.101.221.99</div-->
+    <!--div style="position:absolute;">Your ip:204.236.226.210</div-->
     
-    <div id="loading-blob"><span class="ajax-loader"></span></div>
+    <div id="loading-blob" ondblclick="$(this).remove();"><span class="ajax-loader"></span></div>
     
     
 
@@ -131,32 +85,33 @@
     <h3><b>Sign up</b></h3>
     <div class="hr-glow"></div>
 
-    <label for="username">Username</label>
-    <input type="text" name="username" id="username" class="text large" onkeypress="return evalOnEnter(this,event, 'register();')">
-
     <label for="email">Email</label>
-    <input type="text" name="email" id="email" class="text large" onkeypress="return evalOnEnter(this,event, 'register();')">
+    <input autocomplete="off" type="text" name="email" id="email" class="text large" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { register(this); return false; }" value="">
+    
+    <label for="username">Username</label>
+    <input autocomplete="off" type="text" name="username" id="username" class="text large" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { register(this); return false; }">
 
     <label for="password">Password</label>
-    <input type="password" name="password" id="password" class="register-password-eca02e60-f38d-4c56-a371-66d9c2fb8a48 text large" onkeypress="return evalOnEnter(this,event, 'register();')">
+    <input autocomplete="off" type="password" name="password" id="password" class="register-password-2603b2b3-6465-4e94-b489-5ae0920e0b97 text large" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { register(this); return false; }">
 
-    <button class="right button-large" onclick="register(); return false;">Signup »</button>
+    <button class="right button-large" onclick="register(this); return false;">Signup »</button>
 </form>
         </div>
         <div class="logon-form left column width_6 color-letsmix">
             <form action="/Account/Logon" method="post">
     <h3><b>Login</b></h3>
     <div class="hr-glow"></div>
-    <input class="hidden" id="returnUrl" name="returnUrl" type="hidden" value="/Account/MyPage">
     <label for="username">Username</label>
-    <input type="text" name="username" id="username" class="text large" tabindex="1" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); }">
+    <input type="text" name="username" id="username" class="text large" tabindex="1" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); return false; }">
 
     <label for="password" class="left">Password</label><a href="/Account/LostPassword" class="right dark lost-password nobrowse">Lost password?</a>
     <div class="clear"></div>
-    <input type="password" name="password" id="password" class="login-password-f7402918-54af-4850-ad11-dede445dcd69 text large" tabindex="2" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); }">
+    <input type="password" name="password" id="password" class="login-password-fbe9b9c8-df7f-4440-9554-58eaa3bb79ad text large" tabindex="2" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { login(this); return false; }">
 
     <input type="checkbox" name="rememberMe" id="rememberMe" checked="checked" value="true" class="checkbox inline"> <label for="rememberMe" class="inline">Remember me?</label>
     <input type="hidden" value="false" name="rememberMe" class="hidden">        
+
+    <input class="hidden" id="returnUrl" name="returnUrl" type="hidden" value="">
 
     <button class="right button-large" onclick="login(this); return false;" tabindex="3">Login »</button>
 </form>
@@ -167,9 +122,9 @@
     <div class="hr-glow"></div>
 
     <label for="email">Email</label>
-    <input type="text" class="text large" name="email" id="email" onkeypress="return evalOnEnter(this,event, 'lostpassword();')">
+    <input type="text" class="text large" name="email" id="email" onkeypress="if ((window.event &amp;&amp; window.event.keyCode == 13) || (event &amp;&amp; event.which == 13)) { lostpassword(this); return false; }" value="">
 
-    <button class="right button-large" onclick="lostpassword(); return false;">Send »</button>
+    <button class="right button-large" onclick="lostpassword(this); return false;">Send »</button>
 </form>
             </div>
         </div>
@@ -178,7 +133,6 @@
 
 
     <div id="bodycontainer" class="container_16">
-
 <!--[if lte IE 6]>
 <style type="text/css">
 #ie6msg{border:3px solid #090; margin:20px 0 20px 8px; background:#cfc; color:#000;}
@@ -194,26 +148,28 @@
 </div>
 <![endif]-->
 <noscript><div style="padding:20px 10px;"><p class="disclaimer">It seems your browser has JavaScript turned off. For the full Let's mix experience, please turn it on!</p></div></noscript>
-
     
-        <div id="pagetitle" style="display:none;">Let's mix - Privacy policy</div>
+        <div id="pagetitle" style="display:none;">Privacy policy - Let's mix</div>
 
         
 
 <div id="header">
-    <div class="grid_3">
-        <a href="/"><h1 class="logotype">Let's Mix!</h1></a>
+    <div class="grid_3 logotype-container">
+        <a href="/" class="logotype">Let's Mix!</a>
     </div>
     <div class="grid_8 login-and-signup">
         <a href="/Account/Register" class="button-show-logon-signup signup nobrowse" onclick="return false;">Sign up</a> / <a href="/Account/LogOn" class="button-show-logon-signup logon nobrowse" onclick="return false;">Log in</a>
         &nbsp;
+        
     </div>
-    <div class="grid_5 ">
+    <div class="grid_5 header-search-form">
+        
         <div class="height_15"></div>
         <form action="/search" method="get" class="right search">
             <input type="hidden" name="type" id="type" value="" class="hidden">
-            <input type="text" name="query" onkeypress="return evalOnEnter(this,event,'doSearch(\'' + this.value + '\', \'' + $(this).parent().find('input[name=type]').val() + '\');')" onfocus="$(this).val('');" onblur="if($(this).val() == '') { $(this).val($(this).attr('defaulttext')); }" defaulttext="" class="medium inline width_2 search-query" value=""> <button class="button-medium inline color-listen button-search" onclick="doSearch($(this).parent().find('input[name=query]').val(), $(this).parent().find('input[name=type]').val());">Search</button>
+            <input type="text" name="q" onkeypress="return evalOnEnter(this,event,'doSearch(\'' + this.value + '\', \'' + $(this).parent().find('input[name=type]').val() + '\');')" onfocus="$(this).val('');" onblur="if($(this).val() == '') { $(this).val($(this).attr('defaulttext')); }" defaulttext="" class="medium inline width_2 search-query" value=""> <button class="button-medium inline color-listen button-search" onclick="doSearch($(this).parent().find('input[name=q]').val(), $(this).parent().find('input[name=type]').val()); return false;">Search</button>
         </form>
+        
     </div>
 </div>
 
@@ -258,17 +214,15 @@
                 <li><a href="/about">About Let's mix</a></li>
                 <li><a href="/contact_us">Contact us</a></li>
                 <li><a href="/work_with_us">Work with us</a></li>
-                <!--li><a href="/press">Press</a></li-->
             </ul>
         </div>
 
         <div class="grid_4">
             <h3>Get help</h3>
             <ul>
-                
-                <li><a class="nobrowse" target="_blank" href="http://getsatisfaction.com/tonium/products/tonium_community">Get Satisfaction forum</a></li>
-                <li><a class="nobrowse" target="_blank" href="http://getsatisfaction.com/tonium/products/tonium_community">Editor support</a></li>
-                <li><a class="nobrowse" target="_blank" href="http://getsatisfaction.com/tonium/products/tonium_community">FAQ</a></li>
+                <li><a class="nobrowse" target="_blank" href="http://getsatisfaction.com/letsmix/products/letsmix_let_s_mix">Get Satisfaction forum</a></li>
+                <li><a class="nobrowse" target="_blank" href="http://getsatisfaction.com/letsmix/products/letsmix_editor">Editor support</a></li>
+                <li><a href="/faq">FAQ</a></li>
             </ul>
         </div>
 
@@ -283,7 +237,7 @@
 
         <div class="grid_16">
             <p class="size-small copy-info">
-                    <a href="/" title="Let's Mix"><img src="/content/img/logo_footer.gif" alt="LET'S MIX"></a><br>
+                    <a href="/" title="Let's Mix"><img src="http://toniumlive_letsmix_images.s3.amazonaws.com/content/img/logo_footer.gif" width="75" height="22" alt="LET'S MIX"></a><br>
                     © Let's mix MMIX. All rights reserved - all wrongs reversed. <a href="/terms_of_use">Terms of Use</a> and <a href="/privacy_policy">Privacy Policy</a>
             </p>
         </div>
@@ -294,9 +248,8 @@
 
 
 
-
-    <div id="sidebar-container">
-    
+        <div id="sidebar-container">
+            
 
 
 
@@ -310,7 +263,7 @@
             <div class="group" group="searches">
                 <h6 class="subheader dark"><a href="#" class="nobrowse toggle-handle open" setting="Gui.Sidebar.Searches.Toggle">MY SEARCHES</a></h6>
                 <ul class="group-content dark">
-                <li><a href="/search/" onclick="doSearch('',''); return false;" class="isinit nobrowse"></a></li>
+                <li><a href="/search?q=" onclick="doSearch('',''); return false;" class="isinit nobrowse"></a></li>
                 </ul>
             </div>
 
@@ -328,9 +281,9 @@
 </div>
     
     
-    </div>
+        </div>
 
-    
+        
 
 <div id="player">
     <div id="player-toggle-bar-handle"><a href="#" id="player-toggle-bar" class="inverted nobrowse closed" setting="Gui.Player.Toggle">Player</a><a href="#" id="player-toggle-bar-minimize" class="inverted">Minimize</a></div>
@@ -368,7 +321,7 @@
             
 <div class="random-mix">
     <div class="column column-play-buttom">
-        <button class="button-play" title="Play mix" mixid="18445" mixname="KINGDOM Mix for Discobelle" mixowner="Kingdom" mixtime="0:57:57"><span class="icon">Play</span></button>
+        <button class="button-play" title="Play mix" mixid="40793" mixname="Naked Fridays Pt. 41: Gorillaz" mixowner="VivaRadio" mixtime="0:51:44"><span class="icon">Play</span></button>
     </div>
     <div class="column column-text-1">
         <i>To start enjoying the music on Let's mix, just press play!</i>
@@ -376,26 +329,21 @@
     <div class="column column-mix-info dark">
         <center>
             
-            <div class="title-and-owner" title="KINGDOM Mix for Discobelle by Kingdom">
-                <h5><a href="/mix/18445/kingdom_mix_for_discobelle">KINGDOM Mix for Discobelle</a></h5> <i>by <a href="/kingdom">Kingdom</a></i>
+            <div class="title-and-owner" title="Naked Fridays Pt. 41: Gorillaz by VivaRadio">
+                <h5><a href="/mix/40793/naked_fridays_pt_41_gorillaz">Naked Fridays Pt. 41: Gorillaz</a></h5> <i>by <a href="/vivaradio">VivaRadio</a></i>
             </div>
             <div class="height_5"></div>
             
-        <a class="genre-tag" title="Search for mixes with genre: UK Garage" href="/search/genre[UK Garage]">UK Garage</a>
-        
-        <a class="genre-tag" title="Search for mixes with genre: House" href="/search/genre[House]">House</a>
-        
-        <a class="genre-tag" title="Search for mixes with genre: Bass" href="/search/genre[Bass]">Bass</a>
-        
-            <div class="height_5"></div>
+            <div class="clear"></div>
             
 
 <div class="statistics">
-    <span title="This mix has 63 listenings" class="listenings"><span class="icon icon-plays"></span>63</span>
     
-    <span title="This mix has been bookmarked 0 times" class="bookmarks"><span class="icon icon-bookmarks"></span>0</span>
+    <span title="This mix has 23 listenings" class="listenings"><span class="icon icon-plays"></span>23</span>
     
-        <span title="This mix is 0 hours, 57 minutes and 57 seconds long" class="length"><span class="icon icon-duration"></span>0:57:57</span>
+    <span title="This mix has been bookmarked 1 times" class="bookmarks"><span class="icon icon-bookmarks"></span>1</span>
+    
+        <span title="This mix is 0 hours, 51 minutes and 44 seconds long" class="length"><span class="icon icon-duration"></span>0:51:44</span>
     
 </div>
 
@@ -428,125 +376,12 @@
 
 </div>
 
-
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix_include_in_footer.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Module.1.1.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Account.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Comments.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Player.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Sidebar.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Bookmark.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Follow.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Member.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Mix.js?v=1.1"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Tracklist.js"></script>
-<script type="text/javascript" src="/Scripts/letsmix/LetsMix.Search.js"></script>
-
-<script type="text/javascript">
-<!--
-
-
-    function promoteSendAsEmail() {
-        var url = $('#promoteByEmailForm').attr('action');
-        var e = $('#promoteByEmailForm #promoteToEmail').val();
-        var m = $('#promoteByEmailForm #promoteByEmailMessage').val();
-
-        showLoadingBlob();
-
-        xhr = $.ajax({
-            type: "POST",
-            url: url,
-            data: "promoteToEmail=" + e + "&promoteByEmailMessage=" + escape(encodeURI(m)) + "&ajax=true",
-            dataType: "html",
-            success: function(json) {
-                hideLoadingBlob();
-                var jsonObject = eval('(' + json + ')');
-                switch (jsonObject.status) {
-                    case 'error':
-                        alert('Error: ' + jsonObject.message);
-                        break;
-                    case 'ok':
-                        alert('Email sent!');
-                        break;
-                    default:
-                        alert('Unknown error');
-                }
-            },
-            error: function(xhr, ajaxOptions, thrownError) {
-                hideLoadingBlob();
-                if (xhr.statusText == "Bad Request") {
-                    alert('Unknown error: Bad Request');
-                    return false;
-                }
-                if (xhr.statusText == "Internal Server Error") {
-                    alert('Unknown error: Internal Server Error');
-                    return false;
-                }
-                alert('Unknown error');
-                return false;
-            }
-        });
-
-        return false;
-    }
-
-
-
-    /* initPromotionPostToLinks */
-    $('ul.post-to li a').livequery('click', function() {
-        var clickrank = parseInt($(this).attr('clickrank'), 10) + 1;
-        $(this).attr('clickrank', clickrank);
-        var setting = $(this).attr('setting');
-        Settings.Save(setting, clickrank);
-    });
-
-
-
-    // Hide all but the first 2 post-to-links
-
-    var numberOfPostToLinksToShowAsDefault = 2
-
-    $('ul.post-to:not(.isinit)').livequery(function() {
-        $(this).find('li:nth-child(1n+' + (numberOfPostToLinksToShowAsDefault + 1) + '):not(.isinit)').addClass('isinit').hide();
-        $(this).addClass('isinit');
-    });
-
-    $('.show-more-post-to-services').livequery('click', function() {
-        $(this).parent().find('ul.post-to li').show();
-        $(this).remove();
-        return false;
-    });
-
-
-    /*
-    $(document).ready(function() {
-        setTimeout(function() {
-            showInfoPopup('<b>Did you know?</b><br />By pressing Ctrl+Space you can control<br />play/pause on the player!');
-        }, 2000);
-    });
-    */
-
-
-    function showInfoPopup(text)
-    {
-        var startHeight = $(window).height() - 130;
-        $('#info-popup').stop().css({ opacity: 0 }).css({ top: startHeight }).html(text).animate({ opacity: 1, top: startHeight-100 }, 500, 'easeOutQuad', function() {
-            $('#info-popup').animate({ opacity: 1 }, 3000, function() {
-            $('#info-popup').animate({ opacity: 0 }, 2500);
-            });
-        });
-    }
-
-
-//-->
-</script>
-
-
+        <script type="text/javascript" src="http://toniumlive_letsmix_images.s3.amazonaws.com/Scripts/letsmix-footer-min-v2.js?v=1.20100520"></script>
+    
 
 <script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">try { var pageTracker = _gat._getTracker("UA-1716939-4"); pageTracker._trackPageview(); } catch (err) { }</script>
     
-
 <script type="text/javascript" charset="utf-8">
     var is_ssl = ("https:" == document.location.protocol);
     var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
@@ -557,19 +392,31 @@
     var feedback_widget_options = {};
 
     feedback_widget_options.display = "overlay";
-    feedback_widget_options.company = "tonium";
+    feedback_widget_options.company = "letsmix";
     feedback_widget_options.placement = "right";
     feedback_widget_options.color = "#222";
     feedback_widget_options.style = "idea";
-    feedback_widget_options.product = "tonium_community";
-    /* feedback_widget_options.tag = "tag"; */
-    /* feedback_widget_options.custom_css = "http:\/\/192.168.60.101:82\/Content\/css\/Site.css"; */
+    feedback_widget_options.product = "letsmix_let_s_mix";
     feedback_widget_options.limit = "3";
 
     var feedback_widget;
     feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
 
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-09TxkwZlRpYA2"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-09TxkwZlRpYA2.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- www1.letsmix.com-->
 
 
 
