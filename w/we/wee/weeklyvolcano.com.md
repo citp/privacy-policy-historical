@@ -1,65 +1,97 @@
-> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125234658id_/http%3A//www.weeklyvolcano.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weeklyvolcano.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522113245id_/http%3A//www.weeklyvolcano.com/privacy) for the most accurate reproduction.*
 
-# Weekly Volcano alternative newsweekly Tacoma Olympia - Privacy Policy
+# Privacy - Weekly Volcano - The alternative newsweekly for Tacoma and Olympia
 
-## Swarner Communications, Inc.
+The following statement explains how the Web sites operated by Swarner Communications, Inc. collect and use your personally identifiable information. These Web sites include: weeklyvolcano.com, weeklyvolcanospew.com, northwestmilitary.com and fortlewisblog.com.
 
-Parent of the Weekly Volcano, [weeklyvolcano.com](http://www.weeklyvolcano.com/) and [weeklyvolcanospew.com](http://www.weeklyvolcanospew.com/)
+**The basic principle**
 
-Swarner Communications respects your privacy. Our privacy policy for this site follows, but the bottom line is this: Swarner Communications will not sell or share any of your personal information to a third party unless you say it's OK. Swarner Communications will gather personally identifiable information about you only when you provide it voluntarily for specific purposes such as posting an ad or signing up for an e-mail newsletter.
+We will never intentionally disclose your personally identifiable information to any third party for their use without first receiving your express permission. We will not send you e-mail unless you have requested it or unless it's in the course of a transaction you have initiated.
 
-Policy effective as of May 1, 2007
+**Free to use**
 
-### Personally Identifiable Information
+You can access our Web sites and use our services free of charge, but sometimes we will ask you to submit minimal personally identifiable information before accessing them.
 
-We do track how our visitors use this site so that we can see what people like and don't like. We also analyze and aggregate information about use patterns and share the aggregated data with our advertisers (for example, we keep track of how many users see and click on particular advertisements). We may also collect personal information about you via registration for contests, surveys and newsletters, which may include contests, surveys and newsletters for certain third parties. We will not, however, release your name, e-mail address or any other personal information to anyone else outside Swarner Communications unless we have your consent, we are under a legal order to do so, or there is an emergency involving danger to a person or property. This means that we will not provide our advertisers or anyone else outside Swarner Communications with any information specific to you unless we have your consent. If you chose to provide your personally identifiable information for the purposes of a third-party contest, survey, or newsletter, you consent shall be deemed to be given for the release of your personally identifiable information with regard to that third party only, in addition to Swarner Communications. The only Swarner Communications employees or consultants allowed access to personal information about you are those who need to have access. Any employee or consultant who violates our privacy and security policies is subject to disciplinary action, including possible termination or prosecution.
+The people who make it possible for us to provide free content to you are our advertisers. To enable advertisers to invest their media dollars appropriately, we target advertising through cookies and other methods (described below) and provide advertisers with a general summary about the demographics of our readership and usage of our sites. We never tell our advertisers your identity unless you expressly give us permission to do so.
 
-We occasionally have third party agents, subsidiaries, affiliates, and joint ventures that perform functions on our behalf, such as credit card processing, shipping or stocking orders, providing customer service, etc. They have access to personal information needed to perform their functions, and are contractually obligated to maintain the confidentiality and security of the data. They are restricted from using or altering this data in anyway other than to provide the requested services to the Site.
+**When do we collect your personally identifiable information?**
 
-Please remember that any information you share in public area, such as message boards becomes public, and therefore this Privacy Policy does not apply to any information you choose to make public. Please be careful about what you disclose and do not post any personal information that you expect to keep private.
+You must provide some personally identifiable information in order to use some features of our Web sites. Some examples:
 
-### Cookies
+  * Signing up for e-mail services such as newsletters and e-mail alerts for various types of classified listings
+  * Participating in online sweepstakes, contests and games
+  * Participating in online forums
+  * Placing an online classified ad of various types
+  * Creating a profile on WeeklyVolcano.com
+  * Purchasing items such as event tickets and online photos
+  * Participating in an online survey
 
-"Cookies" are small text files that allow Web sites to store and retrieve information about you from your computer system. Swarner Communications does serve cookies to track individual site usage for later aggregation. But we do not use cookies in order to retrieve any information from your computer other than information originally sent in a Swarner Communications cookie, such as a user code. We have no control over whether and how our advertisers use cookies that originate from their website. You are always free to decline our cookies if your browser permits, but you may not be able to take full advantage of our site's features, and we recommend that you leave them turned on.
 
-IP address tracking: All computers and servers on the Internet use IP addresses to recognize and communicate with each other. We collect IP addresses to administer and analyze our site and report aggregate, non-personal information (such as how many visitors we have). When you call up our site on your computer, our servers enter the IP address of that computer into a log. To maintain our users' anonymity, we do not associate IP addresses with records containing personal information.
 
-We do not and cannot use cookies or IP address tracking to retrieve personal information from your computer.
+**What personally identifiable information do we collect?**
 
-### Your Letter to the Editor Contributions
+The information we collect for services such as these will vary, but can include your name, address, zip code, gender, user name, password, e-mail address and phone number. We also collect credit card information for purchases. Wherever we collect personally identifiable information, we will make an effort to link to our privacy statement.
 
-As with our print editions, we insist that you supply your real name, daytime telephone number or e-mail address. That is because we may need to contact you, and because your identity may be important to understand your point of view. If you send us such commentary, we reserve the right to publish it in print or display it on this site in full or in edited form. To protect your privacy, however, we will withhold your name and address upon request, both in print and on-line.
+**How do we use your personally identifiable information?**
 
-### Communication from Swarner Communications
+We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
-From time to time, we may send you information with announcements and updates about the site and Swarner Communications and our partners. Any ongoing communication you may receive from Swarner Communications via e-mail, such as newsletters, subscriptions, contest results, survey inquiries, etc. may be terminated via a simple "opt out" procedure. You need only reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list.
+Please note that some of our online sweepstakes or contests are sponsored by advertisers. Aggregated, non-personally identifiable data about contest entries are collected and can be shared with these advertisers. In addition, you may choose to provide your personally identifiable information to these advertisers in exchange for the opportunity to receive future communication from them (such as coupons or special offers). If you do not wish to have your personally identifiable information shared or receive such communication, you will be given a clear choice to opt out of having your personally identifiable information sent to the advertiser, or you will be advised not to enter the contest.
 
-### Giveaways and Contests
+We will not send you e-mail unless you have requested it, or specifically given us permission to contact you in the future, or unless it's in the course of a transaction you have initiated.
 
-If you sign up to be eligible for a giveaway or contest on our Site, your information will be shared with the advertiser or sponsor of that giveaway or contest for one-time use to notify you if you have won. To the extent the giveaway or contest has its own terms that conflict with the terms of this Privacy Policy, the terms of the giveaway or contest shall govern. Personally identifiable information will be collected only if you voluntarily submit it to our sponsors or us. We will not use your personally identifiable information for any purpose other than the administration of the giveaway or contest without your permission.
+When you submit a comment about a story or topic on one of our Web sites, an editor or reporter may contact you for clarification or for permission to use your comments in the newspaper or other publications of Swarner Communications, Inc.
 
-### Children
+**Who else has access to your personally identifiable information?**
 
-Swarner Communications does not orient this site toward children under the age of 13 or target them as an audience, nor does it screen them from using the site. Some of the material on this site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. Children under the age of 13 should not use this site. Swarner Communications does not collect or distribute information indicating whether a user is a child.
+  * Third-party technology providers: In some cases, the service you sign up for is provided by a third-party technology or content provider. When you use these third-party services offered on our sites, personally identifiable information you provide may be collected directly by these third parties solely in order to deliver the services you have requested. These third-party partners may not use or distribute our users' information in any capacity outside of the service for which we contracted and they must comply with our privacy policies.
+  * Transactional partners: In some cases we partner with another company to co-promote their services within our Web sites. In these cases, you are transacting directly with the other party, and the personally identifiable information you enter on those services is shared both with that transactional partner and Swarner Communications. On those pages requiring personally identifiable information, the transactional partner's brand is clearly visible, and their privacy statement is posted. We encourage you to read it.
 
-### Links to Other Sites
 
-This site provides links and pointers to Web sites maintained by other organizations. Swarner Communications provides these links as a convenience to users, but it does not operate, control or endorse such sites. Swarner Communications also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. Swarner Communications does not make any warranties or representations that any linked sites (or even this site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
 
-### E-Commerce and Our Secure Server
+**How do we use site usage statistics?**
 
-All commerce transactions that take place on this site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. Any transactions that take place on other sites that have link from our site are not necessarily handled in this fashion. Swarner Communications disclaims any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. (This section posted and effective as of May 1, 2007)
+Swarner Communications, Inc. collects some information automatically via server logs and cookies. This information can include your IP address, browser type, domain names, access times and referring URLs. We use this information to prepare for peak usage times and ensure a fast-loading site, to help diagnose problems with our servers and to understand which features of our sites are being used and when.
 
-### Policy Changes
+**How do we use cookies and web beacons?**
 
-The privacy policy is effective as of May 1, 2007. We may need to change it from time to time as technology and the nature of the Web keep evolving. We will endeavor to post any changes to this policy as soon as they go into effect. By visiting the Site, you are accepting the practices describe in this Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Site and exit immediately. We reserve the right to modify or amend the terms of this Privacy Policy from time to time without notice at any time. Your continued use of the Site following the posting of changes to these terms will mean that you accept those changes.
+A cookie is a small file that stores information in your browser on your computer. Swarner Communications places cookies in your browser that contain some of the information you provide when you register with us and when you set up a personalized service such as a "favorites list." We do not store highly sensitive personal information such as your password, e-mail address or credit card number in cookies. Cookies enable us to summarize overall usage patterns for our analysis. We also use cookies to provide a more useful online experience — such as allowing you to quickly enter a sweepstakes if you're already logged on. And it can allow us to limit users to only one entry for an online poll.
 
-### Governing Law/Sale of Company
+A Web beacon is an invisible graphic on a Web page that is programmed to collect non-personally identifiable information about your use of a given site. Like cookies, web beacons allow Swarner Communications, Inc. and its technology providers to summarize overall usage patterns for our analysis and provide personalized services. We do not share or provide personally identifiable information we may collect, such as names, e-mail addresses and phone numbers with our advertisers without your express permission.
 
-Our Site is published in the United States. U.S. law shall govern in any and all disputes, including privacy or defamation issues or otherwise.
+We work with third-party advertising companies who may utilize cookies or web beacons to better provide advertisements about goods and services that may be of interest to you. These partners do not have access to or use your name, address, e-mail address, telephone number or other personally identifiable information; they may, however, anonymously track your Web usage across other Web sites in their networks beyond Swarner Communications, Inc. sites.
 
-In the event of a sale of Weekly Volcano or a sale of substantially all Swarner Communications' assets, the email database and all user information shall accrue to the new owners. Your personally identifiable information will continue to be governed by this Privacy Policy, as it may be amended from time to time.
+You may opt-out of the cookies delivered by Swarner Communications, Inc. by changing the setting on your browser. Depending on your privacy settings, please be aware that this may disable all cookies delivered to your browser, not just the ones delivered by Swarner Communications, Inc.
 
-### More Questions? Updates and Changes to Your Information.
+**Disclosures Required by Law or for Security and Safety**
 
-If you have any questions about this privacy policy, e-mail them to [feedback@weeklyvolcano.com](mailto:feedback@weeklyvolcano.com), and be sure to indicate the specific site you're visiting and the nature of your question or concern. If your personally identifiable information changes, you may correct and/or update it by sending us an email at [feedback@weeklyvolcano.com.](mailto:feedback@weeklyvolcano.com.)
+Regardless of your choices with respect to your information, Swarner Communications, Inc. will disclose personally identifiable information when it believes in good faith that such disclosures are (a) required by law, including, for example, to comply with a court order or subpoena, or (b) will help enforce our terms of use, enforce contest and sweepstakes rules, protect your safety or security and/or protect the safety and security of Swarner Communications, Inc., our Web sites, our property, or our employees; or (c) to protect the safety or security of third parties.
+
+**Children's guidelines**
+
+In general, our sites are not intentionally targeted at children under 13, but some educational areas of our sites are targeted to middle-school and high-school age children. We require written parental consent for children under 13 to register or submit personally identifiable information on our sites.
+
+  * Children: Be sure to ask your parents for permission before you send any personally identifiable information about yourself to us or anyone else over the Internet.
+  * Parents and guardians: We encourage you to get involved with your children's online usage and to be aware of the activities in which they are participating.
+
+
+
+**How to correct and update your personally identifiable information**
+
+Swarner Communications, Inc. allows you to change your personally identifiable information through the Profile Center. After logging in, you may select "Your profile" and update the information there, including e-mail address, user name, password and phone number.
+
+**Notification of policy changes**
+
+We retain the right, at our discretion, to change any of these policies in the future. Our current procedures will be disclosed on this page.
+
+**How to contact Swarner Communications, Inc.**
+
+If you have any questions about this privacy statement, the practices of our Web sites, or to resolve a dispute, you can contact us:
+
+  * By e-mail: [feedback@weeklyvolcano.com](mailto:feedback@weeklyvolcano.com) 
+  * By mail:  
+       Swarner Communications, Inc.  
+       P.O. Box 98801  
+       Lakewood, WA 98496
+
+
