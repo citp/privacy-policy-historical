@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coolblackberrythemes.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218224430id_/http%3A//coolblackberrythemes.com/catalog/information.php%3Finfo_id%3D11) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolblackberrythemes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522110710id_/http%3A//www.coolblackberrythemes.com/store/index.php%3Froute%3Dinformation/information%26information_id%3D11) for the most accurate reproduction.*
 
-# Cool BlackBerry Themes
+# Privacy Policy
 
 Cool Blackberry Themes is committed to protecting the privacy of our users and customers. We consider the security of personal information to be of the highest importance, and have established standards to maintain and guard against unauthorized access to user information. The following privacy policy outlines how Cool Blackberry Themes collects personal information and what we do with the information once it is collected.
 
