@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2005-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050204054906id_/http%3A//www.topsecretrecipes.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topsecretrecipes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522181802id_/http%3A//www.topsecretrecipes.com/privacy.asp) for the most accurate reproduction.*
 
-# Privacy Policy
+# Top Secret Recipes: Todd Wilbur
 
 TOP SECRET RECIPES **®** , INC.  
 INTERNET SITE PRIVACY POLICY
@@ -15,8 +15,4 @@ We urge parents to regularly monitor and supervise their children’s on-line ac
 
 ADVERTISEMENTS
 
-Some of the ads appearing on this Web site are delivered to you by MaxWorldWide, our Web advertising partner. In the course of delivering an ad to you MaxWorldWide collects certain non-personally identifiable information about your visits to this and other Web sites. This information is used to deliver tailored ads to you. During this process, MaxWorldWide may also place or recognize a unique "cookie" on your browser. MaxWorldWide has significant security measures in place in their physical facilities and in their computer systems, databases, and communications networks to strictly protect information contained within their systems from loss, misuse or alteration. If you would like to know more about the information gathering practices and "opt-out" procedures of MaxWorldWide, please click [here](http://www.doubleclick.net/privacy_policy/).  
-
-
-Copyright © 2003 Top Secret Recipes, Inc. All Rights Reserved  
-[Terms and Conditions](https://web.archive.org/web/20050204054906id_/http%3A//www.topsecretrecipes.com/terms.htm)
+Some of the ads appearing on this Web site are delivered to you by MaxWorldWide, our Web advertising partner. In the course of delivering an ad to you MaxWorldWide collects certain non-personally identifiable information about your visits to this and other Web sites. This information is used to deliver tailored ads to you. During this process, MaxWorldWide may also place or recognize a unique "cookie" on your browser. MaxWorldWide has significant security measures in place in their physical facilities and in their computer systems, databases, and communications networks to strictly protect information contained within their systems from loss, misuse or alteration. If you would like to know more about the information gathering practices and "opt-out" procedures of MaxWorldWide, please click [here](http://www.doubleclick.net/privacy_policy/)
