@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230114440id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bakersshoes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522143326id_/http%3A//www.bakersshoes.com/privacy_security.aspx) for the most accurate reproduction.*
 
 # Bakers Shoes - Fashion Shoes for Women - Sandals, Boots, Dress Shoes, Pumps, Platforms, Flats, Handbags, Accessories
 
