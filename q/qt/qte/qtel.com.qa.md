@@ -1,37 +1,7 @@
-> *The following text is extracted and transformed from the qtel.com.qa privacy policy that was archived on 2008-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/Privacy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qtel.com.qa privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522022651id_/http%3A//www.qtel.qa/Privacy.do) for the most accurate reproduction.*
 
 # Privacy Statement
 
-|  | [Home](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/IndexPage.do) >> Products and Services>>Privacy Statement  
----|---  
-  
-|  | 
-
-| [](javascript:eqtel\(\);)  
----  
-[__eQtel Service__](javascript:eqtel\(\);)  
-   
-[](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/WhteAdvPg.do)  
-[__On line directory__](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/WhteAdvPg.do)  
-   
-[](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/MyTools.do)  
-[__Internet Qatar__](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/MyTools.do)  
-   
-[](javascript:mozaic\(\);)  
-[__Mozaic__](javascript:mozaic\(\);)  
-   
-[](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/Procurement.do)  
-[__eProcurement__](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/Procurement.do)  
-   
-[](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/Regulatory.do)  
-[__Regulatory and Interconnect__](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/Regulatory.do)  
-  
-|  |  |   
----|---|---  
-|  |   
-  
----  
-  
 **Information about our Web site**
 
 Modern information and communication technologies play a fundamental role in our activities. Qtel is based in Qatar. Our principal activity is Telecommunication. Our privacy policy covers the Web Site. Our legal disclaimer above is applicable for your use of the Web Site, and is linked with this Privacy policy. By viewing the pages of this Web Site, you do acknowledge that you did read and accept our disclaimer and Privacy policy. If you do not want to accept the legal disclaimer and/or the privacy policy, you should leave the Web Site.   
@@ -55,10 +25,6 @@ If you are just surfing and reading information on the Web Site, as any other we
 We only use these anonymous information for statistical reasons and we will not give these anonymous information to any third party. We may keep more extensive information if we are concerned, for example, about security issues (attack against the Web Site). If necessary, or following a request of the relevant public authority, we may then keep and give to the relevant authority additional information within the legal framework of the law of Qatar.   
 If you give us more information, like your email address if you contact Qtel, we will only use this information for the purpose of the service or information you requested from Qtel.   
 If you log in to Messenger express trough the Web Site, Qtel will not keep any information concerning the way you use this service that is governed by the specific terms and conditions you accepted before receiving your email address. 
-
-**Cookies**
-
-We do not use cookies on our Web site.
 
 **The services and links of our Web site**
 
@@ -86,40 +52,4 @@ If you have an enquiry or concern about our privacy policy, please contact us at
 
 **Change of this policy**
 
-Qtel reserves the right to change, adapt, adjust this Privacy policy on the Web Site without any prior notification. You aknowledge and agree that this Policy may change from time to time and you realise that the latest version is applicable when you visit the Web Site.   
-  
-|    
----  
-|  News and events  
----  
-|  **Roam & Win with Qtel   
-
-
-[More...
-
-](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/NewsFull.do?News=10023 "Click here for more") ** |    
----|---  
-[ Qtel announces new collaboration with Jumbo ](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/NewsFull.do?News=10022 "click here for details")  
-  
-[_Other news_](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/NewsInfo.do "click here for more news")  
-[](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/CustomerCare.do)  
-|    Promotions  
----  
-  
-**Roam & Win   
-
-
-[More...
-
-](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/PromotionFull.do?PromotionFull=10001 "Click here for more")**  
-  
-|    Locate a Qtel Shop  
----  
-|   Qtel Stock   
----  
-15-06-2008       195.50   
-  
-  
-[More...
-
-](https://web.archive.org/web/20080616063013id_/http%3A//www.qtel.com.qa/InvestorRelationsAction.do "Click here for more")
+Qtel reserves the right to change, adapt, adjust this Privacy policy on the Web Site without any prior notification. You aknowledge and agree that this Policy may change from time to time and you realise that the latest version is applicable when you visit the Web Site. 
