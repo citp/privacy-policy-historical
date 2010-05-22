@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highstakeholdings.com privacy policy that was archived on 2009-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090613045356id_/http%3A//highstakeholdings.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highstakeholdings.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522083950id_/http%3A//www.highstakeholdings.com/privacy_policy.php) for the most accurate reproduction.*
 
 # High Stake Holdings
 
