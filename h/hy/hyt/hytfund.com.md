@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hytfund.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205035917id_/http%3A//www.hytfund.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hytfund.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522195141id_/http%3A//hytfund.com/privacy.html) for the most accurate reproduction.*
 
 # High Yield Trading Fund
 
@@ -8,7 +8,7 @@ This privacy policy sets out how hytfund.com uses and protects any information t
 
 Hytfund.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
-Hytfund.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+Hytfund.com may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
 ### What we collect
 
