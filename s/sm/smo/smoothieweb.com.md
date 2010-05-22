@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121083005id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smoothieweb.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522171236id_/http%3A//www.smoothieweb.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Smoothie Recipes : Fruit Smoothies Recipe: Healthy Smoothies
 
@@ -12,6 +12,6 @@ Smoothieweb.com also provides links to affiliated sites. The privacy policies of
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-[Tweet This Post](http://twitter.com/home/?status=Privacy+http://tinyurl.com/nk587t "Post to Twitter") [Delicious](http://delicious.com/post?url=http://www.smoothieweb.com/privacy/&title=Privacy "Post to Delicious") [Stumble This Post](http://stumbleupon.com/submit?url=http://www.smoothieweb.com/privacy/&title=Privacy "Post to StumbleUpon")
+[](http://twitter.com/home/?status=Privacy+http://6oqz7.th8.us "Post to Twitter") [](http://www.facebook.com/share.php?u=http://www.smoothieweb.com/privacy/&t=Privacy "Post to Facebook") [](http://stumbleupon.com/submit?url=http://www.smoothieweb.com/privacy/&title=Privacy "Post to StumbleUpon")
 
 #### Related posts
