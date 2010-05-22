@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the xmediapartners.com privacy policy that was archived on 2009-11-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091121180948id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the xmediapartners.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522114826id_/http%3A//www.xmediapartners.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title> -  :: Xmedia Partners</title>
@@ -35,7 +35,7 @@
 			<a href="index.php">
 			<br>
 			<img border="0" src="images/mhdiscover.gif" width="238" height="40"></a>
-      <br>
+<br>
       </td>
           </tr>
         </tbody>
@@ -48,7 +48,7 @@
           <tbody>
             <tr>
               <td valign="bottom"><strong><font size="4">
-              The media company devoted exclusively to answering your questions.
+              GoFTP Answers: An open Q&amp;A on topics of your choice.
               </font></strong></td>
               <td>&nbsp;</td>
               <td>&nbsp;</td>
@@ -66,17 +66,19 @@
     <tbody><tr>
       <td align="center" style="padding-left:180px;" width="100%">
       
-      
+      <br>
+
+
 <form action="http://www.google.com/cse" id="cse-search-box">
   <div>
-    <input type="hidden" name="cx" value="partner-pub-8917950167310020:c4kxqivt25f">
+    <input type="hidden" name="cx" value="partner-pub-8917950167310020:69qe5yp3vjz">
     <input type="hidden" name="ie" value="ISO-8859-1">
     <input type="text" name="q" size="31">
     <input type="submit" name="sa" value="Search">
   </div>
 </form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
       </td>
      </tr>
@@ -149,6 +151,9 @@ function getMouseXY(e) {
   return true
 }
 
+var buthtml="";
+var savebuthtml;
+var returnres;
 
 function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     var xmlHttpReq = false;
@@ -166,8 +171,9 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     self.xmlHttpReq.onreadystatechange = function() {
         if (self.xmlHttpReq.readyState == 4) {
 		if (SpanName.length==0) {
-			alert(self.xmlHttpReq.responseText);
+			returnres=self.xmlHttpReq.responseText;
 		} else {
+            	//document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText.replace("{newform}",unescape(gnewform)); //this global variable isnt defined on home page so if you reuse you must add this global to homepage somehow
             	document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
 			if (buthtml.length>0) {
 				document.getElementById("rbut").innerHTML=buthtml;
@@ -178,9 +184,16 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     }
     self.xmlHttpReq.send(strQRY);
 }
-var buthtml;
-var savebuthtml;
-function doaddnewq(id,rid) {
+
+function doaddnewq(mode,id,rid) {
+if (mode=='subscribe'){
+	var qstr = "user_name="+escape(rid.newuser_name.value);
+	//qstr=qstr+"&userf_name="+escape(rid.newuserf_name.value);
+	//qstr = qstr + "&userl_name="+escape(rid.newuserl_name.value);
+	qstr = qstr + "&usere_add="+escape(rid.newusere_add.value)+"&question_ID="+id;
+	xmlhttpPost("saveanswer.php?"+qstr,"","addnewqbut",true);
+
+}else {
 	var rform = document.getElementById(id);
 	if (rform.title.value.length<30) {
 		alert("Your question is too short.");
@@ -190,124 +203,274 @@ function doaddnewq(id,rid) {
 			alert("Not enough detail.  Include more details in the question detail box.");
 			rform.newtext.focus();
 		} else {
-			buthtml = document.getElementById("rbut").innerHTML;
-			document.getElementById("rbut").innerHTML = "<b>Saving.... Please wait....</b>";
-			var qstr = "title=" + encodeURI(rform.title.value)+"&newtext=" + encodeURI(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
-			xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
+			buthtml = document.getElementById("addnewqbut").innerHTML;
+			document.getElementById("addnewqbut").innerHTML = "<b>Saving.... Please wait....</b>";
+			var qstr = "title=" + escape(rform.title.value)+"&newtext=" + escape(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
+			//document.getElementById("qsubuser").innerHTML = "<H2 class=header>Subscribe Below:<br><br></H2>";
+			//xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
+			xmlhttpPost("saveanswer.php",qstr,"addnewqbut",true);
 		}
 	}
+}
+}
+
+function dologin(id,pass) {
+	var qstr = "uid=" + escape(id.value)+"&pass=" + escape(pass.value)+"&txy="+(tempX+tempY)+"&cmd=login";
+	xmlhttpPost("saveanswer.php",qstr,"passres",false);
+	return (document.getElementById("passres").innerHTML=="");
+}
+
+function sendpass(email) {
+	var qstr = "email=" + escape(email)+"&txy="+(tempX+tempY)+"&cmd=recoverpass";
+	xmlhttpPost("saveanswer.php",qstr,"lostpassform",true);
+}
+
+function lostpass() {
+	var fhtml="";
+	var remail="";
+	fhtml+="<div id=lostpassform><form name=forgotpass>";
+
+        fhtml+="                        <br><div style=\"font-weight:bold;text-align:center;color:green;font-size:14px\">Lost Password?<br>Enter your email address:</div> ";
+        fhtml+="                        <div style=\"text-align:left;padding-left:20px;padding-right:20px;font-size:12px\">	";
+        fhtml+="                        <br>Email:<br><input type=\"text\" name=\"email\" size=24 onchange=\"remail=this.value\"><br>		";
+        fhtml+="                        <input type=\"submit\" name=\"recoverpass\" value=\"Recover Password\" onClick=\"javascript:sendpass(remail);return false;\"><br>		";
+        fhtml+="                        </div>	";
+
+	fhtml+="</form></div>";
+	document.getElementById("loginform").innerHTML=fhtml;
+}
+
+
+var gpass1;
+var gpass2;
+function checkpass(p1,p2) {
+        var rc=true;
+        if (p1=="") p1=gpass1;
+        if (p2=="") p2=gpass2;
+        if (p1!=p2) {
+                alert("The passwords you typed do not match.  Please retype your passwords.");
+                rc=false;
+        } else {
+                if (p1.length<5) {
+                        alert("Your password is too short.");
+                        rc=false;
+                }
+        }
+        return rc;
+}
+
+
+function savenewuser(uid, uqid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(form.newuser_name.value)+"&usere_add="+escape(form.newusere_add.value)+"&pass="+escape(form.newuserpass1.value)+"&question_ID="+uqid,"spanres"+uid,true);
+}
+
+function subscribeuser(qid,uid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","qid="+qid+"&uid="+uid+"&cmd=subscribeuser","spanabuse",true);
+}
+var guser;
+var gemail;
+
+
+function adduser(uid,qid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(guser)+"&usere_add="+escape(gemail)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&cmd=adduser","spanabuse",true);
+}
+
+function unsubscribeuser(qid,uid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","qid="+qid+"&uid="+uid+"&cmd=unsubscribeuser","spanabuse",true);
+}
+</script>
+<script>
+
+// To Validate the Email
+function IsEmail(obj, msgstr)
+{
+        if(obj.value.trim() == "")
+        {
+                alert(msgstr);
+                obj.focus();
+                return false;
+        }
+        else
+        {
+            if(obj.value.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1)
+            return true;
+            else
+                {
+                        alert("Email is invalid" );
+                        obj.focus();
+            return false;
+                }
+        }
+}
+
+
+function IsBlank(obj,msg) {
+                if(obj.value.trim() == "") {
+                        alert(msg);
+                        obj.focus();
+                        return false;
+                }
+                return true;
+}
+
+function frontcreateaccount() {
+        if(!IsBlank(document.frmCrRegister.txtfname,"Please Enter First Name"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtlname,"Please Enter Last Name"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtmail,"Please Enter Email Addres"))
+                return false;
+        if(!IsEmail(document.frmCrRegister.txtmail,"Invalid Email Addres"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtuname,"Please Enter Username"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtpassword,"Please Enter Password"))
+                return false;
+        if(document.frmCrRegister.txtpassword.value!=document.frmCrRegister.txtRpassword.value){
+                alert("Please enter your password again and re-type it.");
+                document.frmCrRegister.txtpassword.value="";
+                document.frmCrRegister.txtRpassword.value="";
+                document.frmCrRegister.txtpassword.focus();
+                return false;
+        }
+	document.frmCrRegister.txy.value=tempX+tempY;  
+        return true;
 }
 
 </script>
 
 
 <div id="left">
+
         <div>
           <div id="y-ks-profile-widget">
-            <div id="y-ks-profile-widget-container">
+            <div id="y-ks-profile-widget-container" style="height:0px">
               <div class="corner-top">
                 <div class="corner-left"></div>
               </div>
-              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
-              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
-                <table cellspacing="0" cellpadding="0" border="0">
-                  <tbody>
-                    <tr>
-                      <td style="WIDTH: 60px"><img alt="Answers User" src="images//ptwidget_default_icon.gif"></td>
-                      <td style="FONT-SIZE: 105%; HEIGHT: 50px; TEXT-ALIGN: center" valign="absmiddle" align="middle">Ready to Participate?<br>
-                      <br>Ask your question now!</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
+	    </div>
+		 <div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;">
+			<div style="font-family:arial,helvetica,verdana;font-size:14px;font-weight:bold;color:green;padding:10px">Ask your question fast!<br>No signup necessary</div>
+			  <div style="text-align:left;padding-left:10px">
+				Question<br>
+				<form id="addq" action="">
+				<textarea id="title" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+				Question Detail (required)<br>
+				<textarea id="newtext" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+				<div id="addnewqbut"><input id="addnewq" type="submit" name="submit" value="Save" onclick="javascript:rid=this.id;doaddnewq('','addq',rid);return false;"></div>
+				</form>
+		  	  </div>
+                 </div>
             <div class="corner-bottom">
               <div class="corner-left"></div>
             </div>
           </div>
         </div>
+
+
         <div>
           <div id="y-ks-profile-widget">
-            <div id="y-ks-profile-widget-container-login">
+            <div id="y-ks-profile-widget-container" style="height:0px">
               <div class="corner-top">
                 <div class="corner-left"></div>
               </div>
-              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
-              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
-              			<table cellpadding="3" cellspacing="0" border="0" width="80%" align="center">
-					<tbody><tr>
-					<td align="center"><strong></strong></td>
-				</tr>
-<tr>
-<td width="100%" align="left" class="tbltd" colspan="2" rowspan="1">
-<div style="font-weight:bold;color:green">Ask your question in just seconds!  No signup necessary.</div><br>Question<br>
-<form id="addq" action="">
-<textarea id="title" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
-Question Detail (required)<br>
-<textarea id="newtext" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
-<div id="rbut"><input id="addnewq" type="submit" name="submit" value="Save" onclick="javascript:rid=this.id;doaddnewq('addq',rid);return false;">
-</div>
-</form>
-
-</td>
-</tr>
-
-
-</tbody></table>
-              </div>
             </div>
-<div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;"><br></div>
+
+
+
+
+				<div id="loginform">
+ 				<form name="frmLogin" id="frmLogin" action="" onsubmit="javascript:return(dologin(this.txtUsername,this.txtPassword));" method="post">
+				<br><div style="font-weight:bold;text-align:center;color:green;font-size:14px">Login or Signup Now</div>
+				<div style="text-align:left;padding-left:20px;padding-right:20px;font-size:12px">
+				<div id="passres" style="color:red"></div>
+                                <br>Username:<br><input type="text" name="txtUsername" size="24"><br>
+                                Password:<br><input type="password" name="txtPassword" size="24"><br>
+				<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td style="text-align:left">
+                                <input type="submit" name="cmdLogin" value="Login"><br>
+				</td><td style="text-align:right">
+                                <a style="font-size:11px" href="createaccount.php">Create Account</a><br>
+                                <a style="font-size:11px" onclick="javascript:lostpass()">Lost Password</a>
+				</td></tr></tbody></table>
+				</div>
+                        	</form>
+				</div>
+	
+
             <div class="corner-bottom">
               <div class="corner-left"></div>
             </div>
           </div>
         </div>
-		   
-        <h2 class="header">Categories</h2>
+
+
+
+        <div>
+          <div id="y-ks-profile-widget">
+            <div id="y-ks-profile-widget-container" style="height:0px">
+              <div class="corner-top">
+                <div class="corner-left"></div>
+              </div>
+            </div>
+
+
+        <h2 class="header" style="border-top:0px">Categories</h2>
         <div id="categories">
         <div id="cat-undo">
         <ul>
-			        <br><br><b>2. </b><li style="display: inline;"><a class="subtle" href="2009&#10;-cat.html">2009
-</a></li> <br><br><b>A. </b><li style="display: inline;"><a class="subtle" href="Account&#10;-cat.html">Account
+			        <br><br><b>A. </b><li style="display: inline;"><a class="subtle" href="Account&#10;-cat.html">Account
 </a></li> <li style="display: inline;"><a class="subtle" href="Acne&#10;-cat.html">Acne
 </a></li> <li style="display: inline;"><a class="subtle" href="Adipex&#10;-cat.html">Adipex
 </a></li> <li style="display: inline;"><a class="subtle" href="Africa&#10;-cat.html">Africa
+</a></li> <li style="display: inline;"><a class="subtle" href="Allowed&#10;-cat.html">Allowed
 </a></li> <li style="display: inline;"><a class="subtle" href="America&#10;-cat.html">America
 </a></li> <li style="display: inline;"><a class="subtle" href="Annuity&#10;-cat.html">Annuity
 </a></li> <li style="display: inline;"><a class="subtle" href="Appetite&#10;-cat.html">Appetite
+</a></li> <li style="display: inline;"><a class="subtle" href="Arm&#10;-cat.html">Arm
+</a></li> <li style="display: inline;"><a class="subtle" href="Around&#10;-cat.html">Around
 </a></li> <li style="display: inline;"><a class="subtle" href="Average&#10;-cat.html">Average
+</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.02&#10;-cat.html">Average&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.03&#10;-cat.html">Average&nbsp;Cont.03
+</a></li> <li style="display: inline;"><a class="subtle" href="Average_Cont.04&#10;-cat.html">Average&nbsp;Cont.04
 </a></li> <li style="display: inline;"><a class="subtle" href="Away&#10;-cat.html">Away
 </a></li> <br><br><b>B. </b><li style="display: inline;"><a class="subtle" href="Bank&#10;-cat.html">Bank
+</a></li> <li style="display: inline;"><a class="subtle" href="Bank_Cont.02&#10;-cat.html">Bank&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Beach&#10;-cat.html">Beach
+</a></li> <li style="display: inline;"><a class="subtle" href="Black&#10;-cat.html">Black
 </a></li> <li style="display: inline;"><a class="subtle" href="Blood&#10;-cat.html">Blood
 </a></li> <li style="display: inline;"><a class="subtle" href="Body&#10;-cat.html">Body
 </a></li> <li style="display: inline;"><a class="subtle" href="Bring&#10;-cat.html">Bring
 </a></li> <li style="display: inline;"><a class="subtle" href="Budget&#10;-cat.html">Budget
 </a></li> <li style="display: inline;"><a class="subtle" href="Buffet&#10;-cat.html">Buffet
+</a></li> <li style="display: inline;"><a class="subtle" href="Bump&#10;-cat.html">Bump
 </a></li> <li style="display: inline;"><a class="subtle" href="Burn&#10;-cat.html">Burn
+</a></li> <li style="display: inline;"><a class="subtle" href="Butt&#10;-cat.html">Butt
 </a></li> <br><br><b>C. </b><li style="display: inline;"><a class="subtle" href="California&#10;-cat.html">California
 </a></li> <li style="display: inline;"><a class="subtle" href="Canada&#10;-cat.html">Canada
 </a></li> <li style="display: inline;"><a class="subtle" href="Canadian&#10;-cat.html">Canadian
-</a></li> <li style="display: inline;"><a class="subtle" href="Carat&#10;-cat.html">Carat
+</a></li> <li style="display: inline;"><a class="subtle" href="Capital&#10;-cat.html">Capital
 </a></li> <li style="display: inline;"><a class="subtle" href="Carry&#10;-cat.html">Carry
 </a></li> <li style="display: inline;"><a class="subtle" href="Charge&#10;-cat.html">Charge
 </a></li> <li style="display: inline;"><a class="subtle" href="Charter&#10;-cat.html">Charter
-</a></li> <li style="display: inline;"><a class="subtle" href="Cheaper&#10;-cat.html">Cheaper
 </a></li> <li style="display: inline;"><a class="subtle" href="Cheapest&#10;-cat.html">Cheapest
 </a></li> <li style="display: inline;"><a class="subtle" href="Child&#10;-cat.html">Child
 </a></li> <li style="display: inline;"><a class="subtle" href="Children&#10;-cat.html">Children
-</a></li> <li style="display: inline;"><a class="subtle" href="Clean&#10;-cat.html">Clean
 </a></li> <li style="display: inline;"><a class="subtle" href="Cleopatra&#10;-cat.html">Cleopatra
 </a></li> <li style="display: inline;"><a class="subtle" href="Clothing&#10;-cat.html">Clothing
 </a></li> <li style="display: inline;"><a class="subtle" href="Color&#10;-cat.html">Color
 </a></li> <li style="display: inline;"><a class="subtle" href="Company&#10;-cat.html">Company
+</a></li> <li style="display: inline;"><a class="subtle" href="Cost&#10;-cat.html">Cost
+</a></li> <li style="display: inline;"><a class="subtle" href="Country&#10;-cat.html">Country
 </a></li> <li style="display: inline;"><a class="subtle" href="Credit&#10;-cat.html">Credit
 </a></li> <li style="display: inline;"><a class="subtle" href="Credit_Cont.02&#10;-cat.html">Credit&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Cubic&#10;-cat.html">Cubic
 </a></li> <li style="display: inline;"><a class="subtle" href="Currency&#10;-cat.html">Currency
 </a></li> <li style="display: inline;"><a class="subtle" href="Cushion&#10;-cat.html">Cushion
 </a></li> <li style="display: inline;"><a class="subtle" href="Cycle&#10;-cat.html">Cycle
-</a></li> <br><br><b>D. </b><li style="display: inline;"><a class="subtle" href="Day&#10;-cat.html">Day
+</a></li> <li style="display: inline;"><a class="subtle" href="Cyst&#10;-cat.html">Cyst
+</a></li> <br><br><b>D. </b><li style="display: inline;"><a class="subtle" href="Daily&#10;-cat.html">Daily
+</a></li> <li style="display: inline;"><a class="subtle" href="Dark&#10;-cat.html">Dark
+</a></li> <li style="display: inline;"><a class="subtle" href="Day&#10;-cat.html">Day
 </a></li> <li style="display: inline;"><a class="subtle" href="Deep&#10;-cat.html">Deep
 </a></li> <li style="display: inline;"><a class="subtle" href="Deposit&#10;-cat.html">Deposit
 </a></li> <li style="display: inline;"><a class="subtle" href="Dial&#10;-cat.html">Dial
@@ -315,45 +478,62 @@ Question Detail (required)<br>
 </a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.02&#10;-cat.html">Diamond&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.03&#10;-cat.html">Diamond&nbsp;Cont.03
 </a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.04&#10;-cat.html">Diamond&nbsp;Cont.04
+</a></li> <li style="display: inline;"><a class="subtle" href="Diamond_Cont.05&#10;-cat.html">Diamond&nbsp;Cont.05
 </a></li> <li style="display: inline;"><a class="subtle" href="Diego&#10;-cat.html">Diego
 </a></li> <li style="display: inline;"><a class="subtle" href="Diet&#10;-cat.html">Diet
 </a></li> <li style="display: inline;"><a class="subtle" href="Difference&#10;-cat.html">Difference
 </a></li> <li style="display: inline;"><a class="subtle" href="Disney&#10;-cat.html">Disney
 </a></li> <li style="display: inline;"><a class="subtle" href="Disneyland&#10;-cat.html">Disneyland
 </a></li> <li style="display: inline;"><a class="subtle" href="Dont&#10;-cat.html">Dont
-</a></li> <br><br><b>E. </b><li style="display: inline;"><a class="subtle" href="Egypt&#10;-cat.html">Egypt
+</a></li> <br><br><b>E. </b><li style="display: inline;"><a class="subtle" href="Early&#10;-cat.html">Early
+</a></li> <li style="display: inline;"><a class="subtle" href="Earn&#10;-cat.html">Earn
+</a></li> <li style="display: inline;"><a class="subtle" href="Eating&#10;-cat.html">Eating
+</a></li> <li style="display: inline;"><a class="subtle" href="Egypt&#10;-cat.html">Egypt
 </a></li> <li style="display: inline;"><a class="subtle" href="Electromagnetic&#10;-cat.html">Electromagnetic
 </a></li> <li style="display: inline;"><a class="subtle" href="Email&#10;-cat.html">Email
 </a></li> <li style="display: inline;"><a class="subtle" href="Equity&#10;-cat.html">Equity
 </a></li> <li style="display: inline;"><a class="subtle" href="Estate&#10;-cat.html">Estate
 </a></li> <li style="display: inline;"><a class="subtle" href="Europe&#10;-cat.html">Europe
 </a></li> <li style="display: inline;"><a class="subtle" href="Exercise&#10;-cat.html">Exercise
-</a></li> <br><br><b>F. </b><li style="display: inline;"><a class="subtle" href="F150&#10;-cat.html">F150
-</a></li> <li style="display: inline;"><a class="subtle" href="Face&#10;-cat.html">Face
+</a></li> <li style="display: inline;"><a class="subtle" href="Expensive&#10;-cat.html">Expensive
+</a></li> <br><br><b>F. </b><li style="display: inline;"><a class="subtle" href="Face&#10;-cat.html">Face
+</a></li> <li style="display: inline;"><a class="subtle" href="Family&#10;-cat.html">Family
 </a></li> <li style="display: inline;"><a class="subtle" href="Fast&#10;-cat.html">Fast
 </a></li> <li style="display: inline;"><a class="subtle" href="Florida&#10;-cat.html">Florida
 </a></li> <li style="display: inline;"><a class="subtle" href="Florida_Cont.02&#10;-cat.html">Florida&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Fly&#10;-cat.html">Fly
+</a></li> <li style="display: inline;"><a class="subtle" href="Football&#10;-cat.html">Football
+</a></li> <li style="display: inline;"><a class="subtle" href="Ford&#10;-cat.html">Ford
 </a></li> <li style="display: inline;"><a class="subtle" href="Foreign&#10;-cat.html">Foreign
 </a></li> <li style="display: inline;"><a class="subtle" href="Foreigner&#10;-cat.html">Foreigner
 </a></li> <li style="display: inline;"><a class="subtle" href="Forex&#10;-cat.html">Forex
 </a></li> <br><br><b>G. </b><li style="display: inline;"><a class="subtle" href="Gold&#10;-cat.html">Gold
-</a></li> <br><br><b>H. </b><li style="display: inline;"><a class="subtle" href="Heal&#10;-cat.html">Heal
-</a></li> <li style="display: inline;"><a class="subtle" href="Hire&#10;-cat.html">Hire
+</a></li> <li style="display: inline;"><a class="subtle" href="Government&#10;-cat.html">Government
+</a></li> <li style="display: inline;"><a class="subtle" href="Green&#10;-cat.html">Green
+</a></li> <br><br><b>H. </b><li style="display: inline;"><a class="subtle" href="Haiti&#10;-cat.html">Haiti
+</a></li> <li style="display: inline;"><a class="subtle" href="Happen&#10;-cat.html">Happen
+</a></li> <li style="display: inline;"><a class="subtle" href="Head&#10;-cat.html">Head
+</a></li> <li style="display: inline;"><a class="subtle" href="Heal&#10;-cat.html">Heal
 </a></li> <li style="display: inline;"><a class="subtle" href="Hotel&#10;-cat.html">Hotel
+</a></li> <li style="display: inline;"><a class="subtle" href="How&#10;-cat.html">How
 </a></li> <li style="display: inline;"><a class="subtle" href="Huge&#10;-cat.html">Huge
 </a></li> <li style="display: inline;"><a class="subtle" href="Human&#10;-cat.html">Human
 </a></li> <li style="display: inline;"><a class="subtle" href="Hurt&#10;-cat.html">Hurt
-</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Infrared&#10;-cat.html">Infrared
+</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Identification&#10;-cat.html">Identification
+</a></li> <li style="display: inline;"><a class="subtle" href="India&#10;-cat.html">India
+</a></li> <li style="display: inline;"><a class="subtle" href="Infrared&#10;-cat.html">Infrared
 </a></li> <li style="display: inline;"><a class="subtle" href="Insurance&#10;-cat.html">Insurance
 </a></li> <li style="display: inline;"><a class="subtle" href="Interest&#10;-cat.html">Interest
 </a></li> <li style="display: inline;"><a class="subtle" href="Into&#10;-cat.html">Into
-</a></li> <br><br><b>J. </b><li style="display: inline;"><a class="subtle" href="Jewelry&#10;-cat.html">Jewelry
+</a></li> <li style="display: inline;"><a class="subtle" href="Into_Cont.02&#10;-cat.html">Into&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Itchy&#10;-cat.html">Itchy
 </a></li> <br><br><b>K. </b><li style="display: inline;"><a class="subtle" href="Kid&#10;-cat.html">Kid
 </a></li> <br><br><b>L. </b><li style="display: inline;"><a class="subtle" href="Lasik&#10;-cat.html">Lasik
-</a></li> <li style="display: inline;"><a class="subtle" href="Lawyer&#10;-cat.html">Lawyer
 </a></li> <li style="display: inline;"><a class="subtle" href="Leave&#10;-cat.html">Leave
 </a></li> <li style="display: inline;"><a class="subtle" href="Letter&#10;-cat.html">Letter
+</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.02&#10;-cat.html">Letter&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.03&#10;-cat.html">Letter&nbsp;Cont.03
+</a></li> <li style="display: inline;"><a class="subtle" href="Letter_Cont.04&#10;-cat.html">Letter&nbsp;Cont.04
 </a></li> <li style="display: inline;"><a class="subtle" href="Loan&#10;-cat.html">Loan
 </a></li> <li style="display: inline;"><a class="subtle" href="Looked&#10;-cat.html">Looked
 </a></li> <li style="display: inline;"><a class="subtle" href="Loose&#10;-cat.html">Loose
@@ -362,7 +542,12 @@ Question Detail (required)<br>
 </a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.03&#10;-cat.html">Lose&nbsp;Cont.03
 </a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.04&#10;-cat.html">Lose&nbsp;Cont.04
 </a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.05&#10;-cat.html">Lose&nbsp;Cont.05
-</a></li> <br><br><b>M. </b><li style="display: inline;"><a class="subtle" href="Mail&#10;-cat.html">Mail
+</a></li> <li style="display: inline;"><a class="subtle" href="Lose_Cont.06&#10;-cat.html">Lose&nbsp;Cont.06
+</a></li> <li style="display: inline;"><a class="subtle" href="Lower&#10;-cat.html">Lower
+</a></li> <li style="display: inline;"><a class="subtle" href="Lump&#10;-cat.html">Lump
+</a></li> <br><br><b>M. </b><li style="display: inline;"><a class="subtle" href="Maca&#10;-cat.html">Maca
+</a></li> <li style="display: inline;"><a class="subtle" href="Mail&#10;-cat.html">Mail
+</a></li> <li style="display: inline;"><a class="subtle" href="Memo&#10;-cat.html">Memo
 </a></li> <li style="display: inline;"><a class="subtle" href="Menstruation&#10;-cat.html">Menstruation
 </a></li> <li style="display: inline;"><a class="subtle" href="Minor&#10;-cat.html">Minor
 </a></li> <li style="display: inline;"><a class="subtle" href="Mobile&#10;-cat.html">Mobile
@@ -371,14 +556,21 @@ Question Detail (required)<br>
 </a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.03&#10;-cat.html">Money&nbsp;Cont.03
 </a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.04&#10;-cat.html">Money&nbsp;Cont.04
 </a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.05&#10;-cat.html">Money&nbsp;Cont.05
+</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.06&#10;-cat.html">Money&nbsp;Cont.06
+</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.07&#10;-cat.html">Money&nbsp;Cont.07
+</a></li> <li style="display: inline;"><a class="subtle" href="Money_Cont.08&#10;-cat.html">Money&nbsp;Cont.08
 </a></li> <li style="display: inline;"><a class="subtle" href="Month&#10;-cat.html">Month
 </a></li> <li style="display: inline;"><a class="subtle" href="Mortgage&#10;-cat.html">Mortgage
 </a></li> <li style="display: inline;"><a class="subtle" href="Much&#10;-cat.html">Much
 </a></li> <br><br><b>N. </b><li style="display: inline;"><a class="subtle" href="Naked&#10;-cat.html">Naked
 </a></li> <li style="display: inline;"><a class="subtle" href="National&#10;-cat.html">National
+</a></li> <li style="display: inline;"><a class="subtle" href="Neck&#10;-cat.html">Neck
 </a></li> <li style="display: inline;"><a class="subtle" href="Necklace&#10;-cat.html">Necklace
 </a></li> <li style="display: inline;"><a class="subtle" href="Nose&#10;-cat.html">Nose
-</a></li> <br><br><b>O. </b><li style="display: inline;"><a class="subtle" href="Ontario&#10;-cat.html">Ontario
+</a></li> <br><br><b>O. </b><li style="display: inline;"><a class="subtle" href="Offer&#10;-cat.html">Offer
+</a></li> <li style="display: inline;"><a class="subtle" href="Official&#10;-cat.html">Official
+</a></li> <li style="display: inline;"><a class="subtle" href="Okappa&#10;-cat.html">Okappa
+</a></li> <li style="display: inline;"><a class="subtle" href="Ontario&#10;-cat.html">Ontario
 </a></li> <li style="display: inline;"><a class="subtle" href="Open&#10;-cat.html">Open
 </a></li> <li style="display: inline;"><a class="subtle" href="Orlando&#10;-cat.html">Orlando
 </a></li> <li style="display: inline;"><a class="subtle" href="Other&#10;-cat.html">Other
@@ -390,62 +582,107 @@ Question Detail (required)<br>
 </a></li> <br><br><b>P. </b><li style="display: inline;"><a class="subtle" href="Painful&#10;-cat.html">Painful
 </a></li> <li style="display: inline;"><a class="subtle" href="Panama&#10;-cat.html">Panama
 </a></li> <li style="display: inline;"><a class="subtle" href="Period&#10;-cat.html">Period
+</a></li> <li style="display: inline;"><a class="subtle" href="Period_Cont.02&#10;-cat.html">Period&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Person&#10;-cat.html">Person
+</a></li> <li style="display: inline;"><a class="subtle" href="Phone&#10;-cat.html">Phone
 </a></li> <li style="display: inline;"><a class="subtle" href="Pimple&#10;-cat.html">Pimple
 </a></li> <li style="display: inline;"><a class="subtle" href="Pimple_Cont.02&#10;-cat.html">Pimple&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Pimple_Cont.03&#10;-cat.html">Pimple&nbsp;Cont.03
+</a></li> <li style="display: inline;"><a class="subtle" href="Popped&#10;-cat.html">Popped
 </a></li> <li style="display: inline;"><a class="subtle" href="Popping&#10;-cat.html">Popping
+</a></li> <li style="display: inline;"><a class="subtle" href="Pound&#10;-cat.html">Pound
 </a></li> <li style="display: inline;"><a class="subtle" href="Pregnant&#10;-cat.html">Pregnant
+</a></li> <li style="display: inline;"><a class="subtle" href="Prescribe&#10;-cat.html">Prescribe
+</a></li> <li style="display: inline;"><a class="subtle" href="Price&#10;-cat.html">Price
 </a></li> <li style="display: inline;"><a class="subtle" href="Protect&#10;-cat.html">Protect
 </a></li> <li style="display: inline;"><a class="subtle" href="Protected&#10;-cat.html">Protected
+</a></li> <br><br><b>Q. </b><li style="display: inline;"><a class="subtle" href="Quality&#10;-cat.html">Quality
 </a></li> <br><br><b>R. </b><li style="display: inline;"><a class="subtle" href="Rate&#10;-cat.html">Rate
+</a></li> <li style="display: inline;"><a class="subtle" href="Ready&#10;-cat.html">Ready
 </a></li> <li style="display: inline;"><a class="subtle" href="Really&#10;-cat.html">Really
 </a></li> <li style="display: inline;"><a class="subtle" href="Realtor&#10;-cat.html">Realtor
 </a></li> <li style="display: inline;"><a class="subtle" href="Reduce&#10;-cat.html">Reduce
+</a></li> <li style="display: inline;"><a class="subtle" href="Rely&#10;-cat.html">Rely
 </a></li> <li style="display: inline;"><a class="subtle" href="Rent&#10;-cat.html">Rent
 </a></li> <li style="display: inline;"><a class="subtle" href="Rental&#10;-cat.html">Rental
 </a></li> <li style="display: inline;"><a class="subtle" href="Request&#10;-cat.html">Request
 </a></li> <li style="display: inline;"><a class="subtle" href="Rid&#10;-cat.html">Rid
 </a></li> <li style="display: inline;"><a class="subtle" href="Ride&#10;-cat.html">Ride
 </a></li> <li style="display: inline;"><a class="subtle" href="Ring&#10;-cat.html">Ring
-</a></li> <br><br><b>S. </b><li style="display: inline;"><a class="subtle" href="Service&#10;-cat.html">Service
-</a></li> <li style="display: inline;"><a class="subtle" href="Si2&#10;-cat.html">Si2
+</a></li> <br><br><b>S. </b><li style="display: inline;"><a class="subtle" href="Scratch&#10;-cat.html">Scratch
+</a></li> <li style="display: inline;"><a class="subtle" href="Sell&#10;-cat.html">Sell
+</a></li> <li style="display: inline;"><a class="subtle" href="Service&#10;-cat.html">Service
+</a></li> <li style="display: inline;"><a class="subtle" href="Size&#10;-cat.html">Size
 </a></li> <li style="display: inline;"><a class="subtle" href="Skin&#10;-cat.html">Skin
+</a></li> <li style="display: inline;"><a class="subtle" href="Skin_Cont.02&#10;-cat.html">Skin&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Sodium&#10;-cat.html">Sodium
+</a></li> <li style="display: inline;"><a class="subtle" href="Someone&#10;-cat.html">Someone
 </a></li> <li style="display: inline;"><a class="subtle" href="Sore&#10;-cat.html">Sore
 </a></li> <li style="display: inline;"><a class="subtle" href="Sparkle&#10;-cat.html">Sparkle
 </a></li> <li style="display: inline;"><a class="subtle" href="Spend&#10;-cat.html">Spend
 </a></li> <li style="display: inline;"><a class="subtle" href="Spend_Cont.02&#10;-cat.html">Spend&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Spot&#10;-cat.html">Spot
-</a></li> <li style="display: inline;"><a class="subtle" href="Stock&#10;-cat.html">Stock
 </a></li> <li style="display: inline;"><a class="subtle" href="Stop&#10;-cat.html">Stop
 </a></li> <li style="display: inline;"><a class="subtle" href="Sued&#10;-cat.html">Sued
+</a></li> <li style="display: inline;"><a class="subtle" href="Supposed&#10;-cat.html">Supposed
 </a></li> <li style="display: inline;"><a class="subtle" href="Surface&#10;-cat.html">Surface
 </a></li> <li style="display: inline;"><a class="subtle" href="Surgery&#10;-cat.html">Surgery
-</a></li> <br><br><b>T. </b><li style="display: inline;"><a class="subtle" href="To&#10;-cat.html">To
+</a></li> <li style="display: inline;"><a class="subtle" href="Swollen&#10;-cat.html">Swollen
+</a></li> <br><br><b>T. </b><li style="display: inline;"><a class="subtle" href="Throw&#10;-cat.html">Throw
+</a></li> <li style="display: inline;"><a class="subtle" href="Thyroid&#10;-cat.html">Thyroid
+</a></li> <li style="display: inline;"><a class="subtle" href="Ticket&#10;-cat.html">Ticket
+</a></li> <li style="display: inline;"><a class="subtle" href="Trade&#10;-cat.html">Trade
+</a></li> <li style="display: inline;"><a class="subtle" href="Trading&#10;-cat.html">Trading
 </a></li> <li style="display: inline;"><a class="subtle" href="Travel&#10;-cat.html">Travel
+</a></li> <li style="display: inline;"><a class="subtle" href="Treat&#10;-cat.html">Treat
+</a></li> <li style="display: inline;"><a class="subtle" href="Trip&#10;-cat.html">Trip
+</a></li> <li style="display: inline;"><a class="subtle" href="Truck&#10;-cat.html">Truck
 </a></li> <li style="display: inline;"><a class="subtle" href="Type&#10;-cat.html">Type
 </a></li> <br><br><b>U. </b><li style="display: inline;"><a class="subtle" href="United&#10;-cat.html">United
 </a></li> <li style="display: inline;"><a class="subtle" href="University&#10;-cat.html">University
 </a></li> <li style="display: inline;"><a class="subtle" href="Usa&#10;-cat.html">Usa
 </a></li> <li style="display: inline;"><a class="subtle" href="Used&#10;-cat.html">Used
 </a></li> <br><br><b>V. </b><li style="display: inline;"><a class="subtle" href="Vacation&#10;-cat.html">Vacation
+</a></li> <li style="display: inline;"><a class="subtle" href="Visit&#10;-cat.html">Visit
+</a></li> <li style="display: inline;"><a class="subtle" href="Vitamin&#10;-cat.html">Vitamin
 </a></li> <br><br><b>W. </b><li style="display: inline;"><a class="subtle" href="Wedding&#10;-cat.html">Wedding
 </a></li> <li style="display: inline;"><a class="subtle" href="Week&#10;-cat.html">Week
+</a></li> <li style="display: inline;"><a class="subtle" href="Weigh&#10;-cat.html">Weigh
 </a></li> <li style="display: inline;"><a class="subtle" href="Weight&#10;-cat.html">Weight
 </a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.02&#10;-cat.html">Weight&nbsp;Cont.02
 </a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.03&#10;-cat.html">Weight&nbsp;Cont.03
 </a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.04&#10;-cat.html">Weight&nbsp;Cont.04
 </a></li> <li style="display: inline;"><a class="subtle" href="Weight_Cont.05&#10;-cat.html">Weight&nbsp;Cont.05
+</a></li> <li style="display: inline;"><a class="subtle" href="What&#10;-cat.html">What
 </a></li> <li style="display: inline;"><a class="subtle" href="White&#10;-cat.html">White
+</a></li> <li style="display: inline;"><a class="subtle" href="Whitehead&#10;-cat.html">Whitehead
 </a></li> <li style="display: inline;"><a class="subtle" href="Wife&#10;-cat.html">Wife
 </a></li> <li style="display: inline;"><a class="subtle" href="Within&#10;-cat.html">Within
+</a></li> <li style="display: inline;"><a class="subtle" href="Wont&#10;-cat.html">Wont
+</a></li> <li style="display: inline;"><a class="subtle" href="Work&#10;-cat.html">Work
 </a></li> <li style="display: inline;"><a class="subtle" href="Worth&#10;-cat.html">Worth
+</a></li> <li style="display: inline;"><a class="subtle" href="Write&#10;-cat.html">Write
 </a></li> <br><br><b>Y. </b><li style="display: inline;"><a class="subtle" href="Yurman&#10;-cat.html">Yurman
 </a></li> <br><br><b>Z. </b><li style="display: inline;"><a class="subtle" href="Zit&#10;-cat.html">Zit
 </a></li> </ul>
-        </div>
-        </div>
-        <img height="1" alt="" src="images/b.gif" width="1">
-        </div>
+
+
+          </div>
+          </div>
+
+
+            <div class="corner-bottom">
+              <div class="corner-left"></div>
+            </div>
+          </div>
+          </div>
+          </div>
+
+
+
+
+
+
       
        	<div id="middle">
 				<div id="ks-homepage-heading">Contact Us </div>
@@ -453,31 +690,28 @@ Question Detail (required)<br>
 				
 
 				<div class="silk_hp_open" id="ks-homepage-questions">
-									<table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
-						<tbody>
-														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
-								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
-								<td class="info"><a href="http://xmediapartners.com/Diet_Pills-qna60.html">
-								<h2>GoFTP.com</h2>
-								</a><br>This is the web site of <b>GoFTP.com</b>.<br>
-<p>Our postal address is <br>
+									<p>Our postal address is <br>
 
 <b>400 CARLINGVIEW DR<br>
 Toronto, ON, M9W 5X9</b></p>
-We can be reached via e-mail at <a href="mailto:info@xmediapartners.com">info@GoFTP.com</a><br>
-or you can reach us by telephone at 416-884-8309<br>
-<p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p>
-<p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p>
-<p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p>
-<p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p>
+We can be reached via e-mail at <a href="mailto:admin@goftp.com">admin@goftp.com</a><br><p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p><p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p><p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p><p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p><p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p><p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p><p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p><p><br>
+								  </p><table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
+								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
 
-<p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
-<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p>
-<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
 
-								<p><br>
-								  </p></td>
+
+
+
+
+
+
+
+
+
+
+								
 							</tr>
 													</tbody>
 					</table>
@@ -532,6 +766,21 @@ or you can reach us by telephone at 416-884-8309<br>
 		</table>
 
 </div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11563508-1");
+/* 
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true);
+*/
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 
 
