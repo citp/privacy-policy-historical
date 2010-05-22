@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the freeadsau.com privacy policy that was archived on 2009-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090501195730id_/http%3A//www.freeadsau.com/static/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the freeadsau.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522210458id_/http%3A//www.freeadsau.com/static/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Free Ads Australia | Privacy Policy </title><meta name="Keywords" content="Free Ads Australia"><meta name="Description" content="privacy policy Free Ads Australia">
@@ -18,6 +18,10 @@
 <script type="text/javascript" src="/_html/tinymce/jscripts/tiny_mce/tiny_mce.js"></script>
 <script type="text/javascript" src="/_mm/_js/skypeCheck.js"></script>
 <script type="text/javascript" src="/_mm/_js/lightbox.js"></script>
+
+<script type="text/javascript" src="/_mm/_js/jquery-1.2.6.pack.js"></script>
+<script type="text/javascript" src="/_mm/_js/easySlider1.7.js"></script>
+<script type="text/javascript" src="/_mm/_js/jcarousellite_1.0.1.pack.js"></script>
 
 
 <meta name="robots" content="index,follow">
@@ -38,7 +42,6 @@
 <!-- COPY CODE !!! Don't spend your time trying to copy our design code, contact us and were happy to talk about possible partnerships.
 Partner with us in you're exciting web 2.0 portal idea.  (c) Copyright 2006 by freeadsau 2.0 All Rights Reserved. -->
 
-
 <script type="text/javascript">
 //<![CDATA[
 tinyMCE.init({
@@ -54,8 +57,41 @@ theme_advanced_toolbar_location : 'top'
 //]]>
 </script>
 
+
 <script type="text/javascript">
 	createCookie('freeadsau_v3', '1', 30);
+	var $j = jQuery.noConflict();
+	$j(document).ready(function(){
+	
+		$j("#new_stuff").css('visibility','visible');
+		$j("#popular_popup").css('visibility','visible');
+		$j("#categories").css('visibility','visible');
+		
+		$j(".slider1").jCarouselLite(
+		{
+	        btnNext: ".pasek_popular_prawo",
+        	btnPrev: ".pasek_popular_lewo",
+			visible: 6,
+			scroll: 6,
+			circular: false
+   	 	});
+		$j(".slider2").jCarouselLite(
+		{
+	        btnNext: ".pasek_popular2_prawo",
+        	btnPrev: ".pasek_popular2_lewo",
+			visible: 11.6,
+			scroll: 11,
+			circular: false
+    	});
+		$j(".categories").jCarouselLite(
+		{
+	        btnNext: "#related_categories_down",
+        	btnPrev: "#related_categories_up",
+			visible: 16,
+			vertical: true,
+			circular: false
+    	});
+	});
 </script>
 
 </head>
@@ -66,21 +102,9 @@ theme_advanced_toolbar_location : 'top'
 <a href="/login">Log in</a><br>
 </div>
 
-<div style="float: left; height: 67px;">
-<div style="width: 68px; display: inline;">
-<a href="http://www.freeadsau.com/">
-
-<object type="application/x-shockwave-flash" data="/_mm/_fla/logo_static.swf" width="68" height="64">
-  <param name="quality" value="high">
-  <param name="wmode" value="transparent">
-</object>
-        
-</a>
-</div>
-<div style="width: 195px; height: 64px; display: inline;">
-<a href="http://www.freeadsau.com/"><img src="/_mm/_d/logo_au.gif" alt="" width="225" height="63"></a>
-</div>
-</div>
+<div style="float: left; height: 73px;">
+				<a href="http://www.freeadsau.com/"><img src="/_mm/_d/logo.jpg" alt="Free ads Australia" width="402" height="73"></a>
+			</div>
 
 <div style="clear: both;"></div>
 </div>
@@ -434,6 +458,8 @@ var sc_click_stat=1;
 var sc_security="c88297f0"; 
 </script>
 
+<script src="http://cdn.wibiya.com/Loaders/Loader_305785.js" type="text/javascript"></script>
+
 <script type="text/javascript" src="http://www.statcounter.com/counter/counter.js"></script><noscript><div class="statcounter"><a title="website statistics" href="http://www.statcounter.com/free_web_stats.html" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4339143/0/c88297f0/1/" alt="website statistics" ></a></div></noscript>
 <!-- End of StatCounter Code -->
 <!-- Start Quantcast tag -->
@@ -448,5 +474,8 @@ qacct:"p-53x7dPLjpDrIs"
 </noscript>
 <!-- End Quantcast tag -->
 
+<script type="text/javascript">
+    showFlash('td_flash0');
+</script>
 
 </body></html>
