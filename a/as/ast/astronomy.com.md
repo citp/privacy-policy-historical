@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215153713id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astronomy.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522233036id_/http%3A//www.kalmbach.com/privacy) for the most accurate reproduction.*
 
 # Kalmbach Publishing Co. - Kalmbach Publishing Co Privacy Policy
 
