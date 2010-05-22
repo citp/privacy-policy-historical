@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930170410id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportssignup.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522123335id_/http%3A//www.sportssignup.com/about/privacypolicy.aspx) for the most accurate reproduction.*
 
 # SportsSignup Privacy Policy
 
