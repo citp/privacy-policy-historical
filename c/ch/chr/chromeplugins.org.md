@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chromeplugins.org privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119042503id_/http%3A//www.chromeplugins.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chromeplugins.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522204418id_/http%3A//www.chromeplugins.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Chrome Plugins
 
