@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619193910id_/http%3A//www.vitaminworld.com/house/privacypolicy.asp%3Fxs%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitaminworld.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052019id_/http%3A//www.vitaminworld.com/house/privacypolicy.asp%3Fxs%3D) for the most accurate reproduction.*
 
 # Vitamin World Privacy Policy
 
 Vitamin World  cares about your privacy. We respect the privacy of all your personal information and understand the need to protect it. We are committed to giving you choices about your personal information. This policy will tell you more about our commitment to your privacy, explain what information we collect and how it is used, and provide you with specific choices concerning that information. This policy applies to consumers accessing Vitamin World's sites, and those of its affiliates, in the United States.
 
 Our Commitment  
-Vitamin World, as a member of the Direct Marketing Association (DMA), follows the DMA's "Privacy Promise to American Consumers." We (1) provide customers with notice of their ability to opt out of information sharing with other marketers; (2) honor customer's requests not to share their information with other marketers; and (3) honor customer's requests not to receive solicitations from Vitamin World. 
+Vitamin World complies with the Direct Marketing Association's (DMA), "Privacy Promise to American Consumers." We (1) provide customers with notice of their ability to opt out of information sharing with other marketers; (2) honor customer's requests not to share their information with other marketers; and (3) honor customer's requests not to receive solicitations from Vitamin World. 
 
 The Information We Collect  
 In general, you can visit many of our web pages without telling us who you are or revealing any personal information about yourself. However, we receive and store certain types of information whenever you visit one of our sites. We may track the Internet domain address from which people visit us and analyze this data for trends and statistics, but individual users will remain anonymous, unless you voluntarily tell us who you are. We may use "cookies" that allow our system to recognize your browser and help us personalize your online experience. 
