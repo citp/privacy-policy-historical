@@ -1,36 +1,63 @@
-> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607095407id_/http%3A//www.addresstwo.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addresstwo.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213312id_/http%3A//addresstwo.com/privacy.asp) for the most accurate reproduction.*
 
-# 
+# Privacy Policy
 
-**Information We Collect**   
-Carter and Company does not collect payment information directly. All payment data is securely processed using PayPal. 
+**Effective Date: 12-13-2009**
 
-Carter and Company asks members to provide contact information, usernames, and passwords. This information is used for the following purposes:   
-• Membership in the Carter and Company, LLC web communities.  
-• Promotions: including, but not limited to, e-mail and phone solicitation from Carter and Company and its marketing partners.
+**Privacy Policy**  
+Carter and Company, LLC (dba AddressTwo) is the host company of the AddressTwo System. 
 
-Through the use of AddressTwo, Carter and Company asks members to input contact information that is internal to members' own businesses. This data is reserved exclusively for the use of managing and sorting members' contacts. This is information is used for the following purposes:  
-• Access solely granted to the owning members for use as they see fit.  
-• No data is used, shared, or sold to any 3rd parties.
+AddressTwo System (“AddressTwo”) is committed to protecting the privacy of our website visitors and clients, and accordingly maintains the following Privacy Policy to protect the personal and confidential information you may provide through use of the website.  Please be advised, however, that although AddressTwo has endeavored to create a secure and reliable site for you, the confidentiality of any communication or material submitted to or from AddressTwo or via email cannot be guaranteed beyond the efforts described within this AddressTwo Privacy Policy. 
 
-We understand the sensitivity of your customer contact data. Contact data that is managed using a Carter and Company, LLC website is protected and made available only to the member(s) owning that data.
+**Information We Collect**  
 
-Carter and Company, LLC will disclose personal information when it believes in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms and Conditions; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our websites and our physical property. 
+  
+Carter and Company does not collect payment information directly. All payment data is securely processed using PayPal. 
 
+Carter and Company asks members to provide 
+
+the following information, including but not limited to: names, titles, business names, addresses, telephone numbers, fax numbers, email addresses, domain names, contact information, usernames, and passwords (“User Content”). User Content is used for the following purposes, including, but not limited to: 
+
+  
+•           Membership in the Carter and Company, LLC web communities.  
+•           Promotions: including, but not limited to, e-mail and phone solicitation from Carter and Company and its marketing partners.
+
+Through the use of AddressTwo, Carter and Company asks members to input contact information that is internal to members' own businesses. This data is reserved exclusively for the use of managing and sorting members' contacts. This is information is used for the following purposes:
+
+  
+•           Access solely granted to the owning members for use as they see fit.
+
+•           No data is used, shared, or sold to any third parties.
+
+  
+**Storage and Use of Information**
+
+ Carter and Company uses security measures to protect against the loss, misuse, and alteration of the User Content under our control. All User Content submitted through the site is stored in a secure environment at an off site server kept separate from live servers and is firewall protected.  The use of cookies as related to User Content is employed only by the request of users in the form of the “remember” checkbox at login.  If checked, a cookie will be placed on the User’s computer storing username and password information.  In addition, other cookies are utilized for the purpose of tracking lead sources for AddressTwo’s internal marketing.  Such data is not shared with any third parties.  Such cookies neither contain sensitive information nor impose harmful information on the User.
+
+Carter and Company understands that the nature of the User Content submitted to, exchanged with, reported from, and/or generated by AddressTwo may be of a confidential, sensitive and proprietary nature.  Carter and Company hereby warrants and represents that it shall not share, utilize, review, access, or otherwise make use of any information submitted to, exchanged with, reported from, and/or generated by AddressTwo except for the explicit purposes of operating AddressTwo or as provided herein. 
+
+We will not share, sell, or distribute User Content covered by this AddressTwo Privacy Policy with any third parties including any of our affiliated companies, officers, directors, shareholders, subsidiaries, agents, or representatives except as otherwise provided herein.
+
+Notwithstanding the foregoing, we may share User Content with third parties in the following circumstances:
+
+**Service Providers:**  We may employ third party service providers to perform functions on our behalf. They may have access to personal information needed to perform their functions, but may not use it for other purposes.
+
+**Legal Obligations:**  From time to time, we may be required to share personal information in response to a valid court order, subpoena, government investigation, or as otherwise required by law. We also reserve the right to report to law enforcement agencies any activities that we, in good faith, believe to be unlawful.
+
+**Protection of** **Carter and Company and Others:** We may release User Content when we believe release is appropriate to comply with the law or any rule, regulation, government or court order; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of Carter and Company, our affiliated companies, our users, or others. However, this does not include selling, sharing, or otherwise disclosing personally identifiable information from customers for commercial purposes in violation of the commitments set forth in this Privacy Policy. 
+
+  
 **Current Policy**  
-These guidelines are subject to change, and any changes will be posted on this page. By continuing to use the AddressTwo site, you give your consent to any policy changes. Consequently, please check this page regularly for current policies. 
+These guidelines are subject to change, and any changes will be posted on this page. By continuing to use the AddressTwo site, you give your consent to any policy changes. Consequently, please check this page regularly for current policies.   Please review our Terms of Use (<http://addresstwo.com/terms_of_use.htm>) which is hereby incorporated by reference. 
 
-**Security**  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
-
-**Change of Address**  
+**Change of Address** ** **  
 To change your contact information please update your AddressTwo profile or send a letter to Carter and Company, 8653 Bash Street, Indianapolis, IN 46256 USA.
 
-**Links**  
-This site contains links to other sites. Carter and Company is not responsible for the privacy practices or the content of these web sites. Carter and Company does not forward information about our web site users to any link partners. 
+**Links** ** **  
+This site contains links to other sites. Carter and Company is not responsible for the privacy practices or the content of these web sites. Carter and Company does not forward information about our web site users to any link partners. 
 
-**Disclaimer**  
-This web site and all elements thereof are provided on an "as is" basis without warranty of any kind, express or implied. Carter and Company does not warrant that the web site will operate or perform in a manner that is uninterrupted or error-free, or that the web site or host server will be maintained free of viruses or other harmful code. Carter and Company, its agents and associates shall not be held liable for any damage actual or consequential arising from action taken in response to information presented on this web site. This web site is published independently of any software or hardware vendor. The views expressed in any Carter and Company publication are those of the authors and do not necessarily reflect the views of Carter and Company or any individual associated with this web site. 
+**Disclaimer** ** **  
+This web site and all elements thereof are provided on an "as is" basis without warranty of any kind, express or implied. Carter and Company does not warrant that the web site will operate or perform in a manner that is uninterrupted or error-free, or that the web site or host server will be maintained free of viruses or other harmful code. Carter and Company, its agents and associates shall not be held liable for any damage actual or consequential arising from action taken in response to information presented on this web site. This web site is published independently of any software or hardware vendor. The views expressed in any Carter and Company publication are those of the authors and do not necessarily reflect the views of Carter and Company or any individual associated with this web site. 
 
-**Contacting Carter and Company, LLC**  
+**Contacting Carter and Company, LLC** ** **  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, contact us at contact@AddressTwo.com or by sending a letter to: Carter and Company, 8653 Bash Street, Indianapolis, IN 46256 USA. Our telephone number is +1 317 594 9550. Our Fax number is +1 866 866 0358.
