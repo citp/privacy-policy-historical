@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the typography.com privacy policy that was archived on 2008-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080625234458id_/http%3A//www.typography.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the typography.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522220852id_/http%3A//www.typography.com/home/privacy.php%3Fpath%3Dfoot) for the most accurate reproduction.*
 
 # Privacy Policy | Hoefler & Frere-Jones
 
