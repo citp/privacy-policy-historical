@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twostrokemotocross.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429210903id_/http%3A//twostrokemotocross.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twostrokemotocross.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522051027id_/http%3A//twostrokemotocross.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy :: twostrokemotocross.com
+# Privacy Policy :: Two Stroke Motocross
 
 **What information do we collect?**
 
@@ -85,8 +85,8 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Two Stroke Militia  
+Two Stroke Motocross  
 P.O. Box 1813  
 Pleasant Valley, New York 12569-1813  
 United States  
-thegeneral@twostrokemilitia.com
+john@twostrokemotocross.com
