@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418080127id_/http%3A//www.telanetix.com/index.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessline.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522052634id_/http%3A//www.telanetix.com/index.asp%3Fnav%3Dlegal%26subnav%3Dprivacy) for the most accurate reproduction.*
 
 # Telanetix.com
 
