@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the pressrelease.com.np privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413153007id_/http%3A//www.pressrelease.com.np/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pressrelease.com.np privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522215837id_/http%3A//www.pressrelease.com.np/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
 Press Release Privacy Policy
 
-As Press Release is the portal of WebNetworks, Protecting your privacy online is a main concern at WebNetworks. The following PressRelease privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
+Protecting your privacy online is a main concern at PressRelease. The following PressRelease privacy policy informs how we respect your privacy and protect any information you may provide us while visiting our site or utilizing any of our services.
 
-PressRelease allows full access to our online information free of charge and without requiring any registration. Users may opt to register with PressRelease. We don't collect any personal information when someone simply visits our websites. This information is kept confidential and will never be passed to a third party, unless this is required (1) to enforce our Terms and Conditions, (2) by law, (3) to defend us in any legal action, (4) to protect our property. The WebNetworks websites may also contain elements provided by third party advertisers.
+PressRelease allows full access to our online information free of charge and without requiring any registration. Users may opt to register with PressRelease. We don't collect any personal information when someone simply visits our websites. This information is kept confidential and will never be passed to a third party, unless this is required (1) to enforce our Terms and Conditions, (2) by law, (3) to defend us in any legal action, (4) to protect our property. The PressRelease may also contain elements provided by third party advertisers.
 
 **What information is collected**
 
@@ -42,15 +42,4 @@ Employees within PressRelease. with access to your information provided are inst
 
 Our web sites also contain links to other sites. The privacy policies of linked sites may differ from those of privacy policy of PressRelease to end users.
 
-**Contact details  
-**If you would like to contact us for information on any of our services, information on our privacy policy, or for any reason relating to our site, we can be reached at the following:
-
-Contact Name: WebNetworks  
-Address: Ganesh Man Singh Path, Ravibhawan, Kathmandu, Nepal.  
-MOB NO. : 977-9841432196  
-FAX NO. : 977-01-4289645
-
-E-mail: info@webnetworks.com.np  
-URL: [www.webnetworks.com.np](http://www.webnetworks.com.np/)
-
-WebNetworks reserves the right to modify or supplement this Privacy Policy statement at any time.
+PressRelease reserves the right to modify or supplement this Privacy Policy statement at any time.
