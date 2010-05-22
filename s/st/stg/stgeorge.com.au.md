@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112032515id_/http%3A//stgeorge.com.au/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stgeorge.com.au privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213454id_/http%3A//www.stgeorge.com.au/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy and security
 
@@ -165,10 +165,10 @@ If we disagree as to the accuracy of the information, you may request that we at
 
 If there is anything you would like to discuss, please contact us
 
-In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank Limited, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on ****13 33 30**** , 8am - 9pm (AEST), 7 days a week.
+In this policy, reference to "we/us" means each member of the St George Group. Members of the St.George Group include companies that are related or owned by St.George Bank - A Division of Westpac Banking Corporation, for example Advance Asset Management Limited and St.George Life Limited. Members of the St.George Group may change from time to time. If you have any questions, concerns or complaints about our privacy policy or practices or would like more information about particular members’ privacy policies or practices, please contact us on ****13 33 30**** , 8am - 9pm (AEST), 7 days a week.
 
-**St.George Bank Limited**  
-ABN 92 055 513 070  
+**St.George Bank – A Division of Westpac Banking Corporation**  
+ABN 33 007 457 141  
 **Address** : 4-16 Montgomery St Kogarah NSW 2217  
 Locked Bag 1 Kogarah NSW 1485  
 **Phone** :13 33 30  
