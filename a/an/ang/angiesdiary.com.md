@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510074731id_/http%3A//angiesdiary.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angiesdiary.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522034736id_/http%3A//angiesdiary.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Angie's DIARY
 
-This privacy statement covers Angie’s DIARY. Please read this statement carefully before proceeding to access Angie’s DIARY. Your use of Angie’s DIARY indicates your agreement to abide by the Terms in effect.
+Rating: 5.0/ **5** (1 vote cast)
+
+ _ **This privacy statement covers Angie’s DIARY. Please read this statement carefully before proceeding to access Angie’s DIARY. Your use of Angie’s DIARY indicates your agreement to abide by the Terms in effect.**_
 
 **Information Collection**  
 Angie’s DIARY is the sole owner of the information collected on the Angie’s DIARY. Angie’s DIARY may collect information from our users at several different points on the Angie’s DIARY.
@@ -35,6 +37,7 @@ The Angie’s DIARY contain links to other sites. Please be aware that Angie’s
 Whenever Angie’s DIARY changes its privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
 
 **Contact Information**  
-If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Angie’s DIARY at contact@angiesdiary.com
+If you have any questions or notices of violations to these terms and conditions, please contact the editor of the Angie’s DIARY at contact@angiesdiary.com  
 
-Comments are closed.
+
+Rating: 5.0/ **5** (1 vote cast)
