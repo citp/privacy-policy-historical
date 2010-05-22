@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the crosscards.com privacy policy that was archived on 2009-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090425145958id_/http%3A//www.crosscards.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscards.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522210040id_/http%3A//www.crosscards.com/privacy-policy.html) for the most accurate reproduction.*
 
-# CrossCards.com- Free Christian E-Cards for Every Occasion and for Everyone
+# Privacy Policy
 
-**Privacy Policy**  
 **Last Updated:** November 3, 2007
 
 This policy informs you of the policies of Salem Communications Corporation and its subsidiary entities (collectively, “Salem”), including without limitation the Salem and radio stations concerning the collection, use and disclosure of personal information from this Salem-related website. Because we may gather certain types of information about our users, we want to help you understand the terms and conditions surrounding the collection and use of that information. At Salem we understand your privacy is important to you. Even though we may need to collect information about you to provide you with some of our products and services, you may not want us to disclose that information to others. Accordingly, what follows is a description of how we gather and use information about you (collectively “Your Information”). 
@@ -195,6 +194,3 @@ We understand your privacy is important to you. Please note, however, that Salem
 **Your Consent and Changes to this Policy**  
 By using our Website, you consent to the collection and use of Your Information by Salem as set forth in this Privacy Policy. Additionally, your visit and any dispute over privacy are subject to this Privacy Policy and the Terms of Use applicable to this website.  
 Salem may at any time amend, modify, restate, or revise this Privacy Policy by updating this posting, and you should therefore periodically visit this page to view the then current Privacy Policy that is in effect. If we make any material changes, we will revise the “Last Updated” date at the top of the Privacy Policy. Your continued use of this Website constitutes your agreement to this Privacy Policy and any updates.
-
-  
-
