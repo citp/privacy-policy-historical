@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonablefaith.org privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119081118id_/http%3A//www.reasonablefaith.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonablefaith.org privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522171628id_/http%3A//www.reasonablefaith.org/site/PageServer%3Fpagename%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Reasonable Faith: Privacy Policy
 
