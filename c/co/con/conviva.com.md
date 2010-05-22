@@ -1,79 +1,76 @@
-> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214182355id_/http%3A//www.conviva.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conviva.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522121905id_/http%3A//www.conviva.com/legal/privacy) for the most accurate reproduction.*
 
-# Conviva
+# Conviva - Privacy Policy
 
-**Privacy Policy **
+[](http://www.truste.org/ivalidate.php?url=www.conviva.com&sealid=101)
 
-Conviva, Inc. (“Company”) knows that you care about how your personal information is used and shared, and we take your privacy seriously.  Please read the following to learn more about our privacy policy.  By visiting the www.conviva.com website, and any other linked pages, features, content, or application services (including downloaded software and/or plug-ins) offered from time to time by Company in connection therewith (collectively, the "Website"), or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy. 
+#### Privacy Statement
 
-What Does This Privacy Policy Cover? 
+_Conviva Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.conviva.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. If you have questions or concerns regarding this statement, you should first contact privacy@conviva.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://watchdog.truste.com/pvr.php?page=complaint &url= TRUSTe will then serve as a liaison with us to resolve your concerns._
 
-This Privacy Policy covers Company’s treatment of personally identifiable information ("Personal Information") that Company gathers when you access the Website and when you use Company’s services.  This policy does not apply to the practices of companies that Company does not own or control, or to individuals that Company does not employ or manage. 
+Conviva Inc. (“Conviva”) takes your privacy seriously. We provide this Privacy Statement to inform you of our policies and procedures regarding the collection, use and disclosure of information we may receive through our web site and our Services. We may change this Privacy Statement from time to time. Please consult this Privacy Statement regularly for any updates.
 
-What Personal Information Does Company Collect? 
+##### INFORMATION COLLECTION AND USE
 
-The information we gather from customers enables us to personalize and improve our services. We collect the following types of information from our customers: 
+##### Information Collected by Conviva Services
 
-**Personal Information You Provide to Us: **
+Conviva automatically computes and records anonymous information from Conviva enabled media player on your computer, such as IP address, bandwidth, video quality data and other media player statistics information, as well as your browser and operating system types. Conviva does not purposely link such information to any personally identifiable information. 
 
-We receive and store any information you enter on our Website or provide to us in any other way.  The types of Personal Information which may be collected include your full name, email address, mobile phone number, credit card and/or other payment information, username, password and any other information necessary for us to provide our services.  You can choose not to provide us with certain information, but in some cases you may not then be able to take advantage of many of our special features.  The Personal Information you provide is used for such purposes as answering questions, sending product updates, and communicating with you about Company’s products and services, including specials and new features. 
+Conviva uses information we collect for the following general purposes: to enhance your video viewing experience, improve our Services, contact you, conduct innovative research, and provide anonymous intelligent analytic reporting for internal and external business customers.
 
-**Other Information Collected Automatically: **
+##### Information collected for administrative and contact purposes
 
-·       We receive and store certain other types of information that are not Personal Information whenever you interact with our Website or use our services.  For example, Company automatically receives and records information on our server logs from your browser including your IP address, cookie information, and the page you requested. 
+Conviva may keep a record of your contact information if you have contacted us via our web site. Conviva may require our business customers to provide certain personal identifiable information of their employees for administrative purposes when they become Conviva’s customers. If you wish to contact the site or file a support request we will collect personal information such as your first and last name, email address and phone number.
 
-·       Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our Website and its components or users of our services, similar to TV ratings that indicate how many people watched a particular show.  Company only uses this data in aggregate or anonymous form and not in a manner that would identify you personally.  This type of aggregate or anonymous data enables us to figure out how often customers use parts of the Website or services so that we can make the Website and services appealing to as many customers as possible, and improve those services.  As part of this use of information, we may provide aggregate or anonymous information to our partners about how our customers, collectively, use our Website or services.  We share this type of data so that our partners also understand how often people use the Website or services, so that they, too, may provide you with an optimal online experience. 
+If we make material changes in the way we use PII, we will notify you by posting a prominent announcement on our Website or sending you an email with the email address you provided when you submitted your personal information on the site. Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted
 
-**E-mail Communications: **
+##### INFORMATION SHARING AND DISCLOSURE
 
-We often receive a confirmation when you open an email from Company if your computer supports this type of program. Company uses this confirmation to help us make emails more interesting and helpful.  We also compare our customer list to lists received from other companies, in an effort to avoid sending unnecessary messages to our customers.  When you receive e-mail from Company, you can opt out of receiving further e-mails by following the included instructions to unsubscribe. 
+Conviva does not rent, sell or share personally identifiable information about you with other people or non-affiliated companies for promotional purposes except to provide services you have requested, when we have your permission.
 
-**What About Cookies? **
+We may disclose information under the following circumstances:
 
-·       Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people.  We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality.  
+  * \- When we share anonymous, aggregated information generated by our services with our business customers.
+  * \- When we share anonymous data with third party service companies to facilitate or to provide certain services on our behalf.
+  * \- When we respond to subpoenas, court orders, or legal process or to establish or exercise our legal rights or defend against legal claims.
+  * \- When we believe in our sole discretion it is necessary to share information in order to investigate, prevent or take actions against illegal activities, suspected fraud, situation involving potential threats to the physical safety of any person, violations of term of use of Conviva, or otherwise required by law.
+  * \- When we need to transfer information about you if Conviva is acquired by or merged with another company.
+  * \- Links to Other Sites
 
-·       Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways.  We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features. 
 
-Will Company Share Any of the Personal Information it Receives? 
 
-Personal Information about our customers is an integral part of our business.  We neither rent nor sell your Personal Information to anyone.  We share your Personal Information only as described below. 
+This Web site contains links to other sites that are not owned or controlled by Conviva. Please be aware that we are not responsible for the privacy practices of such other sites.
 
-_Affiliated Businesses We Do Not Control_ : We anticipate that we may become affiliated with a variety of businesses and work closely with them.  In certain situations, these businesses may sell items to you through the Website or our services.  In other situations, Company may provide services, or sell products jointly with affiliated businesses.  You can easily recognize when an affiliated business is associated with your transaction, and we will share your Personal Information that is related to such transactions with that affiliated business. 
+We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information.
 
-_Agents_ : We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you.    Unless we tell you differently, Company’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
+This privacy statement applies only to information collected by this Web site.
 
-_Promotional Offers_ : We may send offers to you on behalf of other businesses.  However, when we do so, we do not give the other business your name and address.  If you do not wish to receive these offers, please send an email with your request to privacy@conviva.com. 
+##### Cookies
 
-_Business Transfers_ : In some cases, we may choose to buy or sell assets.  In these types of transactions, customer information is typically one of the business assets that are transferred.  Moreover, if Company, or substantially all of its assets were acquired, or in the unlikely event that Company goes out of business or enters bankruptcy, customer information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of Company or its assets may continue to use your Personal Information as set forth in this policy. 
+Cookies are alphanumeric non-personally identifiable identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. We use cookies to enhance visitors’ experiences, to learn more about their use of the Website and to improve quality. Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of our Website’s most attractive features. We use a third-party tracking service that uses cookies and web beacons to track non-personally identifiable information about visitors to our site in the aggregate.
 
-_Protection of Company and Others_ : We may release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Company, our employees, our users, or others.  This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. 
+##### ABILITY TO CHANGING OR DELETING YOUR INFORMATION
 
-_With Your Consent_ : Except as set forth above, you will be notified when your Personal Information may be shared with third parties, and will be able to prevent the sharing of this information. 
+If you need to change your contact information you submitted via our web site, please contact us at privacy(at)conviva.
 
-Is Personal Information About me Secure? 
+##### CONFIDENTIALITY AND SECURITY
 
-Company endeavors to protect Personal Information to ensure that it is kept private, however, Company cannot guarantee the security of Personal Information.  Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. 
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-The Website contains links to other sites. Company is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site.  This Privacy Policy only governs information collected on the Website. 
+Conviva limits the access to personal information about you to employees who, we believe, reasonably need to come into contact with that information to provide services to you or in order to perform their jobs.
 
-What Choices Do I Have? 
+Conviva is concerned with safeguarding your information. Conviva employs a variety of measures to protect your information from unauthorized access.
 
-·       As stated previously, you can always opt not to disclose information, even though it may be needed to take advantage of certain features of the Website and services. 
+##### OUR POLICY TOWARD CHILDREN
 
-·       If you do not wish to receive email or other mail from us, please indicate this preference during the registration process.  Please note that if you do not want to receive legal notices from us, such as this Privacy Policy, those legal notices will still govern your use of the Website, and you are responsible for reviewing such legal notices for changes. 
+Conviva does not knowingly collect personally identifiable information from children under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us. If we become aware that a child under 13 has provided us with personally identifiable information, we will delete such information from our files.
 
-Changes to this Privacy Policy 
+##### INTERNATIONAL TRANSFER
 
-Company may amend this Privacy Policy from time to time.  Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used.  If we make changes in the way we use Personal Information, we will notify you by posting an announcement on our Website or sending you an email.  Users are bound by any changes to the Privacy Policy when he or she uses the Website after such changes have been first posted.
+Your information may be transferred to, and maintained on, computers located outside of your state, province, country or other government jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you are located outside of the United States and choose to provide information about you to Conviva, please be advised that we transfer all information including personally identifiable information to the United States and process it here. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer.
 
-Questions or Concerns 
+##### EU SAFE HARBOR
 
-If you have any questions or concerns regarding privacy on our Website, please send us a detailed message at privacy@conviva.com.  We will make every effort to resolve your concerns. 
+Conviva complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon request and within 30 days, Conviva will grant individuals reasonable access to personal information that it holds about them. In addition, Conviva will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact privacy(at)conviva.com to change your personal information gathered on our web site.
 
-Effective Date: October 23, 2008 
-
-Legal Department 
-
-2 Waters Park Drive, Suite 150 
-
-San Mateo, CA 94403 
+Effective as of 01.19.2010 
