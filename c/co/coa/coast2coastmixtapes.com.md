@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418060549id_/http%3A//www.coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coast2coastmixtapes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522211118id_/http%3A//www.coast2coastmixtapes.com/privacy.aspx) for the most accurate reproduction.*
 
-# Coast 2 Coast Mixtapes - Privacy Policy
+# Coast2CoastMixtapes.com - Mixtapes, Download Mixtapes, Rare Mixtapes, Hip Hop Promotions
 
 ## This is the web site of Lil Fats, Inc.   
 DBA Coast 2 Coast Mixtapes & Magazine.
