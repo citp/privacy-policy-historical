@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318100839id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soapcentral.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213007id_/http%3A//www.soapcentral.com/soapcentral/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement | soapcentral.com @ soapcentral.com
 
@@ -12,6 +12,8 @@ At some areas of the **soap** central **.com** site, you can submit information 
 The **soap** central **.com** message boards feature an option that allows individual users to determine if they would like to share (display) their email address with other board visitors. This decision is up to you, the user, who will have the option to post your email address on and or all messages that you post. By default, the "Do Not Display My email Address" has been selected for all posters. 
 
 We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using (e.g., Netscape, Internet Explorer), the type of operating system you are using, (e.g., Windows '95 or Mac OS) and the domain name of your Internet service provider (e.g., America Online, Earthlink). 
+
+We use third-party advertising companies to serve ads when you visit our Web site. The third-party advertising technology that we use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," please click here. http://www.doubleclick.com/privacy/index.aspx. 
 
 HOW WE USE THE INFORMATION WE COLLECT   
 First and foremost, the information we collect is used to enhance all of our visitor's experiences on the **soap** central **.com** web site. 
