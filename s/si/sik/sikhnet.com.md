@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323074110id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sikhnet.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522213150id_/http%3A//www.sikhnet.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SikhNet
 
@@ -20,7 +20,7 @@ Our online surveys ask visitors for demographic information (like their zip code
 
 **Consumer Information**
 
-During the process of delivering a web page to you on some web site sections like the Sikh Matrimonials, Sikhnet does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Sikhnet does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by SikhNet is used for the purpose of knowing how to best serve itâ€™s user base.
+During the process of delivering a web page to you on some web site sections like the Sikh Matrimonials, Sikhnet does not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. However, Sikhnet does obtain some types of non-personally identifiable information such as the Internet Service Provider you use to connect to the Internet, your browser type, or the type of computer operating system you use (Macintosh or Windows, for example). The information collected by SikhNet is used for the purpose of knowing how to best serve it's user base.
 
 If you would like additional information about the types of non-personally identifiable information that is collected by Sikhnet please let us know.
 
@@ -30,7 +30,7 @@ Sikhnet, as well as most sites on the Internet, uses "cookies" to enhance your e
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-If you have any additional questions about Sikhnet's dedication to consumer privacy, please contact us at support@sikhnet.com
+If you have any additional questions about Sikhnet's dedication to consumer privacy, please contact us at [support@sikhnet.com](mailto:support@sikhnet.com?subject=SikhNet%27s%20consumer%20privacy%20policy)
 
 Sikhnet does not sell, share or distribute any of the information that it collects with any business or persons not affiliated with it.
 
@@ -49,15 +49,15 @@ SikhNet is not responsible for interactions that happen between users either thr
 
 This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. 
 
-1\. [Contact SikhNet via emai](https://web.archive.org/contact)  
+1\. [Contact SikhNet via email](http://www.sikhnet.com/contact)  
 2\. You can call the following telephone number: +1-505-629-4121
 
  **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. 
 
-1\. [Contact SikhNet via email](https://web.archive.org/contact)  
-2\. Registration info: [_http://www.sikhnet.com/registration_](https://web.archive.org/registration)   
-2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](https://web.archive.org/sikhnet/membership.nsf)   
+1\. [Contact SikhNet via email](http://www.sikhnet.com/contact)  
+2\. Registration info: [_http://www.sikhnet.com/registration_](http://www.sikhnet.com/registration)   
+2\. Membership info: [_http://www.sikhnet.com/sikhnet/membership.nsf_](http://www.sikhnet.com/sikhnet/membership.nsf)   
 3\. call the following telephone number: +1-505-629-4121
 
 
