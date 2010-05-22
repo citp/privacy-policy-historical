@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118020449id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecorptv.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522195031id_/http%3A//ecorptv.com/privacy) for the most accurate reproduction.*
 
 # Business Video - Online Marketing for Corporate Videos: Business Video Directory, Online Business Videos
 
-Free Business Video Sharing - eCorpTV is a video sharing site dedicated exclusively to business videos.   
+Business Video Sharing, Hosting and Promotion - eCorpTV is dedicated exclusively to business videos.   
 Viewers can explore our business video directory by company, industry or geography, or upload videos as part of their online video marketing strategy.
 
 **Personal Information**  
