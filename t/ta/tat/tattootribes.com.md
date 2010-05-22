@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tattootribes.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518081821id_/http%3A//www.tattootribes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tattootribes.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522051606id_/http%3A//www.tattootribes.com/privacy.html) for the most accurate reproduction.*
 
 # TattooTribes.com Privacy Policy
 
-Last Revised: March 15, 2009 
+Last Revised: August 21, 2009 
 
 This privacy policy ("Policy") explains how personal information is collected, used, and disclosed by TattooTribes.com("TT", "we" or "us") with respect to your use of the web site located at www.tattootribes.com or other sites as may be owned, managed or controlled by us from time to time (the "Site") so you can make an informed decision about using the Site. **We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the privacy policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.**
 
@@ -56,3 +56,7 @@ Our web site may contain links to other web sites. Any personal information you 
 ## HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?
 
 If you have any questions or comments about this Policy or the practices relating to the Site, or you wish to correct or delete any personal information we have collected, please contact us at [info@tattootribes.com](mailto:info@tattootribes.com), and we will endeavor to respond to your inquiry or to correct, update or remove the personal information you have provided us as you indicate to the extent possible. 
+
+## PROPERTY OF DESIGNS
+
+Full rights on every design published on TT are retained by the artist who prepared the designs and by the persons whom the designs were prepared for, including the right to pubblicise them and use them commercially. Generally, usage of featured designs is allowed for free, non commercial use. Different uses may be allowed only upon written consent from the artists.
