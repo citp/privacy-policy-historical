@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212020145id_/http%3A//www.smartdestinations.com/modal/privacy.html%3FkeepThis%3Dtrue%26TB_iframe%3Dtrue%26height%3D500%26width%3D621) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartdestinations.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522205532id_/http%3A//www.smartdestinations.com/dialog/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
 What information we collect from you
     
