@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328154032id_/http%3A//www.cvent.com/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvent.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522033247id_/http%3A//www.cvent.com/privacy-policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy | Cvent
 
@@ -56,9 +56,9 @@ When a Cvent user submits an RFP to a property or service provider listed on the
 
 Cvent contains links to other web sites. Cvent is not responsible for the privacy practices or content of these web sites.
 
-As this Privacy Policy may be ammended from time to time, please check back periodically to review any changes. The last modified date will provided at the bottom of the page.
+As this Privacy Policy may be amended from time to time, please check back periodically to review any changes. The last modified date will be provided at the bottom of the page.
 
-Last Modified: May 29th, 2008
+Last Modified: June 3, 2009
 
 Cvent does everything it can to protect the privacy of its users. For questions about this Privacy Policy, the practices of this site, or dealings with this site, please contact Cvent at:
 
@@ -68,3 +68,10 @@ Privacy Representation
 Suite 450   
 McLean, VA 22102   
 [privacy@cvent.com](mailto:privacy@cvent.com)
+
+**Safe Harbor**  
+Direct Marketing Association  
+1615 L St, NW Ste 1100  
+Washington, DC 20036-5624  
+[safeharbor@the-dma.org](mailto:safeharbor@the-dma.org)  
+<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
