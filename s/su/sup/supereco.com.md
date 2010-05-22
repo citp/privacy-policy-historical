@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supereco.com privacy policy that was archived on 2009-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090331201724id_/http%3A//www.supereco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supereco.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522211109id_/http%3A//www.supereco.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Super Eco
 
