@@ -1,20 +1,16 @@
-> *The following text is extracted and transformed from the pronethosting.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208055449id_/http%3A//www.pronethosting.net/company/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pronethosting.net privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522105646id_/http%3A//www.coolhandle.com/company/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Pronethosting.net
+# Privacy Policy | Web Hosting by Cool Handle
 
 ## Privacy Policy
 
-Pronet Hosting respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Service (“TOS”) Agreement.
-
-Pronet Hosting is a licensee of the _TRUSTe Privacy Program_. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Interne by promoting the use of fair information practices. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this privacy policy statement, you should first contact a Pronet Hosting administrator at support@pronethosting.net. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php> TRUSTe will then serve as a liaison with us to resolve your concerns.
+Cool Handle respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. This Policy is incorporated into and subject to the Terms of Service (“TOS”) Agreement.
 
 This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites. We want to ensure that you understand how we will and will not use the information you entrust to us. In order to fully understand your rights we encourage you to read this Policy.
 
 For visitors, we’ve structured our Web sites so that, in general, you can visit us on Web without identifying yourself or revealing any personal information.
 
-For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Pronet Hosting.
+For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with Cool Handle.
 
 ### What type of information do we collect?
 
@@ -28,21 +24,21 @@ While you are a customer, we manage information with regard to your account stat
 
 We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. By pressing the “submit” button, each visitor constitutes consent to use the information for purposes stated in this Policy.
 
-Pronet Hosting may use customer information to provide customers with system information or information about new or upgraded products if you have chosen to receive such offers. You may opt out of receiving these offers by changing your preferences in your account information or by following the unsubscribe instructions in each email sent to you.
+Cool Handle may use customer information to provide customers with system information or information about new or upgraded products if you have chosen to receive such offers. You may opt out of receiving these offers by changing your preferences in your account information or by following the unsubscribe instructions in each email sent to you.
 
 Our trusted affiliates are responsible for processing or handling some of the information we receive, such as order fulfillment for phone services. Those affiliates are not authorized to use such information for purposes beyond those specified by us including marketing and are required to preserve the confidentiality with which we treat such information.
 
-We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Pronet Hosting, our customers, or others. We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws, respond to legal process, or where Pronet Hosting has a good faith belief that the law requires such disclosure.
+We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of Cool Handle, our customers, or others. We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws, respond to legal process, or where Cool Handle has a good faith belief that the law requires such disclosure.
 
-Pronet Hosting also will not disclose to third parties the contents of any electronic mail or other electronic communications that Pronet Hosting stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that Pronet Hosting determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Pronet Hosting and appear to pertain to the commission of a crime.
+Cool Handle also will not disclose to third parties the contents of any electronic mail or other electronic communications that Cool Handle stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that Cool Handle determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by Cool Handle and appear to pertain to the commission of a crime.
 
-Pronet Hosting disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Pronet Hosting will, however, review, delete, or block access to communications that may harm Pronet Hosting, its customers or third parties. The grounds on which Pronet Hosting may take such action include, but are not limited to, actual or potential violations of the TOS.
+Cool Handle disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. Cool Handle will, however, review, delete, or block access to communications that may harm Cool Handle, its customers or third parties. The grounds on which Cool Handle may take such action include, but are not limited to, actual or potential violations of the TOS.
 
-Please note that Pronet Hosting may use this information collected to direct service notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings that you have opted to receive, as well as other important information regarding your account or services at our discretion. You may not opt our of receiving service related email communications.
+Please note that Cool Handle may use this information collected to direct service notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings that you have opted to receive, as well as other important information regarding your account or services at our discretion. You may not opt our of receiving service related email communications.
 
-For any corrections all Pronet Hosting customer may use the client area to view or change any of their information. 
+For any corrections all Cool Handle customer may use the client area to view or change any of their information. 
 
-Customers may opt out of receiving newsletters and/or promotional emails from Pronet Hosting by sending a request to , by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences on the site within your Account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Pronet Hosting which is essential for maintaining or updating customers account or system information.
+Customers may opt out of receiving newsletters and/or promotional emails from Cool Handle by sending a request to , by using the unsubscribe instructions included in each promotional communication, or by changing your email preferences on the site within your Account information. In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from Cool Handle which is essential for maintaining or updating customers account or system information.
 
 ### Third Party Advertising and Cookies
 
@@ -58,11 +54,11 @@ We may at times also use cookies, which are small pieces of information that a W
 
 ### How Can I access my personal information?
 
-You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Pronet Hosting. As a customer of Pronet Hosting you can access your personal information by logging into the client area. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us.
+You can access your personal information, such as your address and contact information, at anytime to correct, change or delete any of the data shared with us when you became a customer of Cool Handle. As a customer of Cool Handle you can access your personal information by logging into the client area. Your account information is secure and is accessible by using a password that you select. If you need assistance or have questions about correcting information you can contact us.
 
 ### Security
 
-Pronet Hosting has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.
+Cool Handle has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information.
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
@@ -72,7 +68,7 @@ Our Web site provides links to other Web sites, sites that may be maintained by 
 
 ### Children’s Privacy
 
-Pronet Hosting does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.
+Cool Handle does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (“Minor”) must have a parent or guardian accept the TOU in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian.
 
 ### Changes to our Policy
 
@@ -82,8 +78,6 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 ### Contact Us
 
-If you have questions or concerns regarding this Policy, you should contact us by email at support@pronethosting.net
+If you have questions or concerns regarding this Policy, you should contact us by email at support@coolhandle.com
 
-[](http://www.truste.org/ivalidate.php?url=www.pronethosting.net&sealid=101)
-
-This privacy policy was last updated on 5/1/2009.
+This privacy policy was last updated on 11/15/2009.
