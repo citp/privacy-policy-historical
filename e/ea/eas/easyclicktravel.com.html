@@ -1,14 +1,13 @@
-<!--The following is the downloaded HTML source of the easyclicktravel.com privacy policy that was archived on 2009-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090415155714id_/http%3A//www.easyclicktravel.com/PagePrivacyPolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyclicktravel.com privacy policy that was archived on 2010-05-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100522224517id_/http%3A//www.easyclicktravel.com/info/PagePrivacyPolicy.aspx) for the most accurate reproduction.-->
 
-<html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_pgHeader"><link rel="SHORTCUT ICON" href="https://www.easyclicktravel.com/Modules/Customizable/images/favicon.ico">
+<html xmlns="http://www.w3.org/1999/xhtml"><head id="_ctl0_pgHeader">
+<meta name="description" content="">
+<script type="text/javascript"> var TEALEAF_URL = "/TealeafTarget.aspx"; var TEALEAF_SECURE_URL = "/TealeafTarget.aspx"; </script>
+<script type="text/JavaScript" language="JavaScript" src="/Scripts/TeaLeaf.js"></script>
+<link rel="SHORTCUT ICON" href="http://www.easyclicktravel.com/Modules/Customizable/images/favicon.ico">
 <!--
 /modules/customizable/css/stylesheetlang.css
-/modules/customizable/css/navigationbar.css
-/modules/customizable/css/basesheet.css
-/modules/customizable/css/loyalty.css
-modules/customizable/css/breadcrumbs.css
-modules/customizable/css/info.css
 /scripts/tgs_clientscript_system.js
 -->
 <link type="text/css" rel="stylesheet" href="/modules/customizable/css/master.css">
@@ -261,11 +260,72 @@ function codeTouche(e) {
    }
    button_deux=-1;
   return (parseInt(cret));
-} 
+}
 
-document.onclick = comboState;</script>
+document.onclick = comboState;
+
+//beget
+var tgsCSSystemBaseObj = {};
+tgsCSSystemBaseObj.beget = function(o) {
+    var F = function() { };
+    F.prototype = o;
+    return new F();
+};
+
+if (typeof Function.prototype.set_method == 'undefined') {
+    Function.prototype.set_method = function(name, func) {
+        if (!this.prototype[name])
+            this.prototype[name] = func;
+        else
+            throw "function " + name + "alrady exists in Function.prototype";
+        return this;
+    };
+}
+if (typeof Function.prototype.inherits == 'undefined') {
+    Function.set_method('inherits', function(Parent) {
+        this.prototype = new Parent();
+        return this;
+    });
+}
+if (typeof Function.prototype.set_base == 'undefined') {
+    Function.set_method('set_base', function(Parent) {
+        this.prototype = Parent;
+        return this;
+    });
+}
+if (typeof TGSregisterNameSpaces == 'undefined') {
+    TGSregisterNameSpaces = function(ns, prototype) {
+        var nsParts = ns.split(".");
+        var root = window;
+
+        for (var i = 0; i < nsParts.length; i++) {
+            if (typeof root[nsParts[i]] == "undefined") {
+                if (prototype && i == nsParts.length - 1)
+                    root[nsParts[i]] = tgsCSSystemBaseObj.beget(prototype);
+                else
+                    root[nsParts[i]] = new Object();
+            }
+            root = root[nsParts[i]];
+        }
+    };
+}
+
+if (typeof IsTGSNamespaceRegistred == 'undefined') {
+    IsTGSNamespaceRegistred = function(ns) {
+        var nsParts = ns.split(".");
+        var root = window;
+
+        for (var i = 0; i < nsParts.length; i++) {
+            if (typeof root[nsParts[i]] == "undefined") {
+                return false;
+            }
+            root = root[nsParts[i]];
+        }
+        return true;
+    };
+}</script>
 <title>
-	Easy Click Travel - Privacy Policy
+	Easy Click Travel - Privacy Policy 
 </title></head>
 <body>
 
@@ -280,7 +340,7 @@ document.onclick = comboState;</script>
 
     
     <form name="aspnetForm" method="post" action="PagePrivacyPolicy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNDU2MDY0NjQ0D2QWAmYPZBYCAgUPZBYCZg8UKwAFDxYCHglBY3RpdmVUYWJlZGQFCEFkQmFubmVyZ2QWDAICDw8WAh4HVmlzaWJsZWhkZAIFD2QWAmYPZBYCAgEPDxYCHgtOYXZpZ2F0ZVVybAUeaHR0cDovL3d3dy5lYXN5Y2xpY2t0cmF2ZWwuY29tZGQCBw9kFgICAQ8WAh4LXyFJdGVtQ291bnQCEBYMAgkPFgIfAWhkAgsPFgIfAWhkAgwPFgIfAWhkAg0PFgIfAWhkAg4PFgIfAWhkAg8PFgIfAWhkAggPZBYCAgMPDxYCHwIFNWh0dHA6Ly93d3cuZWFzeWNsaWNrdHJhdmVsLmNvbS9TZWN1cmUvUGFnZUxvZ091dC5hc3B4ZGQCCQ9kFgICAQ9kFgQCAQ8WAh4EVGV4dAUuQm9vayBlYXNpbHkgb25saW5lLCBvciBjYWxsIGEgY3J1aXNlIGV4cGVydCBhdGQCAw8WAh8EBQ4xLTg2Ni0yODctOTgwM2QCCg8PFgIfAWhkZGRbmFUZuR6EQlGiIZHT95dsGLrxwQ==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJOTcwNjgxNjMwD2QWAmYPDxYCHglBY3RpdmVUYWIFBEhvbWVkFgQCAQ8WAh4JaW5uZXJodG1sBSgKPG1ldGEgbmFtZT0iZGVzY3JpcHRpb24iIGNvbnRlbnQ9IiIgLz4KZAIFD2QWBGYPFCsABWRkBQhBZEJhbm5lcmdkFgoCAQ9kFgJmD2QWAgIBDw8WAh4LTmF2aWdhdGVVcmwFHmh0dHA6Ly93d3cuZWFzeWNsaWNrdHJhdmVsLmNvbWRkAgMPZBYEAgEPFgIeC18hSXRlbUNvdW50AhEWDAIKDxYCHgdWaXNpYmxlaGQCCw8WAh8EaGQCDA8WAh8EaGQCDg8WAh8EaGQCDw8WAh8EaGQCEA8WAh8EaGQCAg9kFgJmD2QWAgIBDxYCHwMCBxYOZg8WAh8EaGQCAQ9kFgICAQ8WAh4Hb25jbGljawVNd2luZG93LmxvY2F0aW9uPSdodHRwczovL3d3dy5lYXN5Y2xpY2t0cmF2ZWwuY29tL1NlY3VyZS9QYWdlVXNlckFjb3VudC5hc3B4JzsWAmYPFgIeBFRleHQFCk15IEFjY291bnRkAgIPZBYCAgEPFgIfBQVKd2luZG93LmxvY2F0aW9uPSdodHRwOi8vd3d3LmVhc3ljbGlja3RyYXZlbC5jb20vUGFnZUxveWFsdHlPdmVydmlldy5hc3B4JzsWAmYPFgIfBgUSVHJpcGxlRGlwIE92ZXJ2aWV3ZAIDDxYCHwRoZAIEDxYCHwRoZAIFDxYCHwRoZAIGDxYCHwRoZAIED2QWAgIDDw8WAh8CBTVodHRwOi8vd3d3LmVhc3ljbGlja3RyYXZlbC5jb20vU2VjdXJlL1BhZ2VMb2dPdXQuYXNweGRkAgUPZBYCAgEPZBYEAgEPFgIfBgUuQm9vayBlYXNpbHkgb25saW5lLCBvciBjYWxsIGEgY3J1aXNlIGV4cGVydCBhdGQCAw8WAh8GBQw4NjYtMjg3LTk4MDNkAgYPDxYCHwRoZGQCAQ9kFgICAQ8WAh8GBflaPHRhYmxlIHdpZHRoPSI3ODAiIGJvcmRlcj0iMCIgY2VsbHNwYWNpbmc9IjAiIGNlbGxwYWRkaW5nPSIwIj4NCiAgPHRyPg0KICAgIDx0ZD48cD48c3Ryb25nPjxkaXYgc3R5bGU9ImZsb2F0OnJpZ2h0OyBtYXJnaW46IDEwcHg7Ij48YSBocmVmPSJodHRwOi8vY2xpY2t0b3ZlcmlmeS50cnVzdGUuY29tL3B2ci5waHA/cGFnZT12YWxpZGF0ZSZhbXA7dXJsPXd3dy5lYXN5Y2xpY2t0cmF2ZWwuY29tJmFtcDtzZWFsaWQ9MTAxIiB0YXJnZXQ9Il9ibGFuayI+PGltZyBzcmM9Imh0dHA6Ly9pbWFnZTIudXJsZm9yaW1hZ2VzLmNvbS9UaXBhSW1hZ2VzL3RydXN0ZS90cnVzdGVfc2VhbF9jdHYuZ2lmIj48L2E+PC9kaXY+UFJJVkFDWSBTVEFURU1FTlQ8L3N0cm9uZz48c3Ryb25nPjxicj4NCiAgICAgIEVmZmVjdGl2ZSBEYXRlIE9jdG9iZXIgMTUsIDIwMDk8L3N0cm9uZz48YnI+DQogIDxicj4NCg0KICA8c3Ryb25nPkludHJvZHVjdGlvbjwvc3Ryb25nPjxicj4NCiAgPGJyPg0KICAgICAgRWFzeUNsaWNrVHJhdmVsLmNvbSZyZWc7LCBhIGJyYW5kIG9mIFRyYXZlbCBIb2xkaW5ncywgSW5jLiBpcyBjb21taXR0ZWQgdG8gbWFpbnRhaW4gIHNlY3VyaXR5IGFuZCBjb25maWRlbnRpYWxpdHkgb2YgdGhlIHBlcnNvbmFsIGluZm9ybWF0aW9uIGdhdGhlcmVkIGFuZCB1c2VkIG9uICB0aGUgd3d3LmVhc3ljbGlja3RyYXZlbC5jb20gd2Vic2l0ZSAoJmxkcXVvO2hlcmVpbmFmdGVyIHRoZSBXZWJzaXRlJnJkcXVvOykuIFRoaXMgUHJpdmFjeSAgU3RhdGVtZW50IGNvdmVycyB3d3cuRWFzeUNsaWNrVHJhdmVsLmNvbS48YnI+DQogIDxicj4NCiAgICAgIFRyYXZlbCBIb2xkaW5ncywgSW5jLiBpcyBhIGxpY2Vuc2VlIG9mICB0aGUgVFJVU1RlIFByaXZhY3kgUHJvZ3JhbS4mbmJzcDsgVFJVU1RlIGlzIGFuICBpbmRlcGVuZGVudCwgb3JnYW5pemF0aW9uIHdob3NlIG1pc3Npb24gaXMgdG8gYnVpbGQgdXNlciZyc3F1bztzIHRydXN0IGFuZCBjb25maWRlbmNlICBpbiB0aGUgSW50ZXJuZXQgYnkgcHJvbW90aW5nIHRoZSB1c2Ugb2YgZmFpciBpbmZvcm1hdGlvbiBwcmFjdGljZXMuJm5ic3A7IEJlY2F1c2UgdGhpcyBXZWJzaXRlIHdhbnRzIHRvIGRlbW9uc3RyYXRlIGl0cyAgY29tbWl0bWVudCB0byB5b3VyIHByaXZhY3ksIGl0IGhhcyBhZ3JlZWQgdG8gZGlzY2xvc2UgaXRzIGluZm9ybWF0aW9uIHByYWN0aWNlcyAgYW5kIGhhdmUgaXRzIHByaXZhY3kgcHJhY3RpY2VzIHJldmlld2VkIGZvciBjb21wbGlhbmNlIGJ5IFRSVVNUZS48L3A+DQoNCiAgICAgIDxwPklmIHlvdSBoYXZlIHF1ZXN0aW9ucyBvciBjb25jZXJucyByZWdhcmRpbmcgdGhpcyBzdGF0ZW1lbnQsIHlvdSBzaG91bGQgIGZpcnN0IGNvbnRhY3QgVHJhdmVsIEhvbGRpbmdzJnJzcXVvOyBXZWJtYXN0ZXIgYXQgRWFzeUNsaWNrVHJhdmVsLmNvbSBhdCB3ZWJtYXN0ZXJAdHJhdmVsaG9sZGluZ3MuY29tLiZuYnNwOyBJZiB5b3UgZG8gbm90IHJlY2VpdmUgYWNrbm93bGVkZ2VtZW50IG9mIHlvdXIgIGlucXVpcnkgb3IgeW91ciBpbnF1aXJ5IGhhcyBub3QgYmVlbiBzYXRpc2ZhY3RvcmlseSBhZGRyZXNzZWQsIHlvdSBzaG91bGQgIGNvbnRhY3QgVFJVU1RlIGF0IDxhIGhyZWY9Imh0dHA6Ly93YXRjaGRvZy50cnVzdGUuY29tL3B2ci5waHA/cGFnZT1jb21wbGFpbnQmYW1wO3VybCI+aHR0cDovL3dhdGNoZG9nLnRydXN0ZS5jb20vcHZyLnBocD9wYWdlPWNvbXBsYWludCZhbXA7dXJsPC9hPj0uIDxicj4NCiAgJm5ic3A7VFJVU1RlIHdpbGwgdGhlbiBzZXJ2ZSBhcyBhIGxpYWlzb24gd2l0aCB1cyB0byAgcmVzb2x2ZSB5b3VyIGNvbmNlcm5zLjxicj4NCiAgPGJyPg0KICAgICAgICBFYXN5Q2xpY2tUcmF2ZWwuY29tICBhbmQgaXRzIGF1dGhvcml6ZWQgdGVjaG5vbG9neSwgbWFya2V0aW5nIGFuZCBzZXJ2aWNlIHByb3ZpZGVycyBtYXkgZ2F0aGVyLCAgc3RvcmUsIGFuZCBwcm9jZXNzIHBlcnNvbmFsIGluZm9ybWF0aW9uIGZyb20gdGhlIFdlYnNpdGUuPGJyPg0KDQogIDxicj4NCiAgPHN0cm9uZz5JbmZvcm1hdGlvbiBDb2xsZWN0ZWQ8L3N0cm9uZz48YnI+DQogIDxicj4NCiAgICAgICAgRWFzeUNsaWNrVHJhdmVsLmNvbSBjb2xsZWN0cyBpbmZvcm1hdGlvbiB0aGF0IHlvdSB2b2x1bnRhcmlseSBwcm92aWRlIHRvIHVzIG9uICB0aGUgV2Vic2l0ZS4gVGhlIHR5cGVzIG9mIHBlcnNvbmFsIGlkZW50aWZ5aW5nIGluZm9ybWF0aW9uICgmbGRxdW87UElJJnJkcXVvOykgdGhhdCBtYXkgYmUgY29sbGVjdGVkICBvbiB0aGUgV2Vic2l0ZSBhcmUgY3VzdG9tZXIgbmFtZSwgbmFtZXMgb2YgY29tcGFuaW9uIHRyYXZlbGVycywgbWFpbGluZyAgYWRkcmVzcywgZS1tYWlsIGFkZHJlc3MsIHRlbGVwaG9uZSBudW1iZXIocyksIGRhdGUgb2YgYmlydGgsIHBhc3Nwb3J0ICBpbmZvcm1hdGlvbiwgY3JlZGl0IGNhcmQgYW5kIHBheW1lbnQgaW5mb3JtYXRpb24gYW5kIHdlaWdodC4gTm9uLXBlcnNvbmFsIGRhdGEgIHRoYXQgeW91IHZvbHVudGFyaWx5IHByb3ZpZGUgdG8gdXMgbWF5IGJlIGNvbGxlY3RlZCBvbiB0aGUgV2Vic2l0ZSBkdXJpbmcgeW91ciAgdXNhZ2Ugb2YgdGhlIHNpdGUuICZuYnNwOyZuYnNwOzxicj4NCiAgPGJyPg0KICAgICAgICBDaGlsZHJlbiBhbmQgaW5kaXZpZHVhbHMgdW5kZXIgMTggeWVhcnMgb2YgYWdlIGFyZSBub3QgcGVybWl0dGVkIHRvIHJlZ2lzdGVyIG9yICBtYWtlIHB1cmNoYXNlcyBvbiBvdXIgc2l0ZS4gJm5ic3A7PGJyPg0KDQogIDxicj4NCiAgPHN0cm9uZz5JbmZvcm1hdGlvbiBVc2U8L3N0cm9uZz48YnI+DQogIDxicj4NCiAgICAgICAgRWFzeUNsaWNrVHJhdmVsLmNvbSBnYXRoZXJzLCBzdG9yZXMsIGFuZCBwcm9jZXNzZXMgdGhlIFBJSSBpbiBvcmRlciB0byByZXNwb25kICB0byByZXF1ZXN0cyBmb3IgdHJhdmVsIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyBhbmQgdG8gaW1wcm92ZSBvdXIgV2Vic2l0ZSBhbmQgIHNlcnZpY2UuIEVhc3lDbGlja1RyYXZlbC5jb20gbWF5IHNoYXJlIHlvdXIgaW5mb3JtYXRpb24gd2l0aCBpdHMgYXV0aG9yaXplZCAgdGVjaG5vbG9neSwgbWFya2V0aW5nIGFuZCBzZXJ2aWNlIHByb3ZpZGVycy4gSG93ZXZlciwgRWFzeUNsaWNrVHJhdmVsLmNvbSBkb2VzICBub3Qgc2VsbCwgc2hhcmUsIHJlbnQsIG9yIHRyYWRlIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIHRoaXJkIHBhcnRpZXMgZm9yICBwcm9tb3Rpb25hbCBwdXJwb3Nlcy4mbmJzcDsgVGhlIHN1cHBsaWVycyBvZiAgdHJhdmVsIGludmVudG9yeSAoaG90ZWxzLCBjcnVpc2UgbGluZXMsIGV0Yy4pIHRoYXQgcmVjZWl2ZSB5b3VyIGluZm9ybWF0aW9uIG1heSAgaGF2ZSBwcml2YWN5IHBvbGljaWVzIHRoYXQgYXJlIGRpZmZlcmVudCB0aGFuIHRoaXMgUHJpdmFjeSBQb2xpY3kuJm5ic3A7IE91ciBjcmVkaXQgY2FyZCBwcm9jZXNzaW5nIHVzZXMgeW91ciBQSUkgIHNvbGVseSB0byBmYWNpbGl0YXRlIHRoZSBjb21wbGV0aW9uIG9mIHlvdXIgdHJhdmVsIGJvb2tpbmcuPC9wPg0KICAgICAgPHA+V2UgbWF5ICBzaGFyZSB5b3VyIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlLCBpbmNsdWRpbmcgUElJLCB3aXRoIHRoaXJkIHBhcnRpZXMgaW4gYSAgbGVnYWwgcHJvY2VlZGluZywgd2hlbiB0aGVyZSBpcyByZWFzb25hYmxlIHRvIGJlbGlldmUgdGhhdCBpbGxlZ2FsIG9yICBmcmF1ZHVsZW50IGFjdGl2aXR5IGhhcyBvciBtYXkgb2NjdXIsIGFuZC9vciBpbiBjZXJ0YWluIGNvcnBvcmF0ZSB0cmFuc2FjdGlvbnMgIHByb3ZpZGVkIHRoZSByZWNpcGllbnRzIG9mIHRoZSBkYXRhIGluIHRoZXNlIHRyYW5zYWN0aW9ucyBhcmUgY29udHJhY3R1YWxseSAgb2JsaWdhdGVkIHRvIGFiaWRlIGJ5IHRoaXMgb3IgYSBzaW1pbGFyIFByaXZhY3kgUG9saWN5LiA8YnI+DQoNCiAgICAgICAgICA8YnI+DQogICAgICAgIE5vbi1wZXJzb25hbCBpbmZvcm1hdGlvbiBtYXkgYmUgbGlua2VkIHRvIHlvdXIgUElJIGFuZCBwcm92aWRlZCB0byBhdXRob3JpemVkLCAgdGhpcmQgcGFydGllcyB0byBpbXByb3ZlIG91ciBXZWJzaXRlIGFuZCBzZXJ2aWNlLiZuYnNwOyBUaGVzZSB0aGlyZCBwYXJ0aWVzIG1heSBiZSBsb2NhdGVkIG91dHNpZGUgIHRoZSBVU0EuPGJyPg0KICA8YnI+DQogICAgICAgIEVhc3lDbGlja1RyYXZlbC5jb20gbWF5IGF1dG9tYXRpY2FsbHkgY29sbGVjdCBzdGF0aXN0aWNzIGFib3V0IHlvdXIgdmlzaXQgdG8gIG91ciBXZWJzaXRlIHdoZW4geW91IHZpc2l0IHRoZSBXZWJzaXRlIHdpdGhvdXQgcmVnaXN0ZXJpbmcuIFRoaXMgaW5mb3JtYXRpb24gIGRvZXMgbm90IGlkZW50aWZ5IHlvdSBhcyBhbiBpbmRpdmlkdWFsIGFuZCBpdCBpcyBpbnRlbmRlZCB0byBnYXRoZXIgaW5mb3JtYXRpb24gIGFib3V0IHlvdXIgdmlzaXQgdG8gb3VyIFdlYnNpdGUuIFRoZSB0eXBlcyBvZiBpbmZvcm1hdGlvbiB0aGF0IG1heSBiZSBjb2xsZWN0ZWQgIGlzIHlvdXIgSVAgYWRkcmVzcywgcGFnZXMgdmlzaXRlZCBvbiB0aGUgV2Vic2l0ZSwgYWRkcmVzc2VzIG9mIHdlYnNpdGVzIHZpc2l0ZWQgIHRoYXQgYXJlIGxpbmtlZCB0byBvdXIgV2Vic2l0ZSBvciB3aGljaCB3ZSBoYXZlIGEgcmVsYXRpb25zaGlwLCBhbmQgc2ltaWxhciAgaW5mb3JtYXRpb24uJm5ic3A7IFRoaXMgaW5mb3JtYXRpb24gaXMgIGNvbGxlY3RlZCB0aHJvdWdoIHRoZSB1c2Ugb2YgdHJhY2tpbmcgdGVjaG5vbG9naWVzIHN1Y2ggYXMgbG9nIGZpbGVzIGFuZCB3ZWIgIGJlYWNvbnMuIDxicj4NCiAgPGJyPg0KICA8c3Ryb25nPk9wdGlvbiBUbyBDb250cm9sIEluZm9ybWF0aW9uPC9zdHJvbmc+PGJyPg0KDQogIDxicj4NCiAgICAgICAgUElJIGRvZXMgbm90IGhhdmUgdG8gYmUgcmV2ZWFsZWQgd2hlbiB5b3UgdmlzaXQgdGhlIFdlYnNpdGUuIE5ldmVydGhlbGVzcywgRWFzeUNsaWNrVHJhdmVsLmNvbSAgbWF5IGNvbGxlY3QgZGF0YSBhYm91dCB5b3VyIHVzZSBvZiB0aGUgV2Vic2l0ZTsgdGhpcyBkYXRhIHdpbGwgYmUgYW5vbnltb3VzIGFuZCAgd2lsbCBub3QgYmUgbGlua2VkIHRvIGFueSBQSUkgdW5sZXNzIHRoYXQgaW5mb3JtYXRpb24gaXMgcHJvdmlkZWQgdm9sdW50YXJpbHkuICBUaGlzIGluZm9ybWF0aW9uIGlzIGNvbGxlY3RlZCB0byBoZWxwIHVzIGltcHJvdmUgb3VyIFdlYnNpdGUgYW5kIHNlcnZpY2UuPGJyPg0KICA8YnI+DQogICAgICAgIEVhc3lDbGlja1RyYXZlbC5jb20gbWF5IHBsYWNlIGEgJmxkcXVvO2Nvb2tpZSZyZHF1bzsgb3IgY29tcHV0ZXIgZmlsZSBvbiB5b3VyIGNvbXB1dGVyIGFuZC9vciAgdXNlIG90aGVyIHRlY2hub2xvZ2llcyB0byBlbmFibGUgdXMgdG8gcmVjb2duaXplIHlvdSB3aGVuIHlvdSB2aXNpdCBvdXIgc2l0ZSAgYWdhaW4gYW5kIHRvIG1lYXN1cmUgdGhlIGVmZmVjdGl2ZW5lc3Mgb2Ygb3VyIFdlYnNpdGUuIFlvdSBtYXkgaW5zdHJ1Y3QgeW91ciAgY29tcHV0ZXIgbm90IHRvIGFjY2VwdCBjb29raWVzLiZuYnNwOyBPdXIgIGNvb2tpZXMgYXJlIGxpbmtlZCB0byBQSUkuJm5ic3A7IEFkZGl0aW9uYWxseSwgIHdlIHVzZSBhIHRoaXJkLSBwYXJ0eSB0cmFja2luZyBzZXJ2aWNlIHRoYXQgdXNlcyBjb29raWVzIHRvIHRyYWNrIG5vbi1QSUkgYWJvdXQgIHZpc2l0b3JzIHRvIG91ciBzaXRlLjxicj4NCg0KICA8YnI+DQogICAgICAgIFBJSSB0aGF0IHlvdSB2b2x1bnRhcmlseSBwcm92aWRlIHRvIEVhc3lDbGlja1RyYXZlbC5jb20gd2hlbiB5b3UgcmVnaXN0ZXIgd2l0aCAgdXMgY2FuIGJlIGVkaXRlZCBvciByZW1vdmVkIGJ5IGFjY2Vzc2luZyB0aGUgTWVtYmVyIHNlY3Rpb24gb24gb3VyIFdlYnNpdGUgYnkgIGxvZ2dpbmcgaW50byAmbGRxdW87TXkgQWNjb3VudCZyZHF1bzsgYW5kIGNoYW5naW5nIHlvdXIgcGVyc29uYWxseSBpZGVudGlmeWluZyBpbmZvcm1hdGlvbi4gIFdlIG1heSByZXRhaW4gdHJhdmVsIHJlY29yZHMgZm9yIHNpeCAoNikgbW9udGhzIGFmdGVyIGEgcmVxdWVzdCBmb3IgcmVtb3ZhbCB0byAgZW5zdXJlIHRoYXQgdGhlIGFueSBleGlzdGluZyB0cmF2ZWwgYXJyYW5nZW1lbnRzIGFyZSBjb25jbHVkZWQgYW5kL29yIGlmIHdlIGFyZSAgbGVnYWxseSByZXF1aXJlZCB0byByZXRhaW4gdGhlIHJlY29yZHMuIElmIHlvdSBwcm92aWRlIEVhc3lDbGlja1RyYXZlbC5jb20gd2l0aCAgYWRkaXRpb25hbCBQSUksIHN1Y2ggYXMgdHJhdmVsIHByb3ZpZGVyIG1lbWJlcnNoaXAgbnVtYmVycyBvciB0aWNrZXRpbmcgIHByZWZlcmVuY2VzLCB3ZSBtYXkgcmV0YWluIHRoYXQgaW5mb3JtYXRpb24uIFRoaXMgaW5mb3JtYXRpb24gbWF5IGJlIGVkaXRlZCBvciAgcmVtb3ZlZCwgYXMgd2VsbC4gWW91IG1heSBub3QgYmUgYWJsZSB0byBlZGl0IG9yIHJlbW92ZSBkYXRhIG9yIGluZm9ybWF0aW9uIHdlICBjb2xsZWN0IGZyb20gdGhpcmQgcGFydGllcy4mbmJzcDsgWW91IGNhbiBhbHNvICBzZW5kIGFuIGVtYWlsIHRvIDxhIGhyZWY9Im1haWx0bzp3ZWJtYXN0ZXJAdHJhdmVsaG9sZGluZ3MuY29tIj53ZWJtYXN0ZXJAdHJhdmVsaG9sZGluZ3MuY29tPC9hPiB0byBoYXZlIHlvdXIgUElJIGNoYW5nZWQuPGJyPg0KICA8YnI+DQogIDxzdHJvbmc+Q29tbXVuaWNhdGlvbnMgRnJvbSBUaGUgU2l0ZSBBbmQgSG93IFRvIE9wdC1vdXQ8L3N0cm9uZz48YnI+DQoNCiAgPGJyPg0KICAgICAgICBZb3Ugd2lsbCAgcmVjZWl2ZSB0cmFuc2FjdGlvbiBvciBzZXJ2aWNlIHJlbGF0ZWQgY29tbXVuaWNhdGlvbnMgZnJvbSB0aGUgV2Vic2l0ZSB3aGVuIHlvdSAgcHVyY2hhc2UgdHJhdmVsIHByb2R1Y3RzIGFuZCBzZXJ2aWNlcyB0aHJvdWdoIG91ciBXZWJzaXRlLiZuYnNwOyBBZGRpdGlvbmFsbHksIHlvdSB3aWxsIHJlY2VpdmUgcHJvbW90aW9uYWwgIGNvbW11bmljYXRpb25zIGZyb20gdXMgaWYgeW91IGNob29zZSB0byByZWNlaXZlIHRoZXNlIGNvbW11bmljYXRpb25zLjwvcD4NCiAgICAgIFlvdSBtYXkgY2hvb3NlIGF0IGFueSB0aW1lIGR1cmluZyB0aGUgcmVnaXN0cmF0aW9uICBwcm9jZXNzIHRvICZsZHF1bztvcHQtb3V0JnJkcXVvOyBhbmQgY2hvb3NlIG5vdCB0byByZWNlaXZlIHByb21vdGlvbmFsIGNvbW11bmljYXRpb25zIHRoYXQgRWFzeUNsaWNrVHJhdmVsLmNvbSAgZmVlbHMgbWF5IGludGVyZXN0IHlvdS4gWW91IG1heSBjaG9vc2UgdG8gdW5zdWJzY3JpYmUgYW5kIG5vdCByZWNlaXZlIGZ1dHVyZSBwcm9tb3Rpb25hbCAgY29tbXVuaWNhdGlvbnMgYnkgYWNjZXNzaW5nIHRoZSB1bnN1YnNjcmliZSBsaW5rIG9uIGFuIGVtYWlsIHJlY2VpdmVkIGJ5IEVhc3lDbGlja1RyYXZlbC5jb20uICBZb3UgY2FuIGFsc28gJmxkcXVvO29wdC1vdXQmcmRxdW87IG9mIHJlY2VpdmluZyB0aGVzZSBuZXdzbGV0dGVycyBieSBsb2dnaW5nIGludG8geW91ciAgYWNjb3VudCBhbmQgJmxkcXVvO29wdGluZy1vdXQmcmRxdW87IG9mIHJlY2VpdmluZyB0aGVzZSBuZXdzbGV0dGVycy4gPGJyPg0KDQogICAgICAgIDxicj4NCiAgICAgICAgPHN0cm9uZz5UZWxsLUEtRnJpZW5kPC9zdHJvbmc+DQogICAgICA8cD5JZiB5b3UgIGNob29zZSB0byB1c2Ugb3VyIHJlZmVycmFsIHNlcnZpY2UgdG8gdGVsbCBhIGZyaWVuZCBhYm91dCBvdXIgc2l0ZSwgd2Ugd2lsbCBhc2sgIHlvdSBmb3IgeW91ciBmcmllbmQmcnNxdW87cyBuYW1lIGFuZCBlbWFpbCBhZGRyZXNzLiZuYnNwOyAgV2Ugd2lsbCBhdXRvbWF0aWNhbGx5IHNlbmQgeW91ciBmcmllbmQgYSBvbmUtdGltZSBlbWFpbCBpbnZpdGluZyBoaW0gb3IgIGhlciB0byB2aXNpdCB0aGUgc2l0ZS4mbmJzcDsgRWFzeUNsaWNrVHJhdmVsLmNvbSAgZG9lcyBub3Qgc3RvcmUgdGhpcyBpbmZvcm1hdGlvbi4gPC9wPg0KICAgICAgPHA+PHN0cm9uZz5CbG9ncyBBbmQgVGVzdGltb25pYWxzPC9zdHJvbmc+PC9wPg0KICAgICAgPHA+SWYgeW91ICBjb21tZW50IHRvIGEgYmxvZyBvciBwb3N0IGEgdGVzdGltb25pYWwgb24gdGhpcyBXZWJzaXRlLCB5b3Ugc2hvdWxkIGJlIGF3YXJlICB0aGF0IGFueSBQSUkgeW91IHN1Ym1pdCBjYW4gYmUgcmVhZCwgY29sbGVjdGVkLCBvciB1c2VkIGJ5IG90aGVyIHVzZXJzIG9uIHRoZXNlICBmb3J1bXMsIGFuZCB0aGUgUElJIGNhbiBiZSB1c2VkIHRvIHNlbmQgeW91IHVuc29saWNpdGVkIG1lc3NhZ2VzLiZuYnNwOyBXZSBhcmUgbm90IHJlc3BvbnNpYmxlIGZvciBhbmQgd2lsbCBub3QgIHByb3RlY3QgdGhlIHByaXZhY3kgb2YgdGhlIFBJSSB5b3UgY2hvb3NlIHRvIHN1Ym1pdCBpbiB0aGVzZSBmb3J1bXMuPGJyPg0KDQogICAgICAgICAgPHN0cm9uZz5TZXJ2aWNlIFByb3ZpZGVyczwvc3Ryb25nPjwvcD4NCiAgICAgIDxwPldlIHVzZSAgdGhpcmQgcGFydGllcyB0byBwcm92aWRlIGNyZWRpdCBjYXJkIHByb2Nlc3NpbmcsIGVtYWlsIHNlcnZpY2VzLCB3ZWItYW5hbHl0aWNzLCAgYW5kIGxpdmUtY2hhdCBzZXJ2aWNlcyBvbiBvdXIgV2Vic2l0ZS4mbmJzcDsgIFdoZW4geW91IHNpZ24gdXAgZm9yIHRoZXNlIHNlcnZpY2VzLCB3ZSB3aWxsIHNoYXJlIHlvdXIgUElJIGFzIG5lY2Vzc2FyeSAgZm9yIHRoZSB0aGlyZCBwYXJ0eSB0byBwcm92aWRlIHRoZSBzZXJ2aWNlcy4mbmJzcDsgIFRoZXNlIHRoaXJkIHBhcnRpZXMgYXJlIHByb2hpYml0ZWQgZnJvbSB1c2luZyB5b3VyIFBJSSBmb3IgYW55IG90aGVyICBwdXJwb3NlLiZuYnNwOyBXZSBhbHNvIGhhdmUgV2lkZ2V0cyBvbiB0aGlzIFdlYnNpdGUgIHdoaWNoIHN1cHBvcnQgZnVuY3Rpb25zIHRoYXQgcmVxdWlyZSB0aGF0IHlvdSB0byBkaXNjbG9zZSBjZXJ0YWluIFBJSSBkZXBlbmRpbmcgIG9uIHlvdXIgY2hvaWNlIG9mIHBhcnRpY2lwYXRpb24uIFRoaXMgaW5mb3JtYXRpb24gaXMgY29sbGVjdGVkIGluIG1hbnkgIGRpZmZlcmVudCB3YXlzIHN1Y2ggYXM6IGZvcm1zLCBzdXJ2ZXlzLCBjb250ZXN0cywgZm9ydW1zLCBzdWJzY3JpYmluZyBvciAgdW5zdWJzY3JpYmluZyB0byBtYWlsaW5ncyBhbmQgY29ycmVjdGluZyBvciB1cGRhdGluZyBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSAgaW5mb3JtYXRpb24gYW5kIGFyZSBvbmx5IHVzZWQgZm9yIHRoZSBwdXJwb3NlIGluIHdoaWNoIHRoZXkgd2VyZSBjb2xsZWN0ZWQuIDwvcD4NCiAgICAgIDxwPiZuYnNwOzwvcD4NCiAgICAgIDxwPjxzdHJvbmc+U2VjdXJpdHkgIEFuZCBDb25maWRlbnRpYWxpdHk8L3N0cm9uZz48YnI+DQoNCiAgICAgICAgICA8YnI+DQogICAgICAgIFRoZSBzZWN1cml0eSBvZiB5b3VyIFBJSSBpcyBpbXBvcnRhbnQgdG8gdXMuJm5ic3A7IFdoZW4geW91IGVudGVyIHNlbnNpdGl2ZSBpbmZvcm1hdGlvbiBzdWNoIGFzICBjcmVkaXQgY2FyZCBudW1iZXIgb24gb3VyIHJlZ2lzdHJhdGlvbiBvciBvcmRlciBmb3Jtcywgd2UgZW5jcnlwdCB0aGF0IGluZm9ybWF0aW9uICB1c2luZyBzZWN1cmUgc29ja2V0IGxheWVyIHRlY2hub2xvZ3kgKFNTTCkuIDwvcD4NCiAgICAgIDxwPldlIGZvbGxvdyBnZW5lcmFsbHkgYWNjZXB0ZWQgaW5kdXN0cnkgc3RhbmRhcmRzIHRvIHByb3RlY3QgdGhlIFBJSSAgc3VibWl0dGVkIHRvIHVzLCBib3RoIGR1cmluZyB0cmFuc21pc3Npb24gYW5kIG9uY2Ugd2UgcmVjZWl2ZSBpdC4mbmJzcDsgSG93ZXZlciwgbm8gbWV0aG9kIG9mIHRyYW5zbWlzc2lvbiBvdmVyIHRoZSAgSW50ZXJuZXQsIG9yIG1ldGhvZCBvZiBlbGVjdHJvbmljIHN0b3JhZ2UsIGlzIDEwMCUgc2VjdXJlLiZuYnNwOyBUaGVyZWZvcmUsIHdoaWxlIHdlIHN0cml2ZSB0byB1c2UgIGNvbW1lcmNpYWxseSBhY2NlcHRhYmxlIG1lYW5zIHRvIHByb3RlY3QgeW91ciBQSUksIHdlIGNhbm5vdCBndWFyYW50ZWUgaXRzICBhYnNvbHV0ZSBzZWN1cml0eS48L3A+DQogICAgICA8cD5XaGVuIHlvdSAgY2xpY2sgb24gYW55IGxpbmtzIG9uIG91ciBXZWJzaXRlLCB5b3UgbGVhdmUgb3VyIFdlYnNpdGUgYW5kIGVudGVyIHRoZSB3ZWJzaXRlICBvZiBhIHRoaXJkIHBhcnR5LiBZb3VyIHZpc2l0IHRvIHRoZXNlIHRoaXJkIHBhcnR5IHdlYnNpdGVzIGFyZSBnb3Zlcm5lZCBieSB0aGUgIHByaXZhY3kgYW5kIHNlY3VyaXR5IHBvbGljaWVzLCBpZiBhbnksIG9mIHRob3NlIHRoaXJkIHBhcnR5IHNpdGVzLiBFYXN5Q2xpY2tUcmF2ZWwuY29tICBpcyBub3QgcmVzcG9uc2libGUgZm9yIHNlY3VyaXR5IGFuZCBjb25maWRlbnRpYWxpdHkgb2YgeW91ciBpbmZvcm1hdGlvbiBvbiAgdGhpcmQgcGFydHkgc2l0ZXMuPGJyPg0KDQogICAgICAgICAgPGJyPg0KICAgICAgICBXZSByZXNlcnZlIHRoZSByaWdodCB0byBkaXNjbG9zZSB5b3VyIFBJSSBhcyByZXF1aXJlZCBieSBsYXcsIHdoZW4gd2UgYmVsaWV2ZSAgdGhhdCBkaXNjbG9zdXJlIGlzIG5lY2Vzc2FyeSB0byBwcm90ZWN0IG91ciByaWdodHMsIGFuZC9vciB0byBjb21wbHkgd2l0aCBhICBqdWRpY2lhbCBwcm9jZWVkaW5nLCBjb3VydCBvcmRlciwgb3IgbGVnYWwgcHJvY2Vzcy4mbmJzcDsgSW4gYWRkaXRpb24sIEVhc3lDbGlja1RyYXZlbC5jb20gbWF5IGRpc2Nsb3NlICBjZXJ0YWluIGluZm9ybWF0aW9uIGluIGNhc2VzIG9mIGZyYXVkIG9yIGFidXNlIG9mIHRoZSBXZWJzaXRlLjxzdHJvbmc+IDwvc3Ryb25nPjwvcD4NCiAgICAgIDxwPjxzdHJvbmc+Q2hhbmdlcyAgVG8gVGhpcyBQcml2YWN5IFN0YXRlbWVudDwvc3Ryb25nPjxicj4NCiAgICAgICAgICA8YnI+DQogICAgICAgIENoYW5nZXMgdG8gdGhpcyBQcml2YWN5IFN0YXRlbWVudCBtYXkgYmUgbWFkZSBmcm9tIHRpbWUgdG8gdGltZS4gSWYgYW55IGNoYW5nZSAgaXMgdW5hY2NlcHRhYmxlIHRvIHlvdSwgeW91IG1heSBlZGl0IG9yIHJlbW92ZSB5b3VyIGluZm9ybWF0aW9uIHN1YmplY3QgdG8gdGhlICByZXN0cmljdGlvbnMgbm90ZWQgaGVyZWluIGFuZC9vciBjaGFuZ2UgeW91ciBvcHQtb3V0IHByZWZlcmVuY2UuICZuYnNwOyZuYnNwO0Vhc3lDbGlja1RyYXZlbC5jb20gd2lsbCBlaXRoZXIgaW5mb3JtIHlvdSBieSAgZW1haWwgaWYgeW91IGhhdmUgcmVnaXN0ZXJlZCBvbiBvdXIgV2Vic2l0ZSBvciBieSBtZWFucyBvZiBhIG5vdGljZSBvbiBvdXIgaG9tZSAgcGFnZSwgb3IgYW5vdGhlciBwbGFjZSB3ZSBkZWVtIGFwcHJvcHJpYXRlLCBvZiBhbnkgbWF0ZXJpYWwgY2hhbmdlIHRvIHRoaXMgIFByaXZhY3kgU3RhdGVtZW50IHNvIHRoYXQgeW91IGFyZSBhd2FyZSBvZiB3aGF0IGluZm9ybWF0aW9uIHdlIGNvbGxlY3QsIGhvdyB3ZSAgdXNlIGl0LCBhbmQgdW5kZXIgd2hhdCBjaXJjdW1zdGFuY2VzLCBpZiBhbnksIHdlIGRpc2Nsb3NlIGl0LiZuYnNwOyBXZSByZXNlcnZlIHRoZSByaWdodCB0byBtb2RpZnkgdGhpcyBQcml2YWN5ICBTdGF0ZW1lbnQgYXQgYW55IHRpbWUsIHNvIHBsZWFzZSByZXZpZXcgaXQgZnJlcXVlbnRseS4mbmJzcDsgPC9wPg0KDQogICAgICA8cD48c3Ryb25nPkNvbnRhY3QgVXM8YnI+DQogICAgICAgIDwvc3Ryb25nPjxicj4NCiAgICAgICAgSWYgeW91ICB3b3VsZCBsaWtlIHRvIGNvbnRhY3QgdXMgcmVnYXJkaW5nIHRoaXMgUHJpdmFjeSBTdGF0ZW1lbnQsIHlvdSBjYW4gcmVhY2ggdXMgYnkgb3VyICBtYWlsaW5nIGFkZHJlc3MgYXQgMjIwIEVhc3QgQ2VudHJhbCBQYXJrd2F5LCBTdWl0ZSA0MDAwLCBBbHRhbW9udGUgU3ByaW5ncywgRkwgIDMyNzAxIG9yIGJ5IGVtYWlsIGF0IHdlYm1hc3RlckB0cmF2ZWxob2xkaW5ncy5jb20uPC9wPiAgICAgIDxoMT4mbmJzcDs8L2gxPg0KICAgIDwvdGQ+DQogIDwvdHI+DQo8L3RhYmxlPmRkgALkRiZ40mbaVnIhvYmNfZtjigU=">
 
 
         <script type="text/javascript">
@@ -313,9 +373,6 @@ document.onclick = comboState;</script>
                                 <tbody><tr>
                                     <td align="center">
                                         
-
-
-
 
 <script language="javascript" type="text/javascript">
 var globalMenu;
@@ -373,7 +430,7 @@ function findPos(o) {
                             <table border="0" cellspacing="0" cellpadding="0"><tbody><tr>
                             
                                     <td align="center">
-                                        <div><a id="_ctl0_ucMNB_repTabs__ctl0_hlTab" href="http://www.easyclicktravel.com/"><img src="/Modules/customizable/images/021804_home_off.gif" border="0"></a></div>
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl0_hlTab" href="http://www.easyclicktravel.com/"><img src="/Modules/customizable/images/021804_home_on.gif" border="0"></a></div>
                                         <div></div>
                                     </td>
                                 
@@ -403,22 +460,27 @@ function findPos(o) {
                                     </td>
                                 
                                     <td align="center">
-                                        <div><a id="_ctl0_ucMNB_repTabs__ctl6_hlTab" href="http://www.easyclicktravel.com/pagedealsmain.aspx"><img src="/Modules/customizable/images/021804_top25deals_off.gif" border="0"></a></div>
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl6_hlTab" href="http://www.easyclicktravel.com/Activity-Search.aspx"><img src="/Modules/customizable/images/021804_attractions_off.gif" border="0"></a></div>
                                         <div></div>
                                     </td>
                                 
                                     <td align="center">
-                                        <div><a id="_ctl0_ucMNB_repTabs__ctl7_hlTab" href="Http://www.easyclicktravel.com/Destination/"><img src="/Modules/customizable/images/021804_destinations_off.gif" border="0"></a></div>
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl7_hlTab" href="http://www.easyclicktravel.com/info/deals.aspx"><img src="/Modules/customizable/images/021804_top25deals_off.gif" border="0"></a></div>
                                         <div></div>
                                     </td>
                                 
                                     <td align="center">
-                                        <div><a id="_ctl0_ucMNB_repTabs__ctl8_hlTab" href="http://www.easyclicktravel.com/PageCouponsRedirect.aspx"><img src="/Modules/customizable/images/021804_discounts_off.gif" border="0"></a></div>
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl8_hlTab" href="Http://www.easyclicktravel.com/Destination/"><img src="/Modules/customizable/images/021804_destinations_off.gif" border="0"></a></div>
                                         <div></div>
                                     </td>
                                 
                                     <td align="center">
-                                        <div><a id="_ctl0_ucMNB_repTabs__ctl10_hlTab" href="https://www.easyclicktravel.com/Secure/PageRegistration.aspx"><img src="/Modules/customizable/images/021804_members_000.gif" border="0"></a></div>
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl9_hlTab" href="http://www.easyclicktravel.com/PageCouponsRedirect.aspx"><img src="/Modules/customizable/images/021804_discounts_off.gif" border="0"></a></div>
+                                        <div></div>
+                                    </td>
+                                
+                                    <td align="center">
+                                        <div><a id="_ctl0_ucMNB_repTabs__ctl13_hlTab" onmouseover="showIt(1,this)" onmouseout="hideIt(1,this)" style="cursor:pointer; cursor:hand"><img src="/Modules/customizable/images/021804_members_000.gif" border="0"></a></div>
                                         <div></div>
                                     </td>
                                  
@@ -430,6 +492,54 @@ function findPos(o) {
                         <td align="right" colspan="3">
                         <div id="parentSubmenu" style="position:absolute;z-index:100;">
                             
+<table id="layer1" cellspacing="0" cellpadding="0" border="0" class="submenu" onmouseover="ShowMenu('layer1');" onmouseout="hideIt();">
+    <tbody><tr><td>
+    <table cellpadding="0" class="menu_border" cellspacing="0" border="0">
+    
+        <tbody><tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl1_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='https://www.easyclicktravel.com/Secure/PageUserAcount.aspx';">
+                    <img src="/Modules/Customizable/Images/arrow_menu.gif" alt="">&nbsp;
+                    My Account
+            </td>
+
+        </tr>    
+        
+        <tr>
+                <td id="_ctl0_ucMNB_layer1_rptSubmenu__ctl2_tdSubMenu" align="left" class="Option_but_submenu" onmouseover="this.className='Option_but_Over_submenu'" onmouseout="this.className='Option_but_submenu'" style="cursor:pointer" onclick="window.location='http://www.easyclicktravel.com/PageLoyaltyOverview.aspx';">
+                    <img src="/Modules/Customizable/Images/arrow_menu.gif" alt="">&nbsp;
+                    TripleDip Overview
+            </td>
+
+        </tr>    
+        
+    </tbody></table>
+    </td></tr>
+</tbody></table>
+<script type="text/javascript">
+var timerExp = 0;
+function ShowMenu(menu)
+{
+    ClearTimers();
+    globalMenu = document.getElementById(menu);
+    globalMenu.style.display='block';
+}
+
+function hideIt() 
+{
+    ClearTimers();
+    timerExp = setTimeout( "HideMenuHelper()", 500 );    
+}
+function ClearTimers()
+{
+    if(timerExp != 0)
+        clearTimeout(timerExp);
+}
+function HideMenuHelper()
+{
+    globalMenu.style.display='none';
+}
+</script>
+
                         </div>
                         </td>
                     </tr>
@@ -451,88 +561,86 @@ function findPos(o) {
                                 </tr>
                             </tbody></table>
                             <br style="font-size: 10px">
-                             
-		
+                            
+    <table width="780" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td><p><strong></strong></p><div style="float:right; margin: 10px;"><strong><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=www.easyclicktravel.com&amp;sealid=101" target="_blank"><img src="http://image2.urlforimages.com/TipaImages/truste/truste_seal_ctv.gif"></a></strong></div><strong>PRIVACY STATEMENT</strong><strong><br>
+      Effective Date October 15, 2009</strong><br>
+  <br>
 
+  <strong>Introduction</strong><br>
+  <br>
+      EasyClickTravel.com®, a brand of Travel Holdings, Inc. is committed to maintain  security and confidentiality of the personal information gathered and used on  the www.easyclicktravel.com website (“hereinafter the Website”). This Privacy  Statement covers www.EasyClickTravel.com.<br>
+  <br>
+      Travel Holdings, Inc. is a licensee of  the TRUSTe Privacy Program.&nbsp; TRUSTe is an  independent, organization whose mission is to build user’s trust and confidence  in the Internet by promoting the use of fair information practices.&nbsp; Because this Website wants to demonstrate its  commitment to your privacy, it has agreed to disclose its information practices  and have its privacy practices reviewed for compliance by TRUSTe.<p></p>
 
-		
-<table border="0" cellpadding="0" cellspacing="0" align="center" width="90%" class="LANG_DIR">
-	<tbody><tr>
-		<td>
-<style type="text/css">
-.heading {
-	font-family:tahoma, verdana, arial, helvetica;
-	font-size:16px;
-	font-weight:bold;
-	color:#333
-	}
-.copy  {
-	font-family:tahoma, verdana, arial, helvetica;
-	font-size:12px;
-	color:#333
-	}
+      <p>If you have questions or concerns regarding this statement, you should  first contact Travel Holdings’ Webmaster at EasyClickTravel.com at webmaster@travelholdings.com.&nbsp; If you do not receive acknowledgement of your  inquiry or your inquiry has not been satisfactorily addressed, you should  contact TRUSTe at <a href="http://watchdog.truste.com/pvr.php?page=complaint&amp;url">http://watchdog.truste.com/pvr.php?page=complaint&amp;url</a>=. <br>
+  &nbsp;TRUSTe will then serve as a liaison with us to  resolve your concerns.<br>
+  <br>
+        EasyClickTravel.com  and its authorized technology, marketing and service providers may gather,  store, and process personal information from the Website.<br>
 
+  <br>
+  <strong>Information Collected</strong><br>
+  <br>
+        EasyClickTravel.com collects information that you voluntarily provide to us on  the Website. The types of personal identifying information (“PII”) that may be collected  on the Website are customer name, names of companion travelers, mailing  address, e-mail address, telephone number(s), date of birth, passport  information, credit card and payment information and weight. Non-personal data  that you voluntarily provide to us may be collected on the Website during your  usage of the site. &nbsp;&nbsp;<br>
+  <br>
+        Children and individuals under 18 years of age are not permitted to register or  make purchases on our site. &nbsp;<br>
 
-</style>
-<table cellpadding="0" border="0" width="100%">
-	<tbody><tr>
-<td width="100%" valign="middle" class="copy">
-<span class="heading">PRIVACY STATEMENT</span><br>
-<b>August 3, 2004</b><br><br>
+  <br>
+  <strong>Information Use</strong><br>
+  <br>
+        EasyClickTravel.com gathers, stores, and processes the PII in order to respond  to requests for travel products and services and to improve our Website and  service. EasyClickTravel.com may share your information with its authorized  technology, marketing and service providers. However, EasyClickTravel.com does  not sell, share, rent, or trade personal information to third parties for  promotional purposes.&nbsp; The suppliers of  travel inventory (hotels, cruise lines, etc.) that receive your information may  have privacy policies that are different than this Privacy Policy.&nbsp; Our credit card processing uses your PII  solely to facilitate the completion of your travel booking.</p>
+      <p>We may  share your information you provide, including PII, with third parties in a  legal proceeding, when there is reasonable to believe that illegal or  fraudulent activity has or may occur, and/or in certain corporate transactions  provided the recipients of the data in these transactions are contractually  obligated to abide by this or a similar Privacy Policy. <br>
 
-<b>Introduction</b><br><br>
+          <br>
+        Non-personal information may be linked to your PII and provided to authorized,  third parties to improve our Website and service.&nbsp; These third parties may be located outside  the USA.<br>
+  <br>
+        EasyClickTravel.com may automatically collect statistics about your visit to  our Website when you visit the Website without registering. This information  does not identify you as an individual and it is intended to gather information  about your visit to our Website. The types of information that may be collected  is your IP address, pages visited on the Website, addresses of websites visited  that are linked to our Website or which we have a relationship, and similar  information.&nbsp; This information is  collected through the use of tracking technologies such as log files and web  beacons. <br>
+  <br>
+  <strong>Option To Control Information</strong><br>
 
-LastMinuteTravel.com is committed to maintain security and confidentiality of the personal information gathered and used on the www.lastminutetravel.com website (“hereinafter the Website”).  Lastminutetravel.com does not sell personal information to third parties.<br><br>
+  <br>
+        PII does not have to be revealed when you visit the Website. Nevertheless, EasyClickTravel.com  may collect data about your use of the Website; this data will be anonymous and  will not be linked to any PII unless that information is provided voluntarily.  This information is collected to help us improve our Website and service.<br>
+  <br>
+        EasyClickTravel.com may place a “cookie” or computer file on your computer and/or  use other technologies to enable us to recognize you when you visit our site  again and to measure the effectiveness of our Website. You may instruct your  computer not to accept cookies.&nbsp; Our  cookies are linked to PII.&nbsp; Additionally,  we use a third- party tracking service that uses cookies to track non-PII about  visitors to our site.<br>
 
-LastMinuteTravel.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.  For example, we contract with third parties to process credit card information.<br><br>
+  <br>
+        PII that you voluntarily provide to EasyClickTravel.com when you register with  us can be edited or removed by accessing the Member section on our Website by  logging into “My Account” and changing your personally identifying information.  We may retain travel records for six (6) months after a request for removal to  ensure that the any existing travel arrangements are concluded and/or if we are  legally required to retain the records. If you provide EasyClickTravel.com with  additional PII, such as travel provider membership numbers or ticketing  preferences, we may retain that information. This information may be edited or  removed, as well. You may not be able to edit or remove data or information we  collect from third parties.&nbsp; You can also  send an email to <a href="mailto:webmaster@travelholdings.com">webmaster@travelholdings.com</a> to have your PII changed.<br>
+  <br>
+  <strong>Communications From The Site And How To Opt-out</strong><br>
 
-<b>Information Collected</b><br><br>
+  <br>
+        You will  receive transaction or service related communications from the Website when you  purchase travel products and services through our Website.&nbsp; Additionally, you will receive promotional  communications from us if you choose to receive these communications.</p>
+      You may choose at any time during the registration  process to “opt-out” and choose not to receive promotional communications that EasyClickTravel.com  feels may interest you. You may choose to unsubscribe and not receive future promotional  communications by accessing the unsubscribe link on an email received by EasyClickTravel.com.  You can also “opt-out” of receiving these newsletters by logging into your  account and “opting-out” of receiving these newsletters. <br>
 
-Lastminutetravel.com collects information that you voluntarily provide to us on the Website.  The types of personal identifying information (“PII”) collected on the Website are customer name, names of companion travelers, mailing address, e-mail address, telephone number(s), credit card and payment information, and reservation number.  Non-personal data that you voluntarily provide to us may be collected on the Website during your usage of the site.<br><br>  
+        <br>
+        <strong>Tell-A-Friend</strong>
+      <p>If you  choose to use our referral service to tell a friend about our site, we will ask  you for your friend’s name and email address.&nbsp;  We will automatically send your friend a one-time email inviting him or  her to visit the site.&nbsp; EasyClickTravel.com  does not store this information. </p>
+      <p><strong>Blogs And Testimonials</strong></p>
+      <p>If you  comment to a blog or post a testimonial on this Website, you should be aware  that any PII you submit can be read, collected, or used by other users on these  forums, and the PII can be used to send you unsolicited messages.&nbsp; We are not responsible for and will not  protect the privacy of the PII you choose to submit in these forums.<br>
 
-Children and individuals under 18 years of age are not permitted to register on our site.<br><br>
+          <strong>Service Providers</strong></p>
+      <p>We use  third parties to provide credit card processing, email services, web-analytics,  and live-chat services on our Website.&nbsp;  When you sign up for these services, we will share your PII as necessary  for the third party to provide the services.&nbsp;  These third parties are prohibited from using your PII for any other  purpose.&nbsp; We also have Widgets on this Website  which support functions that require that you to disclose certain PII depending  on your choice of participation. This information is collected in many  different ways such as: forms, surveys, contests, forums, subscribing or  unsubscribing to mailings and correcting or updating personally identifiable  information and are only used for the purpose in which they were collected. </p>
+      <p>&nbsp;</p>
+      <p><strong>Security  And Confidentiality</strong><br>
 
-<b>Information Use</b><br><br>
+          <br>
+        The security of your PII is important to us.&nbsp; When you enter sensitive information such as  credit card number on our registration or order forms, we encrypt that information  using secure socket layer technology (SSL). </p>
+      <p>We follow generally accepted industry standards to protect the PII  submitted to us, both during transmission and once we receive it.&nbsp; However, no method of transmission over the  Internet, or method of electronic storage, is 100% secure.&nbsp; Therefore, while we strive to use  commercially acceptable means to protect your PII, we cannot guarantee its  absolute security.</p>
+      <p>When you  click on any links on our Website, you leave our Website and enter the website  of a third party. Your visit to these third party websites are governed by the  privacy and security policies, if any, of those third party sites. EasyClickTravel.com  is not responsible for security and confidentiality of your information on  third party sites.<br>
 
-Lastminutetravel.com gathers, stores, and processes the PII in order to respond to requests for travel products and services and to improve our Website and service.  Lastminutetravel.com may share your information with its authorized technology, marketing and service providers.  However, Lastminutetravel.com does not sell personal information to third parties.<br><br>
+          <br>
+        We reserve the right to disclose your PII as required by law, when we believe  that disclosure is necessary to protect our rights, and/or to comply with a  judicial proceeding, court order, or legal process.&nbsp; In addition, EasyClickTravel.com may disclose  certain information in cases of fraud or abuse of the Website.<strong> </strong></p>
+      <p><strong>Changes  To This Privacy Statement</strong><br>
+          <br>
+        Changes to this Privacy Statement may be made from time to time. If any change  is unacceptable to you, you may edit or remove your information subject to the  restrictions noted herein and/or change your opt-out preference. &nbsp;&nbsp;EasyClickTravel.com will either inform you by  email if you have registered on our Website or by means of a notice on our home  page, or another place we deem appropriate, of any material change to this  Privacy Statement so that you are aware of what information we collect, how we  use it, and under what circumstances, if any, we disclose it.&nbsp; We reserve the right to modify this Privacy  Statement at any time, so please review it frequently.&nbsp; </p>
 
-Non-personal information may be linked to your PII and provided to authorized third parties to improve our Website and service.<br><br>
-
-Lastminutetravel.com may automatically collect statistics about your visit to our Website when you visit the Website without registering.  This information does not identify you as an individual and it is intended to gather information about your visit to our Website.  The types of information that may be collected is your IP address, pages visited on the Website, addresses of websites visited that are linked to our Website or which we have a relationship, and similar information.<br><br>
-
-<b>Option To Control Information</b><br><br>
-
-PII does not have to be revealed when you visit the Website.  Nevertheless, Lastminutetravel.com may collect data about your use of the Website; this data will be anonymous and will not be linked to any PII unless that information is provided voluntarily.  This information is collected to help us improve our Website and service.<br><br>
-
-Lastminutetravel.com may place a “cookie” or computer file on your computer to enable us to recognize you when you visit our site again.  You may instruct your computer not to accept cookies.<br><br>
-
-PII that you voluntarily provide to Lastminutetravel.com when you register with us can be edited or removed by accessing the Member section on our Website.  We will retain travel records for six (6) months after a request for removal to ensure that the any existing travel arrangements are concluded and/or if we are legally required to retain the records.   If you provide Lastminutetravel.com with additional PII, such as travel provider membership numbers or ticketing preferences, we may retain that information.  This information may be edited or removed, as well.  You may not be able to edit or remove data or information we collect from third parties.<br><br>
-
-<b>Opt-out</b><br><br>
-
-You may choose at any time during the registration process to “opt-out” and choose not to receive communications that LastMinuteTravel.com feels may interest you.  You may choose to unsubscribe and not receive future communications by accessing the unsubscribe link on an email received by LastMinuteTravel.com<br><br>
-
-<b>Changes To This Policy</b><br><br>
-Changes to this privacy policy may be made from time to time.  If any change is unacceptable to you, you may edit or remove your information subject to the restrictions noted herein and/or change your opt-out preference.  LastMinuteTravel.com will inform you by email of any material change to this policy if you have registered on our Website.<br><br>
-
-<b>Security And Confidentiality</b><br><br>
-
-Our Website is secured from unauthorized access through firewall technology and encryption technology in order to minimize the risks involved in usage of the Internet.  When you click on any links on our Website, you leave our Website and enter the website of a third party.  Your visit to these third party websites are governed by the privacy and security policies, if any, of those third party sites.  Lastminutetravel.com is not responsible for security and confidentiality of your information on third party sites.<br><br>
-
-If Lastminutetravel.com is required by law to disclose certain information to government or law enforcement authorities, we will do so.  In addition, Lastminutetravel.com may disclose certain information in cases of fraud or abuse of the Website.
-
-
-
-
-		</td>
-	</tr>
+      <p><strong>Contact Us<br>
+        </strong><br>
+        If you  would like to contact us regarding this Privacy Statement, you can reach us by our  mailing address at 220 East Central Parkway, Suite 4000, Altamonte Springs, FL  32701 or by email at webmaster@travelholdings.com.</p>      <h1>&nbsp;</h1>
+    </td>
+  </tr>
 </tbody></table>
-
-
-</td>
-	</tr>
-</tbody></table>
-<br>
 
                             <br>
                         </td>
@@ -595,17 +703,22 @@ If Lastminutetravel.com is required by law to disclose certain information to go
             </td>
         
             <td align="left">
-                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl6_btnLink" title="Top 10 Deals" class="footer" href="http://www.easyclicktravel.com/pagedealsmain.aspx">Deals</a></span>
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl6_btnLink" title="Activities" class="footer" href="http://www.easyclicktravel.com/Activity-Search.aspx">Activities</a></span>
                 <span class="separator">|</span>
             </td>
         
             <td align="left">
-                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl7_btnLink" title="Destinations" class="footer" href="Http://www.easyclicktravel.com/Destination/">Destinations</a></span>
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl7_btnLink" title="Top 10 Deals" class="footer" href="http://www.easyclicktravel.com/info/deals.aspx">Deals</a></span>
                 <span class="separator">|</span>
             </td>
         
             <td align="left">
-                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl8_btnLink" title="Discounts" class="footer" href="http://www.easyclicktravel.com/PageCouponsRedirect.aspx">Discounts</a></span>
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl8_btnLink" title="Destinations" class="footer" href="Http://www.easyclicktravel.com/Destination/">Destinations</a></span>
+                <span class="separator">|</span>
+            </td>
+        
+            <td align="left">
+                <span style="white-space:normal"><a id="_ctl0_ucMFC_ucNavBar_repTabs__ctl9_btnLink" title="Discounts" class="footer" href="http://www.easyclicktravel.com/PageCouponsRedirect.aspx">Discounts</a></span>
                 <span class="separator">|</span>
             </td>
          
@@ -622,16 +735,25 @@ If Lastminutetravel.com is required by law to disclose certain information to go
         <td align="left" style="line-height:25px;">
         
         
-                <nobr><a href="http://www.easyclicktravel.com/PagePrivacyPolicy.aspx" class="footer">Privacy Policy</a>
+                <nobr><a href="http://www.easyclicktravel.com/info/PagePrivacyPolicy.aspx" class="footer">Privacy Policy</a>
                 <span class="separator">|</span></nobr>
             
-                <nobr><a href="http://www.easyclicktravel.com/About-Us.aspx" class="footer">About Us</a>
+                <nobr><a href="http://www.easyclicktravel.com/PageUserAgreement.aspx" class="footer">User Agreement</a>
                 <span class="separator">|</span></nobr>
             
-                <nobr><a href="http://www.easyclicktravel.com/PageContactUs.aspx" class="footer">Contact Us</a>
+                <nobr><a href="http://www.easyclicktravel.com/info/About-Us.aspx" class="footer">About Us</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr><a href="http://www.easyclicktravel.com/info/ContactUs.aspx" class="footer">Contact Us</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr><a href="http://www.easyclicktravel.com/Info/Faq.aspx" class="footer">FAQ</a>
                 <span class="separator">|</span></nobr>
             
                 <nobr><a href="http://www.easyclicktravel.com/Hotels-by-Destination/Country-list.aspx" class="footer">Hotels By Destination</a>
+                <span class="separator">|</span></nobr>
+            
+                <nobr><a href="http://www.easyclicktravel.com/Activities-By-Destination/Country-list.aspx" class="footer">Activities By Destination</a>
                 <span class="separator">|</span></nobr>
             
         
@@ -684,13 +806,32 @@ If Lastminutetravel.com is required by law to disclose certain information to go
                 <img src="/modules/customizable/images/flags/DE.gif" align="absmiddle" width="16" height="11" border="0">&nbsp;&nbsp;<a href="http://www.easyclicktravel.de" onclick="document.location='http://www.easyclicktravel.com?CountryCode=DE'; return false;" class="footer">Germany</a></span>
                 <span class="separator">|</span>
             </td>
-        <td></td><td></td><td></td><td></td><td></td><td></td><td></td><td></td>
+        <td>
+            </td><td align="left">            
+                <span style="white-space:normal">
+                <img src="/modules/customizable/images/flags/EU.gif" align="absmiddle" width="16" height="11" border="0">&nbsp;&nbsp;<a href="http://www.easyclicktravel.eu" onclick="document.location='http://www.easyclicktravel.com?CountryCode=EU'; return false;" class="footer">European Union</a></span>
+                <span class="separator">|</span>
+            </td>
+        <td>
+            </td><td align="left">            
+                <span style="white-space:normal">
+                <img src="/modules/customizable/images/flags/IT.gif" align="absmiddle" width="16" height="11" border="0">&nbsp;&nbsp;<a href="http://www.easyclicktravel.it" onclick="document.location='http://www.easyclicktravel.com?CountryCode=IT'; return false;" class="footer">Italy</a></span>
+                <span class="separator">|</span>
+            </td>
+        <td>
+            </td><td align="left">            
+                <span style="white-space:normal">
+                <img src="/modules/customizable/images/flags/ES.gif" align="absmiddle" width="16" height="11" border="0">&nbsp;&nbsp;<a href="http://www.easyclicktravel.es" onclick="document.location='http://www.easyclicktravel.com?CountryCode=ES'; return false;" class="footer">Spain</a></span>
+                <span class="separator">|</span>
+            </td>
+        <td></td><td></td><td></td><td></td><td></td>
 	</tr>
 </tbody></table>
     
  </td></tr></tbody></table>           
     
 </td></tr>
+        
         
     </tbody></table>
 
@@ -700,6 +841,8 @@ If Lastminutetravel.com is required by law to disclose certain information to go
 
 <br>
 
+                            
+                            
                         </td>
                     </tr>
                 </tbody></table>
