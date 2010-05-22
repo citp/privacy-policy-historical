@@ -1,16 +1,17 @@
-> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109013946id_/http%3A//www.sodastreamusa.com/content/privacy-policy-0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sodastreamusa.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522101004id_/http%3A//www.sodastreamusa.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | SodaStream
+# Sodastream | Privacy Policy
 
-**Our Commitment To Privacy**
+Our Commitment To Privacy   
+ 
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-**The Information We Collect**
+The Information We Collect
 
 This notice applies to all information collected or submitted on the sodaclub.com & sodastreamusa.com websites. On some pages, you can order products, make requests, enter contests & sweepstakes, complete surveys, submit newsletter registrations and other notification requests, and request to be contacted by our staff. The types of personal information collected at these pages are: Name, Address, Email address, Phone number, Credit/Debit Card Information, demographic information, gender information, and responses to survey questions.
 
-**The Way We Use Information**
+The Way We Use Information
 
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
 
@@ -22,18 +23,18 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-**Our Commitment To Data Security**
+Our Commitment To Data Security
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**Our Commitment To Children's Privacy**
+Our Commitment To Children's Privacy
 
 Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-**How To Contact Us**
+How To Contact Us
 
-Should you have other questions or concerns about these privacy policies, please call us at 1.800.763.2258 or send us an email at supportusa@sodastream.com.
+Should you have other questions or concerns about these privacy policies, please call us at 1.800.763.2258 or send us an email at [info@sodastreamsupport.com](mailto:info@sodastreamsupport.com).
 
-**Privacy Policy Changes**
+Privacy Policy Changes
 
 Any material changes to Sodastream USA's Privacy Policy will be posted conspicuously within this Privacy Policy. Effective Date January 1, 2004.
