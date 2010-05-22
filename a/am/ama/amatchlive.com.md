@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amatchlive.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116231857id_/http%3A//www.amatchlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amatchlive.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522203402id_/http%3A//www.amatchlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # AMatchLive - Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-AMatchLive.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! AMatchLive.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+AMatchLive LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! AMatchLive is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
