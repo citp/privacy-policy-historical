@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2007-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071220021329id_/http%3A//www.airstream.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airstream.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522230834id_/http%3A//www.airstream.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Airstream, Inc :: Privacy Policy
+
+## Privacy Policy
 
 Because this web site wants to demonstrate its commitment to your privacy, it has agreed to notify you of:
 
@@ -26,4 +28,4 @@ In order to use some areas of this website, a user may be required to first comp
 
 ##  Order
 
-We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer�s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
+We request information from the user on our order form. Here a user must provide contact information (like name and shipping address) and financial information (like credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, this contact information is used to get in touch with the user.
