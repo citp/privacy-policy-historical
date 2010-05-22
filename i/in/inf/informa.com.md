@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503053930id_/http%3A//www.informa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the informa.com privacy policy that was archived on 2010-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100522154319id_/http%3A//www.informa.com/privacy) for the most accurate reproduction.*
 
 # Informa.com - Privacy Policy
 
 ## Informa Plc Privacy Policy Statement
 
-This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.informa.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Plc ("our", "we" or "us").
+This online privacy policy is designed to tell you about how we collect and use information so that you ("User" or "you") can make an informed choice about using the website identified by the URL www.informa.com and/or any website which is automatically redirected to that website (together, the "Website") operated by Informa Group plc ("our", "we" or "us") on behalf of Informa plc (registered in Jersey).
 
 ## What Information Do We Collect?
 
@@ -51,7 +51,7 @@ In order to keep up with changing legislation and best practice, we may revise t
 If you have any questions about this privacy pledge or feel that your privacy has been compromised, please contact us at [corporateoptout@informa.com](mailto:corporateoptout@informa.com) or alternatively:
 
 Global Web Specialist  
-Informa Plc,  
+Informa Group Plc,  
 Mortimer House,  
 27 Mortimer Street,  
 London W1T 3JH,  
