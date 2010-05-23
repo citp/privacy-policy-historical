@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130203324id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mrdonn.org privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523234153id_/http%3A//www.mrdonn.org/privacypolicy.html) for the most accurate reproduction.*
 
 # MrDonn.org - Privacy Policy
 
-> ### Privacy Policy
+> **Privacy Policy**
 > 
 > **mrdonn.org does not collect information on visitors to its Website.  ** However, Google, as a third party vendor, uses cookies to serve ads on our site. Check the Google information below to see how users may opt out of the DART cookie. To fulfill federal legislative requirements, we are making additional specific statements below. This policy follows the privacy policy model provided by [Awesome Library](http://www.awesomelibrary.org/index.html).
 > 
-> ### Privacy Policy Regarding Children
+> **Privacy Policy Regarding Children**
 > 
 > **mrdonn.org does not:**
 > 
@@ -26,13 +26,13 @@
 > 
 > If mrdonn.org ever requests personally identifiable information, we will also place prominent notice where personally identifiable information is collected, requesting the child to ask a parent for permission to answer the questions.
 > 
-> ### Privacy Policy Regarding Adults
+> **Privacy Policy Regarding Adults**
 > 
 > **mrdonn.org does not:**
 > 
 > Collect personally identifiable information.   If it does begin collecting such information, prior consent will be obtained from the users of the site, options will be provided to not provide such information, and the uses of the information will be specified. If information will be divulged to third parties, users will be notified prior to collecting the information.
 > 
-> #### Privacy Policy Regarding Google, as a third party vendor:
+> **Privacy Policy Regarding Google, as a third party vendor:**
 > 
 > Google sent us the following information on March 12, 2009, about the new Google [DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx):
 > 
