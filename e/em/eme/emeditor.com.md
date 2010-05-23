@@ -1,18 +1,7 @@
-> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028093318id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emeditor.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523041113id_/http%3A//www.emeditor.com/modules/about3/rewrite/tc_6.html) for the most accurate reproduction.*
 
-# EmEditor text editor - Privacy Policy
+# EmEditor Text Editor - Privacy Policy
 
-|  |  Compatible with Windows 7  
----  
-|   
----  
-EmEditor is Compatible with Windows 7   
- BBB Accredited  
----  
-| [](https://www.bbb.org/online/consumer/cks.aspx?id=1081003173537)  
----  
-Emurasoft is a BBB accredited business!   
-  
 **Emurasoft Privacy Policy Notice**
 
 All Emurasoft, Inc. products and services are governed by our privacy policy, which explains how we treat personal information.
@@ -53,6 +42,6 @@ Last Modified: September 30, 2008
 
 [](http://www.emeditor.com/modules/about3/print.php?id=6)
 
-[](mailto:?subject=Interesting%20Article%20at%20EmEditor%20text%20editor&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20EmEditor%20text%20editor%3A%20http://www.emeditor.com/modules/about3/index.php?id=6)
+[](mailto:?subject=Interesting%20Article%20at%20EmEditor%20Text%20Editor&body=Here%20is%20an%20interesting%20article%20I%20have%20found%20at%20EmEditor%20Text%20Editor%3A%20http://www.emeditor.com/modules/about3/index.php?id=6)
 
 * * *
