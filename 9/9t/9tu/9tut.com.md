@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2009-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090325104946id_/http%3A//www.9tut.com/component/content/article/43-privacy/56-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9tut.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523035925id_/http%3A//9tut.com/component/content/article/43-privacy/56-privacy-policy) for the most accurate reproduction.*
 
 # Privacy-Policy
 
+All of the articles on 9tut.com are copyright its respective owner. You are allowed to use them anywhere with a link back to its original article on this site. 
+
 Privacy Policy:
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy. ](http://www.google.com/privacy_ads.html)
+
+
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site The following discloses the information gathering and dissemination practices for this Web site.
 
