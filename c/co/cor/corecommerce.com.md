@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the corecommerce.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619085412id_/http%3A//www.corecommerce.com/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corecommerce.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020025id_/http%3A//www.corecommerce.com/company/privacy.html) for the most accurate reproduction.*
 
-# Ecommerce Software - Privacy Policy
+# Ecommerce Software and Shopping Cart Software by CoreCommerce
 
 Sum Effect Software, Inc. ("Sum Effect Software, Inc.") is committed to respecting your online privacy and recognizes your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. 
 
