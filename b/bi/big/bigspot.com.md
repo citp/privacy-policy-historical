@@ -1,10 +1,7 @@
-> *The following text is extracted and transformed from the bigspot.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126025704id_/http%3A//www.bigspot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigspot.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523202448id_/http%3A//www.bigspot.com/privacy) for the most accurate reproduction.*
 
 # BigSpot.com - Privacy Policy
 
-[](http://www.bigspot.com/) |   
----|---  
-  
 At BigSpot.com we respect your privacy.
 
 EFFECTIVE DATE: MARCH 31, 2008
@@ -49,4 +46,4 @@ We take great efforts to provide security for your information. However, no syst
 
 Questions
 
-If you have any questions regarding how your information is collected or used on the Website, we can be contacted by clicking [here](https://www.bigspot.com/contact).
+If you have any questions regarding how your information is collected or used on the Website, we can be contacted by clicking [here](https://web.archive.org/contact).
