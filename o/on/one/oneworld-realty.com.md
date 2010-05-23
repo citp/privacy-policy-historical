@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the oneworld-realty.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119205606id_/http%3A//www.oneworld-realty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworld-realty.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523160318id_/http%3A//www.oneworld-realty.com/privacy-policy) for the most accurate reproduction.*
 
-# One World Realty » Privacy Policy
+# Privacy Policy : One World Realty
+
+You are here: [Home](http://www.oneworld-realty.com/) / Privacy Policy
 
 **Privacy Policy for http://businesspherealty.com**
 
