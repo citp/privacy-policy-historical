@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snowboardermag.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228102827id_/http%3A//privacy.sourceinterlinkmedia.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snowboardermag.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523233142id_/http%3A//privacy.sourceinterlinkmedia.com) for the most accurate reproduction.*
 
 # Source Interlink Companies Privacy Policy
 
@@ -105,9 +105,9 @@ Or you can contact us by mail at: __
 
 _Source Interlink Companies, Inc.  
 Attn: Privacy Coordinator   
-6420 Wilshire Blvd.   
-Los Angeles, CA 90048 _
+831 South Douglas Street   
+El Segundo, California 90245 _
 
-Or you can fax us at 323.782.2920 _Attn: Privacy Coordinator_  
+Or you can fax us at 310.531.9376 _Attn: Privacy Coordinator_  
   
-Last Update September 23, 2009
+Last Update April 22, 2010
