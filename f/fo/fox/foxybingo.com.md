@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818234702id_/http%3A//www.foxybingo.com/skin/general/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxybingo.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523163603id_/http%3A//www.foxybingo.com/skin/general/privacypolicy.php) for the most accurate reproduction.*
 
-# Foxy Bingo - Privacy Policy
+# Foxy Bingo | Join Now and get £5 FREE, no deposit! | The UK's Top Online Bingo Site!
 
 The brands on this website (the "Website") are owned by Cashcade Ltd (the "Brand Owner"). The Website and the services offered on it are powered by a software belonging to Brigend Limited ("Brigend") and operated by Cassava Enterprises (Gibraltar) Limited ("Cassava"), which are both within the same corporate group and registered under the laws of Gibraltar to provide such services. 
 
