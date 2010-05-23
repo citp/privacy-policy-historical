@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417061226id_/http%3A//www.utopiapimp.com/%3Fmisc/privacy%26PHPSESSID%3Da2b42bd94acb1eca23958483a5e480ac) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utopiapimp.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523073606id_/http%3A//utopiapimp.com/anonymous/privacy.aspx) for the most accurate reproduction.*
 
-# Utopiapimp - warforums for the popular webpage strategy MMOG, Utopia
+# Utopia Pimp 2.1 Beta - on IRC at #Utopiapimp
 
-Last Updated: June 30th, 2005
+Last Updated: May 20th 2009
 
-### Personal/User information
+###  Personal/User information
 
-Your personal information (email address, etc.) and user account information will never be given out to third parties. Your email will only be used to send you confirmation information about your registration at Utopiapimp.com as well as instructions if you ever choose to reset your password. Additionally, I (the administrator and creator of Utopiapimp.com) might contact you via email if a previous arrangement to do so has been established, or if I need to deliver time-sensitive information to you (such as details about moving to Utopiapimp.com's beta-testing server).
+Your personal information (email address, etc.) and user account information will never be given out to third parties. Your email will only be used to send you confirmation information about your registration at Utopiapimp.com as well as instructions if you ever choose to reset your password. Additionally, I (the administrator and creator of Utopiapimp.com) might contact you via email to contribute in some way or another to Utopiapimp.com it self.
 
 Your user information cannot be seen by anyone else, including your kingdom mates. Information entered on the Profiles page can be seen by your kingdom mates and no one else, and by default, your email address is not shown. While I have access to the user information, I will only access it in the above scenarios, and not for any reasons outside of directly assisting you with Utopiapimp. 
 
-### Kingdom intelligence/information
+###  Kingdom intelligence/information
 
 A kingdom's collection of intelligence and information can only be viewed by that kingdom, and only when a user who is connected to that kingdom is logged into the site. Furthermore, the monarch of that kingdom can grant access to kingdom information on a per user basis, so only the users chosen by the monarch can have access to kingdom info. This is done as a security measure to allow a reasonable amount of control over new provinces and defectors/defectee's access to kingdom intelligence.
 
@@ -20,19 +20,17 @@ I will never access a kingdom's information unless that kingdom has reported a b
 
 kingdom data may be used for strictly anonymous statistics gathering for Utopiapimp exclusive features. Please see the section 'Old kingdom data' below for more information.
 
-(New: June 30th, 2005) Anonymous 'activity' statistics are collected from all accounts. Specifically, the following examples of data are collected: if a user on World of Legends submits a crystal-ball, the site will write down "on this utopian month, a cb was submitted on WoL. It was submitted raw, and was a self-cb". Similiar data will be collected from ops: "On this server and date, a fireball was recored in Pimp. It killed 2,000 peasants". The only level of linking this information to any kind of identifying information is by Utopian server. This data will be publically viewable on a Statistics page that will show summary data based on these collections.
+A kingdom's account with Utopiapimp will never be revealed by myself or some feature of the site. In other words, there is no way to confirm that a specific kingdom uses Utopiapimp unless a member of that kingdom publicly mentions it. There are no lists of kingdoms that are registered, and kingdom-affiliation and province names are not shown in user profiles at Utopiapimp's [ public forums](http://forum.utopiapimp.com/) (Coming Soon). 
 
-A kingdom's account with Utopiapimp will never be revealed by myself or some feature of the site. In other words, there is no way to confirm that a specific kingdom uses Utopiapimp unless a member of that kingdom publicly mentions it. There are no lists of kingdoms that are registered, and kingdom-affiliation and province names are not shown in user profiles at Utopiapimp's [public forums](http://forum.utopiapimp.com/). 
+###  Cookies
 
-### Cookies
+Web-browser cookies are used on the site for a few purposes. The first is to allow a customized experience within the Utopiapimp.com by remembering which account you are currently logged in to, or by temporarily remembering settings (such as the sort direction of a column) for the duration of your session. 
 
-Web-browser cookies are used on the site for a few purposes. The first is to allow a customized experience within the Utopiapimp.com by remembering which account you are currently logged in to, or by temporarily remembering settings (such as the sort direction of a column) for the duration of your session. The second use is an optional one: auto-login. If chosen, this cookie will contain data which will allow your browser to automatically log itself into the Utopiapimp. Cookies are also used to remember what color theme as user is currently using, and they are also used to temporarily remember what information boxes have been hidden by the user. 
-
-### Website browsing statistics
+###  Website browsing statistics
 
 There are only two types of statistics gathered by the website. The first set are summaries of website traffic and activity that are automatically generated by statistics packages that often come with web hosting accounts. The website will occasionally have timing statistics enabled, which will measure how fast webpages are generated; this is done in order to pinpoint slow pages and provide a faster experience to the user. Both of these sets of statistics are only availabe to myself, and are completely anonymous in nature. 
 
-### Old kingdom data
+###  Old kingdom data
 
 Kingdom data from a previous age may be used in a strictly anonymous fashion to generate statistics for use in Utopiapimp functionality. The data from the previous age is used with any kind of information that ties the data to a specific user, province, or kingdom. For example, a scan might be done to determine average thieves/per acre and wizards/per acre values for specific race, personality, and acre-ranges. In this case, a crystal-ball would be scanned to extract the race, personality, acres, wizards, and thieves - leaving everything else alone. This ensures absolute anonymity within the data. 
 
