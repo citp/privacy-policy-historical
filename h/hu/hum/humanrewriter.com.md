@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219132233id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the humanrewriter.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523203510id_/http%3A//www.humanrewriter.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Human Rewriter - Human Powered Content Spinner
+# Human Rewriter - People Powered Article Rewriting, Writing, Submissions, and Spinning
 
 [HumanRewriter.com](http://www.humanrewriter.com/) is committed to protecting your privacy and personal information when you access our website and software. This policy governs how we treat personal information that is collected when you visit or subscribe to services offered at our site. 
 
@@ -40,4 +40,4 @@ By using this website, you are consenting to this privacy policy and acceptance 
 
 If you have any questions regarding the privacy policy or terms described above, please contact us at [support@HumanRewriter.com](mailto:support@HumanRewriter.com)
 
-HumanRewriter.com is a registered trademark of YellowDot Software, LLC 
+HumanRewriter.com is a registered trademark of People Powered Content, LLC 
