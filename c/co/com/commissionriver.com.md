@@ -1,16 +1,19 @@
-> *The following text is extracted and transformed from the commissionriver.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230034947id_/http%3A//www.commissionriver.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commissionriver.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523231214id_/http%3A//www.commissionriver.com/privacy.html) for the most accurate reproduction.*
 
 # Commission River Privacy Policy
 
-CommissionRiver.com is a web site that is owned and operated by Commission River, Inc. and owned subsidiary of [Bayhill Capital](http://www.bayhillcapital.com/) OTC BB: BHYL
+CommissionRiver.com is a web site that is owned and operated by Commission River, Corp. and owned subsidiary of [Bayhill Capital](http://www.bayhillcapital.com/) OTC BB: BHYL
 
-Our mailing address is:  
+**Our mailing address is:  
 12401 South 450 East, Suite D1  
-Draper, UT 84062
+Draper, UT 84062**
+
+  
+
 
 ##### Privacy
 
-Commission River, Inc. ("CommissionRiver.com" or "we" or "us") uses this web site to run an affiliate marketing network over the World Wide Web (the "Web"). Even though Many portions of this web site are accessible and viewable by the general public, not all visitors may use our program. Each Commission River program is available for use only by persons or entities that join the network as either an "Affiliate" (Publisher), an "Advertiser" (Vendor), or "Strategic Partner" (Private Labeled Licensee). 
+Commission River, Corp. ("CommissionRiver.com" or "we" or "us") uses this web site to run an affiliate marketing network over the World Wide Web (the "Web"). Even though Many portions of this web site are accessible and viewable by the general public, not all visitors may use our program. Each Commission River program is available for use only by persons or entities that join the network as either an "Affiliate" (Publisher), an "Advertiser" (Vendor), or "Strategic Partner" (Private Labeled Licensee). 
 
 ##### Information About Affiliates
 
