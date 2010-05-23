@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417091756id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timecamp.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523122411id_/http%3A//www.timecamp.com/privacy) for the most accurate reproduction.*
 
 # Privacy - TimeCamp
 
@@ -28,7 +28,5 @@ This is the Timecamp privacy statement. In this statement we explain our policy 
 
 
 
-Any questions you might have about this Privacy Policy should be addressed to [team@timecamp.com](mailto:team@timecamp.com)
-
-  
+Any questions you might have about this Privacy Policy should be addressed to [team@timecamp.com](mailto:team@timecamp.com)   
 
