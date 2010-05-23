@@ -1,9 +1,27 @@
-> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009104156id_/http%3A//www.insidethetravellab.com/2009/03/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidethetravellab.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523153053id_/http%3A//www.insidethetravellab.com/small-print/privacy-policy) for the most accurate reproduction.*
 
-# Inside the Travel Lab: Privacy Policy
+# Privacy Policy | Inside the Travel Lab
 
-## Saturday, 7 March 2009
+[](http://www.flickr.com/photos/bohman/210977249/)The Short Version
 
-###  [Privacy Policy](http://www.insidethetravellab.com/2009/03/privacy-policy.html)
+A) I don’t collect any personal information about you. If you leave a comment, I ask you to enter a valid email address as a way of keeping spammers away from the site.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here. 
+B) I wouldn’t know how to
+
+C) I wouldn’t want to. I’d rather spend my time planning my next unusual journey…
+
+However.
+
+The Longer Version – Privacy on the Web in General
+
+[](http://www.flickr.com/photos/visualpanic/2137900541/)Advertisers and affiliates may collect information about you if you complete a survey or other request for personal information.
+
+“Cookies” may store information in your temporary internet files to monitor traffic and to work out which site you visited after this one. This won’t identify you personally. A common example of a cookie is one which offers to remember your password when you visit a site.
+
+Whenever you visit any website, certain information gets logged. This includes inf ormation such as what browser you’re using (Internet Explorer vs Firefox, for example), which country you’re in and how long you stay on the site.
+
+I cannot tell who you are from this information.
+
+For Extra Security
+
+You can disable or delete cookies and temporary internet files. See your browser help for more information. Be warned, however, that you can mess a few things up if you don’t know what you’re doing.
