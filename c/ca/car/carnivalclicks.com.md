@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121053830id_/http%3A//carnivalclicks.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carnivalclicks.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523073942id_/http%3A//carnivalclicks.com/privacy.php) for the most accurate reproduction.*
 
-# CarnivalClicks - Increase Traffic Using Our Website Promotion Center
+# CarnivalClicks.com - Your Traffic Exchange, Increase Visitors Using Our Website Promotion Center. Free Traffic!
 
 Carnival clicks will not sell or pass on any information you give when joining to any third party.
 
