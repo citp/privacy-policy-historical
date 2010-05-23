@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the collegeinfousa.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413144225id_/http%3A//collegeinfousa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegeinfousa.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523183423id_/http%3A//www.collegeinfousa.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# CollegeInfoUSA.com - Privacy Policy
+# CollegeInfoUsa - Privacy Policy
 
 **What This Privacy Policy Covers**  
 This privacy policy covers how College Info USA, Inc. treats personal information that College Info USA, Inc. collects and receives. Personal information is information you provide about yourself that is personally identifiable, like your name, address, email address, or phone number and that is not otherwise publicly available. This privacy policy does not apply to the practices or the content of websites of companies that College Info USA, Inc. links to, does not own or control, or to people that College Info USA, Inc. does not employ or manage.
