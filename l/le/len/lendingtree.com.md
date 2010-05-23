@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220185021id_/http%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lendingtree.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524012747id_/http%3A//www.lendingtree.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # LendingTree Privacy Policy - Consumer Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Your Privacy Rights**
 
-**Last Updated: 4/01/09**
+**Last Updated: 5/20/10**
 
 LendingTree, LLC respects the privacy of our consumer users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. As an individual who is a user of our websites (including, but not limited to, LendingTree.com, GetSmart.com, and HomeLoanCenter.com), or otherwise as a user of the services provided by Tree.com, Inc. or its divisions and subsidiaries (including, but not limited to, LendingTree, LLC; LendingTree Loans; Home Loan Center, Inc.; GetSmart; LT Realty Services; HLC Escrow, Inc.; LendingTree Settlement Services, LLC; and LendingTree Alabama Title Services, LLC)(collectively, "LendingTree"), this Privacy Policy is intended to describe for you:
 
@@ -72,7 +72,7 @@ Please review Your choices about collection and use of your information" below.
 
 **Personal Information.** We do not share your personal information with others except as indicated below or when we inform you and give you an opportunity to opt out of having your personal information shared. We may share all types of personal information with:
 
-  * **Authorized Service Providers.** We may share your personal information with our authorized service providers that perform certain services on our behalf in connection with your request for a loan. These service providers may include credit bureaus, title companies, flood or other insurance providers, appraisal companies, escrow companies, closing agents, other financial institutions, marketing and customer services firms, credit card payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our websites, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.   
+  * **Authorized Service Providers.** We may share your personal information with our authorized service providers that perform certain services on our behalf in connection with your request for a loan or the funding, sale and/or servicing of your loan. These service providers may include credit bureaus, title companies, flood or other insurance providers, appraisal companies, escrow companies, closing agents, other financial institutions, marketing and customer services firms, credit card, loan and other payment processors, as well as companies that support contests, sweepstakes, surveys, or other features offered through our websites, or that provide business analysis or website support. These service providers may have access to personal information needed to perform their functions but are not permitted to share or use such information for any other purpose.   
 
   * **Business Partners.** When you express interest in products, services or promotions offered through our websites or our services, we may share your expression of interest with the businesses with which we partner to offer you those products, services, promotions, contests and/or sweepstakes, and, as applicable, their affiliates and third-party finder or marketing companies. When you elect to engage in a particular offer or program, you authorize us to provide your e-mail address and other information to those businesses.   
 
