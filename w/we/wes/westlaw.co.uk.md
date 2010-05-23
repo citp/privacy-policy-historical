@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123013228id_/http%3A//www.westlaw.co.uk/privacy_policy/index.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westlaw.co.uk privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523143616id_/http%3A//www.westlaw.co.uk/privacy_policy/index.shtm) for the most accurate reproduction.*
 
 # Westlaw UK
 
@@ -56,8 +56,8 @@ Swiss Cottage
 London   
 NW3 3PF 
     * Call Customer Services on:   
-02074491111 (UK)   
-+441264342906 (International) 
-    * Email us: [SMG.datamanagement@thomson.com](mailto:SMG.datamanagement@thomson.com)
+0845 600 9355 (UK)  
+\+ 44 (0)1264 388560 (International) 
+    * Email us: [sweetandmaxwell.marketingdata@thomson.com](mailto:sweetandmaxwell.marketingdata@thomson.com)
 
 
