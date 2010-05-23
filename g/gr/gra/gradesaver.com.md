@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924043907id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradesaver.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524013943id_/http%3A//www.gradesaver.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GradeSaver
 
@@ -13,6 +13,8 @@ This privacy policy covers what information we collect from you when you visit o
 When you use our site, we receive and collect certain information. Some information is automatically received and sometimes collected from you when you visit our site. We receive and collect the name of the domain and host from which you access the Internet; the Internet protocol (IP) address of the computer you are using; the browser software you use and your operating system; the date and time you access our site; and the Internet address of the web site from which you linked directly to our site. We use this information to monitor the usage of our site.
 
  **Description and Disclosure of How and For What Purpose Information is Collected:**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 Both GradeSaver and its third party advertisers (such as BurstMedia!, Advertising.com, and Google Adsense) use cookies to enhance your experience on our website. To find out more about how Burstmedia manages the privacy of information in conjunction with serving ads on this site, please go to <http://www.burstmedia.com/>.
 
