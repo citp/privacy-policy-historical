@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085556id_/http%3A//sanfrancisco.going.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the going.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524001439id_/http%3A//seattle.going.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - About AOL
 
@@ -44,7 +44,7 @@ Your AOL Network information is used
 
 
 
-Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](https://marketingpreferences.aol.com/) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies.
+Your AOL Network information may be shared with the Network's affiliated providers. You have [choices](http://marketingpreferences.aol.com/) about how your AOL Network information is used, and whether affiliated providers receive personally identifiable information about you as an AOL Network user. Affiliated providers that receive your AOL Network information may use this information according to their applicable privacy policies.
 
 Your AOL Network information will not be shared with third parties unless it is necessary to fulfill a transaction you have requested, in other circumstances in which you have consented to the sharing of your AOL Network information, or except as described in this Privacy Policy. The AOL Network may use your AOL Network information to present offers to you on behalf of business partners and advertisers. These business partners and advertisers receive aggregate data about groups of AOL Network users, but do not receive information that personally identifies you.
 
@@ -58,7 +58,7 @@ In the event that ownership of the AOL Network was to change as a result of a me
 
 The AOL Network provides you with access to your registration and any billing or shipping information; the ability to edit this information at the [My Account ](http://about.aol.com/aolnetwork/my_account)area; and the ability to deactivate your registration with the AOL Network. Additionally, some AOL Network services (AOL Search, for example) may offer you the ability to control what information is collected or used when you use these services.
 
-You can [make choices ](https://marketingpreferences.aol.com/)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
+You can [make choices ](http://marketingpreferences.aol.com/)about how your AOL Network information may be used by the AOL Network to provide marketing offers to you. In order to do so, please visit the [My Account](http://about.aol.com/aolnetwork/my_account) area and review your AOL Network marketing preferences. These preferences do not apply to communications that are directly related to your registration with the AOL Network, or the fulfillment of a specific transaction you have requested (for example, a service advisory from the AOL Network, or an acknowledgment of a purchase order).
 
 You may also choose whether the AOL Network's affiliated providers receive personally identifiable AOL Network information. This choice does not apply to the sharing of AOL Network information necessary to provide you the basic functionality of the Network (for example, recognizing you as an authenticated user on affiliated providers' Web sites or services). Additionally, the AOL Network may share personally identifiable AOL Network information with one or more of its affiliated providers when that information is necessary to carry out a specific transaction or request you make for an offering from the Network or its affiliated providers, or as otherwise specified at the time you take advantage of that particular Network offering.
 
