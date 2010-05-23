@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yourfonts.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903050844id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourfonts.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523192126id_/http%3A//www.yourfonts.com/privacy.html) for the most accurate reproduction.*
 
 # YourFonts - Privacy Policy
 
 ### Privacy Policy
 
-Updated: Tuesday, January 6, 2009 (previous version can be found [here](https://web.archive.org/privacy20080904.html))
+Updated: Thursday, September 3, 2009 (previous version can be found [here](https://web.archive.org/privacy20090106.html))
 
 #### Philosophy
 
@@ -12,7 +12,7 @@ We are only interested in collecting and retaining the information that is neces
 
 #### Uploaded Files and Generated Fonts
 
-We never share personal information. Occasionally an attempt to generate a font fails, and then we might look into such problem to see if we can improve our font generation algorithm. So that's the only possible reason for us to use uploaded data, and even then it's only used to look into issues with our font generator. Although it makes us happy to see so many people pleased with their own custom fonts, we are by no means interested in the individual fonts generated through our service. We prefer to put time and effort in improving existing and developing new software and services.
+All uploaded files and generated fonts are stored on our servers for a maximum of 15 days. We never share personal information. Occasionally an attempt to generate a font fails, and then we might look into such problem to see if we can improve our font generation algorithm. So that's the only possible reason for us to use uploaded data, and even then it's only used to look into issues with our font generator. Although it makes us happy to see so many people pleased with their own custom fonts, we are by no means interested in the individual fonts generated through our service. We prefer to put time and effort in improving existing and developing new software and services.
 
 #### E-mail
 
