@@ -1,0 +1,337 @@
+<!--The following is the downloaded HTML source of the fastw3b.net privacy policy that was archived on 2010-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100523094651id_/http%3A//www.fastw3b.net/privacy-policy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<meta name="verify-v1" content="rORxAVK2njtBR2CzMEka2JbQ5SmNbLz/liH64cDjqTU=">
+	  <base href="http://www.fastw3b.net/privacy-policy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="follow">
+  <meta name="keywords" content="Fast Web, fast web privacy statement, Fast Web terms, Fast web host, web host, joomla host">
+  <meta name="title" content="Privacy Policy">
+  <meta name="author" content="Dick">
+  <meta name="description" content="Fastweb has created this privacy statement in order to demonstrate our firm commitment to privacy.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Privacy Policy</title>
+  <link href="/templates/fastweb30/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/plugins/system/iewarning/iewarn.css" type="text/css">
+  <link rel="stylesheet" href="/plugins/system/rokbox/themes/light/rokbox-style.css" type="text/css">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/rokbox.js"></script>
+  <script type="text/javascript" src="/plugins/system/rokbox/themes/light/rokbox-config.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+
+		var RokIEWarn = new Class({
+			'site': 'sitename',
+			'initialize': function() {
+				var warning = "<h3>Your are currently browsing this site with Internet Explorer 6 (IE6).</h3><h4>NOTE: This template is compatible with IE6, however your experience will be enhanced with a newer browser.</h4><p>The last version of Internet Explorer 6 was called Service Pack 1 for Internet Explorer 6 and was released in December of 2004.  By continuing to run Internet Explorer 6 you are open to any and all security vulnerabilities discovered since that date.  In October of 2006, Microsoft released version 7 of Internet Explorer that, in addition to providing greater safety in navigation, which allows the Internet Explorer browser to identify as' modern browsers'. Microsoft has launched Internet Explorer 7 as a high-priority update, and is now available to download for free without any certification requirements. As of Feb 12th, 2008 Microsoft is forcing updates to Internet Explorer 6 in order to move people towards the much improved and secure version 7. Please ensure you don't hamper this process.  It's for your own good!</p> <br /><a class=\"external\"  href=\"http://www.microsoft.com/downloads/details.aspx?FamilyId=9AE91EBE-3385-447C-8A30-081805B2F90B\">Download Internet Explorer 7 NOW!</a>";
+		
+				this.box = new Element('div', {'id': 'iewarn'}).inject(document.body, 'top');
+				var div = new Element('div').inject(this.box).setHTML(warning);
+		
+				var click = this.toggle.bind(this);
+				var button = new Element('a', {'id': 'iewarn_close'}).addEvents({
+					'mouseover': function() {
+						this.addClass('cHover');
+				},
+					'mouseout': function() {
+					this.removeClass('cHover');
+				},
+				'click': function() {
+					click();	
+				}
+				}).inject(div, 'top');
+		
+				this.height = $('iewarn').getSize().size.y;
+		
+				this.fx = new Fx.Styles(this.box, {duration: 1000}).set({'margin-top': $('iewarn').getStyle('margin-top').toInt()});
+				this.open = false;
+		
+				var cookie = Cookie.get('rokIEWarn'), height = this.height;
+				var cookie = "open";
+				if (!cookie || cookie == "open") this.show();
+				else this.fx.set({'margin-top': -height});
+		
+				return ;
+			},
+	
+			'show': function() {
+				this.fx.start({
+					'margin-top': 0
+				});
+				this.open = true;
+				Cookie.set('rokIEWarn', 'open', {duration: 2});
+			},	
+
+			'close': function() {
+				var margin = this.height;
+				this.fx.start({
+					'margin-top': -margin
+				});
+				this.open = false;
+				Cookie.set('rokIEWarn', 'close', {duration: 2});
+			},	
+
+			'status': function() {
+				return this.open;
+			},
+
+			'toggle': function() {
+				if (this.open) this.close();
+				else this.show();
+			}
+		});
+
+		window.addEvent('domready', function() {
+		//new RokIEWarn(); // debug in firefox
+			if (window.ie6) {(
+				function() {
+					var iewarn = new RokIEWarn();
+				}).delay(2000); }
+		});
+var rokboxPath = '/plugins/system/rokbox/';
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta http-equiv="Content-Style-Type" content="text/css">
+	<script src="/templates/fastweb30/js/cufon-yui.js" type="text/javascript"></script>
+	<script src="/templates/fastweb30/js/Myriad_Pro_400-Myriad_Pro_700.font.js" type="text/javascript"></script>
+	<script type="text/javascript">
+		Cufon.replace('.moduletable h3');
+	</script>
+	<link href="/templates/fastweb30/css/template_css.css" rel="stylesheet" type="text/css">
+	<!--[if IE 7]>
+		<link href="/templates/fastweb30/css/ie7_css.css" rel="stylesheet" type="text/css" />
+	<![endif]-->
+</head>
+
+<body id="bd">
+
+<div id="container0">
+
+	<div id="container1">
+
+		<div id="container2">
+			
+			<div id="container3">
+
+				<!-- BEGIN: HEADER -->
+				<div id="header">
+				
+					<div id="header-bg"></div>
+					
+											<div id="login">
+									<div class="moduletable">
+					<div class="mod-body">
+				<form action="https://www.fastw3b.net/privacy-policy.html" method="post" name="login" id="form-login">
+		<div class="login-mod">
+		<h3>Login</h3>
+		<span id="form-login-username">
+			<label for="modlgn_username">Username</label>
+			<input id="modlgn_username" type="text" name="username" class="inputbox" alt="username" size="18">
+		</span>
+		<span id="form-login-password">
+			<label for="modlgn_passwd">Password</label>
+			<input id="modlgn_passwd" type="password" name="passwd" class="inputbox" size="18" alt="password">
+		</span>
+				<span id="form-login-remember">
+			<label for="modlgn_remember">Remember Me</label>
+			<input id="modlgn_remember" type="checkbox" name="remember" class="checkbox" value="yes" alt="Remember Me">
+		</span>
+				<input type="submit" name="Submit" class="button" value="Login">
+
+		<span id="form-login-options">
+			<a href="/component/user/reset.html">
+			Forgot your password?</a>
+					
+
+	</span></div>
+	
+	<input type="hidden" name="option" value="com_user">
+	<input type="hidden" name="task" value="login">
+	<input type="hidden" name="return" value="L3ByaXZhY3ktcG9saWN5Lmh0bWw=">
+	<input type="hidden" name="d5b841253668d467f7139d8a9ba79f90" value="1"></form>
+			</div>
+		</div>
+	
+						</div>
+						
+							
+											<div id="topmenu">
+									<div class="moduletable">
+					<div class="mod-body">
+				<ul class="menu"><li class="item62"><a href="/quick-start.html"><span>Quick Start</span></a></li><li class="item95"><a href="/joomla-packages.html"><span>Joomla Packages</span></a></li><li class="item103"><a href="/forum" target="_blank"><span>Forum</span></a></li><li class="item57"><a href="/services.html"><span>Services</span></a></li><li class="item99"><a href="http://joomla.fastw3b.net/" target="_blank"><span>Joomla Components</span></a></li><li class="item101"><a href="/authorspace.html"><span>AuthorSpace</span></a></li></ul>			</div>
+		</div>
+	
+						</div>
+						
+					<div id="logo">
+						<a href="/" title="Fastweb - Your Way... Right Away">
+							<img src="/templates/fastweb30/images/logo.png" width="350" height="85" alt="Fastweb - Your Way... Right Away">
+						</a>
+					</div>
+						
+											<div id="user1">
+									<div class="moduletable">
+					<div class="mod-body">
+				<ul>
+<li><a href="/component/forme/?fid=6&amp;tmpl=component" class="modal">Contact Us</a></li>
+<li class="item77"><a href="/component/forme/?fid=3&amp;tmpl=component" class="modal">Help Us Improve</a></li>
+</ul>			</div>
+		</div>
+	
+						</div>
+							
+							
+		
+				</div>
+				<!-- END: HEADER -->
+		
+				<!-- BEGIN: MAIN -->
+				<div id="mainbody-wrapper">
+		
+					<div id="promo-line">
+
+						<div id="quickstart">
+							<a href="/quickstart/quickstart.html">
+								Get your new Joomla site right away</a>
+						</div>
+
+													<div id="social">
+										<div class="moduletable">
+					<h3>Stay Connected</h3>
+					<div class="mod-body">
+				<div><a target="_blank" title="Follow Fastweb on Twitter" href="http://twitter.com/fastw3b/"><img alt="Follow Fastweb on Twitter" src="/images/stories/social/twitter.png" height="32" width="32"></a> <a target="_blank" title="Fastweb profile on Facebook" href="http://www.facebook.com/pages/Fastweb-Professional-Joomla-extensions-and-services/220841518067"><img alt="Follow Fastweb on Facebook" src="/images/stories/social/facebook.png" height="32" width="32"></a> <a target="_blank" title="See Fastweb videos on YouTube" href="http://www.youtube.com/fastw3b/"><img alt="Follow Fastweb on YouTube" src="/images/stories/social/youtube.png" height="32" width="32"></a> <a class="modal" title="Contact Fastweb" href="/component/forme/?fid=6&amp;tmpl=component"><img alt="Contact Fastweb" src="/images/stories/social/contact.png" height="32" width="32"></a></div>			</div>
+		</div>
+	
+							</div>
+						
+						<div id="www">
+							<a href="#">on joomla hosting</a>
+						</div>
+						<div id="plus1">+</div>
+						<div id="joomla-package">
+							<a href="#">select your package</a>
+						</div>
+						<div id="plus2">+</div>
+						<div id="hosting">
+							<a href="#">secure &amp; optimized</a>
+						</div>
+
+					</div>
+		
+					<div id="mainbody">
+										
+						<!-- BEGIN: LEFT COLUMN -->
+												<!-- END: LEFT COLUMN -->
+			
+						<!-- BEGIN: CONTENT -->
+												<div id="content" class=" inner-page">				
+
+							
+							<table class="contentpaneopen">
+<tbody><tr>
+		<td class="contentheading" width="100%">
+					Privacy Policy			</td>
+				
+		
+					</tr>
+</tbody></table>
+
+<table class="contentpaneopen">
+
+
+
+<tbody><tr>
+<td valign="top">
+<div id="subTitle">Fastweb has created this privacy       statement in order to demonstrate our firm commitment to privacy. <a href="http://www.getafreelancer.com/"></a>
+<h3>Details</h3>
+For each visitor to Fastweb web site, our web server automatically recognizes only the consumer's domain name, but not the e-mail address. Fastweb collects only the domain name, but not the e-mail address of visitors to our web site, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. The information we collect is used to improve the content of our web site, used to notify consumers about updates to our web site, not shared with other organizations for commercial purposes. <br> <br>When you order services on the Fastweb web site, we request certain information. Fastweb does not share any of your personally identifiable or transactional information with any person or entity. No other third party receives your personally identifiable information or other transactional data. <br> <br>If you supply Fastweb with your postal address on-line you will only receive the information for which you provided us your address. Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line. <br> <br>Personally Identifiable Information-When visiting Fastweb's and signing up for or using Fastweb services through any Service Page, you may choose to supply Fastweb with information that identifies users personally. This information may include name and contact information, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. <br> <br>From time to time, Fastweb may use customer information for new, innovative and unanticipated uses not previously disclosed or described in our privacy notice. If our information practices change at some time in the future we will post the policy changes to the Fastweb web site to notify you of these changes and provide you with the ability to opt out of these new uses or changes. If you are concerned about how your information is used, you should check back at our web site periodically. <br> <br>Customers may prevent their information from being used for purposes other than those for which it was originally collected by contacting us <a rel="{handler: 'iframe', size: {x: 550, y: 395}}" class="modal" href="/component/forme/?fid=6&amp;tmpl=component">here</a>. Upon request we provide site visitors with access to all information [including proprietary information] that we maintain about them. <br> <br>Aggregate Information--Fastweb collects non-identifying, general, generic and aggregate information to better design our Web site and services, and shares the aggregate data with advertisers and other third parties. With respect to security: Fastweb uses industry-standard encryption technologies when transferring and receiving consumer and transaction data exchanged with our site. <br>
+<h3>Contacting the Web Site</h3>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please <a rel="{handler: 'iframe', size: {x: 550, y: 395}}" class="modal" href="/component/forme/?fid=6&amp;tmpl=component">Contact Us</a>.</div>
+
+</td>
+</tr>
+
+</tbody></table>
+<span class="article_separator">&nbsp;</span>
+
+						</div>
+						<!-- END: CONTENT -->
+						
+						<!-- BEGIN: RIGHT COLUMN -->
+												<!-- END: RIGHT COLUMN -->
+						
+						<div class="clr"></div>
+			
+									
+					</div>
+				
+				</div>
+				<!-- END: MAIN -->
+
+									<div id="bottom">
+								<div class="moduletable">
+					<h3>Partnership program</h3>
+					<div class="mod-body">
+				<ul class="menu"><li class="item72"><a href="/think-up-a-package-and-earn-with-us.html"><span>Think up a package and earn with us</span></a></li><li class="item73"><a href="/sell-your-templates-with-us.html"><span>Sell your templates with us</span></a></li><li class="item74"><a href="/become-a-partner.html"><span>Become a partner</span></a></li><li class="item75"><a href="/affiliate-program.html"><span>Affiliate program</span></a></li></ul>			</div>
+		</div>
+	
+					</div>
+					<div class="clr"></div>
+							
+			</div>
+
+		</div>
+
+		
+		<!-- BEGIN: FOOTER -->
+		<div id="footer">
+					<div class="moduletable float-left">
+					<div class="mod-body">
+				<div style="text-align: left;">Copyright 2007-2010 Fastweb. All rights reserved.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a target="_blank" href="http://validator.w3.org/check?uri=referer"><img style="vertical-align:top;" src="http://www.w3.org/Icons/valid-xhtml10-blue" alt="Valid XHTML 1.0 Transitional" height="31" width="88"></a> <a target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer"> <img style="border: 0pt none; width: 88px; height: 31px; vertical-align: top;" src="http://jigsaw.w3.org/css-validator/images/vcss-blue" alt="Valid CSS!"> </a></div>			</div>
+		</div>
+			<div class="moduletable float-right">
+					<div class="mod-body">
+				<ul class="menu"><li class="item1"><a href="http://www.fastw3b.net/"><span>Home</span></a></li><li id="current" class="active item65"><a href="/privacy-policy.html"><span>Privacy Policy</span></a></li><li class="item93"><a href="/terms-and-conditions.html"><span>Terms and Conditions</span></a></li></ul>			</div>
+		</div>
+			<div class="moduletable">
+					<div class="mod-body">
+				<!-- JoomlaStatsActivated -->			</div>
+		</div>
+	
+			<div class="clr"></div>
+		</div>
+		<!-- END: FOOTER -->
+
+			
+	</div>
+
+</div>
+
+
+			<script type="text/javascript">
+			var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+			document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+			</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+			<script type="text/javascript">
+			try {
+			var pageTracker = _gat._getTracker("UA-10038798-1");
+			pageTracker._trackPageview();
+			} catch(err) {}</script>
+			
+
+</body></html>
