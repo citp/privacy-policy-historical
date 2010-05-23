@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchfuleyedesigns.com privacy policy that was archived on 2009-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090301084646id_/http%3A//www.loksak.com/index.php/customer-support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchfuleyedesigns.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523062734id_/http%3A//www.loksak.com/customer-support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
