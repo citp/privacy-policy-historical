@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlebiz.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916121627id_/http%3A//www.articlebiz.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlebiz.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523214237id_/http%3A//www.articlebiz.com/privacy_policy) for the most accurate reproduction.*
 
-# ArticleBiz.com | Privacy Policy
+# Privacy Policy | ArticleBiz.com
 
 Privacy Policy
 
