@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231013902id_/http%3A//absolutist.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutist.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523110209id_/http%3A//absolutist.com/privacy.html) for the most accurate reproduction.*
 
 # Absolutist Privacy Policy
 
@@ -16,7 +16,15 @@ Absolutist.com may use a feature of your Web browser called a "cookie" to assign
 
 We create and then use cookie files to enable certain feature enhancements and facilitate your browsing experience when you go through the sites we operate. 
 
-We only use cookies to keep track of your preferences, to help us to determine whether you came to one of our sites from a particular Internet link or banner advertisement, to diagnose problems with our server, or to administer our site. 
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [ **networkadvertising.org** ](http://networkadvertising.org/). 
+
+**Furthermore:**
+
+  * Google, as a third-party vendor, uses cookies to serve ads on this site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to the users of this site based on their visiting of this site and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [ Google ad and content network privacy policy ](http://www.google.co.uk/privacy_ads.html). 
+
+
 
 **Security**
 
