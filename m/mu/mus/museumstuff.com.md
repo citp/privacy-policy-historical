@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221085105id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the museumstuff.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523023134id_/http%3A//www.museumstuff.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Privacy Information : MuseumStuff.com
 
@@ -21,3 +21,5 @@ In aligning our network with this ruling, in situations where we collect persona
 _The statute includes a "safe harbor" program for industry groups or others who wish to create self-regulatory programs to govern participants' compliance. Commission-approved safe harbors will provide Web site operators with the opportunity to tailor compliance obligations to their business models with the assurance that if they follow the safe harbor they will be in compliance with the rule._
 
 **Security issues that are beyond our control** .. Please keep in mind that whenever you voluntarily disclose personal information online - for example on message boards, through email, or in chat areas, that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your passwords and/or any account information. Please be careful and responsible whenever you're online 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. 
