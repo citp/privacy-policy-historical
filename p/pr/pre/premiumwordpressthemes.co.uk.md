@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the premiumwordpressthemes.co.uk privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016202638id_/http%3A//www.premiumwordpressthemes.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the premiumwordpressthemes.co.uk privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523040538id_/http%3A//www.premiumwordpressthemes.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Premium Wordpress Themes
+# Privacy Policy
 
 **Privacy Policy for[www.premiumwordpress.co.uk](http://www.premiumwordpressthemes.co.uk/)**
 
