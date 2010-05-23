@@ -1,0 +1,19 @@
+> *The following text is extracted and transformed from the job-interview-site.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523034311id_/http%3A//www.job-interview-site.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+## Privacy Policy
+
+We respect your privacy! Any and all information collected at this site will be kept strictly confidential and will not be sold, reused, rented, loaned, or otherwise disclosed. Any information you give to us will be held with the utmost care, and will not be used in ways that you have not consented to.    
+Resale or disclosure of information to third parties: The Job Interview & Career Guide does not sell, rent, loan, trade, or lease any personal information collected at the site, including membership forms or email lists.  
+Browser information collected on the website: We constantly improve the value of the materials available on this website. Our website logs are not personally identifiable, and we make no attempt to link them with the individuals that actually browse the site.  
+Privacy of our email lists: The Job Interview & Career Guide maintains several email lists to keep the members informed about new material. Individuals must affirmatively ask to join our mailing lists by registering to newsletters. We do not sell, rent, loan, trade, or lease the addresses on our list to anyone. In addition, we configure our list server software to refuse to divulge the email addresses of our list subscribers to anyone but authorized people.  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).  
+ 
+
+## Limitation of Liability
+
+Job-Interview-Site.com will not be liable for any direct, indirect, incidental, special, consequential or punitive damages of any kind resulting from the use of or the inability to use Job-Interview-Site.com’s services, resulting from any goods or services purchased or obtained or messages received or transactions entered into through Job-Interview-Site.com’s services, resulting from loss of, unauthorized access to or alteration of a user’s transmissions or data or for the cost of procurement of substitute goods and services, including but not limited to damages for loss of profits, use, data or other intangibles, even if Job-Interview-Site.com had been advised of the possibility of such damages.  
+In no event will Job-Interview-Site.com be liable for any:  
+• Incidental, consequential or indirect damages (including, but not limited to, damages for loss of profits, business interruption, loss of programs or information, and the like) arising out of the use of or inability to use French-at-a-touch.com, or any information, or transactions provided on French-at-a-touch.com, or downloaded from French-at-a-touch.com, or any delay of such information or service.  Even if Job-Interview-Site.com or its authorized representatives have been advised of the possibility of such damages, or;  
+• Claim attributable to errors, omissions, or other inaccuracies in the service and/or materials or information downloaded through French-at-a-touch.com.  Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.  In such states, Job-Interview-Site.com’s liability is limited to the greatest extent permitted by law.
