@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217141312id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mgmmirage.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523222444id_/http%3A//www.mgmmirage.com/privacy.htm) for the most accurate reproduction.*
 
 # MGM MIRAGE Privacy Statement
 
