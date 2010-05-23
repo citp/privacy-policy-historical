@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluefantasies.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630194839id_/http%3A//www.bluefantasies.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6OQ%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefantasies.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523193459id_/http%3A//www.bluefantasies.com/n1/privacy.php%3Fnats%3DMzE1MjU6MTA6OQ%2C0%2C0%2C0%2C0) for the most accurate reproduction.*
 
 # Twistys LLC. Privacy Policy
 
