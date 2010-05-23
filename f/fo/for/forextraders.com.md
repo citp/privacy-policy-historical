@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205195055id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forextraders.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523105526id_/http%3A//www.forextraders.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,7 +8,7 @@ We highly value your privacy and make this policy easily available throughout ou
 
 ## Log Files and Cookies
 
-This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends. 
+This website utilizes industry standard analytics packages which gathers limited information on visitors to our website automatically, and stores this anonymous information in server log files. This information may include IP addresses, browser type, basic IP information, referring pages, operating system used and date/time stamps. This information does not identify individual users; it is used only for site administration, as well as for analysis of website usage and trends.
 
 Additionally, cookies may be used to provide easier and faster access to website features such as logins and/or repeat visits. Cookies are very small text files that are stored on personal computers for reference purposes. We do/do not link the information we store in cookies to any personally identifiable information you have submitted while on our site.
 
@@ -44,10 +44,7 @@ We follow accepted industry standards to protect any personal information you ha
 
 California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-Forextraders.com  
-14 Palm Harbor Village Way  
-Palm Coast, FL 32137  
-United States 
+ 
 
 ## Legal Disclaimer
 
@@ -58,5 +55,3 @@ We reserve the right to disclose your personally identifiable information as req
 If you have any questions or concerns regarding this privacy policy, you may contact us using via our [contact form](http://www.forextraders.com/contact-us.html).
 
 This privacy policy was last updated on 04/28/09.
-
-## Subscribe to our weekly forex forecasts
