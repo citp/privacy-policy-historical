@@ -1,0 +1,533 @@
+<!--The following is the downloaded HTML source of the enytheme.com privacy policy that was archived on 2010-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100523023058id_/http%3A//www.enytheme.com/en/privacy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr"><head>
+	  <base href="http://www.enytheme.com/privacy.html">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="Privacy">
+  <meta name="title" content="Privacy">
+  <meta name="author" content="Eugen Stranz">
+  <meta name="description" content="Privacy">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>Privacy</title>
+  <link href="/templates/enytheme/favicon.ico" rel="shortcut icon" type="image/x-icon">
+  <link rel="stylesheet" href="/media/system/css/modal.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_eny_virtuemart_login/css/style.css" type="text/css">
+  <link rel="stylesheet" href="/modules/mod_jflanguageselection/tmpl/mod_jflanguageselection.css" type="text/css">
+  <script type="text/javascript" src="/components/com_jcomments/js/jcomments-v2.1.js?v=2"></script>
+  <script type="text/javascript" src="/components/com_jcomments/libraries/joomlatune/ajax.js"></script>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <script type="text/javascript" src="/media/system/js/modal.js"></script>
+  <script type="text/javascript">
+window.addEvent("domready", function() {
+	 					/// Get all redirect links
+						var links = $$("a[href*=ijoomla_seo]");
+	 					
+						//links.each(function(link){
+	 				    //	alert(link.innerHTML);
+	 					//});
+	 					
+	 					links.addEvents({
+	 						'click' : function (ev){
+	 							ev = new Event(ev).stop();
+	 							hr = this.href;
+	 							/// Get the seo redirect id from link url
+	 							if(hr.contains("id=")){
+	 								arr = hr.split("id=");
+	 								var id = arr[1];
+	 							}
+								
+	 							if(hr.contains("/id,")){
+	 								arr = hr.split("/id,");
+	 								var id = arr[1].charAt(0);	 								
+	 							}
+	 							obj = this;
+	 							var url = "administrator/components/com_ijoomla_seo/ajax.php?tasks=redirect&id="+id;
+	 							new Ajax(url, {
+									method: 'post',									
+									onComplete: function(resp){		 									
+					 					changeURL(obj, resp)
+					 				}.bind(this) 
+								}).request();
+									 							
+	 						   }
+	 					    });
+	 					    
+	 					    function changeURL(obj, resp){	 							
+	 							var prop = resp.split(",");	 							
+	 							if(prop[1] == "_blank")	 									 							
+	 					    			window.open(prop[0], "name");
+	 					    		else 
+	 					    			window.location = prop[0];
+	 						}
+	 					
+					}); 
+		window.addEvent('domready', function() {
+
+			SqueezeBox.initialize({});
+
+			$$('a.modal').each(function(el) {
+				el.addEvent('click', function(e) {
+					new Event(e).stop();
+					SqueezeBox.fromElement(el);
+				});
+			});
+		});
+  </script>
+  <link href="/en/component/jlord_rss/feed/1.html" rel="alternate" type="application/rss+xml" title="ENYtheme RSS">
+  <link rel="stylesheet" href="/plugins/content/bottombox/style.css" type="text/css" media="screen">
+
+	
+	<!-- Loading CSS -->
+	<link rel="stylesheet" href="/templates/enytheme/css/template.css" type="text/css">
+	<link rel="stylesheet" href="/templates/enytheme/css/layout.css" type="text/css">
+	<link rel="stylesheet" href="/templates/enytheme/css/overrides.css" type="text/css">
+	<link rel="stylesheet" href="/templates/enytheme/css/content.css" type="text/css">
+</head>
+
+
+<body id="pagearea">
+	<div class="eny_wrapper">
+		
+		<!-- Main Menu & Language Chooser -->
+				<div class="eny_menu_area">	
+			<div id="eny_navigation">
+				
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+		<ul class="menu"><li class="item1"><a href="http://www.enytheme.com/"><span>ENYtheme</span></a></li><li class="parent item5"><a href="/en/joomla.html"><span>Joomla</span></a></li><li class="item31"><a href="/en/joomla/virtuemart.html"><span>Virtuemart</span></a></li><li class="item56"><a href="/en/club.html"><span>Club!</span></a></li><li class="item2"><a href="/en/service.html"><span>Service</span></a></li><li class="item21"><a href="/en/portfolio.html"><span>Portfolio</span></a></li><li class="parent item3"><a href="/en/contact.html"><span>Contact</span></a></li><li class="item14"><a href="http://www.enytheme.com/eny_affiliate/" target="_blank"><span>Affiliate</span></a></li></ul>	</div>
+	</div>
+</div>
+
+
+			</div>
+			
+			<div class="eny_language">
+				
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+		<div id="jflanguageselection"><div class="rawimages"><span id="active_language"><a href="http://www.enytheme.com/en/privacy.html"><img src="/components/com_joomfish/images/flags/en.gif" alt="English (United Kingdom)" title="English (United Kingdom)"></a></span><span><a href="http://www.enytheme.com/de/privacy.html"><img src="/components/com_joomfish/images/flags/de.gif" alt="Deutsch (DE-CH-AT)" title="Deutsch (DE-CH-AT)"></a></span></div></div><!--Joom!fish V2.0.4 (Lightning)-->
+<!-- &copy; 2003-2009 Think Network, released under the GPL. -->
+<!-- More information: at http://www.joomfish.net -->
+	</div>
+	</div>
+</div>
+
+
+			</div>
+		<div class="clear"></div>
+		</div>
+				
+		
+		<!-- Main Area -->
+		<div class="eny_main_area">	
+				
+			<!-- Main -->
+			<div id="eny_main-rightcount">
+				
+				<div>
+				<div class="eny_lt">
+					<div class="eny_rt">
+						<div class="eny_mt">
+						</div>
+					</div>
+				</div>	
+				
+				
+				<div class="eny_ml">
+					<div class="eny_mr">
+						<div class="eny_c">
+						
+				<!-- above content -->
+				
+				<div class="eny_inner">
+						
+				  
+
+		
+			
+		<!-- Icon Check -->
+		
+
+
+
+
+		
+		
+<div class="page_area">
+
+	
+		
+				
+			
+
+
+
+	
+	
+	
+	
+	
+	<div>
+	<!-- Article | Content -->
+				<div class="eny_1_columns spacetop20">Data Collection: <br><br>We collect data on the initiation, conclusion, processing and unwinding of a contract for sale. This data will be collected, stored and processed by us. <br><br>Your visits to our web pages will be logged. The data we collect essentially comprises the IP address currently used by your PC, date and time, type of browser, and operating system of your PC as well as the web sites you have visited. In general, allocation of this data to a person is neither possible nor intended. <br><br><br>Handling and Forwarding of Data<br><br>The personal information you submit to us when placing an order or by email (e.g. your name and address or your email address) will be stored in our logbook license database. This data will be used exclusively within the framework of the existing contract between the parties for such cases as the settlement of the software sale or support. No handling or use of this data will be made beyond this. We&nbsp; will only forward your data to the logistics company contracted for the delivery if this is necessary for the delivery of the goods. For the settlement of payments, we forward payment data to the credit institution charged with the payment processing. <br><br>We guarantee that we shall not forward your personal data to any third parties beyond this, except for cases where we are required to do so by law or with your advance written agreement. To the extent that we make use of our right to contract service providers for the implementation and settlement of processes, the conditions of the contract will be regulated in accordance with the provisions of the German Data Protection Act (Bundesdatenschutzgesetz). <br><br><br>Consent and Rescission: <br><br>If you have supplied us with any personal information, you may delete it at any time. Data on invoicing and accounting-related purposes shall not be affected by cancellation/rescission or deletion, as applicable. <br><br><br>Storage Period: <br><br>Personal information submitted to us via our web site is only stored until the purpose for which you supplied us with this data is fulfilled. To the extent that storage periods are regulated by commercial or tax law, the storage period may amount to a maximum of 10 years.<br><br><br>Google Analytics:<br><br>This web site uses Google Analytics, a web analyzing service of Google Inc. („Google“). Google Analytics uses so-called "cookies", i.e. text files stored on your computer and enabling analysis of how you use the web site. The information created by the cookie on how you use this web site (including your IP address) will be transferred to a Google server in the U.S. and stored there. Google will use this information to evaluate how you use the web site, to prepare reports on the web site activities for the web site operators and to perform other services in connection with web site and internet usage. Google may also transfer this information to third parties where required by law or to the extent that third parties will process this data on behalf of Google. Under no circumstances will Google align your IP address with any other Google data. You may select a respective setting to prevent the installation of the cookies. However, please be aware that in this case, you may not be able to use all functions of this web site to their full extent. By using this web site, you consent to the processing of the data recorded on you by Google in the way described above and for the purpose previously declared.<br><br><br>Use of Cookies: <br><br>Use of our offers is based on the implementation of a cookie. <br><br>A randomly created session code and your client ID, if applicable, will be stored within the cookie. It is thus possible to recognize you as a registered client.<br><br>In addition, we store, if available, an affiliate ID and the page that directed you to our pages.<br><br>A prerequisite for this is that you have activated the cookies in your settings. <br><br><br>Newsletter:<br><br>By registering for our newsletter, your first name, last name and email address will be used for advertising purposes with your permission. The newsletter is dispatched by us. Your permission to receive a newsletter by email may be revoked at any time. Every newsletter will contain a link which allows you to revoke your permission.<br><br><br>Your Rights, Information:<br><br> If for any reason you no longer agree to the storing of your personal information or it has&nbsp; become incorrect, we will initiate the deletion or blocking of your data or implement the necessary corrections on your instruction (to the extent that this is feasible under applicable law). Upon request, you may receive information on all personal information we have stored on your person free of charge.<br><br>If&nbsp; you have any questions about the collection, processing or handling of your personal information, or for the purpose of information on, correction, blocking or deletion of data, please contact us by email under 
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = 'm&#97;&#105;lt&#111;:';
+ var suffix = '';
+ var attribs = '';
+ var path = 'hr' + 'ef' + '=';
+ var addy25164 = '&#105;nf&#111;' + '&#64;';
+ addy25164 = addy25164 + '&#101;nyth&#101;m&#101;' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + addy25164 + suffix + '\'' + attribs + '>' );
+ document.write( addy25164 );
+ document.write( '<\/a>' );
+ //-->
+ </script><a href="mailto:info@enytheme.com">info@enytheme.com</a><script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span> .</div>
+
+<br><div style="clear:both;"></div>
+		<div class="bbx_container">
+					<div class="bbx_rss">
+						<a href="http://feeds.feedburner.com/enytheme" target="_self"><img src="/plugins/content/bottombox/rss.png" align="left" alt="enytheme rssfeed"><span class="rsstext">subscribe to our RSS feed</span></a> 
+					</div>
+					
+					<div class="bbx_custom">
+					
+						If you like this entry, please share it with others by using the popular portals. We would be delighted!
+					</div>
+					
+					<div class="bbx_bookmarks">
+						<div class="addthis_toolbox addthis_default_style">
+
+						
+    <a class="addthis_button_favorites" rel="nofollow"><img src="/plugins/content/bottombox/favorites.png" alt="Favoriten"></a>
+    <a class="addthis_button_twitter" rel="nofollow"><img src="/plugins/content/bottombox/twitter.png" alt="Twitter"></a>
+    <a class="addthis_button_facebook" rel="nofollow"><img src="/plugins/content/bottombox/facebook.png" alt="Facebook"></a>
+    <a class="addthis_button_myspace" rel="nofollow"><img src="/plugins/content/bottombox/myspace.png" alt="Myspace"></a>
+    <a class="addthis_button_stumbleupon" rel="nofollow"><img src="/plugins/content/bottombox/stumbleupon.png" alt="Stumbleupon"></a>
+    <a class="addthis_button_digg" rel="nofollow"><img src="/plugins/content/bottombox/digg.png" alt="Digg"></a>
+    <a class="addthis_button_technorati" rel="nofollow"><img src="/plugins/content/bottombox/technorati.png" alt="Technorati"></a>
+    <a class="addthis_button_myaol" rel="nofollow"><img src="/plugins/content/bottombox/aol.png" alt="aol"></a>
+    <a class="addthis_button_blogger" rel="nofollow"><img src="/plugins/content/bottombox/blogger.png" alt="blogger"></a>
+    <a class="addthis_button_google" rel="nofollow"><img src="/plugins/content/bottombox/google.png" alt="google"></a>
+    <a class="addthis_button_reddit" rel="nofollow"><img src="/plugins/content/bottombox/reddit.png" alt="reddit"></a>
+    <a class="addthis_button_yahoobkm" rel="nofollow"><img src="/plugins/content/bottombox/yahoomyweb.png" alt="Yahoo"></a>
+
+<script type="text/javascript" src="http://www.enytheme.com/plugins/content/bottombox/addthis_widget.js?pub="></script>
+
+
+						</div>
+						<div style="clear:both;"></div>
+						
+					</div>
+					
+				</div>
+
+<div class="eny_service_separator"></div>
+
+<div class="eny_1_columns margintop20">
+	
+	<h2>Latest Products</h2>
+
+</div>
+
+<!-- Last Joomla Extensions -->
+<div class="margintop20 center">
+
+<div class="marginleftandright">
+
+	<div class="width25">
+	<h3>Virtuemart Invoice Center</h3>
+	<p class="widthheight128 extensionsoverview"></p>
+	<p class="spacetop15"><a title="Virtuemart Invoice Center" href="/en/joomla/virtuemart/extensions/virtuemart-invoice-center.html"><img alt="Virtuemart Invoice Center" src="/images/stories/content/elements/details.jpg" height="38" width="104"></a></p>
+	</div>
+	
+
+	
+	<div class="width25">
+	<h3>ENY Tab Slider</h3>
+	<p class="widthheight128 extensionsoverview" style="background-position: -256px 0;"></p>
+	<p class="spacetop15"><a title="ENY Tab Slider" href="/en/joomla/extensions/eny-tab-slider.html"><img alt="ENY Tab Slider" src="/images/stories/content/elements/details.jpg" height="38" width="104"></a></p>
+	</div>
+	
+	<div class="width25">
+	<h3>ENY Image Slider</h3>
+	<p class="widthheight128 extensionsoverview" style="background-position: 0 -128px;"></p>
+	<p class="spacetop15"><a title="ENY Image Slider" href="/en/joomla/extensions/eny-image-slider.html"><img alt="ENY Image Slider" src="/images/stories/content/elements/details.jpg" height="38" width="104"></a></p>
+	</div>
+	
+	<div class="width25">
+	<h3>ENY My Tweets</h3>
+	<p class="widthheight128 extensionsoverview" style="background-position: -128px -128px;"></p>
+	<p class="spacetop15"><a title="ENY My Tweets" href="/en/joomla/extensions/twitter-module.html"><img alt="ENY My Tweets" src="/images/stories/content/elements/details.jpg" height="38" width="104"></a></p>
+	</div>
+
+<div class="clear"></div>
+</div>
+
+</div>
+				
+					</div>
+
+</div>
+
+<!-- Article Event -->
+<div class="article_event">
+</div>
+
+
+				</div>
+
+				<!-- below content -->
+								</div>
+				
+						</div>
+					</div>
+				</div>
+				
+				<div class="eny_lb">
+					<div class="eny_rb">
+						<div class="eny_mb">
+						</div>
+					</div>
+				</div>
+				
+				<!-- Infobar -->
+								
+				
+				<!-- Footer -->
+								<div class="eny_footer">
+					
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+		<ul class="menu"><li class="item30"><a href="http://www.enytheme.com/"><span>©2009 - 2010 Enytheme.com</span></a></li><li class="item24"><a href="/en/imprint.html"><span>Imprint</span></a></li><li class="item23"><a href="/en/terms-and-conditions.html"><span>Terms And Conditions</span></a></li><li class="item25"><a href="/en/rescission-rights.html"><span>Rescission Rights</span></a></li><li id="current" class="active item26"><a href="/en/privacy.html"><span>Privacy</span></a></li><li class="item27"><a href="/en/licence.html"><span>Licence</span></a></li><li class="item28"><a href="/en/customer-informations.html"><span>Customer Informations</span></a></li><li class="item29"><a href="/en/sitemap.html"><span>Sitemap</span></a></li></ul>	</div>
+	</div>
+</div>
+
+
+				</div>
+								
+				<!-- Partner -->
+								<div class="eny_copyright">
+					
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+		The Joomla!™ name is used under a limited license from Open Source Matters in the United States and other countries. ENYtheme.com is not affiliated with or endorsed by Open Source Matters or the Joomla! Project.	</div>
+	</div>
+</div>
+
+
+				</div>
+								
+				<!-- Partner -->
+								<div class="eny_partner">
+					
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+		friends &amp; partner: <a target="_blank" href="http://www.globacide.com/vm-affiliate/live-demo.html" title="VirtueMart Affiliate">Globacide Solutions</a> | <a target="_blank" href="http://www.widevision.co.in" title="Joomla">Wide Vision</a>	</div>
+	</div>
+</div>
+
+
+				</div>
+								
+								<div></div>
+					
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+			<div class="eny_m">	
+			
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-10834871-1");
+pageTracker._initData();
+pageTracker._trackPageview("");
+</script>
+	</div>
+	</div>
+</div>
+
+
+				</div>
+								
+				<!-- Sidebar -->
+							
+				<!-- Right -->
+								<div id="eny_right-rightcount">
+				<div class="eny_lt">
+					<div class="eny_rt">
+						<div class="eny_mt">
+						</div>
+					</div>
+				</div>
+				<div class="eny_ml">
+					<div class="eny_mr">
+						<div class="eny_c">
+						
+					
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+				<h3>
+		<span class="precolor">Your</span> Shopping Cart		</h3>
+			<div class="eny_m">	
+		<div class="vmCartModule">    
+    <div style="margin: 0 auto;">
+            
+      <div style="text-align:center;"><img src="http://www.enytheme.com/images/cart.jpg" alt="VirtueMart" width="128" vspace="5" border="0">        </div>
+      <br>
+    <div style="text-align:center;">Your Cart is currently empty.</div>
+</div>
+<div style="float: left;">
+</div>
+<div style="float: right;">
+<span class="green"></span>
+</div>
+</div>	</div>
+	</div>
+</div>
+
+	
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+				<h3>
+		<span class="precolor">Customer</span> Area		</h3>
+			<div class="eny_m">	
+		
+
+
+<form action="/en/privacy.html" method="post" name="login" id="form-login">
+
+	<fieldset id="eny_login_area">
+	
+		<!-- Username Inputbox -->
+		<div class="eny_username">
+		<input id="eny_username" type="text" size="13" name="username" value="Username" alt="username" onfocus="if(this.value=='Username'){this.value='';}" onblur="if(this.value==''){this.value='Username';}">
+		</div>
+
+
+		<!-- Passwort Inputbox -->
+		<div class="eny_password">
+		<input id="eny_password" type="password" size="13" name="passwd" value="Password" alt="password" onfocus="if(this.value=='Password'){this.value='';}" onblur="if(this.value==''){this.value='Password';}">
+		</div>
+		
+		<ul class="eny_icon_area">
+						<li>
+				<a title="FORGOT_YOUR_PASSWORD" href="/en/component/user/reset.html">
+				<img title="forgot password" src="/modules/mod_eny_virtuemart_login/images/forgot_password.png" width="16" height="16" alt="forgot_username"></a>
+			</li>
+									<li>
+				<a title="FORGOT_YOUR_USERNAME" href="/en/component/user/remind.html">
+				<img title="forgot username" src="/modules/mod_eny_virtuemart_login/images/forgot_username.png" width="16" height="16" alt="FORGOT_YOUR_USERNAME"></a>
+			</li>
+												<li>
+				<a title="REGISTER" href="/en/component/virtuemart/?page=shop.registration">
+				<img title="registration" src="/modules/mod_eny_virtuemart_login/images/create_account.png" width="16" height="16" alt="REGISTER"></a>
+			</li>
+								</ul>
+		
+		<div class="eny_vm_login">
+		<input type="submit" name="Submit" class="eny_vm_button" value="Login">
+		</div>
+	</fieldset>
+	
+	
+	
+	
+	<input type="hidden" name="option" value="com_user">
+	<input type="hidden" name="task" value="login">
+	<input type="hidden" name="return" value="L3ByaXZhY3kuaHRtbD9sYW5nPWVu">
+	<input type="hidden" name="49d7cbfe1a046bb3341a494b8540264f" value="1"></form>
+
+
+	</div>
+	</div>
+</div>
+
+	
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+				<h3>
+		<span class="precolor">We</span> Love To Help		</h3>
+			<div class="eny_m">	
+		<p class="center"><img alt="help" src="/images/stories/help.jpg" height="128" width="128"></p>
+<p class="center">If you have questions do not hesitate to <a title="contact" href="/en/contact/enytheme-contact.html">contact</a> us.</p>	</div>
+	</div>
+</div>
+
+	
+<div class="modulestyle">
+	
+	<div class="eny_default_module">
+				<h3>
+		<span class="precolor">Secure</span> &amp; Quick Payment		</h3>
+			<div class="eny_m">	
+		<p style="text-align: center;"><img alt="zahlungsarten" src="/images/stories/zahlungsarten.jpg" height="127" width="225"></p>
+<ul class="checkbox">
+<li>Paypal</li>
+<li>2Checkout / Credit Card</li>
+</ul>	</div>
+	</div>
+</div>
+
+	
+						</div>
+					</div>
+				</div>
+				
+				<div class="eny_lb">
+					<div class="eny_rb">
+						<div class="eny_mb">
+						</div>
+					</div>
+				</div>
+				</div>
+						
+			<div class="clear"></div>
+			</div>
+		
+	</div>	
+	
+<!-- Google Analystics -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10834871-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+
+			</body></html>
