@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214221822id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kinglinen.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523230821id_/http%3A//www.kinglinen.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -30,7 +30,7 @@ We use cookies on this site. Cookies are small files that a site or its service 
 
 We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. We may contract with third-party service provider to assist us in better understanding our site visitors. These service providers are not permitted to use the information collected on our behalf except to help us conduct and improve our business. We do not tie the information in cookies to users?personal information. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some our services may not function properly. However, you can still place orders or our website or over the phone at 866-352-6393.
+If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some our services may not function properly. However, you can still place orders or our website or over the phone at 866-803-2389.
 
 Third Party Cookies: From time to time we may contract with third parties to understand our site visitors as noted above, in such cases, these third parties may set cookies on the Site. We have no access to or control to these third parties on the Site and therefore take no responsibility for the third party cookies. 
 
@@ -48,7 +48,7 @@ KingLinen.com does not sell products for purchase by children. Youth-oriented pr
 
 ** Security**
 
-KingLinen.com takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. If you feel uncomfortable ordering online, you can place your order by calling 1-866-352-6393 or fax your order to 909-823-0033. 
+KingLinen.com takes precautions to protect its customers' information. When you submit sensitive information via the website, your information is protected both online and offline. If you feel uncomfortable ordering online, you can place your order by calling 1-866-803-2389 or fax your order to 909-823-0033. 
 
 The ordering information you provide - including credit card information - is secured using 128-bit Secure Sockets Layer (SSL) encryption technology via Yahoo! Store servers. Yahoo! Store uses SSL (Secure Socket Layer) encryption when transmitting certain kinds of information, such as financial services information or payment information. An icon resembling a padlock is displayed on the bottom of most browsers window during SSL transactions that involve credit cards and other forms of payment. Any time a Yahoo! Store asks for a credit card number during checkout for payment, it will be SSL encrypted. The information you provide will be stored securely on Yahoo! servers. This SSL technology is used to prevent such information from being intercepted and read as it is transmitted over the Internet. The encrypted data goes to a secure site where your information is stored on restricted-access computers located at restricted-access sites. While Yahoo! makes every effort to ensure the integrity and security of its network and systems, they cannot guarantee that their security measures will prevent third-party "hackers" from illegally obtaining this information.
 
@@ -60,11 +60,11 @@ To honor the privacy of our users, we offer the option to not receive these type
 
 **Correction/Updating/Reviewing Personal Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by phone at 1-866-352-6393, postal mail or e-mail at customerservice@kinglinen.com. 
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete your personally identifiable information by phone at 1-866-803-2389, postal mail or e-mail at customerservice@kinglinen.com. 
 
 **Choice/Opt-out**
 
-For customers who wish to opt-out and stop receiving KingLinen.com special offers and related news, you may use the link provided in all KingLinen.com communications to automatically unsubscribe. You may also send e-mails to  [ customerservice](mailto:customerservice@kinglinen.com)[@KingLinen.com](mailto:customerservice@kinglinen.com) or call us at 866-352-6393 with a request to be removed. 
+For customers who wish to opt-out and stop receiving KingLinen.com special offers and related news, you may use the link provided in all KingLinen.com communications to automatically unsubscribe. You may also send e-mails to  [ customerservice](mailto:customerservice@kinglinen.com)[@KingLinen.com](mailto:customerservice@kinglinen.com) or call us at 866-803-2389 with a request to be removed. 
 
 **Notification of Changes**
 
@@ -84,6 +84,6 @@ KingLinen.com
 11027 Jasmine Street  
 Fontana, CA. 92337
 
-USA:1-866-352-6393
+USA:1-866-803-2389
 
 Outside USA: 1-909-823-2233 
