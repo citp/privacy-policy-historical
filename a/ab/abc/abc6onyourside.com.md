@@ -1,7 +1,10 @@
-> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105234911id_/http%3A//www.abc6onyourside.com/sections/station/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abc6onyourside.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523064913id_/http%3A//www.abc6onyourside.com/sections/station/legal/privacy.shtml) for the most accurate reproduction.*
 
-# WSYX ABC 6 - Privacy Policy
+# WSYX ABC 6 Privacy Policy
 
+[](https://web.archive.org/sections/station/advertise/)  
+---  
+  
 **General**
 
 The following privacy policy describes what information is collected by http://wwwwsyx6.com (the "Website") and how that information is used. This privacy policy is effective as of February 7, 2007 and will remain in effect until such date as the policy may be modified by the Station in its sole and absolute discretion. Any such changes will be posted on the Website. Your use of the Website constitutes your agreement to the privacy policy as in effect at that time. 
