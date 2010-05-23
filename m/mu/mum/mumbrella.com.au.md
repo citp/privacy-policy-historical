@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mumbrella.com.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112015239id_/http%3A//mumbrella.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mumbrella.com.au privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523213543id_/http%3A//mumbrella.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - mUmBRELLA
 
@@ -19,7 +19,7 @@ Focal Attractions Pty Ltd respects your privacy and is committed to conforming w
 
   * We will take reasonable steps to protect the personal information we hold from misuse and loss and from unauthorised access, modification or disclosure.
   * Access to personal information is restricted to authorised Focal Attractions Pty Ltd personnel only.
-  * Our system automatically captures the IP address of those who post comments. We reserve the right in extraordinary circumstances such as attempts to mislead other users about a poster’s identity, to share that information. We will protect the anonymity of those who comment in good faith.
+  * Our system automatically captures the IP address of those who post comments. We reserve the right in circumstances such as attempts to mislead other users about a poster’s identity, to share that information. We will protect the anonymity of those who comment in good faith.
 
 
 
@@ -37,6 +37,6 @@ Focal Attractions Pty Ltd respects your privacy and is committed to conforming w
 
 ### Queries or complaints
 
-  * Any queries or complaints regarding this Privacy Policy or its implementation should be emailed directly to [alice@focalattractions.com.au](mailto:alice@focalattractions.com.au "mailto:alice@focalattractions.com.au")
+  * Any queries or complaints regarding this Privacy Policy or its implementation should be emailed directly to [georgina@focalattractions.com.au](mailto:alice@focalattractions.com.au "mailto:alice@focalattractions.com.au")
 
 
