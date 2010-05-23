@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120011816id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indigorose.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025321id_/http%3A//www.indigorose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indigo Rose Software
 
-1\. Privacy Statement. Indigo Rose Software Design Corporation, a Manitoba corporation (”Indigo Rose”), operates this Indigorose.com web site. Indigo Rose regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.2. Registration. When you register to download software from the site or to participate in certain the Indigorose.com service(s), our registration form requires you to give us your name, address, country, zip code, phone number, fax number, email address and other personal details (”Registration Data”).
+1\. Privacy Statement. Indigo Rose Software Design Corporation, a Manitoba corporation (“Indigo Rose”), operates this Indigorose.com web site. Indigo Rose regards the privacy and security of user information as a critical component of the service that we offer to our users. The following information explains our information gathering and dissemination practices.
+
+2\. Registration. When you register to download software from the site or to participate in certain the Indigorose.com service(s), our registration form requires you to give us your name, address, country, zip code, phone number, fax number, email address and other personal details (“Registration Data”).
 
 3\. Registration Data. We use Registration Data to tailor our site to your particular needs. We also use Registration Data to send you information about our company and service and to keep you informed of enhancements and complementary products in which you might be interested. We use demographic and profile information to tailor your experience at our site, showing you the content that we think you might be interested in as well as displaying the content according to your preferences. You may choose to stop receiving future communications from us. Please see the Opt-Out and Discontinue Section below.
 
@@ -24,16 +26,17 @@
 
 12\. Opt-Out and Discontinue. You may elect to avoid future communications from Indigorose.com by sending us an email at unsubscribe @ indigorose.com indicating your Username and E-mail address and requesting to opt-out and discontinue future communications. Under urgent circumstances, Indigorose.com may be required to send you information about the service or your account, but Indigorose.com will not send you unsolicited communications regarding any commercial offers or advertisements if you have opted out or discontinued the service.
 
-13\. Update/Edit. Registered users, you may update or edit their account and personal information previously entered by logging in with their user ID and password, and then following the instructions.  
+13\. Update/Edit. Registered users, you may update or edit their account and personal information previously entered by logging in with their user ID and password, and then following the instructions.
+
 14\. Contact Us. If you have any questions regarding this Privacy Policy, the practices of Indigorose.com, or your dealings with our web site, please contact us at:
 
 Indigo Rose Software Design Corporation  
-123 Bannatyne Ave, Suite 200  
-Winnipeg, CA, R3B 0R3  
-Contact: Director of Web Properties  
-Telephone:204-946-0263  
-Facsimile:204-272-3376
+123 Bannatyne Ave, Suite 220  
+Winnipeg, Manitoba  
+R3B 0R3  
+Canada  
+Contact: Director of Web Properties
 
 15\. Modification of Privacy Policy By Indigorose.com. Indigorose.com reserves the right to change or update this Privacy Policy at any time by posting a notice that we are changing our Privacy Policy.
 
-Last Update: July 15, 2008.
+Last Update: Jan 13, 2010.
