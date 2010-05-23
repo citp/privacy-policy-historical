@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the torrentplaza.be privacy policy that was archived on 2008-11-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081102040508id_/http%3A//www.torrentplaza.be/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the torrentplaza.be privacy policy that was archived on 2010-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100523155630id_/http%3A//torrentplaza.be/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
@@ -21,6 +21,8 @@
 <link rel="stylesheet" href="style.css" type="text/css">
 <link rel="shortcut icon" type="image/ico" href="/favicon.ico">
 <script type="text/javascript" src="torrentplaza.js"></script>
+<script type="text/javascript" src="rssbox/virtualpaginate.js"></script>
+<script type="text/javascript" src="rssbox/rssdisplaybox.js"></script>
 <script type="text/javascript" src="http://www.predictad.com/scripts/molosky/combined.js"></script></head>
 
 <body>
@@ -36,12 +38,6 @@
 <input name="searchText" type="text" value="search torrents" onfocus="if(this.value=='search torrents')this.value=''" id="search2" autocomplete="off" title="enter your search term here!" style="margin-bottom: 5px;" onsubmit="window.open('', 'tors', 'width=1024,height=768,status=yes,resizable=yes,scrollbars=yes')"><div class="predictad" style="display:none;z-index:1000"></div><script>function runPredictor(){predictad_auto_load_css=false;predictad_input_id='search2';predictad_ads_mode='0';predictad_db='10';predictad_site='4482';predictad_cs='7000-301';predictad_border_color='000000';predictad_box_id='1';predictad_skin='mclassic';predictad_align='left';predictor();}try{var html_doc = document.getElementsByTagName('head')[0];predictad_js = document.createElement('script');predictad_js.setAttribute('type', 'text/javascript');predictad_js.setAttribute('src', 'http://www.predictad.com/scripts/molosky/combined.js');html_doc.appendChild(predictad_js);predictad_js.onreadystatechange = function () {if (predictad_js.readyState == 'complete'||predictad_js.readyState == 'loaded') {runPredictor();}};predictad_js.onload = function () {runPredictor();};var f = document.getElementById('search2').setAttribute('autocomplete', 'off'); }catch(pex){};</script><br>
 <select id="site" name="whichEngine" style="border:0; margin-bottom: 5px;">
 <option selected="">Torrent Plaza
-</option><option>The Pirate Bay
-</option><option>Mininova
-</option><option>Torrent Reactor
-</option><option>Opensubtitles
-</option><option>Internet Movie Database
-</option><option>Usenext
 </option></select><br>
 <input type="button" onclick="startSearch()" id="searchit" value="search">
 </form>
@@ -63,10 +59,10 @@
   <li><a href="http://www.torrentplaza.be/dvdscr_syn.html" title="DVDsceeners: Pre released DVDs, XVID coded">DVDscr</a></li>
   </ul>
   </li>
-<li><a href="http://www.usenext.dk" target="_self" title="Download through Usenext with full speed"><span>Full Speed Downloads</span></a>
-</li><li><a href="http://www.torrentplaza.be/movie_reviews.html" title="Movie Reviews"><span>Movie Reviews</span></a></li>
-<li><a href="http://www.torrentplaza.be/movie_trailers.html" title="Movie Trailers"><span>Movie Trailers</span></a></li>
-<li><a href="http://www.torrentplaza.be/new_forum" title="Torrent Plaza Forum"><span>Forum</span></a></li>
+<li><a href="http://www.comparere.com/free-usenet.html" target="_self" title="Free Usenet"><span>Downloads</span></a>
+</li><li><a href="http://www.torrentplaza.be/new_forum" title="Torrent Plaza Forum"><span>Forum</span></a></li>
+<li><a href="http://www.comparere.com/best-usenet.html" title="Best Usenet"><span>Best Usenet</span></a></li>
+<li><a href="http://www.torrentplaza.be/links.html" title="Torrent Links"><span>Torrentlinks</span></a></li>
 </ul>
 </div>
 
@@ -74,22 +70,27 @@
 
 </div>
 <div id="nav_container">
-<center>
-		<div class="content-pop_top"><h1>Interactive</h1></div>
+<center>		<div class="content-pop_top"><h1>Torrent News</h1></div>
 </center>
 		 <div class="content-pop_mid">
 		<table align="left">
-		 <tbody><tr>
-		  <td align="left">
-		   <span class="style4">
-<form style="text-align:center; padding-left:15px;" id="newsbox" method="post" action="http://www.ymlp.com/subscribe.php?torrentplaza">
-<a rel="nofollow" href="newsletter.html">Newsletter</a><br><br>
-<input type="text" name="YMLP0" size="20" value="you@you.com" id="search"><br>
-<input type="submit" value="Subscribe" id="searchit">
-</form>
-<a rel="nofollow" style="padding-left:15px;" href="spread.html">Spread the word</a><br><br>
-<a rel="follow" style="padding-left:15px;" href="links.html">Links</a><br>
-		</span>
+		 <tbody><tr>		  <td align="center" width="140px">
+<div id="dvddiv" class="rsspaginate3">
+<a href="#" rel="previous"><b>-</b></a> <span class="paginateinfo" style="margin: 0 5px; font-weight: bold"></span> <a href="#" rel="next"><b>+</b></a>
+</div>
+		  <script type="text/javascript">
+//MAIN FUNCTION: rssdisplaybox("rssfeed_id", "rssbox_id", "rssbox_class")
+var nytimes=new rssdisplaybox("torrentnews", "torrentn", "class213")
+nytimes.set_cache_time(10) //Change cache time of feed to 10 minutes (instead of default 30 minutes. Set to 0 to disable cache)
+nytimes.set_items_shown(0, 1) //Fetch all entries available (0), but display only 1 at a time (pagination links auto created)
+nytimes.set_template("titles") //Use "default" template, which outputs title + description + date
+</script>
+
+<script type="text/javascript">
+nytimes.setpagination("manual", "dvddiv") /
+nytimes.start() //Required: start script
+</script>
+		
 	      </td>
 	     </tr>
 	    </tbody></table>
@@ -97,15 +98,15 @@
 <br>
 		<div class="content-fr1"><h1>Trusted</h1></div>
 		<div class="content-fr2">
-<div style="width:143px; height:129px; border:0; overflow:auto; text-align:center;">
+<div style="width:143px; height:129px; border:0; overflow:hidden; text-align:center;">
 			 <table align="center">
                           <tbody><tr>
                            <td class="links" align="center">
                             <span class="style4">
-<a href="http://www.one.com" target="_blank"><img src="images/one.gif" border="0" alt="One.com: A Reliable, Cheap and Fast Webhost!" title="One.com: A Reliable, Cheap and Fast Webhost!"></a><br>
-<a href="http://www.usenext.dk" target="_blank"><img src="images/usenext.gif" border="0" alt="Usenext, start to download the latest movies released by the scene today at full speed." title="Usenext, start to download the latest movies released by the scene today at full speed."></a>
-<a href="https://www.partypartners.com/index.do?masterben=joztynl" target="_blank"><img src="images/party.gif" border="0" alt="Party Partners. Webmasters, start earning money today." title="Party Partners. Webmasters, start earning money today."></a><br>
-	      </span></td>
+<a href="http://www.comparere.com" target="_blank"><img src="images/comparere.png" border="0" alt="Usenet Newsgroup Reviews" title="Usenet Newsgroup Reviews"></a><br>
+<a href="http://www.binverse.nl" target="_blank"><img src="images/binverse.png" border="0" alt="Binverse" title="Binverse"></a><br>
+</span>
+	      </td>
 	     </tr>
 	    </tbody></table>
 </div>
@@ -143,7 +144,7 @@ TorrentPlaza.be reserves the right, at any time, to modify, alter or update the 
 <a href="http://www.torrentplaza.be/latest_releases.html" target="_self">Latest Movies</a> -<a href="http://www.usenext.dk" target="_blank">Usenext</a> - <a href="http://www.torrentplaza.be/movie_reviews.html" target="_self">Movie Reviews</a> - 
 <a href="http://www.torrentplaza.be/new_forum" target="_self">Forum</a> - 
 <a href="http://www.torrentplaza.be/movie_trailers.html" target="_self">Movie Trailers</a> - 
-<a href="http://www.torrentplaza.be/links.html" target="_self">Torrent Sites</a>
+<a href="http://www.torrentplaza.be/links.html" target="_self">Torrent Sites</a> - <a href="http://www.comparere.com" target="_blank">Usenet Providers</a>
 </center>
 </span>
            </td>
@@ -164,7 +165,7 @@ TorrentPlaza.be reserves the right, at any time, to modify, alter or update the 
 <script type="text/javascript">
 //new fadeshow(IMAGES_ARRAY_NAME, slideshow_width, slideshow_height, borderwidth, delay, pause (0=no, 1=yes), optionalRandomOrder)
 new fadeshow(fadeimages, 95, 140, 0, 3000, 1, "R")
-</script><div id="master0" style="position:relative;width:95px;height:140px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 95px; height: 140px; top: 0px; left: 0px; opacity: 0.990099; background-color: rgb(24, 24, 24); z-index: 1;"><a href="http://www.torrentplaza.be" target="_blank"><img src="http://www.torrentplaza.be/tccobb.jpg" border="0px"></a></div><div id="canvas0_1" style="position:absolute;width:95px;height:140px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:#181818"><a href="http://www.torrentplaza.be" target="_blank"><img src="http://www.torrentplaza.be/tu.jpg" border="0px"></a></div></div>
+</script><div id="master0" style="position:relative;width:95px;height:140px;overflow:hidden;"><div id="canvas0_0" style="position: absolute; width: 95px; height: 140px; top: 0px; left: 0px; opacity: 0.990099; background-color: rgb(24, 24, 24); z-index: 1;"><a href="http://www.torrentplaza.be" target="_blank"><img src="http://www.torrentplaza.be/tu.jpg" border="0px"></a></div><div id="canvas0_1" style="position:absolute;width:95px;height:140px;top:0;left:0;filter:progid:DXImageTransform.Microsoft.alpha(opacity=10);opacity:0.1;-moz-opacity:0.1;-khtml-opacity:0.1;background-color:#181818"><a href="http://www.torrentplaza.be" target="_blank"><img src="http://www.torrentplaza.be/urotl.jpg" border="0px"></a></div></div>
 			  </td>
 			 </tr>
 			</tbody></table>
@@ -179,10 +180,13 @@ new fadeshow(fadeimages, 95, 140, 0, 3000, 1, "R")
                             <span class="style4" style="text-align:left;">
 <a style="padding-left: 10px;" href="http://www.torrents.to/in/527" target="_blank">Torrents</a><br>
 <a style="padding-left: 10px;" href="http://toplist.bitcomet.com/remotevote.asp?siteid=143" target="_blank">TopList</a><br>
+<a style="padding-left: 10px;" href="http://www.qtorrents.com" target="_blank" title="Search Torrents in Real-Time">Qtorrents</a><br>
+<a style="padding-left: 10px;" href="http://www.downloadseden.com" target="_blank">Downloadseden</a><br>
 <a style="padding-left: 10px;" href="http://www.scnsrc.net" target="_blank" alt="Scene Source: fresh honest scene info" title="Scene Source: fresh honest scene info">Scene Source</a><br>
 <a style="padding-left: 10px;" href="http://www.lazypirate.net" target="_blank">Lazypirate</a><br>
 <a style="padding-left: 10px;" href="http://www.share4all.com" target="_blank">Share4all</a><br>
 <a style="padding-left: 10px;" href="http://www.xtvi.com" target="_blank">XTVi</a><br>
+<a style="padding-left: 10px;" href="http://www.torrentmoviesdl.com/" target="_blank">Torrent DL</a><br>
 <a style="padding-left: 10px;" href="http://www.torrentscoop.com" alt="Torrent Scoop: Torrent Search Engine" title="Torrent Scoop: Torrent Search Engine" target="_blank">TorrentScoop</a><br>
 <a style="padding-left: 10px;" href="http://www.maxitorrent.com" target="_blank">Maxitorrent</a><br>
 <a style="padding-left: 10px;" href="http://www.smaragdtorrent.to/" target="_blank">SrdTor.</a><br>
@@ -200,13 +204,10 @@ new fadeshow(fadeimages, 95, 140, 0, 3000, 1, "R")
 <div id="footer">			<table align="center" width="728px" height="90px">
 			 <tbody><tr>
 			  <td align="center">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" height="90" width="728" id="728x90_flash@SNF_Disco_US_INT!" align="middle">
- <param name="allowScriptAccess" value="sameDomain">
- <param name="movie" value="http://banners.partypartners.com/images/marketing-materials/partycasino/english/flash/728x90/200bonus/728x90_flash@SNF_Disco_US_INT!.swf?clickTAG=http://www.partycasino.com/index.htm?wm=3103801">
- <param name="quality" value="high">
- <param name="bgcolor" value="">
- <embed src="http://banners.partypartners.com/images/marketing-materials/partycasino/english/flash/728x90/200bonus/728x90_flash@SNF_Disco_US_INT!.swf?clickTAG=http://www.partycasino.com/index.htm?wm=3103801" quality="high" bgcolor="" width="728" height="90" name="728x90_flash@SNF_Disco_US_INT!" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
- </object>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" width="728" height="90" id="movie">
+	<param name="movie" value="http://accounts.pkr.com/ServeMarketingTool.aspx?id=76&amp;CampaignId=7797&amp;MarketingTool=23&amp;ClickTAG=http%3a%2f%2fwww.pkr.com%3fCampaignId%3d7797%26MarketingToolId%3d23%26GraphicId%3d76">
+	<embed src="http://accounts.pkr.com/ServeMarketingTool.aspx?id=76&amp;CampaignId=7797&amp;MarketingTool=23&amp;ClickTAG=http%3a%2f%2fwww.pkr.com%3fCampaignId%3d7797%26MarketingToolId%3d23%26GraphicId%3d76" quality="high" width="728" height="90" name="movie" type="application/x-shockwave-flash" plug="" inspage="http://www.macromedia.com/go/getflashplayer"> 
+</object>
 </td></tr>
 </tbody></table>
                     </div>
@@ -232,8 +233,7 @@ Created and Scripted by <a href="mailto:admin[at]torrentplaza.be?subject=questio
  document.write("Rendertime: " +loadtime+ " seconds");
 </script>Rendertime: 0.004 seconds | 
 </b>
-<a rel="nofollow" href="privacy.html">Privacy Policy</a> | <a rel="nofollow" href="dmca.html">DMCA Information</a> | <a rel="nofollow" href="disclaimer.html">Disclaimer</a> | <a href="credits.html">Credits</a> | <a rel="nofollow" href="contact_us.html">Advertise</a> | <a href="sitemap.html" target="_self">Sitemap</a>
-			</span>
+<a rel="nofollow" href="privacy.html">Privacy Policy</a> | <a rel="nofollow" href="dmca.html">DMCA Information</a> | <a rel="nofollow" href="disclaimer.html">Disclaimer</a> | <a href="credits.html">Credits</a> | <a rel="nofollow" href="contact_us.html">Advertise</a> | <a href="sitemap.html" target="_self">Sitemap</a> | <a title="binverse" href="http://www.binverse.nl">Binverse.nl</a> | <a title="binverse" href="http://www.binverse.de">Binverse.de</a> | <a title="binverse" href="http://www.binverse.co.uk">Binverse.co.uk</a> | <a title="binverse" href="http://www.binverse.it">Binverse.it</a> </span>
 		       </td>
 		      </tr>
 		     </tbody></table>
