@@ -1,45 +1,71 @@
-> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2009-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090303203514id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepbox.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523115044id_/http%3A//www.deepbox.com/privacy.php) for the most accurate reproduction.*
 
-# Myspace Comments, Myspace 2.0 Layouts, Myspace Layouts, Myspace Images, Funny Myspace Comments
+# 2.0 Layouts, Myspace 2.0 Layouts, Myspace Layouts, Myspace Comments, Funny Myspace Comments
 
-Deepbox.com. ("Deepbox"), comprised of the Internet sites Deepbox.com, is committed to protecting the privacy of users of the site. At Deepbox, we intend to give you as much control as possible over your personal information, including registration data. As part of the normal operation of the site, we collect information from you. This Privacy Statement describes the information we collect about you and how that information may be used. 
+This Privacy Policy describes how we treat the personal information that we collect and receive. We do not intentionally collect any personal information from children under 13, unless we believe such collection to be permitted by law. Our policy with respect to children under 13 is described below. 
 
-**Information Gathered through Deepbox:**
+Overview
 
-Currently, Deepbox uses personal information as a basis for notifications to users, and in order to implement the Terms and Conditions of Use governing the site (the "Terms"). Generally, the user names, email addresses, and any additional information that a user may choose to post are publicly available on Deepbox. When users voluntarily and publicly disclose personal information that may contain Registration Data, as defined in the Terms, or otherwise post personal information in conjunction with content subject to a license, such personal information necessarily will be disclosed subject to the terms of the applicable license. An example of such a disclosure includes, but is not limited to, a user's disclosure of personal information as part of a message posted to a public message forum. 
+We gather user information to provide you with a customized experience on our site. Your user information helps us tailor the content, services, goods and advertising to your viewing preferences. So, we may ask you to register and provide personal information when you post comments or utilize other areas of our site. However, you always have the right to choose not to register or provide personal information, in which case you may not have access to those areas. 
 
-Cookies: Deepbox employs "cookies" to provide users with tailored information. A "cookie" is an element of data that a website, when visited by a user, sends to that user's browser which, in turn, may store that element on the user's hard drive or memory. Deepbox uses cookies to better serve users of our Deepbox Sites; any cookies sent by Deepbox will be marked so that they will be accessible only by Deepbox Sites subject to this Privacy Statement. However, at his or her option and at his or her sole expense and responsibility, any user may block or delete our cookies from his or her hard drive. However, by disabling cookies, certain site features and functionality may no longer work properly, or at all. 
+If you choose to register with our site, from time to time we may e-mail you with messages about our services or third party products and services we believe may be of interest to you, such as new products, features, services, and updated information. Our newsletters may contain code that enables our database to track your usage of the newsletters, including whether you opened the e-mail and what links (if any) were clicked. We use that information exclusively to improve your site experience. If you choose to register with our site you may automatically receive e-mails to confirm your registration and to provide you with necessary information relating to the access or use of your registration. With the exception of the e-mails described in the preceding sentence which are necessary to provide customer support and deliver products and services to you, you may opt-out of receiving e-mail from us as described below. 
 
-Other Notification: In order to implement or enforce the Terms, Deepbox may use user-provided e-mail addresses to contact users on an individual basis. At no time, unless such disclosure is required by law, a governmental agency, or specifically authorized by the user, will Deepbox disclose individual user personal information to unrelated third parties that is not publicly available. 
+Use of Information
 
-**Links with other sites**
+When you register, we ask for your e-mail address, a unique user name selected by you and other information. Once you are a registered user you can update your profile and may be able to provide additional preferential information. 
 
-Deepbox contain links to other websites, whether owned or controlled by Deepbox affiliates, or unrelated third parties. Please note that the privacy policies of these sites may differ from those of Deepbox. Deepbox is not responsible for the privacy policies and practices of any linked website. We encourage you to read the privacy statement of any website you may visit. 
+We may use such personally identifiable information to provide the information or content you have to contact you about programs, products, features or services in which we believe you may be interested (such as future promotional materials), or for other purposes disclosed from time to time. We also may use your personally identifiable information to contact you regarding your use of our Web Site or changes to our Privacy Policy, Terms of Service, or other policies or terms that affect you and your use of our Web Site. In addition, we may use information collected to improve the content and navigation of our Web Site, or for other internal purposes. 
 
-**Choice**
+Communications on the Internet take place between pairs of IP Addresses. Our Web servers will log the IP address that any connection is made from and we may use these IP addresses to help diagnose and resolve technical problems or prevent abuse of our systems or other site users. Your IP address may also be used to gather aggregate demographic data and target advertisements accordingly. 
 
-Profile Display: In some cases, users' personal information may be publicly available through a user's profile display. In such cases, users have the option to opt out of publicly displaying their personal information, including e-mail addresses. Users may also enlist this technique when posing comments on Deepbox. In cases where site profiles allow users to display optional information publicly, such entry and display is at the user's discretion and may be changed at any time by the user. 
+Cookies
 
-**Access**
+Deepbox may use cookies or similar technologies to enhance and personalize your experience of the Website, including to operate and improve offerings through the Website; to help us to authenticate your identity when you visit and transact with the Website; to remember your preferences and registration information; and to customize the content and advertisements provided to you. Deepbox does not require that you accept cookies, and you may disable cookies at any time. However, some functionality of our Website may be impaired if you decline to accept cookies. 
 
-Users can view their data on their personal profile page. When technically feasible, users are permitted to update their personal information directly through Deepbox. When such updating service is not technically feasible, Deepbox will make reasonable efforts to assist users in updating their personal information. 
+Our Website contains links, including banner and other ads, to other Websites. We are not responsible for the privacy practices or the content of such Websites. 
 
-**Security**
+Third Party Ad Servers
 
-To secure site integrity, Deepbox employs measures, including but not limited to security audits, use of encryption tools and software, and other reasonable security measures and procedures. 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here, <http://www.networkadvertising.org/managing/opt_out.asp>. 
 
-Internal access to users' private and nonpublic personal information is restricted to site administrators and individuals on a need-to-know basis. 
+Sharing Information
 
-Enforcement 
+We will not share your personally identifiable information with third parties. However, we may disclose information you provide if required to do so by law or if we have a good faith belief that disclosure is necessary to (1) comply with the law or with legal process served on us; (2) protect and defend our rights or property; or (3) act in an emergency to protect someone.s safety. 
 
-In the event that Deepbox becomes aware that site security is compromised or nonpublic user information has been disclosed to unrelated third parties as a result of external activity, including but not limited to external security attacks, Deepbox shall take reasonable measures which it deems appropriate, including but not limited to internal investigation and reporting, and notification to and cooperation with law enforcement authorities, notwithstanding other provisions of this Privacy Statement. 
+We may request demographic information from you (for example, your age, education level or household income) from time to time. We will not share that information in a manner that identifies you as an individual with any other entity, unless we let you know that at the time of collection or we have your permission. When we share demographic information with third parties, we will give them aggregate information only. 
 
-If Deepbox becomes aware that a user's personal information provided to Deepbox has been disclosed in a manner not in accordance with this Privacy Statement, Deepbox shall make reasonable efforts to notify the affected user, as soon as reasonably possible and as permitted by law, of what information has been disclosed, to the extent that Deepbox knows this information. 
+Opting-Out
 
-**Updates to the Privacy Statement**
+If you provide us with your e-mail address, and do not opt-out of receiving e-mail from us, we may e-mail you with information, including information about selected third parties. If you do not want to receive information from us, you may decline to receive it (or Opt-Out) either when you provide personal information to us or you may update your profile. You may also choose to Opt-Out from certain types of e-mail by following the unsubscribe instructions that appear on such e-mails. You may also contact us as provided below. Please note that there might be a brief delay between when you submit your request to opt-out and when it is processed and reflected in our systems; accordingly you might continue to receive e-mails from us for a few days after you unsubscribe. Additional information regarding opting out of network advertising is located at http://www.networkadvertising.org/managing/opt_out.asp. We maintain records of those users who opt-out of specific e-mail options so that we do not e-mail them with respect to those types of e-mails 
 
-To update the Privacy Statement, we will post both the changed version and its effective date at http://www.deepbox.com/privacy.php 
+Children Under 13
 
-**No Guarantees For Factors Beyond Deepbox's Control**
+Our site is not directed to children under the age of 13 and we are committed to complying with the Children.s Online Privacy Protection Act (COPPA). On those areas of the sites that ask for age, we do not collect personal information from individuals who identify themselves as under the age of 13, except in limited circumstances where we believe that such collection is permitted under COPPA. 
 
-While this Privacy Statement expresses Deepbox's standards for maintenance of private data, it is not in a position to guarantee that the standards will always be met. There may be factors beyond Deepbox's control (e.g., "script kiddies", "crackers and other malcontents") that may result in disclosure of data. As a consequence, Deepbox disclaims any warranties or representations relating to maintenance or nondisclosure of private information. 
+If a parent believes that his or her child has submitted personal information to us, he or she can contact us via e-mail, as listed below. We will promptly delete the information upon learning that it relates to a child under the age of 13. 
+
+Additional Information
+
+We have implemented security measures to protect against the loss, misuse and alteration of the information under our control. These measures include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a separate database. Although we will exercise reasonable care in providing secure transmission of information between your computer and our servers, we cannot ensure or warrant the security of any information transmitted to us over the Internet and we accept no liability for any unintentional disclosure. If a user elects to use our site for informing a friend about our site or particular features or content, we ask them for the friend.s name and e-mail address. We will automatically send the friend a one-time e-mail inviting them to visit our site. We store this information for the sole purpose of sending this one-time e-mail. 
+
+Your personal information is password-protected, and you should always take appropriate measures to protect the secrecy of your password. If you use a computer in a public place or share a computer with others, always remember to sign out and close your browser window when you exit the site to prevent others from accessing your personal information. 
+
+We maintain archives of our web logs, database, and other systems and information. Please note that it is possible some of this information may remain archived after we delete the information from our active database (see above regarding web logs). These archives are maintained for data recovery, legal and other non-marketing purposes. 
+
+If you are visiting our site from outside the United States, be advised we are based in the United States and your personal data will be processed by us in the U.S. where data protection and privacy regulations may not be the same as in other parts of the world. By using the site, you consent to any such transfer of information outside of your country. 
+
+Maintaining Your Profile
+
+You are responsible for maintaining the accuracy of your user profile by notifying us when you change your address, phone number or e-mail address. You may, at any time, update your information or stop receiving communication from us, by signing in and and making the appropriate changes. 
+
+Contact Information
+
+Please address comments or questions regarding this Privacy Policy to us via email to: 
+
+Staff [@] deepbox.com 
+
+Binding Agreement
+
+Use of our site is subject to this Privacy Policy and our Terms & Conditions. By using our Site, you are accepting the practices set out in this Privacy Policy and our Terms & Conditions. We reserve the right to modify this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the bottom of this page to determine if the statement has been modified since you last reviewed it. Your continued use of any portion of our Site following posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+
+Revised 12/10/09. 
