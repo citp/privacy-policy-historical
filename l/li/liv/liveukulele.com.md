@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122004310id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveukulele.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523092540id_/http%3A//liveukulele.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Live 'Ukulele
 
@@ -31,5 +31,3 @@ Except as disclosed in these Terms, Live ‘Ukulele does not sell or disclose an
 **Terms Updates:** The Live ‘Ukulele Terms may be changed at any time and without notice. Should Live ‘Ukulele undergo a change of ownership or make a substantial change regarding its use of personal information, Live ‘Ukulele will notify individual subscribers any subscription management services in place. Continued use of Live ‘Ukulele’s subscription services and/or accessing its site indicates your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
 If you have any questions or concerns about Live ‘Ukulele’s Terms of Use and Privacy Statement, email: liveukulele[at]gmail.com.
-
-[](http://liveukulele.com/feed/rss) [ **Subscribe to Live 'Ukulele's RSS feed**](http://liveukulele.com/feed/rss) and keep up to date with all of the latest posts
