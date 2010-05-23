@@ -1,21 +1,60 @@
-> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017100249id_/http%3A//www.hornady.com/story.php%3Fs%3D88) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hornady.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523020025id_/http%3A//www.hornady.com/privacy-policy) for the most accurate reproduction.*
 
-# Hornady
+# Privacy Policy - Hornady Manufacturing, Inc
 
-**Q:** **What is your Privacy Policy?**
+This Privacy Policy covers the website www.hornady.com (the “Site”), which is owned and operated by Hornady Manufacturing Company, a Nebraska corporation (the “Company”). The Company is committed to protecting the privacy of all users of this Site. Your data will be maintained by the Company in accordance with this Privacy Policy. 
 
-**A:** This is the web site of Hornady Manufacturing, Inc.Our postal address is:Hornady Mfg. Co.  
-P.O. Box 1848  
-Grand Island, NE 68802-1848We can be reached via e-mail at webmaster@hornady.com  
-Or you can reach us by telephone at (308) 382-1390.It is Hornady's policy to respect and protect the privacy of our users. This policy statement tells you how we collect information from you and how we use it. Using the Internet should be a fun experience and we want to help you make it just that.USE OF IP ADDRESSES  
-An IP address is a number that's automatically assigned to your computer whenever you're surfing the Web. Web servers -- the computers that "serve up" Web pages -- automatically identify your computer by its IP address.For each visitor to our Web page, our Web server automatically recognizes and logs only the consumer's IP Address and/or domain name. The server does NOT automatically log any e-mail address. Hornady's server collects IP addresses for the purposes of system administration, to generate reports showing aggregate information, and to audit the use of our site. When guests request pages from the Hornady site, our server logs the guests' IP addresses and/or domain name. We do not link IP addresses to anything personally identifiable, which means that a user's session will be logged, but the user remains anonymous to us.PERSONAL INFORMATION  
-There are cases where Hornady may ask you for personal information such as your name, email address, and mailing address. For example, we request personal information for online shopping transactions, requests for catalogs or sign-ups for the Hornady PowerClub. Hornady needs to collect this information in order to fulfill your order, answer your question, or provide the information or services you request.The information we collect is used to improve the content and/or layout of our page for each individual consumer, used to notify consumers about updates to our Web site or specials which may be of interest to them, or used by us to contact consumers for marketing purposes. We do not share information with other organizations for commercial purposes.USE OF COOKIES  
-A technology called cookies may be used on some pages of this website. A cookie is a tiny element of data that a web site can send to your browser, which may then be stored on your hard drive. You may set your browser to notify you when you receive a cookie, and you may disable your browser's cookie function.OPTING OUT OF FUTURE MAILINGS  
-If you do not want to receive e-mail from us in the future, please contact us via e-mail at webmaster@hornady.com and tell us that you do not want to receive e-mail from our company. Any email you do receive from us will also have an "unsubscribe" link embedded in the message.TELEPHONE NUMBERS AND ORDERING MERCHANDISE  
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed or information they have requested. Please provide us with your correct phone number.SECURITY  
-The importance of security for all personally identifiable information associated with our guests is of utmost concern to us. We exercise great care in providing secure transmission of your information from your PC to our servers. While we strive to protect your personal information, Hornady can't ensure or warrant the security of any information you transmit to us, and you do so at your own risk.Once we receive your transmission, we make our best effort to ensure its security on our systems. When credit card information is transmitted we use industry standard, SSL (secure socket layer) encryption -- recognized as one of the most advanced encryption technologies in the world.In addition, firewalls and other security enhancements are deployed on our servers to help protect your personal information from hackers and other online intruders.In general, the security measures employed by Hornady makes online buying one of the safest ways to use your credit card. Buying by telephone, and even handing your card to a store employee, are less safe than buying online from our site.YOUR ACCEPTANCE OF THESE TERMS  
-By using this site, you signify your assent to the Hornady Privacy Policy. If you do not agree to this policy, please do not use our site.LAST REVISED: FEBRUARY, 2004
+This Privacy Policy is an integral part of the Site. The privacy practices set forth herein have been established to provide the best services to you and to keep all your personally identifiable information private. If you do not agree to the terms of this Privacy Policy in whole, you must not use the Site.
 
-Back to index
+If you have any questions about this Privacy Policy, please [contact us](http://www.hornady.com/contact_us) or call us at (308) 382-1390. 
 
-[Search for more Frequently Asked Questions](https://web.archive.org/faqs.php)
+## 1\. Information Collected by the Site. 
+
+The Site will not collect any personally identifiable information that is not voluntarily supplied by the user. The Site will not collect any personally identifiable information when you are browsing the Site. Certain actions on the Site require you to provide personal information such as your name, address, telephone number, email address, credit card number, and any other information that is necessary to complete that action, but no personally identifiable information will be obtained other than the information you enter. The actions that require your personal information include, but are not limited to, on-line purchase, requests for catalogs or application for membership to Hornady clubs. The Site reserves the right to store your name and contact information in a database solely for the reasons set forth below.
+
+## 2\. Use of Personal Information.
+
+### a. On-Line Purchases. 
+
+The personally identifiable information that you voluntarily provide when you make an on-line purchase is necessary and will be used to complete the transaction through the Site and to ship the product to you. For your additional safety, the Site will not store your credit card number submitted for a transaction after the transaction is complete. You will be required to reenter your credit card number for each transaction that requires a credit card.
+
+### b. Providing Requested Services. 
+
+The Site will use personal information to provide the services requested by you. For example, if you request a catalog, the Site will use your address to mail you a catalog.
+
+### c. Aggregate Information. 
+
+The Site may use your name and contact information to compile aggregated demographic information for market studies, data trending, or similar uses that will make the services offered by the Site more effective and useful. Any aggregated information will be used solely by the Company. The aggregated information and studies will not be linked to any personally identifiable information and the Site will not sell or release any personally identifiable information to any third party.
+
+### d. Verification/Offers.
+
+The Company may contact you via the email address or telephone number you entered on the Site to verify your purchases, as the Company deems to be in your best interest. The Company may also use your email address to send you special offers and/or updates solely relating to the Site. The Company will not use your telephone number or email address for any third party advertisements or notices. If the Company decides to provide email offers, you will have the opportunity to opt-out of any emails by notifying the Company via email at webmaster@hornady.com or via telephone at (308)382-1390, or by selecting the “unsubscribe” link embedded in the email message.
+
+## 3\. User Uploaded Content.
+
+Certain features of this Site allow users to upload or submit photos, stories, testimonials, or materials to the Site for others to view or access (“User Content”). If you upload or submit User Content of any kind, you warrant and represent: (i) that you own or otherwise control all of the rights to the User Content that you post; (ii) that the User Content is accurate; (ii) that use of the User Content you supply does not violate this policy and/or the terms of use of this Site; and (iii) you will indemnify the Company for all claims resulting from User Content you supply. Additionally, you grant the Company a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such User Content in all countries and in any media and/or form. You grant the Company and sublicensees the right to use the name that you submit in connection with such User Content, if they choose.
+
+## 4\. Cookies. 
+
+“Cookies” are small pieces of information that are stored by your browser on your computer. Cookies are necessary for the Site’s functionality. Cookies allow the Site to take data you enter on one page of the Site (e.g., the desired order information) and return results of your request on a new page. Cookies also tell us information when you return to the Site to make your visit to the Site more enjoyable.
+
+You can disable cookies or set your browser to alert you when cookies are being sent to your computer. However, this may affect your ability to  
+shop or perform certain actions on this Site and elsewhere online.
+
+## 5\. Security.
+
+The importance of security for all of your personally identifiable information is of utmost concern to the Company. The Site exercises great care in providing secure transmission of your personal information. Secure socket layer (SSL) encryption is used for all credit card transactions. In addition, firewalls and other security enhancements are utilized by the Site to help protect your personal information. While we strive to protect your personal information, Hornady cannot ensure or warrant the security of any information you transmit to us, and you do so at your own risk.
+
+## 6\. Legal Disclaimer. 
+
+Notwithstanding the Company’s policy against sharing any information you have provided, the Company will release any personal information when it believes disclosure is required by law and when it believe that the disclosure of your personal information is necessary to protect the Company’s rights and/or comply with a judicial proceeding, court order, or legal process served on the Company or the Site.
+
+## 7\. Links/Affiliated Websites. 
+
+This Site may contain links to other websites that are not owned or controlled by the Company, including, but not limited to the Company’s partners, affiliates and advertisers. This Privacy Policy applies only to the Site. The Company is not responsible for the privacy practices of any website that you may link to from the Site or from which you link to this Site. The Company encourages you to review the privacy policy of each and every website that collects personally identifiable information.
+
+## 8\. Modification of Privacy Policy. 
+
+The Company reserves the right to modify this Privacy Policy at any time. Any modifications made will be posted on the Site. Please review the Privacy Policy frequently. 
+
+The effective date of this Privacy Policy is: September 29, 2009.
