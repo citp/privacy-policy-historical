@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thejakartaglobe.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122084204id_/http%3A//thejakartaglobe.com/pages/content/%3Fprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thejakartaglobe.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523074127id_/http%3A//www.thejakartaglobe.com/pages/content/%3Fprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - The Jakarta Globe
 
-Last updated at 3:38 PM. **Sunday 22 November 2009**
+Last updated at 2:37 PM. **Sunday 23 May 2010**
 
 ## Privacy Policy
 
@@ -78,7 +78,7 @@ When an individual chooses to post information that will be publicly disclosed, 
 
 **CHOICE: WE WILL PROVIDE YOU WITH CHOICES ABOUT THE USE OF YOUR PII**  
 You must update your preferences for each of our publications separately, as indicated below:  
-To unsubscribe to any of our products or to remove your PII from application to other Lippo Group companies, third parties or any other source, please contact our customer care at [customercare@thejakartaglobe.com](mailto:customercare@thejakartaglobe.com) or call +62 21 2553 5055. Our Subscription Management staff will be happy to service your needs and the Jakarta Globe will make all reasonable, within the limits of laws applicable to this process, to protect your PII. 
+To unsubscribe to any of our products or to remove your PII from application to other Lippo Group companies, third parties or any other source, please contact our customer care at [subscription.services@thejakartaglobe.com](mailto:subscription.services@thejakartaglobe.com) or call +62 21 2553 5055. Our Subscription Management staff will be happy to service your needs and the Jakarta Globe will make all reasonable, within the limits of laws applicable to this process, to protect your PII. 
 
 **SECURITY: WE PROTECT THE SECURITY OF PII**  
 We use commercially reasonable administrative, technical, personnel and physical measures to safeguard PII and Related Data in our possession against loss, theft and unauthorized use, disclosure or modification.
@@ -90,6 +90,6 @@ We retain your information for as long as necessary to permit us to use it for t
 Your information may be stored and processed in Indonesia or any other country where Jakarta Globe has facilities, and by subscribing to and/or using our publications, you consent to the transfer of information outside of your country.
 
 **REMEDIES AND COMPLIANCE: HOW TO CONTACT US ABOUT PRIVACY CONCERNS**  
-If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [customercare@thejakartaglobe.com](mailto:customercare@thejakartaglobe.com) or call at +62 21 2553 5055.
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us at [subscription.services@thejakartaglobe.com](mailto:subscription.services@thejakartaglobe.com) or call at +62 21 2553 5055.
 
  **YOUR PRIVACY IS IMPORTANT TO US**
