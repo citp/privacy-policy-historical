@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202182848id_/http%3A//www.evoice.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evoice.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025803id_/http%3A//www.evoice.com/privacy-policy.html) for the most accurate reproduction.*
 
-# eVoice - Privacy Policy
+# eVoice Privacy Policy
 
 ---  
   
@@ -51,7 +51,8 @@ We may store information that we collect through cookies, log files and clear gi
 
 We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information of a child under the age of 13, we will delete that information from our systems.
 
-For tips on protecting children's privacy online, please the FTC's Web site (<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>).
+For tips on protecting children's privacy online, please visit the FTC's Web site  
+(<http://www.ftc.gov/bcp/menus/consumer/data/child.shtm>).
 
 
   
