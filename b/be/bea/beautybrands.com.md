@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418054621id_/http%3A//www.beautybrands.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautybrands.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523071127id_/http%3A//www.beautybrands.com/privacy) for the most accurate reproduction.*
 
-# Beauty Brands :: Privacy
+# Beauty Brands :: privacy
 
 ### Privacy Policy
 
@@ -24,7 +24,7 @@ beauty brands
     Privacy Issues
     4600 Madison Avenue, Suite 400
     Kansas City, MO 64112
-    Email: [privacy@bradv.com](https://web.archive.org/about/contact)
+    Email: [privacy@beautybrands.com](https://web.archive.org/about/contact)
     Phone: 816-531-2266
 
 * * *
