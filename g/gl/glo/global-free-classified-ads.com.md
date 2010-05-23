@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212194939id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the global-free-classified-ads.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524013418id_/http%3A//www.global-free-classified-ads.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy1 Classified ads. Buy and sell today! Classified ads. Buy and sell today!
 
