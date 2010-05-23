@@ -1,41 +1,33 @@
-> *The following text is extracted and transformed from the megashare.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228070012id_/http%3A//www.megashare.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megashare.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523190344id_/http%3A//www.megashare.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-To Access all features and become an Affiliate. Get a [Premium Membership!](https://web.archive.org/web/20091228070012id_/http%3A//www.megashare.com/premium.php)
+Agreement regarding confidentiality
 
-| 
+IP addresses of users
 
-We strongly respect your privacy. All information collected at MegaShare will be kept strictly confidential and will not be sold, reused, or rented in any way.
+Our servers can detect the IP address of your browser according to Internet technology. Your IP address is registered by Megashare servers for our internal use (registration of use, optimal downloads use and so on).
 
-**Logging IP Addresses**
+E-mail
 
-For each visitor to our web page, IP addresses are logged and used by MegaShare for measuring usage.
+Our server only registers megashare users’emails for their registration and calculation. Under no circumstances will megashare lease, sell or provide your personal information to third parties.
 
-**Collecting Email Addresses**
+Cookies use
 
-We collect the email addresses of MegaShare members for the purpose of contacting the user and measuring usage. MegaShare does not rent, sell, or share personal information about you with any companies.
+Megashare uses cookies for the users comfort in order to save the browser settings. Megashare does not use any methods for tracking users (the so-called spy or gif images and so on).
 
-**Certain Exceptional Disclosures**
+Safe operation with files
 
-We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law.
+We have taken the appropriate security server measures to protect from loss, incorrect usage, or change of information provided to us by the users of the service. Files, saved for delivery can be accessible only to Megashare representatives or via a link provided to the recipient. All files saved by our service are deleted after a certain time period if you do not delete them yourself.
 
-**Use of Cookies**
+Credit card information
 
-MegaShare uses cookies to store the preferences of users, only if they choose to do so.
+All purchases on Megashare are handled by a third party - Paypal.com in which the transferred information thereof is encrypted. Paypal does not arrange and save numbers or any information from your credit card.
 
-**Third-Party Cookies**
+Advertisements
 
-In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique "cookie" on your browser.
+Advertisements located on our website can be posted directly or through third party advertisement firms. These companies can use the information regarding your visits on these or other web pages (your name, address, e-mail, and phone number are excluded) to place an advertisement of wares and services that might be interesting to you.
 
-**Third-Party Advertising**
+NOTE
 
-We use third-party advertising companies to serve ads when you visit our site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
-
-**Types of Information Collected**
-
-We automatically track and collect the following categories of information when you visit our site: (1) IP addresses; (2) domain servers; (3) types of computers accessing the site; and (4) types of web browsers used to access the site. Traffic data is anonymous information that does not personally identify you but is helpful for marketing purposes or for improving your experience on the site. We also use "cookies" to store your password so you do not have to re-enter it each time you visit the site.
-
-**Updates and Changes to Privacy Policy**
-
-We reserve the right, at any time and without notice, to add to, change, update, or modify this Privacy Policy, simply by posting such change, update, or modification on the site and without any other notice to you. Any such change, update, or modification will be effective immediately upon posting on the site. 
+We can disclose your personal information in case it becomes necessary to defend our judicial rights. Especially if your information is connected with tangible or assumed saboteur actions or poses a potential threat to any persons physical safety. Disclosure of your information can be lawful or as a result of a legal process
