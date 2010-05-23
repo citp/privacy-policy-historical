@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the acs.org.au privacy policy that was archived on 2009-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091118014048id_/https%3A//www.acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acs.org.au privacy policy that was archived on 2010-05-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100523084717id_/http%3A//acs.org.au/index.cfm%3Faction%3Dshow%26conID%3Dprivacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" src="/CFIDE/scripts/cfform.js"></script>
 <script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
@@ -9,7 +9,8 @@
 <meta http-equiv="Expires" content="0">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="DESCRIPTION" content="The Australian Computer Society (ACS) as the recognised association for ICT professionals, has become the public voice of the ICT professional and the guardian of professional ethics and standards. The Society has a commitment to the wider community to ensure the beneficial use of ICT"> <meta name="KEYWORDS" content="Australian Computer Society, professional organisation, Information technology, information and communications technology, computing, professionalism, ethics, professional development, Australia, IT professional, ICT professional, Professional Society, Professional Association, Education, Online Studies, Post-graduate qualifications, Green ICT, Green IT, Green Computing, National ICT Careers Week, National IT Careers Week, Certification, skills recognition, skills assessment, E-Security, E-Security Taskforce, Professional Year Program, PYear, Professional Year, CPEP, Computer Professional Education Program, Young IT, Young ICT, ACS News Updates, Policy Positions, membership, education and certification, careers and employment,  information age, professional partnership program, PPP, Information for non residents, membership rewards, information resources, information for organisations, about ACS, publications, Events, NSW Events, VIC Events, QLD Events, TAS Events, WA Events, SA Events, ACT Events, NT Events, Networking"> 
-<link rel="stylesheet" type="text/css" href="styles/Styles_Structural.css">
+<link rel="stylesheet" type="text/css" href="styles/Styles_Structural.css" media="screen">
+<link rel="stylesheet" type="text/css" href="styles/pStyles_Structural.css" media="print">
 <link rel="stylesheet" type="text/css" href="styles/Styles_X-en.css">
 <link rel="shortcut icon" href="/images/logos/acs.ico">
 <link rel="alternate" type="application/rss+xml" title="ACS Podcast" href="http://www.acs.org.au/rss/podcast.cfm?criteria=acs&amp;x=14&amp;y=9;type=rss;action=.xml">
@@ -30,14 +31,14 @@ membership.items=[
 ]
 var educer={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 educer.items=[ 
- ["ACS Education Programs", "index.cfm?action=show&conID=policyrep"],
- ["Professional Development", "index.cfm?action=show&amp;conID=profdevelopment"],
- ["Course Accreditation", "index.cfm?action=load&amp;temID=accUniversities"]
+ ["Certification", "show/certification.cfm"],
+ ["ACS Education Programs", "index.cfm?action=show&amp;conid=acsedupro"],
+ ["Course Accreditation", "index.cfm?action=accreditation&amp;temID=accUniversities"]
 ]
 var maicareeremp={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 maicareeremp.items=[ 
- ["Careers", "index.cfm?action=show&amp;conID=aboutacs"],
- ["Employment", "Index.cfm?action=show&conID=acsdirectory"]
+ ["Careers", "index.cfm?action=show&amp;conID=careersnemployment"],
+ ["Employment", "index.cfm?action=show&amp;conID=employment"]
 ]
 var maiinfores={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 maiinfores.items=[ 
@@ -46,18 +47,18 @@ maiinfores.items=[
  ["Networking  Resources", "index.cfm?action=show&amp;conID=networkres"],
  ["Publications", "index.cfm?action=show&amp;conID=publications"],
  ["Digital Library", "index.cfm?action=show&amp;conID=digitallib"],
- ["News &amp; Media", "/show/membershipinfo.cfm"]
+ ["News &amp; Media", "index.cfm?action=load&amp;temID=noticesall"]
 ]
 var policyrep={divclass:'anylinkmenu', inlinestyle:'', linktarget:''} 
 policyrep.items=[ 
- ["Policies", "index.cfm?action=list&amp;sgrID=200902180933282792"],
+ ["Policies", "index.cfm?action=list&amp;sgrID=policies2010"],
  ["Industry Reports", "index.cfm?action=list&amp;sgrID=200908311406093421"],
  ["Statistics", "index.cfm?action=show&amp;conID=compendium"]
 ] 
 var infoorg={divclass:'anylinkmenu2', inlinestyle:'', linktarget:''} 
 infoorg.items=[ 
- ["Professional Partner Program", "index.cfm?action=show&amp;conid=pppro"],
- ["ACS Professional Partners", "index.cfm?action=show&amp;conID=careersnemployment"],
+ ["Professional Partner Program", "ppp/index.cfm"],
+ ["ACS Professional Partners", "index.cfm?action=load&amp;temID=ppplist"],
  ["Sponsorship &amp; Endorsement", "index.cfm?action=show&amp;conID=acssponsor"],
  ["Industry Involvement ", "/show/PSA.cfm"]
 ]
@@ -73,7 +74,7 @@ aboutacs.items=[
  ["Services", "index.cfm?action=show&amp;conID=acsservices"],
  ["Quick Links", "index.cfm?action=show&amp;conID=quicklinks"],
  ["Media Centre", "http://www.acs.org.au/media/"],
- ["index.cfm?action=list&amp;sgrID=200908311406093421", "index.cfm?action=sitemap"]
+ ["Site Map", "index.cfm?action=sitemap"]
 ]
 </script>
 
@@ -233,12 +234,12 @@ div#selectBranchContainer{
                 </div>
 			
             <div id="MainMenuContainer">
-				<a href="/show/membership.cfm" class="MainMenuLnk" rel="membership">Membership</a><a href="index.cfm?action=show&amp;conID=educer" class="MainMenuLnk" rel="educer">Education &amp; Certification</a><a href="index.cfm?action=show&amp;conID=careeremployment" class="MainMenuLnk" rel="maicareeremp">Careers &amp; Employment</a><a href="index.cfm?action=show&amp;conID=infores" class="MainMenuLnk" rel="maiinfores">Information Resources</a><a href="index.cfm?action=show&amp;conID=policyrep" class="MainMenuLnk" rel="policyrep">Policy &amp; Statistics</a>
+				<a href="/show/membership.cfm" class="MainMenuLnk" rel="membership">Membership</a><a href="index.cfm?action=show&amp;conID=educer" class="MainMenuLnk" rel="educer">Certification &amp; Education</a><a href="index.cfm?action=show&amp;conID=careeremployment" class="MainMenuLnk" rel="maicareeremp">Careers &amp; Employment</a><a href="index.cfm?action=show&amp;conID=infores" class="MainMenuLnk" rel="maiinfores">Information Resources</a><a href="index.cfm?action=show&amp;conID=policyrep" class="MainMenuLnk" rel="policyrep">Policy &amp; Statistics</a>
                 </div>
 				
                 <div id="MainMenuContainer2Wrapper">
                 	<div id="MainMenuContainer2">
-						<a href="index.cfm?action=show&amp;conid=ppp" class="MainMenuLnk2" rel="infoorg">Information for Organisations</a><a href="index.cfm?action=show&amp;conID=skillassessment" class="MainMenuLnk2" rel="infononresidents">Information for Non Residents</a><a href="index.cfm?action=show&amp;conID=aboutacs" class="MainMenuLnk2" rel="aboutacs">About the ACS</a>
+						<a href="index.cfm?action=show&amp;conid=ppp" class="MainMenuLnk2" rel="infoorg">Information for Organisations</a><a href="index.cfm?action=show&amp;conID=skillassessment" class="MainMenuLnk2" rel="infononresidents">Migration Skills Assessment </a><a href="index.cfm?action=show&amp;conID=aboutacs" class="MainMenuLnk2" rel="aboutacs">About the ACS</a>
                     </div>
                 </div>
 
@@ -248,7 +249,7 @@ div#selectBranchContainer{
                 	<div id="QuickLinksAndBreadCrumbs">
                     	<div id="QuickLinks">
 							
-<div class="QuickLinksItem"><a href="index.cfm?show=1" class="QuickLnk">Home</a></div>
+<div class="QuickLinksItem"><a href="index.cfm?action=home" class="QuickLnk">Home</a></div>
 <div class="QuickLinksSeperator"></div>
 <div class="QuickLinksItem"><a href="index.cfm?action=show&amp;conID=aboutacs" class="QuickLnk">About Us</a></div>
 <div class="QuickLinksSeperator"></div>
@@ -648,7 +649,7 @@ this.setHomePage('http://www.acs.org.au');" class="UtilityLnk">Make this my home
 <span class="FooterLnksep"> | </span>
 <a href="mailto:webmaster@acs.org.au" class="FooterLnk">Contact Webmaster</a>						
                     </div>
-                    <div id="FooterCopyright">© Copyright 1995-2009 Australian Computer Society Inc.</div>
+                    <div id="FooterCopyright">© Copyright 1995- 2010 Australian Computer Society Inc.</div>
                 </div>
 
 
@@ -670,13 +671,13 @@ swfobject.registerObject("FlashID");
 <li><a href="/show/membershippayment.cfm" target="">Membership Payments</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
-<li><a href="index.cfm?action=show&amp;conID=policyrep" target="">ACS Education Programs</a></li>
-<li><a href="index.cfm?action=show&amp;conID=profdevelopment" target="">Professional Development</a></li>
-<li><a href="index.cfm?action=load&amp;temID=accUniversities" target="">Course Accreditation</a></li>
+<li><a href="show/certification.cfm" target="">Certification</a></li>
+<li><a href="index.cfm?action=show&amp;conid=acsedupro" target="">ACS Education Programs</a></li>
+<li><a href="index.cfm?action=accreditation&amp;temID=accUniversities" target="">Course Accreditation</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
-<li><a href="index.cfm?action=show&amp;conID=aboutacs" target="">Careers</a></li>
-<li><a href="Index.cfm?action=show&amp;conID=acsdirectory" target="">Employment</a></li>
+<li><a href="index.cfm?action=show&amp;conID=careersnemployment" target="">Careers</a></li>
+<li><a href="index.cfm?action=show&amp;conID=employment" target="">Employment</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 73px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
 <li><a href="index.cfm?action=load&amp;temID=eventsall" target="">Events</a></li>
@@ -684,16 +685,16 @@ swfobject.registerObject("FlashID");
 <li><a href="index.cfm?action=show&amp;conID=networkres" target="">Networking  Resources</a></li>
 <li><a href="index.cfm?action=show&amp;conID=publications" target="">Publications</a></li>
 <li><a href="index.cfm?action=show&amp;conID=digitallib" target="">Digital Library</a></li>
-<li><a href="/show/membershipinfo.cfm" target="">News &amp; Media</a></li>
+<li><a href="index.cfm?action=load&amp;temID=noticesall" target="">News &amp; Media</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 189px; opacity: 0.3;"></div><div class="anylinkmenu"><ul>
-<li><a href="index.cfm?action=list&amp;sgrID=200902180933282792" target="">Policies</a></li>
+<li><a href="index.cfm?action=list&amp;sgrID=policies2010" target="">Policies</a></li>
 <li><a href="index.cfm?action=list&amp;sgrID=200908311406093421" target="">Industry Reports</a></li>
 <li><a href="index.cfm?action=show&amp;conID=compendium" target="">Statistics</a></li>
 
 </ul></div><div class="anylinkshadow" style="width: 200px; height: 102px; opacity: 0.3;"></div><div class="anylinkmenu2"><ul>
-<li><a href="index.cfm?action=show&amp;conid=pppro" target="">Professional Partner Program</a></li>
-<li><a href="index.cfm?action=show&amp;conID=careersnemployment" target="">ACS Professional Partners</a></li>
+<li><a href="ppp/index.cfm" target="">Professional Partner Program</a></li>
+<li><a href="index.cfm?action=load&amp;temID=ppplist" target="">ACS Professional Partners</a></li>
 <li><a href="index.cfm?action=show&amp;conID=acssponsor" target="">Sponsorship &amp; Endorsement</a></li>
 <li><a href="/show/PSA.cfm" target="">Industry Involvement </a></li>
 
@@ -707,19 +708,18 @@ swfobject.registerObject("FlashID");
 <li><a href="index.cfm?action=show&amp;conID=acsservices" target="">Services</a></li>
 <li><a href="index.cfm?action=show&amp;conID=quicklinks" target="">Quick Links</a></li>
 <li><a href="http://www.acs.org.au/media/" target="">Media Centre</a></li>
-<li><a href="index.cfm?action=sitemap" target="">index.cfm?action=list&amp;sgrID=200908311406093421</a></li>
+<li><a href="index.cfm?action=sitemap" target="">Site Map</a></li>
 
-</ul></div><div class="anylinkshadow" style="width: 200px; height: 207px; opacity: 0.3;"></div>
+</ul></div><div class="anylinkshadow" style="width: 200px; height: 189px; opacity: 0.3;"></div>
 
- 
-<!--
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script>
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
 try {
 var pageTracker = _gat._getTracker("UA-11164738-1");
 pageTracker._trackPageview();
-} catch(err) {}</script>
---> <div class="ac_results" style="display: none; position: absolute;"></div></body></html>
+} catch(err) {}</script>		
+
+ <div class="ac_results" style="display: none; position: absolute;"></div></body></html>
