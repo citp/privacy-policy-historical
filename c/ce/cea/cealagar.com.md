@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cealagar.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231053954id_/http%3A//www.cealagar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cealagar.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523044758id_/http%3A//www.cealagar.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | CEAlagar
+# Privacy Policy | CEAll Around Blog
 
 At **_www.cealagar.com_** we respect your privacy.  Here you will find details outlining our privacy policy.
 
