@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922055503id_/http%3A//www.mycricket.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycricket.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523142307id_/http%3A//www.mycricket.com/support/privacy-policy) for the most accurate reproduction.*
 
-# Cricket Wireless | PRIVACY
+# Privacy Policy | Cricket Wireless
 
 Cricket Communications, Inc. and its parent corporation, Leap Wireless International, Inc. (jointly referred to below as "Cricket"), have adopted a privacy policy that limits what Cricket can do with customer information. Subject to this Privacy Policy and applicable government regulations, Cricket uses information that you provide us to learn more about your needs as a customer, to maintain and improve our networks, to improve our products and services, to provide you with information, services and notices we think will interest you, and to create reports containing aggregated data about our customers for use in connection with our business.
 
@@ -15,7 +15,7 @@ To allow you to control the use of personal information about you, you can instr
 
 
 
-You can provide these instructions to us by [clicking here to Opt-out](https://web.archive.org/privacy/optout).
+You can provide these instructions to us by [clicking here to Opt-out](https://web.archive.org/support/email-optout).
 
 We need to use your personal information to provide you with certain features offered on your Cricket® phone. If you instruct us to restrict the use of your personal information through one of the options outlined above, but you also subscribe to a Cricket® feature that requires us to use your personal information, your instruction will not prevent us from using your personal information to provide the Cricket® feature to you as long as you continue to subscribe to that feature.
 
@@ -40,4 +40,4 @@ In addition, to the extent permitted by applicable law, we may monitor the patte
 
 FURTHER, IN CONNECTION WITH THE POTENTIAL SALE OR TRANSFER OF ALL OR A PORTION OF OUR BUSINESS INTERESTS, CRICKET RESERVES THE RIGHT TO SELL OR TRANSFER PERSONALLY-IDENTIFIABLE INFORMATION WE HAVE COLLECTED ABOUT YOU (INCLUDING, BUT NOT LIMITED TO, YOUR ADDRESS, NAME, AGE, GENDER, ZIP CODE, STATE AND COUNTRY OF RESIDENCY AND OTHER INFORMATION THAT YOU PROVIDE TO US) TO A THIRD PARTY ENTITY THAT AGREES TO BE CRICKET'S SUCCESSOR IN INTEREST WITH REGARD TO THE MAINTENANCE AND PROTECTION OF SUCH INFORMATION. We may also provide access or information to our affiliated businesses or business partners.
 
-Our privacy policy may change from time to time, so please check with us periodically. 
+Our privacy policy may change from time to time, so please check with us periodically.
