@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 2d-x.com privacy policy that was archived on 2009-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090920040713id_/http%3A//www.2d-x.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2d-x.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523080556id_/http%3A//www.2d-x.com/advertising/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2D-X
+# 2D-X.com Privacy Policy | 2D-X
 
 **2D-X** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -12,7 +12,7 @@ All web servers track basic information about their visitors. This information i
 
 Where necessary, 2D-X uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
-Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
+[Advertising](http://www.2d-x.com/advertising/ "Advertising") partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
 ## Controlling Your Privacy
 
