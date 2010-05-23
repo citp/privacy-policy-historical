@@ -1,53 +1,61 @@
-> *The following text is extracted and transformed from the petsbest.com privacy policy that was archived on 2007-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070224163227id_/http%3A//www.petsbest.com/CustomerService/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsbest.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523063351id_/http%3A//www.petsbest.com/privacystatement.aspx) for the most accurate reproduction.*
 
-# PestBest.com Privacy Policy
+# Pets Best Insurance Privacy Statement
 
-This Web site is owned by Pets Best Insurance Services, and its affiliates ("Pets Best").
+##  ANNUAL PRIVACY AGREEMENT
 
-Pets Best provides unconditional Internet access only and does not control any third-party material from authorized or unauthorized externally linked Web sites to Pets Best's Web sites. Pets Best shall not be liable for the content or accuracy of information located on any such externally-linked Web pages.
+Effective May 10th, 2010  
+IMPORTANT PRIVACY NOTICE REGARDING YOUR NONPUBLIC PERSONAL INFORMATION
 
-  
+At Pets Best Insurance, we know the importance of respecting your privacy and maintaining your trust. When we collect personal information, we keep it private. We have physical, electronic, and procedural security measures in place that comply with legal standards to protect your personal information.
 
+##  (1) What we collect
 
-##  Privacy Policy Statement
+In order for us to obtain or service the insurance products that you ask for from us, we may collect personal information from you, as well as from others. Personal Information includes any identifying information, such as your: 
 
-  
-
-
-###  HOW WE PROTECT AND USE CUSTOMER INFORMATION
-
-We safeguard the security and integrity of customer information. We are committed to protecting the security and integrity of customer information through procedures and technology designed for this purpose. For example: We limit employee access to customer information to those who have a business reason to know this information. Employees are required to honor our code of conduct, which includes standards to protect customer confidentiality. They are subject to disciplinary action if they fail to do so. We maintain policies and procedures covering the proper physical security of workplaces and records. Our physical, electronic, and procedural safeguards meet or exceed federal standards regarding the protection of customer information. We require independent contractors and outside companies who work with us to adhere to strict privacy standards through their contracts with us. 
-
-We use technological means (such as backup files, virus detection and eradication software, firewalls, and other computer software and hardware) to protect against unauthorized access or alterations to customer data.
-
-Pets Best has prepared the following Privacy Policy Statement to describe our policy regarding Pets Best's collection, storage and use of information which our Web site visitors may transmit to Pets Best while visiting our site.
-
-**_Pets Best can be reached via e-mail for any questions regarding this web site or the privacy policy at: webmaster@petsbest.com, or by regular mail at the following postal address. If you prefer that we not disclose nonpublic personal information about you to nonaffiliated third parties, you may opt out of those disclosures (that is, you may direct us to not make any disclosures except as we may otherwise be authorized by law). If you wish to opt out of these disclosures, you may contact us at the e-mail address listed above or by regular mail at the following address:_**
-
-Pets Best Insurance Services 2710 Sunrise Rim Road, Suite 100 Boise, Idaho 83705 Attn: Web Master 
-
-For each visitor to our Web site ("User"), our Web server will automatically recognize the User's domain name, but not the User's e-mail address. Pets Best collects and stores the domain name, the e-mail addresses of those who communicate with us via e-mail, the aggregate information on the Web pages that Users access or visit, and any and all information volunteered by the User, such as survey information and/or information we seek for site registration or security purposes including information entered by the User for policy applications including financial information. We will keep financial information (such as credit card and bank account information) in our files for future billing of policy premiums as agreed to by the User when applying for policies. The User information collected by Pets Best will not be shared with organizations which are not affiliated with Pets Best unless otherwise noted below. 
-
-Users who supply us with their postal address, e-mail address or telephone numbers on-line can expect Pets Best to share that information with Pets Best's affiliates, its agents or brokers. As such, these Users may receive periodic mailings from Pets Best, its affiliates, its agents or brokers with information regarding new products and services or upcoming events. If you do not wish to receive such mailings, please indicate this choice in your on-line communication and Pets Best will remove your name from the list it shares with its affiliates, its agents or brokers. 
-
-Pets Best places Internet cookies on our Users' hard drives. A cookie is a small file that is sent from Pets Best's Web server to a Users' personal computer. This file contains information about a User's visit to Pets Best's Web site that only Pets Best's server can read. The cookies are stored on the User's hard drive and are not stored, in any form, by Pets Best. Pets Best uses only session cookies and not persistent cookies. Information derived from reading the cookie is stored by Pets Best and is protected under the terms of Pets Best's corporate data privacy/security policy. Cookies are used to enhance a User's return visit to Pets Best's Web site. Users may decline the cookies by using the appropriate feature of their Web browser software, but by doing so, may experience a decrease in functionality. When applicable, cookies are used to verify the User's authorization to access certain Pets Best Web pages (e.g., a Userâ€™s access to policy information or maintenance of User information). 
-
-The information you provide to us online is protected by Secure Socket Layer (SSL technology). SSL is the leading security protocol for data transfer on the Internet. This technology scrambles your account information as it moves between your PC's browser and Pets Best's computer systems. When information is scrambled, or encrypted in this way, it becomes nearly impossible for anyone other than Pets Best to read it. This secure session helps protect the safety and confidentiality of your information. From our web sites, we do not knowingly collect or use personal information from children under 13 without containing verifiable consent from their parents. Should a child whom we know to be under 13 send personal information to us, we will only use that information to respond directly to that child, seek parental consent, or provide parental notice. We are not responsible for the data collection and use practices of nonaffiliated third parties to which our web sites may link.
-
-For more information about the Children's Online Privacy Protection Act (COPPA), visit the FTC web site: www.ftc.gov.
-
-  
+  * Name, address, e-mail address and phone number
+  * Information regarding your transactions with us and or our affiliates such as policy coverage, premium, and payment history.
 
 
-###  Copyright Notice
 
-All service marks and logos located on Pets Best's Web sites are owned by Pets Best unless otherwise indicated. Removal or reproduction, by any means, of any logo, trademark, service mark, copyrighted material or the name of Pets Best or its affiliates, is expressly prohibited without the prior written consent of Pets Best. All materials located on Pets Best's Web Sites are protected by United States copyright laws and all other applicable laws. 
+We collect your personal information from: 
 
-© 2006 Pets Best Insurance Services. All rights reserved.
+  * You in person, by telephone, or over the Internet;
+  * Forms you submit to us, such as applications, claims, and policy updates
+  * Your business dealings with us and with other companies; 
 
-  
 
 
-###  E-mail Notice
+##  (2) How we use personal information
 
-Except as required by privacy laws, if User elects to communicate with Pets Best via Internet e-mail, the User acknowledges that the information contained in the User's message shall not be considered confidential and that Pets Best shall be free to disclose such information contained therein without any liability or limitation.
+We only disclose your information as allowed or required by law. In those instances, we may disclose your information without your prior consent. We do not sell your information to anyone for any reason. In order for us to obtain, or to service, the insurance products that you ask for from us, we may disclose your information to affiliated and unaffiliated companies. Our affiliates include companies: (1) that we own or control; (2) that own or control us; (3) that are owned or controlled by the same company that owns and controls us; and (4) that own or control the same company that owns and controls us. Our affiliates include insurance companies, insurance agencies, and other financial service companies ("Affiliates"). 
+
+We may disclose personal information to: 
+
+  * Financial companies we partner or do business with;
+  * Service providers that help process or service your account;
+  * Veterinary facilities or providers, to verify coverage and benefits and report claims experience;
+  * A court, governmental or regulatory agency when there is a lawful request;
+  * Law enforcement to protect against fraud or unauthorized transactions;
+  * A group policyholder for purposes of billing and collecting premium or reporting claims experience;
+  * Service providers that perform insurance or business functions for us
+
+
+
+We send current customers a privacy notice each year. If our practices change, we will inform you promptly. We treat our former customer's information with the same level of protection as our current customer's information. 
+
+##  (3) Your right to access
+
+You have the right to access and to request the correction, amendment, or deletion of all of your recorded personal information that has been collected by us. If you wish to review your recorded personal information, please write to us at:
+
+Pets Best Insurance Attn: Compliance Director 2710 Sunrise Rim Rd #100 Boise, ID 83705
+
+Include your name, address, telephone number, and policy number and let us know what kind of information you want to see.
+
+##  (4) Regarding PetsBest.com 
+
+We also want to make you aware of how we use online data collecting devices known as "cookies." Many commercial Internet sites use "Cookies." "Cookies" are files we place in your computer's browser to store your preferences relating to our Web site. If you disable "cookies" on your browser, the site will not remember your preferences and you will not be able to access a customized default home page view of our Web site. Our "cookies" are only used when you are visiting our site. While a code in the "cookie" file enables the site to label you as a particular user, "cookies," by themselves, do not tell us your e-mail address or other personally identifiable information. Only you can provide that information on our Web site \- if you expressly choose to do so or if the preferences in your browser choose to do so automatically, in which case it may identify you by name, address or other personal information. "Cookies" help us to understand your Web site usage, so we can continually improve its usability. For example, we may use "cookies" to personalize your experience at our Web site, if you have accepted this option (e.g., to remember your customer ID on a log-in page). We may also use "cookies" to offer you other insurance and financial services products that may suit your needs. During the period you are logged into our site, we log IP addresses (a number assigned to your computer when you use the Internet), browser and platform types, domain name, access times, referral data (the last site or URL you visited before logging into our site and the first site or URL you visit after leaving our site) and your activity while using our site. We use the Secure Socket Layer (SSL) protocol, secure servers and security protocol to safeguard the information you submit over the Internet. It is important to note that e-mail messages are not secure. E-mail messages traveling through the Internet are subject to viewing, alteration, and copying by potentially anyone on the Internet. This Web site contains links to other sites. We provide links to other sites as a convenience to persons who visit our web site. If you choose to use the services provided by those sites, you may be asked by those sites to provide certain personally identifiable information. Please be aware that we are not responsible for the privacy practices of those sites, even if our name or logo appear on those sites. We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that you visit, as the privacy policies of those sites may differ from ours. This privacy agreement applies solely to this Web site. 
+
+##  (5) Questions?
+
+Please feel free to call us at our toll free number at (877) 738-7237 if you would like to ask us any questions about this form, or about any of our policies. We look forward to serving all of your insurance needs.
