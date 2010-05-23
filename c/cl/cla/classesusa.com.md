@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207210520id_/http%3A//www.classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classesusa.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523222813id_/http%3A//www.classesusa.com/static/privacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,6 +73,5 @@ If you have privacy concerns, questions, or complaints, please contact us at:
 
 Privacy Officer   
 ClassesUSA.com   
-6701 Center Drive West, Suite 300   
-Los Angeles, CA 90045   
-[privacy@classesusa.com](mailto:privacy@classesusa.com)
+P.O. Box 5467   
+Culver City, CA 90231 
