@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serialssolutions.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119005308id_/http%3A//www.serialssolutions.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serialssolutions.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523084652id_/http%3A//www.serialssolutions.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Serials Solutions
 
