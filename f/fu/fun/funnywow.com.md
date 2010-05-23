@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the funnywow.com privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108224640id_/http%3A//www.funnywow.com/index.php%3Fcontroller%3DInfo%26action%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnywow.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523022924id_/http%3A//www.funnywow.com/index.php%3Fcontroller%3DInfo%26action%3DPrivacy) for the most accurate reproduction.*
 
-# funnywow - funny photo effects,funny pictures,Make fun with your photos online - Privacy policy
+# Funnywow - Make funny photos and pictures online. Apply funny photo effects to your pictures with easy editing tool. try it free! - Privacy policy
 
 ## Privacy policy
 
-Last Updated: June 12, 2009
+Last Updated: Nov 9, 2009
 
 This Privacy Policy is designed to assist you in understanding how Funnywow, ("we", "us") collect and use the information you provide to us through our website at www.funnywow.com (the "Site") and our other services, and to assist you in making informed decisions when using our site and our services. We do update our Privacy Policy from time to time without notice, so please check back periodically. 
 
@@ -20,11 +20,14 @@ If you choose to correspond with us through email, we many retain the content of
 
 ### Cookies
 
-We many use cookies from time to time. Cookies enable a website to tailor information presented to you based on your browsing preferences. We may use cookies to personalize web pages and access during your return visits.
+  * We many use cookies from time to time. Cookies enable a website to tailor information presented to you based on your browsing preferences. We may use cookies to personalize web pages and access during your return visits.
+  * Funnywow may also use cookies to track your visit to our website in order to collect aggregated data.
+  * However, this information will only be used for analytical purposes and will not be limited to the minimum necessary to perform the analysis. If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the services at our website.
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-Funnywow may also use cookies to track your visit to our website in order to collect aggregated data.
 
-However, this information will only be used for analytical purposes and will not be limited to the minimum necessary to perform the analysis. If you do not want us to deploy cookies in your browser, you can set your browser to reject cookies or to notify you when a website tries to put a cookie in your browser software. Rejecting cookies may affect your ability to use of some of the services at our website.
 
 ### Disclosures of Personal Information
 
