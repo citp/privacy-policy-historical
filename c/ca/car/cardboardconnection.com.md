@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911235228id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardboardconnection.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524005903id_/http%3A//www.cardboardconnection.com/site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **What information do we collect?**
 
-We collect information from you when you register on our site or subscribe to our newsletter. 
+We collect information from you when you register on our site or subscribe to our newsletter.
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address or mailing address. You may, however, visit our site anonymously.
 
 **What do we use your information for?**
 
-Any of the information we collect from you may be used in one of the following ways: 
+Any of the information we collect from you may be used in one of the following ways:
 
 • To improve our website  
 (we continually strive to improve our website offerings based on the information and feedback we receive from you)
@@ -18,8 +18,7 @@ Any of the information we collect from you may be used in one of the following w
 • To improve customer service  
 (your information helps us to more effectively respond to your customer service requests and support needs)
 
-• To process transactions  
-
+• To process transactions
 
 > Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested.
 
@@ -27,8 +26,7 @@ Any of the information we collect from you may be used in one of the following w
 
 • To send periodic emails
 
-Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails from us, please fill out the subscription cancellation form located at http://community.cardboardconnection.com/cancel-subscription/..  
-
+Note: If at any time you would like to unsubscribe from receiving future emails, If at any time you would like to unsubscribe from receiving future emails from us, please fill out the subscription cancellation form located at http://community.cardboardconnection.com/cancel-subscription/..
 
 **Do we use cookies?**
 
@@ -62,7 +60,7 @@ Please note that The Cardboard Connection is an advertising affiliate of eBay, a
 * Various custom ebay widgets, all of which have the ebay logo attached to them.  
 * Text links.  
 o We link to ebay listings using a variety of affiliate text links, particularly in articles where we are covering major ebay auctions.  
-o Due to repeated requests by fellow collectors to help them easily find deals on [sports card](http://www.cardboardconnection.com/sc) wax products, we automatically link the titles of most sports card products to appropriate auction listings for the corresponding products on ebay. Clicking on the links will forward you to our custom tailored product list on ebay's site.
+o Due to repeated requests by fellow collectors to help them easily find deals on sports card wax products, we automatically link the titles of most sports card products to appropriate auction listings for the corresponding products on ebay. Clicking on the links will forward you to our custom tailored product list on ebay's site.
 
 Clicking on our affiliate links will not cause you, the end user, to incur any additional expense.
 
@@ -72,16 +70,18 @@ By using our site, you consent to our privacy policy.
 
 **Changes to our Privacy Policy**
 
-If we decide to change our privacy policy, we will update the Privacy Policy modification date below. 
+If we decide to change our privacy policy, we will update the Privacy Policy modification date below.
 
 This policy was last modified on August 2nd, 2009
 
 **Contacting Us**
 
-If there are any questions regarding this privacy policy you may contact us using the information below. 
+If there are any questions regarding this privacy policy you may contact us using the information below.
 
-Integrity Ecommerce Inc  
-http://www.cardboardconnection.com  
+Integrity Ecommerce Inc
+
+http://www.cardboardconnection.com
+
 1860 Sandy Plains Road, Ste 204-137  
 Marietta, GA 30066  
 United States  
