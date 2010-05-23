@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106103630id_/http%3A//www.winestar.com.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winestar.com.au privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523091821id_/http%3A//www.winestar.com.au/webcontent26.htm) for the most accurate reproduction.*
 
-# WineStar
+# WineStar - Privacy
 
 Protecting your privacy is important to WineStar. We hope the following policy will help you understand how WineStar collects, uses, and safeguards the personal information you provide on our website. 
 
