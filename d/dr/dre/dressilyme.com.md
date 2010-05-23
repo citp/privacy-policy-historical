@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127055116id_/http%3A//www.dressilyme.com/HelpDetails.aspx%3FTId%3D43) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dressilyme.com privacy policy that was archived on 2010-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100523025944id_/http%3A//www.dressilyme.com/privacy-policy-hd-43) for the most accurate reproduction.*
 
-# Privacy Policy - About Us - Help Center - Designer & Custom Occasional Dresses Maker – DressilyMe.com
+# Privacy Policy - About Us - Help Center - Designer & Custom Occasional Dresses Maker - DressilyMe.com
 
 Last updated: Jul 24, 2009 at 11:42 AM
 
