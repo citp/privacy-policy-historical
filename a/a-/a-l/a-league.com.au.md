@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2006-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061015202746id_/http%3A//a-league.com.au/%3Fs%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a-league.com.au privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524161341id_/http%3A//www.a-league.com.au/default.aspx%3Fs%3Dprivacy) for the most accurate reproduction.*
 
-# Hyundai A-League > Privacy Policy
+# Privacy Policy
 
 Football Federation Australia Limited (FFA) recognises that privacy is important and that an individual has the right to control his or her Personal Information. FFA is committed to protecting the privacy of individuals on whom it collects Personal Information.
 
