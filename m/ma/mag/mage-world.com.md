@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103071521id_/http%3A//www.mage-world.com/privacy-policy/%3F___store%3Ddefault) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mage-world.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524082425id_/http%3A//www.mage-world.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Hello Magento Club
+# Privacy Policy - The World of Magento
 
 ### Privacy Statement
 
