@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227154045id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyandactive.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524035134id_/http%3A//www.healthyandactive.com/privacypolicy.html) for the most accurate reproduction.*
 
 # 
 
@@ -19,4 +19,5 @@ We respect your privacy and guarantee the information you give us will never be 
   7. We will keep you informed, clearly and prominently, about what we do with your personal information, and we will advise you if we change our policy.  
  
 
-
+  
+Third-Party Web Beacons: We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
