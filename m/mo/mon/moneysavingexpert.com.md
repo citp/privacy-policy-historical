@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2009-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091023045825id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneysavingexpert.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524214819id_/http%3A//www.moneysavingexpert.com/privacy) for the most accurate reproduction.*
 
 # MoneySavingExpert Privacy Policy...
 
@@ -10,7 +10,7 @@
 
 **2. _How to contact us_**
 
-If you have any queries about this site or our privacy policy, please contact us by writing to MoneySavingExpert.com, 72 Cavendish Road, Salford, Lancashire, M7 4WA
+If you have any queries about this site or our privacy policy, please contact us by writing to MoneySavingExpert.com, Shepherds Building, Charecroft Way, London, W14 0EH.
 
 **3. _The Information we collect and how we use it_**
 
@@ -51,6 +51,10 @@ The information derived from use of cookies will be aggregated to provide statis
 
 Apart from the uses described in paragraph 3 above the only circumstances in which we would disclose any of this information to any third party are: if ownership of all or part of our website were transferred, in which case any purchaser would only be entitled to use that information in a way consistent with this Privacy Policy; or if we are required to do so by any regulatory or criminal authority. 
 
+**_BudgetBrain.com_**
+
+We collect your e-mail address if you register to save your budget(s) on budgetbrain.com. We only use this address to send you your password to enable you to log into budgetbrain.com to view and amend your budget/s. Any information entered into Budgetbrain.com will remain confidential to you and will not be accessible by any 3rd parties and can be permanently deleted by you at any time
+
 **4. _Links_**
 
 Our site contains links to third party websites that are not subject to this privacy policy. Read our [Terms and Conditions](http://www.moneysavingexpert.com/site/terms-conditions) for further information on these links. We strongly recommend that you read the privacy policy of any such websites that you visit.
@@ -61,10 +65,10 @@ We use reasonable precautions to keep the information disclosed to us secure. Ho
 
 **6. _Changes_**
 
-This policy is effective from 4 August 2009 and replaces with immediate effect the privacy poicy previously published on 3 September 2008. Section 1 has changed. We may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
+This policy is effective from 9 March 2010 and replaces with immediate effect the privacy policy previously published on 5 January 2010. Section 1 has changed. We may, from time to time make changes to this privacy policy to reflect any changes to our privacy practices in accordance with changes to legislation, best practice or website enhancements. We will let you know what these changes are by posting them to this page, but it is your responsibility as a user to make sure that you are aware of them, by checking for any changes on a regular basis. Changes will become effective as soon as they are posted.
 
 **7. _General_**
 
-If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com, 72 Cavendish Road, Salford, Lancashire, M7 4WA
+If you have any requests or queries concerning your personal information or wish to correct or change any information we have about you, please contact us by writing to MoneySavingExpert.com, Shepherds Building, Charecroft Way, London, W14 0EH.
 
-Effective as of: 4 August 2009
+Effective as of: 9 March 2010
