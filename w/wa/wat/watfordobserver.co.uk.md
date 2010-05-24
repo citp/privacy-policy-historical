@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watfordobserver.co.uk privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022532id_/http%3A//www.watfordobserver.co.uk/my/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watfordobserver.co.uk privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524085439id_/http%3A//www.watfordobserver.co.uk/my/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
