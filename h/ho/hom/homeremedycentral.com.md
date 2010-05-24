@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213135423id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeremedycentral.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524043641id_/http%3A//www.homeremedycentral.com/en/administration/home-remedy/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Home Remedy | Administration
 
@@ -12,7 +12,7 @@ Homeremedycentral.com uses statistical tracking software to provide metrics of s
 
 ## Contact Information:
 
-You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com) , calling 425-881-8411 or at the address below. 
+You may contact us via email from the "Contact Us" section of this website, email [info@homeremedycentral.com](mailto:info@homeremedycentral.com), calling 425-881-8411 or at the address below. 
 
 Corina Wilson 
 
@@ -57,7 +57,7 @@ We use third-party advertising companies to serve ads when you visit our website
 To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
 
   * [Amazon privacy policy](http://www.amazon.com/gp/help/customer/display.html?nodeId=468496).
-  * [Kontera privacy policy](http://www.kontera.com/index.php/em-privacy-policy).
+  * [Kontera privacy policy](http://www.kontera.com/em-privacy-policy).
   * [Commission Junction privacy policy](https://www.cj.com/privacy.html).
   * [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
 
@@ -69,7 +69,4 @@ Upon request we provide site visitors with access to all information [including 
 
 With respect to security: When we transfer and receive certain types of sensitive information such as financial information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site, We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
 
-If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org) , state or local chapters of the Better Business Bureau, state or local consumer protection office.
-
-|  [About Us  <](http://www.homeremedycentral.com/en/administration/home-remedy/about-us.html)  
----
+If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number, The DMA's Committee on Ethical Business Practices at [mgoldberger@the-dma.org](mailto:mgoldberger@the-dma.org), state or local chapters of the Better Business Bureau, state or local consumer protection office.
