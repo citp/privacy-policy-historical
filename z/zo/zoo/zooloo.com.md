@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zooloo.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209201959id_/http%3A//www.zooloo.com/home/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooloo.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524021636id_/http%3A//www.zooloo.com/home/privacy) for the most accurate reproduction.*
 
 # ZooLoo Privacy Policy - Your Name. Your Domain. Your Life.
 
@@ -15,6 +15,7 @@ This policy covers how ZooLoo, along with its partners, (collectively, "ZooLoo,"
 
 **Billing Information**  
 
+  * Should you sign up for any ZooLoo Paid Services including Upgrades/Add-Ons or register a domain through us, we require your billing information in order to process the transaction.
   * Should you sign up for a ZooLoo Plus account or register a domain through us, we require your billing information in order to process the transaction.
   * We use the Secure PayPal Merchant Services to execute your transaction.
   * We store and process your personal information on our computers in the US, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities.
@@ -87,6 +88,6 @@ If ZooLoo learns of a security systems breach we may attempt to notify you elect
 **Contacting ZooLoo**  
 If you have a privacy concern regarding ZooLoo, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [info@ZooLoo.com](mailto:info@zooloo.com).
 
-Last Revised: March 2009
+Last Revised: January 2010
 
 ^ back to top
