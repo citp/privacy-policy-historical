@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130145631id_/http%3A//www.toktumi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toktumi.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524104550id_/http%3A//www.toktumi.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Home Office and Small Business Phone System - Toktumi Office Phone Service
 
