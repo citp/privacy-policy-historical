@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204151952id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsathome.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524021138id_/http%3A//www.petsathome.com/webapp/wcs/stores/servlet/Info_10601_PrivacyPolicy_-1_10551) for the most accurate reproduction.*
 
-# Pets at Home – where pets come first
+# Pets at Home – where pets come first - PrivacyPolicy
 
   * Your consent
   * What information do we collect and why?
