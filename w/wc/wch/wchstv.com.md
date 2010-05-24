@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123194839id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wchstv.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524190956id_/http%3A//www.wchstv.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy Statement for www.wchstv.com
 
@@ -21,6 +21,8 @@ The Website does not knowingly collect information from any individuals under th
 The personally identifying information the Website intentionally collects from users who submit video(s)/posting(s)/email(s) to the Website are those users' names, addresses, telephone numbers, e-mail addresses, age/date of birth and gender. Addition personal information may unintentionally be collected if such information is provided in submitted video(s)/posting(s)/email(s). Personal information included in a video(s)/posting(s) is by its nature available to the general public and no such information should be posted by any user who desires to keep it private. The Station is not responsible for any use which may be made of such information by any third party.
 
 In addition, we have web logs which collect standard information each time we serve a page on the Website. The web logs provide us with information on our users Internet protocol addresses, the pages of the Website visited and a date and time stamp. This information allows us to administer the website and identify how it is being used.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Maintenance of Information**  
 All videos/postings/emails on the Website may be stored in our database even after the videos/postings/emails have been deleted from public display. In addition, our web logs may be stored indefinitely. Although we use customary practices to store all information received from our users in a secure operating environment that is not available to general public, no guarantee can be provided that such information might not become available to persons outside of the Station.
