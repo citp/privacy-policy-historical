@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203034522id_/http%3A//www.boohoo.com/Help/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boohoo.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524025852id_/http%3A//www.boohoo.com/Help/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # boohoo.com | Womens Fashion Clothes | Womens Clothing
 
