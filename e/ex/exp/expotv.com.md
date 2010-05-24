@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220220204id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expotv.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524035709id_/http%3A//www.expotv.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Expo TV Privacy Policy | Expo | Consumer Product Reviews in Video
 
-### Expo Privacy Policy
+## Expo Privacy Policy
 
 This policy applies to your use of all the sites and services owned or operated by Expo Communications, Inc. ("Expo") and affiliated companies (collectively "we," "us," or "our"), including www.ExpoTV.com and any other site that we may own or operate currently or in the future (collectively, the "Sites"). This policy does not apply to your use of unaffiliated sites to which any of the Sites only link. The following discloses our information gathering and dissemination practices for the Sites. This privacy policy applies only to data gathered on the Sites and does not apply to any offline point of contact between Expo and consumers. This privacy policy was updated on March 23, 2009.
 
