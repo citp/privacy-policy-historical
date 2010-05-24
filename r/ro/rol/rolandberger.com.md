@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116093849id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rolandberger.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525005009id_/http%3A//www.rolandberger.com/data_protection_statement.html) for the most accurate reproduction.*
 
 # Privacy | Strategy Consultants
 
@@ -12,13 +12,14 @@ Responsibility for data processing and in connection with this website rests wit
 
 Roland Berger Strategy Consultants uses the Internet to present general information about our company and what we do. There are some areas of our web-sites or individual pages which serve more specific purposes.
 
-  * There is the applicants' area of our different recruiting websites, where potential applicants can apply for jobs, internships and other positions.
+  * There is the applicants' area of our different recruiting websites, where potential applicants can apply for jobs, internships and other positions (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
+
   * Then there's our alumni area, where people who used to work for Roland Berger Strategy Consultants can keep in touch with their ex-colleagues and the company itself.
   * And there are other pages on specific topics or with specific functions. Details can be found in the contents section of each page.
 
 
 
-We collect, process and use data for the reasons above, unless there are more specific reasons, which we will give when collecting that data. We do not use data other than for its intended purpose in each case.
+We collect, process and use data for the reasons above, unless there are more specific reasons, which we will give when collecting that data (e.g. for [applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)). We do not use data other than for its intended purpose in each case.
 
 ## 3\. What data do we collect?
 
@@ -34,13 +35,13 @@ We statistically analyze this data constantly so we can keep our websites optimi
 
 We record and process information you enter on our websites or send us otherwise. This includes data you enter in forms or contact fields, or select from lists or menus.
 
-There are some points in our websites where you can send us information by uploading documents via those websites to our servers. That is what happens when you apply online, for example.
+There are some points in our websites where you can send us information by uploading documents via those websites to our servers. That is what happens when you apply online, for example (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
 
 We also record and process personal information when you e-mail someone at Roland Berger. This concerns the contents of your e-mails as such, but also data obtained from queries to our e-mail server, such as sender and addressee IDs, time stamp, errors or grounds for refusal if mail doesn't get through.
 
 ## 3.2.1 Profile and login information for access-protected areas
 
-There are some access-restricted areas of the website for which you need to register before you can use them, like the recruiting and alumni areas in particular. When registering, there are some details you have to enter that the registration form itself requires, particularly your e-mail address, a password, and some information about yourself. Any other details you enter are voluntary. We process and save this data.
+There are some access-restricted areas of the website for which you need to register before you can use them, like the recruiting/applicant and alumni areas in particular. When registering, there are some details you have to enter that the registration form itself requires, particularly your e-mail address, a password, and some information about yourself. Any other details you enter are voluntary. We process and save this data (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
 
 In some areas of our websites, like our alumni network in particular, some of your registration data or contributions you make can be seen by other users once they log in. It's up to you to decide whether you want other registered users of this site to see your information and, if so, what. You can change these settings at any time.
 
@@ -58,7 +59,7 @@ We will never record any of your personal details otherwise without your ex-pres
 
 ## 4.1 Where does data go once it reaches Roland Berger Strategy Consultants?
 
-Once you send data, or it is collected on our websites, we transmit it within Roland Berger Strategy Consultants to the recipients that need to know it. Applications, for instance, go to our human resources department and the department for which the position is advertised.
+Once you send data, or it is collected on our websites, we transmit it within Roland Berger Strategy Consultants to the recipients that need to know it. Applications, for instance, go to our human resources department and the department for which the position is advertised (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
 
 Data can also be accessed in purely technical terms by service providers and contract partners we use to operate our website. They act as our commissioned data processors.
 
@@ -70,8 +71,10 @@ As a fundamental rule, we do not disclose, transfer, sell or otherwise market pe
 
 We do not transfer any personal information to anyone in countries outside the EU or EEA, nor do we have any plans to do so, except in the cases below:
 
-  * If you're applying for positions advertised in countries outside the EU/EEA or which are closely connected to our offices in those countries.
-  * If you're registering for events organized outside the EU or EEA.
+  * If you're applying for positions advertised in countries outside the EU/EEA or which are closely connected to our offices in those countries (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
+
+  * If you're registering for events organized outside the EU or EEA (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
+
   * In any other cases where data evidently has to be sent to recipients in countries outside the EU/EEA.
 
 
@@ -83,6 +86,8 @@ We will generally ask you for your consent before transferring data in these cas
 The law is quite detailed when it comes to what data we can and must store and for how long. Once these terms expire, we routinely delete this data or block it, following data protection rules.
 
 Where data is not subject to specific terms, we delete it or block it once the reasons we collected it for cease to apply.
+
+If you have agreed to a longer duration for storing, processing and using your data, we will delete or block your data after this duration expires or should your revoke your consent (refer to the [supplementary data protection statement for applicants  ](https://application.rolandberger.info/cms/en/career/online-application/application-autoregister.html)).
 
 ## 6\. What are "cookies", and how do we use them?
 
