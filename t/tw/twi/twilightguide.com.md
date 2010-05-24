@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twilightguide.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231014458id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilightguide.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524103118id_/http%3A//twilightguide.com/tg/twilight-graphics/privacy) for the most accurate reproduction.*
 
 # Privacy | Twilight Guide
 
@@ -26,6 +26,8 @@ We use third-party advertising companies to serve ads when you visit the site. T
 Google, as a third party vendor, uses cookies to serve ads on the site. Google’s use of the DART cookie enables it to serve ads to users based on their visit to the site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement ‘click-throughs’, and/or other activities on our website. Where authorized by us, ValueClick and its business partners may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see [ValueClick’s privacy policy](http://www.valueclickmedia.com/member_privacy.shtml).
+
+Burst Media is an advertising network that delivers online ads to anonymous internet audiences on this site. Burst Media may use cookies to improve your Web browsing experience, and to help better target ads. To learn more about the Burst Media cookies or to opt out, [click here](http://www.burstmedia.com/consumer_optout.asp).
 
 Advertising companies who are members of the Network Advertising Initiative give the option to opt out of the collection of user information and behavioral advertising. If you would like to opt out please visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp).
 
