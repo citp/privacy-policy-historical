@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123120320id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jorgecruise.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524160356id_/http%3A//jorgecruise.com/privacy) for the most accurate reproduction.*
 
-# Jorge Cruise: #1 bestselling author featured on oprah, today and cnn - Privacy
+# Jorge Cruise: #1 bestselling author featured on oprah, today and cnn - Privacy Policy
 
 ## Privacy Policy
 
@@ -21,10 +21,8 @@ Finally, the web site contains links to some other web sites. We cannot be respo
 
 If you have any questions about our Privacy Policy or feel that we are not abiding by the terms of our posted Privacy Policy, please contact us in any of the following ways:
 
-Send an email to:  
-support@jorgecruise.zendesk.com
+Send a letter to:
 
-Or, send a letter to:  
 JorgeCruise.com, Inc.  
 2924 Emerson Street, Suite 200  
 San Diego, CA 92106   
@@ -36,4 +34,4 @@ Attn: Privacy / Legal
 
 BY USING OUR WEBSITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY, YOU SHOULD NOT USE OUR WEBSITE. YOUR CONTINUED USE OF OUR WEBSITE FOLLOWING THE POSTING OF CHANGES TO THIS PRIVACY POLICY WILL MEAN THAT YOU ACCEPT THOSE CHANGES.
 
-Effective Date: This policy was last updated on September 3, 2009
+Effective Date: This policy was last updated on January 3, 2010
