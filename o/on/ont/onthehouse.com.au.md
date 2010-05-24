@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123134118id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthehouse.com.au privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524165757id_/http%3A//www.onthehouse.com.au/privacy_policy) for the most accurate reproduction.*
 
-# onthehouse.com.au - Privacy Policy
+# Privacy Policy - onthehouse.com.au
 
 onthehouse.com.au ("onthehouse") respects the privacy of your personal information. onthehouse is subject to Privacy Legislation, including the National Privacy Principles ("NPPs") under the Privacy Act 1988 (Cth), The Privacy and Personal Information Protection Act (1988) and contractual requirements relating to Privacy pursuant to a number of State and Territory Government Licence Agreements. A copy of the National Privacy Principles are available for your perusal at our premises or you may access a copy from the Office of the Federal Privacy Commissioner. The following Privacy Policy outlines the type of information that is collected by onthehouse and how we use and protect that information. 
 
