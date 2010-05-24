@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419023334id_/http%3A//tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tulumba.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524120850id_/http%3A//www.tulumba.com/storeContent.asp%3FPrivacy) for the most accurate reproduction.*
 
 # #Privacy Policy Statement: Tulumba.com
 
 This is the web site of **www.tulumba.com**. 
 
 Our postal address is   
-**934 3rd Av  
-Brooklyn, NY 11232**
+**129 15th Street  
+Brooklyn, NY 11215**
 
 We can be reached via e-mail at [info@tulumba.com](mailto:info@tulumba.com)  
 or you can reach us by telephone at 8668858622 
