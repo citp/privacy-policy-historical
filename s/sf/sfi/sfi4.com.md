@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfi4.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214014454id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfi4.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524044344id_/http%3A//www.tripleclicks.com/privacy_policy.php) for the most accurate reproduction.*
 
 # TripleClicks Privacy Policy
 
@@ -12,7 +12,7 @@ E-mail addresses are gathered from only those who have purchased products from u
 
 ##### **How is e-mail information used?**
 
-E-mail addresses are used to send you information that you requested or to confirm orders only. We NEVER sell, rent, or loan our e-mail lists to ANY third party. Period!
+E-mail addresses are used to send you information that you requested or to confirm orders. We NEVER sell, rent, or loan our e-mail lists to ANY third party. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your e-mail address in case they need to contact you about your order.
 
 ##### **How do I remove my name from mailing lists to which I previously subscribed?**
 
@@ -22,6 +22,6 @@ Just follow the simple removal directions always provided at the bottom of e-mai
 
 We retain this information for a period of time to allow for the possibility of a credit being posted to your credit card for a product being returned.
 
-##### **What about phone and fax numbers?**
+##### **What about phone numbers and addresses?**
 
-We request a phone and/or fax number on order forms in case we need to contact you about your order. However, this information is entered into our personal customer database only. We NEVER sell, rent, or loan our list of customer fax or phone numbers, nor any other information about customers.
+We request a phone number on order forms in case we need to contact you about your order. We NEVER sell, rent, or loan our list of customer phone numbers, nor any other information about customers. If you order a product or service sold by one of our E-Commerce Associates, they will be provided your phone number in case they need to contact you about your order. They are, of course, also provided your shipping address.
