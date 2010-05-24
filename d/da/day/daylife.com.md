@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209204448id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daylife.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524041141id_/http%3A//corp.daylife.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daylife
 
