@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220143018id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizquest.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524065713id_/http%3A//www.bizquest.com/support/privacy_policy.asp) for the most accurate reproduction.*
 
 # Business for Sale | Buy A Business or Sell A Business | Privacy Policy - BizQuest.com
 
@@ -17,6 +17,8 @@ BizQuest collects information (name, address, email address) necessary to permit
 **Links to Other Sites**
 
 This Web site contains links to other sites that are not owned or controlled by BizQuest. Please be aware that we, BizQuest, are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies only to information collected by this Web site. 
+
+We use third-party advertising companies, including Google, to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.google.com/privacy_ads.html>
 
 **Testimonials**
 
