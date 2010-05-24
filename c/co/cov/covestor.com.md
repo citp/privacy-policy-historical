@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503151011id_/http%3A//covestor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the covestor.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524150836id_/http%3A//www.covestor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Covestor
 
