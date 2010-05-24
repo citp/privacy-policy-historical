@@ -1,36 +1,15 @@
-> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2009-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixsy.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/privacy.aspx) for the most accurate reproduction.*
 
 # Pixsy Corporation | Privacy Policy
 
-|  [ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/benefits.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/management.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/jobs.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/events.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/press.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/news.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/videos.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/awards.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/contact.aspx)  
-[ ](https://web.archive.org/web/20090225081948id_/http%3A//www.pixsycorp.com/network.aspx)  
-
-
-[ ](http://www.natpemarket.com/index.php?option=com_wrapper&view=wrapper&Itemid=200)
-
-Pixsy CEO to speak at 2009 NATPE on Online Video Syndication  
-
-
-January 28  
-Las Vegas, NV 
-
-[ ](http://videos.webpronews.com/2008/08/19/ses-norlin/)
-
-[ ](http://www.alwayson.goingon.com/permalink/post/8389)
-
-[ ](http://www.alwayson.goingon.com/permalink/post/8813)
-
-[ ](http://www.time.com/time/2006/50coolest/index.html)
-
+|  [ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/benefits.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/advisoryboard.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/jobs.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/events.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/press.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/news.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/awards.aspx)  
+[ ](https://web.archive.org/web/20100524164200id_/http%3A//www.pixsycorp.com/contact.aspx)  
 | 
 
 Pixsy welcomes comments and questions on this Privacy Policy. You may e-mail your questions or comments to: [info@Pixsy.com](mailto:info@Pixsy.com)
