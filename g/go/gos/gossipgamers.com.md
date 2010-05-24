@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gossipgamers.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122185131id_/http%3A//www.gossipgamers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gossipgamers.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524184938id_/http%3A//www.gossipgamers.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -34,5 +34,3 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 **Contacting Us**
 
 If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please use our [contact](http://www.gossipgamers.com/contact/) form. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
-
-**Share and Enjoy**
