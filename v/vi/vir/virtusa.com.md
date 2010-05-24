@@ -1,67 +1,39 @@
-> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2006-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtusa.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524122208id_/http%3A//www.virtusa.com/privacy-statement.asp) for the most accurate reproduction.*
 
-# Virtusa
+# Privacy Statement
 
-|   |  | [About Us](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/AboutUs.htm)  
----  
-   
-| [Company Overview](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/CorporateOverview.htm)  
-| [Leadership Profiles](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/ManagementTeam.htm)  
-| [Why Virtusa](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/ValueProposition.htm)  
-| [Investors](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/PartnersInvestors.htm)  
-| [Careers](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/Careers.htm)  
-| [Contact Us](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/AboutUs/ContactUs.htm)  
-| [Home](https://web.archive.org/web/20060314122114id_/http%3A//www.virtusa.com/Index.html)  
-| 
+Privacy Statement for [www.virtusa.com](http://www.virtusa.com/)
 
-|    
----  
-Privacy Policy  
-  
-   
-| This Privacy Policy governs your use of the Site. Additional terms and conditions may apply to protect information you supply to Virtusa in a forum other than the Site. By using the Site, you consent to the collection, storage and use of certain personal information by Virtusa. Such personal information includes your name, address, telephone number and other information furnished by you to Virtusa.  
----  
-   
-Collection of Personal Information  
-Virtusa collects personal information about you from the Site when you complete the "Contact Us" portion or apply for jobs using the 'Career Opportunities' portion of the Site. Virtusa does not collect information about you and your use of the Site through the use of "cookies." Cookies are small data files that are placed on your hard drive when you visit the Site that track your visit to the Site. Operators of linked web sites may use cookies if you visit their sites via links contained on the Site. Virtusa cannot control the use of cookies or management of information gathered by these entities. You should be aware that when clicking on one of these links, you are being transferred to another web site that may have privacy policies different from the terms of this Privacy Policy.  
-   
-Use of Personal Information  
-Virtusa uses your personal information to provide you with information that you have requested from Virtusa or to provide you with information about other products and services that might be of interest to you or to consider any employment-related enquiries that you may submit. Virtusa may keep any of your personal information on file and use it to contact you for the above purposes. If you do not wish to receive non-essential e-mail communications concerning Virtusa's products or services, you can opt out of receiving this information by contacting Virtusa at [privacy@virtusa.com](mailto:privacy@virtusa.com).  
-   
-Disclosure of Personal Information  
-  
-Virtusa will only release your personal information to third parties if legally required to do so or if the rights or property of Virtusa, its affiliates, any applicable service providers or other users of the Site are at risk. Otherwise, Virtusa will not disclose your personal information to third parties other than its affiliates and service providers.   
-   
-Protection of Personal Information  
-Virtusa employs technical security measures that endeavor to protect your personal information from outside threats, as well as a code of conduct for employees who are permitted access to your personal information. However, Virtusa does not represent, warrant or guarantee that your personal information will be protected against loss, misuse or alterations and does not accept any liability for personal information submitted to it nor for third parties' use or misuse of your personal information.  
-   
-**Your Personal Information**  
-  
-Virtusa provides you with the ability to access your personal information and request that changes be made to this information. If you would like to review your personal information, please contact us at [privacy@virtusa.com](mailto:privacy@virtusa.com) or write to us at:
+Virtusa Corporation has created this privacy statement in order to demonstrate our firm's commitment to privacy and to ensure our users that Virtusa uses all reasonable efforts to help protect their sensitive and private information from unauthorized disclosure, misuse, alteration and destruction. The following discloses our information gathering and dissemination practices for [www.virtusa.com](http://www.virtusa.com/)
 
-**Attn: Privacy Policy  
-Virtusa Corporation **  
-2000 West Park Drive   
-Westborough, MA 01581, USA   
-  
-  
-   
-**Collection and Use of Non-personal Information**  
-Virtusa collects certain other information that cannot identify you personally when you visit the Site. This information includes your Internet Protocol address and your domain name. An Internet Protocol address is a number that is automatically assigned to your computer by the Internet Service Provider computer through which you access the world wide web and a domain name is the name of the Internet Service Provider computer itself through which you access the world wide web. Virtusa logs these Internet Protocol addresses and domain names and aggregates them for system administration and to monitor the use of the Site. Virtusa uses the aggregated information to measure the number of visits to the Site, the average time spent on the Site, the number of pages viewed, and various other Site use statistics. This monitoring helps Virtusa to evaluate how the Site is being used and to continuously improve the content it provides. Virtusa may disclose this aggregated information to third parties without identifying individual Site users.  
-   
-**Revisions to Policy**  
-Virtusa reserves the right, at its discretion, to change, modify, add, or remove portions of this Privacy Policy at any time. If Virtusa changes this Privacy Policy, it will post such changes on the Site so that you may become aware of what information Virtusa collects, how Virtusa uses such information and under what circumstances Virtusa discloses such information.  
-   
-Contacting the Site  
-If you have any questions about Virtusa's Privacy Policy, you can contact [privacy@virtusa.com](mailto:privacy@virtusa.com)  
-   
-  
-Productization Strategy & Architecture
+We use your IP address to help diagnose problems with our server and/or to administer our Web site. This gives us an idea of which parts of our site users are visiting. We do not link IP addresses to anything personally identifiable. This means that a user’s session will be tracked, but the user will be anonymous. 
 
-Product & Product-class Solutions Development 
+When requesting more information, our site's registration form requires you to give us contact information like your name and email address. We use this contact information from the registration form to send you information about our company. This site contains links to other sites. Virtusa Corporation is not responsible for the privacy practices or the content of such Web sites. 
 
-Portfolio Rationalization 
+Virtusa Corporation is the sole owner of the information collected on www.virtusa.com. Virtusa collects personally identifiable information from our users at several different points on our Web site. 
 
-Software Quality Engineering
+## Security 
 
-Maintenance, Migration & Porting 
+Virtusa uses reasonable efforts to treat all consumer information, not just the sensitive and private information mentioned above, in a confidential manner. Only employees who need the information as part of their day to day responsibilities are granted access to personally identifiable information. This site has security measures in place designed to protect the loss, misuse, and/or alteration of information under our control. The data resides behind a firewall, with access restricted to authorized Infosys personnel. 
+
+## Notification of Changes 
+
+This Privacy Policy is effective as of August 27, 2009. Please check our Privacy Policy periodically as Virtusa reserves the right to change this policy at any time. Changes to Virtusa’s Privacy Policy will be posted to this Site. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage. If, however, we are going to use users' personally identifiable information in a manner different from that stated at the time of collection we will notify users by e-mail or by posting a prominent notice on our Site 30 days prior to implementing the change. 
+
+## Miscellaneous
+
+Though we make every reasonable commercial effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+
+This policy and the statements outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party. 
+
+## Trademarks 
+
+"Virtusa" is a registered trademark of Virtusa and a registered trademark in the EU and in India. 
+
+"Productization" is a service mark of Virtusa and a registered service mark in the United States.
+
+"vRule" is a service mark of the company. 
+
+## Contacting the Web Site 
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact Virtusa Corporation at the Contact Us page at www.virtusa.com 
