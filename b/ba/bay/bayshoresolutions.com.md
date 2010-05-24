@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102194436id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayshoresolutions.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524155543id_/http%3A//www.bayshoresolutions.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -59,23 +59,22 @@ Feel free to contact us at any of our office locations , via e-mail at: Marketin
 
 [](http://www.bayshoresolutions.com/EmailSignUp.aspx)
 
-**Toll Free:** **[866.352.4791](livecall:866.352.4791)**
-
 **Tampa - Corporate Headquarters  
-600 N. Westshore Blvd.  
+[600 N. Westshore Blvd.](http://maps.google.com/maps/place?cid=219256312973753521&q=bayshore%2Bsolutions%2Btampa)  
 Suite 700  
 Tampa, Florida 33609  
-Phone: [813.902.0141](livecall:813.902.0141)  
-Fax: [813.839.9022](livecall:813.839.9022) **
+**
+
+**Toll Free:** [866.352.4791](livecall:866.352.4791)
+
+**Phone:** [813.902.0141](livecall:813.902.0141)  
+**Fax:** [813.839.9022](livecall:813.839.9022)
+
+[Click here for Map ](http://maps.google.com/maps/place?cid=219256312973753521&q=bayshore%2Bsolutions%2Btampa)
 
 **Ft. Lauderdale  
 20801 Biscayne Blvd.  4th Floor  
 Aventura, FL 33180  
-Phone: [305.937.4536](livecall:305.937.4536)  
+Toll Free: [866.352.4791](livecall:866.352.4791)  
+Phone: [954.660.8998](livecall:954.660.8998)  
 Fax: [813.839.9022](livecall:813.839.9022) **
-
-**Dallas     
-100 Crescent Court  
-Suite 700  
-Dallas, TX  75201  
-Phone: [866.352.4791](livecall:866.352.4791)**
