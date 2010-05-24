@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2009-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090701135247id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiaproperty.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525010044id_/http%3A//www.indiaproperty.com/india-properties/property-privacypolicy.html) for the most accurate reproduction.*
 
 # Properties & Real Estate in India - India Property Portal
 
@@ -29,5 +29,3 @@ If the Builder, Agent/Broker or any individual has provided their contact inform
 We may change this Privacy Policy from time to time based on your comments or as a result of a change of policy in our company.  
   
 If you have any questions regarding our Privacy Statement, please write in to [privacy@IndiaProperty.com](mailto:privacy@IndiaProperty.com). 
-
-Copyright © 2009 Consim Info Pvt Ltd. All rights reserved.
