@@ -1,242 +1,7 @@
-<!--The following is the downloaded HTML source of the tvsa.co.za privacy policy that was archived on 2009-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091115192013id_/http%3A//www.tvsa.co.za/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tvsa.co.za privacy policy that was archived on 2010-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524204227id_/http%3A//www.tvsa.co.za/privacy.asp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="javascript">
-<!--
-
-/*Combo Box Image Selector:
-*/
-
-function showimage()
-{
-if (!document.images)
-return
-document.images.pictures.src=
-document.blurbimage.articleblurbimageURL.options[document.blurbimage.articleblurbimageURL.selectedIndex].value
-}
-//-->
-</script>
-
-<!--Form Field Limiter JScript-->
-<script type="text/javascript">
-
-/*
-Form field Limiter script
-*/
-
-var ns6=document.getElementById&&!document.all
-
-function restrictinput(maxlength,e,placeholder){
-if (window.event&&event.srcElement.value.length>=maxlength)
-return false
-else if (e.target&&e.target==eval(placeholder)&&e.target.value.length>=maxlength){
-var pressedkey=/[a-zA-Z0-9\.\,\/]/ //detect alphanumeric keys
-if (pressedkey.test(String.fromCharCode(e.which)))
-e.stopPropagation()
-}
-}
-
-function countlimit(maxlength,e,placeholder){
-var theform=eval(placeholder)
-var lengthleft=maxlength-theform.value.length
-var placeholderobj=document.all? document.all[placeholder] : document.getElementById(placeholder)
-if (window.event||e.target&&e.target==eval(placeholder)){
-if (lengthleft<0)
-theform.value=theform.value.substring(0,maxlength)
-placeholderobj.innerHTML=lengthleft
-}
-}
-
-
-function displaylimit(thename, theid, thelimit){
-var theform=theid!=""? document.getElementById(theid) : thename
-var limit_text='<b><span id="'+theform.toString()+'">'+thelimit+'</span></b> characters remaining on your input limit'
-if (document.all||ns6)
-document.write(limit_text)
-if (document.all){
-eval(theform).onkeypress=function(){ return restrictinput(thelimit,event,theform)}
-eval(theform).onkeyup=function(){ countlimit(thelimit,event,theform)}
-}
-else if (ns6){
-document.body.addEventListener('keypress', function(event) { restrictinput(thelimit,event,theform) }, true); 
-document.body.addEventListener('keyup', function(event) { countlimit(thelimit,event,theform) }, true); 
-}
-}
-
-</script>
-
-
-
-
-<!--SwitchContent JScript-->
-<style type="text/css">
-
-.showstate{ /*Definition for state toggling image */
-cursor:hand;
-cursor:pointer;
-float: right;
-margin-top: 2px;
-margin-right: 3px;
-}
-
-.headers{
-width: 400px;
-font-size: 120%;
-font-weight: bold;
-border: 1px solid black;
-background-color: lightyellow;
-}
-
-.switchcontent{
-width: 400px;
-border: 1px solid black;
-border-top-width: 0;
-}
-
-</style>
-
-<script type="text/javascript">
-
-/***********************************************
-*Hide Help Content
-***********************************************/
-
-var enablepersist="on" //Enable saving state of content structure using session cookies? (on/off)
-var memoryduration="7" //persistence in # of days
-
-var contractsymbol='minus.gif' //Path to image to represent contract state.
-var expandsymbol='plus.gif' //Path to image to represent expand state.
-
-/////No need to edit beyond here //////////////////////////
-
-
-function getElementbyClass(rootobj, classname){
-var temparray=new Array()
-var inc=0
-var rootlength=rootobj.length
-for (i=0; i<rootlength; i++){
-if (rootobj[i].className==classname)
-temparray[inc++]=rootobj[i]
-}
-return temparray
-}
-
-function sweeptoggle(ec){
-var inc=0
-while (ccollect[inc]){
-ccollect[inc].style.display=(ec=="contract")? "none" : ""
-inc++
-}
-revivestatus()
-}
-
-
-function expandcontent(curobj, cid){
-if (ccollect.length>0){
-document.getElementById(cid).style.display=(document.getElementById(cid).style.display!="none")? "none" : ""
-curobj.src=(document.getElementById(cid).style.display=="none")? expandsymbol : contractsymbol
-}
-}
-
-function revivecontent(){
-selectedItem=getselectedItem()
-selectedComponents=selectedItem.split("|")
-for (i=0; i<selectedComponents.length-1; i++)
-document.getElementById(selectedComponents[i]).style.display="none"
-}
-
-function revivestatus(){
-var inc=0
-while (statecollect[inc]){
-if (ccollect[inc].style.display=="none")
-statecollect[inc].src=expandsymbol
-else
-statecollect[inc].src=contractsymbol
-inc++
-}
-}
-
-function get_cookie(Name) { 
-var search = Name + "="
-var returnvalue = "";
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) { 
-offset += search.length
-end = document.cookie.indexOf(";", offset);
-if (end == -1) end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-function getselectedItem(){
-if (get_cookie(window.location.pathname) != ""){
-selectedItem=get_cookie(window.location.pathname)
-return selectedItem
-}
-else
-return ""
-}
-
-function saveswitchstate(){
-var inc=0, selectedItem=""
-while (ccollect[inc]){
-if (ccollect[inc].style.display=="none")
-selectedItem+=ccollect[inc].id+"|"
-inc++
-}
-if (get_cookie(window.location.pathname)!=selectedItem){ //only update cookie if current states differ from cookie's
-var expireDate = new Date()
-expireDate.setDate(expireDate.getDate()+parseInt(memoryduration))
-document.cookie = window.location.pathname+"="+selectedItem+";path=/;expires=" + expireDate.toGMTString()
-}
-}
-
-function do_onload(){
-uniqueidn=window.location.pathname+"firsttimeload"
-var alltags=document.all? document.all : document.getElementsByTagName("*")
-ccollect=getElementbyClass(alltags, "switchcontent")
-statecollect=getElementbyClass(alltags, "showstate")
-if (enablepersist=="on" && get_cookie(window.location.pathname)!="" && ccollect.length>0)
-revivecontent()
-if (ccollect.length>0 && statecollect.length>0)
-revivestatus()
-}
-
-if (window.addEventListener)
-window.addEventListener("load", do_onload, false)
-else if (window.attachEvent)
-window.attachEvent("onload", do_onload)
-else if (document.getElementById)
-window.onload=do_onload
-
-if (enablepersist=="on" && document.getElementById)
-window.onunload=saveswitchstate
-
-</script>
-
-
-
-
-
-
-
-<!--Date Input JScript-->
-<script type="text/javascript" src="includes/calendarDateInput.js"></script><style>
-td.calendarDateInput {letter-spacing:normal;line-height:normal;font-family:Tahoma,Sans-Serif;font-size:11px;}
-select.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
-input.calendarDateInput {letter-spacing:.06em;font-family:Verdana,Sans-Serif;font-size:11px;}
-</style>
-
-<!--Form Validator JScript-->
- <script language="JavaScript" src="includes/gen_validatorv2.js" type="text/javascript"></script>
-
-<!--Date/TimePicker-->
-<script language="javascript" type="text/javascript" src="datetimepicker.js"></script>
-<!--Popup Window  JScript-->
-<script language="Javascript">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head><script language="Javascript">
 <!--
 function spawn_window(content,spawn,sizing)
 {window.open(content,spawn,sizing);}
@@ -258,25 +23,6 @@ function NewWindow(mypage,myname,w,h,scroll){
   if(parseInt(navigator.appVersion) >= 4){win.window.focus();}
 }
 </script>
- <script language="JavaScript">
-function ShowProgress()
-{
-  strAppVersion = navigator.appVersion;
-  if (document.MyForm.FILE1.value != "" || document.MyForm.FILE2.value != "" || document.MyForm.FILE3.value != "")
-  {
-    if (strAppVersion.indexOf('MSIE') != -1 && strAppVersion.substr(strAppVersion.indexOf('MSIE')+5,1) > 4)
-    {
-      winstyle = "dialogWidth=385px; dialogHeight:140px; center:yes";
-      window.showModelessDialog('&b=IE',null,winstyle);
-    }
-    else
-    {
-      window.open('&b=NN','','width=370,height=115', true);
-    }
-  }
-  return true;
-}
-</script>
 
 
 
@@ -286,102 +32,36 @@ function ShowProgress()
 <meta name="description" content="">
 <meta name="keywords" content="">
 
-<link rel="stylesheet" type="text/css" href="http://www.tvsa.co.za/css/default.css">
-<link rel="stylesheet" type="text/css" href="http://www.tvsa.co.za/tabcontent/tabcontent.css">
+<link rel="stylesheet" type="text/css" href="http://www.tvsa.co.za/css/tvsa.css">
+<link rel="stylesheet" type="text/css" href="http://www.tvsa.co.za/css/menu.css">
 <link rel="shortcut icon" href="favicon.ico">
 <title>Privacy Policy</title>
 
-<script language="JavaScript">
-<!--
-function viewScheduleDay(day, month, year)
-{
-	document.frm.dstart.value = day;
-	document.frm.dend.value = day;
-	document.frm.mstart.value = month;
-	document.frm.mend.value = month;
-	document.frm.ystart.value = year;
-	document.frm.yend.value = year;
-	document.frm.submit();
-}
-function viewSchedulePeriod(sday, smonth, syear, eday, emonth, eyear)
-{
-	document.frm.dstart.value = sday;
-	document.frm.dend.value = eday;
-	document.frm.mstart.value = smonth;
-	document.frm.mend.value = emonth;
-	document.frm.ystart.value = syear;
-	document.frm.yend.value = eyear;
-	document.frm.submit();
-}
-//-->
-</script>
-
-<script type="text/javascript" src="tabcontent/tabcontent.js"></script>
-
-<script type="text/javascript" src="virtualpaginate.js"></script>
-<script src="SpryAssets/SpryTabbedPanels.js" type="text/javascript"></script>
-<script src="SpryAssets/SpryCollapsiblePanel.js" type="text/javascript"></script>
-<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
-
-<script language="JavaScript" type="text/javascript">
-
-	<!--
-	
-	function SetAllCheckBoxes(FormName, FieldName, CheckValue)
-{
-	if(!document.forms[FormName])
-		return;
-	var objCheckBoxes = document.forms[FormName].elements[FieldName];
-	if(!objCheckBoxes)
-		return;
-	var countCheckBoxes = objCheckBoxes.length;
-	if(!countCheckBoxes)
-		objCheckBoxes.checked = CheckValue;
-	else
-		// set the check value for all check boxes
-		for(var i = 0; i < countCheckBoxes; i++)
-			objCheckBoxes[i].checked = CheckValue;
-}
-
-	// -->
-	</script>
-<script language="Javascript" src="http://www.tvsa.co.za/editor/scripts/innovaeditor.js"></script>
-
-<script type="text/javascript" language="JavaScript1.2" src="http://www.tvsa.co.za/menu/stmenu.js"></script>
-
-<script type="text/javascript" language="JavaScript1.2" src="http://www.tvsa.co.za/menu/mods/stmenu.js"></script>
-
-<script type="text/javascript" language="JavaScript1.2" src="http://www.tvsa.co.za/menu/blogs/stmenu.js"></script>
+<script type="text/javascript" src="js/sitescript.js"></script>
 
 </head>
 
 <body topmargin="0">
 
 <table height="100%" cellspacing="0" cellpadding="0" class="pageborder" align="center">
-
 <tbody><tr>
-
 	<!--<td width="120" align="center" valign="top">
 	
 <img src="images/adverts/position_02.jpg" alt="" border="0">
 	
 	</td>-->
-
-	<td width="800" valign="top">
-	
+	<td width="800" valign="top">	
 <table width="800" height="100%" border="0" cellspacing="0" cellpadding="0" align="center">
 
 <!--------------------------Start banner------------------------->
 
 <tbody><tr>
-
-	<td width="100%" colspan="2" valign="top" bgcolor="#000000">
-	
+	<td width="100%" colspan="2" valign="top" bgcolor="#000000">	
 <table width="100%" cellspacing="0" cellpadding="0" bgcolor="#000000">
 <tbody><tr>
 	<td align="left"><table width="100%" cellspacing="0" cellpadding="0" align="left">
 <tbody><tr>
-	<td><a href="http://www.tvsa.co.za/"><img src="http://www.tvsa.co.za/images/banners/tvsa_main.jpg" title="TVSA Home" border="0"></a></td>
+	<td><a href="http://www.tvsa.co.za/"><img src="http://www.tvsa.co.za/images/banners/tvsa_logo.jpg" width="300" height="100" title="TVSA Home" border="0"></a></td>
 	<td><table align="left" cellpadding="0">
 
 <tbody><tr><td colspan="4" align="center">
@@ -410,12 +90,27 @@ function viewSchedulePeriod(sday, smonth, syear, eday, emonth, eyear)
 </td>
 </tr>
 
-<tr>
+<tr valign="middle">
 
-	<td><img src="http://www.tvsa.co.za/images/icons/makehome.png" border="0" title=""></td>
-	<td><a href="#" style="color: White; font-size: 10pt; font-weight: bold;" onclick="this.style.behavior='url(#default#homepage)';this.setHomePage('http://www.tvsa.co.za');">Make TVSA your home on the web</a></td>
-	<td><img src="http://www.tvsa.co.za/images/icons/facebook.png" border="0" title=""></td>
-	<td><a style="color: White; font-size: 10pt; font-weight: bold;" href="http://www.new.facebook.com/group.php?gid=3290770186" target="_blank">Join us on Facebook</a></td>
+	<td align="center">
+	
+	<script type="text/javascript">
+function bookmarksite(title,url){
+if (window.sidebar) // firefox
+	window.sidebar.addPanel(title, url, "");
+else if(window.opera && window.print){ // opera
+	var elem = document.createElement('a');
+	elem.setAttribute('href',url);
+	elem.setAttribute('title',title);
+	elem.setAttribute('rel','sidebar');
+	elem.click();
+} 
+else if(document.all)// ie
+	window.external.AddFavorite(url, title);
+}
+</script>
+	
+	<a href="javascript:bookmarksite('TVSA', 'http://www.tvsa.co.za')"><img src="http://www.tvsa.co.za/images/icons/fave-48.png" border="0" width="48" height="48" title="Bookmark TVSA"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.new.facebook.com/group.php?gid=3290770186" target="_blank"><img src="http://www.tvsa.co.za/images/icons/fb-48.png" width="48" height="48" border="0" title="Join us on Facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/officialtvsa" target="_blank"><img src="http://www.tvsa.co.za/images/icons/twitter-48.png" width="48" height="48" border="0" title="Follow us on Twitter"></a></td>
 
 </tr>
 </tbody></table></td>
@@ -424,8 +119,6 @@ function viewSchedulePeriod(sday, smonth, syear, eday, emonth, eyear)
 
 
 </td>
-	<!--LOGIN BOX-->
-	
 <td width="200" align="right" valign="middle" bgcolor="#000000">
 
 
@@ -437,163 +130,150 @@ function viewSchedulePeriod(sday, smonth, syear, eday, emonth, eyear)
 	<td><input type="checkbox" name="Remember" value="1" checked=""></td>
 	<td>Save</td>
 	</tr>
-
 	<tr>
 	<td><strong>Password</strong></td>
 	<td><input type="password" name="password" size="10"><input type="hidden" name="pageaction" value="login"></td>
 	<td colspan="2" align="center"><input type="submit" value="Login" class="button"></td>
 	</tr>
 	
-
 <tr>
-
 	<td colspan="4" align="center">
-
 <div align="center" style="height: 5px; background-color: #DDDDDD;"></div>
-
-Not a TVSA member?<br><a href="signup.asp" class="login">Register</a> | <a href="http://www.tvsa.co.za/lp.asp" class="login">Lost Password</a></td>
-	
+Not a TVSA member?<br><a href="signup.asp" class="login">Register</a> | <a href="http://www.tvsa.co.za/lp.asp" class="login">Lost Password</a></td>	
 </tr>
-
 </tbody></table>
-
 	</td>
-
-
 
 </tr>
 </tbody></table>
-<!--LOGIN BOX END-->
-	</td>
-	
+	</td>	
 </tr>
-
-<!--------------------------End banner------------------------->
-
-
-
-<!--------------------------Start menu------------------------->
-
 <tr valign="top">
+	<td height="30" colspan="2" valign="middle" bgcolor="#7a8c9e"><ul id="nav">
 
-	<td height="30" colspan="2" valign="middle" bgcolor="#7a8c9e"><script type="text/javascript" language="JavaScript1.2">
-<!--
-stm_bm(["menu0244",730,"","blank.gif",0,"","",0,0,250,0,20,1,1,0,"","",0,0,1,1,"default","hand",""],this);
-stm_bp("p0",[0,4,0,0,3,3,0,13,100,"",-2,"",-2,90,0,0,"#000000","#7a8c9e","",0,0,0,"#CCCCCC"]);
-stm_ai("p0i0",[0,"Home","","",-1,-1,0,"","_self","","","","",0,0,0,"yellow6-d.gif","yellow6-d.gif",13,12,0,1,1,"#000000",0,"#CCCCCC",0,"","",0,0,0,0,"#009999","#009999","#FFFFFF","#000000","10pt Arial","10pt Arial",0,0],0,20);
-stm_bpx("p1","p0",[1,4,0,0,3,3,0,0]);
-stm_aix("p1i0","p0i0",[0,"Site Home","","",-1,-1,0,"http://www.tvsa.co.za/default.asp","_self","","","","",0,0,0,"","",0,0,0,0]);
-stm_aix("p1i1","p1i0",[0,"Actors Home","","",-1,-1,0,"http://www.tvsa.co.za/listactors.asp?pageaction=home"]);
-stm_aix("p1i2","p1i0",[0,"Blogs Home","","",-1,-1,0,"http://www.tvsa.co.za/blogshome.asp"]);
-stm_aix("p1i3","p1i0",[0,"Forums Home","","",-1,-1,0,"http://www.tvsa.co.za/forum/index.php"]);
-stm_aix("p1i4","p1i0",[0,"Shows Home","","",-1,-1,0,"http://www.tvsa.co.za/showhome.asp"]);
-stm_ep();
-stm_aix("p0i1","p0i0",[0,"Actors"],0,20);
-stm_bpx("p2","p1",[]);
-stm_aix("p2i0","p1i1",[]);
-stm_aix("p2i1","p1i0",[0,"Celeb Endorsements","","",-1,-1,0,"http://www.tvsa.co.za/endorsements/home.asp"]);
-stm_aix("p2i2","p1i0",[0,"Celeb Q&As","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=celebqa"]);
-stm_aix("p2i3","p1i0",[0,"Interviews","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=interviews"]);
-stm_ep();
-stm_aix("p0i2","p0i0",[0,"Blogs"],0,20);
-stm_bpx("p3","p1",[]);
-stm_aix("p3i0","p1i2",[]);
-stm_aix("p3i1","p1i0",[0,"All Blogs","","",-1,-1,0,"http://www.tvsa.co.za/allblogs.asp"]);
-stm_aix("p3i2","p1i0",[0,"Latest Blog Replies","","",-1,-1,0,"http://www.tvsa.co.za/latestreplies.asp"]);
-stm_aix("p3i3","p1i0",[0,"Create Blog","","",-1,-1,0,"http://www.tvsa.co.za/blogadd.asp"]);
-stm_aix("p3i4","p1i0",[0,"Blogs FAQ","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=faqs"]);
-stm_ep();
-stm_aix("p0i3","p0i0",[0,"Channels"],0,20);
-stm_bpx("p4","p0",[1,4]);
-stm_aix("p4i0","p1i0",[0,"SABC1","","",-1,-1,0,"http://www.tvsa.co.za/sabc1.asp"]);
-stm_aix("p4i1","p1i0",[0,"SABC2","","",-1,-1,0,"http://www.tvsa.co.za/sabc2.asp"]);
-stm_aix("p4i2","p1i0",[0,"SABC3","","",-1,-1,0,"http://www.tvsa.co.za/sabc3.asp"]);
-stm_aix("p4i3","p1i0",[0,"e.tv","","",-1,-1,0,"http://www.tvsa.co.za/etv.asp"]);
-stm_aix("p4i4","p1i0",[0,"M-Net","","",-1,-1,0,"http://www.tvsa.co.za/mnet.asp"]);
-stm_aix("p4i5","p1i0",[0,"DStv","","",-1,-1,0,"","_self","","","","",0,0,0,"yellow6-r.gif","yellow6-r.gif",13,12]);
-stm_bpx("p5","p1",[1,2]);
-stm_aix("p5i0","p1i0",[0,"Animal Planet","","",-1,-1,0,"http://www.tvsa.co.za/animalplanet.asp"]);
-stm_aix("p5i1","p1i0",[0,"Animax","","",-1,-1,0,"http://www.tvsa.co.za/animax.asp"]);
-stm_aix("p5i2","p1i0",[0,"BBC Entertainment","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=bbcentertainment"]);
-stm_aix("p5i3","p1i0",[0,"BBC Knowledge","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=bbcknowledge"]);
-stm_aix("p5i4","p1i0",[0,"BBC Lifestyle","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=bbclifestyle"]);
-stm_aix("p5i5","p1i0",[0,"BBC World","","",-1,-1,0,"http://www.tvsa.co.za/bbcworld.asp"]);
-stm_aix("p5i6","p1i0",[0,"Cartoon Network","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=cartoonnetwork"]);
-stm_aix("p5i7","p1i0",[0,"Channel O","","",-1,-1,0,"http://www.tvsa.co.za/channelo.asp"]);
-stm_aix("p5i8","p1i0",[0,"Crime & Investigation Network","","",-1,-1,0,"http://www.tvsa.co.za/candi.asp"]);
-stm_aix("p5i9","p1i0",[0,"Discovery Channel","","",-1,-1,0,"http://www.tvsa.co.za/discovery.asp"]);
-stm_aix("p5i10","p1i0",[0,"Disney","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=disneychannel"]);
-stm_aix("p5i11","p1i0",[0,"E! Entertainment","","",-1,-1,0,"http://www.tvsa.co.za/eentertainment.asp"]);
-stm_aix("p5i12","p1i0",[0,"Hallmark","","",-1,-1,0,"http://www.tvsa.co.za/hallmark.asp"]);
-stm_aix("p5i13","p1i0",[0,"The History Channel","","",-1,-1,0,"http://www.tvsa.co.za/history.asp"]);
-stm_aix("p5i14","p1i0",[0,"The Home Channel","","",-1,-1,0,"http://www.tvsa.co.za/homechannel.asp"]);
-stm_aix("p5i15","p1i0",[0,"kykNET","","",-1,-1,0,"http://www.tvsa.co.za/kyknet.asp"]);
-stm_aix("p5i16","p1i0",[0,"M-Net Action","","",-1,-1,0,"http://www.tvsa.co.za/mnetaction.asp"]);
-stm_aix("p5i17","p1i0",[0,"M-Net Series","","",-1,-1,0,"http://www.tvsa.co.za/mnetseries.asp"]);
-stm_aix("p5i18","p1i0",[0,"M-Net Stars","","",-1,-1,0,"http://www.tvsa.co.za/mnetstars.asp"]);
-stm_aix("p5i19","p1i0",[0,"MTV","","",-1,-1,0,"http://www.tvsa.co.za/mtv.asp"]);
-stm_aix("p5i20","p1i0",[0,"MTVbase","","",-1,-1,0,"http://www.tvsa.co.za/mtvbase.asp"]);
-stm_aix("p5i21","p1i0",[0,"Nat Geo Wild","","",-1,-1,0,"http://www.tvsa.co.za/natgeowild.asp"]);
-stm_aix("p5i22","p1i0",[0,"National Geographic","","",-1,-1,0,"http://www.tvsa.co.za/nationalgeographic.asp"]);
-stm_aix("p5i23","p1i0",[0,"SET","","",-1,-1,0,"http://www.tvsa.co.za/set.asp"]);
-stm_aix("p5i24","p1i0",[0,"Style Network","","",-1,-1,0,"http://www.tvsa.co.za/style.asp"]);
-stm_aix("p5i25","p1i0",[0,"SuperSport","","",-1,-1,0,"http://www.tvsa.co.za/supersport.asp"]);
-stm_aix("p5i26","p1i0",[0,"TCM","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=tcm"]);
-stm_aix("p5i27","p1i0",[0,"Trace TV","","",-1,-1,0,"http://www.tvsa.co.za/tracetv.asp"]);
-stm_aix("p5i28","p1i0",[0,"Travel Channel","","",-1,-1,0,"http://www.tvsa.co.za/travelchannel.asp"]);
-stm_aix("p5i29","p1i0",[0,"Vuzu","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=vuzu"]);
-stm_aix("p5i30","p1i0",[0,"Zone Reality","","",-1,-1,0,"http://www.tvsa.co.za/zonereality.asp"]);
-stm_ep();
-stm_ep();
-stm_aix("p0i4","p0i0",[0,"Contact Us","","",-1,-1,0,"http://www.tvsa.co.za/contact.asp","_self","","","","",0,0,0,"","",0,0],0,20);
-stm_aix("p0i5","p0i0",[0,"News"],0,20);
-stm_bpx("p6","p1",[]);
-stm_aix("p6i0","p1i0",[0,"All News","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=news"]);
-stm_ep();
-stm_aix("p0i6","p0i0",[0,"Forums"],0,20);
-stm_bpx("p7","p1",[]);
-stm_aix("p7i0","p1i3",[]);
-stm_aix("p7i1","p1i0",[0,"Today\'s Posts","","",-1,-1,0,"http://www.tvsa.co.za/forum/search.php?do=getdaily"]);
-stm_aix("p7i2","p1i0",[0,"New Posts","","",-1,-1,0,"http://www.tvsa.co.za/forum/search.php?do=getnew"]);
-stm_aix("p7i3","p1i0",[0,"Register","","",-1,-1,0,"http://www.tvsa.co.za/forum/register.php"]);
-stm_ep();
-stm_aix("p0i7","p0i0",[0,"Schedules"],0,20);
-stm_bpx("p8","p1",[]);
-stm_aix("p8i0","p1i0",[0,"Today\'s e.tv Schedules","","",-1,-1,0,"javascript:window.open(\"http://www.tvsa.co.za/etv_schedules.asp\", \"_blank\", \"height=600, width=818, left=100, top=50, status=yes, toolbar=no, scrollbars=yes, menubar=no\");"]);
-stm_ep();
-stm_aix("p0i8","p0i0",[0,"Shows"],0,20);
-stm_bpx("p9","p1",[]);
-stm_aix("p9i0","p1i4",[]);
-stm_aix("p9i1","p1i0",[0,"Search Shows","","",-1,-1,0,"http://www.tvsa.co.za/search.asp?pageaction=selectsearch&searchtype=mastershow"]);
-stm_aix("p9i2","p1i0",[0,"Recaps","","",-1,-1,0,"http://www.tvsa.co.za/recaps.asp"]);
-stm_aix("p9i3","p1i0",[0,"Recent Premieres","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=premieres"]);
-stm_aix("p9i4","p1i0",[0,"TAMS Ratings","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=tv_ratings"]);
-stm_aix("p9i5","p1i0",[0,"Upcoming Shows","","",-1,-1,0,"http://www.tvsa.co.za/forum/calendar.php"]);
-stm_aix("p9i6","p1i0",[0,"TVSA Show Rankings","","",-1,-1,0,"http://www.tvsa.co.za/rankings.asp"]);
-stm_ep();
-stm_aix("p0i9","p0i0",[0,"Teasers"],0,20);
-stm_bpx("p10","p1",[]);
-stm_aix("p10i0","p1i0",[0,"Soapies","","",-1,-1,0,"http://www.tvsa.co.za/soapieteasers.asp"]);
-stm_aix("p10i1","p1i0",[0,"Talk Shows","","",-1,-1,0,"http://www.tvsa.co.za/talkshowteasers.asp"]);
-stm_aix("p10i2","p1i0",[0,"Other","","",-1,-1,0,"http://www.tvsa.co.za/otherteasers.asp"]);
-stm_ep();
-stm_aix("p0i10","p0i0",[0,"TV Industry"],0,20);
-stm_bpx("p11","p1",[]);
-stm_aix("p11i0","p1i0",[0,"Casting Calls","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=castingcalls"]);
-stm_aix("p11i1","p1i0",[0,"TV Jobs","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=tvjobs"]);
-stm_aix("p11i2","p1i0",[0,"TV Production","","",-1,-1,0,"http://www.tvsa.co.za/default.asp?blogname=tvproduction"]);
-stm_ep();
-stm_ep();
-stm_cf([0,0,0,"Main_frame","",1]);
-stm_em();
-//-->
-</script>
-</td>
-	
+	<li><a href="#">Home</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/default.asp">Site Home</a></li>
+			<li><a href="http://www.tvsa.co.za/listactors.asp?pageaction=home">Actors Home</a></li>
+			<li><a href="http://www.tvsa.co.za/blogshome.asp">Blogs Home</a></li>
+			<li><a href="http://www.tvsa.co.za/forum/index.php">Forums Home</a></li>
+			<li><a href="http://www.tvsa.co.za/showhome.asp">Shows Home</a></li>
+			<li><a href="http://www.tvsa.co.za/contact.asp">Contact Us</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">Actors</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/listactors.asp?pageaction=home">Actors Home</a></li>
+			<li><a href="http://www.tvsa.co.za/endorsements/home.asp">Celeb Endorsements</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=celebqa">Celeb Q&amp;As</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=interviews">Interviews</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">Blogs</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/blogshome.asp">Blogs Home</a></li>
+			<li><a href="http://www.tvsa.co.za/allblogs.asp">All Blogs</a></li>
+			<li><a href="http://www.tvsa.co.za/latestreplies.asp">Latest Blog Replies</a></li>
+			<li><a href="http://www.tvsa.co.za/blogadd.asp">Create Blog</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=faqs">Blogs FAQ</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">Channels</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/sabc1.asp">SABC1</a></li>
+			<li><a href="http://www.tvsa.co.za/sabc2.asp">SABC2</a></li>
+			<li><a href="http://www.tvsa.co.za/sabc3.asp">SABC3</a></li>
+			<li><a href="http://www.tvsa.co.za/etv.asp">e.tv</a></li>
+			<li><a href="http://www.tvsa.co.za/mnet.asp">M-Net</a></li>
+			<li><a href="#">DStv</a>
+				<ul>
+					<li><a href="http://www.tvsa.co.za/animalplanet.asp">Animal Planet</a></li>
+					<li><a href="http://www.tvsa.co.za/animax.asp">Animax</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=bbcentertainment">BBC Entertainment</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=bbcknowledge">BBC Knowledge</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=bbclifestyle">BBC Lifestyle</a></li>
+					<li><a href="http://www.tvsa.co.za/bbcworld.asp">BBC World</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=cartoonnetwork">Cartoon Network</a></li>
+					<li><a href="http://www.tvsa.co.za/channelo.asp">Channel O</a></li>
+					<li><a href="http://www.tvsa.co.za/candi.asp">Crime &amp; Investigation Network</a></li>
+					<li><a href="http://www.tvsa.co.za/discovery.asp">Discovery Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=disneychannel">Disney Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/eentertainment.asp">E! Entertainment</a></li>
+					<li><a href="http://www.tvsa.co.za/history.asp">The History Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/homechannel.asp">The Home Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/kyknet.asp">kykNET</a></li>
+					<li><a href="http://www.tvsa.co.za/mnetaction.asp">M-Net Action</a></li>
+					<li><a href="http://www.tvsa.co.za/mnetseries.asp">M-Net Series</a></li>
+					<li><a href="http://www.tvsa.co.za/mnetstars.asp">M-Net Stars</a></li>
+					<li><a href="http://www.tvsa.co.za/mtv.asp">MTV</a></li>
+					<li><a href="http://www.tvsa.co.za/mtvbase.asp">MTV Base</a></li>
+					<li><a href="http://www.tvsa.co.za/natgeowild.asp">Nat Geo Wild</a></li>
+					<li><a href="http://www.tvsa.co.za/nationalgeographic.asp">National Geographic Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/set.asp">Sony</a></li>
+					<li><a href="http://www.tvsa.co.za/style.asp">The Style Network</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=universalchannel">Universal Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=tcm">TCM</a></li>
+					<li><a href="http://www.tvsa.co.za/travelchannel.asp">The Travel Channel</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=vuzu">Vuzu</a></li>
+					<li><a href="http://www.tvsa.co.za/zonereality.asp">Zone Reality</a></li>
+
+				</ul>
+			</li>
+			<li><a href="#">TopTV</a>
+				<ul>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=foxentertainment">Fox Entertainment</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=foxfx">Fox FX</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=foxretro">Fox Retro</a></li>
+					<li><a href="http://www.tvsa.co.za/default.asp?blogname=topone">Top One</a></li>
+				</ul>
+			</li>
+
+		</ul>
+	</li>
+
+	<li><a href="http://www.tvsa.co.za/default.asp?blogname=news">News</a></li>
+
+	<li><a href="#">Forums</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/forum/index.php">Forums Home</a></li>
+			<li><a href="http://www.tvsa.co.za/forum/search.php?do=getdaily">Today's Posts</a></li>
+			<li><a href="http://www.tvsa.co.za/forum/search.php?do=getnew">New Posts</a></li>
+			<li><a href="http://www.tvsa.co.za/forum/register.php">Register</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">Shows</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/showhome.asp">Shows Home</a></li>
+			<li><a href="http://www.tvsa.co.za/search.asp?pageaction=selectsearch&amp;searchtype=mastershow">Search Shows</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=premieres">Recent Premieres</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=tv_ratings">TAMS Ratings</a></li>
+			<li><a href="http://www.tvsa.co.za/forum/calendar.php">Upcoming Shows</a></li>
+			<li><a href="http://www.tvsa.co.za/rankings.asp">TVSA Show Rankings</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">Teasers</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/soapieteasers.asp">Soapies</a></li>
+			<li><a href="http://www.tvsa.co.za/talkshowteasers.asp">Talk Shows</a></li>
+			<li><a href="http://www.tvsa.co.za/otherteasers.asp">Other</a></li>
+		</ul>
+	</li>
+
+	<li><a href="#">TV Biz</a>
+		<ul>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=castingcalls">Casting Calls</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=tvjobs">TV Jobs</a></li>
+			<li><a href="http://www.tvsa.co.za/default.asp?blogname=tvproduction">TV Production</a></li>
+		</ul>
+	</li>
+
+</ul></td>	
 </tr>
-
-<!--------------------------End menu------------------------->
-
 <tr>
 
 	<td height="5" colspan="2" bgcolor="#7A8C9E"></td>
@@ -612,19 +292,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 // ]]>
 </script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=6&amp;target=_blank&amp;a=4&amp;mgr=aspcode.net"></script><noscript>
 <a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=6&a=4&mgr=aspcode.net">
-<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=6&a=4&mgr=aspcode.net" border="0" />
-</a>
-</noscript>
-
-<script language="javascript" type="text/javascript">
-//<![CDATA[
-var now = new Date();
-var index=now.getTime();
-document.write('<s' + 'cript  language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&z=6&target=_blank&a=11&mgr=aspcode.net"></scr' + 'ipt>');
-// ]]>
-</script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=6&amp;target=_blank&amp;a=11&amp;mgr=aspcode.net"></script><noscript>
-<a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=6&a=11&mgr=aspcode.net">
-<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=6&a=11&mgr=aspcode.net" border="0" />
+<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=6&a=4&mgr=aspcode.net" alt="" width="800" height="100" border="0">
 </a>
 </noscript>
 
@@ -637,7 +305,7 @@ google_ad_height = 90;
 //-->
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script><br>
+</script>
 
 <script type="text/javascript"><!--
 google_ad_client = "pub-7562341865286967";
@@ -660,19 +328,12 @@ google_ad_height = 15;
 	<td height="5" colspan="2" bgcolor="#7A8C9E"></td>
 	
 </tr>
-
 <tr>
-
-	<td width="560" height="100%" valign="top" class="lhs">
-	
+	<td width="560" height="100%" valign="top" class="lhs">	
 	<table width="100%" border="0" cellspacing="0" cellpadding="3" align="center">
-
-<!--NAvigation bar-->
 <tbody><tr>
-	<td colspan="2" valign="middle">
-	
+	<td colspan="2" valign="middle">	
 <table width="100%" cellspacing="0" align="center">
-
 
 <tbody><tr>
 	<td width="100%" height="30" align="left" valign="middle" background="http://www.tvsa.co.za/images/navback.jpg" class="arial10black">
@@ -680,14 +341,9 @@ google_ad_height = 15;
 	</td>
 </tr>
 
-
-
-</tbody></table>
-	
-	</td>
-	
+</tbody></table>	
+	</td>	
 </tr>
-
 
 
 <tr>
@@ -733,9 +389,9 @@ TVSA may disclose your details to a third party only in instances where it is re
 	<td colspan="3" align="center" valign="bottom" style="padding-bottom: 2px;"><strong>TVSA MEMBERS</strong><hr width="80%" size="2px" noshade="" style="color: #C60909;"></td>
 </tr>
 <tr align="center" valign="top">
-	<td width="45%" align="right"><strong><font color="#F1B72B">Total:</font>&nbsp;31508</strong></td>
+	<td width="45%" align="right"><strong><font color="#F1B72B">Total:</font>&nbsp;36987</strong></td>
 	<td width="10%" align="center">&nbsp;<strong>|</strong>&nbsp;</td>
-	<td width="45%" align="left"><strong><font color="#20C513">Online:</font>&nbsp;352</strong></td>
+	<td width="45%" align="left"><strong><font color="#20C513">Online:</font>&nbsp;655</strong></td>
 </tr>
 </tbody></table>
 
@@ -764,6 +420,16 @@ google_ad_height = 200;
 //<![CDATA[
 var now = new Date();
 var index=now.getTime();
+document.write('<s' + 'cript  language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&z=15&target=_blank&a=15&mgr=aspcode.net"></scr' + 'ipt>');
+// ]]>
+</script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=15&amp;target=_blank&amp;a=15&amp;mgr=aspcode.net"></script><noscript>
+<a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=15&a=15&mgr=aspcode.net">
+<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=15&a=15&mgr=aspcode.net" border="0" />
+</a>
+</noscript></div><br><div align="center"><script language="javascript" type="text/javascript">
+//<![CDATA[
+var now = new Date();
+var index=now.getTime();
 document.write('<s' + 'cript  language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&z=2&target=_blank&a=5&mgr=aspcode.net"></scr' + 'ipt>');
 // ]]>
 </script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=2&amp;target=_blank&amp;a=5&amp;mgr=aspcode.net"></script><noscript>
@@ -779,7 +445,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tbody><tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=24975">Ndiki</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=muvhango&amp;articleid=12999">Muvhango Teasers - November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=18182">Squeeza</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=Zone14recapwithTDC&amp;articleid=14357">Television SA Party Count Down Is On</a></td>
 </tr>
 
 <tr>
@@ -791,7 +457,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=3134">WhiteSockGirl</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=bbafrica4&amp;articleid=13156">Day 69  70 14 and 15 November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=36505">kals</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=news&amp;articleid=14343">Kick It Up Wins Bafana Song Contest</a></td>
 </tr>
 
 <tr>
@@ -803,7 +469,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=3134">WhiteSockGirl</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=bbafrica4&amp;articleid=13156">Day 69  70 14 and 15 November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=9126">Best-Achiever </a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=Zone14recapwithTDC&amp;articleid=14357">Television SA Party Count Down Is On</a></td>
 </tr>
 
 <tr>
@@ -815,7 +481,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=9355">Teeza</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=bbafrica4&amp;articleid=13156">Day 69  70 14 and 15 November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=2276">Toodecent</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=Zone14recapwithTDC&amp;articleid=14357">Television SA Party Count Down Is On</a></td>
 </tr>
 
 <tr>
@@ -827,7 +493,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=15049">FK</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=bbafrica4&amp;articleid=13156">Day 69  70 14 and 15 November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=13317">filmho</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=rhythmcityteasers&amp;articleid=14141">Rhythm City Teasers - May 2010</a></td>
 </tr>
 
 <tr>
@@ -839,7 +505,7 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 <tr>
-<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=15049">FK</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=bbafrica4&amp;articleid=13156">Day 69  70 14 and 15 November 2009</a></td>
+<td class="fonteight"><a class="fonteight" href="http://www.tvsa.co.za/user_home.asp?uID=4591">Segololo</a> replied to article <a class="fonteight" href="http://www.tvsa.co.za/default.asp?blogname=Zone14recapwithTDC&amp;articleid=14357">Television SA Party Count Down Is On</a></td>
 </tr>
 
 <tr>
@@ -850,22 +516,22 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 
 
-</tbody></table><div align="center" style="margin-top: 10px;"><img src="http://www.tvsa.co.za/images/icons/links.gif" border="0" alt=""></div><br>
+</tbody></table><div align="center" style="margin-top: 10px;"><img src="http://www.tvsa.co.za/images/icons/links.gif" width="200" height="20" border="0" alt=""></div><br>
 
 <table width="80%" cellspacing="0" cellpadding="2" align="center">
 <tbody><tr align="left">
-	<td width="16"><img src="http://www.tvsa.co.za/images/icons/kruger2.png" border="0" alt=""></td>
+	<td width="16"><img src="http://www.tvsa.co.za/images/icons/kruger2.png" width="20" height="20" border="0" alt=""></td>
 	<td><a href="http://www.krugerpark.com/" target="_blank" title="Kruger National Park" class="rhstext">Kruger Park</a></td>
 </tr>
 <tr align="left">
-	<td width="16"><img src="http://www.tvsa.co.za/images/icons/tsp2.gif" border="0" alt=""></td>
+	<td width="16"><img src="http://www.tvsa.co.za/images/icons/tsp2.gif" width="20" height="20" border="0" alt=""></td>
 	<td><a href="http://www.skillsportal.co.za/" target="_blank" class="rhstext" title="Exploring the new world of work">The Skills Portal</a></td>
 </tr>
 <tr align="left">
-	<td width="16"><img src="http://www.tvsa.co.za/images/icons/xuma.gif" border="0" alt=""></td>
+	<td width="16"><img src="http://www.tvsa.co.za/images/icons/xuma.gif" width="20" height="20" border="0" alt=""></td>
 	<td><a href="http://www.xumamedia.com?ref=X001" target="_blank" class="rhstext" title="Outdoor advertising solutions">Xuma Media</a></td>
 </tr>
-</tbody></table><br><br>
+</tbody></table>
 <table width="90%" cellspacing="0" cellpadding="0" align="center">
 
 <tbody><tr>
@@ -876,17 +542,17 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 	
 	<div align="center"><a href="http://www.tvsa.co.za/forum/index.php" style="font-weight: bold;">Forums</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.tvsa.co.za/forum/register.php" style="font-weight: bold;">Register</a><br><a href="http://www.tvsa.co.za/forum/search.php?do=getdaily" style="font-weight: bold;">Today's Posts</a></div><br>
 
-     <a href="http://www.tvsa.co.za/forum/showthread.php?t=16781&amp;goto=newpost" class="fonteight">On Oprah: 16 - 21 November 2009</a><br>Forum: Talk Shows
-Posted By: TVSA Admin
-Post Time: 15th November 2009 at 19:28<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=16780&amp;goto=newpost" class="fonteight">The Late Show: 16 - 20 November 2009</a><br>Forum: Actors/Celebs
-Posted By: TVSA Admin
-Post Time: 15th November 2009 at 19:27<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=16763&amp;goto=newpost" class="fonteight">J.J. Abrams says no to Dark Tower</a><br>Forum: General Sci-Fi Chat
-Posted By: Shakes
-Post Time: 15th November 2009 at 18:08<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=16773&amp;goto=newpost" class="fonteight">WTF is This Crap Replacing TAR??</a><br>Forum: General Reality Chat
-Posted By: Shakes
-Post Time: 15th November 2009 at 17:58<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=16739&amp;goto=newpost" class="fonteight">True Blood S2E2: Keep This Party Going</a><br>Forum: True Blood
-Posted By: Gerhard
-Post Time: 15th November 2009 at 09:49<br><br>
+     <a href="http://www.tvsa.co.za/forum/showthread.php?t=17712&amp;goto=newpost" class="fonteight">Brittany Murphy's husband</a><br>Forum: Actors/Celebs
+Posted By: Cloud9
+Post Time: 24th May 2010 at 16:37<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=17715&amp;goto=newpost" class="fonteight">Back</a><br>Forum: New Members
+Posted By: NthabiVD-K
+Post Time: 24th May 2010 at 15:55<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=8264&amp;goto=newpost" class="fonteight">LOSAs: Lost Anonymous</a><br>Forum: Lost
+Posted By: Fingolfin
+Post Time: 24th May 2010 at 15:09<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=17713&amp;goto=newpost" class="fonteight">Rugby: South Africa vs Wales</a><br>Forum: Sport
+Posted By: OrangeII
+Post Time: 24th May 2010 at 13:52<br><br><a href="http://www.tvsa.co.za/forum/showthread.php?t=17610&amp;goto=newpost" class="fonteight">2010 Super 14</a><br>Forum: Sport
+Posted By: OrangeII
+Post Time: 24th May 2010 at 13:31<br><br>
 
     
     
@@ -894,7 +560,7 @@ Post Time: 15th November 2009 at 09:49<br><br>
 	
 </tr>
 
-</tbody></table><br><table width="216" cellspacing="0" cellpadding="0" align="center">
+</tbody></table><br><table width="220" cellspacing="0" cellpadding="0" align="center">
 <tbody><tr>
 	<td>
 	
@@ -902,138 +568,188 @@ Post Time: 15th November 2009 at 09:49<br><br>
 
 <tbody><tr>
 
-	<td height="100" colspan="3" valign="top" background="http://www.tvsa.co.za/images/banners/birthdays.jpg"></td>
+	<td colspan="3" align="center"><strong><font size="+1" color="#FFFFFF">CELEB BIRTHDAYS</font></strong><hr></td>
 	
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9835" class="rhstextwhite">Whitman Mayo</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3281" class="rhstextwhite">Gary Burghoff</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(79)</td>
+<td bgcolor="#160A0C" class="arial8white">(67)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9835&amp;actorname=Whitman Mayo&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3281&amp;actorname=Gary Burghoff&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=2288" class="rhstextwhite">Yaphet Kotto</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9108" class="rhstextwhite">Patti LaBelle</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(72)</td>
+<td bgcolor="#160A0C" class="arial8white">(66)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=2288&amp;actorname=Yaphet Kotto&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9108&amp;actorname=Patti LaBelle&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=1152" class="rhstextwhite">Sam Waterston</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3072" class="rhstextwhite">Priscilla Presley</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(69)</td>
+<td bgcolor="#160A0C" class="arial8white">(65)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=1152&amp;actorname=Sam Waterston&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3072&amp;actorname=Priscilla Presley&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=10156" class="rhstextwhite">Bob Gunton</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=6168" class="rhstextwhite">Jim Broadbent</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(64)</td>
+<td bgcolor="#160A0C" class="arial8white">(61)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=10156&amp;actorname=Bob Gunton&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=6168&amp;actorname=Jim Broadbent&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9328" class="rhstextwhite">Pam Dougherty</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3630" class="rhstextwhite">Alfred Molina</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(60)</td>
+<td bgcolor="#160A0C" class="arial8white">(57)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9328&amp;actorname=Pam Dougherty&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3630&amp;actorname=Alfred Molina&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=5643" class="rhstextwhite">Rachel True</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3574" class="rhstextwhite">Kristin Scott Thomas</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(50)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3574&amp;actorname=Kristin Scott Thomas&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=11323" class="rhstextwhite">Gene Anthony Ray</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(48)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=11323&amp;actorname=Gene Anthony Ray&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3625" class="rhstextwhite">John C. Reilly</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(45)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3625&amp;actorname=John C. Reilly&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=1449" class="rhstextwhite">Eric Close</a></td>
 
 <td bgcolor="#160A0C" class="arial8white">(43)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=5643&amp;actorname=Rachel True&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=1449&amp;actorname=Eric Close&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=6476" class="rhstextwhite">Jonny Lee Miller</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=4509" class="rhstextwhite">Christopher Flockton</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(37)</td>
+<td bgcolor="#160A0C" class="arial8white">(43)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=6476&amp;actorname=Jonny Lee Miller&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=4509&amp;actorname=Christopher Flockton&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=379" class="rhstextwhite">Stephanie Dill</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=4078" class="rhstextwhite">Carl Anthony Payne II</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(37)</td>
+<td bgcolor="#160A0C" class="arial8white">(41)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=379&amp;actorname=Stephanie Dill&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=4078&amp;actorname=Carl Anthony Payne II&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=56" class="rhstextwhite">Sydney Tamiia Poitier</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=2483" class="rhstextwhite">Garett Maggart</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(41)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=2483&amp;actorname=Garett Maggart&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=5776" class="rhstextwhite">Courtney Marit</a></td>
 
 <td bgcolor="#160A0C" class="arial8white">(36)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=56&amp;actorname=Sydney Tamiia Poitier&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=5776&amp;actorname=Courtney Marit&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=3279" class="rhstextwhite">Brandon DiCamillo</a></td>
-
-<td bgcolor="#160A0C" class="arial8white">(33)</td>
-
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=3279&amp;actorname=Brandon DiCamillo&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
-</tr>
-
-
-
-<tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=2404" class="rhstextwhite">Sean Murray</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=7982" class="rhstextwhite">Bryan Greenberg</a></td>
 
 <td bgcolor="#160A0C" class="arial8white">(32)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=2404&amp;actorname=Sean Murray&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=7982&amp;actorname=Bryan Greenberg&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=2921" class="rhstextwhite">Ace Young</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9144" class="rhstextwhite">Erika Martin</a></td>
 
-<td bgcolor="#160A0C" class="arial8white">(29)</td>
+<td bgcolor="#160A0C" class="arial8white">(32)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=2921&amp;actorname=Ace Young&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9144&amp;actorname=Erika Martin&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
 
 <tr>
-<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9445" class="rhstextwhite">Shailene Woodley</a></td>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=8210" class="rhstextwhite">Dave McRae</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(31)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=8210&amp;actorname=Dave McRae&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=9537" class="rhstextwhite">Travis T. Flory</a></td>
 
 <td bgcolor="#160A0C" class="arial8white">(18)</td>
 
-<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9445&amp;actorname=Shailene Woodley&amp;pageaction=rate" class="rhstextwhite" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><img src="http://www.tvsa.co.za/images/rate_2.gif" alt="Rate this actor" border="0" title="Rate this actor"></a></td>
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=9537&amp;actorname=Travis T. Flory&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
+</tr>
+
+
+
+<tr>
+<td bgcolor="#160A0C"><a href="http://www.tvsa.co.za/actorprofile.asp?actorID=4430" class="rhstextwhite">Sibusiso Mkhize</a></td>
+
+<td bgcolor="#160A0C" class="arial8white">(17)</td>
+
+<td><a href="http://www.tvsa.co.za/pop_rateactor.asp?actorID=4430&amp;actorname=Sibusiso Mkhize&amp;pageaction=rate" onclick="NewWindow(this.href,'postimage','300','405','yes');return false"><span class="rate">RATE</span></a></td>
 </tr>
 
 
@@ -1043,33 +759,26 @@ Post Time: 15th November 2009 at 09:49<br><br>
 	
 	</td>
 </tr>
-</tbody></table><br><table width="90%" cellspacing="0" cellpadding="3" align="center" bgcolor="#cd5b07">
+</tbody></table><br><table width="220" cellspacing="0" cellpadding="3" align="center" bgcolor="#cd5b07">
 
 <tbody><tr>
 
-	<td height="80" align="center" background="http://www.tvsa.co.za/images/soapies.jpg"></td>
-	
-</tr>
+	<td align="left" bgcolor="#f2b600">
 
-<tr>
+<div align="center"><strong><font size="+1">SOAPIE DIGEST</font></strong></div><hr>
 
-	<td align="left" bgcolor="#f2b600" class="">
+<a href="http://www.tvsa.co.za/soapies.asp" class="rhstext"><strong>All Soapie Articles</strong></a><br><br>
 
-<div align="center"><strong><font size="+1">SOAPIE DIGEST</font></strong></div><br>
+<div align="center"><strong><font size="+1">EPISODE PREVIEWS</font></strong></div><hr>
 
-<div align="center"><a href="http://www.tvsa.co.za/soapies.asp" class="rhstext"><strong>All Soapie Articles</strong></a></div><br>
-
-<div align="center"><strong><font size="+1">EPISODE PREVIEWS</font></strong></div><br>
-
-<div align="center"><a href="http://www.tvsa.co.za/soapieteasers.asp" class="rhstext"><strong>All Episode Previews</strong></a></div><br>
+<a href="http://www.tvsa.co.za/soapieteasers.asp" class="rhstext"><strong>All Episode Previews</strong></a><br>
 
 <a href="http://www.tvsa.co.za/default.asp?blogname=sewendelaan" class="rhstext">7de Laan</a><a><br>
 </a><a href="http://www.tvsa.co.za/default.asp?blogname=allmychildren" class="rhstext">All My Children</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=backstage" class="rhstext">Backstage</a><br>
-<a href="http://www.tvsa.co.za/default.asp?blogname=binnelandersteasers" class="rhstext">Binnelanders</a><br>
+<a href="http://www.tvsa.co.za/default.asp?blogname=binnelandsubjudice" class="rhstext">Binneland Sub Judice</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=boldteasers" class="rhstext">Bold &amp; the Beautiful</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=daysteasers" class="rhstext">Days Of Our Lives</a><br>
-<a href="http://www.tvsa.co.za/default.asp?blogname=egoliteasers" class="rhstext">Egoli</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=generationsteasers" class="rhstext">Generations</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=isidingoteasers" class="rhstext">Isidingo</a><br>
 <a href="http://www.tvsa.co.za/default.asp?blogname=muvhango" class="rhstext">Muvhango</a><br>
@@ -1084,12 +793,12 @@ Post Time: 15th November 2009 at 09:49<br><br>
 
 </tbody></table><br><br><ul id="ratings" class="shadetabs">
 <li><a href="#" rel="country1" class="selected">South Africa</a></li>
-<li><a href="#" rel="country2">International</a></li>
+<li><a href="#" rel="country2" class="">International</a></li>
 </ul>
 
 <div style="width:100%; padding: 0px">
 
-<div id="country1" class="tabcontent">
+<div id="country1" class="tabcontent" style="display: block;">
 
 <table width="95%" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000" style="border: 0px 1px 1px 1px solid Black;">
 <tbody><tr>
@@ -1164,7 +873,7 @@ Post Time: 15th November 2009 at 09:49<br><br>
 
 </div>
 
-<div id="country2" class="tabcontent">
+<div id="country2" class="tabcontent" style="display: none;">
 
 <table width="95%" cellspacing="0" cellpadding="0" align="center" bgcolor="#000000" style="border: 0px 1px 1px 1px solid Black;">
 <tbody><tr>
@@ -1208,12 +917,24 @@ countries.setpersist(true)
 countries.setselectedClassTarget("link") //"link" or "linkparent"
 countries.init()
 
-</script><br><div align="center"><a href="http://affiliates.trafficsynergy.com/z/1012176/CD3321/" target="_blank"><img src="http://affiliates.trafficsynergy.com/42/3321/1012176/" alt="Health Spas Gift Voucher" border="0"></a></div></td>
+</script><br><div align="center"><a href="http://affiliates.trafficsynergy.com/z/1047112/CD3321/" target="_blank"><img src="http://affiliates.trafficsynergy.com/42/3321/1047112/" width="160" height="600" alt="Click Here for a Personal Loan Applications" border="0"></a></div><br></td>
 </tr>
     </tbody></table>
 	</td>
 
 	<td width="124" align="center" valign="top">
+	
+<div align="center"><script language="javascript" type="text/javascript">
+//<![CDATA[
+var now = new Date();
+var index=now.getTime();
+document.write('<s' + 'cript  language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&z=11&target=_blank&a=10&mgr=aspcode.net"></scr' + 'ipt>');
+// ]]>
+</script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=11&amp;target=_blank&amp;a=10&amp;mgr=aspcode.net"></script><noscript>
+<a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=11&a=10&mgr=aspcode.net">
+<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=11&a=10&mgr=aspcode.net" border="0" width="120" height="600" />
+</a>
+</noscript></div><br>
 	
 <div align="center"><script type="text/javascript"><!--
 google_ad_client = "pub-7562341865286967";
@@ -1226,7 +947,9 @@ google_ad_height = 600;
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script></div><br>
 
-<div align="center"><a href="http://affiliates.trafficsynergy.com/z/1012166/CD3321/" target="_blank"><img src="http://affiliates.trafficsynergy.com/42/3321/1012166/" alt="Health Spas Gift Voucher" border="0"></a></div><br>
+<div align="center"><a href="http://affiliates.trafficsynergy.com/z/1047156/CD3321/" target="_blank"><img src="http://affiliates.trafficsynergy.com/42/3321/1047156/" alt="Free Tarot Reading" width="120" height="600" border="0"></a></div><br>
+
+<div align="center"><a href="http://affiliates.trafficsynergy.com/z/1047111/CD3321/" target="_blank"><img src="http://affiliates.trafficsynergy.com/42/3321/1047111/" alt="Click Here for a Personal Loan Applications" width="120" height="600" border="0"></a></div><br>
 
 <div align="center"><script language="javascript" type="text/javascript">
 //<![CDATA[
@@ -1237,18 +960,6 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 </script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=10&amp;target=_blank&amp;a=9&amp;mgr=aspcode.net"></script><noscript>
 <a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=10&a=9&mgr=aspcode.net">
 <img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=10&a=9&mgr=aspcode.net" border="0" />
-</a>
-</noscript></div><br>
-	
-<div align="center"><script language="javascript" type="text/javascript">
-//<![CDATA[
-var now = new Date();
-var index=now.getTime();
-document.write('<s' + 'cript  language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&z=11&target=_blank&a=10&mgr=aspcode.net"></scr' + 'ipt>');
-// ]]>
-</script><script language="javascript" type="text/javascript" src="http://adserver.tvsa.co.za/admentorserve.ashx?type=js&amp;z=11&amp;target=_blank&amp;a=10&amp;mgr=aspcode.net"></script><noscript>
-<a target="_blank"  href="http://adserver.tvsa.co.za/admentorserve.ashx?type=click&z=11&a=10&mgr=aspcode.net">
-<img src="http://adserver.tvsa.co.za/admentorserve.ashx?type=img&z=11&a=10&mgr=aspcode.net" border="0" />
 </a>
 </noscript></div><br>
 	
@@ -1327,14 +1038,14 @@ document.write('<s' + 'cript  language="javascript" type="text/javascript" src="
 
 <table cellspacing="0" cellpadding="2" align="center" class="bluebeetle">
 <tbody><tr>
-	<td><img src="http://www.tvsa.co.za/images/icons/bb_icon_16x16.png" border="0" title=""></td>
+	<td><img src="http://www.tvsa.co.za/images/icons/bb_icon_16x16.png" width="16" height="16" border="0" title=""></td>
 	<td>TVSA is a proud member of the <a href="http://www.bluebeetle.co.za" title="Visit Blue Beetle Entertainment" target="_blank" class="bluebeetle">Blue Beetle Entertainment</a> network</td>
 </tr>
 </tbody></table>
 
 <hr class="bb">
 
-<strong>Blue Beetle sites:</strong>&nbsp;&nbsp;<a href="http://www.citizenx.co.za/" title="South African politics and current affairs" target="_blank" class="bluebeetle">CitizenX</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thedailysmoke.co.za/" title="A collection of personal stories by Luke Tagg" target="_blank" class="bluebeetle">The Daily Smoke</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.powerconverter.co.za/" title="Free online conversion calculators" target="_blank" class="bluebeetle">PowerConverter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.snaparazzi.co.za/" title="South African celebrities caught on camera!" target="_blank" class="bluebeetle">Snaparazzi</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sapostalcodes.co.za/" title="Search a full list of South African postal codes" target="_blank" class="bluebeetle">South African Postal Codes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.tvsa.co.za/" title="The South African TV authority" target="_blank" class="bluebeetle">TVSA</a><br><br>
+<strong>Blue Beetle sites:</strong>&nbsp;&nbsp;<a class="bluebeetle" title="Independent cricket commentary and analysis" href="http://www.theboundaryrider.com" target="_blank">The Boundary Rider</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.citizenx.co.za/" title="South African politics and current affairs" target="_blank" class="bluebeetle">CitizenX</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.thedailysmoke.co.za/" title="A collection of personal stories by Luke Tagg" target="_blank" class="bluebeetle">The Daily Smoke</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.powerconverter.co.za/" title="Free online conversion calculators" target="_blank" class="bluebeetle">PowerConverter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.snaparazzi.co.za/" title="South African celebrities caught on camera!" target="_blank" class="bluebeetle">Snaparazzi</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.sapostalcodes.co.za/" title="Search a full list of South African postal codes" target="_blank" class="bluebeetle">South African Postal Codes</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.tvsa.co.za/" title="The South African TV authority" target="_blank" class="bluebeetle">TVSA</a><br><br>
 
 Tech Services by <a target="_blank" title="Custom tech solutions" href="http://www.neural.co.za" class="bluebeetle">Neural Systems</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Hosting by <a title="ADSL / Domain Registration" target="_blank" href="https://www.webafrica.co.za/partner/affiliate.html?c=TAS01" class="bluebeetle">WebAfrica</a></div><br></td>
 <td></td>
