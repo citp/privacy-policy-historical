@@ -1,60 +1,95 @@
-> *The following text is extracted and transformed from the 123print.com privacy policy that was archived on 2006-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061218121415id_/http%3A//www.123print.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 123print.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524034726id_/http%3A//www.123print.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-At 123 Print, we respect our customers and understand that you are concerned about privacy, so we have instituted policies intended to protect your personal information. The purpose of this privacy policy is to let you know what kind of information we collect, with whom it may be shared, what choices you have regarding the use of your information, and how you may review and change some of the data you provide to us. 
+** PRIVACY POLICY**
 
-As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change. We will not be notifying you directly but will post the changes here in the Privacy Policy. We, therefore, encourage you to refer to this policy on an ongoing basis so that you fully understand our current privacy policy.
+At  123Print.com, we respect our customers and understand that you are concerned about privacy. The purpose of this privacy policy is to let you know what kind of information we collect, how we use it, with whom it may be shared, what choices you have regarding our use of your information, and how you may review and change some of the data you provide to us.
 
-_What Information Do We Collect?_
+We are located in the United States and this is a U.S.-based web site. By using this site, you agree to the transfer of your personal information to or within the United States .
 
-We collect various types of information when you interact with us on our website. For example, we use "cookies" to obtain certain information from your web browser. By transferring these alphanumeric identifiers or "cookies" that your browser creates at our request in an approved and standardized place on your computer, 123 Print assigns you a unique customer code and records information about your activity on our website. When you visit or return to our website, we read the cookie to identify you as one of our customers (or prior visitor) to help you recall orders or preferences you have selected. The cookie also enables us to recall your past activities, post your account data, and modify site elements and special offers to you. 
+As we continue to develop our web site and take advantage of technologies to improve the services we offer, this policy likely will change. When we change it, we will post the change(s) on our web site. If we change the policy in a material way, we will provide appropriate online notice to you.
 
-We also store certain types of information when you interact with us on our website. Most web browsers accept cookies by default, but allow users to reject them by changing the browser preferences. If you have set up your browser to reject cookies, some aspects of our site, including our Shopping Cart, will not work properly. This privacy statement covers the use of cookies by 123 Print only and does not cover the use of cookies by any advertisers. 
+**What Information Do We Collect and How Do We Use It?**
 
-The following categories of information collected include but are not limited to:  
-(1) Your first and last name.  
-(2) A business or other physical addresses, including street name and name of a city or town.  
-(3) Your email address.  
-(4) Your telephone number.  
-(5) Your order history which will include all relevant data.  
-(6) Your IP address and browser information.  
-(7) Any other identifier that permits the physical or online contacting of a specific individual. 
+**Personal Information**
 
-_Do We Share Your Information?_
+We may collect various types of personal information from you, depending upon how you use our site. The categories of personal information we collect may include: 
 
-The information gathered may be shared with corporate affiliates of 123 Print. We also share the information with third parties, including responsible companies with which we have a relationship. For example:
+(1) Your first and last name
 
-Some of our vendors may work closely with us to create a vendor shop within the 123 Print site or to ship your order directly to you. In certain instances, we may share certain information about you with that vendor (e.g., if you decide to buy their products).
+(2) A home or other physical address, including street name and name of a city or town.
 
-You also may make a purchase from 123 Print through a link from another web site or search engine and may use their express checkout tool to do so. When you do, please be aware that both 123 Print and that website or search engine will receive your information.
+(3) Your e-mail address.
 
-In some cases, 123 Print may enter into a co-branding relationship with another website that offers you products or services that supplement 123 Print's offering (e.g., flowers). In those cases, you may link from 123 Print to another site to purchase the item. In that case, both 123 Print and the other website may receive your information.
+(4) Your telephone number.
 
-We may retain reliable third party companies to provide order fulfillment and customer service on our behalf and they will have access to your information.
+(5) If you make a purchase on our site, your credit card number and related information.
 
-For some of our products, 123 Print may provide you with a link to the supplier of that product so that you may get further information. If you link to the supplier's site, the supplier may collect or receive information about you.
+We may combine the information we collect from you with information we receive from you offline. We may also receive information about you from other sources, including, for example, address update services. 
 
-Like other companies, 123 Print may use an outside company to place its advertising banners or links on other sites or to permit other companies to place its advertising on 123 Print. In certain cases, the advertiser may collect information on people who click on the banner or link. 123 Print will, on occasion, rent or exchange its customer's names, addresses, and transaction nominations with other marketers. Customers will be provided with a choice not to have their contact information rented or exchanged via an opt-out mechanism by which to exercise their choice. 123 Print will promptly honor such opt-out requests at no cost to its customers. 
+We may use the information we collect from and about you for any of the following purposes: (1) to fulfill your requests for products and services; (2) to provide you with targeted offers and advertising on the site; (3) to contact you with information and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties,  4) to contact you; 5) to review site usage and operations;  6) to address problems with the site, our business or our products and services; and 7) to protect the security or integrity of the site and our business.
 
-123 Print also may share your personal information with outside companies that perform services for 123 Print. For example, we may retain an outside company to manage a database containing certain customer information or to create and distribute an email offering. In those situations, the outside party is performing work for 123 Print, and 123Print takes appropriate steps to ensure your information is used only to provide the services requested by 123 Print, and not for other purposes. 
+**Non-Personal Information** ** **
 
-Additionally, 123 Print may share account or other information when we believe it is necessary to comply with the law or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection. 
+We, or third-party service providers acting on our behalf, may use cookies or web beacons on our site. A cookie is a small text file that may be stored on the hard drive of your computer when you access the site. A web beacon is an electronic image used to recognize a cookie on your computer when you view a web page. We may use cookies and web beacons to collect non-personal information from you, including your IP address, browser type, the time and length of your visit, the pages of the site you visit and other clickstream data. This information may be used in order to: (1) remember the products in your shopping cart; (2) recognize you when you return to the site; (3) improve and personalize your experience on our site; (4) provide you with customized advertising; and (5) monitor site usage and analyze the behavior of site visitors. We do not collect any personal information through our use of cookies and web beacons, and we do not combine the non-personal information we collect through them with any of your personal information.
 
-And in the event that some or all of the business assets of 123 Print are sold or transferred, we generally would transfer the corresponding information about our customers. 
+You may decline cookies, but by doing so, you may not be able to use certain features on our site. You also may be able to make some web beacons unusable by rejecting cookies. Check the "Help" menu of your browser to learn how to change your cookie preferences.
 
-Finally, 123 Print may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest. We also may provide you with the opportunity to sign-up on our website to receive such email offers. 
+**Do We Share Your Information?**
 
-_Can I Review and Change My Information?_
+We may transfer or otherwise disclose information collected from and about you to the following entities for the following purposes: **** (1) to our service providers, suppliers and business associates, if the disclosure will enable them to fulfill your request for products or services from us for another vendor on our site; (2) to our service providers and business associates, if the disclosure will enable them to perform a business, professional or technical support function for us; (3) to our affiliates and other third parties so that they may contact you with marketing offers of their own; (4)  to other companies, credit bureaus or government agencies in connection with issues related to fraud, credit or debt collection; (5) as necessary if we believe that there has been a violation of our site Terms of Use, of the law or of our rights or the rights of any third party; (6) **** to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law; and (7) if our company or substantially all of its assets are acquired, your personal information may be one of the transferred assets.
 
-Under "My Account", you can edit the following profile data: Name, gender, job title, occupation, company size, shopping and billing addresses, email address and password. 
+Any personal information or content that you voluntarily upload or submit for posting to the site becomes publicly available and can be collected and used by others. It is in violation of the site's Terms of Use for you to post any content that requests personally identifiable information. ~~~~
 
-If you have questions about your order, you may check order status online by [ clicking here](https://secure.123print.com/MyOrders.aspx). 
+** Your ** **California** ** Privacy Rights** **.** ** ~~~~**
 
-If you would like to email Customer Assistance, please use the [ Contact Us](https://web.archive.org/web/20061218121415id_/http%3A//www.123print.com/ContactUs.aspx) form and select the appropriate subject line from the drop-down menu. 
+California residents may direct us not to share their personal information with our affiliates and third parties, for those parties' own marketing purposes, by sending an email to: [info@123Print.com](mailto:info@123Print.com). Please  include "Opt-Out" in the subject line. ~~~~
 
-Questions regarding your charge account can be forwarded to our Customer Credit Department. Please use the [Contact Us](https://web.archive.org/web/20061218121415id_/http%3A//www.123print.com/ContactUs.aspx) form and select the appropriate subject line from the drop down menu. 
+**Can I Change My Information?**
 
-Thank you for shopping with 123 Print. If you have any questions or comments about this policy, please use the [Contact Us](https://web.archive.org/web/20061218121415id_/http%3A//www.123print.com/ContactUs.aspx) Form and select subject line "Privacy Policy Question". 
+You may change or update your personal information by sending an email to:  [info@123Print.com](mailto:info@123Print.com) **. **Please include  "Change My Information" in the subject line.
 
-This policy is effective as of July 15, 2006.
+**What About Information About Children?**
+
+We do not direct the site to, nor do we knowingly collect personal information from children under thirteen.
+
+**Copyright Violations**
+
+We respect the intellectual property rights of others and will take appropriate steps to protect the intellectual property rights of third parties if it receives notice in accordance with the Digital Millennium Copyright Act. If you believe your copyright or the copyright of  another has been infringed on, please provide our Copyright Agent with a written notice containing the following information:
+
+a.      a physical or electronic signature of the person authorized to act on behalf of the owner of the copyright interest that you believe has been infringed;
+
+b.      an identification of the copyrighted work that you claim has been infringed;
+
+c.      a description of where the material that you claim is infringed is located on the site;
+
+d.      information on how to contact you including your address, telephone number, and email address, if available;
+
+e.      a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law;
+
+f.        a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or authorized to act on the copyright owner's behalf.
+
+Claims of infringement should be mailed via certified mail, return receipt requested, to the following address:
+
+General Counsel
+
+123Print, Inc.
+
+1725 Roe Crest Drive
+
+North Mankato, MN 56002
+
+**Security**
+
+We have taken certain physical, electronic, contractual, and managerial steps to safeguard and secure the information we collect from site visitors.
+
+**Third Party Websites**
+
+The site may contain links to third-party websites, which may have privacy policies that differ from our own. We are not responsible for the activities and practices that take place on these sites. Accordingly, we recommend that you review the privacy policy posted on any site that you may access through our site.
+
+**Contact Us**
+
+Thank you for visiting our site. If you have any questions or comments about this policy, please  send an email to [ info@123Print.com](mailto:info@123Print.com) **.** Please include  "Question or Comment" in the subject line.
+
+**Last Updated: ** ** April 1, 200** **9**
