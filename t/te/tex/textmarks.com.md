@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217130148id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the textmarks.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524044340id_/http%3A//www.textmarks.com/info/privacy) for the most accurate reproduction.*
 
 # Send text messages - Broadcast bulk SMS API -{{ Privacy Policy }}- TextMarks - Shared short code
 
