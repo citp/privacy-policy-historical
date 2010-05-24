@@ -1,34 +1,15 @@
-<!--The following is the downloaded HTML source of the ten.com.au privacy policy that was archived on 2009-05-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090502174757id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ten.com.au privacy policy that was archived on 2010-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524050025id_/http%3A//ten.com.au/privacy-policy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 246 - published by RedDot 7.5 - 7.5.2.16 - 26895 -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head><!-- PageID 246 - published by Open Text Web Solutions 9 - 9.0.1.28 - 29976 -->
      
         
        
     
         
-        <script type="text/javascript">
-    function GetHBX() {
-        var strHBXMLCn = GetHBXMLC();
-        strHBXMLC = strHBXMLCn.toLowerCase();
-    
-    // remove /home from breadcrumb
-        if (strHBXMLC.length > 5) {
-            strHBXMLC = strHBXMLC.replace(/\/home\//g,"/");
-        }
-    // remove bad characters
-        strHBXMLC = strHBXMLC.replace(/&amp;/gi,"and");
-        strHBXMLC = strHBXMLC.replace(/rsquo;/gi,"");
-        strHBXMLC = strHBXMLC.replace(/lsquo;/gi,"");
-        strHBXMLC = strHBXMLC.replace(/rdquo;/gi,"");
-        strHBXMLC = strHBXMLC.replace(/ldquo;/gi,"");
-        strHBXMLC = strHBXMLC.replace(/\nbsp/gi,"");
-        strHBXMLC = strHBXMLC.replace(/\  /gi," ");
-        strHBXMLC = strHBXMLC.replace(/[',`,;,\&,\?,\#,\!,\$,\%,\^,\@,\*,.,\,]/gi,"");
-    // return hbx.mlc string
-        return(strHBXMLC);
-    }
-    </script>
+        
+        
+              
     
     
         
@@ -42,9 +23,9 @@
         
         <meta name="DC.Subject" content="Privacy Policy">
         <meta name="DC.Creator" content="Network TEN"> 
-        <meta name="DC.Date.created" scheme="ISO8601" content="Tuesday, 11 December 2007 15:11"> 
-        <meta name="DC.Date.modified" scheme="ISO8601" content="Saturday, 2 May 2009 0:04">
-        <meta name="DC.Date.issued" content="Saturday, 2 May 2009 0:04">
+        <meta name="DC.Date.created" scheme="ISO8601" content="11/12/2007 3:11 PM"> 
+        <meta name="DC.Date.modified" scheme="ISO8601" content="24/05/2010 12:04 AM">
+        <meta name="DC.Date.issued" content="24/05/2010 12:04 AM">
         <meta name="DC.Keywords" content="Privacy Policy">
         <meta name="DC.Description" content="Privacy Policy">
         <meta name="DC.Title" content="Privacy Policy"> 
@@ -57,17 +38,13 @@
     
 
         <!-- CSS -->
-        <!-- CSS -->
-        <!-- CSS -->
-
-
-        
 
         <link rel="stylesheet" type="text/css" href="http://ten.com.au/global.css" media="all">
         <link rel="stylesheet" type="text/css" href="/ten.css" media="all">
         <link rel="stylesheet" type="text/css" href="http://ten.com.au/gallery.css" media="all">
         <link rel="stylesheet" type="text/css" href="http://ten.com.au/pagination.css" media="all">
 
+        
         
     
 
@@ -84,26 +61,30 @@
         <script type="text/javascript" language="javascript" src="/common.js"></script>
         
         
-        <script type="text/javascript" language="javascript" src="/swfobject.js"></script>
+        <script type="text/javascript" src="/swfobject_med.js"></script>
+
         
-        
-        <!--<script type="text/javascript" src="/jquery-latest-pack.js"></script>-->
         <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-        <script type="text/javascript" src="/script_thickbox_js.js"></script>
+        <script type="text/javascript" src="/thickbox_med.js"></script>
         <link rel="stylesheet" type="text/css" href="/thickbox.css" media="all">
     
         
-        <script type="text/javascript" src="/script_jquery-pagination_js.js"></script>
         
+        <script type="text/javascript" src="http://ten.com.au/pagination_med.js"></script>
+
+
+
+        <!---->
 
         
-        
+        <script type="text/javascript" src="/tabpane-new.js"></script>
 
         
         
         <script type="text/javascript" src="/jquery-popup-window.js"></script>
         
         <script type="text/javascript" src="/jquery-querystring.js"></script>
+
         <script type="text/javascript"> 
         $(document).ready(function(){
             $("a").each(function(i) {
@@ -112,15 +93,31 @@
                 }
             });
         });
-        </script>    
+        </script> 
+
+   
         
 
+
         
-       <!-- <script type="text/javascript" src="/network-ten.js"></script>-->
+
+
 
 
          
-        <script type="text/javascript"> 
+        
+
+            <script type="text/javascript">
+            //Check if user is not logged in for SSO
+            usti=getCookie('TI');
+            uname=getCookie('TU');
+            urequestor = getCookie('TR');
+            if (usti=="" || urequestor!="IMS.TEN") {
+                writeIFrame('http://members.ten.com.au/sso-ten.htm?redir=/privacy-policy.htm', '', 'height="1" width="1" style="display:none"');
+            }
+            </script> 
+
+<script type="text/javascript"> 
         <!--BP JS OAS Test Start--> 
         function encodeName(strEnc) 
             { 
@@ -196,7 +193,91 @@
             document.close(); 
         } 
         </script>
+      
         
+
+
+        <!--BP OSC Start--> 
+        <script type="text/javascript"> 
+        
+                function encodeNameO(strEnc) 
+                    { 
+                        strEnc = strEnc.replace(/<[^>]+>/g, ""); 
+                        strEnc = strEnc.replace(/&amp;/gi,"and"); 
+                        strEnc = strEnc.replace(/^\//g, ""); 
+                        strEnc = strEnc.replace(/&quot;/gi,""); 
+                        strEnc = strEnc.replace(/&acute;/gi,""); 
+                        strEnc = strEnc.replace(/[',`,;,\&,\?,\#,\!,\$,\%,\^,\@,\*,.,\,]/gi,""); 
+                        strEnc = strEnc.replace(/rsquo;/gi,""); 
+                        strEnc = strEnc.replace(/lsquo;/gi,""); 
+                        strEnc = strEnc.replace(/rdquo;/gi,""); 
+                        strEnc = strEnc.replace(/ldquo;/gi,"");
+                        strEnc = strEnc.replace(/\//gi,"-");
+                        strEnc = strEnc .toLowerCase();
+                        return strEnc; 
+                    } 
+                function GetOSCPath() {
+                    //Get the full path including final page name
+                    var scPageName = encodeNameO("Privacy Policy"); 
+                    scBreadCrumb = new String('<a href="/home.htm">Home</a>|<a href="/privacy-policy.htm">'+scPageName+'</a>'); 
+                    //scBreadCrumb = new String('<a href="/home.htm">Home</a>|');
+                    scBreadCrumb = scBreadCrumb.replace(/\&/gi,"and"); 
+                    scBreadCrumb = scBreadCrumb.replace(/'/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/`/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/rsquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/lsquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/rdquo;/gi,""); 
+                    scBreadCrumb = scBreadCrumb.replace(/ldquo;/gi,"");
+                    var scBreadCrumbArray = scBreadCrumb.split("|"); 
+                    var scHBXMLC = ''; 
+                    for (x in scBreadCrumbArray) { 
+                        scBreadCrumbValue = new String(scBreadCrumbArray[x]); 
+                        scBreadCrumbValue = scBreadCrumbValue.substring(scBreadCrumbValue.indexOf(">") + 1); 
+                        scBreadCrumbValue = scBreadCrumbValue.substring(0, scBreadCrumbValue.indexOf("<")); 
+                        scHBXMLC = scHBXMLC + '/' + scBreadCrumbValue;
+                    } 
+                    var oscCn = scHBXMLC; 
+                    //alert("oscCn: " + scHBXMLC); 
+                    strOSC = oscCn.toLowerCase(); 
+                // remove /home from breadcrumb so top level sections exist 
+                    if (strOSC.length > 5) { 
+                     strOSC = strOSC.replace(/\/home\//g,"/"); 
+                    } 
+                // remove bad characters 
+                    strOSC = strOSC.replace(/&amp;/gi,"and"); 
+                    strOSC = strOSC.replace(/rsquo;/gi,""); 
+                    strOSC = strOSC.replace(/lsquo;/gi,""); 
+                    strOSC = strOSC.replace(/rdquo;/gi,""); 
+                    strOSC = strOSC.replace(/ldquo;/gi,""); 
+                    strOSC = strOSC.replace(/\nbsp/gi,""); 
+                    //strOSC = strOSC.replace(/\ /gi," "); 
+                    strOSC = strOSC.replace(/[',`,;,\&,\?,\#,\!,\$,\%,\^,\@,\*,.,\,]/gi,""); 
+                    // return OSC string 
+                    strOSC = 'TEN'+ strOSC; 
+                    return(strOSC); 
+                } 
+            
+                function GetSectionPath(intlevel)
+                {
+                //display path taken from GetOSCPath with number of intlevels deep to populate sub sections
+                var strOSCPath = GetOSCPath();
+                var scCrumbArray = strOSCPath.split("/"); 
+                var scOSCMLC = ''; 
+                
+                for (x in scCrumbArray) { 
+                    scCrumbValue = new String(scCrumbArray[x]); 
+                    if (x <= (scCrumbArray.length) && x <= intlevel) {
+                        if (scOSCMLC=='') {
+                            scOSCMLC = scCrumbValue;
+                        } else {
+                            scOSCMLC = scOSCMLC + '/' + scCrumbValue;
+                        }
+                    }
+                } 
+                return(scOSCMLC);
+                }     
+        </script>
+      
 
 
         <style>
@@ -214,7 +295,7 @@
                           type: "GET",
                           url: "http://ten.com.au/tvshow_slidedown.htm",
                           dataType: "html",
-                          success: function(html){$(".tv-slidedown").append(html);}
+                          success: function(html){$(".tv-slidedown").append(html);$(".tv-dropdown").attr('href','#');}
                         });
                     $(".tv-dropdown").click(function () {
                         $("#dropdown-nav").slideToggle("slow");
@@ -236,6 +317,13 @@
         <div id="skip-text"><a href="#content" title="Skip to content">Skip to content</a></div>
     </div>
     <hr>
+
+        
+        <script type="text/javascript" src="/nupads.js"></script>
+        <script type="text/javascript" src="/ads/yepads.js"></script>
+        <script type="text/javascript" src="/thedecider.js"></script>
+              
+
     
     <div id="page-layout"> 
         
@@ -252,26 +340,89 @@
         <!--
             DisplayAds('Top', 'Top', 728, 90 ); 
         //-->
-    </script><script language="JavaScript1.1" src="http://oascentral.ten.com.au/RealMedia/ads/adstream_jx.ads/TEN/privacypolicy/1305963194@Top!Top?"></script>
+    </script><script language="JavaScript1.1" src="http://oascentral.ten.com.au/RealMedia/ads/adstream_jx.ads/TEN/privacypolicy/1633976929@Top!Top?"></script>
 
 </div> <!-- end ad --> 
     </div> 
     <hr>
         <div id="navigation">
-            <!--
+            <style>
+#primary-navigation  {
+    margin:0;
+}
+#primary-navigation .left {
+    width:14px;
+}
+#primary-navigation .right {
+    height:29px !important;
+    padding:0;
+    width:14px;
+}
+#primary-navigation .primary_nav_last_li {
+    border:0;
+}
+#navigation #primary-navigation .primary_nav_first_li {
+    padding-top:6px;
+}
+#primary-navigation .primary_nav_first_li a {
+    padding:0 13px 0 3px;
+}
+#primary-navigation .primary_nav_first_li a:hover {
+    background:none;
+}
+#navigation {
+    margin:0 auto;
+    /* padding-bottom:28px; /*49px;*/
+}
+#navigation #primary-navigation ul {
+    background:#FFF;
+    float:left;
+    height:29px;
+    padding:0 !important;
+}
+#navigation #primary-navigation ul li {
+    display:block;
+    float:left;
+    padding:7px 0 5px;
+    height: 16px;
+}
+#primary-navigation ul li a {
+    padding:6px 14px 5px;
+}
+#nav-global #search .search-textbox {
+    background:#EBEBEB;
+    border:1px solid #B7B7B7;
+    color:#929292;
+    font-size:11px;
+    padding:2px 5px;
+    width:50px;
+}
+#nav-global {
+    padding:3px 0 0;
+}
+
+</style><div id="hiddenModalContent" style="display:none"> 
+            <div style="background:#ffffff;color:#000000;min-height:30px;_height:30px;font-size:17px;font-weight:bold;padding-top:15px;text-align:center;">You are now signing out of a Network TEN site</div>
+            <div style="text-align:center;padding-top:5px;"><img src="/images/ten_logo_reflect.gif"></div>
+            <div style="background:#ffffff;color:#000000;min-height:17px;_height:17px;font-size:14px;font-weight:bold;padding-top:2px;text-align:center;">This window will close once you are logged out</div>        
+        </div>
+
+<!--
 
 -->
         <div id="primary-navigation">
             <span class="left"></span>
             <h3 class="accessible">Primary Navigation</h3>
             <ul>
+
+                <li class="primary_nav_first_li"><a style="position:relative; top: -1px;" href="/home.htm"><img src="/nav_home_icon.gif"></a></li>
+
+
                 
                 
-                           <li class=""><a href="/home.htm">Home</a></li>
+                           <li class=""><a href="/watch-tv-episodes-online.htm">Full Episodes &amp; Videos</a></li>
                        
-                           <li class=""><a href="/video.htm">Video</a></li>
-                       
-                           <li class=""><a class="tv-dropdown" href="#" onclick="return false;">TV Shows</a></li>
+                           <li class=""><a class="tv-dropdown" href="/tvshows.htm" onclick="">TV Shows</a></li>
                        
                            <li class=""><a href="/tvguide_search.html">TV Guide</a></li>
                        
@@ -288,6 +439,14 @@
 
 
     <script type="text/javascript">
+
+    $(function() {
+        $('#primary-navigation ul li:first').addClass('primary_nav_first_li'); 
+        
+        $('#primary-navigation ul li:last').addClass('primary_nav_last_li'); 
+    }); 
+
+    
     function checkCookie()
     {
         usti=getCookie('TI');
@@ -295,7 +454,7 @@
         loginURL = "https://memberscrm.ten.com.au/index.cfm?action=registration&pageAction=loginPopup&requestor_id=IMS.TEN&redirectto=http://ten.com.au/privacy-policy.htm&keepThis=true&TB_iframe=true&height=200&width=200";
         if (usti!=null && usti!="")
         {
-            return ('<div class="logged-in"><div class="username">Hi <a href="https://members.ten.com.au/ten/update-profile.htm" title="username">' + uname + '</a></div><div class="links"><span class="profile"><a href="https://members.ten.com.au/ten/update-profile.htm" title="View Profile">View Profile</a></span>|<span class="sign-out"><a href="#" onclick="logout()" title="Log out">Log Out</a></span></div></div>')
+            return ('<div class="logged-in"><div class="username">Hi <a href="https://members.ten.com.au/ten/update-profile.htm" title="username">' + uname + '</a></div><div class="links"><span class="profile"><a href="https://members.ten.com.au/ten/update-profile.htm" title="View Profile">View Profile</a></span>|<span class="sign-out"><a href="#TB_inline?height=175&width=410&inlineId=hiddenModalContent&modal=true" onclick="logout()" title="Log out" class="thickbox">Log Out</a></span></div></div>')
         }
         else 
         {
@@ -308,8 +467,18 @@
         ifrm = document.createElement("IFRAME");
         ifrm.setAttribute("src", "/forums/logout.jsp");
         document.body.appendChild(ifrm);
-        window.location = logoutURL;
+        processLogout();
     }
+
+    function processLogout()
+    {
+        var iframe_logout = document.createElement('IFRAME');
+        iframe_logout.setAttribute('width', 1);
+        iframe_logout.setAttribute('height', 1);
+        iframe_logout.setAttribute('src', logoutURL);
+        document.body.appendChild(iframe_logout);
+    }
+
     function openPopup(url, name, args)
     {
         window.open(url, name, args);
@@ -325,11 +494,23 @@
             <div id="search">
               <form id="search" action="/ten-search.htm" method="get"> 
                 <input type="text" name="q" value="Search" onclick="this.value='';" class="search-textbox">
-                <input type="image" value="go" src="/images/button-gp.gif" alt="Search button" class="search-button">
+                <input type="image" value="go" src="/images/TEN10_new_look_go.jpg" alt="Search button" class="search-button">
               </form> 
             </div>
  
         </div>
+ 
+
+<!--/images/button-gp.gif-->    <script type="text/javascript">
+    $(function() {
+            $('.search-button').hover(function() {
+                $(this).attr("src","/bnt_go_hover.gif");
+            }, function() {
+                $(this).attr("src","/btn_go_default.gif");
+            });
+    }); 
+    </script>
+ 
         </div><!--navigation-->
         <hr>
         
@@ -347,8 +528,12 @@
                 <div class="tv-slidedown"></div>
               
 
+
+
+
         <!-- start main -->
         <div class="pg-frame" style="background:none">
+   
             <div class="pg-wrapper">
                     
                     <!-- Content Banner -->
@@ -359,6 +544,8 @@
                     </div>
                     <!-- END Content Banner -->
                 
+                
+
 
 
 
@@ -462,19 +649,19 @@ function GetHBXMLC() {
 
 
 
-    <h4><a href="/video.htm" title="Watch Full Episodes">Watch Full Episodes</a></h4>
+    <h4><a href="http://ten.com.au/watch-tv-episodes-online.htm" title="Watch Full Episodes">Watch Full Episodes</a></h4>
 
 
 
     <ul>
         
-        <li><a href="video-player.htm?channel=GUERRILLA+GARDENERS" title="Guerrilla Gardeners">Guerrilla Gardeners</a></li>
+        <li><a href="http://ten.com.au/watch-tv-episodes-online.htm?vxSiteId=cd9efea8-6139-437d-a8dc-82ceba178f31&amp;vxChannel=CIRCLE%20CUTV" title="The Circle">The Circle</a></li>
         
-        <li><a href="video-player.htm?vxSiteId=cb519624-44a2-4bf7-808b-3514d34e96e4&amp;vxChannel=BONDI%20RESCUE" title="Bondi Rescue">Bondi Rescue</a></li>
+        <li><a href="http://ten.com.au/watch-tv-episodes-online.htm?vxSiteId=cd9efea8-6139-437d-a8dc-82ceba178f31&amp;vxChannel=HUEYS%20CUTV" title="Hueys kitchen">Hueys kitchen</a></li>
         
-        <li><a href="http://neighbours.com.au/video.htm?vxSiteId=ac9e06cb-4a1f-4eb0-b20f-c2f3429294b8&amp;vxChannel=Catch%20Up" title="Neighbours">Neighbours</a></li>
+        <li><a href="http://7pmproject.com.au/video.htm?vxSiteId=7a6ab1fe-cd90-4143-bf79-ba376a096b2e&amp;vxChannel=7PM%20Catch%20Up" title="The 7pm Project">The 7pm Project</a></li>
         
-        <li><a href="video-player.htm?vxSiteId=cb519624-44a2-4bf7-808b-3514d34e96e4&amp;vxChannel=GNW%20CUTV" title="Good News Week">Good News Week</a></li>
+        <li><a href="http://neighbours.com.au/video.htm?vxChannel=Catch%20Up" title="Neighbours">Neighbours</a></li>
         
     </ul>
 </div><div class="list list-2">
@@ -488,13 +675,13 @@ function GetHBXMLC() {
 
     <ul>
         
+        <li><a href="http://ten.com.au/little-britain-usa.htm" title="Little Britain USA">Little Britain USA</a></li>
+        
+        <li><a href="http://ten.com.au/the-cleveland-show.htm" title="The Cleveland Show">The Cleveland Show</a></li>
+        
         <li><a href="/good-news-week-paul-mcdermott.htm" title="Paul McDermott">Paul McDermott</a></li>
         
-        <li><a href="http://www.rovedaily.com.au/hamish-and-andy.htm" title="Hamish &amp; Andy">Hamish &amp; Andy</a></li>
-        
         <li><a href="/the-simpsons.htm" title="The Simpsons">The Simpsons</a></li>
-        
-        <li><a href="http://www.rovedaily.com.au" title="Rove Daily">Rove Daily</a></li>
         
     </ul>
 </div><div class="list list-2">
@@ -508,11 +695,9 @@ function GetHBXMLC() {
 
     <ul>
         
-        <li><a href="http://9am.ten.com.au/video.htm?Channel=9am+Music+Performances" title="9am performances">9am performances</a></li>
+        <li><a href="http://ten.com.au/the-circle-video.htm?vxSiteId=3f55ff7f-52fa-434b-974e-b6155707931b&amp;vxChannel=CIRCLE%20MUSIC" title="The Circle Music Performances">The Circle Music Performances</a></li>
         
-        <li><a href="http://www.australianidol.com.au" title="Australian Idol">Australian Idol</a></li>
-        
-        <li><a href="http://www.rovedaily.com.au/new-music-on-rove.htm" title="Music on Rove">Music on Rove</a></li>
+        <li><a href="http://dance.ten.com.au/video.htm??vxSiteId=d9d2e1e6-3a8f-46ad-8803-45a79b957d70&amp;vxChannel=Showcase%20Perf" title="Dance Performances">Dance Performances</a></li>
         
         <li><a href="http://videohits.com.au/" title="Video Hits">Video Hits</a></li>
         
@@ -522,7 +707,7 @@ function GetHBXMLC() {
 
 
 
-    <h4><a href="/tvshows.htm" title="Cooking &amp; recipes">Cooking &amp; recipes</a></h4>
+    <h4><a href="/tvshows.htm" title="Cooking &amp; Recipes">Cooking &amp; Recipes</a></h4>
 
 
 
@@ -530,9 +715,9 @@ function GetHBXMLC() {
         
         <li><a href="http://readysteadycook.ten.com.au/" title="Ready Steady Cook">Ready Steady Cook</a></li>
         
-        <li><a href="/hueys-cooking-adventures.htm" title="Huey's Cooking">Huey's Cooking</a></li>
+        <li></li>
         
-        <li><a href="http://9am.ten.com.au/recipes.htm" title="9am recipes">9am recipes</a></li>
+        <li><a href="http://ten.com.au/the-circle-recipes.htm" title="The Circle recipes">The Circle recipes</a></li>
         
         <li><a href="http://www.thebiggestloser.com.au/healthy-living-recipe-archive.htm" title="Healthy living recipes">Healthy living recipes</a></li>
         
@@ -542,19 +727,19 @@ function GetHBXMLC() {
 
 
 
-    <h4><a href="http://www.thebiggestloser.com.au" title="The Biggest Loser">The Biggest Loser</a></h4>
+    <h4><a href="http://www.masterchef.com.au/home.htm" title="MasterChef ">MasterChef </a></h4>
 
 
 
     <ul>
         
-        <li><a href="http://www.thebiggestloser.com.au/video.htm" title="Videos from the show">Videos from the show</a></li>
+        <li><a href="http://www.masterchef.com.au/video.htm?channel=Full+Episodes" title="Full Episodes">Full Episodes</a></li>
         
-        <li><a href="http://www.thebiggestloser.com.au/the-show.htm" title="About the show">About the show</a></li>
+        <li><a href="http://www.masterchef.com.au/recipes.htm" title="Recipes">Recipes</a></li>
         
-        <li><a href="http://www.thebiggestloser.com.au/healthy-living-tips.htm" title="Healthy living tips">Healthy living tips</a></li>
+        <li><a href="http://www.masterchef.com.au/series-1-highlights-gallery.htm" title="Photos">Photos</a></li>
         
-        <li><a href="http://www.thebiggestloser.com.au/contestants.htm" title="Contestants">Contestants</a></li>
+        <li><a href="http://www.masterchef.com.au/contestants.htm" title="Contestants">Contestants</a></li>
         
     </ul>
 </div><div class="list last-child">
@@ -562,19 +747,19 @@ function GetHBXMLC() {
 
 
 
-    <h4><a href="http://dance.ten.com.au" title="Dance '09">Dance '09</a></h4>
+    <h4><a href="http://www.oasisactive.com/?tcid=20190" title="Oasis Active Dating">Oasis Active Dating</a></h4>
 
 
 
     <ul>
         
-        <li><a href="http://dance.ten.com.au/forums/category.jspa?categoryID=23" title="Dance forums">Dance forums</a></li>
+        <li><a href="http://www.oasisactive.com/en/member.cfm?join&amp;tcid=20190" title="Join Now">Join Now</a></li>
         
-        <li><a href="http://dance.ten.com.au/video.htm" title="Dance videos">Dance videos</a></li>
+        <li><a href="http://www.oasisactive.com/?tcid=20190" title="Latest Members">Latest Members</a></li>
         
-        <li><a href="http://dance.ten.com.au/photos.htm" title="Photos">Photos</a></li>
+        <li><a href="http://www.oasisactive.com/en/index.cfm?action=search&amp;searchGender=1&amp;tcid=20190" title="Search for Ladies">Search for Ladies</a></li>
         
-        <li><a href="http://dance.ten.com.au/news.htm" title="News">News</a></li>
+        <li><a href="http://www.oasisactive.com/en/index.cfm?action=search&amp;searchGender=2&amp;tcid=20190" title="Search for Guys">Search for Guys</a></li>
         
     </ul>
 </div>
@@ -590,7 +775,7 @@ function GetHBXMLC() {
             
                 <li><a href="http://tencorporate.com.au/">Corporate</a></li> 
             
-                <li><a href="/privacy-policy.htm">Privacy Policy</a></li> 
+                <li><a href="/privacy-policy.htm">Privacy</a></li> 
             
                 <li><a href="/terms-of-use.htm">Terms of Use</a></li> 
             
@@ -602,21 +787,36 @@ function GetHBXMLC() {
             
                 <li><a href="/making-your-mark.htm">Making Your Mark</a></li> 
             
-                <li><a href="/ten-supports.htm">Ten Supports</a></li> 
+                <li><a href="/ten-support.htm">Ten Supports</a></li> 
             
                 <li><a href="/help-me-ten.htm">Help!</a></li> 
             
                 <li><a href="/people.htm">People</a></li> 
             
+                <li><a href="http://www.tencorporate.com.au/careers/default.aspx">Jobs</a></li> 
+            
     
         </ul>  
 
         <div class="copyright">
-        2009 Copyright Network Ten<img src="/logo_small_TEN.gif" alt="Small TEN logo">
+        2010 Copyright Network Ten<img src="/logo_small_TEN.gif" alt="Small TEN logo">
         </div><!--copyright-->
       
     </div><!--network-ten-footer-->
 </div><!--footer-->
+
+
+
+<div class="ad ad-leaderboard" style="padding: 10px 0px;background-color:transparent;position:relative;margin: 0 auto;width:728px;">
+    <script type="text/javascript">
+        <!--
+            DisplayAds('Bottom', 'Bottom', 728, 90 ); 
+        //-->
+    </script><script language="JavaScript1.1" src="http://oascentral.ten.com.au/RealMedia/ads/adstream_jx.ads/TEN/privacypolicy/1633976929@Bottom!Bottom?"></script>
+</div>
+      
+
+
 
         <!-- START Nielsen//NetRatings SiteCensus V5.3 -->
         <!-- COPYRIGHT 2007 Nielsen//NetRatings -->
@@ -630,58 +830,56 @@ function GetHBXMLC() {
         <div><img src="https://secure-au.imrworldwide.com/cgi-bin/m?ci=network-ten&amp;cg=0&amp;cc=1" alt=""/></div>
         </noscript>
         <!-- END Nielsen//NetRatings SiteCensus V5.3 --> 
+      
+
+
+<!---->
+<!--Omniture Code-->
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="s_code.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName=GetOSCPath() + "/" + encodeNameO("Privacy Policy") + "-landing"
+s.server=""
+s.channel=GetSectionPath(1)
+s.pageType="404:http://ten.com.au/error-404.htm"
+s.prop1=GetSectionPath(2)
+s.prop2=GetSectionPath(3)
+s.prop3=GetSectionPath(4)
+s.prop4="html-content"
+s.prop5="TEN"
+s.prop7="TEN"
+/* Conversion Variables */
+s.campaign=""
+s.state=""
+s.zip=""
+s.events=""
+s.products=""
+s.purchaseID=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+/* Hierarchy Variables */
+s.hier1=GetOSCPath()
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://networkten.122.2o7.net/b/ss/nwtdev/1/H.20.3--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+      
+
     
 
 
 
-
-<!--WEBSIDESTORY CODE HBX2.0 (Universal)-->
-<!--COPYRIGHT 1997-2005 WEBSIDESTORY,INC. ALL RIGHTS RESERVED. U.S.PATENT No. 6,393,479B1. MORE INFO:http://websidestory.com/privacy-->
-<script type="text/javascript">
-<!--
-var _hbEC=0,_hbE=new Array;function _hbEvent(a,b){b=_hbE[_hbEC++]=new Object();b._N=a;b._C=0;return b;}
-var hbx=_hbEvent("pv");hbx.vpc="HBX0200u";hbx.gn="ths.ten.com.au";
-//BEGIN EDITABLE SECTION
-//CONFIGURATION VARIABLES
-hbx.acct="DM5701082DDW;DM5701089FBR";//LOCAL,GLOBAL ACCOUNT NUMBERS
-  pn = GetHBX();
-  pn = pn.replace(/<[^>]+>/g, "");
-  pn = pn.replace(/^\//g, "");
-  pn = pn.replace(/&amp;/gi, "and");
-  pn = pn.replace(/\//gi, " - ");
-  pn = pn.replace(/rsquo;/gi,"");
-  pn = pn.replace(/lsquo;/gi,"");
-  pn = pn.replace(/&quot;/gi,"");
-  pn = pn.replace(/&acute;/gi,"");
-  pn = pn.replace(/'/gi,"");
-  pn = pn.replace(/;/gi,"");
-  pn = pn.replace(/\&/gi,"");
-  pn = pn.replace(/\?/gi,"");
-  pn = pn.replace(/\#/gi,"");
-  pn = pn.replace(/\nbsp/gi,"");
-hbx.pn=pn;
-hmlc = GetHBX();
-hbx.mlc= hmlc + "/landing;/TEN";
-hbx.pndef="title";//DEFAULT PAGE NAME
-hbx.ctdef="full";//DEFAULT CONTENT CATEGORY
-hbx.fv="";//FORM VALIDATION MINIMUM ELEMENTS OR SUBMIT FUNCTION NAME
-hbx.lt="auto";//LINK TRACKING
-hbx.dlf="n";//DOWNLOAD FILTER
-hbx.dft="n";//DOWNLOAD FILE NAMING
-hbx.elf="n";//EXIT LINK FILTER
-hbx.seg="";//VISITOR SEGMENTATION
-hbx.ci=getCookie('TI');//CUSTOMER ID
-hbx.hc1="";//CUSTOM 1
-hbx.hc2="";//CUSTOM 2
-hbx.hc3="";//CUSTOM 3
-hbx.hc4="";//CUSTOM 4
-hbx.hrf="";//CUSTOM REFERRER
-hbx.pec="";//ERROR CODES
--->
-</script>
-<script type="text/javascript" src="/hbx_analytics.js"></script>
-<script type="text/javascript" src="/hbxmedia.js"></script>
-<!--END WEBSIDESTORY CODE-->
 
 
 
