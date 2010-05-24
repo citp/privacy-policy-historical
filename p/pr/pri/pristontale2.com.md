@@ -1,0 +1,38 @@
+> *The following text is extracted and transformed from the pristontale2.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524143420id_/http%3A//www.gamerkraft.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+
+# GamerKraft - Home
+
+** PRIVACY POLICY FOR THE GAMERKRAFT WEBSITE AND GAME BRIDGER LTD.'s SERVERS**
+
+The following section describes the "Privacy Policy" governing the use of player information on GamerKraft ([www.gamerkraft.com](http://www.gamerkraft.com/)).
+
+All personal information, which is voluntarily given to "www.gamerkraft.com" or Game Bridger Entertainment LTD. will not be issued, sold or redistributed to a third party in any way. 
+
+Each player's computer establishes an active connection by utilizing a particular IP (Internet Protocol) address. This type of link to the servers may provide us with the following information: what part of the world the connection is linked to and the internet service provider of the player. The obtained information is only used for billing purposes by the website (
+
+[www.gamerkraft.com](http://www.gamerkraft.com/)).
+
+By involving yourself in any GamerKraft game titles or services, you acknowledge that you agree to these rules and will abide by them regardless of the circumstances. In addition, you also agree that these rules will apply to anyone that you allow to use your GamerKraft account or user ID, though we strongly advise against sharing your GamerKraft account as stated in the “GamerKraft Terms of Use”. By allowing another user to use your account, you are personally responsible for all the consequences (including termination of your account) which may result, if the above discussed person violates any of the GamerKraft rules at any time.
+
+Further, you acknowledge that if your account and right to use the GamerKraft service is terminated by Game Bridger Entertainment LTD. for any reason, you will not be entitled to a refund of any fees paid by you.
+
+Game Bridger LTD. reserves the right to change rules and/or add new rules at any time. Therefore, it is your responsibility to check the GamerKraft website from time to time to review any rule(s) alterations that Game Bridger Entertainment LTD. may have made.
+
+Lastly, you agree to read carefully the terms and conditions set forth in the “GamerKraft Terms of Use” as posted on the GamerKraft website.
+
+** ADSENSE PRIVACY POLICY**
+
+Below is information on what types of personal information we receive and collect when you use and visit http://www.gamerkraft.com, and how we safeguard your information. We never sell your personal information to third parties.
+
+**Log Files**  
+As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP, the browser you used to visit our site, the time you visited our site and which pages you visited throughout our site.
+
+**Cookies and Web Beacons**  
+We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+
+We also use third party advertisements at http://www.gamerkraft.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes or showing certain ads based on specific sites visited.
+
+**DoubleClick DART cookies**  
+We also may use DART cookies for ad serving through Google's DoubleClick, which places a cookie on your computer when you are browsing the web and visit a site using DoubleClick advertising (including some Google AdSense advertisements). This cookie is used to serve ads specific to you and your interests ("interest based targeting"). The ads served will be targeted based on your previous browsing history. DART uses "non personally identifiable information". It does NOT track personal information about you, such as your name, email address, physical address, telephone number, social security numbers, bank account numbers or credit card numbers. You can opt-out of this ad serving on all sites using this advertising by visiting http://www.doubleclick.com/privacy/dart_adserving.aspx You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
