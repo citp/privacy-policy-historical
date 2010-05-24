@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mypopkorn.com privacy policy that was archived on 2009-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090614162305id_/http%3A//www.mypopkorn.com/aboutus/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mypopkorn.com privacy policy that was archived on 2010-05-24.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100524031347id_/http%3A//www.mypopkorn.com/aboutus/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html><head>
 <title>myPOPKORN.com – Never miss a thing</title>
@@ -13,8 +13,8 @@
 <meta name="verify-v1" content="YLTwGe4ZFTpXqkmmklil+YK1PvzgG+D6K2XP3PfkYkg=">
 <link rel="alternate" type="application/rss+xml" href="http://www.mypopkorn.com/mrss/">
 <link rel="shortcut icon" href="/images/favicon.jpg">
-
 <link rel="stylesheet" type="text/css" href="http://www.mypopkorn.com/css/global.css" charset="utf-8">
+
 
 <script language="javascript">
 var var1="";
@@ -31,7 +31,7 @@ var player_path = "http://www.mypopkorn.com/player/play_all/";
 	</script>
 
 <script language="javascript" src="http://www.mypopkorn.com/javascripts/common.js"></script>
-<script language="javascript" src="http://www.mypopkorn.com/javascripts/jquery.js"></script>
+<script language="javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.0/jquery.min.js"></script>
 <script language="javascript" src="http://www.mypopkorn.com/javascripts/jquery.newsticker.js"></script>
 
 <script>
@@ -68,79 +68,46 @@ if (restore) selObj.selectedIndex=0;
 		$("#login_form").submit(function()
 		{
 			$("#msgbox").removeClass().addClass('messagebox').text('Validating....').fadeIn(1000);
-			if(document.getElementById('remember').checked) {				
-				$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#loginid').val(),loginpass:$('#loginpass').val(),remember:$('#remember').val(),campaign:$('#campaign').val() } ,function(data)
-				{					
-				  if(data!='false') {				 
-					$("#msgbox").fadeTo(200,0.1,function() { 
-					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
-					  function() { 
-						document.location=data;
-					  });
-					});
-				  } else {				  
-					$("#msgbox").fadeTo(200,0.1,function() {
-					  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
-					});		
-				  }
+			var	remember_me	= '';
+			if(document.getElementById('remember').checked)		remember_me	= 'yes';
+			$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#loginid').val(),loginpass:$('#loginpass').val(),remember:remember_me, campaign:$('#campaign').val() } ,function(data)
+			{
+			  if(data!='false') {
+				$("#msgbox").fadeTo(200,0.1,function() { 
+				  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
+				  function() { 
+					document.location=data;
+				  });
 				});
-			} else {
-				$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#loginid').val(),loginpass:$('#loginpass').val(),campaign:$('#campaign').val() } ,function(data)
-				{					
-				  if(data!='false') {				 
-					$("#msgbox").fadeTo(200,0.1,function() { 
-					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
-					  function() { 
-						document.location=data;
-					  });
-					});
-				  } else {				  
-					$("#msgbox").fadeTo(200,0.1,function() {
-					  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
-					});		
-				  }
+			  } else {
+				$("#msgbox").fadeTo(200,0.1,function() {
+				  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
 				});
-			}
-			
+			  }
+			});
 			return false;
 		});
 		$("#award_login_form").submit(function()
 		{
 			$("#award_msgbox").removeClass().addClass('messagebox').text('Validating....').fadeIn(1000);
-			if(document.getElementById('award_remember').checked) {				
-				$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#award_loginid').val(),loginpass:$('#award_loginpass').val(),award:$('#award').val(),remember:$('#award_remember').val(),campaign:$('#campaign').val() } ,function(data)
-				{					
-				  if(data!='false') {				 
-					$("#award_msgbox").fadeTo(200,0.1,function() { 
-					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
-					  function() { 
-						document.location=data;
-					  });
-					});
-				  } else {				  
-					$("#award_msgbox").fadeTo(200,0.1,function() {
-					  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
-					});		
-				  }
+			var	award_remember_me	= '';
+			if(document.getElementById('award_remember').checked)	award_remember_me	= 'yes';
+			$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#award_loginid').val(),loginpass:$('#award_loginpass').val(),award:$('#award').val(),remember:award_remember_me,campaign:$('#campaign').val(), redir:$('#redir').val() } ,function(data)
+			{
+			  if(data!='false') {
+				$("#award_msgbox").fadeTo(200,0.1,function() {
+				  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
+				  function() {
+					document.location=data;
+				  });
 				});
-			} else {
-				$.post("http://www.mypopkorn.com/services/ajaxrequest/login.html",{ loginid:$('#award_loginid').val(),loginpass:$('#award_loginpass').val(),award:$('#award').val(),campaign:$('#campaign').val() } ,function(data)
-				{					
-				  if(data!='false') {				 
-					$("#award_msgbox").fadeTo(200,0.1,function() { 
-					  $(this).html('Logging in.....').addClass('messageboxok').fadeTo(900,1,
-					  function() { 
-						document.location=data;
-					  });
-					});
-				  } else {				  
-					$("#award_msgbox").fadeTo(200,0.1,function() {
-					  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
-					});		
-				  }
-				});				
-			}
-			
+			  } else {
+				$("#award_msgbox").fadeTo(200,0.1,function() {
+				  $(this).html('Invalid Login ID or Password').addClass('messageboxerror').fadeTo(900,1);
+				});
+			  }
+			});
+
 			return false;
 		});
 		$("#password_form").submit(function()
@@ -219,30 +186,7 @@ _margin-top:-7px;
 </style>
 </head><body>
 <div id="wrapper" style="text-align:left; background:#FFF;">
-<div>
-<script language="JavaScript" type="text/javascript" src="http://www.mypopkorn.com/javascripts/s_code.js"></script>
-
-<script language="JavaScript" type="text/javascript"><!--
-s.pageName="aboutus:privacy"
-s.channel="aboutus"
-s.prop1="privacy"
-s.prop2=""
-s.prop4="miscellaneous"
-s.server="10139"
-s.prop12="anonymous"
-/* Conversion Variables */
-s.events=""
-/* Hierarchy Variables */
-s.hier1="miscellaneous|aboutus|privacy"
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><!--/DO NOT REMOVE/-->
-
-
-<script type="text/javascript" src="http://n.admagnet.net/panda/www/delivery/apu.php?n=&amp;zoneid=1838&amp;target=_blank&amp;cb=43657978&amp;popunder=1&amp;left=200&amp;top=200"></script>
-
-<style type="text/css">
+<div><style type="text/css">
 div.searchoption{padding:8px; border:solid 1px #CCCCCC; width:200px;margin-left:2px;position:absolute; background:#FFF;
  }
 div.suboption{margin-left:14px; margin-bottom:10px;}
@@ -274,6 +218,33 @@ function hideMenu(){
 			document.getElementById('loginpass').value='';
 		}
 </script>
+
+<div class="BannerAd">
+	<!--Iframe Tag  -->
+	<!-- begin ZEDO for channel:  Home , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+	<iframe src="http://d8.zedo.com/jsc/d8/ff2.html?n=871;c=11/1;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>
+	<!-- end ZEDO for channel:  Home , publisher: default , Ad Dimension: Super Banner - 728 x 90 -->
+</div>
+
+
+	<!-- Javascript tag  -->
+	<!-- begin ZEDO for channel:  Mypopkorn_UK_Popunder , publisher: MYPOPKORN , Ad Dimension: Pixel/Popup - 1 x 1 -->
+	<script language="JavaScript">
+	var zflag_nid="1185"; var zflag_cid="531/529/80"; var zflag_sid="164"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+	</script>
+	<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+	<!-- end ZEDO for channel:  Mypopkorn_UK_Popunder , publisher: MYPOPKORN , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
+
+<!-- Javascript tag  -->
+<!-- begin ZEDO for channel:  Home , publisher: default , Ad Dimension: Pixel/Popup - 1 x 1 -->
+<script language="JavaScript">
+var zflag_nid="871"; var zflag_cid="11/1"; var zflag_sid="0"; var zflag_width="1"; var zflag_height="1"; var zflag_sz="15"; 
+</script>
+<script language="JavaScript" src="http://d8.zedo.com/jsc/d8/fo.js"></script>
+<!-- end ZEDO for channel:  Home , publisher: default , Ad Dimension: Pixel/Popup - 1 x 1 -->
+
+
 <div id="header">
 		
 		<div class="logo">
@@ -348,7 +319,7 @@ function hideMenu(){
 				<div align="right"><a href="/search/frm_search.html" class="text10">Advanced Search</a>&nbsp;</div>					 
 				<div id="validate_error" align="right"></div>
 			</div>
-		   <div id="breadcrum_div" style="position:absolute; top:75px;width:400px;margin-left:400px;" align="right" class="textnormalSmall"><b>You are here</b>:  <span>Home </span> &gt;  Privacy policy&nbsp;</div>
+		   <div id="breadcrum_div" style="float: left;width:400px;margin-left:400px;" align="right" class="textnormalSmall"><b>You are here</b>:  <span>Home </span> &gt;  Privacy policy&nbsp;</div>
 		</div>		
 	
 </div>
@@ -369,7 +340,10 @@ function hideMenu(){
 			<div>
 				<a href="http://www.mypopkorn.com/greetingcards/browse.html" title="Send video greeting" class="festival_tab" onmouseover="this.className='festival_tab_hov'" onmouseout="this.className='festival_tab'">&nbsp;</a>
 			</div>
-			<div><a href="http://ad.in.doubleclick.net/clk;214224627;36081507;z?http://www.nokiantheatre.com/" target="_blank" class="nokia_tab">&nbsp;</a></div>		</div>
+			<div>
+				<a href="http://www.mypopkorn.com/movies/drama/panjaban-love-rules-hearts/" title="Panjaban Contest" class="award_tab">&nbsp;</a> 
+			</div>
+		</div>
 	</div>
 
 	<div class="tabcontainer_div">
@@ -380,14 +354,15 @@ function hideMenu(){
 			<div align="right">
 			<span class="tickerbox subMenulinks" style="margin-top: 0px; margin-right:10px;">
 				<ul id="tickerbox" class="tickerbox subMenulinks">
-					<li style="tickerbox subMenulinks;" class="tickerbox subMenulinks"><a href="/campaign/campaign.html" class="tickerbox">Upload Karo Kismat Badlo</a></li>
-		<li style="display: none;" class="tickerbox subMenulinks"><a href="http://www.mypopkorn.com/blogs/manasi-sose/guide-for-relaxation.html?readblog=ldtxndbwk" class="tickerbox">Read Manasi Sose's blog</a></li>				</ul>
+					<li style="color:red;" class="tickerbox subMenulinks"><a href="http://www.mypopkorn.com/creative-awards/2009/winners.html" class="tickerbox" title="Creative awards winners">Creative awards winners</a></li>				</ul>
 				</span>
 			<script>
 			$("#tickerbox").newsticker();
 			</script>
 		</div>
 	</div>
+
+
 
 
 		<script type="text/javascript">
@@ -519,13 +494,11 @@ Worli, Mumbai, State: Maharashtra Pin code: 400013 Country: India Website URL: <
 </div>
 <br><br>
 <div id="footer" align="left">
-	<div style="float:left; width:500px;">
+	<div style="float:left; width:550px;">
 		<a href="http://www.mypopkorn.com/aboutus/faq.html">FAQ</a> | <a href="http://www.mypopkorn.com/aboutus/disclaimer.html">Disclaimer</a> | <a href="http://www.mypopkorn.com/aboutus/terms.html">Terms</a> | <a href="http://www.mypopkorn.com/aboutus/privacy.html">Privacy Policy</a> | <a href="http://www.mypopkorn.com/aboutus/feedback.html">Feedback</a> | <a href="http://www.mypopkorn.com/aboutus/contactus.html">Contact Us</a> | <a href="http://www.mypopkorn.com/sitemap.html">Sitemap</a>&nbsp;&nbsp;<a href="http://www.mypopkorn.com/rss/" title="RSS feed"><img src="/images/rss.gif"></a> &nbsp;&nbsp;<a href="http://www.mypopkorn.com/mrss/" title="Media RSS feed"><img src="/images/xml.gif"></a><br><br>				
-		<span style="color:#959494;">Best viewed with a resolution of 1024x768, Microsoft Internet Explorer 7.0+, Firefox 3.0+</span>
+		<span style="color:#959494;">Best viewed with a resolution of 1024x768, Microsoft Internet Explorer 7.0+, Firefox 3.0+.</span>
 		<br><br>
-		<span style="color:#959494;">Copyright © 2009 myPOPKORN</span>
+		<span style="color:#959494;">Copyright © 2010 myPOPKORN</span>
 	</div>
-	<!-- <div style="float:left; width:468px;">
-		ad banner
-	</div> -->
-</div></div></body></html>
+</div>
+<!-- e4eedd388a8e2f6d26702de16fbd030e --></div></body></html>
