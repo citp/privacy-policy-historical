@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420023247id_/http%3A//www.freeflys.com/privacy.php%3Fpup%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeflys.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524021353id_/http%3A//www.freeflys.com/privacy) for the most accurate reproduction.*
 
 # FreeFly's - Privacy
 
 **PRIVACY POLICY**
+
+**Effective Date January 15, 2007**
 
 This policy discloses the privacy practices for FreeFlys. By visiting FreeFlys, you are accepting the practices described herein. Because FreeFlys wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and notify you of the following:
 
@@ -98,6 +100,6 @@ Redwood City Headquarters Tel: 650.364.3110 Fax: 650.364.3184
 
 Mailing Address FreeFlys 1450 Veterans Blvd. Redwood City, CA 94063
 
-If you are not in agreement with the terms of this Policy, please unsubscribe from the FreeFlys email list, please click here or write to us at FreeFlys, 1450 Veterans, Redwood City, CA 94063 and request to be removed.
+If you are not in agreement with the terms of this Policy, please unsubscribe from the FreeFlys email list, please [click here](http://www.freeflys.com/unsub.php) or write to us at FreeFlys, 1450 Veterans, Redwood City, CA 94063 and request to be removed.
 
-If you feel that FreeFlys is not abiding by its posted privacy policy, please click here or write us at FreeFlys, 1450 Veterans, Redwood City, CA 94063.
+If you feel that FreeFlys is not abiding by its posted privacy policy, write us at FreeFlys, 1450 Veterans, Redwood City, CA 94063.
