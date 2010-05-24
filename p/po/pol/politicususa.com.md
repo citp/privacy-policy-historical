@@ -1,35 +1,39 @@
-> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216085234id_/http%3A//www.politicususa.com/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the politicususa.com privacy policy that was archived on 2010-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100524023816id_/http%3A//www.politicususa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Politicususa.com
+# Privacy Policy | Politicususa
 
-Privacy Policy Statement
+f you require any more information or have any questions about our privacy policy, please feel free to contact us by email at politicususa@gmail.com.
 
-This is the web site of Politicususa.com
+At Politicususa, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by Progressive Nation and how it is used.  
+Log Files  
+Like many other Web sites, Politicususa makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We can be reached via e-mail at [thepoliticaluniverse@yahoo.com](mailto:thepoliticaluniverse@yahoo.com)
+Cookies and Web Beacons  
+Politicususa does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-For each visitor to our Web page, our Web server automatically recognizes no information regarding the domain or e-mail address.
+DoubleClick DART Cookie  
+.:: Google, as a third party vendor, uses cookies to serve ads on Politicususa.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to Politicususa and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
 
-We collect no information on consumers who browse our Web page.
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners may include ….  
+Google Adsense  
+Commission Junction  
+Widget Bucks  
+Adbrite  
+Clickbank  
+Azoogle  
+Chitika  
+Linkshare  
+Amazon  
+Kontera
 
-With respect to cookies: We do not set any cookies. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on Politicususa send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-**We will NEVER share or sell any account information.**
+Politicususa has no access to or control over these cookies that are used by third-party advertisers.
 
-Note about Google Adsense: 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Politicususa’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Google, as a third party vendor, uses cookies to serve ads on this site.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-
-Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy
-
-If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
-
-Bookmark/Search this post with: 
-
-**Technorati Tags:**[](http://technorati.com/tag/)
-
-## Trackback URL for this post:
-
-http://www.politicususa.com/en/trackback/6051
+[](http://twitter.com/politicususa)
