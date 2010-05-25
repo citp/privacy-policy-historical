@@ -1,66 +1,57 @@
-> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2007-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070630122827id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annualcreditreport.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525085504id_/https%3A//www.annualcreditreport.com/cra/helpprivacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
-
 |   
+---|---  
   
-* * *  
-  
-| 
+* * *
 
 **Safeguarding the privacy of your personal information, both online and offline, is an important priority for you and Central Source.**
 
-  
-
-
-  1. As a visitor to this website, Central Source gives you clear notice-
-
+  1. As a visitor to this website, Central Source gives you clear notice- 
     * when information is requested from you;
-
     * the types of information requested from you;
-
     * the general purposes for which that information will be used or disclosed;
-
     * the categories of users to whom the information is provided.
-
   2. Central Source uses safe and secure systems, physical and electronic, designed to safeguard the information about you.
 
 
 
+Central Source receives, processes and transmits requests for free credit reports or other services to the appropriate nationwide consumer credit reporting company(ies). 
 
-Central Source receives, processes and transmits requests for free credit reports or other services to the appropriate nationwide consumer credit reporting company(ies).
+To update or correct credit file data, you must contact the nationwide consumer credit reporting company providing the credit report or service. You will need to follow that company's applicable procedures. 
 
-To update or correct credit file data, you must contact the nationwide consumer credit reporting company providing the credit report or service. You will need to follow that company's applicable procedures.   
-  
----  
-  
-Details about Our Privacy Policy
+Details about Our Privacy Policy 
 
-  *   *   *   *   *   *   *   *   *   *   * 
-| 
+  * The Information Collected About You
+  * How Information Collected From You is Used
+  * Non-Personally Identifiable Information
+  * To Whom the Information Collected from You may be Disclosed
+  * Security and Confidentiality Note
+  * Awareness
+  * Use of Cookies Technology
+  * Children's Privacy
+  * Non-Applicability of Privacy Policy to Commercial Use
+  * Keeping Up-to-Date on our Privacy Policy Changes
+  * How to Contact Us with Questions or Comments
 
-The Information Collected About You  
   
----  
-  
+
+
+### The Information Collected About You
+
 Central Source online privacy policy applies only to your use of this site and to all information received online from you and about you in connection with an online transaction. The Central Source also may receive information from you about an online transaction if you send emails, contact the Central Source by phone or send a letter. Other than in the situations described below, no personally identifiable information from or about you is collected while you are accessing and using this website.
 
 Specifically, information is received from you when you request a free credit report or other services provided through this website. In order to verify your identity and provide the services on this site, when you request any free credit report or services online through Central Source, you will be asked to provide information.
 
-The specific information collected from you online for processing of your requests includes: 
+The specific information collected from you online for processing of your requests includes:
 
   * First and last name (middle initial and suffix, as applicable);
-
   * Social Security number;
-
   * Date of birth;
-
   * Current and former mailing address; and
-
   * Other information necessary or appropriate to process your request.
-
 
 
 
@@ -68,24 +59,18 @@ In addition, web log information is automatically gathered every time you visit 
 
 Each nationwide consumer credit reporting company from whom you request your free credit report may request additional information in order to authenticate your identity or otherwise process your request; that information is not shared with Central Source or the other nationwide consumer credit reporting companies. 
 
-You may also request free credit reports by mail or telephone as described on the Central Source website. The decision to request credit reports online or by mail or telephone is completely up to you.   
-  
-Return to Top  
-  
-How Information Collected From You is Used  
-  
-We use the information we collect about you in connection with your requesting free credit reports or other services by providing it to the nationwide consumer credit reporting company(ies) you select to provide the free credit report or other service you requested. Non-personally identifying information is also used in connection with monitoring, maintaining and improving this website, as well as other services that are necessary or incident to fulfilling your request. (See the section entitled "Use of Cookies Technology" below for more information.)   
-  
-Return to Top  
-  
-Non-Personally Identifiable Information  
-  
-Our website utilizes technologies to compile aggregated statistics about the effectiveness of our site, common navigation paths within the site, types of browsers and platforms that access the site and the average connection speeds used to connect to the site. This aggregated information is used to develop enhancements to the online experience of our users. These technologies do not collect or use personally identifiable information, such as names or address, and do not associate any online actions with an identifiable person.   
-  
-Return to Top  
-  
-To Whom the Information Collected from You may be Disclosed  
-  
+You may also request free credit reports by mail or telephone as described on the Central Source website. The decision to request credit reports online or by mail or telephone is completely up to you.
+
+### How Information Collected From You is Used
+
+We use the information we collect about you in connection with your requesting free credit reports or other services by providing it to the nationwide consumer credit reporting company(ies) you select to provide the free credit report or other service you requested. Non-personally identifying information is also used in connection with monitoring, maintaining and improving this website, as well as other services that are necessary or incident to fulfilling your request. (See the section entitled "Use of Cookies Technology" below for more information.)
+
+### Non-Personally Identifiable Information
+
+Our website utilizes technologies to compile aggregated statistics about the effectiveness of our site, common navigation paths within the site, types of browsers and platforms that access the site and the average connection speeds used to connect to the site. This aggregated information is used to develop enhancements to the online experience of our users. These technologies do not collect or use personally identifiable information, such as names or address, and do not associate any online actions with an identifiable person.
+
+### To Whom the Information Collected from You may be Disclosed
+
 Any of the information collected from or about you, as described above, may be disclosed to any of the nationwide consumer reporting companies.
 
 Central Source, or the nationwide consumer credit reporting companies, may also disclose any of the information collected, as described above, to affiliates of nationwide consumer credit reporting companies, which are companies that are related to one of them by common ownership or affiliated with one of them by common control, or to the associated consumer reporting companies who utilize a nationwide consumer reporting company system and that may have information about you.
@@ -94,44 +79,34 @@ The information collected, as described above, may also be received by third par
 
 Each third party receiving this information is either required to (i) abide by the restrictions in this privacy policy and is not permitted to use or disclose the information for any purpose other than as described in this policy, or (ii) receive and use the information in compliance with the Fair Credit Reporting Act, Fair and Accurate Credit Transaction Act of 2003, Gramm-Leach-Bliley Act and other regulatory and legal requirements.
 
-Any of the information collected may also be disclosed in response to valid legal process, including but not limited to a lawfully issued subpoena, search warrant, regulatory investigation or inquiry, or court order.   
-  
-Return to Top  
-  
-Security and Confidentiality Note  
-  
+Any of the information collected may also be disclosed in response to valid legal process, including but not limited to a lawfully issued subpoena, search warrant, regulatory investigation or inquiry, or court order.
+
+### Security and Confidentiality Note
+
 The Annual Credit Report Request Service recognizes the importance of secure online transactions, and takes steps to safeguard the privacy of information you provide through online forms. When you request free credit reports online, programs encrypt the information you provide on the request form before transmitting it to the selected nationwide consumer credit reporting company(ies). This information is decrypted only upon receipt by the selected nationwide consumer credit reporting company(ies). Physical, electronic, and procedural safeguards designed to guard your personally identifiable information are maintained.
 
-Further, this site’s security protocols and measures are designed to protect your personally identifiable information from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain information.   
-  
-Return to Top  
-  
-Awareness  
-  
+Further, this site’s security protocols and measures are designed to protect your personally identifiable information from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain information.
+
+### Awareness
+
 Central Source takes reasonable precautions to be sure that all to whom information is disclosed, as described above, are aware of this privacy policy and fair information principles and that they will treat the personally identifiable information in a similarly responsible manner.
 
-Central Source is not, however, responsible for the privacy practices or content of the nationwide consumer credit reporting companies, or other linked sites listed on annualcreditreport.com web pages, if any. The owners of these linked sites are responsible for them.   
-  
-Return to Top  
-  
-Use of Cookies Technology  
-  
-**What is a Cookie?**
+Central Source is not, however, responsible for the privacy practices or content of the nationwide consumer credit reporting companies, or other linked sites listed on annualcreditreport.com web pages, if any. The owners of these linked sites are responsible for them.
+
+### Use of Cookies Technology
+
+ **What is a Cookie?**
 
 A cookie is a piece of text information that a web server may transfer to your web browser when you visit this website. Cookies are commonly used by websites to improve your experience and to enable systems to recognize your browser. Only the information that you provide, or the choices you make while visiting a website, can be stored in a cookie. For example, the site cannot determine your email name unless you choose to type it. Allowing a website to create a cookie does not give that or any other site access to the rest of your computer and only the site that created the cookie can interpret it. 
 
 **How are cookies used on this website?**
 
-Cookies must be enabled to access your credit reports from the nationwide consumer credit reporting companies through this website. 
-
+Cookies must be enabled to access your credit reports from the nationwide consumer credit reporting companies through this website.  
 This website uses cookie technology for the following purposes: 
 
   * To allow you to request a free credit report from more than one nationwide consumer credit reporting company during a visit without your having to re-enter your information each time you request a free credit report from a nationwide consumer credit reporting company;
-
   * To allow us to gather aggregated statistical data about the use of this website for management and development purposes; and 
-
   * To help improve your navigation of this website 
-
 
 
 
@@ -139,32 +114,25 @@ These cookies will only collect information during your online activity at this 
 
 **How can I accept cookies?**
 
-You can decide if and how your computer will accept a cookie by establishing your preferences in your web browser. Internet Explorer is set up to allow the creation of cookies; however, you can specify that you be prompted before a site puts a cookie on your hard disk. **Cookies must be enabled to access your credit reports from the nationwide consumer credit reporting companies through this website**.   
-  
-Return to Top  
-  
-Children's Privacy  
-  
-The Central Source website where personally identifiable information in conjunction with requests for free credit reports is collected is not intended for use by children under 13 years of age. Central Source complies with The Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children under 13 years of age. For legal and security reasons additional information will be collected to authenticate the validity of requests for free credit reports for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I request a credit report by mail for a child under 13 years of age?](https://web.archive.org/web/20070630122827id_/https%3A//www.annualcreditreport.com/cra/helpfaq#reqchild)  
-  
-Return to Top  
-  
-Non-Applicability of Privacy Policy to Commercial Use  
-  
-This online privacy policy applies to individuals using the free credit report for personal, family or household purposes. Certain practices described and rights provided herein may not apply to individuals who use the products or services for commercial purposes.   
-  
-Return to Top  
-  
-Keeping Up-to-Date on our Privacy Policy Changes  
-  
-Central Source wants you to be fully informed about how it will protect your privacy. Central Source may change its privacy policy in the future, but it will not change its practices until they have been posted at this website. If changes occur, the date of revision will also be shown. You agree that we may notify you of changes in our policy through this website.   
-  
-Return to Top  
-  
-How to Contact Us with Questions or Comments  
-  
-If you have questions or comments about Central Source's online privacy policy and fair information practices, please write to Chief Privacy Officer, Central Source LLC, P.O. Box 105283, Atlanta, GA 30348-5283. If you have specific questions about your credit file, you should contact the nationwide consumer credit reporting company directly using the contact information provided with your credit report.   
-  
-Return to Top  
-  
+You can decide if and how your computer will accept a cookie by establishing your preferences in your web browser. Internet Explorer is set up to allow the creation of cookies; however, you can specify that you be prompted before a site puts a cookie on your hard disk. **Cookies must be enabled to access your credit reports from the nationwide consumer credit reporting companies through this website**. 
+
+### Children's Privacy
+
+The Central Source website where personally identifiable information in conjunction with requests for free credit reports is collected is not intended for use by children under 13 years of age. Central Source complies with The Children's Online Privacy Protection Act and does not knowingly solicit or collect information from children under 13 years of age. For legal and security reasons additional information will be collected to authenticate the validity of requests for free credit reports for children under 13 years of age. For this reason such requests must be made through the mail. Please refer to the FAQ [How do I request a credit report by mail for a child under 13 years of age?](https://web.archive.org/web/20100525085504id_/https%3A//www.annualcreditreport.com/cra/helpfaq#reqchild)
+
+### Non-Applicability of Privacy Policy to Commercial Use
+
+This online privacy policy applies to individuals using the free credit report for personal, family or household purposes. Certain practices described and rights provided herein may not apply to individuals who use the products or services for commercial purposes.
+
+### Keeping Up-to-Date on our Privacy Policy Changes
+
+Central Source wants you to be fully informed about how it will protect your privacy. Central Source may change its privacy policy in the future, but it will not change its practices until they have been posted at this website. If changes occur, the date of revision will also be shown. You agree that we may notify you of changes in our policy through this website.
+
+### How to Contact Us with Questions or Comments
+
+If you have questions or comments about Central Source's online privacy policy and fair information practices, please write to Chief Privacy Officer, Central Source LLC, P.O. Box 105283, Atlanta, GA 30348-5283. If you have specific questions about your credit file, you should contact the nationwide consumer credit reporting company directly using the contact information provided with your credit report.
+
 Last Updated November 15, 2006
+
+  
+© 2010 Central Source LLC 
