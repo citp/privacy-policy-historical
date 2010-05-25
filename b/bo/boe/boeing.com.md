@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the boeing.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031140id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boeing.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525221350id_/http%3A//www.boeing.com/companyoffices/aboutus/privacy.html) for the most accurate reproduction.*
 
 # Boeing: General Privacy Policy
-
-Boeing.com - General Privacy Policy 
 
 Thank you for reviewing the Privacy Policy for Boeing.com, your web portal into The Boeing Company ("Boeing"). Boeing is sensitive to the issue of confidentiality in online dealings and is committed to protecting individual privacy. This Privacy Policy is intended to inform users about the general approach Boeing uses in collecting, using and disseminating user information via Boeing.com.
 
