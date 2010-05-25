@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123193628id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blueridgenow.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525225701id_/http%3A//www.blueridgenow.com/privacypolicy) for the most accurate reproduction.*
 
-# PRIVACYPOLICY | BlueRidgeNow.com | BlueRidgeNow
+# privacypolicy | BlueRidgeNow.com | BlueRidgeNow
 
 This Privacy Policy discloses the privacy practices for BlueRidgeNow newspaper and BlueRidgeNow.com (the “Site”). For the purposes of this Privacy Policy, unless otherwise noted, all references to “BlueRidgeNow” include BlueRidgeNow.com and BlueRidgeNow newspaper. BlueRidgeNow is part of The New York Times Regional Media Group (“NYTRMG”) – a division of The New York Times Company.
 
