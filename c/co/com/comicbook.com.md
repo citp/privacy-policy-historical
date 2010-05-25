@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224215144id_/http%3A//comicbook.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comicbook.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525232400id_/http%3A//comicbook.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Comicbook.com Blog
+# Comicbook.com — Blog
 
 **COMICBOOK.COM, LLC** **Website Privacy Statement**
 
@@ -12,30 +12,29 @@ Comicbook.com, LLC is committed to protecting your privacy. This Privacy Stateme
 
 **2\. Participating Merchant Policies**
 
-Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Comicbook.com, LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
+Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Comicbook.com, LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "Google"). 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html "Google").
 
 * Google, as a third party vendor, uses cookies to serve ads on Comicbook.com.  
 * Google’s use of the DART cookie enables it to serve ads to your users based on their visit to Comicbook.com and other sites on the Internet.  
-* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google").  
+* Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html "Google").
 
-
-**3. Information We Collect and How We Use It**
+**3\. Information We Collect and How We Use It**
 
 Comicbook.com, LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies.
 
-**a. ****Web Server Logs**.
+**a.** **Web Server Logs**.
 
-When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include: 
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-  * Your Internet protocol address. 
-  * The kind of browser or computer you use. 
-  * Number of links you click within the site. 
-  * State or country from which you accessed the site. 
-  * Date and time of your visit. 
-  * Name of your Internet service provider. 
-  * Web page you linked to our site from. 
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
   * Pages you viewed on the site.
 
 
@@ -64,7 +63,7 @@ We will not disclose personally identifiable information we collect from you to 
 
 § In connection with a merger, acquisition, or liquidation of the company.
 
-**4. Use of Web Beacons or GIF files**
+**4\. Use of Web Beacons or GIF files**
 
 Comicbook.com, LLC/Comicbook.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Comicbook.com, LLC to count users who have visited those pages and to deliver co-branded services. Comicbook.com, LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
@@ -74,10 +73,10 @@ Some of these Web beacons may be placed by third party service providers to help
 
 We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant –privacy@comicbook.com.
 
-**6. Changes to this Statement**
+**6\. Changes to this Statement**
 
 Comicbook.com, LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates.
 
 **7\. Contacting Us**
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacy@comicbook.com.
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at privacy@comicbook.com
