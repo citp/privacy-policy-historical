@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023049id_/http%3A//www.transfermarkt.co.uk/en/intern/information/nutzungsbedingungen/default/menue_internes/datenschutz.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the transfermarkt.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525104005id_/http%3A//www.transfermarkt.co.uk/en/information/datenschutz/intern.html) for the most accurate reproduction.*
 
-# transfermarkt.co.uk
+# Intern - Data protection - transfermarkt.co.uk
 
-**Data protection statement**
+## Data protection statement
 
 **1\. Data processing on Transfermarkt's Internet pages**  
 The security and protection of data is of special concern to Transfermarkt. Transfermarkt is committed to compliance with the legal provisions for data protection, in particular the German Federal Data Protection Act [Bundesdatenschutzgesetz] (BDSG) and the German Law on Data Protection for Teleservices [Gesetz über den Datenschutz bei Teledienstleistungen] (TDDSG). Transfermarkt uses special encryption techniques to protect your personal data. Transfermarkt collects, processes, and uses the personal data you provide in strict compliance with the data protection provisions in force and only for the purpose, for as long as, and to the extent required. Transfermarkt uses this data solely to enable you to use the Transfermarkt services for which registration is required and to inform you of Transfermarkt’s new products and services. No other purpose is connected with such use. 
