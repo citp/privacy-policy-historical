@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the pwnyoutube.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525031805id_/http%3A//deturl.com/privacy.asp) for the most accurate reproduction.*
+
+# 
+
+
+    This Privacy Policy applies to all of the products, services and websites offered by Deturl.com; collectively, Deturl.com’s “services.” In addition, where more detailed information is needed to explain our privacy practices, we post supplementary privacy notices to describe how particular services process personal information. 
+    
+    We offer a number of services that do not require you to register for an account or provide any personal information to us, such as Deturl.com Search. In order to provide our full range of services, we may collect the following types of information:
+    
+        * Information you provide – When you sign up for a Deturl.com Account or other Deturl.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). For certain services we also request payment account information. We may combine the information you submit under your account with information from other Deturl.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
+        * Cookies – When you visit Deturl.com, we send one or more cookies – a small file containing a string of characters – to your computer or other device that uniquely identifies your browser. We use cookies to improve the quality of our service, including for storing user preferences, improving search results and ad selection, and tracking user trends, such as how people search.
+        * Log information – When you access Deturl.com services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser.
+        * User communications – When you send email or other communications to Deturl.com, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+        * Affiliated Deturl.com Services on other sites – We offer some of our services on or through other web sites. Personal information that you provide to those sites may be sent to Deturl.com in order to deliver the service. We process such information under this Privacy Policy. The affiliated sites through which our services are offered may have different privacy practices and we encourage you to read their privacy policies.
+        * Links – Deturl.com may present links in a format that enables us to keep track of whether these links have been followed. We use this information to improve the quality of our search technology, customized content and advertising. Read more information about links and redirected URLs.
+        * Other sites – This Privacy Policy applies to Deturl.com services only. We do not exercise control over the sites displayed as search results, sites that include Deturl.com applications, products or services, or links from within our various services. These other sites may place their own cookies or other files on your computer, collect data or solicit personal information from you. 
+    
+    Deturl.com only processes personal information for the purposes described in this Privacy Policy and/or the supplementary privacy notices for specific services. In addition to the above, such purposes include:
+    
+        * Providing our services, including the display of customized content and advertising;
+        * Auditing, research and analysis in order to maintain, protect and improve our services;
+        * Ensuring the technical functioning of our network;
+        * Protecting the rights or property of Deturl.com or our users; and
+        * Developing new services. 
+    
+    Choices for personal information
+    
+    Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Deturl.com features and services may not function properly if your cookies are disabled.
+    
+    You can decline to submit personal information to any of our services, in which case Deturl.com may not be able to provide those services to you.
+    
+    Information sharing
+    
+    Deturl.com only shares personal information with other companies or individuals outside of Deturl.com in the following limited circumstances:
+    
+        * We have your consent. We require opt-in consent for the sharing of any sensitive personal information.
+        * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Privacy Policy and any other appropriate confidentiality and security measures.
+        * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable Terms of Service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property or safety of Deturl.com, its users or the public as required or permitted by law. 
+    
+    If Deturl.com becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will ensure the confidentiality of any personal information involved in such transactions and provide notice before personal information is transferred and becomes subject to a different privacy policy.
+    
+    We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+    
+    Please contact us at the address below for any additional questions about the management or use of personal data.
+    
+    Information security
+    
+    We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. These include internal reviews of our data collection, storage and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
+    
+    We restrict access to personal information to Deturl.com employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+    Data integrity
+    
+    Deturl.com processes personal information only for the purposes for which it was collected and in accordance with this Privacy Policy or any applicable service-specific privacy notice. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our services or as otherwise permitted under this Policy. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+    
+    Changes to this Privacy Policy
+    
+    Please note that this Privacy Policy may change from time to time without notice.
+    
