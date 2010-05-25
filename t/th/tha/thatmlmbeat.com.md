@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123221648id_/http%3A//www.thatmlmbeat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatmlmbeat.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525211551id_/http%3A//thatmlmbeat.com/privacy-policy) for the most accurate reproduction.*
 
-# MLM Blogging with thatMLMbeats' MLM Blog Network — Blog
+# Privacy Policy | thatMLMbeat | MLM Success Blog
 
 **PRIVACY POLICY**
 
 Last Updated: August 3, 2009
 
-http://thatMLMbeat.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.”
+http://thatMLMbeat.com strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period."
 
 **How we gather information from users**
 
