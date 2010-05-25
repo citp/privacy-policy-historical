@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124090646id_/http%3A//www.infodriveindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infodriveindia.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525210933id_/http%3A//www.infodriveindia.com/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # InfodriveIndia.Com - Privacy Policy
+
+ 
 
 > Online Privacy is a constantly evolving landscape and InfodriveIndia plans to take all reasonable efforts to maintain up to date and effective online privacy standards and practices. We have linked every page of our web site to this page for your convenience and you may also contact us at webmaster@InfodriveIndia.com with any questions or concerns that you may have.
 > 
