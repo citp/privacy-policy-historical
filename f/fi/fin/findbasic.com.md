@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the findbasic.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123221538id_/http%3A//www.findbasic.com%3Ftmp%3Dfindbasic_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findbasic.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525232804id_/http%3A//www.findbasic.com%3Ftmp%3Dfindbasic_privacy) for the most accurate reproduction.*
 
 # FindBasic - Privacy Policy
 
