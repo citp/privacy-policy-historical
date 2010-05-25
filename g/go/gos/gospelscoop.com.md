@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gospelscoop.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123194904id_/http%3A//www.gospelscoop.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gospelscoop.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525234547id_/http%3A//www.gospelscoop.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GospelScoop Christian Social Bookmarking
 
