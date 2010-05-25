@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123223917id_/http%3A//www.exploritas.org/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadscholar.org privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526004358id_/http%3A//www.exploritas.org/about/privacy.asp) for the most accurate reproduction.*
 
 # Exploritas : Privacy Policy
 
