@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danweem.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122205817id_/http%3A//www.danweem.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danweem.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525073311id_/http%3A//www.danweem.com/privacy_policy.html) for the most accurate reproduction.*
 
 # privacy policy
 
