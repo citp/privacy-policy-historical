@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the dexplatform.com privacy policy that was archived on 2009-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091010221138id_/http%3A//dexplatform.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dexplatform.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525113924id_/http%3A//marketplace.dexplatform.com/privacypolicy.php) for the most accurate reproduction.*
 
-# DEX Platform . Publisher login
-
-| Privacy Policy
+# dexADMaketplace Privacy Policy
 
 THE DEXPlatform PRIVACY POLICY MAY CHANGE FROM TIME TO TIME.   
 PLEASE CHECK BACK FREQUENTLY FOR UPDATES.
@@ -52,21 +50,4 @@ Please read the privacy policy of particular Publishers to understand how your P
 
 More Information.
 
-DEXPlatform reserves the right to update this Policy at any time by re-publishing it to this Website with a new effective date. The current policy has an effective as of July 27, 2009 (v1.7). If you have questions about this Policy, please contact us at abuse@dexplatform.com
-
-| 
-
-Select network where you will create  
-your publisher account on DEX Platform.
-
-Create new account
-
-Select network where you will login  
-into your publisher's account.  
-
-
-Login to account
-
-  
-  
----|---
+DEXPlatform reserves the right to update this Policy at any time by re-publishing it to this Website with a new effective date. The current policy has an effective as of July 27, 2009 (v1.7). If you have questions about this Policy, please contact us at abuse [at] dexplatform.com
