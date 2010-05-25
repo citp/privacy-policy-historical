@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the towerdata.com privacy policy that was archived on 2009-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123204724id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the towerdata.com privacy policy that was archived on 2010-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525112215id_/http%3A//www.towerdata.com/company/privacy_policy.html) for the most accurate reproduction.-->
 
 <html><head>
 
@@ -43,6 +43,12 @@ urchinTracker("/company/privacy_policy.html");
 <script language="javascript" type="text/javascript">
         BW_menuInit('tmenu','tmenu_%','tmenu_%_over','/images/tmenu_%-over.gif','home','contact_us','site_map','client_login');
 </script>
+<!-- include this on all pages for capturing Search Engine info -->
+<script type="text/javascript">
+    var domain	=	"towerdata.com";
+    var imptest	=	false;
+</script> 
+<script type="text/javascript" src="/js/se_cookies.js"></script>
 </head>
 <body>
 
@@ -113,14 +119,14 @@ Web: www.towerdata.com </td>
     <td>
       <table width="740" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-		  <td width="278"><img src="/images/section_headers/f1/left.jpg" width="278" height="129"></td>
+		  <td width="278"><img src="/images/section_headers/m1/left.jpg" width="278" height="129"></td>
        
        
 		  <td width="462">
        
          <!-- customer feedback -->
          <div class="header_right_text">
-           TowerData is a trusted technology and marketing solutions provider to companies worldwide.
+           TowerData provides quality data, fast turnaround, superior match rates, and extreme accuracy.
            <br><br>
            <i><span class="quoteBy"></span></i>
          </div>	   
@@ -133,8 +139,8 @@ Web: www.towerdata.com </td>
     <td>
       <table width="740" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="147" height="20"><img src="/images/section_headers/f1/left_bot.gif" width="147" height="20"></td>
-          <td width="593" background="/images/section_headers/f1/bread.gif" class="toplinks2">&nbsp;&nbsp;
+          <td width="147" height="20"><img src="/images/section_headers/m1/left_bot.gif" width="147" height="20"></td>
+          <td width="593" background="/images/section_headers/m1/bread.gif" class="toplinks2">&nbsp;&nbsp;
 
           &nbsp;<a href="/">Home</a>&nbsp;&gt;&nbsp;<a href="/company/overview.html">About Us</a>&nbsp;&gt;&nbsp;<strong>Privacy Policy</strong>
 
@@ -328,7 +334,15 @@ Privacy Policy
     <td>&nbsp;</td>
   </tr>
   <tr>
-    <td height="20" class="footer" align="left">&nbsp;&nbsp;Copyright 2001-2008, TowerData, Inc. All rights reserved.</td>
+    <td height="20" class="footer" align="left">&nbsp;&nbsp;Copyright 2001-<script language="javascript"> 
+  var date = new Date(); 
+  var year = date.getYear(); 
+  if (year < 1000)
+  {
+    year += 1900;
+  }
+  document.write(year);
+</script>2020, TowerData, Inc. All rights reserved.</td>
     <td>&nbsp;</td>
   </tr>
 </tbody></table>
