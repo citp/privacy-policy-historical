@@ -1,49 +1,62 @@
-> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2009-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091018070131id_/http%3A//www.factiva.com/legal/privacy.asp%3Fnode%3DmenuElem1173) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factiva.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526003354id_/http%3A//www.dowjones.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Factiva Privacy Policy
+# Privacy Policy - Dow Jones
 
-Factiva's commitment to maintaining your privacy
+**General:**
 
-At Factiva we take your privacy seriously and we are committed to protecting the personal information that you choose to share with us either through www.Factiva.com or otherwise through any of the Factiva services. We understand the importance of maintaining your trust and confidence in Factiva and we shall ensure that the personal information you submit to us through [www.factiva.com](http://www.factiva.com/) remains private and is used only as set out in this policy. 
+Dow Jones & Company, Inc. and its affiliates (hereafter referred to collectively as "Dow Jones") are committed to maintaining the privacy of personal information that you provide to us when using [www.dowjones.com](http://www.dowjones.com/). This Privacy Policy describes how we treat personal information received about you when you visit [www.dowjones.com](http://www.dowjones.com/).
 
-Factiva Products and Services
+**Links to other Web sites:**
 
-This page describes Factiva’s general commitment to privacy and specifically to information you submit through this website. If you subscribe to any Factiva services, your personal information may also be gathered during registration for, or use of, such Factiva services. Personal information you submit via Factiva services will be used subject to the specific policy displayed within each service. 
+When you visit [www.dowjones.com](http://www.dowjones.com/), you are visiting our corporate Web site, which links to several of our other Web sites and the Web sites of unaffiliated companies. These other Web sites are not subject to this Privacy Policy. We recommend that you review the privacy policy at each such Web site to determine how that site protects your privacy.
 
-Information gathered through this Web site
+**Information we collect:**
 
-In sections of this site, you have the chance to provide to us personal identifying information such as your name, email address, telephone number etc. This personal information will be used solely for the purposes explained to you when you provide it. 
+**General:** When you register for e-Mail News Alerts at [www.dowjones.com](http://www.dowjones.com/), we will collect personally identifiable information from you that may include your name, age, address, e-mail address, credit-card number and facts about your computers, profession, investing habits and similar information. We do not, however, knowingly collect personal information from children under the age of thirteen.
 
-Factiva may also use your information collectively, such as to measure what area users visit most frequently and what information users access the most. We use this data anonymously in connection with the design of our website. This information also helps us determine what is most beneficial for our users and how we can continually create a better overall service for you. This aggregate information is never used so that individual users can be personally identified and it does not involve the transfer of any personal data we hold about you. 
+**Web Site Usage Information:** We may automatically collect IP addresses and Web site usage information. This information helps us evaluate how our visitors use and navigate our Web site, including the number and frequency of visitors to each Web page, and the length of their visits.
 
-Marketing of other Factiva Services
+**How we use information collected:**
 
-If you give us permission, we may use your personal information to make you aware of additional Factiva services that may be of interest to you. We may also ask you for other additional information, to be provided at your discretion, in an effort to deliver to you the best possible service experience. Factiva provides you with the opportunity to opt-in to these types of communications. If you choose to receive these types of communications at the time of registration, but later decide you no longer want to receive them, simply email us at [remove@factiva.com](mailto:remove@factiva.com) or contact us at the address below. 
+We may use information in the following ways:
 
-Storage of your Personal Information by Factiva
+  * For the purposes for which you specifically provided the information including, for example, to enable us to process, validate and verify your requests.
+  * To send you e-mail notifications about our new or existing products and services, special offers, or to otherwise contact you.
+  * To enhance existing features or develop new features, products and services.
+  * To allow us to personalize the content that you and others see based on personal characteristics or preferences.
 
-The personal information that you provide to Factiva is held on our secure servers. This information will be shared within the Factiva group of companies only. Except as described above, we will not knowingly disclose any of this personal data to outside parties save when you expressly consent or we believe the law requires it. 
 
-Updating Account Information
 
-You have the right to ask Factiva for a copy of the personal information that we hold about you. This information shall be provided on payment of an administration fee. To do this you can write to us at the appropriate address specified below. If you wish to update the personal information that we hold about you please contact us at the address set out below or through this web site. 
+We may combine the information that we collect from you on [www.dowjones.com](http://www.dowjones.com/) with information that you provide to us in connection with your use of our other products, services and Web sites. We may hire other companies to perform services on our behalf including, without limitation, facilitating some aspects of our services, sending e-mail, and fulfilling purchase requests. These other companies may be supplied with or have access to your personally identifiable information solely for the purpose of providing these services to us or on our behalf. 
 
-Cookies 
+We may disclose and use personally identifiable information in special circumstances where it is necessary to enforce our rights (for example, when necessary to protect our intellectual property rights). We may also disclose or use your personal information when we, in good faith, believe that the law requires us to do so.
 
-To enhance your experience of this site, we use a feature on your internet browser called a "cookie". Cookies are small files that your web browser places on your computer's hard drive. Because of our use of cookies, we can deliver faster service, update results, and provide a more personalised site experience. In order for the site to work best you should not set up your browser to reject cookies. 
+**Your ability to choose:**
 
-Feedback
+You may elect to subscribe or unsubscribe to e-Mail News Alerts by clicking here.
 
-Factiva provides, within some services, various opportunities for you to submit feedback. Any feedback that is submitted becomes the property of Factiva. We may use this feedback, such as success stories, for marketing purposes, or to contact you for further information. 
+**Cookies:**
 
-Privacy Commitment Changes 
+We currently do not use cookies in the operation of [www.dowjones.com](http://www.dowjones.com/).
 
-If Factiva decides to change its privacy policy, we will post those changes here so that you will always know what information we gather and how we might use that information. If, at any time, you have questions or concerns about Factiva's privacy commitment, please feel free to contact us either through this website or at the address below. 
+**Security:**
 
-Who is Factiva?
+The personally identifiable information we collect from you on this Web site is stored in limited-access servers. We will maintain safeguards to protect the security of these servers and your personally identifiable information.
 
-Factiva is an international group of companies and you should be aware that your data may be transferred to Factiva entities in countries outside your own. Not all such countries have personal data protection laws but Factiva imposes its privacy policy on all its group companies. 
+**Policy modifications:**
 
-Users based in the United States will be supplying their personal information to Factiva, Inc. Users outside of these territories will be supplying their personal information to Factiva Limited of 6th Floor, Commodity Quay, East Smithfield, London E1 9UN. (Both companies trade as “Factiva”). 
+When we make any material change to this Privacy Policy, we will inform you by posting a notice on the main page of this site that the policy has been updated and by changing the date on this page noting when the policy was last updated.
 
-_*Factiva is a trademark of of Dow Jones & Company Inc. _
+**Transfer to U.S. or other countries:**
+
+Your information may be stored and processed in the United States or any other country where Dow Jones has facilities, and by subscribing to our services, you consent to the transfer of information outside of your country.
+
+**Comments and questions:**
+
+If you have any questions, comments or concerns about our Privacy Policy, you may contact us by  
+e-mail at [djcom@dowjones.com](mailto:%20djcom@dowjones.com).  
+
+
+**More information:**
+
+[ Dow Jones Product Privacy Policy](http://djlogin.dowjones.com/privacypolicy/privacypolicy_en.html)
