@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the roadscholar.org privacy policy that was archived on 2009-11-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091123223917id_/http%3A//www.exploritas.org/about/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roadscholar.org privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526004358id_/http%3A//www.exploritas.org/about/privacy.asp) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
 
@@ -171,7 +171,7 @@ popupWin = window.open(url,name,'toolbar=0,scrollbars=1,location=0,statusbar=0,m
 -->
 </style>
 
-<!--Stas. FadeIn/FadeOut popup -->
+<!--FadeIn/FadeOut popup (GreyBox) -->
 
 <script type="text/javascript">
 	var GB_ROOT_DIR = "/web_common/utility/jsredirect/";
@@ -182,7 +182,7 @@ popupWin = window.open(url,name,'toolbar=0,scrollbars=1,location=0,statusbar=0,m
 <script type="text/javascript" src="/web_common/utility/jsredirect/gb_scripts.js"></script>
 <link href="/web_common/utility/jsredirect/gb_styles.css" rel="stylesheet" type="text/css">
 
-<!--Stas. New calendar includes -->
+<!--Calendar  -->
 
 <link rel="STYLESHEET" type="text/css" href="../calendar/dhtmlxcalendar.css">
 <script>
@@ -191,37 +191,90 @@ popupWin = window.open(url,name,'toolbar=0,scrollbars=1,location=0,statusbar=0,m
 <script src="../calendar/dhtmlxcommon.js"></script>
 <script src="../calendar/dhtmlxcalendar.js"></script>
 
-<script>
-	var cal1, cal2
-	
-	var dateFrom = null;
-	var dateTo = null;
-	
-	window.onload = function () {
-		
-		if (document.getElementById('StartDate') != null)
-		{
-			cal1 = new dhtmlxCalendarObject('StartDate');
-			cal2 = new dhtmlxCalendarObject('EndDate');
-			
-			cal1.setDateFormat("%m/%d/%Y");
-			cal2.setDateFormat("%m/%d/%Y");
-			
-			
-			//cal1.setSkin('simplegrey');
-			//cal2.setSkin('simplegrey');
-		}
-	}
-	
-	function closeCals()
-	{
-		cal1.hide();
-		cal2.hide();
-	}
+<!-- Custom Ajax function -->
+<script src="../includes/javascript/ajaxlib.js"></script>
+
+<!-- jQuery UI-->
+
+<script type="text/javascript" src="../includes/javascript/jquery-1.4.1.js"></script>
+<script type="text/javascript" src="../includes/javascript/jqueryui/ui/jquery.ui.core.js"></script>
+<script type="text/javascript" src="../includes/javascript/jqueryui/ui/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="../includes/javascript/jqueryui/ui/jquery.ui.mouse.js"></script>
+<script type="text/javascript" src="../includes/javascript/jqueryui/ui/jquery.ui.slider.js"></script>
+
+<!-- Drop down menus -->
+<script type="text/javascript" src="../includes/javascript/ddsmoothmenu.js"></script>
+
+<script type="text/javascript">
+var interval
+
+/*** 
+    Simple jQuery Slideshow Script
+    Released by Jon Raasch (jonraasch.com) under FreeBSD license: free to use or modify, not responsible for anything, etc.  Please link out to me if you like it :)
+***/
+
+function slideSwitch(direction) {
+    var $active = $('#slideshow IMG.active');
+
+    // use this to pull the images in the order they appear in the markup
+    if (direction == 'ff')
+    {
+        if ( $active.length == 0 ) $active = $('#slideshow IMG:last');
+        var $next =  $active.next().length ? $active.next()
+            : $('#slideshow IMG:first');
+    }
+    else
+    {
+        if ( $active.length == 0 ) $active = $('#slideshow IMG:first');
+        var $next =  $active.prev().length ? $active.prev()
+            : $('#slideshow IMG:last');
+    }
+
+    // uncomment the 3 lines below to pull the images in random order
+    
+    // var $sibs  = $active.siblings();
+    // var rndNum = Math.floor(Math.random() * $sibs.length );
+    // var $next  = $( $sibs[ rndNum ] );
+
+
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+}
+
+function slideSwitchSpecififc(slide) {
+    var $active = $('#slideshow IMG.active');
+    var $next = $('#slideshow IMG').eq(slide);
+   
+    $active.addClass('last-active');
+
+    $next.css({opacity: 0.0})
+        .addClass('active')
+        .animate({opacity: 1.0}, 1000, function() {
+            $active.removeClass('active last-active');
+        });
+    
+}
+
+function play()
+{
+    interval = setInterval("slideSwitch('ff')", 5000 );
+    if (document.getElementById('stopplay') != null)
+        document.getElementById('stopplay').innerHTML = "<a href='#' onclick='stop(); return false;'><img src=../i/playbackArrows/pause.jpg /></a>";
+}
+
+function stop()
+{
+    interval = window.clearInterval(interval);
+    if (document.getElementById('stopplay') != null)
+        document.getElementById('stopplay').innerHTML = "<a href='#' onclick='play(); return false;'><img src=../i/playbackArrows/next.jpg /></a>";
+}
+
 </script>
-
-<!--/-->
-
 
 
 
@@ -233,26 +286,6 @@ popupWin = window.open(url,name,'toolbar=0,scrollbars=1,location=0,statusbar=0,m
 <link href="/Styles/newuniversal.css" rel="stylesheet" type="text/css">
 </head>
 <body bgcolor="#ffffff"><form name="thisForm" method="Post">
-
-
-<!--[if lte IE 7]>
-<style type="text/css">
-html .ddsmoothmenu{height: 1%;} /*Holly Hack for IE7 and below*/
-</style>
-<![endif]-->
-
-<script type="text/javascript" src="../includes/javascript/jquery-1.2.6.min.js"></script>
-
-
-<script type="text/javascript" src="../includes/javascript/ddsmoothmenu.js">
-
-/***********************************************
-* Smooth Navigational Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
-* This notice MUST stay intact for legal use
-* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
-***********************************************/
-
-</script>
 
 
 <script language="JavaScript">
@@ -341,8 +374,8 @@ function changeyChangey(pId, pOnOff)
 		<div class="logo" id="logo">
 	
 		
-				<a href="../"><img src="/i2.0/animatedlogo.gif"></a>
-		
+					<a href="../"><img src="/i2.0/animatedlogo.gif"></a>
+				
 		
 		</div>
 
@@ -355,7 +388,7 @@ function changeyChangey(pId, pOnOff)
 		
 		<div id="phone">Call 1-800-454-5768</div>
 		
-		<a href="http://www.exploritas.org/programs/advSearch.asp" style="color:#666666;font-weight:bold; text-decoration:underline;">Click here for Advanced Search</a><br>
+		<a href="http://www.exploritas.org/programs/search_res.asp" style="color:#666666;font-weight:bold; text-decoration:underline;">Click here for Advanced Search</a><br>
 			<div id="searchBox">
 			    <input type="text" name="txtQSearch" id="txtQSearch" size="21" maxlength="64" onkeypress="checkForReturn(event)" tabindex="1" style="border: 0px; border-style: none; font-size: 11px; color: #777777;" onclick="if (this.value == '  Keyword or Program #'){this.value=''}; document.getElementById('txtQSearch').style.color = '#000000'; return false;" value="  Keyword or Program #">
 			</div>
@@ -696,7 +729,7 @@ function changeyChangey(pId, pOnOff)
   <div><a href="http://www.exploritas.org/programs/roadscholar.asp">Road Scholar 
     </a></div>
 
-  <div><a href="http://www.exploritas.org/programs/dodccrc.asp">Day 
+  <div><a href="http://www.exploritas.org/programs/dod.asp">Day 
     of Discovery</a></div>
   
   <div><a href="http://www.exploritas.org/support/default.asp">Donate 
@@ -790,6 +823,7 @@ function changeyChangey(pId, pOnOff)
       <!-- center column content end -->
       </td>
     <td width="1" rowspan="4" align="center" valign="top" nowrap="nowrap" background="/i/vertblueline.jpg"></td>
+
 	<script type="text/javascript">
 	<!--
 	function MM_preloadImages() { //v3.0
@@ -834,34 +868,37 @@ window.levelwindow = window.open('http://www.exploritas.org//zipLookUp.asp','','
 
 }
   </script>
- 
+
     <!-- CONTENT START -->
-    <div id="rightNav">
+    <div id="rightNav" style="background-color: #CCCCCC; padding: 5px;">
       <ul id="right" class="right">
-       <li style=" height:157px;">
-            <span style="color:#333333; font-size:17px; font-weight:bold;">President James Moses</span>
-         <div style="float: left; margin:3 10 0 0;">
-         	<a href="http://www.exploritas.org/about/pres_blog.asp"><img src="http://www.exploritas.org//i2.0/JMoses.jpg"></a>
-         </div>
-		 <div>
-		    <br>
-		    <a style="color:#990000; font-size:13px; " href="http://www.wor710.com/topic/play_window.php?audioType=Episode&amp;audioId=4066335&amp;cm_sp=Right_Column-_-Boomer-_-Frommer" target="_blank">Hear my radio interview with
-travel author Arthur Frommer</a><br><br>
-         	<a style="color:#990000; font-size:13px;" href="http://www.exploritas.org/about/pres092509.asp?cm_sp=Right_Column-_-Boomer-_-PresBlog">A few thoughts on our age policy...</a>
-         </div>
+      <!-- <li>
+            <a style="font-size:17px; font-weight:bold; color:#333333;" href="http://www.exploritas.org/lps/wpr022210.asp">Important Message From President James Moses</a><br />
+            Our hearts and sympathies go out to those involved in the tragic accident in Florida.<br>
+            <a style="color:#990000; font-size:13px; " href="http://www.exploritas.org/lps/wpr022210.asp">(read more)</a>
+       </li>-->
+
+
+       <li style=" height:240px;">
+            <span style="color:#333333; font-size:17px; font-weight:bold;">Notes from Exploritas at Sea</span><br>
+            <a style="color:#990000; font-size:13px; " href="../social/GroupTopic.asp?topic=4062&amp;cm_sp=Right_Column-_-Boomer-_-PresBlog">Read one participant's account of this amazing 111-day adventure.</a><br><br>
+         	<a href="../social/GroupTopic.asp?topic=4062&amp;cm_sp=Right_Column-_-Boomer-_-PresBlog"><img src="http://www.exploritas.org//i2.0/PresBlog_May2010.jpg"></a>
 
        </li>
-            
+
        <li>
             <a style="font-size:17px; font-weight:bold; color:#333333;" href="http://www.exploritas.org/about/pres_blog.asp?cm_sp=Right_Column-_-Boomer-_-Welcome">Welcome to Exploritas</a><br>
-            <a style="color:#990000; font-size:13px; " href="http://www.exploritas.org/about/pres_blog.asp?cm_sp=Right_Column-_-Boomer-_-Welcome">Information About our New Program Name</a>
+            <a style="color:#990000; font-size:13px; " href="http://www.exploritas.org/about/pres_blog.asp?cm_sp=Right_Column-_-Boomer-_-Welcome"><strong>Explore + Veritas = Exploritas</strong><br>Learn more about our new program name</a>
        </li>
-       
-       <li>
-            <img style="float: left; border: none; position:relative; top:-5px;" src="../i2.0/Globe_Sep09.jpg">
-            <a href="http://www.exploritas.org/about/pos_page.asp?cm_sp=Right_Column-_-Boomer-_-WhyExp" style="font-size:17px; font-weight:bold; color:#333333;">Why Exploritas?</a>
-            <br>
-            <a href="http://www.exploritas.org/about/pos_page.asp?cm_sp=Right_Column-_-Boomer-_-WhyExp" style="color:#990000; font-size:13px; ">The People. <br>The Learning Experiences. <br>The Unbeatable Value.</a>
+       <li style=" height:100px;">
+            <img src="../i2.0/Globe_Sep09.jpg" style="float:left;">
+			<a href="http://www.exploritas.org/about/pos_page.asp?cm_sp=Right_Column-_-Boomer-_-Positioning" style="font-size:17px; font-weight:bold; color:#333333;">
+			    Why Exploritas
+			</a>
+			<br>
+			<a style="font-size:13px; color:#990000;" href="http://www.exploritas.org/about/pos_page.asp?cm_sp=Right_Column-_-Boomer-_-Positioning">
+			    What Makes Exploritas the World's Best Not-For-Profit Educational Travel Organization
+			</a>
         </li>
 
 		<li style="clear:both; height:150px;">
@@ -869,31 +906,31 @@ travel author Arthur Frommer</a><br><br>
 	<div>
 		<!-- left column / catalog image -->
 		<div style="float:left;width:90px;height:133px;">
-			<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=KSN&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-DomOctCat">
-				<img src="../i2.0/DomCover_Boomer_Sep09.jpg" id="Domestic" name="Domestic" border="0">
+			<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=WPG&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-FebIntlCat">
+				<img src="../i2.0/IntlBoomer_May2010.jpg" id="International" name="International" border="0">
 			</a>
 		</div>
 		<!-- right column / catalog names/links -->
 		<br>
 		<div style="float:right;width:122px;">
-			<div style="width:122px;" onmouseover="MM_swapImage('Domestic','','../i2.0/DomCover_Boomer_Sep09.jpg',1);EH_SwapURL('Domestic', 'http://www.exploritas.org/programs/browsemain.asp?ecode=KSN&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-DomOctCat');">
-				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=KSN&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-DomOctCat">
+			<div style="width:122px;" onmouseover="MM_swapImage('International','','../i2.0/USCatalogCover.jpg',1);EH_SwapURL('International', 'http://www.exploritas.org/programs/browsemain.asp?ecode=UPF&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-JanDomCat');">
+				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=UPF&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-JanDomCat">
 					<strong>U.S. &amp; Canada</strong><br>
-					<span style="font-size:10px;"><em>Through March 2010</em></span>
+					<span style="font-size:10px;"><em>Through November 2010</em></span>
 				</a>
 			</div>
 			<br>
-			<div style="width:122px;" onmouseover="MM_swapImage('Domestic','','../i2.0/Int_CoverBoomer_Sep09.jpg',1);EH_SwapURL('Domestic', 'http://www.exploritas.org/programs/browsemain.asp?ecode=ATL&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-IntlSeptCat');">
-				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=ATL&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-IntlSeptCat">
+			<div style="width:122px;" onmouseover="MM_swapImage('International','','../i2.0/IntlBoomer_May2010.jpg',1);EH_SwapURL('International', 'http://www.exploritas.org/programs/browsemain.asp?ecode=WPG&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-FebIntlCat');">
+				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=WPG&amp;browse=type&amp;cm_sp=Right_Column-_-Boomer-_-FebIntlCat">
 					<strong>International</strong><br>
-					<span style="font-size:10px;"><em>Through June 2010</em></span>
+					<span style="font-size:10px;"><em>Through March 2011</em></span>
 				</a>
 			</div>
 			<br>
-			<div style="width:122px;" onmouseover="MM_swapImage('Domestic','','../i2.0/AfloatCover_Sep09.jpg',1);EH_SwapURL('Domestic', 'http://www.exploritas.org/programs/browsemain.asp?ecode=URA&amp;browse=location&amp;cm_sp=Right_Column-_-Boomer-_-AfloatSeptCat');">
-				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=URA&amp;browse=location&amp;cm_sp=Right_Column-_-Boomer-_-AfloatSeptCat">
+			<div style="width:122px;" onmouseover="MM_swapImage('International','','../i2.0/AfloatCover_Jan09.jpg',1);EH_SwapURL('International', 'http://www.exploritas.org/programs/browsemain.asp?ecode=BUV&amp;browse=location&amp;cm_sp=Right_Column-_-Boomer-_-JanAfloatCat');">
+				<a href="http://www.exploritas.org/programs/browsemain.asp?ecode=BUV&amp;browse=location&amp;cm_sp=Right_Column-_-Boomer-_-JanAfloatCat">
 					<strong>Adventures Afloat</strong><br>
-					<span style="font-size:10px;"><em>Through December 2010</em></span>
+					<span style="font-size:10px;"><em>Through May 2011</em></span>
 				</a>
 			</div>
 		</div>
@@ -901,150 +938,151 @@ travel author Arthur Frommer</a><br><br>
 
 
 		</li>
-		
-		
+
+		<!--<li style="clear:both; height:150px;">
+			<a href="../programs/outdooradventures.asp?cm_sp=Right_Column-_-Boomer-_-Outdooradventures"><img style="float:left; margin-right:22px;" src="../i2.0/outdoorAdventuresPlug_Jan10.jpg"/></a>
+			<br /><br />
+			<a href="../programs/outdooradventures.asp?cm_sp=Right_Column-_-Boomer-_-Outdooradventures" style="font-size: 13px; color:#990000; ">Programs for Older Adults Who Love Adventure</a>
+        </li>-->
+
 		<li>
         <!--			<img src="http://www.exploritas.org/i2.0/ProgramReviewPlug.jpg" style="float:right; margin-left: 10px;">
         -->
+            <div style="font-style:italic;">Heard on...</div>
+            <div>
             <img style="position:relative; top:3px;" src="../i2.0/EC_Arrow.gif">
-            
-			<a href="/social/intro.asp?cm_sp=Right_Column-_-Boomer-_-Connection" style="font-size:17px; font-weight:bold; color:#333333;">
-				The Exploritas Connection</a><br>
-			<a style="margin:0 0 0 27px;" href="/social/intro.asp?cm_sp=Right_Column-_-Boomer-_-Connection">
-				Our Newest Feature</a><br>
-			<a href="/social/intro.asp?cm_sp=Right_Column-_-Boomer-_-Connection" style="font-size: 13px; color:#990000; ">Meet fellow participants, share ideas and discuss common interests.</a>
-
+			    <a href="/social/GroupTopic.asp?topic=3681&amp;cm_sp=Right_Column-_-Boomer-_-ConnectionMay" style="font-size:17px; font-weight:bold; color:#333333;">
+				    The Exploritas Connection</a>
+		    </div>
+		    <div style="padding-left:30px; font-style:italic;">
+			    <a href="/social/GroupTopic.asp?topic=3681&amp;cm_sp=Right_Column-_-Boomer-_-ConnectionMay" style="font-size: 13px; color:#990000;">"We did the two water color programs in Sedona, Ariz,... the programs and the instructors were superb! And, the location is dramatically scenic.</a>
+            </div>
         </li>
-        
+
         <li>
 			<a href="http://www.exploritas.org/programs/special_offers.asp?cm_sp=Right_Column-_-Boomer-_-Offer" style="font-size:17px; font-weight:bold; color:#333333;">
 			    Special Offers!
 			</a>
+			<br>
+			<a href="http://www.exploritas.org/programs/special_offers.asp?cm_sp=Right_Column-_-Boomer-_-Offer" style="font-size:13px; color:#990000; ">
+			    Free Airfare &amp; More
+			</a>
         </li>
-        
-        <li style=" height:157px;">
-            <img src="../i2.0/NationalParks.jpg" style="float:left;"><br>
+
+        <li>
+			<a href="http://www.exploritas.org/lps/aarp.asp?cm_sp=Right_Column-_-Boomer-_-AARP" style="font-size:17px; font-weight:bold; color:#333333;">
+			    Independent International Adventures
+			</a>
+			<br>
+			<a href="http://www.exploritas.org/lps/aarp.asp?cm_sp=Right_Column-_-Boomer-_-AARP" style="font-size:13px; color:#990000; ">
+			    Education. Independence. Value. <br>
+			    As featured in AARP Magazine
+			</a>
+        </li>
+
+        <li>
+			<a href="http://www.exploritas.org/programs/dod.asp?cm_sp=Right_Column-_-Boomer-_-DaysCCRC" style="font-size:17px; font-weight:bold; color:#333333;">
+			    Find a Day of Discovery Near You!
+			</a>
+        </li>
+
+        <li style="height:173px;">
+            <img src="../i2.0/GlobalDisco_May2010.jpg" style="float:left;">
+            <br>
+			<a href="http://www.exploritas.org/globaldiscoveries/default.asp?cm_sp=Right_Column-_-Boomer-_-AAMay" style="font-size:17px; font-weight:bold; color:#333333;">Global Discoveries</a>
+				<br>
+			<a href="http://www.exploritas.org/globaldiscoveries/default.asp?cm_sp=Right_Column-_-Boomer-_-AAMay" style="font-size:13px; color:#990000;">Adventures inspired by the African American Experience</a>
+        </li>
+
+        <!--<li >
+			<a href="http://www.exploritas.org/programs/programdetail.asp?RowId=1%2D4LFDO9&cm_sp=Right_Column-_-Boomer-_-AA_17820" style="font-size:17px; font-weight:bold; color:#333333;">Historical Diversity and Current Life on Martha's Vineyard</a>
+				<br />
+			<a href="http://www.exploritas.org/programs/programdetail.asp?RowId=1%2D4LFDO9&cm_sp=Right_Column-_-Boomer-_-AA_17820" style="font-size:13px; color:#990000;">On the Aug. 15 date, meet the Academy Award-winning screenwriter of "Precious," Geoffrey Fletcher</a>
+        </li>-->
+
+       <!-- <li style=" height:157px;">
+            <img src="../i2.0/NationalParks.jpg" style="float:left;" /><br />
 			<a href="http://www.exploritas.org/programs/nat_parks.asp?cm_sp=Right_Column-_-Boomer-_-Natl_Parks" style="font-size:17px; font-weight:bold; color:#333333;">
 			    National Parks
 			</a>
-			<br>
+			<br />
 			<a style="font-size:13px; color:#990000;" href="http://www.exploritas.org/programs/nat_parks.asp?cm_sp=Right_Column-_-Boomer-_-Natl_Parks">
 			    Browse more than 100 Exploritas national parks programs in North America
 			</a>
-        </li>
-        
+        </li>-->
+
          
-        <li>
-            <a href="http://www.exploritas.org/programs/roadscholar.asp?cm_sp=Right_Column-_-Boomer-_-RS" style="font-size:17px; font-weight:bold; color:#333333;">Road Scholar<br>See 54 new adventures</a>
+        <li style="height:153px;">
+            <img src="../i2.0/RoadScholar_Cover.jpg" style="float:left;">
             <br>
-            <a href="http://www.exploritas.org/programs/roadscholar.asp?cm_sp=Right_Column-_-Boomer-_-RS" style="color:#990000; font-size:13px; ">Small Groups on the Go<br>Independent Time for Your Own Discovery<br>Active Experiential Learning</a>
+			<a href="http://www.exploritas.org/programs/roadscholar.asp?cm_sp=Right_Column-_-Boomer-_-RS" style="font-size:17px; font-weight:bold; color:#333333;">Road Scholar</a>
+				<br>
+			<a href="http://www.exploritas.org/programs/roadscholar.asp?cm_sp=cm_sp=Right_Column-_-Boomer-_-RS" style="font-size:13px; color:#990000;">Small Groups on the Go</a>
         </li>
         
-        
-        <!--<li >
-            <a href="http://www.exploritas.org/programs/programdetail.asp?RowId=1%2B1ZZ%2B38&cm_sp=Right_Column-_-Boomer-_-Afloat6043" style="font-size:17px; font-weight:bold; color:#333333;">The Galapagos<br />Natural and Cultural History</a>
-            <br />
-            <a href="http://www.exploritas.org/programs/programdetail.asp?RowId=1%2B1ZZ%2B38&cm_sp=Right_Column-_-Boomer-_-Afloat6043" style="color:#990000; font-size:13px; ">New Low Price</a>
-        </li>-->
-        
-        <li>
-            <a href="http://www.exploritas.org/about/gift_certificate.asp?cm_sp=Right_Column-_-Boomer-_-Gift" style="font-size:17px; font-weight:bold; color:#333333;">Give the Gift of Lifelong Learning</a>
-            <br>
-            <a href="http://www.exploritas.org/about/gift_certificate.asp?cm_sp=Right_Column-_-Boomer-_-Gift" style="color:#990000; font-size:13px; ">Exploritas Gift Certificates</a>
-        </li>
-
-<!--         <li> <hr style="height: 2px; border: solid; color: #333333; border-height: 0px;"> </li>-->
 
 
-<!--//        <li> <hr> </li>
-//        <li style="height: 127px;"> <img src="http://www.exploritas.org/i2.0/whyeh4.gif" style="float: left; margin-right: 10px;" width="86" height="125"> <strong>Why Exploritas?</strong><br />
-//          &middot; No hidden costs<br />
-//          &middot; Engaging peers<br />
-//          &middot; Expert instruction<br />
-//          &middot; Travel Assistance <br />
-//          &nbsp;&nbsp;&nbsp;Plan<br />
-//          <br />
-//          <a href="http://www.exploritas.org/about/why_elderhostel.asp?cm_sp=Right_Column-_-PlugsNewHomeNov08-_-WhyEH" style="color: #990000;"><strong>Learn more</strong></a> </li>-->
-
-<!--               <li> <hr> </li>-->
-<!--
-        <li style="height: 127px;"> <a href="http://www.exploritas.org/photocontest/wild_eh.asp?cm_sp=Right_Column-_-PlugsNewHome1108-_-PhotoApr09"><img src="http://www.exploritas.org/i2.0/Wild_EH.jpg" width="86" height="125" border="0" style="float: left; margin-right: 10px;">
-          <span style="font-size:14px; font-weight:bold;"><br>
-          Enter our newest photo contest:<br>
-        </span><span style="font-size:18px; font-weight:bold;">Wild Exploritas</span></a>
-          <br>
-          <br>
-        </li>
-
-        <li>
-          <hr>
-        </li>
--->
-       <!--<li >
-         <a href="http://www.exploritas.org/programs/lastminute.asp?&cm_sp=Right_Column-_-PlugsNewHomeNov08-_-LastMinute_Nov08" style="font-size:17px; font-weight:bold; color:#333333;">Great Programs Starting Soon!</a>
-         <br />
-         <a href="http://www.exploritas.org/programs/lastminute.asp?&cm_sp=Right_Column-_-PlugsNewHomeNov08-_-LastMinute_Nov08" style="color:#990000; font-size:13px; ">Still Time to Enroll in These Learning Adventures</a>
-        </li>-->
-
-       <!-- <li >
-            <a href="http://www.exploritas.org/programs/dailytop10.asp?cm_sp=Right_Column-_-PlugsNewHomeNov08-_-Top10" style="font-size:17px; font-weight:bold;">Daily Top 10</a>
-            <br />
-            <a href="http://www.exploritas.org/programs/dailytop10.asp?cm_sp=Right_Column-_-PlugsNewHomeNov08-_-Top10" style="color:#990000; font-size:13px; ">What adventures people are signing up for today.</a>
-        </li>-->
-
-        <!--<li > 
-        <a href="http://www.exploritas.org/programs/mostviewed.asp?cm_sp=Right Column-_-PlugsNewHomeNov08-_-MostViewed" style="font-size:17px; font-weight:bold;">
-            This Month's Most Viewed Programs</a> 
-        </li>-->
-        
          <li>
-            <a href="http://www.exploritas.org/support/default.asp?Right_Column-_-Boomer-_-Support" style="font-size:17px; font-weight:bold; color:#333333;">Support Elderhostel</a>
+            <a href="http://www.exploritas.org/support/default.asp?Right_Column-_-Boomer-_-Support" style="font-size:17px; font-weight:bold; color:#333333;">Support Exploritas and Healthy Aging</a>
             <br>
-            <a href="http://www.exploritas.org/support/default.asp?cm_sp=Right_Column-_-Boomer-_-Support" style="color:#990000; font-size:13px; ">Make your gift by December 31, 2009!</a>
+            <a href="http://www.exploritas.org/support/default.asp?cm_sp=Right_Column-_-Boomer-_-Support" style="color:#990000; font-size:13px; ">Donate today.</a>
         </li>
-        
+
         <li>
-          <a href="http://www.exploritas.org/forms/referafriend_form.asp?cm_sp=Right_Column-_-Boomer-_-RAF" style="font-size:17px; font-weight:bold; color:#333333;">Introduce a Friend to Exploritas</a><br>
-          <a href="http://www.exploritas.org/forms/referafriend_form.asp?cm_sp=Right_Column-_-Boomer-_-RAF" style="font-size:13px; color:#990000;">Win a program for yourself.</a>
+          <a href="http://www.exploritas.org/forms/referafriend_form.asp?cm_sp=Right_Column-_-Boomer-_-RAF" style="font-size:17px; font-weight:bold; color:#333333;">Win a program for yourself</a><br>
+          <a href="http://www.exploritas.org/forms/referafriend_form.asp?cm_sp=Right_Column-_-Boomer-_-RAF" style="font-size:13px; color:#990000;">Introduce a Friend to Exploritas</a>
         </li>
-        
-        <li>	
-			<a href="http://www.exploritas.org/programs/interests.asp?cm_sp=Right_Column-_-Boomer-_-Interest" style="font-size:17px; font-weight:bold; color:#333333;">What do you love to do?</a>
-				<br>
-			<a href="http://www.exploritas.org/programs/interests.asp?cm_sp=Right_Column-_-Boomer-_-Interest" style="font-size:13px; color:#990000;">Tell us what interests you!</a>
-        </li>
-        
-        <li style="height:173px;">
-            <img src="../i2.0/Kathy.jpg" style="float:left;">	
+
+
+        <li>
+            <a href="http://www.exploritas.org/programs/enewslanding.asp?ecode=DVV&amp;layout=PL&amp;cm_sp=Right_Column-_-Boomer-_-UniqueProg" style="font-size:17px; font-weight:bold; color:#333333;">Looking for an educational experience that's out of the ordinary?</a>
             <br>
-			<a href="http://www.exploritas.org/globaldiscoveries/default.asp?cm_sp=Right_Column-_-Boomer-_-Global" style="font-size:17px; font-weight:bold; color:#333333;">Global Discoveries</a>
-				<br>
-			<a href="http://www.exploritas.org/globaldiscoveries/default.asp?cm_sp=Right_Column-_-Boomer-_-Global" style="font-size:13px; color:#990000;">Adventures inspired by the African American Experience</a>
+            <a href="http://www.exploritas.org/programs/enewslanding.asp?ecode=DVV&amp;layout=PL&amp;cm_sp=Right_Column-_-Boomer-_-UniqueProg" style="color:#990000; font-size:13px; ">Making a Shaker Table <b>·</b> Astronaut Training <b>·</b> Ayurveda Medicine <b>·</b> Homestay in Germany <b>·</b> Oberammergau's Passion Play <b>·</b> CSI</a>
+        </li>
+
+        
+        <li style="clear:both; height:150px;">
+            <a href="http://www.exploritas.org/programs/search_res.asp?src=1-4YE5MR&amp;cm_sp=Partnerships_BC-_-Boomer-_-AprCN-BC"><img src="../i2.0/OntarioQuebecCoverPlug.jpg" style="float:left;"></a>
+            <br><br>
+            <a href="http://www.exploritas.org/programs/search_res.asp?src=1-4YE5MR&amp;cm_sp=Partnerships_BC-_-Boomer-_-AprCN-BC" style="font-size:17px; font-weight:bold; color:#333333;">Ontario &amp; Quebec</a>
+            <br>
+            <a href="http://www.exploritas.org/programs/search_res.asp?src=1-4YE5MR&amp;cm_sp=Partnerships_BC-_-Boomer-_-AprCN-BC" style="color:#990000; font-size:13px;">Find one-of-a-kind learning experiences and excellent value in Ontario &amp; Quebec's most fascinating settings</a>
         </li>
         
-        
-        
-        
-        
+
+
+
+
        <!-- <li >
 			<a href="http://www.exploritas.org//about/value.asp?cm_sp=Right_Column-_-PlugsNewHome1108-_-Value" style=" font-size: 17px; font-weight: bold;">
 				Why is Exploritas such a great deal?
 		    </a>
 		</li>-->
-        
-        <li style="text-align: center;"> <strong>Search Programs by Zip Code</strong><br>
-            <input type="text" id="chkz" name="chkz" style="font-size: 11px; vertical-align: bottom;" size="7" maxlength="7" onkeypress="checkEnter(event)" onclick="this.value=''" value=" enter zip">
+        <script language="javascript">
+            function submitZipSearch()
+            {
+                var selected = "";
+                for (i = 0; i < document.getElementById('miles').options.length; i++)
+	            {
+	                if (document.getElementById('miles').options[i].selected)
+	                    selected += document.getElementById('miles').options[i].value
+	            }
+                window.location = "../programs/search_res.asp?ZipCode=" + document.getElementById("chkz").value + "&ZipRadius=" + selected
+            }
+        </script>
+        <li style="border-bottom: none; text-align: center;"> <strong>Search Programs by Zip Code</strong><br>
+            <input type="text" id="chkz" name="chkz" style="font-size: 11px; vertical-align: bottom;" size="7" maxlength="7" onclick="this.value=''" value=" enter zip">
           &nbsp;
-            <select name="miles" style="font-size: 11px; vertical-align: bottom;">
+            <select name="miles" id="miles" style="font-size: 11px; vertical-align: bottom;">
               <option value="10">within 10 miles</option>
               <option value="50">within 50 miles</option>
               <option value="100" selected="">within 100 miles</option>
               <option value="150">within 150 miles</option>
           </select>
-          &nbsp; <a href="javascript:document.forms[0].submit()"><img src="http://www.exploritas.org/includes/header/GO_Button.gif" border="0" align="absbottom"></a><br>
+          &nbsp; <a href="#" onclick="submitZipSearch(); return false;"><img src="http://www.exploritas.org/includes/header/GO_Button.gif" border="0" align="absbottom"></a><br>
           <a href="javascript: popUpZip();" style="font-size: 10px; color: #990000;">Find a Zipcode</a> </li>
-		
-		
+
+
 
       </ul>
 </div>
@@ -1167,7 +1205,8 @@ travel author Arthur Frommer</a><br><br>
 			<li><a href="http://www.exploritas.org/forms/referafriend_form.asp">Win a program</a></li>
             <li><a href="http://www.exploritas.org/forms/referafriend_form.asp">Introduce a Friend</a></li>
             <li><a href="http://www.exploritas.org/about/ets.asp">Exploritas Travel Services</a></li>
-            
+            <li><a href="http://www.exploritas.org/programs/charter_programs.asp">For Groups</a></li>
+            <li><a href="http://www.exploritas.org/globaldiscoveries">African American Inspired</a></li>
             
 			<li><hr size="1"></li>
 			<li id="title">Browse by:</li>
@@ -1182,16 +1221,17 @@ travel author Arthur Frommer</a><br><br>
 				<br>&nbsp;&nbsp;&nbsp;<a href="http://www.exploritas.org/programs/theamericas.asp" style="font-size: 11px;">The Americas &amp; Antarctica</a></li>
 			<li><a href="http://www.exploritas.org/programs/byinterest.asp">Interest</a></li>
 			<li><a href="http://www.exploritas.org/programs/byschedule.asp">Date</a></li>
-			<li><a href="http://www.exploritas.org/programs/advsearch.asp#activity">Activity Level</a></li>
+			<li><a href="http://www.exploritas.org/programs/search_res.asp">Activity Level</a></li>
 			<li><a href="http://www.exploritas.org/programs/bycatalog.asp">Catalog</a></li>
 			<li><a href="http://www.exploritas.org/programs/world_map.asp">Map</a></li>
 			<li><hr size="1"></li>
 			<li id="title">Find a program:</li>
 			<li><a href="http://www.exploritas.org/programs/adventures_afloat.asp">Adventures Afloat</a></li>
-			<li><a href="http://www.exploritas.org/programs/dodccrc.asp">Day of Discovery</a></li>
+			<li><a href="http://www.exploritas.org/programs/dod.asp">Day of Discovery</a></li>
 			<li><a href="http://www.exploritas.org/programs/world_map.asp">International</a></li>
 			<li><a href="http://www.exploritas.org/programs/usa_canada_map.asp">North America</a></li>
 			<li><a href="http://www.exploritas.org/programs/roadscholar.asp">Road Scholar</a></li>
+			<li><a href="http://www.exploritas.org/lps/aarp.asp">Independent Int'l Adventures</a></li>
 			<li><hr size="1"></li>
 			<li id="title" style="margin-bottom:3px;">About us:</li>
 			<li id="title" style="font-size:14px;">About Exploritas Programs</li>
@@ -1209,27 +1249,31 @@ travel author Arthur Frommer</a><br><br>
 			    <li style="margin-left:7px;"><a href="http://www.exploritas.org/research">Research &amp; Grants</a></li>
 			    <li style="margin-left:7px;"><a href="http://www.exploritas.org/jobs">Careers</a></li>
 			    <li style="margin-left:7px;"><a href="http://www.exploritas.org/contact">Contact Us</a></li>
-                <li style="margin-left:7px;"><a href="http://www.exploritas.org/support/Annual_Report_NoDonors_Apr09.pdf">2008 Annual Report</a></li>
+                <!--<li style="margin-left:7px;"><a href="http://www.exploritas.org/support/Annual_Report_NoDonors_Apr09.pdf">2008 Annual Report</a></li>-->
             
 			<li><hr size="1"></li>
 			<li id="title">Get involved:</li>
 			<li><a href="http://www.exploritas.org/community">Community</a></li>
 			<li><a href="http://www.exploritas.org/social/intro.asp">Exploritas Connection</a></li>
 			<li><a href="http://www.exploritas.org/photocontest">Photo Contest</a></li>
+			<li><a href="http://www.exploritas.org/spirit">Spirit of Exploritas</a></li>
 			<li><hr size="1"></li>
 		</ul>
 		
 		<div id="photoContest">
 			<br>
 			<a href="http://www.exploritas.org/photocontest/winnersarchive.asp">First Place Photos</a><br>
-		  <a href="http://www.exploritas.org/photocontest/winnersarchive.asp" style="font-weight:bold; color:#990000;">U.S. &amp; Canada</a><br>
-			<img src="http://www.exploritas.org/photocontest/i/amish.jpg" width="133"><br>
-			<span style="font-size: 11px;"><i>Amish Scooters</i><br>Caroline Harkness</span>
-		    <br>
-		    <br>
-	      <a href="http://www.exploritas.org/photocontest/winnersarchive.asp" style="font-weight:bold; color:#990000;">International</a><br>
-			<img src="http://www.exploritas.org/photocontest/i/peru.jpg" width="170"><br>
-	    <span style="font-size: 11px;"><i>Naturally Dyed Peruvian Wool</i><br>Louise Alburas</span>
+            <br>
+            <strong>US &amp; Canada</strong>
+            <br>
+			<img src="http://www.exploritas.org/photocontest/i/Michael McGuire.jpg" width="133"><br>
+			<span style="font-size: 11px;"><i>Paria Canyon Hikers</i><br>Michael McGuire</span>
+			<br>
+			<br>
+            <strong>International</strong>
+            <br>
+			<img src="http://www.exploritas.org/photocontest/i/Alex Popper.jpg" width="133"><br>
+			<span style="font-size: 11px;"><i>View from the Corinthian II</i><br>Alex Popper</span>
       </div>
 	</div>
 	
@@ -1240,14 +1284,14 @@ travel author Arthur Frommer</a><br><br>
 
 
 
-<div id="footer" style="top: 8207px; display: block;">
+<div id="footer" style="top: 8567px; display: block;">
 	<br><br>
 	<hr>
 	<a href="https://www.exploritas.org/account/ac_cat_request.asp">Free Catalog</a> | <a href="http://www.exploritas.org/about/site_map.asp">Site Map</a> | 
 	<a href="http://www.exploritas.org/forms/referafriend_form.asp">Introduce a Friend</a> | <a href="http://www.exploritas.org/about/privacy.asp">Privacy Policy</a><br>
 	<a href="http://www.exploritas.org/about/newsmedia_default.asp">Press</a> | <a href="http://www.exploritas.org/jobs">Careers</a> | 
 	<a href="http://www.exploritas.org/contact">Contact Us<br><br></a>
-	<a href="http://www.exploritas.org/about/copyright.asp">© Elderhostel, Inc. 2009</a><br>
+	<a href="http://www.exploritas.org/about/copyright.asp">© Elderhostel, Inc. 2010</a><br>
 	11 Avenue de Lafayette | Boston MA 02111 | Toll-Free 1-800-454-5768<br><br>
 	<script src="https://seal.verisign.com/getseal?host_name=www.exploritas.org&amp;size=S&amp;use_flash=NO&amp;use_transparent=YES&amp;lang=en"></script>
 	<br>
@@ -1257,9 +1301,12 @@ travel author Arthur Frommer</a><br><br>
 
 
 <script language="JavaScript">
-//function placeFooter(objidFooter) {
+var objFooterTimeout = setTimeout('placeFooter();', 2000);
+
+function placeFooter() {
+
 	if (document.getElementById('footer')) {
-	    
+
 		Footer = document.getElementById('footer');
 
 		if (document.body.scrollHeight > 1300){
@@ -1270,7 +1317,9 @@ travel author Arthur Frommer</a><br><br>
 		
 	//	return true
 	}
-//} 
+} 
+
+placeFooter();
 </script>
 
 
