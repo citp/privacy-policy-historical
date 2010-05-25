@@ -1,12 +1,37 @@
-> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530153541id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800gotjunk.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525024959id_/http%3A//www.1800gotjunk.com/us_en/footer/privacy_policy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy 1-800-GOT-JUNK
+# Privacy Policy and Legal 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc
 
-Thank you for visiting the 1-800-GOT-JUNK? web site (the "Site")
+**Copyright © 2010 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc .**
+
+## Legal Disclaimer
+
+ **TERMS OF USE**
+
+Thank you for visiting the 1-800-GOT-JUNK? web site (the "Site").
+
+ **PLEASE CAREFULLY REVIEW THE TERMS OF USE OF THIS SITE.  
+** As your use of the site will indicate your acceptance of these terms, do not use the site if you do not agree to be bound by these terms. We may periodically change the terms, so please check them from time to time as your continued use of the site signifies your acceptance of any changed items.These terms incorporate and include our Privacy Policy and any other guidelines or disclaimers that may be posted on the site. 
+
+**COPYRIGHT AND TRADEMARK.**  
+Unless otherwise noted, all materials on this site are protected as the copyrights, trade dress, trademarks and/or other intellectual properties owned by 1-800-GOT-JUNK? LLC or RBDS Rubbish Boys Disposal Service Inc. dba 1-800-GOT-JUNK? and/or its subsidiaries and affiliates or by other parties that have licensed their material to 1-800-GOT-JUNK?.
+
+All rights not expressly granted are reserved. 
+
+**PERSONAL USE.**  
+Your use of the materials included on this site is for informational and shopping purposes only. You agree you will not distribute, publish, transmit, modify, display or create derivative works from or exploit the contents of this site in any way. You agree to indemnify, defend and hold harmless 1-800-GOT-JUNK? from and against all liability and costs (including attorney fees) incurred in connection with, relating to or arising out of your breach of these terms, your unauthorized use of material on the site or your use of the site. You acknowledge that the unauthorized use of the contents could cause irreparable harm to 1-800-GOT-JUNK? and that in the event of an unauthorized use, 1-800-GOT-JUNK? shall be entitled to an injunction in addition to any other remedies available at law or in equity. You agree to cooperate fully as reasonably required in the defense of any claim. We reserve the right to assume the exclusive defence and control of any matter subject to indemnification by you. 
+
+**FEEDBACK AND SUBMISSIONS.**  
+If you do submit material, and unless 1-800-GOT-JUNK?’s indicates otherwise, you grant 1-800-GOT-JUNK? and its affiliates a nonexclusive, royalty-free, perpetual, irrevocable, and fully sublicensable right to use, reproduce, modify, adapt, publish, translate, create derivative works from, distribute, and display such content throughout the world in any media. You grant 1-800-GOT-JUNK? and its affiliates sublicensees the right to use the name that you submit in connection with such content, if they choose. You represent and warrant that you own or otherwise control all of the rights to the content that you post; that the content is accurate; that use of the content you supply does not violate this policy and will not cause injury to any person or entity; and that you will indemnify 1-800-GOT-JUNK? or its affiliates for all claims resulting from content you supply. 1-800-GOT-JUNK? has the right but not the obligation to monitor and edit or remove any activity or content. 1-800-GOT-JUNK? takes no responsibility and assumes no liability for any content posted by you or any third party. 
+
+**JURISDICTION.**   
+Any dispute arising from these terms shall be resolved exclusively in the Province of British Columbia.
+
+## Privacy Policy
 
 Below is our privacy policy governing our use of information gathered about you ("Information"). 
 
-Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection of data through channels other than this Site. If you have any questions about this privacy statement or the content and practices of our web site, please feel free to contact us directly at: Suite 800 – 1055 West Hastings Street , Vancouver, BC, V6E 2E9 
+Although we are committed to maintaining your confidence and trust in all of our activities with you, this Privacy Policy does not govern our collection of data through channels other than this Site. If you have any questions about this privacy statement or the content and practices of our web site, please feel free to contact us by [clicking here.](http://www.1800gotjunk.com/ca_en/about/forms/contact_us.aspx)
 
 **INFORMATION WE COLLECT**
 
@@ -26,10 +51,13 @@ When you provide Information via our web site, we may use the Information to occ
 
 **HOW TO REVIEW AND UPDATE YOUR INFORMATION**
 
-You may write, e-mail or telephone us with changes to your information and contact preferences via the following numbers or addresses. 
+You may e-mail us with changes to your information and contact preferences by contacting us by [clicking here. ](http://www.1800gotjunk.com/ca_en/about/forms/contact_us.aspx)
 
-**  
-SECURITY**
+**
+
+SECURITY
+
+**
 
 We use a variety of standard protections to maintain the security of your online session. Although the Site has security measures in place to protect against the loss, misuse and alteration of Information under our control, we cannot guarantee that such security measures will be sufficient, will not be breached, and that your Information may not be disclosed or otherwise accessed in any unauthorized manner. Certain Information may be transmitted to you by electronic mail. Although it may be illegal to intercept or disclose these messages, these transmissions are not secured. 
 
@@ -47,4 +75,6 @@ As we grow and new features are added, or legal requirements change, this privac
 
 **HOW TO CONTACT US**
 
-If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team [here](https://web.archive.org/us_en/about/forms/contact_us.aspx?topic=customerservice).
+If you have any questions or complaints about our Site, our Privacy Policy, or the Information we collect, please contact our customer service team [here](https://web.archive.org/ca_en/about/forms/contact_us.aspx?topic=customerservice).
+
+Copyright © 2010 1-800-GOT-JUNK? LLC and RBDS Rubbish Boys Disposal Service Inc. All rights reserved.
