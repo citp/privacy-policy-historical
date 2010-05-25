@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827202217id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bafta.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525220751id_/http%3A//www.bafta.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy - Bafta Home - The BAFTA site
+# BAFTA Privacy
 
 ### THE BRITISH ACADEMY OF FILM AND TELEVISION ARTS   
 PRIVACY POLICY
@@ -17,7 +17,7 @@ Welcome to The British Academy of Film and Television Arts. The British Academy 
 
 4\. We will not share your personal information for marketing or any other purposes without your consent unless where required by law. If you have registered your interest with bafta.org and/or any of our associated companies, and thereby given your consent, you may be contacted with relevant promotions, offers or information that you have expressed an interest in or that might be of interest to you. IF YOU DO NOT WISH TO RECEIVE FURTHER UPDATES PLEASE EMAIL [web@bafta.org](mailto:web@bafta.org) . We will always respect your privacy and any personal communication between you and ourselves. We will always comply with any data protection legislation currently in force.
 
-5\. When you access the site, we may ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can 'unsubscribe' at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail at [adminprivacy@bafta.org]
+5\. When you access the site, we may ask you to give us your name, email address and other personal information that will be needed to supply the services to you. You can 'unsubscribe' at any time. We may use your personal data for contacting you via the phone or e-mail for support, notification of new products or new versions, general correspondence regarding the Site and correspondence which may relate to you. If you would rather not receive future marketing emails from us once you have registered please inform us by e-mail.
 
 6\. The information you provide will be kept confidential and will only be passed on to external companies if you have opted in to permit BAFTA to give your contact information to selected companies, business partners, sponsors and advertisers. If you opt out of permitting BAFTA to pass on your information, it will be used only to support your customer relationship with us (i.e. e-mails only from BAFTA) and to provide the specified service. We do not disclose or sell your information outside our corporate group except if we sell the whole or part of our business.
 
@@ -110,7 +110,11 @@ Information on the Data Protection Act 1998 is also on the Information Commissio
 
 BAFTA Management Limited is a company registered in England. Registered number 01163351
 
-[View our Accessibility Standards](https://web.archive.org/accessibility.html)   
-[View our Terms of Use](https://web.archive.org/terms-of-use.html)
+#### More Information
+
+  * [View our Accessibility Standards](https://web.archive.org/accessibility.html)
+  * [View our Terms of Use](https://web.archive.org/terms-of-use.html)
+
+
 
 [Printable Version](https://web.archive.org/print/privacy.html)
