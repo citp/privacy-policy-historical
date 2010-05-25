@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techsatish.tv privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124012620id_/http%3A//www.techsatish.tv/2009/05/30/techsatish-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techsatish.tv privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525200523id_/http%3A//www.techsatish.tv/2009/05/30/techsatish-privacy-policy) for the most accurate reproduction.*
 
 # TECHSATISH Privacy Policy | techsatish.tv - you love it! >> indian tv channels online,hindi tv channels online free,telugu tv channels online live free,tamil tv channels online live free,marathi tv channels online,malayalam tv channels online free,kannada tv channels online free
 
