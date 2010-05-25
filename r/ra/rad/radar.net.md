@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radar.net privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214180426id_/http%3A//radar.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radar.net privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525210154id_/http%3A//radar.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Radar
 
