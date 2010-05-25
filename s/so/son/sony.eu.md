@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2008-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081111203708id_/http%3A//www.sony-europe.com/section/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sony.eu privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105347id_/http%3A//www.sony.co.uk/pages/privacy/Privacy_statement_en_EU.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -162,11 +162,11 @@ B-1935 Zaventem
 
 Belgium
 
-Last Updated: 02/2006
+Last Updated: 2010
 
 Top
 
 These Terms and the contents of this site are subject to copyright.  
-© 2008 Sony. All Rights Reserved.  
-Letzter Update: July 2008  
+© 2010 Sony Europe (Belgium) N.V. All Rights Reserved.  
+Letzter Update: 2010  
 
