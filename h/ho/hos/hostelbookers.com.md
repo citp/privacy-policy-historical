@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123191835id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26TB_iframe%3Dtrue%26height%3D600%26width%3D820) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostelbookers.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525025953id_/http%3A//www.hostelbookers.com/index.cfm%3Ffuseaction%3Dknowledgebase.article%26articleid%3D42%26TB_iframe%3Dtrue%26height%3D600%26width%3D820) for the most accurate reproduction.*
 
 # Customer Knowledge Base
 
