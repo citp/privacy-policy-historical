@@ -1,0 +1,230 @@
+<!--The following is the downloaded HTML source of the memoletter.com privacy policy that was archived on 2010-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525033620id_/http%3A//www.memoletter.com/%3Faction%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="content-type" content="text/html;charset=utf-8">
+	<meta name="author" content="The Memo Group">
+	<meta name="description" content="My Site">
+	<meta name="keywords" content="encyclopedia, info">	
+	<link rel="stylesheet" type="text/css" href="/style.css" media="screen">
+	<title>MEMOLETTER · We share the relevant.</title>
+    <script type="text/javascript" src="/js/jquery.min.js"></script>
+    <script type="text/javascript">		
+	$(document).ready(function(){			
+							   
+		$("div[id='additional_content1']").each(function() {
+			var t = $(this);
+			var val = t.attr('value');
+			t.load('/tools/adv.php', {s: val, c:1});
+		});
+		
+		$("div[id='additional_content_read1']").each(function() {
+			var t = $(this);
+			var val = t.attr('value');
+			t.load('/tools/adv_read.php', {s: val, c:1});
+		});							   
+							   
+		$("div[id='tags']").each(function() {
+			var t = $(this);
+			var val = t.attr('value');
+			t.load('/tools/get_tags.php', {id: val, lang: 'en'});
+		});
+		
+		$('a.tooltipfeed').cluetip({sticky: true, closePosition: 'title', arrows: true});
+	});
+	
+	function changeLang(newlang) {
+		$("span[id='article_title']").each(function() {
+			var t = $(this);
+			var val = t.attr('value');
+			var charsnum = t.attr('charsnum');
+			 $.ajax({
+			   type: "POST",
+			   url: "/tools/translate_article.php",
+			   data: {field: 'article_title', id: val, lang: newlang},
+			   dataType: "text",
+			   success: function(msg){				 
+				 t.html(msg.substring(0,jQuery.trim(charsnum)));
+				 t.parent().attr('title',jQuery.trim(msg));
+				 t.parent().attr('href','/read/'+val+'/'+jQuery.trim(msg));
+			   }
+			 });		
+		});
+	}
+	
+	</script>
+</head>
+<body>
+	<div id="content" style="position: relative">
+
+		<div id="logo" style="float:left">
+			<h1><a href="/" title="We share the relevant.">MEMOLETTER</a></h1>
+			<p id="slogan">We share the relevant.<br>
+</p><div id="Flags">
+                <a href="http://it.memoletter.com" title="Change language to Italian"><img border="0" src="/images/flags/24/it.png" alt="Italian" style="float: left"></a>
+                <a href="http://www.memoletter.com" title="Change language to English"><img border="0" src="/images/flags/24/uk.png" alt="English" style="float: left; margin-left: 10px;"></a>
+                <a href="http://fr.memoletter.com" title="Change language to French"><img border="0" src="/images/flags/24/fr.png" alt="French" style="float: left; margin-left: 10px;"></a>
+                <a href="http://br.memoletter.com" title="Change language to Brazilian"><img border="0" src="/images/flags/24/br.png" alt="Brazilian" style="float: left; margin-left: 10px;"></a>
+                <a href="http://es.memoletter.com" title="Change language to Spanish"><img border="0" src="/images/flags/24/es.png" alt="Spanish" style="float: left; margin-left: 10px;"></a>
+          </div>
+<p></p>                        
+		</div>
+        <!--
+		<div style="float:right;border:1px solid black">
+            
+                <iframe marginheight="0px" 
+                        marginwidth="0px" 
+                        frameborder="0" 
+                        scrolling="no" 
+                        width="728" 
+                        height="90" 
+                        src="http://script.simply.com/rgt.html?id=6071">
+                </iframe>
+                
+        </div>
+        -->
+        
+        <div style="clear:both"></div>
+    		 
+		<ul id="tablist">
+			<li>
+	<a href="/cat/19/Other">Other</a>
+</li>
+<li>
+	<a href="/cat/12/Health-and-Medical">Health and Medical</a>
+</li>
+<li>
+	<a href="/cat/10/Family">Family</a>
+</li>
+<li>
+	<a href="/cat/4/Business">Business</a>
+</li>
+<li>
+	<a href="/cat/24/Travel">Travel</a>
+</li>
+		</ul>
+		
+        
+		<div id="topics">
+        	<div class="thirds" style="width:400px">
+	<p style="line-height:12px;"><strong>We need You!</strong><br>
+We are constantly searching the web for interesting articles about any topic might interest you. We aggregate all these informations and we offer you the possibility to modify each text becoming  part of the creation of a unique data bank for all!</p>
+</div>
+<div class="thirds">
+    <ul>
+        <li><a title="ANTIQUES AND SOCIAL NETWORKING" href="/read/283412/ANTIQUES-AND-SOCIAL-NETWORKING"><span charsnum="25" id="article_title" value="283412">ANTIQUES AND SOCIAL NETWO</span>…</a></li>
+        <li><a title="Easily Find an Address by Phone Number" href="/read/58152/Easily-Find-an-Address-by-Phone-Number"><span charsnum="25" id="article_title" value="58152">Easily Find an Address by</span>…</a></li>
+        <li><a title="Why Food Safety?" href="/read/9857/Why-Food-Safety?"><span charsnum="25" id="article_title" value="9857">Why Food Safety?</span>…</a></li>
+        </ul>
+</div>
+		</div>
+		<div id="search">
+			<form method="post" action="/?action=searchg">
+				<p><input type="text" name="s" class="search"> <input type="submit" value="Search" class="button"></p>
+			</form>
+		</div>
+		
+        <div id="upperleft">
+        	<div style="clear: both; margin: 0px auto; width: 550px;">
+<form action="/login.php" method="post">
+    Username: <input type="text" name="username" style="border: 1px solid #CCC"> 
+    Password: <input type="password" name="password" style="border: 1px solid #CCC"> 
+    <input type="submit" name="submit" value="LOG IN" style="width: 100px; border: 1px solid #CCCCCC;">
+</form>
+</div>
+        </div>		
+        <div id="right">
+			<div style="text-align: center; margin-bottom: 10px;">
+	<form action="/index.php" method="get">
+        <input type="hidden" name="action" value="signup">
+        <input type="submit" name="submit" value="SIGN UP FREE" class="emedbutton">
+    </form>
+</div>
+<div class="right_articles">
+	<p align="justify"><a href="/read/25814/Everyone-Loves-Children's-Wooden-Toys"><img src="/images/image.gif" alt="Image" title="Image" class="image"></a><b><a style="text-decoration:none" href="/read/25814/Everyone-Loves-Children's-Wooden-Toys">Everyone Loves Children's Wooden Toys</a></b><br>
+	For many years children have enjoyed playing with …</p>
+    <div align="right" id="tags" value="25814"><img alt="Wait.." src="/images/mini-ajax-loader.gif"> Loading tags...</div>
+</div>    
+    <div class="right_articles">
+	<p align="justify"><a href="/read/283404/Alarm-Social-Network:-Only-22-Know-All-Their-'friends'"><img src="/images/image.gif" alt="Image" title="Image" class="image"></a><b><a style="text-decoration:none" href="/read/283404/Alarm-Social-Network:-Only-22-Know-All-Their-'friends'">Alarm Social Network: Only 22% Know All Their 'friends'</a></b><br>
+	Alarm social network: Only 22% know all their 'friends'…</p>
+    <div align="right" id="tags" value="283404"><img alt="Wait.." src="/images/mini-ajax-loader.gif"> Loading tags...</div>
+</div>    
+    <div class="right_articles">
+	<p align="justify"><a href="/read/85514/Your-Dream-Home-In-France---Moving-Money-To-France-(Part-3)"><img src="/images/image.gif" alt="Image" title="Image" class="image"></a><b><a style="text-decoration:none" href="/read/85514/Your-Dream-Home-In-France---Moving-Money-To-France-(Part-3)">Your Dream Home In France - Moving Money To France (Part 3)</a></b><br>
+	
+Copyright 2005 Oliver Phillips. May be freely reproduced "as-is"
+for private and commercial use.
+
+ In Part 3 of this series, Oliver Phillips of PFS France (http://www.propert
+yforsalefrance.co.uk/…</p>
+    <div align="right" id="tags" value="85514"><img alt="Wait.." src="/images/mini-ajax-loader.gif"> Loading tags...</div>
+</div>    
+    		</div>		
+		<div id="left">			
+			<div class="left_articles">
+				<p></p>
+<p>We strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. We will never sell, barter, or rent your email address to any unauthorized third party. Period.</p>
+
+<p><b>How we gather information from users</b></p>
+
+<p>How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. For example, you may be asked to provide information when you register for access to certain portions of our site or request certain features, such as newsletters or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site. Like most Web sites, We also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the name of your Internet Service Provider or use cookie technology to recognize you and hold information from your visit. Among other things, the cookie may store your user name and password, sparing you from having to re-enter that information each time you visit, or may control the number of times you encounter a particular advertisement while visiting our site. As we adopt additional technology, we may also gather information through other means. In certain cases, you can choose not to provide us with information, for example by setting your browser to refuse to accept cookies, but if you do you may be unable to access certain portions of the site or may be asked to re-enter your user name and password, and we may not be able to customize the site's features according to your preferences.</p>
+
+<p><b>What we do with the information we collect</b></p>
+
+<p>Like other Web publishers, we collect information to enhance your visit and deliver more individualized content and advertising. We respect your privacy and do not share your information with anyone.</p>
+
+<p>Aggregated Information (information that does not personally identify you) may be used in many ways. For example, we may combine information about your usage patterns with similar information obtained from other users to help enhance our site and services (e.g., to learn which pages are visited most or what features are most attractive). Aggregated Information may occasionally be shared with our advertisers and business partners. Again, this information does not include any Personally Identifiable Information about you or allow anyone to identify you individually.</p>
+
+<p>We may use Personally Identifiable Information collected on this website to communicate with you about your registration and customization preferences; our Terms of Service and privacy policy; services and products offered by this website and other topics we think you might find of interest.</p>
+
+<p>Personally Identifiable Information collected by We may also be used for other purposes, including but not limited to site administration, troubleshooting, processing of e-commerce transactions, administration of sweepstakes and contests, and other communications with you. Certain third parties who provide technical support for the operation of our site (our Web hosting service for example) may access such information. We will use your information only as permitted by law. In addition, from time to time as we continue to develop our business, we may sell, buy, merge or partner with other companies or businesses. In such transactions, user information may be among the transferred assets. We may also disclose your information in response to a court order, at other times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note we may not provide you with notice prior to disclosure in such cases.</p>
+
+<p><b>Affiliated sites, linked sites and advertisements</b></p>
+
+<p>We expects its partners, advertisers and affiliates to respect the privacy of our users. Be aware, however, that third parties, including our partners, advertisers, affiliates and other content providers accessible through our site, may have their own privacy and data collection policies and practices. For example, during your visit to our site you may link to, or view as part of a frame on a this website page, certain content that is actually created or hosted by a third party. Also, through We you may be introduced to, or be able to access, information, Web sites, features, contests or sweepstakes offered by other parties. We is not responsible for the actions or policies of such third parties. You should check the applicable privacy policies of those third parties when providing information on a feature or page operated by a third party.</p>
+
+<p>While on our site, our advertisers, promotional partners or other third parties may use cookies or other technology to attempt to identify some of your preferences or retrieve information about you. For example, some of our advertising is served by third parties and may include cookies that enable the advertiser to determine whether you have seen a particular advertisement before. Other features available on our site may offer services operated by third parties and may use cookies or other technology to gather information. We does not control the use of this technology by third parties or the resulting information, and is not responsible for any actions or policies of such third parties.</p>
+
+<p>You should also be aware that if you voluntarily disclose Personally Identifiable Information on message boards or in chat areas, that information can be viewed publicly and can be collected and used by third parties without our knowledge and may result in unsolicited messages from other individuals or third parties. Such activities are beyond the control of We and this policy.
+
+</p><p><b>Children</b></p>
+
+<p>We does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe We has any information from or about anyone under 13, please contact us at the address listed below.</p>
+
+<p><b>Contacting Us</b></p>
+
+<p>We can be reached by emailing us.</p>
+
+<p><b>Changes to this Policy</b></p>
+
+<p>We reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.</p>
+
+<p><b>Governing law</b></p>
+
+<p>This policy and the use of this Site are governed by Texas law. If a dispute arises under this Policy we agree to first try to resolve it with the help of a mutually agreed-upon mediator in the following location: Austin. Any costs and fees other than attorney fees associated with the mediation will be shared equally by each of us.</p>
+
+<p>If it proves impossible to arrive at a mutually satisfactory solution through mediation, we agree to submit the dispute to binding arbitration at the following location: Austin, under the rules of the American Arbitration Association. Judgment upon the award rendered by the arbitration may be entered in any court with jurisdiction to do so.</p>
+
+<p>This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
+			</div>
+						</div>	
+		
+		<div id="footer">
+			<p class="right">© 2009</p>
+			<p><a href="/?action=contact">Contact</a> · <a href="?action=disclaimer">Disclaimer</a> · <a href="?action=privacy">Privacy Policy</a> · <a target="_blank" href="http://jigsaw.w3.org/css-validator/check/referer">CSS</a> <br></p>
+			
+		</div>
+	</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9168670-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>    
+    
+
+</body></html>
