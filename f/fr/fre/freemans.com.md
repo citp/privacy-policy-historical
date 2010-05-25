@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912173902id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freemans.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/question.asp%3Fqid%3D346) for the most accurate reproduction.*
 
 # What is your privacy policy? - Freemans Help
 
-  * [Help](https://web.archive.org/web/20080912173902id_/http%3A//www.freemans.com/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20080912173902id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
+  * [Help](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/category.asp?cid=70)
 
 
 
@@ -28,7 +28,7 @@ We will use your information in the following ways:
 
 
 
-If you do not want us to use your information for third party marketing purposes, please write to us at: Freemans, Otto House, Ingleby Road, Bradford BD992XG
+If you do not want us to use your information for third party marketing purposes, please write to us at: Freemans, Ingleby Road, Bradford BD992XG
 
 Any information we collect about customers' browsing and buying habits is used to improve the Freemans website and the products and services offered to our customers. It also assists us with the detection and prevention of fraud.
 
@@ -47,6 +47,6 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [What is your data protection policy?](https://web.archive.org/web/20080912173902id_/http%3A//www.freemans.com/web/main/help/question.asp?qid=345)
+  * [What is your data protection policy?](https://web.archive.org/web/20100526013428id_/http%3A//www.freemans.com/web/main/help/question.asp?qid=345)
 
 
