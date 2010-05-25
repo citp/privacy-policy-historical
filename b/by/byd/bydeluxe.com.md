@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bydeluxe.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103050647id_/http%3A//www.bydeluxe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bydeluxe.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526011850id_/http%3A//www.bydeluxe.com/privacy) for the most accurate reproduction.*
 
-# Deluxe - Deluxe - Privacy Policy
+# Deluxe - Privacy Policy
 
 IMPORTANT: BY USING THIS WEBSITE YOU GIVE YOUR CONSENT THAT ALL PERSONAL DATA SUBMITTED BY YOU MAY BE PROCESSED BY US FOR THE PURPOSES SET OUT BELOW. 
 
@@ -54,4 +54,4 @@ Deluxe is part of the worldwide web and because of this your personal data may b
 
 This policy and consent forms part of our website terms of use and as such it shall be governed by and construed in accordance with the laws of England and Wales. You irrevocably agree that the courts of England and Wales shall have exclusive jurisdiction to resolve and dispute or claim of whatever nature arising out of or relating to this policy and consent or otherwise to the use of your personal data, and that the laws of England and Wales shall govern such dispute or claim. However, we retain the right to bring legal proceedings in any jurisdiction where we believe that infringement of our intellectual property rights or breach of those terms in taking place or originating. You are responsible for compliance with any applicable laws and regulation of the jurisdiction from which you are accessing this website. We operate this website from England and make no representation or warranty that the information contained herein is appropriate or available for use in other locations outside England and Wales. 
 
-[](http://www.bydeluxe.com/)
+[](https://web.archive.org/)
