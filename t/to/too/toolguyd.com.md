@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514015354id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toolguyd.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525110141id_/http%3A//toolguyd.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « ToolGuyd
+# Privacy Policy
 
 **Your Privacy is Very Important to Us**
 
@@ -10,7 +10,7 @@ Your information will not be shared in any way other than in the manner describe
 
 **Email**
 
-You are required to enter your email address when commenting to an entry or article - this is only done for anti-spam purposes. On rare occasion, ToolGuyd may chose to use this email address to respond to your comment or to contact you on an individual and case by case basis. The email address you enter in the comment form will never be added to any email list. If you are uncomfortable with the idea of submitting your real email address, feel free to make one up.
+You are required to enter your email address when commenting to an entry or article – this is only done for anti-spam purposes. On rare occasion, ToolGuyd may chose to use this email address to respond to your comment or to contact you on an individual and case by case basis. The email address you enter in the comment form will never be added to any email list. If you are uncomfortable with the idea of submitting your real email address, feel free to make one up.
 
 Should you send us an email directly or via our [contact us](http://toolguyd.com/contact-us) form, we use your email address to direct our reply.
 
