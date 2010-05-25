@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygate.co.za privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123115941id_/http%3A//www.mygate.co.za/info/private-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygate.co.za privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525024022id_/http%3A//mygate.co.za/info/private-policy) for the most accurate reproduction.*
 
 # Privacy Policy | info - MyGate
 
