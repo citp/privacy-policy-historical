@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2009-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091005025708id_/http%3A//www.plazahotelcasino.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plazahotelcasino.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525163629id_/http%3A//www.plazahotelcasino.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Downtown Las Vegas Hotel & Casino - plazahotelcasino.com :: Privacy-policy
+# Untitled Document
 
 **PLAZA HOTEL & CASINO ONLINE PRIVACY POLICY**
 
@@ -49,5 +49,4 @@ Pursuant to law, persons under the age of twenty-one (21) are not permitted to g
 If you want to change, correct, update, or delete your registration information, please contact us via email at privacy@playlv.com, call us at (702) 876-1001, or send your request to PlayLV Gaming Corporation, Attn: Registration Information Correction, 501 S. Rancho, Suite B-10, Las Vegas, NV 89106, and the necessary revisions will be made. This provision applies only to registration information collected via the Web sites. 
 
 **CHANGES**  
-We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the Web site. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at privacy@playlv.com.  
-
+We reserve the right to modify or change this Privacy Policy at any time, simply by posting such changes on the Web site. Any such change, update, or modification will be effective immediately upon posting. If you have any questions regarding this Privacy Policy, please contact us at privacy@playlv.com.
