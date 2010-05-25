@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526213001id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stomping2.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525235341id_/http%3A//www.stomperblog.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | StomperNet
 
@@ -18,7 +18,8 @@ Use.
 STOMPERNET LLC is committed to best email practices, and has been accredited by  
 the Institute for Spam and Internet Public Policy as meeting the  
 requirements for listing in their SuretyMail IADB Email Accreditation Program. Our IADB  
-registration number is 20070516000566. For more information see  
+registration number is 20070516000566. For more information see
+
 http://www.SuretyMail.com
 
 **Collection of your Personal Information**
