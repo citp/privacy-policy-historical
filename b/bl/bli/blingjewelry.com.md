@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122215259id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingjewelry.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525085450id_/http%3A//www.blingjewelry.com/privacy-policy-i-3.html) for the most accurate reproduction.*
 
 # Bling Costume, Antique Jewelry Privacy Policy
 
