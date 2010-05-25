@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2009-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091120153000id_/http%3A//www.shadygrovefertility.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shadygrovefertility.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525050142id_/http%3A//www.shadygrovefertility.com/privacy) for the most accurate reproduction.*
 
 # Joint Notice of Privacy Practices | Shady Grove Fertility
 
