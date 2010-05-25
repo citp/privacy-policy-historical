@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2007-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070710170521id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blingo.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525200140id_/http%3A//www.blingo.com/privacy) for the most accurate reproduction.*
 
 # Blingo: Privacy Policy
 
@@ -56,6 +56,6 @@ Mill Valley, CA 94941
 
 [](https://web.archive.org/aboutfriends)  
   
-Copyright © 2004-7 Blingo, Inc. 
+Copyright © 2004-9 Blingo, Inc. 
 
 All trademarks and registered trademarks appearing on this site are the property of their respective owners. Said owners do not endorse nor are they affiliated with Blingo.com or its promotions.
