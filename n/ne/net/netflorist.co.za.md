@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netflorist.co.za privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412135732id_/http%3A//ww1.netflorist.co.za/Security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netflorist.co.za privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525105838id_/http%3A//www.netflorist.co.za/Security.htm) for the most accurate reproduction.*
 
 # Security information | NetFlorist.co.za
 
