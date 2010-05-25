@@ -1,81 +1,43 @@
-> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the societyforscience.org privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525111745id_/http%3A//www.societyforscience.org/Page.aspx%3Fpid%3D187) for the most accurate reproduction.*
 
-# Privacy Statement
+# Society for Science & the Public
 
-ABOUT SSP
+Society for Science & the Public (“SSP”) is concerned about the privacy of visitors to the [www.societyforscience.org](http://www.societyforscience.org/) website (the “Website”) and the confidentiality of their information shared with us through the Website. SSP will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below.
 
-[About SSP ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/aboutus.html)
+_Collected Information_
 
-[Board of Trustees & Staff ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/trustees.html)
+SSP collects information about the users of the Website in order assist in determining which parts of the website visitors find most valuable. This allows the Website to continually improve the services it provides. For example, the Website may track the URL that you visited before you came to the Website, the URL to which you next go, and your IP addresses. SSP uses your IP address to help diagnose problems with the Website servers and to administer the Website.
 
-[Contact Us ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/contactus.html)
+Users may use the Website without registering, but registration must occur in order to use any of the personalized web services. The registration form requires specific contact information, including name and e-mail address. The customer contact information is used to learn more about our users and to contact users when necessary. Unique identifiers (such as user IDs and passwords) are collected to verify the user's identity and for use as account numbers in our record system.
 
-[History](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/history.html)
+_Disclosure of Information_
 
-[Membership ](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/membership/signup.cfm)
+It is our general policy not to share any of the information collected on the Website with any third parties. Notwithstanding the foregoing, SSP will divulge any information collected from you on the Website when required to do so by law. 
 
-[Outreach](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/outreach/Index.asp)
+_Security Measures_
 
-[Press Information](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/pressreleases.html)
+Your account containing your information is password protected and should not be shared with anyone. The Website has security measures in place to protect the loss, misuse, and alteration of the information under our control. 
 
-Program Information
+_E-Commerce Security Practice_
 
-[**Intel Science Talent Search 2010 (Intel STS 2010)**](http://www.societyforscience.org/sts/index.asp)[](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/sts/index.asp)  
-Science Talent Institute  
-March 11-17, 2010  
-Washington, DC
+Maintaining the confidentiality of your personal information is important to SSP. Credit card numbers are used for the limited purpose of processing your SSP orders. When your credit card information is transmitted to SSP for validation, it is secured by encryption technology, which enables information to be sent over the Internet in an encrypted form to ensure protection against unauthorized access to your personal information. 
 
-[**Intel International Science and Engineering Fair 2010  
-(Intel ISEF 2010)**](http://www.societyforscience.org/isef/index.asp)[](https://web.archive.org/web/20091028012414id_/http%3A//www.societyforscience.org/isef/index.asp)  
-May 9-14, 2010  
-San Jose, CA 
+Notwithstanding the above, SSP makes NO WARRANTY in respect of the strength or effectiveness of the above encryption and SSP is not responsible for events arising from unauthorized access of the information you provide. 
 
-SSP on the Web
+_E-mail Communications_
 
-[****](http://www.societyforscience.org/sts/index.asp)**[ Find us on Facebook](http://www.facebook.com/pages/Society-for-Science-the-Public/68096845180)**
+SSP communicates with its users by e-mail for specific web-related functions, such as password reminders. Users who register with the Website have the option of receiving occasional e-mails from SSP about new features and items of interest. SSP does not release User’s email addresses to outside organizations. 
 
-[****](http://www.societyforscience.org/sts/index.asp)**[ LinkedIn Group](http://www.linkedin.com/groups?gid=1785120)**
+_Cookies_
 
-[****](http://www.societyforscience.org/sts/index.asp)**[ SSP Video Channel](http://www.facebook.com/pages/Society-for-Science-the-Public/68096845180)**
+Cookies are files that contain information created by a web server that can be stored on a User's hard disk for use either during a particular session ("per-session" cookie) or for future use ("persistent" cookie). SSP uses cookies only to facilitate automated activity, store and track SSP ID numbers, session status, and navigation patterns. Cookies are not used to disseminate significant information about Users over the Internet or to analyze any information that Users have knowingly or unknowingly provided. When a user registers, the system will ask whether the user approves of the attachment of a cookie. Users may instruct their Internet browsers to opt out of accepting a "persistent" cookie and rather accept only a "per-session" cookie, but will need to login each time they visit the site to enjoy the full benefits. If the user declines the attachment of any cookie, the user may not have access to the full benefits of the website. Registration enables the site to better determine members' interest areas and provide the most relevant information.
 
-******[ Flickr Photostream](http://www.youtube.com/SocietyforScience)**
+_Social Media_
 
-| 
+SSP may use names or contact information derived from SSP’s Facebook Fans, LinkedIn Connections, YouTube Subscribers, Twitter Followers, and Flickr Contacts to notify them, outside of the social medium in which they connected to SSP, of announcements, messages, or other information, such as contests, special offers, or opportunities to register for events or newsletters.
 
-Privacy Statement 
+_Privacy Policy Updates_
 
-  
+SSP will occasionally update this Privacy Statement. Any changes to our Privacy Statement will be posted here so that users will know what information we gather, how we might use that information, and whether we will disclose it to anyone
 
-
-[Society for Science & the Public Home](https://web.archive.org/web/20091028012414id_/http%3A//index.html) > Privacy Statement
-
-|  |  |  |  |  |  |   
----|---|---|---|---|---|---  
-  |  |  |  |  |  |    
-|  |  | 
-
-Elizabeth Flores and Christina Izatt teamed up to compete in the Intel ISEF 2007, a program of Society for Science & the Public. 
-
-|  |  |   
-  |  |  |   |  |  |    
-|  |  |  |  |  |   
-|  |   |  |   |  |   
-  
-The privacy of our web site visitors is of the utmost importance to Society for Science & the Public. We realize that privacy must be respected whether communicating by electronic or more historical means. 
-
-Our internet policy is:
-
-  * You do not have to give us personal information to visit our site.
-  * We collect personal information (name, address, e-mail address, or other unique identifiers) only if specifically and knowingly provided by you.
-  * Personal information you provide will be used only in connection with the purposes described at the point of collection and optional inclusion on the Society for Science & the Public mailing list.
-  * Our site provides users the opportunity to opt-out or discontinue receiving communications from us.
-  * This site contains links to other sites.  Society for Science & the Public is not responsible for the privacy practices or the content of such Web sites.
-  * This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including limited, password protected, access to the files on our servers.
-  * We do not enable "cookies".  (A "cookie" is a file placed on your hard drive by a Web site that allows it to monitor your use of the site, usually without your knowledge).
-
-
-
-Please address inquiries to [webmaster@societyforscience.org](mailto:webmaster@societyforscience.org)  
-  
-© 2008 Society for Science & the Public. All Rights Reserved.  
-Society for Science & the Public 1719 N Street N.W. , Washington, DC 20036, 202-785-2255.
+Please address inquiries to [webmaster@societyforscience.org](mailto:webmaster@societyforscience.org)
