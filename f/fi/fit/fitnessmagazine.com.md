@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the fitnessmagazine.com privacy policy that was archived on 2007-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070904003003id_/http%3A//www.fitnessmagazine.com/fitness/file.jhtml%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitnessmagazine.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526002147id_/http%3A//www.fitnessmagazine.com/fitness/file.jsp%3Fitem%3D/legal/privacy) for the most accurate reproduction.*
 
 # Fitness Magazine Online
 
   * Online Privacy Policy
-  * [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html)
-  * [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jhtml;?item=/legal/terms&temp=no)
+  * [Offline Privacy Policy](http://www.fitnessmagazine.com/fitness/file.jsp?item=/privacy/policy)
+  * [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jsp;?item=/legal/terms&temp=no)
   * Your California Privacy Rights
-  * Meredith Corporation “Shine the Light” Customer Notice
+  * Meredith Corporation �Shine the Light� Customer Notice
 
 
 
 ## ONLINE PRIVACY POLICY
 
-Welcome to our website! FitnessMagazine.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](https://secure.meredith.com/privacy/policy.html) to see our Offline Privacy Policy.
+Welcome to our website! FitnessMagazine.com is a service provided by Meredith Corporation ("Meredith," "we" or "us"). Since 1902, Meredith has been committed to providing our customers with products and services characterized by outstanding quality, customer service and value. Our Online Privacy Policy continues our commitment to serve you and to protect your privacy online. Please [click here](http://www.fitnessmagazine.com/fitness/file.jsp?item=/privacy/policy) to see our Offline Privacy Policy.
 
-By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jhtml;?item=/legal/terms&temp=no). Please take a few minutes to read them before using or registering with any of our sites.
+By visiting any of our sites, you agree that your visit, and any dispute over privacy, is governed by this Online Privacy Policy and our [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jsp;?item=/legal/terms&temp=no). Please take a few minutes to read them before using or registering with any of our sites.
 
 PLEASE NOTE THAT THIS PRIVACY POLICY APPLIES ONLY TO OUR ONLINE COLLECTION AND USE OF INFORMATION AND DOES NOT APPLY TO ANY INFORMATION THAT YOU MAY PROVIDE TO US BY OTHER MEANS, SUCH AS VIA MAIL OR TELEPHONE. 
 
@@ -95,7 +95,7 @@ Return to top
 
 ### Security:
 
-The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jhtml;?item=/legal/terms&temp=no) for more information related to posting materials on our sites, including our use of such materials.
+The personally identifying information we collect is stored within a database that we control. We use standard, industry-wide procedures such as firewalls and SSL (Secure Sockets Layer) encryption to protect your information. However, as effective as encryption technology is, no security system is impenetrable. We cannot guarantee the security of our database, nor can we guarantee that information you supply won't be intercepted while being transmitted to us over the Internet. And, of course, any information you include in a message you post to any message board, discussion group, or other public posting area on our sites is available to anyone with Internet access. If you don't want people to know your name or email address, for example, make sure not to include it in any message you post publicly. Please see our [Visitor Agreement](http://www.fitnessmagazine.com/fitness/file.jsp;?item=/legal/terms&temp=no) for more information related to posting materials on our sites, including our use of such materials.
 
 Return to top 
 
@@ -109,11 +109,11 @@ Return to top
 
 **(As provided by California Civil Code Section 1798.83)**
 
-Under California Civil Code Section 1798.83 – also known as the “Shine the Light” law – California residents have a right to request certain information from each business they patronize regarding that business’s disclosures of personal information to third parties for the third parties’ direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
+Under California Civil Code Section 1798.83 � also known as the �Shine the Light� law � California residents have a right to request certain information from each business they patronize regarding that business�s disclosures of personal information to third parties for the third parties� direct marketing purposes. Generally, if a business has disclosed personal information regarding its California customers to third parties for direct marketing purposes in the preceding calendar year, the business is required to provide, upon request and free of charge, a list of the names and addresses of all such third parties, together with a list of the categories of personal information that was disclosed.
 
-The “Shine The Light” law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
+The �Shine The Light� law creates an exception for businesses that adopt and disclose to the public (in their privacy policies) a policy of not sharing personal information for direct marketing purposes without offering their customers choices to prevent such disclosures. These businesses are not obligated to provide the lists described above and may respond to requests from California customers by notifying them of their rights to prevent disclosures of personal information for direct marketing purposes and providing a cost-free means of exercising those rights. 
 
-Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties’ direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our “Shine The Light” Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
+Meredith Corporation qualifies for this latter exception. As further explained in our Online Privacy Policy and [Offline Privacy Policy](https://secure.meredith.com/privacy/policy.html), we offer our customers choices to prevent the disclosure of their personal information to third parties for the third parties� direct marketing purposes. To prevent such disclosures of your information, please follow the instructions in our �Shine The Light� Customer Notice, which is included below for your convenience. You can also request a copy of this Notice by emailing us at [privacy@meredith.com](mailto:privacy@meredith.com). Please note that we are only required to respond to one request for per California customer during the course of any calendar year and we reserve the right not to respond to requests made by means other than through this email address.
 
 Return to top 
 
@@ -123,7 +123,7 @@ The following options are available to any customers who wish to prevent the dis
 
 #### Disclosures of Name and Postal Address Information. 
 
-If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [“opt-out” form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
+If you subscribe to a magazine published by Meredith Corporation, or if you otherwise provide us with your name and postal address, we may share this information with other reputable companies that offer products and services that we believe may be of interest to you. To remove your name and postal address from any marketing lists that we sell or rent to third parties, complete the online [�opt-out� form](https://secure.meredith.com/privacy/policy.html) or email your name and address to [privacy@meredith.com](mailto:privacy@meredith.com). If you prefer to contact us by regular mail, send a postcard or letter including your name and postal address to Meredith Corporation, Opt-out Postal: Attn Circulation, 1716 Locust Street, Des Moines, Iowa 50309. 
 
 #### Disclosures of Website Registration Information.
 
@@ -136,6 +136,3 @@ Many of the third-party offers promoted through our websites are brought to our 
 From time to time, we may offer co-sponsored sweepstakes, contests and other promotions with third-party advertisers and other partners. We may share your registration information with third-parties involved in a co-sponsored promotion, who will always be identified in the promotion materials (for example, in the official rules). If you do not want your registration information to be disclosed to these third-parties, please do not register for any of our co-sponsored promotions.
 
 Return to top 
-
-  
-|  |  | 
