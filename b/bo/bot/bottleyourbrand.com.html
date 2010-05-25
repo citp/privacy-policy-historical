@@ -1,0 +1,545 @@
+<!--The following is the downloaded HTML source of the bottleyourbrand.com privacy policy that was archived on 2010-05-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100525071830id_/http%3A//www.bottleyourbrand.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" class=" js"><head>
+	<meta http-equiv="content-style-type" content="text/css">
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+	<link rel="Shortcut Icon" href="http://s3.bottleyourbrand.com/html/img/bybfavicon.ico" type="image/x-icon">
+	
+	
+<title>Privacy Policy</title>
+<meta name="description" content="Privacy Policy for Bottle Your Brand.">
+<meta name="keywords" content="Privacy Policy, bottle your brand privacy policy, privacy policy for bottle your brand">
+
+	<link rel="canonical" href="http://www.bottleyourbrand.com/privacy-policy">
+
+<link rel="stylesheet" type="text/css" href="http://s3.bottleyourbrand.com/html/css/screen.css" media="screen, projection, tty">
+<link rel="stylesheet" type="text/css" href="http://s3.bottleyourbrand.com/html/css/print.css" media="print">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="http://s3.bottleyourbrand.com/html/js/scripts.js"></script>	
+	<script type="text/javascript">document.documentElement.className += " js";</script>
+	<!--[if IE]><script type="text/javascript" src="http://s3.bottleyourbrand.com/html/js/roundies.js"></script><![endif]-->
+	<script type="text/javascript">
+		function subscribeEmail(){
+	 	
+	 	var emailAddress = $("#subs_emailAddress").val();
+	  	var params ={  
+	                   emailAddress: emailAddress
+	                };
+	   $.ajax({
+		        url: "/byb/control/subscribeToNewsletter",
+		        cache: false,
+		        global: false,
+		        type: "POST",
+		        data: params,
+		        dataType: "json",
+		        success: function(json, msg){
+		                  if (json.status == 'SUCCESS') {
+								$('div#newsletter').html("<h2>Thank you for signing up! <span>You'll receive a sign up confirmation email in a few minutes.</span></h2>");
+							} else {
+								alert(json.errors);
+							}
+		        }
+		     });
+	 }
+  </script>	 
+</head>
+<body>
+
+<div id="root">
+	<div id="top">
+		<h1 id="logo"><a href="/" accesskey="h"><img src="http://s3.bottleyourbrand.com/html/img/logo.png" width="295" height="42" alt="Bottle Your Brand"></a></h1>
+		<div class="search-a">
+			<!-- Google CSE Search Box Begins  -->
+			<form action="/byb/control/gsearch" name="gsearch" id="searchbox_010375552319769440266:adtz_wjhhmw">
+				<p>
+					<label for="f-search">Search</label> <input type="text" name="q" value="" size="31" id="f-search"> <button type="submit">Search</button>
+					<input type="hidden" name="cx" value="010375552319769440266:adtz_wjhhmw">
+					<input type="hidden" name="ie" value="UTF-8">
+					<input type="hidden" name="cof" value="FORID:10;NB:1">
+				</p>	
+			</form>
+			<!-- Google CSE Search Box Ends -->		
+		
+		</div><!-- .search-a -->
+		<div class="user-options">
+			<p class="user" id="user"></p>
+			<script>
+				var cookie = Cookie.get("MicroUser");
+				if(cookie!=null){
+					var userElement = document.getElementById('user');
+					if(cookie=="_NO_NAME_"){
+						userElement.innerHTML = "<a href=\"#\">Welcome&nbsp;</a> <span>|</span> <a href=\"http://www.bottleyourbrand.com/logout\" class=\"logout\">(sign out)</a>";
+					}else{
+						userElement.innerHTML = "<a href=\"#\">Welcome " + cookie + "</a> <span>|</span> <a href=\"http://www.bottleyourbrand.com/logout\" class=\"logout\">(sign out)</a>";
+					}
+				}
+				var sessionCookie = Cookie.get("MicroSession");
+				if(sessionCookie!=null){
+					Cookie.set("JSESSIONID",sessionCookie,365);
+				}
+			</script>
+			<p class="cart"><a href="/byb/control/viewCart">View Cart</a></p>
+		</div><!-- .user-options -->
+
+	</div><!-- #top -->
+	
+	
+	<h2 class="offset">Navigation</h2>
+	<ul id="nav">
+		<li id="nav-create"><a href="/" accesskey="1" class="t"><span>Create My Own</span></a><em> [1]</em>
+			
+<div class="sub">
+	<!--<div class="col-a"> -->
+				<p><strong>Products</strong></p>
+				<ul class="a">
+						<li><a href="/bumper-stickers">Bumper Stickers</a></li>
+						<li><a href="/custom-water">Custom Label Bottled Water</a></li>
+						<li><a href="/custom-labels">Custom Labels</a></li>
+						<li><a href="/water-bottle-labels">Custom Water Bottle Labels</a></li>
+						<li><a href="/custom-beer-labels">Personalized Beer Labels</a></li>
+						<li><a href="/personalized-wine-labels">Personalized Wine Labels</a></li>
+				</ul>
+	<!--</div> --><!--.col-a -->
+
+	<!-- <div class="col-b">
+			<p><strong>Categories</strong></p>
+			<ul>
+		      		<li><a href="/all-occasions">All Occasions</a></li>
+		      		<li><a href="/baby-shower">Baby Shower</a></li>
+		      		<li><a href="/bachelorette">Bachelorette</a></li>
+		      		<li><a href="/birthday">Birthday</a></li>
+		      		<li><a href="/funny">Funny</a></li>
+		      		<li><a href="/graduation">Graduation</a></li>
+		      		<li><a href="/holidays">Holidays</a></li>
+		      		<li><a href="/religious">Religious</a></li>
+		      		<li><a href="/retirement">Retirement</a></li>
+		      		<li><a href="/sports">Sports</a></li>
+		      		<li><a href="/weddings">Weddings</a></li>
+	      	</ul>
+	</div> --> <!--.col-b -->					
+</div><!-- .sub -->
+	
+		</li>
+
+		<li id="nav-account"><a href="https://www.bottleyourbrand.com/byb/control/login" accesskey="2" class="t"><span>My Account</span></a><em> [2]</em>
+			
+<div class="sub" id="myAccount">
+
+		<p>Please sign in to access this page.  Once logged in, you will have access to quick checkout, order tracking/history and reorders.</p>
+		
+		<p><strong>Existing Users: Sign In</strong></p>
+		<form id="signin_form" action="https://www.bottleyourbrand.com/byb/control/login" method="post">
+			<p>
+				<label for="f-username">Username:</label><input type="text" name="USERNAME" value="" id="Your_email_address">
+				<input type="hidden" name="viewPage" value="myAccount">
+			</p>
+			<p>
+				<label for="f-password">Password</label><input type="password" name="PASSWORD" value="" id="Your_password">
+			</p>
+			<p class="submit"><button type="submit">Submit</button> <a href="javascript:showdiv();" class="forgot">Forgot Your Password?</a></p>
+		</form>
+		<div class="register">
+				<p><a href="https://www.bottleyourbrand.com/byb/control/login">Create an Account</a></p>
+		</div><!-- .register -->
+</div><!-- .sub -->
+
+<div class="hidden" id="forgot-password-form">
+	<div style="opacity: 0.35; filter:alpha(opacity=35);" id="byb-overlay"></div>
+	<div class="byb-lightbox byb-lightbox-a">
+		<div class="byb-wrapper">		
+			<h2>Forgot Your Password?</h2>
+			<p>Enter your e-mail address below to have your password reset. You will receive an e-mail with a new temporary password in it</p>
+			<form action="/byb/control/forgotpassword" method="post" class="forgot-password-a">
+				<p>
+					<label for="f-email-address">Email Address</label><input style="background-color: rgb(255, 255, 160);" name="USERNAME" value="" id="f-email-address" type="text">
+					<button type="submit">Send</button>
+				</p>
+				<p class="close"><a href="./">Close</a></p>
+			</form>
+		</div>
+	</div><!-- .byb-lightbox byb-lightbox-a -->
+</div>
+
+<script type="text/javascript">
+
+function showdiv() {
+				if (document.getElementById) { 
+					document.getElementById('forgot-password-form').style.display='block';
+				}else{
+					if (document.layers) { 
+						document.hideShow.visibility = 'block';
+					}else{ 
+						document.all.hideShow.style.visibility = 'block';
+					}
+				}
+			}
+</script>
+
+<script>
+	var cookie = Cookie.get("MicroUser");
+	if(cookie!=null){
+		var userElement = document.getElementById('myAccount');
+		userElement.innerHTML = "<p><strong>Account Links:</strong></p>" +
+								"<ul style=\"padding-left:10px\">" +
+								"<li class=\"clear\"><a href=\"/my-account\">Account Settings</a></li>" +
+								"<li class=\"clear\"><a href=\"/my-images\">Images</a></li>" +
+								"<li class=\"clear\"><a href=\"#\">Designs:</a></li>" +
+								"<ul>" +
+									"<li class=\"clear last\"><a href=\"/private-designs\">Private</a></li>" +
+									"<li class=\"clear last\"><a href=\"/public-designs\">Public</a></li>" +
+								"</ul>" +
+								"</ul>";
+	}
+</script>
+
+
+		</li>
+
+		<li id="nav-community"><a href="/" accesskey="3" class="t"><span>Community</span></a><em> [3]</em>
+			
+<div class="sub">
+	<ul>
+		<li class="a"><a href="http://www.bottleyourbrand.com/blog" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-blog.png" width="46" height="46" alt="Blog"></a></li>
+		<li><a href="http://twitter.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-twitter.png" width="45" height="45" alt="Twitter"></a></li>
+		<li class="a b"><a href="http://www.facebook.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/ico-facebook.png" width="45" height="44" alt="Facebook"></a></li>
+		<li class="b"><a href="http://www.youtube.com/bottleyourbrand" target="_blank"><img src="http://s3.bottleyourbrand.com/html/img/icon-youtube.png" width="45" height="45" alt="YouTube"></a></li>
+	</ul>
+</div><!-- .sub -->
+
+		</li>
+
+		<li id="nav-help"><a href="/" accesskey="4" class="t"><span>Help Me!</span></a><em> [4]</em>
+			
+<div class="sub">
+	<div class="col-a">
+		<p><strong>Phone</strong></p>
+		<p>1-866-935-2235</p>
+		
+		<p><strong>Fax</strong></p>
+		<p>425-284-5495</p>
+		
+	</div><!-- .col-a -->
+	<div class="col-b">					
+		<p><strong>Business Hours</strong></p>
+		<p>9am to 5pm PST M-F</p>
+		<p><strong>Email</strong></p>
+		<p><a href="mailto:info/at/bottleyourbrand.com">info/at/bottleyourbrand.com</a></p>
+
+	</div><!-- .col-b -->					
+	<p class="more">Need more help? Visit our<a href="/faqs" target="_blank"> FAQ </a>or <a href="/pricing" target="_blank">Pricing</a> page.</p>
+</div><!-- .sub -->						
+		
+		</li>
+	</ul>
+
+
+	<div id="content">
+		<div id="main-a">
+
+<div id="container">
+<div class="post" id="post-18">
+<h2>Privacy Policy</h2>
+			
+
+<div class="entry">
+				
+
+<p>Thank you for using http://www.BottleYourBrand.com/ (the "Bottle Your Brand Website").  We here at BottleYourBrand.com, LLC ("Bottle Your Brand") are committed to protecting your privacy.  We have created this privacy policy to make sure you know what information we collect and how we use it.  By using our web site, you consent to the collection and use of your information as we have outlined in this policy.  We may update this privacy policy on occasion.  If we do, we will notify you about material changes in the way we treat personally identifiable information by emailing you and/or placing a notice on our Website.  We encourage you to continually review this privacy policy so that you always will know what personal information we collect, how we use it, and to whom we disclose it.  Your continued use of the Bottle Your Brand Website will be subject to the then current privacy policy.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Uploading and Posting Information on the Bottle Your Brand Website:</strong>
+</p>
+				
+
+<p>When you register for a Bottle Your Brand account, you get to choose and provide us with a user name and password.  Whenever you upload a design or post a comment or message on the Bottle Your Brand Website, your user name is visible to other users.  If your comment or message contains personal information and you post it on a page that is accessible to the public, third parties could potentially make note of the information and you could receive unsolicited messages from other parties as a result.  Any content or information you upload or post is not considered personally identifiable information subject to this Privacy Policy.  Please remember to use care when you post any information.</p>
+				
+
+<p>Are you wondering what information we do collect?  Read on!</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Information Provided By You:</strong>
+</p>
+				
+
+<p>You provide us with certain personally identifiable information when you:</p>
+				<ul>
+					<li>
+<p>Register for a Bottle Your Brand account;</p>
+</li>
+					<li>
+<p>Order products;</p>
+</li>
+					<li>
+<p>Request customer service or send us any other communication;</p>
+</li>
+					<li>
+<p>Sign up for newsletters, email alerts, and special offers;</p>
+</li>
+					<li>
+<p>Enter contests.</p>
+</li>
+				</ul>
+				
+
+<p>The personally identifiable information may include your name, email address, billing address, shipping address, and credit card number.  You can also provide us with information about other people, such as their email addresses, if you email one of our products to a friend or refer a friend to the Bottle Your Brand Website or our one of our promotions.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Information Collected by Cookies:</strong>
+</p>
+				
+
+<p>We use cookies on the Bottle Your Brand Website.  In case you're wondering why we keep baked goods on our website, a cookie is a small text file on your computer which our website sends to your computer to allow our website to store some of your information.  Bottle Your Brand's cookies do not collect or store personally identifiable information.  Rather, the cookie stores a token which uniquely identifies a particular user at a particular time.  That token is then linked to the user information in our secured databases.  You can always reset your browser to refuse all cookies or to display a message when a cookie is being sent.  If you choose to reset your browser, some of the Bottle Your Brand Website features and functionality may not be available to you.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Information Collected by Web Beacons and Log Files:</strong>
+</p>
+				
+
+<p>Bottle Your Brand collects certain non-personally identifiable information through the use of web beacons and log files.  Such information may include your IP address, browser type, site usage, and whether you opened emails you received from us.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">How is Your Information Secured?</strong>
+</p>
+				
+
+<p>When you place orders or access your account information, we use top-of-the-line security measures to safeguard any information we collect about you.  We use secure server software (SSL), which encrypts all information you input before it is sent to us.  In addition, your Bottle Your Brand account information is password-protected for your privacy and security.  It is up to you to take steps to protect the confidentiality of the password you select.</p>
+				
+
+<p>We ship internationally but all of our computer systems are currently based in the United States.  As a result, your personal data will be processed by us in the United States where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union.  If you create a user account with us, you agree to this privacy policy and you consent to the transfer of all information you provide to the Bottle Your Brand Website.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">How Do We Use Information?</strong>
+</p>
+				
+
+<p>We use the personally identifiable information you provide to us to:</p>
+				<ul>
+					<li>
+<p>Provide the features and functionality of the Bottle Your Brand Website;</p>
+</li>
+					<li>
+<p>Fulfill your requests for our products;</p>
+</li>
+					<li>
+<p>Communication with you about the status of your orders and other inquiries about our products and services;</p>
+</li>
+					<li>
+<p>Send you information about our products and services;</p>
+</li>
+					<li>
+<p>Provide notices about the results of contests and other promotions.</p>
+</li>
+				</ul>
+				
+
+<p>We use your email address to communicate with you about your account and to send you certain notification emails. You can change the frequency of those emails in your Bottle Your Brand account settings.  We do not use your email address or other personally identifiable information to send marketing messages without your consent.</p>
+				
+
+<p>We use non-personally identifiable information to monitor the use and performance of the Bottle Your Brand Website so that we can learn more about how customers use the Bottle Your Brand Website in order to improve our products and services.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Will We Ever Disclose the Information We Collect to Outside Parties?</strong>
+</p>
+				
+
+<p>In general, Bottle Your Brand does not share personal information about you with other people or non-affiliated companies without your consent.</p>
+				
+
+<p>The only time when Bottle Your Brand will release information (including your name, addresses, telephone number, and account activity) is when we, in our sole discretion, believe that such release is necessary or appropriate to:</p>
+				<ul>
+					<li>
+<p>Comply with law;</p>
+</li>
+					<li>
+<p>Comply with subpoenas, warrants, court orders, government investigations, or other legal process;</p>
+</li>
+					<li>
+<p>Enforce or apply the terms of our license agreement;</p>
+</li>
+					<li>
+<p>Investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity;</p>
+</li>
+					<li>
+<p>Investigate fraud or similar claims;</p>
+</li>
+					<li>
+<p>Protect the rights, property, or safety of Bottle Your Brand, our users, or others.</p>
+</li>
+				</ul>
+				
+
+<p>In the event that Bottle Your Brand is acquired by or merged with another company, Bottle Your Brand reserves the right to transfer all information we have collected from our users in connection with that acquisition or merger.</p>
+				
+
+<p>We may disclose non-personally identifiable information to third parties in aggregate form to potential business partners and investors.</p>
+				
+
+<p>
+<strong style="font-weight: bold;">Where Do We Stand on Children's Privacy?</strong>
+</p>
+				
+
+<p>The Bottle Your Brand Website is intended for users age 13 or older.  We will not knowingly collect or use any personal information from children we know to be under the age of 13.  We will delete any information that we know is from a child under the age of 13.  Children between the age of 13 and 17 may only use the Bottle Your Brand Website with permission and supervision of a parent or legal guardian.  A child's parent or guardian may request that we delete any personal information in our database and/or opt out from receiving any communication from us.</p>
+				
+
+<p>Please contact us if you have any questions or concerns relating to parental notification or child privacy: <a href="mailto:info@bottleyourbrand.com" target="_blank">Info@BottleYourBrand.com</a>
+</p>
+				
+
+<p>
+<strong style="font-weight: bold;">How Can I Delete, Change, or Update My Information?</strong>
+</p>
+				
+
+<p>Most of your account information can be changed in the My Account section of the Bottle Your Brand Website.</p>
+				
+
+<p>The current version of the Bottle Your Brand Privacy Policy was adopted effective as of 08/13/2009.</p>
+			</div>
+		</div>
+	</div></div><!-- #main -->
+<div id="aside-a">
+	<div class="subnav-a">
+	    <div class="wrapper">
+	       <h3>About Us</h3>
+		 		<ul class="a">
+					<li><a href="/about-us">The Company</a></li>
+					<li><a href="/company-story">Our Story</a></li>
+					<li><a href="/we-are-famous">We’re Famous!</a></li>
+				</ul>
+			 <h3>Community</h3>
+				<ul class="a">
+					<li><a href="http://www.bottleyourbrand.com/blog" target="_blank">Blog</a></li>
+					<li><a href="http://www.facebook.com/bottleyourbrand" target="_blank">Facebook</a></li>
+					<li><a href="http://twitter.com/bottleyourbrand" target="_blank">Twitter</a></li>
+				</ul>
+			 <h3>What’s Up?</h3>
+				<ul class="a">
+					<li><a href="/contact-us">Contact Us</a></li>
+					<li><a href="/faqs">FAQ’s</a></li>
+					<li><a href="/dol-tutorial">Design Online Tutorial</a></li>
+					<li><a href="/bottled-water-info">Bottled Water Info</a></li>
+					<li><a href="/wedding-ideas">Wedding Ideas</a></li>
+					<li><a href="/personalized-label-ideas">Personalized Label Ideas</a></li>
+					<li><a href="/safe-shopping">Safe Shopping</a></li>
+					<li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
+				</ul>
+				
+			<h3>Jargon</h3>
+				<ul class="a">
+					<li><a href="/agreement">User Agreement</a></li>
+					<li><a href="/privacy-policy" class="active">Privacy Policy</a></li>
+					<li><a href="/license-agreement">Nonexclusive License Agreement</a></li>
+				</ul>	
+				
+			<h3>Affiliates Program</h3>
+				<ul class="a last">
+					<li><a href="/affiliate-program">Affiliate Program</a>
+					    <ul>
+							<li><a href="/affiliate-program-faq">Affiliate FAQ’s</a></li>
+							<li><a href="/terms-condition">Terms &amp; Conditions</a></li>
+						</ul>
+					</li>    
+				</ul>	
+	    </div>
+   </div>	
+</div><!-- #aside -->
+		
+	</div><!-- #content -->
+	
+	<div id="footer">
+		<div class="newsletter" id="newsletter">
+			<h2>Sign up for our email newsletter <span>and enjoy a special welcome offer.</span></h2>
+			<form name="emailSubscribeForm" id="emailSubscribeForm" method="post" action="https://www.bottleyourbrand.com/byb/control/subscribeToNewsletter">
+				<p>
+					<label for="subs_emailAddress">Email address</label><input type="text" name="subs_emailAddress" value="" id="subs_emailAddress">	<button type="button" onclick="javascript: subscribeEmail();">Sign Up</button>
+				</p>
+			</form>
+		</div><!-- .newsletter -->
+		
+		<div class="sitemap-a">
+			<h2 class="offset">Site map</h2>
+			 
+			<div class="col col-first">
+				<h3>Customer Service</h3>
+				  
+				<ul>
+					<li><a href="/about-us"> About Us</a></li>
+					<li><a href="/contact-us">Contact Us</a></li>
+					<li><a href="/safe-shopping">Safe Shopping</a></li>
+					<li><a href="/shipping-returns">Shipping &amp; Returns</a></li>
+					<li><a href="/faqs">FAQ’s</a></li>
+
+					<li><a href="/privacy-policy">Privacy Policy</a></li>
+					<li><a href="/byb/control/sitemap">Site map</a></li>
+				</ul>
+			</div><!-- .col col-first -->
+			<div class="col">
+				<h3>Inside Bottle Your Brand</h3>
+				<ul>
+					<li><a href="http://www.bottleyourbrand.com/blog" target="_blank">Blog</a></li>
+
+					<li><a href="http://twitter.com/bottleyourbrand" target="_blank">Twitter</a></li>
+					<li><a href="http://www.facebook.com/bottleyourbrand" target="_blank">Facebook</a></li>
+					<li><a href="http://www.youtube.com/bottleyourbrand" target="_blank">YouTube</a></li>
+				</ul>
+			</div><!-- .col -->
+			<div class="col">
+				<h3>Programs</h3>
+
+				<ul>
+					<li><a href="/affiliate-program">Affiliate Program</a></li>
+				</ul>
+			</div><!-- .col -->
+			<div class="col">
+				<h3>Policy</h3>
+				<ul>
+					<li><a href="/privacy-policy">Privacy Policy</a></li>
+
+					<li><a href="/agreement">User Agreement</a></li>
+					<li><a href="/license-agreement">Nonexclusive License Agreement</a></li>
+				</ul>
+			</div><!-- .col -->
+			<div align="right">
+				<span id="siteseal"><script type="text/javascript" src="https://seal.godaddy.com/getSeal?sealID=uzM877GjDxXLnje1DaF7BLjoSFVdLQSWNdYJCYbPSKAMkk4WbzPOOpE"></script><br></span>
+			</div><!-- .col -->
+		</div><!-- .sitemap-a -->
+		
+		<div class="disclaimer">
+			<p>Use of this Web site constitutes acceptance of the User Agreement and Privacy Policy</p>
+			<p>Copyright © 2003 - 2010, Bottle Your Brand, LLC. All rights reserved</p>
+		</div><!-- .disclaimer -->
+		
+		
+	</div><!-- #footer -->
+
+</div><!-- #root -->
+<!-- Analytics -->
+
+
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try{
+		var pageTracker = _gat._getTracker("UA-192162-1");
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+
+
+
+
+
+
+</body></html>
