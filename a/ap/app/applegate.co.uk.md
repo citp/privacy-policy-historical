@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517114638id_/http%3A//www.applegate.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the applegate.co.uk privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525174732id_/http%3A//www.applegate.co.uk/privacy-policy.htm) for the most accurate reproduction.*
 
 # Applegate Directory - Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Applegate Directory Limited ("We") are committed to protecting and respecting your privacy. 
 
-This policy (together with our [terms of use](https://web.archive.org/web/20090517114638id_/http%3A//www.applegate.co.uk/legal.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy (together with our [terms of use](https://web.archive.org/web/20100525174732id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 For the purpose of the Data Protection Act 1998 (the **Act** ), the data controller is Applegate Directory Limited of 3 Southernhay West, Exeter, Devon EX1 1JG. 
 
@@ -79,7 +79,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
   * If Applegate Directory Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20090517114638id_/http%3A//www.applegate.co.uk/legal.htm) and other agreements; or to protect the rights, property, or safety of Applegate Directory Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20100525174732id_/http%3A//www.applegate.co.uk/terms-and-conditions.htm) and other agreements; or to protect the rights, property, or safety of Applegate Directory Limited, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
 
 
@@ -88,17 +88,17 @@ We may disclose your personal information to third parties:
 You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at   
 
 
-Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites. 
+Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**ACCESS TO INFORMATION**
+ **ACCESS TO INFORMATION**
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you. 
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of ¿10 to meet our costs in providing you with details of the information we hold about you.
 
-**CHANGES TO OUR PRIVACY POLICY**
+ **CHANGES TO OUR PRIVACY POLICY**
 
-Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail. 
+Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
-**CONTACT**
+ **CONTACT**
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to   
 
