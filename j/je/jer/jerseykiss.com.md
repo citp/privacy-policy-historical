@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jerseykiss.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124135234id_/http%3A//www.jerseykiss.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jerseykiss.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525195059id_/http%3A//www.jerseykiss.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : Cheap NFL jerseys,youth nfl jerseys comes from Jerseykiss.com, Authentic NFL jersey at lowest price with high quality free shipping and fast delivery within one week.Huge selection kinds of NFL jerseys.NFL,NFL jerseys
+# Privacy Notice : Cheap NFL jerseys,youth nfl jerseys comes from Jerseykiss.com, Authentic NFL jersey at lowest price with high quality fast delivery within one week.Huge selection kinds of jerseys.
 
 Agent Policy
 
