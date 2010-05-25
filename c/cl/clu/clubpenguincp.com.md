@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122161323id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubpenguincp.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525120111id_/http%3A//clubpenguincp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Club Penguin Cheats | Club Penguin Codes
 
-## Privacy Policy
-
-Club Penguin CP operates  [http://clubpenguincp.com](http://clubpenguincp.com/). It is my policy to respect your privacy regarding any information I may collect while operating my websites.
+[Club Penguin](http://clubpenguincp.com/ "Club Penguin") CP operates  [http://clubpenguincp.com](http://clubpenguincp.com/). It is my policy to respect your privacy regarding any information I may collect while operating my websites.
 
 ### Website Visitors
 
@@ -31,5 +29,3 @@ Google, as a third party vendor, uses cookies to serve ads on your site.  Googl
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, we may change our Privacy Policy from time to time, and in Chrisdog93’s sole discretion. Chrisdog93 encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
-
-Comments are closed.
