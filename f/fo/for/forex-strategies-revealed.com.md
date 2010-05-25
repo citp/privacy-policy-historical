@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124081050id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forex-strategies-revealed.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525235240id_/http%3A//forex-strategies-revealed.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Forex strategies revealed
+# Privacy Policy | Forex Strategies & Systems Revealed
 
   
 
