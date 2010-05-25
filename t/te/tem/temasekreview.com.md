@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the temasekreview.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214192741id_/http%3A//temasekreview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the temasekreview.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525104227id_/http%3A//www.temasekreview.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : THE TEMASEK REVIEW
+# THE TEMASEK REVIEW: Privacy Policy
 
 **Our Commitment to Privacy**
 
@@ -37,7 +37,3 @@ The TR Web site utilises Web server logs and will use a standard technology call
 **IP Addresses**
 
 Like all other servers in the world, we log IP addresses or the location of your computer on the Internet, for systems administration and troubleshooting purposes. We do not use IP address logs to track your session or your behaviour on the TR Web site.
-
-[](http://www.addthis.com/bookmark.php?v=20)
-
-[](http://www.printfriendly.com/ "Print an optimized version of this web page")
