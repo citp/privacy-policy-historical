@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111152518id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inventorspot.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525205650id_/http%3A//inventorspot.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy | InventorSpot
+# InventorSpot.com Privacy Policy
 
 The Site Host, through its Privacy Policy statement is notifying you of: 
 
