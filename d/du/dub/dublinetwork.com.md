@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dublinetwork.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215005539id_/http%3A//www.dublinetwork.com/1-33/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dublinetwork.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525234157id_/http%3A//www.dublinetwork.com/1-33/privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement
 
