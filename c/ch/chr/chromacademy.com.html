@@ -1,0 +1,574 @@
+<!--The following is the downloaded HTML source of the chromacademy.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526004310id_/http%3A//www.chromacademy.com/PrivacyPolicy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/master.dwt" codeOutsideHTMLIsLocked="false" --><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="imagetoolbar" content="no">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>CHROMacademy.com   e-learning for the analytical chemistry community</title>
+<!-- InstanceEndEditable -->
+<link href="indexStyle01.css" rel="stylesheet" type="text/css"><meta http-equiv="imagetoolbar" content="no">
+
+<style type="text/css">
+<!--
+body {
+	background-color: #9EACAF;
+}
+-->
+</style>
+
+<script type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function CC_startTip(){ //v1.0 333Creative
+  ccID=document.getElementById;ccIE=(document.all);ccN4=(document.layers);
+  i5=(ccID&&ccIE);ccN6=(ccID&&!ccIE);ccI4=(!ccID&&ccIE);ccMC=(navigator.userAgent.indexOf("Mac")!= -1);
+  cc1=null;ccF=0;index=0;ccX=15;ccY=15;n=0;ccPX=(ccID)?"px":"";var T="ccToolTip";
+   if(ccN4){el=document.layers[T];document.captureEvents(Event.MOUSEMOVE);document.onmousemove=eval("CC_"+"Follow")}
+  else if(ccID){el=document.getElementById(T)}
+  else if(ccI4){el=document.all[T]}
+}
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+
+function BeginSearch()
+{
+	
+	//var vSearchType = document.getElementsByName("radio1");
+	var vSearchType=1
+	var i = getSelectedButton(vSearchType);
+		
+	var vSearchParam
+	//vSearchType=document.getElementById('r1').checked;
+	vSearchParam = document.getElementById('txtSearchValue').value;
+
+	window.location.href = 'search-in-our-window.asp?vSearch='+ vSearchParam +'&vRadio=1';
+	
+	
+}
+
+function getSelectedButton(buttonGroup){
+	for (var i = 0; i < buttonGroup.length; i++) {
+		if (buttonGroup[i].checked) {
+			return i;
+		}
+	}
+	return 0;
+}
+
+function checkEnter(e){ //e is event object passed from function invocation
+var characterCode 
+//alert("2");
+if(e && e.which){ //if which property of event object is supported (NN4)
+e = e
+characterCode = e.which //character code is contained in NN4's which property
+}
+else{
+e = event
+characterCode = e.keyCode //character code is contained in IE's keyCode property
+}
+
+if(characterCode == 13){ //if generated character code is equal to ascii 13 (if enter key)
+	BeginSearch()
+}
+else{
+return true 
+}
+
+}
+
+function openTrial(){
+
+	window.open('frameset-chromacademy.asp?fChannel=9&fPath=sco10/gc_1_1_4.asp','_Chromacademy','width=1000,height=700,status=no,toolbar=no,')
+}
+
+function openSponsored(vID){
+
+	var vChannelID, vCourseID, vSCOID, vPath, vFullLink
+	
+	switch (vID) {
+	case 0: 
+		vChannelID=20;
+		vCourseID=1 ;
+		vSCOID=33 ;
+		vPath='sco33/hplc_3_3_1.asp'; 
+		break;
+	case 1: 
+		vChannelID=21;
+		vCourseID=2 ;
+		vSCOID=15 ;
+		vPath='sco15/gc_2_3_AimsObj.asp'; 
+		break;
+	case 2: 
+		vChannelID=22;
+		vCourseID=3 ;
+		vSCOID=54 ;
+		vPath='sco54/psp_C7_AimsObj.asp'; 
+		break;
+	case 3: 
+		vChannelID=23;
+		vCourseID=4 ;
+		vSCOID=36 ;
+		vPath='sco36/lcms_C6_001.asp'; 
+		break;
+	default: 
+		vChannelID=20;
+		vCourseID=1 ;
+		vSCOID=33 ;
+		vPath="sco33/hplc_3_3_1.asp"; 
+		break;
+	}
+
+	vFullLink= 'frameset-chromacademy.asp?fChannel='+ vChannelID +'&fCourse='+ vCourseID +'&fSco='+ vSCOID +'&fPath=' + vPath ;
+	window.open(vFullLink,'_Chromacademy','width=1000,height=700,status=no,toolbar=no,')
+}
+
+function fnHideWindow1() {
+	document.getElementById('divWindow1').style.display='none';
+}
+
+function fnShowWindow1 () {
+	
+	document.getElementById('divWindow1').style.display='inline';	
+}
+
+function SubmitForm()
+{
+ fnHideWindow1()
+
+ document.feedbackform.submit(); 
+}
+//-->
+</script>
+
+<script language="JavaScript">
+
+function big(lyr) {
+	document.getElementById('divLayer1').style.display='inline';
+	document.getElementById('div-everything').style.opacity=.6;
+	//document.getElementById('div-everything').style.filter.alpha.opacity=60;
+		
+}
+
+function small(lyr) {
+
+	document.getElementById('divLayer1').style.display='none';	
+	document.getElementById('div-everything').style.opacity=1;
+	//document.getElementById('div-everything').style.filter.alpha.opacity=100;
+}
+
+function start() {
+
+	document.getElementById('divLayer1').style.display='none';	
+}
+
+function refreshBigDaddy() {
+	
+	//alert("hi from big daddy");
+	window.location.reload(); 
+
+}
+
+</script>
+
+<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<style type="text/css" title="ccToolStyle">
+ .tool {
+ padding:0px;
+ moz-opacity:0%;
+ }
+body,td,th {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+.wrapper {
+position: relative;
+height: 136px;
+width: 407px;
+margin: 0;
+opacity: .6;
+filter: alpha(opacity=60);
+background-color: #ffffff;
+z-index: 500;
+}
+.info {
+	position: absolute;
+	height: 500px;
+	width: 500px;
+	top: 50%;
+	left: 50%;
+	margin: -250px 0 0 -250px;
+	background-color: white;
+	opacity: 1;
+	filter: alpha(opacity=100);
+	z-index: 999;
+	border-right-style: solid;
+	border: 1;
+	border-color: #FFFFFF;
+	
+}
+</style>
+</head>
+
+<body onload="MM_preloadImages('images/nav/topNavDown02.jpg','images/nav/topNavOver02.jpg','images/nav/topNavDown03.jpg','images/nav/topNavOver03.jpg','images/nav/topNavDown04.jpg','images/nav/topNavOver04.jpg','images/nav/topNavDown05.jpg','images/nav/topNavOver05.jpg','images/nav/topNavDown06.jpg','images/nav/topNavOver06.jpg','images/nav/topNavDown07.jpg','images/nav/topNavOver07.jpg','images/nav/topNavOver08.jpg','images/nav/topNavOver09.jpg','images/nav/topNavDown08.jpg','images/nav/topNavDown09.jpg')">
+<form name="loginform" id="loginform" method="post" action="login-check.asp?windowType=nopop">
+  <div id="divLayer1" class="info" style=" display:none; height:435px;">
+    <table width="500px" border="1" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td valign="top"><table width="500" border="0" cellspacing="0" cellpadding="0">
+          <tbody><tr>
+            <td height="24" align="right" valign="top" bgcolor="#F4F4F4"><a href="javascript:small('divLayer1');"><img src="images/cs-close.gif" border="0"></a></td>
+          </tr>
+          
+        </tbody></table>
+<table width="500px" border="0" cellpadding="0" cellspacing="0" id="table2">
+            <tbody><tr>
+              <td colspan="3">&nbsp;<span class="BlackBodyBold12">&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;<span id="lblErrEmail"></span></td>
+            </tr>
+            <tr>
+              <td colspan="3">&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="body_text_bold">&nbsp;</td>
+              <td colspan="2" class="GreenBodyBold12">Please enter your username and password below:</td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td width="419">&nbsp;</td>
+            </tr>
+            <tr>
+              <td width="13">&nbsp;</td>
+              <td width="68"><div align="right"><span class="BlackBodyBold12">Username:</span><span class="smlBOLD">&nbsp;&nbsp;</span></div></td>
+              <td><div align="left">
+                  <input name="txtCustomerEmail" id="txtCustomerEmail" value="" size="21" autocomplete="OFF">
+                  
+              </div></td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td class="BlackBodyBold12">&nbsp;</td>
+              <td class="BlackBodyBold12"><div align="right" class="smlBOLD"><span class="BlackBodyBold12">Password:</span>&nbsp;&nbsp;</div></td>
+              <td><div align="left">
+                <input name="txtCustomerPassword" type="password" id="txtCustomerPassword" value="" size="21">
+                
+              <span id="lblErrPassword"></span></div></td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td><div align="left">
+                  <input type="submit" value="Login">
+                &nbsp;&nbsp; <a href="subscription.asp"></a></div></td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td>&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td class="body_text_bold"><a href="sendReminder.asp" class="body_text_bold">Forgot Password?</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+            </tr>
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td class="body_text_bold">&nbsp;</td>
+            </tr>
+            
+            <tr>
+              <td colspan="2">&nbsp;</td>
+              <td><a href="subscription.asp" class="body_text_bold">Not a subscriber?</a></td>
+            </tr>
+        </tbody></table>
+<br>
+<br>
+<table width="500" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <td width="13">&nbsp;</td>
+    <td width="487" class="body_text"><p class="GreenBodyBold12">CHROMacademy modules: </p>
+      <ul>
+        <li>Range from beginner to expert level </li>
+        <li>Include multimedia and interactive elements to help you learn more effectively </li>
+        <li>Can be used for programmed learning, lab induction training and continuing professional development </li>
+        <li>Include Assessments to test your knowledge level – with Certificates for your Training Record</li>
+      </ul></td>
+    </tr>
+</tbody></table></td>
+      </tr>
+    </tbody></table>
+  </div>
+</form>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td><div align="center" id="div-everything">
+      <table width="960" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td><table width="960" align="right" cellpadding="0" cellspacing="0">
+            <tbody><tr>
+              <td width="601" align="left">
+     
+              </td>
+              <td width="16" align="right">&nbsp;</td>
+              <td width="22" align="right" class="WhiteBody12">&nbsp;</td>
+              <td width="45" align="right"><a href="System_Requirements.asp"><img src="images/frontPage/sysReq.jpg" alt="flash player required to view this site" width="152" height="17" longdesc="http://www.adobe.com/products/flashplayer/"></a></td>
+              <td width="26" align="right"><div align="center" class="WhiteBold12">l</div></td>
+              <td width="126" align="left" class="WhiteBody12">
+              
+              <!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://www.addthis.com/bookmark.php?v=250&amp;pub=chromacademy"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=chromacademy"></script>
+<!-- AddThis Button END -->              </td>
+              <td width="25" align="right" class="WhiteBody12"><div align="center" class="WhiteBold12">l</div></td>
+              <td width="129" align="right" class="WhiteBody12">
+              
+              <!-- AddThis Button BEGIN -->
+<a href="http://www.addthis.com/feed.php?pub=chromacademy&amp;h1=http%3A//www.chromacademy.com/CHROMacademyRSS.xml&amp;t1=" onclick="return addthis_open(this, 'feed', 'http://www.chromacademy.com/CHROMacademyRSS.xml')" alt="Subscribe using any feed reader!" target="_blank"><img src="http://s7.addthis.com/static/btn/lg-rss-2-en.gif" width="125" height="16" alt="Subscribe" style="border:0"></a>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=chromacademy"></script>
+<!-- AddThis Button END -->
+
+              
+              </td>
+            </tr>
+          </tbody></table></td>
+        </tr>
+        <tr>
+          <td height="5"></td>
+        </tr>
+        <tr>
+          <td height="211"><table width="960" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" class="blackBox">
+            <tbody><tr>
+              <td height="94" align="right" valign="top" bgcolor="#EFEDEE" style="background-repeat:no-repeat;"><table width="956" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td height="15" colspan="3"></td>
+                  </tr>
+                  <tr>
+                    <td width="573" height="64" align="left" valign="top"><a href="http://www.chromacademy.com" target="_self"><img src="images/chrom-academy.jpg" alt="CHROMacademy" width="526" height="72"></a></td>
+                    <td width="381" align="left" valign="top"><table width="92%" cellpadding="3" cellspacing="0" bgcolor="#CCCCCC" class="blackBox" id="tbl-search">
+                        <tbody><tr>
+                          <td><table width="343" height="56" align="left" cellpadding="0" cellspacing="3">
+                              <tbody><tr></tr>
+                              <tr>
+                                <td width="300" align="left" valign="top"><input name="txtSearchValue" type="text" id="txtSearchValue" value="Enter your keyword" size="42" maxlength="125" onkeypress="javascript:checkEnter(event);" onclick="if (this.value == 'Enter your keyword') this.value='';" onblur="if (this.value == '') this.value = 'Enter your keyword';"></td>
+                                <td width="74" align="left" valign="top"><a href="index.asp" onclick="BeginSearch();return false"><img src="images/btn-search.jpg" alt="search" width="73" height="22" border="0"></a></td>
+                              </tr>
+                              <tr>
+                                <td height="21" colspan="3" valign="top"><form class="searchform">
+                                    <span class="BlackBody12">
+                                    3000 E-learning topics / 5000 Articles &amp; Applications&nbsp;</span>
+                                    <input type="hidden" name="channelType" id="channelType" value="all">
+                                </form></td>
+                              </tr>
+                          </tbody></table></td>
+                        </tr>
+                    </tbody></table></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+            <tr> </tr>
+            <tr>
+              <td align="left" valign="top"><table border="0" cellpadding="0" cellspacing="0">
+                <tbody><tr>
+                  <td><a href="javascript:;" target="_top" onclick="MM_nbGroup('down','group1','n01','',1)" onmouseover="MM_nbGroup('over','n01','','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav01.jpg" alt="" name="n01" border="0" id="n01" onload=""></a></td>
+                  <td><a href="index.asp" target="_top" onclick="MM_nbGroup('down','group1','n02','images/nav/topNavDown02.jpg',1)" onmouseover="MM_nbGroup('over','n02','images/nav/topNavOver02.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav02.jpg" alt="go to CHROMacademy homepage" name="n02" border="0" id="n02" onload=""></a></td>
+                  <td><a href="lc-hplc-overview.asp" target="_top" onclick="MM_nbGroup('down','group1','n03','images/nav/topNavDown03.jpg',1)" onmouseover="MM_nbGroup('over','n03','images/nav/topNavOver03.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav03.jpg" alt="go to LC/HPLC section" name="n03" border="0" id="n03" onload=""></a></td>
+                  <td><a href="gc-overview.asp" target="_top" onclick="MM_nbGroup('down','group1','n04','images/nav/topNavDown04.jpg',1)" onmouseover="MM_nbGroup('over','n04','images/nav/topNavOver04.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav04.jpg" alt="go to GC section " name="n04" border="0" id="n04" onload=""></a></td>
+                  <td><a href="samplePrep-overview.asp" target="_top" onclick="MM_nbGroup('down','group1','n05','images/nav/topNavDown05.jpg',1)" onmouseover="MM_nbGroup('over','n05','images/nav/topNavOver05.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav05.jpg" alt="go to Sample Prep section " name="n05" border="0" id="n05" onload=""></a></td>
+                  <td><a href="mass_spec-overview.asp" target="_top" onclick="MM_nbGroup('down','group1','n06','images/nav/topNavDown06.jpg',1)" onmouseover="MM_nbGroup('over','n06','images/nav/topNavOver06.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav06.jpg" alt="go to Mass Spec section " name="n06" border="0" id="n06" onload=""></a></td>
+                  <td><a href="http://chrommunity.chromacademy.com/" target="_blank" onclick="MM_nbGroup('down','group1','n07','images/nav/topNavDown07.jpg',1)" onmouseover="MM_nbGroup('over','n07','images/nav/topNavOver07.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav07.jpg" alt="join us at CHROMmunity.com / opens in new window" name="n07" border="0" id="n07" onload=""></a></td>
+                  <td><a href="contact.asp" target="_top" onclick="MM_nbGroup('down','group1','n08','images/nav/topNavDown08.jpg',1)" onmouseover="MM_nbGroup('over','n08','images/nav/topNavOver08.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav08.jpg" alt="go to contact us page" name="n08" border="0" id="n08" onload=""></a></td>
+                  <td><a href="#" onclick="MM_nbGroup('down','group1','n09','images/nav/topNavDown09.jpg',1);big('divLayer1');return false;" target="_top" onmouseover="MM_nbGroup('over','n09','images/nav/topNavOver09.jpg','',1);" onmouseout="MM_nbGroup('out')"><img src="images/nav/topNav09.jpg" alt="" name="n09" border="0" id="n09" onload=""></a></td> 
+               </tr>
+              </tbody></table>
+                </td>
+            </tr>
+ 			<tr>
+            <td>
+            				<table width="100%">
+                <tbody><tr>
+                    <td height="1"></td>
+                    </tr>
+                    </tbody></table>
+            </td>
+            </tr>
+            <tr>
+              <td align="left" valign="top">
+              
+              <table width="956" align="center" cellpadding="5" cellspacing="0">
+               
+                  <tbody><tr>
+                    <td class="BlackBody12"><!-- InstanceBeginEditable name="body" -->
+                <table width="100%" cellspacing="0" cellpadding="0">
+                  
+                  <tbody><tr>
+                    <td width="8">&nbsp;</td>
+                    <td align="left" valign="top" class="GreyBold14">Privacy Policy </td>
+                    <td width="7">&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td align="left" valign="top">&nbsp;</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td height="30" align="left" valign="top" class="BlackBody12"><table width="100%" cellpadding="0" cellspacing="3" bgcolor="#ECF5E2">
+                      <tbody><tr>
+                        <td width="95%" align="left" valign="top"><p class="GreyBold14"><strong>Crawford Scientific/Advanstar Communications Inc</strong></p></td>
+                        <td width="5%" align="right" valign="top" class="GreenBold18">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  <tr>
+                    <td>&nbsp;</td>
+                    <td align="left" valign="top">&nbsp;</td>
+                    <td>&nbsp;</td>
+                  </tr>
+                  
+                  <tr>
+                    <td height="19">&nbsp;</td>
+                    <td align="left" valign="top" class="BlackBody12"><p class="body_text"><strong>Crawford Scientific/Advanstar Communications Inc.</strong> (together with its affiliated entities,   "earl/Advanstar") have created this privacy statement to demonstrate our commitment to   full disclosure of the information collection and use practices applicable to   this website. This privacy statement discloses what information we collect via   this website and how we use it.</p>
+                        <p class="body_text"><strong>Information Collection and Dissemination<br>
+                          General Principles</strong></p>
+                      <ul type="square">
+                          <li><span class="body_text">In general, you may visit this website without identifying yourself or   revealing any personal information. </span> </li>
+                        <li><span class="body_text">As you browse our website, the site collects the IP address of your computer   and clickstream data (information that site users generate as they move from   page to page and click on items) and this data is aggregated with usage data   from all site visitors. </span> </li>
+                        <li><span class="body_text">Some portions of this website may require you to give us   personally-identifiable information such as your name, job title, company,   physical mailing address, e-mail address, telephone and fax numbers (Personal   Information) and, if applicable, Financial Information such as your credit card   information (Financial Information), for, without limitation, (i) to register   for attendance at certain Crawford Scientific/Advanstar trade shows, conferences and events; (ii) to   obtain access to certain online content and functionality; and (iii) to   subscribe to our publications. If you communicate with us by e-mail, post   messages to any of our chat groups, bulletin boards or forums, or otherwise   complete online forms, surveys or contest entries, any information provided in   such communications may be collected as Personal Information.</span> </li>
+                        <li><span class="body_text">If you elect to provide us with Personal Information, we use it primarily to   deliver the service you requested.</span> </li>
+                        <li><span class="body_text">If you submit Financial Information, we use that information primarily to   verify your credit and collect payments for your purchases, orders,   registrations etc</span>. </li>
+                      </ul>
+                      <p class="body_text"><strong>Information Sharing</strong><br>
+                        We share your Personal Information with   Crawford Scientific/Advanstar's affiliates and partners and third parties licensed to access your   Personal Information by any of the foregoing. We rent lists compiled from the   Personal Information (including e-mail addresses) gathered from this   website.</p>
+                      <p class="body_text">Except as otherwise provided in this privacy policy, we will keep your   Personal Information and your Financial Information private and will not share   it with third parties. However, we reserve the right to release information   about visitors, including Personal Information and Financial Information, when   release is appropriate to comply with the law, to enforce our Terms of Service,   or to protect the rights, property or safety of this website, the public or   Crawford Scientific/Advanstar.</p>
+                      <p class="body_text">On certain Crawford Scientific/Advanstar websites, such as <a href="http://www.modernmedicine.com/" target="_blank">www.modernmedicine.com</a>,   when you register for a Continuing Medical Education ("CME") or a Continuing   Education ("CE") activity, we collect personally-identifiable information from   you. This information is required to be collected by, and is shared with, the   relevant accreditation bodies. Our Editorial and Customer Support Staff also   have access to this information, including evaluation forms and participant   information. This information is used in assessing educational needs and in   planning marketing activities. We reserve the right to use this information as   otherwise permitted in this Privacy Policy or in our Terms of Service   Agreement.</p>
+                      <p class="body_text"><strong>Aggregated information</strong><br>
+                        We sometimes provide aggregated usage or   tracking information collected from this website to third parties.</p>
+                      <p class="body_text"><strong>Information on Children</strong><br>
+                        As a business-to-business company, we do   not knowingly collect information from children. On-line registration and web   site usage is restricted to adults who are professionally engaged in the   businesses we serve.</p>
+                      <p class="body_text"><strong>Third Party and Affiliated Links:</strong> Our websites contain links to   external websites including suppliers, advertisers and affiliates. We have no   control over, and are not responsible for, the content of, or information   gathered by, these other websites. We do not endorse any of these websites or   the products or services associated with such websites merely because they are   linked to our website.</p>
+                      <p class="body_text"><strong>Cookies</strong><br>
+                        A "cookie" is a string of data sent by a website to a user   that is inserted in a file of the web browser of the user visiting the site.   Crawford Scientific/Advanstar uses temporary, session-specific cookies to ensure visits to its   website are smooth and customized for the visitor. Such cookies allow us to   provide a visitor's browser with information tailored to the visitor's   preferences and needs. Crawford Scientific/Advanstar also uses permanent or persistent cookies that   remain on a visitor's computer after the visitor leaves an Crawford Scientific/Advanstar   website.</p>
+                      <p class="body_text">If you do not want your browser to accept cookies, you can turn off the   cookie acceptance option in the browser's settings. However, disabling the   cookie support function of the browser will prevent our website from functioning   properly and you may not be able to use fully all of the site's features and   information.</p>
+                      <p class="body_text">We use advertising companies to develop banner ads for our website. These ads   may contain cookies. These companies collect cookies sent to your browser   through the banner ads and we do not have control of, or access to, this   data.</p>
+                      <p class="body_text"><strong>Opt-out Option</strong><br>
+                        Visitors to this website can decide whether they   want to receive targeted promotional information from Crawford Scientific/Advanstar. On the visitor   registration pages, prospective visitors can choose to request Crawford Scientific/Advanstar not to   e-mail them advertising and promotional information. Should visitors accept   promotional email from Crawford Scientific/Advanstar, any email they receive will include   instructions on how to be removed from Crawford Scientific/Advanstar's promotional email list.</p>
+                      <p class="body_text"><strong>Your California Privacy Rights</strong><br>
+                        California's "Shine the Light" law,   Cal. Civ. Code § 1798.83, permits our users who are residents of California to   request and obtain from us, once per year, free of charge, information about the   Personal Information and Financial Information, if any, that we disclosed to   third parties for direct marketing purposes in the preceding calendar year. If   applicable, this information includes a listing of the categories of personal   information that was shared, and the names and addresses of the third parties   with whom we shared the information.</p>
+                      <p class="body_text">If you are a California resident, and would like to make such a request,   please submit your request, in writing, to:</p>
+                      <p class="body_text">Online Privacy Coordinator<br>
+                        Advanstar Communications Inc.<br>
+                        Legal   Department<br>
+                        131 West 1st Street<br>
+                        Duluth, MN 55802</p>
+                      <p class="body_text">or</p>
+                      <p class="body_text">Crawford Scientific<br>
+                        Holm Street <br>
+                        Strathaven<br>
+                        Scotland<br>
+                        Lanarkshire <br>
+                        ML10 6NB<br>
+                        </p>
+                      <p class="body_text"><strong>Security and Encryption</strong><br>
+                        This website takes commercially reasonable   precautions to protect your information. We use SSL encryption technology on the   portions of our website that accept Financial Information and we use a secure   server to encrypt Financial Information transmitted between your browser and our   server. As a result, data you submit to our website, such as credit card and   payment information, is transmitted securely over the Internet.</p>
+                      <p class="body_text"><strong>Exceptions</strong><br>
+                        Crawford Scientific/Advanstar may buy or sell various assets. In the event   that we sell some or all of our assets, or our site is acquired by another   company, information about our visitors, including Personal Information and   Financial Information, may be among the transferred assets.</p>
+                      <p class="body_text">Whenever you voluntarily make your personal information available for viewing   by third parties online - for example in chat rooms or on message boards -   Crawford Scientific/Advanstar has no ability or obligation to prevent third-party access to such   information and Crawford Scientific/Advanstar undertakes no responsibility to keep such information   private.</p>
+                      <p class="body_text"><strong>Notification of Changes</strong><br>
+                        Crawford Scientific/Advanstar reserves the right, at any time   and without notice, to add to, change, update or modify this privacy policy,   simply by posting such change, update or modification on the website. Any such   change, update or modification will be effective immediately upon posting on the   website.</p>
+                      <p class="body_text"><strong>Your Acceptance of these Terms</strong><br>
+                        By using our website, products or   services, you signify your acceptance of the terms of the Crawford Scientific/Advanstar Privacy   Policy. If you do not agree to the terms of the Crawford Scientific/Advanstar Privacy Policy, please   do not use the website, products and/or services and exit the site   immediately.</p>
+                      <p class="body_text"><br>
+                      </p></td>
+                    <td></td>
+                  </tr>
+                  <tr>
+                    <td height="19">&nbsp;</td>
+                    <td align="left" valign="top" class="GreyBold16">&nbsp;</td>
+                    <td></td>
+                  </tr>
+                </tbody></table>
+              <!-- InstanceEndEditable --></td>
+                  </tr>
+              </tbody></table></td>
+            </tr>
+            <tr>
+              <td height="10" align="left" valign="top"></td>
+            </tr>
+            <tr>
+              <td height="30" align="left" valign="middle" bgcolor="#434343" class="WhiteBody12"><div align="center">| &nbsp;<a href="index.asp" target="_self" class="MyLinkSml">Home</a> | <a href="about.asp" target="_self" class="MyLinkSml">About Us</a> | <a href="http://chrommunity.chromacademy.com/" title="join us at CHROMmunity.com / opens in new window" target="_blank" class="MyLinkSml">CHROMmunity</a>&nbsp;l&nbsp;<span class="MyLinkSml"><a href="contact.asp" class="MyLinkSml">Contact Us</a></span> | <a href="subscription.asp" class="MyLinkSml">Subscribe</a> |&nbsp;<a href="terms_condition.asp" target="_self" class="MyLinkSml">Terms and Conditions</a> | <a href="advertise.asp" class="MyLinkSml" target="_self">Advertise</a> | <a href="PrivacyPolicy.asp" class="MyLinkSml">Privacy Policy</a> | </div></td>
+            </tr>
+          </tbody></table></td>
+        </tr>
+      </tbody></table>
+    </div>
+    
+</td>
+  </tr>
+</tbody></table>
+		
+<div id="ccToolTip" style="position:absolute; width:300px; height:25px; z-index:100; left: 0px; top: -50px; border: 1px solid #ffffff; visibility: hidden" class="tool"></div>
+<span id="ccSpan" style="display:none"><a href="#"></a></span>
+
+    <div id="divAlert" style="position: absolute; top: 200px; width: 99%;display:none;" align="center">
+            <table width="300" cellspacing="0" cellpadding="10" bgcolor="#ffffff" border="1" bordercolor="#CCCCCC">
+            <tbody><tr>
+              <td align="left"><div id="divResponse1"></div><br><div id="divResponse2"></div><br><div id="divResponse3"></div></td>
+            </tr>
+            </tbody></table>
+                  
+        </div>
+        <script type="text/javascript">
+                document.getElementById('divAlert').style.display= 'none';
+            </script>
+
+<!-- InstanceEnd -->
+</body></html>
