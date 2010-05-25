@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526235132id_/http%3A//theblogfrog.com/Learn/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theblogfrog.com privacy policy that was archived on 2010-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100525211654id_/http%3A//www.theblogfrog.com/Learn/Privacy.aspx) for the most accurate reproduction.*
 
-# Untitled Page
+# Privacy Policy | BlogFrog
 
 Your privacy is important to us. This Privacy Policy applies to all of the products, widgets, services and websites offered by TheBlogFrog LLC or its subsidiaries or affiliated companies ; collectively, TheBlogFrog’s “services”. 
 
