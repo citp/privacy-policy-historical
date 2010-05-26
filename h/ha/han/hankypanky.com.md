@@ -1,72 +1,86 @@
-> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2008-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080502050919id_/http%3A//www.hankypanky.com/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hankypanky.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526144321id_/http%3A//www.hankypanky.com/privacy-policy.asp) for the most accurate reproduction.*
 
-# Hanky Panky
+# Privacy Policy on HankyPanky.com!
 
-####  Privacy Policy  
-Please read this carefully  
+Hanky Panky Ltd. (“Hanky Panky”) understands that our website users are concerned about how personal information is collected and used. Please be assured that we take privacy very seriously and are committed to safeguarding personal information. This notice describes our Privacy Policy, which covers the personal information that we collect on our website. By accessing and using our website, you are agreeing to be legally bound by this Privacy Policy. The Privacy Policy may be updated from time to time. You should check the date of the policy and review any changes since the last version.
 
+_Information Collected_
 
-Updated May 25th 2007  
-Published: May 25th 2007
+We may collect personal information from you, such as your name, email address, postal address, phone number, credit card number, gender, birthday, personal interests, etc., when you visit our website or place an order online or  save your information with us online, contact us with a question or concern, or participate in a contest, promotion, or survey. We maintain a record of your product interests and the purchases you make online or by phone. We may combine all of this information with information about you that we acquire from our joint marketing partners, from unrelated third parties, and from our other brands, if any. We also collect and store the Internet Protocol (“IP”) addresses of individuals that visit our site. An IP address provides general statistical information, such as browsing activity, areas of greatest interest on the site, general demographic information and other basic information that we will use for system administration. 
 
-Before using the Website , it is your responsibility to read the Privacy Policy. You can notify us in the manner set out below if you do not want us to share information about you with third parties.
+_Use of Information_
 
-#### The basic principles
+Hanky Panky is determined to protect your privacy. We only collect information in an effort to improve your shopping experience and that allows us to communicate with you about our products, services, contests and promotions. We may use your personal information in the following ways:
 
-By accessing and using the Website you are agreeing to be legally bound by this Privacy Policy.   
+-        To process and fulfill your order, including to send you emails to confirm your order status and shipment 
 
+-        To communicate with you and to send you information by email, postal    mail, telephone, text message, or other means about our products, services, contests, and promotions, unless you have directed us not to    contact you with promotional communications 
 
-Hanky Panky Ltd. is determined to protect your privacy.  
-It is very important to us that you should be able to use and enjoy the Website without having to compromise your privacy unacceptably.
+-        To administer and fulfill our contests and other promotions 
 
-Knowing something about our users is, however, necessary to ensure that our service is continually improved.  
-We need to build an accurate picture of the needs and wishes of our users, and to be able to communicate with you.  
-That enables us to offer a service that is relevant and truly interactive, which is what our users expect.  
+-        To help us learn more about your shopping preferences 
 
+-        To help us address problems with and improve our site design, products and services 
 
-#### We answer your important questions
+-        To enhance your shopping experience 
 
-#### "What information do you collect about me?"
+-        To analyze trends and statistics 
 
-We automatically collect some data about our users' browsing actions and patterns. This is aggregate data and does not identify any individual.
+-        To protect the security or integrity of our websites and our business 
 
-We may also ask you to provide personal information on a **_voluntary basis_** in order to get a clearer picture of our users.   
-It is then entirely up to you whether you are happy to give us this information.
+-        To contact you if necessary
 
-In the course of entering competitions, promotions and other offers you will be asked to give some details about yourself.  
-You may also choose to e-mail us or make contact with us in other ways. Such contact gives us information about you.
+We only use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences.   We only share specific information with third parties that provide services on our behalf or with whom we have partnered to offer a particular product or service. For example, we provide relevant shipping information to UPS, our shipping partner, so that they may deliver your order.
 
-#### "For what purposes do you collect and use this information?"
+Signing up for our e-mail list allows you to receive promotional materials from Hanky Panky. Each e-mail you receive will give you the option to unsubscribe. We do not share our e-mail list with any third parties. We may have to release information (which could include contents of e-mail communications between any persons) in the unlikely event of a legal requirement on us or pursuant to a court order. In addition, we may divulge personal information if we or any of our service providers or consultants believe that such disclosure is necessary to address any unlawful acts or acts that may endanger the health or safety of another customers or of the general public.
 
-We use aggregate audience details (where no individual is identifiable) to help us improve our understanding of our users and their preferences.   
-We use it to assist us in arranging relevant advertising, commercial opportunities and competitions, as well as ensuring the best editorial coverage. It also helps us develop the Website and audit its use.
+_Links to Other Sites_
 
-* The information about you as an identifiable individual, including contact details, may be used in the following ways:
+Our website may contain links to sites other than our own. Those sites may have their own privacy policies. Neither we nor any of our service providers have any responsibility for those sites and we provide these links solely for the convenience of our visitors. We encourage you to review the privacy policies and terms of use of any third-party sites or services before providing any of them with any of your personal information.
 
-* to conduct market research and other surveys.
+_Children’s Privacy_
 
-* to create and draw to your attention editorial material and commercial opportunities that may be of interest to you.
+The Children’s Online Privacy Protection Act imposes certain requirements on websites directed at children under 13 that collect information on those children, and on websites that knowingly collect information on children under 13. Our website is not directed at children under 13 and does not knowingly collect any personal information from children under 13.
 
-* to be shared with advertisers, trading partners and other commercial entities with whom we have or might have an association. We may also be able to share the information that they obtain about their users, which may include you.
+_Use of Cookies, Pixel Tags/Clear GIFs/Web Beacons_
 
-#### "How private are my details?"
+A cookie is a small data file that websites often store on your hard drive. A cookie may contain information (such as unique user ID), which is used to track the pages of the sites you’ve visited. Hanky Panky uses cookies to preserve the contents of your shopping bag between your visits as well as to measure activity on the site which allows us to determine which areas and features of the site are most popular. You can set your browser to refuse cookies or to alert you when cookies are being sent. If you turn off cookies or refuse them, though, you will not be able to make a purchase from the site, nor will we be able to recognize you as a registered user to allow you access to your account information.
 
-Apart from other companies in the Hanky Panky Ltd. group, we only share personal information about you with third parties whom we have selected carefully and with whom we have, or may have, a commercial relationship. Hanky Panky Ltd. complies with the relevant legal requirements and takes all reasonable care to ensure that your information is secure and private and is only seen by Hanky Panky Ltd. However we cannot be held responsible for the actions of any third party who receives or obtains access to the information, or for any breach of security.
+A pixel tag, also known as a clear GIF or web beacon, is an invisible tag placed on certain pages of our site but not on your computer. When you access these pages, pixel tags generate a generic notice of that visit. They usually work in conjunction with cookies, registering when a particular computer visits a particular page. If you turn off cookies the pixel tag will simply detect an anonymous website visit.
 
-If you tell us that you do not want us to use your details, then data about your use of the Website would then only form part of aggregated statistics and would not be related to you as an individual.
+_Notice to P3P Users_
 
-You can ask to see the information we have about you by e-mailing a request to customerservice@hankypanky.com
+The Platform for Privacy Preferences Project (P3P) is a standard developed by the World Wide Web Consortium (W3W) that provides an automated, machine-readable mechanism for understanding the use of your Personal Information by the websites you visit. P3P uses a standardized set of multiple choice questions covering the major elements of a website’s privacy policy to provide a cross-section of how the particular website handles the personally identifiable information of its users. P3P-enabled browsers can automatically read this set of preferences made available by P3P-enabled websites and compare this information to the user’s own set of privacy preferences. 
 
-#### "What do I do if I am not happy for you to share information about me with others?"
+_Security and SSL_
 
-You may not wish us to share personal details about you with third parties outside the Hanky Panky Ltd. group, or to use your information in the other ways we have described in this Privacy Policy. You can e-mail customerservices@hankypanky.com at any time to let us know of any objections you may have to how we use or disclose your data in the ways set out in this Privacy Policy. Your personal details may in any event be shared with third party organisations we have contracted to provide services to us, on an agency basis, which include processing data. We may also have to release information (which could include the contents of e-mail communications between any persons) because of a legal requirement on us or pursuant to a court order.
+Protecting your order information is a priority for us. We use Secure Sockets Layer (SSL) technology to protect the security of your online order information.
 
-#### Further information
+_Limitation on Liability_
 
-If you want further information, or wish to communicate with us about this Privacy Policy and your wishes about your personal information, please e-mail us at customerservice@hankypanky.com.
+In no event shall Hanky Panky or any of their affiliated entities or suppliers be liable for any indirect, special, punitive, incidental, exemplary or consequential damages even if these entities have been previously advised of the possibility of such damages, whether in an action, under contract, negligence or any other theory, arising out of or in connection with the use, inability to use or performance of the information, services, products and materials available from the site. These limitations shall apply not withstanding any failure of essential purpose or the existence of any limited remedy. Because some jurisdictions do not allow limitations on how long an implied warranty lasts, or the exclusion or limitation of liability for consequential or incidental damages, the above limitations may not apply to you.
 
-Company and data protection information
+_Additional Information_
 
-The data controller of data on the Website is Hanky Panky Limited, whose registered office is at 373 Park Ave South, 12th Floor New york NY
+No transaction of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of Hanky Panky to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal information, neither Hanky Panky nor any of our service providers can ensure or warrant the security of any information you transmit to us over the internet. Any such transmission is done at your own risk.
 
-. Any queries or notices under the Data Protection Act should be addressed to the IT Director at the above address
+_Contacting Us  
+_
+
+Please address any question regarding our Privacy Policy or our practices concerning Personal Information by writing to:
+
+Hanky Panky Ltd.
+
+373 Park Avenue South
+
+New York, NY 10016
+
+Att: Privacy Officer
+
+Please include information in your communication to us that will help us identify your account so we can assist you with your inquiry or request.
+
+_  
+Applicable Law  
+_
+
+The laws of the State of New York will govern this Privacy Policy without giving effect to any principles of conflict of law.
