@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citywaboo.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124205656id_/http%3A//mywaboo.citywaboo.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citywaboo.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164341id_/http%3A//mywaboo.citywaboo.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy - Online Community City Guide - CityWaboo
 
