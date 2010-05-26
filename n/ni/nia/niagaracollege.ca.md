@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523223255id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niagaracollege.ca privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020408id_/http%3A//www.niagaracollege.ca/privacy.htm) for the most accurate reproduction.*
 
 # College Privacy Statement :: Niagara College
 
@@ -26,4 +26,13 @@ At any time, you may choose to be removed from any mailing lists that may result
 
 To ensure that we are publishing content that our customers desire, Niagara College collects aggregated site-visitation statistics using cookies. However, we do not track individuals’ use of the site. A cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously. 
 
-If you choose not to have your browser accept cookies from the site, you will still be able to view the text on the screens. However, you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site. 
+If you choose not to have your browser accept cookies from the site, you will still be able to view the text on the screens. However, you will not experience a personalized visit nor will you be able to subscribe to the service offerings on the site.   
+  
+**Niagara College Canada**   
+Southern Ontario (Niagara Region), Canada   
+General Enquiries ([InfoCentre](http://www.niagaracollege.ca/info_centre.htm))   
+Phone: 905‑735‑2211, ext. 7559   Fax: 905‑736‑6000   
+[Home](http://www.niagaracollege.ca/) | [Disclaimer](http://www.niagaracollege.ca/disclaim.htm) | [Privacy](http://www.niagaracollege.ca/privacy.htm) | [FAQ](http://www.niagaracollege.ca/faq) | [Contact](http://www.niagaracollege.ca/contact.htm) | [Sitemap](http://www.niagaracollege.ca/sitemap.htm)
+
+**Copyright Notice**  
+The content on this website is the property of Niagara College; it is not to be copied, reproduced, or transmitted in any form, by any means, in whole or in part, nor is it to be used for any purpose other than that for which it is expressly provided without the written permission of Niagara College. 
