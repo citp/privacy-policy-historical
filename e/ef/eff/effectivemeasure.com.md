@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917175511id_/http%3A//www.effectivemeasure.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the effectivemeasure.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170003id_/http%3A//www.effectivemeasure.com/privacy-policy) for the most accurate reproduction.*
 
-# Effective Measure :: Privacy Policy
+# Effective Measure - Privacy Policy
 
 ### Privacy Statement for Visitors Tracked by Effective Measure
 
@@ -11,6 +11,8 @@ Your trust and confidence is important to us, Effective Measure conducts its bus
 Effective Measure acts as an Agent for each of our Customers, in that we provide our services solely for the benefit of the customer. Each of our customers uses Effective Measure to understand more about the visitors to its web sites; in this way, our customers can provide online advertisers with third party independent statistics that help demonstrate their site audience. This data may include search engine referral, affiliate referrals, traffic driven by banner ads or other online promotions, how visitors navigate around the site, the most popular websites or sections.
 
 We also collect certain technical information, such as the browser version and operating system. We aggregate all of the usage data from our customers websites into a Benchmarking solution that demonstrates their metrics to advertisers and other interested parties. We do, however, reserve a limited right to disclose any data we collect if required by law or valid order of a court or other governmental authority.
+
+We only collect anonymous usage data from safe websites which are registered on our system. These websites parrticipate in Effective Measure by placing a small piece of tracking code on each of their webpages. To see more information on this, please visit the following [link](http://www.effectivemeasure.com/the-interface/site-tagging/ "Website Tag").
 
 **Our Customers' Use of Effective Measure**  
 We ask each of our customers to abide by all applicable laws, rules and regulations, as we promise our customers that we will do ourselves. We also recommend that each customer obtain all necessary consents from visitors to its web site(s), post an online privacy policy that provides each visitor with notice of its data collection and use practices (including the customer's use of Effective Measure), and provide a link to the Effective Measure privacy policy.
@@ -35,7 +37,7 @@ Effective Measure does NOT use personally identifiable information inadvertently
 
 As a visitor to any of our customers' sites, you can deactivate our customers' abilities to analyse your web browsing behavior, which will universally deactivate this ability on all customer sites (including the Effective Measure web sites) currently using our services. To opt out of receiving tracking cookies for all sites using Effective Measure, you will need to accept a cookie indicating your choice to do so.
 
-Please visit our opt-out page at [http://www.effectivemeasure.com/optout](http://www.effectivemeasure.com/opt_out.html) for more information.
+Please visit our opt-out page at [http://www.effectivemeasure.com/opt-out/](https://web.archive.org/opt-out/) for more information.
 
 ### Privacy Policy For Effective Measure Website
 
