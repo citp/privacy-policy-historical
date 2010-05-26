@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2009-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090809234058id_/http%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warehouseskateboards.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526185733id_/http%3A//www.warehouseskateboards.com/privacy-policy-statement) for the most accurate reproduction.*
 
-# Privacy Policy at Warehouse Skateboards
+# Privacy Policy - Warehouse Skateboards Skate Shop
 
 This Privacy Policy Statement sets forth the privacy policy pertaining to this Site, www.warehouseskateboards.com which is owned by Warehouse Skateboards, Inc. ("Warehouse Skateboards"). By using this Site, you are agreeing to the terms set forth in this Privacy Policy Statement. For other terms and conditions that apply to your use of the Site, please review our Legal Statement. 
 
