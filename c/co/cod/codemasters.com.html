@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the codemasters.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224011752id_/http%3A//www.codemasters.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the codemasters.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526100849id_/http%3A//www.codemasters.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
 
@@ -12,18 +12,21 @@
 
 	<script type="text/javascript" src="../_inc/_js/newWindow.js"></script>
 	<script type="text/javascript" src="../_inc/_js/swfobject/swfobject.js"></script>
-	<script type="text/javascript" src="../_inc/_js/mootools/mootools-release-1.11.js"></script>
+	<script type="text/javascript" src="../_inc/_js/mootools/mootools-1.2.4-core-yc.js"></script>
+	<script type="text/javascript" src="../_inc/_js/mootools/mootools-1.2.4.2-more-compressed-09022010.js"></script>
 	<script type="text/javascript" src="../_inc/_js/init.js"></script>
-	<script type="text/javascript" src="../_inc/_js/__utm.js"></script>
+	<script type="text/javascript" src="../_inc/_js/__utm.js"></script><script language="JavaScript1.5">_ujv='1.5';</script>
 	<script type="text/javascript" src="../_inc/_js/template_tools.js"></script>
-	<script type="text/javascript" src="../_inc/_js/mootools/mootabs1.2.js"></script>
+	<script type="text/javascript" src="../_inc/_js/mootools/mootabs1.2_for_mootools_1.2.js"></script>
 	<script type="text/javascript" src="../_inc/_js/elselect.js"></script>
-	<script type="text/javascript" src="../_inc/_js/slimbox.js"></script>
-	<script type="text/javascript" src="../_inc/_js/mootools/Observer.js"></script>
-	<script type="text/javascript" src="../_inc/_js/mootools/Autocompleter.js"></script>
-	<script type="text/javascript" src="../_inc/_js/tooltips.js"></script>
+	<script type="text/javascript" src="../_inc/_js/slimbox_for_mootools_1.2.js"></script>
+	<script type="text/javascript" src="../_inc/_js/autocompleter-for-1.2/Observer.js"></script>
+	<script type="text/javascript" src="../_inc/_js/autocompleter-for-1.2/Autocompleter.js"></script>
+	<script type="text/javascript" src="../_inc/_js/autocompleter-for-1.2/Autocompleter.Local.js"></script>
+	<script type="text/javascript" src="../_inc/_js/tooltips_for_mootools_1.2.js"></script>
 	<script type="text/javascript" src="../_inc/_js/basket_update.js"></script>
-	<script type="text/javascript" src="../_inc/_js/moodalbox.js"></script>
+	<script type="text/javascript" src="../_inc/_js/moodalbox_for_mootools_1.2.js"></script>
+	<script type="text/javascript" src="../_inc/_js/mootools/tipsfixed.js"></script>
 	
 <!--Load in CSS-->
 
@@ -32,6 +35,8 @@
 	<link href="../_inc/_css/Autocompleter.css" rel="stylesheet" type="text/css">
 	<link href="../_inc/_css/basket_update.css" rel="stylesheet" type="text/css">
 	<link href="../_inc/_css/moodalbox.css" rel="stylesheet" type="text/css">
+	<link href="../_inc/_css/Autocompleter-for-1.2.css" rel="stylesheet" type="text/css">
+	<link href="../_inc/_css/tooltips-v2.css" rel="stylesheet" type="text/css">
 	
 
 
@@ -46,6 +51,7 @@
 
 
 </head>
+
 <body id="body-EnglishUSA" class="privacy">
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -83,7 +89,7 @@ try {
 
 	<span class="call">
 		<a href="../codem/joinup.php">
-			<img src="../_inc/images/codem_top_promo/englishusa/codem_promo2.gif" alt="">
+			<img src="../_inc/images/codem_top_promo/englishusa/codem_promo3.gif" alt="">
 		</a>
 	</span>
 </dt>
@@ -103,15 +109,90 @@ try {
 
 	</div><!--END HEADER PRIMARY -->
 
-							<ul id="nav" class="privacy">
+<script type="text/javascript">
+	window.addEvent('domready',function() {
+				var gamesHover = $('games_hover');
+				var gamesHoverTopPanel = $('games_hover_top_panel');
+				var gamesHoverPanel = $('games_hover_panel');
+				var menugames = $('menu-games');
+				var link = $('games_link');
+				var iFrame = $('iframe');
+				var gamesImage = $('game_image');
+				var gamesPopularLinks = $('most_popular_link');
+				if(Browser.Engine.trident4){
+					gamesHover.setStyle('left',0);
+					gamesHover.setStyle('top',139);
+					gamesHover.setStyle('z-index',10000);
+					var divPopup=document.getElementById('games_hover_panel');
+	
+					//Increase default zIndex of div by 1, so that DIV appears before IFrame
+					divPopup.style.zIndex=divPopup.style.zIndex+1;
+					//Match IFrame position with divPopup. The IFrame is used in ie6 so that the content can appear above select dropdowns
+					iFrame.style.position="absolute";
+					iFrame.style.left = 67+'px';
+					iFrame.style.top = 96+'px';
+					iFrame.style.width =divPopup.offsetWidth + '580px';
+					iFrame.style.height =divPopup.offsetHeight + '200px';
+					iFrame.style.zIndex=divPopup.style.zIndex+1;
+
+				}	
+						
+				//link is the games button link that you hover over to display dropdown
+				link.addEvent('mouseenter',function() {
+					gamesHoverPanel.setStyle('display','block');
+					if(Browser.Engine.trident4){
+						iFrame.setStyle('display','block');
+					}					
+				});
+				
+				link.addEvent('mouseleave',function(){
+					gamesHoverPanel.setStyle('display','none');
+					if(Browser.Engine.trident4){
+						iFrame.setStyle('display','none');
+					}					
+				});	
+				
+				//gameshoverPanel is the panel containing the drop down content
+				gamesHoverPanel.addEvent('mouseenter',function() {
+					gamesHoverPanel.setStyle('display','block');
+					/*menugames.setStyle('border-bottom','3px solid #272c30');*/
+					if(Browser.Engine.trident4){
+						iFrame.setStyle('display','block');
+					}
+
+				});		
+				
+				gamesHoverPanel.addEvent('mouseleave',function(){
+					gamesHoverPanel.setStyle('display','none');
+					/*menugames.setStyle('border-bottom','3px solid #B9CBD3');*/
+					if(Browser.Engine.trident4){
+						iFrame.setStyle('display','none');
+					}
+				});
+				
+				//gamesImage is the image of the no1 popular game displayed on the dropdown
+				if(gamesImage){
+				gamesImage.addEvent('mouseenter',function() {
+					gamesPopularLinks.addClass('most_popular');
+				});
+				
+				
+				gamesImage.addEvent('mouseleave',function() {
+					gamesPopularLinks.removeClass('most_popular');
+				});
+				}		
+	});
+</script>
+
 							<div class="background-fix">
+							<ul id="nav" class="privacy">
 																	<li id="menu-home">
 																							<a href="../" class="int ">
 																							Home																							</a>
 																					</li>										
 					
 																		<li id="menu-games">
-																							<a href="../games/" class="int ">
+																							<a href="../games/" class="int " id="games_link">
 																							Games																							</a>
 																					</li>										
 					
@@ -126,7 +207,7 @@ try {
 																					</li>										
 					
 																		<li id="menu-community">
-																							<a href="../community/" class="int tooltip-community  " onclick="return true;" title="Forums, Fansites, News and Events">
+																							<a href="../community/" class="int tooltip-community  " onclick="return true;">
 																							Community																							</a>
 																					</li>										
 					
@@ -149,9 +230,10 @@ try {
 								
 								
 
-							</div>
 							</ul>
-								
+							</div>
+							
+
 														
 							<div id="search-box">
 							
@@ -162,7 +244,7 @@ try {
 											<li id="select1">
 												<select id="select-game" name="gameid">
 													<option value="">all games</option>
-													<option value="2773">Bella Sara</option><option value="2030">Bliss Island</option><option value="2070">Bubble Bobble Revolution</option><option value="2081">Clive Barker's Jericho</option><option value="2575">Clive Barker's Jericho Special Edition</option><option value="2653">Damnation</option><option value="1833">Dance Factory</option><option value="2014">DiRT™</option><option value="2996">DiRT™2</option><option value="2594">Dragonology™</option><option value="2295">Emergency Mayhem</option><option value="3073">F1 2009</option><option value="2845">FUEL™</option><option value="2614">GRID™</option><option value="2187">Heatseeker</option><option value="2127">Hospital Tycoon</option><option value="2778">Jumpgate Evolution</option><option value="3019">Leisure Suit Larry®: Box Office Bust™</option><option value="1849">Maelstrom</option><option value="2136">New Star Soccer 3</option><option value="1825">Operation Flashpoint: Elite</option><option value="1192">Operation Flashpoint™: Dragon Rising</option><option value="1998">Overlord</option><option value="2827">Overlord™ Dark Legend</option><option value="2835">Overlord™ Minions</option><option value="2628">Overlord™: Raising Hell</option><option value="2806">Overlord™II</option><option value="2328">Prisoner of War</option><option value="1910">Race Driver 2006</option><option value="2519">Race Driver™: Create &amp; Race™</option><option value="2254">Rafa Nadal Tennis</option><option value="2069">Rainbow Island Revolution</option><option value="2479">Rise of the Argonauts™</option><option value="2331">Second Sight</option><option value="2547">Sensible World of Soccer</option><option value="2329">Soldiers: Heroes of World War II</option><option value="1752">ToCA Race Driver 3</option><option value="2160">Turning Point: Fall of Liberty</option>												</select>
+													<option value="2773">Bella Sara</option><option value="2030">Bliss Island</option><option value="3203">Bodycount</option><option value="2070">Bubble Bobble Revolution</option><option value="2081">Clive Barker's Jericho</option><option value="2575">Clive Barker's Jericho Special Edition</option><option value="2653">Damnation</option><option value="1833">Dance Factory</option><option value="2014">DiRT™</option><option value="2996">DiRT™2</option><option value="2594">Dragonology™</option><option value="2295">Emergency Mayhem</option><option value="3073">F1 2009™</option><option value="3187">F1 2010™</option><option value="2845">FUEL™</option><option value="2614">GRID™</option><option value="2187">Heatseeker</option><option value="2127">Hospital Tycoon</option><option value="2778">Jumpgate Evolution</option><option value="3019">Leisure Suit Larry®: Box Office Bust™</option><option value="1849">Maelstrom</option><option value="2136">New Star Soccer 3</option><option value="1825">Operation Flashpoint: Elite</option><option value="1192">Operation Flashpoint™: Dragon Rising</option><option value="1998">Overlord</option><option value="2827">Overlord™ Dark Legend</option><option value="2835">Overlord™ Minions</option><option value="2628">Overlord™: Raising Hell</option><option value="2806">Overlord™II</option><option value="2328">Prisoner of War</option><option value="1910">Race Driver 2006</option><option value="2519">Race Driver™: Create &amp; Race™</option><option value="2254">Rafa Nadal Tennis</option><option value="2069">Rainbow Island Revolution</option><option value="2479">Rise of the Argonauts™</option><option value="2331">Second Sight</option><option value="2547">Sensible World of Soccer</option><option value="2329">Soldiers: Heroes of World War II</option><option value="1752">ToCA Race Driver 3</option><option value="2160">Turning Point: Fall of Liberty</option>												</select>
 											</li>
 										
 									
@@ -174,8 +256,7 @@ try {
 											</li>
 
 											<li>
-												<span class="submit"><input type="submit" class="submit find" value="find"></span>
-											</li>
+												<a class="cmbuttonouter submit find" style="width:32px;height:21px;background-image:url('/images/cache/btn-0cadef3b074eae95903917e4a574b96a.gif');"><input type="submit" class="cmbutton submit find" name="" value="find" style="width:32px;height:21px;line-height:17px;"></a>											</li>
 										
 										</ul>
 										
@@ -189,18 +270,17 @@ try {
 								
 								<div id="search-site">
 									
-									<form method="post" action="../search/" onsubmit="javascript: pageTracker._trackEvent('Search', 'Submit', this.search_string.value);">
+									<form method="get" action="../search/" onsubmit="javascript: pageTracker._trackEvent('Search', 'Submit', this.search_string.value);">
 										<div id="search_box_container">
 										<ul>
-											<div id="search_text"><img src="../_inc/_css/images/nav/englishusa/title-search.gif"></div>
+											<div id="search_text"><img src="../_inc/_css/images/nav/englishusa/title-search.gif" alt="search"></div>
 											<div id="search_left"></div>
 											<div id="search_main">
 											<li id="search_input">
-																								<input type="text" name="search_string" id="search-string" value="enter your search" onfocus="doClear(this)">
+																								<input name="search_string" id="search_string" type="text" value="enter your search" autocomplete="off" onfocus="doClear(this)">
 											</li>
 											<li id="search_button">
-												<span class="submit"><input type="submit" class="submit" id="search-submit" value="search"></span>
-											</li>
+												<a class="cmbuttonouter submit find" style="width:46px;height:21px;background-image:url('/images/cache/btn-156c6f294b03bdf9e972e280ff2ae839.gif');"><input type="submit" class="cmbutton submit find" name="" value="search" style="width:46px;height:21px;line-height:17px;"></a>											</li>
 											</div>
 											<div id="search_right">											
 											</div>
@@ -219,15 +299,119 @@ try {
 										
 									
 								</div>
-
-						
-					
 					</div>
 					<!--/END HEADER -->
 					
 					
+						<!-- Drop Down Panel From Games Button -->
+					<div id="games_hover">
+						<!--<div id="games_hover_container">-->
+							<div id="games_hover_panel">
+								<div id="games_hover_top_panel"><div id="black_link"></div></div>
+								<div id="games_shadow">
+									<div id="games_shadow_left">
+										<div id="games_shadow_right">
+											<div id="games_hover_content">
+												<p id="games_hover_top_spacing"></p>
+												<div class="clear"></div>
+												<div id="games_hover_products">
+													<div id="popular_title">POPULAR GAMES</div>
+													<div id="popular_content">
+																																											<div id="game_image"><a href="/games/?pid=398"><img border="0" src="/images/cache/aeb2a8df591b8908a69f6e91837750c9-1269425974-260x70-c-0x0.jpg"></a></div>
+																												
+														<div id="game_bullets">
+															<ul id="game_popular_list">
+																															<li id="most_popular_link">
+																<a class="popular" href="/games/?pid=398" onclick="javascript: pageTracker._trackEvent('Popular games', 'Games', 'F1 2010™');"><span class="product_name">F1 2010™</span></a>
+																</li>
+																
+															<div id="hr"></div>																<li>
+																<a class="popular" href="/games/?pid=309" onclick="javascript: pageTracker._trackEvent('Popular games', 'Games', 'Jumpgate Evolution');"><span class="product_name">Jumpgate Evolution</span></a>
+																</li>
+																
+																															<li>
+																<a class="popular" href="/games/?pid=399" onclick="javascript: pageTracker._trackEvent('Popular games', 'Games', 'Bodycount');"><span class="product_name">Bodycount</span></a>
+																</li>
+																
+																															<li>
+																<a class="popular" href="/games/?pid=352" onclick="javascript: pageTracker._trackEvent('Popular games', 'Games', 'F1 2009™');"><span class="product_name">F1 2009™</span></a>
+																</li>
+																
+																															<li>
+																<a class="popular" href="/games/?pid=346" onclick="javascript: pageTracker._trackEvent('Popular games', 'Games', 'DiRT™2');"><span class="product_name">DiRT™2</span></a>
+																</li>
+																
+																														</ul>
+														</div>	
+													</div>
+												</div>
+												<div id="games_hover_platforms">
+													<div id="platforms_title">PLATFORMS</div>
+													<div id="platforms_content">
+														<div id="game_bullets">
+															<ul>
+																																<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=PS3" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'PlayStation®3');">PlayStation®3</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=XBOX360" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'Xbox 360™');">Xbox 360™</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=PC-DVD" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'PC-DVD');">PC-DVD</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=PSP" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'PSP™');">PSP™</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=Mobile" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'Games for Mobile');">Games for Mobile</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=DS" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'Nintendo DS™');">Nintendo DS™</a>
+																	</li>
+																																	<li class="games_hover_item">
+																	<a class="formats" href="/games/?format=Wii" onclick="javascript: pageTracker._trackEvent('Popular games', 'Platforms', 'Wii™');">Wii™</a>
+																	</li>
+																															</ul>
+														</div>
+													</div>
+												</div>
+												<div id="games_hover_genres">
+													<div id="genres_title">GENRES</div>
+													<div id="genres_content">
+														<div id="game_bullets">
+															<ul>
+																															<li class="games_hover_item"><a class="genres" href="/games/?genre=Football" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', '');"></a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=FPS" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', '1st/3rd Person shooters');">1st/3rd Person shooters</a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=Motor+Sports" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', 'Driving Games');">Driving Games</a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=Music" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', 'Music Games');">Music Games</a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=RPG" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', 'RPGs/MMORPGs');">RPGs/MMORPGs</a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=Sports" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', 'Sports Games');">Sports Games</a></li>
+																																<li class="games_hover_item"><a class="genres" href="/games/?genre=Strategy" onclick="javascript: pageTracker._trackEvent('Popular games', 'Genres', 'Strategy Games');">Strategy Games</a></li>
+																															</ul>
+														</div>
+													</div>
+												</div>		
+												
+												
+											</div>		
+										</div>							
+									</div>
+									
+									<div class="clear"></div>
+									
+									<div id="games_shadow_bottom_left"></div>
+									<div id="games_shadow_bottom_center"></div>
+									<div id="games_shadow_bottom_right"></div>
+								</div>
+								<div class="clear"></div>
+									
+									
 
-														<div id="content">
+							</div>
+						<!--</div>-->
+						</div>
+						<iframe id="iframe" scrolling="no" frameborder="0"></iframe>
+							<div id="content">
 	<!--START PRIMARY-->
 	<div id="primary">
 		<div id="bread-crumbs">
@@ -247,18 +431,18 @@ try {
 
 		</div>
 
-		<div class="gutter">
+		<div class="gutter position">
 			<div class="module">
-				<div class="gutter">
+				<div class="gutter position">
 					
 					<div class="tab-wrapper">
 						<dl class="support">
 							<dt class="title">Privacy Policy</dt>					
 						</dl>				
 						<div class="cheats-panel">
-							<div class="gutter">
+							<div class="gutter position">
 								<div class="blue">
-									<div class="gutter">
+									<div class="gutter position">
 
 										Codemasters respects your privacy. This document explains our policy relating to your personal data that is provided to us. <br>
 Codemasters is the trading name of The Codemasters Software Company Limited whose registered office and headquarters are at Lower Farm, Stoneythorpe, Southam, Warwickshire, CV47 2DL, United Kingdom. The website is www.codemasters.com ("the Site"). By using this Site you agree that all personal data that you supply to us will be true, complete and accurate in all respects and you agree to notify us immediately of any changes to that personal data. <br>
@@ -318,20 +502,20 @@ United Kingdom 									</div>
 	<div class="box ">
 
 						<dl>
-							<dt class="release title"><a href="../games/?pid=109" onclick="javascript: pageTracker._trackEvent('Link (coming up)', 'Game info', 'Dragonology™');">Dragonology™</a></dt>
-							<dd class="release date">available from November 10 2009</dd>
-							<dd class="release platforms">DS</dd>
+							<dt class="release title"><a href="../games/?pid=398" onclick="javascript: pageTracker._trackEvent('Link (coming up)', 'Game info', 'F1 2010');">F1 2010</a></dt>
+							<dd class="release date">available from September 2010</dd>
+							<dd class="release platforms">PS3, XBOX360, PC-DVD</dd><dd class="toggle close" id="toggle_0">toggle view</dd>
 							
 						</dl>
 
-						<dl class="open-close" id="show_0">
+						<dl class="open-close" id="show_0" style="padding-top: 0px; border-top: none; padding-bottom: 0px; border-bottom: none; overflow: hidden; visibility: visible; zoom: 1; opacity: 1; height: 110px;">
 													<dt class="relase-packshot">
 
 									<span class="shadow-top">
 										<span class="shadow-bottom">
 											<span class="shadow">
-												<a href="../games/?pid=109" onclick="javascript: pageTracker._trackEvent('Pack (coming up)', 'Game info', 'Dragonology™');">
-													<img src="../_inc/images/productpackshots/dragonology_us_small.jpg" alt="Dragonology™">	
+												<a href="../games/?pid=398" onclick="javascript: pageTracker._trackEvent('Pack (coming up)', 'Game info', 'F1 2010');">
+													<img src="../_inc/images/productpackshots/f12010packshotpromo.jpg" alt="F1 2010">	
 												</a>
 											</span>
 										</span>
@@ -340,15 +524,7 @@ United Kingdom 									</div>
 							</dt>
 												
 							<dd class="release-links"><br>
-								<a class="button visit-website blue" href="../games/?gameid=2594" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Game info', 'Dragonology™');">
-									<span>Game Info</span>
-								</a>
-								<!--
-								<a class="button visit-website blue" href="../games/?pid=109">
-									<span>More Info</span>
-								</a>
-								-->
-															</dd>
+								<a href="../games/?gameid=3187" class="cmbutton" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Game info', 'F1 2010');" style="width:105px;height:23px;background-image:url('/images/cache/btn-43d23ba93e48b8cab828082ff7306fda.gif');line-height:21px !important;">game info</a><a href="http://www.formula1-game.com/" class="cmbutton" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Website', 'F1 2010');" style="width:105px;height:23px;background-image:url('/images/cache/btn-3e736466e561e5b5c73e0d0cfe21c526.gif');line-height:21px !important;">visit website</a>							</dd>
 
 							<dd class="clear "></dd>
 						</dl>
@@ -358,20 +534,20 @@ United Kingdom 									</div>
 					</div><div class="box alt">
 
 						<dl>
-							<dt class="release title"><a href="../games/?pid=346" onclick="javascript: pageTracker._trackEvent('Link (coming up)', 'Game info', 'DiRT™2');">DiRT™2</a></dt>
-							<dd class="release date">available from December 2009</dd>
-							<dd class="release platforms">PC-DVD</dd>
+							<dt class="release title"><a href="../games/?pid=399" onclick="javascript: pageTracker._trackEvent('Link (coming up)', 'Game info', 'Bodycount');">Bodycount</a></dt>
+							<dd class="release date">available from  2011</dd>
+							<dd class="release platforms">PS3, XBOX360</dd><dd class="toggle open" id="toggle_1">toggle view</dd>
 							
 						</dl>
 
-						<dl class="open-close" id="show_1">
+						<dl class="open-close" id="show_1" style="padding-top: 0px; border-top: none; padding-bottom: 0px; border-bottom: none; overflow: hidden; visibility: hidden; zoom: 1; opacity: 0; height: 0px;">
 													<dt class="relase-packshot">
 
 									<span class="shadow-top">
 										<span class="shadow-bottom">
 											<span class="shadow">
-												<a href="../games/?pid=346" onclick="javascript: pageTracker._trackEvent('Pack (coming up)', 'Game info', 'DiRT™2');">
-													<img src="../_inc/images/productpackshots/dirt2packpromo_us.jpg" alt="DiRT™2">	
+												<a href="../games/?pid=399" onclick="javascript: pageTracker._trackEvent('Pack (coming up)', 'Game info', 'Bodycount');">
+													<img src="../_inc/images/productpackshots/placeholderpack.jpg" alt="Bodycount">	
 												</a>
 											</span>
 										</span>
@@ -380,61 +556,7 @@ United Kingdom 									</div>
 							</dt>
 												
 							<dd class="release-links"><br>
-								<a class="button visit-website blue" href="../games/?gameid=2998" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Game info', 'DiRT™2');">
-									<span>Game Info</span>
-								</a>
-								<!--
-								<a class="button visit-website blue" href="../games/?pid=346">
-									<span>More Info</span>
-								</a>
-								-->
-																	<a class="button visit-website blue" rel="external" href="http://www.dirt2game.com/" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Website', 'DiRT™2');">
-										<span>visit website</span>
-									</a>	
-															</dd>
-
-							<dd class="clear "></dd>
-						</dl>
-
-
-
-					</div><div class="box ">
-
-						<dl>
-							<dt class="release title"><a href="../games/?pid=309" onclick="javascript: pageTracker._trackEvent('Link (coming up)', 'Game info', 'Jumpgate Evolution');">Jumpgate Evolution</a></dt>
-							<dd class="release date">available from  2010</dd>
-							<dd class="release platforms">PC-DVD</dd>
-							
-						</dl>
-
-						<dl class="open-close" id="show_2">
-													<dt class="relase-packshot">
-
-									<span class="shadow-top">
-										<span class="shadow-bottom">
-											<span class="shadow">
-												<a href="../games/?pid=309" onclick="javascript: pageTracker._trackEvent('Pack (coming up)', 'Game info', 'Jumpgate Evolution');">
-													<img src="../games/uploadedimages/packs/generic.jpg" alt="Jumpgate Evolution">	
-												</a>
-											</span>
-										</span>
-									</span>
-
-							</dt>
-												
-							<dd class="release-links"><br>
-								<a class="button visit-website blue" href="../games/?gameid=2778" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Game info', 'Jumpgate Evolution');">
-									<span>Game Info</span>
-								</a>
-								<!--
-								<a class="button visit-website blue" href="../games/?pid=309">
-									<span>More Info</span>
-								</a>
-								-->
-																	<a class="button visit-website blue" rel="external" href="http://www.jumpgateevolution.com/" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Website', 'Jumpgate Evolution');">
-										<span>visit website</span>
-									</a>	
-															</dd>
+								<a href="../games/?gameid=3203" class="cmbutton" onclick="javascript: pageTracker._trackEvent('Button (coming up)', 'Game info', 'Bodycount');" style="width:105px;height:23px;background-image:url('/images/cache/btn-43d23ba93e48b8cab828082ff7306fda.gif');line-height:21px !important;">game info</a>							</dd>
 
 							<dd class="clear "></dd>
 						</dl>
@@ -500,23 +622,23 @@ United Kingdom 									</div>
 									<a href="#" id="linkme" onclick="document.getElementById('bookmarkLink').style.display='block';return false;"><span style="display: none;">Bookmark</span></a>
 									
 									
-									<div id="bookmarkLink">
+									<div id="bookmarkLink" style="visibility: hidden; zoom: 1; opacity: 0;">
 										
 										
 										<div style="width:100px;float:left;">
 											<ul>
 																								<li>
-																										<a href="_inc/rss/corporate_news.php" target="_blank">
+																										<a href="_inc/rss/corporate_news.php" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/feed.gif" alt="Codemasters RSS Feed" title="Codemasters RSS Feed">
 														RSS													</a>
 												</li>
 																								<li>
-																										<a href="http://digg.com/submit?url=http://www.codemasters.com/privacy-policy/" target="_blank">
+																										<a href="http://digg.com/submit?url=http://www.codemasters.com/privacy-policy/" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/digg.png" alt="Digg This" title="Digg This">
 														Digg													</a>
 												</li>
 																								<li>
-																										<a href="http://del.icio.us/post?url=http://www.codemasters.com/privacy-policy/" target="_blank">
+																										<a href="http://del.icio.us/post?url=http://www.codemasters.com/privacy-policy/" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/delicious.png" alt="Bookmark with Delicious" title="Bookmark with Delicious">
 														Del.icio.us													</a>
 												</li>
@@ -526,17 +648,17 @@ United Kingdom 									</div>
 																				<div style="width:100px;margin-left:100px">
 											<ul>
 																								<li>
-																											<a href="http://reddit.com/submit?url=http://www.codemasters.com/privacy-policy/" target="_blank">
+																											<a href="http://reddit.com/submit?url=http://www.codemasters.com/privacy-policy/" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/reddit.gif" alt="Submit to reddit" title="Submit to reddit">
 														Reddit													</a>
 												</li>
 																								<li>
-																											<a href="http://www.facebook.com/sharer.php?u=http://www.codemasters.com/privacy-policy/" target="_blank">
+																											<a href="http://www.facebook.com/sharer.php?u=http://www.codemasters.com/privacy-policy/" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/facebook.gif" alt="Add to your Facebook" title="Add to your Facebook">
 														Facebook													</a>
 												</li>
 																								<li>
-																											<a href="http://www.stumbleupon.com/submit?url=http://www.codemasters.com/privacy-policy/" target="_blank">
+																											<a href="http://www.stumbleupon.com/submit?url=http://www.codemasters.com/privacy-policy/" rel="external" target="_blank">
 																											<img src="../_inc/_css/images/bookmarks/stumbleupon.gif" alt="Add to Stumbleupon" title="Add to Stumbleupon">
 														StumbleUpon													</a>
 												</li>
@@ -551,11 +673,17 @@ United Kingdom 									</div>
 
 
 								<script type="text/javascript">
-								<!--
-
+								// <![CDATA[
 								window.addEvent('domready',function(){
-									var mySlide = new Fx.Style('bookmarkLink','opacity');
-									mySlide.hide();
+									var mySlide;
+									if(Fx.Style)
+									{
+										mySlide = new Fx.Style('bookmarkLink','opacity');
+									}else
+									{
+										mySlide = new Fx.Tween('bookmarkLink', {property:'opacity',duration:300,wait:false});
+									}
+									mySlide.set(0); // hide();
 	
 									$('linkme').addEvent('click',function (e) {
 										e = new Event(e);
@@ -570,14 +698,14 @@ United Kingdom 									</div>
 									});
 								});
 
-								-->
+								// ]]>
 								</script>								<div style="clear:both;text-align:center">
 																		
 									<p class="copyright">
-									©1986-2009 The Codemasters Software Company Limited ("Codemasters"). "Codemasters" ® is a registered trademark owned by Codemasters. All Rights Reserved
+										©1986-2010 The Codemasters Software Company Limited ("Codemasters"). "Codemasters" ® is a registered trademark owned by Codemasters. All Rights Reserved
 									</p>
 								</div>
-
+<!-- Svr: Web03 CaaS Bld: 0.042 sec -->
 
 					</div>
 					<!--/END OF FOOTER-->
@@ -592,6 +720,22 @@ United Kingdom 									</div>
 		</div>
 		<!--/END WRAPPER-->
 
-
+		<!-- Search Auto Complete -->
+	<script type="text/javascript">
+		window.addEvent('domready', function() { 
 	
-</body></html>
+			// Autocompleter
+			var tokens = ["Bella Sara", "Bliss Island", "Bodycount", "Bubble Bobble Revolution", "Clive Barker's Jericho", "Clive Barker's Jericho Special Edition", "Damnation", "Dance Factory", "DiRT™", "DiRT™2", "Dragonology™", "Emergency Mayhem", "F1 2009™", "F1 2010™", "FUEL™", "GRID™", "Heatseeker", "Hospital Tycoon", "Jumpgate Evolution", "Leisure Suit Larry®: Box Office Bust™", "Maelstrom", "New Star Soccer 3", "Operation Flashpoint: Elite", "Operation Flashpoint™: Dragon Rising", "Overlord", "Overlord™ Dark Legend", "Overlord™ Minions", "Overlord™: Raising Hell", "Overlord™II", "Prisoner of War", "Race Driver 2006", "Race Driver™: Create & Race™", "Rafa Nadal Tennis", "Rainbow Island Revolution", "Rise of the Argonauts™", "Second Sight", "Sensible World of Soccer", "Soldiers: Heroes of World War II", "ToCA Race Driver 3", "Turning Point: Fall of Liberty"];
+			new Autocompleter.Local('search_string', tokens, {
+				'minLength': 1, // We need at least 1 character
+				'selectMode': false,
+				'filterSubset': true,
+				'multiple': false, // Tag support, by default comma separated
+				'width' : '200',
+				'autoSubmit' : true
+			});
+		});
+	</script>
+	
+	
+<div id="lbOverlay" style="display: none;"></div><div id="lbCenter" style="display: none;"><div id="lbImage"><div style="position: relative;"><a id="lbPrevLink" href="#"></a><a id="lbNextLink" href="#"></a></div></div></div><div id="lbBottomContainer" style="display: none;"><div id="lbBottom"><a id="lbCloseLink" href="#"></a><div id="lbCaption"></div><div id="lbNumber"></div><div style="clear: both;"></div></div></div><div class="tooltip-community" style="position: absolute; top: 0px; left: 0px;"><div class="tip-top"></div><div class="tip"></div><div class="tip-bottom"></div></div><div id="mb_overlay" style="visibility: hidden; zoom: 1; opacity: 0;"></div><div id="mb_center" style="width: 250px; height: 250px; margin-left: -125px; display: none;"><div id="mb_contents"></div></div><div id="mb_bottom" style="display: none;"><a id="mb_close_link" href="#"></a><div id="mb_caption"></div><div style="clear: both;"></div></div><ul class="autocompleter-choices" style="z-index: 42; visibility: hidden; zoom: 1; opacity: 0;"></ul></body></html>
