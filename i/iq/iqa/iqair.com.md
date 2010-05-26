@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417075858id_/http%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iqair.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526090246id_/http%3A//www.iqair.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | IQAir North America, Inc.
 
