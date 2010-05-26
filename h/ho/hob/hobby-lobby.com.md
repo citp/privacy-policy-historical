@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobby-lobby.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913221341id_/http%3A//www.hobby-lobby.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobby-lobby.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165402id_/http%3A//www.hobby-lobby.com/privacy.htm) for the most accurate reproduction.*
 
 # Hobby-Lobby's Privacy Policy
 
