@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805184655id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickatell.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526092049id_/http%3A//www.clickatell.com/company/privacy.php) for the most accurate reproduction.*
 
 # About | Privacy Policy | Clickatell
 
@@ -16,7 +16,15 @@ This policy addresses our practices with respect to our website, but does not ad
 
 How We Use Information collected
 
-We use information which you provide us to keep track of the Clickatell services you have signed up to receive. We may also use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content and layout. We do this in an attempt to improve our site and better tailor it to meet our users' needs. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions. We use your email address to contact you regarding administrative notices or latest news from time to time. In such cases you can opt out of future mailers by editing your preferences within your Clickatell account. This information is included at the bottom of these outgoing emails. We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Terms and Conditions.
+We use information which you provide us to keep track of the Clickatell services you have signed up to receive. We may also use personally identifiable information about you to improve our marketing and promotional efforts, to statistically analyse site usage, to improve our content and product offerings and to customise our site's content and layout. We do this in an attempt to improve our site and better tailor it to meet our users' needs. We may also use personally identifiable information about you to deliver information to you that, in some cases, is targeted to your interests, such as targeted banners and promotions. We use your email address to contact you regarding administrative notices or latest news from time to time. 
+
+We use personally identifiable information that you have provided to us, including your email address and mobile number, to contact you via SMS or email with administrative notices, news or promotions from time to time. 
+
+On the other hand, upon account registration, you are by default, opted-out of receiving a weekly account balance update newsletter and you will not receive this communication until you select to opt-in on the registration form. You may also opt-in or unsubscribe from receiving this weekly Balance Update newsletter at any time by logging into your account and enabling or disabling this newsletter feature in your account preferences. 
+
+On the other hand, upon registration, you are by default, opted-in to receiving occasional promotional emails and SMS', usually once every week or two. You will continue to receive these promotional communications for as long as your are an active customer of Clickatell, until you select to unsubscribe from them by clicking on the "unsubscribe" link at the bottom of the promotional emails or by replying "STOP" to the SMS'.
+
+We use information in the file we maintain about you, and other information we obtain from your current and past activities on the site, to resolve disputes, troubleshoot problems and enforce our Terms and Conditions.
 
 Protection of Database Information
 
@@ -38,7 +46,7 @@ We use third-party advertising technology to serve ads when you visit our websit
 
 Email Advertising 
 
-We share web site usage information about visitors to our web site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third-party advertising company, please [click here](http://www.epsilon.com/international/privacy.html).
+We share web site usage information about visitors to our web site, who have received a targeted promotional campaign, with a reputable third-party advertising company for the purpose of targeting future campaigns and upgrading visitor information used in reporting statistics. For this purpose, we and our third-party advertising company note some of the pages you visit on our web site through the use of pixel tags (also called clear gifs). For more information about our third-party advertising company, please [click here](http://www.epsilon.com/international/solutions-technology_a.html).
 
 Our Commitment to Children's Privacy
 
