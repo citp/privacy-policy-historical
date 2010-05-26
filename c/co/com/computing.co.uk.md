@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923233718id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the computing.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171455id_/http%3A//www.computing.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Computing
 
