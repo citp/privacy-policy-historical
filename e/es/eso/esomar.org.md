@@ -1,59 +1,50 @@
-> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607021255id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esomar.org privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020547id_/http%3A//www.esomar.org/index.php/privacy-policy.html) for the most accurate reproduction.*
 
 # ESOMAR - Privacy Policy
 
-This is the Privacy Policy of ESOMAR B.V. and The Society of ESOMAR (“ESOMAR”).
+**This is the Privacy Policy of ESOMAR B.V. and The Society of ESOMAR (“ESOMAR”).**
 
-ESOMAR complies with the Personal Data Protection Act of the Netherlands, which is based on the EU Data Protection directive.
+**ESOMAR, as Controller, complies with the Personal Data Protection Act of the Netherlands, which is based on the EU Data Protection directive.**
 
-### What is Personal Data?
+## What is Personal Data?
 
 Personal data is the information that identifies you, such as your name, address, email or postal address.
 
-### What is it used for?
+## What is it used for?
 
-ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication. We will also use your personal data to inform you about activities, products and services of ESOMAR, unless you have notified ESOMAR that you do not to wish to receive such information (opt out).
+ESOMAR collects and processes personal data of members and customers. ESOMAR is convinced that a privacy policy is of utmost importance.
 
-### As a customer of ESOMAR:
+ESOMAR respects the personal data of members and customers and does not sell, rent, loan, trade or otherwise transfer any personal data to any third party unless this is necessary to deliver ESOMAR’s products and services.
 
-  * use your personal data to complete transactions with you as a customer
-  * use your personal data to inform you about ESOMAR's activities, products and services by mail, fax or email, unless you have requested otherwise in writing 
-  * provide those personal data that are necessary to deliver ESOMAR's products and services to authorised third parties who undertake to respect ESOMAR's privacy policy. 
+ESOMAR does not request personal data from you, other than to process a transaction or application for ESOMAR membership and/or company listing in the ESOMAR Directory, a registration for an ESOMAR event, or an order for an ESOMAR publication, such as the online Directory of members* or for analytical research.
 
+ESOMAR will also use your personal data to inform you about activities, products and services of ESOMAR and relevant third parties, unless you have notified ESOMAR that you do not to wish to receive such information.
 
+*Only Members are entitled to access the Directory of Members.
 
-### As an ESOMAR Member:
+## The use of e-mail
 
-By providing your personal data to apply for or renew your ESOMAR membership and/or company listing in the ESOMAR Directory, you expressly authorise ESOMAR to:
+ESOMAR will only use the e-mail address of member and customers, outside the scope of membership or a transaction, for the purpose where a member and/or customer has given opt-in. ESOMAR will always provide you in every e-mail, where relevant, with an unsubscribe link.
 
-  * use your personal data to register you and complete transactions with you as an ESOMAR Member
-  * use your personal data to inform you about ESOMAR's activities, products and services by mail, fax or email, unless you have requested otherwise in writing
-  * provide the necessary personal data to authorised third parties who undertake to abide by ESOMAR's privacy policy in order to deliver ESOMAR's products and services
+Receiving information by e-mail, means that you receive the latest information and updates that can have an effect on your day-by-day operation.
 
+If any customer or members’ personal data, or information provided in the ESOMAR Member Directory or the Directory of Research Organisations is incorrect or out-of-date, please contact us in writing (or email with the necessary changes): [customerservice@esomar.org](mailto:customerservice@esomar.org)
 
-  * include your name and contact details provided for the printed and online Directory of Members*, unless you have requested otherwise in writing
-  * where requested, include your company's contact details provided for the online Directory of Research Organisations which is also available on the ESOMAR website
+## The Directory of ESOMAR Members
 
+The Directory of ESOMAR Members may not be used for mailings, electronic or otherwise for direct marketing purposes. Unsolicited commercial email for sales or promotional purposes is spam and is illegal in many countries. ESOMAR recognises the importance of data privacy regulations and reminds members that they are responsible for any misuse of the Directory within their organisation or by third parties contracted to provide their organisation with services.
 
+Members should not send unsolicited email to other members unless it is for a specific purpose relating to that member eg to ask for a bid for a project.
 
-ESOMAR Members must comply with the ESOMAR Internet Privacy Policies and Privacy Statements.
+ESOMAR reserves the right to withdraw membership services from those who misuse the Directory. ESOMAR reserves also the right of seed-addresses to monitor the use of the Directory in accordance with this policy.
 
-If any customer or members’ personal data, or information provided in the ESOMAR Member Directory or the Directory of Research Organisations is incorrect or out-of-date, please contact us in writing (or email with the necessary changes.)  
- [customerservice@esomar.org](mailto:customerservice@esomar.org)
-
-*Only Members are entitled to receive the Directory of Members.
-
-### The Directory of ESOMAR Members
-
-The Directory of ESOMAR Members may not be used for mailings, electronic or otherwise for direct marketing purposes. Unsolicited commercial email for sales or promotional purposes is spam and is illegal in many countries. ESOMAR recognises the importance of data privacy regulations and reminds members that they are responsible for any misuse of the Directory within their organisation or by third parties contracted to provide their organisation with services. Members should not send unsolicited email to other members unless it is for a specific purpose relating to that member eg to ask for a bid for a project. ESOMAR reserves the right to withdraw membership services from those who misuse the Directory.
-
-### Links to Other Websites
+## Links to Other Websites
 
 This privacy policy only applies to www.esomar.org. This privacy policy does not extend to third party websites.
 
-### How to opt out?
+## How to opt out?
 
-If you do not wish to receive any mails, faxes or emails about ESOMAR's activities, products and/or services, you should inform us in writing by mail, fax or email at the following address:
+If you do not wish to receive information about ESOMAR's activities, products and/or services or offers of other relevant third parties, please inform us through our [online form](http://visitor.constantcontact.com/manage/optin/ea?v=001_D6q8SmIH1obPhVvmZLuKw==) or by mail or email at the following address:
 
 ESOMAR  
 Eurocenter 2, 11th floor  
@@ -62,20 +53,34 @@ Barbara Strozzilaan 384
 The Netherlands  
 Tel: +31 20 664 2141  
 Fax: +31 20 664 2922  
-Email:   [customerservice@esomar.org](mailto:customerservice@esomar.org)
+Email: [customerservice@esomar.org](mailto:customerservice@esomar.org)
 
-### Updating your Personal / Company Information?
+## Updating your Personal / Company Information?
 
-If any personal data, or information provided in the ESOMAR Directory of Members or the Directory of Research Organisations is incorrect or out-of-date, please email the necessary changes to   
-[customerservice@esomar.org](mailto:customerservice@esomar.org)
+If any personal data, or information provided in the ESOMAR Directory of Members or the Directory of Research Organisations is incorrect or out-of-date, please email the necessary changes to: [customerservice@esomar.org](mailto:customerservice@esomar.org)
 
-If you have any questions about ESOMAR’s Privacy Policy, please contact   
-[k.joe@esomar.org](mailto:k.joe@esomar.org)
+If you have any questions about ESOMAR’s Privacy Policy, please contact: [k.joe@esomar.org](mailto:k.joe@esomar.org)
 
-### Applicable Law
+## Use of cookies
+
+A cookie is a small amount of data that is sent to your computer browser from a website's computer and is stored on your computer, if your browser’s preferences allow it. Each website can send its own cookie to your browser but (to protect your privacy) your browser only permits a website to access its own cookies, not the cookies sent to you by other sites.
+
+You have the opportunity to set your device to accept all cookies, to notify you when a cookie is issued, or not to receive cookies at any time. Information supplied by cookies can help ESOMAR to analyse the profile of our visitors and help us to provide you with a better user experience.
+
+ESOMAR uses cookies to:
+
+  * track online traffic flow (through Google Analytics and Google AdManager)
+  * enable login to the different sessions (My ESOMAR/Directory /Career network)
+  * personalize the information in online forms
+
+
+
+## Applicable Law
 
 This privacy policy is governed by and construed in accordance with the law of the Netherlands. All disputes arising out of or in connection with this privacy policy must be dealt with under the jurisdiction of the courts of the Netherlands.
 
-### Amendments
+## Amendments
 
-ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction. 
+ESOMAR reserves the right to change any of the terms of this privacy policy at any time and without notice. ESOMAR therefore recommends that you review this privacy policy from time to time, or before making a transaction.
+
+Amsterdam, 10 September 2009
