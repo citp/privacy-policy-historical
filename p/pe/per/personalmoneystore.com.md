@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2009-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090719025554id_/http%3A//personalmoneystore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalmoneystore.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526035903id_/http%3A//personalmoneystore.com/privacy-policy) for the most accurate reproduction.*
 
 # Personal Money Store Privacy Policy
 
@@ -10,23 +10,25 @@ Please be aware that we will be free to use any and all information that you sub
 
 We collect all the information you provide to us while on our Website. This includes your name, date of birth, telephone number(s), home address, Email address, Social Security number, employment information, income information, bank account information, personal references, and any other information that you provide to us. We also collect IP addresses, type of Web browser and operating system, type of computer used, and Web page http headers along with information, and all other information relating to the pages our visitors’ access.
 
-This site is not intended for you to submit an application in order to receive information on loan related products. You must submit the required information to be considered by one of our affiliated third party loan providers. Even if you do not complete the full registration process, any personally identifiable information submitted may also be collected for our use.
+This site is intended for you to submit an application in order to receive an immediate loan decision and also to obtain information on loan related products. You must submit the required information to be considered by one of the third party loan providers. Even if you do not complete the full registration process, any personally identifiable information submitted may also be collected for our use.
 
 ## HOW WE USE COLLECTED INFORMATION:
 
-The information we collect is used to help us determine which [no fax payday loan](http://personalmoneystore.com/Payday-Loans/No-Fax-Payday-Loans/ "Get a Faxless Payday Loan From Personal Money Store") product may be of interest to you. Your personal, demographic and profile information may be used to help improve our Website, for marketing, editorial, promotional, statistical analysis, and feedback purposes. Any information collected may be added to our databases for the purposes of sending upcoming postal mailings, emails, SMS text-messaging, telemarketing new product information, new service information, site updates and/or status of online orders.
+The information we collect is used to help us determine which loan product may be of interest to you. Your personal, demographic and profile information may be used to help improve our Website, for marketing, editorial, promotional, statistical analysis, and feedback purposes. Any information collected may be added to our databases for the purposes of sending upcoming postal mailings, emails, SMS text-messaging, telemarketing new product information, new service information, site updates and/or status of online orders. Currently we **do not** utilize these methods of communication with applicants but reserve the right to do so in the future.
 
-Through your use and submission of information on our Website, you agree that even if your number is found on a do-not-call registry, or similar registry, you may be contacted in any manner contemplated in this section. We reserve the right to share, sell or otherwise disclose your information to third parties.
+Through your use and submission of information on our Website, you agree that even if your number is found on a do-not-call registry, or similar registry, you may be contacted in any manner contemplated in this section. We reserve the right to share, sell or otherwise disclose your information to third parties. If you utilize our opt out procedures we pass that information on to all third party loan providers that receive your application data for loan eligibility determination.
 
-By providing your personal information, you agree that it may be used for the following purposes: to obtain other information about you from third-parties when the information was improperly or incompletely filled out on our registration form; sharing of your information with trusted third parties such as [credit](http://personalmoneystore.com/credit-cards/ "Free Information on Credit Cards") bureaus, Affiliated loan Providers and/or other financial services providers in accordance with applicable law; considering you for a Web site account; and for other marketing products and services that we determine you might find of interest.
+By providing your personal information, you agree that it may be used for the following purposes: to obtain other information about you from third-parties when the information was improperly or incompletely filled out on our registration form; sharing of your information with trusted third parties such as credit bureaus, affiliated loan providers and/or other financial services providers in accordance with applicable law; considering you for a web site account; and for other marketing products and services that we determine you might find of interest.
 
 We may employ other companies and individuals to perform certain functions on our behalf. These companies and individuals have access to our users’ personal information in order to perform their functions for Personal Money Store, but they are not permitted to use our users’ personal information for other purposes. Examples when other companies or individuals may use our users’ personal information may include sending direct mail and email, SMS text-messaging, telemarketing, analyzing data, removing duplicate information from customer lists and providing marketing analysis.
 
-Any and all sensitive Information that we collect from you and from third-parties as part of your [cash advance loan](http://personalmoneystore.com/Cash-Advance/Cash-Advance-Loans/ "Apply for a Cash Advance Loan Now!") application, will be used to determine your eligibility for a no fax [payday loan](http://personalmoneystore.com/payday-loans/payday-loan/ "Get a Payday Loan from Personal Money Store"), should you qualify. If you provide personally identifying information, such as your Social Security number, that information may be used to determine your financial status. Upon qualifying for a no [fax payday loan](http://personalmoneystore.com/payday-loans/no-fax-loans/fax-payday-loan/We%20are%20your%20place%20for%20a%20no%20fax%20payday%20loan! "fax payday loan"), your [cash advance](http://personalmoneystore.com/Cash-Advance/ "What is a Cash Advance by Personal Money Store") loan-specific financial information will be stored and utilized in accordance with the terms of your applicable lender’s Privacy Policy.
+Any and all sensitive Information that we collect from you and from third-parties as part of your loan application, will be used to determine your eligibility for a loan, should you qualify. If you provide personally identifying information, such as your Social Security number, that information may be used to determine your financial status. Upon qualifying for a loan, your loan-specific financial information will be stored and utilized in accordance with the terms of your applicable lender’s Privacy Policy.
 
 If we believe that the service and/or Website is being or has been used in violation of the Website’s Terms and Conditions, or to commit unlawful acts, we reserve the right to release current or past user information under the following circumstances: if the information is subpoenaed; if we are sold or acquired; or when we consider it necessary or appropriate. Furthermore, by agreeing to these conditions, you hereby consent to disclosure of any record or communication to any third party when we, in our sole discretion, determine the disclosure to be appropriate. This includes, without limitation, sharing your email address with other third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time, and Federal Trade Commission enabling regulations.
 
-Submission of information through your use of our Website means that you agree to receive mobile marketing, including but not limited to text-message based marketing, from us and from our third party advertisers and marketers. Even though your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right, and you agree that we may contact you via text message based marketing and in accordance with applicable state and federal law. Additionally, your registration and/or use of our Website, amounts to your acknowledgement that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “TSR”). If your telephone number is listed at the Federal Trade Commission’s Do-Not-Call List, we retain the right and you consent to allow us to contact you via telemarketing, in accordance with the TSR.
+Click here for information on [filing complaints against financial industry companies](http://personalmoneystore.com/moneyblog/file-complaint/ "File complaint against a lender").
+
+Submission of information through your use of our Website means that you agree to receive mobile marketing, including but not limited to text-message based marketing, from us and from our third party advertisers and marketers. Although we do not utilize this currently we retain the right to do so in the future. Even though your mobile telephone number may be listed on state and/or federal do-not-call registries, we retain the right, and you agree that we may contact you via text message based marketing and in accordance with applicable state and federal law. Additionally, your registration and/or use of our Website, amounts to your acknowledgment that such act constitutes an inquiry and/or application for purposes of the Amended Telemarketing Sales Rule (16 CFR §310 et seq.), as amended from time to time (the “TSR”). If your telephone number is listed at the Federal Trade Commission’s Do-Not-Call List, we retain the right and you consent to allow us to contact you via telemarketing, in accordance with the TSR.
 
 ## HOW WE SAFEGUARD YOUR INFORMATION:
 
@@ -40,7 +42,7 @@ After completing the application page you will automatically be redirected to an
 
 If you want to opt-out from receiving communications from us and/or our third-party partners, please do not submit any of your information to us. When you submit personally identifiable information while visiting our Website, you have automatically opted-in, meaning that you are requesting that we share your personal information with third parties. However, when you receive marketing communications or are otherwise contacted by these third parties, you should directly notify them how you would like you information used and shared by them.
 
-You may opt-out of any additional email communications regarding our Website by sending your request in writing via email.
+You may opt-out of any additional email communications regarding our Website by sending your request in writing via email or clicking the unsubscribe button. Again, currently we do not use these forms of communications. If a third party is violating our privacy policy or your rights be sure to file a complaint immediately.
 
 ## OUR PROTECTION OF THE PRIVACY OF MINORS:
 
@@ -52,24 +54,18 @@ Our Website pages and/or emails may contain electronic images known as “pixel 
 
 We may use also use “cookies” to help customize your access to our Website. A cookie contains information about you and is stored on your hard drive. We may use cookies to anonymously track and target our users’ interests and to further enhance the experience on our Website. Cookies may also be used for advertising tracking purposes.
 
-OUR RIGHT TO CHANGE OUR POLICY WITHOUT PRIOR NOTIFICATION:
+### OUR RIGHT TO CHANGE OUR POLICY WITHOUT PRIOR NOTIFICATION:
 
 We reserve the right to change our policy at any time and without prior notice to you. Your continued use of our Website, or acceptance of our emails following the posting of changes to this Policy, will mean that you accept any and all such changes and that you agree to continue receiving marketing from us and other third party companies. We reserve the right to contact you regarding your account status and changes to subscriber agreements, Privacy Policy, or any other policies or agreements relevant to you.
 
 ## CONTACT US:
 
-Should you have any questions about our Privacy Policy, your or you have any additional questions or concerns, please email us at customerservice@personalmoneystore.com.
+Should you have any questions about our Privacy Policy, your or you have any additional questions or concerns, please email us at Customer Support.
 
-## OUR ISP INFORMATION:
+## Personal Money Store
 
-Company Name and Web site: TO BE REMOVED FROM OUR LIST, email us at customerservice@personalmoneystore.com.
+Click to Email: [Customer Support](http://tinyurl.com/Email-Customer-Support "Click To Send Us Your Message")
 
-## DISCLAIMER:
+PO Box 710
 
-THE OPERATOR OF THIS WEBSITE IS NOT A LENDER and does not make [cash advances](http://personalmoneystore.com/Cash-Advance/ "What are Cash Advances by Personal Money Store") or credit decisions. This site is intended only to match you with the best cash advance lender based on your application. The operator of this Website is not an agent or representative of any service provider and does not endorse any service or product. Cash transfer times may vary between lenders and in some circumstances faxing may be required. Completion of this application in no way guarantees that you will be approved for a cash advance offer. Typically there are no credit checks, however be sure to ask your individual lender.
-
-*Typically lenders will not perform credit checks with the three credit reporting bureaus: Experian, Equifax, or Trans Union. Credit checks or consumer reports through alternative providers may be obtained by some lenders. Typically, these reports will not affect your [credit score](http://personalmoneystore.com/moneyblog/what-is-credit-repair/ "Free Information on Credit Repair").
-
-**Important Notice:** [Cash advance loans](http://personalmoneystore.com/Cash-Advance/Cash-Advance-Loans/ "Apply for a Cash Advance Loan Now!") should be used for short-term financial needs only, not as a long-term financial solution. Customers with credit difficulties should seek credit counseling.
-
-* * *
+Spokane, WA, 99201-0710 United States
