@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotfreelist.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003124138id_/http%3A//www.hotfreelist.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotfreelist.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164138id_/http%3A//www.hotfreelist.com/privacy.php) for the most accurate reproduction.*
 
 # Hot Free List - Privacy Policy
 
