@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213172843id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gets.cn privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172435id_/http%3A//www.gets.cn/Privacy_Policy.php) for the most accurate reproduction.*
 
 # Privacy Policy and Guarantee
 
