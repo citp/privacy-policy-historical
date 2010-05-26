@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025174014id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thatsmelbourne.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165303id_/http%3A//www.thatsmelbourne.com.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# That's Melbourne - Privacy
+# that's melbourne - Privacy
 
 The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
@@ -10,7 +10,7 @@ The City of Melbourne operates this website under the domain name [www.thatsmelb
 Anonymous access to website
 
   
-You can access the That’s Melbourne City home page and browse the website anonymously, without disclosing your personal information.
+You can access the that’s melbourne home page and browse the website anonymously, without disclosing your personal information.
 
 ####   
 Collection and use of personal information
@@ -93,7 +93,7 @@ Please contact the Council’s Information Privacy Officer on 9658 9173 if you h
   
 To view Council’s Privacy Policy statement, please click on either of the links below:
 
-[City of Melbourne’s Privacy Policy Statement](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.pdf)
+[**City of Melbourne’s Privacy Policy Statement** (PDF 124KB)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.pdf) ****
 
-[City of Melbourne’s Privacy Policy Statement](http://www.melbourne.vic.gov.au/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.DOC)  
+[**City of Melbourne’s Privacy Policy Statement** (Word 84)](http://www.melbourne.vic.gov.au/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.DOC)  
 
