@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the curvesinformation.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230181705id_/http%3A//www.curvesinformation.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the curvesinformation.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526133255id_/http%3A//www.curvesinformation.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>Curves Information  - Privacy Policy</title>
@@ -9,6 +9,7 @@
 <link rel="browser sniffer" type="image/x-icon" href="/favicon.ico">
 <script language="Javascript" type="text/javascript" src="/includes/swfobject.js"></script>
 <script language="JavaScript" type="text/javascript" src="/common_scripts/formValidator.js"></script>
+<script language="JavaScript" type="text/javascript" src="/includes/mbox.js"></script><style>.mboxDefault { visibility:hidden; }</style>
 <script language="JavaScript" type="text/javascript">
 //<!-- Little script to make sure when user hits enter that the form is submitted
 function send(myfield, event, do_this) {
@@ -148,6 +149,12 @@ function set_contact_preferences()
 		}else{
 			var optin = '0';
 		}
+
+		if ($('#st_profile_yes').attr('checked')){
+			var st_profile = '1';
+		}else{
+			var st_profile = '0';
+		}		
 		
 		if ($('#ismember_current').attr('checked')){
 			var status = 'current';
@@ -164,7 +171,7 @@ function set_contact_preferences()
 				{
 					type: "POST",
 					url: "/personal-touch/save_contact_preferences.php",
-					data: "optin=" + optin + "&status=" + status + "&address=" + address + "&city=" + city,
+					data: "optin=" + optin + "&st_profile=" + st_profile + "&status=" + status + "&address=" + address + "&city=" + city,
 					async: false,
 					success: function(data) 
 					{
