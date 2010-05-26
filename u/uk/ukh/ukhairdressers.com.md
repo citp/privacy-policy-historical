@@ -1,6 +1,13 @@
-> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616152810id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukhairdressers.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172229id_/http%3A//www.ukhairdressers.com/store/privacy.asp) for the most accurate reproduction.*
 
 # UKhairdressers Online Store - Privacy Statement
+
+  | 
+
+_Privacy Statement_
+
+We care about your on-line experience and your privacy.   
+To protect your privacy, Ukhairdressers.com has instituted policies that give you information and control.
 
 **UKhairdressers.com will never give, lease or sell your personal information. Period!**
 
@@ -24,3 +31,23 @@ We contact you via email only for the following purposes:
 • Order confirmation and delivery notice   
 • Other order-related issues, if any  
 • Answer to your enquiry
+
+If you have any questions about this privacy statement, our online practices, or your dealings with our Web site, you can contact us using the contact details below or email [admin@ukhairdressers.com](mailto:admin@ukhairdressers.com)
+
+**Reg. Office:** UKHairdressers.com  
+Webwise House, Pontins  
+Shore Road  
+Ainsdale  
+Southport  
+Merseyside  
+United Kingdom  
+PR8 2PZ  
+Tel. 01704 577111   
+Fax.01704 577563   
+Co. Reg. No. 3919803  
+**E-mail Address:** [admin@ukhairdressers.com](mailto:admin@ukhairdressers.com)   
+Registered Company No. 3919807   
+  
+Copyright © 2010 ukhairdressers.com All rights Reserved  
+  
+---|---
