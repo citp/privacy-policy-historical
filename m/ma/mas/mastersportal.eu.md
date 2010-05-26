@@ -1,10 +1,16 @@
-> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215010850id_/http%3A//www.mastersportal.eu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mastersportal.eu privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526115552id_/http%3A//www.mastersportal.eu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement - MastersPortal.eu
 
+## [Why Europe?](http://www.mastersportal.eu/students/why-europe/)
+
+Why would you study your Master's abroad? Why in Europe, and, why not? Globalisation is ongoing, the world is your backyard. A new world of study options becomes available!
+
+[Read the article](http://www.mastersportal.eu/students/why-europe/)
+
 StudyPortals, publisher of MastersPortal.eu values the privacy of our members and users. This privacy policy sets out how StudyPortals uses and protects any information that you give when you use this website. 
 
-StudyPOrtals is committed to ensuring that your privacy is protected. Any information you provide by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
+StudyPortals is committed to ensuring that your privacy is protected. Any information you provide by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
 
 ## Navigation Tracking
 
