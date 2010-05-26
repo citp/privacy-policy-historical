@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524074746id_/http%3A//www.spotlight.com/aboutus/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526120333id_/http%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
 
-# Spotlight
+# Spotlight - professional acting jobs and auditions since 1927
 
 Spotlight is committed to protecting the privacy of users of this website. This Privacy Policy sets out the type of information that we collect, what it is used for and the rights you have in relation to this information. By using this website you accept the terms of this Privacy Policy.
 
@@ -8,7 +8,7 @@ This Privacy Policy applies to all users of this website as such – but does no
 
 ## Definitions
 
-“You” means the user of the Site, “We/us” means Spotlight, “website” or “Site” means the sites located at [www.spotlight.com](http://www.spotlight.com/) and [www.spotlightagent.info](http://www.spotlightagent.info/) on the World Wide Web, “Content” means the information and other material available within the Site. 
+“You” means the user of the Site, “We/us” means Spotlight, “website” or “Site” means the sites located at [www.spotlight.com](http://www.spotlight.com/) and [www.spotlightagent.info](http://www.spotlightagent.info/) on the World Wide Web, “Content” means the information and other material available within the Site.
 
 ## Collection and Use of Personal Information
 
@@ -45,11 +45,13 @@ If you have provided us with Customer Information, it is your responsibility to 
 
 ## Cookies
 
-A cookie is a piece of information that is stored on your computer’s hard drive by your web browser. 
+A cookie is a piece of information that is stored on your computer’s hard drive by your web browser.
 
 When you use this website for the first time a cookie will be stored on your hard drive. The next time you visit the website (using the same computer) our server will recognise the cookie, giving us information about your last visit. This will enable you to access the website immediately without first having to provide a password, and for us to tailor the website to suit your tastes, interests or business needs. If you do not want a cookie to be stored on your hard drive you should select the appropriate options on your web browser.
 
-If you are a subscriber to Spotlight Interactive, cookies are vital to your usage of our Internet services. We use these to identify subscribers and remember their web preferences. If you choose to disable cookies you will not be able to use Spotlight Interactive. 
+If you are a subscriber to Spotlight Interactive, cookies are vital to your usage of our Internet services. We use these to identify subscribers and remember their web preferences. If you choose to disable cookies you will not be able to use Spotlight Interactive.
+
+Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit [Google's Advertising and Privacy information pages](http://www.google.co.uk/privacy_ads.html "Google's Advertising and Privacy information pages").
 
 ## Queries and Requests
 
