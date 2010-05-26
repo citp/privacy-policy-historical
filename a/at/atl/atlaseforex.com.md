@@ -1,29 +1,68 @@
-> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205195755id_/http%3A//www.atlaseforex.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlaseforex.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526131552id_/http%3A//www.atlaseforex.com/Licenses-and-documents/Privacy-policy.aspx) for the most accurate reproduction.*
 
-# ATLAS eForex - Privacy Policy
+# Privacy policy — Licenses and documents — Atlas eForex
 
-AtlasCapital Financial Services Ltd. (“the Company”) reserves the right to make amendments to the present Privacy Policy. This may occur in cases that are not described, whether directly or indirectly in this Privacy Policy, or if a rule of law is enacted which requires an amendment or an addition. We kindly request that you read the following information carefully.
+All material on the Atlaseforex.com website (“Atlas eForex”) is owned by AtlasCapital Financial Services Limited (“ACFS”). ACFS is a Cypriot Investment Firm (“CIF”) regulated and supervised by the Cyprus Securities and Exchange Commission (“CySEC”) and operates with licence number CIF 085/07.
 
-**1\. General Provisions**
+ACFS would like to inform you that your privacy on the internet is of crucial importance to us. The success of our business depends on our ability to maintain the trust of our clients. During the course of our business, we gather information about our users, and we would like to inform you about the type of information we gather, what we do with it and how you can correct or modify the information you entrust us with. Please note that this policy only applies to websites operated by ACFS and not to other organizations or person to which we refer to on such websites through banners or links.
 
-The present Privacy Policy declares that privacy is one of the most important principles that the Company shall follow when providing services to its Clients. The Company respects the right of every individual and legal entity to privacy whether they are Clients of the Company or not, and whether they only intend to interact with the Company. The Privacy Policy applies to all Clients equally whether they are former, present or future Clients of the Company. The Company maintains loyalty and respect for every Client individually, and grants every Client security and confidentiality.
+  
 
-**2\. Definitions**
 
-“Privacy” is a legal right of an individual or legal entity for non-disclosure of private or personal information or of information which is commercially classified or which is protected by legal privilege. The Company shall safeguard and ensure non-disclosure of Client information. “Personal Information” is information which characterises, identifies or verifies the Client or discloses certain details of his/her personality, financial conditions and their preferences. “Privacy Policy” is a set of complex measures, procedures and actions taken by the Company to ensure collection of full and accurate information about the Client, and the safeguarding of this information as well as the exchange of information with governmental or regulatory bodies in accordance with the existing legislation.
+## Information collected
 
-**3\. Security**
+When you sign up for a demo or live account with Atlas eForex , the following information about you (“Your Data”) will be collected and stored for administrative, service related and/or legal purposes:
 
-The Company uses Secure Socket Layer (SSL) encryption technology in order to protect the information of its Clients. This technology protects the Client from having his/her information intercepted by a third party when it is transmitted. The Company ensures that its Web Servers are secure and that they meet the latest industrial and technological standards. The Company also uses other safeguards such as password authentication and firewalls to control unauthorised access to its systems. The Company reserves the right to choose technologies and methods of data protection at its own discretion and may contract with third parties in order to provide additional safeguards.
+  * Personal information, such as names, addresses, personal registration number and e-mail addresses etc (“Personal Information”)., and
+  * Financial information (“Financial Information”) for credit assessment.
+  * Website traffic pattern information and IP addresses.
 
-**4\. Sharing Information with Third Parties**
+  
 
-The Company shall not disclose the Client’s personal information to third parties except as permitted in this Privacy Policy. Third party disclosure may include the sharing of information with non-Affiliated Partners of the Company that provide legal, accounting or other professional services to the Company. These non-Affiliated Partners are required by law to have in place a system to maintain the confidentiality of such information to the extent that they receive it, and use such information only in the course of providing such services, and only for the purposes that the Company dictates. The Company may disclose the Client’s personal information to third parties in order to fulfill the Client’s instructions or pursuant to the Client’s express consent.
 
-**5\. Mandatory Regulatory Disclosure**
+## Use of cookies
 
-Under certain circumstances, the Company may disclose the Client’s personal information to third parties in order to comply with the applicable laws and regulations. The Company may also disclose personal information in order to cooperate with regulatory authorities and law enforcement agencies.
+Atlas eForex uses cookies to collect information. A cookie is a small data file that a website stores on your computer’s hard disk for the purpose of keeping records when you visit the website. Cookies allow us to improve your comfort of use, for example by remembering your passwords and viewing preferences, thus allowing you to visit various “member-only” parts of the website without re-registering. Furthermore, cookies are used by us to measure activity on the website and make improvements and updates based on which areas are popular and which are not.
 
-**6\. Refusal to Supply Information to the Company**
+We do not use cookies to retrieve information which was not originally sent in a cookie. We do not use information transferred through cookies for any direct promotional or marketing purposes without your consent.
 
-The Client may refuse to provide certain personal information that the Company has requested. However failure to do so may result in the Company being unable to provide services to the Client.
+  
+
+
+## Use of information collected by ACFS
+
+Atlas eForex uses both the personal and aggregated information that we collect for multiple purposes. The information is used:
+
+  * To improve the content of the website
+  * To customise the content and/or the layout of the website for each individual user
+  * To notify users about updates to the website
+  * To send out newsletters or information about other opportunities that we believe will be of interest to you. We will only send this to you if you have indicated that you wish to receive such information and we will respect your wish not to do so if you communicate such wish to us.
+
+
+
+Personal Information is collected when our users provide personal information to us upon registering for membership or when applying on-line for an account. We will limit the collection of Personal Information to what is necessary to administer our business in an effort to provide you with superior service.
+
+Traffic pattern information includes information on which web pages our users access or visit, and how many users log into our websites on a daily basis. This kind of information is only used in its aggregated form, which means that the individual user will not be recognizable.
+
+We may also use the information we gather to inform you of new products or services available or under consideration, technical issues, customer satisfaction surveys or account updates and related purposes. 
+
+Your e-mail address may be used by the ACFS in relation to its products and services (including any marketing campaigns related to these products or services). If you do not wish to receive such marketing material please send an email stating so to [Marketing@ATLASeForex.com](mailto:Marketing@ATLASeForex.com)
+
+  
+
+
+## Disclosure of personal data
+
+The ACFS ’s employees, directors, officers and/or representatives are obliged by law to treat your data as confidential and may not pass on or use any of your data without valid legal grounds.
+
+Any of your data benefits from this full protection and will only be disclosed to third parties such as administrative or judicial authorities if the ACFS is compelled to do so pursuant to the applicable law, or if you have given your written consent to such disclosure. You may revoke such consent or modify its extent at any time.
+
+Without prejudice to the above, the ACFS can disclose the following information: 
+
+  * General customer data, such as name, address and personal registration number, to companies carrying out administrative tasks for ACFS.
+  * General customer data about corporate customers to financial institutions subject to professional secrecy, for the purpose of marketing and advisory services.
+  * If the data we hold about you proves inaccurate or outdated, we will correct it upon your request.
+
+
+
+If you have any other question or concern, please contact us by email at [Support@ATLASeForex.com](mailto:Support@ATLASeForex.com) or call us on +357 25501055.
