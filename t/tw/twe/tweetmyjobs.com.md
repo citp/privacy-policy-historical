@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2009-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090406085213id_/http%3A//www.tweetmyjobs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetmyjobs.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526173203id_/http%3A//tweetmyjobs.com/privacy) for the most accurate reproduction.*
 
-# TweetMyJobs!
+# TweetMyJobs
 
 TweetMyJOBS Privacy Policy
 
@@ -21,6 +21,8 @@ Our primary goals in collecting personally identifiable information are to provi
 **Information Collected Upon Registration**. If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to TweetMyJOBS. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, Twitter username and password, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.
 
 **Additional Information** Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new opportunities in the TweetMyJOBS system. If you contact us by email through the Site, we may keep a record of your contact information and correspondence, and may use your email address, and any information that you provide to us in your message, to respond to you.
+
+Information you post in public areas of the site or placed in the searchable Resume database will be accessed, used, and stored by others around the world. We strive to provide a safe, secure environment by attempting to limit access to our database to legitimate users, but cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information downloaded from the database, so you should ensure that you do not post sensitive information to TweetMyJOBS.
 
 **Use of Contact Information** In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications.
 
