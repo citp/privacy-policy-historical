@@ -1,617 +1,61 @@
-<!--The following is the downloaded HTML source of the teslamotors.com privacy policy that was archived on 2009-02-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090215030906id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teslamotors.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526103730id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- start nav.header1 --><!--
 
 
-	designed and built by Internet Themepark Inc.
+	originally designed and built by Internet Themepark Inc.
 	
 	http://themepark.com
 
 
---><head><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-	<title>Tesla Motors - privacy policy</title>
-
-	<meta name="keywords" content="Tesla Motors,Electric Vehicle,EV,electric car,car,auto,automobile,performance,alternative energy, sportscar,sports car,clean,environment,powertrain,battery,elon musk,marc tarpenning,electricity,green,lithium ion battery,Li Ion battery,">
+--><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+	
+		<meta name="keywords" content="Tesla Motors,Electric Vehicle,EV,electric car,car,auto,automobile,performance,alternative energy, sportscar,sports car,clean,environment,powertrain,battery,elon musk,marc tarpenning,electricity,green,lithium ion battery,Li Ion battery,">
 	<meta name="description" content="The official site for Tesla Motors, makers of the Tesla Roadster, the high-performance electric sports car. Electric cars from Tesla Motors are developed with an emphasis on design, performance, and efficiency.">
 
-<meta http-equiv="imagetoolbar" content="no">		<meta name="verify-v1" content="6kE8PhxeFadQevRNjZjtxVoI7MYxQ1F3G5VTaxpPZ94=">
+<meta http-equiv="imagetoolbar" content="no">		<meta name="verify-v1" content="6kE8PhxeFadQevRNjZjtxVoI7MYxQ1F3G5VTaxpPZ94=">		
+	<title>Tesla Motors - privacy policy</title>
+
+
 <link rel="stylesheet" type="text/css" media="screen,projection" href="/css/main.css">
+
+
 <link rel="stylesheet" type="text/css" media="print" href="/css/print.css">
+
 <!--[if IE]>
     <link rel="stylesheet" type="text/css" href="/css/iepops.css" />
 <![endif]-->
 
 <link rel="alternate" type="application/rss+xml" title="All Tesla Motors Blogs RSS Feed" href="/display_data/blog_rss_combined.xml">
-<link rel="alternate" type="application/atom+xml" title="All Tesla Motors Blogs Atom Feed" href="/display_data/blog_atom_combined.xml">
-<script src="/__utm.js" type="text/javascript"></script>
+<link rel="alternate" type="application/atom+xml" title="All Tesla Motors Blogs Atom Feed" href="/display_data/blog_atom_combined.xml"> 
+<!--<script src="/__utm.js" type="text/javascript"></script>-->
 
 
 	
-		<script type="text/javascript" language="javascript" src="/lib_public/prototype.js"></script>
-
-					<script type="text/javascript" language="javascript" src="/lib_public/moo.fx.js"></script>
+				<script type="text/javascript" language="javascript" src="/lib_public/prototype.js"></script>
+		
+				<script type="text/javascript" language="javascript" src="/lib_public/moo.fx.js"></script>
 		<script type="text/javascript" language="javascript" src="/lib_public/moo.fx.pack.js"></script>
-		<script type="text/javascript" language="javascript"><!--
-
-	
-		var loginopen = 0;
-		var ref = '';
-		var loaded = 0;
-		buylayerforward = 0;
-
-		window.onload = function() {
-
-							// disable login layer -- July 6 2007
-				// llayer = new fx.Opacity('loginlayer', { duration: 250 } );
-				// llayer.hide();
-				// $('loginlayer').style.display = 'block';
-				
-							
-		}
-
-		function toggleFlash(vis) {
-		}
-
-		function toggleContactUsFormElements(vis) {
-		}
-
-				
-var bselectedColorName = '';
-var bselectedColorFilename = '';
-var bcurrent_color_cost = '';
-var bselectedColorCar = '';
-var bselectedColor = '';
-
-var selectedColorName = '';
-var selectedColorFilename = '';
-var current_color_cost = '';
-var selectedColorCar = '';
-var selectedColor = '';
-
-var chips = new Array();
-var colorname = new Array();
-var colorcost = new Array();
-var car = new Array();
-var familyPrice = new Array();
-var familyPrettyPrice = new Array();
-
-
-
-var yourCarCP = '';
-var showGreenPicker = 0;
-
-
-
-	// save out form choices via AJAX call
-	function saveFormChoices(formname) {
-	   
-		var pars = Form.serialize(formname);
-		var aj = new Ajax.Request('/owners/yourcar_save.php',
-			{
-				method: 'post',
-				parameters: pars,
-				onComplete: aftersave
-			}
-		);
-	}
-	function updateWheelOne() {
-		document.getElementById("WHL1").value = "WHL1";
-	}
-	function updateWheelTwo() {
-		document.getElementById("WHL2").value = "WHL2";
-	}
-	function updateWheelThree() {
-		document.getElementById("WHL3").value = "WHL3";
-	}
-
-	function saveBuyChoices(formname) {
-	   
-		var pars = Form.serialize(formname);
-		var aj = new Ajax.Request('/buy/save_buypage_choices.php',
-			{
-				method: 'post',
-				parameters: pars,
-				onComplete: aftersave
-			}
-		);
-	}
-	var aftersave = function(re) {
-		res = re.responseText;
-		if (res == 't') {
-			/* code t = timeout */
-			
-				var url = 'https://www.teslamotors.com/users/login.php?frompage=' + encodeURIComponent('/owners/yourcar.php') + '&session_expired=1';
-			
-			window.location = url;
-		}
-	}
-	
-
-
-function showBuy() {
-	// the page is loaded at the bottom of everything (nav.footer.tpl)
-			buy.toggle();
-		setTimeout("toggleFlash('hidden'); toggleContactUsFormElements('hidden')", 100);
-						setTimeout("$('buycover').style.opacity = 100;  $('buycover').style.display = 'block'; ", 250);
-		buylayerforward = 1;
-	yourCarCP = '';			// be sure this is clear; user clicked buy tab, so DEF on buy layer
-
-}
-
-function hideFormElements() {
-	toggleFlash('hidden');
-	toggleContactUsFormElements('hidden');
-}
-
-
-function loadBuyPage(x) {
-	if(!loaded) {
-		setTimeout('doLoad('+x+')', 10);
-	}
-}
-
-function doLoad(x) {
-	par = 'p=' + x;
-	var ajax = new Ajax.Updater(
-		{success: 'buyContent'}, "/buy/buyLayerLoader.php",
-		{method: 'get', parameters: par}
-	);
-	loaded = 1;
-}
-
-
-
-function f_scrollTop() {
-	return f_filterResults (
-		window.pageYOffset ? window.pageYOffset : 0,
-		document.documentElement ? document.documentElement.scrollTop : 0,
-		document.body ? document.body.scrollTop : 0
-	);
-}
-
-function f_filterResults(n_win, n_docel, n_body) {
-	var n_result = n_win ? n_win : 0;
-	if (n_docel && (!n_result || (n_result > n_docel)))
-		n_result = n_docel;
-	return n_body && (!n_result || (n_result > n_body)) ? n_body : n_result;
-}
-
-function findPickerTop() {
-	cpt = f_scrollTop() + 50;
-	if(cpt < 93) cpt = 93;
-	return cpt + 'px';
-}
-
-
-
-
-
-function findPos(obj) {
-	var curleft = curtop = 0;
-	if (obj.offsetParent) {
-		curleft = obj.offsetLeft
-		curtop = obj.offsetTop
-		while (obj = obj.offsetParent) {
-			curleft += obj.offsetLeft
-			curtop += obj.offsetTop
-		}
-	}
-	return [curleft,curtop];
-}
-
-function showBalloon(e, bid, onOwnersPage, positionName, vertcorrect, slideRight) {
-		pos = findPos( $(positionName) );
-			rmar = 18;
-	
-	if(slideRight) rmar = rmar + 18;		/* when using 'view' btn instead of question mark */
-	if(vertcorrect == 0) {
-		vertcorrect = 370;
-		if(onOwnersPage == 'o') vertcorrect = 283;	/* if on owners page, diff vertical offset */
-	}
-	// alert('balloon id=Balloon'+bid+' mod='+vertcorrect+' pos[0],pos[1]=' +pos[0] + ',' + pos[1]);
-	$('Balloon'+bid).style.left = (pos[0] + rmar) + 'px';
-	$('Balloon'+bid).style.top = (pos[1] - vertcorrect) + 'px';
-	if($('Balloon'+bid).style.display != 'block') $('Balloon'+bid).style.display = 'block';
-	return true;
-}
-
-function hideBalloon(e, x, bPre) {
-	$('Balloon'+x).style.display = 'none';
-	return true;
-}
-
-function hideBuy() {
-			buy.toggle();
-		setTimeout("toggleFlash('visible');toggleContactUsFormElements('visible')", 100);
-		buylayerforward = 0;
-}
-
-function formatCurrency(num) {
-	num = num.toString().replace(/\$|\,/g,'');
-	if(isNaN(num)) num = "0";
-	sign = (num == (num = Math.abs(num)));
-	num = Math.floor(num * 100 + 0.50000000001);
-	cents = num % 100;
-	num = Math.floor(num / 100).toString();
-	if(cents < 10) cents = "0" + cents;
-	for (var i = 0; i < Math.floor((num.length-(1+i))/3); i++)
-		num = num.substring(0,num.length-(4*i+3))+','+num.substring(num.length-(4*i+3));
-	return (((sign)?'':'-') + '$' + num); 	// + '.' + cents);
-}
-
-function isInt(x) {
-	var y=parseInt(x);
-	if (isNaN(y)) return false;
-	return x==y && x.toString()==y.toString();
-}
-
-function addOption(x) {
-	if( !isInt($(yourCarCP + 'optiontotal').value) ) $(yourCarCP + 'optiontotal').value = 0;
-	$(yourCarCP + 'optiontotal').value = parseInt( $(yourCarCP + 'optiontotal').value ) + parseInt(x);
-}
-
-function removeOption(x) {
-	if( !isInt($(yourCarCP + 'optiontotal').value) ) $(yourCarCP + 'optiontotal').value = 0;
-	$(yourCarCP + 'optiontotal').value = parseInt( $(yourCarCP + 'optiontotal').value ) - parseInt(x);
-}
-
-
-function formcalc() {
-
-	// recalculate prices on buy page 1 or owners "your car"
-	if($(yourCarCP + 'current_color_name').innerHTML) {
-		clrCost = parseInt($F(yourCarCP + 'current_color_cost'));
-		cc = 'included';
-		if(isInt(clrCost) && clrCost > 0) cc = formatCurrency(clrCost);
-		$(yourCarCP + 'current_color_prettycost').innerHTML = cc;
-	}
-
-		if(typeof clrCost == "undefined" || isNaN(clrCost)) clrCost = 0;
-	
-	if(yourCarCP == 'o') {
-		oosa = parseInt( $F(yourCarCP + 'oosa') );
-	} else {
-		oosa = 0;		// oosa is always 0 on buy tab
-	}
-
-	options = parseInt( $F(yourCarCP + 'optiontotal') );
-	destcharge = parseInt( $F(yourCarCP + 'destcharge') );
-	deposit = parseInt( $F(yourCarCP + 'deposit') );
-
-	// figure out subtotal
-			if(yourCarCP == 'o') { st = 0; } else { st = 0; }
-	 //alert("subtotal "+st+" options "+options+" intCost "+intCost+" destcharge "+destcharge);
-	if(yourCarCP == 'o') {
-		st += options + clrCost;		// on owners page, subtotal doesn't incl dest charge or oosa
-		ttl = st + destcharge + oosa;	// total includes other things below the line
-		$(yourCarCP+'total').innerHTML = formatCurrency(ttl);
-	} else {
-		st += options + clrCost +  destcharge + oosa;
-		ttl = st;
-	}
-	$(yourCarCP+'subtotal').innerHTML = formatCurrency(st);
-	 //alert('yourcar? '+yourCarCP+' / options cost '+options+' colorcost '+clrCost+' subtotal '+st+' total '+ttl);
-	if(deposit > 0) {
-		if(yourCarCP == 'o') {
-			$(yourCarCP+'prettydue').innerHTML = formatCurrency(ttl - deposit);
-		} else {
-			$(yourCarCP+'prettydue').innerHTML = 'due on delivery: ' + formatCurrency(ttl - deposit);
-		}
-	}
-	return true;
-}
-
-
-function showColorPicker(ycp, sgp) {
-	yourCarCP = ycp;
-	showGreenPicker = sgp;
-
-	// copy over buy page color info
-	if(ycp != 'o') {
-		$('local_current_color_name').innerHTML = bselectedColorName;
-		$('local_current_color_chip').src = bselectedColorFilename;
-		$('local_current_color_cost').value = bcurrent_color_cost;
-		$('local_color').value = bselectedColor;
-		$('oldselected').value = bselectedColor;
-		ci = bselectedColorCar;
-		colorprices = 0;
-	} else {
-		$('local_current_color_name').innerHTML = selectedColorName;
-		$('local_current_color_chip').src = selectedColorFilename;
-		$('local_current_color_cost').value = current_color_cost;
-		$('local_color').value = selectedColor;
-		$('oldselected').value = selectedColor;
-		ci = selectedColorCar;
-		colorprices = 1;
-	}
-
-	// display 'select' button if necessary
-	var d = 'none';
-	if( $('local_color').value ) d = 'inline';
-	$('select_color').style.display = d;
-
-	
-										
-		for (i = 1; i < 14; i++) {
-			var cl = 'colorchip color' + i;
-			if($('local_color').value == i) cl = cl + ' color-select'; 
-			$('color' + i).className = cl;
-		}
-
-					
-				if(!showGreenPicker) {
-					$('colorpicker').className = 'cpRoundNormal';
-				} else {
-					$('colorpicker').className = 'cpRoundGreen cpSignature100';
-				}
-			
-		
-	
-	var w = 618; if(!showGreenPicker) w = 527;
-
-	$('car_image').style.width = w + 'px';
-	$('color_name').style.width = w + 'px';
-	$('disclaimer').style.width = w + 'px';
-	
-	if(showGreenPicker) {
-		$('family4').style.display = 'block';
-		$('disclaimer').style.top = '120px';
-		$('disclaimer_text').style.display = 'block';
-	} else {
-		$('family4').style.display = 'none';
-		$('disclaimer').style.top = '135px';
-		$('disclaimer_text').style.display = 'none';
-	}
-	
-	if(ci == '') { ci = '/images/buy/colors/buy_selectcolor_car_fusionred.jpg'; }
-	$('carimage').src = ci;
-
-	// fill in prices from correct pricing array
-	$('family1price').innerHTML = familyPrettyPrice[colorprices][0];
-	$('family2price').innerHTML = familyPrettyPrice[colorprices][1];
-	$('family3price').innerHTML = familyPrettyPrice[colorprices][2];
-
-	dimBackground(1);
-	$('colorpicker').style.top = findPickerTop();
-	setTimeout(" $('colorpicker').style.display = 'block' ", 100);
-}
-
-
-		
-		// getPageSize()
-		// Returns array with page width, height and window width, height
-		// Core code from - quirksmode.org
-		// Edit for Firefox by pHaez
-		//
-		function getPageSize(){
-			
-			var xScroll, yScroll;
-			
-			if (window.innerHeight && window.scrollMaxY) {	
-				xScroll = document.body.scrollWidth;
-				yScroll = window.innerHeight + window.scrollMaxY;
-			} else if (document.body.scrollHeight > document.body.offsetHeight){ // all but Explorer Mac
-				xScroll = document.body.scrollWidth;
-				yScroll = document.body.scrollHeight;
-			} else { // Explorer Mac...would also work in Explorer 6 Strict, Mozilla and Safari
-				xScroll = document.body.offsetWidth;
-				yScroll = document.body.offsetHeight;
-			}
-			
-			var windowWidth, windowHeight;
-			if (self.innerHeight) {	// all except Explorer
-				windowWidth = self.innerWidth;
-				windowHeight = self.innerHeight;
-			} else if (document.documentElement && document.documentElement.clientHeight) { // Explorer 6 Strict Mode
-				windowWidth = document.documentElement.clientWidth;
-				windowHeight = document.documentElement.clientHeight;
-			} else if (document.body) { // other Explorers
-				windowWidth = document.body.clientWidth;
-				windowHeight = document.body.clientHeight;
-			}	
-			
-			// for small pages with total height less then height of the viewport
-			if(yScroll < windowHeight){
-				pageHeight = windowHeight;
-			} else { 
-				pageHeight = yScroll;
-			}
-		
-			// for small pages with total width less then width of the viewport
-			if(xScroll < windowWidth){	
-				pageWidth = windowWidth;
-			} else {
-				pageWidth = xScroll;
-			}
-
-			arrayPageSize = new Array(pageWidth,pageHeight,windowWidth,windowHeight) 
-			return arrayPageSize;
-		}
-		
+			<script type="text/javascript" language="javascript"><!--
+                                    document.domain = "teslamotors.com"; // set domain for same-origin so we can manipulate popup windows
+                	
 		
 
-		function gotoLogin(r) {
-						$('forMakeChanges').value = 0;
-			if(r == 'makechanges') $('forMakeChanges').value = 1;
-			ref = r;
-			if(!loginopen) {
-			
-				$('login_hold').style.display = 'none';
-				$('login_buttons').style.display = 'block';
-				$('login_bad').style.display = 'none';
-				$('login_need').style.display = 'none';
+                                var TM = {};
 
-				// set the top of the login window
-				t = f_scrollTop() + 100;
-				if(t < 35) t = 35;
-				$('loginlayer').style.top = t + 'px';
-
-				// center login layer on the page
-				wid = document.body.clientWidth ? document.body.clientWidth : innerWidth;
-				
-								
-									llow = $('loginlayer').offsetWidth;
-								
-				llw = (wid / 2) - (llow / 2);
-				$('loginlayer').style.left = llw + 'px';
-
-				dimBackground(1);		// dim the background
-
-									llayer.toggle();
-								loginopen = 1;
-				// note next line: need short delay due to IE weirdness
-				setTimeout("$('loginform').userfield.focus();", 300);
-			}
-		}
-
-		function hideLogin() {
-			if(loginopen) {
-									llayer.toggle();
-								dimBackground(0);
-			}
-			loginopen = 0;
-		}
-
-		function dimBackground(d) {
-			if(d == 1) {
-				// dim background
-				var arrayPageSize = getPageSize();
-				var h = arrayPageSize[1];
-								if(h < 1300) h = 1300;
-				$('dim-overlay').style.height = h + "px";
-				$('dim-overlay').style.display = 'block';
-			} else {
-				$('dim-overlay').style.display = 'none';	// get rid of dim bg
-			}
-		}
-		
-		
-		
-		function submitUserPass() {
-			if( !$('userfield').value.length || !$('passfield').value.length ) {
-				// they didn't enter anything in one or both fields...
-				$('login_bad').style.display = 'block';
-			} else {
-				$('login_bad').style.display = 'none';
-				dt = new Date().getTime();
-				$('hf').value = dt;			// change URL to prevent stupid IE AJAX caching
-				var url = 'https://www.teslamotors.com/users/dologin.php';
-				var pars = Form.serialize('loginform');
-				var aj = new Ajax.Request(url,
-					{
-					    method: 'get',
-					    parameters: pars,
-					    onLoading: function() { $('login_hold').style.display = 'block';
-												$('login_buttons').style.display = 'none';
-				    						},
-					    onComplete: checkuserpass,
-					    onFailure: function(resp) { _error.status = 'true'; 
-													_error.number = '01'; 
-													_error.description = 'The requested proccess has failed to properly connect to the XML system.';
-													 alert($string);
-													// works! return $string; // no worky! re 
-										},
-						onException: function(o,e){ throw(e); }
-					}
-				);
-			}
-		}
-		
-		function checkuserpass(re) {
-			$('login_bad').style.display = 'none';
-			ok = re.responseText;
-			// alert(ok);
-			if(ok == 1) {
-				// user/pass is OK! don't hide login layer, just send them on
-				if(ref.length) {
-					// alert('going to '+ref);
-					if(ref == 'makechanges') {
-						/* we are coming from your car > make changes; return to flow */
-						okToMakeChanges();
-					} else {
-						document.location.href = ref;
-					}
-				} else {
-					document.location.href = '/owners/yourcar.php';
-				}
-			} else {
-				$('login_hold').style.display = 'none';
-				$('login_buttons').style.display = 'block';
-				$('login_bad').style.display = 'block';
-			}
-		}
-
-		
-		
-							
-		function showTab(tb) {
-			// hide other tabs first
-			for(var x = 1; x <= 4; x++)  {
-				if(tb != x) {
-					$('icp_tab'+x).style.display = 'none'; 
-					$('icp_handle'+x).className = 'icp_unselected_tab makeHand';
-				}
-			}
-	
-			// mark the selected one
-			$('icp_tab'+tb).style.display = 'block';
-			$('icp_handle'+tb).className = 'icp_selected_tab makeHand';
-			
-			// redraw car image to match selections,
-			// and set default for color chip copied to yourcar page (bug 3459)
-			$('icp_whichtab').value = tb;
-			if(tb=='1')
-			{      	icp_swapcar(1, $('tab1_sel1_chosen').value, 0 , 0, 0);
-				$('icp_color_chip').value = icp_chip_files[$('tab1_sel1_descr_color_index').value];
-				$('icp_color_chip2').value = '';
-			}
-			else if(tb=='2')
-			{  //	if(''!='$0') $('tabprice').value='';
-				icp_swapcar(2, $('tab2_sel1_chosen').value, 0 , 0, 0);
-				$('icp_color_chip').value = icp_chip_files2[$('tab2_sel1_descr_color_index').value];
-				$('icp_color_chip2').value = '';
-			}
-			else if(tb=='3')
-			{   //	if(''!='$0') $('tabprice').value='';
-
-				icp_swapcar(3, $('tab3_sel1_chosen').value, $('tab3_sel2_chosen').value, $('tab3_head_chosen').value, $('tab3_style_chosen').value);
-				$('icp_color_chip').value  = icp_chip_files2[$('tab3_sel1_descr_color_index').value];
-				$('icp_color_chip2').value = icp_chip_files2[$('tab3_sel2_descr_color_index').value];
-
-			}
-			else if(tb=='4')
-			{   // 	 if(''!='$0') $('tabprice').value='';
-
-			}
-		}
-
-		/* open shop window */
-		function openShop() {
-			
-													
-			var arrayPageSize = getPageSize();
-			var w = arrayPageSize[0];
-			var h = arrayPageSize[1];
-			x = parseInt( (w / 2) - (812 / 2) );		// popup opens to 812 x 856
-			y = parseInt( (h / 2) - (856 / 2) );
-			win = window.open("", "shop", "width=812,height=856,scrollbars=1,status=0,toolbar=0,location=0,menubar=0,directories=0");
-			win.focus();								// bring to front
-			offsetX = self.screenX ? self.screenX : self.screenLeft;
-			offsetY = self.screenY ? self.screenY : self.screenTop;
-			win.moveTo(x + offsetX, y + offsetY);
-			win.location = "http://shop.teslamotors.com";		/* for security reasons, we have to move it before changing location */
-			
-		}
-
-		
-	
+                TM['httpsServerName'] = 'https://www.teslamotors.com';
+                       TM['mooFxOk'] = true;                                                                                             
 	// -->
 	</script>
+        <script type="text/javascript" src="/lib_public/common.js"></script>
+
+    
+
+</head><body>
 
 
-	</head><body>
 
 <div id="js_message" style="background: url(&quot;/images/navrev/jsmessage_blue.gif&quot;) repeat-x; display: none;">
 	<table cellpadding="0" cellspacing="0" border="0" style="height: 100%; width: 100%;"><tbody><tr valign="middle">
@@ -633,38 +77,112 @@ function showColorPicker(ycp, sgp) {
 	// -->
 	</script>
 
-<ul id="globalnav">
-	<li id="media"><a href="http://www.teslamotors.com/media/media_index.php">Media</a></li>
-	<li id="merchandise"><a href="#" onclick="openShop();">Merchandise</a></li>
-	<li id="blogs"><a href="http://www.teslamotors.com/blogs.php">Blogs</a></li>
-	<li id="contactus"><a href="http://www.teslamotors.com/customer_care/contact_us.php">Contact Us</a></li>
-	<li id="owners"><a href="/users/login.php">Owners</a></li>
-		
-</ul>
+<style>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;" class="mainnav">
+#globalnavnew {
+	border: none !important;
+	position: absolute;
+	left: 657px;
+	top: 0px;
+	width: 335px;
+	font-family: arial,verdana,sans-serif  !important;
+	font-weight: normal !important;
+	z-index: 8;
+}
+
+#globalnavlinkcell p {
+	vertical-align: middle;
+	width: 105px;
+	text-align: right;
+	line-height: 90%;
+	font-size: 12px;
+	font-weight: normal !important;
+	padding: 0;
+	margin: 0;
+}
+
+#globalnavlinkcell img {
+	position: relative;
+	top: 5px;
+}
+
+#globalnavlinkcell, #globalnavlinkcell a {
+	color: #999;
+	text-decoration: none;
+	font-weight: normal !important;
+}
+
+#globalnavlinkcell a:hover, #globalnavlinkcell a.sel {
+	color: white;
+	text-decoration: none;
+	font-weight: normal !important;
+}
+
+#globalnavlinkcell .sel a {
+	color: white;
+	text-decoration: none;
+	font-weight: normal !important;
+}
+
+</style>
+
+<table cellpadding="0" cellspacing="0" border="0" id="globalnavnew"><tbody><tr style="vertical-align: middle;">
+	<td id="globalnavlinkcell">
+		
+									<p>
+			<span class="hl "><a href="http://www.teslamotors.com/customer_care/contact_us.php">contact us</a></span>
+			<a href="http://www.teslamotors.com/customer_care/contact_us.php">	<img src="/images/nav3/nav_icon_contact.png" style="width: 15px; height: 17px;"></a>
+		</p>
+
+		<p>
+			<span class="hl"><a href="#" onclick="openShop();">merchandise</a></span>
+			<a href="http://shop.teslamotors.com" onclick="openShop(); return false;">	<img src="/images/nav3/nav_icon_merchandise.png" style="width: 15px; height: 17px;"></a>
+		</p>
+
+									<p>
+			<span class="hl "><a href="http://www.teslamotors.com/blogs.php">blogs</a></span>
+			<a href="http://www.teslamotors.com/blogs.php">	<img src="/images/nav3/nav_icon_blogs.png" style="width: 15px; height: 17px;"></a>
+		</p>
+
+									<p>
+			<span class="hl "><a href="http://www.teslamotors.com/media/media_index.php">media</a></span>
+			<a href="http://www.teslamotors.com/media/media_index.php">	<img src="/images/nav3/nav_icon_media.png" style="width: 15px; height: 17px;"></a>
+		</p>
+
+									<p>
+			<span class="" style="position: relative; top: 2px;"><a href="/owners/yourcar.php">owners</a></span>
+			<a href="/owners/yourcar.php">	<img src="/images/nav3/nav_icon_owners.png" style="width: 15px; height: 14px;"></a>
+		</p>
+	</td>
+	<td>
+									<a href="http://www.teslamotors.com/teslastore/">	<img src="/images/nav3/nav_promo.png" style="margin-top: 19px; margin-left: 5px; width: 219px; height: 90px; border: none;"></a>
+	</td>
+</tr></tbody></table>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 773px;" class="mainnav">
 	<tbody><tr valign="top">
 									<td style="width: 777px; height: 92px;"><img src="/images/nav2/nav_logo.jpg" style="width: 777px; height: 92px;" usemap=""></td>
-		<td colspan="2" style="background: black; min-width: 261px;"> 			<img src="/images/nav/spacer.gif" style="width: 261px; height: 1px;">
+		<td colspan="2" style="background: black;"> 			<img src="/images/nav/spacer.gif" style="height: 1px;">
 		</td>
-		<td style="width: 30px;" rowspan="999"> 			<img src="/images/nav/spacer.gif" style="width: 1px; height: 1px;">
-		</td>		
+		<td style="width: 20px;" rowspan="999"> 			<img src="/images/nav/spacer.gif" style="width: 1px; height: 1px;">
+		</td>
 	</tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;" class="mainnav">
-	<tbody><tr valign="top" style="height: 41px; vertical-align: top;"> 		 						<td style="width: 777px;"><img src="/images/buynav/nav_main_none.gif" style="width: 777px; height: 41px;" usemap="#nav"></td>
-		<td style="background: url(/images/nav2/nav_main_right_hoz_span.gif) repeat-x;"><img src="/images/nav/spacer.gif" style="width: 217px; height: 41px;"></td>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 1015px;" class="mainnav">
+	<tbody><tr valign="top" style="height: 41px; vertical-align: top;"> 		 						<td style="width: 777px;"><img src="/images/buynav/nav_main_none.jpg" style="width: 777px; height: 41px;" usemap="#nav"></td>
+		<td style="background: url(/images/nav2/nav_main_right_hoz_span.gif) repeat-x;"><img src="/images/nav/spacer.gif" style="width: 190px; height: 41px;"></td>
 		<td style="width: 19px; background: url(/images/nav2/nav_main_right_corner.gif) no-repeat;"><img src="/images/nav/spacer.gif" style="width: 19px; height: 41px;"></td>
 		<td style="width: 30px;"><img src="/images/nav/spacer.gif" style="width: 1px; height: 1px;"></td>		</tr>
 </tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="min-width: 797px;">
-	<tbody><tr style="vertical-align: top;">					<td style="height: 100%; width: 42px; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;" class="mainnav">
+
+<table id="maincontent" border="0" cellpadding="0" cellspacing="0" width="100%" style="width: 933px;">
+	<tbody><tr style="vertical-align: top;">					<td id="nav_left_vert_span" style="height: 100%; width: 42px; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;" class="mainnav">
 			<table style="width: 42px; height: 100%;" height="100%" cellpadding="0" cellspacing="0"><tbody><tr>    
-				<td height="52" style="background: url(/images/nav2/nav_left.gif) no-repeat; height: 52px;">                         
+				<td height="52" id="nav_left" style="background: url(/images/nav2/nav_left.gif) no-repeat; height: 52px;">                         
 					<img src="/images/nav/spacer.gif" style="width: 42px; height: 52px;">
 				</td>
-			</tr><tr>
-				<td height="100%" style="height: 100%; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;"> 					<img src="/images/nav/spacer.gif" style="width: 42px;">
+			</tr>
+			<tr>
+				<td height="100%" id="nav_left_vert_stretchy" style="height: 100%; background: url(/images/nav2/nav_left_vert_span.gif) repeat-y;"> 					<img src="/images/nav/spacer.gif" style="width: 42px;">
 				</td>
 			</tr></tbody></table>
 		</td>
@@ -784,10 +302,8 @@ function showColorPicker(ycp, sgp) {
 
  
  
-	</td>		<td style="width: 7px;"><img src="/images/nav/spacer.gif" width="1" height="1"></td>
-	</tr></tbody></table>
-</div>
-<img src="/images/nav/spacer.gif" width="1" height="40"><!-- start nav.footer -->
+	</td>		</tr></tbody></table>
+</div><!-- start nav.footer -->
 						<img src="/images/nav/spacer.gif" style="width: 914px; height: 1px; clear: both;">
 		</td>
 		<td style="width: 11px; background-color: #666;">
@@ -806,7 +322,7 @@ function showColorPicker(ycp, sgp) {
 		<td style="border: none; width: 42px;">
 			<table cellpadding="0" cellspacing="0" border="0" height="1" width="42"><tbody><tr><td height="1" width="31"></td>
 			<td width="11" height="1" style="background-color: #666;"></td></tr></tbody></table>
-		</td><td style="min-width: 960px; background-color: #666;"><img src="/images/nav/spacer.gif" width="960" height="1"></td>
+		</td><td style="min-width: 933px; background-color: #666;"><img src="/images/nav/spacer.gif" width="933" height="1"></td>
 		<td width="11" height="1" style="background-color: #666;"></td>
 	</tr>
 </tbody></table>
@@ -827,7 +343,7 @@ function showColorPicker(ycp, sgp) {
 	
 	&nbsp;&nbsp;•&nbsp;&nbsp;
 
-	<a href="http://www.teslamotors.com/about/company.php">company</a>
+	<a href="http://www.teslamotors.com/learn_more/our_company.php">company</a>
 	
 	&nbsp;&nbsp;•&nbsp;&nbsp;
 
@@ -847,7 +363,7 @@ function showColorPicker(ycp, sgp) {
 	
 	&nbsp;&nbsp;•&nbsp;&nbsp;
 	
-	<a href="http://www.teslamotors.com/efficiency/how_it_works.php">efficiency</a>
+	<a href="http://www.teslamotors.com/electric/plugging_in.php">electric</a>
 	
 	&nbsp;&nbsp;•&nbsp;&nbsp;
 	
@@ -867,36 +383,12 @@ function showColorPicker(ycp, sgp) {
 
  
 <div id="copyright">
-	© 2009 Tesla Motors, Inc. All rights reserved. ‘Tesla Motors’
+	© 2010 Tesla Motors, Inc. All rights reserved. ‘Tesla Motors’
 	and ‘Tesla Roadster’ are trademarks of Tesla Motors, Inc.
-	(version 1-5-0272-229)
+	(version 1-5-0454-229)
 </div></div>
 
 
-</div>		
-	
-<script> <!--
-
-function checkSub(x, e) {
-	kc = 0;
-	if(window.event) kc = window.event.keyCode;
-	else if (e) kc = e.which;
-	
-	// return pressed in password field? if so, submit form
-	if (kc == 13) submitUserPass();
-
-	return true;
-}
-
-// -->
-</script>
-
-<div id="loginlayer" style=" top: 100px;">
-
-	<form id="loginform" method="post" action="https://www.teslamotors.com/users/login.php">
-		
-	</form>
-		
 </div>		
 <div id="faqans"></div>
 
@@ -906,12 +398,99 @@ function checkSub(x, e) {
 
 
 
+
+
 <map name="nav"> 
-	<area shape="rect" coords="181,5,235,35" href="http://www.teslamotors.com/">
-	<area shape="rect" coords="236,5,290,35" href="http://www.teslamotors.com/design/gallery-body.php">
-	<area shape="rect" coords="291,5,400,35" href="http://www.teslamotors.com/performance/acceleration_and_torque.php">
-	<area shape="rect" coords="401,5,478,35" href="http://www.teslamotors.com/efficiency/how_it_works.php">
-	<area shape="rect" coords="479,5,532,35" href="http://www.teslamotors.com/learn_more/foreign_oil.php">
-	<area shape="rect" coords="533,5,583,35" href="http://www.teslamotors.com/buy/resyourcar.php">
+	<area shape="rect" coords="180,4,233,33" href="http://www.teslamotors.com/">
+	<area shape="rect" coords="233,5,296,33" href="http://www.teslamotors.com/design/gallery-body.php">
+	<area shape="rect" coords="296,4,411,33" href="http://www.teslamotors.com/performance/acceleration_and_torque.php">
+	<area shape="rect" coords="411,4,487,33" href="http://www.teslamotors.com/electric/plugging_in.php">
+	<area shape="rect" coords="487,4,541,33" href="http://www.teslamotors.com/learn_more/environmental_benefits.php">
+	<area shape="rect" coords="560,5,605,29" href="http://www.teslamotors.com/buy/selectlocation.php">
 </map>
+
+
+	
+
+	<!-- Start Google -->
+	<script type="text/javascript">
+		var pageTracker;
+
+		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	
+		setTimeout('startGA();', 500);
+		
+		function startGA() {
+			pageTracker = _gat._getTracker("UA-9152935-1");
+			pageTracker._setLocalRemoteServerMode(); // this is to set both Google and Urchin to work together, so remove the utm.js includes
+			pageTracker._trackPageview();
+		}
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	
+    <!-- Google Code for Visited Teslamotors.com Conversion Page -->
+    <script type="text/javascript">
+    <!--
+    var google_conversion_id = 1022916095;
+    var google_conversion_language = "en";
+    var google_conversion_format = "3";
+    var google_conversion_color = "ffffff";
+    var google_conversion_label = "v2sDCJnZ7QEQ_-vh5wM";
+    var google_conversion_value = 0;
+    //-->
+    </script>
+    <script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+    </script>
+    <noscript>
+    <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1022916095/?label=v2sDCJnZ7QEQ_-vh5wM&amp;guid=ON&amp;script=0"/>
+    </div>
+    </noscript>		
+	<!-- End Google -->
+	
+	<!-- AddThis Code -->	
+	<script id="addthis_script"></script>
+	<script>
+		function startAddThis() {			
+			if (document.getElementsByClassName("addthis_button").length > 0) {
+				if (pageTracker != null) {
+					addthis_config = {
+					   data_ga_tracker: pageTracker
+					}				
+				}
+				document.getElementById('addthis_script').src = "http://s7.addthis.com/js/250/addthis_widget.js#pub=xa-4b02d392122a775b";				
+			}
+		}
+		// Google pageTracker needs to be instantiated before addThis code
+		setTimeout('startAddThis();', 600);		
+	</script>
+
+	
+	
+
+			<!-- Start Quantcast tag -->
+						
+
+	<script type="text/javascript">
+			_qoptions={
+				qacct:"p-cfV3Vh1ljsBP-"
+			};
+			if (window.location.pathname.indexOf("/owners") == 0) {
+				_qoptions['labels'] = "OwnersArea";
+			}
+
+	</script>	
+	
+			<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+		<noscript>
+			<img src="http://pixel.quantserve.com/pixel/p-cfV3Vh1ljsBP-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+		</noscript>
+		
+		<!-- End Quantcast tag -->
+	
+	<!-- Start SalesForce tracking -->
+	<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script> 
+	<script type="text/javascript">__sfga();</script> 		
+	<!-- End SalesForce tracking -->	
+	
 </body></html>
