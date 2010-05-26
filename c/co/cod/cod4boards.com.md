@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cod4boards.com privacy policy that was archived on 2009-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090218005309id_/http%3A//cod4boards.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cod4boards.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172852id_/http%3A//cod4boards.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Call of Duty 4 Forums
 
