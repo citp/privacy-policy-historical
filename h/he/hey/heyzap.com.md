@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927032221id_/http%3A//www.heyzap.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heyzap.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527010130id_/http%3A//www.heyzap.com/docs/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Heyzap › Privacy
 
 ## Heyzap Privacy Policy
 
@@ -119,5 +119,5 @@ For revisions to this Privacy Policy that may be materially less restrictive on 
 
 ### 12\. Heyzap Contact Information:
 
-Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 235 Dore Street, San Francisco, CA 94103 or by email: privacy@Heyzap.com We will respond to your inquiry within 30 days of its receipt.  
+Please contact Heyzap with any questions or comments about this Privacy Policy, to obtain access to your personal information, and our third-party disclosure practices or your consent choices at: 564 Howard Street, San Francisco, CA 94105 or by email: privacy@Heyzap.com We will respond to your inquiry within 30 days of its receipt.  
 
