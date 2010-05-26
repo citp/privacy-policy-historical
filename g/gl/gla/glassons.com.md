@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107064305id_/http%3A//www.glassons.com/index.php/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassons.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526021140id_/http%3A//www.glassons.com/index.php/page/privacy) for the most accurate reproduction.*
 
 # Privacy. Buy Online at Glassons.com
 
@@ -60,7 +60,7 @@ To protect our rights or property or those of our related companies
 
 To enforce our terms and conditions
 
-To act in the interest of our, or our relayed companies, customers or others.
+To act in the interest of our, or our related companies, customers or others.
 
   
 
@@ -78,7 +78,7 @@ You may also ask us to update your personal information by contacting us as desc
 
 Glassons wants to communicate with you only if you want to hear from us. If you prefer not to receive promotional information, such as information about special offers and sales events, you can let us know by contacting our web administration as described in the CONTACT menu. You can choose to opt out of email promotional communications by clicking unsubscribe in the body of the email.
 
-If contacting our web administration please be sure to include your full name and the email address you used when you registered with or made a purchase from Hallenstein Bros. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 working days to process your email request, during which period you may continue to receive communications from Hallenstein Bros.
+If contacting our web administration please be sure to include your full name and the email address you used when you registered with or made a purchase from Glassons. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 working days to process your email request, during which period you may continue to receive communications from Glassons.
 
 If you change your mind you can start receiving promotional communications from us again by logging into your online account and changing your preferences, by signing up when you visit our website or our stores or when you contact our web administration.
 
