@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the insightnewsandfeatures.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216041525id_/http%3A//www.insightnewsandfeatures.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightnewsandfeatures.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172448id_/http%3A//www.insightnewsandfeatures.com/Privacy.aspx) for the most accurate reproduction.*
 
 # INF Photo - Privacy Policy
 
