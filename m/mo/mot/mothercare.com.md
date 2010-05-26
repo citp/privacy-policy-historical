@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2009-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090107065407id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mothercare.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172138id_/http%3A//www.mothercare.com/b/49726031) for the most accurate reproduction.*
 
-# privacy policy : Other pages : mothercare
+# privacy policy from the Mothercare Other pages range - Pushchairs, Car Seats, Nursery Furniture, Baby & Maternity Clothes
 
 **General**  
 This privacy statement sets out how mothercare.com will store and use information relating to you. This applies to the entire web site. Any changes to these policies will be posted on Terms and conditions. Mothercare.com is a trading name of Mothercare UK Limited.
