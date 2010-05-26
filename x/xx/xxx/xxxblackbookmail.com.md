@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xxxblackbookmail.com privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708062131id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxblackbookmail.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171935id_/http%3A//www.xxxblackbook.com/main/privacy_policy%3Flink_id%3D30) for the most accurate reproduction.*
 
-# XXX BlackBook - Adult Dating Website - Find Sexy Single Girls
+# XXX BlackBook - Adult Dating Website - Find Sexy Singles, Men, Women, Couples For Local Sex, Dating, Online Dating
 
 ### XXXBlackBook Privacy Policy:
 
@@ -13,7 +13,7 @@ We at XXXBlackBook offer this Privacy Policy ("Policy") to inform Users of the X
 
 By providing personal information to us, and by using the Website or Service, you consent to our collection, use and disclosure of your personal information in accordance with this Policy.
 
-Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the "[REGISTRATION]" page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
+Please read this Policy carefully and save it. If you do not agree with the terms of this Policy, you should leave the Website and discontinue use of the Service immediately. In addition, if you are an individual who wishes to become a Registered User or Member, you must read this Policy and indicate your acceptance of its terms by following the instructions on the [REGISTRATION [http://www.xxxblackbook.com/register/index]](https://web.archive.org/register/index) page and check the box labelled "I have read and agree to the Privacy Policy and Terms and Conditions. I confirm I have reached the age of majority in my jurisdiction." 
 
 For the purposes of this Policy, "personal information" shall mean any information that can identify an individual directly or through other reasonable means.
 
@@ -27,7 +27,7 @@ What are IP Addresses? An IP address is a number that's automatically assigned t
 
 What are Cookies? We use cookies to store visitors' preferences and to record session information, for purposes including ensuring that visitors are not repeatedly offered the same advertisements, and to customize advertising and web page content for individual users. A cookie is an alphanumeric identifier which we transfer to your hard drive through your web browser when you visit our Website. It enables our own system to recognise you when you visit our Website again and improve our service to you. Cookies may also be used to compile aggregate information about areas of our Website that are visited most frequently. 
 
-This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from XXXBlackBook.com in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that XXXBlackBook allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that XXXBlackBook does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
+This traffic information can be used to enhance the content of our Website and make your use of it easier. We do not link the information we store in cookies to any personally identifiable information you submit while on the Website. Note that you must enable cookies from XXXBlackBook in order to use most functions on the Website. Nevertheless, if you wish to reject our cookies, you can configure your browser to do so (instructions for disabling cookies can be found in our FAQs [here](https://web.archive.org/main/faq). Please note that XXXBlackBook allows third parties who are presenting advertisements on some of our pages to set and access their cookies on your computer in a process that XXXBlackBook does not control. Advertisers' uses of cookies are subject to their own privacy policies, not this Policy. Therefore, we suggest that you examine the privacy policies of such advertisers to learn how they may collect, use, share and disclose your personal information. 
 
 #### 2) Information Required for Registration. 
 
@@ -138,7 +138,7 @@ BY PROVIDING PERSONAL INFORMATION TO US YOU SIGNIFY YOUR CONSENT TO OUR COLLECTI
 
 #### 17) Handling Complaints, Questions and Suggestions. 
 
-To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ XXXBlackBook.com](https://web.archive.org/myprofile/settings)
+To stop or resume receiving email notifications regarding various site activity or offers, users can edit their settings at: [ XXXBlackBook](https://web.archive.org/myprofile/settings)
 
 If you have any further questions or concerns about XXXBlackBook's privacy policies and use of personal information, please contact us using our online [contact form](https://web.archive.org/contact/index), or by email to [the webmaster.](mailto:abuse@XXXBlackBook.com)
 
