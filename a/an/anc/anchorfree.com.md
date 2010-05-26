@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227095709id_/http%3A//www.anchorfree.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anchorfree.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526201950id_/http%3A//www.anchorfree.com/privacy.html) for the most accurate reproduction.*
 
 # AnchorFree
 
@@ -52,7 +52,7 @@ AnchorFree's Hotspot Shield Privacy Notice does not apply to, and we cannot cont
 
 **_Changes and updates to this Hotspot Shield Privacy Notice:_**
 
-This Hotspot Shield Privacy Notice may be revised periodically and this will be reflected by the �last modified� notice above. Please revisit this page to stay aware of any changes. Your continued use of the Hotspot Shield constitutes your agreement to this Hotspot Shield Privacy Notice and any future revisions.
+This Hotspot Shield Privacy Notice may be revised periodically and this will be reflected by the "last modified" notice above. Please revisit this page to stay aware of any changes. Your continued use of the Hotspot Shield constitutes your agreement to this Hotspot Shield Privacy Notice and any future revisions.
 
 **_AnchorFree Contact Information:_**
 
