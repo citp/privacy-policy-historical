@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628180841id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gantthead.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171025id_/http%3A//www.gantthead.com/privacy.cfm) for the most accurate reproduction.*
 
 # gantthead.com Privacy Policy
 
@@ -119,14 +119,13 @@ Last updated July 11, 2005.
 
 sponsored announcements and special offers
 
-**Difficult for competitors to equal. EMA reviews **[IBM Rational's new quality& requirements management offerings](http://www.ibm.com/services/forms/preLogin.do?source=swg-ema&S_TACT=105AGY85&S_CMP=gtq2qwp)**.** The verdict,"For companies seeking to improve ROI delivered by software projects,we believe Rational's value proposition is difficult to match." 
+**Project management is one of the top 3 skills that employers are looking for in 2010. Are your skills up to date?** Get the latest on new and hot topics – from Agile to PMOs – at PMI's Mega SeminarsWorld®! Nearly 40 seminars packed into one "mega" professional development event. **[Reserve your seat today!](http://www.gantthead.com/redirect/clickCount.cfm?ID=256429)**
 
-**Microsoft Project Conference 2000**  
-Exclusively disclosing the powerful capabilities included in Microsoft Project 2010 and Microsoft Enterprise Project Management (EPM) Solutions while providing real world guidance on how Microsoft Project 2007 and Microsoft EPM Solutions are helping customers today with project and portfolio management **to save money, enhance efficiency and prepare for future growth**. **[Register Today!](http://www.gantthead.com/redirect/clickCount.cfm?ID=249749)**
+**NEW! Gartner Customer 360 Summit** , June 28-30, is a **must-attend CRM conference** designed to help **business and IT leaders** collaborate in implementing CRM strategies and technologies to understand, grow and engage customers. **[Save $300 when you register with priority code CRMGH at gartner.com/us/crm](http://www.gantthead.com/redirect/clickCount.cfm?ID=256483)**
 
-**Use WorkLenz PPM to Manage Agile Software Development**  
-We invite you to download Métier’s latest white paper, **[_Agile Software Development with WorkLenz_](http://www.gantthead.com/redirect/clickCount.cfm?ID=250008)** , to learn how you can use WorkLenz to manage agile within your organization. 
+**Ten Things to Consider When Evaluating End-User Experience Monitoring Solutions**  
+End-user monitoring is an integral part of what organizations need to have in place when managing the performance of business-critical applications. **[This report](http://www.gantthead.com/redirect/clickCount.cfm?ID=255821)** highlights ten key items businesses should be aware of when evaluating end-user monitoring solutions. 
 
-"When angry, count to four; when very angry, swear."  
+"I'm not afraid to die, I just don't want to be there when it happens."  
 ---  
-\- Mark Twain
+\- Woody Allen
