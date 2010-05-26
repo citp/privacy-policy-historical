@@ -1,37 +1,37 @@
-<!--The following is the downloaded HTML source of the movieberry.com privacy policy that was archived on 2009-05-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090505034515id_/http%3A//movieberry.com/publication/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the movieberry.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526080709id_/http%3A//www.movieberry.com/publication/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
 	<link href="http://img.movieberry.com/style/style.css" rel="stylesheet" type="text/css">
+	<link href="http://img.movieberry.com/style/autocomplete.css" rel="stylesheet" type="text/css">
 	<link title="" type="application/rss+xml" rel="alternate" href="http://movieberry.com/rss/">
 	<script type="text/javascript" src="http://img.movieberry.com/js/prototype.js"></script>
+	<script type="text/javascript" src="http://img.movieberry.com/js/autocomplete.js"></script>
 	<script type="text/javascript" src="http://img.movieberry.com/js/controls.js"></script>
 	<script type="text/javascript" src="http://img.movieberry.com/style/ajax.js"></script>
-    <link href="http://img.movieberry.com/style/customstyle.css" rel="stylesheet" type="text/css">
-	<link rel="icon" href="/favicon.ico" type="image/x-icon">
-	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<script type="text/javascript" src="http://img.movieberry.com/js/cookie.js"></script>
+	    <link href="http://img.movieberry.com/style/customstyle.css" rel="stylesheet" type="text/css">
+	<link rel="icon" href="http://img.movieberry.com/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="http://img.movieberry.com/favicon.ico" type="image/x-icon">
+	<link rel="search" type="application/opensearchdescription+xml" title="Movieberry search plugin" href="/plugin/searchplugin.xml">
+	<link href="http://img.movieberry.com/style/camry.css" rel="stylesheet" type="text/css">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
 	
 
 	<title>Privacypolicy</title>
-<link href="style.css" rel="stylesheet" type="text/css">
 </head>
 <body>
 	<div id="pagebgd">
-		<a href="/the_matrix/" class="leftlink1">Matrix</a>
-		<a href="/the_terminator/" class="leftlink2">The Terminator</a>
-		<a href="/pulp_fiction/" class="leftlink3">Kill Bill</a>
-		<div class="rightLinkBlock">
-			<a href="/kung_fu_panda/" class="rightlink1">Kungfu Panda</a>
-			<a href="/walle/" class="rightlink2">Walle</a>
-			<a href="/batman/" class="rightlink3">Batman</a>
-		</div>        
+		
 		<div id="topgradient">
 			<div class="verticalpad">
 				<div class="outercontent">
 					<div class="innercontent">
 				<!--begining of page-->
 						<div id="page">
+
+							<div id="header">
 							<div class="logobgd">
 								<img src="http://img.movieberry.com/images/berry_opaque.jpg">
 							</div>
@@ -40,23 +40,44 @@
 									 <a href="/"><img src="http://img.movieberry.com/images/logo.jpg" alt=""></a>
 							</div>
 							<div id="otherleaf"></div-->
-							<div id="header">
+							
 								<div id="searchbox">
-									
+																			
 <div id="searchform">
-	<form id="search" action="/search/" method="GET">
+	<form id="search" action="http://www.movieberry.com/search/" method="GET">
 		<div class="adjust">
 			<a href="#" onclick="$('search').hide(); $('adv_search').show(); $('as_str').value = $('s_str').value; $('searchform').addClassName('nobg'); return false;">Advanced Search</a>
 		</div>
 		<div>
-			<input type="text" name="text" id="s_str" style="margin:0;" value=""><button type="submit" style="border: 0; margin:0; background: none; vertical-align: -8px"><img src="/images/go.gif"></button>
+			<input type="text" name="text" id="s_str" style="margin:0;" value="" autocomplete="off" onfocus="sAuto();"><button type="submit" style="border: 0; margin:0; background: none; vertical-align: -8px"><img src="/images/go.gif"></button>
 		</div>
 	</form>
+	
+        <script type="text/javascript">
+       	function sAuto(){
+		var options = {
+		script:'/search/suggest/?json=true&limit=10&',
+		varname:'query',
+		json:true,
+		maxresults:10,
+		callback: function (obj) { 
+			//$('json_info').update('you have selected: '+obj.id + ' ' + obj.value + ' (' + obj.info + ')'); 
+		}
+		};
+		var json=new AutoComplete('s_str',options);
+		return true;
+	}
+        </script>
+
+	
+    
+	
     <form id="adv_search" style="display: none;" action="/search/" method="GET">
     	<input type="hidden" name="a" value="1">
 		<div style="padding-top: 15px; //padding-top: 14px;  margin-bottom: 2px;">
-    	<select name="year" class="year">
+    	<select id="search_year" name="year" class="year" style="width:auto;">
     		<option value="">Year</option>
+    		    			<option value="2010">2010</option>
     		    			<option value="2009">2009</option>
     		    			<option value="2008">2008</option>
     		    			<option value="2007">2007</option>
@@ -136,77 +157,121 @@
     		    			<option value="1933">1933</option>
     		    			<option value="1932">1932</option>
     		    			<option value="1931">1931</option>
+    		    			<option value="1930">1930</option>
+    		    			<option value="1929">1929</option>
+    		    			<option value="1928">1928</option>
     		    			<option value="1927">1927</option>
+    		    			<option value="1926">1926</option>
+    		    			<option value="1925">1925</option>
+    		    			<option value="1924">1924</option>
+    		    			<option value="1923">1923</option>
+    		    			<option value="1922">1922</option>
+    		    			<option value="1921">1921</option>
+    		    			<option value="1920">1920</option>
+    		    			<option value="1919">1919</option>
+    		    			<option value="1918">1918</option>
+    		    			<option value="1917">1917</option>
+    		    			<option value="1916">1916</option>
+    		    			<option value="1915">1915</option>
+    		    			<option value="1914">1914</option>
+    		    			<option value="1911">1911</option>
+    		    			<option value="1909">1909</option>
+    		    			<option value="1906">1906</option>
+    		    			<option value="1905">1905</option>
     		    	</select>
-    	<select name="genre" class="genre">
+    	<select id="search_genre" name="genre" class="genre" style="width:auto;">
     		<option value="">Genre</option>
-    		    			<option value="1">Action</option>
-    		    			<option value="2">Adventure</option>
-    		    			<option value="18">Animation</option>
-    		    			<option value="13">Biography</option>
-    		    			<option value="3">Comedy</option>
-    		    			<option value="8">Crime</option>
-    		    			<option value="15">Documentary</option>
-    		    			<option value="5">Drama</option>
-    		    			<option value="19">Family</option>
-    		    			<option value="17">Fantasy</option>
-    		    			<option value="22">Film-Noir</option>
-    		    			<option value="24">Game-Show</option>
-    		    			<option value="6">History</option>
-    		    			<option value="10">Horror</option>
-    		    			<option value="16">Music</option>
-    		    			<option value="21">Musical</option>
-    		    			<option value="14">Mystery</option>
-    		    			<option value="26">News</option>
-    		    			<option value="25">Reality-TV</option>
-    		    			<option value="12">Romance</option>
-    		    			<option value="11">Sci-Fi</option>
-    		    			<option value="23">Short</option>
-    		    			<option value="20">Sport</option>
-    		    			<option value="9">Thriller</option>
-    		    			<option value="7">War</option>
-    		    			<option value="4">Western</option>
+    		    			<option value="Action">Action</option>
+    		    			<option value="Adult">Adult</option>
+    		    			<option value="Adventure">Adventure</option>
+    		    			<option value="Animation">Animation</option>
+    		    			<option value="Biography">Biography</option>
+    		    			<option value="Comedy">Comedy</option>
+    		    			<option value="Crime">Crime</option>
+    		    			<option value="Documentary">Documentary</option>
+    		    			<option value="Drama">Drama</option>
+    		    			<option value="Family">Family</option>
+    		    			<option value="Fantasy">Fantasy</option>
+    		    			<option value="Film-Noir">Film-Noir</option>
+    		    			<option value="Game-Show">Game-Show</option>
+    		    			<option value="History">History</option>
+    		    			<option value="Horror">Horror</option>
+    		    			<option value="Music">Music</option>
+    		    			<option value="Musical">Musical</option>
+    		    			<option value="Mystery">Mystery</option>
+    		    			<option value="News">News</option>
+    		    			<option value="Reality-TV">Reality-TV</option>
+    		    			<option value="Romance">Romance</option>
+    		    			<option value="Sci-Fi">Sci-Fi</option>
+    		    			<option value="See more">See more</option>
+    		    			<option value="Short">Short</option>
+    		    			<option value="Sport">Sport</option>
+    		    			<option value="Talk-Show">Talk-Show</option>
+    		    			<option value="Thriller">Thriller</option>
+    		    			<option value="War">War</option>
+    		    			<option value="Western">Western</option>
     		    	</select>
-    	<select name="country" class="country">
+    	<select id="search_country" name="country" class="country" style="width:auto;">
     		<option value="">Country</option>
     		    			<option value="argentina">Argentina</option>
     		    			<option value="aruba">Aruba</option>
     		    			<option value="australia">Australia</option>
     		    			<option value="austria">Austria</option>
     		    			<option value="belgium">Belgium</option>
+    		    			<option value="bosnia and herzegovina">Bosnia and Herzegovina</option>
+    		    			<option value="botswana">Botswana</option>
+    		    			<option value="brazil">Brazil</option>
     		    			<option value="bulgaria">Bulgaria</option>
     		    			<option value="canada">Canada</option>
     		    			<option value="china">China</option>
+    		    			<option value="croatia">Croatia</option>
     		    			<option value="czech republic">Czech Republic</option>
     		    			<option value="denmark">Denmark</option>
+    		    			<option value="estonia">Estonia</option>
     		    			<option value="finland">Finland</option>
     		    			<option value="france">France</option>
     		    			<option value="germany">Germany</option>
+    		    			<option value="greece">Greece</option>
     		    			<option value="hong kong">Hong Kong</option>
     		    			<option value="hungary">Hungary</option>
+    		    			<option value="iceland">Iceland</option>
     		    			<option value="india">India</option>
+    		    			<option value="indonesia">Indonesia</option>
     		    			<option value="ireland">Ireland</option>
     		    			<option value="israel">Israel</option>
     		    			<option value="italy">Italy</option>
+    		    			<option value="jamaica">Jamaica</option>
     		    			<option value="japan">Japan</option>
+    		    			<option value="lebanon">Lebanon</option>
     		    			<option value="luxembourg">Luxembourg</option>
+    		    			<option value="malaysia">Malaysia</option>
     		    			<option value="mexico">Mexico</option>
     		    			<option value="netherlands">Netherlands</option>
     		    			<option value="new zealand">New Zealand</option>
+    		    			<option value="nigeria">Nigeria</option>
     		    			<option value="norway">Norway</option>
+    		    			<option value="peru">Peru</option>
+    		    			<option value="philippines">Philippines</option>
     		    			<option value="poland">Poland</option>
+    		    			<option value="portugal">Portugal</option>
     		    			<option value="romania">Romania</option>
     		    			<option value="russia">Russia</option>
+    		    			<option value="serbia">Serbia</option>
+    		    			<option value="singapore">Singapore</option>
+    		    			<option value="slovakia">Slovakia</option>
     		    			<option value="south africa">South Africa</option>
     		    			<option value="south korea">South Korea</option>
     		    			<option value="soviet union">Soviet Union</option>
     		    			<option value="spain">Spain</option>
     		    			<option value="sweden">Sweden</option>
+    		    			<option value="switzerland">Switzerland</option>
     		    			<option value="taiwan">Taiwan</option>
     		    			<option value="thailand">Thailand</option>
+    		    			<option value="turkey">Turkey</option>
     		    			<option value="uk">UK</option>
     		    			<option value="usa">USA</option>
     		    			<option value="west germany">West Germany</option>
+    		    			<option value="yugoslavia">Yugoslavia</option>
     		    	</select>
     	</div>
 		<div>
@@ -214,27 +279,27 @@
 		</div>
     </form>
 </div>
-									<script>
+																		<script>
 	var is_authorized = false;
 </script>
 
 <a href="javascript:open_userbar('login')" class="login"></a>
 <a href="javascript:open_userbar('register')" class="signup"></a>
 
-									<!--div class="entersign">
-										 <a href=""><img src="http://img.movieberry.com/images/enter.gif" alt=""></a><a href=""><img src="http://img.movieberry.com/images/signup.gif" alt=""></a>
-									</div-->
 								</div>
+								<div class="pusher"></div>
 
 								<div style="padding:0 150px 0 20px;border-top:1px solid #fff;border-bottom:1px solid #fff;zoom:1;">
 									<ul class="nav">
-										<li><a href="/"><span>Main</span></a></li>
-										<li><a href="/genre/"><span>Genres</span></a></li>
-										<li><a href="/actors/"><span>Actors</span></a></li>
-										<li><a href="/countries/"><span>Countries</span></a></li>
-										<li><a href="/years/"><span>Years</span></a></li>
-										<li><a href="/series/"><span>TV Series</span></a></li>
+										<li id="main_tab_main"><a href="/"><span>Main</span></a></li>
+										<li id="main_tab_genres"><a href="/genre/"><span>Genres</span></a></li>
+										<li id="main_tab_actors"><a href="/actors/"><span>Actors</span></a></li>
+										<li id="main_tab_countries"><a href="/countries/"><span>Countries</span></a></li>
+										<li id="main_tab_years"><a href="/years/"><span>Years</span></a></li>
+										<li id="main_tab_series"><a href="/series/"><span>TV Series</span></a></li>
+										<li id="main_tab_shows"><a href="/shows/"><span>TV Shows</span></a></li>
 										<li><a href="/animation_genre18/"><span>Animation</span></a></li>
+										<li id="main_tab_hd"><a href="/hd/"><span>HD Movies</span></a></li>
 									</ul>
 								</div>
 							</div>
@@ -244,126 +309,192 @@
                                          	<div id="history" style="padding: 10px; background: none;">
 			<div class="title">Privacy  Policy</div>
 <br>
-<p>By registering on MovieBerry.com,  you agree to follow all the rules and accept  sole responsibility. If you disagree with any point of the  Agreement you should not subscribe to MovieBerry.com. Site Administration  reserves the right to change registration procedure or service rendering way. </p>
+<p>By registering on MovieBerry.com, you agree with the terms and conditions of using it. If you disagree with any clause of this Agreement, please be advised not to subscribe to MovieBerry.com. The Website Administration reserves the right to change registration procedure or the way the services are rendered.  </p>
 <br>
 <p><b>IP address</b><br>
-The particularity of  Internet industry requires us to follow  the statistics<strong> </strong>on Customers  IP addresses. The information helps us to deliver a superior level of customer  service. It enables us to provide you with services that are of the most  interest for you. IP address collecting also helps us to identify and solve  technical problems. MovieBerry.com takes all necessary precautions to safeguard  your personal information against loss, theft, and misuse, as well as  unauthorized access, disclosure, alteration and destruction.</p>
+Due to the Internet specifics, we have to collect the statistics on the Customers' IP addresses. This information helps us to deliver the best quality services that are particularly interesting for you. IP addresses collecting also helps us to identify and solve technical problems. MovieBerry.com takes all necessary precautions to safeguard your personal information against loss, theft, misuse, unauthorized access, disclosure, alteration or destruction.</p>
 <br>
 <p><b>Cookies</b><br>
-According to the  common practice accepted in the Internet, MovieBerry.com Administration uses  cookies. It helps us to understand which parts of our site are the most popular  and what services are mostly required. Cookies are not used to elicit any  private information such as Clients login or password. Disabling cookies may interrupt your access to some of the MovieBerry.com resources. </p>
+According to the Internet common practice, MovieBerry.com's Administration uses cookies. This helps us to understand which parts of our website are most popular and which services are highly demanded. Cookies are not used to elicit any private information such as the Customer's login or password. Disabling cookies may result in hampering your access to some of MovieBerry.com's resources.  </p>
 <br>
 <p><b>Your personal information</b><br>
-Anytime you interact with  MovieBerry.com the site Administration get access to your personal data such as  downloads, e-mail address, correspondence, statistics etc. Your personal information enables us to keep  you posted about new releases and events that you might like to hear about. Your  privacy is a priority at MovieBerry.com and we do our best to protect it. The MovieBerry.com  Administration undertakes not to disclose any data without Clients permission.</p>
+Every time you refer to MovieBerry.com, the Website Administration gets access to your personal data on our Website such as lists of downloads, e-mail address, statistics, etc. Your personal data help us to keep you informed about new releases and events that you might be interested in. Your privacy is of the highest priority for MovieBerry.com, and we do our best to protect it. MovieBerry.com's Administration undertakes not to disclose any data without Customer's permission.</p>
 <br>
 <p><b>Your financial information</b><br>
-Paying for the Site  services, the Client has to notify the Administration of preferable payment  method. SWREG provides all payments on MovieBerry.com. The Site Administration is not informed about  payment details. The Site Administration agrees to treat all other the  financial data confidentially. </p>
+When paying for the Website services, the Customer has to notify the Administration about the preferred payment method. The credit card processing company for MovieBerry.com is SWREG. The Website Administration do not disclose your payment details. The Website Administration undertakes to keep all other financial information confidential. </p>
 
 </div>
                                     </div>
-									                                    <div class="right-ext">
-										<div id="slider">
-<a href="#" class="prev" onclick="return Slider.prev(1)"></a>
-<a href="#" class="next" onclick="return Slider.next(1)"></a>
-<div id="slide" style="width: 1890px; margin-left: -270px;">
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/2300/cover_big.jpg)">
-			<div class="title">
-				<h2>College Road Trip</h2>
-		        <div class="genres">
-	                	                        <a href="/comedy_genre3/">Comedy</a>, 	                	                        <a href="/family_genre19/">Family</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
+																		<div class="right-ext">
+										 
+		<div class="camry_banner_2">
+			<div class="camry_banner_container">
+				<a href="/lottery/about/"></a>
 			</div>
-	    <a href="/college_road_trip/" class="link"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/2749/cover_big.jpg)">
-			<div class="title">
-				<h2>The Dark Knight</h2>
-		        <div class="genres">
-	                	                        <a href="/action_genre1/">Action</a>, 	                	                        <a href="/crime_genre8/">Crime</a>, 	                	                        <a href="/thriller_genre9/">Thriller</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
-			</div>
-	    <a href="/the_dark_knight/" class="link"></a>
+										
+																					<link type="text/css" rel="stylesheet" href="http://img.movieberry.com/style/slider.css">
+<div id="slider">
+<div id="slide" style="width: 3240px; margin-left: -270px;">
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/47222/cover_big.jpg)">
+		        <a class="link" href="/alice_in_wonderland_2010/"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/1874/cover_big.jpg)">
-			<div class="title">
-				<h2>Journey to the Center of the Earth</h2>
-		        <div class="genres">
-	                	                        <a href="/action_genre1/">Action</a>, 	                	                        <a href="/adventure_genre2/">Adventure</a>, 	                	                        <a href="/drama_genre5/">Drama</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
-			</div>
-	    <a href="/journey_to_the_center_of_the_earth/" class="link"></a>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/51171/cover_big.jpg)">
+		        <a class="link" href="/iron_man_2/"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/9158/cover_big.jpg)">
-			<div class="title">
-				<h2>Hellboy II: The Golden Army</h2>
-		        <div class="genres">
-	                	                        <a href="/action_genre1/">Action</a>, 	                	                        <a href="/adventure_genre2/">Adventure</a>, 	                	                        <a href="/fantasy_genre17/">Fantasy</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
-			</div>
-	    <a href="/hellboy_ii_the_golden_army/" class="link"></a>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/52116/cover_big.jpg)">
+		        <a class="link" href="/robin_hood_2010/"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/2119/cover_big.jpg)">
-			<div class="title">
-				<h2>The Bank Job</h2>
-		        <div class="genres">
-	                	                        <a href="/thriller_genre9/">Thriller</a>, 	                	                        <a href="/crime_genre8/">Crime</a>, 	                	                        <a href="/drama_genre5/">Drama</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/uk">UK</a></div>
-			</div>
-	    <a href="/the_bank_job/" class="link"></a>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/51168/cover_big.jpg)">
+		        <a class="link" href="/a_nightmare_on_elm_street_2010/"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/2300/cover_big.jpg)">
-			<div class="title">
-				<h2>College Road Trip</h2>
-		        <div class="genres">
-	                	                        <a href="/comedy_genre3/">Comedy</a>, 	                	                        <a href="/family_genre19/">Family</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
-			</div>
-	    <a href="/college_road_trip/" class="link"></a>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/52096/cover_big.jpg)">
+		        <a class="link" href="/kick_ass/"></a>
 		</div>
-			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/2749/cover_big.jpg)">
-			<div class="title">
-				<h2>The Dark Knight</h2>
-		        <div class="genres">
-	                	                        <a href="/action_genre1/">Action</a>, 	                	                        <a href="/crime_genre8/">Crime</a>, 	                	                        <a href="/thriller_genre9/">Thriller</a>	                		        </div>
-		        <div class="info"><a href="/years/2008/">2008</a>, <a class="country" href="/countries/usa">USA</a></div>
-			</div>
-	    <a href="/the_dark_knight/" class="link"></a>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/57374/cover_big.jpg)">
+		        <a class="link" href="/death_at_a_funeral_70/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/55916/cover_big.jpg)">
+		        <a class="link" href="/clash_of_the_titans_70/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/51495/cover_big.jpg)">
+		        <a class="link" href="/how_to_train_your_dragon/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/49429/cover_big.jpg)">
+		        <a class="link" href="/hot_tub_time_machine/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/55781/cover_big.jpg)">
+		        <a class="link" href="/why_did_i_get_married_too/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/47222/cover_big.jpg)">
+		        <a class="link" href="/alice_in_wonderland_2010/"></a>
+		</div>
+			<div class="movie" style="background-image: url(http://img.movieberry.com/images/top_covers/51171/cover_big.jpg)">
+		        <a class="link" href="/iron_man_2/"></a>
 		</div>
 		<div style="clear: both"></div>
 </div>
+		<div id="hovermovie" class="hovermovie" style="display:block">
+		<p class="number"></p>
+		<h5 class="number_1"></h5>
+		<p class="number_2"></p>
+	</div>
+	<ul class="list" id="ul_list">
+		
+							
+									<li class="active"><a onclick="return Slider.slideMove(this,1);" param="01||Iron Man 2||Action, ||2010||USA||/iron_man_2/" href="#">01</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,2);" param="02||Robin Hood||Action, ||2010||USA||/robin_hood_2010/" href="#">02</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,3);" param="03||A Nightmare on Elm Street||Fantasy, ||2010||USA||/a_nightmare_on_elm_street_2010/" href="#">03</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,4);" param="04||Kick-Ass||Action, ||2010||USA||/kick_ass/" href="#">04</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,5);" param="05||Death at a Funeral||Comedy, ||2010||USA||/death_at_a_funeral_70/" href="#">05</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,6);" param="06||Clash of the Titans||Fantasy, ||2010||UK||/clash_of_the_titans_70/" href="#">06</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,7);" param="07||How to Train Your Dragon||Animation, ||2010||USA||/how_to_train_your_dragon/" href="#">07</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,8);" param="08||Hot Tub Time Machine||Comedy, ||2010||Canada||/hot_tub_time_machine/" href="#">08</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,9);" param="09||Why Did I Get Married...||Comedy, ||2010||USA||/why_did_i_get_married_too/" href="#">09</a></li>
+					
+									<li><a onclick="return Slider.slideMove(this,10);" param="10||Alice in Wonderland||Adventure, ||2010||USA||/alice_in_wonderland_2010/" href="#">10</a></li>
+					
+							
+			</ul>
 </div>
 
+
 <script>
+
 var slider_hovered = false;
 $("slider").observe('mouseover', function() { slider_hovered=true; });
 $("slider").observe('mouseout', function() { slider_hovered=false; });
+
+
+
+params = $$('#ul_list li a')[0].readAttribute('param').split('||');
+$$('#hovermovie p.number')[0].innerHTML = params[0];
+$$('#hovermovie h5.number_1')[0].innerHTML = params[1];
+$$('#hovermovie p.number_2')[0].innerHTML = params[2]+params[3]+", "+params[4];
 
 var Slider =
 {
 	start_position: -270,
 	current_position: -270,
 	next_position: -270,
-	max_position: -1350,
-
+	max_position: -((12-2)*270),
+	cur:0,
+	d: 0,
+	
 	slide: $('slide'),
 	moving: false,
 
+	slideMove: function(obj,n){
+		if (!this.moving) {
+			this.cur=n;
+			params = $(obj).readAttribute('param').split('||');
+
+			$$('#hovermovie p.number')[0].innerHTML = params[0];
+			$$('#hovermovie h5.number_1')[0].innerHTML = params[1];
+			$$('#hovermovie p.number_2')[0].innerHTML = params[2]+params[3]+", "+params[4];
+
+			/*
+			$$('#currentmovie img')[0].src="http://img.movieberry.com/images/slider/slider-number-"+params[0]+".gif";
+			$$('#currentmovie h5.number_1')[0].innerHTML = params[1];
+			$$('#currentmovie p.number_2')[0].innerHTML = params[2]+params[3]+", "+params[4];
+			$$('#currentmovie a.number_3')[0].href=params[5];
+			*/
+			this.slide.style.marginLeft = -(270*n) + 'px';
+			this.start_position = this.current_position = this.next_position = -(270*n);
+			
+			$$('#ul_list li.active')[0].removeClassName("active");
+			$(obj).up(0).className="active";
+			this.d=1;
+		}
+		return false;
+	},
+	
 	next: function(a)
-	{
-		//if(a==1){switcher.stop()};
+	{	
 		if(a == 1 || !slider_hovered ) {
-			if (!this.moving) {
+			if (!this.moving) { 
+				
+				this.cur++;
+				if(typeof $$('#ul_list li')[(this.cur-this.d)] == 'undefined') if(this.d==0) this.cur=0; else this.cur=1;
+				$$('#ul_list li.active')[0].removeClassName("active");
+				$$('#ul_list li')[(this.cur-this.d)].className="active";
+				params = $$('#ul_list li a')[(this.cur-this.d)].readAttribute('param').split('||');
+
+				$$('#hovermovie p.number')[0].innerHTML = params[0];
+				$$('#hovermovie h5.number_1')[0].innerHTML = params[1];
+				$$('#hovermovie p.number_2')[0].innerHTML = params[2]+params[3]+", "+params[4];
+
+				/*
+				$$('#currentmovie img')[0].src="http://img.movieberry.com/images/slider/slider-number-"+params[0]+".gif";
+				$$('#currentmovie h5.number_1')[0].innerHTML = params[1];
+				$$('#currentmovie p.number_2')[0].innerHTML = params[2]+params[3]+", "+params[4];
+				$$('#currentmovie a.number_3')[0].href=params[5];
+				*/
 				this.next_position -= 270;
 				this.update_slider();
+
+				
+				
 				}
 			return false;
-			} else if(a != 1 && slider_hovered) {}
+		} else if(a != 1 && slider_hovered) { }
 	}
 	,
 	prev: function(a)
 	{
+		
 		//if (a==1){switcher.stop()};
 		if (!this.moving)
 		{
+			this.cur--;
 			this.next_position += 270;
 			this.update_slider();
 		}
@@ -389,6 +520,7 @@ var Slider =
 		}
 		else
 		{
+			
 			this.start_position = this.current_position;
 			if (this.current_position == 0)
 			{
@@ -411,10 +543,11 @@ var Slider =
 	{
 		if (start > end)
 		{
+			
 			return position - 27;
 		}
 		else
-		{
+		{	
 			return position + 27;
 		}
 	}
@@ -423,78 +556,7 @@ var Slider =
 var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 10);
 </script>
 
-										<div class="board">
-	<div class="justadded">
-		<a href="/rss/" class="rssimg" target="_blank">rss</a>
-		<h2>Just Added</h2>
-	</div>
-	<div>
-		<table>
-							<tbody><tr>
-					<td><a class="cover_30" href="/toy_story/"><img src="http://img.movieberry.com/static/photos/12760/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/toy_story/" class="link">Toy Story</a> (1995)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/before_sunrise/"><img src="http://img.movieberry.com/static/photos/12566/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/before_sunrise/" class="link">Before Sunrise</a> (1995)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/a_bugs_life/"><img src="http://img.movieberry.com/static/photos/12565/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/a_bugs_life/" class="link">A Bug's Life</a> (1998)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/last_action_hero/"><img src="http://img.movieberry.com/static/photos/12564/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/last_action_hero/" class="link">Last Action Hero</a> (1993)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/are_you_scared/"><img src="http://img.movieberry.com/static/photos/12563/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/are_you_scared/" class="link">Are You Scared?</a> (2006)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/daredevil/"><img src="http://img.movieberry.com/static/photos/12562/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/daredevil/" class="link">Daredevil</a> (2003)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/sliver/"><img src="http://img.movieberry.com/static/photos/12561/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/sliver/" class="link">Sliver</a> (1993)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/south_pacific/"><img src="http://img.movieberry.com/static/photos/12560/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/south_pacific/" class="link">South Pacific</a> (1958)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/sin_70/"><img src="http://img.movieberry.com/static/photos/12559/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/sin_70/" class="link">Sin</a> (2003)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/amazon_women_on_the_moon/"><img src="http://img.movieberry.com/static/photos/12558/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/amazon_women_on_the_moon/" class="link">Amazon Women on the Moon</a> (1987)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/the_chase/"><img src="http://img.movieberry.com/static/photos/12557/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/the_chase/" class="link">The Chase</a> (1994)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/outside_providence/"><img src="http://img.movieberry.com/static/photos/12556/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/outside_providence/" class="link">Outside Providence</a> (1999)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/sun_valley_serenade/"><img src="http://img.movieberry.com/static/photos/12555/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/sun_valley_serenade/" class="link">Sun Valley Serenade</a> (1941)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/wasabi/"><img src="http://img.movieberry.com/static/photos/12554/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/wasabi/" class="link">Wasabi</a> (2001)</td>
-				</tr>
-							<tr>
-					<td><a class="cover_30" href="/the_return_of_a_man_called_horse/"><img src="http://img.movieberry.com/static/photos/12553/cover.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/the_return_of_a_man_called_horse/" class="link">The Return of a Man...</a> (1976)</td>
-				</tr>
-			
-		</tbody></table>
-	</div>
-</div>
-										<div class="board">
+											<div class="board">
 	<div class="popular">
 		<h2>Popular Actors</h2>
 	</div>
@@ -502,74 +564,165 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 		<table>
 							<tbody><tr>
 					<td class="number">1</td>
-					<td class="img_height"><a class="cover_30" href="/person9555/"><img src="http://img.movieberry.com/static//people/9555/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person9555/" class="link">Robert Pattinson</a></td>
+					<td class="img_height"><a class="cover_30" href="/person8834/"><img src="http://img.movieberry.com/static/people/8834/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person8834/" class="link">Megan Fox</a></td>
 				</tr>
 							<tr>
 					<td class="number">2</td>
+					<td class="img_height"><a class="cover_30" href="/person46086/"><img src="http://img.movieberry.com/static/people/46086/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person46086/" class="link">Gemma Arterton</a></td>
+				</tr>
+							<tr>
+					<td class="number">3</td>
+					<td class="img_height"><a class="cover_30" href="/person9203/"><img src="http://img.movieberry.com/static/people/9203/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person9203/" class="link">Robert Downey Jr.</a></td>
+				</tr>
+							<tr>
+					<td class="number">4</td>
+					<td class="img_height"><a class="cover_30" href="/person2598/"><img src="http://img.movieberry.com/static/people/2598/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person2598/" class="link">Scarlett Johansson</a></td>
+				</tr>
+							<tr>
+					<td class="number">5</td>
+					<td class="img_height"><a class="cover_30" href="/person9555/"><img src="http://img.movieberry.com/static/people/9555/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person9555/" class="link">Robert Pattinson</a></td>
+				</tr>
+							<tr>
+					<td class="number">6</td>
 					<td class="img_height"><a class="cover_30" href="/person1285/"><img src="http://img.movieberry.com/static/people/1285/small.jpg" width="22" height="30" alt=""></a></td>
 					<td class="link_ext"><a href="/person1285/" class="link">Kristen Stewart</a></td>
 				</tr>
 							<tr>
-					<td class="number">3</td>
-					<td class="img_height"><a class="cover_30" href="/person47832/"><img src="http://img.movieberry.com/static/people/47832/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person47832/" class="link">Zac Efron</a></td>
-				</tr>
-							<tr>
-					<td class="number">4</td>
-					<td class="img_height"><a class="cover_30" href="/person3315/"><img src="http://img.movieberry.com/static//people/3315/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person3315/" class="link">Taylor Lautner</a></td>
-				</tr>
-							<tr>
-					<td class="number">5</td>
-					<td class="img_height"><a class="cover_30" href="/person39425/"><img src="http://img.movieberry.com/static/people/39425/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person39425/" class="link">Nikki Reed</a></td>
-				</tr>
-							<tr>
-					<td class="number">6</td>
-					<td class="img_height"><a class="cover_30" href="/person896/"><img src="http://img.movieberry.com/static//people/896/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person896/" class="link">Johnny Depp</a></td>
-				</tr>
-							<tr>
 					<td class="number">7</td>
-					<td class="img_height"><a class="cover_30" href="/person4198/"><img src="http://img.movieberry.comIMAGES_PATH/people/4198/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person4198/" class="link">Hugh Jackman</a></td>
+					<td class="img_height"><a class="cover_30" href="/person5447/"><img src="http://img.movieberry.com/static/people/5447/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person5447/" class="link">Jake Gyllenhaal</a></td>
 				</tr>
 							<tr>
 					<td class="number">8</td>
-					<td class="img_height"><a class="cover_30" href="/person3264/"><img src="http://img.movieberry.com/static/people/3264/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person3264/" class="link">Jason Statham</a></td>
+					<td class="img_height"><a class="cover_30" href="/person896/"><img src="http://img.movieberry.com/static/people/896/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person896/" class="link">Johnny Depp</a></td>
 				</tr>
 							<tr>
 					<td class="number">9</td>
-					<td class="img_height"><a class="cover_30" href="/person311/"><img src="http://img.movieberry.com/static/people/311/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person311/" class="link">Channing Tatum</a></td>
+					<td class="img_height"><a class="cover_30" href="/person253/"><img src="http://img.movieberry.com/static/people/253/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person253/" class="link">Russell Crowe</a></td>
 				</tr>
 							<tr>
 					<td class="number">10</td>
-					<td class="img_height"><a class="cover_30" href="/person11067/"><img src="http://img.movieberry.com/static//people/11067/small.jpg" width="22" height="30" alt=""></a></td>
-					<td class="link_ext"><a href="/person11067/" class="link">Ashley Greene</a></td>
+					<td class="img_height"><a class="cover_30" href="/person11551/"><img src="http://img.movieberry.com/static/people/11551/small.jpg" width="22" height="30" alt=""></a></td>
+					<td class="link_ext"><a href="/person11551/" class="link">Amanda Seyfried</a></td>
 				</tr>
 			
 		</tbody></table>
 	</div>
 </div>
-									</div>
+																						
+
+
+<div class="board">
+	<div class="justadded">
+	<div class="ja-writ-note"></div>
+		<span class="rss"><a href="/rss.php" title="rss"><img alt="rss" src="http://img.movieberry.com/images/empty.gif"></a></span>
+		<span class="tweet"><a href="http://twitter.com/movieberry_com" target="_blank"><img alt="tweeter" src="http://img.movieberry.com/images/empty.gif"></a></span>
+		<h2>Latest Update</h2>
+		
+		<p>1 movies of <a href="/lastupdates/">1 added</a> 24 May 2010</p>
+	</div>
+	<div style="position: relative; padding-left:13px;">
+		<table>
+			<tbody>
+							<tr>
+					<td><a href="/the_crimson_wing_mystery_of_the_flamingos/" class="cover_30"><img height="30" width="22" alt="" src="http://img.movieberry.com/static/photos/61168/cover.jpg"></a></td>
+					<td class="link_ext"><a class="link" href="/the_crimson_wing_mystery_of_the_flamingos/">The Crimson Wing: Mystery of the Flamingos</a> (2009)</td>
+				</tr>
+								
+		</tbody></table>
+	</div>
+</div>
+
+
+
+											<div class="board">
+	<div class="best_users">
+		<h2>User rating</h2>
+	</div>
+	<div>
+		<table style="width:100%;">
+							<tbody><tr>
+					<td class="number">1</td>
+          <td class="nick">bryanfirst</td>
+					<td>84010</td>
+				</tr>
+							<tr>
+					<td class="number">2</td>
+          <td class="nick">gavin</td>
+					<td>64076</td>
+				</tr>
+							<tr>
+					<td class="number">3</td>
+          <td class="nick">4apples</td>
+					<td>38815</td>
+				</tr>
+							<tr>
+					<td class="number">4</td>
+          <td class="nick">filmfancier</td>
+					<td>29941</td>
+				</tr>
+							<tr>
+					<td class="number">5</td>
+          <td class="nick">jaye777</td>
+					<td>24574</td>
+				</tr>
+							<tr>
+					<td class="number">6</td>
+          <td class="nick">ET</td>
+					<td>10647</td>
+				</tr>
+							<tr>
+					<td class="number">7</td>
+          <td class="nick">cstavaru</td>
+					<td>10010</td>
+				</tr>
+							<tr>
+					<td class="number">8</td>
+          <td class="nick">raghu</td>
+					<td>9991</td>
+				</tr>
+							<tr>
+					<td class="number">9</td>
+          <td class="nick">mitchweight</td>
+					<td>8310</td>
+				</tr>
+							<tr>
+					<td class="number">10</td>
+          <td class="nick">kevin_62</td>
+					<td>8010</td>
+				</tr>
+			
+		</tbody></table>
+	</div>
+</div>
+																			</div>
 									                                    <div style="clear:both;font-size:0;"></div>
 								</div>
 							</div>
 							<div id="footer">
-								<div style="padding:0 150px 0 20px;	border-bottom:1px solid #fff;zoom:1;">
+								<div style="border-bottom:1px solid #fff;zoom:1;">
 									<ul class="nav">
 										<li><a href="/"><span>Main</span></a></li>
-										<li><a href="/publication/terms/">Terms of Use</a></li>
-										<li><a href="/publication/privacypolicy/">Privacy Policy</a></li>
-										<li><a href="/publication/refund/">Refund Policy</a></li>
-										<li><a href="/publication/contacts/">Contacts</a></li>
-										<li><a href="/publication/faq/">FAQ</a></li>
+										<li><a href="/publication/terms/" rel="nofollow">Terms of Use</a></li>
+										<li><a href="/publication/privacypolicy/" rel="nofollow">Privacy Policy</a></li>
+										<li><a href="/publication/refund/" rel="nofollow">Refund Policy</a></li>
+										<li><a href="/publication/contacts/" rel="nofollow">Contacts</a></li>
+										<li><a href="/publication/faq/" rel="nofollow">FAQ</a></li>
+										<li><a href="javascript:open_userbar('login','/user/service/')" rel="nofollow">Support</a></li>
+																				
 									</ul>
 								</div>
-								<p>© 2008 Movieberry.com All rights reserved</p>
+
+
+								<p>© 2009 - 2010 Movieberry.com All rights reserved</p>
+
 							</div>
 						</div>
 						<!--end of page-->
@@ -579,7 +732,7 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 		</div>
 	</div>
 	<div id="popup_dimmer" style="height: 1500px; width: 100%; display: none;"></div>
-<div id="authorization" style="width:460px;margin:50px auto;text-align:left; display: none; position: absolute; top: 100px; left: 35%;">
+<div id="authorization" style="width:460px;margin:50px auto;text-align:left; display: none; position: fixed; _position: absolute; top: 100px; left: 35%; z-index: 9999999">
 					<div class="menu popup-menu">
 						<ul class="nav">
 							<li><a href="javascript:open_userbar('register');"><span>Registration</span></a></li>
@@ -590,10 +743,20 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 
 	<div style="padding:0 10px;">
 		<form method="post">
-		 <input type="hidden" name="backward" value="/publication/privacypolicy/">		<input type="hidden" name="type" value="auth">
+		 <input id="auth_backward" type="hidden" name="backward" value="/publication/privacypolicy">		<input type="hidden" name="type" value="auth">
 		<table>
 			<tbody>
-								<tr>
+				
+				<tr>
+                    <td colspan="2" style="text-align: center; font-size: 12px;">
+                    	<div style="color: red;" id="alert_div_auth"></div>
+                    </td>
+                </tr>
+                
+                <tr>
+					<td colspan="2" align="left">Please type in your login and password:</td>
+				</tr>
+				<tr>
 					<th>Email:</th>
 					<td><input type="text" name="login" id="login_auth"></td>
 				</tr>
@@ -615,7 +778,7 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 
 
 </div>
-<div id="registration" style="width:460px; margin:50px auto; text-align:left; display: none; position: absolute; top: 100px; left: 35%;">
+<div id="registration" style="width:460px; margin:50px auto; text-align:left; display: none; position: fixed; _position: absolute; top: 100px; left: 35%;z-index: 9999998">
 	<div class="menu popup-menu">
 		<ul class="nav">
 			<li class="active"><a href="javascript:open_userbar('register');" class="active"><span>Registration</span></a></li>
@@ -624,13 +787,21 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 		</ul>
 	</div>
 	<div style="padding:0 10px;">
-		<form method="post" onsubmit="return check_registration(this)" action="http://movieberry.com/publication/privacypolicy/">
+		<form method="post" onsubmit="return check_registration(this)" action="http://movieberry.com/publication/privacypolicy">
 		<input type="hidden" name="type" value="registration">
-		<input type="hidden" name="backward" value="/publication/privacypolicy/">
+		<input type="hidden" name="backward" id="register_backward" value="/publication/privacypolicy">
 
 		<table>
 
 			<tbody>
+				<tr>
+                    <td colspan="2" style="text-align: center; font-size: 12px;">
+                    	<div style="color: red;" id="alert_div_reg"></div>
+                    </td>
+                </tr>
+				<tr>
+					<td colspan="2" align="left">Please fill in the following fields: </td>
+				</tr>
 				<tr>
 					<th>Email:</th>
 					<td>
@@ -650,6 +821,12 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 					<th>Retype:</th>
 					<td><input type="password" class="text" name="cpass"></td>
 				</tr>
+				<tr>
+				    <td>&nbsp;</td>
+				    <td><input type="checkbox" name="terms" value="agree" style="width:20px;" checked="checked"> I have read and understood the <a href="/publication/terms/" target="_blank">Terms of Use</a>. 				
+					<div class="post_error" id="reg_pass_error"></div>
+				    </td>
+				</tr>
 			</tbody>
 		</table>
 		<div style="text-align:center;"><button type="submit" style="border:0 none;margin:0;padding:0;background:none; "><img src="/images/continue.gif"></button></div>
@@ -661,7 +838,14 @@ var switcher = new PeriodicalExecuter(Slider.next.bindAsEventListener(Slider), 1
 
 
 
-
+	<div id="popup_dimmer" style="height: 100%; width: 100%; display: none;"></div>
+	<div id="trailer_player_position" style="display: none; ">
+		<div class="closer" id="player_closer"><a href="#" onclick="return closePlayer();"></a></div>
+		<div id="trailer_player"></div>
+	</div>
+	<div class="tone" id="toner"><div></div></div>
+	
+	
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -674,5 +858,67 @@ pageTracker._trackPageview();
 } catch(err) {}</script>
 
 
+<div id="postbox" style="display: none">
+    <div id="postbox_litter" class="blackLitter"></div>
+    <div id="postbox_post" class="postOpinion">
+        <h1><span>Enter opinion</span></h1>
+	<a class="close" href="javascript:close_post();" style="position:absolute; top:12px; left:596px;">
+	<img alt="" src="/images/close.gif" style="border:0px;">
+	</a>
+        <form action="" method="post">
+            <input type="hidden" name="review" value="1">
+            <div class="opWrapper">
+                <div class="row">
+                    <p>Nickname</p>
+                                            <input type="text" value="" name="nick_name" class="textfield">
+                                    </div>
+                <div class="row">
+                <table>
+                	<tbody><tr>
+                	<td>
+	                    <p>Subject</p>
+	                    <input type="text" value="" name="title" class="textfield">
+	                 </td>
+	                 <td style="padding-left:30px;">
+	                    <p>Grade</p>
+	                    <select name="grade" style="margin-bottom:19px; width:200px;">
+	                        <option value="6">A+</option>
+	                        <option value="5">B+</option>
+	                        <option value="4" selected="selected">C+</option>
+	                        <option value="3">D+</option>
+	                        <option value="2">E+</option>
+	                        <option value="1">F+</option>
+	                    </select>
+	                   </td>
+	                  </tr>
+	                 </tbody></table>
+                </div>
+                <div class="row">
+                    <p>Message</p>
+                    <textarea rows="2" cols="20" name="text"></textarea>
+                </div>
+                <div class="row footer">
+                    
+                    <p style="margin-bottom:10px;padding-right:20px;">
+                    <b>If you have any questions about the quality of the movie or some technical problems, please contact our technical <a href="/user/service/" rel="nofollow">support team</a>. The comments unrelated to your opinion about the movies will be removed by the Administration.</b>
+                    </p>
+                    <center>
+                    <div class="buttonWrapper">
+                        <div>
+                            <input type="submit" value="Post this comment" name="button" class="button">
+                        </div>
+                    </div>
+                    </center>
+                </div>
+            </div>
+            
+        </form>
+    </div>
+</div>
+
+<script>
+    </script>     <div class="available_formats_banner">
+		<a href="/publication/movie-formats/"><img alt="" src="http://img.movieberry.com/images/banners/available_formats_banner.jpg"></a>
+	</div>
 
 </body></html>
