@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2009-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090907153435id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheaptickets.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526055155id_/http%3A//www.cheaptickets.com/pagedef/content/legal/privacy05.jsp%3FpopupsDisabled%3Dfalse) for the most accurate reproduction.*
 
 # Privacy Policy on CheapTickets
 
@@ -108,7 +108,7 @@ _What Personal Information we collect_
 >
 >> If you are not a Member, you may elect to use our Site as a Guest. 
 >> 
->> If you Book Products or Services as a Guest, you must provide Personal Information to complete the booking (for example name, phone number or billing information) as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Book. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Book.
+>> If you Book Products or Services as a Guest, you must provide Personal Information to complete the booking (for example name, phone number or billing information) as required by the travel service provider(s). You must also provide an e-mail address, so that we can send you our welcome e-mail and a confirmation of the Booking. With the confirmation, we will provide you with a temporary password so that you can return to the Site if you wish to review information about your Booking.
 > 
 > **When you "Subscribe"**
 >
@@ -134,7 +134,7 @@ _What Personal Information we collect_
 > 
 > **When we send e-mails or e-newsletters**
 >
->> When we send e-mails, e-newsletters, or when you forward a promotion or search results to a third party, using the "Tell a Friend" feature, we may insert a pixel tag in the e-mail. Our Tell a Friend feature works in the following areas:
+>> When we send e-mails, e-newsletters, or when you forward a promotion or search results to a third party, using the "Tell a Friend" feature, we may insert a pixel tag in the e-mail. Our ??????Tell a Friend?????? feature works in the following areas:
 > 
 >   * If you tell a friend about a promotion or a flight that you found on our Site, a one-time email will be sent to your friend about this information. In these instances we do not store any of the names or email addresses of your friends. 
 >   * If you tell a friend about an itinerary that you booked through our Site, we will send your friend a one-time email with the requested information. In this instance we do not permanently store the names and email addresses of your friends and do not use that data for any additional marketing purposes.
@@ -207,7 +207,7 @@ _What Personal Information we collect_
 >>
 >>> We do not and will not, at any time, request your credit card information, Member ID, login password or national identification numbers in a non-secure or unsolicited e-mail or telephone communication.
 >>> 
->>> Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at [http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm](http://www.ftc.gov/bcp/conline/pubs/alerts/phishingalrt.htm). 
+>>> Identity theft and the practice currently known as "phishing" are of great concern to us. Safeguarding information to help protect you from identity theft is our priority. For more information about phishing, you may want to visit the Federal Trade Commission at <http://www.ftc.gov/bcp/edu/pubs/consumer/alerts/alt127.shtm>. 
 >> 
 >> 5\. 
 >> 
@@ -220,7 +220,7 @@ _What Personal Information we collect_
 >>>   * We may collaborate with other companies to offer you additional Products or Services, for example, through sweepstakes, raffles and promotions. We will share Personal Information that is necessary for these other companies to provide the Products or Services that you have requested. 
 >>> 
 >>> This policy does not cover the use of your Personal Information by these other companies. We encourage you to read a company's privacy policy before requesting any of its products or services. 
->>>   * To protect our Site and our rights under our [Terms and Conditions of Use](https://web.archive.org/pagedef/content/legal/terms05.jsp?popupsDisabled=false) ; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain. 
+>>>   * To protect our Site and our rights under our [Terms and Conditions of Use](https://web.archive.org/pagedef/content/legal/terms05.jsp?popupsDisabled=true) ; to protect ourselves against liability or prevent fraudulent activity; or where it is necessary to permit us to pursue available remedies or limit any damages that we may sustain. 
 >>>   * To effect a corporate transaction, in connection with the sale, merger, spin-off or other corporate reorganization of our corporation, where the information is provided to the new controlling entity in regular course of business. 
 >>>   * Where the information is public. 
 >>>   * To our insurers and to regulatory agencies. 
@@ -311,7 +311,7 @@ _What Personal Information we collect_
 >>>
 >>>> Third parties advertise on our Site, and we also contract with third parties to serve ads across the Internet. These third parties may serve ads about our products or services, or third party products or services in which, based on your Session Data, we or our business partners believe you may be interested. While we may share Session Data with third parties to help facilitate the serving of these ads, we do not share any Personal Information about you unless you give us permission to do so, separate from any permission you provide during the Member registration process. These third parties may seek to use cookies and pixel tags, including those collected on our Site, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. 
 >>>> 
->>>> When you click on a third partys link from our Site, you will leave our Site and will enter that third party's site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+>>>> When you click on a third party??????s link from our Site, you will leave our Site and will enter that third party's site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
 >>>> 
 >>>> **Opting-Out**
 >>>> 
@@ -353,7 +353,7 @@ _What Personal Information we collect_
 >  Trip Network, Inc. (d/b/a CheapTickets)  
 >  500 West Madison Street, Suite 1000, Chicago, IL 60661  
 >>> Telephone:| 888-922-8849 (within the United States)  
->  312-596-5794 (Outside the United States).   
+>  312 596-5786 (Outside the United States).   
 >>   
 >>   
 > 
