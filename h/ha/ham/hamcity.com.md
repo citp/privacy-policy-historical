@@ -1,191 +1,15 @@
-> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2009-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090223001210id_/http%3A//www.hamcity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hamcity.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526113315id_/http%3A//www.hamcity.com/store/pc/viewContent.asp%3Fidpage%3D6) for the most accurate reproduction.*
 
-# Hamcity.com - Ham City
+# Privacy Policy - HamCity / Ham Radio Equipment
 
-  |   
+|   
 ---  
   
-   
- [ **Amateur Radio Equipment**](https://web.archive.org/web/20090223001210id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=3)  
-
-
- * Bargain Box 
-
- * Refurbished / Restock / Used 
-
- Amplifiers
-
- Antenna Base Mounts
-
- Antenna Coaxial Switches
-
- Antenna Duplexers / Triplexers
-
- Antenna Kits
-
- Antenna Mobile Mounts
-
- Antenna Rotators
-
- Antenna Tuners
-
- Antennas Base
-
- Antennas Handheld BNC
-
- Antennas Handheld SMA
-
- Antennas Handheld Wide RX
-
- Antennas HF/VHF/UHF Portable
-
- Antennas Mobile
-
- Batteries
-
- Books / Audio / Software
-
- Cable Adapters
-
- Cable Assemblies
-
- Cable Connectors
-
- Cable Crimp / Strip Tools
-
- Cable Jumpers
-
- Cable, Rope, & Wire By Length
-
- Gift Certificates
-
- Handheld Accessories
-
- Handheld Radios
-
- Heil Sound
-
- HF / Satellite Accessories
-
- HF / Satellite Radios
-
- Internet Repeaters
-
- Kantronics (TNC)
-
- LDG Electronics
-
- Lido Mounts
-
- Lightning Protection
-
- Miracle Antenna
-
- Miscellaneous
-
- Mobile Accessories
-
- Mobile Radios
-
- Morse Code Equipment
-
- Power Supplies
-
- Program Software & Cable
-
- Testing Equipment
-
- West Mountain Radio  
-  
-   
- [ **Receiver/Scanner Equipment**](https://web.archive.org/web/20090223001210id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=28)  
-
-
- Antenna Mobile Mounts
-
- Antennas Base
-
- Antennas Handheld BNC
-
- Antennas Handheld SMA
-
- Antennas Mobile
-
- Base Accessories
-
- Base Receivers / Scanners
-
- Cable Adapters
-
- Cable Assemblies
-
- Cable Connectors
-
- Cable Crimp / Strip Tools
-
- Cable Jumpers
-
- Handheld Accessories
-
- Handheld Antenna Adapters
-
- Handheld Receivers / Scanners
-
- Hideaway Trunk
-
- PC Controlled Receivers
-
- Power Supplies  
-  
-   
- [ **Avionics/Marine Equipment**](https://web.archive.org/web/20090223001210id_/http%3A//www.hamcity.com/SearchResult.aspx?CategoryID=33)  
-
-
- Antenna Mobile Mounts
-
- Antennas Handheld BNC
-
- Antennas Handheld SMA
-
- Antennas Mobile
-
- Batteries
-
- Cable Adapters
-
- Cable Assemblies
-
- Cable Connectors
-
- Cable Crimp / Strip Tools
-
- Cable Jumpers
-
- Cases & Clips
-
- Chargers AC / DC Adapters
-
- Earpiece & Surveillance Mics
-
- Hand Speaker Mics
-
- Handheld Radios
-
- Headsets
-
- Miscellaneous
-
- Power Supplies  
-  
-   
-  
-| 
-
-**Privacy & Security**
-
 Hamcity.com is committed to protecting your privacy online. When shopping at Hamcity.com, we collect transactional or personally identifiable information from you, such as your name, telephone number, e-mail address, billing address, shipping address, credit card or other payment information. Any changes, corrections or updates to your transactional information can be edited during the purchase process. Hamcity.com does not sell, share or rent your transactional information to others except as described in this statement. However, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with an appropriate law enforcement investigation, current judicial proceeding, a court order or legal process served on our Web site.
 
-Hamcity.com uses customer information only for the purposes of processing and fulfilling orders, contacting purchasers to inform them of their order status, sending promotional information and enhancing the user experience. We occasionally partner with other third parties to provide intermediary services; however, these companies do not retain, share, store or use personally identifiable information for any secondary purposes. When the user purchases our products or services, we share names or other contact information necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Also, you may "opt out" of receiving most of these materials. Registering for the site entitles you to receive the Hamcity.com email newsletter (and other topical and promotional newsletters that we may develop), as well as other offers and communications that we feel may be of interest. You may opt out at any time by contacting us at [sales@hamcity.com](mailto:custsvc@hamcity.com), or by following the instructions contained in most communications. 
+Hamcity.com uses customer information only for the purposes of processing and fulfilling orders, contacting purchasers to inform them of their order status, sending promotional information and enhancing the user experience. We occasionally partner with other third parties to provide intermediary services; however, these companies do not retain, share, store or use personally identifiable information for any secondary purposes. When the user purchases our products or services, we share names or other contact information necessary for the third party to provide these services. These third parties are not allowed to use personally identifiable information except for the purpose of providing these services. Also, you may "opt out" of receiving most of these materials. Registering for the site entitles you to receive the Hamcity.com email newsletter (and other topical and promotional newsletters that we may develop), as well as other offers and communications that we feel may be of interest. You may opt out at any time by contacting us at 
+
+[sales@hamcity.com](mailto:sales@hamcity.com), or by following the instructions contained in most communications. 
 
 Hamcity.com stores information that is collected through cookies to create a profile of our user. A cookie is a piece of data stored on the user’s computer tied to information about the user. By setting a cookie on our site, users do not have to log in a password more than once, thereby saving time while shopping on our site; only Hamcity.com can access a cookie that we place. A profile is stored information that we keep on individual users that is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site and to direct pertinent marketing promotions to them; we do not share your profile with other third parties. 
 
@@ -195,35 +19,11 @@ When sensitive information (such as a credit card number) needs to be transmitte
 
 Hamcity.com will remain committed to protecting your privacy online. We may change our Privacy Policy from time to time. When such a change is made, we will post the revised Privacy policy on our website so please bookmark this page and check back periodically. If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users and customers via email and by posting an immediate notice on our Web site for at least 30 days.
 
-Questions can directed to [sales@hamcity.com](mailto:custsvc@hamcity.com) or may also be sent directly to the following address:  
+Questions can directed to 
+
+[sales@hamcity.com](mailto:sales@hamcity.com) or may also be sent directly to the following address:  
 Hamcity  
 Attn: Privacy Policy Compliance  
 5563 Sepulveda Blvd.   
 Culver City, CA 90230  
-  
----  
-|   
----  
-  
-**   Live Support Instant Message  
-  AIM & Yahoo:  HamcityIM  
-  MSN Messenger:   sales@hamcity.com**
 
-| **[Terms & Conditions](http://www.hamcity.com/termcond.aspx) | [ Privacy & Security](http://www.hamcity.com/privacy.aspx)  
-All Rights Reserved © 2004 HamCity.com ** | **Sales: (310) 390-8003   
-E-mail: sales@hamcity.com **  
-| 
-
-        
-  
----  
-  
-**Live Support Hours:    **
-
-**Mon~Fri: 9am~5pm PST, Sat & Sun: Closed PST**
-
-|           | 
-
-**Phone Sales Hours:**
-
-**Mon~Fri: 9am~5pm** **, Sat & Sun: Closed PST**
