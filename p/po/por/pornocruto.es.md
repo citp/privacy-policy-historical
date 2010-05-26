@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pornocruto.es privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218063701id_/http%3A//newconceptbusiness.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pornocruto.es privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526231519id_/http%3A//newconceptbusiness.com/privacy.htm) for the most accurate reproduction.*
 
 # NEW CONCEPT BUSINESS SL Official Website.
 
