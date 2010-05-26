@@ -1,67 +1,89 @@
-> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427092949id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buytimewarnercable.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526103955id_/http%3A//www.buytimewarnercable.com/privacy.aspx) for the most accurate reproduction.*
 
-# Time Warner Cable | We Compare, You Save™
+# Buy TimeWarnerCable.com
 
-  | 
+PRIVACY POLICY
 
-BuyTimeWarnerCable.com provides consumers a fast and efficient channel for purchasing Time Warner cable, Internet and phone services online. BuyTimeWarnerCable.com is an authorized retailer of Time Warner technology and communications products and services. BuyTimeWarnerCable.com will continue to run periodic specials and promotions to make the ordering of Time Warner online an even more rewarding experience.
+Please note that from time to time we may review and modify our Privacy Policy. As your visits to the Site will be subject to the Privacy Policy in effect at the time of your visit, please review this Privacy Policy regularly to ensure that you are aware of any modifications. 
 
-By visiting, using and submitting information to www.BuyTimeWarnerCable.com, you are accepting the practices described in this Privacy Policy. BuyTimeWarnerCable.com recognizes your right to know how your information is collected and shared, so BuyTimeWarnerCable.com created this Privacy Policy in order to demonstrate our firm commitment to disclose our current policies regarding your privacy and the use of your personally identifiable information. In addition, we take further measures to prevent unauthorized interception of your personally identifiable information, as outlined in this Privacy Policy. This Privacy Policy is for this website only and does not apply to the personal information provided to us for any other services our visitors choose to accept from related companies of BuyTimeWarnerCable.com.  
-**  
-(1) Security**  
-We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. However, in the unlikely event that an unauthorized third party compromises BuyTimeWarnerCable.com's security system, BuyTimeWarnerCable.com is not responsible for any occurrences or damages directly or indirectly caused by an unauthorized third party ability to view, use or disseminate your submissions or transmissions to www.BuyTimeWarnerCable.com, or your personally identifiable information.  
-**  
-(2) Visitor Information**  
-We collect only the domain name, but not the email address of non-subscribing visitors to our website; the email addresses of those who communicate with us via email; aggregate information on what pages consumers access or visit; user-specific information on what pages consumers access or visit; all necessary information submitted by a customer during the ordering process; and information volunteered by the consumer, such as survey information, personal information and/or site registrations.   
-The information we collect is used to improve the content of our website and to customize the content and/or layout of our pages for each individual visitor.  
-In the event of a national emergency or other similarly urgent situation, BuyTimeWarnerCable.com reserves the right to fully cooperate with the requests of government authorities and agencies and disclose to those entities all website user information and databases collected, compiled and/or maintained by BuyTimeWarnerCable.com.  
-**  
-(3) Cookies**  
-Like many other Internet Web sites, BuyTimeWarnerCable.com utilizes "cookies" to automatically track and store anonymous preferential information about you as you use and navigate www.BuyTimeWarnerCable.com. Registered users of this site may utilize advanced tracking features using cookies to enable site-specific features required by our shopping cart technologies. "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored on your hard drive by your Web browser. Cookies track your personal preferences and activities, but in no way contain or refer to any personally-identifiable information. Information collected from users by BuyTimeWarnerCable.com's cookies include, but is not limited to: (i) type of web browser; (ii) IP addresses; (iii) type of computer used; and (iv) home server domain names.  
-BuyTimeWarnerCable.com's use of cookies allows BuyTimeWarnerCable.com to aggregate certain information about its users. The aggregated information helps BuyTimeWarnerCable.com to serve you better by compiling user preferences and statistical data to improve the offerings and features of www.BuyTimeWarnerCable.com. BuyTimeWarnerCable.com may use the aggregated information to - among other things: (i) develop products; (ii) improve content; (iii) track and report advertising click-throughs; and (iv) customize website layouts. BuyTimeWarnerCable.com may also share, loan, rent, or sell this aggregated information to its affiliates and third parties, but keep in mind that the aggregated information contains absolutely no personally identifiable information.
+This policy is effective as of and was last updated on April 1, 2010
 
-If you do not want www.BuyTimeWarnerCable.com's cookies to be inserted into your hard drive, you can disable your hard drive's ability to accept and receive cookies through your web browser. However, keep in mind that if you disable your hard drive's ability to accept and receive cookies, you may not be able to fully utilize all of the features of www.BuyTimeWarnerCable.com.  
-**  
-(4) Clickstream Data**  
-We collect click-stream data and HTTP protocol elements through access logs. This information is not personally identifiable and is used for website and system administration including: research and development, user analysis and business decision-making.  
-**  
-(5) Links to Other Internet Web sites on www.BuyTimeWarnerCable.com**  
-www.BuyTimeWarnerCable.com may contain links to other Internet Web sites. This Privacy Policy applies solely to www.BuyTimeWarnerCable.com. BuyTimeWarnerCable.com makes no representations or warranties about, nor is it responsible for, the Privacy Practices of other Internet Web sites. When you enter a linked Internet website, BuyTime Warner.com encourages you to read the Privacy Policy of that linked website, as its Privacy Policy may differ substantially from that of this Privacy Policy.  
-**  
-(6) Privacy Policy Updates**  
-BuyTimeWarnerCable.com developed this Privacy Policy as a manifestation of our firm commitment to disclose our current privacy and confidentiality policies to you. However, the Internet is rapidly evolving. With this in mind, BuyTimeWarnerCable.com reserves the right to amend this Privacy Policy at any time in its sole discretion and without notice.  
-Any information we collect from you is subject only to our most current Privacy Policy. You are advised and encouraged to visit www.BuyTimeWarnerCable.com on a regular basis to review our most current Privacy Policy, and review any changes that may have been made. Unless you elect to opt-out of our Privacy Policy, you agree to be bound by our most current Privacy Policy, including any changes that have been made since you originally provided BuyTimeWarnerCable.com with information.
+**1\. General.**  
+This privacy policy (“Privacy Policy”) is designed to inform you about the type of information that BuyTimeWarnerCable (“BuyTimeWarnerCable”, “we,” “our” or “us”) may gather about or collect from you in connection with your use of BuyTimeWarnerCable.com (this “Site”). It also is intended to explain the conditions under which we use and disclose that information, and your rights in relation to that information. 
 
-If at any time you wish to opt-out of this Privacy Policy, please contact BuyTimeWarnerCable.com either at the postal address listed at the beginning of this Privacy Policy, or via email at: [info@BuyTime Warner.com](mailto:info@BuyTimeWarnerCable.com)   
-**  
-(7) Minors**  
-Children under the age of 18 are not eligible to use our services or transmit any personal information to us. Minors may only use this service in conjunction with a parent or guardian.
+**2\. Children**  
+This Site is not intended for children under 18 years of age. We do not knowingly collect personal information from children under 18. 
 
-**(8) Your Questions, Comments & Complaints**  
-Buy Time Warner .com encourages you to provide us with feedback regarding this Privacy Policy. If you have questions, comments or concerns regarding this Privacy Policy, please email us at: [info@BuyTimeWarnerCable.com](mailto:info@BuyTimeWarnerCable.com)  
-**  
-(9) Governing Law; Arbitration**  
-This Privacy Policy is governed and construed in accordance with the internal laws of the State of Florida, without regard for principles or conflicts of laws. Any civil action, claim, dispute or proceeding arising out of, or relating to, this Privacy Policy shall be referred to final and binding arbitration, before a single arbitrator, under the commercial arbitration rules of the American Arbitration Association in Broward County, Florida. You and BuyTimeWarnerCable.com shall select the arbitrator, and if you and BuyTimeWarnerCable.com are unable to reach agreement on selection of the arbitrator within thirty (30) days after the notice of arbitration is served, then the American Arbitration Association shall select the arbitrator.  
-Judgment upon any award rendered by the arbitrator shall be final, binding and conclusive upon you and BuyTimeWarnerCable.com, and your and BuyTimeWarnerCable.com's respective administrators, executors, legal representatives, successors and assigns, and may be entered in any court of competent jurisdiction. Notwithstanding the previous sentence, in no event shall either you or BuyTimeWarnerCable.com be entitled to punitive, special, indirect, or consequential damages, and both you and BuyTimeWarnerCable.com hereby waive your rights to any punitive, special, indirect, or consequential damages, including, but not limited to, damages for any loss of profit, revenue or business.
+**3\. Gathering, Use and Disclosure of Non-Personally-Identifying Information**  
+We collect both Non-Personally-Identifying Information and Personally-Identifying Information from you. “Non–Personally–Identifying Information” is information that, without the aid of additional information, cannot be directly associated with a specific person or entity. “Personally–Identifying Information,” by contrast, is information such as a name or email address that, without more, can be directly associated with a specific person or entity.
 
-**(10) Miscellaneous**  
-If any portion of this Privacy Policy is deemed unlawful, void or unenforceable by any arbitrator, this Privacy Policy as a whole shall not be deemed unlawful, void or unenforceable, but only that portion of this Privacy Policy that is unlawful, void or unenforceable shall be stricken from this Privacy Policy.  
-The headings contained in this Privacy Policy are for convenience or reference only, are not to be considered a part of this Privacy Policy, and shall not limit or otherwise affect in any way the meaning or interpretation of this Privacy Policy.  
-All covenants, agreements, representations and warranties made in this Privacy Policy, as may be amended by BuyTimeWarnerCable.com from time to time, shall survive your opting out of this Privacy Policy and the termination of this Privacy Policy.
+**A. Gathering Non-Personally-Identifying Information**
 
-This Privacy Policy represents the entire understanding and agreement between you and BuyTimeWarnerCable.com regarding the subject matter of this Privacy Policy, and supersedes all other previous agreements, understandings and/or representations regarding the same.
+**(i) Web Browsers**  
+Like most site operators, we gather from you Non-Personally-Identifying Information of the sort that web browsers, depending on their settings, may make available. That information includes your Internet Protocol (“IP”) address, operating system and browser type, and the locations of the web pages that you view right before arriving at, while navigating and immediately after leaving this Site.
 
-BuyTime Warner.com can be contacted at: 
+**(ii) Web Cookies**  
+A “Web Cookie” is a string of information that a site stores on your computer, and that your browser provides to this Site each time you submit a query to this site. We use Web Cookies to track the pages that you visit during each Site session, both to help us improve your experiences with this Site and to help us understand how this Site is being used. 
 
-| ****Phone:****  
----  
-| **1-866-863-4856**  
-Monday-Friday: 8am - 1am EST   
-Saturday: 8am - Midnight EST   
-Sunday: 10am-9pm EST  
-****Mail:****  
-| BuyTimeWarnerCable.com  
-3303 W. Commercial Blvd.  
-Fort Lauderdale, FL 33309  
-**Email:**  
-| [info@BuyTimeWarnerCable.com](mailto:info@BuyTimeWarnerCable.com)
+IF YOU DO NOT WISH TO HAVE WEB COOKIES PLACED ON YOUR COMPUTER, YOU SHOULD SET YOUR BROWSER TO REFUSE WEB COOKIES BEFORE ACCESSING THIS SITE, WITH THE UNDERSTANDING THAT CERTAIN FEATURES OF THIS SITE MAY NOT FUNCTION PROPERLY WITHOUT THE AID OF WEB COOKIES. IF YOU REFUSE WEB COOKIES, YOU ASSUME ALL RESPONSIBILITY FOR ANY RESULTING LOSS OF FUNCTIONALITY.
+
+**(iii) Web Beacons**  
+A “Web Beacon” is an object that is embedded in a web page. It is usually invisible to you but allows site operators to check whether you have viewed a particular web page or email communication. We may occasionally place Web Beacons on pages of this Site. You may not decline Web Beacons. However, they may be rendered ineffective by declining all cookies or modifying your browser setting to notify you each time a cookie is tendered and permit you to accept or decline cookies on an individual basis. 
+
+**B. Use of Non-Personally-Identifying Information**   
+We analyze Non–Personally–Identifying Information gathered from you to help us better understand how this Site is being used. By identifying patterns and trends in usage, we are able to better design this Site to improve your experiences, both in terms of content and ease of use.
+
+**C. Disclosure of Non-Personally-Identifying Information**  
+From time to time, we may also release the Non–Personally–Identifying Information gathered from you in the aggregate, such as by publishing a report on trends in the usage of this Site.
+
+**4\. Collection, Use and Disclosure of Personally–Identifying Information**  
+As defined above, Personally-Identifying Information is information that can be directly associated with a specific person or entity. We will only collect Personally-Identifying Information that you knowingly submit to us. We will not disclose Personally-Identifying Information to third parties unless we obtain your permission to do so at the time we collect it, except under the limited circumstances described below. 
+
+**A. Registration and Other Information Provided to Us**  
+When you register with this Site, you may be asked to disclose Personally–Identifying Information. You may also choose to submit Personally-Identifying Information to us when you send us an email. We collect only the information necessary to process your credit card payment and fulfill your requests. You acknowledge and agree that we may use and store information about you in accordance with our Privacy Policy. We may also process and store your Personal Information on a server located outside of your jurisdiction. By providing your Personal Information to us, you consent to the transfer of your information across national boundaries. If you do not consent to such transfer as well as the processing and storage of your Personal Information outside your jurisdiction, you should not provide Personal Information to us. 
+
+**We collect your:**  
+From time to time, we may also ask you to participate in surveys designed to help 
+
+  * Name
+  * Mailing and billing address
+  * E-mail address 
+  * Phone number
+  * Credit card number and expiration date 
+
+
+
+We use 128-bit SSL encryption to securely and automatically accept, process and manage online payments as well as to collect and store the Personal Information you provide to us. When you order products or services or provide us with information, you will be transferred to a secure server where this information is stored and managed. All of the Personal Information you provide is encrypted before it is sent to us.
+
+**B. Surveys**  
+From time to time, we may also ask you to participate in surveys designed to help us improve this Site. Any Personally-Identifying Information provided to us in connection with a survey will be used only in relation to that survey, and will be disclosed to third parties not bound by this Privacy Policy only in non-personally-identifying, aggregated form.
+
+**C. Other Disclosures**  
+Notwithstanding any other provision in this Privacy Policy, we will disclose Personally-Identifying Information in the following limited circumstances:
+
+**(i) Employees and Third Party Processors**  
+We will disclose Personally–Identifying Information to our employees, contractors, affiliates, vendors and suppliers who process Personally–Identifying Information on our behalf or participate with us in the provision or operation of this Site. 
+
+**(ii) By Law, to Protect Rights and to Comply with Our Policies**  
+We disclose Personally–Identifying Information if: (1) required to do so by law, or in response to a subpoena or court order; (2) we believe in our sole discretion that disclosure is reasonably necessary to protect against fraud, to protect our property or other rights, or the rights of other users, third parties or the public at large; or (3) we believe that you have abused the Site by using it to attack other systems or to gain unauthorized access to any other system, to engage in spamming or otherwise to violate applicable laws.
+
+**(iii) Business Transfers; Bankruptcy**  
+We reserve the right to transfer all Personally-Identifying Information in our possession to a successor organization in the event of a merger, acquisition, or bankruptcy or other transfer of all or a portion of our assets. Other than to the extent ordered by a bankruptcy or other court, the use and disclosure of all transferred Personally–Identifying Information will be subject to this Privacy Policy, or to a new privacy policy if you are given notice of that transfer. Personally-Identifying Information submitted or collected after a transfer, however, may be subject to a new privacy policy adopted by the successor organization. 
+
+**(iv) Marketing**  
+We may contact you by email or telephone about products and services that we think may be of interest to you. If you wish to opt out of receiving marketing emails from us, please follow the instructions at the bottom of each email. 
+
+**D. Security**  
+We take reasonable precautions to protect the security of your information. However, neither people nor security systems are foolproof. Therefore, while we use reasonable efforts to protect your Personally-Identifying Information, we cannot guarantee its absolute security.
+
+**E. Contests, Giveaways and other Promotions**  
+From time to time, we may offer Site users the opportunity to participate in contests, giveaways and other promotions. Any information submitted in connection with promotions will be subject to the terms of the promotion, not this Privacy Policy. You will be given the option to consent to the use of your Personally-Identifying Information at the time you sign up for the promotion. However, your participation in the promotion will not be conditioned on the consent to use your Personally-Identifying Information for purposes unrelated to the promotion. 
+
+**5\. Collection and Use of Information by Third Parties Not Covered By This Agreement**  
+Third parties are under no obligation to comply with this Privacy Policy with respect to Personally-Identifying Information and Non-Personally-Identifying Information that you provide directly to those third parties or that those third parties collect for themselves. We do not control third-party sites that may be accessible through this Site. Thus, this Privacy Policy does not apply to information provided to third party sites or gathered by the third parties that operate them. Before visiting a third party site, whether by means of a link on this Site or otherwise,, you should review its privacy policies and terms of use. 
+
+**6\. For Additional Information.**   
+Saveology.com, LLC maintains this Site from its headquarters in Ft. Lauderdale, Florida. If you have questions regarding our Privacy Policy or believe that our Privacy Policy has not been complied with respect to your Personal Information, please contact us as at [privacy@saveology.com](mailto:privacy@saveology.com).
+
+**7\. To Inspect, Change or Modify Your Personal Information:**  
+Upon request, Saveology.com, LLC will provide you with a readable copy of your personal information, although we may require proof of your identity before doing so. We will also modify the information that you have provided to us. To make such a request, contact us at [privacy@saveology.com](mailto:privacy@saveology.com). 
