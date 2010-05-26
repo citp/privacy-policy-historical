@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pennyandaggie.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217070641id_/http%3A//www.pennyandaggie.com/pages/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pennyandaggie.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164551id_/http%3A//www.pennyandaggie.com/pages/privacy.html) for the most accurate reproduction.*
 
 # Penny and Aggie
 
