@@ -1,19 +1,11 @@
-> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124132712id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logicalexpressions.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164109id_/http%3A//logicalexpressions.com/Privacy.htm) for the most accurate reproduction.*
 
 # Logical Expressions Privacy Policy
-
-Better Books  
-Painless Publishing
 
 ### Check out what readers  
 say about our writing...
 
-#237"I enjoy your weekly newsletter and the many tips to help us along with the computer."\- A.L.
-
-[](http://www.selfpublishersonlineconference.com/)
-
-[Visit SPOC  
-Live Long & Publish!](http://www.selfpublishersonlineconference.com/)
+#228"Thanks for the help you offer all of us non-computer experts!"\- C.A.
 
 | 
 
@@ -22,19 +14,24 @@ Live Long & Publish!](http://www.selfpublishersonlineconference.com/)
 At Logical Expressions, we know that you value your privacy, so we want you to know that your personal information is completely confidential. This privacy policy applies not only to our main Logical Expressions site ([http://www.logicalexpressions.com](http://www.logicalexpressions.com/)), but also to the other sites we produce, including (but not limited to):
 
   * The LEI Store - [http://shop.logicalexpressions.com](http://shop.logicalexpressions.com/)
-  * The Logical Web Publisher - [ http://www.pointclickpublish.com](http://www.pointclickpublish.com/)
+  * LEI Forum & Blog - [http://forum.logicalexpressions.com](http://forum.logicalexpressions.com/) & [http://blog.logicalexpressions.com](http://blog.logicalexpressions.com/)
+  * IdeaWeaver Software - [ http://www.ideaweaversoftware.com](http://www.ideaweaversoftware.com/)
+  * Self-Publishers Online Conference - [http://www.SelfPublishersOnlineConference.com](http://www.selfpublishersonlineconference.com/)
+  * National Association of Pet Rescue Professionals - [http://www.naprp.com](http://www.naprp.com/)
   * Computor Companion - [ http://www.computorcompanion.com](http://www.computorcompanion.com/)
   * Logical Tips (CC Tips) - [ http://www.logicaltips.com](http://www.logicaltips.com/)
-  * Web Business Success (book) - [ http://www.logicalebiz.com](http://www.logicalebiz.com/)
-  * IdeaWeaver Software - [ http://www.ideaweaversoftware.com](http://www.ideaweaversoftware.com/)
-  * Vegan Success (book) - [http://www.vegansuccess.com](http://www.vegansuccess.com/)
-  * Happy Hound (book) - [http://www.happyhoundbook.com](http://www.happyhoundbook.com/)
   * Many Veggie Recipes - [ http://www.manyveggierecipes.com](http://www.manyveggierecipes.com/)
   * Pet Tails - [http://www.pet-tails.com](http://www.pet-tails.com/)
   * Nerdy Musings - [http://www.nerdymusings.com](http://www.nerdymusings.com/)
   * Newsletter Help - [http://www.newsletterhelp.com](http://www.newsletterhelp.com/)
   * Sandpoint Insider - [ http://www.sandpointinsider.com](http://www.sandpointinsider.com/)
-  * Sandpoint Store - [http://www.sandpointstore.com](http://www.sandpointstore.com/)
+  * Web Business Success (book) - [ http://www.logicalebiz.com](http://www.logicalebiz.com/)
+  * Vegan Success (book) - [http://www.vegansuccess.com](http://www.vegansuccess.com/)
+  * Happy Hound (book) - [http://www.happyhoundbook.com](http://www.happyhoundbook.com/)
+  * Happy Tabby (book) - [http://www.happytabbybook.com](http://www.happytabbybook.com/)
+  * Publishize (book) - [http://www.publishize.com](http://www.publishize.com/)
+  * Logical Tips Series (books) - [http://www.logicalguides.com](http://www.logicalguides.com/)
+  * Funds to the Rescue (book) - [http://www.fundstotherescue.com](http://www.fundstotherescue.com/)
 
 
 
@@ -78,18 +75,23 @@ Logical Expressions, Inc.
 Sandpoint, Idaho 83864  
 Phone: 208-265-3636
 
-[Click to contact us by email](https://web.archive.org/web/20091124132712id_/http%3A//logicalexpressions.com/contact.asp)
+[Click to contact us by email](https://web.archive.org/web/20100526164109id_/http%3A//logicalexpressions.com/contact.asp)
 
 | 
 
-**As Seen in REDBOOK!**  
-[Check out the article about us ](http://www.redbookmag.com/your/letting-intuition-guide-you) in _Redbook Magazine_ (photos too!) 
-
 _You get TWO free reports **The 9 Lives of Content** and **7 Steps to Self Publishing Success** too!_  
 
+
+**Check Us Out in REDBOOK!**  
+[Read the article about us ](http://www.redbookmag.com/your/letting-intuition-guide-you) in _Redbook Magazine_ (photos too!) 
 
 [](http://www.bbbonline.org/cks.asp?id=10204251673723180)  
 Logical Expressions is a proud member of the BBB Online Reliability Program
 
   
+[](http://www.selfpublishersonlineconference.com/)
 
+[Visit SPOC  
+Live Long & Publish!](http://www.selfpublishersonlineconference.com/)  
+  
+---|---|---
