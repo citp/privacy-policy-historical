@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techvibes.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214022049id_/http%3A//www.techvibes.com/article/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techvibes.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093644id_/http%3A//www.techvibes.com/article/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Techvibes
+# Privacy Policy - Techvibes.com
 
 This privacy policy is to inform you on how the information collected on this website is used. Be sure to read this privacy policy before using our website or submitting any personal information and be aware that by using our website, you are accepting the practices described in this policy. We reserve the right to make changes to this website's policy at any time without prior notice. Be also aware that privacy practices set forth here are for this website only and do not apply for any other linking websites.
 
