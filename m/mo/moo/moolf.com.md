@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420212818id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moolf.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526024137id_/http%3A//www.moolf.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Moolf - Privacy Policy
-
-### Bookmark with:
-
-[](http://del.icio.us/post?url=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html&title=Privacy%20Policy)    [](http://digg.com/submit?url=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html&title=Privacy%20Policy)    [](http://reddit.com/submit?url=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html&title=Privacy%20Policy)    [](http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html)    [](http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html&title=Privacy%20Policy)    [](http://www.newsvine.com/_tools/seed?popoff=0&u=http%3A%2F%2Fwww.moolf.com%2Fprivacy-policy.html&title=Privacy%20Policy)
+# Privacy Policy
 
 **Privacy Policy**
 
@@ -50,7 +46,4 @@ To protect your privacy and security, we will also take reasonable steps to veri
  **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us. 
 
-|  [< Prev](http://www.moolf.com/cpx-interactive.html?catid=0)  
----  
-  
  
