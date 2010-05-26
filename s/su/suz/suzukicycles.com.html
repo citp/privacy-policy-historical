@@ -1,18 +1,36 @@
-<!--The following is the downloaded HTML source of the suzukicycles.com privacy policy that was archived on 2009-06-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090626051406id_/http%3A//www.suzukicycles.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suzukicycles.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526173132id_/http%3A//suzukicycles.com/Privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head id="theHead"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><meta name="CODE_LANGUAGE" content="C#"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta name="google-site-verification" content="xh9XGX82NTGgO_cV5cYYlc8mdV94XKLzPOC3GNVKGKk"><title>
 	Suzuki Cycles - Privacy
 </title><link rel="icon" type="image/x-icon" href="/favicon.ico"><link rel="Shortcut Icon" href="/favicon.ico">
+
+		<script type="text/javascript">
 		
-		<script type="text/javascript" src="/includes/js/prototype.js"></script>
-		<script type="text/javascript" src="/includes/js/jquery-1.js"></script>
-		<script type="text/javascript" src="/includes/js/tools.js"></script>
+			var staticUrl = 'http://static.suzukicycles.com';
+			var servicesUrl = 'http://services.suzukicycles.com';
+			
+			function ipLookup()
+			{
+				return '204.236.235.245';
+			}
+
+		</script>
+		
+		<script type="text/javascript">
+		function flyoverCookieExists()
+        {
+	        return (Cookies.Get("FlyOverDisplayed") != null);
+        }
+		</script>
+		
+		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/prototype.js"></script>
+		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/jquery-1.js"></script>
+		<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/tools.js?v=2"></script>
 		
 		<script type="text/javascript">
 		
 			jQuery.noConflict();
-			
 			var ie6Upgrade = false;
 
 		</script>
@@ -21,7 +39,6 @@
 			
 			Tools.LoadIncludeFile("layout.css?nocache=1", "css", null);
 			Tools.LoadIncludeFile("home.css", "css", null);
-			Tools.LoadIncludeFile("expando.css", "css", null);
 			Tools.LoadIncludeFile("dealers.css", "css", null);
 			Tools.LoadIncludeFile("popup.css", "css", null);
 			Tools.LoadIncludeFile("about.css", "css", null);
@@ -31,15 +48,16 @@
 			
 			Tools.LoadIncludeFile("scriptaculous.js", "js", null);
 			Tools.LoadIncludeFile("effects.js", "js", null);
-			Tools.LoadIncludeFile("nav.js", "js", null);
-			Tools.LoadIncludeFile("expando.js", "js", null);
-			Tools.LoadIncludeFile("accordion.js", "js", null);
-			Tools.LoadIncludeFile("popups.js", "js", null);
+			Tools.LoadIncludeFile("nav.js?v=4", "js", null);
 			Tools.LoadIncludeFile("AC_RunActiveContent.js", "js", null);
-			Tools.LoadIncludeFile("search-popup.js", "js", null);
-			Tools.LoadIncludeFile("dealer-popup.js", "js", null);
-			Tools.LoadIncludeFile("dealers.js", "js", null);
 
+			Tools.LoadIncludeFile("flyover.js?v=5", "js", null);				
+
+			function getLanguage()
+			{
+				return "en";
+			}
+			
 		</script>
 		
 		<style type="text/css">
@@ -98,9 +116,9 @@
 			
 			#flag-pin
 			{
-				width: 21px;
-				height: 22px;
-				background-image: url(/~/media/Suzuki/misc/flag%20pin.ashx?sc_lang=en);
+				width: 22px;
+				height: 23px;
+				background-image: url(/~/media/Suzuki/misc/flagpin.ashx?sc_lang=en);
 			}
 			
 		</style>
@@ -123,6 +141,7 @@
 			var newSearchLabel = "New Search";
 			var modifySearchLabel = "Modify Search";
 			var noResultsLabel = "No results were found.";
+	        var cityNotFoundLabel = "The city you entered could not be found. Please check the spelling and search again.";		
 			var tryAgainLabel = "Please try again.";
 			var broadenSearchLabel = "Please broaden your search.";
 			var enterSeparatedLabel = "Please enter a zip code or a city and state separated by a comma";
@@ -135,54 +154,19 @@
 			var wishListEmptyLabel = "Your shopping cart is currently empty.";
 			
 			var loadingText = "Loading...";
-			
-			function initializeAjaxObject() 
-			{
-				var object;
-				
-				try
-				{
-					object = new ActiveXObject("Msxml2.XMLHTTP");
-				}
-				catch (e)
-				{
-					try
-					{
-						object = new ActiveXObject("Microsoft.XMLHTTP");
-					}
-					catch (e)
-					{
-						object = null;
-					}
-				}
-				
-				if (object == null && typeof XMLHttpRequest != "undefined")
-				{	 
-					object = new XMLHttpRequest();
-				}
-				
-				return object;
-			}
 
-			function callEyeBlaster(activityId)
-			{
-				var ebRand = Math.random() + " ";
-				ebRand = ebRand * 1000000;
-
-				document.getElementById("eb").innerHTML = "<iframe src=\"HTTP://bs.serving-sys.com/BurstingPipe/ActivityServer.bs?cn=as&amp;ActivityID=" + activityId + "&amp;ifrm=1&amp;rnd=" + ebRand + "\" width=\"0\" height=\"0\" marginwidth=\"0\" marginheight=\"0\" hspace=\"0\" vspace=\"0\" frameborder=\"0\"  scrolling=\"no\" bordercolor=\"#000000\"></iframe>";	
-			}
-			
+			var YAPIKey = "eEZI3y3V34F0MwhiXSUDIYy50htNUJQcsVM8Ph3lclW9O3agd0JPxRKiwNkOTVm_WA--";
 		</script>
 
 		<!--[if lt IE 7]>
 		
 			<style type="text/css">
 			
-				@import "/includes/ie6hacks.css";
+				@import "http://static.suzukicycles.com/includes/ie6hacks.css";
 				
 			</style>
 			
-			<script type="text/javascript" src="unitpngfix.js"></script>
+			<script type="text/javascript" src="http://static.suzukicycles.com/includes/js/unitpngfix.js"></script>
 			
 			<script type="text/javascript">
 			
@@ -192,14 +176,63 @@
 			
 		<![endif]-->
 		
-			<script type="text/javascript" src="http://static.decipherinc.com/survey/qst/qst09006/stub.js"></script>
-			</head>
+		<meta name="title" content="Privacy Policy"><meta name="description" content="
+		<ul>
+<li><a id=&quot;top&quot; name=&quot;top&quot;></a><a class=&quot;privacyLink&quot; href=&quot;#limitation&quot;>Limitation on Scope of Contents</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#warranty&quot;>No Representation or Warranty</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#usage&quot;>Normal Website Usage</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#cookies&quot;>Use of Cookies</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#surveys&quot;>Surveys</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#personal&quot;>Collection of Personally Identifiable Information to Provide a Service or Correspondence</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#transmission&quot;>Transmission of Information</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#emails&quot;>E-news and Promotional E-mails</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#giveaways&quot;>Identifiable Information Collected Through Sweepstakes, Giveaways, or Promotional Events</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#copyright&quot;>Copyright/Trademark Ownership</a> </li>
+<li><a class=&quot;privacyLink&quot; href=&quot;#nosell&quot;>No Offer to Sell or Lease</a></li></ul>
+<p><br />Suzuki understands your concern with privacy and the collection and use of your personal information while visiting or interacting with the Suzuki.com Website. This document describes the policy of American Suzuki Motor Corporation (hereafter &quot;Suzuki&quot;) regarding information received about you during visits to the Suzuki Website. The amount and type of information which we receive depends on how you use the site. </p>
+<p>This Online Privacy and Use Policy was last updated on 01/27/05. The prior update occurred 11/01/04. For future updates to this Online Privacy and Use Policy please book mark this page and check back or send an e-mail to <a class=&quot;privacyLink&quot; href=&quot;mailto:privacy@suzuki.com&quot;>privacy@suzuki.com</a> with the words &quot;requesting notification of privacy policy updates&quot; in both the subject line and body of the email.</p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a></p><a name=&quot;limitation&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Limitation on Scope of Content</div>
+<p>The Suzuki Website contains information regarding Suzuki and its products and promotional programs. The Suzuki vehicles described in this site contain uniquely American specifications and equipment and are offered for sale only in the U.S.A. (excluding Hawaii). The promotional programs described in this site are available only in those states and territories of the U.S. (excluding Hawaii, Guam and Puerto Rico) specifically referred to within the description of the program. All pricing information referred to in this site is in U.S. dollars. </p>
+<p><b>The policies described in this Online Privacy and Use Policy do not apply to ASMC’s offline communications, data collection practices, or other activities.</b></p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;warranty&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>No Representation or Warranty</div>
+<p>Suzuki reserves the right to modify the information contained in this site at any time without notice. While Suzuki makes all reasonable efforts to ensure that all material on this site is correct, accuracy cannot be guaranteed and Suzuki does not assume any responsibility for the accuracy, completeness or authenticity of any information contained in this site. This site, and all information and materials contained herein, are provided to you &quot;as is&quot; and without warranty of any kind. This site may contain hypertext links to other World Wide Web sites which are completely independent of this site. Suzuki makes no representation or warranty as to the accuracy, completeness or authenticity of the information contained in any such hypertext link, and any hypertext link to the World Wide Web site of another person or entity shall not in any manner be construed as endorsement by Suzuki of such person's or entity's World Wide Web site, products or services. Your linking to any other off-site pages or other sites is at your own risk. Your confidential use of this site cannot be guaranteed by Suzuki. Suzuki shall not be responsible for any harm that you or any person may suffer as a result of a breach of confidentiality with respect to your use of this site or any information you transmit to this site. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;usage&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Normal Website Usage</div>
+<p>If you visit Suzuki's Website to read product information, we will gather and store certain information about your visit. The information that we collect does not personally identify you and cannot be linked back to you unless you decide at some point to identify yourself. If you are browsing, we may collect the following information: the type of browser and operating system used, the IP address, the date and time you access our site, the number of times you have accessed our site, whether your computer is enabled for Java or cookies, browser language, application and plug-ins, the pages you visit and if you linked to Suzuki.com from another website, the address of that website. We use this information to generate statistics and measure site activity to better provide you with a smooth and efficient experience in using our website. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a></p><a name=&quot;cookies&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot; align=&quot;left&quot;>Use of Cookies</div>
+<p align=&quot;left&quot;>Cookies are pieces of information that a Website transfers to an individual's hard drive for record-keeping purposes so that we may track site and user activity. The use of cookies is an industry standard and you will find them at most major Websites. By showing how and when visitors use the site, cookies help Suzuki to determine better which areas of our site are popular and which areas are not. Many improvements and updates to the site are based on such data as total number of visitors and pages viewed. Most browsers are initially set to accept cookies. If you'd prefer, you can set your browser to refuse cookies or to alert you when cookies are being sent. However, it is possible that some parts of our site will not function properly if you do so. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;surveys&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Surveys</div>
+<p>Periodically, we may request visitors to provide information and feedback in the form of surveys. These surveys are voluntary and the visitor always has the option to decline. Any information collected will be used to evaluate the products and services of Suzuki. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;personal&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Collection of Personally Identifiable Information to Provide a Service or Correspondence</div>
+<p>There are instances where Suzuki requests and collects information which may be personally identifiable to provide the website visitor a service or correspondence (e.g., e-newsletters, promotions, mailed brochures, and/or quick quotes). This personal information, such as name, mailing address, e-mail address, type of request, and possibly additional information, is collected and stored in a manner appropriate to the nature of the data, and may be passed on to our dealerships and fulfillment associates. Once our dealerships or fulfillment associates receive this information that data also becomes the property of the dealerships or fulfillment associates. Any request to opt out of future communications from such dealers or fulfillment associates must be made to the dealers or fulfillment associates directly.</p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;transmission&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Transmission of Information</div>
+<p>Transmission of information through our website can be unstable, unreliable and insecure. Suzuki makes every effort to ensure the secure collection and transmission of sensitive user information using industry-accepted data collection and encryption methodologies such as SSL (Secure Sockets Layer) and PGP (Pretty Good Privacy); there is a risk however, that information may be intercepted illegally.</p><a name=&quot;transmission&quot;></a>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a></p><a name=&quot;emails&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>E-news and Promotional E-mails</div>
+<p>We offer free newsletters such as our Suzuki e-news and occasionally send out promotional e-mails as a service to our visitors. We send e-mails only if the user has opted to receive communications from Suzuki through its websites or sweepstakes. If a user elects to use our referral service to inform a friend about our site, we ask the user for the friend's name and e-mail address. Suzuki will automatically send the friend a one-time e-mail inviting them to visit the site. Suzuki does not store this information and the information is used for the sole purpose of sending this one-time e-mail. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;giveaways&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Personally Identifiable Information Collected Through Sweepstakes, Giveaways, or Promotional Events</div>
+<p>There will be times when we offer sweepstakes, giveaways, or other promotional events through this website. In such cases, we may ask you for personally identifiable information in order to process your entry. There may be other times we request personally identifiable information. IN ALL SUCH CASES, WE RESERVE THE RIGHT TO SHARE PERSONALLY IDENTIFIABLE INFORMATION WITH CERTAIN CAREFULLY SELECTED ASSOCIATED COMPANIES, ALL OF WHOM HAVE AGREED TO ABIDE BY THE TERMS OF THIS ONLINE PRIVACY AND USE POLICY AND TO COMPLY WITH STATE AND FEDERAL LAW. SUCH ASSOCIATED COMPANIES MAY INCLUDE, WITHOUT LIMITATION, THE FOLLOWING: SWEEPSTAKES ADMINISTRATORS, OUR DEALER NETWORK, OR FINANCIAL INSTITUTIONS THAT PROVIDE FINANCIAL SERVICES IN CONNECTION WITH OUR PRODUCTS. BY ENTERING A SWEEPSTAKES OR GIVEAWAY CONTEST OR BY VOLUNTARILY SHARING YOUR PERSONALLY IDENTIFIABLE INFORMATION WITH US, YOU AGREE TO ALLOW US TO SHARE ANY AND ALL SUCH INFORMATION WITH OUR ASSOCIATED COMPANIES. IF YOU DO NOT AGREE TO THE SHARING OF SUCH INFORMATION, PLEASE DO NOT ENTER OUR SWEEPSTAKES, GIVEAWAYS, OR PROMOTIONAL EVENTS. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a> </p><a name=&quot;copyright&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>Copyright/Trademark Ownership</div>
+<p>This site © American Suzuki Motor Corporation (ASMC). You may use the information, text or graphics contained in this site only for your personal use and may not reproduce, adapt or publish it, in whole or in part, for any purpose without the express written consent of Suzuki Motor Corporation (SMC) or ASMC. The Suzuki mark and design are registered trademarks of SMC, and are used by license agreement with ASMC. The Suzuki mark and design may not be used, downloaded, copied or distributed in any way without the express written consent of SMC or ASMC. Certain images are provided by eVox Productions, LLC. These images are ©, eVox Productions, LLC. 2003-2004. All rights reserved. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a></p><a name=&quot;nosell&quot;></a>
+<div style=&quot;FONT-SIZE: 12px; FONT-WEIGHT: bold&quot;>No Offer to Sell or Lease; Consent to Terms of Online Privacy and Use Policy</div>
+<p>All of the information contained in this site is for information purposes only and in no way constitutes an offer to buy or sell Suzuki products. The purchase of any Suzuki vehicle or engine shall be subject to the terms and conditions of the applicable sale, lease or retail installment contract. The MSRPs (Manufacturer's Suggested Retail Prices) listed in this site exclude destination charges, government fees and dealer charges. This site shall not be used or relied upon by you as a substitute for information that is available to you from an authorized Suzuki Automobile, Motorcycle, ATV, Utility Vehicle or Marine dealer. By using this site, you signify your assent to the Suzuki Online Privacy and Use Policy. If you do not agree to this policy, please do not use this site. We reserve the right to change any part of the Suzuki Online Privacy and Use Policy. If you have questions or comments regarding the Suzuki Online Privacy and Use Policy, please contact Webmaster@suzuki.com and note Privacy and Use in the Subject line of the e-mail or contact us via mail by sending a letter to Suzuki.com Privacy Team, P.O. Box 1100, Brea, CA 92822-1100. </p>
+<p align=&quot;right&quot;><a class=&quot;privacyLink&quot; href=&quot;#top&quot;>Back To Top</a></p>"><link rel="image_src" href="http://www.suzukicycles.com/~/media/social/suzuki_fbicon.ashx">
+</head>
 	
 	<body>
 
 		<form name="frmMain" method="post" action="/Privacy.aspx" id="frmMain" style="position: relative;">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTI4NjA5OTg3N2RkWEhBSXSGWoLIarGZDL2v2oWrcSM=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTkzMTkzNzk5Mw9kFgICAQ9kFgICCQ8VOx5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb20gaHR0cDovL3NlcnZpY2VzLnN1enVraWN5Y2xlcy5jb20PMjA0LjIzNi4yMzUuMjQ1Hmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbR5odHRwOi8vc3RhdGljLnN1enVraWN5Y2xlcy5jb20eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tAmVuAmVuAzE5NQI3NQJlbgMxMTECZW4CNjECZW4DMTAyAmVuAjc0AmVuAzEyMAJlbgI3MwJlbgMxMTECZW4CNzYCZW4CMjICMjMCZW4HUHJvZHVjdAtBY2Nlc3NvcmllcwROZXdzEFZpZXcgQWxsIFJlc3VsdHMRTm8gcmVzdWx0cyBmb3VuZC4CZW4SRHJpdmluZyBEaXJlY3Rpb25zGFBsZWFzZSBlbnRlciBhIHppcCBjb2RlLixQbGVhc2UgZW50ZXIgYSB6aXAgY29kZSBvciBhIGNpdHkgYW5kIHN0YXRlLjxQbGVhc2Ugd2FpdCBmb3IgdGhlIHBhZ2UgdG8gbG9hZCBiZWZvcmUgcGVyZm9ybWluZyBhIHNlYXJjaC4SU2VhcmNoIFJlc3VsdHMgZm9yD1Nob3dpbmcgUmVzdWx0cwpOZXcgU2VhcmNoDU1vZGlmeSBTZWFyY2gWTm8gcmVzdWx0cyB3ZXJlIGZvdW5kLlRUaGUgY2l0eSB5b3UgZW50ZXJlZCBjb3VsZCBub3QgYmUgZm91bmQuIFBsZWFzZSBjaGVjayB0aGUgc3BlbGxpbmcgYW5kIHNlYXJjaCBhZ2Fpbi4RUGxlYXNlIHRyeSBhZ2Fpbi4bUGxlYXNlIGJyb2FkZW4geW91ciBzZWFyY2guQFBsZWFzZSBlbnRlciBhIHppcCBjb2RlIG9yIGEgY2l0eSBhbmQgc3RhdGUgc2VwYXJhdGVkIGJ5IGEgY29tbWEOSW52YWxpZCBlbnRyeSExQ29va2llcyBtdXN0IGJlIGVuYWJsZWQgdG8gdXNlIHRoZSBzaG9wcGluZyBjYXJ0LgZQYXJ0ICMGUmVtb3ZlBVRvdGFsJllvdXIgc2hvcHBpbmcgY2FydCBpcyBjdXJyZW50bHkgZW1wdHkuCkxvYWRpbmcuLi5EZUVaSTN5M1YzNEYwTXdoaVhTVURJWXk1MGh0TlVKUWNzVk04UGgzbGNsVzlPM2FnZDBKUHhSS2l3TmtPVFZtX1dBLS0eaHR0cDovL3N0YXRpYy5zdXp1a2ljeWNsZXMuY29tHmh0dHA6Ly9zdGF0aWMuc3V6dWtpY3ljbGVzLmNvbWQYAQUQSlNFcnJvck5vdGlmaWVyMQ8PZGRkGaE++sVO7ciLhX2tU6Rg+ad8NGo=">
 </div>
 
 
@@ -210,19 +243,23 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 //]]>
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
-<script src="/ScriptResource.axd?d=rO41gSGSxiPJp0qqHv005-RX1yDIIDfs9a_asN5q9lxU5oGaFo6TsuRGXAYTzXYrdCc3Q-t5tAYpPpDJOqs6C4gjo_crzWSmkdCg32cfmos1&amp;t=633627207979875000" type="text/javascript"></script>
+<script src="/WebResource.axd?d=I8a0aXmia9cTX_lco1wRAqqvQrVx1diTfS4E9o_UCQQEr7f94CxSfH_orCwY4qamwXYEpyBJzo9CI8g61Jgyvg2&amp;t=634097790600000000" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+JSErrorNotifier.initialize({'id': 'JSErrorNotifier1', 'exceptionMessage': 'An application error occurred but technical support was unable to be notified.'});//]]>
+</script>
+
+<script src="/ScriptResource.axd?d=1SzcPHDb2z_r-egcMbGvBSbqrxl5W8XpgnJYkUUyX0VVxkVuzsuBKkUM8Ic3CM78zisMLJjcxpWEO6guyx5OlZqwbmuCNC-cRb_a85q-ac81&amp;t=f216580" type="text/javascript"></script>
 		
+            
+	        
 			<div id="eb" style="height: 0px;"><!-- --></div>
-
 			
 			
-			<script type="text/javascript" src="http://api.maps.yahoo.com/ajaxymap?v=3.8&amp;appid=eEZI3y3V34F0MwhiXSUDIYy50htNUJQcsVM8Ph3lclW9O3agd0JPxRKiwNkOTVm_WA--"></script>
-			
-			<script type="text/javascript" src="/includes/js/loading.js"></script><div id="loading" style="position:fixed;z-index: 100;"><img src="/images/misc/loading-icon.gif" width="16" height="16" alt="loading icon">Loading...</div>
-			
+			<div><script type="text/javascript" src="http://static.suzukicycles.com/includes/js/loading.js"></script></div>
 			<div id="dhtmltooltip"></div>
-
-			<script type="text/javascript" src="/includes/js/tooltips.js"></script>
+            <div><script type="text/javascript" src="http://static.suzukicycles.com/includes/js/tooltips.js"></script></div>
+			
 			
 			<div id="background-top" class="background-top">
 			
@@ -230,9 +267,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 				
 					<div id="module">
 					
-						<div class="panel">
+						<div class="panel" id="module-panel">
 						
-							<div class="panel-top"><div id="suzuki"><a href="/"></a></div><div class="menu-nav" style="height:45px"><ul class="nav"><li><a href="/Product%20Lines/Cycles.aspx" id="cycles" class="nav-button"></a></li><li><a href="/Product%20Lines/ATVs.aspx" id="atvs" class="nav-button"></a></li><li><a href="/Accessories.aspx" id="accessories" class="nav-button"></a></li><li><a href="/Racing.aspx" id="racing" class="nav-button"></a></li><li><a href="/About.aspx" id="about" class="nav-button nav-active"></a></li></ul></div><div class="menu-search" id="menu_search"><ul class="navSearch"><li><a id="site-search-nav" href="javascript:void(0);" class="site-search-nav nav-button"></a><div id="search" class="search"></div></li><li><a id="dealer-search-nav" href="javascript:void(0);" class="dealer-search-nav nav-button"></a></li></ul></div></div>
+							<div class="panel-top"><div id="suzuki"><a href="http://suzukicycles.com"></a></div><div class="menu-nav" style="height:45px"><ul class="nav"><li><a href="http://suzukicycles.com/Product%20Lines/Cycles.aspx" id="cycles" class="nav-button"></a></li><li><a href="http://suzukicycles.com/Product%20Lines/ATVs.aspx" id="atvs" class="nav-button"></a></li><li><a href="http://suzukicycles.com/Accessories.aspx" id="accessories" class="nav-button"></a></li><li><a href="http://suzukicycles.com/Racing.aspx" id="racing" class="nav-button"></a></li><li><a href="http://suzukicycles.com/About.aspx" id="about" class="nav-button nav-active"></a></li></ul></div><div class="menu-search" id="menu_search"><ul class="navSearch"><li><a id="site-search-nav" href="javascript:void(0);" class="site-search-nav nav-button"></a><div id="search" class="search"></div></li><li><a id="dealer-search-nav" href="javascript:void(0);" class="dealer-search-nav nav-button"></a></li></ul></div></div>
 							
 							<div class="panel-body">
 							
@@ -244,12 +281,13 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 										
 											<script type="text/javascript">
 
+			// Expando.xslt
 			$("panel-body-content").style.background = "#fff url(/~/media/Headers/Default.ashx?sc_lang=en) no-repeat";
 
 		</script><script type="text/javascript">
 					var lefts   = [null, 80, 67, 30, 3];
 					var toLefts = [null, 70, 59, 24, 1];
-				</script><div id="expando" style="background-image: url(/~/media/Expando/ExpandoImages/Base.ashx?sc_lang=en);"><div id="expando-expanded"><script type="text/javascript">
+				</script><div id="expando" class="fixme" style="background-image: url(/~/media/Expando/ExpandoImages/Base.ashx?sc_lang=en);"><div id="expando-expanded"><script type="text/javascript">
 
 					if (AC_FL_RunContent == 0)
 					{
@@ -276,11 +314,11 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 							'allowScriptAccess','sameDomain',
 							'movie', '/~/media/Expando/expando.ashx?sc_lang=en',
 							'salign', '',
-							'FlashVars', 'isDhtml=true&amp;lang=en'
+							'FlashVars', 'isDhtml=true" /&gt;'
 						); //end AC code
 					}
 				
-				</script><noscript><div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="940" height="90" id="expandoFlash"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="/~/media/Expando/expando.ashx?sc_lang=en" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="FlashVars" value="isDhtml=true&amp;lang=en" /><embed src="/~/media/Expando/expando.ashx?sc_lang=en" FlashVars="isDhtml=true&amp;lang=en" quality="high" width="940" height="90" name="expandoFlash" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="opaque"></embed></object></div></noscript><div class="clear"></div></div><div class="motos" id="motos"><div class="elastic" style="background-image: url(/~/media/Expando/ExpandoImages/Expand.ashx?sc_lang=en);"></div><div class="cycles-image4"></div><div class="cycles-image3"></div><div class="cycles-image2"></div><div class="cycles-image1"></div></div><a href="javascript:void(0);" id="mask"></a></div>
+				</script><noscript><div><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" width="940" height="90" id="expandoFlash"><param name="allowScriptAccess" value="sameDomain" /><param name="allowFullScreen" value="false" /><param name="movie" value="/~/media/Expando/expando.ashx?sc_lang=en" /><param name="quality" value="high" /><param name="wmode" value="transparent" /><param name="FlashVars" value="isDhtml=true" /><embed src="/~/media/Expando/expando.ashx?sc_lang=en" FlashVars="isDhtml=true" quality="high" width="940" height="90" name="expandoFlash" align="middle" allowScriptAccess="sameDomain" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" wmode="opaque"></embed></object></div></noscript><div class="clear"></div></div><div class="motos" id="motos"><div class="elastic fixme" style="background-image: url(/~/media/Expando/ExpandoImages/Expand.ashx?sc_lang=en);"></div><div class="cycles-image4 fixme"></div><div class="cycles-image3 fixme"></div><div class="cycles-image2 fixme"></div><div class="cycles-image1 fixme"></div></div><a href="javascript:void(0);" id="mask"></a></div>
 											
 											<div id="dealer-popup" class="popup hidden">
 											
@@ -293,36 +331,36 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 													<tr>
 														<td class="left"></td>
 														<td class="content">
-														
-															<a class="hide" style="background-image: url(/~/media/Buttons/Hide.ashx?sc_lang=en);"></a>
+														    <div><a class="hide" id="hideDealerPopUp" style="background-image: url(/~/media/Buttons/Hide.ashx?sc_lang=en);"></a></div>
 															
 															<div class="clear"></div>
 															
 															<div id="left-column" class="left-column">
-															
-																<div class="title" id="searched-zip" style="background-image: url(/~/media/Labels/DealersNearestTo.ashx?sc_lang=en);"></div>
+															    <div>
+																    <div class="title" id="searched-zip" style="background-image: url(/~/media/Labels/DealersNearestTo.ashx?sc_lang=en);"></div>
+															    </div>
 																
 																<div id="map-dhtml"></div>
 																
 															</div>
 															
 															<div class="right-column">
-															
-																<div class="dhtml-go-button" onclick="if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en');" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
-
-																<p>
-																	<label for="zip-dhtml">Zip Code:</label>
-																	<br>
-																	<input id="zip-dhtml" name="zip-dhtml" type="text" class="text" onkeyup="if (event.keyCode == '13') { if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en'); }" style="">
-																</p>
+															    <div>
+																    <div class="dhtml-go-button" onclick="if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en', 3);" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
+				                                                </div>
+				                                                <div>												
+																    <p>
+																	    <label for="zip-dhtml">Zip Code:</label>
+																	    <br>
+																	    <input id="zip-dhtml" name="zip-dhtml" type="text" class="text" onkeyup="if (event.keyCode == '13') { if ($('zip-dhtml').value.indexOf('<') != -1 || $('zip-dhtml').value.indexOf('>') != -1) alert('Invalid entry!'); else dealerSearch($('zip-dhtml').value, '', '', '', true, true, true, false, 'en'); }" style="">
+																    </p>
+																</div>
 																
 																<div class="links">
-																
-																	<a href="/Dealers.aspx">Locate Using Map</a>
+																    <div><a href="http://suzukicycles.com/Dealers.aspx" id="dealers">OTHER SEARCH OPTIONS</a></div>													
 																	
 																	<div id="once-expanded">
-																	
-																		<a href="javascript:void(window.location = '/Dealers.aspx?zip=' + $('zip-dhtml').value + '&amp;distance=50&amp;hasCycles=true&amp;hasAtvs=true&amp;hasScooters=true&amp;country=en');">View Larger Map</a>
+																	    <div><a href="javascript:void(window.location = 'http://suzukicycles.com/Dealers.aspx?zip=' + $('zip-dhtml').value + '&amp;distance=50&amp;hasCycles=true&amp;hasAtvs=true&amp;hasScooters=true&amp;country=en');" id="dealersLargerMap">View Larger Map</a></div>
 																		
 																		<div class="clear"></div>
 																		
@@ -366,16 +404,15 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 													<tr>
 														<td class="left"></td>
 														<td class="content">
-														
-															<a href="#" class="hide" style="background-image: url(/~/media/Buttons/Hide.ashx?sc_lang=en);"></a>
+														    <div><a href="#" class="hide" style="background-image: url(/~/media/Buttons/Hide.ashx?sc_lang=en);" id="hideSearchPopUp"></a></div>
 															
 															<div class="clear"></div>
 															
 															<div id="search-frm">
-															
-																<div class="dhtml-go-button" onclick="InvokeASHX();" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
-																
-																<input type="text" id="search-q" name="search-q" onkeyup="if (event.keyCode == '13') InvokeASHX();" style="">
+															    <div>
+																    <div class="dhtml-go-button" onclick="InvokeASHX();" style="background-image: url(/~/media/Buttons/Go.ashx?sc_lang=en);"></div>
+															    </div>
+																<div><input type="text" id="search-q" name="search-q" onkeyup="if (event.keyCode == '13') InvokeASHX();" style=""></div>
 																
 																<div class="clear"></div>
 																
@@ -384,15 +421,16 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 															<div class="clear"></div>
 															
 															<div id="site-search-results" class="results"></div>
+															<div>
+															    <h5 style="text-transform: uppercase;">Popular Searches</h5>
 															
-															<h5 style="text-transform: uppercase;">Popular Searches</h5>
-															
-															<ul class="searches" style="text-transform: uppercase;">
-																<li><a href="javascript:void($('search-q').value = 'Sport Bike'); void(InvokeASHX());">Sport Bike</a></li>
-																<li><a href="javascript:void($('search-q').value = 'Racing Gear'); void(InvokeASHX());">Racing Gear</a></li>
-																<li><a href="javascript:void($('search-q').value = 'Performance'); void(InvokeASHX());">Performance</a></li>
-																<li><a href="javascript:void($('search-q').value = 'Rider Safety'); void(InvokeASHX());">Rider Safety</a></li>
-															</ul>
+														         <ul class="searches" style="text-transform: uppercase;">
+															        <li><a id="searchSportBike" href="javascript:void($('search-q').value = 'Sport Bike'); void(InvokeASHX());">Sport Bike</a></li>
+															        <li><a id="searchRacingGear" href="javascript:void($('search-q').value = 'Racing Gear'); void(InvokeASHX());">Racing Gear</a></li>
+															        <li><a id="searchPerformance" href="javascript:void($('search-q').value = 'Performance'); void(InvokeASHX());">Performance</a></li>
+															        <li><a id="searchRiderSafety" href="javascript:void($('search-q').value = 'Rider Safety'); void(InvokeASHX());">Rider Safety</a></li>
+														        </ul>
+															</div>
 															
 														</td>
 														<td class="right"></td>
@@ -429,9 +467,9 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 		
 	</div>
 	
-	<div class="widebar">
+	<div class="widebar" id="widebar">
 	
-		<div class="widebar-content">
+		<div id="widebar-content" class="widebar-content">
 		
 			<div class="cornerWrapper">
 			
@@ -532,9 +570,13 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 								
 							</div>
 							
-						</div>
+						</div>						
 						
-						<div class="seo-nav"><div class="block"><h3><a href="/Product Lines/Cycles.aspx" id="footer-cycles">Motorcycles</a></h3><div class="column"><ul><li><a href="/Product Lines/Cycles/Categories/Sportbike.aspx" id="footer-sportbike">Sportbike</a></li><li><a href="/Product Lines/Cycles/Categories/Cruiser.aspx" id="footer-cruiser">Cruiser</a></li><li><a href="/Product Lines/Cycles/Categories/Touring.aspx" id="footer-touring">Touring</a></li><li><a href="/Product Lines/Cycles/Categories/Motocross.aspx" id="footer-motocross">Motocross</a></li><li><a href="/Product Lines/Cycles/Categories/Standard.aspx" id="footer-standard">Standard</a></li></ul></div><div class="column"><ul><li><a href="/Product Lines/Cycles/Categories/DualSport.aspx" id="footer-dualsport">DualSport</a></li><li><a href="/Product Lines/Cycles/Categories/Supermoto.aspx" id="footer-supermoto">Supermoto</a></li><li><a href="/Product Lines/Cycles/Categories/Off Road.aspx" id="footer-offroad">Off Road</a></li><li><a href="/Product Lines/Cycles/Categories/Kids.aspx" id="footer-kids">Kids</a></li><li><a href="/Product Lines/Cycles/Categories/Scooters.aspx" id="footer-scooters">Scooters</a></li></ul></div></div><div class="block"><h3><a href="/Product Lines/ATVs.aspx" id="footer-atvs">ATV</a></h3><div class="column"><ul><li><a href="/Product Lines/ATVs/Categories/Utility Sport.aspx" id="footer-utilitysport">Utility Sport</a></li><li><a href="/Product Lines/ATVs/Categories/Sport.aspx" id="footer-sport">Sport</a></li><li><a href="/Product Lines/ATVs/Categories/Kids ATV.aspx" id="footer-kidsatv">Kids ATV</a></li></ul></div></div><div class="block"><h3><a href="/Accessories.aspx" id="footer-accessories">Accessories</a></h3><div class="column"><ul><li><a href="/Accessories.aspx?Tab=Care" id="footer-caremaintenance">Care &amp; Maintenance</a></li><li><a href="/Accessories.aspx?Tab=Gear" id="footer-ridinggear">Riding Gear</a></li><li><a href="/Accessories.aspx?Tab=Style" id="footer-suzukistyle">Suzuki Style</a></li></ul></div></div><div class="block"><h3><a href="/Dealers.aspx" id="footer-dealers">Dealers</a></h3><div class="column"><ul><li><a href="/Dealers.aspx" id="footer-locatedealer">Locate a Dealer</a></li><li><a href="/Financing/Step1.aspx" id="footer-offers">Special Offers</a></li></ul></div></div><div class="block"><h3><a href="/Racing.aspx" id="footer-racing">Racing</a></h3><div class="column"><ul><li><a href="/Racing/ATV.aspx" id="footer-racing_atv">ATV</a></li><li><a href="/Racing/Motocross.aspx" id="footer-racing_motocross">Motocross</a></li><li><a href="/Racing/Drag Racing.aspx" id="footer-racing_dragracing">Drag Racing</a></li></ul></div><div class="column"><ul><li><a href="/Racing/Off Road.aspx" id="footer-racing_offroad">Off Road</a></li><li><a href="/Racing/Road Racing.aspx" id="footer-racing_roadracing">Road Racing</a></li></ul></div></div><div class="block last"><h3><a href="/About.aspx" id="footer-about">About Suzuki</a></h3><div class="column"><ul><li><a href="/History.aspx" id="footer-history">History</a></li><li><a href="/News.aspx" id="footer-newsevents">News &amp; Events</a></li></ul></div></div></div><div class="footer"><div class="link-set-1"><a href="/Contact.aspx" id="footer-contact">Contact Us</a><span class="pipe">|</span><a href="/Recalls.aspx" id="footer-recalls">Recalls</a><span class="pipe">|</span><a href="/eNewsletter.aspx" id="footer-newsletter">Newsletters</a><span class="pipe">|</span><a href="/Privacy.aspx" id="footer-privacy">Privacy Policy</a><span class="pipe">|</span><a href="/Press.aspx" id="footer-press">Press</a><span class="pipe">|</span><a href="/Careers.aspx" id="footer-careers">Careers</a><span class="pipe">|</span><a href="/Rider Education.aspx" id="footer-ridereducation">Rider Education</a></div><div class="link-set-2"><a href="http://www.suzukiauto.com/" id="footer-auto">Auto</a><span class="pipe">|</span><a href="http://suzukicycles.com" class="highlight" id="footer-suzuki">Motorcycle ATV</a><span class="pipe">|</span><a href="http://www.suzukimarine.com/" id="footer-marine">Marine</a><span id="flag-pin"></span></div></div>
+						<div class="seo-nav"><div class="block"><h3><a href="http://suzukicycles.com/en/Product Lines/Cycles.aspx">Motorcycles</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Sportbike.aspx">Sportbike</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Cruiser.aspx">Cruiser</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Touring.aspx">Touring</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Motocross.aspx">Motocross</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Standard.aspx">Standard</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/DualSport.aspx">DualSport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Supermoto.aspx">Supermoto</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Kids.aspx">Kids</a></li><li><a href="http://suzukicycles.com/en/Product Lines/Cycles/Categories/Scooters.aspx">Scooters</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Product Lines/ATVs.aspx">ATV</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Utility Sport.aspx">Utility Sport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Sport.aspx">Sport</a></li><li><a href="http://suzukicycles.com/en/Product Lines/ATVs/Categories/Kids ATV.aspx">Kids ATV</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Accessories.aspx">Accessories</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Accessories.aspx">Care &amp; Maintenance</a></li><li><a href="http://suzukicycles.com/en/Accessories.aspx">Riding Gear</a></li><li><a href="http://suzukicycles.com/en/Accessories.aspx">Suzuki Style</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Dealers.aspx">Dealers</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Dealers.aspx">Locate a Dealer</a></li><li><a href="http://suzukicycles.com/en/Financing/Step1.aspx">Special Offers</a></li></ul></div></div><div class="block"><h3><a href="http://suzukicycles.com/en/Racing.aspx">Racing</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/Racing/ATV.aspx">ATV</a></li><li><a href="http://suzukicycles.com/en/Racing/Motocross.aspx">Motocross</a></li></ul></div><div class="column"><ul><li><a href="http://suzukicycles.com/en/Racing/Off Road.aspx">Off Road</a></li><li><a href="http://suzukicycles.com/en/Racing/Road Racing.aspx">Road Racing</a></li></ul></div></div><div class="block last"><h3><a href="http://suzukicycles.com/en/About.aspx">About Suzuki</a></h3><div class="column"><ul><li><a href="http://suzukicycles.com/en/History.aspx">History</a></li><li><a href="http://suzukicycles.com/en/News.aspx">News &amp; Events</a></li></ul></div></div></div><div class="footer"><div class="link-set-1"><a href="http://suzukicycles.com/Contact.aspx" id="footer-contact">Contact Us</a><span class="pipe">|</span><a href="http://suzukicycles.com/Recalls.aspx" id="footer-recalls">Recalls</a><span class="pipe">|</span><a href="http://suzukicycles.com/eNewsletter.aspx" id="footer-newsletter">Newsletters</a><span class="pipe">|</span><a href="http://suzukicycles.com/Privacy.aspx" id="footer-privacy">Privacy Policy</a><span class="pipe">|</span><a href="http://suzukicycles.com/Press.aspx" id="footer-press">Press</a><span class="pipe">|</span><a href="http://suzukicycles.com/Careers.aspx" id="footer-careers">Careers</a><span class="pipe">|</span><a href="http://suzukicycles.com/Rider Education.aspx" id="footer-ridereducation">Rider Education</a></div><div class="link-set-2"><a href="http://www.suzukiauto.com/" id="footer-auto">Auto</a><span class="pipe">|</span><a href="http://suzukicycles.com" class="highlight" id="footer-suzuki">Motorcycle ATV</a><span class="pipe">|</span><a href="http://www.suzukimarine.com/" id="footer-marine">Marine</a><span id="flag-pin"></span></div><div class="link-set-3"><a href="http://www.facebook.com/pages/Suzuki-Scoop/264730448656" target="_blank" id="footer-facebook">
+          facebook
+          <img src="/~/media/FooterIcons/facebook_icon.ashx?h=15" alt="facebook"></a>&nbsp;<span class="pipe">|</span><a href="http://www.twitter.com/suzukiscoop" target="_blank" id="footer-twitter">
+          twitter
+          <img src="/~/media/FooterIcons/twitter_icon.ashx?h=15" alt="twitter"></a></div></div>
 						
 						<br class="cleaner">
 						<br class="cleaner">
@@ -548,13 +590,27 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 			
 			
 			
-			
-			<!--[if lt IE 7]>
-			
-				<script type="text/javascript" src="/includes/js/ie6_upgrade.js"></script>
-				
-			<![endif]-->
+			<img src="http://ads.undertone.com/ti.php?trackerid=438&amp;cb=[634104667048973750]" style="display:none;" width="0" height="0" alt="">
 
+			<div id="uprMain" style="display:none;">
+	
+				
+					<div id="update-progress" style="position: fixed;"><img src="/images/misc/loading-icon.gif" width="16" height="16" alt="">Loading...</div>
+					
+				
+</div>
+
+			<!--[if lt IE 7]>
+			    <div><script type="text/javascript" src="http://static.suzukicycles.com/includes/js/ie6_upgrade.js"></script></div>
+			<![endif]-->
+			<div>
+			    <script type="text/javascript">
+                    
+				    Tools.LoadIncludeFileByUrlNoCache("http://api.maps.yahoo.com/ajaxymap?v=3.8&appid=" + YAPIKey);
+				    
+			    </script>
+			</div>
+			
 		
 
 <script type="text/javascript">
@@ -580,7 +636,7 @@ Sys.Application.initialize();
 //]]>
 </script>
 </form>
-
+		
 	
 	
 
