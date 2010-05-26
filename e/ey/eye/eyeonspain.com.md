@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2008-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081221203204id_/http%3A//www.eyeonspain.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeonspain.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165943id_/http%3A//www.eyeonspain.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Eye on Spain privacy policy
 
@@ -34,6 +34,10 @@ We use reasonable precautions to keep the personal information you disclose both
 
 By using our Web site, you give eyeonspain.com permission to collect information about the pages served to you as an anonymous user for the purpose of calculating aggregate site statistics. If you register at eyeonspain.com, you authorize eyeonspain.com to use information you provide to personalise the information we deliver to you and to use your demographic information when calculating aggregate customer data. eyeonspain.com may occasionally amend this policy. We suggest that you bookmark this page and check to see if it has changed from time to time, although we will inform all registered members of any changes as soon as they are made. 
 
+**Google Advertising Cookies**
+
+* Google, as a third-party vendor, uses cookies to serve ads on your site. * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.co.uk/privacy_ads.html). 
+
 **Questions?**
 
-If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at [feedback@eyeonspain.com](mailto:feedback@eyeonspain.com). 
+If you wish to change any information you have given us, or have any questions on our Privacy Policy, you can contact us at feedback @ eyeonspain.com (remove the spaces in the email address). 
