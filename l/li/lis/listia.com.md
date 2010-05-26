@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812110448id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listia.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172653id_/http%3A//www.listia.com/privacy) for the most accurate reproduction.*
 
 # Auctions for Free Stuff - Listia.com
 
@@ -12,15 +12,11 @@ For each visitor to our Web page, our Web server automatically recognizes only t
 
 We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations. 
 
-The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes and . 
+The information we collect is used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site, used by us to contact consumers for marketing purposes. 
 
 With respect to cookies: We use cookies to store visitors preferences, record session information, such as items that consumers add to their shopping cart, record user-specific information on what pages users access or visit, record past activity at a site in order to provide better service when visitors return to our site, customize Web page content based on visitors' browser type or other information that the visitor sends. 
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address. 
-
-From time to time, we make the e-mail addresses of those who access our site available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. 
-
-From time to time, we make our _customer_ e-mail list available to other reputable organizations whose products or services we think you might find interesting. If you do not want us to share your e-mail address with other companies or organizations, please let us know by calling us at the number provided above. 
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address. 
 
