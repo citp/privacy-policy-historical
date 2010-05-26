@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123133848id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webjet.com.au privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163950id_/http%3A//www.webjet.com.au/about/privacy) for the most accurate reproduction.*
 
 # Webjet Travel - Online airfares at cost price for all airlines - Webjet.com.au
 
@@ -22,7 +22,7 @@ We believe that in supporting industry best practice this statement will address
 
 We collect your personal information at the time you may wish to become a member to facilitate an online purchase and only require information necessary to complete your booking, although you may choose to provide us with additional information so that the quality of service received is improved. Please note that any additional information you provide to us concerning special requirements for flights is only collected and/or used as necessary in order to provide you with specific additional travel arrangements, such as special meals.
 
-Your personal information will only be used or disclosed as is necessary to provide you with the goods and services available through the website, for administrative purposes and to assist us to improve our website and services, and to provide you with information and offers relevant to our services. You may opt-out of receipt of any such offers at any time by submitting a request through our feedback form, or through the methods described in any e-mails we may send you.
+Your personal information will only be used or disclosed as is necessary to provide you with the goods and services available through the website, for administrative purposes (including fraud and security checks) and to assist us to improve our website and services, and to provide you with information and offers relevant to our services. You may opt-out of receipt of any such offers at any time by submitting a request through our feedback form, or through the methods described in any e-mails we may send you.
 
 We will disclose personal information as required to the providers of the products and services you have purchased, and you accept that not all recipients of your information may have privacy policies equivalent to Webjet ’s and consent to the disclosure of your personal information for that purpose.
 
