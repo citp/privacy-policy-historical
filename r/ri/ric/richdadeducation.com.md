@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210144640id_/http%3A//richdadeducation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the richdadeducation.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526201358id_/http%3A//richdadeducation.com/privacy.aspx) for the most accurate reproduction.*
 
 # Rich Dad Education | Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Rich Dad Education, LLC
 
-** may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number, in exchange for the use of our materials. Rich Dad Education may collect and use this information to deliver the services you have requested. Wealth Intelligence Academy may also use your personally identifiable information to inform you of products or services available from Rich Dad Education.
+** may collect personally identifiable information, such as your e-mail address, name, home or work address or telephone number, in exchange for the use of our materials. Rich Dad Education may collect and use this information to deliver the services you have requested. Tigrent Learning Inc. may also use your personally identifiable information to inform you of products or services available from Rich Dad Education.
 
 Rich Dad Education keeps track of the web sites and pages visited within our own system in order to determine what sites and services are most popular. This data is used to deliver customized content and product offers to our students and customers whose online usage indicates that they are interested in a particular subject area.
 
@@ -17,4 +17,4 @@ This Privacy Notice is meant to inform you how Rich Dad Education safeguards you
 Security Notice**  
 Rich Dad Education is committed to safeguarding the private information of our students and customers. We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect online.
 
-[](https://web.archive.org/web/20090210144640id_/http%3A//richdadeducation.com/index.aspx)
+[](https://web.archive.org/web/20100526201358id_/http%3A//richdadeducation.com/index.aspx)
