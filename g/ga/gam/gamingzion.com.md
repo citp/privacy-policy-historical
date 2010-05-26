@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gamingzion.com privacy policy that was archived on 2009-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090827220546id_/http%3A//gamingzion.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamingzion.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526083621id_/http%3A//gamingzion.com/privacy-policy) for the most accurate reproduction.*
 
-# The city of virtual gambling | gamingZION
+# Privacy policy | GamingZion
 
 Gaming Zion may occasionally collect non-personal and non-identifying information from our visitors. This information includes, but is not limited to: browser type and geographic location. Other, personally-identifiable information is only collected when visitors ask to be sent periodic emails (newsletter). In this situation, the personal information we collect is limited to the email address which you provide. Further personal information may be requested at certain times, but you will be made aware of our intentions at the time the information is collected. Sharing this information is optional, and users may choose to visit our site anonymously.
 
 The information we collect from you may be used to personalize your experience, to administer promotions or other site features, or to send out occasional/periodic emails. Users who choose to subscribe to our newsletter and supply us with their email address will only receive solicited mailings, and their email address will never be used for sending un-solicited information or for direct marketing purposes. If at any time you wish to stop receiving emails, you may unsubscribe from the subscriptions page of our website. 
 
-Gaming Zion may use cookies - small information files that are stored on your computer, enabling the site to recognize you. Gaming Zion uses cookies to remember your preferences and usage history for future visits, including but not limited to comments and ratings posted in certain areas of the Gaming Zion website. Some third party websites that feed ads onto the Blackjack Champ may use their own cookies for their own purposes. Users who prefer not to accept cookies from our website should consult the documentation supplied with their web browser for information on how to manage cookies.
+Gaming Zion may use cookies - small information files that are stored on your computer, enabling the site to recognize you. Gaming Zion uses cookies to remember your preferences and usage history for future visits, including but not limited to comments and ratings posted in certain areas of the Gaming Zion website. Some third party websites that feed ads onto Gaming zion may use their own cookies for their own purposes. Users who prefer not to accept cookies from our website should consult the documentation supplied with their web browser for information on how to manage cookies.
 
 Gaming Zion will never sell, trade, or otherwise transfer any personal data we collect to outside parties. 
 
