@@ -1,96 +1,119 @@
-> *The following text is extracted and transformed from the fw.members.freewebs.com privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913041837id_/http%3A//fw.members.freewebs.com/page.jsp%3Fpage%3DprivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fw.members.freewebs.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526045108id_/http%3A//www.webs.com/pages/privacy) for the most accurate reproduction.*
 
-# Freewebs.com - Free website, free hosting, free webpage, online photo album, free blog, more!
+# Privacy Policy - Webs.com
 
-### Our Commitment to Your Privacy
+Last updated: February 19, 2010
 
-This site is owned and operated by Freewebs, Inc. Your privacy on the Internet is of the utmost importance to us. At Freewebs.com, we want to make your online experience satisfying and safe. 
+Webs is a website building and hosting service provided at [http://www.webs.com](http://webs.com/) and [http://www.freewebs.com](http://www.freewebs.com/) and its directly associated domains, widgets, tools, services and applications that are operated by Webs, Inc. (collectively, “Webs” or “Services”). Your privacy on the Internet is very important to us. We strive to make your online experience satisfying and safe. 
 
-Because we gather certain types of information about our users, we feel you should fully understand the terms and conditions surrounding the capture and use of that information.   
-This privacy statement discloses what information we gather and how we use it. 
+This "Privacy Policy" explains what information we gather from our users and how we use it. By using or accessing our Services, you are accepting the practices described in this Privacy Policy. (Capitalized terms not defined herein have the meaning set forth in our [Terms of Service](http://webs.com/pages/terms/)). 
 
-### Information Gathered by Freewebs.com
+Webs is not intended for children under 13 years of age. Consistent with the Federal Children's Online Privacy Protection Act of 1998 (“COPPA”), we will never knowingly gather or use personally identifiable information from anyone under the age of 13, and we do not allow anyone under the age of 13 to register on Webs. 
 
-Freewebs.com gathers two types of information about users: 
-
-  1. Information that users provide through optional, voluntary submissions. These are voluntary submissions when creating a Freewebs account, such as your name or email address.  
-
-  2. Information Freewebs.com gathers through aggregated tracking, derived mainly by tallying page views throughout our sites. This information allows us to better tailor our content to users' needs and to help us better understand the demographics of our audience. Under no circumstances does Freewebs.com divulge any information about an individual user to a third party unless mandated by law. 
-
-
-
-Freewebs.com Gathers User Information In The Following Processes: 
-
-### Optional Voluntary Information
-
-    We offer the following free services, which require some type of voluntary submission of personal information by users: 
-
-  1. Free Web Hosting  
-During the account creation process, the user is required to supply full name, username, password, and email address. **Except as specified in this Privacy statement,** we will not disclose any information about any individual user except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
-
-"You can access and update your personal information by logging in and visiting your My Account and My Profile areas and following the instructions on those pages, or by contacting customer support. You can delete certain personal information you supplied by visiting your My Profile area. If you delete such information, it cannot be used by us or disclosed to third parties in the future. Even if you delete or change some personal information in our registration database, it may still be stored on other databases (including those kept for archival purposes)." 
-
-Any files uploaded or created on the Freewebs system are by nature of being hosted for the public and are thus publicly accessible unless they are stored in the user's optional password protected directory. Files in a password protected directory will only be accessible by means of a username and password which the user will provide. 
-
-  2. "Email this to a friend" Service  
-Our site users can choose to electronically forward a link, page or documents to someone else by clicking "email this to a friend". Users must provide their email address, as well as that of the recipient. This information is used in the case of transmission errors and, of course, to let the recipient know who sent the email. 
-  3. Polling  
-We may offer interactive polls to users so they can easily share their opinions with other users and see what our audience thinks about important issues. Opinions or other responses to polls are aggregated and are not identifiable to any particular user. Freewebs.com may use a system to "tag" users after they have voted, so they can vote only once on a particular question. This tag is not correlated with information about individual users. 
-  4. Surveys  
-Freewebs.com may occasionally conduct optional user surveys to better target our content to our audience. We sometimes share the aggregated demographic information in these surveys with our sponsors, advertisers and partners. We never share any of this information about specific individuals with any third party. 
+  * What information does Webs gather?
+  * Why does Webs gather information about me?
+  * How will Websites and Applications on Webs treat my information?
+  * What are cookies?
+  * What about third party advertisers and links?
+  * How secure is my information?
+  * How private is the Content I upload?
+  * What control do I have over my information?
+  * How is information shared?
+  * How am I notified of changes to this Privacy Policy?
+  * Who can I contact about this Privacy Policy?
 
 
-Children 
-    Consistent with the Federal Children's Online Privacy Protection Act of 1998 (COPPA), we will never knowingly request personally identifiable information from anyone under the age of 13 since we do not allow anyone under the age of 13 to sign up. 
-Usage tracking 
-    
 
-Freewebs.com tracks user traffic patterns throughout all of our sites. However, we do not correlate this information with data about individual users. Freewebs.com does break down overall usage statistics according to a user's domain name, browser type and MIME type by reading this information from the browser string (information contained in every user's browser). 
+## What information does Webs gather?
 
-Freewebs.com sometimes tracks and catalogs the search terms that users enter in our Search function, but this tracking is never associated with individual users. We use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas. We do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for our users.
+Webs gathers and stores three types of information about users that are subject to our Privacy Policy: 
 
-Cookies 
-    
+  
 
-We may place a text file called a "cookie" in the browser files of your computer. The cookie itself does not contain Personal Information although it will enable us to relate your use of this site to information that you have specifically and knowingly provided. But the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Freewebs.com uses cookies to track user traffic patterns (as described above). Our advertising system delivers a one-time cookie to better track ad impressions and click rates. 
 
-You can refuse cookies by turning them off in your browser. If you've set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You do not need to have cookies turned on to use this site. However, you do need cookies to participate actively in message boards, forums, polling and surveys. 
+  1. Information users provide to us: 
 
-### Use of Information
+These are voluntary submissions made when creating an account on Webs or through your use of the Services, such as your name, date of birth, location and email address provided during registration, Content posted, or payment information provided during purchases. Please understand that when you sign into Webs or post Content, your information is not anonymous to us.
 
-Freewebs.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the needs and interests of our users. 
+  2. Information we collect when you interact with Webs: 
 
-When we use tracking information to determine which areas of our sites users like and don't like based on traffic to those areas, we do not track what individual users read, but rather how well each page performs overall. This helps us continue to build a better service for you. We track search terms entered in Search function as one of many measures of what interests our users. 
+We keep track of the actions you take on Webs, such as adding a friend, adding an application, or posting Content. Also, when you access our Services, we may collect information about your access method (such as hardware and software attributes), location, IP address, and pages you visit. In addition, we store certain information from your browser using “cookies”. (For more on cookies, please see the section "What are cookies?")
 
-Freewebs.com creates aggregate reports on user demographics and traffic patterns. This allows us to more effectively tailor advertising and promotions to our users 
+  3. Information we receive from third parties: 
 
-### Third Party Advertising and Cookies
+We do not own or operate the third-party applications, user websites and other services offered that you may use or interact with through Webs (collectively, “Webs-enhanced” applications, websites and services). Whenever you visit, use or interact with a Webs-enhanced application, website or service, we will receive information from them, including information about actions you take and Content you post on that application, website or service.
 
-Ads appearing on this website and Freewebs sites are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out," please [click here.](http://www.doubleclick.net/us/corporate/privacy) In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. 
 
-### Sharing of the Information
 
-Freewebs.com uses the information described above to tailor our content to suit your needs and help us better understand our audience demographics. This is essential to keeping our service free. We will not share information about individual users with any third party, except to comply with applicable law or valid legal process or to protect the personal safety of our users or the public. 
 
-#### Security
+## Why does Webs gather information about me?
 
-All payment procedures of Freewebs.com operate on secure data networks protected by industry standard firewall and password protection systems. Our security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our customers.
+Webs collects information in order to provide a safe, efficient and customized experience. This information allows us to better tailor our content to users' needs and to help us better understand the demographics of our audience. Webs may use some of this information for contacting you, customizing the content and advertising you view, improving our services, conducting research, and providing anonymous reporting for clients. We only collect personally identifiable information from you because you are voluntarily submitting the information to us in order to enjoy certain Services. 
 
-Although we have established and maintain commercially reasonable security procedures to protect your personally identifiable information, “perfect security” does not exist on the Internet. Furthermore, due to the existing legal regulatory and security environment, we cannot fully ensure that your private communications and other personally identifiable information will not be disclosed to third parties. For example, we may be forced to disclose information to the government or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Additionally, in the unlikely event we need to investigate or resolve possible problems or inquiries, we can (and you authorize us to do so) disclose any information about you to private entities, law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate. 
+## How will Websites and Applications on Webs treat my information?
 
-#### No Spyware / Adware
+As mentioned above, we do not own or operate Webs-enhanced applications, websites and services. We take steps to ensure that providers of Webs-enhanced applications, websites and services use information that you share on Webs in a manner consistent with your privacy settings and the terms of this Privacy Policy, but we cannot guarantee that they will follow our rules. Please take the time to familiarize yourself with the privacy settings of your account, as well as the settings and policies of the applications, websites and services that you visit, add or use on Webs. Here are some specific things to remember: 
 
-We have a [strict policy against spyware and adware](https://web.archive.org/web/20080913041837id_/http%3A//fw.members.freewebs.com/page.jsp?page=spywarePolicy) and apply this to all Freewebs users as well. 
+  * By visiting or becoming a Member of a Website on Webs, the Content and information you provide during the registration process (including your email address) and other interactions with the Website may be accessed by the Website Creator and their authorized representatives and administrators, as well as any Application Developer whose Applications run on that Website. 
+  * By adding or using an Application or a service provided by one of our affiliates or business partners, the information you provide in the interactions with that Application or service may be accessed by the respective Application Developer, affiliate or business partner and their authorized representatives. 
+  * Although certain categories of profile information (such as your birthdate) have privacy settings, others (such as your name, gender, profile photo, geographic region, list of friends, list of websites you have joined) are considered publicly available and have no privacy settings associated with them. 
+  * Even after you remove information from your profile or delete your account, copies of that information may remain viewable elsewhere to the extent it has been shared with others, it was otherwise distributed pursuant to your privacy settings or privacy settings of the Website(s) or Application(s) you used, or it was copied or stored by other users. 
+  * Certain types of communications you send to other users cannot be removed, such as messages. 
+  * When you post information on a Website, that information is subject to that Website’s privacy settings and privacy policy, which may change from time to time. 
+  * Publicly available information may be accessed by everyone on the Internet, including third-party search engines that may index, cache and store that information. 
 
-#### Opt-out Policy
 
-We give users options wherever necessary and practical. Such choices include:
 
-Opting not to participate in certain interactive areas, which completely alleviates the need to gather any personally identifiable information from our users. 
+You should always review the policies of third party websites, applications and services to make sure you are comfortable with the ways in which they use information you share with them. Any information you share with them is at your own risk. If you find an application, website or service that violates our rules, you should report the violation to us using this [automated form](http://webs.com/pages/report/), and we reserve the right to take action as we deem appropriate without assuming any obligation or liability to do so. 
 
-Opting to delete and close their Freewebs account at any time for any reason. 
+## What are cookies?
 
-### Your Consent
+Webs may place a text file called a "cookie" in the browser files of your computer. These cookies help us make Webs easier to use, to make our advertising better, and to protect both you and Webs. For example, a cookie may be used to store or "remember" your Member login information (but not your password) so that you are not required to manually log into the site at every visit. You can remove or block cookies using the settings in your browser, but in some cases that may impact your ability to use some of our Services. 
 
-By using this site, you consent to the collection and use of this information by Freewebs.com. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. 
-  *[MIME]: Multipurpose Internet Mail Extensions
+Our advertisers and partners may also set cookies through our Services. For more information, please see the section "What about third party advertisers and links?" 
+
+## What about third party advertisers and links?
+
+In the course of serving advertisements on Webs, a third-party advertiser may place or recognize a unique cookie on your browser. Additionally, some links from Webs may lead to websites operated by other companies. While these websites and advertisements may be co-branded with our name or logo, they are not operated or maintained by us. We do not control these cookies and users of Webs Services should check the privacy policy of the relevant advertiser to understand whether and how it uses cookies. Webs is not responsible for websites operated by third parties that are linked to by any of our sites. 
+
+Ads appearing on this website, Webs, and sites hosted by Webs may be delivered to you by Google Ad Manager, DoubleClick, or other advertising partners. Information about your visits to this site, such as the number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you. For more information about these partners, their cookies, and how to "opt-out," please follow the links below. 
+
+  * [Network Advertising Initiative (NAI)](http://www.networkadvertising.org/managing/opt_out.asp)
+  * [Google Ad Manager](http://www.google.com/admanager/policies/en_US/index.html)
+  * [DoubleClick](http://www.doubleclick.com/privacy/index.aspx)
+
+
+
+## How secure is my information?
+
+Webs uses commercially reasonable physical, electronic, and procedural measures to safeguard personally identifiable information in our possession against loss, theft and unauthorized use, disclosure or modification. We limit access to personal information about you to employees whom we believe reasonably need that information to provide support, products, or services to you or to fulfill their roles within our organization. 
+
+Although we have established and maintain security procedures to protect your personally identifiable information, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other users with whom you share your information. We cannot guarantee that only authorized persons will view your information. We cannot ensure that information you share on Webs will not become publicly available. We are not responsible for third party circumvention of any privacy settings or security measures on Webs. You can reduce these risks by using common sense security practices such as choosing a strong password, using different passwords for different services, and using up-to-date antivirus software. 
+
+Please report any security violations to us on this [automated form](http://webs.com/pages/report/). 
+
+## How private is the Content I upload?
+
+Any Content uploaded or created using our Services and posted on a Website are by default hosted for the public and are thus publicly accessible unless explicitly protected by the Website Creator’s optional password protection setting. 
+
+Please note that even if you do not publish links to Content or submit links to a search engine, individuals or search engines may discover and link to your Content by data-mining, guessing the address, spidering sites, or other methods. If you are concerned about the privacy or confidentiality of Content that you produce, please take all appropriate steps to ensure that sensitive materials are password-protected. Webs makes no guarantee as to the reliability or security of the password protection feature. 
+
+## What control do I have over my information?
+
+As a registered member, you may modify or update your personal account information at any time by logging into your account and (a) accessing the [Settings](http://members.webs.com/s/account/myAccount) area for each Website you have created, and (b) accessing the Manage Profile area for each Website you have joined by clicking on the corresponding Edit Profile link on your [Dashboard](http://members.webs.com/s/webs/) page. You may also remove the Website(s) you may have created on Webs at any time by logging into your account and clicking on the corresponding “Delete Site” link on your [Dashboard](http://members.webs.com/s/webs/) page. Should you desire to do so, you may also delete and close your Webs account at any time by contacting our [support team](http://webs.com/pages/contact/). Note that removed or deleted information may persist in backup copies for a reasonable period of time. 
+
+## How is information shared?
+
+Webs will not share your personally identifiable information with others except as described herein with regards to sharing with Webs-enhanced applications, websites and services and in limited circumstances where we believe such sharing is reasonably necessary to offer the Services, legally required, or permitted by you. For example, we may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the Services at a co-location facility for servers, to register your domain name, to send out email updates about Webs, to provide you with email functionality for your domain, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time. 
+
+Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Webs-specified purposes. We may store personal information in locations outside the direct control of Webs (for instance, on servers or databases co-located with hosting providers). 
+
+Except as otherwise described in this Privacy Policy, we will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by Webs, whether or not a response is required by applicable law; (2) to enforce the Webs Terms of Service or to protect our rights; or (3) to protect the safety or rights of members of the public or users of the Services. Webs reserves the right to transfer personal information to a successor in interest that acquires rights to that information as a result of the sale of Webs or substantially all of its assets to that successor in interest. We may also transfer such information in the course of corporate divestitures, mergers, or dissolution. 
+
+## How am I notified of changes to this Privacy Policy
+
+We may change this Privacy Policy pursuant to the procedures outlined in our Terms of Service. Unless stated otherwise, our current Privacy Policy applies to all information we have about you and your account. If we make changes to this Privacy Policy we will notify you by publication here. 
+
+## Who can I contact about this Privacy Policy?
+
+To submit an inquiry about our Privacy Policy, please [contact our support department.](http://webs.com/pages/contact/)
