@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620044543id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afreego.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526113137id_/http%3A//www.afreego.com/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,11 +17,17 @@ When you subscribe to our _**aFreeGoNews**_ mailing list, you automatically go i
 
 We use some outside companies to display adverts on this site. These adverts may use  cookies. Cookies received with adverts are collected by these outside companies, and we do not have access to this information.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site. 
+  * Google's use of the DART cookie enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet. 
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+
+
+
 **_aFreeGo.com_** has security measures in place to protect the loss, misuse and alteration of the information under our control. Our servers have strict security in place to prevent an intruder from retrieving personal information about our users.  
 **  
-**
-
-This site contains links to other sites.  _**aFreeGo.com**_ is not responsible for the privacy practices or the content of such Web sites.  **_aFreeGo.com_** has no control over, and is not responsible other sites which collect your information and then refer you to **_aFreeGo.com_**.
+** This site contains links to other sites.  _**aFreeGo.com**_ is not responsible for the privacy practices or the content of such Web sites.  **_aFreeGo.com_** has no control over, and is not responsible other sites which collect your information and then refer you to **_aFreeGo.com_**.
 
 By using our Web site, you consent to the collection and use of your personal information by **_aFreeGo.com_** as outlined in this Privacy Policy. 
 
