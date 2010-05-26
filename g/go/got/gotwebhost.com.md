@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202102850id_/http%3A//www.gotwebhost.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotwebhost.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526024612id_/http%3A//www.gotwebhost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Got Web Host
+# Privacy Policy : Got Web Host | Got Web Host - SEO and Web Hosting
 
 ### Privacy Policy of GotWebHost.com/Synergy DTI Inc. Toll Free: 888-467-8532
 
@@ -9,7 +9,7 @@ Got Web Host is committed to respecting and protecting the privacy of visitors a
 
 **What information do we collect?**
 
-When you visit our web site, our web server collects basic user information about you that includes your ISP's domain, the time you accessed our web site, and the pages from within our web site that you visit. 
+When you visit our web site, our web server collects basic user information about you that includes your ISP’s domain, the time you accessed our web site, and the pages from within our web site that you visit. 
 
 We may at times also use cookies, which are small pieces of information that a web site can store in a designated file on your computer. Cookies allow a web application to respond to you as an individual. By gathering and remembering information about your preferences, the web application can tailor its operation to your needs, likes, and dislikes.
 
@@ -19,4 +19,4 @@ Our web server does not collect your e-mail address or aggregate information on 
 
 The basic user information collected is used to help us analyze web traffic and to improve the content of our web site. Cookies may be used to facilitate your customer interaction with us. For example, we may use a cookie on the landing page of products sold online which record the customer information that is required on the order form, and then forward this information to our internal sales tracking database.
 
-Note that our site provides links to products and services offered by other companies; the company's web site that you link to will be able to determine that you linked from our web site.
+Note that our site provides links to products and services offered by other companies; the company’s web site that you link to will be able to determine that you linked from our web site.
