@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321114035id_/http%3A//fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fanhistory.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526171313id_/http%3A//www.fanhistory.com/wiki/Fanhistory.com%3APrivacy_policy) for the most accurate reproduction.*
 
-# Fanhistory.com:Privacy policy - Fan History Wiki
+# Fanhistory.com:Privacy policy - Fan History Wiki: The Fandom History Resource
 
 ### From Fan History Wiki
 
@@ -116,7 +116,7 @@ In the event that Fan History or one of its sites is sold, registered users with
 
 ## [[edit](https://web.archive.org/w/index.php?title=Fanhistory.com:Privacy_policy&action=edit&section=11 "Edit section: Security of information")] Security of information
 
-Fan History takes data security seriously, and only its owner ([Laura](https://web.archive.org/wiki/User:Laura "User:Laura")) and technician ([Emufarmers](https://web.archive.org/wiki/User:Emufarmers "User:Emufarmers")) have direct access to private data. However, there is always the remote possibility that an attacker could gain access to the server: Fan History cannot guarantee against unauthorized access to any information you provide. 
+Fan History takes data security seriously, and only its owner ([Laura](https://web.archive.org/wiki/User:Laura "User:Laura")) and server administrator(s) have direct access to private data. However, there is always the remote possibility that an attacker could gain access to the server: Fan History cannot guarantee against unauthorized access to any information you provide. 
 
 ## [[edit](https://web.archive.org/w/index.php?title=Fanhistory.com:Privacy_policy&action=edit&section=12 "Edit section: User data")] User data 
 
