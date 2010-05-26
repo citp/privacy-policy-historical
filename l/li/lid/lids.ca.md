@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lids.ca privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124221344id_/http%3A//www.lids.ca/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lids.ca privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172854id_/http%3A//www.lids.ca/privacy_policy.html) for the most accurate reproduction.*
 
 # Lids - Privacy Policy
 
@@ -72,7 +72,7 @@ We employ other companies and individuals as agents to perform functions on our 
 
 Whenever we share personal information with our agents, we restrict their access to only that information needed to perform their functions, demand that they provide a comparable level of protection for personal information, and require that they not use it for other purposes. 
 
-In addition, if you choose to participate in any loyalty program in which Hat World participates, such as Passport Club, and you authorize Hat World to provide information about purchases you make to the company administering the program, we will share personal information about you with that company. Loyalty programs allow you to obtain discounts on purchases at our stores, special member-only offers, and VIP access to new product releases and the hottest trends. The information you authorize us to disclose may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the company administering the loyalty program may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them. 
+In addition, if you choose to participate in any loyalty program in which Hat World participates, such as LIDS Club, and you authorize Hat World to provide information about purchases you make to the company administering the program, we will share personal information about you with that company. Loyalty programs allow you to obtain discounts on purchases at our stores, special member-only offers, and VIP access to new product releases and the hottest trends. The information you authorize us to disclose may include your credit card number and the date and amount of your purchase, and may also include your name and other information you have asked us to provide. Please note that once we disclose this information, the company administering the loyalty program may use and share it with others in accordance with its own privacy policy. You should review these policies carefully, as we have no control over them. 
 
 How does Hat World keep your information secure?
 
