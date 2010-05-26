@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515142940id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magazine-agent.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165328id_/http%3A//www.magazine-agent.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy of Magazine-Agent.com
-
-  
-  
-  
-
-
-[](https://web.archive.org/categories.aspx)
 
   
 
@@ -17,12 +10,17 @@
   
 
 
+[](https://web.archive.org/categories.aspx)
+
+  
+  
+  
+
+
 [](https://web.archive.org/affiliate/magazine-subscription-affiliate-progam)
 
   
 | 
-
-Effective Date of Policy: April 8th, 2006
 
 **About This Site**  
 This site is operated by Contrix Inc, on behalf of Magazine-Agent.com, hereinafter all collectively referred to as the “Site.” By visiting the Site, you are accepting the practices described in this Privacy Policy.
@@ -39,7 +37,9 @@ Please note that even if you unsubscribe from our marketing emails, the Site wil
 **Use of Order Information with Third Parties**  
 When you place an order for a magazine, the Site sends your personal information, including name, address, credit card information and the titles you ordered to its fulfillment partners. Fulfillment partners may only use this information to fulfill, bill, and service your order. 
 
-_They have agreed not to sell, rent or lease your personally identifiable information, or to use this information for any secondary purpose, including marketing_.
+_They have agreed not to sell, rent or lease your personally identifiable information, or to use this information for any secondary purpose, including marketing_
+
+.
 
 **Contractual Relationships**  
 We provide your information to our third party service vendors with whom we have contractual relationships for the purpose of servicing our processing of your order. These vendors provide various services on our behalf such as customer service, billing and fulfillment. These vendors have agreed not to sell, rent or lease your personally identifiable information or to use your information for any secondary purpose.
@@ -67,8 +67,8 @@ If you have any questions about this privacy policy, please contact our Privacy 
 
 **Contrix, Inc.  
 Privacy Department  
-575 Lexington Avenue  
-Suite 410  
-New York, NY 10022**
+110 E 42nd St  
+Suite 1311  
+New York, NY 10017**
 
 | 
