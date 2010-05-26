@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617172835id_/http%3A//www.drummagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drummagazine.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526224152id_/http%3A//www.drummagazine.com/about/post/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# None
 
 Drummagazine.com! takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
