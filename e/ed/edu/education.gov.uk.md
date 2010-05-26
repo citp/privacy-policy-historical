@@ -1,0 +1,17 @@
+> *The following text is extracted and transformed from the education.gov.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527004310id_/http%3A//www.education.gov.uk/privacy) for the most accurate reproduction.*
+
+# Privacy - Department for Education
+
+Under the Data Protection Act 1998, the Department and its contractors have legal obligations towards you in the way that we deal with data collected from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. We do not pass on your details to any third party or government department unless you give us permission to do so, or we are obliged or permitted by law to disclose it.
+
+The Department‘s website, with the exception of the registration systems and the Discussions facility, does not store or capture personal information, but merely logs the user's IP address (Internet Protocol: standard allowing data to be transmitted between two devices) which is automatically recognised by the webserver.
+
+The Department's site uses cookies for collecting user information from the site; it does not collect any information about you except that required for system administration of the website. In order to continuously improve the Department's website, we use tracking technology which monitors user sessions via a Java applet which activates a session cookie. No information is stored on your computer and no personal data is obtained from this software.
+
+If you register to receive updates your information will be held on a secure server. It will be used only to provide you with e-mail updates on the topics you have requested or postal information if you request that service. This privacy statement only covers this Department's website and subsequent subsites of that domain. Other websites linked to from the Department's domain are not covered by this privacy statement.
+
+This site is taking part in a pilot project sharing campaign material across government. The pilot uses cookies to avoid you seeing the same campaign repeatedly, over and over, and to gauge the number of people viewing a campaign or particular web page. These cookies are pieces of data created when you visit a site, and contain a unique, anonymous number. They are restored in the cookie directory of your hard drive, and do not expire at the end of your session.
+
+## Consultations
+
+For the purpose of online consultation the data controller is the Department. If you respond online to a consultation exercise any personal data you choose to submit will only be used to notify you when the consultation period is about to close, and that the final consultation report is available. However, it is not compulsory to do so. Some online consultations are carried out in conjunction with other government departments and, in such instances, any personal data you supply might need to be shared with these departments. However, this sharing will only be for the purposes of the consultation process and we will not share this data with any other organisation. For individual consultations we generally ask you to select the category that best describes you (e.g. parent, headteacher). This information is used to evaluate the overall responses to the consultation – for example, to decide what proportion of respondents are parents and whether they are in favour or against a particular policy proposal.
