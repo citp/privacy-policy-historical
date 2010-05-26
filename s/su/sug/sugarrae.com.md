@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218064514id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarrae.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172520id_/http%3A//www.sugarrae.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sugarrae
 
