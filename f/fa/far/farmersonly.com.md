@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217044726id_/http%3A//www.farmersonly.com/tour.php%3Fpge%3Dprivacy%26PHPSESSID%3D3518ba6c0f14996cbb1f6f0f28c3f5ee) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farmersonly.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526125420id_/http%3A//www.farmersonly.com/tour.php%3Fpge%3Dprivacy%26PHPSESSID%3D9c9f437b4f0060c45c7840e9f950b7de) for the most accurate reproduction.*
 
 # Online Dating Singles Service and Free Personals | FarmersOnly.com
 
