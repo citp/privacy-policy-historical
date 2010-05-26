@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113090423id_/http%3A//www.justhealth.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justhealth.in privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172313id_/http%3A//www.justhealth.in/privacy-policy.html) for the most accurate reproduction.*
 
-# Online Health Portal Directory - Privacy Policies
+# Privacy policy
 
 Your privacy is important to us, and we go to great lengths to protect it. Justhealth.in, an iMarketing Advantage website, is dedicated to fair information practices. We respect the privacy and information security of our users. Our aim is to provide our users with personalised experience delivering relevant information and resource. 
 
