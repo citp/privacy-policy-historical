@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vetinfo.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111111159id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.vetinfo.net) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vetinfo.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526163620id_/http%3A//www.internetbrands.com/ib/privacy/travel%3Fsite%3Dwww.vetinfo.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
-www.vetinfo.net ("Site")
+www.vetinfo.com ("Site")
 
 Privacy Statement
 
@@ -54,6 +54,6 @@ Please be aware that we may change our Privacy Policy from time to time. If we d
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-www.vetinfo.net
+www.vetinfo.com
 
 March 24, 2009
