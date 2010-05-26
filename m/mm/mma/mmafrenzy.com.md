@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523215906id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmafrenzy.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020227id_/http%3A//www.mmafrenzy.com/privacy-policy) for the most accurate reproduction.*
 
 # MMAFrenzy.com Privacy Policy | MMAFrenzy.com
 
 **MMAFrenzy.com Privacy Policy** [Last updated June 11, 2008]
 
-This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by MMAFrenzy.com (”MMAFrenzy.com”) through its website, including www.mmafrenzy.com, (the “Site”).
+This privacy statement (the “Privacy Policy”) applies to all personally identifiable information (collectively, “Personal Data”) and other information that is collected by MMAFrenzy.com (“MMAFrenzy.com”) through its website, including www.mmafrenzy.com, (the “Site”).
 
 Please review this Privacy Policy carefully before using the Site.
 
 MMAFrenzy.com takes online privacy very seriously. If you have any questions concerning this privacy policy, please email us at [privacy@mmafrenzy.com](mailto:privacy@mmafrenzy.com).
 
-**MMAFrenzy.com Registered Users - Collection of Personal Data**
+**MMAFrenzy.com Registered Users – Collection of Personal Data**
 
-> To support the provision of certain features on this Site, MMAFrenzy may collect Personal Data should you choose to register on this Site (”MMAFrenzy.com Registered User”).
+> To support the provision of certain features on this Site, MMAFrenzy may collect Personal Data should you choose to register on this Site (“MMAFrenzy.com Registered User”).
 > 
 > If you become a MMAFrenzy.com Registered User, from time to time MMAFrenzy.com may request information, including Personal Data about you such as your name and email addresses. Providing Personal Data is entirely optional, although some Site features may not work without it. Wherever we request Personal Data we make an effort to provide a link to this Privacy Policy.
 > 
