@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sexbankroll.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619054423id_/http%3A//sexbankroll.com/external.php%3Fpage%3Dprivacy%26nats%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sexbankroll.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526200322id_/http%3A//sexbankroll.com/external.php%3Fpage%3Dprivacy%26nats%3D) for the most accurate reproduction.*
 
 # Sexbankroll.com - Are you ready to roll?
 
