@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the pitchengine.com privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602092401id_/http%3A//www.pitchengine.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchengine.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164439id_/http%3A//www.pitchengine.com/privacy.php) for the most accurate reproduction.*
 
-# pitchengine : Privacy Policy
+# PitchEngine: Privacy Policy
 
-At Pitchengine, we protect the privacy of those who use our technology and website. The following Privacy Statement provides details about how your personal and business information is collected and used.
+At PitchEngine, we protect the privacy of those who use our technology and website. The following Privacy Statement provides details about how your personal and business information is collected and used.
 
 **Information Collection**  
-Pitchengine is the sole owner of information provided and/or collected on this site. We will not sell, share, or rent this information to others in any way different from what is disclosed in this statement. 
+PitchEngine is the sole owner of information provided and/or collected on this site. We will not sell, share, or rent this information to others in any way different from what is disclosed in this statement. 
 
 **Sharing and Usage**  
 We will never share, sell, or rent your personal or business information with third parties for their promotional use. We may disclose or report information in limited circumstances where we believe in good faith that disclosure is required under the law. 
