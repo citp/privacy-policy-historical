@@ -1,60 +1,137 @@
-<!--The following is the downloaded HTML source of the shoutfactory.com privacy policy that was archived on 2009-11-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091106151606id_/http%3A//www.shoutfactory.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the shoutfactory.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526175304id_/http%3A//www.shoutfactory.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Shout! Factory - Online Privacy Policy
 </title><link rel="stylesheet" type="text/css" href="/css/default.css">
   <script type="text/javascript" language="Javascript" src="/js/default.js"></script>
-<meta name="keywords" content="Shout Factory, Pop Culture, TV on DVD, Classic Music, Classic Television, Retro, Richard Foos, Garson Foos, Bob Emmer, Freaks And Geeks"><meta name="description" content="Shout Factory, Pop Culture, TV on DVD, Classic Music, Classic Television, Retro, Richard Foos, Garson Foos, Bob Emmer, Freaks And Geeks"></head>
-<body>
-<table width="1024" border="0" cellspacing="0" cellpadding="0">
+  <script language="javascript">AC_FL_RunContent = 0;</script>
+  <script src="/js/AC_RunActiveContent.js" language="javascript"></script>
+  
+<style type="text/css"><!--
+#containerul, #containerul ul{
+  text-align:left;
+  margin:0; /* Removes browser default margins applied to the lists. */
+  padding:0; /* Removes browser default padding applied to the lists. */
+}
+
+#containerul li{
+  margin:0 0 0 30px; /* A left margin to indent the list items and give the menu a sense of structure. */
+  padding:0; /* Removes browser default padding applied to the list items. */
+  list-style-type:none; /* Removes the bullet point that usually goes next to each item in a list. */
+}
+
+#containerul .symbols{ /* Various styles to position the symbols next to the items in the menu. */
+  float:left;
+  width:12px;
+  height:1em;
+  background-position:0 50%;
+  background-repeat:no-repeat;
+}
+--></style>
+
+<script type="text/javascript" src="http://www.shoutfactory.com/js/prototype.js"></script>
+<script type="text/javascript" src="http://www.shoutfactory.com/js/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="http://www.shoutfactory.com/js/lightbox.js"></script>
+<link rel="stylesheet" href="http://www.shoutfactory.com/css/lightbox.css" type="text/css" media="screen">
+
+<script type="text/javascript">
+<!--
+var temp, temp2, cookieArray, cookieArray2, cookieCount;
+function initiate(){
+  cookieCount=0;
+  if(document.cookie){
+    cookieArray=document.cookie.split(";");
+    cookieArray2=new Array();
+    for(i in cookieArray){
+      cookieArray2[cookieArray[i].split("=")[0].replace(/ /g,"")]=cookieArray[i].split("=")[1].replace(/ /g,"");
+    }
+  }
+  cookieArray=(document.cookie.indexOf("state=")>=0)?cookieArray2["state"].split(","):new Array();
+  temp=document.getElementById("containerul");
+  for(var o=0;o<temp.getElementsByTagName("li").length;o++){
+    if(temp.getElementsByTagName("li")[o].getElementsByTagName("ul").length>0){
+      temp2 = document.createElement("span");
+      temp2.className = "symbols";
+      temp2.style.backgroundImage = (cookieArray.length>0)?((cookieArray[cookieCount]=="true")?"url(/elp/minus.png)":"url(/elp/plus.png)"):"url(/elp/plus.png)";
+      temp2.onclick=function(){
+        showhide(this.parentNode);
+        writeCookie();
+      }
+      temp.getElementsByTagName("li")[o].insertBefore(temp2,temp.getElementsByTagName("li")[o].firstChild)
+      temp.getElementsByTagName("li")[o].getElementsByTagName("ul")[0].style.display = "none";
+      if(cookieArray[cookieCount]=="true"){
+        showhide(temp.getElementsByTagName("li")[o]);
+      }
+      cookieCount++;
+    }
+    else{
+      temp2 = document.createElement("span");
+      temp2.className = "symbols";
+      temp2.style.backgroundImage = "url(page.png)";
+      temp.getElementsByTagName("li")[o].insertBefore(temp2,temp.getElementsByTagName("li")[o].firstChild);
+    }
+  }
+}
+
+function showhide(el){
+  el.getElementsByTagName("ul")[0].style.display=(el.getElementsByTagName("ul")[0].style.display=="block")?"none":"block";
+  el.getElementsByTagName("span")[0].style.backgroundImage=(el.getElementsByTagName("ul")[0].style.display=="block")?"url(/elp/minus.png)":"url(/elp/plus.png)";
+}
+
+function writeCookie(){ // Runs through the menu and puts the "states" of each nested list into an array, the array is then joined together and assigned to a cookie.
+  cookieArray=new Array()
+  for(var q=0;q<temp.getElementsByTagName("li").length;q++){
+    if(temp.getElementsByTagName("li")[q].childNodes.length>0){
+      if(temp.getElementsByTagName("li")[q].childNodes[0].nodeName=="SPAN" && temp.getElementsByTagName("li")[q].getElementsByTagName("ul").length>0){
+        cookieArray[cookieArray.length]=(temp.getElementsByTagName("li")[q].getElementsByTagName("ul")[0].style.display=="block");
+      }
+    }
+  }
+  document.cookie="state="+cookieArray.join(",")+";expires="+new Date(new Date().getTime() + 365*24*60*60*1000).toGMTString();
+}
+//-->
+</script>
+
+</head><body><div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script>
+  window.fbAsyncInit = function() {
+    FB.init({appId: 'your app id', status: true, cookie: true,
+             xfbml: true});
+  };
+  (function() {
+    var e = document.createElement('script'); e.async = true;
+    e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+    document.getElementById('fb-root').appendChild(e);
+  }());
+</script>
+
+<meta name="keywords" content="Shout Factory, Pop Culture, TV on DVD, Classic Music, Classic Television, Retro, Richard Foos, Garson Foos, Bob Emmer, Freaks And Geeks"><meta name="description" content="Shout Factory, Pop Culture, TV on DVD, Classic Music, Classic Television, Retro, Richard Foos, Garson Foos, Bob Emmer, Freaks And Geeks">
+
+
+<table width="1024" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr>
     <td><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1024" height="274" id="headerbar" align="middle"><param name="allowScriptAccess" value="sameDomain"><param name="movie" value="/swf/headerbar.swf"><param name="quality" value="high"><param name="bgcolor" value="#ffffff"><embed src="/swf/headerbar.swf" quality="high" bgcolor="#ffffff" width="1024" height="274" name="headerbar" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer">
 </object></td>
   </tr>
 </tbody></table>
-<table border="0" cellspacing="0" cellpadding="0" class="menu">
+<table border="0" cellspacing="0" cellpadding="0" class="menu" align="center">
   <tbody><tr>
     <td bgcolor="#D2D2D2">
-		<a href="/index.aspx"><img src="/pics/b_01.gif" width="37" height="36" class="menu" alt="Home" onmouseover="rollover('b_01')" onmouseout="rollout('b_01')"></a></td>
-    <td><a href="/index.aspx"><img src="/pics/b_01_0.gif" id="b_01" width="29" height="36" class="menu" alt="Home" onmouseover="rollover('b_01')" onmouseout="rollout('b_01')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="/newreleases.aspx"><img src="/pics/b_02.gif" width="36" height="36" class="menu" alt="New Releases" onmouseover="rollover('b_02')" onmouseout="rollout('b_02')"></a></td>
-    <td><a href="/newreleases.aspx"><img src="/pics/b_02_0.gif" id="b_02" width="47" height="36" class="menu" alt="New Releases" onmouseover="rollover('b_02')" onmouseout="rollout('b_02')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="/audio.aspx"><img src="/pics/b_03.gif" width="36" height="36" class="menu" alt="Audio" onmouseover="rollover('b_03')" onmouseout="rollout('b_03')"></a></td>
-    <td><a href="/audio.aspx"><img src="/pics/b_03_0.gif" id="b_03" width="31" height="36" class="menu" alt="Audio" onmouseover="rollover('b_03')" onmouseout="rollout('b_03')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="/video.aspx"><img src="/pics/b_04.gif" width="37" height="36" class="menu" alt="Video" onmouseover="rollover('b_04')" onmouseout="rollout('b_04')"></a></td>
-    <td><a href="/video.aspx"><img src="/pics/b_04_0.gif" id="b_04" width="30" height="36" class="menu" alt="Video" onmouseover="rollover('b_04')" onmouseout="rollout('b_04')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="/news.aspx"><img src="/pics/b_05.gif" width="37" height="36" class="menu" alt="News" onmouseover="rollover('b_05')" onmouseout="rollout('b_05')"></a></td>
-    <td><a href="/news.aspx"><img src="/pics/b_05_0.gif" id="b_05" width="29" height="36" class="menu" alt="News" onmouseover="rollover('b_05')" onmouseout="rollout('b_05')"></a></td>
-    <td><img src="/pics/blank.gif" width="11" height="36" alt=""></td>
-    <td><a href="/tours.aspx"><img src="/pics/b_14.gif" width="37" height="36" class="menu" alt="Tours" onmouseover="rollover('b_14')" onmouseout="rollout('b_14')"></a></td>
-    <td><a href="/tours.aspx"><img src="/pics/b_14_0.gif" id="b_14" width="33" height="36" class="menu" alt="Tours" onmouseover="rollover('b_14')" onmouseout="rollout('b_14')"></a></td>
-	<td><img src="/pics/blank.gif" width="12" height="36" alt=""></td>
-    <td><a href="/community.aspx"><img src="/pics/b_06.gif" width="36" height="36" class="menu" alt="Community" onmouseover="rollover('b_06')" onmouseout="rollout('b_06')"></a></td>
-    <td><a href="/community.aspx"><img src="/pics/b_06_0.gif" id="b_06" width="55" height="36" class="menu" alt="Community" onmouseover="rollover('b_06')" onmouseout="rollout('b_06')"></a></td>
-    <td><img src="/pics/blank.gif" width="3" height="36" alt=""></td>
-    <td><a href="/contests.aspx"><img src="/pics/b_07.gif" width="37" height="36" class="menu" alt="Games" onmouseover="rollover('b_13')" onmouseout="rollout('b_13')"></a></td>
-    <td><a href="/contests.aspx"><img src="/pics/b_13_0.gif" id="b_13" width="49" height="36" class="menu" alt="Games / Contests" onmouseover="rollover('b_13')" onmouseout="rollout('b_13')"></a></td>
-    <td><img src="/pics/blank.gif" width="12" height="36" alt=""></td>
-    <td><a href="/mediaplayer.aspx"><img src="/pics/b_12.gif" width="36" height="36" class="menu" alt="Media Player" onmouseover="rollover('b_12')" onmouseout="rollout('b_12')"></a></td>
-    <td><a href="/mediaplayer.aspx"><img src="/pics/b_12_0.gif" id="b_12" width="39" height="36" class="menu" alt="Media Player" onmouseover="rollover('b_12')" onmouseout="rollout('b_12')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="/podcast/"><img src="/pics/b_08.gif" width="37" height="36" class="menu" alt="Podcasts" onmouseover="rollover('b_08')" onmouseout="rollout('b_08')"></a></td>
-    <td><a href="/podcast/"><img src="/pics/b_08_0.gif" id="b_08" width="50" height="36" class="menu" alt="Podcasts" onmouseover="rollover('b_08')" onmouseout="rollout('b_08')"></a></td>
-    <td><img src="/pics/blank.gif" width="9" height="36" alt=""></td>
-    <td><a href="http://www.shoutfactorystore.com"><img src="/pics/b_10.gif" width="37" height="36" class="menu" alt="Shout! Store" onmouseover="rollover('b_10')" onmouseout="rollout('b_10')"></a></td>
-    <td><a href="http://www.shoutfactorystore.com"><img src="/pics/b_10_0.gif" id="b_10" width="32" height="36" class="menu" alt="Shout! Store" onmouseover="rollover('b_10')" onmouseout="rollout('b_10')"></a></td>
-    <td><img src="/pics/blank.gif" width="14" height="36" alt=""></td>
-    <td><a href="http://cart.shoutfactorystore.com"><img src="/pics/b_11.gif" width="37" height="36" class="menu" alt="Shopping Cart" onmouseover="rollover('b_11')" onmouseout="rollout('b_11')"></a></td>
-    <td><a href="http://cart.shoutfactorystore.com"><img src="/pics/b_11_0.gif" id="b_11" width="27" height="36" class="menu" alt="Shopping Cart" onmouseover="rollover('b_11')" onmouseout="rollout('b_11')"></a></td>
-    <td><img src="/pics/blank.gif" width="2" height="36" alt=""></td>
+		<a href="/index.aspx"><img src="/pics/01_home_0.gif" id="01_home" width="103" height="24" class="menu" alt="Home" border="0" onmouseover="rollover('01_home')" onmouseout="rollout('01_home')"></a></td>
+    <td><a href="/newreleases.aspx"><img src="/pics/02_newreleases_0.gif" id="02_newreleases" width="124" height="24" class="menu" alt="New Releases" border="0" onmouseover="rollover('02_newreleases')" onmouseout="rollout('02_newreleases')"></a></td>
+    <td><a href="/audio.aspx"><img src="/pics/03_audio_0.gif" id="03_audio" width="90" height="24" class="menu" alt="Audio" border="0" onmouseover="rollover('03_audio')" onmouseout="rollout('03_audio')"></a></td>
+    <td><a href="/video.aspx"><img src="/pics/04_video_0.gif" id="04_video" width="90" height="24" class="menu" alt="Video" border="0" onmouseover="rollover('04_video')" onmouseout="rollout('04_video')"></a></td>
+    <td><a href="/news.aspx"><img src="/pics/05_news_0.gif" id="05_news" width="91" height="24" class="menu" alt="News" border="0" onmouseover="rollover('05_news')" onmouseout="rollout('05_news')"></a></td>
+    <td><a href="/community.aspx"><img src="/pics/06_community_0.gif" id="06_community" width="107" height="24" class="menu" alt="Community" border="0" onmouseover="rollover('06_community')" onmouseout="rollout('06_community')"></a></td>
+    <td><a href="/shoutblog/"><img src="/pics/07_blog_0.gif" id="07_blog" width="90" height="24" class="menu" alt="Blog" border="0" onmouseover="rollover('07_blog')" onmouseout="rollout('07_blog')"></a></td>
+    <td><a href="/mediaplayer.aspx"><img src="/pics/08_mediaplayer_0.gif" id="08_mediaplayer" width="124" height="24" class="menu" alt="Media Player" border="0" onmouseover="rollover('08_mediaplayer')" onmouseout="rollout('08_mediaplayer')"></a></td>
+    <td><a href="/browse/313/exclusives.aspx"><img src="/pics/09_exclusives_0.gif" id="09_exclusives" width="108" height="24" class="menu" alt="Exclusives" border="0" onmouseover="rollover('09_exclusives')" onmouseout="rollout('09_exclusives')"></a></td>
+    <td><a href="http://www.shoutfactorystore.com"><img src="/pics/10_store_0.gif" id="10_store" width="97" height="24" class="menu" alt="Shout! Store" border="0" onmouseover="rollover('10_store')" onmouseout="rollout('10_store')"></a></td>
   </tr>
 </tbody></table>
-<table width="1024" border="0" cellspacing="0" cellpadding="0">
+<table width="1024" border="0" cellspacing="0" cellpadding="0" align="center">
   <tbody><tr valign="top">
     <td class="td_content">
       <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -148,13 +225,13 @@ We will address any issue to the best of our abilities, as quickly as we can!
     </td>
     <td class="td_left">
       <table border="0" cellpadding="0" cellspacing="0" width="100%">
-		  <tbody><tr>
-			<td><a href="http://www.shoutfactory.com/browse/181/hightone_records.aspx">
-			<img src="http://www.shoutfactory.com/pics/sale/hightone.jpg" alt="HighTone Records" width="212" height="120" border="0"></a></td>
-		  </tr>
-              <tr>
-                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
-              </tr>
+	    <tbody><tr>
+		  <td><a href="http://www.shoutfactorystore.com/prodList.aspx?list_type=cathead&amp;list_value=56">
+		  <img src="http://www.shoutfactory.com/pics/sale/dad_grads-sale.jpg" alt="Dads 'N Grads Sale!" width="212" height="120" border="0"></a></td>
+		</tr>
+        <tr>
+          <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
+        </tr>
         <tr>
           <td>
             <table border="0" cellpadding="0" cellspacing="0" width="100%" class="header">
@@ -187,6 +264,9 @@ We will address any issue to the best of our abilities, as quickly as we can!
               </tr>
               
               
+
+
+
               <tr>
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
               </tr>
@@ -197,6 +277,9 @@ We will address any issue to the best of our abilities, as quickly as we can!
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
               </tr>
             </tbody></table>
+
+
+
             <div id="div_Search">
             <table border="0" cellpadding="0" cellspacing="0" width="100%" class="header">
               <form action="/search.aspx" method="get"></form>
@@ -212,12 +295,12 @@ We will address any issue to the best of our abilities, as quickly as we can!
                     <tr>
                       <td class="f"><input type="image" src="/pics/b_Search.gif" width="60" height="17" border="0" onclick="clearTxt('Keyword')"></td>
                     </tr>
-										<tr>
-											<td><img src="/pics/blank.gif" width="10" height="10"></td>
-										</tr>
-										<tr>
-											<td class="f"><a href="/browse.aspx"><img src="/pics/b_BrowseAll.gif" width="90" height="17" border="0"></a></td>
-										</tr>
+					<tr>
+					  <td><img src="/pics/blank.gif" width="10" height="10"></td>
+					</tr>
+					<tr>
+					  <td class="f"><a href="/browse.aspx"><img src="/pics/b_BrowseAll.gif" width="90" height="17" border="0"></a></td>
+					</tr>
                   </tbody></table>
                 </td>
                 <td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td>
@@ -234,8 +317,10 @@ We will address any issue to the best of our abilities, as quickly as we can!
               </tr>
             </tbody></table>
             </div>
-            <div id="div_social">
-              <form action="/social.aspx" method="get"></form>
+
+
+
+            <div id="div_social"><form action="/social.aspx" method="get"></form>
               </div><table border="0" cellpadding="0" cellspacing="0" width="100%" class="header">
               <form action="/subscribe.aspx" method="get"></form>
               <tbody><tr>
@@ -260,6 +345,9 @@ We will address any issue to the best of our abilities, as quickly as we can!
                 </td>
               </tr>
               
+
+
+
               <tr>
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
               </tr>
@@ -269,16 +357,41 @@ We will address any issue to the best of our abilities, as quickly as we can!
               <tr>
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
               </tr>
+
+
+
+              <tr>
+			  </tr><tr>
+                <th class="left" colspan="2"><font size="2">Find Us, Friend Us, Follow Us!</font></th>
+              </tr>
+              <tr><td align="left"><br>&nbsp;&nbsp;<a href="http://www.facebook.com/pages/Shout-Factory/57640591309?v=info&amp;viewas=1204733" target="_blank"><img src="/pics/logos/facebook-icon.png" border="0" width="30" alt="Shout! Factory Facebook"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://twitter.com/shoutfactory" target="_blank"><img src="/pics/logos/twitter-icon.png" border="0" width="30" alt="Shout! Factory Twitter"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.youtube.com/shoutfactory" target="_blank"><img src="/pics/logos/youtube-icon.png" border="0" width="30" alt="Shout! Factory YouTube"></a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.myspace.com/shoutfactory" target="_blank"><img src="/pics/logos/myspace-icon.png" border="0" width="30" alt="Shout! Factory MySpace"></a></td><td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td></tr>
+              
+              
+
+
+
+              <tr>
+                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
+              </tr>
+              <tr>
+                <td class="dots" colspan="2"><img src="/pics/blank.gif" width="10" height="2" alt=""></td>
+              </tr>
+              <tr>
+                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
+              </tr>
+
+
+
               <form action="/tellfriend.aspx" method="get"></form>
               <tr>
                 <th class="left" colspan="2">Tell a Friend</th>
               </tr>
               <tr>
                 <td>
-									<div id="div_tellFriend_txt" class="showGrp">
-									<a href="javascript:tellFriend(1)" class="sm">» Send E-mail</a>
-									</div>
-									<div id="div_tellFriend" class="hideGrp">
+				  <div id="div_tellFriend_txt" class="showGrp">
+				  <a href="javascript:tellFriend(1)" class="sm">» Send E-mail</a>
+				  </div>
+				  <div id="div_tellFriend" class="hideGrp">
                   <table border="0" cellpadding="0" cellspacing="0" width="100%">
                     <tbody><tr>
                       <td class="f"><input type="text" id="TAF_Email1" name="e" value="<your e-mail address>" onclick="clearTxt('TAF_Email1')" class="input_md"></td>
@@ -288,50 +401,24 @@ We will address any issue to the best of our abilities, as quickly as we can!
                     </tr>
                     <tr>
                       <td class="f">Subject<br>
-											<input type="text" name="s" value="Check Out This Website" class="input_md">
-											Message<br>
-											<textarea name="m" class="input_md" rows="5"></textarea></td>
+						<input type="text" name="s" value="Check Out This Website" class="input_md">Message<br>
+						<textarea name="m" class="input_md" rows="5"></textarea></td>
                     </tr>
                     <tr>
                       <td class="f"><input type="image" src="/pics/b_Send.gif" width="45" height="17" border="0" onclick="clearTxt('TAF_Email1');clearTxt('TAF_Email2')">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="javascript:tellFriend(0)" class="sm">« Close</a></td>
                     </tr>
                   </tbody></table>
-									</div>									
+				  </div>									
                 </td>
                 <td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td>
               </tr>
+			  <tr>
+			    <td>
+				  <a name="fb_share" type="button" href="http://www.facebook.com/sharer.php">Share</a><script src="http://static.ak.fbcdn.net/connect.php/js/FB.Share" type="text/javascript"></script>
+				</td>
+			  </tr>
               
-              <tr>
-                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
-              </tr>
-              <tr>
-                <td class="dots" colspan="2"><img src="/pics/blank.gif" width="10" height="2" alt=""></td>
-              </tr>
-              <tr>
-                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
-              </tr>
-              <tr>
 
-	</tr><tr>
-                <th class="left" colspan="2"><font size="2">Find Us, Friend Us, Follow Us!</font></th>
-              </tr>
-              <tr><td></td><td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td></tr>
-              <tr>
-                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
-              </tr>
-			  <tr>
-                <td colspan="2"><a href="http://www.facebook.com/pages/Shout-Factory/57640591309?v=info&amp;viewas=1204733" target="_blank"><img src="/pics/logos/facebook-logo.png" border="0" width="80" alt="Shout! Factory Facebook"></a>
-				&nbsp;&nbsp;<a href="http://twitter.com/shoutfactory" target="_blank"><img src="/pics/logos/twitter-logo.png" border="0" width="80" alt="Shout! Factory Twitter"></a></td>
-              </tr>
-              <tr>
-                <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
-              </tr>
-			  <tr>
-                <td colspan="2"><a href="http://www.youtube.com/shoutfactory" target="_blank"><img src="/pics/logos/youtube-logo.png" border="0" width="80" alt="Shout! Factory YouTube"></a>
-				&nbsp;&nbsp;<a href="http://www.myspace.com/shoutfactory" target="_blank"><img src="/pics/logos/myspace-logo.png" border="0" width="80" alt="Shout! Factory MySpace"></a></td>
-              </tr>
-              
-              
 
               <tr>
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
@@ -343,8 +430,14 @@ We will address any issue to the best of our abilities, as quickly as we can!
               <tr>
                 <td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td>
               </tr>
-						</tbody></table>
-						<span id="ctl00_lb_LeftFeatured"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="header"><tbody><tr><th class="left" colspan="2">Featured</th></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="f"><table cellpadding="2" cellspacing="0" class="content"><tbody><tr><td class="xparent"><b>More Than Meets The Eye!</b></td></tr></tbody></table></td></tr></tbody></table></td><td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td></tr><tr><td colspan="2"><table cellpadding="2" cellspacing="0" class="content"><tbody><tr><td class="xparent"><a href="http://www.shoutfactorystore.com/prod.aspx?pfid=5257010" title="More"><img src="/products_md/Transformers.S1.Final.72dpi.jpg" width="104" class="img_featured" alt="More" border="0"></a></td><td class="xparent_0">Return to where the phenomenon began with the original animated series!<br><br><a href="http://www.shoutfactorystore.com/prod.aspx?pfid=5257010" class="b"><img src="/pics/b_More.gif" border="0" alt="More"></a></td></tr></tbody></table></td></tr><tr></tr><tr><td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td></tr><tr><td class="dots" colspan="2"><img src="/pics/blank.gif" width="10" height="2" alt=""></td></tr><tr><td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td></tr></tbody></table><table width="100%"><tbody><tr><td align="center"><a href="javascript:launchmediaplayer();" class="r"><img src="/pics/mp-button-left_0.gif" id="mp-button-left" class="menu" alt="Launch Media Player" onmouseover="rollover('mp-button-left')" onmouseout="rollout('mp-button-left')" width="175" height="55"></a></td></tr></tbody></table></span>
+			</tbody></table>
+
+
+
+			<span id="ctl00_lb_LeftFeatured"><table border="0" cellpadding="0" cellspacing="0" width="100%" class="header"><tbody><tr><th class="left" colspan="2">Featured</th></tr><tr><td><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="f"><table cellpadding="2" cellspacing="0" class="content"><tbody><tr><td class="xparent"><b>The Preeminent Musical Comedian!</b></td></tr></tbody></table></td></tr></tbody></table></td><td class="bot"><img src="/pics/titleBot.gif" width="21" height="21" alt=""></td></tr><tr><td colspan="2"><table cellpadding="2" cellspacing="0" class="content"><tbody><tr><td class="xparent"><a href="http://www.shoutfactorystore.com/prod.aspx?pfid=5257149" title="More"><img src="/products_md/TomLehrerCollectionCover72dpi.jpg" width="104" class="img_featured" alt="More" border="0"></a></td><td class="xparent_0">Tom Lehrer’s first-ever hits collection, containing highlights from across his 40-year-long recording career, plus his first-ever DVD, including a complete 1967 Oslo concert.<br><br><a href="http://www.shoutfactorystore.com/prod.aspx?pfid=5257149" class="b"><img src="/pics/b_More.gif" border="0" alt="More"></a></td></tr></tbody></table></td></tr><tr></tr><tr><td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td></tr><tr><td class="dots" colspan="2"><img src="/pics/blank.gif" width="10" height="2" alt=""></td></tr><tr><td colspan="2"><img src="/pics/blank.gif" width="10" height="10" alt=""></td></tr></tbody></table><table width="100%"><tbody><tr><td align="center"><a href="javascript:launchmediaplayer();" class="r"><img src="/pics/mp-button-left_0.gif" id="mp-button-left" class="menu" alt="Launch Media Player" width="175" height="55"></a></td></tr></tbody></table></span>
+
+
+
           </td>
         </tr>
       </tbody></table> 
@@ -354,24 +447,33 @@ We will address any issue to the best of our abilities, as quickly as we can!
 		<td class="td_p">
 			<table width="100%" border="0" cellspacing="0" cellpadding="0">
       	<tbody><tr>
-        	<td class="td_f" width="30%" nowrap="">© 2006-2009 Shout Factory</td>
-          <td class="td_f"><a href="/storelookup.aspx">Store Lookup</a></td>
+        	<td class="td_f" width="25%" nowrap="">© 2006-2010 Shout Factory</td>
           <td class="td_f"><a href="/affiliateprogram.aspx">Affiliate Program</a></td>
-          <td class="td_f"><a href="/faq.aspx">Help/Faq</a></td>
+          <td class="td_f"><a href="/storelookup.aspx">Store Lookup</a></td>
           <td class="td_f"><a href="/privacy.aspx">Privacy</a></td>
-          <td class="td_f"><a href="/terms.aspx">Terms of Use</a></td>   
-          <td class="td_f"><a href="/about.aspx">About Us</a></td>           
+          <td class="td_f"><a href="/terms.aspx">Terms of Use</a></td>
+          <td class="td_f"><a href="/faq.aspx">Help/FAQ</a></td>
+          <td class="td_f"><a href="/about.aspx">About Us</a></td>
+          <td class="td_f"><a href="/contact.aspx">Contact</a></td>
         </tr>
       </tbody></table>
 		</td>
 		<td class="td_left">&nbsp;</td>
 	</tr>
 </tbody></table>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+
 <script type="text/javascript">
-_uacct = "UA-1185016-1";
-urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try{
+var pageTracker = _gat._getTracker("UA-1185016-1");
+pageTracker._setDomainName(".shoutfactory.com");
+pageTracker._setAllowLinker(true);
+pageTracker._setAllowHash(false);
+pageTracker._trackPageview();
+} catch(err) {}
 </script>
 
 
