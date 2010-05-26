@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418032251id_/http%3A//www.visualcv.com/www/site_information/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visualcv.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526041841id_/http%3A//www.visualcv.com/www/site_information/privacy_policy.html) for the most accurate reproduction.*
 
 # VisualCV • Privacy Policy
 
@@ -146,4 +146,4 @@ VisualCV, Inc. does not represent or warrant that the Site, or any part thereof,
 
 **h. Contacting Us.**
 
-If you have any questions regarding this Policy, please contact us by email at [support@visualcv.com](mailto:support@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
+If you have any questions regarding this Policy, please contact us by email at [info@visualcv.com](mailto:info@visualcv.com). Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us.
