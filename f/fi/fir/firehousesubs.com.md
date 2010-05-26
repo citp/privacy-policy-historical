@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419115146id_/http%3A//www.firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firehousesubs.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526125247id_/http%3A//www.firehousesubs.com/content.cfm%3Fid%3D247) for the most accurate reproduction.*
 
 # Firehouse Subs ® Privacy Policy
 
@@ -76,11 +76,6 @@ Upon your request, we will provide you with access to your unique account-relate
 
 How is my information protected?  
 Your Account Information is password-protected. In order to maintain this protection, we caution you not to provide your password to anyone. We do not give your password to anyone. We recommend that, if you share your computer with other people, you close your browser window when your session is completed. Signing off will protect your information if you share a computer with someone else or are using a computer in a public place like a library.   
-
-
-  
-[](https://web.archive.org/web/20090419115146id_/http%3A//www.firehousesubs.com/printfriendly.cfm?ContentID=247)  
-  
   
   
 ---|---
