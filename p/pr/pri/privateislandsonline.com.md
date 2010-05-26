@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620084054id_/http%3A//www.privateislandsonline.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privateislandsonline.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164855id_/http%3A//www.privateislandsonline.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Private Islands Online Privacy Policy
 
