@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2008-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081216044140id_/http%3A//taxslayer.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayer.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526121312id_/http%3A//www.taxslayer.com/privacy.aspx) for the most accurate reproduction.*
 
-# TaxSlayer.com | Privacy
+# File Your Federal Taxes & State Taxes Online | Tax Return Software | Secure Tax eFiling
 
-##  TaxSlayer.com Privacy Statement:
+**TAXSLAYER.COM PRIVACY POLICY**
 
 ####  YOUR PRIVACY IS A PRIORITY TO US 
 
@@ -57,7 +57,7 @@ We will use your name and email address to send newsletters to you. Out of respe
 **Sharing Information**
 
 •     **Within TaxSlayer Corporate Family**   
-We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family and our parent company of Rhodes Financial Services, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside or corporate family, except as noted below:   
+We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family and our parent company of Rhodes Financial Services, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside our corporate family, except as noted below:   
 •     **With Our Service Providers**   
 In some cases, we employ service providers to provide a product you order, to fulfill a service you request, or to market one of our products or services. Examples include using Web analytical software, Web beacons, delivering downloadable products, offering online software applications, or sending e-mails on our behalf. While this may require us to share information, these service providers are strictly prohibited from using your information other than to act on our behalf.   
 •     **For Legal Reasons**   
@@ -81,7 +81,7 @@ Even if you are no longer a TaxSlayer customer, our Privacy Policy will continue
 
 We take every step available to safeguard customer information. All forms accepting user information are processed on our secure servers. 
 
-TaxSlayer's electronic filing process is different than most in the fact that you download our software and install it on your personal PC or you may file your return on a Web based page. Once you have completed the return on your personal PC, you are asked to transmit the return to TaxSlayer's secure website. In both the download and the web versions, the tax return file is encrypted to avoid any unwanted detection. Immediately after the files are transmitted to TaxSlayer's website, they are moved to a different location providing less likelihood of unwanted intervention. They are again moved a third time to begin processing. All acknowledgements are handled by e-mail with only general information given. Acknowledgements can also be retrieved via our website again without general information provided. (Example: IRS accepted or rejected, acceptance date, etc.) Confidential information such as refund amounts, names, addresses, and account numbers are not displayed or e-mailed. 
+TaxSlayer's electronic filing process is different than most in the fact that you download our software and install it on your personal PC or you may file your return on a Web based page. Once you have completed the return on your personal PC, you are asked to transmit the return to TaxSlayer's secure website. In both the download and the web versions, the tax return file is encrypted to avoid any unwanted detection. Immediately after the files are transmitted to TaxSlayer's website, they are moved to a different location providing less likelihood of unwanted intervention. They are again moved a third time to begin processing. All acknowledgements are handled by e-mail with only general information given. Acknowledgements can also be retrieved via our website again without general information provided. (Example: IRS accepted or rejected, acceptance date, etc.) TaxSlayer will not issue a refund for returns rejected by the IRS or any state agency. Confidential information such as refund amounts, names, addresses, and account numbers are not displayed or e-mailed. 
 
 Incomplete tax returns or returns that are not accepted by the IRS will be deleted. 
 
@@ -91,12 +91,12 @@ We strive to keep our customer information as accurate and complete as we can. I
 
 **Access to Personal Information:**
 
-Personal Information is accessible online through Oct. 15th, 2009. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
+Personal Information is accessible online through Oct. 20th, 2009. You may view and/or make changes to your personal information by visiting your account online at www.taxslayer.com and selecting "Edit Account Information ". Any return e-filed through TaxSlayer.com will be available only in PDF format (fees may apply). 
 
 **Changes in this Privacy Statement**
 
 The Privacy Policy applies to products and services of TaxSlayer.com, online. We reserve the right to change this Privacy Policy, and any of the policies described above, at any time. Any changes to our policy will be immediately posted and made available to consumers at our website and these changes will not take effect for 15 days after their initial posting.  We will also email users with this information.  The examples contained within this Privacy Policy are illustrations; they are not intended to be exclusive. 
 
-**Approved and Effective 10/1/2008**
+**Approved and Effective 10/1/2009**
 
-[Back to TaxSlayer Home ](https://web.archive.org/web/20081216044140id_/http%3A//taxslayer.com/default.aspx)
+[Back to TaxSlayer Home ](https://web.archive.org/web/20100526121312id_/http%3A//www.taxslayer.com/default.aspx)
