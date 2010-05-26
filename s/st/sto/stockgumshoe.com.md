@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221072605id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stockgumshoe.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164033id_/http%3A//www.stockgumshoe.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Stock Gumshoe Investigates: Privacy Policy
 
@@ -9,6 +9,3 @@ Other data is collected and reported in aggregate by third party statistics prov
 Third parties, including Google and other advertising partners, may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on this website. Google uses what they call a “DoubleClick DART” cookie to serve ads based on your visit to this sites and other sites on the Internet so they can show you advertisements related to your interests. You may specifically opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). “Cookies” are data sent to your web browser from a web server (such as Google) that can uniquely identify your computer and store information about user preferences. Most web browsers will accept cookies by default, but they can be set to reject cookies, either from all websites or from specific sites. You can also manually delete cookies from your web browser. These options are generally set through a “Privacy” setting in your browser setup. Deleting cookies or managing your cookies should not change your ability to access the content on this site. 
 
 ——————————————
-
-  
-
