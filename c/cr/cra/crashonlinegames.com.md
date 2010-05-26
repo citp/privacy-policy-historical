@@ -1,11 +1,10 @@
-> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2009-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090715095537id_/http%3A//www.crashonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crashonlinegames.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165851id_/http%3A//www.crashonlinegames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Crash Online Games
 
+[](http://www.crashonlinegames.com/ "Free Games")
+
 Privacy Policy of Fresh Web Games
-
-  
-
 
 **Privacy Policy for www.crashonlinegames.com**
 
