@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124223537id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinteraction.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526020037id_/http%3A//www.sportsinteraction.com/sportsbook/help-privacy) for the most accurate reproduction.*
 
 # Online Sports Betting. Sports Interaction Privacy Policy. Baseball Odds, NFL Odds and more.
 
   * Help Center
   * [Placing Bets](http://www.sportsinteraction.com/sportsbook/help-bet-placement/)
-  * [Betting Guide](https://web.archive.org/sportsbook/betguide/)
+  * [Betting Guide](http://betguide.sportsinteraction.com/)
   * [Deposits & Withdrawals](http://www.sportsinteraction.com/sportsbook/help-payment-methods/)
   * [Rules](http://www.sportsinteraction.com/sportsbook/help-rules/)
   * [Terms and Conditions](http://www.sportsinteraction.com/sportsbook/help-terms-and-conditions/)
   * [Privacy Policy](http://www.sportsinteraction.com/sportsbook/help-privacy/)
 
 
+  * Privacy Policy
+  *   * Spam Policy
 
-Privacy Policy   Spam Policy
+
 
 We at Sports Interaction are committed to protecting your privacy at all times. We use the information collected on this site to make betting online with us an enjoyable experience, and to provide you with the highest standard of service. We never sell or rent your personal information to third parties.
 
