@@ -1,10 +1,13 @@
-> *The following text is extracted and transformed from the k7computing.com privacy policy that was archived on 2009-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090820201407id_/http%3A//www.k7computing.com/Privacy-Policy/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k7computing.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526230827id_/http%3A//www.k7computing.com/Privacy-Policy/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - K7 Computing
 
+| 
+
 **Introduction.**  
-We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://www.k7computing.com/index.phpindex.php?option=com_content&view=article&id=119 "Terms of Use").  
+We take your right to privacy seriously and want you to feel comfortable using our web site. This Privacy Policy deals with personally identifiable information (referred to as "Data" below) that may be collected by us on our site. This Policy does not apply to other entities that we do not own or control or persons that are not our employees, agents or within our control. Please take time to read our [Terms of Use](http://www.k7computing.com/Privacy-Policy/Terms-of-Use.html "Terms of Use").  
   
+---  
   
   
 **1\. Collection of Data.**  
