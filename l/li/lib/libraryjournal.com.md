@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223214711id_/http%3A//www.libraryjournal.com/info/CA6424878.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libraryjournal.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526162648id_/http%3A//www.libraryjournal.com/info/CA6424878.html) for the most accurate reproduction.*
 
-# Privacy Policy - %xpublication
+# Privacy Policy - Library Journal
 
 _Last Revised:   November 2007_
 
