@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215030906id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teslamotors.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526103730id_/http%3A//www.teslamotors.com/about/privacy.php) for the most accurate reproduction.*
 
 # Tesla Motors - privacy policy
-
-| 
 
 | 
 
@@ -58,7 +56,4 @@ If you have any additional questions, please feel free to contact us any time at
 
 This site and all associated materials are protected by worldwide copyright laws and international treaty provisions. This applies whether or not a copyright notice is present on the materials. You agree to comply with all copyright laws in your use of this site and to prevent unauthorized copying of the materials. Tesla Motors Inc does not grant any express or implied rights to you under any copyrights, trademarks or patents. 
 
-|   
----|---  
-  
-| 
+|  | 
