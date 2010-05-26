@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426211053id_/http%3A//norada.com/norada/entry/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the norada.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165507id_/http%3A//norada.com/norada/crm/privacy_policy) for the most accurate reproduction.*
 
-# 
-
-[](http://www.addthis.com/bookmark.php)
+# CRM Meets Project Management for Serious Business
 
 Privacy Policy
 
@@ -63,6 +61,6 @@ Contacting Norada We value your opinions and feedback. If you have any questions
 
 ###
 
-You're viewing a plain-text version of this page.
+You're viewing this page out of context.
 
-It looks much better viewed from [www.norada.com](http://norada.com/?uri=/norada/entry/privacy_policy)
+It looks much better viewed from [www.norada.com](http://norada.com/?uri=norada/entry/privacy_policy)
