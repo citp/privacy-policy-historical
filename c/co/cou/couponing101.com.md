@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323001801id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponing101.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526114012id_/http%3A//www.couponing101.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Couponing 101
+
+[Disclosure Policy](http://www.couponing101.com/disclosure-policy) | [User Agreement](http://www.couponing101.com/user-agreement) | [Privacy Policy](http://www.couponing101.com/privacy-policy) | [Disclaimer](http://www.couponing101.com/disclaimer)
 
 ### Privacy
 
@@ -27,3 +29,7 @@ While we do our best to protect your personal information, we cannot guarantee t
 Please contact those vendors and others directly if you have any questions about their privacy policies.
 
 For any other information email [webmaster](mailto:Stephanie@Couponing101.com)
+
+[](http://www.printfriendly.com/ "Print an optimized version of this web page")
+
+[](http://www.couponing101.com/disclosure-policy)
