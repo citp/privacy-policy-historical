@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229164834id_/http%3A//www.emailcenterpro.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailcenterpro.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526044205id_/http%3A//www.emailcenterpro.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Email Center Pro
 
