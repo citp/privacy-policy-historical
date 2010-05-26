@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202045236id_/http%3A//www.girlsgames24.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsgames24.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526102604id_/http%3A//www.girlsgames24.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Girls Games privacy policy
+# Privacy Policy - Girls Games 24
+
+On this page we will explain our terms and conditions applying to your online privacy. Girlsgames24.com cares about your privacy and will do efforts to make your visits to our girl games portal private and enclosed. However there are a few issues that you need to be aware of while visiting our free game service for girls: 
 
 **Personal Information**  
-[girlsgames24.com](http://www.girlsgames24.com/) is committed to protecting your privacy online. girlsgames24.com does not collect any personal information. 
+girlsgames24.com is committed to protecting your privacy online. girlsgames24.com does not collect any personal information.
 
 **IP address and logging**  
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
@@ -13,6 +15,9 @@ We use third-party advertising companies to serve ads when you visit girlsgames2
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
+
+**Opt Out**  
+You could opt-out cookies from third parties by using services provided by networkadvertising.org. Please click [here](http://www.networkadvertising.org/managing/opt_out.asp) to learn more about this option. **Note:** this service will actually create cookies itself too, please read their TOS fully to understand the risks.
 
 **Liability**  
 It is girlsgames24.com's policy to respond quickly to claims of intellectual property violation. Upon receiving notification in accordance with any related copyright organization or owner, girlsgames24.com will immediately disable and remove games in question.
