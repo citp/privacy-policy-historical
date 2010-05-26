@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020503id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sainsburysbank.co.uk privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526125900id_/http%3A//www.sainsburysbank.co.uk/savings/legal_regulatory_privacy_policy.shtml) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -235,3 +235,6 @@ We have systems that protect our customers and ourselves against fraud and other
 Please contact us on 0845 602 7174 if you want to receive details of the relevant fraud prevention agencies. We and other organisations may access and use from other countries the information recorded by fraud prevention agencies.
 
 Telephone calls may be recorded for security purposes and monitored under our quality control procedures.
+
+  
+
