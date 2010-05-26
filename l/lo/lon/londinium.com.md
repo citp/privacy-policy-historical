@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the londinium.com privacy policy that was archived on 2009-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090815151712id_/http%3A//www.londinium.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the londinium.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526083607id_/http%3A//www.londinium.com/privacy) for the most accurate reproduction.*
 
 # London Business Directory
+
+Londinium.com is a free to add website directory of London.
+
+There are over 1400 categories of information providing you over 50,000 websites.
+
+To add your website to the directory [click here](http://join.londinium.com/)
+
+Follow us on Twitter at [twitter.com/londiniumcom](http://www.twitter.com/londiniumcom)
 
 [](http://www.londinium.com/advertise)
 
