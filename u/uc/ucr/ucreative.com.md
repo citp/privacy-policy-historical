@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625002154id_/http%3A//www.ucreative.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucreative.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526121639id_/http%3A//www.ucreative.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | UCreative.com
+# UCreative.com » Privacy Policy
 
 Privacy Policy
 
