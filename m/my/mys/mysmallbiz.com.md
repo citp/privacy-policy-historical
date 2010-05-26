@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413212644id_/http%3A//www.mysmallbiz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysmallbiz.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526174553id_/http%3A//www.mysmallbiz.com/privacy.php) for the most accurate reproduction.*
 
 # MySmallBiz.com Privacy Policy
 
@@ -46,7 +46,7 @@ If MySmallBiz.com is sold, the information we have obtained from you through you
 
 ## How You Can Correct or Remove Information
 
-We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://web.archive.org/web/20090413212644id_/http%3A//www.mysmallbiz.com/contact.php) page. 
+We provide this privacy policy as a statement to you of our commitment to protect your personal information. If you have submitted personal information through our website and would like that information deleted from our records or would like to update or correct that information, please use our [Contact Us](https://web.archive.org/web/20100526174553id_/http%3A//www.mysmallbiz.com/contact.php) page. 
 
 ## Updates and Effective Date
 
