@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sdl.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625200428id_/http%3A//www.sdl.com/en/Legal/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdl.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165043id_/http%3A//www.sdl.com/en/Legal/privacy.asp) for the most accurate reproduction.*
 
 # SDL Website Privacy Policy
 
