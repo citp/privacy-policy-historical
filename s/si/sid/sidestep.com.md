@@ -1,122 +1,67 @@
-> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2007-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071227170243id_/http%3A//www.sidestep.com/html/support/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sidestep.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526165418id_/http%3A//www.sidestep.com/help/privacy.html) for the most accurate reproduction.*
 
-# SideStep - Privacy Policy
+# Privacy Policy - KAYAK
 
-[ ](https://digitalid.verisign.com/as2/e375a16fcb78caee11d0d196e82afdbc) **Last modified April 12, 2007.**
+Our goal is to make Kayak the most trusted site in online travel. To do this, we need your help, so any suggestions for improvement can be sent to us directly via the [privacy feedback form](https://web.archive.org/feedback/privacy).
 
-  
-SideStep is a service owned and operated by SideStep, Inc. ("SideStep"), with its principle place of business 2980 Bowers Ave, Santa Clara, California 95051 USA. The Service is comprised of a collection of software and hardware that facilitates your ability to search, compare and purchase travel products and services (such as airline tickets, hotel rooms, and rental cars) from third party suppliers. 
+Kayak is a search engine that saves you time and money. We search the web for the best fares and rates; and then you go directly to a travel supplier's website to make your purchase. So, this means we do not take your credit card information and we do not take your hard earned money. Registration on Kayak is strictly voluntary. You do get some cool information and access to certain great features if you do register, but membership is not necessary to get our great rates and fares.
 
-Subject to your agreement to certain terms and conditions in the Software Use Agreement and/or SideStep Terms of Service, you can access and use the Service through software that you download to your web browser (the "SideStep Software") and the SideStep web site at www.sidestep.com ("SideStep Website" or "Site").
+## What's Your Sign?
 
-The purpose of this Privacy Policy is to inform you of the following:
+Kayak collects personally identifiable information (“PII”) that you provide to us. This includes (at your discretion) your name, email address, password and certain parts of the travel information you submit when you choose to use the Kayak Trips service (the “Trips Service”). Our software uses the PII to personalize and manage the Kayak website for you. For example, our site stores your favorite airport and airlines. Also, the Trips Service software uses PII to create and maintain your travel itineraries. If you do decide to give us this information, you are telling us that this information is both true and accurate. Also, you are telling us that you have the authorization to provide us with that information.
 
-  * What kind of information does SideStep collect about you?
-  * How will the information that SideStep collects be used?
-  * With whom does SideStep share the information it collects about you?
-  * What are the opt-out choices SideStep provides you with regarding the collection, use, and distribution of your information?
-  * What security procedures does SideStep use to protect against the loss, misuse, or alteration of information collected by the company?
-  * How long does SideStep retain information about me?
-  * Does SideStep collect information from children?
-  * How can I access the information SideStep has about me or correct it?
-  * Notification of Changes
+In order to make our site more efficient, we may also collect certain non PII information (such as destination or site usage behavior) based on your use of Kayak. We may use this information to display advertising that you find interesting and suppress advertising that you might find boring or annoying. For example, we might show you travel offers from your home airport, but not those from airports that are other places in the country. Also, we may use this information to send you target email marketing messages that you might find interesting.
 
+To help us debug problems with our software (rare as they are), we may collect some technical information from your browser software (such as Mozilla Firefox or Internet Explorer), screen resolution and the website that referred you to us.
 
+## We'll Keep You In The Loop
 
-SideStep takes the privacy of your personal information very seriously and will use your information only in accordance with the terms of this Privacy Policy. SideStep will not sell or rent your personal information to third parties. However, as described in more detail in Section 4 below, there are limited circumstances when some of your personal information will be shared with third parties, under certain restrictions.
+When you choose to register with us, Kayak logs you in automatically using your email address. This makes it easier for you as you don't have to create and remember a login identifier. The use of your email address for login also allows Kayak the chance to email you a new password in case you forget or lose your old one. This is perfectly OK and happens to the best of us, particularly those of us that are incredibly busy. If you do register with us, Kayak will save your information and recognize you regardless of where you login from. So if you are visiting friends and using their computer, we'll know it's you and display your searches and preferences when you do login.
 
-This Privacy Policy is incorporated into and subject to the SideStep Terms of Service. By using the SideStep Website and/or the SideStep Software you are agreeing to the SideStep Terms of Service and providing your express consent to the use and disclosure of information you provide to SideStep as described in this Privacy Policy.
+Kayak gives you the option of receiving emails from us. We think they are quite amusing, but you may not and can opt out any time. Our emails are sent from a Kayak address and are sent to your real email address. If you are a registered user and send email booking confirmations to our Trips Service, we will recognize you. If you’ve never registered on Kayak and you send us email booking confirmations, we’ll send you an email asking you to register. We’ll also send you an email if you send us your email booking confirmations but we are unable to recognize the travel provider or otherwise to create your consolidated itinerary. Every email that we send has an opt-out URL, so you can be unsubscribed when you want. We do hate spam at Kayak and suspect that you do too.
 
-  
-Whenever you use the SideStep Service, we will assign a unique User ID number to your computer which will be linked to information about your use of the SideStep Service generally, including the searches you perform and the times you choose to click on, and purchase, items searched. Unless you choose to enter your personal information as part of Optional Information (see below) then your User ID is not linked to any information from which you can be personally identified.
+## In This Case Sharing Is Not Caring
 
-  
-When you download the Software or use the Service through the Site, you have the option of setting certain preferences within the SideStep system. These preferences include items such as your home airport, default hotel star rating, and preferred car class ("Preference Information") and they help us to provide you with information that is more tailored to what you would like to see. If you register to receive any of our email newsletters you are required to provide us with a valid email address. If you receive emails from SideStep and would like to stop getting them, you can unsubscribe by clicking the unsubscribe link on one of the emails you receive or by going to the SideStep [unsubscribe page](https://web.archive.org/newsletter/unsubscribe.do?travelfinds=0&spotlight=0&allEmails=0) on the Site. Any Preference Information you choose to provide and your email address will be linked to your User ID. 
+What's yours is yours. The PII that you chose to share with us is not going anywhere off of our site. We won't sell your PII to anyone. There might be an exception in the event Kayak itself is sold. In this case we would transfer your PII to our buyers so that they could continue to provide the same great Kayak service. Also, if you use the Trips Service, you can send, or grant access to, your itinerary to your friends and family. Once displayed on publicly-viewable web pages, that information can be collected and used by others.
 
-  
-If you access and use the Service, our Web server logs typical information, including: 
+From time to time, we will also share aggregated usage information with others. This type of information does not contain your identity or anything personally identifiable to you.
 
->   * The URL of the page requested
->   * The time and date of the request
->   * The type, version, and configuration of web browser being used
->   * The type of operating system being used
->   * The URL of the website where you clicked on a link to get to the SideStep Website. This URL might contain a code to help identify the specific advertisement clicked on.
->   * The IP address to which a copy of the page you requested is to be sent for display by your browser
-> 
+## If The Police Come Knocking At Our Door
 
+Kayak may disclose to authorized law enforcement personnel the personal data from anyone who poses a threat to our interests. This might include those that are attempting to commit fraud or those who conduct activities that could bring harm to others. We assume that this is not you so please don't worry.
 
-This information is linked to your User ID and helps us determine whether your computer has the minimum requirements necessary to download the Software and is used to help us improve the Service. 
+## You Are The Boss
 
-  
-"Cookies" are small files of data that reside on your computer and allow us to recognize you as a user of the Service if you return to the SideStep Website using the same computer and browser. SideStep uses cookies in the following ways: 
+Kayak members and site visitors have control over the use of their personal data. Since you are the boss on Kayak, you always can change your account settings in the "My Profile" page on Kayak. How does it feel to be such a big shot?
 
->   1. A User ID cookie will be used to track your use of the Service. This cookie will be linked to any Optional Information you provide, and will remain on your computer until you choose to delete it.
->   2. The Service will place other cookies on your computer to track your use of the Service and the Software, and to aim to ensure that any advertising delivered is relevant to you. These will be linked to any Optional Information you provide, and will remain on your computer until you choose to delete them.
->   3. Various temporary session cookies are used each time you access the Service. These only remain on your computer until you close your browser (typically when you next log off).
-> 
+## Protecting Your Information
 
+Kayak has a sophisticated security program intended to keep the information stored in our systems protected from unauthorized access. We store your information in secure data centers located in the United States. Our systems are configured with data encryption, or scrambling technologies and firewalls constructed to the highest industry standards. We also use Secure Socket Layer (SSL) technology that protects the data you send over the Internet. Third party security firms review our internal security policies and documentation regularly. The bottom line is, when it comes to information security, we mean business.
 
-You may de-activate the receipt of cookies by your computer at any time by following the relevant instructions in your browser software; however, if you do so you may not be able to correctly receive certain elements of the SideStep Service. 
+## Cookies (Not The Kind You Eat With Milk)
 
-We use third-parties to serve the ads you see when you visit our Site. These companies may use certain information about your visit to the Site in order to provide advertisements about goods and services that may be of interest to you. The information they use is not personally identifiable information (not, for example, your name, address, email address or telephone number) In the course of serving advertisements on our Site; these third-parties may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by SideStep or such, please [click here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
+When you visit Kayak we may store information about your web session and assign you one or more 'cookies'. Your browser will store these cookies on you computer in a small text file. For example, when you decide to login as a Kayak member, we store encrypted information in your browser so you don't have to login on every page.
 
-  
-We also collect information that you input as part of performing searches using the Service. When you choose to book a reservation for a travel product after learning about the product on the Service, in most cases the Service will automatically redirect you to the Web site of the relevant supplier, who will collect and process your payment details. We monitor your activity on the supplier's Web site to see if you book a reservation, and in doing so we may collect information about your booking (such as name, dates of travel, travel origination and destination, and payment information; but not credit card information). This information will be linked to your User ID. You should read the privacy policies on each travel supplier's Web site you access. We are not responsible for their use of the personal information you supply to them.
+Permanent cookie files remain on your computer's hard drive until you delete them manually using your browser or operating system software. You can enable your browser to refuse cookies, but doing so may disable access to some services and tools that we offer.
 
-  
-If you correspond with us in any manner and for any purpose (e.g. e-mails to customer support), we retain such information in order to evaluate and improve our Service and quality of customer support. 
+Kayak does make money by selling advertising as well as referrals from searches on our site. Our third party advertising partners often use a cookie or third party web beacon (a single pixel GIF image) to track when a click becomes a sale (cha ching). No PII is ever sent to these advertising partners.
 
-  
-We use the information we collect from you: (a) to facilitate transactions on your behalf, (b) to activate searches on your behalf, (c) to personalize and improve our service offerings to you, and (d) to ensure that we are compensated by our partners. We also use this information in aggregate form to better understand what purchases users want to make and help provide better offers and a more effective service. If you opt to participate, we may use your information in order to offer you personalized services. We may also develop aggregate - but not individual - reports for our partners. An example of a summary report might be "500 users booked travel to a specific city during the month of November."
+We use third-party advertising companies to serve ads when you visit our web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: [networkadvertising.org](http://networkadvertising.org/consumer/opt_out.asp).
 
-  
-Your personal information is never sold or rented to any third party. SideStep will not share your personal information with third parties except as described in this section or with your express permission. 
+## Can We Email You Sometime?
 
-> a. We disclose certain information that we collect to those travel suppliers with whom you decide to book your travel in order to facilitate your purchases. They will use it to book your reservations and process payments (which may involve your information being processed by third parties involved in the payment authentication process). We are not responsible for use of your data by any travel provider or any such third parties. 
-> 
-> b. We share trend and aggregate information with our partners for business purposes and with other third parties for marketing purposes. We might disclose, for example, that a certain percentage of our users list their home airport as San Francisco. However, this aggregated information is in no way traceable to any specific personal information.
-> 
-> c. We disclose information when required by law or judicial authority.
-> 
-> d. We disclose information as required to safeguard SideStep's rights or property.
-> 
-> e. If SideStep is ever merged with another company, or if SideStep buys, sells or reorganizes some or all part(s) of its business, parties involved in such a transaction would gain access to the information that SideStep has collected over time. Such third parties would be required, however, to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
-> 
-> f. We share certain information (such as your log-in, profile, and preference information) with websites we own and/or operate (such as TravelPost.com). These sites are also required to adhere to the provisions of this Privacy Policy until such time as it was amended in accordance with the process for modification set forth herein.
-> 
-> 
+With the exception of emails confirming registration, emails that include information about your account, emails relating directly to an itinerary or travel profiles created through the Trips Service, and service announcements and administrative messages that are considered part of your account membership, we will not send you any emails unless you opt-in to receive communications from us. If you opt-in to receive communications from us, you will receive information we believe will be of use and interest to you, including target email marketing messages. If you decide that you are no longer interested in receiving email communications from us, you may follow the instructions in our emails to unsubscribe from our email list.
 
+## Every Website Has Its Own Voice and Policies
 
-  
-If you choose to share personally identifiable information with SideStep, you can control whether we contact you. You may change your mind at any time. If you submitted personal information in connection with your use of the Software, you can always change your account information by clicking the "My Preferences" link. Users of the Software may uninstall the Software at any time to stop using the Service via the Software by selecting "Add/Remove Programs" from the Control Panel. In the dialog box that opens, select SideStep from the menu of applications. After clicking on "SideStep," click on the button that says "Remove." 
+Although we work with responsible third parties, their business policies may include different privacy policies and practices than we have. So when you click through to third party websites, our privacy policies no longer apply. We encourage you to read the privacy policies of these partner websites.
 
-If you are receiving communications from SideStep (e.g. SideStep's email newsletters) and no longer wish to receive them, you can unsubscribe either by clicking the unsubscribe link on one of the emails you receive or by going to the SideStep [unsubscribe page](https://web.archive.org/newsletter/unsubscribe.do?travelfinds=0&spotlight=0&allEmails=0) on the SideStep Website.
+## Big Kids Only Please
 
-  
-SideStep operates secure data networks protected by industry-standard firewall and password protection systems. Our internal security and privacy policies are periodically reviewed and enhanced as necessary and only authorized individuals have access to the information provided by our users.
+Kayak does not knowingly collect PII information from people under the age of 18. If we become aware of the fact that a minor is attempting to submit this information, we will inform the minor that he or she is ineligible to do so. We will then remove this information from our records.
 
-While SideStep takes reasonable steps to secure your personal information, no system is fault-proof. If SideStep's security systems are breached, SideStep may attempt to notify you electronically and, by using the Service and/or providing personal information to us, you agree that we can notify you electronically. SideStep may post a notice on the SideStep Website if a security breach occurs. If this happens, you will need a web browser which enables you to view the SideStep Website. 
+## Should We Evolve, Change, Self Actualize
 
-SideStep also may send an email to you at the email address you have provided to us. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving an electronic notice) you should notify us at [privacy@sidestep.com](mailto:privacy@sidestep.com). If your email address changes and you have provided SideStep with personal information, you should notify SideStep at [privacy@sidestep.com](mailto:privacy@sidestep.com) so that we can communicate with you if necessary. 
+Kayak reserves the right to modify this privacy statement at any time. If there are material changes to this statement on how Kayak will use your PII, we will prominently post these changes prior to implementing them. If you use our website after we post these changes, this indicates your acceptance of them. Regardless of later updates, we will follow the privacy practices described in this privacy statement at the time you provided us with your information. If you have questions about our privacy policies, please [send feedback](https://web.archive.org/feedback/privacy).
 
-  
-SideStep will retain information from which it is possible to identify you for a reasonable time bearing in mind the possibility of your re-using the Service. If you would like your information to be deleted at any time you should contact us using the details set out below. 
-
-  
-Children under 13 should not send any information about themselves to SideStep. If a child under 13 submits information through any part of the Service, and we learn the person submitting the information is a child, we will attempt to delete this information as soon as possible. Because we do not knowingly collect any personal information from children under 13, we do not use or disclose such information to third parties. 
-
-  
-SideStep has appointed a privacy officer responsible for assisting you with privacy-related issues. If you would like to change or update your information or preferences, please follow the instructions described above. We are committed to providing you with reasonable access to the information we have about you and reasonably assisting you in managing the personal information you share with us. 
-
-  
-Because our business and services are changing and improving all the time, in the future we may find it necessary to make changes to this Privacy Policy. If you have registered with SideStep, we will notify you via email if we are going to use or disclose your personal information in a manner materially different from that stated at the time we collected the information. At that time, you will have a choice as to whether or not SideStep can use or disclose your information in this new way. Any such material changes will become effective 30 days after we have provided you with email notice of the proposed amendments to the Privacy Policy. We will also prominently post such material changes on the SideStep Website at least 30 days prior to their taking effect. We encourage you to review our Privacy Policy whenever you visit the Site, use the SideStep Software or access and use the Service.
-
-If you have any questions, comments, or concerns about this Privacy Policy or personal information you have provided to us, please email us at [privacy@sidestep.com](mailto:privacy@sidestep.com)or contact us by mail at:
-
-  
-SideStep, Inc.  
-2980 Bowers Ave.  
-Santa Clara, CA 95051  
-Attention: Privacy Officer 
-
-Further information about SideStep is available at [About SideStep](https://web.archive.org/html/about_sidestep/index.html).
+Last updated: October 1, 2009
