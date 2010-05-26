@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the worldsources.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904142905id_/http%3A//www.worldsources.com/ws/wsf/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsources.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526230823id_/http%3A//www.worldsources.com/ws/wsf/policy.html) for the most accurate reproduction.*
 
-# About - WorldSources.com, supplier, buyer, sourcing, trade, trading, manufacturer, product, producer, e-commerce .
+# About - WorldSources.com, WorldOffices.com, iTrader ERP system, China Suppliers Directory, Global Buyers Platform, supplier, buyer, sourcing, trade, trading, manufacturer, product, producer, e-commerce .
 
 WorldSources.com makes a firm commitment to protect your privacy. The following policy, as part of [Terms&Conditions](http://www.worldsources.com/ws/wsf/terms.html) which has to be agreed with by users while visiting our website, provides details of how your information is treated. This policy may be subject to changes without notice. So please check the latest version periodically.
 
