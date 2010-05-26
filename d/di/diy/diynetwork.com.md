@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923234934id_/http%3A//www.diynetwork.com/about-us/privacy-policy/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diynetwork.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526053214id_/http%3A//www.diynetwork.com/about-us/privacy-policy/index.html) for the most accurate reproduction.*
 
 # DIYNetwork.com Privacy Policy : About Us : DIY Network
 
@@ -80,7 +80,7 @@ Scripps Networks, LLC
 1180 Avenue of the Americas  
 New York, NY 10036  
 Attn: California Privacy Request  
-privacy@DIYnetwork.com 
+privacy@scrippsnetworks.com
 
 (6) Third Party Ad Server Networks:
 
@@ -92,7 +92,7 @@ We may offer chat rooms, message boards, bulletin boards or similar public forum
 
  **E. CHILDREN**
 
-The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at privacy@DIYnetwork.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
+The features, programs, promotions and other aspects of our Website requiring personally identifiable information are not intended for children. We do not knowingly collect personally identifiable information from children under the age of thirteen (13). If you are a parent or guardian of a child under the age of thirteen (13) and believe he or she has disclosed personally identifiable information to us, please contact us at privacy@scrippsnetworks.com. A parent or guardian of a child under the age of thirteen (13) may review and request deletion of such child’s personally identifiable information as well as prohibit the use thereof.
 
  **F. KEEPING YOUR INFORMATION SECURE**
 
@@ -108,7 +108,7 @@ Third party applications may be available via the Website. The owners of these a
 
  **I. CONTACT & OPT-OUT INFORMATION**
 
-You may contact us as at privacy@DIYnetwork.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
+You may contact us as at privacy@scrippsnetworks.com if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including e-mails, from us or our affiliated companies; or (d) wish to withdraw your consent to sharing your personally identifiable information with others. 
 
 We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please, note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website. Also, please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Website such as in forums or blogs, these communications cannot generally be removed.
 
