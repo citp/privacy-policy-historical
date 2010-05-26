@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creativeprooffice.com privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826194214id_/http%3A//www.creativeprooffice.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creativeprooffice.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527001953id_/http%3A//www.creativeprooffice.com/site/privacy) for the most accurate reproduction.*
 
 # Project Management, Time Tracking, Invoicing, Quotes : CreativePro Office
 
