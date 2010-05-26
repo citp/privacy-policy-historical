@@ -1,25 +1,21 @@
-> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414203739id_/http%3A//www.stocktrak.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktrak.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526103611id_/http%3A//stocktrak.com/public/about/privacy.aspx) for the most accurate reproduction.*
 
 # Stock Market Simulation Software | Online Stock Simulator | Day Trading Online : Stock-Trak
 
-_Last revised on July 16, 2007._
+## The Information We Collect and How We Collect It
 
-This website is owned and operated by Stock-Trak, Inc. Stock-Trak recognizes and respects the privacy expectations of participants in its simulations. This Privacy Statement explains how we collect, use and protect your personally identifying information ("Personal Information") and under what circumstances it may be disclosed. This Privacy Statement is incorporated into our Agreement. All capitalized terms not defined herein are defined in that Agreement. We reserve the right to change this Privacy Statement from time to time, consistent with applicable privacy and other laws. Unless prohibited by applicable law, any such change will apply thirty (30) days from date of posting on our site, unless you object ("opt-out") as provided below before that date. Your continued use of this site following such changes signifies your acceptance of those changes. 
-
-### The Information We Collect and How We Collect It
-
-  1. Stock-Trak Inc. collects Personal Information from registered participants. As a condition of registration, participants provide their name, address, email address and date of birth. Stock-Trak Inc. may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below. 
-  2. Stock-Trak Inc. is the sole owner of the information collected through our site. We sell, share or rent this information to others only in ways that are disclosed in this privacy statement or with your express consent. 
+  1. Stock-Trak collects Personal Information from registered participants. As a condition of registration, participants provide their name, address, email address and date of birth. Stock-Trak may also collect additional information from participants and other visitors to the site through cookies or web beacons as detailed below. 
+  2. Stock-Trak is the sole owner of the information collected through our site. We sell, share or rent this information to others only in ways that are disclosed in this privacy statement or with your express consent. 
 
 
 
-### Purpose of the Information
+## Purpose of the Information
 
-Stock-Trak Inc. collects Personal Information from our participants to facilitate our simulations' plays, including determining participants' eligibility. Personal Information allows us to keep track of our individual participants' performance, advise winners of their prizes and how those prizes may be collected and publicize results. The information further allows us to contact participants to announce simulation updates, new simulations or any other information about Stock-Trak Inc. that may be of interest to a participant. 
+Stock-Trak collects Personal Information from our participants to facilitate our simulations' plays, including determining participants' eligibility. Personal Information allows us to keep track of our individual participants' performance, advise winners of their prizes and how those prizes may be collected and publicize results. The information further allows us to contact participants to announce simulation updates, new simulations or any other information about Stock-Trak that may be of interest to a participant. 
 
-### To Whom We Disclose the Information
+## To Whom We Disclose the Information
 
-Stock-Trak Inc. will only sell or disclose your Personal Information to third parties in select circumstances as detailed in the following paragraph of this Privacy Statement. 
+Stock-Trak will only sell or disclose your Personal Information to third parties in select circumstances as detailed in the following paragraph of this Privacy Statement. 
 
 First, as noted in the Agreement, we may publicize the names, likenesses and other information concerning winners of the simulations as we deem appropriate. 
 
@@ -29,18 +25,18 @@ Third, we may also disclose your Personal Information to our advertisers but onl
 
 Finally, we may share your Personal Information, as permitted by law, to both our affiliates and other non-affiliated third parties that offer products or services that we or they believe may be of interest to you. 
 
-### Other Information Collected Through The Site 
+## Other Information Collected Through The Site 
 
-Stock-Trak Inc. also collects other information through its site for personalization purposes to make it more interesting for you. Our site uses cookies, which are pieces of information that a website sends to your computer while you are viewing our site. While a cookie assigns a random, unique number to your computer, it does not contain information that would personally identify you even though we can associate the cookie with any personally identifying information that you provide us while visiting our site. This cookie is exclusive to Stock-Trak Inc. and we do not provide access to the cookie to any third party. While most browsers allow you to refuse cookies, this act will limit system performance and may even cause certain site features to malfunction or not to work. For more information, please consult your browser's "help" button. 
+Stock-Trak also collects other information through its site for personalization purposes to make it more interesting for you. Our site uses cookies, which are pieces of information that a website sends to your computer while you are viewing our site. While a cookie assigns a random, unique number to your computer, it does not contain information that would personally identify you even though we can associate the cookie with any personally identifying information that you provide us while visiting our site. This cookie is exclusive to Stock-Trak and we do not provide access to the cookie to any third party. While most browsers allow you to refuse cookies, this act will limit system performance and may even cause certain site features to malfunction or not to work. For more information, please consult your browser's "help" button. 
 
 Our site also uses "web beacons". Web beacons are small pieces of data that are embedded in images on website pages. Web beacons allow us to analyze our site's traffic patterns, such as the frequency with which our users visit various parts of the site. The beacons' use may involve the transmission of information either directly to us or to another party authorized by us to collect information on our behalf. Web beacons may also be in HTML emails we send our participants and used to determine whether the participants have opened those emails or clicked on their links. Web beacons' information may be collected in a form that is personally identifiable. 
 
 If you're a registered member of [www.stocktrak.com](http://www.stocktrak.com/), we use your email address to send you free email newsletters containing selected stories, market information, advertisements and links to our sites. 
 
-### Opting Out of Changes To This Privacy Statement
+## Opting Out of Changes To This Privacy Statement
 
 From time to time, we may amend this Privacy Statement. Should any amendments create additional ways in which we may collect or disclose your Personal Information, you may opt out of those amendments by e-mailing us within 30 days of the posting of the revised Privacy Statement on the site. We will always identify the date this Privacy Statement was last revised at the top of the statement. It is your responsibility to monitor the statement periodically to determine whether there have been changes. Opting out of an amendment to this Privacy Statement may subject you to termination of your registration and participation in any ongoing or future simulations at our sole election and upon notice to you. 
 
-### Corrections
+## Corrections
 
-To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: Customer Service at [help-desk@stocktrak.com](mailto:help-desk@stocktrak.com)
+To correct Personal Information you have submitted or if you have any questions about this Privacy Statement, contact: Customer Service at [help-desk{at}stocktrak.com](mailto:help-desk@stocktrak.com)
