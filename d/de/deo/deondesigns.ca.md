@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415214205id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deondesigns.ca privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526183324id_/http%3A//www.deondesigns.ca/privacy.php) for the most accurate reproduction.*
 
 # Deon Designs Privacy Policy Statement
 
@@ -12,7 +12,20 @@ We will do everything in our power to ensure your right to privacy. Protecting y
 
 In the course of serving its customers, **Deon Designs** acquires, stores and transmits customer communications and information that customers may regard as private or sensitive. The information we collect is personal information that identifies you personally in order to establish service, such as: 
 
-Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by **Deon Designs** in the normal course of providing service.   
+  * Your name
+  * E-mail
+  * Address
+  * Phone number
+  * URL
+
+
+
+Other information - such as the customer's account status, choice of services, and customer logs - is created and maintained by **Deon Designs** in the normal course of providing service. 
+
+  * We will never distribute, sell or transfer your personal information for any purpose to any outside source.
+  * You may remove yourself from our database at any time.
+  * We will control audit and edit all material that is provided and/or sent to you and not knowingly endorse, promote or transact with any company that displays and/or sells objectionable material.
+
 
 
 **Maintenance of Information**
@@ -21,7 +34,7 @@ The information provided by Users of this Website is saved indefinitely and may 
 
 While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such unfortunate occurrences.
 
-Any other particularly sensitive information, such as your credit card number collected for a commerce transactions at **Deon Designs** is encrypted prior to transmission.
+Any other particularly sensitive information, such as your credit card number collected for a commerce transactions at **Deon Designs** is encrypted prior to transmission. We do not collect neither keep on file any credit cards.
 
 **Your Responsibility**
 
@@ -33,41 +46,9 @@ After your User session, always remember to log out to ensure that others cannot
 
 **Questions**
 
-Users may direct questions concerning this Privacy Policy and [contact us](https://www.deondesigns.ca/clients/whmcs/contact.php?option=com_dfcontact&Itemid=27) any time.
+Users may direct questions concerning this Privacy Policy and [contact us](https://www.deondesigns.ca/clients/whmcs/contact.php) any time.
+
+Last Updated: 09/03/2009
 
   
-| **_Quick Map_**  
----  
-  
-[Search Engine Optimization](http://www.deondesigns.ca/seo.php)  
-[Small & Medium Business Solutions](http://www.deondesigns.ca/seo-Small_Medium_Business_Solutions.php)  
-[**Enterprise Business Solutions**](http://www.deondesigns.ca/seo-Enterprise_Business_Solutions.php)  
-[On-Page Optimization](http://www.deondesigns.ca/seo-On_Page_Optimization.php)  
-[Off-Page Optimization](http://www.deondesigns.ca/seo-Off_Page_Optimization.php)  
-[SEO Dictionary](http://www.deondesigns.ca/seo_dictionary.php)
 
-| 
-
-[Web Hosting](http://www.deondesigns.ca/webhosting.php)  
-[Start Web Hosting](http://www.deondesigns.ca/hosting_start.php)  
-[Deluxe Web Hosting](http://www.deondesigns.ca/hosting_deluxe.php)  
-[Business Web Hosting](http://www.deondesigns.ca/hosting_business.php)  
-[Enterprise Web Hosting](http://www.deondesigns.ca/hosting_enterprise.php)  
-[Order Web Hosting](https://www.deondesigns.ca/clients/whmcs/cart.php)  
-
-
-| 
-
-[Web Design](http://www.deondesigns.ca/webdesign.php)
-
-[E-Commerce](http://www.deondesigns.ca/ecommerce.php)
-
-[Domain Name Registration](http://www.deondesigns.ca/domain.php)
-
-| 
-
-[Contact Us](https://www.deondesigns.ca/clients/whmcs/contact.php)
-
-[Support](https://www.deondesigns.ca/clients/whmcs/)
-
-[Our Clients](http://www.deondesigns.ca/clients.php)
