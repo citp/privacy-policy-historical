@@ -1,7 +1,26 @@
-> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617192655id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmaplayground.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526170136id_/http%3A//www.mmaplayground.com/privacy.aspx) for the most accurate reproduction.*
 
 # MMAPlayground.com Internet Privacy Policy
 
+| **UFC 113**  
+---  
+Earnings | Username  
+[$85,342](https://web.archive.org/financial_history.aspx?U=19335#EID76) | [aarondramp](https://web.archive.org/profile/aarondramp)  
+[$79,031](https://web.archive.org/financial_history.aspx?U=2283#EID76) | [kaduey](https://web.archive.org/profile/kaduey)  
+[$62,021](https://web.archive.org/financial_history.aspx?U=11397#EID76) | [wafb](https://web.archive.org/profile/wafb)  
+[$55,761](https://web.archive.org/financial_history.aspx?U=12040#EID76) | [jay_81](https://web.archive.org/profile/jay_81)  
+[$54,072](https://web.archive.org/financial_history.aspx?U=10761#EID76) | [komodo20](https://web.archive.org/profile/komodo20)  
+[$42,870](https://web.archive.org/financial_history.aspx?U=32458#EID76) | [mattmcewen](https://web.archive.org/profile/mattmcewen)  
+[$42,034](https://web.archive.org/financial_history.aspx?U=6571#EID76) | [Pookie](https://web.archive.org/profile/Pookie)  
+[$39,639](https://web.archive.org/financial_history.aspx?U=9918#EID76) | [breakyourface](https://web.archive.org/profile/breakyourface)  
+[$34,609](https://web.archive.org/financial_history.aspx?U=14741#EID76) | [sizzlack](https://web.archive.org/profile/sizzlack)  
+[$33,932](https://web.archive.org/financial_history.aspx?U=8807#EID76) | [Mithra](https://web.archive.org/profile/Mithra)  
+[$32,466](https://web.archive.org/financial_history.aspx?U=14286#EID76) | [supatolacyl](https://web.archive.org/profile/supatolacyl)  
+[$29,216](https://web.archive.org/financial_history.aspx?U=16015#EID76) | [drewhemenway](https://web.archive.org/profile/drewhemenway)  
+[$29,067](https://web.archive.org/financial_history.aspx?U=40692#EID76) | [GrizzlyChdms](https://web.archive.org/profile/GrizzlyChdms)  
+[$28,572](https://web.archive.org/financial_history.aspx?U=14905#EID76) | [misses1112](https://web.archive.org/profile/misses1112)  
+[$27,935](https://web.archive.org/financial_history.aspx?U=35820#EID76) | [Aiden08](https://web.archive.org/profile/Aiden08)  
+  
 MMAPlayground.com has written this privacy policy to demonstrate our commitment to user based internet privacy. The following discloses our info gathering and dissemination practices for MMAPlayground.com. 
 
 1\. Collecting Personal Information from Visitors 
@@ -34,4 +53,6 @@ We reserve the right to contact site users/visitors concerning account status up
 
 7\. MMAPlayground.com Privacy Policy Update Rights 
 
-The aforementioned policy information is effective as of January 11th, 2007. We personally reserve the right to alter this policy as deemed necesary at any time to ensure the successful administration of this website. By visiting and using the MMAPlayground.com website you are accepting all of the terms and conditions outlined in the above MMAPlayground.com Internet Privacy Policy. 
+The aforementioned policy information is effective as of January 11th, 2007. We reserve the right to alter this policy as deemed necesary at any time to ensure the successful administration of this website. By visiting and using the MMAPlayground.com website you are accepting all of the terms and conditions outlined in the above MMAPlayground.com Internet Privacy Policy. 8\. Other We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit networkadvertising.org/managing/opt_out.asp. 
+
+| 
