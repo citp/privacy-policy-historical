@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2009-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090314200822id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponmountain.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526093956id_/http%3A//www.couponmountain.com/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Offer Online Coupons & Coupon Codes at Coupon Mountain
 
 ### COUPONMOUNTAIN.COM
 
-**Last Updated: September 10, 2008**
+**Last Updated: February 25, 2010**
 
 _**Privacy Policy**_
 
 Generally CouponMountain.com ("Site" or "we", "our" or "us") does not collect, store, use or disclose any data collected with an intention to identify and/or contact a person such as: name, address, telephone number or e-mail address (hereinafter "PII") except in very specific instances, for example, when you provide PII through registering on the Site or as set forth in this Privacy Policy. Whenever we collect such PII, it will be governed by this Privacy Policy. 
 
-CouponMountain.com provides savvy shoppers with the latest available online coupons at a single destination site. This service is provided by CouponMountain.com which is owned by MeziMedia, Inc. ("MeziMedia"). For CouponMountain.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
+CouponMountain.com provides savvy shoppers with the latest available online coupons at a single destination site. This service is provided by CouponMountain.com which is owned by ValueClick Brands, Inc. ("ValueClick Brands"). For CouponMountain.com, privacy is a top priority and we provide this Privacy Policy to outline our practices and procedures with respect to information collection and use to enable you to make an informed decision about sharing information with us.
 
 **What does this Privacy Policy cover?**
 
@@ -20,9 +20,9 @@ Please be aware that, as part of the service provided by this Site, we may provi
 
 **What information does CouponMountain.com collect and how is it used? Does CouponMountain.com disclose information to third parties?**
 
-We may collect any or all of the following three types of information: (i) traffic or clickstream data, (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"), and/or (iii) PII in the instances as set forth in this Privacy Policy. Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of MeziMedia ("MeziMedia Entities"). 
+We may collect any or all of the following three types of information: (i) traffic or clickstream data, (ii) non-personally identifiable information (for example: IP address, browser types, operating systems, domain names, access dates and times, referring website addresses, online transactions and browsing and search activity) ("Non-PII"), and/or (iii) PII in the instances as set forth in this Privacy Policy. Our collection and use of each type of data is described below, as well as the ways (if any) in which the data may be shared with third parties or subsidiaries or affiliates of ValueClick Brands ("ValueClick Brands Entities"). 
 
-(a) Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and MeziMedia Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and MeziMedia Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or MeziMedia Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
+(a) Traffic or Clickstream Data ("Clickstream Data"). Clickstream Data consists of traffic and usage data that is not personally identifiable. We do not supplement or combine Clickstream Data with any PII. We may share Clickstream Data we collect with certain selected third parties and ValueClick Brands Entities, but only in anonymous form. Notwithstanding the foregoing, such third parties and ValueClick Brands Entities may combine such Clickstream Data with any PII that you choose to give to such third parties or ValueClick Brands Entities when registering with their websites. We collect Clickstream Data regarding use of our services by observing browser functions and the files (pages) you access. For example, our servers collect information about the site to which you may redirect to in order to enable us to calculate and receive payments from our business partners. In addition, we may use Clickstream Data to better design our services.
 
 (b) Non-Personally Identifiable Information. As part of our on-going efforts to ensure the best possible experience for all users of the Site, we may use log files, web beacons and cookies to collect Non-PII from the Site, browsers, advertisers and third-party sites. "Log files" track actions occurring on the Site and collect data including: your IP address, browser type, Internet service provider, referring/exit pages, platform type, date/time stamp, click data and types of advertisements viewed. "Web beacons" are electronic files used to track your navigation of a website or collection of sites, the completion of transactions, submittal of applications and browsing behavior. "Cookies" are files (e.g. flash browser objects) that are stored on your Internet enabled device (which includes your computer, BlackBerry or other PDA). Cookies are used to improve the experience web users have when they see web advertisements and ensure that when a web user clicks on an advertisement, they are sent to the correct click-through destination. We may use Cookies for purposes which may include, without limitation, to estimate the total reach of any of our advertisers, how frequently you return to the Site, as well as to streamline experiences of users of our Site. Cookies are also an anonymous way to survey how we are doing and to look for ways to improve our services. All information collected by Cookies, Web beacons and Log files are Non-PII.
 
@@ -42,15 +42,15 @@ Finally, from time to time, but only with your permission, we may provide your P
 
 **Do I have choices?**
 
-Yes. You may opt-out of having your PII shared with third parties at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: CouponMountain.com, Attn: Privacy Officer, 103 E. Lemon Ave., Suite 200, Monrovia, CA 91016 or you can email us including your full name, email address with a request for opt-out with regard to your PII to [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com). 
+Yes. You may opt-out of having your PII shared with third parties at any time by sending request that includes your full name, email address, and postal address with a request for opt-out with regard to your PII to: CouponMountain.com, Attn: Privacy Officer, 222 E. Huntington Drive, Suite 105 Monrovia, CA 91016 or you can email us including your full name, email address with a request for opt-out with regard to your PII to [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). 
 
-We also offer "opt-out Cookies" to block the placement of future MeziMedia Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
+We also offer "opt-out Cookies" to block the placement of future ValueClick Brands Persistent Cookies on your system for one thousand (1,000) days from the time you opted out. If you have multiple internet browsers or users on the same computer, you will need to perform the opt-out operation for each browser and/or user. If you or your privacy software deletes the opt-out Cookies from your computer, you will need to repeat the process. Alternatively, most internet browsers and browser add-ons allow you to adjust their settings to allow you to automatically refuse Cookies either generally or from specific sites. To adjust these settings, we suggest that you contact the supplier of you browser and browser add-ons for more information.
 
-**MeziMedia Opt-Out Cookies (click on link below)**
+**ValueClick Brands Opt-Out Cookies (click on link below)**
 
-<http://www.mezimedia.com/opt.php>
+<http://www.valueclickbrands.com/opt.php>
 
-Please note that the above link for opt-out Cookies is only applicable to MeziMedia owned websites using Persistent Cookies and not any other company website. Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
+Please note that the above link for opt-out Cookies is only applicable to ValueClick Brands owned websites using Persistent Cookies and not any other company website. Also, please note that use of the opt-out Cookies or implementation of browser settings and add-ons that refuse all cookies will affect our ability to provide you content and advertisements that will more effectively match your interests and may prevent us from controlling the frequency with which you may view any particular advertisement. "Session Cookies" are used only during your visit to the Site and are erased once you close your browser.
 
 **Is data stored by CouponMountain.com secure?**
 
@@ -58,11 +58,11 @@ We employ reasonable measures to ensure the security of all information and we r
 
 **Does CouponMountain.com collect personally identifying information from or about children?**
 
-We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@mezimedia.com](mailto:privacy@MeziMedia.com).
+We use reasonable efforts not to collect, use or disclose PII from children under the age of 13. The services are not targeted at children, and children age 13 and under may not register for any portions of the services that require registration. If you believe your child has provided us with any PII data by registering on our Site, please specify this issue and email us at [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com).
 
 **How can I access or correct any personally identifying information about me?**
 
-To request a copy of any PII you have sent to us, please send an email containing your request to [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
+To request a copy of any PII you have sent to us, please send an email containing your request to [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com). You must provide your full name and the e-mail from which the request is received (and to which the response will be sent) must match the e-mail on file with us. You may then correct or delete such information using the procedures specified in the e-mail.
 
 **How can I learn about changes to this privacy policy?**
 
@@ -74,8 +74,8 @@ If you have any questions about anything in this Privacy Policy or about collect
 
 Business and Legal Affairs 
 
-CouponMountain.com/MeziMedia   
-103 E. Lemon Ave., Suite 200   
-Monrovia, CA 91016 
+CouponMountain.com/ValueClick Brands   
+222 E. Huntington Drive, Suite 105  
+Monrovia, CA 91016
 
-E-Mail: [privacy@MeziMedia.com](mailto:privacy@MeziMedia.com)
+E-Mail: [privacy@valueclickbrands.com](mailto:privacy@valueclickbrands.com)
