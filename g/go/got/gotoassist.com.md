@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2009-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091024141159id_/http%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotoassist.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526081156id_/http%3A//www.gotoassist.com/en_US/privacyPopUp.tmpl) for the most accurate reproduction.*
 
 # GoToAssist Express: Privacy Policy
 
-Last Updated: May 27, 2009
+Last Updated: March 30, 2010
 
 [](http://www.truste.org/ivalidate.php?companyName=Citrix%20Systems,%20Inc.&sealid=102)
 
@@ -10,7 +10,7 @@ By registering your details with us you confirm that you have read, understood a
 
 This privacy policy (the "Privacy Policy") discloses the privacy practices for GoToAssist (at [www.gotoassist.com](http://www.gotoassist.com/) ), a site hosted by Citrix Online. Because maintaining the trust of our users is a priority to us, Citrix Online is committed to respecting your privacy. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because GoToAssist wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. Please understand the TRUSTe program only covers information that is collected through this Web site and does not cover information that may be collected through software downloaded from the site.
 
-Citrix Online welcomes your feedback about this privacy policy. Send your questions or concerns regarding this privacy statement to [privacy@citrixonline.com](mailto:privacy@citrixonline.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
+Citrix Online welcomes your feedback about this privacy policy. Send your questions or concerns regarding this privacy statement to [privacy@citrixonline.com](mailto:privacy@citrixonline.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url=http://www.citrixonline.com). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
 
 ## Table of Contents
 
@@ -99,6 +99,6 @@ Back to top
 
 ### 8\. Who can I contact if I have additional questions?
 
-For additional inquiries about this Privacy Policy and/or the privacy of your Personal Information, you can contact Citrix Online via email at privacy@citrixonline.com, by calling +1-805-690-6400 or by writing to us via regular mail at: Citrix Online, 6500 Hollister Avenue, Santa Barbara, CA 93117. To reach our Global Customer Support department, you may contact us at [gotoassist@citrixonline.com](mailto:gotoassist@citrixonline.com).
+For additional inquiries about this Privacy Policy and/or the privacy of your Personal Information, you can contact Citrix Online via email at privacy@citrixonline.com, by calling 1 800 549 8541 or by writing to us via regular mail at: Citrix Online, 6500 Hollister Avenue, Santa Barbara, CA 93117. To reach our Global Customer Support department, you may contact us at [gotoassist@citrixonline.com](mailto:gotoassist@citrixonline.com).
 
 Back to top
