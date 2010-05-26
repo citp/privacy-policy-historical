@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204005607id_/http%3A//www.carsoup.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carsoup.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526050326id_/http%3A//www.carsoup.com/about/privacy.asp) for the most accurate reproduction.*
 
-# CarSoup - Buy, Research, Sell cars in the Minneapolis - St. Paul area. Pricing on new and used vehicles with CarSoup.com.
+# New Used | Cars Trucks Autos | North Platte
 
 **Last updated on 12/11/06**
 
