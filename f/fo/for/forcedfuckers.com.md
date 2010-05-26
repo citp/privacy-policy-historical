@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forcedfuckers.com privacy policy that was archived on 2007-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071201064955id_/http%3A//ncb.es/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forcedfuckers.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526231519id_/http%3A//newconceptbusiness.com/privacy.htm) for the most accurate reproduction.*
 
 # NEW CONCEPT BUSINESS SL Official Website.
 
