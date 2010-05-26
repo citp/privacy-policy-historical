@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317085859id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crucial.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526172731id_/http%3A//www.crucial.com/store/privacy.aspx) for the most accurate reproduction.*
 
 # Memory upgrades from Crucial.com - Crucial's Privacy Policy
 
@@ -54,6 +54,9 @@ Crucial is part of a group of companies owned by Micron Technology, Inc. Crucial
 **Agents**  
 We may employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. 
 
+**Anti-Fraud Checks**   
+We may use personal information provided to us to conduct anti-fraud checks that may help us detect and prevent fraud. The personal information we receive may be disclosed to a credit reference agency, fraud prevention agency or other information provider, which may keep a record of that information. 
+
 **Contacting the Web site**  
 If you have any questions about Crucial's privacy policy or the privacy practices of our site, you may use one of the specific choices below or you may contact us by phone at 800-336-8915 (US and Canada only) or 208-363-5790 or by email at [crucial.service@micron.com](mailto:crucial.service@micron.com). 
 
@@ -62,12 +65,12 @@ Our site provides you with the opportunity to opt-out of receiving communication
   * **Correct/update**  
 If you want to change or modify information you have previously provided to us, simply log in to your password-protected account. Once you are logged in, you will see links that will allow you to update your address book, e-mail subscriptions, password, and customer profile. (This list may change over time as our Web site is updated.) If you do not have a password-protected account with Crucial, you can modify your e-mail subscriptions on our [e-mail subscription page](https://web.archive.org/us/mysite/newslettersignup.aspx). If you have any problems or questions about updating information you have previously provided, please contact us at 800-336-8915 (US and Canada only) or 208-363-5790. Or you can send an e-mail to [crucial.service@micron.com](mailto:crucial.service@micron.com).
   * **Compliance Hotline**  
-If you have questions or concerns regarding use of your privacy information, please contact us first using one of the methods above. If you are still dissatisfied, you may call our Compliance Hotline at (866) 294-5593 in the U.S., Canada, and Puerto Rico, for other international numbers [click here](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=8715&nav=page2). If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should contact BBBonline: Dispute Resolution (703) 247-9370 or 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203. BBB will then serve as a liaison with us to resolve your privacy concerns.
+If you have questions or concerns regarding use of your privacy information, please contact us first using one of the methods above. If you are still dissatisfied, you may call our Compliance Hotline at (866) 294-5593 in the U.S., Canada, and Puerto Rico, for other international numbers [click here](https://secure.ethicspoint.com/domain/en/report_custom.asp?clientid=8715&nav=page2). If you do not receive acknowledgement of your inquiry or your inquiry is not satisfactorily addressed, you should contact BBB EU Safe Harbor: (703) 247-9370 or 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203.
   * **U.S. Commerce Department Safe Harbor Principles**  
 Micron adheres to the U.S. Commerce Department Safe Harbor Principles. Information about the U.S. Department of Commerce Safe Harbor certification can be found at [www.export.gov/safeharbor](http://www.export.gov/safeharbor/).
 
 
 
 **Updates/Effective Date**  
-Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: August 15, 2007.  
+Micron reserves the right to amend this Privacy Policy from time to time. Changes to this Policy will apply to information we have received and information we receive after the revised Policy is effective. When we do amend this Policy, the revised Policy will be posted here so please visit this Web page to view the most current Policy. The effective date of this version of the Privacy Policy is: March 1, 2010.  
 
