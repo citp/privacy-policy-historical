@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the warcraftmovies.com privacy policy that was archived on 2009-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091107205622id_/http%3A//warcraftmovies.com/pp.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the warcraftmovies.com privacy policy that was archived on 2010-05-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100526171105id_/http%3A//warcraftmovies.com/pp.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <title>WarcraftMovies.com - World of Warcraft Movies</title>
@@ -53,7 +53,7 @@ function highlight(){
 		<script type="text/javascript">
 		// Load and execute the DD_BelatedPNG.fix script to fix png-transparency in IE6. This also supports background-repeat,
 		// which many other "PNG-fix" solutions does not handle. Downside being to name all transparent png-images or blocks with png backgrounds.
-		DD_belatedPNG.fix('#logo, #topmenu, #top input, #top span, #top a, #content, #searchmenu #search button, #searchmenu a#upload, #spotlight, #spotlight2, .wideblock, .block, .top, .top b, .bottom, .bottom b, li.rogue b, li.priest b, li.paladin b, li.mage b, li.hunter b, li.druid b, li.deathknight b, li.warrior b , li.warlock b, li.shaman b, li.unknown b, li.multiple b, li.wcm, li.mmo, li.wtf, li.dv, .rate, .skill, .hot, .gem, .rec, .pla, #tag, b.rating50, b.rating45, b.rating40, b.rating35, b.rating30, b.rating25, b.rating20, b.rating15, b.rating10, .movieactions, span.listup, span.listdown, img.longdivider, a.usersub, a.userfav, a.usermailto, a.usermessage, a.usersupport, .longdivider2' );		
+		DD_belatedPNG.fix('#logo, #topmenu, #top input, #top span, #top a, #content, #searchmenu #search button, #searchmenu a#upload, #spotlight, #spotlight2, #spotlight3, #spotlight4, .wideblock, .block, .top, .top b, .bottom, .bottom b, li.rogue b, li.priest b, li.paladin b, li.mage b, li.hunter b, li.druid b, li.deathknight b, li.warrior b , li.warlock b, li.shaman b, li.unknown b, li.multiple b, li.wcm, li.mmo, li.wtf, li.dv, .rate, .skill, .hot, .gem, .rec, .pla, #tag, b.rating50, b.rating45, b.rating40, b.rating35, b.rating30, b.rating25, b.rating20, b.rating15, b.rating10, .movieactions, span.listup, span.listdown, img.longdivider, a.usersub, a.userfav, a.usermailto, a.usermessage, a.usersupport, .longdivider2, #bosstower' );		
 		</script>
 		<link rel="stylesheet" href="css/ie6.css" />
 	<![endif]-->
@@ -68,15 +68,19 @@ $.ajaxSetup({
 });
 </script>
 </head>
-<body>
-<!-- 
-	Wrapper element to contain the "Lich King Background"-image,
-	which can then be easily replaced by changing image source in the css.
--->
+<body style="background: #000 url(images/bg2.jpg) no-repeat top center;" onresize="onResize();">
+
 <div id="wrapper">
-  <!--
-		Top Menu 
-	-->
+
+<!-- bgclick
+	<div style="left:0pt;margin-right:480px;right:50%;position:absolute;top:30px;">
+    <a href="http://www.warcraftmovies.com/movieview.php?id=148723" style="display:block;height: 700px;"> &nbsp;</a>
+    </div>   
+-->
+
+
+<div id="maincontent">
+
   <div id="top">
     <form method="post" action="login_check.php">
             <input type="text" name="login_username" id="user" value="Username" onfocus="userstart(this)" onblur="userstop(this)">
@@ -92,16 +96,16 @@ $.ajaxSetup({
       <!--
        <ul id="lang">
 	  <li>
-          <a href="http://warcraftmovies.com/pp.php" class="flag1">us</a>
+          <a href="http://www.warcraftmovies.com/pp.php" class="flag1">us</a>
             <ul>
-             <li><a href="http://warcraftmovies.com/kr/pp.php" class="flag3">kr</a></li><li><a href="http://warcraftmovies.com/cn/pp.php" class="flag2">cn</a></li><li><a href="http://warcraftmovies.com/tw/pp.php" class="flag8">tw</a></li><li><a href="http://warcraftmovies.com/ru/pp.php" class="flag4">ru</a></li><li><a href="http://warcraftmovies.com/sp/pp.php" class="flag5">sp</a></li><li><a href="http://warcraftmovies.com/de/pp.php" class="flag7">de</a></li><li><a href="http://warcraftmovies.com/fr/pp.php" class="flag6">fr</a></li>
+             <li><a href="http://www.warcraftmovies.com/kr/pp.php" class="flag3">kr</a></li><li><a href="http://www.warcraftmovies.com/cn/pp.php" class="flag2">cn</a></li><li><a href="http://www.warcraftmovies.com/tw/pp.php" class="flag8">tw</a></li><li><a href="http://www.warcraftmovies.com/ru/pp.php" class="flag4">ru</a></li><li><a href="http://www.warcraftmovies.com/sp/pp.php" class="flag5">sp</a></li><li><a href="http://www.warcraftmovies.com/de/pp.php" class="flag7">de</a></li><li><a href="http://www.warcraftmovies.com/fr/pp.php" class="flag6">fr</a></li>
             </ul>
           </li>
         </ul>       -->
 	   <div style="clear:both"></div>
       </div>
       <div id="sitepick">
-          <ul id="sitelist"><li><a href="http://WarCraftMovies.com">WarCraftMovies.com<b><img src="images/null.gif" width="8" height="4" alt=""></b></a><ul><li><a href="http://AoCMovies.com">AoCMovies.com</a></li><li><a href="http://WarHammerMovies.com">WarHammerMovies.com</a></li><li><a href="http://MmorpgForum.com">MmorpgForum.com</a></li><li><a href="http://Machinima101.com">Machinima101.com</a></li></ul></li></ul>      </div>
+          <ul id="sitelist"><li><a href="http://WarCraftMovies.com?referer=/">WarCraftMovies.com<b><img src="images/null.gif" width="8" height="4" alt=""></b></a><ul><li><a href="http://AionMovies.com?referer=/">AionMovies.com</a></li><li><a href="http://AoCMovies.com?referer=/">AoCMovies.com</a></li><li><a href="http://WarHammerMovies.com?referer=/">WarHammerMovies.com</a></li><li><a href="http://MmorpgForum.com?referer=/">MmorpgForum.com</a></li><li><a href="http://Machinima101.com?referer=/">Machinima101.com</a></li></ul></li></ul>      </div>
 	  <b class="signup">WCM Network:&nbsp;</b>
       <br style="clear: both">
     </form>
@@ -109,67 +113,65 @@ $.ajaxSetup({
   <!--
 		Logotype as H1 and Image replacement (see css) for better SEO.
 	-->
-	
-<!-- bg click
-<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-<tr>
-<td valign="top">
-<div class="bgclick" id="tdleft" onclick="window.open('http://ads.sullyplex.com/servlet/click/media?mid=48&pid=0&lookup=true&position=1')">&nbsp;</div>
-</td>
-<td width="982">
-<div id="topclick" onclick="window.open('http://ads.sullyplex.com/servlet/click/media?mid=48&pid=0&lookup=true&position=1')"></div>
-
- for bg click -->
 
   <div id="container">
     <div id="content">
   <div id="logo">
   	<div id="leaderboard">
-		<!-- BEGIN SULLYPLEX.COM BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<scr'+'ipt src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=1&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></scr'+'ipt>');
-//-->
-</script><script src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=1&amp;pid=1&amp;random=81148745&amp;millis=1582135278301&amp;referrer=https%3A//web.archive.org/web/20091107205622id_/http%253A//warcraftmovies.com/pp.php" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<a href="http://ads.sullyplex.com/servlet/click/zone?zid=1&amp;pid=1&amp;lookup=true&amp;position=1" target="_top">
-<img src="http://ads.sullyplex.com/servlet/view/banner/image/zone?zid=1&amp;pid=1&amp;position=1" height="90" width="728" hspace="0" vspace="0" border="0" alt="Click Here!"/>
-</a>
-</noscript>
-
-<!-- END SULLYPLEX.COM BLOCK -->
+	<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d.pubgears.com/ajs.php':'http://d.pubgears.com/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=191");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d.pubgears.com/ajs.php?zoneid=191&amp;cb=38276092961&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100526171105id_/http%253A//warcraftmovies.com/pp.php"></script><noscript><a href='http://d.pubgears.com/ck.php?n=a94650c6&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d.pubgears.com/avw.php?zoneid=191&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a94650c6' border='0' alt='' /></a></noscript>
 </div>
 	
 	
 	<div id="rightAd">
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<scr'+'ipt src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=2&pid=1&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></scr'+'ipt>');
-//-->
-</script><script src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=2&amp;pid=1&amp;random=31476613&amp;millis=1582135278302&amp;referrer=https%3A//web.archive.org/web/20091107205622id_/http%253A//warcraftmovies.com/pp.php" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<a href="http://ads.sullyplex.com/servlet/click/zone?zid=2&amp;pid=1&amp;lookup=true&amp;position=1" target="_top">
-<img src="http://ads.sullyplex.com/servlet/view/banner/image/zone?zid=2&amp;pid=1&amp;position=1" height="600" width="160" hspace="0" vspace="0" border="0" alt="Click Here!" />
-</a>
-</noscript>
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d.pubgears.com/ajs.php':'http://d.pubgears.com/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=193");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d.pubgears.com/ajs.php?zoneid=193&amp;cb=60888660995&amp;charset=windows-1252&amp;loc=https%3A//web.archive.org/web/20100526171105id_/http%253A//warcraftmovies.com/pp.php"></script><noscript><a href='http://d.pubgears.com/ck.php?n=a99e8b7e&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d.pubgears.com/avw.php?zoneid=193&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a99e8b7e' border='0' alt='' /></a></noscript>
+<a href="premonly.php" id="disableads">Disable Ads</a>
 </div>
 
   <!--
 		Container element to keep the middle content centered on the page.
 	-->
       <div id="topmenu" onclick="window.location.href='index.php'">
-        <ul>
+        <ul class="mainul">
           <li class="out"><a href="movies.php">MOVIES</a></li>
           <li class="out"><a href="arenas.php">ARENAS</a></li>
           <li class="out"><a href="dungeon.php">DUNGEONS</a></li>
-          <li class="out"><a href="live.php">LIVE</a></li>
+          <li class="out"><a href="machinima.php">MACHINIMA</a></li>
 		  <li class="out more">
           	<ul id="menulist">
           	<li><a href="javascript:;" onclick="">MORE <img src="images/down.gif" alt=""> </a>
            	 <ul>
               <li><a href="contest.php">CONTESTS</a></li>
               <li><a href="http://www.mmorpgforum.com">FORUM</a></li>
+              <li><a href="premium.php">PREMIUM</a></li>
+              <li><a href="halloffame.php">HALL OF FAME</a></li>
             </ul>
           </li>
         </ul></li></ul>
@@ -195,8 +197,56 @@ document.write('<scr'+'ipt src="http://ads.sullyplex.com/servlet/view/banner/jav
       </div>
 	  
   </div>
-      <!-- Clear floats (can be improved with some FF-specific css later...) -->
-      <div style="clear:both"></div>      <!-- Clear floats -->
+	  <script type="text/javascript">
+		function showBosstower(){
+			$('#bosstowerbutton').fadeOut(500,function(){$('#bosstower').fadeIn(500);});
+			//$('#bosstower').css("width",'150px');
+			//$('#bosstower').animate({"width": "150px"}, "slow");
+			//$('#bosstower').animate({"left": "-150px"}, "slow");
+			
+			
+		}
+		
+		function hideBosstower(){
+			$('#bosstower').fadeOut(500,function(){$('#bosstowerbutton').fadeIn(500);});
+			//$('#bosstower').css("left",'0px');
+			//$('#bosstower').css("width",'0px');
+			//$('#bosstowerbutton').show();
+			
+		}
+		</script>
+      <div id="bosstowerbutton">
+      	<a href="javascript:;" class="bosstowershow" onclick="showBosstower()"> </a>
+      </div>
+	  
+	  
+	  <div id="bosstower" style="display:none" onclick="hideBosstower()">
+      	<div id="bosstowerbottom">
+        	            <span>The Frozen Throne</span>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=178&amp;dungeon=28" class="icc12on tooltip" title="The Lich King <br><div class='tooltipsmall'><b>Movies:</b> 413</div>"> </a>
+            <span>Frostwing Halls</span>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=176&amp;dungeon=28" class="icc10on tooltip" title="Valithria Dreamwalker <br><div class='tooltipsmall'><b>Movies:</b> 93</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=177&amp;dungeon=28" class="icc11on tooltip" title="Sindragosa <br><div class='tooltipsmall'><b>Movies:</b> 154</div>"> </a>
+            <span>Crimson Hall</span>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=174&amp;dungeon=28" class="icc8on tooltip" title="Blood Princes <br><div class='tooltipsmall'><b>Movies:</b> 108</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=175&amp;dungeon=28" class="icc9on tooltip" title="Blood-Queen Lana'the <br><div class='tooltipsmall'><b>Movies:</b> 191</div>"> </a>
+            <span>The Plagueworks</span>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=171&amp;dungeon=28" class="icc5on tooltip" title="Rotface <br><div class='tooltipsmall'><b>Movies:</b> 153</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=172&amp;dungeon=28" class="icc6on tooltip" title="Festergut <br><div class='tooltipsmall'><b>Movies:</b> 168</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=173&amp;dungeon=28" class="icc7on tooltip" title="Professor Putricide <br><div class='tooltipsmall'><b>Movies:</b> 259</div>"> </a>
+        	<span>Lower Spire</span>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=167&amp;dungeon=28" class="icc1on tooltip" title="Lord Marrowgar<br><div class='tooltipsmall'><b>Movies:</b> 207</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=168&amp;dungeon=28" class="icc2on tooltip" title="Lady Deathwhisper <br><div class='tooltipsmall'><b>Movies:</b> 178</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=169&amp;dungeon=28" class="icc3on tooltip" title="Gunship Battle <br><div class='tooltipsmall'><b>Movies:</b> 136</div>"> </a>
+        	<a href="movies.php?class=0&amp;category=2&amp;tab=rate&amp;boss=170&amp;dungeon=28" class="icc4on tooltip" title="Deathbringer Saurfang <br><div class='tooltipsmall'><b>Movies:</b> 261</div>"> </a>
+      	</div>
+      </div>
+	  
+	  
+	  
+      <div style="clear:both"></div>
+	  
+<div id="content2">      <!-- Clear floats -->
       <div class="moviewcon">
         <div class="block_huge">
           <div class="top"><b></b></div>
@@ -233,20 +283,19 @@ If you wish to change any information you have given us, or have any questions o
     <div style="clear:both"></div>
     	
 	
-<!-- BEGIN SULLYPLEX.COM BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
+<script>
 <!--
-document.write('<SCR'+'IPT src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=7&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=7&amp;pid=0&amp;random=41882829&amp;millis=1582135278324&amp;referrer=https%3A//web.archive.org/web/20091107205622id_/http%253A//warcraftmovies.com/pp.php" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://ads.sullyplex.com/servlet/click/zone?zid=7&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://ads.sullyplex.com/servlet/view/banner/image/zone?zid=7&pid=0&position=1" height="1" width="1" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END SULLYPLEX.COM BLOCK -->
+pa_dashboard_height = 158;
+pa_dashboard_publisherId = 20169;
+pa_dashboard_domainId = 518;
+pa_dashboard_delay = 1.5;
+pa_dashboard_speed = 5;
+var tmpstr = '<scr'+'ipt language="javascript" ';
+tmpstr += 'src="http://tags.dashboardad.net/tags/dashboard';
+tmpstr += '.js?publisherId=20169&domainId=518&cb=';
+tmpstr += ''+Math.floor(Math.random()*10000000000)+'"></scr'+'ipt>';
+document.write(tmpstr);//-->
+</script><script language="javascript" src="http://tags.dashboardad.net/tags/dashboard.js?publisherId=20169&amp;domainId=518&amp;cb=38443794"></script>
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -258,28 +307,9 @@ pageTracker._setDomainName("warcraftmovies.com");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>    
-<script type="text/javascript">
-  var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
-  document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
-</script><script src="https://uservoice.com/javascripts/widgets/tab.js" type="text/javascript"></script>
-<script type="text/javascript">
-UserVoice.Tab.show({ 
-  key: 'warcraftmovies',
-  host: 'feedback.warcraftmovies.com', 
-  forum: 'general', 
-  alignment: 'left',
-  background_color:'#0093C6', 
-  text_color: 'white',
-  hover_color: '#06C',
-  lang: 'en',
-  params: { sso: '' }
-})
-</script>
-<script type="text/javascript" src="http://cetrk.com/pages/scripts/0007/9840.js"> </script>
-	
-	
 
-</div>
+    <div style="clear: both"></div>
+
     <div id="footer">
 		<div style="margin: 0 auto; width:983px;background: #000 url(http://cdn.warcraftmovies.com/images/wcm_watermark.gif) no-repeat bottom left;">
     	<img src="http://cdn.warcraftmovies.com/images/longline.png" alt="" class="longdivider">
@@ -292,7 +322,7 @@ UserVoice.Tab.show({
                 <a href="http://www.mmorpgforum.com/forumdisplay.php?f=147">Suggestions</a><br>
             </div>
             <div class="subright">
-                <a href="javascript:void(null)" class="tooltip" title="Coming soon">Hall Of Fame</a><br>
+                <a href="halloffame.php" class="tooltip" title="Hall Of Fame">Hall Of Fame</a><br>
                 <a href="movies.php?tab=dls&amp;category=0&amp;class=0&amp;day=alltime&amp;boss=0&amp;dungeon=0&amp;expansion=0">Top 10 Movies</a><br>
                 <a href="javascript:void(null)" class="tooltip" title="Coming soon">Live Chat</a><br>
             </div>
@@ -328,36 +358,32 @@ UserVoice.Tab.show({
         <div style="clear: both"></div>
         <div class="footertxt">
         	<div class="gotop"><a href="#top">Top <img src="http://cdn.warcraftmovies.com/images/gotop.gif" alt=""></a></div>
-            <p>© Copyright WarcraftMovies.com 2004-2009 All rights reserved.</p>
+            <p>© Copyright WarcraftMovies.com 2004-2010 All rights reserved.</p>
             <p>World of Warcraft™ is a registred trademark of Blizzard Entertainment ®.</p>
-            <p>This site is in no way associated with or endorsed by Blizzard Entertainment ®.</p>
+            <p>This site is in no way associated with or endorsed by Blizzard Entertainment ®. </p>
       	</div>
 		</div>
     </div>
-<!-- for bg click 
-</td>
-<td valign="top">
-<div class="bgclick" onclick="window.open('http://ads.sullyplex.com/servlet/click/media?mid=48&pid=0&lookup=true&position=1')">&nbsp;</div>
-</td></tr></table>
- for bg click -->
+    <div style="clear:both"></div>
 </div>
+</div>
+
+
+</div>   <div style="clear:both"></div>
+
+<!-- bg click 
+   <div style="right:0pt;margin-left:480px;left:50%;position:absolute;top:30px;">
+    <a href="http://www.warcraftmovies.com/movieview.php?id=148723" style="display:block;height:700px"> &nbsp;</a>
+    </div>
+-->
+
+
+
+</div>
+<div style="clear:both"></div>
 <script type="text/javascript">
 tooltip();
 minis();
 </script>
-<!-- BEGIN SULLYPLEX.COM BLOCK -->
-
-<script language="JavaScript" type="text/javascript">
-<!--
-document.write('<SCR'+'IPT src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=6&pid=0&random='+Math.floor(89999999*Math.random()+10000000)+'&millis='+new Date().getTime()+'&referrer='+escape(document.location)+'" language="JavaScript" type="text/javascript"></SCR'+'IPT>');
-//-->
-</script><script src="http://ads.sullyplex.com/servlet/view/banner/javascript/zone?zid=6&amp;pid=0&amp;random=59307315&amp;millis=1582135278349&amp;referrer=https%3A//web.archive.org/web/20091107205622id_/http%253A//warcraftmovies.com/pp.php" language="JavaScript" type="text/javascript"></script>
-<noscript>
-<A href="http://ads.sullyplex.com/servlet/click/zone?zid=6&pid=0&lookup=true&position=1" target="_top">
-<IMG src="http://ads.sullyplex.com/servlet/view/banner/image/zone?zid=6&pid=0&position=1" height="0" width="0" hspace="0" vspace="0" border="0" alt="Click Here!">
-</A>
-</noscript>
-
-<!-- END SULLYPLEX.COM BLOCK -->
 
 </body></html>
