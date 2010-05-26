@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610083424id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icis.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526164854id_/http%3A//www.icis.com/StaticPages/privacy.htm) for the most accurate reproduction.*
 
 # Chemical Industry News & Intelligence | ICIS.com
 
@@ -47,3 +47,16 @@ AdTech, the third party company which serves advertisements on the site, uses co
 Bluestreak, the third party company which handles our user database, also uses cookies. These cookies may include personally identifying information that you have provided to us by filling in an online form. For more information, please visit their site [http://www.bluestreak.com](http://www.bluestreak.com/). 
 
 [](http://www.icis.com/staticpages/privacy.htm?PrinterFriendly=true) [Printer Friendly](http://www.icis.com/staticpages/privacy.htm?PrinterFriendly=true)
+
+[](http://www.icis.com/staticpages/trial.htm?cp=BAC-CHNE-3rdColumn&sfid=70120000000Heaw&mode=ICISnews) [](http://www.icis.com/staticpages/trial.htm?cp=BAC-CHNE-3rdColumn&sfid=70120000000Heaw&mode=ICISnews)
+
+[Insight](http://www.icis.com/News/News.aspx?Category=Article+Types&CategoryItemId=3&Label=Insight)
+
+ **INSIGHT: Forecasting hurricanes so easy a chimp can do it - sources**  
+"Predicting the weather, production hiccups, volume requirements and consumer demand are so easy a caveman could do it, right?" [more](http://www.icis.com/Articles/2010/05/25/9362491/insight-forecasting-hurricanes-so-easy-a-chimp-can-do-it.html)
+
+## [Feedback](http://www.icis.com/Feedback/Feedback.aspx)
+
+We welcome your feedback. Please feel free to send us your comments on any aspect of this site. [Click here](http://www.icis.com/Feedback/Feedback.aspx) to make your comments.
+
+[](http://icis.firstlightera.com/EN/Microsites)
