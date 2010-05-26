@@ -1,79 +1,137 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312092320id_/http%3A//www.demandware.com/Privacy%2520Policy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526031918id_/http%3A//www.demandware.com/Privacy-Policy/privacy%2Cdefault%2Cpg.html) for the most accurate reproduction.*
 
 # eCommerce Solutions On-Demand | Demandware Privacy Policy
 
-At Demandware, we respect the privacy of our customers and the visitors to our website. This statement describes the current information gathering, sharing and privacy practices for our website, www.demandware.com. 
+**Demandware Privacy Policy**
 
-#### Collection of Personal Information
+Last Updated April 17, 2009
 
-We will ask you when we need information that identifies you individually or allows us to contact you directly (personal information). 
+The following policy describes the privacy practices for Demandware, Inc. ("Demandware").
 
-We may ask for personal information when you purchase a product, enter a contest, request a service, complete a survey, subscribe to a news, or engage in some other activity on our site. In connection with these activities, we may ask you for contact information such as your name, telephone number, and email address. 
+| [](http://www.truste.org/ivalidate.php?url=www.demandware.com&sealid=103)  
+---|---  
+  
+Demandware respects the privacy of our customers, partners, employees, Web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us ("Personal Information"). This Privacy Policy sets forth the privacy principles Demandware follows with respect to your Personal Information.
 
-When you visit our website, we collect standard information about your hardware and software such as your IP addresses, browser type, operating system, pages visited on our site, referring and exit pages, and the dates and times of the visits. 
+Demandware is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web sites [www.demandware.com](http://www.demandware.com/) and [www.demandware.de](http://www.demandware.de/) (the "Corporate Sites") as well as Demandware's eCommerce services (the "Demandware eCommerce Services") we make available to our customers. Because we want to demonstrate our commitment to your privacy, we have agreed to disclose our information practices and have our privacy practices reviewed for compliance by TRUSTe.
 
-This site visitation data is used to administer the site and provide general statistics regarding the use of demandware.com. Site visitation data is never linked to your personal information, and we do not use it to identify you individually without your permission. 
+If you have questions or concerns regarding this Privacy Policy, you should first contact us by email at [privacy@demandware.com](mailto:privacy@demandware.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url](http://watchdog.truste.com/pvr.php?page=complaint&url).  TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-#### Use of Personal Information
+The TRUSTe program only covers information that is collected through our Corporate Sites, and does not cover information that may be collected through any software downloaded from our sites.
 
-We will keep any and all information collected from you at this site strictly confidential and we will not sell, rent, trade, or otherwise share your personal information with third parties for their promotional use without your permission. 
+**Safe** **Harbor**
 
-We will use the personal information you give us to fulfill the services and provide the products you request from us. This may include sending information that you have requested, or contacting you about products and services that you have purchased. If you do not opt-out of communications from Demandware, we may send you marketing notices including promotions of our products and services. You can opt-out of communications from Demandware at any time (see "Control of Personal Information" below). 
+Demandware participates in the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce in consultation with the European Commission's Directive on Data Protection on the transfer of Personal Information from European Union member countries to the United States. More information about the U.S. Department of Commerce's Safe Harbor program can be found at [http://www.export.gov/safeharbor](http://www.export.gov/safeharbor/).   As part of our participation in the Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe by Internet at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at **** 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: our name, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with us. 
 
-We sometimes contract with other companies to provide services such as packaging and mailing information, answering user questions, or processing credit card transactions. We will only provide these partners with the information they need to conduct their services, they will be prohibited from using the information we provide for any other purpose and we will require them to observe the intent of this Privacy Policy. 
+For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see <http://www.truste.org/consumers/watchdog_complaint.php> or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we will cooperate with data protection authorities in relevant jurisdictions. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of one or our  eCommerce Services customers or a partners for whom Demandware processes data should be addressed to that customer or partner.
 
-We may disclose your personal information when we reasonably believe that it is required by a law or legal process and to protect and defend our rights and interests and the rights and interests of our affiliates, suppliers, or users. We also reserve the right to report to law enforcement agencies any activities that we in good faith believe to be unlawful. We may release certain personal information when we believe that such release is reasonably necessary to enforce or apply these terms and conditions or to protect the rights, property, and safety of others and ourselves. 
+**Scope**
 
-In the event we go through a business transition, such as a merger, an acquisition by another company, or a sale of all or a portion of our assets, users' personal information will, in most instances, be part of the assets transferred. Notifications of such a transition will be made using the mechanisms described in the "Changes to this Statement" section below. 
+This Privacy Policy applies to all Personal Information received by Demandware via our Corporate Sites as well as via our eCommerce Services. Please see the "Demandware eCommerce Services" section below for specific privacy practices regarding our eCommerce Services. 
 
-#### Control of Personal Information
+**Notice**
 
-You can confirm, change, or update personal information you have provided to us by contacting us directly at privacy@demandware.com with your request. 
+__How Personal Information is Collected__
 
-If you want to opt-out of communications from the company, you can do so by emailing your request to privacy@demandware.com. If you change your mind, you can opt-in again, by emailing this same address. When you opt-out of promotional communications from us, you may still receive service messages (such as an order confirmation), legally mandated notices, and critical messages that relate to the ability to use services you have purchased from us. 
+_Web Visitors_   
+On our Corporate Sites, we collect the following personally identifiable information ("PII") from prospective clients, prospective business partners, and job applicants: Name, email, phone number and address. We only collect this information for the purpose of contacting individuals who have identified themselves as prospects or applicants for our activities, services and job openings.  However, we do share this information with third party service providers for email processing and related services. These third parties are prohibited from using your PII for any other purpose. 
 
-#### Security of the Information We Collect
+_Web Site / Cookies_  
+In order to improve the content and format of our site, Demandware uses Web site tracking software to automatically capture technical information that is then stored in our servers' log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our Web pages is visited, and the amount of time spent on our site.
 
-We are committed to protecting the security of your personal information, and we use a range of technologies and procedures to protect your personal information. For example, we store personal information in a secure, limited access facility; sensitive information transmitted to us through our store (such as a credit card number) is encrypted for transmission using the Secure Socket Layer (SSL) protocol. The SSL encryption is designed to make the information unreadable by anyone but us. 
+In addition, some of Demandware's Web pages may contain "cookies." A cookie is a small amount of data which our Web site stores on your computer, and which we can later retrieve. The cookie cannot be read by a site other than ours. We use cookies for a number of administrative purposes; for example, to store your preferences for certain kinds of information. Our cookies are tied to PII to store your information and make it easier for you to use our site. We will not use the PII tied to our cookies to contact you directly. You can monitor our use of cookies on your computer by setting your Web browser to inform you when cookies are set, or you can prevent the cookies from being set entirely. The "help" portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Please understand that if you disable the use of cookies on your computer, you may be unable to access certain portions or services in our applications and those of our customers.
 
-#### Protection of Children's Privacy
+Certain contracted third-parties use cookies and clear GIFs on our sites, which allow them to recognize a user's cookie when a user visits our sites. The information that these third-parties collect and share through this technology is only collected in the aggregate and not personally identifiable.  We have no access to or control over these cookies. This privacy statement covers the use of cookies by Demandware only and does not cover the use of cookies by any advertisers.
 
-demandware.com is a general interest website, and we do not knowingly collect any personal information from children. 
+**Choice**
 
-#### Privacy and Online Forums
+__Use of Your Personal Information__  
+We use your Personal Information to provide you with information about Demandware and its products and services, including but not limited to webinars, newsletters, and job openings. You have the option to opt-out of any secondary communications such as promotional communications by clicking on "unsubscribe", "profile center", or "unsubscribe" on the bottom of any promotional emails. 
 
-Information you post in online forums on the site is accessible to other people who can access the forums and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. Personal information stored in your forum profile will not be displayed in the forum. 
+We do not share, sell, rent or trade your Personal Information to third parties for promotional purposes. However, we may disclose your Personal Information if we are required to do so by law or we in good faith believe that such action is necessary to (1) comply with the law or with legal process including court orders or subpoenas; (2) protect and defend our rights and property; (3) protect against misuse or unauthorized use of our Web sites or eCommerce Services; or (4) protect the personal safety or property of our users or the public (among other things, this means that if you provide false information or attempt to pose as someone else, information about you may be disclosed as part of any investigation into your actions). 
 
-#### Privacy and Tell-a-Friend Forms
+Other than as stated in this Privacy Policy, we will endeavor not to release your Personal Information to unknown or unaffiliated third parties, and we will not cross-reference your Personal Information with that of any other customer or entity.
 
-When you use a tell-a-friend form on the site, we ask for the friend's name and email address. We will use this information to automatically send the specified email message to the friend. We will not use this information to contact the friend in the future. We will retain the information you provide for tracking purposes. If someone notified through tell a friend wishes to have their information removed from our database they can contact us at privacy@demandware.com. 
+**Links to Non-Demandware Web Sites and Third Parties**
 
-#### Use of Cookies and Clear gif Technology
+Demandware's Web sites may contain links to third-party sites for your convenience and/or information. If you access those links, you will leave Demandware's Web site and be re-directed to a third-party site. Demandware does not control those sites or the privacy practices of those third-party sites, which may differ from Demandware's privacy practices. We do not endorse or make any representations about third-party Web sites, and the personal data you choose to provide to third-party Web sites is not covered by this Privacy Policy. We encourage you to review the privacy policy of any Web site or company before submitting your Personal Information to them.
 
-When you visit our site, a cookie may be saved on your computer (if your computer accepts cookies), and if you return to the site the cookie may be read. We use cookies to help us collect the site visitation data described above and in some cases to deliver specialized content. A cookie is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you've visited, but the only personal information a cookie can contain is information you supply yourself. A cookie can't read data off your hard disk or read cookie files created by other sites. Some parts of our website use cookies to track user traffic patterns. We do this in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information. We do not correlate this information with data about individual users, nor do we share this information or sell it to any third party. 
+**Access**
 
-If you prefer not to receive cookies on our website, you can set your browser to warn you before accepting cookies and refuse the cookie when your browser alerts you to its presence. You can also refuse all cookies by turning them off in your browser. You do not need to have cookies turned on to use any area of our website. 
+Demandware will take reasonable steps to ensure that your Personal Information is accurate, complete and current to its intended use. We provide individuals with reasonable access to the Personal Information that they provide to us, as well as the ability to review and correct such information. If you wish to access the personal information you have submitted to our Corporate Sites for the purpose of updating or deleting it, you may do so by sending us an email at _[privacy@demandware.com](mailto:privacy@demandware.com)_.
 
-We may also use Web beacons, clear gif technology, or action tags as mechanisms to collect aggregate site visitation data by tracking how users navigate to and through our website. We may also use this technology to track the delivery of HTML email messages. This data is collected exclusively for use in our marketing and research. 
+To protect your privacy and security, we also take reasonable steps to verify your identity, before granting access to your Personal Information. In addition, we may limit or deny access to Personal Information where providing such access would be unreasonably burdensome or expensive in the circumstances, or as otherwise permitted by the Safe Harbor Framework. We will respond to your request for access to your Personal Information within 30 days of the original request.
 
-#### Enforcement of this Statement
+**Security**
 
-If you have questions about the policies described in this statement, please email us directly at privacy@demandware.com. 
+To prevent unauthorized access or disclosure, to maintain data accuracy, and to allow only the appropriate use of your Personal Information, we utilize industry standard physical, technical, and administrative controls and procedures to safeguard the information we collect.
 
-#### Links to Other Websites
+**Testimonials**
 
-Our website may contain links to other websites. If you use these links, you will leave our website. When you access a non-demandware.com website, even one that may contain the Demandware logo, please be aware that we do not control the content and we are not responsible for the privacy practices of that site and we encourage you to review the privacy policies of each site you use. This Privacy Statement does not cover the information practices of those websites linked to our website. These other sites may send their own cookies to users, collect data, or solicit personal information. 
+We will on occasion post customer testimonials on our Corporate Sites. We place the testimonials here for the benefit of our prospective clients in order to provide them with feedback from our previous clients for marketing purposes. We receive expressed consent from the individuals whose Personal Information is posted along with the testimonials before it is posted to our Web sites.
 
-#### Changes to this Statement
+**Blogs, Forums and Directories**
 
-We may from time to time update this privacy statement. When we make these updates, we will change the "last updated" date listed at the top of the statement. If we make a material change to this statement that affects our use of your personal information, we will update users by placing a more prominent notice on our home page. 
+We provide the Demandware Forums and Blogs as a means for our customers and other users of our Web sites and eCommerce Services to communicate. If you use a bulletin board, blog, or chat room on this Web site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages.  We are not responsible for the PII you choose to submit in these forums.
 
-#### Contact Information
+**Tell a Friend Feature**
 
-We welcome your input on our privacy policy. If you have any questions or suggestions regarding our privacy policy, please contact us at [ privacy@demandware.com](mailto:privacy@demandware.com). 
+If you choose to use our referral service to tell a friend about a job, we will ask you for your friend's name and email address.  We will automatically send your friend a one-time email with information about this job posting.  Demandware does not store this information.
 
-Demandware, Inc.  
-ATTN: Privacy  
+**Data Integrity**
+
+As set forth above, Demandware will take reasonable steps to ensure that Personal Information is accurate, complete, and current to its intended use. Demandware will only use Personal Information in ways that are compatible with the purposes for which it was collected or subsequently authorized by you.
+
+**Enforcement and Verification**
+
+Demandware regularly reviews its compliance with this Privacy Policy. Please feel free to direct any questions or concerns regarding this Privacy Policy or Demandware's treatment of Personal Information by contacting us as provided herein.
+
+**Contact Information**
+
+At any time you may contact Demandware with questions or concerns about this Privacy Policy at _[privacy@demandware.com](mailto:privacy@demandware.com)_. 
+
+Written responses may also be submitted to:
+
+Demandware, Inc  
+Attention: General Counsel   
 10 Presidential Way  
-Woburn, MA 01801 USA  
-+1 (781) 756 3700 (main) 
+Woburn, MA 01801 
+
+**Changes to This Privacy Policy**
+
+The practices described in this Privacy Policy are the current Personal Information protection policies as of April 17, 2009.  Demandware, Inc. reserves the right to modify or amend this Privacy Policy at any time consistent with the requirements of the Safe Harbor Framework. If we decide to change our practices regarding what PII we collect, how we use it, and under what circumstances, if any, we disclose it, we will post a prominent notice on our Corporate Sites 30 calendar days prior to implementing the change. 
+
+**Demandware eCommerce Services**
+
+Demandware provides our customers with a hosted eCommerce platform and application suite of services that facilitate functionality to support the development and management of an eCommerce website. The platform and application suite is not a part of our corporate web site. Demandware serves as a Data Processor for our customers who use these services. More specifically, Demandware does not own the information that is submitted to customer websites. The information that is submitted to our customers' websites will be subject to our customers' privacy policy. The following information discloses how information is submitted to these websites and how Demandware will handle the information for our customers who are the owners of this data.   
+
+
+_Web Visitors (eCommerce Customers)_  
+Demandware processes Personal Information about a visitor to our customers' website ("Visitors") only when the Visitor chooses to provide such information. On certain pages, for example, a Visitor may be required to provide his/her personal information such as his/her name, address, phone number and e-mail address in order to complete a transaction or perform a requested service.
+
+_Employees_  
+Demandware employees may process Personal Information from our customers' employees for, among other things, application access and authentication. 
+
+**Onward Transfer**
+
+__Sharing of Visitors' Personal Information__  
+As part of Demandware's services we may contract with third-party providers to perform certain functions on behalf of our customers to enhance our existing product and service offerings. Examples include providing product and service support.
+
+These third parties may have access to Visitors' Personal Information only to the extent necessary to permit them to do their jobs, however, they are bound by confidentiality agreements or similar contractual restrictions before any information is provided to them, and they are restricted from using the information for other purposes.
+
+_Web Site / Cookies_  
+In order to improve the content and format of our platform and applications, our eCommerce Services use Web site tracking software to automatically capture technical information that is then stored in our servers' log files. This information may include, but is not limited to, user domain, the type of Internet browser being used, which of our customers' Web pages are visited, and the amount of time spent on our customers' sites.
+
+Our customers' website pages may contain "cookies." A cookie is a small amount of data which a Web site stores on a Visitor's computer, and which we or our customers can later retrieve. The cookie cannot be read by a site other than our customer's. We and our customers use cookies for a number of administrative purposes; for example, to store Visitors' preferences for certain kinds of information. We will not write to any cookie information that will allow anyone to contact Visitor's via telephone, e-mail, or any other means. Any additional use of cookies by our customers will be governed by our customers' privacy policies.  Visitors can monitor use of cookies on their computers by setting their Web browser to inform them when cookies are set, or Visitors can prevent the cookies from being set entirely. The "help" portion of the toolbar on most browsers explains how to prevent the browser from accepting new cookies, how to have the browser provide notice when a new cookie is received, or how to disable cookies altogether. Please understand that if a Visitor disables the use of cookies, the Visitor may be unable to access certain portions or services in our applications or those of our customers.
+
+**Security**   
+To protect the confidentiality, integrity, and availability of Visitors' Personal Information that is processed by our services, Demandware utilizes a variety of industry standard physical and logical access controls, firewalls, intrusion detection/prevention systems, network and database monitoring, and backup systems. We use encrypted sessions when processing or transferring sensitive data through platform and applications.
+
+We limit access to Visitors' Personal Information and data to those persons who have a specific business purpose for maintaining and processing such information. Demandware employees who have been granted physical access to a Visitor's Personal Information will be made aware of their responsibilities to protect the confidentiality, integrity, and availability of that information and have been provided training and instruction on how to do so. 
+
+**Access**   
+Demandware will support our customers in taking reasonable steps to ensure that Visitor's Personal Information is accurate, complete, and current to its intended use. We provide our customers with reasonable access to the Personal Information that they provide to us, as well as the ability to review and correct such information. 
+
+**Links to Non-Demandware Web Sites and Third Parties**
+
+Demandware Customer Web sites may contain links to third-party sites for Visitors' convenience and/or information. If a Visitor accesses those links, he/she will leave the Demandware customer's website and be re-directed to a third-party site. Demandware does not control those sites or the privacy practices of those third-party sites, which may differ from Demandware's privacy practices and those of our customer. We do not endorse or make any representations about third-party Web sites, and the personal data Visitors choose to provide to third-party Web sites is not covered by this Privacy Policy. We encourage Visitors to review the privacy policy of any Web site or company before submitting their Personal Information to them.
