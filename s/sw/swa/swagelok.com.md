@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210124427id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swagelok.com privacy policy that was archived on 2010-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100526051036id_/http%3A//www.swagelok.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # SWAGELOK.COM® PRIVACY POLICY
 
@@ -6,7 +6,7 @@
 ---  
 |  [](http://www.swagelok.com/ChangeLanguage.aspx) |  [ Change Language ](http://www.swagelok.com/ChangeLanguage.aspx) |  | [ Home ](http://www.swagelok.com/default.aspx)|  |  [ Log In ](https://www.swagelok.com/MyAccount.aspx) |  |  [ ](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  [ Shopping Cart ](http://www.swagelok.com/shopping/part_list.aspx?list_type=sc) |  | [ Sales & Service ](http://www.swagelok.com/distributors/locate_dist.aspx)|  | [ Site Map ](http://www.swagelok.com/site_map.aspx)|  |  [ Contact Us ](http://www.swagelok.com/Contact_Us.aspx) |  [ ](http://www.swagelok.com/Contact_Us.aspx) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
-|  | [](http://www.swagelok.com/default.aspx) |  | Fluid System Technologies | Search |  |   |  |   
+|  | [](http://www.swagelok.com/default.aspx) |  | Fluid System Technologies | Search |  |  SiteProducts |  |   
 ---|---|---|---|---|---|---|---|---  
   
 |  | [ Products ](http://www.swagelok.com/search/find_products_home.aspx?RESET=TRUE)| [ Services ](http://www.swagelok.com/services.htm)| [ Markets ](http://www.swagelok.com/markets.htm)| [ Resources ](http://www.swagelok.com/search/find_resources.aspx)| [ About Us ](http://www.swagelok.com/About_Us.htm)| [ News & Events ](http://www.swagelok.com/News_template.aspx)| [ My Account ](https://www.swagelok.com/MyAccount.aspx)  
