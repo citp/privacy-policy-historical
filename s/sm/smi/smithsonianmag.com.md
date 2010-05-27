@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201014258id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smithsonianmag.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527052618id_/http%3A//www.smithsonianmag.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | www.smithsonianmag.com | Smithsonian Magazine
 
@@ -8,12 +8,11 @@
 
 Thank you for visiting _Smithsonian_ magazine's Web site and reviewing our privacy policy. _Smithsonian_ magazine does not collect your personal information when you visit our Web site unless you choose to provide that information to us. _Smithsonian_ does not sell, exchange or release your personal information to outside parties without your consent. Once we obtain your consent, we consider it valid until revoked by you.
 
-This privacy policy applies only to the online activities of _Smithsonian_ magazine. For direct mail and other marketing activities not involving electronic commerce, _Smithsonian_ magazine adheres to the [Direct Marketing Association's Privacy Promise](http://www.dmaconsumers.org/privacy.html) and privacy guidelines.
+This privacy policy applies only to the online activities of _Smithsonian_ magazine. For direct mail and other marketing activities not involving electronic commerce, _Smithsonian_ magazine adheres to the Direct Marketing Association's Privacy Promise and privacy guidelines.
 
 **Information Collected and Stored Automatically**
 
-If you visit our Web site, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:  
-
+If you visit our Web site, we automatically gather and store the following information about your visit so that we can track the use of our website in order to make improvements. This information is stored and used in aggregate form only, and is not used to contact you personally:
 
    • The IP address from which you access our Web site  
    • The name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an America  
