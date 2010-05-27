@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930140212id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezibuy.com.au privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527224033id_/http%3A//www.ezibuy.com.au/Information/5000) for the most accurate reproduction.*
 
-# EziBuy Privacy Policy
-
-| | 
+# EziBuy Privacy Policy :: EziBuy Australia
 
 We have put in place the following policy to protect your personal information.  By using our website and/or providing information to us, you consent to the policy.
 
@@ -11,6 +9,10 @@ What personal information do we collect?
 You may give us information about yourself, such as your name, address, email address and telephone numbers, when, for example, you become an EziBuy member, request a catalogue or make a purchase from us.  If you do not give this information, we may not be able to provide goods or services to you.
 
 When you visit our website we may collect more information, such as the address of your Internet service provider, the name of the web page directing you, and your clicks and activity on our site.
+
+ClickTale
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to improve the user experience on our website. You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 How do we use the personal information?
 
@@ -46,10 +48,8 @@ You may obtain confirmation from us as to whether or not we hold personal inform
 
 Policy changes
 
-We may review this policy from time to time and will notify you of any changes by posting an updated version on our website.  This document represents our privacy policy as at 09 April 2008.
+We may review this policy from time to time and will notify you of any changes by posting an updated version on our website.  This document represents our privacy policy as at 02 February 2010.
 
 Feedback
 
-We welcome your questions and comments about privacy at EziBuy.  Please call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.com.au).  
-  
----|---|---
+We welcome your questions and comments about privacy at EziBuy.  Please call us on 1800 148 148 or email us at [mail@ezibuy.com.au](mailto:mail@ezibuy.com.au).
