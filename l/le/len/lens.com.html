@@ -1,9 +1,10 @@
-<!--The following is the downloaded HTML source of the lens.com privacy policy that was archived on 2009-02-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090228212951id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lens.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527214210id_/http%3A//www.lens.com/common/faq/privacypolicy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>Lens.com ® - Privacy Policy</title>
 <meta name="description" content="Privacy Policy - Read more about... Privacy Policy. ">
 <meta name="keywords" content="Lens.com, Frequently Asked Questions, Privacy Policy, , ">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
         <script language="JavaScript">
 	    function MyChangeLocation (f,n) 
@@ -34,6 +35,7 @@
   		<script language="JavaScript" src="/PublicCommon/include/Global.js"></script>
 		<script language="JavaScript" src="/PublicCommon/include/js/jquery-1.2.6.js"></script>
         <script language="JavaScript" src="/PublicCommon/include/js/jqbrowser.js"></script>
+        <script type="text/javascript" src="/PublicCommon/include/js/tablesorter/jquery.tablesorter.js"></script>
         <script type="text/javascript" src="/include/js/rotate.js"></script>
 
 		
@@ -56,15 +58,57 @@
 			var version = $.browser.version.number();
 			
 			if (firefox) {
+				if (version > 3) {
+					$("head").append('<link rel="stylesheet" type="text/css" href="/include/css/ff35.css" />');
+				}
 				if (version > 2) {
 					$("head").append('<link rel="stylesheet" type="text/css" href="/include/css/ff3.css" />');
 				}
+				else {
+					$("head").append('<link rel="stylesheet" type="text/css" href="/include/css/ff2.css" />');
+				}
 			}
+			
+
 		</script>
+
+        
         
 	</head>
 
 	<body>
+
+        
+    <script type="text/javascript" language="javascript">
+
+        // AJAX Helper ////////////////////////////////////////////////////////////////////////////////////////////////////////
+        function getXMLHTTPObject()
+        {   
+            var objXMLHTTP = null;
+            try
+            {   // Firefox, Opera 8.0+, Safari
+                objXMLHTTP = new XMLHttpRequest();
+            }
+            catch (e)
+            {   // Internet Explorer
+                try
+                {   objXMLHTTP = new ActiveXObject("Msxml2.XMLHTTP");
+                }
+                catch (e)
+                {   objXMLHTTP = new ActiveXObject("Microsoft.XMLHTTP");
+                }
+            }
+            return objXMLHTTP;
+        }
+        ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+        
+
+    </script>
+
+    
+
 		<div id="page">
 		
         	<div id="header">
@@ -85,7 +129,9 @@
 
                 <div id="global">
                     <div id="utilities">
-                        <a href="http://www.lens.com/" title="Home" class="home">Home</a>
+                        
+                            <a href="http://www.lens.com/" title="Home" class="home">Home</a>
+                            
                         <a href="http://www.lens.com/common/showallbrands.asp" title="View All Products" class="allproducts">All Products</a>
                         <a href="https://www.lens.com/common/secure/myaccount.asp" title="View My Account Information" class="my-account">My Account</a>
                         <a href="https://www.lens.com/common/secure/reorderinfo.asp" title="Reorder Products" class="reorder">Reorder</a>
@@ -99,12 +145,12 @@
                 <div id="masthead">
                 
                 
-                    <h1 id="logo"><a href="http://www.lens.com/" title="Lens.com · 1-800-LENSCOM"></a></h1>
-                
+                    <h1 id="logo"><a href="http://www.lens.com/" title="Lens.com · 1-800 LENS.COM (536-7266)"></a></h1>
+                    
                 
                     <div id="dropdown">
                         <form id="lensselect" action="" method="post">
-                            <select class="selectlenses" name="name" onchange="changeProduct (this.form,'name')">
+                            <select class="selectlenses" id="globalcontactlensselect" name="name" onchange="changeProduct (this.form,'name')">
                                 <option value="">Select Contact Lenses</option>	
                                 <option value="112">1-Day Acuvue</option>
 <option value="430">1-Day Acuvue Moist</option>
@@ -117,36 +163,44 @@
 <option value="135">Acuvue Bifocal</option>
 <option value="406">Acuvue Oasys</option>
 <option value="551">Acuvue Oasys for Astigmatism</option>
+<option value="603">Acuvue Oasys for Presbyopia</option>
 <option value="554">Air Optix Aqua</option>
+<option value="625">Air Optix Aqua Multifocal</option>
 <option value="545">Air Optix for Astigmatism</option>
+<option value="624">Air Optix Night &amp; Day Aqua</option>
 <option value="485">Aqualens 1 Day</option>
 <option value="327">Aqualens 38</option>
 <option value="328">Aqualens 55</option>
 <option value="431">Aqualens 55 Premier</option>
+<option value="576">Aqualens Toric</option>
 <option value="458">Aqualens XC</option>
 <option value="486">Aqualite 1 Day</option>
 <option value="329">Aqualite 38</option>
 <option value="330">Aqualite 55</option>
 <option value="432">Aqualite 55 Premier</option>
+<option value="577">Aqualite Toric</option>
 <option value="459">Aqualite XC</option>
 <option value="487">Aquatech 1 Day</option>
 <option value="331">Aquatech 38</option>
 <option value="332">Aquatech 55</option>
 <option value="433">Aquatech 55 Premier</option>
+<option value="578">Aquatech Toric</option>
 <option value="460">Aquatech XC</option>
 <option value="549">Avaira</option>
 <option value="113">Bausch &amp; Lomb 2 Week (SofLens 59)</option>
 <option value="548">Biofinity</option>
+<option value="604">Biofinity Toric</option>
 <option value="488">Bioflex 1 Day</option>
 <option value="333">Bioflex 38</option>
 <option value="334">Bioflex 55</option>
 <option value="434">Bioflex 55 Premier</option>
+<option value="579">Bioflex Toric</option>
 <option value="461">Bioflex XC</option>
 <option value="543">Biomedics 1 Day (ClearSight 1 Day)</option>
 <option value="156">Biomedics 38 (UltraFlex 38)</option>
 <option value="157">Biomedics 55 (UltraFlex 55)</option>
 <option value="395">Biomedics 55 Premier</option>
-<option value="558">Biomedics EP</option>
+<option value="558">Biomedics EP (Proclear EP)</option>
 <option value="172">Biomedics Toric</option>
 <option value="421">Biomedics XC</option>
 <option value="175">Boston 7</option>
@@ -169,11 +223,13 @@
 <option value="335">Clearsoft 38</option>
 <option value="336">Clearsoft 55</option>
 <option value="435">Clearsoft 55 Premier</option>
+<option value="580">Clearsoft Toric</option>
 <option value="462">Clearsoft XC</option>
 <option value="490">Clinasoft 1 Day</option>
 <option value="337">Clinasoft 38</option>
 <option value="338">Clinasoft 55</option>
 <option value="436">Clinasoft 55 Premier</option>
+<option value="581">Clinasoft Toric</option>
 <option value="463">Clinasoft XC</option>
 <option value="276">Cooper Clear DW</option>
 <option value="277">Cooper Clear FW</option>
@@ -214,12 +270,13 @@
 <option value="284">Expressions Accents</option>
 <option value="283">Expressions Colors</option>
 <option value="412">Extreme H2O 54%</option>
+<option value="424">Extreme H2O 59% Thin</option>
 <option value="409">Extreme H2O 59% Xtra</option>
-<option value="424">Extreme H2O Thin 59%</option>
 <option value="491">Flextique 1 Day</option>
 <option value="339">Flextique 38</option>
 <option value="340">Flextique 55</option>
 <option value="437">Flextique 55 Premier</option>
+<option value="582">Flextique Toric</option>
 <option value="464">Flextique XC</option>
 <option value="418">Flosi</option>
 <option value="185">Fluorex 300</option>
@@ -265,29 +322,34 @@
 <option value="341">Hydroflex 38</option>
 <option value="342">Hydroflex 55</option>
 <option value="438">Hydroflex 55 Premier</option>
+<option value="583">Hydroflex Toric</option>
 <option value="465">Hydroflex XC</option>
 <option value="493">Hydrovue 1 Day</option>
 <option value="343">Hydrovue 38</option>
 <option value="344">Hydrovue 55</option>
 <option value="439">Hydrovue 55 Premier</option>
+<option value="584">Hydrovue Toric</option>
 <option value="466">Hydrovue XC</option>
 <option value="153">Illusions</option>
 <option value="494">Mediflex 1 Day</option>
 <option value="345">Mediflex 38</option>
 <option value="346">Mediflex 55</option>
 <option value="440">Mediflex 55 Premier</option>
+<option value="585">Mediflex Toric</option>
 <option value="467">Mediflex XC</option>
 <option value="166">Mini</option>
 <option value="495">Natural Sight 1 Day</option>
 <option value="401">Natural Sight 38</option>
 <option value="402">Natural Sight 55</option>
 <option value="441">Natural Sight 55 Premier</option>
+<option value="602">Natural Sight Toric</option>
 <option value="468">Natural Sight XC</option>
 <option value="290">Natural Touch Opaque (Elegance Opaque)</option>
 <option value="496">Neoflex 1 Day</option>
 <option value="347">Neoflex 38</option>
 <option value="348">Neoflex 55</option>
 <option value="442">Neoflex 55 Premier</option>
+<option value="586">Neoflex Toric</option>
 <option value="469">Neoflex XC</option>
 <option value="325">NewVues (Focus 1-2 Week)</option>
 <option value="326">NewVues Colors (Focus 1-2 Week SoftColors)</option>
@@ -298,6 +360,7 @@
 <option value="349">Omniflex 38</option>
 <option value="350">Omniflex 55</option>
 <option value="443">Omniflex 55 Premier</option>
+<option value="587">Omniflex Toric</option>
 <option value="470">Omniflex XC</option>
 <option value="556">OP-10</option>
 <option value="193">OP-2</option>
@@ -308,11 +371,13 @@
 <option value="354">Optiflex 38</option>
 <option value="355">Optiflex 55</option>
 <option value="444">Optiflex 55 Premier</option>
+<option value="588">Optiflex Toric</option>
 <option value="471">Optiflex XC</option>
 <option value="499">Optiform 1 Day</option>
 <option value="356">Optiform 38</option>
 <option value="357">Optiform 55</option>
 <option value="445">Optiform 55 Premier</option>
+<option value="589">Optiform Toric</option>
 <option value="472">Optiform XC</option>
 <option value="119">Optima 38 / SP</option>
 <option value="120">Optima FW (SofLens 38)</option>
@@ -333,11 +398,13 @@
 <option value="358">Polyflex 38</option>
 <option value="359">Polyflex 55</option>
 <option value="446">Polyflex 55 Premier</option>
+<option value="590">Polyflex Toric</option>
 <option value="473">Polyflex XC</option>
 <option value="501">Polysoft 1 Day</option>
 <option value="360">Polysoft 38</option>
 <option value="361">Polysoft 55</option>
 <option value="447">Polysoft 55 Premier</option>
+<option value="591">Polysoft Toric</option>
 <option value="474">Polysoft XC</option>
 <option value="263">Precision UV</option>
 <option value="294">Preference DW/FW (Pink Box)</option>
@@ -346,6 +413,7 @@
 <option value="297">Preference Toric XR</option>
 <option value="547">Proclear 1 Day</option>
 <option value="130">Proclear Compatibles</option>
+<option value="620">Proclear EP (Biomedics EP)</option>
 <option value="397">Proclear Multifocal</option>
 <option value="393">Proclear Toric</option>
 <option value="546">Proclear Toric XR</option>
@@ -353,16 +421,19 @@
 <option value="362">Procon 38</option>
 <option value="363">Procon 55</option>
 <option value="448">Procon 55 Premier</option>
+<option value="592">Procon Toric</option>
 <option value="475">Procon XC</option>
 <option value="503">Proflex 1 Day</option>
 <option value="364">Proflex 38</option>
 <option value="365">Proflex 55</option>
 <option value="449">Proflex 55 Premier</option>
+<option value="593">Proflex Toric</option>
 <option value="476">Proflex XC</option>
 <option value="504">Prosite 1 Day</option>
 <option value="366">Prosite 38</option>
 <option value="367">Prosite 55</option>
 <option value="450">Prosite 55 Premier</option>
+<option value="594">Prosite Toric</option>
 <option value="477">Prosite XC</option>
 <option value="404">PureVision</option>
 <option value="422">PureVision MultiFocal</option>
@@ -378,19 +449,22 @@
 <option value="298">Silver 07</option>
 <option value="392">SofLens 38 (Optima FW)</option>
 <option value="323">SofLens 59</option>
-<option value="127">SofLens 66 Toric</option>
 <option value="550">SofLens Daily Disposable 90PK</option>
 <option value="126">SofLens MultiFocal</option>
+<option value="127">SofLens Toric (SofLens 66 Toric)</option>
 <option value="506">Sofmed 1 Day</option>
 <option value="368">Sofmed 38</option>
 <option value="369">Sofmed 55</option>
 <option value="452">Sofmed 55 Premier</option>
+<option value="623">Sofmed Breathables</option>
+<option value="595">Sofmed Toric</option>
 <option value="479">Sofmed XC</option>
 <option value="154">Softcon EW</option>
 <option value="507">Softech 1 Day</option>
 <option value="370">Softech 38</option>
 <option value="371">Softech 55</option>
 <option value="453">Softech 55 Premier</option>
+<option value="597">Softech Toric</option>
 <option value="480">Softech XC</option>
 <option value="226">Softmate B</option>
 <option value="227">Softmate II</option>
@@ -398,12 +472,14 @@
 <option value="372">Softview 38</option>
 <option value="373">Softview 55</option>
 <option value="454">Softview 55 Premier</option>
+<option value="598">Softview Toric</option>
 <option value="481">Softview XC</option>
 <option value="563">Sterling 38</option>
 <option value="509">Target 1 Day</option>
 <option value="374">Target 38</option>
 <option value="375">Target 55</option>
 <option value="455">Target 55 Premier</option>
+<option value="599">Target Toric</option>
 <option value="482">Target XC</option>
 <option value="387">Torisoft</option>
 <option value="155">Torisoft (MTO)</option>
@@ -412,6 +488,7 @@
 <option value="376">Ultraflex 38</option>
 <option value="377">Ultraflex 55</option>
 <option value="456">Ultraflex 55 Premier</option>
+<option value="600">Ultraflex Toric</option>
 <option value="483">Ultraflex XC</option>
 <option value="299">Vantage</option>
 <option value="300">Vantage Accents</option>
@@ -422,6 +499,7 @@
 <option value="378">Versaflex 38</option>
 <option value="379">Versaflex 55</option>
 <option value="457">Versaflex 55 Premier</option>
+<option value="601">Versaflex Toric</option>
 <option value="484">Versaflex XC</option>
 <option value="390">Vertex Sphere (Encore Sphere)</option>
 <option value="391">Vertex Toric (Encore Toric)</option>
@@ -433,7 +511,7 @@
                             </select>
                         </form>
                         <form id="lensselect" action="" method="post">
-                            <select class="selectmanufacturer" name="name" onchange="changeDept (this.form,'name')">
+                            <select class="selectmanufacturer" id="globalmanufacturerselect" name="name" onchange="changeDept (this.form,'name')">
                                 <option value="">Select Manufacturer</option>	
                                 <option value="85">Bausch &amp; Lomb</option>
 <option value="1199">Benz Research</option>
@@ -457,7 +535,7 @@
                             </select>
                         </form>
                         <form id="lensselect" action="" method="post">
-                            <select class="lensdropdown" name="name" onchange="changeDept (this.form,'name')">
+                            <select class="lensdropdown" id="globallenstypeselect" name="name" onchange="changeDept (this.form,'name')">
                                 <option value="">Select Type of Lens</option>	
                                 <option value="93">1-2 Week Disposable</option>
 <option value="94">Bifocal Lenses</option>
@@ -481,11 +559,12 @@
 			
                 	<div id="content">
                     	
-                    	<div id="body">
-                        
+                            <div id="body">
+                            
 
 
 <!-- End If that handles fram/non-frame site -->
+
 
 
     <div id="breadcrumbs">
@@ -544,14 +623,16 @@ please contact Lens.com by sending an e-mail.</p>
 
     </div>
 
-				<div class="clearfix"></div>
-                </div><br>
-               </div>
-               <div id="endcap">
+                <div class="clearfix"></div>
+                    </div><br>
+                </div>
+                <div id="endcap">
                     <div id="links">
                         <ul>
-                            <li><strong>1-800 LENS.COM</strong></li>
-                            <li><a href="/" title="Return to the Lens.com Homepage">Home</a></li>
+                            <li><strong>1-800 LENS.COM (536-7266)</strong></li>
+                            
+                                <li><a href="/" title="Return to the Lens.com Homepage">Home</a></li>
+                                
                             <li><a href="http://www.lens.com/common/showallbrands.asp" title="View All Products">All Products</a></li>
                             <li><a href="https://www.lens.com/common/secure/myaccount.asp" title="View My Account">My Account</a></li>
                             <li><a href="https://www.lens.com/common/secure/reorderinfo.asp" title="Reorder Products">Reorder</a></li>
@@ -568,8 +649,8 @@ please contact Lens.com by sending an e-mail.</p>
 			<div id="footer">
                 <div id="quickfind">
                     
-				  <div class="heading"><h1><a href="http://www.lens.com/" title="Contact Lenses">Contact Lenses</a></h1>&nbsp;Quick Find</div>
-				
+                    <div class="heading"><h1><a href="http://www.lens.com/" title="Contact Lenses">Contact Lenses</a></h1>&nbsp;Quick Find</div>
+                    
 
 				<ul>
 				  <li><a href="http://www.lens.com/contact-lenses/lens112.asp" title="1-Day Acuvue">1-Day Acuvue</a></li>
@@ -599,7 +680,7 @@ please contact Lens.com by sending an e-mail.</p>
                 
                 <div id="btmlinks">
                     <p>                
-                      <strong>© 1995-2008 Lens.com<sup>®</sup>. All Rights Reserved.</strong>
+                      <strong>© 1995-2010 Lens.com<sup>®</sup>. All Rights Reserved.</strong>
                       Lens.com<sup>®</sup> is a contact lens replacement company, and a direct to consumer marketer of
                       contact lenses. As a contact lens replacement center, we can only sell you contact lenses that you
                       have a valid prescription for, and are wearing successfully.
