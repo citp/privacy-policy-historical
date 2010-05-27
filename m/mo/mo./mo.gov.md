@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213063438id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mo.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094805id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.*
 
 # MO.gov | Privacy and Security
 
