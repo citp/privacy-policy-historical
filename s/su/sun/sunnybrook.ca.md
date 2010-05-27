@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126072547id_/http%3A//www.sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunnybrook.ca privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528010306id_/http%3A//sunnybrook.ca/content/%3Fpage%3D83) for the most accurate reproduction.*
 
 # Privacy & Confidentiality - Sunnybrook Health Sciences Centre
 
@@ -27,7 +27,7 @@ Toronto, ON M4N 3M5
 
  **We will ensure that your concerns are investigated and a response is provided to you in a timely manner.**
 
- [Privacy Brochure](http://sunnybrook.ca/uploads/PrivacyPatientNotificationDec2006.pdf)   
- [Patient Privacy Notice  ](http://sunnybrook.ca/uploads/Protecting_Your_Personal_Health_Information.pdf)  
- [Privacy Lockbox Brochure](http://sunnybrook.ca/uploads/privacy_lockbox_july2008.pdf)   
- [Wait Time Information System Privacy FAQ](http://sunnybrook.ca/uploads/PrivacyFAQWaitTimes.pdf) 
+ [Privacy Brochure](http://www.sunnybrook.ca/uploads/PrivacyPatientNotificationDec2006.pdf)   
+ [Patient Privacy Notice  ](http://www.sunnybrook.ca/uploads/Protecting_Your_Personal_Health_Information.pdf)  
+ [Privacy Lockbox Brochure](http://www.sunnybrook.ca/uploads/privacy_lockbox_july2008.pdf)   
+ [Wait Time Information System Privacy FAQ](http://www.sunnybrook.ca/uploads/PrivacyFAQWaitTimes.pdf) 
