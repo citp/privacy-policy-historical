@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bmyers.com privacy policy that was archived on 2007-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071214015910id_/http%3A//www.bmyers.com/public/department26.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmyers.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527062503id_/http%3A//www.bmyers.com/public/department26.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Privacy Policy 
 
-We are strongly committed to safeguarding subscribers' privacy on bmyers.com. We operate under the following strict privacy policy: 
+We are strongly committed to safeguarding visitor and subscriber privacy on bmyers.com. We operate under the following strict privacy policy: 
 
-The only information we obtain about our subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.
+The only information we obtain about our visitors or subscribers is information we need to process credit card charges for subscription fees. The information collected is never revealed, sold, or made public for any reason.
 
 Personally identifiable information provided by subscribers (name, email or home address, etc.) is never disclosed to any individual or business. 
 
@@ -32,4 +32,4 @@ We use a variety of security measures including encryption and authentication fr
 Our site gives users the opportunity to opt-in to receive communications from us. You can be assured that we never reveal, sell, or make available your email address to anyone for any purpose. This site also gives users options for removing their information from our database in order to stop receiving our communications. 
 
 **Other**  
-If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20071214015910id_/http%3A//www.bmyers.com/public/7.cfm).
+If you have questions regarding our privacy policy, feel free to [contact us](https://web.archive.org/web/20100527062503id_/http%3A//www.bmyers.com/public/7.cfm).
