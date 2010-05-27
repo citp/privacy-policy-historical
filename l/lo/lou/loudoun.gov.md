@@ -1,21 +1,17 @@
-> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106102711id_/http%3A//www.loudoun.gov/Default.aspx%3Ftabid%3D1351) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudoun.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527091120id_/http%3A//www.loudoun.gov/Default.aspx%3Ftabid%3D1351) for the most accurate reproduction.*
 
 # Privacy Practices and Security Policy
 
   
 
 
-**Loudoun County Website  
-Privacy Practices and Security Policy  
-**
-
-Loudoun County Government respects your privacy! The information below explains how the county gathers information on this web site and the technology the county uses to ensure that your  information is private and secure.
+Loudoun County Government respects your privacy! The information below explains how the county gathers information on this web site and the technology the county uses to ensure that your information is private and secure.
 
 #### Collecting Information
 
   1. **What information is collected?**
 
-For each visitor, the county collects the following information: the Internet Protocol (IP) address, type of browser used, the date and time of the visit, the addresses of the pages on this web site to which you link during a visit to the county's web site. If you fill out county forms online the data that you enter into the forms are also collected and used for the sole purpose of the form. 
+For each visitor, the county collects the following information: the Internet Protocol (IP) address, type of browser used, the date and time of the visit, the addresses of the pages on this web site to which you link during a visit to the county's web site. If you fill out county forms online the data that you enter into the forms are also collected and used for the sole purpose of the form.
 
   2. **Is any information collected automatically just by accessing this web site?**
 
@@ -46,8 +42,6 @@ When a link on the county's web site directs you to a third party's site, the co
 
 The county utilizes a system of hardware and software known as a "firewall" to regulate information that can enter and exit the county's web server(s). This ensures that only authorized access occurs and that information remains confidential. The county also utilizes SSL (Secure Sockets Layer) technology to encrypt your sensitive information that you send to us using our online forms or applications.
 
-#### Sending Your Comments 
-
-#### 
+#### Sending Your Comments
 
 If you have questions regarding this privacy statement, the practices of the county's web site, or your interaction with the county's web site please contact the [Webmaster](mailto:webmaster@loudoun.gov) ([webmaster@loudoun.gov](mailto:webmaster@loudoun.gov)). 
