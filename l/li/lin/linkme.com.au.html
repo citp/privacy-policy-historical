@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the linkme.com.au privacy policy that was archived on 2009-12-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091209211901id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the linkme.com.au privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527023303id_/http%3A//www.linkme.com.au/PrivacyStatement.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head><title>
 	Privacy Statement
@@ -11,28 +11,14 @@
 <link href="/ui/css/widgets_and_lists.css" rel="stylesheet">
 <link href="/ui/css/sidebar.css" rel="stylesheet">
 <link href="/ui/css/forms.css" rel="stylesheet">
-<link href="/ui/css/messaging.css" rel="stylesheet">
 <link href="/ui/css/forms_v2.css" rel="stylesheet">
+<link href="/ui/css/messaging.css" rel="stylesheet">
 <link href="/ui/css/controls/login.css" rel="stylesheet">
 <link href="/ui/styles/LeftNav.css" rel="stylesheet">
 
     
     
 
-
-    <!-- IE6 PNG fixes -->
-    <style type="text/css">
-        #logo a{
-	        background:url('/ui/images/universal/logo-home.png') top left no-repeat !important;
-	        background:none;
-	        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/ui/images/universal/logo-home.png', sizingMethod='crop');
-        }
-        #logo a:hover {
-	        background:url('/ui/images/universal/logo-home-hilight.png') top left no-repeat !important;
-	        background:none;
-	        filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='/ui/images/universal/logo-home-hilight.png', sizingMethod='crop');
-        }
-    </style>
 
         
         <script type="text/javascript" language="javascript" src="/js/Javascript.aspx"></script>
@@ -60,17 +46,25 @@
 
     <div id="header-links-container">
         <div id="header-links">
-        
+            <ul class="horizontal_action-list action-list">
+
+                
+		            <li><a href="/employers/employer.aspx" title="Employer Home">Employer site</a></li>
+                
+                    <li><a href="/AboutUs.aspx">About LinkMe</a></li>
+                
+                    <li><a href="/PrivacyStatement.aspx">Privacy</a></li>
+                    <li><a href="/ui/unregistered/common/ContactUsForm.aspx?returnUrl=%2fPrivacyStatement.aspx">Contact</a></li>
+                
             
-		        <strong><a href="/employers/employer.aspx" title="Employer Home">Employer Site</a></strong> |
-            <a href="/AboutUs.aspx">About LinkMe</a> | 
-            <a href="/PrivacyStatement.aspx">Privacy</a> | 
-                <a href="/ui/unregistered/common/ContactUsForm.aspx?returnUrl=%2fPrivacyStatement.aspx">Contact</a>
+            </ul>
+            
             
 		    
-		        <div id="logged-in">
-		            <span class="affordance-link"><a href="https://www.linkme.com.au/LogIn.aspx">Log in</a>&nbsp;|&nbsp;<a href="https://www.linkme.com.au/Join.aspx">Join</a></span>
-		        </div>
+		        <ul class="horizontal_action-list action-list" id="logged-in">
+		            <li><a href="/LogIn.aspx">Log in</a></li>
+		            <li><a href="/Join.aspx">Join</a></li>
+		        </ul>
 		        
             
         </div>
@@ -86,7 +80,7 @@
         
             <li><a href="/guests/Profile.aspx">Profile</a></li>
         
-            <li><a href="/search/jobs">Jobs</a></li>
+            <li><a href="http://www.linkme.com.au/search/jobs">Jobs</a></li>
         
             <li><a href="/guests/Friends.aspx">Friends</a></li>
         
@@ -148,10 +142,6 @@
             <p><a href="/media/index.aspx">Media room</a></p>
         
             <p><a href="/Affiliates.aspx">Affiliates</a></p>
-        
-            <p><a href="/featured/recruiters/index.aspx">Find a recruiter</a></p>
-        
-            <p><a href="/featured/employers/index.aspx">Find an employer</a></p>
         
             <p><a href="/CareersAtLinkMe.aspx">Careers at LinkMe</a></p>
         
@@ -290,8 +280,8 @@ Sys.Application.initialize();
     		
 		    
 		        <div class="login-join-links">
-		            Join as <a href="https://www.linkme.com.au/Join.aspx" title="Member LinkMe" name="Login/MemberJoin">Member</a>
-		            or <a href="https://www.linkme.com.au/employers/Join.aspx" title="Employer Join" name="Login/EmployerJoin">Employer</a>
+		            Join as <a href="/Join.aspx" title="Member LinkMe" name="Login/MemberJoin">Member</a>
+		            or <a href="/employers/Join.aspx" title="Employer Join" name="Login/EmployerJoin">Employer</a>
 		        </div>
 		    
 		</div>
@@ -301,19 +291,7 @@ Sys.Application.initialize();
 
 	
 </form>
-</div><div class="sidebar-section-title"><h2>Sponsored links</h2></div>
-<div class="sidebar-section-content">
-
-<script type="text/javascript"><!--
-google_ad_client = "pub-4806942146566841";
-/* 160x600, created 06/10/08 */
-google_ad_slot = "7931803020";
-google_ad_width = 160;
-google_ad_height = 600;
-//-->
-</script>
-<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
-</script></div>
+</div>
             </div>
 
             <div class="clearer"></div>
@@ -349,15 +327,6 @@ google_ad_height = 600;
             pageTracker._initData();
             pageTracker._setVar("Guest");
 
-            
-                
-                var url = window.location.href.replace(new RegExp('^https?://'), ''); // Strip protocol
-                if (startsWith(url, host))
-                {
-                    url = url.substr(host.length); // Strip hostname
-                }
-
-                pageTracker._trackPageview(url);
             
         }
     </script>
