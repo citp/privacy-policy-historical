@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mscd.edu privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173850id_/http%3A//www.mscd.edu/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mscd.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527123759id_/http%3A//www.mscd.edu/privacy.htm) for the most accurate reproduction.*
 
 # PRIVACY STATEMENT
 
