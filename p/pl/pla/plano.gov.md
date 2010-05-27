@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913045248id_/http%3A//www.plano.gov/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plano.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527100112id_/http%3A//plano.gov/Pages/privacy_policy.aspx) for the most accurate reproduction.*
 
-# The City of Plano, Texas Official Website
+# City of Plano - Home
 
 **Privacy Statement**
 
