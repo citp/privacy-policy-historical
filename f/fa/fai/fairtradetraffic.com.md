@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fairtradetraffic.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618063529id_/http%3A//fairtradetraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairtradetraffic.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527075450id_/http%3A//fairtradetraffic.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
 # FairTrade Traffic Exchange
 
@@ -20,4 +20,4 @@ Our users can cancel membership and be removed from all newsletters and database
 We may send the user site and service announcement updates. We communicate with the users to provide requested services and in regards to issues relating to their accounts via email.
 
 **Notification of Changes**  
-If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner
+If we decide to change our Privacy Policy we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.
