@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2009-09-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090901191049id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditkarma.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527181756id_/http%3A//www.creditkarma.com/about/privacy) for the most accurate reproduction.*
 
 # Credit Karma Privacy Policy | Credit Karma
+
+##### Privacy Policy
 
 _Effective date January 15, 2008_
 
