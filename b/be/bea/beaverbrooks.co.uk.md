@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125104738id_/http%3A//www.beaverbrooks.co.uk/index.cfm%3Fevent%3DshowPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaverbrooks.co.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527211832id_/http%3A//www.beaverbrooks.co.uk/index.cfm%3Fevent%3DshowPrivacy) for the most accurate reproduction.*
 
 # Privacy Policy - Beaverbrooks the Jewellers
 
@@ -41,5 +41,10 @@ FY8 1RE
 
   6. **Users 16 and under**  
 If you are aged 16 or under, please get your parent/guardian's permission beforehand whenever you provide personal information to **Beaverbrooks the Jewellers Ltd** website. Users without this consent are not allowed to provide us with personal information.
+  7. **Use of pixels**  
+Beaverbrooks uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. 
+
+For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.doubleclick.net/us/corporate/privacy>. 
+
 
 
