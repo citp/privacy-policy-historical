@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218074306id_/http%3A//www.volcom.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volcom.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527040835id_/http%3A//www.volcom.com/privacy.asp) for the most accurate reproduction.*
 
 # Volcom | Youth Against Establishment
 
