@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031014059id_/http%3A//www.edmodo.com/legal/privacy.php%3FTB_iframe%3Dtrue%26height%3D400%26width%3D500) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmodo.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527064934id_/http%3A//www.edmodo.com/corporate/privacy-policy) for the most accurate reproduction.*
 
-# edmodo - Privacy Policy
+# Edmodo | Corporate Privacy Policy
 
 This document was last updated on May 18, 2008. 
 
-**1\. Acknowledgment and acceptance of terms**
+## 1\. Acknowledgment and acceptance of terms
 
-Edmodo LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing any Edmodo LLC websites, you acknowledge and fully understand Edmodo LLC’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
+Edmodo LLC is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing any Edmodo LLC websites, you acknowledge and fully understand Edmodo LLC's Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement. 
 
-**2\. Participating Merchant Policies**
+## 2\. Participating Merchant Policies
 
 Related services and offerings with links from this website, including vendor sites, have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in Edmodo LLC services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties. 
 
-**3.** **Information We Collect and How We Use It**
+## 3\. Information We Collect and How We Use It
 
 Edmodo LLC collects certain information from and about its users three ways: directly from our Web Server logs, the user, and with Cookies. 
 
@@ -72,23 +72,23 @@ We will not disclose personally identifiable information we collect from you to 
 
 
 
-**4\. Use of Web Beacons or GIF files**
+## 4\. Use of Web Beacons or GIF files
 
-Edmodo LLC Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Edmodo LLC to count users who have visited those pages and to deliver co-branded services. Edmodo LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
+Edmodo LLC Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow Edmodo LLC to count users who have visited those pages and to deliver co-branded services. Edmodo LLC may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Edmodo LLC prohibits Web beacons from being used to collect or access your personal information. 
 
-**5\. Accessing Web Account Information**
+## 5\. Accessing Web Account Information
 
-We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – contact@edmodo.com. 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant \- . 
 
-**6\. Changes to this Statement**
+## 6\. Changes to this Statement
 
-Edmodo LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the “updated” date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+Edmodo LLC has the discretion to occasionally update this privacy statement. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
 
-**7\. Contacting Us**
+## 7\. Contacting Us
 
-If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at contact@edmodo.com or send your comments to: 
+If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us at  or send your comments to: 
 
 Edmodo LLC 
 
