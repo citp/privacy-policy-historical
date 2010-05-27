@@ -1,17 +1,14 @@
-<!--The following is the downloaded HTML source of the kendall.edu privacy policy that was archived on 2009-06-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090628235018id_/http%3A//www.kendall.edu/about/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the kendall.edu privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527091552id_/http%3A//www.kendall.edu/about/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+	<!-- [source=inc-header] -->
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<link href="http://www.kendall.edu/?css=site/styles-interior.v.1241222877" rel="stylesheet" type="text/css">
-	<!--[if IE]>
-	<style type="text/css"> 
-	/* place css fixes for all versions of IE in this conditional comment */
-	.thrColElsHdr #sidebar1, .thrColElsHdr #sidebar2 { padding-top: 30px; }
-	.thrColElsHdr #mainContent { zoom: 1; padding-top: 15px; }
-	/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
-	</style>
-	<![endif]-->
+	<link rel="stylesheet" type="text/css" href="http://www.kendall.edu/css/global.css">
+	<link rel="stylesheet" type="text/css" href="http://www.kendall.edu/css/kendall-sub-site.css">
+	<link rel="stylesheet" type="text/css" href="http://www.kendall.edu/css/thickbox.css">
+	<link rel="shortcut icon" href="http://www.kendall.edu/favicon.ico">
+
 
   <title>Privacy Policy - Kendall College</title>
 
@@ -28,7 +25,7 @@
 <meta name="DC.publisher" content="">
 <meta name="DC.date.created" scheme="DCTERMS.W3CDTF" content="2008-12-15T21:31:54-0600">
 <meta name="DC.date.modified" scheme="DCTERMS.W3CDTF" content="2008-12-15T21:47:54-0600">
-<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2009-07-05T01:50:17-0500">
+<meta name="DC.date.valid" scheme="DCTERMS.W3CDTF" content="2010-06-02T11:15:52-0500">
 <meta name="DC.type" scheme="DCTERMS.DCMIType" content="Text">
 <meta name="DC.rights" scheme="DCTERMS.URI" content="">
 <meta name="DC.format" content="text/html">
@@ -48,44 +45,106 @@
     dc:date="2008-12-15 09:31:54 PM GMT" />
 </rdf:RDF>
 -->
-</head>
+	<script type="text/javascript" src="http://www.kendall.edu/js/jquery.js"></script>
+	<script type="text/javascript" src="http://www.kendall.edu/js/thickbox.js"></script>
+	<script type="text/javascript" src="http://www.kendall.edu/js/omniture_functions.js"></script>
+	<script type="text/javascript">
+		$(document).ready(
+			function() {
+				// track "my kendall" link click
+				$('#myKendallLink').click(
+					function() {
+						trackOmnitureVars( {events: 'event20', title: 'myKendall Logins', suite: 'laureatekendall'} );
+						pageTracker._trackPageview('/outgoing/my.kendall.edu');
+						return true;
+					}
+				);
+				/* GA event tracking for search 
+				$('#site-search').submit(
+					function() {
+						var sUrl = 'http://www.kendall.edu/site/search-post/?search_term=' + $('').val().toLowerCase();
+						pageTracker._trackPageview(sUrl);
+						return true;
+					}
+				);
+				*/
+			}
+		);
+	</script>
+	</head>
 
 <body class="thrColElsHdr">
 
-<div id="container">
-  
-  <div id="header">
-    <h1 class="style2">&nbsp;</h1>
-    <!-- end #header --></div>
+<!-- START: main -->
+<div id="main">
 
-  <div id="header2">
-    <div id="image_containerLogo"><a href="http://www.kendall.edu"><img src="/images/template/headerLogo.gif" id="headerLogo" border="0"></a></div>
-	<form action="/site/search-post" method="post">
-	<a href="http://www.kendall.edu/admissions/apply-for-admission/">Apply Now</a> |  <a href="http://www.kendall.edu/about/request-information">Request Info</a> &nbsp;&nbsp;&nbsp;<input name="search_term" type="text" class="searchField" value="SEARCH" size="12" onclick="javascript:this.value='';"> <input name="Submit" type="image" src="/images/template/submitBttn.gif" alt="Go" class="searchSubmit">
-	</form>
-  </div>
-  
+    <!-- START: global-nav -->
+	<div id="global-nav">
+		<ul class="adjacent">
+            <li><a href="http://business.kendall.edu/">BUSINESS</a></li>
+			<li><a href="http://culinary.kendall.edu/">CULINARY ARTS</a></li>
+			<li><a href="http://education.kendall.edu/">EDUCATION</a></li>
+			<li><a href="http://hospitality.kendall.edu/">HOSPITALITY MANAGEMENT</a></li>
+			<li><a href="http://www.kendall.edu/psychology">PSYCHOLOGY</a></li>
+			<li><a rel="nofollow" href="https://my.kendall.edu/ics" id="myKendallLink" class="last">MY KENDALL</a></li>
+		</ul>
+	</div>
+    <!-- END: global-nav -->
+
+
+    <!-- START: masthead -->
+	<div id="masthead">
+
+		<!-- start: masthead wrapper -->
+		<div class="wrapper">
+
+			<!-- START: logo -->
+			<div id="logo">
+				<a href="/"><img src="/images/template/headerLogo.gif" width="184" height="37" alt="Kendall College" class="block"></a>
+			</div>
+			<!-- END: logo -->
+
+			<!-- START: utility-nav -->
+			<div id="utility-nav">
+				<ul class="adjacent">
+
+					<li><a href="/admissions/apply-for-admission/" class="sep">Apply Now</a></li>
+					<li><a href="/about/request-information" class="sep">Request Info</a></li>
+					<li><a href="/about/open-house-registration/">Open House</a></li>
+					<li>
+						<form method="post" action="/site/search-post">
+							<input type="text" name="search_term" id="search-term" value="Search" onclick="javascript:this.value='';">
+							<input type="image" name="search" src="/images/home/btn_search.gif">
+						</form>
+					</li>
+
+				</ul>
+			</div>
+			<!-- END: utility-nav -->
+
+		</div>
+		<!-- end: masthead wrapper -->
+
 	<!-- top tab navigation -->
 
-
-<div id="subNav">
+<div id="primary-nav">
 <ul><li class="nav1_on">
-		<a href="http://www.kendall.edu/about/" title="About Kendall">About Kendall</a>
+	<a href="http://www.kendall.edu/about/" title="About Kendall">About Kendall</a>
 </li>
 <li class="nav1">
-	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/academics/" title="Academics">Academics</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/academics/" title="Academics">Academics</a>
 </li>
 <li class="nav1">
-	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/admissions/" title="Admissions">Admissions</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/admissions/" title="Admissions">Admissions</a>
 </li>
 <li class="nav1">
-	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/tuition-and-aid/" title="Tuition &amp; Financial Aid">Tuition &amp; Financial Aid</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/tuition-and-aid/" title="Tuition &amp; Financial Aid">Tuition &amp; Financial Aid</a>
 </li>
 <li class="nav1">
-	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/student-life/" title="Student Life">Student Life</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/student-life/" title="Student Life">Student Life</a>
 </li>
 <li class="nav1">
-	&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/news-and-events/" title="News &amp; Events">News &amp; Events</a>
+&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;	<a href="http://www.kendall.edu/news-and-events/" title="News &amp; Events">News &amp; Events</a>
 </li>
 </ul>
 </div>
@@ -93,16 +152,24 @@
 <!-- /top tab navigation -->
 
 
-<!-- breadcrumbs -->
+<!-- START: sub-nav -->
 
-<div id="header4"><a href="/">Home</a> » <a href="/about/">About</a>  »  Privacy Policy</div>
+<div id="sub-nav"><a href="/">Home</a> » <a href="/about/">About</a>  »  Privacy Policy</div>
 
-<!-- /breadcrumbs -->
+<!-- END: sub-nav -->
 
+</div>
+<!-- END: masthead -->
+<!-- 
+    NOTE: closing masthead here, instead of in inc-header, where it was opened.  
+               It *should* be closed in the same include.  To solve this, sidebar1 should
+               not be a product of this include because this include is completely contained
+               by #masthead
+-->
 
 <!-- side navigation -->
 
-
+<!--else-->
 <div id="sidebar1">
 <ul><li class="nav2">
     &gt;  <a href="http://www.kendall.edu/about/why-kendall/" title="Why Kendall?">Why Kendall?</a>
@@ -117,10 +184,22 @@
     &gt;  <a href="http://www.kendall.edu/about/alumni/" title="Alumni">Alumni</a>
 </li>
 <li class="nav2">
-    &gt;  <a href="http://www.kendall.edu/about/jobs-at-kendall-college/" title="Jobs at Kendall">Jobs at Kendall</a>
+    &gt;  <a href="http://www.kendall.edu/about/jobs-at-kendall-college/" title="Careers at Kendall">Careers at Kendall</a>
 </li>
 <li class="nav2">
     &gt;  <a href="http://www.kendall.edu/about/directions-to-campus/" title="Directions">Directions</a>
+</li>
+<li class="nav2">
+    &gt;  <a href="http://www.kendall.edu/about/board-of-directors/" title="Board of Directors">Board of Directors</a>
+</li>
+<li class="nav2">
+    &gt;  <a href="http://www.kendall.edu/about/college-officers/" title="College Officers">College Officers</a>
+</li>
+<li class="nav2">
+    &gt;  <a href="http://www.kendall.edu/about/directory/" title="Directory">Directory</a>
+</li>
+<li class="nav2">
+    &gt;  <a href="http://www.kendall.edu/about/kendall-college-charitable-trust/" title="Kendall College Charitable Trust">Kendall College Charitable Trust</a>
 </li>
 </ul>  
 </div>
@@ -129,18 +208,21 @@
 
 <!-- /side navigation -->
 
-	
+	<!-- [END: source=inc-header] -->
+
 
 	
 	
 	<div id="sidebar2">
+		
 					&nbsp;
 			</div>
 	
 	<div id="mainContent">
 	
-		<h1>Privacy Policy</h1>
-		
+		<h1>Privacy Policy                                
+		                </h1>	
+
 					<p>This Overall Privacy Statement discloses the privacy practices for the entire Kendall College Web site.&nbsp;Privacy is extremely important to us. Please read the following to understand our views and practices&nbsp;regarding this matter and how they pertain to you. Kendall College gathers several types of information&nbsp;about our visitors: data that prospective students provide when inquiring about academic programs,&nbsp;information about how many people visit our site, and personal contact information supplied by visitors&nbsp;signing up for services provided and transmitted by Kendall College or other promotions such as our dining&nbsp;services, courses and various surveys. Such information enables us to better tailor our products/services to&nbsp;our visitors' needs and to help us better understand the demographics of our visitors.&nbsp;</p>
 <p>NEITHER KENDALL COLLEGE&nbsp;NOR ANY OF ITS CONTRACTORS SHARES INFORMATION ABOUT INDIVIDUAL VISITORS WITH ANY&nbsp;OTHER PARTY.</p>
 <p>Kendall College gathers user information in the following processes: Electronic newsletter - Kendall College&nbsp;offers a free e-mail newsletter to visitors. Kendall College gathers the e-mail addresses of visitors who&nbsp;voluntarily subscribe. Customers may remove themselves from this mailing list by following the instructions&nbsp;included in every newsletter. Usage tracking - Kendall College tracks visitor traffic patterns throughout our&nbsp;site. However, we do not correlate this information with data about individual visitors. Kendall College&nbsp;may/does break down overall usage statistics according to a visitor's domain name, browser type, and&nbsp;MIME type using the information supplied by the user's Web browser, such as IP address, browser type,&nbsp;version and platform.</p>
@@ -169,17 +251,71 @@
 	
 	<!-- end #mainContent --></div>
 	<!-- This clearing element should immediately follow the #mainContent div in order to force the #container div to contain all child floats --><br class="clearfloat">
-  
+
 	<!-- footer -->
 	<div id="footer">
-		<p>Kendall College | 900 N. North Branch Street | Chicago, Illinois 60642 | 1.888.905.3632 | <a href="http://www.kendall.edu/about/directions-to-campus/"> Directions 
-</a>| 
-<a href="http://www.kendall.edu/site/site-map/">Site Map</a> |<a href="http://www.kendall.edu/about/directory"> Directory </a> |<a href="http://www.kendall.edu/about/privacy-policy">Privacy Policy </a></p>
+		<p></p><ul class="adjacent">
+    		<li><a href="http://www.kendall.edu/">Kendall College</a></li>
+    		<li>900 N. North Branch Street</li>
+    		<li>Chicago, IL  60642</li>
+    		<li>1.888.90.KENDALL (1.888.905.3632)</li>
+    		<li><a href="http://www.kendall.edu/about/directions-to-campus/">Directions</a></li>
+    		<li><a href="/site/site-map/">Site Map</a></li>
+    		<li><a href="http://www.kendall.edu//about/jobs-at-kendall-college/">Careers</a></li>
+    		<li><a href="http://www.kendall.edu//about/privacy-policy">Privacy Policy</a></li>
+    		<li class="last">
+                    <a class="social-network" href="http://www.facebook.com/kendall.college" target="_blank"><img src="/images/icon_facebook.gif" width="20" height="20" alt="facebook"></a>
+                    <a class="social-network" href="http://twitter.com/kendallcollege" target="_blank"><img src="/images/icon_twitter.gif" width="20" height="20" alt="twitter"></a>
+                    <a class="social-network" href="http://blog.kendall.edu/" target="_blank"><img src="/images/icon_blog.gif" width="20" height="20" alt="blogger"></a>
+                </li>
+</ul><p></p>
 	</div>
 	<!-- /footer -->
-  
+
 <!-- end #container --></div>
 <p>&nbsp;</p>
+
+<!-- SiteCatalyst code version: H.20.3.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript" src="/js/s_code_kendall.js"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+
+s.pageName=getPageNameForOmniture();
+s.channel=""
+s.pageType=""
+s.events=getOmnitureParam('events');
+s.prop1=getOmnitureParam('prop1');
+s.prop2=getOmnitureParam('prop2');
+s.prop3=getOmnitureParam('prop3');
+s.prop4=getOmnitureParam('prop4');
+s.prop5=getOmnitureParam('prop5');
+s.prop6=s.getNewRepeat();
+s.prop7=s.getVisitNum();
+s.prop11=s.getDaysSinceLastVisit('s_lv');
+s.prop14= location.href
+/* Conversion Variables */
+s.campaign=""
+s.eVar1=""
+s.eVar2=""
+s.eVar3=""
+s.eVar4=""
+s.eVar5=""
+s.evar6=s.getNewRepeat();
+s.evar7=s.getVisitNum();
+s.evar11=s.getDaysSinceLastVisit('s_lv');
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://metric.kendall.edu/b/ss/laureatekendall/1/H.20.3--NS/0"
+height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.3. -->
+
+
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -189,10 +325,11 @@ try {
 var pageTracker = _gat._getTracker("UA-6290048-7");
 pageTracker._setDomainName("kendall.edu");
 pageTracker._trackPageview();
+
 } catch(err) {}</script>
 
-<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script> 
-<script type="text/javascript">__sfga();</script> 
+<script type="text/javascript" src="https://lct.salesforce.com/sfga.js"></script>
+<script type="text/javascript">__sfga();</script>
 
 
 </body></html>
