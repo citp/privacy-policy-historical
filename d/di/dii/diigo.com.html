@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the diigo.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201020423id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the diigo.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527021620id_/http%3A//www.diigo.com/help/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -65,7 +65,7 @@
 
 
 <script type="text/javascript">
-  var searchVars = {'tip':'Search...', 'index':0, 'opts':[{"title":"Search <em>community library<\/em> for _KEYWORD_","url":"http:\/\/www.diigo.com\/search?adSScope=community&what=_KEYWORD_"},{"title":"Find <em>users<\/em> matching _KEYWORD_","url":"http:\/\/www.diigo.com\/people\/search\/name?type=name&query=_KEYWORD_"},{"title":"Find <em>groups<\/em> interested in _KEYWORD_","url":"http:\/\/groups.diigo.com\/group_mana\/search_groups?keywords=_KEYWORD_"},{"title":"Search in Google","url":"http:\/\/www.diigo.com\/search\/g?cx=!partner-pub-7625644023173335%3Agqffh9-8lvc&cof=FORID%3A11&ie=UTF-8&q=_KEYWORD_&sa=Search#942"}]};
+  var searchVars = {'tip':'Search...', 'index':0, 'opts':[{"title":"Search <em>community library</em> for _KEYWORD_","url":"http://www.diigo.com/search?adSScope=community&what=_KEYWORD_"},{"title":"Find <em>users</em> matching _KEYWORD_","url":"http://www.diigo.com/people/search/name?type=name&query=_KEYWORD_"},{"title":"Find <em>groups</em> interested in _KEYWORD_","url":"http://groups.diigo.com/group_mana/search_groups?keywords=_KEYWORD_"},{"title":"Search in Google","url":"http://www.diigo.com/search/g?cx=!partner-pub-7625644023173335%3Agqffh9-8lvc&cof=FORID%3A11&ie=UTF-8&q=_KEYWORD_&sa=Search#942"}]};
   function initSearchBox(){
     var searchBox = $("searchBox");
     searchBox.onfocus = enableSearchOpts;
@@ -79,7 +79,8 @@
 
   function submitSearch(){
     var url = searchVars.opts[searchVars.index]["url"];
-    self.location.href = url.replace(/_KEYWORD_/, $F("searchBox"));
+    var keyword = encodeURI($F("searchBox"));
+    self.location.href = url.replace(/_KEYWORD_/, keyword);
   }
   
   function makeSearchOpts(){
@@ -100,10 +101,6 @@
   }
   function outSearchOpt(i){
     $("searchOpt_"+searchVars.index).className = "";
-  }
-  function submitSearch(){
-    var url = searchVars.opts[searchVars.index]["url"];
-    self.location.href = url.replace(/_KEYWORD_/, $F("searchBox"));
   }
   function initSearchOpts(){
     if(!$("searchOpts")){makeSearchOpts();}
@@ -372,6 +369,25 @@
 </div><!--box-->
 <div style="clear:both"></div>
 
+
+  
+
+  <div class="footerAD">
+    <script type="text/javascript"><!--
+      window.google_analytics_uacct = "UA-295754-15";
+      google_ad_client = "pub-7625644023173335";
+      /* www-v3.5-footer */
+      google_ad_slot = "8836407132";
+      google_ad_width = 728;
+      google_ad_height = 90;
+      google_hints = "";
+      //-->
+    </script>
+    <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+    </script>
+  </div>
+
+
 <div id="footer">
   <div id="footerInner">
     
@@ -382,11 +398,11 @@
       <li><a href="http://forum.diigo.com">User Forum</a>|</li>
       <li><a href="http://blog.diigo.com">Blog</a>|</li>
       <li><a href="/tools">Tools</a>|</li>
-	  <li><a href="/directory/people">People Directory</a>|</li>
+      <li><a href="/directory/people">People Directory</a>|</li>
       <li><a href="/common/contact">Contact</a>|</li>
       <li><a href="/help/terms">Terms of Service</a>|</li>
       <li><a href="/help/privacy">Privacy</a>|</li>
-      <li>© Diigo Inc 2009</li>
+      <li>© Diigo Inc 2010</li>
     </ul>
     <div class="clear"></div>
   </div><!--footerInner-->
@@ -403,11 +419,11 @@
   var DIIGO_SECURE = "http://www.diigo.com";
   var USER_AVATAR_URI = RESOURCE_HOST+"/images/avatar/user";
 </script>
-<script src="/javascripts/lib/diigo_bookmark.js?1256699877" type="text/javascript"></script>
+<script src="/javascripts/lib/diigo_bookmark.js?1262053211" type="text/javascript"></script>
 <script src="/javascripts/lib/parse_tags.js?1219836720" type="text/javascript"></script>
-<script src="/javascripts/follow_button.js?1254130466" type="text/javascript"></script>
-<link href="/stylesheets/../front-end-utils/front-end-utils.css?1254130448" media="screen" rel="stylesheet" type="text/css">
-<script src="/javascripts/../front-end-utils/front-end-utils.js?1254130448" type="text/javascript"></script>
+<script src="/javascripts/follow_button.js?1262887226" type="text/javascript"></script>
+<link href="/stylesheets/../front-end-utils/front-end-utils.css?1272101809" media="screen" rel="stylesheet" type="text/css">
+<script src="/javascripts/../front-end-utils/front-end-utils.js?1273829207" type="text/javascript"></script>
 <script type="text/javascript">
   function initDiigo() {
     for(var i=0; i<window.onloadListeners.length;i++) {
