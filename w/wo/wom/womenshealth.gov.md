@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2009-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090506220314id_/http%3A//www.womenshealth.gov/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the womenshealth.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527092305id_/http%3A//www.womenshealth.gov/about/privacy) for the most accurate reproduction.*
 
-# About the National Women's Health Information Center - NWHIC Web Site Privacy Policy Notice
+# NWHIC Web Site Privacy Policy Notice << About womenshealth.gov << womenshealth.gov
 
-About the National Women's Health Information Center
-
-About the National Women's Health Information Center
-
-|    
----|---  
-  
-  
-
-
-[About the National Women's Health Information Center Home](https://web.archive.org/web/20090506220314id_/http://www.womenshealth.gov/about/index.cfm) > NWHIC Web Site Privacy Policy Notice
+[Home](https://web.archive.org/web/20100527092305id_/http://www.womenshealth.gov/index.htm) > [About womenshealth.gov](https://web.archive.org/web/20100527092305id_/http://www.womenshealth.gov/about/index.cfm) >
 
 Thank you for visiting the National Women's Health Information Center (NWHIC) web site and for reviewing our Privacy Policy. Our policy is clear: 
 
@@ -53,4 +43,4 @@ For site security purposes and to ensure that this service remains available to 
 
 Information originally collected in traditional paper systems can be submitted electronically, i.e., electronic commerce transactions and information updates about eligibility benefits. Electronically submitted information is maintained and destroyed pursuant to the Federal Records Act, and in some cases may be subject to the Privacy Act. If information that you submit is to be used in a Privacy Act system of records, there will be a Privacy Act Notice provided. 
 
-Current as of May 2005
+Content last updated May 1, 2005.
