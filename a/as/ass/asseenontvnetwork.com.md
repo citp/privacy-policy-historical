@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asseenontvnetwork.com privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016100431id_/http%3A//www.asseenontvnetwork.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asseenontvnetwork.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527061504id_/http%3A//www.asseenontvnetwork.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Television Infomercial Products - As Seen On TV Network - Buxton Organizer Bag, Aqua Globes...
 
