@@ -1,39 +1,6 @@
-> *The following text is extracted and transformed from the fastsubmitarticles.com privacy policy that was archived on 2009-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090202115034id_/http%3A//www.fastsubmitarticles.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fastsubmitarticles.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527212747id_/http%3A//www.fastsubmitarticles.com/privacy.asp) for the most accurate reproduction.*
 
 # Article Submission Service: Privacy Policy
-
-**Submit your articles to the following categories:**
-
-1) Advertising  
-2) Art and Entertainment  
-3) Automotive  
-4) Business  
-5) Careers  
-6) Computer  
-7) Education  
-8) Finance  
-9) Food and Beverage  
-10) Health  
-11) Hobbies  
-12) Home and Family  
-13) Home Improvement  
-14) Internet  
-15) Law  
-16) Marketing  
-17) News and Society  
-18) Relationships  
-19) Self Improvement  
-20) Shopping  
-21) Spirituality  
-22) Sports and Fitness  
-23) Technology  
-24) Travel  
-25) Writing  
-
-
-[ [View List of Article Directories]  ](https://web.archive.org/web/20090202115034id_/http%3A//www.fastsubmitarticles.com/list_of_article_directories.asp)
-
-| 
 
 Privacy Policy
 
