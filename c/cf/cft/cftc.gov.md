@@ -1,21 +1,22 @@
-> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cftc.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/webpolicy/index.htm%23privacy) for the most accurate reproduction.*
 
-# Web Policy
+# Web Policy - CFTC
 
-  
+Font Size: [A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)[A](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#) // Print // 
 
+[Bookmark](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#)
 
-Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/contactus/index.htm).
+  * Thank you for visiting the U.S. Commodity Futures Trading Commission website. Our website policies are made available here. If you have any questions, please [contact us](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/contactus/index.htm).
 
-[Accessibility](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#accessibility)   
-[Copyright](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#copyright)  
-[Information Quality](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#information)  
-[Linking](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#linking)  
-[Privacy](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#privacy)  
-[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#sbrefa)  
-[Use of CFTC Seal](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#seal)  
-[Web Content Inventory](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#webcontent)  
-[Website Security](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/index.htm#security)
+[Accessibility](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#accessibility)   
+[Copyright](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#copyright)  
+[Information Quality](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#information)  
+[Linking](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#linking)  
+[Privacy](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#privacy)  
+[Small Business Regulatory and Enforcement Fairness Act](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#sbrefa)  
+[Use of CFTC Seal](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#seal)  
+[Web Content Inventory](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#webcontent)  
+[Website Security](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/index.htm#security)
 
 ### Accessibility
 
@@ -27,17 +28,17 @@ Except for the Home Page, all pages on our website that contain our standard nav
 
 All graphics on our site include alt tags that enable a screen reader to access a title or complete description of a graphic.
 
-Many documents on the CFTC website are in HTML or plain text (ASCII) formats, which are usually accessible to screen-reading software. A large number of documents are in portable document format (PDF) and are displayed through Adobe’s free [Acrobat Reader](http://www.cftc.gov/cftc/exit.htm?http://www.adobe.com/products/acrobat/readstep2.html).
+Many documents on the CFTC website are in HTML or plain text (ASCII) formats, which are usually accessible to screen-reading software. A large number of documents are in portable document format (PDF) and are displayed through Adobe’s free [Acrobat Reader](http://www.cftc.gov/exit/index.htm?http://www.adobe.com/products/acrobat/readstep2.html).
 
  **Reading PDF Format Files with a Screen Reader  
 ** PDF documents displayed through the Acrobat Reader may require additional steps to become accessible to screen readers. PDF documents found on this site may be accessible to some screen readers (except for some complex formatting such as graphics and some tables). We follow software developments related to PDF accessibility and will make all elements of PDF documents accessible to screen readers as soon as possible.
 
  **PDF Translation Service**  
-If a PDF is not accessible to your screen reader, you can use a free translation service provided by Adobe through its [Access Web Pages](http://www.cftc.gov/cftc/exit.htm?http://access.adobe.com/), which will translate PDF documents to HTML pages or to plain text (again, except for some complex formatting).
+If a PDF is not accessible to your screen reader, you can use a free translation service provided by Adobe through its [Access Web Pages](http://www.cftc.gov/exit/index.htm?http://access.adobe.com/), which will translate PDF documents to HTML pages or to plain text (again, except for some complex formatting).
 
-To use the Adobe PDF translation service, visit the Adobe website and use the [form](http://www.cftc.gov/cftc/exit.htm?http://www.adobe.com/products/acrobat/access_simple_form.html) to provide the URL of the document you need translated.  Adobe will convert that PDF document to an HTML page and return it to you by email.
+To use the Adobe PDF translation service, visit the Adobe website and use the [form](http://www.cftc.gov/exit/index.htm?http://www.adobe.com/products/acrobat/access_simple_form.html) to provide the URL of the document you need translated.  Adobe will convert that PDF document to an HTML page and return it to you by email.
 
-Alternatively, you can [email Adobe](http://www.cftc.gov/cftc/exit.htm?http://www.adobe.com/products/acrobat/access_email.html) (from the Adobe website) and list the URLs to be translated. You may select whether you want conversion to HTML or to plain ASCII text.
+Alternatively, you can [email Adobe](http://www.cftc.gov/exit/index.htm?http://www.adobe.com/products/acrobat/access_email.html) (from the Adobe website) and list the URLs to be translated. You may select whether you want conversion to HTML or to plain ASCII text.
 
  **Procedure for Filing a Complaint under Section 508**  
 Any individual with a disability may file a complaint alleging that the CFTC has failed to comply with the Section 508 requirements in providing electronic and information technology.
@@ -59,12 +60,10 @@ The CFTC's information quality guidelines are intended to ensure and maximize th
 
 The guidelines detail how affected persons may seek and obtain appropriate correction of information maintained and disseminated by the CFTC that does not comply with the Office of Management and Budget or agency guidelines.
 
-  * [CFTC Information Quality Guidelines](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/informationqualityguidelines.html)
-  * [Request for Correction of Information Form](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/correctionrequest/index.htm)
-  * [OMB Guidelines](http://www.whitehouse.gov/omb/fedreg/reproducible2.pdf)
-  * [Bulletin for Peer Review](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/bulletinpeerreview.html)
-
-
+    * [CFTC Information Quality Guidelines](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/informationqualityguidelines.html)
+    * [Request for Correction of Information Form](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/correctionrequest/index.htm)
+    * [OMB Guidelines](http://www.whitehouse.gov/omb/fedreg/reproducible2.pdf)
+    * [Bulletin for Peer Review](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/About/CFTCReports/bulletinpeerreview.html)
 
 Questions regarding the CFTC Information Quality Guidelines may be directed to:
 
@@ -93,17 +92,15 @@ Our privacy policy is intended to describe how the CFTC handles information that
 
 If you visit the CFTC website to read or download information, such as press releases or publications, we will collect and store the following information:
 
-  * the name of the domain (the machine or website) from which you access the Internet (for example, aol.com if you are connecting from an America Online account) and/or the name and Internet Protocol (IP) address of the server you are using to access the CFTC website;
-  * the name and IP address of the CFTC server that received and logged the request;
-  * the date and time the request was received;
-  * the information which you are accessing (for example, which page or image you choose to read or download);
-  * the name and version of the web browser used to access the web page.
-
-
+    * the name of the domain (the machine or website) from which you access the Internet (for example, aol.com if you are connecting from an America Online account) and/or the name and Internet Protocol (IP) address of the server you are using to access the CFTC website;
+    * the name and IP address of the CFTC server that received and logged the request;
+    * the date and time the request was received;
+    * the information which you are accessing (for example, which page or image you choose to read or download);
+    * the name and version of the web browser used to access the web page.
 
 We use the information collected to measure the number of visitors to the different sections of our website and to help us make the website more useful to our visitors.
 
-We do not enable "cookies." A "cookie" is a text file placed on your hard drive by a website that is used to monitor your use of the site.
+"Cookies” are small bits of text that are either used for the duration of a session (“session cookies”) or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on the a Web site (“persistent cookies”).  The CFTC does not use persistent cookies. However, for some videos that are visible on [www.cftc.gov](http://www.cftc.gov/) or available on YouTube, a "persistent cookie" may be set by the third party providers when you click to play the video.
 
 If you complete a form, send a comment, or email the CFTC, you may be choosing to send us information which personally identifies you. In general, such information is used to respond to your request; it may have other uses that are identified on each form.
 
@@ -113,9 +110,11 @@ You may submit other forms to us, such as Freedom of Information Act requests or
 
 If you have questions about CFTC’s privacy policy and information practices, you can email us at [questions@cftc.gov](mailto:questions@cftc.gov?Subject=Web%20Policy:%20CFTC%20Privacy%20Policy).
 
-The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/lawandregulation/federalregister/systemsofrecords/index.htm).
+The CFTC regularly publishes information in the Federal Register on its systems of records maintained under the Privacy Act of 1974. See [CFTC Privacy Act Systems of Records Compilation](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/LawRegulation/FederalRegister/PrivacyActSystemsofRecordsCompilation/index.htm).
 
- **[CFTC Privacy Impact Assessments](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/cftcpia.html)**
+ **[CFTC Privacy Impact Assessments](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/WebPolicy/cftcpia/index.htm)**
+
+ **[Federal Regulators Model Consumer Privacy Notice Online Form Builder](http://www.federalreserve.gov/bankinforeg/privacy_notice_instructions.pdf)**
 
 ### Small Business Regulatory And Enforcement Fairness Act
 
@@ -133,8 +132,11 @@ The CFTC seal is intended for the official use of the Commodity Futures Trading 
 
 ### Web Content Inventory
 
-Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20091211183413id_/http%3A//www.cftc.gov/webpolicy/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
+Section 207(f)(2) of the E-Government Act of 2002 requires Federal agencies to develop an [inventory](https://web.archive.org/web/20100527084634id_/http%3A//www.cftc.gov/About/CFTCReports/inventory.html) of information to be published on their websites, establish a schedule for publishing information, make those schedules available for public comment, and post the schedules and priorities on the website.
 
 ### Website Security
 
 The CFTC uses software programs to monitor this website for security purposes to ensure it remains available to all users and to protect information in the system.  By accessing this website, you are expressly consenting to these monitoring activities. Unauthorized attempts to defeat or circumvent security features; to use the system for other than intended purposes; to deny service to authorized users; to access, obtain, alter, damage, or to destroy information; or otherwise to interfere with the system or its operation are prohibited. Evidence of such acts may be disclosed to law enforcement authorities and result in criminal prosecution under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act of 1996, 18 USC 1030, or other applicable criminal laws.
+
+
+
