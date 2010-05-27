@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fileflyer.com privacy policy that was archived on 2009-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090817233450id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileflyer.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528003656id_/http%3A//www.speedbit.com/Legal/PRIVACY.ASP) for the most accurate reproduction.*
 
 # SpeedBit Privacy Policy
 
@@ -47,6 +47,8 @@ Your Non-Personally Identifiable Information may also include standard internet 
 We are especially careful about the privacy of your Usernames and Passwords. We consider this information highly sensitive, and we treat it with the appropriate care. If your requests to SpeedBit servers or your file downloads include Usernames and Passwords, we will always consider this information as Personally Identifiable Information. This information will be subject to the strict practices and protections which we offer to users’ Personally Identifiable Information.
 
 In some cases, if you decide not to provide certain information or if you delete certain automatically filled-in information from certain SpeedBit forms (e.g. email address), you may not be able to complete the applicable process.
+
+You need to be aware that search related services provided by Speedbit (e.g., Speedbit search page, search box, suggested search terms, etc.) made available on our websites and applications are powered and provided by third parties with whom we have entered into agreements for making such services and features available to you. When using such search services and search related features, certain information typically shared with operators of search engines e.g. Google, Bing, such as the search term, IP address, will be provided to said third party service providers and used by them in accordance with their policies to provide the service to you.
 
 **How is the information being used?**
 
