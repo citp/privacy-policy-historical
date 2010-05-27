@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2009-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091015021740id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the treasurydirect.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527173500id_/http%3A//www.treasurydirect.gov/privacy.htm) for the most accurate reproduction.*
 
 # Privacy & Legal Notices
 
