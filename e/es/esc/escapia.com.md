@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125022705id_/http%3A//www.escapia.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the escapia.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527110810id_/http%3A//www.escapia.com/privacy_policy.html) for the most accurate reproduction.*
 
-# Escapia Vacation Rental Software & Property Management Solutions
+# Escapia Vacation Rental Software & Property Management Solutions - Privacy Policy
 
 Escapia makes it a priority to ensure the security and confidentiality of the personal information you provide to us. Our privacy policy is stated below, but please be aware that should you follow a link on our Web site to another Web site, you are no longer covered by this policy. By visiting our website, [http://www.escapia.com](http://www.escapia.com/), you are accepting the practices described herein.
 
