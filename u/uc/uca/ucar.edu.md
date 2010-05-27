@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2009-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucar.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094037id_/http%3A//www2.ucar.edu/privacy-policy) for the most accurate reproduction.*
 
-# NCAR|UCAR|UOP Privacy Policy
+# Privacy Policy | UCAR
 
-[Terms of Use](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml) | [Copyright/Disclaimer](https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/terms_of_use.shtml#copyright)
-
-**UCAR GENERAL PRIVACY POLICY**
+[Terms of Use](https://web.archive.org/terms-of-use) [Copyright Issues](https://web.archive.org/terms-of-use#copyright) Privacy Policy
 
 This privacy policy covers UCAR’s treatment of personal information. Please review the UCAR General Privacy Policy so that you can understand your options in using the UCAR Web site. Use of this Web site signifies your agreement to the General Privacy Policy.  Within this Site you may access other UCAR-sponsored sites and services.  Some of these sites and services are governed by their own privacy policies.  In the absence of a referenced Privacy Policy, this General Privacy Policy shall apply.
 
@@ -32,15 +30,17 @@ Please note that any information that you post to a public bulletin board or cha
 
 **10.   Third Party Sites. **This Privacy Policy applies only to UCAR Web sites that do not have their own express privacy policies.  UCAR may provide links to other Web sites which we believe may be of interest to our visitors. Due to the nature of the World Wide Web, UCAR cannot and does not guarantee the standards of Web site links it provides and cannot be held responsible for the contents of non-UCAR sites. By entering such sites through the links provided, you accept all responsibility for use and agree that you will not hold UCAR responsible for anything that happens as a result of your entering and using such sites.
 
-If you have any questions about this privacy statement or the practices of UCAR,  please contact the Office of General Counsel or call 303-497-8874 or write UCAR at the address below.
+If you have any questions about this privacy statement or the practices of UCAR, please contact the Office of General Counsel using the contact information below.
 
-Please include your name, address and e-mail address when you contact us.
+## Privacy Preferences Contact Information
 
-[Privacy Preferences](mailto:mmcclell@ucar.edu)  
+_Please include your name, address, and e-mail address when you contact us._
+
 Office of General Counsel  
 UCAR  
 PO Box 3000  
-Boulder, CO 80307   
-  
-This document can be found at https://web.archive.org/web/20090709072002id_/http%3A//www.ucar.edu/legal/privacy_policy.shtml   
-Subscribe to our News Feeds at www.ucar.edu/news/rss
+Boulder, CO 80307 
+
+By telephone: (303) 497-8874  
+By fax: 303-497-8501  
+By e-mail: [mmcclell@ucar.edu](mailto:mmcclell@ucar.edu)
