@@ -1,89 +1,76 @@
-<!--The following is the downloaded HTML source of the mo.gov privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213063438id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mo.gov privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527094805id_/http%3A//www.mo.gov/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <title>MO.gov | Privacy and Security</title>
 <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js" type="text/javascript"></script>
 <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js" type="text/javascript"></script>
-<script src="/js/jquery.hoverIntent.minified.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/cycle/jquery.cycle.min.js"></script>
+<script src="/js/jquery.hoverIntent.minified.new.js" type="text/javascript"></script>
+<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
+<script src="/js/flowplayer-3.1.4.min.js" type="text/javascript"></script>
 
 <link rel="stylesheet" type="text/css" href="/js/themes/base/ui.all.css">
 
 <script type="text/javascript">
-var currentFontSizeNum=0;
-var currentLineHeightNum=0;
-	$(function() {
+	$(document).ready(function() {
 	
-		$('#tabs-2').removeClass("hide");
-		$('#tabs-3').removeClass("hide");
-		$('#tabs-4').removeClass("hide");
-		$('#tabs-5').removeClass("hide");
-		$('#tabs-6').removeClass("hide");
-		$('#tabs-7').removeClass("hide");
+		$('.rotator').removeClass("hide");
 		$('#features ul').removeClass("hide");
 		$('#explore ul').removeClass("hide");
 		$('#visitors').removeClass("hide");
 		$('#state_employees').removeClass("hide");
 		$('#military').removeClass("hide");	
-	
-	  // Reset Font Size
-	currentFontSizeNum=parseFloat($('#content').css('font-size'), 10);	
-	currentLineHeightNum=parseFloat($('#content').css('line-height'), 10);
 
-	  // Reset Font Size
-	  var originalFontSize = $('#content').css('font-size');
-	  var originalLineHeight = $('#content').css('line-height');	  
-	    $(".resetFont").click(function(){
-	    $('#content').css('font-size', originalFontSize);
-		$('#content').css('line-height', originalLineHeight);
-	  });
-	  // Increase Font Size and Line Height
-	  $(".increaseFont").click(function(){
-	  if(currentFontSizeNum<24)
-	  {
-			currentFontSizeNum = parseFloat($('#content').css('font-size'), 10);
+        /* Feature Image Cycle */
+        var featureName = [];
+        $(".flt h3").each(function(index){
+			featureName.push($(this).text());
+			}
+		);
+        $('#cycle').after('<div id="nav">').cycle({ 
+               fx: 'fade', 
+               timeout: 8000,
+               pager: '#pager',
+			   pause: 1,
+			   pauseOnPagerHover: 1,
+			   pagerAnchorBuilder: function(i,el){
+					return '<a href="#">'+featureName[i]+'</a>';
+				}
+        });
 
-			var newFontSize = currentFontSizeNum+4;
-			$('#content').css('font-size', newFontSize);
-			
-			currentLineHeightNum = parseFloat($('#content').css('line-height'), 10);
-			var newLineHeight = currentLineHeightNum+2;
-			$('#content').css('line-height',newLineHeight+"px");	
-	
-	  }  
-		return false;
-	  });
-	  // Decrease Font Size
-	  $(".decreaseFont").click(function(){
-	  if(currentFontSizeNum>15)
-	  {	 
-			currentFontSizeNum = parseFloat($('#content').css('font-size'), 10);
-
-
-			var newFontSize = currentFontSizeNum-4;
-			$('#content').css('font-size', newFontSize);
-			
-			currentLineHeightNum = parseFloat($('#content').css('line-height'), 10);
-			var newLineHeight = currentLineHeightNum-2;
-			$('#content').css('line-height',newLineHeight+"px");	
-	   }
-	   	return false;
-	  });
-
-
-	  
+        /* Mega menu functions */
 		$("#menu2").removeClass("cssonly");
 		$("#menu li").hoverIntent({
-		sensitivity: 5, 
+				sensitivity: 5, 
 				interval: 400, 
 				over: makeTall, 
 				timeout: 500, 
 				out: makeShort
 			});
-		$("#features").tabs({ fx: { opacity: 'toggle' }}).tabs('rotate',10000, true); 
 		 
 		$("#explore").tabs();
+		
+		//$("#picoday").tooltip('#picodaytip');
+		$("#picoday").tooltip ({    
+		// use single tooltip element for all tips         
+		tip: '#picodaytip',                   
+		// tweak the position         
+		offset: [20, 2],                  
+		// use "slide" effect         
+		effect: 'slide'              
+		// add dynamic plugin      
+		}).dynamic({              
+		// customized configuration on bottom edge         
+		bottom: {                      
+		// slide downwards             
+		direction: 'down',                          
+		// bounce back when closed             
+		bounce: true         
+		}  
+		});  
+				
 	});
 		function makeTall(){  $(this).find("ul.subnav").slideDown();}
 		function makeShort(){ $(this).parent().find("ul.subnav").slideUp();}
@@ -97,13 +84,13 @@ var currentLineHeightNum=0;
 		<script>
 			DD_belatedPNG.fix('#header h1');
 		</script> 
-    <link rel="stylesheet" type="text/css" href="/test38/styles/ie.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/ie.css" />
 <![endif]-->
 <!--[if IE 7]>
-    <link rel="stylesheet" type="text/css" href="/test38/styles/ie7.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/ie7.css" />
 <![endif]-->
 <!--[if IE 8]>
-    <link rel="stylesheet" type="text/css" href="/test38/styles/ie8.css" />
+    <link rel="stylesheet" type="text/css" href="/styles/ie8.css" />
 <![endif]-->
 <link rel="stylesheet" href="/styles/print.css" media="print">
 
@@ -221,9 +208,7 @@ var currentLineHeightNum=0;
     <h3>Services and Programs</h3>
    <ul>
       <li><a href="/accessibility.php" title="Accessibility">Accessibility</a></li>
-      <li><a href="/contact/suggest.php" title="Suggest a Link for the web site">Suggest a Link</a></li>
       
-      <li><a href="/contact/feedback.php" title="Web site feedback and suggestions">Web site feedback</a></li>
   		<li><a href="/contact/technical.php" title="Technical issues">Contact the Webmaster</a></li>
     </ul>
     </div>
@@ -231,25 +216,14 @@ var currentLineHeightNum=0;
 </div>
 
 
-  <div class="clear"></div>
+
+<div class="clear"></div>
 
 
 
 <div id="footer">
 <div class="container_12">
-	<div id="about" class="grid_3 alpha">
-		<h3>About MO.gov </h3>
-		<ul>
-			<li><a href="/accessibility.php">Accessibility</a></li>
-			<li><a href="/privacy.php">Privacy Policy </a></li>
-			<li><a href="/connect/rss.php">RSS Feeds </a></li>
-			<li><a href="/sitemap.php">Site Map </a></li>
-			<li><a href="/mo/teledir.htm">Employee Telephone Directory</a></li>
-			<li><a href="/contact/suggest.php">Suggest a Link</a></li>
-			<li><a href="/contact/">Contact Us</a></li>
-		</ul>
-	</div>
-	<div id="sites" class="grid_3">
+<div id="sites" class="grid_3">
 		<h3>MO.gov sites </h3>
 		<ul>
 			<li><a href="http://mapyourtaxes.mo.gov">Accountability Portal</a></li>
@@ -261,44 +235,87 @@ var currentLineHeightNum=0;
             <li><a href="http://transform.mo.gov/">Transform Missouri</a></li>
 		</ul>
 	</div>
-    <div id="feedback" class="grid_6 omega">
+   
+   	<div id="about" class="grid_3">
+		<h3>About MO.gov </h3>
+		<ul>
+			<li><a href="/accessibility.php">Accessibility</a></li>
+			<li><a href="/privacy.php">Privacy Policy </a></li>
+			<li><a href="/connect/rss.php">RSS Feeds </a></li>
+			<li><a href="/sitemap.php">Site Map </a></li>
+			<li><a href="/contact/suggest.php">Make a Suggestion</a></li>
+			<li><a href="/contact/">Contact Us</a></li>
+		</ul>
+	</div>
+   
+
+  	<div id="feedback" class="grid_3"> 
+		<!-- and the triggers --> 
+		<div> 
+	  		<h3>Picture of the Day</h3> 
+	 		<a href="http://www.flickr.com/photos/48275616@N07/4476470922/in/set-72157623734222298/"><img id="picoday" src="/img/daypix/052610BanedOrangeHelliconain.jpg" alt="Banded Orange Heliconain Butterfly; Photo Credit: Ann Lossman, Warrensburg" width="200" height="150" title="Banded Orange Heliconain Butterfly; Photo Credit: Ann Lossman, Warrensburg.  Click this picture to see a larger view and more Show-Me photos."></a>
+	   </div>
+  </div>
+   
+   <div id="links" class="grid_3">
+   <h3>Gov links</h3>
+   <ul>
+   	<li><a href="/mo/teledir.htm">Employee Telephone Directory</a></li>
+    <li><a href="http://www.moga.mo.gov/statutesearch/">Statutes</a></li>
+    <li><a href="http://www.moga.mo.gov/">General Assembly</a></li>
+    <li><a href="http://www.courts.mo.gov/">Missouri Courts</a></li>
+    <li><a href="https://www.courts.mo.gov/casenet/base/welcome.do">Case.net</a></li>
+    </ul>
+           </div>
+   
+   
+   
+   
+
+
+   </div>
+   
+    <!--<div id="feedback" class="grid_6 omega">
       <h3>Rate this site:</h3>
       <form id="rating" method="post" action="/contact/feedback.php">
      <fieldset>
     	<legend><span class="hide">Rate this site:</span></legend>
 		<div>
-			<input type="hidden" name="formPost" value="1">
-			<input type="hidden" name="token" value="quick">
+			<input type="hidden" name="formPost" value="1" />
+			<input type="hidden" name="token" value="quick" />
             <fieldset>
 			<legend><span class="hide">How would you rate your experience on this site?</span></legend>
-			<input name="rating" id="qradiorating1" type="radio" value="Poor"> <label for="qradiorating1">Poor</label>
-			<input name="rating" id="qradiorating2" type="radio" value="Subpar"> <label for="qradiorating2">Subpar</label>
-			<input name="rating" id="qradiorating3" type="radio" value="Okay"> <label for="qradiorating3">Okay</label>
-			<input name="rating" id="qradiorating4" type="radio" value="Good"> <label for="qradiorating4">Good</label>
-			<input name="rating" id="qradiorating5" type="radio" value="Excellent"> <label for="qradiorating5">Great</label>
+			<input name="rating" id="qradiorating1" type="radio" value="Poor" /> <label for="qradiorating1">Poor</label>
+			<input name="rating" id="qradiorating2" type="radio" value="Subpar" /> <label for="qradiorating2">Subpar</label>
+			<input name="rating" id="qradiorating3" type="radio" value="Okay" /> <label for="qradiorating3">Okay</label>
+			<input name="rating" id="qradiorating4" type="radio" value="Good" /> <label for="qradiorating4">Good</label>
+			<input name="rating" id="qradiorating5" type="radio" value="Excellent" /> <label for="qradiorating5">Great</label>
             </fieldset>
 		</div>
 		<div><label class="hide" for="quickMessage">Suggestions:</label><textarea id="quickMessage" name="message" rows="8" cols="40"></textarea></div>
 		<div>
-			<input id="quickFeedback" type="submit" name="Submit" value="Submit Feedback">
+			<input id="quickFeedback" type="submit" name="Submit" value="Submit Feedback" />
 		</div>
         </fieldset>
       </form>
-	</div>
+	</div>-->
 </div>
-</div><!-- END FOOTER -->
+<!-- END FOOTER -->
+
+    <!-- tool tip --> 
+	<div id="picodaytip"></div>
 
 <div id="finder" role="navigation">
 	<h2>State of Missouri Navigation</h2>
       <ul>
-        <li><a href="/">MO.gov home </a></li>
+        <li><a href="/">MO.gov</a></li>
         <li><a href="http://governor.mo.gov">Governor Jay Nixon</a></li>
         <li><a href="/Government/Agencies/">State Agencies</a></li>
-        <li><a href="/OnlineServices/">Online Services</a></li>
+        <li><a href="/services/">Online Services</a></li>
         <li class="noBorder"><a href="/news/">News</a></li>
         <li id="addThis" class="noBorder">
 		<!-- AddThis Button BEGIN -->
-		<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a6e537773108c04" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]')" onmouseout="addthis_close()" onclick="return addthis_sendto()"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a6e537773108c04"></script>
+		<a href="http://www.addthis.com/bookmark.php?v=250&amp;pub=xa-4a6e537773108c04" onmouseover="return addthis_open(this, '', '[URL]', '[TITLE]');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img src="http://s7.addthis.com/static/btn/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js?pub=xa-4a6e537773108c04"></script>
 		<!-- AddThis Button END -->
 		</li>
 		<li id="changeFont" class="noBorder">
@@ -342,8 +359,8 @@ var currentLineHeightNum=0;
 						<span>City and county government links</span>
 					</li>
 					<li>
-						<a href="/Government/Employees/" title="Devoted to answering the questions of State employees">For State Employees</a>
-						<span>Devoted to answering the questions of State employees</span>
+						<a href="http://oa.mo.gov/employees/" title="The Office of Administration is devoted to helping state employees with duties and HR needs">For State Employees</a>
+						<span>The Office of Administration is devoted to helping state employees with duties and HR needs</span>
 					</li>
 				</ul>
 			</li>
@@ -371,7 +388,7 @@ var currentLineHeightNum=0;
 					</li>
 					<li>
 						<a href="/Business/Ending/index.php" title="Information on bringing you business to a close">Ending A Business</a>
-						<span>Information on bringing you business to a close</span>
+						<span>Information on bringing your business to a close</span>
 					</li>
 					<li>
 						<a href="/Business/Vendors/index.php" title="Resources for parties doing business with the State">Vendors</a>
@@ -555,6 +572,7 @@ try {
 var pageTracker = _gat._getTracker("UA-7798951-6");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+ 
 
 
 
