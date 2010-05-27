@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617012348id_/http%3A//www.globallogic.com/privacy_statement.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globallogic.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527070430id_/http%3A//www.globallogic.com/privacy_statement.shtml) for the most accurate reproduction.*
 
 # GlobalLogic - The Leader in Global Offshore Software Product Development
 
