@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062441id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527135219id_/http%3A//www.gcu.edu/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Policy | Grand Canyon University
+# Online Christian Schools | Affordable Christian Colleges | Grand Canyon University
+
+## Privacy Policy
 
 **Effective Date: June 19th, 2008**
 
-Grand Canyon University is committed to protecting your privacy while you visit our websites. This policy is designed to provide an explanation of the information collected from our visitors and how that information is used and disclosed.
+Grand Canyon University, one of the top online Christian schools, is committed to protecting your privacy while you visit our websites. This policy is designed to provide an explanation of the information collected from our visitors and how that information is used and disclosed.
 
 **Type & Use of Information Collected**
 
@@ -24,7 +26,7 @@ It is also possible to apply for employment opportunities through our website. O
 
 Our Sites have reasonable security measures in place designed to protect against the loss, misuse, unauthorized access, disclosure, alteration and destruction of the information under our control.
 
-We will take reasonable steps to ensure the data is reliable, accurate, complete and current for its intended use. Personal information collected from visitors is protected in transmission to our websites with Secure Sockets Layer (SSL) protocol encryption. Grand Canyon University abides by all laws concerning the release of personal information and does not sell or rent any personal information to third parties, except as described below.
+We will take reasonable steps to ensure the data is reliable, accurate, complete and current for its intended use. Personal information collected from visitors is protected in transmission to our websites with Secure Sockets Layer (SSL) protocol encryption. Grand Canyon University, one of the top online Christian schools,  abides by all laws concerning the release of personal information and does not sell or rent any personal information to third parties, except as described below.
 
 Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy.
 
@@ -34,7 +36,7 @@ We may disclose personal information to (i) third parties who perform tasks on t
 
 We may also disclose personally identifiable information in response to valid legal process such as a court order or a subpoena, in response to a law enforcement agency’s request or where we believe it is necessary to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our terms of use, or as otherwise required by law. In addition, we may transfer information about you if we are acquired by or merged with another company, or if our assets are acquired by another entity.
 
-We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Non‐Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBack’s Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Opt‐Out, of FetchBack Retargeting, please click here. Visit the Network Advertising Initiatives Opt‐Out by clicking here. 
+We work with FetchBack to display Retargeted ads to our site prospects, on our behalf, across the Internet. They collect Nonâ€Personally Identifiable Information about your visits to our Website, and your interaction with our products and services. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites. No Personally Identifiable Information is collected during in this process. To read FetchBackâ€™s Privacy Policy, click here. If you do not want FetchBack to collect this information, you may opt out of their service. Opting out will not in any way effect your use of our site. To Optâ€Out, of FetchBack Retargeting, please click here. Visit the Network Advertising Initiatives Optâ€Out by clicking here. 
 
 **Opt-Out**
 
@@ -42,7 +44,7 @@ You may make a request to be removed from our mailing lists by contacting the un
 
 **Limitations**
 
-Grand Canyon University may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented on them and has no control over their privacy practices. 
+Grand Canyon University, one of the top online Christian schools,  may provide links to other websites. In addition, there are many websites that may link directly to Grand Canyon University. Grand Canyon University does not endorse these third party websites or the content presented on them and has no control over their privacy practices.  
 
 This privacy policy only applies to information collected on www.gcu.edu, www.grand-canyon.edu, http://my.gcu.edu and gcu.edu sub-domains. We strongly encourage you to review the privacy policy of each website you visit.
 
@@ -59,3 +61,5 @@ Department M100
 3300 W. Camelback Road   
 Phoenix, Arizona 85017   
 Email: [webmaster@gcu.edu](mailto:webmaster@gcu.edu)
+
+GCU is one of the leading [online Christian schools](http://www.gcu.edu/index.php?page=contact)! Contact Grand Canyon University today to [request more information](http://www.gcu.edu/contactform.php) or [apply for admission](http://www.gcu.edu/index.php?page=applyingforadmission&phpMyAdmin=69kzTpKpMZ0S%2C2J6oZoxNK7F-Rf).
