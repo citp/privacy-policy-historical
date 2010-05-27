@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2005-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050404084959id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the historic-uk.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527154749id_/http%3A//www.historic-uk.com/PrivacyStatement.htm) for the most accurate reproduction.*
 
 # Historic UK - the heritage of britain accommodation guide - Privacy Statement
 
@@ -20,17 +20,19 @@ This privacy policy only covers the Historic UK website at [www.historic-uk.com]
 
 _How to Contact Us:_
 
-Historic UK   
-P.O. Box 1510   
-Rugby   
-Warwickshire   
-CV22 6YE 
+Historic UK Ltd.  
+P.O. Box 45285  
+LONDON  
+SE10 1AW
 
-Tel/Fax:  01788 522341   
+Tel/Fax:  0845 643 5760  
 E-mail: [info@historic-uk.com](mailto:info@historic-uk.com)   
 Web:  [ www.historic-uk.com](http://www.historic-uk.com/)
 
   
-Last updated: 25th February 2004
+Last updated: 12th April 2010
 
-**_[Back](https://web.archive.org/web/20050404084959id_/http%3A//www.historic-uk.com/index.shtml)_**
+Registered Office: Historic UK Ltd, Clifford House, 38 – 44 Binley Road, Coventry CV3 1JA  
+Company Registered in England and Wales. Company Registration No. 5621230
+
+**_[Back](https://web.archive.org/web/20100527154749id_/http%3A//www.historic-uk.com/index.shtml)_**
