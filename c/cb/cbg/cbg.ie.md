@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529002153id_/http%3A//www.cbg.ie/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbg.ie privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527034741id_/http%3A//www.cbg.ie/privacy.aspx) for the most accurate reproduction.*
 
 # Car Buyers Guide - Privacy Policy
 
-##  Car Buyers Guide Privacy Notice
-
 **Last updated April 1st 2008**
 
-The fee for our online service is �2.50 each week. As our customer this entitles you to use our services on the web site www.cbg.ie. From time to time we provide this service free of charge. To avail of our services you must also register your personal information with us. Car Buyers Guide knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. **> By using Car Buyers Guide web site, you are accepting and consenting to the practices described in this Privacy Notice.**
+The fee for our online service is €2.50 each week. As our customer this entitles you to use our services on the web site www.cbg.ie. From time to time we provide this service free of charge. To avail of our services you must also register your personal information with us. Car Buyers Guide knows that you care how information about you is used and shared and we appreciate your trust in us to do that carefully and sensibly. This notice describes our privacy policy. **> By using Car Buyers Guide web site, you are accepting and consenting to the practices described in this Privacy Notice.**
 
 **Controllers of Personal Information**
 
@@ -28,7 +26,7 @@ The information we learn from customers helps us personalize and continually imp
 
 **What About Cookies?**
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as search within 5 miles of your home, personalized greetings and storage of items in your �Your Basket� between visits. 
+  * Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser and to provide features such as search within 5 miles of your home, personalized greetings and storage of items in your "Your Basket" between visits. 
 
 
 
