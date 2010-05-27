@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the frameshow.com privacy policy that was archived on 2009-10-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091031204901id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the frameshow.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527115031id_/http%3A//www.frameshow.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Photo Frame Show: Digital Photo/Desktop Enhancement Software - Frame photos with ease!</title>
@@ -25,7 +25,7 @@ pageTracker._trackPageview();
 
 <body stats="1" background="pics/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
 <script type="text/javascript" src="/ecard_application/choose_frame/ajax_util.js"></script>
-<div id="loginarea" style="position: absolute; top: 86px; left: 509px; width:220px;"></div>
+<div id="loginarea" style="position: absolute; top: 111px; left: 509px; width:220px;"></div>
 <script language="JavaScript" type="text/JavaScript">
 function open_login_page() {
 	var win = window.open("/frameshow_login.php", "Login", "width=500, height=360, status=no, toolbar=no, menubar=no, location=no, resizable=yes, scrollbars=yes");
@@ -51,7 +51,7 @@ function do_login(ref) {
 			hasIframe=false;
 			if (document.getElementById('frame_gallery')) {
 				fr = 'frame_gallery';
-				hasIframe=true;
+				hasIframe=false;
 			} else if (document.getElementById('userarea')) {
 				fr = 'userarea';
 				//hasIframe=true;
@@ -69,6 +69,9 @@ function do_login(ref) {
 			} else {
 				if (fr=='userarea') {
 					top.document.location.href="userarea.php";
+//					alert(1);
+				} else if (fr=='frame_gallery') {
+					window.location.reload(true);
 				} else {
 					window.location.href="userarea.php";
 				}
@@ -86,7 +89,7 @@ function do_logout(ref) {
 		hasIframe=false;
 		if (document.getElementById('frame_gallery')) {
 			fr = 'frame_gallery';
-			hasIframe=true;
+			hasIframe=false;
 		} else if (document.getElementById('account_info')) {
 			fr = 'account_info';
 			hasIframe=true;
@@ -116,19 +119,18 @@ do_logout(false);
 	<tbody><tr><td width="693" valign="top">
 		<table width="693" border="0" cellspacing="0" cellpadding="0">
 			<tbody><tr><td>
-				<div style="position: absolute; width: 693px; background-image: url(/pics/menu_background2.gif);">
-										<table height="25" width="100%" border="0" cellpadding="5" cellspacing="0">
-						<tbody><tr><td align="center" class="menuTable" background="/pics/spacer.gif" onmouseover="document.getElementById('menu2line').style.display='';">
-							<a href="/index.php" class="menu">Home</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photoframecommunity/" class="menu">Community</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/gallery.php" class="menu">Frame Gallery</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photos-unique.htm" class="menu">Features</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/examples.htm" class="menu">Examples</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/download.htm" class="menu">Download</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/register.htm" class="menu">Purchase</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/ecards.htm" class="menu">E-cards</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="http://www.liknoaffiliateservices.com" target="_blank" class="menu">Affiliates</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/links.htm" class="menu">Links</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/userarea.php" class="menu">User Area</a>
-						</td></tr>
-					</tbody></table>	
-					<table id="menu2line" style="display: none;" height="25" width="100%" border="0" cellpadding="5" cellspacing="0" onmouseover="document.getElementById('menu2line').style.display='';" onmouseout="document.getElementById('menu2line').style.display='none';">
-						<tbody><tr><td align="center" class="menuTable" background="/pics/spacer.gif">
-							<!--<a href="licensing.php" class="menu">Licensing - Terms</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="privacy.php" class="menu">Privacy Policy</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop">--><a href="/frames_add_your_own.php" class="menu">Create Frames</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/frames_embed.php" class="menu">Embed Frames to Pages</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/support.htm" class="menu">Support/Feedback</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/faq.php" class="menu">FAQ</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="javascript:void(0);" class="menu" onclick="window.open('/help.htm','helpWindow','width=750,height=550');">Demo</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/awards.htm" class="menu">Awards</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/adspromo.htm" class="menu">Advertise</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="http://www.frameshow.com/photoframeshow-blog" target="_blank" class="menu">Blog</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/aboutus.htm" class="menu">About Us</a>
-						</td></tr>
-					</tbody></table>
-				</div>
-				<div style="width: 1px; height: 25px;">&nbsp;</div>
+				<div style="position: relative; width: 693px; background-image: url(/pics/menu_background3.gif);">
+					<table height="25" width="100%" border="0" cellpadding="5" cellspacing="0">
+  <tbody><tr>
+    <td align="center" class="menuTable" background="/pics/spacer.gif"><!--<a href="licensing.php" class="menu">Licensing - Terms</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="privacy.php" class="menu">Privacy Policy</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop">-->
+      <a href="/frames_add_your_own.php" style="text-decoration:none; font-size:11px;">Create Frames</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/frames_embed.php" style="text-decoration:none; font-size:11px;">Embed Frames to Pages</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/support.htm" style="text-decoration:none; font-size:11px;">Support/Feedback</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/faq.php" style="text-decoration:none; font-size:11px;">FAQ</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/air-application-help.php" style="text-decoration:none; font-size:11px;">Help</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/awards.htm" style="text-decoration:none; font-size:11px;">Awards</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/adspromo.htm" style="text-decoration:none; font-size:11px;">Advertise</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="http://www.frameshow.com/photoframeshow-blog" target="_blank" style="text-decoration:none; font-size:11px;">Blog</a><img src="/pics/menu_separator2.gif" width="13" height="13" align="texttop"><a href="/aboutus.htm" style="text-decoration:none; font-size:11px;">About Us</a></td>
+  </tr>
+</tbody></table>
+<table height="25" width="100%" border="0" cellpadding="5" cellspacing="0">
+  <tbody><tr>
+    <td align="center" class="menuTable" background="/pics/spacer.gif"><a href="/index.php" class="menu">Home</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photoframecommunity/" class="menu">Community</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/gallery.php" class="menu">Frame Gallery</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/photos-unique.htm" class="menu">Features</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/examples.htm" class="menu">Examples</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/download.htm" class="menu">Download</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/register.htm" class="menu">Purchase</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/ecards.htm" class="menu">E-cards</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="http://www.liknoaffiliateservices.com" target="_blank" class="menu">Affiliates</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/links.htm" class="menu">Links</a><img src="/pics/menu_separator.gif" width="14" height="13" align="texttop"><a href="/userarea.php" class="menu">User Area</a></td>
+  </tr>
+</tbody></table>				</div>
 			</td></tr>
 		</tbody></table>
 		<table width="693" border="0" cellspacing="0" cellpadding="0"> 
@@ -198,14 +200,14 @@ do_logout(false);
         <tr>
           <td align="center" class="bluetext"><a href="aboutus.htm">About Us</a></td>
           <td align="center" class="bluetext"><a href="licensing.php">Licensing - Terms </a></td>
-          <td align="center" class="bluetext"><a href="support.htm">Feedback/Contact</a></td>
+          <td align="center" class="bluetext"><a href="air-application-help.php">AIR Application Help</a></td>
           <td align="center" class="bluetext"><a href="http://www.facebook.com/apps/application.php?id=19367456835">Facebook Application </a></td>
           <td align="center" class="bluetext"><a href="ecards.htm">E-Cards</a></td>
         </tr>
         <tr>
           <td align="center" class="bluetext"><a href="http://www.frameshow.com/photoframeshow-blog">Blog</a></td>
           <td align="center" class="bluetext"><a href="privacy.php">Privacy Policy</a></td>
-          <td align="center" class="bluetext"><a href="javascript:void(0);" onclick="window.open('/help.htm','helpWindow','width=750,height=550');">Demo</a></td>
+          <td align="center" class="bluetext"><a href="support.htm">Feedback/Contact</a></td>
           <td align="center" class="bluetext">&nbsp;</td>
           <td align="center" class="bluetext">&nbsp;</td>
         </tr>
@@ -239,7 +241,8 @@ do_logout(false);
         </tr>
       </tbody></table>
       <p>Photo Frame Show - <a href="http://www.frameshow.com">Digital Photo</a> and <a href="http://www.frameshow.com">Desktop Enhancement</a> Software: Frame photos with ease!<br>
-      Copyright © 2003-2009 Likno Software - All rights reserved.</p></div></td>
+      Copyright © 2003-2010 Likno Software - All rights reserved.</p>
+</div></td>
   </tr>
 </tbody></table><script type="text/javascript">
 var woopra_id = '2602515273';
