@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smallbusinessbrief.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208033556id_/http%3A//www.smallbusinessbrief.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smallbusinessbrief.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527233416id_/http%3A//www.smallbusinessbrief.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
