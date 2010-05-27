@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ecpi.edu privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217150256id_/http%3A//www.ecpi.edu/contact/pp.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecpi.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527091121id_/http%3A//www.ecpi.edu/contact/pp.cfm) for the most accurate reproduction.*
 
 # ECPI College of Technology - ECPI College of Technology Online
 
