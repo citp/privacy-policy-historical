@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618090858id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highline.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085836id_/http%3A//www.highline.edu/home/policy/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy-Highline Community College, Des Moines, Washington (Community Colleges)
 
@@ -49,7 +49,8 @@ Thank you for visiting the Highline Community College Web site and reviewing our
 
 
 
-This policy was approved June 18, 2002 by Highline Community College Executive Staff. 
+This policy was approved June 18, 2002 by Highline Community College Executive Staff.   
+
 
 Top of page
 
@@ -83,7 +84,8 @@ The information collected is not limited to text characters and may include audi
 
 We use your e-mail to respond appropriately. This may be to respond to you, to address issues you may identify, to further improve our Web site, or to forward the e-mail to another agency for appropriate action.
 
-The use of survey information will be described as part of that survey. Information from other on-line forms is used for access to on-line student services, participation in instructional activities (such as on-line quizzes or on-line discussions), searches of library and other databases, and other activities as described in the specific application.
+The use of survey information will be described as part of that survey. Information from other on-line forms is used for access to on-line student services, participation in instructional activities (such as on-line quizzes or on-line discussions), searches of library and other databases, and other activities as described in the specific application.  
+
 
 Top of page
 
@@ -103,7 +105,8 @@ If personal information is requested on the Web site or volunteered by the user,
 
 If you believe that your personal information is being used for a purpose other than what was intended when submitted, you may contact the Public Records Officer as shown in the Contact Information section of this statement.
 
-Highline Community College web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.
+Highline Community College web site is a general audience site and we do not knowingly collect any personal information from children. Users are cautioned that the collection of personal information requested from or volunteered by children online or by e-mail will be treated the same as information given by an adult, and may be subject to public access.  
+
 
 Top of page
 
@@ -119,7 +122,8 @@ All of the information collected at this site becomes public records that may be
 
 In the event of a conflict between this Privacy Notice and the Public Records Act or other law governing the agency’s disclosure of records, the Public Records Act or other applicable law will control.
 
-The complete Revised Code of Washington (RCW) is available at: [ http://wsl.leg.wa.gov/wsladm/rcw.cfm](http://wsl.leg.wa.gov/wsladm/rcw.cfm)
+The complete Revised Code of Washington (RCW) is available at: <http://apps.leg.wa.gov/rcw/default.aspx>  
+
 
 Top of page
 
@@ -143,71 +147,81 @@ Highline Community College may require you to provide certain personal informati
 
 In addition to the previously identified laws and regulations, the following applies:
 
-  * [RCW 42.17.310 ](http://apps.leg.wa.gov/rcw/default.aspx)(ss) exempts the following from public inspection and copying: (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law. 
+  * [RCW 42.17.310 ](http://apps.leg.wa.gov/rcw/default.aspx) (ss) exempts the following from public inspection and copying: (ss) Credit card numbers, debit card numbers, electronic check numbers, card expiration dates, or bank or other financial account numbers supplied to an agency for the purpose of electronic transfer of funds, except when disclosure is expressly required by law. 
 
 
 
-Top of page
+^Top of page^
 
 **Degree Audit**
 
-Highline Community College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to perform a degree audit of your records over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display a degree audit of your records over the Web, and you will have to request a degree audit in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Financial Aid Inquiry**
 
-Highline Community College may require you to provide certain personal information in order to obtain your financial aid status over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to give you your financial aid status over the Web, and you will have to obtain this information in person. Contact Financial Aid at (206) 878-3710 ext. 3358 or [financialaid@highline.edu](mailto:financialaid@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to obtain your financial aid status over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to give you your financial aid status over the Web, and you will have to obtain this information in person. Contact Financial Aid at (206) 878-3710 ext. 3358 for more information.  
 
-Top of page
+
+^Top of page^
 
 **Hope and Lifetime Learning Tax Credit**
 
-Highline Community College may require you to provide certain personal information in order to allow you to view and copy course enrollment and payment information. The information is required in order to provide you with the tax information needed for compliance with the Internal Revenue Service reporting requirements for the Hope and Lifetime Learning tax credits. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your enrollment and payment information and you will have to obtain a copy of your enrollment and payment records in person. Contact the Cashier at (206) 878-3710 ext. 3320 or [cashier@highline.edu](mailto:cashier@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to allow you to view and copy course enrollment and payment information. The information is required in order to provide you with the tax information needed for compliance with the Internal Revenue Service reporting requirements for the Hope and Lifetime Learning tax credits. You may choose not to provide this information, but if you choose not to provide it, we will be unable to display your enrollment and payment information and you will have to obtain a copy of your enrollment and payment records in person. Contact the Cashier at (206) 878-3710 ext. 3320 or [cashier@highline.edu](mailto:cashier@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Registration**
 
-Highline Community College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it you will be unable to register for classes over the Web, and you will have to register for classes in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to register for classes over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it you will be unable to register for classes over the Web, and you will have to register for classes in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Registration Appointment**
 
-Highline Community College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information address in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information. 
+Highline Community College may require you to provide certain personal information in order to obtain your registration appointment information over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your registration appointment information over the Web, and you will have to obtain your registration appointment information address in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.   
 
-Top of page
+
+^Top of page^
 
 **Schedule Planner**
 
-Highline Community College may require you to provide certain personal information in order to check requisites while using schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to check requisites while using schedule planner. The information is required in order to access your academic and testing records. You may choose not to provide this information, but if you choose not to provide it we will be unable to verify your eligibility for enrollment into certain classes and you may be blocked from enrolling into those classes. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Student Address Change**
 
-Highline Community College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your address over the Web, and you will have to change your address in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to change your address over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your address over the Web, and you will have to change your address in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Student PIN Change**
 
-Highline Community College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to change your personal identification number over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to change your PIN over the Web, and you will have to change your PIN in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Student Schedule**
 
-Highline Community College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to view your quarterly schedule. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your quarterly schedule over the Web, and you will have to obtain a copy of your quarterly schedule in person. Contact Registration at (206) 878-3710 ext. 3243 or [ registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Unofficial Transcript**
 
-Highline Community College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.
+Highline Community College may require you to provide certain personal information in order to view your unofficial transcript over the Web. The information is required in order to verify your identity. You may choose not to provide this information, but if you choose not to provide it we will be unable to display your unofficial transcript over the Web, and you will have to view your unofficial transcript in person. Contact Registration at (206) 878-3710 ext. 3243 or [registrar@highline.edu](mailto:registrar@highline.edu) for more information.  
 
-Top of page
+
+^Top of page^
 
 **Library, Electronic Resources, and Instructional Computing Resources**
 
@@ -222,21 +236,23 @@ In addition to the previously identified laws and regulations, the following app
 
 
 
-Top of page
+^Top of page^
 
 **Instructional Activities**
 
-Highline Community College may require you to provide certain personal information as part of instructional activities which occur on-line or over the Web. In such cases, the information is required as part of participation in the class. You may choose not to provide this information, but if you choose not to provide it you will be unable to participate in those aspects of the class which occur on the Web. Contact your instructor or the Vice President for Academic Affairs at (206) 870-3711.
+Highline Community College may require you to provide certain personal information as part of instructional activities which occur on-line or over the Web. In such cases, the information is required as part of participation in the class. You may choose not to provide this information, but if you choose not to provide it you will be unable to participate in those aspects of the class which occur on the Web. Contact your instructor or the Vice President for Academic Affairs at (206) 870-3711.  
 
-Top of page
+
+^Top of page^
 
 * * *
 
 **Review and Correction of Personally Identifiable Information**
 
-You can review any personally identifiable information that Highline Community College collects about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections ([RCW 43.105.310](http://apps.leg.wa.gov/rcw/default.aspx)).
+You can review any personally identifiable information that Highline Community College collects about you by using the information in the Contact Information section at the end of this Notice. You may recommend changes to your personally identifiable information you believe to be inaccurate by submitting a written request that credibly shows the inaccuracy. We will take reasonable steps to verify your identity before granting access or making corrections ([RCW 43.105.310](http://apps.leg.wa.gov/rcw/default.aspx)).  
 
-Top of page
+
+^Top of page^
 
 * * *
 
@@ -244,19 +260,21 @@ Top of page
 
 To better serve our users, we may use "cookies" to customize your browsing experience with Highline Community College. Cookies are simple text files stored on your computer by your Web browser.
 
-Cookies created on your computer by using this Web site may contain limited personally identifying information, and will not compromise your privacy or security. We may use the cookie feature to store session login information or limited personal information, such as your name.
+Cookies created on your computer by using this Web site may contain limited personally identifying information, and will not compromise your privacy or security. We may use the cookie feature to store session login information or limited personal information, such as your name.  
 
-Top of page
+
+^Top of page^
 
 * * *
 
 **Security**
 
-Highline Community College, as developer and manager of the Highline Community College Web site, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Highline Community College. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
+Highline Community College, as developer and manager of the Highline Community College Website, has taken several steps to safeguard the integrity of its data and prevent unauthorized access to information maintained by Highline Community College. These measures are designed and intended to prevent corruption of data, block unknown or unauthorized access to our systems and information, and to provide reasonable protection of private information in our possession.
 
-This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via Highline Community College's Web sites.
+This information should not be construed in any way as giving business, legal, or other advice, or warranting as fail proof, the security of information provided via Highline Community College's Websites.  
 
-Top of page
+
+^Top of page^
 
 * * *
 
@@ -266,9 +284,10 @@ The Highline Community College Web site has many links to other Web sites. These
 
 Neither the State of Washington, nor any agency, officer, or employee of the State of Washington warrants the accuracy, reliability or timeliness of any information published by this system, nor endorses any content, viewpoints, products, or services linked from this system, and shall not be held liable for any losses caused by reliance on the accuracy, reliability or timeliness of such information. Portions of such information may be incorrect or not current. Any person or entity that relies on any information obtained from this system does so at their own risk.
 
-Highline Community College reserves the right to revise and update this Privacy Notice at any time by posting such revised Privacy Notice at the Highline Community College home page.
+Highline Community College reserves the right to revise and update this Privacy Notice at any time by posting such revised Privacy Notice at the Highline Community College home page.  
 
-Top of page
+
+^Top of page^
 
 * * *
 
@@ -288,9 +307,9 @@ To review your personal information, or request correction of your personal info
 > Fax: (206)-870-3780   
 >  [kbligh@highline.edu](mailto:kbligh@highline.edu)
 
-To offer comments about Highline Community College's Web site or about the information presented in this Privacy Notice:
+To offer comments about Highline Community College's Website or about the information presented in this Privacy Notice:
 
-> Public Web Site Coordinator  
+> Public Website Coordinator  
 >  Highline Community College  
 >  2400 S. 240th Street  
 >  Des Moines, WA 98198  
