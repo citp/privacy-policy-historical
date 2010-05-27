@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222095647id_/http%3A//www2.portero.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portero.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527192730id_/http%3A//www2.portero.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | portero.com
-
-_**\- Updated 7/1/2008**_
 
 Your privacy is important to us. Accordingly, we have designed this privacy policy in order to communicate what information Portero collects, why we collect this information, and how we use the information we collect. 
 
