@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022222259id_/http%3A//www.exploratorium.edu/about/priv_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exploratorium.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094111id_/http%3A//www.exploratorium.edu/about/priv_policy.html) for the most accurate reproduction.*
 
 # Exploratorium: Privacy Policy
 
-|  |  |  [](https://web.archive.org/web/20091022222259id_/http%3A//www.exploratorium.edu/about/about_web.html)  
+|  |  |  [](https://web.archive.org/web/20100527094111id_/http%3A//www.exploratorium.edu/about/about_web.html)  
 ---|---  
   | 
 
@@ -16,11 +16,13 @@ This privacy policy will advise you about how we protect your personal informati
 **Personal Information**  
 ****  
   
-We will not sell, trade, or give out e-mail addresses to companies or other organizations. We will not intentionally disclose any personal identifiable information about you as an individual user (such as, for example, your full name, street address, telephone number or e-mail address) to any third party without having first received your permission. We may request personal identification information from you in connection with your use of, or participation in, contests, sweepstakes, games, surveys, submissions, chat and bulletin boards. However, we will only collect this personal information from you if it has been voluntarily submitted to us.
+We will not sell, trade, or give out e-mail addresses to companies or other organizations. We will not intentionally disclose any personal identifiable information about you as an individual user (such as, for example, your full name, street address, telephone number or e-mail address) to any third party without having first received your permission. We may request personal identification information from you in connection with your use of, or participation in, contests, sweepstakes, games, surveys, submissions, chat and bulletin boards. However, we will only collect this personal information from you if it has been voluntarily submitted to us. 
 
-Any personal information provided to us may be used in connection with the activities previously referred to above. Should you send us an e-mail with questions or comments, we may use your personal information in order to respond to your questions or comments. We may also keep your comments or questions for future reference.
+Any personal information provided to us may be used in connection with the activities previously referred to above. Should you send us an e-mail with questions or comments, we may use your personal information in order to respond to your questions or comments. We may also keep your comments or questions for future reference. 
 
-It is important to note that if you give out personal information online, through a message board or chat room, for example, that information may be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these arenas. You disclose such information at your own risk.   
+It is important to note that if you give out personal information online, through a message board or chat room, for example, that information may be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these arenas. You disclose such information at your own risk. 
+
+The Exploratorium may use third-party extensions and services on its website. We cannot guarantee the privacy of your personal information if you use these extensions.   
   
 **Exception**  
 ****  
