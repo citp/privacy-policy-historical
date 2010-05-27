@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2009-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090508111804id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the styledrops.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527140152id_/http%3A//www.styledrops.com/interne/customers/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" dir="ltr"><head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -10,8 +10,7 @@
 <title>Prada Gucci Fendi Tod's Hogan Designer Shoes Handbags and Apparel Made in Italy</title>
 <meta name="description" content="Styledrops sells designer dress shoes, sport shoes, handbags by Prada, Gucci, Tod's, Hogan Dolce and Gabbana and Fendi. At Styledrops you can find Women's and men's styles directly from Italy. Find Prada, Fendi, Gucci, Hogan, Tod's and many others at discounted prices">
 <meta name="keywords" content="Prada womens and mens shoes Fendi Tod's Gucci handbags Hogan Miu Miu Casadei wallets designer apparel women's accessories pullovers Fendi handbags purse leather made in Italy italian ties Zegna ties designer neckties">
-<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.styledrops.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.styledrops.com&quot; r (n 0 s 0 v 0 l 0))">
-<!-- parte comune head -->
+<meta http-equiv="pics-label" content="(pics-1.1 &quot;http://www.icra.org/ratingsv02.html&quot; comment &quot;ICRAonline EN v2.0&quot; l gen true for &quot;http://www.styledrops.com&quot; r (nz 1 vz 1 lz 1 oz 1 cz 1) &quot;http://www.rsac.org/ratingsv01.html&quot; l gen true for &quot;http://www.styledrops.com&quot; r (n 0 s 0 v 0 l 0))"><!-- parte comune head -->
 
 <style type="text/css" media="all">@import "/css/interne/new_interne.css";</style>
 
@@ -166,8 +165,7 @@ function mostraSel()
 							 && links[l].href != "http://www.styledrops.com/shoes-108.html"
 							 && links[l].href != "http://www.styledrops.com/shoes-117.html" 
 							 && links[l].href != "http://styledrops.com/shoes-108.html"
-							 && links[l].href != "http://styledrops.com/shoes-117.html" 		
-							 )
+							 && links[l].href != "http://styledrops.com/shoes-117.html")
 							 {
 								if(mostra)
 								{
@@ -326,76 +324,75 @@ function mmenu(mID)
 /****************************************************************/
 /*************  funzione per i tab ***********************/
 
-function assegnaCambio(nomeEl,on,off) 
+function assegnaCambio(nomeEl, on, off) 
 {
-	var elementi=document.getElementById(nomeEl).getElementsByTagName('a');
-	var lunAn=elementi.length;
+	var elementi = document.getElementById(nomeEl).getElementsByTagName('a');
+	var lunAn = elementi.length;
 	var j;
 	
-	for (j=0;j<lunAn;j++) 
+	for(j=0;j<lunAn;j++) 
 	{
-		elementi[j].onmouseover=function() 
+		elementi[j].onmouseover = function() 
 		{	
-			cambiaSfondo(this,on);
+			cambiaSfondo(this, on);
 			return false;
 		}
-		elementi[j].onmouseout=function() 
+		elementi[j].onmouseout = function() 
 		{	
-			cambiaSfondo(this,off);
+			cambiaSfondo(this, off);
 			return false;
 		}
 	}
 }
 
-function cambiaSfondo(nome,classe)
+function cambiaSfondo(nome, classe)
 {
-	nome.previousSibling.className=classe; 
+	nome.previousSibling.className = classe; 
 }
 
 /****************************************************************/
 /****** funzione per il cambiamento di nome*******/
 
 
-function sintetizza(stilista,azione) 
+function sintetizza(stilista, azione) 
 {
-	var tit1=document.getElementById('titH1');
+	var tit1 = document.getElementById('titH1');
 	var testo_ti1;
 	
-	/*if (azione=='cat') 
+	/*if(azione == 'cat')
 	{
-		tit1.innerHTML=stilista+' Corner';
+		tit1.innerHTML = stilista + ' Corner';
 	}
-	else*/ if (azione=='prod') 
+	else*/ if(azione == 'prod')
 	{
-		var newString=stilista+' >';
-		var re=new RegExp(stilista,'gi');
-	
-		tit1.firstChild.nodeValue=tit1.firstChild.nodeValue.replace(re,newString);
+		var newString = stilista + ' >';
+		var re = new RegExp(stilista, 'gi');
+		tit1.firstChild.nodeValue = tit1.firstChild.nodeValue.replace(re, newString);
 	}
 	
-	var n=0;
-	var tit2=document.getElementsByTagName('h2');
-	var l=tit2.length;
+	var n = 0;
+	var tit2 = document.getElementsByTagName('h2');
+	var l = tit2.length;
 	var a;
 	var testo;
-	var re=new RegExp(stilista,'gi');
+	var re = new RegExp(stilista, 'gi');
 
-	for (n=0;n<l;n++) 	//scorro gli h2
+	for(n=0; n<l; n++) 	//scorro gli h2
 	{ 
-		if (tit2.item(n).className=='secButtons')	//scorro gli h2 che hanno classe secbuttons
+		if(tit2.item(n).className == 'secButtons')	//scorro gli h2 che hanno classe secbuttons
 		{ 
-			a=tit2.item(n).getElementsByTagName('a').item(0);
+			a = tit2.item(n).getElementsByTagName('a').item(0);
 		
-			if (a) 	//questo  il caso sia un link
+			if(a) 	//questo il caso sia un link
 			{ 
-				testo=a.firstChild.nodeValue;
-				a.firstChild.nodeValue=testo.replace(re,'');
+				testo = a.firstChild.nodeValue;
+				a.firstChild.nodeValue = testo.replace(re, '');
 			}
 			else 
 			{
 				//questo  il caso in cui non sia un link, ma l'elemento evidenziato
-				testo=document.getElementById('evidenza').firstChild.nodeValue;
-				document.getElementById('evidenza').firstChild.nodeValue=testo.replace(re,'');
+				testo = document.getElementById('evidenza').firstChild.nodeValue;
+				document.getElementById('evidenza').firstChild.nodeValue = testo.replace(re, '');
 			}
 		}
 	}
@@ -748,24 +745,23 @@ function viaBici()
     	<!--  or country -->
     	<div id="parteCountry" style="position:relative;top:5px;font-size:15px;">
        		<span style="float:left;color:#FFF;"><a id="linkCountry" href="/interne/popups/changeParam.php?lang=en&amp;cur=usd&amp;cou=us" onclick="newWindow(this.href, 'parameters', 400, 200, 0, 1, 0, 0, 0, 0, 0); return false;" target="_blank"><strong>Change your language or currency</strong></a></span>
-       		<form name="frmParam" method="POST">
+       		<form name="frmParam" method="post">
     			<input type="hidden" name="lang">
     			<input type="hidden" name="cur">
     			<input type="hidden" name="cou">
     		</form>
        	</div>
 		
-	<div style="margin:0 0 5px 0;">
-		<a style="text-decoration:none;font-size:28px;" href="/interne/customers/form_help.php">
-			<span style="color:#FFF;">Need Assistance?</span>&nbsp;
-			<span style="color:#4A90CC;">Click Here!</span>
-		</a>
+	<div>
+		<a href="/interne/customers/form_help.php"><img height="39px" src="/imgs/interne/new_interne/expresshipping.gif"></a>
 	</div>
+	<!-- <span style="color:#FFF;"></span>&nbsp;
+	<span style="color:#4A90CC;"></span> -->
 	
 	<ul id="menuAlto">
 		<li><span class="tabSx"></span><a href="/interne/cart/index.php">shopping bag</a></li>
 		<li><span class="tabSx"></span><a href="http://www.styledrops.com/">home page</a></li>
-		<li id="forum"><span class="tabSx"></span><a href="http://www.glamshoes.com/">clearance</a></li>
+		<li id="forum"><span class="tabSx"></span><a href="http://www.glamshoes.com">clearance</a></li>
 		<li><span class="tabSx"></span><a href="http://sunglasses.styledrops.com/">sunglasses</a></li>
 		<li><span class="tabSx"></span><a href="/interne/customers/payments.php">payments</a></li>
 		<li><span class="tabSx"></span><a href="/interne/customers/returns.php">return policy</a></li>
@@ -782,6 +778,7 @@ assegnaCambio('menuAlto', 'tabSx_on', 'tabSx');
 	<a href="www.styledrops.com/" alt="Styledrops, en, english, ingles, ??" title="Styledrops, en, english, ingles, ??">www.styledrops.com/</a>
 	<a href="www.styledrops.com/lang-es/" alt="Styledrops, es, spanish, espanol, ??" title="Styledrops, es, spanish, espanol, ??">www.styledrops.com/lang-es/</a>
 	<a href="www.styledrops.com/lang-zh/" alt="Styledrops, zh, chinese, chino, ??" title="Styledrops, zh, chinese, chino, ??">www.styledrops.com/lang-zh/</a>
+	<a href="www.styledrops.com/lang-de/" alt="Styledrops, de, german, deutsch" title="Styledrops, de, german, deutsch">www.styledrops.com/lang-de/</a>
 </div>
 	<!-- inizio colonna di sinistra -->
 <!--inizio menu sx-->
@@ -803,7 +800,7 @@ var rangeId;
 		<ul id="menuCont">
 
 		<!--menu donna-->
-
+		
 		<div class="menuSx">
 
   		<div class="menuUL"><hr>
@@ -813,10 +810,9 @@ var rangeId;
           <ul class="submenuCSS" id="submenu-1">
             <!--women shoes-->
             <li class="menuCSS"><a href="javascript:mmenu('submenu-1-1')"><strong>Shoes</strong></a>
-<ul class="submenu1CSS" id="submenu-1-1">
+			  <ul class="submenu1CSS" id="submenu-1-1">
 									<li class="menu1CSS"><a href="/prada-shoes.html">Prada shoes</a></li>
-				                <!--<li class="menu1CSS"><a href="/prada-sport-shoes-27.html">Prada sport shoes</a></li>-->
-                					<li class="menu1CSS"><a href="/gucci-shoes.html">Gucci shoes</a></li>
+				                					<li class="menu1CSS"><a href="/gucci-shoes.html">Gucci shoes</a></li>
 								<li class="menu1CSS"><a href="/alberto-guardiani-shoes-400.html">Alberto Guardiani shoes</a></li>
 				<li class="menu1CSS"><a href="/alexander-mc-queen-shoes-295.html">Alexander Mc Queen shoes</a></li>
 				<li class="menu1CSS"><a href="/bally-shoes-220.html">Bally shoes</a></li>
@@ -825,6 +821,7 @@ var rangeId;
 				<li class="menu1CSS"><a href="/burberry-shoes-327.html">Burberry shoes</a></li>
 				<li class="menu1CSS"><a href="/car-shoe-shoes-168.html">Car Shoe shoes</a></li>
 				<li class="menu1CSS"><a href="/cesare-paciotti-shoes-40.html">Cesare Paciotti shoes</a></li>
+				<li class="menu1CSS"><a href="/castaner-shoes-425.html">Castañer shoes</a></li>
 				<li class="menu1CSS"><a href="/chloe-shoes-298.html">Chloè shoes</a></li>
 				<li class="menu1CSS"><a href="/churchs-shoes-238.html">Church's shoes</a></li>
 				<li class="menu1CSS"><a href="/christian-lacroix-shoes-378.html">Christian Lacroix shoes </a></li>
@@ -833,9 +830,12 @@ var rangeId;
 				<li class="menu1CSS"><a href="/dolce-gabbana-shoes-78.html">Dolce &amp; Gabbana shoes</a></li>
 				<li class="menu1CSS"><a href="/dsquared-shoes-232.html">DSquared shoes</a></li>
 				<li class="menu1CSS"><a href="/fendi-shoes-45.html">Fendi shoes</a></li>
+				<li class="menu1CSS"><a href="/frankie-morello-shoes-406.html">Frankie Morello shoes</a></li> 
 									<li class="menu1CSS"><a href="/ferragamo-shoes.html">Ferragamo shoes</a></li>
 					<li class="menu1CSS"><a href="/hogan-shoes.html">Hogan shoes</a> </li>
-								<li class="menu1CSS"><a href="/jean-paul-gaultier-shoes-240.html">Jean Paul Gaultier shoes</a></li>
+								<li class="menu1CSS"><a href="/gianfranco-ferre-shoes-402.html">Gianfranco Ferrè shoes</a></li>
+				<li class="menu1CSS"><a href="/giuseppe-zanotti-shoes-417.html">Giuseppe Zanotti shoes</a></li>
+				<li class="menu1CSS"><a href="/jean-paul-gaultier-shoes-240.html">Jean Paul Gaultier shoes</a></li>
 				<li class="menu1CSS"><a href="/john-galliano-shoes-200.html">John Galliano shoes</a></li>
 				<li class="menu1CSS"><a href="/jimmy-choo-shoes-326.html">Jimmy Choo shoes</a></li>
 				<li class="menu1CSS"><a href="/lanvin-shoes-374.html">Lanvin shoes</a></li>
@@ -843,15 +843,20 @@ var rangeId;
 				<li class="menu1CSS"><a href="/marni-shoes-361.html">Marni shoes</a></li>
 				<li class="menu1CSS"><a href="/melissa-shoes-386.html">Melissa shoes</a></li>
 				<li class="menu1CSS"><a href="/miu-miu-shoes-20.html">Miu Miu shoes</a></li>
-				<li class="menu1CSS"><a href="/moma-shoes-342.html">MOMA shoes</a></li>
+				<!-- <li class="menu1CSS"><a href="/moma-shoes-342.html">MOMA shoes</a></li> -->
+				<li class="menu1CSS"><a href="/moncler-shoes-411.html">Moncler shoes</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-shoes-292.html">Paul Smith shoes</a></li>
+        		<li class="menu1CSS"><a href="/roberto-cavalli-shoes-216.html">Roberto Cavalli shoes</a></li>
         		<li class="menu1CSS"><a href="/roger-vivier-shoes-357.html">Roger Vivier shoes</a></li>
+        		<li class="menu1CSS"><a href="/ruco-line-shoes-426.html">Ruco Line shoes</a></li>
         							<li class="menu1CSS"><a href="/tods-shoes.html">Tod's shoes</a></li>
-								<li class="menu1CSS"><a href="/sergio-rossi-shoes-79.html">Sergio Rossi shoes</a></li>
+								<li class="menu1CSS"><a href="/tory-burch-shoes-408.html">Tory Burch shoes</a></li>
+				<li class="menu1CSS"><a href="/sergio-rossi-shoes-79.html">Sergio Rossi shoes</a></li>
+				<li class="menu1CSS"><a href="/valentino-shoes-422.html">Valentino shoes</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-shoes-178.html">Vivienne Westwood shoes</a></li>
 				<li class="menu1CSS"><a href="/viktor-rolf-shoes-377.html">Viktor &amp; Rolf shoes</a></li>
                 <li class="menu1CSS"><a href="/y-by-yamamoto-shoes-204.html">Y3 by Yamamoto shoes</a></li>
-                <li class="menu1CSS"><a href="/ysl-shoes-171.html">YSL shoes</a></li>
+                <li class="menu1CSS"><a href="/yves-saint-laurent-shoes-171.html">Yves Saint Laurent shoes</a></li>
               </ul>
             </li>
             <!--women handbags-->
@@ -864,28 +869,29 @@ var rangeId;
 				<li class="menu1CSS"><a href="/bottega-veneta-handbags-209.html">Bottega Veneta handbags</a></li>
 				<li class="menu1CSS"><a href="/bulgari-handbags-310.html">Bulgari handbags</a></li>
 				<li class="menu1CSS"><a href="/burberry-handbags-121.html">Burberry handbags</a></li>
-				<li class="menu1CSS"><a href="/car-shoe-handbags-215.html">Car Shoe handbags</a></li>
-				<li class="menu1CSS"><a href="/celine-handbags-274.html">Celine handbags</a></li>
-				<li class="menu1CSS"><a href="/cesare-paciotti-handbags-303.html">Cesare Paciotti handbags</a></li>
+				<li class="menu1CSS"><a href="/jc-de-castelbajac-handbags-311.html">JC de Castelbajac handbags</a></li>
 				<li class="menu1CSS"><a href="/chloe-handbags-269.html">Chloè handbags </a></li>
 				<li class="menu1CSS"><a href="/christian-lacroix-handbags-362.html">Christian Lacroix handbags </a></li>
-				<!--<li class="menu1CSS"><a href="/corto-moltedo-handbags-307.html">Corto Moltedo handbags </a></li>-->
 				<li class="menu1CSS"><a href="/dior-handbags-175.html">Dior handbags</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-handbags-75.html">Dolce &amp; Gabbana handbags</a></li>
-				<!--<li class="menu1CSS"><a href="/emporio-armani-handbags-331.html">Emporio Armani handbags</a> </li> -->
+				<li class="menu1CSS"><a href="/fay-handbags-87.html">Fay handbags</a></li>
 				<li class="menu1CSS"><a href="/fendi-handbags-62.html">Fendi handbags</a></li>
 									<li class="menu1CSS"><a href="/ferragamo-handbags.html">Ferragamo handbags</a></li>
 					<li class="menu1CSS"><a href="/hogan-handbags.html">Hogan handbags</a></li>
-								<li class="menu1CSS"><a href="/jean-paul-gaultier-handbags-104.html">Jean Paul Gaultier handbags</a></li>
-				<!--<li class="menu1CSS"><a href="/jimmy-choo-handbags-333.html">Jimmy Choo handbags</a></li>-->
+								<li class="menu1CSS"><a href="/givenchy-handbags-419.html">Givenchy handbags</a></li>
+				<li class="menu1CSS"><a href="/jean-paul-gaultier-handbags-104.html">Jean Paul Gaultier handbags</a></li>
+				<li class="menu1CSS"><a href="/jimmy-choo-handbags-333.html">Jimmy Choo handbags</a></li>
 				<li class="menu1CSS"><a href="/john-galliano-handbags-103.html">John Galliano handbags</a></li>
+				<li class="menu1CSS"><a href="/lanvin-handbags-403.html">Lanvin handbags</a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-handbags-183.html">Marc Jacobs handbags</a></li>
 				<li class="menu1CSS"><a href="/marni-handbags-306.html">Marni handbags</a></li>
 				<li class="menu1CSS"><a href="/miu-miu-handbags-86.html">Miu Miu handbags</a></li>
+				<li class="menu1CSS"><a href="/moncler-handbags-412.html">Moncler handbags</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-handbags-202.html">Paul Smith handbags</a></li>
-                <li class="menu1CSS"><a href="/philip-treacy-handbags-205.html">Philip Treacy handbags</a></li>
-									<li class="menu1CSS"><a href="/tods-handbags.html">Tod's handbags</a></li>
-								<li class="menu1CSS"><a href="/toy-toy-handbags-311.html">Toy + Toy handbags</a></li>
+				<li class="menu1CSS"><a href="/roberto-cavalli-handbags-415.html">Roberto Cavalli handbags</a></li>
+                					<li class="menu1CSS"><a href="/tods-handbags.html">Tod's handbags</a></li>
+								<li class="menu1CSS"><a href="/tory-burch-handbags-407.html">Tory Burch handbags</a></li>
+				<li class="menu1CSS"><a href="/sergio-rossi-handbags-125.html">Sergio Rossi handbags</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-handbags-176.html">Vivienne Westwood handbags</a></li>
 				<li class="menu1CSS"><a href="/y-by-yamamoto-handbags-282.html">Y3 by Yamamoto handbags</a></li>
 				<li class="menu1CSS"><a href="/yves-saint-laurent-handbags-74.html">Yves Saint Laurent handbags</a></li>
@@ -894,7 +900,7 @@ var rangeId;
                 <li class="menu1CSS"><a href="/viktor-rolf-handbags-396.html">Viktor &amp; Rolf handbags</a></li>
                 <li class="ds"><a href="/handbags-shoes/gucci-handbags.html">Gucci handbags</a></li>     
               </ul>
-              <!--women wallets-->
+            <!--women wallets-->
             </li><li class="menuCSS"><a href="javascript:mmenu('submenu-1-3')"><strong>Accessories</strong></a> 
               <ul class="submenu1CSS" id="submenu-1-3">
               						<li class="menu1CSS"><a href="/prada-wallets.html">Prada wallets</a></li>
@@ -913,15 +919,18 @@ var rangeId;
 				<li class="menu1CSS"><a href="/bulgari-wallets-344.html">Bulgari wallets</a></li>
 				<li class="menu1CSS"><a href="/bulgari-belts-345.html">Bulgari belts</a></li>
 				<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
+				<li class="menu1CSS"><a href="/dior-hats-410.html">Dior hats</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-wallets-299.html">Dolce &amp; Gabbana wallets</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-jewellery-368.html">Dolce &amp; Gabbana jewellery</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-hats-366.html">Dolce &amp; Gabbana hats</a></li>
 				<li class="menu1CSS"><a href="/dsquared-belts-301.html">DSquared belts</a></li>
+				<li class="menu1CSS"><a href="/dsquared-hats-405.html">DSquared hats</a></li>
                 <li class="menu1CSS"><a href="/fendi-wallets-101.html">Fendi wallets</a></li>
                 <li class="menu1CSS"><a href="/fendi-belts-281.html">Fendi belts</a></li>
                 <li class="menu1CSS"><a href="/fendi-hats-268.html">Fendi hats</a></li>
                 <li class="menu1CSS"><a href="/ferragamo-wallets-126.html">Ferragamo wallets</a></li>
+                <li class="menu1CSS"><a href="/ferragamo-watches-195.html">Ferragamo watches</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-wallets-253.html">Jean Paul Gaultier wallets</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-jewellery-391.html">Jean Paul Gaultier jewellery</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-watches-197.html">Jean Paul Gaultier watches</a></li>
@@ -930,8 +939,12 @@ var rangeId;
 				<li class="menu1CSS"><a href="/john-galliano-jewellery-380.html">John Galliano jewellery </a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-wallets-184.html">Marc Jacobs wallets</a></li>
 				<li class="menu1CSS"><a href="/miu-miu-wallets-261.html">Miu Miu wallets</a></li>
-               	<li class="menu1CSS"><a href="/paul-smith-wallets-263.html">Paul Smith wallets</a></li>
+               	<li class="menu1CSS"><a href="/moncler-hats-423.html">Moncler hats</a></li>
+               	<li class="menu1CSS"><a href="/paul-smith-accessories-263.html">Paul Smith accessories</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-belts-324.html">Paul Smith belts</a></li>
+				<li class="menu1CSS"><a href="/paul-smith-hats-413.html">Paul Smith hats</a></li>
+				<li class="menu1CSS"><a href="/roberto-cavalli-belts-300.html">Roberto Cavalli belts</a></li>
+				<li class="menu1CSS"><a href="/roberto-cavalli-wallets-416.html">Roberto Cavalli wallets</a></li>
                 <li class="menu1CSS"><a href="/tods-wallets-273.html">Tod's wallets</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-wallets-177.html">Vivienne Westwood wallets</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-belts-323.html">Vivienne Westwood belts</a></li>
@@ -939,8 +952,7 @@ var rangeId;
 				<li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
               </ul>
             </li>
-            <li class="menuCSS"><strong><a href="javascript:mmenu('submenu-1-4')">Clothing</a></strong><a href="javascript:mmenu('submenu-1-4')"> 
-              <font color="#FFCC00">(New!)</font></a> 
+            <li class="menuCSS"><a href="javascript:mmenu('submenu-1-4')"><strong>Clothing</strong></a>
               <ul class="submenu1CSS" id="submenu-1-4">
               						<li class="menu1CSS"><a href="/prada-clothing.html">Prada clothing </a></li>
               		<li class="menu1CSS"><a href="/gucci-clothing.html">Gucci clothing </a></li>
@@ -953,6 +965,7 @@ var rangeId;
                 <li class="menu1CSS"><a href="/dsquared-clothing-351.html">DSquared clothing</a></li>
 				<li class="menu1CSS"><a href="/ermanno-scervino-clothing-372.html">Ermanno Scervino clothing</a></li>
                 <li class="menu1CSS"><a href="/fay-clothing-358.html">Fay clothing</a></li>
+                <li class="menu1CSS"><a href="/jc-de-castelbajac-clothing-414.html">JC de Castelbajac clothing</a></li>
                 <li class="menu1CSS"><a href="/jean-paul-gaultier-clothing-265.html">Jean Paul Gaultier clothing</a></li>
               	<li class="menu1CSS"><a href="/john-galliano-clothing-201.html">John Galliano clothing</a></li>
 				<li class="menu1CSS"><a href="/lanvin-clothing-373.html">Lanvin clothing</a></li>
@@ -961,7 +974,6 @@ var rangeId;
 			    <li class="menu1CSS"><a href="/vivienne-westwood-clothing-266.html">Vivienne Westwood clothing</a></li>
                 <li class="menu1CSS"><a href="/for-all-mankind-denim-jeans-339.html">7 For All Mankind Denim jeans </a></li>
                 <li class="menu1CSS"><a href="/rock-republic-clothing-337.html">Rock &amp; Republic jeans </a></li>
-                <li class="menu1CSS"><a href="/victoria-beckham-dvb-clothing-338.html">Victoria Beckham DVB jeans </a></li>
             
           </ul>
         </li>
@@ -969,6 +981,7 @@ var rangeId;
 		</div>
 
 		<!--menu uomo-->
+		
 		<div class="menuSx">
 
 		<div class="menuUL"><hr>
@@ -976,13 +989,13 @@ var rangeId;
           <h4><a href="javascript:mmenu('submenu-2')"><img src="/imgs/interne/new_interne/shopforomen.gif"><strong style="font-size:13px; position:relative; bottom:7px;">SHOP FOR MEN</strong></a></h4>
           <ul class="submenuCSS" id="submenu-2">
             <li class="menuCSS"><a href="javascript:mmenu('submenu-2-1')"><strong>Shoes</strong></a>
-<ul class="submenu1CSS" id="submenu-2-1">
+			  <ul class="submenu1CSS" id="submenu-2-1">
 				<li class="menu1CSS"><a href="/prada-shoes-39.html">Prada shoes</a></li>
-                <!--<li class="menu1CSS"><a href="/prada-sport-shoes-28.html">Prada sport shoes</a></li>-->
                 <li class="menu1CSS"><a href="/gucci-shoes-48.html">Gucci shoes </a></li>
-				 <li class="menu1CSS"><a href="/alberto-guardiani-shoes-376.html">Alberto Guardiani shoes</a></li>
+				<li class="menu1CSS"><a href="/alberto-guardiani-shoes-376.html">Alberto Guardiani shoes</a></li>
                 <li class="menu1CSS"><a href="/alexander-mc-queen-shoes-385.html">Alexander Mc Queen shoes</a></li>
                 <li class="menu1CSS"><a href="/bottega-veneta-shoes-346.html">Bottega Veneta shoes</a></li>
+                <li class="menu1CSS"><a href="/burberry-shoes-401.html">Burberry shoes</a></li>
 				<li class="menu1CSS"><a href="/car-shoe-shoes-128.html">Car Shoe shoes</a></li>
 				<li class="menu1CSS"><a href="/cesare-paciotti-shoes-46.html">Cesare Paciotti shoes</a></li>
 				<li class="menu1CSS"><a href="/churchs-shoes-239.html">Church's shoes</a></li>
@@ -996,11 +1009,14 @@ var rangeId;
 				<li class="menu1CSS"><a href="/fratelli-rossetti-shoes-360.html">Fratelli Rossetti shoes</a></li> 
 				<li class="menu1CSS"><a href="/hogan-shoes-18.html">Hogan shoes</a></li>
 				<li class="menu1CSS"><a href="/john-richmond-shoes-207.html">John Richmond shoes</a></li>
+				<li class="menu1CSS"><a href="/john-galliano-shoes-420.html">John Galliano shoes</a></li>
 				<li class="menu1CSS"><a href="/lanvin-shoes-375.html">Lanvin shoes</a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-shoes-393.html">Marc Jacobs shoes</a></li>
+				<li class="menu1CSS"><a href="/moncler-shoes-409.html">Moncler shoes</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-shoes-262.html">Paul Smith shoes</a></li>
 				<li class="menu1CSS"><a href="/puma-by-mcqueen-shoes-312.html">Puma by McQueen shoes</a></li>
 				<li class="menu1CSS"><a href="/puma-by-dassler-shoes-313.html">Puma by R. Dassler shoes</a></li>
+				<li class="menu1CSS"><a href="/santoni-shoes-418.html">Santoni shoes</a></li>
                 <li class="menu1CSS"><a href="/tods-shoes-19.html">Tod's shoes</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-shoes-223.html">Vivienne Westwood shoes</a></li>
                 <li class="menu1CSS"><a href="/y-by-yamamoto-shoes-174.html">Y3 by Yamamoto shoes</a></li>
@@ -1022,6 +1038,7 @@ var rangeId;
                 <!--<li class="menu1CSS"><a href="/bally-briefcases-290.html">Bally briefcases / messenger bags</a></li>-->
 				<li class="menu1CSS"><a href="/dior-briefcases-369.html">Dior bags / messenger bags</a></li>
 				<li class="menu1CSS"><a href="/dior-belts-365.html">Dior belts</a></li>
+				<li class="menu1CSS"><a href="/dior-hats-410.html">Dior hats</a></li>
 				<li class="menu1CSS"><a href="/dior-wallets-367.html">Dior wallets</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-belts-291.html">Dolce &amp; Gabbana belts</a></li> 
 				<li class="menu1CSS"><a href="/dolce-gabbana-briefcases-203.html">Dolce &amp; Gabbana briefcases / messenger bags</a></li>
@@ -1029,9 +1046,10 @@ var rangeId;
 				<li class="menu1CSS"><a href="/dolce-gabbana-hats-366.html">Dolce &amp; Gabbana hats</a></li>
 				<li class="menu1CSS"><a href="/dolce-gabbana-jewellery-368.html">Dolce &amp; Gabbana jewellery</a></li>
 				<li class="menu1CSS"><a href="/dsquared-belts-301.html">DSquared belts</a></li>
+				<li class="menu1CSS"><a href="/dsquared-hats-405.html">DSquared hats</a></li>
 				<li class="menu1CSS"><a href="/ferragamo-briefcases-241.html">Ferragamo briefcases / messenger bags </a></li>
 				<li class="menu1CSS"><a href="/ferragamo-belts-315.html">Ferragamo belts </a></li>
-		
+				<li class="menu1CSS"><a href="/ferragamo-watches-195.html">Ferragamo watches</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-handbags-254.html">Jean Paul Gaultier handbags</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-wallets-190.html">Jean Paul Gaultier wallets</a></li>
 				<li class="menu1CSS"><a href="/jean-paul-gaultier-jewellery-391.html">Jean Paul Gaultier jewellery</a></li>
@@ -1039,10 +1057,13 @@ var rangeId;
 				<li class="menu1CSS"><a href="/john-galliano-wallets-382.html">John Galliano wallets </a></li>
                 <li class="menu1CSS"><a href="/john-galliano-handbags-103.html">John Galliano handbags</a></li>
                 <li class="menu1CSS"><a href="/john-galliano-accessories-395.html">John Galliano accessories</a></li>
+                <li class="menu1CSS"><a href="/marc-jacobs-handbags-421.html">Marc Jacobs handbags</a></li>
+				<li class="menu1CSS"><a href="/moncler-hats-423.html">Moncler hats</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-handbags-202.html">Paul Smith handbags</a></li>
-				<li class="menu1CSS"><a href="/paul-smith-wallets-263.html">Paul Smith wallets</a></li>
+				<li class="menu1CSS"><a href="/paul-smith-accessories-263.html">Paul Smith accessories</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-belts-324.html">Paul Smith belts</a></li>
 				<li class="menu1CSS"><a href="/paul-smith-ties-388.html">Paul Smith ties</a></li>
+				<li class="menu1CSS"><a href="/paul-smith-hats-413.html">Paul Smith hats</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-belts-323.html">Vivienne Westwood belts</a></li>
 				<li class="menu1CSS"><a href="/vivienne-westwood-briefcases-226.html">Vivienne Westwood briefcases / messenger bags</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-ties-191.html">Vivienne Westwood ties</a></li>
@@ -1052,15 +1073,15 @@ var rangeId;
 				<li class="menu1CSS"><a href="/yves-saint-laurent-belts-297.html">Yves Saint Laurent belts</a></li>
               </ul>
             </li>
-            <li class="menuCSS"><a href="javascript:mmenu('submenu-2-3')"><strong>Clothing</strong> 
-              <font color="#FFCC00">(New!)</font></a> 
+            <li class="menuCSS"><a href="javascript:mmenu('submenu-2-3')"><strong>Clothing</strong></a> 
               <ul class="submenu1CSS" id="submenu-2-3">
               	<li class="menu1CSS"><a href="/prada-clothing-250.html">Prada clothing</a></li>
               	<li class="menu1CSS"><a href="/gucci-clothing-349.html">Gucci clothing</a></li>
-				<li class="menu1CSS"><a href="/for-all-mankind-men-denim-jeans-390.html">7 For All Mankind Denim jeans </a></li>
-              	<li class="menu1CSS"><a href="/alexander-mcqueen-clothing-359.html">Alexander McQueen clothing</a></li>
+				<li class="menu1CSS"><a href="/for-all-mankind-clothing-390.html">7 For All Mankind clothing</a></li>
+				<li class="menu1CSS"><a href="/alexander-mcqueen-clothing-359.html">Alexander McQueen clothing</a></li>
 				<li class="menu1CSS"><a href="/antonio-marras-clothing-392.html">Antonio Marras clothing</a></li>
-              	<li class="menu1CSS"><a href="/cesare-paciotti-clothing-354.html">Cesare Paciotti clothing</a></li>
+              	<li class="menu1CSS"><a href="/barba-napoli-clothing-427.html">Barba Napoli clothing</a></li>
+              	<li class="menu1CSS"><a href="/burberry-clothing-404.html">Burberry clothing</a></li>
               	<li class="menu1CSS"><a href="/christian-dior-clothing-350.html">Christian Dior clothing</a></li>
                 <li class="menu1CSS"><a href="/dolce-gabbana-clothing-244.html">Dolce &amp; Gabbana clothing</a></li>
 				<li class="menu1CSS"><a href="/dondup-clothing-363.html">Dondup clothing </a></li>
@@ -1068,13 +1089,17 @@ var rangeId;
                 <li class="menu1CSS"><a href="/etro-clothing-352.html">Etro clothing</a></li>
                 <li class="menu1CSS"><a href="/fay-clothing-383.html">Fay clothing</a></li>
                 <li class="menu1CSS"><a href="/frankie-morello-clothing-353.html">Frankie Morello clothing</a></li>
+                <li class="menu1CSS"><a href="/hogan-clothing-429.html">Hogan clothing</a></li>
+                <li class="menu1CSS"><a href="/jc-de-castelbajac-clothing-424.html">JC de Castelbajac clothing</a></li>
+                <li class="menu1CSS"><a href="/jean-paul-gaultier-clothing-264.html">Jean Paul Gaultier clothing</a></li>
                 <li class="menu1CSS"><a href="/john-galliano-clothing-355.html">John Galliano clothing</a></li>
                 <li class="menu1CSS"><a href="/lanvin-clothing-398.html">Lanvin clothing</a></li>
 				<li class="menu1CSS"><a href="/marc-jacobs-clothing-370.html">Marc Jacobs clothing</a></li>
-                <li class="menu1CSS"><a href="/paul-smith-clothing-356.html">Paul Smith clothing</a></li>
+                <li class="menu1CSS"><a href="/moncler-clothing-428.html">Moncler clothing</a></li>
+			    <li class="menu1CSS"><a href="/paul-smith-clothing-356.html">Paul Smith clothing</a></li>
                 <li class="menu1CSS"><a href="/ralph-lauren-clothing-397.html">Ralph Lauren clothing</a></li>
                 <li class="menu1CSS"><a href="/vivienne-westwood-clothing-259.html">Vivienne Westwood clothing</a></li>
-				<li class="menu1CSS"><a href="/kris-van-assche-clothing-389.html">Kris Van Assche clothing</a></li>                
+				<!-- <li class="menu1CSS"><a href="/kris-van-assche-clothing-389.html">Kris Van Assche clothing</a></li> -->
               </ul>
             </li>
           </ul>
@@ -1086,7 +1111,7 @@ var rangeId;
 		<!-- designer directory -->
 		<div class="menuSx">
     		<div class="menuUL"><hr>
-    			<li class="listaPrinc"><h4><a href="javascript:mmenu('submenu-3')"><img src="/imgs/interne/new_interne/kids.gif"></a></h4>
+    			<li class="listaPrinc"><h4><a href="javascript:mmenu('submenu-3')"><img src="/imgs/interne/new_interne/shopforkids.gif"><strong style="font-size:13px; position:relative; bottom:7px;">SHOP FOR KIDS</strong></a></h4>
     				<ul class="submenuCSS" id="submenu-3">
     				  <li class="menuCSS"><strong><a href="javascript:mmenu('submenu-3-1')">Shoes</a></strong> 
     	              <ul class="submenu1CSS" id="submenu-3-1">
@@ -1141,103 +1166,13 @@ var rangeId;
     					<li class="menuCSS"><a href="http://sunglasses.styledrops.com/">WOMEN</a></li>
     					<li class="menuCSS"><a href="http://sunglasses.styledrops.com/">MEN</a></li>
     				</ul>
-    			</li>
+    			</li><br clear="all">
     		</div>
 		</div>
-		
-		<!-- Menu natale-->
 	
-		<div class="menuSx" id="menuNat"><div class="menuUL"><hr>
-		<li class="listaPrinc"><h4><a href="javascript:mmenu('submenu-5')"><img id="priceFinder" src="/imgs/interne/new_interne/priceFinder.gif"><strong style="font-size:13px; position:relative; bottom:7px;">SEARCH BY PRICE</strong></a></h4>
-<form name="priceFormW" action="javascript:void(0)" method="get" onsubmit="javascript:controlSelect(this.name)">				
-<label style="margin-top:2px;margin-bottom:2px "><strong>Women's</strong></label>
-
-<select name="id" onchange="cambiaSelect(this.value)">
-	<option selected="selected" value="sel">Choose items</option>
-	<option value="1">shoes</option><!-- prada shoes=26 tod's prada shooes 41 -->
-	<option value="4">handbags</option>
-	<option value="5">wallets</option>
-	<option value="43">hats</option>		
-</select>
-<select name="designer" onchange="cambiaSelect(this.value)">
-	<option selected="selected" value="all">All designers</option>
-    <option value="1">Prada</option>
-	<option value="15">Gucci</option>
-	<option value="11">Hogan</option>
-	<option value="65">Versace</option>
-	<option value="35">Ferragamo </option>
-	<option value="10">Tod's</option>
-	<option value="9">Miu Miu</option>
-	<option value="49">Car Shoe</option>
-	<option value="66">Dior</option>
-	<option value="13">Fendi</option>
-	<option value="34">Dolce &amp; Gabbana</option>
-	<option value="81">Roberto Cavalli</option>
-	<option value="33">YSL</option>
-	<option value="67">Y3 by Yamamoto</option>
-	<option value="8">Valentino</option>
-	<option value="7">Casadei</option>
-	<option value="47">Camper</option>
-	<option value="83">DSquared</option>
-	<option value="14">Sergio Rossi</option>
-	<option value="15">John Richmond</option>
-	<option value="58">John Galliano</option>
-	<option value="68">Vivienne Westwood</option>
-	<option value="6">Pirelli sport</option>
-	<option value="2">Cesare Paciotti</option>
-	<option value="69">Dirk Bikkembergs</option>
-	<option value="80">Hugo Boss</option>
-	<option value="86">Church's</option>
-  </select>
-  <br><br>
-<strong> from: $</strong> <input class="rangePrice" type="text" name="inf">
-<strong> to: $</strong> <input class="rangePrice" type="text" name="sup">
-<input type="hidden" name="lang" value="en">
-<input class="vaiPrice" type="submit" value="Go">
-</form>			
-</li>
-</div>
-</div> 
-<div class="menuSx" id="menuNat2"><div class="menuUL"><hr>
-<li class="listaPrinc">
-<form name="priceFormM" action="javascript:void(0)" method="get" onsubmit="javascript:controlSelect(this.name)">		
-<label style="margin-bottom:2px "><strong>Men's</strong></label>
-  <select name="id" onchange="cambiaSelect(this.value)">
-  <option selected="selected" value="sel">Choose items</option>
-    <option value="2">shoes</option>
-	<option value="24">wallets</option>
-	<option value="22">hats</option>		
-  </select>
-  
-  <select name="designer" onchange="cambiaSelect(this.value)">
-	<option selected="selected" value="all">All designers</option>
-	<option value="pradaMen">Prada</option>
-	<option value="15">Gucci</option>
-	<option value="11">Hogan</option>
-	<option value="35">Ferragamo </option>
-	<option value="10">Tod's</option>
-	<option value="9">Miu Miu</option>
-	<option value="34">Dolce &amp; Gabbana</option>
-	<option value="67">Y3 by Yamamoto</option>
-	<option value="47">Camper</option>
-	<option value="83">DSquared</option>
-	<option value="15">John Richmond</option>
-	<option value="6">Pirelli sport</option>
-	<option value="2">Cesare Paciotti</option>
-	<option value="69">Dirk Bikkembergs</option>
-	<option value="86">Church's</option>
-  </select><br><br>
-<strong> from: $</strong> <input class="rangePrice" type="text" name="inf">
-<strong> to: $</strong> <input class="rangePrice" type="text" name="sup">
-<input class="vaiPrice" type="submit" value="Go">
-<input type="hidden" name="lang" value="en">
-</form></li></div></div></ul><hr>
+	<!-- /fine menu sx-->
 		
-<!-- /fine menu sx-->
-
-	<!--<img id="numeri1" src="/imgs/interne/new_interne/numeri1.jpg" alt="e-club card" />-->
-	
-	<div class="menuSx" id="signUp"><!--<img id="numeri1" src="/imgs/interne/new_interne/freccettina.jpg" />-->
+	<div class="menuSx" id="signUp">
 		<div style="float:left;color:#E5F9FF;margin:0 0 0 10px;"><br>
 			<strong style="font-size:12px;">SIGN UP TO KEEP UP!</strong><br>
 			<span style="font-size:9px;">Styledrops Newsletter</span>
@@ -1250,24 +1185,23 @@ var rangeId;
 			  <input type="submit" value="go" id="buttonGo">
 			  <img id="shim" src="/imgs/interne/new_interne/shiim.gif">
 			</form>
-			<!--<form action="http://www2.droplet.it/cgi-bin/dada/mail.cgi" method="GET" target="_blank">
+			<!-- <form action="http://www2.droplet.it/cgi-bin/dada/mail.cgi" method="GET" target="_blank">
 			  <input type="hidden" name="list" value="stylenew" />
 			  <input type="hidden" name="f" value="subscribe" />
 			  <input type="text" name="email" value="email address" id="mailArea" onfocus="this.value='';" />
 			  <input type="submit" value="go" id="buttonGo" />
 			  <img id="shim" src="/imgs/interne/new_interne/shiim.gif" />
-			  </form>-->
+			  </form> -->
 		</div>
 	</div>
-
-	<!--<img id="numeri2" src="/imgs/interne/new_interne/numeri2.jpg" alt="e-club card" />-->
 	
 	<div class="menuSx">
-	<a href="/interne/customers/eclub.php"><!--<img id="numeri1" src="/imgs/interne/new_interne/freccettina.jpg" />--><div style="float:left;color:#E5F9FF;margin:13px 0 10px 10px;"><strong style="font-size:12px;">e-club MEMBERSHIP</strong>
-	</div><br clear="all"><img style="margin:0 0 0 12px;" src="/imgs/interne/new_interne/e-club_card.gif">
-	<div style="position:relative; top:20px; left:100px;"><span style="position:relative; bottom:7px; right:5px; text-decoration:underline;">learn more</span><img src="/imgs/interne/new_interne/go.gif"></div><img src="/imgs/interne/new_interne/footer_colSx.gif"></a></div> 
-
-  </div>
+		<a href="/interne/customers/eclub.php"><div style="float:left;color:#E5F9FF;margin:13px 0 10px 10px;"><strong style="font-size:12px;">e-club MEMBERSHIP</strong>
+		</div><br clear="all"><img style="margin:0 0 0 12px;" src="/imgs/interne/new_interne/e-club_card.gif">
+		<div style="position:relative; top:20px; left:100px;"><span style="position:relative; bottom:7px; right:5px; text-decoration:underline;">learn more</span><img src="/imgs/interne/new_interne/go.gif"></div><img src="/imgs/interne/new_interne/footer_colSx.gif"></a>
+	</div>
+	
+  </ul></div>
   <hr>
   <script type="text/javascript">
   <!--
@@ -1278,43 +1212,47 @@ var rangeId;
 	
 	<div class="content" id="middleContent">
 		<h1 id="titCust">Customer help pages</h1>
-		<div class="boxAzzurriSopra">
-	<p class="titoloFoot" style="color:#1C4958;font-weight:200;">ORDERING INFORMATIONS</p>
-	
-	<p class="parFoot">
-		<a href="/interne/customers/order.php">&gt; How to place online orders</a><br>
-		<a href="/interne/customers/payments.php">&gt; Methods of payment</a><br>
-		<a href="/interne/customers/shipping.php">&gt; Shipping &amp; Handling</a><br>
-		<a href="/interne/customers/charts.php">&gt; Sizes Charts</a><br>
-		<a href="/interne/customers/warranty.php">&gt; Warranty on Products</a><br>
-		<a href="/interne/customers/faxorder.pdf" target="_blank">&gt; Fax Orders (download .pdf)</a>
-	</p>
+		<div style="height:130px;">
+    <div class="boxAzzurriSopra">
+    	<p class="titoloFoot" style="color:#1C4958;font-weight:200;">ORDERING INFORMATIONS</p>
+    	
+    	<p class="parFoot">
+    		<a href="/interne/customers/order.php">&gt; How to place online orders</a><br>
+    		<a href="/interne/customers/payments.php">&gt; Methods of payment</a><br>
+    		<a href="/interne/customers/shipping.php">&gt; Shipping &amp; Handling</a><br>
+    		<a href="/interne/customers/charts.php">&gt; Sizes Charts</a><br>
+    		<a href="/interne/customers/warranty.php">&gt; Warranty on Products</a><br>
+    		<a href="/interne/customers/faxorder.pdf" target="_blank">&gt; Fax Orders (download .pdf)</a>
+    	</p>
+    </div>
+    
+    <div class="boxAzzurriSopra">
+    	<p class="titoloFoot" style="color:#1C4958;font-weight:200;">OUR POLICIES<br style="clear:left"></p>
+    
+    	<p class="parFoot">
+    		<a href="/interne/customers/credo.php">&gt; Our credo &amp; guarantee</a><br>
+    		<a href="/interne/customers/returns.php">&gt; Returns &amp; exchanges</a><br>
+    		<a href="/interne/customers/secure.php">&gt; Secure shopping</a><br>
+    		<a href="/interne/customers/privacy.php">&gt; Privacy policy</a><br>
+    		<a href="/interne/customers/email.php">&gt; E-mail privacy</a><br>
+    		<a href="/interne/customers/browser.php">&gt; Browser requirements &amp; cookies</a>
+    	</p>
+    </div>
+    
+    <div class="boxAzzurriSopra">
+    	<p class="titoloFoot" style="color:#1C4958;font-weight:200;border-right:0;">SPECIAL FEATURES</p>
+    
+    	<p class="parFoot" style="color:#000;border-right:0">
+    		<a href="/interne/customers/status.php">&gt; Check your order status</a><br>
+    		<a href="/interne/customers/specialdiscounts.php">&gt; Special Discounts</a><br>
+    		<a href="/interne/customers/giftorders.php">&gt; Gift Orders &amp; Corprate Gifts</a><br>
+    		<!--<a href="/interne/customers/b2b.shtml">&gt; Business to Business</a><br />-->
+    		<a href="/interne/customers/colors.php">&gt; Color Charts</a><br><br><br>
+    	</p>
+    </div>
+    <br clear="all">
 </div>
 
-<div class="boxAzzurriSopra">
-	<p class="titoloFoot" style="color:#1C4958;font-weight:200;">OUR POLICIES<br style="clear:left"></p>
-
-	<p class="parFoot">
-		<a href="/interne/customers/credo.php">&gt; Our credo &amp; guarantee</a><br>
-		<a href="/interne/customers/returns.php">&gt; Returns &amp; exchanges</a><br>
-		<a href="/interne/customers/secure.php">&gt; Secure shopping</a><br>
-		<a href="/interne/customers/privacy.php">&gt; Privacy policy</a><br>
-		<a href="/interne/customers/email.php">&gt; E-mail privacy</a><br>
-		<a href="/interne/customers/browser.php">&gt; Browser requirements &amp; cookies</a>
-	</p>
-</div>
-
-<div class="boxAzzurriSopra">
-	<p class="titoloFoot" style="color:#1C4958;font-weight:200;border-right:0;">SPECIAL FEATURES</p>
-
-	<p class="parFoot" style="color:#000;border-right:0">
-		<a href="/interne/customers/status.php">&gt; Check your order status</a><br>
-		<a href="/interne/customers/specialdiscounts.php">&gt; Special Discounts</a><br>
-		<a href="/interne/customers/giftorders.php">&gt; Gift Orders &amp; Corprate Gifts</a><br>
-		<!--<a href="/interne/customers/b2b.shtml">&gt; Business to Business</a><br />-->
-		<a href="/interne/customers/colors.php">&gt; Color Charts</a><br><br><br>
-	</p>
-</div>
 		
 		
 			<div id="titCust2">About us</div>
@@ -1409,7 +1347,7 @@ var rangeId;
             <map name="Map">
               <area shape="rect" coords="4,8,66,48" href="https://usa.visa.com/personal/security/vbv/">
               <area shape="rect" coords="5,49,64,76" href="http://www.mastercardmerchant.com/securecode/faqs.html">
-              <area shape="rect" coords="68,50,130,77" href="http://www.paypal.com">
+              <!-- <area shape="rect" coords="68,50,130,77" href="http://www.paypal.com"> -->
             </map>
 	  </div>
 	</div>
