@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209224357id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the activewin.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527205715id_/http%3A//www.activewin.com/terms/privacy.shtml) for the most accurate reproduction.*
 
 # ActiveWin: Privacy Policy
 
@@ -158,19 +158,17 @@ Drivers
   
 **Xbox/Games**  
   
-Halo 3   
-  
-Call of Juarez  
+Fallout 3   
   
 **Applications**  
   
-Adobe Illustrator CS3  
+Windows Server 2008 R2  
+  
+Windows 7  
   
 **Hardware**  
   
-Athlon 64 X2 6000+  
-  
-Acer Ferrari 5000  
+iPod Touch 32GB  
   
 ** Latest Interviews**  
   
@@ -201,8 +199,8 @@ Site Search
 Awards  
   
 ** Credits**  
-©1997/2007, Active Network, Inc. All Rights Reserved.  
-Layout, & Design by Byron Hinson. Content written by the Active Network team. Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
+©1997-2010, Active Network, Inc. All Rights Reserved.  
+Please click [here](http://www.activewin.com/terms/index.shtml) for full terms of use and restrictions or read our [Privacy Statement](http://www.activewin.com/terms/privacy.shtml).  
   
 [ ](http://www.amazon.com/exec/obidos/redirect-home/activedvd-20)
 
@@ -347,6 +345,10 @@ Data management requests are administered in an orderly manner to the extent fea
 **YOUR CONSENT TO THIS POLICY  
 **By using our Site, you agree to this Policy. This document supersedes any prior communication on this topic and reflects the entire and exclusive Privacy Policy for this Site. We may change our Policy by posting a new version of it on our Site at any time.
 
+**ADVERTISING**
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here.](http://www.networkadvertising.org/managing/opt_out.asp)
+
 **LEGAL STUFF**  
 We are posting this Policy to be a good web citizen. This Site operates in good faith, but on an AS-IS, AS-AVAILABLE basis. ANY WARRANTIES OF ACCURACY, QUALITY, TITLE, FITNESS OR MERCHANTABILITY ARE DISCLAIMED. WE ARE NOT LIABLE FOR DIRECT, INDIRECT, INCIDENTAL OR CONSEQUENTIAL DAMAGES. WE ARE NOT LIABLE FOR EVENTS BEYOND OUR DIRECT CONTROL.
 
@@ -356,6 +358,6 @@ Please read our full Terms of Use at: <http://www.activewin.com/terms/index.shtm
 
 **IF YOU HAVE A PRIVACY QUESTION**
 
-If you have a question about this Policy or about our privacy practices, please email: Robert Stein at [bobstein@activewin.com](mailto:bobstein@activewin.com?). Or write: Active Network, Inc., Attn: Robert Stein, 333 Technology Drive, Suite 260, Canonsburg, PA 15317
+If you have a question about this Policy or about our privacy practices, please email: Robert Stein at [bobstein@activewin.com](mailto:bobstein@activewin.com?). 
 
 |   |  |  
