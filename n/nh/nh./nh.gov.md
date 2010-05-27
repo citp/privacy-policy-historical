@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2009-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090725071717id_/http%3A//www.nh.gov/disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nh.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527090931id_/http%3A//www.nh.gov/disclaimer.html) for the most accurate reproduction.*
 
-# NH.gov - The Official Web Site of New Hampshire State Government
+# NH.gov - Privacy Statement
 
 Policy Statement
 
