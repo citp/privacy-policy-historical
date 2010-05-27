@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016084851id_/http%3A//www.azed.gov/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the azed.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527231951id_/http%3A//azed.gov/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Statement
 
