@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225190011id_/http%3A//www.aiuonline.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiuonline.edu privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528015840id_/http%3A//www.aiuonline.edu/privacy.aspx) for the most accurate reproduction.*
 
 # American InterContinental University
 
@@ -51,3 +51,16 @@ Career Education Corporation
 Suite 600  
 Hoffman Estates, Illinois 60195  
 Phone: 847-781-3600
+
+  
+
+
+## Request More Info!
+
+Tell us more about yourself and specify your campus and program of interest. An admissions representative will contact you to provide you with more information. 
+
+*Required Fields
+
+###  Step 2 of 2
+
+*How did you hear about us?
