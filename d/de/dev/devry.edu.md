@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619211921id_/http%3A//www.devry.edu/devry_privacy_policy.jsp%3FWT.ac%3Dftr-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devry.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527120508id_/http%3A//www.devry.edu/devry_privacy_policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | DeVry University
 
@@ -37,6 +37,7 @@ If you have any questions regarding this privacy policy or would like to have yo
 Should you have other questions or concerns about this privacy policy, contact us at:
 
 DeVry Inc.  
-One Tower Lane  
-Oakbrook Terrace, IL 60181  
+Highland Landmark V  
+3005 Highland Parkway  
+Downers Grove, IL 60515-5683  
 800/73-DEVRY (800/733-3879)
