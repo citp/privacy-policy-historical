@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218162440id_/http%3A//www.iibuy.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iibuy.com.au privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527103015id_/http%3A//www.iibuy.com.au/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice : Online Shopping @ iiBuy.com.au!, The Ultimate Bargain Online
 
@@ -33,7 +33,6 @@ The information you can get easily from
 
 iiBuy.com.au containing the latest order information, identifiable personal information (including name, email address, password, directory inquiries etc.), payment settings (including credit card details) and so on.
 
-[](http://www.iibuy.com.au/)
-
-|   
----|---|---
+[](http://www.iibuy.com.au/index.php?main_page=index)  
+  
+---|---
