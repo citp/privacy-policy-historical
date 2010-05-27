@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505134812id_/http%3A//www.wagner.edu/about_wagner/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wagner.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527231003id_/http%3A//www.wagner.edu/about_wagner/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Statement for Wagner College's Web Site | About Wagner
+# Privacy Statement for Wagner College's Web Site | Wagner is...
 
 This website domain, wagner.edu, is owned by and is the responsibility of Wagner College. The following policies apply to wagner.edu and all other web sites/pages owned and operated by Wagner College. The use of College web sites is governed by the College’s Web Policy. 
 
