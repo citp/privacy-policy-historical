@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219032735id_/http%3A//www.sae.edu/en-gb/content/47/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sae.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085822id_/http%3A//www.sae.edu/en-gb/content/47/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - SAE Institute
 
@@ -21,3 +21,5 @@ Please note we may disclose your personal information if required to do so by la
 We will take reasonable steps to protect your personal information collected using this Site from unauthorized access, modification, disclosure, loss or misuse.
 
 Please also be aware that personal information disclosed in publicly accessible online forums (for example a message board or student chat room) may be collected and used by other parties and we encourage you to exercise caution before disclosing personal information on such forums.
+
+[Study Abroad](http://www.sae.edu/en-gb/content/4068/Study_abroad_with_SAE)
