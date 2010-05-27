@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228093722id_/http%3A//www.unco.edu/generalcounsel/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unco.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527100139id_/http%3A//www.unco.edu/generalcounsel/privacy.htm) for the most accurate reproduction.*
 
 # Internet Privacy Policy at the University of Northern Colorado
 
@@ -67,4 +67,4 @@ If you have any questions regarding the Internet Privacy Statement or your perso
 
 ### Other Policies
 
-See UNC Computer, Internet (Web) and Electronic Communications Procedures at <http://www.unco.edu/it/aboutIT/computingproceduresindex.htm>
+See UNC Computer, Internet (Web) and Electronic Communications Procedures at <http://www.unco.edu/it/Policies/computingprocedures.html>
