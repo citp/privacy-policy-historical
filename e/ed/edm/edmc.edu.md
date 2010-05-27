@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2008-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080908092944id_/http%3A//www.edmc.edu/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmc.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527090430id_/http%3A//www.edmc.edu/Privacy.aspx) for the most accurate reproduction.*
 
 # Education Management Corporation - Privacy Policy
 
