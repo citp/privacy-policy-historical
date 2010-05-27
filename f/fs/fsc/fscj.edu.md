@@ -1,7 +1,15 @@
-> *The following text is extracted and transformed from the fscj.edu privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217035131id_/http%3A//fscj.edu/district/Policies/Procedures/district-internet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fscj.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527090916id_/http%3A//www.fscj.edu/district/Policies/Procedures/district-internet-privacy-policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
+#### E-mail Privacy Policy  
+  
+---  
+  
+Chapter 2006-232, Laws of Florida, requires Florida State College at Jacksonville to post the following notice:
+
+Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to Florida State College at Jacksonville. Instead, make contact by phone or in writing.  
+  
 Thank you for visiting Florida State College at Jacksonville. Your privacy is very important to us. Simply stated, our policy is not to collect personal information about you when you visit our Web site unless you affirmatively choose to make such information available to us.
 
 When you visit our Web site, our Web server automatically recognizes only the Internet domain and IP address from which you accessed our Web site. This information does not result in the identification of your personal e-mail address or other personal information.
@@ -12,6 +20,8 @@ If you choose to share personal information with us — by sending us a message,
 
 If we are required to disclose information about you by law, we will make every effort to notify you of the disclosure in advance.
 
-All internal systems involved with the collection and retention of personal information are maintained by Florida State College’s Information Technology Department. The architecture and support of these systems follow industry best practices in regards to security and patch management.
+All internal systems involved with the collection and retention of personal information are maintained by Florida State College at Jacksonville’s information technology department. The architecture and support of these systems follow industry best practices in regards to security and patch management.
 
-If you have questions about our privacy policy, or have ideas about improving our policy, please e-mail the [Learner Support Center](mailto:justask@fscj.edu) , or you can reach us by telephone at (904) 632-3151.
+If you have questions about our privacy policy, or have ideas about improving our policy, please e-mail the [Welcome Center](mailto:helpdesk@fscj.edu), or you can reach us by telephone at (904) 632-3151.
+
+For information concerning privacy for students, faculty and staff, please see the [College’s Acceptable Use Policy](http://www.fscj.edu/mydegree/fscj-student-resources/Student-Computing/Useragreement.html).
