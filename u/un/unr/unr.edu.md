@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203095443id_/http%3A//www.unr.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unr.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | University of Nevada, Reno
 
+##  Privacy Statement
+
 The following policy describes the information gathering and dissemination practices for the University of Nevada, Reno's main website ([www.unr.edu](http://www.unr.edu/)), all sites in the unr.edu domain, and other affiliated University websites/domains:
 
-## Information gathering
+###  Information gathering
 
 The University of Nevada, Reno logs server information to identify: (1) usage levels of specific areas of our site; (2) origin of our site's audience; and, (3) browser and operating system of site visitors. We do not associate IP addresses to individuals. As such, visitor sessions will be tracked, but visitors will remain anonymous.
 
@@ -26,15 +28,15 @@ The following information may be collected for this analysis including, but not 
 
 Other than information provided by visitors, the University of Nevada, Reno Web site does not collect personally identifiable information (e.g., name, email, address.)
 
-## Cookies
+###  Cookies
 
 University of Nevada, Reno Web sites may use cookies to track the date of last visit to a specific page or to identify a session at a particular Web site. A cookie file contains unique information the Web site can use to enhance the user's experience and to make navigation of the site easier.
 
-## Information Provided Voluntarily
+###  Information Provided Voluntarily
 
 In the course of using University of Nevada, Reno's Web site, you may choose to provide information to us through Web forms, e-mail or other electronic means. Any personally identifiable information you submit will be used only for the purpose(s) indicated. Requests for information will be directed to the appropriate staff to respond to the request, and may be recorded to help us improve our site to better respond to similar requests.
 
-### Use of Information
+###  Use of Information
 
 The University of Nevada, Reno Web Management Team and maintainers of university sites use the information described above to tailor content to visitors; ensure broad access to our site, regardless of software; monitor site performance and generate aggregate statistical reports. At no time do we disclose site usage by individual IP addresses.
 
@@ -42,18 +44,16 @@ The University of Nevada, Reno will not sell, exchange or otherwise distribute y
 
 Please contact the person listed on the specific page or listed below, with questions or concerns regarding the use of personally identifiable information.
 
-## Security
+###  Security
 
 This site has security measures in place to protect the loss, misuse and alteration of data collected. University web sites are expected to adopt security measures appropriate for their data collection practices.
 
-## External links
+###  External links
 
 University of Nevada, Reno Web site gateway contains links to sites outside the www.unr.edu domain. The university is not responsible for the privacy practices of these Web sites.
 
-## Student Privacy Policy
+###  Student Privacy Policy
 
-### [Directory Information and the Family Educational Rights and Privacy Act](http://www.ss.unr.edu/records/ferpa.asp)
+[Directory Information and the Family Educational Rights and Privacy Act](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy/students/)
 
-## [Protecting Your Data](http://www.unr.edu/yourdata/)
-
-_Adopted September 21, 2001 -_ _Updated October 14, 2008_
+[Protecting Your Data](https://web.archive.org/web/20100527091646id_/http%3A//unr.edu/general-information/privacy/protecting-data/)
