@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221024228id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the congress.org privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527104556id_/http%3A//www.economistgroup.com/results_and_governance/governance/Privacy) for the most accurate reproduction.*
 
 # Privacy | Economist Group
 
@@ -12,10 +12,9 @@
 
   * The Economist
   * Other Economist-branded businesses, such as Economist Intelligence Unit, Economist Conferences and Economist Corporate Network
-  * CFO
   * European Voice
   * EuroFinance Conferences
-  * CQ-Roll Call Group (including Briefing Room, Capitol Advantage, Congressional Quarterly, congressNow, Congress.org, GalleryWatch, Knowlegis and Roll Call)
+  * CQ-Roll Call Group (including Capitol Advantage, Congressional Quarterly and Roll Call)
 
 
 
@@ -31,7 +30,7 @@ This information is collected to help us:
 
   * fulfil your order
   * manage your registration preferences
-  * send you renewal notifications
+  * send you renewal notifications and/or service notifications
   * personalise web content and advertising based on your personal characteristics or preferences
   * ensure, as far as is practical, that our websites are compatible with the browsers and operating systems used by most of our visitors
   * conduct customer satisfaction surveys
