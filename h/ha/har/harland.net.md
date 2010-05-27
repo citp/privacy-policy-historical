@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413152138id_/http%3A//harlandclarke.com/main/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harland.net privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527190634id_/http%3A//harlandclarke.com/main/privacy) for the most accurate reproduction.*
 
-# Harland Clarke | Privacy & Security
+# Privacy & Security | Harland Clarke
 
 Harland Clarke does not capture and store any personal information about individuals who access this website, except where you voluntarily choose to give us your personal details via the online e-mail form orif you are an employee entering the Employee area of the site. The personal information you give us is used exclusively by Harland Clarke for providing you with current and future information. We will not pass any of the personal data that you have provided us to any outside organizations and/or individuals, except with your express consent.
 
@@ -17,8 +17,16 @@ Harland Clarke's Information Security Program (ISP) is based on the standards id
   * Monitoring - We monitor for security events with Intrusion Detection and respond with our Security Threat Response Team (START).
   * Annual Auditing - Our audit plan includes an annual review of our control measures, penetration testing, and an annual certification of our perimeter and enterprise to ensure Harland Clarke is meeting or exceeding essential security best practices.
 
-  
 
+
+Certifications  
+We are registered with the following organizations:
+
+Cybertrust® – Our network has been certified by Cybertrust (formerly TruSecure) since 2002. For information on Cybertrust certification visit their website at [www.cybertrust.com](http://www.cybertrust.com/).
+
+[](http://harlandclarke.com/privacy) [](http://harlandclarke.com/privacy) [](http://harlandclarke.com/privacy)
+
+  [](http://harlandclarke.com/privacy)        [](http://harlandclarke.com/privacy)       [](http://harlandclarke.com/privacy)
 
 ### Web browsing "cookies"
 
