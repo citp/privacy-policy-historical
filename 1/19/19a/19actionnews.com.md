@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 19actionnews.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123032033id_/http%3A//www.19actionnews.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 19actionnews.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527113705id_/http%3A//www.19actionnews.com/global/story.asp%3Fs%3D8774923) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - 19 Action News|Cleveland, OH|Breaking News, Weather, Exclusives
 
 **This Website's Privacy Policy**
 
