@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217000614id_/http%3A//www.russianeuro.com/Privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the russianeuro.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528010042id_/http%3A//www.russianeuro.com/Privacy.cfm) for the most accurate reproduction.*
 
 # RussianEuro.com | Privacy Policy
 
