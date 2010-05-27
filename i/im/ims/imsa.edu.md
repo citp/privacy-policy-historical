@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912110614id_/http%3A//www.imsa.edu/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imsa.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527095957id_/https%3A//www3.imsa.edu/site/privacy) for the most accurate reproduction.*
 
-# IMSA®: Privacy Policy for Websites Under Domain imsa.edu
+# Privacy Policy for Websites Under Domain imsa.edu | Illinois Mathematics and Science Academy®
 
 ## Preamble
 
@@ -8,19 +8,19 @@ Pursuant to the fundamental philosophy of the American constitutional form of go
 
 ## Sharing of Information
 
-Information collected and received via any website in the domain imsa.edu is for the sole use of the Illinois Mathematics and Science Academy® ("IMSA") and the organizations with which it is formally affiliated. Submitted information will not be otherwise shared without consent. Affiliated organizations include, in part:
+Information collected and received via any website in the domain imsa.edu is for the sole use of the Illinois Mathematics and Science Academy® (IMSA) and the organizations with which it is formally affiliated. Submitted information will not be otherwise shared without consent. Affiliated organizations include, in part:
 
   * student organizations at IMSA
-  * the [IMSA Fund for the Advancement of Education](https://web.archive.org/giving/),
+  * the [IMSA Fund for the Advancement of Education](https://www3.imsa.edu/giving),
   * the [IMSA Parents' Association](http://parents.imsa.edu/),
-  * the [IMSA Alumni Association](http://www.iaa.org/),
-  * and educational institutions with which [The Center @ IMSA](https://web.archive.org/programs/) works.
+  * the [IMSA Alumni Association](http://www.imsaalumni.org/),
+  * and educational institutions with which [Professional Field Services](https://www3.imsa.edu/programs) works.
 
 
 
 ## Personal Information and Choice
 
-"Personal information" is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, phone number, drivers license number and social security number. A domain name or Internet Protocol address is not considered personal information. We collect no personal information about you unless you voluntarily participate in an activity that asks for information (e.g., sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the Academy web site. If personal information is requested on the web site or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
+Personal information is information about an individual that is readily identifiable to that specific individual. Personal information includes personal identifiers such as an individual's name, address, phone number, drivers license number and social security number. A domain name or Internet Protocol address is not considered personal information. We collect no personal information about you unless you voluntarily participate in an activity that asks for information (e.g., sending an e-mail or participating in a survey). If you choose not to participate in these activities, your choice will in no way affect your ability to use any other feature of the Academy web site. If personal information is requested on the web site or volunteered by the user, State law and the federal Privacy Act of 1974 may protect it. However, this information is a public record once you provide it, and may be subject to public inspection and copying if not protected by federal or state law.
 
 ## Webserver Logs
 
@@ -47,3 +47,8 @@ The Illinois Mathematics and Science Academy® uses cookies to:
 ## Link Disclaimer
 
 The Illinois Mathematics and Science Academy® has links to other websites. These include links to web sites operated by other government agencies, nonprofit organizations and private businesses. When you link to another site, you are no longer on a site covered by this Privacy Notice. When you link to another web site, you are subject to the privacy policy of that new site.
+
+1500 W. Sullivan Rd., Aurora, IL 60506-1000. Tel: 630-907-5000. Fax: 630-907-5976.  
+Copyright ©1993-2010 IMSA. All rights reserved. Drupal CMS brought to you by IT Engineering.
+
+[](http://www.imsa.edu/)
