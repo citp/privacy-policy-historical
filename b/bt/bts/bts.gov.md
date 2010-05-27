@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231072132id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bts.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527083755id_/http%3A//www.rita.dot.gov/privacy.html) for the most accurate reproduction.*
 
 # RITA | Privacy Policy
-
-| 
 
 Thank you for visiting the U.S. Department of Transportation (DOT), Research and Innovative Technology Administration (RITA) website. We are committed to respecting your right to privacy and will protect it when you visit our website. 
 
@@ -118,5 +116,3 @@ Washington, DC 20590
 202-366-5498 (tel)   
 202-366-3671 (fax)  
 [robert.monniere@dot.gov](mailto:robert.monniere@dot.gov)
-
-| 
