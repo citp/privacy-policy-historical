@@ -1,0 +1,202 @@
+<!--The following is the downloaded HTML source of the pringit.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527155740id_/http%3A//www.pringit.com/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="IE=7">
+<!--[if IE]>
+<style type="text/css">
+select, option { behavior: url("/media/js/disable.htc"); }
+</style>
+<![endif]-->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="alexaVerifyID" content="OSnj6zrqVugMquFKQWdN8xo0BYE">
+<title>Privacy Policy  - Pring!</title>
+<script type="text/javascript" src="/media/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/media/js/general.js"></script>
+
+
+
+
+<link rel="SHORTCUT ICON" href="/media/images/favicon.ico">
+<link href="/media/css/global.css" rel="stylesheet" type="text/css">
+
+<script language="javascript">
+    function set_redirect(form_id)
+    {
+        status_btn = document.getElementById('status_update_btn');
+        status_btn.disabled = true;        
+        frm_action = $("#" + form_id).attr("action");
+        frm_action = frm_action + "?redirect_to=" + escape(location.href);
+        $("#" + form_id).attr("action", frm_action);
+
+        //erasing previous cookie
+        set_cookie("webping", "", -5);
+        status_submitted = true;
+        return true;
+    }
+
+    function update_status(){
+                
+        webping = $(this).val();
+        update_length = subtract_url_length(webping);
+
+        
+        $("#status_limit").html(140-update_length);
+
+        //first earasing previous cookie
+        set_cookie("webping", webping, -5);
+
+        //now creating new one
+        set_cookie("webping", webping, 5);
+
+    }
+
+    function view_status()
+    {
+        $("#updater_container").dialog({
+                                        modal: true,
+                                        height: 415,
+                                        width: 699,
+                                        autoResize: false,
+                                        overlay: {
+                                        opacity: 0.5,
+                                        background: "#D8D8D8"
+                                        }
+                                        });
+
+        $("#updater_container").show('fast', function() {
+            $('#webping').focus();
+            $('#webping').select();
+            $("#status_limit").html(140-subtract_url_length($('#webping').val()));
+
+           });
+    }
+
+    $(document).ready(function()
+        {
+            $("#lnk_barminmize").click(
+                                        function ()
+                                        {
+                                            $("#bar").hide("slow");
+                                            $("#bar01").show("slow");
+                                            set_cookie("webping_status", "minimize", 5);                                            
+                                            return false;
+                                        }
+                                        );
+            $("#lnk_barmaximize").click(
+                                        function ()
+                                        {
+                                            $("#bar").show("slow");
+                                            $("#bar01").hide("slow");
+                                            set_cookie("webping_status", "maximize", 5);                                            
+                                            return false;                                            
+                                        }
+                                        );
+
+            $("#webping").attr("value", get_cookie("webping"));
+
+            $("#dialog_close").click(
+                function()
+                {
+                    $("#updater_container").dialog('close');
+                    return false;
+                }
+            );
+            
+            $("#webping").keyup(update_status);
+        }
+    );
+</script>
+</head>
+
+<body class="bg">
+	<div id="container">
+		<div id="tn_Container">
+		        
+			<div id="top_navigation">
+				<div class="tn_left">
+					<ul>
+						<li><a href="/">Home</a></li>
+                        
+						<li><a href="/public">Public Prings</a></li>
+                                                <li><a href="/tour/">Tour</a></li>
+                                                <li><a href="/prings/search/">Search</a></li>
+					</ul>
+				</div>
+		
+				<div class="tn_right">
+					<ul>
+						
+						<li><a href="/?view_form=login">Login</a></li>
+                        <li><a href="/">Register</a></li>
+						
+					</ul>
+				</div>
+			</div>
+		
+		</div>
+
+        
+            <div id="content">
+                <div id="Left_area">
+                    <div id="logo"><a href="/"><img src="/media/images/logo.png"></a></div>
+                    
+                    
+                </div>
+
+                <div id="Right_area">
+                    
+    <div id="Rbox">
+        <div id="Rb_head">
+            <h1> Privacy Policy </h1>
+		</div>
+        <div id="Rb_borderContainer">
+            <div id="flat_mid">
+                <h1>Pring Privacy Policy</h1>
+<p>Pring provides this Privacy Policy to inform users of our policies and procedures regarding the collection, use and disclosure of personally identifiable information received from users of this website, located at <a href="../../../../" target="_blank">www.pringit.com</a> (“Site”) or collected through our social networking service, including via SMS, WAP and Instant Messaging (“Service”). This Privacy Policy may be updated from time to time for any reason; and each updated version will apply to information already collected with retrospective effect, as well as information to be collected in the same manner.</p>
+<p>By using our Site you are consenting to our processing of your information as set forth in this Privacy Policy now and as amended by us. “Processing” means using cookies on a computer or using or touching information in any way, including, but not limited to, collecting, storing, deleting, using, combining and disclosing information, all of which activities will take place in Pakistan. If you reside outside Pakistan your personally identifiable information will be transferred to Pakistan, and processed and stored there under Pakistan privacy standards. By visiting our Site and providing information to us, you consent to such transfer to, and processing in, Pakistan.</p>
+<p>You also understand and agree that by default all information from the time you register to Pring service is public information, and all information remains public until such time, and to such extent, you change your personal privacy settings.</p>
+<p>If you have any questions or comments about this Privacy Policy or our use of your personally identifiable information, please contact us at <a href="mailto:privacy@pringit.com" target="_blank">privacy@pringit.com</a></p>
+<p>For more details, please see our <a href="http://www.pringit.com/pages/tos/" target="_blank">Terms of Service</a>.</p>
+			</div>
+			<div id="Rb_bottom"><img src="/media/images/RB_bottom.gif"></div>
+		</div>
+	</div>
+
+                </div>
+            </div>
+        
+
+        
+        
+		<div id="footer">
+		
+			<ul>
+				<li>© 2010 Pring</li>
+				<li><a href="/pages/about_us/">About Us</a></li>
+				<li><a href="/pages/help/">Help</a></li> 
+				<li><a href="/pages/faq/">FAQ</a></li>
+				<!--<li><a href="/">Jobs </a></li> -->
+				<li><a href="/pages/tos/">Terms</a></li> 
+				<li><a href="/pages/privacy/">Privacy</a></li> 
+				<li><a href="http://blog.pringit.com/">Blog</a></li> 
+			</ul>
+                        <div class="disclaimer">Pring, e-Business (Pvt) Ltd is not liable for any content. You are responsible for any content posted by you.</div>
+
+		
+		</div>
+	</div>
+	
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-1840038-8");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+
+</body></html>
