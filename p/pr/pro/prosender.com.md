@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209192429id_/http%3A//www.prosender.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosender.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527203911id_/http%3A//www.prosender.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy - MikeFilsaime.com, Inc
+# Privacy Policy - ProSender
 
-[Home](https://web.archive.org/web/20090209192429id_/http%3A//www.prosender.com/index.htm) > [About Us](https://web.archive.org/web/20090209192429id_/http%3A//www.prosender.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20090209192429id_/http%3A//www.prosender.com/privacy-policy.htm)
+[Home](https://web.archive.org/web/20100527203911id_/http%3A//www.prosender.com/index.htm) > [About Us](https://web.archive.org/web/20100527203911id_/http%3A//www.prosender.com/company-overview.htm) > [Privacy Policy](https://web.archive.org/web/20100527203911id_/http%3A//www.prosender.com/privacy-policy.htm)
 
 **This statement discloses the privacy practices of MikeFilsaime.com, Inc/AWeber Systems, Inc.**
 
-Please direct questions regarding this statement to ProSender/AWeber's excellent [Customer Support team](https://web.archive.org/support.htm). 
+Please direct questions regarding this statement to ProSender/AWeber's excellent [Customer Support team](https://web.archive.org/contact-us.htm). 
 
 **Customer Information:** All MikeFilsaime.com, Inc/AWeber Systems, Inc. customer account information is held in strict confidence. We do not sell or share our customer list with any other entities. Customer information such as name, e-mail address, mailing address, phone number, and billing information is collected for the sole purpose of providing services described on this web site. 
 
