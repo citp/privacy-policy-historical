@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219001127id_/http%3A//www.scribd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribd.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528014352id_/http%3A//support.scribd.com/forums/33939/entries/25580) for the most accurate reproduction.*
 
-# Scribd Support Desk :: Privacy policy
+# Support Desk : Privacy policy
 
 ## May 19, 2009
 
@@ -29,7 +29,7 @@ This Privacy Notice is incorporated into and is subject to the Scribd Platform [
 
   * **User-provided Information** : You may provide to Scribd what is generally called “personally identifiable” information (such as your name, email address, postal mailing address, home/mobile telephone number) if you log in to the Scribd Platform, or otherwise use the features and functionality of the Scribd Platform
   * **“Cookies” Information:** When you access the Scribd Platform, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Scribd may use both session cookies and persistent cookies. A session cookie disappears after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Scribd Platform.Persistent cookies can be removed.Please review your web browser “Help” file to learn the proper way to modify your cookie settings.
-  * **“Automatically Collected” Information** : When you access the Scribd Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology.This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique device or user ID, version of software installed, system type, the content and pages that you access on the Scribd Platform, and the dates and times that you visit the Scribd Platform.
+  * **“Automatically Collected” Information** : When you access the Scribd Platform or open one of our HTML emails, we may automatically record certain information from your system by using different types of tracking technology.  This “automatically collected” information may include Internet Protocol address (“IP Address”), a unique device or user ID, version of software installed, system type, the content and pages that you access on the Scribd Platform, the dates and times that you visit the Scribd Platform, and information from your Facebook account that you make publicly available, which is provided to us by Facebook via the Facebook APIs.
 
 
 
@@ -54,7 +54,7 @@ This Privacy Notice is incorporated into and is subject to the Scribd Platform [
 
 ## 4\. Your Choices
 
-You may, of course, decline to share your personally-identifiable information with Scribd, in which case Scribd will not be able to provide to you some of the features and functionality found on the Scribd Platform.You may update, correct, or delete your user information and preferences at any time by following the directions [here](http://scribd.com/people/edit).
+You may, of course, decline to share your personally-identifiable information with Scribd, in which case Scribd will not be able to provide to you some of the features and functionality found on the Scribd Platform.  You may update, correct, or delete your user information and preferences at any time [here](http://scribd.com/account/edit).
 
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections to your information. **YOU ARE RESPONSIBLE FOR MAINTAINING THE SECRECY OF YOUR UNIQUE PASSWORD AND ACCOUNT INFORMATION AT ALL TIMES.**
 
@@ -86,9 +86,7 @@ THE FOLLOWING ARE SOME RESOURCES THAT MAY HELP PARENTS AND LEGAL GUARDIANS IN MO
 
 ## 7\. INTERNATIONAL VISITORS
 
-**FOR USERS VISITING THE SCRIBD PLATFORM FROM THE EUROPEAN ECONOMIC AREA OR OTHER NON-U.S. TERRITORIES, PLEASE NOTE THAT ANY DATA YOU ENTER INTO THE SCRIBD PLATFORM WILL BE TRANSFERRED OUTSIDE THE EUROPEAN ECONOMIC AREA OR SUCH OTHER NON-U.S. TERRITORY FOR USE BY SCRIBD AND ITS AFFILIATES FOR ANY OF THE PURPOSES DESCRIBED HEREIN.IN ADDITION, BECAUSE SCRIBD OPERATES GLOBALLY, WE MAY MAKE INFORMATION WE GATHER AVAILABLE TO WORLDWIDE BUSINESS UNITS AND AFFILIATES. BY PROVIDING ANY DATA ON THE SCRIBD PLATFORM, YOU HEREBY EXPRESSLY CONSENT TO SUCH TRANSFERS OF YOUR DATA TO THE UNITED STATES OR OTHER COUNTRIES.**
-
- **
+FOR USERS VISITING THE SCRIBD PLATFORM FROM THE EUROPEAN ECONOMIC AREA OR OTHER NON-U.S. TERRITORIES, PLEASE NOTE THAT ANY DATA YOU ENTER INTO THE SCRIBD PLATFORM WILL BE TRANSFERRED OUTSIDE THE EUROPEAN ECONOMIC AREA OR SUCH OTHER NON-U.S. TERRITORY FOR USE BY SCRIBD AND ITS AFFILIATES FOR ANY OF THE PURPOSES DESCRIBED HEREIN.IN ADDITION, BECAUSE SCRIBD OPERATES GLOBALLY, WE MAY MAKE INFORMATION WE GATHER AVAILABLE TO WORLDWIDE BUSINESS UNITS AND AFFILIATES. BY PROVIDING ANY DATA ON THE SCRIBD PLATFORM, YOU HEREBY EXPRESSLY CONSENT TO SUCH TRANSFERS OF YOUR DATA TO THE UNITED STATES OR OTHER COUNTRIES.
 
 ## 8\. IN THE EVENT OF MERGER OR SALE
 
@@ -103,5 +101,3 @@ FOR REVISIONS TO THIS PRIVACY NOTICE THAT MAY BE MATERIALLY LESS RESTRICTIVE ON 
 ## 10\. SCRIBD CONTACT INFORMATION
 
 PLEASE CONTACT SCRIBD WITH ANY QUESTIONS OR COMMENTS ABOUT THIS PRIVACY NOTICE, YOUR PERSONAL INFORMATION, AND OUR THIRD-PARTY DISCLOSURE PRACTICES OR YOUR CONSENT CHOICES AT: SCRIBD.COM, 539 BRYANT ST., SUITE 200, SAN FRANCISCO, CA 94107, OR BY EMAIL:  [PRIVACY@SCRIBD.COM](mailto:PRIVACY@SCRIBD.COM). WE WILL RESPOND TO YOUR INQUIRY WITHIN 30 DAYS OF ITS RECEIPT.
-
-**
