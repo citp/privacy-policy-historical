@@ -1,11 +1,12 @@
-<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2009-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091220041828id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bls.gov privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527100101id_/http%3A//www.bls.gov/bls/pss.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
 <title>Privacy and Security Statement</title>
 <!-- ****************************************** Begin META TAGS ********************************************* -->
 	<!-- JQUERY -->
 	<script type="text/javascript" src="/javascripts/jquery.js"></script>
+	<script type="text/javascript" src="/javascripts/jquery-ui-custom.js"></script>
 	<!-- FLASH EMBED JS -->
 	<script type="text/javascript" src="/javascripts/swfobject.js"></script>
 	<!-- FONTSWITCHER JS -->
@@ -21,6 +22,7 @@
 	@import url("/stylesheets/bls_layout.css");
 	@import url("/stylesheets/bls_content.css");
 	@import url("/stylesheets/bls_tables.css");
+	@import url("/stylesheets/jquery-ui-custom.css");
 	-->
 	</style>
 
@@ -52,100 +54,128 @@
 <body>
 <!-- ****************************************** Begin HEADER ************************************************ -->
 	<!--no_index_start-->
+
 <!-- DOL BANNER BEGIN -->
 
-		<a class="skiplink" href="#startcontent">Skip to Content</a>
-		<div id="dol-banner">
-			<div id="dol-seal"><a href="http://www.dol.gov/"><img src="/images/dol/dol_top_banner.gif" alt="DOL Banner" width="529" height="35"></a></div>
+<a class="skiplink" href="#startcontent">Skip to Content</a>
+
+<div id="dol-bar">
+	<div id="dol-bar-content">
+
+		<div id="dol-bar-emblem">
+			<a href="http://www.dol.gov/"><img src="/images/dol/dol_banner.gif" width="370" height="29" alt="US Department of Labor"></a>
 		</div>
-			<div id="dol-search-bar">
-			<div id="dol-search-bar-content">
-				<div id="dol-search-bar-date"><a href="http://www.bls.gov/">www.bls.gov</a></div>
-				<form action="/search/query" style="margin:0; padding:0">
-					<div id="dol-search-bar-search">
 
-						<label for="search-dropdown-form">Search:</label>
-
-						<select name="prefix" id="search-dropdown-form" class="search-dropdown-form">
-							<option value="" selected="selected">All BLS.gov</option>
-							<option value="http://www.bls.gov/news.release/">News Releases</option>
-							<option value="http://www.bls.gov/opub/">All Publications</option>
-							<option value="http://www.bls.gov/oco/"> - Occupational Outlook Handbook</option>
-							<option value="http://www.bls.gov/opub/cwc/"> - Compensation &amp; Working Conditions</option>
-							<option value="http://www.bls.gov/opub/ted/"> - The Editor's Desk</option>
-							<option value="http://www.bls.gov/opub/mlr/"> - Monthly Labor Review</option>
-							<option value="http://www.bls.gov/opub/ooq/"> - Occupational Outlook Quarterly</option>
-							<option value="http://www.bls.gov/k12/"> - Career Information for Kids</option>
-							<option value="http://www.bls.gov/osmr/">Research Papers</option>
-						</select>
-
-						<label for="text_search">for:</label>
-						<input name="query" type="text" id="text_search" class="search-text-form" alt="Search Input">
-						<input name="submit" type="image" id="search-go" style="margin: 0; padding: 0; vertical-align: middle;" value="Submit" src="/images/layout/search_button_small.gif" alt="Search">
-
-					</div>
+		<div id="dol-bar-right">
+			<div id="dol-email">
+			
+				<form name="subsform" action="http://data.bls.gov/cgi-bin/subunsub.pl" method="post">
+						<label for="dol-email-input">Subscribe to <a href="/bls/list.htm">E-mail Updates</a>:</label>
+						<input name="email" type="text" id="dol-email-input" value="Enter E-mail Address" onclick="this.value=''">
+						<input name="list" value="BLSUPDT" type="hidden">
+						<input name="sub" type="submit" value="SUBSCRIBE" id="dol-subscribe-submit">
 				</form>
-				</div>
-			<div class="clearfloat"></div>
+			</div>
+
+			<div id="dol-links">
+				<a href="/bls/topicsaz.htm">A to Z Index</a> &nbsp;|&nbsp;
+				<a href="/bls/sitemap.htm">Site Map</a> &nbsp;|&nbsp;
+				<a href="/dolfaq/blsfaqtoc.htm">FAQs</a> &nbsp;|&nbsp;
+				<a href="/bls/infohome.htm">About BLS</a> &nbsp;|&nbsp;
+				<a href="/bls/contact.htm">Contact Us</a>
+			</div>
+
 		</div>
+	</div>
+	<div class="clearfloat"></div>
+</div>
 
 
 <!-- DOL BANNER END -->
 
+
+
 <!-- WRAPPER TOP BEGIN -->
+
 	<div id="wrapper-outer">
 		<div id="wrapper">
-			<div id="shadow1">
-				<div id="shadow2">
-					<div id="shadow3">
-						<div id="shadow4">
-							<div id="container">
+			<div id="container">
+
 
 <!-- WRAPPER TOP END -->
 
+
+
 <!-- BLS BANNER BEGIN -->
+
 		<div id="top"></div>	
 		<div id="bls-banner">
-			<div id="bls-banner-title"><a href="/"><img src="/images/layout/bls_125_banner.gif" alt="U.S. Bureau of Labor Statistics" width="440" height="40" border="0" id="bls-banner-logo"></a></div>
-			<div id="bls-banner-latest"> <a href="/newsroom/" class="first"><strong>Newsroom</strong></a> |  <a href="/tutorial/"><strong>Tutorials</strong></a> | <a href="/schedule/news_release/"><strong>Release Calendar</strong></a> <a href="/schedule/news_release/"><img src="/images/icons/icon_small_date.gif" alt="Release Calendar" width="18" height="18" style="vertical-align:middle"></a></div>
+			<div id="bls-banner-title"><a href="/home.htm"><img src="/images/layout/bls_125_banner.gif" alt="U.S. Bureau of Labor Statistics" width="440" height="40" border="0" id="bls-banner-logo"></a></div>
+			<div id="bls-banner-search">
+				<form action="/search/query" style="margin:0; padding:0">
+						<label for="bls-banner-search-input">Search:</label>
+						<input name="query" type="text" id="bls-banner-search-input" alt="Search Input">
+						<input name="submit" type="image" id="bls-banner-search-submit" value="Submit" src="/images/layout/search_button_red.gif" alt="Search">
+				</form>
+			</div>
 		</div>
+
 
 <!-- BLS BANNER END -->
 
+
+
 <!-- MAIN NAV BEGIN -->
+
 		<div id="main-nav">
 			<ul>
-				<li><a href="/">Home</a></li>
+				<li><a href="/home.htm">Home</a></li>
 				<li><a href="/bls/proghome.htm">Subject Areas</a></li>
 				<li><a href="/data/">Databases &amp; Tables</a></li>
 				<li><a href="/opub/">Publications</a></li>
 				<li><a href="/bls/newsrels.htm">Economic Releases</a></li>
-				
-			</ul>			<div id="main-nav-text-links"><a class="first" href="/bls/topicsaz.htm">A - Z Index</a> | <a href="/bls/infohome.htm">About BLS</a></div>
-
+			</ul>
+			<div id="main-nav-text-links"><a href="/bls/whatsnew.htm" class="first"><strong>What's New</strong></a> | <a href="/schedule/news_release/"><strong>Release Calendar</strong></a> <a href="/schedule/news_release/"><img src="/images/icons/icon_small_date.gif" alt="Release Calendar" width="14" height="14" style="vertical-align:middle"></a></div>
 		</div>
-		
+
 <!-- MAIN NAV END -->
 
+
+
 <!-- MAIN NAV LEVEL 2 BEGIN -->
+
 <div id="main-nav-level2">
 	<p>&nbsp;</p>
 </div>
 <div class="clearfloat"></div>
+
 <!-- MAIN NAV LEVEL 2 END -->
 
 
 
+
+
+
+
 <!-- SUBDOMAIN TITLE TOP BEGIN -->
+
 <div id="subdomain-title">
 	<h1 style="float:left">
+
 <!-- SUBDOMAIN TITLE TOP END -->
+
 <!-- SUBDOMAIN TITLE BEGIN -->
+
 <!--no_index_end-->
+
 BLS Information
+
 <!--no_index_start-->
+
 <!-- SUBDOMAIN TITLE END -->
+
 <!-- SUBDOMAIN TITLE MIDDLE BEGIN -->
+
 		</h1>
 		<div class="article-tools-box" style="margin-right: 8px;">
 			<div id="fontpopup">
@@ -154,26 +184,38 @@ BLS Information
 			</div>
 		</div>
 
+
 <!-- SUBDOMAIN TITLE MIDDLE END -->
 
+
+
 <!-- SUBDOMAIN TITLE BOTTOM BEGIN -->
+
 
 
 	</div> <!-- End Subdomain Title Div -->
 	<div id="subdomain-title-border"></div>
 
+
 <!-- SUBDOMAIN TITLE BOTTOM END -->
 
+
+
 <!-- 2COL LAYOUT COL1 BEGIN -->	
+
 <div class="clearfloat" id="startcontent"></div>
 <table id="main-content-table">
 	<tbody><tr>
 		<td id="secondary-nav-td">
 			<div id="secondary-nav">
 
+
 <!-- 2COL LAYOUT COL1 END -->
 
+
+
 <!-- SECONDARY NAV BEGIN -->		
+
 <div class="secondary-nav">
 	<ul class="level1">
 
@@ -186,7 +228,7 @@ BLS Information
 					<li><a href="/mxp/">Import/Export Price Indexes</a></li>
 					<li><a href="/ncs/ect/">Employment Cost Index</a></li>
 					<li><a href="/bls/escalation.htm">Contract Escalation</a></li>
-					<li><a href="/fls/availability.htm#CPI">International Consumer Price Indexes</a></li>
+					<li><a href="/fls/#CPI">International Consumer Price Indexes</a></li>
 					<li><a href="/pir/">Price Index Research</a></li>
 					<li><a href="/bls/inflation.htm">INFLATION &amp; PRICES OVERVIEW</a></li>
 			</ul>
@@ -207,7 +249,7 @@ BLS Information
 			<ul class="level2">
 					<li><a href="/cps/">National Unemployment Rate </a></li>
 					<li><a href="/lau/">State and Local Unemployment Rates </a></li>
-					<li><a href="/fls/availability.htm#LF">International Unemployment Rates</a></li>
+					<li><a href="/fls/#laborforce">International Unemployment Rates</a></li>
 					<li><a href="/mls/">Mass Layoffs </a></li>
 					<li><a href="/ers/">Unemployment Research </a></li>
 					<li><a href="/bls/unemployment.htm">UNEMPLOYMENT OVERVIEW</a></li>
@@ -226,7 +268,7 @@ BLS Information
 				<li><a href="/oes/">Employment by Occupation </a></li>
 				<li><a href="/nls/">Work Experience Over Time </a></li>
 				<li><a href="/bdm/">Business Employment Dynamics </a></li>
-				<li><a href="/fls/availability.htm#LF">International Employment Comparisons</a></li>
+				<li><a href="/fls/#laborforce">International Employment Comparisons</a></li>
 				<li><a href="/ers/">Employment Research</a></li>
 				<li><a href="/bls/employment.htm">EMPLOYMENT OVERVIEW</a></li>
 			</ul>
@@ -242,7 +284,7 @@ BLS Information
 					<li><a href="/ces/">Earnings by Industry </a></li>
 					<li><a href="/cew/">County Wages </a></li>
 					<li><a href="/ncs/ebs/"> Benefits </a></li>
-					<li><a href="/fls/availability.htm#COMP">International Compensation Costs</a></li>	
+					<li><a href="/fls/#compensation">International Compensation Costs</a></li>	
 					<li><a href="/crp/">Compensation Research</a></li>
 					<li><a href="/wsp/">Strikes and Lockouts </a></li>					
 					<li><a href="/bls/wages.htm">Pay &amp; Benefits Overview</a></li>
@@ -254,7 +296,7 @@ BLS Information
 				<ul class="level2">
 					<li><a href="/lpc/">Labor Productivity and Costs </a></li>
 					<li><a href="/mfp/">Multifactor Productivity </a></li>
-					<li><a href="/fls/availability.htm#PROD">International Productivity</a></li>
+					<li><a href="/fls/#productivity">International Productivity</a></li>
 					<li><a href="/dpr/">Productivity Research</a></li>
 					<li><a href="/bls/productivity.htm">Productivity Overview</a></li>
 			</ul>
@@ -265,11 +307,11 @@ BLS Information
 			<ul class="level2">
 				<li><a href="/fls/">International Labor Comparisons</a></li>
 				<li><a href="/fls/">Foreign Labor Statistics</a></li>
-				<li><a href="/fls/availability.htm#CPI">International Consumer Price Indexes</a></li>
-				<li><a href="/fls/availability.htm#LF">International Unemployment Rates</a></li>
-				<li><a href="/fls/availability.htm#LF">International Employment Comparisons</a></li>
-				<li><a href="/fls/availability.htm#COMP">International Compensation Costs</a></li>
-				<li><a href="/fls/availability.htm#PROD">International Productivity</a></li>
+				<li><a href="/fls/#CPI">International Consumer Price Indexes</a></li>
+				<li><a href="/fls/#laborforce">International Unemployment Rates</a></li>
+				<li><a href="/fls/#laborforce">International Employment Comparisons</a></li>
+				<li><a href="/fls/#compensation">International Compensation Costs</a></li>
+				<li><a href="/fls/#productivity">International Productivity</a></li>
 				<li><a href="/itc/">International Technical Cooperation</a></li>
 				<li><a href="/mxp/">Import/Export Price Indexes</a></li>				
 				<li><a href="/bls/international.htm">INTERNATIONAL OVERVIEW</a></li>
@@ -320,7 +362,9 @@ BLS Information
 				<li><a href="/iag/home.htm">Industries</a></li>
 			</ul>
 		</li>
+		<li><a href="/bls/announcement.htm">ANNOUNCEMENTS</a></li>
 		<li><a href="/bls/commissionerscorner.htm">COMMISSIONER'S CORNER</a></li>
+		<li><a href="/green/home.htm">GREEN JOBS</a></li>
 		<li><a href="/bls/research.htm">RESEARCH</a></li>
 		<li><a href="/spotlight/">SPOTLIGHT ON STATISTICS</a></li>
 		<li><a href="/k12/index.htm">CAREER INFORMATION FOR KIDS</a></li>
@@ -399,19 +443,28 @@ BLS Information
 </div>
 
 
+
 <!-- SECONDARY NAV END -->
 
+
+
 <!-- 2COL LAYOUT COL2 BEGIN -->
+
 			</div>
 		</td>
 		<td id="main-content-td" class="main-content">
 			<div id="bodytext" class="verdana md">
 			
 
+
 <!-- 2COL LAYOUT COL2 END -->
 
+
+
 <!--no_index_end-->
+
 <!-- MAIN CONTENT BEGIN -->
+
 
 <!-- ****************************************** End HEADER ************************************************** -->
 
@@ -509,116 +562,142 @@ BLS Information
 <!-- ********************************************TRAILER FILES******************************************** -->
 	<!-- TwoColFoot Begin -->
 
+
+
 <!--no_index_start-->
+
 <!-- 2COL LAYOUT COL3 BEGIN -->
+
 			
 			</div>
 		</td>
 	</tr>
 </tbody></table>
 
+
 <!-- 2COL LAYOUT COL3 END -->
+
+
 
 <!-- QUICK LINKS BEGIN -->
 
+<div class="clearfloat"></div>
 <div id="quick-links">
-	<h2>Quick Links</h2>
-	<table border="0" cellpadding="0" cellspacing="0" id="quick-links-table">
+	<table id="quick-links-table">
 		<tbody><tr>
+			<td><img src="/images/layout/quick_links_banner.gif" width="25" height="124" alt="Quick Links"></td>
 			<td valign="top"><h4>Tools</h4>
 				<ul>
-					<li><a href="http://www.bls.gov/eag/">At a Glance Tables</a></li>
-					<li><a href="http://www.bls.gov/bls/newsrels.htm">Economic News Releases</a></li>
-					<li><a href="http://www.bls.gov/data/">Databases &amp; Tables</a></li>
+					<li><a href="/EAG/">Areas at a Glance </a></li>
+					<li><a href="/iag/">Industries at a Glance </a></li>
+					<li><a href="/bls/newsrels.htm">Economic News Releases</a></li>
+					<li><a href="/data/">Databases &amp; Tables</a></li>
 					<li><a href="http://data.bls.gov/map/servlet/map.servlet.MapToolServlet?survey=la">Maps</a></li>
 				</ul></td>
 			<td valign="top"><h4>Calculators</h4>
 				<ul>
-					<li><a href="http://www.bls.gov/data/inflation_calculator.htm">Inflation</a></li>
+					<li><a href="/data/inflation_calculator.htm">Inflation</a></li>
 					<li><a href="http://data.bls.gov/LOCATION_QUOTIENT/servlet/lqc.ControllerServlet">Location Quotient</a> </li>
 					<!--<li><a href="/data/compensation_calculator.htm">National Compensation</a></li>-->
 					<li><a href="http://data.bls.gov/IIRC/">Injury And Illness</a></li>
 				</ul></td>
 			<td valign="top"><h4>Help</h4>
 				<ul>
-					<li><a href="http://www.bls.gov/help/">Help &amp; Tutorials</a></li>
-					<li><a href="http://www.bls.gov/bls/topicsaz.htm">A to Z Index</a></li>
-					<li><a href="http://www.bls.gov/dolfaq/blsfaqtoc.htm">FAQs</a></li>
-					<li><a href="http://www.bls.gov/bls/glossary.htm">Glossary</a></li>
-					<li><a href="http://www.bls.gov/bls/infohome.htm">About BLS</a></li>
-					<li><a href="http://www.bls.gov/bls/contact.htm">Contact Us</a></li>
+					<li><a href="/help/">Help &amp; Tutorials</a></li>
+					<li><a href="/bls/topicsaz.htm">A to Z Index</a></li>
+					<li><a href="/dolfaq/blsfaqtoc.htm">FAQs</a></li>
+					<li><a href="/bls/glossary.htm">Glossary</a></li>
+					<li><a href="/bls/infohome.htm">About BLS</a></li>
+					<li><a href="/bls/contact.htm">Contact Us</a></li>
 				</ul></td>
 			<td valign="top" class="last"><h4>Info</h4>
 				<ul>
-					<li><a href="http://www.bls.gov/bls/whatsnew.htm">What's New</a></li>
-					<li><a href="http://www.bls.gov/jobs/">Careers @ BLS</a></li>
+					<li><a href="/bls/whatsnew.htm">What's New</a></li>
+					<li><a href="/jobs/">Careers @ BLS</a></li>
 					<li><a href="http://www.dol.gov/dol/findit.htm">Find It! DOL</a></li>
-					<li><a href="http://www.bls.gov/bls/list.htm">Join our Mailing Lists</a></li>
-					<li><a href="http://www.bls.gov/bls/pss.htm">Privacy &amp; Security</a></li>
-					<li><a href="http://www.bls.gov/bls/linksite.htm">Linking &amp; Copyright Information</a></li>
+					<li><a href="/bls/list.htm">Join our Mailing Lists</a></li>
+					<!--<li><a href="/bls/pss.htm">Privacy &amp; Security</a></li>-->
+					<li><a href="/bls/linksite.htm">Linking &amp; Copyright Information</a></li>
 				</ul></td>
 		</tr>
 	</tbody></table>
 </div>
 
+
 <!-- QUICK LINKS END -->
 
+
+
 <!-- WRAPPER BOTTOM BEGIN -->
-							</div>
-						</div>
-					</div>
-				</div>
+
+
 			</div>
 		</div>
 	</div>
+
 <!-- WRAPPER BOTTOM END -->
 
+
+
 <!-- FOOTER LEFT BEGIN -->
-<div id="dol-footer-wrapper">
-	<table border="0" cellspacing="0" cellpadding="0" id="dol-footer" class="dol-footer-standard">
-		<tbody><tr>
-			<td id="dol-footer-left"><a href="#dol-banner"><img src="/images/dol/dol_footer_top_icon_white.gif" alt="Back to Top" width="23" height="23"></a> <a href="#dol-banner">Back to Top</a></td>
-			<td id="dol-footer-center">
-				<!-- JQUERY  FOR THICKBOX FOR POPUP BOXES AND JTIP FOR TOOLTIPS -->
-				<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
-				<script type="text/javascript" src="/javascripts/jtip.js"></script>
-				<!-- BEGIN WEBTRENDS ON DEMAND -->
-				<script type="text/javascript" src="/javascripts/webtrends-ondemand-config.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/wtid.js"></script>
-				<script type="text/javascript" src="/javascripts/webtrends-ondemand-sdc.js"></script>
-				<script type="text/javascript" src="/javascripts/webtrends-ondemand-files.js"></script>
-				<!-- END ALL JS -->
-				<noscript>
-					<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
-				</noscript>
-				<!-- END WEBTRENDS ON DEMAND -->
-				<p><img src="/images/layout/spacer.gif" alt="Spacer" width="1" height="23" border="0"><a href="http://www.bls.gov/bls/blsfoia.htm">Freedom of Information Act</a> | <a href="http://www.dol.gov/feedback/FeedbackSurvey.asp">Customer Survey</a> | <a href="http://data.bls.gov/cgi-bin/forms/lab?/bls/pss.htm">Do you have a technical Web site question?</a></p>
-			</td>
-			<td id="dol-footer-right"><a href="http://www.bls.gov/">bls.gov</a> <a href="/"><img src="/images/dol/dol_footer_home_icon_white.gif" alt="Home" width="23" height="23"></a></td>
-		</tr>
-		<tr>
-			<td colspan="3"><p class="dol-footer-contact">
+
+<div id="footer-wrapper">
+	<div id="footer-links-wrapper">
+		<div id="footer-links">
+			<!-- JQUERY  FOR THICKBOX FOR POPUP BOXES AND JTIP FOR TOOLTIPS -->
+			<script type="text/javascript" src="/javascripts/thickbox-compressed.js"></script>
+			<script type="text/javascript" src="/javascripts/jtip.js"></script>
+			<!-- BEGIN WEBTRENDS ON DEMAND -->
+			<script type="text/javascript" src="/javascripts/webtrends-ondemand-config.js"></script><script type="text/javascript" src="https://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/wtid.js"></script>
+			<script type="text/javascript" src="/javascripts/webtrends-ondemand-sdc.js"></script>
+			<script type="text/javascript" src="/javascripts/webtrends-ondemand-files.js"></script>
+			<!-- END ALL JS -->
+			<noscript>
+				<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcspmlfn66twkfocu55nbix84_4c4t/njs.gif?dcscfg=4&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.3">
+			</noscript>
+			<!-- END WEBTRENDS ON DEMAND -->
+			<p><a href="/bls/blsfoia.htm">Freedom of Information Act</a> &nbsp;|&nbsp; <a href="/bls/pss.htm">Privacy &amp; Security Statement</a> &nbsp;|&nbsp; <a href="/bls/disclaimer.htm">Disclaimers</a> &nbsp;|&nbsp; <a href="/bls/customer_survey.htm">Customer Survey</a> &nbsp;|&nbsp; <a href="/bls/website-policies.htm">Important Web Site Notices</a>
+		</p></div>
+	</div>
+	<div id="footer-info-wrapper">
+		<div id="footer-info"><p>
+
 
 <!-- FOOTER LEFT END -->
 
-<span id="footer-address"><strong>U.S. Bureau of Labor Statistics</strong> 2 Massachusetts Avenue, NE Washington, DC 20212-0001 </span> 	 	
+
+
+<span id="footer-address">U.S. Bureau of Labor Statistics | Postal Square Building, 2 Massachusetts Avenue, NE Washington, DC 20212-0001</span> 	
+
+
 
 <!-- FOOTER CENTER BEGIN -->
-		</p><p class="dol-footer-contact">
-		
+
+		</p><p>
+
+
+
 <!-- FOOTER CENTER END -->
 
-<span id="footer-contact"><a href="http://www.bls.gov/">www.bls.gov</a> | Telephone: (202) 691-5200 | Do you have a <a href="http://data.bls.gov/cgi-bin/forms/opb?/bls/pss.htm">Data question</a>?</span>
+
+
+<span id="footer-contact"><a href="/home.htm">www.bls.gov</a> | Telephone: 1-202-691-5200 | TDD: 1-800-877-8339 | <a href="http://data.bls.gov/cgi-bin/forms/opb?/bls/pss.htm">Contact Us</a></span>
 		
 
+
+
 <!-- FOOTER RIGHT BEGIN -->
-				</p>
-			</td>
-		</tr>
-	</tbody></table>
+
+			</p>
+		</div>
+	</div>
 </div>
 
+
 <!-- FOOTER RIGHT END -->
+
 <!--no_index_end-->
+
 	
 <!-- ***************************************************************************************************** -->
 
