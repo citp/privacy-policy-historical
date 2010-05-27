@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215175627id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the venue.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527044933id_/http%3A//www.venue.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Venue.com: Privacy Policy
 
