@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the pad2pad.com privacy policy that was archived on 2009-09-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090927220952id_/http%3A//www.pad2pad.com/company/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the pad2pad.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527090004id_/http%3A//www.pad2pad.com/company/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb"><head>
    
@@ -73,7 +73,7 @@ var excludeModules='38';
 <a id="menu88153" href="/company/mfg.htm">Capabilities</a>
 </td> 
 <td> 
-<a id="menu88207" href="/quote/online.php">Pricing - Order</a>
+<a id="menu88207" href="/pricing-order.html">Pricing - Order</a>
 </td> 
 <td> 
 <a id="menu88162" href="/software.html">Software</a>
@@ -95,6 +95,11 @@ var menu88160 = ms.addMenu(document.getElementById("menu88160"));
  menu88160.addItem("FAQ Intro", "/faq/index.htm", "0");
 menu88160.addItem("FAQ User", "/faq-user.html", "0");
 menu88160.addItem("Tell a Friend", "/company/taf.htm", "0");
+var menu88153 = ms.addMenu(document.getElementById("menu88153"));
+ menu88153.addItem("PCB Assembly", "/pcb-assembly.html", "0");
+menu88153.addItem("Design Service", "/pcb-design-service.html", "0");
+var menu88207 = ms.addMenu(document.getElementById("menu88207"));
+ menu88207.addItem("Frame-free version (use if errors generated)", "https://ssl38.pair.com/users/pad2pad/quote2/online.php", "0");
 var menu88162 = ms.addMenu(document.getElementById("menu88162"));
  menu88162.addItem("Download", "/download/index.htm", "0");
 menu88162.addItem("Video Guide", "/video/intro.htm", "0");
@@ -106,7 +111,7 @@ var menu88163 = ms.addMenu(document.getElementById("menu88163"));
  menu88163.addItem("Glossary", "/company/glossary.htm", "0");
 menu88163.addItem("Links", "/partner/links.htm", "0");
 var menu88164 = ms.addMenu(document.getElementById("menu88164"));
- menu88164.addItem("Order Status", "/feedback/order_status.htm", "0");
+ menu88164.addItem("Order Status", "/order-status.html", "0");
 menu88164.addItem("About an order", "/About-a-prior.html", "0");
 function init88() {
 if (TransMenu.isSupported()) {
@@ -118,17 +123,11 @@ this.className = "hover";
 document.getElementById("menu88179").onmouseout = function() { this.className = ""; }
 menu88160.onactivate = function() {document.getElementById("menu88160").className = "hover"; };
  menu88160.ondeactivate = function() {document.getElementById("menu88160").className = ""; };
- document.getElementById("menu88153").onmouseover = function() {
-ms.hideCurrent();
-this.className = "hover";
-}
-document.getElementById("menu88153").onmouseout = function() { this.className = ""; }
-document.getElementById("menu88207").onmouseover = function() {
-ms.hideCurrent();
-this.className = "hover";
-}
-document.getElementById("menu88207").onmouseout = function() { this.className = ""; }
-menu88162.onactivate = function() {document.getElementById("menu88162").className = "hover"; };
+ menu88153.onactivate = function() {document.getElementById("menu88153").className = "hover"; };
+ menu88153.ondeactivate = function() {document.getElementById("menu88153").className = ""; };
+ menu88207.onactivate = function() {document.getElementById("menu88207").className = "hover"; };
+ menu88207.ondeactivate = function() {document.getElementById("menu88207").className = ""; };
+ menu88162.onactivate = function() {document.getElementById("menu88162").className = "hover"; };
  menu88162.ondeactivate = function() {document.getElementById("menu88162").className = ""; };
  menu88163.onactivate = function() {document.getElementById("menu88163").className = "hover"; };
  menu88163.ondeactivate = function() {document.getElementById("menu88163").className = ""; };
@@ -263,8 +262,8 @@ window.onload = init88();
 
 <table class="contentpaneopen">
 	<tbody><tr>
-		<td valign="top"><p>"Very intuitive and well thought out application. Thanks!"</p>
-<p><em>Mike Morris</em></p></td>
+		<td valign="top"><p class="quote_Text">"Dear Pad2Pad Team, I just got my order. I have to say WOW! The boards look great.                Don't know about the function yet but they look awesome! I would like to that the whole team for all their               efforts and support. I greatly appreciate the expidited over-night shipment as well."</p>
+<p class="quote_Author"><em>Pad2Pad user</em></p></td>
 	</tr>
 	<tr>
         <td valign="top">
@@ -296,7 +295,7 @@ window.onload = init88();
 				<input type="text" name="email" size="13" value="">
 <input type="hidden" name="list[4]" value="signup">
 <input type="submit" name="go" value="Go">
-				<input type="hidden" name="16d3f84d40cd09a2fdd2ed4ced1ff5c8" value="1"></form>
+				<input type="hidden" name="e355d097f11a788049f4d8ba77fca409" value="1"></form>
 		<!-- You are not allowed to remove or edit the following 3 lines anyway if you didnt buy a license --> 
 
 <!-- You are not allowed to remove or edit the above 3 lines anyway if you didnt buy a license -->
@@ -343,7 +342,7 @@ addthis_options         = 'favorites, digg, delicious, google, myspace, facebook
 <!-- BEGIN: FOOTER -->
 <div class="footer">
 <div id="footer_menu">
-		<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/company/privacy.htm" class="mainlevelfooter1_menu" id="active_menufooter1_menu">Privacy</a><span class="mainlevelfooter1_menu">  - </span><a href="/terms.html" class="mainlevelfooter1_menu">Terms</a><span class="mainlevelfooter1_menu">  - </span><a href="/company/contact.htm" class="mainlevelfooter1_menu">Contact</a><span class="mainlevelfooter1_menu">  - </span><a href="/glossary.html" class="mainlevelfooter1_menu">PCB Glossary</a><span class="mainlevelfooter1_menu">  - </span><a href="/company/mfg.htm" class="mainlevelfooter1_menu">Capabilities</a><span class="mainlevelfooter1_menu">  - </span><a href="/checklist.html" class="mainlevelfooter1_menu">Checklist</a><span class="mainlevelfooter1_menu">  - </span><a href="/" class="mainlevelfooter1_menu">PCB Manufacturer</a></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/welcome.html" class="mainlevelfooter1_menu">Help</a><span class="mainlevelfooter1_menu">  - </span><a href="/download/index.htm" class="mainlevelfooter1_menu">Free PCB Layout Software</a><span class="mainlevelfooter1_menu">  - </span><a href="/import-netlist.html" class="mainlevelfooter1_menu">Netlist Import</a><span class="mainlevelfooter1_menu">  - </span><a href="/four-layer-pads.html" class="mainlevelfooter1_menu">Four Layer PCB</a><span class="mainlevelfooter1_menu">  - </span><a href="/auto-router.html" class="mainlevelfooter1_menu">PCB Auto Router</a><span class="mainlevelfooter1_menu">  - </span><a href="/pcb-component-assembly-1.html" class="mainlevelfooter1_menu">PCB Component Assembly</a><span class="mainlevelfooter1_menu">  - </span><a href="/component/option,com_xmap/Itemid,178/" class="mainlevelfooter1_menu">Site Map</a></td></tr></tbody></table><div style="font-weight: lighter"><strong>Pad2Pad.com</strong> |   31 Industrial Ave. |   Mahwah, NJ 07430 </div>
+		<table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/company/privacy.htm" class="mainlevelfooter1_menu" id="active_menufooter1_menu">Privacy</a><span class="mainlevelfooter1_menu">  - </span><a href="/terms.html" class="mainlevelfooter1_menu">Terms</a><span class="mainlevelfooter1_menu">  - </span><a href="/company/contact.htm" class="mainlevelfooter1_menu">Contact</a><span class="mainlevelfooter1_menu">  - </span><a href="/glossary.html" class="mainlevelfooter1_menu">PCB Glossary</a><span class="mainlevelfooter1_menu">  - </span><a href="/company/mfg.htm" class="mainlevelfooter1_menu">Capabilities</a><span class="mainlevelfooter1_menu">  - </span><a href="/checklist.html" class="mainlevelfooter1_menu">Checklist</a><span class="mainlevelfooter1_menu">  - </span><a href="/" class="mainlevelfooter1_menu">PCB Manufacturer</a></td></tr></tbody></table><table width="100%" border="0" cellpadding="0" cellspacing="1"><tbody><tr><td nowrap="nowrap"><a href="/welcome.html" class="mainlevelfooter1_menu">Help</a><span class="mainlevelfooter1_menu">  - </span><a href="/download/index.htm" class="mainlevelfooter1_menu">Free PCB Layout Software</a><span class="mainlevelfooter1_menu">  - </span><a href="/import-netlist.html" class="mainlevelfooter1_menu">Netlist Import</a><span class="mainlevelfooter1_menu">  - </span><a href="/four-layer-pads.html" class="mainlevelfooter1_menu">Four Layer PCB</a><span class="mainlevelfooter1_menu">  - </span><a href="/auto-router.html" class="mainlevelfooter1_menu">PCB Auto Router</a><span class="mainlevelfooter1_menu">  - </span><a href="/pcb-component-assembly-1.html" class="mainlevelfooter1_menu">PCB Component Assembly</a><span class="mainlevelfooter1_menu">  - </span><a href="/component/option,com_xmap/Itemid,178/" class="mainlevelfooter1_menu">Site Map</a><span class="mainlevelfooter1_menu">  - </span><a href="/admin.html" class="mainlevelfooter1_menu">Admin</a></td></tr></tbody></table><div style="font-weight: lighter"><strong>Pad2Pad.com</strong> |   31 Industrial Ave. |   Mahwah, NJ 07430 </div>
 <div style="font-weight: lighter"> (c) 2005-2009 Pad2Pad - All Rights Reserved</div>
 	</div>
 	
