@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173354id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daysofwonder.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527144512id_/http%3A//www.daysofwonder.com/en/about/privacy) for the most accurate reproduction.*
 
 # Days of Wonder Privacy Policy - Get Board Game Fever! | Days of Wonder
 
@@ -47,7 +47,7 @@ Privacy Policy
 334 State Street, Suite 203  
 Los Altos, CA 94022, USA  
 fax: 415-480-1314  
-
+[customerservice@daysofwonder.com](mailto:customerservice@daysofwonder.com)
 
 |   
 ---|---|---|---
