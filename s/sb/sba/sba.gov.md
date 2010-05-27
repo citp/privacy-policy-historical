@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229211255id_/http%3A//www.sba.gov/privacysecurity/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sba.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527145240id_/http%3A//www.sba.gov/privacysecurity/index.html) for the most accurate reproduction.*
 
-# Small Business Administration - Privacy & Security
+# Privacy & Security
 
 **1.**  The U.S. Small Business Administration provides this World Wide Web (WWW) site as a public service.
 
