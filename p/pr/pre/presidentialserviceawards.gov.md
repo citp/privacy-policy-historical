@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813051417id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presidentialserviceawards.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527083734id_/http%3A//www.presidentialserviceawards.gov/tg/siteinfo/dspPrivacy.cfm) for the most accurate reproduction.*
 
 # President's Volunteer Service Award
 
@@ -54,7 +54,7 @@ The website uses encrypted authentication technology when you login to the websi
 
 ###### How can I update my information?
 
-The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov "Email here to change/modify your information from PVSA database") or calling (202) 729-8000. 
+The PVSA WEB SITE gives you the opportunity to change or modify information you have previously provided by sending an e-mail to [privacy@presidentialserviceawards.gov](mailto:privacy@presidentialserviceawards.gov "Email here to change/modify your information from PVSA database") or calling (866) 545-5307. 
 
 ###### How can I contact the PVSA WEB SITE?
 
