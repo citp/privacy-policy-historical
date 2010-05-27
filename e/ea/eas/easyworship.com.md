@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125105157id_/http%3A//www.easyworship.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyworship.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527202129id_/http%3A//www.easyworship.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # EasyWorship Church Presentation Software / Legal / Privacy Policy
 
