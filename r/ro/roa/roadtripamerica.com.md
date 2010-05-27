@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201151207id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roadtripamerica.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527224705id_/http%3A//www.roadtripamerica.com/aboutrta.htm%23privacy) for the most accurate reproduction.*
 
 # About RoadTrip America®
 
@@ -8,18 +8,40 @@
 
 | 
 
-**About RoadTrip America ®  
-**Road Trips, Dashboarding, Maps, Books, & Roadtrip Planning
-
-|   
----|---  
   
-[RTA's Editors, Contributors, & Guides](https://web.archive.org/web/20091201151207id_/http%3A//www.roadtripamerica.com/guides.htm)  
-Copyright & Trademark Notice  
-Privacy Policy Statement  
-[Contact Information](https://web.archive.org/web/20091201151207id_/http%3A//www.roadtripamerica.com/address.htm)[](https://web.archive.org/web/20091201151207id_/http%3A//www.roadtripamerica.com/address.htm)Since 1996, RoadTrip America® has been the Web's premier destination for North American road trip information. In addition to [travel resources](https://web.archive.org/mainmenu.htm), RTA provides advice on [how to work on the road](https://web.archive.org/dashboarding/working.htm) and [how to stay connected to the Internet while traveling](https://web.archive.org/dashboarding/connecting.htm). RTA provides tips for [solo travelers](https://web.archive.org/tips/solo.htm), [couples](https://web.archive.org/tips/couples.htm), [disabled travelers](https://web.archive.org/tips/disabilities.htm), [international visitors](https://web.archive.org/links/international.htm), and [families](https://web.archive.org/tips/families.htm) traveling by [car](https://web.archive.org/tips/carcamping.htm), [motorcycle](https://web.archive.org/read/motorcycle.htm), [bicycle](https://web.archive.org/tips/biking.htm), or [recreational vehicle](https://web.archive.org/tips/rv.htm). [The Great American RoadTrip](http://www.roadtripamerica.com/forum/), RTA's interactive forum, is a community where road trippers share and seek advice and inspiration.
 
-RoadTrip America® features articles **** about [destinations](https://web.archive.org/places/places.htm), [routes](https://web.archive.org/links/routes.htm), and [attractions](https://web.archive.org/links/destinations.htm), as well as the Web's largest [gallery of funny road signs](https://web.archive.org/signs/signs.htm). A one-stop source for [the best in travel publications](https://web.archive.org/read/guides.htm), RTA posts reviews and recommendations for books and software available in association with [Amazon.com](http://www.amazon.com/exec/obidos/redirect-home/roadtriamericare). RTA also keeps abreast of [developments in mobile Internet access](https://web.archive.org/dashboarding/future.htm).
+
+RoadTrip America® is here to help you to plan your road trips and share your roadtripping passion and expertise with others. "On the road and online" since 1994, RoadTrip America offers advice, inspiration, resources, and camaraderie to all those who hear the call of the open road. RoadTrip America was founded by [Megan Edwards](https://web.archive.org/megan/megan.htm) and [Mark Sedenquist](https://web.archive.org/mark/mark.htm). They hit the road after [their home was destroyed by wildfire](http://www.roadtripamerica.com/book/chap1.htm) in 1993, and lived on a roll for over six years. One fabulous side effect of their full-time roadtrip is that their concept of home was forever changed. As Mark puts it, "Our front yard stretches to the Gulf of Mexico, and the back goes all the way to Prudhoe Bay." That expanded view of home has contributed to RoadTrip America's governing philosophy: Wherever you travel, you're in someone's home town.  
+
+
+_This is my first time here, this place is great! I, like many of the other people that I have read posts from on this site am struck with something very powerful, **wanderlust**. I am a college student and for this year's spring break I've tossed many options around. I have considered everything from skiing in Killington, VT to camping outside of Pensacola, FL. And I've finally came to the conclusion that it was time to take a road trip…_  
+
+
+  
+\-- A.B., Morgantown, WV
+
+Today, RoadTrip America is the joint effort of editors, book reviewers, contributing writers, forum moderators, information technologists, Web designers, photographers, and hundreds of knowledgeable road trippers who generously share their discoveries, concerns, and dreams about roadtripping in North America. Members of the Great American RoadTrip Enthusiast community provide [advice and road trip planning tips](http://www.roadtripamerica.com/forum) cost-free to any registered member.
+
+_After spending a while reading and soaking up information from this forum I've finally embarked on my first cross country road trip! I am traveling alone in my classic 1968 Chevy, the ultimate highway cruiser. So the first day I left my home on Long Island and I am headed to Yellowstone, although I plan to drive a part of Route 66, so I'll be meandering my way across the country._  
+
+
+\-- D.B., Long Island, NY
+
+We invite you to browse everything on RTA -- an amazing lineup of [articles](https://web.archive.org/GettingOutThere/Directory.htm), [book](https://web.archive.org/read/bookreviews.htm) and [product](https://web.archive.org/Equipment/Road-Trip-Gear.htm) reviews, [tips](https://web.archive.org/travelplanning/Road-Trip-Planning.htm), and more -- like the Web's largest (and still growing) [collection of funny road signs](http://www.roadtripamerica.com/forum/content.php?128-RoadTrip-America-s-Funny-Signs-Gallery). RTA correspondents can provide road trip planning tips for solo travelers, disabled travelers, international visitors and families traveling by car, motorcycle, bicycle or RV. We are also in the process of developing a comprehensive library of road trip routes. By end of 2010, over 200 routes will be online, complete with interactive maps and plenty of up-to-the-minute tips about travel conditions, sights, and attractions. We are constantly sifting through reams of travel planning data to deliver timely and accurate information when you need and want it. For example, here's a list of [key roadside rests and attractions](http://www.roadtripamerica.com/forum/showthread.php?22915-Rest-Stops-and-Attractions-Along-all-US-Interstate-Highways) found along the major interstate highways of America.
+
+_Having had so much help from this site I wanted to post a report of our trip and encourage others that with some planning you can have the trip of a lifetime. I started planning our trip a year in advance, my husband and I are both over 65, retired and I wasn't really convinced we could do this, until I found this Web site._  
+
+
+\-- J.R. Gatwick UK
+
+RTA is also a great source for the best road trip gear, maps, and accessories. RoadTrip America sells the best products, and every single item in our store has been vetted by a member of the RTA roadtripping community for quality, utility, and price. If you're making travel plans, RTA offers [great air, car, and hotel rates](http://travel.ian.com/index.jsp?cid=311252) in partnership with Expedia.com.
+
+See you on the road and online!
+
+The RoadTrip America Team
+
+[  
+](https://web.archive.org/web/20100527224705id_/http%3A//www.roadtripamerica.com/address.htm)
 
 **Copyright, Media Usage and Trademarks**
 
