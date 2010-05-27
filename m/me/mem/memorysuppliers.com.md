@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219133431id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memorysuppliers.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527025318id_/http%3A//www.memorysuppliers.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 If you are visually impaired and are having difficulty navigating this site, please call our Customer Support line via our toll free number 800-979-9707.
 
- **AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
+**AtMemory Suppliers, we are committed to protecting your privacy online.** We created our Privacy Policy ("Policy") in order to demonstrate our firm commitment to protecting the privacy of our shoppers.
 
   
 
@@ -46,8 +46,6 @@ In order to most efficiently serve you, credit card transactions and order fulfi
   
 When you access your account information, the information is kept on a secure server. All of the customer data we collect is protected against unauthorized access by physical security means.
 
-| 
-
-[ ](https://web.archive.org/web/20091219133431id_/http%3A//www.memorysuppliers.com/giftguide.html)  
+|   
   
 ---|---
