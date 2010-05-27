@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125012630id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rusclothing.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527084845id_/http%3A//www.rusclothing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RusClothing.com
+
+  
+| **Customers comments**  
+---  
+_Hello, I wanted to let you know that my order arrived safely today. I picked it up from our Post Office. The shawl is just beautiful! The mittens are nice & warm, though a bit snug for my hand size. And the kokoshnik is very pretty. I will definitely purchase from Russian Clothing.com again - there are several other shawl designs which are very attractive. Maybe another kokoshnik, too! My thanks and appreciation to the artists and craftswomen. Best wishes,_  
+ ** _Angelamarie, Italy_**  
+[more...](https://web.archive.org/customers/)  
+  
+  
+All major cards and  
+PayPal payments with  
+  
+  
+[](https://web.archive.org/shipping/)  
+[  
+Secure Site](http://www.comodogroup.com/)  
+  
+  
+|    
+[Home](http://www.rusclothing.com/)[Privacy Policy](https://web.archive.org/privacy/)   
+  
+  
+| 
 
   * **Our Commitment To Privacy**
 
@@ -46,4 +69,7 @@ We reserve the right to make changes to this policy. Any changes to this policy 
 
 
 |   
+  
+---|---  
+  
 
