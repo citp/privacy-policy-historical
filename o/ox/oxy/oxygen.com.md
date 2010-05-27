@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404071421id_/http%3A//www.oxygen.com/legal/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxygen.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527221059id_/http%3A//www.oxygen.com/legal/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Oxygen: Privacy Policy
 
@@ -54,16 +54,9 @@ A cookie is an element of data that a web site can send to your browser, which m
 
 ### Third Party Cookies
 
-We send to your web browser many of the advertisements you see when you use our Sites. However, we also allow other companies, called third-party ad servers or ad networks, to serve advertisements within our web pages. Because your web browser must request these advertising banners from the ad network Web site, these companies can send their own cookies to your cookie file, just as if you had requested a web page from the site. Please note that if an advertiser asks us to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 13-24 who have viewed sports content) and you respond to that ad, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. As always remember, we only authorize our third-party ad servers to employ anonymous cookies for ad delivery and anonymous targeting. Our third-party ad servers do not collect, nor do we give them access, to any personally identifying information about you.
+These Sites may include third-party advertising. These third parties' websites and advertisers, or the Internet advertising companies that work on their behalf, may use technology to send (or "serve") the advertisements that appear on our Sites directly to your browser. They automatically receive your IP address when this happens. They may also use cookies, Javascript, Pixel Tags and other technologies to deliver advertisements, collect information about the effectiveness of their advertisements, and to collect anonymous information about your visits to the Sites, such as the number of times you have viewed an ad (but not your name, address, or other Personal Data). For more information about these specialized cookies and other technologies, and how to "opt out" of information collection by these companies, we suggest you visit <http://doubleclick.net/privacy_policy> or <http://networkadvertising.org/optout_nonppii.asp>.
 
-If you want to prevent a third-party ad server from sending and reading cookies on your computer, currently you must visit each ad network's Web site individually and opt out (if they offer this capability).
-
-Currently, we have relationships with the following third-party ad networks:
-
-24/7 Real Media, Inc.  
-<http://www.247realmedia.com/privacy.html> (click to visit their Web site) 
-
-<http://www.everyone.net/p_policy.html> (click to visit their Web site)
+Please note that these Sites contains links to other sites that will not follow the same Privacy Policy as our Sites. For instance, clicking on an advertisement or on links or other elements on the Sites may take you to an entirely different site. Links to other sites may use our Sites logo or style as a result of a co-branding agreement. These sites may send their own cookies to you and may collect data and make use of that data in ways that these Sites would not. Once you've left these Sites, this Privacy Policy will no longer apply to personal data or any other data collected from or provided by you. You should check the applicable privacy policy to determine how that site will handle such data
 
 ### Privacy of Children
 
@@ -115,4 +108,4 @@ The Sites are operated in the United States. If you are located in the European 
 
 By using any of the Sites, you signify your acceptance of our Privacy Policy, our Site Terms & Conditions and any other policies made available to you. If you do not agree to these policies, please do not use our Sites. Your continued use of the Sites following the posting of changes to these policies will mean that you accept those changes.
 
-(Effective Date: This policy was last modified on May 18, 2007.)
+(Effective Date: This policy was last modified on January 27, 2010.)
