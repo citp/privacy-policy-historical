@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2009-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091116173856id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playerauctions.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527112121id_/http%3A//www.playerauctions.com/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy - PlayerAuctions
 
