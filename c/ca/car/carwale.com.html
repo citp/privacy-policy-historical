@@ -1,25 +1,14 @@
-<!--The following is the downloaded HTML source of the carwale.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618114333id_/http%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the carwale.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527224446id_/http%3A//www.carwale.com/privacypolicy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<title>Privacy Policy - CarWale.com</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-	<meta name="keywords" content="">
-	<meta name="description" content="CarWale.com Privacy Policy">
-	<link rel="SHORTCUT ICON" href="http://www.carwale.com/images/icons/carwale.ico">
-	<link type="text/css" rel="stylesheet" href="/css/misc.css">
-	<link href="/css/common.css" rel="stylesheet" type="text/css">
-	
-	<script type="text/javascript">
-		<!-- 
-		function srchGlb() {
-			if ( document.getElementById('cmbGS').options[0].selected ) location.href = "/forums/search.aspx?s=" + document.getElementById('txtGS').value + "&src=srch";
-			else location.href = "/blog/?s=" + document.getElementById('txtGS').value + "&src=srch";
-		}
-		-->
-	</script>	
-<!-- scripts for admanager -->
-<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content=", Car Market, Corporate world,Carwale in News">
+<meta name="description" content="CarWale.com Privacy Policy, CarWale.com dare section involves carwale's involvement in Sector world and its market Success">
+<link rel="SHORTCUT ICON" href="http://www.carwale.com/images/icons/carwale.ico">
+<link rel="stylesheet" type="text/css" href="/css/cw-common.v002.css">
+<link rel="stylesheet" type="text/css" href="/css/cw-misk.css">
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"><!-- scripts for admanager -->
 </script>
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-0998018783233582");
@@ -37,59 +26,86 @@
   GA_googleFetchAds();
 </script>
 <!-- scripts for admanager -->
+
+<script language="javascript" src="/src/common/jquery1.3.js"></script>
+<script language="javascript" src="/src/common/cw-common.v001.js"></script>
+<title>Privacy Policy - CarWale.com</title>
 </head>
 <body id="ros">
-	<div class="mc"><!-- Banner starts -->
-		<div id="banner">
-			<div class="gsrch">
-			<div class="buttons1"><input id="btnGS" onclick="srchGlb()" name="" type="button" class="buttons" value="Find"></div>
-			<div class="glb_srch">Search <input id="txtGS" type="text"> <select id="cmbGS"><option value="1">In Forums</option><option value="2">In Blog</option></select> </div>
-			<div class="glb_text">
-Welcome, 
-<span id="login1_lblUser">Guest</span>!  
-<a id="login1_hrefLogin" href="/users/login.aspx"></a>
-<span id="login1_spnReg">
-	<a href="/users/commonlogin.aspx"><b>Login</b></a>
-</span></div>
+<div id="mc">
+	<div id="cw-hdr"><!-- hearder starts here -->
+		<div id="hdr-top">
+			<div class="search">
+				<input id="queryText" type="text" size="31" class="text">
+				<input type="button" id="doSearch" value="Search" class="buttons-gray">
+			</div>		
+			<div class="login">
+Welcome, <span id="login1_lblUser">Guest</span> <a id="login1_hrefLogin" href="/users/login.aspx"></a>
+<span id="login1_spnReg" class="aLink">
+	<span id="login"><b>Login</b><img align="bottom" style="margin:0 0 2px 2px" width="5" height="3" src="http://img.carwale.com/cw-common/login-down.gif"></span>&nbsp;|&nbsp;<span id="reg"><b>Register</b><img align="bottom" style="margin:0 0 2px 2px" width="5" height="3" src="http://img.carwale.com/cw-common/login-down.gif"></span>&nbsp;
+</span>
+<div id="ajaxLogin" class="hideAjaxLogin" style="text-align:left;">
+	<div id="login-popup">
+		<div class="login"><span class="close-login" onclick="closeLogin()"></span><span>Login</span></div>		
+		<div id="login-tabs">
+			<ul class="tabs">
+				<li class="sel"><a><span>Individual</span></a></li>
+				<li><a><span>Dealer</span></a></li>
+			</ul>
+			<div style="clear:both;"></div>
 		</div>
-		<div class="lg_cntr">
-		  <div class="logo"><a title="CarWale.com" href="http://www.carwale.com"><img border="0" alt="CarWale.com - Used cars, new cars, buy cars, sell cars, car finance, car insurance, car values" src="/images/logo.jpg"></a></div>
-		  <div class="ad"><script type="text/javascript">
+		<div id="lg-panel">
+			<ul class="login-cont">
+				<li><input type="text" size="20" value="Email" id="txtLoginId">&nbsp;<input type="password" size="12" value="password" id="txtPassword" onkeydown="javascript:if(event.keyCode==13) requestLogin();"></li>
+				<li><input type="checkbox" id="chkRemMe"> Remember Me</li>
+				<li><span id="doLogin" class="btn-blue">Login</span><a href="/Users/forgotPassword.aspx" target="_blank" style="margin-left:60px; padding:0;">Forgot Password</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+<div id="ajaxRegister" class="hideAjaxLogin" style="text-align:left;">
+	<div class="reg-popup">
+		<span style="float:left;">Register</span><span class="close-login" style="float:left;" onclick="closeLogin()"></span>
+		<div style="clear:both; padding-top:9px;"><a href="/users/NewMember.aspx">Individual</a> | <a href="/dealer/DealerRegister.aspx">Dealer</a></div>
+	</div>					
+</div></div>
+			<div class="clear"></div>
+		</div>			
+		<div class="hdr-bg">
+			<div class="logo"><a title="CarWale.com" href="http://www.carwale.com"><img border="0" alt="CarWale.com - Used cars, new cars, buy cars, sell cars, car finance, car insurance, car values" src="http://img.carwale.com/cw-common/logo.jpg" width="215" height="74"></a></div>
+			<div class="ad" style="float:right"><script type="text/javascript">
   GA_googleFillSlot("Research_728x90");
 </script></div>
 		</div>
-		<div class="tabs">
-	  <ul>
-		<li class="empty"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="http://www.carwale.com">Home</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/buy/">Buy Car</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/used/sellcarmain.aspx">Sell Car</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/research/">Research</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/finance/">Finance</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/insurance/">Insurance</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/accessories/">Accessories</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/community/">Community</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/mycarwale/">My CarWale</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li><a href="/blog/">Blog</a></li>
-		<li class="seprator"><img src="/images/spacer.gif" alt=""></li>
-		<li style="background-image:url(/images/HighLighted.gif); background-repeat:repeat-y;"><a style="color:#000000;" href="/Awards/2009/">CarWale Award Results</a></li>
-
-	  </ul>
-	</div>
-	
-</div>
-<!-- Banner area ends Here -->
-<!-- Container area starts Here -->
-<div id="container"> 
+		<div id="cw-tabs">
+			<ul>
+				<li><a href="/">Home</a></li>
+				<li class="sept"></li>
+				<li><a href="/buy/">Buy Car</a></li>
+				<li class="sept"></li>
+				<li><a href="/used/sellcarmain.aspx">Sell Car</a></li>
+				<li class="sept"></li>		
+				<li><a href="/research/">Research</a></li>
+				<li class="sept"></li>
+				<li><a href="/finance/">Finance</a></li>
+				<li class="sept"></li>
+				<li><a href="/insurance/">Insurance</a></li>
+				<li class="sept"></li>
+				<li><a href="/accessories/">Accessories</a></li>	
+				<li class="sept"></li>
+				<li><a href="/Forums/">Forums</a></li>
+				<li class="sept"></li>
+				<li><a href="/mycarwale/">My CarWale</a></li>
+				<li class="sept"></li>
+				<li><a href="/news/">News</a></li>
+				<li class="sept"></li>
+				<li><a href="/Awards/2010/">Awards</a></li>
+			</ul>
+			<div style="clear:both;"></div>
+		</div>
+		
+	</div><!-- hearder ends here -->
+	<div id="cw-body"><!-- body content start here -->		
 
 <div class="left_container_top">
 	<div id="left_container_onethird">
@@ -207,23 +223,44 @@ Welcome,
 
 <!-- Footer starts here -->
 
-	</div>
-</div>
-  <!-- Container ends -->
-	<div id="footer" style="clear:both">
+	<div style="clear:both;"></div>
+</div><!-- body content ends here -->
+	<div id="cw-footer">
 		<div>Your feedback will help us improve. <a style="cursor:pointer" onclick="window.open('/Users/feedback.aspx','feedback','address=no,width=400,height=250,left=300,top=200,scrollbars=no')">Please give us your feedback</a>.</div>
-  		<div><a href="/aboutus.aspx">About Us</a> | <a href="/award/">Awards &amp; Recognitions</a> | <a href="/contactus.aspx">Contact Us</a> | <a href="/career.aspx">Careers</a> | <a href="/media/">Media</a> | <a href="/advertiseWithUs.aspx">Advertise with us</a> | <a href="/sitemap.aspx">Sitemap</a></div>
+		<div><a href="/aboutus.aspx">About Us</a> | <a href="/award/">Awards &amp; Recognitions</a> | <a href="/contactus.aspx">Contact Us</a> | <a href="/career.aspx">Careers</a> | <a href="/media/">Media</a> | <a href="/advertiseWithUs.aspx">Advertise with us</a> | <a href="/sitemap.aspx">Sitemap</a></div>
 		<div align="center">© <a href="http://www.carwale.com">CarWale.com India</a> - <a href="/visitoragreement.aspx">Visitor Agreement</a>, <a href="/privacypolicy.aspx">Privacy Policy</a></div>
 	</div>
-
+</div><!-- main cintainer -->
 <script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 <script type="text/javascript">
-<!--
-var pageTracker = _gat._getTracker("UA-337359-1");
-pageTracker._initData();
-pageTracker._trackPageview();
--->
+	<!--
+		var pageTracker = _gat._getTracker("UA-337359-1");
+		pageTracker._initData();
+		pageTracker._trackPageview();
+		
+		//CW Track Code
+		var url = unescape(window.location);
+		var landingURL = url;
+		var imgCreation = new Image();
+		
+		url = url.substr(url.indexOf("?")+1,url.length);
+		landingURL = landingURL.substr(0,landingURL.indexOf("?"));
+		
+		var searchAttributes = url.split('&');
+		
+		for( var no=0; no<searchAttributes.length; no++ )
+		{
+			var cutSrc = searchAttributes[no].substr(searchAttributes[no].indexOf("ltsrc"),searchAttributes[no].indexOf("="))
+			if(cutSrc == 'ltsrc')
+			{
+				var qryString = searchAttributes[no].substr(searchAttributes[no].indexOf("ltsrc")+6,searchAttributes[no].length)
+				imgCreation.src = "/lts/ts.aspx?c=" + qryString + "&refUrl=" + landingURL;
+			}	
+		}
+		//End of CW Track code
+	-->
 </script> 
+
 
 
 
