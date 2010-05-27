@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520083442id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tsa.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527172944id_/http%3A//www.tsa.gov/research/reading/regs/editorial_1773.shtm) for the most accurate reproduction.*
 
 # TSA: Web Site Policies
 
@@ -7,6 +7,7 @@ Terms of Use
   * TSA Privacy Policy
   * What We Collect and Store Automatically 
   * Cookies
+  * Website Plug-ins
   * If You Send Us E-mail
   * Links to Other Sites
   * Disclaimer and Liability Notice 
@@ -42,6 +43,22 @@ Back To Top
 ## Cookies
 
 These pages use session cookies or their equivalent to temporarily store information about your visit and to track transactions while you are online. Session cookies expire automatically as soon as you close your web browser.  The information is discarded and non-retrievable. Persistent cookies – sometimes used to track user activity over multiple sessions and/or web sites – are not used on this site.
+
+Back To Top
+
+## Website Plug-ins
+
+  * [Adobe Acrobat Reader Download](http://www.adobe.com/products/acrobat/readstep2_allversions.html)
+  * [Adobe Flash Player Download](http://www.adobe.com/go/getflashplayer)
+  * [Microsoft Excel Viewer 2003 Download](http://www.microsoft.com/downloads/details.aspx?FamilyID=c8378bf4-996c-4569-b547-75edbd03aaf0&DisplayLang=en)
+  * [Microsoft Power Point Viewer 2003 Download](http://www.microsoft.com/downloads/details.aspx?familyid=428D5727-43AB-4F24-90B7-A94784AF71A4&displaylang=en)
+  * [Microsoft Word Viewer 2003 Download](http://www.microsoft.com/downloads/details.aspx?familyid=95E24C87-8732-48D5-8689-AB826E7B8FDF&displaylang=en)
+  * [Visio Viewer 2003 Download](http://www.microsoft.com/downloads/details.aspx?FamilyID=3fb3bd5c-fed1-46cf-bd53-da23635ab2df&DisplayLang=en)
+  * [Autodesk Downloads (for DWF & DWG files)](http://www.autodesk.com/)
+  * [Windows Media Player Downloads (for audio & video files)](http://www.microsoft.com/windows/windowsmedia/download/AllDownloads.aspx)
+  * [WinZip Download](http://www.winzip.com/index.htm)
+
+
 
 Back To Top
 
