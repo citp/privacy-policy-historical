@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620225734id_/http%3A//www.birthrightisrael.com/site/PageServer%3Fpagename%3Dabout_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birthrightisrael.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527115147id_/http%3A//www.birthrightisrael.com/site/PageServer%3Fpagename%3Dabout_privacypolicy) for the most accurate reproduction.*
 
 # Taglit-Birthright Israel: Privacy Policy
 
@@ -57,4 +57,4 @@ If you have any questions about this Privacy Policy, the practices of this Site,
 
 Taglit-Birthright Israel
 
-information@birthrightisrael.com 
+information@birthrightisrael.com
