@@ -1,86 +1,43 @@
-> *The following text is extracted and transformed from the fashionandyou.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205181748id_/http%3A//www.fashionandyou.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionandyou.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527173312id_/http%3A//newms.fashionandyou.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy fashionandyou.com
+# Fashion and You:Indulge Yourself
 
-Our foremost concern is to protect your privacy and provide a safe online experience for everyone. This privacy policy concerns the information collected through the fashionandyou.com website. It is designed to help visitors understand what kind of information we collect from our sites, and how we deal with this information once we gather it.
+#### Privacy Policy
 
-The purpose behind the collection of information is to make our services easier to use and also to provide a more satisfying user experience and establish a personalized relationship with the users. We have adopted a set of information management guidelines that serve as the basis for our customer and advertiser relationships
+We ensure the privacy of all our members.
 
-From time to time, fashionandyou.com may inform you about new products or services, which may affect this policy. We expect that this policy will be updated in the future. These updates and any other privacy conditions related to these services will be posted on this page without notification. However, the effective date of the Privacy Policy will always be posted. 
+## Users Information and Pirvacy
 
-**The information we collect  
-**
+Fashion and You is committed to protecting all the information you share with us. We follow stringent procedures to help protect the confidentiality, security, and integrity of data stored on our systems. Our Website encrypts your credit card number and other personal information using secure socket layer (SSL) technology to provide for the secure transmission of all data. Only those employees who need access to your information in order to perform their duties are allowed such access. Any employee who violates our privacy and/or security policies is subject to disciplinary action, including possible termination and civil and/or criminal prosecution. 
 
-While surfing on the net you could possibly register with one or several sites affiliated with our site, order a product or a service, express via an online posting or letter to the editor, your opinion about a subject, participate in sweepstakes or other promotions or request free stuff or simply participate in one of many online forums. 
+## Enjoy Secure shopping at Fashion And You
 
-In the process of filling these orders, or facilitating your participation, we have the right to collect information about you including your name, email address, gender, personal interests, occupation and in some cases your postal mailing address. We may also collect personal information from you through your use of survey and feedback forms and every time you email us your details.
+We use encryption technology, digital certificates, secure commerce servers, and authentication to ensure that your personal information is secure online. 
 
-Sometimes, you may submit information about a friend of yours or a member of your family like emails, names, and telephone numbers or whatever to send a greeting card or to invite this person to share information with you. 
+## Your registration
 
-Following registration, we will employ a registration cookie to recognize a subscriber and his or her access privileges on our website(s). This information is also used to monitor site usage. We can also log from your browser the sites you visit, your internet service provider and your IP Address (the location of your computer on the internet.)
+Fashion and You keeps track of your information to offer you the best possible shopping experience. When you register (log in), you supply your email address and a password. This allows us to provide you access to your account every time you visit our Website. Before completing your first purchase, we also ask you for your name, phone number, email, billing and shipping addresses. This information, along with your credit card number, is necessary to fulfill your order. This information may be disclosed to specific members of our staff and to select third parties (such as our credit card processor and shipping provider) involved in the completion of your transaction and delivery of your order. We may also need your email address or phone number to contact you if we have questions about your order. We may also use your email address to notify you about new services or special promotional programs, or send you offers or information if you have opted-in. Emails are sent only to Fashion andyou members who have chosen to receive them (opted-in) or who have made a purchase on our website. At any time, you can notify us that you wish to stop receiving these emails. In addition, we keep a record of your past purchases, returns, and credits. We may also ask you for information regarding your personal preferences and demographics to help us better meet your needs. 
 
-**How we use the information**  
+## Cookies
 
+Like many other transactional websites, we use "cookies" to improve your shopping experience and to save you time. Cookies are little tags that we place onto your computer. We assign a cookie to your computer when you first visit us in order to enable us to recognize you each time you return. Through cookies we can customize our Website to your individual preferences in order to create a more personalized, convenient shopping experience. Please note that the cookies we use for our Website or email campaigns do not store personally identifiable information about you or your finances. 
 
-Our mission is to improve our most popular services and promote the unfamiliar ones. As we aim to establish a personalized relationship with you, the information we collect about you is used to communicate with you. We can also contact you to notify you when you have won one of our contests or to express our appreciation for your registration with us.
+## Analysis and reporting
 
-We use your email to send you newsletters, promotional offers and surveys, your address to mail gifts and sweepstakes offered to you, and your phone number to notify winners who have not responded to our e-mails.
+Fashion and Youuses reporting software that allows us to analyze the amount and type of member traffic we get on our Website. We use this data to make improvements to your shopping experience and to ensure that we have enough capacity to properly serve all of our members. The software provides aggregate reporting information to the Fashion And You only. No personal or personally identifiable information is gathered or used for this process.
 
-Sometimes, you provide information about other people. We use this information to send them your gifts or cards. We may as well offer them products, programs, or services. Our members, who need to verify and update their own information, may have access to it, but they cannot view other members' information.
+## Server logs
 
-In fact, the personal information we get from our clients is meant to be analyzed in order to improve our site's design and content. We eventually can implement the statistical analyses of the user behaviour to measure his relative interest in the multiple site areas.
+In an effort to make our Website as effective and enjoyable as possible, the computers that operate it collect certain information each time you visit. We store these statistics in server logs. Once again, these statistics do not identify you personally, but provide us information regarding the type of user who is accessing our Website and certain browsing activities of that user. This data may include: the IP address of the user accessing our Website (i.e. the unique I.D. number of the user's computer), the type of browser (Internet Explorer, Firefox, etc.) and the operating system (Windows, Mac OS, etc.) the Website the user last visited before linking to our Website, how long the user accessed our Website in any given session, and the date and time of access. We may make extensive use of this data at an aggregated level in order to understand how our Website is being used. We may share some of the aggregate findings (not the specific data) with advertisers, sponsors, investors, strategic partners, and others in order to help grow our business.
 
-As far as advertising is concerned, the use of information about you will help us to target banner and box advertising on the site and so to inform advertisers how many users have viewed their advertisements.
+## Service providers
 
-Accordingly, the information you purposely provide us with will facilitate research and give anonymous direct and indirect reporting for internal and external clients. However, we may disclose personally identifiable information in response to legal process, for example, in response to a court order or to a law enforcement agency's request.
+Fashion and Youmay use various outside agencies (third party service providers) to make our Website operate. For example, we may use third parties to host our Website, operate various features made available on our Website, send emails, analyze data, provide search results and links, and assist in fulfilling your orders. Some of these third parties may need access to your information in order to make the services provided through our Website work. Information will only be disclosed to these service providers on a need-to-know basis, and they will only be permitted to use such information for the purpose of providing the particular services provided by such entities in connection with our Website. 
 
-We cannot guarantee that personally identifiable information that we collect about you will never be disclosed despite our appropriate measures to safeguard against unauthorized disclosures of information.  
-Occasionally, the information that we receive online will reinforce our marketing strategy about products and services that you are interested in.
+## Exceptions
 
-**Collection of information by third -party sites and sponsors  
-**
+Fashion and You may be forced to disclose information in order to comply with a subpoena, court order, administrative or governmental order, or any other requirement of law, or when Fashion and You, in its sole discretion, deems it necessary in order to protect our rights or the rights of others, to prevent harm to persons or property, to fight fraud and credit risk, or to enforce or apply our Website terms of use. Personally identifiable information may be transferred as an asset in connection with a merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale, or other change in control.
 
-Sometimes, we make use of the services of external companies like data processors who will not reveal personal details to any other organizations or to use your data for any other additional purposes
+## Changes in policy
 
-From time to time, we will present the opportunity to choose offers from the third parties, which do not belong to us. Once you accept these offers, we will transfer your information to the third parties under permission. However, you must take into consideration that our privacy policies may differ from those of a third party.
-
-In addition, our users are free to send articles or links by E-mail to other parties. We cannot keep any email address of either the sender or the recipient unless you are a member of our site.
-
-**Cookies**  
-
-
-Cookies are a standard Internet technology that allows us to track the site's traffic. Cookies are a small files stored by the browser program on your computer's hard drive. Cookies cannot provide us your e-mail address or other personally identifiable information about you unless you register at one of our sites. By doing so, it would be possible for Cookies to identify registered users without any need to ask for registration details every time you access one of our sites. The use of cookies makes our system more efficient since we realize how to improve the content and the marketing of our site.   
-You are able to accept or refuse cookies by changing your browser settings. Our web sites can be seen even if you do choose to block the cookie function on your browser. Member area cookies are also used to define valid members, to save access to their particular member information and to improve their experience on the site. 
-
-**Links**  
-
-
-Our web site may link you to other sites that have their own privacy policy that we are not responsible for. In this case, we are inviting our visitors to read carefully the privacy policy of each site, which they are linked to.
-
-**Confidentiality and security**  
-
-
-In order to assure you an appropriate amount of security and to protect the information we collect from you, we are equipped with physical, electronic, and managerial procedures to safeguard and help to prevent unauthorized access, maintain data security, and correctly use the information we collect online.  
-However, although we take all the possible measures to protect our websites and all information about our clients, we want you to know that no Internet data transmission can completely be secure from access by unintended recipients. Thus, you use our site at your own risk.
-
-Your personal information will be exposed only to employees whom we reasonably believe will be able to provide products or services for you. This is restriction is limited to their proper duty. We can not be responsible for any unlawful activity participated in by one or more of our employees.
-
- **How you can access or correct information:**  
-You have the right to review, correct or change any personal information you have provided. You may also request that we remove your name from our mailing list. However, to protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections. You can also unsubscribe from any newsletters or opt out of various promotional emailing at any time you want.
-
-**Children's privacy**  
-
-
-We do not collect personal information about children under the age of 13. However, only in some serious exceptions a 13 years old child can enter the site and registered on line but we will not contact him directly about special offers or marketing purposes.   
-In addition, if a child -under the age of 13- submits personal information without the permission of his parents to this Web site, we will automatically delete the information as soon as we discover it and do not use it for any other purpose.   
-We advise parents to control their children's use of the Internet, and to inform them of the potential dangers of providing information about themselves over the Internet. They can also choose in which activities he or she would like the child to participate. 
-
-**Changes to this privacy policy**  
-
-
-To maintain the highest protection for our users and to comply with a changing environment, we may, from time to time, make changes to this policy. We recommend that you should re-visit this privacy policy occasionally to learn of new privacy practices or changes to our policy.
-
-**How to contact us:**  
-
-
-It is important to us to know what visitors have to say about our services, and our policies. If you have any questions about our privacy, policy please contacts us via e-mail at privacy @ fashionandyou.com
+You acknowledge that this Privacy Policy is part of the Terms of Use and you unconditionally agree that using this Website signifies your assent to Fashion and You's Privacy Policy. If you do not agree with this Privacy Policy, please do not use our Website. Your visit and any dispute over privacy is subject to this policy and our Terms of Use, including limitations on damages. Fashion and You reserves the right to change the terms of use and this Privacy Policy, at any time. We will post any changes so that you are always aware of our policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers. 
