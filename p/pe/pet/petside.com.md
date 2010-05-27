@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626064003id_/http%3A//www.petside.com/about/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petside.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527041255id_/http%3A//www.petside.com/about/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Dog & Cat Health, Wellness, Products and Breed Information
 
 ## Privacy Policy
+
+_This privacy policy was last updated on November 19, 2007._
 
 Welcome to Petside.com, a service brought to you by Procter & Gamble ("P&G") and NBC Universal, Inc. ("NBCU"). This site is governed by P&G's [privacy policy](http://www.pg.com/privacy/english/privacy_notice.html) and [terms of service](http://www.pg.com/terms.htm).
 
