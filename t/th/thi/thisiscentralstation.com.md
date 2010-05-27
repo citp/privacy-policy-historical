@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thisiscentralstation.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126040939id_/http%3A//www.thisiscentralstation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thisiscentralstation.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094910id_/http%3A//www.thisiscentralstation.com/privacy.aspx) for the most accurate reproduction.*
 
-# Your Privacy
+# Central Station, Your Privacy
 
 ### Privacy Statement
 
@@ -28,7 +28,7 @@ The information may be requested at various stages of your visiting the Website,
 
 Demographic information (i.e. information relating to age, gender, location etc. but not specifically identifying you) may be aggregated and disclosed to third parties.  This information will never identify you or your computer personally.
 
-We may use your personal information to update you on the services and features that we provide from the Website, unless you have specifically opted out of this feature through the opt out procedures. If you request the updates from us, it is necessary for us to hold the personal information you provide.   
+We may use your personal information to update you on the services and features that we provide from the Website, unless you have specifically opted out of this feature through the opt out procedures. If you request the updates from us, it is necessary for us to hold the personal information you provide.
 
 We will not sell or disclose your personal information to third parties other than our processors without your prior consent.
 
@@ -36,7 +36,7 @@ We will not sell or disclose your personal information to third parties other th
 
 **A cookie is a small information file that is saved to your computer's hard disk to store information about yourself so that when you visit the website subsequently you do not have to enter that information again.  The Website makes use of cookies for this purpose.**
 
-In addition, we may store on our servers your IP address so that we can identify returning visitors to our site.  
+In addition, we may store on our servers your IP address so that we can identify returning visitors to our site.
 
 **Management of your Personal Information**
 
@@ -62,4 +62,4 @@ This privacy statement does not cover the links within this site to other websit
 
 We are committed to developing a practical and user-friendly privacy policy.  If you have any comments or suggestions regarding this, please send them to:
 
-**community@thisiscentralstation.com**
+**[community@thisiscentralstation.com](mailto:community@thisiscentralstation.com)**
