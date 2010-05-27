@@ -1,0 +1,358 @@
+<!--The following is the downloaded HTML source of the brainies.com privacy policy that was archived on 2010-05-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100527193137id_/http%3A//www.brainies.com/privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="ctl00_Head1"><title>
+	Privacy Policy - Brainies.com
+</title><meta name="keywords" content="brainies, scholars, career, school, major, program, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description"><link href="/css/dev/auxiliar.css" type="text/css" rel="stylesheet"><link href="/css/dev/main.css" type="text/css" rel="stylesheet"><link href="/css/dev/pagecontent.css" type="text/css" rel="stylesheet">    
+    <!--[if lte IE 8]>	
+	<style>
+	.IE8textBox	{ padding-bottom:1px; }
+	</style>
+    <![endif]-->
+    <!--[if lte IE 7]>	
+	<style>	
+	.IE7textBox {padding-top:2px; padding-bottom:2px;}
+    .survey .question .option input[type=radio] { margin:-2px;top:-1px;overflow:hidden;    }    
+	</style>
+    <![endif]-->
+    <!--[if lte IE 6]>	
+	<link href="/css/dev/ie6_override.css" rel="stylesheet" type="text/css" />
+    <![endif]--> 
+
+    <script type="text/javascript" src="/scripts/jquery-1.3.2.min.js"></script>
+
+    <script type="text/javascript" language="javascript">             
+    
+    function initMenu() {
+        var pageName = "privacy";
+        var item = null;
+        //alert(pageName);
+        switch(pageName) {        
+            case "home" : item = "lnkHome";break;
+            case "about" : item = "lnkAbout";break;
+            case "brain_games" : item = "lnkGames";break;
+            case "programs" : 
+            case "nursing" : item = "lnkPrograms";break;
+            case "offers" : item = "lnkOffers";break;
+        }
+        if(item != null) {   
+            if(item =="lnkHome" || item =="lnkAbout"){
+                $("." + item).addClass("itemActiveS");
+            }
+            if(item=="lnkGames" || item =="lnkOffers"){
+                $("." + item).addClass("itemActiveM");
+            }
+            if(item=="lnkPrograms"){
+                $("." + item).addClass("itemActiveL");
+            }
+            //$("." + item).parent().addClass("divItemActive");
+            //changeMenuImage($("." + item), "_on", "_off");
+        }
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }   
+    
+    function getQueryParam(id) {
+        var query = window.location.search.substr(1);        
+        if(query != "") {
+            var params = query.split("&");
+            for(var i=0;i<params.length;i++) {
+                var param = params[0].split("=");
+                if(param[0] == id) {
+                    return param[1] || "";                    
+                }
+            }
+        }
+        return "";
+    }
+            
+    function changeMenuImage(elem, val1, val2) {
+        var obj = $(elem).children("img");        
+        obj.attr("src", obj.attr("src").replace(val2, val1));
+    }
+    
+    $(document).ready(function() {    
+        initMenu();
+        initZipCodeFinder();
+    });     
+    
+     function onsubmitMain() {       
+        return ("privacy" != "schools");
+    }
+    
+    function isNumber(value) {
+          var check = true;          
+          //check that all characters are digits, ., -, or ""
+          for(var i=0;i < value.length;i++) {
+               var new_key = value.charAt(i); //cycle through characters               
+               if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                    check = false;
+                    break;
+               }
+          }          
+          return check;
+    }        
+    
+    var defaultZipCodeText = "Enter your ZipCode";
+    
+    function initZipCodeFinder() {
+        $(".zipCodeFinder").show();
+        var txt = $(".txtZipCode");
+        if(txt.length > 0) {
+            txt.focus(function() {
+                if ($(this).val() == defaultZipCodeText) {
+                    $(this).attr("maxLength", 5).
+                        addClass("inputSearchNormal").
+                        removeClass("inputSearch").
+                        val("");
+                }
+            });
+            
+            txt.blur(function() {
+                var textValue = $(this).val();                
+                if (textValue == defaultZipCodeText || textValue.length == 0) {
+                    $(this).attr("maxLength", 18).
+                        addClass("inputSearch").
+                        removeClass("inputSearchNormal").
+                        val(defaultZipCodeText);
+               }
+               else {
+                $(this).addClass("inputSearchNormal").
+                        removeClass("inputSearch");
+               }
+            });
+            
+            txt.keypress(function(e) {
+                var keynum;
+		        var keychar;
+
+		        if (window.event) { // IE
+			        keynum = event.keyCode;
+		        }
+		        else if (e.which) { // Netscape/Firefox/Opera
+			        keynum = e.which;
+		        }				
+		        if (keynum == 13) {
+			        $(".btnZipCodeSearch").click();
+			        return false;
+		        }
+            });
+        }
+        
+        $(".btnZipCodeSearch").click(function() {
+            var zip = $(".txtZipCode");
+            if(zip.length > 0) {
+                var zipVal = zip.val();
+                if(zipVal == "" || zipVal.length != 5 || !isNumber(zipVal)) {
+                    alert("You must enter a valid 5 digit zip code.");
+                    zip.focus();
+                }
+                else {
+                    location.href = "home_z.aspx?z=" + zipVal;
+                }
+            }
+            return false;
+        });
+    }
+    
+    </script>
+
+</head>
+<body class="yui-skin-sam">
+    <form name="aspnetForm" method="post" action="privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRZjdGwwMCRidG5aaXBDb2RlU2VhcmNoe+XRQh0+DaZPAqF1AOg9OTuOhoQ=">
+
+<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgKe+7e5DALH27qeBbaTXsZ0+7kGzxgOXpqazCN8quin">
+        <div style="width: 100%;">
+            <table align="center" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td class="pageTop">
+                        <table cellpadding="0" cellspacing="0" width="900" align="center">
+                            <tbody><tr>
+                                <td>
+                                    <div class="logo" onclick="location.href='/home.aspx';"></div>
+                                    <div class="zip zipCodeFinder ie6Exclude" style="">
+                                        <div style="position:relative;z-index:25;">
+                                            <div style="display:block; font-size:12pt; color:#FFFFFF; padding-bottom:5px; vertical-align:top; ">Looking for a School near you?</div>
+                                            <input type="text" value="Enter your ZipCode" id="txtZipCode" class="txtZipCode IE8textBox IE7textBox" style="width: 115px; color:gray; height:18px; *height:16px; font-size:9pt;" name="txtZipCode">
+                                            <input type="image" name="ctl00$btnZipCodeSearch" id="ctl00_btnZipCodeSearch" class="btnZipCodeSearch" src="/images/app/img_btn_search.png" align="top" border="0">
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                    <tr>
+                    <td class="menuContainer">
+                        <table cellpadding="0" cellspacing="0" width="900px;" align="center">
+                            <tbody><tr>
+                                <td>
+                                    <div id="menu" class="menu">
+                                        <ul>
+                                            <li><a id="lnkHome" class="item itemSmall lnkHome" href="home.aspx">Home</a></li>
+                                            <li><a id="lnkAbout" class="item itemSmall lnkAbout" href="about.aspx">About Us</a></li>
+                                            <li><a id="lnkGames" class="item itemMedium lnkGames" style="width:115px;" href="brain_games.aspx">Brain Games</a></li>
+                                            <li><a id="lnkPrograms" class="item itemLarge lnkPrograms" style="width:152px;" href="programs.aspx">Academic Programs</a></li>
+                                            <li><a id="lnkOffers" class="item itemMedium lnkOffers" style="width:115px;" href="offers.aspx">Bonus Offers</a></li>
+                                        </ul>
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="container">
+                        
+    <table border="0" cellpadding="0" cellspacing="0" class="contentPage" width="900" align="center">
+        <tbody><tr>
+            <td class="cellContent" style="color: #666666;padding-left:35px;padding-right:35px; padding-top:45px;">
+                <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                    <tbody><tr>
+                        <td class="mainTitle cellParagraphMedium" align="left" valign="top">
+                            Privacy Policy</td>
+                    </tr>
+                    <tr>
+                        <td class="cellParagraph" align="left" valign="top">
+                        Brainies.com<br><br>
+
+                        Brainies.com (hereinafter "Brainies") shares your concern about personal privacy. Brainies recognizes that its customers, visitors, users, and others (collectively or individually, the "Users") who use the http://Brainies.com website (the "Website") value their privacy. This Privacy Policy outlines important information regarding the use and disclosure of User information collected via the Website. Brainies provides this Privacy Policy to help Users make an informed decision as to whether to use or continue using the Website.<br><br>
+
+                        <span class="textHighlight">General</span><br>
+                        By reference, this Privacy Policy is incorporated into and is subject to the Brainies Terms of Use. Your use of the Website and any personal information you provide via the Website or through other official Brainies contact remains subject to this Privacy Policy, as well as the Brainies Terms of Use, and/or other governing Brainies policies.<br><br>
+
+                        You are informed that any content posted by Users onto the Website becomes published or informational content, or the like, and is not considered personally identifiable information subject to this Privacy Policy.<br><br>
+
+                        <span class="textHighlight">Collected Information</span><br>
+                        Brainies may collect personal information and data including, but not limited to, application and Website usage data, file transfer and viewing data, email and personal contact information, and other identifiable information. Brainies may use technological means for tagging and tracking data including, but not limited to, harmless cookies, clear .GIFs, and other technologies to track and correlate data.<br><br>
+
+                        Specifically, but not limited to, the following information is collected:<br>
+                        a. 	User Provided Data: Users may provide personally identifiable information (such as a name, address, telephone, and an email address) to Brainies when choosing to participate in the services and activities available on the Website (collectively, the "Services").<br><br>
+                        b. 	Cookies: Cookies, a harmless small text file containing a string of alphanumeric characters, are deployed to your computer so as to uniquely identify your presence and use. Brainies may use session cookies and persistent cookies for the purpose of tracking various important data. Use of these cookies can also help to speed your access to the Website as they serve as 'reminders' as to who you are to our programming. While we recommend that you allow these cookies to perform their tasks, you may adjust your computer's settings to restrict or refuse them. However, some features or sections of the Website may not function properly, or not all, if the ability to accept cookies is disabled.<br><br>
+                        c. 	Clear .GIFs: Brainies may choose to utilize "clear .GIFs" to track the online usage patterns of our Users in a non-personally identifiable manner. Additionally, Brainies may also use clear .GIFs in HTML-based emails dispatched to Users so as to track which emails are being opened by the recipients. This act helps Brainies to determine active and inactive email addresses.<br><br>
+                        d. 	Log File Data: When Users log-in to their Brainies account, our servers will automatically record and archive certain information that web-browsers send whenever visiting a website. These server logs may include information vital to validating the User's authorization to access the account. Information, such as a Web request, Internet Protocol (the "IP") address, browser type, browser language, referring pages, exit pages and visited URLs, platform type, click counts, pages viewed and in what order, time spent, the date and time of the request, and other important data is necessary to validate and authorize a User's entry and activity on the Website.<br><br>
+
+                        <span class="textHighlight">Information Uses</span><br>
+                        a.  Personally identifiable information submitted by a User is used to operate, maintain, and provide features, general and unique, of the Website for the User's use and pleasure.<br><br>
+                        b. 	All personal information, data, or content that you, the User, voluntarily disclose to the Website public areas become available to other Users and can be collected and used by others. Your account Username is displayed to other Users when you post or send messages through the Website.<br><br>
+                        c. 	Brainies does use your personally identifiable and certain non-personally identifiable information, such as but not limited to, anonymous User usage data, browser type, cookies, IP addresses, clickstream data, and the like, to improve the quality and use designs of the Website through analysis of this data and trends.<br><br>
+                        d. 	Brainies uses clear .GIFs and log file data to: (i) provide custom content and preferences; (ii) remember information necessary for logging in to your Website account so as to save you time in re-entering such information; (iii) monitor the impact and effectiveness of Brainies marketing efforts; (iv) monitor aggregate metrics providing detailed data on User activities while on the Website; (v) track your submissions, entries, and status.<br><br>
+
+                        <span class="textHighlight">Disclosure of Information</span><br>
+                        a. 	Brainies provides personally identifiable and non-personally identifiable information on Users to subsidiaries, affiliated companies, and other businesses or persons for the purpose of processing such information on behalf of Brainies. At all times, these parties are required to agree to process such information in compliance with this Privacy Policy, and we deploy reasonable efforts to limit their use of such information.<br><br>
+                        b.	Brainies reserves the right to disclose personally identifiable and/or non-personally identifiable information that is believed, in good faith, to be appropriate or necessary for the purpose of enforcing the Brainies Terms of Service, or other governing Brainies policies. Other causes of release of data may be due to, but not limited to: (i) taking precautions against liability issues; (ii) to assist government enforcement agencies; (iii) to investigate and defend Brainies against third party claims or allegations; (iv) to protect the security or integrity of the Website and/or Services; and/or (v) to protect the rights, property, or personal safety of Brainies, Users of the Website, or others.<br><br>
+                        c. 	Brainies does not share your personally identifiable information with other non-affiliated third party companies for their commercial use or marketing use without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out.<br><br>
+                        d. 	Brainies does share non-personally identifiable information, such as anonymous User data and traffic data, with interested third parties to assist them in understanding the usage patterns and trends analysis for certain content, advertisements, promotions, services, and/or functionality of the Website.<br><br>
+                        e. 	Brainies may release any information available if required to do so by law, or in the good faith belief that such action is necessary to comply with law or the powers of government enforcement agencies. Other causes for release of information could be for needs to comply with copyright laws or to respond to a court order, subpoena, and/or search warrant.<br><br>
+
+
+                        <span class="textHighlight">Links and Third Party Advertisers</span><br>
+                        Brainies allows other companies, also referred to as Third Party Advertisers, Ad Servers, or Ad Networks (collectively, the "Advertisers") to serve advertisements via the Website. These Advertisers may use technology to send directly to your Web browser advertisements and links that appear on the Website. This technology may capture certain non-personally identifiable data, such as your IP address, etc. This technology may also measure the effectiveness of their advertisements and to personalize the advertising content you may view on the Website.<br><br>
+
+                        Brainies does not provide any personally identifiable information to these Advertisers without your consent, except as part of a specific program, feature, or campaign for which you will have the ability to opt-out. However, should you click on an Advertiser offering or choose to visit an Advertiser's website, Brainies highly recommends that you consult the respective privacy policy of the Advertiser for more information on their practices and for instructions on how to opt-out of certain programs and practices of the Advertiser. Brainies's Privacy Policy does not apply to, nor can Brainies control, the activities of other websites or Advertisers.<br><br>
+
+                        <span class="textHighlight">Data Security</span><br>
+                        In an effort to provide maximum protection of User's privacy, Brainies routinely utilizes commercially reasonable physical, technical, and managerial safeguards to preserve the integrity and security of your personal information. However, Brainies cannot ensure or warrant the security of any information you transmit to Brainies or place upon the Website and you do so at your own risk. Once we receive said transmission of personal information, Brainies engages commercially reasonable efforts to ensure the security of our systems and the personal information you provided to our custody. This is not a guarantee that such information may not be accessed, altered, disclosed, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br><br>
+
+                        <span class="textHighlight">Data Processing</span><br>
+                        The European Union ("EU") maintains strict privacy laws. These rules differ significantly from the laws of the United States of America ("US"). To reconcile these differences, the US and the EU have created a safe harbor ("Safe Harbor") that defines mutually acceptable privacy operations. For more information see <a href="http://www.export.gov/safeharbor/" target="_blank">www.export.gov/safeharbor/</a>.<br><br>
+
+                        By providing information to us, you acknowledge that we operate in the US and you agree to (i) permit us to transmit and use your user Information anywhere necessary, including across international boundaries, to better improve the services and transactions provided by Brainies; and (ii) that such use by us shall be subject to the terms and conditions stated in this Privacy Policy and the Terms of Use.<br><br>
+
+                        <span class="textHighlight">Children's Privacy</span><br>
+                        Brainies complies with the Children's Online Privacy Protection Act of 1998 (COPPA) and does recognize the responsibility to protect the privacy of young children at all times and to the best of everyone's ability. For that reason, Brainies does not knowingly collect or maintain any information via the Website from persons under the age of thirteen (13), and no part of our Website is directed to persons under the age of thirteen (13). If an underage person provides such information and Brainies has unknowingly collected said information, then Brainies will take the appropriate steps to delete this information. <br><br>
+
+                        <span class="textHighlight">Transfer of Rights</span><br>
+                        Should Brainies be acquired, merged, or endeavor to become closed for business, Brainies reserves the right, in any of these circumstances, to transfer or assign the information collected, during the due course of business, from Users of the Website. This information may be held as part of any such acquisition, merger, sale, or other change of control or business entity status.<br><br>
+
+                        In the unlikely event of a bankruptcy, assignment for the benefit of creditors, insolvency, receivership, reorganization, or the application of laws or legally recognized enforcements and/or actions, Brainies may not be able to control how Users' personal information is accessed, treated, transferred, and/or used. In any of these circumstances, you hold harmless and indemnify Brainies owner(s), officers, directors, employees, agents, and assignees from and against any claims of responsibility, damages, costs, debts, losses, liabilities, obligations, fees and/or expenses.<br><br>
+
+                        <span class="textHighlight">Contact Information</span><br>
+                        You may contact Brainies Customer Service at:<br><br>
+
+                        Brainies, LLC<br>
+                        Attention: Customer Service<br>
+                        2531 Jackson Rd.<br>
+                        Ann Arbor, MI 48103<br><br>
+                        734-845-4768<br><br>
+
+                        Email: <a href="mailto:support@brainies.com">support@Brainies.com</a><br><br>
+
+                        <span class="textHighlight">Changes and Updates</span><br>
+                        This Privacy Policy may be revised at will. Such changes, edits, revisions, and/or updates will be made available by posting updated Privacy Policies to the Website. All such changed and updated Privacy Policies can be identified by way of the Date of Modification. You are advised to frequently visit the Brainies Privacy Policy to determine the last Date of Modification so as to afford you the opportunity to access the most current Privacy Policy. Regardless of your visitation habits to this Privacy Policy, your continued access and use of the Brainies Website constitutes your agreement to this Privacy Policy, the Brainies Terms of Use, and any other governing policies of Brainies, as well as any future revisions of said legal documents and policies.<br><br>
+
+
+                        <span class="textHighlight">Presiding Language</span><br>
+                        This Agreement and all Brainies policies are written and executed in English, which is considered the prevailing language for purposes of interpretation or laws of contract. If this Agreement is translated into any other language, the English version shall be considered the primary binding legal document.<br><br>
+
+                        DATE OF MODIFICATION: September 13, 2009 <br><br>
+
+                        </td>
+                    </tr>
+                </tbody></table>
+            </td>
+        </tr>
+    </tbody></table>
+
+                    </td>
+                </tr>           
+                <tr>
+                    <td class="footerContainer">
+                    <table cellpadding="0" cellspacing="0" width="900" align="center">
+                        <tbody><tr>
+                            <td style="padding-bottom:70px; padding-left:32px;">
+                                <div class="peRoundedContainer roundedFooter" style="width:;min-height:;"><b class="xtop"><b class="xt1"></b><b class="xt2"></b><b class="xt3"></b><b class="xt4"></b></b><div class="xcontainer"><div class="xboxcontent" style="display:block;height:auto !important;:120px;"><div class="xboxcontent-body">
+                                    <table cellpadding="0" cellspacing="0" align="center" class="footerMenu">
+                                        <tbody><tr>
+                                            <td class="item" style="width:50px;"><a href="home.aspx">Home</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:70px;"><a href="about.aspx">About Us</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:100px;"><a href="brain_games.aspx">Brain Games</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:125px;"><a href="programs.aspx">Academic Programs</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:70px;"><a href="contact.aspx">Contact Us</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:90px;"><a href="privacy.aspx">Privacy Policy</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:90px;"><a href="terms.aspx">Terms of Use</a></td>
+                                            <td class="separator">|</td>
+                                            <td class="item" style="width:200px; color:#666668; text-align:left;">Copyright 2009 Brainies.com</td>
+                                        </tr>
+                                    </tbody></table>
+                                </div></div></div><b class="xbottom"><b class="xb4"></b><b class="xb3"></b><b class="xb2"></b><b class="xb1">
+                                                                    </b></b></div>
+                            </td>
+                        </tr>
+                    </tbody></table>
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>  
+           
+        <!-- Start Quantcast tag -->
+        <script type="text/javascript">
+        _qoptions={
+        qacct:"p-34LWwbtLEgLEY"
+        };
+        </script>
+        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+        <noscript>
+        <img src="http://pixel.quantserve.com/pixel/p-34LWwbtLEgLEY.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+        </noscript>
+        <!-- End Quantcast tag -->
+        
+        <!--[if lte IE 6]>        
+	    <script type="text/javascript" src="/scripts/supersleight.js"></script>	
+        <![endif]-->
+    </form>
+
+
+</body></html>
