@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2009-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090825190458id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ice.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527101054id_/http%3A//www.ice.gov/about/legal.htm) for the most accurate reproduction.*
 
 # ICE Website Legal Information
+
+[](http://www.addthis.com/bookmark.php?v=250&pub=dhs-opa)
 
 Thank you for visiting ICE.gov, and reviewing the privacy policy, FOIA information, and EEO data. Please remember that if you click on a link found on the ICE Website you are no longer subject to the ICE privacy policy but the privacy policy of the website on which you clicked.
 
