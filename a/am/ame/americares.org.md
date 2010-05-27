@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218091820id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americares.org privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527033459id_/http%3A//www.americares.org/tools/privacypolicy.html) for the most accurate reproduction.*
 
 # AmeriCares Privacy Policy
 
@@ -52,5 +52,3 @@ If you have any questions about this Privacy Policy, the practices of the Site, 
 > Stamford, CT 06902
 > 
 > You can also send an email to [our web team.](mailto:websiteteam@americares.org)
-
-AmeriCares is approved by the Internal Revenue Service as a 501 (C) (3) tax-exempt organization, and all donations are tax deductible to the extent provided by law. AmeriCares Federal Identification Number (EIN) is 061008595. 
