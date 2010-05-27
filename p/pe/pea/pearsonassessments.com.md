@@ -1,33 +1,93 @@
-> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619055647id_/http%3A//www.pearsonassessments.com/pa-legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearsonassessments.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085423id_/http%3A//www.pearsonassessments.com/haiweb/Cultures/en-US/Site/general/PrivacyandSecurityPolicy.htm) for the most accurate reproduction.*
 
-# Pearson Privacy Policy
+# Privacy and Security Policy
 
-NCS Pearson, a Pearson Education business, has adopted the following privacy policy statement applicable to the website, www.pearsonassessments.com, a website designed to supply information about Pearson and its products and services. If you have any questions or concerns about this Privacy Policy, please contact us at [pearsonassessments@pearson.com](mailto:pearsonassessments@pearson.com). 
+** Effective: August 1, 2008**
 
-COLLECTION AND USE OF INFORMATION FROM USER INFORMATION REQUESTS. Users may, but are not required to, send inquiries or request further information about NCS Pearson and its products and services through completing a contact or request form or sending us an email message. We collect information, including name, organization, email address and the other information supplied through such contact or email. We may use such information to respond to the inquiry, supply information about NCS Pearson and its products and services to the user from time to time and maintain a record of the contact.
+  1. [Applicability of Privacy Policy and Privacy Policy Statement](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#1)
+  2. [Collection and Storage of Information](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#2)
+  3. [Use of Information](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#3)
+  4. [Security of Private Information](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#4)
+  5. [Your Rights](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#5)
+  6. [Inquiries Concerning Privacy Policy](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#6)
+  7. [Links to Other Sites](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#7)
+  8. [Modification of This Privacy Policy](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#8)
 
-COLLECTION AND USE OF INFORMATION FROM CAREER INQUIRIES. Through the Careers page, a user may submit a resume or curriculum vitae (CV) and apply for a job or career at NCS Pearson. If you submit an application or a resume or CV, we may collect and keep a record of the submission, including the email address, the resume or CV and all information supplied with such submission, and use this information to evaluate you for an employment position at NCS Pearson. We also may, but are not obligated to, retain this information for the purpose of evaluating you for other employment opportunities in the future. 
 
-INFORMATION FROM CHILDREN. This website is not directed to children or anyone under the age of 13. NCS Pearson will not, through this website, knowingly collect, maintain or use any personally identifiable information about anyone under the age of 13.
 
-INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS. This website receives information that is automatically generated by a user's Internet service provider (ISP). This information may include the IP address (a number automatically assigned to a computer by the ISP), the associated URLs, domain types, the browser type use to access or site, the country, state and telephone area code, the location of the ISP's servers, the pages of our site that the user views during the visit, any search terms entered on this site, and the website address and email address of a user. This information may be collected for system administration purposes, to gather broad demographic information and to monitor the level of activity on the site. NCS Pearson does not link IP addresses to personal information; however, we reserve the right to link IP addresses and other information supplied by the ISP to personally identifiable information in order to protect the integrity of our system and for security purposes. 
-
-COOKIES. Cookies are small text files that a website transfers to your computer's browser. We may use cookies to measure traffic patterns, personalize content and control security. The cookies we use supply non-personally identifiable information, but may identify your computer, browser and Internet specifications.
-
-TRANSMISSION OF INFORMATION. The Internet is a global environment. By using this site and sending information to us electronically, you consent to transborder and international transmission of any data that you may choose to supply us. Information transmissions to this site and emails sent to us may not be secure. Given the inherent operation and nature of the Internet, all Internet transmissions are done at the user's own risk. 
-
-INFORMATION SHARING AND DISCLOSURE. Information collected through this site may be supplied to affiliates of NCS Pearson, and other companies and organizations who perform work for us under contract or sell products or services that complement our products and services. We also may disclose personally identifiable information in the following situations: (a) in response to a subpoena, court order or legal process, to the extent permitted and required by law; (b) to protect user security or the security of other persons, consistent with applicable laws; or; (c) in connection with a sale, joint venture or other transfer to some or all of the assets of NCS Pearson, Inc. We otherwise exercise commercially reasonable care to not otherwise share or disclose the names of users or any personally identifiable information with third parties, except with the prior approval of the user.
-
-LINKS TO OTHER SITES. This site may contain links to other websites on the Internet that are owned and operated by third parties, or by NCS Pearson or its affiliates. The information practices of those websites are not covered by this Privacy Policy, but by their own terms and policies, which you should read carefully. These other sites may send their own cookies to users, collect data or solicit personal information. This privacy policy only applies to the www.ncspearson.com website. It is not intended to apply to other NCS Pearson websites, which may have different privacy policies. 
-
-CHANGES TO THIS PRIVACY POLICY. We reserve the right to change the terms of this Privacy Policy from time to time by posting an updated Privacy Policy. We encourage you to review this Privacy Policy Statement periodically for any changes or updates.
-
-February 25, 2002
-
-**To Reach a Client Relations Representative**  
   
----  
-Call: 1-800-627-7271  
-7 AM-6 PM CST   
-Fax: 1-800-632-9011 or 952-681-3299   
-E-Mail: [pearsonassessments@pearson.com](mailto:pearsonassessments@pearson.com)
+**1\. Applicability of Privacy Policy and Privacy Policy Statement**
+
+THIS PRIVACY POLICY APPLIES SOLELY TO THE PERSONALLY IDENTIFIABLE INFORMATION YOU PROVIDE WHILE VISITING THIS SITE (SITE). THE TERMS OF THIS PRIVACY POLICY DO NOT GOVERN PERSONALLY IDENTIFIABLE INFORMATION FURNISHED THROUGH ANY MEANS OTHER THAN THIS SITE (SUCH AS BY TELEPHONE OR VIA THE MAIL). 
+
+THIS PRIVACY POLICY IS SUBJECT TO CHANGE FROM TIME TO TIME BY UPDATED POSTINGS.  THE PRIVACY POLICY IN EFFECT AT THE TIME OF USE OR SUBMISSION OF PERSONALLY IDENTIFIABLE INFORMATION WILL BE APPLICABLE. 
+
+Pearson recognizes the importance of protecting the privacy of our visitors to this Site while permitting us to conduct legitimate business by providing services and information of interest. 
+
+**IMPORTANT NOTE:   This Privacy and Security Policy applies only to this Site.  Other websites, including other Pearson websites linked through or to this Site, may have their own privacy policies.  Your use of any other website is subject to the privacy policies for that other website.  Please note that you will be linked to another Pearson website (having its own privacy policy) if you  click to obtain additional information or place an order for products or services related to the following:  Pearson Inform™, Pearson Benchmark™, PASeries®, GMADE™, GRADE™ or WriteToLearn™.**
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**2\. Collection and Storage of Information**   
+We will collect certain personal information during different activities on this Site or otherwise, such as user registration, when you purchase materials, participate in a survey, contact us with questions or offer feedback on the Site. In connection with such activities, you may be asked to provide certain information such as your name, mailing address, telephone number, fax number, credit card number and email address. In order to qualify for the purchase of materials we may also request professional qualifications, affiliations or employment information. We may maintain this information in our computer system. 
+
+We may use "cookies" to recognize you and your access privileges on the Site, as well as to trace usage of the Site. A cookie is a piece of information that is sent to your Web browser from a website and stored on your computer's hard drive. Each time you return to the Site, we are able to identify you as a previous or registered visitor. Cookies also enable us to measure the Site traffic, including the number of repeat versus new visitors, the time users spend online, and their navigation behavior using the Site. Collecting this information allows us to make changes that improve the Site. 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**3\. Use of Information**
+
+The information that we collect is used to fulfill a number of legitimate business functions, such as warranty service, product support, notices of new releases and upgrades, as well fulfilling any orders placed by you, to contact you in the event follow-up communications are necessary, to analyze survey results, to verify the statistical accuracy of the survey, to notify you of offers and services, to improve the Site, for development of new products and services, and for systems administration and troubleshooting purposes. Sometimes we hire companies to help us analyze survey results and to mail interested parties offers and information on products and services, or for other legitimate business purposes, such as product fulfillment or other third party services. In those instances, we need to share your information with them. These companies will be authorized to use the information in the same manner in which we have been authorized. In rare instances, we will disclose personally identifiable information to necessary parties to protect the Site or visitors to the Site, or to enforce compliance with our Terms and Conditions of Use.
+
+We may share personally identifiable information within the Pearson family of companies. Information concerning individuals' usage of the Site will not be disclosed to third parties except in an aggregate form (e.g., "45% of the visitors to the Site are repeat visitors") or as otherwise permitted under this Privacy Policy. 
+
+We may use the information you provide us to send you email, fax or other communications. These communications may include email newsletters as well as information regarding products or services. All such communications will include instructions explaining how you can "opt out" of future communications of the same type.
+
+We may also disclose personally identifiable information collected on the Site as follows:  
+
+
+* In the event of an asset sale, merger, restructuring, reorganization, liquidation or similar transaction we may transfer information to the successor company.
+
+*To our contractors.
+
+* When we believe such disclosure is required by law or for the protection of persons or property.  
+
+
+* With your consent.  
+
+
+Please be aware that if you disclose personally identifiable information on Website message boards or chat areas, that information may be collected and used by third parties without our knowledge and may result in unsolicited communications from third parties. Such activities are beyond the control of Pearson. 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**4\. Security of Private Information**
+
+We use industry standard security safeguards to protect personally identifiable information we collect on the Site from unauthorized access, use, modification or disclosure. However, due to the design of the Internet and other factors outside our control, we cannot guarantee that communications between you and our servers will be free from unauthorized access by third parties.
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**5\. Your Rights **
+
+You may review and approve the information about you collected while visiting the Site by contacting our Customer Service Department through our [Contact Us](https://www.pearsonassessments.com/hai/ContactUs.aspx) page. Upon your request, we will correct personal information that you state is erroneous or remove any information from our computer system. Requests for the correction or removal of information should be directed to our Customer Service Department by selecting Customer Service on our [Contact Us](https://pearsonassess.com/hai/ContactUs.aspx) page. 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**6\. Inquiries Concerning Privacy Policy **
+
+Questions regarding this Privacy Policy should be directed to [Legal.Department@Pearson.com](mailto:Legal.Department@Pearson.com). 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**7\. Links to Other Sites **
+
+  
+The Site may contain links to other Web sites that are not under our control. Such other sites do not necessarily follow this Privacy Policy, and may place their own cookies on your computer. We do not control cookies placed on your computer by third parties. 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
+
+**8\. Modification of This Privacy Policy **
+
+  
+If we change our privacy policy, we will post these changes on this website and other places deemed appropriate to inform users. 
+
+[Back to Top](http://www.pearsonassessments.com/hai/Templates/Generic/NoBoxTemplate.aspx?NRMODE=Published&NRNODEGUID=%7bFFA490B3-8CB0-409E-9908-0554078ED76C%7d&NRORIGINALURL=%2fhaiweb%2fCultures%2fen-US%2fSite%2fgeneral%2fPrivacyandSecurityPolicy%2ehtm&NRCACHEHINT=NoModifyGuest#top)
