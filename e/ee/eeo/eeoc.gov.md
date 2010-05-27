@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812231210id_/http%3A//www.eeoc.gov/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eeoc.gov privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085154id_/http%3A//www.eeoc.gov/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy for the U.S. Equal Employment Opportunity Commission Web Site
+# Privacy Policy
 
-_The U.S. Equal Employment Opportunity Commission_
+We collect no personal information about you when you visit this site unless you choose to provide this information to us. Our web server software, and our content management system, do collect certain information automatically, and some of this information is made available to us. This information is outlined below.
 
-* * *
+## Information collected and stored automatically:
 
-We collect no personal information about you when you visit www.eeoc.gov unless you choose to provide this information to us. Our web server, which is run by the Government Printing Office (GPO), does collect certain information automatically, and some of this information is made available to us.
+If you visit our site to read or download information, the following information is collected automatically by the web server. None of this information is used to identify you.
 
-## If you visit our site to read or download information, the following information is collected automatically by the web server:
+  * The name of Internet domain and IP address (an IP address is a number that is automatically assigned to your computer when you are connected to a network, such as the Internet). This information is used to help count the number of unique visits made to the site;
+  * The date and time that you access our site;
+  * The pages you visit (which helps us to determine what people are looking for);
+  * The web browser you use (which helps us to design our site to accommodate the broadest possible range of web browser software); and
+  * If you followed a link to get to us, the page you linked from (which helps us to determine how people are finding us, and how we can reach more people).
 
-  * The name of the domain (for example, aol.com, if you use an America OnLine Account, or princeton.edu if you connect from Princeton University's domain), and the IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the web) from which you access the Internet;
-  * The date and time that you access our site; and
-  * The pages you visit.
 
 
+All of this information is used to help us make our site more useful to visitors like you. We do not track or record information about individuals.
 
-GPO uses special software to analyze the information collected in the web server's logs, and generates a report for us that we use to determine the number of visitors to the different sections of our site, and to help us make our site more useful to visitors like you. We do not track or record information about individuals and their visits.
+## If you send us personal information:
 
-## If you send us personal information
+If you choose to provide us with personal information, as in e-mail with a comment or question, or by filling out a form with your personal information and submitting it to us through our web site, we use that information to respond to your message and to help us get you the information you have requested. Electronic mail is not secure. Therefore, we suggest that you not send personal information to us via e-mail, especially social security numbers. We may share information you give us with contractors acting on our behalf or with another government agency if your inquiry relates to that agency. EEOC does not collect or use information for commercial marketing. We do not share our e-mail with any other organizations, unless we receive a request from an organization conducting a civil or criminal law enforcement investigation.
 
-If you choose to provide us with personal information, as in e-mail with a comment or question, or by filling out a form with your personal information and submitting it to us through our web site, we use that information to respond to your message and to help us get you the information you have requested. We do not share our e-mail with any other organizations, unless we receive a request from an organization conducting a civil or criminal law enforcement investigation.
+Electronically submitted information is maintained and destroyed according to the requirements of the Federal Records Act and the regulations and records retention schedules of the National Archives and Records Administration, and in some cases may be covered by the Privacy Act and the Freedom of Information Act. A discussion of your rights under these laws can be found at [www.USA.gov](http://www.usa.gov/).
 
-## Links to other sites
+## Links to other sites:
 
-Our web site has links to other federal agencies. In a few cases we may link to private organizations. When you link to another site, you are no longer on our site and are subject to the privacy policy of the new site.
+We may have links to other outside web sites (both federal and non-federal) that we do not control. We are not responsible for the content or privacy policies of these sites, and users should check those policies on such sites.
 
-## Use of cookies
+## Use of cookies:
 
-Our web site is designed to [allow visitors to change the appearance of the site](https://web.archive.org/web/20090812231210id_/http%3A//www.eeoc.gov/style/about.html) by selecting from several style sheets. The main purpose of this is to improve accessibility and make the site easier to use for people with limited vision, or people who use adaptive equipment to access the web. It may also be of use for people using hand-held computers, WebTV, or other alternative web access devices. If you choose to use this feature, a "cookie" will be set on your web browser. The only thing we put in the cookie is the name of the style sheet you select. We do not track or monitor cookies, and no personal information will be collected or stored. We do not use cookies for any other purpose.
+“Cookies” are small bits of text that are either used for the duration of the session (“session cookies”), or saved on a user’s hard drive in order to identify that user, or information about that user, the next time the user logs on to a web site (“persistent cookies”). EEOC’s websites do not use persistent cookies. Session specific cookies may be used to improve the user experience and for basic web metrics. These cookies expire in a very short time frame or when a browser window closes and are permitted by current federal guidelines.
 
-* * *
+## Security:
 
-_This page was last modified on September 26, 2000._
+We maintain a variety of physical, electronic and procedural safeguards to protect the security of this web site and any personal information you provide to us. For example, this Government computer system employs software programs to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Anyone using this system expressly consents to such monitoring and is advised that if such monitoring reveals evidence of possible abuse or criminal activity, such evidence may be provided to appropriate law enforcement officials. Unauthorized attempts to upload or change information on this server are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986, and the National Information Infrastructure Protection Act of 1996.
 
-[](https://web.archive.org/index.html "Link to home page of EEOC web site") [Return to Home Page](https://web.archive.org/index.html "Link to home page of EEOC web site")
+## Changes to this policy:
+
+We will revise or update this policy if our practices change. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
