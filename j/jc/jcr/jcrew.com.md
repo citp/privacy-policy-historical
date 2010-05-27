@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130002304id_/http%3A//www.jcrew.com/AST/FooterNavigation/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jcrew.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527025705id_/http%3A//www.jcrew.com/AST/FooterNavigation/privacy.jsp) for the most accurate reproduction.*
 
 # Help-Privacy Policy
 
-PLEASE NOTE that our privacy policy has changed, effective June 7, 2008.
+PLEASE NOTE that our privacy policy has changed, effective February 25, 2010.
 
 J. Crew Group, Inc. and our family of brands, which include, but are not limited to J. Crew, crewcuts and Madewell (collectively, "J. Crew") collect customer information to help us to serve you better. We respect your privacy and are committed to maintaining and using this information responsibly. This privacy policy addresses the use and disclosure of personal information we collect from you. By visiting any of our websites, or providing your information to us, you are accepting the practices described in this privacy policy.
 
   * information we collect about you
+  * customized advertising (behavioral marketing)
   * how we use this information
   * marketing email communications
   * changing address or catalog preferences
-  * how we work with third party service providers
   * your online account
   * links to other sites
+  * how we work with third party service providers
   * cookies and web beacons
   * privacy of young children
-  * your California rights
   * security
   * accessing our websites from outside the U.S.
   * privacy policy updates
@@ -24,23 +24,35 @@ J. Crew Group, Inc. and our family of brands, which include, but are not limited
 
 ## information we collect about you
 
-Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, or apply for a J. Crew credit card. We may also collect information from you in our stores or through our catalogs or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information. If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our "email this style to a friend" functionality found on all product pages, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. Your friend's information is only used to send the forwarding email and is not saved in our customer or marketing databases.
+Any personal information you provide to us is maintained on secure servers and our internal systems. We collect information when you register online or update your account, log-in, place an order, opt-in to receive our emails, shop online, request a catalog, participate in a sweepstakes, contest, promotion or survey, join our social networking sites, or apply for a J. Crew credit card. We may also collect information from you in our stores or through our catalogs or other marketing material. This information may include, but is not limited to, your contact information (for example, your name, email address, billing and shipping addresses and phone number) and your credit card information. If you create an online account, you also have the option of providing your product preferences and demographic information. If you use our "email this style to a friend" functionality found on all product pages, or if you choose to send an email from our site to a friend, we will also collect your friend's name and email address. Your friend’s information is only used to send the forwarding email and is not saved in our customer or marketing databases.
+
+## customized advertising (behavioral marketing)
+
+J. Crew collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of J. Crew who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
+
+J. Crew Customer Relations  
+One Ivy Crescent  
+Lynchburg, VA 24513-1001
+
+Alternatively, you may send us an email at [contactus@jcrew.com ](mailto:contactus@jcrew.com) with the words "California Privacy Rights" in the subject line. 
 
 ## how we use this information
 
-When you supply your postal address, either when requesting a catalog or placing an order, you may receive catalogs by mail from us. We also occasionally make our postal list available for limited use by unaffiliated third parties.
-
+When you supply your postal address, either when requesting a catalog or placing an order, you may receive catalogs by mail from us. We also occasionally make our postal list available for limited use by unaffiliated third parties.  
 When you place an order on any of our websites, we use this information to process and track your order and contact you via email, postal mail or phone if we have any questions or concerns regarding your order. If you provide an email address during checkout, you will also receive order confirmation and shipping status emails. 
 
-We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience.
+We also maintain a record of your purchases made on any of our websites and combine this with information you have provided in our retail stores or over the phone in order to serve you better. We may combine information you provide with demographic information and information that is publicly available. We may also use information about your product preferences and interests in order to improve our site design and enhance your shopping experience. 
 
-When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated. 
-
+When we offer sweepstakes, contests, promotions or surveys, you may be required to provide certain personal information so we can notify winners and/or fulfill promotional obligations. In these instances, you have the option to receive emails or other communications from us regarding our products, services, contests, and promotions. Even if you have previously chosen not to receive email or postal mail from us, you may still receive information as it relates to the sweepstakes, contest, promotion or survey in which you have participated.   
 We may also share your information, including, without limitation, your email address (but not your credit card information) with unaffiliated third parties that would enable them to contact you about products or services you may be interested in.
 
 In the unlikely event of a sale of some or all of our business, J.Crew may disclose your personal information to a purchaser that agrees to abide by the terms and conditions of this privacy policy. 
 
-You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our websites or the public.
+You should also be aware that we may disclose specific information about you if required to do so by law, governmental request, process or court order or based on our good faith belief that it is necessary to conform or comply with such law, request or court order or to protect the users of our websites or the public. 
+
+## your California rights
+
+Advertisements displayed to you on our websites and elsewhere on the Web may be customized to your interests and preferences, based on information learned about you as you use our websites and the Web in general. If you do not want to participate in this, please visit <http://www.networkadvertising.org/managing/opt_out.asp> to opt-out. 
 
 ## marketing email communications
 
@@ -75,7 +87,7 @@ Lynchburg, VA 24513-1001
 
 Or you may contact us by phone at (800) 562-0258, 24 hours a day, seven days a week.
 
-Please be aware that it can take up to 10 business days to remove you from our marketing email lists. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails.
+Please be aware that it can take up to 10 business days to remove you from our marketing email lists. And although we will no longer share your contact information with unaffiliated third parties for their marketing purposes, if they already have your information you will have to opt-out of their marketing communications by contacting them directly. If you opt-out from receiving our marketing emails, you will continue to receive order confirmation and shipping status emails. 
 
 ## changing address or catalog preferences
 
@@ -110,51 +122,39 @@ J.Crew Customer Relations
 One Ivy Crescent  
 Lynchburg, VA 24513-1001
 
-Or you may contact us by phone at (800) 562-0258, 24 hours a day, seven days a week.
-
-## how we work with third party service providers
-
-J.Crew works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When J.Crew allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service. 
-
-We currently use the services of a few carefully selected marketing companies to help manage and optimize our Internet business and communications. These companies help us to measure the effectiveness of our advertising and better understand how visitors use our sites. To do this, cookies and web beacons are placed on our websites on our behalf. The type of information collected in this manner includes pages visited, products viewed and products placed in your shopping cart. By supplementing our records, this information helps us to identify what pages are most attractive to our visitors, which of our products most interest our customers and what kinds of offers our customers like to see. Although our marketing partners record the information coming from our sites on our behalf, the data subsequently retrieved cannot be used for any reason without our authorization. If you prefer that we not include your information in our ongoing analysis to improve our websites, products and offers, you can "opt-out" by [clicking here](http://www.jcrew.com/help/unsubscribe_non_reg_users.jsp?FOLDER%3C%3Efolder_id=2534374302024423&bmUID=1259537648215).
-
-In addition, we may share statistical, demographic and other non-personally identifiable information with third party companies to help manage and optimize our Internet business and communications. 
+Or you may contact us by phone at (800) 562-0258, 24 hours a day, seven days a week. 
 
 ## your online account
 
-When setting up an online account at any of our websites, you will be prompted to select a password. The retrieval of personal information relating to you and your order history is only available to you if you provide the correct password that you have created. After providing your password, you can edit or delete your information at any time through the "my account" page. 
+When setting up an online account at any of our websites, you will be prompted to select a password. The retrieval of personal information relating to you and your order history is only available to you if you provide the correct password that you have created, and all profile information, including your address book, is only available while you are logged in to your account. After providing your password, you can edit or delete your information at any time through the "my account" page. 
 
-If you forget your password, you can request that it be emailed to your email address. We will not give passwords out over the phone, nor will we email them to a different address than the one used to register. If you request to have your password emailed to you, your credit card information will be automatically deleted from your profile for your protection. 
+If you forget your password, a new password will be assigned to you and will be emailed to your email address. We will not give passwords out over the phone, nor will we email them to a different address than the one used to register. 
 
 Your address book, located in the "my account" page of each website, is your personal storage space. We do not use the information in your address book to send email promotions or catalogs by mail. 
-
-When you enter names in your address book, those names will be accessible on your computer to place online orders on our website, whether you are logged in or not. If you are using a public computer, please click on the link on your order confirmation page that prompts you to "click here to clear all information" after placing your order to maximize privacy.
 
 ## links to other sites
 
 To enhance your shopping experience, our websites may include links to other sites outside our family of brands. Those websites will have their own privacy policies that you may wish to review. J.Crew has no responsibility for these linked websites, outside of our family of brands.
 
+##  how we work with third party service providers
+
+J.Crew works with reputable third parties who perform services on our behalf. Sometimes these service providers need information about our customers in order to do their jobs, such as fulfill orders and promotions, maintain and manage our customer database and report on customer behavior and/or preferences. When J.Crew allows these service providers access to your information, we require them to maintain your information in the strictest confidence and we do not permit them to use it in any way other than to help us provide you with better service. 
+
+We currently use the services of a few carefully selected companies to help manage and optimize our Internet business and communications. These companies help us to measure the effectiveness of our advertising and better understand how visitors use our sites. To do this, cookies are placed on computer browsers and web beacons are placed on our websites on our behalf. The type of information collected in this manner includes pages visited, products viewed and products placed in your shopping cart. By supplementing our records, this information helps us to identify what pages are most attractive to our visitors, which of our products most interest our customers and what kinds of offers our customers like to see. 
+
 ## cookies and web beacons
 
-Cookies are bits of information that we automatically store on your computer if your computer accepts cookies. Cookies do not retain any personally identifiable information such as your name, address or any financial information, on your computer. We use cookies to recognize you and your preferences in order to improve the shopping process and provide you with a customized experience on our websites. J.Crew places a unique user ID number on your cookie which allows us to access information that we can then use to improve your shopping experience, such as holding items in your shopping bag, accessing your address book, or providing you with customized pages based on your past viewing or purchasing history. 
+Cookies are small data files that are automatically stored on your computer when you visit our websites. Cookies are used to track the pages of the websites you’ve visited and do not retain any personally identifiable information such as your name, address or any financial information. We may use cookies to enable you to use certain website features, remember the items in your shopping cart, store your preferences, recognize you when you return to our website, track your orders, and monitor and maintain information about your use of our websites. By using our websites, you consent to our placement of cookies on your computer. 
 
-If you do not wish to have cookies on your system, you can set your browser preferences to refuse them. In order to disable cookies, please consult your browser's "help" section for instructions.
+You may occasionally get cookies from our business partners or other third parties. We have no access to or control over these cookies. 
 
-Web beacons are small strings of code that are placed in a web page. They are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags". Web beacons are most often used in conjunction with cookies to monitor activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit.
+Most internet browsers automatically accept cookies, but if you do not wish to have cookies on your system, you can set your browser preferences to refuse them or to alert you when cookies are being sent. In order to disable cookies, please consult your browser's "help" section for instructions. Additionally, if you have an Adobe Flash player installed on your computer, your Flash player can be set to reject or delete Flash cookies. If you choose to decline cookies, you may not be able to fully experience the features of our websites.
+
+Web beacons are small strings of code that are placed in a web page or in an email message. They are sometimes called "clear GIFs" (Graphics Interchange Format) or "pixel tags". Web beacons are most often used in conjunction with cookies to track activity on our websites. When you visit a particular web page, web beacons notify us of your visit. Since web beacons are used in combination with cookies, if you disable cookies the web beacons will only detect an anonymous website visit. When used in an email, Web beacons enable us to know whether you have received the email. 
 
 ## privacy of young children
 
-J.Crew is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only.
-
-## your California rights
-
-J. Crew collects various types of personal information about you both online and offline, as described in this privacy policy. Under California law, customers of J. Crew who are residents of California may request certain information about our disclosure of personal information during the prior calendar year to third parties for their direct marketing purposes. To make such a request, please write to us at the following address:
-
-J. Crew Customer Relations  
-One Ivy Crescent  
-Lynchburg, VA 24513-1001
-
-Alternatively, you may send us an email at [contactus@jcrew.com](mailto:contactus@jcrew.com) with the words "California Privacy Rights" in the subject line. 
+J.Crew is concerned about the privacy of young children and we do not knowingly collect any personal information from a child under 13. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only. 
 
 ## security
 
@@ -173,11 +173,11 @@ While we implement these and other security measures on our sites, please note t
 
 ## accessing our web sites from outside the US
 
-If you are visiting jcrew.com or madewell1937.com from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy.
+If you are visiting jcrew.com or madewell1937.com from a location outside of the United States, you will be connected through and to servers located within the United States. All online orders will be accepted and fully processed in and shipped from the United States and all information you provide will be securely maintained on web servers and our internal systems located within the United States. By providing your information to us, you agree that all personal information will be used in accordance with this privacy policy and pursuant to U.S. law. 
 
 ## privacy policy updates
 
-We may update our privacy policy from time to time and our use of the information we collect is subject to the terms of the privacy policy in effect when we collect that information. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If you have any questions or concerns regarding our privacy policy, please contact us:
+We may update our privacy policy from time to time. Whenever we make a change, we will post the updated policy at this site and we encourage you to check our policy periodically. If we make a material change to our privacy policy that would lessen your privacy rights, we will either continue to honor our prior policy for information that we collected when it was in force, or we will ask for your consent to the change. If you have any questions or concerns regarding our privacy policy, please contact us: 
 
   * By email: [contactus@jcrew.com](mailto:contactus@jcrew.com)
   * By phone: (800) 562-0258  
@@ -190,4 +190,4 @@ We may update our privacy policy from time to time and our use of the informatio
 
 
 
-Effective as of June 7, 2008.
+Effective as of February 25, 2010.
