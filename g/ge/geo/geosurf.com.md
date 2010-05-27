@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geosurf.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230093430id_/http%3A//www.geosurf.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geosurf.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527054745id_/http%3A//www.geosurf.com/privacy-policy.html) for the most accurate reproduction.*
 
-# GeoSurf by BIScience - Empowering Intelligence
+# Privacy Policy | GeoSurf by BIscience - Empowering Intelligence
 
 Biscience is strongly committed to protecting and respecting your privacy rights in accordance with the respective compliance obligations of the countries in which we operate. This Biscience Customer Privacy Policy sets out the basis on which Biscience protect visitors’ personal data, while understanding our data security and privacy practices regarding storing customers’ personal data of Biscience services. 
 
