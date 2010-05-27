@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sakuralive.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201022905id_/http%3A//www.sakuralive.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sakuralive.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527233413id_/http%3A//sakuralive.com/privacy/free-japanese-webcam.html) for the most accurate reproduction.*
 
 # Free Japanese Webcam: Private Policy Is Taken Very Seriously At Sakuralive.com
 
