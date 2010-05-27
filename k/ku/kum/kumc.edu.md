@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207211118id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kumc.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085102id_/http%3A//www.kumc.edu/Pulse/privacy.html) for the most accurate reproduction.*
 
 # University of Kansas Medical Center Privacy Statement
 
@@ -16,6 +16,6 @@ Several applications within the web site use cookies to retrieve and customize t
 
 Certain forms on our site solicit personal information when necessary to provide specific services, such as fulfilling library requests. Confidential information, such as credit card numbers and patient information, use SSL (secure socket layers) to safeguard your personal data against interception during transmission. All of the data collected via our web forms is confidential and internal to employees of the University. At no time will the University sell or distribute personal information to a third party.
 
-Questions regarding this privacy statement or the practices of this site may be submitted to [pulse@kumc.edu](mailto:pulse@kumc.edu).
+Questions regarding this privacy statement or the practices of this site may be submitted to [internetdev@kumc.edu](mailto:internetdev@kumc.edu).
 
 top of page
