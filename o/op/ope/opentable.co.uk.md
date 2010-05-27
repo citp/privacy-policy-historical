@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129092033id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opentable.co.uk privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527042411id_/http%3A//www.opentable.com/info/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Online Reservations Privacy Policy - OpenTable
 
