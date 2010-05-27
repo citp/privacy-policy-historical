@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107040547id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worthpoint.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527145048id_/http%3A//www.worthpoint.com/worthpoint-privacy-policy) for the most accurate reproduction.*
 
 # WorthPoint-GoAntiques-PriceMiner Privacy Policy | WorthPoint
 
@@ -83,4 +83,4 @@ We reserve the right to retain any Personal Information reasonably necessary to 
 
 If you have questions regarding our Websites, our services, the privacy policy or your privacy while accessing or using our Websites, you can send a request with any further questions to us by e-mail at support [at] worthpoint [dot] com, by mail at: **WorthPoint Corporation, 75 5th Street, Suite 212, Atlanta, GA, 30308, Attention: Member Support.**
 
-Or you may call us at: **404-477-3250**.
+Or you may call us at: **877-481-5750.**
