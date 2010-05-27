@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202042259id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the genius.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527064013id_/http%3A//www.genius.com/about/PrivacyPolicy.php) for the most accurate reproduction.*
 
 # PrivacyPolicy : About Genius.com
 
@@ -6,13 +6,13 @@ Genius.com® Incorporated ("Genius") respects your privacy and has created this 
 
 Genius is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the sites [www.genius.com](http://www.genius.com/) and www.salesgenius.com. Because Genius wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
-If you have questions or concerns regarding this statement, you should first contact Genius Support at support@genius.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Genius Support at . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
 ### Information Collection and Use
 
 We require customers who register to use the services offered on our Sites (collectively, the "Service") to give us contact information, such as their name, company name, address, phone number, and e-mail address, and financial qualification and billing information, such as billing name and address, and credit card number. When you register for the Service, or when you ask for additional information from Genius about the Service, we may also ask you for additional personal information, such as title, department name, fax number, or additional company information, such as annual revenues, number of employees, or industry. Customers can opt out of providing this additional information by not providing it when asked to do so. 
 
-Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20091202042259id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email. 
+Genius uses the information that we collect to set up the Service for customers and their organizations. We may also use the information to contact customers to discuss customer interest in our company, the Service that we provide, and to send information regarding our company or partners, such as promotions and events. Customers can opt out of being contacted by us, or receiving such information from us, at any time by [clicking here](https://web.archive.org/web/20100527064013id_/http%3A//www.genius.com/forms/email-opt-out.php) and submitting their email. 
 
 All financial and billing information that we collect through the Site is used solely to check the qualifications of prospective customers and to bill for the Service. This billing information is not used by Genius for marketing or promotional purposes. Genius uses a third-party intermediary to manage the credit card processing. This intermediary is solely a link in the distribution chain, and is not permitted to store, retain, or use the information provided, except for the sole purpose of credit card processing. 
 
@@ -45,7 +45,7 @@ Genius reserves the right to send customers certain communications from relating
 
 ### Correcting & Updating Your Information
 
-If customers need to update or change registration information they may do so by editing the user record. To update User Preferences, log on to salesgenius.com and select Preferences to add or update information. To update billing information please e-mail support@genius.com or call 650-212-2050, x116. To discontinue the Service, please call 650-212-2050, x116. Genius will respond to your correction or update request within at most 30 days from the date of your request. 
+If customers need to update or change registration information they may do so by editing the user record. To update User Preferences, log on to salesgenius.com and select Preferences to add or update information. To update billing information please e-mail or call 650-212-2050, x116. To discontinue the Service, please call 650-212-2050, x116. Genius will respond to your correction or update request within at most 30 days from the date of your request. 
 
 ### Cookies
 
@@ -79,7 +79,7 @@ Genius may update this Statement at any time, so please review it frequently. If
 
 ### Questions?
 
-If you have any questions about this Statement or the practices of this Site, please contact us at support@genius.com. You may also write to us at Genius.com Incorporated, 1400 Fashion Island Boulevard, Suite 500, San Mateo, CA 94404. 
+If you have any questions about this Statement or the practices of this Site, please contact us at . You may also write to us at Genius.com Incorporated, 1400 Fashion Island Boulevard, Suite 500, San Mateo, CA 94404. 
 
 The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from this site. 
 
