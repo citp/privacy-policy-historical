@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2009-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090106203700id_/http%3A//www.ashworthcollege.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashworthcollege.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527094103id_/http%3A//www.ashworthcollege.edu/privacy) for the most accurate reproduction.*
 
-# Ashworth College - Privacy
+# Privacy - Ashworth College
 
 ## Introduction
 
 We recognize the importance of protecting your privacy and the information that you share with us. Described below is our policy on the collection, use, disclosure, maintenance, and protection of personal information that you provide to us through this website.
 
-## Email Policy
+### Email Policy
 
-We have established an [Email Policy](http://www.ashworthcollege.edu/emailpolicy.html) with respect to email messages containing our content and submitted by third parties on its behalf to email recipients. Please [click here](http://www.ashworthcollege.edu/emailpolicy.html) to view Email Policy.
+We have established an [Email Policy](http://www.ashworthcollege.edu/email/policy/) with respect to email messages containing our content and submitted by third parties on its behalf to email recipients. Please [click here](http://www.ashworthcollege.edu/email/policy/) to view Email Policy.
 
-## Collection of Information 
+### Collection of Information 
 
 The information that we collect from you through this website will vary depending upon how you use the website and what information you choose to provide to us.If you contact us via e-mail or submit an online request for information, we will collect the information that you provide to us in your e-mail message or request, including your name, contact information, e-mail address and any questions or comments that you may submit.
 
@@ -20,28 +20,28 @@ We use third-party tools that captures detailed information about how users inte
 
 We may use third-party advertising companies to serve ads on our behalf. These companies may employ cookies and action tags (also known as single pixel gifs or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, [click here](http://www.networkadvertising.org/optout_nonppii.asp "Leaving current website").
 
-## Use of Information
+### Use of Information
 
 If you send us any questions or comments by e-mail, we will use your e-mail address to respond to your questions or comments. If you submit an online request for information, we will use your name and contact information to process your request.
 
-## Distribution of Information 
+### Distribution of Information 
 
 We occasionally make our student and prospect lists, including names and addresses, available to other companies, selectively, whose services we believe could be of benefit to our students and prospects. In addition, we may disclose information concerning our website and its users in aggregate, non-personally-identifiable form. We never disclose student e-mail addresses.
 
-## Your Choice 
+### Your Choice 
 
 When we obtain personal information from you, we will provide you with the opportunity to opt-out of any third party disclosure of that information or its use in ways unrelated to the operation of the website. If you later decide to opt-out of such disclosures, you may do so by contacting us at the following address: 
 
 **Ashworth College**  
 Attn: Marketing Manager  
 430 Technology Parkway  
-Norcross, Georgia 30092 e-mail: [marketingmanager@ashworthcollege.edu](mailto:marketingmanager@ashworthcollege.edu)  
+Norcross, Georgia 30092 e-mail: [marketingmanager@ashworthcollege.edu](mailto:marketingmanager@ashworthcollege.edu)   
 This e-mail address is for name removal only 
 
-## Access To Your Information 
+### Access To Your Information 
 
 Maintaining information that is current, accurate, and complete allows us to make our website more useful and to provide our students with better service. To that end, we encourage you to update your information from time to time. To review the information that we have concerning you and your use of this website, please contact us at the address set forth above.
 
-## Security
+### Security
 
 We use industry standard security measures to protect any personal information that you may provide to us. However, we cannot guarantee that your submissions to our website, any content residing on our servers, or any transmissions from our server will be completely secure.The Student Online Help Line and the online exams can only be accessed with a valid student number. You are responsible for keeping your student number secret and confidential, and for notifying us if you believe that your student number has been stolen or might otherwise be misused.
