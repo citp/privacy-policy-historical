@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the videoprofessor.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616112431id_/http%3A//www.videoprofessor.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the videoprofessor.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527224246id_/http%3A//www.videoprofessor.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Video Professor
 
@@ -27,7 +27,7 @@ Some third parties may use cookies on our web sites, so they can track orders pl
 
 These third-party cookies may gather non-personally identifiable information at one web site and use that information to direct ad content at another site. Many of these third-party ad networks belong to the National Advertising Initiative (NAI). The NAI has released a set of self-regulatory principles, which includes mandating an opt-out mechanism for the targeted ad programs their members provide. To acquire more information about the NAI principles and to opt out of receiving NAI member advertisements, please visit: <http://www.networkadvertising.org/managing/opt_out.asp>
 
-Specifically, Video Professor has partnered with aCerno, Inc. for its third-party advertisements. aCerno’s Privacy Policy can be found at <http://acerno.com/privacy.html> and you may opt out from aCerno’s placement of an ad-serving cookie on your computer by clicking here <http://www.imiclk.com/cgi/optout.cgi>
+Specifically, Video Professor has partnered with aCerno, Inc. for its third-party advertisements. aCerno’s Privacy Policy can be found at <http://acerno.com/privacy.html>
 
 **PLEASE NOTE: If you erase or otherwise alter your browser’s cookie file (including upgrading certain browsers) you may need to perform any opt-out procedure again.**
 
