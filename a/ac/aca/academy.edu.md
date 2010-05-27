@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223083611id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the academy.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527085036id_/http%3A//www.academy.edu/privacy.aspx) for the most accurate reproduction.*
 
 # International Academy of Design & Technology - Tampa | Privacy
 
@@ -51,3 +51,16 @@ Career Education Corporation
 Suite 600  
 Hoffman Estates, Illinois 60195  
 Phone: 847-781-3600
+
+  
+
+
+## Request More Info!
+
+Tell us more about yourself and specify your campus and program of interest. An admissions representative will contact you to provide you with more information. 
+
+*Required Fields
+
+###  Step 2 of 2
+
+*How did you hear about us?
