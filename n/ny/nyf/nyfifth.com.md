@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223030814id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyfifth.com privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527082806id_/http%3A//www.nyfifth.com/privacy.php) for the most accurate reproduction.*
 
 # About Us
 
@@ -35,7 +35,7 @@ Many messages you initiate through NyFifth, for instance a notification sent to 
 **Legal Disclaimer**  
 It is possible that we may need to disclose personal information when required by law. We will disclose such information wherein we have a good-faith belief that it is necessary to comply with a court order, ongoing judicial proceeding, or other legal process served on our company or to exercise our legal rights or defend against legal claims.  
 **Accessing and Changing Your Account Information**  
-You can review the personal information you provided us and make any desired changes to the information, or to the settings for your NyFifth account, at any time by logging in to your account on the NyFifth website and editing the information on your account page. To request that we close your account and remove your information please send your request to [support@nyfifth.com](mailto:support@nyfifth.com). Please send your request using an email account that you have registered with NyFifth under your name. You will receive a response to requests within at least three business days of our receiving it.   
+You can review the personal information you provided us and make any desired changes to the information, or to the settings for your NyFifth account, at any time by logging in to your account on the NyFifth website and editing the information on your account page. To request that we close your account and remove your information please send your request to [support@nyfifth-inc.com](mailto:support@nyfifth-inc.com). Please send your request using an email account that you have registered with NyFifth under your name. You will receive a response to requests within at least three business days of our receiving it.   
 **Changes to this Privacy Policy**  
 NyFifth may update this privacy policy. In the event there are significant changes in the way we treat your personal information, we will send a notice to the primary email address specified in your NyFifth account or by displaying a prominent notice on this site.   
 **Questions or Comments**  
