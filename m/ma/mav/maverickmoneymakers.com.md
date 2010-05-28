@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216215436id_/http%3A//maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maverickmoneymakers.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528145132id_/http%3A//www.maverickmoneymakers.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Maverick Money Makers™ | Privacy Policy
+# Maverick Money Makers� | Privacy Policy
 
 Maverick Money Makers  
 Privacy Policy
@@ -29,7 +29,7 @@ Responses to Email Inquiries: When Visitors or Members send email inquiries to u
 
 Newsletters: If you wish to subscribe to our newsletter(s), we will use your email address to send the newsletter to you. We require that you "Double Opt-in" in order to receive our newsletter. If you subscribe to our newsletter, we may share the Personally Identifiable Information you provide with a select group of third party marketing partners that offer similar products/services you may be interested in. We only work with marketing partners that contractually agree to offer you the ability to opt-out of receiving future offers, and contractually agree not to share your information with others. Our third party marketing partners are separate from the Site and we are not responsible for their content or offers. If you do not wish your information to be shared with our marketing partners, please do not order our products, or contact us at the address below. 
 
-Choice/Opt-out: We provide you the opportunity to ‘opt-out’ of receiving our newsletter, in which case your email address is permanently removed from our database, but please note that we cannot prohibit third parties from maintaining your information once we have shared your information with them in accordance with this Privacy Policy. If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter.
+Choice/Opt-out: We provide you the opportunity to �opt-out� of receiving our newsletter, in which case your email address is permanently removed from our database, but please note that we cannot prohibit third parties from maintaining your information once we have shared your information with them in accordance with this Privacy Policy. If you no longer wish to receive our newsletter, you may opt-out of receiving it by following the instructions included in each newsletter.
 
 We may use your Personally Identifiable Information to contact you with information we think you would be interested in. If you do not want to receive this information, email us at privacy@directsupportcenter.com. Email messages will also provide you with an opportunity to opt-out of receiving this information. Please note that changes to your preferences may not be effective immediately.
 
@@ -41,9 +41,9 @@ If you are a Visitor or Member we may use a cookie to save your settings and to 
 
 Legal: If Company is sold to, or merges with, another company, or declares bankruptcy, some or all of the information collected from you may be transferred to a third party as a result of the transfer of assets. We reserve the right to disclose your Personally Identifiable Information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site, or to protect our company and our Members.
 
-Our Commitment to Children’s Privacy
+Our Commitment to Children�s Privacy
 
-Protecting children’s privacy is especially important to us. This Site is not intended for use by children. We will not knowingly collect any Personally Identifiable Information submitted by visitors to the Site who are under the age of 13.
+Protecting children�s privacy is especially important to us. This Site is not intended for use by children. We will not knowingly collect any Personally Identifiable Information submitted by visitors to the Site who are under the age of 13.
 
 Our Commitment to Data Security
 
