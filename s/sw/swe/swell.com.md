@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204191327id_/http%3A//www.swell.com/PrivacyandSecurity) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swell.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528213741id_/http%3A//www.swell.com/PrivacyandSecurity) for the most accurate reproduction.*
 
 # Swell.com
 
@@ -8,7 +8,7 @@ Risk Free: Our Guarantee
 
 **
 
-Swell is committed to customer satisfaction. If you receive merchandise that you are unhappy with for any reason, simply return it to Swell with in 45 days - in the condition that you received it - and we will gladly make an exchange, credit or refund.
+Swell is committed to customer satisfaction. If you receive merchandise that you are unhappy with for any reason, simply return it to Swell within 90 days — in the condition that you received it — and you will receive a cash refund. After 90 days and up to 365 days we will issue a store credit THAT NEVER EXPIRES! Gift Cards may be returned at any time for store credit redeemable at Swell.com in the amount equivalent to the remaining card balance. Surfboard sales are final and cannot be returned unless damaged upon receipt. 
 
 Feel confident, Swell takes the risk out of ordering.
 
@@ -52,7 +52,8 @@ San Clemente, CA 92672
 9\. Swell and third-party use of "cookies" and "action tags."  
 10\. You should carefully review privacy policies of any third party sites accessible from Swell  
 11\. Contacting Swell about privacy questions or concerns  
-12\. Privacy Policy changes 
+12\. Privacy Policy changes   
+13\. [Surfline's Privacy Policy ](http://www.surfline.com/privacy.cfm)
 
 * * *
 
