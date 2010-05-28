@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalcereal.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103053137id_/http%3A//www.generalmills.com/corporate/privacy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalcereal.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528045700id_/http%3A//www.generalmills.com/corporate/privacy/privacy.aspx) for the most accurate reproduction.*
 
 # General Mills: Privacy
 
