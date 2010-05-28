@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417055315id_/http%3A//www.workday.com/company/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workday.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528141504id_/http%3A//www.workday.com/company/privacy.php) for the most accurate reproduction.*
 
 # Workday | Workday Legal Privacy Policy
 
@@ -24,15 +24,15 @@ Your friend may contact us at [privacy@workday.com](mailto:privacy@workday.com) 
 
 #### Use of Web Site
 
-Workday, or Workday-authorized service providers, may observe your activities, preferences, and transactional data relating to your use of this web site and our services. While we may collect or log this information, we do not identify you or match this information with your other personal information (such as your IP address). We may use this collected or logged information to diagnose web site technical problems. Workday or our authorized service provider may use this information to track aggregate traffic patterns throughout this web site.
+Workday, or Workday-authorized service providers, may observe your activities, preferences, and transactional data relating to your use of this web site and our services. While we may collect or log this information, we do not identify you or match this information with your other personal information (such as your IP address) unless you have chosen to identify yourself by completing a contact form on the Web site. We may use this collected or logged information to diagnose web site technical problems. Workday or our authorized service provider may use this information to track aggregate traffic patterns throughout this web site.  If you have submitted contact information via forms on the site,Workday may use information from cookies and web beacons to provide you with information about the Company and the Service.
 
 **Cookies**  
 Cookies are small text files that our web sites ask to place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our web site, tailor its content to your preferences, to help us analyze web traffic in general and to track when site visitors complete surveys. You can set your browser to refuse cookies, or to warn you before a cookie is placed.
 
-We also use web beacons, or transparent GIF files, provided by our service provider WebSideStory, to report activity on our site, help manage our online advertising and measure its effectiveness. These files enable our service provider to recognize a cookie on your web browser, which in turn enables us to learn which advertisements are most effective. The cookie was placed either by us or by our service providers. The information that we collect by means of these technologies is anonymous and not personally identifiable.
+We also use web beacons, or transparent GIF files, provided by our service provider WebSideStory, to report activity on our site, help manage our online advertising and measure its effectiveness. These files enable our service provider to recognize a cookie on your web browser, which in turn enables us to learn which advertisements are most effective. The cookie was placed either by us or by our service providers. The information that we collect by means of these technologies is anonymous and not personally identifiable unless you have chosen to idnetify yourself through a form on the web site.
 
 **Customer Data**  
-As part of Workday's services, customers may load data into Workday servers. Workday will not share or distribute any such customer data except as provided in the contractual agreement between Workday and customer, or as may be required by law. Individual records of customer data may be viewed or accessed only for the purpose of responding to service or technical issues, assisting the customer in implementation or upgrade testing, at customer's request, or as may be required by law.
+As part of Workday's services, customers may load data into Workday servers. Workday will not share or distribute any such customer data except as provided in the contractual agreement between Workday and customer, or as may be required by law.
 
 **Data Processing**  
 Any personal data collected about EU visitors via this web site will be processed in the United States by Workday or a party acting on its behalf. When you provide personal data to Workday, you consent to the processing of your data in the United States as this Web site is operated in the United States.
@@ -77,4 +77,4 @@ Workday abides by the EU Safe Harbor framework as set forth by the Department of
 
 If you have questions or concerns regarding this statement, you should first contact Workday at [privacy@Workday.com](mailto:privacy@workday.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.
 
-_Last Updated on March 16, 2009_
+_Last Updated on November 13, 2009_
