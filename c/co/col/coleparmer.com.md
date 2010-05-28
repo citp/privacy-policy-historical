@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2009-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090513085337id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coleparmer.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528093854id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.*
 
 # Cole-Parmer: Privacy Statement
 
@@ -9,7 +9,7 @@ This is the Web site of
 **625 East Bunker Court  
 Vernon Hills, IL 60061**
 
-We can be reached via e-mail at [privacy@coleparmer.com](mailto:privacy@coleparmer.com)  
+We can be reached via e-mail at [info@coleparmer.com](mailto:info@coleparmer.com)  
 or you can reach us by telephone at 1-800-323-4340. 
 
   
@@ -24,14 +24,14 @@ Also, we work with FetchBack to display Retargeted ads to our site prospects, on
 Cole-Parmer also reserves the right to retain the content of any questions or comments that are sent to our employees. This information will be used to help improve responses to future questions. For international customers, information may be shared with our international dealers.
 
 What is this Information Used For?   
-The information that Cole-Parmer collects is used to better serve our customers. This information is used to notify you of changes made to our site, to tell you about new products available on our site, and to contact you for other legitimate business purposes. From time to time, we may choose to exchange this information with other parties whose products and/or services we think may be of interest to you. If you do not want your information being exchanged with other parties, send us an e-mail at [privacy@coleparmer.com](mailto:privacy@coleparmer.com) from each e-mail address that you've used to request information, register, or place an order on ColeParmer.com. 
+The information that Cole-Parmer collects is used to better serve our customers. This information is used to notify you of changes made to our site, to tell you about new products available on our site, and to contact you for other legitimate business purposes. We respect your right to privacy, therefore Cole-Parmer does not rent or sell any e-mail or postal address content. 
 
 Customers who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. Please provide us with your correct phone number.
 
 How do I Unsubscribe?  
 Visitors to our Web site can unsubscribe from receiving e-mail updates and advertisements by choosing “Unsubscribe” on our [E-mail Preferences page](https://web.archive.org/catalog/mycp/unsubscribe.asp?sUrl=NO).
 
-If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at [privacy@coleparmer.com](mailto:privacy@coleparmer.com) or   
+If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at [info@coleparmer.com](mailto:info@coleparmer.com) or   
 telephone at 1-800-323-4340. Please provide us with your exact name and address. 
 
   
