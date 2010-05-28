@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the demco.com privacy policy that was archived on 2009-05-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090523044449id_/http%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY%26FR5PRIVCY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the demco.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528171250id_/http%3A//www.demco.com/goto%3FHSPSECURITY_PRIVACY%26FR5PRIVCY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>Demco.com&nbsp;&nbsp;
@@ -30,8 +30,53 @@ protectors, book carts, book cart, library book cart">
 <!-- <LINK REL='stylesheet' TYPE='text/css' HREF='/webprd_demco/stylesheet8801.css' TITLE='style'>-->
 <link href="/webprd_demco/styles/styles.css" rel="stylesheet" type="text/css">
 
-<script src="/webprd_demco/scripts/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script><script src="/webprd_demco/scripts/jquery.corner.js" type="text/javascript" charset="utf-8"></script><script language="JavaScript" src="/webprd_demco/defaultscript88.js"></script><script language="JavaScript">
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=LPdemco"></script></head>
+
+
+
+<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="StdOnLoad(); GetBrowser();">
+
+
+<script src="/webprd_demco/scripts/jquery-1.2.6.min.js" type="text/javascript" charset="utf-8"></script>
+<script src="/webprd_demco/scripts/jquery.corner.js" type="text/javascript" charset="utf-8"></script>
+
+<!--[if lt IE 7.]>
+<script defer type="text/javascript" src="/webprd_demco/scripts/pngfix.js"></script>
+<![endif]-->
+
+
+<script language="JavaScript" src="/webprd_demco/defaultscript88.js"></script>
+
+<script language="JavaScript">
 <!--
+
+function StdOnLoad()
+{
+   var DoNothing = 1;
+   var SessExp = new Date();
+   SessExp.setTime(SessExp.getTime() + (100*24*60*60*1000));
+   document.cookie = "WCKSESSID=" + escape('44406559152823277297') + "; expires=" + SessExp.toGMTString() + ";path=/";
+   document.cookie = "WCKVISITR=" + escape('') + "; expires=" + SessExp.toGMTString() + ";path=/";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
 
 function HandlePage(Act,Proc,Func)
 {
@@ -40,7 +85,7 @@ function HandlePage(Act,Proc,Func)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -53,7 +98,7 @@ function HandlePageTrk(Act,Proc,Func,TrackID)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -68,7 +113,7 @@ function GotoPage(PageID)
    var NavPage = 'SPECIALPAGE';
 
    var HandleOpt   = 'PROCFUN+LWDCWEB21+LWDC265' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + NavPage + '+ZZWGOTOPG(A0800):' + PageID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + NavPage + '+ZZWGOTOPG(A0800):' + PageID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -85,7 +130,7 @@ function SnippetPage(PageNam,PageFmt,TrkID)
    case 'P':
         var AssistOpt = document.LANSA.AHTTP.value;
         AssistOpt += '/CGI-BIN/LANSAWEB?PROCFUN+LWDCWEB23+LWDC321' + '+PRD';
-        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44676991091346158493';
+        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44406559152823277297';
         AssistOpt += '+ZZWNAVPAG(A0100):SNPPETPAGE+ZZXPAGFMT(A0100):POPUP+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
         if(TrkID != null)
           {
@@ -96,7 +141,7 @@ function SnippetPage(PageNam,PageFmt,TrkID)
         break;
    default:
         var HandleOpt   = 'PROCFUN+LWDCWEB23+LWDC321' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):SNPPETPAGE+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):SNPPETPAGE+ZZWSNPET2(A1800):' + PageNam + '+DATESEQ(A0140):' + dateseq;
         if(TrkID != null)
           {
             HandleOpt += '+ZZWBTRKID(A0120):' + TrkID;
@@ -117,7 +162,7 @@ function ExecuteSearch(SearchTerm)
    var NavPage = 'NEWFRTX';
 
    var HandleOpt   = 'PROCFUN+LWDCWEB23+LWDC318' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + NavPage + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + NavPage + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.LZZWSUPKEY.value = SearchTerm;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -133,7 +178,7 @@ function GotoPageTrk(PageID,TrackID)
    var NavPage = 'SPECIALPAGE';
 
    var HandleOpt   = 'PROCFUN+LWDCWEB21+LWDC265' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + NavPage + '+ZZWSPCPAG(A0150):' + PageID + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + NavPage + '+ZZWSPCPAG(A0150):' + PageID + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = NavPage;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    document.LANSA.submit();
@@ -148,7 +193,7 @@ function ProdBlockList(ListID,TrackID)
    var NavPage = 'BLOCKLIST';
 
    var HandleOpt   = 'PROCFUN+LWDCWEB22+LWDC288' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + NavPage + '+ZZWPBLKY2(A0150):' + ListID + '+ZZWPBLKYN(A0030):KY2';
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + NavPage + '+ZZWPBLKY2(A0150):' + ListID + '+ZZWPBLKYN(A0030):KY2';
    if(TrackID != null)
      {
         HandleOpt += '+ZZWBTRKID(A0120):' + TrackID;
@@ -167,7 +212,7 @@ function ShowTier(NavPage,TierID,TierLvl,TrackID)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+LWDCWEB23+LWDC320' + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + NavPage + '+ZZWTIERKB(A0090):' + TierID + '+ZZWTIERLV(A0010):' + TierLvl + '+ZZWTIERKS(A0030):KYB';
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + NavPage + '+ZZWTIERKB(A0090):' + TierID + '+ZZWTIERLV(A0010):' + TierLvl + '+ZZWTIERKS(A0030):KYB';
    if(TrackID != null)
      {
         HandleOpt += '+ZZWBTRKID(A0120):' + TrackID;
@@ -186,7 +231,7 @@ function SetDefaultPage(Act,Proc,Func)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var SetDefaultOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        SetDefaultOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
+        SetDefaultOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq;
 
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + SetDefaultOpt;
@@ -200,7 +245,7 @@ function SetDefaultPageTrk(Act,Proc,Func,TrackID)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var HandleOpt   = 'PROCFUN+' + Proc + '+' + Func + '+PRD+ENG+FUNCPARMS+';
-        HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
+        HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):' + Act + '+ZZWBTRKID(A0120):' + TrackID + '+DATESEQ(A0140):' + dateseq;
    document.LANSA.AZZWNAVPAG.value = Act;
    document.LANSA.action = document.LANSA2.action + HandleOpt;
    return;
@@ -213,7 +258,7 @@ function ReloadPage(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44676991091346158493';
+        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44406559152823277297';
         ReloadOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadOpt, "main");
@@ -228,7 +273,7 @@ function ReloadPageCO(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44676991091346158493';
+        ReloadOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44406559152823277297';
         ReloadOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadOpt, "_self");
@@ -243,7 +288,7 @@ function ReloadNewZone(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var ReloadNZO   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        ReloadNZO += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44676991091346158493';
+        ReloadNZO += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44406559152823277297';
         ReloadNZO += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(ReloadNZO, "main");
@@ -258,7 +303,7 @@ function AssistPage(IPAddr,Act,Proc,Func,ExchData)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var AssistOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+' + Proc + '+' + Func + '+PRD';
-        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44676991091346158493';
+        AssistOpt += '+ENG+FUNCPARMS+ZZWSESSID(A0200):44406559152823277297';
         AssistOpt += '+ZZWNAVPAG(A0100):' + Act + '+DATESEQ(A0140):' + dateseq + ExchData;
 
    window.open(AssistOpt, "assist");
@@ -273,32 +318,14 @@ function ViewCartURL(IPAddr)
         dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
    var DetailOpt   = IPAddr + '/CGI-BIN/LANSAWEB?PROCFUN+LWDCWEB20+LWDC238' + '+PRD+ENG+FUNCPARMS+';
-        DetailOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):VIEWCART';
+        DetailOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):VIEWCART';
         DetailOpt += '+DATESEQ(A0140):' + dateseq;
 
    location.href=DetailOpt;
    return;
 }
 
-// --></script></head>
-
-
-
-
-<!--[if lt IE 7.]>
-<script defer type="text/javascript" src="/webprd_demco/scripts/pngfix.js"></script>
-<![endif]-->
-
-
-
-
-
-
-
-
-
-
-<body bgcolor="#FFFFFF" marginwidth="0" marginheight="0" leftmargin="0" topmargin="0" onload="GetBrowser()">
+// --></script>
 
 <form method="POST" name="LANSA2" action="/CGI-BIN/LANSAWEB?">
 </form>
@@ -313,7 +340,7 @@ function ViewCartURL(IPAddr)
 
 
 <input name="AZZWHDRCMP" type="HIDDEN" size="20" maxlength="20" value="DCSY_HEADER">
-<input name="AZZWSESSID" type="HIDDEN" size="20" maxlength="20" value="44676991091346158493">
+<input name="AZZWSESSID" type="HIDDEN" size="20" maxlength="20" value="44406559152823277297">
 <input name="AZZWZONE" type="HIDDEN" size="3" maxlength="3" value="">
 <input name="AZZWFTRCMP" type="HIDDEN" size="20" maxlength="20" value="DCSY_FOOTER">
 <input name="AZZWNEWHDR" type="HIDDEN" size="20" maxlength="20" value="DCSY_HEADER">
@@ -383,7 +410,7 @@ function GotoDD(dropdownID)
        var dateseq   = String(today.getMonth() + 1) + String(today.getDate()) + String(today.getYear());
             dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
        var HandleOpt   = 'PROCFUN+LWDCWEB21+LWDC265' + '+PRD+ENG+FUNCPARMS+';
-            HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):GOTOPAGE+ZZWGOTOPG(A0800):' + gotoID;
+            HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):GOTOPAGE+ZZWGOTOPG(A0800):' + gotoID;
             HandleOpt += '+DATESEQ(A0140):' + dateseq;
        document.LANSA.AZZWNAVPAG.value = 'GOTOPAGE';
        document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -392,6 +419,71 @@ function GotoDD(dropdownID)
       }
    }
 }
+
+function countNonBlank(valueIn)
+{
+  var valLen = valueIn.length;
+  var nonBlanks = 0;
+  var i = 0;
+  for (i=0;i<valLen;i++)
+    {
+      if (valueIn.substr(i,1) !== " ")
+        {
+          curr = nonBlanks;
+          nonBlanks = ++curr;
+        }
+    }
+  return nonBlanks;
+}
+
+function doSignIn()
+{
+  var loginVal = document.LANSA.LZZWLOGIN.value;
+  var passwordVal = document.LANSA.LZZWPASSWD.value;
+  var LoginLength = loginVal.length;
+  var PwdLength = passwordVal.length;
+  if (countNonBlank(loginVal) >= 3 && countNonBlank(passwordVal) >= 3)
+    {
+       var today = new Date();
+       var dateseq   = String(today.getMonth() + 1) + String(today.getDate()) + String(today.getYear());
+            dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
+       var HandleOpt = 'https://www.demco.com' + '/CGI-BIN/LANSAWEB?'
+            HandleOpt += 'PROCFUN+LWDCWEB23+LWDC330' + '+PRD+ENG+FUNCPARMS+';
+            HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):SIGNINHDR';
+            HandleOpt += '+DATESEQ(A0140):' + dateseq;
+       document.LANSA.AZZWNAVPAG.value = 'SIGNINHDR';
+       document.LANSA.action = HandleOpt;
+       document.LANSA.submit();
+    }
+  else
+    {
+      alert("Provide a member ID and password, each at least three characters in length.");
+    }
+}
+
+function forgotPwd()
+{
+       var today = new Date();
+       var dateseq   = String(today.getMonth() + 1) + String(today.getDate()) + String(today.getYear());
+            dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
+       var HandleOpt = 'https://www.demco.com' + '/CGI-BIN/LANSAWEB?'
+            HandleOpt += 'PROCFUN+LWDCWEB23+LWDC331' + '+PRD+ENG+FUNCPARMS+';
+            HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):FORGOTPWD';
+            HandleOpt += '+DATESEQ(A0140):' + dateseq;
+       document.LANSA.AZZWNAVPAG.value = 'FORGOTPWD';
+       document.LANSA.action = HandleOpt;
+       document.LANSA.submit();
+}
+
+function checkPwdEnter(event)
+{
+  if (event.keyCode == 13)
+    {
+    doSignIn();
+    }
+}
+
+
 //-->
 </script>
 <!-- SiteCatalyst code version: H.15.1.
@@ -410,13 +502,14 @@ s.pageName="SECURITY_PRIVACY"
 s.server=""
 s.channel="Services"
 s.pageType=""
-s.visitorID="44676991091346158493"
+s.visitorID="44406559152823277297"
 s.prop1=""
 s.prop2=""
 s.prop3=""
 s.prop4=""
 s.prop5=""
 s.prop6=""
+s.prop7=""
 
 /* Conversion Variables */
 s.campaign=""
@@ -434,6 +527,7 @@ s.eVar6=""
 s.eVar7=""
 s.eVar8=""
 s.eVar9=""
+s.eVar10=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 <!--/DO NOT REMOVE/-->
@@ -443,137 +537,122 @@ var s_code=s.t();if(s_code)document.write(s_code)//--></script>
 
 
 
-	<div id="header">
-		<div id="logo_tabs_phone">
-			<div id="logo"><a href="/goto?HOME"><img src="/webprd_demco/images/new88/header/demco_logo.gif" alt="DEMCO -
-Serving Library &amp; School Professionals Since 1905" width="368" height="50" border="0"></a></div>
-			<div id="header_phone"><img src="/webprd_demco/images/new88/header/phone_header1.gif" alt="Call
-us Today! 800.279.1586" width="188" height="46"></div>
-			<div id="header_admlinks">
-				<a href="JavaScript:HandlePage('MYINFO', 'LWDCWEB22', 'LWDC295')">My Account<img src="/webprd_demco/images/new88/header/header_link_icon_off.gif" alt="bullet" width="13" height="11" border="0"></a><br>
-				<a href="JavaScript:OpenWideWin() ; AssistPage('https://www.demco.com', 'SIGNIN', 'LWDCWEB20', 'LWDC205', ' ')">Sign In<img src="/webprd_demco/images/new88/header/header_link_icon_off.gif" alt="bullet" width="13" height="11" border="0"></a><br>
+
+<div id="header">
+  <div id="logo_signin">
+    <div id="header_admlinks2">
+  <strong style="color:#333333;">New Customer?</strong> <a href="JavaScript:ReloadPage(document.LANSA.AHTTPS.value,'NEWACCT','LWDCWEB23','LWDC332','')">Begin Here</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/goto?HELP" style="font-weight:normal;">Help</a>&nbsp;&nbsp;|&nbsp;&nbsp;800.279.1586</div>
+    <div id="logo2"><a href="JavaScript:HandlePage('HOMEPAGE', 'LWDCWEB20', 'LWDC201')"><img src="/webprd_demco/images/new88/header/demco_logo.gif" alt="DEMCO - Serving Library &amp; School Professionals Since 1905" width="368" height="50" border="0"></a></div>
+    <div id="header_signin">
+      <table width="300" cellpadding="0" cellspacing="0" border="0" style="position:relative;margin:10px 0px 0px 0px;">
+        <tbody><tr>
+          <td width="70" valign="top" align="right" style="padding-top:6px;"><img src="/webprd_demco/images/new88/header/h1signin.gif" width="54" height="15"></td>
+          <td width="95" align="left" valign="top">
+            <script language="Javascript">
+
+              $(document).ready(function() {
+
+                $('#password-clear').show();
+                $('#password-password').hide();
+
+                $('#password-clear').focus(function() {
+                  $('#password-clear').hide();
+                  $('#password-password').show();
+                  $('#password-password').focus();
+                });
+                $('#password-password').blur(function() {
+                  if($('#password-password').val() == '') {
+                    $('#password-clear').show();
+                    $('#password-password').hide();
+                  }
+                });
+
+                $('.default-value').each(function() {
+                  var default_value = this.value;
+                  $(this).focus(function() {
+                    if(this.value == default_value) {
+                      this.value = '';
+                    }
+                  });
+                  $(this).blur(function() {
+                    if(this.value == '') {
+                      this.value = default_value;
+                    }
+                  });
+                });
+
+              });
+            </script>
+	<input style="height:12px;width:92px;margin:0px 0px 0px 2px !important;padding:4px 0px 4px 2px !important;" class="default-value" name="LZZWLOGIN" type="TEXT" size="12" maxlength="135" value="Member ID/Email" tabindex="1"><br>
+<p class="welcome_not_name" style="text-align:left;margin:2px 0px 0px 6px;">&nbsp;</p></td>
+<td width="95" align="left" valign="top"><input style="height:12px;width:92px;margin:0px 4px 0px 1px !important;padding:4px 0px 4px 2px !important;" name="PASS" size="12" maxlength="15" id="password-clear" type="text" value="Password" autocomplete="off" tabindex="2">
+<input style="height: 12px; width: 92px; margin: 0px 4px 0px 1px !important; padding: 4px 0px 4px 2px !important; display: none;" name="LZZWPASSWD" size="12" maxlength="15" id="password-password" type="password" value="" autocomplete="off" onkeyup="checkPwdEnter(event)"><br>
+<p class="welcome_not_name" style="text-align:left;margin:2px 0px 0px 6px;"><a href="JavaScript:forgotPwd()" tabindex="3">Forgot Password?</a></p></td>
+<td width="31" align="left" valign="top" style="padding-top:3px;">
+<a href="JavaScript:doSignIn()"><img src="/webprd_demco/images/new88/header/b1signin_go.gif" width="23" height="18" style="vertical-align:bottom;padding-bottom:2px;" border="0"></a></td>
 
 
-				<a href="/goto?HELP">Help<img src="/webprd_demco/images/new88/header/header_link_icon_off.gif" alt="bullet" width="13" height="11" border="0"></a><br>
-			</div>
-			<div id="header_tabs">
-				<div class="header_tab_button"><a href="/goto?PNHA03&amp;TT1A03" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1av','','/webprd_demco/images/new88/header/tbh2av_on.gif',1)"><img src="/webprd_demco/images/new88/header/tbh1av_off.gif" alt="AV" name="tbh1av" width="70" height="27" border="0" id="tbh1av"></a></div>
-				<div class="header_tab_button"><a href="/goto?PNHD06&amp;TT2D06" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1bookmarks','','/webprd_demco/images/new88/header/tbh2bookmarks_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh1bookmarks_off.gif" alt="Bookmarks" name="tbh1bookmarks" width="116" height="27" border="0" id="tbh1bookmarks"></a></div>
-				<div class="header_tab_button"><a href="/goto?PNHC35&amp;TT3C35" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1booktrucks','','/webprd_demco/images/new88/header/tbh2booktrucks_on.gif',1)"><img src="/webprd_demco/images/new88/header/tbh1booktrucks_off.gif" alt="Booktrucks" name="tbh1booktrucks" width="116" height="27" border="0" id="tbh1booktrucks"></a></div>
-				<div class="header_tab_button"><a href="/goto?PNHA11&amp;TT4A11" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1furniture','','/webprd_demco/images/new88/header/tbh2furniture_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh1furniture_off.gif" alt="Furniture" name="tbh1furniture" width="107" height="27" border="0" id="tbh1furniture"></a></div>
-				<div class="header_tab_button"><a href="/goto?PNHC72&amp;TT5C72" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1labels','','/webprd_demco/images/new88/header/tbh2labels_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh1labels_off.gif" alt="Labels" name="tbh1labels" width="89" height="27" border="0" id="tbh1labels"></a></div>
-				<div class="header_tab_button"><a href="/goto?PNHC75&amp;TT6C75" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1tape','','/webprd_demco/images/new88/header/tbh2tape_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh1tape_off.gif" alt="Tape" name="tbh1tape" width="81" height="27" border="0" id="tbh1tape"></a></div>
-				<div class="header_tab_button"><a href="/goto?HSPNEW_PRODUCTS&amp;TT7NEWP" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh1whatsnew','','/webprd_demco/images/new88/header/tbh2whatsnew_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh1whatsnew_off.gif" alt="What's New?" name="tbh1whatsnew" width="132" height="27" border="0" id="tbh1whatsnew"></a></div>
-			</div>
-		</div>
-		<div id="header_cart">
-			<img src="/webprd_demco/images/new88/header/secure_cart_header1.gif" alt="100% SECURE SHOPPING" width="198" height="20" border="0" style="clear:both;float:left;">
-			<div id="header_cart_contents">
+        </tr>
+      </tbody></table>
+    </div>
+
+
+  </div>
+
+    <div id="header_cart2">
+      <img src="/webprd_demco/images/new88/header/secure_cart_header2.gif" alt="100% SECURE SHOPPING" width="214" height="22" border="0" style="clear:both;float:left;">
+      <div id="header_cart_contents2">
 
 
 
 
 
-    <div class="cart_items">
-      <div class="cart_icon"><img src="/webprd_demco/images/new88/right_column/shopping_cart_empty_rc.gif" alt="Shopping Cart" width="26" height="22" border="0"></div>
-      <div class="cart_items_text">
-          <p class="cart_items_count">0 Items:</p>
-          <p class="cart_items_total">$0.00</p>
+
+
+        <div class="cart_items2">
+          <div class="cart_items_text2">
+            <p class="cart_items_count2">0 Items: $0.00</p>
+          </div>
+          <div class="cart_links2">
+          <p>View Cart&nbsp;&nbsp;|&nbsp;&nbsp;Print Cart</p></div>
+        </div>
+        <div class="cart_checkout2">Checkout</div>
       </div>
-      <div class="cart_checkout"><img src="/webprd_demco/images/new88/right_column/brc1checkout_rc_zero.gif" alt="Checkout" name="brc1checkout" width="71" height="16" border="0" id="brc1checkout"></div>
+
+
+    <img src="/webprd_demco/images/new88/header/secure_cart_bot2.gif" alt="spacer" width="214" height="7" style="clear:both;float:left;"></div>
+
+
+    <div id="header_tabs2">
+      <div class="header_tab_button"><a href="/goto?PNHA03&amp;TT1A03" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3av','','/webprd_demco/images/new88/header/tbh3av_on.gif',1)"><img src="/webprd_demco/images/new88/header/tbh3av_off.gif" alt="AV" name="tbh3av" width="77" height="27" border="0" id="tbh3av"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHD06&amp;TT2D06" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3bookmarks','','/webprd_demco/images/new88/header/tbh3bookmarks_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3bookmarks_off.gif" alt="Bookmarks" name="tbh3bookmarks" width="123" height="27" border="0" id="tbh3bookmarks"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHC35&amp;TT3C35" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3booktrucks','','/webprd_demco/images/new88/header/tbh3booktrucks_on.gif',1)"><img src="/webprd_demco/images/new88/header/tbh3booktrucks_off.gif" alt="Booktrucks" name="tbh3booktrucks" width="123" height="27" border="0" id="tbh3booktrucks"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHA11&amp;TT4A11" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3furniture','','/webprd_demco/images/new88/header/tbh3furniture_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3furniture_off.gif" alt="Furniture" name="tbh3furniture" width="114" height="27" border="0" id="tbh3furniture"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHC72&amp;TT5C72" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3labels','','/webprd_demco/images/new88/header/tbh3labels_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3labels_off.gif" alt="Labels" name="tbh3labels" width="96" height="27" border="0" id="tbh3labels"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHA12" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3librarysupplies','','/webprd_demco/images/new88/header/tbh3librarysupplies_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3librarysupplies_off.gif" alt="Library Spaces" name="tbh3librarysupplies" width="152" height="27" border="0" id="tbh3librarysupplies"></a></div>
+      <div class="header_tab_button"><a href="/goto?PNHC75&amp;TT6C75" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3tape','','/webprd_demco/images/new88/header/tbh3tape_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3tape_off.gif" alt="Tape" name="tbh3tape" width="87" height="27" border="0" id="tbh3tape"></a></div>
+      <div class="header_tab_button" style="margin-right:0px;"><a href="/goto?HSPWEB_SPECIALS&amp;TB6SPEC" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('tbh3webspecials','','/webprd_demco/images/new88/header/tbh3webspecials_on.gif',0)"><img src="/webprd_demco/images/new88/header/tbh3webspecials_off.gif" alt="What's New?" name="tbh3webspecials" width="139" height="27" border="0" id="tbh3webspecials"></a></div>
     </div>
-    <div class="cart_links">
-      <p>View Cart</p>
-      <p>Print Cart</p>
-      <p style="border:none;"><a href="JavaScript:HandlePageTrk('VIEWLIST', 'LWDCWEB20', 'LWDC214', 'LCCMYFAVS')">My Lists</a></p>
-    </div>
 
-			</div>
-			<img src="/webprd_demco/images/new88/header/cart_bottom_header1.gif" alt="spacer" width="198" height="6" style="clear:both;float:left;"></div>
-		<div id="navbar">
-			<img src="/webprd_demco/images/new88/header/navbar_left1.gif" alt="spacer" width="5" height="25" style="float:left;clear:none;margin-right:17px;">
-			<span class="navbar_link" style="width:45px;"><a href="/goto?HOME&amp;TB1HOME">HOME</a></span>
-				<span class="navbar_divider">|</span>
-			<span class="navbar_link" style="width:104px;"><a href="/goto?CATALOG&amp;TB2CTLG">FREE CATALOG</a></span>
-				<span class="navbar_divider">|</span>
-			<span class="navbar_link" style="width:160px;"><a href="/goto?QUICKORDER&amp;TB3QUIK">CATALOG QUICK ORDER</a></span>
-				<span class="navbar_divider">|</span>
-			<span class="navbar_link" style="width:113px;"><a href="/goto?HSPNEW_PRODUCTS&amp;TB4NEWP">NEW PRODUCTS</a></span>
-				<span class="navbar_divider">|</span>
-			<span class="navbar_link" style="width:78px;"><a href="/goto?CLEARANCE&amp;TB5CLRN">CLEARANCE</a></span>
-				<span class="navbar_divider">|</span>
-			<span class="navbar_link" style="width:100px;"><a href="/goto?HSPWEB_SPECIALS&amp;TB6SPEC">WEB SPECIALS</a></span>
-			<img src="/webprd_demco/images/new88/header/navbar_right1.gif" alt="spacer" width="5" height="25" style="float:right;clear:none;"></div>
-		<div id="solutions">
-			<div class="solutions_title"><img src="/webprd_demco/images/new88/header/h1solutions_center_header.gif" alt="Solutions Center" width="213" height="31"></div>
-			<div class="solutions_text">I am looking for...</div>
-<div class="solutions_pulldown">
-  <select size="1" name="AZZWTIERKE" onchange="GotoDD('LookingFor')">
-    <option value=" ">Make a selection</option>
-    <option value="PNHA01&amp;TS1A01">Archival</option>
-    <option value="PNHA02&amp;TS1A02">Arts &amp; Crafts</option>
-    <option value="PNHA03&amp;TS1A03">Audio Visual</option>
-    <option value="PNHA04&amp;TS1A04">Books</option>
-    <option value="PNHA05&amp;TS1A05">Carpets</option>
-    <option value="PNHA06&amp;TS1A06">Carts</option>
-    <option value="PNHA07&amp;TS1A07">Creative Play</option>
-    <option value="PNHA09&amp;TS1A09">Facilities Management</option>
-    <option value="PNHA10&amp;TS1A10">Finishing Touches</option>
-    <option value="PNHA11&amp;TS1A11">Furniture</option>
-    <option value="GREEN_EARTH&amp;TS320000">Green Products</option>
-    <option value="GREENGUARD&amp;TS30001">GREENGUARD Furniture</option>
-    <option value="calendar&amp;TS10000">Library Promotions Calendar</option>
-    <option value="PNHA12&amp;TS1A12">Library Supplies</option>
-    <option value="PNHA13&amp;TS1A13">Office Equipment</option>
-    <option value="PNHA14&amp;TS1A14">Office Supplies</option>
-    <option value="PERIODICALS">Periodical Services</option>
-    <option value="PNHA15&amp;TS1A15">Presentation</option>
-    <option value="PNHA16&amp;TS1A16">Reading Promotions</option>
-    <option value="PNHA17&amp;TS1A17">Security</option>
-    <option value="PNHA18&amp;TS1A18">Shelving</option>
-    <option value="PNHA19&amp;TS1A19">Signage</option>
-    <option value="PNHA20&amp;TS1A20">Teaching Aids</option>
-  </select>
-</div>
-			<div class="solutions_title"><img src="/webprd_demco/images/new88/header/h1solutions_or_header.gif" alt="or" width="30" height="31"></div>
-			<div class="solutions_text">I need help with...</div>
-<div class="solutions_pulldown">
-  <select size="1" name="AZZWSOLPAG" onchange="GotoDD('HelpWith')">
-    <option value=" ">Make a selection</option>
-    <option value="STIMULUS&amp;TS20024">*** Stimulus Package ***</option>
-    <option value="HSPARCHIVAL_STORAGE&amp;TS20002">Archival Storage</option>
-    <option value="BARCODEBASICS&amp;TS20003">Bar Code Basics</option>
-    <option value="HSPBOOK_CARE&amp;TS20004">Book Care</option>
-    <option value="HSPBOOK_JACKET_CVR_SEL&amp;TS20005">Book Jacket Cover Selection</option>
-    <option value="HSPCAMERA_TERMS&amp;TS20006">Camera Terms</option>
-    <option value="CARPETS&amp;TS20007">Carpet Selection</option>
-    <option value="ARTWORK&amp;TS20008">Choosing Artwork</option>
-    <option value="HSPCOMPARE_BAR_CD_SCANR&amp;TS20009">Comparing Bar Code Scanners</option>
-    <option value="http://www.demcoservices.com">Design &amp; Installation</option>
-    <option value="HSPDVD_CARE&amp;TS20010">DVD Care</option>
-    <option value="LIFESECURE&amp;TS20011">Emergency Solutions</option>
-    <option value="FINISHINGTOUCHES&amp;TS20012">Finishing Touches</option>
-    <option value="HSPFLAG_ETIQUETTE&amp;TS20013">Flag Etiquette</option>
-    <option value="KIDOVATION&amp;TS20014">Furniture for Kids</option>
-    <option value="GAMES&amp;TS20015">Gaming Events</option>
-    <option value="GREEN_EARTH&amp;TS40000">Green Products</option>
-    <option value="GREENGUARD&amp;TS40001">GREENGUARD Furniture</option>
-    <option value="HSPHEADPHONE_TERMS&amp;TS20016">Headphone Terms</option>
-    <option value="LIBRARYSOFT&amp;TS20017">Improving Checkout Process</option>
-   <option value="INVITENV-HOME&amp;TS20018">Inviting Environment Design</option>
-    <option value="LABELTEMPLATES&amp;TS20019">Printing Labels</option>
-    <option value="CALENDAR&amp;TS20020">Promoting Events</option>
-    <option value="HSPSECUR_SNP_SEC&amp;TS20021">Security Solutions</option>
-    <option value="SIGNAGEPLANNING&amp;TS20022">Signage Planning</option>
-    <option value="TEENSPACES&amp;TS20023">Teen Spaces</option>
-  </select>
-</div>
-		</div>
+
+    <div id="navbar">
+      <img src="/webprd_demco/images/new88/header/navbar_left1.gif" alt="spacer" width="5" height="25" style="float:left;clear:none;margin-right:17px;">
+      <span class="navbar_link" style="width:46px;"><a href="/goto?HOME&amp;TB1HOME">HOME</a></span>
+        <span class="navbar_divider">|</span>
+      <span class="navbar_link" style="width:105px;"><a href="/goto?CATALOG&amp;TB2CTLG">FREE CATALOG</a></span>
+        <span class="navbar_divider">|</span>
+      <span class="navbar_link" style="width:161px;"><a href="/goto?QUICKORDER&amp;TB3QUIK">CATALOG QUICK ORDER</a></span>
+        <span class="navbar_divider">|</span>
+      <span class="navbar_link" style="width:114px;"><a href="/goto?HSPNEW_PRODUCTS&amp;TB4NEWP">NEW PRODUCTS</a></span>
+        <span class="navbar_divider">|</span>
+      <span class="navbar_link" style="width:79px;"><a href="/goto?CLEARANCE&amp;TB5CLRN">CLEARANCE</a></span>
+        <span class="navbar_divider">|</span>
+      <span class="navbar_link" style="width:130px;"><a href="/goto?SOLUTIONCENTER&amp;TB7SOL">SOLUTION CENTER</a></span>
+      <img src="/webprd_demco/images/new88/header/navbar_right1.gif" alt="spacer" width="5" height="25" style="float:right;clear:none;"></div>
 
 
 
-	</div>
-
+  </div>
 
  <div id="body_content">
 <div id="lc_container">
@@ -626,7 +705,7 @@ function checkEmailEnter(event)
 	</div>
 	<div class="lc_nav_links">
 		<p><input type="text" name="LZZEMAILRC" class="lc_input" onkeyup="checkEmailEnter(event)" value="enter email address" onfocus="this.value=' '"><a href="JavaScript:HandlePageTrk('EMAIL_SUB', 'LWDCWEB21', 'LWDC268', 'LEMSIGNUP')"><img src="/webprd_demco/images/new88/go_button.gif" width="23" border="0" height="21" align="absbottom"></a></p>
-		<p><a href="JavaScript:HandlePageTrk('EMAIL_SUB', 'LWDCWEB21', 'LWDC268', 'LEMDETLS')">Click here for details</a></p>
+		<p><a href="JavaScript:HandlePageTrk('EMAIL_SUB', 'LWDCWEB21', 'LWDC268', 'LEMDETLS')">Win a $100 gift card!</a></p>
 	</div>
 </div>
 
@@ -725,7 +804,7 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA12&amp;LPCA12">Library Supplies</a></strong>
+<li><strong><a href="http://www.demco.com/goto?PNHA12&amp;LPCA12">Library Supplies</a></strong></li>
 
 
 
@@ -811,7 +890,7 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHC72&amp;LPCC72">Labels</a>
+<li><a href="http://www.demco.com/goto?PNHC72&amp;LPCC72">Labels</a></li>
 
 
 
@@ -863,7 +942,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -892,8 +970,8 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHC75&amp;LPCC75">Tape</a>
 
+<li><a href="http://www.demco.com/goto?PNHC75&amp;LPCC75">Tape</a></li>
 
 
 
@@ -944,7 +1022,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -973,9 +1050,9 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHA12&amp;LPCA12">More Library Supplies...</a>
 
 
+<li><a href="http://www.demco.com/goto?PNHA12&amp;LPCA12">More Library Supplies...</a></li>
 
 
 
@@ -1029,7 +1106,9 @@ function checkEmailEnter(event)
 
 
 
-</li>
+
+
+
 
 
 
@@ -1090,7 +1169,7 @@ function checkEmailEnter(event)
 
 
 
-</li><li><strong><a href="http://www.demco.com/goto?PNHA11&amp;LPCA11">Furniture</a></strong>
+<li><strong><a href="http://www.demco.com/goto?PNHA11&amp;LPCA11">Furniture</a></strong></li>
 
 
 
@@ -1176,7 +1255,7 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHC57&amp;LPCC57">Chairs</a>
+<li><a href="http://www.demco.com/goto?PNHC57&amp;LPCC57">Chairs</a></li>
 
 
 
@@ -1228,7 +1307,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1257,8 +1335,8 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHC66&amp;LPCC66">Tables</a>
 
+<li><a href="http://www.demco.com/goto?PNHC66&amp;LPCC66">Tables</a></li>
 
 
 
@@ -1309,7 +1387,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1338,9 +1415,9 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHA11&amp;LPCA11">More Furniture...</a>
 
 
+<li><a href="http://www.demco.com/goto?PNHA11&amp;LPCA11">More Furniture...</a></li>
 
 
 
@@ -1394,7 +1471,9 @@ function checkEmailEnter(event)
 
 
 
-</li>
+
+
+
 
 
 
@@ -1455,7 +1534,7 @@ function checkEmailEnter(event)
 
 
 
-</li><li><strong><a href="http://www.demco.com/goto?PNHA18&amp;LPCA18">Shelving</a></strong>
+<li><strong><a href="http://www.demco.com/goto?PNHA18&amp;LPCA18">Shelving</a></strong></li>
 
 
 
@@ -1516,7 +1595,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1536,8 +1614,8 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA05&amp;LPCA05">Carpets</a></strong>
 
+<li><strong><a href="http://www.demco.com/goto?PNHA05&amp;LPCA05">Carpets</a></strong></li>
 
 
 
@@ -1597,7 +1675,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1617,9 +1694,9 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA15&amp;LPCA15">Presentation</a></strong>
 
 
+<li><strong><a href="http://www.demco.com/goto?PNHA15&amp;LPCA15">Presentation</a></strong></li>
 
 
 
@@ -1678,7 +1755,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1698,10 +1774,10 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA03&amp;LPCA03">Audio Visual</a></strong>
 
 
 
+<li><strong><a href="http://www.demco.com/goto?PNHA03&amp;LPCA03">Audio Visual</a></strong></li>
 
 
 
@@ -1759,7 +1835,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1779,11 +1854,11 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA19&amp;LPCA19">Signage</a></strong>
 
 
 
 
+<li><strong><a href="http://www.demco.com/goto?PNHA19&amp;LPCA19">Signage</a></strong></li>
 
 
 
@@ -1840,7 +1915,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1860,12 +1934,12 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA17&amp;LPCA17">Security</a></strong>
 
 
 
 
 
+<li><strong><a href="http://www.demco.com/goto?PNHA17&amp;LPCA17">Security</a></strong></li>
 
 
 
@@ -1921,7 +1995,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -1941,7 +2014,13 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA06&amp;LPCA06">Carts</a></strong>
+
+
+
+
+
+
+<li><strong><a href="http://www.demco.com/goto?PNHA06&amp;LPCA06">Carts</a></strong></li>
 
 
 
@@ -2027,7 +2106,7 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHC33&amp;LPCC33">AV Carts</a>
+<li><a href="http://www.demco.com/goto?PNHC33&amp;LPCC33">AV Carts</a></li>
 
 
 
@@ -2079,7 +2158,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -2108,8 +2186,8 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHA06&amp;LPCA06">More Carts...</a>
 
+<li><a href="http://www.demco.com/goto?PNHA06&amp;LPCA06">More Carts...</a></li>
 
 
 
@@ -2164,7 +2242,8 @@ function checkEmailEnter(event)
 
 
 
-</li>
+
+
 
 
 
@@ -2225,7 +2304,7 @@ function checkEmailEnter(event)
 
 
 
-</li><li><strong><a href="http://www.demco.com/goto?PNHA14&amp;LPCA14">Office Supplies</a></strong>
+<li><strong><a href="http://www.demco.com/goto?PNHA14&amp;LPCA14">Office Supplies</a></strong></li>
 
 
 
@@ -2286,7 +2365,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -2306,8 +2384,8 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA13&amp;LPCA13">Office Equipment</a></strong>
 
+<li><strong><a href="http://www.demco.com/goto?PNHA13&amp;LPCA13">Office Equipment</a></strong></li>
 
 
 
@@ -2367,7 +2445,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -2387,7 +2464,9 @@ function checkEmailEnter(event)
 
 
 
-<li><strong><a href="http://www.demco.com/goto?PNHA16&amp;LPCA16">Reading Promotions</a></strong>
+
+
+<li><strong><a href="http://www.demco.com/goto?PNHA16&amp;LPCA16">Reading Promotions</a></strong></li>
 
 
 
@@ -2473,7 +2552,7 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHD06&amp;LPCD06">Bookmarks</a>
+<li><a href="http://www.demco.com/goto?PNHD06&amp;LPCD06">Bookmarks</a></li>
 
 
 
@@ -2525,7 +2604,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -2554,8 +2632,8 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHD10&amp;LPCD10">Posters</a>
 
+<li><a href="http://www.demco.com/goto?PNHD10&amp;LPCD10">Posters</a></li>
 
 
 
@@ -2606,7 +2684,6 @@ function checkEmailEnter(event)
 
 
 
-</li>
 
 
 
@@ -2635,9 +2712,9 @@ function checkEmailEnter(event)
 
 
 
-<li><a href="http://www.demco.com/goto?PNHA16&amp;LPCA16">More Reading Promotions...</a>
 
 
+<li><a href="http://www.demco.com/goto?PNHA16&amp;LPCA16">More Reading Promotions...</a></li>
 
 
 
@@ -2691,7 +2768,9 @@ function checkEmailEnter(event)
 
 
 
-</li>
+
+
+
 
 
 
@@ -2789,7 +2868,7 @@ function ShowTier1()
           dateseq += String(today.getHours()) + String(today.getMinutes()) + String(today.getSeconds());
 
      var HandleOpt   = 'PROCFUN+LWDCWEB23+LWDC320' + '+PRD+ENG+FUNCPARMS+';
-          HandleOpt += 'ZZWSESSID(A0200):44676991091346158493+ZZWNAVPAG(A0100):TIER1+ZZWTIERLV(A0010):1+ZZWTIERKS(A0030):KYB+ZZWTIERKB(A0090):' + TierID;
+          HandleOpt += 'ZZWSESSID(A0200):44406559152823277297+ZZWNAVPAG(A0100):TIER1+ZZWTIERLV(A0010):1+ZZWTIERKS(A0030):KYB+ZZWTIERKB(A0090):' + TierID;
           HandleOpt += '+ZZWBTRKID(A0120):LPC' + TierID + '+DATESEQ(A0140):' + dateseq;
      document.LANSA.AZZWNAVPAG.value = 'TIER1';
      document.LANSA.action = document.LANSA2.action + HandleOpt;
@@ -3171,7 +3250,7 @@ function ShowTier1()
 
 
 
-				</li></ul></div>
+				</ul></div>
 			</div>
 
 
@@ -3188,10 +3267,9 @@ function ShowTier1()
 			<li><a href="/goto?HSPBIDSQUOTES&amp;LHLBIDQUO">Bids &amp; Quotes</a></li>
 			<li><a href="/goto?QUICKORDER&amp;LHLQUIK">Catalog Quick Order</a></li>
 			<li><a href="/goto?HELP&amp;LHLCSTHLP">Customer Service</a></li>
-			<li><a href="JavaScript:OpenDLIWin()">DEMCO Library Interiors</a></li>
+			<li><a href="http://www.demcointeriors.com" target="_blank">DEMCO Library Interiors</a></li>
 			<li><a href="JavaScript: document.LANSA.AZZWNEWZON.value='PER' ; HandlePageTrk('PERIODICAL', 'LWDCWEB01', 'LWDC047', 'LHLPERDCL')">Periodicals</a></li>
-			<li><a href="JavaScript:OpenWideWin() ;
-                                        AssistPage('https://www.demco.com', 'SIGNIN', 'LWDCWEB20', 'LWDC205', '+ZZWBTRKID(A0120):LHLSIGNIN')">Sign In</a></li>
+			<li><a href="JavaScript:ReloadPage('https://www.demco.com', 'SIGNINLINK', 'LWDCWEB23', 'LWDC330', '+ZZWBTRKID(A0120):LHLSIGNIN')">Sign In</a></li>
 		</ul>
 	</div>
 </div>
@@ -3245,17 +3323,8 @@ function ShowTier1()
 
 
 
-<div id="bantan" class="rc_bannerad_dashed">
-	<div class="rc_bannerad_dashed_top">&nbsp;</div>
-	<div class="rc_bannerad_dashed_mid">
-		<div class="rc_special_icon"><img src="/webprd_demco/specials/mini_bursts/save_icon_50_p.png" alt="SAVE 50%" width="59" height="56"></div>
-	  <h4>On Sale!</h4>
-		<p><a href="/goto?blk253&amp;LA10000"><img src="/webprd_demco/product_block/D57/X1425732At.jpg" alt="DEMCO® Cut-corner File Cases" width="70" height="40" border="0"></a></p>
-		<p><strong><a href="/goto?blk253&amp;LA10000">DEMCO® Cut-corner <br>
-	    File Cases</a></strong></p>
-  </div>
-	<div class="rc_bannerad_dashed_bot">&nbsp;</div>
-</div>
+<div class="rc_bannerad"><a href="/goto?SUMMERREADING&amp;LA10000"><img src="/webprd_demco/html/banners/images/lc_special1_0510.jpg" alt="Celebrate Summer Reading" width="156" height="240" border="0"></a></div>
+<div class="rc_bannerad"><a href="/goto?ALA&amp;LA20000"><img src="/webprd_demco/other_objects/ala2010/ala2010_banner.gif" alt="ALA Conference &amp; Exhibition, DC June 24-29." width="156" height="240" border="0"></a></div>
 
 
 
@@ -3554,7 +3623,7 @@ function ShowTier1()
 
 
 
-<div class="rc_bannerad"><a href="/goto?MAY09DRIVE&amp;RA10000"><img src="/webprd_demco/html/banners/images/rc_special1_0509.gif" alt="FREE GIFT! Get a FREE 512MB Flash Drive with a $75 online order! Click for Details!" width="156" height="175" border="0"></a></div>
+<div class="rc_bannerad"><a href="/goto?MAY10FREEGIFT&amp;RA10000"><img src="/webprd_demco/html/banners/images/rc_special1_0510_freegift.jpg" alt="FREE GIFT! Click for details..." width="156" height="240" border="0"></a></div>
 
 
 
@@ -3623,37 +3692,31 @@ function ShowTier1()
 
 
 
-<div class="rc_bannerad"><a href="http://www.demcolibraryinteriors.com/makeover.htm"><img src="/webprd_demco/html/banners/images/rc_special2_0509.gif" alt="Enter and Win in the $10,000 Makeover Contest" width="156" height="210" border="0"></a></div>
+<div class="rc_bannerad"><a href="/goto?BLK543&amp;RA90000"><img src="/webprd_demco/html/banners/images/rc_special2_0510.jpg" alt="Save 30% Allsop CD StrongBox" width="156" height="175" border="0"></a></div>
 
 
 
 
 
-<div id="rc_cart">
-  <img src="/webprd_demco/images/new88/right_column/secure_cart_header_rc1.gif" alt="100% SECURE SHOPPING" width="156" height="19" style="clear:both;float:left;">
-  <div id="rc_cart_contents">
+<div id="rc_cart2">
+  <img src="/webprd_demco/images/new88/right_column/cart_right_secure_shop1.gif" alt="100% SECURE SHOPPING" width="156" height="20" style="clear:both;float:left;">
+  <div id="rc_cart_contents2">
 
 
 
-
-
-    <div class="cart_items">
-      <div class="cart_icon"><img src="/webprd_demco/images/new88/right_column/shopping_cart_empty_rc.gif" alt="Shopping Cart" width="26" height="22" border="0"></div>
-      <div class="cart_items_text">
-          <p class="cart_items_count">0 Items:</p>
-          <p class="cart_items_total">$0.00</p>
+    <div class="rc_cart_items2">
+      <div class="rc_cart_items_text2">
+          <p class="rc_cart_items_count2">$0.00</p>
+     </div>
+     <div class="rc_cart_links2">
+        <p>View&nbsp;&nbsp;|&nbsp;&nbsp;Print</p>
       </div>
-      <div class="cart_checkout"><img src="/webprd_demco/images/new88/right_column/brc1checkout_rc_zero.gif" alt="Checkout" name="brc1checkout" width="71" height="16" border="0" id="brc1checkout"></div>
     </div>
-    <div class="cart_links">
-      <p>View Cart</p>
-      <p>Print Cart</p>
-      <p style="border:none;"><a href="JavaScript:HandlePageTrk('VIEWLIST', 'LWDCWEB20', 'LWDC214', 'LCCMYFAVS')">My Lists</a></p>
-    </div>
+    <div class="rc_cart_checkout2">Checkout</div>
 
 
   </div>
-  <img src="/webprd_demco/images/new88/right_column/cart_bottom_header_rc1.gif" alt="spacer" width="156" height="6" style="clear:both;float:left;">
+  <img src="/webprd_demco/images/new88/right_column/cart_right_bot1.gif" alt="spacer" width="156" height="5" style="clear:both;float:left;">
 </div>
 
 
@@ -3686,7 +3749,7 @@ function ShowTier1()
 					<span class="footer_link_divider">|</span>
 				<span class="footer_link"><a href="/goto?CONTACTUS&amp;FR2CONTCT">Contact Us</a></span>
 					<span class="footer_link_divider">|</span>
-				<span class="footer_link"><a href="/goto?HSPINTERNATIONAL&amp;FR3INTERN">International</a></span>
+				<span class="footer_link"><a href="/goto?INTERHOME&amp;FR3INTERN">International</a></span>
 					<span class="footer_link_divider">|</span>
 				<span class="footer_link"><a href="/goto?HSPORDER_FORM&amp;FR4ORDFRM">Download Order Form</a></span>
 					<span class="footer_link_divider">|</span>
@@ -3708,12 +3771,21 @@ function ShowTier1()
 					<!-- The JavaScript Source!! http://javascript.internet.com -->
 
 					<!-- Begin
-					document.write("&copy;" + "2009" + "&nbsp;DEMCO, INC. All rights reserved.");
+					document.write("&copy;" + "2010" + "&nbsp;DEMCO, INC. All rights reserved.");
 					// End -->
-				</script>©2009&nbsp;DEMCO, INC. All rights reserved.
+				</script>©2010&nbsp;DEMCO, INC. All rights reserved.
 			</div>
 		</div>
 	</div>
+
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='" + (location.protocol=="https:" ? "https://": "http://") + "cn.clickable.net/js/cct.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://cn.clickable.net/js/cct.js" type="text/javascript"></script>
+<script type="text/javascript">
+document.cookie=cct.CookieCheck(document.cookie);
+cct.cct_log('0820-dPaa1gdebV4ibecwb6664d96b65c56908db6a9a3');
+
+</script>
 
 </div>
 
@@ -3726,6 +3798,52 @@ function ShowTier1()
 
 
 </form>
+<!-- BEGIN LivePerson Monitor. -->
+<script language="javascript">
+var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "LPdemco",'lpProtocol' : "https"};
+function lpAddMonitorTag(src)
+{
+  if(typeof(src)=='undefined'||typeof(src)=='object')
+  {
+    src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';
+  }
+  if(src.indexOf('http')!=0)
+  {
+    src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;
+  }
+  else
+  {
+    if(src.indexOf('site=')<0)
+      {
+        if(src.indexOf('?')<0)
+        {
+          src=src+'?';
+        }
+        else
+        {
+         src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;
+        }
+      }
+  }
+  var s=document.createElement('script');
+  s.setAttribute('type','text/javascript');
+  s.setAttribute('charset','iso-8859-1');
+  s.setAttribute('src',src);
+  document.getElementsByTagName('head').item(0).appendChild(s);
+}
+if (window.attachEvent)
+  {
+  window.attachEvent('onload',lpAddMonitorTag);
+  }
+else
+  {
+    window.addEventListener("load",lpAddMonitorTag,false);
+  }
+</script>
+<!-- END LivePerson Monitor. -->
+
+
+
 
 
 
