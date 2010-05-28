@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foodzie.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231090641id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodzie.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528070632id_/http%3A//foodzie.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ This privacy policy covers the use of the web site located at [http://foodzie.co
 General Information:
 
   * Foodzie will not sell or disclose your name or email address to third parties without your explicit consent, except as specified in this privacy policy.
-  * Foodzie collects personal information when you register to use Foodzie services or to post content on Foodzie. At registration you are asked for your email address and certain other optional information.�
+  * Foodzie collects personal information when you register to use Foodzie services or to post content on Foodzie. At registration you are asked for your email address and certain other optional information.†
   * If you would like to obtain a Seller account, Foodzie will ask for your business address, phone number, and payment information.
   * Foodzie automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request.
   * Foodzie uses information for the following general purposes: products and services provisioning, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. IP addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in Foodzie's user registration databases when you register with Foodzie. IP addresses may be used for various research purposes, and/or delivering unique functionality in the Foodzie Marketplace.
@@ -86,4 +86,4 @@ If this privacy policy is changed, Foodzie will post changes so that you are awa
 
 ## Questions
 
-If you have questions or suggestions you can submit them to [support@foodzie.com](mailto:support@foodzie.com) or by postal mail to Foodzie Attn: Customer Support; 580 Howard Street, No. 302 San Francisco, CA 94105.
+If you have questions or suggestions you can submit them to [support@foodzie.com](mailto:support@foodzie.com) or by postal mail to Foodzie Attn: Customer Support; 452 Oak Street, No. 9, San Francisco, CA 94102.
