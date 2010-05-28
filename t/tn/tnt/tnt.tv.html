@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tnt.tv privacy policy that was archived on 2009-11-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091101142925id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tnt.tv privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528210131id_/http%3A//www.tnt.tv/title/display/%3Foid%3D6620) for the most accurate reproduction.-->
 
 <html><head>
 <meta http-equiv="pics-label" content="(PICS-1.1
@@ -20,10 +20,9 @@ for &quot;http://www.tnt.tv&quot;
 generic true
 ratings (s 2)
 )">
-<title>Privacy Policy</title>
+<title>TNT - We Know Drama</title>
 <meta name="keywords" content="TNT, Turner Network, Drama, The Closer, Saving Grace, Raising the Bar, Leverage, Dark Blue, Hawthorne, Wedding Day, Law &amp; Order, Law and Order, Charmed, ER, Turner, AOL, Drama, American, Cinema, Prize, cable televison, movie, film">
 <meta name="description" content="TNT is home to great dramatic, original TV series like The Closer, Saving Grace, Raising the Bar, Leverage, Dark Blue, HawthoRNe, Wedding Day, as well as favorites such as Law &amp; Order, ER and Charmed.">
-<meta name="verify-v1" content="RPjzdSpaW/gKDNb9c87rXqxxlx/SvVLVK1VeIpP/Cek=">
 <link rel="stylesheet" type="text/css" href="/css/screenBase_new.css">
 <link rel="stylesheet" type="text/css" href="/css/style_v6.css">
 <link rel="shortcut icon" href="http://i.cdn.turner.com/v5cache/TNT/favicon.ico">
@@ -35,6 +34,9 @@ ratings (s 2)
 <script type="text/javascript" src="/js/DropDownMenuX.js"></script>
 <script type="text/javascript" src="/js/flashobject.js"></script>
 <script type="text/javascript" src="/js/cnn_adspaces.js"></script>
+<script type="text/javascript">
+cnnad_newTileIDGroup(new Array('728x90_top', '160x600_rgt'));
+</script>
 <script type="text/javascript" src="/js/pngfix.js"></script>
 <script type="text/javascript">
 function getCookie(c_name)
@@ -89,16 +91,17 @@ if(cnnDocDomain) { document.domain = cnnDocDomain;}
 <div style="width:250px; height:105px; overflow:hidden; float:left">
 <a href="/index"><img src="http://i.cdn.turner.com/v5cache/TNT/images/REDESIGN/home/tnt_logo2.png" border="0" alt=""></a>
 </div>
-<div style="width:728px; float:right; position:relative;">
+<div id="ad728" style="width:728px; float:right; position:relative;">
 <!-- "advertisement" image -->
 <div style="position:absolute; right:-12px; top:10px;">
 <img src="http://i.cdn.turner.com/v5cache/TNT/images/advertisement_v.png" border="0">
 </div>
 <!-- 728 ad -->
 <!-- DE Ad Space 728x90 -->
-<!-- ADSPACE: shows/top.728x90 --><div id="ad-820206" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-cnnad_createAd("820206","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=728x90_top&tnt_rollup=shows&params.styles=fs","90","728");
-</script><iframe id="820206" name="820206" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=728x90_top&amp;tnt_rollup=shows&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=1468902575247900&amp;tile=0950406740851&amp;domId=820206" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+<!-- looking for "/tnt_adspaces/2.0/shows/main/top.728x90.ad" -->
+<!-- ADSPACE: shows/main/top.728x90 --><div id="ad-100266" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+cnnad_createAd("100266","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=728x90_top&tnt_rollup=shows&tnt_section=main&params.styles=fs","90","728");
+</script><iframe id="100266" name="100266" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=728x90_top&amp;tnt_rollup=shows&amp;tnt_section=main&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=15825361982461789197055388&amp;tile=5467916352855&amp;domId=100266&amp;kxid=&amp;kxseg=" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
 <!-- DE Ad Space 728x90 -->
 <!-- /728 ad -->
 </div>
@@ -106,6 +109,9 @@ cnnad_createAd("820206","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=728x90_
 </td></tr></tbody></table>
 <!-- /top logo and 728 ad -->
 <link rel="stylesheet" type="text/css" href="/css/universal.css">
+<style>
+#contentArea {margin-top:6px; background: url(http://i.cdn.turner.com/v5cache/TNT/images/backgrounds/75white_simple_bg.png);}
+</style>
 <!-- content top used for all standard wide pages -->
 <!-- begin /includes/wide_page_top.jsp -->
 <table width="990" border="0" cellpadding="0" cellspacing="0" align="center">
@@ -152,6 +158,18 @@ function ShowContent(d) {
 if(d.length < 1) { return; }
 document.getElementById(d).style.display = "block";
 }
+function HideContent(d,c) {
+if(d.length < 1) { return; }
+$(document).ready(function() {
+$('#'+d+'').css("display","none");
+});
+}
+function ShowContent(d,c) {
+if(d.length < 1) { return; }
+$(document).ready(function() {
+$('#'+d+'').css("display","block");
+});
+}
 function ReverseContentDisplay(d) {
 if(d.length < 1) { return; }
 if(document.getElementById(d).style.display == "none") { document.getElementById(d).style.display = "block"; }
@@ -171,25 +189,27 @@ else { document.getElementById(d).style.display = "none"; }
 <td valign="top" class="topSubnav">
 <a href="/series/closer">The Closer</a><br>
 <a href="/series/darkblue">Dark Blue</a><br>
+<a href="/title/display/?oid=58613">Franklin &amp; Bash</a><br>
 <a href="/series/hawthorne">HawthoRNe</a><br>
 <a href="/series/leverage">Leverage</a><br>
-<a href="/series/menofacertainage/">Men of a Certain Age</a><br>
-<a href="/series/raisingthebar">Raising the Bar</a><br>
+<a href="/series/memphisbeat/">Memphis Beat</a><br>
 </td><td valign="top" class="topSubnav">
+<a href="/series/menofacertainage/">Men of a Certain Age</a><br>
+<a href="/series/rizzoliandisles/">Rizzoli &amp; Isles</a><br>
 <a href="/series/savinggrace">Saving Grace</a><br>
+<a href="/series/southland">Southland</a><br>
 <a href="/series/angel">Angel</a><br>
 <a href="/series/bones">Bones</a><br>
+</td><td valign="top" class="topSubnav">
 <a href="/series/charmed">Charmed</a><br>
 <a href="/series/coldcase">Cold Case</a><br>
 <a href="/series/csiny">CSI: NY</a><br>
-</td><td valign="top" class="topSubnav">
-<a href="/series/er">ER</a><br>
 <a href="/series/lasvegas">Las Vegas</a><br>
 <a href="/series/lawandorder">Law &amp; Order</a><br>
 <a href="/series/numb3rs">Numb3rs</a><br>
-<a href="/series/withoutatrace">Without a Trace</a><br>
-<a href="/series">All Series</a><br>
 </td><td valign="top" class="topSubnav">
+<a href="/series/supernatural/">Supernatural</a><br>
+<a href="/series">All Series</a><br>
 </td>
 </tr>
 </tbody></table>
@@ -228,14 +248,13 @@ else { document.getElementById(d).style.display = "none"; }
 <tbody><tr>
 <td valign="top" class="topSubnav">
 <a href="/dramavision/?cid=40937">The Closer</a><br>
-<a href="/dramavision/?cid=49931">Dark Blue</a><br>
 <a href="/dramavision/?cid=48475">HawthoRNe</a><br>
-<a href="/dramavision/?cid=44212">Leverage</a><br>
+<a href="/dramavision.jsp?cid=39855">Saving Grace</a><br>
 <a href="/dramavision/?cid=41209">Angel</a><br>
 <a href="/dramavision.jsp?cid=39825">Charmed</a><br>
-</td><td valign="top" class="topSubnav">
-<a href="/dramavision/?cid=44830">Judging Amy</a><br>
 <a href="/dramavision/?cid=52635">Numb3rs</a><br>
+</td><td valign="top" class="topSubnav">
+<a href="/dramavision/?cid=54557">Supernatural</a><br>
 </td>
 </tr>
 </tbody></table>
@@ -279,7 +298,7 @@ else { document.getElementById(d).style.display = "none"; }
 </tr>
 </tbody></table>
 </div>
-<a href="http://shop.tnt.tv/" onmouseover="ShowContent('navShop'); return false;" onmouseout="HideContent('navShop')">SHOP</a>
+<a href="http://shop.tnt.tv/?ecid=PRF-TV1-400000&amp;pa=PRF-TV1-400000" onmouseover="ShowContent('navShop'); return false;" onmouseout="HideContent('navShop')">SHOP</a>
 </li>
 </ul>
 <div id="searchFormHolder">
@@ -320,7 +339,7 @@ else { document.getElementById(d).style.display = "none"; }
 </div>
 <!-- /my TNT stuff -->
 <!-- end /includes/wide_page_top.jsp -->
-<div style="margin-top:6px; background: url(http://i.cdn.turner.com/v5cache/TNT/images/backgrounds/75white_simple_bg.png);">
+<div id="contentArea">
 <!-- begin main content -->
 <div id="view2" style="padding-right: 8px;">
 <style>
@@ -395,43 +414,54 @@ email: <a href="mailto:privacy.tnt@turner.com">privacy.tnt@turner.com</a>
 </div>
 <!-- end main content -->
 </div>
+<div id="bottomArea">
 <!-- two bottom ads -->
 <table align="center" cellpadding="4" cellspacing="0">
 <tbody><tr><td>
 <!-- DE Ad Space 234x60top -->
 <!-- ADSPACE: sweepstakes/top.234x60 --><div id="ad-915632" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
 cnnad_createAd("915632","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=234x60_top&tnt_rollup=sweepstakes&params.styles=fs","60","234");
-</script><iframe id="915632" name="915632" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=234x60_top&amp;tnt_rollup=sweepstakes&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=1468902575247900&amp;tile=0950406740851&amp;domId=915632" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+</script><iframe id="915632" name="915632" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=234x60_top&amp;tnt_rollup=sweepstakes&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=15825361982461789197055388&amp;tile=5467916352851&amp;domId=915632&amp;kxid=&amp;kxseg=" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+<div class="adTagHorizontal" align="center">
+<img class="adTagExplorerFix" src="http://i.cdn.turner.com/v5cache/TNT/images/advertisement_h.png">
+</div>
 <!-- DE Ad Space 234x60top -->
 </td><td>
 <!-- DE Ad Space 234x60bot -->
 <!-- ADSPACE: sweepstakes/bot.234x60 --><div id="ad-265060" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
 cnnad_createAd("265060","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=234x60_bot&tnt_rollup=sweepstakes&params.styles=fs","60","234");
-</script><iframe id="265060" name="265060" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=234x60_bot&amp;tnt_rollup=sweepstakes&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=1468902575247900&amp;tile=0950406740851&amp;domId=265060" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+</script><iframe id="265060" name="265060" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=234x60_bot&amp;tnt_rollup=sweepstakes&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=15825361982461789197055388&amp;tile=5467916352851&amp;domId=265060&amp;kxid=&amp;kxseg=" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+<div class="adTagHorizontal" align="center">
+<img class="adTagExplorerFix" src="http://i.cdn.turner.com/v5cache/TNT/images/advertisement_h.png">
+</div>
 <!-- DE Ad Space 234x60bot -->
 </td></tr>
 </tbody></table>
 <!-- /two bottom ads -->
+</div>
 <!-- /index area -->
 </td>
 <td valign="top" class="ad160">
 <!-- 160 ad -->
 <!-- DE Ad Space 160x600 -->
-<!-- ADSPACE: shows/rgt.160x600 --><div id="ad-986211" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
-cnnad_createAd("986211","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=160x600_rgt&tnt_rollup=shows&params.styles=fs","600","160");
-</script><iframe id="986211" name="986211" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=160x600_rgt&amp;tnt_rollup=shows&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=1468902575247900&amp;tile=0950406740851&amp;domId=986211" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
+<!-- ADSPACE: shows/main/rgt.160x600 --><div id="ad-393217" align="center" style="padding: 0; margin: 0; border: 0;"><script type="text/javascript"> 
+cnnad_createAd("393217","http://ads.tnt.tv/html.ng/site=tnt&tnt_position=160x600_rgt&tnt_rollup=shows&tnt_section=main&params.styles=fs","600","160");
+</script><iframe id="393217" name="393217" width="0" height="0" marginwidth="0" marginheight="0" frameborder="0" scrolling="no" src="http://ads.tnt.tv/html.ng/site=tnt&amp;tnt_position=160x600_rgt&amp;tnt_rollup=shows&amp;tnt_section=main&amp;params.styles=fs&amp;Params.User.UserID=&amp;transactionID=15825361982461789197055388&amp;tile=5467916352855&amp;domId=393217&amp;kxid=&amp;kxseg=" style="position: absolute; top: -20px; left: -20px;"></iframe></div>
 <!-- DE Ad Space 160x600 -->
 <!-- /160 ad -->
 </td>
 </tr>
 </tbody></table>
+<!-- Pine-sol doublelcick tracking pixel -->
+<a href="http://ad.doubleclick.net/jump/N3340.Turner_Network/B4053575.6;sz=1x1;ord=[timestamp]?">
+<img src="http://ad.doubleclick.net/ad/N3340.Turner_Network/B4053575.6;sz=1x1;ord=[timestamp]?" border="0" width="1" height="1" alt="Click Here"></a>
 <script src="http://content.dl-rms.com/rms/mother/18197/nodetag.js"></script>
 <script src="http://js.revsci.net/gateway/gw.js?csid=A09801"></script>
 <script language="JavaScript" type="text/javascript">
 //ADM
 cnnad_sendADMData();
 </script><script> 
- 	A09801.DM_cat("tnt > shows"); 
+ 	A09801.DM_cat("tnt > shows > main"); 
   A09801.DM_addEncToLoc(); 
  	A09801.DM_tag(); 
  </script> 
@@ -440,7 +470,7 @@ cnnad_sendADMData();
 <div id="footerv6" style="height: 130px;">
 <table width="990" align="center" border="0" cellpadding="0" cellspacing="0" style="margin-top: 30px;">
 <tbody><tr>
-<td width="" align="center"><a href="https://audience.tnt.tv/services/tnt/flow/newsletter">TNT Newsletter</a> || <a href="/title/display/?oid=6620">Privacy Policy</a> || <a href="/title/display/?oid=6621">Terms of Use</a> || <a href="http://turner.tekgroup.com/section_display.cfm?section_id=21">Press Room</a> || <a href="http://www.thetvboss.org/" target="_blank">TV Parental Controls</a> || <a href="http://tsed.turner.com/tnt">advertise with us</a> || <a href="http://support.tnt.tv">ask tnt</a> || <a href="/sitemap/">sitemap</a> || <a href="http://tbs.com" target="_blank">tbs.com</a> || <a href="http://tcm.com" target="_blank">tcm.com</a> || <a href="http://trutv.com" target="_blank">truTV</a>
+<td width="" align="center"><a href="https://audience.tnt.tv/services/tnt/flow/newsletter">TNT Newsletter</a> || <a href="/title/display/?oid=6620">Privacy Policy</a> || <a href="/title/display/?oid=6621">Terms of Use</a> || <a href="http://turner.tekgroup.com/section_display.cfm?section_id=21">Press Room</a> || <a href="http://www.thetvboss.org/" target="_blank">TV Parental Controls</a> || <a href="http://tsed.turner.com/tnt">advertise with us</a> || <a href="http://support.tnt.tv">ask tnt</a> || <a href="/sitemap/">sitemap</a> || <a href="http://tbs.com" target="_blank">tbs.com</a> || <a href="http://tcm.com" target="_blank">tcm.com</a> || <a href="http://trutv.com" target="_blank">truTV</a> || <a href="/title/display/?oid=56513 ">rss</a>
 <br>
 &nbsp; © <a href="/title/display/?oid=34817">
 <script language="JavaScript">
