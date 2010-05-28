@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the camsitecash.com privacy policy that was archived on 2009-03-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090311044407id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the camsitecash.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528130052id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 		<title>CamSiteCash.com</title>
@@ -7,11 +7,20 @@
 		<link rel="stylesheet" media="screen" type="text/css" href="/camsitecash.css">
 		<link rel="stylesheet" media="screen" type="text/css" href="/cscnew.css">
 		<script src="/js/jquery.jsgz" type="text/javascript"></script>
-		<script type="text/javascript" src="/js/swfobject.js"></script>
 		<script type="text/javascript">
-		swfobject.embedSWF("/flash/home.swf", "flashcontent", "685", "307", "9.0.0", "/js/expressInstall.swf");
-		</script><style type="text/css" media="screen">#flashcontent {visibility:hidden}</style>
-	</head>
+			function checkFields() {
+				var e = true;
+				var em = new RegExp("@");
+				if (!em.test(document.getElementById("username").value)) {
+					e = false;
+					alert("Please log in with your email address!");
+					return e;
+				}
+				return e;
+			}
+		</script>
+		<script type="text/javascript" src="/js/swfobject.js"></script>
+			</head>
 	<body>
 		    <div id="billboard">
 			<ul>
@@ -19,7 +28,7 @@
 				<li><a href="/privacypolicy?lang=en" title="British English"><img src="/images/flags_new/flag_en.gif" width="16" height="11" title="British English" border="0"></a></li>
 				<li><a href="/privacypolicy?lang=en" title="American English"><img src="/images/flags_new/flag_us.gif" width="16" height="11" title="American English" border="0"></a></li>
 				<li><a href="/privacypolicy?lang=hu" title="Magyar"><img src="/images/flags_new/flag_hu.gif" width="16" height="11" title="Magyar" border="0"></a></li>
-							</ul>
+			</ul>
 		    </div>
 		    <div id="main">
 		      <h1 id="logo"><a href="/"><span>CamSiteCash - Live Webcam Sex Site Affiliate Program</span></a></h1>
@@ -35,9 +44,7 @@
 		      </div>
 		      <div id="content" class="clear">
 				<div id="left">
-          <div id="flash"><div id="flashcontent" style="visibility: visible;">&nbsp;</div></div>
-								
-				
+																					
 				<div class="privacy">
 
 	<h2 class="bottom">CamSiteCash Privacy Policy Page </h2>
@@ -102,12 +109,12 @@
 				</div>
 				<div id="right">
 				  <div id="login">
-				    <div id="title"><h5>Affiliate login</h5></div>
-				    <form action="/login/dologin" method="post">
+				    <div id="title"><h5>Login with email/pass</h5></div>
+				    <form action="/login/dologin" method="post" onsubmit="return checkFields();">
 					    <div id="inputs">
 
-								<input id="username" name="email" type="text" value="E-mail address" onclick="if (this.value == 'E-mail address') this.value='';">
-								<input id="password" name="pass" type="password" onclick="if (!this.value) this.value='';">
+								<input id="username" name="email" type="text">
+								<input id="password" name="pass" type="password">
 								<input type="hidden" name="page" value="cprivacypolicy/index">
 
 					    </div>
@@ -115,25 +122,43 @@
 							<input type="image" src="/images/btn_login.gif" onclick="return ($('#username').val() &amp;&amp; $('#username').val() !== 'Username' &amp;&amp; $('#password').val());" id="btn_login" value="Login">
 							<a href="/signup" id="btn_signup"><span>Signup</span></a>
 							</div>
-															<div id="benefits">Why sign up? Check out the <a href="/benefits">Benefits</a>...								<br><a href="/login/lostpass">Lost password</a>
+															<div id="benefits">Why sign up? Check out the <a href="/benefits">Benefits</a>...
+								<br><a href="/login/lostpass">Lost password</a>
 								</div>
 											    </form>
-
 				  </div>
 
 				  <div id="news">
 				    <div id="newslist">
-              <p>02.27.2009:<br>
-              <span>Early Spring Promotion!</span><br>
-              Commissions Boosted til 1st of April! Take your chances and start promoting new quality webcam sites to earn:<br>
-              <strong>- 45% Revenue Share</strong><br>
-              <strong>- $150 on every New Sale!</strong>
-              </p>
-              <p>02.13.2009:<br>
-              <span>New Webcam Site Added!</span><br>
-              A new live webcam sex site has been added to our portfolio! Go check out <a href="http://www.camperfect.com/" target="_blank">CamPerfect</a> to see this sites's benefits!<br>
-              </p>
-				    </div> <!-- /newlist -->
+		              <p>
+		              <span>Upgraded Sites! <span style="color:#fff;background:#f00;">&nbsp;NEW!&nbsp;</span></span><br>
+		              <strong>- We have upgraded some of our sites:<br>- <a href="http://www.camprime.com/" target="_blank">CamPrime.com</a><br>- <a href="http://www.camperfect.com/" target="_blank">CamPerfect.com</a><br>- <a href="http://www.vipcamsex.com/" target="_blank">VipCamSex.com</a><br>Each one has a brand new skin and there are lots of new features available like live feeds, alerts, favourites section, extended filters, wish section.</strong>
+		              </p>
+		              <p>
+		              <span>Promo Tool Update!</span><br>
+		              <strong>- 8 new (468x60 static) flash promo tools available in pink, purple, red and yellow colors.</strong>
+		              </p>
+		              <p>
+		              <span>New Promo Tools!</span><br>
+		              <strong>- 10 new iframes now available in the promo tools section.</strong>
+		              </p>
+		              <p>
+		              <span>New Site In Our Portfolio!</span><br>
+		              <strong>- CamSiteCash just acquired <a href="http://www.neoncams.com/" target="_blank">NeonCams.com</a>.</strong>
+		              </p>
+		              <p>
+		              <span>New Flash Promos!</span><br>
+		              <strong>- More than a dozen new flash banners available under the Promo Tools/Banners/Flash Banners.</strong>
+		              </p>
+		              <p>
+		              <span>New Promo Tool!</span><br>
+		              <strong>- Toolbar001 (javascript based promo tool with model tumbnails)</strong>
+		              </p>
+		              <p>
+		              <span>New Promo Tool!</span><br>
+		              <strong>- ThumbFlow (ConverFlow like promo tool)</strong>
+		              </p>
+		              				    </div> <!-- /newlist -->
 				  </div> <!-- /news -->
 
 		      </div>
@@ -145,7 +170,17 @@
 					<li class="marginright"><a href="/privacypolicy">privacy policy</a></li>
 					<li><a href="/spampolicy">spam policy</a></li>
 				</ul>
-				<p>Copyright © CamSiteCash.com. All rights reserved.</p>
+				<p>Copyright © 2008-2010 CamSiteCash.com. All rights reserved.</p>
+									<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" id="buycredit_flw" width="1" height="1" align="middle" codebase="http://fpdownload.macromedia.com/get/flashplayer/current/swflash.cab">
+						<param name="movie" value="http://www.camprime.com/gw/swf/tabbycat/tabbycat.swf?1275051651">
+						<param name="quality" value="high">
+						<param name="bgcolor" value="#000000">
+						<param name="allowScriptAccess" value="always">
+						<param name="scale" value="exactfit">
+						<param name="FlashVars" value="session=1275051594.0576632631474::1275051651.9749&amp;gwurl=http://gw2.camprime.com/gateway.php&amp;param=_camsitecash_app::cprivacypolicy/index">
+						<embed src="http://www.camprime.com/gw/swf/tabbycat/tabbycat.swf?1275051651" quality="high" bgcolor="#000000" width="1" height="1" name="buycredit_flw" align="middle" scale="exactfit" flashvars="session=1275051594.0576632631474::1275051651.9749&amp;gwurl=http://gw2.camprime.com/gateway.php&amp;param=_camsitecash_app::cprivacypolicy/index" play="true" loop="false" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.adobe.com/go/getflashplayer">
+						
+					</object>
 				
 		      </div>
 		    </div>
