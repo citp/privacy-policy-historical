@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231112058id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foodporndaily.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528120025id_/http%3A//foodporndaily.com/privacy) for the most accurate reproduction.*
 
-# 
+# Privacy « FoodPornDaily
 
   
 This is the web site of Amanda Simpson.
@@ -13,7 +13,8 @@ We collect the e-mail addresses of those who communicate with us via e-mail and 
 
 With respect to cookies: We use cookies to record session information, such as items that consumers add to their shopping cart.
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:  
+With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policies of:
+
 http://www.adify.com/privacy-policy
 
 With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
