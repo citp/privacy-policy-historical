@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsubscribers.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219090905id_/http%3A//www.getsubscribers.com/ModMain/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsubscribers.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529011115id_/http%3A//www.getsubscribers.com/ModMain/PrivacyPolicy) for the most accurate reproduction.*
 
 # Opt-in list-builder adds subscribers and leads to your mailing list
 
