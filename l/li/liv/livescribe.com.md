@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescribe.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218075948id_/http%3A//www.livescribe.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescribe.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528225212id_/http%3A//www.livescribe.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Livescribe :: Never Miss A Word
 
