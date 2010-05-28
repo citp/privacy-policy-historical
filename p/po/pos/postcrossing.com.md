@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220085002id_/http%3A//postcrossing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrossing.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528101841id_/http%3A//www.postcrossing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Postcrossing
 
@@ -46,4 +46,4 @@ We can be reached via email at [webmaster@postcrossing.com](mailto:webmaster@pos
 
 If you feel that this site is not following its privacy policy, you may contact us at the address above. 
 
-© Copyright 2004-2009 by Paulo Magalhães 
+© Copyright 2004-2010 by Paulo Magalhães 
