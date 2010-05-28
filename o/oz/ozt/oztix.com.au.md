@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126040219id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oztix.com.au privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528204555id_/http%3A//www.oztix.com.au/OzTix/PrivacyStatement/tabid/746/Default.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -23,3 +23,5 @@ We will allow You to deal with Us anonymously if and when it is lawful and pract
 Without Your consent We will not collect information about You that reveals Your racial or ethnic origin, political opinions, religious or philosophical beliefs or affiliations, membership of a professional or trade association or union, or health, disability, sexual orientation, or criminal record unless required to by law.
 
 Anytime You have a query or issue about privacy of Your information please "[ **contact us**](https://www.oztix.com.au/OzTix/Support/tabid/739/Default.aspx)".
+
+Version-1003
