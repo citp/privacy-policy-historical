@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202002407id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shockya.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528214841id_/http%3A//www.shockya.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Shockya.com - Privacy Policy and Terms of Use
 
 **PRIVACY POLICY**   
-Shockya.com. All references to 'our', 'us', 'we' or 'company' within this policy and within the opt-in notice are deemed to refer to Toxic Shock TV, its subsidiaries, affiliates, parent companies and any of their related businesses.
+Shockya.com. All references to 'our', 'us', 'we' or 'company' within this policy and within the opt-in notice are deemed to refer to Shockya.com , its subsidiaries, affiliates, parent companies and any of their related businesses.
 
 We strive to protect your personal privacy. We provide this statement to help our readers understand what we may do with any and all information that we obtain from you (including but not limited to personal information, comments and blog posts). By providing your personal details to us, you signify your acceptance of our Privacy Statement. If you do not agree to this statement, please do not provide the information or details to us. 
 
