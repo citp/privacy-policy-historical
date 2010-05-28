@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celluloidtamil.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831081113id_/http%3A//celluloidtamil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celluloidtamil.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528120722id_/http%3A//celluloidtamil.com/privacy-policy) for the most accurate reproduction.*
 
 # CelluloidTamil.com Tamil movies Tamil Cinema Kollywood movie Tamil news website Tamil songs Tamil mp3 tamil actors Tamil actress Tamil kollywood movie news Tamil movie reviews tamil interviews Tamil Mp3 Download tamil movie free downloads tamil comedy movies actor actresses Tamil Nadu Chennai india » Privacy policy
 
