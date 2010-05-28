@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124022616id_/http%3A//www.vail.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vail.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528094619id_/http%3A//www.vail.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement | Vail.com
 
