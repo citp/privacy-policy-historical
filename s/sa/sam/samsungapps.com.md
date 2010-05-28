@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the samsungapps.com privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112203245id_/http%3A//www.samsungapps.com/common/privacy.as) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the samsungapps.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528230344id_/http%3A//www.samsungapps.com/common/privacy.as) for the most accurate reproduction.*
 
-# Samsung Application Store
+# Samsung Apps
 
-This Application Store and Seller Office ("Website") is operated by or on behalf of Samsung Electronics Co., Ltd, whose principal place of business is at 416 Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, 443-742 Korea. This policy applies to information about you which is collected by us, by any company within the Samsung Electronics group of companies, or by any other company under the Samsung brand ("Samsung Group Companies"). A full list of Samsung Group Companies is available upon request. 
+This Samsung Apps and Seller Office (“Website”) is operated by or on behalf of Samsung Electronics Co., Ltd, whose principal place of business is at 416 Maetan-3dong, Yeongtong-gu, Suwon-si, Gyeonggi-do, 443-742 Korea. This policy applies to information about you which is collected by us, by any company within the Samsung Electronics group of companies, or by any other company under the Samsung brand (“Samsung Group Companies”). A full list of Samsung Group Companies is available upon request. 
 
 This policy sets out how we use and protect any information about you that you give to us through your use of the Website. If you have any questions or comments in relation to this policy, please contact our customer services department at the Help menu of the Website. 
 
@@ -76,7 +76,7 @@ To whom do we disclose your information?
 
   1. We will not disclose to any third parties Personal Data which relates to you without your consent, except: 
     * to a Samsung Group Company; 
-    * where it is necessary to enable any of our staff, employees, agents, contractors, suppliers or commercial partners to provide a service to us or to perform a function on your behalf (including providing marketing assistance, market research or customer services; and administering your membership, supplying products or services that we provide to you now or in the future, or any free prize draws, prize competitions or promotions); 
+    * where it is necessary to enable any of our staff, employees, agents, contractors, suppliers or commercial partners to provide a service to us or to perform a function on our behalf (including providing marketing assistance, market research or customer services; and administering your membership, supplying products or services that we provide to you now or in the future, or any free prize draws, prize competitions or promotions); 
     * to our professional advisers; 
     * to the purchaser or potential purchaser of our rights and obligations relating to this Website; or 
     * where it is necessary in order to pursue our legitimate interests or if we are required to or are permitted to do so by law. 
