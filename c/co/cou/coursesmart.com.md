@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202172526id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coursesmart.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528032853id_/http%3A//www.coursesmart.com/privacypolicy) for the most accurate reproduction.*
 
 # CourseSmart - Privacy Policy
 
-This privacy statement discloses the privacy practices of CourseSmart LLC, and its agents (sometimes referred to here as "CourseSmart" or "we") with respect to the CourseSmart (TM) eTextbook Online ("CourseSmart") Web site (the "Site"). It explains the information we collect from you when you subscribe to and use any of the CourseSmart products (the "CourseSmart Service"), and how we use that information. The CourseSmart Service can be reached by email at customerservice@coursesmart.com. 
+This privacy statement discloses the privacy practices of CourseSmart LLC, and its agents (sometimes referred to here as "CourseSmart" or "we") with respect to the CourseSmart (TM) eTextbook Online Web site (the "Site"). It explains the information we collect from you when you subscribe to and use any of the CourseSmart products (the "CourseSmart Service"), and how we use that information. 
 
 If you feel that CourseSmart is not abiding by our posted privacy policy, you should contact our customer service department by emailing customerservice@coursesmart.com. 
 
@@ -78,4 +78,4 @@ You have the choice of whether or not you would like us to provide your Personal
 
 Due to the Internet's rapidly evolving nature, CourseSmart may need to update this Privacy Policy from time to time. If so, CourseSmart will post its updated Privacy Policy on our Site located at http://www.coursesmart.com/privacypolicy so that you are aware of what Personally Identifying Information we may collect and how we may use this information. CourseSmart encourages you to review this Privacy Policy regularly for any changes. Your continued use of this Site and/or continued provision of Personally Identifying Information to us will be subject to the terms of the then-current Privacy Policy. 
 
-This Privacy Policy was last updated: July 27, 2007.
+This Privacy Policy was last updated: December 15, 2009.
