@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreetoolbox.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124062125id_/http%3A//www.degreetoolbox.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreetoolbox.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528203922id_/http%3A//www.degreetoolbox.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - DegreeToolbox.com
 
