@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618112201id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotickets.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528122823id_/http%3A//www.gotickets.com/privacy_policy.php) for the most accurate reproduction.*
 
 # GOtickets.com Privacy Policy
 
@@ -62,15 +62,13 @@ Cary, North Carolina 27511
 Or
 
 GoTickets  
-C/O North America Sports Media, Inc.  
-2345 Waukegan Rd  
-Suite 140  
-Bannockburn, IL 60015-1552
-
+C/O Premiere Global Sports  
+1590 S. Milwaukee Ave Suite 317  
+Libertyville, IL 60048   
 Phone: (800) 775-1617  
 Phone: (919) 481-4868  
 Fax: (919) 481-9101
 
 [Sales@GoTickets.com](mailto:Sales@GoTickets.com)
 
-**EFFECTIVE DATE:** June 26, 2007
+**EFFECTIVE DATE:** February 24, 2010
