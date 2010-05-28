@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202010816id_/http%3A//www.freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonlinesurveys.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528141253id_/http%3A//www.freeonlinesurveys.com/privacy.asp) for the most accurate reproduction.*
 
 # Free Online Surveys
 
