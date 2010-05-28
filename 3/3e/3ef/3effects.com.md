@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123195447id_/http%3A//www.3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3effects.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528113501id_/http%3A//www.3effects.com/cms.php%3Fcmsid%3D12) for the most accurate reproduction.*
 
 # Online Photo Effects | Photo Frames | Make your Photo Funny
 
