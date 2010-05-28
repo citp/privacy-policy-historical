@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2009-05-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090513085337id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coleparmer.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528093854id_/http%3A//www.coleparmer.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head>
 	<title>Cole-Parmer: Privacy Statement</title>
@@ -48,21 +48,44 @@ function gotoShoppingCart() {
 </head>
 
 <body leftmargin="0" topmargin="0" marginheight="0" marginwidth="0">
-<div class="container">
+<div class="container yui-ac">
 <div class="topHeaderbar">
 <div class="topHeader">
 
 	<link rel="STYLESHEET" href="/catalog/includes/cp_style.css" type="text/css">
 	<link rel="STYLESHEET" href="/catalog/includes/layout.css"> 	 
 
+<link rel="STYLESHEET" href="/catalog/includes/autocomplete.css" type="text/css">
 <script language="javascript" type="text/javascript" src="/catalog/scripts/DOM.JS"></script>
 <script language="javascript" type="text/javascript" src="/catalog/scripts/imainnav.js"></script>
-
+<script type="text/javascript" src="/catalog/scripts/yahoo-dom-event.js"></script>
+<script language="JAVASCRIPT" src="/catalog/scripts/connection.js"></script>
+<script language="JAVASCRIPT" src="/catalog/scripts/animation-min.js"></script>
+<script language="JAVASCRIPT" src="/catalog/scripts/datasource-min.js"></script>
+<script language="JAVASCRIPT" src="/catalog/scripts/AUTOCOMPLETE-min.js"></script>
 
 <script language="javascript" type="text/javascript">    	
 	
 </script>
+<style type="text/css">
+#myAutoComplete {
+    /* width:40em; set width here or else widget will expand to fit its container */
+    padding-bottom:2em;padding-left:1em;
+}
 
+
+.yui-skin-sam .yui-ac-bd li {
+    margin:0;padding:0px 0px;cursor:default;white-space:nowrap;margin-bottom:8px;
+}
+.yui-skin-sam .yui-ac-bd ul{
+  text-align:left;
+  margin:0;
+  padding:0px 0px;
+  list-style-type: none;
+  margin-left: 0px;
+  padding-left: 0px;
+}
+</style>
 
 <table width="740" height="53" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
@@ -129,16 +152,16 @@ bt_showChatHTML('Need Help? Let\'s Chat.','');
 			VE+="$T="+escape(document.title);
 			VE+="$C="+escape(document.cookie);
 			VE+="$D="+escape(date.getTimezoneOffset());
-			VE+="$R="+document.referrer;
-			VE+="$U="+document.location; 
-			document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" src="/catalog/images/clear.gif">');
-			// --></script><img border="0" width="1" height="1" src="/catalog/images/clear.gif">
+			VE+="$R="+escape(document.referrer);
+			VE+="$U="+escape(document.location); 
+			document.write('<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veo2.asp?'+VE+'">');
+			// --></script><img border="0" width="1" height="1" src="http://snap.vidiemi.com/veo2.asp?$V=435093101$S=Cole-Parmer$G=Catalog$T=Cole-Parmer%3A%20Privacy%20Statement$C=$D=0$R=$U=https%3A//web.archive.org/web/20100528093854id_/http%253A//www.coleparmer.com/privacy.asp">
 			<noscript>
-				<IMG BORDER="0" WIDTH="1" HEIGHT="1" src="/catalog/images/clear.gif">
+				<IMG BORDER="0" WIDTH="1" HEIGHT="1" SRC="http://snap.vidiemi.com/veo2.asp?$V=435093101&$J=0">
 			</noscript>
 			<!--End 0f Vidi Emi Oculus -->
-		
-        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=65BBB8085AA54017BA9803F136FED30D&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=">
+			
+        <img border="0" width="1" height="1" src="http://track.roiservice.com/track/pixel.gif.aspx?roiid=932858107000024&amp;sid=D5B97A7F571E4C939099F71AC6CECBE7&amp;desc=LandingPage&amp;amt=0&amp;cid=0&amp;refr=">
 	
 
 		   </td>
@@ -211,10 +234,12 @@ bt_showChatHTML('Need Help? Let\'s Chat.','');
 <table width="740" cellspacing="0" cellpadding="0" border="0">
   <tbody><tr>
      <td valign="top" width="150" align="right">
+     <div id="myAutoComplete">
        <form name="frmiMainNavSearch" class="iMainNavSearchForm" action="javascript:runiMainNavSearch('http://www.coleparmer.com')" method="get">
- 		<input id="SearchFormInput" type="text" name="search" size="18"><br style="height:2px">
-    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="2" id="image1" name="image1">
+ 		<input class="yui-skin-sam yui-ac-input" id="SearchFormInput" type="text" name="search" size="18" autocomplete="off"><br style="height:2px">
+    	<input type="image" src="/catalog/images/btn-search_60-14.gif" border="0" height="14" width="60" vspace="4" id="image1" name="image1">
 	   </form>
+	  </div>
 	 </td>
 	 <td width="17">
 	 </td>
@@ -239,6 +264,9 @@ bt_showChatHTML('Need Help? Let\'s Chat.','');
 </div>
 </div>
 
+	<div class="yui-skin-sam yui-ac-container" id="mysuggest" style="z-index:501;background-color:#FFFFFF;left:2px;top:75px;position:absolute;"><div class="yui-ac-content" style="display: none;"><div class="yui-ac-hd" style="display: none;"></div><div class="yui-ac-bd"><ul><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li><li style="display: none;"></li></ul></div><div class="yui-ac-ft" style="display: none;"></div></div></div>
+
+
 <div id="TheMenus" name="TheMenus">
 <div id="divProductsServices" name="divProductsServices" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divProductsServices');" onmouseover="javascript:showElement('divProductsServices','imgProductsServices',1);" onmouseenter="javascript:toggleSelectBoxes('divProductsServices');" onmouseleave="javascript:toggleSelectBoxes('divProductsServices');">
 <table id="tabProductsServices" name="tabProductsServices" width="200" border="0" cellpadding="0" cellspacing="0">
@@ -246,12 +274,13 @@ bt_showChatHTML('Need Help? Let\'s Chat.','');
 <tbody><tr><td><a href="http://www.coleparmer.com/catalog/catalog_toc.asp" class="iMainNavMenuPopupText">Product Categories</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/catalog/vcatalog_welcome.asp" class="iMainNavMenuPopupText">Virtual Print Catalog</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/promotions/promotions.asp" class="iMainNavMenuPopupText">Special Offers</a></td></tr>
-<tr><td><a href="http://www.coleparmer.com/NewProduct/NewProductsPage.asp" class="iMainNavMenuPopupText">What's New</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/product_index.asp?search=newest%20products&amp;Request=brand" class="iMainNavMenuPopupText">What's New</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/requests/default.asp" class="iMainNavMenuPopupText">Free Catalogs/Literature</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/catalog/mycp/unsubscribe.asp?sUrl=NO" class="iMainNavMenuPopupText">Free eNews</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/catalog/bioconnect/bioconnect_index.asp" class="iMainNavMenuPopupText">Bioconnect Custom Bioprocess Assemblies</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/catalog/Product_index.asp?cls=22958" class="iMainNavMenuPopupText">InnoCal Calibration Services</a></td></tr>
 <tr><td><a href="http://www.coleparmer.com/catalog/Custom_Order_Solutions.asp" class="iMainNavMenuPopupText">Custom Ordering Solutions</a></td></tr>
+<tr><td><a href="http://www.coleparmer.com/catalog/leasing_program.asp" class="iMainNavMenuPopupText">Leasing Program</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table></div>
 <div id="divTechLibr" name="divTechLibr" class="iMainNavMenuPopup" onmouseout="javascript:hideElement('divTechLibr');" onmouseover="javascript:showElement('divTechLibr','imgTechLibr',1);" onmouseenter="javascript:toggleSelectBoxes('divTechLibr');" onmouseleave="javascript:toggleSelectBoxes('divTechLibr');">
@@ -305,6 +334,42 @@ bt_showChatHTML('Need Help? Let\'s Chat.','');
 <tr><td><a href="http://www.coleparmer.com/catalog/help/newhelp2.asp" class="iMainNavMenuPopupText">Help</a></td></tr>
 </tbody></table>
 </td></tr></tbody></table>
+		
+<script type="text/javascript">
+YAHOO.example.RemoteCustomRequest = function() {
+    // Use an XHRDataSource
+    var oDS = new YAHOO.util.XHRDataSource("/catalog/includes/autocomplete.asp");
+    // Set the responseType
+    oDS.responseType = YAHOO.util.XHRDataSource.TYPE_TEXT;
+    // Define the schema of the JSON results
+    oDS.responseSchema = {
+   
+        recordDelim : "\n",
+        fieldDelim : "\t"
+    };
+
+    // Instantiate the AutoComplete
+    var oAC = new YAHOO.widget.AutoComplete("SearchFormInput", "mysuggest", oDS);
+    // Throttle requests sent
+    oAC.queryDelay = .1;
+    oAC.autoHighlight = false; // Auto-highlighting interferes with adding new tags 
+    // The webservice needs additional parameters
+    oAC.generateRequest = function(sQuery) {
+        return "?results=100&query=" + sQuery ;
+    };
+    
+     oAC.itemSelectEvent.subscribe(function(sType, aArgs){ 
+    runiMainNavSearch('http://www.coleparmer.com');
+	       
+	    }); 
+    return {
+        oDS: oDS,
+        oAC: oAC
+    };
+}();
+</script>
+
+
 </div>
 </div>
 
@@ -452,7 +517,7 @@ This is the Web site of<br>
 <b>625 East Bunker Court<br>
 Vernon Hills,  IL 60061</b><p></p>
 
-We can be reached via e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a><br>
+We can be reached via e-mail at <a href="mailto:info@coleparmer.com">info@coleparmer.com</a><br>
 or you can reach us by telephone at 1-800-323-4340. <br>
 <p><br>
 
@@ -483,8 +548,7 @@ Cole-Parmer also reserves the right to retain the content of any questions or co
 
 <p><span class="BasicTextBold">What is this Information Used For?</span> <br>
 
-The information that Cole-Parmer collects is used to better serve our customers. This information is used to notify you of changes made to our site, to tell you about new products available on our site, 
-and to contact you for other legitimate business purposes. From time to time, we may choose to exchange this information with other parties whose products and/or services we think may be of interest to you. If you do not want your information being exchanged with other parties, send us an e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a> from each e-mail address that you've used to request information, register, or place an order on ColeParmer.com. </p>
+The information that Cole-Parmer collects is used to better serve our customers. This information is used to notify you of changes made to our site, to tell you about new products available on our site, and to contact you for other legitimate business purposes. We respect your right to privacy, therefore Cole-Parmer does not rent or sell any e-mail or postal address content. </p>
 
 <p>Customers who supply us with their telephone numbers online may receive telephone contact from us with information regarding orders they have placed online. Please provide us with your correct phone number.</p>
 
@@ -493,7 +557,7 @@ and to contact you for other legitimate business purposes. From time to time, we
 
 Visitors to our Web site can unsubscribe from receiving e-mail updates and advertisements by choosing “Unsubscribe” on our <a href="/catalog/mycp/unsubscribe.asp?sUrl=NO">E-mail Preferences page</a>.</p>
 
-<p>If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at <a href="mailto:privacy@coleparmer.com">privacy@coleparmer.com</a> or <br>
+<p>If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services, or upcoming events. If you do not wish to receive such mailings, please let us know by e-mail at <a href="mailto:info@coleparmer.com">info@coleparmer.com</a> or <br>
 telephone at 1-800-323-4340. Please provide us with your exact name and address. </p>
 
 <br>
@@ -512,7 +576,7 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
  +'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
  +new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
  '" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
- </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2857142624&amp;utmx=&amp;utmxx=&amp;utmxtime=1580362286502" type="text/javascript" charset="utf-8"></script>
+ </script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=2857142624&amp;utmx=&amp;utmxx=&amp;utmxtime=1580362287404" type="text/javascript" charset="utf-8"></script>
 
 	<table cellpadding="0" cellspacing="0" border="0" width="560"> 
 	<tbody><tr>
@@ -524,7 +588,9 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 	<div class="Footer">
 	<a href="http://www.coleparmer.com/privacy.asp">Privacy</a>&nbsp;&nbsp;|&nbsp;
 	<a href="http://www.coleparmer.com/dealers/terms/19_terms.asp">Terms and Conditions</a>&nbsp;&nbsp;|&nbsp;
+	
 	<a href="http://www.coleparmer.com/dealers/terms/return-policy-general.asp">Returns</a>&nbsp;&nbsp;|&nbsp;
+	
 	<a href="http://www.coleparmer.com/employment/jobs.asp">Careers</a>&nbsp;&nbsp;|&nbsp;
 	<a href="http://www.coleparmer.com/press_release/PressreleaseList.asp">Press Releases</a>&nbsp;&nbsp;|&nbsp;
 	<a href="http://www.coleparmer.com/catalog/help/sitemap.asp">Site Map</a>	</div>
@@ -558,7 +624,7 @@ telephone at 1-800-323-4340. Please provide us with your exact name and address.
 		<a href="mailto:info@coleparmer.com" class="SmallTextBlue">
 		info@Coleparmer.com</a><br>
 		<br>
-		Copyright © 2009
+		Copyright © 2010
 	    </span>
 	    </p>
 	    </td>
