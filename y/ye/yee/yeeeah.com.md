@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeeeah.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627144204id_/http%3A//yeeeah.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeeeah.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528120956id_/http%3A//yeeeah.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
