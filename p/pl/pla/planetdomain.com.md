@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the planetdomain.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212113648id_/http%3A//www.planetdomain.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planetdomain.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528153721id_/http%3A//www.planetdomain.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - PlanetDomain | Australia | Canada | USA | UK
 
@@ -36,8 +36,12 @@ Information about what services you have ordered from PlanetDomain:
 
 
 
+### WHOIS Information
+
+When a domain name is registered, certain information is collected for use on the WHOIS service. The WHOIS service allows internet users to query a domain name to find out the identity and contact details of the registrant. The public WHOIS service is a standard feature of domain name systems around the world. Please see auDA's WHOIS policy at <http://www.auda.org.au/whois-policy> which sets out auDA's guidelines on the collection, disclosure and use of WHOIS data. 
+
 ### Email Communications
 
 As a customer of PlanetDomain you will receive occasional email communications from PlanetDomain that relate to the services we provide to you, and you will have the option to opt-out of all non-essential email and postal mail.
 
-If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20091212113648id_/http%3A//www.planetdomain.com/contact.php).
+If you have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20100528153721id_/http%3A//www.planetdomain.com/contact.php).
