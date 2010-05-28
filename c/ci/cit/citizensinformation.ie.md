@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426083354id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensinformation.ie privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528113048id_/http%3A//www.citizensinformation.ie/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement-Information from CitizensInformation.ie
-
-**You are here:** [Home](http://www.citizensinformation.ie/) [CIO Static Pages](http://www.citizensinformation.ie/about) Privacy Statement
 
 The CitizensInformation website is maintained by the Citizens Information Board, a statutory agency responsible for providing information, advice and advocacy services to the public in Ireland. The Citizens Information Board fully respects your right to privacy, and will not collect any personal information about you on this website without your clear permission. Any personal information which you volunteer will be treated with the highest standards of security and confidentiality, strictly in accordance with the Data Protection Acts, 1988-2003.
 
@@ -49,19 +47,10 @@ Fax: +353 1 6059099
 
 The piece of software you use to read web pages. Examples are Microsoft Internet Explorer, Netscape Navigator and Opera. 
 
-### 
+### IP Address
 
-IP Address 
+The identifying details for your computer (or your internet companys computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made.
 
-The identifying details for your computer (or your internet companys computer), expressed in "internet protocol" code (for example 192.168.72.34). Every computer connected to the web has a unique IP address, although the address may not be the same every time a connection is made. 
+### Cookies
 
-### 
-
-Cookies 
-
-Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site. 
-
-  
-
-
-**Disclaimer:** This document contains general information which may not address your particular circumstances; you may need more detailed information and/or legal advice. 
+Small pieces of information, stored in simple text files, placed on your computer by a web site. Cookies can be read by the web site on your subsequent visits. The information stored in a cookie may relate to your browsing habits on the web page, or a unique identification number so that the web site can "remember" you on your return visit. Generally speaking, cookies do not contain personal information from which you can be identified, unless you have furnished such information to the web site.
