@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008125533id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dress4less.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528164748id_/http%3A//www.dress4less.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -73,13 +73,13 @@ If you are visiting Dress4less.com from a location outside of the United States,
 
 **How You Can Access or Correct Your Personal Information.**
 
-For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile at DRESS4LESS.COM or [click here](http://store.delias.com/emailHelp.do) to email us. 
+For instructions on how you can access the personally identifiable information that we have collected about you online, or how to correct any errors in such information, please go to Edit My Profile at DRESS4LESS.COM or [click here](mailto:sales@dress4less.com) to email us. 
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
 
 **About Children - Kids under 13**
 
-Alloy.com is not directed to children under the age of 13. Our website does not accept registration by and we will not knowingly collect personally identifiable information from anyone under 13. We have taken commercially reasonable steps to restrict use of this site to those who are at least 13 years old. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only, or with adult permission 
+Dress4Less is not directed to children under the age of 13. Our website does not accept registration by and we will not knowingly collect personally identifiable information from anyone under 13. We have taken commercially reasonable steps to restrict use of this site to those who are at least 13 years old. We do not sell products for purchase by children and all children's products we sell are for purchase by adults only, or with adult permission 
 
 **Special Note for Parents.**
 
