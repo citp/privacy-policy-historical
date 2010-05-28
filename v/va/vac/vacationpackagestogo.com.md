@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114122926id_/http%3A//www.vacationpackagestogo.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationpackagestogo.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528114029id_/http%3A//www.vacationpackagestogo.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy vacationpackagestogo.com
 
@@ -14,7 +14,7 @@
 _Unbelievable trip, the best we have ever had. Outer Banks for that matter was magical.Thanks for making our trip so easy and well organised._
 
 **Patrica & Rolf**  
-[More Customer Testimonials >>](https://web.archive.org/web/20091114122926id_/http%3A//www.vacationpackagestogo.com/testimonials.php "Customer Testimonials")  
+[More Customer Testimonials >>](https://web.archive.org/web/20100528114029id_/http%3A//www.vacationpackagestogo.com/testimonials.php "Customer Testimonials")  
   
 vacationpackagestogo.com (Vacationpackagestogo) respects the privacy rights of our online visitors and recognizes the importance of protecting the information collected about you. We have adopted a corporate-wide Online Privacy Policy that guides how we collect, store and use the information you provide.
 
@@ -32,6 +32,7 @@ Safeguarding your personally identifiable information we will only collect perso
 
 |   
 [](http://tellafriend.socialtwist.com/)  
+   
    
    
  
