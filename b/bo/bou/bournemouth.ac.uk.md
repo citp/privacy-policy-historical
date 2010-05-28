@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2009-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090906143101id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bournemouth.ac.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528171654id_/http%3A//www.bournemouth.ac.uk/privacy%3Fsrclnk%3Dhome) for the most accurate reproduction.*
 
 # Bournemouth University | About the University | Privacy policy
 
@@ -91,6 +91,10 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Freedom of Information Act. Please note a small fee will be payable. For more about the Freedom of Information Act and the University's Publications Scheme please visit [www.bournemouth.ac.uk/foi.](http://www.bournemouth.ac.uk/foi)
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us as soon as possible and we will promptly correct any information found to be incorrect.
+
+**Returning forms**
+
+You should be aware that when you email BU the possibility exists, however minimal, that unauthorised individuals maybe able to intercept your message. We recommend as a result you should not use email to send personal data, such as financial information to BU.
 
 ## Contact us
 
