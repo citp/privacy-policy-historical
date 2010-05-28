@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814105647id_/http%3A//www.citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizencorps.gov privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528023001id_/http%3A//www.citizencorps.gov/privacy.shtm) for the most accurate reproduction.*
 
-# Citizen Corps: Privacy Policy
+# Citizen Corps : Citizen Corps Viewer Privacy and Security Policy
 
 Thank you for visiting the Citizen Corps website and reviewing our privacy and security policy. Our privacy policy is clear - we do not collect any personal information about you without your knowledge.
 
-This website is provided as a public service by the Federal Emergency Management Agency, FEMA. Information presented on this site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested. 
+This website is provided as a public service by the Federal Emergency Management Agency, FEMA. Information presented on this site is considered public information and may be distributed or copied. Use of appropriate byline/photo/image credits is requested.
 
 ## Information Collected on All Website Visits
 
-If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically - but none of this information will identify you personally. We automatically collect and store only the following information about your visit: 
+If you do nothing during your visit but browse through the website, read pages, or download information, we will gather and store certain information about your visit automatically - but none of this information will identify you personally. We automatically collect and store only the following information about your visit:
 
   * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you are surfing the Web) from which you access our website;
   * The type of browser and operating system used to access our site;
@@ -26,7 +26,7 @@ If you choose to provide us with personal information by sending an e-mail or by
 
 The information you provide is strictly not given to any private company or organization or to any private persons. This site also does not collect or use personal information for commercial marketing.
 
-And once again, we will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. For more information on the privacy act policy on the Citizen Corps individual database system of records, please read our [Federal Register Notice](https://web.archive.org/news/fr/).
+And once again, we will not obtain personally identifying information about you when you visit our site, unless you choose to provide such information to us. For more information on the privacy act policy on the Citizen Corps individual database system of records, please read our [Federal Register Notice](http://www.citizencorps.gov/news/fr/).
 
 ## Links to Other Sites
 
@@ -36,9 +36,6 @@ The Citizen Corps website has links to the websites of many other federal agenci
 
 For site security purposes and to ensure that this service remains available to all users, this government computer system employs software programs to monitor host and network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage.
 
-Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines. 
+Except for authorized law enforcement investigations, no other attempts are made to identify individual users or their usage habits. Raw data logs are used for no other purposes and are scheduled for regular destruction in accordance with National Archives and Records Administration guidelines.
 
 Unauthorized attempts to upload information or change information on this service are strictly prohibited and may be punishable under the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act."
-
-  
-
