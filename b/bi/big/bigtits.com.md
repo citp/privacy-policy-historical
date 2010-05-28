@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921042501id_/http%3A//www.bigtits.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigtits.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528150214id_/http%3A//www.bigtits.com/static/privacy.htm) for the most accurate reproduction.*
 
 # Tits | Big Tits | Big Boobs | Huge Tits And Big Boobs Porn Tube
 
