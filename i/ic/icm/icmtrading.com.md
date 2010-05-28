@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the icmtrading.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518193401id_/http%3A//www.icmtrading.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icmtrading.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528123218id_/http%3A//icmtrading.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Forex | Indices | Commodities | Futures | CFDs | Automated Trading | ICM
 
-Privacy Policy  
 Protecting the privacy and safeguarding the personal and financial information of our clients and website visitors is one of our highest priorities. The following Privacy Statement explains how iTrade Capital Markets ("ICM") collects and protects your personal information. References to "ICM" in this Privacy Statement include all ICM companies and divisions, including icmtrading.com.
 
 By opening a ICM account or by using ICM Web sites, you give your consent to the collection and use of personal information by ICM as explained in this privacy statement.
