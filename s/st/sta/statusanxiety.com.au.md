@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125013211id_/http%3A//www.statusanxiety.com.au/terms.php%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statusanxiety.com.au privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528202038id_/http%3A//www.statusanxiety.com.au/terms.php%23privacy) for the most accurate reproduction.*
 
 # status anxiety website policies
 
