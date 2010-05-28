@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420063207id_/http%3A//learning.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the learning.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528135449id_/http%3A//www.learning.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Learning.com : Privacy Policy
-
-## Privacy Policy
+# Privacy Policy Learning.com
 
 PLEASE CAREFULLY REVIEW THE LEARNING.COM PRIVACY POLICY AND THE CHILD PRIVACY POLICY BELOW (IF APPLICABLE) BEFORE USING THIS WEBSITE.
 
