@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429110253id_/http%3A//www.skullcandy.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skullcandy.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529002936id_/http%3A//www.skullcandy.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Skullcandy
+# Privacy Policy - Headphones by Skullcandy
 
 We respect the privacy of the visitors to the Skullcandy.com website and the websites connected with it. We take great care to protect your information. This privacy policy tells you what information we collect and how we may use it as well as the steps we take to ensure that it is protected.
 
