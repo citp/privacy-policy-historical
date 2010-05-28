@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2009-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090412070843id_/http%3A//welcome.corpedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the corpedia.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528152935id_/http%3A//corpedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Corpedia | Ethics and Compliance Training
 
 ## Privacy Policy
 
-Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services, if any. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site.
+[](http://www.truste.org/ivalidate.php?url=www.corpedia.com&sealid=101)Corpedia has created this privacy policy in order to demonstrate our firm commitment to protecting your privacy. This Privacy Policy explains and summarizes how we collect, use and protect your personal information as you interact with us online and through our customer and technical supports services, if any. If you are visiting from outside the United States, there may be special rules or limitations on your use of this Web site.
 
 Corpedia is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.corpedia.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Corpedia Customer Support at (877) 629-8724. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 685 Market Street, Suite 270, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. The resolution process shall be conducted in English. TRUSTe will then serve as a liaison with us to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact Corpedia Customer Support at (877) 629-8724. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail to Watchdog Complaints, TRUSTe, 55 2nd Street 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. The resolution process shall be conducted in English. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Corpedia abides by the EU Safe Harbor Privacy Framework as set forth by the United States Department of Commerce. As part of our participation in Safe Harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework.
 
@@ -40,7 +40,7 @@ We use this information to help diagnose problems with our server and to adminis
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. Our site uses cookies to keep track of your shopping cart and to deliver content specific to your interests. This cookie also allows us to track online courseware progress, which means whether or not an employee has completed a unique online course. We track this information based on your email address which also serves as your username. As such, we tie this personally identifiable information to the cookie.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. We set a persistent cookie to store your username, so you don’t have to enter it more than once. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s help file.
+We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. We set a persistent cookie to store your username, so you don’t have to enter it more than once. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser’s help file. Some of our business partners use cookies on our site. We have no access to or control over these cookies.
 
 If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as surveys, will be limited.
 
@@ -125,6 +125,8 @@ We reserve the right to change this policy in the future. Your continued use of 
 If your personally identifiable information changes, you may update or delete this information by emailing our Customer Support at [support@corpedia.com](mailto:support@corpedia.com), or by contacting us by telephone toll-free at (877) 629-8724 or if you are a user of our e-learning courseware, you may log into the application and change your profile information.
 
 A user may request access to his/her personal identifiable information at any time. If a user contacts Corpedia either by email or telephone, they can expect to receive a response to their request for access to their personal identifiable information within 5 business days.
+
+Upon request and within 30 days, Corpedia will grant individuals reasonable access to personal information that it holds about them. In addition, Corpedia will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact Customer Support at [support@corpedia.com](mailto:support@corpedia.com) to change your personal information gathered on the Site.
 
 ### Choice/Opt-Out
 
