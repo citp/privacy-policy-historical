@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311044407id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camsitecash.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528130052id_/http%3A//www.camsitecash.com/privacypolicy) for the most accurate reproduction.*
 
 # CamSiteCash.com
 
@@ -43,13 +43,27 @@ help [ @ ] camsitecash [ dot ] com
 
 Revised Aug 27, 2008 
 
-02.27.2009:  
-Early Spring Promotion!  
-Commissions Boosted til 1st of April! Take your chances and start promoting new quality webcam sites to earn:  
-**\- 45% Revenue Share**  
-**\- $150 on every New Sale!**
+Upgraded Sites!  NEW!   
+**\- We have upgraded some of our sites:  
+\- [CamPrime.com](http://www.camprime.com/)  
+\- [CamPerfect.com](http://www.camperfect.com/)  
+\- [VipCamSex.com](http://www.vipcamsex.com/)  
+Each one has a brand new skin and there are lots of new features available like live feeds, alerts, favourites section, extended filters, wish section.**
 
-02.13.2009:  
-New Webcam Site Added!  
-A new live webcam sex site has been added to our portfolio! Go check out [CamPerfect](http://www.camperfect.com/) to see this sites's benefits!  
+Promo Tool Update!  
+**\- 8 new (468x60 static) flash promo tools available in pink, purple, red and yellow colors.**
 
+New Promo Tools!  
+**\- 10 new iframes now available in the promo tools section.**
+
+New Site In Our Portfolio!  
+**\- CamSiteCash just acquired[NeonCams.com](http://www.neoncams.com/).**
+
+New Flash Promos!  
+**\- More than a dozen new flash banners available under the Promo Tools/Banners/Flash Banners.**
+
+New Promo Tool!  
+**\- Toolbar001 (javascript based promo tool with model tumbnails)**
+
+New Promo Tool!  
+**\- ThumbFlow (ConverFlow like promo tool)**
