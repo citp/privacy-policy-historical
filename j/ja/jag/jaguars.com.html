@@ -1,26 +1,33 @@
-<!--The following is the downloaded HTML source of the jaguars.com privacy policy that was archived on 2009-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091127065455id_/http%3A//www.jaguars.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jaguars.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528195026id_/http%3A//www.jaguars.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="X-UA-Compatible" content="IE=7">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head><meta http-equiv="X-UA-Compatible" content="IE=7">
 
 
-    <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
-    <script type="text/javascript">
+<script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-8935072241132945");
   GS_googleEnableAllServices();
-
-  
-    </script>
+</script>
 
     <title>
-	jaguars.com
-</title><link rel="stylesheet" type="text/css" href="/css/jdc.16.css">
+	Jacksonville Jaguars Privacy Policy - jaguars.com
+</title>
+    
+    <link rel="stylesheet" type="text/css" href="/CSS/jdc.css?cachebreaker=129181670089620096">
    
-    <script type="text/javascript" src="/js/jquery.js"></script>
-
-    <script type="text/javascript" src="/js/jquery.plugins.4.js"></script>
-
+    
+    <script type="text/javascript" src="http://ajax.microsoft.com/ajax/jquery/jquery-1.4.2.min.js"></script>
+   <script type="text/javascript" src="/js/jquery.plugins.4.js"></script>
+    <script type="text/javascript" src="/js/jquery.twitter.js"></script>
+       <script type="text/javascript" src="/js/jquery.fancybox-1.2.6.js"></script>
+       
+       <!-- <script type="text/javascript" src="/js/jquery.event.hover.js"></script>-->
+     <link rel="stylesheet" type="text/css" href="/css/fancybox.css">
+     <link rel="Stylesheet" type="text/css" href="/CSS/style.css?cachebreaker=129192909162059232">
+     
+     
     <script type="text/javascript">
 
 ord=Math.random()*10000000000000000;
@@ -38,353 +45,627 @@ function nin(q) { q==1 ? $('#ninlist').slideDown(200) : $('#ninlist').slideUp(20
 <![endif]-->
     
     
+    
+    
 
-    <script type="text/javascript">
- GA_googleAddSlot("ca-pub-8935072241132945", "RunOfSite_TopRight_238x90");
+ <script type="text/javascript">
+     GA_googleAddSlot("ca-pub-8935072241132945", "top_left_260x98");
+</script>
+<script type="text/javascript">
+    GA_googleFetchAds();
+</script>
 
-  GA_googleFetchAds();
+<script type="text/javascript">
 
 
+      var nin = false;
+      
+      function togglenin() {
 
+         /* if ($('#nflin-wrapper').css('height') == '120px') {
+              $('#nflin-wrapper').stop().animate({ 'height': '0px','opacity':'0' }).css('display', 'none');
+          } else {
+              $('#nflin-wrapper').stop().animate({ 'height': '120px','opacity':'1' });
+          }*/
 
-      function enable_smooth_scroll() {
-          function filterPath(string) {
-              return string
-                .replace(/^\//, '')
-                .replace(/(index|default).[a-zA-Z]{3,4}$/, '')
-                .replace(/\/$/, '');
+          if ($('#nflin-wrapper').css('display') == 'block') {
+              nin = false;
+              $('#nflin-wrapper').css('display', 'none');
+              $('#nflin').removeClass('nflin-open');
+
+        
+             
+          } else {
+              $('#nflin-wrapper').css('display', 'block');
+              nin = true;
+              $('#nflin').addClass('nflin-open');
+          
           }
 
-          var locationPath = filterPath(location.pathname);
+      }
 
-          var scrollElement = 'html, body';
-          $('html, body').each(function() {
-              var initScrollTop = $(this).attr('scrollTop');
-              $(this).attr('scrollTop', initScrollTop + 1);
-              if ($(this).attr('scrollTop') == initScrollTop + 1) {
-                  scrollElement = this.nodeName.toLowerCase();
-                  $(this).attr('scrollTop', initScrollTop);
-                  return false;
-              }
-          });
+      $(document).ready(function () {
+          /*$('#nav').superfish({
+          animation: { height: 'show' },
+          speed: '500'
+          });*/
 
-          $('a[href*=#]').each(function() {
-              var thisPath = filterPath(this.pathname) || locationPath;
-              if (locationPath == thisPath
-                && (location.hostname == this.hostname || !this.hostname)
-                && this.hash.replace(/#/, '')
-            ) {
-                  if ($(this.hash).length) {
-                      $(this).click(function(event) {
-                          var targetOffset = $(this.hash).offset().top;
-                          var target = this.hash;
-                          event.preventDefault();
-                          $(scrollElement).animate(
-                            { scrollTop: targetOffset },
-                            500,
-                            function() {
-                                location.hash = target;
-                            });
-                      });
-                  }
-              }
-          });
-      };
+          $('.fancybox').fancybox({ 'zoomSpeedIn': 300, 'zoomSpeedOut': 300, 'overlayShow': true, 'hideOnContentClick': false, 'padding': 20 }); ;
 
 
+          /* $('.nav-news').hover(function () { $('.nav-news').css('display', 'block'); }, function () { $('.subnav.nav-news').css('display', 'none'); });
+          $('.nav-team').hover(function () { $('.nav-team').css('display', 'block'); }, function () { $('.subnav.nav-team').css('display', 'none'); });
+          $('.nav-gameday').hover(function () { $('.nav-gameday').css('display', 'block'); }, function () { $('.subnav.nav-gameday').css('display', 'none'); });
+          $('.nav-cheerleaders').hover(function () { $('.nav-cheerleaders').css('display', 'block'); }, function () { $('.subnav.nav-cheerleaders').css('display', 'none'); });
+          $('.nav-multimedia').hover(function () { $('.nav-multimedia').css('display', 'block'); }, function () { $('.subnav.nav-multimedia').css('display', 'none'); });
+          $('.nav-stadium').hover(function () { $('.nav-stadium').css('display', 'block'); }, function () { $('.subnav.nav-stadium').css('display', 'none'); });*/
+          // $('.nav-tickets').hover(function () { $('.nav-tickets').css('display', 'block'); }, function () { $('.subnav.nav-tickets').css('display', 'none'); });
+          // $('.nav-fanzone').hover(function () { $('.nav-fanzone').css('display', 'block'); }, function () { $('.subnav.nav-fanzone').css('display', 'none'); });
 
-      $(document).ready(function() {
-          $('#nav').superfish({
-              animation:   {height:'show'},  
-              speed: '500'
+
+          /*   $('.nav-community').hover(function () { $('.subnav.nav-community').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-community').stop().css('top', '0px'); });
+          $('.nav-fanzone').hover(function () { $('.subnav.nav-fanzone').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-fanzone').stop().css('top', '0px'); });
+          $('.nav-tickets').hover(function () { $('.subnav.nav-tickets').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-tickets').stop().css('top', '0px'); });
+          $('.nav-news').hover(function () { $('.subnav.nav-news').stop().stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-news').stop().css('top', '0px'); });
+          $('.nav-team').hover(function () { $('.subnav.nav-team').stop().stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-team').stop().css('top', '0px'); });
+          $('.nav-gameday').hover(function () { $('.subnav.nav-gameday').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-gameday').stop().css('top', '0px'); });
+          $('.nav-cheerleaders').hover(function () { $('.subnav.nav-cheerleaders').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-cheerleaders').stop().css('top', '0px'); });
+          $('.nav-multimedia').hover(function () { $('.subnav.nav-multimedia').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-multimedia').stop().css('top', '0px'); });
+          $('.nav-stadium').hover(function () { $('.subnav.nav-stadium').stop().animate({ top: '200px' }, 300); }, function () { $('.subnav.nav-stadium').stop().css('top', '0px'); });
+          
+          */
+
+          $('.nav-stadium').hover(function () { if (!nin) $('.subnav.nav-stadium').show(); }, function () { $('.subnav.nav-stadium').css('display', 'none'); });
+
+
+          $('.nav-community').hover(function () { if (!nin) $('.subnav.nav-community').show(); }, function () { $('.subnav.nav-community').hide(); });
+          $('.nav-fanzone').hover(function () { if (!nin) $('.subnav.nav-fanzone').show(); }, function () { $('.subnav.nav-fanzone').hide(); });
+          $('.nav-tickets').hover(function () { if (!nin) $('.subnav.nav-tickets').show(); }, function () { $('.subnav.nav-tickets').hide(); });
+          $('.nav-news').hover(function () { if (!nin) $('.subnav.nav-news').stop().show(); }, function () { $('.subnav.nav-news').hide(); });
+          $('.nav-team').hover(function () { if (!nin) $('.subnav.nav-team').stop().show(); }, function () { $('.subnav.nav-team').hide(); });
+          $('.nav-gameday').hover(function () { if (!nin) $('.subnav.nav-gameday').show(); }, function () { $('.subnav.nav-gameday').hide(); });
+          $('.nav-cheerleaders').hover(function () { if (!nin) $('.subnav.nav-cheerleaders').show(); }, function () { $('.subnav.nav-cheerleaders').hide(); });
+          $('.nav-multimedia').hover(function () { if (!nin) $('.subnav.nav-multimedia').show(); }, function () { $('.subnav.nav-multimedia').hide(); });
+          $('.nav-stadium').hover(function () { if (!nin) $('.subnav.nav-stadium').show(); }, function () { $('.subnav.nav-stadium').hide(); });
+
+
+
+          // $('.nav-community').hover(function () { $('.subnav.nav-community').css('height','200px'); }, function () { $('.subnav.nav-community').css('height', '1px'); });
+
+
+          $('.search-focus').hover(function () { $('#searchoptions').css('display', 'block'); }, function () { $('#searchoptions').css('display', 'none'); });
+
+       
+          $('#search-saw').click(function () { srchtype = 'saw'; $('#search-saw').addClass('search-sel').removeClass('search-unsel'); $('#search-jdc').removeClass('search-sel').addClass('search-unsel'); });
+          $('#search-jdc').click(function () { srchtype = 'jdc'; $('#search-jdc').addClass('search-sel').removeClass('search-unsel'); $('#search-saw').removeClass('search-sel').addClass('search-unsel'); });
+
       });
-  });
-    </script>
-    <script type="text/javascript" src="/js/superfish.js"></script>
-<script type="text/javascript" src="/javascript/thickbox.js"></script>
 
-<style type="text/css" media="all">@import "/styles/thickbox.css";</style>
+      var srchtype = 'jdc';
+
+      function search() {
+    
+          switch (srchtype) {
+              case 'jdc':
+              
+                  baseurl = '/search?';
+                  break;
+              case 'nfl':
+                  baseurl = 'http://search.nfl.com/search/?query=';
+                  break;
+
+              case 'fs':
+                  baseurl = 'http://jaguars.teamfanshop.com/search/'
+                  break;
+
+              case 'saw':
+                  baseurl = 'http://jaguarssearch.swagbucks.com?t=w&p=1&q=';
+                  break;
+          }
+
+          location.href = baseurl + $('#keyword').val();
+          return false;
+      }
+
+
+
+
+    </script>
+ 
 
 </head>
 <body>
+<script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-335549-1']);
+    _gaq.push(['_setDomainName', '.jaguars.com']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+</script>
     <form name="aspnetForm" method="post" action="default.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTEwMDUyNjYzMjhkZA==">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRk">
 
-    <div id="main-frame">
-        <div id="top-ads">
-            <div id="leaderboard-ad">
-                <!-- begin 728x90 ROS ad tag (tile=1) -->
-
-                <script language="JavaScript" type="text/javascript">
-document.write('<iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
-document.write('</iframe>');
-                </script><iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=4730040710464554?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
-
-                <noscript>
-                    <a href="http://ad.doubleclick.net/jump/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;sz=728x90;ord=123456789?"
-                        target="_blank">
-                        <img src="http://ad.doubleclick.net/ad/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;sz=728x90;ord=123456789?"
-                            width="728" height="90" border="0" alt=""></a></noscript>
-                <!-- End ad tag -->
-            </div>
-            <div id="topright-ad">
-
-                <script type="text/javascript">GA_googleFillSlot("RunOfSite_TopRight_238x90");</script>
-
-            </div>
-        </div>
-        <div id="nav-area">
-            <a style="position: absolute; width: 100px; height: 110px;" href="/default.aspx" title="Home"></a>
-            <div style="width: 975px; height: 66px;">
+   
             
-                <div style="width: 975px; padding-top: 15px; overflow: hidden;">
-                    <div class="ninbut isup" onclick="nin(1);">
-                    </div>
-                    <div id="ninlist">
-                    <div style="width:100%;height:100px;">
-                     <div class="ninbut" onclick="nin(2);"></div>
-                     </div>
-                        
-                    
-                                    
-                              <ul id="AFCsites">
-							    <li><a href="http://www.bengals.com" target="_blank">Cincinatti Bengals</a></li>
-			                    <li><a href="http://www.buffalobills.com" target="_blank">Buffalo Bills</a></li>
-			                    <li><a href="http://www.denverbroncos.com" target="_blank">Denver Broncos</a></li>
-			                    <li><a href="http://www.clevelandbrowns.com" target="_blank">Cleveland Browns</a></li>
-			                    <li><a href="http://www.chargers.com" target="_blank">San Diego Chargers</a></li>
-			                    <li><a href="http://www.kcchiefs.com" target="_blank">Kansas City Chiefs</a></li>
-			                    <li><a href="http://www.colts.com" target="_blank">Indianapolis Colts</a></li>
-			                    <li><a href="http://www.miamidolphins.com" target="_blank">Miami Dolphins</a></li>
-			                    <li>Jacksonville Jaguars</li>
-			                    <li><a href="http://www.newyorkjets.com" target="_blank">New York Jets</a></li>
-			                    <li><a href="http://www.patriots.com" target="_blank">New England Patriots</a></li>
-			                    <li><a href="http://www.raiders.com" target="_blank">Oakland Raiders</a></li>
-			                    <li><a href="http://www.baltimoreravens.com" target="_blank">Baltimore Ravens</a></li>
-			                    <li><a href="http://www.steelers.com" target="_blank">Pittsburgh Steelers</a></li>
-			                    <li><a href="http://www.houstontexans.com" target="_blank">Houston Texans</a></li>
-			                    <li><a href="http://www.titansonline.com" target="_blank">Tennessee Titans</a></li>
-						    </ul>
-    						
-						    <ul id="NFLsites">
-						        <li></li>
-							    <li><a href="http://www.nfl.com" target="_blank">NFL.com</a></li>
-			                    <li><a href="http://www.playfootball.com" target="_blank">NFL Kids</a></li>
-			                    <li><a href="http://www.nfluth.com" target="_blank">Under the Helmet</a></li>
-			                    <li><a href="http://www.nflshop.com" target="_blank">NFL Shop</a></li>
-			                    <li><a href="http://www.nflhs.com" target="_blank">NFL High School</a></li>
-			                    <li><a href="http://www.nfleurope.com" target="_blank">NFL Europe</a></li>
-			                    <li><a href="http://www.profootballhof.com" target="_blank">Hall of Fame</a></li>
-			                    <li><a href="http://www.superbowl.com" target="_blank">Super Bowl</a></li>
-			                    <li><a href="http://www.nflatino.com/inicio/index.php" target="_blank">NFLatino</a></li>
-			                    <li><a href="http://www.NFLPlayers.com" target="_blank">NFLPlayers.com</a></li>
-			                    <li><a href="http://www.nflalumni.org" target="_blank">NFL Alumni</a></li>
-			                    <li><a href="http://www.jointheteam.com" target="_blank">Join the Team</a></li>
-			                    <li><a href="http://www.nfl.com/nflnetwork/home" target="_blank">NFL Network</a></li>
-						    </ul>
-    						
-						    <ul id="NFCsites">
-							    <li><a href="http://www.sf49ers.com" target="_blank">San Francisco 49ers</a></li>
-			                    <li><a href="http://www.chicagobears.com" target="_blank">Chicago Bears</a></li>
-			                    <li><a href="http://www.buccaneers.com" target="_blank">Tamp Bay Bucs</a></li>
-			                    <li><a href="http://www.azcardinals.com" target="_blank">Arizona Cardinals</a></li>
-			                    <li><a href="http://www.dallascowboys.com" target="_blank">Dallas Cowboys</a></li>
-			                    <li><a href="http://www.philadelphiaeagles.com" target="_blank">Philadelphia Eagles</a></li>
-			                    <li><a href="http://www.atlantafalcons.com" target="_blank">Atlanta Falcons</a></li>
-			                    <li><a href="http://www.giants.com" target="_blank">New York Giants</a></li>
-			                    <li><a href="http://www.detroitlions.com" target="_blank">Detroit Lions</a></li>
-			                    <li><a href="http://www.packers.com" target="_blank">Green Bay Packers</a></li>
-			                    <li><a href="http://www.panthers.com" target="_blank">Carolina Panthers</a></li>
-			                    <li><a href="http://www.stlouisrams.com" target="_blank">St. Louis Rams</a></li>
-			                    <li><a href="http://www.redskins.com" target="_blank">Washington Redskins</a></li>
-			                    <li><a href="http://www.neworleanssaints.com" target="_blank">New Orleans Saints</a></li>
-			                    <li><a href="http://www.seahawks.com" target="_blank">Seattle Seahawks</a></li>
-			                    <li><a href="http://www.vikings.com" target="_blank">Minnesota Vikings</a></li>
-						   </ul>
-                                    
-                    
-                        
-                    </div>
-                </div>
-            </div>
-            <div style="padding-left: 96px;">
-                
-<ul id="nav"> 
-	<li id="nav-news"><a class="nt" href="/News/Default.aspx"><em></em>News</a>
-		<ul>
-			<li><a href="/News/Default.aspx">News Archive</a></li>
-			<li><a href="/News/injuryreport.aspx">Injury Report</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=7">Ryan's notebook</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=8">Mike Ryan's blog</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=10">Inside the Business</a></li>
-			<li><a href="/News/MediaGuide.aspx">Media Guide</a></li>
-			<li><a href="/News/rss.aspx">RSS</a></li>
-  		 </ul>
-	</li> 
+<div id="wrapper">
+<!---------------------------------------- BANNER AREA ---------------------------------------->
+
+<div id="banner-wrapper">
+	<div id="banners">
+    	<div id="banner-large">
+			<script language="JavaScript" type="text/javascript">
+			    document.write('<iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=' + ord + '?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no">');
+			    document.write('</iframe>');
+                </script><iframe src="http://ad.doubleclick.net/adi/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;dcopt=ist;sz=728x90;ord=7031499900008138?" width="728" height="90" marginwidth="0" marginheight="0" frameborder="0" scrolling="no"></iframe>
+
+                <noscript><a href="http://ad.doubleclick.net/jump/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;sz=728x90;ord=123456789?"
+                        target="_blank"><img src="http://ad.doubleclick.net/ad/nfl.clubsites/jac/other;s1=jac;s2=other;slot=;nfl=ad;!category=;kw=;test=;tile=1;sz=728x90;ord=123456789?"
+                            width="728" height="90" border="0" alt=""></a></noscript>	
+        </div><!-- /banner-large -->
+    	<div id="banner-small">
+        	<!-- ca-pub-8935072241132945/top_left_260x98 -->
+<script type="text/javascript">
+    GA_googleFillSlot("top_left_260x98");
+</script>
+        </div><!-- /banner-small --> 
+    </div><!-- /banners -->
+</div><!-- /#banner-wrapper -->
+
+<!---------------------------------------- HEADER AREA ---------------------------------------->
+
+<div id="header-wrapper">
+	<div id="foundation-wrapper">
+		<div id="foundation-bg">
+		</div><!-- /#foundation-bg -->
+	</div><!-- /#foundation-wrapper -->
+    <div id="header">
+    	<div id="logo">
+        	<a href="/default.aspx" title="jaguars.com Homepage">jaguars.com</a>
+        </div><!-- /#logo -->
+  <div id="header-content">
+        	<div id="header-social">
+            	<ul>
+                	<li id="follow"><a href="http://www.twitter.com/jaguarsinsider" title="Follow us on Twitter">Follow us on Twitter</a></li>
+                	<li id="becomefan"><a href="http://www.facebook.com/jacksonvillejaguars" title="Add us on Facebook">Became a fan on Facebook</a></li>
+                	<li id="subscribe"><a href="/news/rss.aspx" title="Subscribe to RSS">Subscribe to RSS</a></li>
+		</ul>         
+                <div id="nflin">
+                    <a href="javascript:togglenin();" title="NFL Internet Network">NFL Internet Network</a>
+                </div><!-- /#nflin -->     
+		<div id="search" class="search-focus">
+			<input type="text" id="keyword" name="Search" value="">
+	                <button id="searchsubmit" onclick="return search()">Submit</button>
+		</div><!-- /#search -->
+            </div><!-- /#header-social -->   
+    	<div id="foundation">
+        	<a href="/foundation" title="Jaguars Foundation">Jaguars Foundation</a>
+        </div><!-- /#foundation -->					
+        </div><!-- /#header-content -->
+        <div id="nav">
+        	<ul>
+			<li><a href="/news" title="News" id="nav-news" class="nav-news">News</a></li>
+			<li><a href="/team" title="Team" id="nav-team" class="nav-team">Team</a></li>  
+			<li><a href="/gameday" title="Gameday" id="nav-gameday" class="nav-gameday">Gameday</a></li> 
+			<li><a href="/cheerleaders" title="Cheerleaders" id="nav-cheerleaders" class="nav-cheerleaders">Cheerleaders</a></li>
+			<li><a href="/multimedia" title="Multimedia" id="nav-multimedia" class="nav-multimedia">Multimedia</a></li>
+			<li><a href="/stadium" title="Stadium" id="nav-stadium" class="nav-stadium">Stadium</a></li>
+			<li><a href="/tickets" title="Tickets" id="nav-tickets" class="nav-tickets">Tickets</a></li>
+			<li><a href="/fanzone" title="FanZone" id="nav-fanzone" class="nav-fanzone">Fanzone</a></li>
+			<li><a href="/community" title="Community" id="nav-community" class="nav-community">Community</a></li>
+			<li><a href="http://jaguars.teamfanshop.com/" title="Shop" id="nav-shop">Shop</a></li>                                              														
+		</ul>
+        </div><!-- /#nav -->
+        <br clear="all">
+    </div><!-- /#header -->
+</div><!-- /#header-wrapper -->
+
+<!---------------------------------------- NFL INTERNET NETWORK ---------------------------------------->       
    
-	<li><a id="nav-team" class="nt" href="/Team/Roster.aspx"><em></em>Team</a>
-		<ul>
-			<li><a href="/team/roster.aspx">Roster</a></li>
-			<li><a href="/team/coaches.aspx">Coaches</a></li>
-			<li><a href="/team/footballstaff.aspx">Football Staff</a></li>
-			<li><a href="/team/scouts.aspx">Scouts</a></li>
-			<li><a href="/team/management.aspx">Management</a></li>
-			<li><a href="/team/depthchart.aspx">Depth Chart</a></li>
-			<li><a target="_blank" href="http://www.nfl.com/teams/jacksonvillejaguars/statistics?team=JAC">Season Stats</a></li>
-		</ul>
-	</li> 
+        <div id="nflin-wrapper">
+			<div id="nflin-nfl-mark">
+            	<a href="http://www.nfl.com" title="NFL.com">NFL.com</a>
+			</div><!-- /#nflin-nfl -->            
+            	<ul class="nfl-list">
+                	<li><a href="http://www.nflrush.com" title="NFLRush.com">NFLRush.com</a></li>
+                	<li><a href="http://www.nfl.com/play60" title="NFL Play 60">NFL PLAY 60</a></li>                
+                	<li><a href="http://www.nflplayers.com" title="NFLPlayers.com">NFLPlayers.com</a></li>
+                	<li><a href="http://www.nflyouthpd.com/" title="NFL Youth Tackle">NFL Youth Tackle</a></li>
+                	<li><a href="http://www.profootballhof.com title=" pro="" football="" hall="" of="" fame"="">Profootballhof.com</a></li>                                                            
+                </ul>  
+            	<ul class="nfl-list">
+                	<li><a href="http://www.nflshop.com" title="NFL Shop">NFL Shop</a></li>
+                	<li><a href="http://www.nflauction.nfl.com/" title="NFL Auction">NFL Auction</a></li>                
+                	<li><a href="http://www.nfl.com/nflnetwork" title="NFL Network">NFL Network</a></li>
+                	<li><a href="http://www.nflonlocation.net/" title="NFL On Location">NFL On Location</a></li>
+                	<li><a href="http://www.jointheteam.com/" title="In the Community">In the Community</a></li>                                                            
+                </ul>                                                                    
+			<div id="nflin-afc-mark">
+			</div><!-- /#nflin-afc-mark -->               
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">East</li>
+                	<li><a href="http://www.buffalobills.com" title="Buffalo Bills">Bills</a></li>
+                	<li><a href="http://www.miamidolphins" title="Miami Dolphins">Dolphins</a></li>                
+                	<li><a href="http://www.patriots.com" title="New England Patriots">Patriots</a></li>
+                	<li><a href="http://www.newyorkjets.com" title="New York Jets">Jets</a></li>                                                          
+                </ul>  
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">North</li>
+                	<li><a href="http://www.baltimoreravens.com" title="Baltimore Ravens">Ravens</a></li>
+                	<li><a href="http://www.bengals.com" title="Cincinnati Bengals">Bengals</a></li>                
+                	<li><a href="http://www.clevelandbrowns.com" title="Cleveland Browns">Browns</a></li>
+                	<li><a href="http://www.steelers.com" title="Pittsburgh Steelers">Steelers</a></li>                                                          
+                </ul>       
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">South</li>
+                	<li><a href="http://www.houstontexans.com" title="Houston Texans">Texans</a></li>
+                	<li><a href="http://www.colts.com" title="Indianapolis Colts">Colts</a></li>                
+                	<li><a href="http://www.jaguars.com" title="Jacksonville Jaguars">Jaguars</a></li>
+                	<li><a href="http://www.titansonline.com" title="Tennessee Titans">Titans</a></li>                                                          
+                </ul>      
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">West</li>
+                	<li><a href="http://www.denverbroncos.com" title="Denver Broncos">Broncos</a></li>
+                	<li><a href="http://www.kcchiefs" title="Kansas City Chiefs">Chiefs</a></li>                
+                	<li><a href="http://www.raiders.com" title="Oakland Raiders">Raiders</a></li>
+                	<li><a href="http://www.chargers.com" title="San Diego Chargers">Chargers</a></li>                                                          
+                </ul>                                           
+		<div id="nflin-nfc-mark">
+			</div><!-- /#nflin-nfc-mark -->               
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">East</li>
+                	<li><a href="http://www.dallascowboys.com" title="Dallas Cowboys">Cowboys</a></li>
+                	<li><a href="http://www.giants" title="New York Giants">Giants</a></li>                
+                	<li><a href="http://www.philadelphiaeagles.com" title="Philadelphia Eagles">Eagles</a></li>
+                	<li><a href="http://www.redskins.com" title="Washington Redskins">Redskins</a></li>                                                          
+                </ul>  
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">North</li>
+                	<li><a href="http://www.chicagobears.com" title="Chicago Bears">Bears</a></li>
+                	<li><a href="http://www.detroitlions" title="Detroit Lions">Lions</a></li>                
+                	<li><a href="http://www.packers.com" title="Green Bay Packers">Packers</a></li>
+                	<li><a href="http://www.vikings.com" title="Minnesota Vikings">Vikings</a></li>                                                          
+                </ul>       
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">South</li>
+                	<li><a href="http://www.atlantafalcons.com" title="Atlanta Falcons">Falcons</a></li>
+                	<li><a href="http://www.panthers" title="Carolina Panthers">Panthers</a></li>                
+                	<li><a href="http://www.neworleanssaints.com" title="New Orleans Saints">Saints</a></li>
+                	<li><a href="http://www.buccaneers.com" title="Tampa Bay Buccaneers">Buccaneers</a></li>                                                          
+                </ul>      
+            	<ul class="nflin-teams">
+                	<li class="nflin-header">West</li>
+                	<li><a href="http://www.azcardinals.com" title="Arizona Cardinals">Cardinals</a></li>
+                	<li><a href="http://www.stlouisrams" title="St. Louis Rams">Rams</a></li>                
+                	<li><a href="http://www.sf49ers.com" title="San Francisco 49ers">49ers</a></li>
+                	<li><a href="http://www.seahawks.com" title="Seattle Seahawks">Seahawks</a></li>                                                          
+                </ul>                                           
+        </div><!-- /#nflin-wrapper -->
 
-	<li id="nav-cheer"><a class="nt" href="/Cheerleaders/Default.aspx"><em></em>Cheerleaders</a>
-		<ul>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">ROAR News</a></li>
-			<li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
-			<li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
-			<li><a href="/cheerleaders/calendar.aspx">Calendar</a></li>
-			<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photo Gallery</a></li>
-			<li><a href="/cheerleaders/roster.aspx">Roster</a></li>
-		</ul>
-	</li> 
+<!---------------------------------------- SUB NAVIGATION ---------------------------------------->   
 
-	<li id="nav-gameday"><em onclick="location='/gameday/2009schedule.aspx'"></em><a class="nt" href="/Gameday/2009Schedule.aspx">Gameday</a> 
-		<ul>
-			<li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
-			<li><a href="/gameday/2008Schedule.aspx">2008 Schedule</a></li>    
-			<li><a href="/gameday/DownloadSchedule.aspx">Download Schedule</a></li>
-			<li><a href="/gameday/HistoricalResults.aspx">Past Schedules/Results</a></li>
-			<li><a href="/myexperience/">My Experience</a></li>
-		</ul>
-   </li>
+  <div class="subnav" style="margin-top:-15px;display:block;height:0px;z-index:0"> </div>     
+	<div class="subnav nav-news">
+        	<div class="subnav-title">
+            	News
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/news/default.aspx">News Home</a></li>
+                <li><a href="/news/Category.aspx?category=News">Jaguars News</a></li>
+                <li><a href="/news/Category.aspx?category=Editorial">Editorials</a></li>
+                <li><a href="/news/Category.aspx?category=Press_Release">Press releases</a></li>
+	    </ul>   
+            <ul>
+            	<li><a href="/news/Category.aspx?category=Ask_Vic">Ask Vic</a></li>
+                <li><a href="/news/Category.aspx?category=Fantasy">Fantasy</a></li>
+                <li><a href="/news/category.aspx?category=ingame">In-game Updates</a></li>
+            	<li><a href="/news/vicsvalueboard.aspx">Vic's Value Board</a></li>
+	    </ul>  
+            <ul>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=7&amp;">Ryan's notebook</a></li>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=8&amp;">Mike Ryan's blog</a></li>
+            	<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=10&amp;">Inside the business</a></li>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">ROAR News</a></li>
+	    </ul>   
+            <ul>
+                <li><a href="/news/MediaGuide.aspx">Media Guide</a></li>
+                <li><a href="/news/rss.aspx">RSS Feed</a></li>
+	    </ul>    	    
+     
+        </div><!-- /#subnav nav-news -->
 
-	<li id="nav-multimedia"><a class="nt" href="/Multimedia/"><em></em>Multimedia</a>
-		<ul>
-			<li><a href="/Multimedia/">Videos</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery">Photos</a></li>
-			<li><a href="/Multimedia/radioshows.aspx">Radio Shows</a></li>
-		</ul>
-   </li> 
+	<div class="subnav nav-team">
+        	<div class="subnav-title">
+            	Team
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/team/roster.aspx">Roster</a></li>
+                <li><a href="/team/coaches.aspx">Coaches</a></li>
+                <li><a href="/team/management.aspx">Management</a></li>
+                <li><a href="/team/scouts.aspx">Scouts</a></li>
+			</ul>   
+            <ul>
+            	<li><a href="/team/footballstaff.aspx">Football Staff</a></li>
+                <li><a href="/team/depthchart.aspx">Depth Chart</a></li>
+                <li><a href="http://www.nfl.com/teams/jacksonvillejaguars/statistics?team=JAC">Season Stats</a></li>
+            	<li><a href="http://www.nfl.com/teams/jacksonvillejaguars/profile?team=JAC">NFL.com Profile</a></li>
+			</ul>  
+            <ul>
+                <li><a href="http://www.nfl.com/teams/jacksonvillejaguars/transactions?team=JAC">Transactions</a></li>
+                <li><a href="http://www.nfl.com/standings?category=div">Standings</a></li>
+			</ul>        
+			<div class="subnav-sponsor">
+            			<div class="sponsor-teamteal">
+					<a href="http://www.myteamteal.com">myteamteal.com</a>
+				</div><!-- /#sponsor-teamteal -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-team -->
 
-	<li id="nav-stadium"><a class="nt" href="/Stadium/Default.aspx"><em></em>Stadium</a>
-		<ul>
-			<li><a href="/stadium/directions.aspx">Directions</a></li>
-			<li><a href="/stadium/parkingmap.aspx">Parking Map</a></li>
-			<li><a href="/stadium/history.aspx">Stadium History</a></li>
-			<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
-			<li><a href="http://www.homefieldevents.com" target="_blank">Host your event</a></li>
-			<li><a href="/stadium/stadiumtours.aspx">Stadium Tours</a></li>
-		</ul>
-	</li> 
+	<div class="subnav nav-gameday">
+        	<div class="subnav-title">
+            	Gameday
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/gameday/2010Schedule.aspx">2010 Schedule</a></li>
+                <li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
+                <li><a href="/gameday/2008Schedule.aspx">2008 Schedule</a></li>
+                <li><a href="/gameday/2007Schedule.aspx">2007 Schedule</a></li>
+			</ul>   
+            <ul>
+            	<li><a href="/team/footballstaff.aspx">Previous Schedules</a></li>
+                <li><a href="/myexperience">My Experience</a></li>
+            	<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
+                <li><a href="http://www.facebook.com/jacksonvillejaguars?v=app_2344061033&amp;vm=all">Events Calendar</a></li>
+			</ul>  
+            <ul>
+                <li><a href="/stadium/default.aspx">Stadium Information</a></li>
+			</ul>        
+			<div class="subnav-sponsor">
+            			<div class="sponsor-rewards">
+					<a href="http://rewards.jaguars.com">Jaguars Rewards</a>
+				</div><!-- /#sponsor-rewards -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-gameday -->
 
-	<li id="nav-tickets"><a class="nt" href="/Tickets/Default.aspx"><em></em>Tickets</a>
-		<ul>
-			<li><a href="/tickets/seasontickets.aspx">Season Tickets</a></li>
-			<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
-			<li><a href="/tickets/touchdownclub.aspx">Touchdown Club</a></li>
-			<li><a href="/tickets/flexpack.aspx">Flex Packs</a></li>
-			<li><a href="/tickets/grouptickets.aspx">Group Tickets</a></li>
-			<li><a href="/tickets/tailgatecabanas.aspx">Jaguars Cabanas at Pepsi Plaza</a></li>
-			<li><a href="/tickets/terracesuite.aspx">MPS Group Terrace Suite</a></li>
-			<li><a href="/tickets/luxurysuites.aspx">Luxury Suites</a></li>
-			<li><a href="/tickets/map.aspx">2009 Ticket Map</a></li>
-			<li><a href="/tickets/military.aspx">Military Tickets</a></li>
-			<li><a href="/rewards/">Jaguars Rewards</a></li>
-			<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
-			<li><a href="/myaccount/">My Jaguars Account</a></li>
-			<li><a href="/tickets/elayaway.aspx">eLayaway</a></li>
-			<li><a href="http://www.seats3d.com/nfl/jacksonville_jaguars_2009/" target="_blank">3D Seat Views</a></li>
-			<!--<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>-->
-			<li><a target="_blank" href="https://teamexchange.ticketmaster.com/html/eventlist.htmI?l=EN&amp;team=jaguars&amp;intcmp=tm101034&amp;wt.mc_id=NFL_TEAM_JAC_TIX_DRP_DWN_MENU">Jaguars TicketExchange: Buy and sell tickets</a></li>
-			<!--<li><a href="http://www.jaguars.digbro.com" target="_blank">2009 E-brochure</a></li>
--->
-	
-		</ul>
-	</li>
-
-	<li id="nav-fz"><a class="nt" href="/Fanzone/Default.aspx"><em></em>Fanzone</a>
-		<ul>
-			<li><a href="http://forum.jaguars.com">Message Board</a></li>
-			<li><a href="/Fanzone/BackyardTailgate.aspx">WD Tailgater of the Game</a></li>
-			<li><a href="/jaxsondeville/">Jaxson de Ville</a></li>
-			<li><a href="/fanzone/downloads.aspx">Downloads</a></li>
-			<li><a href="/d-line/">D-Line</a></li>
-			<li><a href="/fanzone/gotskillsrookieday.aspx">2009 Got Skills Rookie Day</a></li>
-			<li><a href="/champions/">Champions Club</a></li>
-			<li><a href="/fanzone/scoreboardmessagerequestform.aspx">Scoreboard Messages</a></li>
-			<li><a href="/fanzone/contests.aspx">Contests</a></li>
-			<li><a href="http://jaguarssearch.swagbucks.com" target="_blank">Search and Win!</a></li>
-		</ul>
-	</li> 
-	
-	<li id="nav-community"><a class="nt" href="/Community/Default.aspx"><em></em>Community</a>
-		<ul>
-			<li><a href="/community/appearancerequest.aspx">Appearance Request</a></li>
-			<li><a href="/community/donationrequest.aspx">Donation Request</a></li>
-  		 	<li><a href="/community/ambassadors.aspx">Jaguars Ambassadors</a></li>
-			<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=5">Photo Gallery</a></li>
-			<li><a href="/community/programs.aspx">Programs</a></li>
-			<li><a href="/community/wachoviaoneonone.aspx">Wachovia One on One</a></li>
-		</ul>
-	</li> 
-
-	<li id="nav-fndn"><a class="nt" href="/Foundation/Default.aspx"><em></em>Foundation</a>
-		<ul>
-			<li><a href="/foundation/honorrows.aspx">Honor Rows</a></li>
-			<li><a href="/foundation/straighttalk.aspx">Straight Talk</a></li>
-			<li><a href="http://www.playbooks.org" target="_blank">Playbooks</a></li>
-			<li><a href="/foundation/grantmaking.aspx">Grantmaking</a></li>
-			<li><a href="/foundation/communityscholars.aspx">Community Scholars</a></li>
-		</ul>
-   </li> 
-
-   <li id="nav-shop"><a class="nt" href="http://jaguars.teamfanshop.com"><em></em>Shop</a>
+	<div class="subnav nav-cheerleaders">
+        	<div class="subnav-title">
+            	Cheerleaders
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/cheerleaders/default.aspx">ROAR Home</a></li>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">Cheerleaders Blog</a></li>
+                <li><a href="/cheerleaders/roster.aspx">Roster &amp; Bios</a></li>
+                <li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
+			</ul>   
+            <ul>
+            	<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photos</a></li>
+            	<li><a href="/multimedia/Category/Cheerleaders">Videos</a></li>
+                <li><a href="http://www.jaguars.com/Cheerleaders/calendar.aspx">Swimsuit Calendar</a></li>
+            	<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
+			</ul>  
+            <ul>
+            	<li><a href="http://www.facebook.com/pages/The-ROAR-of-the-Jaguars/116379012533">ROAR on Facebook</a></li>
+                <li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
+	    </ul>  
    
-   </li> 
-</ul> 
+			<div class="subnav-sponsor">
+            			<div class="sponsor-tealdeals">
+					<a href="http://www.tealdeals.com">TealDeals.com</a>
+				</div><!-- /#sponsor-tealdeals -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-cheerleaders -->
 
+	<div class="subnav nav-multimedia">
+        	<div class="subnav-title">
+            	Multimedia
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/multimedia/default.aspx">Multimedia Home</a></li>
+                <li><a href="/multimedia/default.aspx">Videos</a></li>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=gallery">Photos</a></li>
+                <li><a href="/multimedia/radioshows.aspx">Radio Shows</a></li>
+	    </ul>   
+            <ul>
+                <li><a href="/multimedia/Category/Interviews">Interviews</a></li>
+                <li><a href="/multimedia/Category/Special Features">Special Features</a></li>
+            	<li><a href="/multimedia/Category/Game Previews and Highlights">Previews &amp; Highlights</a></li>
+                <li><a href="/multimedia/Category/NFL Network">NFL Network</a></li>
+	    </ul>  
+            <ul>
+                <li><a href="/multimedia/Category/Cheerleaders">Cheerleaders</a></li>
+                <li><a href="/multimedia/Category/NFL Network">Combine</a></li>
+                <li><a href="/multimedia/Category/Team Teal">Team Teal</a></li>
+            	<li><a href="/multimedia/Category/Community Videos">Community</a></li>
+	    </ul>  
+   
+			<div class="subnav-sponsor">
+            			<div class="sponsor-coggin">
+					<a href="http://www.cogginauto.com">Coggin Auto</a>
+				</div><!-- /sponsor-coggin -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-multimedia -->
 
+	<div class="subnav nav-stadium">
+            <div class="subnav-title">
+            	Stadium
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/stadium/default.aspx">Stadium Home</a></li>
+                <li><a href="/stadium/history.aspx">History</a></li>
+                <li><a href="/stadium/directions.aspx">Directions</a></li>
+                <li><a href="/stadium/parkingmap.aspx">Parking Map</a></li>
+	    </ul>   
+            <ul>
+                <li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
+                <li><a href="http://www.homefieldevents.com">Host your event</a></li>
+                <li><a href="/stadium/stadiumtours.aspx">Stadium Tours</a></li>
+                <li><a href="http://www.jaxevents.com/municipalstadium.php">JaxEvents.com</a></li>
+	    </ul>  
+   
+			<div class="subnav-sponsor">
+            			<div class="sponsor-hfe">
+					<a href="http://www.homefieldevents.com">Home Field Events</a>
+				</div><!-- /#sponsor-motorola -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-stadium -->
 
-            </div>
-        </div>
-    <div id="bottom-area">
+	<div class="subnav nav-tickets">
+            <div class="subnav-title">
+            	Tickets
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/tickets/default.aspx">Ticket Center</a></li>
+            	<li><a href="/tickets/seasontickets.aspx">Season Tickets</a></li>
+            	<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
+            	<li><a href="/tickets/touchdownclub.aspx">Touchdown Club</a></li>
+	    </ul>   
+            <ul>
+            	<li><a href="/tickets/grouptickets.aspx">Group Tickets</a></li>
+            	<li><a href="/tickets/tailgatecabanas.aspx">Tailgate Cabanas</a></li>
+            	<li><a href="/tickets/terracesuite.aspx">Terrace Suite</a></li>
+            	<li><a href="/tickets/luxurysuites.aspx">Luxury Suites</a></li>
+	    </ul>  
+            <ul>
+            	<li><a href="/tickets/military.aspx">Military Tickets</a></li>
+            	<li><a href="https://teamexchange.ticketmaster.com/html/eventlist.htmI?l=EN&amp;team=jaguars&amp;intcmp=tm101034&amp;wt.mc_id=NFL_TEAM_JAC_TIX_DRP_DWN_MENU">TicketExchange</a></li>
+            	<li><a href="http://www.seats3d.com/nfl/jacksonville_jaguars_2009/">3D Seat Views</a></li>
+            	<li><a href="/tealdeals">Teal Deals</a></li>
+	    </ul>  
+            <ul>
+            	<li><a href="/myaccount">My Account</a></li>
+            	<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
+            	<li><a href="http://www.channel1media.com/jaguars/2010/">2010 Web Brochure</a></li>
+	    </ul>     
+        </div><!-- /#subnav nav-tickets -->
+
+	<div class="subnav nav-fanzone">
+            <div class="subnav-title">
+            	FanZone
+            </div><!-- /#subnav-title -->
+            <ul>
+            	<li><a href="/fanzone/default.aspx">FanZone Home</a></li>
+                <li><a href="/fanzone/contests.aspx">Contests</a></li>
+                <li><a href="/d-line">D-Line</a></li>
+                <li><a href="/jaxsondeville">Jaxson de Ville</a></li>
+	    </ul>   
+            <ul>
+                <li><a href="http://forum.jaguars.com/">Message Board</a></li>
+                <li><a href="/fanzone/downloads.aspx">Downloads</a></li>
+                <li><a href="/champions">Champions Club</a></li>
+                <li><a href="/myexperience">My Experience</a></li>
+	    </ul>  
+            <ul>
+                <li><a href="/fanzone/scoreboardmessagerequestform.aspx">Scoreboard Messages</a></li>
+                <li><a href="/fanzone/gotskillsrookieday.aspx">Got Skills Rookie Day</a></li>
+	    </ul>  
+   
+			<div class="subnav-sponsor">
+            			<div class="sponsor-playbooks">
+					<a href="http://www.playbooks.org">Playbooks.org</a>
+				</div><!-- /#sponsor-playbooks -->   
+		</div><!-- /#subnav-sponsor -->         
+        </div><!-- /#subnav nav-fanzone -->
+  
+	<div class="subnav nav-community">
+            <div class="subnav-title">
+            	Foundation &amp;<br>Community
+            </div><!-- /#subnav-title -->
+            <ul>
+                <li><a href="/foundation/default.aspx">Foundation Home</a></li>
+                <li><a href="/foundation/communityscholars.aspx">Community Scholars</a></li>
+                <li><a href="/foundation/grantmaking.aspx">Grantmaking</a></li>
+                <li><a href="/foundation/honorrows.aspx">Honor Rows</a></li>
+	    </ul>  
+            <ul>
+                <li><a href="http://www.playbooks.org/">Playbooks</a></li>
+                <li><a href="/foundation/straighttalk.aspx">Straight Talk</a></li>
+	    </ul>  
+		<ul>
+            	<li><a href="/community/default.aspx">Community Home</a></li>
+                <li><a href="/community/programs.aspx">Programs</a></li>
+                <li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=5">Photos</a></li>
+                <li><a href="">Videos</a></li>
+	    </ul>   
+            <ul>
+                <li><a href="/community/appearancerequest.aspx">Appearance Request</a></li>
+		<li><a href="/community/donationrequest.aspx">Donation Request</a></li>
+                <li><a href="/community/ambassadors.aspx">Jaguars Ambassadors</a></li>
+                <li><a href="http://www.nflrush.com/health">NFLRUSH Play 60</a></li>
+	    </ul>  		
+        </div><!-- /#subnav community -->
+
+<!---------------------------------------- NEWS FLASH ---------------------------------------->       
+   
+      
+
+<!---------------------------------------- CONTENT AREA ---------------------------------------->
+
+<div id="content">
         
         
-        <div id="breadcrumbarea">
-            <div class="breadcrumb">
-	    	<div class="sectionheading">
-	            <div id="sechead-lt">
-	                <h1></h1>
-                    <div style="float:left">
+        <div id="bottom-area">
+        
+            
+        
+            <div id="breadcrumbarea">
+                <div class="breadcrumb">
+    	    	
+                    <div class="sectionheading">
+	                    
+                        <div id="sechead-lt">
+	               
+                             <h1>Privacy Policy</h1>
+                    
+                            <div style="float:left">
                          
-                        <span id="ctl00_smp"><a href="#ctl00_smp_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=OXF4Owj97Z7PBRbwFb-WAQ2&amp;t=633834051317626702" border="0"></a><a id="ctl00_smp_SkipLink"></a></span>
-                    </div>
-                </div>
-		        <div id="sechead-rt">
+                                
+                                <span id="ctl00_smp"><a href="#ctl00_smp_SkipLink"><img alt="Skip Navigation Links" height="0" width="0" src="/WebResource.axd?d=OXF4Owj97Z7PBRbwFb-WAQ2&amp;t=633834051317626702" border="0"></a><span><a title="The Official Website of the Jacksonville Jaguars" class="bc_inactive" href="/Default.aspx">jaguars.com</a></span><span>&nbsp;/&nbsp;</span><span class="bc_active">Privacy Policy</span><a id="ctl00_smp_SkipLink"></a></span>
+                            
+                            </div>
+                        
+                        </div>
+		        
+                    <div id="sechead-rt">
 		            
-            	</div>
-            </div>
-	<br><br><div>
+                        
+            	
+                    </div>
+           
                 </div>
+	
+                <br><br>
                 
+                <div>
+                    
+                    
+                
+                </div>
+            
             </div>
+            
             <div id="leftcontentarea">
                 
 <style type="text/css">
 #leftcontentarea { width: 900px; !important }
-
-p {
-padding:20px;
-text-align: left
+ol {
+	margin:0 0 20px 25px!important;
 }
 </style>
 
     <table width="100%">
         <tbody><tr>
-            <td valign="top">            
-            			<p><a href="http://www.truste.org/ivalidate.php?url=www.jaguars.com&amp;sealid=101"><img src="images/clickseal.gif" border="0" style="padding:10px" align="right"></a>Jacksonville Jaguars 
-						Jacksonville Jaguars Website Privacy Policy<br>
-						Revised September 30, 2005 <br>
-						&nbsp;<br>
-						This privacy policy applies to the Jacksonville Jaguars, 
+          <td valign="top">            
+            			<p><a href="http://www.truste.org/ivalidate.php?url=www.jaguars.com&amp;sealid=101"><img src="images/clickseal.gif" border="0" style="padding:10px" align="right"></a>
+                        </p><h2>Jacksonville Jaguars</h2>
+						<p>Jacksonville Jaguars Website Privacy Policy<br>
+						Revised September 30, 2005 </p>
+						<p>This privacy policy applies to the Jacksonville Jaguars, 
 						Ltd website located at www.jaguars.com (the "Website").&nbsp; 
 						This privacy policy also applies to information 
 						submitted by children using the message board at
@@ -395,20 +676,19 @@ text-align: left
 						related to such information, including the choices you 
 						have regarding our collection of information and our use 
 						and disclosure to other parties of information we may 
-						have collected from you.&nbsp; <br>
-						The Website is operated by Jacksonville Jaguars, Ltd.&nbsp;<br>
-						When this privacy policy uses the term "personally 
+						have collected from you.&nbsp;</p>
+            			<p>The Website is operated by Jacksonville Jaguars, Ltd.&nbsp;</p>
+            			<p>When this privacy policy uses the term "personally 
 						identifiable information" or "personal information," we 
 						mean information that identifies a particular 
 						individual, such as your full name, street address or 
 						email address.&nbsp; When other information, such as a 
 						favorite team or player, is associated with personal 
 						information, it also becomes personally identifiable 
-						information for the purposes of this privacy policy.&nbsp;
-						<br>
-						The Jacksonville Jaguars is a licensee of the TRUSTe 
+						information for the purposes of this privacy policy.&nbsp;						</p>
+		    <p>The Jacksonville Jaguars is a licensee of the TRUSTe 
 						Privacy Program.&nbsp; TRUSTe is an independent, 
-						non-profit organization whose mission is to build userâ€™s 
+						non-profit organization whose mission is to build user's 
 						trust and confidence in the Internet by promoting the 
 						use of fair information practices.&nbsp; This privacy 
 						statement covers the site
@@ -417,38 +697,40 @@ text-align: left
 						wants to demonstrate its commitment to your privacy, it 
 						has agreed to disclose its information practices and 
 						have its privacy practices reviewed for compliance by 
-						TRUSTe.<br>
-						If you have questions or concerns regarding this 
-						statement, you should first contact Bruce Swindell at
-						<a href="mailto:privacy@jaguars.com">privacy@jaguars.com</a> 
+						TRUSTe.
+</p>
+            			<p>If you have questions or concerns regarding this 
+						statement, you should first contact Bruce Swindell at <a href="mailto:privacy@jaguars.com">privacy [at] jaguars.com</a> 
 						.&nbsp; If you do not receive acknowledgement of your 
 						inquiry or your inquiry has not been satisfactorily 
 						address, you should contact TRUSTe at
 						<a href="http://www.truste.org/consumers/watchdog_complaint.php">
 						http://www.truste.org/consumers/watchdog_complaint.php</a> 
-						.<br><br>
-						TRUSTe will then serve as a liaison with us to resolve 
-						your concerns.<br>
-						Please read the information below to learn more about 
-						our data collection policies and practices.<br>
-						1. Types Of Information That May Be Collected <br>
-						2. How Information May Be Collected <br>
-						3. How We Use The Information Collected <br>
-						4. With Whom The Information May Be Shared <br>
-						5. Security <br>
-						6. Chat Rooms, Forums, And Message Boards <br>
-						7. Links To Other Websites <br>
-						8. A Special Note For Parents Concerning Privacy <br>
-						9. Notification Of Changes And Your Acceptance Of The 
-						Privacy Policy<br>
-						10. Correcting/Updating Personal Information<br>
-						11. Your California Privacy Rights<br>
-						12. Questions About This Privacy Policy <br>
-						&nbsp;<br>
-						TYPES OF INFORMATION THAT MAY BE COLLECTED <br>
-						The following are the types of information we may 
-						collect:&nbsp; <br>
-						Information You Provide Us: &nbsp;In the course of using the 
+						.</p>
+            			<p>TRUSTe will then serve as a liaison with us to resolve 
+            			  your concerns.</p>
+<p>Please read the information below to learn more about 
+						our data collection policies and practices.
+		    </p><ol>
+                        <li>Types Of Information That May Be Collected</li>
+						<li>How Information May Be Collected</li>
+						<li>How We Use The Information Collected</li>
+						<li>With Whom The Information May Be Shared</li>
+						<li>Security</li>
+						<li>Chat Rooms, Forums, And Message Boards </li>
+						<li>Links To Other Websites</li>
+						<li>A Special Note For Parents Concerning Privacy</li>
+						<li>Notification Of Changes And Your Acceptance Of The 
+						Privacy Policy</li>
+						<li>Correcting/Updating Personal Information</li>
+						<li>Your California Privacy Rights</li>
+						<li>Questions About This Privacy Policy</li>
+</ol>
+						<h2>TYPES OF INFORMATION THAT MAY BE COLLECTED</h2>
+						<p>The following are the types of information we may 
+			collect:&nbsp;                         
+			</p><p><strong>Information You Provide Us:</strong>
+            </p><p>In the course of using the 
 						website, we may ask you to provide us with certain 
 						information, including contact information, such as 
 						name, mailing address, email address, or phone number, 
@@ -456,8 +738,8 @@ text-align: left
 						demographic information, such as your date of birth, 
 						age, ticket holder status, game attendance, or number of 
 						children, financial information, such as your credit 
-						card number or similar information.<br>
-						Tell-A-Friend: If you choose to use our referral service 
+			card number or similar information.   </p>                     
+			<p><strong>Tell-A-Friend:</strong> If you choose to use our referral service 
 						to tell a friend about our site, we will ask you for 
 						your friendâ€™s name and email address.&nbsp; We will 
 						automatically send your friend a one-time email inviting 
@@ -465,27 +747,26 @@ text-align: left
 						this information for the sole purpose of sending this 
 						one-time email and tracking the success of our referral 
 						program.&nbsp; Your friend may contact us at 
-						webmaster@jaguars.com to request that we remove this 
-						information from our database.<br>
-						Site Usage Information: We may receive and store certain 
+						webmaster [at] jaguars.com to request that we remove this 
+			information from our database.  </p>                     
+			<p><strong>Site Usage Information:</strong> We may receive and store certain 
 						types of internet usage information whenever you visit 
 						the Website, such as your click-stream data and your IP 
 						address.&nbsp; See "IP Addresses and Click Stream Data" 
-						below.<br>
-						Email Communications: When you open emails from us, we 
+			below.                        
+			</p><p><strong>Email Communications:</strong> When you open emails from us, we 
 						may receive a confirmation noting you opened the email, 
 						if your computer supports such capabilities. We also may 
 						keep track of what emails we send you and what emails 
 						you may be receiving from our subsidiaries and 
 						affiliates.&nbsp; Additionally, we keep a record of what 
 						communications you have opted to receive or not to 
-						receive.<br>
-						&nbsp;<br>
-						HOW INFORMATION MAY BE COLLECTED<br>
-						We may collect information from you in several different 
+						receive.
+      </p><h2>HOW INFORMATION MAY BE COLLECTED</h2>
+						<p>We may collect information from you in several different 
 						areas on the Website, including but not limited to those 
-						described below:<br>
-						Registration: You may be asked to complete a 
+					  described below:</p>
+						<p> <strong>Registration:</strong> You may be asked to complete a 
 						registration form and provide personally identifiable 
 						information; you may also be asked to choose a user ID 
 						and password in order to take advantage of certain 
@@ -493,8 +774,8 @@ text-align: left
 						newsletters or contests.&nbsp; Participation in 
 						registration is voluntary and you will have the 
 						opportunity to decide whether or not to disclose 
-						information to the Website.<br>
-						Newsletters and Website Emails: We offer free 
+					  information to the Website.</p>
+						<p><strong>Newsletters and Website Emails:</strong> We offer free 
 						newsletters to share information with you about the 
 						Website, about us and our affiliates and subsidiaries, 
 						or about our marketing partners and advertisers and 
@@ -507,8 +788,8 @@ text-align: left
 						information to the Website.&nbsp; You may also cancel 
 						your free email subscription by following the 
 						instructions provided on the Website or in the 
-						newsletter or email.<br>
-						Contests or Sweepstakes: We periodically operate 
+			      newsletter or email.</p>
+						<p><strong>Contests or Sweepstakes:</strong> We periodically operate 
 						contests and sweepstakes through the Website that may 
 						require registration or the submission of personal 
 						information.&nbsp; Participation is voluntary and you 
@@ -523,14 +804,13 @@ text-align: left
 						information on the Website, such as on a winnerâ€™s page, 
 						in the event you win a contest or sweepstakes.&nbsp; 
 						Except as required by applicable law, we will not post 
-						your information without your permission.<br>
-						Surveys or Voting: From time-to-time we may request 
+				    your information without your permission.</p>
+						<p><strong>Surveys or Voting:</strong> From time-to-time we may request 
 						personally identifiable information from you in 
 						conjunction with a survey or voting poll. Participation 
 						is voluntary and you will have the opportunity to decide 
-						whether or not to disclose information to the Website.&nbsp;
-						<br>
-						Cookies:&nbsp; As with many Websites, our Website uses a 
+				    whether or not to disclose information to the Website.&nbsp;						</p>
+						<p><strong>Cookies:</strong>&nbsp; As with many Websites, our Website uses a 
 						technology called "cookies."&nbsp; A cookie is a unique, 
 						random number that is stored in the browser on your 
 						computer. The cookie doesn't actually identify you, just 
@@ -558,8 +838,8 @@ text-align: left
 						Website, however, may not provide you with a 
 						personalized experience if you have disabled the use of 
 						cookies. These cookies are not tied to personal 
-						information.<br>
-						Web Beacons and Other Tracking Technology: &nbsp;Our Website 
+				    information.</p>
+						<p><strong>Web Beacons and Other Tracking Technology:</strong> &nbsp;Our Website 
 						uses a variety of technical methods for tracking 
 						purposes, including Web beacons. Web beacons are small 
 						pieces of data that are embedded in images on the pages 
@@ -574,8 +854,8 @@ text-align: left
 						whether our guests have opened those e-mails and/or 
 						clicked on links in those e-mails. The information from 
 						use of these technical methods is not collected in a 
-						form that is personally identifiable. <br>
-						IP Addresses and Click-Stream Data: We may collect IP 
+				    form that is personally identifiable. </p>
+						<p><strong>IP Addresses and Click-Stream Data:</strong> We may collect IP 
 						addresses and/or click-stream data. An IP address is a 
 						number associated with the service through which you 
 						access the Internet, like your ISP (Internet service 
@@ -597,8 +877,8 @@ text-align: left
 						at the Website, what type of content is most popular, 
 						what type of visitors in the aggregate are interested in 
 						particular kinds of content and advertising, and the 
-						like.<br>
-						Transaction Information: If you conduct a financial 
+				    like.</p>
+						<p> <strong>Transaction Information:</strong> If you conduct a financial 
 						transaction with our Website, such as paying your annual 
 						invoice or buying tickets, we will ask you to complete 
 						an order form that will request certain information from 
@@ -608,9 +888,8 @@ text-align: left
 						have requested, i.e., to deliver the information, 
 						products or other services that you order, and to 
 						invoice you.&nbsp; For your protection, such information 
-						is collected through encrypted means.<br>
-						&nbsp;<br>
-						HOW WE USE THE INFORMATION COLLECTED <br>
+						is collected through encrypted means.</p>
+						<h2>HOW WE USE THE INFORMATION COLLECTED</h2>
 						As applicable, the information you provide to us may be 
 						used to:<br>
 						contact you about the Website; <br>
@@ -624,14 +903,14 @@ text-align: left
 						send you promotional material or special offers on 
 						behalf of our marketing partners and/or their respective 
 						affiliates and subsidiaries and other third parties.<br>
-						&nbsp;<br>
-						WITH WHOM THE INFORMATION MAY BE SHARED<br>
-						At times, we may share your personal information with 
+						<br>
+<h2>WITH WHOM THE INFORMATION MAY BE SHARED</h2>
+						<p>At times, we may share your personal information with 
 						others for various purposes.&nbsp; The following 
 						outlines the ways in which your information may be 
 						shared with others and the ways in which you may opt-out 
-						of having your information shared:<br>
-						Agents: We employ other businesses, certain services and 
+						of having your information shared:</p>
+						<p> <strong>Agents:</strong> We employ other businesses, certain services and 
 						individuals to perform functions on our behalf. Examples 
 						include fulfilling orders, sending e-mail, removing 
 						repetitive information from customer lists, Website 
@@ -648,20 +927,20 @@ text-align: left
 						Technologies but to be aware that these pages are 
 						actually hosted by a 3rd party company and any 
 						information submitted here is being submitted directly 
-						to that 3rd party.<br>
-						Aggregate Information: We may share aggregate 
+				    to that 3rd party.</p>
+						<p><strong>Aggregate Information:</strong> We may share aggregate 
 						information, such as demographics and Website usage 
 						statistics, with advertisers, sponsors or other 
 						organizations. When this type of information is shared, 
 						the other parties do not have access to your personally 
-						identifiable information.<br>
-						Other Promotional Offers:&nbsp; We may send offers to 
+				    identifiable information.</p>
+						<p><strong>Other Promotional Offers:</strong>&nbsp; We may send offers to 
 						you on behalf of our marketing partners. When we do 
 						this, we do not give that partner your name and address. 
 						If you do not want to receive such offers, you use the 
 						opt out method detailed in the email or change your 
-						preferences by logging into your account.<br>
-						Business Transfers:&nbsp; In the event that all or 
+				    preferences by logging into your account.</p>
+						<p><strong>Business Transfers:</strong>&nbsp; In the event that all or 
 						substantially all of our assets are sold or transferred 
 						to another party, or another transaction occurs in which 
 						your personally identifiable information is one of the 
@@ -669,15 +948,13 @@ text-align: left
 						information that has been collected and saved may be one 
 						of the business assets we transfer.&nbsp; Please see 
 						"YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION 
-						OF CHANGES TO THE POLICY" section below.<br>
-						Administrative or Legal Process:&nbsp; Your personal 
+				    OF CHANGES TO THE POLICY" section below.</p>
+						<p><strong>Administrative or Legal Process:</strong>&nbsp; Your personal 
 						information may be transferred to third parties without 
 						notice to you in order to comply with applicable law, 
 						law enforcement agencies, to protect our rights, or 
-						protect the rights of other users of this website. <br>
-						&nbsp;<br>
-						CHAT ROOMS, FORUMS AND MESSAGE BOARDS<br>
-						The Website may make chat rooms, forums and message 
+						protect the rights of other users of this website. </p><h2>CHAT ROOMS, FORUMS AND MESSAGE BOARDS</h2>
+						<p>The Website may make chat rooms, forums and message 
 						boards available to its users. You are not required to 
 						provide any personal information when using these areas 
 						but you may choose to do so. If you post personal 
@@ -690,11 +967,10 @@ text-align: left
 						respect your privacy. Please exercise caution when 
 						deciding to disclose personal information in these 
 						areas.&nbsp; See "A Special Note for Parents Concerning 
-						Privacy" section below.<br>
-						&nbsp;<br>
-						LINKS TO OTHER WEB SITES<br>
-						<br>
-						You should be aware that when you are on the Website you 
+						Privacy" section below.</p>
+                        <p></p>
+			<h2>LINKS TO OTHER WEB SITES</h2>
+   			  <p>You should be aware that when you are on the Website you 
 						could be directed to other Websites beyond our control. 
 						For example, if you "click" on a banner advertisement, 
 						the "click" may take you off the Website onto a 
@@ -707,10 +983,9 @@ text-align: left
 						privacy policies. If you visit a Website that is linked 
 						to our Website, you should consult that Website's 
 						privacy policy before providing any personal 
-						information.<br>
-						&nbsp;<br>
-						SECURITY<br>
-						This Website incorporates reasonable safeguards to 
+						information.
+		    </p><h2>SECURITY</h2>
+            			<p>This Website incorporates reasonable safeguards to 
 						protect the security, integrity, completeness, accuracy 
 						and privacy of the personal information that we may 
 						collect and we have put into place reasonable 
@@ -720,17 +995,16 @@ text-align: left
 						encryption software. Only those employees who need 
 						access to your information in order to do their jobs are 
 						allowed access. Our security policies are reviewed 
-						periodically and revised as required.<br>
-						&nbsp;<br>
-						A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY <br>
-						Please take the time to review this section so that you 
+				periodically and revised as required.</p>
+   			<h2>A SPECIAL NOTE FOR PARENTS CONCERNING PRIVACY </h2>
+           			  <p>Please take the time to review this section so that you 
 						know exactly how we collect and use information, and how 
 						you can review or request that we delete your child's 
 						information.&nbsp; If you have any questions or concerns 
 						about this policy, please contact us at 
-						privacy@jaguars.com.&nbsp; <br>
-						The jaguars.com Message Board<br>
-						At jaguars.com and jaguars.com/mb, boys and girls can 
+						privacy [at] jaguars.com.&nbsp; </p>
+		    <p><strong>The jaguars.com Message Board</strong></p>
+            			<p>At jaguars.com and jaguars.com/mb, boys and girls can 
 						enter contests, vote in surveys, participate in forums, 
 						signup for newsletters, send messages to their friends, 
 						submit questions about the team, learn more about all 
@@ -738,13 +1012,13 @@ text-align: left
 						meet real NFL stars and the teams of people behind the 
 						scenes who make the team and the entire NFL work.&nbsp; 
 						It's all part of our effort to help kids learn more 
-						about and understand the greatest sport around.<br>
-						We do not ask for any personal information beyond what 
+				about and understand the greatest sport around.</p>
+            			<p>We do not ask for any personal information beyond what 
 						is reasonably necessary for your child to participate in 
 						jaguars.com/mb activities.&nbsp; When information is not 
 						required to administer an activity, we clearly mark that 
-						information as optional. <br>
-						Some activities offered on jaguars.com/mb might disclose 
+				information as optional. </p>
+            			<p>Some activities offered on jaguars.com/mb might disclose 
 						some of your childâ€™s personal information to 
 						third-parties on the Internet, such as the message 
 						boards.&nbsp; Before allowing your child to use a 
@@ -753,9 +1027,9 @@ text-align: left
 						on the Internet, we require an authorization form signed 
 						by a parent to confirm that the parent has given 
 						permission for the childâ€™s participation in such 
-						activity<br>
-						Parental Approval, Consent and Review <br>
-						When a child signs up for an activity where we collect 
+				activity</p>
+       			<p><strong>Parental Approval, Consent and Review </strong></p>
+            			<p>When a child signs up for an activity where we collect 
 						and save personally identifiable information, such as 
 						multiple email updates, they will be required to provide 
 						only their name, email address and a parent's email 
@@ -763,12 +1037,12 @@ text-align: left
 						help moms and dads stay aware of their children's online 
 						activities as described above.&nbsp; <br>
 						Parents at any time can send an email to
-						<a href="mailto:privacy@jaguars.com">privacy@jaguars.com</a>&nbsp; 
+						<a href="mailto:privacy@jaguars.com">privacy [at] jaguars.com</a>&nbsp; 
 						to review the information collected about your child, 
 						request that it be deleted, or request that your 
-						children be removed from mailing lists.&nbsp; <br>
-						Other Privacy Information<br>
-						We will only use personally identifiable information 
+				children be removed from mailing lists.&nbsp; </p>
+       			<p><strong>Other Privacy Information</strong></p>
+            			<p>We will only use personally identifiable information 
 						collected on jaguars.com/mb for the purpose for which it 
 						is collected.<br>
 						We may amend this privacy policy at any time.&nbsp; We 
@@ -779,20 +1053,18 @@ text-align: left
 						personally identifiable information.&nbsp;&nbsp;&nbsp; 
 						Please note that parents should always update their 
 						personal information to provide us with current contact 
-						information.&nbsp; <br>
-						If you have questions or comments about this website, 
-						please send an email to privacy@jaguars.com or contact 
-						us by regular mail at:<br>
-						Jacksonville Jaguars, LTD<br>
+				information.&nbsp; </p>
+            			<p>If you have questions or comments about this website, 
+						please send an email to privacy [at] jaguars.com or contact 
+				us by regular mail at:</p>
+            			<p>Jacksonville Jaguars, LTD<br>
 						1 ALLTEL Stadium Place<br>
 						Jacksonville, FL 32202<br>
 						(904) 633-6000<br>
 						Please mark your envelope "ATTN: Childrenâ€™s Website 
-						Privacy."<br>
-						&nbsp;<br>
-						YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION 
-						OF CHANGES TO THE POLICY<br>
-						By using this Website, you signify your agreement to the 
+						Privacy."</p><h2>YOUR ACCEPTANCE OF THE PRIVACY POLICY AND NOTIFICATION 
+						OF CHANGES TO THE POLICY</h2>
+						<p>By using this Website, you signify your agreement to the 
 						terms of our privacy policy.&nbsp; We may amend this 
 						privacy policy at any time.&nbsp; If we make a material 
 						change to the way in which we collect, use, and/or share 
@@ -805,31 +1077,29 @@ text-align: left
 						continue to use the Website thirty days after a notice 
 						is posted.&nbsp; Please note that you should always 
 						update your personal information to provide us with a 
-						current email address.&nbsp; <br>
-						&nbsp;<br>
-						CORRECTING/UPDATING PERSONAL INFORMATION <br>
-						If your personally identifiable information changes 
-						(such as your email address or zip code), or if you no 
-						longer desire to access our Website, we will endeavor to 
-						provide a way to correct, update or remove the personal 
-						data you have provided to us. This can be done making 
-						changes to your profile, by using an opt out message in 
-						an email, or by emailing us at news@jaguars.com.<br>
-						&nbsp;<br>
-						YOUR CALIFORNIA PRIVACY RIGHTS<br>
-						A California privacy law that went into effect on 
+						current email address.</p>
+			<h2>CORRECTING/UPDATING PERSONAL INFORMATION</h2>
+						<p>If your personally identifiable information changes 
+						  (such as your email address or zip code), or if you no 
+						  longer desire to access our Website, we will endeavor to 
+						  provide a way to correct, update or remove the personal 
+						  data you have provided to us. This can be done making 
+						  changes to your profile, by using an opt out message in 
+		    an email, or by emailing us at news [at] jaguars.com.&nbsp;</p>
+<h2>YOUR CALIFORNIA PRIVACY RIGHTS</h2>
+						<p>A California privacy law that went into effect on 
 						January 1, 2005, allows California residents to obtain 
 						specific information about a businessâ€™s privacy 
 						practices if it shares information with other companies 
 						for those companiesâ€™ direct marketing purposes.&nbsp;
-						<br>
+						</p><p>
 						As explained in this privacy policy, whenever you agree 
 						to let us collect personal information about you, we 
 						will always provide you with an option to prevent this 
 						information from being shared for non-administrative 
 						purposes with third parties.&nbsp; You can exercise this 
 						option at any time by following the steps outlined 
-						above.&nbsp;&nbsp;&nbsp; <br>
+						above.</p><p>
 						Because this website has a comprehensive privacy policy 
 						and provides you with details on how you may opt-in / 
 						opt-out of the use of your personal information by third 
@@ -837,154 +1107,145 @@ text-align: left
 						required to provide you with this information.<br>
 						If you are a California resident and you would like to 
 						make such a request, please send an email to 
-						CA_Privacy_Rights @ jaguars.com or write to us at CA Privacy 
+						CA_Privacy_Rights [at] jaguars.com or write to us at CA Privacy 
 						Rights, Internet Operations, Jacksonville Jaguars, 
-						Jacksonville, FL&nbsp; 32202.&nbsp; <br>
-						&nbsp;<br>
-						QUESTIONS ABOUT THIS PRIVACY POLICY<br>
-						If you have any questions about this privacy policy or 
+						Jacksonville, FL&nbsp; 32202.&nbsp;&nbsp;</p>
+			<h2>QUESTIONS ABOUT THIS PRIVACY POLICY</h2>
+						<p>If you have any questions about this privacy policy or 
 						the privacy practices of this Website, contact 
-						privacy@jaguars.com. <br>
-						Questions regarding this statement should be directed 
-						to: <br>
-						Bruce Swindell<br>
+						privacy [at] jaguars.com. </p>
+						<p>Questions regarding this statement should be directed 
+						to: </p>
+						<p>Bruce Swindell<br>
 						Attn: Website Privacy Policy<br>
 						Jacksonville Jaguars<br>
 						One Stadium Place<br>
 						Jacksonville, FL&nbsp; 32202<br>
-						</p>
-				</td>
+                </p></td>
         </tr>
     </tbody></table>
 
 
             </div>
+            
             <div id="rightcontentarea">
                 
                 
+                
             </div>
-        </div>
-    </div>
-    
-    
-    <div id="footer-divider">
-        <!--<a href="/">Home</a>
-        <a href="/News/">News</a>
-        <a href="/Multimedia/">Video</a>
-        <a href="http://forum.jaguars.com/index.php?autocom=blog">Blogs</a>
-        <a href="/Team/">Roster</a>
         
-        <a href="http://forum.jaguars.com/index.php?autocom=gallery">Photos</a>
-        <a href="/Tickets/">Tickets</a>
-        <a href="/Gameday/">Schedule</a>
-        <a href="http://forum.jaguars.com/">Message Board</a>-->
-    </div>
-    <br>
-
+        </div>
     
+    </div>
+ 
+    <div style="clear:both"></div>
+</div><!-- /#content -->      
+  
+<div style="clear:both"></div><!-- /#push -->   
+
+
+</div><!-- /#wrapper -->
+
+
 
 <div id="footer">
-<div id="footer-top">
-	<div id="footer-topleft" onclick="document.location='/default.aspx'"><noscript><a href="/default.aspx"></a></noscript>
-    </div><!-- /footer-topleft -->
-    <div id="footer-topright">
-    	<div class="footer-section" id="footer-section-left"><h1><a href="/team">TEAM</a></h1>
-				<ul>
-                	<li><a href="/team/roster.aspx">Roster</a></li>
-                    <li><a href="/team/coaches.aspx">Coaches</a></li>
-                    <li><a href="/team/management.aspx">Management</a></li>
-                    <li><a href="/team/scouts.aspx">Scouts</a></li>
-                    <li><a href="/team/depthchart.aspx">Depth Chart</a></li>
-				</ul>
-		</div>
-    	<div class="footer-section"><h1><a href="/gameday">GAMEDAY</a></h1>
-				<ul>
-                	<li><a href="/gameday/2009Schedule.aspx">2009 Schedule</a></li>
-                	<li><a href="/gameday/HistoricalResults.aspx">Previous Schedules</a></li>
-                	<li><a href="/stadium/directions.aspx">Directions &amp; Parking</a></li>
-                	<li><a href="/stadium/history.aspx">Stadium History</a></li>
-                	<li><a href="/stadium/gamedayfaqs.aspx">Gameday FAQs</a></li>
-				</ul>
-		</div>
-    	<div class="footer-section"><h1><a href="/cheerleaders">ROAR</a></h1>
-				<ul>
-                	<li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;">ROAR News</a></li>
-                	<li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4">Photo Gallery</a></li>
-                	<li><a href="/cheerleaders/appearancerequestform.aspx">Appearances</a></li>
-                	<li><a href="/cheerleaders/juniorroar.aspx">Junior ROAR</a></li>
-                	<li><a href="/cheerleaders/auditions.aspx">Auditions</a></li>
-				</ul>
-		</div>
-    	<div class="footer-section"><h1><a href="/tickets">TICKETS</a></h1>
-				<ul>
-                	<li><a href="/tickets/singlegametickets.aspx">Single Game Tickets</a></li>
-                	<li><a href="/tickets/myaccount.aspx">My Account</a></li>
-                	<li><a href="/tickets/ticketexchange.aspx">TicketExchange</a></li>
-                	<li><a href="/tickets/fanservices.aspx">Fan Services</a></li>
-                	<li><a href="http://rewards.jaguars.com">Jaguars Rewards</a></li>
-				</ul>
-		</div>
-    	<div class="footer-section"><h1><a href="/fanzone">FANZONE</a></h1>
-				<ul>
-                	<li><a href="http://forum.jaguars.com">Message Board</a></li>
-                	<li><a href="/jaxsondeville/">Jaxson de Ville</a></li>
-                	<li><a href="/d-line">D-Line</a></li>
-                	<li><a href="/fanzone/contests.aspx">Contests</a></li>
-                	<li><a href="/fanzone/downloads.aspx">Downloads</a></li>
-				</ul>
-		</div>
-    	<div class="footer-section" id="footer-section-right"><h1>COMPANY</h1>
-				<ul>
-                	<li><a href="/pr">Press</a></li>
-                	<li><a href="/privacy">Privacy Policy</a></li>
-                	<li><a href="/jobs">Job Opportunities</a></li>
-                	<li><a href="/tickets/fanservices.aspx">Fan Feedback</a></li>
-                	<li><a href="/tickets/contactform.aspx">Contact Us</a></li>
-				</ul>
-		</div>
-        <br clear="all">
-    </div><!-- /footer-topright -->
-    </div><!-- /footer-top -->
-    <div id="footer-bottom">
-        <div id="footer-logos">
-            <a href="/foundation" id="btm-fndn">Jaguars Foundation</a>
-            <a href="http://www.cbs47.com" id="btm-cbs">WTEV-TV 47 Jacksonville</a>
-            <a id="btm-qea">Quality Education for All</a>
-        </div><!-- /footer-logos -->
-        <div id="footer-copyright">
-        	© 2009 Jacksonville Jaguars, LTD. All Rights Reserved.<br>
+	<div id="footer-container">
+        <div id="footer-top">
+            <div id="footer-topleft" onclick="document.location='/default.aspx'"><noscript><a href="/default.aspx"></a></noscript>
+            </div><!-- /footer-topleft -->
+            <div id="footer-topright">
+                <div class="footer-section" id="footer-section-left"><h1><a href="/team" title="Team">TEAM</a></h1>
+                        <ul>
+                            <li><a href="/team/roster.aspx" title="Roster">Roster</a></li>
+                            <li><a href="/team/coaches.aspx" title="Coaches">Coaches</a></li>
+                            <li><a href="/team/management.aspx" title="Management">Management</a></li>
+                            <li><a href="/team/scouts.aspx" title="Scouts">Scouts</a></li>
+                            <li><a href="/team/depthchart.aspx" title="Depth Chart">Depth Chart</a></li>
+                        </ul>
+                </div>
+                <div class="footer-section"><h1><a href="/gameday" title="Gameday">GAMEDAY</a></h1>
+                        <ul>
+                            <li><a href="/gameday/2010Schedule.aspx" title="2010 Schedule">2010 Schedule</a></li>
+                            <li><a href="/gameday/2009Schedule.aspx" title="2009 Schedule">2009 Schedule</a></li>                    
+                            <li><a href="/gameday/HistoricalResults.aspx" title="Previous Schedules">Previous Schedules</a></li>
+                            <li><a href="/stadium/directions.aspx" title="Directions &amp; Parking">Directions &amp; Parking</a></li>
+                            <li><a href="/stadium/gamedayfaqs.aspx" title="Gameday FAQs">Gameday FAQs</a></li>
+                        </ul>
+                </div>
+                <div class="footer-section"><h1><a href="/cheerleaders" title="ROAR">ROAR</a></h1>
+                        <ul>
+                            <li><a href="http://forum.jaguars.com/index.php?autocom=blog&amp;blogid=9&amp;" title="ROAR News">ROAR News</a></li>
+                            <li><a href="http://forum.jaguars.com/index.php?autocom=gallery&amp;req=sc&amp;cat=4" title="Photo Gallery">Photo Gallery</a></li>
+                            <li><a href="/cheerleaders/appearancerequestform.aspx" title="Appearances">Appearances</a></li>
+                            <li><a href="/cheerleaders/juniorroar.aspx" title="Junior ROAR">Junior ROAR</a></li>
+                            <li><a href="/cheerleaders/auditions.aspx" title="Auditions">Auditions</a></li>
+                        </ul>
+                </div>
+                <div class="footer-section"><h1><a href="/tickets" title="Tickets">TICKETS</a></h1>
+                        <ul>
+                            <li><a href="/tickets/seasontickets.aspx" title="Season Tickets">Season Tickets</a></li>
+                            <li><a href="/myaccount" title="My Account">My Account</a></li>
+                            <li><a href="/tickets/ticketexchange.aspx" title="TicketExchange">TicketExchange</a></li>
+                            <li><a href="/tickets/fanservices.aspx" title="Fan Services">Fan Services</a></li>
+                            <li><a href="http://rewards.jaguars.com" title="Jaguars Rewards">Jaguars Rewards</a></li>
+                        </ul>
+                </div>
+                <div class="footer-section"><h1><a href="/fanzone" title="FanZone">FANZONE</a></h1>
+                        <ul>
+                            <li><a href="http://forum.jaguars.com" title="Message Board">Message Board</a></li>
+                            <li><a href="/jaxsondeville/" title="Jaxson de Ville">Jaxson de Ville</a></li>
+                            <li><a href="/d-line" title="D-Line">D-Line</a></li>
+                            <li><a href="/fanzone/contests.aspx" title="Contests">Contests</a></li>
+                            <li><a href="/fanzone/downloads.aspx" title="Downloads">Downloads</a></li>
+                        </ul>
+                </div>
+                <div class="footer-section" id="footer-section-right"><h1>COMPANY</h1>
+                        <ul>
+                            <li><a href="/pr" title="Press">Press</a></li>
+                            <li><a href="/privacy" title="Privacy Policy">Privacy Policy</a></li>
+                            <li><a href="/jobs" title="Job Opportunities">Job Opportunities</a></li>
+                            <li><a href="/tickets/fanservices.aspx" title="Fan Feedback">Fan Feedback</a></li>
+                            <li><a href="/tickets/contactform.aspx" title="Contact Us">Contact Us</a></li>
+                        </ul>
+                </div>
+                <br clear="all">
+            </div><!-- /footer-topright -->
+            </div><!-- /footer-top -->
+    		<div id="footer-bottom">
+       			 <div id="footer-copyright">
+        	© 2010 Jacksonville Jaguars, LTD. All Rights Reserved.<br>
 Jacksonville Jaguars, One Stadium Place, Jacksonville, FL 32202
-        </div><!-- /footer-copyright -->
-        <div id="footer-connect"><a href="/connect"><img src="/images/footer/connect.png" alt="Connect with us"></a>&nbsp;&nbsp;
-        <a href="http://www.facebook.com/jacksonvillejaguars"><img src="/images/footer/facebook.png" alt="Become a fan on facebook" class="footer-icons"></a>
-        <a href="http://www.twitter.com/jaguarsinsider"><img src="/images/footer/twitter.png" alt="Follow us on twitter" class="footer-icons"></a>
-        <a href="/news/rss.aspx"><img src="/images/footer/rss.png" alt="RSS Feeds" class="footer-icons"></a>
-        <a href="/connect"><img src="/images/footer/sms.png" alt="SMS Alerts" class="footer-icons"></a>
-        </div><!-- /footer-connect -->
-    </div><!-- footer-bottom -->
-</div><!-- /footer -->
-    
-    
+      			  </div><!-- /footer-copyright -->    
+      			  <div id="footer-logos">
+                    <a href="/foundation" id="btm-fndn" title="Jaguars Foundation">Jaguars Foundation</a>
+                    <a id="btm-qea" title="Quality Education for All">Quality Education for All</a>
+                    <a href="http://www.cbs47.com" id="btm-cbs" title="WTEV-TV 47 Jacksonville">WTEV-TV 47 Jacksonville</a>            
+ 		          </div><!-- /footer-logos -->
+		    </div><!-- footer-bottom -->
+    </div><!-- /#footer-container -->
+</div><!-- /#footer -->
+</form>
+
    
-    
-    </div>
-    
-    <!-- Advertiser 'AR-SKIN-KEY:ad_ready',  Include user in segment 'Jacksonville Jaguars RT' - DO NOT MODIFY THIS PIXEL IN ANY WAY -->
-<img src="http://ad.yieldmanager.com/pixel?id=552461&amp;t=2" width="1" height="1">
-<!-- End of segment tag -->
-    </form>
-
-    <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-
     <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-335549-1");
 pageTracker._trackPageview();
-enable_smooth_scroll();
+/*enable_smooth_scroll();*/
     </script>
-
-
+    <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
+<script type="text/javascript">
+    window.fbAsyncInit = function () {
+        FB.init({ appId: '126808980664860', status: true, cookie: true,
+            xfbml: true
+        });
+    };
+    (function () {
+        var e = document.createElement('script'); e.async = true;
+        e.src = document.location.protocol +
+      '//connect.facebook.net/en_US/all.js';
+        document.getElementById('fb-root').appendChild(e);
+    } ());
+  
+</script>
 
 </body></html>
