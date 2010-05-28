@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114073117id_/http%3A//www.pkr.com/en/about-pkr/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pkr.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528150553id_/http%3A//www.pkr.com/en/about-pkr/privacy) for the most accurate reproduction.*
 
 # PKR | Privacy
 
