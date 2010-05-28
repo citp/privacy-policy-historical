@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the luckyscent.com privacy policy that was archived on 2009-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208190653id_/http%3A//www.luckyscent.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the luckyscent.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528051837id_/http%3A//www.luckyscent.com/privacy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="javascript">
 	<!--
@@ -36,6 +36,10 @@ LuckyScent: shop for hard to find perfumes, fragrances and candles.
 <script type="text/javascript" src="http://www.luckyscent.com/include/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="http://www.luckyscent.com/include/jquery.bgiframe.min.js"></script>
 <script type="text/javascript" src="http://www.luckyscent.com/include/jquery.autocomplete.js"></script>
+
+<script type="text/javascript" src="http://www.luckyscent.com//include/jquery.calculation.js"></script>
+<script type="text/javascript" src="http://www.luckyscent.com//include/jquery.field.js"></script>
+
 <link rel="stylesheet" type="text/css" href="http://www.luckyscent.com/css/jquery.autocomplete.css">
 <link rel="stylesheet" href="http://www.luckyscent.com/css/lucky.css" type="text/css">
 <script type="text/javascript">
@@ -44,10 +48,54 @@ $().ready(function() {
 		cacheLength:10,
 		matchContains: true,
 		minChars: 0,
+		max:15,
 		selectFirst: false
 	});
+  
+   $("input[name='cash']").bind("keyup", recalc);
+  $("input[name='credit_card']").bind("keyup", recalc);
+  recalc();
+
+  //
+  function recalc(){
+    // run the calc() method on each of the "total" fields
+    $("#change").calc(
+        // the equation to use for the calculation
+        "(cash + credit_card) - currTotal ",
+        // we now define the values for the variables defined in the equation above
+        {
+          currTotal: $("[id='pos_total']"),
+		  cash: $("input[name='cash']"),
+          credit_card: $("input[name='credit_card']")
+           
+        },
+        // this function is execute after the calculation is completed, which allows us to
+        // add formatting to our value
+        function (s){
+            // return the number as a dollar amount
+            return "$" + s.toFixed(2);
+        },
+        // once all calculations are completed, we execute the code below
+        function ($this){
+            // now we get the sum() of all the values we just calculated
+            var sum = $this.sum();
+
+            // now that we have the grand total, we must update the screen
+            $("#change").text(
+                // round the results to 2 digits
+                "$" + sum.toFixed(2)
+            );
+        }
+    );
+}
+  //
+  
 });
 </script>
+
+
+
+
 
 </head>
 <body bgcolor="#FFFFFF" text="#000000">
@@ -91,7 +139,7 @@ $().ready(function() {
 			 
           </tbody></table></td>
         </tr><tr>          
-          <td colspan="3"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="765" height="95"><param name="movie" value="https://www.luckyscent.com/images/interface/sitebrand/Holidayheader2009.swf"><param name="quality" value="high"><embed src="https://www.luckyscent.com/images/interface/sitebrand/Holidayheader2009.swf" quality="high" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="765" height="95"></object></td>
+          <td colspan="3"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><table cellpadding="0" cellspacing="0" width="765"><tbody><tr><td width="765" height="95"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="765" height="95"><param name="movie" value="https://www.luckyscent.com/images/interface/sitebrand/Grass_w_Head 2009_765x95.swf"><param name="quality" value="high"><embed src="https://www.luckyscent.com/images/interface/sitebrand/Grass_w_Head 2009_765x95.swf" quality="high" pluginspage="https://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="765" height="95"></object></td>
           </tr></tbody></table></td></tr></tbody></table>
 
 </td></tr></tbody></table></td>
@@ -99,7 +147,7 @@ $().ready(function() {
         <tr> 
           <td bgcolor="#8CBB00" height="1" colspan="3"> 
             <table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr><td width="100%" align="center" nowrap="" background="http://www.luckyscent.com/images/interface/bt_main_blank.gif"><a href="http://www.luckyscent.com/shop/section/1/page/1/Fragrances.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_fragrance.gif" alt="All Perfumes and Fragrances" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/2/page/1/MensFragrances.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_men.gif" alt="Men's Colognes and Fragrances" height="31" border="0"></a><a href="http://www.luckyscent.com/samples.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_new_samples.gif" alt="Perfume Samples and Fragrance Samples of almost every brand we carry." height="32" border="0"></a><a href="http://www.luckyscent.com/toppicks.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_new_toppicks.gif" alt="Luckyscent's Top Perfume Picks - The Best of the Best" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/4/page/1/BathBodyAndSkin.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_bath.gif" alt="Bath,  Body and Skin Care" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/3/page/1/CandlesAndHome.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_candles.gif" alt="Candles and Home" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/14/page/1/TheGoods.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_thegoods.gif" alt="The Goods" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/11/page/1/Tea.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_teas.gif" alt="Exotic Teas" height="32" border="0"></a><a href="http://www.luckyscent.com/giftguide2009.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_giftguide.gif" alt="Holiday Gift Guide" height="32" border="0"></a><a href="http://www.luckyscent.com/scentbar/"><img src="http://www.luckyscent.com/images/interface/bt_main_new_divider.gif" width="11" height="32" border="0"><img src="http://www.luckyscent.com/images/interface/bt_main_new_scent_bar.gif" alt="Scent Bar, our store in West Hollywood" height="32" border="0"></a></td>
+              <tbody><tr><td width="100%" align="center" nowrap="" background="http://www.luckyscent.com/images/interface/bt_main_blank.gif"><a href="http://www.luckyscent.com/shop/section/1/page/1/Fragrances.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_fragrance.gif" alt="All Perfumes and Fragrances" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/2/page/1/MensFragrances.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_men.gif" alt="Men's Colognes and Fragrances" height="31" border="0"></a><a href="http://www.luckyscent.com/samples.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_new_samples.gif" alt="Perfume Samples and Fragrance Samples of almost every brand we carry." height="32" border="0"></a><a href="http://www.luckyscent.com/toppicks.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_new_toppicks.gif" alt="Luckyscent's Top Perfume Picks - The Best of the Best" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/4/page/1/BathBodyAndSkin.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_bath.gif" alt="Bath,  Body and Skin Care" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/3/page/1/CandlesAndHome.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_candles.gif" alt="Candles and Home" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/14/page/1/TheGoods.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_thegoods.gif" alt="The Goods" height="32" border="0"></a><a href="http://www.luckyscent.com/shop/section/11/page/1/Tea.html"><img src="http://www.luckyscent.com/images/interface/bt_main_new_teas.gif" alt="Exotic Teas" height="32" border="0"></a><!--<a href="http://www.luckyscent.com/giftguide2009.asp"><img src="http://www.luckyscent.com/images/interface/bt_main_giftguide.gif" alt="Holiday Gift Guide"  height="32" border="0"></a>--><a href="http://www.luckyscent.com/scentbar/"><img src="http://www.luckyscent.com/images/interface/bt_main_new_divider.gif" width="11" height="32" border="0"><img src="http://www.luckyscent.com/images/interface/bt_new_sb.gif" alt="Scent Bar, our store in West Hollywood" height="32" border="0"></a></td>
 
 
               </tr>
@@ -127,19 +175,27 @@ $().ready(function() {
                 
                 <option value="255">Acqua di Biella</option>
                 
+                <option value="497">Alexa Lixfeld</option>
+                
                 <option value="418">Amouage</option>
                 
                 <option value="333">Anamor</option>
                 
                 <option value="350">Anat Fritz</option>
                 
+                <option value="508">Andree Putman</option>
+                
                 <option value="314">Andy Tauer</option>
                 
                 <option value="359">Anne Pliska</option>
                 
+                <option value="503">Annick Goutal</option>
+                
                 <option value="179">Aqaba</option>
                 
                 <option value="111">Aroma M</option>
+                
+                <option value="510">Atelier Cologne</option>
                 
                 <option value="428">Auguste</option>
                 
@@ -169,8 +225,6 @@ $().ready(function() {
                 
                 <option value="249">Carriere</option>
                 
-                <option value="147">Catherine Memmi</option>
-                
                 <option value="377">CB I Hate Perfume</option>
                 
                 <option value="216">Comme des Garcons</option>
@@ -199,11 +253,13 @@ $().ready(function() {
                 
                 <option value="488">Comme des Garcons x Daphne Guinness</option>
                 
-                <option value="417">Comme des Garcons x Monocle: Scent One</option>
+                <option value="417">Comme des Garcons x Monocle</option>
                 
                 <option value="458">Comme des Garcons x Stephen Jones</option>
                 
                 <option value="238">Comptoir Sud Pacifique</option>
+                
+                <option value="500">Costamor</option>
                 
                 <option value="163">Costes</option>
                 
@@ -239,8 +295,6 @@ $().ready(function() {
                 
                 <option value="380">Ellie D</option>
                 
-                <option value="330">Elternhaus</option>
-                
                 <option value="308">Escentric Molecules</option>
                 
                 <option value="477">Etat Libre d’Orange</option>
@@ -248,6 +302,8 @@ $().ready(function() {
                 <option value="440">Farmacia SS. Annunziata dal 1561</option>
                 
                 <option value="316">Fifi Chachnil</option>
+                
+                <option value="498">Francis Kurkdjian</option>
                 
                 <option value="226">Frapin</option>
                 
@@ -311,21 +367,19 @@ $().ready(function() {
                 
                 <option value="312">Lubin</option>
                 
-                <option value="445">Lucienne</option>
-                
                 <option value="332">Luckyscent Gift Certificates</option>
                 
                 <option value="322">Luckyscent Sample Packs</option>
                 
                 <option value="245">M. Micallef</option>
                 
+                <option value="498">Maison Francis Kurkdjian</option>
+                
                 <option value="288">Maitre Parfumeur et Gantier</option>
                 
                 <option value="486">Mark Buxton</option>
                 
                 <option value="328">Mazzolari</option>
-                
-                <option value="284">Menard</option>
                 
                 <option value="244">Michele Bergman</option>
                 
@@ -339,9 +393,15 @@ $().ready(function() {
                 
                 <option value="154">Morgane Le Fay</option>
                 
+                <option value="135">Nanadebary</option>
+                
                 <option value="125">Napa Valley</option>
                 
                 <option value="410">Nasomatto</option>
+                
+                <option value="499">Nez a Nez</option>
+                
+                <option value="501">Odin</option>
                 
                 <option value="431">Odori</option>
                 
@@ -380,8 +440,6 @@ $().ready(function() {
                 <option value="256">Profumi di Pantelleria</option>
                 
                 <option value="339">Profumum</option>
-                
-                <option value="423">Puro Lino</option>
                 
                 <option value="421">Red Flower Organic Perfume</option>
                 
@@ -429,6 +487,8 @@ $().ready(function() {
                 
                 <option value="467">Teo Cabanel</option>
                 
+                <option value="496">The Beautiful Mind Series</option>
+                
                 <option value="253">The Different Company</option>
                 
                 <option value="482">The Garden Party</option>
@@ -439,17 +499,19 @@ $().ready(function() {
                 
                 <option value="144">The Pink Room UK</option>
                 
-                <option value="342">Tocca</option>
-                
                 <option value="341">TOCCA Beauty</option>
                 
                 <option value="317">UNTITLED</option>
+                
+                <option value="502">Van Cleef &amp; Arpels</option>
                 
                 <option value="442">Vero Profumo</option>
                 
                 <option value="127">Violetta di Parma</option>
                 
                 <option value="416">Washington Tremlett</option>
+                
+                <option value="511">Xerjoff</option>
                 
                 <option value="228">YOSH</option>
                 
@@ -474,8 +536,11 @@ $().ready(function() {
         </td></tr>  
 		
 		
-				<!--new menu begins-->
-				<!-- CHRISTMAS SHIPPING-->   	
+				<!--new menu begin
+                  	<tr>
+		  <td colspan="3" height="20" bg bgcolor="#FD2935" align="center"><font color="#FFFFFF">Get your order by Christmas! <a href=/holiday_shipping.asp><font color="#FFFFFF">Click here</font></a> for our 2009 shipping schedule. </font></td>
+		</tr>
+		CHRISTMAS SHIPPING-->  	
 		
 
 <tr>	
@@ -584,7 +649,7 @@ $().ready(function() {
     <td align="center" nowrap="nowrap"><table width="85%" border="0" cellspacing="2" cellpadding="1">
       <tbody><tr>
         <td nowrap="nowrap"><font color="#000000">Order Toll Free (US) : 866 931-8297</font></td>
-        <td valign="bottom"><font color="#000000">International: 323 931-8297</font></td>
+        <td valign="bottom"><font color="#000000">International: +1 323 931-8297</font></td>
         <td valign="bottom" nowrap="nowrap">&nbsp;</td>
       </tr>
       <tr>
@@ -651,7 +716,7 @@ $().ready(function() {
     <td align="center"><font size="-3" color="#CCCCCC"> <br>
     
       </font><font size="-3" color="#CCCCCC"><br>
-        * Free fragrance samples  not included with  "sample only" orders<font size="-3" color="#C1C1C1"> <a href="http://www.luckyscent.com/custserv.asp#samples" target="new"><font color="C1C1C1">click
+        * Free fragrance samples  not included with  "sample only" orders<font size="-3" color="#C1C1C1"> <a href="http://www.luckyscent.com/customerservice.asp#samples" target="new"><font color="C1C1C1">click
           here for details</font></a></font><br>
         <br>
   ©2009 Lucky Scent Inc. All Rights Reserved. All images and copy are a registered<br> 
