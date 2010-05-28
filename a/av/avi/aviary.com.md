@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviary.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201020909id_/http%3A//aviary.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviary.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528142922id_/http%3A//aviary.com/privacy) for the most accurate reproduction.*
 
 # Aviary - Privacy
 
