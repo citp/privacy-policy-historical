@@ -1,0 +1,1132 @@
+<!--The following is the downloaded HTML source of the playtoad.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528124900id_/http%3A//playtoad.boonty.com/howitworks.php%3FintMode%3D5) for the most accurate reproduction.-->
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="us" xml:lang="us"><head></head><body><doctype html="" public="" "-="" w3c="" dtd="" xhtml="" 1.0="" strict="" en"="" "http:="" www.w3.org="" tr="" xhtml1="" xhtml1-strict.dtd"="">
+
+
+
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="cache-control" content="no-cache">
+<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1">
+<meta content="US" http-equiv="content-language">
+<link rel="shortcut icon" type="image/x-icon" href="http://m.boonty.com/sitesimages/genericsite/BGP/231.ico">
+<meta name="keywords" content="games, download, downloads, casual games, game, videogames, video game, hardcore games, hard-core games, software, free, best games">
+<meta name="description" content="Download casual games (fun and for free), videogames (PC games) and hundreds of software with PlayToad">
+<title>Download games with PlayToad</title>
+<script type="text/javascript" src="Jquery/jquery.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+function checkRequiredNewsletter(f)
+{
+	var bPassed = true;
+	var j_mail_empty = 'Please specify your email address\n';
+	var j_mail_Err = 'It is not possible to save the information \ndue to the following error:\n';
+	var j_mail_Err2 = 'email address is not valid';
+	var msg = "";
+	for(var j=0; j<f.elements.length; j++)
+	{
+		if ((f.elements[j].name == "strEmail") && (isblank(f.elements[j].value) || (!isEmail(f.elements[j].value))))
+		{
+			if (isblank(f.elements[j].value)) {
+
+				 if (j_mail_empty != '') {
+					bPassed = false;
+					msg += j_mail_empty;
+				} else {
+					bPassed = false;
+					msg  = "________________________________________\n\nWe are sorry, but we cannot process the \ninformation provided due to the error(s) indicated below.\nPlease correct the information:\n________________________________________\n\n";
+					msg += "Enter a valid email address\n";
+				}
+			} else {
+
+				 if (j_mail_Err != '') {
+				 	bPassed = false;
+					msg += j_mail_Err + f.elements[j].value + j_mail_Err2;
+				} else {
+					bPassed = false;
+					msg  = "________________________________________\n\nWe are sorry, but we cannot process the \ninformation provided due to the error(s) indicated below.\nPlease correct the information:\n________________________________________\n\n";
+					msg += "Enter a valid email address\n";
+				}
+			}
+		}
+		if ((f.elements[j].name == "isMoreThan13") && !f.elements[j].checked)
+		{
+			bPassed = false;
+			msg += "";
+		}
+		if (f.elements[j].name == "YearOfBirth" && !CheckDate(f.MonthOfBirth.value + '/' + f.DayOfBirth.value + '/' + f.YearOfBirth.value))
+		{
+			bPassed = false;
+			msg += "";
+		}
+		if (f.elements[j].name == "YearOfBirth")
+		{
+			var birthdate = GetCookie('BOONTYCOPPACHECK');
+			if (birthdate > 0)
+			{
+				f.YearOfBirth.value = birthdate.substring(0,4);
+				f.MonthOfBirth.value = birthdate.substring(4,6);
+				f.DayOfBirth.value = birthdate.substring(6,8);
+			}
+
+			if ( !(birthdate > 0) && CheckDate(f.MonthOfBirth.value + '/' + f.DayOfBirth.value + '/' + f.YearOfBirth.value))
+			{
+				var pathname=location.pathname;
+				var myDomain=pathname.substring(0,pathname.lastIndexOf('/')) +'/';
+				var date_exp = new Date();
+				date_exp.setTime(date_exp.getTime()+(30*24*3600*1000));
+				SetCookie("BOONTYCOPPACHECK", f.YearOfBirth.value + '' + f.MonthOfBirth.value + '' + f.DayOfBirth.value, date_exp, myDomain);
+			}
+
+			if ( !IsOlderThan13 (f.YearOfBirth.value + '' + f.MonthOfBirth.value + '' + f.DayOfBirth.value) )
+			{
+				bPassed = false;
+				msg += "";
+			}
+
+		}
+	}
+
+	if (bPassed)
+	{
+		return true;
+	}
+	else
+	{
+		alert(msg);
+		return false;
+	}
+}
+
+
+function isEmail(lemail)
+{
+	var filter = /^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/
+	return (filter.test(lemail))
+
+}
+
+function isblank(s)
+{
+	if (s == null){return true;}
+	for(var i=0;i<s.length;i++)
+	{
+		var c = s.charAt(i);
+		if ((c != ' ') && (c !='\n') && (c != '\t')) return false;
+	}
+	return true;
+}
+
+
+function CheckDate( strDate )
+{
+	var separateur="/";
+	var bPassed = true;
+
+	if ( strDate.length < 8) {
+		bPassed = false;
+	}
+
+	var j = (strDate.substring(3,5));
+	var m = (strDate.substring(0,2));
+	var a = (strDate.substring(6));
+
+	if (((isNaN(j))||(j<1)||(j>31))) {
+		bPassed = false;
+	}
+	if (((isNaN(m))||(m<1)||(m>12))) {
+		bPassed = false;
+	}
+	if (((strDate.substring(2,3)!=separateur)||(strDate.substring(5,6)!=separateur))) {
+		bPassed = false;
+	}
+
+	var d2 = new Date(a,m-1,j);
+	j2 = d2.getDate();
+	m2 = d2.getMonth()+1;
+	a2 = d2.getFullYear();
+
+	if ( (j!=j2)||(m!=m2)||(a!=a2) ) {
+		bPassed = false;
+	}
+
+	if (bPassed)
+		return true;
+	else
+		return false;
+}
+
+function IsOlderThan13 ( strBirthDate )
+{
+	var ThirteenYearsAgo = '19970528';
+	if (ThirteenYearsAgo < strBirthDate)
+		return false;
+	else
+		return true;
+}
+
+function getCookieVal(offset) {
+	var endstr=document.cookie.indexOf (";", offset);
+	if (endstr==-1)
+      		endstr=document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+	var arg=name+"=";
+	var alen=arg.length;
+	var clen=document.cookie.length;
+	var i=0;
+	while (i<clen) {
+		var j=i+alen;
+		if (document.cookie.substring(i, j)==arg)
+                        return getCookieVal (j);
+                i=document.cookie.indexOf(" ",i)+1;
+                        if (i==0) break;}
+	return null;
+}
+
+
+function SetCookie (name, value) {
+	var argv=SetCookie.arguments;
+	var argc=SetCookie.arguments.length;
+	var expires=(argc > 2) ? argv[2] : null;
+	var path=(argc > 3) ? argv[3] : null;
+	var domain=(argc > 4) ? argv[4] : null;
+	var secure=(argc > 5) ? argv[5] : false;
+	document.cookie=name+"="+escape(value)+
+		((expires==null) ? "" : ("; expires="+expires.toGMTString()))+
+		((path==null) ? "" : ("; path="+path))+
+		((domain==null) ? "" : ("; domain="+domain))+
+		((secure==true) ? "; secure" : "");
+}
+
+function resetvaluemail(f)
+{
+	for(var j=0; j<f.elements.length; j++)
+	if ( (f.elements[j].name == "strEmail") && (f.elements[j].value == "Your email address"))
+		{
+			f.elements[j].value = ''
+		}
+		
+}
+function callCheckNewsletter(f)
+{
+	if(checkRequiredNewsletter(f)==true){
+		f.submit();
+	}
+}
+/* ]]> */
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var chaine = location.search.substring(1);
+var variables = chaine.split("&");
+
+var nbParams = variables.length;
+var tid = '';
+var cid = '';
+
+for (var i=0; i<nbParams; i++) {
+	var filter = /^tid=/;
+	var test = filter.test(variables[i]);
+	if (test) {
+		var tabParam = variables[i].split(/^tid=/);
+		// IE
+		if(tabParam[0] != '' && typeof(tabParam[1]) == 'undefined') tid = tabParam[0];
+		// Other browsers
+		else tid = tabParam[1];
+		tid = unescape(tid);
+	}
+	
+	var filter = /^cid=/;
+	var test = filter.test(variables[i]);
+	if (test) {
+		var tabParam = variables[i].split(/^cid=/);
+		// IE
+		if(tabParam[0] != '' && typeof(tabParam[1]) == 'undefined') cid = tabParam[0];
+		// Other browsers
+		else cid = tabParam[1];
+		cid = unescape(cid);
+	}	
+}
+
+if (cid != '' && typeof(cid) != 'undefined')
+{
+	<!-- TRACKER CODE -->
+	document.write('<iframe src="https://payment.boonty.com/setCampaignCode.php?cid='+cid+'&tid='+tid+'" frameborder="0" height="0" width="0"></iframe>');
+	document.write('<iframe src="https://payment.boonty.com/setCampaignCode.php?cid='+cid+'&tid='+tid+'" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE -->
+}
+/* ]]> */
+</script><!-- add case of hp tracking code promo -->
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var chaine = location.search.substring(1);
+var variables = chaine.split("&");
+
+var nbParams = variables.length;
+var trackercode = '';
+var promocode = '';
+var texthp = 'hp';
+
+
+for (var i=0; i<nbParams; i++) {
+	var filter = /^trackercode=/;
+	var test = filter.test(variables[i]);
+	if (test) {
+		var tabParam = variables[i].split(/^trackercode=/);		
+		// IE
+		if(tabParam[0] != '' && typeof(tabParam[1]) == 'undefined') trackercode = tabParam[0];
+		// Other browsers
+		else trackercode = tabParam[1];
+		trackercode = unescape(trackercode);
+	}
+	
+	var filter = /^promocode=/;
+	var test = filter.test(variables[i]);
+	if (test) {
+		var tabParam = variables[i].split(/^promocode=/);	
+		// IE
+		if(tabParam[0] != '' && typeof(tabParam[1]) == 'undefined') promocode = tabParam[0];
+		// Other browsers
+		else promocode = tabParam[1];
+		promocode = unescape(promocode);
+		texthp += promocode;
+		promocode = texthp;
+	}
+
+}
+
+if ((promocode != ''))
+{
+	<!-- TRACKER CODE PROMO -->
+	document.write('<iframe src="https://payment.boonty.com/tracker.php?code='+promocode+'" frameborder="0" height="0" width="0"></iframe>');
+	document.write('<iframe src="https://payment.boonty.com/tracker.php?code='+promocode+'" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE PROMO-->
+}
+
+if ((trackercode != ''))
+{
+	<!-- TRACKER CODE -->
+	document.write('<iframe src="https://payment.boonty.com/tracker.php?code='+trackercode+'" frameborder="0" height="0" width="0"></iframe>');
+	document.write('<iframe src="https://payment.boonty.com/tracker.php?code='+trackercode+'" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE -->
+}
+/* ]]> */
+</script><script type="text/javascript">
+/* <![CDATA[ */
+var chaine = location.search.substring(1);
+var variables = chaine.split("&");
+var nbParams = variables.length;
+var trackingCodeEmail = '';
+for (var i=0; i<nbParams; i++) {
+	var filter = /tracking=/;
+	var test = filter.test(variables[i]);
+	if (test) {
+		var tabParam = variables[i].split("tracking=");
+		trackingCodeEmail = unescape(tabParam[1]);
+	}	
+}
+if (trackingCodeEmail != '')
+{
+	<!-- TRACKER CODE FOR shell -->
+	document.write('<iframe src="http://shell.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	document.write('<iframe src="http://shell.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE -->
+	<!-- TRACKER CODE FOR SSL -->
+	 document.write('<iframe src="https://payment.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	 document.write('<iframe src="https://payment.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE -->
+	<!-- TRACKER CODE FOR SITE -->
+	 document.write('<iframe src="http://playtoad.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	 document.write('<iframe src="http://playtoad.boonty.com/setTrackingCodeEmail.php?trackingCodeEmail='+trackingCodeEmail+'&intIdSite=231" frameborder="0" height="0" width="0"></iframe>');
+	<!-- TRACKER CODE -->	
+}
+/* ]]> */
+</script><script language="javascript" type="text/javascript">
+/* <![CDATA[ */
+function getCookieVal(offset) {
+	var endstr=document.cookie.indexOf (";", offset);
+	if (endstr==-1)
+		endstr=document.cookie.length;
+	return unescape(document.cookie.substring(offset, endstr));
+}
+
+function GetCookie (name) {
+	var arg=name+"=";
+	var alen=arg.length;
+	var clen=document.cookie.length;
+	var i=0;
+	while (i<clen) {
+		var j=i+alen;
+		if (document.cookie.substring(i, j)==arg)
+			return getCookieVal (j);
+		i=document.cookie.indexOf(" ",i)+1;
+		if (i==0) break;
+	}
+	return null;
+}
+
+// number of download without registration
+var intNbDownloadSite = 0;
+
+// detect newsletter registration cookie
+var strCookie = GetCookie("BoontyDownload");
+
+// display download window
+var blnDisplayDownloadWindow = false;
+
+if (strCookie != '' && strCookie != null) {
+	var tabCookie = '';
+	tabCookie = strCookie.split("+");
+	var nbParamsCookie = tabCookie.length;
+	var intNbDownload = '';
+	var blnIsRegistered = '';
+	if (nbParamsCookie == 5) {
+		intNbDownload = tabCookie[3] + 1;
+		blnIsRegistered = tabCookie[4];
+		if (blnIsRegistered == 'true') {
+			//download
+			blnDisplayDownloadWindow = true;
+		}
+		if (intNbDownload <= intNbDownloadSite) {
+			//download
+			blnDisplayDownloadWindow = true;
+		}
+	}
+} else {
+	if (intNbDownloadSite != 0) {
+		//download
+		blnDisplayDownloadWindow = true;
+	}	
+}
+/* ]]> */
+</script><script type="text/javascript">
+/* <![CDATA[ */
+ function new_xhr() {
+ 	var xhr_object = null;
+	if(window.XMLHttpRequest) {
+		xhr_object = new XMLHttpRequest();
+	} else if(window.ActiveXObject) {
+		try {
+			xhr_object = new ActiveXObject("Msxml2.XMLHTTP");
+		} catch(e) {
+			xhr_object = new ActiveXObject("Microsoft.XMLHTTP"); 
+		}
+	} else {
+		alert("Votre navigateur ne supporte pas les objets XMLHTTPRequest...");  
+		xhr_object = false; 
+	}
+	return xhr_object;
+ }
+
+ function envoiformulaire() {  
+ var xhr3 = new_xhr();//new object XMLHttpRequest  
+ xhr3.open("POST", "http://playtoad.boonty.com/proxylike.php", true); //call php file to send the message
+
+
+ xhr3.onreadystatechange = function (){  
+ 							if ( xhr3.readyState == 4 )
+							{//Action when loading is done 
+ 							 if(xhr3.status  != 200)
+							 	{//Message if error happens  
+ 								document.getElementById("divContactForm").innerHTML ="Error code " + xhr3.status;  
+ 							 	} 
+							 else 
+							 	{//printing in div "form"  
+ 							 		document.getElementById("divContactForm").innerHTML = xhr3.responseText; 
+									document.getElementById("divContactForm").innerHTML = "";
+ 							 	}  
+ 							}
+							else
+							{//Message during load  
+ 							document.getElementById("divContactForm").innerHTML = "Mail processing...";  
+ 							}  
+ 						   }  
+ xhr3.setRequestHeader('Content-Type','application/x-www-form-urlencoded; charset=UTF-8');  
+ xhr3.send("strContactName="+encodeURIComponent(document.getElementById('strContactName').value)+"&strContactMail="+document.getElementById('strContactMail').value+"&strContactRef="+encodeURIComponent(document.getElementById('strContactRef').value)+"&strContactSubject="+encodeURIComponent(document.getElementById('strContactSubject').value)+"&strContactContent="+encodeURIComponent(document.getElementById('strContactContent').value)+"&intIdSite="+document.getElementById('intIdSite').value+"&intContactControl="+document.getElementById('intContactControl').value); 
+ }
+ 
+
+ 
+ function controleFormulaire()
+{
+	var check = true;
+	var varFormMailContact = document.FormMailContact;
+	if (varFormMailContact.strContactName.value.length==0) 
+	{
+	document.getElementById("name_alrt").innerHTML = "<font style='font-weight:bold; color:#F00;'></font>";
+	check = false;
+	}	
+	else
+	{
+	document.getElementById("name_alrt").innerHTML = "";
+	}
+	if (isEmail(varFormMailContact.strContactMail.value)==false) 
+	{
+	document.getElementById("mail_alrt").innerHTML = "<font style='font-weight:bold; color:#F00;'></font>";
+	check = false;
+	}	
+	else
+	{
+	document.getElementById("mail_alrt").innerHTML = "";
+	}
+	if (varFormMailContact.strContactSubject.value=='null') 
+	{	
+	document.getElementById("subj_alrt").innerHTML = "<font style='font-weight:bold; color:#F00;'></font>";
+	check = false;
+	}	
+	else
+	{
+	document.getElementById("subj_alrt").innerHTML = "";
+	}
+	if (varFormMailContact.intContactControl.value!='5') 
+	{
+	document.getElementById("ctrl_alrt").innerHTML = "<font style='font-weight:bold; color:#F00;'></font>";
+	check = false;
+	}	
+	else
+	{
+	document.getElementById("ctrl_alrt").innerHTML = "";
+	}
+	if (varFormMailContact.strContactContent.value.length==0) 
+	{
+	document.getElementById("cont_alrt").innerHTML = "<font style='font-weight:bold; color:#F00;'></font>";
+	check = false;
+	}	
+	else
+	{
+	document.getElementById("cont_alrt").innerHTML = "";
+	}
+	
+	if (check == true)
+		envoiformulaire();
+}
+
+function handleContactSubject(sel) {
+	if (sel.options[sel.selectedIndex].value=='http://playtoad.boonty.com/contact_form.php')
+	{
+		document.location.href = sel.options[sel.selectedIndex].value;
+	}
+}
+
+/* ]]> */
+</script><script type="text/javascript">
+/* <![CDATA[ */
+	function sortOptionSelection(formulaire)
+	{
+		var sortValue = formulaire.chooseSort.options[formulaire.chooseSort.selectedIndex].value;
+		if (sortValue=='BS')
+			formulaire.intCategory.value=100;
+		
+		else if (sortValue=='NEW')
+			formulaire.intCategory.value=200;
+		
+		
+		// send the form
+		formulaire.submit();
+		return true;
+	}
+	
+	function pageNavJS(formulaire, page)
+	{
+		formulaire.intpage.value = page;
+		
+		formulaire.submit();
+		return true;
+	}
+/* ]]> */
+</script><script type="text/javascript">
+/* <![CDATA[ */
+	var curIndex = 0;
+	var delay;
+	var timer;
+	var blnStop = false;
+	
+	function initAutopromo(d){
+		delay = d;
+		jQuery('.buttonPlay').each(function(){jQuery(this).hide();});
+		var apTab = jQuery('#autopromo .autopromo_block');		
+		apTab.each(function(){
+			jQuery(this).hide();
+		});
+		jQuery(apTab[curIndex]).show();
+		
+					timer = setInterval('switchAutopromo()', delay);			
+			}
+	
+	function switchAutopromo(){
+		var curAP = (jQuery('#autopromo .autopromo_block')[curIndex]);	
+		var nextIndex = (curIndex == jQuery('#autopromo .autopromo_block').size()-1) ? 0 : curIndex+1;
+		var nextAP = (jQuery('#autopromo .autopromo_block')[nextIndex]);	
+		jQuery(curAP).hide();	
+		jQuery(nextAP).show();
+		curIndex = nextIndex;
+	}
+	
+	function chgAutopromo(opt){
+		clearInterval(timer);
+		switch (opt) {
+			case -1:
+				curIndex = (curIndex == 0) ? jQuery('#autopromo .autopromo_block').size()-1 : curIndex-1;
+			break;
+			case 1:
+				curIndex = (curIndex == jQuery('#autopromo .autopromo_block').size()-1) ? 0 : curIndex+1;
+			break;	
+			default:
+			break;
+		}		
+		initAutopromo(delay);
+	}
+	
+	function onoffAutopromo(){
+		jQuery('.buttonPlay').each(function(){
+			jQuery(this).toggle();
+		});
+		jQuery('.buttonPause').each(function(){
+			jQuery(this).toggle();
+		});
+	}
+	
+	function playAutopromo(){
+		onoffAutopromo();
+		timer = setInterval('switchAutopromo()', delay);
+	}
+	
+	function pauseAutopromo(){
+		onoffAutopromo();
+		clearInterval(timer);
+	}
+	
+	function selectPlayPauseAutopromo(selectUniverse){
+		// test on blnStop
+		if (blnStop) {
+			blnStop = false;
+			curIndex = selectUniverse-1;
+			initAutopromo(delay);
+		} else {
+			blnStop = true;
+			pauseAutopromo();
+			var curAP = (jQuery('#autopromo .autopromo_block')[curIndex]);
+			var selectIndex = selectUniverse-1;
+			var selectAP = (jQuery('#autopromo .autopromo_block')[selectIndex]);	
+			jQuery(curAP).hide();	
+			jQuery(selectAP).show();
+		}
+	}
+/* ]]> */	
+</script><script type="text/javascript" language="javascript">
+<!-- +Menu display -->
+window.onload=montre;
+function montre(id) {
+	var d = document.getElementById(id);
+	for (var i = 1; i<=10; i++) {
+		if (document.getElementById('smenu'+i)) {document.getElementById('smenu'+i).style.display='none';}
+	}
+	if (d) {d.style.display='block';}
+}
+<!-- -Menu display -->
+</script>
+<!-- Fix .png transparence for Internet Explorer 6 -->
+<!--[if lt IE 7.]> <script defer type="text/javascript" src="/pngfix.js"></script> <![endif]--><link type="text/css" rel="stylesheet" href="http://playtoad.boonty.com/css/BGP/all.css">
+<!--[if IE]>
+		<link rel="stylesheet" type="text/css" href="http://playtoad.boonty.com/css/BGP/ie.css"/>
+<![endif]-->
+
+<script language="javascript">
+	if ((navigator.userAgent.toLowerCase()).indexOf('firefox/3') != -1) {
+		document.write('<link type=\"text/css\" rel=\"stylesheet\" href=\"http://playtoad.boonty.com/css/BGP/stylesFF3.css\" />');
+	}
+</script>
+<script language="javascript">
+	if ((navigator.userAgent.toLowerCase()).indexOf('chrome') != -1) {
+		document.write('<link type=\"text/css\" rel=\"stylesheet\" href=\"http://playtoad.boonty.com/css/BGP/chrome.css\" />');
+	}
+</script><link type="text/css" rel="stylesheet" href="http://playtoad.boonty.com/css/BGP/chrome.css">
+
+<link type="text/css" rel="stylesheet" href="http://playtoad.boonty.com/css/BGP/green-nav.css">
+<!--[if IE]><link type="text/css" rel="stylesheet" href="http://playtoad.boonty.com/css/BGP/green-nav-ie.css"/><![endif]-->
+<script type="text/javascript" src="http://front.boonty.com/_UniversalJs_/nav.js"></script>
+
+
+
+
+<div id="main">
+<!-- Entête  -->
+	<div class="logo_ad" style="background-image: url(http://m.boonty.com/sitesimages/genericsite/BGP/logo_231.gif); "><a href="http://playtoad.boonty.com" title="Download games" class="hidden-text">Download games with PlayToad</a></div>	
+<!-- Menu Header -->
+<div id="header">
+	
+<div class="nav-holder">
+	<div class="boontyPubHead" style="border:1px solid #000000;">
+<!-- test :  URL http://front.boonty.com/adservice_interface/get_ads.php?idSite=231&idGame=&ad_location=HomeBannerTopADS HomeBannerTop zone 803-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boonty.com/www/delivery/ajs.php':'http://ads.boonty.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=803");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.boonty.com/www/delivery/ajs.php?zoneid=803&amp;cb=64507376203&amp;loc=https%3A//web.archive.org/web/20100528124900id_/http%253A//playtoad.boonty.com/howitworks.php%253FintMode%253D5"></script><noscript><a href='http://ads.boonty.com/www/delivery/ck.php?n=a5a26f6f&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boonty.com/www/delivery/avw.php?zoneid=803&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5a26f6f' border='0' alt='' /></a></noscript>
+
+	</div>
+		<ul id="navigation">
+        	<!-- ACCUEIL -->
+			<li>
+				<a href="http://playtoad.boonty.com"><span style="text-transform:uppercase; ">Home</span></a>
+			</li>
+            <!-- CASUAL -->
+						<li class="drop">
+				<a href="/index.php?intIdUniverse=1"><span style="text-transform:uppercase; ">Casual Games </span></a>
+				<div class="drop-box">
+					<div class="divCasual_US">
+						<ul>
+							<li><a href="/index.php?intIdUniverse=1">Home</a></li>
+                            
+                            							<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=54&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Action/Arcade</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=55&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Cards/Board</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=57&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Hidden Objects</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=56&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Kids</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=71&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Match 3</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=58&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Puzzle</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=69&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Time Management</a></li>
+							                            
+							<li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">All games</a></li>
+							
+                            <!--<li style="list-style:none; list-style-type:none; list-style-image:none; margin-top:-8px; margin-bottom:-3px;"><img src="http://m.boonty.com/sitesimages/genericsite/BGP/trait_menu.png" alt="" style="margin-left:-25px;" /></li>-->
+                            <li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=1">Good Deals</a></li>                            
+                            <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=200&amp;intCategory=200&amp;intMaxItems=0&amp;chooseSort=">New games</a></li>
+							<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort=">TOP 20</a></li>	
+						</ul>
+					</div>
+				</div>
+			</li>
+			            <!-- GAMER -->
+						<li class="drop">
+				<a href="/index.php?intIdUniverse=2"><span style="text-transform:uppercase; ">Hardcore Games</span></a>
+				<div class="drop-box">
+					<div class="divGamers_US">
+						<ul>
+                        	<li><a href="/index.php?intIdUniverse=2" class="categoriesLink">Home</a></li>
+                            
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=59&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Action</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=60&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Adventure</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=62&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Sport/Simulation</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=63&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Strategy</a></li>
+														<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=61&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Tycoon</a></li>
+							                            
+							<li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">All games</a></li>					
+                        
+                            <!--<li style="list-style:none; list-style-type:none; list-style-image:none; margin-top:-8px; margin-bottom:-3px;"><img src="http://m.boonty.com/sitesimages/genericsite/BGP/trait_menu.png" alt="" style="margin-left:-25px;" /></li>-->
+							<li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=2">Good Deals</a></li>
+                            <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=200&amp;intCategory=200&amp;intMaxItems=0&amp;chooseSort="> New games</a></li>
+							<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort="> TOP 20</a></li>	
+
+						</ul>
+					</div>
+				</div>
+			</li>
+			            <!-- VIE PRATIQUE -->
+									<!-- WEBGAMES -->
+            <li>
+				<a href="/webgames.php"><span style="text-transform:uppercase; ">Online Games</span></a>
+			</li>
+					</ul>
+	</div>    <!--Barre de recherche -->
+	<form method="POST" action="/do_search.php" name="searchForm">
+		<input type="hidden" name="strIsoCode" value="">
+		<input type="hidden" name="strPrix" value="">    
+        <fieldset class="search-form">
+        <input type="text" value="Search a game" id="searchName" name="strSearch" onclick="this.value=''">
+        <select name="sortby" id="sortby">
+                <option>Sort by</option>
+				                <option value="2">Games for less than $10</option>
+        </select>
+		<span class="btn-holder"><a class="btn" href="#" onclick="javascript:if (document.searchForm.searchName.value=='Search a game')document.searchForm.strSearch.value='';if (document.searchForm.sortby.value=='Sort by'){document.searchForm.strIsoCode.value='';document.searchForm.strPrix.value='';} if (document.searchForm.sortby.value=='us')document.searchForm.strIsoCode.value='us'; if (document.searchForm.sortby.value==2)document.searchForm.strPrix.value=2;document.searchForm.submit();">OK</a></span>
+        </fieldset>
+    </form>
+</div>
+<!-- Fin Menu Header  -->
+
+<div id="container"> 
+<!-- Fil d'Ariane -->			
+<ul class="breadcrumbs">
+<li><a href="/index.php" class="txtPath">Home</a></li>
+<li>Privacy promise</li></ul><div class="columns-holder"><div class="column1">
+<div class="content-box">
+	<div class="box-title orange"><h2>Privacy promise</h2></div>
+<div class="box-inner"><script language="javascript" type="text/javascript">
+function callCheck(f)
+{
+	if(checkRequiredNewsletter(f)==true)
+		f.submit();
+}
+</script>
+	<!-- howitworks content -->
+	<p align="center"><strong>Privacy Policy </strong></p>  <p>Your privacy is important, so Digital Distribution SAS ("Boonty") and&nbsp;PlayToad has created the following Privacy Policy to let you know what information we collect when you visit our major title section of the Site and use our Services, why we collect it and how it is used. </p>  <p>This Privacy Policy explains the data collection and use practices of the Major Titles section Web Site (the "Site," located at <a href="http://%5B%site.url%%5D/">http://playtoad.boonty.com/</a>) and the data collected and used in connection with advertising and content on the Site and any related services (collectively, the "Services"); it does not apply to other online or offline Boonty/PlayToad sites like the Boonty website, PlayToad Website, products or services. International users of the Site agree by using the Site to be bound by this privacy policy which is governed by U.S. federal law. In the event other online or offline sites, products or services offer Boonty products or services, you shall be bound by this privacy policy and any other applicable privacy policy and in the event of a conflict between such policies, you hereby agree that this policy shall govern. </p>  <p>The terms "you," "your," and "yours" refer to the customer/purchaser utilizing our Site. The terms "Boonty", "we," "us," and "our" refer to Boonty and its subsidiaries and affiliates. This Privacy Policy is governed by our Terms of Use located at <a href="http://%5B%site.url%%5D/howitworks.php?intMode=9">http://playtoad.boonty.com/</a>. By using this web site, you consent to the data practices prescribed in this statement. We may periodically make changes to this Privacy Policy that we will include on this page. It is your responsibility to review this Privacy Policy frequently and remain informed about any changes to it, so we encourage you to visit this page often. </p>  <p><strong>Your Consent To This Privacy Policy. </strong></p>  <p>By using this Site, you agree to this Privacy Policy. This is our entire and exclusive Privacy Policy and it supersedes any earlier version. Our Terms of Use take precedence over any conflicting Privacy Policy provision. We may change this Privacy Policy by posting a new version of this Privacy Policy on this Site, which it is your responsibility to review. </p>  <p><strong>What Information Is Collected? </strong></p>  <p>"Personally Identifiable Information" means any information that may be used to identify an individual, including, but not limited to, a first and last name, home or other physical address, an email address, phone number or other contact information, whether at work or at home. Boonty may collect the following Personally Identifiable Information from you when you register to use our Site and Services: your name, e-mail address, mailing address, telephone number, age and gender. We also keep track of the type and number of videogames you download to help us track sales, downloads, etc. and may use such information, as well as information regarding your age, gender, occupation, education level, geographic location, computer equipment data and on-line and video game interests, activities and practices, to provide general audience preference information to game publishers as part of our effort to provide you with the best possible products and service. We collect information regarding your hardware configuration, including but not limited to OS version, type of coding for video, processor, memory size, explorer version, video card type and sound card type, so that we can confirm that the videogames are being installed in accordance with our End User License Agreement. We may also collect information related to how you will pay for the Services, such as your payment type and billing address. If paid by credit card, we shall ask you for the card type, card number and expiration date. We also may offer payment by electronic funds transfer, in which case the information collected may include, but is not limited to, account type, account number, routing number, and level of service. This payment information may be shared with third parties who provide payment services. As part of the contests we may occasionally offer, you may be asked to provide your name, birth date, address, home and cellular telephone number and genre of games you like to play. As part of an optional questionnaire we may send to you in order to help us better understand the needs and preferences of our customers, we may ask you for your age, gender, educational level, occupation, computer equipment, on-line interests, on-line activities, on-line purchasing practices, video game use, video game preferences and video game purchasing practices, ï¿½ We may share your e-mail address with third party e-mail carriers who assist us with sending e-mails to our customers. This Personally Identifiable Information is used in order to register you as a user of the Site and Services, to set up your payment for the Services and to give us a sense of who our customers are and what are customers are looking for from our Site, Services and products. Also, in the event we receive a copyright and/or trademark infringement notice or other notice of any legal claim relating to content provided by you, we may share your contact information with the parties involved in the applicable dispute. Boonty also automatically receives and records information on our server logs from your browser, including your IP address, cookie information and the page you request. You can choose not to provide us with certain information, but then you might not be able to take advantage of many of our features. </p>  <p><strong>How Is Such Information Used? </strong></p>  <p>We gather the information discussed above for purposes of providing and improving our service. For example, we use it to personalize our service, to provide service to users who encounter problems with the platform (e.g., the user has trouble unlocking a game), to enforce our Terms of Use and to communicate with users about updates or changes in the policies and changes to our service. We also may share payment information with third parties who provide payment services and share aggregate data regarding the type and number of videogames you download, your age, gender, occupation, education level, geographic location, computer equipment data and on-line and video game interests, activities and practices to game publishers. In addition, we share e-mail addresses with third party e-mail carriers who assist us in sending out our e-mails to many of our customers at the same time. Subsidiaries and controlled affiliates are not viewed as third parties for the purpose of data transfers, and hence personal information may be shared within those subsidiaries and affiliates without obtaining additional consent. In certain areas, you may choose to allow other Boonty users to see the registration information you provide. In such cases, we will notify you during the registration process and allow you to determine the information you wish to be displayed. </p>  <p><strong>Is The Information Shared or Disclosed? </strong></p>  <p>Boonty does not rent, sell or share personal information it collects about you to or with third parties for marketing purposes, unless agreed by the end user. From time to time, Boonty may disclose personal information to third parties it has hired to assist Boonty in serving you; however, these third parties will never use this information for their own marketing purposes. Information and data collected from you is only used to provide and improve our service, to comply with any requirements of law, to determine commissions for third parties and to provide aggregate data (i.e., game preferences, age, gender, geographic location, education, occupation, computer equipment and on-line and video game interests, activities and purchases, but not name or contact information) to game producers for their market research purposes. Boonty may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to: <br>(1) conform to the edicts of the law or comply with legal process served on Boonty or this web site; <br>(2) protect and defend the rights or property of Boonty; or <br>(3) act in urgent circumstances to protect the personal safety of users of Boonty, its web sites or the public. <br>If Boonty should ever file for bankruptcy, merge with another company or have all or substantially all of its assets acquired by another company, we may sell the information you provide to us on this Site to a successor in interest or other third party or share your Personally Identifiable Information with any company with whom we merge. </p>  <p><strong>Access and Choice. </strong></p>  <p>You may update, correct, or amend your personal information by sending a registered letter to the web-publishing company or by sending an e-mail to <a href="mailto:rq_info@boonty.com">rq_info @ boonty.com</a>. Please note that the latter e-mail address is not intended for and will not respond to customer inquiries; rather, customer inquiries should be directed to <a href="http://%5b%25site.url%25%5d/contact.php">http://playtoad.boonty.com/contact.php</a>. Please be aware that this Privacy Policy and the choices you make on this web site will not necessarily apply to personal information you may have provided to Boonty in the context of other, separately operated, Boonty products or services. When contacting Boonty to change your personal information, please make sure to specify whether you would like to change your personal information for all Boonty products and services, or only the information that you supplied when registering to use the Site. </p>  <p><strong>The Security of Your Information. </strong></p>  <p>Boonty protects the security of your payment and financial information during transmission by using Secure Sockets Layer (SSL) software, which encrypts the information you input. In addition, access to customer data is restricted to Boonty employees with permission to access customer data for business and customer support purposes. Your e-mail address only may be shared with third party carriers of e-mails who assist us in sending e-mails from Boonty to our customers. Boonty protects against credit card fraud by not maintaining credit card numbers on its system. No security measures are completely fail-safe or impervious to circumvention. We are not responsible for events beyond our control, including without limitation, failure of security measures, the malicious acts or willful misconduct of hackers or any other person. </p>  <p><strong>International Transfers. </strong></p>  <p>Boonty abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. </p>  <p><strong>Children.</strong> </p>  <p>Children can use the Site and view content without any Personally Identifiable Information being collected. However, in some areas of the Site it is necessary to collect Personally Identifiable Information from children so that they can participate in an activity or download a videogame. Boonty does not collect more Personally Identifiable Information from children under the age of 13 than is necessary for them to participate in Boonty's online activities. The Personally Identifiable Information we may collect from a child is their name, e-mail address, mailing address, telephone number, age and gender. We collect this information so that we can contact their parent to receive permission to collect such information from the child, to contact the child in the future and to verify their age and for the purposes set forth in the Section entitled "What Information Is Collected?". We will always honor a parent's request for: <br>(1) a description of the specific types of personal information collected from their child by Boonty; and <br>(2) removal of the information collected about their child from our database.<br>If you would like to deactivate your child's account, send an email to <a href="mailto:parents@boonty.com">parents @ boonty.com</a> explaining that you want to deactivate your child's account. Parents may obtain any Personally Identifiable Information collected from their child by sending an email to <a href="mailto:parents@boonty.com">parents @ boonty.com</a> requesting the Personally Identifiable Information. Boonty will obtain verifiable parental consent for the collection, use or disclosure of Personally Identifiable Information from a child.</p>  <p><strong>Cookies. </strong></p>  <p>Cookies are small text files stored by your browser in your computer when you visit our Site. We use cookies to improve our Site and make it easier to use. Cookies permit us to recognize users and avoid repetitive requests for the same information. We mostly use "session cookies" that are automatically deleted several month after the visit. Cookies from our Site cannot be read by other Sites as they tie automatically to Boonty's domain name. Most browsers will accept cookies until you change your browser settings to refuse them. </p>  <p><strong>Contacting Boonty. </strong></p>  <p>If you believe that Boonty has not adhered to this Privacy Policy, please contact us by email at <a href="mailto:privacy@boonty.com">privacy @ boonty.com</a> or by postal mail at: </p>  <p>Boonty&nbsp; <br>1 boulevard des Bouvets 92741 Nanterre Cedex France<br></p><p>and we will respond to you promptly. </p></div>
+           
+           		                
+                					</div>                 				</div>                                				<div class="column2">
+    
+			<div class="boontyPubCat">
+<!-- test :  URL http://front.boonty.com/adservice_interface/get_ads.php?idSite=231&idGame=&ad_location=CategoryBoxADS CategoryBox zone 1803-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.boonty.com/www/delivery/ajs.php':'http://ads.boonty.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1803");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.boonty.com/www/delivery/ajs.php?zoneid=1803&amp;cb=8346486512&amp;loc=https%3A//web.archive.org/web/20100528124900id_/http%253A//playtoad.boonty.com/howitworks.php%253FintMode%253D5"></script><noscript><a href='http://ads.boonty.com/www/delivery/ck.php?n=a2e73794&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.boonty.com/www/delivery/avw.php?zoneid=1803&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a2e73794' border='0' alt='' /></a></noscript>
+
+	</div>
+			<div class="content-box">
+		<div id="game-data" class="fixfloat">
+			
+			
+						<div id="game-data-tabs">
+				<!-- Good things will come to those who wait -->
+			<h3 id="menu-full1" class="selected">Top casual games</h3><h3 id="menu-full2">Top hardcore games</h3></div><div class="game-data" id="game-menu2" style="display: none;">
+				
+				<div class="box-inner">
+					<ul class="image-list2">								
+										 <li>
+								<span class="circle">1</span>
+																<a href="/products/fiche.php?intIdGame=628120" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/6890_us_sm.jpg" width="90" height="65" alt="Download Schizm 2" title="Download Schizm 2"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=628120">Schizm 2</a>
+																		<span>An Ancient War... A Terrible Secret...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">2</span>
+																<a href="/products/fiche.php?intIdGame=624339" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/6889_us_sm.jpg" width="90" height="65" alt="Download Hardy Boys: The Perfect Crime" title="Download Hardy Boys: The Perfect Crime"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=624339">Hardy Boys: The Perfect Crime</a>
+																		<span>Help Frank and Joe Hardy to assist ...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">3</span>
+																<a href="/products/fiche.php?intIdGame=621492" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/6888_us_sm.jpg" width="90" height="65" alt="Download Aura 1" title="Download Aura 1"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=621492">Aura 1</a>
+																		<span>Legend speaks of the Clan of the ...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">4</span>
+																<a href="/products/fiche.php?intIdGame=568606" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/6173_us_sm.jpg" width="90" height="65" alt="Download Casebook : Episode 1" title="Download Casebook : Episode 1"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=568606">Casebook : Episode 1</a>
+																		<span>Can you find the Birchermann children? </span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">5</span>
+																<a href="/products/fiche.php?intIdGame=531264" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/5509_us_sm.jpg" width="90" height="65" alt="Download Al Emmo : The Lost Dutchman's Mine" title="Download Al Emmo : The Lost Dutchman's Mine"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=531264">Al Emmo : The Lost Dutchman's Mine</a>
+																		<span>A witty western with a healthy dose ...</span>
+								</div>
+						 </li>
+							
+						</ul>
+				<span class="btn-holder"><a href="/categories/games.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort=" class="btn btnTop20">See TOP 20</a></span>
+				</div>
+			</div><div class="game-data" id="game-menu1">
+				
+				<div class="box-inner">
+					<ul class="image-list2">								
+										 <li>
+								<span class="circle">1</span>
+																<a href="/products/fiche.php?intIdGame=651118" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/6854_us_sm.jpg" width="90" height="65" alt="Download Dream Day Honeymoon" title="Download Dream Day Honeymoon"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=651118">Dream Day Honeymoon</a>
+																		<span>Help Jenny &amp; Robert experience an ...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">2</span>
+																<a href="/products/fiche.php?intIdGame=651314" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/7055_us_sm.jpg" width="90" height="65" alt="Download Karomatix" title="Download Karomatix"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=651314">Karomatix</a>
+																		<span>Restore a magic world in a colorful ...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">3</span>
+																<a href="/products/fiche.php?intIdGame=651510" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/7053_us_sm.jpg" width="90" height="65" alt="Download Royal Envoy" title="Download Royal Envoy"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=651510">Royal Envoy</a>
+																		<span>Take the King's challenge!</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">4</span>
+																<a href="/products/fiche.php?intIdGame=651705" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/7056_us_sm.jpg" width="90" height="65" alt="Download The Magician's Handbook II: BlackLore" title="Download The Magician's Handbook II: BlackLore"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=651705">The Magician's Handbook II: BlackLore</a>
+																		<span>Stop the magician pirate BlackLore ...</span>
+								</div>
+						 </li>
+							
+												 <li>
+								<span class="circle">5</span>
+																<a href="/products/fiche.php?intIdGame=651954" class="image-holder"><img src="http://m.boonty.com/gamesimages/sm/7081_us_sm.jpg" width="90" height="65" alt="Download Farm Frenzy 3: Russian Roulette" title="Download Farm Frenzy 3: Russian Roulette"></a>
+								<div>
+									<a href="/products/fiche.php?intIdGame=651954">Farm Frenzy 3: Russian Roulette</a>
+																		<span>Feed hungry astronauts!</span>
+								</div>
+						 </li>
+							
+						</ul>
+				<span class="btn-holder"><a href="/categories/games.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort=" class="btn btnTop20">See TOP 20</a></span>
+				</div>
+			</div>					
+											
+					</div>
+	</div>
+<script type="text/javascript">
+/* <![CDATA[ */
+var theBlocks=new Array();
+
+for (var i=0; i < 2; i++){
+	theBlocks[i] = "game-menu"+(i+1);
+}
+
+for (var i = 0; i < theBlocks.length; i++) {
+	//alert(i);
+	if (document.getElementById(theBlocks[i])==null) {
+		theBlocks.splice(i, 1);
+		i -= 1;
+	} else 
+		theBlocks[i] = document.getElementById(theBlocks[i]);
+}
+
+var theMainBlock=document.getElementById("game-data");
+var	theTabBar = document.getElementById("game-data-tabs");
+
+var maxSize=10;
+
+var theTitles=new Array;
+for (var i = 0; i < theBlocks.length; i++) {
+	theTitles[i]=theBlocks[i].getElementsByTagName('h3')[0];	//	Get the title of the block
+
+	theTitles[i].onclick=selTab;
+
+	theTabBar.appendChild(theTitles[i]);	//	Move titles to theBar element
+
+/*	if(maxSize<theBlocks[i].offsetHeight) { 
+		maxSize=theBlocks[i].offsetHeight;	//	Find the highest block
+	} */
+	
+	if(i>0) {
+		theBlocks[i].style.display="none";
+		theMainBlock.insertBefore(theBlocks[i],theBlocks[i-1])
+	} else {
+			theMainBlock.insertBefore(theTabBar,theBlocks[i])
+			theTitles[i].className="selected";
+		}
+}
+/* for (var i = 0; i < theBlocks.length; i++) {	//	Set all block to the highest block
+	theBlocks[i].style.height = maxSize+"px";
+	} */
+	
+// Rearange stuff a bit 
+function selTab() {
+	for (var i = 0; i < theTitles.length; i++) {
+		if(theTitles[i]==this) {
+			theTitles[i].className="selected";
+			theBlocks[i].style.display="block";
+		} else {
+				theTitles[i].className="";
+				theBlocks[i].style.display="none";
+			}
+	}
+}
+/* ]]> */
+</script>	
+    		
+	            <div class="content-box">
+            	<div class="box-title promo"><h2>This week's special offer</h2></div>
+            	<div><table cellpadding="0" cellspacing="0" border="0">
+					<tbody><tr><td><div class="promoTable"><a href="http://playtoad.boonty.com/fiche.php?intIdGame=415233&amp;cid=APtext_Mahjongquest2_20_2010&amp;tid=autopromo" class="promoLink"><img src="http://m.boonty.com/gamesimages/3525_us_s.jpg" border="0" class="promoImage" alt="Mahjong Quest 2"></a><dl class="promoStyleText"><dt><span class="promoGameName"><a href="http://playtoad.boonty.com/fiche.php?intIdGame=415233&amp;cid=APtext_Mahjongquest2_20_2010&amp;tid=autopromo" class="promoLink">Mahjong Quest 2</a></span><span class="promoFlagGame"></span><span class="promoReduc">-40%</span></dt><dt class="promoPrice">$9.95</dt><dt class="promoText">Offer valid until 2010/05/31</dt></dl></div></td></tr>
+				</tbody></table></div>
+            </div>
+		    
+	<div class="content-box">
+     <div class="box-title blue">
+        <h2>Subscription to the newsletter</h2>
+    </div>
+   <div class="box-inner-newsletter">
+		<form id="newsletterForm" name="newsletter" action="/do_newsletter.php" method="post" onsubmit="javascript:return checkRequiredNewsletter(this);">
+			<input type="hidden" name="validEmail" value="1">
+		    <input type="hidden" name="intStatus" value="2">
+			<span class="txtnewsletter">
+				Receive the latest news before anyone else<br>		
+				and benefit from exclusive discounts<br>		
+				by registering for <span class="newsletterGratis">our free</span> newsletter:			</span><br>		
+			<span class="txtnewsletter"><br>
+				<img src="http://m.boonty.com/sitesimages/genericsite/BGP/spacer.gif" width="20" height="5" border="0">				<input type="text" class="newsletter" name="strEmail" size="25" maxlength="200" value="Your email address" onclick="if (this.value=='Your email address') {this.value='';}">
+				<img src="http://m.boonty.com/sitesimages/genericsite/BGP/spacer.gif" width="1" height="5" border="0"> 
+                <span class="btn-holder">
+                    <a href="javascript:callCheckNewsletter(document.getElementById('newsletterForm'));" class="btn">Subscribe</a>
+                </span>
+            </span>
+		</form>
+	</div>
+	</div>
+
+	<div class="billing">
+		<img src="http://m.boonty.com/sitesimages/generic/billing/7.gif" alt="MasterCard">&nbsp;<img src="http://m.boonty.com/sitesimages/generic/billing/5.gif" alt="VISA">&nbsp;<img src="http://m.boonty.com/sitesimages/generic/billing/19.gif" alt="AMEX">&nbsp;<img src="http://m.boonty.com/sitesimages/generic/billing/30.gif" alt="PayPal">&nbsp;		<span class="secure"><img src="http://m.boonty.com/sitesimages/genericsite/BGP/img_billing.gif" alt="" border="0"><img src="http://m.boonty.com/sitesimages/genericsite/BGP/spacer.gif" width="4" height="5" border="0"><a href="/howitworks.php?intMode=8">100% secure website</a></span>
+	</div>
+</div>                                
+             </div>  
+        		<div id="footer">
+			<ul>
+				<li><a href="/contact.php">Help ?</a></li>
+				<li><a href="/howitworks.php?intMode=7">Contact</a></li>
+				<li><a href="/howitworks.php?intMode=6">Terms of use</a></li>
+				<li><a href="/howitworks.php?intMode=5">Privacy policy</a></li>
+				
+				<li><a href="/howitworks.php?intMode=4">About us</a></li>
+				<li><a href="/mapping.php">Sitemap</a></li>
+                
+			</ul>
+			<ul class="footer-sub-nav">
+	  <ul><li><a href="/index.php?intIdUniverse=1">Casual Games &gt;&gt; </a></li>&nbsp;&nbsp;<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=54&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Action/Arcade</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=55&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Cards/Board</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=57&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Hidden Objects</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=56&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Kids</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=71&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Match 3</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=58&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Puzzle</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=69&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Time Management</a></li> <li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">All games</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=200&amp;intCategory=200&amp;intMaxItems=0&amp;chooseSort=">New games</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=1&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort=">TOP 20</a></li></ul><ul><li><a href="/index.php?intIdUniverse=2">Hardcore Games &gt;&gt; </a></li>&nbsp;&nbsp;<li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=59&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Action</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=60&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Adventure</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=62&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Sport/Simulation</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=63&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Strategy</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=0&amp;intIdType=61&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">Tycoon</a></li> <li><a href="/categories/games_all.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=99&amp;intCategory=0&amp;intMaxItems=0&amp;chooseSort=">All games</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=200&amp;intCategory=200&amp;intMaxItems=0&amp;chooseSort=">New games</a></li> <li><a href="/categories/games.php?intpage=1&amp;intIdUniverse=2&amp;intIdType=100&amp;intCategory=100&amp;intMaxItems=20&amp;chooseSort=">TOP 20</a></li></ul>			</ul>
+			<p>2005-2010 All rights reserved. Boonty is a trademark and a free game download site published by the company Digital Distribution SAS, part of the Nexway group.</p>
+            <p>Download and play for free the top games ! From casual games (Block-Breakers, Mahjong, Hidden Objects, Match 3, Dash Games, Girl Games, etc.) to hardcore games (FPS, RTS, Adventure, Simulation, etc.) along with online games, everyone can find what they're looking for on PlayToad site. Please don't contact us for a game tip, hint, crack, serial or no-CD.</p>
+            			<a href="http://www.nexway.com/?Langue=en" class="footer-logo" target="_blank"><img src="http://m.boonty.com/sitesimages/genericsite/BGP/img-footer-logo.gif" alt=""></a>
+		</div>
+					</div> 
+
+<!-- script for boontybox -->
+<script type="text/vbscript">
+	Function CheckPandoraCtrl ()
+			CheckPandoraCtrl = 0
+			On Error Resume Next
+			Set pandoraObj = CreateObject ( "PandoraBoxCtrl2.PandoraBoxCtrl2.1" )
+			If ( IsObject(pandoraObj) ) Then 
+				CheckPandoraCtrl = 2
+				Set pandoraObj = NoThing
+			Else 
+				Set pandoraObj = CreateObject ( "PandoraBoxCtrl.PandoraBoxCtrl.1" )
+				If ( IsObject(pandoraObj) ) Then 
+					CheckPandoraCtrl = 1
+					Set pandoraObj = NoThing
+				End if
+			End if
+	End Function
+	
+	Function UseBoontyBoxToDownload ()
+			UseBoontyBoxToDownload = 0
+			On Error Resume Next
+			Set pandoraObj = CreateObject ( "PandoraBoxCtrl2.PandoraBoxCtrl2.1" )
+			If ( Not(IsObject(pandoraObj)) ) Then
+				Set pandoraObj = CreateObject ( "PandoraBoxCtrl.PandoraBoxCtrl.1" )
+			End if
+			If ( IsObject(pandoraObj) ) Then 
+				If pandoraObj.CheckIfBoontyBoxInstalled() Then 
+					If pandoraObj.CheckIfCanUseBoontyBoxToDownload() Then
+						UseBoontyBoxToDownload = 1
+					End if
+				End if
+				Set pandoraObj = NoThing
+			End if
+	End Function
+
+</script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var $boontyCtrl = 0 ;
+var $boontyBox = 0;
+var $blnIsXPSP2 = 0;
+$blnIsIE5 = 0;
+if (window.navigator.appName == "Microsoft Internet Explorer") {
+	if ( window.navigator.appVersion.substr(22,1) >= 5 ) {
+		$blnIsIE5=1;
+	}
+}
+function CheckPandoraCtrlJS() {
+	if ($blnIsIE5) {
+		return CheckPandoraCtrl();
+	}
+	return 0;
+}
+function UseBoontyBoxToDownloadJS() {
+	if ($blnIsIE5) {
+		return UseBoontyBoxToDownload();
+	}
+	return 0;
+}
+$boontyCtrl = CheckPandoraCtrlJS() ;
+if ($boontyCtrl != 0) 
+	$boontyBox = UseBoontyBoxToDownloadJS() ;
+
+if (window.navigator.userAgent.indexOf('SV1') > -1) 
+	$blnIsXPSP2 = 1;
+/* ]]> */
+</script>
+<!-- end script for boontybox -->
+<!-- Stat tags -->
+
+<!-- eStat -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var _PJS=0;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://prof.estat.com/js/m.js"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+if(_PJS) _estatl('273073176402','242042176401','howitworks','playtoad');
+/* ]]> */
+</script><noscript>
+<img src="http://prof.estat.com/m/web/273073176402?g=242042176401&p=howitworks&c=playtoad&st=0&sjs=0" border="0" width="1" height="1" alt=""/>
+</noscript>
+<!-- /eStat -->
+<!-- 80-->
+<!-- GOOGLE ANALYTICS TRACKING -->
+		<script type="text/javascript">
+					var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4764322-1");
+pageTracker._setDomainName("none");
+pageTracker._setAllowLinker(true); 
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
+<!-- GOOGLE ANALYTICS TRACKING -->
+
+
+
+</div></doctype></body></html>
