@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jakprints.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125014649id_/http%3A//www.jakprints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jakprints.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528200005id_/http%3A//www.jakprints.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Jakprints, Inc
 
@@ -24,6 +24,4 @@ A cookie is a string of information that a website stores on a visitor's compute
 
 Although most changes are likely to be minor, Jakprints may change its Privacy Policy from time to time, and in Jakprints's sole discretion. Jakprints encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-Thanks to [Automattic]() for its Creative Commons Sharealike-licensed privacy policy.  
-  
-© 1999-2009 Jakprints, Inc. [](https://www.mcafeesecure.com/RatingVerify?ref=www.jakprints.com)
+Thanks to [Automattic](http://automattic.com/) for its Creative Commons Sharealike-licensed privacy policy.
