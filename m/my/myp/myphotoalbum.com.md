@@ -1,18 +1,14 @@
-> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217021515id_/http%3A//www.myphotoalbum.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myphotoalbum.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528181616id_/http%3A//www.myphotoalbum.com/privacy.php) for the most accurate reproduction.*
 
-# Online Photo Album - MyPhotoAlbum.com
+# MyPhotoAlbum :: Photo Sharing and Online Photo Album :: Privacy Policy
 
 |  |   
-|  |   
-|  | 
-
-[](https://web.archive.org/signup.php)
+  | 
 
   
-|   
-
-
-****Privacy and Security Statement****
+|  |  |   
+---|---|---  
+| 
 
 We know that your privacy is very important to you. That's why protecting any personal information, such as your name, address, email address or phone number that you provide to us is of the utmost importance to MyPhotoAlbum. As a result, we have prepared this Privacy and Security Statement to let you know about the manner in which we collect, use, disclose and otherwise manage the personal information you entrust to MyPhotoAlbum or through our authorized service providers ("Service Providers"). When you provide personal information at our Online Stores, our Call Centers, our Sites and to our Service Providers, you are consenting to the manner in which MyPhotoAlbum will collect, use, disclose and otherwise manage your personal information, as set out below. 
 
@@ -63,6 +59,7 @@ We may also send you mail, email with information about our product and service 
 
 **Disclosure of Personal Information**
 
+  
 **Other Service:** To serve you better, we may combine the personal information that you give us on our Sites and in our Store with publicly available information and information we receive from or cross-reference with our marketing partners and others. We use that combined information to enhance and personalize your experience with us, to communicate with you about our products and events that may be of interest to you, and for other promotional purposes. 
 
 **Companies that work with or on behalf of MyPhotoAlbum:** Some MyPhotoAlbum's operations, such as site advertising or email discount offerings, may be managed by third-party affiliated companies. These companies may have access to your personal information on a confidential basis only to the extent necessary to perform their functions as it relates to providing you with a specific service. At no point will these companies have the right to store your personal identifiable information without your consent.If your purchases are being shipped to you, we will share your shipping information on a confidential basis with our delivery service providers (U.S. Postal Service, Canada Post, or other delivery companies we or you select). Our delivery service providers are prohibited from using your personal information for any purpose other than making the delivery. 
@@ -125,9 +122,9 @@ No data transmission over the Internet can be guaranteed to be 100% secure. Whil
 **Who We Are**
 
 MyPhotoAlbum Inc. a company founded in 1997 and headquartered in New York City. MyPhotoAlbum Inc. is comprised of a family of companies and divisions brought together to provide you with a full suite of photo and online products and services. MyPhotoAlbum Inc. and divisions include: 
-    * [MyPhotoAlbum](http://www.myphotoalbum.com/)
-    * [MyPhotoPro](http://www.myphotopro.com/)
-    * [Go.to](http://www.go.to/)
+    * MyPhotoAlbum
+    * MyPhotoPro
+    * Go.to
 
 
 
@@ -139,7 +136,7 @@ We want to assure you that MyPhotoAlbum is dedicated to protecting your privacy.
 You can contact us or otherwise communicate your privacy concerns by: 
 
     * faxing us at 1-212-981-8125 
-    * e-mailing us by [clicking here](http://www.myphotoalbum.com/contact-my-photo-album.shtml)
+    * e-mailing us by clicking here
     * accessing your registration information on our Sites 
     * writing us at the address below (please include your e-mail address and phone number with your correspondence along with the information needed to support your request): 
 
@@ -161,12 +158,15 @@ You agree, during the period of this Privacy and Security Statement, that we may
 Copyright © 2020 MyPhotoAlbum. All Rights Reserved. 
 
 
+
+
   
-  
----|---  
+
+
+|   
 |  |   
-  | 
+  
 
-©1997 - 2020 MyPhotoAlbum Inc. All Rights Reserved
 
-|  
+   
+[get started for free](https://www.myphotoalbum.com/signup.php?sid=www.myphotoalbum.com) | [tour](http://www.myphotoalbum.com/tour.php?sid=www.myphotoalbum.com) | [ pricing](http://www.myphotoalbum.com/prices.php) | [ shipping](http://www.myphotoalbum.com/shipping.php) | [ terms](http://www.myphotoalbum.com/terms.php) | [ privacy](http://www.myphotoalbum.com/privacy.php) | [satisfaction](http://www.myphotoalbum.com/satisfication-pop.php?KeepThis=true&TB_iframe=true&height=140&width=600) | [about us](http://www.myphotoalbum.com/about.php?sid=www.myphotoalbum.com) | [press](http://www.myphotoalbum.com/press.php?sid=www.myphotoalbum.com) | [help](http://support.myphotoalbum.com/ics/support/default.asp?deptID=5559) | [contact](http://support.myphotoalbum.com/ics/support/default.asp?deptID=5559&task=ticket)
