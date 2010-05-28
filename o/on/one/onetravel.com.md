@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223074323id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetravel.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528083947id_/http%3A//www.onetravel.com/travel/privacy-policy.asp) for the most accurate reproduction.*
 
 # OneTravel Privacy Policy
 
@@ -69,7 +69,7 @@ Las Vegas, NV 89119
 [TLC@onetravel.com](mailto:TLC@onetravel.com?Subject=Lowest%20Fare%20Promise)   
 **(866)883-0908**
 
-If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint). [TRUSTe](https://www.truste.org/)will serve as a liaison with us to resolve your concerns.  
+If you do not receive acknowledgement of your inquiry or your inquiry has not been addressed to your satisfaction, please contact [TRUSTe](https://www.truste.org/pvr.php?page=complaint). [TRUSTe](https://www.truste.org/) will serve as a liaison with us to resolve your concerns.  
 
 
   
