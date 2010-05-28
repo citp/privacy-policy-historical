@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askamum.co.uk privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221094652id_/http%3A//www.askamum.co.uk/GLOBAL/Help/Privacy-policy/) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askamum.co.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528152526id_/http%3A//www.askamum.co.uk/GLOBAL/Help/Privacy-policy/) for the most accurate reproduction.*
 
 # Privacy policy - Pregnancy & Birth and Mother & Baby | askamum
 
