@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rummyroyal.com privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202044111id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rummyroyal.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528135518id_/http%3A//www.rummyroyal.com/about_us/security.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 		<title>Security and Privacy</title>
@@ -21,8 +21,9 @@
 		<link rel="stylesheet" type="text/css" href="/mysite/css/inner.css">
 		
 		
-		<link rel="stylesheet" type="text/css" href="/mysite/css/language/en-language.css">
 		<script language="javascript" type="text/javascript" src="/mysite/javascript/jquery.js"></script>
+		
+		<link rel="stylesheet" type="text/css" href="/mysite/css/language/en-language.css">
 		<script language="javascript" type="text/javascript" src="/mysite/javascript/floatDownload.js"></script>		
 		<script language="javascript" type="text/javascript" src="/mysite/javascript/livePerson.js"></script>
 		<script language="javascript" type="text/javascript">
@@ -43,10 +44,11 @@
 			lang = lang.substring(0,2);
 			//no frames
 			if (top.location != self.location) top.location = self.location.href;
+			/*Benjamin Open playerRanking.html on a popup when clic on the button and not only the text*/
+			
 		</script>
 		<script language="javascript" type="text/javascript" src="/mysite/javascript/flagMenuDD.js"></script>
 		<script language="javascript" type="text/javascript" src="/mysite/javascript/ref.js"></script>
-
 	</head>
 	<body>
 		<div id="header">
@@ -79,7 +81,7 @@
 			<a href="http://www.rummyroyal.com/" onclick="crossDomainTracking('en',this);">
 	   		 <table cellpadding="0" cellspacing="0" border="0" width="114">						
 				<tbody><tr>
-					<td width="25" align="center" class="flag_position"><img src="/mysite/images/common/site_flags/us-drop.gif" alt="GinRummy"></td>
+					<td width="25" align="center" class="flag_position"><img src="/mysite/images/common/site_flags/uk-drop.gif" alt="GinRummy"></td>
 					<td width="69" align="left"> English</td>
 				</tr>						
 			</tbody></table></a>
@@ -88,17 +90,17 @@
 	<div style="display: none;" id="dropmenudiv">				
 		<table cellpadding="0" cellspacing="0" border="0" class="bg_black" width="114">
 			<tbody>
-			
+			<!--% if LanguageExt != uk- %>
 				<tr>
 					<td width="25"><img src="/mysite/images/common/site_flags/uk-drop.gif" alt="Kalooki"></td>
 					<td width="89"><a href="http://www.rummyroyal.com/" onclick="crossDomainTracking('en',this);">English UK</a></td>
 				</tr>
-			
+			<% end_if %-->
 			
 			
 				<tr>
 					<td width="25"><img src="/mysite/images/common/site_flags/it-drop.gif" alt="Ramino"></td>
-					<td width="89"><a href="http://www.raminoroyal.net/" onclick="crossDomainTracking('it',this);">Italiano</a></td>
+					<td width="89"><a href="http://www.royal-ramino.net/" onclick="crossDomainTracking('it',this);">Italiano</a></td>
 				</tr>
 			
 			
@@ -119,12 +121,12 @@
 					<td><a href="http://www.rummyroyal.es/" onclick="crossDomainTracking('es',this);">Español</a></td>
 				</tr>
 			
-			
+			<!--% if LanguageExt != he- %>
 				<tr>
 					<td><img src="/mysite/images/common/site_flags/he-drop.gif" alt="רמי"></td>
 					<td><a href="http://www.remi.co.il/" onclick="crossDomainTracking('he',this);">Hebrew</a></td>
 				</tr>
-			
+			<% end_if %-->
 			
 				<tr>
 					<td><img src="/mysite/images/common/site_flags/ro-drop.gif" alt="Remi"></td>
@@ -137,12 +139,12 @@
 					<td><a href="http://www.romiroyal.hu/" onclick="crossDomainTracking('hu',this);">Magyar</a></td>
 				</tr>
 			
-			
+			<!--% if LanguageExt != tr- %>
 				<tr>
 					<td><img src="/mysite/images/common/site_flags/tr-drop.gif" alt="Okey"></td>
-					<td><a href="http://www.okeyroyal.net/" onclick="crossDomainTracking('tr',this);">Türkçe</a></td>
+					<td><a href="http://www.okey-royal.com/" onclick="crossDomainTracking('tr',this);">Türkçe</a></td>
 				</tr>
-			
+			<% end_if %-->
 			
 				<tr>
 					<td><img src="/mysite/images/common/site_flags/el-drop.gif" alt="Ράμι"></td>
@@ -192,37 +194,37 @@
 					<div id="topMenu">
 						
 	
-		<div class="menuItem">
+		<div class="menuItem" width="50">
 				<a href="/cgi-bin/downd.cgi" onclick="return openDownload()" class="menuLink" title="Download for free the game software">
 				Download
 				</a>
 		</div>
 	
-		<div class="menuItem">
-				<a href="/rummy-games.html" class="menuLink" title="Guide to playing RummyOnline Card Games">
+		<div class="menuItem" width="50">
+				<a href="/rummy-games.html" id="gamesSubMenu" class="menuLink" title="Guide to playing RummyOnline Card Games">
 				Rummy Games
 				</a>
 		</div>
 	
-		<div class="menuItem">
-				<a href="/promotions/index.html" class="menuLink" title="RummyRoyal Bonues and Signup Deposit Bonus Codes">
+		<div class="menuItem" width="50">
+				<a href="/promotions/index.html" id="promoSubMenu" class="menuLink" title="RummyRoyal Bonues and Signup Deposit Bonus Codes">
 				Promotions
 				</a>
 		</div>
 	
-		<div class="menuItem">
+		<div class="menuItem" width="50">
 				<a href="/tournaments/index.html" class="menuLink" title="RummyRoyal Tournament Listings">
 				Tournaments
 				</a>
 		</div>
 	
-		<div class="menuItem">
+		<div class="menuItem" width="50">
 				<a href="/payment_methods/deposit.html" class="menuLink" title="How to Deposit Money and Payment Methods">
 				Cashier (£/€/$)
 				</a>
 		</div>
 	
-		<div class="menuItem">
+		<div class="menuItem" width="50">
 				<a href="/support/support.html" class="menuLink" title="Players Customer Support">
 				Support
 				</a>
@@ -230,12 +232,109 @@
 	
 	
 		
-		<div class="menuItem"><a class="menuLink" href="http://blog.rummyroyal.com/">Blog</a></div>
+		<div class="menuItem">
+			<a class="menuLink" href="http://blog.rummyroyal.com/">
+			
+			Blog</a></div>
 		
 	
 
-
 <!----->
+					</div>
+					<div id="SubtopMenu">
+						
+	
+				
+				
+	
+				
+				<div align="left">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="76"></td>
+						<td width="200">
+							<ul class="gamesSubMenu">
+								
+								<li><a href="/rummy-games.html">Introduction</a></li>
+								
+								<li><a href="/rummy-rules.html">Rummy Rules</a></li>
+								
+								<li><a href="/getting-started.html">Getting Started</a></li>
+								
+								<li><a href="/gin_rummy/index.html">Gin Rummy</a></li>
+								
+								<li><a href="/oklahoma/index.html">Oklahoma Gin</a></li>
+								
+								<li><a href="/Kalooki51/index.html">Kalooki 51</a></li>
+								
+								<li><a href="/Kalooki40/index.html">Kalooki 40</a></li>
+								
+								<li><a href="/rummy/index.html">Traditional Rummy</a></li>
+								
+								<li><a href="/rummy500/index.html">Rummy 500</a></li>
+								
+								<li><a href="/how_to_play/okey/rules.html">Turkish Rummy (Okey)</a></li>
+								
+								<li><a href="/tripoley/index.html">Tripoley</a></li>
+								
+								<li><a href="/canasta/index.html">Canasta</a></li>
+								
+								<li><a href="/rummikub/index.html">Rummikub</a></li>
+								
+								<li><a href="/how_to_play/other_games/mahjong.html">Other Rummy Games</a></li>
+								
+							</ul>
+						</td>
+					</tr>
+				</tbody></table>
+				</div>
+				
+				
+	
+				
+				
+				<div align="left">
+				<table border="0" cellpadding="0" cellspacing="0">
+					<tbody><tr>
+						<td width="175"></td>
+						<td width="210">
+							<ul class="promoSubMenu">
+								
+								<li><a href="/promotions/winners.html">Winners Page</a></li>
+								
+								<li><a href="/promotions/signup.html">Beginners Section</a></li>
+								
+								<li><a href="/promotions/main_event.html">$40,000 (G) Guaranteed</a></li>
+								
+								<li><a href="/promotions/leaderboard.html">Space Race Leaderboard</a></li>
+								
+								<li><a href="/promotions/jackpot.html">Jackpot Tables</a></li>
+								
+								<li><a href="/promotions/multi_table_tourney.html">Multi Table Tourney</a></li>
+								
+								<li><a href="/promotions/freeroll.html">Freerolls</a></li>
+								
+								<li><a href="/importer/index.php">Invite A Friend</a></li>
+								
+								<li><a href="/promotions/royal_stars/royal_stars_club.html">Royal Stars Club</a></li>
+								
+							</ul>
+						</td>
+					</tr>
+				</tbody></table>
+				</div>
+				
+	
+				
+				
+	
+				
+				
+	
+				
+				
+	
+
 					</div>
 				</div>
 				<div id="leftStrip">
@@ -322,6 +421,7 @@
 <span class="footerCopyright">© Copyright 2009 www.RMRoyalMedia.com</span>
 
 			</div>
+			<div id="corIcon"><a href="http://validate.cyberluck.com/validate/4b74af8c-36c8-4068-8a41-61c90a00002a" target="_blank"><img border="0" src="http://www.rummyroyal.com/mysite/images/common/curacao.gif"></a></div>
 			
 			
 		</div>
