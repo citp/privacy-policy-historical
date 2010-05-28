@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207171622id_/http%3A//www.compuware.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compuware.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529012532id_/http%3A//www.compuware.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Commitment to Privacy
 
@@ -35,13 +35,13 @@ Top
 
 Please note that we do not knowingly solicit information from children and we do not knowingly market our products and services to children.
 
-**Information sharing and disclosure:** Compuware values your business and strives to protect your privacy.  Compuware will not trade, sell or otherwise relinquish your information except where:
+**Information sharing and disclosure:** Compuware values your business and strives to protect your privacy.  Compuware will not sell or provide your information to list brokers or similar mass marketing entities.  However, we may provide information about you to our business partners in order to better serve your interests and/or to vendors with whom Compuware has contracted in support of targeted promotions.  In those instances, Compuware’s master “opt-out” suppression file will be provided to such vendors to prevent unwanted Compuware material from delivery. 
 
-  * Compuware has partnered with a third party vendor to host an event and send e-mail invitations on its behalf.  Compuware's master "opt-out" suppression file will be provided to such vendor to prevent unwanted Compuware material from delivery. 
+### 
 
+### Top 
 
-
-## The use of cookies
+The use of cookies
 
   * A "cookie" is a small file that your web browser places on your computer's hard drive to store important data. A cookie cannot be executed as code or deliver viruses. Cookies save you time by enabling your browser to keep track of information such as passwords and account information. In most cases, the cookies that we use will expire after 365 days. In some instances, such as the online job application, the cookies expire as soon as you close your browser. 
   * **Rejecting cookies:** You have the option of setting your browser to reject cookies. In most cases, if you do not accept the cookie you are still able to use the site. Please note, however, that by not accepting cookies, you will limit the functionality we can provide you when you visit this site.
@@ -84,21 +84,21 @@ Compuware's web site provides the capability for candidates to submit their resu
 
 All open positions offered by Compuware or by its domestic and international subsidiaries are subject to specific job skill requirements. The job skill requirements, qualifications and preferred experience are determined by the domestic or international subsidiary offering the position. All positions are subject to local prevailing employment laws and restrictions. This includes immigration laws pertaining to work authorization requirements and any other applicable government permissions or compliance.
 
-### The use of cookies to search and apply for jobs online
+ **The use of cookies to search and apply for jobs online**
 
 Cookies save you time by enabling your browser to keep track of the job numbers that you are interested in applying for online, and remembering your last job search criteria. Learn more about cookies and how Compuware uses them.
 
 You have the option of setting your browser to reject cookies. If you do not accept the cookie, you are still able to use the site and search for jobs, but you will not be able to utilize the job portfolio/shopping cart feature to apply online.
 
-### How to update your personal information
+ **How to update your personal information**
 
 If you have already submitted your resume or curriculum vitae to Compuware and your skills, experience or contact information has changed, please resubmit your resume. Your revised resume will be updated in our resume management system. Visit the [Careers site](https://web.archive.org/careers/default.asp) to learn more about candidate eligibility and the interviewing process.
 
-### How to contact Compuware Recruiting regarding your privacy
+ **How to contact Compuware Recruiting regarding your privacy**
 
 Please e-mail us at [compuware.recruiting@compuware.com](mailto:compuware.recruiting@compuware.com).
 
-### Issue Resolution
+ **Issue Resolution**
 
 Our goal is to respect your privacy. If you seek resolution to any privacy or data collection issue you have with Compuware, or have suggestions on how we can improve our policies, please [contact us](https://web.archive.org/contact/default.asp).
 
