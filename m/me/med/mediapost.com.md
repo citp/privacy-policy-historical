@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228091856id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediapost.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528204207id_/http%3A//www.mediapost.com/index.cfm%3Ffa%3Dh.privacy) for the most accurate reproduction.*
 
 # MediaPost - news and directories for media, marketing and online advertising professionals
 
@@ -93,7 +93,7 @@ Director, Events Sales
 [jon@mediapost.com](mailto:jon@mediapost.com)
 
 **Elaine Wong**  
-Senior Manager, Conferences & Events  
+Director, Conferences & Events  
 (212) 204-2035  
 [elaine@mediapost.com](mailto:elaine@mediapost.com)
 
