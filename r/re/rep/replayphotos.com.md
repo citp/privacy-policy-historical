@@ -1,9 +1,7 @@
-> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611054430id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the replayphotos.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528214024id_/http%3A//www.replayphotos.com/privacy.cfm) for the most accurate reproduction.*
 
 # Replay Photos: Privacy Policy
 
-  
-  
 |    
 
 
@@ -21,5 +19,4 @@ Information from which you cannot be personally identified. Replay Photos, LLC m
 
 Other possible uses. Replay Photos, LLC may in the future enter into a business transaction with another entity, such as a joint venture, merger or sale. By proceeding with your use of this website, you consent to the sharing by Replay Photos, LLC of information obtained from you through the registration/ordering process, on a confidential basis, as may be necessary to optimize the continuation of services or to permit a complete understanding of the nature of the business operated by Replay Photos, LLC. Any transaction partner with whom such information is shared will be required to maintain the confidentiality of any such information shared with it by Replay Photos, LLC. Replay Photos, LLC also reserves the right to disclose your personally identifiable information if it is required to do so by law or legal process, or if such disclosure is made in connection with law enforcement activities.
 
-|   
-
+| 
