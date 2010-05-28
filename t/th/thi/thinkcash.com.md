@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2009-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090518100229id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thinkcash.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528153710id_/http%3A//www.thinkcash.com/modules/privacypolicy/default.aspx) for the most accurate reproduction.*
 
-# ThinkCash Privacy Policy
+# Online Personal Loans, Fast Cash Loans - ThinkCash
 
 At ThinkCash your privacy is important to us. This Privacy Policy describes the information we collect and how we use that information and is applicable if you have applied for service with ThinkCash, or if you are a current or former customer. This Privacy Policy is effective as of October 1, 2008. 
 
