@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223162656id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marist.edu privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528093955id_/http%3A//www.marist.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Marist College
 
@@ -35,7 +35,7 @@ Marist College does not require you provide to personal information to visit our
 
 ## Disclosure
 
-Marist College does not disclose, give, sell or transfer any personal information about our online visitors to third parties except as required by law.
+Marist College does not give, sell or transfer any personal information about our online visitors to third parties except as required by law.
 
 ## Endorsement Disclaimer
 
