@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101163612id_/http%3A//www.totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totallywicked-eliquid.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528141335id_/http%3A//www.totallywicked-eliquid.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy policy / Totally Wicked eLiquid / Electronic Cigarette eLiquid Store
+# Privacy policy / Totally Wicked eLiquid / electronic cigarette eliquid nicotine fluid products
 
 ## Privacy policy of  [www.totallywicked-eliquid.com](https://web.archive.org/)
 
