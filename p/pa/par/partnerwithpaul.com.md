@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2009-05-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090520062031id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partnerwithpaul.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528025108id_/http%3A//www.partnerwithpaul.com/privacy.cgi) for the most accurate reproduction.*
 
 # Partner with Paul - Privacy Policy
 
@@ -9,7 +9,7 @@ If you're looking for the short version, we do not sell your user data to any 3r
 
 If you want to opt-out of email communications from PartnerWithPaul.com, cancel your account, or need to contact us for any other privacy related issue you may do so in the following ways:
 
-1\. Email: [support@partnerwithpaul.com](mailto:support@partnerwithpaul.com)  
+1\. Email: [contact@partnerwithpaul.com](mailto:contact@partnerwithpaul.com)  
   
 2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
@@ -92,7 +92,7 @@ PartnerWithPaul.com provides every user with the opportunity to opt-out of recei
 
 Please note however that even if you opt-out, you may still receive important announcements or updates regarding your PartnerWithPaul.com account unless you cancel your account.
 
-1\. Email: [support@partnerwithpaul.com](mailto:support@partnerwithpaul.com)  
+1\. Email: [contact@partnerwithpaul.com](mailto:contact@partnerwithpaul.com)  
   
 2\. Website: [http://www.partnerwithpaul.com/cancel.cgi](https://web.archive.org/cancel.cgi)  
   
