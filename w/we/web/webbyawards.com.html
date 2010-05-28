@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202050242id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the webbyawards.com privacy policy that was archived on 2010-05-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100528143300id_/http%3A//www.webbyawards.com/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
@@ -25,6 +25,167 @@
 <script language="javascript" type="text/javascript" src="/script/swfobject.js"></script>
 
 
+<style type="text/css">
+		    #bottom{ display: block; height:  300px; width: 400px; z-index: 10000; }
+		</style>
+		<script type="text/javascript" src="/takeover/js/swfobject.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.js"></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+		
+		<!--for homepage carousel -->
+		<script type="text/javascript" src="/index-slider/js/jquery.jcarousel.js"></script>
+        <script type="text/javascript" src="/index-slider/js/jquery.cycle.all.js"></script>
+		<link rel="stylesheet" type="text/css" href="/index-slider/css/skin.css">
+		
+		
+    
+	    <script type="text/javascript">
+	    var flashvars = {
+		};
+		var params = {
+		};
+		var attributes = {
+		    wmode: "transparent"
+		};
+	    swfobject.embedSWF("/takeover/media/webbys.swf", "myContent", "400", "300", "9.0.0", flashvars, params, attributes);
+	    $(document).ready(function(){
+	        $("#close-flash").hide();
+	        $("#close-flash").delay(6000).show("slow");
+	        
+	        $("#close-flash").click(function(event){
+	            event.preventDefault();
+	            $("#bottom").hide("slide", { direction: "down" }, 1000);
+	        });
+	        
+	        positionFooter(); 
+			function positionFooter(){
+				$("#bottom").css({bottom:0,position: "absolute",top:($(window).scrollTop()+$(window).height()-$("#bottom").height())+"px"})	
+			}
+		 
+			$(window)
+				.scroll(positionFooter)
+				.resize(positionFooter)
+			
+			jQuery("#mycarousel").jcarousel({
+			    auto:5,
+			    buttonNextHTML: null,
+			    buttonPrevHTML: null,
+			    scroll: 1,
+			    wrap: "both",
+			    itemVisibleInCallback: {
+			      onBeforeAnimation: carousel_before
+			    },
+			    initCallback: mycarousel_initCallback
+			});
+			
+//			jQuery("#silver-carousel").jcarousel({
+//			    auto:5,
+//			    buttonNextHTML: null,
+//			    buttonPrevHTML: null,
+//			    scroll: 1,
+//			    wrap: "both",
+//			    itemVisibleInCallback: {
+//			      onBeforeAnimation: silver_carousel_before
+//			    },
+//			    initCallback: silvercarousel_initCallback
+//			});
+			
+			$('#s2').before('<div id="nav">') 
+			.cycle({ 
+			    fx:     'fade', 
+			    speed:   500, 
+			    timeout: 0, 
+			    pager:  '#nav' 
+			});
+			
+			
+	    });
+	    
+	    function silver_carousel_before(carousel){
+	        jQuery('.silver-light .jcarousel-control a').removeClass('carousel-on');
+	        jQuery('.silver-light .jcarousel-control a').each(function(){
+	            if(jQuery(this).text()==carousel.first){
+	                jQuery(this).addClass('carousel-on');
+	            }
+	        });
+	        
+	    }
+	    
+	    function carousel_before(carousel){
+	        jQuery('.jcarousel-skin-tango .jcarousel-control a').removeClass('carousel-on');
+	        jQuery('.jcarousel-skin-tango .jcarousel-control a').each(function(){
+	            if(jQuery(this).text()==carousel.first){
+	                jQuery(this).addClass('carousel-on');
+	            }
+	        });
+	    }
+	    
+	    
+	    function mycarousel_initCallback(carousel) {
+	        jQuery('.jcarousel-skin-tango .jcarousel-control a').bind('click', function() {
+	            carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
+	            jQuery('.jcarousel-skin-tango .jcarousel-control a').removeClass('carousel-on');
+	            jQuery(this).addClass('carousel-on');
+	            carousel.startAuto(0);
+	            return false;
+	        });
+	    
+	        jQuery('.jcarousel-skin-tango .jcarousel-scroll select').bind('change', function() {
+	            carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
+	            return false;
+	        });
+	    
+	    };
+	    
+	    function silvercarousel_initCallback(carousel) {
+	        jQuery('.silver-light .jcarousel-control a').bind('click', function() {
+	            carousel.scroll(jQuery.jcarousel.intval(jQuery(this).text()));
+	            jQuery('.silver-light .jcarousel-control a').removeClass('carousel-on');
+	            jQuery(this).addClass('carousel-on');
+	            carousel.startAuto(0);
+	            return false;
+	        });
+	    
+	        jQuery('.silver-light .jcarousel-scroll select').bind('change', function() {
+	            carousel.options.scroll = jQuery.jcarousel.intval(this.options[this.selectedIndex].value);
+	            return false;
+	        });
+	    
+	    };
+	    
+	    
+	    
+	    </script><style type="text/css" media="screen">#myContent {visibility:hidden}#myContent {visibility:visible}</style>
+
+
+
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
 
 
 <!--<script type="text/javascript" src="http://www.internetweekny.com/banner/banner_2009.js"></script><noscript><a href="http://www.internetweekny.com/">http://www.internetweekny.com</a></noscript>-->
@@ -38,10 +199,10 @@
 	<!-- Begin header -->
 	<div class="header">
 	  <div class="branding"><a href="/index.php" tabindex="1"><img src="/images/logo_webbyawards_md.png" alt="The Webby Awards Logo" title="Click here to return to the Webby Awards homepage"></a>	  </div>
-	  
+
 	  <!-- Begin skip to the content -->
 <a href="#contentMain" title="Skip to the Content" accesskey="1" tabindex="2" class="skipToContent">Skip to the Content</a>
-		
+
 		<div class="nav">
 			<ul>
 			<!-- About -->
@@ -54,27 +215,26 @@
 						<li><a href="/about/judges.php">Judges</a></li>
 						<li><a href="/webby_global/">Webby Global</a></li>
 					</ul>				</li>
-			
-			
+
+
 			<!-- Entries -->
-				
-				
+
+
 				<li><a href="http://entries.webbyawards.com">Enter Now</a>
 									</li>
-			  
+
 			<!-- Winners -->
 				<li><a href="/webbys/current.php?season=CURRENT_SEASON">Winners</a>
 									</li>
-			
+
 			<!-- Press -->
-				<li><a href="/press/">Press</a> 
+				<li><a href="/press/">Press</a>
 									</li>
-			
+
 			<!-- Winners Resources & Store -->
 				<li><a href="/resource_center/">Winner Resources &amp; Store</a>
-							
-				</li>
-			
+									</li>
+
 			<!-- Sponsors -->
 				<li><a href="/sponsors/">Sponsors &amp; Partners</a>
 									</li>
@@ -82,10 +242,10 @@
 	  </div>
   <!-- End header -->
   </div>
-  
+
   	<!-- Begin content -->
 	<div class="content">
-		
+
 		<!-- Begin contentMain -->
 		<div class="contentMain" id="contentMain">
 		
@@ -226,7 +386,7 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 			
 			<a href="http://www.netted.net"><img src="/images/netted-hp.jpg" img="" style="border: 0px;"></a>
 		
-			<p>Check out our new daily email devoted to bettering your life through the Internet.<br> <a href="http://www.netted.net">Sign up now</a> to become a Beta tester!</p>
+			<p>Check out our new daily email devoted to bettering your life through the Internet.<br> <a href="http://www.netted.net">Sign up now!</a></p>
 			
 			
 			<!--<h3>Call For Entry</h3>
@@ -234,8 +394,16 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 			-->
 			
 			<blockquote>
-				<p id="quote">“The Online Oscars.”</p></blockquote>
-			<cite id="attribution">- Time Magazine</cite><br>
+				<p id="quote">“It's a night designed to be as dynamic as the Internet itself.”</p></blockquote>
+			<cite id="attribution">- Fox News</cite><br>
+			
+			<h3></h3>
+			
+						<p>Official stock photo provider of the Webbys:</p>
+
+			<p><a href="http://www.corbisimages.com"><img src="/images/corbis-sidebar.jpg" img="" style="border: 0px;"></a></p>
+		
+			
 		
 		
 			<h3>Follow the Webbys</h3>	  
@@ -256,7 +424,10 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 			  <h3><a href="/sponsors/">Sponsors &amp; Partners </a></h3>
 			  <!-- <p>Lorem ipsum dolor sit amet.</p> -->
 	  	  </div>
-					
+			
+
+	  
+		
 		<!-- End contentSidebar -->
 		</div>
 		
@@ -266,6 +437,7 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 	
 	  <!-- Begin Back to the Top link -->
 		<a href="#container" title="Back to the Top" accesskey="0" tabindex="200" class="skipToContent">Back to the Top</a>
+
 
 
 <!-- Begin footer -->
@@ -280,11 +452,12 @@ leading Web experts, business figures, luminaries, and creative celebrities.</p>
 		<ul class="partners">
 			<li><a href="http://www.2advanced.com" title="Link to the 2advanced website" target="_blank"><img src="/images/icon_foot_2advanced.png" alt="2 Advanced Logo"></a></li>
 			<!--<li><a href="http://www.adobe.com" title="Link to the Adobe website" target="_blank"><img src="/images/icon_foot_adobe.png" alt="Adobe Logo" /></a></li>-->
-			<li><a href="http://www.thebarbariangroup.com" title="Link to the Barbarian Group website" target="_blank"><img src="/images/icon_foot_tbg.png" alt="The Barbarian Group Logo"></a></li>
+			<!--<li><a href="http://www.thebarbariangroup.com" title="Link to the Barbarian Group website" target="_blank"><img src="/images/icon_foot_tbg.png" alt="The Barbarian Group Logo" /></a></li>-->
 		</ul>
 	</div>
 
 </div>
+
 
 
 
