@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223092751id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeraffairs.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528093631id_/http%3A//www.consumeraffairs.com/privacy_policy.html) for the most accurate reproduction.*
 
 # ConsumerAffairs.com Privacy Policy
 
@@ -6,17 +6,18 @@ This is the web site of **ConsumerAffairs.com Inc.** Our postal address is:
 
 > ConsumerAffairs.com  
 >  11400 West Olympic Boulevard, Suite 200  
->  Los Angeles, CA 90064
+>  Los Angeles, CA 90064  
+> 
 
-We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20091223092751id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
+We can be reached via e-mail through the [Contact Us](https://web.archive.org/web/20100528093631id_/http%3A//www.consumeraffairs.com/info_request.htm) form on our Web site or at info@consumeraffairs.com. 
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page and used to notify consumers about updates to our Web site. 
+The information we collect is used, in some instances, for internal review, analyzed to improve the content of our Web page and used to notify consumers about updates to our Web site. 
 
-Consumer complaints filed by visitors to our site are retained indefinitely in a database intended to assist us in analyzing the performance of commercial vendors. Inquiries are sometimes expert consultants, regulatory and law enforcement authorities and responsible members of the news media. Also, the information the consumer reports to us is reviewed by attorneys at no cost to the consumer and can be used in the course of prosecuting claims and therefore may become a part of an official court record and/or proceeding. 
+Consumer complaints filed by visitors to our site are retained indefinitely in a database intended to assist us in analyzing the performance of commercial vendors. Consumer complaints are sometimes shared with expert consultants, regulatory and law enforcement authorities and responsible members of the news media. Also, the information the consumer reports to us may be reviewed by attorneys at no cost to the consumer and can be used in the course of prosecuting claims and therefore may become a part of an official court record and/or proceeding. 
 
-Consumer complaints may also be forwarded to the companies about which the consumer is complaining. Companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices, not for marketing purposes. They must also agree not to use the information for litigation purposes. 
+Consumer complaints may also be forwarded to the companies about which the consumer is complaining. To receive such information, companies must agree that they will use the information only in an attempt to resolve the complaint and/or improve their practices, not for marketing purposes. They must also agree not to use the information for litigation purposes. 
 
 Consumers should be aware that information provided to us may be subpoenaed by courts of law and that in most instances we will be obligated to honor lawful court orders. 
 
