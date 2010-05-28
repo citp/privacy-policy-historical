@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breckenridge.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126195820id_/http%3A//www.breckenridge.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breckenridge.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528182210id_/http%3A//www.breckenridge.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Breckenridge Resort's Privacy Policy | Breckenridge.com
 
