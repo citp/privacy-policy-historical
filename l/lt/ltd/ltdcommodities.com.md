@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ltdcommodities.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928021323id_/http%3A//www.ltdcommodities.com/ltd/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ltdcommodities.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528141058id_/http%3A//www.ltdcommodities.com/ltd/privacypolicy.asp) for the most accurate reproduction.*
 
 # LTD Commodities - Privacy Policy
 
@@ -67,7 +67,7 @@ Customer Service (847) 295-6058
 
 Our office hours are:  
 Monday - Friday  
-7:30am - 4:00pm  
+7:00am - 5:00pm  
 Central Time  
   
   |  **Fax:** |  (847) 604-7600  
