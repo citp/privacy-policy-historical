@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219210354id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accepted.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528075704id_/http%3A//www.accepted.com/aboutus/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,3 +35,6 @@ If you have any questions, concerns, or comments about our privacy policy you ma
 * By Phone: 310-815-9553
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+  
+
