@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021030016id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the next.co.uk privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528125542id_/http%3A//www.next.co.uk/help/WinHelpSC.asp%23LID%3D01_99_01) for the most accurate reproduction.*
 
 # Next: Official Site - Privacy Policy
 
-### Security
+## Security
 
 Next Directory take on-line security very seriously and uses a registered secure site under [Verisign Certificate Authority](http://www.verisign.co.uk/index.html).
 
@@ -31,8 +31,6 @@ The Versign web site enables you to validate the security of our pages online, c
 
 The security measures described above ensure that all reasonable steps are taken to protect your personal information. However, the nature of the Internet means that an absolute guarantee of security cannot be offered, and you should be aware that there may be a small security risk in exceptional circumstances when disclosing information online.
 
-### Privacy
-
 Next are committed to complying with the Data Protection Act 1998 and have published this guide to help you understand how and why Next collect information from you, to whom such information is disclosed and what your rights are. If we make changes to this Policy we will notify you by updating this statement on our website. You can access our Website home page and browse our site without disclosing your personal data.  
 However, when you register with Next you will be asked to provide certain information about yourself.
 
@@ -54,7 +52,9 @@ We use the information that we collect about you to:
 
 
 
-### Use of Credit Reference Agency Information and sharing of credit information.
+## Use of Credit Reference Agency Information and sharing of credit information.
+
+return to top ^
 
 In the interests of responsible lending and for security purposes we carry out searches with credit reference agencies when you register with Next and further searches may be carried out before deciding whether to accept orders and/or grant further credit. The agencies record these searches. We also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties.  
 Information about you and other members of your household and those with whom you are financially linked will be used to verify your identity and for the credit assessment of you and them.  
@@ -74,8 +74,6 @@ We use information about you for purposes other than the provision of a website 
 
 Next will not share your information with companies outside of the Next Group for marketing purposes. Please be aware that if we are requested, by the police or any other regulatory or Government authority investigating suspected illegal activities, to provide your information and/or use your information, we are entitled to do so.
 
-### Keeping in touch with you
-
 We want to keep you up to date with information about new ranges, special offers and improvements to this site.
 
 If you decide you do not want us to contact you, you can request that we stop using your information and that we stop mailing information to you by writing to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.  
@@ -83,17 +81,11 @@ If you decide you do not want us to contact you, you can request that we stop us
 
 You may continue to receive mailings which are already on route to you for a short period of time while your request is being dealt with.
 
-### What about cookies?
-
 Our online ordering system uses a cookie to record a unique reference on your computer so that we can keep track of your order as you use the system. This cookie, that is saved to your system, is only valid for a single visit and each new visit will result in a new cookie overwriting any previous that were generated on previous visits to our site. If your internet browser is set to reject cookies or if your network firewall won't allow them then unfortunately you will not be able to use our online store. Please refer to your internet browser help file to see how to enable cookies on your p.c. In order that we can monitor and improve the site we may gather certain information about you when you use it, including details of your domain name and IP address, operating system, browser, version and the website that you visited prior to this site. This may involve the use of a cookie that will not expire at the end of your browsing session.
-
-### Your rights under the Data Protection Act 1998
 
 You have a right to access the personal data that we hold on you. If you would like to see a copy please send a £10 fee and a written request to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address"), quoting Security and Privacy Enquiry. If you think the information we hold on you is incorrect please contact the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp) or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
-### The Direct Marketing Association
-
-Next is a member of the Direct Marketing Association (DMA) and is required to operate within the rules of the DMA's Code of Practice. This means that Next operate to a high level of commercial standards which are designed to : 
+Next is a member of the Direct Marketing Association (DMA) and is required to operate within the rules of the DMA's Code of Practice. This means that Next operate to a high level of commercial standards which are designed to :
 
   1. Protect your privacy
   2. Ensure that payments are secure
@@ -106,11 +98,7 @@ For more information on the DMA, click on the icon shown below.
 
 Next is also a member of the Mail Order Traders Association (MOTA) and subscribes to their Code of Practice. We undertake to deal with any complaints sympathetically and speedily. If any complaint cannot be resolved to the satisfaction of the customer, we or the customer can refer the problem for conciliation by the Director, Mail Order Traders Association, PO Box 51909, London, SW99 0WZ.
 
-### Monitoring Communications
-
 As part of our efforts to make further improvements to the service we provide to our customers, telephone calls to and from Next Directory may be recorded or monitored and used for training purposes. To protect the operation of our computer systems we monitor incoming and out going email.
-
-### Contact Us
 
 If you have any questions relating to this policy or the use by Next of personal data please write to the Group Data Protection Manager at [Head Office](https://web.archive.org/Help/WinHelpHO.asp "click to view head office postal address") or via [dataprotection@next.co.uk](mailto:dataprotection@next.co.uk?subject=Security%20and%20Privacy%20Enquiry "mailto:dataprotection@next.co.uk"), quoting Security and Privacy Enquiry.
 
@@ -120,11 +108,7 @@ We may contact you for marketing purposes by email, mail or telephone with relev
 
 Next Directory is a trading name of Next Retail Ltd and a member of Next Group Plc. Some of the information you provide may be transferred outside the European Economic Area for processing. However, strict rules regarding the confidentiality of security of your information are in place to safeguard it.
 
-### Changes to the Privacy Policy
-
 We keep our privacy policy under regular review and we will place any updates in this webpage. This privacy policy was last updated on 26th April 2009.
-
-### Head Office Contact Details
 
 Group Data Protection Manager  
 Next Retail Ltd.  
@@ -132,6 +116,3 @@ Desford Road,
 Enderby,  
 Leicester.  
 LE19 4AT 
-
-|   | [](http://www.dma.org.uk/)  
----|---|---
