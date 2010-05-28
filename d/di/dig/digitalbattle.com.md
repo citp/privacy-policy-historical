@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126041223id_/http%3A//www.digitalbattle.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalbattle.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528184056id_/http%3A//www.digitalbattle.com/about/privacypolicy) for the most accurate reproduction.*
 
-# » Privacy Policy - DigitalBattle.com
+# Privacy Policy « DigitalBattle.com
 
 ## Privacy Policy
 
@@ -36,3 +36,5 @@ The web server, on which this site is hosted, automatically records information 
 **How To Contact Us**
 
 Should you have other questions or concerns about these privacy policies, please contact us using our [Contact page](http://digitalbattle.com/contact/) or write an email to digitalbattle (at) gmail (dot) com
+
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
