@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619224312id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dabout_em%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exposuremanager.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528185751id_/http%3A//www.exposuremanager.com/scripts/website.pl%3Frm%3Dabout_em%26page%3Dprivacy) for the most accurate reproduction.*
 
 # ExposureManager l About EM
+
+[ ](https://livechat.boldchat.com/aid/6285432182376047841/bc.chat?cwdid=2038827265580064337&wdid=976928335162905498)
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.exposuremanager.com)
 
 **Overview**  
 ExposureManager needs to track certain user information in order for its application to work. This page outlines what is being used, how it is used and how we promise not to use it.
