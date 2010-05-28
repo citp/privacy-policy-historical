@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218022345id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nols.edu privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528031621id_/http%3A//www.nols.edu/general/privacy/privacy.shtml) for the most accurate reproduction.*
 
 # NOLS - Privacy Statement
 
@@ -12,7 +12,7 @@ Demographic and profile data are also collected at our site. We use this data to
 
 Application Forms
 
-NOLS application forms, both on-line and paper, require users to give us contact information (such as their name, email, and postal address), financial information (such as their bank account or credit card numbers), unique identifiers (such as their social security number), and demographic information (such as their zip code, age, education and parent or emergency contact). Information from the application is used to enroll students. The student's contact information is also used to send enrollment material and to get in touch with the student when necessary. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system.
+NOLS application forms, both on-line and paper, require users to give us contact information (such as their name, email, and postal address), financial information (such as their bank account or credit card numbers), unique identifiers, and demographic information (such as their zip code, age, education and parent or emergency contact). Information from the application is used to enroll students. The student's contact information is also used to send enrollment material and to get in touch with the student when necessary. Financial information that is collected is used to bill the user for products and services. Unique identifiers are collected from Web site visitors to verify the user's identity, and for use as account numbers in our record system.
 
 NOLS does not share the contact information of those requesting promotional materials or those enrolled on our courses with other organizations. NOLS does, on occasion, share the name and address of an enrolled student pre-course with another enrolled student to facilitate travel to the course location.
 
@@ -22,7 +22,7 @@ Applicants under the age of 18 cannot apply on-line. They can fill out the infor
 
 Order, Address Update and Guestbook Forms
 
-Our site uses order, address update and guestbook forms for customers to request information, products, and services or to update their contact information and provide NOLS with feedback. We collect contact information (such as their email address), financial information (such as their account or credit card numbers), and demographic information (such as their zip code, age, or income level). Contact information from these forms is used to ship purchases or information about our School or to update our records. The customer's contact information is also used to send promotional material and to get in touch with the visitor when necessary. Users may opt out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers (such as social security numbers) are collected from Web site visitors for use as account numbers in our record system.
+Our site uses order, address update and guestbook forms for customers to request information, products, and services or to update their contact information and provide NOLS with feedback. We collect contact information (such as their email address), financial information (such as their account or credit card numbers), and demographic information (such as their zip code, age, or income level). Contact information from these forms is used to ship purchases or information about our School or to update our records. The customer's contact information is also used to send promotional material and to get in touch with the visitor when necessary. Users may opt out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to bill the user for products and services. Unique identifiers are collected from Web site visitors for use as account numbers in our record system.
 
 External Links
 
