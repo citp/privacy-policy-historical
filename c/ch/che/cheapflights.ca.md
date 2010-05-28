@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526235131id_/http%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.ca privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528194406id_/http%3A//www.cheapflights.ca/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Cheapflights.ca, which is operated by Cheapflights (USA) Inc has created this privacy statement in order to demonstrate its commitment to privacy. The following discloses our information gathering and dissemination practices for Cheapflights.ca as well as email newsletters. It is important for you to understand what information we collect about you during your visit and what we do with that information.
 
-This Privacy Policy only applies to information collected on Cheapflights.ca and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.ca is subject to this Privacy Policy and our [Terms of Use](http://www.cheapflights.com/misc/terms-and-conditions.html).
+This Privacy Policy only applies to information collected on Cheapflights.ca and not to information that is collected by Cheapflights through any other means. Your visit to Cheapflights.ca is subject to this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-and-conditions/).
 
  **1\. Personal Information Collection and Use**
 
@@ -74,11 +74,13 @@ In addition to this standard Privacy Policy, Cheapflights USA (Inc) uses an ele
 
  **11\. Comments**
 
-We have taken great measures to ensure that your visit to Cheapflights.ca is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email via our [Feedback](http://www.cheapflights.com/contact-us/) link or by writing to the following address:
+We have taken great measures to ensure that your visit to Cheapflights.ca is an excellent one and that your privacy is respected. If you have any questions, comments or concerns about our privacy practices, please contact us by email via our [Feedback](https://web.archive.org/help/contact-us/) link or by writing to the following address:
 
 Content Editor  
 Cheapflights (USA) Inc.  
-24 School Street,  
-Boston MA 02108 USA
+10 Post Office Square  
+Boston  
+MA 02109  
+USA
 
-March 2008
+March 2010
