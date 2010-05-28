@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficroundup.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119095922id_/http%3A//www.trafficroundup.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficroundup.com privacy policy that was archived on 2010-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100528035810id_/http%3A//www.trafficroundup.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Roundup Some Free Traffic to Your Website. Free Advertising with TrafficRoundup.com
 
@@ -109,7 +109,7 @@ This website takes measures to protect its data that contains information relate
 
 You may direct questions, comments or reports to:
 
-_**[Roundup Marketing Group](http://www.roundupmarketing.info/ "contact Roundup Marketing Group, LLC")**_
+_**[TrafficRoundup.com](http://www.roundupmarketing.info/ "contact TrafficRoundup.com")**_
 
 **REVISIONS TO THIS PRIVACY POLICY WITHOUT NOTICE**
 
@@ -117,7 +117,7 @@ This Privacy Policy is dynamic.  It may frequently change.  You may not assume
 
 **LATEST UPDATE**
 
-This Privacy Policy was last updated on:  **February 29, 2008**
+This Privacy Policy was last updated on:  **February 2, 2010**
 
 **DISPUTES**
 
@@ -131,7 +131,7 @@ The prevailing party shall be reimbursed by the other party for any and all cost
 
 **JURISDICTION AND VENUE**
 
-If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  **Winchester, Massachusetts.**   In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
+If any matter concerning this purchase shall be brought before a court of law, pre- or post-arbitration, Visitor agrees to that the sole and proper jurisdiction to be the state and city declared in the contact information of the web owner unless otherwise here specified.  **Damon, Texus.**   In the event that litigation is in a federal court, the proper court shall be the closest federal court to the Seller's address.
 
 **APPLICABLE LAW**
 
@@ -139,7 +139,7 @@ Visitor agrees that the applicable law to be applied shall, in all cases, be tha
 
 **COPYRIGHT AND LICENSE**
 
-**This "Privacy Policy" © 2008 Roundup Marketing Group, LLC,  
+**This "Privacy Policy" © 2010 TrafficRoundup.com  
 Mining Gold Corporation and Nevada Processing Center, Inc.  
 If you wish to lawfully use this Privacy Policy on your website,  
 you can get a license here:  [InternetLawCompliance.com](http://www.ipcgold.com/ad/164/CD50851)**
