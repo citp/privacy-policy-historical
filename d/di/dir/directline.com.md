@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208050355id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directline.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529080802id_/http%3A//www.directline.com/legal/security.htm) for the most accurate reproduction.*
 
 # Direct Line - About us
 
@@ -23,7 +23,7 @@ Fraud prevention agencies
   
 Direct Line Insurance plc and Direct Line Life Insurance Company Limited are both members of the Royal Bank of Scotland Group (The Group).
 
-For information about our Group of companies please visit [www.rbs.com](http://www.rbs.com/) and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.
+For information about our Group of companies please visit [www.rbs.com](http://www.rbs.com/ "www.rbs.com \(opens in a new window\)") and click on ‘About Us’, or for similar enquiries please telephone 0131 556 8555 or Textphone 0845 900 5960.
 
 **Back to top**
 
