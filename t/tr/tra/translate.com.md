@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621203753id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translate.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529223030id_/http%3A//www.translate.com/About_ENLASO/Privacy_Pledge.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - ENLASO (Enterprise Language Solutions)
+# Privacy Statement | ENLASO
 
 This privacy statement discloses the privacy practices for ENLASO Corporation and http://www.translate.com. We do not send unsolicited email (Spam). 
 
