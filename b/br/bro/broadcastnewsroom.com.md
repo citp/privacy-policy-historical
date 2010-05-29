@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadcastnewsroom.com privacy policy that was archived on 2009-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090104075333id_/http%3A//www.digitalmediaonlineinc.com/articles/aboutdmoarticle.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadcastnewsroom.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529051422id_/http%3A//www.digitalmediaonlineinc.com/articles/aboutdmoarticle.jsp) for the most accurate reproduction.*
 
 # Digital Media Online, Inc.
 
