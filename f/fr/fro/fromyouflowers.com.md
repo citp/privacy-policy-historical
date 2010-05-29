@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205164222id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fromyouflowers.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529214731id_/http%3A//www.fromyouflowers.com/secpriv.htm) for the most accurate reproduction.*
 
 # Security and Privacy
 
@@ -31,4 +31,4 @@ From time to time, we may be required by law enforcement or judicial authorities
 
 From You Flowers Web Site is protected by a VeriSign Security Certificate. Our customers can be assured that their personal information, including credit card information, is safe. 
 
-Copyright © 2009 From You Flowers, LLC. All rights reserved.
+Copyright © 2010 From You Flowers, LLC. All rights reserved.
