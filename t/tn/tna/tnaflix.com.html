@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tnaflix.com privacy policy that was archived on 2009-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091225103757id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tnaflix.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529171747id_/http%3A//www.tnaflix.com/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -18,8 +18,8 @@
 	
 	<link href="http://www.tnaflix.com/rss/newvids.php" rel="alternate" type="application/rss+xml" title="50 Newest Porn Movies RSS Feed">
 
-	<link rel="stylesheet" href="http://usa.tnaflix.com/css/main.css" type="text/css">
-	<link rel="stylesheet" href="http://usa.tnaflix.com/css/ratings.css" type="text/css">
+	<link rel="stylesheet" href="http://www-edge.tnaflix.com/combine/main.css,ratings.css" type="text/css">
+	<script type="text/javascript" src="http://www-edge.tnaflix.com/combine/jquery.js,swfobject.js"></script>
 
 	
 
@@ -28,6 +28,8 @@
 	<script type="text/javascript">
 	<!--
 	if (top.location != location){  window.top.location.href = this.location; }
+	var multiview_switch = '1';
+	if (multiview_switch == '') multiview_switch = 0;
 
 		<!--
 			function window_popup(content, x, y, title) {
@@ -61,40 +63,28 @@
 </head>
 
 <body onunload="showJpeg('');" id="genericNoAd">
-	<div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:1;border:none;cursor:pointer;" id="thumb" name="thumb" allowtransparency="true">
-	<object style="position:relative; " wmode="transparent" type="application/x-shockwave-flash" onclick="goToThumb();" data="http://www.tnaflix.com/thumb_player_v0.0.1.swf" width="160" height="120" name="videoThumb" id="videoThumb">
-<param name="allowScriptAccess" value="always">
-<param name="wmode" value="transparent">
 
-<param name="movie" value="http://www.tnaflix.com/thumb_player_v0.0.1.swf">
-</object>
-	</div>
-	<div id="GayWarn" class="gayWarning">
-	<span class="warningTitle">Gay / Bi-Male Content</span>
-	<br>
-	<p class="warningText">By entering this category you will turn off the Gay Filter. <br>You will be able to view Gay Male content throughout all the<br> site.</p>
-	<h3>Do you want to continue?</h3>
-	<span class="warningLinks"><a id="gwarningLink" href="http://www.tnaflix.com/gay-porn/sgf">Yes, show me the men!</a>&nbsp; &nbsp;or&nbsp; &nbsp;<a href="#" onclick="document.getElementById('GayWarn').style.display = 'none';">No, Cancel!</a></span><br><br>
-	<span class="warningClose"><a onmouseover="this.style.cursor=&quot;pointer&quot; " onfocus="this.blur();" onclick="document.getElementById('GayWarn').style.display = 'none';">Close</a></span></div>
-
-	<div id="TrannyWarn" class="trannyWarning">
-	<span class="warningTitle">Tranny / She-male Content</span>
-	<br>
-	<p class="warningText">By entering this category you will turn off the Tranny Filter. <br>
-	You will be able to view Transgender / Shemale content <br>throughout all the site.</p>
-	<h3>Do you want to continue?</h3>
-
-	<span class="warningLinks"><a id="twarningLink" href="http://www.tnaflix.com/shemale-porn/stf">Yes, show me the trannys!</a>&nbsp; &nbsp;or&nbsp; &nbsp;<a href="#" onclick="document.getElementById('TrannyWarn').style.display = 'none' ">No, Cancel!</a></span><br><br>
-	<span class="warningClose"><a onmouseover="this.style.cursor=&quot;pointer&quot; " onfocus="this.blur();" onclick="document.getElementById('TrannyWarn').style.display = 'none' ">Close</a></span></div>
-
-
+    <div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:5;border:none;cursor:pointer;" id="thumb" name="thumb" allowtransparency="true">
+        <div id="videoThumbDiv" style="position:relative;z-index: 2;"></div>
+        <script type="text/javascript">
+                     var sot = new SWFObject('http://cdn.tnaflix.com/thumb_player_hd.swf','videoThumb','160','120','10');
+                     sot.useExpressInstall('expressInstall.swf');
+                     sot.addParam('allowscriptaccess','always');
+                     sot.addParam('allowfullscreen','true');
+                     sot.addParam('wmode','transparent');
+                     sot.addParam('bgcolor','#000000');
+                     if(deconcept.SWFObjectUtil.getPlayerVersion()['major']>=10) sot.write('videoThumbDiv');
+        </script>
+					<div id="addToMultiviewIELink" class="addMultiView"><a onfocus="this.blur();" href="javascript:if(window.addThisToMultiview) {showMulti(window.addThisToMultiview);};"><img width="15" height="15" src="http://www-edge.tnaflix.com/images/transpic.gif"><span id="addMultiHint">Add to MultiView Playlist</span></a></div>
+			<div id="multiaddedIELink" class="multiadded"><div>Added to <span title="Show Multi-View" onclick="if(window.addThisToMultiview) {showMultiView(window.addThisToMultiview);};">Multi-View</span></div></div>
+		    </div>
 
 		<div id="container">
 			<div id="header">
 				<h1 class="floatLeft"><a href="http://www.tnaflix.com" title="Free Porn"></a>Share and watch porn videos</h1>
 				<form name="filter" action="http://www.tnaflix.com/set_filter.php" method="post" class="floatLeft filter">
 					<fieldset>
-					    <strong class="floatLeft">Filter:</strong>
+					    <strong class="floatLeft">Show me:</strong>
 						<label name="Straight" class="floatLeft">
 							<input type="checkbox" checked="" id="filter_type_straight" onclick="document.getElementById('sbutt').style.display = 'block'; check_and_check(['filter_type_gay', 'filter_type_tranny'], 'filter_type_straight', false);" value="straight" name="types[]">
 							Straight
@@ -112,24 +102,24 @@
 						<a href="#" onclick="document.getElementById('PopUp').style.display = 'block'" title="personalize" class="floatLeft">Personalize</a>
 					</fieldset>
 				</form>
-				<ul class="mainNav floatLeft">
-					<li class="home"><a href="http://www.tnaflix.com" title="Home" rel="nofollow">Home</a></li>
-					<li class="videos"><a href="http://www.tnaflix.com/video.php" title="Videos" rel="nofollow">Videos</a></li>
-					<li class="catagories"><a href="http://www.tnaflix.com/channels.php" title="Categories" rel="nofollow">Categories</a></li>
-					<li class="live"><a href="http://cams.com/go/p347376.subcamstab" title="Live Sex" target="_blank" rel="nofollow">Live Sex</a></li>
-					<li class="dating"><a href="http://adultfriendfinder.com/go/g1129023+reg" title="Adult Dating" target="_blank" rel="nofollow">Adult Dating</a></li>
-					<li class="pure"><a href="http://www.puretna.com" title="Pure T'nA" rel="nofollow">Pure T'nA</a></li>
-				</ul>
-
-                                    <div class="signUpmemin center">
+                                    <ul class="mainNav floatLeft">
+                        <li class="home"><a href="http://www.tnaflix.com" title="Home" rel="nofollow">Home</a></li>
+                        <li class="videos"><a href="http://www.tnaflix.com/video.php" title="Videos" rel="nofollow">Videos</a></li>
+                        <li class="catagories"><a href="http://www.tnaflix.com/channels.php" title="Categories" rel="nofollow">Categories</a></li>
+                        <li class="premium"><a href="http://premium.tnaflix.com" title="T'nA Premium" rel="nofollow" target="_blank">T'nA Premium</a></li>
+                        <li class="live"><a href="http://cams.com/go/p347376.subcamstab" title="Live Sex" target="_blank" rel="nofollow">Live Sex</a></li>
+                        <li class="dating"><a href="http://adultfriendfinder.com/go/p1011426.subdatingtab" title="Adult Dating" target="_blank" rel="nofollow">Adult Dating</a></li>
+                    </ul>
+                                                    <div class="signUpmemin center">
                         <a href="http://www.tnaflix.com/register.php" title="Create Account"><strong>Create Account</strong></a> or <a href="http://www.tnaflix.com/getiton.php" title="Log In">Sign In</a>
                     </div>
                 
 				<div id="topBar" class="floatLeft">
 					<form name="search" action="http://www.tnaflix.com/search.php" class="floatLeft" method="get">
 						<fieldset>
-                                                        <input id="search_term" class="text floatLeft" type="text" autocomplete="off" onkeydown="if (window.typingTimeout) window.clearTimeout(window.typingTimeout); window.typingTimeout = window.setTimeout(doSearchPredict, 500);" onfocus="if(this.value=='Search for videos...') this.value='';" onblur="if(this.value=='') this.value='Search for videos...'; " name="what" value="Search for videos...">
+                            <input id="search_term" class="text floatLeft" type="text" autocomplete="off" onkeydown="if (window.typingTimeout) window.clearTimeout(window.typingTimeout); window.typingTimeout = window.setTimeout(doSearchPredict, 500);" onfocus="if(this.value=='Search for videos...') this.value='';" onblur="if(this.value=='') this.value='Search for videos...'; " name="what" value="Search for videos...">
 							<input class="button floatLeft" type="submit" onclick="clearPredict();" value="">
+                            <a style="margin-left: 10px;position:relative;top:5px;" href="http://www.tnaflix.com/advanced_search.php">Advanced Search</a>
 						</fieldset>
 					</form>
 					<ul>
@@ -160,9 +150,9 @@
     <td width="65">Tranny</td>
     <td>Thumbnails:</td>
     <td><div class="hint"><a href="#"><span><strong>Get a sneek peak!</strong><br>Select Images or Video (requires flash!).<br>Hover your mouse over a thumbnail to view the preview!</span></a></div></td>
-    <td><input id="filter_preview_video" type="radio" checked="" value="video" name="preview"></td>
+    <td><input id="filter_preview_video" type="radio" value="video" name="preview"></td>
     <td>Video</td>
-    <td><input id="filter_preview_image" type="radio" value="image" name="preview"></td>
+    <td><input id="filter_preview_image" type="radio" checked="" value="image" name="preview"></td>
     <td>Images</td>
   </tr>
   <tr>
@@ -219,54 +209,132 @@ This privacy notice may be revised periodically and users are encouraged to revi
 				</div>
 				<br class="clear">
 				
-			</div>	</div>
+			</div>    <!--Multiplex Start -->
+<div id="multiviewPosition">
+    <form name="MultiPlexForm" id="MultiPlexForm">
+    	<div style="width:160px;height:120px;left:-900px;top:-900px;position:absolute;z-index:10; border:none; cursor:pointer;" id="thumbMulti" name="thumbMulti" allowtransparency="true">
+            <object style="position:relative;z-index: 1;" wmode="opaque" type="application/x-shockwave-flash" data="http://www.tnaflix.com/thumb_player_v0.0.1.swf?multiview=1" width="160" height="120" name="videoThumbMulti" id="videoThumbMulti">
+                <param name="allowScriptAccess" value="always">
+                <param name="wmode" value="opaque">
+                <param name="movie" value="http://www.tnaflix.com/thumb_player_v0.0.1.swf?multiview=1">
+            </object>
+        </div>
+    	<div class="MultiPlex" id="Multi_Plex" name="Multi_Plex">
+    		<div class="MPdrag" onmousedown="MPdrag(event);">Click and drag</div>
+    		<div class="MPhead">
+    			<div class="MPtitle">MOVIE INFORMATION</div>
+    			<div class="MPtitle" style="width:auto;">PLAYLIST</div>
+    			<div class="MPclose">
+					<a href="javascript:document.getElementById('MPaddbutton').style.display = 'none'; document.getElementById('Multi_Plex').style.display = 'none'; killVideoThumbs(); killVideoThumbs2(); thumbnail_preview_stop2(); deleteMultiviewEditorPosition();">Close</a>
+    			</div>
+    			<div class="MPhelp">
+					<a href="http://www.tnaflix.com/multiview_help.php" target="_blank">Help</a>
+
+    			</div>
+    			<div class="MPremoveall" id="MPremoveall" name="MPremoveall">
+    				<a href="javascript:removeAllMultiView();">Remove All (<span id="multiVIDNr" name="multiVIDNr"></span>)</a>
+    			</div>
+    			    		</div>
+            <br class="clear">
+
+            <div class="MPadd">
+				<div class="premiumScenebox" id="multivideo" name="multivideo"></div>
+    			<br clear="all">
+    			<div class="MPaddbutton" name="MPaddbutton">
+    				<a id="MPaddbutton" href="javascript:addMultiView();"></a>
+    			</div>
+    		</div>
+
+            <div class="MPadded" id="MPaddedbutton" name="MPaddedbutton">
+    			<div class="MPaddedmessage">Movie added to playlist!</div>
+    		</div>
+    		<div class="MPplaylist" id="MPplaylist" name="MPplaylist"></div>
+    		<div class="MPmessages" id="MPmessages">Please select 4 movies<br>to start multi-view !</div>
+    		<div class="MPplayoff" id="MPplayoff" name="MPplayoff"><span>START MULTI-VIEW</span></div>
+    		<a id="StartMultiView" href="" target="_blank"><div class="MPplayon" id="MPplayon" name="MPplayon"><span>START MULTI-VIEW</span></div></a>
+    	</div>
+    </form>
+</div>
+    <!--Multiplex end -->
+
+	</div>
     <br class="clear">
-	
-                <div style="text-align:center;">
+
+    
+
+<!--
+            <div style="text-align:center;">
                 <div style="margin-left:auto; margin-right:auto;">
 
-    <a href="http://www.exgfsextapes.com/track/?c=R7XPEb21ubi3" rel="nofollow" target="_blank">
-        <img src="http://media.ventivmedia.com/tnaflix/900x250/900x250_v2b.jpg">
-    </a>
-</div>        </div>
-    
+	<iframe width="900" scrolling="no" height="350" frameborder="0" src="http://ads.contentabc.com/ads/spots/TNAFlix_Footer_147_497/" allowtransparency="true" marginheight="0" marginwidth="0" name="TnaFlix"></iframe>
+
+</div>
+        </div>
+    -->
+
+	<div id="GayWarn" class="gayWarning">
+	<span class="warningTitle">Gay / Bi-Male Content</span>
+	<br>
+	<p class="warningText">By entering this category you will turn off the Gay Filter. <br>You will be able to view Gay Male content throughout all the<br> site.</p>
+	<h3>Do you want to continue?</h3>
+	<span class="warningLinks"><a id="gwarningLink" href="http://www.tnaflix.com/gay-porn/sgf">Yes, show me the men!</a>&nbsp; &nbsp;or&nbsp; &nbsp;<a href="#" onclick="document.getElementById('GayWarn').style.display = 'none';">No, Cancel!</a></span><br><br>
+	<span class="warningClose"><a onmouseover="this.style.cursor=&quot;pointer&quot; " onfocus="this.blur();" onclick="document.getElementById('GayWarn').style.display = 'none';">Close</a></span>
+	</div>
+
+	<div id="TrannyWarn" class="trannyWarning">
+	<span class="warningTitle">Tranny / She-male Content</span>
+	<br>
+	<p class="warningText">By entering this category you will turn off the Tranny Filter. <br>
+	You will be able to view Transgender / Shemale content <br>throughout all the site.</p>
+	<h3>Do you want to continue?</h3>
+	<span class="warningLinks"><a id="twarningLink" href="http://www.tnaflix.com/shemale-porn/stf">Yes, show me the trannys!</a>&nbsp; &nbsp;or&nbsp; &nbsp;<a href="#" onclick="document.getElementById('TrannyWarn').style.display = 'none' ">No, Cancel!</a></span><br><br>
+	<span class="warningClose"><a onmouseover="this.style.cursor=&quot;pointer&quot; " onfocus="this.blur();" onclick="document.getElementById('TrannyWarn').style.display = 'none' ">Close</a></span>
+	</div>
+
 		<div id="footer">
 			<div id="footerWrap">
 				<a href="http://www.rtalabel.org/" title="RTA" class="rta floatLeft" rel="nofollow" target="_blank">RTA</a>
 				<div class="footerLinksTop floatLeft">
-					<a href="http://www.tnaflix.com/abuse.php" title="report abuse">Report Abuse</a> | 
+					<a href="http://www.tnaflix.com/abuse.php" title="report abuse">Report Abuse</a> |
 					<a href="http://www.tnaflix.com/faq.php" title="FAQ">FAQ</a> |
 					<a href="http://www.tnaflix.com/contact.php" title="Contact Us">Contact Us</a><br>
-					<a href="http://www.tnaflix.com/terms.php" title="Terms Of Service">Terms Of Service</a> | 
-					<a href="http://www.tnaflix.com/privacy.php" title="Privacy Policy">Privacy Policy</a> | 
-					<a href="http://www.tnaflix.com/dmca.php" title="DMCA Policy">DMCA Policy</a> <br>
-					<a href="http://www.tnaflix.com/forbidden.php" title="List of forbidden content">List of forbidden content</a><br><br>
-					<a href="http://www.tnaflix.com/links" title="$$ WEBMASTER $$">$$ WEBMASTER $$</a>						
+					<a href="http://www.tnaflix.com/terms.php" title="Terms Of Service">Terms Of Service</a> |
+					<a href="http://www.tnaflix.com/privacy.php" title="Privacy Policy">Privacy Policy</a> |
+					<a href="http://www.tnaflix.com/dmca.php" title="DMCA Policy">DMCA Policy</a> |
+					<a href="http://www.tnaflix.com/refund.php" title="Refund Policy">Refund Policy</a><br>
+					<a href="http://www.tnaflix.com/forbidden.php" title="List of forbidden content">List of forbidden content</a> |
+					<a href="http://www.tnaflix.com/2257.php" title="2257">2257</a><br><br>
+					<a href="http://www.tnaflix.com/links" title="$$ WEBMASTER $$">$$ WEBMASTER $$</a>
 				</div>
-				<span class="copyright floatRight">Copyright © 2009 | TNAFLIX<br> All rights reserved</span>
+				<span class="copyright floatRight">Copyright © 2010 | TNAFLIX<br> All rights reserved</span>
 				<br class="clear">
 				<p>TNAFLIX is dedicated to the best free porn videos and being the best porn tube site. Streaming porn or downloading porn we've got the pornos you need!</p>
-							
+				<p><img src="http://www-edge.tnaflix.com/images/billing_adress.png" alt=""></p>
+				
 			<br class="clear">
 			</div>
 		</div>
-	<script type="text/javascript" src="http://usa.tnaflix.com/js/the_warning.js"></script>
-	<script type="text/javascript" src="http://usa.tnaflix.com/js/thumbnail_change.js"></script>
-	<script type="text/javascript" src="http://usa.tnaflix.com/js/video_prev.js"></script>
-	<script type="text/javascript" src="http://usa.tnaflix.com/js/search_predict_ajax.js"></script>
-	<script type="text/javascript" src="http://usa.tnaflix.com/js/captcha.js"></script>
+    
+	<script type="text/javascript" src="http://www-edge.tnaflix.com/combine/search_predict_ajax.js,the_warning.js,thumbnail_change.js,video_prev.js,captcha.js"></script>
+
+			<script type="text/javascript">
+			openMultiviewEditor();
+		</script>
+	
 	
 			
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://");
 document.write(unescape("%3Cscript src='" + gaJsHost + "stats.ventivmedia.com/js/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.stats.ventivmedia.com/js/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+var baseurl = 'http://www.tnaflix.com';
 var pageTracker = _gat._getTracker("UA-2092471-1");
 pageTracker._initData();
 pageTracker._trackPageview();
+
 </script>
+
 
 
 </body></html>
