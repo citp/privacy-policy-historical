@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208023536id_/http%3A//www.gfmag.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfmag.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529121342id_/http%3A//www.gfmag.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Global Finance magazine
+# Privacy Policy | Global Finance
 
 We at Global Finance Media (GFM) consider our clients’ privacy to be a top priority, and as such we have developed this Online Privacy Policy.  This Policy details what information we collect, how it is collected, for what purposes it is collected, and the steps we take to secure this information.
 
