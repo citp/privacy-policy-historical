@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lateralcode.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126040452id_/http%3A//www.lateralcode.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lateralcode.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529152545id_/http%3A//www.lateralcode.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy for LateralCode.com - Active March 16, 2009
+Privacy Policy for LateralCode.com – Active March 16, 2009
 
 The privacy of our visitors to LateralCode.com is important to us. 
 
