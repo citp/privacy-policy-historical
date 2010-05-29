@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103085058id_/http%3A//www.flalottery.com/privacypolicyMain.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flalottery.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529193739id_/http%3A//www.flalottery.com/privacypolicyMain.do) for the most accurate reproduction.*
 
 # Privacy Policy
 
