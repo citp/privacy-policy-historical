@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the ngepress.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125224938id_/http%3A//ngepress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ngepress.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529030427id_/http%3A//ngepress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NgePress.Com
+# Privacy Policy | NgePress.com
+
+Privacy Policy 
 
 ### NgePress Privacy Statement
 
