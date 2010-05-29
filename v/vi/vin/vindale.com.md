@@ -1,20 +1,26 @@
-> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308031815id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vindale.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529034837id_/http%3A//www.vindale.com/v/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy policy - Vindale Research
 
 ## Privacy policy 
 
+[ ](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.vindale.com&sealid=101)
+
+Vindale Media, LLC is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.vindale.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
+
+If you have questions or concerns regarding this statement, you should first contact [privacy@vindale.com](mailto:privacy@vindale.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com/pvr.php?page=complaint&url=](http://watchdog.truste.com/pvr.php?page=complaint&url=) TRUSTe will then serve as a liaison with us to resolve your concerns. The TRUSTe program only covers information that is collected through this Web site, and does not cover information that may be collected through any software downloaded from this Web site. 
+
 Information collected and used by Vindale Research
 
-Vindale Research collects user-submitted information including name, email address, and age to verify new accounts and send notifications regarding Vindale Research's services. Vindale Research collects additional data that is included in member profiles. This data includes but is not limited to: occupation, interests, school affiliations, gender, and location. 
+Vindale Research collects user-submitted information including name, email address, and age to verify new accounts and send notifications regarding Vindale Research's services. Vindale Research collects additional optional data that is included in member profiles. This data includes but is not limited to: occupation, interests, school affiliations, gender, and address. 
 
-We also collects non-personally identifiable information including IP address and browser type to help run the site more efficiently. 
+We also collect non-personally identifiable information including IP address and browser type to help run the site more efficiently. 
 
 Use of information members submit to Vindale Research
 
 Email addresses are used to send notifications related to the service(s) the user has signed up for, as a confirmation when a Vindale Research member has requested to add another member as a friend, and to invite new friends to join Vindale Research. A user may choose to stop receiving email notifications from Vindale Research at any time by clicking the unsubscribe link at the bottom of the email. When the user sends email or other communication to Vindale Research, Vindale Research may retain those communications in order to process the user's inquiries, respond to the user's requests and improve Vindale Research's services. 
 
-The specific use of a user's personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of a user's personal information, a prominent notice will be displayed on the website. 
+Vindale Research provides members with the opportunity to upload a self-portrait and/or testimonial of our service. We will preserve your privacy, but reserve the right to use your first name, last initial, city and state for our testimonials. We will not release your contact information in these testimonials. If you would like to email us your feedback or testimonial but would like it to remain confidential, please express your intention clearly when you submit your photo and/or testimonial. The specific use of a user's personal information will be defined at the point of collection. Should Vindale Research wish to change anything regarding the use of a user's personal information, a prominent notice will be displayed on the website. 
 
 Use of non-personally identifiable information
 
@@ -30,7 +36,7 @@ When members choose to use Vindale Research's Invite-a-Friend service, the membe
 
 Use of cookies
 
-Vindale Research uses cookies to manage sessions on the site, remember user preferences, and to ensure members do not continually see the same advertisements. Cookies must be enabled in order for members to use Vindale Research services. Information stored in cookies will never contain any personally identifiable information. 
+Vindale Research uses cookies to manage sessions on the site, remember user preferences, and to ensure members do not continually see the same advertisements. Cookies must be enabled in order for members to use Vindale Research services. Information stored in cookies will never contain any personally identifiable information. Third parties also place scripts and cookies on our site such as analytics providers. This data is only collected in the aggregate. 
 
 Links
 
@@ -41,29 +47,35 @@ Correcting/updating information
 Members can update their information at any time by logging in to Vindale Research and editing their information. The user may also request a copy of the personal information Vindale Research has on record for their account by sending a self-addressed., stamped envelope to the following address: 
 
 _Vindale Research  
-Attn: User Privacy   
-243 Fifth Avenue, Suite 541   
+Attn: User Privacy  
+243 Fifth Avenue, Suite 541  
 New York, NY 10016 _
+
+Legal Disclosure
+
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.
 
 Security
 
-All Vindale Research member accounts are password-protected. Vindale Research goes to great lengths to protect the information our members have provided us. Access to this information is limited to only the employees who need it in order to perform their job function (e.g. Customer Service Representatives). Please note that while Vindale Research employs the best commercially reasonable measures of security, we do not guarantee account security. Hardware/software failure, unauthorized access, and other factors may lead to a breach in Vindale Research security. Should you have any questions regarding this, please contact us. 
+All Vindale Research member accounts are password-protected. Vindale Research goes to great lengths to protect the information our members have provided us. Our entire site is protected using information using secure socket layer technology (SSL). Access to this information is limited to only the employees who need it in order to perform their job function (e.g. Customer Service Representatives). Please note that while Vindale Research employs the best commercially reasonable measures of security, we do not guarantee account security. Hardware/software failure, unauthorized access, and other factors may lead to a breach in Vindale Research security. Should you have any questions regarding this, please contact us.
+
+We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. 
 
 Email choice/opt-out
 
-Should a member of Vindale Research wish to stop receiving notification emails from the site, or cancel their membership to the site altogether, they can log on and make the required changes to their account profile. There are also instructions on how to opt out of receiving future emails included at the bottom of every email sent from Vindale Research. Vindale will honor all requests for cancellation within 10 days. 
+Should a member of Vindale Research wish to stop receiving notification emails from the site, or cancel their membership to the site altogether, they can log on and make the required changes to their account profile, under "email preferences". There are also instructions on how to opt out of receiving future emails included at the bottom of every email sent from Vindale Research. Vindale Research will honor all requests for cancellation, and you will not receive any more emails within 10 business days of your request. 
 
-Requests for opting out of receiving emails or account cancellation may also be sent by mail or over the phone. Vindale Research will honor these requests within 10 days. All such requests are considered final and the user will not receive any further emails from Vindale Research unless explicit permission is granted at a later date. 
+Requests for opting out of receiving emails or account cancellation may also be sent by mail or over the phone. Vindale Research will honor these requests within 10 business days. All such requests are considered final and the user will not receive any further emails from Vindale Research unless explicit permission is granted at a later date. 
 
 Third party advertising
 
-A portion of the advertisements seen on Vindale Research are delivered to users by third-party advertising partners. These partners may use cookies when showing ads to users. These cookies may be used to determine which site the advertiser's advertisement was displayed on and whether or not the user interacted with the advertisement. This information helps advertising partners deliver targeted advertisements that will be most relevant to you. Vindale Research does not have access to the cookies placed by third parties. Vindale Research privacy statement applies only to Vindale Research and does not apply to use of cookies by any third parties. 
+A portion of the advertisements seen on Vindale Research are delivered to users by third-party advertising partners. These partners may use cookies when showing ads to users. These cookies may be used to determine which site the advertiser's advertisement was displayed on and whether or not the user interacted with the advertisement. This information helps advertising partners deliver targeted advertisements that will be most relevant to you. These cookies are not linked to personal information. Vindale Research does not have access to the cookies placed by third parties. Vindale Research privacy statement applies only to Vindale Research and does not apply to use of cookies by any third parties. 
 
 Changes in our privacy policy
 
-Vindale Research reserves the right to change this privacy policy at any time. In the event that this policy is significantly changed, these changes will be posted to the site. If any changes are made that affect the nature or intent of this privacy policy, users will be informed of these changes via email. 
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-Should Vindale Research wish to use member's personally identifiable information in a way materially different than that which was posted at the time a user submitted this information, Vindale Research will notify members either via email or by posting a prominent notice on the site. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
 
 California Online Privacy Protection Act
 
@@ -74,12 +86,12 @@ Individual customers who reside in California may also choose to opt out of prov
 If you have any questions or comments about Vindale Research's Privacy Policy, please contact us using one of the methods below: 
 
 _Vindale Research  
-Attn: User Privacy   
-243 Fifth Avenue, Suite 541   
+Attn: User Privacy  
+243 Fifth Avenue, Suite 541  
 New York, NY 10016 _
 
 _Telephone: 1-877-484-6325  
 Facsimile: 1-866-841-3898   
-Email: privacy@vindale.com _
+_
 
-LAST UPDATED 06/01/2007 
+LAST UPDATED 02/22/2010 
