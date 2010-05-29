@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216064254id_/http%3A//www.argosy.edu/privacy-terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529193436id_/http%3A//www.argosy.edu/privacy-terms.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Argosy University
 
