@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2008-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080208231417id_/http%3A//www.freeiva.com/cs_info/cs_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeiva.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529163312id_/http%3A//www.freeiva.com/cs/privacy) for the most accurate reproduction.*
 
 # China,tour guide,interpreter,exhibition,trade show translator,canton fair,beijing,shanghai,guangzhou
 
-_Privacy Policy_
+###  Privacy Policy
 
 Freeiva.com ("we," "us").We understand the concerns that you may have about your privacy and respect your right to protect your personal information while online.We may collect certain other personal information from you that we do not post on our Site. In most cases, we do not intentionally transfer this information to unaffiliated third parties without your consent.
 
@@ -12,8 +12,4 @@ We will not share aggregated demographic information with our partners and adver
 
 If we decide to change our privacy policy, we will post those changes on our Homepage so our customers/members are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify customers/members by way of an email. Customers/members will have a choice as to whether or not we use their information in this different manner. We will use information in accordance with the privacy policy under which the information was collected.
 
-By submitting the booking form, I understand that I am expected to comply with laws of the People's Republic of China and to take full and sole legal responsibility for all and any activities in connection with Freeiva's service within China. Otherwise, IVA has right to stop any service and Freeiva refuse refundment.  
-  
-Copyright (c) 2004 - 2007 Freeiva,Co.,Ltd. All rights reserve   
-Company Business Licence No: 3101142111840  
-Website ICP Certificate No.05001684 (Shanghai) 
+By submitting the booking form, I understand that I am expected to comply with laws of the People's Republic of China and to take full and sole legal responsibility for all and any activities in connection with Freeiva's service within China. Otherwise, IVA has right to stop any service and Freeiva refuse refundment. 
