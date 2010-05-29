@@ -1,8 +1,8 @@
-<!--The following is the downloaded HTML source of the driscolls.com privacy policy that was archived on 2009-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091125122851id_/http%3A//www.driscolls.com/footer/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the driscolls.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529033225id_/http%3A//www.driscolls.com/footer/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Section - Footer.dwt.php" codeOutsideHTMLIsLocked="false" --><head>
-<script type="text/javascript" src="/js/jquery.min.js"></script>
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
 <script type="text/javascript" src="/js/jqModal.js"></script>
 <script type="text/javascript" src="/js/jquery.easing.1.3.js"></script>
 <script type="text/javascript" src="/js/jquery.form.js"></script>
@@ -16,8 +16,10 @@
 <script type="text/javascript" src="/js/jquery.datePicker.js"></script>
 <script type="text/javascript" src="/js/superfish.js"></script>
 <script type="text/javascript" src="/js/supersubs.js"></script>
-<script type="text/javascript" src="/js/flash-scripts.js"></script>
+<!--<script type="text/javascript" src="/js/flash-scripts.js"></script>-->
+<script type="text/javascript" src="/js/swfobject.js"></script>
 <script type="text/javascript" src="/js/default.js"></script>
+<script type="text/javascript" src="/js/jquery.cycle.min.js"></script>
 
 <script type="text/javascript" language="javascript" src="/js/jquery.metadata.min.js"></script>
 <script type="text/javascript" language="javascript" src="/js/jquery.swapimage.min.js"></script>
@@ -27,7 +29,7 @@
 <link href="/css/default.css" rel="stylesheet" type="text/css">
 <link href="/css/superfish.css" rel="stylesheet" type="text/css" media="screen">
 <link href="/css/about.css" rel="stylesheet" type="text/css">
-<link href="/css/berries.css" rel="stylesheet" type="text/css">
+<link href="/css/berries.css?c=1" rel="stylesheet" type="text/css">
 <link href="/css/growing.css" rel="stylesheet" type="text/css">
 <link href="/css/healthy.css" rel="stylesheet" type="text/css">
 <link href="/css/recipes.css" rel="stylesheet" type="text/css">
@@ -39,8 +41,10 @@
 <!--[if lt IE 7]><link href="/css/ie6_fix.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <!--[if gte IE 7]><link href="/css/ie7_fix.css" media="screen" rel="stylesheet" type="text/css" /><![endif]-->
 <link href="/css/print.css" rel="stylesheet" type="text/css" media="print">
+
+
 <!-- InstanceBeginEditable name="head" -->
-<title>Driscoll’s</title>
+<title>Driscoll's</title>
 <!-- InstanceEndEditable -->
 
 <!-- InstanceParam name="Page ID" type="text" value="page-growing-methods" -->
@@ -57,45 +61,56 @@
 </div>
 <div id="header-nav-wrapper">
     <ul class="sf-menu sf-js-enabled sf-shadow">
-    	<li class="hnav-top" id="hnav-berries"><a href="/berries/index.php" class="hnav-link"><span>our berries</span></a>
+    	<li class="hnav-top" id="hnav-berries"><a title="Fresh Berries" href="/berries/index.php" class="hnav-link"><span>our berries</span></a>
 		<ul style="display: none; visibility: hidden;">
-            <li><a href="/berries/strawberries.php">Strawberries</a></li>
-            <li><a href="/berries/blueberries.php">Blueberries</a></li>
-            <li><a href="/berries/raspberries.php">Raspberries</a></li>
-            <li><a href="/berries/blackberries.php">Blackberries</a></li>
-            <li><a href="/berries/organic-berries.php">Organic Berries</a></li>
-            <li class="hnav-last"><a href="/berries/availability-calendar.php">Availability Calendar</a></li>
+            <li><a title="Strawberries" href="/berries/strawberries.php">Strawberries</a></li>
+            <li><a title="Blueberries" href="/berries/blueberries.php">Blueberries</a></li>
+            <li><a title="Raspberries" href="/berries/raspberries.php">Raspberries</a></li>
+            <li><a title="Organic Blackberries" href="/berries/blackberries.php">Blackberries</a></li>
+            <li><a title="Organic Berries" href="/berries/organic-berries.php">Organic Berries</a></li>
+            <li class="hnav-last"><a title="Availability Calendar for our Berries" href="/berries/availability-calendar.php">Availability Calendar</a></li>
 		</ul>
 	  </li>
-      <li class="hnav-top" id="hnav-recipes"><a href="http://recipes.driscolls.com/recipes" class="hnav-link"><span>recipes &amp; ideas</span></a>
+      <li class="hnav-top" id="hnav-recipes"><a href="http://recipes.driscolls.com/recipes" class="hnav-link" title="Berry Recipes"><span>recipes &amp; ideas</span></a>
 		<ul style="display: none; visibility: hidden;">
-            <li><a href="http://recipes.driscolls.com/recipes/recipe-of-the-month">Recipe of the Month</a></li>
-    		<li><a href="http://recipes.driscolls.com/recipes/list">Recipe Index</a></li>
-    		<li><a href="/recipes/cooking-with-kids.php">Cooking with Kids</a></li>
-    		<li class="hnav-last"><a href="/recipes/holiday-recipes.php">Holiday Recipes</a></li>
+            <li><a href="http://recipes.driscolls.com/recipes/recipe-of-the-month" title="Our Recipe of the Month">Recipe of the Month</a></li>
+    		<li><a href="http://recipes.driscolls.com/recipes/list" title="Our Recipe Index">Recipe Index</a></li>
+    		<li><a title="Cooking with Kids" href="/recipes/cooking-with-kids.php">Cooking with Kids</a></li>
+    		<li class="hnav-last"><a title="Our Healthy Berry Recipes" href="/recipes/healthy-recipes.php">Healthy Recipes</a></li>
 		</ul>
 	  </li>
-      <li class="hnav-top" id="hnav-growing"><a href="/growing/index.php" class="hnav-link"><span>art of growing</span></a>
+      <li class="hnav-top" id="hnav-growing"><a title="Art of Growing" href="/growing/index.php" class="hnav-link"><span>art of growing</span></a>
 		<ul style="display: none; visibility: hidden;">
-            <li><a href="/growing/the-farmers.php">The Farmers</a></li>
-            <li><a href="/growing/growing-methods.php">Growing Methods</a></li>
-            <li><a href="/growing/where-we-grow.php">Where We Grow</a></li>
-            <li><a href="/growing/berry-delivery.php">Berry Delivery</a></li>
-            <li class="hnav-last"><a href="/growing/food-safety.php">Food Safety</a></li>
+            <li><a title="Meet Our Farmers" href="/growing/the-farmers.php">The Farmers</a></li>
+            <li><a title="Our Growing Methods" href="/growing/growing-methods.php">Growing Methods</a></li>
+            <li><a title="Where We Grow" href="/growing/where-we-grow.php">Where We Grow</a></li>
+            <li><a title="Berry Delivery" href="/growing/berry-delivery.php">Berry Delivery</a></li>
+            <li class="hnav-last"><a title="Food Safety" href="/growing/food-safety.php">Food Safety</a></li>
 		</ul>
 	  </li>
-      <li class="hnav-top" id="hnav-healthy"><a href="/healthy/index.php" class="hnav-link"><span>live healthy</span></a></li>
-      <li class="hnav-top" id="hnav-about"><a href="/about/index.php" class="hnav-link"><span>about Driscoll's</span></a>
+      <li class="hnav-top" id="hnav-healthy"><a title="Benefits of Berries" href="/healthy/index.php" class="hnav-link"><span>live healthy</span></a>
 		<ul style="display: none; visibility: hidden;">
-            <li><a href="/about/our-story.php">Our Story</a></li>
-            <li><a href="/about/our-people.php">Our People</a></li>
-            <li><a href="/about/press.php">Press</a></li>
-            <li><a href="/about/events.php">Events</a></li>
-            <li><a href="/about/community-involvement.php">Community Involvement</a></li>
-            <li class="hnav-last"><a href="/about/careers.php">Careers</a></li>
+            <li><a title="Healthy Lifestyle" href="/healthy/healthy-lifestyle.php">Healthy Lifestyle</a></li>
+            <li><a title="Healthy Kids" href="/healthy/healthy-kids.php">Healthy Kids</a></li>
+            <li><a title="Berry Health Benefits" href="/healthy/berry-health-benefits.php">Berry Health Benefits</a></li>
+            <li><a title="Berry Nutrition" href="/healthy/berry-nutrition.php">Berry Nutrition</a></li>
+            <li><a title="Berry Nutrition FAQs " href="/healthy/ask-our-nutrition-expert.php">Ask Our Nutrition Expert</a></li>
+            <li class="nav-last"><a title="Berry News &amp; Articles" href="/healthy/news-articles.php">News + Articles</a></li>
+            <!--<li class="hnav-last"><a href="/healthy/published-scientific-studies.php">Published Scientific Studies</a></li>-->
+		</ul>
+      
+      </li>
+      <li class="hnav-top" id="hnav-about"><a title="About Driscoll's" href="/about/index.php" class="hnav-link"><span>about Driscoll's</span></a>
+		<ul style="display: none; visibility: hidden;">
+            <li><a title="Our Story" href="/about/our-story.php">Our Story</a></li>
+            <li><a title="Our People" href="/about/our-people.php">Our People</a></li>
+            <li><a title="Press" href="/about/press.php">Press</a></li>
+            <li><a title="Events" href="/about/events.php">Events</a></li>
+            <li><a title="Community Involvement" href="/about/community-involvement.php">Community Involvement</a></li>
+            <li class="hnav-last"><a title="Careers at Driscoll's" href="/about/careers.php">Careers</a></li>
 		</ul>
 	  </li>
-      <li class="hnav-top" id="hnav-tell"><a href="/tell/index.php" class="hnav-link"><span>tell us</span></a></li>
+      <li class="hnav-top" id="hnav-tell"><a title="Contact Driscoll's" href="/tell/index.php" class="hnav-link"><span>tell us</span></a></li>
     </ul>
 </div>  <div id="body-wrapper">
 
@@ -165,22 +180,44 @@
     </div>
 
   </div>
-  <div id="footer-copyright">
-	©1998–2009 Driscoll Strawberry Associates, Inc. All rights reserved.
+  <div id="footer">
+
+  	<p>
+  		<a href="/" title="Berries">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/berries/strawberries.php" title="Strawberries">Strawberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/berries/blueberries.php" title="Blueberries">Blueberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/berries/raspberries.php" title="Raspberries">Raspberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/berries/blackberries.php" title="Organice Blackberries">Blackberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/berries/organic-berries.php" title="Organic Berries">Organic Berries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="http://recipes.driscolls.com/recipes" title="Berry Recipes">Our Berry Recipes</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  	</p>
+  	<p>
+  		<a href="/growing" title="Art of Growing">Art of Growing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/healthy" title="Benefits of Berries">Live Healthy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/healthy/berry-health-benefits.php" title="Berry Health Benefits">Berry Health Benefits</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/healthy/berry-nutrition.php" title="Berry Nutrition">Berry Nutrition</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/about" title="About Driscoll's">About Driscoll’s</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/tell" title="Tell Us">Tell Us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/footer/privacy-policy.php" title="Privacy Policy">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  		<a href="/footer/terms-of-use.php" title="Terms of Use">Terms &amp; Conditions</a>
+  	</p>
+  	 	
+  	<p>©1998–2010 Driscoll Strawberry Associates, Inc. All rights reserved.</p>
+  	
 </div>
 
-<div id="footer-wrapper">
-  <ul>
-    <li><a href="/tell/index.php">contact us</a></li>
-    <li><a href="/footer/email.php">email sign up</a></li>
-    <li><a href="/footer/search.php">search</a></li>
-    <li><a href="/footer/faq.php">FAQ</a></li>
-    <li><a href="/about/careers.php">careers</a></li>
-    <li><a href="/footer/privacy-policy.php">privacy</a></li>
-    <li><a href="/footer/terms-of-use.php">terms of use</a></li>
-  </ul>
-  <div class="clear"></div>
+
+
+<!--
+<div id="footer">
+  	<p><a href="/tell/">customer service</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tell/">contact us</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/footer/email.php">email sign up</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/footer/search.php">search</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/footer/faq.php">FAQ</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about/careers.php">careers</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/footer/privacy-policy.php">privacy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/footer/terms-of-use.php">terms & conditions</a></p>
+  	<p><a href="/berries" title="Berries">our berries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/berries/strawberries.php" title="Strawberries">strawberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/berries/blueberries.php" title="Blueberries">blueberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/berries/raspberries.php" title="Raspberries">raspberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/berries/blackberries.php" title="Blackberries">blackberries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/berries/organic-berries.php" title="Organic Berries">organic berries</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/growing" title="Art of Growing">art of growing</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/healthy" title="Benefits of Berries">live healthy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about" title="About Driscolls">about driscoll&rsquo;s</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/tell" title="Tell Us">tell us</a></p>
+  	<p>&copy;1998&ndash;2010 Driscoll Strawberry Associates, Inc. All rights reserved.</p>
 </div>
+-->
+
+
+  
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
