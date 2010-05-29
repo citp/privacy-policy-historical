@@ -1,0 +1,680 @@
+<!--The following is the downloaded HTML source of the liquor.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529024033id_/http%3A//liquor.com/pages/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head profile="http://gmpg.org/xfn/11">
+
+<!--The Title-->
+<title>  Privacy policy — Liquor.com</title>
+
+<!--The Meta Info-->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta http-equiv="content-language" content="en">
+
+<!-- Google Webmaster Tool Verify -->
+<meta name="google-site-verification" content="WN3oxWDeBqcbRHDkT2xa1UjiZ9Ym18TWguhqXdh3iG8">
+<meta name="google-site-verification" content="BoOJQqtF16d6D6oZC5MkjXgoKnbum8pCZrIapuPNtrw">
+
+<!--The Stylesheets-->
+<link rel="stylesheet" href="http://liquor.com/wp-content/themes/main/style.css" type="text/css" media="screen">
+<style rel="stylesheet" type="text/css" media="screen">
+ @media screen and (-webkit-min-device-pixel-ratio:0){
+	color: #333;
+	font-family:  Helvetica, sans-serif;
+	font-size: 12px;
+	line-height: 1.7;
+	padding-right: 0;
+	height:100%;
+	width:100%;
+	background: url(images/gradient_bg.jpg) repeat-x;
+}
+</style>
+<!--The RSS and Pingback-->
+<link rel="alternate" type="application/rss+xml" title="Liquor.com RSS Feed" href="http://liquor.com/feed/">
+<link rel="pingback" href="http://liquor.com/xmlrpc.php">
+
+<!-- JS for Scrolling Function -->
+<script type="text/javascript">
+	//<![CDATA[
+
+	var scrollInt;
+	var scrTime, scrSt, scrDist, scrDur, scrInt;
+
+
+
+
+	function replaceAnchorLinks()
+	{
+		var anchors, i, targ, targarr;
+
+		if (!document.getElementById)
+			return;
+
+		// get all anchors
+		anchors = document.getElementsByTagName("a");
+
+		for (i=0;i<anchors.length;i++)
+		{
+
+			// check if href links to an anchor on this page
+			if ( anchors[i].href.indexOf("#") != -1 && anchors[i].href.indexOf( document.URL ) != -1 )
+			{
+				// get name of target anchor
+				targ = anchors[i].href.substring( anchors[i].href.indexOf("#")+1 );
+
+				// find target anchor
+				targarr = document.getElementsByName( targ );
+
+				if (targarr.length)
+				{
+					anchors[i].className = (targarr[0].offsetTop < anchors[i].offsetTop) ? "up" : "down";
+					anchors[i].id = "__" + targ;	// save target as id with prefix (used in onclick function below)
+					anchors[i].onmousedown = function () { scrollToAnchor( this.id.substring( 2 ) ); return false; };
+					anchors[i].href = "#";			// rewrite href
+				}
+			}
+
+		}
+	}
+
+
+	/*
+	SCROLL FUNCTIONS
+	*/
+
+
+
+
+	function scrollPage()
+	{
+		scrTime += scrInt;
+		if (scrTime < scrDur) {
+			window.scrollTo( 0, easeInOut(scrTime,scrSt,scrDist,scrDur) );
+		}else{
+			window.scrollTo( 0, scrSt+scrDist );
+			clearInterval(scrollInt);
+		}
+	}
+
+	function scrollToAnchor(aname)
+	{
+		var anchors, i, ele;
+
+		if (!document.getElementById)
+			return;
+
+		// get anchor
+		anchors = document.getElementsByTagName("a");
+		for (i=0;i<anchors.length;i++) {
+			if (anchors[i].name == aname) {
+				ele = anchors[i];
+				i = anchors.length;
+			}
+		}
+
+		// set scroll target
+		if (window.scrollY)
+			scrSt = window.scrollY;
+		else if (document.documentElement.scrollTop)
+			scrSt = document.documentElement.scrollTop;
+		else
+			scrSt = document.body.scrollTop;
+
+
+
+		scrDist = ele.offsetTop - scrSt;
+		scrDur = 500;
+		scrTime = 0;
+		scrInt = 10;
+
+		// set interval
+		clearInterval(scrollInt);
+		scrollInt = setInterval( scrollPage, scrInt );
+	}
+
+
+
+
+	/*
+	EASING FUNCTIONS
+	*/
+
+	function easeInOut(t,b,c,d)
+	{
+		return c/2 * (1 - Math.cos(Math.PI*t/d)) + b;
+	}
+
+
+
+
+
+	//]]>
+	</script>
+<!-- end JS for scrolling -->
+
+<!--Icon-->
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+
+<!-- Liquor.com - Advanced Meta Tag Manager -->
+<meta name="description" content="">
+<meta name="keywords" content="">
+
+<link rel="alternate" type="application/rss+xml" title="Liquor.com » Privacy policy Comments Feed" href="http://liquor.com/pages/privacy-policy/feed/">
+<link rel="stylesheet" id="wp-polls-css" href="http://liquor.com/wp-content/plugins/wp-polls/polls-css.css?ver=2.50" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="http://liquor.com/wp-content/plugins/contact-form-7/styles.css?ver=2.2" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="http://liquor.com/wp-content/themes/main/js/fancybox/fancybox.css?ver=1.2.6" type="text/css" media="all">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/wp-newsletter/includes/newsletter.js?ver=0.4.9"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/karmic-flow/karmic-flow-0.2.js?ver=abc"></script>
+<script type="text/javascript" src="http://liquor.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/wp-google-buzz/wp-google-buzz.js?ver=abc"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/main.js?ver=abc"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/fancybox/fancybox.pack.js?ver=1.2.6"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/liquid-canvas/liquid-canvas.js?ver=0.3"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/liquid-canvas/liquid-canvas-plugins.js?ver=0.3"></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://liquor.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://liquor.com/wp-includes/wlwmanifest.xml"> 
+<link rel="index" title="Liquor.com" href="http://liquor.com">
+<link rel="up" title="Corporate Information" href="http://liquor.com/pages/">
+<style type="text/css">
+	.addtoany_share_save_container{margin:16px 0;}
+	ul.addtoany_list{
+		display:inline;
+		list-style-type:none;
+		margin:0 !important;
+		padding:0 !important;
+		text-indent:0 !important;
+	}
+	ul.addtoany_list li{
+		background:none !important;
+		border:0;
+		display:inline !important;
+		line-height:32px;		list-style-type:none;
+		margin:0 !important;
+		padding:0 !important;
+	}
+	ul.addtoany_list li:before{content:"";}
+	ul.addtoany_list li a{padding:0 9px;}
+	ul.addtoany_list img{
+		float:none;
+		border:0;
+		margin:0;
+		padding:0;
+		vertical-align:middle;
+	}
+	ul.addtoany_list a img{
+		opacity:.6;
+		-moz-opacity:.6;
+		filter:alpha(opacity=60);
+	}
+	ul.addtoany_list a:hover img, ul.addtoany_list a.addtoany_share_save img{
+		opacity:1;
+		-moz-opacity:1;
+		filter:alpha(opacity=100);
+	}
+	a.addtoany_share_save img{border:0;width:auto;height:auto;}    </style>
+<link rel="stylesheet" type="text/css" href="http://liquor.com/wp-content/plugins/fbconnect/fbconnect.css?ver=svn-62"><style type="text/css">img.nothumb{border:0;}</style><link rel="stylesheet" href="http://liquor.com/wp-content/plugins/vote-it-up/skins/orange_ticker/votestyles.css" type="text/css">
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/vote-it-up/skins/orange_ticker/voterajax.js"></script>
+<link rel="stylesheet" href="http://liquor.com/wp-content/plugins/vote-it-up/voteitup.css" type="text/css">
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/vote-it-up/userregister.js"></script>
+<style type="text/css">
+.wp-polls .pollbar {
+	margin: 1px;
+	font-size: 8px;
+	line-height: 10px;
+	height: 10px;
+	background: #CE7730;
+	border: 1px solid #cccccc;
+}
+</style>
+<!--[if IE]><script type="text/javascript" src="http://liquor.com/wp-content/themes/main/js/liquid-canvas/excanvas.js"></script><![endif]-->
+<meta name="wassup-version" content="1.7.2.1">
+<script type="text/javascript">
+//<![CDATA[
+	var screen_res = "";
+	function writeCookie(name,value,hours) {
+		var the_cookie = name+"="+value+"; expires=";
+		var expires = "";
+		hours=hours+0; //convert to number
+		if (hours > 0) { //0==expires on browser close
+			var date = new Date();
+			date.setTime(date.getTime()+(hours*60*60*1000));
+			expires = expires+date.toGMTString();
+		} 
+		document.cookie = the_cookie+expires+"; path=/; domain=.liquor.com";
+	}
+	screen_res = window.screen.width+"x"+window.screen.height;
+	writeCookie("wassup_screen_res",screen_res,"48"); //keep 2 days
+//]]>
+</script>
+				
+<link rel="alternate" type="application/rss+xml" title="Liquor.com  RSS Feed" href="http://liquor.com/shop/category//feed/">
+<link rel="stylesheet" href="http://liquor.com?shopp_lookup=catalog.css&amp;ver=1.0.17" type="text/css">
+<link rel="stylesheet" href="http://liquor.com/wp-content/themes/main/shopp/shopp.css?ver=1.0.17" type="text/css">
+<link rel="stylesheet" href="http://liquor.com/wp-content/plugins/shopp/core/ui/styles/thickbox.css?ver=1.0.17" type="text/css">
+
+<!-- moving IE specific stuff here because it needs to be included after other stylesheets have been loaded -->
+
+<!--[if lt IE 7]><link rel="stylesheet" href="http://liquor.com/wp-content/themes/main/ie6.css" type="text/css" media="screen" /><![endif]-->
+<!--[if IE 7]><link rel="stylesheet" href="http://liquor.com/wp-content/themes/main/ie7.css" type="text/css" media="screen" /><![endif]-->
+<!--[if lt IE 8]><script src="http://liquor.com/wp-content/themes/main/js/IE8.js" type="text/javascript"></script><![endif]-->
+
+<script type="text/javascript">var CM8Server = "liquor.checkm8.com"; var CM8Cat = "Liquor.Homepage"; var CM8Profile="";</script><script type="text/javascript" src="http://liquordigital.checkm8.com/adam/cm8adam_1_call.js"></script><script async="true" type="text/javascript" src="https://c.adroll.com/j/roundtrip.js"></script></head>
+<!-- ad tags -->
+
+
+
+<body onload="replaceAnchorLinks()" class="page page-id-25 page-child parent-pageid-911 page-template page-template-default">
+<div id="shadow_fix">
+<div id="container" class="clearfix">
+	<div id="header" class="nav">
+		<div id="header_top">
+			<div id="header_top_container">
+				<div id="header_top_container_left"></div>
+				<div id="header_top_container_right">
+					Subscribe to our <a href="#newsletter_overlay_container" class="nl_overlay_open">Free Daily Email</a>
+				</div><!--header_top_container_right-->
+			</div><!-- header top container -->
+		</div>
+
+		<div id="header_right">
+			<div id="tagline">
+				<h2 class="tagline_title">Your <i>expert guide</i> to all things <i>cocktails</i> and <i>spirits</i>.</h2>
+			</div>
+		</div>
+
+		<div id="header_left">
+			<div id="logo">
+				<a href="http://liquor.com" title="Home"><img src="http://liquor.com/wp-content/themes/main/images/logo.png" alt="Liquor" border="0"></a>
+			</div><!-- logo -->
+		</div><!-- header left -->
+		<div id="catmenu">
+			<ul>
+				<li class="catmenu_home_noncurrent"><a href="http://liquor.com"></a></li>
+				<li class="catmenu_noncurrent"><a href="/liquor/" title="Liquor Lifestyle">Liquor Lifestyle</a><span class="menu_text">Trends. Travel. Nightlife.</span></li>
+				<li class="catmenu_noncurrent"><a href="/cocktails/" title="Liquor Cocktails and Recipes">Cocktails &amp; Recipes</a><span class="menu_text">Drinks. Bars. Mixology.</span></li>
+				<li class="catmenu_noncurrent"><a href="/spirits/" title="Spirits">Spirits</a><span class="menu_text">Tequila. Vodka. Whiskey. Rum. Gin.</span></li>
+				<li class="catmenu_noncurrent">
+					<strong class="comingsoon">Meet the Drink Experts</strong><span class="menu_text">Coming Soon!</span>				</li>
+				<!-- checkout header links -->
+			</ul>
+		</div>
+
+	</div><!-- header -->
+
+<div class="tracking-container" style="display: none">
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-11551319-1");
+		pageTracker._setDomainName("none");
+		pageTracker._setAllowLinker(true);
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
+
+
+</div><!-- tracking-container -->
+<!--page.php-->
+<div id="content_container" class="clearfix">
+<div id="content" class="index">
+
+<!-- ACH Breadcrumb -->
+<div id="page_breadcrumb">
+<!-- Breadcrumb NavXT 3.3.0 -->
+<a title="Go to Home." href="http://liquor.com">Home</a> &nbsp;/&nbsp; <a title="Go to Corporate Information." href="http://liquor.com/pages/">Corporate Information</a> &nbsp;/&nbsp; Privacy policy</div>
+	<div id="page_content_container" class="shadowborder clearfix">
+	
+	<!--Post Wrapper Class-->
+	<div class="post-25 page hentry category-uncategorized">
+
+	<!--post title-->
+	<h1 id="post-25">Privacy policy</h1>
+			
+	<!--page text-->
+	<p>Liquor.com Holdings, Inc. (”Liquor.com”) takes very seriously the private nature of your personal information. It is the goal of Liquor.com to bring you information that is relevant and targeted to your individual needs and, at the same time, protect your privacy. This Privacy Policy describes how we treat the information we collect when you visit our Web site and/or register for our email publication. Please read this notice carefully.</p>
+<h2>PERSONAL INFORMATION</h2>
+<p>In order to distribute our email publication, we need your e-mail address. So that we may provide you with additional services as well as more interesting and relevant content, we may request additional information, including your name, zip code and telephone number. Liquor.com does not collect any other personal information that you do not expressly provide. LIQUOR.COM WILL NOT DISCLOSE YOUR PERSONAL INFORMATION TO ANY THIRD PARTY WITHOUT YOUR CONSENT, EXCEPT TO A THIRD PARTY AS REQUIRED TO HELP US DISTRIBUTE OUR EMAIL PUBLICATION.</p>
+<h2>NON-PERSONAL INFORMATION</h2>
+<p>We may also request non-personally identifiable information, for example, annual income, buying preferences, and age. This information, also known as demographic and profile data, is optional. We may use this data to improve our site and/or personalize your experience at our site, in order to bring you more targeted and relevant content and to display such content according to your preferences. We may share this information with others, such as advertisers interested on advertising on the Liquor.com site but never on an individual level. This information will only be shared in an aggregate, anonymous form, which means that the information will not contain any personally identifiable information about you or any other person. However, we reserve the right to use aggregated, anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.</p>
+<h2>USAGE INFORMATION</h2>
+<p>In addition to collecting personal and non-personal information, Liquor.com may also collect non-personal, aggregated information about subscribers’ use of our emails and our site. This information is not personally identifiable and will only be used to find out how subscribers use our service and site. For example, this information will tell us how much time users spend on our site, from which other sites subscribers came, and to what other sites subscribers go. The collection of this information allows us to, among other things, prepare for traffic load demands and to efficiently distribute our email publication.</p>
+<h2>REVIEW AND ACCESS</h2>
+<p>You will have the ability to access the information that we have collected about you. You will have an opportunity to correct, update or modify this information.</p>
+<h2>CHOICE/OPT-OUT</h2>
+<p>If we ever send you information by e-mail concerning new products or services that you did not expressly request, we will provide you with an e-mail address by which you may request no future notices.</p>
+<h2>THIRD PARTY ADVERTISING</h2>
+<p>Some of the ads appearing on this Web site are delivered to you by our web advertising partners. Information about your visit to their site, such as number of times you have viewed an ad (but not your name, address or other personal information), is used to serve ads to you.</p>
+<h2>TRACKING &amp; THIRD PARTY COOKIES</h2>
+<p>You may have read about “cookies” or bits of information that are placed by a Website in a storage place on your own computer. As with most other Web sites, the Liquor.com does use cookies but only to allow us to quickly check your status as a subscriber and facilitate access to your preferences. Some of our advertisers may serve you cookies as well. Unfortunately, we do not have control over cookies placed by advertisers. If you don’t want cookies, your Web browser likely includes an option that allows you to not accept them.</p>
+<h2>IP ADDRESS</h2>
+<p>Your Internet Protocol (”IP”) address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university. We may, from time to time, use your IP address to help diagnose problems with our server, gather broad demographic information and administer our Website.</p>
+<h2>Parental Discretion</h2>
+<p>Liquor.com is not intended for use by children, especially those under age 13. No one under age 13 is allowed to use the site, provide any personal information or receive our email distributions. Minors between the ages of 13 and 17 must get the permission of their parent(s)or legal guardian(s) before viewing the website.&nbsp; No one under the age of 21 is allowed to receive our emails.</p>
+<h2>LINKS TO OTHER SITES</h2>
+<p>As part of the service, Liquor.com may create links allowing you to access third party sites. Liquor.com is not responsible for the content that appears on those sites and does not endorse these sites. Please consult those sites’ individual privacy policies in order to determine how they treat user information.</p>
+<h2>SECURITY</h2>
+<p>All information described above is stored on restricted database servers.</p>
+<h2>MODIFICATION TO THIS POLICY</h2>
+<p>Liquor.com reserves the right to change this policy from time to time, however, all changes will be posted to this Privacy Policy at the time such changes are made. The date of the most recent revisions will appear on this page so please check back.</p>
+<p>Please note that continued access of Liquor.com will constitute your acceptance of any changes or revisions to the Privacy Policy.</p>
+<p>Thank you for taking the time and interest to review our policies at Liquor.com. If you have concerns or questions about any aspect of the Liquor.com Privacy Policy, please contact us. We welcome your questions and feedback.</p>
+<p>Please send all emails to: <a title="info@liquor.com">info@liquor.com</a>.</p>
+<p>Thank you,</p>
+<p>Liquor.com</p>
+	
+	 
+    
+    </div><!--end post_class(); -->
+
+    	
+		
+</div><!-- page_content_container -->
+
+</div><!-- content -->
+<div id="sidebar">
+
+<!--sidebar.php-->
+
+<div id="text-3" class="widget widget_text">			<div class="textwidget"><div id="sidebar_social">
+<ul>
+<li><span class="sidebar_social_items_twitter"><a href="http://twitter.com/LiquorDotCom" title="Twitter" target="_blank">Follow us on Twitter</a></span></li>
+<li><span class="sidebar_social_items_facebook"><a href="http://www.facebook.com/pages/Liquorcom/196083225831" title="Facebook" target="_blank">Fan us on Facebook</a></span></li>
+</ul>
+</div></div>
+		</div><div id="searchunleashed-3" class="widget widget_search">		<form role="search" method="get" id="searchform" name="searchform" action="http://liquor.com/">
+			<div>
+				<input class="text" type="text" value="" name="s" id="s">
+				<input class="button-secondary" type="submit" id="searchsubmit" value="Search">
+							</div>
+		</form>
+	</div><div id="text-4" class="widget widget_text">			<div class="textwidget"><div id="sidebar_advert">
+<script type="text/javascript" language="javascript">CM8ShowAd("Box");</script>
+</div>
+</div>
+		</div><div id="text-10" class="widget widget_text">			<div class="textwidget"><div id="sidebar_advert">
+<!--/* Sweepery SiteIncent Tag (OpenX v2.8.4) */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?campaignid=83804&amp;what=liquor_00001");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?campaignid=83804&amp;what=liquor_00001&amp;cb=90546755610&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100529024033id_/http%3A//liquor.com/pages/privacy-policy/"></script><noscript><a href='http://d1.openx.org/ck.php?n=a374f41a&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://d1.openx.org/avw.php?campaignid=83804&amp;what=liquor_00001&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a374f41a' border='0' alt='' /></a></noscript>
+
+<!--/* END Sweepery SiteIncent Tag (OpenX v2.8.4) */-->
+</div>
+</div>
+		</div><div id="polls-widget-3" class="widget widget_polls-widget"><h5>Polls</h5><div id="polls-8" class="wp-polls">
+	<form id="polls_form_8" class="wp-polls-form" action="/pages/privacy-policy/" method="post">
+		<p style="display: none;"><input type="hidden" name="poll_id" value="8"></p>
+		<div id="poll_text_container"><img src="/wp-content/themes/main/images/Poll-Logo-Image.jpg" alt="Liquor.com Poll">
+Its going to be a great year for cocktails, tell Liquor.com what you think.
+<br><br><center><strong>How do you like to drink your Scotch?</strong></center><br></div>
+
+<div id="polls-8-ans" class="wp-polls-ans"><ul class="wp-polls-ul">
+		<li><input type="radio" id="poll-answer-28" name="poll_8" value="28"> <label for="poll-answer-28">Straight</label></li>
+		<li><input type="radio" id="poll-answer-29" name="poll_8" value="29"> <label for="poll-answer-29">On the rocks</label></li>
+		<li><input type="radio" id="poll-answer-30" name="poll_8" value="30"> <label for="poll-answer-30">With a bit of water</label></li>
+		<li><input type="radio" id="poll-answer-31" name="poll_8" value="31"> <label for="poll-answer-31">With a bit of club soda or ginger ale</label></li>
+		<li><input type="radio" id="poll-answer-32" name="poll_8" value="32"> <label for="poll-answer-32">In cocktails</label></li>
+		</ul><p style="text-align: center;"><input type="button" name="vote" value="   Vote   " class="Buttons" onclick="poll_vote(8);"></p><p style="text-align: center;"><a href="#ViewPollResults" onclick="poll_result(8); return false;" title="View Results Of This Poll">View Results</a></p></div>
+	</form>
+</div>
+<div id="polls-8-loading" class="wp-polls-loading"><img src="http://liquor.com/wp-content/plugins/wp-polls/images/loading.gif" width="16" height="16" alt="Loading ..." title="Loading ..." class="wp-polls-image">&nbsp;Loading ...</div>
+</div>
+</div>
+</div><!-- content_container -->
+
+<!-- create an advert area -->
+<div id="bottom_advert_container">
+<div id="bottom_advert">
+<div id="text-8" class="widget widget_text"><div class="widgetTop"></div>			<div class="textwidget"><script type="text/javascript" language="javascript">CM8ShowAd("Bottom");</script></div>
+		</div></div><!-- bottom_advert -->
+</div><!-- bottom_advert_container -->
+</div><!-- container -->
+<div id="bottom_advert_bottom"></div>
+<div class="regcontainer" id="regbox">
+<div class="regcontainerbackground">&nbsp;</div>
+<div class="regpopup">
+<a href="javascript:regclose();" title="Close"><img class="regclosebutton" src="http://liquor.com/wp-content/plugins/vote-it-up/closebutton.png"></a>
+<h3>You need to log in to vote</h3>
+
+<p>The blog owner requires users to be <a href="http://liquor.com/wp-login.php" title="Log in">logged in</a> to be able to vote for this post.</p>
+<p>Alternatively, if you do not have an account yet you can <a href="http://liquor.com/wp-login.php?action=register" title="Register account">create one here</a>.</p>
+<p class="regsmalltext">Powered by <a href="http://www.tevine.com/projects/voteitup/" title="Vote It Up plugin">Vote It Up</a></p></div></div>
+</div><!-- shadow_fix -->
+
+<div id="footer_top"></div>
+<div id="footer">
+<div id="footer_widget_container">
+
+<!-- big list of widgets for footer -->
+<div class="footer_widget">
+<a href="/about/" title="About Liquor.com">About Us</a>
+</div>
+
+<div class="footer_widget">
+<a href="/about/team" title="Liquor.com Team">Team</a>
+</div>
+
+<div class="footer_widget">
+<a href="/pages/contact/" title="Contact Liquor.com">Contact Us</a>
+</div>
+
+<div class="footer_widget">
+<a href="/pages/editorial-policy/" title="Liquor.com Editorial Policy">Editorial Policy</a>
+</div>
+
+<div class="footer_widget">
+<a href="/pages/terms-and-conditions/" title="Terms and Conditions">Terms &amp; Conditions</a>
+</div>
+
+<div class="footer_widget">
+<a href="/pages/privacy-policy/" title="Privacy Policy">Privacy Policy</a>
+</div>
+
+<div class="footer_widget">
+<a href="/sitemap" title="Sitemap">Sitemap</a>
+</div>
+
+<div class="footer_widget">
+<a href="/pages/email-help/" title="Liquor.com Email Help">Email Help</a>
+</div>
+<!-- footer list end -->
+
+
+	
+<!-- Cached by DB Cache -->
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+<script type="text/javascript">
+FB_RequireFeatures(["XFBML"], function(){
+FB.Facebook.init("2ca4cd9e026334b95143409663c15fb8", "http://liquor.com/wp-content/plugins/fbconnect/xd_receiver.htm", { permsToRequestOnConnect : "email,read_stream" } );
+});
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var pollsL10n = {
+	ajax_url: "http://liquor.com/wp-content/plugins/wp-polls/wp-polls.php",
+	text_wait: "Your last request is still being processed. Please wait a while ...",
+	text_valid: "Please choose a valid poll answer.",
+	text_multiple: "Maximum number of choices allowed: ",
+	show_loading: "1",
+	show_fading: "1"
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/wp-polls/polls-js.js?ver=2.50"></script>
+<script type="text/javascript" src="http://liquor.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://liquor.com/wp-content/plugins/contact-form-7/scripts.js?ver=2.2"></script>
+<!--
+<p class="small"> WassUp 1.7.2.1 timestamp: 2010-05-28 06:40:32PM GMT+8 (06:40PM)<br />
+If above timestamp is not current time, this page is cached.</p> -->
+</div><!-- footer widget container -->
+
+<div id="footer_copyright">
+© 2009 Liquor.com. All Rights Reserved.
+</div><!-- footer copyright -->
+</div><!-- footer -->
+
+
+
+
+<script type="text/javascript">
+	// TODO: custom default text
+	var defaultText = "Enter your email address";
+</script>
+<div id="newsletter_overlay_container" style="position: absolute; left: -1000px; display: none;">
+
+<div id="newsletter_overlay">
+
+<!-- This is the dynamic header -->
+<div id="newsletter-overlay-header">
+Like to Drink? Sign Up Today!</div><!-- newsletter-overlay-header -->
+<!-- end -->
+
+<!-- right content -->
+<div id="newsletter_overlay_content_right">
+<div id="newsletter_overlay_right_container">
+
+
+
+<form class="newsletter-signup" id="newsletter-signup-overlay" action="/pages/privacy-policy/" target="_blank" method="post">
+<input type="hidden" name="newsletter" value="capture">
+	<div id="input_container">
+		<div id="input_container_left"><input type="text" id="newsletter-overlay-email" name="email" value="Enter your email address" onfocus="if(this.value==defaultText) { this.value = ''; }" onblur="if(this.value=='') { this.value = defaultText; }"></div><!-- input_container_left -->
+		<div id="input_container_right"><input type="submit" id="newsletter-overlay-capture" value="subscribe"></div><!-- input_container_right -->
+	</div><!-- input_container -->
+	<div id="newsletter-overlay-agree-tos">
+		<input type="checkbox" id="newsletter-overlay-agree" name="agree" value="yes">
+		<label for="newsletter-overlay-agree">I confirm that I am at least 21 years old.<br> <a href="/corporate-information/terms-and-conditions/" target="_blank" title="Terms and Conditions" class="terms">terms and conditions</a></label>
+	</div>
+</form>
+
+</div><!-- newsletter_overlay_content_right -->
+</div><!-- newsletter_overlay_right_container -->
+
+<div id="newsletter_overlay_content_left">
+<ul>
+<span class="ul_header">An expert guide delivered daily:</span>
+<li>Get inside the best bars</li>
+<li>Tips from the world's best bartenders</li>
+<li>Liquor picks from the leading experts</li>
+<li>Hollywood's most famous drinkers.</li>
+</ul>
+</div><!--newsletter_overlay_content_left -->
+<div id="newsletter-overlay-footer">
+<span class="newsletter-overlay-security">Liquor.com Security</span><br>
+<div class="newsletter-overlay-security-text">We take your privacy seriously. We will never share your email address with anyone.</div>
+</div><!-- newsletter-overlay-footer -->
+</div><!--newsletter_overlay-->
+</div><!--newsletter_overlay_container-->
+
+
+<div style="display: none;">
+
+<!-- Begin Adify tag for "Pixel" Ad Space (1x1) ID #1000001046007 -->
+<script type="text/javascript">
+                sr_adspace_id = 1000001046007;
+                sr_adspace_width = 1;
+                sr_adspace_height = 1;
+                sr_ad_new_window = true;
+                sr_adspace_type = "graphic";
+</script>
+<script type="text/javascript" src="http://ad.afy11.net/srad.js?azId=1000001046007">
+</script>
+<img height="1" width="1" border="0" src="http://aperture.displaymarketplace.com/audmeasure.gif?liveconclientID=3272765660196&amp;PageID=272&amp;EventType=view">
+<!-- End Adify tag for "Pixel" Ad Space (1x1) ID #1000001046007 -->
+
+<!--/* Sweepery SiteIncent (OpenX v2.8.4) */-->
+		<script type="text/javascript"><!--//<![CDATA[
+		   document.MAX_ct0 ='{clickurl}';
+
+		   var m3_u = (location.protocol=='https:'?'https://d1.openx.org/ajs.php':'http://d1.openx.org/ajs.php');
+		   var m3_r = Math.floor(Math.random()*99999999999);
+		   if (!document.MAX_used) document.MAX_used = ',';
+		   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+		   document.write ("?campaignid=122570&amp;what=l1pfl69d59xf4y_slideup_00001");
+		   document.write ('&amp;cb=' + m3_r);
+		   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+		   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+		   document.write ("&amp;loc=" + escape(window.location));
+		   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+		   if (document.context) document.write ("&context=" + escape(document.context));
+		   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+		       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+		   }
+		   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+		   document.write ("'><\/scr"+"ipt>");
+
+		//]]>--></script><script type="text/javascript" src="https://d1.openx.org/ajs.php?campaignid=122570&amp;what=l1pfl69d59xf4y_slideup_00001&amp;cb=12517518100&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100529024033id_/http%3A//liquor.com/pages/privacy-policy/"></script><noscript><a href='http://d1.openx.org/ck.php?n=a6993e91&amp;cb={random}' target='_blank'><img src='http://d1.openx.org/avw.php?campaignid=122570&amp;what=l1pfl69d59xf4y_slideup_00001&amp;cb={random}&amp;n=a6993e91&amp;ct0={clickurl}' border='0' alt='' /></a></noscript>
+<!--/* END Sweepery SiteIncent (OpenX v2.8.4) */-->
+<!-- end Sweepery JS -->
+
+
+<!-- Start Quantcast tag  ZRS 02.11.2010 -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-3d_GJ3dAgKSnQ"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-3d_GJ3dAgKSnQ.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+<!-- Adroll tag ZRS 02.15.10 -->
+<script type="text/javascript">
+	adroll_adv_id = "CCDGOYVNNJFIDHJY2KQBFF";
+	adroll_pix_id = "D5EMHMA74VGFBFTEVYEFB7";
+	(function () {
+		var scr = document.createElement("script");
+		var host = (("https:" == document.location.protocol) ? "https://c.adroll.com" : "http://c.adroll.com");
+		scr.setAttribute('async', 'true'); scr.type = "text/javascript";
+		scr.src = host + "/j/roundtrip.js";
+		document.documentElement.firstChild.appendChild(scr);
+	})();
+	</script>
+<!-- end Adroll -->
+
+<!-- ACH FB links to external -->
+
+<script type="text/javascript">
+	function externalLinks() {
+		var ach_href;
+		if (!document.getElementsByTagName) return;
+		var anchors = document.getElementsByTagName("a");
+		for ( var i=0; i < anchors.length; i++ ) {
+			var anchor = anchors[i];
+			ach_href = anchor.getAttribute("href");
+			if ( ach_href && ach_href.indexOf("facebook.com") != -1 ) {
+				anchor.target = "_blank";
+			}
+			else{
+				//anchor.target = "_self";
+			}
+		}
+	}
+	window.onload = externalLinks;
+</script>
+
+<!-- end ACH FB links to external -->
+
+
+
+</div></body></html>
