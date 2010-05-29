@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403085323id_/http%3A//newtonrunning.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newtonrunning.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529122734id_/http%3A//www.newtonrunning.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Newton Running - Privacy Policy
 
@@ -23,8 +23,8 @@ We collect Personal Information that you submit to us voluntarily through our Si
   * Order details (excluding credit card information)
   * Order history
   * Shipping details
-  * Cookie settings (“remember me”)
-  * [We send the IP address to CyberSource, but we don’t keep it]
+  * Cookie settings ("remember me")
+  * [We send the IP address to CyberSource, but we do not keep it]
 
 
 
@@ -34,7 +34,7 @@ For all visitors: As you navigate our Site, certain information will also be pas
 
 An " **Internet Protocol Address** " or " **IP Address** " is a number that is automatically assigned to your computer when you use the Internet. In some cases your IP Address stays the same from browser session to browser session; but if you use a consumer internet access provider, your IP Address probably varies from session to session. We track IP Addresses solely in conjunction with session cookies to analyze our web page flow. For instance, we use your IP address to help diagnose problems with our server, and to administer our Site. Additionally, your IP address may be used to gather broad demographic information (e.g., number of users from Mexico).
 
-" **Cookies** " are small pieces of information that a web site sends to your computer’s hard drive while you are viewing a web site. Newton may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. We use cookies to simplify the login process (e.g., if you want Newton to 'remember you', so that you don't need to sign in the next time you visit the site). In order to use the Newton services offered through the Site, your web browser must accept cookies. If you choose to disable Cookies, some areas of the Site may not work properly, and you will not be able to receive Newton services.
+" **Cookies** " are small pieces of information that a web site sends to your computer's hard drive while you are viewing a web site. Newton may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them) to provide you with a more personal and interactive experience on the Site. Persistent Cookies can be removed by following Internet browser help file directions. We use cookies to simplify the login process (e.g., if you want Newton to 'remember you', so that you don't need to sign in the next time you visit the site). In order to use the Newton services offered through the Site, your web browser must accept cookies. If you choose to disable Cookies, some areas of the Site may not work properly, and you will not be able to receive Newton services.
 
 ### USE OF PERSONAL INFORMATION
 
@@ -48,11 +48,11 @@ We may share some or all of your Personal Information with our Affiliates (i.e.,
 
 We may use third parties to facilitate or outsource one or more aspects of the services that we provide to you and therefore we may provide some Personal Information directly to these service providers. These service providers are subject to confidentiality agreements with us that prohibit their use or disclosure of the information we provide them for any purpose other than to facilitate the specific outsourced service.
 
-We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Newton; or (b) protect and defend the rights or property of Newton or users of our Site. 
+We may disclose your Personal Information if we believe in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants served on Newton; or (b) protect and defend the rights or property of Newton or users of our Site.
 
 ### YOUR CHOICES REGARDING YOUR PERSONAL INFORMATION
 
-We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to “opt-out.” You may unsubscribe by following an "Unsubscribe" link provided in the footer of each email message from Newton. If you unsubscribe, your address will no longer be listed in the publisher-accessible mailing list.
+We offer you choices regarding the collection, use and sharing of your Personal Information. When you receive newsletters or promotional communications from us, you may indicate a preference to stop receiving further communications from us and you will have the opportunity to "opt-out." You may unsubscribe by following an "Unsubscribe" link provided in the footer of each email message from Newton. If you unsubscribe, your address will no longer be listed in the publisher-accessible mailing list.
 
 Despite your indicated e-mail preferences, we may send you administrative e-mails regarding our products or notices of any updates to our Privacy Policy.
 
@@ -81,14 +81,13 @@ To change and modify information previously provided, registered users may visit
 Should you have any questions or concerns regarding this Privacy Policy, please contact us:
 
 Newton Running Company  
-1919 14th Street  
-Suite 100  
+1300 Walnut St., Suite 100  
 Boulder, CO 80302  
 (877) 860-7695  
 [motion@newtonrunning.com](mailto:motion@newtonrunning.com)
 
 ### PRIVACY POLICY UPDATES
 
-This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Site. Continued use of our Site following notice of any such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
+This Privacy Policy is subject to occasional revision, and if we make any substantial changes in the way we use your Personal Information, we will post an alert on this page. If you object to any such changes, you must cease using our Site. Continued use of our Site following notice of any such changes shall indicate your acknowledgment of such changes and agreement to be bound by the terms and conditions of such changes.
 
 _Last Updated March 2007_
