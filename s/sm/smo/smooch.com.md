@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218212833id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smooch.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529110207id_/http%3A//www.smooch.com/free-online-dating/Privacy-Statement.asp) for the most accurate reproduction.*
 
 # Completely Free Dating at Smooch.com™
 
@@ -7,7 +7,7 @@ collect about you and what we do with it. Please take a few minutes to read it.
 
 1\. Who are we?
 
-Smooch.com, owned by MakeFriendsOnline Ltd (“We”), run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. MakeFriendsOnline Ltd will hereby be referred to as Smooch.com for the purposes of this Privacy Statement.
+Smooch.com, owned by WooWise Ltd (“We”), run this site for use by members (“you”). We are registered with the UK Information Commissioner as a data controller and we try our best to comply with the Data Protection Act 1998. MakeFriendsOnline Ltd will hereby be referred to as Smooch.com for the purposes of this Privacy Statement.
 
 2\. What information do we collect about you and what do we use it for?
 
@@ -73,8 +73,6 @@ We may use third-party advertising companies to display ads on our website. Thes
 If you don’t want us to place cookies on your computer at all, you can set your browser to disable or reject cookies. This will mean that no websites will be able to place cookies on your computer. You can do this by adjusting the preferences within your browser. This may mean, however, that you will not be able to enjoy full use of our service.
 
 If you want to remove previously-stored cookies, you can manually delete the cookies at any time. This will not prevent websites from placing further cookies on your computer.
-
-To find out exactly how to disable/ remove, please go to <http://www.allaboutcookies.org/manage-cookies/index.html>
 
 6\. Transferring your data outside Europe
 
