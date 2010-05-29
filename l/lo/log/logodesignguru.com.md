@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230083801id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignguru.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529224717id_/http%3A//www.logodesignguru.com/Logo-design-privacy-policy/privacy_policy.asp) for the most accurate reproduction.*
 
 # Logo Design Guru: Expert Logo Design and Graphic Designs
 
