@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003222604id_/http%3A//www.cellhut.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellhut.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529060726id_/http%3A//www.cellhut.com/privacy.asp) for the most accurate reproduction.*
 
-# Cellhut.Com - Your Privacy
+# CellHut.com's Privacy Policy: How CellHut.com handles your information.
 
 Contact Information To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us: [info@cellhut.com](mailto:info@cellhut.com)
 
