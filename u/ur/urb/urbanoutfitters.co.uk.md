@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410082625id_/http%3A//www.urbanoutfitters.co.uk/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529041625id_/http%3A//www.urbanoutfitters.co.uk/Help-and-Info/Privacy-Policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Urban Outfitters - Privacy Policy
 
@@ -16,4 +16,4 @@ Urban Outfitters complies with the standards, procedures and requirements detail
 
 A cookie is a small data file that is temporarily stored by your browser on your computer’s hard drive. The Urban Outfitters website uses a number of cookies to operate. The website uses cookies to help Urban Outfitters gather marketing information on website usage.
 
-[Return to Help/Info](http://www.urbanoutfitters.co.uk/page/helpandinfo)
+[Return to Help/Info](http://www.urbanoutfitters.co.uk/Pages/Help-Info/page/helpandinfo)
