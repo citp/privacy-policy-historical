@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126182754id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shankman.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529212300id_/http%3A//shankman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Home of Peter Shankman – Shankman.com
 
@@ -10,13 +10,13 @@ SHANKMAN.COM™ PRIVACY POLICY STATEMENT
 
 ### COMPANY
 
-Shankman.com™ is owned and run by Peter Shankman (”Shankman” “Shankman.com” or “us”). To contact us with questions about this privacy policy, e- mail us at email us at info at Shankman dot com, or via postal mail at Peter Shankman, c/o Jerry S. Goldman, Esquire, Anderson Kill & Olick, P.C., 1251 Avenue of the Americas, New York, New York 10020 USA (+1-212-278-1000).
+Shankman.com™ is owned and run by Peter Shankman (“Shankman” “Shankman.com” or “us”). To contact us with questions about this privacy policy, e- mail us at email us at info at Shankman dot com, or via postal mail at Peter Shankman, c/o Jerry S. Goldman, Esquire, Anderson Kill & Olick, P.C., 1251 Avenue of the Americas, New York, New York 10020 USA (+1-212-278-1000).
 
 ### SCOPE
 
-Peter Shankman d/b/a Shankman.com™ (”Shankman.com”), has adopted this Privacy Policy to inform its customers and others about how it protects personally identifiable information and other information that may be collected when users visit the Shankman.com web site.
+Peter Shankman d/b/a Shankman.com™ (“Shankman.com”), has adopted this Privacy Policy to inform its customers and others about how it protects personally identifiable information and other information that may be collected when users visit the Shankman.com web site.
 
-This Privacy Policy covers Shankman.com’s treatment of personal or personally identifiable information (”Personal Information”) that may be collected when you are on the Shankman.com website, and when you use the services of Shankman.com. The privacy of your nonpublic information is important to us. This includes, but is not limited to, your name, email address and any other personally identifiable information. We use safeguards to protect your privacy and confidentiality. This Policy Statement discusses information we collect and the manner in which it is used.
+This Privacy Policy covers Shankman.com’s treatment of personal or personally identifiable information (“Personal Information”) that may be collected when you are on the Shankman.com website, and when you use the services of Shankman.com. The privacy of your nonpublic information is important to us. This includes, but is not limited to, your name, email address and any other personally identifiable information. We use safeguards to protect your privacy and confidentiality. This Policy Statement discusses information we collect and the manner in which it is used.
 
 ### INFORMATION COLLECTION
 
