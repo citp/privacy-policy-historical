@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rushlane.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128183725id_/http%3A//www.rushlane.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rushlane.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529193345id_/http%3A//www.rushlane.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rush Lane
 
