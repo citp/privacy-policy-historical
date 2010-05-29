@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218235352id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noozhawk.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529200229id_/http%3A//www.noozhawk.com/privacy_policy) for the most accurate reproduction.*
 
 # Noozhawk.com - Santa Barbara News and Information
 
@@ -22,11 +22,11 @@ If you sign up to receive Noozhawk’s e-Bulletin, you may also receive infreque
 
 **Surveys**
 
-We may conduct voluntary surveys of visitors to our sites (noozhawk.com or classihawk.com) to collect certain demographic information. This information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals. We may use the e-mail address you provided us for the distribution of other announcements. Users can choose to unsubscribe (opt-out) from any mailing lists we create, at any time, by following the unsubscribe instructions found in each e-mail.
+We may conduct voluntary surveys of visitors to our sites (noozhawk.com or classihawk.com) to collect certain demographic information. This information may be compiled and shared in the aggregate with advertisers and other third parties, but no personal details will be traceable or associated with specific individuals.
 
 **Contests**
 
-We may sponsor contests or other events that require the collection, processing and storage of certain contact and demographic information (e.g., place of residence) for use as part of the contest. Sometimes these contests may be jointly sponsored with other companies or organizations. In that case, the user’s contact and other information will be shared with the other entity only if it is expressly stated in the rules of the contest.
+We may sponsor contests or other events that require the separate collection, processing and storage of certain contact and demographic information (e.g., place of residence) for use as part of the contest. Sometimes these contests may be jointly sponsored with other companies or organizations. In that case, the user’s contact and other information will be shared with the other entity only if it is expressly stated in the rules of the contest.
 
 However, such contests may include the option to receive e-mail from our partners regarding their products or services. If you sign up for such an e-mail list, we will release your e-mail address to our partner for the purpose of such mailings, and only for that purpose. We will not release any of your other personal information to that partner. If you do not sign up for such an e-mail list, our partners will receive no information on you — including your e-mail address — even if you enter the associated contest or promotion.
 
