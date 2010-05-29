@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710024005id_/http%3A//www.heartinternet.co.uk/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heartinternet.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529110840id_/http%3A//www.heartinternet.co.uk/privacy-policy.html) for the most accurate reproduction.*
 
 # Heart Internet Privacy Policy
 
 **Heart Internet Limited ("we") are committed to protecting and respecting your privacy.**   
-This policy (together with our terms of use [http://www.heartinternet.co.uk/websiteuse.shtml](https://web.archive.org/web/20090710024005id_/http%3A//www.heartinternet.co.uk/terms/hi-websiteuse.html), terms and conditions of supply [http://www.heartinternet.co.uk/termshi.shtml](https://web.archive.org/web/20090710024005id_/http%3A//www.heartinternet.co.uk/terms/hi-terms.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
+This policy (together with our terms of use [http://www.heartinternet.co.uk/websiteuse.shtml](https://web.archive.org/web/20100529110840id_/http%3A//www.heartinternet.co.uk/terms/hi-websiteuse.html), terms and conditions of supply [http://www.heartinternet.co.uk/termshi.shtml](https://web.archive.org/web/20100529110840id_/http%3A//www.heartinternet.co.uk/terms/hi-terms.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
 For the purposes of the Data Protection Act 1998 (the "Act"), the data controller is Heart Internet Limited of 2 Castle Quay, Nottingham NG7 1FW. 
 
@@ -63,13 +63,7 @@ For the purposes of the Data Protection Act 1998 (the "Act"), the data controlle
 
 **4.2** If you have placed an order for our services, we will use the information we hold to send you our regular newsletter. This newsletter is our primary method of communicating with you and will inform you of changes to our site, notify you of planned outages and updates to our services, and keep you informed about our services generally. By placing an order for our services, you consent to us using the information we hold about you in this way.
 
-**4.3** We may also use your information, or permit selected third parties to use your information, to provide you with details about goods and services which may be of interest to you and we or they may contact you about these by email, post or telephone.
-
-**4.4** If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
-
-**4.5** If you are a new customer, and where we permit selected third parties to use your information, we (or they) will contact you by electronic means only if you have consented to this.
-
-**4.6** If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data.
+**4.3** If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
 5\. Disclosure of your information
 
@@ -79,7 +73,7 @@ For the purposes of the Data Protection Act 1998 (the "Act"), the data controlle
 
 **5.2.1** in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets; or
 
-**5.2.2** if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [http://www.heartinternet.co.uk/websiteuse.shtml](https://web.archive.org/web/20090710024005id_/http%3A//www.heartinternet.co.uk/terms/hi-websiteuse.html) or terms and conditions of supply [http://www.heartinternet.co.uk/termshi.shtml](https://web.archive.org/web/20090710024005id_/http%3A//www.heartinternet.co.uk/terms/hi-terms.html) and other agreements; or to protect our rights, property, or safety, or that of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+**5.2.2** if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use [http://www.heartinternet.co.uk/websiteuse.shtml](https://web.archive.org/web/20100529110840id_/http%3A//www.heartinternet.co.uk/terms/hi-websiteuse.html) or terms and conditions of supply [http://www.heartinternet.co.uk/termshi.shtml](https://web.archive.org/web/20100529110840id_/http%3A//www.heartinternet.co.uk/terms/hi-terms.html) and other agreements; or to protect our rights, property, or safety, or that of our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 6\. Disclosure of your information
 
