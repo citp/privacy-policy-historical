@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the girlgamesclub.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203032805id_/http%3A//www.girlgamesclub.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlgamesclub.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529091014id_/http%3A//www.girlgamesclub.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy By Girl Games Club
 
-This is the official privacy policy ("Privacy Policy") for girlgamesclub.com ("Site," "we," "us," or "our"), an Internet website owned and operated by FPS Networks, Inc (FPS). This Privacy Policy governs only the personally identifiable information ("Personal Information") collected by the Site. FPS is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online. 
+This is the official privacy policy ("Privacy Policy") for girlgamesclub.com ("Site," "we," "us," or "our"), an Internet website owned and operated by GCLUB Networks, Inc (GCLUB). This Privacy Policy governs only the personally identifiable information ("Personal Information") collected by the Site. GCLUB is committed to protecting your privacy online. To further this commitment, we have adopted an Online Privacy Policy that guides how we collect, store, and use the information collected about you online. 
 
 **Personal Information**  
 girlgamesclub.com is committed to protecting your privacy online. girlgamesclub.com does not collect any personal information. 
