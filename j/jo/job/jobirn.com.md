@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230051610id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobirn.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529142042id_/http%3A//jobirn.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy|Your Insider Referral Network- Jobirn
 
   
 
 
-## **Last Updated:** August 08, 2009
+## **Last Updated:** April 2, 2010
 
 At InsidersReferral.com, Inc. ("Jobirn" or "we"), we know you are concerned about your privacy, so we developed this Privacy Policy to explain how we collect, use, share and disclose your Personal Information. 
 
@@ -25,7 +25,7 @@ According to the member type you choose, we also require you to enter other info
 
 **_Information about your Contacts:_**
 
-In order to invite others to connect with you directly or get recommended from others in Jobirn, you will enter their names and IM/email addresses. This information will be used by Jobirn to send your invitation including a message that you write. The names and IM/email addresses of people that you invite will be used only to send your invitation and reminders. 
+In order to invite others to connect with you directly or get recommended from others in Jobirn, you will need to enter their names and IM/email addresses. This information will be used by Jobirn to send your invitation including a message that you write. The names and IM/email addresses of people that you invite will be used only to send your invitation and reminders. 
 
 **_Cookies, Log Files & IP Address:_**
 
@@ -46,31 +46,35 @@ Use of our invitation or get recommended service to tell a friend about our Site
 
 **_Use of Personally Identifiable Information by Other Users:_**
 
-Other Users will be able to search and view the personally identifiable information that you provide on your profile, except your contact information and resume (could search, but can't view). Only your targeted referrers or recruiters could view your resume, for the purpose of employment. 
+Other users will be able to search and view the personally identifiable information that you provide on your profile, except your contact information and resume (could search, but can't view). Only your targeted referrers or recruiters could view your resume, for the purpose of employment. 
 
-Other users may choose to contact you. However, to ensure your privacy, Jobirn will not display or give out your IM/email address or any other contact information to other users on the site. We have developed a process that uses a "double-blind" email system, which hides the IM/email addresses of both the sender and recipient of messages to protect the privacy of both the sender and receiver. When using the process on the site, it is up to you to choose when you are comfortable disclosing your IM/email address, or any other contact information, to others through private communications. 
+Other users may choose to contact you, and you may choose to contact other users. Jobirn has developed a process that uses a "double-blind" email system, which hides the IM/email addresses of both the sender and recipient of messages to protect the privacy of both the sender and receiver. When using the process on the site, it is up to you to choose when you are comfortable disclosing your IM/email address, or any other contact information, to others through private communications. 
 
-Similarly, you may contact other Users on the site, and Jobirn will hide your IM/email address by using the "double-blind" email process on the site. Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other. 
+Your contact information will only be shared with another user if both of you have indicated that you would like to establish contact with each other. 
 
 ## **Information Sharing and Disclosure**
 
-We do not disclose information about your individual visits to Jobirn, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties, except when we believe the law requires it and otherwise as described in this Privacy Policy. But, we may record and share aggregated information with our partners. We may send your contact information to third party companies, in order to fulfill a service, if that service is provided by third party companies. In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
+We do not disclose personal information about your individual visits to Jobirn, or personal information that you provide, such as your name, address, e-mail address, telephone number, credit card number, etc., to any outside parties without your permission, except when we believe the law requires it and otherwise as described in this Privacy Policy or if you affirmatively consent to our doing so. If you choose to receive a service offered on Jobirn, and if that that service is provided by a partner or third-party company (e.g. education opportunity, resume services which are provided by third parties), personal information about you (such as your contact information and other information collected during your visit to Jobirn) may be shared with those partners to the extent necessary for them to provide these services. These third party service providers are only allowed to use personally identifiable information for the purpose of providing the specific services.
+
+In addition, if we sell all or part of our business or make a sale or transfer of all or a material part of our assets or are otherwise involved in a merger or transfer of all or a material part of our business, we may transfer your personal information to the party or parties involved as part of that transaction. 
 
 ## **Update/Delete Your Information and Preferences**
 
-We reserve the right to send you certain communications relating to the Jobirn service, such as service announcements, administrative messages and the Jobirn Newsletter, that are considered part of your Jobirn account, without offering you the opportunity to opt out of receiving them. 
+We reserve the right to send you certain communications relating to the Jobirn service, such as service announcements, administrative messages and the Jobirn Newsletter, that are considered "transactional or relationship" messages, or otherwise part of your Jobirn account, without offering you the opportunity to opt out of receiving them. 
 
 You can delete your Jobirn account by clicking on "Close account" in "Setting" tab after you login. Jobirn may retain your information for our own records. 
 
 ## **Confidentiality and Security**
 
-We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs. 
+We use reasonable security measures to protect personal information from unauthorized use, alteration, and disclosure. We restrict access of your personal information from our employees, unless we believe it is reasonably necessary to do their jobs.
 
-We fully comply with federal regulations to protect personal information about you. 
+##  **Links to Other Sites**
 
-## **Changes to this Privacy Policy**
+This site contains links to other sites (including co-branded links). Please be aware that Jobirn does not exercise control over the information, products, services or policies of third party companies accessible through our site. We encourage our users to be aware when they leave our site and to read the privacy policies of each and every third party site. This Privacy Policy applies solely to the information collected by this site.
 
-Jobirn may update this policy. We will change the way we treat personal information without any prior notice. 
+##  **Changes to this Privacy Policy**
+
+Jobirn reserves the right to update this Privacy Policy at any point. Users will always have access to our current Privacy Policy by visiting [jobirn.com](http://jobirn.com/). If we change this Privacy Policy, we will notify users by posting notice on our site or by notice sent using contact information we have on file, and will update the "last updated" date at the top of this Privacy Policy. If we make a change that is materially less restrictive upon our use and disclosure of personal information that we collected prior to the effective date of the change, we will notify users as described above and will seek consent before using or disclosing any previously-collected information in a manner that would violate the prior privacy policy. 
 
 ## **Questions and Suggestions**
 
