@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230232831id_/http%3A//www.anandtech.com/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anandtech.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529110903id_/http%3A//www.anandtech.com/Home/Terms) for the most accurate reproduction.*
 
-# AnandTech
+# Terms - AnandTech :: Your Source for Hardware Analysis and News
 
-**Privacy Policy of AnandTech, Inc.**
+Privacy Policy of AnandTech, Inc.
 
 AnandTech, Inc. recognizes the importance of protecting the privacy of you as a user of this Website. This Website does not collect Personal Information about you except for information that you voluntarily provide (for example, when you submit an email to us with comments about our web site or products reviewed on the web site and you do not specifically indicate that the information contained within is to be considered confidential or provide answers to a voluntary readership survey.) We do set cookies from time to time to better gage our readership level. No Personal Information is gathered via these cookies. 
 
