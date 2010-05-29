@@ -1,25 +1,36 @@
-> *The following text is extracted and transformed from the lm.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218165214id_/http%3A//www.justgive.org/about-us/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lm.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529023913id_/http%3A//www.kiva.org/legal/privacy) for the most accurate reproduction.*
 
-# JustGive.org - About Us | Privacy
+# Kiva - Loans that change lives
 
-JustGive and the nonprofit organizations listed on our site understand your concerns about privacy on the Internet and take them very seriously. Online giving through us is strictly permission-based: _**You**_ control the use of your name, your personal information, and your donation. 
+**_Privacy Policy (Last Updated June 8, 2009)_**
 
-Like other nonprofit organizations dependent on visitors, such as museums and libraries, we will collect only aggregate information on the number and frequency of visits to various parts of our site so we can make improvements and increase your satisfaction with our services. This type of information is also helpful to the nonprofit organizations listed on our website since they, too, can use the aggregate data to improve their own services. 
+  1. Kiva will not rent or sell your personal information to third parties.
+  
 
-Our goal is to connect you with the charities that you care about in the most convenient, secure manner possible. 
+  2. By establishing an account on Kiva, you agree to receive emails based on your account activity (for example, confirmations of loans you have made, confirmation receipts for donations you have made, notifications of loan repayments you have received, statements on the amount of credit available in your Kiva account, confirmation of email address or password changes, or customer service inquiries regarding activity in your account).
+  
 
-  * We never sell, share, or disclose any personal information about you.
-  * When you donate to a charity through us, we collect only enough information about you to process your donation. Even then, we will not disclose your name, email address, or other personal information to the charity without your permission.
-  * As our credit card processing company, Cybersource is not authorized to retain, share, store, or use your personal information.
+  3. By default, you will receive update emails on your loans that are sent by our field partners through the Website. Kiva will not disclose your email address to our partners in any case -- these emails are sent through a webform without any third party learning your address. You can choose not to receive these emails through a preference on the Website.
+  
+
+  4. By default, you may receive periodic newsletter emails from Kiva. The frequency of these newsletters may vary but will be no greater than once per month. You can choose not to receive these newsletters through a preference on the Website.
+  
+
+  5. Kiva will not disclose your personally identifiable lending activity to any third party without consent. Kiva reserves the right to record and display anonymous lending activity on the Website and display the general regions where our lenders are located.
+  
+
+  6. Kiva's service providers may be provided access to your personally identifiable information incident to their provision of services to Kiva. All such access shall be under appropriate confidentiality agreements and limited to use to provide services to Kiva.
+  
+
+  7. If you follow any links which remove you from the Website, this Privacy Policy no longer applies. Kiva does not control the privacy policies or the privacy practices of any third parties. 
+  
+
+  8. This Website is intended to be used by adults. It is not intended for children, and Kiva does not want to collect any personal information for users who are under the age of 13. Kiva recommends that parents do not post, or permit others to post, any personally identifiable information with respect to persons under the age of 13. 
+  
+
+  9. Kiva may update or modify this Privacy Policy from time to time. If any changes are made, Kiva will reflect the date on which any such changes are made and posted by updating the "last updated" date at the top of the page. Please be sure to check this page periodically for changes. This Privacy Policy was last changed and posted on our Website on June 8, 2009. 
+  
+
+  10. We take privacy seriously and we value yours. 
 
 
-
-JustGive uses Secure Sockets Layer (SSL) online technology, which encrypts the data you provide. This means that sensitive information, such as your credit card number, becomes unreadable to anyone who wrongly intercepts the information. SSL is supported by all major Web browsers, including Microsoft Internet Explorer and Netscape Navigator. The site becomes locked while you are giving us your credit card information and unlocks only when you leave the secured area. To know when you are going to a secure area of a website, you can set your browser to notify you. (If you are using Internet Explorer, go to Tools > Internet Options > Advanced, and scroll down to the section called Security. Then check the box that says "Warn if changing between Secure and not Secure mode.") Other ways to know if you are in a secure mode is to look for a gold key or a gold padlock in the bottom right-hand corner of your browser window. Also, when you are in a secure area, the address bar at the top of your window will indicate "https" as opposed to "http." 
-
-You can click on the image below to check the validity of our sites certificate and Secure Sockets Layer: 
-
-_Please Note:_ We may update our policy in the future. If we do, we will post the updated information immediately. For more information, please [contact us](https://web.archive.org/about-us/contact/index.jsp). 
-
-[](https://web.archive.org/about-us/tell-a-friend.jsp)
-
-   
