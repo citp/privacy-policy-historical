@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the mappery.com privacy policy that was archived on 2009-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090401130818id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mappery.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529035807id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,6 +7,8 @@
 	<meta name="title" content="real life map collection">
 	<meta name="description" content="mappery is a diverse collection of real life maps contributed by map lovers worldwide. Find and explore maps by keyword, location, or by browsing a map.">
 	<meta name="keywords" content="mappery, map collection, map directory, map archive, mapery, trail maps">
+	<meta http-equiv="X-UA-Compatible" content="IE=8">
+	<meta http-equiv="MSThemeCompatible" content="no">
 	<script src="/js/jquery.js" type="text/javascript"></script>
 	<script src="/js/global.js" type="text/javascript"></script>
 	<script src="/js/session.js" type="text/javascript"></script>
@@ -14,84 +16,103 @@
 	<script src="/js/jquery.form.js" type="text/javascript"></script>
 	<script src="/js/popup.js" type="text/javascript"></script>
 	<script src="/js/dialog.js" type="text/javascript"></script>
-	<script src="http://maps.google.com/maps?file=api&amp;v=2.x&amp;key=ABQIAAAAXrSBqoi6y9fb67DkphhvphSlYk2l3TTt2DoW7IG0VWnGKUvt4BQA_MjmIw5p-v1_6ql3GwGSxV6uDA" type="text/javascript"></script>
-	<script src="/js/maps.js" type="text/javascript"></script>
+
 	<script src="/js/actions.js" type="text/javascript"></script>
-	<script src="http://adserver.lat49.com/lat49/lat49.php?ver=1.0" type="text/javascript"></script>
-	<script type="text/javascript">
-window.lat49_ads = new Object();
-//console.log();
-$(document).ready(function(){
-	var publisherId = 645;
-	Lat49.initAds(publisherId);
-	if (typeof map_changed == 'function')
-		setTimeout(function(){ map_changed() }, 1000);
-	$(document).bind('mapchanged', function(e){
-		//console.info("lat "+e.lat+" lng "+e.lng+" zoom "+e.zoom);
-		//console.dir(window.lat49_ads);
-		try {
-			Lat49.updateMultiAdsByLatLon(window.lat49_ads, e.lat, e.lng, e.zoom);
-		}catch(e){};
-	});
-});
-	</script>
-	<script type="text/javascript">var sid = "58r7u50b5q0cbhopi7eceub8o1";</script>
+	<script src="http://maps.google.com/maps?file=api&amp;v=2&amp;sensor=false&amp;key=ABQIAAAAXrSBqoi6y9fb67DkphhvphSlYk2l3TTt2DoW7IG0VWnGKUvt4BQA_MjmIw5p-v1_6ql3GwGSxV6uDA" type="text/javascript"></script>
+	<script src="/js/maps.js" type="text/javascript"></script><script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+  GS_googleAddAdSenseService("ca-pub-2868140543533702");
+  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+  GA_googleAddSlot("ca-pub-2868140543533702", "leaderboard");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Directory_BelowScroll_300x250");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Directory_Top_728x90");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Fullsize_Bottom_728x90");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Map_AboveScroll_300x250");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Map_BelowScroll_300x250");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Map_Bottom_728x90");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_Map_Top_728x90");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_User_Bottom_728x90");
+  GA_googleAddSlot("ca-pub-2868140543533702", "Mappery_User_Top_728x90");
+</script>
+<script type="text/javascript">
+  GA_googleFetchAds();
+</script>
+	<script type="text/javascript">var sid = "9h1nrpbk12haaef16lmqr8up62";</script>
 	<link rel="alternate" type="application/rss+xml" title="RSS" href="/feeds/new-maps.php">
 
 	<link rel="stylesheet" href="/global.css" type="text/css" media="all">
 	<!--[if IE]>
 	<link rel="stylesheet" href="/ie.css" type="text/css" media="all" />
 	<![endif]-->
+	<!--[if lte IE 7]>
+	<link rel="stylesheet" href="/ie7.css" type="text/css" media="all" />
+	<![endif]-->
+	<link rel="stylesheet" href="/mpy3.css" type="text/css" media="all">
+	<!--[if gte IE 8]>
+	<link rel="stylesheet" href="/ie8.css" type="text/css" media="all" />
+	<![endif]-->
 	<link rel="stylesheet" href="/popup.css" type="text/css" media="all">
 	<link rel="stylesheet" href="/dialog.css" type="text/css" media="all">
-<script type="text/javascript">
-$(document).bind('sessionchanged', function(){
-	$.get("/session.php?is-admin", function(d){
-		d.match(/true/) ? $("body").addClass("is-admin")
-		                : $("body").removeClass("is-admin")
-	}, "text");
-});
-</script></head>
+	<script src="/js/mpy3.js" type="text/javascript"></script>
 
-<body class=""><div id="header">
+	<script type="text/javascript">
+	$(document).bind('sessionchanged', function(){
+		$.get("/session.php?is-admin", function(d){
+			d.match(/true/) ? $("body").addClass("is-admin")
+			                : $("body").removeClass("is-admin")
+		}, "text");
+	});
+	</script>
+</head>
+
+<body class="">
+<div id="header">
 	<div id="session-info">Signed out</div>	<script type="text/javascript">
 	$(document).bind('sessionchanged', function(){
 		$('#session-info').load("/session.php?session-info");
 	});	
 	</script>
-	<img class="left" src="/images/header-left-tall.gif">
 	<div id="logo"><a href="/"><img src="/images/logo.png"></a></div>
-	<div id="leaderboard"><!-- BEGIN RICH-MEDIA Burst Network CODE -->
-<script type="text/javascript" language="JavaScript">
-rnum=Math.round(Math.random() * 100000);
-ts=String.fromCharCode(60);
-if (window.self != window.top) {nf=''} else {nf='NF/'};
-document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/v=2.3S/sz=728x90A/'+rnum+'/'+nf+'RETURN-CODE/JS/">'+ts+'/script>');
-</script><script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/v=2.3S/sz=728x90A/45718/NF/RETURN-CODE/JS/"></script><noscript><a href="http://www.burstnet.com/ads/ad16637a-map.cgi/ns/v=2.3S/sz=728x90A/" target="_top">
-<img src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/ns/v=2.3S/sz=728x90A/" border="0" alt="Click Here" /></a>
-</noscript>
-<!-- END Burst Network CODE -->
+	<div id="leaderboard"><script type="text/javascript">
+  GA_googleFillSlot("leaderboard");
+</script>
+<script type="text/javascript">
+  adjustNavLeaderboard("leaderboard");
+</script>
 </div>
-	<div id="topnav">
+	<!--div id="leaderboard"><img src="/images/leaderboard-ad-sample.jpg" /></div-->
+	<div id="topnav"><img class="before buttonify-edge" src="/images/b/topnav-L-edge.png">
 		<form class="search" name="compactsearch" method="GET" action="/searchmap.php" onsubmit="return compactSearch()">
-		<a class="clear" href="#" onclick="$(this).next().val('').focus(); return false">×</a>
-		<input name="kw" type="text" class="info">
+		<button class="nodeco"><img src="/images/magnifying-glass.png"></button>
+		<input name="kw" type="text" value="" class="info">
 		<input name="locLat" type="hidden" value="">
 		<input name="locLong" type="hidden" value="">
-		<button>Search</button>
+		<button class="clear" onclick="$(this).next().val('').focus(); return false"><img class="active-before buttonify-edge" src="/images/b/button-active-L-edge.png"><img class="before buttonify-edge" src="/images/b/button-L-edge.png">×<img class="active-after buttonify-edge" src="/images/b/button-active-R-edge.png"><img class="after buttonify-edge" src="/images/b/button-R-edge.png"></button>
 		</form>
-		<a href="/searchmap.php">Browse&nbsp;Maps</a>
-		<a href="/maps.php?region=World">Map&nbsp;Directory</a>
-		<a href="/community.php">Community</a>
-		<a href="/add.php">Add&nbsp;Map!</a>
-		<span id="user-links"><a onclick="return false" class="sign-in" href="/sign-in.php">Sign In / Up</a></span>
+		<a href="/searchmap.php?limit=60" class=""><img class="before buttonify-edge" src="/images/b/topnav-L-edge.png"><img class="hover-before buttonify-edge" src="/images/b/topnav-hover-L-edge.png"><img class="active-before buttonify-edge" src="/images/b/topnav-active-L-edge.png"><img class="visiting-before buttonify-edge" src="/images/b/topnav-visiting-L-edge.png"><!--img class="picletter-normal" src="/images/14pt/explore-darkgrey.png" /><img class="picletter-focus" src="/images/14pt/explore-white.png" /-->Explore&nbsp;Maps<img class="active-after buttonify-edge" src="/images/b/topnav-active-R-button-side.png"></a><a href="/maps.php" class="">Map&nbsp;Directory</a><a href="/community.php" class="">Contributors</a><a href="/add.php" class="">Add&nbsp;Map!</a><span id="user-links"><a onclick="return false" class="sign-in" href="/sign-in.php">Sign In / Up</a></span>
 		<script type="text/javascript">
+		function nav_set_visiting() {
+			var here = "/privacy.php";
+			here = here.replace(/[?#]$/, "");
+			$("#topnav a").each(function(){
+				var _ = $(this);
+				var visiting = "visiting";
+				if (_.attr('href') == here)
+					_.addClass(visiting);
+				else
+					_.removeClass(visiting);
+			});
+		}
+		nav_set_visiting();
 		$(document).bind('sessionchanged', function(){
 			$("#user-links").load("/session.php?user-links", function(){ $(this).session_associate() });
+			nav_set_visiting();
 		});
 		</script>
-	</div>
-	<img class="right" src="/images/header-right-tall.gif">
+	<img class="after buttonify-edge" src="/images/b/topnav-R-edge.png"></div>
 </div>
 
 <div id="container">
@@ -102,7 +123,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/
 		<h1>Privacy Policy</h1>
 
 
-<p>Effective <b>November 19, 2008</b>
+<p>Effective <b>Sep 30, 2009</b>
 							
 </p><p>Your privacy is important to us.  To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and every page on the site.
 		
@@ -110,9 +131,25 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/
 					<p>This notice applies to all information collected or submitted on the mappery website. On some pages, you can search for maps, add maps and associated metadata to the website, add comments, and add tags.  Your name (or nickname) may optionally be provided by you and will be displayed only if you submit it to mappery.  When you sign up for mappery, you must provide a username and password.  The username that you select is made visible on the mappery site.  Your email address and password will never be shared with external parties.  Any information you choose to provide on your personal map page will be visible to everyone.  Please don't put self-identifying information in your map room profile that you do not want the general public to see.  When logged in to mappery, all comments and maps you add will be shown in your map room.  Your level of contributions to the site will be reflected in a publicly visible ranking.
 		
 					</p><h2>The way we use information</h2>
-				
-					<p>We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
-					</p><p>We never use or share any personally identifiable information provided to us online.
+					<p>We never use or share any personally identifiable information provided to us online.
+					</p><p>We use non-identifying and aggregate information to better design our website and to share with advertisers.
+					</p><p>We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by our advertising partner Google in particular, <a href="http://www.google.com/privacy_ads.html">click here.</a>
+					
+					
+					</p><h2>Advertising cookies</h2>
+<p>This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary,
+to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement
+impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other
+monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by
+or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network,
+please see Travel Ad Network's privacy policy <a href="http://www.traveladnetwork.com/content/view/56/79/">here</a>.
+
+
+</p><p>Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting
+cookies at any time by clicking these links:
+</p><p>To opt out of TravelAdvertising.com, go <a href="http://www.traveladnetwork.com/content/view/56/79/">here</a>.
+</p><p>To opt out of Atlas (Microsoft Advertising), go <a href="http://www.atlassolutions.com/optout.aspx">here</a>.
+			
 		
 					</p><h2>Our commitment to data security</h2>
 
@@ -124,7 +161,7 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/
 		
 		
 					</p><h2>How to contact us</h2>
-					<p>Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:support@mappery.com">privacy@mappery.com</a>.</p>
+					<p>Should you have other questions or concerns about these privacy policies, please send us an email at <a href="mailto:info@mappery.com">info@mappery.com</a>.</p>
 			
 
 	</div>
@@ -134,22 +171,39 @@ document.write(ts+'script src="http://www.burstnet.com/cgi-bin/ads/ad16637a.cgi/
 </div><!--container-->
 
 <div id="footer">
-<img class="left" src="/images/footer-left.gif">
+<!--img class="left" src="/images/footer-left.gif" /-->
+<table id="dirmatter">
+<tbody><tr><th>Maps by City</th><th>Maps by Country</th><th>Maps by Continent</th><th>Top Map Keywords</th></tr>
+<tr>
+<td><ul><li><a title="San Francisco maps" href="/city-maps-San-Francisco">San Francisco</a></li><li><a title="London maps" href="/city-maps-London">London</a></li><li><a title="Beijing maps" href="/city-maps-Beijing">Beijing</a></li><li><a title="Bakersfield maps" href="/city-maps-Bakersfield">Bakersfield</a></li><li><a title="Seattle maps" href="/city-maps-Seattle">Seattle</a></li><li><a title="San Diego maps" href="/city-maps-San-Diego">San Diego</a></li><li><a title="Shanghai maps" href="/city-maps-Shanghai">Shanghai</a></li><li><a title="Los Angeles maps" href="/city-maps-Los-Angeles">Los Angeles</a></li><li><a title="Chicago maps" href="/city-maps-Chicago">Chicago</a></li><li><a title="Bangkok maps" href="/city-maps-Bangkok">Bangkok</a></li></ul></td>
+<td><ul><li><a title="United States maps" href="/maps-United-States">United States</a></li><li><a title="Canada maps" href="/maps-Canada">Canada</a></li><li><a title="China maps" href="/maps-China">China</a></li><li><a title="United Kingdom maps" href="/maps-United-Kingdom">United Kingdom</a></li><li><a title="France maps" href="/maps-France">France</a></li><li><a title="Italy maps" href="/maps-Italy">Italy</a></li><li><a title="Thailand maps" href="/maps-Thailand">Thailand</a></li><li><a title="Australia maps" href="/maps-Australia">Australia</a></li><li><a title="Japan maps" href="/maps-Japan">Japan</a></li><li><a title="India maps" href="/maps-India">India</a></li></ul></td>
+<td><ul><li><a title="World Maps maps" href="/maps-World">World Maps</a></li><li><a title="Africa maps" href="/maps-Africa">Africa</a></li><li><a title="Antarctica maps" href="/maps-Antarctica-continent">Antarctica</a></li><li><a title="Asia maps" href="/maps-Asia">Asia</a></li><li><a title="Europe maps" href="/maps-Europe">Europe</a></li><li><a title="North America maps" href="/maps-North-America">North America</a></li><li><a title="Oceania maps" href="/maps-Oceania">Oceania</a></li><li><a title="South America maps" href="/maps-South-America">South America</a></li><li><a title="Other maps" href="/maps-Other">Other</a></li></ul></td>
+<td><ul><li><a title="city maps" href="/tagsmap.php?tag=city">city</a></li><li><a title="park maps" href="/tagsmap.php?tag=park">park</a></li><li><a title="skiing maps" href="/tagsmap.php?tag=skiing">skiing</a></li><li><a title="state park maps" href="/tagsmap.php?tag=state park">state park</a></li><li><a title="ski area maps" href="/tagsmap.php?tag=ski area">ski area</a></li><li><a title="trails maps" href="/tagsmap.php?tag=trails">trails</a></li><li><a title="hiking maps" href="/tagsmap.php?tag=hiking">hiking</a></li><li><a title="country maps" href="/tagsmap.php?tag=country">country</a></li><li><a title="island maps" href="/tagsmap.php?tag=island">island</a></li><li><a href="http://nileguide.com" target="_blank">Travel Guide</a></li></ul></td>
+</tr>
+</tbody></table>
+
+<div class="pagespanner"><img class="before buttonify-edge" src="/images/b/topnav-L-edge.png">
 <div class="container">
-<span>© 2009 mappery.com</span>
 <ul class="left-side">
+<!--span>&copy; 2010 mappery.com</span-->
+<a href="/"><img src="/images/minilogo.png" style="margin-top:-7px;margin-bottom:-11px;margin-left:20px"></a>
 <li><a href="/terms.php">Terms</a></li>
 <li><a href="/privacy.php">Privacy</a></li>
 </ul>
 <ul>
-<li><a href="/">Home</a></li>
+<!--li><a href="/">Home</a></li-->
 <li><a href="/about.php">About</a></li>
 <li><a href="/faq.php">Help</a></li>
+<li><a href="/sitemap.html">Sitemap</a></li>
 <li><a href="http://mappery.wordpress.com">Blog</a></li>
-<li><a href="/about.php">Contact</a></li>
+<li><a href="http://www.facebook.com/#!/pages/mapperycom/44781259215?ref=ts" target="_blank"><img class="icon" src="/images/facebook-icon.png" alt="Facebook">Facebook</a></li>
+<li><a href="http://twitter.com/mappery" target="_blank"><img class="icon" src="/images/twitter-icon.png" alt="Twitter">Twitter</a></li>
+<!--li><a href="http://nileguide.com" target="_blank">Trip Planner</a></li-->
+<!--li><a href="/about.php">Contact</a></li-->
 </ul>
 </div><!--container-->
-<img class="right" src="/images/footer-right.gif">
+<img class="after buttonify-edge" src="/images/b/topnav-R-edge.png"></div>
+<!--img class="right" src="/images/footer-right.gif" /-->
 </div><!--footer-->
 
 
