@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528222435id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ampfutures.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530001906id_/http%3A//www.ampfutures.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy: Security and Disclosure of Amp Futures - futures, options and forex trading
 
@@ -51,7 +51,7 @@ If you do not wish to have your personal information disclosed to our affiliates
   
 AMP Trading LLC.   
 Attention: Privacy Officer   
-155 N. Michigan Avenue ste.615   
+221 N. LaSalle Street ste. 2400   
 Chicago, IL 60601 
 
 There is a risk of loss in trading futures and options. Futures trading is not appropriate for all investors. Please read our Risk Disclosure and Privacy Policy. 
