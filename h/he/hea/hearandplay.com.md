@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224124408id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hearandplay.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529200441id_/http%3A//www.hearandplay.com/main/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hear and Play Music Learning Center
 
 This is the web site of **Hear and Play Music**.
 
 Our postal address is  
-**15771 Rockfield Blvd. Ste 250**
+**1901 Carnegie Avenue Suite F**  
+**Santa Ana, CA 92705**
 
-**Irvine, CA 92618-2847**
-
-We can be reached via e-mail at [ webmaster@hearandplay.com](mailto:webmaster@hearandplay.com)  
-or you can reach us by telephone at 949-206-9591 / 949-206-9592
+We can be reached via e-mail at [ webmaster@hearandplay.com](mailto:webmaster@hearandplay.com)
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
@@ -53,4 +51,4 @@ If you feel that this site is not following its stated information policy, you m
 
 Popularity: 2% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
 
-Welcome back! It looks like you're a regular! Thanks for your support and keep coming! ([Getting updates yet?](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2290008))
+If you're new here, you may want to subscribe to my [RSS feed](http://feeds.feedburner.com/hearandplay) for regular updates. If you'd rather subscribe by e-mail, [click here](http://www.feedburner.com/fb/a/emailverifySubmit?feedId=2290008). Thanks for visiting.
