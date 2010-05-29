@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202055413id_/http%3A//www.alphasights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alphasights.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529173222id_/http%3A//www.alphasights.com/privacy-policy/index.html) for the most accurate reproduction.*
 
 # AlphaSights - Privacy Policy
 
@@ -52,7 +52,7 @@ Individuals are entitled to request from AlphaSights their personal information 
 
 As a Registered User you are required to regularly update your biographical and employment information, which you warrant to be true and up to date as per the Terms and Conditions. You may review the information you have provided and update such information at any time by logging on to your dashboard on the Site(s).
 
-Any Individual wishing to unsubscribe altogether from our services should contact a href="mailto:unsubscribe@alphasights.com">unsubscribe@alphasights.com. Unless agreed otherwise, Individuals who have unsubscribed shall cease to be a Registered User or Client of AlphaSights and may no longer use the Site(s) or any of the services provided by us. To the extent possible and reasonable, we will cease contacting Individuals who have unsubscribed, but will retain their information for a reasonable period or as long as required by applicable legislation. You should also note that we may require retention of certain information to prevent fraud or for any legitimate purposes subject to any and all such retained information continuing to be subject to this _Privacy Policy_ you have previously agreed to.
+Any Individual wishing to unsubscribe altogether from our services should contact a href="mailto:unsubscribe@alphasights.com"unsubscribe@alphasights.com. Unless agreed otherwise, Individuals who have unsubscribed shall cease to be a Registered User or Client of AlphaSights and may no longer use the Site(s) or any of the services provided by us. To the extent possible and reasonable, we will cease contacting Individuals who have unsubscribed, but will retain their information for a reasonable period or as long as required by applicable legislation. You should also note that we may require retention of certain information to prevent fraud or for any legitimate purposes subject to any and all such retained information continuing to be subject to this _Privacy Policy_ you have previously agreed to.
 
 ### Security
 
