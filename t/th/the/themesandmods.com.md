@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219134705id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themesandmods.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529181423id_/http%3A//www.themesandmods.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy, Themes & Mods
+# Privacy Policy, Themes and Mods
 
 This website routinely collects information about its visitors, subscribers, members, and customers. This information is obtained in various ways, such as:
 
@@ -12,7 +12,7 @@ This website routinely collects information about its visitors, subscribers, mem
 
 Any communication which, in its sole discretion, the site deems to be a testimonial, may be publicized for commercial purposes.
 
-**Site Advertisers:** Visitors clicking on banners or hyperlinked advertising appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that premiumwptools.com does not have any control over what happens with this information, (4) that premiumwptools.com takes no responsibility over the accuracy or content of advertisers, (5) that premiumwptools.com is not responsible for downloads from third party advertisers that contain viruses, worms, malwares, trojans or other computer code that causes their computer or software harm, and (6) that premiumwptools.com assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
+**Site Advertisers:** Visitors clicking on banners or hyperlinked advertising appearing on this website must assume that information is being collected about them. This site is not responsible for the use of information collected in such a fashion. Visitors must assume that (1) information will be collected, (2) that ‘cookies’ will usually be placed on their hard drive, (3) that themesandmods.com does not have any control over what happens with this information, (4) that themesandmods.com takes no responsibility over the accuracy or content of advertisers, (5) that themesandmods.com is not responsible for downloads from third party advertisers that contain viruses, worms, malwares, trojans or other computer code that causes their computer or software harm, and (6) that themesandmods.com assumes no responsibility for the data that is garnered from the click itself or that the advertiser collects.
 
 **Surveys and/or Ratings:** Unless otherwise specified, you must assume that any information provided to the website as part of a survey and/or rating in which you participate may be used for general solicitation for commercial purposes and that such information will be shared with joint venture partners, affiliates, marketing organization or used by the site itself for product design or solicitation purposes.
 
