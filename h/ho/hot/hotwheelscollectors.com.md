@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotwheelscollectors.com privacy policy that was archived on 2009-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091009191211id_/http%3A//www.hotwheelscollectors.com/site/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotwheelscollectors.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529094714id_/http%3A//www.hotwheelscollectors.com/site/privacypolicy.aspx) for the most accurate reproduction.*
 
 # HWC™ | Agreements, Terms & Conditions | Online Privacy Policy
 
