@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225032605id_/http%3A//www.franchisesolutions.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the franchisesolutions.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530003754id_/http%3A//www.franchisesolutions.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# Franchise Information, Franchises for Sale & Business Opportunities
+# Franchise Solutions Privacy Policy
 
   
 Franchise Solutions strongly believes in keeping your personal information confidential. Any information that you provide to us is used to enhance your experience at our web site and to help expedite the process of identifying a business opportunity that meets your criteria. 
