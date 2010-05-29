@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2009-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090806024127id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripmama.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529144425id_/http%3A//www.tripmama.com/default.aspx%3Ftabid%3D62) for the most accurate reproduction.*
 
 # TripMama Privacy Policy
 
@@ -44,18 +44,4 @@ top
 ---  
 If you no longer wish to receive our newsletter you may opt-out of receiving them by following the instructions included in each newsletteor by contacting us at the address below. You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.  
 top  
-|   
----  
-|   
----  
-If you have questions or concerns regarding this privacy policy, you should first contact  
-**Customer Service**  
-  
-One Penn Plaza  
-P.O. Box 6246  
-New York, NY 10001  
-[feedback@tripmama.com](mailto:feedback@tripmama.com).
-
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at [ http://www.truste.org/consumers/watchdog_complaint.php](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with us to resolve your concerns.  
-  
 Privacy Policy last updated on 13 August 2007
