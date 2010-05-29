@@ -1,25 +1,19 @@
-> *The following text is extracted and transformed from the abcfamily.go.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221732id_/http%3A//disney.go.com/corporate/privacy/pp_wdig.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcfamily.go.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529033025id_/http%3A//corporate.disney.go.com/corporate/pp_abcfamily.html) for the most accurate reproduction.*
 
-# Privacy Policy for Walt Disney Internet Group | Legal | WDIG | Disney.com
+# The Walt Disney Company - Privacy Policy for Walt Disney Internet Group
 
-|  |   
----  
-Walt Disney Internet Group  
-[](http://disney.go.com/corporate/privacy/kids.html?ppLink=pp_wdig)  
-[](http://disney.go.com/corporate/privacy/safety.html?ppLink=pp_wdig)  
-[](http://disney.go.com/corporate/legal/terms.html?ppLink=pp_wdig)  
-[](https://web.archive.org/web/20091230221732id_/http%3A//disney.go.com/corporate/privacy/previous.html?ppLink=pp_wdig)  
-|  |  |   
----  
-Privacy Policy/Your California Privacy Rights  
-Welcome! Below you will find the privacy policy for the Walt Disney Internet Group. As a reminder, the WDIG privacy policy was updated on November 6, 2003. If you registered prior to that date and have not accepted the updated WDIG privacy policy, please refer to the previous WDIG privacy policy.  
-|  |  |  |  | WDIG Privacy Policy |  |   
----|---|---|---|---  
----  
+| 
+
+Privacy Policy/Your California Privacy Rights
+
+Welcome! Below you will find separate privacy policies for the Walt Disney Internet Group (WDIG) and ABC Family. The privacy policy for WDIG applies to all information collected on this site. The privacy policy for ABC Family applies to certain information collected directly by ABC Family, including through offline transactions.
+
+As a reminder, the WDIG privacy policy was updated on November 6, 2003. If you registered prior to that date and have not accepted the updated WDIG privacy policy, please refer to the previous WDIG privacy policy. 
+
 **Effective: 08/08/2007**
 
-For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, we at the Walt Disney Internet Group are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles.  
-  
+For over 75 years, The Walt Disney Company has taken great pride in the relationships that it has developed with its guests. In keeping with this tradition, we at the Walt Disney Internet Group are dedicated to protecting your privacy and handling any personal information we obtain from you with care and respect. This Privacy Policy is designed to answer your questions regarding our privacy policies and principles. 
+
 | Q1. | What information does this Privacy Policy cover?  
 ---|---  
 A1. | Except as specifically described below in A2 and A6, this Privacy Policy applies only to personally identifiable information collected on the Web sites where this Privacy Policy is posted and does not apply to any other information collected by The Walt Disney Family of Companies through any other means. 
@@ -133,13 +127,13 @@ back to top of policy
 Q8. | How will you know if we amend this Privacy Policy?  
 A8. | We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use, and/or share your personal information, we will notify you of such amendment by sending you an e-mail at the last e-mail address that you provided us, and/or by prominently posting notice of such amendment on the Web sites covered by this Privacy Policy. Any such amendment to this Privacy Policy will be effective thirty (30) calendar days following either our dispatch of an e-mail notice to you or our posting of notice of the changes on the Web sites covered by this Privacy Policy. Please note that, at all times, you are responsible for updating your personal information to provide us your current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the amendment described in the notice. In any event, an amendment to this Privacy Policy may permit material changes in the way we use and share personal information that you provided us prior to our notification to you of such amendment. If you do not wish to allow such material changes, you must so notify us (in the manner we specify) prior to the effective date of the amendment. If you provide us this notice, we may choose to deactivate your account. Please be advised, however, that, regardless of whether you provide such notice to us, any such amendment to this Privacy Policy will apply to any personal information that you provide us on or after the effective date of such amendment. 
 
-We amended our original privacy policy on November 6, 2003. For guests who registered on our Web sites prior to November 6, 2003 and have not accepted the terms and conditions of this Privacy Policy, personally identifiable information associated with their registration will continue to be handled under our original privacy policy. To read our original privacy policy, please [click here](http://disney.go.com/corporate/privacy/previous.html). 
+We amended our original privacy policy on November 6, 2003. For guests who registered on our Web sites prior to November 6, 2003 and have not accepted the terms and conditions of this Privacy Policy, personally identifiable information associated with their registration will continue to be handled under our original privacy policy. To read our original privacy policy, please [click here](https://web.archive.org/web/20100529033025id_/http%3A//corporate.disney.go.com/corporate/previous.html). 
 
 The Walt Disney Internet Group is a licensee of the TRUSTe Privacy Program. If you believe that we have not responded to your inquiry or your inquiry has not been satisfactorily addressed, please contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php.   
   
 back to top of policy  
 Q9. | What additional privacy protections do we provide for children under the age of 13 who visit our sites?  
-A9. | We recognize the need to provide additional privacy protections for children who visit our sites. To read about our protections for children who are under the age of 13, please [click here](http://disney.go.com/corporate/privacy/kids.html).   
+A9. | We recognize the need to provide additional privacy protections for children who visit our sites. To read about our protections for children who are under the age of 13, please [click here](https://web.archive.org/web/20100529033025id_/http%3A//corporate.disney.go.com/corporate/kids.html).   
 back to top of policy  
   
 * * *
@@ -154,4 +148,57 @@ WDIG CA Privacy Rights
 Mail Code 7663  
 Burbank, CA 91521-7716 
   
-back to top of page  
+  
+back to top of page  
+  
+---  
+Privacy Policy for  International Family Entertainment, Inc.   
+|  |  |   
+---  
+**Effective Date: 1/1/05**  
+This Privacy Policy is designed to answer your questions regarding our privacy practices and principles. The above-named subsidiary of The Walt Disney Company is referred to in this Privacy Policy as "we," "us," "our" and "ourselves." In keeping with the traditions of The Walt Disney Company, we refer to our customers as "guests." When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual's name, postal address, e-mail address and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." Finally, the terms of this Privacy Policy are subject to all applicable laws.  
+|  Scope of Privacy Policy   
+---  
+Q1. | What information does this Privacy Policy cover?  
+A1. | This Privacy Policy applies to all personally identifiable information that we collect, on or after the effective date of this Privacy Policy, from individuals who provide us such information for the purpose of obtaining from us a product or service primarily for personal, family or household purposes. This Privacy Policy also applies to all personally identifiable information that we obtain from the Walt Disney Internet Group ("WDIG") on or after the effective date of this Privacy Policy.   
+back to top of policy  
+Information We Collect   
+Q2. | What types of personal information may we collect?  
+A2. | We may collect various types of personal information. For example, we may receive personal information that comes directly from guests who are interested in obtaining various products and services from us. This information may include the guest's name, postal address, e-mail address and telephone number. We also may collect other types of information such as gender, age, number of children, and personal interests, which we may associate with personal information. If you purchase products or services from us, we may note, for example, credit card information, the type of services or products ordered or purchased, and the date of the order or purchase. In addition, we may collect personal information from you if you participate in sweepstakes, contests, games and promotional offers.   
+back to top of policy  
+  
+  
+Q3. | How may we use and share your personal information that we collect?  
+A3. | We may use and share your personal information collected under this Privacy Policy in a variety of ways, including, for example: 
+
+  * We may send you promotional materials, and we may share your personal information with other subsidiaries of The Walt Disney Company and third parties so that they can send you promotional materials. (By "promotional materials," we mean communications that directly promote the purchase of products or services.) These promotional materials may concern our products and services, and/or the products and services of another subsidiary of The Walt Disney Company or a third party. These promotional materials may be sent to you by postal mail, e-mail or other means. 
+  * We may use your personal information for purposes other than sending you promotional materials. For example, we may use your information to complete transactions requested by you, or to send you administrative communications about any account you may have with us or about future changes to this Privacy Policy. 
+  * We may take your personal information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). We may use this non-personally identifiable information for, among other purposes, research and analysis to improve our products and services. 
+  * We may hire companies to help deliver products or services, like a shipping company that delivers a package or a company that helps fulfill prizes for a sweepstakes. In those instances, there is a need to share your information with these companies. Sometimes we also may work with other companies who help either gather your information or communicate with you. 
+  * We may disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce contest, sweepstakes, promotions and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or protect the safety and security of us, other subsidiaries of The Walt Disney Company, and/or third parties, including the safety and security of property that belongs to us, other subsidiaries of The Walt Disney Company or third parties. 
+
+From time to time, we may offer you the opportunity to "opt in" to, or to "opt out" from, certain uses by us of your personal information and/or our sharing of your personal information with other subsidiaries of The Walt Disney Company and/or third parties.   
+back to top of policy  
+Information We Obtain from WDIG   
+Q4. | What types of personal information may we obtain from WDIG?  
+A4. | We may obtain from WDIG the same types of personal information that we collect directly from our guests, as described in A2 of this Privacy Policy.   
+back to top of policy  
+  
+  
+Q5. | How may we use and share personal information that we obtain from WDIG?  
+A5. | You may have provided personal information online to WDIG. Our use and sharing of personal information regarding you that we obtain from WDIG is subject to WDIG's privacy policy (the "WDIG Privacy Policy") and any choices you made under that privacy policy (including the choices described in A4 of that privacy policy). To read the WDIG Privacy Policy, click here.   
+back to top of policy  
+Amendments to Privacy Policy   
+Q6. | How will you know if we amend this Privacy Policy?  
+A6. | We may amend this Privacy Policy at any time. If we amend this Privacy Policy to permit material changes in the way we collect, use and/or share your personal information, we will notify you of such changes by sending you an e-mail at the last e-mail address that you provided to us, and/or by prominently posting notice of the changes on our Web site. Any such material changes to this Privacy Policy will be effective thirty (30) calendar days following either our dispatch of an e-mail notice to you or our posting of notice of the changes on our Web site. Any such material changes to this Privacy Policy may affect our use and sharing of personal information that you provided to us before our notification to you of the changes. If you do not wish to permit material changes in our collection, use or sharing of personal information that you have provided to us before the effective date of such changes, you must so notify us before that effective date. Please be advised, however, that, regardless of whether you provide such notice to us, the changes to this Privacy Policy will apply to any personal information that you provide to us on or after the effective date of such changes.   
+back to top of policy  
+California Privacy Rights   
+Q7. | Do California residents have special rights?  
+A7. | Beginning on January 1, 2005, California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [caprivacy.ife@twdc.com](mailto:caprivacy.ife@twdc.com) or write us: 
+
+International Family Entertainment, Inc. d/b/a ABC Family  
+Attention: Disclosure Request IFE  
+P.O. Box 723  
+Neenah, WI 54957-0723 
+  
+back to top of policy
