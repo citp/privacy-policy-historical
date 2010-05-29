@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230124id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbproads.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529063914id_/http%3A//cbproads.com/privacy.asp) for the most accurate reproduction.*
 
 # Privac Policy of Clickbank Pro Ads.com (CbProAds.com)
 
@@ -6,17 +6,20 @@
 ---|---  
 |  |   
 ---  
-| 1st Nov 2009   
+|  28th Mar 2010   
+Now you will be able to add any script in between ** <HEAD>...</HEAD> ** tag of your storefront. Access **Storefront Set Up Wizard** and click on **Settings** link of Storefront Version 2.0 on your members area, for more information.
+
+1st Nov 2009   
 Storefront Version 2.0 has been introduced. You can customize almost everything in this new storefront. Click [here](http://cbproads.com/clickbankstorefront/theme1/sf.asp?id=15750) to see a demo.
 
 23rd Jul 2009   
 More powerful functionalities have been added to the StoreFront. Your StoreFront will be automatically updated with the new features added.
 
 9th Feb 2009   
-Widget Ad has been introduced. Please click [here](https://web.archive.org/web/20091230230124id_/http%3A//cbproads.com/widgets_demo.asp) for a demo.
+Widget Ad has been introduced. Please click [here](https://web.archive.org/web/20100529063914id_/http%3A//cbproads.com/widgets_demo.asp) for a demo.
 
 21st Sep 2008   
-**List Image Ad** has been introduced. Now you can show up to 12 products on a single ad block using this flexible powerful ad format. [Demo](https://web.archive.org/web/20091230230124id_/http%3A//cbproads.com/list_demo.asp)>>>
+**List Image Ad** has been introduced. Now you can show up to 12 products on a single ad block using this flexible powerful ad format. [Demo](https://web.archive.org/web/20100529063914id_/http%3A//cbproads.com/list_demo.asp)>>>
 
    
 ---  
