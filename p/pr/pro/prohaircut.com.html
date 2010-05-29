@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the prohaircut.com privacy policy that was archived on 2009-05-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090514073158id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the prohaircut.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529204333id_/http%3A//www.prohaircut.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
 <meta http-equiv="Content-Language" content="en-us">
@@ -10,6 +10,10 @@
 <script type="text/javascript" src="/css/func.js"></script>
 <script type="text/javascript" src="/css/member.js"></script>
 <script type="text/javascript" src="/salons/functions.js"></script>
+<script type="text/javascript" src="/css/json_parse.js"></script>
+<script type="text/javascript" src="/css/jquery.js"></script>
+<script type="text/javascript" src="/css/jquery.textarearesizer.compressed.js"></script>
+<script type="text/javascript" src="/css/effect.js"></script>
 </head>
 <body>
 <div id="container">
@@ -20,6 +24,11 @@
 		</div>
 		<div id="logo_banner">
 		<div id="topads">
+<div id="new_msg" style="display:none;">
+<ul>
+<li><div class="slidel" id="msg_num"></div></li>
+</ul>
+</div>
 		<form class="search_f" action="/search.php" method="get" onsubmit="return quiksearch(this)">
 		<input name="refer" value="privacy_policy.html" type="hidden">
 		<img src="http://www.prohaircut.com/newimages/icondiv.gif" align="absmiddle" border="0"> <span id="joinus"><a href="/signin.php">Sign in</a>/<a href="/joinus.html">Join for FREE</a></span>
@@ -40,6 +49,12 @@
 <!--
 member_chk22('joinus');
 //Sign in/Join for FREE
+	var uu=member();
+	if(uu!=""){
+		get_new();
+	}else{
+		ge('new_msg').style.display="none";
+	}
 function quiksearch(t){
 	var is_ok=false;
 	if(t.keyword.value==""){
@@ -93,6 +108,59 @@ function quiksearch(t){
 <a href="/index.html">Home</a>
 <h1>Privacy Policy</h1>
 <p>This privacy statement discloses the types of information we gather, how we use it, and how to correct or change it. These privacy practices apply to the Web site that you were viewing when you clicked through to this policy.</p>
+<div id="show_icons">
+ <div id="list_icons">
+	<p>
+	<b class="subheader2">Comment and Share</b></p>
+	<div class="icon_addcomment"><a href="#say">Add your comment</a></div>
+	<!--<div class="icon_favorite"><a href="/favorite.php?id=297" rel="nofollow">Favorite it</a></div>-->
+	<div class="icon_email"><a href="javascript:void(0);" onclick="window.open('http://www.prohaircut.com/mailtofriend.php?t='+escape(document.title)+'&amp;r='+escape(document.location.href)+'','','width=500,height=400,scrollbars=yes,resizable=yes');" rel="nofollow">Email to friend</a></div>
+	<div class="icon_print"><a href="/print.php?id=297" rel="nofollow">Print</a></div>
+	<div class="icon_bkm"><a href="javascript:void(0);" id="bkp" title="BookMark" onmouseover="showTools(&quot;bmmenu&quot;,&quot;bkp&quot;,&quot;bmmenu&quot;);" onmouseout="rmTools(&quot;bmmenu&quot;);" rel="nofollow">Bookmark</a>
+	<!-- start bmk-->
+	<div class="pop">
+	<div style="top: 0px;" id="bmmenu" class="buryshare" onmouseover="showTools(&quot;bmmenu&quot;,&quot;bkp&quot;,&quot;bmmenu&quot;);" onmouseout="rmTools(&quot;bmmenu&quot;);">
+	<ul>
+	<li class="favorites"><a class="bmlink" href="javascript:void(0);" onclick="javascript:addfav(document.location.href,escape(document.title));"><img src="/images/bm/favorites.png" align="absmiddle" border="0"> Bookmark This</a></li>
+	<li class="google"><a class="bmlink" href="javascript:void(0);" onclick="window.open('https://www.google.com/accounts/ServiceLogin?hl=en&amp;continue=http://www.google.com/bookmarks/mark%3Fop%3Dadd%26bkmk%3D'+escape(encodeURIComponent(document.location.href))+'%26title%3D'+escape(encodeURIComponent(document.title))+'&amp;nui=1&amp;service=bookmarks','google'); return false;"><img src="/images/bm/goog.png" align="absmiddle" border="0"> Google</a></li>
+	
+	<li class="yahoo"><a class="bmlink" href="javascript:void(0);" onclick="window.open('https://login.yahoo.com/config/login?.intl=us&amp;.src=smw&amp;.pd=smw_ver%3d1&amp;.done=http%3A%2F%2Fmyweb.yahoo.com%2Fmyresults%2Fbookmarklet%3Fei%3DUTF-8%26u%3D'+document.location.href+'%252F%26t%3D'+escape(document.title),'yahoo'); return false;"><img src="/images/bm/yahoo-myweb.png" align="absmiddle" border="0"> Yahoo MyWeb</a></li>
+	<li class="live"><a class="bmlink" href="javascript:void(0);" onclick="window.open('https://favorites.live.com/quickadd.aspx?marklet=1&amp;mkt=en-us&amp;url='+document.location.href+'&amp;title='+escape(document.title)+'&amp;top=1','live'); return false;"><img src="/images/bm/live.gif" align="absmiddle" border="0"> Live</a></li>
+	<li class="digg"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://digg.com/submit?phase=2&amp;url='+document.location.href+'&amp;title='+escape(document.title)+'&amp;bodytext=A%20prohaircut.com%20Blog&amp;topic=Hair Cuts, Haircut Styles, Haircut Ideas, Home Haircuts','digg'); return false;"><img src="/images/bm/digg.png" align="absmiddle" border="0"> Digg</a></li>
+	<li class="delicious"><a class="bmlink" href="http://del.icio.us/post" onclick="window.open('http://del.icio.us/post?v=4&amp;noui&amp;jump=close&amp;url='+encodeURIComponent(location.href)+'&amp;title='+encodeURIComponent(document.title),'delicious','toolbar=no,width=700,height=400'); return false;"><img src="/images/bm/delicious.png" align="absmiddle" border="0"> Del.ico.us</a></li>
+	<li class="facebook"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://www.facebook.com/login.php?popup&amp;next=http%253A%252F%252Fwww.facebook.com%252Fsharer.php%253Fu%253D'+document.location.href+'%25252F%2526t%253D'+escape(document.title),'facebook'); return false;"><img src="/images/bm/facebook.gif" align="absmiddle" border="0"> Facebook</a></li>
+<li class="twitter"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://twitter.com/home/?status='+document.location.href,'twitter'); return false;"><img src="/images/bm/prohaircut_twitter.gif" align="absmiddle" border="0"> Twitter</a></li>
+<li class="myspace"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://www.myspace.com/Modules/PostTo/Pages/?t='+escape(document.title)+'&amp;c='+escape(document.title)+'&amp;u='+document.location.href+'&amp;l=5','myspace'); return false;"><img src="/images/bm/prohaircut_myspace.gif" align="absmiddle" border="0"> MySpace</a></li>
+	<li class="furl"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://www.furl.net/savedialog.jsp?p=1&amp;u='+document.location.href+'&amp;t='+escape(document.title)+'&amp;r=&amp;v=1&amp;c=','furl'); return false;"><img src="/images/bm/furl.gif" align="absmiddle" border="0"> Furl</a></li>
+	
+	<li class="ask"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://myjeeves.ask.com/mysearch/BookmarkIt?v=1.2&amp;t=webpages&amp;url='+document.location.href+'&amp;title='+escape(document.title),'ask'); return false;"><img src="/images/bm/ask.png" align="absmiddle" border="0"> ASK</a></li>
+	<li class="su"><a class="bmlink" href="javascript:void(0);" onclick="window.open('http://www.stumbleupon.com/submit?url='+document.location.href+'&amp;title='+escape(document.title),'stumble upon'); return false;"><img src="/images/bm/su.png" align="absmiddle" border="0"> StumbleUpon</a></li>
+	</ul>
+	</div></div>
+	
+	<!-- end bmk --></div>
+	
+	
+
+ </div>
+</div>
+<p><script type="text/javascript"><!--
+google_ad_client = "pub-5276612121339403";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text_image";
+//2007-07-25: haircutad468x60
+google_ad_channel = "7049519359";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "0000FF";
+google_color_text = "000000";
+google_color_url = "666666";
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script></p>
 <p><span style="font-weight: bold;">Information We Collect and How We Use It</span></p>
 <p>Readers who do not register. We collect and store the the IP address of the user's computer, the user's browser software and operating system, the date and time the user accesses the site and the Internet address of any Web site from which the user clicked directly to our site ("HTTP referer") and, in some cases, to which the user clicks to follow a hyperlink from our site. We use this information to measure the number of visitors to various sections of prohaircut.com and we sometimes share this information, typically aggregated, with third parties for advertising or commercial purposes.</p>
 <p>Review readers. We collect and store the Personally Identifiable Information you provide through the review process. We will not disclose your full name, location, posting history and your email address. To enhance the user experience in our network of sites. We use tracking information to determine how well each page performs overall based on aggregate user demographics and traffic patterns to those pages. This helps us continue to build a better service for you.</p>
@@ -148,6 +216,7 @@ google_color_url = "666666";
 <li><a href="/man_haircut.htm">Men's Hair Cut</a></li>
 <li><a href="/womens_haircut.htm">Women's Hair Cut</a></li>
 <li><a href="/child_haircut.htm">Children's Hair Cut</a></li>
+<li><a href="/Teens_Hairst_76.html">Teen's Hairstyle</a></li>
 </ul>
 <ul>
 <li><a href="/celebrity_haircut.htm">Celebrity Hair Cuts</a></li>
@@ -161,8 +230,20 @@ google_color_url = "666666";
 <li><a href="/Hair_Stlyin_Produc_26.html">Hair Styling Products</a></li>
 </ul>
 <ul>
-<li><a href="Golden_Globes_2009_55.html">2009 Golden Globe Awards</a></li>
+<li><a href="/2010_Oscars_84.html">2010 Oscars</a></li>
+<li><a href="/2010_Brit_Awards_83.html">2010 Brit Awards</a></li>
+<li><a href="/The_16th_Annual__82.html">16th Annual Screen Actors Guild Awards 2010</a></li>
+<li><a href="/2010_Grammy_Awards_81.html">2010 Grammy Awards</a></li>
+<li><a href="/2010_Golden_Globe_Awards_80.html">2010 Golden Globe Awards</a></li>
+<li><a href="/2010_People_Choice_Awards_79.html">2010 People’s Choice Awards</a></li>
+<li><a href="/Golden_Globes_2009_55.html">2009 Golden Globe Awards</a></li>
 <li><a href="/Oscars_2009_67.html">Oscars 2009</a></li>
+<li><a href="/2009_MTV_Movie_Awards_72.html">2009 MTV Movie Awards </a></li>
+<li><a href="/Transf_2_Premie_73.html">Transformers 2 Premiere</a></li>
+<li><a href="/Would_You_Wear__74.html">Would You Wear This Fashion Trend? </a></li>
+<li><a href="/2009_Teen_Choice_Awards_75.html">2009 Teen Choice Awards</a></li>
+<li><a href="/MTV_VMAs_2009_77.html">MTV VMAs 2009 </a></li>
+<li><a href="/Emmy_Awards_2009_78.html">Emmy Awards 2009 </a></li>
 <li><a href="/Events_and_Partie_Hairst_66.html">More events</a></li>
 </ul>
 </div>
@@ -226,13 +307,13 @@ google_color_url = "666666";
           <td><!-- Copyright Policy --></td>
           <td><a href="/terms_of_use.html">Terms and Conditions</a></td>
           <td><a href="/privacy_policy.html">Privacy Policy</a></td>
-          <td><!-- Contact Us --></td>
+          <td><a href="javascript:void(0);" onclick="window.open('/contactus.php?t='+escape(document.title)+'&amp;r='+escape(document.location.href),'','width=500,height=400,scrollbars=yes,resizable=yes');">Contact Us</a></td>
           <td><!-- About Us --></td>
         </tr>
         </tbody></table></div>
 	</td>
   </tr>
-</tbody></table><script type="text/javascript" src="/css/log.js"></script><img src="/logimg.php?js=1&amp;t=Privacy%20Policy&amp;cp=https%3A//web.archive.org/web/20090514073158id_/http%253A//www.prohaircut.com/privacy_policy.html" width="0" height="0"><iframe src="/local.html" width="0" height="0" frameborder="0"></iframe>
+</tbody></table><script type="text/javascript" src="/css/log.js"></script><img src="/logimg.php?js=1&amp;t=Privacy%20Policy&amp;cp=https%3A//web.archive.org/web/20100529204333id_/http%253A//www.prohaircut.com/privacy_policy.html" width="0" height="0"><iframe src="/local.html" width="0" height="0" frameborder="0"></iframe>
 		
 		</div>
 		<div id="foot_info">
