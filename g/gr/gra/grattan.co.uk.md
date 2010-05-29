@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the grattan.co.uk privacy policy that was archived on 2008-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080913063254id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp%3Fqid%3D59) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grattan.co.uk privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529023632id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp%3Fqid%3D59) for the most accurate reproduction.*
 
 # What is your privacy policy? - Grattan Help
 
-  * [Help](https://web.archive.org/web/20080913063254id_/http%3A//www.grattan.co.uk/Web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20080913063254id_/http%3A//www.grattan.co.uk/Web/main/help/category.asp?cid=10)
+  * [Help](https://web.archive.org/web/20100529023632id_/http%3A//www.grattan.co.uk/Web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20100529023632id_/http%3A//www.grattan.co.uk/Web/main/help/category.asp?cid=10)
 
 
 
@@ -30,7 +30,6 @@ We will use your information in the following ways:
 
 If you do not want us to use your information for third party marketing purposes, please write to us at:   
 Grattan,  
-OTTO House,  
 Ingleby Road,  
 Bradford BD99 2XG
 
@@ -51,6 +50,6 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [What is your data protection policy?](https://web.archive.org/web/20080913063254id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp?qid=58)
+  * [What is your data protection policy?](https://web.archive.org/web/20100529023632id_/http%3A//www.grattan.co.uk/Web/main/help/question.asp?qid=58)
 
 
