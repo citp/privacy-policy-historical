@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913114626id_/http%3A//bangalore.explocity.com/Bangalore/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explocity.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529091113id_/http%3A//bangalore.explocity.com/Bangalore/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Bangalore - Explocity.com
 
@@ -7,7 +7,7 @@
 
 [](http://bangalorecityguide.pagician.com/)
 
-Planning a trip to Bangalore?
+## Planning a trip to Bangalore?
 
 Read the digital edition of the very popular visitor magazine, explocity Bangalore Guide.
 
