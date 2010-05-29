@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2009-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090401130818id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mappery.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529035807id_/http%3A//mappery.com/privacy.php) for the most accurate reproduction.*
 
 # real life map collection • mappery
 
-Effective **November 19, 2008**
+Effective **Sep 30, 2009**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and every page on the site. 
 
@@ -12,9 +12,21 @@ This notice applies to all information collected or submitted on the mappery web
 
 ## The way we use information
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, but we would not disclose anything that could be used to identify those individuals. 
-
 We never use or share any personally identifiable information provided to us online. 
+
+We use non-identifying and aggregate information to better design our website and to share with advertisers. 
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name or email address) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by our advertising partner Google in particular, [click here.](http://www.google.com/privacy_ads.html)
+
+## Advertising cookies
+
+This site has contracted with Travel Ad Network and its third party ad-serving technology provider Atlas, a Microsoft Corporation Subsidiary, to monitor certain pages of our website for the purpose of reporting website statistics, advertisement 'click-throughs', advertisement impressions, and/or other activities on our website. Where authorized by us, Travel Ad Network may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by Travel Ad Network, please see Travel Ad Network's privacy policy [here](http://www.traveladnetwork.com/content/view/56/79/). 
+
+Cookies are important devices for both serving more relevant ads to users and measuring advertising effectiveness. You may opt out of accepting cookies at any time by clicking these links: 
+
+To opt out of TravelAdvertising.com, go [here](http://www.traveladnetwork.com/content/view/56/79/). 
+
+To opt out of Atlas (Microsoft Advertising), go [here](http://www.atlassolutions.com/optout.aspx). 
 
 ## Our commitment to data security
 
@@ -26,4 +38,4 @@ Protecting the privacy of the very young is especially important. For that reaso
 
 ## How to contact us
 
-Should you have other questions or concerns about these privacy policies, please send us an email at [privacy@mappery.com](mailto:support@mappery.com).
+Should you have other questions or concerns about these privacy policies, please send us an email at [info@mappery.com](mailto:info@mappery.com).
