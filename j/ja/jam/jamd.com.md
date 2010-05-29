@@ -1,85 +1,86 @@
-> *The following text is extracted and transformed from the jamd.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227062423id_/http%3A//www.jamd.com/service/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamd.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529035127id_/http%3A//www.life.com/service/privacy) for the most accurate reproduction.*
 
-# Jamd
+# Privacy Policy - LIFE
 
+Thank you for visiting Life.com, a website operated by See Your World LLC ("SYW", "we" or "us"). SYW is a joint venture of Time Inc. ("Time") and Getty Images, Inc. ("Getty Images"). Your privacy is important to us. To better protect your privacy, we provide this policy explaining our information practices and the choices you can make about the way your information is collected and used by SYW.
 
-    Last updated: December 2007
-    
-    Jamd is committed to protecting your privacy.  This privacy policy tells you about our online collection and use of data.  The terms of this policy apply to all Jamd websites, unless different terms are specified in a form or contract provided to you online or offline. 
-    
-    By using this site, you understand and agree to the terms of this policy.  This site is owned by Jamd, a division of Getty Images, and may be accessed in the United States and abroad.  Information collected may be stored, processed, accessed, and used in jurisdictions whose privacy laws may be different and less protective than those of your home jurisdiction.  
-    
-    **Collection of Your Personal Information**
-    
-    When you visit this site, certain kinds of information, such as the website that referred you to us, your IP address, browser type and language, and access times, may be collected automatically as part of the site’s operation.  We also may collect navigational information, including information about the pages you view, the links you click, and other actions taken in connection with the site. 
-    
-    We may combine your visit and navigational information with personal information that you provide.  You may always choose not to provide personal information, but if you so choose, certain products and services may not be available to you.  Personal information (e.g., your username and password, your name, your mailing address, email address, and phone number) is collected when you register.  Additional personal information (e.g., your credit card number and billing address) is collected to process transactions or to provide you with products and services. 
-    
-    Demographic information (e.g., your age, hobbies, income, gender, or interests) may also be collected and may be linked to your personal information. 
-    
-    **Use of Your Personal Information**
-    
-    Jamd collects and uses your personal information to operate and improve our sites, to process your transactions, to provide customer service, to perform research and analysis aimed at improving our products, services and technologies, and to display content that is customized to your interests and preferences.
-    
-    We also use your personal information to communicate with you.  We may send transaction-related communications such as welcome letters, billing reminders, and purchase confirmations.  We may also send you surveys or marketing communications to inform you of new products or services, or other information that may be of interest.  If you do not wish to receive marketing communications, you may contact us as described below or follow the “unsubscribe” instructions included within each email communication.  Please keep in mind that, if you choose not to receive marketing communications, you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
-    
-    Personal information collected by Jamd may be stored and processed in the United States or any other country in which Jamd or its affiliates maintain facilities, and by using our sites or services, you consent to any such transfer of information outside of your country.  Jamd abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union.  If you would like to exercise any of your data protection rights (including the right to have your personal information deleted), please contact us using the “Contact Information” below. 
-    
-    
-    **Sharing of Your Personal Information**
-    
-    Except as disclosed in this privacy policy, Jamd does not share your personal information with any outside parties. 
-    
-    We may share your personal information within our corporate group, including with our parent company and its subsidiaries and divisions, all of whom may use your information for the purposes disclosed herein.
-    
-    We may also share your personal information with service providers who perform services on our behalf.  For example, we may hire other companies to handle the processing of payments, to provide data storage, to host websites, to fulfill orders and shipments, to assist in direct marketing, to conduct audits, etc.  Those companies will be permitted to obtain only the personal information they need to provide the service.  They are required to maintain the confidentiality of the information and are prohibited from using it for any other purpose.
-    
-    Information about our customers, including personal information, may be disclosed as part of any merger, acquisition, or sale of the company and/or its assets, as well as in the unlikely event of insolvency, bankruptcy, or receivership, in which personal information would be transferred as one of the business assets of the company.  We will notify you of such an occurrence as described in the “Changes to This Privacy Policy” section below.  
-    
-    We reserve the right to disclose your personal information if required to do so by law, or in the good-faith belief that such action is reasonably necessary to comply with legal process, respond to claims, or protect the rights, property or safety of our company, employees, customers, or the public.
-    
-    **Accessing Your Personal Information**
-    
-    If you would like to review or revise information that you previously provided to us, you may e-mail us at [support@jamd.com](mailto:support@jamd.com).  We can also assist you in making any changes, as well as in exercising your right to have your personal information deleted.  You can expect a response from us within 10 calendar days.    
-    
-    **Personal Information Preferences**
-    
-    Jamd respects your right to make choices about the use and disclosure of your personal information.  If at any time you decide that you do not want to receive marketing communications from us or our affiliates, please let us know: (1) by sending an e-mail to [support@jamd.com](mailto:support@jamd.com), or (2) by following the instructions in the individual marketing communication.  
-    
-    If you choose not to receive marketing communications, please be advised that you will continue to receive transactional or account communications (e.g., confirmation emails and account balance statements).
-    
-    
-    **Use of Cookies and Other Technologies**
-    
-    Jamd uses “cookies” to enable you to sign in to our services and to help personalize your online experience.  A cookie is a small text file that is placed on your hard drive.  Cookies contain information, including personal information, that can later be read by a web server in the domain that issued the cookie to you.  The information that cookies collect includes the date and time of your visit, your registration information, and your navigational and purchase history.  
-    
-    Cookies offer you many conveniences.  They allow us to identify registered users when they return to the site so that they can retrieve previous image search results, access Lightboxes and Clipbins and view their previous invoices.  Cookies also save you time by eliminating the need to repeatedly enter the same information.
-    
-    In some cases, our third-party service providers may use cookies on our sites.  We have no access to or control over these cookies.  This privacy statement covers the use of cookies by Jamd only, and does not cover the use of cookies by third parties
-    
-    You have the ability to accept or decline cookies.  Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies.  If you choose to decline cookies, you may not be able to sign in or use other interactive features of our sites and services that depend on cookies.
-    
-    In addition to cookies, we may use other technologies, including single-pixel gifs (also known as web beacons) on our websites and in promotional e-mail messages or newsletters.  These tiny electronic images assist us in determining how many users have visited certain pages or opened messages or newsletters.  We do not use these images to collect personal information. 
-    
-    **Security of Your Personal Information**
-    
-    The security of your personal information is important to us.  We follow generally accepted industry standards to help protect your personal information.  For instance, when you enter sensitive information (such as a credit card number) on our registration or order forms, we encrypt that information using secure socket layer (SSL) technology.  No method of transmission over the Internet, or method of electronic storage, is 100% secure.  Therefore, while we strive to protect your personal information, we cannot guarantee its absolute security.
-    
-    IIf a password is used to protect your account and personal information, it is your responsibility to keep your password confidential.  If your password has been lost or compromised, please change it and notify Jamd immediately.
-    
-    **Children**
-    
-    We do not intend to solicit or collect personal information from anyone under the age of 13.  If you are under 13, you should not enter information on this site.
-    
-    **Links**
-    
-    We may link to websites, including those of our subsidiaries and third-party content providers, that have different privacy policies and practices from those disclosed here.  We assume no responsibility for the policies or practices of such linked sites, and encourage you to become acquainted with them prior to use.
-    
-    **Changes to This Privacy Policy**
-    
-    We reserve the right to change the terms of this privacy policy at any time.  When we make changes, we will revise the  “last updated” date at the top of the policy.  If there are material changes to this statement or in how Jamd will use your personal information, we will notify you by prominently posting a notice of such changes here or on our home page, or by sending you an email.  We encourage you to review this policy whenever you visit one of our sites.
-    
-    **Contact Information**
-    
-    For additional information, please contact us by e-mail: [support@jamd.com](mailto:support@jamd.com).
-    
+#### The Information We Collect
+
+Through our website and other media, from time to time you may be able to order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. You are able to visit much of this website and enjoy many offerings and promotions without providing any personally identifiable information. Sometimes, however, we do need your personally identifiable information to provide you with the products and services that you request. The types of personally identifiable information that may be collected at these pages and elsewhere include, but are not limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. 
+
+In some cases and through certain promotions, you may submit information about other people. For example, you might submit a person's name and e-mail address to send an electronic greeting card and, if you order a gift online or offline and want it sent directly to the recipient, you might submit the recipient's name and address. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address, and telephone number. 
+
+For certain promotions, only persons who provide us with the requested personally identifiable information will be able to order products, programs, and services or otherwise participate in the promotion's activities and offerings. 
+
+We also may collect certain non-personally identifiable information when you visit many of our web pages such as the type of browser you are using, the type of operating system you are using, and the domain name of your Internet service provider. 
+
+#### How We Use the Information
+
+We may use the information you provide about yourself to fulfill your requests for our products, programs, and services, to respond to your inquiries about offerings, and to offer you other products, programs or services that we believe may be of interest to you. 
+
+We sometimes use this information to communicate with you, such as to notify you when you have won one of our contests or when we make changes to subscriber agreements, to fulfill a request by you for an online newsletter, or to contact you about your account with us. 
+
+We use the information that you provide about others to enable us to send them your gifts or cards. From time to time, we also may use this information to offer our products, programs, or services to them. 
+
+If you choose to submit content for publication (e.g., a "letter to our editors"), we may publish your name, screen name, and other information you have provided to us. 
+
+The information we collect in connection with our online forums and communities is used to provide an interactive experience. We use this information to facilitate participation in these online forums and communities and, from time to time, to offer you products, programs, or services. 
+
+We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in the aggregate to analyze site usage, as well as to offer you products, programs, or services. 
+
+We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. 
+
+Agents and contractors of SYW who have access to personally identifiable information are required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for SYW. 
+
+We may transfer your personally identifiable information to other SYW offices for internal management and administrative purposes. Your personal data will be transferred to other SYW offices where necessary for the performance or conclusion of our contractual obligations to you or for your benefit. Transfers of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims. 
+
+Although we take appropriate measures to safeguard against unauthorized disclosures of information, we cannot assure you that personally identifiable information that we collect will never be disclosed in a manner that is inconsistent with this Privacy Policy. Inadvertent disclosures may result, for example, when third parties misrepresent their identities in asking the site for access to personally identifiable information about themselves for purposes of correcting possible factual errors in the data. 
+
+#### Privacy Options
+
+SYW discloses personally identifiable information to companies, not owned by SYW, who want to market products or services to you, it will provide you with an opportunity to opt out of or limit such uses. If you are a newsletter subscriber and prefer not to receive online marketing information from companies not owned by SYW please [click here](https://web.archive.org/service/newsletterunsubscribe) to unsubscribe from the newsletter. 
+
+#### Collection of Information by Third-Party Sites and Sponsors
+
+Our site may have offerings, including newsletters, contests or promotions, that will require you to submit personally identifiable information to participate. In many cases, we will notify you at the time that we are requesting personally identifiable information that, if you choose to submit such information, SYW's owners, Getty Images and Time will also be obtaining your information. SYW has no control over Getty Images' and Time's use of this information and Getty Images and Time may have different privacy practices from those disclosed here. For more information about Getty Images' use of this information pursuant to its privacy policy, please [click here](http://www.gettyimages.com/Corporate/PrivacyPolicy.aspx). For more information about Time's use of this information pursuant to its privacy policy, please [click here](http://cgi.timeinc.net/cgi-bin/mail/dnp/privacy_centralized.cgi/tio?dnp_source=E). 
+
+Our site sometimes may offer contests, sweepstakes, or promotions that are sponsored by or co-sponsored with identified third parties. By virtue of their sponsorship, these third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the contest, sweepstakes, or promotion. SYW has no control over the third-party sponsors' use of this information. We will notify you at the time of requesting personally identifiable information if third-party sponsors will obtain such information. 
+
+Our site contains links to other sites whose information practices may be different than ours. You should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
+
+#### Cookies
+
+To enhance your online experience we use "cookies." Cookies are text files we place in your computer's browser to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our site. However, once you choose to furnish the site with personally identifiable information, this information may be linked to the data stored in the cookie. 
+
+We use cookies to understand Internet usage and to improve our content, offerings, and advertisements. For example, we may use cookies to personalize your experience at our web pages (e.g. to recognize you by name when you return to our site), save your password in password-protected areas, and enable you to use shopping carts on our site. We also may use cookies to offer you products, programs, or services. Similarly, as part of an arrangement with our business partners (including, those who present or serve the advertisements that you see on our web pages) we may also access cookies placed by others and allow others to access certain cookies placed by us. 
+
+We may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. These "web beacons" may be used to deliver cookies that conform to our cookie policy. 
+
+If you would like to limit the use of such technologies for these purposes, you can change your privacy preferences through your browser. You may set your browser to accept all cookies, block certain cookies, require your consent before a cookie is placed in your browser, or block cookies all together. Blocking all cookies, however, will affect your online experience and may prevent you from enjoying the full features offered at our site. Since the procedure for modifying your privacy preferences is different for each Internet browser, we recommend you review your 'help' or 'Internet options' menu in your browser's tool bar. 
+
+#### Our Commitment to Security
+
+We have put in place appropriate physical, electronic, and managerial procedures to safeguard and help prevent unauthorized access, maintain data security, and correctly use the information we collect. 
+
+#### How You can Access or Correct Information
+
+To inquire about personally identifiable information that this website has collected about you, or how to correct factual errors in such information, please email us at [support@life.com](mailto:support@life.com). 
+
+To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections. 
+
+#### Special Note for Parents
+
+The site you are visiting is a general audience site. 
+
+#### Changes to this Privacy Policy
+
+This Privacy Policy may be changed by SYW. The revised Privacy Policy will be posted to the top of this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it. 
+
+#### How to Contact Us
+
+If you have any questions or concerns about the SYW Privacy Policy or its implementation please contact us by email at [support@life.com](mailto:support@life.com) or by mail at the following address: 
+
+SYW Customer Service   
+601 N. 34th Street   
+Seattle, WA   
+98103 
