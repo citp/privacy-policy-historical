@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524222738id_/http%3A//raisingcanes.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raisingcanes.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529165911id_/http%3A//www.raisingcanes.com/privacy.html) for the most accurate reproduction.*
 
 # Todd Graves | Raising Cane's | Secret Millionaire | Chicken Fingers | Cane's Sauce
 
