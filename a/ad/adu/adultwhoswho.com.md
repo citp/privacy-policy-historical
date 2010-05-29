@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adultwhoswho.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027173204id_/http%3A//www.adultwhoswho.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adultwhoswho.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529121335id_/http%3A//www.adultwhoswho.com/privacy.html) for the most accurate reproduction.*
 
 # Adult Who's Who - Privacy
 
