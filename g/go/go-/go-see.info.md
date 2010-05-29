@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128003031id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go-see.info privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529025636id_/http%3A//www.go-see.info/privacy.php) for the most accurate reproduction.*
 
-# Go-see.info Article Directory - Submit your article or get free article for your website
+# go-see.info - Article Directory
 
 Go-see.info Privacy Policy
 
