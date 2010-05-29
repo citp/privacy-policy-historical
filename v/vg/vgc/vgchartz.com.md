@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202062048id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vgchartz.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529022302id_/http%3A//www.vgchartz.com/privacy.php) for the most accurate reproduction.*
 
 # Video Games, Sales, Charts, News, Reviews, Videos, Forums, Game Cheats - Wii, Xbox, PS3, DS, PSP, PS2, PC, iPhone on VGChartz.com
 
-Version 11/07/2007
+Version 10/01/2009
 
 Here at VGChartz we pride ourselves on user service, and part of that is looking after your privacy. This Privacy Policy outlines the types of personal information we gather when you visit our site.
 
@@ -25,6 +25,8 @@ We do not rent or sell your personally identifying information to other companie
 If you have an account, we may share the information submitted among the other services in VGChartz in order to provide you with the best experience possible.
 
 We may share aggregated information with others. Examples of this include the number of users who have visited a certain page.
+
+VGChartz uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, <http://www.networkadvertising.org/managing/opt_out.asp>
 
 ### Information security
 
