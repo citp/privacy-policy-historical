@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216215957id_/http%3A//fritolay.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fritolay.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529110611id_/http%3A//www.fritolay.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Frito-Lay: Privacy Policy
+# Privacy Policy | Frito-Lay
 
 _Effective February 2008_
 
