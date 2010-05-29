@@ -1,337 +1,240 @@
-<!--The following is the downloaded HTML source of the rupeetalk.com privacy policy that was archived on 2009-05-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090522120350id_/http%3A//rupeetalk.com/Privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rupeetalk.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529111638id_/http%3A//www.rupeetalk.com/Privacy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
-	<title> Rupeetalk - Credit Card , Personal Loan , Home Loan , Business Loan , Loan Against Property , Insurance in India </title>
-	<meta name="Keywords" content="credit card india, credit card application,online credit cards,visa credit card,master card,business credit card,credit card offers,bank credit cards,loan,personal loan, loans, personal loans, india, mumbai loan, loans delhi, jaipur, pune,ahmedabad,bangalore,hyderabad application, apply">
-	<meta name="Description" content="RupeeTalk provides free Free online application for credit cards. Compare credit card offers from major banks in india, Personal loan, home loan, car loan online applications with Rupee Talk. Easy loan applications in India">
-	<link href="http://rupeetalk.com/css/common.css" rel="stylesheet" type="text/css">
-
-	<link rel="shortcut icon" href="http://rupeetalk.com/anim_ico.gif" type="image/x-icon">
-	<!-- <link href="http://rupeetalk.com/css/common.css" rel="stylesheet" type="text/css"> -->
-	
-	<script language="JavaScript" src="http://rupeetalk.com/js/general.js"></script>
-	<script language="JavaScript" src="http://rupeetalk.com/js/product.js"></script>
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-
-
-<script>
-function login_chk(){
-				
-			  var definedFigures = {
-				popup_username: $("popup_username").value,
-				popup_password: $("popup_password").value
-			  }
-				ajaxCaller.get("http://rupeetalk.com/application_login.php", definedFigures, onSelectResponseoflogin_chk, true, null);
-
-
-}
-	// this function will get the data from db & put it into var text with | delim. here we split them & again put that into form element
-	function onSelectResponseoflogin_chk(xml, headers, callingContext) {
-
-		var allItems = xml.getElementsByTagName("root");
-		var login_data = "";
-
-			var itemElm = allItems[0];
-			var linkElm = itemElm.getElementsByTagName("email_chk").item(0);
-			var linkURL = linkElm.firstChild.nodeValue;
-			if(linkURL == "1"){
-				//alert("correct user  name & password");				
-				//window.close();
-				//alert(document.getElementById("product_order_list").value);
-				document.getElementById("username").focus();
-				popup_form.action="?product_order_list="+document.getElementById("product_order_list").value;
-				popup_form.submit();
-				return true;
-			} else if(linkURL == "2"){
-				alert("You have registered with us but not yet activated your account. An activation email has been sent to your id containing the activation link. Kindly click on the link to activate your account.");
-			}else{
-				alert("wrong user name & password. please enter forget password details");
-				return false;
-
-			}
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
+	<!-- privacy.php -->	<title>Home Loans,Credit Cards,Personal Loans,Life Insurance,Stocks,Health Insurance,Car Loan,Income Tax,Fixed Deposits in India- Compare and apply online.</title>
+	<meta http-equiv="Content-Type" content="text/html;charset=UTF-8">
+	<meta name="Description" content="Online credit cards, home loans, personal loans, business loans, health &amp; life insurance services from Rupeetalk, a financial portal in India advices Indian consumers on personal finance. It helps consumers choose the right product offered by various financial institutes.">
+	<meta name="Keywords" content="online credit card, credit card, home loans, personal loans, business loans, health insurance, life insurance, personal finance, rupeetalk.">
+			<link href="http://www.rupeetalk.com/css/main.css" rel="stylesheet" type="text/css">
 			
-	}
-	</script>
-		
-		<div id="cover"></div>
-<div id="dialog">
-		<form action="#" name="popup_form" method="post">
-		
-		<table width="350" border="0" class="brdr" cellspacing="0" cellpadding="0">
-			  <tbody><tr>
-				<td height="22" colspan="2" align="center" valign="middle" bgcolor="#98b660" class="Verdana12white">Please Login</td>
-			  </tr>
-			  <tr>
-				<td height="32" colspan="2" align="center" valign="middle" class="Verdana11_grey">You are already registered, please enter your password. If you have lost or forgotten the password, click on Forget password to retrieve it. </td>
-			  </tr>
-			  <tr>
-				<td width="184" height="26" align="right" valign="middle" class="Verdana12Green">Login ID :&nbsp;</td>
-				<td width="214" height="26" align="left" valign="middle"> <input type="text" name="popup_username" id="popup_username" value="" class="Verdana11_grey"></td>
-			  </tr>
-			  <tr>
-				<td height="26" align="right" valign="middle" class="Verdana12Green">Password :&nbsp;</td>
-				<td height="26" align="left" valign="middle"> <input type="password" name="popup_password" id="popup_password" value="" class="Verdana11_grey"></td>
-			  </tr>
-			  <tr>
-				<td height="26" colspan="2" align="center" valign="middle" class="Verdana12Green"><input type="button" onclick="login_chk();" name="submit1" value="SUBMIT"></td>
-			  </tr>
-			  <tr>
-				<td height="22" colspan="2" align="center" valign="middle" class="Verdana11_grey">OR
-			Click <a href="http://rupeetalk.com/forgot_password.php">Forget Password</a></td>
-			  </tr>
-			  <tr>
-				<td height="22" colspan="2" align="center" bgcolor="#98b660" valign="middle" class="Verdana12white"><a href="#" onclick="closePopUp('dialog',&quot;http://rupeetalk.com/Privacy.php/&quot;);" class="Verdana12white">X CLOSE</a></td>
-			  </tr>
-			</tbody></table>
-			</form>
-		</div>
-		
+	<link rel="shortcut icon" href="http://www.rupeetalk.com/anim_ico.gif" type="image/x-icon">
+	<!-- <link rel="alternate" TITLE="Rupeetalk.com" href="http://www.rupeetalk.com/rss.php" TYPE="application/rss+xml">
+	<link rel="alternate" type="application/rss+xml" title="Rupeetalk - ROR" href="http://www.rupeetalk.com/ror.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Rupeetalk - RSS Feed 2.0" href="http://www.rupeetalk.com/rssfeed.xml" /> -->
+<!-- <script language="javascript" type="text/javascript" src="http://www.rupeetalk.com/js/fire-bug-for-IE.js"></script> -->
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="http://www.rupeetalk.com/js/ajaxCaller.js"></script>
+</head>
+<body bgcolor="#f7f9fd">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-5326767-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<form method="get" action="#" name="head_frm">
+ <input type="hidden" name="web_path" id="web_path" value="http://www.rupeetalk.com/">
+ <input type="hidden" name="web_img_path" id="web_img_path" value="http://www.rupeetalk.com/images/">
+</form>
+<div id="main-outer">
+<div id="header" align="center">
+<div id="logo" align="left"><a href="http://www.rupeetalk.com/" title="Home loans India, Home loan calculator, compare home loans, home loan interest rate">
+<div id="rupeetalk-logo" class="css-sprite-class"></div></a></div>
 
 
-	<div id="contentpgdiv" style="display:block">
-        
-</div><table width="1002" border="0" cellspacing="0" cellpadding="0" align="center">
-   <tbody><tr>
-    <td width="23%" valign="top" background="http://rupeetalk.com/images/tp-hd-bg.gif"><a href="http://rupeetalk.com/"><img src="http://rupeetalk.com/images/Rupetalk_04.gif" alt="" width="261" height="70" border="0"></a></td>
-    <td width="38%" align="center" valign="middle" background="http://rupeetalk.com/images/tp-hd-bg.gif">&nbsp;</td>
-    <td width="39%" valign="top" background="http://rupeetalk.com/images/tp-hd-bg.gif">
-	
-	<table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td valign="top">
-		<table width="400" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="2%" valign="top"><img src="http://rupeetalk.com/images/log-ltf.gif"></td>
-            <td width="92%" valign="middle" background="http://rupeetalk.com/images/log-bg.gif">
-			<!------------------------Search Box--------------------------->
-			<form action="http://rupeetalk.com/Search/search.php" method="get">
-			<table width="100%" border="0" align="left" cellpadding="0" cellspacing="0">
-			  <tbody><tr>
-				<td width="35%"><div align="center"> <input name="query" id="query" value="" type="text" class="ver10B" size="18"></div></td>
-				<td width="27%" align="right">
-				<input type="hidden" name="search" id="search" value="1">
-				<input type="hidden" name="html" id="html" value="0">
-				<input type="submit" name="submit" value="Search" class="submit-btn" onclick="return validateSearchBox()">
-				</td>
-								<td width="38%" align="right"><a href="http://rupeetalk.com/Register.php" class="Verdana11maroon"><strong>SIGN UP</strong></a> | <a href="http://rupeetalk.com/sign-up.php" class="Verdana11maroon"><strong>LOG IN</strong></a></td>
-				<td width="0%"></td>
-				 
-			  </tr>
-			  <tr>
-				<td colspan="2" align="center"><a href="http://rupeetalk.com/Search/searches.php?page=recent" class="Verdana11_blk">Recent Searches  </a> | <a href="http://rupeetalk.com/Search/searches.php?page=popular" class="Verdana11_blk">Popular Searches</a></td>
-			</tr>
-		  </tbody></table>
-		  </form>
-		  <!------------------------/Search Box--------------------------->
-</td>
-           
-            <td width="3%" align="right" valign="top"><img src="http://rupeetalk.com/images/log-rt.gif"></td>
-          </tr>
-        </tbody></table>
-		
-	 </td>
-      </tr>
-      <tr>
-        <td valign="top" align="right" width="353" height="31" class="Verdana10Grey">&nbsp;
-		</td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">&nbsp;</td>
-    <td valign="top" align="right"><table width="300" border="0" cellspacing="0" cellpadding="0">
+<div id="top-ad" align="center" title="Compare Health Insurance quotes from top companies">
+<script type="text/javascript"><!--
+google_ad_client = "pub-2265856194919291";
+/* 728x90, created 4/7/10 */
+google_ad_slot = "1300936393";
+google_ad_width = 728;
+google_ad_height = 90;
+//-->
+</script>
+<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
 
-    <tbody><tr>
-      <td valign="top" width="65"><img src="http://rupeetalk.com/images/sms-call.gif"></td>
- <td valign="top" width="20">&nbsp;</td>		
-		<td valign="bottom" width="65" height="22">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr>
-				<td valign="top" align="left"><img src="http://rupeetalk.com/images/lft-bpr.gif" width="10" height="22"></td>
-				<td align="center" valign="middle" background="http://rupeetalk.com/images/bg-bpr.gif" class="Verdana10Grey"><a href="http://rupeetalk.com/blog/" class="Verdana10Grey">BLOG</a></td>
-				<td valign="top" align="right"><img src="http://rupeetalk.com/images/rt-bpr.gif" width="10" height="22"></td>
-			  </tr>
-			</tbody></table>
-					</td>
-		<td valign="bottom" width="76" height="22">
-			  			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr>
-				<td valign="top" align="left"><img src="http://rupeetalk.com/images/lft-bpr.gif" width="10" height="22"></td>
-				<td align="center" valign="middle" background="http://rupeetalk.com/images/bg-bpr.gif" class="Verdana10Grey"><a href="http://rupeetalk.com/Calculator" class="Verdana10Grey">CALCULATORS</a></td>
-				<td valign="top" align="right"><img src="http://rupeetalk.com/images/rt-bpr.gif" width="10" height="22"></td>
-			  </tr>
-			</tbody></table>
-					</td>
-		<td valign="bottom" width="94" height="22">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-			  <tbody><tr>
-				<td valign="top" align="left"><img src="http://rupeetalk.com/images/lft-bpr.gif" width="10" height="22"></td>
-				<td align="center" valign="middle" background="http://rupeetalk.com/images/bg-bpr.gif" class="Verdana10Grey"><a href="http://rupeetalk.com/Register.php" class="Verdana10Grey">REGISTER</a></td>
-				<td valign="top" align="right"><img src="http://rupeetalk.com/images/rt-bpr.gif" width="10" height="22"></td>
-			  </tr>
-			</tbody></table>
-					</td>
-  </tr>
-</tbody></table></td>
-  </tr>
-  <tr><td colspan="3" background="http://rupeetalk.com/images/rupeetalk1_04.gif" height="5px" width="1002"></td></tr>
-   <tr>
-    <td colspan="3" valign="top" align="center">
-
-
-<div id="outside">
-<ul id="navigation-1">
-<li style="width:45px;">
-	<a href="http://rupeetalk.com/">&nbsp;&nbsp;Home</a></li>
-<li style="width:85px;"><a href="http://rupeetalk.com/Credit-Card/">&nbsp;&nbsp;Credit Card</a>
-</li>
-
-<li style="width:96px"><a href="http://rupeetalk.com/Personal-Loan/">&nbsp;&nbsp;Personal Loan</a>
-</li>
-
-<li style="width:82px"><a href="http://rupeetalk.com/Home-Loan">&nbsp;&nbsp;Home Loan</a>
-</li>
-
-<li style="width:96px"><a href="http://rupeetalk.com/Business-Loan">&nbsp;&nbsp;Business Loan</a>
-</li>
-<li style="width:140px"><a href="http://rupeetalk.com/Loan-Against-Property">&nbsp;&nbsp;Loan Against Property</a>
-</li>
-<li style="width:100px"><a href="http://rupeetalk.com/Life-Insurance">&nbsp;&nbsp;Life Insurance</a></li>
-<li style="width:110px"><a href="http://rupeetalk.com/Health-Insurance">&nbsp;&nbsp;Health Insurance</a>
-</li>
-<!-- <li style="width:80px"><a  href="http://rupeetalk.com/Insurance">&nbsp;&nbsp;Insurance</a>
-    <ul class="navigation-2">
-		<li><a href="http://rupeetalk.com/Insurance">&nbsp;Get Quote & Apply</a></li>
-		<li><a href="http://rupeetalk.com/Insurance-India/insurance-guide.php">&nbsp;Guides</a></li>
-		<li><a href="http://rupeetalk.com/Insurance-India/insurance-tips.php">&nbsp;Tips</a></li>
-		<li><a href="http://rupeetalk.com/Insurance-India/insurance-FAQs.php">&nbsp;FAQs</a></li>
-		<li><a href="http://rupeetalk.com/Insurance-India/insurance-glossary.php">&nbsp;Glossary</a></li>
-    </ul>
-</li> -->
-<li style="width:95px"><a href="http://rupeetalk.com/Fixed-Deposit">&nbsp;&nbsp;Fixed Deposit</a>
-</li>
-
-<li style="width:42px;">
-	<a href="http://rupeetalk.com/Tax-Benefit">&nbsp;&nbsp;&nbsp;Tax</a>
-</li>
-
-<li style="width:111px">
-	<a href="http://rupeetalk.com/learning-center.php" style="border-right:white">&nbsp;&nbsp;Learning Centre</a>
-</li>
-</ul>
 </div>
 
-</td>
-  </tr>
-
- 
-  
-
-
-
-
-
-
-	
-</tbody></table><table width="1002" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tbody><tr>
-    <td height="54"><table width="100%" border="1" style="BORDER-COLLAPSE: collapse" bordercolor="#98c472" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-
-        <td class="Verdana12_grey" style="padding:5px"><p class="Verdana14_grey"><strong> Privacy Policy</strong></p>
-		
-<p>
-www.rupeetalk.com Financial Services Private Limited respects your privacy. This Privacy Policy gives you details about our data collection methods and usage. You are advised to please read the Privacy Policy carefully. By accessing the services provided by www.rupeetalk.com you agree to the collection and use of your data by www.rupeetalk.com in the manner provided in this Privacy Policy.</p>
-
-<p>What data is collected from you automatically?</p>
-<p>We will automatically receive and collect certain anonymous information in standard usage logs through our Web server, including computer–identification information obtained from "cookies," sent to your browser from a
-</p><ul><li>    web server cookie stored on your hard drive</li><li>    an IP address, assigned to the computer which you use</li><li>    the domain server through which you access our service</li><li>    the type of computer you use</li><li>    the type of web browser you use</li></ul><p></p>
-
-<p>Data which we collect from you
-</p><ul>
-<li>    name including first and last name</li><li>    email address</li><li>    mobile phone number and contact details (Res Ph. No. &amp; Office Ph. No.)</li><li>    ZIP/Postal code</li><li>    demographic profile (like your age, gender, marital status, type of employment, company name, postal address)</li><li>    preferences (such as housing loan, personal loan, education loan, loan amount, insurance, credit card);
-</li><li>    financial information (like annual income).</li><li>    Other information depending on the product selected(No. of years in current employment &amp; address, type of industry, year of establishment, annual turnover, total experience, value of property, type of property)</li></ul>
-
-<p></p>
-<p>While you can terminate your account at any time, your information may remain stored in archive on our servers even after the deletion or the termination of your account.</p>
-
-<p>Why we collect the information?</p>
-<p>We use your personal information to:
-</p><ul>
-<li>    to get in touch with you when necessary</li><li>    to provide the services requested by you
-</li><li>    to preserve social history as governed by existing law or policy</li></ul><p></p>
-
-<p>We use contact information internally to:
-
-</p><ul>
-<li>direct our efforts for product improvement</li><li>   contact you as a survey respondent</li><li>    send you promotional materials from our contest sponsors or advertisers</li></ul>
-<p></p>
- 
-<p>
-The Site contains links to other Web sites. We are not responsible for the privacy practices of such Web sites which we do not own, manage or control.</p>
-
-<p>The information is shared with</p>
-<p>We will not use or rent your financial information for any purpose other than to complete a transaction with you. By giving us the information you are giving us permission:
-</p><ul>
-
-<li>to provide products or services you've requested</li><li>to help investigate violations of www.rupeetalk.com terms of use or to defend against legal claims;</li><li> to disclose the information under special circumstances such as compliance with applicable local law, court summons, court orders, requests/order from legal authorities or law enforcement agencies requiring such disclosure.</li></ul> <p></p>
-
-<p>We will send information about you to other companies or people when:
-</p><ul>
-<li> We need to share your information to provide the product or service you have requested to enable them to contact you; or</li><li> We have your consent from you to share the information;</li></ul><p></p>
-
-<p>We need to share your information with certain service partners in order to respond to your queries / comments or to resolve service issues and to serve you better.</p>
-
-<p>
-Security
-</p><ul>
-<li> Your account information is password–protected for your privacy and security</li></ul>
-<p></p>
-<p>Changes to this Privacy Policy
-</p><ul>
-<li>  We may amend this policy from time to time. If we make any substantial changes in the way we use your information we will notify you by posting a prominent announcement on our web pages.</li></ul><p></p>
-
-<p>To correct inaccuracies in the information you can</p>
-
-<p>Send an e–mail to: <a href="mailto:contact@rupeetalk.com" style="text-decoration:none;">contact@rupeetalk.com</a></p>
-
-</td>
-      </tr>
-    </tbody></table></td>
-    </tr>
-  <tr>
-    <td>&nbsp;</td>
-    </tr>
-</tbody></table>
-
-        
+<div id="top-sub-link">
+	<a href="http://www.rupeetalk.com/news/" title="News and latest updates on home loan, credit cards, life insurance, personal loan, health insurance, demat &amp; stocks"><div class="sub-menu-link" style="width:50px;">News</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/forum/" title="Forum discussions on home loan, credit cards, life insurance, personal loan, health insurance &amp; stocks"><div class="sub-menu-link" style="width:50px;">Forum</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/blog/" title="Blogs on home loan, credit cards, life insurance, personal loan, health insurance &amp; stocks"><div class="sub-menu-link" style="width:50px;">Blog</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/articles/" title="Articles on home loan, credit cards, life insurance, personal loan, health insurance &amp; stocks"><div class="sub-menu-link" style="width:60px;">Articles</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/case-study/" title="Case studies on home loan, credit cards, investments and money management"><div class="sub-menu-link" style="width:90px;">Case Studies</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/finance-basics/index1.php" title="Guides, tips, FAQs, glossary, and 5 point guides on home loan, credit cards, life insurance, personal loan, health insurance &amp; stocks"><div class="sub-menu-link" style="width:110px;">Finance Basics</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/calculators/" title="Calculators: EMI calculator, prepayment calculator, retirement calculator, income tax, crorepati calculator"><div class="sub-menu-link" style="width:90px;">Calculators</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/education-loan/" title="Education loan providers: interest rates, loan tenure and EMI"><div class="sub-menu-link" style="width:120px;">Education Loan</div></a>
+	<div class="sub-menu-divider"></div>
+	<a href="http://www.rupeetalk.com/refer-a-friend.php?np=tell" title="Tell a friend about Rupeetalk.com"><div class="sub-menu-link" style="width:100px;">Tell a Friend</div></a>
+	<div class="sub-menu-divider"></div>
+	<div class="sm-menu">
+			<div class="top-sm-bg" style="text-align:center;">
+			<form action="http://www.rupeetalk.com/search/search.php" method="post" onsubmit="return validateSearchBox()">
+            &nbsp;<input size="22" name="query" id="query" value="search" type="text" style="font-size:11px;height:18px;vertical-align:top;width:127px;" onclick="this.value=''"><input id="search-image" type="image" src="http://www.rupeetalk.com/images/search-blue.gif" style="margin-top:1px;">
+			</form>
+    </div>
+    </div>
+</div>
 
 
-
+<!-- <div class="top-sm-div">
+			<div class="sm-menu">
+			<div class="sub-menu-curve-left css-sprite-class"></div>
+			<div class="top-sm-bg" style="width:50px; text-align:center;"><a href="http://www.rupeetalk.com/blog/"><span class="sub-menu-link">Blog</span></a></div>
+			<div class="sub-menu-divider"></div>
+			</div>
 			
-			<center><iframe id="tata_aig" src="http://rupeetalk.com/Advertisement/Bottom.php" scrolling="no" align="middle" frameborder="0" marginwidth="0" marginheight="0" width="728px" height="90px" class="iframe-CC-marquee"></iframe></center>
-		
-		
+			<div class="sm-menu" >
+			<div class="top-sm-bg" style="width:125px; text-align:center;"><a href="http://www.rupeetalk.com/finance-basics/index1.php"><span class="sub-menu-link">Finance Basics</span></a></div>
+			<div class="sub-menu-divider"></div>
+			</div>
+			
+			<div class="sm-menu">
+			<div class="top-sm-bg" style="width:100px; text-align:center;"><a href="http://www.rupeetalk.com/calculators/"><span class="sub-menu-link">Calculators</span></a></div>
+			<div class="sub-menu-divider"></div>
+			</div>
+			
+			<div class="sm-menu">
+			<div class="top-sm-bg" style="width:120px; text-align:center;"><a href="http://www.rupeetalk.com/education-loan/"><span class="sub-menu-link">Education Loan</span></a></div>
+			<div class="sub-menu-divider"></div>
+			</div>
+            
+            <div class="sm-menu">
+			<div class="top-sm-bg" style="width:142px;text-align:center;padding-top:3px;">
+			<form action="http://www.rupeetalk.com/search/search.php" method="post" onSubmit="return validateSearchBox()">
+            <input size="22" name="query" id="query" value="search" type="text" 
+            style="font-size:9px; height:16px; vertical-align:top;" onClick="this.value=''" ><input id="search-image" type="image" src="http://www.rupeetalk.com/images/search-blue.gif">
+			</form>
+            </div>
+			</div>
+</div>
 
-<table width="1002" border="0" cellspacing="0" cellpadding="0" align="center">
+<!-- <div class="tell-a-friend-container">
+<div class="sub-menu-curve-left css-sprite-class"></div>
+<div class="tell-a-friend-div"><a href="http://www.rupeetalk.com/refer-a-friend.php?np=tell"><span class="sub-menu-link">Tell a Friend</span></a></div>
+<div class="sub-menu-curve-right css-sprite-class"></div>
+</div> -->
+
+<!-- <div class="follow-us-container bod">
+<div class="sub-menu-curve-left css-sprite-class"></div>
+<div class="top-follow-us-link-new" >
+<div class="face-twit-new">Follow us on: </div>
+<a href="http://www.facebook.com/home.php?#/group.php?gid=110223054742" title="Follow RupeeTalk on Facebook" target="_blank">
+<div id="fb-img" class="css-sprite-class"></div>
+</a>
+<a href="http://twitter.com/rupeetalk" target="_blank" title="Follow RupeeTalk on Twitter">
+<div id="twit-img" class="css-sprite-class"></div>
+</a>
+<a href="http://www.rupeetalk.com/rss/" title="Rupeetalk RSS Feeds">
+<div id="rss-img" class="css-sprite-class"></div>
+</a>
+</div>
+<div class="sub-menu-curve-right css-sprite-class"></div>
+</div> -->
+
+</div>
+
+
+<!-- To show selected tab -->
+
+<div id="new-top-link" title="Personal Loans, Home Loans, Life Insurance, Health Insurance, Car Loans, Stocks, Fixed Deposit - RupeeTalk"> 
+<div id="rupeetalk-nav">
+	<ul>
+		<li><a href="http://www.rupeetalk.com/" title="Home Loan, Credit Card, Life Insurance, Health Insurance, Personal Loan, Car Loan, Demat, Stocks, Tax"><span>&nbsp;&nbsp;Home&nbsp;&nbsp;</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/credit-card/" title="Credit Cards - compare and apply credit cards, read reviews, blogs, articles, guides, tips, FAQs"><span>Credit Card</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/personal-loan/" title="Personal Loans - compare and apply personal loans, calculate EMI, read articles, FAQs, guides, tips, blogs"><span>Personal Loan</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/home-loan/" title="Home Loans - compare and apply home loans, calculate EMI, read articles, case studies, FAQs, guides and tips"><span>Home Loan</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/car-loan/" title="Car Loans - compare and apply car loans, calculate EMI, read articles, FAQs, guides, tips, blogs"><span>Car Loan</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/life-insurance/" title="Life Insurance - compare and apply life insurance, read articles, FAQs, guides, tips, blogs"><span>Life Insurance</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/health-insurance/" title="Health Insurance - compare and apply health insurance, read articles, FAQs, guides, tips, blogs"><span>Health Insurance</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/stocks/" title="Demat Accounts - read articles, FAQs, guides, tips, blogs"><span>Stocks</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/fixed-deposit/" title="Compare Fixed Deposits online, Fixed Deposit Interest Rates"><span>Fixed Deposit</span></a></li>
+
+		<li><a href="http://www.rupeetalk.com/tax/" title="Online Income Tax, Income Tax Rates, Income Tax Calculation"><span>Tax</span></a></li>	
+	</ul>
+</div>
+</div>
+</div>
+<div id="cover2"></div><div id="dialog2"></div>
+	
+<div id="product-container">
+<div id="news-index-breadcrumb" align="left"><span class="ver11blk"><a href="http://www.rupeetalk.com/">Home</a> &gt;&gt; <strong>Privacy</strong></span></div>      
+<table width="100%" border="0" align="left" cellpadding="0" class="shaded-box" bgcolor="#FFFFFF" cellspacing="0">
   <tbody><tr>
-    <td valign="top"><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">   
-      <tbody><tr>
-        <td width="1002" height="51" align="center"> <a href="http://rupeetalk.com/AboutUs.php" class="Verdana11maroon">About Us</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/refer-a-friend.php" class="Verdana11maroon">Refer a Friend</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/feedback.php" class="Verdana11maroon">Customer Feedback</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/Legal.php" class="Verdana11maroon">Legal</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/Privacy.php" class="Verdana11maroon">Privacy</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/Disclaimer.php" class="Verdana11maroon">Disclaimer</a> <span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/ContactUs.php" class="Verdana11maroon">Contact Us</a><span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/DSA/" class="Verdana11maroon">DSAs</a><span class="Verdana11maroon">|</span> <a href="http://rupeetalk.com/SiteMap.php" class="Verdana11maroon">SiteMap</a><br>
-            <span class="Verdana9_blk">Copyright © 2007-08 <a href="http://www.rupeetalk.com" class="Verdana9_blk">rupeetalk.com</a>. All rights reserved. Best viewed with Internet Explorer 5.0 and above with a resolution of 1024.</span></td>
-      </tr>
-    </tbody></table></td>
-  </tr>
+    <td valign="top" align="left">
+		<div class="news-head" style="width:100%;" align="center"><span class="ver12blk"><strong>Privacy Policy</strong></span></div>
+		
+<p><strong>IMPORTANT NOTICE</strong><br>
+PLEASE READ OUR IMPORTANT TERMS AND CONDITIONS PRIOR TO READING THIS PRIVACY POLICY. PURSUANT TO WHICH, YOU ARE ADVISED TO PLEASE READ THIS PRIVACY POLICY CAREFULLY. THE DEFINITIONS CONTAINED IN THE IMPORTANT TERMS AND CONDITIONS SHALL BE APPLICABLE HERE, UNLESS OVERTLY STATED TO THE CONTRARY. FURTHER, EACH TIME YOU ACCESS THIS SITE AND ANY PAGES THEREOF, YOU UNEQUIVOCALLY AGREE TO BE BOUND BY THIS PRIVACY POLICY AND ALSO GRANT US UNCONDITIONAL RIGHTS TO USE INFORMATION WE COLLECT FROM OUR SITE ACCORDING TO INDUSTRY PRACTICES AND CONSISTENT WITH THE TERMS OF THIS POLICY WHILE KEEPING SUCH USAGES WITHIN THE CONFINES OF APPLICABLE LAWS THAT ARE IN FORCE WITHIN THE REPUBLIC OF INDIA. 
+</p>
+<p><strong>OUR COMMITMENT TO YOUR PRIVACY</strong><br>
+
+Your privacy is important to us. To better protect your privacy we provide this Privacy Policy explaining our online information practices. To make this Privacy Policy easy to find, we make it available from all pages of our Site. 
+</p>
+<p><strong>THE INFORMATION WE COLLECT</strong><br>
+This Privacy Policy applies to all bonafide information collected or submitted on our Site. We use the information you provide about yourself to, <em>inter alia</em>, place cookies on your hard drive - this provides a more tailor-made experience during your use of our Site. 
+</p>
+<p>Cookies are small pieces of information stored by us on your computer which enable us to identify your computer when you access our services or Site. We may use cookies to provide you with a convenient means of access, without needing your password. Also to protect the integrity of registered user names and passwords and to limit access to "paid for" services, if any. The third party companies who sell and provide advertisements to the Site and host our contacts database make use of cookies for the purpose of serving and targeting advertisements more effectively.</p>
+<p>We may use this information, <em>inter alia</em>, to get in touch with you (though any communication medium/platform now known or to be invented) when necessary and/or to provide the services requested by you and/or to preserve social history as governed by existing law or policy. We may share this information with banks, factoring companies, etc. to proffer the best fit to your financial needs. We do not share this information with outside parties for the purpose of unrelated marketing which falls outside the purview of activities undertaken by our company. </p>
+<p>Finally, we never use or share any personally identifiable information provided to us online in ways unrelated to the ones described above under any circumstances whatsoever. </p>
+<p><strong>OUR COMMITMENT TO DATA SECURITY </strong><br>
+To prevent unauthorised access, maintain data accuracy and ensure the correct use of information, <em>inter alia</em>, we have put in place reasonably appropriate physical, electronic and managerial procedures to safeguard and secure the information we collect online. While you can terminate your account at any time, your information may remain stored in archive on our servers even after the deletion or termination of your account. 
+</p>
+<p><strong>CHANGES TO THIS PRIVACY POLICY</strong><br>
+We may change/alter/modify these terms and conditions at any time with or without notice. You unequivocally agree that your continued access or use this Site is clear testament to the fact that you have accepted all such changes/alterations/modifications <em>en toto</em>. 
+</p>
+<p></p>
+
+</td>
+    </tr>
 </tbody></table>
- <script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-5326767-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
+
+       
+</div>    
+
+
+
+<div class="bottom-table" align="center">
+<table width="1002" height="44" border="0" cellspacing="0" cellpadding="0" class="borderTable-bottom-new">
+	<tbody><tr>
+		<td align="center">
+		<div class="footer-links">
+		<a href="http://www.rupeetalk.com/about-us.php" class="bottom-link" title="About Rupeetalk Financial Services">About Us</a> |
+		<a href="http://www.rupeetalk.com/privacy.php" class="bottom-link" title="Privacy Policy - Rupeetalk">Privacy Policy</a> |
+		<a href="http://www.rupeetalk.com/dsa/" class="bottom-link" title="DSA - Direct Selling Agent">DSA</a> |
+		<a href="http://www.rupeetalk.com/log_in.php" class="bottom-link" title="DSA - Direct Selling Agent Login">DSA Login</a> |
+		<a href="http://www.rupeetalk.com/media.php" class="bottom-link" title="Media - Channels &amp; Newspapers">Media</a> |
+		<a href="http://www.rupeetalk.com/careers.php" class="bottom-link" title="Careers in Rupeetalk Financial Services">Careers</a> |
+		<a href="http://www.rupeetalk.com/make_payment.php" class="bottom-link" title="Make Online Payment">Make Online Payment</a> |
+        <!-- <a href="http://www.rupeetalk.com/women/" class="bottom-link" title="Women's Weekly">Women</a> | -->
+		<a href="http://www.rupeetalk.com/feedback.php" class="bottom-link" title="Customer Feedback">Feedback</a> |
+		<a href="http://www.rupeetalk.com/contactus.php" class="bottom-link" title="Contact Rupeetalk Financial Services">Contact Us</a>
+		<!-- <a href="#" onclick="pageSize()">width-height</a> -->
+		<br>
+		<span class="footer-links-small">Copyright © 2008-10 <a href="" title="rupeetalk.com">rupeetalk.com.</a> All rights reserved.</span>
+		</div>
+		</td>
+	</tr>
+</tbody></table>
+
+</div>
+
+<div id="fade_hl_consl" class="black_overlay"></div>
+<div id="light_hl_consl" class="white_content"></div>
+<script language="JavaScript" src="http://www.rupeetalk.com/js/general.js" type="text/javascript"></script>
+
 </body></html>
