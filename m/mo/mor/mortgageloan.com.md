@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203105556id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgageloan.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529093011id_/http%3A//www.mortgageloan.com/privacy.shtml) for the most accurate reproduction.*
 
 # Privacy - MortgageLoan.com
 
@@ -46,7 +46,7 @@ Some of our computer systems are currently based in the United States, so your p
 
 ### Correction/Updating Personally Identifiable Information
 
-Mortgageloan.com provides you with the ability to review, correct and delete any of your contact information. If you wish to review or correct any contact information you have provided to us, you may access your account online or you may contact us at support @ mortgageloan.com. If you have any questions regarding this Privacy Policy please contact us via email at support @ mortgageloan.com or by phone at 386 868 3418. 
+Mortgageloan.com provides you with the ability to review, correct and delete any of your contact information. If you wish to review or correct any contact information you have provided to us, you may access your account online or you may contact us at support @ mortgageloan.com. If you have any questions regarding this Privacy Policy please contact us via email at support @ mortgageloan.com or by phone at 877 390 4750. 
 
 This Privacy Policy was last updated: April 27, 2009
 
