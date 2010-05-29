@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226155216id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the undertone.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529144525id_/http%3A//www.undertone.com/privacy) for the most accurate reproduction.*
 
 # Undertone Privacy Policy - Ad Display
 
-[](http://www.networkadvertising.org/) Undertone is an advertising network that may deliver advertisements to the Web sites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this Web site and when we serve advertisements on our network of Web sites owned by third-party publishers (collectively, the "Undertone Site Network"), how such information is used, and how it is shared with third parties if shared at all. 
+[](http://www.networkadvertising.org/) Undertone® is an advertising network that may deliver advertisements to the Web sites you visit. Undertone understands that your online privacy is important to you. We have created the following Privacy Policy to let you know what information we collect on this Web site and when we serve advertisements on our network of Web sites owned by third-party publishers (collectively, the "Undertone Site Network"), how such information is used, and how it is shared with third parties if shared at all. 
 
 Please read this privacy policy carefully. Use of the Undertone Site Network, this Web site and your sharing of information with us is subject to the terms and conditions of this Privacy Policy. By using the Undertone Site Network, this Web site or sharing information with us, you give your agreement to this Privacy Policy. The Privacy Policy may be revised or updated at any time by us as further described below.
 
