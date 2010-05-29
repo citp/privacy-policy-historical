@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the criticalmass.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525215912id_/http%3A//www.criticalmass.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the criticalmass.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530002027id_/http%3A//www.criticalmass.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Critical Mass - Website Privacy Policy
 
