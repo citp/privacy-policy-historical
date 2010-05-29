@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2009-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090814182901id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxslayerpro.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529063048id_/http%3A//www.taxslayerpro.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy for TaxSlayer Pro
 
 Purchasing our Products  
-The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients.ï¿½This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number.ï¿½The forms requesting this information are on a secure server.ï¿½All steps are taken to safeguard your information.
+The purpose of this site is to market and sell our software. As a result, you may have to provide us your personal information and/or email address. We do not share or disseminate this information to other vendors or clients. This information is kept in strictest, secure, confidence. If you choose to purchase our products online, you will be asked for personal information as well as your credit card number. The forms requesting this information are on a secure server. All steps are taken to safeguard your information.
 
 Sharing Information Within TaxSlayer Corporate Family  
 We may share information about you and the products and services you have purchased from us, among members of the TaxSlayer Corporate family, all of whom follow our Privacy Policy. However, this information will not be provided to third parties outside our corporate family, except as noted below:
