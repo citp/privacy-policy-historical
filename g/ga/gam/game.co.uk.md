@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225061642id_/http%3A//www.game.co.uk/Help/%7Eh3915/FirstTime) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game.co.uk privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530014341id_/http%3A//www.game.co.uk/Help/%7Eh3915/FirstTime) for the most accurate reproduction.*
 
 # Help: Security - Privacy Policy - GAME.co.uk
 
@@ -41,7 +41,7 @@ We use Coremetrics for web analytics. Coremetrics, Inc. ("Coremetrics") collects
 
 We may use technology to track the patterns of behaviour of visitors to our site. This can include using a "cookie" which would be stored on your browser. You can usually modify your browser to prevent this happening. The information collected in this way can be used to identify you unless you modify your browser settings. Should you wish to browse anonymously please contact us and request a link that we can send you to exclude you from web tracking.
 
-If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/Help/CustService.aspx). If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.
+If you have any questions/ comments about privacy, you should contact our [Customer Services](https://web.archive.org/Help/CustService/). If you contact us for details of existing information that we hold about you it is important that you quote your original email address, as used at the time you first contacted us. We may be unable to trace your details without this.
 
 #### Related FAQs
 
