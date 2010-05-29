@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924024839id_/http%3A//www.retargeter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retargeter.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529084836id_/http%3A//www.retargeter.com/privacy-policy) for the most accurate reproduction.*
 
 # Retargeter.com | Internet Retargeting | Self-Serve Ad Network Focused On Retargeting » Privacy Policy
 
