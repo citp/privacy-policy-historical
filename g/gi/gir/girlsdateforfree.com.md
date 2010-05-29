@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231162535id_/http%3A//www.girlsdateforfree.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsdateforfree.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529040419id_/http%3A//www.girlsdateforfree.com/privacy.cfm) for the most accurate reproduction.*
 
-# Online Dating Community UK - Free Registration Girls Date For Free - GDFF
+# Your privacy and safety at Girls Date for Free
 
 ## Privacy Policy
 
-This website GirlsDateForFree is operated by Allegran Limited. We are registered in England and Wales under company number 04363830 and have our registered office at Northcliffe House, 2 Derry Street, London W8 5TT. Our VAT number is GB 243 571 174
+This website GirlsDateForFree is operated by Easy Date Holdings Ltd.. Registered Office: 23 Manor Place, Edinburgh EH3 7XE. Registered in Scotland no. SC368538 
 
 We are committed to protecting and respecting your privacy and this policy sets out the basis on which any personal data we collect from you through the Site, or that you provide to us via the Site, will be processed by us. Please read this statement carefully.
 
@@ -70,7 +70,7 @@ You can accept or decline cookies by changing the applicable settings in your br
 
 ##### Where We Store Your Personal Data
 
-The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (�EEA�). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
+The data that we collect from you may be transferred to, and stored at, a location outside the European Economic Area (EEA). It may also be processed by staff located outside the EEA who work for us or for one of our suppliers (for example, staff who are involved in providing services that you order from us, processing your payment details or providing support services for the Site). By submitting your personal data to us through the Site, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy.
 
 ##### Security
 
