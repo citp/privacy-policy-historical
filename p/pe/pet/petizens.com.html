@@ -1,0 +1,696 @@
+<!--The following is the downloaded HTML source of the petizens.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529191924id_/http%3A//www.petizens.com/Aboutus.php%3Fbtmid%3DPrivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+<meta http-equiv="pragma" content="no-cache">
+<meta http-equiv="Cache-Control" content="no-cache">
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Content-Language" content="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+<base href="http://www.petizens.com/">
+
+<link href="http://www.petizens.com/Template/skinDefault/css/navigator.css" rel="stylesheet" type="text/css">
+<link href="/css/default.css" rel="stylesheet" type="text/css">
+<link href="http://www.petizens.com/Template/skinDefault/css/webStyle.css" rel="stylesheet" type="text/css">
+<title></title>
+<!--[if IE 6]>
+<script type="text/javascript" language="javascript" src="/js/bgsleight.js"></script>
+<![endif]-->
+<script language="javascript" src="/Ajax/prototype.js"></script>
+<script type="text/javascript" src="/lib/fbconnect.js?v=1"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<script type="text/javascript" src="/js/effects.js?v=1"></script>
+<script type="text/javascript" src="/js/window.js?v=1"></script>
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+</head>
+<body><script type="text/javascript">
+	var linkc="";
+	header_userinfo= "";
+</script>
+
+<!--[if lte IE 6]>
+<script src="/js/ie6/warning.js"></script>
+<script>window.onload=function(){e("/js/ie6/")}</script>
+<![endif]-->
+<script type="text/javascript">
+function ajaxlogin(){
+	var action  ="ajaxlogin";
+		
+	var url     = "http://www.petizens.com/doAjax.php";
+	
+	var username   = document.getElementById("username").value;
+	var password   = document.getElementById("password").value;
+	var postStr    = "action=ajaxlogin&username="+username+"&password="+password;
+	var ajax = InitAjax();
+        var protocol=document.location.protocol;
+        var host=document.location.host;
+	ajax.open("POST", url, true);
+	ajax.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+	ajax.send(postStr);
+	ajax.onreadystatechange = function() {     
+		if (ajax.readyState == 4 && ajax.status == 200) {		
+			if (ajax.responseText=='3'){
+				window.location.href= protocol+"//"+host+"/users/"+username;
+
+			}else{                               
+				window.location.href= protocol+"//"+host+"/login.php";
+			}
+		}
+	}
+}
+
+function viewPetHtml(pa){
+	var cssr = document.styleSheets[0].cssRules || document.styleSheets[0].rules;
+	if(pa[1]=='/petpages'){
+		var nowcolor = cssr[7].style.backgroundColor;	
+	}else{
+		var nowcolor = cssr[6].style.backgroundColor;	
+	}
+	
+	var str= '<a href="/petpages">Search</a><div style="line-height:20px; width:84px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -76px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="view_pet" ><a href="/petpages">Pet search</a><br/><a href="/petphotos">Photo search</a><br/><a href="/petvideos">Video search</a ><br/><a href="/view-birthdays.php">Birthday Pets</a ><br/><a href="/petowners">User search</a ><br/>'+linkc+'</div>';
+	var viewpetli = document.getElementById('viewpetli');
+		viewpetli.innerHTML = str;
+	
+	viewpetli.onmouseover = function(){
+		document.getElementById("view_pet").style.position="absolute"; 
+	}
+	
+	viewpetli.onmouseout = function(){
+		document.getElementById("view_pet").style.position="";
+	}
+}
+
+
+function homeHtml(pa){
+	var cssr = document.styleSheets[0].cssRules || document.styleSheets[0].rules;
+	if(pa[1]=='' || pa[1]=='index.php'){
+		var nowcolor = cssr[7].style.backgroundColor;	
+	}else{
+		var nowcolor = cssr[6].style.backgroundColor;	
+	}
+	
+	var str= '<a href="/">Home</a><div style="line-height:20px; width:94px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -64px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="m_index"><a href="/buy_membership.php">Buy Membership</a><br/><a href="/buyPetopian.php">Buy Petopian$</a><br/></div>';
+	
+	
+	var li_index = document.getElementById('li_index');
+	li_index.innerHTML = str;
+	
+	li_index.onmouseover = function(){
+		document.getElementById("m_index").style.position="absolute"; 
+	}
+	li_index.onmouseout = function(){
+	document.getElementById("m_index").style.position="";
+	}
+}
+
+function myaccountHtml(pa){
+	var cssr = document.styleSheets[0].cssRules || document.styleSheets[0].rules;
+	if(pa[1]=='scratchpost_mine.php'){
+		var nowcolor = cssr[7].style.backgroundColor;
+	}else{
+		var nowcolor = cssr[6].style.backgroundColor;	
+	}
+	var str= '<a href="/scratchpost_mine.php">My Account</a><div style="line-height:20px; width:84px;text-align:left;padding:4px;font-weight:normal;background-color:'+nowcolor+';margin:0 0 0 -5px;*margin:17px 0 0 -83px; z-index:2147483647;position:inherit;font-size:11px;border-right:3px solid gray;border-bottom:3px solid gray;" id="m_account" ><a href="/scratchpost_mine.php">MyScratchpost</a><br/><a href="/myaccount.php">Mailbox</a><br/><a href="/users/'+header_userinfo+'">MyProfile</a><br/><a href="/scratchpost_friend.php">FriendsPosts</a><br/></div>';
+
+	
+	var li_account = document.getElementById('li_account');
+	li_account.innerHTML = str;
+	li_account.onmouseover = function(){
+		document.getElementById("m_account").style.position="absolute";
+	}
+	li_account.onmouseout = function(){
+	document.getElementById("m_account").style.position="";
+	}
+}
+
+</script>
+
+<div id="header">
+  <div class="top_bg"></div>
+  <div class="header_left">
+  	<div class="log_image"><a href="http://www.petizens.com/" title="Petizens.com"><img src="http://www.petizens.com/Template/skinDefault/images/petizens-logo.png" width="250" height="65" border="0"></a></div>
+
+<!--<div style="position:absolute;margin:-100px 0 0 270px;"><a  href="/competition.php" title="Petizens Easter Fun Contest"><img src="http://www.petizens.com/Template/skinDefault/images/competition/easterbanner.jpg" width="468" height="90" border="0"></a>
+<div style="position:absolute;margin:-40px 0 0 410px;*margin:50px 0 0 -65px;z-index:2147483647;"><a href="/competition.php" title="Petizens Easter Fun Contest"><img src="http://www.petizens.com/Template/skinDefault/images/competition/bunny.gif" width="75"/></a></div>
+</div>
+-->
+  	<div id="net_navigator" class="net_navigator">
+      <ul id="net_navigator_ul">
+        <li class="nl"></li>
+        <li class="nm" id="li_index"><a href="http://www.petizens.com/">Home</a></li>
+        <li class="nr"></li>
+        <li class="nl"></li>
+        <li class="nm" id="li_account"><a href="http://www.petizens.com/scratchpost_mine.php">My Account</a></li>
+        <li class="nr"></li>
+        <li class="nl"></li>
+        <li class="nm" id="viewpetli"><a href="http://www.petizens.com/petpages">Search</a></li>
+        <li class="nr"></li>
+		<li class="nl"></li>
+        <li class="nm"><a href="http://www.petizens.com/forum">Forum</a></li>
+        <li class="nr"></li>
+		<li class="nl"></li>
+        <li class="nm"><a href="http://www.petizens.com/knowledge">Knowledge</a></li>
+        <li class="nr"></li>
+        <li class="nl"></li>
+        <li class="nm"><a href="http://www.petizens.com/caption">Fun &amp; Games</a></li>
+        <li class="nr"></li>
+		<!--<li class="nl"></li>
+        <li class="nm" ><a href="http://www.petizens.com/Aboutus.php">Help</a></li>
+        <li class="nr"></li>-->
+              </ul>
+	</div>
+  </div>
+
+  <div class="header_right">
+    	<div class="header_right_botton round" style="background:white; border:1px solid #000; padding:3px;">
+ 
+      <span style="color:black;padding-bottom:10px;"><a href="/users/"></a></span>
+	<div>
+
+     </div>
+
+      
+<!--         -->
+<!-- for FBConnect -->
+    <!-- for FBConnect -->
+ 
+	    	         <span class="f_left" style="text-align:left;line-height:2.2em;">
+                                          <input type="button" value="" style="border:0px;width:80px;height:20px; background:url(http://www.petizens.com/Template/skinDefault/images/icon/FB_connect.jpg) no-repeat;cursor:pointer;" onclick="loadfb_cont();">
+                     |<a href="http://www.petizens.com/login.php">Login</a>|<a href="http://www.petizens.com/register.php">Register</a></span>
+         <span class="f_left" style="text-align:left;line-height:2.2em;">
+        <input class="login_txtbox" name="username" type="text" id="username" value="Username or e-mail" size="10" maxlength="50" onfocus="javascript:if(this.value=='Username or e-mail') this.value=''">
+        
+		<input class="login_txtbox" name="password" type="password" id="password" onfocus="javascript:if(this.value=='******') this.value=''" value="******" size="10" maxlength="30" onkeydown="javascript:if((window.event||event).keyCode ==13) ajaxlogin()"> 
+		<input name="" type="button" style="border:0px; background:url(http://www.petizens.com/Template/skinDefault/images/login_btn.gif) no-repeat; width:54px; height:24px;cursor:pointer;" onclick="ajaxlogin();"></span>
+		 </div>
+  </div>
+  	
+	<div class="selecedColor nav_height">
+    <!-- AddThis Button BEGIN -->
+<a class="addthis_button f_right" href="http://addthis.com/bookmark.php?v=250&amp;username=petizens"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=petizens"></script>
+<!-- AddThis Button END -->
+		</div>
+</div>
+<div class="h_space"></div>
+
+<script type="text/javascript">
+var userPets=0; 
+</script>
+
+
+<script type="text/javascript" language="javascript">
+
+   var parslist = getParams();   
+   var protocol=document.location.protocol;
+   var host=document.location.host;
+  
+   var pathname=document.location.pathname.split('/');
+  
+   if(pathname[1]=='/petphotos' || pathname[1]=='/petowners' || pathname[1]=='viewcompetition.php' ){
+   		pathname[1]='/petpages';
+   }else if(pathname[1]=='forum'){
+   		pathname[1]='forum/';
+   }else if(pathname[1]=='/users/{$header_userinfo}' || pathname[1]=='myaccount.php' || pathname[1]=='scratchpost_friend.php'){
+   		
+   		pathname[1]='scratchpost_mine.php';
+   }else if(pathname[1]=='knowledge'){
+   		pathname[1]='knowledge/';
+   }else if(pathname[1]=='caption'){
+   		pathname[1]='caption/';
+   }else if(pathname[1]=='index.php' || pathname[1] == "" ){
+   		pathname[1]='';
+   }
+    var petuserlist = ","+getCookie("PetUserPetsList")+",";
+	//alert(pathname);
+	//alert(pathname[1]);
+   switch(pathname[1]){
+   case 'profile.php':
+		if (petuserlist.indexOf(','+parslist.pid+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+		break;
+   case 'viewmedia.php': 
+   		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+        break;
+   case 'viewfriend.php':
+		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+		break;
+   case 'myblog.php':
+		if (petuserlist.indexOf(','+parslist.blog+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+		break;
+   case 'statistics.php':
+   		if (petuserlist.indexOf(','+parslist.petid+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+		break;
+   case 'myguestbook.php':
+		if (petuserlist.indexOf(','+parslist.guestbook+',')!=-1){
+   			pathname[1]='myaccount.php';
+		}
+		else{
+			pathname[1]='/petpages';
+		}
+		break;
+	}
+	
+  // alert(parslist.guestbook);
+   var pageName =protocol+"//"+host+"/"+pathname[1];
+  //var pageName = document.location.href;//.split("/")[document.location.href.split("/").length-1];
+  var liNodes = document.getElementById("net_navigator_ul").getElementsByTagName("li");
+  var liNodesLen = liNodes.length;
+   //alert(liNow.childNodes[0].href==pageName);
+    for(var j=0;j<liNodesLen;j++){
+  	 var liNow = liNodes[j];
+	 if(typeof liNow.childNodes[0]!='undefined' && liNow.childNodes[0].href==pageName){	
+	 	liNow.className = 'nm selecedColor';
+		liNodes[j-1].className = 'nl selecedColor';
+		liNodes[j+1].className = 'nr selecedColor';
+		break;
+	 }
+  }
+
+</script>
+
+
+<div id="fbconnectmsg" style="display:none;">
+    <strong>Your Petizens.com account is now linked to your FaceBook account.</strong>
+</div>
+
+<script type="text/javascript">
+ // FB.init("e959fa3041de320b101a4c4586b4fb20", "xd_receiver.htm");
+</script>
+
+<div class="feedback"><a href="/help"><img src="http://www.petizens.com/Template/skinDefault/images/icon/help.png"></a></div><!-- center  -->
+<div id="center">
+<div class="c_left">
+<h1>Petizens Privacy Policy</h1>
+<p>This policy is effective as of <span style="color: red;">1 June, 2008.</span><span style="font-family: Arial;"><o:p></o:p></span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial;">Welcome to Petizens! We hope that you will have a great time using Petizens.com, a site for pet lovers and their pets. Before you get started, we urge you to read the following important information. If you have any questions with regard to the information please email us at <a href="mailto:info@petizens.com?subject=Question%20about%20Petizens%20privacy%20policy%2C">info@petizens.com</a>.<span style="">&nbsp; </span><o:p></o:p></span></strong></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial; color: red;">Petizens does not knowingly allow children under the age of thirteen (13) to register for Petizens.com. If you are under 13, please do not attempt to register for Petizens.com or send any information about yourself to us.<o:p></o:p></span></strong></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial;">1. Our Privacy Principles</span></strong><span style="font-family: Arial;"><o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">We created Petizens.com to allow you to share information about pets with your family, friends and people around you. While doing so, protecting your privacy is extremely important to us. Our privacy policy follows the following important principles:<o:p></o:p></span></p>
+<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">You control exactly what information is shared on the internet and what information is kept private.<o:p></o:p></span></strong></p>
+<p style="margin-left: 36pt; text-indent: -18pt;"><!--[if !supportLists]--><span style="font-size: 10pt; font-family: Wingdings;"><span style="">§<span style="font-family: &quot;Times New Roman&quot;; font-style: normal; font-variant: normal; font-weight: normal; font-size: 7pt; line-height: normal; font-size-adjust: none; font-stretch: normal;">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><!--[endif]--><strong style=""><span style="font-size: 10pt; font-family: Arial;">We (Petizens) will never knowingly share your human name or email with anyone in anyway.<o:p></o:p></span></strong></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;">2. The Information We Collect <o:p></o:p></span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial;">When you register for an account to become a member of Petizens.com, we will ask you some basic personal information. Some of the information we ask for is required in order to register an account, while other information is optional. The required information includes your name, gender, email, and your hometown, state and country. If you are a <st1:country-region w:st="on"><st1:place w:st="on">US</st1:place></st1:country-region> or Canadian citizen, we will also ask for your ZIP code. The optional information includes information such as your year of birth, which languages you prefer using, and other information. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">When you register your pet we will ask you for additional information, including the name of your pet, the type of animal, breed and color of your pet, and when your pet was born.<o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">When you enter Petizens.com we also collect your browser type and IP address. In addition we store certain information from your browser using “cookies”. A cookie is a piece of data stored on the user's computer tied to information about the user. Petizens also use session ID cookies to confirm that users are logged in to Petizens.com. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Petizens.com. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature. Be aware, however, that some parts of Petizens.com may not function properly if you disable cookies.<o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">When you use Petizens.com, you will be able to form online relationships with other registered users, send and post messages, perform searches and queries, read and write articles, form groups, and transmit other information through various channels. Petizens will collect this information so that we can provide you with high-quality social networking services. This will, for example, allow you to view prior information or messages, or review your friends list, etc. <o:p></o:p></span></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;">2. How We Use the Information We Collect <o:p></o:p></span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial;">Petizens will never knowingly share your human name or email with anyone in anyway. However, we will display other information that you provide during the registration process and as you enter information into your human profile and that of your pet, and in connection with other services such as blogs, forums, etc. As such, Petizens will publish, for example, your hometown, state or country, and information you enter about your pet, as well as any entries you make in our forums and other areas of the site that allow you to upload information on our servers. Since Petizens will allow you to upload this type of information onto our servers, it is important that you remember that the information (photos, text, vides, etc.) will be available to anyone with internet access. As such, <strong style="">it is very important that you never post any photo, video or information on Petizens that you do not want someone else to access</strong>. For example, if you are writing a forum post about yourself, please remember not to reveal your name, email or home address or other similar information. Please be aware of this and also inform all members of you family who may use Petizens.com to be aware of this important reminder. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">If you choose to use our invitation service to tell a friend about Petizens.com, we will ask you for information needed to send the invitation, such as your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit Petizens.com. Petizens stores this information to send this one-time invitation, to register a friend connection if your invitation is accepted, and to track the success of our referral program, a program that will give you various benefits and rewards. Your friend may contact us at <a href="mailto:info@Petizens.com?subject=Please%20remove%20some%20information%20in%20your%20database%2C">info@Petizens.com</a> to request that we remove this information from our database.<o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">Petizens may send you service-related announcements from time to time through the general operation of the service. For instance, if a friend sends you a new message you may receive an email alerting you to that fact. You can control this notification service after you create your Petizens.com account. Petizens reserves the right to send you notices about your account even if you opt out of all voluntary email notifications. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">By using Petizens.com, you are consenting to have your personal data transferred to and processed in the <st1:country-region w:st="on">United States</st1:country-region> and / or the People’s Republic of <st1:country-region w:st="on"><st1:place w:st="on">China</st1:place></st1:country-region>. <o:p></o:p></span></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;"><o:p>&nbsp;</o:p></span></strong></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;">Children Under Age 13<o:p></o:p></span></strong></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial; color: red;">If you are under 13, please do not attempt to register for Petizens.com or send any information about yourself to us.<o:p></o:p></span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial;">Petizens does not knowingly collect or solicit personal information from anyone under the age of 13. Petizens does not knowingly allow such persons to register for a membership on Petizens.com. No one under age 13 may provide any personal information to or on Petizens.com. In the event that we learn that a child under age 13 has provided information to Petizens.com against our directions, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us immediately at <a href="mailto:info@petizens.com?subject=Under%20age%2013%20user%2C">info@petizens.com</a>. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;"><o:p>&nbsp;</o:p></span></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;">Children Between the Ages of 13 and 18<o:p></o:p></span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial;">We strongly recommend that minors over the age of 13 ask their parents or legal guardian for permission before sending any information about themselves to anyone over the Internet. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;"><o:p>&nbsp;</o:p></span></p>
+<p><strong style=""><span style="font-size: 10pt; font-family: Arial;">Security<o:p></o:p></span></strong></p>
+<p><span style="font-size: 10pt; font-family: Arial;">Petizens takes appropriate precautions to protect your information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to <a href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">Wikipedia</a>). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. <o:p></o:p></span></p>
+<p><span style="font-size: 10pt; font-family: Arial;">Although we do our best to protect your information, please remember that you post information on Petizens.com at your own risk. We cannot control the actions of other users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that information you post on Petiznes.com will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on Petizens.com. You understand and acknowledge that, even after removal, copies of information may remain viewable in cached and archived pages or if other users have copied or stored your user Content. <o:p></o:p></span></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial;">Thank you for reading our Privacy Policy! Again, if you have any questions with regard to the information please email us at <a href="mailto:info@petizens.com?subject=Questions%20regarding%20the%20privacy%20policy%2C">info@petizens.com</a>.<span style="">&nbsp; </span><o:p></o:p></span></strong></p>
+<p><strong><span style="font-size: 10pt; font-family: Arial;">We hope you enjoy our site!<o:p></o:p></span></strong></p>
+</div>
+<div class="c_right">
+
+<link href="/Template/skinDefault/css/rightpanel.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/js/rightpanel.js"></script>
+<div id="PreviewBox" onmouseout="hidePreview(event)">
+<div class="Picture" onmouseout="hidePreview(event)">
+<div class="previewborder"><div align="center" style="width:190px; border:0px ;"><a id="previewUrl" href="javascript:void(0)" target="_self"><img oncontextmenu="return(false)" id="PreviewImage" onmouseout="hidePreview(event)" src="" border="0"></a></div><div align="left" id="tpcontent"></div><span></span></div></div>
+</div>
+
+<table width="250" border="0" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td height="1"></td>
+  </tr><tr>
+    <td valign="top">
+
+<script>
+var userNameBlankAlert = 'Please Enter Name';
+var userNameIllegalAlert = 'Please enter a username that consists only of letters and numbers.';
+var eamilBlankAlert = 'Please Enter Your Email';
+var validatedInfo		= "<span class='remark'>Ok</span>";
+</script>
+
+<script language="javascript" src="http://www.petizens.com/Ajax/prototype.js"></script>
+<script src="http://www.petizens.com/js/common.js"></script>
+<script src="http://www.petizens.com/Ajax/CallBackObject.js"></script>
+<script src="http://www.petizens.com/js/simplereg.js"></script>
+<table width="250" border="0" align="center" cellpadding="1" cellspacing="0" class="tbl round" onclick="spl_country();">
+<form name="petForm" method="post" action=""></form>
+  <tbody><tr>
+    <td colspan="3" align="center"><img src="http://www.petizens.com/Template/skinDefault/images/landing/joinfree.png" vspace="2"></td>
+  </tr>
+    <tr>
+    <td width="8"></td>
+    <td colspan="2" align="left"></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" style="color:#333">First create a pet owner account
+</td>
+    </tr>
+    <tr>
+    <td></td>
+    <td width="65">User name</td>
+    <td><input name="spl_memberid" type="text" id="spl_memberid" value="" style="width:140px;"><span id="spl_loginid_info"></span></td>
+  </tr>
+    <tr><td></td>
+    <td>Sex</td>
+    <td><input name="spl_sex" type="radio" value="0" checked="checked">
+    Female<input type="radio" name="spl_sex" value="1">
+    Male</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Location</td>
+    <td></td>
+  </tr>
+    <tr>
+    <td>&nbsp;</td>
+    <td colspan="2">&nbsp;
+  <select name="spl_countrylist" id="spl_countrylist" onchange="spl_changeState(this.value);" class="countrylist">
+  <option value="" selected="">select Country/Area</option>
+</select>
+</td>
+    </tr>
+  <tr id="spl_stateTr" style="display:none">
+    <td>&nbsp;</td>
+    <td>State</td>
+    <td>
+  <select name="spl_statelist" id="spl_statelist" onchange="spl_changeCity(this.value,document.getElementById('spl_countrylist').value);" class="spldropdownlist">
+  <option value="" selected="">select State/Region/Area</option>
+</select>
+</td>
+  </tr>
+  <tr id="spl_cityTr" style="display:none">
+    <td>&nbsp;</td>
+    <td>City</td>
+    <td>
+  <select name="spl_citylist" id="spl_citylist" class="spldropdownlist">
+  <option value="" selected="">select City</option>
+</select>
+</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Email</td>
+    <td><input name="spl_mymail" type="text" id="spl_mymail" value="" size="16" maxlength="50" style="width:140px;">
+    <span id="spl_emailMsg"></span></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Password</td>
+    <td><input name="spl_pass" type="password" id="spl_pass" size="16" value="" style="width:140px;"><span id="spl_passMsg"></span></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>Re- Pass </td>
+    <td><input name="spl_pass2" type="password" id="spl_pass2" value="" size="16" style="width:140px;"><span id="spl_passMsg2"></span>    </td>
+  </tr>
+  
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2" align="left"><input name="isAgree" type="checkbox" id="isAgree" value="1">
+      I am above 13 years old and agree to the <a href="http://www.petizens.com/termsofuse" target="_self"> Terms of Service</a>.</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td colspan="2" align="center" style="text-align:center">
+	<input type="submit" style="margin-top:15px; background:url(/Template/skinDefault/images/landing/createaccount.png) no-repeat; width:221px; height:24px; border:0;" value=" ">
+	<input name="step" type="hidden" id="step" value="1"></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td><script>
+		var oldfunc = null;
+		var inputList = ['spl_memberid','spl_mymail','spl_pass','spl_pass2'];
+		for(i=0;i<inputList.length;i++)
+		{
+			var obj = document.getElementById(inputList[i]);
+			//obj.className = "splreginput";			
+			obj.onblur = function(){
+				checkBlank(this.id);
+				(this.id == "spl_memberid")?spl_checkLoginId(this.id):"";
+				(this.id == "spl_mymail")?spl_checkRegEmail(this.id):"";
+				//(this.id == "spl_pass")?spl_checkPassword(this.id):"";
+				//(this.id == "spl_pass2")?spl_checkConfirmPassword(this.id):"";
+				//this.className = "splreginput";
+			};
+			//obj.onfocus = function(){this.className = "spl_focus";};
+		}
+		var dropList = ['spl_statelist','spl_citylist','spl_birthYear'];
+		for(i=0;i<dropList.length;i++)
+		{
+			var obj = document.getElementById(dropList[i]);
+			//alert(obj);
+			if(obj !=null)
+				obj.className = "spldropdownlist";
+		}
+		//document.getElementById('countrylist').className="countrylist";
+	</script>
+</td>
+  </tr>
+   
+</tbody></table>
+</td>
+  </tr>
+  <tr>
+    <td height="10"></td>
+  </tr>    <tr>
+    <td>
+	<div class="inner_right_box">
+<div class="right_title" style="padding-left:10px;height:35px;line-height:30px;">Follow Petizens on:</div>
+
+<div style="text-align:center">
+<a href="http://petizens.blogspot.com" target="blank"><img src="/Template/skinDefault/images/icon/blogspot.png" alt="Blogspot" title="Blogspot" width="40" height="40" border="0"></a>
+<a href="http://www.facebook.com/pages/Petizens/56320472237?ref=ts" target="blank"><img src="/Template/skinDefault/images/icon/facebook.png" alt="FaceBook" title="FaceBook" width="40" height="40" border="0"></a>
+<a href="http://www.myspace.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/myspace.png" alt="MySpace" title="MySpace" width="40" height="40" border="0"></a>
+<a href="http://www.twitter.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/twitter.png" alt="Twitter" title="Twitter" width="40" height="40" border="0"></a>
+<a href="http://www.youtube.com/petizens" target="blank"><img src="/Template/skinDefault/images/icon/youtube.png" alt="YouTube" title="YouTube" width="40" height="40" border="0"></a>
+</div>
+<div class="clr"></div>
+</div>
+	</td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+    <tr>
+    <td>
+	
+<div class="nm round" style="width:242px;padding:4px;text-align:center;">
+	<div class="right_title">Pet of the moment</div>
+	<div class="gold">
+		&nbsp;<a href="/15336/Dog/Rita" style="color:black;">Rita</a>
+    </div>
+  	<div style="padding-top:6px;">
+    	<a href="/15336/Dog/Rita"><img src="/userfiles/photo/w650/2010/02/18/201002182250345772382.JPG" width="200" border="0"></a></div>
+<div><img src="/Template/skinDefault/images/flags/Croatia.png" width="24" border="0" align="middle">&nbsp;Croatia, , </div>        
+<!--  
+  <div style="padding-left:10px;">Level:   
+  <span style="width:27px; height:27px; display:block; margin:auto 0; text-align:center; line-height:27px; background:url(/Template/skinDefault/images/icon/level.png) no-repeat; font-size:10px; "> <a href="/statistics.php?petid=15336" style="color:#000000;"> 9</a></span> 
+  
+ Points: 1546.14  </div>
+-->     
+	<div class="" style="padding:5px;text-align:left;"> My mom found me on the street when I was just a little girl. Nobody wanted to adopt me so I stayed with her and her family. They love me and I love them. ... </div>
+    <div class="clr"></div>
+</div>
+
+
+
+
+
+	</td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+    <tr>
+    <td>
+	<div class="inner_right_box">
+<div class="right_title" style="padding-left:10px;height:35px;line-height:30px;">A word from our sponsors</div>
+
+<span style="padding:5px;">
+<a href="http://www.anrdoezrs.net/click-3927842-10691213" target="_top">
+<img src="http://www.tqlkg.com/image-3927842-10691213" width="240" height="400" alt="Save 80% on Advantage &amp; other Pet Meds" border="0"></a>
+</span>
+<!--<script type="text/javascript">
+google_ad_client = "pub-6526843641952688";
+/* 250x250, right side */
+google_ad_slot = "7869452709";
+google_ad_width = 250;
+google_ad_height = 250;
+</script>
+<script type="text/javascript"
+src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>-->
+
+
+</div>
+
+	</td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+    <tr>
+    <td>
+	<div class="inner_right_box">
+	<div class="nm inner_right">Become a member</div>
+	<div class="right_help"><a href="/Aboutus.php#toplists">HELP</a></div>
+	<div class="clr"></div>
+	<div style="text-align:center;font-size:14px;padding:10px;">Become a member today and add fun speech bubbles to your page! </div>
+	<div style="text-align:center;padding-bottom:5px;"><a href="/buy_membership.php"><img src="/Template/skinDefault/images/landing/speechbubbles.png" border="0"></a></div>
+	<div style="margin-left:30px;margin-right:15px;"><a href="/buy_membership.php" class="btn_blue">Buy a membership</a></div>
+</div>
+	</td>
+  </tr>
+  <tr>
+    <td height="10">&nbsp;</td>
+  </tr>
+    <tr>
+    <td height="1">&nbsp;</td>
+  </tr>
+</tbody></table>
+
+<script language="javascript" type="text/javascript">
+ var maxWidth=200;var maxHeight=200;
+ var previewBox = document.getElementById("PreviewBox");
+ var previewImage = document.getElementById("PreviewImage");
+ var previewUrl = document.getElementById("previewUrl");
+ var previewFrom = null;
+ var previewTimeoutId = null;
+ var loadingImg = "images/icon/pageloading.gif";
+</script>
+</div>
+<div class="clr"></div>
+</div>
+<!-- bottom  -->
+
+<div id="bottom">
+
+<!--<div class="share_page"><div><span>Share this page on:</span><panel style='padding-right:10px' ><a target='_blank' href=http://myweb.yahoo.com/myresults/bookmarklet?t=&u=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&ei=UTF> YahooMyWeb </a></panel><panel style='padding-right:10px' ><a target='_blank' href=http://www.google.com/bookmarks/mark?op=edit&output=popup&bkmk=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&title=> Google </a></panel><panel style='padding-right:10px' ><a target='_blank' href=https://favorites.live.com/quickadd.aspx?marklet=1&mkt=en-us&url=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy&title=&top=1> Live Bookmarks </a></panel><panel style='padding-right:10px' ><a target='_blank' href=http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.petizens.com%2FAboutus.php%3Fbtmid%3DPrivacy> Facebook </a></panel><panel style='padding-right:10px' ><a target='_blank' href=> Flickr </a></panel> <a href="changeprefer.php">Others</a></div></div>-->
+<div class="nm round_bottom">
+            <a href="/aboutus">About</a> |
+            <a href="/advertise">Advertise</a> |
+            <a href="/links">Links</a> |
+            <a href="/contact">Contact us</a> |
+            <a href="/guidelines">Guidelines</a> |
+            <a href="/privacy">Privacy policy</a> |
+            <a href="/termsofuse">Terms of Service</a> |
+            <a href="/help">Help</a> |
+    <br>
+Copyright 2010 Petizens. All Rights Reserved
+<!-- AddThis Button BEGIN -->
+<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=petizens"><img src="http://s7.addthis.com/static/btn/v2/lg-share-en.gif" width="125" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=petizens"></script>
+<!-- AddThis Button END -->
+</div>
+
+
+
+</div>
+
+
+<script type="text/javascript">viewPetHtml(pathname); </script>
+<script type="text/javascript">
+var feedtype = '';
+if(feedtype == 'addpet')
+{
+  var pet = '';
+  var app = '';
+  var bundleId = '67005386195';
+  var templateData = {"pet":pet,"app":app};
+  facebook_publish_feed_story(bundleId,templateData);
+}
+else if(feedtype == 'addphoto')
+{
+  var pet = '';
+  var app = '';
+  var pic = '';
+  var picurl = '';
+  var bundleId = '73891131195';
+  var templateData = {"pet":pet,"app":app,"images":[{"src":pic,"href":picurl}]};
+  facebook_publish_feed_story(bundleId,templateData);
+}
+else if(feedtype == 'addvideo')
+{
+  var pet = '';
+  var app = '';
+  var bundleId = '73892066195';
+  var pic = '';
+  var picurl = '';
+  var templateData = {"pet":pet,"app":app,"images":[{"src":pic,"href":picurl}]};
+  facebook_publish_feed_story(bundleId,templateData);
+}
+else if(feedtype == 'fbcoonectsuccess')
+{
+  document.getElementById('fbconnectmsg').style.display = 'block';
+  var app = '';
+  var bundleId = '88686346195';
+  var templateData = {"app":app};
+  facebook_publish_feed_story(bundleId,templateData);
+}
+else if(feedtype == 'blogpost')
+{
+  var app = '';
+  var blog = '';
+  var bundleId = '82851531195';
+  var templateData = {"blog":blog,"app":app};
+  facebook_publish_feed_story(bundleId,templateData);
+}
+</script>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+
+try{
+_uacct = "UA-2464184-1";
+urchinTracker();
+}catch(e){}
+
+</script>
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+
+_qoptions={
+qacct:"p-75i1m8bDlFupU"
+};
+
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-75i1m8bDlFupU.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
+
+</body></html>
