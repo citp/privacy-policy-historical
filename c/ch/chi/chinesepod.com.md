@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2008-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080723111815id_/http%3A//chinesepod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinesepod.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529214505id_/http%3A//chinesepod.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - ChinesePod
+# Privacy Policy » ChinesePod
 
 The ChinesePod privacy policy guarantees that all of your personal information is strictly private and safe from harm or abuse. All information you pass along to us while on the site is secure and strictly confidential.
 
@@ -53,4 +53,4 @@ ChinesePod will never share your information with a third party.
 
 ## Other Privacy Concerns
 
-If you have other questions or concerns about ChinesePod's Customer Privacy Policy, please email us at [chinesepod@gmail.com](mailto:chinesepod@gmail.com).
+If you have other questions or concerns about ChinesePod's Customer Privacy Policy, please [contact us](https://web.archive.org/contact "contact us")
