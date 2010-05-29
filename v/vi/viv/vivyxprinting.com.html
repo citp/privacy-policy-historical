@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vivyxprinting.com privacy policy that was archived on 2009-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091127003717id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vivyxprinting.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529032930id_/http%3A//www.vivyxprinting.com/policies.asp) for the most accurate reproduction.-->
 
 <html><head>
 		<title>Custom Posters and Prints Cheap @ VivyxPrinting.com</title>
@@ -16,11 +16,18 @@
 		    var sRootURL = "http://www.VivyxPrinting.com";
 		    var sImageURL = "http://www.VivyxPrinting.com/Images";
 		    var oncartrefresh = "";
-		    var vASID = "7548";
+		    var vASID = "114403";
 		    var vACID = "";
 		    var iKLInt = 0;
 		    var iKLCount=19;
 		    var sScriptName = "policies.asp";
+		    var aQtyDiscounts = new Array();
+		    
+		    aQtyDiscounts[aQtyDiscounts.length] = new Array(1000,0.6);
+aQtyDiscounts[aQtyDiscounts.length] = new Array(500,0.7);
+aQtyDiscounts[aQtyDiscounts.length] = new Array(300,0.8);
+aQtyDiscounts[aQtyDiscounts.length] = new Array(200,0.85);
+
 		    
         	function formatAsCurrency(vNumber){
         		var vValue = vNumber.toString();
@@ -119,12 +126,17 @@
     	                    <li><a href="http://www.VivyxPrinting.com/faq.asp">FAQs</a></li>
     	                    <li><a href="http://www.VivyxPrinting.com/contact.asp">Contact Us</a></li>
     	                    <li><a href="http://www.VivyxPrinting.com/account.asp">My Account</a></li>
+    	                    <li style="padding-right:0px;"><img src="http://www.VivyxPrinting.com/Images/header_share-us.gif" style="margin-right:3px;"><a href="http://www.facebook.com/share.php?u=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Post Link on Facebook!"><img src="http://www.VivyxPrinting.com/Images/icon_facebook.gif"></a>
+    	                        <a href="http://www.stylehive.com/twitter/status.htm?url=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Tweet about ViVYX!"><img src="http://www.VivyxPrinting.com/Images/icon_twitter.gif"></a>
+    	                        <a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.ViVYXPrinting.com" target="_New" title="Share on StumbleUpon!"><img src="http://www.VivyxPrinting.com/Images/icon_stumbleupon.gif"></a>
+    	                        <a href="http://www.VivyxPrinting.com/InviteAFriend.asp" title="Email Invitation to Friends!"><img src="http://www.VivyxPrinting.com/Images/icon_email.gif"></a>
+    	                    </li>
     	                </ul>
     	            </div>
     	            
     	            <div class="cartbox" id="cartcell" style="display:none;">
-    	                <div style="float:right;width:111px;margin-top:4px;margin-right:4px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp"><img src="images/button_checkout.gif" style=""></a></div>
-    	                <div style="float:right;margin-right:10px;font-size:1.3em;width:80px;font-weight:bold;padding-top:12px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp" style="color:#579e25;">My Cart</a></div>
+    	                <div style="float:right;width:111px;margin-top:4px;margin-right:4px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp?RequestID=5%2F28%2F2010+8%3A34%3A56+PM"><img src="images/button_checkout.gif" style=""></a></div>
+    	                <div style="float:right;margin-right:10px;font-size:1.3em;width:80px;font-weight:bold;padding-top:12px;"><a href="http://www.VivyxPrinting.com/ShoppingCart.asp?RequestID=5%2F28%2F2010+8%3A34%3A56+PM" style="color:#579e25;">My Cart</a></div>
     	                <div style="clear:both;"></div>
     	            </div>
     	            <div style="clear:both;"></div>
@@ -145,11 +157,37 @@
                 iCheckTimeout=setTimeout("checkDimension('" + dimensionid + "')",1000);
             }
             
+            function checkQtyDiscounts(dindcost){
+                var dQtyTotal = document.getElementById("printqty").value;
+                var i = 0;
+                
+                if(isNaN(dQtyTotal)){
+                    dQtyTotal = 1;   
+                }
+                if((dQtyTotal * 1) < 1){
+                    dQtyTotal = 1;   
+                }
+                
+                document.getElementById("printqty").value = dQtyTotal;
+                
+                dQtyTotal = dQtyTotal * dindcost;
+                
+                for(i=0;i<aQtyDiscounts.length;i++){
+                    if(dQtyTotal >= aQtyDiscounts[i][0]){
+                        dindcost = dindcost * aQtyDiscounts[i][1];
+                        break; 
+                    }  
+                }
+                
+                return Math.round(dindcost * 100,2) / 100;
+            }
+            
             function checkDimension(dimensionid){
                 var iDimension = document.getElementById(dimensionid).value;
                 var sLastTip = "";
                 var iResetTo = iDimension;
                 var iAltDimension = 0;
+                var dTotalcost = 0;
                 
                 if(dimensionid == "printheight"){
                     iAltDimension = document.getElementById("printwidth").value;
@@ -189,7 +227,9 @@
                     document.getElementById("dimensiontip").style.display = "none";
                 }
                 
-                document.getElementById("dimensionprice").innerHTML = "Your Price = $" + Math.round(((iResetTo * iAltDimension) * dprice) * 100,2) / 100;
+                dTotalcost = checkQtyDiscounts(Math.round(((iResetTo * iAltDimension) * dprice) * 100,2) / 100);
+                
+                document.getElementById("dimensionprice").innerHTML = "Your Price = " + formatAsCurrency(dTotalcost);
                 document.getElementById("dimensionprice").style.display = "block";
                 document.getElementById("priceloading").style.display = "none";
                 
@@ -208,11 +248,12 @@
                     <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>INFORMATION CENTER:</b></div>
                     <ul style="padding:0;margin:0;list-style-type:none;padding-left:20px;margin-bottom:15px;">
                         <li style="padding-top:6px;"><a href="About.asp">About VivyxPrinting.com</a></li>
+                        <li style="padding-top:6px;"><a href="CustomerReviews.asp">Reviews by Our Customers</a></li>
                         <li style="padding-top:6px;"><a href="Contact.asp">Contacting Us</a></li>
                         <li style="padding-top:6px;"><a href="Policies.asp#Orders">Order &amp; Guarantee Policy</a></li>
                         <li style="padding-top:6px;"><a href="Policies.asp#Privacy">Privacy &amp; Security Policies</a></li>
                         <li style="padding-top:6px;"><a href="GetShippingQuote.asp">Shipping Options &amp; Rates</a></li>
-                        
+                        <li style="padding-top:6px;"><a href="Short-Run-Wide-Format-Quantity-Discounts.asp"><b>Quantity Discounts</b></a></li>
                     </ul>
                     
                     <div style="padding-bottom:4px;border-bottom:1px solid #e5e5e5;"><b>MY STUFF:</b></div>
@@ -259,7 +300,10 @@
             </div>
             <div><img src="http://www.VivyxPrinting.com/Images/border-bottom-260.gif"></div>
         </div>
-
+        
+        <div style="margin-top:10px;">
+            <a href="http://www.VivyxPrinting.com/Short-Run-Wide-Format-Quantity-Discounts.asp"><img src="http://www.VivyxPrinting.com/Images/promos/promo_qty-discounts_small.gif" border="0"></a>
+        </div>
     </div>
     <div style="float:right;width:726px;">
         <div><img src="images/right-border-top-726.gif"></div>
@@ -280,7 +324,7 @@
 Order at VivyxPrinting.com with confidence!  We guarantee a high quality print.  If you are not satisfied for any reason, simply let us know within 5 days of receiving your print and we will offer a re-print at no additional charge.
 
 <h3>Fast Turnaround</h3>
-Vivyx Printing will usually print and ship your poster within 1 business day. For most orders, that means you will receive your print in 3-5 days of when your order was placed. With expedited shipping, your order will arrive in 1-2 days!
+Vivyx Printing will usually print and ship your poster within 1 business day. For most orders, that means you will receive your print in 3-5  business days of when your order was placed. With expedited shipping, your order will arrive in 1-2 business days!
 
 <h3>Pre-Ship Visual Inspection</h3>
 Your print is visually inspected by our quality control department before it is shipped, to ensure you receive a high-quality print.  This is a manual process, not performed by machines.  We believe in delivering quality!
@@ -329,7 +373,8 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
     	            
                     <div style="margin-top:10px;"><img src="images/border_review-top.gif"></div>
                     <div style="border-left:1px solid #cccccc;border-right:1px solid #cccccc;margin-left:1px;margin-right:2px;background-color:white;">
-                        <div style="padding:10px;"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-empty.gif"> - "<i>Wow - that was fast!  Received my print the following day.  Large, beautiful and very nice quality!</i>" by Daniel on 10/25/2009</div>
+                        <div style="padding:10px;"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"><img src="http://www.VivyxPrinting.com/Images/star-full.gif"> - "<i>Very excellent! turnaround time was great, quality of my prints were beautiful</i>" by Karla on 4/30/2010</div>
+                        <div style="padding:10px;padding-top:0px;"><a href="http://www.VivyxPrinting.com/CustomerReviews.asp" style="text-decoration:underline;">See All Reviews!</a></div>
                     </div>
                     <div><img src="images/border_review-bottom.gif"></div>
                     
@@ -343,6 +388,8 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	                    <li><a href="http://www.VivyxPrinting.com/contact.asp">Customer Service</a></li>
 	                    <li><a href="http://www.VivyxPrinting.com/policies.asp">Privacy &amp; Security</a></li>
 	                    <li><a href="http://www.VivyxPrinting.com/faq.asp">FAQs</a></li>
+	                    <li><a href="http://www.VivyxPrinting.com/Short-Run-Wide-Format-Quantity-Discounts.asp">Quantity Pricing</a></li>
+	                    <li><a href="http://www.VivyxPrinting.com/Photo-Printing-Affiliate-Program.asp">Affiliate Program</a></li>
 	                </ul>
 	            </div>
 	            <div class="copyright">
@@ -360,13 +407,13 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	        </div>
 	        <div style="margin-top:10px;font-size:1.2em;">
 	            <div style="width:220px;float:left;">
-    	            <h2>Prices for Popular Sizes</h2>
+    	            <h2 style="font-size:12pt;">Prices for Popular Sizes</h2>
     	            <table cellspacing="0" cellpadding="4">
         	            <tbody><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">12" x 16"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $4.89</font></td></tr><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">18" x 24"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $11.00</font></td></tr><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">20" x 30"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $15.28</font></td></tr><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">24" x 36"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $22.00</font></td></tr><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">30" x 40"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $30.55</font></td></tr><tr><td align="LEFT" style="border-bottom:1px solid #e5e5e5;font-weight:bold;">36" x 54"</td><td align="RIGHT" style="padding-left:40px;border-bottom:1px solid #e5e5e5;"><font class="ourprice">Only $49.49</font></td></tr>
     	            </tbody></table>
 	            </div>
 	            <div style="float:left;width:215px;margin-left:20px;padding-left:20px;">
-	                <h2>Get a Quote For Your Size!</h2>
+	                <h2 style="font-size:12pt;">Get a Quote For Your Size!</h2>
 	                <table cellspacing="0" cellpadding="0">
 	                    <tbody><tr>
 	                        <td valign="TOP" style="font-size:10pt;padding-right:10px;border-right:2px dotted #e5e5e5;">
@@ -375,6 +422,9 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	                            <p>
 	                            Width:<br>
 	                            <input type="text" id="printwidth" name="printwidth" value="36" size="4" maxlength="4" onkeyup="queueCheckDimension(&quot;printwidth&quot;);">
+	                            </p><p>
+	                            Quantity:<br>
+	                            <input type="text" id="printqty" name="printqty" value="1" size="4" maxlength="4" onkeyup="queueCheckDimension(&quot;printwidth&quot;);">
 	                        </p></td>
 	                        <td valign="TOP" style="font-size:8pt;padding-left:10px;line-height:1.5em;">
 	                            <b>Tips &amp; Rules:</b><br>
@@ -385,6 +435,11 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	                            •&nbsp;Maximum 36" x 120" size
 	                        </td>
 	                    </tr>
+                        <tr>
+                            <td colspan="2" style="font-size:8pt;padding-top:5px;">
+                                <input type="CHECKBOX" name="isLaminated" id="isLaminated" value="1" onclick="queueCheckDimension(&quot;printheight&quot;);"><b>I want my poster laminated</b>
+                            </td>
+                        </tr>
 	                    <tr>
 	                        <td colspan="2" class="ourprice" style="padding-top:10px;">
                                 
@@ -393,8 +448,13 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	                        </td>
 	                    </tr>
 	                    <tr>
-	                        <td colspan="2" style="padding-top:10px;">
-	                            <div id="dimensiontip" style="color:red;font-size:8pt;padding:8px;border:1px solid #e5e5e5;background-color:lightyellow;display:none;"></div>
+	                        <td colspan="2">
+	                            <div id="dimensiontip" style="color:red;font-size:8pt;padding:8px;border:1px solid #e5e5e5;background-color:lightyellow;display:none;margin-top:10px;"></div>
+	                        </td>
+	                    </tr>
+	                    <tr>
+	                        <td colspan="2" style="padding-top:10px;font-size:8pt;">
+	                            <a href="Short-Run-Wide-Format-Quantity-Discounts.asp" style="text-decoration:underline;">Learn about quantity pricing!</a>
 	                        </td>
 	                    </tr>
 	                </tbody></table>
@@ -403,6 +463,7 @@ Further, as part of our privacy policy, we do not subscribe you to third party n
 	        </div>
 	        <div style="margin-top:10px;"><a href="javascript:delayhidemenu();">Close Pop-Up</a></div>
 	    </div>
+	    
 	    <!--<div style='display:none;' id='uploadboxcontent'>
 	        <div id='uploadicon' style='text-align:center;margin-bottom:10px;'><img src='images/icon_photo-to-server.gif'></div>
 	        <div id='filelist'></div>
