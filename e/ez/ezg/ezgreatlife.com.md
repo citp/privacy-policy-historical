@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ezgreatlife.com privacy policy that was archived on 2008-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080704071522id_/http%3A//www.ezgreatlife.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezgreatlife.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529111921id_/http%3A//www.ezgreatlife.com/privacy) for the most accurate reproduction.*
 
-# Privacy | EZGreatLife.com
-
-**Posted by**  [John](http://www.ezgreatlife.com/author/admin/ "Posts by John") in March 10th, 2008  
+# Privacy
 
 **Privacy Policy**
 
