@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highqualitybacklinks.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202075859id_/http%3A//www.highqualitybacklinks.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highqualitybacklinks.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529100124id_/http%3A//www.highqualitybacklinks.com/Privacy.html) for the most accurate reproduction.*
 
 # High Quality Backlinks | Privacy Policy
 
@@ -18,7 +18,7 @@ Your postal address
 
 Generally, this information is requested when you are either downloading free products, when you purchase any of my products (eBooks, software etc.), or when you subscribe to my newsletters. I will never collect sensitive information about you without your explicit consent. 
 
-The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at  Winson_Yeung[@]hotmail.com . If you find any inaccuracies we will delete or correct it promptly.
+The information I hold will be accurate and up to date. You can check the information that I hold about you by e-mailing us at highqualitybacklinks[@]ymail.com . If you find any inaccuracies we will delete or correct it promptly.
 
 **How I Control Your Personal Information**
 
@@ -43,5 +43,3 @@ I will only disclose your personal information, without notice, if required to d
 (b) Protect and defend the rights or property of AffiliateMarketingMachine.com 
 
 (c) Act in urgent circumstances to protect the personal safety of users of AffiliateMarketingMachine.com 
-
-**Winson Yeung** ,  High Quality Backlinks
