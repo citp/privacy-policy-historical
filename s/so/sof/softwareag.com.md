@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127172357id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softwareag.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529222408id_/http%3A//www.softwareag.com/corporate/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Software AG appreciate your visit to our website and thank you for your interest in our company, our products and our services. Protection of your privacy and personal data is an important matter for us. In order to guarantee you a high level of transparency and security, our declaration on data protection as set forth below will inform you as to the nature, scope and purpose of any collection, use and processing of information and data recorded by us. 
 
-In this respect, please keep in mind that this declaration on data protection refers only to the publicly accessible websites with the [following](https://web.archive.org/corporate/privacy_annex.asp) Internet addresses/URLs of Software AG. You may read them [here](https://web.archive.org/corporate/privacy_annex.asp).
+In this respect, please keep in mind that this declaration on data protection refers only to the publicly accessible websites with the [following](https://web.archive.org/corporate/countries_page.asp "Country list for Privacy Policy and Country page") Internet addresses/URLs of Software AG. You may read them [here](https://web.archive.org/corporate/countries_page.asp "Country list for Privacy Policy and Country page").
 
  **1.  External Links**
 
@@ -50,7 +50,7 @@ Should you provide us with your e-mail address, we will also communicate with yo
 
  **8.  Participation in Forums**
 
-On our "Developer Community" website, we offer you the possibility of participating in online forums. To this end, we require sufficient information in order to be able to clearly identify you so that, where applicable, we can meet our duty to subsequently identify authors of illegal content. Your personal data is not disclosed to other forum participants unless you have consented thereto in your user profile. Please keep in mind that the texts published by you may be viewed in part by everyone without limitation on the Internet. To this extent, please observe our [Terms of Use](http://developer.softwareag.com/tamino/main/legal.htm) when registering for our online forums. Technical administration and hosting of the forums is conducted on our behalf and is controlled by us, in part, outside the EU as well.
+On our "Developer Community" website, we offer you the possibility of participating in online forums. To this end, we require sufficient information in order to be able to clearly identify you so that, where applicable, we can meet our duty to subsequently identify authors of illegal content. Your personal data is not disclosed to other forum participants unless you have consented thereto in your user profile. Please keep in mind that the texts published by you may be viewed in part by everyone without limitation on the Internet. To this extent, please observe our [Terms of Use](http://communities.softwareag.com/ecosystem/communities/public/common/forums_overview/forum_guidelines.html) when registering for our online forums. Technical administration and hosting of the forums is conducted on our behalf and is controlled by us, in part, outside the EU as well.
 
  **9.  Data Protection for Minors**
 
