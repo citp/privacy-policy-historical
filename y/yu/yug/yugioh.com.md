@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223025459id_/http%3A//www.4kids.tv/information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yugioh.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530005123id_/http%3A//www.4kids.tv/information/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 4Kids TV
 
