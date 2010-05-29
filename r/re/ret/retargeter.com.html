@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the retargeter.com privacy policy that was archived on 2009-09-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090924024839id_/http%3A//www.retargeter.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the retargeter.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529084836id_/http%3A//www.retargeter.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta name="description" content="Retargeter.com provides retargeting technology for brand awareness and increased conversions by showing banner ads to visitors to a site after they leave.�
@@ -28,8 +28,16 @@ ReTargeter is the first self serve ad network focused on retargeting. ReTargeter
 </script>
 
 <link href="http://www.retargeter.com/wp-content/themes/retargetertheme/style.css" rel="stylesheet" type="text/css">
-</head>
+<script type="text/javascript" async="" src="https://i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/scripts.kissmetrics.com/5beabde16016faeab19696fe60507c8cdc49d4a2.1.js"></script></head>
 <body onload="initDHTMLAPI(); initScrollers()">
+
+<!-- Main KM Tracking Code -->
+<script type="text/javascript">
+  var _kmq = _kmq || [];
+  (function(){function _kms(u,d){if(navigator.appName.indexOf("Microsoft")==0 && d)document.write("<scr"+"ipt defer='defer' async='true' src='"+u+"'></scr"+"ipt>");else{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);}}_kms('https://i.kissmetrics.com/i.js');_kms('http'+('https:'==document.location.protocol ? 's://s3.amazonaws.com/' : '://')+'scripts.kissmetrics.com/5beabde16016faeab19696fe60507c8cdc49d4a2.1.js',1);})();
+</script>
+
+
 <div id="container">
   <div id="mother">
     <div id="header">
@@ -95,11 +103,10 @@ function get_amount()
       <div id="signup">
         <h1>Find Your Users Again After They Have Left Your Site</h1>
         <h2>Retargeter is the first self service retargeting network. Simply drop a simple piece of code on your site and begin serving ads to your visitors as they navigate across the web.</h2>
-		<div class="no-services"><span style="font-size:9px"># of Campaigns</span><br>
-		<input style="float:left" type="text" id="qnty" name="qnty" size="4" maxlength="2" value="1">
+		<div class="no-services"><br>
         <!--<a href="https://secure.usaepay.com/interface/epayform/on9n0YjV5Mja9uYx79bT0p57Vg3fY3Z9/"></a> -->
         </div>
-		<a href="javascript://" onclick="get_amount(); "></a>
+		<a href="https://retargeter.recurly.com/subscribe/standard"></a>
         <div class="clearBoth"></div>
 		</div>
     </div>
@@ -107,8 +114,8 @@ function get_amount()
       <h1>Have more questions? </h1>
       <span class="orange">|</span>
       <h1>Can't wait to sign up?</h1>
-      <a href="#"> Call or email us today!</a> </div>
-    <div id="callus">Get Started 818.584.2480</div>
+      <a href="mailto:Info@ReTargeter.com?subject=Looking to learn more about ReTargeter..."> Call or email us today!</a> </div>
+    <div id="callus">Get Started 415.738.8544</div>
     <div id="dottedline2"></div>
     <div class="middlecontainer">
       <div id="maincol">
@@ -185,7 +192,7 @@ San Francisco, CA 94111</p>
           </div>
         </div>
         
-		<div id="main2col">
+	<div id="main2col">
           <div class="width257">
             <h1>Contact Us</h1>
             We look forward to hearing from you!
@@ -195,25 +202,28 @@ San Francisco, CA 94111</p>
               <div class="contactrighttbox">
                 <input type="text" class="input" name="name1">
               </div>
+
               <div class="contactleftbox">Email:<span class="required">*</span></div>
               <div class="contactrighttbox">
-                <input type="text" class="input" name="email">
-              </div>
+                <input type="text" class="input" name="email" onblur="return emailthisnew();">
+<span id="email_err" class="error"></span>
+ </div>			 
+
               <div class="contactleftbox">Phone:</div>
               <div class="contactrighttbox">
                 <input type="text" class="input" name="phone">
               </div>
-              <div class="contactleftbox">Website:</div>
+             <!-- <div class="contactleftbox">Website:</div>
               <div class="contactrighttbox">
-                <input type="text" class="input" name="website">
-              </div>
+                <input type="text" class="input" name="website"/>
+              </div> -->
               <div class="contactleftbox">Other Information/ questions:</div>
               <div class="contactrightttextarea">
                 <textarea class="textarea" name="txtName" cols="" rows=""></textarea>
               </div>
               <div class="contactleftbox"></div>
-              <div class="contactrighttbox">
-                <input type="button" class="submitbtn" value="" onclick="return emailthis();">
+              <div class="contactrighttbox" id="btn123">
+                <input type="button" id="btn" class="submitbtnfade" disabled="disabled" value="" onclick="return emailthis();">
               </div>
 		</form>
               <div class="dottedline4"></div>
@@ -222,7 +232,6 @@ San Francisco, CA 94111</p>
 			<div class="spacer5"></div>
             <div class="rulesScroller">
 			  <div><div class="float-left img_testimonial"><img src="http://www.invesp.com/blog/images/blog-images/logo1.jpg" alt="Anthony Holloway | K9Cuisine" title="“For a fast growing company like ours, Retargeter is PERFECT! Within the first month, we saw 20 new sales and increased brand awareness. You can’t get better ROI than that!”" class="paddingRB10" width="55" height="55"></div> <div class="float-left img_testimonial_desc">“For a fast growing company like ours, Retargeter is PERFECT! Within the first month, we saw 20 new sales and increased brand awareness. You can’t get better ROI than that!”<br><a href="http://www.k9cuisine.com/" title="“For a fast growing company like ours, Retargeter is PERFECT! Within the first month, we saw 20 new sales and increased brand awareness. You can’t get better ROI than that!”" target="_blank">Anthony Holloway | K9Cuisine</a></div><div class="dottedline5"></div></div><br>
-<div><div class="float-left img_testimonial"><img src="http://s3.amazonaws.com/twitter_production/profile_images/150997556/retargeterTwitter_bigger.gif" alt="Arjun A | ReTargeter" title="“We use our own solution! Its been our best marketing tool!”" class="paddingRB10" width="55" height="55"></div> <div class="float-left img_testimonial_desc">“We use our own solution! Its been our best marketing tool!”<br><a href="http://www.retargeter.com" title="“We use our own solution! Its been our best marketing tool!”" target="_blank">Arjun A | ReTargeter</a></div><div class="dottedline5"></div></div><br>
 <div><div class="float-left img_testimonial"><img src="http://www.rapleaf.com/images/common/logo_leaf.gif" alt="Auren H | RapLeaf" title="“This solution has provided a tremendous ROI.” " class="paddingRB10" width="55" height="55"></div> <div class="float-left img_testimonial_desc">“This solution has provided a tremendous ROI.” <br><a href="http://www.rapleaf.com" title="“This solution has provided a tremendous ROI.” ">Auren H | RapLeaf</a></div><div class="dottedline5"></div></div><br>
 <div><div class="float-left img_testimonial"><img src="http://www.chesterfrench.com/buy/box2.jpg" alt="DA | ChesterFrench" title="Hell yeah!!! Rock on! " class="paddingRB10" width="55" height="55"></div> <div class="float-left img_testimonial_desc">Hell yeah!!! Rock on! <br><a href="http://www.chesterfrench.com" title="Hell yeah!!! Rock on! " target="_blank">DA | ChesterFrench</a></div><div class="dottedline5"></div></div><br>
 <div><div class="float-left img_testimonial"><img src="http://gomobo.com/img/logo.gif" alt="Evan Sanchez | GoMobo" title="“ReTargeter is a great advertising partner: they provide tremendous reach and attentive service.”" class="paddingRB10" width="55" height="55"></div> <div class="float-left img_testimonial_desc">“ReTargeter is a great advertising partner: they provide tremendous reach and attentive service.”<br><a href="http://www.gomobo.com" title="“ReTargeter is a great advertising partner: they provide tremendous reach and attentive service.”">Evan Sanchez | GoMobo</a></div><div class="dottedline5"></div></div><br>
@@ -251,14 +260,17 @@ San Francisco, CA 94111</p>
 <div id="footer" class="clearBoth">
   <div class="width900">
     <div class="width40"></div>
-    <div class="width579"> <a href="http://www.retargeter.com/privacy-policy" class="link">Privacy Policy</a> <span class="float-left paddingT10">&nbsp;&nbsp;| &nbsp;&nbsp;</span> <a href="http://www.retargeter.com/terms-conditions" class="link">Terms &amp; Conditions</a> <span class="float-left paddingT10">&nbsp;&nbsp;| &nbsp;&nbsp;</span> <a href="http://www.retargeter.com/press-room" class="link">Press Room</a> </div>
+    <div class="width579"> <a href="http://www.retargeter.com/privacy-policy" class="link">Privacy Policy</a> 
+	<span class="float-left paddingT10">&nbsp;&nbsp;| &nbsp;&nbsp;</span> <a href="http://www.retargeter.com/terms-conditions" class="link">Terms &amp; Conditions</a> 
+	<span class="float-left paddingT10">&nbsp;&nbsp;| &nbsp;&nbsp;</span> <a href="http://www.retargeter.com/press-room" class="link">Press Room</a> 
+	<span class="float-left paddingT10">&nbsp;&nbsp;| &nbsp;&nbsp;</span> <a href="http://www.retargeter.com/partners" class="link">Partners</a></div>
     <div class="width253">Copyright © 2008 Retargeter. All rights reserved</div>
   </div>
 </div>
 <!-- Retargeter.com Tag -->
-<img src="http://ad.adtegrity.net/pixel?id=557274&amp;t=2" width="1" height="1">	
-<img src="http://ad.doubleclick.net/activity;src=2053556;dcnet=4591;boom=22579;sz=1x1;ord=1?" width="1" height="1" border="0" alt="">
-<img src="http://media.fastclick.net/w/tre?ad_id=20959;evt=13349;cat1=14874;cat2=14877" width="1" height="1" border="0">
+<script src="http://ad.adtegrity.net/pixel?id=557274&amp;t=1" type="text/javascript"></script>	
+<img src="http://ad.doubleclick.net/activity;src=2053556;dcnet=4591;boom=22579;sz=1x1;ord=1?" width="1" height="1" border="0" alt=""> 
+<img src="http://ib.adnxs.com/seg?add=21012&amp;t=2" width="1" height="1">
 <!-- End of Retargeter.com Tag -->
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -269,5 +281,11 @@ try {
 var pageTracker = _gat._getTracker("UA-4574548-2");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+<!-- KISSinsights code for retargeter.com -->
+<script type="text/javascript">
+document.write(unescape('%3Cscript id="ki_loader" src="http' + ((document.location.protocol == 'https:') ? 's' : '') + '://s3.amazonaws.com/j.kissinsights.com/1.0/load.js?site=retargeter.com" type="text/javascript"%3E%3C/script%3E'));
+</script><script id="ki_loader" src="https://s3.amazonaws.com/j.kissinsights.com/1.0/load.js?site=retargeter.com" type="text/javascript"></script>
+
 
 </div></body></html>
