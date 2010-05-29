@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2009-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091013055959id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esnips.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529175631id_/http%3A//www.esnips.com/statments/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
 PRIVACY POLICY  
+---  
 Thank you for visiting www.esnips.com (together with all other websites operated by eSnips Ltd. or its affiliates, the “Site”). Your privacy is important to us. To better protect your privacy, we provide this privacy policy (“Privacy Policy”) explaining our online information practices and the choices you can make about the way your information is collected and used at this Site. This Privacy Policy forms part of the [Terms of Use](http://www.esnips.com/statments/terms.jsp).  
    
 Introduction  
