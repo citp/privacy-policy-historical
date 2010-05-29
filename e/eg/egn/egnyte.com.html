@@ -1,387 +1,334 @@
-<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420214508id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the egnyte.com privacy policy that was archived on 2010-05-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100529231342id_/http%3A//www.egnyte.com/corp/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Egnyte</title>
-<link rel="SHORTCUT ICON" href="/images/icons/egnyte.V1140.ico">
-<meta name="Keywords" content="egnyte, online file storage, backup, collaboration, file server, file sharing, knowledge management, content management, disaster recovery, archival solution, sharepoint, box.net">
-<link rel="stylesheet" type="text/css" href="/css/buttons.V9256.css">
-<link rel="stylesheet" type="text/css" href="/css/global.V9088.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/corp.V9799.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/default.V9988.css">
-<link rel="stylesheet" type="text/css" href="/css_brn/buttons.V9426.css">
-<script language="javascript" src="../js/global.V10276.js"></script>
-<script src="../js/default.V9766.js" type="text/javascript"></script>
+<title>Egnyte - Privacy Policy</title>
 
-<script>
+<link rel="SHORTCUT ICON" href="/common/images/egnyte.ico">
+<meta name="keywords" content="Online storage, file sharing, online backup, large files, ftp, online hard drive, cloud storage, online collaboration, Egnyte">
+<meta name="description" content="Cloud File Server from Egnyte provides businesses with online storage, file sharing, online backup, FTP, and large file transfer capabilities for as low as $4 per user per month. Egnyte offers Free Trial without requiring credit card.">
 
-function showHint(oID) {
-var o = document.getElementById(oID);
-if (o.style.visibility=='hidden') o.style.visibility = 'visible';
-else o.style.visibility = 'hidden';
-}
+<link rel="stylesheet" type="text/css" href="/common/css/layout_internal.css">
+<link rel="stylesheet" type="text/css" href="/common/css/newspagination.css">
+<script src="/common/js/newspagination.js" type="text/javascript"></script>
+<script type="text/javascript" src="/common/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/common/js/jscript.js"></script>
+
+<!-- Ext JS Script files	-->
+<script language="javascript" src="/corp_extJS/adapter/ext/ext-base.js"></script>
+<script language="javascript" src="/corp_extJS/ext-all.js"></script>
+
+<!--	Included solely for opening popup windows like "Customer Login	-->
+<!--	Should be removed when we upgrade to jQuery popups				-->
+<script type="text/javascript" src="/corp_js/global.js"></script>
+
+<!--// chrommenu related scripts and css files //-->
+	
+<link rel="stylesheet" type="text/css" href="/common/css/chromemenustyle.css">
+<script type="text/javascript" src="/common/js/chromemenu.js"></script>
 
 
-function showDefinition(obj) {
-var o = obj + '_A';
-o = document.getElementById(o);
-if (o.style.display=='none') o.style.display='';
-else o.style.display='none';
-}
-
-function hideHint(div_id)
-{
-    setTimeout("showDIVcorp('" + div_id + "')" , 1000);
-}
-
-function usePlan(planName)
-{
-	var queryString = window.top.location.search.substring(1);
-	var parameterValue=queryString.split("=")[1];
-	var schemeType = document.getElementById("schemeType");
-    schemeType.value = parameterValue;
-	var plans=new Array("Small","Group","Enterprise","Personal");
-	var subscribers=new Array("5","10","20","1");
-	var storage=new Array("50","100","200","10");
-	var monthlyPricing=new Array("135","240","420","27");
-	var yearlyPricing=new Array("1349","2399","4199","279");
-	if(planName != null && planName != "")
-    {
-		for(i=0;i<plans.length;i++)
-		{
-			if(plans[i].toLowerCase()==planName.toLowerCase())
-			{
-				var planObj = document.getElementById("plan");
-				 planObj.value = plans[i];
-				 var subscriberObj = document.getElementById("subscribers");
-				 subscriberObj.value = subscribers[i];
-				var storageObj = document.getElementById("storage");
-				 storageObj.value = storage[i];
-
-				var monthlyPricingObj = document.getElementById("monthlyPricing");
-				 monthlyPricingObj.value = monthlyPricing[i];
-				 var yearlyPricingObj = document.getElementById("yearlyPricing");
-				 yearlyPricingObj.value = yearlyPricing[i];
-
-				 var url = "../register.egnyte";
-				document.frmUserPlans.action = url;
-				document.frmUserPlans.submit();
-			}
-		}
-	}
-}
-
-</script>
-<style type="text/css">
-<!--
-.hintanchor {font-weight: bold;
-color: navy;
-margin: 3px 8px;
-}
--->
-</style>
 </head>
+<body>
 
-<body onload="setFocus('pcUserId')">
-<!-- THIS IS THE INCLUDE FILE FOR PAGE HEADER	-->
+<form name="frmLandingPage" method="POST">
+<!--	Start of hidden fields	-->
+<input type="hidden" id="plan" name="plan">
+<input type="hidden" id="monthlyPricing" name="monthlyPricing">
+<input type="hidden" id="schemeType" name="schemeType">
+<input type="hidden" id="yearlyPricing" name="yearlyPricing">
+<input type="hidden" id="subscribers" name="subscribers">
+<input type="hidden" id="standardUsers" name="standardUsers">
+<input type="hidden" id="storage" name="storage">
+<input type="hidden" id="specialType" name="specialType">
+<input type="hidden" id="utm_term" name="utm_term">
+<input type="hidden" id="utm_campaign" name="utm_campaign">
+<input type="hidden" id="utm_source" name="utm_source">
+<!--	End of hidden fields	-->
+</form>
 
-<div id="header">
-	<div style="float:right; border-left:1px solid white; padding:15px 18px; height:41px; text-align:center">
-		<a href="/corp/business_plans_and_pricing.html?scheme=trial" style="font:bold 16px/16px Arial, Helvetica, sans-serif; color:#CC0000; text-decoration:none">15 DAY FREE TRIAL</a><br>
-		<span style="font:normal 11px Arial, Helvetica, sans-serif; color:#666666">No credit card - No obligation</span><br>
-		<a href="/corp/business_plans_and_pricing.html?scheme=trial" style="font:bold 13px Arial, Helvetica, sans-serif; color:#0066CC">UNLIMITED Storage</a>
-	</div>
-	<div id="logo_header" onclick="javascript:location.href='/egnyte_home.html'"></div>
-	<!--
-	<ul id="nav" class="headerBar">
-		<li id="lnk_left" class="cbleft"></li>
-		<li id="lnk_home"><a href="/egnyte_home.html">Home</a></li>
-		<li id="lnk_prod_overview"><a href="/corp/po_file_storage.html'">Product Overview</a>
-			<ul id="list_prod_overview">
-				<li><a href="po_file_storage.html">Online File Storage</a></li>
-				<li><a href="po_continuous_backup.html">Continuous Backup</a></li>
-				<li><a href="po_collaboration.html">Collaboration</a></li>
-				<li><a href="po_mobile.html">Mobile Drive</a></li>
-				<li><a href="po_security.html">Security & Privacy</a></li>
-			</ul>
-		</li>
-		<li id="lnk_prod_demo"><a href="product_demo.html">Product Demo</a></li>
-		<li id="lnk_misc"><a href="/corp/au_solutions.html">Solutions</a></li>
-		<li id="lnk_misc"><a href="/corp/business_plans_and_pricing.html?scheme=trial">Free Trial</a></li>
-		<li id="lnk_misc"><a href="/corp/business_plans_and_pricing.html?scheme=buy">Buy Now</a></li>
-		<li id="lnk_misc"><a href="au_company.html">About Us</a>
-			<ul id="list_about_us">
-				<li><a href="au_company.html">Company</a></li>
-				<li><a href="about_us.html">Team</a></li>
-				<li><a href="au_press.html">Press</a></li>
-			</ul>
-		</li>
-		<li id="lnk_live_web_demo"><a href="/corp/sign_livedemo.html">Join Live Web Demo</a></li>	
-		<li id="lnk_right" class="cbright"/>
-	</ul>
-	-->
-	<ul class="headerBar">
-		<li class="cbleft"></li>
-		<li><a href="/egnyte_home.html" style="line-height:30px">Home</a></li>
-		<li onmouseover="displayDIV('pomenusub')" onmouseout="displayDIV('pomenusub')" onclick="document.location.href='/corp/po_file_storage.html'" style="cursor:pointer">Product Overview</li>
-		<li onmouseover="displayDIV('pdmenusub')" onmouseout="displayDIV('pdmenusub')" style="cursor:pointer">Product Demo</li>
-		<li><a href="/corp/au_solutions.html" style="line-height:30px">Solutions</a></li>
-		<li><a href="/corp/business_plans_and_pricing.html?scheme=trial" style="line-height:30px">Free Trial</a></li>
-		<li><a href="/corp/business_plans_and_pricing.html?scheme=buy" style="line-height:30px">Buy Now</a></li>
-		<li onmouseover="displayDIV('aumenu')" onmouseout="displayDIV('aumenu')" onclick="document.location.href='au_company.html'" style="cursor:pointer">About Us</li>
-		<li class="cbright"></li>
-		<li style="float:right; border-right:none; padding-right:0px"><a href="javascript:getWebDemoDates();" style="line-height:30px" title="Join a Live Web Demo">Join Live Web Demo</a></li>
-	</ul>
-</div>
+<div id="layout">
 
-<table border="0" cellspacing="0" cellpadding="0" style="background-color:#dce1da; width:830px; margin:0px auto">
-		<tbody><tr>
-          <td valign="top" width="18"><img src="../images/default/corp/btlc_dce1da.V4912.gif"></td>
-          <td class="support" rowspan="2" valign="top" style="padding:0px 10px 25px 0px">
-		 	<table cellpadding="0" cellspacing="5" border="0" width="100%" style="display:block">
-          <tbody><tr>
-            <td width="100%" class="orangeLabel"><h1>Privacy Policy</h1></td>
-          </tr>
-          <tr>
-            <td>
-            	<p>Thank you for visiting Egnyte Inc.'s website located at www.egnyte.com. Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information.</p>
-	<p><strong>YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT <a href="http://www.egnyte.com">http://www.egnyte.com</a> AS WELL AS THIS PRIVACY POLICY.  IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.</strong></p>
-	<p><strong>What Information Is Collected</strong><br>
-		You may visit our website and learn about Egnyte's  service offered on the website anonymously. The data that we regularly collect about visitors to our website (e.g., browser type, pages accessed, duration of visit, etc.) does not enable us to identify you. We also collect your IP address, but this information generally does not reveal your personal identity.<br>
-	<br>
+<!--// start logo row //-->
 
-	We collect personally identifiable information about you only if you voluntarily provide it to us when you use an online registration form to create an account for use of the Egnyte service. You are required to pick a password and username, and to provide your first, last name and email address and some additional contact information about your company/establishment.  We may also ask you, but you are not required to provide, information regarding how you learned about Egnyte. Finally, if you use the Egnyte service, we will store the data you upload onto our servers.  Egnyte may access your account, including its data, to respond to service or technical problems or as stated in this Agreement. You, not Egnyte, shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness and copyright of all data stored in your account. Furthermore, Egnyte shall not be responsible or liable for the deletion, correction, destruction, damage, loss or failure to store any data.</p>
+  <div id="header">
+    <div class="logo"><a href="/" title="Egnyte"><img src="/common/images/logo_head.gif" alt="Egnyte"></a></div>
+    <ul>
+    <li><a href="/corp/business_plans_and_pricing.html?scheme=trial" class="freetrial" title="Sign Up">FREE TRIAL</a></li>
+    <li><span class="telephone">| <strong>QUESTIONS? 1-877-734-6983</strong></span></li>
+      <li><a href="/corp/support.html" class="support">Support</a></li>
+      <li><a href="#" class="login" onclick="showCustLoginBox();return false;">Customer Login</a></li>
+      
+    </ul>
+  </div>
+  <div class="clear"></div>
 
-	<p><strong>Use of Information</strong><br>
-	We use your contact information and unique identifier (such as a user name and password) to provide access to the Egnyte service available on our website and to contact you when reasonably necessary. We may also use any information you have provided as reasonably necessary to administer or provide customer support for the website and the Egnyte service. We use the information submitted by you to send you correspondence and other information that may interest you and to respond to your correspondence. If, for any reason, you would like to be removed from our email list, you can send us an email at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a>.</p>
-	<p><strong>Disclosure of Information</strong><br>
-	We do not sell, rent or lease your personally identifiable information to third parties.  We may disclose your personally identifiable information to certain third party vendors (e.g., data storage facilities) used by Egnyte to assist us in providing the Egnyte services, to the extent necessary to enable such vendors to provide such assistance.</p>
+<!--// start logo row //-->
 
-	<ol>
-	 <li>We may send email offers to selected groups of Egnyte users on behalf of our company and on behalf of other businesses in whose products and services you may have an interest; but we will not disclose any of your personally identifiable information to any such businesses. We will also include in each such email instructions as to how you can permanently opt-out of receiving any such future emails.</li>
-	<li>We also reserve the right to disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority.</li>
-	<li>Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Egnyte's assets or stock in Egnyte's line of business to which this privacy policy relates or upon any other corporate reorganization. (If, for example, in the future, we undergo any sort of corporate reorganization, we may need to transfer your personally identifiable information to the surviving entity.)</li>
-	</ol><br>
-	<p><strong>Updating Your Information</strong><br>
-	To update any of your personal information previously submitted to Egnyte you may do so within the Account Settings section of your account when logged in.<br>.
-	<br>
+<table width="833" border="0" cellspacing="0" cellpadding="0">
+  <tbody><tr>
+    <th scope="row"><img src="/common/images/menu_left.gif" width="14" height="28"></th>
+    <td height="28" bgcolor="#6d6d6d">
+    
+                <div class="chromestyle" id="chromemenu">
+                        <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/corp/business_plans_and_pricing.html">Plans &amp; Pricing</a></li>
+                        <li><a href="/corp/online-file-server-features.html">Features</a></li>
+                        <li><a href="/corp/how-online-file-storage-works.html" rel="dropmenu2">How It Works <img src="/common/images/down.gif" border="0"></a></li>
+                        <li><a href="/corp/product_demo.html" rel="dropmenu3">Product Demo <img src="/common/images/down.gif" border="0"></a></li>
+                        <li><a href="/corp/au_solutions.html">Solutions</a></li>
+                        <li><a href="#" onclick="getWebDemoDates();">Join Live Web Demo</a></li>
+                        <li><a href="/corp/au_company.html" rel="dropmenu4">About Us <img src="/common/images/down.gif" border="0"></a></li>	
+                        </ul>
+                       
+                        </div>
 
-	<strong>A Special Note about Children</strong><br>
-	Our website does not gather any personally identifiable information from children that we know are under the age of 13. We believe strongly that parents should play an integral part in their child's on-line experience and should monitor that activity to ensure on-line sites are respecting their child's privacy. For additional information on protecting children's privacy, visit: <a href="http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html">http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html</a></p>
-	<p><strong>Cookies</strong><br>
-	Cookies are files that your web browser places on your computer's hard drive and are used to tell us whether you have visited our website previously. We issue a session cookie only to record encrypted authentication information for the duration of a specific session. The session cookie includes neither the username or nor the password of the user.</p>
-	<p><strong>Links to Third Party Websites</strong><br>
-	We may place from time to time links on our website to one or more websites for our advertisers or affiliates. Some advertisers and affiliates may collect personally identifiable information when you access their links or when you indicate you would like to participate in a special offer. When you click on a link to a third party website from our website, your activity and use on the linked website is governed by that website's policies, not by those of Egnyte. We encourage you to visit their websites and review their privacy and user policies.<br>
+                        
+                        <!--2nd drop down menu -->                                                
+                        <div id="dropmenu2" class="dropmenudiv" style="width: 130px;">
+                        <a href="/corp/how-online-file-storage-works.html">Overview</a>
+                        <a href="/corp/online-storage.html">Online Storage</a>
+                        <a href="/corp/file-sharing.html">File Sharing</a>
+                        <a href="/corp/file-access.html">File Access</a>
+                        <a href="/corp/computer-backup.html">Automatic Backup</a>
+                        <a href="/corp/send-large-files.html">Large File Transfer</a>
+                        <a href="/corp/local-cloud.html">Local Cloud</a>
+                        <a href="/corp/user-management.html">User Management</a>
+                        <a href="/corp/security-privacy.html">Security &amp; Privacy</a>
+                        </div>
 
-	<br>
-	<strong>Security Measures</strong><br>
-	Our website employs procedural and technological measures, consistent with legal requirements and the demands of customer service, reasonably designed to protect your personally identifiable information &amp; your data from loss, misuse or unauthorized access, disclosure, alteration or destruction, including using secure servers for data storage.<br>
+        
+                        <!--3rd drop down menu -->                                                  
+                        <div id="dropmenu3" class="dropmenudiv" style="width: 114px;">
+                        <a href="/corp/product_demo.html">Web Page Tour</a>
+                        <a href="/corp/flash_demo.html">Flash Demo</a>
+                        </div>
+                        
+                        <!--4th drop down menu -->                                                 
+                        <div id="dropmenu4" class="dropmenudiv" style="width: 114px;">
+                        <a href="/corp/au_company.html">Company</a>
+                        <a href="/corp/management.html">Management</a>
+                        <a href="/corp/investors.html">Investors</a>
+                        <a href="/corp/egnyte-file-storage-news.html">News</a>
+                        <a href="/corp/au_press.html">Press Releases</a>
+                        <a href="/corp/partners.html">Resellers</a>
+                        <a href="/corp/jobs.html">Jobs</a>
+                        <a href="/corp/contact_egnyte.html">Contact Us</a>
+                    
+                </div>
 
-	<strong><br>Policy Changes</strong><br>
-	Due to the Internet's rapidly evolving nature, Egnyte may need to update this Privacy Policy from time to time. If so, Egnyte will post its updated policy on this system. We encourage you to review this Privacy Policy regularly for any changes.<br>
 
-	<strong><br>
-	Questions</strong><br>
-	If you have any questions related to this Privacy Policy please send us an email at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a>.</p>
-	</td>
-          </tr>
-        </tbody></table>
-          </td>
-          <td valign="top" width="18"><img src="../images/default/corp/btrc_dce1da.V4912.gif"></td>
-        </tr>
-		<tr>
-			<td valign="bottom" width="18"><img src="../images/default/corp/btbl_dce1da.V4912.gif"></td>
-			<td valign="bottom" width="18"><img src="../images/default/corp/btbr_dce1da.V4912.gif"></td>
-		</tr>
+                <script type="text/javascript">
+                cssdropdown.startchrome("chromemenu")
+                </script>
+    
+    </td>
+    <td><img src="/common/images/menu_right.gif" width="11" height="28"></td>
+  </tr>
 </tbody></table>
 
-<!-- THIS IS THE INCLUDE FILE FOR PAGE FOOTER	-->
-<script language="javascript">
-	function showContactPopup(){
-		var pageName = window.location.href;
-		if (pageName.indexOf('business_plans_and_pricing.html') > 0){
-			if (!isIE()){
-				document.getElementById("contact").style.top = "600px;"
-			}
-		}
-		showDIV('contact');
-	}
-</script>
-<div class="footer">
-	<div class="topcorners"><img src="../images/default/corp/corner_top_right.V5403.gif" style="float:right"><img src="../images/default/corp/corner_top_left.V5403.gif"></div>
-	<div class="footerTxt"><div style="float:right">Copyright © 2009 Egnyte, Inc.</div>
-	<a href="/egnyte_home.html" class="actionLinks">Home</a><span id="spacer">&nbsp;</span><a href="/corp/privacy_policy.html" class="actionLinks">Privacy Policy</a><span id="spacer">&nbsp;</span><a href="/corp/terms_of_service.html" class="actionLinks">Terms of Service</a><span id="spacer">&nbsp;</span><a href="/corp/faq.html" class="actionLinks">FAQ</a><span id="spacer">&nbsp;</span><a href="http://egnyte.blogspot.com" class="actionLinks" target="_blank">Blog</a><span id="spacer">&nbsp;</span><a href="javascript:void 0" class="actionLinks" onclick="showContactPopup();">Contact us</a><span id="spacer">&nbsp;</span><span style="font:normal 11px Arial, Helvetica, sans-serif;">Phone: 1-877-7EGNYTE (1-877-734 6983) <br>
-	</span></div>
-	<div class="bottomcorners"><img src="../images/default/corp/corner_bottom_right.V5403.gif" style="float:right"><img src="../images/default/corp/corner_bottom_left.V5403.gif"></div>
+
+
+ 
+ 
+  <div id="body_content">
+    <div class="block">
+    <div class="content">
+      <div class="heading">
+        <h1>Privacy Policy</h1>
+      </div>
+      <div class="content_area">
+        <p>Last Updated 08/26/2009<br><a href="http://clicktoverify.truste.com/pvr.php?page=validate&amp;url=egnyte.com&amp;sealid=102" target="_blank"><img src="/corp_images/default/corp/truste_seal_ctv.gif" border="0" style="float:right; border:0px; padding:0px 0px 15px 15px; position:relative; top:-28px"></a>
+          <br>
+          Thank you for visiting Egnyte Inc.'s website located at <a href="http://www.egnyte.com">www.egnyte.com</a>. Egnyte Inc. (hereinafter "Egnyte") is concerned about personal privacy and is committed to protecting the privacy of visitors to our website. This Privacy Policy identifies the personally identifiable information that Egnyte collects about you at our website and describes how Egnyte uses and protects such information. </p>
+        <p> Egnyte is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the site <a href="http://www.egnyte.com">www.egnyte.com</a>.  Because the website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. </p>
+        <p> If you have questions or concerns regarding this statement, you should first contact Kris Lahiri, Chief Security Officer by email at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a> with a subject line "Privacy Policy" or by postal mail at Egnyte, Inc., Attn:  Kris Lahiri, Chief Security Officer, 1890 N. Shoreline Blvd., 1st Floor, Mountain View, CA 94043.  If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <a href="http://www.truste.com/consumers/watchdog_complaint.php" target="_blank">http://www.truste.com/consumers/watchdog_complaint.php</a>. TRUSTe will then serve as a liaison with the website to resolve your concerns. </p>
+        <p>Egnyte complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.</p>
+        <p>The TRUSTe program covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.</p>
+        <p>YOUR USE OF THE WEBSITE OR THE SERVICES OFFERED BY EGNYTE ON THE WEBSITE IS CONDITIONED UPON YOUR ACCEPTANCE OF THE TERMS OF SERVICE LOCATED AT <a href="http://www.egnyte.com">http://www.egnyte.com</a> AS WELL AS THIS PRIVACY POLICY. IF YOU DO NOT ACCEPT THE TERMS OF SERVICE OR TERMS OF THIS PRIVACY POLICY, DO NOT USE THE WEBSITE OR SERVICES OFFERED BY EGNYTE.</p>
+        <p> <strong>What Information Is Collected</strong><br>
+          You may visit our website and learn about Egnyte's service offered on the website anonymously.</p>
+        <p>We collect personally identifiable information about you only if you voluntarily provide it to us when you use an online registration form to create an account for use of the Egnyte service or to submit a reseller inquiry. You are required to pick a password and username, and to provide your first name, last name and email address and some additional contact information about your company/establishment. We may also ask you, but you are not required to provide, information regarding how you learned about Egnyte.</p>
+        <p>If you purchase a product or service from us, we request certain personally identifiable information from you on our order form.  You must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date).  We use this information for billing purposes and to fill your orders.  If we have trouble processing an order, we will use this information to contact you.</p>
+        <p> <b>Use of Information</b><br>
+          We use your contact information and unique identifier (such as a user name and password) to provide access to the Egnyte service available on our website and to contact you when reasonably necessary. We may also use any information you have provided as reasonably necessary to administer or provide customer support for the website and the Egnyte service. We use the information submitted by you to send you correspondence and other information that may interest you and to respond to your correspondence. If, for any reason, you would like to be removed from our email list, you can send us an email at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a>.</p>
+        <p>Based upon the personally identifiable information you provide us, we will send you a welcoming email to verify your username and password.  We will also communicate with you in response to your inquiries, to provide the services you request, to manage your account, and to help us improve our customer support and service to you overall.  We will communicate with you by email or telephone, in accordance with your wishes.  We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if our service is temporarily suspended for maintenance, we might send you an email.  Generally, you may not opt-out of these communications, which are not promotional in nature.  If you do not wish to receive them, you have the option to deactivate your account.  If you wish to subscribe to our monthly newsletter, we will use your name and email address to send the newsletter to you.  Our newsletters contain important information such as updates and enhancements to our services.  Out of respect for your privacy, we provide you a way to unsubscribe.</p>
+        <p>Finally, if you use the Egnyte service, we will store the data you upload onto our servers.  Egnyte may access your account, including its data, to respond to service or technical problems or as stated in this Agreement.  You, as a Power User with administrator capabilities, may manage the Address Book that includes inputting other Power Users' and Standard Users' first names, last names, and email addresses.  You, as a regular Power User, may manage the Address Book that includes inputting Standard Users' first names, last names, and email addresses.  Email communications resulting from the management of the Address Book is limited to the initial setup of Power User and Standard User accounts. You, not Egnyte, shall have sole responsibility for the accuracy, quality, integrity, legality, reliability, appropriateness and copyright of all data stored in your account.  Furthermore, Egnyte shall not be responsible or liable for the deletion, correction, destruction, damage, loss or failure to store any data.</p>
+        <p> <b>Disclosure of Information</b><br>
+          We do not share, sell, rent or lease your personally identifiable information to third parties for their promotional purposes. We may disclose your personally identifiable information to certain third party vendors (e.g., data storage facilities, payment processors, email service providers) used by Egnyte to assist us in providing the Egnyte services, to the extent necessary to enable such vendors to provide such assistance.  These third parties are prohibited from using your personally identifiable information for any other purposes.</p>
+        <ol>
+          <li>We may send email offers to selected groups of Egnyte users' on behalf of our company and on behalf of other businesses in whose products and services you may have an interest; but we will not disclose any of your personally identifiable information to any such businesses. We will also include in each such email instructions as to how you can permanently opt-out of receiving any such future emails.</li>
+          <li>We also reserve the right to disclose your personally identifiable information if we reasonably believe we are required to do so by law, regulation or other government authority and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our website.</li>
+          <li>Finally, we may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Egnyte's assets or stock in Egnyte's line of business to which this privacy policy relates or upon any other corporate reorganization. (If, for example, in the future, we undergo any sort of corporate reorganization, we may need to transfer your personally identifiable information to the surviving entity.)</li>
+        </ol>
+        <br>
+        <p> <b>Updating Your Information</b><br>
+          To update any of your personal information previously submitted to Egnyte you may do so within the Account Settings section of your account when logged in.  If you would like to access your personal information in order to correct, update, or delete it, you may also contact us directly at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a>.  Requests for access will be responded to within 30 days of the request.</p>
+        <p> <b>Blog/Testimonials</b><br>
+          If you use a blog or testimonial on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users' of these forums, and could be used to send you unsolicited messages.  For testimonials, we do obtain the customer's consent prior to posting their name and photograph along with their testimonial.  We are not responsible for the personally identifiable information you choose to submit in these forums.  If you want to remove your personal information that is being displayed on our website under public pages, please contact us at <a href="mailto:inquiry@egnyte.com">inquiry@egnyte.com</a>.</p>
+        <p> <b>A Special Note about Children</b><br>
+        </p>
+        <p>Our website does not gather any personally identifiable information from children that we know are under the age of 13. We believe strongly that parents should play an integral part in their child's on-line experience and should monitor that activity to ensure on-line sites are respecting their child's privacy. For additional information on protecting children's privacy, visit: <a href="http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm" target="_blank">http://www.ftc.gov/bcp/edu/pubs/consumer/tech/tec08.shtm</a>.</p>
+        <p> <b>Log Files</b><br>
+          As is true of most websites, we gather certain information automatically and store it in log files.  This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.</p>
+        <p>We use this information, which does not identify individual users', to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.  We do not link this automatically-collected data to personally identifiable information.</p>
+        <p>We use a third-party tracking service called Google Analytics that uses cookies to track non-personally identifiable information about visitors to our site in the aggregate.  Information tracked includes the search engine used by a visitor, keyword input by a visitor, and search campaign associated with a visitor. The information is captured for marketing and customer segmentation purposes.</p>
+        <p><b>Cookies</b><br>
+          Cookies are files that your web browser places on your computer's hard drive and are used to tell us whether you have visited our website previously. We issue a session cookie only to record encrypted authentication information for the duration of a specific session and to make it easier for you to navigate our site. The session cookie includes the username of the user and is not linked to personally identifiable information.</p>
+        <p><b>Clear Gifs (Web Beacons/Web Bugs)</b><br>
+          We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients.  This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.  If you would like to opt-out of these emails, please follow the unsubscribe instructions in the emails.</p>
+        <p><b>Links to Third Party Websites</b><br>
+          We may place from time to time links on our website to one or more websites for our affiliates. Some affiliates may collect personally identifiable information when you access their links or when you indicate you would like to participate in a special offer. When you click on a link to a third party website from our website, your activity and use on the linked website is governed by that website's policies, not by those of Egnyte. We encourage you to visit their websites and review their privacy and user policies.  This privacy statement applies only to information collected by this website.</p>
+        <p><b>Security Measures</b><br>
+          The security of your personal information is important to us.  When you enter sensitive information (such as credit card number and/or social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL).  Our website employs procedural and technological measures, consistent with legal requirements and the demands of customer service, reasonably designed to protect your personally identifiable information &amp; your data from loss, misuse or unauthorized access, disclosure, alteration or destruction, including using secure servers for data storage.</p>
+        <p>We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.</p>
+        <p><b>Policy Changes</b><br>
+          Due to the Internet's rapidly evolving nature, Egnyte may need to update this Privacy Policy from time to time. If so, Egnyte will post its updated policy on this system. We reserve the right to modify this privacy statement at any time, so please review it frequently.  If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.</p>
+        <p><b>Questions</b><br>
+          If you have any questions related to this Privacy Policy please contact us at:<br>
+  <br>
+		Egnyte, Inc.<br>
+		Attn:  Kris Lahiri<br>
+		1890 N. Shoreline Blvd., 1st Floor<br>
+		Mountain View, CA 94043<br>
+          
+  <a href="inquiry@egnyte.com">inquiry@egnyte.com</a></p>
+<p>&nbsp;</p>
+      </div>
+    </div>
+	</div>
+
+<!--// start left side column //-->
+
+<div id="sidebar">
+<dl id="nav-sub">
+  <dt><a title="About Us " href="/corp/au_company.html">ABOUT</a></dt>
+    <dd>
+        <ul>
+        <li id="nav-company"><a title="Company" href="/corp/au_company.html">Company</a></li>
+        <li id="nav-management"><a title="Management" href="/corp/management.html">Management</a></li>
+        <li id="nav-investors"><a title="Investors" href="/corp/investors.html">Investors</a></li>
+        <li id="nav-news"><a title="News" href="/corp/egnyte-file-storage-news.html">News</a></li>
+        <li id="nav-press"><a title="Press Releases" href="/corp/au_press.html">Press Releases</a></li>
+        <li id="nav-resellers"><a title="Resellers" href="/corp/partners.html">Resellers</a></li>
+        <li id="nav-jobs"><a title="Jobs" href="/corp/jobs.html">Jobs</a></li>
+        <li id="nav-contact"><a title="Contact Us" href="/corp/contact_egnyte.html">Contact Us</a></li>
+        </ul>
+    </dd>
+</dl>
+
+			<dl class="sidebar_quick_links">
+				<dt>Quick links</dt>
+				<dd><ul>
+                    <li><a href="/corp/business_plans_and_pricing.html?scheme=trial" title="Sign Up">Free Trial Signup</a></li>
+                    <li><a href="/corp/product_demo.html">Product Demo</a></li>
+                    <li><a title="Join Live Web Demo" href="#" onclick="getWebDemoDates();">Join Live Web Demo</a></li>
+                    <li><a title="Contact Sales" href="/corp/contact_egnyte.html">Contact Sales</a></li>
+                    <li><a title="Value Calculator" href="/corp/hardware_vs_egnyte_calculator.html" target="_blank">Value Calculator</a></li>
+                    <li><a title="FAQ" href="/corp/faq.html">FAQ</a></li>										
+				</ul></dd>
+			</dl>
+ 
+</div>
+  
+  
+  
+  <p>&nbsp;</p>
+<!--// end left side column //-->
+  
+  
+  
+  
+  
+<!--// start footer box //-->
+
+  <div id="dark_grey">
+    <ul>
+      <li><a href="/">Home</a></li>
+      <li><a href="/corp/privacy_policy.html">Privacy Policy</a></li>
+      <li><a href="/corp/terms_of_service.html">TOS</a></li>
+      <li><a href="/corp/faq.html">FAQ</a></li>
+      <li><a href="/corp/jobs.html">Jobs</a></li>
+      <li><a href="/corp/partners.html">Resellers</a></li>
+      <li><a href="/corp/site-map.html">Site Map</a></li>
+      <li><a href="/corp/contact_egnyte.html">Contact us</a></li>
+    </ul>
+    <div class="grey_seperator"></div>
+    <ul>
+      <li>Phone: <strong>1-877-7EGNYTE</strong>&nbsp;&nbsp;(1-877-734-6983)</li>
+    </ul>
+  </div>
+</div>
+
+
+
+
+<div id="footer">
+  <ul>
+    <li><span class="label">Copyright © 2010 Egnyte, Inc. &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Follow Us | </span></li>
+    <li><a href="http://twitter.com/egnyte" title="twitter" target="_blank" class="socialicons"><img src="/common/images/icon_twitter.png" border="0"></a></li>
+    <li><a href="http://www.facebook.com/#/pages/Egnyte/35834832571" title="facebook" target="_blank" class="socialicons"><img src="/common/images/icon_facebook.png" border="0"></a></li>
+    <li><a href="http://www.linkedin.com/groups?about=&amp;gid=104494&amp;trk=anet_ug_grppro" title="linkedin" target="_blank" class="socialicons"><img src="/common/images/icon_linkedin.png" border="0"></a></li>
+    <li><a href="http://blog.egnyte.com/" title="Blog" target="_blank" class="socialicons"><img src="/common/images/icon_blog.png" border="0"></a></li>
+  </ul>
+  </div>
+
+  
 </div>
 
 <!--	INCLUDE FILE FOR POPUPS	-->
-<!-- THIS IS THE INCLUDE FILE FOR POPUPS	-->
+<!--	include the file here	-->
 
-<!--START PRODUCT OVERVIEW MENU-->
-<div id="pomenusub" style="display:none" onmouseover="displayDIV('pomenusub')" onmouseout="displayDIV('pomenusub')">
-<a href="po_file_storage.html" class="pomenu">Online File Storage</a>
-<a href="po_continuous_backup.html" class="pomenu">Continuous Backup</a>
-<a href="po_collaboration.html" class="pomenu">Collaboration</a>
-<a href="local_drive.html" class="pomenu">Local Cloud</a>
-<a href="po_mobile.html" class="pomenu">Mobile Drive</a>
-<a href="po_netbooks.html" class="pomenu">NetBooks</a>
-<a href="po_security.html" class="pomenu">Security &amp; Privacy</a></div>
-
-<div id="pomenu" style="display:none; margin-left:-330px;" onmouseover="displayDIV('pomenu')" onmouseout="displayDIV('pomenu')">
-<a href="po_file_storage.html" class="pomenu">Online File Storage</a>
-<a href="po_continuous_backup.html" class="pomenu">Continuous Backup</a>
-<a href="po_collaboration.html" class="pomenu">Collaboration</a>
-<a href="local_drive.html" class="pomenu">Local Cloud</a>
-<a href="po_mobile.html" class="pomenu">Mobile Drive</a>
-<a href="po_netbooks.html" class="pomenu">NetBooks</a>
-<a href="po_security.html" class="pomenu">Security &amp; Privacy</a></div>
-<!--END PRODUCT OVERVIEW MENU-->
-
-<!--START PRODUCT DEMO MENU-->
-<div id="pdmenu" style="display:none" onmouseover="displayDIV('pdmenu')" onmouseout="displayDIV('pdmenu')">
-<a href="/corp/product_demo.html" class="pdmenu">Web Page Tour</a>
-<a href="#" onclick="openFlashDemoPop();" class="pdmenu">Flash Demo</a>
-</div>
-
-<div id="pdmenusub" style="display:none" onmouseover="displayDIV('pdmenusub')" onmouseout="displayDIV('pdmenusub')">
-<a href="/corp/product_demo.html" class="pdmenu">Web Page Tour</a>
-<a href="#" onclick="openFlashDemoPop();" class="pdmenu">Flash Demo</a>
-</div>
-<!--END PRODUCT DEMO MENU-->
-
-<!--START ABOUT US MENU-->
-<div id="aumenu" style="display:none;" onmouseover="displayDIV('aumenu')" onmouseout="displayDIV('aumenu')">
-<a href="au_company.html" class="pomenu">Company</a>
-<a href="about_us.html" class="pomenu">Team</a>
-<a href="au_press.html" class="pomenu">Press</a></div>
-<!--END ABOUT US MENU-->
+<!-- POPUPS - START - to be referred from the include file	-->
 
 <!--START CONTACT US DIALOG-->
-<div id="contact" class="tipPop" style="position:absolute; margin:-447px 0 0 450px; width:300px; z-index:9999; visibility:hidden">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-<td><div class="ytl"></div><div id="contactTopDiv" class="yt" style="width:270px"></div><div class="ytr"></div></td>
-</tr>
-<tr>
-<td class="yellowframe">
-<img src="../images/default/close.V1923.gif" style="float:right; cursor:pointer" onclick="showDIV('contact')">
-<a href="javascript:void 0" onclick="showDIV('contact')" class="orangelink">Contact us</a>
-<h1>Contact information  </h1>
-<p>2672 Bayshore Parkway, #806<br>
-Mountain View, CA 94043<br>
-1-877-7EGNYTE (1-877-734 6983) (TOLL FREE) <br>
-610-968-4012 (FAX)<br>
-<a href="mailto:inquiry@egnyte.com" class="actionLinks">inquiry@egnyte.com</a></p>
-<h1>Send Us a Message  </h1>
-<table cellpadding="0" cellspacing="0" width="95%" border="0">
-	<tbody><tr>
-		<td class="txt">First name</td>
-		<td class="txt">Last name</td>
-	</tr>
-	<tr>
-		<td style="padding-right:10px"><input id="firstName" name="firstName" type="text" style="width:120px; float:left"></td>
-		<td><input id="lastName" name="lastName" type="text" style="width:120px; float:left"></td>
-	</tr>
-	<tr>
-		<td colspan="2" style="padding-top:5px" class="txt">Email</td>
-	</tr>
-	<tr>
-		<td colspan="2"><input id="contactUsEmail" name="contactUsEmail" type="text" style="width:260px; float:left"></td>
-	</tr>
-	<tr>
-		<td colspan="2" style="padding-top:5px" class="txt">Comments</td>
-	</tr>
-	<tr>
-		<td colspan="2"><textarea id="comments" name="comments" cols="" rows="5" style="width:258px"></textarea></td>
-	</tr>
-	<tr>
-		<td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendContactInformation('static');" style="width:100px; float:left">
-		<input type="submit" style="width: 100px; float: left;" onclick="javaScript:showDIV('contact');" value="Cancel" name="cancel"></td>
-	</tr>
-</tbody></table>
-
-
-</td>
-</tr>
-<tr>
-<td><div class="ybl"></div><div id="contactBottomDiv" class="yb" style="width:270px"></div><div class="ybr"></div></td>
-</tr>
-</tbody></table>
-</div>
-<!-- END CONTACT US DIALOG-->
-
-<div id="contactInfSend" style="position:absolute; left:310px; top:101px; width:450px; z-index:99999; display:none">
-    <center>
-    <h4 id="contactUsErrorMessage"></h4>
-    <div style="width:206px; margin:0px auto">
-        <div class="defaultBtn_Ok" onclick="showHideContactErrorDiv('contactInfSend');" style="float:center">Ok</div>
-    </div>
-    </center>
-</div>
-
-<!--START WHAT OTHERS ARE SAYING DIALOG-->
-<div id="quotes" class="tipPop" style="position:absolute; left:50%; margin-left: -250px; top:104px; width:500px; z-index:9999; visibility:hidden">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-<td><div class="ytl"></div><div class="yt" style="width:464px"></div><div class="ytr"></div></td>
-</tr>
-<tr>
-<td class="yellowframe">
-<img src="/images/default/close.V1923.gif" style="float:right; cursor:pointer" onclick="showDIV('quotes')">
-<a href="javascript:void 0" onclick="showDIV('quotes')" class="orangelink">What others are saying </a>
-<h1>Don't take our word for it, read what others are saying about Egnyte </h1>
-<label id="deliciousPostLoading">loading...</label>
-<ul id="deliciousPost">
-
-</ul>
-<div class="txt" id="pagingDeliciousPost" style="display:none"><span id="pagingDeliciousPostPreviousText">Previous</span><a onclick="javascript:navigateDeliciousPostDetailsPage(false);return false;" href="javascript:void(null);" class="actionLinks" id="pagingDeliciousPostPreviousLink">Previous</a>&nbsp;&nbsp;&nbsp;<span id="pagingDeliciousPostNextText">Next</span><a onclick="javascript:navigateDeliciousPostDetailsPage(true);return false;" href="javascript:void(null);" class="actionLinks" id="pagingDeliciousPostNextLink">Next</a></div>
-</td>
-</tr>
-<tr>
-<td><div class="ybl"></div><div class="yb" style="width:464px"></div><div class="ybr"></div></td>
-</tr>
-</tbody></table>
-</div>
-<!-- END WHAT OTHERS ARE SAYING DIALOG-->
-
-<!-- START - DEMO SIGNUP POPUP	-->
-<div id="demosingup" class="tipPop" style="position:absolute; margin:-250px 0 0 50px; width:310px; z-index:9999; visibility:hidden">
+<div id="contact" class="tipPop" style="position:absolute; margin:-447px 0 0 50px; width:310px; z-index:9999; visibility:hidden">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
 <td><div class="ytl"></div><div class="yt" style="width:274px"></div><div class="ytr"></div></td>
 </tr>
 <tr>
 <td class="yellowframe">
-<img src="../images/default/close.V1923.gif" style="float:right; cursor:pointer" onclick="showDIV('demosingup')">
-<a href="javascript:void 0" onclick="showDIV('demosingup')" class="orangelink">Sign Up</a>
-<h1>Register for Live Demo  </h1>
+<img src="/corp_images/popup_images/close.gif" style="float:right; cursor:pointer" onclick="showDIV('contact')">
+<a href="javascript:void 0" onclick="showDIV('contact')" class="orangelink">Contact us</a>
+<h1>Egnyte Inc</h1>
+<p>1890 N. Shoreline Blvd., 1st Floor<br>
+Mountain View, CA 94043<br>
+1-877-7EGNYTE (1-877-734-6983) <br>
+<a href="mailto:inquiry@egnyte.com" class="actionLinks">inquiry@egnyte.com</a></p><br>
+<h1>Send us a message  </h1>
 <table cellpadding="0" cellspacing="0" width="100%" border="0">
 	<tbody><tr>
 		<td class="txt">First name</td>
 		<td class="txt">Last name</td>
 	</tr>
 	<tr>
-		<td style="padding-right:10px"><input id="demoFirstName" name="demoFirstName" type="text" style="width:125px; float:left"></td>
-		<td><input id="demoLastName" name="demoLastName" type="text" style="width:125px; float:left"></td>
-	</tr>
-	<tr>
-		<td colspan="2" style="padding-top:5px" class="txt">Phone Number</td>
-	</tr>
-	<tr>
-		<td colspan="2"><input id="demoPhoneNumber" name="demoPhoneNumber" type="text" style="width:264px; float:left"></td>
+		<td style="padding-right:4px"><input id="firstName" name="firstName" type="text" style="width:125px; float:left"></td>
+		<td><input id="lastName" name="lastName" type="text" style="width:125px; float:left"></td>
 	</tr>
 	<tr>
 		<td colspan="2" style="padding-top:5px" class="txt">Email</td>
 	</tr>
 	<tr>
-		<td colspan="2"><input id="demoContactUsEmail" name="demoContactUsEmail" type="text" style="width:264px; float:left"></td>
+		<td colspan="2"><input id="contactUsEmail" name="email" type="text" style="width:264px; float:left"></td>
 	</tr>
 	<tr>
-		<td colspan="2" style="padding:5px 0px" valign="bottom"><input name="submit" type="submit" value="Send" onclick="javaScript:sendWebinarInformation();" style="width:100px; float:left"></td>
+		<td colspan="2" style="padding-top:5px" class="txt">Comments</td>
+	</tr>
+	<tr>
+		<td colspan="2"><textarea id="comments" name="comments" cols="" rows="5" style="width:265px"></textarea></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="padding: 5px 0px 5px 65px;" valign="bottom">
+		<input type="submit" style="width: 100px; float: left; margin-right: 5px;" onclick="javaScript:sendContactInformation('static');" value="Send" name="submit">
+		<input type="submit" style="width: 100px; float: left;" onclick="javaScript:showDIV('contact');" value="Cancel" name="cancel">
+		</td>
 	</tr>
 </tbody></table>
+
+
 </td>
 </tr>
 <tr>
@@ -389,28 +336,47 @@ Mountain View, CA 94043<br>
 </tr>
 </tbody></table>
 </div>
-<!-- END - DEMO SIGNUP POPUP	-->
-<div id="webDemoPop" style="position:absolute; left:50%; margin-left: -150px; top:100px; width:400px; z-index:9999; display:none;">
+
+
+
+
+<div id="contactInfSend" style="position:absolute; left:310px; top:101px; width:450px; z-index:99999; display:none">
+    <center>
+    <h4 id="contactUsErrorMessage"></h4>
+    <div style="width:206px; margin:0px auto">
+        <div class="defaultBtn_Ok" onclick="showHideContactErrorDiv('contactInfSend');" style="float:center">&nbsp;</div>
+    </div>
+    </center>
+</div>
+
+<div style="left:322px; top:281px; width:600px; z-index:100000; visibility: hidden" id="workMessagePop"><center><h4 id="workMessageText"></h4></center></div>
+<!-- END CONTACT US DIALOG-->
+
+
+
+
+
+<!--	Web Demo dialod - start	-->
+<div id="webDemoPop" style="position:absolute; left:50%; margin-left: -150px; top:100px; width:400px; z-index:100; display:none;">
         <h1 class="top" id="purcLicenseHeader">Register for a Live Web Demo</h1>
         <form name="frmWebDemo" id="frmWebDemo" method="post">
             <div style="overflow:auto">
             <table cellpadding="0" cellspacing="0" border="0" width="100%">
 				<tbody><tr><td style="height:5px;"></td></tr>
 				<tr>
-					<td align="center" colspan="2">
+					<td align="left" colspan="2" style="padding-left: 6px;">
 						<!-- Web Demo dates populated here dynamically from a WSGI call -->
 						<div id="webDemoDates">
 							<label>No demos available currently</label>
-							<!--
-							<input type="radio" style="width:30px; clear:both; float:none;" name="addRemLicenseMemebers" id="addRemLicenseMemebers" value="Add licenses" checked onClick="enableDisableAddRemBox();"/><label>Jan 1 2009, 11:30 AM PST</label>
-							-->
 						</div>
 					</td>
 				</tr>
 				<tr><td style="height:10px;"></td></tr>
-				<tr>
-					<td><label>First Name</label></td>
-					<td><label>Last Name</label></td>
+				<tr><td colspan="2" align="center">
+				<table width="100%" align="center" border="0" cellpadding="0" cellspacing="0" style="padding-left:14px; *padding-left:9px;">
+					<tbody><tr>
+						<td align="left"><label>First Name</label></td>
+						<td align="left"><label>Last Name</label></td>
 				</tr>
 				<tr>
 					<td style="height:10px;" align="left">
@@ -420,21 +386,23 @@ Mountain View, CA 94043<br>
 						<input type="text" name="webdm_LName" id="webdm_LName" class="homeInput" style="width:150px;">
 					</td>
 				</tr>
-				<tr><td><label>Phone Number</label></td></tr>
+					<tr><td align="left"><label>Phone Number</label></td></tr>
 				<tr>
 					<td style="height:10px;" align="left">
 						<input type="text" name="webdm_Phone" id="webdm_Phone" class="homeInput" style="width:150px;">
 					</td>
 				</tr>
-				<tr><td><label>Email</label></td></tr>
+					<tr><td align="left"><label>Email</label></td></tr>
 				<tr>
 					<td style="height:10px;" align="left">
 						<input type="text" name="webdm_Email" id="webdm_Email" class="homeInput" style="width:150px;">
 					</td>
 				</tr>
+				</tbody></table>
+				</td></tr>
 				<tr><td style="height:10px;"></td></tr>
 				<tr>
-					<td colspan="2" style="padding-left:70px;">
+					<td colspan="2" style="padding-left:72px;">
 						<div class="defaultBtn" onclick="sendWebinarInformation();" style="float: left;">Send</div>
 						<div class="defaultBtn" onclick="showDialog('webDemoPop');" style="float:left">Cancel</div>
 					</td>
@@ -443,16 +411,78 @@ Mountain View, CA 94043<br>
             </div>
         </form>
     </div>
-<!--	END WEB DEMO DIALOG		-->
-<!--	START WORK IN PROGRESS DIALOG		-->
-<div style="left:322px; top:281px; width:600px; z-index:100000; visibility: hidden;display:block;" id="workMessagePop"><center><h4 id="workMessageText"></h4></center></div>
-<!--	END WORK IN PROGRESS DIALOG			-->
+<!--	Web Demo dialod - end	-->
+
+<!-- Client login dialog - Start	-->
+<div id="custLoginBox" style="display:none; position:absolute; left:300px; top:200px; width:450px; z-index:1005;">
+	<form name="frmCustLoginBox" action="loginDomain.do" method="post">
+		<h1 class="top vspacer20">Login to your File Server</h1>
+		<div class="dvSiteAddrLbl normalText">
+			<span class="spPswdLbl"><label>Site Address:</label></span>
+			https://&nbsp;<input type="text" class="homeInput2" id="txtLogDomainName">&nbsp;.egnyte.com					
+		</div>
+		<div class="dvForgotSiteAddr">
+			<span class="spPswdLbl"></span>	
+			<span class="spForgotSiteAddr"><a class="defaultAnchor" href="#" onclick="showCustLoginBox(); showForgotDomains('forgotDomains');return false;">Forgot Site Address?</a></span></div>
+		<div class="dvLoginLbls">
+			<span class="spPswdLbl"><label>Username:</label></span>
+			<span class="spPwdInput">
+				<input type="text" class="homeInput2" id="j_username" name="user.userName">
+			</span>
+		</div>
+		<div class="dvLoginLbls">
+			<span class="spPswdLbl"><label>Password:</label></span>
+			<span class="spPwdInput">
+				<input type="password" class="homeInput2" id="j_password" name="user.password">
+			</span>
+		</div>
+	  <center>
+		<img src="/corp_images/popup_images/cancel.gif" onclick="javascript:showCustLoginBox();" style="float:right;cursor:pointer">
+		<img src="/corp_images/popup_images/submit.gif" onclick="javascript:validateSubDomain();" style="float:right;cursor:pointer">
+	  </center>
+  </form>
+</div>
+<!-- Client login dialog - End	-->
+
+<!--	Forgot login box - Start	-->
+<div id="forgotDomains" style="display:none; position:absolute; left:100px; top:200px; width:500px; z-index:1005;">
+    <label>Enter the email address associated with your File Server account:&nbsp;&nbsp;</label><br>
+    <input type="text" class="homeInput" id="txtForgotEmail" style="width:180px;margin-top:8px;">
+
+  <center>
+    <img src="/corp_images/popup_images/cancel.gif" onclick="javascript:showForgotDomains('forgotDomains');" style="float:right;cursor:pointer">
+    <img src="/corp_images/popup_images/submit.gif" onclick="javascript:requestForgottenDomains();" style="float:right;cursor:pointer">
+  </center>
+</div>
+<div id="forgotDomainsError" class="collectionPop" style="position:absolute; left:100px; top:200px; width:450px; z-index:1008;display:none;">
+  <center>
+    <h4 id="forgotDomainsMessage"></h4>
+    <img src="/corp_images/popup_images/ok.gif" onclick="javascript:showPop('genericError');" id="genericError_ok" style="cursor:hand;cursor:pointer">
+  </center>
+</div>
+<!--	Forgot login box - End	-->
+<div id="popInvalidDomainError" style="position:absolute; left:200px; top:250px; width:450px; z-index:1008;display:none;">
+  <center>
+    <h4 id="popInvalidDomainMessage"></h4>
+    <img src="/corp_images/popup_images/ok.gif" onclick="javascript:showCustLoginErrorBox();" id="genericError_ok" style="cursor:hand;cursor:pointer">
+  </center>
+</div>
+
+<!-- POPUPS - END	-->
 
 
-<script>
-	setMenuWidthForFFonMac("135");
+
+<!-- Google Analytics -->
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1641285-1");
+pageTracker._initData();
+pageTracker._trackPageview();
 </script>
-
 
 
 
