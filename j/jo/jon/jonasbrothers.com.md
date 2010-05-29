@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jonasbrothers.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609182821id_/http%3A//www.jonasbrothers.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jonasbrothers.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529193554id_/http%3A//www.jonasbrothers.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # Jonas Brothers Privacy Policy
 
