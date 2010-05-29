@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230085158id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wize.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529232546id_/http%3A//wize.com/privacy) for the most accurate reproduction.*
 
 # Wize Product Reviews Privacy Policy
 
@@ -24,3 +24,5 @@ This Site is not directed to children under 18. We do not knowingly collect pers
 If you have any questions about this Privacy Policy, please contact us at [Privacy@wize.com](mailto:Privacy@wize.com). 
 
 
+
+© 2010 Wize, Inc. 
