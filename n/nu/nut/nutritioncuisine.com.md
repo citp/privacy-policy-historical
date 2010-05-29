@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritioncuisine.com privacy policy that was archived on 2009-08-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090816145616id_/http%3A//nutritioncuisine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritioncuisine.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529024312id_/http%3A//nutritioncuisine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nutrition Cuisine
 
@@ -6,7 +6,7 @@ Thank you for visiting NutritionCuisine.com and for taking interest in our Priva
 
 Please read this Policy carefully. If you have any questions about this Policy or our data collection, use or disclosure practices, please contact us.
 
-This Privacy Policy applies to the Fast Forward Interactive Web Sites (”Sites”) owned and operated by Fast Forward Interactive, including the NutritionCuisine.com site. Reference to “Fast Forward Interactive” means Fast Forward Interactive, Inc., including any company that Fast Forward Interactive, Inc. controls (for example, a subsidiary that Fast Forward Interactive, Inc. owns). Fast Forward Interactive Web Sites include any site that Fast Forward Interactive owns or controls (for example, Men’s Health Base). Fast Forward Interactive may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
+This Privacy Policy applies to the Fast Forward Interactive Web Sites (“Sites”) owned and operated by Fast Forward Interactive, including the NutritionCuisine.com site. Reference to “Fast Forward Interactive” means Fast Forward Interactive, Inc., including any company that Fast Forward Interactive, Inc. controls (for example, a subsidiary that Fast Forward Interactive, Inc. owns). Fast Forward Interactive Web Sites include any site that Fast Forward Interactive owns or controls (for example, Men’s Health Base). Fast Forward Interactive may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
 
 What information do we collect?
 
