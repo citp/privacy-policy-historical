@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828043943id_/http%3A//www.long-mcquade.com%3Fpage%3Dcontent%26PageID%3D7) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the long-mcquade.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529182639id_/http%3A//www.long-mcquade.com/content/7) for the most accurate reproduction.*
 
 # Long & McQuade - Content
-
-Long & McQuade Limited Policy for Privacy of Personal Information
 
 Long & McQuade Limited has always maintained a policy of ensuring the accuracy, confidentiality and  
 integrity of the personal information provided by our customers, or accumulated in the course of doing  
@@ -90,4 +88,6 @@ FAX 905-837-9786
 Email crussell@long-mcquade.com
 
 If your question or issue is not resolved to your satisfactions, you may contact the office of the Privacy  
-Commissioner for Canada or the Privacy Commissioner for Alberta or British Columbia as appropriate.
+Commissioner for Canada or the Privacy Commissioner for your province as appropriate.
+
+Long & McQuade Limited Policy for Privacy of Personal Information
