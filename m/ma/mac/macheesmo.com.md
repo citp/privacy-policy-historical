@@ -1,18 +1,16 @@
-> *The following text is extracted and transformed from the macheesmo.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221015401id_/http%3A//www.macheesmo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macheesmo.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529093209id_/http%3A//www.macheesmo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Macheesmo
 
-##  [Privacy Policy](http://www.macheesmo.com/privacy-policy/ "Privacy Policy")
-
 **Privacy Policy for Macheesmo.com  
-**_Updated 08/27/2009_
+**_Updated 03/2010_
 
 The privacy of my visitors to macheesmo.com is important to me.
 
 At Macheesmo.com, I recognize that privacy of your personal information is important. Here is information on what types of personal information I receive and collect when you use and visit Macheesmo.com, and how I safeguard your information.  I never sell your personal information to third parties.
 
 **Log Files**  
-As with most other websites, Macheesmo collects and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit the site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+As with most other websites, Macheesmo collects and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit the site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout the site.
 
 **Cookies and Web Beacons**  
 Macheesmo does use cookies to store information, such as your personal preferences when you visit the site.  This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
