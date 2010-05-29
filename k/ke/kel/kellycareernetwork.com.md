@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416024910id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kellycareernetwork.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529033014id_/http%3A//www.kellyservices.us/web/us/services/en/pages/privacy_statement.html) for the most accurate reproduction.*
 
-# Kelly Services : Privacy Statement |
+# | Kelly Services - Privacy Statement
 
 Kelly Services, Inc. respects the privacy of our customers, applicants, and employees and we acknowledge that you have certain rights related to any personal information we collect from you. Kelly supports the various national and local privacy laws, and has procedures in place to meet the requirements of those laws.
 
@@ -116,3 +116,6 @@ Top
 _Kelly provides a way to respond to your privacy questions or handle your disputes. We assign ownership of our data privacy practices at both the local and U.S. world headquarters level to provide open communication and dispute resolution to our customers, applicants, and employees. Kelly abides by the "Safe Harbor" framework developed by the U.S. Department of Commerce and the European Commission. We will fully cooperate with the Federal Trade Commission or local data protection authorities when requested to do so._
 
 At Kelly, we are working hard to protect your privacy while delivering innovative career development and staffing services. Our privacy principles represent our commitment to ensuring that your personal information is safe and secure. If you believe that Kelly has not adhered to these principles and practices, [contact us](https://web.archive.org/web/us/services/en/pages/contact_us.html "link to contact us page") and we will work diligently to promptly determine and remedy the problem.
+
+Kelly World Headquarters (Michigan, USA)  
+[Privacy@kellyservices.com](mailto:Privacy@kellyservices.com)
