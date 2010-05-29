@@ -1,69 +1,76 @@
-> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223031726id_/http%3A//www.teamtalk.com/football/information/privacy/0%2C16405%2C%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtalk.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529155420id_/http%3A//www.sky.com/portal/site/skycom/privacy) for the most accurate reproduction.*
 
-# Privacy Agreement | Latest News | Football News from TEAMtalk
+# Sky.com - Sky Help Centre>Sky.com Privacy Statement
 
-### 365 Media Group Privacy Policy
+This Privacy Notice is with British Sky Broadcasting Limited and explains how British Sky Broadcasting Ltd and any member of the British Sky Broadcasting group of companies (“Sky”) may collect, use and protect your information. 
 
-We at 365 Media Group Ltd, (incorporating this site and all of the sites within our network - as seen on the footer of this website), strongly believe in protecting the confidentiality and security of information we collect about individuals. The material below describes our privacy policy and describes how we treat the information we receive about you if you interact with any of our sites.  
+Last changed on 22/10/2009 
 
+**What information does Sky  
+collect about me?** | **·**   The information you provide to Sky to receive services on Sky websites. This may consist of information such as your name, email address, postal address, telephone or mobile number or date of birth. 
 
+**·**   Information about your purchase of or subscription to Sky products and services, whether through your use of Sky websites or otherwise.
+
+ **·**   Information about your use of Sky and/or selected third party websites will be collected from cookies stored on your device when you use such websites. For more information on cookies and how to manage them, please see our 
+
+_section on Cookies_. 
+
+**·**   Your IP address (this is a number that identifies a specific network device on the internet and is required for your device to communicate with websites).
+
+ **·**   We may also collect information that you have provided to other companies which they share with us.  
   
-**Why We Need to Know About You**  
-We need to know about you so that we can provide you with information on products and services and better target our sports content offering to your interests. What we need to know about you includes your address, age and preferences. 
+---|---  
+**Are there any other terms  
+which may apply to the  
+collection and use of my  
+information?** | **·**   Different web pages or services may ask for different personal information. We will let you know if there is any additional detail which applies to the use and/or collection of your information on those web pages.  
+**I’m on a co-branded website,  
+whose terms apply?** | There are a number of websites which you can link to from a Sky website which are provided by third parties under Sky’s brand.
 
+This Privacy Notice will not apply to the use and/or collection of your information on these co-branded third party websites (or any other third party websites which you may link to from a Sky website). These third party websites will have their own terms which will apply to the collection and/or use of your information on that website.  
   
-**How We Learn About You**  
-What we know about you we get mostly from you. But we may also have to find out more about you from other sources in order to make sure that what we know about you is correct and complete. We do not collect personally identifiable information about you except when you specifically provide such information on a voluntary basis. For example, such personally identifiable information may be gathered from competitions, message boards, suggestions and transactional areas. 
+**How does Sky protect my information?** | Security is very important to us. Secure Socket Layer (SSL) encryption technology is used for protection of information in transit for any sensitive transactions such as payments. We also take additional technical and organisational measures as appropriate to ensure the security of your personal information.  
+**What does Sky use my information for?** | In addition to using your information to provide you with requested products or services, Sky may also use your information for the following purposes:
 
+**·**   to monitor and improve Sky websites and Sky's services;
+
+**·**   market research, including depersonalised statistical analysis of user behaviour which we may disclose to third parties; 
+
+**·**   to enable us to comply with any legal requirements, in the detection and prevention of fraud and other crimes, and for the purpose of safeguarding national security;
+
+**·**   to personalise your online Sky experience (e.g. to provide you with access to premium content and services which may only be available to certain Sky customers);
+
+**·**   unless you have asked us not to:
+
+     **·**   to send you periodic Sky newsletters about your chosen services; 
+
+     **·**   to send you direct marketing (this may include communications by post, telephone, mobile or email) about Sky’s and business partners’ features, products and services, events and special offers which we believe you may like, including, where applicable, for a reasonable time after you have ceased to be a Sky customer; 
+
+     **·**   to share your information with other carefully selected companies outside the Sky group for sales, marketing and market research by such companies;
+
+     **·**   to provide tailored advertising and online behavioural advertising. 
+
+       These involve swapping standard advertisements and promotions for ones that are likely to be more relevant to you. For behavioural advertising, we choose adverts based on the content you view on Sky and third party websites. (For example, if you regularly view Sky Sports golf pages you are more likely to see adverts relating to golf on Sky and selected third party sites.) For tailored advertising, we choose adverts based on non-internet based information we hold about you. (For example, if you are a Sky Sports subscriber in Scotland you might see an advert relating to the Scottish Premier League rather than the Barclay’s Premier League.)  
   
-**Your Right To Opt Out**  
-At our points of data collection, you have the opportunity to indicate whether you would like to "opt in" or "opt out" of receiving promotional and/or marketing information about other products, services and offerings from group companies and/or third parties on whose behalf we may send out information. Further, notwithstanding any opt out of promotional information by the user, we reserve the right to contact you regarding account status, changes to our service agreement and other matters relevant to the underlying service and/or the information collected. You can request to "opt out" of further promotional contacts at any time and all promotional emails we send you allow you this facility. Also, upon request, we will use commercially reasonable efforts functionally to delete you and your personal information from our database; however, it may be impossible to delete a your entry without some residual information due to backups and records of deletions. 
+**Can I change the way Sky uses  
+my information, including  
+opting out of direct marketing  
+and tailored and/or  
+behavioural advertising?** | You can change your direct marketing preferences by contacting us on 08442 41 41 41 or through [Contact Us](https://web.archive.org/portal/site/skycom/skyhelpcentre/contactus). You can also click on the "unsubscribe" link in direct marketing emails from us.
 
+Where you opt out of behavioural and/or tailored advertising you will see the same number of adverts but they will be the ones that appear as standard on the programme or webpage you are viewing. You can opt out of tailored advertising by ticking the appropriate box when registering for online services, or via your [My Sky](https://web.archive.org/portal/site/skycom/mysky) account.
+
+For how to opt out of behavioural advertising please go to 
+
+_Audience Science_ in the Cookies section. 
+
+If you do not want any information processed through the use of cookies, please see the section on 
+
+_How do I manage or refuse Cookies?_  
+**What happens if this Privacy Notice changes?** | For browsers of our websites and My Sky Guest Users who have not subscribed to or registered for a product or service, we may change this Privacy Notice from time to time and you should check it regularly. Your continued use of Sky websites will be deemed an acceptance of the Privacy Notice on the website or service at the time of each use.
+
+Where this Privacy Notice has been provided to you together with additional terms for the use of a product or service that you have subscribed to or registered for, the notice provisions of those terms will apply.  
   
-**How We Protect What We Know About You**  
-We treat what we know about you confidentially. Our employees take care in handling your information. They may get information about you only when there is a good reason to do so. We take steps to make our databases secure and to safeguard the information we have about you. 
+**How do I contact Sky?** | Any queries or comments about this Privacy Notice should be sent to [dpoffice@bskyb.com](https://web.archive.org/web/20100529155420id_/http%3A//www.sky.com/portal/site/skycom/dpoffice@bskyb.com) or to Customer Relations, Sky Subscriber Services Ltd, PO Box 43, Livingston, West Lothian, EH54 7DD, UK.
 
-  
-**How We Use and Disclose What We Know About You**  
-We may use anything we know about you to help us serve you better. We will not disclose your information to any third party save for the following exceptions: 
-
-  
-
-
-  * To help us process questions you may have about a purchase, registration or other inquiry you may have. 
-  * To confirm or correct what we know about you. 
-  * To help us or law enforcement agencies prevent fraud, money laundering, terrorism and other crimes. 
-  * To allow for verification of what we know about you. 
-  * Data processing requirements. 
-  * Assisting an agency perform research for us. 
-  * Compliance with the law or request of a government agency for example, complying with a search warrant. 
-  * Compliance with an audit our business. 
-  * If we sell all or any part of our business or merge with another company. 
-
-
-
-Generally, we will disclose only the information we consider reasonably necessary to disclose. 
-
-  
-**How You Can See and Correct Your Information**  
-Generally, we will let you review what we know about you if you ask us in writing or email. If you tell us that what we know about you is incorrect, we will review it. If we agree with you, we will correct our records. 
-
-  
-**Third Party Data Collection**  
-You should be aware that sites within the group might sometimes permit third parties to offer you subscription, registration-based services, promotions or competitions through our network. We are not responsible for any actions or policies of such third parties and users should check the applicable privacy policy of such party when providing personally identifiable information to other parties. 
-
-  
-**Sharing Your Data in Public Areas of our Sites**  
-You should be aware that when you voluntarily disclose personally identifiable information (e.g. user name, e-mail address) on any of our message boards, that information, along with any substantive information disclosed in your communication, can be collected and correlated and used by third parties and may result in unsolicited messages from other posters or third parties. Such activities are beyond our control. 
-
-  
-**How We Use IP Addresses**  
-We may use your IP address to help diagnose any problems with our server or to administer our websites. Your IP address may be used to help identify you and to gather broad demographic information that helps us understand user requirements. This specific information will only be used within our organisation and we will only share or use this information on an aggregate basis. 
-
-  
-**How We Use Cookies**  
-We collect non-personal information and data through the standard operation of our servers or through the use of cookies. Cookies are small text files a web site used to recognise repeat users, facilitate your ongoing access to and use of the site, track usage, follow site behaviour and compile aggregate data that will allow content improvements and targeted advertising. Cookies are not programs that come onto a your system and damage files. Generally, cookies work by assigning a unique number to the user that has no meaning outside the assigning site. Cookies can help you for example by delivering content specific to your interests, or to save your password so you don't have to re-enter it each time you visit our site. Our sites employ the services of an outside companies to serve and appropriately target online advertisements and track site usage. To do this, their software collects anonymous data through the use of cookies. Users should be aware that we cannot control the use of cookies or the resulting information by advertisers or third parties hosting data for us. If you do not want information collected through the use of cookies, there is a simple procedure in most browsers that allows you to deny or accept the cookie feature; however, you should note that cookies may be necessary to provide the user with certain features (e.g. customised delivery of information) available on our web sites. 
-
-  
-**Links to Other Sites**  
-Our site contains links to other sites outside of our control. We are not responsible for the content or 
+Please ensure you notify us of any updates, amendments and corrections to your information by contacting us on 08442 41 41 41 or through [My Sky](https://web.archive.org/portal/site/skycom/mysky).
