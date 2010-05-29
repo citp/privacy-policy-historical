@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122215204id_/http%3A//halfoffdepot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halfoffdepot.com privacy policy that was archived on 2010-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100529153745id_/http%3A//www.halfoffdepot.com/support/knowledgebase.php%3Farticle%3D2%26rated%3D1) for the most accurate reproduction.*
 
-# Half Off Depot :: Privacy Policy
+# Privacy Policy
+
+### Privacy Policy
+
+Solution
 
 Thank you for visiting HalfOffDepot.com. This privacy policy tells you how we use personal information collected at this site. Please read this privacy policy before using the site or submitting any personal information. By using the site, you are accepting the practices described in this privacy policy. These practices may be changed, but any changes will be posted and changes will only apply to activities and information going forward, not on a retroactive basis. You are encouraged to review the privacy policy whenever you visit the site to make sure that you understand how any personal information you provide will be used. 
 
@@ -26,8 +30,28 @@ Your personally identifiable information is kept secure. Only authorized employe
 
 If you have any questions, concerns, or comments about our privacy policy you may contact us using the information below: 
 
-Ashley Thomas, Half Off Depot Manager  
+Zach Best  
 By e-mail: info@halfoffdepot.com  
 By Phone: 404-351-5797 
 
 We reserve the right to make changes to this policy. Any changes to this policy will be posted.
+
+* * *
+
+emails, e-mails, newsletter, blast, mailing list, subscription, spam
+
+ 
+
+Was this article helpful? [yes](javascript:void\(0\)) / [no](javascript:void\(0\))
+
+Article details | Article ID:  | 2  
+---|---  
+Category:  | [Store Policies](https://web.archive.org/web/20100529153745id_/http%3A//www.halfoffdepot.com/support/knowledgebase.php?category=2)  
+Date added:  | 2009-03-30 17:31:37  
+Views:  | 112  
+Rating (Votes): |  (8)  
+  
+   
+<< Go back
+
+Powered by [Help desk software](http://www.phpjunkyard.com/free-helpdesk-software.php) HESKTM
