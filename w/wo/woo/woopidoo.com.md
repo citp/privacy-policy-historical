@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woopidoo.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207135822id_/http%3A//www.woopidoo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woopidoo.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530122946id_/http%3A//www.woopidoo.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Woopidoo.com
 
@@ -24,6 +24,8 @@ You can register with our website if you would like to receive our [Business Mot
 If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
 
 We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+
+We use third-party advertising companies like Google Adsense to serve ads when you visit Woopidoo.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
 Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. ******************Unsubscribing/ Opt-out Newsletter**
 
