@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430123041id_/http%3A//www.what-song.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the what-song.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530045302id_/http%3A//www.what-song.com/privacypolicy.php) for the most accurate reproduction.*
 
 # what-song - Privacy Policy
 
@@ -12,7 +12,7 @@ Your privacy is very important to us. To better protect your privacy we provide 
 
 **The Information We Collect**
 
-At the present time, we do not collect or store any personal information. Our site does not have an active user base. It is an reference website made for people to use the information they need. 
+At the present time, we do not collect or store any personal information. Our site has an active user base, however it stores only a username and password chosen by the user. It is a reference website made for people to use the information they need. 
 
 Exception: This site currently has a request form. We may store your email address temporarily so we can return information about your requests. Your email address will not be used for any other purpose. It will not be disclosed to any person, site or organisation.
 
