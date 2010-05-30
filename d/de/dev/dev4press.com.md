@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227091235id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dev4press.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530050638id_/http%3A//www.dev4press.com/privacy-policy) for the most accurate reproduction.*
 
 # Dev4Press | Privacy Policy
 
 ### What information do we collect?
 
-We collect information from you when you register on our site. When registering on our site, as appropriate, you may be asked to enter your: name or e-​mail address. You may, however, visit public parts of our site anonymously. Some parts of the website are restricted and require registration. Information we collect:
+We collect information from you when you register on our site. When registering on our site, as appropriate, you may be asked to enter your: name or e-â€‹mail address. You may, however, visit public parts of our site anonymously. Some parts of the website are restricted and require registration. Information we collect:
 
   * the email addresses of those who post messages to our bulletin board
   * the email addresses of those who communicate with us via email
@@ -17,7 +17,7 @@ We collect information from you when you register on our site. When registering 
 
 ### What about payment information?
 
-All payements are processed by third party web service ShareIt, and they are handling your payment information. They are not disclosing credit card or other important payment info, and we get from them only type of payment you used.
+All payments are processed by third party web service ShareIt, and they are handling your payment information. They are not disclosing credit card or other important payment info, and we get from them only type of payment you used.
 
 ### What do we use your information for?
 
@@ -39,7 +39,7 @@ We use cookies to understand and save your preferences for future visits.
 
 ### Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, prop­erty, or safety. However, non-​personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, prop­erty, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
 ### Online Privacy Policy Only
 
@@ -47,7 +47,7 @@ This online privacy policy applies only to information collected through our web
 
 ### Changes to our Privacy Policy
 
-If we decide to change our privacy policy, we will post those changes on this page, and/​or send an email notifying you of any changes.
+If we decide to change our privacy policy, we will post those changes on this page, and/or send an email notifying you of any changes.
 
 ### Contacting Us
 
