@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostbillapp.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125170028id_/http%3A//hostbillapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostbillapp.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530042556id_/http%3A//hostbillapp.com/privacy) for the most accurate reproduction.*
 
 # HostBill | Privacy Policy | Complete Client Management, Support and Billing Software for WebHosts
 
