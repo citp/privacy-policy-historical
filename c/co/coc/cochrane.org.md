@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201214023id_/http%3A//www.cochrane.org/docs/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cochrane.org privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530083220id_/http%3A//www.cochrane.org/privacy) for the most accurate reproduction.*
 
-# The Cochrane Collaboration - Privacy of your personal data
+# Privacy of your personal data | The Cochrane Collaboration
 
-Privacy and confidentiality are taken very seriously within the Cochrane Collaboration. 
+Privacy and confidentiality are taken very seriously within the Cochrane Collaboration.
 
 You will NOT receive ‘spam’ due to your visit here.
 
@@ -12,9 +12,12 @@ When you view our web pages, we may collect non-personally-identifiable informat
 
 **We will not…**
 
-The Cochrane Collaboration does not share information (names, personal information, email addresses) about its users with third-party entities. Where possible, the Cochrane Collaboration aims to honour or exceed the legal requirements for medical/health information privacy in all countries in which we operate. The information we collect about people visiting the site is stored in secure environments that are not available to any other individual or party.
+The Cochrane Collaboration does not share information (names, personal information, email addresses) about its users with third-party [entities](https://web.archive.org/glossary/5#term225). Where possible, the Cochrane Collaboration aims to honour or exceed the legal requirements for medical/health information privacy in all countries in which we operate. The information we collect about people visiting the site is stored in secure environments that are not available to any other individual or party.
 
 **Concerns?**
 
-If you have concerns about your data, feel free to contact us at [web@cochrane.org](mailto:web@cochrane.org).  
+If you have concerns about your data, feel free to contact us at [web@cochrane.org](mailto:web@cochrane.org).
+  *[[entities](https://web.archive.org/glossary/5#term225)]: The term used for registered groups in *The Cochrane Collaboration*  
+(*Collaborative Review Groups*, *Centres*, *Fields*, *Methods Groups*, and  
+*The Cochrane Consumer Network*).
 
