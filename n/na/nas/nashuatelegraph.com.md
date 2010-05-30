@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022160340id_/http%3A//www.nashuatelegraph.com/apps/pbcs.dll/article%3FAID%3D/20031129/ABOUTUS/31129006/-1/ABOUT) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nashuatelegraph.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530115919id_/http%3A//www.nashuatelegraph.com/privacypolicy) for the most accurate reproduction.*
 
 # Nashuatelegraph.com: Privacy Policy
 
@@ -8,7 +8,7 @@
 
 **Our Commitment**
 
-Telegraph Online, related sites including Get Classifieds! and its owner, Telegraph Publishing Company (collectively, "Telegraph Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users’ reasonable expectations of privacy. 
+Telegraph Online, related sites including Get Classifieds! and its owner, Telegraph Publishing Company (collectively, "Telegraph Online"), recognize the importance of protecting the privacy of personally identifiable information collected about you, our customers and prospects. This customer privacy policy is intended to balance our legitimate business interests in collecting and using information against our users' reasonable expectations of privacy. 
 
 **General User Information**
 
@@ -18,15 +18,18 @@ In general, we gather information about all of our users collectively, such as w
 
 While visiting any of the Telegraph Online Web sites (collectively, the "site"), we may ask you to register and/or provide information that personally identifies you ("personal information") for purposes of interacting with the site. Such personal information may include, but is not limited to, your name, phone number, street address, and e-mail address. On any page that collects personal information, we will specifically describe what information is required in order to provide you with the product or service, enter you in the promotion you have requested, or respond to your inquiry or comment.
 
-**What are Cookies?** A cookie is a small data text file that a Web site sends to your browser, which is stored on your system. The site can only access the information from a cookie sent by the site. We cannot access cookies sent by other Web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, or by entering a sweepstakes or promotion. 
+**What are Cookies?** A cookie is a small data text file that a Web site sends to your browser, which is stored on your system. The site can only access the information from a cookie sent by the site. We cannot access cookies sent by other Web sites or the information contained therein. Additionally, we cannot learn your e-mail address or any other information about you through the use of a cookie. The only way we would learn such information is if you specifically and voluntarily submit that information to us, for example, through a registration system, or by entering a sweepstakes or promotion.
 
-We use an advertising server developed by a third party to display ads on the site. Some of these ads may contain cookies that are sent by third parties (e.g. advertising agencies or advertising clients). We do not have access to these cookies or any information that they contain. We encourage you to contact the advertiser or its privacy policy for more information on these cookies. Links from other Web sites that appear on the site may also send cookies; but we do not control such activities. 
+We use an advertising server developed by a third party to display ads on the site. Some of these ads may contain cookies that are sent by third parties (e.g. advertising agencies or advertising clients). We do not have access to these cookies or any information that they contain. We encourage you to contact the advertiser or its privacy policy for more information on these cookies. Links from other Web sites that appear on the site may also send cookies; but we do not control such activities.
 
-**Why does the site use cookies?** The Telegraph Online uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users. 
+**Why does the site use cookies?** The Telegraph Online uses cookies to track usage of the site and further personalize your experience when you are visiting the site. By tracking usage, we can best determine what features of the site best serve the users.
 
 **What benefits do I receive from cookies?** Overall, the use of cookies helps to give you a more personalized experience at the site. The information is used to keep our site fresh and relevant to you the user. Cookies also identify you to our server, allowing you to avoid retyping your e-mail address and password each time you access the site.
 
-**May I decline to accept a cookie?** You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, portions of the site which require registration will not be accessible to you. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user, and will eliminate the need for you to log in each time you access our site. 
+**May I decline to accept a cookie?** You may decline to accept cookies sent by the site by selecting an option on your browser to reject cookies. However, portions of the site which require registration will not be accessible to you. In such cases, we ask that you register and provide us with basic information on our registration page, or sign in if previously registered. Cookies enable our server to know that you are a registered user, and will eliminate the need for you to log in each time you access our site.
+
+  
+
 
 **IP Addresses:** The Telegraph Online logs IP addresses, or the location of your computer on the Internet, for systems administration and troubleshooting purposes and to determine site usage. Your IP address does not contain personal information about you. 
 
@@ -60,7 +63,7 @@ Third party sites linked to and from the site are not necessarily under the cont
 
 **Children's Privacy**
 
-We do not specifically collect information about children under 13 in accordance with the Children's Online Privacy Protection Act of 1998. We believe that children should get their parents’ consent before giving out personal information. We further believe that parents should participate, and guide their children’s experience on the Telegraph Online. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practicable. 
+We do not specifically collect information about children under 13 in accordance with the Children's Online Privacy Protection Act of 1998. We believe that children should get their parents' consent before giving out personal information. We further believe that parents should participate, and guide their children's experience on the Telegraph Online. In the event that we receive actual knowledge that we have collected such personal information without the requisite and verifiable parental consent, we will delete that information from our database as quickly as is practicable. 
 
 **Opting-Out**
 
@@ -80,12 +83,4 @@ We have several feedback forms on the Telegraph Online. Any feedback that is sub
 
 **Privacy Policy Changes and Contact**
 
-Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about the Telegraph Online’s privacy policy, please feel free to email us at [privacy@nh.com](mailto:privacy@nh.com) or call (603) 594-6458 and speak to our new media manager. 
-
-  
-
-
-## Comments from unverified accounts will be reviewed twice daily. Details [here](http://blogs.nashuatelegraph.com/web_notes/2008/07/28/more_on_comments/). Please verify your email address to allow immediate posting of comments.
-
-  
-
+Changes to this privacy policy will be posted here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. If, at any time, you have questions or concerns about the Telegraph Online's privacy policy, please feel free to email us at [privacy@nh.com](mailto:privacy@nh.com) or call (603) 594-6458 and speak to our new media manager. 
