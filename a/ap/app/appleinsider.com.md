@@ -1,36 +1,23 @@
-> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422151725id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appleinsider.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530025245id_/http%3A//appleinsider.com/privacy.php) for the most accurate reproduction.*
 
-# AppleInsider |
+# AppleInsider | Privacy Policy
 
-This is the web site of **AppleInsider**.  
-We can be reached via e-mail at [news@appleinsider.com](mailto:news@appleinsider.com). 
+Internet user privacy is of paramount importance to AppleInsider.com. The success of our business depends upon our ability to maintain the trust of our users. Below is information regarding AppleInsider's commitment to protect the privacy of users and to ensure the integrity of the Internet.
 
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+**User Information**
 
-We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, and information volunteered by the consumer, such as survey information and/or site registrations.
+During your visit to the site, AppleInsider does not collect any personally-identifiable information about you that you do not specifically volunteer. This information may be volunteered when you create an account on the AppleInsider discussion forums located at [http://forums.appleinsider.com](http://forums.appleinsider.com/). However, even then, AppleInsider does not use that stored information for any purpose other than to allow you to log in and post messages.
 
-The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, and is not shared with other organizations for commercial purposes.
+AppleInsider does, however, automatically collect certain non-personally-identifiable information about you, such as your browser type and the IP address that your ISP designates to your machine (which, with dial-up accounts, usually changes every time you connect). This is standard practice for web sites, and is not used for any purpose other than to evaluate how we can design the site to best serve your needs. This information is not sold to any third parties, or available to anybody outside of the AppleInsider staff. **Cookies**
 
-With respect to cookies: We use cookies to store visitors preferences, ensure that visitors are not repeatedly sent the same banner ads, customize Web page content based on visitors' browser type or other information that the visitor sends.
+AppleInsider, along with thousands of other Web sites, uses cookies to enhance your experience. Cookies are used in the AppleInsider discussion forums to keep track of which messages have been posted since your last visit, easing the navigation of the forums. Cookies can also store your user name and password so that you do not have to log in each time you want to post a message, though you must specifically request that this feature be turned on. You can do this by clicking on "prefs" in the AppleInsider discussion forums toolbar. Cookie data is not stored on the server, and therefore, not available for viewing by AppleInsider staff or any third parties. However, it is possible that security flaws exist in some browsers that would allow other site administrators to write malicious scripts that would collect this data without AppleInsider's knowledge, though this is quite unlikely.
 
-If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
+Browsers or third-party software can allow you to block the use of cookies while you surf AppleInsider. Additionally, there are several mechanism available by which you could opt out of such use and placement of cookies and IP address information, such as the [NAI Opt-out Tool](http://www.networkadvertising.org/managing/opt_out.asp).
 
-Persons who supply us with their telephone numbers on-line will only receive telephone contact from us with information regarding orders they have placed on-line.
+**Third-party Ad Server**
 
-With respect to Ad Servers: To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information. 
+A portion of the advertisements displayed on the AppleInsider are served by third-party advertisers, including TribalFusiob.com, Advertising.com, DoubleClick, and other sites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by MAXOnline, please [click here](http://www.maxonline.com/privacy_policy/index.php).
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will use for these new purposes only data collected from the time of the policy change forward .
+We are committed to continuing to protect the privacy of our readers.If you have any additional questions, please contact us at [private@appleinsider.com](mailto:private@appleinsider.com)
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by emailing us at the address provided above. 
-
-Upon request we provide site visitors with access to a description of information that we maintain about them.
-
-Consumers can access this information by e-mailing us at the above address. 
-
-Upon request we offer visitors the ability to have inaccuracies corrected in contact information.
-
-Consumers can have this information corrected by sending us e-mail at the above address. 
-
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
-
-If you feel that this site is not following its stated information policy, you may contact or us at general@appleinsider.com.
+We recommend that you review this Privacy Statement periodically, as AppleInsider may update it from time to time without notice to its users.
