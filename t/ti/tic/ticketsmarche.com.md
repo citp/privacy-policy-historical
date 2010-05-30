@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ticketsmarche.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627065223id_/http%3A//www.ticketsmarche.com/showNews.html%3FidNews%3D132) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketsmarche.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530071352id_/http%3A//www.ticketsmarche.com/showNews.html%3FidNews%3D132) for the most accurate reproduction.*
 
-# Show News
+# Ticketsmarche.com - Tickets for Concerts, Sports, Art, Theater, Family, Cinema, Sight Seeing
 
 Welcome to Ticketsmarche! Please know that it is very important to us to protect your personal information. You must also know that we totally respect your privacy. Our Privacy Policy below is there to explain how we handle the information you share with us. The policy applies to everyone who uses our services, including call center, website, or walk-in customers. The policy also applies to every piece of information provided to us by you.   
 By using our services, you are accepting the terms and conditions we describe here:
