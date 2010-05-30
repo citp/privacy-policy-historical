@@ -1,54 +1,85 @@
-> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127180035id_/http%3A//www.crust.com.au/Content.aspx%3Fpid%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crust.com.au privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530223239id_/http%3A//www.crust.com.au/Content.aspx%3Fpid%3D17) for the most accurate reproduction.*
 
 # Privacy
 
-**Privacy Policy**
+Privacy Policy
 
-Crust recognises the importance of your privacy and treatspersonal information provided to us with respect and integrity. We comply withthe National Privacy Principles contained in the Privacy Act 1988. 
+ Crust recognises the importance of your privacy and treats personal information provided to us with respect and integrity. We comply with the National Privacy Principles contained in the Privacy Act 1988.
 
-Kindly note that when using this website or by ordering orregistering with us, you consent to the collection, use and disclosure of yourpersonal information but only in accordance with this Policy. 
+ Kindly note that when using this website or by ordering or registering with us, you consent to the collection, use and disclosure of your personal information but only in accordance with this Policy.
 
-**Collection**
+ Collection
 
-Crust regularly handles and transfers “personal information”(being information which is capable of identifying an individual) between our franchisees.Crust collects personal information from a wide variety of sources includingthis website, during telephone calls and directly from our customers. The typeof personal information collected will depend upon what dealings you may havewith us. 
+ Crust regularly handles and transfers “personal information” (being information which is capable of identifying an individual) between our franchisees. Crust collects personal information from a wide variety of sources including this website, during telephone calls and directly from our customers. The type of personal information collected will depend upon what dealings you may have with us.
 
-_Collection using thisWebsite_
+ Collection using this Website  
+   
+When you use this website, Crust collects personal information which you provide to us and information about how you use our website, for example by registering, making a purchase or posting content to our site. This information includes your name, home or work address, phone number, email address and information about the products that interest you. 
 
-When you use this website, Crust collects personalinformation which you provide to us and information about how you use our website, for example by registering, making a purchase or posting content to oursite. This information includes your name, home or work address, phone numberemail address and information about the products that interest you.
+ Use of personal information
 
- **Use of personalinformation**
+ In general our policy is to only use your information for the purpose for which it was either specified or reasonably apparent at the time when the information was collected. We may also use the information collected for any other related purpose for which you may reasonably expect it to be used.
 
-In general our policy is to only use your information forthe purpose for which it was either specified or reasonably apparent at thetime when the information was collected. We may also use the informationcollected for any other related purpose for which you may reasonably expect it tobe used. 
+ Some of the purposes for which we commonly use your information are as follows:
 
-Some of the purposes for which we commonly use yourinformation are as follows:
-
-  * To assist in providing our services and products to you and in processing the orders that you place with any Crust outlet or our call centres or websites. 
+  * To assist in providing our services and products to you and in processing the orders that you place with any Crust outlet or our call centres or websites.
   * To assist with any calls you make to us
-  * To communicate promotional offers and special events 
-  * For our internal administrative, marketing, planning, and product development and research requirements
+  * To communicate promotional offers and special events
+  * For our internal administrative, marketing, planning, and product development and research requirements 
 
 
 
- **Disclosure**
+Disclosure
 
-We may disclose your personal information: 
+ We may disclose your personal information:
 
-(a) to our franchisees, suppliers, agents orcontractors for the purpose of Crust’s business;
+ (a) to our franchisees, suppliers, agents or contractors for the purpose of Crust’s business;  
+(b) where the law requires Crust to do so; and  
+(c) to any third parties that you consent us to do so.
 
-(b) where the law requires Crust to do so; and 
+ Purpose for handling information  
+   
+We will take reasonable steps to ensure that you are aware of the purposes for which we handle personal information except where our collection or disclosure of the personal information is required by law. Personal information should only be handled for purposes notified or obvious to you, and only subsequently used or further communicated where not incompatible with these purposes.
 
-(c) to any third parties that you consent us to doso. 
+ Access and updating personal data
 
-**Purpose for handlinginformation**
+ You are welcome to request access to any personal information held about you by Crust. To obtain this information please contact us using the contact details set out below.
 
-We will take reasonable steps to ensure that you are awareof the purposes for which we handle personal information except where ourcollection or disclosure of the personal information is required by law.Personal information should only be handled for purposes notified or obvious toyou, and only subsequently used or further communicated where not incompatiblewith these purposes. 
+ If you have any queries or concerns about your personal information or if you would like to make a complaint, then please contact us for assistance. We take all reasonable security measures to protect your personal information stored in both electronic and hard copy form. Access to our electronic records is limited by passwords to authorised personnel only.  We understand that security of personal information is paramount and we endeavour to take all reasonable steps to ensure that the personal information we hold is not subject to loss, misuse or unauthorised access or alteration.
 
-**Access and updatingpersonal data**
+Delivery Policy  
+  
+Crust Pizza take great care with delivering your orders. Please ensure the address you have supplied is correct as redelivery will incur a fee. We are unable to accept responsibility for non delivery if you have supplied the incorrect address and time. 
 
-You are welcome to request access to any personal informationheld about you by Crust. To obtain this information please contact us using thecontact details set out below. 
+There is a $2 delivery fee applicable on all deliveries unless you have become a member of the VIPP Club. 
 
-If you have any queries or concerns about your personalinformation or if you would like to make a complaint, then please contact usfor assistance. We take all reasonable security measures to protect your personalinformation stored in both electronic and hard copy form. Access to ourelectronic records is limited by passwords to authorised personnel only.  We understand that security of personalinformation is paramount and we endeavour to take all reasonable steps toensure that the personal information we hold is not subject to loss, misuse orunauthorised access or alteration.
+Only Credit Card is available for payment using this website.
 
- **Changes in the future**
+Standard delivery time is approx 45minutes. This may vary depending on the volume of orders placed at the time of your order. 
 
-We may make changes to this Privacy Policy from time totime. If we do we will post these changes on our website.
+Each Crust Gourmet Pizza Bar delivers to a predefined area. Delivery outside those areas is at the discretion of the stores. No delivery is available outside of these boundaries for online ordering. Online store ordering and delivery is subject to the store trading hours which may change from time to time. This takes into account the time to process an order.
+
+Additional information is collected when you order a pizza with Crust Pizza online. This information assists in the delivery to your request and to verify your credit card and other methods of payment. When making enquiries, ordering or requesting service information, participating in certain promotional activities, completing surveys, and generally corresponding with us, we may ask for certain Personal Information, including,  your name, mailing address, phone number and email address. If you are on a part of our website that requires you to provide your Personal Information, it will be clear what Personal Information we are requesting. We may also collect other information that is provided to us by your web browser. This may include the browser you used to come to our website, the Uniform Resource Locator (“URL”) of the website that you just visited before visiting our website, which pages on our website you visit, any search terms you entered, which URL you go to next, and your Internet Protocol (“IP”) address.
+
+Use of cookies
+
+Our website uses cookies. Cookies are small strings of data placed on users' personal computer hard drives during the exchange of data that happens when your browser points to our website. Cookies enable a website to identify a user's browser as a previous visitor by means of a unique string of numbers assigned on a previous visit. Our cookies assist us in collecting information on what pages of our website you access or visit, and in recording any preferences you indicate on our website. We also use cookies to improve your experience.
+
+Our cookies cannot and do not retrieve any other data from your hard drive or pass on computer viruses. If you are just browsing our website, a cookie identifies your browser and user id (and not your identity). If you place orders with us, we use cookies to assist in storing your preferences and recording other session information (a "session" is a single visit by you to our website).   
+
+
+Refund Policy
+
+Crust Gourmet Group Pty ltd will not be responsible for any loss or deterioration which occurs subsequent to delivery as per your instructions (unless otherwise agreed in writing prior to delivery) due to non-timely collection or otherwise. Please select your meals carefully as no refund or exchange will be given. If a product is out of stock, we will contact you to determine if you would prefer a replacement or deduct it from your total order.
+
+Online Payment
+
+We only accept online payment by providing your credit card details during checkout on our secure site. We will process your order payment using your credit card details for the value printed on the tax invoice we provide with your delivery. All transactions are sold and processed in Australian dollars (AUD). We accept both Visa and Mastercard only on this secure site.
+
+Security
+
+Our e-commerce site uses Secure Sockets Layer (SSL) technology, which uses 128 bit encryption. SSL locks all payment information passed from you to us in an encrypted envelope, making it extremely difficult for this information to be intercepted. 
+
+Changes in the future
+
+ We may make changes to this Privacy Policy from time to time. If we do we will post these changes on our website.
