@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220184906id_/http%3A//www.softlookup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the softlookup.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530064949id_/http%3A//www.softlookup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy statement
 
@@ -32,3 +32,5 @@ Consumers can have this information corrected by sending us e-mail at the above 
 With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.
 
 If you feel that this site is not following its stated information policy, you may contact us at the above addresses
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp 
