@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001225307id_/http%3A//www.linkmarketservices.com.au/public/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkmarketservices.com.au privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530075538id_/http%3A//www.linkmarketservices.com.au/public/help/privacy.html) for the most accurate reproduction.*
 
 # Link Market Services: Share Registry and Financial Services Provider: Help@Link: Privacy policy
 
