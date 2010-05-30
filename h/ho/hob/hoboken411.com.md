@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126210248id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoboken411.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530212635id_/http%3A//www.hoboken411.com/archives/4346) for the most accurate reproduction.*
 
-# Privacy Policy - Hoboken411.com » Hoboken's Leading Web Community
+# Privacy Policy | Hoboken411.com
 
-The following Privacy Policy summarizes the various ways that hoboken411.com (”Service Provider,” “we” or “our”) treats the information you provide while using www.hoboken411.com (”Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
+The following Privacy Policy summarizes the various ways that hoboken411.com (“Service Provider,” “we” or “our”) treats the information you provide while using www.hoboken411.com (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy.
 
 Please read this Privacy Policy carefully. You can access the Privacy Policy any time at <http://www.hoboken411.com/archives/4346>. Your use of and/or registration on any aspect of the Website will constitute your agreement to this Privacy Policy. If you cannot agree with the terms and conditions of this Privacy Policy, please do not use the Website. This Privacy Policy does not cover information collected elsewhere, including without limitation offline and on sites linked to from the Website.
 
@@ -13,7 +13,7 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 **I. THE TYPE OF INFORMATION THE WEBSITE COLLECTS**  
 The Website generally collects personally identifying information with your specific knowledge and consent. For instance, when you enter a sweepstakes or contest, complete a survey, make a purchase, subscribe to our publication(s), or register for any portion of our services, you are asked to provide information such as your e-mail address, name or phone number. Optional information such as your age or gender may also be requested.
 
-Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol (”IP”) address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
+Our servers may also automatically collect information about your computer when you visit the Website, including without limitation the type of browser software you use, the operating system you are running, the website that referred you, and your Internet Protocol (“IP”) address. Your IP address is usually associated with the place from which you enter the Internet, like your Internet Service Provider, your company or your university.
 
 **II. HOW THE WEBSITE USES INFORMATION PROVIDED BY YOU**  
 Service Provider uses personally identifying information you supply through the Website to provide you with the service you have requested. For example, if you subscribe to any of our publications, we may use your e-mail address to send you a confirmation notice and your mailing address to send you the publication. Similarly, if you enter an online sweepstakes, we will use this information to notify you if you are a winner. We may also use the information to communicate with you about new features, products or services, and/or to improve the services that we offer by tailoring them to your needs.  
@@ -26,6 +26,8 @@ You may have read about “cookies,” nuggets of information that are placed by
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. Additionally, this site may occasionally use Google DART cookies to serve relevant ads based on visits to other sites. You may opt out of the use of DART cookies by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
+We also may use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>
+
 If you don’t want any other cookies, your Web browser likely includes an option that allows you to not accept them. However, if you set your browser to refuse cookies, some portions of the Website may not function properly.
 
 **IV. KIDS AND PARENTS**  
@@ -37,4 +39,4 @@ If you’re worried about your children’s activities or their privacy on our s
 If you have any concerns or questions about any aspect of this policy, please feel free to contact our Privacy Policy Contact:  
 Email: Hoboken411copyright@gmail.com
 
-Tags: [Hoboken411](http://technorati.com/tag/Hoboken411), [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
+Technorati Tags: [Hoboken411](http://technorati.com/tag/Hoboken411), [Privacy Policy](http://technorati.com/tag/Privacy+Policy)
