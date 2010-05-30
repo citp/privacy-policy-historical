@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2008-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081006184901id_/http%3A//nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nycourts.gov privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530162238id_/http%3A//www.nycourts.gov/privacy/index.shtml) for the most accurate reproduction.*
 
 # Internet Web Site Privacy Policy
 
@@ -20,7 +20,7 @@ Use of this web site signifies agreement with the terms of this policy.
 
 For complete details regarding this policy see the following:
 
-Information Collected Automatically at this Website  
+Information Collected Automatically at this Web Site  
 Information Collected Through E-mails and Online Transactions  
 Information and Choice  
 Disclosure of Information Collected  
@@ -94,7 +94,7 @@ back to top
 
 **RETENTION OF INFORMATION COLLECTED THROUGH THE WEB SITE**
 
-The information collected through this web site is retained by the UCS in accordance with the records retention and disposition requirements contained in Part 104 of the Rules of the Chief Administrator of the Courts. Information on those requirements may be found on this web site at <http://www.courts.state.ny.us/records/ucsrecords.html>.
+The information collected through this web site is retained by the UCS in accordance with the records retention and disposition requirements contained in Part 104 of the Rules of the Chief Administrator of the Courts. Information on those requirements may be found on this web site at <http://www.nycourts.gov/rules/chiefadmin/104.shtml>.
 
 back to top
 
