@@ -1,55 +1,102 @@
-> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2005-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050920113415id_/http%3A//www.ussearch.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ussearch.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530074315id_/http%3A//www.ussearch.com/consumer/commerce/about/privacy.jsp) for the most accurate reproduction.*
 
-# US SEARCH
+# Privacy Policy | USSearch.com
 
-|   
----  
-   
-US SEARCH is committed to respecting the privacy rights of all visitors to our Web site. The following policy describes how US SEARCH protects information it receives from visitors to its Web properties.  
-   
-**1.  ** | **What information does US SEARCH collect and how does US SEARCH use it?**  
-  | US Search collects personally identifiable information when you: visit our site, when you purchase products and when you elect to be included in our opt-out program. When you visit our site we may collect information such as an email address and/or may use "cookies" (see below). This information is used to enhance your user experience and provide you with information regarding US Search services and special offers. When you order services or register on US Search properties, we may need you to provide your name, e-mail address, mailing address, phone number and credit card information. When processing transactions such as credit card payments, this information may be sent to reputable third parties for fraud detection. These vendors maintain an obligation of confidentiality with regard to such information. When you elect to be included in our opt-out program, we may need you to provide personal information including but not limited to: your full name, e-mail address, mailing address, past addresses and aliases. This information is used to help prevent your private information, as distinguished from your public record information, from being disclosed through US Search services.  
-   
-As a visitor, you will also be given a choice when navigating through the US Search Web site or when ordering services, whether or not you would like to be included on US Search's mailing list. If you are included on US Search's mailing list, we may notify you about important functionality changes to the Web site, new services, and special offers we think you'll find valuable.  
-   
-US Search implements a variety of security measures to maintain the safety of your personal information. User personal information is contained behind secured networks and is only accessible by a limited number of employees who have specific access rights to such systems. When you place orders or access your personal information, we offer the use of a secure server. All sensitive/credit information you supply is transmitted via Secure Socket Layer (SSL) technology. Should it be necessary to transmit your personal information to a reputable third party vendor to: (1) fulfill our service commitment to you, (2) to include you in our opt-out program, or (3) to process your credit card, US Search will require all recipients of such information to maintain the information as confidential information and agree not to disclose such information to third parties.  
-   
-US Search may disclose your personal information when required to do so by law, court order or pursuant to government or law enforcement authority request or in a good faith belief that disclosure is necessary or advisable under the circumstances.  
-   
-**2.  ** | **Does US SEARCH disclose the information it collects from its visitors to outside parties?**  
-  | US Search does not sell, lease or rent personally identifiable information you voluntarily provide in any form including but not limited to order forms and opt-out program requests. This information is used to better understand your use of US Search's site and to support related transactions made on the site. US Search may send your personally identifiable information to third parties when: (1) we have your consent; (2) we need to share your information to provide the product or service you have requested; (3) we need to send the information to companies working on US Search's behalf including but not limited to credit card processing services (these companies have agreed to maintain information provided by US Search as secure confidential information that will not be disclosed unless legally required to do so); (4) we find that you have violated any stated terms of service or conditions of purchase; or (5) we respond to court orders or legal process.  
-   
-**3.  ** | **Can US Search remove information about me from US Search reports?**  
-  | 
+US Search has been the leading online People Search enterprise for more than a decade. We provide this privacy policy so we may inform you about our company privacy practices, including 1) our practices as they pertain to our corporate website located at www.USSearch.com (“Website“), and 2) our practices that apply when you purchase one of our products or services.
 
-US Search, as a data aggregator, accesses numerous third party databases to gather information for our reports. If you would like to remove yourself from US Search reports you can do so by joining US Search's opt-out program. The opt-out program covers reports that contain non-publicly available information that is sold to the general public. US Search will use good faith efforts to help prevent your non-public information from being distributed. We cannot provide any assurance that information that is otherwise publicly available, such as court records, will be withheld. If you would like to be included in our opt-out program, you should contact us by writing a letter giving your complete name (first, last and middle initial), name variations (aliases), current mailing address, past mailing address going back 15 years, date of birth and social security number to:
+If you want to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](https://web.archive.org/consumer/ala/landing.do?did=590) to learn how.
 
-Opt-Out  
-US SEARCH.com Inc.  
+* **What information do we collect when you visit our Website or order our products and services, and how do we use it?**
+
+We generally collect information about you in order to operate our business, provide the products and services you order, improve those products, services and our Website, enhance your user experience, and/or provide you with information regarding our products and services and other special offers that we think may be of interest to you.
+
+##### Personally Identifiable Information
+
+We collect Personally Identifiable Information (“PII”) from you when you choose to provide it to us. PII is any information that can be used to identify or locate a particular person or entity. For example, we collect PII:
+
+  * When you purchase our products and services, we will collect PII in order to facilitate your purchase, including your name, address, email address, telephone number, and credit card number.
+  * When you ask to take part in our PrivacyLock service (described below) we collect your name, address, previous address, date of birth, telephone number and credit card number so that we may facilitate your opt-out request.
+  * When you provide us with your email address in order to join our mailing list, we will send you email messages in order to notify you about important functionality changes to the Website, new services, and special offers we think you’ll find valuable.
+  * When you fill out our [customer service form](https://web.archive.org/consumer/commerce/about/contact_cs.jsp) on our Website (e.g., to ask us a question about an order you’ve already placed, or to ask us to remove any of your PII that we have from our database, we will collect PII in order to help us answer your question or facilitate your request, including: your name, your email address, your telephone number, the order date, and the order number, if applicable.
+
+
+
+##### Non-Personally Identifiable Information
+
+We collect Non-Personally Identifiable Information ("Non-PII") from visitors to this Website. Non-PII is information that cannot by itself be used to identify a particular person or entity, and may include your IP host address, pages viewed, browser type, Internet browsing and usage habits, Internet Service Provider, domain name, the time/date of your visit to this Website, the referring URL and your computer's operating system.
+
+##### Entered 3rd party PII
+
+When you are conducting a search for a particular individual, you enter their PII (name, address, phone number, etc.) This information is considered 3rd party PII and is only stored and accessed strictly for two very specific purposes: (1) to respond to subpoena and (2) when the original customer inquires about their order (at such time, the CS agent will only access that specific record). Other than those two cases the data lies dormant. We do not use it for any other purpose.
+
+##### Cookies and Web beacons
+
+We use "cookies" on this Website. Cookies are small text files that contain a string of alphanumeric characters. A persistent cookie remains on your hard drive for an extended period of time, while a session cookie is erased when you close your Internet browser at the end of your web surfing session. We use both persistent cookies and session cookies to help us manage this Website. For example, cookies help us customize your experience on our Website. Our cookies are linked to PII to provide you with a customized user experience. You can remove persistent cookies by following directions provided in your Internet browser help file.
+
+We also use web beacons (also known as "1X1 pixels" or "clear GIFs") on this Website. Web beacons are small strings of code that provide a method for delivering a graphic image on a web page or in an email message for the purpose of transferring data. We use web beacons to improve our understanding of Website traffic, visitor behavior, and response to promotional campaigns, as a supplement to our server logs and other methods of traffic and response measurement. We may also implement web beacons provided by other companies, and limit the collection of information for the same purpose. We do not store personally identifiable information in web beacons.
+
+* **Disclosure of personal information to Third parties?**
+
+We do not sell, lease or rent your information collected on the Website other than as disclosed here in this privacy statement. We may disclose PII to third parties under the following circumstances:
+
+###### When we have your consent:
+
+  * When trusted third party service providers perform processing and other services on our behalf, including, fraud detection and prevention services, and credit card processors. Our service providers are obligated by contract to protect your information, and are prohibited from using your information except to provide such processing services;
+  * When you place an order with us, we may offer you a complimentary product from one of our partner companies. If you agree to purchase the product from our partner company, we will transfer your PII to that partner company in order to facilitate your purchase. Please note that these partners have their own websites which are governed by their own privacy policies;
+  * To establish, assert, or defend our legal rights and/or interests, or those of a third party;
+  * To respond to judicial proceeding, court order, legal process, and/or requests from government and law enforcement.
+
+
+* **How to Block Display of your Profile on US Search Websites and in US Search Reports:**
+
+US Search obtains most of the information for our products and services from partners who generally obtain it from public records. We do not maintain or control those records, and cannot remove your name from any public records. 
+
+As a courtesy we offer individuals the ability to block certain records from appearing on the US Search websites, in US Search Reports, and in advertisements "powered by US Search" on third party website. The US Search Privacy Lock suppresses your name only as it appears in the particular record you block, and only suppresses information (e.g., address and phone number) that is associated with the record you block. If your identifying information appears in a different format in other public records, your name may still appear on our Website, in our reports, or in our advertisements. For example, if your name appears as "Mike" in some records and "Michael" in another, you will need to repeat the lock process for each record separately. If your identifying information, such as your address or area code changes, you will need to opt out again to prevent your new information from appearing. In order for us to suppress or opt out your personal information from appearing on our Website, we need to verify your identity. To do this, we require you to send us proof of identity via postal mail or fax, which we will use only to process your opt-out request. Proof of identity can be a state issued ID card or driver's license. Please cross out everything but your name, address, and date of birth before sending us the proof of identity. 
+
+Requests for opt out will not be processed over the phone or via email. Subject to limited exceptions for elected officials and/or law enforcement officers, US Search does not process third party requests or requests submitted in any other manner. 
+
+To learn how to block your profile from appearing on our websites, in our reports, or in our ads, please [click here](https://web.archive.org/consumer/ala/landing.do?did=590). 
+
+* **Can I access or delete the information that is collected from this Website?**
+
+We provide location and background services by conducting searches of information databases owned and maintained by third parties. We charge our customers to conduct a location or background check for an individual. We do not provide location and background services free of charge, and we cannot provide access to information about you in databases owned by third parties without payment of the applicable fee. However, we do offer individuals the ability to lock their records on US Search in accordance with laws and US Search policy through our PrivacyLock Service (described above).
+
+We do, however, permit you to review, update, correct, delete or deactivate information that we collect directly from you and store in our internal databases, such as your name, address, payment information, email address, social security number, aliases and date of birth. The information we collect from you is not incorporated into the services we sell to our customers.
+
+##### Customer Account Information
+
+If you have a US Search account, you may opt-out of receiving marketing or promotional emails from us and update your account information in the following ways:
+
+  * Online by visiting [www.USSearch.com](https://web.archive.org/consumer/index.do?cid=people), logging into your account, and clicking on the “member center”, “account settings” at the top of the page; ( _Note_ : you must call customer service at 1-800-877-3272 if you want to change or delete your credit card number.)
+  * By sending a written request by regular mail or email, to the address information below. Your request should include: your name, complete address, purchase date and order reference number.
+
+
+
+##### Any other information provided via our Website
+
+If you have provided your email to join our mailing list, or provided information while asking us a question, you may update your information via email at [cservice@USSearch.com](mailto:cservice@USSearch.com). Alternatively, you may send your request by mail to the address below.
+
+* **Requests via mail should be sent to:**
+
+US SEARCH  
+Privacy Officer  
 600 Corporate Pointe, Suite 220  
-Culver City, CA 90230  
-  
-   
-**4.  ** | **Does US SEARCH use "cookies"?**  
-  | Cookies are bits of electronic information that a Web site can transfer to a visitor's hard drive to help tailor and keep records of his or her visit to the site. Cookies allow Web site operators to better customize visits to the site to the your individual preferences. The use of cookies is standard on the Internet and many major Web sites use them. US Search may use cookies to help provide you with a better experience on our site; however, we do not store personal identifying information in cookies.  
-   
-**5.  ** | **Your consent**  
-  | By using our Web site, you consent to the collection and use of the information you provide according to this Privacy Policy. If we decide to change our Privacy Policy, we will post these changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.  
-   
-**6.  ** | **Access To Personal Identifying Information**  
-  | 
+Culver City, CA 90230
 
-US Search provides access to your personal identifying information collected through the purchase of our services, participation in our opt-out program or information you voluntarily provide by offering you the opportunity to review and correct inaccuracies of your personal information. In order to review or correct personal identifying information, you must send a written request to US Search including: (1) your name, complete address, purchase date and order reference if a purchase was made; (2) your complete name, any aliases, address and any additional information you originally supplied for the opt-out program; (3) your name and email address if you elected to receive materials from US Search. US Search will process your request to review or correct your personal information within 30 days of receipt. US Search will not process any third party requests. Requests should be mailed to:
+Requests via email should be sent to [cservice@USSearch.com](mailto:cservice@USSearch.com).
 
-US SEARCH.com Inc.  
-Attn: Legal Department  
-600 Corporate Pointe, Suite 220  
-Culver City, CA 90230  
-  
-   
-**7.  ** | **Does US SEARCH use Web Bugs?**  
-  | US Search does not use web bugs on its Web site to monitor user activity on its properties. US Search may utilize third parties to record information regarding the use of its site. The information recorded is limited to the sources and advertisements that refer customers to our site. The information recorded by these third parties is disclosed to US Search only and not to any other parties. US Search does not record customer information regarding activities outside of our Web properties.  
-   
-**8.  ** | **Business Transfer**  
-  | As we continue to develop our business, we may acquire businesses and/or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that US Search.com Inc., or substantially all of its assets are acquired, customer information will of course be one of the transferred assets."  
-Rev. 11/01
+We will process your request to review, update, correct, delete or deactivate your information within a reasonable time – typically within 30 days of receipt
+
+* **What security measures are in place to protect my information?**
+
+The security of your information is important to us, including but not limited to the PII collected via the Website. We have implemented reasonable security measures to protect the information in our care, both during transmission and once we receive it. This includes, but is not limited to the use of firewalls and encryption. For example, when you enter sensitive information (such as credit card number and/or your or anyone else’s social security number) on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your information, we cannot guarantee its absolute security. If you have any questions about our security practices, please send an email to us at [cservice@USSearch.com](mailto:cservice@USSearch.com).
+
+* **Information Relating to Children**
+
+Our products and services are designed for those 13 years of age and older. We do not knowingly collect PII from anyone under the age of 13. If we are made aware that we have received PII from someone under 13, we will use reasonable efforts to remove that information from our records.
+
+* **Links**
+
+This Website may contain links to other websites. These links do not constitute an endorsement of the linked websites, or the products and/or services offered on those websites. We are not responsible for and do not control the privacy practices of such other websites. We encourage our visitors to be aware when they leave our Website and to read the privacy statements of each and every website that they visit.
+
+The Web site utilizes framing techniques to make it appear that the user is still on the site when the user is actually on a third party Web site for credit report products. 
