@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616154040id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgadsonline.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530072219id_/http%3A//www.sgadsonline.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy::Singapore Classifieds for jobs, HDB, Condo, properties, cars, buy, sale, rent, services, flea market
 
