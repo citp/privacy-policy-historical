@@ -1,590 +1,88 @@
-<!--The following is the downloaded HTML source of the libman.com privacy policy that was archived on 2008-09-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080906234923id_/http%3A//www.libman.com/index.aspx%3Fsrc%3DPRV) for the most accurate reproduction.-->
-
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-    <title></title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <meta name="Keywords" content="">
-    <meta name="Description" content="">
-    <meta name="Author" content="">
-    <meta name="Copyright" content="">
-    <meta name="Robots" content="">
-    <meta name="Revisit-After" content="">
-    <link href="/libman_style.css" type="text/css" rel="STYLESHEET">
-<script language="javascript">
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments;
-document.MM_sr=new Array;
-for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null)
-{document.MM_sr[j++]=x;
-if(!x.oSrc)
- x.oSrc=x.src;
-x.src=a[i+2];}
-}
-
-
-
-var totalcount= "1";
-
-function DoSubMenu(targetID,parentID)
-	{
-	// Cannibalize our parent for vars
-	var parentARR= parentID.split("|")
-	var controlID= parentARR[0]
-
-	// First, kill other menus
-	for(i=1;i<=totalcount+1;i++)
-		{
-		tempID= controlID+"|"+i+"|"
-
-		// Does this div exist?
-		if (document.getElementById(tempID+"SUB"))
-			{
-
-			// Shut down the sub
-			document.getElementById(tempID+"SUB").style.display= "none";
-
-			}
-
-		// Turn off the link
-		if (document.getElementById(tempID+"MAINITEM"))
-			{
-			mySRC= document.getElementById(tempID+"MAINITEM").src
-			mySRC= mySRC.replace("ON_","OFF_")
-			document.getElementById(tempID+"MAINITEM").src= mySRC
-			}
-		}
-
-	// Now open ours
-	if (document.getElementById(targetID))
-		{
-		document.getElementById(targetID).style.display= "block";
-		}
-
-	if (document.getElementById(parentID))
-		{
-		mySRC= document.getElementById(parentID).src
-		mySRC= mySRC.replace("OFF_","ON_")
-		document.getElementById(parentID).src= mySRC
-		}
-	}
-
-
-// Closes all main menus and empties submenu contents
-function killmenus()
-	{
-
-	DoSubMenu("0","0")
-
-	}
-
-// Links to new page
-function pageJump(myURL)
-	{
-	window.location.href=myURL;
-	}
-
-// Switch flash based on browser
-function flashCheck()
-	{
-	var flashSTR;
-
-	flashSTR= "A";
-
-	// Shutdown flash for 7
-	if (document.getElementById("DIVflash7"))
-		{
-		if (detectFlash() < 7)
-			{
-			document.getElementById("DIVflash7").style.display= "none";
-			flashSTR += "1";
-			}else{
-			document.getElementById("DIVflash7").style.display= "block";
-			flashSTR += "0";
-			}
-		}
-
-
-	// Shutdown flash for 6
-	if (document.getElementById("DIVflash6"))
-		{
-		if (detectFlash() < 6)
-			{
-			document.getElementById("DIVflash6").style.display= "none";
-			flashSTR += "1";
-			}else{
-			document.getElementById("DIVflash6").style.display= "block";
-			flashSTR += "0";
-			}
-		}
-
-
-	// Only have one type of div open
-	if ((parseInt(flashSTR.length) > 2) && (flashSTR.indexOf("0") == 1))
-		{
-			document.getElementById("DIVflash6").style.display= "none";
-		}
-
-
-	// Really stupid exception for Locator Page
-	if (document.getElementById('DIVlocatorflash'))
-		{
-		var myHTML;
-		var encodedHtml;
-
-		if (detectFlash() < 6)
-			{
-			if (document.getElementById("DIVnonflash"))
-				{
-				document.getElementById("DIVnonflash").style.display= "block";
-				}
-			}else{
-
-			if (detectFlash() > 6)
-				{
-				myHTML= "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0\" width=\"600\" height=\"400\" id=\"locator\" align=\"middle\"><param name=\"allowScriptAccess\" value=\"sameDomain\" /><param name=\"movie\" value=\"/assets/flash/locator.swf\" /><param name=\"quality\" value=\"high\" /><param name=\"bgcolor\" value=\"#ffffff\" /><Param name=\"menu\" value=\"false\"><embed src=\"/assets/flash/locator.swf\" quality=\"high\" menu=\"false\" bgcolor=\"#ffffff\" width=\"600\" height=\"400\" name=\"locator\" align=\"middle\" allowScriptAccess=\"sameDomain\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" /></object>";
-				}else{
-				myHTML= "<object classid=\"clsid:d27cdb6e-ae6d-11cf-96b8-444553540000\" codebase=\"http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0\" width=\"600\" height=\"400\" id=\"locatorV6\" align=\"middle\"><param name=\"allowScriptAccess\" value=\"sameDomain\" /><param name=\"movie\" value=\"/assets/flash/locatorV6.swf\" /><param name=\"quality\" value=\"high\" /><param name=\"bgcolor\" value=\"#ffffff\" /><Param name=\"menu\" value=\"false\"><embed src=\"/assets/flash/locatorV6.swf\" quality=\"high\" menu=\"false\" bgcolor=\"#ffffff\" width=\"600\" height=\"400\" name=\"locatorV6\" align=\"middle\" allowScriptAccess=\"sameDomain\" type=\"application/x-shockwave-flash\" pluginspage=\"http://www.macromedia.com/go/getflashplayer\" /></object>";
-				}
-
-			encodedHtml = escape(myHTML);
-			encodedHtml = encodedHtml.replace(/\//g,"%2F");
-			encodedHtml = encodedHtml.replace(/\?/g,"%3F");
-			encodedHtml = encodedHtml.replace(/=/g,"%3D");
-			encodedHtml = encodedHtml.replace(/&/g,"%26");
-			encodedHtml = encodedHtml.replace(/@/g,"%40");
-
-			document.getElementById('DIVlocatorflash').innerHTML = unescape(encodedHtml);
-			flashSTR += "0";
-			}
-		}
-
-	// Open Get Flash Div
-	if (flashSTR.indexOf("0") < 1)
-		{
-			if (document.getElementById("DIVnonflash"))
-				{
-				document.getElementById("DIVnonflash").style.display= "block";
-				}
-		}
-
-	}
-
-
-
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-// moock fpi [f.lash p.layer i.nspector]
-// version: 1.3.7
-// written by colin moock
-// code maintained at: http://www.moock.org/webdesign/flash/detection/moockfpi/
-// terms of use posted at: http://www.moock.org/terms/
-
-
-
-// =============================================================================
-// These are the user defined globals.
-// Modify the following variables to customize the inspection behaviour.
-
-var requiredVersion = 2;   // Version the user needs to view site (max 9, min 2)
-var useRedirect = false;    // Flag indicating whether or not to load a separate
-                           // page based on detection results. Set to true to
-                           // load a separate page. Set to false to embed the
-                           // movie or alternate html directly into this page.
-                           
-// Only set next three vars if useRedirect is true...
-var flashPage   = "movie.html"    // The location of the flash movie page
-var noFlashPage = "noflash.html"  // Page displayed if the user doesn't have the
-                                  // plugin or we can't detect it.
-var upgradePage = "upgrade.html"  // Page displayed if we detect an old plugin
-// =============================================================================
-
-
-
-// *************
-// Everything below this point is internal until after the BODY tag.
-// Do not modify! Proceed to the BODY tag for further instructions.
-// *************
-
-// System globals
-var flash2Installed = false;    // boolean. true if flash 2 is installed
-var flash3Installed = false;    // boolean. true if flash 3 is installed
-var flash4Installed = false;    // boolean. true if flash 4 is installed
-var flash5Installed = false;    // boolean. true if flash 5 is installed
-var flash6Installed = false;    // boolean. true if flash 6 is installed
-var flash7Installed = false;    // boolean. true if flash 7 is installed
-var flash8Installed = false;    // boolean. true if flash 8 is installed
-var flash9Installed = false;    // boolean. true if flash 9 is installed
-var maxVersion = 9;             // highest version we can actually detect
-var actualVersion = 0;          // version the user really has
-var hasRightVersion = false;    // boolean. true if it's safe to embed the flash movie in the page
-var jsVersion = 1.0;            // the version of javascript supported
-
-// -->
-</script>
-
-<script language="JavaScript1.1" type="text/javascript">
-<!--
-
-// Check the browser...we're looking for ie/win
-var isIE  = (navigator.appVersion.indexOf("MSIE") != -1) ? true : false;    // true if we're on ie
-var isWin = (navigator.appVersion.toLowerCase().indexOf("win") != -1) ? true : false; // true if we're on windows
-
-
-// This is a js1.1 code block, so make note that js1.1 is supported.
-jsVersion = 1.1;
-
-// Write vbscript detection on ie win. IE on Windows doesn't support regular
-// JavaScript plugins array detection.
-if(isIE && isWin){
-  document.write('<SCR' + 'IPT LANGUAGE=VBScript\> \n');
-  document.write('on error resume next \n');
-  document.write('flash2Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.2"))) \n');
-  document.write('flash3Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.3"))) \n');
-  document.write('flash4Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.4"))) \n');
-  document.write('flash5Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.5"))) \n');  
-  document.write('flash6Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.6"))) \n');  
-  document.write('flash7Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.7"))) \n');
-  document.write('flash8Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.8"))) \n');
-  document.write('flash9Installed = (IsObject(CreateObject("ShockwaveFlash.ShockwaveFlash.9"))) \n');
-  document.write('<\/SCR' + 'IPT\> \n'); // break up end tag so it doesn't end our script
-}
-// -->
-</script>
-
-<script language="JavaScript" type="text/javascript">
-<!--
-
-// Next comes the standard javascript detection that uses the 
-// navigator.plugins array. We pack the detector into a function so that 
-// it preloads before being run.
-
-function detectFlash() {  
-  // If navigator.plugins exists...
-  if (navigator.plugins) {
-    // ...then check for flash 2 or flash 3+.
-    if (navigator.plugins["Shockwave Flash 2.0"]
-        || navigator.plugins["Shockwave Flash"]) {
-
-      // Some version of Flash was found. Time to figure out which.
-      
-      // Set convenient references to flash 2 and the plugin description.
-      var isVersion2 = navigator.plugins["Shockwave Flash 2.0"] ? " 2.0" : "";
-      var flashDescription = navigator.plugins["Shockwave Flash" + isVersion2].description;
-
-      // DEBUGGING: uncomment next line to see the actual description.
-      // alert("Flash plugin description: " + flashDescription);
-      
-      // A flash plugin-description looks like this: Shockwave Flash 4.0 r5
-      // We can get the major version by grabbing the character before the period
-      // note that we don't bother with minor version detection. 
-      // Do that in your movie with $version or getVersion().
-      var flashVersion = parseInt(flashDescription.substring(16));
-
-      // We found the version, now set appropriate version flags. Make sure
-      // to use >= on the highest version so we don't prevent future version
-      // users from entering the site.
-      flash2Installed = flashVersion == 2;    
-      flash3Installed = flashVersion == 3;
-      flash4Installed = flashVersion == 4;
-      flash5Installed = flashVersion == 5;
-      flash6Installed = flashVersion == 6;
-      flash7Installed = flashVersion == 7;
-      flash8Installed = flashVersion == 8;
-      flash9Installed = flashVersion >= 9;
-    }
-  }
-  
-  // Loop through all versions we're checking, and
-  // set actualVersion to highest detected version.
-  for (var i = 2; i <= maxVersion; i++) {  
-    if (eval("flash" + i + "Installed") == true) actualVersion = i;
-  }
-  
-  // If we're on msntv (formerly webtv), the version supported is 4 (as of
-  // January 1, 2004). Note that we don't bother sniffing varieties
-  // of msntv. You could if you were sadistic...
-  if(navigator.userAgent.indexOf("WebTV") != -1) actualVersion = 4;  
-  
-  // DEBUGGING: uncomment next line to display flash version
-// alert("version detected: " + actualVersion);
-return actualVersion;
-
-
-  // We're finished getting the version on all browsers that support detection.
-  // Time to take the appropriate action.
-
-
-}
-
-  
-// -->
-</script>
-</head>
-<body leftmargin="0" topmargin="0" onload="flashCheck();    MM_preloadImages('/assets/nav/OFF_C_HH_Mop.gif', '/assets/nav/ON_C_Mop.gif', '/assets/nav/OFF_C_HH_Flo_Scr.gif', '/assets/nav/ON_C_Flo_Scr.gif', '/assets/nav/OFF_C_HH_Bro.gif', '/assets/nav/ON_C_Bro.gif', '/assets/nav/OFF_C_HH_Bru.gif', '/assets/nav/ON_C_Bru.gif', '/assets/nav/OFF_C_HH_Dus.gif', '/assets/nav/ON_C_Dus.gif', '/assets/nav/OFF_C_HH_Dus_Pan.gif', '/assets/nav/ON_C_Dus_Pan.gif', '/assets/nav/OFF_C_HH_Scr.gif', '/assets/nav/ON_C_Scr.gif', '/assets/nav/OFF_C_HH_Buc.gif', '/assets/nav/ON_C_Buc.gif', '/assets/nav/OFF_C_HH_Oth_Cle_Pro.gif', '/assets/nav/ON_C_Oth_Cle_Pro.gif', '/assets/nav/OFF_C_HH_Mic.gif', '/assets/nav/ON_C_Mic.gif', '/assets/nav/OFF_C_HH_highpower.gif', '/assets/nav/ON_C_HH_highpower.gif');    ">
-<form name="ctl00" method="post" action="index.aspx?src=PRV" id="ctl00">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJODY2MTczNjE2D2QWBAIPDxYCHgRUZXh0BQExZAITD2QWAgIBD2QWAgIBD2QWAmYPZBYCAgEPFgIfAAW9HTx0YWJsZSBib3JkZXI9IjAiIGNlbGxzcGFjaW5nPSIwIiBib3JkZXI9IjAiIGNlbGxwYWRkaW5nPSIwIj48dHI+PHRkIHZhbGlnbj0ibWlkZGxlIiBoZWlnaHQ9JycyMCIgYWxpZ249IkxFRlQiPjxpbWcgc3JjPSIvYXNzZXRzL25hdi9PRkZfQ19ISF9Nb3AuZ2lmIiBvbm1vdXNlb3Zlcj0idGhpcy5zdHlsZS5jdXJzb3I9J3BvaW50ZXInOyBEb1N1Yk1lbnUoJzB8MXxTVUInLCcwfDF8TUFJTklURU0nKTsgdGhpcy5zcmM9Jy9hc3NldHMvbmF2L09OX0NfTW9wLmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfTW9wLmdpZic7IGtpbGxtZW51cygpOyIgb25DbGljaz0icGFnZUp1bXAoJ2luZGV4LmFzcHg/c3JjPVBEQyZjdD0xJyk7Ij48L3RkPjwvdHI+PHRyPjx0ZCB2YWxpZ249Im1pZGRsZSIgaGVpZ2h0PScnMjAiIGFsaWduPSJMRUZUIj48aW1nIHNyYz0iL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfRmxvX1Njci5naWYiIG9ubW91c2VvdmVyPSJ0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcic7IERvU3ViTWVudSgnMHwxfFNVQicsJzB8MXxNQUlOSVRFTScpOyB0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT05fQ19GbG9fU2NyLmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfRmxvX1Njci5naWYnOyBraWxsbWVudXMoKTsiIG9uQ2xpY2s9InBhZ2VKdW1wKCdpbmRleC5hc3B4P3NyYz1QREMmY3Q9NycpOyI+PC90ZD48L3RyPjx0cj48dGQgdmFsaWduPSJtaWRkbGUiIGhlaWdodD0nJzIwIiBhbGlnbj0iTEVGVCI+PGltZyBzcmM9Ii9hc3NldHMvbmF2L09GRl9DX0hIX0Jyby5naWYiIG9ubW91c2VvdmVyPSJ0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcic7IERvU3ViTWVudSgnMHwxfFNVQicsJzB8MXxNQUlOSVRFTScpOyB0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT05fQ19Ccm8uZ2lmJzsiIG9ubW91c2VvdXQ9InRoaXMuc3JjPScvYXNzZXRzL25hdi9PRkZfQ19ISF9Ccm8uZ2lmJzsga2lsbG1lbnVzKCk7IiBvbkNsaWNrPSJwYWdlSnVtcCgnaW5kZXguYXNweD9zcmM9UERDJmN0PTgnKTsiPjwvdGQ+PC90cj48dHI+PHRkIHZhbGlnbj0ibWlkZGxlIiBoZWlnaHQ9JycyMCIgYWxpZ249IkxFRlQiPjxpbWcgc3JjPSIvYXNzZXRzL25hdi9PRkZfQ19ISF9CcnUuZ2lmIiBvbm1vdXNlb3Zlcj0idGhpcy5zdHlsZS5jdXJzb3I9J3BvaW50ZXInOyBEb1N1Yk1lbnUoJzB8MXxTVUInLCcwfDF8TUFJTklURU0nKTsgdGhpcy5zcmM9Jy9hc3NldHMvbmF2L09OX0NfQnJ1LmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfQnJ1LmdpZic7IGtpbGxtZW51cygpOyIgb25DbGljaz0icGFnZUp1bXAoJ2luZGV4LmFzcHg/c3JjPVBEQyZjdD0xNScpOyI+PC90ZD48L3RyPjx0cj48dGQgdmFsaWduPSJtaWRkbGUiIGhlaWdodD0nJzIwIiBhbGlnbj0iTEVGVCI+PGltZyBzcmM9Ii9hc3NldHMvbmF2L09GRl9DX0hIX0R1cy5naWYiIG9ubW91c2VvdmVyPSJ0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcic7IERvU3ViTWVudSgnMHwxfFNVQicsJzB8MXxNQUlOSVRFTScpOyB0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT05fQ19EdXMuZ2lmJzsiIG9ubW91c2VvdXQ9InRoaXMuc3JjPScvYXNzZXRzL25hdi9PRkZfQ19ISF9EdXMuZ2lmJzsga2lsbG1lbnVzKCk7IiBvbkNsaWNrPSJwYWdlSnVtcCgnaW5kZXguYXNweD9zcmM9UERDJmN0PTIyJyk7Ij48L3RkPjwvdHI+PHRyPjx0ZCB2YWxpZ249Im1pZGRsZSIgaGVpZ2h0PScnMjAiIGFsaWduPSJMRUZUIj48aW1nIHNyYz0iL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfRHVzX1Bhbi5naWYiIG9ubW91c2VvdmVyPSJ0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcic7IERvU3ViTWVudSgnMHwxfFNVQicsJzB8MXxNQUlOSVRFTScpOyB0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT05fQ19EdXNfUGFuLmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfRHVzX1Bhbi5naWYnOyBraWxsbWVudXMoKTsiIG9uQ2xpY2s9InBhZ2VKdW1wKCdpbmRleC5hc3B4P3NyYz1QREMmY3Q9MjMnKTsiPjwvdGQ+PC90cj48dHI+PHRkIHZhbGlnbj0ibWlkZGxlIiBoZWlnaHQ9JycyMCIgYWxpZ249IkxFRlQiPjxpbWcgc3JjPSIvYXNzZXRzL25hdi9PRkZfQ19ISF9TY3IuZ2lmIiBvbm1vdXNlb3Zlcj0idGhpcy5zdHlsZS5jdXJzb3I9J3BvaW50ZXInOyBEb1N1Yk1lbnUoJzB8MXxTVUInLCcwfDF8TUFJTklURU0nKTsgdGhpcy5zcmM9Jy9hc3NldHMvbmF2L09OX0NfU2NyLmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfU2NyLmdpZic7IGtpbGxtZW51cygpOyIgb25DbGljaz0icGFnZUp1bXAoJ2luZGV4LmFzcHg/c3JjPVBEQyZjdD0yNCcpOyI+PC90ZD48L3RyPjx0cj48dGQgdmFsaWduPSJtaWRkbGUiIGhlaWdodD0nJzIwIiBhbGlnbj0iTEVGVCI+PGltZyBzcmM9Ii9hc3NldHMvbmF2L09GRl9DX0hIX0J1Yy5naWYiIG9ubW91c2VvdmVyPSJ0aGlzLnN0eWxlLmN1cnNvcj0ncG9pbnRlcic7IERvU3ViTWVudSgnMHwxfFNVQicsJzB8MXxNQUlOSVRFTScpOyB0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT05fQ19CdWMuZ2lmJzsiIG9ubW91c2VvdXQ9InRoaXMuc3JjPScvYXNzZXRzL25hdi9PRkZfQ19ISF9CdWMuZ2lmJzsga2lsbG1lbnVzKCk7IiBvbkNsaWNrPSJwYWdlSnVtcCgnaW5kZXguYXNweD9zcmM9UERDJmN0PTI1Jyk7Ij48L3RkPjwvdHI+PHRyPjx0ZCB2YWxpZ249Im1pZGRsZSIgaGVpZ2h0PScnMjAiIGFsaWduPSJMRUZUIj48aW1nIHNyYz0iL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfT3RoX0NsZV9Qcm8uZ2lmIiBvbm1vdXNlb3Zlcj0idGhpcy5zdHlsZS5jdXJzb3I9J3BvaW50ZXInOyBEb1N1Yk1lbnUoJzB8MXxTVUInLCcwfDF8TUFJTklURU0nKTsgdGhpcy5zcmM9Jy9hc3NldHMvbmF2L09OX0NfT3RoX0NsZV9Qcm8uZ2lmJzsiIG9ubW91c2VvdXQ9InRoaXMuc3JjPScvYXNzZXRzL25hdi9PRkZfQ19ISF9PdGhfQ2xlX1Byby5naWYnOyBraWxsbWVudXMoKTsiIG9uQ2xpY2s9InBhZ2VKdW1wKCdpbmRleC5hc3B4P3NyYz1QREMmY3Q9MjYnKTsiPjwvdGQ+PC90cj48dHI+PHRkIHZhbGlnbj0ibWlkZGxlIiBoZWlnaHQ9JycyMCIgYWxpZ249IkxFRlQiPjxpbWcgc3JjPSIvYXNzZXRzL25hdi9PRkZfQ19ISF9NaWMuZ2lmIiBvbm1vdXNlb3Zlcj0idGhpcy5zdHlsZS5jdXJzb3I9J3BvaW50ZXInOyBEb1N1Yk1lbnUoJzB8MXxTVUInLCcwfDF8TUFJTklURU0nKTsgdGhpcy5zcmM9Jy9hc3NldHMvbmF2L09OX0NfTWljLmdpZic7IiBvbm1vdXNlb3V0PSJ0aGlzLnNyYz0nL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfTWljLmdpZic7IGtpbGxtZW51cygpOyIgb25DbGljaz0icGFnZUp1bXAoJ2luZGV4LmFzcHg/c3JjPVBEQyZjdD0zOScpOyI+PC90ZD48L3RyPjx0cj48dGQgdmFsaWduPSJtaWRkbGUiIGhlaWdodD0iMjAiIGFsaWduPSJMRUZUIj48aW1nIHNyYz0iL2Fzc2V0cy9uYXYvT0ZGX0NfSEhfaGlnaHBvd2VyLmdpZiIgb25tb3VzZW92ZXI9InRoaXMuc3R5bGUuY3Vyc29yPSdwb2ludGVyJzsgRG9TdWJNZW51KCcwfDF8U1VCJywnMHwxfE1BSU5JVEVNJyk7IHRoaXMuc3JjPScvYXNzZXRzL25hdi9PTl9DX0hIX2hpZ2hwb3dlci5naWYnOyIgb25tb3VzZW91dD0idGhpcy5zcmM9Jy9hc3NldHMvbmF2L09GRl9DX0hIX2hpZ2hwb3dlci5naWYnOyBraWxsbWVudXMoKTsiIG9uQ2xpY2s9InBhZ2VKdW1wKCdocG93ZXIuYXNweCcpOyI+PC90ZD48L3RyPjwvdGFibGU+ZGTJyDIe3kN4HmMrDZKa3JnHjCdBpQ==">
-
-<!-- PAGE HEADER TABLE -->
-<table id="tdNavBar" cellpadding="0" cellspacing="0" border="0" width="780" height="530px" align="center" valign="TOP">
-	<tbody><tr onmouseover="killmenus();">
-		<td height="90">
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="780" height="90"><param name="movie" value="/assets/flash/HH_C_header.swf"><param name="quality" value="high">
-<embed src="/assets/flash/HH_C_header.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="780" height="90"></object>
-</td>
-	</tr>
-	<tr>
-		<td height="28" align="left">
-<table border="0" height="28" width="100%" cellpadding="0" cellspacing="0">
-<tbody><tr>
-<td width="0" align="LEFT">
-<!-- Start Nav Table -->
-<table cellpadding="0" border="0" cellspacing="0">
-<tbody><tr>
-<td width="0" align="LEFT" valign="BOTTOM">
-<!-- The MAIN div....overall container -->
-<div onmouseout="killmenus();" style="position: absolute; z-index: 20; height: 0pt; display:none;" id="0|1|SUB">
-<table border="0" cellspacing="0" cellpadding="0">
-<tbody><tr>
-<!-- Mouse out to the left, kills menu -->
-<td valign="top">
-<table cellpadding="0" cellspacing="0" border="0" class="redlineleftbottomright">
-<!-- Links to display -->
-<tbody><tr>
-<td><img src="/assets/images/flatbar_red.gif" width="100%" height="2px" border="0" onmouseover="DoSubMenu('0|1|SUB','0|1|MAINITEM');"></td>
-</tr>
-<tr>
-<td>
-<table border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Mop.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Mop.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Mop.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=1');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Flo_Scr.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Flo_Scr.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Flo_Scr.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=7');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Bro.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Bro.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Bro.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=8');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Bru.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Bru.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Bru.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=15');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Dus.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Dus.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Dus.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=22');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Dus_Pan.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Dus_Pan.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Dus_Pan.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=23');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Scr.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Scr.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Scr.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=24');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Buc.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Buc.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Buc.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=25');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Oth_Cle_Pro.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Oth_Cle_Pro.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Oth_Cle_Pro.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=26');"></td></tr><tr><td valign="middle" height="" 20"="" align="LEFT"><img src="/assets/nav/OFF_C_HH_Mic.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_Mic.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_Mic.gif'; killmenus();" onclick="pageJump('index.aspx?src=PDC&amp;ct=39');"></td></tr><tr><td valign="middle" height="20" align="LEFT"><img src="/assets/nav/OFF_C_HH_highpower.gif" onmouseover="this.style.cursor='pointer'; DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/nav/ON_C_HH_highpower.gif';" onmouseout="this.src='/assets/nav/OFF_C_HH_highpower.gif'; killmenus();" onclick="pageJump('hpower.aspx');"></td></tr></tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-<!-- Sub Menu on the right side -->
-</tr>
-<!-- End main Div -->
-</tbody></table>
-</div>
-</td><!-- The mouse over button to trigger all this -->
-<td align="left" width="1"><img id="0|1|MAINITEM" onmouseover="DoSubMenu('0|1|SUB','0|1|MAINITEM'); this.src='/assets/images/redproducts.gif';" onmouseout=" this.src='/assets/images/greenproducts.gif'; killmenus();" src="/assets/images/greenproducts.gif"></td>
-<td><a href="index.aspx?src=CTH"><img src="/assets/images/greenCleanTips.gif" border="0" onmouseover="this.src='/assets/images/redCleanTips.gif';" onmouseout="this.src='/assets/images/greenCleanTips.gif';"></a></td>
-<td><a href="index.aspx?src=LCH"><img src="/assets/images/greenLocator.gif" border="0" onmouseover="this.src='/assets/images/redLocator.gif';" onmouseout="this.src='/assets/images/greenLocator.gif';"></a></td>
-<td width="1"><img src="/assets/images/smallBarOnePx.gif" border="0"></td>
-<td width="140" align="LEFT"><a href="index.aspx?src=ABH"><img src="/assets/images/greenFamilyMade.gif" border="0" onmouseover="this.src='/assets/images/redFamilyMade.gif';" onmouseout="this.src='/assets/images/greenFamilyMade.gif';"></a></td>
-<td width="72"><a href="index.aspx?src=CNT"><img src="/assets/images/greenContactUs.gif" border="0" onmouseover="this.src='/assets/images/redContactUs.gif';" onmouseout="this.src='/assets/images/greenContactUs.gif';"></a></td>
-<td width="45"><a href="index.aspx?src=LNK"><img src="/assets/images/greenLinks.gif" border="0" onmouseover="this.src='/assets/images/redLinks.gif';" onmouseout="this.src='/assets/images/greenLinks.gif';"></a></td>
-<td width="81"><a href="index.aspx?src=FNG"><img src="/assets/images/greenFunGames.gif" border="0" onmouseover="this.src='/assets/images/redFunGames.gif';" onmouseout="this.src='/assets/images/greenFunGames.gif';"></a></td>
-<td width="79"><a href="index.aspx?src=PRH"><img src="/assets/images/greenPromotions.gif" border="0" onmouseover="this.src='/assets/images/redPromotions.gif';" onmouseout="this.src='/assets/images/greenPromotions.gif';"></a></td>
-<td>&nbsp;</td>
-</tr>
-</tbody></table>
-<!-- End Nav Table -->
-</td>
-</tr>
-<tr>
-<td height="2" colspan="15" bgcolor="CC0033">
-<table cellpadding="0" border="0" cellspacing="0" width="100%">
-<tbody><tr>
-<td height="2" colspan="12" bgcolor="CC0033" align="right"></td>
-</tr>
-</tbody></table></td>
-</tr>
-</tbody></table>
-</td>
-	</tr>
-	<tr>
-		<td colspan="10" valign="TOP">
-<!-- PAGE CONTENT TABLE -->
-<table cellspacing="0" cellpadding="0" width="780" height="100%" border="0" align="center">
-<tbody><tr>
-<td valign="top" align="left" width="170px" height="1px">
-<table border="0" cellpadding="0" cellspacing="0" width="170" height="100%" background="/assets/images/menu_bg.gif">
-	<tbody><tr>
-		<td valign="TOP" height="1px">
-		</td>
-	</tr>
-	<tr>
-		<td height="30px" valign="BOTTOM"><a href="index.aspx?src=RFL"><img src="/assets/images/big_refill_OFF.gif" onmouseover="this.src='/assets/images/big_refill_on.gif';" onmouseout="this.src='/assets/images/big_refill_OFF.gif';" border="0" alt="Refills"></a></td>
-	</tr>
-	<tr>
-		<td height="40px" align="MIDDLE" valign="BOTTOM"><a href="index.aspx?src=PQS"><img src="/assets/images/quick_finder_btn_OFF.gif" onmouseover="this.src='/assets/images/quick_finder_btn_ON.gif';" onmouseout="this.src='/assets/images/quick_finder_btn_OFF.gif';" border="0" alt="Quick Product Search"></a></td>
-	</tr>
-	<tr>
-		<td valign="BOTTOM" align="MIDDLE"><table cellpadding="0" cellspacing="0" height="30px">
-				<tbody><tr>
-					<td align="MIDDLE"><a class="bodycopyblack" href="index.aspx?src=SMP">Site Map</a></td>
-					<td width="15px"></td>
-					<td align="MIDDLE"><a class="bodycopyblack" href="index.aspx?src=PRV">Privacy Policy</a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table></td>
-<td valign="top" align="MIDDLE" width="610px" height="1px">
-
-
-<table width="600px" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td valign="top">
-		<p class="body12">
-          The Libman Company Website  Privacy  Policy<br>
-          Effective 01/01/2000</p>      
-
-<span class="body12">
-	<!-- <a href="">Privacy Policy</a><br /> -->
-	Privacy Policy Table Of Contents:<br>
-    <a href="#privacy">Our Commitment To Privacy</a><br>
-    <a href="#collect">The Information We Collect</a><br>
-    <a href="#use">How We Use Information</a><br>
-    <a href="#security">Our Commitment To Data Security</a><br>
-    <a href="#children">Our Commitment To Children's Privacy</a><br>
-    <a href="#access">How To Access Or Correct Your Information</a><br>
-    <a href="#optout">Opting Out of Promotional Information</a><br>
-    <a href="#contact">How To Contact Us</a><br>
-</span>
-
-<br>
-<p class="body12"><a name="privacy"></a>
-Our Commitment To Privacy</p>
-<p class="bodyCopyBlack">
-	Your privacy is important to us. To better protect your  privacy we
-    provide this notice explaining our online  information practices and
-    the choices you can make about the  way your information is collected
-    and used.</p>
-<span class="body12"><a name="collect"></a>
-  The Information We Collect:</span>
-<p class="bodyCopyBlack">
-    This notice applies to all information collected or  submitted on The
-    Libman Company website. On some pages, you  can make requests, submit
-    cleaning tips and comments, enter  contests and register to receive
-    information.</p>
-<p class="bodyCopyBlack"> 
-  The types of personal information collected at these  pages are name,
-    address, email address, phone number,  gender, and
-    age.</p>
+<!--The following is the downloaded HTML source of the libman.com privacy policy that was archived on 2010-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100530080803id_/http%3A//libman.com/privacy-policy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Libman® Privacy Policy
+</title><link type="text/css" rel="stylesheet" href="styles/simple.css" media="all">
+	<script language="javascript" type="text/javascript" src="scripts/prototype.js"></script>
+	<script language="javascript" type="text/javascript" src="scripts/shared.js"></script>
+	<script language="javascript" type="text/javascript" src="scripts/swfobject.js"></script>
+	<script language="javascript" type="text/javascript" src="scripts/swfaddress.js"></script>
+    <script language="javascript" type="text/javascript" src="scripts/validation.js"></script>
+	<script language="javascript" type="text/javascript" src="scripts/shadowbox/adapter/shadowbox-base.js"></script>
+	<script language="javascript" type="text/javascript" src="scripts/shadowbox/shadowbox.js"></script>
+    <script type="text/javascript">
+	var IE6 = false /*@cc_on || @_jscript_version < 5.7 @*/;
+	if (IE6) { document.write("<link type=\"text/css\" rel=\"stylesheet\" href=\"styles/simple_ie.css\" media=\"all\"/>"); }
+	window.onload = function(){
+	MM_preloadImages('/images/pic_Nav_CleaningTips_OVER.gif','/images/pic_Nav_Products_OVER.gif','/images/pic_Nav_WhereToBuy_OVER.gif','/images/pic_Nav_Promos_OVER.gif')};
+	</script>
+	<!-- Page specific -->
 	
-<p class="body12"><a name="use"></a>    
-The Way We Use Information:</p>
-	<p class="bodyCopyBlack">
-	We use the information you provide about yourself when you  request
-    information only to fulfill that request. We do not  share this
-    information with outside parties except to the  extent necessary to
-    fulfill that request.
-	</p>
-<p class="bodyCopyBlack">  
-  We use return email addresses to answer the email we receive.Such addresses
-  are not used for any other purpose and are not shared with outside parties.
-</p>
-<p class="bodyCopyBlack">    
-  You can register with our website if you would like to  submit a
-    cleaning tip.  If you register you may receive our catalog as well as
-    updates on our new products and services. Information you  submit on
-    our website will not be used for this purpose  unless you fill out the
-    registration form.
-</p><p class="bodyCopyBlack">    
-  We use non-identifying and aggregate information  for internal
-    marketing and promotional purposes.   In addition, non-identifying and
-    aggregate  information is used to better design The Libman Company
-    website and to share with our business associates.   For example, we
-    may tell a business associate that X number of individuals visited a
-    certain area on our website,  or that Y number of men and Z number of
-    women filled out our  registration form, but we would not disclose
-    anything that  could be used to identify those individuals.
-</p>
+<!-- ADD PAGE SPECIFIC CSS / SCRIPTS HERE //-->
+<link type="text/css" rel="stylesheet" href="styles/privacy.css" media="all">
+</head>
+<body>
+<form name="aspnetForm" method="post" action="privacy-policy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwULLTIwNDUwNjM3NzJkZBBbEyv4Rgy1HOw1R44tkzZ/ubvH">
 
-<p class="body12"><a name="security"></a>      
-  Our Commitment To Data Security
-  </p><p class="bodyCopyBlack">
-      To prevent unauthorized access, maintain data accuracy, and  ensure
-    the correct use of information, we have put in place  physical,
-    electronic, and managerial procedures which we deem  appropriate to
-    safeguard and secure the information we collect  online.
- </p>
-  <p class="body12"><a name="children"></a>  
-  Our Commitment To Children's  Privacy:
-  </p><p class="bodyCopyBlack">
-      Protecting the privacy of the very young is especially  important. For
-    that reason, we never collect or maintain  information at our website
-    from those we actually know are  under 13, and no part of our website
-    is structured to attract  anyone under 13.
-    </p>
-  <p class="body12"><a name="access"></a>
-  How You Can Access Or Correct  Your Information
-      </p>
-  <p class="bodyCopyBlack">
-	  You can access all your personally identifiable information  that we
-    collect online and maintain by contacting us at the  address below.  We
-      use this procedure to better safeguard your information. You  can
-    correct factual errors in your personally identifiable  information by
-    sending us a request that credibly shows error.  To protect your
-    privacy and security, we will also take  reasonable steps to verify
-    your identity before granting  access or making corrections.</p>
-  <p class="body12"><a name="optout"></a>
-  Opting Out of Promotional  Information
-      </p>
-  <p class="bodyCopyBlack">
-	  We intend to offer visitors to our website only opportunities  that
-    will interest them, and we believe they will welcome the  information
-    they receive as a result of visiting The Libman  Company website.  We
-    may send you information about our various products and  services, or
-    other products and services we feel may be of interest to you. 
-    However,  we respect the preference of some of our website�s visitors
-    to limit their Email, mail and telephone calls.   If you would prefer
-    not to receive promotional  information as a result of using The Libman
-    Company website,  we will do our best to remove your name from our
-    marketing  programs.  We will  act promptly to honor your request.
-    </p><p class="body12"><a name="contact"></a>
-  How To Contact Us
-      </p>
-    <p class="bodyCopyBlack">
-	  Should you have other questions or concerns about these  privacy
-    policies, our mailing address is Libman Company,  220 North Sheldon,
-    Arcola, IL  61910.  In  addition, we can be reached by phone at (217)
-    268-4200,  by fax at (217) 268-4168 or send us an email at
-        <a href="mailto:info@libman.com">info@libman.com</a>.</p>
-		<br>
-		<br>
-		<br>
-		<br>
-		<br>
-	</td>
-	<td width="20" class="redlineright"><img src="assets/images/spacer.gif" width="10" border="0"></td>
-		<td width="170px" valign="TOP">
-			<a href="index.aspx?SRC=HME&gt;&lt;img src=" assets="" images="" overview_button.gif"="" border="0"></a><br>
-			<a href="index.aspx?SRC=ABA&gt;&lt;img src=" assets="" images="" tvprintads_button.gif"="" border="0"></a><br>
-			<a href="index.aspx?SRC=DIS&gt;&lt;img src=" assets="" images="" display_button.gif"="" border="0"></a>
-		</td>
-	</tr>
-</tbody></table></td>
-</tr>
-</tbody></table>
-</td>
-	</tr>
-</tbody></table>
+<div class="cnt">
+	<div id="cntHeader">
+		<div id="navLeft"><a href="/product-categories.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('products','','/images/pic_Nav_Products_OVER.gif',1)"><img src="/images/pic_Nav_Products.gif" alt="Products" id="products"></a><a href="/locator.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('locator','','/images/pic_Nav_WhereToBuy_OVER.gif',1)"><img src="/images/pic_Nav_WhereToBuy.gif" alt="Where to Buy" id="locator"></a></div>
+		<div id="navRight"><a href="/cleaning-tips.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('cleaningTips','','/images/pic_Nav_CleaningTips_OVER.gif',1)"><img src="/images/pic_Nav_CleaningTips.gif" alt="Cleaning Tips" id="cleaningTips"></a><a href="/promo.aspx" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('promo','','/images/pic_Nav_Promos_OVER.gif',1)"><img src="/images/pic_Nav_Promos.gif" alt="Promos" id="promo"></a></div>
+	</div>
+	<div id="logo" onclick="window.location='/'" style="cursor:pointer"></div>
+     
+<!-- START | CONTENT //-->
+<div class="cntContent">
+<div id="title">
+  <h1 class="pageTitle"><span>THE LIBMAN COMPANY WEBSITE PRIVACY POLICY</span></h1>
+</div>
+<div class="subText">
+<p>Effective 01/01/2000</p><br>
+<h2>OUR COMMITMENT TO PRIVACY</h2><p>Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used.</p><br>
+<h2>THE INFORMATION WE COLLECT</h2><p>This notice applies to all information collected or submitted on The Libman Company website. On some pages, you can make requests, submit cleaning tips and comments, enter contests and register to receive information.</p><br><p>The types of personal information collected at these pages are name, address, email address, phone number, gender, and age.</p><br>
+<h2>THE WAY WE USE INFORMATION</h2><p>We use the information you provide about yourself when you request information only to fulfill that request. We do not share this information with outside parties except to the extent necessary to fulfill that request.</p><p>We use return email addresses to answer the email we receive.Such addresses are not used for any other purpose and are not shared with outside parties.</p><br><p>You can register with our website if you would like to submit a cleaning tip. If you register you may receive our catalog as well as updates on our new products and services. Information you submit on our website will not be used for this purpose unless you fill out the registration form.</p><br><p>We use non-identifying and aggregate information for internal marketing and promotional purposes. In addition, non-identifying and aggregate information is used to better design The Libman Company website and to share with our business associates. For example, we may tell a business associate that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.</p><br>
+<h2>OUR COMMITMENT TO DATA SECURITY</h2><p>To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place physical, electronic, and managerial procedures which we deem appropriate to safeguard and secure the information we collect online.</p><br>
+<h2>OUR COMMITMENT TO CHILDREN’S PRIVACY</h2><p>Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.</p><br>
+<h2>HOW YOU CAN ACCESS OR CORRECT YOUR INFORMATION</h2><p>You can access all your personally identifiable information that we collect online and maintain by contacting us at the address below. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.</p><br>
+<h2>OPTING OUT OF PROMOTIONAL INFORMATION</h2><p>We intend to offer visitors to our website only opportunities that will interest them, and we believe they will welcome the information they receive as a result of visiting The Libman Company website. We may send you information about our various products and services, or other products and services we feel may be of interest to you. However, we respect the preference of some of our website’s visitors to limit their Email, mail and telephone calls. If you would prefer not to receive promotional information as a result of using The Libman Company website, we will do our best to remove your name from our marketing programs. We will act promptly to honor your request.</p><br>
+<h2>HOW TO CONTACT US</h2><p>Should you have other questions or concerns about these privacy policies, our mailing address is Libman Company, 220 North Sheldon, Arcola, IL 61910. In addition, we can be reached by phone at (217) 268-4200, by fax at (217) 268-4168 or send us an email at <a href="mailto:info@libman.com">info@libman.com.</a></p>
+<br>
+</div>
+</div>
+</div> 	
+<!-- END | CONTENT //-->
+
+	<div id="cntFooter">
+		<h3><a href="/contact-us.aspx">CONTACT US</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/media.aspx">MEDIA</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/privacy-policy.aspx">PRIVACY POLICY</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;All Rights Reserved, Libman® 2010</h3>
+         <p>Trouble viewing? Flash Player 9 or higher required, <a href="http://get.adobe.com/flashplayer/">click here to download.</a></p>
+	</div>
+
+
 
 </form>
+<script type="text/javascript"> 
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www."); 
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E")); 
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script> 
+<script type="text/javascript"> 
+try { 
+var pageTracker = _gat._getTracker("UA-89365-43"); 
+pageTracker._trackPageview(); 
+} catch(err) {}</script> 
+
+<!-- Start Quantcast tag --> 
+<script type="text/javascript"> 
+_qoptions={ 
+qacct:"p-6f3l06fsRk6Vs" 
+}; 
+</script> 
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script> 
+<noscript> 
+<img src="http://pixel.quantserve.com/pixel/p-6f3l06fsRk6Vs.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/> 
+</noscript> 
+<!-- End Quantcast tag -->
 
 
 </body></html>
