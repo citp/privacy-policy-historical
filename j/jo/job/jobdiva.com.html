@@ -1,0 +1,146 @@
+<!--The following is the downloaded HTML source of the jobdiva.com privacy policy that was archived on 2010-05-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100530030327id_/http%3A//www.jobdiva.com/privacy) for the most accurate reproduction.-->
+
+<html class="js"><head>
+<title>JobDiva | Privacy Policy</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/all/themes/jobdiva/favicon.ico" type="image/x-icon">
+<style type="text/css" media="all">@import "/modules/book/book.css";</style>
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/fieldgroup.css";</style>
+<style type="text/css" media="all">@import "/modules/comment/comment.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/jobdiva/style.css";</style>
+<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/themes/jobdiva/js/jobdiva.js"></script>
+<script type="text/javascript" src="/scripts/ajax/yahoo-min.js"></script>
+<script type="text/javascript" src="/scripts/ajax/event-min.js"></script>
+<script type="text/javascript" src="/scripts/ajax/connection-min.js"></script>
+</head>
+<body>
+<table border="0" cellpadding="0" cellspacing="0" width="100%" height="100%">
+<tbody><tr>
+<td align="left" valign="top">
+<div id="nav1Container"><div id="nav1"><a href="/home/" title="" onmouseover="menuOver('home');" onmouseout="menuOut('home');"><img src="/sites/all/themes/jobdiva/images/nav1/home_off.jpg" border="0" width="65" height="19" alt="Home" title="" id="homeImage"></a><a href="/testimonials/" title="" onmouseover="menuOver('testimonials');" onmouseout="menuOut('testimonials');"><img src="/sites/all/themes/jobdiva/images/nav1/testimonials_off.jpg" border="0" width="117" height="19" alt="Testimonials" title="" id="testimonialsImage"></a><a href="/product/solution/" title="" onmouseover="menuOver('product');" onmouseout="menuOut('product');"><img src="/sites/all/themes/jobdiva/images/nav1/product_off.jpg" border="0" width="82" height="19" alt="Product" title="" id="productImage"></a><a href="/node/8/" title="" onmouseover="menuOver('demos');" onmouseout="menuOut('demos');"><img src="/sites/all/themes/jobdiva/images/nav1/demos_off.jpg" border="0" width="125" height="19" alt="Demos" title="" id="demosImage"></a><a href="/company/overview/" title="" onmouseover="menuOver('company');" onmouseout="menuOut('company');"><img src="/sites/all/themes/jobdiva/images/nav1/company_off.jpg" border="0" width="90" height="19" alt="Company" title="" id="companyImage"></a><a href="/credo/" title="" onmouseover="menuOver('credo');" onmouseout="menuOut('credo');"><img src="/sites/all/themes/jobdiva/images/nav1/credo_off.jpg" border="0" width="70" height="19" alt="Credo" title="" id="credoImage"></a><a href="/press/" title="" onmouseover="menuOver('press');" onmouseout="menuOut('press');"><img src="/sites/all/themes/jobdiva/images/nav1/press_off.jpg" border="0" width="66" height="19" alt="Press" title="" id="pressImage"></a><a href="/contact/" title="" onmouseover="menuOver('contact');" onmouseout="menuOut('contact');"><img src="/sites/all/themes/jobdiva/images/nav1/contact_off.jpg" border="0" width="105" height="19" alt="Contact Us" title="" id="contactImage"></a></div></div>
+
+<div id="bg-color">
+<div id="header"><table border="0" cellpadding="0" cellspacing="0" width="100%" height="127">
+<tbody><tr>
+<td align="left" valign="top" width="715"><div id="logoContainer"><div id="logo"><a href="/" title=""><img src="/sites/all/themes/jobdiva/images/site/blank.gif" border="0" width="285" height="120" alt="" title=""></a></div></div></td>
+
+
+<td align="right" valign="top"><div id="loginFormDiv">
+<form name="loginForm" method="post" action="https://info.jobdiva.com/auth.jsp" onsubmit="javascript:return false;">
+<div style="text-align:right; padding-top: 36px; padding-right: 8px;">
+<div><input type="text" class="loginInput" name="login" id="login" maxlength="50" value=""></div>
+<div style="margin: 2px 0px 2px;"><input type="password" class="loginInput" name="pass" id="pass" maxlength="50"></div>
+</div>
+<div>
+<table border="0" cellpadding="0" cellspacing="0" align="right">		
+<tbody><tr>
+<td align="left">
+<div class="loginText">
+<div><a href="/forgot_password">Forgot Password?</a></div>
+<div><input type="checkbox" name="checked2">Remember Me</div>
+</div>
+</td>
+<td align="left" valign="middle">
+<div style="margin: 0px 6px 0px 10px;"><input type="image" src="/sites/all/themes/jobdiva/images/site/button_login.gif" border="0" id="image1" name="image1" onclick="getEnvValue();"></div>
+</td>
+</tr>						
+</tbody></table>
+</div>
+</form>
+<script>
+	function getEnvValue() {
+		var AjaxGetEmailContent = YAHOO.util.Connect.asyncRequest('GET', '/getserver.php?login='+document.loginForm.login.value, {
+			success:function(o) {
+				var serverlocation = o.responseText;
+				serverlocation = serverlocation.replace(/^\s*/, '').replace(/\s*$/, '');
+				if(serverlocation.length<20) {
+					document.loginForm.action="https://"+serverlocation+"/auth.jsp";
+					document.loginForm.submit();
+				}else 
+					document.location="http://www.jobdiva.com/node/11/nologin/"+document.loginForm.login.value;
+			},
+			failure: function(oResponse) {
+				if(debug) YAHOO.log("Failed to process XHR transaction.");
+				alert("Failed to Login. Please refresh this page and try again");
+			}}
+		);	
+	}
+	function getCookie(name) {
+	  var dc = document.cookie;
+	  var prefix = name + "=";
+	  var begin = dc.indexOf("; " + prefix);
+	  if (begin == -1) {
+	    begin = dc.indexOf(prefix);
+	    if (begin != 0) return null;
+	  } else
+	    begin += 2;
+	  var end = document.cookie.indexOf(";", begin);
+	  if (end == -1)
+	    end = dc.length;
+	  return unescape(dc.substring(begin + prefix.length, end));
+	}
+	if(getCookie("username")!=null){
+		document.loginForm.login.value=getCookie("username");
+		document.loginForm.checked2.checked=true;
+		document.loginForm.pass.focus();
+	} else document.loginForm.login.focus();
+</script>
+</div></td>
+</tr>
+</tbody></table></div></div>
+<div id="mainContentContainer"><div id="primaryPage">
+<h1 class="image"><img src="/sites/all/themes/jobdiva/images/titles/privacy_policy.gif" border="0" width="800" height="38" alt="" title="Privacy Policy"></h1><div class="content"><p>JOBDIVA.COM WEB SITE PRIVACY POLICY</p>
+<p>This JobDiva, Inc. ("JobDiva") Privacy Policy (the "Policy") was developed as an extension of our commitment to combine the highest-quality services with the highest level of integrity in dealing with our valued customers, and the companies, businesses and organizations they represent (collectively, "you").</p>
+<p>If you have any questions about this Policy, wish to amend, delete or add to any of your information contained as the Site, or otherwise wish to contact JobDiva directly, please email us at <a href="mailto:privacy@JobDiva.com">privacy@JobDiva.com</a>, call us at 1-866-JOBDIVA or write to us at JobDiva, Inc., 116 John Street, Suite 1406, New York, NY 10038.</p>
+<p>IF YOU DO NOT AGREE TO THIS POLICY, IF YOU DO NOT RESIDE IN THE UNITED STATES, IF YOU ARE UNDER 18 YEARS OF AGE, OR IF YOU ARE NOT PERMITTED BY LAW TO ENTER INTO LEGAL OBLIGATIONS, YOU SHOULD NOT USE THE JOBDIVA.COM INTERNET WEBSITE (THE "SITE"). WE MAY MODIFY THE POLICY FROM TIME TO TIME AND POST THOSE MODIFICATIONS HERE. YOUR CONTINUED USE OF THE SITE AFTER ANY SUCH MODIFICATION CONSTITUTES YOUR ACCEPTANCE OF THE MODIFIED POLICY.</p>
+<p>1. Information. JobDiva obtains information from and about you in a number of different ways, including:</p>
+<p>A. General Information. Some information is gathered automatically when you access the Site ("General Information"). This General Information (which includes Site pages visited, type of web browser used, type of operating system, and the domain name of your Internet Service Provider, IP address and similar information) does not identify you personally.</p>
+<p>B. Cookies. Cookies are small pieces of data that are stored by a user's web browser on the hard drive of a user's computer. Cookies can "remember" what information a user accesses on one web page to simplify subsequent interactions with that website by the same user, or can use that information to streamline the user's transactions on related websites. The Cookies that JobDiva uses do not capture your individual email address or any personally identifying information, but do permit JobDiva to send information about new services, promotions or other such responses to you or assist your use of the Site. Third party websites which are accessible from the Site via links or "click-throughs" may also use Cookies, and JobDiva has no control of and no responsibility whatsoever for, such Cookies.</p>
+<p>2. Use and Disclosure of Information. JobDiva uses and discloses your information as follows:</p>
+<p>A. General Information. JobDiva uses and discloses General Information for the purpose of operating and improving the JobDiva website, fostering a positive user experience and delivering the products and services that we offer, and shall do so without notice to, or permission from, you or any third party;</p>
+<p>JobDiva does not disclose to third parties your Information, except as set forth in the following four subparagraphs.</p>
+<p>(i) We may disclose information to third parties if you consent to such disclosure. For example, if you indicate that you would like to receive information about the products or services of third parties, we may supply your contact information to third parties such as employers, recruiters, data aggregators, marketers or others for the purpose of sending you e-mail or otherwise communicating with you. We may use data we have about you (such as the experience you have or the interests and preferences you have expressed) to determine whether you might be interested in the products or services of a particular third-party.</p>
+<p>(ii) We may disclose information to companies and individuals we employ to perform functions on our behalf. Examples may include hosting our Web servers, analyzing data, providing marketing assistance, processing credit card payments, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions, but they may not share that information with any other third party.</p>
+<p>(iii) We may disclose information if legally required to do so, if requested to do so by a governmental entity or if we believe in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of JobDiva or its affiliated companies; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.</p>
+<p>(iv) We use Profile Information for purposes of administering JobDiva business activities, providing customer service and making available other products and services to you and other JobDiva customers and prospective customers. JobDiva may also use Profile Information to notify you about important changes to the Site or our business, new JobDiva services and special offers you may find valuable.</p>
+<p>B. Cookie Information. JobDiva uses and discloses Cookie Information to improve our Site and better serve you and our other customers, and may do so without notice to, or permission from, you or any third party.</p>
+<p>3. Security and Access. You understand and agree that "perfect" security does not exist anywhere, including the Internet. Personal information you send to us at the Site or any information we send to you, including any email messages, will not be encrypted unless we advise you otherwise.</p>
+<p>4. Merchant Services. You may be able to access certain information related to third parties at the Site, or via links or "click-throughs", regarding the goods or services of third parties (collectively, "Merchant Services"). You understand and agree that your access to or use of Merchant Services is a matter entirely between you and the associated third parties, and JobDiva shall have no liability whatsoever for any such access or use.</p>
+<p>5. Location of Data. Your data will be stored and processed in whole or in part in the United States. If you access a JobDiva Web site outside the United States, your usage of that site constitutes consent to the transfer of your data out of your country and to the United States.</p>
+<p>6. Links to Other Sites. The Site may contain links to other Web sites over which we have no control. JobDiva is not responsible for the privacy policies or practices of other Web sites to which you choose to link from a JobDiva Web site. We encourage you to review the privacy policies of those other Web sites so you can understand how they collect, use and share your information. This Privacy Statement applies solely to the information we collect on a JobDiva Web site, and does not apply to information we collect in any other fashion.</p>
+<p>7. Children. JobDiva is not intended for children under 13 years of age.</p>
+<p>8. Contact. If you have any questions about this privacy policy, or the practices of this website, please contact us at <a href="mailto:privacy@jobdiva.com">privacy@jobdiva.com</a> or 1-866-JOBDIVA.</p>
+<p>Thank you for using JobDiva.com.</p>
+</div>
+</div>
+<div id="comments"></div></div></td>
+</tr>
+<tr>
+<td align="left" valign="middle" height="52">
+<div id="jdFooter"><table border="0" cellpadding="0" cellspacing="0">
+<tbody><tr>
+<td align="left" valign="middle"><img src="/sites/all/themes/jobdiva/images/site/phone.gif" border="0" width="88" height="12" alt="1-866-JOB-DIVA" title=""></td>
+<td align="right" valign="middle"><a><font color="#006B9E">Patented Technology</font></a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/terms/">Terms of Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/privacy/">Privacy Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/EUSafeHarbor.htm">EU Safe Harbor Policy</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="/product/solution">JobDiva is a SAAS Model - Recruiting Software as a Service</a></td>
+</tr>
+</tbody></table></div>
+</td>
+</tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10233890-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body></html>
