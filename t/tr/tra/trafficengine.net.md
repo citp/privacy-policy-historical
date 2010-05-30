@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2009-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090214233845id_/http%3A//www.trafficengine.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficengine.net privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530100540id_/http%3A//www.trafficengine.net/privacy.php) for the most accurate reproduction.*
 
-# TrafficEngine - High-performance Search Marketing Technology
+# Provacy Policy | Traffic Engine - Powering SMarT Advertising - Search Engine Marketing Technology
 
 ### Privacy information
 
 Traffic Engine, Inc.(TE) is committed to protecting your privacy. This Privacy Policy explains the type of information TE collects through its website and what TE does with it. Please read the following privacy policy carefully before using the TE website. If you use the TE website, you will be bound by the terms of this Privacy Policy. This policy may change from time to time so you should check it frequently. TE does not attempt to determine the identity of any TE user by analyzing Web usage paths. 
 
-If you are visiting TRAFFICENGINE.NET and you search the internet from the website, we collect the following information: your Internet Protocol ("IP") address, which may include a domain name; the name of and information about any advertisement that brought you to the TE website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can know your browser's language, the version of our site you viewed and the country you are from.
+If you are visiting TRAFFIC ENGINE.COM and you search the internet from the website, we collect the following information: your Internet Protocol ("IP") address, which may include a domain name; the name of and information about any advertisement that brought you to the TE website; searches you perform, links you click on; and computer and connection information such as browser type and version, operating system, and platform. We also transmit cookies to your computer so we can know your browser's language, the version of our site you viewed and the country you are from.
 
 TE analyzes its logs of usage path collected from users to determine Web usage and shopping patterns of users in the aggregate.
 
