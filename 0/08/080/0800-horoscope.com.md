@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212153407id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 0800-horoscope.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531011142id_/http%3A//www.0800-horoscope.com/privacy.php) for the most accurate reproduction.*
 
 # 0800-horoscope.com - Privacy Policy
 
@@ -49,7 +49,7 @@ This site gives users the following options for removing their information from 
   2. You can visit the following URL:  
 <http://www.0800-horoscope.com/emailscopes.html>
   3. You can send mail to the following postal address:  
-Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
+Euregio.Net AG, Wirtzfeld Zur Holzwarche 29, 4760 Büllingen, Belgium 
 
 
 
@@ -58,7 +58,7 @@ Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium
 This site gives users the following options for changing and modifying information previously provided.
 
   1. email [webmaster@0800-horoscope.com](mailto:webmaster@0800-horoscope.com)
-  2. send mail to the following postal address:  Euregio.Net AG, Wirtzfeld 140, 4760 Büllingen, Belgium 
+  2. send mail to the following postal address:  Euregio.Net AG, Wirtzfeld Zur Holzwarche 29, 4760 Büllingen, Belgium 
 
 
 
@@ -68,7 +68,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Joe Savelberg  
 Euregio.Net AG  
-Wirtzfeld 140  
+Wirtzfeld Zur Holzwarche 29  
 4760 Büllingen  
 Belgium  
 webmaster@0800-horoscope.com 
