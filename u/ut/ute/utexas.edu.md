@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214182650id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the utexas.edu privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530100901id_/http%3A//www.utexas.edu/policies/privacy) for the most accurate reproduction.*
 
 # The University of Texas at Austin Web Privacy Policy
 
@@ -14,7 +14,7 @@ Last Reviewed: September 9, 2007
 
 Last Edited: November 3, 2008
 
-See the [change log](https://web.archive.org/web/20091214182650id_/http://www.utexas.edu/policies/privacy/privacychglog.html) for a list of significant changes made to this document.
+See the [change log](https://web.archive.org/web/20100530100901id_/http://www.utexas.edu//policies/privacy/privacychglog.html) for a list of significant changes made to this document.
 
 ## Purpose
 
@@ -121,4 +121,4 @@ If you have questions about this privacy statement or you believe that your pers
 
 ## Authoritative Source
 
-The authoritative source on this policy and responsibility for its implementation rests with the [Vice President for Information Technology](http://www.utexas.edu/vp/it/). 
+The authoritative source on this policy and responsibility for its implementation rests with the [Chief Information Officer](http://www.utexas.edu/cio/). 
