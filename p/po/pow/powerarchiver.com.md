@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426232836id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerarchiver.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530101711id_/http%3A//www.powerarchiver.com/privacy) for the most accurate reproduction.*
 
-# PowerArchiver 2009 - Privacy Policy
+# PowerArchiver 2010 - Privacy Policy
 
 We at ConeXware, Inc. are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us.
 
