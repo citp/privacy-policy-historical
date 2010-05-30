@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thevarmatrimony.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127201329id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thevarmatrimony.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530202346id_/http%3A//www.thevarmatrimony.com/site/index.php%3Fact%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Thevar Matrimony, Matrimony, Indian Matrimony
 
