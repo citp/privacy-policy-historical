@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2009-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090508144730id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogads.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530221413id_/http%3A//web.blogads.com/Documents/privacy_policy) for the most accurate reproduction.*
 
 # Blog advertising makes opinions - Privacy Policy
-
-| 
 
 Privacy Policy
 
@@ -60,9 +58,9 @@ H. FURTHER INFORMATION
 If you have any questions about anything in this Privacy Policy, or about collection of personally identifiable information, or information generally, please contact Pressflex LLC via the [online form](http://web.blogads.com/ba_contact_us) or as follows:
 
 Pressflex LLC  
-Attn: Miklos Gaspar  
-Phone: (646) 827 9320  
-Fax: (646) 607 2644
+Attn: Tina Merrill  
+Phone: (919) 636 4551  
+Fax: (469) 398 0473
 
 You may also use the above contact information if you think any information about you is inaccurate, incomplete, or if you want to change the sort of information about you that Blogads.com may have collected.
 
