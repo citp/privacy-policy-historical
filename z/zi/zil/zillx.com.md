@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zillx.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420111824id_/http%3A//www.zillx.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillx.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531004026id_/http%3A//www.zillx.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
