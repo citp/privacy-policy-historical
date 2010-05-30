@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pocketcents.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504130726id_/http%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocketcents.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530045502id_/http%3A//pocketcents.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# PocketCents
+# PocketCents PPC Local Online Advertising
 
 **PocketCents Privacy Policy**
 
