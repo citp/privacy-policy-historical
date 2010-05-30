@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrix.in privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127004723id_/http%3A//www.matrix.in/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrix.in privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530222554id_/http%3A//www.matrix.in/privacy/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Matrix - The smarter way to stay connected
 
