@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hksi.org privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620072611id_/http%3A//www.hksi.org/eng/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hksi.org privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530090735id_/http%3A//www.hksi.org/eng/privacy.html) for the most accurate reproduction.*
 
 # Welcome to Hong Kong Securities Institute
 
