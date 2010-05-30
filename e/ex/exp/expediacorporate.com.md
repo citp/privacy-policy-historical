@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the expediacorporate.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231002939id_/http%3A//expediacorporate.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expediacorporate.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530082030id_/http%3A//www.expediacorporate.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Egencia, An Expedia, Inc. Company
 
