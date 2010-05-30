@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126015115id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alpari-forex.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530223306id_/http%3A//www.alpari-forex.com/en/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy. Forex with Alpari
+# Privacy & Refund Policy. Forex with Alpari
 
 ### Obligations of the Company
 
@@ -47,11 +47,17 @@ The Company has the right to convey your personal information to our associated 
 
 By registering an account at our Company, you consent to Alpari NZ Limited collecting, maintaining, using and disclosing your Personal Data in accordance with this privacy policy.
 
-### Security&Protection  
+### Security & Protection  
 
 
 Alpari NZ Limited takes security issues very seriously. We endeavour to take all reasonable steps, including maintaining strict security standards and procedures, using leading security technologies to protect your Personal Data.
 
+To make a deposit with a credit or debit card, you need to fill out a form through a processing center's website. In order to eliminate this extra step, these third parties have given Alpari a short version of this form through a secure connection.
+
+### Credit and Debit Card Refund Policy
+
+In exceptional cases, Alpari may initiate credit and debit card refunds. If this is the case, funds will be refunded to the card that was used for the deposit.
+
 ### Contacts
 
-Should you have any questions about this Policy do not hesitate to contact us: [info@alpari.ru](mailto:info@alpari.ru).
+Should you have any questions about this Policy do not hesitate to contact us: [info@alpari-forex.com ](mailto:info@alpari-forex.com).
