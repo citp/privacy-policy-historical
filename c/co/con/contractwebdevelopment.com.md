@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2009-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090607005949id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contractwebdevelopment.com privacy policy that was archived on 2010-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100530113053id_/http%3A//www.contractwebdevelopment.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CWDNow.com
 
@@ -7,19 +7,19 @@
 
 ## Privacy Policy
 
-20 May 2006
+**Updated:  6 May 2010**
 
 Maintaining your privacy and trust is important to **Contract Web Development Inc.**. On this Web site, Contract Web Development Inc. and its affiliates collect information from users in connection with certain features and services. This privacy policy is designed to tell you how personal information is collected and used on this Site so that you can make an informed decision about using our Site, or permitting your children to use our Site.
 
 Please read this policy before using our Site or submitting any personal information to us. By using our Site, you consent to the information collection and use practices described in this policy. Contract Web Development Inc. reserves the right to change this privacy policy at any time. If we decide to change our privacy policy, we will post those changes in an updated privacy policy so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. The date of the last revision is always posted at the top of the privacy policy. Your use of this Site following the posting of such changes or revised policy shall constitute acceptance of any such changes. We encourage you to review our privacy policy whenever you visit our site to make sure that you understand how any personal information you provide will be used.
 
-Contract Web Development Inc. is the sole owner of the information collected on this site. To contact Contract Web Development Inc., please visit the [Contact Information](https://web.archive.org/contact-information) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
+Contract Web Development Inc. is the sole owner of the information collected on this site. To contact Contract Web Development Inc., please visit the [contact](https://web.archive.org/contact-information) page. **We value your privacy. We will not sell, share, or rent this information to others in ways other than as disclosed in this policy.**
 
 ## What information is collected on this Site?
 
 In order to provide our users with certain products or services on our Site, Contract Web Development Inc. and its affiliates may collect different types of information. In particular, we occasionally may need to collect certain types of personal information in order to provide our users with particular features, services or offers. "Personal Information" as used herein means information that identifies a person or allows a person to be located. Examples of Personal Information include a first and last name, a home address, or an email address. The following is a summary of the kinds of information we collect at the Site from our users, and how we collect that information:
 
-Passive Collection
+### Passive Collection
 
 Our software automatically collects certain information from a user's computer when that user logs on or moves about our Site. We do not link this information to any other Personal Information the user tells us; we only use it to get a broad picture of who is on our Site and which areas our users are visiting. This information tells us what's important to our users and what isn't, allows us to make our Site more interesting and useful, and enhances security and efficiency on our Site. The two main ways in which we collect this general information are through:
 
@@ -35,7 +35,7 @@ Our software automatically collects certain information from a user's computer w
 
 
 
-Active Collection
+### Active Collection
 
 At several places on our Site, we collect certain information that users voluntarily provide to us which may contain Personal Information. Here is a brief summary of some of the areas on our Site where users may be asked to provide Personal Information:
 
@@ -58,16 +58,30 @@ Contract Web Development Inc. is the sole owner of the information collected on 
 
 **Contract Web Development Inc. highly values your privacy. At no time will your email be sold or marketed to third parties**.
 
-## Who can we contact if we have further questions about the privacy policy of this Site?
+## Uploading Photos, Videos, Information or Other Content
 
-If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Contract Web Development Inc. via mail or feedback form, both of which can be found on the [Contact Information](https://web.archive.org/contact-information) page.
+You are solely responsible for the information and other content you post on or through our Site (for example, by using the comment form on our article pages). You understand that personal and other information (e.g., user name, e-mail address, phone number) that you post on or through public areas of our Site are generally accessible to, and may be collected and used by, others and may result in unsolicited messages or other contact from others. Users of our Site are encouraged to exercise caution when providing personal information about themselves. If you elect to use any of our referral services to inform a third party about our Site, or if you otherwise provide a third party’s personal information to us, you warrant that you have permission to do so and you agree to indemnify, defend and hold harmless Contract Web Development, Inc. from and against any claim, liability, cost and expense arising in connection with your provision of that information.
 
-Get a Quote Now
+## Online Comment, Forum and Contact Policy
 
-**Need a Website Now?**
+Contract Web Development, Inc. welcomes reader feedback to its online content, but it is not responsible for the information contained in reader comments. We reserve the right to reject or delete comments in full or in part at any time.
 
-Do you need a website ASAP? Contract Web Development is known for its fast turnarounds. To get started as quickly as possible, proceed to our [Quote For Services](https://web.archive.org/quote-for-services) form. We will respond within two business days. For more details on our work, read our [services](https://web.archive.org/services) page.
+Comments should not be abusive, libelous or in bad taste. They should not contain vulgar language. We prefer comments that express an opinion rather than ones that deal in personalities.
 
-Website Templates
+We reserve the right to reproduce information sent to us via our [contact form](https://web.archive.org/contact-information), in full or in part, on our Site, regardless of the medium used.
 
-We invite you to browse our [library of website templates](https://web.archive.org/website-templates) \- you may search by keyword and category to find what you're looking for.  If you find one you like, simply [contact us](https://web.archive.org/template-request) with the template item # (available under "template info" on the right hand side of the template's detail page) and we'll respond within two business days with an estimate.
+As a rule, we will not intentionally disclose any personal identification information about you as an individual user (such as, for example, your full name, street address, telephone number, or e-mail address) to any third party without having received your permission. Please note that if you give out personal information online "for example, through an article comment or forum topic " that information can be collected and used by third parties. Although we strive to protect our users' privacy, we cannot guarantee the security of information you post in these forums. You disclose such information at your own risk.
+
+We have the following exceptions to this disclosure policy: We will release specific information about you or your account to comply with any valid legal process such as a search warrant, subpoena, statute or court order. We will also release specific information in special cases, such as if there is an attempted breach of the security of Contract Web Development, Inc., or a physical threat to you or others.
+
+## United States Only
+
+This Site is intended for use by residents of the United States of America only. All matters relating to this Site are governed by the laws of the State of North Carolina in the United States of America. If you are located outside of the United States of America and you contact us, please be advised that any information you provide to us will be transferred to the United States of America and that by submitting information, you explicitly authorize such transfer.
+
+## Links to Other Sites
+
+Our Site contains links to other sites. We are not endorsing any such linked websites and we are not responsible for the privacy practices or the content of such linked websites. We may present links to other websites in a format that enables us to track whether, and in what volume, these links have been followed by consumers. We use this information to improve our products and to direct our advertising.
+
+## Who can we contact if we have further questions about this privacy policy?
+
+If you have any questions about this policy or about how Personal Information collected on our Web site is used, you can contact Contract Web Development Inc. via mail or feedback form, both of which can be found on the [contact](https://web.archive.org/contact-information) page.
