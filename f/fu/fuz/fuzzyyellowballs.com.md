@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225042712id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzzyyellowballs.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531035607id_/http%3A//www.fuzzyyellowballs.com/fyb-privacy-policy) for the most accurate reproduction.*
 
 # FuzzyYellowBalls.com Privacy Policy — FuzzyYellowBalls.com
 
