@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalcreations.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225085554id_/http%3A//www.personalcreations.com/security_and_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalcreations.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531034941id_/http%3A//www.personalcreations.com/security_and_privacy.html) for the most accurate reproduction.*
 
 # Personalized Gifts from Personal Creations
 
@@ -33,4 +33,4 @@ Please supply us with your correct telephone numbers and email address so we can
 **Fair Credit Billing Act:**  
 We guarantee that every online transaction you make will be 100% safe. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
 
-If you would like more information about privacy or security, please [Contact Us](https://web.archive.org/web/20091225085554id_/http%3A//www.personalcreations.com/contact_us.asp) with your question.
+If you would like more information about privacy or security, please [Contact Us](https://web.archive.org/web/20100531034941id_/http%3A//www.personalcreations.com/contact_us.asp) with your question.
