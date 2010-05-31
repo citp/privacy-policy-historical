@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postcrescent.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531053642id_/http%3A//www.postcrescent.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postcrescent.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531154730id_/http%3A//www.postcrescent.com/section/PRIVACY) for the most accurate reproduction.*
 
-# Postcrescent.com | Appleton PRIVACY | Appleton Post-Crescent
+# postcrescent.com | Appleton PRIVACY | Appleton Post Crescent
 
 Last Updated: March 4, 2009
 
