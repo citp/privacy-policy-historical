@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105110348id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScoobyNet.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoobynet.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531074205id_/http%3A//www.internetbrands.com/ib/privacy/enthusiasts%3Fsite%3DScoobyNet.com) for the most accurate reproduction.*
 
 # Site Privacy Policy
 
-ScoobyNet.com ("Site")
+scoobynet.com ("Site")
 
 Privacy Statement
 
@@ -54,6 +54,6 @@ Please be aware that we may change our Privacy Policy from time to time. If we d
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact: [information@internetbrands.com](mailto:information@internetbrands.com).
 
-ScoobyNet.com
+scoobynet.com
 
 March 24, 2009
