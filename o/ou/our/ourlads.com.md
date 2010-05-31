@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926170502id_/http%3A//www.ourlads.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourlads.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531143335id_/http%3A//www.ourlads.com/privacy) for the most accurate reproduction.*
 
-# 2010 NFL Draft - 2010 NFL Mock Draft from Ourlads Scouting Services
-
-Online Privacy Policy
+# Ourlads' Privacy Policy
 
 OURLADS' Scouting ServicesTM (also referred to in this document as OurladsTM) is in the business of information collection and analysis, and we know how important privacy is to you. Because of our interest in protecting your privacy, our company and its affiliates have adopted the following privacy principles to underscore our commitment to valued subscribers of our services. 
 
