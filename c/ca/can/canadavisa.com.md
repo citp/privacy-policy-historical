@@ -1,17 +1,19 @@
-> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930183124id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadavisa.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531084307id_/http%3A//www.canadavisa.com/canada-immigration-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Canadavisa.com** is part of the **Campbell Cohen Immigration Network** ( _henceforth referred to as the CCIN or “our” or “we”_ ) which is a division of **The Campbell Cohen Law Firm**. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada. 
+**Canadavisa.com** is part of the **Campbell Cohen Immigration Network** ( _henceforth referred to as the CCIN or “our” or “we”_ ) which is a division of **The Campbell Cohen Law Firm**. This privacy policy applies to the operations of all network properties and services within the CCIN family of websites, unless specifically indicated otherwise. The CCIN is a collection of Canadian Immigration related web properties which offer various customized and value-added services that facilitate the process of immigration to Canada.
 
-Our postal address is:  215 Redfern, Suite 118,  
+Our postal address is: 
+
+215 Redfern, Suite 118,  
 Montreal, Quebec, Canada  
 H3Z 3L5  
 1.514.937.9445  
 1.888.947.9445 (Toll free in North America)  
+ 
 
-
-This Privacy Policy fully discloses and describes the personal user information we gather, and what we do with it. 
+This Privacy Policy fully discloses and describes the personal user information we gather, and what we do with it.
 
     
 
@@ -28,7 +30,7 @@ This Privacy Policy fully discloses and describes the personal user information 
   * With respect to cookies: We set a cookie only when accessing the "[Eligibility Questionnaire](https://www.canadavisa.com/assess/canada-immigration-assessment-form.htm)" in order to facilitate the form submission process. The cookie is set to expire within 24 minutes or upon closing your web browser.
   * _The Canada Immigration Newsletter_ is a web-based publication edited by Canadian Immigration Attorney David Cohen. The newsletter is distributed electronically and delivered directly to your inbox every month. It may also be accessed directly on CICNews.com, which is part of the CCIN. When you opt to receive the Canada Immigration Newsletter you are consenting to the delivery of a monthly email message concerning topics related to Canadian immigration. Your email address, as well as any personal information you provide to us, will not be disclosed to any third-party web site and will be used solely for the purposes for which it was requested. If you wish to opt-out of any future delivery of the Canada Immigration Newsletter simply click on the "unsubscribe" link located at the bottom of every newsletter we send you. Alternatively, you can visit our [unsubscribe page](http://www.cicnews.com/unsubscribe.html) to remove your name from our newsletter delivery database.
   * This site may provide hyperlinks to other locations or websites on the Internet outside the CCIN group. These hyperlinks lead to websites published or operated by third parties who are not affiliated with or in any way related to the CCIN entity operating this website. They have been included in our website to enhance your user experience and are presented for information purposes only. We endeavor to select reputable websites and sources of information for your convenience. We are not in any way responsible for the content of any externally linked website or webpage. You use or follow these links at your own risk and we are not responsible for any damages or losses incurred or suffered by you arising out of or in connection with your use of the link.   
-
-  * **If you feel that this site is not following its stated user policy, you may**[contact us](http://www.canadavisa.com/contact-canadian-immigration-office.html). 
+ 
+  * **If you feel that this site is not following its stated user policy, you may[contact us](http://www.canadavisa.com/contact-canadian-immigration-office.html)**.
 
 
