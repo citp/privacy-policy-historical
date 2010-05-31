@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220145255id_/http%3A//www.crowdspring.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdspring.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531163313id_/http%3A//www.crowdspring.com/privacy-policy) for the most accurate reproduction.*
 
-# crowdSPRING / Privacy Policy
+# Privacy policy | crowdSPRING | crowdSPRING
 
 This Privacy Policy describes how we use and protect your personal information. By accepting the Privacy Policy and the Terms and Conditions of Service during registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. This Privacy Policy is effective upon acceptance for new users and is otherwise effective on January 2, 2008. 
 
@@ -138,6 +138,6 @@ Attn: Legal Department – Privacy Policy
 1200 W. Lake Street  
 Chicago Illinois 60607 
 
-or email us: [http://www.crowdspring.com/help/contact_us](https://web.archive.org/help/contact_us). 
+or email us: [http://www.crowdspring.com/contact-us](https://web.archive.org/contact-us). 
 
 return to top
