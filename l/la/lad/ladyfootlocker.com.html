@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ladyfootlocker.com privacy policy that was archived on 2009-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091130032108id_/http%3A//www.ladyfootlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ladyfootlocker.com privacy policy that was archived on 2010-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531152657id_/http%3A//www.ladyfootlocker.com/content/custserv/help--privacyPolicy) for the most accurate reproduction.-->
 
 <html><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -22,25 +22,19 @@ function openInvestWin(url) {
 
 
 
-	<!-- web08 --> 
+	<!-- web23 --> 
 <title>Lady Foot Locker</title>
 <meta name="keywords" content="">
 <meta name="description" content="">
-<meta http-equiv="published" content="Sunday, November 29, 2009 9:21:08">
 
+<meta http-equiv="published" content="Monday, May 31, 2010 10:26:57">
 
-<link href="http://www.ladyfootlocker.com/css/style.css" rel="stylesheet" type="text/css">
-<link href="http://www.ladyfootlocker.com/css/typography.css" rel="stylesheet" type="text/css">
 <script type="text/javascript" src="http://www.ladyfootlocker.com/shared/scripts/jquery-1.3.2.min.js"></script>
 <script language="javascript" src="http://www.ladyfootlocker.com/shared/scripts/ajax.js"></script>
 <script language="javascript" src="http://www.ladyfootlocker.com/shared/scripts/common.js"></script>
 <script language="javascript" src="http://www.ladyfootlocker.com/shared/search/scripts/sizesearch.js"></script>
 <script language="javascript" src="http://www.ladyfootlocker.com/shared/PDPZoom/PDPZoom.js"></script>
-<link href="http://www.ladyfootlocker.com/shared/PDPZoom/PDPZoom.css" rel="stylesheet" type="text/css">
 <script type="text/javascript">//<![CDATA[
-function openJobWindow(url) {
-	popupWin = window.open(url,'jobs','height=430,width=640,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no');
-}
 var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm.cfm';
 //]]>
 </script>
@@ -48,9 +42,9 @@ var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm
 	<script type="text/javascript" src="http://www.ladyfootlocker.com/shared/wishlist/wl_sharedWishList.js"></script>
 	
 	<script>
-	var wishlistpostCardURL = 'http://www.ladyfootlocker.com/wishlist/wl_postcard.cfm';
-	var wishlistmailSender  = 'http://www.ladyfootlocker.com/wishlist/wl_mailSender.cfm';
-	var dsnname = 'pro-lfl-lb-alt';
+	var wishlistpostCardURL = 'https://www.ladyfootlocker.com/wishlist/wl_postcard.cfm';
+	var wishlistmailSender  = 'https://www.ladyfootlocker.com/wishlist/wl_mailSender.cfm';
+	var dsnname = 'pro-lfl-lb';
 	
 		var microsite = '';
 	
@@ -69,7 +63,7 @@ var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm
 		
 			var login_template_path = "http://www.ladyfootlocker.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false";
 		
-		var register_url = "https://www.ladyfootlocker.com/account/default.cfm?TID=5555-08290921212308211136971-0&action=accountCreate";
+		var register_url = "https://www.ladyfootlocker.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://www.ladyfootlocker.com/shared/myAccount/login.js"></script>
     <link href="http://www.ladyfootlocker.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
@@ -106,23 +100,22 @@ var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm
 		function logout(coremetricsEventId, CoremetricsCategoryId, coreMetricsDo) {
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 1, CoremetricsCategoryId, 0);  }
-			eraseCookie('SESSION');
-			eraseCookie('USER_PROFILE');
-			eraseCookie('BAZAARVOICEUSER');
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);	}
+		
+		var logoutPath = "http://www.ladyfootlocker.com/account/default/action--accountSignOut/";
 		
 			var thisurl = window.location.toString();
 			var regex = "/" + "bvdisplaycode--/[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('bvdisplaycode--/') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
-				window.location=thisurl;
-			}
-			else {
-				window.location.reload();
 			}
 		
+			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false }).responseText;
+			eraseCookie('BAZAARVOICEUSER');
+			window.location=thisurl;
 		}
+		
 //-->
 </script>
 
@@ -137,41 +130,35 @@ var sizeSearchActionURL = 'http://www.ladyfootlocker.com/includes/sizeSearchForm
 
 
 
-		<style type="text/css">
-			body {
+                <style type="text/css">
+					@import 'http://www.ladyfootlocker.com/css/style.css'; @import 'http://www.ladyfootlocker.com/css/typography.css'; @import 'http://www.ladyfootlocker.com/shared/PDPZoom/PDPZoom.css'; 
+                </style>
+            
+                <style type="text/css">
+					
+	.checkout_step {
+		height: 35px;
+		background-color: transparent;
+		background-position: top left;
+		background-repeat: no-repeat;
+	}
+	#checkout_step_shipping { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-shipping.gif); }
+	#checkout_step_payment { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-payment.gif); }
+	#checkout_step_review { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-review.gif); }
+	#checkout_step_receipt { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-receipt.gif); }
+
+                </style>
+            
+            <style type="text/css">
+                body {
 background-image:url(http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/LFL_bkgnd_repeat.png);
 background-position:top left;
 background-repeat:repeat-x;
+margin:0;
 }
-#wing-l {
-background-image: url(http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/LFL_leftwing_fade.png);
-background-position:top right;
-background-repeat:no-repeat;
-float:left;
-height:1162px;
-width:173px;
 
-}
-/* ie adjustment */
-* html #wing-l {
-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/LFL_leftwing_fade.png', sizingMethod='scale');
-background: transparent;
-}
-#wing-r {
-background-image: url(http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/LFL_rightwing_fade.png);
-background-position:top left;
-background-repeat:no-repeat;
-float:right;
-height:1162px;
-width:173px;
-}
-/* ie adjustment */
-* html #wing-r {
-filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/LFL_rightwing_fade.png', sizingMethod='scale');
-background: transparent;
-}
 #wrapper-outer {
-width:1312px;
+width:996px;
 margin:0 auto;
 text-align:center;
 padding-top:0px;
@@ -180,21 +167,27 @@ margin-top:0;
 }
 #wrapper {
 float:left;
- background-color:#A3CCEA
+ /* background-color:#A3CCEA */
 }
 /* -- ie adjustment -- */
 * html #container {
 margin:5px 0 0 0;
 }
 #wrapper {
-width:966px;
+width:996px;
 margin:0 auto;
 text-align:center;
-background-repeat:repeat-y;
-background-position:center;
 padding-top:0px;
 padding-bottom:0px;
 margin-top:0;
+background-image: url(http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/back-full.png);
+background-position:top left;
+background-repeat: no-repeat;
+}
+/* ie adjustment */
+* html #wrapper {
+filter: progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/back-full.png', sizingMethod='scale');
+background: transparent;
 }
 #container{
 width: 966px;
@@ -203,7 +196,7 @@ margin-left: auto;
 margin-right: auto;
 margin-top:5px;
 padding-top:0;
-overflow: hidden;
+/*overflow: hidden;*/
 background-color:#fff;
 }
 
@@ -499,8 +492,8 @@ margin:5px 0 0 0;
 {
 margin:0px;
 padding:0 0 0 10px;
-width:945px;
-max-width:945px;
+width:965px;
+max-width:965px;
 float:left;
 height:18px;
 max-height:18px;
@@ -641,8 +634,8 @@ clear: both;
 height: 1px;
 overflow:hidden;
 }
-		</style>
-	
+            </style>
+        
 
 
 	
@@ -679,11 +672,7 @@ color:#fff;
 </style>
 <!-- start outer wrapper -->
 <div id="wrapper-outer">
-<!-- start left wing div -->
-<div id="wing-l">
 
-<!-- end left wing div -->
-</div>
 <div id="wrapper">
 
 
@@ -699,8 +688,8 @@ color:#fff;
       </div>
 	  	<!-- customer greeting div -->
 <div id="custgreet">
-		<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login">log in</a> 
-								or <a href="https://www.ladyfootlocker.com/account/default/action--accountCreate/">register</a>.</span></div>
+		<div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://www.ladyfootlocker.com/account/default/action--accountCreate/" rel="nofollow">register</a>.</span></div>
 	</div>
       <!--end header-left div -->
     </div>
@@ -708,13 +697,13 @@ color:#fff;
     <div id="header-right-1109">
       <!--start upper-right div -->
       <div id="upper-right-1109">
-	  <div id="order_summary"><a href="https://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag">
+	  <div id="order_summary"><a href="http://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag">
 	<span class="order_summary_value">0 Items</span>
 </a></div>
         <!--start shoppingcart div -->
         <div id="shoppingcart-1109">
-		<a href="https://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag"><img src="http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/art-shoppingbag.gif" alt="View Shopping Bag" title="View Shopping Bag" name="shoppingcart_icon" width="16" height="14" hspace="2" border="0" align="absmiddle" id="shoppingcart_icon"></a>&nbsp;&nbsp;<a href="https://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag">Shopping
-            Bag</a>&nbsp;&nbsp;<a href="https://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag"><img src="http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/art-bag-arrow.gif" alt="View Shopping Bag" title="View Shopping Bag" name="shoppingcart_arrow" width="8" height="7" hspace="2" border="0" align="absmiddle" id="shoppingcart_arrow"></a>
+		<a href="http://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag"><img src="http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/art-shoppingbag.gif" alt="View Shopping Bag" title="View Shopping Bag" name="shoppingcart_icon" width="16" height="14" hspace="2" border="0" align="absmiddle" id="shoppingcart_icon"></a>&nbsp;&nbsp;<a href="http://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag">Shopping
+            Bag</a>&nbsp;&nbsp;<a href="http://www.ladyfootlocker.com/catalog/shoppingCart/" title="View Shopping Bag"><img src="http://www.ladyfootlocker.com/images/lfl/WIDE/newheader/art-bag-arrow.gif" alt="View Shopping Bag" title="View Shopping Bag" name="shoppingcart_arrow" width="8" height="7" hspace="2" border="0" align="absmiddle" id="shoppingcart_arrow"></a>
           <!--end shoppingcart div -->
         </div>
         <!--end upper-right div -->
@@ -753,12 +742,12 @@ color:#fff;
 	 <li class="dividerline">&nbsp;</li>
           <li><a href="http://www.ladyfootlocker.com/catalog/supercat_clothing/supercat--clothing/" title="Clothing">Clothing</a></li>
 		 <li class="dividerline">&nbsp;</li>
+         <li><a href="http://www.ladyfootlocker.com/promo/default/promoId--5002194/" title="Running">Running</a></li>
+		  <li class="dividerline">&nbsp;</li>
           <li><a href="http://www.ladyfootlocker.com/catalog/supercat_casual/supercat--casual/" title="Casual">Casual</a></li>
 		  <li class="dividerline">&nbsp;</li>
           <li><a href="http://www.ladyfootlocker.com/promo/default/promoId--5001837/" title="Sports Bras">Sport Bras</a></li>
 		 <li class="dividerline">&nbsp;</li>
-          <li><a href="http://www.ladyfootlocker.com/catalog/supercat_fangear/supercat--fangear/" title="Fan Gear">Fan Gear</a></li>
-		  <li class="dividerline">&nbsp;</li>
           <li><a href="http://www.ladyfootlocker.com/catalog/brands/supercat--brands/" title="Brands">Brands</a></li>
 		  <li class="dividerline">&nbsp;</li>
 		  <li><a href="http://www.ladyfootlocker.com/catalog/supercat_outlet/supercat--outlet/" title="Sale" style="color:#e4b773">Sale</a></li>
@@ -770,22 +759,9 @@ color:#fff;
   </div>
   <!---end header div --->
 </div>
-<!---start inner content area ---> <a href="http://www.ladyfootlocker.com/promo/default/promoId--5002110">
-		<img src="http://www.ladyfootlocker.com/images/lfl/topbanners/lflgb112109a.gif" alt="$15 off $75 or $25 off $100" border="0">
-		</a> 
-<style type="text/css">
-	.checkout_step {
-		height: 35px;
-		background-color: transparent;
-		background-position: top left;
-		background-repeat: no-repeat;
-	}
-	#checkout_step_shipping { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-shipping.gif); }
-	#checkout_step_payment { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-payment.gif); }
-	#checkout_step_review { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-review.gif); }
-	#checkout_step_receipt { background-image: url(http://www.ladyfootlocker.com/images/lfl/checkout/header-receipt.gif); }
-</style>
-
+<!---start inner content area ---> 
+		<!-- tpbann --><a href="http://www.ladyfootlocker.com/ns/2010/lflgb051910b_dis/lflgb051910b.html" target="_blank" alt="Free Shipping over $75"><img src="http://www.ladyfootlocker.com/images/lfl/headers/lflgb051910b.gif" border="0"></a><!-- end tpbann -->
+	
 
 <style type="text/css">
 	/*#helpheader {
@@ -869,6 +845,11 @@ color:#fff;
 	#itemchild {
 		padding-left: 17px;
 	}
+	.language {
+		float: right;
+		font-size: 10px;
+		color: orange;
+	}
 </style>
 
 
@@ -905,7 +886,10 @@ color:#fff;
 			
 			
 			
-			<div id="contenttitle">Privacy Policy<hr size="1"></div>
+			<div id="contenttitle">
+            	Privacy Policy
+                <hr size="1">
+            </div>
 			<ul></ul>
 			
 				
@@ -1006,32 +990,61 @@ color:#fff;
 <!--- end inner content area --->
 <!--- start footer div --->
 
+<link rel="stylesheet" type="text/css" href="http://www.ladyfootlocker.com/ns/hp/footer/add_foot_style.css">
+
+<style type="text/css">
+
+.footer-flex {background-color:#ECECEC !important}
+.flex-links a, .flex-links a:link, .flex-links a:visited {font-weight:normal !important}
+
+</style>
+
+
 <div class="footer-flex">
-  <div id="flex-generic-1" class="flex-column-vip"> <a href="http://www.ladyfootlocker.com/promo/default/promoId--5001261/" title="Become a VIP"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-vip-footer.jpg" height="123" vspace="0" hspace="0" border="0"></a><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-footer-divider.gif" height="123" vspace="0" hspace="0"></div>
-  <div id="flex-generic-2" class="flex-column-giftcard"><a href="http://www.ladyfootlocker.com/promo/default/promoId--5002113/" title="Lady Foot Locker Gift Cards"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-giftcard-footer.jpg" vspace="0" hspace="0" border="0"></a><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-footer-divider.gif" height="123" vspace="0" hspace="0"></div>
+  <div id="flex-generic-1" class="flex-column-graphics">
+  	<img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/lfl-gc-vip.jpg" width="118" height="123" hspace="0" vspace="0" border="0" usemap="#gcvip">
+    <map name="gcvip" id="gcvip">
+        <area shape="rect" coords="10,4,93,57" href="http://www.ladyfootlocker.com/promo/default/promoId--5001260/" title="Lady Foot Locker Gift Cards" alt="Lady Foot Locker Gift Cards">
+        <area shape="rect" coords="12,60,87,120" href="http://www.ladyfootlocker.com/promo/default/promoId--5001261/" title="Become a VIP" alt="Become a VIP">
+    </map>
+  </div>
+  <div id="flex-generic-2" class="flex-column-info">
+  	<div class="giftcards-text">
+    	<a href="http://www.ladyfootlocker.com/promo/default/promoId--5001260/" title="Lady Foot Locker Gift Cards">
+            <p class="title_mod">GiftCards</p>
+            <p>Never Expires/No Fees.<br>Even if the card says otherwise.</p>
+        </a>
+        <a href="http://www.ladyfootlocker.com/promo/default/promoId--5001261/" title="Become a VIP">
+            <p class="title_mod">Become a VIP Member</p>
+            <p>and get exclusive offers<br>and benefits</p>
+    	</a>
+    </div>
+  </div>
+  <div class="footer-divider"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-footer-divider.gif" height="123" vspace="0" hspace="0"></div>
   <div id="flex-generic-3" class="flex-column-customerservice">
-    <div class="flex-titlebar">Customer Service</div>
+    <div class="flex-titlebar">TOP SEARCHES</div>
     <div class="flex-links">
       <ul>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--placeOrder/" title="Ordering Help">Ordering Help</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--privacyPolicy/" title="Privacy Policy">Privacy Policy</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--terms/" title="Terms of Use">Terms of Use</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--contactUs/" title="Contact Us">Contact Us</a></li>
-        <li><a href="http://www.footlocker-inc.com/company.cfm?page=lady-foot-locker" title="About Us" target="_blank">About Us</a></li>
-        <li><a href="http://www.footlocker-inc.com/careers.cfm?page=careers-lady-footlocker" title="Job Opportunities" target="_blank">Job Opportunities</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+nike+shox/?cm_re=Footer-_-TopSearches-_-nikeshox" title="Womens Nike Shox">Nike Shox</a></li>
+        <li><a href="http://www.ladyfootlocker.com/promo/default/promoId--5001943/?cm_re=Footer-_-TopSearches-_-runningshoes" title="Womens Running Shoes">Running Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+nike+casual+shoes/?cm_re=Footer-_-TopSearches-_-nikecasualshoes" title="Womens Nike Casual Shoes">Nike Casual Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/promo/default/promoId--5002063/keyword--womens+volleyball+shoes/?cm_re=Footer-_-TopSearches-_-volleyballshoes" title="Womens Volleyball Shoes">Volleyball Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+training+shoes/?cm_re=Footer-_-TopSearches-_-trainingshoes" title="Womens Training Shoes">Training Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+basketball+shoes/?cm_re=Footer-_-TopSearches-_-basketballshoes" title="Womens Basketball Shoes">Basketball Shoes</a></li>
       </ul>
     </div>
   </div>
   <div class="footer-divider"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-footer-divider.gif" height="123" vspace="0" hspace="0"></div>
   <div id="flex-generic-4" class="flex-column-shoppinghelp">
-    <div class="flex-titlebar">Shopping Help</div>
+    <div class="flex-titlebar">MOST POPULAR</div>
     <div class="flex-links">
       <ul>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--generalSizing/" title="Sizing Help">Sizing Help</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/custserv/help--returnsExchanges/" title="Returns &amp; Exchanges">Returns &amp; Exchanges</a></li>
-        <li><a href="http://www.ladyfootlocker.com/content/locator/" title="Store Locator">Store Locator</a></li>
-        <li><a href="http://www.ladyfootlocker.com/sitemap/ladyfootlocker-sitemap.htm/" title="Site Map">Site Map</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+nike+running+shoes/?cm_re=Footer-_-MostPopular-_-nikerunningshoes" title="Womens Nike Running Shoes">Nike Running Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+reebok+easytone/?cm_re=Footer-_-MostPopular-_-reebokeasytone" title="Womens Reebok Easytone">Reebok Easytone</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+asics+running+shoes/?cm_re=Footer-_-MostPopular-_-asicsrunningshoes" title="Womens ASICS Running Shoes">ASICS Running Shoes</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--womens+nike+air+max+shoes/?cm_re=Footer-_-MostPopular-_-nikeairmaxshoes" title="Womens Nike Air Max Shoes">Nike Air Max</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--sale+womens+running+shoes/?cm_re=Footer-_-MostPopular-_-salerunningshoes" title="Sale Womens Running Shoes">Running Shoe Sale</a></li>
+        <li><a href="http://www.ladyfootlocker.com/catalog/advancedSearch/keyword--sale+womens+casual+shoes/?cm_re=Footer-_-MostPopular-_-salecasualshoes" title="Sale Womens Casual Shoes">Casual Shoe Sale</a></li>
       </ul>
     </div>
   </div>
@@ -1052,6 +1065,28 @@ color:#fff;
   </div>
   <!---end footer div --->
 </div>
+
+<div class="footer_help">
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--placeOrder/" title="Ordering Help">Ordering Help</a> | 
+	<a href="http://www.ladyfootlocker.com/content/custserv/help--privacyPolicy/" title="Privacy Policy">Privacy Policy</a> | 
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--terms/" title="Terms of Use">Terms of Use</a> | 
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--contactUs/" title="Contact Us">Contact Us</a> | 
+    <a href="http://www.footlocker-inc.com/company.cfm?page=lady-foot-locker" title="About Us" target="_blank">About Us</a> | 
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--shipInfo/" title="Shipping Info">Shipping Info</a> | 
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--generalSizing/" title="Sizing Help">Sizing Help</a> | 
+    <a href="http://www.ladyfootlocker.com/content/custserv/help--returnsExchanges/" title="Returns &amp; Exchanges">Returns &amp; Exchanges</a>
+    <br>
+    <a href="http://www.footlocker-inc.com/careers.cfm?page=careers-lady-footlocker" title="Career Opportunities" target="_blank">Career Opportunities</a> | 
+    <a href="http://www.ladyfootlocker.com/content/locator/" title="Store Locator">Store Locator</a> | 
+    <a href="http://www.ladyfootlocker.com/sitemap/ladyfootlocker-sitemap.htm/" title="Site Map">Site Map</a> |
+    <a href="http://www.footlocker-inc.com/" title="Foot Locker, Inc." target="_blank">Foot Locker, Inc.
+</a>
+</div>
+
+<div class="footer_dislaimer">
+	<p>Prices subject to change without notice. Products shown may not be available in our stores. (<a href="http://www.ladyfootlocker.com/content/custserv/help--productInformation/" title="More Information">more info</a>) | ® 2010 Footlocker.com, Inc. All Rights Reserved</p>
+</div>
+
 <!---start footer-tagline div --->
 <div id="footer-tagline">
 
@@ -1066,16 +1101,15 @@ color:#fff;
 <script language="JavaScript" src="http://www.ladyfootlocker.com/images/js/getverisignsealimage.js"></script>
 
       &nbsp;<a href="http://www.paypal.com" target="_new"><img src="http://www.ladyfootlocker.com/images/lfl/paypal/btn_paypal_AcceptMark_68x43.gif" border="0" alt="PayPay™"></a>
-      &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoid--5001610"><img src="http://www.ladyfootlocker.com/images/lfl/headers/LFL-School-Rewards.jpg" border="0" alt="School Rewards"></a>
-    &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoId--5002113/" title="footlocker giftcards"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-giftcard-footer.jpg" alt="footlocker giftcards" title="giftcards" border="0" height="42" width="56"></a>
- &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoId--5001917/" title="Lady Foot Locker Events"><img src="http://www.ladyfootlocker.com/images/lfl/headers/LFL_events.gif" alt="Lady Foot Locker Events" title="Lady Foot Locker Events" border="0" height="32" width="75"></a>&nbsp;<a href="http://www.footlocker.com/" target="_blank" title="footlocker.com"><img src="http://www.ladyfootlocker.com/images/lfl/headers/FL-logo.gif" alt="footlocker.com" title="footlocker.com" border="0" height="47" width="75"></a>&nbsp;<a href="http://www.kidsfootlocker.com/" target="_blank" title="kidsfootlocker.com"><img src="http://www.ladyfootlocker.com/images/lfl/headers/KFL-logo.gif" alt="kidsfootlocker.com" title="kidsfootlocker.com" width="118" height="43" border="0"></a>
+      &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoid--5001610/"><img src="http://www.ladyfootlocker.com/images/lfl/headers/LFL-School-Rewards.jpg" border="0" alt="School Rewards"></a>
+    &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoId--5001260/" title="Lady Foot Locker Gift Cards"><img src="http://www.ladyfootlocker.com/images/lfl/bottomnav/Wide/art-giftcard-footer.jpg" alt="Lady Foot Locker Gift Cards" title="Lady Foot Locker Gift Cards" border="0" height="42" width="56"></a>
+ &nbsp;<a href="http://www.ladyfootlocker.com/promo/default/promoId--5001917/" title="Lady Foot Locker Events &amp; Partners"><img src="http://www.ladyfootlocker.com/images/lfl/headers/LFL-events-partners.gif" alt="Lady Foot Locker Events &amp; Partners" title="Lady Foot Locker Events &amp; Partners" border="0" height="32" width="75"></a>&nbsp;<a href="http://www.footlocker.com/" target="_blank" title="footlocker.com"><img src="http://www.ladyfootlocker.com/images/lfl/headers/FL-logo.gif" alt="footlocker.com" title="footlocker.com" border="0" height="47" width="75"></a>&nbsp;<a href="http://www.kidsfootlocker.com/" target="_blank" title="kidsfootlocker.com"><img src="http://www.ladyfootlocker.com/images/lfl/headers/KFL-logo.gif" alt="kidsfootlocker.com" title="kidsfootlocker.com" width="118" height="43" border="0"></a>
 
 
 <!---end footer-icons div --->
   </ignoreurlreformat></div>
   <!---end footer-tag div --->
 </div>
-
 <!---end container div --->
 </div>
 <!---end wrapper div --->
