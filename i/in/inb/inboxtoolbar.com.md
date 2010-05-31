@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inboxtoolbar.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231180410id_/http%3A//inboxtoolbar.com/legal/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inboxtoolbar.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531182356id_/http%3A//www.inboxtoolbar.com/legal/privacy.aspx) for the most accurate reproduction.*
 
 # Inbox Toolbar - Instant access to information
 
