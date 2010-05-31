@@ -1,95 +1,99 @@
-> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130033457id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pitchup.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531155013id_/http%3A//www.pitchup.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pitchup.com
 
-Wikiventure Ltd (“We”) commit ourselves to protecting and respecting your privacy when visiting our website.
+This privacy policy sets out how we will process and use any Personal Information that you provide to us, or that we may collect as a result of visiting Pitchup.com. Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
-This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting [URL].  Please read the following information to understand our practices with regards to your personal data and how we will treat it. 
+For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email to [managers@pitchup.com](mailto:managers@pitchup.com).
 
-For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon enquiry by email.
+Any changes to the Pitchup.com privacy policy will be made to this page. Your continued use of the Website will constitute your agreement to the changed Terms.
 
  **INFORMATION WE MAY COLLECT FROM YOU**
 
-We may collect and process the following data about you:
+We may collect and process the following data (“Personal Information”) about you:
 
-  * Any information that you provide by filling in forms on our site.  This includes provided information at the time of registering to use our site, posting material, requesting further services or subscribing to any service offered by us on the site.  We might also request further information and if you should report a problem with our site. 
+(a) Any information that you provide by filling in forms on our site, including name and contact details, card details and special requirements. This includes information provided at the time of booking, registering to use our site, applying for a job, posting material, requesting further services or subscribing to any service offered by us on the site. We may also request further information should you report a problem with our site; 
 
+(b) We may keep a record of any correspondence should you contact us;
 
-  * We may keep a record of any correspondence if you should contact us.
+(c) Details of the resources you access and of your visits to our site;
 
-
-  * Details of the resources you access and of your visits to our site 
-
-
-  * Details of transactions you may carry out through our site and of the completion of your orders.
-
-
+(d) Details of transactions you may carry out through our site and of the completion of your orders.
 
  **IP ADDRESSES AND COOKIES**
 
-We may collect information about your computer; this is statistical data concerning your browsing actions and does not identify you individually.  This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers. 
+We may collect information about your computer; this is statistical data concerning your browsing actions enabling us to tailor the site to match your interests and preferences, and does not identify you individually. This information includes your IP address where available, operating system and browser type, for system administration and to report collective information to our advertisers.
 
-We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers.  The cookies contain valuable information that is transferred to your computers hard drive.  In collecting this information we are able to improve our site and deliver a better and more personalised service. 
+We may also collect information about your general internet usage using cookie files stored on the hard drive of all computers. The cookies contain valuable information that is transferred to your computer’s hard drive. In collecting this information we are able to improve our site and deliver a better and more personalised service. 
 
-You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site.  You can do this by activating the setting on your browser which allows you to refuse the setting. 
+You can refuse to accept cookies but note that in doing this you may be unable to access certain parts of our site. You can do this by activating the setting on your browser which allows you to refuse the setting.
 
-Our advertisers may also use cookies but please note that we have no control over this 
+Our advertisers may also use cookies but please note that we have no control over this.
 
-**WHERE WE STORE YOUR PERSONAL DATA**
+In addition to this we use Google Analytics, a web analytics service provided by Google, Inc. ("Google"). Google Analytics uses cookies, to help analyse how visitors use our site. The information generated by the cookie about the use of our website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of our website, compiling reports on website activity for Pitchup.com and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. By using this website, you consent to the processing of data about you by Google in the manner and for the purposes set out above.
 
-Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA).  This data may also be processed by staff that operates outside the EEA working us or one of our suppliers.  In submitting your personal data, you agree to such a transfer and the storing and processing of this data.  To ensure that your data is treated securely and in accordance with this privacy policy we will endeavour to take all reasonable necessary steps in protecting your privacy. 
+Pitchup.com regards the databases of site visitors’ information (which may include your Personal Information) as a valuable asset. Should Pitchup.com sell or transfer any of Pitchup.com’s business assets this may include the sale or transfer of such databases of information to third parties. Such a transfer or sale may mean that your Personal Information is transferred to countries outside the EEA. In using the Website and accepting the Terms you consent to such use of your Personal Information.
+
+ **WHERE WE STORE YOUR PERSONAL DATA**
+
+Any data that we collect from you may be stored at, and transferred to, a destination outside the European Economic Area (EEA). This data may also be processed by staff who operate outside the EEA working for us or one of our suppliers.  In submitting your personal data, you agree to such a transfer and the storing and processing of this data.  To ensure that your data is treated securely and in accordance with this privacy policy we will endeavour to take all reasonable necessary steps in protecting your privacy.
 
 We will do our best to protect your personal data, unfortunately, the transmission of information over the internet is not entirely secure and we cannot guarantee the security of data transmitted to our sites.  Any transmission of data is at your own risk.
 
  **USES MADE OF THE INFORMATION**
 
-We use the information held about you in the following ways: 
+We may use the information held about you in the following ways:
 
-  * To notify you of any changes to our service. 
+(a) To notify you of any changes to our service;
 
+(b) For incorporation in files of existing personal data of Pitchup.com and to the treatment of such for the purpose of management, administrations, mediation and contracting of the services offered by Pitchup.com;
 
-  * To ensure that the content of our site is presented in the most effective manner for you and your computer. 
+(c) For the management of bookings, incidences, statistics, commercial publicity and other promotions by means of electronic mail, SMS, MMS or any other similar means, and the subscription to news bulletins;
 
+(d) To ensure that the content of our site is presented in the most effective manner for you and your computer;
 
-  * Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you. 
+(e) To allow you to participate in interactive features of our service, should you choose to do so;
 
+(f) In allowing ourselves to carry out any obligations concerning any contracts entered into between you and us;
 
-  * To allow you to participate in interactive features of our service, should you choose to do so. 
+(g) Process your online job application;
 
+(h) To assist us with crime and fraud prevention such as identity checking;
 
-  * In allowing ourselves to carry out our obligations concerning any contracts entered into between you and us. 
+(i) Where you have consented to be contacted, to provide you with the information, products and services requested from us or in the event that we feel will be of interest to you. We may also also permit selected third parties to provide information on goods and services that may be of interest to you.  If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data. You have the right to revoke such consent by being in touch with Pitchup.com, and Pitchup.com will stop transmitting your information.
 
-
-
-We may also use your data to inform you and provide information on goods and services that may be of interest to you.  [We may also permit selected third parties to use your data for the same reason.] 
-
-If you do not want your data used in this way or passed onto third parties for marketing purposes please tick the relevant box on the form in which we collect your data. 
-
-**DISCLOSURE OF YOUR INFORMATION**
+ **DISCLOSURE OF YOUR INFORMATION**
 
 We may disclose your personal information to third parties:
 
-  * To the prospective buyer or seller of any business or assets in the event that we sell or buy. 
+(a) To relevant suppliers of your travel arrangements that are campsite providers or affiliates;
 
+(b) To organisations contracted by Pitchup.com to manage aspects of the Website;
 
-  * If we are under a duty to comply with any legal obligation to disclose or share your personal data.  To protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.  For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations. 
+(c) To security, credit checking or fraud prevention agencies;
 
+(d) To any relevant public authorities or law enforcement agencies;
 
+(e) To agencies to check candidates for job;
 
-**THIRD PARTY WEBSITES**
+(f) To the prospective buyer or seller of any business or assets in the event that we sell or buy;
 
-From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data.  We cannot accept any responsibility or liability for these policies.
+(g) If we are under a duty to comply with any legal obligation to disclose or share your personal data, to protect the rights, property and safety of our customers or others, or to enforce our terms of use for the site.  For the purposes of fraud protection and credit risk reduction this may include exchanging information with other companies and organisations. ** **
+
+ **THIRD PARTY WEBSITES**
+
+From time to time our site may contain links to and from the websites of our partner networks, advertisers and affiliates.  If you visit any of these sites please note that they have their own privacy policies and you should check these before submitting any personal data. We cannot accept any responsibility or liability for these policies.
 
  **ACCESS TO INFORMATION**
 
 In accordance with the Act you can exercise the right to access any information we hold about you. 
 
-**CHANGES TO OUR PRIVACY POLICY**
+ **CHANGES TO OUR PRIVACY POLICY**
 
-We will where appropriate notify you by email of any changes made to our privacy policy and these changes will also be posted on this page. 
+We will where appropriate notify you by email of any changes made to our privacy policy and these changes will also be posted on this page.
 
-**CONTACT**
+ **CONTACT**
 
-We welcome any questions, comments and requests regarding this privacy policy and should be emailed to admin@pitchup.com
+We welcome any questions, comments and requests regarding this privacy policy and should be emailed to [managers@pitchup.com](mailto:managers@pitchup.com).
 
-Thank you for taking the time to read our privacy policy. Our privacy policy is based on a privacy policy provided by [Privacy Policy Template](http://www.privacypolicytemplate.co.uk/) who provides a range of free website documents. Promoting responsible website publishing.
+Thank you for taking the time to read our privacy policy. Our privacy policy is based on a privacy policy provided by [Privacy Policy Template](http://www.privacypolicytemplate.co.uk/) who provides a range of free website documents. Promoting responsible website publishing.
