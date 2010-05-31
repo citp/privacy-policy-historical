@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231223105id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboardtoys.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531083637id_/http%3A//www.allaboardtoys.com/pages/Privacy-Security) for the most accurate reproduction.*
 
 # All Aboard Toys Privacy Policy
 
-##  **Secure Shopping**
+## **Secure Shopping**
 
-**All Aboard Toys Online Ordering Security**  
+ **All Aboard Toys Online Ordering Security**  
 At All Aboard Toys, we use state-of-the-art proven computer technology to protect your personal information provided to us through our online ordering system. In addition, we will reimburse you as noted below in "Our Commitment to Your Credit Safety", if your credit card information is used fraudulently as a result of it being obtained illegally from our site or while in transmission to our site. Please see below for more information regarding our technology, and our commitment to your credit card and personal information safety. 
 
 **Our Commitment to Your Credit Card Safety**  
@@ -12,14 +12,14 @@ The best testament to our commitment is the fact that no customer of All Aboard 
 
 In adherence to the Fair Credit Billing Act, your credit card provider can only hold you liable for up to $50.00 of fraudulent charges. If your credit card provider holds you liable for an amount up to $50.00, AllAboardToys.com will reimburse you that amount. AllAboardToys.com will cover this liability only if the unauthorized use of your credit card resulted through no fault of your own from purchases made at AllAboardToys.com. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures. 
 
-Please address all communications to [Customer Care](http://demo.tystoybox.com/pages/Customer_Service), or by mail to: 
+Please address all communications to [Customer Care](http://www.allaboardtoys.com/pages/Contact-Us), or by mail to: 
 
 > AllAboardToys.com Customer Care  
->  7115 Industrial Road  
->  Florence, KY 41042
+> 7115 Industrial Road  
+> Florence, KY 41042
 
 **What personal information does All Aboard Toys gather and what do you do with it?**  
-**Order Information:** While you may browse our web site completely anonymously, in order for you to order and for us to ship an order to you, we must collect the following items which we consider personal information: 
+ **Order Information:** While you may browse our web site completely anonymously, in order for you to order and for us to ship an order to you, we must collect the following items which we consider personal information: 
 
 \- The shipping destination name & address so we know where to ship your order.  
 \- The billing name & address for payment verification purposes.  
@@ -85,7 +85,7 @@ Our web site and newsletters have so-called Action Tags embedded in them. They a
 The answer is simply 'no'. We do not send out unsolicited e-mail, nor do we make your e-mail address or other personal information available to other parties for the purpose of marketing. People that receive our e-mails and newsletters have opted-in through our web site in most cases. If your e-mail address is on our e-mail list and you no longer wish to receive any newsletters from us, just follow the instructions at the bottom of the e-mail to unsubscribe. 
 
 **Who should I contact about questions or concerns regarding my privacy on All Aboard Toys?**  
-You may send concerns, feedback or questions regarding your privacy on our website to [ privacy@allaboardtoys.com](mailto:privacy@allaboardtoys.com). We take your privacy and security very serious. We make every effort to review each and every e-mail and to follow-up if appropriate. 
+You may send concerns, feedback or questions regarding your privacy on our website to [privacy@allaboardtoys.com](mailto:privacy@allaboardtoys.com). We take your privacy and security very serious. We make every effort to review each and every e-mail and to follow-up if appropriate. 
 
 **How can I change my personal information?**  
 If you have an account on the All Aboard Toys web site, you may change your personal information at any time by logging in to the account using the 'My Account' link at the top-right of the main page. Should you have misplaced your password needed to log in, please click the appropriate link to retrieve it. 
