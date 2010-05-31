@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223053341id_/http%3A//www.1800wheelchair.com/pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1800wheelchair.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531051352id_/http%3A//www.1800wheelchair.com/pages/privacy.aspx) for the most accurate reproduction.*
 
 # 1800wheelchair.com
 
@@ -52,10 +52,10 @@ The terms of this notice apply to all records containing your identifiable healt
 
 **B. IF YOU HAVE QUESTIONS ABOUT THIS NOTICE, PLEASE CONTACT:**
 
-1-800-Wheelchair, Inc.   
-Attn:Mrs. Miller  
+1800wheelchair, Inc.   
+Attn: Joseph Piekarski  
 Corporate Office  
-185 Marcy Ave.  
+320 Roebling, Suite 515  
 Brooklyn, NY 11211  
 
 
@@ -135,6 +135,8 @@ _6\. Right to a Paper Copy of This Notice._ You are entitled to receive a paper 
 
 _7\. Right to File a Compliant._ If you believe your privacy rights have been violated, you may file a complaint with our organization or with the Secretary of the Department of Health and Human Services. To file a complaint with our organization, contact 1-800-Wheelchair, Inc., Attn: Mrs. Miller, Corporate Office, 185 Marcy Avenue, Brooklyn, NY, 11211. All complaints must be submitted in writing. You will not be penalized for filing a complaint. 
 
-_8\. Right to Provide an Authorization for Other Uses and Disclosures._ Our organization will obtain your written authorization for uses and disclosures that are not identified by this notice or permitted by applicable law. Any authorization you provide to us regarding the use and disclosure of your identifiable health information may be revoked at any time in writing. After you revoke your authorization, we will no longer use or disclose your identifiable health information for the reasons described in the authorization. Please note: We are required to retain records of your care.   
+_8\. Right to Provide an Authorization for Other Uses and Disclosures._ Our organization will obtain your written authorization for uses and disclosures that are not identified by this notice or permitted by applicable law. Any authorization you provide to us regarding the use and disclosure of your identifiable health information may be revoked at any time in writing. After you revoke your authorization, we will no longer use or disclose your identifiable health information for the reasons described in the authorization. Please note: We are required to retain records of your care. 
+
+Loooking to shop? Check out some of our most popular categories and products.   
   
 ---|---
