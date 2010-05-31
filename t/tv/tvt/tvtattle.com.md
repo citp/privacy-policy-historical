@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201024645id_/http%3A//tvtattle.com/2009/06/02/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvtattle.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531193836id_/http%3A//tvtattle.com/2009/06/02/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — TV Tattle
+
+
+
 
 Privacy Policy for www.tvtattle.com 
 
@@ -30,3 +33,21 @@ www.tvtattle.com has no access to or control over these cookies that are used by
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.tvtattle.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+
+* * *
+
+Recommended Sites
+
+Driver Access  
+Your source for information on updating your computer drivers - from graphics and sound cards to mice, keyboards and printer drivers.  
+[www.driveraccess.com](http://www.driveraccess.com/)
+
+Just Click Local  
+Search for local businesses (restaurants, bars, night-clubs, lawyers, doctors and more) in your area with JustClickLocal.  
+[www.justclicklocal.com](http://www.justclicklocal.com/)
+
+Free Online Dating  
+The only source for reviews and listing of the best free online dating websites.  
+[www.FreeDatingUSA.com](http://www.freedatingusa.com/)
+  *[Recommended Sites]: recommended
+sites
