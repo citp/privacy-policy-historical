@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the debonairgold.com privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006173950id_/http%3A//www.debonairgold.com/support-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the debonairgold.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531142526id_/http%3A//www.debonairgold.com/support-privacy.php%3Fs%3D) for the most accurate reproduction.*
 
 # Privacy policy statement
 
@@ -8,7 +8,7 @@ We have created this Privacy Policy to demonstrate our dedication to respecting 
 
 **What Information is Collected?**
 
-We collect personal information that is voluntarily provided to us via the registration form for any of our services or memberships. This information may include, but not be limited to, the subscriber's name, physical address, email address, birth date, credit card number, credit card expiration date, username, password, and on occasion a unique identifier (such as their mother's maiden name). If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
+We collect personal information that is voluntarily provided to us via the registration form for any of our services or memberships. This information may include, but not be limited to, the subscriber's name, physical address, email address, birth date, username, password, and on occasion a unique identifier (such as their mother's maiden name). If a subscriber sends any personal communication or correspondence, by any means, to the Site, or any of its employees, agents or representatives, the Site may collect any information regarding that communication and include that information in its customer database. 
 
 **Non-Personal Information and Cookies**
 
@@ -26,11 +26,11 @@ There may be occasions when you will be presented with special offers either fro
 
 The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site. 
 
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please [contact us here](https://web.archive.org/web/20091006173950id_/http%3A//www.debonairgold.com/contact.php). 
+If you have received unsolicited email sent via this system or purporting to be sent via this system, please [contact us here](https://web.archive.org/web/20100531142526id_/http%3A//www.debonairgold.com/contact.php). 
 
 **Security**
 
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. Regarding all credit card transactions, the credit card information you provide to us is transmitted for processing via SSL encryption technology, which is the current standard in Internet encryption. As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient. 
+This Site has security measures in place to protect the loss, misuse and alteration of the information under our control. Regarding all credit card transactions, the credit card information you provide, is transmitted for processing via SSL encryption technology, which is the current standard in Internet encryption. As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient. 
 
 **Acceptance of these Terms**
 
