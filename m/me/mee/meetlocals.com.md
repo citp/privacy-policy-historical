@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetlocals.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128101126id_/http%3A//www.meetlocals.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetlocals.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531133432id_/http%3A//www.meetlocals.com/public/info/%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
-# Meetlocals.com! Local, Hot, Sexy Adult Dating
+# Meetlocals.com! Local, Hot Dating
 
 THIS POLICY WAS LAST UPDATED ON May 9, 2009 
 
