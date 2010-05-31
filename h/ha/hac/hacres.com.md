@@ -1,33 +1,24 @@
-> *The following text is extracted and transformed from the hacres.com privacy policy that was archived on 2004-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041204174449id_/http%3A//www.hacres.com/legal.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hacres.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531173303id_/http%3A//www.hacres.com/contact/privacy-policy) for the most accurate reproduction.*
 
-# Hallelujah Acres: the biblical natural diet
+# Hallelujah Acres Privacy Policy
 
-Legal Disclaimer
+## We Respect Your Privacy
 
-The nutritional and health information on this Web site are based on the teachings of God’s Holy Word--the Bible, as well as personal experiences and research by the author(s). The author(s) and site editor do not offer medical advice or prescribe the use of diet as a form of treatment for sickness without the approval of a health professional.
+**Collection of Information**  
+Hallelujah Acres does not collect personally identifiable information from individuals unless they provide it to us voluntarily and knowingly. This means we don't require visitors to register or provide information to us in order to view our site. If you choose to register for Hallelujah Acres services, we will store your information in a secure area and use it for the sole purpose of providing the services you have requested. If you specifically agreed to follow-up contacts by us, or requested to be put on our mailing list, Hallelujah Acres may also contact you via email or regular mail from time to time. Under no circumstances will we use this information for anything not described in this privacy policy.
 
-Because there is always some risk involved when changing diet and lifestyles, the author(s) and site editor are not responsible for any adverse effects or consequences that might result. Please do not apply the techniques of the information on this Web site if you are not willing to assume the risks.
+We will never sell or share your contact information with anyone outside of Hallelujah Acres.
 
-If you do use the information contained on this Web site without the approval of a health professional, you are prescribing for yourself, which is your constitutional right, but the author(s) and site editor assume no responsibility.
+If at anytime you wish to access, review and/or correct all your personally identifiable information that we collect online and maintain in the secure area you may request so. We use this procedure to better safeguard your information. You can correct factual errors in your personally identifiable information by sending us a request that credibly shows the error. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections to this information. You may also request to have your personal information removed from our databases at anytime.
 
-Privacy Policy
+Our site sometimes includes notices of sweepstakes or other promotions we are conducting, and we may permit you to enter electronically in some cases. If that occurs, we will use the information you provide for the purpose of conducting the promotion (e.g., to contact you if you're a winner). We don't share this information you give us with anyone outside of Hallelujah Acres.
 
-Hallelujah Acres has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site.
+From time to time, our site may also be conducting questionnaires and surveys. Survey information is treated like all of the information we collect, and it is used to help us improve the appeal of our products and our site.
 
-This site contains links to other sites. Hallelujah Acres is not responsible for the privacy practices or the content of such Web sites.
+Hallelujah Acres takes your privacy and security seriously, for this reason we have established physical security measures including locked doors and files, electronic security and managerial controls that limit the potential for misuse of information by employees and contractors.
 
-Our online surveys ask visitors for contact information (like their email address). The customer's contact information is used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+**Cookies**  
+Like most companies, we may use "cookie" technology on our web site or sections of our website. When you log in, the cookie tells us whether you've visited us before or are a new visitor. The cookie doesn't track any personal information about you or provide us with any way to contact you, and the cookie doesn't extract any information from your computer. Cookies are simply the best way for us to be able to offer you the most enjoyable and hassle-free online experience.
 
-Public Forums  
-This site makes chat rooms, forums, message boards, and/or newsgroups available to its users. Please remember that any information that is disclosed in these areas becomes public information, and you should exercise caution when deciding to disclose your personal information.
-
-Security  
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Billing information is transacted under a 128-bit secure key issued by VeriSign.
-
-Choice/Opt-Out  
-This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service.  
-You can send email to [webmaster@hacres.com](mailto:webmaster@hacres.com)
-
-Correct/Update  
-This site gives users the following options for changing and modifying information previously provided.  
-You can send email to [webmaster@hacres.com](mailto:webmaster@hacres.com)
+**Questions / Concerns**  
+If you have any questions or concerns regarding your privacy and our website, please [contact us](http://www.hacres.com/contact).
