@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831082452id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fborfw.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531064646id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.*
 
 # FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.
 
@@ -12,7 +12,7 @@ Here are some terms you should be familiar with before you read through our Priv
 
 **Entercom Canada Inc. (ECI):** that's us!! 
 
-**Universal Press Syndicate:** syndicate that distributes the For Better or For Worse comic strip, and is responsible for the ucomics.com website, of which we are affiliated
+**Universal Uclick:** syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, of which we are affiliated
 
 **Third party:** this website is designed and maintained by Entercom Canada Inc. Anyone not directly employed by Entercom Canada Inc. Is considered to be "a third party", and is therefore not entitled access to personal company information.
 
@@ -30,7 +30,7 @@ As a responsible company, doing business in compliance with all regulations rega
 We are compliant with PIPEDA, which is the Personal Information Protection and Electronic Documents Act. PIPEDA is Canadian privacy leglislation which governs how we store and use personal information. For more information, send email to our [Chief Privacy Officer](mailto:design@fborfw.com?subject=PIPEDA).
 
 **Gathering & Use of Information**   
-Universal Press Syndicate or Entercom Canada Inc. does not require personal information from visitors in order to gain access to any part of For Better Or For Worse's online presence; any disclosures of personal data are entirely voluntary. Information that is gathered online is used to improve our web site's content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for visitors. 
+Universal Uclick or Entercom Canada Inc. does not require personal information from visitors in order to gain access to any part of For Better Or For Worse's online presence; any disclosures of personal data are entirely voluntary. Information that is gathered online is used to improve our web site's content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for visitors. 
 
 In some instances, users wishing to receive future e-mailings (ie. newsletters, email correspondence from Lynn or other staff of Entercom Canada Inc.) or enter contests run on the FBorFW.com site, will be asked to provide personal information on-line. Below are the different areas where visitors may opt to provide personal information, and how we handle the collected information:
 
@@ -47,7 +47,7 @@ Any personal information collected for the purpose of tracking contest entries o
 Any personal information collected for the purpose of completing an electronic purchase through the FBorFW.com merchandise section is only used internally, and will be transmitted using an encrypted code to thwart anyone trying to intercept the information provided. All personal information collected for the purpose of completing an electronic purchase is stored in an area to which the general public does not have access.
 
 **Information Tracking:**   
-Universal Press Syndicate uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.
+Universal Uclick uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.
 
 **Accuracy and Security**   
 Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to design@fborfw.com, or you can reach us by fax at Attn: Privacy Policy 705.752.4589. You can also write us at: 
