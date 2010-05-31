@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wheretogetengaged.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916212628id_/http%3A//www.wheretogetengaged.com/pages/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wheretogetengaged.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531093916id_/http%3A//www.wheretogetengaged.com/pages/privacy-policy.html) for the most accurate reproduction.*
 
-# Where To Get Engaged - Engagement and Wedding Social Network. Plan your Proposal. Find the Engagement Ring. Plan your Wedding. Find Local Bridal Vendors and Jewelers.
+# WTGE Privacy Policy
 
 The following information describes our privacy policy and how your personal information is handled on this site. This policy applies to information provided by you in the registration process. This policy does not apply to information provided by you to vendors and/or advertisers on this site. You should consult the individual policies of those vendors and/or advertisers to determine how information you provide will be handled by them.
 
