@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2008-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080924230737id_/http%3A//www.postadsonnet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postadsonnet.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531173500id_/http%3A//www.postadsonnet.com/privacy.php) for the most accurate reproduction.*
 
-# Postadsonnet.com
-
-Privacy Notice
+# Free Classified ads, classified ads, classifieds - PostAdsOnNet
 
 Please read the following policy to understand how your personal information will be treated. This policy may change from time to time in order to address new issues and reflect changes on our site so please check back periodically. By using this service after we post changes, you indicate your acceptance to those changes.
-
- ****
 
 **Our Commitment To Privacy**
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
-
-****
 
 **The Information We Collect:**
 
@@ -22,9 +16,11 @@ _Name_
 
 _Email address_
 
-****
+**
 
-**The Way We Use Information:**
+The Way We Use Information:
+
+**
 
 We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
@@ -32,29 +28,33 @@ We use non-identifying and aggregate information to better design our website an
 
 Finally, postadsonnet.com may provide personal information to the extent necessary to comply with applicable laws, police investigations, or in legal proceedings where such information is relevant. We may also disclose account information in cases where we have reason to believe that disclosing this information is necessary to identify, contact or investigate or bring legal action against someone who may be violating our [User Agreement](http://www.postadsonnet.com/tou.php) or may be causing injury to or interference with our rights or property, our other website users and their rights or property, or anyone else who could be harmed by such activities.
 
- ****
+ **
 
-**Our Commitment To Data Security**
+Our Commitment To Data Security
+
+**
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-****
+**
 
-**Our Commitment To Children's Privacy:**
+Our Commitment To Children's Privacy:
+
+**
 
 Children Under 13:
 
 Protecting the privacy of the very young is especially important. We will not knowingly collect any personally identifiable information from children under 13 years of age. We do not market via our website or by direct marketing to children under 13 years of age.
 
- ****
+ **
 
-**How You Can Access Or Correct Your Information**
+How You Can Access Or Correct Your Information
+
+**
 
 You can correct factual errors in your personally identifiable information by sending us a request that credibly shows error. 
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
-
-****
 
 **How To Contact Us**
 
