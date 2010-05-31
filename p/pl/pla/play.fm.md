@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the play.fm privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826160259id_/http%3A//www.play.fm/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the play.fm privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531033303id_/http%3A//www.play.fm/privacy) for the most accurate reproduction.*
 
 # PLAY.FM :: Privacy Policy
 
