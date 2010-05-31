@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2009-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090818235139id_/http%3A//clarisonic.com/utility) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarisonic.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531090914id_/http%3A//www.clarisonic.com/us/utility/legal-notices.php) for the most accurate reproduction.*
 
 # Clarisonic | Legal information and privacy policy
 
