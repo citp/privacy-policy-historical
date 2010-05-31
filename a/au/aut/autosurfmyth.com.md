@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the autosurfmyth.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130003433id_/http%3A//www.autosurfmyth.com/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autosurfmyth.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531200238id_/http%3A//www.autosurfmyth.com/signup.php%3Fshow%3Dprivacy) for the most accurate reproduction.*
 
-# AutoSurfMyth.com
+# autosurfmyth.com: Surf
 
 autosurfmyth.com Respects Your Privacy
 
