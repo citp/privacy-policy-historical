@@ -1,12 +1,20 @@
-<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2009-08-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090831082452id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fborfw.com privacy policy that was archived on 2010-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531064646id_/http%3A//www.fborfw.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-<title>FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<title>FBorFW.com is The Official Website of Lynn Johnston's comic strip For Better or For Worse.</title>
 <meta name="keywords" content="For Better or For Worse, Lynn, Johnston, Johnson, comic, funny, strip, Pattersons, better, worse, funnies, Lynn Johnston, Farley, Edgar, Mr. B, Butterscotch, John, Elly, Michael, Elizabeth, April, Iris, Grandpa Jim, Deanna, Sobinski, Mira, David, We're, Pregnant, Patterson, Reuben Award Winner, female cartoonist, Canada Walk of Fame, Gemini Award Winner, Order of Canada">
 <meta name="description" content="The official website for Lynn Johnston's For Better or For Worse comic strip featuring the Pattersons.">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="apple-touch-icon" href="http://www.fborfw.com/images/iphone_icon.gif">
+
+<!--calls lightbox script in use on Fan Art and potentially other pages-->
+<script type="text/javascript" src="/includefiles/lightbox/prototype.js"></script>
+<script type="text/javascript" src="/includefiles/lightbox/scriptaculous.js?load=effects,builder"></script>
+<script type="text/javascript" src="/includefiles/lightbox/lightbox.js"></script>
 <style type="text/css">
 
 #dropmenudiv{
@@ -43,8 +51,9 @@ background-color: yellow;
 ***********************************************/
 
 //STRIP FIX
-//var menu1=new Array()
-//menu1[0]='<a href="/strip_fix/">Strip Fix</a>'
+var menu1=new Array()
+menu1[0]='<a href="/strip_fix/">Today\'s Strip</a>'
+menu1[1]='<a href="/strip_fix/archives_monthly.php">Recent Archives</a>'
 
 
 //PATTERSON PAGES
@@ -53,31 +62,14 @@ menu2[0]='<a href="/char_pgs/elly/">Elly Patterson</a>'
 menu2[1]='<a href="/char_pgs/john/">John Patterson</a>'
 menu2[2]='<a href="/char_pgs/liz/">Elizabeth Patterson</a>'
 menu2[3]='<a href="/char_pgs/michael/">Michael Patterson</a>'
-menu2[4]='<a href="/char_pgs/farleynew/">Farley Patterson (NEW!)</a>'
+menu2[4]='<a href="/char_pgs/farleynew/">Farley Patterson</a>'
 
-//FUN STUFF
+//FUN STUFF menu3[15]='<a href="/fun/pegjump">Bunny Hop!</a>'
 var menu3=new Array()
-menu3[0]='<a href="/fun/wordsearch">Word Searches</a>'
-menu3[1]='<a href="/fun/chess">Chess Challenge</a>'
-menu3[2]='<a href="/fun/blog">Elly\'s Coffee Talk Blog</a>'
-menu3[3]='<a href="/fun/coffeebreak">John\'s Coffee Break</a>'
-menu3[4]='<a href="/fun/nedhunt">Ned Search Contest</a>'
-menu3[5]='<a href="/fun/bones">Dig It!</a>'
-menu3[6]='<a href="/fun/faces">Funky Faces</a>'
-menu3[7]='<a href="/fun/tunes">Tune Time</a>'
-menu3[8]='<a href="/fun/memory">Memory Matchup</a>'
-menu3[9]='<a href="/fun/squares">Fun Squares</a>'
-menu3[10]='<a href="/fun/trivia">Liz\'s Quizzes</a>'
-menu3[11]='<a href="/fun/pileup">Pet Pileup</a>'
-menu3[12]='<a href="/fun/egreets3">Egreets</a>'
-menu3[13]='<a href="/fun/dress_april">Dress April</a>'
-menu3[14]='<a href="/fun/foodfight">Food Fight</a>'
-menu3[15]='<a href="/fun/farleyactivity">Fun With Farley</a>'
-menu3[16]='<a href="/fun/pegjump">Bunny Hop!</a>'
-menu3[17]='<a href="/fun/crosswords">April\'s Puzzles!</a>'
-menu3[18]='<a href="/fun/summer">Summer Fun</a>'
-menu3[19]='<a href="/fun/memory2">Memory Matching</a>'
-menu3[19]='<a href="/fun/autumn">Fall Family Fun (NEW)</a>'
+menu3[0]='<a href="/fun/egreets3">Egreets</a>'
+menu3[1]='<a href="/fun/blog">Elly\'s Coffee Talk Blog</a>'
+menu3[2]='<a href="/fun/nedhunt">Ned Search Contest</a>'
+menu3[3]='<a href="/fun/coloring">Coloring Pages</a>'
 
 //BEHIND THE SCENES
 var menu4=new Array()
@@ -96,7 +88,28 @@ menu5[1]='<a href="/features/beth/">Meet Beth Cruikshank</a>'
 menu5[2]='<a href="/features/animatedshow/">Animated Series</a>'
 menu5[3]='<a href="/features/publicservice/">Public Service</a>'
 menu5[4]='<a href="/features/hybridwho/">Who\'s Who in FBorFW?</a>'
-menu5[5]='<a href="/features/fanfic/">FB Fan Fiction</a>'
+menu5[5]='<a href="/features/youtube/">FBorFW Videos</a>'
+
+//GAMES
+var menu6=new Array()
+menu6[0]='<a href="/fun/crosswords">April\'s Puzzles!</a>'
+menu6[1]='<a href="/fun/chess">Chess Challenge</a>'
+menu6[2]='<a href="/fun/bones">Dig It!</a>'
+menu6[3]='<a href="/fun/dress_april">Dress April</a>'
+menu6[4]='<a href="/fun/foodfight">Food Fight</a>'
+menu6[5]='<a href="/fun/squares">Fun Squares</a>'
+menu6[6]='<a href="/fun/faces">Funky Faces</a>'
+menu6[7]='<a href="/fun/coffeebreak">John\'s Coffee Break</a>'
+menu6[8]='<a href="/fun/memory2">Memory Matching</a>'
+menu6[9]='<a href="/fun/memory">Memory Matchup</a>'
+menu6[10]='<a href="/fun/trivia">Liz\'s Quizzes</a>'
+menu6[11]='<a href="/fun/pileup">Pet Pileup</a>'
+menu6[12]='<a href="/fun/spring">Spring Thing</a>'
+menu6[13]='<a href="/fun/tunes">Tune Time</a>'
+menu6[14]='<a href="/fun/roundup">Word Roundup (NEW)</a>'
+menu6[15]='<a href="/fun/wordsearch">Word Searches</a>'
+
+
 
 
 var menuwidth='175px' //default menu width
@@ -239,17 +252,7 @@ clearTimeout(delayhide)
 if (hidemenu_onclick=="yes")
 document.onclick=hidemenu
 
-</script></head><body><div id="dropmenudiv" style="visibility:hidden;width:175px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div><!--js_reload.php reloads the page if a Netscape 4 is resized, prevents rendering issues-->
-<script language="Javascript" type="text/javascript"> 
-<!-- 
-function MM_reloadPage(init) { //reloads the window if Nav4 resized 
-if (init==true) with (navigator) {if ((appName=="netscape")&&(parseInt(appVersion)==4)) { 
-document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }} 
-else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload(); 
-} 
-MM_reloadPage(true); 
-// --> 
-</script> <!--js_errors.php this script hides the error message generated by the pages which DON'T use the fading slideshow image-->
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script></head><body><div id="dropmenudiv" style="visibility:hidden;width:175px;background-color:lightyellow" onmouseover="clearhidemenu()" onmouseout="dynamichide(event)"></div><!--js_errors.php this script hides the error message generated by the pages which DON'T use the fading slideshow image-->
 <script type="text/javascript">
 <!-- //
 function handleError() {
@@ -260,50 +263,69 @@ window.onerror = handleError;
 </script>
 
 <!-- styles_link opens-->
-<link rel="stylesheet" type="text/css" href="http://www.fborfw.com/styles/styles.css">
+<link rel="stylesheet" type="text/css" href="http://www.fborfw.com/styles/styleswide.css">
 
 
 <!--begin php script containing cardinal list of internal links - use echo function to place link into webpage-->
 <!--variable body tags based on whether a script needs to execute onLoad-->
  <!--see other body includes for pages making use of Javascripts that must initialize onLoad-->
+
+<!-- Google analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-11920947-2']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+
+</script>
+
 <!--uclick ads-->
 <div align="center">
 <div id="box-wrap">
 <div id="header">
-<div style="padding: 0px; margin: 0px; text-align:center; border: 0px solid #000000; bgcolor:#ffffff;">
-<script language="JavaScript1.1" type="text/javascript" src="http://ads.ucomics.com/RealMedia/ads/adstream_jx.ads/www.fborfw.com/@Top"></script>
-</div>
+
 
 <!--logo-->
 <div id="logo">
-<a href="../../index.php"><img src="http://www.fborfw.com/images/logo.gif" alt="For Better or For Worse Logo" border="0"></a></div>
+<a href="http://www.fborfw.com"><img src="http://www.fborfw.com/images/logooverlay.gif" alt="For Better or For Worse Logo" border="0"></a></div>
 
-<div style="position:relative"></div><!--empty div added to counter IE peekaboo bug affecting tabs-->
-<!--internal_ads.php opens-->
+<!--<div style="position:relative"></div>empty div added to counter IE peekaboo bug affecting tabs-->
 
+<div id="uclickleaderboard">
+<script type="text/javascript"> 
+window.dctile = Number(window.dctile) + 1 || 1;
+window.ord = Number(window.ord) || Math.floor(Math.random() * 1E10);
+if(typeof(dcopt) == "undefined"){var dcopt = ";dcopt=ist"} else {var dcopt = ""};
+var site = "uu.fborfw";
+var zone = "site";
+var pos = "top";
+var size = "468x60,728x90";
+ 
+if (17>dctile) document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/'+site+'/'+zone+''+dcopt+';pos='+pos+';tile='+dctile+';sz='+size+';ord=' + ord + '?"><\/script>\n');
+</script><script type="text/javascript" src="http://ad.doubleclick.net/adj/uu.fborfw/site;dcopt=ist;pos=top;tile=1;sz=468x60,728x90;ord=3825003861?"></script>
 
-<div id="bannerad">
-
-<a href="http://www.nedtanner.com"><img src="http://www.fborfw.com/images/bannerads/nedtanner.jpg" border="0" width="468" height="61" alt="Ned Tanner"></a>
-</div> <!-- closes div #bannerad -->
-
-<div class="clear">&nbsp;</div><!-- clear only required for NN4 compatibility -->
-
-<!--tabs--><br clear="all">
+</div>
+<br clear="all"><!--tabs--><!--<br clear="all" />-->
 <div id="tab-box" style="text-align:left;">  <!--floats the tabs in the correct location -->
-<a href="/strip_fix/"><img src="/images/tabs/tab2_stripfix.gif" alt="Strip Fix" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab2_pattersons.gif" alt="Meet the Pattersons" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab2_fun.gif" alt="Fun Stuff" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab2_bts.gif" alt="Behind the Scenes" style="border:0px;"></a><a href="http://store.fborfw.com"><img src="/images/tabs/tab2_shop.gif" alt="Shop Online" style="border:0px;"></a><a href="/classic/"><img src="/images/tabs/tab2_classic.gif" alt="Classic Content" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu5, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab2_explore.gif" alt="Explore More!" style="border:0px;"></a>
+<a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu1, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_stripfix.gif" alt="Strip Fix" style="border:0px;"></a><a href="http://catalog.fborfw.com"><img src="/images/tabs/tab3_catalog.gif" alt="Strip Archive" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu2, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_pattersons.gif" alt="Meet the Pattersons" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu6, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_games.gif" alt="Play Games" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu3, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_fun.gif" alt="Fun Stuff" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu4, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_bts.gif" alt="Behind the Scenes" style="border:0px;"></a><a href="http://store.fborfw.com"><img src="/images/tabs/tab3_shop.gif" alt="Shop Online" style="border:0px;"></a><a href="/classic/"><img src="/images/tabs/tab3_classic.gif" alt="Classic Content" style="border:0px;"></a><a href="#" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menu5, '150px')" onmouseout="delayhidemenu()"><img src="/images/tabs/tab3_explore.gif" alt="Explore More!" style="border:0px;"></a> 
 </div><!--closes #tabs -->
 
 </div><!-- closes div #header --><!-- layout-open-content Controls Box Float-->
 <div id="content-float">
 
-<p><img src="protection.jpg" alt="Privacy Protection Graphic"><br><br>We here at FBorFW.com are committed to the protection of privacy, and have therefore adopted protocols to ensure that everyone's visit to this site is a fun, and safe experience. </p><br clear="all">
+<div id="containerdiv" style="float:left; width:750px;"><!--contains the three left-hand columns--><p><img src="protection.jpg" alt="Privacy Protection Graphic"><br><br>We here at FBorFW.com are committed to the protection of privacy, and have therefore adopted protocols to ensure that everyone's visit to this site is a fun, and safe experience. </p><br clear="all">
 
 <p><strong>First Things First</strong>...<br>
 Here are some terms you should be familiar with before you read through our Privacy Protection Statement:<br><br>
 
 <strong>Entercom Canada Inc. (ECI):</strong> that's us!! <br><br>
-<strong>Universal Press Syndicate:</strong> syndicate that distributes the For Better or For Worse comic strip, and is responsible for the ucomics.com website, of which we are affiliated<br><br>
+<strong>Universal Uclick:</strong> syndicate that distributes the For Better or For Worse comic strip, and is responsible for the gocomics.com website, of which we are affiliated<br><br>
 <strong>Third party: </strong>this website is designed and maintained by Entercom Canada Inc. Anyone not directly employed by Entercom Canada Inc. Is considered to be "a third party", and is therefore not entitled access to personal company information.<br><br>We consider personal information to be individually identifiable. It is collected online and provides details such as first and last name, email address, phone number and mailing address.<br><br>As a responsible company, doing business in compliance with all regulations regarding privacy, we hold this information in strict 
 confidence.<br><br>
 
@@ -316,7 +338,7 @@ confidence.<br><br>
 
 
 <p><strong>Gathering &amp; Use of Information</strong> <br>
-Universal Press Syndicate or Entercom Canada Inc. does not require personal information from visitors in order to gain access to any part of For Better Or For Worse's online presence; any disclosures of personal data are entirely voluntary. Information that is gathered online is used to improve our web site's content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for visitors. </p>
+Universal Uclick or Entercom Canada Inc. does not require personal information from visitors in order to gain access to any part of For Better Or For Worse's online presence; any disclosures of personal data are entirely voluntary. Information that is gathered online is used to improve our web site's content. In addition, we may use the information gathered to conduct internal marketing analysis to improve our web site for visitors. </p>
 
 <p>In some instances, users wishing to receive future e-mailings (ie. newsletters, email correspondence from Lynn or other staff of Entercom Canada Inc.) or enter contests run on the FBorFW.com site, will be asked to provide personal information on-line. Below are the different areas where visitors may opt to provide personal information, and how we handle the collected information:</p>
 
@@ -330,10 +352,10 @@ Universal Press Syndicate or Entercom Canada Inc. does not require personal info
 <p><strong>Purchasing Merchandise:</strong><br> Any personal information collected for the purpose of completing an electronic purchase through the FBorFW.com merchandise section is only used internally, and will be transmitted using an encrypted code to thwart anyone trying to intercept the information provided. All personal information collected for the purpose of completing an electronic purchase is stored in an area to which the general public does not have access.</p>
 
 <p><strong>Information Tracking:</strong> <br>
-Universal Press Syndicate uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.</p>
+Universal Uclick uses an outside service to track the total number of visitors to each area of For Better Or For Worse. Compiled in an aggregate form, this information shows us which areas visitors enjoy most, and allows us to update and improve site content. Personally identifiable information is not extracted in this process.</p>
 
 <!--<p><strong>"Cookies"</strong><br />
-The Universal Press Syndicate site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the For Better Or For Worse site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the For Better Or For Worse site. "Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the For Better Or For Worse site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the For Better Or For Worse site therefore remain entirely anonymous to DoubleClick. DoubleClick makes available both its policies and information practices at www.doubleclick.net and has voluntarily opened its practices and systems for third party auditing. DoubleClick's privacy statement.</p>-->
+The Universal Uclick site contracts with DoubleClick to sell and manage the advertisements that you see on the site. The advertisements help us bring you the For Better Or For Worse site without charge. DoubleClick uses "cookies" to improve the quality of your visit to the For Better Or For Worse site. "Cookies" are a form of software technology used to collect non-personal information about visitors to any particular site. This type of information includes: type of browser used to access the Internet (i.e. Netscape3.0, Internet Explorer 4.0), type of operating system (i.e. Windows 95, Macintosh) and the domain of the visitor's Internet service provider. DoubleClick uses cookies to make sure that you do not see the same advertisements repeatedly and when possible, shows advertising that is relevant to you based on what you have seen previously. Cookies are anonymous. DoubleClick does not know the name, e-mail address, phone number, or home address of anybody who visits the For Better Or For Worse site or any other site in the DoubleClick Network. All users receiving an ad from DoubleClick through the For Better Or For Worse site therefore remain entirely anonymous to DoubleClick. DoubleClick makes available both its policies and information practices at www.doubleclick.net and has voluntarily opened its practices and systems for third party auditing. DoubleClick's privacy statement.</p>-->
 
 <p><strong>Accuracy and Security</strong> <br>
 Questions regarding our privacy policy, the accuracy of your personal information or the use of the information collected should be directed via e-mail to design@fborfw.com, or you can reach us by fax at Attn: Privacy Policy 705.752.4589. You can also write us at: </p>
@@ -347,6 +369,13 @@ P0H 1K0<br></p>
 <p>We use our best efforts to ensure the security of personal information submitted by users. When collecting credit card information for on-line purchases, we offer secured-server transactions that encrypt your information in transit to thwart someone from intercepting it and misusing it. When we collect other information from our users, it is stored in an area where the general public does not have access to it. Unfortunately, no electronic communication over the internet can be guaranteed 100% secure and Entercom Canada Inc. cannot warrant the security of any information that you submit to us, and you do so at your own risk.</p>
 
 <p><strong>Note:</strong> Entercom Canada Inc. reserves the right to update this policy at any time.</p>
+</div><!--closes container div that encloses left-hand columns, opened in containerdiv.php-->
+<div id="sidebarcolumn">
+
+<a href="http://catalog.fborfw.com"><img src="/images/sidebars/catalog.gif"></a>
+
+
+</div>
 <!--page-layout-close opens-->
 <!--</div>
 </div>-->
@@ -355,39 +384,34 @@ P0H 1K0<br></p>
 <br clear="both">
 <div id="footer">
 
-<div style="float:right; padding:0px 5px 0px 5px; border-left:1px solid #000; text-align:center;"><img src="http://www.fborfw.com/images/footer_icon.gif" alt="FBorFW link icon" style="border:0px;"><br></div>
-
-
-
 © Lynn Johnston Productions Inc. | 
 <a href="http://www.fborfw.com/contact_us/" title="Contact Us">Contact Us</a> | 
 <a href="http://www.fborfw.com/privacy" title="Privacy Protection Policy">Privacy</a> | 
-<a href="http://www.amureprints.com" title="AMU Reprints" target="new">Reprints</a> | 
-<a href="http://www.fborfw.com/newsletter" title="Our FREE Newsletter" target="new">Newsletter</a> | 
-Website maintained by <a href="http://www.aloeroot.com" title="AloeRoot: grow your business using the Web">AloeRoot</a> |<br>
+<a href="http://www.amureprints.com" title="AMU Reprints">Reprints</a> | 
+<a href="http://www.fborfw.com/newsletter" title="Our FREE Newsletter">Newsletter</a> | 
+Website by <a href="http://www.aloeroot.com" title="AloeRoot: grow your business using the Web">AloeRoot Web Services</a> |<br>
 
 <span style="font-size:7pt;">
-<a href="http://www.gocomics.com/mobile/" title="Get comics on your phone" target="new">Comics on phones</a> | <a href="https://register.uclick.com/reg/create-account-base" title="Get comics in your e-mail" target="new">Comics by Email</a> | <a href="http://www.gocomics.com" title="GoComics" target="new">GoComics.com</a> | <a href="http://www.andrewsmcmeel.com/" title="AMP">Andrews McMeel Publishing</a></span><br clear="both">
+<a href="http://www.universaluclick.com/" title="Uclick">Universal Uclick</a> | <a href="https://www.gocomics.com/registration/new" title="Get comics in your e-mail">Comics by Email</a> | <a href="http://www.gocomics.com" title="GoComics">GoComics.com</a> | <a href="http://www.andrewsmcmeel.com/" title="AMP">Andrews McMeel Publishing</a></span><br clear="both">
 </div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!--page_end opens-->
 </div><!-- close box-wrap -->
 </div>
-<script language="JavaScript">var tcdacmd="dt";</script>
-<script src="http://an.tacoda.net/an/16837/slf.js" language="JavaScript"></script>
+
+
+
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-88cjbGjMcnM3c"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-88cjbGjMcnM3c.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
+
 
 </body></html>
