@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102170720id_/http%3A//www.merkleinc.com/wmspage.cfm%3Fparm1%3D284) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merkleinc.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531174404id_/http%3A//www.merkleinc.com/wmspage.cfm%3Fparm1%3D284) for the most accurate reproduction.*
 
 # Merkle | Privacy Policy
 
@@ -38,6 +38,8 @@ Merkle hosts and maintains various third-party data on behalf of our clients. We
 Merkle works closely with major industry trade associations and organizations that are at the center of privacy issues and advocacy. Merkle is an active member of the Direct Marketing Association (DMA), which is online at [www.the-dma.org](http://www.dma.org/). 
 
 Merkle’s executive staff serves on DMA committees. Merkle is also a member of the American Marketing Association, and belongs to numerous other professional marketing associations. 
+
+We utilize and support MD5 encrypted suppression files.
 
 ### _Information Security_
 
