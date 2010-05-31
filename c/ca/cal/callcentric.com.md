@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127054218id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the callcentric.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531194701id_/http%3A//www.callcentric.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
