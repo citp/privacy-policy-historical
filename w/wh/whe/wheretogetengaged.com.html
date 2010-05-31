@@ -1,39 +1,49 @@
-<!--The following is the downloaded HTML source of the wheretogetengaged.com privacy policy that was archived on 2009-09-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090916212628id_/http%3A//www.wheretogetengaged.com/pages/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wheretogetengaged.com privacy policy that was archived on 2010-05-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100531093916id_/http%3A//www.wheretogetengaged.com/pages/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
-		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">		
-        <title>Where To Get Engaged - Engagement and Wedding Social Network. Plan your Proposal. Find the Engagement Ring. Plan your Wedding. Find Local Bridal Vendors and Jewelers.</title>
-        <meta name="description" content="Where To Get Engaged - Engagement and Wedding Social Network provide men with a powerful resource for the engagement in the engagement planning process and connect brides and brides-to-be with local wedding vendors and the finest ring manufacturers. Reach out, review and communicate with exceptional local wedding vendors ready to help.">
-        <meta name="keywords" content="where to get engaged, get engaged, engagement, wedding, engagement and wedding, engagement and wedding social network, engagement social network, wedding social network, ring, rings, engagement ring, wedding ring, engagement planning, wedding planning, bride, brides, groom, local vendors, engagement vendors, wedding vendors, community, wedding community, jewelry, wedding jewelry, jewelry vendors, wedding blog, jewelry manufacturers, wedding website, diamond, diamond rings, diamond wedding, diamond engagement, find the ring, hearts on fire, saturn jewels, christopher william jewelers, plan proposal, plan engagement, plan wedding">
-        
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>WTGE Privacy Policy</title>
+        <meta name="description" content="WTGE Privacy Policy">
+        <meta name="keywords" content="WTGE Privacy Policy">
+
         <meta name="robots" content="index,follow">
         <meta name="mssmarttagspreventparsing" content="true">
         <meta http-equiv="imagetoolbar" content="false">
-        
-		<link rel="shortcut icon" href="http://www.wheretogetengaged.com/public/frontend/images/favicon.png">
-		
-		<!-- CSS INLUCDE -->
-		<link href="http://www.wheretogetengaged.com/public/frontend/css/main.css" rel="stylesheet" type="text/css" media="screen, projection">		
-		<!-- <script type="text/javascript" src="http://www.wheretogetengaged.com/public/frontend/js/jquery.ui.js"></script> -->
+        <meta name="google-site-verification" content="q2Bui3NpkKgSuHvZNY0LBLgqSKK5WJslzHyx7de8J9Q">
 
-                        
+        <link rel="shortcut icon" href="http://www.wheretogetengaged.com/public/frontend/images/favicon.png">
+
+        <!-- CSS INLUCDE -->
+        <link href="http://www.wheretogetengaged.com/public/frontend/css/main.css" rel="stylesheet" type="text/css" media="screen, projection">
+
+        <!-- <script type="text/javascript" src="http://www.wheretogetengaged.com/public/frontend/js/jquery.ui.js"></script> -->
+
+        <!--include template CSS files (if any) -->
+        
                 <!--[if lt IE 8]>
-    		<link href="http://www.wheretogetengaged.com/public/frontend/css/ie.css" type="text/css" rel="stylesheet" media="screen, projection" />        
+    		<link href="http://www.wheretogetengaged.com/public/frontend/css/ie.css" type="text/css" rel="stylesheet" media="screen, projection" />
 		<![endif]-->
 		<!--[if lt IE 7]>
             <link href="http://www.wheretogetengaged.com/public/frontend/css/ie6.css" type="text/css" rel="stylesheet" media="screen, projection" />
 		<![endif]-->
 		<!-- /CSS INLUCDE -->
-		
-		
-        <link href="http://www.wheretogetengaged.com/public/shared/js/plugins/jqModal/jqModal.css" type="text/css" rel="stylesheet" media="screen, projection">
-		<script type="text/javascript" src="http://www.wheretogetengaged.com/public/shared/js/jquery.js"></script>
 
+
+        <link href="http://www.wheretogetengaged.com/public/shared/js/plugins/jqModal/jqModal.css" type="text/css" rel="stylesheet" media="screen, projection">
+        <script type="text/javascript" src="http://www.wheretogetengaged.com/public/shared/js/jquery.js"></script>
+
+
+        
         <!-- declare dynamic variables -->
         <script type="text/javascript">
             var paths = Array();
                             paths['base_url'] = 'http://www.wheretogetengaged.com/';
+
+                // main_site_url, for banners etc.
+                if (paths['base_url'] == 'http://localhost/wtge/app/') paths['main_base_url'] = 'http://www.wheretogetengaged.com/';
+                else if (paths['base_url'] == 'http://dev.wheretogetengaged.com/') paths['main_base_url'] = 'http://dev.wheretogetengaged.com/';
+                else paths['main_base_url'] = 'http://www.wheretogetengaged.com/';
             
             paths['module_url'] = 'http://www.wheretogetengaged.com/pages/';
             var me              = Array();
@@ -43,24 +53,137 @@
             me['published']     = 0 == 1 ? true : false;
             var pageUniqueID    = '';
             pageUniqueID        = String((new Date()).getTime()).replace(/\D/gi,'');
+
         </script>
 
 
         
 
-		<script type="text/javascript" src="http://www.wheretogetengaged.com/public/shared/js/skabitLib/common.js"></script>
+        <script type="text/javascript" src="http://www.wheretogetengaged.com/public/shared/js/skabitLib/common.js"></script>
         <script src="http://www.wheretogetengaged.com/public/shared/js/plugins/jquery.cookie.js" type="text/javascript" charset="utf-8"></script>
-		
+
 	</head>
-	
-	<body class="two-column primary-left static">
-		<!-- =wrap | start -->
-		<div id="wrap">
-        
+
+	<body class="two-column primary-left static ">
+
+	   	       
+
+
+
+<script type="text/javascript">
+$(document).ready(function(){
+
+    // toggle state-header
+    $('.fnc-state-header-toggle').click(function(){
+
+        if($('#state-switch').attr('rel') == 'open' || $(this).is('.btn-done')) {
+            $('#state-header').fadeOut( 'fast' , function(){
+                $('#state-header-wrap').slideUp('slow');
+                $('#state-switch').removeClass('open');
+                $('#state-switch').attr('rel','closed');
+                });
+        } else {
+            $('#state-header-wrap').slideDown('slow', function(){
+                $('#state-header').fadeIn('slow');
+                $('#state-switch').addClass('open');
+                $('#state-switch').attr('rel','open');
+            });
+        }
+        return false;
+    });
+
+});
+</script>
+
+     
+    <!-- =state-header-wrap | start -->
+    <div id="state-header-wrap" style="display: none;">
+        <!-- =state-header | start -->
+        <div id="state-header" style="display:none;" class="global">
+
+            <!-- =states | start -->
+                        <div class="states">
+                <h4>Select <span>Your</span> Where To Get Engaged State Site:</h4>
+                <ol class="states-list">
+                    <li class="global current"><a title="Go to Global WTGE Site" href="http://www.wheretogetengaged.com">Global</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/ak">Alaska</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/al">Alabama</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/ar">Arkansas</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/az">Arizona</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/ca">California</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/co">Colorado</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/ct">Connecticut</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/dc">District Of Columbia</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/de">Delaware</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/local/fl">Florida</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/ga">Georgia</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/hi">Hawaii</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/ia">Iowa</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/id">Idaho</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/il">Illinois</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/in">Indiana</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/ks">Kansas</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/ky">Kentucky</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/la">Louisiana</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/ma">Massachusetts</a></li>
+                    <li class="second"><a href="http://www.wheretogetengaged.com/local/md">Maryland</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/me">Maine</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/mi">Michigan</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/mn">Minnesota</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/mo">Missouri</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/ms">Mississippi</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/mt">Montana</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/nc">North Carolina</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/nd">North Dakota</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/ne">Nebraska</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/nh">New Hampshire</a></li>
+                    <li class="third"><a href="http://www.wheretogetengaged.com/local/nj">New Jersey</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/nm">New Mexico</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/nv">Nevada</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/ny">New York</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/oh">Ohio</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/ok">Oklahoma</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/or">Oregon</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/pa">Pennsylvania</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/ri">Rhode Island</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/sc">South Carolina</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/sd">South Dakota</a></li>
+                    <li class="fourth"><a href="http://www.wheretogetengaged.com/local/tn">Tennessee</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/tx">Texas</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/ut">Utah</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/va">Virginia</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/vt">Vermont</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/wa">Washington</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/wi">Wisconsin</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/wv">West Virginia</a></li>
+                    <li class="fifth"><a href="http://www.wheretogetengaged.com/local/wy">Wyoming</a></li>
+                </ol>
+            </div>
+                        <!-- =states | end -->
+
+             
+            <a href="#" class="btn-done fnc-state-header-toggle">Done</a>
+
+         </div>
+        <!-- =state-header | end -->
+    </div>
+    <!-- =state-header-wrap | end -->
+
+ 
+      
+
+	   
+            <!-- =outer | start -->
+            <div id="outer">
+            <!-- =wrap | start -->
+            <div id="wrap">
+
             <!-- =masthead | start  --> 
 <div id="masthead">
     <a href="http://www.wheretogetengaged.com/" title="Where To Get Engaged" id="logo"><img src="http://www.wheretogetengaged.com/public/frontend/images/logo_wtge_beta_tm.gif" alt="Where To Get Engaged"><span>Where To Get Engaged - An Engagement And Wedding Social Network</span></a>
     
+            <a href="#" id="state-switch" class="fnc-state-header-toggle fnc-onload"><span>Select State</span></a>
+        
     <!-- =global-navigation | start  --> 
     <div id="global-navigation">
         <ul>
@@ -81,6 +204,7 @@
         <li><a href="http://www.wheretogetengaged.com/tutorials" title="Help">Need Help?</a></li>
                     <li><a href="http://www.wheretogetengaged.com/register" title="Register">Sign Up</a></li>
             <li><a href="http://www.wheretogetengaged.com/login" title="Login">Login</a></li>
+                
             </ul>
     <!-- =account-navigation | end -->
     
@@ -96,12 +220,12 @@
     
     
     <!-- =global-search | start  -->
-    <form class="global-search" action="http://www.wheretogetengaged.com/find" method="post">
+    <form class="global-search fnc-validate-form" action="http://www.wheretogetengaged.com/find" method="post">
         <fieldset>
         <legend class="removed">Search</legend>
         <label class="removed">Search</label>
             <div>
-                <input class="text" type="text" name="broad" value="">
+                <input class="text fnc-required-nonempty-field" type="text" name="broad" value="">
                 <a class="more fnc-search-trigger" href="#">More</a>
                 <ul class="fnc-search-menu">
                     <li><a href="#" rel="all">All</a></li>
@@ -180,13 +304,20 @@ $(document).ready(function(){
         
 </script>
  
-            
-            <!-- =content | start  --> 
+
+            <!-- =content | start  -->
             <div id="content">
-                
+
+
+
+                <!-- ANNOUNCEMENTS -->
+                                <!-- /ANNOUNCEMENTS -->
+
+
+
                 <!-- =primary-content | start -->
                 <div id="primary-content">
-                
+
                     <!-- primary content -->
                     <link href="http://www.wheretogetengaged.com/public/frontend/css/jquery.lightbox.css" type="text/css" rel="stylesheet" media="screen, projection">
 <script type="text/javascript" src="http://www.wheretogetengaged.com/public/frontend/js/jquery.lightbox.js"></script>
@@ -235,10 +366,10 @@ $(function() {
 
 </script>
 
-                    
-                </div>	
+
+                </div>
                 <!-- =primary-content | end -->
-                
+
                 <!-- secondary content -->
                 <!-- =secondary-content | start -->
 <div id="secondary-content" class="clearfix">
@@ -309,14 +440,18 @@ $(function() {
             </ul>
     
 </div>
-<!-- =secondary-content | end -->			  
+<!-- =secondary-content | end -->			
                 
             </div>
             <!-- =content | end -->
         </div>
 		<!-- =wrap | end -->
-            
-        <!--[if lt IE 7]>
+        </div>
+        <!-- =outer | end -->
+
+        
+
+<!--[if lt IE 7]>
    <script type="text/javascript" src="http://www.wheretogetengaged.com/public/frontend/js/DD_belatedPNG.js"></script>
    <script type="text/javascript">
          DD_belatedPNG.fix('#footer .social-list img');
@@ -406,9 +541,9 @@ $(document).ready(function(){
 
                                 <h4>Sign Up</h4>
                 <ul class="sign-list">
-                    <li><a href="https://www.wheretogetengaged.com/register_mnf" title="Sing Up as a Manufacturer"><span>as</span> Manufacturer</a></li>
-                    <li><a href="https://www.wheretogetengaged.com/register_vendor/choose_plan/" title="Sing Up as a Vendor"><span>as</span> Vendor</a></li>
-                    <li><a href="https://www.wheretogetengaged.com/register" title="Sing Up as an User"><span>as</span> User</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/register_mnf" title="Sign Up as a Manufacturer"><span>as</span> Manufacturer</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/register_vendor/choose_plan/" title="Sign Up as a Vendor"><span>as</span> Vendor</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/register" title="Sign Up as an User"><span>as</span> User</a></li>
                 </ul>
                 
 
@@ -428,6 +563,7 @@ $(document).ready(function(){
                     <li><a href="http://www.wheretogetengaged.com/the_proposal.php" title="Plan the Proposal"><img src="http://www.wheretogetengaged.com/public/frontend/images/blt_footer_services_proposal.png" alt="proposal">Plan the Proposal</a></li>
                     <li><a href="http://www.wheretogetengaged.com/the_wedding.php" title="Plan the Wedding"><img src="http://www.wheretogetengaged.com/public/frontend/images/blt_footer_services_wedding.png" alt="wedding">Plan the Wedding</a></li>
                     <li><a href="http://www.wheretogetengaged.com/services/video_services" title="Where to Get Engaged Production Services"><span>Video Advertising</span></a></li>
+                    <li><a href="http://www.wheretogetengaged.com/services/couples_profile" title="Free Wedding Website"><span>Free Couple's Profile</span></a></li>
                     <li>Product Photographers</li>
                     <li>Wedding Planner</li>
                 </ul>
@@ -474,16 +610,16 @@ $(document).ready(function(){
                 <a href="http://www.wheretogetengaged.com/rules-of-engagement/feed/" class="subscribe" title="Subscribe to the Rules Of Engagement Blog">RSS</a>
                 <ul class="blog-list">
                                             <li>
-                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=1053">Our Story: Mike &amp; Courtney, Part Two</a></h6>
-                            <span>09-16-09</span>
+                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=3040">Scott Schmeissing and Michelle Spiers-- A Proposal Story</a></h6>
+                            <span>05-27-10</span>
                         </li>
                                             <li>
-                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=897">Weekly Dance Watch</a></h6>
-                            <span>09-14-09</span>
+                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=2982">Unique Groom's Cake Ideas</a></h6>
+                            <span>05-25-10</span>
                         </li>
                                             <li>
-                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=1058">Buy Like A Guy: A Truck Is A Truck</a></h6>
-                            <span>09-12-09</span>
+                            <h6><a href="http://www.wheretogetengaged.com/rules-of-engagement/?p=2970">Monday's Montage: Pops of Pink</a></h6>
+                            <span>05-24-10</span>
                         </li>
                                     </ul>
                 <h5>Archives 2009</h5>
@@ -492,17 +628,17 @@ $(document).ready(function(){
                 </div>
                 <ul class="archives-list clearfix">
                     <li class="no"><a href="#dummy" onclick="return false;" title="Blog Archive for January, 2009">Jan</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/02/" title="Blog Archive for February, 2009">Feb</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/03/" title="Blog Archive for March, 2009">Mar</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/04/" title="Blog Archive for April, 2009">Apr</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/05/" title="Blog Archive for May, 2009">May</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/06/" title="Blog Archive for June, 2009">Jun</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/07/" title="Blog Archive for July, 2009">Jul</a></li>
-                    <li><a href="http://blog.wheretogetengaged.com/2009/08/" title="Blog Archive for August, 2009">Aug</a></li>
-                    <li class="no"><a href="#dummy" onclick="return false;" title="Blog Archive for September, 2009">Sep</a></li>
-                    <li class="no"><a href="#dummy" onclick="return false;" title="Blog Archive for October, 2009">Oct</a></li>
-                    <li class="no"><a href="#dummy" onclick="return false;" title="Blog Archive for November, 2009">Nov</a></li>
-                    <li class="no"><a href="#dummy" onclick="return false;" title="Blog Archive for December, 2009">Dec</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/02/" title="Blog Archive for February, 2009">Feb</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/03/" title="Blog Archive for March, 2009">Mar</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/04/" title="Blog Archive for April, 2009">Apr</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/05/" title="Blog Archive for May, 2009">May</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/06/" title="Blog Archive for June, 2009">Jun</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/07/" title="Blog Archive for July, 2009">Jul</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/08/" title="Blog Archive for August, 2009">Aug</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/09/" title="Blog Archive for September, 2009">Sep</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/10/" title="Blog Archive for October, 2009">Oct</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/11/" title="Blog Archive for November, 2009">Nov</a></li>
+                    <li><a href="http://www.wheretogetengaged.com/rules-of-engagement/2009/12/" title="Blog Archive for December, 2009">Dec</a></li>
                 </ul>
                
             </div>
@@ -510,8 +646,8 @@ $(document).ready(function(){
         </div>
         <!-- =wrap | end -->        
 
-        <p class="copy">WhereToGetEngaged.com © 2009 Where To Get Engaged, Inc. All Rights Reserved.</p>
-        <p class="development">Web Design &amp; Development By <a href="http://www.epsilonconcepts.com" title="Site designed &amp; developed by Epsilon Concepts" class="external-link">Epsilon Concepts</a></p>
+        <p class="copy">WhereToGetEngaged.com © 2010 Where To Get Engaged, Inc. All Rights Reserved.</p>
+        <p class="development">Web Design &amp; Development By <a href="http://www.eclyptix.com" title="Site designed &amp; developed by Epsilon Concepts" class="external-link">Eclyptix</a></p>
 
     </div>
     <!-- =footer | start -->
@@ -527,22 +663,27 @@ $(document).ready(function(){
 </script>
 
 
- <script type="text/javascript">
-    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
- </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
- <script type="text/javascript">
-    
-        try {
-            var pageTracker = _gat._getTracker("UA-6476148-2");
-            pageTracker._trackPageview();
-        } catch(err) {}
-    
-</script>
-            
-        <!-- jQuery modal dialog window -->        
+
+<!-- google analytics -->
+    <script type="text/javascript">
+        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+    <script type="text/javascript">
+        
+            try {
+                var pageTracker = _gat._getTracker("UA-6476148-52");
+                pageTracker._trackPageview();
+            } catch(err) {}
+        
+    </script>
+<!-- /google analytics -->
+
+        <!-- jQuery modal dialog window -->
         <script src="http://www.wheretogetengaged.com/public/shared/js/plugins/jqModal/jqModal.js" type="text/javascript" charset="utf-8"></script>
         <div id="modal-windows"></div>
-            
+
+        
+
     
 </body></html>
