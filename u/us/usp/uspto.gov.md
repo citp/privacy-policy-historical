@@ -1,71 +1,70 @@
-> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916211935id_/http%3A//www.uspto.gov/web/doc/privact.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uspto.gov privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531043157id_/http%3A//www.uspto.gov/privact.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Thank you for visiting the United States Patent and Trademark Office website and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our website unless you choose to provide that information to us.
+Thank you for visiting the United States Patent and Trademark Office Web site and reviewing our privacy policy. Our privacy policy is simple: we collect no personal information about you when you visit our Web site unless you choose to provide that information to us.
 
-Submitting personal information is **voluntary**. When you **voluntarily submit** information, it constitutes your **consent** to the use of the information for the **purpose(s)** **stated at the time of collection**. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/20090916211935id_/http%3A//www.uspto.gov/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
+Submitting personal information is voluntary. When you voluntarily submit information, it constitutes your consent to the use of the information for the purpose(s) stated at the time of collection. See the [Privacy Act of 1974 (P.L. 93-579)](https://web.archive.org/web/doc/privacyacttext.htm) for more information on your rights under the Privacy Act.
 
-For the protection of users of our Web sites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems. 
+For the protection of users of our Web sites, we have safeguards in place to identify and prevent unauthorized attempts to access or cause harm to information and systems.
 
-Here is how we handle information about your visit to our website: 
+Here is how we handle information about your visit to our Web site:
 
-**Information Collected and Stored Automatically**
+##  Information Collected and Stored Automatically
 
-> The USPTO web server collects and saves only the default information customarily logged by World-Wide Web server software. Specifically, for each http request received, the **date and time** , the **originating IP address** , the **object** requested, and the **completion status** of the request is collected and saved.
-> 
-> We analyze these logs monthly to determine the traffic through the server during that month in hits, the number of pages served, and the level of demand for pages of interest during each month. We may also analyze accesses to particular pages to determine US versus non-US use, government agency versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission. 
+The USPTO Web server automatically collects and saves only the default information customarily logged by World-Wide Web server software. Specifically, for each http request received, the date and time, the originating IP address, the object requested, and the completion status of the request is collected and saved.
 
-**E-mail** submitted to USPTO is saved in accordance to Department of Commerce policy and NARA guidelines. If you choose to provide us with personal information in e-mail, we use that information to respond to your message and to help us get you the information you have requested. We do **not** collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do **not** store any personal information independent of the e-mail message, create individual profiles with the information you provide, or give it to any private organizations. We do **not** collect information for commercial marketing. 
+We analyze these logs monthly to determine the traffic through the server during that month in hits, the number of pages served, and the level of demand for pages of interest during each month. We may also analyze accesses to particular pages to determine US versus non-US use, government agency versus private use, and other statistics that may be of value to us in establishing priorities and allocating resources in order to better accomplish our dissemination mission. Analysis of this information may also help identify problem areas of the Web site or to improve overall service.
 
-**Kids Pages**
+For site security purposes and to ensure that USPTO Web services remain available to all users, USPTO monitors network traffic to identify unauthorized attempts to upload or change information or otherwise cause damage. Unauthorized attempts to upload information or change information on this service are strictly prohibited and subject to prosecution under the Computer Fraud and Abuse Act of 1986 and Title 18 U.S.C. Sec.1001 and 1030. Information also may be used for authorized law enforcement investigations.
 
-> We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children’s Internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do, however, sometimes encourage them to participate in contests, but such participation is carried out through postal mail.
+##  E-Mail
 
-* * *
+E-mail submitted to USPTO is saved in accordance to Department of Commerce policy and NARA guidelines. If you choose to provide us with personal information in e-mail, we use that information to respond to your message and to help us get you the information you have requested. We do not collect personal information for any purpose other than to respond to you. We only share the information you give us with another government agency if your inquiry relates to that agency, or as otherwise required by law. Moreover, we do not store any personal information independent of the e-mail message, create individual profiles with the information you provide, or give it to any private organizations. We do not collect information for commercial marketing.
 
-**Use of Persistent Cookies and Tracking Technology:**
+##  Blog Comments
 
-> We do not use persistent cookies or persistent tracking technologies, such as those used for session customization for returning visitors, on our website. 
+Blog comments are voluntarily submitted. If you choose to submit a blog comment, only personal information that you voluntarily provide as part of the comment will be revealed. All comments are moderated, and only those that comply with [USPTO policy](https://web.archive.org/termsofuse.jsp) will be posted. The USPTO will not edit or alter individual comments. If you simply visit a blog page, your visit will be recorded for statistical purposes, as for other areas of the Web site, by noting the name of the Internet domain from which you access USPTO blogs and the date and time that you access the blog.
 
-**Use of Cookies on TEAS and OEMS:**
+Except for the above purposes, no other attempts are made to identify individual users or their usage habits.
 
-> We use memory resident cookies (not persistent) on our TEAS and OEMS systems to maintain browser session integrity. **No** personal information is gathered and it is **not** stored on your hard drive. When you exit our site, the cookie terminates. 
+##  Kids Pages
 
-**USA.gov Search**
+We are especially concerned about protecting the privacy of children. We hope parents and teachers are involved in children’s Internet explorations. We respect the need to protect the identity of any children who participate in an Internet exhibition of their work. We do not request any information from children on the Kids Pages. We do, however, sometimes encourage them to participate in contests, but such participation is carried out through postal mail.
 
-> We utilize **USA.gov** to perform searches of our webpages. When you request a search, a **memory resident** (session) **cookie** is generated by USA.gov to maintain the search query information during the search session. When you complete the search, the cookie terminates.
+##  Use of Cookies and Tracking Technology
 
-* * *
+We do NOT use persistent cookies or persistent tracking technologies, such as those used for session customization for returning visitors, on our Web site. We use memory resident cookies for some applications, and to identify website use patterns in order to improve its usability. No personal information is gathered and it is not stored on your hard drive. Memory resident cookies are not persistent. When your session is completed or you exit our site, the cookie terminates.
 
-**Links to Other Sites**
+##  Use of Cookies on TEAS and OEMS
 
-> Our Website has links to many other federal agencies. In a few cases we link to private organizations, with their permission. Before leaving our website, a page will appear informing you that you are leaving our server. Once you link to another site, you are subject to the privacy policy of the new site. 
+We use memory resident cookies on our TEAS and OEMS systems to maintain browser session integrity. **No** personal information is gathered and it is not stored on your hard drive. When you exit our site, the cookie terminates.
 
-* * *
+##  USA.gov Search
 
-**Privacy Act Systems of Records**
+We utilize **USA.gov** to perform searches of our Web pages. When you request a search, a memory resident cookie is generated by USA.gov to maintain the search query information during the search session. When you complete the search, the cookie terminates.
 
-> Where this site requests information that will be stored in a **Privacy Act system of records** , an individual Privacy Act notice is provided. Should there ever be a need to use information for a purpose other than one already provided for under the Privacy Act, we will give you **specific instructions** on how you may **consent** to such use. **You are never required to give such consent**. 
-> 
-> Information stored in any Privacy Act System of Records is handled as set forth in the applicable System of Records Notice in order to preserve its security and confidentiality. Privacy Act System of Records notices are available at: [http://www.gpoaccess.gov/privacyact/index.html](http://www.uspto.gov/cgi-bin/exitconf/internet_exitconf.pl?target=www.gpoaccess.gov/privacyact/index.html)
+##  Links to Other Sites
 
-**Privacy Impact Assessments**
+Our Web site has links to many other federal agencies. In a few cases we link to private organizations, with their permission. Once you follow a link to another site, you are subject to the privacy policy of the new site.
 
-> OMB Circular A-11, Exhibit 300 [Privacy Impact Assessments](https://web.archive.org/web/20090916211935id_/http%3A//www.uspto.gov/web/doc/privacy_pia.htm)   
->  [Systems of Records Notices ](https://web.archive.org/web/20090916211935id_/http%3A//www.uspto.gov/web/doc/privacy_sorn.htm)
+##  Privacy Act Systems of Records
 
-| Protect Yourself Against Identity Theft! 
+Where this site requests information that will be stored in a Privacy Act system of records, an individual Privacy Act notice is provided. Should there ever be a need to use information for a purpose other than one already provided for under the Privacy Act, we will give you specific instructions on how you may consent to such use. You are never required to give such consent.
 
-**To Our USPTO Customers:**
+Information stored in any Privacy Act System of Records is handled as set forth in the applicable System of Records Notice in order to preserve its security and confidentiality. Privacy Act System of Records notices are available at: [http://www.gpoaccess.gov/privacyact/index.html](https://web.archive.org/cgi-bin/exitconf/internet_exitconf.pl?target=www.gpoaccess.gov/privacyact/index.html)
+
+##  To Our USPTO Customers
+
+**Protect Yourself Against Identity Theft!**
 
 When filing documentation in support of applications or petitions, please take steps to protect all personal information. “Personal information” includes social security, credit card and banking account numbers. **This type of personal data is never required by the USPTO to support a petition or application.**
 
-To protect your privacy, we suggest that you delete such information from any documentation you send the office. Alternatively, you may request that the submissions be kept out of the public file, if appropriate. (See [MPEP Sections 724. 02 to 724.06](http://www.uspto.gov/web/offices/pac/mpep/documents/0700.htm).)
+To protect your privacy, we suggest that you delete such information from any documentation you send the office. Alternatively, you may request that the submissions be kept out of the public file, if appropriate. (See [MPEP Sections 724. 02 to 724.06](https://web.archive.org/web/offices/pac/mpep/documents/0700.htm).)
 
-Please remember that all patent application files are published and made available to the public 18 months from the filing date, unless a non-publication request is made in the application. Additionally, all patented application files will become available to the public upon the grant of the patent.
+**Please remember that all patent application files are published and made available to the public 18 months from the filing date, unless a non-publication request is made in the application. Additionally, all patented application files will become available to the public upon the grant of the patent.**
 
-If you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO, please call the Inventors Assistance Center at   
-**1-800-786-9199**   
+If you have questions about what information may be published and how to remove the material from documents you plan to submit to the USPTO, please call the Inventors Assistance Center at **  
+1-800-786-9199**   
 or **571-272-1000**   
-**TTY:  571-272-9950**.
+TTY: **571-272-9950**.
