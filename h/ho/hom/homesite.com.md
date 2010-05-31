@@ -1,18 +1,6 @@
-> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homesite.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531052716id_/http%3A//www.homesite.com/privacy-policy/index.htm) for the most accurate reproduction.*
 
 # Homesite's Privacy Policies
-
-|  |   
----  
-ABOUT HOMESITE  
-  
-  
-[Careers](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/homesite-careers.html)  
-[Our Commitment to Customers](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/customers.html)  
-[News](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/insurance-news.html)  
-[Corporate Responsibility](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/corporate-responsibility.html)  
-[Contact Us](https://web.archive.org/web/20090418215155id_/http%3A//www.homesite.com/contact-us.html)  
-| 
 
 At Homesite, we respect the privacy of our customers and website visitors. This policy statement is intended to inform you about our policies with respect to the collection of personal information and how it is used at Homesite. The personal information you provide is primarily used to enhance your relationship with us, and to better serve the collective needs of our visitors and customers. We recognize that this information belongs to you and must be treated accordingly. This policy applies to [www.homesite.com](http://www.homesite.com/) and all other websites owned and operated by Homesite Group Inc.
 
@@ -35,7 +23,7 @@ Homesite does not use cookies to retrieve information from a visitor's computer 
 An IP address is a number that's automatically assigned to your computer whenever you are connected to the Internet. Web pages automatically identify your computer by its IP address. Homesite collects IP addresses for the purposes of system administration, to report aggregate information to our advertisers, and to audit the use of our site. When visitors request pages from Homesite, our servers log the user's IP addresses. We do not normally link IP addresses to anything personally identifiable, which means that a user's session will be logged but the user remains anonymous to us. We will use IP addresses to identify a user when we feel it is necessary to enforce compliance with our house rules or terms of service, or to protect our service, site, customers or others.
 
 **Business Transfers  
-** As we continue to develop our business, we may sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Homesite, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
+**As we continue to develop our business, we may sell or buy stores or assets. In such transactions, customer information generally is one of the transferred business assets. Also, in the unlikely event that Homesite, or substantially all of its assets are acquired, customer information will of course be one of the transferred assets. 
 
 **Children's Guidelines**  
 Homesite encourages parents and guardians to spend time online with their children. No information should be submitted to Homesite by guests under 18 (eighteen) years of age without the consent of their parent or guardian. Whenever possible, Homesite will not collect online contact information or personally identifiable offline contact information of individuals under 18 (eighteen) years of age without prior parental consent. Homesite will not give the ability to publicly post or otherwise distribute personally identifiable contact information of individuals under 18 (eighteen) years of age without prior parental consent.
@@ -43,13 +31,16 @@ Homesite encourages parents and guardians to spend time online with their childr
 **Links to Other Sites**  
 Guests should be aware that when you are visiting any of Homesite's sites, you might be directed to other sites that we do not control. This may include public information sites, partners, advertisers and sponsors. These sites may have their own policies regarding privacy, the collection of personal information and use of cookies. Homesite is not responsible for the privacy practices or content of such other web sites.
 
+**Advertising**  
+We use third-party advertising companies to serve ads on sites on which we advertise. Third-party advertising technology (1) uses information derived from your visits to this Web site and the sites on which we advertise to serve ads to you and (2) places a unique third-party cookie or cookies on your browser. We also use Web beacons, provided by third-party advertising companies, on both our Web site and on other sites, to help manage and optimize our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site and to learn which banner ads bring users to our Web site. Cookies and Web beacons also enable us to deliver more relevant ads to users. To "opt-out," please [click here](http://www.doubleclick.com/privacy/index.aspx). Although we believe that each of the sites to which we target our ads or from which we otherwise collect data should post a privacy statement that fully describes the advertising and data collection activities on its site, we cannot guarantee that all of those sites post such a statement. 
+
 **Contacting Homesite**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact us online at [info@homesite.com](mailto:info@homesite.com). You can also reach us by mail at:  
- **Homesite Group Inc.  
+**Homesite Group Inc.  
 99 Bedford Street  
-Boston, Ma 02111**
+Boston, MA 02111**
 
 **Acceptance of These Terms  
-** By using this site, you signify your consent to Homesite's Privacy Policies. If you do not agree to these policies, please do not use this site. We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this policy from time to time. Your continued use of this site and others that may be owned by Homesite following the posting of changes to these terms will mean you accept those changes. Any changes to this privacy policy will be promptly disclosed in this area.
+**By using this site, you signify your consent to Homesite's Privacy Policies. If you do not agree to these policies, please do not use this site. We reserve the right, at our discretion, to update, change, modify, add, or remove portions of this policy from time to time. Your continued use of this site and others that may be owned by Homesite following the posting of changes to these terms will mean you accept those changes. Any changes to this privacy policy will be promptly disclosed in this area.
 
-| 
+Take a few minutes to get a free, no obligation [homeowners insurance quote](https://web.archive.org/web/20100531052716id_/http%3A//www.homesite.com/homeowners-insurance/homeowners-insurance-quote.htm), and see just how affordable our rates can be.
