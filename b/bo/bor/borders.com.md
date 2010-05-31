@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630094424id_/http%3A//www.borders.com/online/store/CustomerServiceView_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borders.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531051730id_/http%3A//www.borders.com/online/store/CustomerServiceView_privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Borders - Books, Music and Movies
 
