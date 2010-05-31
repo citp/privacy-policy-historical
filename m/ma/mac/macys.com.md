@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429074802id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macys.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531055331id_/http%3A//www1.macys.com/service/start/safeshopping/privacy.jsp) for the most accurate reproduction.*
 
 # Customer Service - Getting Started - Safe Shopping - Privacy Policy - Macy's
 
 This policy was last updated on August 19, 2008.
 
-This website is operated by macys.com, and this privacy policy applies to this website only. To view the separate privacy policy that applies to your Macy's credit card and to read more information about our credit services, please [click here.](http://www1.macys.com/service/credit/privacy_dnsbank.jsp "click here.")
+This website is operated by macys.com, and this privacy policy applies to this website only. To view the separate privacy policy that applies to your Macy's credit card and to read more information about our credit services, please [click here.](https://www.macys.com/service/credit/privacy_dnsbank.jsp "click here.")
 
 At macys.com, we respect our customers and understand that you are concerned about privacy. We post this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the data you provide to us.
 
