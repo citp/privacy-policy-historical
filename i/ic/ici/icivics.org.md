@@ -1,0 +1,51 @@
+> *The following text is extracted and transformed from the icivics.org privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531150738id_/http%3A//icivics.org/privacy) for the most accurate reproduction.*
+
+# Privacy Policy | iCivics
+
+iCivics Inc. (“iCivics”) is firmly committed to respecting the privacy rights of all visitors to our website at [www.icivics.org](http://www.icivics.org/ "www.icivics.org") or any successor website (the ‘”Website”). The following privacy policy (the “Privacy Policy”) applies when you make a donation to iCivics, either online or otherwise, as well as when you visit the Website, or otherwise share your personal information with iCivics.  Please read this Privacy Policy carefully as we wish to help you better understand the information we gather, how we handle it, whether we disclose it to anyone, and your options regarding our use of, and your ability to correct, this information. This Privacy Policy may be modified from time to time in order to address new issues and reflect changes on our Website. All changes will be posted here. By accessing, using or visiting the Website, you agree to be bound by all the terms and conditions of this Privacy Policy as posted at the time of your access, use or visit. If you do not agree with this Privacy Policy, please stop using this Website. We can provide hard copies of this Privacy Policy upon request.
+
+## what personal information we collect
+
+Our Website allows visitors and members to learn about and interact with iCivics. iCivics collects personal information about you such as your name and email address only if you voluntarily submit it to us. We automatically collect other information relating to your visit to our Website, such as your IP address, the server into which your computer is logged on, your browser type, operating system, browser language, and service provider. We may store and use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze usage of the Website, and improve our Website's content, layout, and services.  If you receive communications from us, it is because we believe you may be interested in the events and activities of the iCivics. If you prefer not to receive promotional e-mail messages or other communications from us, please reply to the e-mail message with "remove" in the subject line or write to us asking to have your name removed from our mailing list and we will do so.
+
+## how we collect your personal information
+
+iCivics obtains information from you either by you typing in your personal details or by the automatic collection of information through Google Analytics as you use the Website. We collect and store this information and use it for the purposes for which you submitted it. In addition, we may use such information to improve our marketing and promotional efforts, keep you updated about our work, analyze Website usage, and improve our Website's content, layout, and services. We do not currently share this information with any third parties, except those that assist us with certain operational functions, as described below.
+
+##  **disclosure of your information to third parties**
+
+iCivics reserves the right to employ companies to assist us with such functions as hosting our donor information database, sending postal mail and e-mail, modeling our data, organizing fundraiser events, processing online and mail donations and credit card payments and to perform various administrative tasks. These companies may have access to personally identifying information about you, but only to the extent needed to perform their functions. iCivics requires that these companies keep such information confidential and used only for the purpose authorized by you.
+
+## disclosure of your identity on our website
+
+If you become a member of iCivics, you will have a secure public name that will be displayed to other users. We ask that users not post information pertaining to their identity or other personal items on our site.  It is iCivics policy not to disclose your personal information on this Website or anywhere else, however, please be advised that we may disclose personally identifying information about you to the government or to third parties pursuant to law enforcement inquiries, court orders, subpoenas and similar requests, or when we otherwise believe in good faith that such disclosure is necessary or appropriate in connection with any activity that violates the law or may expose us to liability.
+
+## security
+
+The personally identifying information that you provide is stored in a secure location, including on password controlled servers which are accessible only by designated employees who are trained in the proper handling of such personally identifying information. You should be aware, however, that "perfect security" does not exist on the Internet; third parties may unlawfully intercept or access transmissions or private communications and iCivics makes no representation, warranty or guarantee that our Website is protected from viruses, security threats or other vulnerabilities or that your information will always be secure. You hereby acknowledge that we are not responsible for any intercepted information sent via the Internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner. If we become aware of any security breach which we know has resulted in unauthorized access of your personally identifying information, then we will endeavor to inform you of that breach as soon as it is practicable for us to do so.
+
+## cookies
+
+Cookies are small text files that a website transfers to a website visitor's hard disk or browser for added functionality, or for tracking website usage. iCivics reserves the right to use cookies in a limited capacity (e.g., cookies "expire" at the end of your user session). Our cookies do not capture or store any personally identifying information about you, or any data about your past usage of our Website. We use information captured by cookies only for blind statistical analysis, and to tailor our communications with the public.
+
+## NOTE TO PARENTS AND CHILDREN 
+
+iCivics welcomes children to learn more about our organization and about the educational issues presented on our Website, and we are particularly respectful of the privacy of our young users. We encourage parents to monitor their children's use of the Internet and to help us protect their privacy by instructing them never to provide personal information on this Website or any other without permission. We will never attempt to extract unnecessary information from our users, regardless of age. Consistent with the Children's Online Privacy Protection Act of 1998 ("COPPA"), we will never knowingly request personally identifying information from anyone under the age of 13 without prior verifiable parental consent. If a child under the age of 13 wishes to sign up for a user account on our Website, he or she must first obtain parental approval and provide a parent's email address for confirmation. As soon as we receive email confirmation from the parent's email address approving the child's user account, we will activate the account.  If we become aware that a child under 13 has provided us with such information without consent, we will use our best efforts to remove such information from our files. If a parent or guardian becomes aware that a child under 13 has provided such information to us, he or she should contact us at [jjc232@law.georgetown.edu](mailto:jjc232@law.georgetown.edu) so that we may deactivate the user account and remove all personally identifying information from our Website and servers.
+
+## privacy policy changes
+
+We may change this Privacy Policy from time to time, so it is advisable to review it frequently. Changes to this Privacy Policy will be announced on our Website, and all amended terms shall automatically be effective immediately.
+
+## contact information
+
+If you have questions about our handling of personal information, you may write to us at [jjc232@law.georgetown.edu](mailto:jjc232@law.georgetown.edu) or at the address below.
+
+## mailing address
+
+iCivics, Inc. is a 501(c)(3) tax-exempt nonprofit located at 600 New Jersey Ave, NW McDonough Hall 336 Washington DC 20001.
+
+This privacy policy is effective as of May 16, 2010.
+
+## governing law
+
+You agree that your use of this Privacy Policy and any disputes relating thereto shall be governed in all respects by the laws of the State of New York. Any dispute relating to this Privacy Policy shall be resolved solely in the state or federal courts located in Manhattan, New York. This Privacy Policy was last updated on May 21, 2010.
