@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2009-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090822020144id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bea.gov privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531190339id_/http%3A//www.bea.gov/about/Privacy_Statement.htm) for the most accurate reproduction.*
 
 # BEA : Web Privacy Policy
 
@@ -42,8 +42,6 @@ You have rights under the Privacy Act and the Freedom of Information Act. The Le
 
 
 Questions concerning our privacy policy may be addressed to [webmaster@bea.gov](mailto:webmaster@bea.gov). If you believe this site has not adhered to these principles, please notify us by e-mail at [webmaster@bea.gov](mailto:webmaster@bea.gov). 
-
-Last updated: Friday, August 08, 2008 
 
 | 
 
