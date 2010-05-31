@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226000939id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iboats.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531034107id_/http%3A//www.iboats.com/aboutus_privacy.html) for the most accurate reproduction.*
 
 # About iboats.com - Privacy Policies
 
@@ -12,7 +12,7 @@ Suite 100
 Draper, UT 84020  
 USA
 
-We can be reached via e-mail by [clicking here](http://www.iboats.com/contactus.html), or you can reach us by telephone at **800-869-1686** or **801-571-0071**.
+We can be reached via e-mail by [clicking here](http://www.iboats.com/contactus.html), or you can reach us by telephone at **1-800-914-1123** or **801-571-0071**.
 
   * Overall Privacy Policy
   * Detailed Privacy Policy Regarding Information Collected On Our Site
