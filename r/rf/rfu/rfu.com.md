@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129020452id_/http%3A//www.rfu.com/aboutTheRFU/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rfu.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531174012id_/http%3A//www.rfu.com/aboutTheRFU/privacy) for the most accurate reproduction.*
 
 # Rugby Football Union Privacy Policy
 
