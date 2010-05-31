@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the talentnow.com privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414215740id_/http%3A//talentnow.com/Public/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talentnow.com privacy policy that was archived on 2010-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100531061645id_/http%3A//www.talentnow.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Welcome to Talentnow
+# talentnow: Privacy Policy
 
 Talentnow has created this privacy policy to demonstrate our commitment to protect your personal information and educating you on how we use it. This policy applies to activities in which you engage, and data collected, on Talentnow ("Talentnow" or "Talentnow.com") or through email campaigns performed on our customers’ behalf (collectively, the "Site") but does not apply to any other Website or offline point of contact between Talentnow, or any other company, and consumers. Please review this policy periodically as we may modify it from time to time. Each time you visit Talentnow or provide us with information, by doing so you are accepting the practices described in this policy at that time.
 
@@ -104,4 +104,4 @@ Talentnow reserves the right to modify this privacy policy at its sole discretio
 
 Contacting the Web Site
 
-We strive to do everything we can to protect the privacy of our users. Please feel free to share your feedback with us. Please write to [privacy@talentnow.com](mailto:%20privacy@talentnow.com) If you have any questions about this privacy policy.
+We strive to do everything we can to protect the privacy of our users. Please feel free to share your feedback with us. Please write to [ privacy@talentnow.com](mailto:%20privacy@talentnow.com) If you have any questions about this privacy policy.
