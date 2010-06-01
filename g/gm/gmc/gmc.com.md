@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927125857id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gmc.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601154356id_/http%3A//www.gm.com/privacy) for the most accurate reproduction.*
 
 # 
 
-### New Privacy Statement for a new company – General Motors Company
+### Privacy Statement for General Motors Company
 
-### Effective July 10th, 2009
+### Effective February 23, 2010
 
-**On July 10th, 2009, General Motors Corporation, Saturn, LLC, Saturn Distribution Corporation and Chevrolet-Saturn of Harlem, Inc., sold most of their assets to a new legal entity, General Motors Company. These companies will be transferring personal information about you (for example your contact information and vehicle purchase history) to General Motors Company. General Motors Company has substantially the same privacy policies in place as General Motors Corporation did.**
+**For Your California Privacy Rights[click here](https://web.archive.org/privacy/california.jsp).**
 
-**For General Motors Corporation statement on Your California Privacy Rights[click here](https://web.archive.org/privacy/california.jsp).**
+On February 23, 2010, General Motors Company expects to transfer control and ownership of the SAAB brand to SAAB Cars North America, Inc., an affiliated company of Saab Spyker Automobiles. Once that transfer is complete, personal information about SAAB customers collected prior to February 23, 2010 will be shared with SAAB Cars North America, Inc. The SAAB Cars North America, Inc. Privacy Statement is available on [SaabUSA.com.](http://www.saabusa.com/)
 
 Your privacy is important to General Motors Company (GM), as is your trust in GM products and services. We want you to know that the information you share with us will be treated with care.
 
 GM's Privacy Statement for U.S. Consumers lets you know how we handle personally identifiable information you share with GM through gm.com and certain other GM Websites (e.g., GMGoodwrench.com or Chevrolet.com); at events; on Business Reply Cards (BRCs) and sweepstakes entries; and through our customer call centers. It also applies to information about you and your vehicle we obtain from GM affiliates, GM dealers, GM licensees for consumer merchandise, GM credit card bank partners, and other sources such as those that provide lists of potential vehicle purchasers, current owners, or potential cardholders. We have also included answers to frequently asked questions about features of GM vehicles that record and transmit data regarding vehicle functions. Some GM Websites have supplemental information on privacy, and others have their own privacy statements, which may be accessed at those Websites. (Click for details on the Scope of the Statement).
 
-The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. **We will not share your personal information with third parties other than these, or with any third party for their independent use without your permission.**
+The information you share with us may be used by GM, our affiliates, our licensees, and dealers. It may be used by our suppliers exclusively to provide services for GM, and by our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. **We will not share your personal information with third parties other than these for their independent use without your permission.**
 
-For more information, please read GM's New Privacy Statement for U.S. Consumers. For Frequently Asked Questions about privacy, please click here. For information about how to opt-out of being contacted by GM for marketing purposes click here.
+For more information, please read GM's Privacy Statement for U.S. Consumers. For Frequently Asked Questions about privacy, please click here. For information about how to opt-out of being contacted by GM for marketing purposes click here.
 
 ### Scope
 
@@ -64,7 +64,7 @@ Information about you or your vehicle may be used to respond to your requests fo
 
 We may share information about you and your vehicle within GM, with our affiliates, and with our dealers. GM may also share personal information collected with our suppliers for the exclusive purpose of providing services for us (for example, mailing information in response to your request for a vehicle brochure) and with our business partners to conduct joint marketing programs with GM. It may also be shared in connection with the sale, transfer or financing of a significant part of a GM business. Information regarding your GM Card will not be shared with GM dealers.
 
-**GM will not share information about you or your vehicle with any third party for their independent use without your permission.**
+**GM will not share information about you or your vehicle with other third parties for their independent use without your permission.**
 
 You may choose to forward information from one of our Websites or e-mails to another person. E-mail addresses submitted to our E-card or other Forward to a Friend program will not be captured for later use in marketing unless that person consents.
 
@@ -94,7 +94,7 @@ If you have concerns or questions regarding GM's consumer privacy practices, ple
 
 We retain the right to change this Privacy Statement. We will post changes to this page in a timely manner.
 
-This statement is effective as of 7/10/2009.
+This statement is effective as of 2/23/2010.
 
 ### Supplemental Privacy Information
 
@@ -110,9 +110,9 @@ Privacy Inquiries \- For inquiries about how the information you submit to the I
 
 Personal Information Collection \- We may request personal information at certain points during your visit to Saturn's Websites. In addition to the information described in the Personal Information section above, this information may include vehicle service information; information regarding when you plan to purchase a new vehicle; your opinions for certain polls; and stories about your Saturn. Providing any information on Saturn's Websites is optional. In our E-card service, we ask for the e-mail addresses of your friends to send E-cards ; e-mail addresses submitted to this service will be used ONLY for sending the E-cards.
 
-Correcting Your Information \- You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Website by using [My Profile](http://www.saturn.com/mysaturn/). These updates will only affect your data at the Saturn Website or call-center database.
+Correcting Your Information \- You may correct the contact information (name, address, phone number, and e-mail address) you provide on the Saturn Website by using [My Profile](http://www.saturn.com/pages/mds/owners/landing.do). These updates will only affect your data at the Saturn Website or call-center database.
 
-Privacy Inquiries \- If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/saturn/footer/contactus/index.jsp) page or by writing to us at: Saturn Customer Assistance Center, PO Box 33173, Detroit, MI 48232-5173.
+Privacy Inquiries \- If you have a question or concern about the privacy practices of the Saturn.com Website, please contact us by sending an e-mail from the [Contact Us](http://www.saturn.com/helpcenter/contact/) page or by writing to us at: Saturn Customer Assistance Center, PO Box 33173, Detroit, MI 48232-5173.
 
 Correcting Your Information \- You may correct your contact information (name, address, phone number and e-mail address) by logging onto gmcard.com, gmflexcard.com, gmextendedfamily.com or gmbusinesscard.com and going to the "Account" or "Online Banking" portion of the Website. You can also call the Customer Center respective to your Account.
 
@@ -149,7 +149,7 @@ What are "GM affiliates"?
 
 ### A: 
 
-As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, Saab, GMAC, GMAC Insurance, Nuvell Credit Company LLC, Nuvell Financial Services LLC and OnStar.
+As used in this privacy statement, GM affiliates are companies that are owned or controlled by GM, or those companies in which GM has a substantial ownership interest. Some examples include Saturn, GMAC, GMAC Insurance, Nuvell Credit Company LLC, Nuvell Financial Services LLC and OnStar.
 
 ### Q2: 
 
