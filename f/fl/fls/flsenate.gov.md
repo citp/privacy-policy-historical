@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515213458id_/http%3A//flsenate.gov/cgi-bin/View_Page.pl%3FFile%3Dprivacy.html%26Directory%3DPublications/General/%26Tab%3Dinfo_center%26Submenu%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flsenate.gov privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601023256id_/http%3A//www.flsenate.gov/cgi-bin/View_Page.pl%3FFile%3Dprivacy.html%26Directory%3DPublications/General/%26Tab%3Dinfo_center%26Submenu%3D4) for the most accurate reproduction.*
 
 # Information Center :Frequently Asked Questions : : flsenate.gov
 
