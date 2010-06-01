@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the radiolab.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221234141id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radiolab.org privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601082652id_/http%3A//www.wnyc.org/about/privacy.html) for the most accurate reproduction.*
 
 # WNYC - About WNYC
 
