@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223163043id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifc.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601052331id_/http%3A//www.ifc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - IFC.com
 
