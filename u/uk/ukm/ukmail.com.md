@@ -1,79 +1,48 @@
-> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2005-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20051218080337id_/http%3A//www.everyone.net/main/html/p_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ukmail.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602004530id_/http%3A//www.ukmail.com/privacy.html) for the most accurate reproduction.*
 
-# Everyone.net - Agreements - Privacy Policy
+# UK Mail | Privacy Policy
 
-   
-| Agreements   
-|    
+PRIVACY POLICY 
+
+This page states our Privacy Policy for our Website located at [www.ukmail.com](http://www.businesspost.com/) (the “Website”).
+
+**General**  
+UK Mail facilitates the delivery of important letters, parcels and documents. As such, personal information will be required from you if you wish to use our Website for purposes including the use of our online credit card payment facility.   
+Your privacy is important to us. This privacy policy is intended to give you confidence in the privacy and security of the personal information we obtain from you whether you are merely visiting our Website, or are making a payment using our online credit card facility. However, please note that we are not responsible for any use of your personal information in respect of third party websites that may be accessed via this Website. You will therefore need to review the privacy policy of any third party websites that you use.
+
+**Collection of Personal Information  
+** When you access our Website, cookie information pages you have requested and your IP address may be recorded by us and/or third parties from your browser as set out in this policy [http://www.ukmail.com/privacy.html](https://web.archive.org/web/20100602004530id_/http%3A//www.ukmail.com/privacy.html).  
+If you use this Website you may be asked for personally identifiable information such as your name and address. By giving us such information you will need to consent to our using it in the manner described in this policy. On-line credit and debit card payments to UK Mail are made through a third party provider and will require us to share personal information with Close Credit Management Limited. It is important that you review their Privacy Policy at Close Credit Management Limited’s website,www.paicheck.com before using the online payment facility.  
+You may withdraw your consent at any time by emailing us at [marketing@ukmail.com](mailto:marketing@ukmail.com)  
+
+**Use of Personal Information  
+** We may use your information to provide access to privileged areas of the Website, personalise your visit to our Website, to enable us to review, develop and improve the products, services, and special offers we provide online, as well as to administer any payment request that you may wish to make.   
+We may occasionally carry out market research and send you details of services and offers that we think will be of interest to you. If you do not wish to receive such information, please email us at [marketing@ukmail.com](mailto:marketing@ukmail.com)
+
+**Disclosure of Personal Information  
+** We may provide information about you to employees and agents of UK Mail to administer any accounts, products and services provided to you by UK Mail.
+
+We will not disclose your personal information to any third party unless you have consented to such disclosure or where we are required to do so by law. Should you breach our terms and conditions or terms of use or if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, we may disclose your information to a relevant authority. This may include exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.  
+Any disclosure of personal information will be strictly controlled and made fully in accordance with current UK legislation, in particular the UK Data Protection Act 1998 (the Act). For the purpose of the Act, the data controller is UK Mail Group PLC, Express House, 464 Berkshire Avenue, Slough, Berkshire, SL1 4PL. 
+
+**Right to access your Personal Information  
+** The Act gives you the right to access information held about you. You can obtain access to your personal information held by us by sending a cheque for £10 (to cover administration costs for collating this information), made payable to "UK Mail Group PLC", to: Data Protection Officer, UK Mail Group PLC, Express House, 464 Berkshire Avenue, Slough, Berkshire, SL1 4PL. 
+
+**Cookies  
+** We may create and access cookies (a piece of information like a "tag" which is stored on your computer and allows us to identify if you have visited the Website before) on your PC. Third party advertisers may also create and access cookies, which will be subject to their privacy policies - we accept no responsibility or liability for the use of such third parties' cookies. If you do not wish cookies to be placed on your PC, then they can be disabled in your web browser. The option to do so is normally found in your browser's "security settings" section. However, please note, permanently disabling cookies in your browser may hinder your use of our Website as well as other websites and interactive services.
+
+**Security  
+** At UK Mail we take security very seriously including the use of the online credit card payment facility operated by Close Credit Management Ltd. Your browser will go into secure mode before you enter any payment details. You can check that you are making such payments in a secure environment by looking for either a locked padlock or a key icon in the grey bar at the bottom of your screen or when the address bar goes green.
+
+Being in 'secure mode' means that all of your details are encrypted to help keep them secure. Encryption creates billions of code combinations to protect each transaction made on our Website, so your card details cannot be viewed by anyone else using the Internet.  
+No credit or debit card details are stored on our servers once your initial payment has been processed. They are stored securely with Close Credit Management Ltd. Once on their systems, all sensitive data is secured using internationally recognised 256-bit encryption standards. The encryption keys are held on state-of-the-art, tamper proof systems in the same family as those used to secure VeriSign's Global Root certificate, making them all but impossible to extract. The data they hold is extremely secure and they are regularly audited by the banks and banking authorities to ensure it remains so.
+
+If you have any further concerns about security, please email our Customer Service team at   
+[marketing@ukmail.com](mailto:marketing@ukmail.com) or call our Customer Service team on 08451 552 552. 
+
+**Policy Changes  
+** Changes in this policy will be posted on our Website. You are advised to check our Website regularly to view our most recent privacy policy.  
+
+
   
----|---|---  
-   
-[Agreements](https://web.archive.org/web/20051218080337id_/http%3A//www.everyone.net/main/html/agreements.html) > Privacy Policy  
- 
 
-  If you have questions or concerns regarding this Policy, you should first [contact Everyone.net](https://web.archive.org/web/20051218080337id_/http%3A//www.everyone.net/main/html/contact.html).
-
-  Everyone.net® Incorporated ("Everyone.net") has the following Privacy Policy with respect to information gathered on Web pages hosted by Everyone.net ("Service Pages"). Such information is received by both Everyone.net and the owner of the Web site through which you may have requested Everyone.net services (the "Client"). You should contact the Client to determine the privacy policy, if any, that applies to the Client's collection and use of such information. However, in no event shall Everyone.net be liable for the Client's use or disclosure of such information.
-
-  The terms "we" and "us" refer to Everyone.net.
-
-  **The Information We Collect**
-
-  This notice applies to all information collected on the Everyone.net Web site or submitted to Everyone.net at any time through any Service Pages.
-
-Personally Identifiable Information-When visiting Everyone.net's or any Client's Web site and signing up for or using Everyone.net services through any Service Page, you may choose to supply Everyone.net with information that identifies you personally. For **End-Users** , this information may include your name and contact information, gender, birth date, occupation and industry, shipping and billing information, credit card numbers and other payment information, behavior patterns, purchase history, and other information. For **Clients** , this information may include the Client's name and contact information, the Client's Web site information (name, URL, visitors per day, page views per month, description, categorization), payment information (check payee, SSN/Tax ID, bank information), and user comments. We also collect **prospect information** from our End-Users, which may include name and contact information of individual(s) you think would be interested in our services.
-
-  Aggregate Information—We collect non-identifying and aggregate information to better design our Web site and services, and share the aggregate data with advertisers and other third parties.
-
-  Each of Everyone.net's Clients has access to information specific only to that Client's site(s). Each Client will determine what it will do with the collected information; however, each Client has individually agreed to abide by this Privacy Policy and the Everyone.net End-User Agreement.
-
-  **Collection of Personal Information from Children under Thirteen**
-
-  Everyone.net does not allow children known to be under the age of thirteen (13) to register for our services. We may momentarily capture personally identifiable information for purposes of determining whether a user is over the age of thirteen (13) and thus qualifies to use our services. Where the user is under the age of thirteen (13), such information is automatically deleted.
-
-  **The Way We Use Information**
-
-  We use the information you provide about yourself or others to complete the transaction for which the information is intended. Such transactions may include: administering a service, such as email, search, advertising sales, ecommerce; completing an order; shipping a product; replying to support requests; or contacting you if you have granted us permission to do so. Except as provided in this Privacy Policy and the End-User Agreement, we do not share this information with outside parties without your permission except to the extent that is necessary to administer the services we offer our Clients and End-Users or to comply in responding to subpoenas, court orders or other legal proceedings.
-
-  From time to time, we also use the information you provide about yourself or others to inform you of additions or improvements to the Everyone.net services as well as conduct member surveys in order to improve our services. These communications will only be sent to the administrative account. 
-
-Through our Everyone Benefits program customers can receive information about third party services that are likely to be of interest. Users of our free service will initial be opted in to this program while customers signing up any of our paid service can choose to opt in. Customers can opt out of our Everyone Benefits program by clicking on the link provided in the email or by visiting our site and opting out.
-
-We may also use personally identifiable End-User information to provide targeted content and commerce opportunities to End-Users based on their demographic and behavioral information.
-
-Finally, we never use or share the personally identifiable information provided to us online in ways or for reasons unrelated to the ones described above without also providing an opportunity to opt-out or otherwise prohibit such unrelated uses.
-
-  **Our Commitment to Data Security**
-
-  To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures reasonably designed to safeguard and secure the information we collect online.
-
-We use SSL (Secure Socket Layer) encryption to secure personal identification. In addition, personnel who have access to our database are trained to maintain and secure all information.
-
-   **How You Can Access or Update Your Information**
-
-  **Clients** can access their personally identifiable information that Everyone.net collects online and maintains by logging in to their password-protected (SSL encrypted) Control Center account at [http://www.everyone.net](http://www.everyone.net/) and selecting "Edit My Profile." **End-Users** can access their information by logging in to their password-protected End-User account and selecting to update their "Personal Info." End-Users and Clients can also correct factual errors in their personally identifiable information by sending us a written request that credibly documents and explains the error.
-
-If you have submitted information on our site but do not currently have an account with us, you can access and correct the information that we collect and maintain by contacting us and requesting such information or correction.
-
-To protect your privacy and security, we will take reasonable steps to verify your identity before granting access or making corrections to your information.
-
-  **How to Contact Us**
-
-  Should you have other questions or concerns about this privacy policy, please [contact us online](https://web.archive.org/web/20051218080337id_/http%3A//www.everyone.net/main/html/contact.html) or via postal mail: 2635 N. First St., Suite 128, San Jose, CA 95134-2041.
-
-  **Email, and Search Specific Terms and Conditions**
-
-  Everyone.net considers email transmitted via our service to be private correspondence between the sender and recipient. Therefore, we will not monitor, edit or disclose the contents of your private communications, except for reasons provided for in the [End-User Agreement](https://web.archive.org/web/20051218080337id_/http%3A//www.everyone.net/main/html/agreement_enduser.html).
-
-  Content posted to public community areas is publicly available, and Everyone.net reserves the right to remove any publicly posted content that it deems to be objectionable.
-
-  **Advertising Sales Specific Terms and Conditions**
-
-  We use third-party advertising companies to serve our ads on our Web site. These third-party advertising companies employ cookie and 1x1 pixel . gifs or web beacons to measure and improve the effectiveness of ads for their clients. To do so, these companies may use anonymous information about your visits to our website and other websites. This information can include: date/time of banner ad shown, the banner ad that was shown, their cookie, the IP address. This information can also be used for online preference marketing purposes.
-
-If you want to prevent a third-party advertiser from collecting data, currently you may either visit each ad network's web site individually and opt out or visit the NAI gateway opt-out site to opt-out of all network advertising cookies. [Click here](http://www.networkadvertising.org/optout_nonppii.asp) for the NAI gateway opt-out site. This site will also allow you to review the third-party advertising companies' privacy policies.
-
-  For more information on how Accipiter manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.accipiter.com/about/privacy.php>. For more information on how DoubleClick manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.doubleclick.com/us/about_doubleclick/privacy/>. For more information on how Advertising.com manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.advertising.com/Privacy.html>.  
-For more information on how Opt-Inlligence manages the privacy of information in conjunction with serving ads on our network, please visit <http://opt-intelligence.com/privacy.html>. 
-
-For more information on how Advenix manages the privacy of information in conjunction with serving ads on our network, please visit <http://www.advenix.com/privacy.htm>. 
