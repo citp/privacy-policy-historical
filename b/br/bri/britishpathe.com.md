@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226095115id_/http%3A//www.britishpathe.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britishpathe.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601132334id_/http%3A//www.britishpathe.com/privacy.php) for the most accurate reproduction.*
 
 # British Pathe
-
-## Data Protection and Privacy Policy
 
 At British Pathe we respect your right to privacy and are committed to protecting the personal information that we ask you to supply to us. We will use the information we collect about you to process orders, to increase the efficiency and responsiveness of our website, for market research and for record keeping purposes.
 
@@ -10,11 +8,11 @@ We may use your personal information to inform you about the latest changes to t
 
 Please note that this Privacy Policy applies only to this site and not to web sites maintained by other companies or organizations to which we link.
 
-### What information do we ask for?
+## What information do we ask for?
 
 We will only collect personally identifiable information to the extent reasonably necessary to serve our legitimate business purposes, and we will maintain appropriate safeguards to ensure the security, integrity and privacy of the information you have provided. In addition, we will take reasonable steps to ensure that third parties to whom we transfer any data will provide sufficient protection of that personal information.
 
-### How do we use the information?
+## How do we use the information?
 
 When you request permission to download Image Files, we need to know your name, address and e-mail address.
 
@@ -34,19 +32,19 @@ To enforce legal rights and the law, we may also disclose information to law enf
 
 We also reserve the right to access and disclose personal information to operate our systems properly, or to protect ourselves and/or our users.
 
-### Protecting the information you give to us
+## Protecting the information you give to us
 
 When you place an order or access your account information, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Acts of 1984 and 1998, we follow strict security procedures in the storage and disclosure of information which you have given to us, to prevent unauthorised access.
 
-### Cookies
+## Cookies
 
 Most browsers accept cookies automatically, but you can set your browser to prevent this. If you choose not to accept our cookies, some services on our web site may not be as quick or responsive as they might. If you wish to receive information about how to opt out from receiving cookies, email [info@britishpathe.com](mailto:info@britishpathe.com).
 
-Review, correction or deletion of information from our records
+Review, correction or deletion of information from our videos
 
 If for any reason you are concerned that the personal information maintained by British Pathe is not correct, or it changes or if you no longer desire our service we will endeavor to provide a way to correct, update or remove the data you have provided us with. This can be done by e-mailing us at [info@britishpathe.com](mailto:info@britishpathe.com).
 
-### Your consent
+## Your consent
 
 By using the site, you signify your assent to this Privacy Policy. If you do not agree to this policy, please do not use this site. We reserve the right to make changes to our Privacy Policy. Any change to the policy will be published on this page so that you are always aware of it. Your continued use of the site will signify your acceptance of these changes.
 
