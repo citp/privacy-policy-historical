@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085856id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewrap.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601164812id_/http%3A//www.thewrap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Wrap
+# Privacy Policy - TheWrap.com
 
 **Our Commitment To Privacy**
 
@@ -9,6 +9,16 @@ Your privacy is important to us. To better protect your privacy we provide this 
   **The Information We Collect**
 
 This notice applies to all information collected or submitted on the TheWrap.com website. On some pages, you can make comments, complete a user profile and register to receive newsletters and other digital messaging. The types of personal information collected at these pages are:
+
+      Name  
+      Address  
+      Email address  
+      Phone number
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here.](http://www.networkadvertising.org/managing/opt_out.asp)
+
+        
+**The Way We Use Information**
 
 We use the information you provide about yourself when interacting on the site only to provide you with the services you sign-up for and, in some cases, to validate your preferred point of delivery. We do not share this information with outside parties.
 
