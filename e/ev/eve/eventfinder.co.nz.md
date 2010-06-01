@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730021806id_/http%3A//www.eventfinder.co.nz/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601220807id_/http%3A//www.eventfinder.co.nz/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinder
 
@@ -34,7 +34,7 @@ This privacy policy covers the use of cookies by the Eventfinder Network and doe
 
 ### Changing or Removing Information
 
-Access and control over personal information on the Eventfinder Network is readily available through the profile editing tools on all Eventfinder Network web sites, including Eventfinder.co.nz and TheHive.co.nz. Eventfinder Network users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to cancel their Eventfinder Network account may do at any time. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Eventfinder.
+Access and control over personal information on the Eventfinder Network is readily available through the profile editing tools on all Eventfinder Network web sites, including eventfinder.co.nz. Eventfinder Network users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to cancel their Eventfinder Network account may do at any time. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Eventfinder.
 
 Your use of the Eventfinder Network, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.
 
