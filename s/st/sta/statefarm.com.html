@@ -1,7 +1,10 @@
-<!--The following is the downloaded HTML source of the statefarm.com privacy policy that was archived on 2009-11-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091128125052id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the statefarm.com privacy policy that was archived on 2010-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601174436id_/http%3A//www.statefarm.com/about/privacy/privacy.asp%3FWT.svl%3D82) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head><script type="text/javascript" defer="defer" src="https://ipinvite.iperceptions.com/Invitations/Javascripts/ip_Layer_Invitation_778.js"></script>
+	
+
+
 <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
 <title>Privacy Policies</title> 
 <meta name="language" content="en">
@@ -36,7 +39,7 @@
 <li><a href="http://www.statefarm.com/jscript/benter.htm?loc=http://www.statefarm.com/bank/bank.asp" accesskey="4" id="navBank">State Farm Bank® Full Service Financial</a></li>
 </ul>
 <!-- Search Box -->
-<form method="get" action="http://www.statefarm.com/search/SearchResults.asp" id="searchBox">
+<form method="get" action="javascript:validateSearch()" id="searchBox">
 <div>
 	<label for="searchInput" class="hidden">Search State Farm powered by Google.com</label>
 	<input type="text" id="searchInput" name="q1" onfocus="javascript:this.value='';" value="Search StateFarm.com">
@@ -47,6 +50,24 @@
 </div>
 </form>
 </div>
+
+<script type="text/javascript">
+	function validateSearch() { 
+		var sv = document.getElementById('searchInput');
+		if (sv.value == "Search StateFarm.com" || sv.value == "") { 
+			sv.value = ""; 
+			sv.focus(); 
+		}
+		else {
+			var f = document.getElementById('searchBox');
+			f.action = "http://www.statefarm.com/search/SearchResults.asp";
+			f.submit();
+		}
+	}
+	
+	document.getElementById('searchBox').action = "javascript:validateSearch()";
+</script>
+
 
 <!-- Primary Navigation -->
 
@@ -199,6 +220,7 @@ Personal Health Information</a>.
 	<li><a href="http://www.statefarm.com/about/terms/terms.asp#license">Licensing Information</a></li>
 </ul>
 </div>
+<!-- WebTrends include -->
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
 <!-- Version: 8.6.2 -->
@@ -226,6 +248,8 @@ _tag.dcsCollect();
 <div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsx42rco00000k3oklx7mhdf_6v4b/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.2"/></div>
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
+
+
 
 
 <!-- Footer -->
