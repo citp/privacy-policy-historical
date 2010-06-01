@@ -1,645 +1,292 @@
-<!--The following is the downloaded HTML source of the bmoinvestorline.com privacy policy that was archived on 2007-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071117151722id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bmoinvestorline.com privacy policy that was archived on 2010-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601073034id_/http%3A//www.bmo.com/privacy/index.html) for the most accurate reproduction.-->
 
-<html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content="">
-<meta name="keywords" content="">
-
-<!-- Popup Header -->
-		
-		
-
-
-
-
-
-
-<!-- End of Header-->
-
-<title>BMO Financial Group - Privacy</title>
-	
-	
-		<link href="/bmo/portal/views/PFstyle" type="text/css" rel="StyleSheet">
-	
-	
-
-<script language="JavaScript1.2">
-function openPopup(myUrl) {
-	top.name = "mainWindow";
-	if (myUrl == "advise") {
-		openPopup2(myUrl);
-		return;
-	}
-    myPopup=window.open( 'http://' + 'www.bmo.com' + '/cgi-bin/mortgage/' + myUrl + '.cgi','myPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=no,resizable=no,copyhistory=no,width=640,height=550');
-    if (navigator.appVersion.substring(0,1) >= '3'){
-        myPopup.focus();
-    }
-}
-
-function openPopup2(myUrl) {
-	top.name = "mainWindow";
-    myPopup2=window.open( 'http://' + 'www.bmo.com' + '/cgi-bin/t3bmo.cgi/mortgage/resources/' + myUrl + '.taf', 'myPopup2', ' toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=no,copyhistory=no,width=640,height=550');
-    if (navigator.appVersion.substring(0,1) >= '3'){
-        myPopup2.focus();
-    }
-}
-</script>
-
-	
-	<script language="javascript" type="text/javascript">
-	<!--- hide script from old browsers
-	function english() {
-			setCookie('homePage', 'english', '/',"");
-			document.location = '/';
-	}
-	-->
-	</script>
-	
-
-<script language="javascript">
-<!--- hide script from old browsers
-//*************************new edit for transition mloc 1c***********************//
-function getCookieValue(cookieName){
-	var cookieValue = document.cookie;
-	var cookieStartsAt = cookieValue.indexOf(" " + cookieName + "=");
-	
-	// check if cookie exists.  If cookie does not exist, do a second check at the beginning of the string
-	if (cookieStartsAt == -1){
-		cookieStartsAt = cookieValue.indexOf(cookieName + "=");
-	}
-	
-	if (cookieStartsAt == -1){
-		// coookie really does not exist
-		cookieValue = null;
-	}else{
-		cookieStartsAt = cookieValue.indexOf("=", cookieStartsAt) + 1;
-		var cookieEndsAt = cookieValue.indexOf(";", cookieStartsAt);
-		if (cookieEndsAt == -1){
-			// cookie is the last one in the string
-			cookieEndsAt = cookieValue.length;
-		}
-		cookieValue = unescape(cookieValue.substring(cookieStartsAt, cookieEndsAt));
-	}
-	return cookieValue;
-}
-
-
-function setCookie(cookieName, cookieValue, cookiePath, cookieDomain){
-	cookieExpires = new Date();
-	today = cookieExpires;
-	cookieExpires.setYear(cookieExpires.getYear() + 1);
-
-	cookieValue = escape(cookieValue);
-	
-	if (cookieExpires == "" || cookieExpires == null){
-		var nowDate = new Date();
-		nowDate.setMonth(nowDate.getMonth() + 1);
-		cookieExpires = nowDate.toGMTString();
-	}
-	
-	if (cookiePath == "" || cookiePath == null){
-		cookiePath = "";
-	}else{
-		cookiePath = "; path=" + cookiePath;
-	}
-	
-	if (cookieDomain == "" || cookieDomain == null){
-		cookieDomain = "";
-	}else{
-		cookieDomain = "; domain=" + cookieDomain;
-	}
-	document.cookie = cookieName + "=" + cookieValue + "; expires=" + cookieExpires + cookiePath + cookieDomain;
-}
-
-		homePgValue = getCookieValue('homePage');
-
-
-function validateAppNum(){
-var appString = document.form1.AppNumber.value;
-var tmp = appString.charAt(appString.length - 1);
-
-	if(document.form1.AppNumber.value == ""){
-		alert("Application Number is required.");
-		return;
-	}
-	else if(document.form1.AppNumber.value.length != 14){
-		alert("Application Number must be 14 characters in length.");
-		return;
-	}
-	else if (tmp == "D"  ||  tmp == "d"){
-		document.form1.action = "https://www.bmolending.com/b2c/english/ApplicationCentre.html";
-		document.form1.submit();
-	}
-	else if(tmp =="f" || tmp =="F" || tmp=="w" || tmp=="W"){
-		document.form1.action="https://mortgageapply.bmo.com/webmortgage/mortgage/english/jsp/Mortgage.jsp";
-		document.form1.submit();
-	}
-	else {
-		alert("Application number is not valid. Please re-enter.");
-		document.form1.AppNumber.focus();
-	}
-
-}
-//*************************new edit for transition mloc 1c***********************//
-//-->
-</script>
-
-<script language="JavaScript">
-<!--- hide script from old browsers
-        function imgOn(imgName) {
-                if (document.images) {
-                document.images[imgName].src = eval(imgName + "on.src");
-                }
-        }
-
-        function imgOff(imgName) {
-                if (document.images) {
-                document.images[imgName].src = eval(imgName + "off.src");
-                }
-        }
-
-		function loadFramesBS(form) {
-                myPick=form.bsSelect.options[form.bsSelect.selectedIndex].value;
-                        if (myPick != "default") {
-                        window.parent.location=myPick;
-                }
-        }
-
-        function loadFramesIS(form) {
-                myPick=form.isSelect.options[form.isSelect.selectedIndex].value;
-                        if (myPick != "default") {
-                        window.parent.location=myPick;
-                }
-        }
-
-        function loadFramesSB(form) {
-                myPick=form.sbSelect.options[form.sbSelect.selectedIndex].value;
-                        if (myPick != "default") {
-                        window.parent.location=myPick;
-                }
-        }
-
-        function loadFramesCO(form) {
-                myPick=form.coSelect.options[form.coSelect.selectedIndex].value;
-                        if (myPick != "default") {
-                        window.parent.location=myPick;
-                }
-        }
-
-        function openSitemap() {
-        top.name="mainWindow";
-                popup=window.open('site_map.html','popup','toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=518,height=318');
-                        if (navigator.appVersion.substring(0,1) != '2'){
-                        popup.focus()}
-        }
-
-		function new_window_count(new_url) {
-        	window.parent.location="http://www.bmo.com/cgi-bin/count/counter?count_url="+new_url+"&action=plus";
-		}
-
-function create() {
-        this.width = ''
-        this.height = ''
-        this.src = ''
-        this.href = ''
-        this.border = ''
-
-}
-
-// The maximum valid index for the array of banners.
-// If a banner is added, the value of this variable
-// must be increased by one.
-
-var maxIndex=1;
-
-// Create the array
-ads = new Array()
-for(var i=0; i<=maxIndex; i++) { ads[i] = new create() }
-
-// Insert values into the array.
-
-ads[0].width = "468"
-ads[0].height = "60"
-ads[0].src = "/vgn/images/portal/SYSTEM (Site)_84/BMO (Site)_3102/PCCG (Site)_3201/Mortgages (Site)_3550/Mortgages Files_14811/18727mortgage_1b.gif"
-ads[0].href = "http://www.bmo.com/mortgage/products/four_percent.html"
-ads[0].border = "0"
-
-
-ads[1].width = "468"
-ads[1].height = "60"
-ads[1].src = "/vgn/images/portal/SYSTEM (Site)_84/BMO (Site)_3102/PCCG (Site)_3201/Mortgages (Site)_3550/Mortgages Files_14811/18742mortgage_dude.gif"
-ads[1].href = "http://www.bmo.com/mortgage/products/six_year.html"
-ads[1].border = "0"
-
-// Get a random integer between 0 and maxIndex.
-var n = Math.round(Math.random()*maxIndex)
-
-//  Use randomly generated n to create an image in the page
-var image = ads[n]
-var ad = ""
-ad += '<a href="' + image.href + '" \n'
-ad += 'onMouseOut="self.status=\'\'"> \n'
-ad += '<img src="' + image.src + '" width=' + image.width
-ad += '\n height=' + image.height + ' border=' + image.border
-ad += '\n></a>'
-
-//-->
-</script>
-
-<script language="javascript">
-<!--
-function vbiPopup(myUrl) {
-        window.open(myUrl,'vbiPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=yes,resizable=yes,copyhistory=no,width=775,height=480');
-}
-
-function customPopup(url, features) {
-	window.open(url, '', features);
-}
-
-function openWindow(whereto, whoami) {
-                top.name = "mainwindow";
-                self.name="spawningWindow";
-                popup = window.open(whereto, whoami, "width=790,height=550,top=30,left=100,scrollbars=1,toolbar=1,status=1,resizable=1,menubar=1,location=1,directories=1");
-                }
-// -->
-</script>
-
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-
-<script language="javascript">
-<!--- hide script from old browsers
-function openContact(path)
-{
-     top.name = "mainWindow"
-     myPopup=window.open(path+"contactus/selfserv.html",'myPopup',' toolbar=no,location=no,directories=no,status=no,scrollbars=no,resizable=yes,copyhistory=no,width=772,height=450');
-     if (navigator.appVersion.substring(0,1) >= '3')
-     {
-           myPopup.focus()
-     }
-}
-//-->
-</script>
-
-<script language="JavaScript">
-
-        <!--
-        function uSubmit(mortType) {
-				// no such frame right now/mortgage/.
-                //parent.bottomnav.location="/mortgage/analyzer/analyzer_help.html";
-                document.COM.mortTypeOne.value = mortType;
-                document.COM.submit();
-        }
-        // -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+            <title> Privacy | BMO Financial Group</title>
+            <link href="/css/content.css" rel="stylesheet" type="text/css">
+        </head>
         
+        <body id="popup" class="bmofg english">
+        
+        <!-- Start Header -->
+        <div class="popupHeader">
+            <div class="popupLogo"></div>
+            <a href="javascript:window.self.close();" title="Close" class="popupClose"></a>
+        </div>
+        
+        <!-- Start Content -->
+        <div class="popupContent">
+            
 
-</script>
+<!-- code -->
+<h1>BMO Privacy Code</h1>
 
-<script language="JavaScript">
-  image1 = new Image;
-  image2 = new Image;  
-  image1.src = "/bmo/portal/images/chinesehover.gif";
-  image2.src = "/bmo/portal/images/chinese.gif";
+<h4>Your Privacy is our Priority</h4>
+<p class="first">This Privacy Code outlines our commitment to you and is designed to comply with applicable Privacy legislation in Canada, which incorporates the following ten (10) principles:</p>
 
-  function siteOpen(myURL) {
-		window.opener.parent.location=myURL;
-		window.close();
-  }
-</script>
-
-
-</head>
-
-<body leftmargin="0" topmargin="0">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<!--td><img src="/vgn/images/ccb/white_space.gif" width="1" height="54" border="0" alt=""></td-->
-	<td width="100%" valign="top">
-<!-- Popup Branding Bar -->
-		
-		
-
-
-
-
-
-<table height="49" cellspacing="0" cellpadding="0" width="100%" border="0">
-<tbody>
-<tr>
-<td width="290" height="47"><img height="47" alt="BMO Financial Group" src="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/2147903bmofg_eng.gif" width="290" border="0"></td>
-<td>&nbsp;</td>
-<td valign="center" align="right" width="40"><a href="javascript:window.self.close();"><u>close</u></a>&nbsp;&nbsp;</td>
-</tr>
-
-<tr>
-<td background="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/Corporate%20Images_40920/62206003366.gif" colspan="3" height="1"><img height="1" alt="" src="/vgn/images/portal/SYSTEM%20%28Site%29_81/BMO%20FG%20%28Site%29_35330/PCCG%20%28Site%29_35383/Corporate%20Images_40920/62194spacer.gif" width="1"></td>
-</tr>
-</tbody>
-</table>
-<!-- End of Popup Branding Bar-->
-	</td>
-	</tr>
-</tbody></table>
-<table height="25" width="100%" border="0" cellspacing="0" cellpadding="0">	
-	<tbody><tr><td><img src="/vgn/images/ccb/white_space.gif" width="1" height="25" border="0" alt=""></td></tr>
-</tbody></table>
-
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-	<td width="10"><img src="/vgn/images/ccb/white_space.gif" width="10" height="1" border="0" alt=""></td>
-	<td width="100%" valign="top" align="left">
-<!-- Popup White Space-->
-		<table cellpadding="0" cellspacing="0" border="0"><tbody><tr><td width="100%" align="left" valign="top" class="maintext">
-		
-		
-
-
-
-
-
-<p><span class="title">BMO Privacy Code</span></p>
-
-<p><span class="majorsub">Your Privacy is our Priority: Our Commitment to You</span><br>
-BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Personal', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">personal information</a> you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.</p>
-
-<p>This Privacy Code outlines our commitment to you, and is designed to comply with applicable Privacy legislation in Canada, which incorporates the following ten principles:</p>
-
-<table width="420" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="24"><div align="left">1.</div></td>
-    <td width="396"><p><a href="#01">Accountability</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">2.</div></td>
-    <td><p><a href="#02">Identifying Purpose</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">3.</div></td>
-    <td><p><a href="#03">Obtain Consent</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">4.</div></td>
-    <td><p><a href="#04">Limit Collection</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">5.</div></td>
-    <td><p><a href="#05">Limit Use, Disclosure and Retention</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">6.</div></td>
-    <td><p><a href="#06">Be Accurate</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">7.</div></td>
-    <td><p><a href="#07">Use Appropriate Safeguards</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">8.</div></td>
-    <td><p><a href="#08">Be Open</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">9.</div></td>
-    <td><p><a href="#09">Give Individuals Access</a></p></td>
-  </tr>
-  <tr>
-    <td><div align="left">10.</div></td>
-    <td><p><a href="#10">Provide Recourse</a></p></td>
-  </tr>
-</tbody></table>
+<ul class="redArrows">
+    <li><a href="#acc">Accountability</a></li>
+    <li><a href="#ip">Identifying Purpose</a></li>
+    <li><a href="#oc">Obtain Consent</a></li>
+    <li><a href="#lc">Limit Collection</a></li>
+    <li><a href="#ldr">Limit Use, Disclosure and Retention</a></li>
+    <li><a href="#beacc">Be Accurate</a></li>
+    <li><a href="#uas">Use Appropriate Safeguards</a></li>
+    <li><a href="#bo">Be Open</a></li>
+    <li><a href="#gia">Give Individuals Access</a></li>
+    <li><a href="#pr">Provide Recourse</a></li>
+</ul>
 
 <p>Other important information:</p>
 
-<ul>
-
-<li><a href="#Respecting">Respecting Your Privacy Preferences</a>
-
-</li><li><a href="#Scope">Scope</a></li>
+<ul class="redArrows">
+    <li><a href="#rypp">Respecting Your Privacy Preferences</a></li>
+    <li><a href="#scope">Scope</a></li>
+    <li><a href="#octy">Our Commitment to You</a></li>
+    <li><a href="#wts">Web Tools Statement</a></li>
 </ul>
 
-<p><a id="01" name="01"></a><span class="majorsub">1. Accountability</span><br>
-Each and every one of our employees is responsible for maintaining and protecting the <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Personal', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">personal information</a> to which they have access. We have strict policies and procedures for protecting personal information and designated individuals within BMO Financial Group who are responsible for monitoring our compliance.</p>
+<h3><a name="acc">1. Accountability</a></h3>
+<p class="first">Each and every one of our employees is responsible for maintaining and protecting the personal information to which they have access. We have strict policies and procedures for protecting <a href="#pi">personal information</a> and designated individuals within BMO Financial Group who are responsible for monitoring our compliance.</p>
+<p>BMO Financial Group has a Chief Privacy Officer who oversees privacy governance including policy, dispute resolution, education, communications activities and reporting to our Board of Directors and Executive Management on enterprise-wide privacy matters. See <a href="#pr">principle #10</a> for contact information.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p>BMO Financial Group’s Chief Privacy Officer is a member of our executive management team and
-oversees privacy governance including policy, dispute resolution, education, communications activities and reporting to our Board of Directors and Senior Management on enterprise-wide privacy matters. See the <a href="#10">Provide Recourse</a> principle for contact information.</p>
-
-<p><a href="#top">back to top</a></p>
-
-<p><a id="02" name="02"></a><span class="majorsub">2. Identifying Purpose</span><br>
-When you become a BMO Financial Group customer, or apply for additional products and services, we ask you for your personal information
-for the following purposes:</p>
-<ul>
-<li>to verify your identity and protect against fraud 
-  
-</li><li>to understand your financial service requirements 
-  
-</li><li>to determine suitability of products and services for 
-  you 
-  
-</li><li>to determine your eligibility for certain of our 
-  products and services, or those of others, and offer them to you 
-  
-</li><li>to set up and manage products and services you have 
-  requested, and 
-  
-</li><li>to comply with federal and provincial legal or
-regulatory requirements</li>
-
+<h3><a name="ip">2. Identifying Purpose</a></h3>
+<p class="first">When you become a BMO Financial Group customer, or apply for additional products and services, we ask you for your personal information for the following purposes:</p>
+<ul class="first">
+    <li>to verify your identity and protect against fraud </li>
+    <li>to understand your financial service requirements </li>
+    <li>to determine suitability of products and services for you </li>
+    <li>to determine your eligibility for certain products and services, or those of others, and offer them to you </li>
+    <li>to set up and manage products and services you have requested, and </li>
+    <li>to comply with legal or regulatory requirements</li>
 </ul>
-<p>Your personal information may be verified with credit bureau, credit insurers, registries, your employer, personal references and other lenders.</p>
+<p>Your personal information may be verified with credit bureaus, credit insurers, registries, your employer, personal references and other lenders.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
-
-<p><a id="03" name="03"></a><span class="majorsub">3. Obtain Consent</span><br>
-When you apply for a new product or service, we ask you for your consent to collect, use or disclose your personal information. You may, at any time, withdraw your consent as long as:</p>
-<ul>
-<li>you provide reasonable notice 
-  
-</li><li>we are not legally required to collect, use or 
-  disclose your information 
-  
-</li><li>withdrawing your consent does not impede our ability 
-  to fulfill your contract with us 
-  
-</li><li>it does not relate to a credit product we have granted you where we are required to collect and exchange your personal information on an ongoing basis with credit bureaux, credit insurers and other lenders</li>
+<h3><a name="oc">3. Obtain Consent</a></h3>
+<p class="first">When you apply for a new product or service, we ask you for your consent to collect, use or disclose your personal information. You may, at any time, withdraw your consent as long as:</p>
+<ul class="first">
+    <li>you provide reasonable notice  </li>
+    <li>we are not legally required to collect, use or disclose your information </li>
+    <li>withdrawing your consent does not impede our ability to fulfill your contract with us </li>
+    <li>it does not relate to a credit product we have granted you where we are required to collect and exchange your personal information on an ongoing basis with credit bureaus, credit insurers and other lenders</li>
 </ul>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
-
-<p><a id="04" name="04"></a><span class="majorsub">4. Limit Collection</span><br>
-We only collect the information we need. We may ask you to provide the following
-information:
-</p><ul>
-<li><b>Social Insurance Number (SIN)</b> for tax reporting purposes as well as other income related government purposes such as when opening an income generating account or a registered retirement investment. We do this in order to comply with the Canada Revenue Agency’s income reporting requirements. We may also collect and use your SIN for administration purposes, such as to ensure an
-accurate match between your personal information and your credit bureau information, or as an internal identification
-number to accurately identify customers having same or similar names.</li>
+<h3><a name="lc">4. Limit Collection</a></h3>
+<p class="first">We only collect the information we need. We may ask you to provide the following personal information: </p>
+<ul class="first">
+    <li><span="black">Social Insurance Number (SIN) for tax reporting purposes as well as other government purposes, such as when opening an income generating account or a registered retirement investment. We do this in order to comply with the Canada Revenue Agency's income reporting requirements. We may also collect and use your SIN for administrative purposes, such as to ensure an accurate match between your personal information and your credit bureau information, or as an internal identification number to accurately identify customers having same or similar names. </span="black"></li>
+    <li><span="black">Financial Information to ensure that the advice we give is appropriate for you and/or the investments you purchase are suitable for your circumstances. </span="black"></li>
+    <li><span="black">Health Information is required for some of our insurance products to ensure that you are eligible for coverage. </span="black"></li>
+    <li><span="black">Contact Information such as your name, address, telephone number or email address.</span="black"></li>
 </ul>
-<ul>
-<li><b>Financial Information</b> to ensure that the advice we give is appropriate for you and/or the investments you purchase are suitable for your circumstances.</li>
-</ul>
-<ul>
-<li><b>Health Information</b> is required for some of our insurance products to ensure that you are eligible for coverage.</li>
-</ul>
-<p>You can choose not to provide us with certain information in some situations. However, if you make this choice, we may not be able to provide you with the product, service, or information you request. We may monitor or record our telephone calls with you for our mutual
-protection (e.g. to ensure that your instructions are carried out, to document that we have made required disclosures to you, and to ensure that customer service levels are maintained).</p>
-
+<p>You can choose not to provide us with certain information in some situations. However, if you make this choice, we may not be able to provide you with the product, service, or information you request. We may monitor or record our incoming or outgoing telephone calls with you for our mutual protection (e.g. to ensure that your instructions are carried out, to document that we have made required disclosures to you, and to ensure that customer service levels are maintained).</p>
 <p>We will make certain that you are informed of the purposes listed above when you apply for any of our products or services. If a new purpose for using your personal information develops, we will ask you for your consent.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
-
-<p><a id="05" name="05"></a><span class="majorsub">5. Limit Use, Disclosure and Retention</span><br>
-BMO Financial Group will only use or disclose your personal information for the reason(s) it was collected. Under no circumstances do we
-sell or give lists of our clients to other companies for their own use, and if we obtain client lists from other organizations, we require the organizations to confirm their compliance with all relevant privacy legislation.</p>
-
-<p>To ensure that you benefit from our full range of products and services, we will, with your consent, share your personal information (other than health information) to the extent permitted by law, amongst BMO Financial Group.</p>
-
-<p>Over time, we may buy new businesses or sell some of our businesses. Accordingly, personal information associated with any accounts,
-products or services of the business being purchased or sold will be transferred as a business asset to the new business owner.</p>
-
-<p>We may use other companies to provide services to you on our behalf and they will be given only the information needed to perform those services. We have contracts in place holding these companies to the same high standards of confidentiality by which we are governed.</p>
-
-<p>Your information may be transferred across country borders for the purposes of data processing. We may be required to provide
-information to a government agency under a lawful order made in that country.</p>
-
-<p>Personal information may be released to legal authorities in cases of suspected money laundering or other criminal activity, for the detection and prevention of fraud, or when required to satisfy the legal or regulatory requirements of federal or provincial governments and/or other regulatory authorities. Other reasons for the release of personal information include when we are legally required to do so (e.g. by court order) or to protect our assets (e.g. collection of overdue accounts). If we release information for any of these reasons,
-we keep a record of what, when, why and to whom such information was released.</p>
-
+<h3><a name="ldr">5. Limit Use, Disclosure and Retention</a></h3>
+<p class="first">BMO Financial Group will only use or disclose your personal information for the reason(s) it was collected. Under no circumstances do we sell or give lists of our clients to other companies for their own use and, if we obtain client lists from other organizations, we require the organizations to confirm their compliance with all relevant privacy legislation.</p>
+<p>Your personal information may be shared with other companies within BMO Financial Group for the purpose of marketing, including telemarketing, so that these companies can offer you a broader range of product and service solutions to meet your needs.</p>
+<p>To ensure that you benefit from our full range of products and services, we will, with your consent, or as required by law or regulation, share your personal information (other than health information) amongst BMO Financial Group. Over time, we may buy new businesses or sell some of our businesses. Accordingly, personal information associated with any accounts, products or services of the business being purchased or sold will be transferred as a business asset to the new business owner.</p>
+<p>We may use other companies to provide services on our behalf such as data processing, account administration and marketing. They will be given only the information needed to perform those services. We have contracts in place holding these companies to the same high standards of confidentiality by which we are governed. In some cases, these other companies may be located outside of Canada and may be required to disclose information to government authorities, regulators or law enforcement under a lawful order made in that country.</p>
+<p>Personal information may be released to legal or regulatory authorities in cases of suspected money laundering, insider trading, manipulative or deceptive trading, or other criminal activity, for the detection and prevention of fraud, or when required to satisfy the legal or regulatory requirements of governments, regulatory authorities or other self-regulatory organizations. Other reasons for the release of personal information include when we are legally required to do so (e.g. by court order) or to protect our assets (e.g. collection of overdue accounts). If we release personal information for any of these reasons, we keep a record of what, when, why and to whom such information was released.</p>
 <p>BMO Financial Group has policies in place that govern the retention of your personal information so it will be kept only for as long as it fulfills its intended purpose or as legally required.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
+<h3><a name="beacc">6. Be Accurate</a></h3>
+<p class="first">We are committed to maintaining the accuracy of your personal information and ensuring that it is complete and up-to-date. If you discover inaccuracies in our data, or your personal information changes, please notify the branch or office where you do business immediately, so that we can make the necessary changes. When required, we will make our best efforts to advise others of any important amendments to your personal information that we may have released to them. If we do not agree to make the amendments that you request, you may challenge our decision. Recourse is described in <a href="#pr">principle #10.</a></p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+<h3><a name="uas">7. Use Appropriate Safeguards</a></h3>
+<p class="first">Your personal information is secure within BMO Financial Group, regardless of the format in which it is held. We have comprehensive security controls to protect against unauthorized use, access, alteration, duplication, destruction, disclosure, loss or theft of your personal information.</p>
+<p>We maintain physical, electronic and procedural safeguards to protect your personal information. Examples of safeguards include restricted access to our information processing and storage areas, limited access to relevant information by authorized employees only, use of passwords, <a href="#pin">PINs</a> and pass keys, firewalls and <a href="#encryption">encryption</a> of electronically transmitted information, and the use of secure locks on filing cabinets and doors.</p>
+<p>We have agreements and controls in place with credit bureaus, credit insurers, other lenders and third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.</p>
+<p>Within BMO Financial Group web sites, <a href="#cookie">cookies</a> or other information-tracking technologies may be used to improve the functionality or security of web sites, or to provide you with a more customized online experience. Please note that cookies cannot capture files or data stored on your computer. Refer to <a href="#wts">BMO's Web Tools Statement</a> for further details regarding information-tracking technologies.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
 
+<h3><a name="bo">8. Be Open</a></h3>
+<p class="first">BMO Financial Group's Privacy Code is available in our branches and offices as a printed brochure. From time to time, we may make changes to this policy and will inform you of changes, as required by law. The most up-to-date Privacy Code, is always available at <a href="https://www.bmo.com" target="_blank" vlt="1">www.bmo.com</a> and the privacy link located at the bottom of the page.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
 
-<p><a id="06" name="06"></a><span class="majorsub">6. Be Accurate</span><br>
-We are committed to maintaining the accuracy of your personal information and ensuring that it is complete and up-to-date. If you discover inaccuracies in our data, or your personal information changes, please notify the branch or office where you do business immediately, so that we can make the necessary changes. As well, we will make our best efforts to advise others of any
-important amendments to your personal information that we may have released to them. If we do not agree to make the amendments that you
-request, you may challenge our decision. Recourse is described in the <a href="#10">Provide Recourse</a> principle.</p>
+<h3><a name="gia">9. Give Individuals Access</a></h3>
+<p class="first">If you want to review or verify your personal information, or find out to whom we have disclosed it, please request this by contacting the branch or office where you do business. We may need specific information from you to enable us to search for, and provide you with, the personal information we hold about you. We may charge you a nominal fee depending on the nature of your request. However, we will advise you of the fee prior to proceeding with your request. There may be instances where we are unable to provide some of the personal information we hold about you and if we are unable, we will let you know the reason(s) why.</p>
+<p>In most provinces you have the right to access and verify the personal information held about you by credit bureaus. We will provide you with the name and location of any credit bureau that has provided us with a report on you.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
 
-<p><a id="07" name="07"></a><span class="majorsub">7. Use Appropriate Safeguards</span><br>
-Your personal information is secure within BMO Financial Group, regardless of the format in which it is held. We have comprehensive security controls to protect against unauthorized use, access, alteration, duplication, destruction, disclosure, loss or theft of your personal information.</p>
+<h3><a name="pr">10. Provide Recourse</a></h3>
+<p class="first">The branch or office where you do business is well equipped to handle any questions you may have about our Privacy Code. However, we want to hear from you if you have any further concerns. Please contact us at one of the following offices:</p>
+<p>President and Chief Executive Officer <br>
+Personal and Commercial Banking Canada <br>
+BMO Financial Group <br>
+P.O. Box 1 <br>
+1 First Canadian Place <br>
+Toronto, Ontario M5X 1A1 <br>
+Call: 1 800 372-5111<br>
+<br>
 
-<p>We maintain physical, electronic and procedural safeguards to protect your personal information. Examples of safeguards include restricted access to our information processing and storage areas, limited access to relevant information by authorized employees only, use of passwords, <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Pin', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">PINs</a> and pass keys, firewalls and <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Encryption', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">encryption</a> of electronically transmitted information, and the use of secure locks on filing cabinets and doors.</p>
+Or<br>
+<br>
+President and Chief Executive Officer <br>
+Private Client Group <br>
+BMO Financial Group <br>
+P.O. Box 150 <br>
+1 First Canadian Place <br>
+Toronto, Ontario M5X 1H3 <br>
+<br>
+Or
+<br><br>
+Chief Privacy Officer <br>
+BMO Financial Group <br>
+P.O. Box 150 <br>
+1 First Canadian Place <br>
+Toronto, Ontario M5X 1H3 
+</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p>We have agreements and controls in place with credit bureaux, credit insurers, other lenders and third party service providers requiring that any information provided by us must be safeguarded and used only for the sole purpose of providing the service we have requested the company to perform.</p>
 
-<p>Within BMO Financial Group web sites, <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Cookies', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">cookies</a> or other information-tracking technologies may be used to improve the functionality or security of web sites, or to provide you with a more customized online experience. Please note that cookies cannot
-capture files or data stored on your computer.</p>
-
-<p><a href="#top">back to top</a></p>
-
-<p><a id="08" name="08"></a><span class="majorsub">8. Be Open</span><br>
-BMO Financial Group’s Privacy Code is also available in our branches and offices as a printed brochure. Our Privacy Code outlines why we ask for your personal information, how it is used and who it may be shared or disclosed to. Contact information is also provided, so that you know who and where to address your questions or concerns.</p>
-
-<p><a href="#top">back to top</a></p>
-
-<p><a id="09" name="09"></a><span class="majorsub">9. Give Individuals Access</span><br>
-If you want to review or verify your personal information, or find out to whom we have disclosed it, please request this by contacting the branch or office where you do business. We may need specific information from you to enable us to search for, and provide you with, the personal information we hold about you. We may charge you a nominal fee depending on the nature of your request. However, we will advise you of the fee prior to proceeding with your request. There may be instances where we are unable to provide some of the personal
-information we hold about you and if we are unable, we will let you know the reason(s) why.</p>
-
-<p>In most provinces you have the right to access and verify the personal information held about you by credit bureaux. We will provide you with the name and location of any credit bureau that has provided us with a report on you.</p>
-
-<p><a href="#top">back to top</a></p>
-
-<p><a id="10" name="10"></a><span class="majorsub">10. Provide Recourse</span><br>
-The branch or office where you do business is well equipped to handle any questions you may have about our Privacy Code. However, we want to hear from you if you have any further concerns. Please contact us at one of the following offices:</p>
-
-<p>President and Chief Executive Officer<br>
-Personal and Commercial Client Group<br>
-BMO Financial Group<br>
-P.O. Box 1<br>
-First Canadian Place<br>
-Toronto, ON M5X 1A1<br>
-Call: 1 800 372-5111</p>
-
-<p>Or</p>
-<p>President and Chief Executive Officer<br>
-Private Client Group<br>
-BMO Financial Group<br>
-P.O. Box 150<br>
-First Canadian Place<br>
-Toronto, ON M5X 1H3</p>
-
-<p>Or</p>
-
-<p>Chief Privacy Officer<br>
-BMO Financial Group<br>
-P.O. Box 150<br>
-First Canadian Place<br>
-Toronto, ON M5X 1H3<br>
-<a href="mailto:privacy.matters@bmo.com">privacy.matters@bmo.com</a></p>
-
-<p><span class="majorsub">Independent Oversight</span></p>
-
-<p>Office of the Ombudsman<br>
-BMO Financial Group<br>
-55 Bloor Street West, 8th Floor<br>
-Toronto, ON M4W 3N5<br>
-Call: 1 800 371-2541<br>
-Fax: 1 800 766-8029</p>
-
-<p>Or</p>
-
-<p>Office of the Privacy Commissioner of Canada<br>
+<h3><a name="ind-o">Independent Oversight</a></h3>
+<p>Office of the Ombudsman <br>
+BMO Financial Group <br>
+55 Bloor Street West <br>
+Toronto, Ontario M4W 3N5 <br>
+Call: 1 800 371-2541 <br>
+Or <br>
+Fax: 1 800 766-8029<br>
+<br>
+Or<br>
+<br>
+Office of the Privacy Commissioner of Canada<br>
 Place de Ville, Tower B, 3rd Floor<br>
 112 Kent Street<br>
-Ottawa, ON K1A 1H3<br>
+Ottawa, Ontario K1A 1H3<br>
 Call: 1 800 282-1376<br>
-Fax: 613 947-6850</p>
+Or<br>
+Fax: (613) 947-6850</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
 
-<p><a id="Respecting" name="Respecting"></a><span class="majorsub">Respecting Your Privacy Preferences</span><br>
-BMO Financial Group fully respects your privacy preferences. Simply contact the branch or office
-where you do business to discuss the following options that are available to you:</p>
+<h3><a name="rypp">Respecting Your Privacy Preferences</a></h3>
+<p class="first">BMO Financial Group fully respects your privacy preferences. Simply contact the branch or office where you do business to discuss the following options that are available to you:</p>
 <ul>
-<li><b>Direct Marketing</b> – If you 
-  don’t want to receive <a href="javascript:customPopup('/popup/0,2284,35649_13897849,00.html#Directmarketing', 'scrollbars=1,resizable=1,width=500,height=530,left=125,top=-25,');">direct marketing</a>, request that we remove the personal 
-  information about you from our marketing lists. 
-  
-</li><li><b>Sharing</b> – If you don’t want us to share personal information about you among BMO Financial Group members(see <a href="#Scope">Scope</a> section for list of members), request to opt out of this type of sharing. Please note that you cannot opt out of sharing your personal information where you have requested a product or service that is jointly offered by more than one member of BMO Financial Group. 
-  
-
-</li><li><b>Social Insurance Number (SIN)</b> – If you don’t want us to use your SIN for administration purposes as described in the <a href="#02">Identifying Purpose</a> principle, with the exception of income tax reporting purposes, request to opt out.</li>
+    <li><span class="bold">Direct Marketing</span> - If you do not want to receive <a href="#dm">direct marketing</a> communications, please ask us to remove the personal information about you from our marketing lists. </li>
+    <li><span class="bold">Sharing</span> - If you do not want us to share personal information about you among BMO Financial Group members (see <a href="#scope">Scope</a> for list of members), request to opt out of this type of sharing. Please note that you cannot opt out of sharing your personal information where you have requested a product or service that is jointly offered by more than one member of BMO Financial Group or when the sharing is required by law or regulation. </li>
+    <li><span class="bold">Social Insurance Number (SIN)</span> - If you do not want us to use your SIN for administrative purposes as described in <a href="#ip">principle #2</a>, with the exception of income tax reporting or other legal or regulatory purposes, request to opt out.</li>
 </ul>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
 
-<p><a href="#top">back to top</a></p>
 
-<p><a id="Scope" name="Scope"></a><span class="majorsub">Scope</span><br>
-This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us – in our branch or office, at an ATM, online, or by telephone. Reference throughout this Code to “we”, “our” and “us” means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., Jones Heward Investment Counsel Inc. and Guardian Group of Funds Ltd.</p>
+<h3><a name="defi">Definitions</a></h3>
+<h4><a name="dm">Direct Marketing</a></h4>
+<p class="first">Direct Marketing is our communication with you by mail, telemarketing or email, using the contact information you have provided, to inform you about products and services that we think may be of interest and value to you. This does not include information on or enclosed with your written or electronic statements, posted at or on-screen at automated banking machines, posted online at www.bmo.com or electronic bulletin boards, or conveyed to you in person.</p>
 
-<p><a href="#top">back to top</a></p>
-        </td></tr></tbody></table>
-<!-- End of Popup White Space-->
-	</td>
+<h4><a name="encryption">Encryption</a></h4>
+<p class="first">Encryption disguises personal information that is electronically formatted. This process ensures that an unauthorized person will not have access to it.</p>
 
-	</tr>
-</tbody></table>
+<h4><a name="pi">Personal Information</a></h4>
+<p class="first">Personal Information is information about an identifiable individual. It includes information that you have provided to us or was collected by us from other sources with your consent. It includes details such as your name and address, age and gender, personal financial records, identification numbers including your Social Insurance Number, personal references, and employment records.</p>
 
-</body></html>
+<h4><a name="pin">PIN</a> </h4>
+<p class="first">PIN is the personal identification number that allows you to access your accounts. This number is known only to you. Our employees do not have access to your PIN and will not ask you to reveal it.</p>
+
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+
+<h3><a name="scope">Scope</a></h3>
+<p class="first">This Code applies to the operations of BMO Financial Group in Canada, regardless of how you choose to do business with us - in our branch or office, at an automated banking machine, online, or by telephone. Reference throughout this Code to "we" "our" and "us" means BMO Financial Group and its members which include: Bank of Montreal, Bank of Montreal Mortgage Corporation, BMO Investments Inc., BMO Trust Company, BMO Nesbitt Burns Inc., BMO Nesbitt Burns Ltée/Ltd., BMO InvestorLine Inc., BMO Harris Investment Management Inc., BMO Life Insurance Company, BMO Nesbitt Burns Financial Services Inc., BMO Asset Management Inc. and Guardian Group of Funds Ltd.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+
+<h3><a name="octy">Our Commitment to You</a></h3>
+<p class="first">BMO Financial Group appreciates the opportunity to help you meet your financial needs. From the day Bank of Montreal was founded in 1817, earning and keeping your trust has been at the very core of our business. We are committed to respecting and protecting the privacy and confidentiality of the personal information you have entrusted to us. It is important for you to understand what information we will collect, how we will use it, and who may see it.</p>
+<p>To learn how to protect your accounts visit the security section at <a href="http://www.bmo.com" target="_blank" vlt="1">bmo.com</a></p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+
+<h3><a name="wts">BMO Financial Group Web Tools Statement</a></h3>
+<h4>The Use of Web Tools at BMO Financial Group Websites</h4>
+<p class="first">Website Tools including Cookies and Web Beacons may be used within BMO Financial Group websites to enhance our online security provisions, evaluate the effectiveness and success of our websites and marketing campaigns, as well as provide our online users with a more customized online experience.</p>
+<p>Cookies are a string of data sent between a server and a web browser to help facilitate the use of a website and to help understand how a website is being used. Cookies are not used to retrieve any data from your hard drive, nor can they run a program on your computer.</p>
+<p>Web Beacons are small and transparent images embedded in web pages that, when combined with Cookies, help provide a website operator with information about the use and effectiveness of a website. Most of the Cookies we use are considered "session" Cookies, meaning they are not written to your hard drive and are only available for the duration of the session (i.e., log out or close your browser).</p>
+<h4>How BMO Financial Group Websites use Web Tools:</h4>
+<ol>
+    <li><span class="blue">Security</span> 
+	<p class="first">BMO Financial Group websites that require authentication may use Cookies to help protect your accounts from unauthorized users. For example, our BMO Online Banking site uses Cookies. These Cookies help to maintain session integrity and enable enhanced security, ensuring that unauthorized attempts to access your account through BMO Online Banking are blocked. </p>
+    </li>
+    <li><span class="blue">Evaluate Web Sites and Marketing Campaigns</span>
+    	<p class="first">BMO Financial Group or its service providers may use Cookies and Web Beacons in order to evaluate the use and functionality of our websites. Web Beacons may be used on BMO Financial Group websites and in advertisements to better tailor our sites and provide an enhanced customer experience. BMO Financial Group will also use this information to compile data about website usage, and patterns. For example BMO Financial Group may track how many times a link or advertisement is clicked, or the success of an online application form.</p>
+	<p>The information collected using Cookies and Web Beacons on BMO Financial Group websites is used to evaluate the performance and functionality of the site. This information may include the pages visited, the type of web browser used, the level of encryption supported by your browser, your Internet Protocol (IP) address as well as the website that referred you to the BMO Financial Group website. </p>
+    </li>
+    <li><span class="blue">Customized Online Experience</span>
+	<p class="first">BMO Financial Group websites may also use Cookies to collect information about online activities and preferences. Examples include web pages visited, length of visits, and successful downloads. This information may be used together with other information to:</p>
+	<ol>
+	   <li>Help us better understand your interests and needs </li>
+	   <li>Provide you with a customized online experience </li>
+	   <li>Present new tools and website functions</li>
+	</ol>
+    </li>
+</ol>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+
+<h4><a name="cookie">Accepting Cookies</a></h4>
+<p class="first">Cookies are a commonly used technology and many web browsers default to automatically accept Cookies. You can set your Internet browser to notify you before a Cookie is set, providing you the opportunity to decide whether to accept it. If you decide that you do not wish to receive Cookies, refer to your browser's online help for further instruction and information on setting Cookie preferences. You can also set your browser to immediately reject Cookies. If you select this option, you may continue to browse BMO Financial Group websites; however, you should be aware that certain features of a website may not function properly without Cookies. You should note that if you would like to use a service such as BMO Online Banking, you will be required to accept the Cookies to maintain session integrity and enhanced security.</p>
+<div class="dotted_horiz"></div>
+<div align="right"><a href="#">Back to top</a></div>
+
+
+
+
+<!-- end code -->
+
+
+
+
+
+        </div>
+        
+        <script type="text/javascript" src="/scripts/webAnalytics.js"></script><script language="javascript" type="text/javascript" src="https://web.archive.org/web/20100923164641/https://csvtr.bmo.com/bmo/zig.js"></script><img src="https://web.archive.org/web/20110109182827/https://csvtr.bmo.com/bmo/zag.gif?Log=1&amp;dt=Privacy%20%7C%20BMO%20Financial%20Group&amp;dl=https%3A//web.archive.org/web/20100601073034id_/http%3A//www.bmo.com/home/popups/global/privacy&amp;dr=&amp;cb=1582131506970&amp;sw=800&amp;sh=600&amp;cd=24&amp;fv=-1">
+        <noscript><img src="http://csvtr.bmo.com/bmo/zag.gif?Log=1&" height="1"></noscript>
+
+<!-- 
+ blank :  : 212
+
+l2
+June 1, 2010 1:14:14 EDT AM
+ -->
+	
+
+
+
+
+
+<!-- 
+Page total : 330
+l2
+June 1, 2010 1:38:25 EDT AM
+ -->
+
+
+
+
+<!-- VIGN HPD cache address: edd97ec8a21ea8ba6b0f3981f6639ac2 --></body></html>
