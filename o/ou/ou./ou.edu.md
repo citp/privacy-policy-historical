@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ou.edu privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201045144id_/http%3A//www.ou.edu/publicaffairs/WebPolicies/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ou.edu privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601051509id_/http%3A//www.ou.edu/publicaffairs/WebPolicies/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Public Affairs - The University of Oklahoma
 
