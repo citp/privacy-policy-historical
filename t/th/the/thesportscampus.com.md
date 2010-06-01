@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201011037id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesportscampus.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602001825id_/http%3A//www.thesportscampus.com/2008070122/general/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@
 
 TheSportsCampus.com takes your privacy very seriously. Please read this Policy carefully to see how we will treat the personal information that you provide to us either when using our Site or in other circumstances when we collect data from you. We will take reasonable care to keep your information secure and to prevent any unauthorized access or use of it. We process all information in accordance with the applicable India data protection legislation. We may change this Privacy Policy from time to time and the change will take effect once the revised Privacy Policy is available on our website. Please refer to this policy whenever you submit your personal information.
 
-**The information you provide**
+**T he information you provide**
 
 We may ask you to provide information to us or collect data from you on different occasions, including at a number of points on the Site, such as when you:
 
