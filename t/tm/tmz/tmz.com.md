@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202152829id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmz.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601093330id_/http%3A//www.tmz.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - TMZ.com
-
-## Privacy Policy
+# Privacy Policy | TMZ.com
 
 **Last updated: July, 2009**
 
@@ -68,7 +66,7 @@ If you choose to furnish the site with personally identifiable information, this
 
 By accepting this Privacy Policy, you specifically agree to our use of cookies and Web beacons as described herein. You may adjust your browser to reject cookies from us or from any other Web site. Additionally, by setting your Web browser to display HTML e-mails as text only, you may be able to prevent the use of some Web beacons. Please consult the "Help" section of your browser for more information. However, certain areas of our sites can only be accessed in conjunction with cookies or similar devices and you should be aware that disabling cookies or similar devices might prevent you from accessing some of our content.
 
-We use third-party advertising companies and networks to serve ads. These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, [click here: http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp). 
+We use third-party advertising companies and networks to serve ads. These third-party ad network providers may use web beacons and cookies to help present, better target, and measure the effectiveness of their advertisements, using non-personally identifiable data (such as sites visited and browser type) gathered over time and across their networks of Web pages to determine or predict the characteristics and preferences of their audience. If you would like more information about this practice, as well as your choices about not having this information used for online behavioral advertising by these ad networks, [click here: http://networkadvertising.org/consumer/opt_out.asp](http://networkadvertising.org/consumer/opt_out.asp).
 
 ## Our Commitment to Security
 
