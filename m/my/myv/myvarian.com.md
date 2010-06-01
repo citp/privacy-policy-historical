@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myvarian.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620002422id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvarian.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601093141id_/http%3A//www.varian.com/us/corporate/legal/privacy_statement.html) for the most accurate reproduction.*
 
 # Privacy Statement
 
 [ ](http://www.truste.org/ivalidate.php?url=www.varian.com&sealid=102)
 
-##### Effective date: January 27, 2009
+##### Effective date: January 25, 2010
 
 Varian Medical Systems (Varian) is committed to respecting your privacy. As you visit our website, our intent is that your experience is informative, convenient and secure. Because Varian is committed to responsibly managing the personal information provided, we have adopted the following privacy statement to explain our commitment to your privacy. 
 
@@ -112,7 +112,7 @@ Varian participates in the TRUSTe Program as a licensee, and we proudly display 
 
 The TRUSTe program only covers information that is collected through this website, and does not cover information that may be collected through any software downloaded from this website.
 
-For further information on the TRUSTe Program, see http://www.truste.com. If you have any questions or concerns regarding this statement, please contact us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). If you do not receive acknowledgement of you inquiry, or if your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>.
+For further information on the TRUSTe Program, see http://www.truste.com. If you have any questions or concerns regarding this statement, please contact us at [dataprivacyoffice@varian.com](mailto:dataprivacyoffice@varian.com). If you do not receive acknowledgement of you inquiry, or if your inquiry has not been satisfactorily addressed, you may contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>, fax at 415-520-3420, or mail at Watchdog Complaints, TRUSTe, 55 2nd Street, 2nd Floor, San Francisco, CA, USA 94105. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, see http://www.truste.org/consumers/watchdog_complaint.php or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English. For human resources data we have agreed to cooperate with Data Protection Authorities.
 
 For further information on the US-EU Safe Harbor Program, please see <http://www.export.gov/safeharbor>.
 
