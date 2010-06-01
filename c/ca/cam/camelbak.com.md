@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129083342id_/http%3A//www.camelbak.com/en/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camelbak.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601083703id_/http%3A//www.camelbak.com/en/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy-policy - CamelBak.com
 
@@ -30,4 +30,4 @@ CamelBak provides the opportunity to opt-out of receiving online communications.
 
 ### In Summary
 
-We are committed to protecting your privacy. Information collected is internally applied to continually improving out site. Individuals may opt-out of receiving future online communications. If you have any questions about this privacy statement, the practices of this site, or your dealings with CamelBak please contact us at: web@camelbak.com.
+We are committed to protecting your privacy. Information collected is internally applied to continually improving out site. Individuals may opt-out of receiving future online communications. If you have any questions about this privacy statement, the practices of this site, or your dealings with CamelBak please contact us at: web@camelbak.com
