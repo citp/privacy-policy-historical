@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peacefmonline.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063428id_/http%3A//www.peacefmonline.com/services/site/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peacefmonline.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601170000id_/http%3A//www.peacefmonline.com/services/site/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
