@@ -1,90 +1,120 @@
-> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111103118id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.com.au privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601025540id_/http%3A//www.pearson.com.au/General/Privacy/PrivacyStatement.aspx) for the most accurate reproduction.*
 
 # Pearson Australia - Privacy Policy
 
 |  | Home  
   
-|  Privacy Policy  
----  
-  
-Pearson Australia’s Privacy Policy 
-
-Pearson Australia recognises that it is important for you to know that any information provided by you to the company is handled properly. We take very seriously our responsibility to protect and maintain the privacy, accuracy and security of your personal information. We do all that we can to maintain the highest standards in dealing with personal information held for you. Pearson Australia staff that handle personal information understand the standards and take all reasonable steps to achieve them. 
-
-The Commonwealth Privacy Act 1988 and general law place strict requirements on us to treat any information you give us as confidential. 
-
-Collection 
-
-We collect only that information which is necessary for the conduct of our business relationship with you. Conduct of that business relationship includes not only the supply of books, other related products and services, but also the management of business transactions entered into with us, administration of any accounts you have with us, informing you of current and future books, other related products and services which may be relevant to you, and your participation in competitions or other similar activities organised by us. Some of the information we collect, for example on your use of our websites, may be used to improve our services to you and monitor performance. The information we collect is dependent on the purpose for which it is collected. Generally, for supply of books and other related products or services it will include, name, delivery address, billing address, contact details, details relevant to effect payment eg bank account details, credit card details. If you have a credit account with us we may also collect personal details, bank account details, credit referees, and financial details. 
-
-We collect the information we require in the following ways; 
-
-  * from you directly when you provide information either over the phone, in a form or submit details through our web sites;
-  * from publicly available sources
-  * from third parties such as your representative/s, credit reporting agencies, third parties related to Pearson Australia Group, (either divisions of Pearson Australia Group or related companies)
-  * from your use of our websites. The information collected from your use of our websites may or may not identify you. It may include the type of internet browser used by you, operating system used by you, address of referring site, your IP address and clickstream information. Cookies are pieces of information that our website sends to your computer while you are browsing our sites. These pieces of information allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites.
 
 
+Pearson Australia - Privacy Policy
 
-Use and Disclosure 
+In this Privacy policy, "us", "we" or "our" means Pearson Australia Group Pty Ltd and its divisions (including without limitation Penguin Group (Australia), Pearson Australia and United Book Distributors) and related bodies corporate. 
 
-We use your information to carry out our business with you, to facilitate our financial dealings with you, for promotion and direct marketing of our books and other related products and services to you, internal product/service analysis, and to comply with applicable laws and regulations. 
+We have a policy to protect information collected about people related to our business, including its employees, prospective employees and customers, and to comply with the National Privacy Principles ("NPPs") contained in the Privacy Act 1988 (Cth) ("Privacy Act") (subject to exemptions that apply under the Privacy Act). We take very seriously our responsibility to protect and maintain the privacy, accuracy and security of personal information. 
 
-In relation to any promotional or direct marketing messages sent to you by us via email, in accordance with the Spam Act 2003, these messages must; 
+This Policy will be reviewed from time to time to take account of new or amended laws, new technology and/or changes to our operations and practices and the changing business environment. The most current version of this Policy is located at http://www.pearsonaustraliagroup.com.au/pag.asp and can be obtained by contacting our Privacy Officer. All personal information held by us will be governed by the most recently updated policy.
 
-  * be sent with your consent. (You may give express consent, or consent may be inferred from your conduct and existing business or other relationships),
-  * contain accurate information about the person or organisation that authorised the sending of the message, and
-  * contain a functional ‘unsubscribe’ facility to allow you to opt out from receiving messages from us in the future.
+This policy sets out: 
+
+  * The information we collect;
+  * how we collect it; 
+  * why we collect it; 
+  * how we use it; 
+  * how we disclose it; 
+  * opting in and out; 
+  * management and security; 
+  * how to seek access to and update your personal information; and 
+  * contact details.
 
 
 
-We disclose information to the following organisations or individuals when and to the extent necessary to conduct our business and comply with applicable laws and regulations; 
+### What information we collect
 
-  * Government and Regulatory authorities, as required or authorised by law,
-  * The company’s professional advisors (including legal and accounting firms, auditors, consultants and other advisors)
-  * Third party service providers we may engage to provide administration, technology, auditing, mailing, printing or transport services. We take reasonable steps to ensure that such third party service providers exercise the same standard of care as us in handling your personal information.
-  * Other companies in the Pearson Group. Where that company is overseas, we take all reasonable steps to ensure that the foreign group company is subject to a law or binding scheme that places substantially similar obligations on the recipient company as would be the case of they were bound the Australian Privacy Principles.
-  * Occasionally Pearson Australia will make the contact details of existing and potential customers available to third parties so that they can market their product and services to you. This information will only be shared if you do not chose to opt-out of such mailings.
+In general, we collect personal information in order to conduct our business, to provide and market our goods and services and to meet our legal and regulatory obligations. The personal information we collect about you includes (but is not limited to) your name, contact details (including phone numbers and addresses), gender, date of birth, occupation and other information which may assist us in conducting our business, providing and marketing our goods and services. In certain circumstances we collect financial information, including your credit card information where appropriate. We will generally collect personal information by way of forms filled out by people, face-to-face meetings, interviews, business cards, electronic attachments, telephone conversations and from third parties (representatives, agents or credit reporting agencies). In addition we collect personal information from our web sites through receiving subscription applications, job applications and emails. 
+
+We also collect information about you that is not personal information. For example, we may collect data relating to your activity on our websites (including the type of internet browser you use, your operating system, address of referring site, and your IP address and clickstream information) via tracking technologies such as cookies, or we may collect information from you in response to a survey, promotion or competition. We generally use this information to report statistics, analyse trends, administer our services, diagnose problems and target and improve the quality of our products and services. Cookies allow your browser to utilise some of the features of our sites. We use both session ID cookies and persistent cookies. Most web browsers are set by default to accept cookies. If you reject cookies you will be unable to take advantage of some of the features of our websites. To the extent this information does not constitute personal information, the National Privacy Principles are not applicable and we may use this information for any purpose. 
+
+We generally advise that you do not publish or communicate personal information, or at least limit the personal information that you publish or communicate, to the public via our services, such as in any forums, blogs or anywhere that user generated content can be uploaded (" **Non-Confidential Information** "). We cannot control any third party collection or use of your Non-Confidential Information that is publically available. You agree that we may use and disclose Non-Confidential Information for any purpose and by any means whatsoever. 
+
+### How we collect it
+
+We may collect your personal information from a variety of sources, including from you, advertisers, mailing lists, recruitment agencies, contractors and business partners. 
+
+We may collect your personal information when you request or acquire a product or service from us, register with us as a subscriber or member, provide a product or service to us, complete a survey or questionnaire, enter a competition or event, contribute in a fundraising event, participate in our services (including blogs and forums) or when you communicate with us by e-mail, telephone or in writing (for example if you us to make a complaint or provide feedback). 
+
+If, at any time, you provide personal or other information about someone other than yourself, you warrant that you have that person's consent to provide such information for the purpose specified. 
+
+### Why we collect it
+
+The primary purpose for which we collect information about you is to provide you with products and services you have requested but also the management of business transactions entered into with us and the administration of any accounts you have with us. We may state a more specific purpose at the point we collect your information. 
+
+If you do not provide us with the information that we request, we may not be able to provide you with our products or services. For example, if you do not register as a member of a website, you will not be able to access features or services that are reserved for members or subscribers only. 
+
+### How we use it
+
+In addition to the primary purpose outlined above, we may use the personal information we collect, and you consent to us using your personal information: 
+
+  * to provide you with news and information about our products and services, and opportunities that we believe you may be interested in; 
+  * for purposes necessary or incidental to the provision of goods and services to you; 
+  * to personalise and customise your experiences; 
+  * to manage and enhance our products and services; 
+  * to communicate with you, including by email, mail or telephone; 
+  * to conduct competitions or promotions; 
+  * to verify your identity; 
+  * to investigate any complaints about or made by you, or if we have reason to suspect that you are in breach of any of our terms and conditions or that you are or have been otherwise engaged in any unlawful activity; and/or 
+  * as required or permitted by any law or regulation (including without limitation the Privacy Act). 
 
 
 
-Security and Maintenance 
+### How we disclose it
 
-We have well documented and understood processes for the security of all data whether in physical or electronic form. Security of information is a high priority to us. 
+We may disclose personal information, and you consent to us disclosing your personal information, to other members of the Pearson Group (in which case, your personal information will be collected, used, disclosed, managed and stored in accordance with this Privacy Policy). 
 
-Access to, and manipulation of, information, both physical and electronic, is controlled using systems (electronic and manual) which are current and in line with industry standards. Our systems are regularly reviewed to ensure that the highest standards possible are maintained. 
+We may also disclose personal information, and you consent to us disclosing your personal information, to third parties: 
 
-Only those employees performing services or tasks relevant to your business with us have access to your information. This includes those employees involved in direct marketing. 
+  * engaged by us to perform functions or provide products and services on our behalf, such as newsagents, processing credit card information, mailouts, debt collection, marketing, research and advertising; 
+  * that are our agents, business partners or joint venture entities or partners; 
+  * that sponsor or promote any competition that we conduct or promote via our services; 
+  * authorised by you to receive information held by us; 
+  * as part of any investigation into you or your activity, for example, if we have reason to suspect that you have committed a breach of any of our terms and conditions, or have otherwise been engaged in any unlawful activity, and we reasonably believe that disclosure is necessary to the Police, any relevant authority or enforcement body, or your Internet Service Provider or network administrator; 
+  * as part of a sale (or proposed sale) of all or part of our business; and/or 
+  * as required or permitted by any law (including the Privacy Act). 
 
-Information collected via the website is stored securely by authorised third parties and will only be accessed by authorised personnel. 
 
-We take all reasonable steps to ensure that your information is de identified or destroyed when it is no longer required by us. As a general rule we are legally required to keep information for seven years however this may vary depending on specific legal requirements or our business needs. 
 
-We take all reasonable steps to ensure that your information is current and accurate. To assist us in this regard we request that you notify us of any changes to the information we hold on you. 
+### Opting in or out
 
-Access and Correction 
+At the point we collect information from you, you may be asked to "opt in" to consent to us using or disclosing your personal information other than in accordance with this policy or any applicable law. For example, you may be asked to opt-in to receive further information or communications from our advertisers and supporters. 
 
-You can access your personal details held by us by contacting the Privacy Officer: 
+You will generally be given the opportunity to "opt out" from receiving communications from us or from third parties that send communications to you in accordance with this policy. For example, you will be given the option to unsubscribe to emails or newsletters sent by us. 
 
-Privacy Officer   
-Pearson Australia Group Pty Ltd  
+### Management and security
+
+We have appointed a Privacy Officer to oversee the management of personal information in accordance with this policy and the Privacy Act. 
+
+Other than in relation to Non-Confidential Information, we will take all reasonable steps to protect the personal information that we hold from misuse, loss, or unauthorised access, including by means of firewalls, pass word access, secure servers and encryption of credit card transactions. 
+
+However, you acknowledge that the security of online transactions and the security of communications sent by electronic means or by post cannot be guaranteed. You provide information to us via the internet or by post at your own risk. We cannot accept responsibility for misuse or loss of, or unauthorised access to, your personal information where the security of information is not within our control. 
+
+You acknowledge that we are not responsible for the privacy or security practices of any third party (including third parties that we are permitted to disclose your personal information to in accordance with this policy or any applicable laws). The collection and use of your information by such third party/ies may be subject to separate privacy and security policies. 
+
+If you suspect any misuse or loss of, or unauthorised access to, your personal information, or any other privacy breach please let us know immediately. 
+
+### Accessing and updating your information and how to contact us
+
+Subject to the exceptions set out in the Privacy Act, you may seek access to and update the personal information we hold about you. We will require you to verify your identity and to specify what information you require. A fee may be charged for providing access however we will advise you of the likely cost in advance. 
+
+Subscribers or members of our websites will generally be able to access and update their membership and contact details online. 
+
+We request that you keep your information as current as possible so that we may continue to improve our service to you. 
+
+If you would like to seek access to personal information we hold about you, or if you have any questions or complaints about how we collect, use, disclose, manage or store your personal information, you can contact the department that collected your personal information in the first instance, or write to: 
+
+The Privacy Officer  
+Pearson Australia Group  
 250 Camberwell Road  
-Camberwell VIC 3124  
+Camberwell VIC 3124   
 Phone: (03) 9811 2400  
-Email:[privacy.officer@pearson.com.au](mailto:%20privacy.officer@pearson.com.au)
-
-On receiving your request we give you a time at which you can expect a response and this time will be not later than 14 days after receiving your request. 
-
-There are some exceptions to your right of access, for example, in the case of existing or anticipated legal action. 
-
-If you find that there is an error or omission in the information held about you, please contact the Privacy Coordinator and we will correct the error or omission in our current records as soon as possible. 
-
-For legal and administrative reasons Pearson Australia may also store records containing your personal information in its archives. You may seek access to the records held by Pearson Australia that are not current records, but if you do so, we may charge you for the cost of providing access. 
-
-Enquiries and Disputes 
-
-If you believe that the company has breached your privacy rights in any way, or you would like to discuss any issues about our privacy policy, please contact the Privacy Officer. Contact details are as per the Access and Correction section of this Policy. 
-
-Policy Changes 
-
-This policy may change from time to time. The last update was August 2005. 
+Email: [privacy.officer@pearson.com.au](mailto:privacy.officer@pearson.com.au)  
+  
+---|---
