@@ -1,16 +1,14 @@
-<!--The following is the downloaded HTML source of the canbet.com privacy policy that was archived on 2008-05-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080516035353id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the canbet.com privacy policy that was archived on 2010-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601222321id_/http%3A//www.canbet.com/help/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title>Canbet.com - Privacy Policy</title>
 	
-	<link rel="Shortcut Icon" href="/images/5/favicon.ico">
-	 
-	<link href="/styles/5/en/layout.css" rel="stylesheet" type="text/css" media="screen">
-	
-	<link href="/styles/5/en/brand.css" rel="stylesheet" type="text/css" media="screen">
-	<link href="/styles/5/en/print.css" rel="stylesheet" type="text/css" media="print">
-	<link href="/styles/5/en/checkbox.css" rel="stylesheet" type="text/css" media="screen">
+
+	<link href="/styles/13/en/CanbetCssPackage.css" rel="stylesheet" type="text/css" media="screen">
+	<link href="/styles/13/en/print.css" rel="stylesheet" type="text/css" media="print">
+	<link rel="Shortcut Icon" href="/images/13/favicon.ico">
+
 
 	<link href="/w3c/p3p.xml" type="application/xml" rel="P3Pv1" title="P3P Policy">
 	
@@ -18,15 +16,18 @@
 		function GENERAL_ScriptDefinition()	{
 			this.Global_MustLogin = "You must log in.";
 			this.Global_LoginBeforeAccessing = "Please login before accessing these areas.";
-			this.Global_LoginRegisterBeforeAccessing = "Please ensure you are logged in / registered for Poker before accessing this section...";
+			this.Global_LoginRegisterBeforeAccessing = "Please login or join before Downloading or Instant Play.";
 			this.Global_FunctionNotActivated = "This site is in preview, function not activated.";
 			this.Global_Domain = ".canbet.com";
 			this.Global_AlphNumericMessage = "Please use alpha-numeric characters only";
+			this.Global_EmailIncorrect = "Please enter a correct email address";
 		}
 		var GENERAL_Script = new GENERAL_ScriptDefinition();
 	</script>
-	<script language="JavaScript" src="/ClientScripts/general.js?ver=4.1.57.3" type="text/javascript"></script>
-	<script language="JavaScript" src="/ClientScripts/AC_RunActiveContent.js?ver=4.1.57.3" type="text/javascript"></script>	
+	<script src="/ClientScripts/Common/jquery.1.3.2.js?ver=2010.5.2.1" language="javascript" type="text/javascript"></script>
+	<script src="/ClientScripts/CanbetJavascriptPackage1.js?ver=2010.5.2.1" language="javascript" type="text/javascript"></script>
+	<script language="JavaScript" src="/ClientScripts/racingbetslip.js?ver=2010.5.2.1" type="text/javascript"></script>
+	<script src="/ClientScripts/CanbetJavascriptPackage2.js?ver=2010.5.2.1" language="javascript" type="text/javascript"></script>
 	<script language="JavaScript" type="text/javascript">
 			function include(script_filename) {
 					document.write('<' + 'script');
@@ -70,65 +71,526 @@
 			this.Global_Client_Error_UsernameEmpty = "Username cannot be empty.";
 			this.Global_Client_Error_UsernameInvalid = "Username invalid, only alpha-numeric characters allowed.";
 			this.Global_Client_Error_PasswordEmpty = "Password cannot be empty.";
-			this.Global_Client_Error_PasswordInvalid = "Password invalid, only alpha-numeric characters allowed.";
-			this.Global_Client_AntiAutoValidateLogin_URL = "/includes/AntiAutoValidateLogin.aspx";
-			this.Global_Client_Error_AntiAutoError = "Please enter the characters in the validation box exactly as shown in the picture";
-			this.Global_Client_Error_ValidationCodeEmpty = "Validation Code cannot be empty";
 		}
 		var CLIENT_Login = new CLIENT_LoginDefinition();
+		
 	</script>
-	<script language="JavaScript" src="/ClientScripts/md5a.js?ver=4.1.57.3" type="text/javascript"></script>	
+	<script language="JavaScript" src="/ClientScripts/md5a.js?ver=2010.5.2.1" type="text/javascript"></script>
+	
+	
+    <script language="JavaScript" type="text/javascript">
+
+			function CLIENT_ResourceStringDefinition_Global(){
+			
+                			
+                this.BetSlip_Error_NotConfirmed = "To place your bets, you must check the box beside 'Confirm your selections'";
+                this.BetslipValidateConfirmationPopup = "Please click on confirmation checkbox.";
+                this.Racing_Client_Error_AtLeastOneStake = "You must enter in at least one stake for a runner.";
+                this.Racing_Client_Error_InvalidStakeAmt = "Invalid stake amount for runner.";
+                this.Racing_Client_Error_InvalidStakeAmtForRunner = "Invalid stake amount for runner.";
+                this.Racing_Client_Error_StakeAmtCannotBeZero = "Stake cannot be zero";
+                this.Racing_Client_Error_MultibetOneHorsePerRace = "You may only enter one horse per race in a Multibet.";
+                this.Racing_Client_Error_MultibetNoFixedPrice = "No fixed price available. You cannot add this horse to your Multibet.";
+                this.Racing_Client_Error_PleaseReenter = "Please re-enter."; 
+                this.Racing_Client_Error_StakeAmtGreater = "Stake amount must be $5.00 or greater.";
+                this.Racing_Client_Error_StakeAmtGreaterOne = "Stake amount must be $1.00 or greater.";
+                this.Racing_Client_Error_StakeAmtGreaterThan50Cents = "Stake amount must be $0.50 or greater.";
+                this.Racing_Client_Error_StakeIn50CentInc = "Stake amount must be in $0.50 increments.";
+                this.Racing_Client_Error_StakeInWholeDollars = "Stake amount must be in whole dollars.";
+                this.Racing_Client_Error_StakeNeedEntered = "A stake needs to be entered in at least one bet before proceeding.";
+			this.Soccer_Error_Selection = ""; 
+			
+			}
+			var CLIENT_ResourceString_Global = new CLIENT_ResourceStringDefinition_Global();
+    </script>
 	
 </head>
 <body>
 
-<div id="pagebox">
-<div id="container">
-<div id="boxin">
-<div id="header">
-<div id="site_name"><a href="http://www.canbet.com/"><img src="/images/5/en/logos/company-logo.gif" alt="" border="0"></a></div>
+<div id="header-title"><img src="/images/13/en/print/header.gif"></div>
+<div id="pagebox" class="pagebox"> 
+    <div id="header-container">
+    <div id="header">
+    <div id="site_name"><a href="/"><img src="/images/13/en/logos/company-logo.gif" alt="Canbet - Online Betting" border="0"></a></div>
 
+    <div id="login-panel">
+    
+        <div id="language-time">
+            <div id="language-selection">
+                <ul id="language-selection-menu">
+                    <li><a href="#"><span class="EN-US">English (Int.)</span></a>
+                        <ul>
+                            <li><a href="/default.aspx?lang=en-gb&amp;location=GB"><span class="EN-GB">English (UK)</span></a></li>
+			                <li><a href="/default.aspx?lang=en-us&amp;location=US"><span class="EN-US">English (Int.)</span></a></li>
+			                <li><a href="/default.aspx?lang=zh-sg&amp;location=US"><span class="ZH-SG">中文</span></a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+            <div id="local-time">
+                <span id="current-date-time">01/06/2010 23:20 GMT+01:00</span>
+            </div>
+        </div>
+        <div id="logged-out">
+            <form name="Form1" id="Form2" action="https://www.canbet.com/default.aspx" method="post" onsubmit="return ValidateLogin();">
+                <input id="pwordhid" name="pwordhid" type="hidden">
+                <div id="user-name-field">
+                    <label id="user-name-label" for="userid">Acct No</label>
+                    <input tabindex="1" style="vertical-align:bottom;" type="text" size="6" id="userid" name="userid" value="" class="user-name-input">
+                </div>
+                <div id="password-field">
+                    <label id="password-label" for="pword">Password</label>
+                    <input tabindex="2" style="vertical-align:bottom;" type="password" size="6" id="pword" name="pword" value="" class="password">
+                </div>
+                <div id="buttons">
+                    <div id="join-now"><a tabindex="4" href="https://www.canbet.com/myaccount/join/joinfull.aspx">Join Now</a></div>
+                    <div id="forgot-password"><a tabindex="5" href="https://www.canbet.com/myaccount/password_retrevial.aspx">Forgot Password?</a></div>
+                    <div id="login-container">
+                        <input tabindex="3" type="submit" id="login-btn" value="Login" alt="" title="Click here to login.">
+                    </div>   
+                </div>
+            </form>
+        </div>
+    
+    </div>
+	    
 
-	<div id="login">
-		<form name="Form1" id="Form1" action="http://www.canbet.com/default.aspx" method="post" onsubmit="return ValidateLogin();"><input id="pwordhid" name="pwordhid" type="hidden">
-			<ul>
-				<li><label>Account Number: <input style="vertical-align:bottom;" type="text" size="6" id="userid" name="userid"></label></li>
-				<li><label>Password: <input style="vertical-align:bottom;" type="password" size="6" id="pword" name="pword"></label></li>
-				<li><label>Validation: <img src="/includes/AntiAutoDrawImage.aspx?bgpath=D%3a%5c%5cProjects%5c%5cGold%5c%5cWeb%5c%5cIASbet_GLD_Canbet%5c%5cimages%5c%5cantiauto_bg_login.jpg&amp;fontfamily=Arial&amp;fontstyle=Bold&amp;fontsize=12&amp;fontcolor=DarkBlue&amp;index1_x=3&amp;index2_x=13&amp;index1_y=2&amp;index2_y=1" align="absmiddle"> <input style="vertical-align:bottom;" type="text" size="6" id="AntiAutoUserText" name="AntiAutoUserText"><input type="hidden" id="AntiAutoValid" name="AntiAutoValid" value=""></label></li>
-				<li><input type="submit" id="login-btn" value="Login" alt="" title="Click here to login."></li>
-				<li><span style="font-size: 0.9em; font-style:italic; padding-right:12px;">Enter the characters above into the box</span><a href="https://www.canbet.com/myaccount/password_retrevial.aspx">Password?</a></li>
-				<li style="display:block;list-style-type:none;margin-right:2px;"><a href="javascript:OpenPopupBigger('validation_help', 700, 850);">Validation Help</a></li>			
-			</ul>
-		</form>
-	</div> 	
+<div id="primary-navigation-menu">
+		
+                <div id="first-menu">
+                    <ul>
+                        
+                <li class="first-menu-item">
+                    <a href="http://www.canbet.com/sport/soccer-football-betting.aspx" onclick="NAV_SetCookie(23, false)">
+                    Soccer
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/site/racing/todayracing.aspx" onclick="NAV_SetCookie(30, false)">
+                    Racing
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/default.aspx" onclick="NAV_SetCookie(57, false)">
+                    Sports
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://casino.canbet.com" onclick="NAV_SetCookie(58, false)" target="_blank">
+                    Casino
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://poker.canbet.com" onclick="NAV_SetCookie(60, false)" target="_blank">
+                    Poker
+                    </a>
+                </li>
+            
+                <li class="last-menu-item">
+                    <a href="http://www.canbetcricket.com" onclick="NAV_SetCookie(62, false)" target="_blank">
+                    Exchange
+                    </a>
+                </li>
+            
+                    </ul>
+                </div>
+            
+        
+                <div id="second-menu">
+                    <ul>
+                        
+                <li>
+                    <a href="http://www.canbet.com/default.aspx" onclick="NAV_SetCookie(31, false)">
+                    Home
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="https://www.canbet.com/myaccount/join/joinfull.aspx" onclick="NAV_SetCookie(32, false)">
+                    Join Now
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/help/default.aspx" onclick="NAV_SetCookie(33, false)">
+                    Help
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://server.iad.liveperson.net/hc/26443102/?cmd=file&amp;file=visitorWantsToChat&amp;site=26443102&amp;byhref=1&amp;imageUrl=http://" onclick="javascript:OpenLiveChat();" target="chat26443102">
+                    Live Help
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/aboutus/contactus.aspx" onclick="NAV_SetCookie(36, false)">
+                    Contact Us
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/help/bankingFAQ.aspx" onclick="NAV_SetCookie(37, false)">
+                    Banking
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/aboutus/default.aspx" onclick="NAV_SetCookie(38, false)">
+                    About Us
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/site/freebet/FBBonuses.aspx" onclick="NAV_SetCookie(39, false)">
+                    Bonuses
+                    </a>
+                </li>
+            
+                <li>
+                    <a href="http://www.canbet.com/stats/default.aspx" onclick="NAV_SetCookie(22, false)">
+                    Stats
+                    </a>
+                </li>
+            
+                    </ul>
+                </div>
+            
+</div>
+	    <div id="bet-slip-loading"></div>
+	    <div id="betslip">
+        </div>
+    </div><!-- end header -->
+    </div><!-- end header container -->
+    <div id="container">
+        <div id="boxin">
+            <input name="template$Navigation$currentId" type="hidden" id="template_Navigation_currentId" value="0"> 
 
-  <div id="language" style="align:left; width:95px;">
-   <ul>
-			<li><a href="/default.aspx?lang=en-gb&amp;location=GB"><img src="\images\5\en\misc\flags\flag_lang_GB.jpg" border="0"></a></li>
-			<li><a href="/default.aspx?lang=en-us&amp;location=US"><img src="\images\5\en\misc\flags\flag_lang_CAN.jpg" border="0"></a></li>
-			<li><a href="/default.aspx?lang=zh-sg"><img src="\images\5\en\misc\flags\flag_lang_CHS.jpg" border="0"></a></li>
-   </ul>
-  </div>
-
-	<div id="tabs">
-		<ul>
-			<li><a href="http://www.canbet.com/sport/SoccerMenuLive.aspx">Live Soccer</a></li><li><a href="http://www.canbet.com/Sport/SportMain.aspx">Sports</a></li><li><a href="http://www.canbet.com/site/racing/racingmain.aspx">Racing</a></li><li><a href="http://www.canbet.com/site/poker/">Poker</a></li><li><a href="http://www.canbet.com/site/casino/">Casino</a></li><li><a href="http://www.canbet.com/site/games/">Games</a></li><li class="message"><a href="https://www.canbet.com/myaccount/join/joinfull.aspx">Join Now</a></li>
-		</ul>
-	</div><!-- end tabs -->		
-</div><!-- end header -->
 <div id="menu">
-	<ul><li class="head"><a href="http://www.canbet.com/default.aspx">Home</a></li><li><a href="http://www.canbet.com/aboutus/default.aspx">About Us</a></li><li><a href="http://server.iad.liveperson.net/hc/2760631/?cmd=file&amp;file=visitorWantsToChat&amp;site=2760631&amp;byhref=1&amp;imageUrl=http://www.canbet.co.uk/images" target="chat83179417" onclick="javascript:OpenLiveChat();">Live Help</a></li><li><a href="http://www.canbet.com/site/freebet/FBMenu.aspx" onclick="return CheckLoggedInlnk();">Free Bets</a></li><li><a href="http://www.canbet.com/site/freebet/FBBonuses.aspx">Bonuses</a></li><li><a href="http://www.canbet.com/help/bankingFAQ.aspx">Banking Information</a></li><li><a href="http://www.canbet.com/aboutus/contactus.aspx">Contact Us</a></li><li><a href="http://www.canbet.com/Help/default.aspx">Help &amp; Rules</a></li><li><a href="http://www.canbet.com/stats/default.aspx">Stats &amp; Scores</a></li><li class="message"><a href="https://www.canbet.com/MyAccount/Join/JoinFull.aspx">Join Now</a></li><li class="head"><a href="http://www.canbet.com/sport/soccer-football-betting.aspx">Soccer</a></li><li><a href="http://www.canbet.com/sport/SoccerMenuLive.aspx">Live 'In-Play'</a></li><li><a href="http://www.canbet.com/sport/soccer-football-betting.aspx">Major Leagues</a></li><li><a href="http://www.canbet.com/sport/soccer-football-betting.aspx#OLeagues">Other Leagues</a></li><li class="head"><a href="http://www.canbet.com/site/racing/racingmain.aspx">Racing</a></li><li><a href="/racing/uk-horse-racing.aspx">UK &amp; Irish Horse</a></li><li><a href="http://www.canbet.com/racing/uk-greyhound-racing.aspx">UK Greyhound</a></li><li><a href="http://www.canbet.com/site/racing/racingmeetingsstatus.aspx?type=R&amp;country=HK&amp;date=">Hong Kong Horse</a></li><li><a href="http://www.canbet.com/racing/sa-horse-racing.aspx">South African Horse</a></li><li class="head"><a href="http://www.canbet.com/Sport/SportMain.aspx">Sports</a></li><li><a href="http://www.canbet.com/sport/american-football-betting.aspx">Football</a></li><li><a href="http://www.canbet.com/sport/basketball-betting.aspx">Basketball</a></li><li><a href="http://www.canbet.com/sport/mlb-baseball-betting.aspx">Baseball</a></li><li><a href="http://www.canbet.com/sport/nhl-hockey-betting.aspx">Ice Hockey</a></li><li><a href="http://www.canbet.com/sport/soccer-football-betting.aspx">Soccer</a></li><li><a href="http://www.canbet.com/sport/SoccerMenuLive.aspx">Soccer - LIVE</a></li><li><a href="http://www.canbet.com/sport/golf-betting.aspx">Golf</a></li><li><a href="http://www.canbet.com/sport/motorsport-betting.aspx">Motor Racing</a></li><li><a href="http://www.canbet.com/sport/SportMenuDefault.aspx?ID=19">Netball</a></li><li><a href="http://www.canbet.com/sport/tennis-betting.aspx">Tennis</a></li><li><a href="http://www.canbet.com/sport/cricket-betting.aspx">Cricket</a></li><li><a href="http://www.canbet.com/sport/rugby-league-betting.aspx">Rugby League</a></li><li><a href="http://www.canbet.com/sport/rugby-union-betting.aspx">Rugby Union</a></li><li><a href="http://www.canbet.com/sport/afl-football-betting.aspx">Aussie Rules</a></li><li><a href="http://www.canbet.com/sport/boxing-betting.aspx">Boxing</a></li><li class="menu_inactive"><a href="#" class="inactive">Cycling</a></li><li class="menu_inactive"><a href="#" class="inactive">Snooker</a></li><li><a href="http://www.canbet.com/sport/SportMenuDefault.aspx?ID=32">Yachting</a></li><li><a href="http://www.canbet.com/sport/entertainment-betting.aspx">Entertainment</a></li><li><a href="http://www.canbet.com/sport/election-betting.aspx">Elections</a></li><li class="head"><a href="http://www.canbet.com/site/poker/">Poker</a></li><li class="head"><a href="http://www.canbet.com/site/casino/">Casino</a></li><li class="head"><a href="http://www.canbet.com/site/games/">Games</a></li></ul>
-</div><!-- end menu -->
-<input type="hidden" id="XMLId" value="295">
-<div id="content">
-	
-			<div id="cmt-copy">
-	<h1>Canbet.com Privacy Policy</h1>
-		<p>In providing betting services to clients, Canbet is committed to ensuring the privacy of everyone we deal with, and to providing you with the highest levels of customer service.</p>
-		<p>Canbet attaches great importance to safeguarding its customer information.</p>
-		<p>Canbet has in place systems and processes that comply with the Data Protection Principles, which protect our customers and are the basis of the Data Protection Act 1998 (UK).</p>
-		<p>These principles state that data must be:</p>
-		<ol>
+    <div id="template_Navigation_navMenuTopLevel">
+
+        
+        
+            <div>
+                <ul>
+                    
+                <li class="">
+                <a href="http://www.canbet.com/site/racing/todayracing.aspx" onclick="NAV_SetCookie(30,false);" class="level0"><span class="level0 ">Horse Racing</span></a>
+                
+                    
+                    
+                            <ul>
+                                
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/todayracing.aspx" onclick="NAV_SetCookie(120,false);" class="level1"><span class="level1 level1-empty ">Today</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/racingmeetingsstatus.aspx?type=R&amp;country=GB&amp;date=" onclick="NAV_SetCookie(88,false);" class="level1"><span class="level1 ">UK &amp; Ireland</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/racingmeetingsstatus.aspx?type=R&amp;country=HK&amp;date=" onclick="NAV_SetCookie(90,false);" class="level1"><span class="level1 level1-empty ">Hong Kong</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/racingmeetingsstatus.aspx?type=R&amp;country=SG&amp;date=" onclick="NAV_SetCookie(89,false);" class="level1"><span class="level1 level1-empty ">Singapore</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/racingfuturelist.aspx" onclick="NAV_SetCookie(94,false);" class="level1"><span class="level1 level1-empty ">Antepost</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/site/racing/TomorrowsRacing.aspx" onclick="NAV_SetCookie(98,false);" class="level1"><span class="level1 level1-empty ">Tomorrow</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+
+            
+                <li class="">
+                <a href="http://www.canbet.com/default.aspx" onclick="NAV_SetCookie(57,false);" class="level0"><span class="level0 ">Sports</span></a>
+                
+                    
+                    
+                            <ul>
+                                
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/fifaWorldCup2010-betting.aspx" onclick="NAV_SetCookie(161,false);" class="level1"><span class="level1 level1-empty ">World Cup 2010</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/fifaWorldCup2010-futures.aspx" onclick="NAV_SetCookie(162,false);" class="level1"><span class="level1 level1-empty ">World Cup Futures</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/soccer-football-betting.aspx" onclick="NAV_SetCookie(23,false);" class="level1"><span class="level1 ">Soccer</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/american-football-betting.aspx" onclick="NAV_SetCookie(110,false);" class="level1"><span class="level1 ">American Football</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/afl-football-betting.aspx" onclick="NAV_SetCookie(24,false);" class="level1"><span class="level1 ">Australian Rules</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/mlb-baseball-betting.aspx" onclick="NAV_SetCookie(25,false);" class="level1"><span class="level1 ">Baseball</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/basketball-betting.aspx" onclick="NAV_SetCookie(26,false);" class="level1"><span class="level1 ">Basketball</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/boxing-betting.aspx" onclick="NAV_SetCookie(27,false);" class="level1"><span class="level1 ">Boxing</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/cricket-betting.aspx" onclick="NAV_SetCookie(28,false);" class="level1"><span class="level1 ">Cricket</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/cycling-betting.aspx" onclick="NAV_SetCookie(34,false);" class="level1"><span class="level1 ">Cycling</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/golf-betting.aspx" onclick="NAV_SetCookie(40,false);" class="level1"><span class="level1 ">Golf</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/nhl-hockey-betting.aspx" onclick="NAV_SetCookie(41,false);" class="level1"><span class="level1 ">Ice Hockey</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/motorsport-betting.aspx" onclick="NAV_SetCookie(42,false);" class="level1"><span class="level1 ">Motor Racing</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/netball-betting.aspx" onclick="NAV_SetCookie(43,false);" class="level1"><span class="level1 ">Netball</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/rugby-league-betting.aspx" onclick="NAV_SetCookie(63,false);" class="level1"><span class="level1 ">Rugby League</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/rugby-union-betting.aspx" onclick="NAV_SetCookie(64,false);" class="level1"><span class="level1 ">Rugby Union</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/snooker-betting.aspx" onclick="NAV_SetCookie(65,false);" class="level1"><span class="level1 ">Snooker</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/tennis-betting.aspx" onclick="NAV_SetCookie(79,false);" class="level1"><span class="level1 ">Tennis</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/yachting-betting.aspx" onclick="NAV_SetCookie(80,false);" class="level1"><span class="level1 ">Yachting</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/election-betting.aspx" onclick="NAV_SetCookie(81,false);" class="level1"><span class="level1 ">Elections</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/field-hockey-betting.aspx" onclick="NAV_SetCookie(124,false);" class="level1"><span class="level1 ">Field Hockey</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/entertainment-betting.aspx" onclick="NAV_SetCookie(82,false);" class="level1"><span class="level1 ">Entertainment</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/other-sports-betting.aspx" onclick="NAV_SetCookie(83,false);" class="level1"><span class="level1 ">Other Events</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            
+                            <li class="">
+                            <a href="http://www.canbet.com/sport/winter-sports-betting.aspx" onclick="NAV_SetCookie(157,false);" class="level1"><span class="level1 level1-empty ">Winter Sports</span></a>
+                                
+                                
+                                
+                            </li>
+                        
+                            </ul>
+                        
+                </li>
+
+            
+                <li class="">
+                <a href="http://casino.canbet.com" onclick="NAV_SetCookie(58,false);" target="_blank" class="level0"><span class="level0 level0-empty ">Casino</span></a>
+                
+                    
+                    
+                </li>
+
+            
+                <li class="">
+                <a href="http://poker.canbet.com" onclick="NAV_SetCookie(60,false);" target="_blank" class="level0"><span class="level0 level0-empty ">Poker</span></a>
+                
+                    
+                    
+                </li>
+
+            
+                <li class="">
+                <a href="http://www.canbetcricket.com" onclick="NAV_SetCookie(62,false);" class="level0"><span class="level0 level0-empty ">Exchange</span></a>
+                
+                    
+                    
+                </li>
+
+            
+                </ul>
+            </div>
+            
+    </div>
+
+    
+</div>
+
+                
+
+            
+ 
+           <input type="hidden" id="XMLId" value="95477">  
+
+            <div id="content">
+                <a name="top"></a>
+                
+	            
+			<a name="topofpage"></a>
+<div class="content-page-header">Privacy Policy</div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+        In providing betting services to clients, Canbet is committed to ensuring the privacy of everyone we deal with, and to providing you with the highest levels of customer service.<br><br>Canbet attaches great importance to safeguarding its customer information.<br><br>Canbet has in place systems and processes that comply with the Data Protection Principles, which protect our customers and are the basis of the Data Protection Act 1998 (UK).<br><br><strong>These principles state that data must be:</strong>
+		<ol style="padding:10px 10px 10px 25px;">
 			<li>fairly and lawfully processed;</li>
 			<li>processed for limited purposes;</li>
 			<li>adequate, relevant and not excessive;</li>
@@ -137,17 +599,32 @@
 			<li>processed in line with your rights;</li>
 			<li>secure; and</li>
 			<li>not transferred to countries without adequate protection.</li>
-		</ol>
-	<h2>Personal Information</h2><p>Canbet collects personal information in the provision of our wagering services to you. This is collected in a number of ways including:</p>
-		<ul>
+		</ol></td>
+   	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Personal Information</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">Canbet collects personal information in the provision of our wagering services to you. <strong>This is collected in a number of ways including:</strong>
+		<ul style="padding:10px 10px 10px 25px;">
 			<li>directly from you when you enter your personal details on our website/s to open an account or update your details;</li>
 			<li>from publicly available sources of information, including third parties from whom we may acquire lists.</li>
 		</ul>
-		<p>Canbet will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Use of Information</h2>
-		<p>Canbet usually collects information from you to:</p>
-		<ol>
+		Canbet will tell you why we are collecting information when we collect it and how we plan to use it or these things will be obvious when we collect the information.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Use of Information</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		<strong>Canbet usually collects information from you to:</strong>
+		<ol style="padding:10px 10px 10px 25px;">
 			<li>identify you and to assist you to obtain the Canbet products and services you require;</li>
 			<li>administer and manage these services including opening and the ongoing settlement of your wagering account;</li>
 			<li>conduct appropriate checks for credit worthiness and for fraud;</li>
@@ -155,86 +632,414 @@
 			<li>gain an understanding of your needs in order to provide you with better and more personalized products and services tailored to your requirements; and</li>
 			<li>promote and market to you other products, which may be of interest to you.</li>
 		</ol>
-		<p>When Canbet collects personal information from you, we will provide you with the opportunity to indicate that you do not want this disclosed for marketing or secondary purposes. You can notify us at anytime at <a href="mailto:mail@canbet.com">mail@canbet.com</a> to notify of your requirements or preferences.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Use by Third Parties</h2><br>
-		<p>Canbet does not sell customer information to any third party. Canbet may share your personal information with other Companies with whom we have a relationship. Some of these sites may be co-branded with our logo, however, these sites are not operated or maintained on our behalf. These links are for the convenience of the user, however, we cannot accept responsibility for the content or practices of websites operated by third parties that are linked to our sites.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Security</h2>
-		<p>Canbet takes all reasonable steps to ensure that your personal information is stored securely. Transmissions sent to or from our website/s are routinely monitored for quality control and systems administration. Canbet cannot guarantee the total security of any data transmission over the Internet, however, we strive to protect your personal information to the maximum extent possible. A variety of physical and electronic methods are used, including but not limited to, restricting access to offices, databases and firewalls to keep personal information secure from misuse, loss or unauthorized use. Amongst the most important information Canbet collects, is credit card information. Canbet operates secure servers, using high-level encryption, to minimize the risk of unauthorized use of this type of information.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Children’s Privacy</h2>
-		<p>Canbet takes our responsibility to protect children from the social impact of wagering seriously, until they are legally able to make such decisions. Canbet will not accept information from minors for the purpose of opening a wagering account. It is however, ultimately the responsibility of the parents or guardian/s to monitor their children’s Internet activities and, if desired, to use appropriate screening software.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Access to Personal Information</h2>
-		<p>You have the right to access most personal information Canbet holds about you, and if we deny access in certain circumstances, we will tell you why. If you would like to do so, please let us know by sending an email to the Contact Us page.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Public Information</h2>
-		<p>Information posted on bulletin boards or communicated within a chat room becomes public information. Canbet cannot guarantee the security of this type of disclosed information.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>Cookies</h2>
-		<p>A "cookie" is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as user ID that the website uses to track the pages you have visited. The only personal information a cookie can contain is information you personally supply. A cookie cannot read data off your hard drive or read cookie files created by other websites.</p>
-		<p>You can control the use of this data by setting your browser to notify you when you receive a cookie, giving you the opportunity to accept or reject it.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-	<h2>What else should you know?</h2>
-		<p>Remember to close your browser when you have finished your user session. This is particularly necessary if you share a computer with someone else, or you access a computer in a public place.</p>
-		<p>You, as an individual, are responsible for the security of, and access to, your own computer. Ultimately, you are solely responsible for maintaining the secrecy of your username, password and account information. Please exercise extreme care when you are using the Internet and our website/s.</p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-
-<h2>Unsubscribe</h2>
-		<p>In order to communicate important account and promotional information, you will receive e-mail and hard mail from us. Should you not wish to receive communications of this nature, please e-mail our <a href="http://www.canbet.com/aboutus/contactus.aspx">Customer Services Department</a> to indicate your communication preferences. </p>
-<p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-
-	<h2>Further Information</h2>
-	<p>For further information, please contact our Privacy Officer through <a href="mailto:mail@canbet.com">mail@canbet.com</a> if you have any questions and/or comments in relation to your rights under Privacy with Canbet.</p><p style="text-align:right; margin:0; padding: 0 0 10px 0;"><a href="#top" title="Back to Top"><img src="/images/top-arrow.gif" alt="Back to Top" style="border:none;"></a></p>
-</div>
-	
-</div><!-- end content -->
-<!-- HomePageBottomContent -->
-
-<!--Static=-->
-<!-- end HomePageBottomContent -->
-<div id="footer">
-<table border="0" cellpadding="0" cellspacing="0" name="footertable" id="footertable">
-<tbody><tr>
-	<td>
-<!--Static=FooterContentLeft--><img src="/images/5/en/misc/icons_left.gif"></td>
-	<td>
-		
- 		<div id="footer_nav"><p><a href="/default.aspx">Home</a> 
-		| <a href="/site/common/sitemap.aspx">Site Map</a>
-	    | <a href="/help/privacy.aspx">Privacy</a>
-	    | <a href="/aboutus/disclaimer.aspx">Disclaimer</a>
-	    | <a href="/aboutus/responsiblegaming.aspx">Responsible Gambling</a>
-		| <a href="#" onclick="OpenPopUpWindow('http://www.commissionking.com','Affiliate','scrollbars=yes,resizable=yes,width=800,height=600')">Affiliates</a>
-		| <a href="/aboutus/default.aspx">About Us</a>
-		| <a href="/aboutus/contactus.aspx">Contact Us</a> <br> 
-		  <a href="http://www.internationalallsports.com/">Corporate</a> 
-		| <a href="http://www.internationalallsports.com/careers.html">Careers </a>
-		| <a href="/WhatsNew/default.aspx">Whats New</a>
-		| <a href="/whatsnew/bonuses-raf.aspx">Refer a Friend</a>
-				
-		
-		
-		</p></div>		
-		
-		<div id="title"><p>Canbet.com - Privacy Policy</p></div>
-		<div id="copyright"><p>© Copyright 2008 Canbet Ltd All Rights Reserved | *<a href="/help/company_rules.aspx">General Rules and Conditions Apply</a> <br> Licensed and regulated by the <a href="http://www.gamblingcommission.gov.uk" target="_blank">Gambling Commission</a> (No. 002504) </p></div>
-		
-	</td>
-<td>
-<!--Static=FooterContentRight--><img src="/images/5/en/misc/icons_right.gif"></td>
-</tr>
+		When Canbet collects personal information from you, we will provide you with the opportunity to indicate that you do not want this disclosed for marketing or secondary purposes. You can notify us at anytime at <a href="mailto:mail@canbet.com">mail@canbet.com</a> to notify of your requirements or preferences.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
 </tbody></table>
-</div><!-- end footer -->
-</div><!-- end boxin-->
-</div><!-- end container -->
+<div class="bettype-header"><strong>Use by Third Parties</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		Canbet does not sell customer information to any third party. Canbet may share your personal information with other Companies with whom we have a relationship. Some of these sites may be co-branded with our logo, however, these sites are not operated or maintained on our behalf. These links are for the convenience of the user, however, we cannot accept responsibility for the content or practices of websites operated by third parties that are linked to our sites.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Security</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		Canbet takes all reasonable steps to ensure that your personal information is stored securely. Transmissions sent to or from our website/s are routinely monitored for quality control and systems administration. Canbet cannot guarantee the total security of any data transmission over the Internet, however, we strive to protect your personal information to the maximum extent possible. A variety of physical and electronic methods are used, including but not limited to, restricting access to offices, databases and firewalls to keep personal information secure from misuse, loss or unauthorized use. Amongst the most important information Canbet collects, is credit card information. Canbet operates secure servers, using high-level encryption, to minimize the risk of unauthorized use of this type of information.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Children’s Privacy</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		Canbet takes our responsibility to protect children from the social impact of wagering seriously, until they are legally able to make such decisions. Canbet will not accept information from minors for the purpose of opening a wagering account. It is however, ultimately the responsibility of the parents or guardian/s to monitor their children’s Internet activities and, if desired, to use appropriate screening software.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Access to Personal Information</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		You have the right to access most personal information Canbet holds about you, and if we deny access in certain circumstances, we will tell you why. If you would like to do so, please let us know by sending an email to the Contact Us page.</td>
+   	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Public Information</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		Information posted on bulletin boards or communicated within a chat room becomes public information. Canbet cannot guarantee the security of this type of disclosed information.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Cookies</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		A "cookie" is a small data file that a website may write to your hard drive when you visit it. A cookie file can contain information, such as user ID that the website uses to track the pages you have visited. The only personal information a cookie can contain is information you personally supply. A cookie cannot read data off your hard drive or read cookie files created by other websites.<br><br>
+		You can control the use of this data by setting your browser to notify you when you receive a cookie, giving you the opportunity to accept or reject it.</td>
+   	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>What else should you know?</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		Remember to close your browser when you have finished your user session. This is particularly necessary if you share a computer with someone else, or you access a computer in a public place.<br><br>You, as an individual, are responsible for the security of, and access to, your own computer. Ultimately, you are solely responsible for maintaining the secrecy of your username, password and account information. Please exercise extreme care when you are using the Internet and our website/s.</td>
+	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Unsubscribe</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		In order to communicate important account and promotional information, you will receive e-mail and hard mail from us. Should you not wish to receive communications of this nature, please e-mail our <a href="http://www.canbet.com/aboutus/contactus.aspx">Customer Services Department</a> to indicate your communication preferences.</td>
+  	</tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+<div class="bettype-header"><strong>Further Information</strong></div>
+<table border="0" cellpadding="10" cellspacing="0" width="610" bgcolor="#f1f1f1" style="padding:10px 10px 10px 10px;">
+	<tbody><tr>
+    	<td align="left" valign="top" style="padding:10px 10px 10px 10px;">
+		For further information, please contact our Privacy Officer through <a href="mailto:mail@canbet.com">mail@canbet.com</a> if you have any questions and/or comments in relation to your rights under Privacy with Canbet.</td>
+    </tr>
+	<tr>
+    	<td align="right" valign="top" style="padding:10px 10px 10px 10px;"><a href="#topofpage"><img src="/images/13/en/misc/top-arrow-bggrey.jpg" width="10" height="10" border="0"></a></td>
+   	</tr>
+</tbody></table>
+
+	
+            </div><!-- end content -->
+            
+            
+            
+            <!-- HomePageBottomContent -->
+            <div id="additional-content">
+            
+<!--Static=-->
+            </div>
+            <!-- end HomePageBottomContent -->
+        </div><!-- end boxin-->
+        
+            <div id="footer-container">
+            
+
+    <div id="footer">
+        <div id="footer-links">
+            
+                    
+                    <div>
+                        <h1>Canbet.com</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Sports Betting"><h2><a href="http://www.canbet.com/default.aspx">Sports Betting</a></h2></li>
+                                
+                                    <li class="Horse Racing"><h2><a href="http://www.canbet.com/site/racing/todayracing.aspx">Horse Racing</a></h2></li>
+                                
+                                    <li class="Casino"><h2><a href="http://casino.canbet.com" target="_blank">Casino</a></h2></li>
+                                
+                                    <li class="Poker"><h2><a href="http://poker.canbet.com" target="_blank">Poker</a></h2></li>
+                                
+                                    <li class="Bet Exchange"><h2><a href="http://www.canbetcricket.com" target="_blank">Bet Exchange</a></h2></li>
+                                
+                                    <li class="Soccer Betting"><h2><a href="http://www.canbet.com/sport/soccer-football-betting.aspx">Soccer Betting</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Corporate</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="About Us"><h2><a href="http://www.canbet.com/aboutus/default.aspx">About Us</a></h2></li>
+                                
+                                    <li class="Jobs"><h2><a href="http://www.canbet.com/whatsnew/careers.aspx">Jobs</a></h2></li>
+                                
+                                    <li class="Privacy"><h2><a href="http://www.canbet.com/help/privacy.aspx">Privacy</a></h2></li>
+                                
+                                    <li class="Disclaimer"><h2><a href="http://www.canbet.com/aboutus/disclaimer.aspx">Disclaimer</a></h2></li>
+                                
+                                    <li class="Responsible Gambling"><h2><a href="http://www.canbet.com/aboutus/responsiblegaming.aspx">Responsible Gambling</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Resources</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Banking"><h2><a href="http://www.canbet.com/help/bankingFAQ.aspx">Banking</a></h2></li>
+                                
+                                    <li class="Bonuses"><h2><a href="http://www.canbet.com/site/freebet/FBBonuses.aspx">Bonuses</a></h2></li>
+                                
+                                    <li class="Affiliates"><h2><a href="http://www.commissionking.com">Affiliates</a></h2></li>
+                                
+                                    <li class="Refer a Friend"><h2><a href="http://www.canbet.com/whatsnew/bonuses-raf.aspx">Refer a Friend</a></h2></li>
+                                
+                                    <li class="Terms and Conditions"><h2><a href="http://www.canbet.com/help/company_rules.aspx">Terms and Conditions</a></h2></li>
+                                
+                                    <li class="Site Map"><h2><a href="http://www.canbet.com/site/common/sitemap.aspx">Site Map</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Customer Support</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Live Help"><h2><a href="http://server.iad.liveperson.net/hc/26443102/?cmd=file&amp;file=visitorWantsToChat&amp;site=26443102&amp;byhref=1&amp;imageUrl=http://" onclick="javascript:OpenLiveChat();" target="chat26443102">Live Help</a></h2></li>
+                                
+                                    <li class="Help and Rules"><h2><a href="http://www.canbet.com/help/default.aspx">Help and Rules</a></h2></li>
+                                
+                                    <li class="Contact Us"><h2><a href="http://www.canbet.com/aboutus/contactus.aspx">Contact Us</a></h2></li>
+                                
+                                    <li class="Complaints"><h2><a href="http://www.canbet.com/aboutus/complaints.aspx">Complaints</a></h2></li>
+                                
+                                    <li class="IBAS_18Only"><h2><a href="http://www.canbet.com/aboutus/responsiblegaming.aspx">IBAS_18Only</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Security</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="GeoTrust"><h2><a href="http://www.canbet.com/default.aspx">GeoTrust</a></h2></li>
+                                
+                                    <li class="WatchTheClock"><h2><a href="http://www.canbet.com/default.aspx">WatchTheClock</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Best Viewed With</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="IE"><h2><a href="http://www.microsoft.com/Downloads/details.aspx?familyid=9AE91EBE-3385-447C-8A30-081805B2F90B" target="_blank">IE</a></h2></li>
+                                
+                                    <li class="Firefox"><h2><a href="http://www.mozilla.com" target="_blank">Firefox</a></h2></li>
+                                
+                                    <li class="Safari"><h2><a href="http://www.apple.com/safari/download/" target="_blank">Safari</a></h2></li>
+                                
+                                    <li class="BestViewed"><h2><a href="http://www.canbet.com/help/supportbrowser.aspx">BestViewed</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div id="verification"></div>
+                
+            <div id="banking-links">
+                
+                    
+                    <div>
+                        <h1>Banking</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Visa"><h2><a href="http://www.canbet.com/help/bankingFAQ.aspx">Visa</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                
+            </div>
+        </div>
+        <div id="footer-text"></div>
+        <div id="copyright-info">© Copyright 2010 Canbet Ltd All Rights Reserved | *<a href="/help/company_rules.aspx">General Rules and Conditions Apply</a><br>Canbet Sportsbook is licensed and regulated by the <a href="http://www.gamblingcommission.gov.uk" target="_blank">Gambling Commission</a> (No. 002504)<br>Canbet Casino and Canbet Poker, operated by GSE, is licensed and regulated by the <a href="#" onclick="window.open('https://certificates.gamingcommission.ca/KGCCertificates.aspx?id=0c9561ee-14e3-4a8d-b183-324f45b5cccc','BrandNameCertificates','location=0,status=0,scrollbars=1');" style="outline:none;">Kahnawake Gaming Commission</a> (No.00547).</div>
+        <div id="version-number">v2010.5.2.1</div>
+    </div>        
+            </div>
+            
+    </div><!-- end container -->
 
 </div><!-- end pagebox -->
-<!-- 10.10.1.33 / 4.1.57.3 -->
-<script language="javascript" src="/ClientScripts/referdetect.js?ver=4.1.57.3"></script>
+<div id="footer-title">
+
+
+    <div id="footer">
+        <div id="footer-links">
+            
+                    
+                    <div>
+                        <h1>Canbet.com</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Sports Betting"><h2><a href="http://www.canbet.com/default.aspx">Sports Betting</a></h2></li>
+                                
+                                    <li class="Horse Racing"><h2><a href="http://www.canbet.com/site/racing/todayracing.aspx">Horse Racing</a></h2></li>
+                                
+                                    <li class="Casino"><h2><a href="http://casino.canbet.com" target="_blank">Casino</a></h2></li>
+                                
+                                    <li class="Poker"><h2><a href="http://poker.canbet.com" target="_blank">Poker</a></h2></li>
+                                
+                                    <li class="Bet Exchange"><h2><a href="http://www.canbetcricket.com" target="_blank">Bet Exchange</a></h2></li>
+                                
+                                    <li class="Soccer Betting"><h2><a href="http://www.canbet.com/sport/soccer-football-betting.aspx">Soccer Betting</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Corporate</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="About Us"><h2><a href="http://www.canbet.com/aboutus/default.aspx">About Us</a></h2></li>
+                                
+                                    <li class="Jobs"><h2><a href="http://www.canbet.com/whatsnew/careers.aspx">Jobs</a></h2></li>
+                                
+                                    <li class="Privacy"><h2><a href="http://www.canbet.com/help/privacy.aspx">Privacy</a></h2></li>
+                                
+                                    <li class="Disclaimer"><h2><a href="http://www.canbet.com/aboutus/disclaimer.aspx">Disclaimer</a></h2></li>
+                                
+                                    <li class="Responsible Gambling"><h2><a href="http://www.canbet.com/aboutus/responsiblegaming.aspx">Responsible Gambling</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Resources</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Banking"><h2><a href="http://www.canbet.com/help/bankingFAQ.aspx">Banking</a></h2></li>
+                                
+                                    <li class="Bonuses"><h2><a href="http://www.canbet.com/site/freebet/FBBonuses.aspx">Bonuses</a></h2></li>
+                                
+                                    <li class="Affiliates"><h2><a href="http://www.commissionking.com">Affiliates</a></h2></li>
+                                
+                                    <li class="Refer a Friend"><h2><a href="http://www.canbet.com/whatsnew/bonuses-raf.aspx">Refer a Friend</a></h2></li>
+                                
+                                    <li class="Terms and Conditions"><h2><a href="http://www.canbet.com/help/company_rules.aspx">Terms and Conditions</a></h2></li>
+                                
+                                    <li class="Site Map"><h2><a href="http://www.canbet.com/site/common/sitemap.aspx">Site Map</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Customer Support</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Live Help"><h2><a href="http://server.iad.liveperson.net/hc/26443102/?cmd=file&amp;file=visitorWantsToChat&amp;site=26443102&amp;byhref=1&amp;imageUrl=http://" onclick="javascript:OpenLiveChat();" target="chat26443102">Live Help</a></h2></li>
+                                
+                                    <li class="Help and Rules"><h2><a href="http://www.canbet.com/help/default.aspx">Help and Rules</a></h2></li>
+                                
+                                    <li class="Contact Us"><h2><a href="http://www.canbet.com/aboutus/contactus.aspx">Contact Us</a></h2></li>
+                                
+                                    <li class="Complaints"><h2><a href="http://www.canbet.com/aboutus/complaints.aspx">Complaints</a></h2></li>
+                                
+                                    <li class="IBAS_18Only"><h2><a href="http://www.canbet.com/aboutus/responsiblegaming.aspx">IBAS_18Only</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Security</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="GeoTrust"><h2><a href="http://www.canbet.com/default.aspx">GeoTrust</a></h2></li>
+                                
+                                    <li class="WatchTheClock"><h2><a href="http://www.canbet.com/default.aspx">WatchTheClock</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div>
+                        <h1>Best Viewed With</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="IE"><h2><a href="http://www.microsoft.com/Downloads/details.aspx?familyid=9AE91EBE-3385-447C-8A30-081805B2F90B" target="_blank">IE</a></h2></li>
+                                
+                                    <li class="Firefox"><h2><a href="http://www.mozilla.com" target="_blank">Firefox</a></h2></li>
+                                
+                                    <li class="Safari"><h2><a href="http://www.apple.com/safari/download/" target="_blank">Safari</a></h2></li>
+                                
+                                    <li class="BestViewed"><h2><a href="http://www.canbet.com/help/supportbrowser.aspx">BestViewed</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                    <div id="verification"></div>
+                
+            <div id="banking-links">
+                
+                    
+                    <div>
+                        <h1>Banking</h1>
+                        <ul>
+                            
+                                    
+                                    <li class="Visa"><h2><a href="http://www.canbet.com/help/bankingFAQ.aspx">Visa</a></h2></li>
+                                
+                                
+                        </ul>
+                    </div>
+                
+                
+            </div>
+        </div>
+        <div id="footer-text"></div>
+        <div id="copyright-info">© Copyright 2010 Canbet Ltd All Rights Reserved | *<a href="/help/company_rules.aspx">General Rules and Conditions Apply</a><br>Canbet Sportsbook is licensed and regulated by the <a href="http://www.gamblingcommission.gov.uk" target="_blank">Gambling Commission</a> (No. 002504)<br>Canbet Casino and Canbet Poker, operated by GSE, is licensed and regulated by the <a href="#" onclick="window.open('https://certificates.gamingcommission.ca/KGCCertificates.aspx?id=0c9561ee-14e3-4a8d-b183-324f45b5cccc','BrandNameCertificates','location=0,status=0,scrollbars=1');" style="outline:none;">Kahnawake Gaming Commission</a> (No.00547).</div>
+        <div id="version-number">v2010.5.2.1</div>
+    </div>        
+</div>
+
+<!-- 10.10.1.33 / 2010.5.2.1 -->
+<script language="javascript" src="/ClientScripts/referdetect.js?ver=2010.5.2.1"></script>
 <script type="text/javascript">_uacct ='UA-2054199-1';urchinTracker();</script>
 
+
+
+<iframe id="betSlipFrame" name="betSlipFrame" style="position: absolute; top: 0px; left: -100px; width: 0px; height: 0px;"></iframe>
+<form id="betSlipFrameForm" name="betSlipFrameForm" target="betSlipFrame" method="post">
+
+</form>
 
 
 </body></html>
