@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611165353id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pregnancygirl.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602000505id_/http%3A//www.pregnancygirl.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pregnancy Girl
 
@@ -10,7 +10,7 @@ Thank you for visiting PregnancyGirl.com and for taking interest in our Privacy 
 
 Please read this Policy carefully. If you have any questions about this Policy or our data collection, use or disclosure practices, please contact us.
 
-This Privacy Policy applies to the Forward Health Web Sites (”Sites”) owned and operated by Lychika, Inc. including the PregnancyGirl.com site. Reference to “Forward Health” means Lychika, Inc., including any company that Lychika, Inc. controls (for example, a subsidiary that Lychika, Inc. owns). Forward Health Web Sites include any site that Lychika, Inc. owns or controls (for example, Women’s Health Base). Forward Health may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
+This Privacy Policy applies to the Forward Health Web Sites (“Sites”) owned and operated by Lychika, Inc. including the PregnancyGirl.com site. Reference to “Forward Health” means Lychika, Inc., including any company that Lychika, Inc. controls (for example, a subsidiary that Lychika, Inc. owns). Forward Health Web Sites include any site that Lychika, Inc. owns or controls (for example, Women’s Health Base). Forward Health may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
 
 What information do we collect?
 
