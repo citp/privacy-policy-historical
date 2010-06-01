@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifetouch.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209071726id_/http%3A//www.lifetouch.com/privacy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifetouch.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601044248id_/http%3A//www.lifetouch.com/privacy-terms) for the most accurate reproduction.*
 
 # Lifetouch Photography Services - Privacy & Terms
 
