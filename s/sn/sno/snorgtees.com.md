@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226101343id_/http%3A//www.snorgtees.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snorgtees.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601134603id_/http%3A//www.snorgtees.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
