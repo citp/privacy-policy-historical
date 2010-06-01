@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the circlek.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130162603id_/http%3A//www.circlek.com/CircleK/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the circlek.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601041051id_/http%3A//circlek.com/CircleK/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
