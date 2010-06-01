@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109040236id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpcanada.ca privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601075727id_/http%3A//wpcanada.ca/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : WordPress Canada
+# Privacy Policy - WordPress Canada
+
+## Privacy Policy
 
 **Introduction**  
 WordPress Canada is committed to protecting your privacy. This Privacy Policy explains our privacy practices and how that may pertain to you.
