@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the jambajuice.com privacy policy that was archived on 2009-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091129003820id_/http%3A//www.jambajuice.com/footer_nav/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jambajuice.com privacy policy that was archived on 2010-06-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100601044828id_/http%3A//www.jambajuice.com/footer_nav/privacy/index.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 	<title>Jamba Juice - Privacy</title>
@@ -9,9 +9,13 @@
 
 	<meta http-equiv="Description" content="">
 	<meta http-equiv="Keywords" content="">  
-	
 	<base href="http://www.jambajuice.com">
-	
+
+	<meta name="title" content="Buy one, get one free, to celebrate Jamba Juice’s 20th!">
+	<meta name="description" content="Jamba Juice is celebrating 20 years of feeling good, with a buy one, get one free coupon. Get yours now!">
+	<link rel="image_src" href="http://demo.socialtwist.com/jamba/face.jpg">
+
+
 	<!-- base css -->
 	<link href="http://www.jambajuice.com/html/html.css" rel="stylesheet" type="text/css">
 	<link href="http://www.jambajuice.com/resources/css/jamba.css" rel="stylesheet" type="text/css">
@@ -39,12 +43,8 @@
 	//-->
 	</script>
 	
-	<script language="JavaScript">
+<script language="JavaScript">
 	<!--//
-		function initPage() {
-			
-			return true;
-		}
 				
 		function getQsVar(variable) { 
 			var query = '';
@@ -60,6 +60,14 @@
 	
 	<script language="JavaScript">
 <!-- Begin
+
+function PopUpWindow(SizeX,SizeY,URL)
+{
+	var winl = (screen.width - SizeX) / 2;
+	var wint = (screen.height - SizeY) / 2;
+	win = window.open(URL,'','scrolling=no,menubar=no,status=no,directories=no,location=no,width='+SizeX+',height='+SizeY+',top='+wint+',left='+winl+',resizable=yes');
+	win.focus();
+}
 
 function getbrowserwidth() {
 var bWidth;
@@ -77,11 +85,12 @@ leftpadding = ((bWidth - 711) / 2) + 489;
 return leftpadding;
 }
 // End -->
+
 </script>
 </head>
 	
 
-<body onload="initPage()">  <div id="siteWrap">
+<body>  <div id="siteWrap">
 		 <div id="main"><h1>Privacy</h1><p>Our Commitment to Privacy<br>
 <br>
 It is the policy of Jamba Juice Company to respect your privacy. To better protect your privacy we provide this notice explaining our online information practices at www.jambajuice.com (the 'Site') and the choices you can make about the way your information is collected and used. This notice applies only to information collected or submitted on the Site. By using the Site, you agree to the collection and use of your information as described herein. We reserve the right to change these terms and will post any changes on this page so that you are always aware of what information we collect and how we use it. We encourage you to check this page regularly. Your continued use of the Site following any changes will constitute your acceptance of such changes.<br>
@@ -140,6 +149,31 @@ For privacy or security questions regarding the jambacard, please call us at <br
 		so.addParam("align","middle");
 		so.addParam("allowScriptAccess","sameDomain");
 		so.write("siteWrap");
+		
+		function setFlashSize(flashWidth,flashHeight){
+			window.onresize = function() {
+			var size = [0,0];
+			if( typeof( window.innerWidth ) == 'number' ) {
+				size = [window.innerWidth, window.innerHeight];
+			} else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+				size = [document.documentElement.clientWidth, document.documentElement.clientHeight];
+			} else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+				size = [document.body.clientWidth, document.body.clientHeight];
+			}
+				document.getElementById("siteWrap").style.minWidth = flashWidth+"px";
+				document.getElementById("siteWrap").style.minHeight = flashHeight+"px";
+				document.getElementById("siteWrap").style.width = size[0] < flashWidth ? flashWidth+"px" : "100%";
+				document.getElementById("siteWrap").style.height = size[1] < flashHeight ? flashHeight+"px" : "100%";
+							
+			};
+			window.onload = function(){
+				window.onresize();
+			}
+		}
+		
+		setFlashSize(1100,600); //set the minimum width and height of your Flash movie
+		//]]>
+
 	</script>
 	
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
