@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525043425id_/http%3A//cakepoker.com/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cakepoker.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601230211id_/http%3A//cakepoker.com/Help/Integrity/Privacy.aspx) for the most accurate reproduction.*
 
-# Cake Poker Online Poker Rooms Privacy Policy
+# Cake Poker Information and Privacy Protection Policy
 
 Cake Poker and its owner and operator, Cake Gaming N.V. understand the importance of privacy protection on the internet. Cake Poker remains committed to upholding the confidentiality of the personal information that we collect. The information that we collect is safeguarded with the appropriate software and hardware tools in place as well as the techniques, methods and procedures that we choose to employ.
 
@@ -12,7 +12,7 @@ When you choose to open a Cake Poker Account you will be asked to provide us wit
 
 ### Information used to process Deposits and Withdrawals
 
-Players will need to provide deposit specific information when making a deposit to play for real money (example: credit card number, Firepay or NETeller account number). This information may be applied along with your personal information to allow us to clear financial transactions executed by you with Cake Poker. 
+Players will need to provide deposit specific information when making a deposit to play for real money (example: credit card number or NETeller account number). This information may be applied along with your personal information to allow us to clear financial transactions executed by you with Cake Poker. 
 
 ### Confidentiality of Information
 
