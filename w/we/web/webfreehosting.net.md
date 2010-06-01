@@ -1,25 +1,16 @@
-> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2008-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081202043651id_/http%3A//www.webfreehosting.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webfreehosting.net privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601075309id_/http%3A//www.webfreehosting.net/privacy.php) for the most accurate reproduction.*
 
-# Web Hosting Philippines » Privacy
+# Privacy Policy - Free Web Hosting
 
-**Privacy Policy for www.webfreehosting.net**
+## Privacy Policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at makapangyarihan@yahoo.com.
+The following discloses our information gathering and dissemination practices for this Web site. We use your IP address to help diagnose problems with our server, and to administer our Web site. Your IP address is used to help identify you and your ISP and to gather broad demographic information. We use cookies to save your password so you don't have to re-enter it each time you visit our site and for other purposes. Contact information from the order form is used to send information about our company and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary and shared with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings. Demographic and profile data is also collected at our site. We use this data to tailor our visitor's experience at our site, showing them content that we think they might be interested in, and displaying the content according to their preferences. This information is shared with advertisers on an aggregate basis. We use an outside ad company to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. Some customer data is shared with the advertising companies. 
 
-At www.webfreehosting.net, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.webfreehosting.net and how it is used.
+**SECURITY**  
+This site contains links to other sites. webfreehosting.net Web Hosting is not responsible for the privacy practices or the content of such Web sites. Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information, financial information, and demographic information (like their zip code, age, or income level). This site has security measures in place to protect the loss, misuse and alteration of the information under our control. 
 
-**Log Files**  
-Like many other Web sites, www.webfreehosting.net makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+**ADVERTISING**  
+We may use third-party advertising companies to serve ads when you use our service, this may change without prior notification being served. Our third-party advertising company also separately places or recognizes a cookie file on your browser when delivering advertisements to this Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites, in order to provide adverts about goods and services of interest to you. 
 
-**Cookies and Web Beacons**  
-www.webfreehosting.net does not use cookies.
-
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, .
-
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.webfreehosting.net send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
-
-www.webfreehosting.net has no access to or control over these cookies that are used by third-party advertisers.
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.webfreehosting.net’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+**PUBLIC FORUMS**  
+This site makes chat rooms, forums, message boards, and news groups available to its users. Any information in these areas becomes public, and you should exercise caution when deciding to disclose your personal information. 
