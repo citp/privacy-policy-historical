@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031071228id_/http%3A//info.jpost.com/2000/PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jpost.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601091139id_/http%3A//jpost.com/LandedPages/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Jerusalem Post | Breaking News from Israel, the Middle East and the Jewish World
+# JPost | Privacy Statement
 
-Privacy Statement for The Jerusalem Post Internet Edition
+##  Privacy Statement for The Jerusalem Post Internet Edition
 
 **The Jerusalem Post Internet Edition has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: The Jerusalem Post Internet Edition.**
 
@@ -20,26 +20,28 @@ The Jerusalem Post Internet Edition may perform statistical analyses of user beh
 We use third-party advertising companies to serve ads when you visit our Web site. Our third-party advertising company also separately places or recognizes a cookie file on your browser in the course of delivering advertisements to this Site. These companies may use information about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. 
 
 **Third Party Advertising**  
-We use third-party advertising companies either to serve ads when you visit our Web site, or to send you email advertisments that may be of interest to you. These companies may use information about your visits to this and other Web sites in order to provide advertisements on this site and other sites or via email about goods and services that may be of interest to you.
+We use third-party advertising companies either to serve ads when you visit our Web site, or to send you email advertisments that may be of interest to you. These companies may use information about your visits to this and other Web sites in order to provide advertisements on this site and other sites or via email about goods and services that may be of interest to you. 
 
 **Third Party Cookies**  
-In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
 
 **Sponsors**  
-Promotions and competitions that run on The Jerusalem Post Internet Edition may be sponsored by companies other than The Jerusalem Post Internet Edition or may be co-sponsored by The Jerusalem Post Internet Edition and another company. Some or all data collected during a promotion may be shared with the sponsor. 
+Promotions and competitions that run on The Jerusalem Post Internet Edition may be sponsored by companies other than The Jerusalem Post Internet Edition or may be co-sponsored by The Jerusalem Post Internet Edition and another company. Some or all data collected during a promotion may be shared with the sponsor.
 
-The Jerusalem Post Internet Edition or its sponsors or business partners may, from time to time, send you email regarding its products and services. 
+The Jerusalem Post Internet Edition or its sponsors or business partners may, from time to time, send you email regarding its products and services.
 
 On some types of The Jerusalem Post Internet Edition promotions and services, we may ask for your email address. When you participate in these types of promotions, you may automatically receive promotion or service - related email. Occasionally these such email messages may include targeted advertisements. 
 
 **Form Submissions**  
-Certain online purchase options require users to give us financial information (such as their bank account or credit card numbers), and demographic information (such as their zip code, age, or income level). 
+Certain online purchase options require users to give us financial information (such as their bank account or credit card numbers), and demographic information (such as their zip code, age, or income level).
 
-Financial information that is collected is used solely to bill the user for products and services. 
+Financial information that is collected is used solely to bill the user for products and services.
 
-Demographic and profile data is occasionally collected at our site. This information may be shared with advertisers on an aggregate basis. We may use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences. 
+Demographic and profile data is occasionally collected at our site. This information may be shared with advertisers on an aggregate basis.
 
-Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level). 
+We may use this data to tailor our visitor's experience at our site showing them content that we think they might be interested in, and displaying the content according to their preferences.
+
+Our site uses an order form for customers to request information, products, and services. We collect contact information (like their email address), financial information (like their account or credit card numbers), and demographic information (like their zip code, age, or income level).
 
 Contact information from the order forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary, and to share with other companies who may want to contact our visitors. Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -47,9 +49,7 @@ Contact information from the order forms is used to ship purchases, information 
 From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. 
 
 **E-Mail**  
-Using the e-mail addresses provided on registrations, surveys, and contests, **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** periodically sends promotional e-mail to its subscribers about services offered by **The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition** and its carefully selected advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you will have to [unregister from our service](http://www.jpost.com/reg/unregister). Please note that only registered users may use our entire site. 
-
-The Jerusalem Post Internet Edition may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. 
+Using the e-mail addresses provided on registrations, surveys, and contests, The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition periodically sends promotional e-mail to its subscribers about services offered by The Jerusalem Post, The Jerusalem Report and The Jerusalem Post Internet Edition and its carefully selected advertisers. If you do not wish to receive solicitations sent on behalf of third parties, you will have to unregister from our service. Please note that only registered users may use our entire site. The Jerusalem Post Internet Edition may contact you regarding account status, changes to the subscriber agreement, and to confirm registration. 
 
 **External Links**  
 This site contains links to other sites. The Jerusalem Post Internet Edition is not responsible for the privacy practices or the content of such Web sites. 
@@ -61,5 +61,4 @@ This site has security measures in place to protect the loss, misuse, and altera
 The Jerusalem Post Internet Edition provides certain services in conjunction with third parties: Jpostpersonals.com provides a discreet and fully confidential personals service. Such third parties have their own security and privacy policies. You advised to check them out separately as it pertains to their individual security and privacy policies. 
 
 **Contacting the Web Site**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
-[privacy@jpost.com](mailto:privacy@jpost.com?Subject=Privacy%20Issues). 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: privacy@jpost.com
