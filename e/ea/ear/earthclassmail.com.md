@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2009-07-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090726043623id_/http%3A//www.earthclassmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601042136id_/http%3A//www.earthclassmail.com/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Class Mail
 
@@ -8,7 +8,7 @@ This is the privacy policy of Earth Class Mail Corp. (ECM) applicable to the web
 
 ECM adheres to the U.S., EU, and Swiss Safe Harbor Frameworks which are administered by the U.S. Department of Commerce. We comply with the Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Details on the frameworks are found at: <http://export.gov/safeharbor/>. 
 
-**The Website** :  We collect limited personal information when you access the Website.
+**The Website** : We collect limited personal information when you access the Website.
 
 Information you provide – When you visit the publicly-accessible Website, we collect the web page you came from, your browser's user agent string, any keywords you used in a search engine, your computer's IP address, the time and date, the name of the pages your computer visited, and how long it spent on each page.
 
@@ -16,7 +16,7 @@ ECM cookies - When you visit ECM, we send to your computer one or more cookies -
 
 This website contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by this website. 
 
-**Partners** :  We may work with a partner site, such as a vendor, to offer you certain services. The partners do NOT, without your knowledge and consent, collect your identity or contact information from your visits to their websites. We provide information to trusted partners who work on behalf of or with ECM under confidentiality agreements. These companies may use your personal information to help ECM communicate with you about offers from ECM and our marketing partners. However, these companies do not have any independent right to share this information. 
+**Partners** : We may work with a partner site, such as a vendor, to offer you certain services. The partners do NOT, without your knowledge and consent, collect your identity or contact information from your visits to their websites. We provide information to trusted partners who work on behalf of or with ECM under confidentiality agreements. These companies may use your personal information to help ECM communicate with you about offers from ECM and our marketing partners. However, these companies do not have any independent right to share this information. 
 
 For each visitor to a partner website, the visitor's computer reaches the partner via a particular IP (Internet Protocol) address, and the partner's servers automatically collect this IP address. 
 
@@ -26,7 +26,7 @@ Cookies are used in two stages of the partner tracking: when a banner image on o
 
 The partner's servers automatically generate a unique number identifying your visit. No information is obtained from you or your computer to generate your unique identifying number. None of the partner's Cookies are used to perform "User Profiling". 
 
-**The Hosted Services** :  When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
+**The Hosted Services** : When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
 
 **Log information** \- When you use ECM services, our servers automatically record information that your browser sends whenever you visit a website. These server logs may include information such as your web request, Internet Protocol address, browser type, browser language, the date and time of your request and one or more cookies that may uniquely identify your browser. 
 
@@ -40,21 +40,14 @@ The partner's servers automatically generate a unique number identifying your vi
 
 ECM only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
+  
+
+
   * Providing our products and services to users, including the scanning of envelope images, the display of those scanned images in notification emails to you and in your online account, the display and routing of the scanned contents of mail, and solicited advertising content; 
-
-
   * Sending you certain communications relating to ECM services, such as service announcements, administrative messages, and the ECM newsletter, all of which are considered part of your ECM account and do not require us to offer you the opportunity to opt out of receiving them; 
-
-
   * Site usage tracking, in order to enable us to monitor Web site traffic and usage patterns in order to continually enhance and improve the service we offer, and for customer source information. In this process, we may collect IP addresses (which indicate the location of your computer on the Internet) to ensure effective technical operations. We may provide anonymous reporting for internal and external clients.
-
-
   * Auditing, research, and analysis in order to maintain, protect, and improve our services; 
-
-
   * Ensuring the technical functioning of our network; and 
-
-
   * Developing new services. 
 
 
@@ -75,18 +68,13 @@ You can decline to submit personal information to any of our services, in which 
 
 ECM does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances: 
 
+  
+
+
   * If we have your consent. We require opt-in consent for the sharing of any sensitive personal information. 
-
-
   * If we provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures, including adequate data protection principles.
-
-
   * If we have a good-faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process (including without limitation subpoenas and court orders), or enforceable governmental request, (b) enforce applicable terms of service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, (d) protect against imminent harm to the rights, property, or safety of ECM, its users or the public as required or permitted by law, or (e) to establish or exercise our legal rights or defend against legal claims.
-
-
   * If ECM becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-
-
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually. 
 
 
@@ -122,7 +110,8 @@ Direct Marketing Association
 1615 L St. NW, Ste 1100  
 Washington, DC 20036-5624  
 [safeharbor @ the-dma.org](mailto:safeharbor@the-dma.org)  
-<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>
+<http://www.dmaresponsibility.org/SafeHarbor/consumers.shtml>   
+
 
 ## Changes to this policy
 
