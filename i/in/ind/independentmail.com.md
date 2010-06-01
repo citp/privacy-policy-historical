@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123193653id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the independentmail.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601023021id_/http%3A//www.independentmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy Information & News from Anderson Independent Mail (Anderson, SC)
 
