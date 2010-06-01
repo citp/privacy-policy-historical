@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the throneit.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124023347id_/http%3A//www.throneit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the throneit.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601061532id_/http%3A//www.throneit.com/privacypolicy) for the most accurate reproduction.*
 
 # ThroneIt - 'Just Throne It!' - Privacy Policy
 
@@ -50,6 +50,6 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 | 
 
-[Ladder](https://web.archive.org/web/20091124023347id_/http://www.throneit.com/?p=ladder) \- [Forums](https://web.archive.org/forums) \- [Safelist](https://web.archive.org/web/20091124023347id_/http://www.throneit.com/?p=safelist) \- [Contact](https://web.archive.org/web/20091124023347id_/http://www.throneit.com/?p=contact) \- [Donate](https://web.archive.org/web/20091124023347id_/http://www.throneit.com/?p=donate) \- [Privacy Policy](http://www.throneit.com/privacypolicy)   
+[Ladder](http://www.throneit.com/?p=ladder) \- [Forums](http://www.throneit.com/forums) \- [Safelist](http://www.throneit.com/?p=safelist) \- [Contact](http://www.throneit.com/?p=contact) \- [Donate](http://www.throneit.com/?p=donate) \- [Privacy Policy](http://www.throneit.com/privacypolicy)   
 copyright © 2009 ThroneIt.com   
-Supplying North America, South America, Europe, Asia, Austrailia, and the rest of the world with DotA Stat Tracking, DotA Ladders, DotA Elo Scores, DotA public games, DotA competitive games, DotA Hosting, DotA Communities, and Defense of the Ancients enjoyment for all. 
+Supplying North America, South America, Europe, Asia, Austrailia, and the rest of the world with DotA Stats, DotA Ranks, DotA Stat Tracking, Top Tier DotA Players, DotA Ladders, DotA Elo Scores, DotA public games, DotA competitive games, DotA Hosting, DotA Communities, and Defense of the Ancients enjoyment for all. 
