@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828230005id_/http%3A//www.lashback.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lashback.com privacy policy that was archived on 2010-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100601063928id_/http%3A//www.lashback.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # LashBack: The Email Compliance Authority.
 
@@ -18,8 +18,6 @@ We uses your personally identifiable information to: (1) verify your authority t
 
 **Non-Disclosure**  
 LASHBACK will not sell or rent your Personal Information, nor will LASHBACK provide to third parties your Personal Information unless LASHBACK has your consent (which LASHBACK may infer has been granted based on circumstances of use of Lashback.com and specific product requests) and (1) sharing your Personal Information is required to provide the product or service you have requested, or (2) LASHBACK needs to send your Personal Information to companies which work on its behalf in order to provide you a product or service (which companies will not have any right to use your Personal Information we share with them beyond what is necessary to assist LASHBACK). LASHBACK will disclose your Personal Information to the extent required in the event it must respond to subpoenas, court orders or other legal process, or if LASHBACK finds that your actions on LashBack.com violate any terms of use, any usage guidelines for specific products or services, or any terms of any license agreements you agree to.
-
-LASHBACK does not endorse any type of e-mail marketing from the company itself or any of LASHBACK’ affiliates. To better improve the quality of LASHBACK’ affiliate base and infrastructure, LASHBACK takes a firm position against all e-mail based marketing activity. If you've received an unsolicited e-mail from an affiliate of LASHBACK, please report it immediately by forwarding a copy of the e-mail to abuse@lashback.com. 
 
 **Links**  
 For your convenience, we may provide links to certain third party websites or referrals to certain third parties’ products or services. If you choose to visit a third party’s website or use its products or services, please be aware that the third party’s privacy policy, and not this Privacy Policy, will govern your activities and any information you disclose while interacting with the third party.
