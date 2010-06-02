@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202064951id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcn.org privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602212257id_/http%3A//www.hcn.org/policies/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — High Country News
 
@@ -18,4 +18,4 @@ If you subscribe to the paper, you should know that we periodically exchange sub
 
 We NEVER sell, rent or trade donors' personal or contact information with other organizations, and we don't send mailings on behalf of other organizations.
 
-If you have any questions about this privacy statement or the web site in general, contact Director of Digital Media, High Country News, P.O. Box 1090, Paonia, CO 81428, [use the feedback form](http://www.hcn.org/feedback "Help and Feedback"), or call 970/527-4898.
+If you have any questions about this privacy statement or the web site in general, contact Web/IT Manager, High Country News, P.O. Box 1090, Paonia, CO 81428, [use the feedback form](http://www.hcn.org/feedback "Help and Feedback"), or call 970/527-4898.
