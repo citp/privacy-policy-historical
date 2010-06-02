@@ -1,16 +1,18 @@
-<!--The following is the downloaded HTML source of the lexile.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201180009id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lexile.com privacy policy that was archived on 2010-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602032745id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title> Privacy Statement | Lexile.com </title>
 <script type="text/javascript" src="/m/js/jquery-1.3.1.min.js"></script>  
 <script type="text/javascript" src="/m/js/jquery.example.min.js"></script>  
-<script type="text/javascript" src="/m/js/menu.js"></script>  
+<script type="text/javascript" src="/m/js/menu.js"></script>
+<script type="text/javascript" src="/m/js/book_search.js"></script>
 <script type="text/javascript" src="/m/js/jquery-ui-1.7.2.custom.min.js"></script>
 <link media="screen" type="text/css" href="/m/css/jquery-ui-1.7.2.custom.css" rel="stylesheet">    
 <link href="/m/css/style.css" rel="stylesheet" type="text/css">
 <link type="text/css" href="/m/css/menu.css" rel="stylesheet">
+<link type="text/css" href="/m/css/search.css" rel="stylesheet">
 
 
 <link media="print" type="text/css" href="/m/css/print.css" rel="stylesheet">
@@ -32,7 +34,7 @@
 <a href="/reading_list/">My Reading List <img src="/m/images/skin/readinglist.gif"> (<span id="bookbag_count">0</span>)</a>
  | 
       <a href="/store/cart/" id="cart">Shopping Cart <img src="/m/images/skin/shoppingcart.gif"> 
-	(<span id="cart_count">0</span>) 
+        (<span id="cart_count">0</span>) 
       
       | </a><a href="/account/register/">Register</a> | <a href="/login/">Login</a>
       
@@ -44,50 +46,87 @@
           <h1>The Lexile Framework<sup>®</sup> for Reading</h1>
           <h2>Matching readers with texts</h2>
         </div>
-	</a>
+        </a>
       </div>
       <div id="search">
-        <form action="/findabook/search/quick" method="post">
-        <div id="title">Quick Book Search:</div>
-        <input id="quick_search" name="keywords" type="text" class="text example_text" title="Title, Author or Keyword">
-        <input name="" type="submit" class="btn_submit_no_form submit" value="Search">
-	</form>
+        <form action="/findabook/search/quick" method="post" id="fab_search_quick">
+    <div id="title">Quick Book Search:</div>
+    <input id="quick_search" name="keywords" type="text" class="text example_text" title="Title or Author">
+    <input name="" type="submit" class="btn_submit_no_form submit" value="Search">
+    <div class="example_text">Put an exact title or author in quotes (example: "new moon")</div>
+        
+        <div class="advanced_search"><a href="javascript:void(0);" id="quick_advanced_search">Advanced Search</a></div>
+    
+</form>
+
+<div id="biblio_search_widget">
+<div id="advanced_search_close"><a href="javascript:void(0);" id="advanced_search_close_link">x close</a></div>
+<h1 id="lookup_header">Look up a Book</h1>
+<h5>Search for books based on title, author, keywords, and more.</h5>
+<form action="/findabook/search/biblio" method="post">
+<table>
+<tbody><tr><th><label for="id_title">Title:</label></th><td><input id="id_title" type="text" name="title" maxlength="255"></td></tr>
+<tr><th><label for="id_author">Author:</label></th><td><input id="id_author" type="text" name="author" maxlength="255"></td></tr>
+<tr><th><label for="id_keywords">Keywords:</label></th><td><input id="id_keywords" type="text" name="keywords" maxlength="255"></td></tr>
+<tr><th><label for="id_isbn">ISBN:</label></th><td><input id="id_isbn" type="text" name="isbn" maxlength="13"></td></tr>
+</tbody></table>
+
+<p><a id="show_advanced">More Options</a></p>
+<div id="advanced_search">
+<table>
+<tbody><tr><th><label for="id_publisher">Publisher:</label></th><td><input id="id_publisher" type="text" name="publisher" maxlength="255"></td></tr>
+<tr><th><label for="id_series">Series:</label></th><td><input id="id_series" type="text" name="series" maxlength="255"></td></tr>
+<tr><th><label for="id_copyright">Copyright:</label></th><td><input id="id_copyright" type="text" name="copyright" maxlength="10"></td></tr>
+<tr><th><label for="id_language">Language:</label></th><td><select name="language" id="id_language">
+<option value="1">English</option>
+<option value="2">Spanish</option>
+<option value="3">Bilingual</option>
+</select></td></tr>    
+</tbody></table>
+<p><a id="hide_advanced">Fewer Options</a></p>
+</div>
+<div class="search_button_container">
+<input type="submit" class="search" value="Search">
+</div>
+</form>
+</div>
+
       </div>
     </div>
     <div id="bottom">
       
       <ul id="jsddm" class="main-menu">
         <li class="first" id="menu1"><a class="main_menu">About Lexile Measures</a>	
-            <ul>
-            
-            <li><a href="/about-lexile/lexile-overview/">What is a Lexile Measure?</a></li><li><a href="/about-lexile/lexile-video/">Lexile Overview Video</a></li><li><a href="/about-lexile/How-to-get-lexile-measures/">How to get a Lexile Measure</a></li><li><a href="/about-lexile/what-to-do-with-a-lexile-measure/">How to use a Lexile Measure</a></li><li><a href="/about-lexile/faq/">Frequently Asked Questions</a></li><li><a href="/about-lexile/grade-equivalent/">Lexile Measures and Grade Levels</a></li><li><a href="/about-lexile/position-papers/">Position Papers</a></li><li><a href="/about-lexile/white-papers/">White Papers</a></li><li><a href="/about-lexile/case-studies/">Case Studies</a></li><li><a href="/about-lexile/glossary/">Lexile Glossary</a></li><li><a href="/about-lexile/lexile-codes/">Lexile Codes</a></li><li><a href="/about-lexile/el-sistema-para-leer/">El Sistema Lexile Para Leer</a></li>
-            </ul>
+          <ul>
+          
+          <li><a href="/about-lexile/lexile-overview/">What is a Lexile Measure?</a></li><li><a href="/about-lexile/lexile-video/">Lexile Overview Video</a></li><li><a href="/about-lexile/How-to-get-lexile-measures/">How to get a Lexile Measure</a></li><li><a href="/about-lexile/what-to-do-with-a-lexile-measure/">How to use a Lexile Measure</a></li><li><a href="/about-lexile/faq/">Frequently Asked Questions</a></li><li><a href="/about-lexile/grade-equivalent/">Lexile measures and grade levels</a></li><li><a href="/about-lexile/position-papers/">Position Papers</a></li><li><a href="/about-lexile/white-papers/">White Papers</a></li><li><a href="/about-lexile/case-studies/">Case Studies</a></li><li><a href="/about-lexile/glossary/">Lexile Glossary</a></li><li><a href="/about-lexile/lexile-codes/">Lexile Codes</a></li><li><a href="/about-lexile/el-sistema-para-leer/">El Sistema Lexile Para Leer</a></li>
+          </ul>
         </li>
         <li id="menu2"><a class="main_menu">Using Lexile Measures</a>
-                <ul>
-                
-                <li><a href="/using-lexile/lexile-at-school/">Lexile at School</a></li><li><a href="/using-lexile/lexile-at-library/">Lexile in the Library</a></li><li><a href="/using-lexile/lexile-at-home/">Lexile at Home</a></li><li><a href="/using-lexile/toefl/">TOEFL</a></li><li><a href="/using-lexile/dibels/">DIBELS</a></li><li><a href="/using-lexile/barnes-noble/">Barnes &amp; Noble</a></li><li><a href="/using-lexile/summer-reading/">Summer Reading</a></li><li><a href="/using-lexile/online-store/">Online Store</a></li>
-                </ul>
+          <ul>
+          
+          <li><a href="/using-lexile/lexile-at-school/">Lexile at School</a></li><li><a href="/using-lexile/lexile-at-library/">Lexile in the Library</a></li><li><a href="/using-lexile/lexile-at-home/">Lexile at Home</a></li><li><a href="/using-lexile/toefl/">TOEFL</a></li><li><a href="/using-lexile/TABE/">TABE</a></li><li><a href="/using-lexile/dibels/">DIBELS</a></li><li><a href="/using-lexile/barnes-noble/">Barnes &amp; Noble</a></li><li><a href="/using-lexile/summer-reading/">Summer Reading</a></li><li><a href="/using-lexile/online-store/">Online Store</a></li>
+          </ul>
         </li>
         <li id="menu3"><a class="main_menu">Tools</a>
-                <ul>
-                
-                <li><a href="/tools/find-a-book/">Find a Book</a></li><li><a href="/tools/lexile-analyzer/">Lexile Analyzer</a></li><li><a href="/tools/spanish-lexile-analyzer/">Spanish Lexile Analyzer</a></li><li><a href="/tools/download-english-titles/">English Titles Download</a></li><li><a href="/tools/download-spanish-titles/">Spanish Titles Download</a></li><li><a href="/tools/lexile-map/">Lexile Map</a></li>		
-                </ul>
+          <ul>
+          
+          <li><a href="/tools/find-a-book/">Find a Book</a></li><li><a href="/tools/lexile-analyzer/">Lexile Analyzer</a></li><li><a href="/tools/spanish-lexile-analyzer/">Spanish Lexile Analyzer</a></li><li><a href="/tools/download-english-titles/">English Titles Database</a></li><li><a href="/tools/download-spanish-titles/">Spanish Titles Database</a></li><li><a href="/tools/lexile-map/">Lexile Map</a></li>		
+          </ul>
         </li>
         <li id="menu4"><a class="main_menu">Research</a>
-		<ul>
-                <li><a href="/research/">Lexile Research</a></li>
-		
-                <li><a href="/research/research-on-products/">Research &amp; Products</a></li>		
-                </ul>
-	</li>
+          <ul>
+          <li><a href="/research/">Lexile Research</a></li>
+          
+          <li><a href="/research/research-on-products/">Research &amp; Products</a></li>		
+          </ul>
+        </li>
         <li class="last" id="menu5"><a class="main_menu">Professional Development</a>
-		<ul>
-		
-                <li><a href="/pd/professional-development-overview/">What is Lexile PD?</a></li><li><a href="/pd/on-site-workshops/">Lexile On-Site Workshops</a></li><li><a href="/pd/webinars/">Lexile Webinars &amp; Online Courses</a></li><li><a href="/pd/customized-consulting/">Customized Consulting</a></li>		
-                </ul>
-	</li>
+          <ul>
+          
+          <li><a href="/pd/professional-development-overview/">What is Lexile PD?</a></li><li><a href="/pd/on-site-workshops/">Lexile On-Site Workshops</a></li><li><a href="/pd/webinars/">Lexile Webinars</a></li><li><a href="/pd/customized-consulting/">Customized Consulting</a></li>		
+          </ul>
+        </li>
       </ul>
       
     </div>
@@ -126,9 +165,9 @@
   
 
 
-  <div id="footerlinks"> <a href="/aboutus/">About MetaMetrics</a> | <a href="/newsevents/">News &amp; Events</a> | <a href="/blog/">Lexile Blog</a> | <a href="/store/">Online Store</a> | <a href="/publishers/">Publishers</a> | <a href="/partners/">Partners</a> | <a href="/resources/">Resources</a> | <a href="/feedback/">Contact Us</a></div>
-  <div id="footer">Copyright © 2009 MetaMetrics, Inc. All rights reserved.  <a href="/trademark-statement/">Trademark Statement</a> |  <a href="/privacy-statement/">Privacy Policy</a></div>
-  
+<div id="footerlinks"> <a href="/aboutus/">About MetaMetrics</a> | <a href="/newsevents/">News &amp; Events</a> | <a href="/blog/">Lexile Blog</a> | <a href="/store/">Online Store</a> | <a href="/publishers/">Publishers</a> | <a href="/partners/">Partners</a> | <a href="/resources/">Resources</a> | <a href="/feedback/">Contact Us</a></div>
+<div id="footer">Copyright © 2010 MetaMetrics, Inc. All rights reserved.  <a href="/trademark-statement/">Trademark Statement</a> |  <a href="/privacy-statement/">Privacy Policy</a></div>
+
 </div>
 
 <script type="text/javascript">
