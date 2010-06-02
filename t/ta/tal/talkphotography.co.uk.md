@@ -1,13 +1,16 @@
-> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601212836id_/http%3A//www.talkphotography.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkphotography.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602085926id_/http%3A//www.talkphotography.co.uk/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Talk Photography™ - Privacy Policy
 
+**About Talk Photography**   
+Talk Photography is owned and maintained by [Slack Media Ltd](http://www.slackmedia.co.uk/). 
+
 **Our commitment**   
-Talk Photography values your privacy and your desire to protect your personal information. This page is to explain to you the type of information we collect about you, why we collect it, and how that information is used.   
+Slack Media Ltd values your privacy and your desire to protect your personal information. This page is to explain to you the type of information we collect about you, why we collect it, and how that information is used.   
 If you have any questions about this privacy policy you can contact us via email : [admin@talkphotography.co.uk](mailto:admin@talkphotography.co.uk), or via our Contact Us page. Our postal address is available on request. 
 
 **What information we collect**   
-Talk Photography collects and stores the following types of information about you. 
+Slack Media Ltd collects and stores the following types of information about you. 
 
   * Information about your computer, including IP address, browser type, operating system and screen resolution. 
   * If you are registering, or are registered as a member, we also collect the following information.
@@ -28,8 +31,8 @@ Your date of birth is required so we can detect members under the age of 18, and
 **Cookies**   
 The Talk Photography website makes use of browser cookies. A cookie is a small file of information which is placed on your computer with information relevant to your visit to our website. This is used to enable us to distinguish you as a registered member (if you are), and to enable you to take part in and access areas of our website which would otherwise be restricted. It also allows us to offer you a more personalised experience by way of applying your preferences and options to your visit.   
 We also use cookies that store your username (but not password unless you explicitly allow it to), to enable you to return to our site quicker on your next visit and stay logged in.   
-Talk Photography also uses third party advertisements provided via Google.com.   
-These advertisements may also place cookies on your computer that may store and track your computer information (for example IP address, browser and ISP). These third-party cookies cannot read your Talk Photography information (such as your email address or profile). You may disable either our cookies, and/or our third party advertisers cookies in your browser preferences. If you disable the Talk Photography cookies, this may affect your ability to interact with various functions of our site (particularly those that require you to be logged in). 
+talkphotography.co.uk also uses third party advertisements provided via Google.com and other schemes such as Skimlinks.   
+These advertisements and schemes may also place cookies on your computer that may store and track your computer information (for example IP address, browser and ISP). These third-party cookies cannot read your Talk Photography information (such as your email address or profile). You may disable either our cookies, and/or our third party advertisers cookies in your browser preferences. If you disable the talkphotography.co.uk cookies, this may affect your ability to interact with various functions of our site (particularly those that require you to be logged in). 
 
 **How we use your information**   
 Your voluntary personal information (your location, occupation, biography etc) is stored in your user profile, and is viewable by any registered member.   
@@ -52,3 +55,14 @@ If you are a registered member, you may only opt-out of receiving our newsletter
 However, we may still contact you with what we consider are important updates or notifications regarding the site or your account, or queries regarding your conduct or activity on the site.   
 You may, at any time, remove any voluntary information you enter into your user control panel, except your valid email address and date of birth. These are required to keep your site membership active.   
 We don't delete site accounts on request. If you wish, you may remove ALL information from your profile yourself. However, please note that your account will become restricted if you remove your valid email address, so remove this information last. 
+
+**Advertisements and Skimlinks**
+
+  
+Like many other internet sites, the talkphotography.co.uk website contains 'Affiliate links' to assist in raising revenue to help fund the site.   
+To assist us in this we use a tested and trusted technology from Skimlinks.com.   
+Members often post links to external sites, such as online shops and merchants. When you click on one of these links, Skimlinks analyses the URL and if applicable automatically converts it to include the Slack Media Ltd affiliate ID.   
+Should you then make a purchase from the online shop, this generates a small payment to Slack Media Ltd from the relevant affiliate scheme.   
+This is at absolutely no extra cost or inconvenience to you, and is almost completely transparent. 
+
+Revision : 01/04/10
