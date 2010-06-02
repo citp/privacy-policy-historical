@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the healthology.com privacy policy that was archived on 2009-04-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090413201152id_/http%3A//www.healthvideo.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the healthology.com privacy policy that was archived on 2010-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602105116id_/http%3A//www.healthvideo.com/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 
@@ -14,6 +14,7 @@
 <title>Privacy Policy</title>
 
 <meta name="robots" content="noodp, noydir">
+<link rel="stylesheet" type="text/css" href="http://www.healthvideo.com/css/menubar.css">  
 
 <link rel="stylesheet" type="text/css" href="http://www.healthvideo.com/css/styles.css">
 
@@ -32,7 +33,7 @@
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 
 
-<script src="http://www.nbcudigitaladops.com/hosted/global.js"></script>
+
 <script type="text/javascript" language="JavaScript"><!--
 
 function newVideo() {
@@ -83,8 +84,35 @@ document.getElementById('subcat'+d).style.display = "none";
 
 //--></script>
 
+<script src="http://www.nbcudigitaladops.com/hosted/global.js"></script>
+<!-- Script show hidden layers-->
+
+<script language="javascript" type="text/javascript">
+var ord=Math.random()*10000000000000000;
+function MM_showHideLayers() { //v9.0
+document.getElementById('subHealthy').visibility='hidden';
+document.getElementById('subDiseases').visibility='hidden';
+document.getElementById('subDiet').visibility='hidden';
+document.getElementById('subParenting').visibility='hidden';
+document.getElementById('subMental').visibility='hidden';
+document.getElementById('subCold').visibility='hidden';
+document.getElementById('subHealth').visibility='hidden';
 
 
+  var i,p,v,obj,args=MM_showHideLayers.arguments;
+  for (i=0; i<(args.length-2); i+=3) 
+  with (document) if (getElementById && ((obj=getElementById(args[i]))!=null)) { v=args[i+2];
+    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v=='hide')?'hidden':v; }
+    obj.visibility=v;
+	
+	
+	if(obj.visibility=='visible'){document.getElementById('H_thead').style.display = "none";}	else{document.getElementById('H_thead').style.display = "block";}
+	
+
+	
+	 }
+}
+</script>
 <!-- Random Number Script -->
 
 <script language="javascript" type="text/javascript">
@@ -93,10 +121,11 @@ var ord=Math.random()*10000000000000000;
 
 </script>
 
+
 </head>
 
 <body>
-
+<script src="http://www.nbcudigitaladops.com/hosted/global_header.js"></script>
 
 
 <div id="wrapper">
@@ -107,7 +136,7 @@ var ord=Math.random()*10000000000000000;
 
     <!-- HEADER BEGINS -->
 
-      <div class="logo"><a href="http://www.healthvideo.com/"><img src="images/headers/logo.gif" alt="Health Video"></a></div>
+      <div class="logo"><a href="http://www.healthvideo.com/"><img src="images/headers/logo2.gif" alt="Health Video"></a></div>
 
 
 
@@ -117,23 +146,8 @@ var ord=Math.random()*10000000000000000;
 
             <div class="hdr_top_r">
 
-            	<div class="txt_ad_header">Advertisement</div>
-
-			<div id="txt_ad_content"><div id="txt_keyword_ad"></div>
-
-        <script language="javascript" type="text/javascript">
-
-	document.write('<script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=' + ord + '?"></' + 'script>');
-
-	</script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=2022912147230635.5?"></script>
-
-<noscript>
-
-	<a href="http://iv.doubleclick.net/jump/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=123456a"> <img src="http://iv.doubleclick.net/ad/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=123456a" border="0" alt="Click Here!" /></a>
-
-</noscript>
-
-			</div>
+            	
+			
 
             </div>
 
@@ -148,25 +162,509 @@ var ord=Math.random()*10000000000000000;
             </div>
 
             <div class="hdr_btm_r">
+		
 
-            	<form action="http://www.healthvideo.com/search.php" method="post">
+            	<form action="http://topics.healthvideo.com/search" method="post">
 
-            	   <input class="search" name="search_text" value="search" onfocus="if (this.value == 'search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'search';}" type="text">
+            	   <input class="search" name="q" id="q" value="search" onfocus="if (this.value == 'search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'search';}" type="text">
 
                    <input type="submit" class="search_btn" align="absmiddle" value=" ">
 
             	</form>
 
             </div>
+	
 
         </div>
 
     <!-- HEADER ENDS --> 
 
     </div>
+	<!--MENU SITE -->
+        <div id="NavTab">
+        <div id="menuTabs">
+          <ul>
+            <li id="home"><a href="#">Home</a></li>
+            <li id="health"><a href="javascript:void(0);" onclick="MM_showHideLayers('subHealth','','show','activeMenu')" onfocus="MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subMental','','hide',''); MM_showHideLayers('subCold','','hide','')">Health A-Z</a></li>
+            <li id="healthy"><a href="javascript:void(0);" onclick="MM_showHideLayers('subHealthy','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subMental','','hide',''); MM_showHideLayers('subCold','','hide','')">Healthy Living</a></li>
+            <li id="diseases"><a href="javascript:void(0);" onclick="MM_showHideLayers('subDiseases','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subMental','','hide',''); MM_showHideLayers('subCold','','hide','')">Diseases &amp; Conditions</a></li>
+            <li id="diet"><a href="javascript:void(0);" onclick="MM_showHideLayers('subDiet','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subMental','','hide',''); MM_showHideLayers('subCold','','hide','')">Diet &amp; Fitness</a></li>
+            <li id="parenting"><a href="javascript:void(0);" onclick="MM_showHideLayers('subParenting','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subMental','','hide',''); MM_showHideLayers('subCold','','hide','')">Parenting &amp; Pregnancy</a></li>
+            <li id="mental"><a href="javascript:void(0);" onclick="MM_showHideLayers('subMental','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subCold','','hide','')">Mental Health</a></li>
+            <li id="cold"><a href="javascript:void(0);" onclick="MM_showHideLayers('subCold','','show','activeMenu')" onfocus="MM_showHideLayers('subHealth','','hide',''); MM_showHideLayers('subHealthy','','hide',''); MM_showHideLayers('subDiseases','','hide',''); MM_showHideLayers('subDiet','','hide',''); MM_showHideLayers('subParenting','','hide',''); MM_showHideLayers('subMental','','hide','')">Cold &amp; Flu</a></li>
+          </ul>
+        </div>
+		<!-- END MENU -->
+        <!-- PAINEL MENU -->
+        <div id="subHealth">
+        	<div id="boxDropdown">
+               <ul>               
+     <li><h2><a href="http://www.healthvideo.com/cancer">Cancer</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/cancer/brain-cancer.htm">Brain Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/breast-cancer-1.htm">Breast Cancer</a></li>                        
+                        <li><a href="http://topics.healthvideo.com/cancer/cancer-awareness.htm">Cancer Awareness</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/chemotherapy.htm">Chemotherapy</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/colon-cancer-1.htm">Colon Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/leukemia.htm">Leukemia</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/lymphoma.htm">Lymphoma</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/oncology.htm">Oncology</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/ovarian-cancer.htm">Ovarian Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/prostate-cancer.htm">Prostate Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/skin-cancer.htm">Skin Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health.htm">Children's Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health/acne.htm">Acne</a></li>
+                  
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/childrens-health/childrens-health.htm">Children's Health</a></h2>
+                    <ul>                        
+                        <li><a href="http://topics.healthvideo.com/childrens-health/puberty.htm">Puberty</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health/teen-health.htm">Teen Health	</a></li>
+                        
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/cold-flu-allergies">Cold, Flu and Allergies</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/allergy.htm">Allergy</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/cold-and-flu.htm">Cold and Flu</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/flu.htm">Flu</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/flu-vaccine.htm">Flu Vaccine</a></li>                        
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/disease">Diseases</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/disease/addadhd.htm">ADD/ADHD</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/anemia.htm">Anemia</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/asthma-1.htm">Asthma</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/colitis.htm">Colitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/congestive-heart-failure.htm">Congestive Heart Failure</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/crohns-disease.htm">Crohn's Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/diarrhea.htm">Diarrhea</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/eczema.htm">Eczema</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/heartburn.htm">Heartburn</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/hepatitis.htm">Hepatitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/lyme-disease.htm">Lyme Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/meningitis.htm">Meningitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/multiple-sclerosis.htm">Multiple Sclerosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/pneumonia.htm">Pneumonia</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/sexually-transmitted-diseases.htm">Sexually Transmitted Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/ulcer.htm">Ulcer</a></li>
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/disorderconditions">Disorders and Conditions</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/back-pain.htm">Back Pain</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/diabetes.htm">Diabetes</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/endocrine-disorders.htm">Endocrine Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/epilepsy.htm">Epilepsy</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/gastrointestinal-health.htm">Gastrointestinal Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/hiv-and-aids.htm">HIV and AIDS</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/headache-1.htm">Headache</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/infectious-diseases-1.htm">Infectious Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/irritabe-bowel-diseases.htm">Irritabe Bowel Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/kidney-health.htm">Kidney Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/liver-health.htm">Liver Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/lung-health-1.htm">Lung Health	</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/sleep-disorders.htm">Sleep Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/stroke.htm">Stroke</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/thyroid-health.htm">Thyroid Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/vascular-disease-1.htm">Vascular Disease</a></li>
+                    </ul>
+      </li>
+ </ul>	                
+            </div>
+			<div id="boxDropdown">
+			<ul>               
+     <li><h2><a href="http://www.healthvideo.com/healthy-aging">Healthy Aging</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/alzheimers-disease.htm">Alzheimer's Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/arthritis.htm">Arthritis</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/care-giving.htm">Care Giving</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/healthy-aging-1.htm">Healthy Aging</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/high-blood-pressure.htm">High Blood Pressure</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/nursing-home.htm">Nursing Home</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/parkinsons.htm">Parkinson's</a></li>
+                       
+                    </ul>
+      </li>
+	  
+	   <li><h2><a href="http://www.healthvideo.com/heart-health">Heart Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/heart-health/atherosclerosis.htm">Atherosclerosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/bypass-surgery.htm">Bypass Surgery</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/cardio-health.htm">Cardio Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-attack.htm">Heart Attack</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-disease.htm">Heart Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-health-1.htm">Heart Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/obesity-and-overweight.htm">Obesity And Overweight</a></li>
+                        
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/mens-health">Men's Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/mens-health/erectile-dysfunction.htm">Erectile Dysfunction</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/mens-health-1.htm">Men's Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/prostate-health.htm">Prostate Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/urologic-health.htm">Urologic Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/viagra.htm">Viagra</a></li>                       
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/mental-health-depression-stres.htm">Mental Health, Depression and Stress</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/anxiety.htm">Anxiety</a></li>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/mental-health.htm">Mental Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/suicide.htm">Suicide</a></li>
+                        
+                    </ul>
+      </li>
+	  
+	   <li><h2><a href="http://www.healthvideo.com/pregnancy">Pregnancy</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/birth-control-pills.htm">Birth Control Pills</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/epidural.htm">Epidural</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/fertility.htm">Fertility</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/first-trimester.htm">First Trimester</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/in-vitro-fertilization.htm">In Vitro Fertilization</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/lactation.htm">Lactation</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/pregnancy-childbirth.htm">Pregnancy Childbirth</a></li>
+                        
+                    </ul>
+      </li>
+	  
+	  <li><h2><a href="http://www.healthvideo.com/skin-vision-dental-cosmetic">Skin, Vision, Dental and Cosmetic</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/dental-health.htm">Dental Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/eye-care.htm">Eye Care</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/hair-loss.htm">Hair Loss</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/hair-restoration">Hair Restoration</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/psoriasis.htm">Psoriasis</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/skin-health.htm">Skin Health</a></li>                        
+                    </ul>
+      </li>
+ </ul>	
+			</div>
+			
+			<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/smoking-drug-alcohol">Smoking, Drugs and Alcohol</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/alcoholism.htm">Alcoholism</a></li>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/drug-abuse.htm">Drug Abuse</a></li>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/lung-cancer-1.htm">Lung Cancer</a></li>
+                        
+                    </ul>
+      </li>
+	  <li><h2><a href="http://www.healthvideo.com/wellness">Wellness</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/wellness/alternative-therapy.htm">Alternative Therapy</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/body-aches-and-pains-1.htm">Body Aches and Pains</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/body-mass-index.htm">Body Mass Index</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/cholesterol.htm">Cholesterol</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/diet-weight-loss.htm">Diet Weight Loss</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/exercise.htm">Exercise</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/fitness.htm">Fitness</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/healthcare-today.htm">Healthcare Today</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/nutrition.htm">Nutrition</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/sexual-health.htm">Sexual Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/workplace-health.htm">Workplace Health</a></li>
+                       
+                    </ul>
+      </li>
+	  <li><h2><a href="http://www.healthvideo.com/womens-health">Women's Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/womens-health/childbirth.htm">Childbirth</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/contraception.htm">Contraception</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/depression.htm">Depression</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/eating-disorders.htm">Eating Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/gynecologic-health.htm">Gynecologic Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/heart-disease-1.htm">Heart Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/mastectomy.htm">Mastectomy</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/menopause.htm">Menopause</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/menstruation.htm">Menstruation</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/osteoporosis.htm">Osteoporosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/pregnancy-1.htm">Pregnancy</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/womens-general-health.htm">Women's General Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/yeast-infection.htm">Yeast Infection	</a></li>                        
+                    </ul>
+      </li>
+ </ul>	
+              
+            </div>
+
+       <div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subHealth','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+        	
+        </div>
+         <!-- subHealthy -->
+        <div id="subHealthy">
+        	<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/healthy-aging">Healthy Aging</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/alzheimers-disease.htm">Alzheimer's Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/arthritis.htm">Arthritis</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/care-giving.htm">Care Giving</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/healthy-aging-1.htm">Healthy Aging</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/high-blood-pressure.htm">High Blood Pressure</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/nursing-home.htm">Nursing Home</a></li>
+                        <li><a href="http://topics.healthvideo.com/healthy-aging/parkinsons.htm">Parkinson's</a></li>
+                       
+                    </ul>
+      </li>
+	  <li><h2><a href="http://www.healthvideo.com/heart-health">Heart Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/heart-health/atherosclerosis.htm">Atherosclerosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/bypass-surgery.htm">Bypass Surgery</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/cardio-health.htm">Cardio Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-attack.htm">Heart Attack</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-disease.htm">Heart Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/heart-health-1.htm">Heart Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/heart-health/obesity-and-overweight.htm">Obesity And Overweight</a></li>
+                        
+                    </ul>
+      </li>
+ </ul>	
+            </div>
+			<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/mens-health">Men's Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/mens-health/erectile-dysfunction.htm">Erectile Dysfunction</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/mens-health-1.htm">Men's Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/prostate-health.htm">Prostate Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/urologic-health.htm">Urologic Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mens-health/viagra.htm">Viagra</a></li>                       
+                    </ul>
+      </li>
+	   <li><h2><a href="http://www.healthvideo.com/skin-vision-dental-cosmetic">Skin, Vision, Dental and Cosmetic</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/dental-health.htm">Dental Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/eye-care.htm">Eye Care</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/hair-loss.htm">Hair Loss</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/hair-restoration">Hair Restoration</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/psoriasis.htm">Psoriasis</a></li>
+                        <li><a href="http://topics.healthvideo.com/skin-vision-dental-cosmetic/skin-health.htm">Skin Health</a></li>                        
+                    </ul>
+      </li>
+ </ul>	
+            </div>
+			<div id="boxDropdown">
+              <ul>               
+     <li><h2><a href="http://www.healthvideo.com/smoking-drug-alcohol">Smoking, Drugs and Alcohol</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/alcoholism.htm">Alcoholism</a></li>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/drug-abuse.htm">Drug Abuse</a></li>
+                        <li><a href="http://topics.healthvideo.com/smoking-drug-alcohol/lung-cancer-1.htm">Lung Cancer</a></li>
+                        
+                    </ul>
+      </li>
+	  <li><h2><a href="http://www.healthvideo.com/womens-health">Women's Health</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/womens-health/childbirth.htm">Childbirth</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/contraception.htm">Contraception</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/depression.htm">Depression</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/eating-disorders.htm">Eating Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/gynecologic-health.htm">Gynecologic Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/heart-disease-1.htm">Heart Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/mastectomy.htm">Mastectomy</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/menopause.htm">Menopause</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/menstruation.htm">Menstruation</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/osteoporosis.htm">Osteoporosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/pregnancy-1.htm">Pregnancy</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/womens-general-health.htm">Women's General Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/womens-health/yeast-infection.htm">Yeast Infection	</a></li>                        
+                    </ul>
+      </li>
+ </ul>	   
+            </div>
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subHealthy','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+        
+        </div>
+         <!-- subDiseases -->
+        <div id="subDiseases"> 
+        	<div id="boxDropdown">
+              <ul>               
+     <li><h2><a href="http://www.healthvideo.com/cancer">Cancer</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/cancer/brain-cancer.htm">Brain Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/breast-cancer-1.htm">Breast Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/breast-cancer-1.htm"></a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/cancer-awareness.htm">Cancer Awareness</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/chemotherapy.htm">Chemotherapy</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/colon-cancer-1.htm">Colon Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/leukemia.htm">Leukemia</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/lymphoma.htm">Lymphoma</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/oncology.htm">Oncology</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/ovarian-cancer.htm">Ovarian Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/prostate-cancer.htm">Prostate Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/cancer/skin-cancer.htm">Skin Cancer</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health.htm">Children's Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health/acne.htm">Acne</a></li>
+                  
+                    </ul>
+      </li>
+ </ul>	  
+            </div>
+			<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/disease">Diseases</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/disease/addadhd.htm">ADD/ADHD</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/anemia.htm">Anemia</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/asthma-1.htm">Asthma</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/colitis.htm">Colitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/congestive-heart-failure.htm">Congestive Heart Failure</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/crohns-disease.htm">Crohn's Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/diarrhea.htm">Diarrhea</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/eczema.htm">Eczema</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/heartburn.htm">Heartburn</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/hepatitis.htm">Hepatitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/lyme-disease.htm">Lyme Disease</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/meningitis.htm">Meningitis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/multiple-sclerosis.htm">Multiple Sclerosis</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/pneumonia.htm">Pneumonia</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/sexually-transmitted-diseases.htm">Sexually Transmitted Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disease/ulcer.htm">Ulcer</a></li>
+                    </ul>
+      </li>
+ </ul>	
+            </div>
+			<div id="boxDropdown">
+               <ul>               
+     <li><h2><a href="http://www.healthvideo.com/disorderconditions">Disorders and Conditions</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/back-pain.htm">Back Pain</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/diabetes.htm">Diabetes</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/endocrine-disorders.htm">Endocrine Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/epilepsy.htm">Epilepsy</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/gastrointestinal-health.htm">Gastrointestinal Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/hiv-and-aids.htm">HIV and AIDS</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/headache-1.htm">Headache</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/infectious-diseases-1.htm">Infectious Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/irritabe-bowel-diseases.htm">Irritabe Bowel Diseases</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/kidney-health.htm">Kidney Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/liver-health.htm">Liver Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/lung-health-1.htm">Lung Health	</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/sleep-disorders.htm">Sleep Disorders</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/stroke.htm">Stroke</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/thyroid-health.htm">Thyroid Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/disorderconditions/vascular-disease-1.htm">Vascular Disease</a></li>
+                    </ul>
+      </li>
+ </ul>	 
+            </div>
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subDiseases','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+       
+        </div>
+        <!-- subDiet -->
+        <div id="subDiet">
+        	<div id="boxDropdown">
+              <ul>               
+     <li><h2><a href="http://www.healthvideo.com/wellness">Wellness</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/wellness/alternative-therapy.htm">Alternative Therapy</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/body-aches-and-pains-1.htm">Body Aches and Pains</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/body-mass-index.htm">Body Mass Index</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/cholesterol.htm">Cholesterol</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/diet-weight-loss.htm">Diet Weight Loss</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/exercise.htm">Exercise</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/fitness.htm">Fitness</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/healthcare-today.htm">Healthcare Today</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/nutrition.htm">Nutrition</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/sexual-health.htm">Sexual Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/wellness/workplace-health.htm">Workplace Health</a></li>
+                       
+                    </ul>
+      </li>
+ </ul>	  
+            </div>
+			
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subDiet','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+       
+        </div>
+        <!-- subParenting -->
+        <div id="subParenting">
+        	<div id="boxDropdown">
+              <ul>               
+     <li><h2><a href="http://www.healthvideo.com/pregnancy">Pregnancy</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/birth-control-pills.htm">Birth Control Pills</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/epidural.htm">Epidural</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/fertility.htm">Fertility</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/first-trimester.htm">First Trimester</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/in-vitro-fertilization.htm">In Vitro Fertilization</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/lactation.htm">Lactation</a></li>
+                        <li><a href="http://topics.healthvideo.com/pregnancy/pregnancy-childbirth.htm">Pregnancy Childbirth</a></li>
+                        
+                    </ul>
+      </li>
+ </ul>	  
+            </div>
+			<div id="boxDropdown">
+               <ul>               
+     <li><h2><a href="http://www.healthvideo.com/childrens-health/childrens-health">Children's Health</a></h2>
+                    <ul>                        
+                        <li><a href="http://topics.healthvideo.com/childrens-health/puberty.htm">Puberty</a></li>
+                        <li><a href="http://topics.healthvideo.com/childrens-health/teen-health.htm">Teen Health	</a></li>
+                        
+                    </ul>
+      </li>
+ </ul>	  
+            </div>			
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subParenting','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+       
+        </div>
+        <!-- subMental -->
+        <div id="subMental"> 
+        	<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/mental-health-depression-stres">Mental Health, Depression and Stress</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/anxiety.htm">Anxiety</a></li>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/mental-health.htm">Mental Health</a></li>
+                        <li><a href="http://topics.healthvideo.com/mental-health-depression-stres/suicide.htm">Suicide</a></li>
+                        
+                    </ul>
+      </li>
+ </ul>	
+            </div>
+			
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subMental','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>
+               </div>
+        <!-- subCold -->
+        <div id="subCold">
+        	<div id="boxDropdown">
+                <ul>               
+     <li><h2><a href="http://www.healthvideo.com/cold-flu-allergies">Cold, Flu and Allergies</a></h2>
+                    <ul>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/allergy.htm">Allergy</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/cold-and-flu.htm">Cold and Flu</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/flu.htm">Flu</a></li>
+                        <li><a href="http://topics.healthvideo.com/cold-flu-allergies/flu-vaccine.htm">Flu Vaccine</a></li>                        
+                    </ul>
+      </li>
+ </ul>	
+            </div>
+			
+           	<div class="box_Close"><a href="javascript:void(0);" onclick="MM_showHideLayers('subCold','','hide')"><img src="http://www.healthvideo.com/images/menu/bt0close.gif" width="59" height="13" border="0"></a></div>        
+        </div>
 <div id="Main_Holder">
 
 
+<table cellpadding="0" cellspacing="0" align="center" width="100%" style="margin-bottom:15px; margin-top:15px;">
+<tbody><tr>
+<td align="center">
+<div id="H_thead">
+<script language="javascript" type="text/javascript">
+		document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;'+(top.__nbcudigitaladops_dtparams||'')+'ord=' + ord + '?"><\/scr'+'ipt>');
+		</script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=2547897064308049?"></script>
+		<noscript>
+		<a href="http://iv.doubleclick.net/jump/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=123456a"> <img src="http://iv.doubleclick.net/ad/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;dcopt=ist;tile=1;pos=1;sz=728x90;ord=123456a" border="0" alt="Click Here!" /></a>
+		</noscript>	
+</div>
+		</td>
+</tr>
+</tbody></table>
 
 <div id="content">
 	<div class="static_page"><div class="bugfix">&nbsp;</div>
@@ -280,8 +778,8 @@ Please note that this Site contains links to other sites that will not follow th
 	<div class="txt_ad_sidebar">Advertisement</div>
 	<div class="ad_side" style="width: 300px; height: 270px;">
 				<script language="javascript" type="text/javascript">
-		document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=' + ord + '?"><\/scr'+'ipt>');
-		</script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=2022912147230635.5?"></script>
+		document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;'+(top.__nbcudigitaladops_dtparams||'')+'ord=' + ord + '?"><\/scr'+'ipt>');
+		</script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=2547897064308049?"></script>
 		<noscript>
 		<a href="http://iv.doubleclick.net/jump/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=123456a"> <img src="http://iv.doubleclick.net/ad/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=123456a" border="0" alt="Click Here!" /></a>
 		</noscript>
@@ -292,637 +790,89 @@ Please note that this Site contains links to other sites that will not follow th
 </iframe>
  </div>
 
-	<div class="box_sm_top"><h2 style="border:0;">HEALTH CATEGORIES</h2></div>
-	<div class="box_sm_mid">
-		<ul class="navlist_sidebar">
-
-		<li><a href="http://www.healthvideo.com/">Home</a></li>
-
-				
-				<li id="cat1"><a href="http://www.healthvideo.com/cancer/">Cancer</a>
-		
-		
-                  
-
-				<ul id="subcat1" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/brain-cancer/">Brain Cancer</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/breast-cancer-1/">Breast Cancer</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/cancer-awareness/">Cancer Awareness</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/chemotherapy/">Chemotherapy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/colon-cancer-1/">Colon Cancer</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/leukemia/">Leukemia</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/lymphoma/">Lymphoma</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/oncology/">Oncology</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/ovarian-cancer/">Ovarian Cancer</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/prostate-cancer/">Prostate Cancer</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cancer/skin-cancer/">Skin Cancer</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/cancer/">All Cancer</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat2"><a href="http://www.healthvideo.com/childrens-health/">Children's Health</a>
-		
-		
-                  
-
-				<ul id="subcat2" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/childrens-health/acne/">Acne</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/childrens-health/childrens-health/">Children's Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/childrens-health/puberty/">Puberty</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/childrens-health/teen-health/">Teen Health</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/childrens-health/">All Children's Health</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat3"><a href="http://www.healthvideo.com/cold-flu-allergies/">Cold, Flu and Allergies</a>
-		
-		
-                  
-
-				<ul id="subcat3" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/cold-flu-allergies/allergy/">Allergy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cold-flu-allergies/cold-and-flu/">Cold and Flu</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cold-flu-allergies/flu/">Flu</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/cold-flu-allergies/flu-vaccine/">Flu Vaccine</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/cold-flu-allergies/">All Cold, Flu and Allergies</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat4"><a href="http://www.healthvideo.com/disease/">Diseases</a>
-		
-		
-                  
-
-				<ul id="subcat4" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/addadhd/">ADD/ADHD</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/anemia/">Anemia</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/asthma-1/">Asthma</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/colitis/">Colitis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/congestive-heart-failure/">Congestive Heart Failure</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/crohns-disease/">Crohn's Disease</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/diarrhea/">Diarrhea</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/eczema/">Eczema</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/heartburn/">Heartburn</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/hepatitis/">Hepatitis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/lyme-disease/">Lyme Disease</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/meningitis/">Meningitis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/multiple-sclerosis/">Multiple Sclerosis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/pneumonia/">Pneumonia</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/sexually-transmitted-diseases/">Sexually Transmitted Diseases</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disease/ulcer/">Ulcer</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/disease/">All Diseases</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat5"><a href="http://www.healthvideo.com/disorderconditions/">Disorders and Conditions</a>
-		
-		
-                  
-
-				<ul id="subcat5" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/back-pain/">Back Pain</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/diabetes/">Diabetes</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/endocrine-disorders/">Endocrine Disorders</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/epilepsy/">Epilepsy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/gastrointestinal-health/">Gastrointestinal Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/hiv-and-aids/">HIV and AIDS</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/headache-1/">Headache</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/infectious-diseases-1/">Infectious Diseases</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/irritabe-bowel-diseases/">Irritabe Bowel Diseases</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/kidney-health/">Kidney Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/liver-health/">Liver Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/lung-health-1/">Lung Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/sleep-disorders/">Sleep Disorders</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/stroke/">Stroke</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/thyroid-health/">Thyroid Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/disorderconditions/vascular-disease-1/">Vascular Disease</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/disorderconditions/">All Disorders and Conditions</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat6"><a href="http://www.healthvideo.com/healthy-aging/">Healthy Aging</a>
-		
-		
-                  
-
-				<ul id="subcat6" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/alzheimers-disease/">Alzheimer's Disease</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/arthritis/">Arthritis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/care-giving/">Care Giving</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/healthy-aging-1/">Healthy Aging</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/high-blood-pressure/">High Blood Pressure</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/nursing-home/">Nursing Home</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/healthy-aging/parkinsons/">Parkinson's</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/healthy-aging/">All Healthy Aging</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat7"><a href="http://www.healthvideo.com/heart-health/">Heart Health</a>
-		
-		
-                  
-
-				<ul id="subcat7" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/atherosclerosis/">Atherosclerosis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/bypass-surgery/">Bypass Surgery</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/cardio-health/">Cardio Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/heart-attack/">Heart Attack</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/heart-disease/">Heart Disease</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/heart-health-1/">Heart Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/heart-health/obesity-and-overweight/">Obesity And Overweight</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/heart-health/">All Heart Health</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat8"><a href="http://www.healthvideo.com/mens-health/">Men's Health</a>
-		
-		
-                  
-
-				<ul id="subcat8" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/mens-health/erectile-dysfunction/">Erectile Dysfunction</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mens-health/mens-health-1/">Men's Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mens-health/prostate-health/">Prostate Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mens-health/urologic-health/">Urologic Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mens-health/viagra/">Viagra</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/mens-health/">All Men's Health</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat9"><a href="http://www.healthvideo.com/mental-health-depression-stres/">Mental Health, Depression and Stress</a>
-		
-		
-                  
-
-				<ul id="subcat9" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/mental-health-depression-stres/anxiety/">Anxiety</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mental-health-depression-stres/mental-health/">Mental Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/mental-health-depression-stres/suicide/">Suicide</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/mental-health-depression-stres/">All Mental Health, Depression and Stress</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat10"><a href="http://www.healthvideo.com/pregnancy/">Pregnancy</a>
-		
-		
-                  
-
-				<ul id="subcat10" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/birth-control-pills/">Birth Control Pills</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/epidural/">Epidural</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/fertility/">Fertility</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/first-trimester/">First Trimester</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/in-vitro-fertilization/">In Vitro Fertilization</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/lactation/">Lactation</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/pregnancy/pregnancy-childbirth/">Pregnancy Childbirth</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/pregnancy/">All Pregnancy</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat11"><a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/">Skin, Vision, Dental and Cosmetic</a>
-		
-		
-                  
-
-				<ul id="subcat11" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/dental-health/">Dental Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/eye-care/">Eye Care</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/hair-loss/">Hair Loss</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/hair-restoration/">Hair Restoration</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/psoriasis/">Psoriasis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/skin-health/">Skin Health</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/skin-vision-dental-cosmetic/">All Skin, Vision, Dental and Cosmetic</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat12"><a href="http://www.healthvideo.com/smoking-drug-alcohol/">Smoking, Drugs and Alcohol</a>
-		
-		
-                  
-
-				<ul id="subcat12" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/smoking-drug-alcohol/alcoholism/">Alcoholism</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/smoking-drug-alcohol/drug-abuse/">Drug Abuse</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/smoking-drug-alcohol/lung-cancer-1/">Lung Cancer</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/smoking-drug-alcohol/">All Smoking, Drugs and Alcohol</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat13"><a href="http://www.healthvideo.com/wellness/">Wellness</a>
-		
-		
-                  
-
-				<ul id="subcat13" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/alternative-therapy/">Alternative Therapy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/body-aches-and-pains-1/">Body Aches and Pains</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/body-mass-index/">Body Mass Index</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/cholesterol/">Cholesterol</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/diet-weight-loss/">Diet Weight Loss</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/exercise/">Exercise</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/fitness/">Fitness</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/healthcare-today/">Healthcare Today</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/nutrition/">Nutrition</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/sexual-health/">Sexual Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/wellness/workplace-health/">Workplace Health</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/wellness/">All Wellness</a></li>
-		</ul>
-				</li>
-		
-				<li id="cat14"><a href="http://www.healthvideo.com/womens-health/">Women's Health</a>
-		
-		
-                  
-
-				<ul id="subcat14" style="display: none;">
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/childbirth/">Childbirth</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/contraception/">Contraception</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/depression/">Depression</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/eating-disorders/">Eating Disorders</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/gynecologic-health/">Gynecologic Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/heart-disease-1/">Heart Disease</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/mastectomy/">Mastectomy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/menopause/">Menopause</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/menstruation/">Menstruation</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/osteoporosis/">Osteoporosis</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/pregnancy-1/">Pregnancy</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/womens-general-health/">Women's General Health</a>
-		</li>
-		
-		<li>
-		<a href="http://www.healthvideo.com/womens-health/yeast-infection/">Yeast Infection</a>
-		</li>
-		
-		<li><a href="http://www.healthvideo.com/womens-health/">All Women's Health</a></li>
-		</ul>
-				</li>
-		
-
-		<li><a href="sitemap.php">View All Health Topics</a></li>
-
-		</ul>
+	
+	<div style="margin-bottom:15px; margin-top:15px; border-style:solid; border-color:#33CCFF" align="center">
+	<a href="http://www.learnaboutathero.com"><img src="../images/athero_c.jpg" border="0"></a>	
 	</div>
-	<div class="box_sm_btm"></div>
+
+<div style="margin-bottom:15px; margin-top:15px;" class="dmcontent_container">
+<div class="dmcontent_title">Local Guides</div>
+<div class="dmcontent_body">
+
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/" title="All States" class="dmcontent_link">All States</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Alabama-nAlabama.html" title="Alabama Local Guides" class="dmcontent_link">Alabama</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Alaska-nAlaska.html" title="Alaska Local Guides" class="dmcontent_link">Alaska</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Arizona-nArizona.html" title="Arizona Local Guides" class="dmcontent_link">Arizona</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Arkansas-nArkansas.html" title="Arkansas Local Guides" class="dmcontent_link">Arkansas</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/California-nCalifornia.html" title="California Local Guides" class="dmcontent_link">California</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Colorado-nColorado.html" title="Colorado Local Guides" class="dmcontent_link">Colorado</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Connecticut-nConnecticut.html" title="Connecticut Local Guides" class="dmcontent_link">Connecticut</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/DC-nDC.html" title="DC Local Guides" class="dmcontent_link">DC</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Delaware-nDelaware.html" title="Delaware Local Guides" class="dmcontent_link">Delaware</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Florida-nFlorida.html" title="Florida Local Guides" class="dmcontent_link">Florida</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Georgia-nGeorgia.html" title="Georgia Local Guides" class="dmcontent_link">Georgia</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Hawaii-nHawaii.html" title="Hawaii Local Guides" class="dmcontent_link">Hawaii</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Idaho-nIdaho.html" title="Idaho Local Guides" class="dmcontent_link">Idaho</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Illinois-nIllinois.html" title="Illinois Local Guides" class="dmcontent_link">Illinois</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Indiana-nIndiana.html" title="Indiana Local Guides" class="dmcontent_link">Indiana</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Iowa-nIowa.html" title="Iowa Local Guides" class="dmcontent_link">Iowa</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Kansas-nKansas.html" title="Kansas Local Guides" class="dmcontent_link">Kansas</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Kentucky-nKentucky.html" title="Kentucky Local Guides" class="dmcontent_link">Kentucky</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Louisiana-nLouisiana.html" title="Louisiana Local Guides" class="dmcontent_link">Louisiana</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Maine-nMaine.html" title="Maine Local Guides" class="dmcontent_link">Maine</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Maryland-nMaryland.html" title="Maryland Local Guides" class="dmcontent_link">Maryland</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Massachusetts-nMassachusetts.html" title="Massachusetts Local Guides" class="dmcontent_link">Massachusetts</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Michigan-nMichigan.html" title="Michigan Local Guides" class="dmcontent_link">Michigan</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Minnesota-nMinnesota.html" title="Minnesota Local Guides" class="dmcontent_link">Minnesota</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Mississippi-nMississippi.html" title="Mississippi Local Guides" class="dmcontent_link">Mississippi</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Missouri-nMissouri.html" title="Missouri Local Guides" class="dmcontent_link">Missouri</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Montana-nMontana.html" title="Montana Local Guides" class="dmcontent_link">Montana</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Nebraska-nNebraska.html" title="Nebraska Local Guides" class="dmcontent_link">Nebraska</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Nevada-nNevada.html" title="Nevada Local Guides" class="dmcontent_link">Nevada</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/New_Hampshire-nNew+Hampshire.html" title="New Hampshire Local Guides" class="dmcontent_link">New Hampshire</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/New_Jersey-nNew+Jersey.html" title="New Jersey Local Guides" class="dmcontent_link">New Jersey</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/New_Mexico-nNew+Mexico.html" title="New Mexico Local Guides" class="dmcontent_link">New Mexico</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/New_York-nNew+York.html" title="New York Local Guides" class="dmcontent_link">New York</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/North_Carolina-nNorth+Carolina.html" title="North Carolina Local Guides" class="dmcontent_link">North Carolina</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/North_Dakota-nNorth+Dakota.html" title="North Dakota Local Guides" class="dmcontent_link">North Dakota</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Ohio-nOhio.html" title="Ohio Local Guides" class="dmcontent_link">Ohio</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Oklahoma-nOklahoma.html" title="Oklahoma Local Guides" class="dmcontent_link">Oklahoma</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Oregon-nOregon.html" title="Oregon Local Guides" class="dmcontent_link">Oregon</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Pennsylvania-nPennsylvania.html" title="Pennsylvania Local Guides" class="dmcontent_link">Pennsylvania</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Rhode_Island-nRhode+Island.html" title="Rhode Island Local Guides" class="dmcontent_link">Rhode Island</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/South_Carolina-nSouth+Carolina.html" title="South Carolina Local Guides" class="dmcontent_link">South Carolina</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/South_Dakota-nSouth+Dakota.html" title="South Dakota Local Guides" class="dmcontent_link">South Dakota</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Tennessee-nTennessee.html" title="Tennesee Local Guides" class="dmcontent_link">Tennesee</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Texas-nTexas.html" title="Texas Local Guides" class="dmcontent_link">Texas</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Utah-nUtah.html" title="Utah Local Guides" class="dmcontent_link">Utah</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Vermont-nVermont.html" title="Vermont Local Guides" class="dmcontent_link">Vermont</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Virginia-nVirginia.html" title="Virginia Local Guides" class="dmcontent_link">Virginia</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Washington-nWashington.html" title="Washington Local Guides" class="dmcontent_link">Washington</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/West_Virginia-nWest+Virginia.html" title="West Virginia Local Guides" class="dmcontent_link">West Virginia</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Wisconsin-nWisconsin.html" title="Wisconsin Local Guides" class="dmcontent_link">Wisconsin</a><br>
+&nbsp;&nbsp;<a href="http://local.healthvideo.com/Wyoming-nWyoming.html" title="Wyoming Local Guides" class="dmcontent_link">Wyoming</a><br>
 
 
+
+</div>
+</div>	
+	
+	<p align="center">
+ </p>
+
+<div style="margin-bottom:15px; margin-top:15px;">
+<script language="javascript" type="text/javascript">
+		document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=8;pos=8;sz=300x250,2x2;'+(top.__nbcudigitaladops_dtparams||'')+'ord=' + ord + '?"><\/scr'+'ipt>');
+		</script><script language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=8;pos=8;sz=300x250,2x2;ord=2547897064308049?"></script>
+		<noscript>
+		<a href="http://iv.doubleclick.net/jump/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=7;pos=7;sz=300x250,2x2;ord=123456a"> <img src="http://iv.doubleclick.net/ad/nbcuhealth.hvnet/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=8;pos=8;sz=300x250,2x2;ord=123456a" border="0" alt="Click Here!" /></a>
+		</noscript>		
+</div>
 	
 
-<center>
-<p align="center">
-<a href="http://www.healthvideo.com/healthisbeautiful/"><img src="http://www.healthvideo.com/images/healthbeautiful300x250.JPG"></a>
-</p>
-</center>
-	
-	
-<center>
+ 
+
+		<center>
 
 
 
@@ -932,16 +882,7 @@ Please note that this Site contains links to other sites that will not follow th
 <div class="clearfooter"></div>
 
 <!--END MAIN_HOLDER -->
-</div>
 
-<!--<div id="footer_ad">
-	<script language="javascript" type="text/javascript">
-		document.write('<scr'+'ipt language="javascript" type="text/javascript" src="http://iv.doubleclick.net/adj/nbcuhealth.hvnet.b/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=11;pos=11;sz=728x90,468x60;ord=' + ord + '?"><\/scr'+'ipt>');
-	</script>
-	<noscript>
-		<a href="http://iv.doubleclick.net/jump/nbcuhealth.hvnet.b/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=11;pos=11;sz=728x90,468x60;ord=123456a"> <img src="http://iv.doubleclick.net/ad/nbcuhealth.hvnet.b/hvnet_about;b=hvnet;f=hvnet;sect=about;!category=hvnet;b=hvnet;tile=11;pos=11;sz=728x90,468x60;ord=123456a">border="0" alt="Click Here!" /></a>
-	</noscript>
-</div>-->
 <div id="footer">
 <!--<div class="rss_feed"><a href="http://feeds.feedburner.com/NbcHealthVideoSiteMap" target="_blank">RSS Feed</a></div>-->
   <ul class="navlist_footer">
@@ -965,9 +906,10 @@ Please note that this Site contains links to other sites that will not follow th
 
 
 
+<script src="http://www.nbcudigitaladops.com/hosted/global.js"></script>
 
 
 
 
 
-</div></body></html>
+</div></div></div></body></html>
