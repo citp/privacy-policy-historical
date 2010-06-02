@@ -1,6 +1,14 @@
-> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529005220id_/http%3A//www.moxa.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moxa.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603002201id_/http%3A//www.moxa.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Moxa Privacy Policy
+
+**Location:**[Home >> ](https://web.archive.org/web/20100603002201id_/http%3A//www.moxa.com/index.aspx)Privacy Policy
+
+We are limiting the number of URLs you can submit to be Archived to the Wayback Machine, using the Save Page Now features, to no more than 15 per minute. 
+
+If you submit more than that we will block Save Page Now requests from your IP number for 5 minutes. 
+
+Please feel free to write to us at info@archive.org if you have questions about this. Please include your IP address and any URLs in the email so we can provide you with better service. 
 
   
 
