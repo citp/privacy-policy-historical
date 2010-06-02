@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brunel.net privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231024723id_/http%3A//www.brunel.net/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brunel.net privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602043819id_/http%3A//www.brunel.net/disclaimer/%3Fpopup) for the most accurate reproduction.*
 
-# Privacy Statement | Brunel International
+# None
 
 It is Brunel’s policy to comply with data protection legislation. This legislation regulates the processing of information relating to you and grants you various rights in respect of your personal data. The privacy-sensitive information you send us is covered by this Privacy Statement. 
 
