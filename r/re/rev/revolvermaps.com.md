@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202071500id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermaps.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602064355id_/http%3A//www.revolvermaps.com/%3Ftarget%3Dprivacy) for the most accurate reproduction.*
 
 # Revolver Maps - Free 3D Visitor Maps
-
-  
-
 
 ## Karma Implementor
 
@@ -26,3 +23,8 @@ Revolvermaps.com uses third-party advertising companies to serve ads when you vi
 
 
 last update: September 20th, 2009 
+
+© 2008 - 2010 Karma Implementor. All Rights Reserved.
+
+RevolverMaps are customizable visitor map widgets combined with a live traffic trace function.  
+The easy setup makes the free tools and service available for private and professional webmasters, webdesigners, bloggers, social networkers...
