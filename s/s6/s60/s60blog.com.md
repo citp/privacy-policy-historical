@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201083657id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the s60blog.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603011628id_/http%3A//s60blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The S60 Blog
 
@@ -44,7 +44,7 @@ The use of cookies provides benefits to you, such as eliminating the need for yo
 
 **Security**
 
-The S60 Blog has endeavored to take commercially reasonable measures to prevent unauthorized access to and improper use of your personal data submitted to The S60 Blog via your use of this site. For example, The S60 Blog uses encryption technology when collecting financial personal data such as credit card information. If this site supports on-line transactions, it will use an industry standard security measure, such as the one available through “Secure Sockets Layer” (”SSL”), to protect the confidentiality and security of online transactions. If used, industry standard security measures like SSL authentication ensure that credit card information, as well as other personal data submitted as part of the buying process, is reasonably safe from third party interception.
+The S60 Blog has endeavored to take commercially reasonable measures to prevent unauthorized access to and improper use of your personal data submitted to The S60 Blog via your use of this site. For example, The S60 Blog uses encryption technology when collecting financial personal data such as credit card information. If this site supports on-line transactions, it will use an industry standard security measure, such as the one available through “Secure Sockets Layer” (“SSL”), to protect the confidentiality and security of online transactions. If used, industry standard security measures like SSL authentication ensure that credit card information, as well as other personal data submitted as part of the buying process, is reasonably safe from third party interception.
 
 While there are always risks associated with providing personal data, whether in person, by phone or via the internet or other technologies, and no system of technology is completely safe or “tamper”/”hacker” proof, The S60 Blog has endeavored to take reasonable precautions which are appropriate to the nature of the information to prevent and minimize such risks in connection with your use of this site.
 
@@ -66,4 +66,4 @@ The S60 Blog may from time to time change this Policy or change, modify or withd
 
 2009 © The S60 Blog | All rights reserved.
 
-Comments are closed.
+{ Comments are closed. }
