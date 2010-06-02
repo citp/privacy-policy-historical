@@ -1,0 +1,1321 @@
+<!--The following is the downloaded HTML source of the blinky.co.nz privacy policy that was archived on 2010-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602170755id_/http%3A//www.blinky.co.nz/privacy-policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	
+
+
+    
+	
+<meta name="y_key" content="29ed20214b198acc">    
+    
+	
+<meta name="msvalidate.01" content="6CC898F4AFE6F823486291548A6E3A4A">    
+	
+
+	<meta http-equiv="Pragma" content="no-cache">	<meta http-equiv="expires" content="0">	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">				<meta name="description" content="Blinky is your resource to New Zealand's best selection of free samples, online competitions, and vouchers</a>.">	<meta name="keywords" content="Free stuff, product samples, monthly, online competitions, compitions, vouchers, coupons">	<meta name="Language" content="en-us">	<meta name="Robots" content="All">		
+
+	<link rel="stylesheet" type="text/css" href="/templates/realnews/css/main.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/templates/realnews/css/jquery.jgrowl.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="/templates/realnews/css/tabs.css" media="screen">
+     <!--[if lte IE 6]>
+        <link rel="stylesheet" href="/templates/realnews/css/ie6.css" type="text/css" media="projection, screen">
+        <![endif]-->
+	<script type="text/javascript" src="/templates/realnews/js/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="/templates/realnews/js/jquery.scrollTo-min.js"></script>
+	<script type="text/javascript" src="/templates/realnews/js/jquery.jgrowl_minimized.js"></script>
+	<script type="text/javascript" src="/templates/realnews/js/jquery.bgiframe.min.js"></script>
+    	
+
+	
+	<link rel="stylesheet" type="text/css" href="/modules/exp_easynews/css/easynews.css" media="screen"><link rel="stylesheet" type="text/css" href="/modules/exp_hotnews/css/exphotnews.css" media="screen"><link rel="stylesheet" type="text/css" href="/modules/exp_upload_images/css/exp_upload_images.css" media="screen"><link rel="stylesheet" type="text/css" href="/modules/exp_upload_images/css/uploadify.styling.css" media="screen"><link rel="stylesheet" type="text/css" href="/modules/exp_upload_images/css/colorbox/style1/colorbox.css" media="screen"><link rel="stylesheet" type="text/css" href="/modules/exp_ajaxcomments/css/exp_ajaxcomments.css" media="screen">	<script src="/modules/exp_easynews/js/jquery.cycle.all.js" type="text/javascript"></script><script src="/modules/exp_upload_images/js/jquery.uploadify_s.js" type="text/javascript"></script><script src="/modules/exp_upload_images/js/colorbox/jquery.colorbox.js" type="text/javascript"></script>
+<style type="text/css">
+#colorbox, #cboxOverlay, #cboxWrapper{position:absolute; top:0; left:0; z-index:9999; overflow:hidden;}
+#cboxOverlay{position:fixed; width:100%; height:100%;}
+#cboxMiddleLeft, #cboxBottomLeft{clear:left;}
+#cboxContent{position:relative; overflow:visible;}
+#cboxLoadedContent{overflow:auto; width:0; height:0;}
+#cboxLoadedContent iframe{display:block; width:100%; height:100%; border:0;}
+#cboxTitle{margin:0;}
+#cboxLoadingOverlay, #cboxLoadingGraphic{position:absolute; top:0; left:0; width:100%;}
+#cboxPrevious, #cboxNext, #cboxClose, #cboxSlideshow{cursor:pointer;}
+</style>
+<script src="/modules/exp_upload_images/js/colorbox/jquery.colorbox_conf.js" type="text/javascript"></script><style type="text/css">.hidden{display:none;}</style>		
+
+
+
+
+<script type="text/javascript" language="JavaScript">
+
+function emailto (original_id, htmlid, instpath, address_count){
+	
+	var email_message = jQuery('#email_message' + htmlid).val();
+	var email_address = jQuery('#email_address_1_' + htmlid).val();
+	if (address_count > 1){ 
+		for ($i = 2; $i <= address_count; $i++) {
+			if(jQuery('#email_address_' + $i + '_' + htmlid).value != "") {
+				var email_address = email_address + ', ' + jQuery('#email_address_' + $i + '_' + htmlid).val();
+			}
+		}
+	}
+	
+	jQuery('#exp_form_mes-' + htmlid).find("#loading").ajaxStart(function(){
+  		jQuery(this).show();
+ 	});
+	jQuery('#exp_form_mes-' + htmlid).find("#loading").ajaxStop(function(){
+	   jQuery(this).hide();
+	 });
+
+	jQuery.ajax({
+			url: "/recommend.php",
+			data: "email_address=" + escape(email_address) + "&email_to_submit=submit&email_message=" + escape(email_message) + "&original_id=" + original_id + "&backup=0",
+			type:'POST',
+			 success: function(aws){
+				errormatch = new RegExp ('<span class="error">');
+				if (aws.match (errormatch)) {
+					jQuery.jGrowl('<p></p>' +aws, {
+					theme: 	'warning',
+					header: 'Warning',
+					life:	4000,
+					sticky: false
+					});
+					
+				} else {					
+					jQuery.jGrowl('<p></p>' +aws, {
+					theme: 	'success',
+					header: 'Success!',
+					life:	4000,
+					sticky: false
+					});
+					
+				}
+			
+			 },
+			 error: function (aws){
+				 alert(aws+"uuuuuuuuuuuuu");
+			 }
+		});
+	
+}
+
+function checkfield (type, form, field) {
+	jQuery("#loading").ajaxStart(function(){
+  		jQuery(this).show();
+ 	});
+	jQuery("#loading").ajaxStop(function(){
+	   jQuery(this).hide();
+	 });
+
+	jQuery.ajax({
+			url: "/checkfield.php",
+			data: 'type='+type+'&name=' + field.value,
+			type:'GET',
+			 success: function(aws){
+				if (aws == 'OK') {
+					jQuery.jGrowl('<p></p>"'+field.value+'" : ' +aws, {
+					theme: 	'success',
+					header: 'Verify',
+					life:	4000,
+					sticky: false
+					});
+					jQuery('#'+field.name+'checkitvalue').html('<span style="color:green">"' + field.value + 
+							'": ' + aws + '</span>');
+				} else {
+					jQuery.jGrowl('<p></p>"'+field.value+'" : ' +aws, {
+					theme: 	'warning',
+					header: 'Verify',
+					life:	4000,
+					sticky: false
+					});
+					jQuery('#'+field.name+'checkitvalue').html('<span style="color:red">"' + field.value + '": ' +
+					aws + '</span>');
+					
+				}
+			
+			 },
+			 error: function (aws){
+				 alert(aws);
+			 }
+		});
+}
+
+function unvote (user, id, htmlid, md5, value){
+	var link_data = "unvote=true&id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value;
+	var user_data = user;
+	exp_vote(link_data,user,id);
+}
+
+function vote (user, id, htmlid, md5, value){
+	var link_data = "id=" + id + "&user=" + user + "&md5=" + md5 + "&value=" + value;
+	exp_vote(link_data,user,id)
+}
+
+function exp_vote(link_data,user,id){
+	anonymous_vote = true ;
+        if (anonymous_vote == false && user == '0') {
+			jQuery.scrollTo('#top_body', 800 );
+			/*
+			jQuery.jGrowl('<p></p>Please log in to voting', {
+				theme: 	'warning',
+				header: 'Login',
+				life:	4000,
+				sticky: false
+			});
+			*/
+            jQuery("div#box_conteiner").slideDown("normal");
+			jQuery("#a_login").addClass('current');
+        } else {
+ 	jQuery.ajax({
+			url: "/vote.php",
+			data: link_data,
+			type:'POST',
+			 success: function(aws){
+				 
+				split = new RegExp ("~--~");
+				if (aws.match (split)) {
+				b = aws.split (split);
+				jQuery.jGrowl('<p></p>Thank-you for votingfor this item.', {
+				theme: 	'success',
+				header: 'Success!',
+				life:	4000,
+				sticky: false
+			});
+				jQuery("#id_story-"+id).find('#xvotes').html(b[0]);
+				jQuery("#id_story-"+id).find('.vote_img').html("<span class='vote_text_small'>Voted</span>").parents('.stories').find('#linksummaryBury').hide();
+				} else {
+				errormatch = new RegExp ("^ERROR:");
+				aws = aws.substring (6, aws.length);
+				jQuery.jGrowl('<p></p>'+aws, {
+				theme: 	'warning',
+				header: 'Thanks you have already voted for this one !',
+				life:	4000,
+				sticky: false
+			});
+				jQuery("#id_story-"+id).find(".information_box").show().html(aws).fadeOut(3000);
+				}
+				 
+			
+			 },
+			 error: function (aws){
+			 }
+		});
+		}
+}
+
+function link_add_remove(href_link ,title_link,link_this) {
+		jQuery.ajax({
+			url: href_link,
+			type:'POST',
+			 complete: function(){
+				jQuery(link_this).parents(".stories").find(".information_box").show().html(title_link).fadeOut(3000);
+		
+			 }
+		});
+		
+	}
+
+jQuery(document).ready(function() {
+	
+	jQuery('.groupstorystatus_bg a').click(function(){
+			
+		var this_link = jQuery(this).parents(".title");
+		var href_link = jQuery(this).attr('href');
+		jQuery.ajax({
+				url: href_link,
+				type:'POST',
+			success: function(aws){
+		jQuery(this_link).find(".story_status_success").show('slow').end().find(".groupstorystatus_box").toggle('slow');
+			}
+		});
+		return false;
+	});	
+	
+	jQuery("#footer_copy_top a").click(function(){
+		jQuery.scrollTo('#top_body', 800 );
+	});
+	
+	jQuery('.groupstorystatus_link').click(function(){
+		jQuery(this).parents(".title").find(".groupstorystatus_box").toggle('slow').end().find(".story_status_success").hide();
+		return false;
+	});	
+	
+	jQuery("input[name=exp_rssfeeds]")
+		.click(function() {
+			jQuery(this).select();
+		});
+								
+	jQuery("#a_login").click(function(){
+		if (jQuery("div#box_conteiner").is(":hidden")) {
+        jQuery("div#box_conteiner").slideDown("normal");
+		jQuery(this).addClass('current');
+      } else {
+        jQuery("div#box_conteiner").slideUp("normal");
+		jQuery(this).removeClass('current');
+      }
+	
+	});
+	
+	jQuery("#comment_login").click(function(){
+		jQuery.scrollTo('#top_body', 800 );
+		jQuery("div#box_conteiner").slideDown("normal");
+		jQuery("#a_login").addClass('current');
+	});
+	
+	jQuery('#submit_login').click(function(){
+		jQuery(this).parents('form').find('input.login_return').val(window.location.href);
+	});
+	
+	jQuery("input, textarea").addClass("idle");
+            jQuery("input, textarea").focus(function(){
+                jQuery(this).addClass("activeField").removeClass("idle");
+	    }).blur(function(){
+                jQuery(this).removeClass("activeField").addClass("idle");
+	    });
+	
+	 jQuery('.save_add , .remove_add').click(function(event) {
+		var href_link = jQuery(this).attr('href');
+		var title_link = jQuery(this).attr('title');
+		var link_this = this;
+		link_add_remove(href_link ,title_link,link_this);
+		return false;
+  });
+	
+	jQuery("select#exp_sort").change(function(){
+		window.location=jQuery(this).val();												   
+		});
+	
+	jQuery('#story_sort select[name="exp_sort"]').removeAttr("disabled");
+			
+	jQuery(".stories_opacity").css('opacity',0.3);
+
+	jQuery('.shared,.close_box').click(function(){
+		jQuery('div.share_box' , jQuery(this).parents().parents('div:first')).toggle('slow');
+		return false;
+	});	
+	
+	jQuery('.tags_link').click(function(){
+		jQuery(this).parents(".stories").find(".tags_share_box").toggle('slow');
+		return false;
+	});	
+	
+	jQuery('.group_link').click(function(){
+		jQuery(this).parents(".stories").find(".group_share_box").toggle('slow');
+		return false;
+	});	
+	
+	jQuery('.admin_link').click(function(){
+		jQuery(this).parents(".title").find(".ls_adminlinks_exp").toggle('slow').end().find(".story_status_success").hide('slow');
+		return false;
+	});
+	
+	function makeTabs(contId) {
+    	var tabContainers = jQuery('#'+contId+' div.tabs > div');
+    	tabContainers.hide().filter(':first').show();
+    
+    	jQuery('#'+contId+' div.tabs ul.tabNavigation a').click(function () {
+        	tabContainers.hide();
+        	tabContainers.filter(this.hash).show();
+        	jQuery('#'+contId+' div.tabs ul.tabNavigation a').removeClass('selected');
+        	jQuery(this).addClass('selected');
+        	return false;
+    	}).filter(':first').click();
+    }
+	makeTabs('tabs-1');
+
+
+
+	
+});
+
+</script>
+						
+			<script src="/3rdparty/speller/spellChecker.js" type="text/javascript"></script>
+				
+
+			<title> Free Samples, competitions and vouchers | </title>
+		
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.blinky.co.nz/rss.php">
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+		
+	
+<script src="http://www.blinky.co.nz/modules/retweet/js/retweet.js" type="text/javascript"></script>
+<meta name="google-site-verification" content="yKcHJ6AALh5D7W8DtuOHUaqnDrkuAE7QR2P1YwQ2ZPg">
+
+</head>
+<body dir="ltr"><div id="cboxOverlay" style="display: none;"></div><div id="colorbox" style="padding-bottom: 42px; padding-right: 42px; display: none;"><div id="cboxWrapper"><div><div id="cboxTopLeft" style="float: left;"></div><div id="cboxTopCenter" style="float: left;"></div><div id="cboxTopRight" style="float: left;"></div></div><div id="cboxMiddleLeft" style="float: left;"></div><div id="cboxContent" style="float: left;"><div id="cboxLoadedContent" class="" style="display: none;"></div><div id="cboxLoadingOverlay" class="" style="display: none;"></div><div id="cboxLoadingGraphic" class="" style="display: none;"></div><div id="cboxTitle" class="" style="display: none;"></div><div id="cboxCurrent" class="" style="display: none;"></div><div id="cboxSlideshow" class="" style="display: none;"></div><div id="cboxNext" class="" style="display: none;"></div><div id="cboxPrevious" class="" style="display: none;"></div><div id="cboxClose" class="" style="display: none;"></div></div><div id="cboxMiddleRight" style="float: left;"></div><div><div id="cboxBottomLeft" style="float: left;"></div><div id="cboxBottomCenter" style="float: left;"></div><div id="cboxBottomRight" style="float: left;"></div></div></div></div>
+
+
+<!-- START HEADER.TPL -->
+<div id="body_top_bg">
+	<div id="wrapper_exp">
+    	<div id="top_body">
+    	<div id="body_top_left">
+        	<ul class="body_top_menu">
+                            <li><a href="http://www.blinky.co.nz" title="Home"><span></span>Home</a></li>
+          
+                                <li><a href="/groups/" title="Groups"><span></span>Groups</a></li>
+                                <li class="body_top_red"><a href="/submit" title="Submit a New Item"><span></span>Submit a New Item</a></li>
+                         </ul>
+        </div>
+    	<div id="body_top_right">
+        	<ul class="body_top_menu">
+                            <li><a href="/module.php?module=rcContactus" title="Contact"><span></span>Contact</a></li>
+                <li><a href="/register" title="Register"><span></span>Register</a></li>
+                <li><a href="#login" title="Login" id="a_login"><span></span>Login</a></li>
+                
+                             
+            </ul>
+            <div id="exp_login_box">
+            	<div id="box_conteiner">
+                	<div class="box_content">
+                     <h2>Login</h2>
+                    <form action="/login.php?return=/privacy-policy.php" id="thisform" method="post">
+                        	
+                            Username:<br>
+                                <input type="text" name="username" class="login idle" value="" tabindex="10">
+                            Password:<br>
+                            <input type="password" name="password" class="login idle" tabindex="11">
+                            <input type="checkbox" name="persistent" tabindex="12" class="idle"> Remember
+                            <br>
+                            <input type="submit" value="Login" class="go_submit2 idle" id="submit_login" tabindex="13">
+                            <input type="hidden" name="processlogin" value="1" class="idle">
+                            <input type="hidden" name="return" class="login_return idle" value="">
+                        </form>
+                    
+                           <ul class="top_navigation_login">
+                           <li><a href="/register.php" class="loginbox_reg">Create a new account</a></li>
+                           <li><a href="/login.php" class="loginbox_reg">Forgotten Password</a></li>
+                           
+                           </ul>
+                   </div>
+                </div>
+            </div>
+        </div>
+        </div>
+        <div class="clear"></div>
+        </div>
+</div>
+<div id="wrapper_exp">
+        <div id="header">
+            <div id="header_left">
+            <a href="http://www.blinky.co.nz"><img src="/templates/realnews/images/blank.gif" align="top" border="0" alt="Logo" id="realnews_logo"></a>
+</div>
+
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-0794895768971906");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-0794895768971906", "Top_right");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-0794895768971906");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-0794895768971906", "Pinnacle_Life_2");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+
+
+
+
+
+<div align="right">
+<!-- ca-pub-0794895768971906/Top_right -->
+<script type="text/javascript">
+GA_googleFillSlot("Top_right");
+</script>
+</div>
+            <div id="header_right">
+            
+            </div>        
+        </div>
+        <div class="clear"></div>
+
+
+
+
+<script type="text/javascript" src="/templates/realnews/js/superfish.js"></script>
+<link rel="stylesheet" type="text/css" href="/templates/realnews/css/superfish.css" media="screen">
+<!--[if lte IE 6]>
+        <link rel="stylesheet" href="/templates/realnews/css/superfish_ie6.css" type="text/css" media="projection, screen">
+        <![endif]-->
+
+<script type="text/javascript" language="JavaScript">
+
+jQuery(document).ready(function() {
+	jQuery('ul.sf-menu').superfish({ 
+            delay:       1000,                            // one second delay on mouseout 
+            animation:   {opacity:'show',height:'show'},  // fade-in and slide-down animation 
+            speed:       'fast',                          // faster animation speed 
+            autoArrows:  true,                           // disable generation of arrow mark-up 
+            dropShadows: true                            // disable drop shadows 
+        }).find('ul').bgIframe({opacity:false});
+	
+});
+
+</script>
+								
+								
+<div id="menu_button">
+
+
+
+<ul class="sf-menu sf-js-enabled sf-shadow"><li class="current"><a href="/free-stuff-and-samples">Free stuff and samples</a></li>
+<li class="current"><a href="/vouchers">Vouchers</a></li>
+<li class="current"><a href="/online-competitions" class="sf-with-ul">Online competitions<span class="sf-sub-indicator"> »</span></a>
+<ul class="current" style="display: none; visibility: hidden;">
+<li><a href="/txt-competitions">TXT competitions</a></li>
+<li><a href="/monthly-competitions">Monthly competitions</a></li>
+</ul>
+</li>
+</ul>
+
+
+<div class="clear"></div>
+</div>
+        
+</div>
+<!-- END HEADER.TPL -->
+
+<div class="clear"></div>
+<div id="wrapper_exp">
+
+			<div class="contents">
+            
+            
+
+ <div id="pre_story"> 
+     
+    <div id="story_text">
+	    
+	    </div>
+  
+                    
+        <div class="clear"></div>
+</div>    
+
+
+
+    						
+
+<li><strong><h2><a name="privacypolicy"></a>Privacy policy</h2></strong><br>
+
+As a condition to using the Service, you agree to the terms of the  Blinky.co.nz privacy policy as it may be updated from time to time. Blinky.co.nz  understands that privacy is important to you. You do, however, agree  that Blinky.co.nz may monitor, edit or disclose your personal information,  including the content of your emails, if required to do so in order to  comply with any valid legal process or governmental request (such as a  search warrant, subpoena, statute, or court order), or as otherwise  provided in these Terms of Use and the Blinky.co.nz Privacy Policy. Personal  information collected by Blinky.co.nz may be stored and processed in the  New Zealand. Blinky.co.nz will not sell or rent your email address or details. <br>
+    <br>
+</li>
+
+  <p><strong></strong></p><h2><strong>Google and the <a href="http://www.doubleclick.com/privacy/faq.aspx">DoubleClick DART cookie</a>:</strong></h2><p></p><br>
+
+<ul>
+  <li>Google, as a third party vendor, uses cookies to serve ads on your site. </li>
+  <li>Google's use of the DART cookie enables it to serve ads to  your users based on their visit to your sites and other sites on the  Internet. </li>
+  <li>Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html">Google ad and content network privacy policy</a>. </li>
+</ul>
+<p>Because publisher sites and laws across countries vary, we're unable  to suggest specific privacy policy language. However, you may wish to  review resources such as the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a>, or NAI, which suggests the following language for data collection of non-personally identifying information:</p>
+
+<blockquote>We use third-party advertising companies to serve ads when  you visit our website. These companies may use information (not  including your name, address, email address, or telephone number) about  your visits to this and other websites in order to provide  advertisements about goods and services of interest to you. If you  would like more information about this practice and to know your  choices about not having this information used by these companies,  click here.</blockquote>
+<p>You can find additional information in Appendix A of the <a href="http://www.networkadvertising.org/pdfs/NAI_principles.pdf">NAI Self-Regulatory principles for publishers</a> (PDF). Please note that the NAI may change this sample language at any time.</p>
+								</div><!-- contents end --> 
+				
+				<div class="right_modules">	
+					
+                    <div id="right_m">
+    
+
+ 
+<div align="center"><a href="/register"><img src="/templates/realnews/images/register-blinky.gif" alt="Register" width="134" height="24" border="0"></a>
+</div>
+<br>
+
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script><script type="text/javascript">FB.init("f7559500e1bea831f73132678b9d9649");</script><fb:fan profile_id="255647847200" stream="0" connections="10" logobar="0" width="337"></fb:fan><div style="font-size:8px; padding-left:10px"><a href="http://www.facebook.com/pages/Blinkyconz/255647847200">Blinky.co.nz</a> on Facebook</div>
+
+
+<!--  -->
+
+<!-- START Search -->
+		
+
+<!-- START SEARCH -->
+<div id="module_exp">
+	<div class="module_title">
+	<h3><a href="/advanced-search/">Search</a></h3>
+    </div>
+    <div class="module_body">
+            					
+	
+	<form action="/search.php" method="get" name="thisform-search" id="thisform-search" onsubmit="document.location.href=&quot;http://www.blinky.co.nz/search/&quot;+encodeURIComponent(this.search.value); return false;">
+
+		<input type="text" size="20" class="input_exp2 idle" name="search" id="searchsite" value="Search.." onfocus="if(this.value == 'Search..') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Search..';}">
+		<input type="submit" value="Go" class="go_submit2 idle">
+	</form>
+    
+    <div class="adv_search"><a href="/advanced-search/">Advanced Search</a></div>
+		
+		<div class="clear"></div>
+	</div>
+</div>
+<!-- END SEARCH -->	<!-- END Search -->
+
+
+
+    
+    
+
+ 
+
+                    </div>
+                    <div id="right_r">
+    
+
+
+<p>
+
+
+</p><div id="module_exp" class="exp_topusers">
+	<div class="module_title">
+	<h3>New members</h3>
+    </div>
+    <div class="module_body">
+
+<div id="topuser">
+<ul>
+<li><a href="/user/profile/Bri22gham" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="Bri22gham" align="absmiddle"><span class="top_user_name">Bri22gham</span>     </a></li><li><a href="/user/profile/PatAnderson09" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="PatAnderson09" align="absmiddle"><span class="top_user_name">PatAnderson09</span>     </a></li><li><a href="/user/profile/justinnwilbur" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="justinnwilbur" align="absmiddle"><span class="top_user_name">justinnwilbur</span>     </a></li><li><a href="/user/profile/alstonmarvin" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="alstonmarvin" align="absmiddle"><span class="top_user_name">alstonmarvin</span>     </a></li><li><a href="/user/profile/mahewharold" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="mahewharold" align="absmiddle"><span class="top_user_name">mahewharold</span>     </a></li><li><a href="/user/profile/meganbutcher19" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="meganbutcher19" align="absmiddle"><span class="top_user_name">meganbutcher19</span>     </a></li><li><a href="/user/profile/arnoux" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="arnoux" align="absmiddle"><span class="top_user_name">arnoux</span>     </a></li><li><a href="/user/profile/bradleyfrancish" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="bradleyfrancish" align="absmiddle"><span class="top_user_name">bradleyfrancish</span>     </a></li>
+
+</ul>
+</div>
+
+  </div>
+ </div>
+
+
+
+
+<div id="module_exp" class="exp_users_comments">
+	<div class="module_title">
+	<h3>TopComments</h3>
+    </div>
+    <div class="module_body">
+<div id="topuser">
+<ul>
+<li><a href="/user/profile/NZTrainspotter" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="NZTrainspotter" align="absmiddle"><span class="top_user_name">NZTrainspotter</span>     </a></li><li><a href="/user/profile/libra_angel" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/libra_angel_30.jpg" alt="libra_angel" align="absmiddle"><span class="top_user_name">libra_angel</span>     </a></li><li><a href="/user/profile/lizzy" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/lizzy_30.jpg" alt="lizzy" align="absmiddle"><span class="top_user_name">lizzy</span>     </a></li><li><a href="/user/profile/nick" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/nick_30.jpg" alt="nick" align="absmiddle"><span class="top_user_name">nick</span>     </a></li><li><a href="/user/profile/aaron83" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="aaron83" align="absmiddle"><span class="top_user_name">aaron83</span>     </a></li><li><a href="/user/profile/miranda" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/miranda_30.jpg" alt="miranda" align="absmiddle"><span class="top_user_name">miranda</span>     </a></li><li><a href="/user/profile/buzzy" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/buzzy_30.jpg" alt="buzzy" align="absmiddle"><span class="top_user_name">buzzy</span>     </a></li><li><a href="/user/profile/sally" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="sally" align="absmiddle"><span class="top_user_name">sally</span>     </a></li>
+</ul>
+</div>
+  </div>
+ </div>
+
+  
+   <p></p>
+                    </div>
+                    
+                    <div id="right_l">
+    
+
+	
+	<!-- START User Menu -->
+    	<!-- END User Menu -->
+    <!-- START Main Menu -->
+		
+
+<div id="module_exp">
+	<div class="module_title">
+	<h3>Main Menu</h3>
+    </div>
+    <div class="module_body">
+
+            <ul id="nav-secondary">
+          				<li><a href="http://www.blinky.co.nz">Home</a></li>
+                <li><a href="/submit">Submit a New Item</a></li>
+                	
+                    <li><a href="/groups/"><span>Groups</span></a></li>
+                                        <li><a href="/groups/submit"><span>Create a Group</span></a></li>
+                                	                
+
+                
+
+
+                
+                <li><a href="/login.php?return=/privacy-policy.php">Login</a></li>
+                <li><a href="/register">Register</a></li>
+                                <li><a href="/topusers"> Top Users</a></li>
+				                <li><a href="/tagcloud">Tag cloud</a></li>                
+								</ul>
+               
+      </div>
+</div>
+	<!-- END Main Menu -->
+ 
+
+
+
+
+<div id="module_exp" class="exp_users_publ">
+	<div class="module_title">
+	<h3>Top Published</h3>
+    </div>
+    <div class="module_body">
+<div id="topuser">
+<ul>
+<li><a href="/user/profile/lizzy" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/lizzy_30.jpg" alt="lizzy" align="absmiddle"><span class="top_user_name">lizzy</span>     </a></li><li><a href="/user/profile/aaron83" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="aaron83" align="absmiddle"><span class="top_user_name">aaron83</span>     </a></li><li><a href="/user/profile/sallyphillips" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="sallyphillips" align="absmiddle"><span class="top_user_name">sallyphillips</span>     </a></li><li><a href="/user/profile/miranda" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/miranda_30.jpg" alt="miranda" align="absmiddle"><span class="top_user_name">miranda</span>     </a></li><li><a href="/user/profile/buzzy" tip=""><img id="exp_tips_img" src="/avatars/user_uploaded/buzzy_30.jpg" alt="buzzy" align="absmiddle"><span class="top_user_name">buzzy</span>     </a></li><li><a href="/user/profile/KayD" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="KayD" align="absmiddle"><span class="top_user_name">KayD</span>     </a></li><li><a href="/user/profile/ParksideMedia" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="ParksideMedia" align="absmiddle"><span class="top_user_name">ParksideMedia</span>     </a></li><li><a href="/user/profile/nightgal" tip=""><img id="exp_tips_img" src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="nightgal" align="absmiddle"><span class="top_user_name">nightgal</span>     </a></li>
+</ul>
+</div>
+
+  </div>
+ </div>
+
+   
+
+
+
+                    </div>
+                    
+                    <div id="right_m">   
+    
+
+<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js">
+</script>
+<script type="text/javascript">
+GS_googleAddAdSenseService("ca-pub-0794895768971906");
+GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+GA_googleAddSlot("ca-pub-0794895768971906", "Pinnacle_Life_2");
+</script>
+<script type="text/javascript">
+GA_googleFetchAds();
+</script>
+
+
+
+
+
+ 
+ 
+ 
+ 
+ <script type="text/javascript">
+
+jQuery(document).ready(function(){
+	jQuery('#easynews_scroll').cycle({
+		
+		fx:     'scrollUp',
+		timeout: 6000,
+        speed:   1000,
+        next:   '#easynews_next',
+        prev:   '#easynews_prev',
+		pager:  '#easynews_nav',
+    	pause:   1 
+		
+		});
+});
+</script>
+ 
+
+<div id="module_exp" class="exp_easynews">
+	<div class="module_title">
+	<h3>Most Popular News</h3>
+    </div>
+    <div class="module_body">
+                
+<div id="easynews_scroll" style="position: relative; width: 300px; height: 150px; overflow: hidden;">
+            
+<p class="p_img" style="position: absolute; top: 0px; left: 0px; display: block; z-index: 5; opacity: 1;"><a href="/story/59720"><span class="easy_title">Win $50 Instantly with Nestle</span><br>'Win $50 Instantly' with Nestle there is $250,000 to be Won! <br><br>
+To score your $50 prize or enter the unclaimed prize draw simply enter your EIGHT character unique f  ...</a></p><p class="p_img" style="position: absolute; top: 150px; left: 0px; display: none; z-index: 3;"><a href="/story/60055"><span class="easy_title">WIN a Rabbit Vibrator and get a FRE</span><br>This month Sexgear.co.nz are running a competition to win a Rabbit Vibrator. All you have to do is sign up to their mailing list during June and you will be entered into the p  ...</a></p><p class="p_img" style="position: absolute; top: 150px; left: 0px; display: none; z-index: 2;"><a href="/story/60095"><span class="easy_title">Clint Eastwood DVD competition</span><br><img src="http://www.blinky.co.nz/modules/exp_upload_images/files/thumbs/1275452066_unforgiven.jpg">Win 1 of five Clint Eastwood DVDs, including these classics, Heartbreak Ridge, Pale Rider, Unforgiven, Firefox and The Outlaw Josey Wales. To enter just leave a comment at fil  ...</a></p><p class="p_img" style="position: absolute; top: 150px; left: 0px; display: none; z-index: 1;"><a href="/story/60092"><span class="easy_title">Robyn Martin's book competition on</span><br><img src="http://www.blinky.co.nz/modules/exp_upload_images/files/thumbs/1275451572_Crockpot LATEST COVER.jpg">TVNZ is giving-away FIVE copies of Robyn Martin's book.<br><br>
+Fill out your contact details before 7th June 2010 to enter to win.  ...</a></p>
+
+                
+            </div>
+            
+            <div id="easynews_nav"><a href="#" class="activeSlide">1</a><a href="#" class="">2</a><a href="#" class="">3</a><a href="#" class="">4</a></div>
+            <br>
+            <div id="easynews_controls">
+        
+        <span><a href="" id="easynews_prev"><img src="/modules/exp_easynews/images/prev.png" align="top" alt="prev" width="16" height="16"></a></span>
+            
+        <span><a href="" id="easynews_next"><img src="/modules/exp_easynews/images/next.png" align="top" alt="next" width="16" height="16"></a></span>
+
+    </div>
+
+</div>
+ </div>
+
+
+
+
+
+
+<div id="module_exp">
+	<div class="module_title">
+	<h3><a href="#last_img">Last Images</a></h3>
+    </div>
+    <div class="module_body">
+
+<!--[if IE]>
+			<link type="text/css" media="screen" rel="stylesheet" href="/modules/exp_upload_images/css/colorbox/style1/colorbox-custom-ie.css" title="example" />
+<![endif]-->
+
+
+<div id="exp_upload_module"><div id="exp_upload_box"><ul><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275452066_unforgiven.jpg" title="   <a href=/story/60095 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275452066_unforgiven.jpg" alt="" width="75" height="75"></a><br><a href="/story/60095" class="exp_upload_read_more">read story</a></li><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275451572_Crockpot LATEST COVER.jpg" title="   <a href=/story/60092 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275451572_Crockpot LATEST COVER.jpg" alt="" width="75" height="75"></a><br><a href="/story/60092" class="exp_upload_read_more">read story</a></li><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275370092_mens-kit.jpg" title="   <a href=/story/59698 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275370092_mens-kit.jpg" alt="" width="75" height="75"></a><br><a href="/story/59698" class="exp_upload_read_more">read story</a></li><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275369893_lg-car-kit.jpg" title="   <a href=/story/59693 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275369893_lg-car-kit.jpg" alt="" width="75" height="75"></a><br><a href="/story/59693" class="exp_upload_read_more">read story</a></li><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275307662_Pepi.jpg" title="Pepi Snugglesuit   <a href=/story/59392 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275307662_Pepi.jpg" alt="Pepi Snugglesuit" width="75" height="75"></a><br><a href="/story/59392" class="exp_upload_read_more">read story</a></li><li class="exp_upload_img"><a href="/modules/exp_upload_images/files/1275291255_lion.jpg" title="   <a href=/story/59248 class=exp_upload_read_more >read story</a>" rel="mod_colorbox"><img src="/modules/exp_upload_images/files/thumbs/1275291255_lion.jpg" alt="" width="75" height="75"></a><br><a href="/story/59248" class="exp_upload_read_more">read story</a></li></ul></div></div><div class="clear"></div> </div>
+ </div>
+
+
+
+<link rel="stylesheet" type="text/css" href="/modules/exp_newpage/css/expnewpage.css" media="screen">
+
+
+
+<div id="module_exp">
+	<div class="module_title">
+	<h3><a href="http://www.blinky.co.nz">Top Today</a></h3>
+    </div>
+    <div class="module_body">
+        <div id="sstop-news" class="module_news">
+            <ul>
+                
+<li><span class="sidebar-vote-number"><a href="/free-stuff-and-samples/clothing-coupons-clothing-coupon-codes-apparel-coupons-free-shipping-deals-on-catalogspot-com/" class="mod_black">1</a></span>	<span class="sidebar-article"><a href="/free-stuff-and-samples/clothing-coupons-clothing-coupon-codes-apparel-coupons-free-shipping-deals-on-catalogspot-com/" class="switchurl">Clothing Coupons, Clothing...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/online-competitions/why-google-local-search-is-important/" class="mod_black">1</a></span>	<span class="sidebar-article"><a href="/online-competitions/why-google-local-search-is-important/" class="switchurl">Why Google Local Search Is...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="//sony-kdl-40ex401-bravia-408243-lcd-hdtv-1080p-120hz/" class="mod_black">1</a></span>	<span class="sidebar-article"><a href="//sony-kdl-40ex401-bravia-408243-lcd-hdtv-1080p-120hz/" class="switchurl">Sony KDL-40EX401 Bravia 40...</a></span></li>
+<li><span class="sidebar-vote-number"><a href="/vouchers/copywriting/" class="mod_black">1</a></span>	<span class="sidebar-article"><a href="/vouchers/copywriting/" class="switchurl">Copywriting</a></span></li>
+<li><span class="sidebar-vote-number"><a href="//portable-ipod-speakers-altec-lansing-im-237-best-discount/" class="mod_black">1</a></span>	<span class="sidebar-article"><a href="//portable-ipod-speakers-altec-lansing-im-237-best-discount/" class="switchurl">Portable iPod Speakers Alt...</a></span></li>
+            </ul>
+        </div>
+</div>
+</div> 
+
+
+
+<!-- START TAGS -->
+<div id="module_exp">
+	<div class="module_title">
+	<h3><a href="/tagcloud">Top Tags</a></h3>
+    </div>
+    <div class="module_body">
+                		<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/%241000">$1000</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/000">000</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/accommodation">accommodation</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.63636363636pt">
+			<a href="/tag/album">album</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/all+blacks">all blacks</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/apple">apple</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.81818181818pt">
+			<a href="/tag/australia">australia</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.00699300699pt">
+			<a href="/tag/baby">baby</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/bag">bag</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/beauty">beauty</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/beer">beer</a>
+		</span>
+			<span class="tags_module" style="font-size: 13.4755244755pt">
+			<a href="/tag/book">book</a>
+		</span>
+			<span class="tags_module" style="font-size: 11.2727272727pt">
+			<a href="/tag/book+giveaway">book giveaway</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/books">books</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/camera">camera</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/cap">cap</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.6993006993pt">
+			<a href="/tag/car">car</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.3286713287pt">
+			<a href="/tag/cash">cash</a>
+		</span>
+			<span class="tags_module" style="font-size: 13.0979020979pt">
+			<a href="/tag/cd">cd</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/cds">cds</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/clothes">clothes</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/clothing">clothing</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/coffee">coffee</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.0769230769pt">
+			<a href="/tag/competition">competition</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.32167832168pt">
+			<a href="/tag/concert">concert</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/cookbook">cookbook</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/copy">copy</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/digital+camera">digital camera</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/dinner">dinner</a>
+		</span>
+			<span class="tags_module" style="font-size: 17pt">
+			<a href="/tag/dvd">dvd</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.13286713287pt">
+			<a href="/tag/fashion">fashion</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.94405594406pt">
+			<a href="/tag/fiji">fiji</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/flights">flights</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.2027972028pt">
+			<a href="/tag/food">food</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.3916083916pt">
+			<a href="/tag/free">free</a>
+		</span>
+			<span class="tags_module" style="font-size: 11.7132867133pt">
+			<a href="/tag/game">game</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/gaming">gaming</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.00699300699pt">
+			<a href="/tag/giveaway">giveaway</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/gold+coast">gold coast</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/hamper">hamper</a>
+		</span>
+			<span class="tags_module" style="font-size: 13.6643356643pt">
+			<a href="/tag/holiday">holiday</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/huggies">huggies</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.013986014pt">
+			<a href="/tag/ipod">ipod</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/jewellery">jewellery</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/kids">kids</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/london">london</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/magazine">magazine</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/makeover">makeover</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/makeup">makeup</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/microsoft">microsoft</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/mobile">mobile</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/mobile+phone">mobile phone</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.06993006993pt">
+			<a href="/tag/money">money</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.69230769231pt">
+			<a href="/tag/mothers+day">mothers day</a>
+		</span>
+			<span class="tags_module" style="font-size: 12.5944055944pt">
+			<a href="/tag/movie">movie</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/movie+tickets">movie tickets</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.7692307692pt">
+			<a href="/tag/mtv">mtv</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.51048951049pt">
+			<a href="/tag/music">music</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/nivea">nivea</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/nz">nz</a>
+		</span>
+			<span class="tags_module" style="font-size: 12.0909090909pt">
+			<a href="/tag/online+competition">online competition</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/perfume">perfume</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/pet+food">pet food</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/petrol">petrol</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/phone">phone</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.81818181818pt">
+			<a href="/tag/playstation">playstation</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/playstation+3">playstation 3</a>
+		</span>
+			<span class="tags_module" style="font-size: 12.5314685315pt">
+			<a href="/tag/prize">prize</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.1958041958pt">
+			<a href="/tag/prize+pack">prize pack</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/ps3">ps3</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/psp">psp</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/queenstown">queenstown</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.69230769231pt">
+			<a href="/tag/restaurant">restaurant</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/revlon">revlon</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/rugby">rugby</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.62937062937pt">
+			<a href="/tag/samsung">samsung</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.81818181818pt">
+			<a href="/tag/shampoo">shampoo</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.00699300699pt">
+			<a href="/tag/shoes">shoes</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.69230769231pt">
+			<a href="/tag/skin+care">skin care</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.88111888112pt">
+			<a href="/tag/skincare">skincare</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.5174825175pt">
+			<a href="/tag/sony">sony</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.5034965035pt">
+			<a href="/tag/sunglasses">sunglasses</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.69230769231pt">
+			<a href="/tag/sydney">sydney</a>
+		</span>
+			<span class="tags_module" style="font-size: 11.7132867133pt">
+			<a href="/tag/t-shirt">t-shirt</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.75524475524pt">
+			<a href="/tag/t-shirts">t-shirts</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/telecom">telecom</a>
+		</span>
+			<span class="tags_module" style="font-size: 14.6713286713pt">
+			<a href="/tag/tickets">tickets</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.82517482517pt">
+			<a href="/tag/travel">travel</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.5174825175pt">
+			<a href="/tag/trip">trip</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/tui">tui</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.69230769231pt">
+			<a href="/tag/tv">tv</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.00699300699pt">
+			<a href="/tag/tvnz">tvnz</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.56643356643pt">
+			<a href="/tag/vodafone">vodafone</a>
+		</span>
+			<span class="tags_module" style="font-size: 10.8951048951pt">
+			<a href="/tag/voucher">voucher</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.44755244755pt">
+			<a href="/tag/vouchers">vouchers</a>
+		</span>
+			<span class="tags_module" style="font-size: 8.44055944056pt">
+			<a href="/tag/wellington">wellington</a>
+		</span>
+			<span class="tags_module" style="font-size: 16.8741258741pt">
+			<a href="/tag/win">win</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.25874125874pt">
+			<a href="/tag/wine">wine</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.6993006993pt">
+			<a href="/tag/xbox">xbox</a>
+		</span>
+			<span class="tags_module" style="font-size: 9.57342657343pt">
+			<a href="/tag/xbox+360">xbox 360</a>
+		</span>
+			</div>
+</div>
+<!-- END TAGS -->
+
+ 
+
+<div class="links">
+<div class="sectiontitle"><a href="http://www.blinky.co.nz/module.php?module=rcContactus">Contact Us</a></div>
+	            
+</div>
+
+
+
+	
+<div id="module_exp">
+	<div class="module_title">
+	<h3>Saved items</h3>
+    </div>
+    <div class="module_body">
+<ul>
+<li><a class="switchurl" href="/story/32661">Free Contact Lenses</a></li><li><a class="switchurl" href="/story/32432">Win a $1000 Tui Prize Pack</a></li><li><a class="switchurl" href="/story/23238">FREE Parcel of goodies giveaway</a></li><li><a class="switchurl" href="/story/23270">FREE LED keyring</a></li><li><a class="switchurl" href="/story/23567">Free Carefree acti-fresh sample</a></li></ul>
+</div>
+</div>
+	
+
+
+
+
+<div id="module_exp">
+	<div class="module_title">
+	<h3>Users online</h3>
+    </div>
+    <div class="module_body">
+
+Total users online - 11  </div>
+ </div><br>
+
+<div align="left">
+<!-- ca-pub-0794895768971906/Pinnacle_Life_2 -->
+<script type="text/javascript">
+GA_googleFillSlot("Pinnacle_Life_2");
+</script>
+</div>
+
+<br>
+<div align="left">
+<iframe src="http://tpnads.com/iframe/jscode.php?zoneid=379&amp;size=300x250&amp;source=nz-entertainment" width="300" height="250" border="0" frameborder="0" marginheight="0" marginwidth="0" scrolling="no">
+<a href="http://tpnads.com/default/url.php?zoneid=379" target="_blank">
+<img src="http://tpnads.com/default/image300x250.php?zoneid=379" border="0" /></a></iframe>
+</div>                	</div>
+                    
+				</div>
+                <!-- right modules end -->
+</div>	
+<div class="clear"></div>
+<div id="footer">
+<div id="wrapper_exp">
+
+<!-- START FOOTER --><div id="footer_left"><ul class="column">         <li>             <div class="block">
+
+
+<div id="story_publ_header">Latest&nbsp;Blinky lists only the best  Free samples, Online competitions and Vouchers</div><div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/story/60095"><img src="http://www.blinky.co.nz/modules/exp_upload_images/files/thumbs/1275452066_unforgiven.jpg" width="40px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">2010-06-01&nbsp;voted - 4&nbsp;comments - 0</span><br>
+        <span class="exp_publ_title"><a href="/story/60095">Clint Eastwood DVD competition&nbsp;&gt;&gt;</a></span>
+        </div>
+        </div>
+        <div class="clear"></div><div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/story/60092"><img src="http://www.blinky.co.nz/modules/exp_upload_images/files/thumbs/1275451572_Crockpot LATEST COVER.jpg" width="40px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">2010-06-01&nbsp;voted - 3&nbsp;comments - 0</span><br>
+        <span class="exp_publ_title"><a href="/story/60092">Robyn Martin's book competition on Good Morning&nbsp;&gt;&gt;</a></span>
+        </div>
+        </div>
+        <div class="clear"></div><div id="exp_publ_box">
+        <div class="exp_publ_left">
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">2010-06-01&nbsp;voted - 4&nbsp;comments - 0</span><br>
+        <span class="exp_publ_title"><a href="/story/60055">WIN a Rabbit Vibrator and get a FREE $5 voucher!&nbsp;&gt;&gt;</a></span>
+        </div>
+        </div>
+        <div class="clear"></div><div id="exp_publ_box">
+        <div class="exp_publ_left">
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">2010-06-01&nbsp;voted - 7&nbsp;comments - 0</span><br>
+        <span class="exp_publ_title"><a href="/story/59720">Win $50 Instantly with Nestle&nbsp;&gt;&gt;</a></span>
+        </div>
+        </div>
+        <div class="clear"></div><div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/story/59698"><img src="http://www.blinky.co.nz/modules/exp_upload_images/files/thumbs/1275370092_mens-kit.jpg" width="40px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">2010-05-31&nbsp;voted - 10&nbsp;comments - 0</span><br>
+        <span class="exp_publ_title"><a href="/story/59698">Schwarzkopf Men Perfect Gift Set competition&nbsp;&gt;&gt;</a></span>
+        </div>
+        </div>
+        <div class="clear"></div>            </div>        </li>         <li>             <div class="block">              
+
+<div id="story_publ_header">Latest Comments</div>
+
+                    
+<div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/free-stuff-and-samples/get-a-free-itunes-card-with-20-kiwi-songs/#c2712"><img src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="jojo80" title="jojo80" width="30px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">Author&nbsp;-&nbsp;<a href="/user/profile/jojo80">jojo80</a></span><br>
+        <span class="exp_publ_title"><a href="/free-stuff-and-samples/get-a-free-itunes-card-with-20-kiwi-songs/#c2712">looks like all the iTunes cards are gone now :(...</a></span>
+        </div>
+</div>
+<div class="clear"></div>
+
+<div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/free-stuff-and-samples/free-sample-of-rain-clear-gel-fog-clear-/#c2711"><img src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="sammydockary" title="sammydockary" width="30px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">Author&nbsp;-&nbsp;<a href="/user/profile/sammydockary">sammydockary</a></span><br>
+        <span class="exp_publ_title"><a href="/free-stuff-and-samples/free-sample-of-rain-clear-gel-fog-clear-/#c2711">yes thanks...</a></span>
+        </div>
+</div>
+<div class="clear"></div>
+
+<div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/free-stuff-and-samples/try-cliniques-3-step-skin-care-system-for-free/#c2708"><img src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="hamiltona" title="hamiltona" width="30px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">Author&nbsp;-&nbsp;<a href="/user/profile/hamiltona">hamiltona</a></span><br>
+        <span class="exp_publ_title"><a href="/free-stuff-and-samples/try-cliniques-3-step-skin-care-system-for-free/#c2708">Could I get a free Sample please?...</a></span>
+        </div>
+</div>
+<div class="clear"></div>
+
+<div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/free-stuff-and-samples/free-vase-limited-numbers/#c2709"><img src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="hamiltona" title="hamiltona" width="30px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">Author&nbsp;-&nbsp;<a href="/user/profile/hamiltona">hamiltona</a></span><br>
+        <span class="exp_publ_title"><a href="/free-stuff-and-samples/free-vase-limited-numbers/#c2709">It looks like a great vase indeed. I would like to see it up close. Can I...</a></span>
+        </div>
+</div>
+<div class="clear"></div>
+
+<div id="exp_publ_box">
+        <div class="exp_publ_left">
+        <a href="/free-stuff-and-samples/Free-meal-on-your-birthday-at-Riccarton-Buffet-%28Christchurch%29/#c2710"><img src="http://www.blinky.co.nz/avatars/Gravatar_30.gif" alt="froony" title="froony" width="30px"></a>
+        </div>
+        <div class="exp_publ_right">
+        <span class="exp_publ_small">Author&nbsp;-&nbsp;<a href="/user/profile/froony">froony</a></span><br>
+        <span class="exp_publ_title"><a href="/free-stuff-and-samples/Free-meal-on-your-birthday-at-Riccarton-Buffet-%28Christchurch%29/#c2710">so can I just go into the mall and tell everyone its my birthday and get...</a></span>
+        </div>
+</div>
+<div class="clear"></div>
+
+       
+
+            </div>        </li>  		                      </ul></div><div id="footer_right">	<div class="f_right_t">
+
+<!-- START ABOUT -->
+<div id="story_publ_header">What's Blinky?</div>
+
+            <div id="footer_about">
+                Blinky is your resource to New Zealand's best selection of free samples, online competitions, and vouchers.
+            </div>
+	
+
+<!-- END ABOUT -->		</div>    <div id="footer_logo">     <a href="http://www.blinky.co.nz"><img src="/templates/realnews/images/blank.gif" align="top" border="0" alt="Logo" id="realnews_logo"></a>     </div></div>        <div class="clear"></div>
+<!-- END FOOTER -->
+
+
+
+
+</div>
+
+<div id="footer_copy">
+	<div id="wrapper_exp">
+        	<div class="exp_hr">
+        	<span class="contents">Copyright 2010 Blinky.co.nz | <a href="privacy-policy.php">Privacy policy</a> | <a href="terms-conditions.php">Terms and conditions</a> | </span><br><br><br><br>
+
+
+			<a href="http://www.blinky.co.nz/search.php?search=kids+competitions">kids 
+            competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=free+stuff">free 
+              stuff</a> | <a href="http://www.blinky.co.nz/search.php?search=compitions">compitions 
+              </a> | <a href="http://www.blinky.co.nz/search.php?search=free+samples">free 
+                samples</a> | <a href="http://www.blinky.co.nz/search.php?search=win+stuff">win 
+                  stuff</a> | <a href="http://www.blinky.co.nz/search.php?search=online+competitions">online 
+                    competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=travel">travel 
+                      competitions</a> |<a href="http://www.blinky.co.nz/search.php?search=freebies"> freebies</a> | <a href="http://www.blinky.co.nz/search.php?search=free+product+samples">free 
+                        product samples</a> | <a href="http://www.blinky.co.nz/search.php?search=beauty+samples">free 
+                          beauty samples</a> | <a href="http://www.blinky.co.nz/search.php?search=%27food+samples%27">free 
+                            food samples</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=win+prizes">win prizes</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=monthly">monthly competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=free+competitions">free competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=holiday">win a holiday</a> | <a href="http://www.blinky.co.nz/search.php?search=free+giveaways">free giveaways</a> | <a href="http://www.blinky.co.nz/search.php?search=fashion+competition">fashion comp</a> | <a href="http://www.blinky.co.nz/search.php?search=money">money competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=competitions+online">competitions online</a> | <a href="http://www.blinky.co.nz/search.php?search=good+morning+show">good morning show competition</a>| <a href="http://www.blinky.co.nz/search.php?search=magazine">magazine competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=photo">photo competitions</a> | <a href="http://www.blinky.co.nz/search.php?search=magazine">magazine competitions</a> | <a href="http://www.free-samples-canada.com">free samples canada</a> | <a href="http://www.blinky.co.nz/search.php?search=webjet">webjet</a> | <a href="http://www.blinky.co.nz/search.php?search=free+stickers">free stickers</a> | <a href="http://www.blinky.co.nz/search.php?search=free+makeup">free makeup</a> | <a href="http://www.blinky.co.nz/search.php?search=free+stickers">free stickers</a> | <a href="http://www.blinky.co.nz/search.php?search=wotif">wotif</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=grabaseat">grabaseat</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=beauty+samples">free beauty samples</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=cosmetic+samples">free cosmetic samples</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=zmonline">zmonline competitions</a> | <a |=""></a><a href="http://www.blinky.co.nz/search.php?search=voucher">vouchers</a> | <a href="http://www.Insurance-Quotes.co.nz ">Insurance Quotes</a>
+
+			
+			</div>
+            <div id="footer_copy_top">
+
+<a href="#croll_top"><img src="/templates/realnews/images/top_scroll.png" width="19px" height="19px" align="top" border="0" alt="Top"></a></div>         
+<div class="clear"></div>
+    </div>      
+</div>
+</div><!-- #footer -->
+
+
+
+
+</body></html>
