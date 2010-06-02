@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201102106id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earmaster.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603012508id_/http%3A//www.earmaster.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # EarMaster Privacy Policy
 
@@ -26,13 +26,15 @@
     * [Press material](https://web.archive.org/press/)
   * [Shop](https://web.archive.org/orderinfo/)
     * [Buy EarMaster](https://web.archive.org/orderinfo/)
+    * [Special offers](https://web.archive.org/offers.htm)
     * [Affiliate plan](https://web.archive.org/affiliate/)
-    * [Become a reseller](https://web.archive.org/reseller/)
+    * [Reseller Area](https://web.archive.org/reseller/)
   * [Community](https://web.archive.org/community/)
     * [Community forum](https://web.archive.org/community/)
     * [User comments](https://web.archive.org/user-comments.htm)
     * [Endorsements](https://web.archive.org/endorsement.htm)
   * [Support](https://web.archive.org/support/)
+    * [Support Portal](https://web.archive.org/support/)
     * [FAQ](https://web.archive.org/support/faq.htm)
     * [Support forum](https://web.archive.org/community/viewforum.php?f=2)
     * [Register your product](https://web.archive.org/register/)
@@ -64,5 +66,5 @@ If you have any questions about our Privacy Policy, you may contact us at one of
 
 |     
 ---|---  
-Copyright © 1996-2009 - EarMaster ApS - All rights reserved  
+Copyright © 1996-2010 - EarMaster ApS - All rights reserved  
 [sitemap](https://web.archive.org/sitemap.php) | [privacy](https://web.archive.org/privacy-policy.htm) | [contact](https://web.archive.org/contact.htm)
