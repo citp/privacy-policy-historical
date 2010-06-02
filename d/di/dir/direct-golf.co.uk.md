@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622192821id_/http%3A//direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the direct-golf.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602140251id_/http%3A//www.direct-golf.co.uk/static/privacy) for the most accurate reproduction.*
 
-# Direct Golf UK Ltd - Golf equipment, golf clubs, golf bags, golf shoes, golf balls & golf accessories
+# Direct Golf UK - Golf equipment, golf clubs, golf bags, golf shoes, golf balls & golf accessories
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998) and according to the Privacy and Electronic Communications (EC Directive) Regulations 2003.
 
