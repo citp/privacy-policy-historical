@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201180009id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602032745id_/http%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Lexile.com
 
