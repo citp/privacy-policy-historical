@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthology.com privacy policy that was archived on 2009-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090413201152id_/http%3A//www.healthvideo.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthology.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602105116id_/http%3A//www.healthvideo.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
