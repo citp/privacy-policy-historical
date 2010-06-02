@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the greensmoothiegirl.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129004708id_/http%3A//www.greensmoothiegirl.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensmoothiegirl.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602052959id_/http%3A//www.greensmoothiegirl.com/privacy-policy) for the most accurate reproduction.*
 
-# Green Smoothie Girl | 12 Steps to Whole Food Eating » Privacy Policy
+# Privacy Policy | Green Smoothie Girl | 12 Steps to Whole Food Eating
 
 ## Privacy Policy
 
