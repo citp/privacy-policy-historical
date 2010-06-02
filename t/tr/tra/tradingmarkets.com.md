@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227030832id_/http%3A//www.tradingmarkets.com/.site/page/%3Floc%3Dlegal/privacy.cfm%26hcode%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradingmarkets.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602092252id_/http%3A//www.tradingmarkets.com/legal/privacy.cfm) for the most accurate reproduction.*
 
 # 
-
-TRADINGMARKETS PRIVACY POLICY STATEMENT
 
 TradingMarkets is committed to protecting the private sensitive information of our customers. We have revised our Privacy Policy to reflect our commitment, and we strongly urge our customers to take some time to review the new version below. 
 
@@ -90,31 +88,10 @@ If we decide to change our privacy policy, we will post those changes to this pr
 **Contact Information**  
 If you have any questions or suggestions regarding our privacy policy, please contact us at:
 
-| Telephone: |   | 213 955 5858 ext. 1  
+Telephone: |   | 213 955 5858 ext. 1  
 ---|---|---  
 Facsimile: |   | 213 955 4240  
 E-mail: |   | support@tradingmarkets.com  
-Postal Address: |   |  15260 Ventura Blvd. Suite #2200   
-Sherman Oaks, CA 91403   
-Web site: |   | www.tradingmarkets.com  
-  
-The Connors Group, Inc. ("Company") is not an investment advisory service, nor a registered investment advisor or broker-dealer and does not purport to tell or suggest which securities or currencies customers should buy or sell for themselves. The analysts and employees or affiliates of Company may hold positions in the stocks, currencies or industries discussed here. You understand and acknowledge that there is a very high degree of risk involved in trading securities and/or currencies. The Company, the authors, the publisher, and all affiliates of Company assume no responsibility or liability for your trading and investment results. Factual statements on the Company's website, or in its publications, are made as of the date stated and are subject to change without notice.
-
-It should not be assumed that the methods, techniques, or indicators presented in these products will be profitable or that they will not result in losses. Past results of any individual trader or trading system published by Company are not indicative of future returns by that trader or system, and are not indicative of future returns which be realized by you. In addition, the indicators, strategies, columns, articles and all other features of Company's products (collectively, the "Information") are provided for informational and educational purposes only and should not be construed as investment advice. Examples presented on Company's website are for educational purposes only. Such set-ups are not solicitations of any order to buy or sell. Accordingly, you should not rely solely on the Information in making any investment. Rather, you should use the Information only as a starting point for doing additional independent research in order to allow you to form your own opinion regarding investments. You should always check with your licensed financial advisor and tax advisor to determine the suitability of any investment.
-
-HYPOTHETICAL OR SIMULATED PERFORMANCE RESULTS HAVE CERTAIN INHERENT LIMITATIONS. UNLIKE AN ACTUAL PERFORMANCE RECORD, SIMULATED RESULTS DO NOT REPRESENT ACTUAL TRADING AND MAY NOT BE IMPACTED BY BROKERAGE AND OTHER SLIPPAGE FEES. ALSO, SINCE THE TRADES HAVE NOT ACTUALLY BEEN EXECUTED, THE RESULTS MAY HAVE UNDER- OR OVER-COMPENSATED FOR THE IMPACT, IF ANY, OF CERTAIN MARKET FACTORS, SUCH AS LACK OF LIQUIDITY. SIMULATED TRADING PROGRAMS IN GENERAL ARE ALSO SUBJECT TO THE FACT THAT THEY ARE DESIGNED WITH THE BENEFIT OF HINDSIGHT. NO REPRESENTATION IS BEING MADE THAT ANY ACCOUNT WILL OR IS LIKELY TO ACHIEVE PROFITS OR LOSSES SIMILAR TO THOSE SHOWN.
-
-The Connors Group, Inc.  
-10 Exchange Place, Suite 1800  
-Jersey City, NJ 07302
-
-© Copyright 2009 The Connors Group, Inc.
-
-* * *
-
-All analyst commentary provided on TradingMarkets.com is provided for educational purposes only. The analysts and employees or affiliates of TradingMarkets.com may hold positions in the stocks or industries discussed here. This information is NOT a recommendation or solicitation to buy or sell any securities. Your use of this and all information contained on TradingMarkets.com is governed by the [Terms and Conditions of Use](http://www.tradingmarkets.com/index.cfm/termsuse/). Please click the link to view those terms. Follow this link to read our [Editorial Policy.](https://web.archive.org/index.cfm/editorialp/)  
-
-
-* * *
-
-© 2009 The Connors Group, Inc.
+Postal Address: |   |  10 Exchange Place, Suite 1800  
+Jersey City, NJ 07302   
+Web site: |   | www.tradingmarkets.com
