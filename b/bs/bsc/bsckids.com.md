@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the bsckids.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201011100id_/http%3A//www.bsckids.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bsckids.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602031616id_/http%3A//www.bsckids.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » BSCkids
+# BSCkids: Privacy Policy
+
+* * *
 
 **What information do we collect?**
 
