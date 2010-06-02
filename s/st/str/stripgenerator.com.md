@@ -1,11 +1,16 @@
-> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231162315id_/http%3A//stripgenerator.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stripgenerator.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602045500id_/http%3A//stripgenerator.com/privacy) for the most accurate reproduction.*
 
-# Stripgenerator.com 1.0.4
+# Stripgenerator.com
 
-#### Privacy policy
+## Privacy policy
+
+### Privacy policy
 
 1\. What This Privacy Policy Covers
-    This policy covers how 3fs d.o.o. ("ThirdFrameStudios," "we," "us," or "our") treats personal information that it collects and receives on Stripgenerator and www.Stripgenerator.com (“Stripgenerator”). Information you share with us is used for ThirdFrameStudios’s business purposes. Thirdframestudios is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
+    
+
+This policy covers how 3fs d.o.o. ("ThirdFrameStudios," "we," "us," or "our") treats personal information that it collects and receives on Stripgenerator and www.Stripgenerator.com (“Stripgenerator”). Information you share with us is used for ThirdFrameStudios’s business purposes. Thirdframestudios is not in the business of selling information about you. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
+
 2\. Information We Gather
     
 
@@ -46,8 +51,7 @@
 5\. Information Relating to Children
     
 
-  * Users under the age of 13 are prohibited from using Stripgenerator.
-
+Users under the age of 13 are prohibited from using Stripgenerator.
 
 6\. Information Use, Sharing and Disclosure
     
@@ -72,38 +76,51 @@
 
 
 7\. Third Party Advertising
-    Advertisements appearing on the Stripgenerator Site, Product or Services may be delivered to users by Stripgenerator or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Stripgenerator and does not cover the use of cookies by any advertisers.
-    Stripgenerator does not share any personally identifiable information with advertisers. Stripgenerator may share general demographic information (such as aggregated statistics about members’ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Stripgenerator does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
-    From time to time, Stripgenerator or a partner, may sponsor a promotion, sweepstake or contest on Stripgenerator. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Stripgenerator may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
-8\. Changes to this Privacy Policy
-    Stripgenerator may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Stripgenerator account or by placing a prominent notice on our site.
-9\. Confidentiality and Security
-    No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
     
+
+Advertisements appearing on the Stripgenerator Site, Product or Services may be delivered to users by Stripgenerator or one of our Web advertising partners. Our Web advertising partners may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement. In this way, ad servers may compile information about where you, or others who are using your computer, saw their advertisements and determine which ads are clicked on. This information allows an ad network to deliver targeted advertisements that they believe will be of most interest to you. This privacy policy covers the use of cookies by Stripgenerator and does not cover the use of cookies by any advertisers.
+
+Stripgenerator does not share any personally identifiable information with advertisers. Stripgenerator may share general demographic information (such as aggregated statistics about members’ interests and occupations) and non-personally identifiable information (such as browser type and IP addresses) with advertisers and partners. Stripgenerator does not give advertisers access to your individual personal account information. However, by selecting, interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad.
+
+From time to time, Stripgenerator or a partner, may sponsor a promotion, sweepstake or contest on Stripgenerator. You may be asked to provide personal information including name, email address or home address or to answer questions in order to participate. Stripgenerator may transfer personal information to certain advertising partners that you have explicitly requested to receive information from. It will be clear at the point of collection who is collecting the personal information and whose privacy statement will apply.
+
+8\. Changes to this Privacy Policy
+    
+
+Stripgenerator may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular Stripgenerator account or by placing a prominent notice on our site.
+
+9\. Confidentiality and Security
+    
+
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems.
 
   * We use physical, electronic, and procedural safeguards to protect personal information about you.
   * Your account information is password-protected.
   * In certain areas, Stripgenerator uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software.
 
 
-    If Stripgenerator learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Stripgenerator or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@stripgenerator.com](mailto:privacy@stripgenerator.com).
-10.Changing your Preferences and Personal Information
+
+If Stripgenerator learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using Stripgenerator or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. If this happens, you will need a web browser enabling you to view the applicable web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us at [privacy@stripgenerator.com](mailto:privacy@stripgenerator.com).
+
+10\. Changing your Preferences and Personal Information
     
 
   * You can edit your account information with Stripgenerator at any time. Most personal information you may provide is entirely optional. For example, to the extent that parents are considering whether to permit their children to use Stripgenerator, we do not condition a child's participation based upon their provision of any more personal information than is necessary to operate those sites, products and services.
   * You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
 
 
-11.Contacting Stripgenerator
-    If you have a privacy concern regarding Stripgenerator, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@stripgenerator.com](mailto:privacy@stripgenerator.com). Alternatively, we can be reached by our postal mail address:
-      
+11\. Contacting Stripgenerator
+    
+
+If you have a privacy concern regarding Stripgenerator, or this policy, and if you cannot satisfactorily resolve it through the use of those sites, products or services, you should complete a feedback form or you can write to us by email at [privacy@stripgenerator.com](mailto:privacy@stripgenerator.com). Alternatively, we can be reached by our postal mail address:
+
 3fs računalniški studio d.o.o.  
 Kidričeva 53  
 4000 Kranj  
-Slovenija, EU
-      
+Slovenija, EU 
+
 If you object to any sharing of your personal information that may be permitted under this policy, you may do so by writing us at the above address. We will take reasonable steps to accommodate your requests as they relate to our advertising practices. In some instances, honoring your requests may interfere with or preclude your ability to use Stripgenerator or may require us to terminate our relationship with you.
-      
+
 Effective Date: October 9, 2006
 
 Copyright 2006 Stripgenerator, Ltd. All rights reserved.
