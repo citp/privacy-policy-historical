@@ -1,51 +1,24 @@
-> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312094928id_/http%3A//www.4siteinsurance.co.uk/Support/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4siteinsurance.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602032249id_/http%3A//www.4siteinsurance.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
-# Caravan insurance, 4site has the best caravan insurance, for cheap caravan insurance visit 4site now
+# caravan, insure your caravan with 4site insurance, here at 4site we make sure your caravan has cover11
 
-Our Privacy Policy provides information regarding accuracy, access, security and how it manages visitor, supplier and client information collected from its Website(s).
+We recognise your right to privacy. When you get a quote or decide to buy online, you will be asked to "opt in" to our Privacy Policy i.e. to confirm that you agree to our use of any personal information that we may collect from you. If you give your consent we will be able to provide you a better service by keeping you informed about other offers from **4site**. We promise never to give your details to any other organisation for marketing purposes and will only send you information about **4site**.
 
-## Our Website Mission
+  1. **Collation of Information**   
+Upon membership registration, you will be required to provide some information about yourself. Further information may be requested upon entering our competitions, promotions or special offers.
+  2. **Sensitive Information**   
+We are required by law to advise you that occasionally the selections you make when using our services may indicate information about you that you may regard as sensitive - such as your date of birth. As with all of the personal information you provide to us, you can be assured that any sensitive information you choose to supply to us will only be used in accordance with this Privacy Policy.
+  3. **How we use the Information you provide**   
+We use the information you provide to supply goods and services to you. In some instances this may require us to share this information with our subsidiaries, affiliates or other members of our group.
+  4. **Third Parties**   
+In order to provide the services of our third party partners to you, we may need to pass your personal information to them. We will require our partners to abide faithfully by the terms of our Privacy Policy. We may from time to time provide links to third party web sites and businesses that are not affiliated with us although our branding may appear on these sites. If you provide any personal information to the operators of these sites or businesses, their use of your personal information will be subject to the privacy policy applicable to their site or business. This may not be the same as our Privacy Policy. We advise you to read any third party privacy policy carefully before providing any personal information to a third party.
+  5. **Contact**   
+We, our partners and the third parties to which you choose to submit any personal information may contact you by letter, fax, e-mail or telephone to provide services and facilities to you.
+  6. **Transfer**   
+We may transfer your data to any purchaser of our business in order that they can continue to provide services and facilities to you. Some of our group companies and third party partners may be located overseas in countries that do not have as extensive data protection laws as the United Kingdom.
+  7. **Children**   
+We do not allow persons who we know to be younger than 18 to register on our website and do not therefore knowingly solicit personal information from persons aged younger than 18 or share such information with third parties.
+  8. **General**   
+Your personal information will be held and used by us in accordance with United Kingdom data protection legislation. We may change this Privacy Policy from time to time. Any change will take effect once the revised Privacy Policy is available. If you have any queries about this Privacy Policy, please feel free to [contact us](https://web.archive.org/web/20100602032249id_/http%3A//www.4siteinsurance.co.uk/contact.php).
 
-The mission of our website is to furnish visitors, suppliers and clients with the most current product and company information and present it in a manner that best benefits their needs. Our website may be accessed by all Internet users on a 24 hours a day, 7 days a week.
 
-## Interruptions and Omissions in Service
-
-Whilst we try to ensure that the standard of this Website remains high and to maintain the continuity of it, the internet is not an inherently stable medium, and errors, omissions, interruptions of service and delays may occur at any time. We do not accept any liability arising from any such errors, omissions, interruptions or delays or any ongoing obligation or responsibility to operate this Website (or any particular part of it) or to provide the service offered on this Website. We may vary the specification of this site from time to time without notice.
-
-## Information Submitted by You
-
-We will process any data which you provide in completing the online registration or application forms and any further forms containing company and personal details which you complete or provide to us when using this site in accordance with UK data protection legislation. 
-
-## How is this data safeguarded?
-
-The security of your data is extremely important to us. Access to your company and your personal data is only provided to our staff. We only pass information about you or your company to third parties where necessary to fulfill our obligations to you. 
-
-## Your Use of our Web Site
-
-You may only use this Site for lawful purposes when seeking information. You must not under any circumstances seek to undermine the security of the Site or any information submitted to or available through it. In particular, but without limitation, you must not seek to access, alter or delete any information to which you do not have authorised access, seek to overload the system via spamming or flooding, take any action or use any device, routine or software to crash, delay, damage or otherwise interfere with the operation of this Site or attempt to decipher, disassemble or modify any of the software, coding or information comprised in the Site. 
-
-## Information on our Web Site
-
-Whilst we make every effort to ensure that the information on this site is accurate and complete, some of the information is supplied to us by third parties and we are not able to check the accuracy or completeness of that information. We do not accept any liability arising from any inaccuracy or omission in any of the information on our web site or any liability in respect of information on our web site supplied by you, any other site user or any other person.
-
-## Choice of Law and Jurisdiction
-
-The use of this Website and any agreements entered into through this Website are to be governed by and construed in accordance with English law. The courts of England are to have exclusive jurisdiction to settle any dispute arising out of or in connection with the use of this Website or any agreement made through this Website. 
-
-## Terminology
-
-**Data** \- information which is being processed by equipment operating automatically in response to instructions given for that purpose, is recorded with the intention that it should be processed by means of such equipment, is recorded as part of a relevant filing system or with the intention that it should form part of a relevant filing system or forms part of an accessible record.
-
-**Data Protection Acts 1984 and 1998** \- these are the Acts of Parliament which set out principles relating to the use of data to ensure that the rights of the person who is the subject of the data are protected under the law. 
-
-**Personal data** \- data which relates to a living individual who can be identified from those data, or from those data and other information which is in the possession of, or is likely to come into the possession of, 4site.
-
-**Privacy policy** \- this is a statement by us which explains the ways that we try to protect our users’ privacy. 
-
-**Third Parties** \- these are the companies and people other than us and associated companies. 
-
-**Users** \- people who use our Website and register their details with us for the purposes of commenting about our site, gain more information and general business use.
-
-4site is a trading name of Vantage Insurance Services Limited ("VISL"). VISL is a subsidiary of Kerry London. 
-
-Registered Office: 7 Birchin Lane, London EC3V 9BW. Registered No. 3441136. 
