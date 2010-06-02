@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the grazeit.com privacy policy that was archived on 2009-05-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090530070012id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the grazeit.com privacy policy that was archived on 2010-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602035445id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
 			<title>GRAZEit privacy policy</title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<meta name="description" content="With GRAZEit you can get the next step wherever you are on the web. Users share other places you might be interested in when you visit any page on the web.">
-		<meta name="keywords" content="GRAZEit, graze, grazes, spread a graze, content, promote, promotion, promotion, advertise, ad, blog, website, webmaster, service, tool, plugin, extenstion, firefox, IE, internet explorer">
+		<meta name="keywords" content="For SiteAdvisor Verification, GRAZEit, graze, grazes, spread a graze, content, promote, promotion, promotion, advertise, ad, blog, website, webmaster, service, tool, plugin, extenstion, firefox, IE, internet explorer">
 		<meta http-equiv="X-UA-Compatible" content="IE=7">
 		<link href="/css/common.css" type="text/css" rel="stylesheet" media="screen">
 		<link href="/css/lightbox.css" type="text/css" rel="stylesheet" media="screen">
 		<script type="text/javascript" src="/js/mootools-1.2-core-yc.js"></script>
-		<script type="text/javascript" src="/js/common.js"></script>
+		<script type="text/javascript" src="/js/common.js?v=1.0.0.0"></script>
 		<script type="text/javascript" src="/js/lightbox.js"></script>
 		<!--[if lt IE 7]>
 		<script defer type="text/javascript" src="/js/ie6fixes.js"></script>
@@ -45,7 +45,7 @@
 								<form id="Search" action="/search/" method="get">
 									<div class="txt txt_color"><input type="text" id="q" name="q" value="search..." onfocus="hideSearchText(this, 'search...');" onblur="hideSearchText(this, 'search...');"></div>
 									<input type="submit" class="btn" value="">
-									<p class="advanced"><span class="link" onclick="openAdvancedSearch(this);">Advanced search options</span></p>
+									<p class="advanced"><span class="link" id="AdvancedTxt" onclick="openAdvancedSearch();">Advanced search options</span></p>
 								</form>
 							</div>
 						</div>
@@ -62,8 +62,8 @@
 						
 						</div>
 					</div>
-					
 					<div id="AdvancedSearch">&nbsp;</div>
+
 				</div>
 				<div class="clear">&nbsp;</div>
 			</div>
@@ -124,17 +124,17 @@
 				</div>
 			</div>
 
-			<div id="Footer">
+			<div id="Footer" style="display: block;">
 				<div>
 					<img src="/images/Footer_BG_Right.gif" alt="" class="right">
-					<span>Copyrights <b>grazeit</b> 2009 <a href="/disclaimer/terms/">Terms of service</a> <a href="/disclaimer/privacy/">Privacy Policy</a></span>
+					<span>Copyrights <b>grazeit</b> 2010 <a href="/disclaimer/terms/">Terms of service</a> <a href="/disclaimer/privacy/">Privacy Policy</a></span>
 					<img src="/images/Footer_BG_Left.gif" alt="" class="left">
 
-					<a href="/about/">About GRAZEit</a> | <a href="http://blog.grazeit.com/">Blog</a> | <a href="/about/traffic/">Draw Traffic</a> | <a href="/about/spread/">Tips for clicks</a> | <a href="/faq/">FAQs</a> | <a href="/about/contact/">Contact</a>
+					<a href="/about/">About GRAZEit</a> | <a href="http://blog.grazeit.com/">Blog</a> | <a href="/about/traffic/">Draw Traffic</a> | <a href="/about/spread/">Tips for clicks</a> | <a href="/categories/">Categories</a> | <a href="/faq/">FAQs</a> | <a href="/about/contact/">Contact</a>
 				</div>
 			</div>
 		</div>
-		<div id="QuickUrlAccess">
+		<div id="QuickUrlAccess" style="top: -56px;">
 			<div class="quacontent">
 				<a class="popular" href="/pages/">Hottest pages today</a>
 				<div class="desc">If you have the <a href="/download/">add-on</a> installed - just go to the page and watch the GRAZEit snippet.</div>
@@ -153,6 +153,18 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-5776545-1");
 pageTracker._setDomainName("www.grazeit.com");
 pageTracker._trackPageview();
+
+try
+{
+	if(aGrazeImpressions)
+	{
+		for(var iGraze=0; iGraze<aGrazeImpressions.length; iGraze++)
+		{
+			pageTracker._trackEvent('Impressions', 'imp_gid_'+aGrazeImpressions[iGraze][0], 'imp_spid_'+aGrazeImpressions[iGraze][1], 0);
+		}
+	}
+}
+catch(e) {}
 </script>
 
 </body></html>
