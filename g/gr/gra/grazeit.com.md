@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grazeit.com privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530070012id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grazeit.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035445id_/http%3A//www.grazeit.com/disclaimer/privacy) for the most accurate reproduction.*
 
 # GRAZEit privacy policy
 
