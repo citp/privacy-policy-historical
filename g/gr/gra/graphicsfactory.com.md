@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218022332id_/https%3A//members.graphicsfactory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the graphicsfactory.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602164142id_/https%3A//www.graphicsfactory.com/privacy.html) for the most accurate reproduction.*
 
 # Graphics Factory.com - Privacy Policy
 
@@ -7,7 +7,7 @@ Effective Date: August 23, 2006|
 ---|---|---  
   
   
-GraphicsFactory.com has been reviewed by the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.graphicsfactory.com/ and http://members.graphicsfactory.com/. 
+GraphicsFactory.com has been reviewed by the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site http://www.graphicsfactory.com/ and http://www.graphicsfactory.com/. 
 
 Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
