@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the tigerairways.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203193423id_/http%3A//www.tigerairways.com/sg/en/privacy.php%3Fr%3DSGEN) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tigerairways.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602064816id_/http%3A//www.tigerairways.com/sg/en/privacy.php%3Fr%3DSGEN) for the most accurate reproduction.*
 
 # Tiger Airways
 
 [Home](http://www.tigerairways.com/sg/en/index.php) » Privacy Policy
-
-﻿
 
 This Privacy Policy statement outlines Tiger Airways' policy and responsibility in relation to the collection, processing and disclosure of your Customer Data. PART A refers to our general policy and PART B addresses Customer Data issues specific to usage on our 'websites'. 
 
@@ -31,7 +29,7 @@ Back to top
 
 ## 2\. Purpose For Collection, Processing And Disclosure
 
-Collection It is our policy to not ask you for Customer Data that we do not need or will not use. Some of the purposes that we commonly use for collection are: 
+It is our policy to not ask you for Customer Data that we do not need or will not use. Some of the purposes that we commonly use for collection are: 
 
   * Providing services such as processing a transaction e.g. making a booking.
 
