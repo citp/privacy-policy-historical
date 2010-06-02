@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517045815id_/http%3A//www.physioadvisor.com.au/7651050/physioadvisor-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the physioadvisor.com.au privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602233541id_/http%3A//www.physioadvisor.com.au/7651050/physioadvisor-privacy-policy.htm) for the most accurate reproduction.*
 
 # PhysioAdvisor - Privacy Policy
 
 |  | 
 
-We at PhysioAdvisor.com, take the privacy of our visitors very seriously. Any personal information supplied to us will not be sold, passed on or disclosed to any third parties.
+We at PhysioAdvisor.com, take the privacy of our visitors very seriously. Any personal information supplied to us will not be sold, passed on or disclosed to any third parties apart from our product suppliers (this is necessary for fulfillment of orders and will only occur when a product is purchased).
 
 We will not collect any personally-identifiable information about you (e.g. your name, address, telephone number or email address) through our Website unless you have provided it to us voluntarily. If you do not want your personal data collected, please do not submit it to us.
 
@@ -23,9 +23,6 @@ Our website may contain links to other internet websites. Please be aware that w
 We use third-party advertising companies (including Google) to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 We may occasionally update this Privacy Policy. This may occur at any time, without notice. 
-
-
-
 
 |   
 ---|---|---
