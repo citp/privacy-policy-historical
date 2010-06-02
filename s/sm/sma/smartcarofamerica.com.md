@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2009-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090522191436id_/http%3A//www.smartcarofamerica.com/privacy_policy_for_smartcar_of_america.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartcarofamerica.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602141147id_/http%3A//www.smartcarofamerica.com/privacy_policy_for_smartcar_of_america.com) for the most accurate reproduction.*
 
 # Privacy Policy for SmartCar Of America.com
 
@@ -30,7 +30,7 @@ Data Security.
 To prevent unauthorized access, maintain data accuracy and ensure only appropriate use of information, appropriate physical, electronic and managerial safeguards have been established to secure the information collected online.
 
 Correction of Information.  
-To request access to customer-specific information or to correct any inaccuracies, email [customersevice@smartcarofamerica.com](mailto:customersevice@smartcarofamerica.com) .
+To request access to customer-specific information or to correct any inaccuracies, email [customersevice@smartcarofamerica.com](mailto:customersevice@smartcarofamerica.com).
 
 Updates.  
 To improve the service SmartCar Of America and its affiliated companies offer, the information obtained about Web users may be revised in the future. This privacy statement will be updated to reflect any future developments in Internet business practices. Effective 5/02
