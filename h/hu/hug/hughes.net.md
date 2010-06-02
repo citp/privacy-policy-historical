@@ -1,21 +1,39 @@
-> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2006-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060312130848id_/http%3A//www.hns.com/HNS/Rooms/DisplayPages/LayoutInitial%3FContainer%3Dcom.webridge.entity.Entity%255BOID%255B8654F0B4FFEF0349BC9F30DC94835DB0%255D%255D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hughes.net privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602133919id_/http%3A//web.hughesnet.com/sites/legal/Pages/PublicWebsitePrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Public Website Privacy Policy
 
-**Privacy Policy >>**
+**HNS Website Privacy Policy**
 
-HUGHES/DIRECWAY is strongly committed to protecting the privacy of consumers of its products and services.
+Last updated on October 1, 2008
 
-**Disclosure**  
-We do not use or disclose information about your individual visits to HUGHES/DIRECWAY or information that you may give us, such as your name, address, email address or telephone number, to any outside companies. But as we mention above, we may share with our Website partners aggregated statistical "ratings" information about the use of HUGHES/DIRECWAY.
+This notice (the “Website Privacy Policy”) describes the privacy policy of Hughes Network Systems, LLC (HNS) as it relates to HNS’ Websites at www.hns.com, www.hughesnet.com, www.gethughesnet.com, and any related site maintained and operated by Hughes (collectively, the “Website”). This Privacy Policy does not apply to the HUGHES/HughesNet® service. The privacy practices applicable to that service can be found on our _[Subscriber Policies](https://web.archive.org/sites/legal/Pages/SubscriberPolicies.aspx)_ page.
 
-The HUGHES/DIRECWAY services have a separate privacy policy for its subscribers. If you are a HUGHES/DIRECWAY services subscriber you can find that policy within our Terms of Service. The purpose of this HUGHES/DIRECWAY privacy policy is to inform you, as a welcome visitor to [_www.hns.com_](http://www.hns.com/) or [_www.DIRECWAY.com_](http://www.direcway.com/) what kinds of information we may gather about you when you visit the HUGHES/DIRECWAY Website, how we may use that information, whether we disclose it to anyone, and the choices you have regarding our use of, and your ability to correct, the information. Finally, please note that this policy applies only to HUGHES/DIRECWAY brand, and not to other companies or organizations' Websites to which we link. We have clearly marked HUGHES/DIRECWAY and these branded Websites with our logo so you know where this policy applies.
+HNS reserves the right, in its sole discretion, to modify or change this Privacy Policy at any time with or without prior notice to you. You should visit this page periodically to review the current Privacy Policy; the date of the last update will be posted at the top of this Privacy Policy for your convenience. Your continued use of the Website following the posting of any changes to the Privacy Policy constitutes your acceptance of those changes. If at any time you do not agree with this Privacy Policy, you must immediately stop using the Website. 
 
-**Information About All HUGHES/DIRECWAY Visitors**  
-In general, our service automatically gathers certain usage information like the numbers and frequency of visitors to HUGHES/DIRECWAY and its areas, very much like television ratings that tell the networks how many people tuned in to a program. We only use such data in the aggregate. This collective data helps us determine how much our customers use parts of the site, so we can improve our site to assure that it is as appealing as we can make it for as many of you as possible. For example, HUGHES/DIRECWAY uses a technology nicknamed "cookies" that tells us how and when pages in our site are visited, and by how many people. HUGHES/DIRECWAY cookies do not collect personally identifiable information and we do not combine information collected through cookies with other personally identifiable information to tell us who you are or even what your screen name or e-mail address is. We also may provide statistical "ratings" information, never information about you personally, to our HUGHES/DIRECWAY partners about how our subscribers, collectively, use HUGHES/DIRECWAY. We do this so they too can understand how much people use their areas and our site in order for them to provide you with the best possible Web experience as well.
+**What information we collect:** HNS may ask for and collect from you personally identifiable information at certain points throughout the site. Depending on the information and/or services you request, you may be asked to provide your name, email address, address, phone number, and similar information. If you order a product or service, you may be asked for financial information such as a credit card number. Once you provide your personal information, you are not anonymous to HNS. 
 
-**Information About You**  
-Sometimes, we may specifically ask for information about you when you sign up to use the service. We will need certain information - such as name, Internet address or username, billing address, type of computer, credit card number—in order to provide that service or product to you. We may also use that information to let you know of additional products and services about which you might be interested. You can choose not to receive such information if you don't want to by letting us know on the registration screen when you sign up for the product or service. We may ask you for information about your interests so that both you and we can take advantage of the interactivity of the online medium, but you may always choose to respond or not.
+**How HNS uses your information: HNS may use your information:**
 
-**HUGHES/DIRECWAY Privacy Policy Changes**  
-If we decide to change our privacy policy for HUGHES/DIRECWAY, we will post those changes here so that you will always know what information we gather, how we might use that information, and whether we will disclose it to anyone.
+  * To process and respond to inquiries and for the purposes for which you provided the information, such as to receive further information about a product or service 
+  * To improve the content and navigability of the Website 
+  * To alert you to new site features, special events, offers, and services 
+  * To enforce our Terms of Use 
+  * In the future, we may sell some or all of our assets or reorganize our corporate structure. In such transactions, customer information generally is one of the transferred business assets. In the event of a sale or reorganization of our assets including our database, customer information may be transferred. We will require recipients of customer information to honor our privacy policy. Who HNS shares the information with: HNS will disclose your personally identifiable information to another company only to (i) complete your request (e.g., providing information about a service), or (ii) outsource one or more of the functions described in the previous section. We may share your information with the proper authorities in response to a subpoena, legal order, or official request, or when we believe you have acted in violation of our Terms of Use. 
+
+
+
+**Where and when HNS collects information on the Website:** In addition to the information you knowingly provide, HNS keeps track of the domains and IP addresses from which people visit us. We also collect site usage statistics such as Web browser types and page requests. This data is not personally identifiable and is used to more efficiently operate HNS’ business, prepare for network load demands, promote our services, and administer the Website. We may share with our affiliates aggregated statistical information about the use of the Website.
+
+**How we collect information:** In addition to the information gathered as described above, there is a technology called "cookies" which can be used to provide you with tailored information from a Website. A cookie is an element of data that a Website can send to your browser, which may then store it on your system. HNS sometimes makes use of cookies on the Website so that HNS can better serve you when you return to the Website. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. However, please note that disabling cookies may prevent you from taking advantage of certain features on the Website. 
+
+**How we protect information:** HNS attempts to protect against the loss, misuse, and alteration of your personal information. Our servers are protected by reasonable physical and electronic security.
+
+**Children:** This Website is not directed toward children under 13 years of age nor does HNS knowingly collect information from children under 13. If you are under 13, please do not submit any personally identifiable information to HNS.
+
+**Notice Regarding HNS’ Position on Child Pornography:** Hughes takes its commitment to protect children from exploitation over the internet extremely seriously. Consequently, Hughes is working hand-in-hand with the National Center for Missing and Exploited Children (NCMEC) and other law enforcement agencies on this important project. One of the efforts that Hughes has undertaken in this regard is to establish a specially designated email address, cp-abuse@hughes.net, for complaints about child pornography. Hughes further commits that all complaints received shall be investigated promptly, generally within three (3) business days or less. No Hughes facilities or services may be used by in any fashion for the transmission or dissemination of images containing child pornography.
+
+**Choice:** You may change your preferences relating to the receipt of HNS information by emailing us at [guest.services@hns.com](mailto:guest.services@hns.com). We will use reasonable efforts to process any change you make.
+
+**Links:** The Website contains links to third-party Websites. HNS is not responsible for the privacy practices or the content of such Websites.
+
+**Contacts:** If you have any questions, concerns, or suggestions regarding this privacy policy, please email us at [guest.services@hns.com](mailto:guest.services@hns.com). 
