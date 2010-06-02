@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201162602id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gptcommunity.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035833id_/http%3A//www.gptcommunity.com/%3F_w%3Dprivacy) for the most accurate reproduction.*
 
-# GPT Community - Manual Traffic Exchange
+# GPT Community
 
 **THIS PRIVACY STATEMENT DISCLOSES THE PRIVACY PRACTICES FOR GPT Community**
 
