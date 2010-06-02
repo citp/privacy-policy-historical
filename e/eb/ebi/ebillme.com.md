@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebillme.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126021439id_/http%3A//www.ebillme.com/legal/privacy-policy-for-shoppers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebillme.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602033936id_/http%3A//www.ebillme.com/legal/privacy-policy-for-shoppers) for the most accurate reproduction.*
 
 # eBillme Privacy Policy: For Shoppers
 
@@ -64,14 +64,14 @@ Some of our business partners use cookies on our site. We have no access to or c
     * **Electronic Bill (eBill):**  
 You will receive an eBill when you select eBillme as your method of payment at participating online retailers. You may only opt-out of receiving an eBill by not submitting orders through our merchant partners. The eBill will provide you with instructions to pay for your online order using eBillme as your payment method. 
     * **Newsletters:**  
-If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe. Please see â€œChoice/Opt-outâ€.
+If you wish to subscribe to our newsletter, we will use your name and email address to send the newsletter to you. Out of respect for your privacy, we provide you a way to unsubscribe.
     * **Special Offers and Updates:**  
-We will occasionally send you information on products, services, special deals, promotions. You can sign-up on our registration page at [www.eBillme.com](http://www.ebillme.com/). Out of respect for your privacy, we provide you with a way to unsubscribe. Please see â€œChoice/Opt-outâ€. 
+We will occasionally send you information on products, services, special deals, promotions. You can sign-up on our registration page at [www.eBillme.com](http://www.ebillme.com/). Out of respect for your privacy, we provide you with a way to unsubscribe. 
     * **Service-related Announcements:**  
 We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. Generally, if you do not wish to receive them, you have the option to deactivate your account by sending an email to [[Support@eBillme.com](mailto:Support@eBillme.com) ](mailto:Support@eBillme.com). 
     * Based on the personally identifiable information you provide us, we will send you a welcoming email to verify your user name and password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you be email or telephone, in accordance with your wishes. 
     * **Choice/Opt-out:**  
-We provide you with the opportunity to â€˜opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service, but do not wish to receive any additional marketing material from us, you can indicate your preference through your eBill.   
+We provide you with the opportunity to opt-out of having your personally identifiable information used for certain purposes, when we ask for this information. For example, if you purchase a product/service, but do not wish to receive any additional marketing material from us, you can indicate your preference through your eBill.   
 If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them following the instructions included in each newsletter or communication, or by emailing us at [[Support@eBillme.com](mailto:Support@eBillme.com) ](mailto:Support@eBillme.com). 
 
 
@@ -84,7 +84,7 @@ If your personally identifiable information changes, or if you no longer desire 
 
 eBillme is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the website [www.eBillme.com](http://www.ebillme.com/). Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact [Support@eBillme.com](mailto:Support@eBillme.com) . If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison to resolve your concerns.
+If you have questions or concerns regarding this statement, you should first contact [Support@eBillme.com](mailto:Support@eBillme.com) . If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison to resolve your concerns.
 
 **What if I have more questions?**  
 
