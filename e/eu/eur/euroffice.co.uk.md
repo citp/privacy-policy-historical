@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217153525id_/http%3A//www.euroffice.co.uk/HelpTopic.aspx%3Ftopic%3D39%26section%3D0) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroffice.co.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602024137id_/http%3A//www.euroffice.co.uk/helptopic.aspx%3Ftopic%3D39%26section%3D0) for the most accurate reproduction.*
 
-# Euroffice Explained Our privacy policy - Euroffice.co.uk
+# Euroffice Explained Our privacy policy - from Euroffice.co.uk
 
 We take your privacy concerns seriously. We abide by the UK and EU Rules on Data Protection. If you have any further queries regarding privacy, please contact our customer service team via the Contact Us link on our website.
 
