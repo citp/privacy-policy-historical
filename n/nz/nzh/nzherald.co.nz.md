@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014134351id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzherald.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602073608id_/http%3A//www.nzherald.co.nz/news/article.cfm%3Fc_id%3D500827%26objectid%3D10425860) for the most accurate reproduction.*
 
-# Privacy Policy - 28 Mar 2008 - Site information & help - New Zealand Herald
+# Privacy Policy - Site Information & Help - NZ Herald News
 
   
 For information about the New Zealand Privacy Act and how it protects all personal information in New Zealand, [click here.](http://www.privacy.org.nz/home.php)
@@ -100,4 +100,4 @@ Back to top
 Any personal information that you provide to us will be collected and held by us at 46 Albert Street, Auckland, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary. If you have any questions about how our services work or regarding this policy, contact us by [email](http://info.nzherald.co.nz/feedback/email.cfm?user=webmaster) or by mail to NZ Herald, 46 Albert Street, PO Box 32, Auckland, New Zealand.   
 Back to top
 
-For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [ click here.](http://www.privacy.org.nz/home.php)
+For information about New Zealand's Privacy Act 1993 and how it protects the personal information of individuals in New Zealand, [click here.](http://www.privacy.org.nz/home.php)
