@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mazda3revolution.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126084405id_/http%3A//mazda3revolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mazda3revolution.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602044036id_/http%3A//mazda3revolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mazda3Revolution.com
 
@@ -11,5 +11,3 @@ We have ongoing marketing relationships and affiliations with advertisers that w
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.doubleclick.com/privacy/faq.aspx).
 
 Though we do thorough analysis of all advertising partners before accepting them into our community we still encourage you to read their privacy policies so that you understand how each partner will use personal information that you submit to them. Privacy policies are most often found in the footer (bottom) of each page on a website.
-
-#### Related Articles
