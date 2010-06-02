@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130170325id_/http%3A//www.mspca.org/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mspca.org privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602203559id_/http%3A//www.mspca.org/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 We respect your privacy and recognize that you may wish to limit our communications with you. We may send you emails or mailings in the future to inform you of giving opportunities or update you on MSPCA news. If you choose not to receive any further communications from us, you may opt out by emailing [webeditor@mspca.org](mailto:webeditor@mspca.org%20with) with your full name, mailing address and a sentence requesting removal from the MSPCA mailing list.
 
-When you make a donation to the MSPCA via phone or mail, it is possible that your name may be on some mailing lists shared with other reputable organizations (however, the contact information of those who donate strictly via our Website is never exchanged or shared). As a donor, you may request to have your name removed from these mailing lists.  To remove your name from mailing lists shared with other organizations, please email [webeditor@mspca.org](mailto:webeditor@mspca.org%20with) with your full name, mailing address and a sentence requesting removal from the MSPCA shared list. 
-
-The MSPCA does not share the email addresses of any donors with other organizations regardless of whether the email address was provided via phone, mail or the Web.
+When you make a donation to the MSPCA via phone or mail, it is possible that your name may be on some mailing lists shared with other reputable organizations. As a donor, you may request to have your name removed from these mailing lists.  To remove your name from mailing lists shared with other organizations, please email [webeditor@mspca.org](mailto:webeditor@mspca.org%20with) with your full name, mailing address and a sentence requesting removal from the MSPCA shared list. 
 
 **What Information We Collect and How We Use That Information:**   
 Our registration forms require users to give us contact information that may include name, email address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
