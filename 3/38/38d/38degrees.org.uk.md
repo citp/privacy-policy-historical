@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201012436id_/http%3A//www.38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602085804id_/http%3A//38degrees.org.uk/pages/privacy-statement) for the most accurate reproduction.*
 
-# 38 Degrees Privacy statement
+# 38 Degrees | Privacy statement
 
 ### Privacy statement
 
@@ -42,6 +42,8 @@ Where you submit personal information for publication on our website, we will pu
 We will not sell, rent or share your personal data with third party organisations.
 
 All our website financial transactions are handled through our payment services provider, Paypal. You should only provide your personal information to Paypal after reviewing the Paypal privacy policy (available at www.paypal.com).  We will share information with Paypal only to the extent necessary for the purposes of processing payments you make via our website. We do not store your financial or credit card details.
+
+We have a refund policy in case you make a donation in error. If you [contact us](https://web.archive.org/contact-us "Contact Us") within 7 days of making the donation we will return it to you within 40 days without charge.
 
 **4\. Other disclosures**  
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this privacy policy, we will disclose information about you only when required to do so by law.
