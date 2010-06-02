@@ -1,84 +1,158 @@
-<!--The following is the downloaded HTML source of the fairloanrate.com privacy policy that was archived on 2009-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091129132834id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fairloanrate.com privacy policy that was archived on 2010-06-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100602102745id_/http%3A//www.fairloanrate.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head profile="http://gmpg.org/xfn/11">
-
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US" xml:lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy Policy | Fair Loan Rate!</title>
 
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/Comfy/style.css" type="text/css" media="screen">
+<link rel="alternate" type="application/rss+xml" title="Fair Loan Rate! RSS Feed" href="http://www.fairloanrate.com/feed/">
+<link rel="pingback" href="http://www.fairloanrate.com/xmlrpc.php">
+<link rel="shortcut icon" href="http://www.fairloanrate.com/wp-content/themes/Comfy/favicon.ico">
+
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-content/themes/Comfy/scripts/jquery-1.3.1.min.js"></script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-content/themes/Comfy/scripts/common.js"></script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-content/themes/Comfy/scripts/mediaplayer/swfobject.js"></script>
+<script type="text/javascript">
+$(document).ready(function() {
+
+// Layout options feature
+$('a#options').click(function (){
+	if (($('.layout_options')).is(':hidden')) {
+	$('#wrapper').fadeTo('fast', 0.33);
+	$('.layout_options').fadeIn('normal');
+	} else {
+	$('#wrapper').fadeTo('fast', 1.0);
+	$('.layout_options').fadeOut('normal');
+	}
+});
+
+$('.cancel a').click(function() {
+	$('#wrapper').fadeTo('fast', 1.0);
+	$('.layout_options').fadeOut('normal');
+});
+
+$('a#reset').click(function() {
+$('.cat-widget').each( function() {$.cookie($(this).attr('id'), null, { path: '/', expires: 100 }); $(this).show()});
+$('.box_a').each( function() {$.cookie($(this).attr('id'), null, { path: '/', expires: 100 }); $(this).show()});
+$('.widgets li').each (function() {$.cookie($(this).attr('id'), null, { path: '/', expires: 100 }); $(this).show()});
+$('.layout_options').fadeOut('normal');
+$('#wrapper').fadeTo('fast', 1.0);
+});
+// done.
+
+// Drop Down Menu (multi level)
+$("#menu ul li").hover(function(){
+$(this).find('ul:first').css({visibility: "visible",display: "none"}).show(268); 
+},function(){
+$(this).find('ul:first').css({visibility: "hidden"});
+});
+// End of Menu
+
+/* various widget actions */
+$('.minimize').click(function() {
+	$(this).parent('h3').next('.container').toggle();
+});
+
+$('.Sminimize').click(function() {
+	$(this).parent('h2').next().toggle();
+});
+
+$('.Wminimize').click(function() {
+	$(this).parent('h2').next().toggle();
+});
+
+$('.close').click(function() {
+	$(this).parent('h3').parent('.cat-widget').fadeOut('slow');
+	$.cookie($(this).parent('h3').parent('.cat-widget').attr('id'), 'closed', { path: '/', expires: 100 });
+	return false;
+});
+
+$('.Sclose').click(function() {
+	$(this).parent('h2').parent().fadeOut('slow');
+	$.cookie($(this).parent('h2').parent('.box_a').attr('id'), 'closed', { path: '/', expires: 100 });
+	return false;
+});
+
+$('.Wclose').click(function() {
+	$(this).parent('h2').parent().fadeOut('slow');
+	$.cookie($(this).parent('h2').parent('li').attr('id'), 'closed', { path: '/', expires: 100 });
+	return false;
+});
+
+$('.cat-widget').each( function() {
+	var cat_ID = $(this).attr('id');
+	if ($.cookie(cat_ID) == 'closed') $(this).hide();
+});
+
+$('.box_a').each( function() {
+	var box_ID = $(this).attr('id');
+	if ($.cookie(box_ID) == 'closed') $(this).hide();
+});
+
+$('.widgets li').each (function() {
+	var sidebar_ID = $(this).attr('id');
+	if ($.cookie(sidebar_ID) == 'closed') $(this).hide();
+});
+
+/* control visible stories */
+$('ul.more_stories').each(function(index) {
+$(this).children('li').slice(3).hide();
+});
+
+$('.minus').click(function() {
+$(this).parent().next('ul').children('li:visible:last').hide();
+});
+
+$('.plus').click(function() {
+$(this).parent().next('ul').children('li:hidden:first').show();
+});
+
+/* clear form */
+clearInput('#feedemail');
+
+$('.videothumb').bind('mouseenter', function() {
+$(this).children('.playit').children('a').fadeTo('fast', 0.50);
+$(this).children('.playit').children('a').show();
+return false;
+});
+
+$('.videothumb').bind('mouseleave', function() {
+$(this).children('.playit').children('a').hide();
+return false;
+});
+
+});
+</script>
+
+
+<link rel="stylesheet" id="wp-postratings-css" href="http://www.fairloanrate.com/wp-content/plugins/wp-postratings/postratings-css.css?ver=1.50" type="text/css" media="all">
+<link rel="stylesheet" id="wp-pagenavi-css" href="http://www.fairloanrate.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70" type="text/css" media="">
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-includes/js/jquery/jquery.js?ver=1.3.2"></script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-includes/js/jquery/jquery.form.js?ver=2.02m"></script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-content/plugins/ajax-comments/ajax-comments.js.php?ver=2.9.2"></script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-includes/js/comment-reply.js?ver=20090102"></script>
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.fairloanrate.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.fairloanrate.com/wp-includes/wlwmanifest.xml"> 
 <link rel="index" title="Fair Loan Rate!" href="http://www.fairloanrate.com">
-<style type="text/css">
-	.addtoany_share_save_container{margin:16px 0;}
-	ul.addtoany_list{
-		display:inline;
-		list-style-type:none;
-		margin:0 !important;
-		padding:0 !important;
-		text-indent:0 !important;
-	}
-	ul.addtoany_list li{
-		background:none !important;
-		border:0;
-		display:inline !important;
-		line-height:32px;		list-style-type:none;
-		margin:0 !important;
-		padding:0 !important;
-	}
-	ul.addtoany_list li:before{content:"";}
-	ul.addtoany_list li a{padding:0 9px;}
-	ul.addtoany_list img{
-		float:none;
-		border:0;
-		margin:0;
-		padding:0;
-		vertical-align:middle;
-	}
-	ul.addtoany_list a img{
-		opacity:.6;
-		-moz-opacity:.6;
-		filter:alpha(opacity=60);
-	}
-	ul.addtoany_list a:hover img, ul.addtoany_list a.addtoany_share_save img{
-		opacity:1;
-		-moz-opacity:1;
-		filter:alpha(opacity=100);
-	}
-	a.addtoany_share_save img{border:0;width:auto;height:auto;}    </style>
+<meta name="generator" content="WordPress 2.9.2">
 
-<!-- All in One SEO Pack 1.6.8.1 by Michael Torbert of Semper Fi Web Design[219,240] -->
+<!-- All in One SEO Pack 1.6.10.2 by Michael Torbert of Semper Fi Web Design[269,310] -->
 <meta name="description" content="Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy">
+<meta name="keywords" content="uncategorized">
 <link rel="canonical" href="http://www.fairloanrate.com/privacy-policy/">
 <!-- /all in one seo pack -->
 <script type="text/javascript">
 	window.google_analytics_uacct = "UA-4359327-3";
 </script>
+	<script type="text/javascript" src="http://www.google.com/friendconnect/script/friendconnect.js"></script>
+	<link rel="shortlink" href="http://wp.me/Piroj-8G">
+<!-- Start Of Script Generated By WP-PostViews 1.50 -->
+<script type="text/javascript">
+/* <![CDATA[ */
+jQuery.ajax({type:'GET',url:'http://www.fairloanrate.com/wp-content/plugins/wp-postviews/wp-postviews.php',data:'postviews_id=538',cache:false});/* ]]> */
+</script>
+<!-- End Of Script Generated By WP-PostViews 1.50 -->
 
-<meta name="robots" content="all">
-
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/style.css" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/content.php?font=georgia&amp;size=14&amp;font2=georgia" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/nav.php?size=11" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/header.php?size=36" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/headlines.php?size=22" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/bylines.php?size=10" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/multimedia.php?size=14" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/sidebars.php?size=13" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/footer.php?size=12" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/widths.php?c=2&amp;w=600&amp;s=300&amp;o=normal&amp;h=page&amp;f=full-content" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/deprecated.css" type="text/css" media="screen, projection">
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/custom/custom.css?072309-140754" type="text/css" media="screen, projection">
-
-<!--[if lte IE 7]>
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/ie7.css" type="text/css" media="screen, projection" />
-<![endif]-->
-<!--[if lte IE 6]>
-<link rel="stylesheet" href="http://www.fairloanrate.com/wp-content/themes/thesis/lib/css/ie6.css" type="text/css" media="screen, projection" />
-<![endif]-->
-
-<link rel="alternate" type="application/rss+xml" title="Fair Loan Rate! RSS Feed" href="http://www.fairloanrate.com/feed/">
-<link rel="pingback" href="http://www.fairloanrate.com/xmlrpc.php">
 <!-- Google Analytics for WordPress | http://yoast.com/wordpress/google-analytics/ -->
 <script type="text/javascript">
 	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
@@ -99,46 +173,130 @@
 <!-- End of Google Analytics code -->
 
 </head>
+<body>
 
-<body class="custom privacy-policy">
 
-<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js"></script><div id="container">
-<div id="page">
-<ul id="tabs">
-<li><a href="http://www.fairloanrate.com" title="Home" rel="nofollow">Home</a></li>
-<li class="page_item page-item-2"><a href="http://www.fairloanrate.com/about/">About</a></li>
-	<li class="cat-item cat-item-37"><a href="http://www.fairloanrate.com/in_loan_rate/credit-cards/" title="View all posts filed under Credit Cards">Credit Cards</a>
+<div class="layout_options">
+<div class="cancel"><a href="#"></a></div><div class="clear"></div>
+<p>This option will reset the home page of this site. Restoring any closed widgets or categories.</p>
+<a href="#resetLayout" id="reset">Reset</a>
+</div>
+
+<div id="wrapper">
+
+<div id="header">
+
+	<div id="date">Wednesday 2nd June</div>
+
+	<div id="topnav">
+	<ul>
+	<li class="left"></li>
+	<li><a href="http://www.fairloanrate.com">Home</a></li>
+	<li class="page_item page-item-2"><a href="http://www.fairloanrate.com/about/" title="About">About</a></li>
+<li class="page_item page-item-245"><a href="http://www.fairloanrate.com/archives/" title="Archives">Archives</a></li>
+<li class="page_item page-item-538 current_page_item"><a href="http://www.fairloanrate.com/privacy-policy/" title="Privacy Policy">Privacy Policy</a></li>
+<li class="page_item page-item-6239"><a href="http://www.fairloanrate.com/best-related-posts/" title="Best Related Posts">Best Related Posts</a></li>
+	<li class="feed"><a href="http://www.fairloanrate.com/feed/">RSS feed</a></li>
+	<li class="right"></li>
+	</ul>
+	</div><div class="clear"></div>
+	
+		<a href="http://www.fairloanrate.com" title="Fair Loan Rate!" id="logo"><img src="http://www.fairloanrate.com/wp-content/themes/Comfy/styles/default/img/logo.png" alt=""></a>
+		
+		<a href="#showOptions" title="Layout Options" id="options"></a>
+		
+		<div id="ad468"><form action="http://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-4468935972528490:qneexc-hgbx">
+    <input type="hidden" name="ie" value="ISO-8859-1">
+    <input type="text" name="q" size="50">
+    <input type="submit" name="sa" value="Search">
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box〈=en"></script></div>
+		
+</div>
+
+<div id="menu">
+
+	<ul>
+	<li><a href="http://www.fairloanrate.com/" title="Home">Home</a></li>
+		<li class="cat-item cat-item-3"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/" title="View all posts filed under Personal Finance">Personal Finance</a>
+<ul class="children">
+	<li class="cat-item cat-item-66"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-score/" title="View all posts filed under Credit Score">Credit Score</a>
 </li>
-	<li class="cat-item cat-item-58"><a href="http://www.fairloanrate.com/in_loan_rate/debt-consolidation/" title="View all posts filed under Debt Consolidation">Debt Consolidation</a>
+	<li class="cat-item cat-item-79"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-report/" title="View all posts filed under Credit Report">Credit Report</a>
+</li>
+	<li class="cat-item cat-item-177"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/bankruptcy/" title="View all posts filed under Bankruptcy">Bankruptcy</a>
+</li>
+	<li class="cat-item cat-item-310"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/free-credit-report/" title="View all posts filed under Free Credit Report">Free Credit Report</a>
+</li>
+	<li class="cat-item cat-item-474"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-repair/" title="View all posts filed under Credit Repair">Credit Repair</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-60"><a href="http://www.fairloanrate.com/in_loan_rate/debt/" title="View all posts filed under Debt">Debt</a>
+<ul class="children">
+	<li class="cat-item cat-item-58"><a href="http://www.fairloanrate.com/in_loan_rate/debt/debt-consolidation/" title="View all posts filed under Debt Consolidation">Debt Consolidation</a>
+</li>
+	<li class="cat-item cat-item-6080"><a href="http://www.fairloanrate.com/in_loan_rate/debt/consolidation-companies/" title="View all posts filed under Consolidation companies">Consolidation companies</a>
+</li>
+</ul>
+</li>
+	<li class="cat-item cat-item-76"><a href="http://www.fairloanrate.com/in_loan_rate/loans/" title="View all posts filed under Loans">Loans</a>
+<ul class="children">
+	<li class="cat-item cat-item-25"><a href="http://www.fairloanrate.com/in_loan_rate/loans/mortgage/" title="View all posts filed under Mortgage">Mortgage</a>
+</li>
+	<li class="cat-item cat-item-689"><a href="http://www.fairloanrate.com/in_loan_rate/loans/student-loans/" title="View all posts filed under Student Loans">Student Loans</a>
+</li>
+	<li class="cat-item cat-item-702"><a href="http://www.fairloanrate.com/in_loan_rate/loans/college-loans/" title="View all posts filed under College Loans">College Loans</a>
+</li>
+</ul>
 </li>
 	<li class="cat-item cat-item-91"><a href="http://www.fairloanrate.com/in_loan_rate/interest-rates/" title="View all posts filed under Interest Rates">Interest Rates</a>
 </li>
-	<li class="cat-item cat-item-689"><a href="http://www.fairloanrate.com/in_loan_rate/student-loans/" title="View all posts filed under Student Loans">Student Loans</a>
+	<li class="cat-item cat-item-115"><a href="http://www.fairloanrate.com/in_loan_rate/banks/" title="View all posts filed under Banks">Banks</a>
+<ul class="children">
+	<li class="cat-item cat-item-37"><a href="http://www.fairloanrate.com/in_loan_rate/banks/credit-cards/" title="View all posts filed under Credit Cards">Credit Cards</a>
 </li>
-		<li class="rss"><a href="http://www.fairloanrate.com/feed/" title="Fair Loan Rate! RSS Feed" rel="nofollow">Free Subscription</a></li>
+	<li class="cat-item cat-item-1122"><a href="http://www.fairloanrate.com/in_loan_rate/banks/bank-accounts/" title="View all posts filed under Bank Accounts">Bank Accounts</a>
+</li>
 </ul>
-<div><table width="100%" height="91" background="http://www.fairloanrate.com/images/fair-loan-rate-logo-long.jpg">
-<tbody><tr>
-<td>&nbsp;
-</td>
-<td><div align="right">	<p id="logo"><a href="http://www.fairloanrate.com">Fair Loan Rate!</a></p>
-		<p id="tagline">Student Loan, College Loan, Auto Loan, Credit Card, Mortgage, Personal Finanace</p></div>
+</li>
+	<li class="cat-item cat-item-116"><a href="http://www.fairloanrate.com/in_loan_rate/news/" title="View all posts filed under News">News</a>
+</li>
+	<li class="cat-item cat-item-303"><a href="http://www.fairloanrate.com/in_loan_rate/tips-advice/" title="View all posts filed under Tips &amp; Advice">Tips &amp; Advice</a>
+<ul class="children">
+	<li class="cat-item cat-item-7755"><a href="http://www.fairloanrate.com/in_loan_rate/tips-advice/national-consumar-organizations/" title="View all posts filed under National Consumer Organizations">National Consumer Organizations</a>
+</li>
+</ul>
+</li>
+	</ul>
 
-</td>
-</tr>
-</tbody></table></div><div id="feature_box">
+	<form class="searchform" method="get" action="http://www.fairloanrate.com/">
+		<fieldset>
+			<input type="text" value="" name="s" class="searchfield">
+			<input type="submit" value="" class="searchbutton">
+		</fieldset>
+	</form>
 
+	<div class="clear"></div>
 
 </div>
-	<div id="content_box" class="no_sidebars">
-		<div id="content">
+<div id="bigcolumn">
 
-			<div class="post_box top" id="post-538">
-				<div class="headline_area">
-					<h1>Privacy Policy</h1>
-				</div>
-				<div class="format_text">
-<!-- google_ad_section_start --><p>Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.</p>
+			
+	<div class="page-all">
+	<div class="page-top">
+	<div class="containerI">
+	
+	<div class="sitenav">
+	<a href="http://www.fairloanrate.com">Home</a>&nbsp;&nbsp;»&nbsp;&nbsp;Privacy Policy	</div>
+
+	<div id="post-538" class="post">
+	
+	<h1>Privacy Policy</h1>
+	<!-- google_ad_section_start --><p>Your privacy is of utmost importance to us here at this blog Rest assured that any information you provide will only be used in accordance with this privacy statement.</p>
 <p>This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used.</p>
 <h2>Collection and Use of Information</h2>
 <p>We collect personally identifiable information such as names and email addresses only when voluntarily submitted. These information are used merely to fulfill a specific request, for example, to post a comment on our blog, to create an account in our Forum, or to subscribe to our mailing list. All emails and newsletters from this site allow you to opt out of further communications.</p>
@@ -147,20 +305,175 @@
 <h2>Cookies and Tracking Technology</h2>
 <p>Our site may place a small file, called a cookie, on your hard drive to provide you with a better website. A cookie does not, in any way, give us access to your computer or to any personally identifiable information about you, other than the data you choose to share with us. It only helps us analyze web traffic or lets web applications respond to you as an individual.</p>
 <p>Our authorized third-party advertisers in the course of serving ads to you, may also place cookies on your browser or use tracking technology to collect information. You can choose not to accept cookies by modifying your browser settings. At any time, you may remove any cookie stored on your hard drive by deleting them in your browser’s settings section.</p>
-<p>Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html" onclick="javascript:pageTracker._trackPageview('/outbound/article/http://www.google.com/privacy_ads.html');" rel="nofollow">Google ad and content network privacy policy.</a></p>
+<p>Google, one of our third-party advertisers, may add a cookie to determine targeted advertisements based on your preferences and your visit to our site and other sites on the internet. You can choose to opt out of Google’s use of cookies by visiting the <a href="http://www.google.com/privacy_ads.html" onclick="javascript:pageTracker._trackPageview('/outbound/article/http://www.google.com/privacy_ads.html');">Google ad and content network privacy policy.</a></p>
 <h2>Links to other Websites</h2>
 <p>Our site may contain links to other websites of interest. However, once you use these links to leave our site, we do not anymore have control over that website. Such sites are not governed by this privacy statement and we cannot be responsible for the protection and privacy of any information you provide to those sites. Exercise caution and read the privacy statement applicable to the website in question.</p>
 <h2>Privacy Contact Information</h2>
 <p>Should you have any questions, concerns, or comments about our privacy policy, please contact us by email&nbsp; directly at<strong> webmaster @ fairloanrate.com.</strong></p>
-<!-- google_ad_section_end -->				</div>
-			</div>
-
-		</div>
-
+<!-- google_ad_section_end --><div class="clear"></div>
+		
 	</div>
-	<div id="footer">
-<div style="float:left">
-<script type="text/javascript"><!--
+	
+	</div>
+	</div>
+	</div>
+	<div class="page-bottom"></div>
+
+		
+<div class="clear"></div>
+</div>
+
+<div id="sidebar">
+
+
+
+
+<div class="box_a" id="widget_S">
+
+	<h2>Subscription<a href="#minimize" class="Sminimize"></a><a href="#close" class="Sclose"></a></h2>
+	<div>
+	
+	<p>You can subscribe by <strong>RSS feed</strong> or by <strong>e-mail</strong> to receive news updates and breaking stories.</p>
+	<p><a href="http://www.fairloanrate.com/feed/" id="feedlink">Subscribe to RSS feed</a></p>
+	<form id="feedform" method="post" action="http://feedburner.google.com/fb/a/mailverify?uri=FairLoanRate">
+	<fieldset>
+	<input type="text" id="feedemail" name="email" value="Enter your e-mail...">
+	<input type="hidden" value="FairLoanRate" name="uri">
+	<input type="hidden" name="loc" value="en_US">
+	<input type="submit" id="feedbutton" value="">
+	</fieldset>
+	</form>
+	
+	</div>
+
+<span class="foot"></span>
+</div>
+
+
+
+
+<ul class="widgets">
+
+	<li><h2>Recent Posts<a href="#minimize" class="Wminimize"></a><a href="#close" class="Wclose"></a></h2>
+	<ul>	<li><a href="http://www.fairloanrate.com/2010/06/02/what-is-good-debt/" title="What Is Good Debt?">What Is Good Debt?</a></li>
+	<li><a href="http://www.fairloanrate.com/2010/05/30/seven-steps-to-improve-your-fico-score/" title="Seven Steps To Improve Your Fico Score">Seven Steps To Improve Your Fico Score</a></li>
+	<li><a href="http://www.fairloanrate.com/2010/05/30/consequences-of-late-credit-card-payments/" title="Consequences of Late Credit Card Payments">Consequences of Late Credit Card Payments</a></li>
+	<li><a href="http://www.fairloanrate.com/2010/05/30/advantages-and-disadvantages-of-debt-consolidation/" title="Advantages and Disadvantages of Debt Consolidation">Advantages and Disadvantages of Debt Consolidation</a></li>
+	<li><a href="http://www.fairloanrate.com/2010/05/29/aarp/" title="AARP">AARP</a></li>
+</ul>
+	<span class="foot"></span></li>
+
+</ul>
+
+<div class="clear"></div>
+
+<ul class="widgetsl">
+<li id="categories-426152832" class="widget widget_categories"><h2>Categories</h2>		<ul>
+	<li class="cat-item cat-item-1122"><a href="http://www.fairloanrate.com/in_loan_rate/banks/bank-accounts/" title="View all posts filed under Bank Accounts">Bank Accounts</a> (24)
+</li>
+	<li class="cat-item cat-item-177"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/bankruptcy/" title="View all posts filed under Bankruptcy">Bankruptcy</a> (61)
+</li>
+	<li class="cat-item cat-item-115"><a href="http://www.fairloanrate.com/in_loan_rate/banks/" title="View all posts filed under Banks">Banks</a> (155)
+</li>
+	<li class="cat-item cat-item-702"><a href="http://www.fairloanrate.com/in_loan_rate/loans/college-loans/" title="View all posts filed under College Loans">College Loans</a> (60)
+</li>
+	<li class="cat-item cat-item-6080"><a href="http://www.fairloanrate.com/in_loan_rate/debt/consolidation-companies/" title="View all posts filed under Consolidation companies">Consolidation companies</a> (15)
+</li>
+	<li class="cat-item cat-item-37"><a href="http://www.fairloanrate.com/in_loan_rate/banks/credit-cards/" title="View all posts filed under Credit Cards">Credit Cards</a> (161)
+</li>
+	<li class="cat-item cat-item-474"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-repair/" title="View all posts filed under Credit Repair">Credit Repair</a> (78)
+</li>
+	<li class="cat-item cat-item-79"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-report/" title="View all posts filed under Credit Report">Credit Report</a> (10)
+</li>
+	<li class="cat-item cat-item-66"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/credit-score/" title="View all posts filed under Credit Score">Credit Score</a> (97)
+</li>
+	<li class="cat-item cat-item-60"><a href="http://www.fairloanrate.com/in_loan_rate/debt/" title="View all posts filed under Debt">Debt</a> (64)
+</li>
+	<li class="cat-item cat-item-58"><a href="http://www.fairloanrate.com/in_loan_rate/debt/debt-consolidation/" title="View all posts filed under Debt Consolidation">Debt Consolidation</a> (169)
+</li>
+	<li class="cat-item cat-item-310"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/free-credit-report/" title="View all posts filed under Free Credit Report">Free Credit Report</a> (26)
+</li>
+	<li class="cat-item cat-item-91"><a href="http://www.fairloanrate.com/in_loan_rate/interest-rates/" title="View all posts filed under Interest Rates">Interest Rates</a> (108)
+</li>
+	<li class="cat-item cat-item-76"><a href="http://www.fairloanrate.com/in_loan_rate/loans/" title="View all posts filed under Loans">Loans</a> (152)
+</li>
+	<li class="cat-item cat-item-25"><a href="http://www.fairloanrate.com/in_loan_rate/loans/mortgage/" title="View all posts filed under Mortgage">Mortgage</a> (112)
+</li>
+	<li class="cat-item cat-item-7755"><a href="http://www.fairloanrate.com/in_loan_rate/tips-advice/national-consumar-organizations/" title="View all posts filed under National Consumer Organizations">National Consumer Organizations</a> (1)
+</li>
+	<li class="cat-item cat-item-116"><a href="http://www.fairloanrate.com/in_loan_rate/news/" title="View all posts filed under News">News</a> (121)
+</li>
+	<li class="cat-item cat-item-3"><a href="http://www.fairloanrate.com/in_loan_rate/personal-finance/" title="View all posts filed under Personal Finance">Personal Finance</a> (231)
+</li>
+	<li class="cat-item cat-item-689"><a href="http://www.fairloanrate.com/in_loan_rate/loans/student-loans/" title="View all posts filed under Student Loans">Student Loans</a> (127)
+</li>
+	<li class="cat-item cat-item-303"><a href="http://www.fairloanrate.com/in_loan_rate/tips-advice/" title="View all posts filed under Tips &amp; Advice">Tips &amp; Advice</a> (190)
+</li>
+		</ul>
+<span class="foot_s"></span></li><li id="meta-2" class="widget widget_meta"><h2>Meta</h2>			<ul>
+			<li><a href="http://www.fairloanrate.com/wp-login.php?action=register">Register</a></li>			<li><a href="http://www.fairloanrate.com/wp-login.php">Log in</a></li>
+			<li><a href="http://www.fairloanrate.com/feed/" title="Syndicate this site using RSS 2.0">Entries <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://www.fairloanrate.com/comments/feed/" title="The latest comments to all posts in RSS">Comments <abbr title="Really Simple Syndication">RSS</abbr></a></li>
+			<li><a href="http://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
+						</ul>
+<span class="foot_s"></span></li></ul>
+
+<ul class="widgetsr">
+<li id="text-453397283" class="widget widget_text"><h2>Blog Roll</h2>			<div class="textwidget"><ul>
+  <li><a href="http://www.asianjobportal.com/">Careers &amp; Jobs</a> </li>
+
+  <li><a href="http://www.pipstory.com/">Forex Trading Guide</a> </li>
+
+  <li><a href="http://www.cheapinexpensive.com/">Cheap Insurance Quotes</a> </li>
+
+  <li><a href="http://www.loanmortgagecredit.com/">Loan, Mortgage, Credit Cards</a> </li>
+
+  <li><a href="http://www.dwiblog.org/">Driving While Intoxicated</a> </li>
+
+  <li><a href="http://www.fairloanrate.com/">Student Loan &amp; Debt Consolidation</a> </li>
+
+  <li><a href="http://www.sutlej.net/">Article Writing Service</a> </li>
+
+  <li><a href="http://www.traveltowork.net/">Travel Blog</a> </li>
+
+  <li><a href="http://www.ixibo.com/">Technology and Gadgets</a> </li>
+
+  <li><a href="http://www.dataentrypakistan.com/">Outsource to Pakistan</a> </li>
+
+  <li><a href="http://www.solarpowerwindenergy.org/">Renewable Energy</a> </li>
+
+<li><a href="http://www.zybatsu.com/">Macro Economics</a> </li>
+ 
+<li><a href="http://forexsmarketreview.blogspot.com/">Forex Market Review</a> </li>
+</ul></div>
+		<span class="foot_s"></span></li><li id="text-448074381" class="widget widget_text">			<div class="textwidget"><a rel="nofollow" href="http://feeds2.feedburner.com/FairLoanRate"><img src="http://feeds2.feedburner.com/~fc/FairLoanRate?bg=99CCFF&amp;fg=444444&amp;anim=1" height="26" width="88" style="border:0" alt=""></a>
+<a rel="nofollow" href="http://add.my.yahoo.com/rss?url=http://feeds2.feedburner.com/FairLoanRate" title="Fair Loan Rate!"><img src="http://us.i1.yimg.com/us.yimg.com/i/us/my/addtomyyahoo4.gif" alt="" style="border:0"></a>
+<a rel="nofollow" href="http://fusion.google.com/add?feedurl=http://feeds2.feedburner.com/FairLoanRate"><img src="http://buttons.googlesyndication.com/fusion/add.gif" width="91" height="17" style="border:0" alt="Add to Google Reader or Homepage"></a>
+<a rel="nofollow" href="http://www.newsgator.com/ngs/subscriber/subext.aspx?url=http://feeds2.feedburner.com/FairLoanRate" title="Fair Loan Rate!"><img src="http://www.newsgator.com/images/ngsub1.gif" alt="Subscribe in NewsGator Online" style="border:0"></a>
+<a rel="nofollow" href="http://www.netvibes.com/subscribe.php?url=http://feeds2.feedburner.com/FairLoanRate"><img src="http://www.netvibes.com/img/add2netvibes.gif" width="91" height="17" alt="Add to netvibes" style="border:0"></a>
+<a rel="nofollow" href="http://www.bloglines.com/sub/http://feeds2.feedburner.com/FairLoanRate" title="Fair Loan Rate!" type="application/rss+xml"><img src="http://www.bloglines.com/images/sub_modern11.gif" alt="Subscribe in Bloglines" style="border:0"></a><a rel="nofollow" href="http://feeds.my.aol.com/add.jsp?url=http://feeds2.feedburner.com/FairLoanRate"><img src="http://favorites.my.aol.com/ffclient/webroot/0.2.1/locale/en_US/aol/images/myAOLButtonSmall.gif" alt="Add to My AOL" style="border:0"></a><a rel="nofollow" href="http://www.pageflakes.com/subscribe.aspx?url=http://feeds2.feedburner.com/FairLoanRate" title="Add to Pageflakes"><img src="http://www.pageflakes.com/ImageFile.ashx?instanceId=Static_4&amp;fileName=ATP_blu_91x17.gif" alt="Add to Pageflakes" border="0"></a><a href="http://www.blogcatalog.com/in/4484788" title="Personal Blogs - Blog Catalog Blog Directory" rel="nofollow" target="blank"><img src="http://www.blogcatalog.com/rank/4484788.gif" alt="My BlogCatalog BlogRank"></a><a rel="nofollow" href="http://www.blogged.com/directory/business/accounting/personal-finance" target="_blank">
+<img src="http://www.blogged.com/icons/vn_rm5_1465310.gif" border="0" alt="Personal Finance Blog Directory" title="Personal Finance Blog Directory"></a>
+
+<p><a href="http://www.fairloanrate.com/privacy-policy/">Privacy Policy</a></p>
+<a rel="nofollow" href="http://www.blogrankings.com/finance/"><img style="border:none" src="http://www.blogrankings.com/img_13611.gif" alt="Finance Blogs - Blog Rankings"></a>
+<div><a rel="nofollow" href="http://twittercounter.com/dearmansoor?from=button" title="dearmansoor" target="_new"><img src="http://srv2.twittercounter.com/counter/index_bird.php?username=dearmansoor" width="149" height="90" style="border:none;" alt="dearmansoor"></a></div>
+<div style="display:none">
+<script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('4518xgzv')</script>
+</div>
+<div style="display:none"><script type="text/javascript" src="http://feedjit.com/serve/?vv=364&amp;dd=&amp;wid=93b2d39c0787ca92&amp;pid=0&amp;proid=0&amp;bc=FFFFFF&amp;tc=494949&amp;brd1=FFFFFF&amp;lnk=494949&amp;hc=336699&amp;ww=300"></script></div></div>
+		<span class="foot_s"></span></li></ul>
+
+<div class="clear"></div>
+
+</div><div class="clear"></div>
+</div>
+
+
+<div id="footer">
+<div id="footer-inner">
+
+	<div class="des">
+	<script type="text/javascript"><!--
 google_ad_client = "pub-4468935972528490";
 /* 728x15, created 10/2/08 */
 google_ad_slot = "3567923936";
@@ -170,20 +483,40 @@ google_ad_height = 15;
 </script>
 <script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
 </script>
-</div>		<p>Powered By <a href="http://www.sutlej.net">Sutlej Solutions</a></p>
-<script src="http://stats.wordpress.com/e-200948.js" type="text/javascript"></script>
+	</div>
+	
+	<div class="copy">
+	<p>Copyright © 2010 <a href="http://www.fairloanrate.com">Fair Loan Rate!</a>.</p>
+	</div><div class="clear"></div>
+
+</div>
+</div>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+var ratingsL10n = {
+	plugin_url: "http://www.fairloanrate.com/wp-content/plugins/wp-postratings",
+	ajax_url: "http://www.fairloanrate.com/wp-content/plugins/wp-postratings/wp-postratings.php",
+	text_wait: "Please rate only 1 post at a time.",
+	image: "stars",
+	image_ext: "gif",
+	max: "5",
+	show_loading: "1",
+	show_fading: "1",
+	custom: "0"
+};
+var ratings_mouseover_image=new Image();ratings_mouseover_image.src=ratingsL10n.plugin_url+"/images/"+ratingsL10n.image+"/rating_over."+ratingsL10n.image_ext;
+/* ]]> */
+</script>
+<script type="text/javascript" src="http://www.fairloanrate.com/wp-content/plugins/wp-postratings/postratings-js.js?ver=1.50"></script>
+<script src="http://stats.wordpress.com/e-201022.js" type="text/javascript"></script>
 <script type="text/javascript">
 st_go({blog:'4395199',v:'ext',post:'538'});
 var load_cmc = function(){linktracker_init(4395199,538,2);};
 if ( typeof addLoadEvent != 'undefined' ) addLoadEvent(load_cmc);
 else load_cmc();
 </script>
-	</div>
-</div>
-</div>
-<!--[if lte IE 7]>
-<div id="ie_clear"></div>
-<![endif]-->
+
 
 
 </body></html>
