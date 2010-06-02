@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527003459id_/http%3A//newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsbiscuit.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602033839id_/http%3A//www.newsbiscuit.com/about/privacy-policy) for the most accurate reproduction.*
 
-# NewsBiscuit » Privacy Policy
+# Privacy Policy | NewsBiscuit
 
 This privacy policy sets out how Net Loss Ltd uses and protects any information that you give Net Loss Ltd when you use this website.
 
