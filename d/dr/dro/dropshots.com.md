@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219001559id_/http%3A//www.dropshots.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dropshots.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602121527id_/http%3A//www.dropshots.com/privacy.html) for the most accurate reproduction.*
 
 # DropShots Privacy Policy
 
