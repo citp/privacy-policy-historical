@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201040458id_/http%3A//giantmag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giantmag.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602023458id_/http%3A//giantmag.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Giant Magazine Online
+# Privacy | GIANTLife
 
 _**L ast revised November 21, 2008**_
 
