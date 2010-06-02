@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freelivechat.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128234319id_/http%3A//www.freelivechat.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freelivechat.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602035711id_/http%3A//www.freelivechat.com/privacy.html%3F) for the most accurate reproduction.*
 
-# FreeLiveChat - Privacy Policy
+# Free Live Chat - Privacy Policy
 
 [Home](http://www.freelivechat.com/) / Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-FreeLiveChat.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! FreeLiveChat.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+Free Live Chat - LIVE SEXCAMS adult webcam community. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! FreeLiveChat.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
