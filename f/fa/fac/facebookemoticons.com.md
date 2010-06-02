@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the facebookemoticons.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219070421id_/http%3A//www.facebookemoticons.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebookemoticons.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602061743id_/http%3A//facebookemoticons.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Facebook Emoticons
 
-[ Digg](http://digg.com/gadgets/Facebook_Emoticons_3) [ Buzz up!](http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.facebookemoticons.com) [ Stumble](http://www.stumbleupon.com/submit?url=http://www.facebookemoticons.com/&title%3DFacebook%2BEmoticons) [ Delicious](http://delicious.com/save) [ Redit](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.facebookemoticons.com&title=)
-
-Privacy Policy for [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com")
+## Privacy Policy
 
 At [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com"), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com") and how it is used. 
 
@@ -14,10 +12,15 @@ Like many other Web sites, [www.facebookemoticons.com](http://www.facebookemotic
 **Cookies and Web Beacons**  
 [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com") does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-**DoubleClick DART Cookie**  
+**DoubleClick DART Cookie**
 
+.:: Google, as a third party vendor, uses cookies to serve ads on [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com").
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include .......   
+.:: Google’s use of the DART cookie enables it to serve ads to your users based on their visit to [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com") and other sites on the Internet. 
+
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include …….   
 Google Adsense
 
 Chitika
@@ -26,8 +29,6 @@ These third-party ad servers or ad networks use technology to the advertisements
 
 [www.facebookemoticons.com](http://www.facebookemoticons.com/ "www.facebookemoticons.com") has no access to or control over these cookies that are used by third-party advertisers. 
 
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.facebookemoticons.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.facebookemoticons.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
-
-[ Digg](http://digg.com/gadgets/Facebook_Emoticons_3) [ Buzz up!](http://buzz.yahoo.com/buzz?targetUrl=http%3A%2F%2Fwww.facebookemoticons.com) [ Stumble](http://www.stumbleupon.com/submit?url=http://www.facebookemoticons.com/&title%3DFacebook%2BEmoticons) [ Delicious](http://delicious.com/save) [ Redit](http://www.reddit.com/submit?url=http%3A%2F%2Fwww.facebookemoticons.com&title=)
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
