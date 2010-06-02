@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201013350id_/http%3A//www.mercyhurst.edu/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercyhurst.edu privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602032942id_/http%3A//www.mercyhurst.edu/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Mercyhurst College
+
+  * [Home](http://www.mercyhurst.edu/ "Home") » 
+  * [About](http://www.mercyhurst.edu/about/ "About") » 
+  * Privacy Policy
+
+
 
 Mercyhurst College respects the privacy of all visitors to our Web site. Please review the following Privacy Policy to understand what information is being collected and how it will be used. Mercyhurst College will NOT make information collected available to any outside parties. All information gathered will be obtained only through your knowledge and consent.
 
@@ -24,17 +30,17 @@ In the course of visiting a Web site, Mercyhurst College permits the following i
 
 This information is not to be reported or used in any manner that would reveal personally identifiable information or to be released to any outside (third) parties unless legally required.
 
-#### 4.1.1
+### 4.1.1
 
 Routing information such as IP address. Routing information is used to route the requested web page to your computer for viewing.
 
-#### 4.1.2
+### 4.1.2
 
 Essential technical information such as page accessed; time and date accessed; operating system used; type of browser used; information about the Web site from which you accessed the Mercyhurst College Web site. Essential technical information is used for such purposes as helping to respond to your request in an appropriate format and helping to plan Web site improvements.
 
 ## 5\. Limits to Privacy
 
-The use of college resources, including computing and networking equipment and services, purchased with college funds, are intended for college business. While it is not the intention of the college to actively monitor communications or files stored or transmitted on college systems or devices, individuals must understand that under certain circumstances they may not have a right to privacy to such information. Such circumstances include but are not limited to: compliance with legal requirements or process; as part of an investigation of a suspected violation of law, regulation or college policy; to maintain the integrity of the college's computing systems. 
+The use of college resources, including computing and networking equipment and services, purchased with college funds, are intended for college business. While it is not the intention of the college to actively monitor communications or files stored or transmitted on college systems or devices, individuals must understand that under certain circumstances they may not have a right to privacy to such information. Such circumstances include but are not limited to: compliance with legal requirements or process; as part of an investigation of a suspected violation of law, regulation or college policy; to maintain the integrity of the college's computing systems.
 
 ## 6\. Freedom of Information Requests
 
