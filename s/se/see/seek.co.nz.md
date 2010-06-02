@@ -1,11 +1,6 @@
-> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417033529id_/http%3A//www.seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.co.nz privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602155645id_/http%3A//www.seek.co.nz/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
-
-__
-
-  
-
 
 SEEK has created this privacy policy because we value our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for all sites managed by SEEK. We'd like to hear your feedback about this statement. If you have comments or questions, please [email us](https://web.archive.org/if.asp?loc=abh). 
 
@@ -36,6 +31,9 @@ CV creation is a free and optional service. It requires users to complete SEEK's
 
 A private CV can only be viewed by the person who posted it (or anyone whom that user gives his or her user name and password to). If a user allows access by SEEK advertisers, advertisers may view all user details including name and contacts, as supplied by the user when completing the CV form.
 
+    * **Storing your CV**  
+SEEK registered members may elect to store up to 10 CV's in their 'My Account' area, and use those CV's when applying for a job. Deleting a CV from My Account will mean it is no longer accessible to the registered member. Please note that deleted records may still be stored by SEEK in testing or backup systems for a period of time.
+
     * **Salary Survey information**  
 As part of providing an independent salary resource for job seekers, SEEK will encourage the public to participate in The Great New Zealand Salary Survey. Survey responses will be stored and the aggregated data used for general online searching and reporting purposes only. Individual responses will not be personally identifiable. No contact information will be collected. Salary survey responses will be submitted anonymously.
 
@@ -64,7 +62,7 @@ SEEK syndicates its content to, and distributes its content through, other sites
 
   6. ## Delete/Unsubscribe Information
 
-To cancel your SEEK registration, simply send an email to [userhelp@seek.co.nz](mailto:userhelp@seek.co.nz?subject=Delete%20my%20registration%20with%20SEEK) with 'Delete my registration with SEEK' in the subject line. Please include the username for your account in the body of the email.
+You can cancel your SEEK registration by logging in to [My Account](https://web.archive.org/myseek/MyAccount.ascx) and clicking the "Delete Account" link.
 
   7. ## Change/Modify Information
 
@@ -82,5 +80,3 @@ If you have any questions about this privacy statement, the practices of this si
 
 
 
-
-__
