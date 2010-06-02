@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213000827id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthjobsnationwide.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603010909id_/http%3A//www.healthjobsnationwide.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.*
 
-# Health Jobs Nationwide | HealthJobsNationwide.com
+# Healthcare Jobs, Nurse Jobs, Physician Jobs, Pharmacy Employment, Physical Therapy Jobs | HealthJobsNationwide.com
 
   
 Your privacy is very important to us. We want to make your experience with us as enjoyable and rewarding as possible and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence. 
