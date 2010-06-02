@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129133234id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobs2web.com privacy policy that was archived on 2010-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100602034443id_/http%3A//www.jobs2web.com/privacy-policy) for the most accurate reproduction.*
 
 # Jobs2Web - Career Website Optimization & Job SEO
 
@@ -8,7 +8,8 @@ For any questions or concerns regarding this statement, please first [contact Jo
 
 Jobs2Web Inc.  
 Subject: Privacy Policy  
-10729 Bren Road East  
+10901 Red Circle Drive  
+Suite 200  
 Minnetonka, MN 55343
 
 **About Jobs2Web and the information Jobs2Web collects**
@@ -83,5 +84,6 @@ Jobs2Web strives to do everything possible to protect the privacy of Site users.
 
 Jobs2Web Inc.  
 Subject: Privacy Policy  
-10729 Bren Road East  
+10901 Red Circle Drive  
+Suite 200  
 Minnetonka, MN 55343
