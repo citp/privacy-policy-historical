@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127212506id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classi4u.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603025154id_/http%3A//www.classi4u.com/classiprivacy.php) for the most accurate reproduction.*
 
-# Free Classifieds India | Indian Classified ads | Free Online Advertising | Privacy Policy
+# Privacy Policy | Classi4u.com Classifieds India
 
 Classi4u.com has established its privacy policy to explain how your information within the purview of Classi4u.com is protected, collected and used. This policy may be updated by Classi4u.com. Classi4u.com will post notices of its policy changes on the Classi4u.com site at: <http://www.classi4u.com/classiprivacy.php>
 
