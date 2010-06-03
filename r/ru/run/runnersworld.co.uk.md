@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219090504id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the runnersworld.co.uk privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005955id_/http%3A//www.runnersworld.co.uk/members/privacy.asp%3Fsp%3D%26v%3D6) for the most accurate reproduction.*
 
 # Runner's World - Privacy Policy
+
+You are looking at: [Home](https://web.archive.org/default.asp?sp=&v=1) : [](https://web.archive.org/members/mydetails.asp?sp=&v=6)Privacy Policy
 
 PRIVACY POLICY
 
