@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clear.net privacy policy that was archived on 2009-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090805233904id_/http%3A//www.clear.net/company/legal/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clear.net privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603212141id_/http%3A//www.clear.com/legal/privacy%3Fintcmp%3Dindex_d_bot_pp) for the most accurate reproduction.*
 
-# CLEAR Privacy Policy - clear.com
+# Privacy Policy | Clear.com
 
 CLEAR is committed to protecting your privacy. Please read this privacy policy statement carefully so that you understand what kind of information we may gather about you, how we may use that information, whether we may disclose it to anyone, and the choices you have regarding our use of the information and your ability to correct the information. We will not trade, sell, or disclose to any third party any form of personally identifiable information without your consent, including information derived from registration, subscription, and use of the CLEAR service, except as stated below. This policy applies only to CLEAR, and not to other companies’ or organizations’ Web sites to which we link.
 
@@ -10,15 +10,14 @@ The information CLEAR gathers generally falls into four general categories: (1) 
 
 When you interact with CLEAR, when applying for Service, for example, we may request some or all of the following information: 
 
-  * Contact information (e.g., name, address, telephone number, and e-mail address) 
-  * Credit card, debit card or check card and CLEAR account number 
-  * Driver's license 
-  * Company name (for corporate accounts)
-  * Household characteristics (e.g., number of children and number of Internet users)
-  * Technology employed (e.g., type of Internet access and specifications for your computer)
-
-
-
+● | Contact information (e.g., name, address, telephone number, and e-mail address)   
+---|---  
+● | Credit card, debit card or check card and CLEAR account number   
+● | Driver's license   
+● | Company name (for corporate accounts)  
+● | Household characteristics (e.g., number of children and number of Internet users)  
+● | Technology employed (e.g., type of Internet access and specifications for your computer)  
+  
 **Why We Collect This Information**
 
 We need this information to process your application or service order and to conduct market research. If we have trouble processing your application or order, we use the contact information you provide to get in touch with you. We also use your contact information to provide you with CLEAR updates or to assist you with your wireless broadband service and to inform you of new products or services that may be of interest to you. 
@@ -35,7 +34,9 @@ We use two kinds of cookies: (i) temporary or “session”-based cookies that c
 
 clear.com displays retargeted advertisements to our site prospects across the Internet. What this means is that whenever you visit our website, we track your visit by collecting certain information in the form of non-personally identifiable information. We also track how you interact with our products and services, that is to say, we track which links you click. The anonymous information is collected through the use of a pixel tag, which is industry standard technology used by most major web sites, similar to a cookie. No personally identifiable information is collected during in this process. We then share this non-personally identifiable information with other vendors who help us target advertising to you as you explore other websites. If you do not want us to collect this information, you may opt out of this service. Opting out of this service will in no any way affect your use of our site. To opt out of retargeting, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
-**Information Collected by Third Parties**
+**Software Updates and Information Collected by Third Parties**
+
+On occasion, CLEAR may need to update the WiMAX related software or firmware resident on your computer, phone or other WiMAX device, in order for you to use the CLEAR service. These updates are typically done to cure previously unknown defects or problems discovered in the software, and are a common industry practice. By using the CLEAR service, you authorize CLEAR to automatically download software updates onto your computer, phone or other WiMAX device so as to optimize the performance of the CLEAR service. In some cases CLEAR will notify you of a software update and will instruct you on how to install the update. In other cases, the software update will be done automatically without notice. A software update may require you to restart your computer, phone or other WiMAX device. Please note that in some instances your failure to install a recommended software update may result in impairment or loss of your CLEAR service. CLEAR is not responsible if you fail to install recommended software updates, and such failure causes an impairment or loss of your CLEAR service.
 
 Of course, our site includes links to other web sites, and provides access to products and services offered by third parties, whose privacy policies we don't control. In addition, some manufacturers of devices that can be used on our network (whether co-branded with the CLEAR brand name or not) may include in such devices software to monitor device usage and performance, and an embedded web browser that can be remotely activated by the manufacturer without your knowledge. Such browsers are typically used by the manufacturer to remotely connect to devices in order to send software updates or gather device performance data such as, for example, session duration, or volume of bytes downloaded and uploaded. In some instances manufacturers may share with CLEAR some or all of the information they collect (in which case the shared information will be subject to CLEAR’s privacy policy), however CLEAR does not control how those manufacturers may use information they collect and you should check your device manufacturer’s privacy policy. When you (a) access another web site, purchase products or services or conduct other transactions through a Web site linked to our web site, or (b) use a device in which the manufacturer has embedded monitoring software and a web browser, use of any information you provide or which is otherwise gathered by such manufacturers is governed by the privacy policy of the operator of the site you're visiting, the provider of such products or services, or the manufacturer of the device, as applicable. The provider's or manufacturer’s privacy practices may differ from ours, and we are not responsible for their actions. Please be aware that these third-party sites or manufacturers may also use their own cookies, web beacons or third-party software or “spyware”, for which we are also not responsible.
 
@@ -118,7 +119,7 @@ Personal information collected on this site may be stored and processed in the U
 
 If we decide to change our privacy policy, we will post those changes here so that you will always know what information we gather, how we might use that information and whether we will disclose it to anyone. By continuing to use CLEAR after we post any changes, you accept and agree to this privacy statement, as modified. Of course, our use of information gathered while the current privacy statement is in effect will be consistent with the current statement, even if we change that statement later.
 
-© 2020 Clear Wireless LLC. All rights reserved.
+© Clear Wireless LLC. All rights reserved.
 
-_Last updated: June 18, 2009_  
+_Last updated: November 01, 2009_  
 
