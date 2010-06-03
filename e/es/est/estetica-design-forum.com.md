@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estetica-design-forum.com privacy policy that was archived on 2009-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090514075035id_/http%3A//www.estetica-design-forum.com/advertising/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estetica-design-forum.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603222304id_/http%3A//www.estetica-design-forum.com/advertising/privacy-policy.html) for the most accurate reproduction.*
 
 # Graphic Design Forum Privacy Policy
 
