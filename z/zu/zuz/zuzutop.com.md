@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zuzutop.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102072137id_/http%3A//zuzutop.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuzutop.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603084428id_/http%3A//zuzutop.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ZuZu Top
 
