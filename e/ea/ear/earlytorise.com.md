@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222212715id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earlytorise.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603045032id_/http%3A//www.earlytorise.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free email newsletter
 
@@ -26,7 +26,7 @@ Any e-mail you send to Early To Rise is completely confidential. We will not add
 
 You are welcome to participate in the Early To Rise Discussion Board. Please note that submitting your e-mail address or a URL is completely voluntary—but you do so at your own risk. While Early To Rise does not harvest e-mail addresses from the Discussion Board, there is nothing to prevent an unscrupulous company from doing so.
 
-You must submit a name to submit a message to the Discussion Board, but it does not have to be your name—aliases are completely acceptable as long as they are unique and not meant to impersonate another person (i.e., "MMF" is not acceptable). If you feel someone is impersonating you on our Discussion Board, please contact us by clicking here and we will take all necessary actions, including legal, to correct the matter.
+You must submit a name to submit a message to the Discussion Board, but it does not have to be your name—aliases are completely acceptable as long as they are unique and not meant to impersonate another person (i.e., “MMF” is not acceptable). If you feel someone is impersonating you on our Discussion Board, please contact us by clicking here and we will take all necessary actions, including legal, to correct the matter.
 
 We reserve the right to remove any messages from the Board which are advertisements to buy or sell securities, are unrelated ads for other products, which contain profanity or are otherwise illegal. But ultimately we cannot be held responsible for any claims made on our Discussion Board.
 
