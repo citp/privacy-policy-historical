@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2009-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090722153315id_/http%3A//www.nsfwftw.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nsfwftw.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603025906id_/http%3A//www.nsfwftw.com/static/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - NSFWFTW.COM - Not Safe for Work Teen Webcam Adult Porn Videos
-
-
-
+# Porn Videos, Brianna Frost Videos, Cam Slut Videos, Sex Videos, Amateur Sex Videos, Cam Babes, Gisele Videos, Cam With Carmen Videos - NSFWFTW.com updates daily with free porn videos
 
 NSFWFTW.COM respects the privacy of our users. Personally identifiable information is handled according to the terms below. When you click on links to other web sites we encourage you to read their privacy policies. 
 
@@ -20,8 +17,4 @@ Members may be contacted via email or the private message system within NSFWFTW.
 Cookies are used to remember login names and passwords. These cookies are not harmful to your computer, and is not used to monitor your internet usage from without NSFWFTW.COM
 
   
-contact(at)nsfwftw(dot)com   
-
-
-
-
+contact(at)nsfwftw(dot)com 
