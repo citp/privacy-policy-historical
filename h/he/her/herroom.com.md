@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225064717id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the herroom.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603081549id_/http%3A//www.herroom.com/privacy.aspx) for the most accurate reproduction.*
 
 # HerRoom Privacy Policy
 
   * FREE SHIPPING
-  * Domestic orders over $70 qualify for FREE standard U.S. shipping! [See details](https://web.archive.org/web/20091225064717id_/http%3A//www.herroom.com/shipping.aspx).   
+  * Domestic orders over $70 qualify for FREE standard U.S. shipping! [See details](https://web.archive.org/web/20100603081549id_/http%3A//www.herroom.com/shipping.aspx).   
  
 
 
 
 |   | 
 
-> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20091225064717id_/http%3A//www.herroom.com/contact.aspx). 
+> HerRoom has created this privacy statement because we believe you have a right to a safe, secure online shopping experience. We are committed both to protecting your privacy and informing you how information from you will be used. If you still have concerns or questions after reading this policy, please [contact us](https://web.archive.org/web/20100603081549id_/http%3A//www.herroom.com/contact.aspx). 
 > 
 > **When I visit HerRoom, what information is gathered about me and why?**  
 > 
@@ -29,7 +29,7 @@
 > 
 > Cookies are small pieces of information that many web sites use to make online navigation easier. This data is contained on your hard drive in a file which your web browser provides for the purpose. A cookie can contain information such as a user ID. Our site can't read other data on your hard drive or read cookies created by other sites. 
 > 
-> Our site uses cookies to keep track of your shopping cart and, if you choose to register with us or request to receive email from HerRoom, to deliver content specific to your interests. You do not need to have cookies turned on to view our site, but you will need to accept cookies to register or order products. 
+> Our site uses cookies to keep track of your shopping bag and, if you choose to register with us or request to receive email from HerRoom, to deliver content specific to your interests. You do not need to have cookies turned on to view our site, but you will need to accept cookies to register or order products. 
 > 
 > **Who else has access to the information I provide to HerRoom?**
 > 
@@ -37,18 +37,18 @@
 > 
 > **How do I manage how much information I share or if I share any at all?**
 > 
-> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20091225064717id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
+> You can opt out of receiving e-mail and other communications from us. You can also update and/or correct any information about yourself that you've provided to HerRoom. Just [contact us](https://web.archive.org/web/20100603081549id_/http%3A//www.herroom.com/contact.aspx). using any of the ways listed at the top of this page. 
 > 
 > **What is HerRoom doing to protect my privacy?**
 > 
 > This site has security measures in place to protect from the loss, misuse, and alteration of information under our control. Our servers use encrypted methods for those pages which contain personally identifiable data, including your credit card and address. We routinely and zealously monitor and upgrade our security systems to ensure that we use the best security technology available. 
 > 
-> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20091225064717id_/http%3A//www.herroom.com/contact.aspx). 
+> We at HerRoom are sincerely committed to a safe and secure web experience for our visitors. If, after reading all this, you have concerns or questions, by all means, [get in touch with us](https://web.archive.org/web/20100603081549id_/http%3A//www.herroom.com/contact.aspx). 
 
   
 
 
-> HerRoom, HerRoom.com, HisRoom, HisRoom.com, The Underwear Award, The Undie Award, The Undies, The Bounce Test, The 20 Step Test, Tomima's Tip, Lingerie We Buy for Ourselves, Who’s Wearing What, Intimate Wisdom, Everything You Need to Know About Bra Fitting, Try it Under, and Fitter's Comments and other HerRoom and HisRoom graphics, logos, page headers, button icons, scripts, and service names are trademarks, registered trademarks or trade dress of Andra Group, LP. Other trademarks, product names and company names or logos used on this website are the property of their respective owners. 
+> HerRoom, HerRoom.com, HisRoom, HisRoom.com, The Underwear Award, The Undie Award, The Undies, The Bounce Test, The 20 Step Test, Tomima's Tip, Lingerie We Buy for Ourselves, Who’s Wearing What, Intimate Wisdom, Everything You Need to Know About Bra Fitting, Try it Under, and Fitter's Comments and other HerRoom and HisRoom graphics, logos, page headers, button icons, scripts, and service names are trademarks, registered trademarks or trade dress of Andra Group, LP, [Dallas](http://www.thegibsonco.com/). Other trademarks, product names and company names or logos used on this website are the property of their respective owners. 
 > 
 > One or more patents apply to HerRoom.com, HisRoom.com and/or TheUndies.com, and to the features and services accessible via the sites, including without limitation: U.S. Patent No. 7,149,710 and 7,346,543 B1. 
 > 
