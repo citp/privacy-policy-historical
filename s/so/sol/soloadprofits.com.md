@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the soloadprofits.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202150945id_/http%3A//soloadprofits.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soloadprofits.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603205510id_/http%3A//soloadprofits.com/privacy.php) for the most accurate reproduction.*
 
-# Solo Ads - Solo Email Advertising |SoloAdProfits.com
+# Solo Advertising - Solo Ads |Solo Email Advertising
 
 ** Solo Ad Profits Privacy Policy**
 
