@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2009-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090629003522id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsassist.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603072423id_/http%3A//www.vyomworld.com/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,6 +46,6 @@
   
 
 
-**[Looking for Job? Upload your resume here for MAXIMUM Exposure!](http://www.vyoms.com/dgm.asp)**
+**[**Looking for Job? Upload your resume here for MAXIMUM Exposure!**](http://www.vyoms.com/dgm.asp)**
 
 | 
