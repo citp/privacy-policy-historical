@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203065115id_/http%3A//www.checkoutfree.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkoutfree.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603082229id_/http%3A//www.takeonegetone.com/legal/privacy) for the most accurate reproduction.*
 
-# CheckoutFree.com
+# TakeOneGetOne.com
 
-**Please read this Privacy Policy carefully before using this website and/or accepting a CheckoutFree offer, including offers from the Lift Media family of brands: CheckoutFree, Free Wild Coins, Savings Watch, Take One Get One, Try For Less, Shoppeteria**
+**Please read this Privacy Policy carefully before using this website and/or accepting a Take One Get One offer, including offers from the Lift Media family of brands: Free Wild Coins and Take One Get One.**
 
 **Effective Date:** This Privacy Policy is effective September 1, 2008. 
 
-This is the CheckoutFree privacy policy which discloses the privacy practices for the CheckoutFree service and the [www.checkoutfree.com](http://www.checkoutfree.com/) website (which may be amended from time to time in accordance with clause 11 below) (the "Privacy Policy"). The CheckoutFree service and website are owned and operated by Lift Media, Inc., a wholly owned subsidiary of Webloyalty.com, Inc. 101 Merritt 7, Norwalk, CT 06851 ("Webloyalty"). If you have any questions about this Privacy Policy, please feel free to contact us at  or write to us at General Counsel, Lift Media, Inc., c/o Webloyalty.com, Inc., 101 Merritt 7, Norwalk, Connecticut 06851, United States of America.
+This is the Take One Get One privacy policy which discloses the privacy practices for the Take One Get One service and the [www.takeonegetone.com](http://www.takeonegetone.com/) website (which may be amended from time to time in accordance with clause 11 below) (the "Privacy Policy"). The Take One Get One service and website are owned and operated by Lift Media, Inc., a wholly owned subsidiary of Webloyalty.com, Inc. 101 Merritt 7, Norwalk, CT 06851 ("Webloyalty"). If you have any questions about this Privacy Policy, please feel free to contact us at  or write to us at General Counsel, Lift Media, Inc., c/o Webloyalty.com, Inc., 101 Merritt 7, Norwalk, Connecticut 06851, United States of America.
 
 * ## 1\. Purpose of this Privacy Policy
 
-At CheckoutFree, we recognize the importance of protecting the personally identifiable information you provide to us, such as your full name, mailing address, telephone number, credit or debit card account numbers, other billing information, and/or e-mail address ("Personal Information").
+At Take One Get One, we recognize the importance of protecting the personally identifiable information you provide to us, such as your full name, mailing address, telephone number, credit or debit card account numbers, other billing information, and/or e-mail address ("Personal Information").
 
 This Privacy Policy explains: (a) what sort of Personal Information we collect; (b) how that Personal Information is used; (c) to whom we may disclose your Personal Information; (d) how you can correct or change the Personal Information we hold about you and (e) how you can change your preferences to opt-in or opt-out of receiving marketing communications.
 
@@ -18,9 +18,9 @@ This Privacy Policy is incorporated into, and forms part of, the [Terms and Cond
 
 * ## 2\. What Information We Collect and How it is Collected
 
-### Use of CheckoutFree Service
+### Use of Take One Get One Service
 
-As a user of the CheckoutFree service, you will be asked to complete an online registration form(s) with some or all of your Personal Information, depending on how you use the service and/or the advertiser offer you select. In addition, we may receive Personal Information, as well as certain non-personally identifying information about you from our clients, such as gender and/or age, to permit us to select relevant marketing offers for you from our advertisers. We process such information in accordance with this Privacy Policy. Our marketing partners and advertisers may have different privacy practices and we encourage you to read their privacy policies.
+As a user of the Take One Get One service, you will be asked to complete an online registration form(s) with some or all of your Personal Information, depending on how you use the service and/or the advertiser offer you select. In addition, we may receive Personal Information, as well as certain non-personally identifying information about you from our clients, such as gender and/or age, to permit us to select relevant marketing offers for you from our advertisers. We process such information in accordance with this Privacy Policy. Our marketing partners and advertisers may have different privacy practices and we encourage you to read their privacy policies.
 
 ### Surveys
 
@@ -91,7 +91,7 @@ We may disclose certain information about you such as first name, first initial 
 
 * ## 4\. Choice
 
-You can make choices about how your Personal Information may be shared by us with third parties for marketing purposes and/or how your Personal Information may be used by us for purposes not related to your use of our service(s) by contacting us at . You can also unsubscribe to email marketing by sending an email to  with "unsubscribe" in the subject line. If you elect to opt out, such election will not apply to (a) communications that are directly related to the fulfillment of a specific transaction you have requested; (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your Personal Information to provide benefits, to provide support and for any other purpose relating to your use of the CheckoutFree service and (c) shall not preclude us from disclosing your Personal Information as described in this Privacy Policy for purposes other than sending you promotional and marketing materials not related to your use of our service(s). Moreover, if you opt-out but later consent to the transfer of your Personal Information to a third party, we will transfer your Personal Information to that specific third party in accordance with your consent.
+You can make choices about how your Personal Information may be shared by us with third parties for marketing purposes and/or how your Personal Information may be used by us for purposes not related to your use of our service(s) by contacting us at . You can also unsubscribe to email marketing by sending an email to  with "unsubscribe" in the subject line. If you elect to opt out, such election will not apply to (a) communications that are directly related to the fulfillment of a specific transaction you have requested; (b) shall not preclude us, including our employees, contractors, agents and other representatives, from accessing and viewing your Personal Information to provide benefits, to provide support and for any other purpose relating to your use of the Take One Get One service and (c) shall not preclude us from disclosing your Personal Information as described in this Privacy Policy for purposes other than sending you promotional and marketing materials not related to your use of our service(s). Moreover, if you opt-out but later consent to the transfer of your Personal Information to a third party, we will transfer your Personal Information to that specific third party in accordance with your consent.
 
 * ## 5\. Links to Third Party Sites
 
@@ -137,4 +137,4 @@ If we are going to use your personal information in a manner different from that
 
 * ## 13\. Your Acceptance of this Privacy Policy
 
-By using our Site and/or using the CheckoutFree service, you signify your acceptance of our Privacy Policy.
+By using our Site and/or using the Take One Get One service, you signify your acceptance of our Privacy Policy.
