@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621084549id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcot.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603173916id_/http%3A//www.arcot.com/privacy.html) for the most accurate reproduction.*
 
 # Arcot Privacy
+
+Arcot is a participant in the Safe Harbor program developed by the U.S. Department of Commerce and the European Union. We have certified that we adhere to the Safe Harbor Privacy Principles with regard to our use of certain personal data. For more information about the Safe Harbor and to view our certification, visit the U.S. Department of Commerce's Safe Harbor Web site <http://www.export.gov/safeharbor/>. urther details of Arcot’s Safe Harbor Privacy Policy can be found at [http:/www.arcot.com/safeharbor.html](https://web.archive.org/web/20100603173916id_/http%3A//www.arcot.com/safeharbor.html). Other details of Arcot’s Privacy Policy governing protection of personal information for individuals visiting Arcot’s website are described below.
 
 **Privacy**
 
