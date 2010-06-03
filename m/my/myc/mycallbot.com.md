@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycallbot.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203113625id_/http%3A//www.mycallbot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycallbot.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603230811id_/http%3A//www.mycallbot.com/privacy) for the most accurate reproduction.*
 
 # MyCallBot - Privacy Policy
 
