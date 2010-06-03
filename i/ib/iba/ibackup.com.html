@@ -1,31 +1,329 @@
-<!--The following is the downloaded HTML source of the ibackup.com privacy policy that was archived on 2009-05-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090529082937id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ibackup.com privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604005424id_/http%3A//www.ibackup.com/policy_new.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/template.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<meta name="KEYWORDS" content="online backup data,online data backup,online server backup,online backup service,online server backups,online data backups,remote access, backup service,online file backups,online backups,remote data backups,online backup,online file backup,online backup services">
-<meta name="DESCRIPTION" content="Online Backup: Specializing in online backup services and online storage services">
-<meta name="ROBOTS" content="INDEX,FOLLOW"><!-- InstanceBeginEditable name="doctitle" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Privacy policy - Secure online storage and backup</title>
-<!-- InstanceEndEditable -->
-<link rel="stylesheet" href="images/ibk_style.css" type="text/css">
-<script src="images/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="images/ibk_swap.js" type="text/javascript"></script>
-<script language="JavaScript" src="images/ibk_mm_menu.js"></script>
-<script language="JavaScript" src="images/ibk_pmenu.js"></script>
-<script language="JavaScript" type="text/javascript" src="images/ibk_dropDown.js"></script>
-<!-- InstanceBeginEditable name="head" -->
-<style type="text/css">
+<link rel="stylesheet" href="includes/obk_style.css" type="text/css">
+<script language="JavaScript" src="includes/obk_AC_RunActiveContent.js"></script>
+<script language="JavaScript" src="includes/obk_mm_menu.js"></script>
+<script language="JavaScript" src="includes/obk_pmenu.js"></script>
+<script language="JavaScript" src="includes/obk_dropDown.js"></script><script language="JavaScript">
 <!--
-.style1 {color: #990000}
--->
-</style>
-<!-- InstanceEndEditable -->
+
+function validate_email(form){
+var input_str=document.forms[0].EMAIL.value;
+var input_len3=input_str.length;
+        return true;
+}
+
+
+function hasSpecChar(Str)
+ {
+	var alloweduser = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789_@.- ";
+
+	 for(var count = 0; count < Str.length; count++)
+	 {
+		if(alloweduser.indexOf(Str.substring(count, count + 1)) == -1)
+		{
+		  return(true);
+		}
+
+	 };
+	 return(false);
+ }
+
+function isValidEmailId(email)
+ {
+	if (email == null)
+	{
+		return(false);
+	}
+	else if(email == '')
+	{
+		return(false) ;
+	}
+	else if ( (trim(email).indexOf('@') == -1) ||
+			  (trim(email).indexOf('@') == 0) ||
+			  (trim(email).indexOf('@') == (trim(email).length-1) ||  trim(email).indexOf('@',(trim(email).indexOf('@')+1))!=-1))
+	{
+		return(false);
+	}
+	else if (hasSpecChar(email))
+	{
+		return(false) ;
+	}
+	else
+	{
+		return(true) ;
+	};
+ }
+
+ function isBlank(Str)
+ {
+   while(''+Str.charAt(0)==' ')
+   Str=Str.substring(1,Str.length);
+   while(''+Str.charAt(Str.length-1)==' ')
+   Str=Str.substring(0,Str.length-1);
+   if (Str == '')
+   { return(true);
+   }
+   else
+   { return(false);
+   };
+ }
+
+ function trim(Str)
+ {
+   if (!(isBlank(Str)))
+   {
+	  while(''+Str.charAt(0)==' ')
+	  Str=Str.substring(1,Str.length);
+	  while(''+Str.charAt(Str.length-1)==' ')
+	  Str=Str.substring(0,Str.length-1);
+	  return(Str);
+   }
+   else
+   { return ('');
+   };
+ }
+
+ function invalidName(Str)
+ {
+     var alloweduser = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz ";
+
+     for(var count = 0; count < Str.length; count++)
+     {
+        if(alloweduser.indexOf(Str.substring(count, count + 1)) == -1)
+        {
+
+            return(true);
+        }
+     };
+
+ }
+
+function checkAndReplace(str)
+{
+
+	var ch ='';
+	var j;
+	
+	if(str=='')
+	{
+		return '';
+	}
+	else
+	{
+	
+		for(var i=0;i<str.length;i++)
+		{
+			
+			j = 0;
+			if(str.charAt(i)=='\'')
+			{
+				j++;
+			}
+
+			if(str.charAt(i)=='<')
+			{
+				j++;
+			}
+
+			if(str.charAt(i)=='>')
+			{
+				j++;
+				
+			}
+
+			if(str.charAt(i)=='\(')
+			{
+				j++;
+				
+			}
+
+			if(str.charAt(i)=='\)')
+			{
+				j++;
+				
+			}
+
+			if(j == 0)
+			{
+				ch = ch + str.charAt(i);
+			}
+			j = 0;
+			
+		}
+	}
+
+	return ch;
+}
+
+function invalidPhoneNumber(Str)
+{
+	 var alloweduser = "0123456789- xX+";
+         var totcount = 0;
+	 for(var count = 0; count < Str.length; count++)
+	 {
+		if(alloweduser.indexOf(Str.substring(count, count + 1)) == -1)
+		{
+		  totcount++;
+		}
+	 };
+	 if(totcount!=0)
+	 {
+	   return(true);
+	 }
+   return(false);
+ }
+
+ function invalidUserName(Str)
+ {
+	 var alloweduser = "abcdefghijklmnopqrstuvwxyz0123456789_";
+
+	 for(var count = 0; count < Str.length; count++)
+	 {
+		if(alloweduser.indexOf(Str.substring(count, count + 1)) == -1)
+		{
+			return(true);
+		}
+	 };
+
+ }
+
+function submit2(form)
+{
+
+   if(form.validateEmail.value!='true')
+{
+   if (invalidName(form.FIRSTNAME.value))
+   {
+      form.FIRSTNAME.focus();
+	  alert('First name can contain only characters A-Z, a-z and blank space.');
+	   return (false);
+   }
+   if (invalidName(form.LASTNAME.value))
+   {
+      form.LASTNAME.focus();
+	  alert('Last name can contain only characters A-Z, a-z and blank space.');
+      return (false);
+   }
+   else if( !isValidEmailId(form.EMAIL.value)  )
+   {
+      form.invEmail.value=="";
+	  form.EMAIL.focus();
+	  alert('Enter a valid email address.');
+	  return(false);
+   }
+   
+   //alert('form.invUser.value...'+form.invUser.value);
+  // alert('form.invUser.value.length...'+form.invUser.value.length);
+   if(form.USERNAME.value!= '' && invalidUserName(form.USERNAME.value))
+	{
+	    form.USERNAME.focus();
+	    alert('Enter a valid Username.');
+	    return(false);
+
+	}
+   else if(form.invUser.value=="too" && form.USERNAME.value == '')
+	{
+	   form.USERNAME.focus();
+	   alert('Enter your IBackup Username.');
+	   return(false);
+
+	}
+	else if(form.invUser.value=="too" && invalidUserName(form.USERNAME.value))
+	{
+		form.USERNAME.focus();
+	      alert('Enter a valid Username.');
+	    return(false);
+
+	}
+   
+	
+  if( form.select1.value=='' )
+   {
+      form.invUser.value = '';
+	  form.select1.focus();
+	  alert('Select the Operating System.');
+	  return(false);
+   }
+   else if( form.select.value=='' )
+   {
+      form.select.focus();
+	  alert('Select the web browser.');
+	  return(false);
+   }
+   else if( form.select2.value=='' )
+   {
+      form.select2.focus();
+	  alert('Select  the connection type.');
+	  return(false);
+   }
+
+   else if( form.select3.value=='')
+   {
+      form.select3.focus();
+	   alert('Select the IBackup program.');
+	  return(false);
+   }
+   else if( (form.PHONE.value!='') && (invalidPhoneNumber(form.PHONE.value)))
+   {
+	   form.PHONE.focus();
+	   alert('Phone number can contain only characters  0-9 x X - +.');
+	   return(false);
+   }
+   else if( form.select3.value=='Other' &&  form.textarea.value=='')
+   {
+      form.textarea.focus();
+	 alert('Enter your problem/query/comments.');
+	  return(false);
+   }
+
+	 if(form.invEmail.value=="true")
+	{
+	   STREAMNET.ibackup.emailVerifySyn(form);
+	   return(false);
+	}
+	
+	
+   
+	   {
+			form.FIRSTNAME.value = checkAndReplace(form.FIRSTNAME.value);
+			form.LASTNAME.value = checkAndReplace(form.LASTNAME.value);
+			form.USERNAME.value = checkAndReplace(form.USERNAME.value);
+			form.EMAIL.value = checkAndReplace(form.EMAIL.value);
+			form.select1.value = checkAndReplace(form.select1.value);
+			form.select2.value = checkAndReplace(form.select2.value);
+			form.select3.value = checkAndReplace(form.select3.value);
+			form.PHONE.value = checkAndReplace(form.PHONE.value);
+			form.textarea.value = checkAndReplace(form.textarea.value); 
+
+			
+		
+			form.action="/qmanager/servlet/FeedbackServlet"
+			form.method="post"
+			return(true);
+
+	  }
+  }
+  else
+  {
+		return false;
+  }
+}
+//-->
+
+</script>
+<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
+<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
 </head>
-<body leftmargin="0" topmargin="0" rightmargin="0" bottommargin="0" onload="MM_preloadImages('images/ibk_signup_ovr.jpg','images/ibk_pricing_ovr.jpg','images/ibk_products_ovr.jpg','images/ibk_download_ovr.jpg','images/ibk_security_ovr.jpg','images/ibk_support_ovr.jpg','images/ibk_part_ovr.jpg','images/ibk_faq_ovr.jpg','images/ibk_dwn_over.gif')">
-<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); width: 224px; height: 310px;">
-  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 308px; width: 222px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 307px; width: 221px; background-color: rgb(255, 255, 255);">
+
+<body>
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); width: 224px; height: 338px;">
+  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 336px; width: 222px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 335px; width: 221px; background-color: rgb(255, 255, 255);">
 <div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText0" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;for&nbsp;Windows&nbsp;</div>
 <div id="menuItemHilite0" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;for&nbsp;Windows&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 28px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText1" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;for&nbsp;Mac&nbsp;</div>
 <div id="menuItemHilite1" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;for&nbsp;Mac&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 56px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText2" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;Drive&nbsp;</div>
@@ -35,20 +333,20 @@
 <div id="menuItemHilite5" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">WebFolders&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 168px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText6" style="position:absolute;left:8px;top:6.5px;color:#000000;">SQL&nbsp;Server&nbsp;Backup&nbsp;</div>
 <div id="menuItemHilite6" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">SQL&nbsp;Server&nbsp;Backup&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 196px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText7" style="position:absolute;left:8px;top:6.5px;color:#000000;">Exchange&nbsp;Server&nbsp;Backup&nbsp;</div>
 <div id="menuItemHilite7" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">Exchange&nbsp;Server&nbsp;Backup&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 224px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText8" style="position:absolute;left:8px;top:6.5px;color:#000000;">Oracle&nbsp;Server&nbsp;Backup&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">Oracle&nbsp;Server&nbsp;Backup&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 252px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText9" style="position:absolute;left:8px;top:6.5px;color:#000000;">Hot&nbsp;Sites&nbsp;for&nbsp;Disaster&nbsp;Recovery&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">Hot&nbsp;Sites&nbsp;for&nbsp;Disaster&nbsp;Recovery&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 280px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText10" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;for&nbsp;Linux/Unix&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;for&nbsp;Linux/Unix&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuItemHilite8" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">Oracle&nbsp;Server&nbsp;Backup&nbsp;</div></div><div id="menuItem9" style="position: absolute; left: 0px; top: 252px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText9" style="position:absolute;left:8px;top:6.5px;color:#000000;">SharePoint&nbsp;Server&nbsp;Backup&nbsp;</div>
+<div id="menuItemHilite9" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">SharePoint&nbsp;Server&nbsp;Backup&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 280px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText10" style="position:absolute;left:8px;top:6.5px;color:#000000;">Hot&nbsp;Sites&nbsp;for&nbsp;Disaster&nbsp;Recovery&nbsp;</div>
+<div id="menuItemHilite10" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">Hot&nbsp;Sites&nbsp;for&nbsp;Disaster&nbsp;Recovery&nbsp;</div></div><div id="menuItem11" style="position: absolute; left: 0px; top: 308px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText11" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;for&nbsp;Linux/Unix&nbsp;</div>
+<div id="menuItemHilite11" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;for&nbsp;Linux/Unix&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); width: 224px; height: 86px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 84px; width: 222px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 83px; width: 221px; background-color: rgb(255, 255, 255);">
-<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText11" style="position:absolute;left:8px;top:6.5px;color:#000000;"> IBackup&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;"> IBackup&nbsp;</div><div id="childMenu11" style="position: absolute; left: 209px; top: 9px;"><img src="/images/arrows.gif"></div>
-</div><div id="menuItem12" style="position: absolute; left: 0px; top: 28px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText12" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;Professional&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;Professional&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 56px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText13" style="position:absolute;left:8px;top:6.5px;color:#000000;">RemotePC&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">RemotePC&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
+<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(204, 204, 204); background-color: rgb(204, 204, 204); width: 224px; height: 58px;">
+  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 56px; width: 222px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
+	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 55px; width: 221px; background-color: rgb(255, 255, 255);">
+<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText12" style="position:absolute;left:8px;top:6.5px;color:#000000;"> IBackup&nbsp;</div>
+<div id="menuItemHilite12" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;"> IBackup&nbsp;</div><div id="childMenu12" style="position: absolute; left: 209px; top: 9px;"><img src="/images/obk_arrows.gif"></div>
+</div><div id="menuItem13" style="position: absolute; left: 0px; top: 28px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: bold; font-size: 11px; width: 220px; height: 26px; background-color: rgb(239, 239, 239); visibility: inherit;"><div id="menuItemText13" style="position:absolute;left:8px;top:6.5px;color:#000000;">IBackup&nbsp;Professional&nbsp;</div>
+<div id="menuItemHilite13" style="position:absolute;left:8px;top:6.5px;color:#ffffff;visibility:hidden;">IBackup&nbsp;Professional&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
    </div>
   </div>
 </div>
@@ -56,257 +354,236 @@
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="images/ibk_topbg.jpg"><table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+    <td background="images/obk_topbg.jpg"><table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
       <tbody><tr>
-        <td width="160"><a href="index.html"><img src="images/ibk_logo.jpg" alt="IBackup - online backup and online storage" width="160" height="115" border="0"></a></td>
-        <td width="2">&nbsp;</td>
-        <td valign="middle"><br>
-          <br>
-          <table width="40%" border="0" align="right" cellpadding="0" cellspacing="0">
-          <tbody><tr>
-            <td width="29%"><a href="index.html"><img src="images/ibk_home.jpg" alt="home" width="86" height="34" border="0"></a></td>
-              <td width="71%"><a href="feedback_new.htm"><img src="images/ibk_phone.jpg" alt="Support" width="135" height="34" border="0"></a></td>
-            </tr>
-        </tbody></table></td></tr>
+
+        <td width="160"><a href="index.html"><img src="images/obk_logo.jpg" alt="IBackup - online backup and online storage" width="159" height="105" border="0"></a></td>
+        <td align="right" valign="top"><a href="feedback_new.htm"><img src="images/obk_hd_support.jpg" alt="Support" width="161" height="50" border="0"></a></td>
+      </tr>
+
     </tbody></table></td>
   </tr>
+
 </tbody></table>
-<img src="images/ibk_spacer.gif" width="4" height="4"><br>
-<table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+<table width="100%" background="images/obk_bacwin_bg.jpg" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td>
+	<img src="images/obk_spacer.gif" width="2" height="9"><br>
+    <table width="960" border="0" align="center" cellpadding="0" cellspacing="0" id="main_menu">
+      <tbody><tr>
+        <td id="mn_home"><a href="index.html"><img src="images/obk_spacer.gif" alt="Home" width="46" height="40" border="0"></a></td>
+        <td id="mn_sign"><a href="qmanager/jsp/regterms_new.jsp"><img src="images/obk_spacer.gif" alt="Sign up" width="108" height="40" border="0"></a></td>
+        <td id="mn_price"><a href="charginghelp_new.htm"><img src="images/obk_spacer.gif" alt="Pricing Plans" width="141" height="40" border="0"></a></td>
+        <td id="mn_prod"><a href="#"><img src="images/obk_spacer.gif" alt="Products" width="112" height="40" border="0" name="products" onmouseover="MM_showMenu(window.mm_menu_0313114926_0,0,40,null,'products');" onmouseout="MM_startTimeout()"></a></td>
+        <td id="mn_down"><a href="online-backup-downloads"><img src="images/obk_spacer.gif" alt="Downloads" width="131" height="40" border="0"></a></td>
+        <td id="mn_secur"><a href="online-backup-security"><img src="images/obk_spacer.gif" alt="Security" width="106" height="40" border="0"></a></td>
+        <td id="mn_supp"><a href="feedback_new.htm"><img src="images/obk_spacer.gif" alt="Support" width="109" height="40" border="0"></a></td>
+        <td id="mn_part"><a href="online-backup-partners"><img src="images/obk_spacer.gif" alt="Partners" width="109" height="40" border="0"></a></td>
+        <td id="mn_faq"><a href="online-backup-faq"><img src="images/obk_spacer.gif" alt="FAQs" width="98" height="40" border="0"></a></td>
+      </tr>
+    </tbody></table>
+    <table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr><td background="images/obk_banr_privacy.jpg" valign="top" class="backwin_inside_banner">
+    <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td width="97"><a href="qmanager/jsp/regterms_new.jsp"><img src="images/ibk_signup.jpg" alt="Signup" name="Image1" width="97" height="40" border="0" id="Image1" onmouseover="MM_swapImage('Image1','','images/ibk_signup_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="98"><a href="../charginghelp_new.htm" "=""><img src="images/ibk_pricing.jpg" alt="Pricing plans" name="Image2" width="98" height="40" border="0" id="Image2" onmouseover="MM_swapImage('Image2','','images/ibk_pricing_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="97"><a href="#"><img src="images/ibk_products.jpg" alt="Products" name="Image3" width="97" height="40" border="0" id="Image3" onmouseover="MM_swapImage('Image3','','images/ibk_products_ovr.jpg',1);MM_showMenu(window.mm_menu_0313114926_0,0,43,null,'Image3');" onmouseout="MM_swapImgRestore();MM_startTimeout();"></a></td>
-    <td width="98"><a href="online-backup-downloads/"><img src="images/ibk_download.jpg" alt="Downloads" width="98" height="40" border="0" id="Image4" onmouseover="MM_swapImage('Image4','','images/ibk_download_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="97"><a href="online-backup-security/"><img src="images/ibk_security.jpg" alt="Security" width="97" height="40" border="0" id="Image5" onmouseover="MM_swapImage('Image5','','images/ibk_security_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="98"><a href="feedback_new.htm"><img src="images/ibk_support.jpg" alt="Support" name="Image6" width="98" height="40" border="0" id="Image6" onmouseover="MM_swapImage('Image6','','images/ibk_support_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="97"><a href="online-backup-partners/"><img src="images/ibk_part.jpg" alt="Partners" width="97" height="40" border="0" id="Image7" onmouseover="MM_swapImage('Image7','','images/ibk_part_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
-    <td width="98"><a href="online-backup-faq/"><img src="images/ibk_faq.jpg" alt="FAQ" width="98" height="40" border="0" id="Image8" onmouseover="MM_swapImage('Image8','','images/ibk_faq_ovr.jpg',1)" onmouseout="MM_swapImgRestore()"></a></td>
+    <td><h1 class="banner_txt1">Privacy Policy</h1></td>
+  </tr>
+  <tr>
+    <td valign="top" class="banner_txt">Do read our privacy policy before registering and using the IBackup service</td>
   </tr>
 </tbody></table>
-<img src="images/ibk_spacer.gif" width="4" height="4"><br>
-<table width="100%" border="0" cellspacing="0" cellpadding="0" class="bottombg">
+    </td>
+  </tr>
+</tbody></table>
+</td></tr></tbody></table>
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+<tbody><tr><td background="images/obk_subpag_bg.jpg" style="background-repeat:repeat-x;">
+<img src="images/obk_spacer.gif" width="2" height="45"><br><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td width="550" valign="top" class="txtcontent">
+        <p>Pro Softnet Corporation's privacy statement demonstrates our firm commitment to privacy and details our information gathering and dissemination practices for this website: <a href="http://www.ibackup.com" class="lnktxt">www.ibackup.com</a>.</p><br>
+        <p><span class="lnktxt">1. What is IBackup and why is my information needed? </span><br>
+          IBackup.com provides registered users with services like Online Backup, Online Storage, Sharing and Collaboration, over the Internet. Pro Softnet Corporation makes them available under a number of different subscription plans. Since IBackup is a web-based service, it requires the use of first and last names,  password, valid email address and credit card details to process payments. Therefore, at a minimum, we require this information during the registration process.</p><br>
+</td>
+        <td width="50">&nbsp;</td>
+        <td valign="top" width="305" background="images/obk_misc_tab.jpg" class="back_tab"><br><br><br>
+    <table width="86%" border="0" align="center" cellpadding="5" cellspacing="0">
+        <tbody><tr>
+          <td colspan="2"><img src="images/obk_shp_agree.jpg" alt="Safe Harbor Policy " width="161" height="17" border="0"></td>
+        </tr>
+        <tr>
+          <td colspan="2"><p>Read our <b>Safe Harbor Policy</b> document<img src="images/obk_spacer.gif" width="4" height="10"><a href="privacy_safe_harbor.htm"><br>
+            <img src="images/obk_bt_more.gif" width="47" height="17" border="0" align="right"></a></p></td>
+          </tr>
+        </tbody></table><table width="86%" border="0" align="center" cellpadding="5" cellspacing="0">
+        <tbody><tr>
+          <td colspan="2"><img src="images/obk_rellink.jpg" alt="Related Link" width="104" height="15" border="0"></td>
+        </tr>
+        <tr>
+          <td><img src="../images/obk_spacer.gif" width="4" height="1"></td>
+          <td><img src="../images/obk_spacer.gif" width="4" height="1"></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="images/obk_bullet1.jpg" width="13" height="12"></td>
+          <td><a href="/license/terms_new.htm" class="rel_link">Terms of use</a></td>
+        </tr>
+        <tr>
+          <td align="center"><img src="images/obk_bullet1.jpg" width="13" height="12"></td>
+          <td><a href="/license/licenses.htm" class="rel_link">Licenses</a></td>
+        </tr>
+        </tbody></table>
+        </td>
+      </tr>
+    </tbody></table></td></tr></tbody></table>
+<table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td><!-- InstanceBeginEditable name="content1" -->
-      <table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
-        <tbody><tr>
-          <td width="10"><img src="images/ibk_spacer.gif" width="10" height="4"><br>
-          </td>
-          <td width="550" valign="top" class="txtcontent"><div align="justify"><span class="txtorange"><br>
-            Privacy Policy </span><strong><br>
-              <br>
-              </strong><span class="txtcontentbody"><span class="txtheader">DO READ OUR PRIVACY POLICY BEFORE REGISTERING AND USING THE IBACKUP SERVICE:</span><br>
-                <br>
-                Pro Softnet Corporation's privacy statement demonstrates our firm commitment to privacy and details our information gathering and dissemination practices for this website: <a href="http://www.ibackup.com" class="linkbodygray">www.ibackup.com</a>.</span><br>
-            <br>
-            <span class="txtstrong">1. What is IBackup and why is my information needed? </span></div>
-            <div align="justify"><br>
-              IBackup.com provides registered users with services like Online Backup, Online Storage, Sharing and Collaboration, over the Internet. Pro Softnet Corporation makes them available under a number of different subscription plans. Since IBackup is a web-based service, it requires the use of first and last names,  password, valid email address and credit card details to process payments. Therefore, at a minimum, we require this information during the registration process.<br>
-          <span class="txtstrong"></span></div></td>
-          <td width="20" valign="top"><img src="images/ibk_spacer.gif" width="8" height="4"></td>
-          <td width="200" align="center" valign="top"><br>
-              <table width="200" border="0" align="center" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td background="images/ibk_boxtopbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="4%"><img src="images/ibk_spacer.gif" width="10" height="32"></td>
-                        <td width="96%" align="left"><span class="txtwhite"><strong>Resources</strong></span></td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td valign="top" background="images/ibk_boxmidbg.gif"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-                      <tbody><tr>
-                        <td align="left" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                            <tbody><tr>
-                              <td width="4%"><img src="images/ibk_spacer.gif" width="10" height="25"></td>
-                              <td width="96%" align="left" class="txtstrong">Safe Harbor Policy </td>
-                            </tr>
-                        </tbody></table></td>
-                      </tr>
-                      <tr>
-                        <td><br>
-                            <table width="90%" border="0" align="center" cellpadding="3" cellspacing="0" class="txtcontent">
-                              <tbody><tr>
-                                <td class="txtcontentbody"><div align="justify">Read our <span class="txtstrong">Safe Harbor Policy</span> document <a href="privacy_safe_harbor.htm"><img src="images/ibk_go.gif" width="40" height="17" border="0" align="absmiddle"></a></div></td>
-                              </tr>
-                            </tbody></table>
-                          <br></td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td background="images/ibk_boxmidbg.gif"><table width="99%" border="0" align="center" cellpadding="0" cellspacing="0">
-                    <tbody><tr>
-                      <td align="left" bgcolor="#F5F5F5"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="4%"><img src="images/ibk_spacer.gif" width="10" height="25"></td>
-                            <td width="96%" align="left" class="txtstrong">Releated Links </td>
-                          </tr>
-                      </tbody></table></td>
-                    </tr>
-                    <tr>
-                      <td><br>
-                        <table width="90%" border="0" align="center" cellpadding="3" cellspacing="0">
-                          <tbody><tr>
-                            <td align="left" class="txtcontent"><img src="images/ibk_yellow.jpg" width="14" height="14" align="absmiddle"> <a href="/license/terms_new.htm" class="linkbodygray">Terms of service </a></td>
-                          </tr>
-                          <tr>
-                            <td align="left" class="txtcontent"><img src="images/ibk_yellow.jpg" width="14" height="14" align="absmiddle"> <a href="/license/licenses.htm" class="linkbodygray">Licenses</a></td>
-                          </tr>
-                        </tbody></table>
-                      <br></td>
-                    </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td background="images/ibk_boxbotbg.gif"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="4%"><img src="images/ibk_spacer.gif" width="10" height="27"></td>
-                        <td width="96%">&nbsp;</td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table>
-      <table width="780" border="0" align="center" cellpadding="0" cellspacing="0" class="txtcontent">
-        <tbody><tr>
-          <td width="10"><p><img src="images/ibk_spacer.gif" width="10" height="25"><br>
-          </p></td>
-          <td valign="top"><div align="justify"><span class="txtstrong"><br>
-            2. What information does IBackup gather and how is it used?</span><br>
-                      <br>
-                    Owing to the nature of our product, we must collect personal information from users during the registration process, including first and last names, a valid credit card number to process payment for service, an email address and a password. Your email address may be used to send You periodic updates on IBackup and related products, but only upon Your express consent. To fulfill our commitment to make available the best product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records indefinitely.<br>
-                    <br>
-                    SESSION RECORDS: To maintain the quality of service and assist in the analysis of product performance, we may gather data on connection information, including the timing and size of all packets sent over the Internet, during a session.<br>
-                    <br>
-                    SURVEYS: In addition to mandatory member information, we may conduct surveys and request users to volunteer demographic information, to be used on an aggregate basis, for internal market research, joint research projects with other companies involved in product development. We would use such information to fine-tune our product and personalize our services.<br>
-                    <br>
-                    <span class="txtstrong">3. With whom does IBackup share the information?</span><br>
-                    <br>
-                    We do not voluntarily share the user's personal information with any third party without the user's express consent or unless compelled by applicable state and federal laws. Do refer to the IBackup terms page for privacy and security issues related to data stored in user accounts and user information. IBackup does not control the practices of its affiliates. Any queries on how affiliates use the information gathered when You link to them can be gathered by reading their privacy policies. This site contains links to other sites. Pro Softnet Corporation is not responsible for the privacy practices or the content of such websites.<br>
-                    <br>
-                    <span class="txtstrong">Choice/Opt-Out</span><br>
-                    <br>
-                    Users may opt not to receive any communications on IBackup products and services.<br>
-                    <br>
-                    For this, simply login and click  the 'My Profile' option. Uncheck it to stop receiving communication regarding IBackup.<br>
-                    <br>
-                    <span class="txtstrong">Security</span><br>
-                    <br>
-                    Never share the password with anyone, unless You intend to collaborate with them, for which they need to read-write access to Your files. On receipt of certain types of sensitive data like financial information, we redirect visitors to the secure portion of our site, using industry standard SSL. This site has security measures in place to protect against loss, misuse and alteration of the information under our control. The user data is password protected.<br>
-                    <br>
-                    For details, see <a href="../license/terms_new.htm" class="linkbodygray">Terms of Service</a>.<br>
-                    <br>
-                    IBackup uses cookies for user session tracking. They are used solely for identifying user sessions and do not store any personal information.<br>
-                    <br>
-                    <span class="txtstrong">Correct/Update</span><br>
-                    <br>
-                    This site gives users the option to change and modify information previously provided.<br>
-                    <br>
-                    After logging in, You can go to the 'My Profile' option and correct/change information relating to password. You may opt to or opt-out of receiving communication regarding our service. Also, You can cancel/upgrade/downgrade Your account, from available subscription plans.<br>
-                    <br>
-                    <span class="txtstrong">Contacting the website</span><br>
-                    <br>
-                    If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: <br>
-                    <br>
-                    <span class="txtheader">Attn: Privacy Management for IBackup </span><br>
-                    Pro Softnet Corporation<br>
-                    21300 victory Blvd <br>
-                    Suite 690<br>
-                    Woodland Hills, CA 91367 <br>
-                    <a href="mailto:privacy@ibackup.com" class="linkbodygray">privacy@ibackup.com</a><br>
-                    <br>
-                            </div></td>
-        </tr>
-      </tbody></table>     
+    <td><p><span class="lnktxt">2. What information does IBackup gather and how is it used?</span><br>
+Owing to the nature of our product, we must collect personal information from users during the registration process, including first and last names, a valid credit card number to process payment for service, an email address and a password. Your email address may be used to send You periodic updates on IBackup and related products, but only upon Your express consent. To fulfill our commitment to make available the best product to all our users, we track the category of services selected by our individual users as well as all information pertaining to user satisfaction. To ensure the quality of our product, we reserve the right to maintain evaluation and feedback records indefinitely.</p>
+<p>
+SESSION RECORDS: To maintain the quality of service and assist in the analysis of product performance, we may gather data on connection information, including the timing and size of all packets sent over the Internet, during a session.</p>
+<p>SURVEYS: In addition to mandatory member information, we may conduct surveys and request users to volunteer demographic information, to be used on an aggregate basis, for internal market research, joint research projects with other companies involved in product development. We would use such information to fine-tune our product and personalize our services.</p><br>
+
+<p><span class="lnktxt">3. With whom does IBackup share the information?</span><br>
+We do not voluntarily share the user's personal information with any third party without the user's express consent or unless compelled by applicable state and federal laws. Do refer to the IBackup terms page for privacy and security issues related to data stored in user accounts and user information. IBackup does not control the practices of its affiliates. Any queries on how affiliates use the information gathered when You link to them can be gathered by reading their privacy policies. This site contains links to other sites. Pro Softnet Corporation is not responsible for the privacy practices or the content of such websites.</p><br>
+
+<p><span class="lnktxt">Choice/Opt-Out</span><br>
+Users may opt not to receive any communication on IBackup products and services.
   <br>
-    <!-- InstanceEndEditable --></td>
+  For this, login to your account from the website, click My Account &gt; Edit Profile and clear the ‘Send me updates on IBackup to my email address’ check box. </p><br>
+
+<p><span class="lnktxt">Security</span><br>
+Never share the password with anyone, unless You intend to collaborate with them, for which they need to read-write access to Your files. On receipt of certain types of sensitive data like financial information, we redirect visitors to the secure portion of our site, using industry standard 128-bit Secure Socket Layer technology. This site has security measures in place to protect against loss, misuse and alteration of the information under our control. The user data is password protected.</p>
+<p>For details, see the <a href="../license/terms_new.htm" class="lnktxt">terms of use</a>.</p>
+<p>IBackup uses cookies for user session tracking. They are used solely for identifying user sessions and do not store any personal information.</p><br>
+
+<p><span class="lnktxt">Correct/Update</span><br>
+This site gives users the option to change and modify information previously provided.</p>
+<p>After logging in, You can go to the My Account &gt; Edit Profile option and correct/change information relating to password. You may opt to or opt-out of receiving communication regarding our service. Also, You can cancel/upgrade/downgrade Your account, from available subscription plans.</p><br>
+
+<p><span class="lnktxt">Contacting the website</span><br>
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us at:</p>
+<p><span class="txtheader"><b>Attn: Privacy Management for IBackup</b></span><br>
+Pro Softnet Corporation,<br>
+26115 Mureau Road, Suite A,<br>
+Calabasas, CA 91302. <br>
+<a href="mailto:privacy@ibackup.com" class="lnktxt">privacy@ibackup.com</a></p></td>
   </tr>
 </tbody></table>
+<img src="images/obk_spacer.gif" width="2" height="30"><br>
+<table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+<tbody><tr>  </tr>
+</tbody></table>
+<img src="images/obk_spacer.gif" width="4" height="5"><br>
+<table id="footer" width="100%" border="0" cellspacing="0" cellpadding="0" background="images/obk_footer_bg.jpg" style="background-repeat:repeat-x; background-color:#333333; background-position:0px 0px">
 
-
-<table id="footer" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tbody><tr>
-    <td background="images/ibk_ftrline.jpg"><img src="images/ibk_spacer.gif" width="8" height="4"></td>
-  </tr>
-  <tr>
-    <td background="images/ibk_ftrcolor.jpg"><table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
+
+    <td><table width="960" border="0" align="center" cellpadding="0" cellspacing="5">
       <tbody><tr>
-        <td width="5"><img src="images/ibk_spacer.gif" width="4" height="220"></td>
-        <td valign="middle"><table width="780" border="0" cellspacing="0" cellpadding="4">
-          <tbody><tr>
-            <td width="154" class="txtheader">My IBackup </td>
-            <td width="154" class="txtheader">Products</td>
-            <td width="154" class="txtheader">Help / Support </td>
-            <td width="154" class="txtheader">Services</td>
-          </tr>
-          <tr>
-            <td valign="top" class="txtfooter"><a href="/qmanager/jsp/regterms_new.jsp" class="lnkfooter">Signup for an account</a><br>
-              <a href="charginghelp_new.htm" class="lnkfooter">View pricing plans</a><br> 
-              <a href="policy_new.htm" class="lnkfooter">Privacy statement</a><br>
-              <a href="license/terms_new.htm" class="lnkfooter">Terms of use</a><br>
-              <a href="license/licenses.htm" class="lnkfooter">Licenses</a><br>
-			              </td>
-            <td valign="top" class="txtfooter"><a href="ibackup-for-windows/" class="lnkfooter">IBackup for Windows</a><br>
-              <a href="ibackup-for-mac/" class="lnkfooter">IBackup for Mac</a><br>
-              <a href="online-storage-drive/" class="lnkfooter">IBackup Drive</a><br>
-              <a href="online-storage-mac/" class="lnkfooter">IBackup Drive for Mac</a><br>
-              <a href="online-backup-web-manager/" class="lnkfooter">Web-Manager</a><br>
-              <a href="online-storage-webfolders/" class="lnkfooter">WebFolders</a><br>
-              <a href="online-backup-sql-server/" class="lnkfooter">SQL Server Backup</a><br>
-              <a href="online-backup-exchange-server/" class="lnkfooter">Exchange Server Backup</a><br>
-              <a href="online-backup-oracle-server/" class="lnkfooter">Oracle Server Backup</a><br>
-              <a href="hot-sites/" class="lnkfooter">Hot Sites</a><br>
-              <a href="online-backup-linux/" class="lnkfooter">IBackup for Linux/Unix</a></td>
-            <td valign="top" class="txtfooter"><a href="online-backup-demo/" class="lnkfooter">View product demo</a> <br>
-              <a href="online-backup-faq/" class="lnkfooter">Read the FAQ's</a> <br>
-              <a href="online-backup-resources/" class="lnkfooter">Information library</a> <br>
-              <a href="feedback_new.htm" class="lnkfooter">Send feedback</a><br>
-              <a href="online-backup-company/" class="lnkfooter">About us</a><br>
-              <a href="online-backup-company/profile_contact_new.htm" class="lnkfooter">Contact information</a><br>
-			  <a href="online-backup-news/" class="lnkfooter">Press releases</a><br>
-                <a href="sitemap.htm" class="lnkfooter">Site map</a><br>
-                <br>            </td>
-            <td valign="top" class="txtfooter"><a href="online-backup/" class="lnkfooter">Online Backup</a><br>
-              <a href="online-backup-compliance/" class="lnkfooter">Business compliance</a><br>
-              <a href="online-backup-partners/" class="lnkfooter">Partner with us</a><br>
-<a href="ibackup-for-windows/ibackup_snap.htm" class="lnkfooter">Rapid Serve<br>
-</a></td>
-          </tr>
-        </tbody></table></td>
+
+        <td width="5"><img src="images/obk_spacer.gif" width="8" height="4" border="0"></td>
+
+        <td valign="middle"><img src="images/obk_spacer.gif" width="8" height="30"><br><table width="960" border="0" cellspacing="0" cellpadding="4">
+
+            <tbody><tr>
+              <td width="240" class="txtfoothead">My IBackup</td>
+
+              <td width="240" class="txtfoothead">Products</td>
+
+              <td width="240" class="txtfoothead">Help / Support </td>
+
+              <td width="240" class="txtfoothead">Services</td>
+
+            </tr>
+            <tr>
+              <td valign="top" class="txtfooter"><img src="images/obk_spacer.gif" width="8" height="5"></td>
+              <td valign="top" class="txtfooter"><img src="images/obk_spacer.gif" width="8" height="5"></td>
+              <td valign="top" class="txtfooter"><img src="images/obk_spacer.gif" width="8" height="5"></td>
+              <td valign="top" class="txtfooter"><img src="images/obk_spacer.gif" width="8" height="5"></td>
+            </tr>
+            <tr>
+              <td valign="top" class="txtfooter">
+              	<a href="/qmanager/jsp/regterms_new.jsp" class="lnkfooter">Sign up for an account</a>
+                <a href="charginghelp_new.htm" class="lnkfooter">View pricing plans</a>
+                <a href="policy_new.htm" class="lnkfooter">Privacy statement</a>
+                <a href="license/terms_new.htm" class="lnkfooter">Terms of use</a>
+                <a href="license/licenses.htm" class="lnkfooter">Licenses</a>
+                <a href="ibackup_advantage.htm" class="lnkfooter">IBackup Advantage</a>
+                <a href="online-backup-casestudy/testimonials.htm" class="lnkfooter">Testimonials</a></td>
+                
+              <td valign="top" class="txtfooter">
+              	<a href="ibackup-for-windows" class="lnkfooter">IBackup for Windows</a>
+                <a href="ibackup-for-mac" class="lnkfooter">IBackup for Mac</a>
+                <a href="online-storage-drive" class="lnkfooter">IBackup Drive</a>
+                <a href="online-storage-mac" class="lnkfooter">IBackup Drive for Mac</a>
+                <a href="online-backup-web-manager" class="lnkfooter">Web-Manager</a>
+                <a href="online-storage-webfolders" class="lnkfooter">WebFolders</a>
+                <a href="online-backup-sql-server" class="lnkfooter">SQL Server Backup</a>
+                <a href="online-backup-exchange-server" class="lnkfooter">Exchange Server Backup</a>
+                <a href="online-backup-oracle-server" class="lnkfooter">Oracle Server Backup</a>
+                <a href="hot-sites" class="lnkfooter">Hot Sites</a>
+                <a href="online-backup-linux" class="lnkfooter">IBackup for Linux/Unix</a></td>
+
+              <td valign="top" class="txtfooter">
+              	<a href="online-backup-demo" class="lnkfooter">View product demo</a>
+                <a href="online-backup-faq" class="lnkfooter">Read the FAQs</a>
+                <a href="online-backup-resources" class="lnkfooter">Information library</a>
+                <a href="feedback_new.htm" class="lnkfooter">Send feedback</a>
+                <a href="online-backup-company" class="lnkfooter">About us</a>
+                <a href="online-backup-company/profile_contact_new.htm" class="lnkfooter">Contact information</a>
+                <a href="online-backup-news" class="lnkfooter">Press releases</a>
+                <a href="online-backup-casestudy" class="lnkfooter">Case Studies</a>
+                <a href="sitemap.htm" class="lnkfooter">Site map</a></td>
+
+              <td valign="top" class="txtfooter">
+              	<a href="online-backup" class="lnkfooter">Online Backup</a>
+                <a href="online-backup-compliance" class="lnkfooter"> Business compliance</a>
+                <a href="online-backup-partners" class="lnkfooter">Partner with us</a>
+                <a href="ibackup-for-windows/ibackup_snap.htm" class="lnkfooter">Rapid Serve</a></td>
+            </tr>
+
+        </tbody></table><img src="images/obk_spacer.gif" width="8" height="20" border="0"><br></td>
+
         <td width="5" valign="top">&nbsp;</td>
+
       </tr>
+
     </tbody></table></td>
-  </tr>
-  <tr>
-    <td background="images/ibk_ftrline_btm.jpg"><img src="images/ibk_spacer.gif" width="8" height="2"></td>
-  </tr>
-  <tr>
-    <td background="images/ibk_ftrcolor.jpg"><table width="780" border="0" align="center" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td width="5"><img src="images/ibk_spacer.gif" width="4" height="70"></td>
-        <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
-          <tbody><tr>
-            <td width="500" valign="top"><span class="txtfooter"> Copyright © 1999-2009 Pro Softnet Corporation. All rights reserved.</span><br>
-                <br>
-                <span class="txtfooter"><a href="online-backup-company/" class="lnkfooter">About Us</a> | <a href="license/terms_new.htm" class="lnkfooter">Terms of Use</a> | <a href="policy_new.htm" class="lnkfooter">Privacy Policy</a> | <a href="sitemap.htm" class="lnkfooter">Site Map</a></span></td>
-            <td align="right" valign="top" class="txtfooterstrong">Quick guide to products, features...<br>
-              <br>
-              <span id="mainDropdown"><select name="select" size="1" onchange="namosw_goto_byselect(this, 'self')"><option selected="">Quick Guide</option><option value="/charginghelp_new.htm">Storage Plans</option><option value="/ibackup-for-windows/">IBackup for Windows</option><option value="/ibackup-for-mac/">IBackup for Mac</option><option value="/online-storage-drive/">IBackup Drive</option><option value="/online-backup-demo/tour_collaborate_new.htm">Sharing</option><option value="/online-storage-subaccounts/">Sub-Accounts</option><option value="/online-backup-sql-server/">MS SQL Server</option><option value="/online-backup-exchange-server/">Exchange Server</option><option value="/online-backup-oracle-server/">Oracle Server</option><option value="/online-storage-webfolders/">WebFolders</option><option value="/professional/">IBackup Professional</option><option value="/online-storage-mac/">IBackup Drive for Mac </option><option value="/ibackup-for-windows/ibackup_snap.htm">Rapid Serve</option><option value="/online-backup-linux/">Unix/Linux</option><option value="/online-backup-compliance/">Business Compliance</option><option value="/data_sheets.htm">Data sheets</option><option value="/online-backup-news/">News/Reviews</option></select></span>
-<script language="JavaScript" type="text/javascript">
-loadDrop();
-</script></td>
-          </tr>
-        </tbody></table></td>
-        <td width="5">&nbsp;</td>
-      </tr>
-    </tbody></table>    </td>
-  </tr>
-  <tr>
-    <td bgcolor="#666666"><img src="images/ibk_spacer.gif" width="4" height="8"></td>
+
   </tr>
 </tbody></table>
+<table id="footer_copy" width="100%" border="0" cellspacing="0" cellpadding="0" background="images/ib09_footer_bg.jpg" style="background-repeat:repeat-x; background-color:#b7d0e0;">
+  <tbody><tr>
 
-<!-- InstanceEnd --></body></html>
+    <td bgcolor="#1a1a1a"><table width="960" border="0" align="center" cellpadding="0" cellspacing="0">
+
+      <tbody><tr>
+
+        <td width="5"><img src="images/obk_spacer.gif" width="4" height="70"></td>
+        <td><table width="100%" border="0" align="center" cellpadding="2" cellspacing="0">
+
+            <tbody><tr>
+              <td width="500" valign="top"><span class="txtfooter"> Copyright © 1999-2010 Pro Softnet Corporation. All rights reserved.</span></td>
+
+              <td align="right" valign="top" class="txtfooterstrong"><span id="mainDropdown"><select name="select" size="1" onchange="namosw_goto_byselect(this, 'self')"><option selected="" value="#">Quick Guide</option><option value="/charginghelp_new.htm">Storage Plans</option><option value="/ibackup-for-windows/">IBackup for Windows</option><option value="/ibackup-for-mac/">IBackup for Mac</option><option value="/online-storage-drive/">IBackup Drive</option><option value="/online-backup-demo/tour_collaborate_new.htm">Sharing</option><option value="/online-storage-subaccounts/">Sub-Accounts</option><option value="/online-backup-sql-server/">MS SQL Server</option><option value="/online-backup-exchange-server/">Exchange Server</option><option value="/online-backup-oracle-server/">Oracle Server</option><option value="/online-backup-web-manager/">Web-Manager</option><option value="/online-storage-webfolders/">WebFolders</option><option value="/hot-sites/">Hot sites</option><option value="/professional/">IBackup Professional</option><option value="/online-storage-mac/">IBackup Drive for Mac </option><option value="/ibackup-for-windows/ibackup_snap.htm">Rapid Serve</option><option value="/online-backup-linux/">Unix/Linux</option><option value="/online-backup-compliance/">Business Compliance</option><option value="/data_sheets.htm">Data sheets</option><option value="/online-backup-news/">News/Reviews</option></select></span>
+				<script language="JavaScript" type="text/javascript">
+                loadDrop();
+                </script>
+				</td>
+            </tr>
+        </tbody></table></td>
+
+        <td width="5">&nbsp;</td>
+
+      </tr>
+
+    </tbody></table></td>
+
+  </tr>
+
+</tbody></table>
+
+<map name="Map" id="Map">
+  <area shape="rect" coords="67,277,207,398" href="online-backup-demo/index.html" alt="View Demo">
+</map>
+
+
+</body></html>
