@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504135822id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolchaser.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603034651id_/http%3A//www.coolchaser.com/message/private_policy) for the most accurate reproduction.*
 
 # Privacy Policy - CoolChaser
 
