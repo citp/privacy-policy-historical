@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2009-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090628193415id_/http%3A//www.pumpitupparty.com/pp-page.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603103530id_/http%3A//www.pumpitupparty.com/pp-page.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Pum It Up
 
@@ -26,11 +26,7 @@ Unless we hear from you otherwise, we'll email you occasional updates about new 
 
 ### Disclosures
 
-Your personal information registered in Pump It Up Birthday Club will be shared with our sister brand, Pump It Up Jr., and our affiliates who may need, for example, to reserve your parties, respond to your requests or inquiries, or help us improve our products or website. We require our affiliates to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions. Pump It Up reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
-
-### Disclosures
-
-Your personal information registered in Pump It Up Birthday Club will be shared with our sister brand, Pump It Up Jr., and our affiliates who may need, for example, to reserve your parties, respond to your requests or inquiries, or help us improve our products or website. We require our affiliates to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions. Pump It Up reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
+Your personal information registered in the Pump It Up Birthday Club will be shared with our sister brand, Pump It Up Jr., and our affiliates who may need, for example, to reserve your parties, respond to your requests or inquiries, or help us improve our products or website. We require our affiliates to respect our privacy practices and not use your personal information for purposes other than to carry out our instructions. Pump It Up reserves the right to use or disclose any information as needed to satisfy any law, regulation or legal request, to protect the integrity of the site, to fulfill your requests, or to cooperate in any law enforcement investigation or an investigation on a matter of public safety. 
 
 ### Company Sale
 
