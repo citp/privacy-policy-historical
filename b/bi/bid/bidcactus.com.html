@@ -1,0 +1,485 @@
+<!--The following is the downloaded HTML source of the bidcactus.com privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604010754id_/http%3A//www.bidcactus.com/policy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<title>Bid on Penny Auctions.  BidCactus.com</title>
+<meta name="description" content="BidCactus Entertainment Auctions offers brand new products at incredible discounts.  Save up to 90% on popular electronics.  Bid on discount gift cards.  Get Huge savings at Penny Auctions">
+<meta name="keywords" content="gift card,gift,bid,shopping,discount,electronics,nintendo,nintendo ds,auction,netbook,dslite,bidcactus">
+<link rel="stylesheet" type="text/css" href="yui/yui.css?v=2.8.0r4-2">
+<link rel="stylesheet" type="text/css" href="assets/skins/sam/button.css?v=2.8.0r4">
+<link rel="stylesheet" type="text/css" href="assets/skins/sam/container.css?v=2.8.0r4">
+<script type="text/javascript" src="yui/yui.js?v=2.8.0r4-2"></script>
+<meta http-equiv="Pragma" content="no-cache">
+<meta http-equiv="Expires" content="-1">
+<script src="js/bidcactus-min.js?v=12_16" type="text/javascript"></script>
+<link rel="stylesheet" type="text/css" href="css/bidcactus-min.css?02o">
+<script type="text/javascript">
+</script>
+</head>
+<body class="yui-skin-sam"><iframe id="_yuiResizeMonitor" title="Text Resize Monitor" style="position: absolute; visibility: visible; background-color: transparent; border-width: 0px; width: 2em; height: 2em; left: 0px; top: -27px;"></iframe>
+	<div id="doc4" class="yui-t2">
+		<div id="hd" style="background: url(http://images.bidcactus.com/header_bg.png) repeat-x;">
+			<script type="text/javascript">
+YAHOO.util.Event.onDOMReady(function () {
+	try
+	{
+		var params = {	version:9.0,
+						useExpressInstall: false,
+						fixedAttributes: { wmode:'opaque' }
+					 };
+		var hbswf = new YAHOO.widget.SWF("heartbeat", "/swf/heartbeat.swf?v=12_16", params);
+	} catch(ex)
+	{
+	}
+	setTimeout('InitHeartBeatTask()',7000);
+	if(typeof(onBidBalanceChange)!='undefined')
+		onBidBalanceChange.subscribe(SetHeaderBidBalance);
+});
+function SetHeaderBidBalance(type, args)
+{
+	sp = document.getElementById("headerbids");
+	if(sp)
+		sp.innerHTML = args[0];
+}
+
+
+function InitHeartBeatTask()
+{
+	setTimeout('HeartBeatTask()',3000);		// Defer call for 3 seconds.
+	url = "RegisterReferrer.php";
+	if(ref!="")
+		url += "?ref=" + ref;
+	callback = {
+		success: RegisterReferrerCallBack,
+		timeout: 10000,
+		cache: false
+	};
+	YAHOO.util.Connect.asyncRequest('GET', url, callback);
+}
+
+function logoutcallback()
+{
+	window.location="index.php";
+}
+
+function HeartBeatCallBack(xml)
+{
+}
+
+function RegisterReferrerCallBack(xml)
+{
+}
+
+function HeartBeatTask()
+{
+	url = "heartbeat.php?bdc=" + getResetBidCount();
+	callback = {
+		success: HeartBeatCallBack,
+		timeout: 10000,
+		cache: false
+	};
+	YAHOO.util.Connect.asyncRequest('GET', url, callback);
+
+	setTimeout('HeartBeatTask()',80500);		// check-in with server every 80.5 seconds
+}
+</script>
+<div id="topsection">
+	<div id="logo" style="background: url(http://images.bidcactus.com/logoMain2.png) no-repeat 0px 4px;" onclick="document.location='index.php'"></div>
+	<div id="headerRight" style="background-image: url(http://images.bidcactus.com/header_right.png)">
+		<div id="heartbeat" style="width: 1px; height: 1px"></div>
+	</div>
+	<div id="headeritems">
+		<div id="nav">
+			<a href="index.php" title="BidCactus - Online Auctions!">Live Auctions</a><span class="sep">|</span>
+			<a href="about.php" title="BidCactus - About Us">About Us</a><span class="sep">|</span>
+			<a href="info.php" title="BidCactus - How It Works!">How Bidcactus<span style="font-size: .7em; vertical-align: top">®</span> Works</a><span class="sep">|</span>
+			<a href="help.php" title="BidCactus - Faq's">FAQ's</a><span class="sep">|</span>
+			<a href="promotions.php" title="BidCactus - Promotions">Promotions</a><span class="sep">|</span>
+			<a href="categories.php" title="BidCactus - Categories">Categories</a><span class="sep">|</span>
+							<a id="redeemMenu" onclick="javascript: redeemLogin();" href="javascript: void(0);">Redeem Gift Certificate</a><span class="sep">|</span>
+				<a href="https://www.bidcactus.com/register.php" title="BidCactus - Register">Register</a>
+					</div>
+		<div id="headerLogin">
+						<form name="loginForm" method="post" action="https://www.bidcactus.com/performlogin.php" onsubmit="return checkLogin()" autocomplete="off">
+				Username: <input name="txtloginusername" class="loginInput">
+				Password: <input name="txtloginpassword" class="loginInput" type="password">
+				<input type="image" name="btnlogin" src="http://images.bidcactus.com/login_button.gif">
+			</form>
+					</div>
+	</div>
+	<div id="headerhelp">
+		<a href="cscontact.php">info@bidcactus.com</a> — Live Phone Support Monday through Friday 9am - 5pm EST at <span style="font-size: 14px; font-weight: bold; color: #114499">1-800-BID-8711</span>
+	</div>
+</div>
+		</div>
+		<div id="bd">
+			<div id="yui-main">
+				<div class="yui-b" id="pagebody">
+					<div id="privacypolicy" class="widgetGreen widgetMain">
+	<div class="widgetHeader">
+		<div class="widgetHeaderLeft"></div>
+		<div class="widgetHeaderRight"></div>
+		Privacy Policy
+	</div>
+	<div class="widgetContent">
+<a name="privacy"></a><p align="center"><u><strong>INTERNET PRIVACY POLICY<br>Bidcactus.COM</strong></u></p>
+<p>Bidcactus.COM ("Bidcactus," "Us," or "We") respects the privacy of every individual who visits our websites.  The following Privacy Policy outlines the information Bidcactus may collect and how we may use that information.</p>
+<p align="center"><u><strong>INFORMATION COLLECTED ABOUT YOU</strong></u></p>
+<ol class="termsList">
+	<li>
+    	<strong>Information Collected by Bidcactus or on Bidcactus's Behalf</strong>
+        <ol>
+            <li>
+                <u>In General</u><br>
+                Personally Identifiable Information (or Personal Information) is information that can be used to 
+                identify or contact you.  When you visit our Website, we collect only the Personal Information you provide to us. We 
+                collect the Personal Information that you provide to us in two general and distinct ways: (1) when you register, and (2) 
+                when you choose to use various Website Services or participate in surveys or send emails to us.<br><br>
+                We also collect non-personal information from you and about your use of our Website, emails, special promotions and newsletters 
+                that we send to you, and Websites of selected sponsors and advertisers. For example, we may use "cookies" or "web beacons" 
+                to collect non-personal information about your use of our site, selected sponsors' sites, or emails we send to you. Bidcactus 
+                does not store any Personal Information in any cookies on your computer. We do not use web beacons to collect any Personal 
+                Information from or about you or to track your activities across Websites generally. All of these are described in more detail below.
+            </li>
+            <li>
+                <u>Registration and Member Profile</u><br>
+                You may use our Website without registering or submitting any Personal Information. In that case, the only information we collect 
+                will be non-personal information collected through the use of cookies or web beacons (see details below). However, in order to 
+                have access to certain services and content available on our site you are required to complete a registration form. We use the 
+                Personal Information that you provide through registration to respond to questions from you and/or inform you of significant 
+                changes to this Privacy Policy. We may also use this information to send you emails with special promotions or newsletters with 
+                content that we think may be of interest to you. You can always opt-out of receiving such emails or unsubscribe to newsletters 
+                at the time you register or at any time.
+            </li>
+            <li>
+                <u>Interactive Tools</u><br>
+                Bidcactus collects information you provide voluntarily through responses to surveys, questionnaires and the like.
+            </li>
+            <li>
+                <u>Cookies</u><br>
+                Bidcactus collects anonymous, non-personal information about your use of our site and your use of emails, special promotions 
+                and newsletters that we send to you. For example, we collect non-personal information about your use of our site and your use 
+                of the sites of selected sponsors and advertisers through the use of Cookies. Cookies are small computer files that are 
+                transferred to your computer's hard drive and result in information regarding how often someone visits a site and the activities 
+                they conduct while on that site (such as the chatrooms visited, whether orders for products have been submitted, etc.). 
+                Every computer is assigned a different cookie by us. The information collected by cookies helps us dynamically generate 
+                advertising and content on web pages or in emails specifically designed for you and allows us to statistically monitor how 
+                many people are using our site and selected sponsors' and advertisers' sites, opening our emails, and for what purposes. We 
+                may use cookie information to target certain advertisements to your browser or to determine the popularity of certain content 
+                or advertisements.<br><br>
+                Your browser software can be set to reject all cookies. Most browsers offer instructions on how to reset the browser to reject 
+                cookies in the "Help" section of the toolbar. If you reject our cookie, certain of the functions and conveniences of our site 
+                may not work properly but you do not have to accept our cookie in order to productively use our site. While it may be possible 
+                to link non-personal cookie information to Personal Information collected in other ways, we want you to know that if you accept 
+                our cookie we will not, without your consent, link the cookie information we collect to Personal Information you provide to us on our site.
+            </li>
+            <li>
+                &nbsp;<u>Web Beacons</u><br>
+                In limited circumstances we also may use Web Beacons to collect anonymous, non-personal information about your use of our 
+                web site and the sites of selected sponsors and advertisers, and your use of emails, special promotions and newsletters we 
+                send to you. Web beacons are tiny graphic image files imbedded in a web page or email that provide a presence on the web page 
+                or email and send back to its home server information from the Users' browser. The information collected by web beacons allows 
+                us to statistically monitor how many people are using our site and selected sponsors' and advertisers' sites,  opening our 
+                emails, and for what purposes. Our web beacons are not used to track your activity across Websites generally. While it may 
+                be possible to link non-personal web beacon information to Personal Information collected in other ways, we want you to know 
+                that we will not, without your consent, link the web beacon information we collect to Personal Information you provide to us 
+                on our site.
+            </li>
+            <li>&nbsp;<u>E-mails and Newsletters</u><br>
+                Bidcactus may collect anonymous, non-personal information about your use of e-mails and newsletters that we send to you. In 
+                some cases, when you click on a link or an advertisement in an e-mail or newsletter, your browser may be momentarily directed 
+                to the site of a third party which, acting on our behalf (see <u>Disclosure to Website Service and Content Contractors</u>, below), 
+                notes or "counts" your response to the e-mail or newsletter before re-directing your browser to its proper destination; this 
+                re-direction process will not be apparent to you.
+            </li>
+		</ol>
+	</li>
+
+	<li>
+        <strong>Children</strong><br>
+        Bidcactus adheres to the Children's Online Privacy Protection Act of 1998 and the guidelines of the Children's Advertising Review 
+        Unit of the Council of Better Business Bureaus, Inc. in each of our Web sites. Parents can help by spending time online with 
+        children and monitoring children's online use. Please help us protect children's privacy by instructing them never to provide 
+        personal information on this site or any other without your permission.<br><br>
+        Bidcactus does not <u>collect</u> and keep any personal information from persons who Bidcactus actually knows are under 13 years of 
+        age.  
+	</li>
+	<li>
+        <strong>Public Forums</strong><br>
+        This Privacy Policy does not <u>protect</u> you when you use our public forums. You should be aware that any information shared in a 
+        chat room, bulletin board, posting or online discussion is public information and may be seen, disclosed to or collected by 
+        third parties that do not adhere to our Privacy Policy. You should think carefully before disclosing any personal information 
+        in any public forum.
+	</li>
+    <li>
+        <strong>Emails to Us</strong><br>
+        This Privacy Policy does not protect you when you send information, ideas, concepts or inventions to us by email, or to the various 
+        departments listed on the "Contact Us" link on our Website.  
+	</li>
+</ol>
+
+
+<p align="center"><strong><u>DISCLOSURE OF YOUR INFORMATION</u></strong></p>
+<p>Except as set forth in this Privacy <u>Policy</u> or as specifically agreed to by you, we will not disclose any Personal Information gathered from you on our Website. We may release Personal Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as a physical threat to you or others. </p>
+
+<ol class="termsList">
+	<li>
+    	<strong>Disclosure to Operations and Maintenance Contractors</strong><br>
+		Our operations and maintenance contractors sometimes have limited access to your Personal Information in the course of providing 
+		products or services to us. These contractors include vendors and suppliers that provide us with technology, services, and/or 
+		content related to <u>better</u> operation and maintenance of our Website. These contractors also may have access to your email address 
+		to send newsletters or special promotions to you on our behalf or to send emails to you for purposes such as conducting market 
+		research on our behalf. Access to your Personal Information by these contractors is limited to the information reasonably 
+		necessary in order for the contractor to perform its limited function for us. 
+	</li>
+	<li>
+    	<strong>Disclosure to Website Service and Content Contractors</strong><br>
+		Certain content and services <u>offered</u> to you through our Website are served on Websites hosted and operated by a company other than Bidcactus ("Third Party Contractor Websites"). Bidcactus does not disclose your Personal Information to these Third Party Contractor Websites without your consent, but you should be aware that any information you disclose once you access these other sites is not subject to this Privacy Policy. Bidcactus does not endorse and is not responsible for the privacy practices of these Third Party Contractor Websites. You should review the privacy policy posted on the other site to understand how that Third Party Contractor Website collects and uses your Personal Information. Bidcactus makes an effort to make it obvious to you when you leave our Website and enter a Third Party Contractor Website, either by requiring you to click on a link or by notifying you on the site. 
+	</li>
+	<li>
+    	<strong>Disclosure of Aggregate Information</strong><br>
+		We may provide to third parties non-personal information about you that does not allow you to be identified or contacted and that is combined with the non-personal information of other users. For example, we might inform third parties regarding the number of users of our site and the activities they conduct while on our site. Depending on the circumstances, we may or may not charge third parties for this Aggregate Information.
+	</li>
+</ol>
+
+<p align="center"><strong><u>General Matters</u></strong></p>
+<p>You should be aware that it is not technologically possible to remove each and every record of the information you have 
+provided to us from our servers. The need to back-up our systems to protect information from inadvertent loss means that a 
+copy of your Personal Information may exist in a non-erasable form that will be difficult or impossible for us to locate. 
+Nevertheless, we promise that upon receiving your request, all Personal Information stored in the databases we actively use 
+for research and daily business activities, and other readily searchable media, will be deleted.</p>
+<p>Privacy as it applies to the Internet is a dynamic, rapidly developing area. In the future, we may make significant changes 
+to our Privacy Policy affecting the use of the Personal Information we collect. We may also make non-significant changes to 
+our Privacy Policy that generally will not affect our use of your Personal Information and we generally will not notify you 
+of these non-significant changes. You should check this posted Privacy Policy for any non-significant changes. If you do not 
+agree to the terms of this Privacy Policy or any revised policy, please exit the site immediately.</p>
+<p>This site and the servers that make this site available are located in the United States. By using this site you agree to 
+the transfer, collection, processing and use of data by this site as outlined in this Privacy Policy.</p>
+<p>Please note that the terms of this Privacy Policy do not and will not apply in the event of Bidcactus's bankruptcy, 
+dissolution, sale, merger or other similar corporate event.</p>
+<p>If you have any questions regarding the Privacy Policy please do not hesitate to contact us at <a href="mailto:privacy@Bidcactus.com">privacy@Bidcactus.com</a>.</p> 
+
+	</div>
+</div>
+				</div>
+			</div>
+			<div class="yui-b" id="sideItems">
+					<div class="sidebarWidget">
+		<div id="auctionswonwidget" class="widgetBlue">
+	<div class="widgetHeader">
+		<div class="widgetHeaderLeft"></div>
+		<div class="widgetHeaderRight"></div>
+		Auctions Won
+	</div>
+	<div class="widgetContent">
+		<iframe src="http://widgets.bidcactus.com/AuctionsWon.php" width="100%" height="255px" scrolling="vertical" frameborder="0">
+		</iframe>
+	</div>
+</div>	</div>
+	<div class="sidebarWidget">
+		<div id="howtobidwidget" class="widgetBlue">
+	<div class="widgetHeader">
+		<div class="widgetHeaderLeft"></div>
+		<div class="widgetHeaderRight"></div>
+		How to Bid!
+	</div>
+	<div class="widgetContent" style="background: url(http://images.bidcactus.com/registerNowCTABG.jpg) top center no-repeat;">
+		<strong>Auction Entertainment<br>at Bidcactus is<br>Easy and Fun!<br></strong>
+		<ul class="registerSteps">
+			<li class="registerStepOne"><a href="https://www.bidcactus.com/register.php">Register</a></li>
+			<li class="registerStepTwo"><a href="https://www.bidcactus.com/register.php">Buy Bids</a></li>
+			<li class="registerStepThree"><span>Bid on Items</span></li>
+			<li class="registerStepFour"><span>Win</span></li>
+		</ul>
+		<strong class="getStartedB">Get Started Now!</strong>
+		<a href="https://www.bidcactus.com/register.php" class="sideButn RegisterNowLink">Register Now</a>
+	</div>
+</div>	</div>
+			</div>
+		</div>
+		<div id="ft">
+			<style type="text/css">
+	#ftul,#ftbl,#ftur,#ftbr { background-image: url(http://images.bidcactus.com/ftborder.png); }
+</style>
+<div id="relFooter">
+		<hr class="footerhr">
+	Return Policy: If you are not satisfied with any auction item you have purchased,  you may return it for a full refund within 7 days, unused and in its original package.  Please note: all bidpacks are non-refundable.<br>
+	<div id="footerbox">
+		<div id="ftul"></div>
+		<div id="ftbl"></div>
+		<div id="ftur"></div>
+		<div id="ftbr"></div>
+		<table style="margin: 0 auto" width="94%">
+			<tbody><tr style="height: 10px"><td></td></tr>
+			<tr>
+				<td width="106px">
+					<a target="_blank" href="http://images.bidcactus.com/bidcactus-ernst-young-report.pdf">
+						<img style="margin: 0 10px 0 10px" title="Click to read Ernst &amp; Young's report on Bidcactus." src="http://images.bidcactus.com/e-and-y-logo-03.gif" alt="Click to read Ernst &amp; Young's report on Bidcactus.">
+					</a>
+					<a target="_blank" style="color:black;" href="http://images.bidcactus.com/bidcactus-ernst-young-report.pdf">View Report</a>
+				</td>
+                <td>
+					<a target="_blank" href="https://www.bbb.org/online/consumer/cks.aspx?id=110050610157">
+						<img style="margin: 0 10px 0 10px" title="Click to verify BBB accreditation and to see a BBB report." border="0" src="http://images.bidcactus.com/bbbseal.gif" alt="Click to verify BBB accreditation and to see a BBB report.">
+					</a>
+				</td>
+				<td>
+					<a href="seal.php"><img src="http://images.bidcactus.com/seal.gif" style="width: 73px"></a>
+				</td>
+				<td width="90">
+				 <!-- (c) 2005, 2009. Authorize.Net is a registered trademark of CyberSource Corporation --> <div class="AuthorizeNetSeal"> <script type="text/javascript" language="javascript">var ANS_customer_id="c6349146-11be-4474-ba87-a1d77ba6aac2";</script> <script type="text/javascript" language="javascript" src="//verify.authorize.net/anetseal/seal.js"></script> <a href="http://www.authorize.net/" id="AuthorizeNetText" target="_blank">Accept Online Payments</a> </div>
+				</td>
+				<td style="vertical-align: top; padding-top: 6px">
+					<script type="text/javascript">
+						document.write('<!-- Begin Official PayPal Seal --><a id="paypalseal" href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"></a><!-- End Official PayPal Seal -->');
+						YAHOO.util.Event.onDOMReady(function() {
+							setTimeout(function() {
+
+								pp = document.getElementById("paypalseal");
+								if(pp) {
+									pp.innerHTML = '<img alt="PayPal" style="width: 75px" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal">';
+								}
+							}, 5);
+						});
+					</script><!-- Begin Official PayPal Seal --><a id="paypalseal" href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"><img alt="PayPal" style="width: 75px" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0"></a><!-- End Official PayPal Seal -->
+					<noscript>
+					<!-- Begin Official PayPal Seal --><a href="https://www.paypal.com/us/verified/pal=payments%40bidcactus%2ecom" target="_blank"><img style="width: 75px" src="https://www.paypal.com/en_US/i/icon/verification_seal.gif" border="0" alt="Official PayPal Seal"></a><!-- End Official PayPal Seal -->
+					</noscript>
+				</td>
+				<td>
+					<table id="pmtmethods" border="0" cellpadding="1" cellspacing="1" align="center">
+						<tbody><tr>
+							<td>Payment Options: </td>
+						</tr>
+						<tr>
+							<td>
+								<img src="http://images.bidcactus.com/payment.gif">
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+				<td width="150">
+					<table id="follow" border="0" cellpadding="1" cellspacing="1" align="center">
+						<tbody><tr>
+							<td>Follow us on:</td>
+						</tr>
+						<tr>
+							<td>
+								<a href="http://twitter.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/twitter_32.png" border="0"></a>
+								<a href="http://www.facebook.com/bidcactus" target="_blank"><img src="http://images.bidcactus.com/facebook_32.png" border="0"></a>
+								<a href="http://www.youtube.com/user/BidCactus" target="_blank"><img src="http://images.bidcactus.com/youtube_32.png" border="0"></a>
+								<a href="mailto:?subject=Penny Auctions at Bidcactus.com&amp;body=http://www.bidcactus.com"><img src="http://images.bidcactus.com/email_32.png" border="0"></a>
+							</td>
+						</tr>
+					</tbody></table>
+				</td>
+			</tr>
+		</tbody></table>
+	</div>
+	<div style="text-align:center;margin:14px 0 50px;">
+		<a target="_blank" href="terms.php">Terms &amp; Conditions</a> | <a target="_blank" href="policy.php">Privacy Policy</a><br>
+		Copyright © 2010. All Rights Reserved.
+	</div>
+</div>		</div>
+	</div>
+	<input type="hidden" name="loginuser" id="loginuser" value="">
+	<input type="hidden" name="loginpid" id="loginpid" value="0">
+	<input type="hidden" name="bidbalance" id="bidbalance" value="-1">
+<div id="transGray">&nbsp;</div>
+<div id="popWrapper">
+		<div id="popWin">
+			<div id="popWinBody">
+				<div id="popWinContent">
+					<div id="poplogo"><img src="http://images.bidcactus.com/logo_small_blue.png" alt="BidCactus" width="90" height="53" border="0"></div>
+                    <div id="popLoginError"><strong>Sorry, you must have an account with bidcactus to bid.</strong> Please login or if you do not have an account please <a href="register.php">click here to register</a>.</div>
+					<div id="popLogin">
+						<form name="winloginForm" method="post" action="https://www.bidcactus.com/performlogin.php" onsubmit="return checkwinLogin()" autocomplete="off">
+                            <p>
+                                <label for="txtloginusername">Username:</label>
+                                <input name="txtloginusername" class="loginInput">
+							</p>
+                            <p>
+                                <label for="txtloginpassword">Password:</label>
+                                <input name="txtloginpassword" class="loginInput" type="password">
+                                <input type="submit" name="btnlogin2" value="Login">
+                            </p>
+						</form>
+
+						<form name="winemailForm" method="post" action="/policy.php" onsubmit="return checkwinEmail()">
+							<p class="forgotPWTxt"><strong>Forgot your username or password?</strong>  Enter your email address below and we'll send
+							you the information you need to login.</p>
+
+							<p>
+							<span id="popEmailJS">Please Enter a Valid Email Address</span>
+							<label for="txtforgotemail">Email:</label>
+                            <input name="txtforgotemail" class="loginInput">
+							<input type="submit" name="btnlogin1" value="Send">
+                            </p>
+						</form>
+					</div>
+					<div id="popWinJS"></div>
+					<div id="popWinJScontent"></div>
+				</div>
+			</div>
+			<div id="popWinClose"><a href="#" onclick="document.getElementById('popWrapper').style.display='none';document.getElementById('transGray').style.display = 'none';"><img src="http://images.bidcactus.com/close.png" alt="Close" width="81" height="19" border="0"></a></div>
+		</div>
+</div>
+
+<div id="dlgContainer" class="yui-skin-sam">
+<div class="yui-panel-container yui-dialog yui-overlay-hidden shadow" id="dlgRedeem_c" style="visibility: hidden; left: 507px; top: 306px; z-index: 2;"><div id="dlgRedeem" class="yui-module yui-overlay yui-panel" style="visibility: inherit; width: 350px;">
+	<div class="hd" id="dlgRedeem_h" style="cursor: move;">Redeem Coupon Code</div>
+	<div class="bd">
+		<p>Please enter the coupon code exactly as it was given to you.  The code should be two groups of four characters separated by a hyphen.</p>
+		<p>Example: <b>ABCD-1234</b></p>
+		<form method="POST" action="redeemCode.php">
+			<label for="giftcode">Coupon Code:</label>
+			<input type="textbox" id="giftcode" name="giftcode" maxlength="9">
+		</form>
+	</div>
+<a class="container-close" href="#">Close</a><div class="ft"><span class="button-group"><span id="yui-gen0" class="yui-button yui-push-button default"><span class="first-child"><button type="button" id="yui-gen0-button">Submit</button></span></span><span id="yui-gen1" class="yui-button yui-push-button"><span class="first-child"><button type="button" id="yui-gen1-button">Cancel</button></span></span></span></div></div></div>
+</div>
+<div style="display:none"><script type="text/javascript">
+YAHOO.util.Event.onDOMReady(function() {
+  setTimeout(function() {
+    YAHOO.util.Get.script("https://www.csm-secure.com/Scripts/ClickTracking.js", {
+	  onSuccess: function() {
+        _clientID = "54";
+        _expiryDays = 90;
+		try {
+          TrackPage();
+	    } catch(err) {}
+      }
+	});
+  }, 1500);
+});
+</script><script type="text/javascript">
+YAHOO.util.Event.onDOMReady(function() {
+  setTimeout(function() {
+    _qoptions={
+      qacct:"p-c3y1HCwD1B9Vc"
+    };
+    YAHOO.util.Get.script("http://edge.quantserve.com/quant.js");
+  }, 1500);
+});
+</script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-c3y1HCwD1B9Vc.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript><script type="text/javascript">
+    function _gaTrackPage(){
+        try {
+              var pageTracker = _gat._getTracker("UA-7603261-1");
+              pageTracker._trackPageview();
+        } catch(err) {}
+    }
+
+    YAHOO.util.Event.onDOMReady(function() {
+      setTimeout(function() {
+        if(typeof(_gat)!='object'){
+            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+            YAHOO.util.Get.script(gaJsHost + "google-analytics.com/ga.js", {onSuccess: _gaTrackPage});
+        }else{_gaTrackPage();}
+      }, 1500);
+    });
+</script></div>
+
+</body></html>
