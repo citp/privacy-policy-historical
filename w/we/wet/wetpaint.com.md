@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621133153id_/http%3A//www.wetpaint.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetpaint.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603201608id_/http%3A//www.wetpaint.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy - Wetpaint
 
@@ -53,7 +53,7 @@ Personal information does not include “aggregate” information. Aggregate inf
 
 ## Sharing of Personal Information
 
-We do not sell, rent or share personal information with third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. 
+We do not sell, rent or share personal information with unaffiliated third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. 
 
 We also reserve the right to disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to prevent or protect our users from fraudulent, abusive, or unlawful use of our Sites; to ensure the security of our network and services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay. 
 
