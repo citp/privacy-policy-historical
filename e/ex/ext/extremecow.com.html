@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the extremecow.com privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202045133id_/http%3A//www.extremecow.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the extremecow.com privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603230624id_/http%3A//www.extremecow.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<title> -  :: Extreme Cow Answers</title>
@@ -66,17 +66,19 @@
     <tbody><tr>
       <td align="center" style="padding-left:180px;" width="100%">
       
-      
+      <br>
+
+
 <form action="http://www.google.com/cse" id="cse-search-box">
   <div>
-    <input type="hidden" name="cx" value="partner-pub-8917950167310020:c4kxqivt25f">
+    <input type="hidden" name="cx" value="partner-pub-8917950167310020:69qe5yp3vjz">
     <input type="hidden" name="ie" value="ISO-8859-1">
     <input type="text" name="q" size="31">
     <input type="submit" name="sa" value="Search">
   </div>
 </form>
+<script type="text/javascript" src="http://www.google.com/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
 
       </td>
      </tr>
@@ -149,6 +151,9 @@ function getMouseXY(e) {
   return true
 }
 
+var buthtml="";
+var savebuthtml;
+var returnres;
 
 function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     var xmlHttpReq = false;
@@ -166,8 +171,9 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     self.xmlHttpReq.onreadystatechange = function() {
         if (self.xmlHttpReq.readyState == 4) {
 		if (SpanName.length==0) {
-			alert(self.xmlHttpReq.responseText);
+			returnres=self.xmlHttpReq.responseText;
 		} else {
+            	//document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText.replace("{newform}",unescape(gnewform)); //this global variable isnt defined on home page so if you reuse you must add this global to homepage somehow
             	document.getElementById(SpanName).innerHTML = self.xmlHttpReq.responseText;
 			if (buthtml.length>0) {
 				document.getElementById("rbut").innerHTML=buthtml;
@@ -178,9 +184,16 @@ function xmlhttpPost(strURL,strQRY,SpanName,Async) {
     }
     self.xmlHttpReq.send(strQRY);
 }
-var buthtml;
-var savebuthtml;
-function doaddnewq(id,rid) {
+
+function doaddnewq(mode,id,rid) {
+if (mode=='subscribe'){
+	var qstr = "user_name="+escape(rid.newuser_name.value);
+	//qstr=qstr+"&userf_name="+escape(rid.newuserf_name.value);
+	//qstr = qstr + "&userl_name="+escape(rid.newuserl_name.value);
+	qstr = qstr + "&usere_add="+escape(rid.newusere_add.value)+"&question_ID="+id;
+	xmlhttpPost("saveanswer.php?"+qstr,"","addnewqbut",true);
+
+}else {
 	var rform = document.getElementById(id);
 	if (rform.title.value.length<30) {
 		alert("Your question is too short.");
@@ -190,86 +203,306 @@ function doaddnewq(id,rid) {
 			alert("Not enough detail.  Include more details in the question detail box.");
 			rform.newtext.focus();
 		} else {
-			buthtml = document.getElementById("rbut").innerHTML;
-			document.getElementById("rbut").innerHTML = "<b>Saving.... Please wait....</b>";
-			var qstr = "title=" + encodeURI(rform.title.value)+"&newtext=" + encodeURI(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
-			xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
+			buthtml = document.getElementById("addnewqbut").innerHTML;
+			document.getElementById("addnewqbut").innerHTML = "<b>Saving.... Please wait....</b>";
+			var qstr = "title=" + escape(rform.title.value)+"&newtext=" + escape(rform.newtext.value)+"&txy="+(tempX+tempY)+"&cmd="+rid;
+			//document.getElementById("qsubuser").innerHTML = "<H2 class=header>Subscribe Below:<br><br></H2>";
+			//xmlhttpPost("saveanswer.php",qstr,"res"+id,true);
+			xmlhttpPost("saveanswer.php",qstr,"addnewqbut",true);
 		}
 	}
 }
+}
+
+function dologin(id,pass) {
+	var qstr = "uid=" + escape(id.value)+"&pass=" + escape(pass.value)+"&txy="+(tempX+tempY)+"&cmd=login";
+	xmlhttpPost("saveanswer.php",qstr,"passres",false);
+	return (document.getElementById("passres").innerHTML=="");
+}
+
+function sendpass(email) {
+	var qstr = "email=" + escape(email)+"&txy="+(tempX+tempY)+"&cmd=recoverpass";
+	xmlhttpPost("saveanswer.php",qstr,"lostpassform",true);
+}
+
+function lostpass() {
+	var fhtml="";
+	var remail="";
+	fhtml+="<div id=lostpassform><form name=forgotpass>";
+
+        fhtml+="                        <br><div style=\"font-weight:bold;text-align:center;color:green;font-size:14px\">Lost Password?<br>Enter your email address:</div> ";
+        fhtml+="                        <div style=\"text-align:left;padding-left:20px;padding-right:20px;font-size:12px\">	";
+        fhtml+="                        <br>Email:<br><input type=\"text\" name=\"email\" size=24 onchange=\"remail=this.value\"><br>		";
+        fhtml+="                        <input type=\"submit\" name=\"recoverpass\" value=\"Recover Password\" onClick=\"javascript:sendpass(remail);return false;\"><br>		";
+        fhtml+="                        </div>	";
+
+	fhtml+="</form></div>";
+	document.getElementById("loginform").innerHTML=fhtml;
+}
+
+
+var gpass1;
+var gpass2;
+function checkpass(p1,p2) {
+        var rc=true;
+        if (p1=="") p1=gpass1;
+        if (p2=="") p2=gpass2;
+        if (p1!=p2) {
+                alert("The passwords you typed do not match.  Please retype your passwords.");
+                rc=false;
+        } else {
+                if (p1.length<5) {
+                        alert("Your password is too short.");
+                        rc=false;
+                }
+        }
+        return rc;
+}
+
+
+function savenewuser(uid, uqid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(form.newuser_name.value)+"&usere_add="+escape(form.newusere_add.value)+"&pass="+escape(form.newuserpass1.value)+"&question_ID="+uqid,"spanres"+uid,true);
+}
+
+function subscribeuser(qid,uid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","qid="+qid+"&uid="+uid+"&cmd=subscribeuser","spanabuse",true);
+}
+var guser;
+var gemail;
+
+
+function adduser(uid,qid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(guser)+"&usere_add="+escape(gemail)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&cmd=adduser","spanabuse",true);
+}
+function savenewadduser(aid,qid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","user_name="+escape(guser)+"&usere_add="+escape(gemail)+"&question_ID="+qid+"&pass="+escape(gpass1)+"&aid="+aid+"&cmd=adduser","savenewadduser",true);
+}
+
+function unsubscribeuser(qid,uid,form) {
+        xmlhttpPost(prevdir+"saveanswer.php","qid="+qid+"&uid="+uid+"&cmd=unsubscribeuser","spanabuse",true);
+}
+</script>
+<script>
+
+function swaporder(dname1,dname2) {
+	var d1=document.getElementById(dname1);
+	var d2=document.getElementById(dname2);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+}
+
+var hfirst="";
+function setorder(dname1,dname2,dfirst) {
+   if(hfirst=="") {
+	hfirst=dname1;
+   }
+   if(dfirst!=hfirst) {
+	document.getElementById("current").id="tempid";
+	document.getElementById("notcurrent").id="current";
+	document.getElementById("tempid").id="notcurrent";
+
+	var d1=document.getElementById(dname1);
+	var d2=document.getElementById(dname2);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+	if (hfirst==dname1) {
+		hfirst=dname2;
+	} else {
+		hfirst=dname1;
+	}
+   }
+}
+var curtop="";
+function choose_tab(firstdiv,newtop) {
+   if(curtop=="") {
+	curtop=firstdiv;
+   }
+//alert("curtop="+curtop+" newtop="+newtop);
+   if(curtop!=newtop) {
+
+	//we need to swap curtop and newtop
+	var d1=document.getElementById(curtop);
+	var d2=document.getElementById(newtop);
+	var temp = d1.innerHTML;
+	d1.innerHTML=d2.innerHTML;
+	d2.innerHTML=temp;
+	
+	//contents of div moved so now lets move ids to match
+	temp=d1.id;
+	d1.id=d2.id;
+	d2.id=temp;
+
+	//now we need to set show user correct tab in front
+	document.getElementById(newtop+"div").innerHTML=document.getElementById(newtop+"div").innerHTML.replace("notcurrent","current");
+	document.getElementById(curtop+"div").innerHTML=document.getElementById(curtop+"div").innerHTML.replace("current","notcurrent");
+
+	curtop=newtop;
+   }
+}
+
+// To Validate the Email
+function IsEmail(obj, msgstr)
+{
+        if(obj.value.trim() == "")
+        {
+                alert(msgstr);
+                obj.focus();
+                return false;
+        }
+        else
+        {
+            if(obj.value.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1)
+            return true;
+            else
+                {
+                        alert("Email is invalid" );
+                        obj.focus();
+            return false;
+                }
+        }
+}
+
+
+function IsBlank(obj,msg) {
+                if(obj.value.trim() == "") {
+                        alert(msg);
+                        obj.focus();
+                        return false;
+                }
+                return true;
+}
+
+function frontcreateaccount() {
+        if(!IsBlank(document.frmCrRegister.txtfname,"Please Enter First Name"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtlname,"Please Enter Last Name"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtmail,"Please Enter Email Addres"))
+                return false;
+        if(!IsEmail(document.frmCrRegister.txtmail,"Invalid Email Addres"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtuname,"Please Enter Username"))
+                return false;
+        if(!IsBlank(document.frmCrRegister.txtpassword,"Please Enter Password"))
+                return false;
+        if(document.frmCrRegister.txtpassword.value!=document.frmCrRegister.txtRpassword.value){
+                alert("Please enter your password again and re-type it.");
+                document.frmCrRegister.txtpassword.value="";
+                document.frmCrRegister.txtRpassword.value="";
+                document.frmCrRegister.txtpassword.focus();
+                return false;
+        }
+	document.frmCrRegister.txy.value=tempX+tempY;  
+        return true;
+}
 
 </script>
-
+<link media="screen" href="css/tabs.css" type="text/css" rel="stylesheet">
 
 <div id="left">
+
         <div>
           <div id="y-ks-profile-widget">
-            <div id="y-ks-profile-widget-container">
+            <div id="y-ks-profile-widget-container" style="height:0px">
               <div class="corner-top">
                 <div class="corner-left"></div>
               </div>
-              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
-              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
-                <table cellspacing="0" cellpadding="0" border="0">
-                  <tbody>
-                    <tr>
-                      <td style="WIDTH: 60px"><img alt="Answers User" src="images//ptwidget_default_icon.gif"></td>
-                      <td style="FONT-SIZE: 105%; HEIGHT: 50px; TEXT-ALIGN: center" valign="absmiddle" align="middle">Ready to Participate?<br>
-                      <br>Ask your question now!</td>
-                    </tr>
-                  </tbody>
-                </table>
-              </div>
-            </div>
+	    </div>
+		 <div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;">
+			<div style="font-family:arial,helvetica,verdana;font-size:14px;font-weight:bold;color:green;padding:10px">Ask your question fast!<br>No signup necessary</div>
+			  <div style="text-align:left;padding-left:10px">
+				Question<br>
+				<form id="addq" action="">
+				<textarea id="title" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+				Question Detail (required)<br>
+				<textarea id="newtext" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
+				<div id="addnewqbut"><input id="addnewq" type="submit" name="submit" value="Save" onclick="javascript:rid=this.id;doaddnewq('','addq',rid);return false;"></div>
+				</form>
+		  	  </div>
+                 </div>
             <div class="corner-bottom">
               <div class="corner-left"></div>
             </div>
           </div>
         </div>
+
+
         <div>
           <div id="y-ks-profile-widget">
-            <div id="y-ks-profile-widget-container-login">
+            <div id="y-ks-profile-widget-container" style="height:0px">
               <div class="corner-top">
                 <div class="corner-left"></div>
               </div>
-              <div class="hide" id="y-ks-header-user-profile-widget-msg-2" style="Z-INDEX: 1001"></div>
-              <div class="show" id="y-ks-header-user-profile-widget-msg-1" style="Z-INDEX: 1002">
-              			<table cellpadding="3" cellspacing="0" border="0" width="80%" align="center">
-					<tbody><tr>
-					<td align="center"><strong></strong></td>
-				</tr>
-<tr>
-<td width="100%" align="left" class="tbltd" colspan="2" rowspan="1">
-<div style="font-weight:bold;color:green">Ask your question in just seconds!  No signup necessary.</div><br>Question<br>
-<form id="addq" action="">
-<textarea id="title" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
-Question Detail (required)<br>
-<textarea id="newtext" rows="1" style="width:200px;font-family:arial,helvetica,verdana;font-size:12px"></textarea><br>
-<div id="rbut"><input id="addnewq" type="submit" name="submit" value="Save" onclick="javascript:rid=this.id;doaddnewq('addq',rid);return false;">
-</div>
-</form>
-
-</td>
-</tr>
-
-
-</tbody></table>
-              </div>
             </div>
-<div id="resaddq" style="font-family:arial,helvetica,verdana;font-size:12px;text-align: center;"><br></div>
+
+
+
+
+				<div id="loginform">
+ 				<form name="frmLogin" id="frmLogin" action="" onsubmit="javascript:return(dologin(this.txtUsername,this.txtPassword));" method="post">
+				<br><div style="font-weight:bold;text-align:center;color:green;font-size:14px">Login or Signup Now</div>
+				<div style="text-align:left;padding-left:20px;padding-right:20px;font-size:12px">
+				<div id="passres" style="color:red"></div>
+                                <br>Username:<br><input type="text" name="txtUsername" size="24"><br>
+                                Password:<br><input type="password" name="txtPassword" size="24"><br>
+				<table border="0" cellspacing="0" cellpadding="0" width="100%"><tbody><tr><td style="text-align:left">
+                                <input type="submit" name="cmdLogin" value="Login"><br>
+				</td><td style="text-align:right">
+                                <a style="font-size:11px" href="createaccount.php">Create Account</a><br>
+                                <a style="font-size:11px" onclick="javascript:lostpass()">Lost Password</a>
+				</td></tr></tbody></table>
+				</div>
+                        	</form>
+				</div>
+	
+
             <div class="corner-bottom">
               <div class="corner-left"></div>
             </div>
           </div>
         </div>
-		   
-        <h2 class="header">Categories</h2>
+
+
+
+        <div>
+          <div id="y-ks-profile-widget">
+            <div id="y-ks-profile-widget-container" style="height:0px">
+              <div class="corner-top">
+                <div class="corner-left"></div>
+              </div>
+            </div>
+
+
+        <h2 class="header" style="border-top:0px">Categories</h2>
         <div id="categories">
         <div id="cat-undo">
         <ul>
-			        <br><br><b>B. </b><li style="display: inline;"><a class="subtle" href="Burst&#10;-cat.html">Burst
+			        <br><br><b>A. </b><li style="display: inline;"><a class="subtle" href="Auction&#10;-cat.html">Auction
+</a></li> <br><br><b>B. </b><li style="display: inline;"><a class="subtle" href="Boob&#10;-cat.html">Boob
+</a></li> <li style="display: inline;"><a class="subtle" href="Breast&#10;-cat.html">Breast
+</a></li> <li style="display: inline;"><a class="subtle" href="Breast_Cont.02&#10;-cat.html">Breast&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Burst&#10;-cat.html">Burst
 </a></li> <br><br><b>C. </b><li style="display: inline;"><a class="subtle" href="Canon&#10;-cat.html">Canon
-</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Insurance&#10;-cat.html">Insurance
+</a></li> <li style="display: inline;"><a class="subtle" href="Canon_Cont.02&#10;-cat.html">Canon&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Canon_Cont.03&#10;-cat.html">Canon&nbsp;Cont.03
+</a></li> <li style="display: inline;"><a class="subtle" href="Car&#10;-cat.html">Car
+</a></li> <li style="display: inline;"><a class="subtle" href="Cartridge&#10;-cat.html">Cartridge
+</a></li> <li style="display: inline;"><a class="subtle" href="Chest&#10;-cat.html">Chest
+</a></li> <br><br><b>D. </b><li style="display: inline;"><a class="subtle" href="Deal&#10;-cat.html">Deal
+</a></li> <br><br><b>E. </b><li style="display: inline;"><a class="subtle" href="Electricity&#10;-cat.html">Electricity
+</a></li> <br><br><b>H. </b><li style="display: inline;"><a class="subtle" href="Hit&#10;-cat.html">Hit
+</a></li> <li style="display: inline;"><a class="subtle" href="Hurt&#10;-cat.html">Hurt
+</a></li> <br><br><b>I. </b><li style="display: inline;"><a class="subtle" href="Implant&#10;-cat.html">Implant
+</a></li> <li style="display: inline;"><a class="subtle" href="Ink&#10;-cat.html">Ink
+</a></li> <li style="display: inline;"><a class="subtle" href="Insurance&#10;-cat.html">Insurance
+</a></li> <li style="display: inline;"><a class="subtle" href="Insurance_Cont.02&#10;-cat.html">Insurance&nbsp;Cont.02
+</a></li> <li style="display: inline;"><a class="subtle" href="Insurance_Cont.03&#10;-cat.html">Insurance&nbsp;Cont.03
+</a></li> <li style="display: inline;"><a class="subtle" href="Insured&#10;-cat.html">Insured
+</a></li> <br><br><b>K. </b><li style="display: inline;"><a class="subtle" href="Knife&#10;-cat.html">Knife
+</a></li> <br><br><b>L. </b><li style="display: inline;"><a class="subtle" href="License&#10;-cat.html">License
+</a></li> <br><br><b>M. </b><li style="display: inline;"><a class="subtle" href="Mcafee&#10;-cat.html">Mcafee
 </a></li> <br><br><b>N. </b><li style="display: inline;"><a class="subtle" href="Niagara&#10;-cat.html">Niagara
 </a></li> <li style="display: inline;"><a class="subtle" href="Niagra&#10;-cat.html">Niagra
 </a></li> <br><br><b>O. </b><li style="display: inline;"><a class="subtle" href="Other_1&#10;-cat.html">Other&nbsp;1
@@ -279,13 +512,34 @@ Question Detail (required)<br>
 </a></li> <li style="display: inline;"><a class="subtle" href="Other_5&#10;-cat.html">Other&nbsp;5
 </a></li> <br><br><b>P. </b><li style="display: inline;"><a class="subtle" href="Pain&#10;-cat.html">Pain
 </a></li> <li style="display: inline;"><a class="subtle" href="Police&#10;-cat.html">Police
+</a></li> <li style="display: inline;"><a class="subtle" href="Price&#10;-cat.html">Price
+</a></li> <br><br><b>R. </b><li style="display: inline;"><a class="subtle" href="Really&#10;-cat.html">Really
+</a></li> <li style="display: inline;"><a class="subtle" href="Refill&#10;-cat.html">Refill
+</a></li> <li style="display: inline;"><a class="subtle" href="Reset&#10;-cat.html">Reset
+</a></li> <li style="display: inline;"><a class="subtle" href="Ripley&#10;-cat.html">Ripley
 </a></li> <br><br><b>S. </b><li style="display: inline;"><a class="subtle" href="Security&#10;-cat.html">Security
+</a></li> <li style="display: inline;"><a class="subtle" href="Someone&#10;-cat.html">Someone
+</a></li> <br><br><b>T. </b><li style="display: inline;"><a class="subtle" href="Ticket&#10;-cat.html">Ticket
 </a></li> <br><br><b>U. </b><li style="display: inline;"><a class="subtle" href="Used&#10;-cat.html">Used
 </a></li> </ul>
-        </div>
-        </div>
-        <img height="1" alt="" src="images/b.gif" width="1">
-        </div>
+
+
+          </div>
+          </div>
+
+
+            <div class="corner-bottom">
+              <div class="corner-left"></div>
+            </div>
+          </div>
+          </div>
+          </div>
+
+
+
+
+
+
       
        	<div id="middle">
 				<div id="ks-homepage-heading">Contact Us </div>
@@ -293,31 +547,28 @@ Question Detail (required)<br>
 				
 
 				<div class="silk_hp_open" id="ks-homepage-questions">
-									<table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
-						<tbody>
-														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
-								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
-								<td class="info"><a href="http://xmediapartners.com/Diet_Pills-qna60.html">
-								<h2>GoFTP.com</h2>
-								</a><br>This is the web site of <b>GoFTP.com</b>.<br>
-<p>Our postal address is <br>
+									<p>Our postal address is <br>
 
 <b>400 CARLINGVIEW DR<br>
 Toronto, ON, M9W 5X9</b></p>
-We can be reached via e-mail at <a href="mailto:info@xmediapartners.com">info@GoFTP.com</a><br>
-or you can reach us by telephone at 416-884-8309<br>
-<p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p>
-<p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p>
-<p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p>
-<p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p>
+We can be reached via e-mail at <a href="mailto:admin@goftp.com">admin@goftp.com</a><br><p>For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).</p><p>We collect aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations for statistical analysis and analytics purposes only.</p><p>The information we collect from you when you sign up is only used to notifyyou about updates to our Web site, or , disclosed when legally required to do so, at the request of governmental authorities conducting an investigation, to verify or enforce compliance with the policies governing our Website and applicable laws or to protect against misuse or unauthorized use of our Website.</p><p>With respect to cookies: We do not set any cookies. </p><p>If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.</p><p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p><p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p><p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p><p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p><p><br>
+								  </p><table class="question-results" border="0" cellpadding="0" cellspacing="0" width="100%">
+						<tbody>
+														<tr class="question qrownorm" id="q_row_20071016212549AApTbGr">
+								<td class="image"><div><img src="contact_files/man.gif" border="0"></div></td>
 
-<p>With respect to Ad Servers: We attempt to display offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and clickstream information.  For further information, consult the privacy policies of:</p><p>From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice.  If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses, we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses.  If you are concerned about how your information is used, you should check back at our Web site periodically.</p>
-<p>Customers may prevent their information from being used for purposes other than those for which it was originally collected by e-mailing us at the above address or removing their user accounts.</p>
-<p>With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.</p>
-<p>If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.</p>
 
-								<p><br>
-								  </p></td>
+
+
+
+
+
+
+
+
+
+
+								
 							</tr>
 													</tbody>
 					</table>
