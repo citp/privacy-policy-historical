@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008114752id_/http%3A//www.cambridgema.gov/privacy_statement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridgema.gov privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603195406id_/http%3A//www.cambridgema.gov/privacy_statement.cfm) for the most accurate reproduction.*
 
 # City Of Cambridge - Disclaimer
 
