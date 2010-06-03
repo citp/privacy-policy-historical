@@ -1,20 +1,12 @@
-> *The following text is extracted and transformed from the extremecow.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202045133id_/http%3A//www.extremecow.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremecow.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603230624id_/http%3A//www.extremecow.com/privacy.php) for the most accurate reproduction.*
 
 # - :: Extreme Cow Answers
-
-[
-
-## GoFTP.com
-
-](http://xmediapartners.com/Diet_Pills-qna60.html)  
-This is the web site of **GoFTP.com**. 
 
 Our postal address is   
 **400 CARLINGVIEW DR  
 Toronto, ON, M9W 5X9**
 
-We can be reached via e-mail at [info@GoFTP.com](mailto:info@xmediapartners.com)  
-or you can reach us by telephone at 416-884-8309 
+We can be reached via e-mail at [admin@goftp.com](mailto:admin@goftp.com)
 
 For each visitor to our Web page, our Web server automatically recognizes the consumer's domain name and e-mail address (where possible).
 
