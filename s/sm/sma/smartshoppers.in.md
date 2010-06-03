@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027032217id_/http%3A//www.smartshoppers.in/index.php%3Fukey%3Dauxpage_5) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartshoppers.in privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603202837id_/http%3A//smartshoppers.in/auxpage_5) for the most accurate reproduction.*
 
-# Privacy policy ― Smart Shoppers | Online Shopping India to buy Digital Camera, MP3 Players, Laptop, Mobile, apple ipods, Camcorders, pendrives, Storage Devices at Lowest prices at Smartshoppers
+# Privacy policy ― Smart Shoppers Deals with Digital Camera, Camera Lenses, SLR Digital Camera, Laptops, Ipod and Mobile Phones in India.
 
 **
 
