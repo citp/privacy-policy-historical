@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429004642id_/http%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603140426id_/http%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
-# The Sportsmans Outdoor Superstore
+# Sportsmans Outdoor Superstore - Where Sportsmen & Outdoors Meet.
 
 **Your Privacy**   
 At _The Sportsmans Outdoor Superstore_ , we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience. Please read on for more details about our privacy policy. 
