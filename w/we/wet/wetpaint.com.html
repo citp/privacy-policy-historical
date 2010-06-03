@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2009-06-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090621133153id_/http%3A//www.wetpaint.com/page/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wetpaint.com privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603201608id_/http%3A//www.wetpaint.com/page/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
 		<title>Privacy - Wetpaint</title>
-			<script src="/js/prototype.js?20090619151017" type="text/javascript"></script>
-		<script src="/js/effects.js?20090619151017" type="text/javascript"></script>
+			<script src="/js/prototype.js?20100602153717" type="text/javascript"></script>
+		<script src="/js/effects.js?20100602153717" type="text/javascript"></script>
 		
-		<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20090619151017"; /*]]>*/</style>	
-			<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/shared.css?20090619151017"; /*]]>*/</style>
+		<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/styles.css?20100602153717"; /*]]>*/</style>	
+			<style type="text/css" media="screen,projection,print">/*<![CDATA[*/ @import "/css/shared.css?20100602153717"; /*]]>*/</style>
 		
 		<script language="JavaScript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 
@@ -16,7 +16,8 @@
 		serviceId:'ca-pub-5526064907005908',
 		CYO_728x90:'CYO_728x90',
 		CYO_300x250:'CYO_300x250',
-		CYO_1x1:'CYO_1x1'
+		CYO_1x1:'CYO_1x1',
+		CYO_1x1_Extra:'CYO_1x1_Extra'
 	};
 	GS_googleAddAdSenseService(wp_ads.serviceId);
 	GS_googleEnableAllServices();
@@ -29,6 +30,8 @@
 	GA_googleAddSlot(wp_ads.serviceId, 'CYO_300x250');
 
 	GA_googleAddSlot(wp_ads.serviceId, 'CYO_1x1');
+
+	GA_googleAddSlot(wp_ads.serviceId, 'CYO_1x1_Extra');
 
 		
 	GA_googleAddAttr("Pageview","Page");
@@ -44,71 +47,22 @@
 		<div class="ads adsCYO_728x90">
 	<script type="text/javascript">
 		
-		if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.CYO_728x90);
+		if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.CYO_728x90);
 	</script> 
 </div>
 <div id="userHeader">
 	<div id="userBrand">
 	<div id="userCredentials">
 			<ul>
-				<li class="first" id="credentials_login"><a href="#signin" id="loginOpen">Sign in to Wetpaint<span class="logo">&nbsp;</span></a>
-							<div id="loginDiv" style="display:none;">
-	<div style=" border:1px solid #ADADAD; border-width:0px 1px; background:#FFF url(/img/signonFormBG.png) repeat-x top left; padding:10px; clear:both; line-height:1.4em">
-		<table cellpadding="0" cellspacing="0" width="100%" style="padding-bottom:.5em;"><tbody><tr>
-		<td align="left">
-			<div style="background:transparent url(/img/signonFormLogo.png) no-repeat center left; padding-left:25px; font-weight:bold; color:#000;">
-				Sign in to Wetpaint
-			</div>
-		</td><td align="right">
-			<div style="cursor:hand; height:16px; width:16px; background:transparent url(/img/signonClose.png) left 50% no-repeat;" id="loginClose"></div>
-		</td>
-		</tr></tbody></table>
-		<form id="signOnForm" name="signOnForm" method="post" action="/login" target="sso">
-		<table cellpadding="1" cellspacing="0">
-			<tbody><tr>
-				<td class="label">Username</td>
-				<td class="input" align="left"><input type="text" class="text" name="userName" id="userName" maxlength="50" style="width:150px;"></td>
-			</tr>
-			<tr>
-				<td class="label">Password</td>
-				<td class="input" align="left"><input type="password" class="text" name="password" id="password" maxlength="255" style="width:150px;"></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td class="input" align="left" valign="middle"><a href="http://www.wetpaintcentral.com/?WPC-action=lostPassword" tabindex="-1">Forgot your password?</a></td>
-			</tr>
-			<tr>
-				<td>&nbsp;</td>
-				<td class="input" align="left" valign="middle"><input type="checkbox" class="checkbox" name="rememberMe" id="rememberMe"><label for="rememberMe">Keep me signed in</label></td>
-			</tr>
-			<tr>
-				<td colspan="2"><div class="response" id="loginResponse"></div></td>
-			</tr>
-			<tr>
-				<td colspan="2" class="input" valign="middle" style="padding-top:.5em;">
-					<input type="submit" class="button" id="loginSubmit" value="sign in" style="margin:0"><div class="buttonEnd"></div>&nbsp;&nbsp;&nbsp;<a href="#Cancel" class="cancel" id="loginCancel">cancel</a>
-				</td>
-			</tr>
-		</tbody></table>
-		<input type="hidden" name="referer" id="referer" value="http://www.wetpaint.com:80/singleSignOnResponse">
-		<input type="hidden" name="singleSignOnServer" id="singleSignOnServer" value="http://www.wetpaint.com/auth">
-		</form>
-	</div>
-	<div style="background:#fff url(/img/signonFormCorners.png) no-repeat bottom left;padding-top:9px;"></div>
-	<div id="loginError" style="display:none;">We could not find an account with the username and password you provided. Please try again.</div>
-	<div id="signingIn" style="display:none;">Signing in...</div>
-	<iframe style="display:none;" id="sso" name="sso"></iframe>
-</div>
-</li>
+				<li class="first" id="credentials_login"><a href="https://login.wetpaint.com/login.do?lp=Z289aHR0cCUzQSUyRiUyRnd3dy53ZXRwYWludC5jb20lM0E4MA">Sign in to Wetpaint<span class="logo">&nbsp;</span></a></li>
 					</ul>
 		</div>
 		<div id="globalLinks">
-			<a href="/">Wetpaint Home</a> | <a href="/page/sites">Featured Wetpaint Sites</a> | <a href="/page/TVFandex">TV Fandex 100</a> 
+			<a href="/">Wetpaint Home</a> | <a href="/page/TVFandex">TV Fandex 100</a> 
 		</div>
 	</div>
 </div>
 
-<script src="/js/loginDropdown.js?20090619151017" type="text/javascript"></script>
 <div id="wrap">			
 					<div class="pageHeader">
 	
@@ -122,11 +76,8 @@
 		<div class="module_tl">
 			<div class="module_content">
 				<ul>
-					<li class="item1"><a href="/wiki?zone=globalNav"><span>Create a Free Website</span></a></li>
-					<li class="item2"><a href="/page/sites?zone=globalNav"><span>Popular Wetpaint Sites</span></a></li>
-					<li class="item3"><a href="/page/social-publishing?zone=globalNav"><span>Add Wetpaint to Your Site</span></a></li>
-					<li class="item4"><a href="http://www.wetpaintinjected.com?zone=globalNav"><span>Developer Resources</span></a></li>
-				</ul>
+					<li class="item4"><a href="/wiki?zone=globalNav"><span>Create a Free Website</span></a></li>
+					</ul>
 				<div class="clear"></div>
 			</div>
 		</div>
@@ -187,7 +138,7 @@ Personal information does not include “aggregate” information. Aggregate inf
 <br>
 <a name="sharing_personalinfo"></a>
 <br><h2>Sharing of Personal Information</h2>
-We do not sell, rent or share personal information with third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
+We do not sell, rent or share personal information with unaffiliated third parties without your prior consent, except in the limited circumstances described in this privacy policy. We share personal information with third-party vendors and contractors who assist us in performing internal functions necessary to operate our business. These functions may include, for example, analyzing data and providing marketing assistance. We require our third party vendors to only use the information for the purpose it was provided. We are not responsible for any additional information you provide directly to third parties, and we encourage you to become familiar with their practices before disclosing information directly to them.
 <br><br>
 We also reserve the right to disclose personal information when we believe it is appropriate to comply with the law (e.g., a lawful subpoena, warrant or court order); to enforce or apply this privacy policy or our other policies or agreements; to initiate, render, bill, and collect for amounts owed to us; to protect our or our users' rights, property or safety; to prevent or protect our users from fraudulent, abusive, or unlawful use of our Sites; to ensure the security of our network and services; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
 <br><br>
@@ -227,7 +178,7 @@ We welcome your feedback. If you have any comments or concerns about this privac
 			<div class="r_footerWrap">
 	<div class="row r_footer">
 		<div class="row_tr">
-			wetpaint.com, inc. © Sun Jun 21 08:31:53 CDT 2009<ul>
+			wetpaint.com, inc. © Thu Jun 03 15:16:07 CDT 2010<ul>
 				<li class="firstElement"><a href="/page/privacy">Privacy</a></li>
 				<li class="lastElement"><a href="/page/terms">Terms of Service</a></li>
 			</ul>
@@ -235,13 +186,11 @@ We welcome your feedback. If you have any comments or concerns about this privac
 		<div class="row_tl">
 			<ul>
 				<li class="firstElement"><a href="/page/about">About Wetpaint</a></li>
-				<li><a href="http://www.wetpaintfreshcoats.com">Wetpaint Blog</a></li>
 				<li><a href="http://press.wetpaint.com">Press Room</a></li>
 				<li><a href="http://www.wetpaint.com/page/Wetpaint-Premium-Services">Premium Services</a></li>
 				<li><a href="http://tbe.taleo.net/NA6/ats/careers/searchResults.jsp?org=WETPAINT&amp;cws=1">Jobs</a></li>
 				<li><a href="http://www.wetpaintcentral.com">Help</a></li>
 				<li><a href="http://wetpaintcentral.wetpaint.com/page/feedback">Feedback</a></li>
-				<li><a href="http://www.wetpaintinjected.com">Developer Resources</a></li>
 				<li><a href="/page/contact">Contact Us</a></li>
 			</ul>
 		</div>
@@ -249,31 +198,83 @@ We welcome your feedback. If you have any comments or concerns about this privac
 	<div class="clear">&nbsp;</div>
 </div>
 
-<script src="/js/tabbedModule.js?20090619151017" type="text/javascript"></script>
+<script src="/js/tabbedModule.js?20100602153717" type="text/javascript"></script>
 	<script type="text/javascript">
-	var s_account='wetpaintglobal,wetpaintcom,wetpainthome';
-</script>
-<script type="text/javascript" src="/js/omniture/s_w_code.js?20090619151017"></script>
-<script type="text/javascript">
-if (typeof(s_w) != 'undefined') {s_w.events='event1';s_w.pageName= location.hostname + ' - ' + document.title;s_w.server='b16';s_w.channel='';s_w.pageType='';s_w.prop1='www.wetpaint.com';s_w.prop2='';s_w.prop3='';s_w.prop4=location.hostname;s_w.prop5='';s_w.prop6='';s_w.eVar1='www.wetpaint.com';s_w.eVar2='';s_w.eVar3='';s_w.eVar4=location.hostname;s_w.eVar5='';s_w.eVar6='';s_w.eVar7='anonymous';s_w.state='';s_w.zip='';var s_w_code=s_w.t();if(s_w_code)document.write(s_w_code)}</script>
+	document.write(unescape("%3Cscript src='" + 
+			(("https:" == document.location.protocol) ? "https://ssl." : "http://www.") + 
+			"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 
+
+<script type="text/javascript">
+
+	try{
+		globalGaTracker = _gat._getTracker("UA-11780962-1");
+		globalGaTracker._setDomainName((function(){ var s = location.hostname.split('.') ; return [ [], s[s.length-2], s[ s.length-1 ] ].join('.')  })());	
+		globalGaTracker._addIgnoredRef(".wetpaint.com")		
+		globalGaTracker._setCustomVar(1,"MemberData",'N__anonymous__-__-',1)								
+		globalGaTracker._setCustomVar(4,"SiteName",'www',3)				
+		globalGaTracker._setCustomVar(5,"Category",'www',3)		
+		globalGaTracker._trackPageview();		
+	} catch(err) {}
+
+
+	try{
+		segmentGaTracker = _gat._getTracker("UA-11780962-2");
+		segmentGaTracker._setDomainName((function(){ var s = location.hostname.split('.') ; return [ [], s[s.length-2], s[ s.length-1 ] ].join('.')  })());	
+		segmentGaTracker._addIgnoredRef(".wetpaint.com")	
+		segmentGaTracker._trackPageview();
+	} catch(err) {}
+</script><script>
+	if(!window.WPC ){WPC={ Logger:{} }} 
+	WPC.Logger.LogToComscore = function(uiEvent) {
+		COMSCORE.beacon({
+			c1:WPC.Logger.ComscoreData.c1,
+			c2:"5916149",
+			c3:WPC.Logger.ComscoreData.c3,
+			c4:"",
+			c5:"",
+			c6:"",
+			c7:escape(document.location.href + (uiEvent ? ('#'+ uiEvent) : '') ),
+			c8:escape(document.title + (uiEvent || '') ),
+			c9:escape(document.referrer),
+			c10:escape(screen.width+'x'+screen.height)
+		});
+	};
+</script>
+<script type="text/javascript">
+		document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js'%3E%3C/script%3E"));
+	</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+	
+	<script type="text/javascript">
+		WPC.Logger.ComscoreData = { c1 : 2, c3 : 00001 }
+		WPC.Logger.LogToComscore();
+	</script>
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&c2=5916149&c3=00001&c4=&c5=&c6=&c15=&cj=1" alt="" />
+	</noscript>
+	
 <script type="text/javascript">
 _qoptions={ qacct:"p-c0xFC9HiPwWw-", labels: "Other"}
 </script>
 <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
 <noscript>
 <a href="http://www.quantcast.com/p-c0xFC9HiPwWw-" target="_blank"><img src="http://pixel.quantserve.com/pixel/p-c0xFC9HiPwWw-.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/></a>
-</noscript><!-- Server: b16 Build Version: rel-44-7 Build Date: 20090619151017 -->
+</noscript><!-- Server: b17 Build Version: rel-55-14-0 Build Date: 20100602153717 -->
 			
 <div style="height:auto; top:0; position:absolute;">
 			</div>
 
-		<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
-<script src="/scripts/wpjsPage/facebookConnect/p.js?v=20090619151017" type="text/javascript"></script>
-<div class="ads adsCYO_1x1">
+		<div class="ads adsCYO_1x1">
 	<script type="text/javascript">
 		
-		if (GA_googleFillSlot) GA_googleFillSlot(wp_ads.CYO_1x1);
+		if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.CYO_1x1);
+	</script> 
+</div>
+<div class="ads adsCYO_1x1_Extra">
+	<script type="text/javascript">
+		
+		if (window.GA_googleFillSlot) GA_googleFillSlot(wp_ads.CYO_1x1_Extra);
 	</script> 
 </div>
 
