@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202002920id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lensoftruth.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603212204id_/http%3A//www.lensoftruth.com/%3Fpage_id%3D5609) for the most accurate reproduction.*
 
 # Lens of Truth » Privacy Policy : Just telling the truth
 
@@ -27,6 +27,10 @@ Cookies are small digital signature files that are stored by your web browser th
 3rd party advertising companies may also use cookies for tracking purposes.
 
 You may be able to block cookies via your browser settings but this may prevent you from access to certain features of the website.
+
+You may also  opt out of an NAI member’s behavioral advertising program, simply click the link below and check the box that corresponds to the company from which you wish to opt out.
+
+[opt out.](http://www.networkadvertising.org/managing/opt_out.asp)
 
 ## Google Ads
 
