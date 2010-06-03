@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the retaggr.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801104034id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the retaggr.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603040228id_/http%3A//www.retaggr.com/Home/Privacy) for the most accurate reproduction.*
 
 # Retaggr - The Definitive Online Profile
 
