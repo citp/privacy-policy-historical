@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the servicemagic.co.uk privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414152609id_/http%3A//www.servicemagic.co.uk/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the servicemagic.co.uk privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603072008id_/http%3A//www.servicemagic.co.uk/privacy-policy.php) for the most accurate reproduction.*
 
 # ServiceMagic UK Privacy Policy
 
