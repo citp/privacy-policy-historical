@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the elistmania.com privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124004752id_/http%3A//www.elistmania.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elistmania.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603222845id_/http%3A//www.elistmania.com/general/privacy-policy.php) for the most accurate reproduction.*
 
-# e-ListMania: Home » Privacy Policy
+# e-ListMania: Home | Terms of Service
 
 When you visit EListMania you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.
 
