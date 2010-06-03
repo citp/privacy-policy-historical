@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kralix.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203101032id_/http%3A//www.kralix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kralix.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005503id_/http%3A//www.kralix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Watch Movies Online Free
 
-Browse >
-
-[Home](http://www.kralix.com/ "Browse to: Home") / Privacy Policy 
+## [Privacy Policy](http://www.kralix.com/privacy-policy/)
 
 I respect your privacy and I am committed to safeguarding your privacy while online at my site www.kralix.com . The following discloses the information gathering and dissemination practices for this Website.
 
