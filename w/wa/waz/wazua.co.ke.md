@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wazua.co.ke privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202131315id_/http%3A//www.wazua.co.ke/inner.aspx%3Fclm%3D8) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wazua.co.ke privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603031027id_/http%3A//www.wazua.co.ke/inner.aspx%3Fclm%3D8) for the most accurate reproduction.*
 
-# Wazua. Serious talk about wealth
+# PRIVACY POLICY - Home | Wazua
 
 **1\. Our Commitment to Privacy**
 
