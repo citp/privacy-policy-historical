@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202170451id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theitdepot.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603141614id_/http%3A//www.theitdepot.com/privacypolicy.html) for the most accurate reproduction.*
 
-# Theitdepot - PRIVACY POLICY
+# Theitdepot - Privacy Policy
 
 This Privacy statement covers the site [http://www.theitdepot.com](http://www.theitdepot.com/) The policy covers only information that is collected through this Web site, and does not cover information that may be collected through software downloaded from the site.
 
