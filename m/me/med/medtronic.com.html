@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2009-12-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091224010135id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the medtronic.com privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603141730id_/http%3A//www.medtronic.com/statements/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8">
  <link rel="stylesheet" href="../wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_mdt_css_style.css" type="text/css" media="screen">
 <link rel="stylesheet" href="../wcm/groups/mdtcom_sg/@shared/documents/webassets/mdt_css_us.css" type="text/css" media="screen">
 <link rel="stylesheet" href="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/ss_mdt_css_print.css" type="text/css" media="print">
+<link rel="stylesheet" href="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/hcp-overrider.css" type="text/css" media="screen">
 <link rel="stylesheet" href="../wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_mdt_css_thickbox.css" type="text/css" media="screen">
 <link rel="alternate stylesheet" href="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/ss_mdt_css_larger.css" type="text/css" media="screen" title="larger">
 <link rel="alternate stylesheet" href="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/ss_mdt_css_largest.css" type="text/css" media="screen" title="largest">
@@ -36,13 +37,23 @@
  <div id="container">
  <div id="header">
  <div id="logo"><a href="http://www.medtronic.com" title="return to the home page" accesskey="1"><img height="40" width="206" alt="Medtronic" src="http://www.medtronic.com/wcm/groups/mdtcom_sg/@shared/documents/images/mdt-logo.png"></a></div>
-	<form id="medtronic-search" name="searchForm" method="get" action="http://websearch.medtronic.com/search/query.html"><input type="hidden" name="col" value="mdtpat"><fieldset><span id="search-text-wrapper"><input type="text" name="qt" id="qt" accesskey="4" class="placeholder ac_input" autocomplete="off"></span><input name="search-button" type="image" value="Search" alt="Search" src="http://www.medtronic.com/wcm/fragments/ss_frag_mdt_css/buttons/search.png" id="search-button"></fieldset><div id="mdt_search_flyaway" style="display: none;"></div></form>
+	<form id="medtronic-search" name="searchForm" method="get" action="http://websearch.medtronic.com/search/query.html">
+ <input type="hidden" name="col" value="mdtpat">
+ <fieldset>
+ 
+ <span id="search-text-wrapper">
+ <input type="text" name="qt" id="qt" accesskey="4" class="placeholder ac_input" autocomplete="off">
+ </span>
+ <input name="search-button" type="image" value="Search" alt="Search" src="http://www.medtronic.com/wcm/fragments/ss_frag_mdt_css/buttons/search.png" id="search-button">
+ </fieldset>
+ <div id="mdt_search_flyaway" style="display: none;"></div>
+</form>
  </div>
  <div id="main-nav">
  <ul>
  <li id="nav-your-health"><a href="../your-health/index.htm">Your Health</a></li>
  <li id="nav-our-therapies"><a href="../our-therapies/index.htm">Our Therapies</a></li>
- <li id="nav-for-physicians"><a href="../for-physicians/index.htm">For Physicians</a></li>
+ <li id="nav-for-physicians"><a href="../for-healthcare-professionals/index.htm">For Healthcare Professionals</a></li>
  <li id="nav-about-medtronic"><a href="../about-medtronic/index.htm" accesskey="5">About Medtronic</a></li>
  <li id="nav-careers"><a href="../careers/index.htm">Careers</a></li>
  <li id="nav-investors"><a href="http://investorrelations.medtronic.com">Investors</a></li>
@@ -91,10 +102,12 @@
  </div>
 <div id="footer">
  <ul>
- <li id="copyright">© 2009 Medtronic, Inc.</li>
+ <li id="copyright">© 2010 Medtronic, Inc.</li>
  <li><a href="../statements/privacy.htm" accesskey="7">Privacy Statement</a></li>
  <li><a href="../statements/terms/index.htm" accesskey="8">Terms of Use</a></li>
- <li id="contact-medtronic"><a href="http://www.medtronic.com/corporate/contact.jsp" accesskey="9">Contact Us</a></li>
+ <li id="contact-medtronic">
+ <a href="http://www.medtronic.com/corporate/contact.jsp" accesskey="9">Contact Us</a>
+ </li>
  <li class="last"><a href="../sitemap/index.htm" accesskey="3">Site Map</a></li>
 </ul>
 </div>
@@ -142,16 +155,28 @@ $(document).ready(function() {
  var myCookie = $.cookie('urlCookie');
  $(this).attr('href', myCookie);
 	});
+	// Widescreen Video Popup thickbox
+ $("a[rel='videowidescreen']").each(function(){
+ var thickbox_href = "?TB_iframe=true&height=323&width=480";
+ var this_href = $(this).attr("href");
+ $(this).attr('href', this_href + thickbox_href);
+ });
+ //pci-widescreen
+ $("a[rel='pci-widescreen']").each(function(){
+ var thickbox_href = "?TB_iframe=true&height=640&width=980";
+ var this_href = $(this).attr("href");
+ $(this).attr('href', this_href + thickbox_href);
+ });
 });
 </script>
  <script type="text/javascript" src="../wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_js_hover-intent.js"></script>
 <script type="text/javascript" src="../wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_js_hover-accordion.js"></script>
  <script type="text/javascript" src="../wcm/groups/mdtcom_sg/@shared/documents/webassets/ss_js_mdt_autocomplete.js"></script>
-<script type="text/javascript" src="../wcm/groups/mdtcom_sg/@shared/documents/webassets/acwords.js"></script>
+	<script type="text/javascript" src="../wcm/groups/mdtcom_sg/@shared/documents/webassets/acwords.js"></script>
 <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
-<script type="text/javascript" src="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/omni_mdt.js"></script>
+	<script type="text/javascript" src="../wcm/groups/mdtcom_sg/@mdt/documents/webassets/omni_mdt.js"></script>
 <script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
