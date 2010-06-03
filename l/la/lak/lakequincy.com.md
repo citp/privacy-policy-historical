@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123210611id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lakequincy.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603052859id_/http%3A//lakequincy.com/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy :: Lake Quincy Media
 
@@ -82,19 +82,19 @@ If you have any questions, comments or complaints about LakeQuincy.com or about 
 
 > Via mail: 
 > 
-> Lake Quincy Media, LLC
+> Lake Quincy Media
 > 
-> 1790 Stoney Hill Drive
+> 250 Ferrand Drive Suite 503
 > 
-> Hudson, OH, 44236
+> Toronto, Ontario, M3C 3G8
 > 
-> USA
+> Canada
 
 > Via email:  
 >  support AT lakequincy.com
 
 > Via telephone:  
->  (888) 364-4740 
+>  +1 416-849-8900 x 100 
 
 Information provided by you via general e-mail inquiries to Lake Quincy Media such as your e-mail address is used only to respond to your inquiries in the ordinary course of business, and is never shared with third parties. 
 
