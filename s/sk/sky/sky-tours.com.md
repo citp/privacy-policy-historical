@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209195056id_/http%3A//www.sky-tours.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sky-tours.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603233457id_/http%3A//www.sky-tours.com/info/en/privacy.htm) for the most accurate reproduction.*
 
 # SkyTours Privacy Policy
 
@@ -46,7 +46,7 @@ entities may have privacy policies that differ from this Privacy Policy (or no p
 privacy policies before providing them with any personal information. 
 
 **Questions, Comments or Concerns**  
-If you have additional questions or concerns regarding our Privacy Policy, please e-mail us at [helpdesk@SkyTours.org](mailto:helpdesl@skytours.org). 
+If you have additional questions or concerns regarding our Privacy Policy, our [Customer Support Center](http://www.sky-tours.com/ticket/) is happy to answer.
 
 **Privacy Policy Updates**  
 We may, in our sole discretion, revise this Privacy Policy at any time; all such revisions shall be effective when posted.   
