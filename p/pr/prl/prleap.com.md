@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214101824id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prleap.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603034401id_/http%3A//www.prleap.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - PR Leap
+# PR Leap: Privacy Policy
 
-This Privacy Policy is effective as of April 15, 2009. 
+##### PR LEAP Privacy Policy
 
 PRLeap.com is the website of Condesa. 
 
@@ -53,4 +53,4 @@ We will make any legally-required disclosures of any breach of the security, con
 
 Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit. 
 
-The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us via the help dek here: <http://www.prleap.com/contact_us>. We do not knowingly collect personally identifiable information from children under 18. If we become aware that a child under 18 has provided us with personal identifiable Information, we will delete such information from our files. 
+The Site is not directed to persons under 18. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us via the help desk here: <http://www.prleap.com/contact_us>. We do not knowingly collect personally identifiable information from children under 18. If we become aware that a child under 18 has provided us with personal identifiable Information, we will delete such information from our files. 
