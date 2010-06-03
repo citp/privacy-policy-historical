@@ -1,13 +1,7 @@
-> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lovein90days.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604002151id_/http%3A//www.lovein90days.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Love in 90 Days - lovein90days.com
+# Privacy Policy
 
-[](http://www.amazon.com/gp/product/1599951223?ie=UTF8&tag=lovein90days-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1599951223)[](http://search.barnesandnoble.com/Love-in-90-Days/Diana-Kirschner/e/9781599951225/?itm=6)
-
-### Privacy Policy  
-  
----  
-  
 LoveIn90Days.com has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for this Web site: http://www.LoveIn90Days.com
 
 **Information Automatically Logged**
@@ -16,11 +10,11 @@ We may use your IP address to gather broad demographic information. IP address a
 
 **Cookies  
 **  
-This website uses "cookies" to save your password so you don't have to re-enter it each time you visit a page on the site. The cookie is session based (sits in the header information sent to the browser) and is destroyed after you close your browser. The cookie neither reads nor writes anything to or from your computer but cookies must be enabled to use the site as a member. 
+This website uses “cookies” to save your password so you don’t have to re-enter it each time you visit a page on the site. The cookie is session based (sits in the header information sent to the browser) and is destroyed after you close your browser. The cookie neither reads nor writes anything to or from your computer but cookies must be enabled to use the site as a member.
 
 **Registration Forms**
 
-Our site's registration or email list form requires you to give us basic contact information (like their name and email address). 
+Our site’s registration or email list form requires you to give us basic contact information (like their name and email address).
 
 Contact information from the registration forms is used to create a unique record to identify the user to the system and for sending information to the member but cannot and is not used for any other purpose.
 
@@ -42,6 +36,4 @@ This site gives the following options for changing and modifying information pre
 
 **Contacting the Web Site**
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](https://web.archive.org/web/20091020082612id_/http%3A//lovein90days.com/contact_drdiana.php).   
-  
-Copyright © 2008 **\- Love in 90 Days -** All rights reserved
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can [**contact us**](http://www.lovein90days.com/contact_drdiana.php) by filling out the [**contact form**](http://www.lovein90days.com/contact_drdiana.php).
