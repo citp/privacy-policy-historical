@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201160412id_/http%3A//kia-buzz.com/%3Fpage_id%3D17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kia-buzz.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603030156id_/http%3A//kia-buzz.com/%3Fpage_id%3D17) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,3 @@ If you have any comments or questions regarding our Policy, or KMC’s treatment
 **Changes to This Policy**
 
 Please note that the Policy may change from time to time.  We will post any Policy changes on this page and, if the changes are significant, we will provide a more prominent notice.  Each version of this policy will be identified at the top of the page by its effective date, and we will also keep our prior versions of this Policy in an archive for your review. 
-
-Kia Forte (Cerato) Koup  
-[More Videos »](http://www.youtube.com/user/KiaBUZZ)  
-
