@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2009-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090904142956id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reputationdefender.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603065815id_/http%3A//www.reputationdefender.com/privacypolicy) for the most accurate reproduction.*
 
 # ReputationDefender : Privacy Policy
 
