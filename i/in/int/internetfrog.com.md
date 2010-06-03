@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the internetfrog.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201174007id_/http%3A//www.internetfrog.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the internetfrog.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603201746id_/http%3A//www.internetfrog.com/privacypolicy.asp) for the most accurate reproduction.*
 
-# Internet Frog Privacy Policy, Internet Broadband Speed Test, Network and PC Tools
+# Internet Broadband Speed Test, IP Address Lookup, DNS Lookup, VoIP
 
 ## Privacy Policy
 
@@ -13,8 +13,3 @@ Since our site is free for all users to use, we support our site through outside
 At InternetFrog.com, all of our tools and resources are free to use. We will never ask for credit card information or collect any data other than the data that is requested when you register with us. If you ever receive an email purportedly from InternetFrog.com requesting credit card information or other financial or personal information, report those emails to us at once as they are not valid InternetFrog.com emails.
 
 When registering with InternetFrog.com, you receive free access to additional, more advanced tools and data. In exchange, you are required to provide us with your name and email address. From time to time, we may send you offers or information related to the types of tools you use on InternetFrog.com such as offers for Broadband access in your area. To date, we have never sent our registered users any emails other than site updates and we have no immediate plans to do so. However, we do reserve the right to do so in the future. By registering with InternetFrog.com, you accept the fact you may receive email offers from us in exchange for the free tools and resources to which you have access.
-
-[About Us](https://web.archive.org/aboutus.asp) | [Contact Us](https://web.archive.org/contactus.asp) | [Privacy Policy](https://web.archive.org/privacypolicy.asp)
-
-© 2009  InternetFrog.com   
-Last Updated 12/1/2009 
