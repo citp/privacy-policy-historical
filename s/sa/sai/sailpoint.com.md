@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910063210id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sailpoint.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604013718id_/http%3A//www.sailpoint.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: SailPoint Home
 
+Identity Gets Smart
+
+Mark McClain, CEO & Founder opens up to InformationWeek about identity governance. Watch the video »
+
 Identity Governance Buyer's Guide
 
-[](http://info.sailpoint.com/BuyersGuideFinal.html)Contains tools to help you identify your priorities, conduct side-by-side product analysis and find a solution that suits your needs. [Download the Guide »](http://info.sailpoint.com/BuyersGuideFinal.html)
+[](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)Contains tools to help you identify your priorities, conduct side-by-side product analysis and find a solution that suits your needs. [Download the Guide »](http://mv.treehousei.com/Services/dl.aspx?Id=HADV4Q7CTT3CG)
 
 Stay Connected
 
@@ -35,6 +39,10 @@ Monday through Friday excluding holidays
 (888) 4SAILPT  
 (888) 472-4578
 
+"By using roles to request, approve and certify user access privileges, BNSF will be able to simplify its user administration and compliance processes. SailPoint IdentityIQ will allow us to enforce and verify role-based access across our critical enterprise applications using a streamlined, automated approach."
+
+**_Bart Boudreaux, Director, Technology Services, BNSF Railway_**
+
 "SailPoint helps us define the connection between user access, financial control and intellectual property protection. Their risk-aware approach focuses on the relative risks associated with user access within our business."
 
 **_Russ Finney, Vice President of U.S. Information Systems operations for Tokyo Electron, U.S. Holdings_**
@@ -43,7 +51,13 @@ Monday through Friday excluding holidays
 
 **_Kevin Cunningham, Co-Founder and President, SailPoint_**
 
+"As a publicly-traded company and financial services provider, we are subject to a variety of regulations including FISMA, SOX, PCI, and SAS 70. To meet these requirements, we are standardizing and automating our compliance processes for identity management, so that we can centrally control who gets access to sensitive resources and maintain compliance as the organization changes over time. This centralized and automated approach allows us to proactively address risk and more efficiently maintain a compliant, secure environment."
+
+**_Jerry Archer, Chief Security Officer, Sallie Mae_**
+
 | 
+
+[](http://www.addthis.com/bookmark.php?v=250&pub=xa-4ae084f83eb7cc8e)
 
 At SailPoint Technologies, Inc. ("SailPoint"), we are committed to respecting your Privacy. We recognize that when you choose to provide us with information about yourself, you trust us to act in a responsible manner and to protect and safely manage any personally identifiable information ("Personal Information") that you share with us.
 
