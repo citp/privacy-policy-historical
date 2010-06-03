@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialsecurityhome.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202182711id_/http%3A//www.socialsecurityhome.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialsecurityhome.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603171336id_/http%3A//www.socialsecurityhome.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Social Security Disability: Privacy Policy
 
