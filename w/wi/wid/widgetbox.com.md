@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2008-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081228124744id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the widgetbox.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604010446id_/http%3A//www.widgetbox.com/info/legal/privacy-policy) for the most accurate reproduction.*
 
-# Widgetbox › World's largest widget directory and gallery - web widgets for Facebook apps, Blogger, TypePad, MySpace, Wordpress and more
+# Widgetbox › World's best place to find and make web widgets
 
 ## Widgetbox Privacy Policy Statement
 
