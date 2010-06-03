@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107180852id_/http%3A//www.fiwiclassifieds.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiwiclassifieds.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604010728id_/http%3A//www.fiwiclassifieds.com/privacy) for the most accurate reproduction.*
 
 # Free Online Classified Ads | FiWi Classifieds Privacy Policy
 
-Create you own advertisment at no charge!  
-  
-Find what you are looking for here.
+Why pay to post classified ads when you can Post ads Here for FREE! 
 
-Looking for something? 
+**FiWiClassifieds.com** provide free online classified advertising for auto, real estate, job, services, electronics, items, and many more category listings. Find it the fast and easy way. [**Register Here**](https://web.archive.org/register/) to start creating quick and easy ads. Returning members simply [**Login Here**](https://web.archive.org/login/). Whether you are posting for business or personal use, FiWiClassifieds is a very powerful marketing tool and an great way to generating customers for your business. 
 
-Well, we provide free online classified advertising for cars, real estate, employment, services, electronics, items, and many more category listings. Find it the fast and easy way. So, stop circling, stop cutting and start clicking. 
-
-[ ](http://www.addthis.com/bookmark.php?v=20)  
-  
-Privacy Policy
+| 
 
 This document was last updated on March 27, 2009.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-Furture Internet and Web Innovation (FiWi) is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing FiWiClassifieds.com, you acknowledge and fully understand Furture Internet and Web Innovationâ€™s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
+Furture Internet and Web Innovation (FiWi) is committed to protecting your privacy. This Privacy Statement sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing FiWiClassifieds.com, you acknowledge and fully understand Furture Internet and Web Innovation’s Privacy Statement and freely consent to the information collection and use practices described in this Website Privacy Statement.
 
   
 
@@ -46,13 +40,11 @@ When you visit our Website, we may track information to administer the site and 
       * Name of your Internet service provider. 
       * Web page you linked to our site from. 
       * Pages you viewed on the site. 
-  
-
     2. **Use of Cookies**
 
 Furture Internet and Web Innovation may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you. 
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality. 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
 Furture Internet and Web Innovation reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into FiWiClassifieds.com a site that relies on third-party cookies).
 
@@ -66,13 +58,11 @@ We will not disclose personally identifiable information we collect from you to 
 
       * To fulfill your service requests for services. 
       * To protect ourselves from liability, 
-      *       * To respond to legal process or comply with law, or
+      * To respond to legal process or comply with law, or
       * In connection with a merger, acquisition, or liquidation of the company.
-  
-
   4. **USE OF WEB BEACONS OR GIF FILES**
 
-FiWiClassifieds.com Web pages may contain electronic images known as Web beacons â€“ sometimes also called single-pixel gifs â€“ that allow Furture Internet and Web Innovation to count users who have visited those pages and to deliver co-branded services. Furture Internet and Web Innovation may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+FiWiClassifieds.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow Furture Internet and Web Innovation to count users who have visited those pages and to deliver co-branded services. Furture Internet and Web Innovation may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. Furture Internet and Web Innovation prohibits Web beacons from being used to collect or access your personal information.
 
@@ -89,7 +79,4 @@ Furture Internet and Web Innovation has the discretion to occasionally update th
 If you have questions regarding our Privacy Statement, its implementation, failure to adhere to this Privacy Statement and/or our general practices, please contact us. [support@fiwiclassifieds.com](mailto:support@fiwiclassifieds.com).
 
 
-Furture Internet and Web Innovation will use commercially reasonable efforts to promptly respond and resolve any problem or question.   
-  
-  
-
+Furture Internet and Web Innovation will use commercially reasonable efforts to promptly respond and resolve any problem or question. 
