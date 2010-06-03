@@ -1,7 +1,24 @@
-> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620003129id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoraps.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603052834id_/http%3A//www.yoraps.com/disclaimer.php) for the most accurate reproduction.*
 
 # YO! RAPS MAGAZINE | HIPHOP & R&B 24/7 - ANYTIME, ANYWHERE | WWW.YORAPS.COM
 
+|   
+---  
+  
+| [](http://www.yoraps.com/)[](http://www.yoraps.com/) |   
+---|---  
+| [](http://www.myspace.com/biggatesrecords)  
+---  
+| 
+
+[** |   
+---  
+[](http://www.yoraps.com/submission.php)  
+**](http://www.djbijal.com/)[](http://www.bestbuy.com/site/olspage.jsp;jsessionid=I1X1EBZSSCIZVKC4D3FVAGY?_dyncharset=ISO-8859-1&id=pcat17071&type=page&st=gorilla+Zoe&sc=Global&cp=1&nrp=15&sp=&qp=&list=n&iht=y&usc=All+Categories&ks=960)
+
+|   
+---  
+  
 We respect the privacy of our newsletter subscribers, customers, contacts, those who answer our surveys, and those who fill out our questionnaires. It is our policy: 
 
   1. **Choice and Consent:** To respect the purpose for which our site visitors gave us information. We give users choice and consent over how their personal information is used, and remove names immediately upon request.   
@@ -20,12 +37,49 @@ We respect the privacy of our newsletter subscribers, customers, contacts, those
 
 Your use of Yoraps.com is expressly conditioned on your acceptance of and agreement to this Privacy Policy. This Privacy Policy sets forth the terms and conditions that apply to your use of Yoraps.com. By using Yoraps.com , you agree to abide by this Privacy Policy. 
 
-If you have any concerns or questions about our privacy policy or information collected on our sites, please [**contact us**](mailto:info@yoraps.com?subject=Privacy%20Policy).
-
-| 
-
+If you have any concerns or questions about our privacy policy or information collected on our sites, please [**contact us**](mailto:info@yoraps.com?subject=Privacy%20Policy).  
+  
 Yo! Raps takes no responsibility or liability for any errors or inaccuracies on any page of the Yo! Raps site. 
 
 We endeavor to provide accurate information relating to each link provided (including those linked to from text, banner or button advertisements), but as linked sites are regularly updated we cannot accept responsibility for inaccurate descriptions or any of their content. 
 
-Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details. 
+Any logos or other copyrighted material used within the site are for the purpose of providing the end-user with relevant information and are not considered to be the intellectual property of Yo! Raps. If you are the copyright holder of any material used and would like it removed, email us with the details.   
+  
+|   
+---  
+  
+[](http://www.yoraps.com/news.php)  
+  
+   
+   
+  
+[](http://www.yoraps.com/audios.php)  
+  
+   
+  
+| **[Kaleena - It's Dirty Money](https://web.archive.org/web/20100603052834id_/http%3A//www.yoraps.com/features1.php?subaction=showfull&id=1274948433&archive=&start_from=&ucat=3&)**  
+---  
+  
+[_Last_ _Train To Paris_ is not only the upcoming sixth studio opus from producer/rapper/actor/fashion designer/entrepreneur, **Sean "Diddy" Combs** , but, maybe even more important than that, it also features his newfound collective, **Dirty Money** , comprised of himself, **Dawn Richard** , formerly of **Danity Kane** , and uber talented singer/songwriter, **Kaleena**... **[Read More]**](https://web.archive.org/web/20100603052834id_/http%3A//www.yoraps.com/features1.php?subaction=showfull&id=1274948433&archive=&start_from=&ucat=3&)  
+  
+   
+  
+[](http://www.yoraps.com/features.php)  
+  
+   
+  
+**
+
+[](http://www.yo-pr.com/)
+
+**  
+  
+  |    
+  
+|   
+  
+---  
+  
+[](http://www.yo-pr.com/)  
+  
+ 
