@@ -1,149 +1,101 @@
-> *The following text is extracted and transformed from the itcoworld.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234051id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itcoworld.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603230529id_/http%3A//www.itcoworld.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - itcoworld
 
-#### Find Answers To Your Questions:
+## 1\. itcoworld Media Group ONLINE PRIVACY POLICY
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
+The itcoworld Web site and associated sites are maintained by
 
-### Privacy Policy
+**itcoworld Media Group**  
+501 Second Street  
+San Francisco, CA 94107
 
-**Why A Privacy Policy?**  
+itcoworld collects personally identifying information and data about individuals, their company, and the company's demographics "personally identifying information and data" including (i) when you provide information to itcoworld, such as when you register or sign up for any of our products such as publications, subscriptions, e-mails, contests, newsletters, memberships, RSS Feeds, content delivery via sms text or other technologies, webcasts, White Papers, online seminars, conferences and other communications with itcoworld (ii) when you register or sign up on the itcoworld site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to itcoworld and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to itcoworld Below is the current policy regarding the usage of personally identifying information and data collected by itcoworld. We reevaluate this policy on an ongoing basis based on feedback from readers. itcoworld reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that are different from that stated at the time of collection, we will notify you by posting a notice on our website.
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+itcoworld or one of our IDG affiliated companies, or third party partners may place a "cookie" in the browser files of a user's computer. The cookie itself does not contain any personally identifying information, except when such information has been supplied by a subscriber or registered user.
 
- **This Privacy Policy protects your privacy by:**
+If you have registered with itcoworld, the information in your "cookie" is used to provide a more personalized experience on our Web site.
 
- **Informing you about:**
+For example, in our forums, a cookie allows us to show you which posted messages are new since your last log-in. You may change your forum registration profile information in our Community Service Center.
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
+If you haven't registered with our site, we may place a cookie on your system to help provide a more personalized experience on itcoworld.com. This cookie identifies you as a unique user by means of a tracking ID. However, if you have not registered on our site, we cannot link that user ID with personal identifying information and data about you such as your name or e-mail address.
 
+Other cookies without personally identifying information and data are used to enable itcoworld to manage the banner advertisements presented or personalized information to the user.
 
+Browsers or third-party software can allow you to block the use of cookies while you surf our site. Or, you can use third-party "anonymizer" services to mask information in your cookies, or even general data such as your IP address. In such cases you would not be able to take advantage of most of the personalization services offered by itcoworld.com.
 
-**Empowering you to choose:**
+The aggregated information we collect is used for a number of purposes including the following:
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+  1. to improve the content and design of the itcoworld Web site
+  2. to enable our audit bureau to verify our claims of traffic to the site
+  3. to help advertisers, potential advertisers or marketers assess the suitability of the site for their ad campaigns
+  4. as clear GIFs, also known as pixel tags, provided by our ad-serving company to help manage online advertising. These clear GIFs let our ad-serving company recognize a browser's cookie when a user visits our site. The information we collect and share through this technology is not personally identifiable (It does not include your name, address, telephone number or e-mail address). For more information about our ad-serving company or for your choices about not having this anonymous information used, please visit www.doubleclick.net
+  5. itcoworld has contracted with DoubleClick to serve all advertising on www.itcoworld.com, both on the Web site itself and through its e-mail newsletters. When DoubleClick is serving ads, it recognizes certain types of non-personally identifiable information, such as a user's IP address, browser version or type, operating system, service provider and time zone. DoubleClick also uses cookies to note the general content of the sites that users visit over time in order to serve ads on this site and other sites. Any pages a user calls up on www.itcoworld.com aren't connected with personally identifiable information collected either at www.itcoworld.com or elsewhere. For more details about the non-personally identifiable information DoubleClick collects and the opportunity to opt out of such data collection, please visit www.doubleclick.net/privacy_policy. We use web metric vendors to gather information to help us understand how users utilize our websites and other electronic products.
+  6. We may create and use aggregate customer data to understand more about the interests of our customers and may use the data to offer goods and services we believe may be of interest to our customers, on behalf of itcoworld, its sister IDG companies, or select organizations.
 
 
 
-**Assuring you that Network Solutions:**
+Postal addresses, and other personally identifying information and data will be used to promote itcoworld and other IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+Residential telephone numbers of itcoworld print subscribers registered users are used by itcoworld to collect re-qualification data and may be used by itcoworld, IDG and other IDG companies, affiliates and it's advertisers for promotional purposes. itcoworld may rent and/or license for use phone numbers to selected outside firms for promotional purposes. Offers for which the numbers are rented and/or licensed for use are required to target their offers carefully.
 
+Mobile telephone numbers that are provided to itcoworld will be used to provide the products and services you’ve specifically requested, such as, but not limited to content delivery via sms text or other technologies, and for customer service related to the products and services you’ve requested. With your express consent, your mobile telephone number may be used to promote other products and services of itcoworld, as well as the products and services of other IDG companies. Further, your mobile phone number may, with your express consent, be used to promote the products and services of carefully chosen third parties. At any time you may “opt-out” of receiving communications via your mobile phone from itcoworld, other IDG companies, and third parties, by visiting http://subscribe.itcoworld.com/cgi-win/ifwd.cgi?m=contacts and clicking on the unsubscribe link or clicking the unsubscribe link of any individual message you may receive. Because many phone companies recycle phone numbers, it is possible for users who purchase a new phone to receive messages that the previous owner had subscribed to or otherwise consented to receive.
 
+Fax numbers of itcoworld print subscribers registered users are used by itcoworld to collect re-qualification data and may be used for surveys for itcoworld and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+E-mail addresses of itcoworld print subscribers registered users are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback by members of our editorial or research team, to promote itcoworld and IDG products and services, and they may be rented to other firms and/or licensed for promotional purposes. When you provide your email address to us, you agree to receive email from itcoworld and its sister IDG companies, and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further e-mail from outside firms, itcoworld, its sister IDG companies and the IDG Network . If a user does not choose to "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed for use to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully. Users who later decide they want to change their preferences may do so at http://itcoworld.com/newsletters/manage
 
-  
-**Third Party Advertising and Cookies**
+Personal identifying information submitted on portions of our site developed with outside third parties may be shared with those third parties, and the information will be governed by those parties' privacy policies as well as itcoworld's. itcoworld, nor any of its parent companies or any of its subsidiaries or affiliates do not bear any responsibility for any actions or policies of such third parties.
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+itcoworld users should be aware that when they disclose personal identifying information (e.g., user name, address, company name, telephone number, demographic information, buying information, other data and E-mail address) in discussion forums, chat rooms or other areas that are publicly accessible by others, that information can be collected and used by others and may result in unsolicited messages from other posters or parties. itcoworld nor its parent company or any of its subsidiaries or affiliates are not responsible for any information that you provide in the above areas.
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+In the event that part or all of the ownership of itcoworld or any of its products are sold or transferred all lists and data which contain personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+## 2\. PRINT SUBSCRIBER AND "AUTO REGISTER" PRIVACY POLICY
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+itcoworld collects personally identifying information and data about individuals their company and the company's demographics ("personally identifying information and data") (i) when you provide information to itcoworld, such as when you register or sign up for any of our products such as publications, subscriptions, RSS Feeds, content delivery via sms text or other technologies, web casts, White Papers, online seminars, conferences emails, contests, newsletters, memberships and other communications with itcoworld. (ii) when you register or sign up on the itcoworld site or when you register for any other IDG Publishing Network products individually or through "auto register", your information will be known to itcoworld and (iii) from time to time we may add other information that we collect from third party sources to enhance the information that you provided to itcoworld. Below is the current policy regarding the usage of personally identifying information and data collected by itcoworld. We reevaluate this policy on an ongoing basis based on feedback from readers. itcoworld reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifying information and data that are different from that stated at the time of collection, we will notify you by posting a notice on our website.
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+Subscribers and applicants for itcoworld Print subscriptions are asked to complete a questionnaire with personally identifying information and demographics. The data is used in a number of ways including the following:
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+  1. to improve the content of itcoworld
+  2. to notify subscribers about re-qualification and renewal
+  3. used by us for marketing itcoworld products and services
+  4. used by our audit bureau to verify cumulative demographic statistics
+  5. used by itcoworld, IDG, its subsidiaries and its affiliates and IDC for research surveys
+  6. used by Editorial for consultation with readers
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+Postal addresses, and other personally identifying information and data will be used to promote itcoworld and IDG products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the names are rented and/or licensed for use and the users are required to target their offers carefully.
 
- **Getting to Know Our Customers**
+Residential telephone numbers of itcoworld print subscribers are used by itcoworld to collect re-qualification data and may be used by itcoworld, IDG, its subsidiaries and affiliates, their advertisers for promotional purposes. itcoworld may rent and/or license for use telephone numbers to selected outside firms for promotional purposes. Offers for which the telephone numbers are rented and/or licensed for use require users to target their offers carefully.
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+Fax numbers of itcoworld print subscribers registered users are used by itcoworld to collect re-qualification data and may be used for surveys for itcoworld and third parties. Except as set forth in this policy no fax numbers are rented and/or licensed to outside firms.
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+Postal addresses, and other personally identifying information and data will be used to promote itcoworld and other IDG companies' products and services, and may be rented and/or licensed to selected outside firms for promotional purposes. Offers for which the personally identifying information and data are rented and/or licensed for use and the users are required to target their offers carefully.
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+Fax numbers of itcoworld print subscribers are used by itcoworld to collect re-qualification data and may be used for surveys for itcoworld, IDG and its affiliates and third parties. Except as set forth in this policy, no fax numbers are rented and/or licensed to outside firms.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
+E-mail addresses of itcoworld print subscribers are used for re-qualification purposes. These e-mail addresses may also be used to collect feedback from subscribers by members of our editorial or research team, to promote itcoworld and IDG products and services, and they may be rented and/or licensed to other firms for promotional purposes. When you provide your email address to us, you agree to receive email from itcoworld, its sister IDG companies and the IDG Network. We allow users to "opt-out" of receiving e-mail from outside firms, however, when e-mail information is collected and with each e-mail use of the user's address you can individually "opt-out" of receiving further email from outside firms, itcoworld and its sister IDG companies. If a user does not "opt-out" at the time the e-mail address is collected, or does not respond to the questions concerning how we may use their email address, the address may be rented and/or licensed to outside firms. Offers for which the e-mail address is rented and/or licensed for use require the users to target their offers carefully.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
+In the event that part of all of the ownership of itcoworld or any of its products are sold the all lists and data which contain personally identifying information and data including, for example, user name, address, company name, telephone number, demographic information, buying information, other data and e-mail address, will be transferred to the new owner.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+Print Subscribers or applicants who do not want their names used in any of the above ways may write and ask to be removed from the promotion list. Requests should be sent to: itcoworld P.O. Box 3500 Northbrook, IL 60065-3500
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+## 3\. IDG PUBLISHING NETWORK ONLINE REGISTRATION PRIVACY POLICY
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+Below is the current policy regarding the usage of personally identifying information and data collected by the IDG Publishing Network. We reevaluate this policy on an ongoing basis based on feedback from readers. The IDG Publishing Network reserves the right to change its privacy policy. However, if there are any changes to the use of personally identifiable information and data that is different from that stated at the time of collection, we will notify you by posting a notice on our website.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
+### About the IDG Publishing Network
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
+The International Data Group, Inc. (IDG) family of on-line and print publications consists of hundreds of award-winning titles including CIO, CSO, Darwin, itcoworld, Game Pro, Network World, Macworld and PC World. The IDG Publishing Network is a growing collection of IDG web sites that presently includes cio.com, csoonline.com, itcoworld.com, darwinmag.com, nwfusion.com, macworld.com, maccentral.com, pcworld.com and gamepro.com. A complete listing is available at www.idg.com. 
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+To access restricted content on any IDG Publishing Network web site you must be a member of the IDG Publishing Network. To become a member of the IDG Publishing Network, you need to provide certain information about yourself. Any of the IDG Publishing Network sites may use this identifying information for internal analytical and business development purposes and to send you email. However, other forms of communication, including postal mail, may be directed to you pursuant to the site's specific privacy policy, as may be updated from time to time.
 
-b. Click “Edit User Info” in the left menu;
+You can "opt-out" of receiving further email by clicking the appropriate links that appear at the bottom of any email you receive. If you do not want to receive other types of communication, including as applicable, postal mail, from the editor and publisher of the site, please refer to the site's privacy policy for the procedure to follow.
 
-c. Scroll to the bottom of the page;
+The IDG Publishing Network is intended for individuals over the age of 13 years old. Personal information may not be provided by anyone under 13 years of age. Further no one under 13 years old may participate in the forums or chat rooms or any other areas where public discussions may take place. In addition no one under that age of 18 may conduct any transactions for the purposes or purchasing or selling any items. Parents should be sure that their children are not conducting any of the above activities on the IDG Publishing Network.
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+If you have any questions or comments regarding the IDG Publishing Network or its use of information please send email to IDGNetwork@idg.com or write to us at IDG Publishing Network, 3 Post Office Square, Boston, MA 02109.
 
-e. Click “SAVE.”
-
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
-
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
-
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
-
-b. Click “Edit User Info” in the left menu;
-
-c. Scroll to the bottom of the page;
-
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
-
-e. Click “SAVE.” 
-
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
-
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
-
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
-
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
-
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
-
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
-
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
-
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
-
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
-
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+_Last updated: Tuesday, June 6, 2006._
