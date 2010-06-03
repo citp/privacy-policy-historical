@@ -1,46 +1,215 @@
-<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2009-04-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090418051054id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the funnyordie.com privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603082640id_/http%3A//www.funnyordie.com/about/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-	<link rel="search" type="application/opensearchdescription+xml" title="Funny or Die" href="http://public0.ordienetworks.com/funnyordie/open_search.xml">
-	<title>Funny or Die Privacy Notice</title>
-	<meta name="keywords" content="Will Ferrell, celebrity videos, funny videos, comedy videos, free videos, viral videos, The Landlord, Jon Lajoie, Picnicface, Human Giant, funny, Judd Apatow, Adam McKay, Chris Henchy, Eva Longoria, Jack Black, James Franco, John Mayer, Lindsay Lohan, Natalie Portman, Nick Swardson, Olivia Munn, Paris Hilton, Sarah Silverman, Will Arnett, Zac Efron">
-	<meta name="description" content="funny or die privacy notice - funny videos, funny captions and jokes featuring Will Ferrell, celebrities, comedians, and you">
-	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-	<meta http-equiv="imagetoolbar" content="no">
-	<link rel="shortcut icon" href="/favicon.ico">
-	<link href="http://public0.ordienetworks.com/stylesheets/funnyordie_156b5b6c.css?156b5b6c" media="screen" rel="Stylesheet" type="text/css">
-	
-	<link href="http://public0.ordienetworks.com/stylesheets/iphone.css?156b5b6c" media="only screen and (max-device-width: 480px)" rel="stylesheet" type="text/css">
-	
-	<script src="http://public0.ordienetworks.com/javascripts/base_156b5b6c.js?156b5b6c" type="text/javascript"></script>
-	
-	
-	
-	  
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+  <link rel="search" type="application/opensearchdescription+xml" title="Funny or Die" href="http://public0.ordienetworks.com/funnyordie/open_search.xml">
+  <title>Funny or Die Privacy Notice</title>
+  <meta name="keywords" content="Will Ferrell, celebrity videos, funny videos, comedy videos, free videos, viral videos, The Landlord, Jon Lajoie, Picnicface, Human Giant, funny, Judd Apatow, Adam McKay, Chris Henchy, Ben Stiller, Eva Longoria, Heidi Montag, Jack Black, James Franco, John Mayer, John C. Reilly, Lindsay Lohan, Marion Cotillard, Natalie Portman, Nick Swardson, Olivia Munn, Paris Hilton, Ron Howard, Sarah Silver...">
+  <meta name="description" content="funny or die privacy notice - funny videos, funny captions and jokes featuring Will Ferrell, celebrities, comedians, and you">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="imagetoolbar" content="no">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link href="http://public0.ordienetworks.com/stylesheets/funnyordie_2383166d.css?2383166d" media="screen" rel="Stylesheet" type="text/css">
+  
+    
+  
+  <script src="http://public0.ordienetworks.com/javascripts/base_2383166d.js?2383166d" type="text/javascript"></script>
+  
+  
 
-	
-</head>
-<body>
-<!-- BEGIN COREMETRICS SUPPORT -->
-  <script src="http://public0.ordienetworks.com/javascripts/coremetrics_156b5b6c.js?156b5b6c" type="text/javascript"></script>
-  <script type="text/javascript">
+<script type="text/javascript">
 //<![CDATA[
 
-		cm_ClientID = "90223533";
-		cm_JSFPCookieDomain = "funnyordie.com";
-	  cmSetProduction();
-	  cmCreatePageviewTag("\/about\/privacy", "about", null, null, null);
-	  
-	  
+    if (User.isLoggedIn()) {
+      var currentUser = new User(Cookie.get('current_user').evalJSON());
+      var user_key = currentUser.key;
+      Subscriptions.check();
+      display_not_confirmed_message();
+    } else {
+      var user_key = 'global';
+    }
+    Event.observe(window, 'load', function() { Funbar.init(); });
 
 //]]>
-</script><!-- END COREMETRICS -->
+</script>  
+  
 
+  
+<script type="text/javascript">
+//<![CDATA[
+    
 
-<div id="page" class="about_privacy_page ">
+//]]>
+</script>  <script type="text/javascript" charset="utf-8">
+  Event.observe(window,"load", function(event){
+    $$('#funbar .funbar_viral_links a').each(function(el){
+      el.observe('click', function(event){
+        var action = event.element().id
+        if(action.blank()) { //for yahoo buzz link which we don't control
+          action = event.element().ancestors().find(function(el){return el.id && !el.id.blank();}).id;
+        }
+        GA.event('sharing', action, "/about/privacy");
+      });
+    });
+  });
+</script>
+  
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-1629113-1']);
+  _gaq.push(['fullTracker._setAccount', 'UA-1629113-15']);
+  GA.setUserType("anonymous");
+  
+  GA.page(null);
+</script>
+
+<script type="text/javascript" charset="utf-8">
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+  })();
+</script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript" charset="utf-8" src="http://ordie.adbureau.net/hserver/acc_random=64366421/AAMSZ=1400X1000/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></script><script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US"></script></head>
+<body>
+
+<script type="text/javascript" charset="utf-8">
+  if(UserAgent.iphoneOS()) {
+    document.write('<style type="text/css" media="screen">#funbar{display:none;} #funbar_wrapper {width: 968px;} .embed_group,.favorite_group,.report_group { margin-left:0px;}</style>')
+    Tip = Class.create();
+  }
+</script>
+
+<div id="funbar">
+  <div id="funbar_wrapper">
+    <div id="funbar_left_cap" class="funbar_cap"></div>
+    <div id="funbar_right_cap" class="funbar_cap"></div>
+    <div id="funbar_container">
+
+      <div id="funbar_left">
+        <div id="funbar_share_tab" class="funbar_tab funbar_button share_icons">
+          <img alt="" class="sprite funbar_share" src="http://public0.ordienetworks.com/images/s.gif?2383166d">
+		  <a class="funbar_button" href="#" id="funbar_email_tab" onclick="Funbar.popup(this, 'email');; return false;" title="Email"><img alt="" class="sprite email_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_email" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('email'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  
+  Email
+</div>
+<div class="funbar_content email_content" id="funbar_email_content"><div id="email_waiting" style="display:none;text-align:center;height:110px">
+	<h4 style="padding-top:50px">Sending... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></h4>
+</div>
+
+<div id="inner_email_form_container">
+
+	<h4 class="email_label" style="margin:2px 0 6px">
+	</h4>
 
 	
+
+	  <script type="text/javascript" charset="utf-8">
+	    Email.loaded = true;
+	  </script>
+	<form action="/share/email" method="post" onsubmit="$('inner_email_form_container').hide();$('email_waiting').show();; new Ajax.Request('/share/email', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); return false;">
+	 	
+	 	<input id="title" name="title" type="hidden" value="Funny or Die Privacy Notice">
+		<table width="460" cellpadding="2" cellspacing="0">
+			<tbody><tr>
+				<td width="60" align="right" class="label" valign="top"><label for="name" style="white-space:nowrap">From</label></td>
+				<td width="400"><input class="text_field" id="name" maxlength="100" name="name" size="37" type="text"></td>
+			</tr>
+			<tr>
+				<td align="right" class="label" valign="top">
+					<label for="email_address">To</label>
+				</td>
+				<td>
+					<textarea class="text_field" cols="36" id="email_address" name="email_address" rows="3" style="height:42px"></textarea>
+				</td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td align="right">
+					<input class="email_btn" name="commit" type="submit" value="Send">
+				</td>
+			</tr>
+		</tbody></table>
+</form></div>
+</div></div></div>
+		  <a class="funbar_button" href="#" id="funbar_embed_tab" onclick="Funbar.popup(this, 'embed');; return false;" title="Embed stuff"><img alt="" class="sprite embed_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_embed" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('embed'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  
+  Embed stuff
+</div>
+<div class="funbar_content embed_content" id="funbar_embed_content">
+
+<div class="funbar_embed_widgets">
+  <h4>Embed a widget of videos</h4>
+    <div class="embed_widget_link">
+      <a href="#" onclick="show_dialog('embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;" title="Embed these videos on your webpage."><img alt="Embed_widget" height="19" src="http://public0.ordienetworks.com/images/icons/embed_widget.png?2383166d" width="43"></a>
+      <a href="#" onclick="show_dialog('embed_widget_featured_1_dialog');update_embed_widget_code_featured_1();; return false;">Funny or Die Featured Videos</a>
+    </div>
+</div>
+</div></div></div>
+		  <a class="funbar_button" href="#" id="funbar_rss_tab" onclick="Funbar.popup(this, 'rss');; return false;" title="RSS Feeds"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_rss" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('rss'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  
+  RSS Feeds
+</div>
+<div class="funbar_content rss_content" id="funbar_rss_content">
+<div style="padding:5px 0">
+	<a href="/videos.rss" onclick="GA.event('subscribing', 'rss', '/videos.rss');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"> Subscribe to 'Today's Featured Videos'</a>
+</div>
+
+<div style="padding:5px 0">
+	<a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"> Subscribe to 'Funny or Die Newsfeed'</a>
+</div>
+</div></div></div>
+          
+<span class="funbar_viral_links">
+<a href="http://twitter.com/home?status=Funny%20or%20Die%20Privacy%20Notice%20-%20http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy" id="twitter_share" rel="nofollow" target="_blank" title="Post this to Twitter"><img alt="Post this to Twitter" class="sprite twitter_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+<a href="#" id="facebook_share" onclick="FB.Connect.streamPublish(&quot;&quot;, fb_attachment, fb_links); return false;" title="Share this on Facebook"><img alt="Share this on Facebook" class="sprite facebook_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+<a href="http://digg.com/submit?phase=2&amp;url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice&amp;bodytext=funny%20or%20die%20privacy%20notice%20-%20funny%20videos%2C%20funny%20captions%20and%20jokes%20featuring%20Will%20Ferrell%2C%20celebrities%2C%20comedians%2C%20and%20you" id="digg_share" rel="nofollow" target="_blank" title="Digg it"><img alt="Digg it" class="sprite digg_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+<a href="http://www.stumbleupon.com/submit?url=http%3A%2F%2Fwww.funnyordie.com%2Fabout%2Fprivacy&amp;title=Funny%20or%20Die%20Privacy%20Notice" id="stumble_share" rel="nofollow" target="_blank" title="Stumble it"><img alt="Stumble Upon" class="sprite stumble_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+      
+<a href="#" id="add_this_share" onclick="return addthis_open(this, '', '[URL]', '[TITLE]'); return false;" title="Bookmark and Share"><img alt="Bookmark and Share" class="sprite addthis_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+</span>
+
+
+        </div>
+      </div>
+
+      <div id="funbar_right">
+        <div id="quicklist_empty" style="display:none">
+			Click the <a href="#" onclick="return false;; return false;" title="Not this one - on the thumbnails!"><img alt="" class="sprite quicklist_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a> to queue up a list of funny videos to watch next.
+		</div>
+		<div class="funbar_tab divided_tab" id="funbar_quicklist_container" style=""><a class="funbar_button" href="#" id="funbar_quicklist_tab" onclick="Funbar.popup(this, 'quicklist');; return false;" title="Quicklist"><img alt="" class="sprite funbar_quicklist_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_quicklist" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('quicklist'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  
+  Quicklist
+</div>
+<div class="funbar_content quicklist_content" id="funbar_quicklist_content"><div class="funbar_loader">Loading Quicklist... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
+		<div class="funbar_tab divided_tab" id="funbar_watched_container" style=""><a class="funbar_button" href="#" id="funbar_watched_tab" onclick="Funbar.popup(this, 'watched');; return false;" title="History"><img alt="" class="sprite funbar_watched_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_watched" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('watched'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  
+  History
+</div>
+<div class="funbar_content watched_content" id="funbar_watched_content"><div class="funbar_loader">Loading History... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
+		<div class="funbar_tab divided_tab" id="funbar_newsfeed_container" style=""><a class="funbar_button" href="#" id="funbar_newsfeed_tab" onclick="Funbar.popup(this, 'newsfeed');; return false;" title="Newsfeed"><img alt="" class="sprite funbar_newsfeed_tab" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a><div class="funbar_popup_wrapper" id="funbar_newsfeed" style="display:none"><div class="funbar_popup"><div class="header">
+  <div style="float:right"><a href="#" onclick="Funbar.close('newsfeed'); return false;"><img alt="Minimize" src="http://public0.ordienetworks.com/images/funbar/minimize.png?2383166d"></a></div>
+  <a href="/newsfeed_rss/global" onclick="GA.event('subscribing', 'rss', '/newfeed_rss/global');return true;" target="_blank"><img alt="" class="sprite rss_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+  Newsfeed
+</div>
+<div class="funbar_content newsfeed_content" id="funbar_newsfeed_content"><div class="funbar_loader">Loading Newsfeed... <img align="top" alt="Spinner_snake" src="http://public0.ordienetworks.com/images/spinner_snake.gif?2383166d"></div></div></div></div></div>
+		
+		
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div id="page" class="about_page_page ">
 
 	
 <div id="page_header">
@@ -50,25 +219,25 @@
     </form>  </div>
 
   <div id="login_links">
-    
-  <span id="quicklist_header"><a class="icon_link" href="#" onclick="$('quicklist_overlay').toggle(); return false;" title="Click to expand QuickList"><img alt="" class="sprite quicklist_icon" src="http://public0.ordienetworks.com/images/s.gif?156b5b6c">QuickList (<span class="ql_total" style="margin:0">0</span>)</a></span>
-	<span><a href="/signup" class="header_login_link" rel="nofollow">Join</a></span>
-	<span><a class="header_login_link" href="#" onclick="show_login_dialog(); return false;">Log in</a></span>
-	<div class="box sbox  default_box quicklist_box" style="display:none" id="quicklist_overlay"><div class="c" id="quicklist_overlay_c"><div class="collapse">&nbsp;</div>  <div class="quicklist_content">Loading ...<div class="quicklist_previews"></div></div>
-  <div id="quicklist_empty" style="display:none">Click the <a href="#" onclick="return false;; return false;" title="Not this one - on the thumbnails!"><img alt="" class="sprite quicklist_icon" src="http://public0.ordienetworks.com/images/s.gif?156b5b6c"></a> to queue up a list of funny videos.</div>
-<div class="clear"> </div></div></div>
+    <span id="fb_connect" style="display:none;"><a id="fb_connect_href" href="#" class="facebook_connect_text_18x18"><span class="facebook_connect_text_18x18">Connect</span></a></span>
+<span id="fb_spinner" style="display:none;"><img alt="Spinner_black" src="http://public0.ordienetworks.com/images/spinner_black.gif?2383166d">&nbsp;&nbsp;Loading...</span>
 
-    <span><a href="/videos/upload" class="icon_link upload_link" rel="nofollow"><img alt="" class="sprite upload_icon" src="http://public0.ordienetworks.com/images/s.gif?156b5b6c">Upload</a></span>
+
+
+  <span><a href="/signup?rel=header" class="header_login_link" rel="nofollow">Join</a></span>
+  <span><a class="header_login_link" href="/login" onclick="show_login_dialog(); return false;" rel="nofollow">Log in</a></span>
+  <span><a href="/videos/upload?rel=header&amp;rel_pos=login_links" class="icon_link upload_link" rel="nofollow">Upload</a></span>
+
   </div>
 
   
   <div id="topnav">    
     <div id="topnav_tabs">
       <a href="/" rel="nofollow">Home</a>
-      <a href="/browse/videos/all/all/most_favorited">Browse</a>
-        <a href="/videos"><img alt="FOD " class="sprite fod_icon png" src="http://public0.ordienetworks.com/images/s.gif?156b5b6c">Exclusives</a>
+      <a href="/browse/videos/all/all/most_favorited?rel=header&amp;rel_pos=main_nav">Browse</a>
+      <a href="/videos?rel=header&amp;rel_pos=main_nav"><img alt="FOD " class="sprite fod_icon png" src="http://public0.ordienetworks.com/images/s.gif?2383166d">Exclusives</a>
       
-      <a href="/channels">Categories</a>
+	      <a href="/promos/funnyordiepresents?rel=header&amp;rel_pos=main_nav" style="color:orange;">FOD Presents</a>
       
       
       
@@ -76,61 +245,59 @@
     <div id="subnav_wrapper">
       <div id="subnav">
 	<div id="subnav_links">
-	<a href="/browse/videos/all/all/most_viewed/this_week">Most Viewed</a>
-|	<a href="/browse/videos/all/all/most_favorited/this_week">Most Favorited</a>
-|	<a href="/browse/videos/all/all/most_recent">Most Recent</a>
-|	<a href="/archives">Previously Featured</a>
-	
-|	<a href="/promos/mobile">Mobile</a>
-	
-| <a href="/promos/games" style="color:#EE2325">Games</a>|	<a href="/forums">Forums</a>
-|	<a href="/blog">Blog</a>
+	<a href="/browse/videos/all/all/most_viewed/this_week?rel=header&amp;rel_pos=subnav">Most Viewed</a>
+|	<a href="/browse/videos/all/all/most_favorited/this_week?rel=header&amp;rel_pos=subnav">Most Favorited</a>
+|	<a href="/browse/videos/all/all/most_recent?rel=header&amp;rel_pos=subnav">Most Recent</a>
+|	<a href="/archives?rel=header&amp;rel_pos=subnav">Previously Featured</a>
+|	<a href="/forums?rel=header&amp;rel_pos=subnav">Forums</a>
+|	<a href="/blog?rel=header&amp;rel_pos=subnav">Blog</a>
+| <a href="/videos/upload?rel=header&amp;rel_pos=subnav" rel="nofollow">Upload</a>
 	</div>
 </div>
     </div>
   </div>
   <div id="logo_wrapper">
     <div id="logo">
-      <a href="/" title="Funny or Die - Funny Videos"><img alt="Funny or Die - Funny Videos" class="png" height="46" src="http://public0.ordienetworks.com/images/fod_long_logo.png?156b5b6c" width="250"></a>
+      <a href="/" title="Funny or Die - Funny Videos"><img alt="Funny or Die - Funny Videos" class="png" height="46" src="http://public0.ordienetworks.com/images/fod_long_logo.png?2383166d" width="250"></a>
     </div>
-      <div id="tagline"><a href="/videos/2b4a41bffc/xmobile-top-5-booty-call-from-gopotatotv-and-ianwolterstorff">So donkey punch compatable.</a></div>
+      <div id="tagline"><a href="/videos/c4a43aff11/everyday-normal-guy-rap-song-from-jon-lajoie?rel=tagline">I get nervous in social situations.</a></div>
   </div>
 </div>
-
-
 
     <div id="leader_board_ad">
   <div id="ad_leader_board">
     
 
 
-    <script type="text/javascript"> 
-    <!-- 
+<script charset="utf-8" type="text/javascript">
+//<![CDATA[
       var random = Math.round(Math.random() * 100000000); 
       if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
  
-      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid='+pageNum+'"'); 
+      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'"'); 
       document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 '+
                      ' WIDTH=728 HEIGHT=90 allowTransparency="true" id="leader_board_iframe">'); 
       document.write('<SCR'); 
-      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid='+pageNum+'">'); 
+      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'">'); 
       document.write('</SCR'); 
       document.write('IPT>'); 
       document.write('</IFRAME>'); 
-    //-->
-    </script><iframe src="http://ordie.adbureau.net/hserver/acc_random=19211633/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=26102965" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="728" height="90" allowtransparency="true" id="leader_board_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=19211633/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=26102965"></SCRIPT></iframe>
 
-    <noscript> 
-      <a href="http://ordie.adbureau.net/adclick/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=1" alt="Click me"/></a> 
+    
+//]]>
+</script><iframe src="http://ordie.adbureau.net/hserver/acc_random=71881675/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="728" height="90" allowtransparency="true" id="leader_board_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=71881675/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></SCRIPT></iframe>    <noscript> 
+      <a href="http://ordie.adbureau.net/adclick/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=728X90/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" alt="Click me"/></a> 
     </noscript>
+    
 
   </div>
 </div>
 
-  
 	<div id="content">
 	  <div class="clear"> </div>
+		<div class="box sbox  white_rbox flash_message_box" style="display:none" id="flash_message"><div class="c" id="flash_message_c"><div class="collapse">&nbsp;</div>...<div class="clear"> </div></div></div>
 		
+
 		
 
 					<div class="page_title" id="page_title">
@@ -143,25 +310,26 @@
   
 
 
-    <script type="text/javascript"> 
-    <!-- 
+<script charset="utf-8" type="text/javascript">
+//<![CDATA[
       var random = Math.round(Math.random() * 100000000); 
       if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
  
-      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid='+pageNum+'"'); 
+      document.write('<IFRAME SRC="http://ordie.adbureau.net/hserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'"'); 
       document.write(' NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 '+
                      ' WIDTH=160 HEIGHT=600 allowTransparency="true" id="skyscraper_iframe">'); 
       document.write('<SCR'); 
-      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid='+pageNum+'">'); 
+      document.write('IPT SRC="http://ordie.adbureau.net/jnserver/acc_random='+random+'/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid='+pageNum+'">'); 
       document.write('</SCR'); 
       document.write('IPT>'); 
       document.write('</IFRAME>'); 
-    //-->
-    </script><iframe src="http://ordie.adbureau.net/hserver/acc_random=55480641/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=26102965" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="160" height="600" allowtransparency="true" id="skyscraper_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=55480641/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=26102965"></SCRIPT></iframe>
 
-    <noscript> 
-      <a href="http://ordie.adbureau.net/adclick/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.privacy/pageid=1" alt="Click me"/></a> 
+    
+//]]>
+</script><iframe src="http://ordie.adbureau.net/hserver/acc_random=94546890/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477" noresize="" scrolling="NO" hspace="0" vspace="0" frameborder="0" marginheight="0" marginwidth="0" width="160" height="600" allowtransparency="true" id="skyscraper_iframe"><SCRIPT SRC="http://ordie.adbureau.net/jnserver/acc_random=94546890/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=56143477"></SCRIPT></iframe>    <noscript> 
+      <a href="http://ordie.adbureau.net/adclick/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" rel="nofollow"><img src="http://ordie.adbureau.net/nserver/AAMSZ=160X600/SITE=FUNNYORDIE.COM/area=about.page/pageid=1" alt="Click me"/></a> 
     </noscript>
+    
 
 </div>
 
@@ -286,8 +454,6 @@
 	</div>
 
 	
-
-	
   <div class="box sbox  default_box footer_links_box"><div class="c"><div class="collapse">&nbsp;</div>
   <div class="footer_section" style="margin-left: 30px;">
     <h3>This Site</h3>
@@ -308,13 +474,13 @@
   <h3>Business &amp; Stuff</h3>
   <ul>
     <li><a href="/about" rel="nofollow">About Us</a></li>
-    <li><a href="/about/ratings" rel="nofollow">Our Rating System</a></li>
+    <li><a href="/contact_us" rel="nofollow">Contact Us</a></li>
     <li><a href="/contact_us" rel="nofollow">Help</a></li>
     <li><a href="/about/faq" rel="nofollow">FAQ</a></li>
     <li><a href="/about/terms" rel="nofollow">Terms of Use</a></li>
     <li><a href="/about/privacy" rel="nofollow">Privacy Policy</a></li>
     <li><a href="/about/advertising" rel="nofollow">Advertise</a></li>
-	<li><a href="/promos/mobile">iPhone Videos</a></li>
+      <li><a href="http://www.funnyordie.co.uk/" onclick="window.open(this.href);return false;" rel="nofollow" title="Little Britain's FunnyOrDie.co.uk">UK Funny Videos</a></li>
   </ul>
 </div>
   
@@ -330,39 +496,34 @@
   
   <div class="footer_section">
     <h3>Featured Celebrities</h3>
-    <ul>
-        <li><a href="/videos/5216488a3b/eva-longoria-sex-tape-from-perry-hilton">Eva Longoria</a></li>
-        <li><a href="/jackblack">Jack Black</a></li>
-        <li><a href="/james_franco">James Franco</a></li>
-        <li><a href="/johnmayer">John Mayer</a></li>
-        <li><a href="/lindsay_lohan">Lindsay Lohan</a></li>
-        <li><a href="/natalie_portman">Natalie Portman</a></li>
-        <li><a href="/nick_swardson">Nick Swardson</a></li>
-        <li><a href="/oliviamunn">Olivia Munn</a></li>
-        <li><a href="/paris_hilton">Paris Hilton</a></li>
-        <li><a href="/sarah_silverman">Sarah Silverman</a></li>
-        <li><a href="/willarnett">Will Arnett</a></li>
-        <li><a href="/zac_efron">Zac Efron</a></li>
-    </ul>
-  </div>
-  
-  <div class="footer_section">
-    <h3>Our Sites</h3>
-    <ul style="border-right: 0px;">
-        <li><a href="http://www.shredordie.com/" onclick="window.open(this.href);return false;" rel="nofollow" title="Tony Hawk's ShredOrDie.com">Action Sports Videos</a></li>
-        <li><a href="http://www.eatdrinkordie.com/" onclick="window.open(this.href);return false;" rel="nofollow" title="Tom Colicchio's EatDrinkOrDie.com">Food Videos</a></li>
-        <li><a href="http://www.pwnordie.com/" onclick="window.open(this.href);return false;" rel="nofollow" title="PWNorDIE.com">Video Gaming</a></li>
-        <li><a href="http://www.morraderir.com.br/" onclick="window.open(this.href);return false;" rel="nofollow" title="MorraDeRir.com.br">Videos Engraçados</a></li>
-        <li><a href="http://www.funnyordie.co.uk/" onclick="window.open(this.href);return false;" rel="nofollow" title="Little Britain's FunnyOrDie.co.uk">UK Funny Videos</a></li>
-        <li><a href="http://www.greatamericans.com/" onclick="window.open(this.href);return false;" rel="nofollow" title="Real Videos">Real Videos</a></li>
-      <li></li>
-    </ul>
+      <ul style="float:left; width: 150px; border-right: 0px;">
+          <li><a href="/benstiller">Ben Stiller</a></li>
+          <li><a href="/videos/5216488a3b/eva-longoria-sex-tape-from-perry-hilton">Eva Longoria</a></li>
+          <li><a href="/heidi_montag">Heidi Montag</a></li>
+          <li><a href="/jackblack">Jack Black</a></li>
+          <li><a href="/james_franco">James Franco</a></li>
+          <li><a href="/johnmayer">John Mayer</a></li>
+          <li><a href="/john_c_reilly">John C. Reilly</a></li>
+          <li><a href="/lindsay_lohan">Lindsay Lohan</a></li>
+          <li><a href="/marion_cotillard">Marion Cotillard</a></li>
+      </ul>
+      <ul style="float:left; width: 150px; border-right: 0px;">
+          <li><a href="/natalie_portman">Natalie Portman</a></li>
+          <li><a href="/nick_swardson">Nick Swardson</a></li>
+          <li><a href="/oliviamunn">Olivia Munn</a></li>
+          <li><a href="/paris_hilton">Paris Hilton</a></li>
+          <li><a href="/ron_howard">Ron Howard</a></li>
+          <li><a href="/sarah_silverman">Sarah Silverman</a></li>
+          <li><a href="/willarnett">Will Arnett</a></li>
+          <li><a href="/zac_efron">Zac Efron</a></li>
+          <li><a href="/zachgalifianakis">Zach Galifianakis</a></li>
+      </ul>
   </div>
   
 <div class="clear"> </div></div></div>
 
   <div class="copyright_line">
-    Copyright © 2009 April Funny or Die Inc. All rights reserved.
+    Copyright © 2010 May Funny or Die Inc. All rights reserved.
     <p>
       
     </p>
@@ -371,78 +532,7 @@
 
 </div>
 
-
-	<div id="login_dialog" style="display:none;">
-	<div id="login_dialog_box_container">
-		<div class="box sbox  default_box login_dialog_box" id="login_dialog_box"><div class="c" id="login_dialog_box_c"><div class="collapse">&nbsp;</div>			<a href="#" onclick="hide_login_dialog(); return false;" style="float:right;height:16px;margin:0px;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?156b5b6c"></a>
-			<div id="login_signup_tabs">
-  			<a class="selected" href="#" id="login_tab" onclick="toggle_login_signup(&quot;login&quot;);; return false;" style="margin-left: 5px;">Log in</a>
-  			<a href="#" id="signup_tab" onclick="toggle_login_signup(&quot;signup&quot;);; return false;">Join</a>
-			</div>
-			<div style="padding-right:12px;padding-top:35px">
-  			<div class="box sbox  light_box login_signup_box"><div class="c"><div class="collapse">&nbsp;</div>    			<div id="login" style="display: block;">
-    			  <form action="https://www.funnyordie.com/session" id="login_form" method="post"><div id="login_fields">
-	<p><label for="login_user_login" class="label">Username</label><br>
-	<input class="text_input" id="login_user_login" name="login_user[login]" size="30" type="text"></p>
-	
-	<p><label for="login_user_password" class="label">Password</label><br>
-	<input class="text_input" id="login_user_password" name="login_user[password]" size="30" type="password"></p>
-	
-	<p><input checked="checked" class="checkbox" id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me" class="label">Remember me</label></p>
-	<p><input class="submit_btn" id="login_submit" name="commit" type="submit" value="Log In"></p>
-	<p class="centered" style="margin-top:16px;"><a href="/account/password_reminder" rel="nofollow">Forgot your password?</a></p>
-	
-	<input id="post_login_action" name="post_login_action" type="hidden">
-	<input id="post_login_action_id" name="post_login_action_id" type="hidden">
-	<input id="return_to" name="return_to" type="hidden" value="/about/privacy">
-</div>
-</form>
-    			</div>
-    			<div id="signup" style="display: none;">
-    			  <form action="https://www.funnyordie.com/account" id="signup_form" method="post">  <div id="signup_fields">
-    <p>
-      <label for="account_email" class="label">Your email address:</label>
-      <br>
-      <input class="text_input" id="account_email" maxlength="100" name="account[email]" size="20" type="text" value="">
-    </p>
-    <p>
-      <label for="account_login" class="label">Choose a username:</label>
-      <br>
-      <input class="text_input" id="account_login" maxlength="40" name="account[login]" size="20" type="text" value="">
-    </p>
-    <p>
-      <label for="account_password" class="label">Choose a password:</label>
-      <br>
-      <input class="text_input" id="account_password" maxlength="40" name="account[password]" size="20" type="password">
-    </p>
-    <p>
-      <label for="account_password_confirmation" class="label">Repeat your password:</label>
-      <br>
-      <input class="text_input" id="account_password_confirmation" maxlength="40" name="account[password_confirmation]" size="20" type="password">
-    </p>
-    <p>
-      <input id="account_accepted_tos" name="account[accepted_tos]" type="checkbox" value="1"><input name="account[accepted_tos]" type="hidden" value="0">&nbsp;&nbsp;
-      <label for="account_accepted_tos">I agree to the <a href="/about/terms">terms of use</a> and <a href="/about/privacy">privacy policy</a>.</label>
-    </p>
-    <p>
-      <input checked="checked" id="account_newsletter_opt_in" name="account[newsletter_opt_in]" type="checkbox" value="1"><input name="account[newsletter_opt_in]" type="hidden" value="0">&nbsp;&nbsp;
-      <label for="account_newsletter_opt_in">I would like to receive the Funny or Die newsletter.</label>
-    </p>
-    <p style="text-align: center;"><input class="submit_btn" name="commit" type="submit" value="&nbsp;Join Funny or Die&nbsp;"></p>
-	<input id="post_signup_action" name="post_signup_action" type="hidden">
-	<input id="post_signup_action_id" name="post_signup_action_id" type="hidden">
-	<input id="account_signup_source" name="account[signup_source]" type="hidden" value="login_dialogue">
-  </div>
-</form>
-    			</div>
-        	<div class="clear"> </div></div></div>
-      		</div>
-		<div class="clear"> </div></div></div>
-		<div id="login_dialog_hider" onclick="hide_login_dialog(); return false;">&nbsp;</div>
-	</div>
-	<div id="login_dialog_bg">&nbsp;</div>
-</div>	
-<!--[if lt IE 7]>
+	<!--[if lt IE 7]>
 	<script type="text/javascript">
 		// this triggers the ie6-specific hacks in show_login_dialog().
 		IS_IE_6 = true;
@@ -470,16 +560,6 @@
 </script>
 
 
-    <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-  try {
-    var gaTracker = _gat._getTracker("UA-1629113-1");
-    GA.page("");
-  } catch(err) {}
-</script>
     			<!-- Start Quantcast tag -->
       <script type="text/javascript">
         _qoptions={
@@ -492,27 +572,411 @@
       </noscript>
 			<!-- End Quantcast tag -->
 
+    <!-- Begin comScore Tag -->
+<script>
+  document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://sb" : "http://b") + 
+    ".scorecardresearch.com/beacon.js' %3E%3C/script%3E"));
+</script><script src="https://sb.scorecardresearch.com/beacon.js"></script>
+<script>
+  COMSCORE.beacon({
+    c1:2,
+    c2:"6035215",
+    c4:"http://www.funnyordie.com/about/privacy"
+  });
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035215&c3=&c4=http://www.funnyordie.com/about/privacy&c5=&c6=&c15=&cj=1" style="display:none" width="0" height="0" alt="" />
+</noscript>
+<!-- End comScore Tag -->
+
+      
+
+  
+<script charset="utf-8" type="text/javascript">
+//<![CDATA[
+        if (!pageNum) var pageNum = Math.round(Math.random() * 100000000); 
+        function set_skin(refresh) {
+          var src = unescape('http%3A//ordie.adbureau.net/hserver/acc_random=' + Math.round(Math.random() * 100000000) + '/' + 'AAMSZ=1400X1000/SITE=FUNNYORDIE.COM/area=about.page/pageid=' + pageNum);
+          if (refresh == 'true') 
+            src += '/is_refresh=true';
+          skin = document.createElement("script");
+          skin.setAttribute("type", "text/javascript");
+          skin.setAttribute("charset", "utf-8");
+          skin.setAttribute("src", src);
+          document.getElementsByTagName("head").item(0).appendChild(skin);
+        }
+        set_skin();
     
+//]]>
+</script>
+  
 
-
-
+  
 
 
 <script charset="utf-8" defer="defer" type="text/javascript">
 //<![CDATA[
 	var iframes = new Array('leader_board_iframe', 'medium_right_rectangle_iframe', 'skyscraper_iframe', 'short_right_rectangle_iframe');
 	function rotate_ads() {
-	pageNum = Math.round(Math.random() * 100000000);
-	for (var i = 0; i < iframes.length; i++) {
-	  if ($(iframes[i]) != undefined) $(iframes[i]).src = $(iframes[i]).src.replace(/acc_random=\d+\//, 'acc_random=' + Math.round(Math.random() * 100000000) + '/').replace(/pageid=\d+/, 'pageid=' + pageNum);
-	}
+	  pageNum = Math.round(Math.random() * 100000000);
 	
+  	for (var i = 0; i < iframes.length; i++) {
+
+  	  if ($(iframes[i]) != undefined) {
+     	  var src = $(iframes[i]).src.replace(/acc_random=\d+\//, 'acc_random=' + Math.round(Math.random() * 100000000) + '/').replace(/pageid=\d+/, 'pageid=' + pageNum);
+
+        if (src.indexOf('/is_refresh=true') == -1) 
+    	    src += '/is_refresh=true';
+  	    $(iframes[i]).src = src; 
+  	  }
+  	}
+  	set_skin('true');
+    
 	}
-  new PeriodicalExecuter(rotate_ads, 180);
+	if (typeof(stop_refresh) == 'undefined') new PeriodicalExecuter(rotate_ads, 180);
+
+//]]>
+</script>
+    <script type="text/javascript">
+//<![CDATA[
+    document.observe('fb_connect:loaded', function(event) {        
+      FB.Bootstrap.requireFeatures(["Connect"], function() {
+        FB.Connect.get_status().waitUntilReady( function(status) {
+          if (status == FB.ConnectState.connected) {
+            if (User.isLoggedIn()) {
+              var fb_logo = new Element('img', {src: '/images/s.gif', 'class': 'sprite facebook_connect_14x14', 'style': 'position: relative; top: -5px; right: -5px'});
+              $('profile_photo_tiny').insert({'before': fb_logo});
+              $('fod_logout_link').hide();
+              $('fb_logout_link').show();
+            } else {
+              
+              $$('span.facebook_connect_text_18x18').each(function(el) { el.update('Log in'); });
+              $('fb_connect').style.display = 'inline';
+            }
+          } else $('fb_connect').style.display = 'inline';
+        });
+      });
+    });
 
 //]]>
 </script>
 
+<script type="text/javascript">
+//<![CDATA[
+  function fbInit() {
+    var xtra_perms = null;
+    if (!User.isLoggedIn()) xtra_perms = {permsToRequestOnConnect: 'email'};
+    FB.init('8cfaaac2ff6772d8e0d6f1788726ee09', "/xd_receiver.htm", xtra_perms);
+  }
+
+  function showFbPhotos() {
+    FB_RequireFeatures(["XFBML"], function() {
+      $$('span.fb_user_photo').each(function(x) {
+          FB.XFBML.Host.addElement(new FB.XFBML.ProfilePic(x));
+      });
+    });    
+  }
+  
+  var fb_connect = document.createElement('script'), loaded = false;
+  fb_connect.setAttribute('type', 'text/javascript');
+  fb_connect.setAttribute('src', 'http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US');
+
+  fb_connect.onload = fb_connect.onreadystatechange = function() {
+    var rs = this.readyState;
+    if (rs && rs != 'complete' && rs != 'loaded') return;
+    if (loaded) return;
+    loaded = true;
+    fbInit();
+    FB.ensureInit(function() { $('FB_HiddenContainer').fire('fb_connect:loaded'); });
+  };
+
+  document.getElementsByTagName("head")[0].appendChild(fb_connect);
+  
+  window.onload = function() {
+    Event.observe($('fb_connect_href'), 'click', function(event){
+      $("fb_connect").hide();
+      $("fb_spinner").show();
+      FB.Connect.requireSession(function(x) { new Ajax.Request("/users/fb_connect_login", {method: "post"}) }); 
+      GA.event("fb_connect", "login", "/about/privacy"); 
+      return false;
+    })
+  }
+  
+
+//]]>
+</script>
+
+<div id="FB_HiddenContainer" style="position:absolute; top:-10000px; width:0px; height:0px;"></div>
+
     <div id="footnotes_holder"></div>
+    <div id="embed_widget_featured_1_dialog" class="embed_widget_dialog dialog" style="display:none"><div id="embed_widget_featured_1_dialog_box_container" class="embed_widget_dialog_box_container dialog_box_container"><div id="embed_widget_featured_1_dialog_box" class="embed_widget_dialog_box dialog_box "><div id="embed_widget_featured_1_dialog_close" style="position:absolute;top:-30px;right:30px"><img alt="" class="sprite red_x_icon" onclick="hide_dialog('embed_widget_featured_1_dialog');" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></div>
+<script type="text/javascript">
+//<![CDATA[
+
+	var template_featured_1 = new Template('<!-- Start of Funny or Die Funny or Die Featured Videos Widget -->\n<noscript><div><a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die Featured Videos<\/a> from <a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die<\/a><\/div><\/noscript>\n<iframe id=\"odn_featured_1\" frameborder=\"0\" marginheight=\"0\" marginwidth=\"0\" src=\"http://www.funnyordie.com/widget/featured/1#{querystring}\" width=\"#{width}\" height=\"#{height}\"><\/iframe>\n<div><a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die Featured Videos<\/a> from <a href=\"http://www.funnyordie.com/?utm_campaign=featured&amp;utm_medium=widget&amp;utm_source=featured\">Funny or Die<\/a><\/div>\n<!-- End of Funny or Die Funny or Die Featured Videos Widget -->');
+
+  function querystring_featured_1() {
+    var querystring = '';
+    var pairs = $H();
+    var defaults = $H({theme:'dark',layout:'horizontal',height:'300',width:'300',font_size:'17',header:'22'});
+    defaults.each(function(pair) {
+      var field_id = pair.key+'_featured_1';
+      if(pair.value != $(field_id).value) {
+        pairs.set(pair.key, $(field_id).value);
+      }
+    });
+    if(pairs.size() > 0) {
+      querystring = '?'+pairs.toQueryString();
+    }
+    field_id = 'title_featured_1';
+    if($(field_id.value) != '' && $(field_id).value != 'Funny or Die Featured Videos') {
+      querystring += '#'+escape($(field_id).value);
+    }
+    return querystring;
+  }
+
+	function update_embed_widget_code_featured_1() {
+	  $('embed_widget_featured_1').value = template_featured_1.evaluate({
+	    width:$('width_featured_1').value, height:$('height_featured_1').value, querystring:querystring_featured_1()
+	  });
+	  $('embed_widget_featured_1_dialog_box').setStyle({width:(parseInt($('width_featured_1').value)+240+'px')});
+		$('embed_widget_preview_featured_1').update($('embed_widget_featured_1').value);
+	}
+
+	function get_embed_code_featured_1() {
+	  GA.event('sharing','embed_widget_featured_copy','#{widget_object.id}')
+	  return $F('embed_widget_featured_1');
+	}
+
+
+//]]>
+</script>
+<div id="embed_widget_featured_1_dialog_close" style="position:absolute;top:-30px;right:30px"><img alt="" class="sprite red_x_icon" onclick="hide_dialog('embed_widget_featured_1_dialog');" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></div>
+<div id="selector_videos_featured_1" style="border:5px solid #FFFFFF;background-color:#464646;-moz-border-radius:5px;-webkit-border-radius:5px">
+
+	<h3 style="font-family:Futura;font-size:150%;text-align:center">Embed Funny or Die Featured Videos<br>on your webpage or blog </h3>
+
+  <table cellpadding="0" cellspacing="10" border="0">
+    <tbody><tr>
+      <td valign="top">
+	      <h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;">1. Customize Widget</h4>
+<table cellpadding="0" cellspacing="0" width="200" class="embed_widget_customization"><tbody>
+	<tr>
+	  <td width="60"><label for="THEME_FEATURED_1">THEME</label></td>
+	  <td>
+			<select id="theme_featured_1" name="theme_featured_1"><option value="dark">Dark</option>
+<option value="light">Light</option></select>
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('theme_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+	<tr>
+		<td><label for="LAYOUT_FEATURED_1">LAYOUT</label></td>
+		<td>
+			<select id="layout_featured_1" name="layout_featured_1"><option value="horizontal">Horizontal</option>
+<option value="vertical">Vertical</option></select>
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('layout_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+	<tr>
+		<td><label for="HEIGHT_FEATURED_1">HEIGHT</label></td>
+		<td>
+			<input id="height_featured_1" name="height_featured_1" style="width:120px;" type="text" value="300">
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('height_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+	<tr>
+		<td><label for="WIDTH_FEATURED_1">WIDTH</label></td>
+		<td>
+			<input id="width_featured_1" name="width_featured_1" style="width:120px;" type="text" value="300">
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('width_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+</tbody></table>
+
+<h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;">2. Customize Title</h4>
+<table cellpadding="0" cellspacing="0" width="200" class="embed_widget_customization"><tbody>
+  <tr>
+    <td width="60"><label for="title_featured_1">TITLE</label></td>
+    <td>
+      <input id="title_featured_1" name="title_featured_1" style="width:120px;" type="text" value="Funny or Die Featured Videos">
+      <script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('title_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+    </td>
+  </tr>
+	<tr>
+		<td><label for="HEADER_FEATURED_1">HEIGHT</label></td>
+		<td>
+			<input id="header_featured_1" name="header_featured_1" style="width:120px;" type="text" value="22">
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('header_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+	<tr>
+		<td><label for="FONT_SIZE_FEATURED_1">FONT SIZE</label></td>
+		<td>
+			<input id="font_size_featured_1" name="font_size_featured_1" style="width:120px;" type="text" value="17">
+			<script type="text/javascript">
+//<![CDATA[
+new Form.Element.EventObserver('font_size_featured_1', function(element, value) {update_embed_widget_code_featured_1()})
+//]]>
+</script>
+		</td>
+	</tr>
+  
+  <tr style="background-color:transparent">
+	  <td colspan="2" align="center"><button type="button">Preview</button></td>
+	</tr>
+</tbody></table>
+	      
+	      <h4 style="font-family:Futura;font-size:100%;margin-bottom:5px;margin-top:15px">3. Copy and Paste this HTML       <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" title="Click to copy" width="10" height="10" id="clippy">
+      <param name="movie" value="http://public0.ordienetworks.com/flash/clippy.swf?2383166d">
+      <param name="allowScriptAccess" value="always">
+      <param name="quality" value="high">
+      <param name="scale" value="noscale">
+      <param name="FlashVars" value="text_fnc=get_embed_code_featured_1">
+      <param name="bgcolor" value="151515">
+      <embed src="http://public0.ordienetworks.com/flash/clippy.swf?2383166d" title="Click to copy" width="10" height="10" name="clippy" quality="high" allowscriptaccess="always" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" flashvars="text_fnc=get_embed_code_featured_1" bgcolor="151515">
+      </object>
+</h4>
+      	<textarea id="embed_widget_featured_1" name="embed_widget_featured_1" onclick="javascript:this.focus();this.select();GA.event('sharing','embed_widget_featured_copy','1')" readonly="readonly" style="height:80px;width:198px;font-size:12px">wait for it...</textarea>
+	    </td>
+	    
+	    <td valign="top">
+	      <div id="embed_widget_preview_featured_1">Loading...</div>
+	      <div style="background-color:#47B5D7;-moz-border-radius:10px;color:#000000;text-align:center;font-family:Futura;margin-top:10px">
+	        <h3 style="color:#000000;padding-top:5px;margin:0;font-size:140%">Want More Widgets?</h3>
+	        <p style="margin:0;padding-bottom:5px">We hope you do, because we made a shit-ton.<br>Go to our <a href="/promos/widgethq" style="color:#000000">Widget Headquarters</a>.</p>
+	    </div></td>
+	  </tr>
+	</tbody></table>
+
+</div>
+
+</div><div id="embed_widget_featured_1_dialog_hider" class="embed_widget_dialog_hider dialog_hider" onclick="hide_dialog('embed_widget_featured_1_dialog'); return false;">&nbsp;</div></div><div id="embed_widget_featured_1_dialog_bg" class="embed_widget_dialog_bg dialog_bg">&nbsp;</div></div><script type="text/javascript">
+//<![CDATA[
+    var addthis_pub = "FunnyOrDie";
+    var addthis_share = {
+      url: 'http://www.funnyordie.com/about/privacy',
+      title: 'Funny or Die Privacy Notice'
+    };
+    
+  
+      if (!fb_attachment) var fb_attachment = {"name":"Funny or Die Privacy Notice","href":"http://www.funnyordie.com/about/privacy","description":"funny or die privacy notice - funny videos, funny captions and jokes featuring Will Ferrell, celebrities, comedians, and you"}
+      if (!fb_links) var fb_links = [{"href":"http://www.funnyordie.com/","text":"See more on Funny or Die"}]
+    
+    
+    var addthis_options = 'favorites, bitly, aim, buzz, delicious, fark, friendfeed, furl, google, linkedin, live, reddit, slashdot, spurl, technorati, more'; 
+
+//]]>
+</script>	<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js" defer="defer"></script>
+	
+<script type="text/javascript">
+//<![CDATA[
+Flash.init()
+//]]>
+</script><div id="login_dialog" class="login_dialog dialog" style="display:none"><div id="login_dialog_box_container" class="login_dialog_box_container dialog_box_container"><div class="box sbox  dialog_box login_dialog_box" id="login_dialog_box"><div class="c" id="login_dialog_box_c"><div class="collapse">&nbsp;</div>	<a href="#" onclick="hide_login_dialog(); return false;" style="float:right;height:16px;margin:0px;"><img alt="" class="sprite close_icon" src="http://public0.ordienetworks.com/images/s.gif?2383166d"></a>
+	<div id="login_signup_tabs">
+		<a class="selected" href="#" id="login_tab" onclick="toggle_login_signup(&quot;login&quot;);; return false;" style="margin-left: 5px;">Log in</a>
+		<a href="#" id="signup_tab" onclick="toggle_login_signup(&quot;signup&quot;);; return false;">Join</a>
+	</div>
+	<div style="padding-right:12px;padding-top:35px">
+		<div class="box sbox  light_box login_signup_box"><div class="c"><div class="collapse">&nbsp;</div>			<div id="login" style="display: block;">
+			  <form action="https://secure.funnyordie.com/session" id="login_form" method="post"><div id="login_fields">
+	<p><label for="login_user_login" class="label">Username</label><br>
+	<input autocapitalize="off" autocorrect="off" class="text_input" id="login_user_login" name="login_user[login]" size="30" type="text"></p>
+	
+	<p><label for="login_user_password" class="label">Password</label><br>
+	<input class="text_input" id="login_user_password" name="login_user[password]" size="30" type="password"></p>
+	
+	<p><input checked="checked" class="checkbox" id="remember_me" name="remember_me" type="checkbox" value="1"><label for="remember_me" class="label">Remember me</label></p>
+	<p><input class="submit_btn" id="login_submit" name="commit" type="submit" value="Log In"></p>
+	<p class="centered" style="margin-top:16px;"><a href="/account/password_reminder" rel="nofollow">Forgot your password?</a></p>
+	
+	<input id="post_login_action" name="post_login_action" type="hidden">
+	<input id="post_login_action_id" name="post_login_action_id" type="hidden">
+	<input id="return_to" name="return_to" type="hidden" value="/about/privacy">
+</div>
+</form>
+			</div>
+			<div id="signup" style="display: none;">
+			  <form action="https://secure.funnyordie.com/account" id="signup_form" method="post">  <div id="signup_fields">
+    <p>
+      <label for="account_email" class="label">Your email address:</label>
+      <br>
+      <input class="text_input" id="account_email" maxlength="100" name="account[email]" size="20" type="text">
+    </p>
+    <p>
+      <label for="account_login" class="label">Choose a username:</label>
+      <br>
+      <input class="text_input" id="account_login" maxlength="40" name="account[login]" size="20" type="text">
+    </p>
+    <p>
+      <label for="account_password" class="label">Choose a password:</label>
+      <br>
+      <input class="text_input" id="account_password" maxlength="40" name="account[password]" size="20" type="password">
+    </p>
+    <p>
+      <label for="account_password_confirmation" class="label">Repeat your password:</label>
+      <br>
+      <input class="text_input" id="account_password_confirmation" maxlength="40" name="account[password_confirmation]" size="20" type="password">
+    </p>
+    <p>
+      <input name="account[accepted_tos]" type="hidden" value="0"><input id="account_accepted_tos" name="account[accepted_tos]" type="checkbox" value="1">&nbsp;&nbsp;
+      <label for="account_accepted_tos">I agree to the <a href="/about/terms">terms of use</a> and <a href="/about/privacy">privacy policy</a>.</label>
+    </p>
+    <p>
+      <input checked="checked" id="newsletter_opt_in" name="newsletter_opt_in" type="checkbox" value="1">&nbsp;&nbsp;
+      <label for="account_newsletter_opt_in">I would like to receive the Funny or Die newsletter.</label>
+    </p>
+    <p style="text-align: center;"><input class="submit_btn" name="commit" type="submit" value="&nbsp;Join Funny or Die&nbsp;"></p>
+	  <input id="post_login_action" name="post_login_action" type="hidden">
+	  <input id="post_login_action_id" name="post_login_action_id" type="hidden">
+	  <input id="account_signup_source" name="account[signup_source]" type="hidden" value="login_dialogue">
+  </div>
+</form>
+			</div>
+    <div class="clear"> </div></div></div>
+  </div>
+<div class="clear"> </div></div></div><div id="login_dialog_hider" class="login_dialog_hider dialog_hider" onclick="hide_login_dialog(); return false;">&nbsp;</div></div><div id="login_dialog_bg" class="login_dialog_bg dialog_bg">&nbsp;</div></div><div id="fb_login_dialog" class="fb_login_dialog dialog" style="display:none"><div id="fb_login_dialog_box_container" class="fb_login_dialog_box_container dialog_box_container"><div id="fb_login_dialog_box" class="fb_login_dialog_box dialog_box default_box">
+  <div class="inline_message notice" style="margin-top: 0px;">
+    Facebook Connect -- Last Step
+  </div>
+  <div id="fb_login_error" class="inline_message error" style="display:none;"></div>
+  <div style="padding: 10px;">
+    <span class="label">
+      Please pick a Funny or Die username -- this will also be your vanity URL and the name that appears next to your comments. Alphanumeric only (numbers, letters and underscores).
+    </span>
+    <div id="fb_login_form" style="margin-top: 10px;">
+<form action="/users/fb_connect_login" method="post" onsubmit="$('fb_login_form').hide();$('fb_login_spinner').show();; new Ajax.Request('/users/fb_connect_login', {asynchronous:true, evalScripts:true, parameters:Form.serialize(this)}); return false;">        <input id="requested_login" name="requested_login" type="text"> &nbsp; <input name="commit" type="submit" value="Save">
+</form>    </div>
+    <div id="fb_login_spinner" style="margin-top: 10px; display: none;">
+      <h4><img alt="Spinner_black" src="http://public0.ordienetworks.com/images/spinner_black.gif?2383166d">&nbsp;&nbsp;Processing...</h4>
+    </div>
+  </div>
+  
+</div></div><div id="fb_login_dialog_bg" class="fb_login_dialog_bg dialog_bg">&nbsp;</div></div>
+    <!-- PageGen: Tue Jun 01 00:40:29 -0500 2010 -->
 	
 </body></html>
