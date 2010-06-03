@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teennick.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202231437id_/http%3A//www.teennick.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teennick.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603230346id_/http%3A//www.teennick.com/footerPage.php%3Fid%3D53) for the most accurate reproduction.*
 
 # Privacy Policy/Your California Privacy Rights | TeenNick
 
@@ -17,7 +17,7 @@ We also may collect certain non-personally identifiable information when you vis
 
 **Use of Collected Information**
 
-We use your personally identifiable information to provide the information or content you have requested (e.g., newsletters, show updates, entering you into a contest, sweepstakes or promotion, registration for our message boards), to contact you about programs, products, features or services in which we believe you may be interested, or for other purposes disclosed at the time of collection. We also may use your personally identifiable information to contact you regarding your use of our Web site or changes to our privacy notice, [Terms of Use](https://web.archive.org/web/20091202231437id_/http%3A//www.teennick.com/footerPage.php?id=52), or other policies or terms that affect you and your use of our Web site. In addition, we may use information collected about our users to improve the content and navigation of our Web site, or for other internal purposes.
+We use your personally identifiable information to provide the information or content you have requested (e.g., newsletters, show updates, entering you into a contest, sweepstakes or promotion, registration for our message boards), to contact you about programs, products, features or services in which we believe you may be interested, or for other purposes disclosed at the time of collection. We also may use your personally identifiable information to contact you regarding your use of our Web site or changes to our privacy notice, [Terms of Use](https://web.archive.org/web/20100603230346id_/http%3A//www.teennick.com/footerPage.php?id=52), or other policies or terms that affect you and your use of our Web site. In addition, we may use information collected about our users to improve the content and navigation of our Web site, or for other internal purposes.
 
 From time to time, we may combine the information we collect online with information available from other sources, including information received from promotional partners or other third parties.
 
@@ -42,7 +42,7 @@ With your permission, we also may, from time to time, share personally identifia
 
 **Collection of Information by Third-Party Sites and Sponsors**
 
-Some of our Web pages contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites??? privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
+Some of our Web pages contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices as we have no control over information that is submitted to, or collected by, these third parties.
 
 We may sometimes offer content (e.g., contests, sweepstakes, or promotions) that is sponsored by or co-branded with identified third parties. By virtue of these relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to participate in the site activity. We have no control over these third parties' use of this information. We will notify you at the time of requesting personally identifiable information if these third parties will obtain such information.
 
@@ -64,7 +64,7 @@ We have put in place appropriate physical, electronic, and managerial procedures
 
 To access the personally identifiable information that this site has collected about you online, or to correct factual errors in such information, please log into your profile and edit your information accordingly.
 
-**Children???s Privacy**
+**Children's Privacy**
 
 Visitors to this site may participate in many activities without providing any personally identifiable information. However, if a user wants to participate in certain of our interactive features, we may ask the user to register and provide us with the following types of information: name, e-mail address and age information. All such registered users must be at least thirteen (13) years old.
 
