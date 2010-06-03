@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230233550id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frugaldad.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603023959id_/http%3A//frugaldad.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Frugal Dad
+# Privacy
 
 ### FrugalDad.com Privacy Policy
 
