@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fleshasiadaily.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130162944id_/http%3A//fleshasiadaily.com/2007/07/26/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fleshasiadaily.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604005841id_/http%3A//fleshasiadaily.com/2007/07/26/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
