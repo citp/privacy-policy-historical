@@ -1,363 +1,366 @@
-<!--The following is the downloaded HTML source of the incentivelogic.com privacy policy that was archived on 2006-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20061208071519id_/http%3A//www.incentivelogic.com/about/privacy_policy.m) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the incentivelogic.com privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603033725id_/http%3A//www.incentivelogic.com/privacy-policy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy</title>
-<meta http-equiv="Content-type" content="text/html; charset=UTF-8">
-<meta name="keywords" content="">
-<meta name="description" content="">
-
-
-<link rel="stylesheet" type="text/css" href="/stylesheet/styles.css">
-<style media="print">
-body {
-font-family: Arial, Helvetica, sans-serif;
-font-size: 11px;
-padding: 0px;
-margin: 0px;
-text-align: center;
-background-color: #ffffff;
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<script type="text/javascript">// <![CDATA[
+var page = self.location.href;
+var referrer = document.referrer;
+if(page.indexOf("contact-thanks") != -1 && parent.location.href==page && referrer=="" && referrer.indexOf("com_chronocontact") == -1){
+  window.location.href = 'contact';
 }
-</style>
+// ]]></script>
+  <base href="http://www.incentivelogic.com/privacy-policy">
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta name="robots" content="index, follow">
+  <meta name="keywords" content="">
+  <meta name="title" content="Privacy Policy">
+  <meta name="author" content="Administrator">
+  <meta name="description" content="We Respect Your Privacy We always protect the confidentiality and privacy of our clients and participants. We use the information we gather from our site to improve the service we provide.">
+  <meta name="generator" content="Joomla! 1.5 - Open Source Content Management">
+  <title>We Respect Your Privacy | Incentive Logic</title>
+  <script type="text/javascript" src="/media/system/js/mootools.js"></script>
+  <script type="text/javascript" src="/media/system/js/caption.js"></script>
+  <!--[if gte IE 6]><link href="http://www.incentivelogic.com/components/com_chronocontact/themes/default/css/style1-ie6.css" rel="stylesheet" type="text/css" /><![endif]-->
+                <!--[if gte IE 7]><link href="http://www.incentivelogic.com/components/com_chronocontact/themes/default/css/style1-ie7.css" rel="stylesheet" type="text/css" /><![endif]-->
+                <!--[if !IE]> <--><link href="http://www.incentivelogic.com/components/com_chronocontact/themes/default/css/style1.css" rel="stylesheet" type="text/css"><!----> <!--[endif]---->
+                        <link rel="stylesheet" href="http://www.incentivelogic.com/components/com_chronocontact/css/calendar2.css" type="text/css">
+            <link href="http://www.incentivelogic.com/components/com_chronocontact/css/tooltip.css" rel="stylesheet" type="text/css">
+            <script type="text/javascript" src="http://www.incentivelogic.com/components/com_chronocontact/js/calendar2.js"></script>
+            <script src="http://www.incentivelogic.com/components/com_chronocontact/js/livevalidation_standalone.js" type="text/javascript"></script>
+            <link href="http://www.incentivelogic.com/components/com_chronocontact/css/consolidated_common.css" rel="stylesheet" type="text/css">
+            <script type="text/javascript">
+	Tips.implement({
+	initialize: function(elements, lasthope,options){
+			this.setOptions(options);
+			this.lasthope = lasthope;
+			this.toolTip = new Element('div', {
+				'class': 'cf_'+this.options.className + '-tip',
+				'id': this.options.className + '-tip-' + this.options.elementid,
+				'styles': {
+					'position': 'absolute',
+					'top': '0',
+					'left': '0',
+					'visibility': 'hidden'
+				}
+			}).inject(document.body);
+			this.wrapper = new Element('div').inject(this.toolTip);
+			$$(elements).each(this.build, this);
+			if (this.options.initialize) this.options.initialize.call(this);
+		},
+	
+		build: function(el){
+			el.$tmp.myTitle = (el.href && el.getTag() == 'a') ? el.href.replace('http://', '') : (el.rel || false);
+			if (el.title){
+				var dual = el.title.split('::');
+				if (dual.length > 1){
+					el.$tmp.myTitle = dual[0].trim();
+					el.$tmp.myText = dual[1].trim();
+				} else {
+					el.$tmp.myText = el.title;
+				}
+				el.removeAttribute('title');
+			} else {
+				var dual = this.lasthope.split('::');
+				if (dual.length > 1){
+					el.$tmp.myTitle = dual[0].trim();
+					el.$tmp.myText = dual[1].trim();
+				} else {
+					el.$tmp.myText = el.title;
+				}
+			}
+			if (el.$tmp.myTitle && el.$tmp.myTitle.length > this.options.maxTitleChars) el.$tmp.myTitle = el.$tmp.myTitle.substr(0, this.options.maxTitleChars - 1) + "&hellip;";
+			el.addEvent('mouseenter', function(event){
+				this.start(el);
+				if (!this.options.fixed) this.locate(event);
+				else this.position(el);
+			}.bind(this));
+			if (!this.options.fixed) el.addEvent('mousemove', this.locate.bindWithEvent(this));
+			var end = this.end.bind(this);
+			el.addEvent('mouseleave', end);
+			el.addEvent('trash', end);
+		},
+		start: function(el){
+			this.wrapper.empty();
+			if (el.$tmp.myTitle){
+				this.title = new Element('span').inject(new Element('div', {'class': 'cf_'+this.options.className + '-title'}).inject(this.wrapper)).setHTML(el.$tmp.myTitle);
+			}
+			if (el.$tmp.myText){
+				this.text = new Element('span').inject(new Element('div', {'class': 'cf_'+this.options.className + '-text'}).inject(this.wrapper)).setHTML(el.$tmp.myText);
+			}
+			$clear(this.timer);
+			this.timer = this.show.delay(this.options.showDelay, this);
+		}
+	});
+	window.addEvent('domready', function() {
+		$ES('.tooltipimg').each(function(ed){
+			var Tips2 = new Tips(ed, $E('div.tooltipdiv', ed.getParent().getParent()).getText(), {elementid:ed.getParent().getParent().getFirst().getNext().getProperty('id')+'_s'});
+		});
+	});
+	window.addEvent('domready', function() { 
+								});
+</script>			
+		<style type="text/css">
+			span.cf_alert {
+				background:#FFD5D5 url(http://www.incentivelogic.com/components/com_chronocontact/css/images/alert.png) no-repeat scroll 10px 50%;
+				border:1px solid #FFACAD;
+				color:#CF3738;
+				display:block;
+				margin:15px 0pt;
+				padding:8px 10px 8px 36px;
+			}
+		</style>
 
-<script language="javascript1.1" src="/javascript/menu.js"></script>
+<link rel="stylesheet" href="http://www.incentivelogic.com/templates/incentivelogic/css/template.css" type="text/css">
+<script language="javascript" type="text/javascript" src="http://www.incentivelogic.com/templates/incentivelogic/js/ja.script.js"></script>
+<!--[if gte IE 7.0]>
+<style type="text/css">
+.clearfix {display: inline-block;}
+</style>
+<![endif]-->
+<script language="javascript" type="text/javascript" src="http://www.incentivelogic.com/templates/incentivelogic/js/sifr.js"></script>
 </head>
-<body>
-
-<div align="center">
-<div class="pageBorder">
-<!-- **HEADER BRANDING LOGO** -->
-<table cellpadding="0" cellspacing="0" border="0" width="758">
-<tbody><tr height="88">
-<td class="header" valign="top" width="172"><a href="/index.m"><img src="http://images.incentivelogic.com/ilicorp/incentive_logic_logo.gif" alt="Incentive Logic - Corporate Incentive Programs and Innovative Reward Solutions for Businesses" title="Incentive Logic - Corporate Incentive Programs and Innovative Reward Solutions for Businesses" border="0"></a>
-</td>
-<td width="430" class="header" valign="top"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="1" height="88"></td>
-<td class="header" align="center" valign="center">
-<div style="padding: 0px 0px 9px 0px; text-align: center;">
-Contact us at<br>
-888.558.4483<br>
+<body id="bd" class="fs Others">
+<div id="wrapper">
+    <div id="header">
+    	<div class="call">1.888.558.4483</div>
+        <div class="logo"><a href="/"><img src="/images/stories/logo.gif" border="0" alt="Incentive Logic - Incentive Programs | Reward Programs | Employee Rewards" title="Incentive Logic - Incentive Programs | Reward Programs | Employee Rewards"></a></div>
+        <div id="ja-mainnavwrap"><div id="ja-mainnav" class="clearfix"><ul class="menu"><li class="item1"><a href="http://www.incentivelogic.com/"><span>Home</span></a></li><li class="parent item2"><a href="/program-types/market-research"><span>Program Types</span></a><ul><li class="item4"><a href="/program-types/market-research"><span>Market Research</span></a></li><li class="item5"><a href="/program-types/wellness-incentives"><span>Wellness Incentives</span></a></li><li class="item6"><a href="/program-types/employee-recognition"><span>Employee Recognition</span></a></li><li class="item7"><a href="/program-types/customer-loyalty"><span>Customer Loyalty</span></a></li><li class="item8"><a href="/program-types/channel-incentives"><span>Channel Incentives</span></a></li></ul></li><li class="parent item9"><a href="/products/points-program"><span>Products</span></a><ul><li class="item11"><a href="/products/points-program"><span>Points Program</span></a></li><li class="item12"><a href="/products/direct-rewards"><span>Direct Rewards</span></a></li></ul></li><li class="parent item13"><a href="/about"><span>About</span></a><ul><li class="item26"><a href="/about/approach"><span>Approach</span></a></li><li class="item28"><a href="/about/clients"><span>Clients</span></a></li><li class="item29"><a href="/contact"><span>Contact</span></a></li><li class="item31"><a href="/about/news"><span>News</span></a></li><li class="item30"><a href="/about/partners"><span>Partners</span></a></li></ul></li><li class="item24"><a href="/contact"><span>Contact</span></a></li></ul></div></div>
+    </div>
+    <div class="img_header"><img src="/images/stories/header_common.jpg" border="0"></div>
+    <div id="cnt_box">
+        <div class="box_top">&nbsp;</div>
+        <div class="cnt_area">
+        	<div class="cnt_padd">
+        		                                <div class="lnb">		<div class="moduletable">
+					<h1>Program Types</h1>
+					<ul class="menu"><li class="item15"><a href="/program-types/market-research"><span>Market Research</span></a></li><li class="item16"><a href="/program-types/wellness-incentives"><span>Wellness Incentives</span></a></li><li class="item17"><a href="/program-types/employee-recognition"><span>Employee Recognition</span></a></li><li class="item18"><a href="/program-types/customer-loyalty"><span>Customer Loyalty</span></a></li><li class="item19"><a href="/program-types/channel-incentives"><span>Channel Incentives</span></a></li></ul>		</div>
+			<div class="moduletable">
+					<h1>Our Products</h1>
+					<ul class="menu"><li class="item20"><a href="/products/points-program"><span>Points Program</span></a></li><li class="item21"><a href="/products/direct-rewards"><span>Direct Rewards</span></a></li></ul>		</div>
+	</div>                				<div class="cnt_main">
+                	<div class="breadcrumbs"><span class="breadcrumbs pathway">
+<a href="http://www.incentivelogic.com/" class="pathway">Home</a> <img src="/templates/incentivelogic/images/arrow.png" alt=""> Privacy Policy</span>
 </div>
-<a href="/email/request_callback.m?fullpage=1" onclick="popUpWin('/email/request_callback.m', 450, 440); return false;"><img src="http://images.incentivelogic.com/ilicorp/bt_request_callback.gif" alt="Request More Information" title="Request More Information" border="0"></a><br>
-</td>
-</tr>
-</tbody></table>
-<!-- /**HEADER BRANDING LOGO** -->
-<!-- **PRIMARY MENU NAVIGATION** -->
-<div class="menuBarBk" style="width: 758px; height: 5px;"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="758" height="5"></div>
-<div class="menuBar">
-<table cellpadding="4" cellspacing="0" border="0" width="100%">
-<tbody><tr height="26">
-<td><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="167" height="1"></td>
-<td width="110" align="center" id="prod" onmouseover="navHiLt('prod');" onmouseout="navNormal();"><a href="/studios/index.m" class="navItem" id="prodL" onmouseover="navHiLt('prod');">PRODUCTS</a></td>
-<td width="110" align="center" id="mod" onmouseover="navHiLt('mod');" onmouseout="navNormal();"><a href="/modules/index.m" class="navItem" id="modL" onmouseover="navHiLt('mod');">MODULES</a></td>
-<td width="110" align="center" id="serv" onmouseover="navHiLt('serv');" onmouseout="navNormal();"><a href="/services/index.m" class="navItem" id="servL" onmouseover="navHiLt('serv');">SERVICES</a></td>
-<td width="110" align="center" id="plat" onmouseover="navHiLt('plat');" onmouseout="navNormal();"><a href="/platform/index.m" class="navItem" id="platL" onmouseover="navHiLt('plat');">PLATFORM</a></td>
-<td width="110" align="center" id="sol" onmouseover="navHiLt('sol');" onmouseout="navNormal();"><a href="/solutions/index.m" class="navItem" id="solL" onmouseover="navHiLt('sol');">SOLUTIONS</a></td>
-<td width="111" align="center" id="about" onmouseover="navHiLt('about');" onmouseout="navNormal();"><a href="/about/index.m" class="navItem" id="aboutL" onmouseover="navHiLt('about');">ABOUT US</a></td>
-</tr>
-</tbody></table>
-</div>
-<!-- /**PRIMARY MENU NAVIGATION** -->
+                	
+<h1 class="title">Privacy Policy</h1>
 
 
-
-<div style="width: 758px; height: 49px; background-color: #7B869A;">
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-<td><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="179" height="5"></td>
-<td width="100%"><h1>Privacy Policy</h1></td>
-<td align="right"><img src="http://images.incentivelogic.com/ilicorp/aboutus_bkgrd.gif" alt="" title="" width="250" height="49"></td>
-</tr>
-</tbody></table>
-</div>
-<img src="http://images.incentivelogic.com/ilicorp/header_bar.gif" height="4" width="758" alt="" title=""><br>
-<!-- CONTENT MAIN -->
-<table cellpadding="0" cellspacing="0" width="758" border="0">
-<tbody><tr>
-<td class="sideNav" rowspan="3" valign="top" height="100%">
-
-<!-- SUB NAVIGATION (LEFT-HAND AREA) -->
-
-<div style="position: absolute; margin-top: -97px;" id="subNav" align="center">
-
-<table cellpadding="0" cellspacing="0" border="0" width="156">
-<tbody><tr>
-<td rowspan="5"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" height="13" width="13" alt="" title=""></td>
-</tr>
-<tr>
-<td width="12" colspan="3" background="http://images.incentivelogic.com/ilicorp/subnav_box_top.gif"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" height="13" width="156" alt="" title=""></td>
-</tr>
-<tr>
-<td background="http://images.incentivelogic.com/ilicorp/subnav_box_left.gif"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" height="1" width="12" alt="" title=""></td>
-<td width="123" bgcolor="#ffffff">
-<ul class="subnav">
-<li class="subnav"><a href="/about/index.m" class="subnav">Company</a></li>
-<li class="subnav"><a href="/about/team.m" class="subnav">Our Team</a></li>
-<li class="subnav"><a href="/partners/index.m" class="subnav">Partners</a></li>
-<li class="subnav"><a href="/about/contact_info.m" class="subnav">Contact Us</a></li>
-<li class="subnav"><a href="/about/featured_clients.m" class="subnav">Featured Clients</a></li>
-<li class="subnav"><a href="/news_events/index.m" class="subnav">News &amp; Events</a></li>
-<li class="subnav"><a href="/about/privacy_policy.m" class="subnav">Privacy Policy</a></li>
-</ul>
-</td>
-<td background="http://images.incentivelogic.com/ilicorp/subnav_box_right_aboutus.gif"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" height="1" width="21" alt="" title=""></td>
-</tr>
-<tr>
-<td width="21" colspan="3" background="http://images.incentivelogic.com/ilicorp/subnav_box_bottom.gif"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" height="22" width="156" alt="" title=""></td>
-</tr>
-</tbody></table>
-
-<table cellpadding="5" cellspacing="0" width="168">
-<tbody><tr>
-<td>
-<a href="/getting_started/index.m" class="headerLink" style="font-size: 11px;"><img src="http://images.incentivelogic.com/ilicorp/ic_proposal.gif" alt="Getting Started Online" title="Getting Started Online" hspace="10" vspace="6" border="0" align="absmiddle">SETTING THE STAGE</a><br>
-<a href="/experience.m" class="headerLink" style="font-size: 11px;"><img src="http://images.incentivelogic.com/ilicorp/ic_process.gif" alt="Our Process" title="Our Process" hspace="6" vspace="6" border="0" align="absmiddle">EXPERIENCE SUCCESS</a><br>
-<a href="/howtobuy/index.m?fullpage=1" class="headerLink" style="font-size: 11px;" onclick="popUpWin('/howtobuy/index.m', '580', '600'); return false;"><img src="http://images.incentivelogic.com/ilicorp/ic_howtobuy.gif" alt="How to Buy" title="How to Buy" hspace="11" vspace="6" border="0" align="absmiddle">HOW TO BUY</a><br>
-</td>
-</tr>
-</tbody></table>
+<div class="article-content">
+<h2 class="title">We Respect Your Privacy</h2>
+<p class="desc_blue">We protect the confidentiality of our clients and participants.</p>
+<p>We use the information we gather from our site to improve the service we provide. Incentive Logic does not sell or rent our databases with third parties. You can read our privacy policies in full below. Be assured that we will only make appropriate use of information we gather. If you feel that we are not abiding by our policy, please contact us immediately.</p>
+<p><strong>Incentive Logic, Inc.</strong><br>7835 E. McClain Dr.<br>Scottsdale, Arizona 85260<br>
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ var prefix = '&#109;a' + 'i&#108;' + '&#116;o';
+ var path = 'hr' + 'ef' + '=';
+ var addy22659 = 's&#117;pp&#111;rt' + '&#64;';
+ addy22659 = addy22659 + '&#105;nc&#101;nt&#105;v&#101;l&#111;g&#105;c' + '&#46;' + 'c&#111;m';
+ var addy_text22659 = 's&#117;pp&#111;rt' + '&#64;' + '&#105;nc&#101;nt&#105;v&#101;l&#111;g&#105;c' + '&#46;' + 'c&#111;m';
+ document.write( '<a ' + path + '\'' + prefix + ':' + addy22659 + '\'>' );
+ document.write( addy_text22659 );
+ document.write( '<\/a>' );
+ //-->\n </script><a href="mailto:support@incentivelogic.com">support@incentivelogic.com</a> <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '<span style=\'display: none;\'>' );
+ //-->
+ </script><span style="display: none;">This e-mail address is being protected from spambots. You need JavaScript enabled to view it
+ <script language="JavaScript" type="text/javascript">
+ <!--
+ document.write( '</' );
+ document.write( 'span>' );
+ //-->
+ </script></span><br>480-776-0800</p>
+<hr size="1" noshade="noshade">
+<h3>Public Website Privacy Policy</h3>
+<p><strong>Information Collection and Use</strong></p>
+<p>Incentive Logic, Inc. is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Incentive Logic collects information from our users at several different points on our web site. Our web server automatically recognizes only the visitor’s domain name, but not the email address (where possible). We collect only the domain name, but not the email address of visitors to our web page. We may also collect the email addresses of those who communicate with us via email, aggregate information on what pages consumers access or visit. We may also collect information volunteered by the consumer, such as survey information and/or site registrations, name and address, telephone number, or fax number. The information we collect is used to improve the content of our web page, to notify consumers about updates to our web site, or is used by us to contact visitors for marketing purposes.</p>
+<p><strong>Choice/Opt-In</strong></p>
+<p>Our visitors are given the opportunity to ‘opt-in’ to receiving emails. If you do not want to receive email from us in the future, you may opt-out of receiving these communications by selecting the link to remove yourself in any email, or let us know by contacting us using the mail or email address above. If you supply us with your postal address online, you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by contacting us using the mail or email address above. Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by contacting us using the mail or email address above. Customers may prevent their information from.</p>
 
 </div>
-<!-- /SUB NAVIGATION (LEFT-HAND AREA) -->
-
-<div style="border-right: solid 1px #9C9C9C; height: 100%;">
-<img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="177" height="1"><br>
-</div>
-</td>
-
-<!-- MAIN CONTENT INTRO IMAGE -->
-<td colspan="2">
-<img src="http://images.incentivelogic.com/ilicorp/brand_banner_5.jpg" width="580" height="70" alt="Incentive Logic's Privacy Policy" title="Incentive Logic's Privacy Policy"><br>
-<img src="http://images.incentivelogic.com/ilicorp/header_bar_bottom.gif" width="580" height="4" alt="" title=""><br>
-</td>
-<!-- /MAIN CONTENT INTRO IMAGE -->
-</tr>
-<tr>
-<!-- MAIN CONTENT -->
-<td width="401" valign="top">
-<div class="breadCrumbs">
-<a href="/index.m" class="breacCrumbInactive">Home</a> &gt; <a href="index.m" class="breacCrumbInactive">About Us</a> &gt; <span class="breadCrumbActive">Privacy Policy</span><br>
-
-</div>
-<div class="content">
-<h2>Client Administration Privacy Policy</h2>
-<h3>Effective as of May 2005</h3>
-Incentive Logic has created this privacy statement ("Statement") in order to demonstrate our commitment to client and member privacy. Privacy on the client administration website (the "Site") is of great importance to us. Because we gather important information from our visitors, we have established this Statement as a means to communicate our information gathering and dissemination practices. We reserve the right to change this Statement and will provide notification of the change at least thirty (30) business days prior to the change taking effect.<br>
-</div>
-</td>
-<!-- RELATED CONTENT -->
-<style>
-.boxHeader {font-size: 13px; color: #ffffff; background-color: #7B869A;}
-</style>
-<td width="180" valign="top" height="100%" align="center">
-<div class="relatedContent">
-<table cellpadding="0" cellspacing="0" border="0">
-<tbody><tr>
-<td class="boxHeader" valign="top"><img src="http://images.incentivelogic.com/ilicorp/box_header_left.gif" alt="" title=""></td>
-<td class="boxHeader">Related Links</td>
-<td class="boxHeader" valign="top"><img src="http://images.incentivelogic.com/ilicorp/box_header_right.gif" alt="" title=""></td>
-</tr>
-<tr>
-<td class="boxBorderLeft"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="1" height="1"></td>
-<td>
-<div class="relatedLinks">
-<a href="/about/why_ili.m" class="headerLink">Why Incentive Logic</a><br>
-<br>
-<a href="/choosing.m" class="headerLink">How to Choose an Incentive Provider</a><br>
-<br>
-<a href="/howtobuy/index.m?fullpage=1" class="headerLink" onclick="popUpWin('/howtobuy/index.m', '580', '600'); return false;">How to Buy</a><br>
-</div>
-</td>
-<td class="boxBorderRight"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" alt="" title="" width="1" height="1"></td>
-</tr>
-<tr>
-<td colspan="3" valign="top"><img src="http://images.incentivelogic.com/ilicorp/box_bottom.gif" alt="" title=""></td>
-</tr>
-</tbody></table>
-
-<br>
-<div align="center" style="width: 120px;">
-<a href="/about/privacy_policy.m?printpage=1&amp;user_id=&amp;account_id=" class="pageFunctions"><img src="http://images.incentivelogic.com/ilicorp/ic_printer.gif" alt="Print this Page" title="Print this Page" hspace="8" vspace="8" border="0" align="absmiddle">Printer Friendly</a><br>
-<a href="/email/email.m?fullpage=1&amp;puri=%2Fabout%2Fprivacy_policy.m&amp;pargs=user_id%3D%26account_id%3D" onclick="popUpWin('/email/email.m?puri=%2Fabout%2Fprivacy_policy.m&amp;pargs=user_id%3D%26account_id%3D', 370, 300); return false;" class="pageFunctions"><img src="http://images.incentivelogic.com/ilicorp/ic_email.gif" alt="Email this Page" title="Email this Page" hspace="8" vspace="8" border="0" align="absmiddle">Email this Page</a><br>
-</div>
-
-</div>
-</td>
-<!-- /RELATED CONTENT -->
-</tr>
-<tr>
-<td colspan="2">
-<div class="content">
-<h4>Collected Information</h4>
-We require clients who register to use the services ("Services") offered on our Site to give us contact information, such as their name, company name, address, phone number, campaign permissions, module permissions and e-mail address.<br>
-<br>
-Incentive Logic uses the information that we collect to set up Services for individuals and their organizations. We may also use the information to contact clients to further discuss client interest in our company, the Services that we provide, and to send information regarding our company or partners, such as promotions and events. Clients are invited to receive an email newsletter by providing an email address. Client email addresses and any personal Client information will not be distributed or shared with any third parties. Clients can opt out of being contacted by us, or receiving such information from us, at any time by sending an email to support@incentivelogic.com. Separately, Clients are also asked to provide an email address when registering for the Service, in order to receive a username and password. We may also email information regarding updates to the Service or company, and will send a Client Newsletter. Again, email will not be distributed or shared and Clients can opt out of receiving any communication by emailing support@incentivelogic.com at the time it is distributed, or at the time any Client registers for the Service.<br>
-<br>
-Except as we explicitly state at the time we request information, or as provided for in the Incentive Logic Master Services Agreement, we do not disclose to any third-party the information provided. Other third parties, such as content providers, may provide content on the web Site but they are not permitted to collect any information nor does Incentive Logic share any user information with these parties.<br>
-<br>
-Clients of the Service will be using the Site to host data and information ("Data"). Incentive Logic will not review, share, distribute, print, or reference any such Data except as provided in the Incentive Logic Master Service Agreement, or as may be required by law. Individual records may at times be viewed or accessed only for the purpose of resolving a problem, support issue, or suspected violation of the Master Service Agreement, or as may be required by law. Of course, Clients are responsible for maintaining the confidentiality and security of their user registration and password.<br>
-<br>
-Incentive Logic may also collect certain information from visitors to and Clients of the Site, such as IP addresses. This information is logged to help diagnose technical problems, and to administer our Site in order to constantly improve the quality of the Service. We may also track and analyze non-identifying and aggregate usage and volume statistical information from our visitors and Clients and provide such information to third parties.<br>
-<br>
-If a user elects to use our referral service for informing a friend about our site, we ask them for the friend's name and email address. Incentive Logic will automatically send the friend a one-time email inviting them to visit the site. Incentive Logic does not use this information for any other purpose.<br>
-<br>
-<h4>Cookie</h4>
-When you interact with the Incentive Logic Web site, we strive to make that experience easy and meaningful. When you come to our Web site, our Web server sends a cookie to your computer. Cookies are small amounts of information that Web browsers temporarily store in a computer's memory or hard drive.<br>
-<br>
-Incentive Logic uses session cookies containing encrypted information to allow the system to uniquely identify you while you are logged in and carry information from one web page to another. This information allows Incentive Logic to process your online requests and to ensure that you are who you say you are after you've logged in. We are especially careful about the security and confidentiality of the information stored in these cookies. For example, we do not store any passwords in cookies.<br>
-<br>
-Cookies are not required to use the Incentive Logic application, but it is recommended that you leave cookies turned on in order to achieve the best experience possible. All Incentive Logic cookies are temporary and will disappear when you close your web browser.<br>
-<br>
-Third Party Cookies: We may from time to time engage third parties to track and analyze non-personally identifiable usage and volume statistical information from visitors to our website to help us administer our website and improve its quality. Such third parties may use cookies to help track visitor behavior. Such cookies will not be used to associate individual website visitors to any personally identifiable information. All data collected by such third parties on behalf of salesforce.com is used only to provide us with information on site usage and is not shared with any other third parties.<br>
-<br>
-<h4>Security</h4>
-Our Site has security measures in place to help protect against the loss, misuse, and alteration of the Data under our control. When our Site is accessed using Secure Socket Layer (SSL), this technology protects information using both server authentication and data encryption to help ensure that Data is safe, secure, and available only to you. Incentive Logic also implements an advanced security method based on dynamic data and encoded session identifications, and hosts the Site in a secure server environment that uses firewall and other advanced technology to prevent interference or access from outside intruders. Finally, Incentive Logic provides unique user names and passwords that must be entered each time a Client logs on. These safeguards help prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of Data.<br>
-<br>
-<h4>Correcting &amp; Updating Your Information</h4>
-If Clients need to update or change registration and/or permission information please email support@incentivelogic.com or call 480-776-0800.<br>
-<br>
-<h4>Additional Information</h4>
-Questions regarding this Statement or the practices of this Site should be directed to Incentive Logic's Security Administrator by emailing such questions to support@incentivelogic.com<br>
-Copyright © 2000-2006 Incentive Logic, Inc.<br>
-<br>
-<h2>Participant RewardSite(s) and Folio Redemption Experience Policy</h2>
-<h3>Effective as of May 2005</h3>
-Incentive Logic, Inc. has created this privacy statement in order to demonstrate our firm commitment to your privacy. The following discloses the information gathering and dissemination practices for our web sites as hosted by Incentive Logic, Inc.<br>
-<br>
-<h4>Data Collection Usage</h4>
-Incentive Logic provides points program and Folio redemption delivery as a service to clients. During the process of collecting contact information from Folio/reward recipients, names, email addresses, shipping addresses and phone numbers are collected.<br>
-<br>
-All contact information collected during the shipping information data gathering process is used to facilitate orders (i.e., to get in touch with a reward recipient when necessary for fulfilling a Folio order). The contact, demographic and profiling information we collect from you may also be used to improve and customize the content of our site. This information is NOT shared with outside organizations for commercial purposes.<br>
-<br>
-This information may also become the property of our client and is subject to their privacy policy as provided on their site. As a vendor to the sponsor, Incentive Logic takes its role very seriously. We will not sell, rent or give your personally identifiable information to anyone other than our client.<br>
-<br>
-Additionally, we may share your information under the following conditions:<br>
-<ul style="margin: 5px 0px 15px 16px; padding: 0px;">
-<li>We have your consent.</li>
-<li>We need to provide your information to an Incentive Logic vendor who is working on our behalf to deliver your selected item to you.</li>
-<li>We are responding to a subpoena, court order, or other legal process.</li>
-</ul>
-<h4>IP Addresses</h4>
-We use your IP address to help diagnose problems with our server, and to administer our web site. In the Internet Protocol (IP), an IP address is a 32-bit number that identifies each sender or receiver's system.<br>
-<br>
-<h4>Cookies</h4>
-For each visitor, we may create a browser cookie that we use to keep track of your visits to our web site and to help our site run more smoothly. No private information is stored through our use of Cookies. While Cookies enhance your experience at an Incentive Logic web site, they are not required to facilitate an order. A cookie is a coded piece of information, stored on your computer that can be used to identify your computer during the current and subsequent visits to a web site.<br>
-<br>
-<h4>Security</h4>
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. Incentive Logic makes every effort to ensure that the information you provide when ordering is protected while you use our site.<br>
-<br>
-Your Points Program account information is password protected for your privacy and security. You may edit this information at any time. However, please use all appropriate measures to protect your password. The protection of each password remains the responsibility of the respective account holder.<br>
-<br>
-Incentive Logic may amend or edit this policy from time to time. If we make any major changes in the way in which we use your personal information we will post a notice to that effect on the Points Program Web site.<br>
-<br>
-This policy does not apply to the practices of companies that Incentive Logic does not own or control, or to people that Incentive Logic does not employ or manage.<br>
-</div>
-<br>
-</td>
-<!-- MAIN CONTENT -->
-</tr>
-</tbody></table>
 
 
-<!-- **FOOTER NAVIGATION** -->
-<div style="background-color: #9C9C9C; border-top: solid 1px #7F7F7F;"><img src="http://images.incentivelogic.com/ilicorp/1x1trans.gif" width="758" height="5" alt="" title=""></div>
-<div class="footerBar">
-<table cellpadding="0" cellspacing="0" border="0" width="100%" align="center">
-<tbody><tr height="24">
-<td align="center" width="20%"><a href="/news_events/index.m" class="footerItem">NEWS &amp; EVENTS</a></td>
-<td align="center" width="20%"><a href="/about/featured_clients.m" class="footerItem">FEATURED CLIENTS</a></td>
-<td align="center" width="20%"><a href="/about/contact_info.m" class="footerItem">CONTACT US</a></td>
-<td align="center" width="20%"><a href="/about/privacy_policy.m" class="footerItem">PRIVACY POLICY</a></td>
-</tr>
-</tbody></table>
-</div>
-<!-- **FOOTER NAVIGATION** -->
-</div>
-</div>
-<div align="center" style="color:#dddddd;">Copyright 2005-2006 - Incentive Logic, Inc. </div>
-<!-- **MENU DROPDOWN LAYERS -->
-<div class="nP" id="prodD" onmouseover="navHiLt('prod');" onmouseout="navNormal();">
-<div class="n" id="po4D" onmouseover="hi('po4');" onmouseout="unHi('po4');" onclick="load('/studios/index.m');"><a href="/studios/index.m" class="nPL">Studio Overview</a></div>
-<div class="n" id="po0D" onmouseover="hi('po0');" onmouseout="unHi('po0');" onclick="load('/studios/performance.m');"><a href="/studios/performance.m" class="nPL">Performance Studio</a></div>
-<div class="n" id="po1D" onmouseover="hi('po1');" onmouseout="unHi('po1');" onclick="load('/studios/recognition.m');"><a href="/studios/recognition.m" class="nPL">Recognition Studio</a></div>
-<div class="n" id="po2D" onmouseover="hi('po2');" onmouseout="unHi('po2');" onclick="load('/studios/loyalty.m');"><a href="/studios/loyalty.m" class="nPL">Loyalty Studio</a></div>
-<div class="n" id="po3D" onmouseover="hi('po3');" onmouseout="unHi('po3');" onclick="load('/studios/quick_rewards.m');"><a href="/studios/quick_rewards.m" class="nPL">Quick Rewards</a></div>
-</div>
-<div class="nP" id="modD" onmouseover="navHiLt('mod');" onmouseout="navNormal();">
-<div class="n" id="mod7D" onmouseover="hi('mod7');" onmouseout="unHi('mod7');" onclick="load('/modules/index.m');"><a href="/modules/index.m" class="nPL">Modules Overview</a></div>
-<div class="n" id="mod0D" onmouseover="hi('mod0');" onmouseout="unHi('mod0');" onclick="load('/modules/standard.m');"><a href="/modules/standard.m" class="nPL">Standard</a></div>
-<div class="n" id="mod1D" onmouseover="hi('mod1');" onmouseout="unHi('mod1');" onclick="load('/modules/sales.m');"><a href="/modules/sales.m" class="nPL">Sales</a></div>
-<div class="n" id="mod2D" onmouseover="hi('mod2');" onmouseout="unHi('mod2');" onclick="load('/modules/marketing.m');"><a href="/modules/marketing.m" class="nPL">Marketing</a></div>
-<div class="n" id="mod3D" onmouseover="hi('mod3');" onmouseout="unHi('mod3');" onclick="load('/modules/support.m');"><a href="/modules/support.m" class="nPL">Support</a></div>
-<div class="n" id="mod4D" onmouseover="hi('mod4');" onmouseout="unHi('mod4');" onclick="load('/modules/finance.m');"><a href="/modules/finance.m" class="nPL">Finance</a></div>
-<div class="n" id="mod5D" onmouseover="hi('mod5');" onmouseout="unHi('mod5');" onclick="load('/modules/human_resources.m');"><a href="/modules/human_resources.m" class="nPL">Human Resources</a></div>
-<div class="n" id="mod6D" onmouseover="hi('mod6');" onmouseout="unHi('mod6');" onclick="load('/modules/international.m');"><a href="/modules/international.m" class="nPL">International</a></div>
-</div>
-<div class="nP" id="servD" onmouseover="navHiLt('serv');" onmouseout="navNormal();">
-<div class="n" id="se5D" onmouseover="hi('se5');" onmouseout="unHi('se5');" onclick="load('/services/index.m');"><a href="/services/index.m" class="nPL">Services Overview</a></div>
-<div class="n" id="se0D" onmouseover="hi('se0');" onmouseout="unHi('se0');" onclick="load('/services/strategic_assessment.m');"><a href="/services/strategic_assessment.m" class="nPL">Strategic Assessment</a></div>
-<div class="n" id="se1D" onmouseover="hi('se1');" onmouseout="unHi('se1');" onclick="load('/services/implementation.m');"><a href="/services/implementation.m" class="nPL">Implementation</a></div>
-<div class="n" id="se2D" onmouseover="hi('se2');" onmouseout="unHi('se2');" onclick="load('/services/member.m');"><a href="/services/member.m" class="nPL">Member Services</a></div>
-<div class="n" id="se6D" onmouseover="hi('se6');" onmouseout="unHi('se6');" onclick="load('/services/client_support.m');"><a href="/services/client_support.m" class="nPL">Client Support</a></div>
-<div class="n" id="se3D" onmouseover="hi('se3');" onmouseout="unHi('se3');" onclick="load('/services/marketing.m');"><a href="/services/marketing.m" class="nPL">Marketing</a></div>
-<div class="n" id="se4D" onmouseover="hi('se4');" onmouseout="unHi('se4');" onclick="load('/services/custom_services.m');"><a href="/services/custom_services.m" class="nPL">Custom Services</a></div>
-</div>
-<div class="nP" id="solD" onmouseover="navHiLt('sol');" onmouseout="navNormal();">
-<div class="n" id="sol1D" onmouseover="hi('sol1');" onmouseout="unHi('sol1');" onclick="load('/solutions/index.m');"><a href="/solutions/index.m" class="nPL">Solutions Overview</a></div>
-<div class="n" id="sol2D" onmouseover="hi('sol2');" onmouseout="unHi('sol2');" onclick="load('/solutions/employee.m');"><a href="/solutions/employee.m" class="nPL">Employee</a></div>
-<div class="n" id="sol3D" onmouseover="hi('sol3');" onmouseout="unHi('sol3');" onclick="load('/solutions/sales.m');"><a href="/solutions/sales.m" class="nPL">Sales</a></div>
-<div class="n" id="sol4D" onmouseover="hi('sol4');" onmouseout="unHi('sol4');" onclick="load('/solutions/market_research.m');"><a href="/solutions/market_research.m" class="nPL">Market Research</a></div>
-<div class="n" id="sol5D" onmouseover="hi('sol5');" onmouseout="unHi('sol5');" onclick="load('/solutions/dealer_channel.m');"><a href="/solutions/dealer_channel.m" class="nPL">Dealer/Channel</a></div>
-<div class="n" id="sol6D" onmouseover="hi('sol6');" onmouseout="unHi('sol6');" onclick="load('/solutions/retail.m');"><a href="/solutions/retail.m" class="nPL">Retail</a></div>
-<div class="n" id="sol7D" onmouseover="hi('sol7');" onmouseout="unHi('sol7');" onclick="load('/solutions/financial.m');"><a href="/solutions/financial.m" class="nPL">Financial Services</a></div>
-<div class="n" id="sol8D" onmouseover="hi('sol8');" onmouseout="unHi('sol8');" onclick="load('/solutions/real_estate.m');"><a href="/solutions/real_estate.m" class="nPL">Real Estate</a></div>
-<div class="n" id="sol9D" onmouseover="hi('sol9');" onmouseout="unHi('sol9');" onclick="load('/solutions/healthcare.m');"><a href="/solutions/healthcare.m" class="nPL">Healthcare</a></div>
-</div>
-<div class="nP" id="platD" onmouseover="navHiLt('plat');" onmouseout="navNormal();">
-<div class="n" id="pl5D" onmouseover="hi('pl5');" onmouseout="unHi('pl5');" onclick="load('/platform/index.m');"><a href="/platform/index.m" class="nPL">Platform Overview</a></div>
-<div class="n" id="pl0D" onmouseover="hi('pl0');" onmouseout="unHi('pl0');" onclick="load('/platform/studio_director.m');"><a href="/platform/studio_director.m" class="nPL">StudioDirector™</a></div>
-<div class="n" id="pl1D" onmouseover="hi('pl1');" onmouseout="unHi('pl1');" onclick="load('/platform/hosting.m');"><a href="/platform/hosting.m" class="nPL">Hosting</a></div>
-<div class="n" id="pl2D" onmouseover="hi('pl2');" onmouseout="unHi('pl2');" onclick="load('/platform/modular_framework.m');"><a href="/platform/modular_framework.m" class="nPL">Customizable</a></div>
-<div class="n" id="pl3D" onmouseover="hi('pl3');" onmouseout="unHi('pl3');" onclick="load('/platform/reward_delivery.m');"><a href="/platform/reward_delivery.m" class="nPL">Reward Delivery</a></div>
-<div class="n" id="pl4D" onmouseover="hi('pl4');" onmouseout="unHi('pl4');" onclick="load('/platform/integration.m');"><a href="/platform/integration.m" class="nPL">Integration</a></div>
-</div>
-<div class="nP" id="aboutD" onmouseover="navHiLt('about');" onmouseout="navNormal();">
-<div class="n" id="ab6D" onmouseover="hi('ab6');" onmouseout="unHi('ab6');" onclick="load('/about/index.m');"><a href="/about/index.m" class="nPL">Company</a></div>
-<div class="n" id="ab0D" onmouseover="hi('ab0');" onmouseout="unHi('ab0');" onclick="load('/about/team.m');"><a href="/about/team.m" class="nPL">Our Team</a></div>
-<div class="n" id="ab1D" onmouseover="hi('ab1');" onmouseout="unHi('ab1');" onclick="load('/partners/index.m');"><a href="/partners/index.m" class="nPL">Partners</a></div>
-<div class="n" id="ab2D" onmouseover="hi('ab2');" onmouseout="unHi('ab2');" onclick="load('/about/contact_info.m');"><a href="/about/contact_info.m" class="nPL">Contact Us</a></div>
-<div class="n" id="ab3D" onmouseover="hi('ab3');" onmouseout="unHi('ab3');" onclick="load('/about/featured_clients.m');"><a href="/about/featured_clients.m" class="nPL">Featured Clients</a></div>
-<div class="n" id="ab4D" onmouseover="hi('ab4');" onmouseout="unHi('ab4');" onclick="load('/news_events/index.m');"><a href="/news_events/index.m" class="nPL">News &amp; Events</a></div>
-<div class="n" id="ab5D" onmouseover="hi('ab5');" onmouseout="unHi('ab5');" onclick="load('/about/privacy_policy.m');"><a href="/about/privacy_policy.m" class="nPL">Privacy Policy</a></div>
-</div>
-<!-- /**MENU DROPDOWN LAYERS -->
+<span class="article_separator">&nbsp;</span>
 
+<div class="article-tools">
+	<div class="article-meta">
+	
+	
+		</div>
 
+		<div class="buttonheading">
+								<span>
+			<a href="/component/mailto/?tmpl=component&amp;link=aHR0cDovL3d3dy5pbmNlbnRpdmVsb2dpYy5jb20vcHJpdmFjeS1wb2xpY3k%3D" title="E-mail" onclick="window.open(this.href,'win2','width=400,height=350,menubar=yes,resizable=yes'); return false;"><img src="/templates/incentivelogic/images/emailButton.png" alt="E-mail"></a>			</span>
+			
+						<span>
+			<a href="/privacy-policy?tmpl=component&amp;print=1&amp;page=" title="Print" onclick="window.open(this.href,'win2','status=no,toolbar=no,scrollbars=yes,titlebar=no,menubar=no,resizable=yes,width=640,height=480,directories=no,location=no'); return false;" rel="nofollow"><img src="/templates/incentivelogic/images/printButton.png" alt="Print"></a>			</span>
+			
+						</div>
+	
+	</div>
 
-<script language="javascript" type="text/javascript">
-var data,nhp,ntz,rf,sr;document.cookie='__support_check=1';nhp='http';
-rf=document.referrer;sr=document.location.search;
-if(top.document.location==document.referrer
-|| (document.referrer == '' && top.document.location != ''))
-{rf=top.document.referrer;sr=top.document.location.search}
-ntz=new Date();if(location.href.substr(0,6).toLowerCase()=='https:')
-nhp='https';data='&an='+escape(navigator.appName)+
-'&sr='+escape(sr)+'&ck='+document.cookie.length+
-'&rf='+escape(rf)+ '&sl='+escape(navigator.systemLanguage)+
-'&av='+escape(navigator.appVersion)+ '&l='+escape(navigator.language)+
-'&pf='+escape(navigator.platform)+ '&pg='+escape(location.pathname);
-if(navigator.appVersion.substring(0,1)>'3') {data=data+'&cd='+
-screen.colorDepth+'&rs='+escape(screen.width+ ' x '+screen.height)+
-'&tz='+ntz.getTimezoneOffset()+'&je='+ navigator.javaEnabled()};
-document.write('<img border=0 hspace=0 '+
-'vspace=0 width=1 height=1 src="'+nhp+'://counter.hitslink.com/'+
-'statistics.asp?v=1&s=3&acct=ilicorp'+data+'">');</script><img border="0" hspace="0" vspace="0" width="1" height="1" src="https://counter.hitslink.com/statistics.asp?v=1&amp;s=3&amp;acct=ilicorp&amp;an=Netscape&amp;sr=&amp;ck=17&amp;rf=&amp;sl=undefined&amp;av=5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;l=en-US&amp;pf=Linux%20x86_64&amp;pg=/web/20061208071519id_/http%253A//www.incentivelogic.com/about/privacy_policy.m&amp;cd=24&amp;rs=800%20x%20600&amp;tz=0&amp;je=false">
-<noscript>
-<img border=0 hspace=0 vspace=0 width=1 height=1 alt="" src="http://counter.hitslink.com/stats-ns.asp?acct=ilicorp&amp;v=1&amp;s=3">
-</noscript>
+                </div>
+                <div class="rnb">		<div class="moduletable">
+					<h1>Contact Us Today</h1>
+					﻿﻿			
+			                        						<form name="ChronoContact_contact_us_today" id="ChronoContact_contact_us_today" method="post" action="http://www.incentivelogic.com/index.php?option=com_chronocontact&amp;task=send&amp;chronoformname=contact_us_today&amp;Itemid=25">
+		
+				<b>First Name</b><br>
+<input class="cf_inputbox required" maxlength="100" size="20" id="text_0" name="First_Name" type="text"><br>
+<b>Last Name</b><br>
+<input class="cf_inputbox required" maxlength="100" size="20" id="text_1" name="Last_Name" type="text"><br>
+<b>Organization</b><br>
+<input class="cf_inputbox" maxlength="100" size="20" id="text_2" name="Organization" type="text"><br>
+<b>Email</b><br>
+<input class="cf_inputbox required validate-email" maxlength="150" size="20" id="text_3" name="Email" type="text"><br>
+<b>Phone</b><br>
+<input class="cf_inputbox" maxlength="100" size="20" id="text_4" name="Phone" type="text"><br>
+<b>Comments</b><br>
+<textarea class="cf_textarea" maxlength="1000" size="30" id="text_5" name="Comments" type="text"></textarea><br>
+<input value=" " type="submit" class="btn_submit">		<input type="hidden" name="1970b00c0fd035d9fa4059051d7cb91b" value="1">		
+</form>
 
-
-
-
+					
+        <script type="text/javascript">
+	Element.extend({
+		getInputByName1 : function(nome) {
+			el = this.getFormElements().filterByAttribute('name','=',nome)
+			return (el)?(el.length)?el[0]:el:false;
+		}
+	});
+	window.addEvent('domready', function() {
+	$ES('input', $('ChronoContact_contact_us_today')).each(function(field){
+		if((field.getProperty('type') != 'submit')&&(field.getProperty('type') != 'reset')&&(field.getProperty('type') != 'button')&&(field.getProperty('type') != 'hidden')){
+			if((field.getProperty('type') != 'radio')&&(field.getProperty('type') != 'checkbox')){
+				eval("var cfvalidate_"+field.getProperty('name').replace('[]', '')+" = new LiveValidation(field, { validMessage: ' ' });");
+			}
+			//checkValidations(field, "cfvalidate_"+field.getProperty('name').replace('[]', ''));
+			if(field.hasClass('required')){
+				var fMessage_val_required = 'This field is required';
+				eval("if(field.getProperty('title')){fMessage_val_required = field.getProperty('title');}")
+				eval("cfvalidate_"+field.getProperty('name').replace('[]', '')+".add( Validate.Presence, { failureMessage: fMessage_val_required } );");
+			}
+			if(field.hasClass('validate-number')){
+				var fMessage_val_validate_number = 'Please enter a valid number in this field.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_number = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Numericality, { notANumberMessage: fMessage_val_validate_number } );");
+			}
+			if(field.hasClass('validate-digits')){
+				var fMessage_val_validate_digits = 'Please use numbers only in this field. please avoid spaces or other characters such as dots or commas.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_digits = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Numericality, { notAnIntegerMessage: fMessage_val_validate_digits } );");
+			}
+			if(field.hasClass('validate-alpha')){
+				var fMessage_val_validate_alpha = 'Please use letters only (a-z) in this field.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_alpha = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: /^[a-zA-Z ]+$/, failureMessage: fMessage_val_validate_alpha } );");
+			}
+			if(field.hasClass('validate-alphanum')){
+				var fMessage_val_validate_alphanum = 'Please use only letters (a-z) or numbers (0-9) only in this field. No spaces or other characters are allowed.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_alphanum = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: !/\W/, failureMessage: fMessage_val_validate_alphanum } );");
+			}
+			if(field.hasClass('validate-date')){
+				var fMessage_val_validate_date = 'Please enter a valid date in this format yyyy/mm/dd';
+				eval("if(field.getProperty('title')){fMessage_val_validate_date = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: /(19|20)\d\d[- /.](0[1-9]|1[012])[- /.](0[1-9]|[12][0-9]|3[01])/, failureMessage: fMessage_val_validate_date } );");
+			}
+			if(field.hasClass('validate-email')){
+				var fMessage_val_validate_email = 'Invalid email address';
+				eval("if(field.getProperty('title')){fMessage_val_validate_email = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Email, { failureMessage: fMessage_val_validate_email } );");
+			}
+			if(field.hasClass('validate-url')){
+				var fMessage_val_validate_validate_url = 'Please enter a valid URL.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_validate_url = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: /^(http|https|ftp):\/\/(([A-Z0-9][A-Z0-9_-]*)(\.[A-Z0-9][A-Z0-9_-]*)+)(:(\d+))?\/?/i, failureMessage: fMessage_val_validate_validate_url } );");
+			}
+			if(field.hasClass('validate-date-au')){
+				var fMessage_val_validate_date_au = 'Please use this date format: dd/mm/yyyy. For example 17/03/2006 for the 17th of March, 2006.';
+				eval("if(field.getProperty('title')){fMessage_val_validate_date_au = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: /(0[1-9]|[12][0-9]|3[01])[- /.](0[1-9]|1[012])[- /.](19|20)\d\d/, failureMessage: fMessage_val_validate_date_au } );");
+			}
+			if(field.hasClass('validate-currency-dollar')){
+				var fMessage_val_validate_currency_dollar = 'Please enter a valid $ amount. For example $100.00 .';
+				eval("if(field.getProperty('title')){fMessage_val_validate_currency_dollar = field.getProperty('title');}");
+				eval("cfvalidate_"+field.getProperty('name')+".add( Validate.Format, { pattern: /^\$?\-?([1-9]{1}[0-9]{0,2}(\,[0-9]{3})*(\.[0-9]{0,2})?|[1-9]{1}\d*(\.[0-9]{0,2})?|0(\.[0-9]{0,2})?|(\.[0-9]{1,2})?)$/, failureMessage: fMessage_val_validate_currency_dollar } );");
+			}			
+			Validate.One_Required = function(elm, paramsObj){
+				var paramsObj = paramsObj || {};
+				var message = paramsObj.failureMessage || "Must Choose one";
+				var ready = false;
+				var elm = paramsObj.elm;
+				var p = elm.parentNode;
+				var options = p.getElementsByTagName('INPUT');
+				for(i=0; i<options.length; i++){
+					if(options[i].checked == true) {
+					  ready = true;
+					}
+				}
+				if(!ready){
+					Validate.fail(message);
+				}
+				return true;
+			}
+			if(field.hasClass('validate-one-required')){
+				var fMessage_val_validate_one_required = 'Please select one of the options.';
+				//if(field.size > 1)field.options[0].selected = true;
+				eval("if(field.getProperty('title')){fMessage_val_validate_one_required = field.getProperty('title');}")
+				eval("var cfvalidate_"+field.getProperty('name').replace('[]', '')+" = new LiveValidation(field, { validMessage: ' ', insertAfterWhatNode : field.parentNode });");
+				eval("cfvalidate_"+field.getProperty('name').replace('[]', '')+".add( Validate.One_Required, { elm : field, failureMessage: fMessage_val_validate_one_required } );");
+			}			
+		}
+	});
+	
+	$ES('select', $('ChronoContact_contact_us_today')).each(function(field){
+		eval("var cfvalidate_"+field.getProperty('name').replace('[]', '')+" = new LiveValidation(field, { validMessage: ' ' });");
+		if(field.hasClass('validate-selection')){
+			var fMessage_val_validate_selection = 'Please make a selection';
+			if(field.size > 1)field.options[0].selected = true;
+			eval("if(field.getProperty('title')){fMessage_val_validate_selection = field.getProperty('title');}");
+			eval("cfvalidate_"+field.getProperty('name').replace('[]', '')+".add( Validate.Presence, { failureMessage: fMessage_val_validate_selection } );");
+		}
+	});	
+	$ES('textarea', $('ChronoContact_contact_us_today')).each(function(field){
+		eval("var cfvalidate_"+field.getProperty('name').replace('[]', '')+" = new LiveValidation(field, { validMessage: ' ' });");
+		if(field.hasClass('required')){
+			var fMessage_val_required = 'This field is required';
+			eval("if(field.getProperty('title')){fMessage_val_required = field.getProperty('title');}")
+			eval("cfvalidate_"+field.getProperty('name').replace('[]', '')+".add( Validate.Presence, { failureMessage: fMessage_val_required } );");
+		}
+	});
+		
+	
+	
+	});
+</script>		<!-- You are not allowed to remove or edit the following 3 lines anyway if you didnt buy a license --> 
+<div class="chronoform">
+<a href="http://www.chronoengine.com">Joomla Professional Work</a>
+</div>
+<!-- You are not allowed to remove or edit the above 3 lines anyway if you didnt buy a license -->
+				</div>
+	</div>
+															</div>
+        </div>
+        <div class="box_bottom">&nbsp;</div>
+    </div>
+    <div id="footer">
+        <img src="/images/stories/logo_rpi.gif" border="0"><img src="/images/stories/logo_gic.gif" border="0"><img src="/images/stories/logo_ima.gif" border="0"><img src="/images/stories/logo_inc5000.gif" border="0"><a href="http://www.verticalmeasures.com/" target="_blank"><img src="/images/stories/vertical.gif" border="0" alt="Website Marketing Services"></a><a href="http://www.gatesix.com/internet-strategy/home.aspx" target="_blank"><img src="/images/stories/gatesix_logo_trans.png" border="0" alt="Phoenix Web Design" align="bottom"></a>
+        <ul class="menu_footer"><li class="item44"><a href="http://www.incentivelogic.com/"><span>Home</span></a></li><li class="item45"><a href="/program-types/market-research"><span>Program Types</span></a></li><li class="item46"><a href="/products/points-program"><span>Products</span></a></li><li class="item47"><a href="/about"><span>About</span></a></li><li class="item49"><a href="/contact"><span>Contact</span></a></li><li class="item50"><a href="/sitemap"><span>Sitemap</span></a></li></ul>
+        <div class="copyright">© Copyright 2009 Incentive Logic Inc. All Rights Reserved. <a href="/privacy-policy">Privacy Policy</a></div>
+		<div class="gatesix"></div>
+    </div>
+</div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-4798101-1");
+pageTracker._trackPageview();
+} catch(err) {}
+</script>
 
 </body></html>
