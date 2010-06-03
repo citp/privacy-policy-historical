@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the larryarticles.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202071305id_/http%3A//www.larryarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the larryarticles.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603132259id_/http%3A//www.larryarticles.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
 
 # privacy LarryArticles.com
 
