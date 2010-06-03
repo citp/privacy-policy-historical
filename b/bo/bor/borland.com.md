@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223132003id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the borland.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603025732id_/http%3A//www.borland.com/us/website/privacy.html) for the most accurate reproduction.*
 
 # Borland Privacy Policy
 
@@ -14,7 +14,7 @@ We do revise and update our privacy practices from time to time. In general, we 
 
 _Entities collecting personal information_
 
-Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 9420 Key West Avenue, Rockville, Maryland 20850 USA, and its telephone number is 301-838-5000.
+Personal information on this Site is collected by Borland Software Corporation, who is responsible for this site. Borland Software Corporation’s address is 700 King Farm Blvd, suite 400, Rockville, MD 20850 USA. For more details please see: <http://www.microfocus.com/aboutmicrofocus/contact/hq.asp>
 
 The Site contains links to other sites at which personal information is collected. In such instances, unless expressly provided to the contrary, the collection and use of your personal information will be governed by the privacy policy applicable to that site. That privacy policy should identify the entity that is collecting your personal information.
 
@@ -26,8 +26,8 @@ Personal information submitted through this Site or in connection with the Produ
 
 Borland Software Corporation  
 Privacy Officer/Customer Information  
-9420 Key West Avenue  
-Rockville, Maryland 20850  
+700 King Farm Blvd Suite 400  
+Rockville, MD 20850  
 USA
 
 ### Your Privacy
@@ -95,3 +95,5 @@ Borland takes its users' privacy concerns seriously. If you believe that Borland
 If you contact for this reason, please describe in as much detail as possible the ways in which you believe that the Privacy Policy has not been complied with. We will investigate your complaint promptly.
 
 If you provide Borland with inconsistent privacy preferences (for example, by indicating on one occasion that third parties may contact you with marketing offers and indicating on another occasion that they may not), Borland will endeavor to update your privacy preferences in a timely and accurate manner. Also, please note that Borland is not responsible for the content or privacy practices of non-Borland websites to which this Site or any other Borland website may link. You should review the privacy policy of such sites before using the sites.
+
+Borland complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. Borland certifies that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Borland's certification, please visit <http://www.export.gov/safeharbor/>.
