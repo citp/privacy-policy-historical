@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the entrust.net privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201195400id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the entrust.net privacy policy that was archived on 2010-06-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100603210802id_/http%3A//www.entrust.net/ssl-certificates/ssl-privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 <title>Privacy Statement - Entrust</title>
@@ -19,15 +19,77 @@
 
 
 
-
+ 
+ 
 <link rel="stylesheet" type="text/css" href="/css/global_ecs.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/css/menu5ecs.css" media="screen">
     <link rel="stylesheet" type="text/css" href="/css/form.css" media="screen">	
 	<link type="text/css" rel="stylesheet" href="/css/print.css" media="print">
 
+	<style type="text/css">
+	div#smartbutton1 {
+	  position:absolute;
+	  top:12px;
+	  right:5px;
+		margin:0;
+		padding: 0 0 1em 0;
+	  }
+	
+	div#smartbutton1 a {
+	  color: rgb(0,0,0);
+	  padding-right:5px;
+	  padding-left:5px;
+	  text-decoration:none;
+	  }
+	
+	div#smartbutton1 a:hover {
+		text-decoration:underline;
+	}
+	
+	</style>
+	
 	<script type="text/javascript" src="/includes/cookielibv2.js"></script>
 	<script type="text/javascript" src="/includes/image-popup.js"></script>
+	
+	
+	
+		<script language="JavaScript" type="text/javascript">
+		function agents_available() 
+		   {
+		    document.getElementById('smartbutton').innerHTML = '<div><a href="http://www.entrust.net/ssl-certificates/contact.htm"><img src="/images/ecshome_new/contact_me.gif" alt="Contact Me" width="60" height="60" style="float:right" /></a><div style="text-align:center; padding-top:13px"><strong>Need<br>Assistance?</strong></div></div>';
+		    someHtml = '<a href="http://www.entrust.com" target="_top" title="Entrust Home">Entrust.com</a> | <a href="/ssl-certificates/contact.htm" target="_top" title="Contact Us"><img src="/images/ecshome_new/telephone.gif" width="11" height="13" alt="" />1-866-267-9297</a> | <a href="mailto:entrust@entrust.com">entrust@entrust.com</a>';
+			
+			oldDiv = document.getElementById('smartbutton1');
 
+			newDiv = document.createElement(oldDiv.tagName);
+		
+			newDiv.id = oldDiv.id;
+			newDiv.className = oldDiv.className;
+			newDiv.innerHTML = someHtml;
+		
+			oldDiv.parentNode.replaceChild(newDiv, oldDiv);
+		    return true;
+		   }
+		function agents_not_available() 
+		   {
+		    document.getElementById('smartbutton').innerHTML = '<div><a href="http://www.entrust.net/ssl-certificates/contact.htm"><img src="/images/ecshome_new/contact_me.gif" alt="Contact Me" width="60" height="60" style="float:right" /></a><div style="text-align:center; padding-top:13px"><strong>Need<br>Assistance?</strong></div></div>';
+		    someHtml = '<a href="http://www.entrust.com" target="_top" title="Entrust Home">Entrust.com</a> | <a href="/ssl-certificates/contact.htm" target="_top" title="Contact Us"><img src="/images/ecshome_new/telephone.gif" width="11" height="13" alt="" />1-866-267-9297</a> | <a href="mailto:entrust@entrust.com">entrust@entrust.com</a>';
+			
+			oldDiv = document.getElementById('smartbutton1');
+
+			newDiv = document.createElement(oldDiv.tagName);
+		
+			newDiv.id = oldDiv.id;
+			newDiv.className = oldDiv.className;
+			newDiv.innerHTML = someHtml;
+		
+			oldDiv.parentNode.replaceChild(newDiv, oldDiv);
+
+		    return true;
+		   }
+		
+		</script>
+	
 </head>
 <body>
 <div id="container">
@@ -234,8 +296,9 @@ function launchTheWindow(audiolink){
 	</div>
 
 
+
 <div id="features">
-	
+
 	
 		
     
@@ -295,7 +358,7 @@ function launchTheWindow(audiolink){
 
                 <li><a href="http://www.entrust.net/ssl-certificates/ssl-privacy.htm" target="_top" title="Privacy Statement">Privacy Statement</a></li>
                 <li><a href="http://www.entrust.net/ssl-certificates/ssl-legal.htm" target="_top" title="Legal">Legal</a></li>
-				<li id="footer-last-item">© Copyright 2009 Entrust<sup>®</sup>.  All Rights Reserved.</li>
+				<li id="footer-last-item">© Copyright 2010 Entrust<sup>®</sup>.  All Rights Reserved.</li>
             </ul>
    	        <p id="footer-copyright">Entrust - One Lincoln Centre - 5400 LBJ Freeway, Suite 1340 - Dallas, Texas USA 75240</p>
 
@@ -327,7 +390,7 @@ function launchTheWindow(audiolink){
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
             </li>
            
-            <li><a href="/ssl-technical/index.htm" target="_top" title="Technical Support" id="technical">Support<!--[if IE 7]><!--></a><!--<![endif]-->
+            <li><a href="http://www.entrust.net/ssl-technical/index.htm" target="_top" title="Technical Support" id="technical">Support<!--[if IE 7]><!--></a><!--<![endif]-->
 
 	<!--[if lte IE 6]><table><tr><td><![endif]-->
                 <ul>
@@ -361,15 +424,12 @@ function launchTheWindow(audiolink){
 		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
             </li>
             <li><a href="http://www.entrust.com/corporate/index.htm" target="_top" title="About Entrust" id="about">About Entrust</a></li>
+            <li><a href="http://ssl.entrust.net/blog" target="_top" title="Blog" id="blog">Blog</a></li>
 			<li style="float:right; padding-right:25px;"><img src="/images/ecshome_new/arrow_button_greenbg.gif" width="19" height="19" alt="" style="left:-27px;top:2px;display:block; position:absolute"><a href="https://managed.entrust.net" target="_top" title="Management Service Login" id="cms">Management Service Login</a>
 		</li></ul>
     </div>
-	    <ul id="utility-nav">
-			
-            <li class="showUtilBorder2"><a href="http://www.entrust.com" target="_top" title="Entrust Home">Entrust.com</a></li>
-            <li class="showUtilBorder2"><a href="/ssl-certificates/contact.htm" target="_top" title="Contact Us"><img src="/images/ecshome_new/telephone.gif" width="11" height="13" alt="">1-866-267-9297</a></li>
-            <li><a href="mailto:entrust@entrust.com">entrust@entrust.com</a></li>
-	    </ul>
+	<div id="smartbutton1"></div>
+	    
 	<form method="get" action="http://search.entrust.com/search">
     	<div id="utility-search">
 <input type="text" name="q" id="utility-search-input" class="textfield">
@@ -429,8 +489,23 @@ imgsrc = prot + '//www.visitor-track.com/admin/loghit.asp?'
 + 'id=' + id + '&rp=' + escape(rp) + '&sw=' + screen.width + '&sh=' + screen.height
 + '&pa=' + escape(pageurl) + '&bn=' + escape(bn) + '&tz=' + tzo + '&vr=' + ver;
 document.write('<img border="0" alt="" src="' + imgsrc + '">');
-</script><img border="0" alt="" src="https://www.visitor-track.com/admin/loghit.asp?id=105356&amp;rp=&amp;sw=800&amp;sh=600&amp;pa=https%3A//web.archive.org/web/20091201195400id_/http%253A//www.entrust.net/ssl-certificates/ssl-privacy.htm&amp;bn=Netscape%20v5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;tz=0&amp;vr=3">
+</script><img border="0" alt="" src="https://www.visitor-track.com/admin/loghit.asp?id=105356&amp;rp=&amp;sw=800&amp;sh=600&amp;pa=https%3A//web.archive.org/web/20100603210802id_/http%253A//www.entrust.net/ssl-certificates/ssl-privacy.htm&amp;bn=Netscape%20v5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;tz=0&amp;vr=3">
 <!--End of Visitor Track Code-->
+
+
+
+		
+	
+<script language="JavaScript" type="text/javascript">
+  document.write('<img src="https://rs.instantservice.com/resources/smartbutton' +
+  '/7463/38416/available.gif?\' + Math.floor(Math.random()*10001)' +
+  '"style="width:0;height:0;visibility:hidden;position:absolute;"' +
+  'onLoad="agents_available()" onError="agents_not_available()">');
+</script><img src="https://rs.instantservice.com/resources/smartbutton/7463/38416/available.gif?' + Math.floor(Math.random()*10001)" style="width:0;height:0;visibility:hidden;position:absolute;" onload="agents_available()" onerror="agents_not_available()">
+
+
+
+
 
 
          
