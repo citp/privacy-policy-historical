@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webdirectorygo.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130164710id_/http%3A//www.webdirectorygo.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webdirectorygo.com privacy policy that was archived on 2010-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100603203255id_/http%3A//www.webdirectorygo.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - MyDirectory
 
