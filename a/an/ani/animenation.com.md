@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2002-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20021004045611id_/http%3A//www.animenation.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animenation.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604062823id_/http%3A//www.animenation.com/privacypolicy.html) for the most accurate reproduction.*
 
-# AnimeNation -
+# Privacy Policy
 
 **AnimeNation Privacy Information**
 
-Your privacy is very important to us. We DO NOT sell or share your personal information or email address with ANY third party. The following discloses our information gathering and dissemination practices for the websites: [http://www.animenation.com](https://web.archive.org/web/20021004045611id_/http%3A//www.animenation.com/index.html), [http://www.animenation.net](http://www.animenation.net/) and [http://www.fanimenation.com](http://www.fanimenation.com/).
+Your privacy is very important to us. We DO NOT sell or share your personal information or email address with ANY third party. The following discloses our information gathering and dissemination practices for the websites: [http://www.animenation.com](https://web.archive.org/web/20100604062823id_/http%3A//www.animenation.com/index.html) and [http://www.animenation.net](http://www.animenation.net/).
 
 Our site uses cookies to keep track of your shopping cart.
 
@@ -20,7 +20,11 @@ Any personal information (email address, home address etc) we obtain from visito
 
  **Choice/Opt-Out**
 
-To be removed from any of our email lists please email [webmaster@AnimeNation.com](mailto:webmaster@animenation.com) . If you are using a email forwarding service or other similar service please make sure to include the correct email address or addresses to remove.
+To be removed from any of our email lists please email [webmaster@animenation.com](mailto:webmaster@animenation.com) . If you are using a email forwarding service or other similar service please make sure to include the correct email address or addresses to remove.
+
+ **Third-Party Web Beacons**
+
+We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
 
  **Contacting the Web Site**
 
@@ -28,6 +32,6 @@ If you have any questions about this privacy statement, the practices of this si
 
 Webmaster  
 AnimeNation  
-13929 Lynmar Blvd.  
-Tampa FL 33626  
+PO Box 643  
+Oldsmar, FL 34677-0643  
 [webmaster@animenation.com](mailto:webmaster@animenation.com)
