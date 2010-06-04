@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2minutesurvey.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228020522id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2minutesurvey.co.uk privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604080442id_/http%3A//www.fair-exchange.com/privacy.aspx) for the most accurate reproduction.*
 
 # Fair Exchange Privacy Policy
 
