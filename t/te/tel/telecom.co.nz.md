@@ -1,22 +1,17 @@
-> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711165642id_/http%3A//www.telecom.co.nz/help/content/0%2C10709%2C101183-204492%2C00.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telecom.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604222829id_/http%3A//www.telecom.co.nz/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy : Telecom New Zealand Limited
 
-## 1\. Our Privacy Policy
+  * Our Privacy Policy
+  * Other policies applying to our services
+  * Visitors
+  * Security
+  * Use of cookies
+  * Telecom customers
+  * Telecom email marketing policy
+  * Changing this policy
 
-## 2\. Other policies applying to our services
 
-## 3\. Visitors
-
-## 4\. Security
-
-## 5\. Use of cookies
-
-## 6\. Telecom customers
-
-## 7\. Telecom email marketing policy
-
-## 8\. Changing this policy
 
 ## 1\. Our Privacy Policy
 
