@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2007-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070207044757id_/http%3A//www.whitman.edu/pieces/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitman.edu privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604181110id_/http%3A//www.whitman.edu/pieces/privacy.html) for the most accurate reproduction.*
 
-# Statement of Privacy
+# Privacy Statement
 
 Whitman College respects the privacy of prospective students, parents, current students, faculty, staff, alumni, and other individuals who use our web site. This statement addresses collection, use, security of, and access to information that may be obtained through use of www.whitman.edu. This notice covers the following topics: 
 
@@ -51,4 +51,4 @@ If you have any questions about the security at our web site, you can send an em
 If a person's personal information (such as address or phone number) changes we will endeavor to provide a way to correct, or update that user's personal data. Send corrections to [Whitman Webteam](mailto:webteam@whitman.edu).
 
 **How to contact us with questions or comments**  
-You can reach us through one of the following [contacts](https://web.archive.org/web/20070207044757id_/http%3A//www.whitman.edu/pieces/comments.html) or through the [Office of Communication](mailto:communication@whitman.edu). 
+You can reach us through one of the following [contacts](https://web.archive.org/content/communications/web/contact) or through the [Office of Communication](mailto:communication@whitman.edu). 
