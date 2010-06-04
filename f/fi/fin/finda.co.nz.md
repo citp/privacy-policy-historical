@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014054656id_/http%3A//www.finda.co.nz/help/legal-and-rules/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finda.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604223708id_/http%3A//www.finda.co.nz/help/legal-and-rules/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legal and rules - finda NZ
 
-## The apnfinda privacy statement
+## The finda privacy statement
 
-  1. **Collection** : apnfinda Limited ("we" or "us") gathers various information about customers and users of apnfinda's websites www.apndata.co.nz, www.wises.co.nz, www.finda.co.nz, www.ubd.co.nz ("Websites"), (and in particular as they use Information Sharing Functions and other services offered on the website ) (the "Services").
+  1. **Collection** : finda Limited ("we" or "us") gathers various information about customers and users of finda's websites www.wises.co.nz, www.finda.co.nz, www.menus.co.nz ("Websites"), (and in particular as they use Information Sharing Functions and other services offered on the website ) (the "Services").
 
 This information includes: 
 
@@ -14,7 +14,7 @@ This information includes:
 
     3. personal information collected by us through click tracking in relation to your use of our Websites, including the content you access and your usage of the Services and On-line shopping; 
 
-    4. aggregated data, which tracks traffic to the various apnfinda Websites; and
+    4. aggregated data, which tracks traffic to the various finda Websites; and
 
     5. cookies, which are pieces of information transferred to your computer hard drive for record keeping (such as your preferences on our Websites).
 
@@ -37,4 +37,4 @@ This information includes:
 
 
 
-### Call 0800 823 225 for phone support, Monday - Friday from 8am to 6pm
+### Call 0800 823 225 for phone support, Monday - Friday from 8am to 5pm
