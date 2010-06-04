@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109125159id_/http%3A//www.foreignpolicy.com/story/cms.php%3Fstory_id%3D230) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreignpolicy.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604234314id_/http%3A//www.foreignpolicy.com/articles/privacy_policy) for the most accurate reproduction.*
 
-# Foreign Policy: Privacy Policy
-
-  
-Privacy Policy 
+# Privacy Policy | Foreign Policy
 
 **FOREIGN POLICY** respects our subscribers’ and Web site users’ right to privacy. Personally identifiable information is collected on our Web site only when voluntarily provided by the user. This information is used to deliver requested items such as the **FP** _e_ -Alert newsletter, purchased products, content or Forum access, or magazine subscriptions. We also use this information to make your experience on ForeignPolicy.com more enjoyable and convenient. 
 
@@ -19,15 +16,13 @@ Other information collected on our Web site is not personally identifiable and i
 
 Occasionally, **FP** makes portions of its magazine subscription mailing list available to reputable companies and organizations whose products or services we feel may be of interest to you. Many of our subscribers find this a valuable and timesaving service. If you would rather not receive these mailings, please send us a request in writing at one of the addresses below asking us not to release your name to third parties. Please allow 12 weeks for your request to take effect. 
 
-| 
-
 **By Mail:**
 
 FOREIGN POLICY   
 P.O. Box 474  
-Mt. Morris, IL 61054-8499
+Mt. Morris, IL 61054-8499 
 
 |   
 ---|---  
   
-If you have questions or concerns about **FP** ’s Privacy Policy, please contact us at [FP@ForeignPolicy.com](mailto:%20FP@ForeignPolicy.com). 
+If you have questions or concerns about **FP** ’s Privacy Policy, please contact us at [FP@ForeignPolicy.com](mailto:%20FP@ForeignPolicy.com).
