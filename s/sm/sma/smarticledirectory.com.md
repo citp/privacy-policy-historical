@@ -1,76 +1,23 @@
-> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219160415id_/http%3A//www.smarticledirectory.com/pages/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smarticledirectory.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604060157id_/http%3A//smarticledirectory.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-SmarticleDirectory Privacy Policy  
-[Last Updated July 25, 2008]
+**Smarticle Directory** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
-Your privacy is important to SmarticleDirectory.com and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it.
+## Routine Information Collection
 
-**Customer and Membership Information:**  
-Customer account information and Membership account information that you provide (such as your email address, address, phone number, passwords, credit card or payment information, etc.) is held in strict confidence and will not be sold or rented to 3rd parties, but will be used for the purposes of providing services described on this website.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this site. The information is tracked for routine administration and maintenance purposes.
 
-**Email Privacy:**
+## Cookies and Web Beacons
 
-  * **Email Newsletter & Email Alert Subscription Forms**  
-SmarticleDirectory.com uses subscription forms for individuals to request information by subscribing to email newsletters and/or email alerts based on their categories of interest. We collect contact information (like your name and/or email address amoung other data) to provide you with the information that you requested. We do not sell or rent email addresses to any 3rd parties.
-  *  **Confirm OPT-IN**  
-We provide confirm opt-in opportunities for any email list(s) that you choose to receive. We use your email address to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any SmarticleDirectory email list or newsletter. You can change the email address that you have subscribed by using our Manage Your Subscriptions form or you can unsubscribe with the email address you're currently subscribed with and then subscribe again with a new email address.
-  *  **Unsubscribe**  
-You can unsubscribe/opt-out for any or all email lists that you previously chose to receive. Emails sent to you includes the information necessary for removal from the list.
-  *  **User/Member/Client Communications**  
-When you send email or other communications to us, we may retain those communications in order to process your requests and improve the quality of our services.
-  *  **Transactional Relationships**  
-Customers, Members, and/or Users are considered to be engaged in a transactional relationship with SmarticleDirectory.com and as such, we may need to email or communicate with you from time to time in order to deliver our services.
+Where necessary, Smarticle Directory uses cookies to store information about a visitor's preferences and history in order to better serve the visitor and/or present the visitor with customized content.
 
+Advertising partners and other third parties may also use cookies, scripts and/or web beacons to track visitors to our site in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. 
 
+## Controlling Your Privacy
 
-**Personal Information and Other Data We Collect:**
+Note that you can change your browser settings to disable cookies if you have privacy concerns. Disabling cookies for all sites is not recommended as it may interfere with your use of some sites. The best option is to disable or enable cookies on a per-site basis. Consult your browser documentation for instructions on how to block cookies and other tracking mechanisms. This list of [web browser privacy management](http://www.synclastic.com/privacy/browser-configuration/) links may also be useful.
 
-  * SmarticleDirectory collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other SmarticleDirectory services or 3rd party data to provide a better user experience for you.
-  * SmarticleDirectory uses cookies (a piece of data stored on the user's computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services.
-  * SmarticleDirectory servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you.
+## Contact Information
 
-
-
-**Uses:**
-
-  * We may use the personal information you provided to provide the services you requested and for our own research and analysis to operate and improve on the services and products that we deliver, as well as develop new services and products.
-  * We may share the aggregated non-personal information with 3rd parties outside of SmarticleDirectory.com.
-  * When we use 3rd parties to assist us in the processing of your personal information (example: shopping cart service provider), we require that they comply with our Privacy Policies, confidentiality and security measures.
-  * We may share information with 3rd parties in limited circumstances when complying with legal process, preventing suspected fraud or imminent harm, and ensuring the security of our network and services. 
-  * We may use your postal and electronic address to send you items and/or information relevant to your use of our services.
-  * We may conduct member and/or user survey's in order to improve our services.
-
-
-
-**Links:**
-
-  * This site contains links to other 3rd party sites and these sites are not covered under our privacy policy. We have made attempts to make sure these links are currently active but do not assure any responsibility for the content of these websites. We highly recommend that you review the privacy policies of these websites as well.
-  * SmarticleDirectory may present links in a way that allows us to track whether these links have been followed. We use this information to improve the quality of our services.
-
-
-
-**Advertising Specific Terms & Conditions:**  
-We use a combination of internal and 3rd party advertising companies to serve our ads on our website and in our emails, based on personal information. To track the effectiveness of the ads and provide a better user experience, these companies use information about your web visits to our website to serve relevant ads. Information collected and used may include IP address, geographical location, their cookie and and historical data previously collected. We will not provide any personal information to our advertisers when you interact with or view a targeted ad, however, by viewing or interacting with an ad, you are consenting to the possibility that the advertiser will assume you meet the targeting criteria used to display the ad(s).
-
-**Security Management and Data Security:**  
-The SmarticleDirectory.com web site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, including management procedures and specialized training for those who work directly with our databases. We take measures to protect against the unauthorized access of personal data, including physical security considerations of the stored data. We restrict access to personal data to SmarticleDirectory.com employees, contractors and agents who need to know that information in order to operate, innovate, and deliver our services.
-
-**SmarticleDirectory Affiliate Partner Information:**  
-All SmarticleDirectory affiliate information including address, phone number, email addresses, and tax id numbers are held in strict confidence. This information is collected for the purpose of generating commission payments, meeting United States federal tax laws, and managing our services.
-
-**Notification of Changes:**  
-From time to time, SmarticleDirectory.com will occasionally update our Privacy Policy. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from SmarticleDirectory.com you will not be contacted, nor will your personal information be used in this new manner. SmarticleDirectory.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy.
-
-**Your Choice:**  
-You can decline to submit personal information for any of our services, in which case SmarticleDirectory.com may not be able to provide services to you.
-
-**Legal Disclaimer:**  
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims.
-
-**Contacting this Web Site:**  
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact:
-
-SmarticleDirectory.com Privacy Matters  
-[Contact SmarticleDirectory.com](https://web.archive.org/web/20090219160415id_/http%3A//pages/Contact-Us.html)
+Concerns or questions about this privacy policy can be directed to support@smarticledirectory.com for further clarification.
