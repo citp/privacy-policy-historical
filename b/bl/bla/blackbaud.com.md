@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231161444id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackbaud.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604175716id_/http%3A//www.blackbaud.com/privacy/overview.aspx) for the most accurate reproduction.*
 
 # Blackbaud Privacy Policy
 
@@ -34,8 +34,8 @@ Blackbaud strictly protects the security of your personal information and honors
 **Use of Cookies**   
 To ensure we are publishing content customers need and want, Blackbaud collects aggregated site-visitation statistics using cookies. When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously. If you choose to not have your browser accept cookies from Blackbaud’s Web site, you will need to re-enter your personal information each time that you attempt to access premium information.  
 
- **Blackbaud OnDemand Service  Agreement**   
-Download the [Blackbaud OnDemand Service Agreement](http://www.blackbaud.com/files/resources/OnDemandServiceAgreement.pdf).
+ **Blackbaud OnDemand Service  Level Agreement**   
+Download the [Blackbaud Hosting Service Level Agreement](http://www.blackbaud.com/files/resources/HostingServicesAgreement.pdf).
 
  **Acceptable Use Policy for Forums and Blogs**  
 Please remember that the open and real-time nature of these Forums makes it is impossible for us to vouch for the validity of any content posted. As such, we are not responsible for any messages posted or the consequences of following any advice offered within Forum posts. The views expressed in the posts you will find in these forums belong solely to their respective authors and do not necessarily reflect the views of Blackbaud, Inc. If you find any posts in these Forums to be offensive or objectionable, please contact us via email to the address offered as a contact for the Forums in question. If we determine that removal of a post or posts is necessary, we will make reasonable efforts to do so in a timely manner.
