@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openauto.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126114931id_/http%3A//www.openauto.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openauto.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604090347id_/http%3A//www.openauto.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # New Car Dealer Prices | New Car Invoice Prices | New car Dealerships - OpenAuto.com USA
 
