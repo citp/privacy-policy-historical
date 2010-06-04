@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scholars4dev.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204155337id_/http%3A//www.scholars4dev.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scholars4dev.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605001306id_/http%3A//www.scholars4dev.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Scholarships for Development
+# Privacy Policy | International Scholarships for Developing Countries | Scholarships for Development
 
 The privacy of our visitors to scholars4dev.com is important to us.
 
