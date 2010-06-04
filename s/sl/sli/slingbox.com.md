@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slingbox.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927080205id_/http%3A//www.slingbox.com/get/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingbox.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604053806id_/http%3A//www.slingbox.com/get/privacy) for the most accurate reproduction.*
 
-# Sling Media Support - Privacy Policy
+# Slingbox.com - Privacy Policy
 
 **Introduction:  
 **
