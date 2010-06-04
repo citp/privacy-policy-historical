@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soxprospects.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | SoxProspects.com
 
-| [](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/index.html) |    
+| [](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/index.html) |    
 ---|---  
   
   |   |   |    
@@ -38,8 +38,6 @@ If you have any questions or suggestions regarding our privacy policy, please co
   |  | 
 
 Sponsored By  
-   
-[ ](http://www.betus.com/ats/15659/?camp=tiger)  
    
   
 ---  
@@ -82,11 +80,12 @@ Order [ F](http://www.livefootballtickets.com/)[ootball tickets](http://www.live
 [ Champions League tickets](http://www.livefootballtickets.com/champions-league-tickets.html), [ Community Shield tickets](http://www.livefootballtickets.com/community-shield-tickets.html), [ English FA Cup tickets](http://www.livefootballtickets.com/fa-cup-tickets.html), [ Liverpool tickets](http://www.livefootballtickets.com/english-premiership/liverpool-tickets.html), and [ Chelsea tickets](http://www.livefootballtickets.com/english-premiership/fc-chelsea-tickets.html)   
    
   
+** [ SoxProspects Mailbag](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/mailbag.htm)**  
    
 Rankings updated every Friday  
 during the season  
    
-[** Prospect Grading Legend**](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/about.htm#Grades)  
+[** Prospect Grading Legend**](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/about.htm#Grades)  
    
   
    
@@ -94,8 +93,8 @@ during the season
   
   
    
-[ ](http://www.jimmyfund.org/)  
-[ The Jimmy Fund](http://www.jimmyfund.org/)  
+While visiting Boston, it's a must   
+to get [ Fenway Park Tickets](http://www.fenwayticketking.com/) for events such as the Boston Red Sox. [ Red Sox tickets](http://www.fenwayticketking.com/boston_red_sox_tickets.html) at Fenway Park are very popular in New England. If you are lucky, you can get [ Red Sox vs Yankees tickets](http://www.fenwayticketking.com/red_sox_vs_new_york_yankees/index.html), which is the ultimate series.  
    
   
   |   
@@ -116,20 +115,26 @@ during the season
 [ lowellspinners.com](http://www.lowellspinners.com/)  
  **  
   |   |   |   |   |    
-  |  |  **Copyright © 2003-2009 SoxProspects.com**  
+  |  |  **Copyright © 2003-2010 SoxProspects, LLC**  
 All Rights Reserved.  
-**Last Updated** : Tuesday, December 08, 2009 08:50 AM   
+**Last Updated** : Wednesday, May 05, 2010 08:39 AM   
 **email** : [ info@soxprospects.com](mailto:info@soxprospects.com) | 
 
-   
-[Site Map](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/sitemap.htm)  
+[Site Map](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/sitemap.htm)  
     
 [ RSS Feed](http://www.blogger.com/feeds/13579837/posts/default)  
     
-[Privacy Policy](https://web.archive.org/web/20091230230319id_/http%3A//www.soxprospects.com/privacypolicy.htm)  
- 
+[Privacy Policy](https://web.archive.org/web/20100604115925id_/http%3A//www.soxprospects.com/privacypolicy.htm)
 
-|  SoxProspects.com is in no way affiliated with the Boston Red Sox, Pawtucket Red Sox, Portland Sea Dogs, Salem Red Sox, Greenville Drive, Lowell Spinners, Gulf Coast League Red Sox, Major League Baseball, the International League, Eastern League, Carolina League, South Atlantic League, New York-Penn League, Gulf Coast League, or Minor League Baseball.    
+| 
+
+   
+SoxProspects.com is in no way affiliated with the Boston Red Sox, Pawtucket Red Sox,   
+Portland Sea Dogs, Salem Red Sox, Greenville Drive, Lowell Spinners, GCL Red Sox,   
+Major League Baseball, International League, Eastern League, Carolina League, South   
+Atlantic League, New York-Penn League, Gulf Coast League, or Minor League Baseball.  
 Images are proprietary, used with permission, or used pursuant to 17 U.S.C.  § 107.  
+   
+  
 ---|---|---  
   |   |   |   |   |  
