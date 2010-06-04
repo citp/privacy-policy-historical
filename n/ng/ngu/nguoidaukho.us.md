@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nguoidaukho.us privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913072302id_/http%3A//www.nguoidaukho.us/2007/06/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nguoidaukho.us privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604081436id_/http%3A//www.nguoidaukho.us/2007/06/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Free Pictures | NGUOIDAUKHO.US
+# Privacy Policy
 
 Privacy Policy:
 
@@ -26,7 +26,7 @@ Contact Information
 
 If users have any questions or suggestions regarding our privacy policy, please send me an email to: info@tienbinh.com
 
-  
-**Sign up to the[Free Pictures - NGUOIDAUKHO.US](http://nguoidaukho.us/) Newsletter (free) for updates [[CLICK HERE](http://feedburner.google.com/fb/a/mailverify?uri=ndkus&loc=en_US)]**
+**Sign up to the[Free Pictures - NGUOIDAUKHO.US](http://nguoidaukho.us/) Newsletter (free) for updates [[CLICK HERE](http://feedburner.google.com/fb/a/mailverify?uri=ndkus&loc=en_US)]**  
+
 
 Catalogues>> [Privacy Policy](http://www.nguoidaukho.us/search/label/Privacy%20Policy?max-results=1)
