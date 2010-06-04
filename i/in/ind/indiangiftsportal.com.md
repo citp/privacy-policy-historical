@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230131957id_/http%3A//www.indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiangiftsportal.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605011922id_/http%3A//www.indiangiftsportal.com/myshop/help-privacy-policy.php) for the most accurate reproduction.*
 
-# Indian Gifts Portal
+# Indian Gifts Portal,
 
 _**Indian Gifts Portal** is committed to safeguarding your privacy online_. We recognize your need for reasonable control of personally identifiable information that you share with Indian Gifts Portal. 
 
