@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228042303id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wiredtree.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604080447id_/http%3A//www.wiredtree.com/legal/pa.php) for the most accurate reproduction.*
 
 # WiredTree Privacy Agreement
 
