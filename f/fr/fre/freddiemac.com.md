@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2009-07-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090724021448id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freddiemac.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604090753id_/http%3A//www.freddiemac.com/terms/privacy.html) for the most accurate reproduction.*
 
-# Freddie Mac Terms and Conditions: Privacy Policy
+# Terms and Conditions: Privacy Policy - Freddie Mac
 
 Freddie Mac is a government-sponsored enterprise chartered by Congress to provide a continuous flow of funds for residential mortgages. We achieve our public purpose by purchasing, securitizing and investing in home mortgages, in effect acting as a conduit between the residential mortgage market and the investment community. We may receive personal information about you in the ordinary course of carrying out our business. We are committed to protecting the privacy of this information.
 
@@ -11,13 +11,9 @@ We reserve the right to change this policy in the future. Any changes to this po
 ## Personally Identifiable Information We Receive and Maintain in the Ordinary Course of Our Business
 
   * We receive Covered Information about borrowers and loan applicants when we engage in our secondary market activities. For example, we may receive Covered Information (such as income information, payment history, social security number and other information provided by consumer reporting agencies, mortgage lenders and dealers) when evaluating whether to purchase a loan, when consummating the purchase of a loan or when reviewing information about loans in which we already have an interest.
-
   * We receive Covered Information from individuals interested in pursuing employment with Freddie Mac and from our employees.
-
   * We receive Covered Information from other individuals who choose to contact us and provide us with information, including information we receive through this website (see below for details).
-
   * We maintain all of the foregoing information in the ordinary course of business.
-
 
 
 
@@ -32,21 +28,13 @@ If you enter information into a financing or affordability calculator offered on
 ## What We Do With Information Covered by This Policy
 
   * We use and disclose Covered Information in connection with our secondary marketing activities and for other legally permissible purposes related to our business. For example, we use Covered Information to evaluate loans in which we are considering acquiring an interest and to monitor the performance of loans that we own. We also use this information to evaluate property values and predict default. 
-
   * We provide Covered Information to third parties such as loan servicers, consumer reporting agencies, workout companies, foreclosure attorneys and technology providers to enable the third parties to perform business, professional and technical support functions for us, our website or you. For example, we may disclose Covered Information to third parties in order to process and administer or protect our interest in a loan or to assist us with this website.
-
   * We use Covered Information for purposes of research related to our business, our public purpose and this website. We may publish the results of our research, but we will not publish personally identifiable information about you in connection with the research.
-
   * We disclose Covered Information to our regulators and as otherwise required by applicable laws and regulations. We otherwise comply with applicable laws and regulations in our use and disclosure of Covered Information.
-
   * We use and disclose Covered Information about our employees, as we deem appropriate for purposes related to the employment relationship in compliance with applicable laws and regulations.
-
   * We use Website Visitor Information for general statistical modeling, in order to measure the number of visitors to different pages on the website and to modify and enhance the website as we consider appropriate. We also use this information to monitor network traffic and to identify unauthorized access or unusual activity on the website.
-
   * If you send us an email or message and provide your name or other personal information, we may use this information to send an answer to your question or to deliver the requested information or service to you. We also may use this information to provide you with information in which we believe you will be interested; however, at any time, you may request that we stop doing this by contacting us in the manner described in the "How to Reach Us" section of this policy.
-
   * We do not sell Covered Information to consumer marketing companies and have no plans to do so.
-
 
 
 
@@ -74,6 +62,6 @@ We do not store, use or distribute the Social Security number collected via the 
 
 ## How to Reach Us
 
-If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_inquiries@freddiemac.com](mailto:privacy_inquiries@freddiemac.com). ****
+If you have a question about the way your information is used or about our information practices, please contact us by sending an email to [privacy_inquiries@freddiemac.com](mailto:privacy_inquiries@freddiemac.com).
 
 Last updated: March 18, 2009
