@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2009-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091202045301id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the macon.com privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604044809id_/http%3A//www.macon.com/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
  
@@ -67,12 +67,24 @@ var gomez=gomez?gomez:{};gomez.h3=function(d, s){for(var p in s){d[p]=s[p];}retu
 
 <script type="text/javascript" src="http://media.macon.com/static/scripts/sectionfront-min.js"></script>
 
-
 <script type="text/javascript">
 mi.search = new mi.Search();
 </script>
 
+<script type="text/javascript">
+var rscriptloaded = 0;
+function displayEmailForm() {
+	if(rscriptloaded){
+		mi_story_tool.storyTool("email", "///.html");
+	} else {
+		$.getScript("http://api.recaptcha.net/js/recaptcha_ajax.js", function() {
+			mi_story_tool.storyTool("email", "///.html");
+			rscriptloaded = 1;
+		});
+	}
+}
 
+</script>
  
 	
 		
@@ -89,6 +101,8 @@ mi.search = new mi.Search();
 
 		
 	
+
+
 
 <link href="http://media.macon.com/static/styles/sitestyles-min.css" rel="stylesheet" type="text/css">
 		
@@ -160,7 +174,7 @@ if( typeof( miyahoo ) != "undefined"){
     miyahoo.slots.slot_2.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_2.ad_marker = "";
     miyahoo.slots.slot_3 = {};
-    miyahoo.slots.slot_3.ad_size_list = ["146x60"];
+    miyahoo.slots.slot_3.ad_size_list = ["160x90"];
     miyahoo.slots.slot_3.ad_delivery_mode = "ipatf";
     miyahoo.slots.slot_3.ad_marker = "";
     miyahoo.slots.slot_4 = {};
@@ -185,7 +199,6 @@ if( typeof( miyahoo ) != "undefined"){
     }
 -->
 </script>
-
 
 <!--[if lt IE 7]>
 <link href="http://media.macon.com/static/includes/browserupgrade/browserupgrade.css" rel="stylesheet" type="text/css" />
@@ -286,18 +299,19 @@ if( typeof( miyahoo ) != "undefined"){
 
 
 
+
 <div class="advertisement" id="ad_top">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=top;group=728x90;sz=728x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=top;group=728x90;sz=728x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=top;group=728x90;sz=728x90;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 <div class="topYahoo950">	
@@ -397,7 +411,7 @@ else
     rurl_qs = ";goto="+loc 
 }
 document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?' + rurl_qs + '">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>')
-</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20091202045301id_/http%3A//www.macon.com/privacy_policy">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
+</script><span id="nonmember"><strong><a href="/static/insite/login.html?;goto=https://web.archive.org/web/20100604044809id_/http://www.macon.com/privacy_policy/">Login</a></strong> | <strong><a href="/reg-bin/int.cgi?mode=register">Register</a></strong></span>
 <span id="member">
     <strong><a href="/reg-bin/tint.cgi?mode=logout">Logout</a></strong> | <strong><a href="/reg-bin/tint.cgi?mode=edit">Member Center</a></strong>
 </span>
@@ -429,12 +443,7 @@ document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?
 
 
 					<input name="aff" type="radio" value="web_search" id="search_web" class="radio">
-					<label for="search_web" class="search_label_web">Web search</label>
-
-					<span class="search_label"> powered by </span>
-					<span class="search_label2">YAHOO! </span>
-					<span class="search_label3">SEARCH</span>
-
+<span id="mi_yahoo_preamble">Web Search powered by </span><span class="yahoo">YAHOO!</span> <span id="mi_yahoo_post">SEARCH</span>
 
 				</div>
 
@@ -457,7 +466,7 @@ document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?
 
 	</div>
 
-	<div id="mastAd"> 
+	<div id="mastAd">  
 
 
 
@@ -471,25 +480,25 @@ document.write('<span id="nonmember"><strong><a href="/static/insite/login.html?
 
 
 
-<div class="advertisement" id="ad_bdge01">
+
+<div class="advertisement" id="ad_cube01">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;dcopt=ist;pos=bdge01;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;dcopt=ist;pos=cube01;group=160x90;sz=160x90;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;dcopt=ist;pos=bdge01;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;dcopt=ist;pos=bdge01;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;dcopt=ist;pos=cube01;group=160x90;sz=160x90;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;dcopt=ist;pos=cube01;group=160x90;sz=160x90;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
+  
 
- 
 
-
-        <div class="advertisement" id="yahoo_146x60_ipatf_1">
+        <div class="advertisement" id="yahoo_160x90_ipatf_1">
             
 <script><!--
 if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3");}
@@ -514,8 +523,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 <ul class="nav">
 	<li class="current"><a href="#">Most visited</a>
 		<ul>
-			<li><a href="http://market.telegraph-online.com/index.php?main_page=product_free_shipping_info&amp;cPath=2&amp;products_id=8"><b>Babies of 2009</b></a></li>
-			<li><a href="http://macon.pixfizz.com">Custom publishing</a></li>
+			<li><a href="http://www.macon.com/contact_us"><b>Contact us</b></a></li>
 			<li><a href="/classified-ads/">Classifieds</a></li>
 			<li><a href="http://events.macon.com/">Calendar</a></li>
 			<li><a href="/jobs/">Jobs</a></li>
@@ -633,7 +641,7 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 			<li><a href="http://newspaperads.macon.com">Newspaper ads</a></li>
 			<li><a href="http://www.macon.com/placead">Place an ad</a></li>
 			<li><a href="http://www.legacy.com/obituaries/macon/">Obituaries</a></li>
-			<li><a href="http://www.gadzoo.com/macon/pets.aspx">Pets</a></li>
+			<li><a href="hhttp://www.macon.com/adperfect/category/Pets">Pets</a></li>
 			<li><a href="http://www.legacy.com/macon/celebrations.asp">Weddings &amp; Engagements</a></li>
 		</ul>
 	</li>
@@ -692,18 +700,19 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_3"
 
 
 
+
 <div class="advertisement" id="ad_billboard1">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=billboard1;group=972x30;sz=972x30;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=billboard1;group=972x30;sz=972x30;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=billboard1;group=972x30;sz=972x30;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=billboard1;group=972x30;sz=972x30;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=billboard1;group=972x30;sz=972x30;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=billboard1;group=972x30;sz=972x30;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 
@@ -744,7 +753,7 @@ if( typeof( miyahoo ) != "undefined"){
 <h3>Use of cookies</h3>
 <p>Most standard Web browsers contain a feature called "cookies," which allow a Web site to place information about a user's visit to that Web site in a small data text file that is stored on the user's computer. Our use of cookie technology will likely be transparent to you and is used to recognize you and hold information from one visit to the next in an effort to increase your ease of use of Macon.com and to allow us to better understand how people use Macon.com through click-stream analysis. For example, cookies may be used to store information such as your member name and password, sparing you from having to re-enter that information each time you visit. Another example is that we may use cookie technology to control the number of times you see a particular advertisement while visiting Macon.com. You can turn the cookies feature off by using your browser preference options, but doing so will severely limit your access to Macon.com and may prevent you from registration.</p>
 
-<p>Some of Macon.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on his computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies.</p>
+<p>Some of Macon.com's third-party content providers also may place a cookie on your computer. If you choose to monitor or restrict cookies that are placed on this computer, you can determine the Web site that is attempting to place a cookie. Those cookies are controlled by the content provider, and you should refer to that provider's privacy policy for further information regarding its use of cookies and about your options not to accept them.</p>
 
 <p>We use services provided by Yahoo! to display advertising on Macon.com, and we may use cookies in conjunction with displaying those ads.  Please refer to Yahoo!'s privacy policy at <a href="http://privacy.yahoo.com/">http://privacy.yahoo.com/</a> for further information concerning Yahoo!'s use of cookies.</p>
 
@@ -873,6 +882,9 @@ if( typeof( miyahoo ) != "undefined"){
 <script type="text/javascript" src="http://cm.npc-mcclatchy.overture.com/partner/js/ypn.js"></script>
              </div>         </div>         <div id="mi_sidebar">
              
+
+
+
 <div id="mi_sidebar_ads">
 	 
 
@@ -888,18 +900,19 @@ if( typeof( miyahoo ) != "undefined"){
 
 
 
+
 <div class="advertisement" id="ad_center7">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=center7;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center7;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center7;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 	 
@@ -927,18 +940,19 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_4"
 
 
 
+
 <div class="advertisement" id="ad_ntl1">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=ntl1;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=ntl1;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=ntl1;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=ntl1;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=ntl1;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=ntl1;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 
@@ -956,18 +970,19 @@ if( typeof( miyahoo ) != "undefined"){
 
 
 
+
 <div class="advertisement" id="ad_bdge02">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=bdge02;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=bdge02;group=146x60;sz=146x60;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=bdge02;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=bdge02;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=bdge02;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=bdge02;group=146x60;sz=146x60;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 
@@ -988,18 +1003,19 @@ if( typeof( miyahoo ) != "undefined"){
 
 
 
+
 <div class="advertisement" id="ad_rulr01">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=rulr01;group=300x100;sz=300x100;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=rulr01;group=300x100;sz=300x100;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=rulr01;group=300x100;sz=300x100;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=rulr01;group=300x100;sz=300x100;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=rulr01;group=300x100;sz=300x100;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=rulr01;group=300x100;sz=300x100;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 
@@ -1028,39 +1044,41 @@ if(miyahoo.ads[mi_live_or_preview].yahoo.enabled){yld_mgr.place_ad_here("slot_5"
 
 
 
+
 <div class="advertisement" id="ad_center6">
 
 <script type="text/javascript">
 if( typeof( miyahoo ) != "undefined"){
     if( miyahoo.ads[ mi_live_or_preview ].dart.enabled ){
 		_krdDartInc++;
-		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/;template=channel;pos=center6;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
+		document.write('<script type="text/javascript" src="http://ad.doubleclick.net/adj/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center6;group=rectangle;sz=300x250;tile='+_krdDartInc+';ord='+_krdDartOrd+'?"><\/script>');
     }
 }
 </script>
 
-<noscript><a href="http://ad.doubleclick.net/jump/;template=channel;pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/;template=channel;pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
+<noscript><a href="http://ad.doubleclick.net/jump/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" target="_blank"><img src="http://ad.doubleclick.net/ad/macon.news/privacy_policy;c2=legal;c3=privacy_policy;c4=privacy_policy_homepage;!category=privacy_policy;;template=channel;pos=center6;group=rectangle;sz=300x250;ord='+_krdDartOrd+'?" border="0" ></a></noscript>
 </div>
  
 
 	
 </div>
 
+
 <div id="userTemplate" class="currentUser" style="display: none;">
 
-	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@" style="width: 60px;"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar"></a>
+	<a href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@"><img src="@Nyx.AvatarPhotoUrl@" alt="current user avatar"></a>
 
     <div id="pluckAvatarControls">
 		<div id="pluckAvatarControls-R1">
-                        <a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">Log Out</a>
 			<script type="text/javascript">
 		        var user_run_mode = '';
-				document.write(' <a id="pluckWelcomeMsg" href="/reg-bin/tint.cgi?mode=edit">' + account_user_name + '<\/a>');
+				document.write(' Hello <a id="pluckWelcomeMsg" href="/reg-bin/tint.cgi?mode=edit">' + account_user_name + '<\/a>');
 			</script>
+			
         </div>
 		<div id="pluckAvatarControls-R2">
-                        <a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">My Account</a>
-			<a id="pluckMyProfile" href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@">My Profile</a>
+                        <a id="pluckMyAccount" href="/reg-bin/tint.cgi?mode=edit">Member Center</a><span class="mc_signout"><a id="pluckLogOut" href="/reg-bin/tint.cgi?mode=logout">[Sign Out]</a></span>
+			 <a id="pluckMyProfile" style="display:none" href="/personas?plckUserId=@Nyx.Key@&amp;insiteUserId=@Nyx.Key@">My Profile</a>
 		</div>
 			
         <div style="clear: both;"></div>
@@ -1069,10 +1087,9 @@ if( typeof( miyahoo ) != "undefined"){
 </div>
 
 <div id="anonTemplate" class="currentUser" style="display: none;">
-	<img src="http://media.macon.com/static/images/default-user-image.gif" alt="current user avatar" style="width: 60px;">
-        <div id="pluckAvatarControls">
-            <a id="pluckSignIn" href="/static/insite/login.html">SIGN IN</a>
-            <a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register">BECOME A MEMBER</a>
+	<img src="http://media.macon.com/static/images/default-user-image.gif" alt="current user avatar">
+        <div id="pluckAvatarControls"><p>Welcome Guest</p>
+            <a id="pluckSignIn" href="/static/insite/login.html">Sign In</a>|<a id="pluckBecomeMember" href="/reg-bin/int.cgi?mode=register">Become a Member</a>
             <div style="clear: both;"></div>
         </div>
 </div>
@@ -1082,240 +1099,175 @@ if( typeof( miyahoo ) != "undefined"){
 
 
 
- <div id="cb_widget">
+<div id="careerbuilder_v2">
+<img src="/static/images/logos/logo-careerbuilder.gif" alt="CareerBuilder">
 
-	<div id="top_jobs_header">
-	     Top Jobs 
-	</div>
-	<div id="top_jobs_container">
-		<div id="top_jobs_head">Macon Top Jobs</div>
+<!-- /shared/widgets/careerbuilder/top_jobs_plink.comp -->
+<!-- not currently showing top jobs -->
 
+<h4>QUICK JOB SEARCH</h4>
 
-    
-             
-
-           
-
-      
-
-             
-
-         
-
-      
+<form class="main_box" action="http://www.careerbuilder.com/JobSeeker/Jobs/JobResults.aspx" method="get">               
+	<input type="hidden" name="lr" value="cbcb_mt">
+	<input type="hidden" name="siteid" value="cbcb_mt1001">                
+	<input type="hidden" name="use" value="all">
 
 
+	<table class="void">
+	<tbody><tr>
+		<td class="pr">
+			<label for="mxjobsrchcriteria_rawwords">Enter Keyword(s):</label>
+			<input type="text" maxlength="256" name="mxjobsrchcriteria_rawwords" id="mxjobsrchcriteria_rawwords" value="" tabindex="1">
+		</td>
+		<td>
+			<label for="mxjobsrchcriteria_city">Enter a City:</label>
+			<input type="text" name="mxjobsrchcriteria_city" id="mxjobsrchcriteria_city" value="" tabindex="2">
+		</td>
+	</tr>
+	<tr>
+		<td class="pr">
+			<label for="mxjobsrchcriteria_state">Select a State:</label>
+			<select name="mxjobsrchcriteria_state" id="mxjobsrchcriteria_state" size="1" tabindex="3">
+			<option value="ALL, US" selected="selected">All United States</option>
+			<option value="AL, US">Alabama</option>
+			<option value="AK, US">Alaska</option>
 
-            
+			<option value="AZ, US">Arizona</option>
+			<option value="AR, US">Arkansas</option>
+			<option value="CA, US">California</option>
+			<option value="CO, US">Colorado</option>
+			<option value="CT, US">Connecticut</option>
+			<option value="DE, US">Delaware</option>
 
-     
+			<option value="DC, US">District of Columbia</option>
+			<option value="FL, US">Florida</option>
+			<option value="GA, US">Georgia</option>
+			<option value="HI, US">Hawaii</option>
+			<option value="ID, US">Idaho</option>
+			<option value="IL, US">Illinois</option>
+
+			<option value="IN, US">Indiana</option>
+			<option value="IA, US">Iowa</option>
+			<option value="KS, US">Kansas</option>
+			<option value="KY, US">Kentucky</option>
+			<option value="LA, US">Louisiana</option>
+			<option value="ME, US">Maine</option>
+
+			<option value="MD, US">Maryland</option>
+			<option value="MA, US">Massachusetts</option>
+			<option value="MI, US">Michigan</option>
+			<option value="MN, US">Minnesota</option>
+			<option value="MS, US">Mississippi</option>
+			<option value="MO, US">Missouri</option>
+
+			<option value="MT, US">Montana</option>
+			<option value="NE, US">Nebraska</option>
+			<option value="NV, US">Nevada</option>
+			<option value="NH, US">New Hampshire</option>
+			<option value="NJ, US">New Jersey</option>
+			<option value="NM, US">New Mexico</option>
+
+			<option value="NY, US">New York</option>
+			<option value="NC, US">North Carolina</option>
+			<option value="ND, US">North Dakota</option>
+			<option value="OH, US">Ohio</option>
+			<option value="OK, US">Oklahoma</option>
+			<option value="OR, US">Oregon</option>
+
+			<option value="PA, US">Pennsylvania</option>
+			<option value="RI, US">Rhode Island</option>
+			<option value="SC, US">South Carolina</option>
+			<option value="SD, US">South Dakota</option>
+			<option value="TN, US">Tennessee</option>
+			<option value="TX, US">Texas</option>
+
+			<option value="UT, US">Utah</option>
+			<option value="VT, US">Vermont</option>
+			<option value="VA, US">Virginia</option>
+			<option value="WA, US">Washington</option>
+			<option value="WV, US">West Virginia</option>
+			<option value="WI, US">Wisconsin</option>
+
+			<option value="WY, US">Wyoming</option>
+			</select>
+		</td>
+		<td>
+			<label for="MXJOBSRCHCRITERIA_JobTypes">Select a Category:</label>
+			<select name="MXJOBSRCHCRITERIA_JobTypes" id="MXJOBSRCHCRITERIA_JobTypes" size="1" tabindex="4">
+			<option value="All" selected="selected">All Job Categories</option>
+			<option value="JN001">Accounting</option>
+
+			<option value="JN002">Admin &amp; Clerical</option>
+			<option value="JN054">Automotive1</option>
+			<option value="JN038">Banking1</option>
+			<option value="JN053">Biotech1</option>
+			<option value="JN047">Broadcast - Journalism1</option>
+			<option value="JN019">Business Development</option>
+
+			<option value="JN043">Construction</option>
+			<option value="JN020">Consultant</option>
+			<option value="JN003">Customer Service</option>
+			<option value="JN021">Design</option>
+			<option value="JN027">Distribution  - Shipping</option>
+			<option value="JN031">Education</option>
+
+			<option value="JN004">Engineering</option>
+			<option value="JN022">Entry Level</option>
+			<option value="JN018">Executive</option>
+			<option value="JN017">Facilities</option>
+			<option value="JN005">Finance</option>
+			<option value="JN006">General Business</option>
+
+			<option value="JN051">General Labor</option>
+			<option value="JN046">Government</option>
+			<option value="JN023">Health Care</option>
+			<option value="JN040">Hotel - Hospitality</option>
+			<option value="JN007">Human Resources</option>
+			<option value="JN008">Information Technology</option>
+
+			<option value="JN034">Insurance</option>
+			<option value="JN015">Inventory</option>
+			<option value="JN030">Legal</option>
+			<option value="JN041">Legal Admin</option>
+			<option value="JN037">Management</option>
+			<option value="JN029">Manufacturing</option>
+
+			<option value="JN009">Marketing</option>
+			<option value="JN050">Nurse</option>
+			<option value="JN010">Other</option>
+			<option value="JN049">Pharmaceutical</option>
+			<option value="JN024">Professional Services</option>
+			<option value="JN016">Purchasing -  Procurement</option>
+
+			<option value="JN025">QA - Quality Control</option>
+			<option value="JN026">Research</option>
+			<option value="JN035">Restaurant - Food Service</option>
+			<option value="JN033">Retail - Grocery</option>
+			<option value="JN011">Sales</option>
+			<option value="JN012">Science</option>
+
+			<option value="JN013">Skilled Labor - Trades</option>
+			<option value="JN028">Strategy - Planning</option>
+			<option value="JN014">Supply Chain</option>
+			<option value="JN048">Telecommunications</option>
+			<option value="JN032">Training</option>
+			<option value="JN044">Transportation</option>
+
+			<option value="JN045">Warehouse</option>
+			</select>
+		</td>
+	</tr>
+	</tbody></table>
+<div style="margin-top:10px;display:block;"></div>
+	<div class="button"><input type="submit" value="Search" tabindex="5" id="submit" name="submit"></div>
+		<div class="othersearches">
+			<a href="http://www.careerbuilder.com/jobseeker/jobs/jobfindadv.aspx?lr=cbcb_mt&amp;siteid=cbcb_mt1001">Advanced Job Search</a>&nbsp;|&nbsp;	<a href="http://www.careerbuilder.com/jobseeker/companies/companysearch.aspx?lr=cbcb_mt&amp;siteid=cbcb_mt1001">Search by Category</a>
+		</div>
+	<br clear="all">
+	</form>
 
 
-
-
-
-<!-- top jobs -->
-<div id="cb-topjobs">
-	<!-- cb: top jobs -->
-
-<script type="text/javascript">
-<!--
-    // Widget Style and Appearance, Namespaces claimed by CareerBuilder
-    cb_jobstream_title = ' ';
-    cb_jobstream_main_bgcolor = 'transparent';
-    cb_jobstream_width = '260px;overflow-x:hidden';
-    cb_jobstream_height = '200px';
-    cb_jobstream_border = '0px';
-    cb_jobstream_title_font = '11px verdana,helvetica,sans-serif;font-weight:bold;';
-    cb_jobstream_text_font = '11px verdana,helvetica,sans-serif;font-weight:bold;';
-    cb_jobstream_font_color = 'black';
-    cb_jobstream_link_color = '#384E89';
-//-->
-</script>
-<div id="mi_top_job" style="">
-<script type="text/javascript" src="http://rtq.careerbuilder.com/RTQ/jobstream.aspx?lr=CBCB_MT&amp;rssid=CB_MT_jbstrm&amp;num=50&amp;kw=CustomField3:MACONTJ&amp;cat=All&amp;rad=50&amp;state=&amp;city=&amp;zip=&amp;ddtitle=false&amp;ddcompany=false&amp;sb=false"></script>
-    <div id="mi_top_job_more" class="header" align="center">
-    <a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&amp;ch=&amp;rs=&amp;s_rawwords=CustomField3:MACONTJ&amp;s_jobtypes=ALL&amp;s_freshness=30&amp;s_education=DRNS&amp;s_freeloc=&amp;qsbButton=Find+Jobs+%3E%3E&amp;lr=CBCB_MT&amp;siteid=CB_MT_jbstrm#">See More Top Jobs » </a>
-    </div>
-</div>
-<style>
-#mi_top_job #jobstream{width:270px !important;}
-#mi_top_job #jobstream{position:relative;top:-19px;}
-#mi_top_job #mi_top_job_more {border-bottom:0px !important;}
-#mi_top_job #jobstream div form{display:none;}
-#mi_top_job #jobstream img{display:none;}
-#mi_top_job #jobstream div td {border-bottom:1px solid #CCCCCC; padding: 2px:line-height:1.3em;}
-</style>
-	<!-- /cb: top jobs -->
-</div>
-<!-- /top jobs -->
-
-
-	</div>
-
-	<div class="jobs_widget_large">
-		<div class="header">Quick Job Search</div>
-		<form class="main_box" action="http://www.careerbuilder.com/JobSeeker/Jobs/JobResults.aspx" method="get">               
-			<input type="hidden" name="lr" value="cbcb_mt">
-			<input type="hidden" name="siteid" value="cbcb_mt1001">                
-			<input type="hidden" name="use" value="all">
-
-
-				<label>Enter Keyword(s):
-				<input type="text" maxlength="256" name="mxjobsrchcriteria_rawwords" tabindex="1">
-				</label>
-
-				<label>Enter a City:
-				<input type="text" name="mxjobsrchcriteria_city" value="" tabindex="2">
-				</label>
-
-
-			<label>Select a State:
-				<select name="mxjobsrchcriteria_state" tabindex="3">
-					<option value="ALL, US">- All United States -</option>
-					<option value="AL, US">Alabama</option>
-					<option value="AK, US">Alaska</option>
-					<option value="AZ, US">Arizona</option>
-
-					<option value="AR, US">Arkansas</option>
-					<option value="CA, US">California</option>
-					<option value="CO, US">Colorado</option>
-					<option value="CT, US">Connecticut</option>
-					<option value="DE, US">Delaware</option>
-					<option value="DC, US">District of Columbia</option>
-
-					<option value="FL, US">Florida</option>
-					<option value="GA, US">Georgia</option>
-					<option value="HI, US">Hawaii</option>
-					<option value="ID, US">Idaho</option>
-					<option value="IL, US">Illinois</option>
-					<option value="IN, US">Indiana</option>
-
-					<option value="IA, US">Iowa</option>
-					<option value="KS, US">Kansas</option>
-					<option value="KY, US">Kentucky</option>
-					<option value="LA, US">Louisiana</option>
-					<option value="ME, US">Maine</option>
-					<option value="MD, US">Maryland</option>
-
-					<option value="MA, US">Massachusetts</option>
-					<option value="MI, US">Michigan</option>
-					<option value="MN, US">Minnesota</option>
-					<option value="MS, US">Mississippi</option>
-					<option value="MO, US">Missouri</option>
-					<option value="MT, US">Montana</option>
-
-					<option value="NE, US">Nebraska</option>
-					<option value="NV, US">Nevada</option>
-					<option value="NH, US">New Hampshire</option>
-					<option value="NJ, US">New Jersey</option>
-					<option value="NM, US">New Mexico</option>
-					<option value="NY, US">New York</option>
-
-					<option value="NC, US">North Carolina</option>
-					<option value="ND, US">North Dakota</option>
-					<option value="OH, US">Ohio</option>
-					<option value="OK, US">Oklahoma</option>
-					<option value="OR, US">Oregon</option>
-					<option value="PA, US">Pennsylvania</option>
-
-					<option value="RI, US">Rhode Island</option>
-					<option value="SC, US">South Carolina</option>
-					<option value="SD, US">South Dakota</option>
-					<option value="TN, US">Tennessee</option>
-					<option value="TX, US">Texas</option>
-					<option value="UT, US">Utah</option>
-
-					<option value="VT, US">Vermont</option>
-					<option value="VA, US">Virginia</option>
-					<option value="WA, US">Washington</option>
-					<option value="WV, US">West Virginia</option>
-					<option value="WI, US">Wisconsin</option>
-					<option value="WY, US">Wyoming</option>
-				</select>
-			</label>
-		
-
-			<label>Select a Category:
-				<select name="MXJOBSRCHCRITERIA_JobTypes" tabindex="4">
-					<option value="All" selected="">- All Job Categories -</option>
-					<option value="JN001">Accounting</option>
-					<option value="JN002">Admin &amp; Clerical</option>
-
-					<option value="JN054">Automotive</option>
-					<option value="JN038">Banking</option>
-					<option value="JN053">Biotech</option>
-					<option value="JN047">Broadcast - Journalism</option>
-					<option value="JN019">Business Development</option>
-					<option value="JN043">Construction</option>
-
-					<option value="JN020">Consultant</option>
-					<option value="JN003">Customer Service</option>
-					<option value="JN021">Design</option>
-					<option value="JN027">Distribution - Shipping</option>
-					<option value="JN031">Education</option>
-					<option value="JN004">Engineering</option>
-
-					<option value="JN022">Entry Level</option>
-					<option value="JN018">Executive</option>
-					<option value="JN017">Facilities</option>
-					<option value="JN005">Finance</option>
-					<option value="JN006">General Business</option>
-					<option value="JN051">General Labor</option>
-
-					<option value="JN046">Government</option>
-					<option value="JN023">Health Care</option>
-					<option value="JN040">Hotel - Hospitality</option>
-					<option value="JN007">Human Resources</option>
-					<option value="JN008">Information Technology</option>
-					<option value="JN034">Insurance</option>
-
-					<option value="JN015">Inventory</option>
-					<option value="JN030">Legal</option>
-					<option value="JN041">Legal Admin</option>
-					<option value="JN037">Management</option>
-					<option value="JN029">Manufacturing</option>
-					<option value="JN009">Marketing</option>
-
-					<option value="JN050">Nurse</option>
-					<option value="JN010">Other</option>
-					<option value="JN049">Pharmaceutical</option>
-					<option value="JN024">Professional Services</option>
-					<option value="JN016">Purchasing -  Procurement</option>
-					<option value="JN025">QA - Quality Control</option>
-
-					<option value="JN026">Research</option>
-					<option value="JN035">Restaurant - Food Service</option>
-					<option value="JN033">Retail - Grocery</option>
-					<option value="JN011">Sales</option>
-					<option value="JN012">Science</option>
-					<option value="JN013">Skilled Labor - Trades</option>
-
-					<option value="JN028">Strategy - Planning</option>
-					<option value="JN014">Supply Chain</option>
-					<option value="JN048">Telecommunications</option>
-					<option value="JN032">Training</option>
-					<option value="JN044">Transportation</option>
-					<option value="JN045">Warehouse</option>
-
-				</select>
-			</label>
-		
-			<div class="button"><input type="submit" value="Search" tabindex="5" id="submit" name="submit"></div>
-
-			<ul class="cb_links">
-				<li><a href="http://www.careerbuilder.com/jobseeker/jobs/jobfindadv.aspx?lr=cbcb_cd&amp;siteid=cb_cd003">Advanced Job Search</a></li>
-				<li><a href="http://www.careerbuilder.com/jobseeker/companies/companysearch.aspx?lr=cbcb_cd&amp;siteid=cb_cd003">Search by Category</a></li>
-			</ul>
-			<div style="clear: both"></div>
-		</form>
-	</div>
-
-	<div id="top_jobs_footer">
-		<img src="http://media.macon.com/images/jobs_rightrail.gif" alt="Top Jobs">
-	</div>
-</div>
- 
+</div><!-- #careerbuilder_v2 -->
 
 
 
@@ -1349,20 +1301,21 @@ if( typeof( miyahoo ) != "undefined"){
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/227/story/79867.html" target="_blank">Obama outlines Afghan troop surge, stresses exit strategy</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2010/06/03/95299/bp-us-could-make-millions-from.html" target="_blank">BP, feds could make millions from runaway well's oil</a></li>         
     
         
         
         
     
-                                      <li><a href="http://news.mcclatchy.com/226/story/79819.html" target="_blank">In Taliban stronghold, U.S. medics win friends for Marines</a></li>         
+                                      <li><a href="http://news.mcclatchy.com/2010/06/03/95305/crush-of-new-claims-for-jobless.html" target="_blank">Crush of new claims for jobless program creates bottleneck</a></li>         
     
 
         
         
         
-                                  <li><a href="http://news.mcclatchy.com/homepage/story/79884.html" target="_blank">Afghanistan plan divides California's Senate Democrats</a></li>                   <li><a href="http://news.mcclatchy.com/homepage/story/79883.html" target="_blank">Few Marines in Afghanistan wake for Obama's speech</a></li>                   <li><a href="http://news.mcclatchy.com/homepage/story/79881.html" target="_blank">South Carolina lawmakers voice cautious approval for Obama's plan</a></li>         
     
+                                       <li><a href="http://news.mcclatchy.com/2010/06/03/95321/as-bp-severs-riser-false-report.html" target="_blank">As BP severs riser, false report sends oil prices up</a></li>                   <li><a href="http://news.mcclatchy.com/2010/06/03/95320/turkish-fury-over-israeli-commando.html" target="_blank">Turkish fury over Israeli commando assault rises at funeral</a></li>                   <li><a href="http://news.mcclatchy.com/2010/06/03/95317/muslim-praise-for-obama-dries.html" target="_blank">Muslim praise for Obama dries up a year after Cairo speech</a></li>         
+     
 </ul>
   <span id="MI_DC_more">» <a target="_blank" href="http://news.mcclatchy.com">More headlines</a></span>
 </div>
@@ -1401,25 +1354,25 @@ if( typeof( miyahoo ) != "undefined"){
 		<div style="display: block;" id="mi_tabs_pop_Popular" class="tabBody ui-tabs-panel">
 			<ul class="stack">
 			
-<li><a href="http://www.macon.com/198/story/936330.html?storylink=omni_popular">Woman mugged by four men Saturday in Macon</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149480/womans-body-found-as-deputies.html#storylink=omni_popular">Woman's body found as deputies serve eviction notice in Barrington Hall</a></li>
 
-<li><a href="http://www.macon.com/198/story/936323.html?storylink=omni_popular">Cochran police chief resigns from office</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149591/quick-action-helps-save-teen-at.html#storylink=omni_popular">Quick action helps save teen at Macon pool</a></li>
 
-<li><a href="http://www.macon.com/149/story/936809.html?storylink=omni_popular">Gray man killed in morning accident</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149628/ga-ends-holdout-over-pickup-seat.html#storylink=omni_popular">Georgia ends holdout over pickup seat belt law</a></li>
 
-<li><a href="http://www.macon.com/198/story/936307.html?storylink=omni_popular">2 charged with murder in killing of Forsyth man</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149697/illegal-immigrant-wants-trial.html#storylink=omni_popular">Illegal immigrant wants trial in traffic case</a></li>
 
-<li><a href="http://www.macon.com/166/story/936160.html?storylink=omni_popular">Robinson is Georgia’s latest arrest</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149311/wr-man-arrested-in-connection.html#storylink=omni_popular">WR man arrested in connection with two gas station robberies</a></li>
 
-<li><a href="http://www.macon.com/198/story/936322.html?storylink=omni_popular">Men steal Macon police golf cart downtown</a></li>
+<li><a href="http://www.macon.com/2010/02/12/1019602/massage-parlor-law-proposed-for.html#storylink=omni_popular">Massage parlor regulations proposed for Bibb</a></li>
 
-<li><a href="http://www.macon.com/149/story/935804.html?storylink=omni_popular">WR teens charged with armed robbery in home invasion</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149007/gunmen-rob-macon-car-lot.html#storylink=omni_popular">Gunmen rob Macon car lot</a></li>
 
-<li><a href="http://www.macon.com/149/story/937130.html?storylink=omni_popular">UPDATE: Houston deputies apprehend one after search for burglary suspects</a></li>
+<li><a href="http://www.macon.com/2010/06/03/1149009/man-shot-in-macons-fort-hill-neighborhood.html#storylink=omni_popular">Man shot in Macon's Fort Hill Neighborhood</a></li>
 
-<li><a href="http://www.macon.com/197/story/936308.html?storylink=omni_popular">Teens charged with armed robbery in Warner Robins</a></li>
+<li><a href="http://www.macon.com/2010/06/04/1150031/new-theater-opens-in-wr.html#storylink=omni_popular">New theater opens at booming Ga. 96-Lake Joy intersection</a></li>
 
-<li><a href="http://www.macon.com/149/story/936673.html?storylink=omni_popular">Test results awaited on Ga. baby; couple charged</a></li>
+<li><a href="http://www.macon.com/2010/03/16/1060372/residents-officials-discuss-consolidation.html#storylink=omni_popular">Macon-Bibb residents, officials discuss consolidation</a></li>
 
 
 			</ul>
@@ -1460,6 +1413,9 @@ if( typeof( miyahoo ) != "undefined"){
 
  
 </div>
+
+
+
 
 
  
@@ -1621,13 +1577,10 @@ $(document).ready(function(){
 <div id="mistatstag" style="display:none;">        
 <!-- SiteCatalyst: McClatchy WorkBench Stats Tag v.1.0 -->
 
-
-
 <!-- site specific file already loaded -->
 <script language="JavaScript" type="text/javascript" src="http://media.macon.com/mistats/products/pubsys_s_code.js"></script>
 <script language="JavaScript" type="text/javascript">
 <!--
-
 measure_popularity=false;
 mistats.msr = 'mac|ma';
 mistats.cmsid='GUID: | Section: 781';
