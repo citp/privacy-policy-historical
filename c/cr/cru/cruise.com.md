@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419073638id_/http%3A//www.cruise.com/misc_pages/privacy.asp%3Fskin%3D001%26pin%3D%26phone%3D888-333-3116) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cruise.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604081945id_/http%3A//www.cruise.com/misc_pages/privacy.asp%3Fskin%3D001%26pin%3D%26phone%3D888-333-3116) for the most accurate reproduction.*
 
 # CRUISE.COM - Privacy Policy - Cruise discounts, cruise deals and discount cruise vacations from the web's largest seller of discount cruises.
 
