@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220135625id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the radioaustralia.net.au privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604194442id_/http%3A//www.abc.net.au/privacy.htm) for the most accurate reproduction.*
 
-# Australian Broadcasting Corporation: Privacy Policy
+# ABC Online: Privacy Policy
 
 ABC Online is strongly committed to protecting your privacy while interacting with our content, products and services. We want to provide a safe and secure environment for you and your children.
 
