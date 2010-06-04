@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603132136id_/http%3A//www.bongous.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bongous.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604063426id_/http%3A//bongous.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Mail Forwarding of American Products for International Delivery
 
-This policy explains how Bongo treats personal information that it collects and receives, including information related to your past use of Bongo's services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. By visiting BongoInternational.com, you are accepting the practices described in this notice.
+This policy explains how Bongo treats personal information that it collects and receives, including information related to your past use of Bongo's services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available. By visiting BongoUS.com, you are accepting the practices described in this notice.
 
 **What Personal Information Does Bongo Collect From its Customers?**
 
@@ -20,7 +20,7 @@ No. Your personal information is important to us and we do not sell it to others
 **How Secure is Online Account and Credit Card Information?**  
 We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.
 
-All Credit Card transactions are processed through PayPal. PayPalis recognized as one of the most secure methods of sending or receiving money via the Internet. 
+All Credit Card transactions are processed through PayPal. PayPal is recognized as one of the most secure methods of sending or receiving money via the Internet. 
 
   
 
