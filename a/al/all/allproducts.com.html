@@ -1,123 +1,202 @@
-<!--The following is the downloaded HTML source of the allproducts.com privacy policy that was archived on 2009-08-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090807064025id_/http%3A//www.allproducts.com/aboutus_PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allproducts.com privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604045133id_/http%3A//www.allproducts.com/aboutus_PrivacyPolicy.html) for the most accurate reproduction.-->
 
-<html><head>
-<title>allproduct.com - The World's Best Products Directory for Volume Buyers</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>allproduct.com - The World's Best Products Directory for Volume Buyers</title>
 <meta name="keywords" content="Taiwan exporters, Asian products, Taiwanese China exporters, online catalog database, trade directory, volume buyers, traders, importers, OEM manufacturers, exporters, suppliers, post area, business opportunities, products search engine, suppliers search engine, all products, makers, distributors, world, baby supplies, children's toys, beauty care, cosmetics, chemical products, construction materials, electrical products, consumer electronics, food, beverages, tobacco, handtools, hand tools, jewelry, bags, shoes, bike, bicycle, computer, consumer, fasteners, gifts, home, garden, lighting, metals, networking, communications, mold, medical, health, appliances, office supplies, stationary, services, telecommunications, transportation equipment, textiles, clothing, protection, security, sports, entertainment, arts, machinery">
-<meta name="description" content="All Products Online is the most complete product directory for volume buyers to find suppliers, exporters and OEM manufacturers. Database contains over 70,000 products on computers, electronics, machinery, etc. Databases are published on CD-ROMs and distributed at major international trade shows.">
-<link rel="stylesheet" href="/style/pub_LE.css" type="text/css">
-<script language="javascript">
-<!--
-function GotoSearch(theform)
-{
-  var index=theform.kind.options.selectedIndex;
-  theform.kind.value=theform.kind.options[index].value;
-  if (theform.kind.options[index].value == "product")
-    theform.qt.value="category";
-  else
-    theform.qt.value="SupplierCategory";
-  theform.submit();  
- 
-}
+<meta name="description" content="All Products Online is the most complete product directory for volume buyers to find suppliers, exporters and OEM manufacturers. Database contains over 70,000 products on computers, electronics, machinery, etc. Databases are published on CD-ROMs and distributed at major international trade shows."><link href="/APOC/css/main.css" rel="stylesheet" type="text/css">
+<link href="/APOC/css/ddsmoothmenu.css" rel="stylesheet" type="text/css">
+<link href="/APOC/css/content.css" rel="stylesheet" type="text/css">
+<link href="/APOC/css/main.css" rel="stylesheet" type="text/css">
+<link href="/APOC/css/info.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/APOC/js/jquery.js"></script>
+<script type="text/javascript" src="/APOC/js/ddsmoothmenu.js"></script>
+<script type="text/javascript">
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu1", //menu DIV id
+	orientation: 'h', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu', //class added to menu's outer DIV
+	//customtheme: ["#1c5a80", "#18374a"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
 
-function findObj(n, d) { //v4.0
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=findObj(n,d.layers[i].document);
-  if(!x && document.getElementById) x=document.getElementById(n); return x;
-}
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu2", //Menu DIV id
+	orientation: 'v', //Horizontal or vertical menu: Set to "h" or "v"
+	classname: 'ddsmoothmenu-v', //class added to menu's outer DIV
+	//customtheme: ["#804000", "#482400"],
+	contentsource: "markup" //"markup" or ["container_id", "path_to_menu_file"]
+})
 
-function showHideLayers() { //v3.0
-  var i,p,v,obj,args=showHideLayers.arguments;
-  for (i=0; i<(args.length-2); i+=3) if ((obj=findObj(args[i]))!=null) { v=args[i+2];
-    if (obj.style) { obj=obj.style; v=(v=='show')?'visible':(v='hide')?'hidden':v; }
-    obj.visibility=v; }
-}
+ddsmoothmenu.init({
+	mainmenuid: "smoothmenu-ajax",
+	orientation: 'h',
+	classname: 'ddsmoothmenu',
+	customtheme: ["#1c5a80", "#18374a"], //override default menu CSS background values? Uncomment: ["normal_background", "hover_background"]
+	contentsource: ["smoothcontainer", "smoothmenu.htm"] //"markup" or ["container_id", "path_to_menu_file"]
+})
 
-
--->
 </script>
-<script language="JavaScript">
-<!--
-function MM_reloadPage(init) {  //reloads the window if Nav4 resized
-  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
-    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
-  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
-}
-MM_reloadPage(true);
-// -->
+<script type="text/javascript">
+$(document).ready(function(){
+	
+	var first = 0;
+	var speed = 700;
+	var pause = 3500;
+	
+		function removeFirst(){
+			first = $('ul#listticker li:first').html();
+			$('ul#listticker li:first')
+			.animate({opacity: 0}, speed)
+			.fadeOut('slow', function() {$(this).remove();});
+			addLast(first);
+		}
+		
+		function addLast(first){
+			last = '<li style="display:none">'+first+'</li>';
+			$('ul#listticker').append(last)
+			$('ul#listticker li:last')
+			.animate({opacity: 1}, speed)
+			.fadeIn('slow')
+		}
+	
+	interval = setInterval(removeFirst, pause);
+});
 </script>
 </head>
-<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<script language="JavaScript" src="/JS/layer_content.js"></script>
-<script language="JavaScript" src="/JS/map_content.js"></script>
-<div class="LogoTop">
-	<div class="LogoLeft"><br><a href="http://www.allproducts.com"><img src="/images/top_01.gif" alt="allproduct.com Qualified Manufacturers for importer and exporter." border="0" align="absbottom"></a> </div>
-	<div class="LogoRight">
-  	<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=5,0,0,0" width="468" height="60">
-        <param name="movie" value="/images/banner_aboutus.swf">
-        <param name="quality" value="high">
-        <param name="wmode" value="transparent">
-        <embed src="/images/banner_aboutus.swf" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="468" height="60" wmode="transparent">
 
-         
-  	</object> <a href="http://www.allproducts.com/images2/APOC_UserGuide/user_guide.htm"><img src="/images/top_02.gif" border="0"></a></div>
-</div> 
-<div class="space">   </div>
+<body>
+	<!-- Header Start-->
+	<div class="header">
+		<!-- Right Nav Start-->
+				<div id="smoothmenu1" class="ddsmoothmenu">
+			<ul>
+				<li><a href="/index.html" title="home">Home</a></li>
+				<li>│</li>
+				<li><a href="/Inquiry/Buyer/JoinStep1.html" title="Buyer">Buyer</a>
+					<ul>
+						<li><a href="/Inquiry/Buyer/JoinStep1.html" title="Register">Register</a></li>
+						<li><a href="/esourcing/es_request.html" title="Free Sourcing Service">Free Sourcing Service</a></li>
+					</ul>
+				</li>
+				<li>│</li>
+				<li><a href="/OurService_supplier.html" title="Supplier">Supplier</a>
+					<ul>
+						<li><a href="http://submit.allproducts.com/" title="Submit products">Submit Products™</a></li>
+						<li><a href="http://submit.allproducts.com/Upgrade.html" title="Member Upgrade">Member Upgrade</a></li>
+						<li><a href="/infoservice1_TradeBulletinBoards.html" title="Information Service">Information Service</a></li>
+					</ul>
+				</li>
+				<li>│</li>
+				<li><a href="http://trade.allproducts.com/" title="Trade Leads">Trade Leads</a>
+					<ul>
+						<li><a href="http://trade.allproducts.com/" title="Message Search">Message Search</a></li>
+						<li><a href="http://trade.allproducts.com/post_message.php" title="Post New Message">Post New Message</a></li>
+						<li><a href="http://trade.allproducts.com/myoffice_mgt.php" title="Trade Leads Management">Trade Leads Management</a></li>
+						<li><a href="http://trade.allproducts.com/myoffice_rpd.php" title="My Replied History">My Replied History</a></li>
+					</ul>
+				</li>
+				<li>│</li>
+				<li>
+					<a href="/Contact/contactus.html" title="help">Help</a>
+					<ul>
+						<li><a href="/Contact/contactus.html#faq">FAQ</a></li>
+						<li><a href="/Contact/contactus.html">Contact Us</a></li>
+						<li><a href="/aboutus_LinkExchange.html" title="Link Exchange">Link Exchange</a></li>
+					</ul>
+				</li>
+				<li>│</li>
+<li>				<a href="http://tw.allproducts.com" title="繁體中文" target="_blank"><img src="/APOC/images/btn_apoc_tw.gif" border="0"></a></li>
+			</ul>
+		</div>
+		
+		<div class="headerLogo">
+			<a href="/index.html"><img src="/APOC/images/logo_en.gif" alt="allproducts.com"></a>
+		</div>
 
-<script language="JavaScript" src="/JS/menubar_content.js"></script>
+	</div>
+	
+	<!-- Top Search Start-->
+	<div class="searchBar">
+		<div class="searchTag">
+			<ul>
+				<li class="products"><a href="/index.html" title="Search Products">Products</a></li>
+				<li><a href="/index.html?kind=supplier" title="Search Suppliers">Suppliers</a></li>
+				<li><a href="/index.html?kind=categories" title="Search Categories">Categories</a></li>
+			</ul>
+		</div>
 
-<br><br>
-<div class="MainBody">
-  <div class="MainTitleBG"><span class="MainTitle">Privacy Policy</span></div>
+		<div class="searchBox">
+			<form method="GET" action="/search2/search.php">
+				<input type="hidden" name="kind" value="product">
 
-   <div class="Intro">
-             APOC takes your privacy seriously. Please read the following to learn more about our privacy policy.</div>
- <br>		  
-  <div class="Title">Collection and Use of Information</div>
-  
-  <div class="InfoLight">
-   
-  <p><span class="color_5">Registration Information</span><br>If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address and other personal information as well as information about your business.  </p>
-  <p><span class="color_5">Publishing Information</span><br>If you submit any information to APOC to be published on the site through the publishing tools, including but not limited to Company Profile, Product Catalog and Trade Leads, then you are deemed to have given consent to the publication of such information.</p>
-  <p><span class="color_5">Statistical Information</span><br>Our system also logs some basic and generic information about your computer, which include IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, and to help us develop and enhance our web site and services for our users.</p>
-   </div>
-			   
-   <div class="Title">Sharing and Disclosure of Information</div>
-   <div class="InfoLight">
-   <p>APOC does not sell, trade or rent personally identifiable information about our users to other parties without our users' consent.</p>
-    <p>We do, however, share certain aggregate information about our users with advertisers.  These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods or services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by these companies, please <a href="http://www.doubleclick.com/privacy/index.aspx"> click here</a>.</p>
-    <p>We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority. </p></div>
-    <br>          
-	 <div class="Title"> Updating and Deleting Account Information</div>
-      <div class="InfoLight">
-                  <p>allproducts.com allows you to update your 
-                    allproducts.com Account Information at any time, including 
-                    options to receive information alerts pertaining to specials 
-                    and new products. Your allproducts.com Account Information 
-                    is password-protected for your privacy and security. You may 
-                    at any time request deletion of your allproducts.com account 
-                    by sending an email to<br>
-                    <a href="mailto:service@allproducts.com" class="link_orgtext">service@allproducts.com</a>. 
-                  </p></div>
-		<br>		  
-       <div class="Title">Changes to this Privacy Policy</div>
-       <div class="InfoLight">allproducts.com reserves the right to revise 
-                    this policy when and as we deem it prudent to do so. If any 
-                    substantial changes are made in the way we use your personal 
-                    information, a prominent announcement will be posted on our 
-                    web pages.</div>
-                
-</div>
-<br>
- <div class="CopyRight">
- <a href="http://www.allproducts.com" class="color_4">Home</a> | <a href="http://hotsearch.allproducts.com" class="color_4">Hot Search</a> | <a href="search/categories/sTOP.shtml" class="color_4">Supplier Category</a> | <a href="search/categories/pTOP.shtml" class="color_4">Product Category</a> | <a href="http://trade.allproducts.com" class="color_4">Trade Leads</a> | <a href="/PR/" class="color_4">Press Release</a> | <a href="aboutus.html" class="color_4">About Us</a> | <a href="aboutus_LinkExchange.html" class="color_4">Link Exchange</a> | <a href="aboutus_LegalPolicy.html" class="color_4">Legal Policy</a> | <a href="aboutus_PrivacyPolicy.html" class="color_4">Privacy Policy</a> | <a href="Inquiry/Buyer/JoinStep1.html" class="color_4">Join Us</a> | <a href="images2/APOC_UserGuide/user_guide.htm" class="color_4">User Guide</a>
-  <br><span>Copyright (C) 1996-2009 <a href="http://www.allproducts.com" class="color_4">All Products Online Corporation</a> (<a href="http://www.allproducts.com.tw" class="color_6">TW</a>). All rights reserved.</span>
-  <script language="javascript" src="/JS/global.js"></script>
-</div>          
-  
+				<input type="text" onfocus="if (this.value == 'Enter keyword to search') {this.value = '';}" onblur="if (this.value == '') {this.value = 'Enter keyword to search';}" onclick="this.value = &quot;&quot;;" value="Enter keyword to search" id="sbi" maxlength="255" size="34" name="query" class="searchinput">
+				<input name="Search" type="image" class="btnSearch" id="Search" src="/APOC/images/btn_search_products_en.gif" align="absmiddle" "="">
+				<!--
+				<a href="" title="Advanced Search">Advanced Search</a>
+				-->
+			</form>
+
+		</div>
+
+		</div>
+	<!-- Main Content Start-->
+	<div class="main">
+		<div class="path">
+			<a href="/index.html">Home</a> &gt; <strong>Privacy Policy</strong>
+		</div>
+		
+		<!-- Content Start--><div class="contentFull"><img src="/APOC/images/content_full_01.gif" alt="top">
+<div class="InfoEdit"><h1>Privacy Policy</h1><div class="clear"></div><p>APOC takes your privacy seriously. Please read the following to learn more about our privacy policy.</p><h3>Collection and Use of Information</h3><h4>Registration Information</h4><p>
+
+If you decide to register for these services, or if you request information from us, you will be asked to provide certain information and details, including your name, company, title, country and e-mail address and other personal information as well as information about your business.</p>
+<h4>Publishing Information</h4>
+<p>If you submit any information to APOC to be published on the site through the publishing tools, including but not limited to Company Profile, Product Catalog and Trade Leads, then you are deemed to have given consent to the publication of such information.</p>
+<h4>Statistical Information</h4>
+<p>Our system also logs some basic and generic information about your computer, which include IP addresses, browser software, operating system, pages viewed, number of sessions, unique visitors and so forth to perform routine web site maintenance and to generate various aggregate reports for internal analysis, research and monitoring purposes, and to help us develop and enhance our web site and services for our users.</p><h3>Sharing and Disclosure of Information</h3><p>APOC does not sell, trade or rent personally identifiable information about our users to other parties without our users' consent.</p><p>We do, however, share certain aggregate information about our users with advertisers. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods or services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please  <a href="http://www.doubleclick.com/privacy/index.aspx" target="_blank">click here</a>.</p>
+<p>We also reserve the right to disclose user information in special cases. For example, when we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing (or threatening to infringe) or who may otherwise be causing injury to or interference with (either intentionally or unintentionally), our title, rights, interests or property, or those of other web site users, or of anyone else who could be harmed by such activities. We also reserve the right to disclose, without notice to you, personal information in response to a subpoena or other judicial order or when we believe in good faith that such disclosure is required by any law, regulation or listing requirement, or by any stock/securities exchange, governmental or regulatory authority.</p><h3>Updating and Deleting Account Information</h3>
+<p>allproducts.com allows you to update your allproducts.com Account Information at any time, including options to receive information alerts pertaining to specials and new products. Your allproducts.com Account Information is password-protected for your privacy and security. You may at any time request deletion of your allproducts.com account by sending an email to
+  <a href="mailto:service@allproducts.com">service@allproducts.com</a>. </p><h3>Changes to this Privacy Policy</h3><p>allproducts.com reserves the right to revise this policy when and as we deem it prudent to do so. If any substantial changes are made in the way we use your personal information, a prominent announcement will be posted on our web pages.</p>
+<div class="clear"></div>
+		<div align="right"><a href="#"><img src="/APOC/images/icon_top.gif" alt="top"></a></div>
+		</div><img src="/APOC/images/content_full_04.gif" alt="down"></div>
+<!-- Content End-->
+		
+	  <!-- down service Start-->
+  <div class="footer">
+			<div class="bottom_nav">
+				<a href="/">Home</a>
+				| <a href="http://hotsearch.allproducts.com/">Hot Search</a>
+				| <a href="/search/categories/sTOP.shtml">Supplier Category</a>
+				| <a href="/search/categories/pTOP.shtml">Product Category</a>
+				| <a href="http://trade.allproducts.com/">Trade Leads</a>
+				| <a href="/PR/">Press Rrelease</a>
+				| <a href="http://submit.allproducts.com">Submit Products™</a>
+				<!--
+				| <a href=""><img src="/APOC/images/ico_rss.gif" alt="rss" align="absmiddle" /> RSS</a>
+				-->
+				<br>
+				<a href="http://www.allproducts.com/aboutus.html">About Us</a>
+				| <a href="http://www.allproducts.com/aboutus_LinkExchange.html">Link Exchange</a>
+				| <a href="http://www.allproducts.com/aboutus_LegalPolicy.html">Legal Policy</a>
+				| <a href="http://www.allproducts.com/aboutus_PrivacyPolicy.html">Privacy Policy</a>
+				|<a href="http://www.allproducts.com/Inquiry/Buyer/JoinStep1.html">Join Us</a>
+				| <a href="/images2/APOC_UserGuide/user_guide.htm">User Guide</a>
+			</div>
+			
+			<div class="otherSites">
+				<strong>Our Partners:</strong>
+				<a href="http://www.3cmakers.com/" target="_blank">3cmakers</a> |
+				<a href="http://www.iamakers.com/" target="_blank">IAMakers </a> |
+				<a href="http://www.sportsmakers.com/" target="_blank">SportMakers</a>
+			</div>
+
+			<div class="copyright">
+				Copyright © 1996-2010 All Products Online Corp. All rights reserved
+			</div>
+		</div>
+	</div>
 
 
 </body></html>
