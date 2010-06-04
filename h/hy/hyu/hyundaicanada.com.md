@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101132502id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyundaicanada.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604055820id_/http%3A//www.hyundaicanada.com/Pages/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Hyundai Privacy Policy
 
@@ -33,6 +33,10 @@ Your use of our website constitutes acceptance of this Privacy Policy and any mo
 Hyundai may share your personal information with our dealers. Hyundai may also share your personal information with our service providers for the purposes set out in this Privacy Policy. Before we share your information with any third party, we will obtain your consent as required by applicable law. For example, we may share your personal information with our service providers exclusively for the purpose of providing services for us (e.g. to fulfill your request to enter into a Hyundai contest). We require that our service providers that have access to your personal information keep the information confidential and they are not permitted to use your personal information for any other purpose than to carry out the services they are providing to us. 
 
 We may also disclose your information as required by law. 
+
+##### Information May Be Located Outside of Canada
+
+Third party service providers to whom we disclose personal information pursuant to this policy may be located outside of Canada. If our service provider is located in a foreign jurisdiction they are bound by the laws of the country in which they are located. As a result, they may be required to disclose your personal information in response to demands from government authorities, law enforcement, or courts of their jurisdictions. 
 
 #####  Retention of Personal Information
 
