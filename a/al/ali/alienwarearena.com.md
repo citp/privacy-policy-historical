@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221081301id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienwarearena.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604192023id_/http%3A//www.alienwarearena.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
