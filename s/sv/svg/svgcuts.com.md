@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the svgcuts.com privacy policy that was archived on 2009-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090310232435id_/http%3A//svgcuts.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the svgcuts.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605001331id_/http%3A//svgcuts.com/index.php%3Fmain_page%3Dprivacy) for the most accurate reproduction.*
 
-# Privacy Notice : SVGCuts.com, Your source for SVG files for use with Sure Cuts A Lot!
+# Privacy Notice : SVG Files for Sure Cuts A Lot - SVGCuts.com
 
 **Privacy Statement
 
@@ -42,7 +42,7 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 Should you have other questions or concerns about these privacy policies, please [click here](http://svgcuts.com/index.php?main_page=contact_us) to contact us. 
 
-Important Copyright Notice
+Important Copyright Notice (Terms of Use)
 
 When you purchase digital files from SVGCuts.com, you receive the right to use the purchased file(s) for your personal crafts. At this time, SVGCuts.com is not granting the right to sell items using SVGCuts.com designs unless you receive written approval from SVGCuts.com. 
 
