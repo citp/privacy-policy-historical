@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121174550id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the odt.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604225036id_/http%3A//www.odt.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Otago Daily Times Online News
+# Privacy Policy | Otago Daily Times Online News Keep Up to Date Local, National New Zealand & International News
 
 _**Allied Press Limited**_
 
@@ -81,3 +81,5 @@ We reserve the right to change this policy at any time by notifying site users o
 **Holding, Correcting and Updating**
 
 Any personal information that you provide to us will be collected and held by us at 52 Stuart Street, Dunedin, New Zealand. Under the Privacy Act 1993 you have rights of access to and correction of personal information that we hold. We offer the ability to correct or change the information collected at any time and as often as necessary. If you have any questions about how our services work or regarding this statement, contact us by email at [privacy@alliedpress.co.nz](mailto:privacy@alliedpress.co.nz) or by mail to Allied Press Limited, 52 Stuart Street, PO Box 517, Dunedin, New Zealand. 
+
+Bookmark/Search this post with: 
