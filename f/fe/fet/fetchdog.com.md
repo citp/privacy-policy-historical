@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203135653id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fetchdog.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604213746id_/http%3A//www.fetchdog.com/Shop%3Fdsp%3Dprivacypolicy) for the most accurate reproduction.*
 
-# Dog Supplies | Dog Beds, Dog Toys | Free Shipping on Dog Products | FetchDog
+# Dog Supplies | Dog Beds, Dog Toys | Dog Products | FetchDog
 
 **Updated 5/27/08**
 
 **WE ARE COMMITTED TO SAFEGUARDING YOUR PRIVACY ONLINE.   PLEASE READ THIS PRIVACY POLICY CAREFULLY BEFORE USING THIS SITE. **
 
-Fetch Enterprises, LLC (“FetchDog,” “we,” “us”, “our”) takes seriously its responsibilities regarding the privacy of each user (“user,” “you” or “your”) of the www.FetchDog.com site (the “Site”). We want you to understand our practices with regard to collecting and using your information both online and offline and the steps we take to safeguard it.
+Fetch Enterprises, Inc. (“FetchDog,” “we,” “us”, “our”) takes seriously its responsibilities regarding the privacy of each user (“user,” “you” or “your”) of the www.FetchDog.com site (the “Site”). We want you to understand our practices with regard to collecting and using your information both online and offline and the steps we take to safeguard it.
 
 This Privacy Policy applies to personally identifiable information collected from FetchDog customers. When this Privacy Policy uses the term "personally identifiable information," we mean information that identifies a particular individual, such as the individual’s name, postal address, e-mail address, credit card number, and telephone number. When other information, such as, for example, consumer product preferences, or number of children, is directly associated with personally identifiable information, this other information also becomes personally identifiable information for purposes of this Privacy Policy. Personally identifiable information is sometimes referred to in this Privacy Policy as "personal information." 
 
@@ -22,7 +22,7 @@ If you do not agree with these terms, do not provide any personally identifiable
 
 **3.   Feedback**
 
-We welcome any and all questions and feedback. For privacy-related issues, please contact us at: Fetch Enterprises, LLC, 100 Fore Street, Portland, ME 04101; [legal@fetchdog.com](mailto:legal@fetchdog.com); or 207-791-7892
+We welcome any and all questions and feedback. For privacy-related issues, please contact us at: Fetch Enterprises, Inc., 100 Fore Street, Portland, ME 04101; [legal@fetchdog.com](mailto:legal@fetchdog.com); or 207-791-7892
 
 **4.   Data and Information We Collect**
 
@@ -110,7 +110,7 @@ Notwithstanding the above policies, we reserve the right to disclose your person
 
 **8.   Your Choices **
 
-We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from FetchDog or if you prefer to receive them less frequently, please contact us at the address shown below. If you no longer wish to receive our electronic newsletter you also may contact us at one of the addresses set forth in Section 3 of this Privacy Policy.
+We offer choices about the types of information you receive from us. If you prefer not to receive catalogs or other communications from FetchDog or if you prefer to receive them less frequently, please contact us at one of the addresses set forth in Section 3 of this Privacy Policy. If you no longer wish to receive our electronic newsletter you also may contact us at one of the addresses set forth in Section 3 of this Privacy Policy.
 
 Please be sure to provide us your 
 
