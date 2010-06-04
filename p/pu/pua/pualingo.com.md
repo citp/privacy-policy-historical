@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pualingo.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202010916id_/http%3A//www.pualingo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pualingo.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605000214id_/http%3A//www.pualingo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PUA Lingo
 
