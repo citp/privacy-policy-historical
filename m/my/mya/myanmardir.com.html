@@ -1,0 +1,346 @@
+<!--The following is the downloaded HTML source of the myanmardir.com privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604034340id_/http%3A//www.myanmardir.com/privacypolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<title>Myanmar Directory&nbsp;- Privacy Policy  </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="stylesheet" type="text/css" href="/templates/Chrome/style/main.css">
+<meta name="keywords" content="Privacy Policy">
+<meta name="description" content="Privacy Policy">
+<meta name="author" content="Myanmar Directory Services">
+<meta name="copyright" content="Copyright (c) 2009 by Myanmar Directory. All rights reserved!">
+<meta name="robots" content="robots.txt">
+<meta name="generator" content="PHP Link Directory 4.0.0">
+<!--  
+<script type="text/javascript" src="/libs/moodalbox/js/mootools.js"></script>
+<script type="text/javascript" src="/libs/moodalbox/js/moodalbox.js"></script>
+<link rel="stylesheet" href="/libs/moodalbox/css/moodalbox.css" type="text/css" media="screen" />
+-->
+<!--[if IE]>
+<link rel="stylesheet" href="/templates/Chrome/style/ie.css" type="text/css" media="all" />
+<![endif]-->
+<!--[if IE 8.000]><!-->
+<link rel="stylesheet" href="/templates/Chrome/style/ie8.css" type="text/css" media="all">
+<!--<![endif]-->
+</head>
+<body><script type="text/javascript">
+
+
+function increase_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height<110) {
+      document.getElementById('slide').style.marginTop = eval(height+7)+"px";
+      setTimeout("increase_height()",0.0001);
+   } else {
+      document.getElementById('panel').style.zIndex = 200;
+   }
+}
+
+function decrease_height() {
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   document.getElementById('panel').style.zIndex = -1;
+   if (height>0) {
+      document.getElementById('slide').style.marginTop = eval(height-7)+"px";
+      setTimeout("decrease_height()",0.0001);
+   }
+}
+
+function show_panel() {
+  
+   height = parseInt(document.getElementById('slide').style.marginTop);
+   if (height>0) {
+      decrease_height();
+   } else {
+      increase_height();
+   }
+   return false;
+}
+
+function ajaxFunction()
+{
+
+var xmlHttp;
+
+try
+  {
+  // Firefox, Opera 8.0+, Safari
+  xmlHttp=new XMLHttpRequest();
+  }
+catch (e)
+  {
+  // Internet Explorer
+  try
+    {
+    xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+    }
+  catch (e)
+    {
+    try
+      {
+      xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+      }
+    catch (e)
+      {
+      alert("Your browser does not support AJAX!");
+      return false;
+      }
+    }
+  }
+  xmlHttp.onreadystatechange=function()
+    {
+    if(xmlHttp.readyState==4)
+      {
+      }
+    }
+   var url = "http://www.myanmardir.com/update_session.php";
+
+   xmlHttp.open("POST", url, false);
+   xmlHttp.setRequestHeader( 
+    'Content-Type', 
+    'application/x-www-form-urlencoded; charset=UTF-8' 
+); 
+   xmlHttp.send('url='+window.location);
+  }
+</script>
+
+<div id="wrapperall">
+<div id="panel" style="z-index: -1;">
+<form method="post" action="/login.php" onsubmit="ajaxFunction();">
+<table border="0" align="center" width="40%" style="padding-top: 10px; padding-bottom: 10px; z-index: -1;height: 0px;" id="panel_table">
+<tbody><tr>
+</tr>
+<tr>
+<td>User:</td>
+<td>
+<input type="text" name="user" value="" size="20" maxlength="25" class="text">
+</td>
+<td>Password:</td>
+<td>
+<input type="password" name="pass" value="" size="20" maxlength="25" class="text">
+</td>
+<td><input type="submit" name="submit" value="Login" class="btn"></td>
+</tr>
+<tr>
+<td colspan="5" style="text-align: left;">
+<input type="checkbox" name="rememberMe">&nbsp;&nbsp; Keep me logged in.
+</td>        
+</tr>
+<tr>
+<td colspan="5" style="text-align: right;">
+<a href="/profile.php?mode=register" title="Register">Register</a>
+&nbsp;|&nbsp;
+<a href="/profile.php?mode=sendpassword" title="Recover your password">I forgot my password</a>
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>            	</div>
+<div id="wrapperall">
+<div id="wrapperBg">
+<div id="wrapperBottom">
+<div id="wrapperTop">
+<div id="wrapperLeft">
+<div id="wrapperRight">
+<div id="slide" class="slide" style="z-idex: 100; margin-top: 0px;">
+<div id="search">
+<label>Search: </label>
+<form action="/index.php" method="get" style="float: left; margin: 0px; padding: 0px">
+<div id="inputleft"></div><input type="text" value="" name="search"><div id="inputright"></div>
+<button type="submit"></button>
+</form>
+<a href="/search.php?type=advanced" title="Go to advanced search page" accesskey="4" rel="nofollow">Advanced<br>Search</a>
+<div id="loginsplit"></div>
+</div>
+</div>
+<div id="header">
+<img src="/templates/Chrome/images/logo.gif" alt="">
+</div>
+<script type="text/javascript">
+
+var view1 = 0;
+var view2 = 0;
+
+</script><div id="menu"><ul><li><div class="split"></div></li><li><a href="" onclick="return false;" onmouseover="document.getElementById('bar1').style.display='block';" onmouseout="if(view1==0) document.getElementById('bar1').style.display='none';"><span class="dropdown">Submit</span></a><div id="bar1" style="display: none;" onmouseover="this.style.display='block'; view1++;" onmouseout="this.style.display='none';  view1--;"><a href="/submit.php">»&nbsp;&nbsp;Link</a><br><a href="/submit_article.php" style="border-top: 1px dotted #A4A4A4;">»&nbsp;&nbsp;Article</a></div></li><li><div class="split"></div></li><li><div class="split"></div></li><li><div class="split"></div></li><li><a href="/contact.php">Contact</a></li><li><div class="split"></div></li><li><div class="split"></div></li></ul></div><div id="content"><div id="sideleft" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Latest articles</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/article-400.html" title="Business Process Outsourcing: Increase Rhythm of Your Business">
+Business Process Outsourcing: Increase Rhythm of Your Business
+</a>
+<br>
+Success to your business in minimum time with the help of Business Process Outsourcing Services. You can start looking for business process outsourcing services that will take over some of the tasks for you.
+<br><br>
+</div>
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/article-399.html" title="Hotels in Agra – A Blend of Tradition and Luxury">
+Hotels in Agra – A Blend of Tradition and Luxury
+</a>
+<br>
+Agra is a lovely city located on the banks of river Yamuna in the state of Uttar Pradesh in India. The city frequently visited by the tourists from across the globe is best identified with king Shajahan’s poem in marvel Tajmahal.
+<br><br>
+</div>
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/article-398.html" title="Uttaranchali match for grahwal and kumaon from uttarakhand">
+Uttaranchali match for grahwal and kumaon from uttarakhand
+</a>
+<br>
+As you are aware that people from uttarakhand are spread all over the world and achieved successful position in their respective field. Because of the lack of communication between the community members, young generation is finding very difficult to
+<br><br>
+</div>
+<div class="boxSponsored">
+<a class="boxSponsoredA" href="/articles/article-397.html" title="Unsecured Bad Credit cash loans- No security to grab hassle free cash support">
+Unsecured Bad Credit cash loans- No security to grab hassle free cash support
+</a>
+<br>
+The specialty of this loan is even bad creditor can apply for this loan without keeping any security and collateral.
+<br><br>
+</div>
+<div class="boxSponsoredLast">
+<a class="boxSponsoredA" href="/articles/article-396.html" title="Cupcake Star Power: Selena Gomez">
+Cupcake Star Power: Selena Gomez
+</a>
+<br>
+She’s more famously known in her role as Alex Russo in the Emmy award-winning Disney Channel Original Series – "Wizards of Waverly Place". If true in the real world, she definitely conjures up a cupcake every time she feels like eating one.
+<br><br>
+</div>
+</div>		<script type="text/javascript" language="JavaScript" src="http://xslt.alexa.com/site_stats/js/t/a?url=http://myanmardir.com/"></script>
+</div>
+<div id="main"><div class="path"><a href="/" id="firstPath">Myanmar Directory</a><span>Privacy Policy</span></div><table align="center" border="0" width="100%"><tbody><tr><td class="smallDesc"><p><span style="color: #3366ff;"><strong> Directory Services Privacy Policy</strong></span><br><br>The privacy of our clients is of utmost importance to  Directory Services.<br><br>If you have any questions about our privacy policy, or if you wish to update information we hold about you or you wish to make a related complaint or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em> This e-mail address is being protected from spambots. You need JavaScript enabled to view it<br><br><strong><br><span style="color: #3366ff;">Types of Personal Information we collect</span></strong><br><br>The types of personal information that we collect from you will depend on the circumstances of collection and on the type of service you request from us.<br><br>For the directory service order, we would generally require your name, address, telephone number etc., which would be stored in your individual profile. In some instances we will also require your credit card details and other information.<br><br><span style="color: #3366ff;"><strong>Why we collect personal information</strong></span><br><br>Generally we collect, update and use personal information about you to allow us to transact business on your behalf.<br><br>We may choose to add your details to our database for the purpose of directing opportunities to your attention. At any time, if you do not wish to continue receiving this information, you can inform us by the email and your details will be removed.<br><br><span style="color: #3366ff;"><strong>How we collect personal information</strong></span><br><br>Generally, we collect personal information directly from you. We may collect and update that information over the Internet by correspondence.<br><br><span style="color: #3366ff;"><strong>How we store information</strong></span><br><br>We store personal information in a combination of secure computer storage facilities. We have taken a number of steps to protect the personal information we hold from misuse, loss and unauthorised access, modification or disclosure.<br><br>We also take reasonable steps to destroy or permanently de-identify personal information when we no longer need it.<br><br><strong><span style="color: #3366ff;">When we may disclose your personal information</span><br></strong><br>Because your privacy is important we will not disclose your personal information without your consent.<br><br>However we may disclose personal information about you in the following circumstances:<br><br>* Where our business partners need to provide you with information and offers about products and services.<br><br><span style="color: #3366ff;"><strong>Access to personal information</strong></span><br><br>We will take reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete and up-to-date. If your personal details change, please contact us so that we can continue to provide you with our products and services.<br><br>We undertake to promptly acknowledge and investigate any complaints about the way we manage personal information.<br><br><span style="color: #3366ff;"><strong>About this Privacy Policy Statement</strong></span><br><br>We may update our policies and this Privacy Policy Statement from time to time. The latest version is published on our website.<br><br><span style="color: #3366ff;"><strong>Contact us</strong></span><br><br>If you have any questions about this policy, or wish to update information we hold about you, make a related complaint, or to receive a copy of our current Privacy Policy Statement, please email us on <em><strong>directory@gmx.us.</strong></em></p></td></tr><tr><td></td></tr></tbody></table>
+<div style="clear: both"></div></div><div id="sideright" style="width: 215px;">
+<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Popular Categories</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="/Business/" title="Business">Business</a>
+</li>
+<li>
+<a href="/Shopping/" title="Shopping">Shopping</a>
+</li>
+<li>
+<a href="/Computers_and_Internet/" title="Computers &amp; Internet">Computers &amp; Internet</a>
+</li>
+<li>
+<a href="/Health/" title="Health">Health</a>
+</li>
+<li>
+<a href="/Travel_and_Tourism/" title="Travel &amp; Tourism">Travel &amp; Tourism</a>
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Latest links</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="                                            /detail/link-43018.html" title="Read more about: Indian horoscope services">Indian horoscope services</a>
+</li>
+<li>
+<a href="                                            /detail/link-43017.html" title="Read more about: Seattle Cosmetic Surgery">Seattle Cosmetic Surgery</a>
+</li>
+<li>
+<a href="                                            /detail/link-43016.html" title="Read more about: Dallas Car Accident Lawyer">Dallas Car Accident Lawyer</a>
+</li>
+<li>
+<a href="                                            /detail/link-43015.html" title="Read more about: Opiate Addiction Rehab">Opiate Addiction Rehab</a>
+</li>
+<li>
+<a href="                                            /detail/link-43012.html" title="Read more about: Blinds - Vertical Blinds">Blinds - Vertical Blinds</a>
+</li>
+<li>
+<a href="                                            /detail/link-43011.html" title="Read more about: Port Charolotte Chevy Dealer - Cox Auto">Port Charolotte Chevy Deale...</a>
+</li>
+<li>
+<a href="                                            /detail/link-43010.html" title="Read more about: Social Networking Website Development | Dating Website Development Company">Social Networking Website D...</a>
+</li>
+<li>
+<a href="                                            /detail/link-43009.html" title="Read more about: Home Inspection Arizona">Home Inspection Arizona</a>
+</li>
+<li>
+<a href="                                            /detail/link-43008.html" title="Read more about: Combi Boilers">Combi Boilers</a>
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Info Pages</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxPopCats">
+<li>
+<a href="/aboutus.html" title="About Us">About Us</a> 
+</li>
+<li>
+<a href="/privacypolicy.html" title="Privacy Policy">Privacy Policy</a> 
+</li>
+<li>
+<a href="/disclaimer.html" title="Disclaimer &amp; License">Disclaimer &amp; License</a> 
+</li>
+<li>
+<a href="/Terms_and_Conditions.html" title="Terms and Conditions">Terms and Conditions</a> 
+</li>
+</ul>
+</div>				<div class="title">
+<div class="titleLeft"></div>
+<div class="titleBgside">
+<div class="titleIcon1">Statistics</div>
+</div>
+<div class="titleRight"></div>
+</div>
+<div style="clear: both;"></div>
+<div class="sidecateg">
+<ul class="boxStats">
+<li><strong>Active Links:</strong> 32162</li>
+<li><strong>Pending Links:</strong> 449</li>
+<li><strong>Todays Links:</strong> 121</li>
+<li><strong>Active Articles:</strong> 390</li>
+<li><strong>Pending Articles:</strong> 6</li>
+<li><strong>Todays Articles:</strong> 6</li>
+<li><strong>Total Categories:</strong> 19</li>
+<li><strong>Sub Categories:</strong> 671</li>
+</ul>
+
+</div>		</div>
+<p></p>
+<center>
+<script language="JavaScript" type="text/javascript">
+<!--
+// current date - from http://rainbow.arch.scriptmania.com/scripts
+// Array of day names
+var dayNames = new Array("Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday");
+
+var monthNames = new Array("January","February","March","April","May","June","July",
+                           "August","September","October","November","December");
+
+var dt = new Date();
+var y  = dt.getYear();
+
+// Y2K compliant
+if (y < 1000) y +=1900;
+
+document.write(dayNames[dt.getDay()] + ", " + monthNames[dt.getMonth()] + " " + dt.getDate() + ", " + y);
+// -->
+</script>Saturday, February 1, 2020
+</center>
+</div><div id="footer" style="margin-top: 20px;"><div id="footercontent"><a href="http://www.phplinkdirectory.com" title="PHP Link Directory" target="_blank">PHPLD</a>|<a href="http://www.f2cont.com/" title="F2CONT Directory" target="_blank">F2</a>|<a href="http://www.fomim.com/" title="FOmim" target="_blank">Fo</a>|<a href="http://www.imtrav.com/" title="ImTrav" target="_blank">Im</a>|<a href="http://www.zaphealth.com/" title="ZapHealth Directory" target="_blank">Z</a>|<a href="http://www.heygh.com/" title="HEYGH Directory" target="_blank">He</a>|<a href="http://www.izedi.com/" title="IZEDI Directory" target="_blank">Iz</a>|<a href="http://www.izodi.com/" title="IZODI Directory" target="_blank">Io</a>|<a href="http://www.jiggoh.com/" title="JIGGOH Directory" target="_blank">Ji</a>|<a href="http://www.kppdor.com/" title="KPPDOR Directory" target="_blank">Kp</a>|<a href="http://www.kseny.com/" title="KSENY Directory" target="_blank">Ks</a>|<a href="http://www.kvce.com/" title="KVCE Directory" target="_blank">Kv</a>|<a href="http://www.leoel.com/" title="LEOEL Directory" target="_blank">Le</a>|<a href="http://www.mandalay.travel/" title="Mandalay Travel Guide" target="_blank">Mt</a>|<a href="http://www.mcsys.com/" title="MCSYS Directory" target="_blank">Mc</a>|<a href="http://www.myanmar.fm/" title="MyanmarFm Directory" target="_blank">Mf</a>|<a href="http://www.myanmararchives.com/" title="Myanmar Archives and Database" target="_blank">Mr</a>|<a href="http://www.myanmardir.com/" title="Myanmar Directory" target="_blank">Md</a>|<a href="http://www.neibban.com/" title="Neibban Directory" target="_blank">Nb</a>|<a href="http://seotools.goldenlandpages.com/" title="Seo Tools Directory" target="_blank">Se</a>|<a href="http://www.stroal.com/" title="STROAL Directory" target="_blank">Sr</a>|<a href="http://www.iehut.com/" title="ieHut Directory" target="_blank">ie</a>|<a href="http://www.illinoisdir.com/" title="Illinois Directory" target="_blank">IL</a>|<a href="http://www.indianadirectory.net/" title="Indiana Directory" target="_blank">IN</a>|<a href="http://www.iowadir.com/" title="Iowa Directory" target="_blank">IA</a>|<a href="http://www.kansasdirectory.net/" title="Kansas Directory" target="_blank">KS</a>|<a href="http://www.kentuckydir.com/" title="Kentucky Directory" target="_blank">KY</a>|<a href="http://www.louisianadir.com/" title="Louisiana Directory" target="_blank">LA</a>|<a href="http://www.marylanddir.com/" title="Maryland Directory" target="_blank">MD</a>|<a href="http://www.massachusettsdir.com/" title="Massachusetts Directory" target="_blank">MA</a>|<a href="http://www.missouridir.com/" title="Missouri Directory" target="_blank">MO</a>|<a href="http://www.mississippidir.com/" title="Mississippi Directory" target="_blank">MS</a>|<a href="http://www.montanadir.com/" title="Montana Directory" target="_blank">MT</a>|<a href="http://www.mozillation.com/" title="Mozillation Directory" target="_blank">Mz</a>|<a href="http://www.nebraskadir.com/" title="Nebraska Directory" target="_blank">NE</a>|<a href="http://www.nevadadir.com/" title="Nevada Directory" target="_blank">NV</a>|<a href="http://www.newhampshiredir.com/" title="New Hampshire Directory" target="_blank">NH</a>|<a href="http://www.newjerseydir.com/" title="New Jersey Directory" target="_blank">NJ</a>|<a href="http://uniqcom.goldenlandpages.com/" title="Uniqcom Business Services" target="_blank">U</a></div></div></div></div></div></div></div>&nbsp;</div></body></html>
