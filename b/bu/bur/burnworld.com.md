@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221180636id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burnworld.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604070825id_/http%3A//www.burnworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Burnworld - Privacy Policy
 
@@ -10,7 +10,7 @@
 BurnWorld has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: BurnWorld.com.
 
 **Choice/Opt-Out**  
-Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20091221180636id_/http%3A//www.burnworld.com/register.htm)
+Our site provides users the opportunity to opt-out of receiving communications from us at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. [Click Here.](https://web.archive.org/web/20100604070825id_/http%3A//www.burnworld.com/register.htm)
 
 **Correct/Update**  
 This site gives users the following options for changing and modifying information previously provided. Just Email [rob @burnworld.com](mailto:rob%20@burnworld.com)
@@ -82,11 +82,11 @@ Some emails are non-scheduled such as site/user news for registered users or dir
 
 * * *
 
-BurnWorld.com is an independent product reviewer and is not associated with any company that is listed on our sites. On occasion we will receive free copies of software for testing & reviewing. We also receive compensation for certain products that are listed on our site. Because of this we would like to mention that this does not alter what we recommend. We take pride in only listing hardware & software that we feel is the best in class and what we would consider a 'safe buy'.
-
+|  | BurnWorld.com is an independent product reviewer and is not associated with any company that is listed on our sites. On occasion we will receive free copies of software for testing & reviewing. We also receive compensation for certain products that are listed on our site. Because of this we would like to mention that this does not alter what we recommend. We take pride in only listing hardware & software that we feel is the best in class and what we would consider a 'safe buy'.  
+---|---  
   
   
-|   
+  
 | 
 
 * * *
