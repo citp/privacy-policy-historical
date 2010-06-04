@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201173759id_/http%3A//www.sonatype.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sonatype.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604171354id_/http%3A//www.sonatype.com/about/privacy) for the most accurate reproduction.*
 
-# Sonatype Privacy Policy | Sonatype: Maven and Nexus: Enterprise build and release management
+# Sonatype Privacy Policy | Sonatype
 
 ## SONATYPE, INC.  
 PRIVACY POLICY
