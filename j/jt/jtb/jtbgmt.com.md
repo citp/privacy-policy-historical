@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227025714id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jtbgmt.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604040308id_/http%3A//www.jtbgmt.com/privacy_policy/privacy_policy.html) for the most accurate reproduction.*
 
 # JTB Global Marketing & Travel : Privacy Policy
 
@@ -35,7 +35,7 @@ In accordance with the Personal Information Protection Act and JTB Global Market
 
 **1\. Customer Personal Information Kept by JTBGMT  
 **   
-JTBGMT keeps a portion of personal information provided by customers in travel requests and other transactions as personal data.
+JTBGMT keeps a portion of personal information provided by customers in travel requests and other transactions as personal data. JTBGMT also handles personal data entrusted to it by other travel companies, including companies based overseas, in order to provide travel arrangements requested by those companies.
 
 **2\. Reasons for Use of Customer Personal Information**
 
@@ -43,27 +43,45 @@ JTBGMT and its designated travel businesses (branches) will use personal informa
 
 *In addition, JTBGMT will use customer personal information...
 
+\- To respond to inquiries  
+\- To process credit card payments for products or services  
 \- To provide information on products, services, and campaigns offered by JTBGMT and related companies  
 \- To request opinions and impressions after participating in travel  
 \- To request participation in questionnaires  
 \- To offer special services  
 \- To create statistical data
 
-**3\. Sensitive Information**
+**3\. Handling of Personal Information Related to Credit Cards Used for Internet Purchases**
+
+JTB Global Marketing & Travel Inc. will use the personal information of customers related to credit cards used to pay for products or services over the internet.  
+**Name of Collector of Credit Card Data**  
+JTB Global Marketing & Travel Inc.   
+**Outside Consignment of Payment Processing**  
+JTB Global Marketing & Travel consigns all operations necessary to process payments for products or services purchased via the internet by credit card to outside companies.   
+**Consignment Companies**  
+For payments on the JAPANiCAN web page (<http://www.japanican.com/>): i.JTB Corp.  
+For payments on web sites used to book accommodations and other services for international conferences: JTB BUSINESS INNOVATORS Corp.   
+*The names of the companies consigned to process payments can be confirmed when entering credit card information.  
+**Retention Period  
+**The personal information related to credit card data is saved for the following periods, after which it is erased.   
+For iJTB Corp.: 13 months   
+For JTB BUSINESS INNOVATORS Corp.: 6 months
+
+**4\. Sensitive Information**
 
 JTBGMT does not collect, use or provide information to third parties on political opinions, faith (religion, philosophy, or creed), race or ethnicity, lineage or place of birth, medical treatment or sexual history, or criminal history, except where permitted by law. Also, when sensitive information is collected, used, or provided to a third party, JTBGMT takes special care in its handling so as not to collect, use, or provide information in a way that is not in accordance with the law. 
 
-**4\. Providing Customer Personal Information to Third Parties**
+**5\. Providing Customer Personal Information to Third Parties**
 
 \- JTBGMT will provide in electronic form a customer’s name, gender, age, address, phone number, e-mail address, passport number, and credit card number to transportation, accommodation, and insurance companies as necessary to arrange and provide purchased travel services, or as necessary to fulfill travel agreements or complete insurance formalities to securitize costs when accidents occur.
 
 \- JTBGMT may provide customer personal information in our possession to souvenir stores to facilitate shopping by customers at their destination. In such cases, the customer’s name, passport number and flight number will be provided electronically. If you do not wish for your information to be provided to these businesses, please inform the branch where you purchased the travel before departure.
 
-**5\. Consignment of Customer Personal Information**
+**6\. Consignment of Customer Personal Information**
 
 JTB GMT may consign personal information to complete formalities for traveling abroad as well as perform procedures necessary to provide requested travel and other services. When consigning the information, JTB GMT will choose a consignee using company standards, enter into a contract with the consignee for protecting personal information, and audit their practices to ensure the proper handling of personal information.
 
-**6\. Collection and Use of Customer Personal Information**
+**7\. Collection and Use of Customer Personal Information**
 
 JTBGMT handles the collection and use of customer personal information as follows:
 
@@ -90,7 +108,7 @@ JTBGMT handles the collection and use of customer personal information as follow
 \- JTB Business Innovators Corp.  
 \- JTB Traveland Corp.
 
-**7\. Joint Use of Customer Personal Information**
+**8\. Joint Use of Customer Personal Information**
 
 Among the customer personal information that it has acquired, JTBGMT will jointly use names, phone numbers, and e-mail addresses with the group companies below at the minimum extent necessary to contact customers. The group companies will use this information for their own sales activities, simplification of customer orders, sending information on products, and sending purchased products.
 
@@ -130,11 +148,11 @@ JTB Trading, Inc. | 2-43-20 Minami IkebukuroToshima-ku, Tokyo
 BankersPartner, Inc. | Tokyo Ginko Kyokai Building, 16th Fl1-3-1 MarunouchiChiyoda-ku, Tokyo  
 JTB Global Assistance, Inc. | 2-1-5 Iwamoto-choChiyoda-ku, Tokyo  
   
-**8\. Cookies**
+**9\. Cookies**
 
 The JTB GMT website uses “cookies” to provide better service and ensure security. Cookies are data files that are stored by websites on customer computers and can be read when the customer visits the site at a later date. Individual cookies can only be read by the website that created them. JTB GMT uses cookies for many website management purposes. For instance, to record the types of information requested by customers and to use that information to automatically fill in fields when the customer visits the site. Most cookies are used only for a single session or visit to the site. They do not contain any information that would allow anybody to contact the customer such as phone numbers, e-mail addresses, or mail addresses. Customers can set their browser to inform them of the placement of cookies or to not permit the placement of any cookies.
 
-**9\. Inquiries, Release, Deletion, and Correction of Customer Personal Information**
+**10\. Inquiries, Release, Deletion, and Correction of Customer Personal Information**
 
 Anyone who requests that we disclose, delete or destroy, change, stop the use, or stop sharing with third parties their individual customer personal information in our possession will be provided with the necessary steps to do so by contacting the departments listed below. When requested, we will take all necessary measures as set by laws and company regulations without delay.  
 If we are unable to comply with all or part of your request, we will provide an explanation.
@@ -142,7 +160,7 @@ If we are unable to comply with all or part of your request, we will provide an 
 Please contact the departments below for any issues concerning personal information.
 
 (1) Questions and complaints about the handling of personal information and requests for disclose, deletion or destruction.  
-Personal Information as defined in 4-(5) 
+Personal Information as defined in 7-(6) 
 
 JTB Global Marketing & Travel, Inc., Administration Department  
 Address: 2-3-11 Highashi-Shinagawa, Shinagawa-ku, Tokyo  
@@ -154,6 +172,6 @@ Phone: 03-5796-5400 (Not open Saturdays, Sundays, holidays, or 12/30-1/3)
 Please contact the branch at which you purchased your trip.  
 (Contact information is located on the copy of your application and on the contract.)
 
-**10\. In Circumstances When Personal Information is Leaked**
+**11\. In Circumstances When Personal Information is Leaked**
 
 If for some reason JTBGMT personal information is disclosed, we will contact the customer immediately. If necessary, we will temporarily shout down our system to maintain security, or we may promptly announce facts about the situation publicly on our homepage.
