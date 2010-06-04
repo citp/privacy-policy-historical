@@ -1,120 +1,46 @@
-> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2007-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070506173918id_/http%3A//www.lightreading.com/document.asp%3Fdoc_id%3D4503) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lightreading.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604093854id_/http%3A//www.techweb.com/privacy-highlights.htm) for the most accurate reproduction.*
 
-# Light Reading - Privacy Policy - Telecom
+# Privacy Highlights
 
-|  |  |  |  |  |   
----|---|---|---|---  
-|  |  | [](https://web.archive.org/) |   
----|---  
-|   
----  
+Effective January 4th, 2009
+
+## SCOPE
+
+This Privacy Notice Highlights and the full 
+
+[ _ **United Business Media LLC Privacy Notice**_](https://web.archive.org/privacy-notice.htm)
+
+ (together, simply the Notice) apply to our face-to-face events, print publications distributed within the United States and their digital versions, our online events, web sites, and web properties, our email newsletters and our participation in social media.
+
+## PERSONAL INFORMATION
+
+\- We collect information you give us directly.  
+\- We may add information from other sources.  
+\- We use common Internet technologies such as cookies and web beacons on our websites and in our emails.
+
+## USES
+
+We use information about you  
+\- to provide the products and services you request and to manage your account,  
+\- to provide you with content and information about other products and services that may be of interest to you, and  
+\- to allow you to connect directly with other companies and with colleagues.
+
+## YOUR CHOICES
+
+\- To find out how to control whether or not to connect with other companies, opt out of our email marketing programs, or keep your account or subscription information up to date, please visit [Your Choices](https://web.archive.org/privacy-notice.htm/#Choices) in the full Notice.  
+\- To find out how to control the display of advertising or content based on your interests, please review [More Information About Cookies](https://web.archive.org/privacy-notice.htm/#More_info) in the full Notice.
+
+## IMPORTANT INFORMATION
+
+\- We collect and process information on servers around the world.  
+\- We use reasonable security measures to protect information about you.  
+\- This Notice covers how we use information you provide to us. We cannot control how others may use information you may make public or choose to disclose online or at face-to-face events.  
+\- Our products, services, events and offerings are directed to professionals and not children thirteen or under.  
+\- We will post and date any changes to this Notice. Please check here periodically. Your continued use of our products and services covered by this Notice constitutes your acceptance of the terms in place at the time of your use.
+
+## HOW TO CONTACT US
+
+For more information about our privacy practices and how to contact us, please review the full [_**United Business Media LLC Privacy Notice**_](https://web.archive.org/privacy-notice.htm).
+
   
-**Light Reading, Inc.** ("Light Reading") is committed to your privacy. We created this privacy policy ("Privacy Policy") to inform you of our information gathering and dissemination practices for [www.lightreading.com](http://www.lightreading.com/), [www.byteandswitch.com](http://www.byteandswitch.com/), [www.unstrung.com](http://www.unstrung.com/), [www.darkreading.com](http://www.darkreading.com/), [www.cabledigitalnews.com](http://www.cabledigitalnews.com/), and [www.heavyreading.com](http://www.heavyreading.com/) (collectively known as the "Site"). You can generally visit our Sites without revealing any personal information about yourself. However, when you engage in certain activities on the Sites, such as registering to subscribe to one of the Light Reading newsletters or to participate on the message boards, we may ask you to provide certain information that is personally identifiable.
-
-**Acquisition of Information**  
-Light Reading collects information from you in the following ways: 
-
-  * **User supplied information:** Our registration process requires your e-mail address, and a username and password of your choosing. In addition, our registration process allows you to provide the following information at your option: personal name, title, address, phone number, your business type, your estimated revenue, the technologies you are interested in, and what parts of the network you find interesting. From time to time, we may request additional information. 
-  * **Cookies:** Our Sites uses "cookies," small files that are sent to your browser and stored on your hard drive. A cookie does not contain any personally identifiable information, but it does enable Light Reading to record how and when you use the Site. 
-  * **Advertising:** Light Reading uses both internal and external advertising systems to display ads on the Sites. The external advertising systems are solely controlled by our advertising partners and may contain cookies or other information gathering abilities. Light Reading has no access to or control of any information obtained by these advertisers. 
-
-**Use of Information**  
-We may use any personally identifiable information you provide at your option only to: 
-
-  * Predict and respond to your needs by aggregating our users’ information and tracking user trends. Although we do share this aggregated information with other users and third parties, it will not personally identify you.  
-
-  * Provide you with information about Light Reading’s products, services, news and events that we believe may be of interest to you. In addition, we may provide this information to third parties who wish to inform you about their products, services, news and events that they believe may be of interest to you. While we may tell you about these other parties, it is entirely your choice whether or not to contact them. We will not share your personally identifiable information with other parties without your prior consent. If you choose to contact any third party, your communication with them will be governed by their privacy policies and not Light Reading’s. At any time, you may opt out of receiving information about Light Reading or other parties by changing your registration profile. 
-
-
-
-**Transfer**  
-Light Reading may disclose your personally identifiable information upon a transfer or sale to another entity of all or substantially all of Light Reading’s assets or stock in Light Reading’s line of business to which this Privacy Policy relates or upon any other corporate reorganization.
-
-**Exclusion**  
-Because Light Reading cannot predict, control or be responsible for information you choose to tell us or others in a publicly available fashion, this Privacy Policy does not apply to any information that you voluntarily disclose to Light Reading, our partners, our customers or any other third party via chat rooms, bulletin boards or otherwise where Light Reading did not expressly ask you for such information.
-
-**Access by Our Employees**  
-Light Reading uses good faith efforts to limit our employees’ access to your personally identifiable information to the amount reasonably required to provide prompt, high quality service.
-
-**Update Your Profile**  
-Please help us to provide you with the highest quality and most efficient service by ensuring that your registration profile is current and complete. To edit your profile, visit our [User Preferences](https://web.archive.org/web/20070506173918id_/http%3A//www.lightreading.com/register/user_lists.asp) page.
-
-Due to the Internet’s rapidly evolving nature, Light Reading may need to update this Privacy Policy from time to time. If so, Light Reading will post its updated policy at [www.lightreading.com](https://web.archive.org/web/20070506173918id_/http%3A//www.lightreading.com/document.asp?doc_id=4503). Light Reading encourages you to review this Privacy Policy regularly for any changes.
-
-**Questions?**  
-If you have any questions or suggestions about our privacy or security policies, please feel free to contact us at [support@lightreading.com](mailto:support@lightreading.com).  
-  
-|  |  |  |   
----  
-MAY 6, 2007  
-| [](https://web.archive.org/feedback/) |  | [](https://web.archive.org/login.asp) |  | [](mailto:support@lightreading.com)  
----|---|---|---|---  
-[](https://web.archive.org/register.asp)  
-**Search**  
-|  |  |   
----|---|---  
-**Most Popular**  
-| [](https://web.archive.org/topstories.asp) |  | [](https://web.archive.org/topstories.asp?section_type=Blog) |  | [](https://web.archive.org/boards/) |   
----|---|---|---|---|---  
-[](https://web.archive.org/ad_redirect.asp?ad_version=2&ad_id=296&ad_url=http%3A%2F%2Fwww%2Elightreading%2Ecom%2Fregister%2Fregister%5Fnew%2Easp)  
-|   
----  
-|  |  |   
----  
-DATE: Tuesday, May 15, 2007  
-LOCATION: Marriott Marble Arch, London  
-EVENT: The Future of Optical: Europe  
-[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=312)  
-DATE: Wednesday, May 16, 2007  
-LOCATION: The Westin Times Square, New York  
-EVENT: Future of Broadband 2007  
-[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=308)  
-DATE: Tuesday, May 22, 2007  
-LOCATION: Westin Boston Waterfront, Boston  
-EVENT: Telecom2.0: The Collision of Content and Communications  
-[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=310)  
-DATE: Wednesday, June 27, 2007  
-LOCATION: Radisson SAS Hotel, Berlin  
-EVENT: Backhaul Strategies for Mobile Operators: Europe 2007  
-[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=316)  
-DATE: Thursday, June 28, 2007  
-LOCATION: Radisson SAS Hotel, Berlin  
-EVENT: Technical Workshop With EANTC: IP/MPLS for Cellular Backhaul  
-[MORE INFO](https://web.archive.org/live/event_information.asp?survey_id=317)  
-[MORE EVENTS](https://web.archive.org/live/)  
-|   
-[](https://web.archive.org/events.asp)  
-|  |    
-
-
-Please don't feed the monkey. Copyright © 2000-2007 Light Reading Inc. - All rights reserved. 
-
-|  |   
-|  | Companies  
----  
-[Alcatel-Lucent](https://web.archive.org/topics.asp?node_id=1385) (4934), [AT&T](https://web.archive.org/topics.asp?node_id=1386) (1201), [BellSouth](https://web.archive.org/topics.asp?node_id=1387) (801), [BT](https://web.archive.org/topics.asp?node_id=1388) (803), [Cablevision](https://web.archive.org/topics.asp?node_id=1959) (195), [Cisco](https://web.archive.org/topics.asp?node_id=1389) (4228), [Comcast](https://web.archive.org/topics.asp?node_id=1957) (498), [Cox Communications](https://web.archive.org/topics.asp?node_id=1960) (294), [Deutsche Telekom](https://web.archive.org/topics.asp?node_id=1390) (595), [eBay (Skype)](https://web.archive.org/topics.asp?node_id=1391) (300), [Ericsson](https://web.archive.org/topics.asp?node_id=1392) (1016), [France Telecom](https://web.archive.org/topics.asp?node_id=1393) (730), [Google](https://web.archive.org/topics.asp?node_id=1394) (300), [Huawei](https://web.archive.org/topics.asp?node_id=1523) (681), [Intel](https://web.archive.org/topics.asp?node_id=1552) (1064), [Juniper](https://web.archive.org/topics.asp?node_id=1395) (1711), [Microsoft](https://web.archive.org/topics.asp?node_id=1397) (794), [Motorola](https://web.archive.org/topics.asp?node_id=1398) (940), [Nortel](https://web.archive.org/topics.asp?node_id=1399) (3427), [NTT](https://web.archive.org/topics.asp?node_id=1400) (80), [Siemens](https://web.archive.org/topics.asp?node_id=1401) (1324), [Sprint](https://web.archive.org/topics.asp?node_id=1402) (906), [Telefonica](https://web.archive.org/topics.asp?node_id=1403) (285), [Time Warner Cable](https://web.archive.org/topics.asp?node_id=1958) (254), [Verizon](https://web.archive.org/topics.asp?node_id=1404) (1596), [Vodafone](https://web.archive.org/topics.asp?node_id=1405) (354), [Yahoo](https://web.archive.org/topics.asp?node_id=1406) (252)   
-[Broadband](https://web.archive.org/topics.asp?node_id=1341)  
-[Access equipment](https://web.archive.org/topics.asp?node_id=992) (1504), [Access technologies](https://web.archive.org/topics.asp?node_id=996) (1500), [Broadband loop carriers / multiservice access nodes](https://web.archive.org/topics.asp?node_id=993) (186), [Cable modem termination systems (CMTSs)](https://web.archive.org/topics.asp?node_id=1005) (667), [Cable TV chips](https://web.archive.org/topics.asp?node_id=1009) (40), [DSL ](https://web.archive.org/topics.asp?node_id=1000) (1054), [DSL chips](https://web.archive.org/topics.asp?node_id=1007) (127), [DSLAMs](https://web.archive.org/topics.asp?node_id=994) (476), [Free-space optics ](https://web.archive.org/topics.asp?node_id=997) (25), [FTTx](https://web.archive.org/topics.asp?node_id=998) (639), [Municipal networks](https://web.archive.org/topics.asp?node_id=1339) (83), [PON ](https://web.archive.org/topics.asp?node_id=999) (400), [PON chips](https://web.archive.org/topics.asp?node_id=1008) (108), [Satellite](https://web.archive.org/topics.asp?node_id=1254) (95), [WiMax](https://web.archive.org/topics.asp?node_id=1127) (467), [Wireless LAN](https://web.archive.org/topics.asp?node_id=1126) (251)   
-[Cable Digital](https://web.archive.org/topics.asp?node_id=1962)  
-[Cable Modems](https://web.archive.org/topics.asp?node_id=1968) (61), [Cable/MSO equipment](https://web.archive.org/topics.asp?node_id=1004) (1348), [CableLabs](https://web.archive.org/topics.asp?node_id=1972) (40), [Compression (MPEG-2 and MPEG-4)](https://web.archive.org/topics.asp?node_id=1973) (47), [DOCSIS](https://web.archive.org/topics.asp?node_id=1966) (66), [Embedded multimedia terminal adapters (E-MTAs)](https://web.archive.org/topics.asp?node_id=1970) (21), [Head-ends](https://web.archive.org/topics.asp?node_id=1969) (36), [PacketCable](https://web.archive.org/topics.asp?node_id=1967) (29), [QAM](https://web.archive.org/topics.asp?node_id=1971) (32)   
-[Chips, Components & Subsystems](https://web.archive.org/topics.asp?node_id=1340)  
-[ASICs & FPGAs](https://web.archive.org/topics.asp?node_id=1015) (45), [ATCA](https://web.archive.org/topics.asp?node_id=1002) (247), [ATM chips](https://web.archive.org/topics.asp?node_id=1014) (13), [Comm chips](https://web.archive.org/topics.asp?node_id=1006) (1793), [Dispersion compensators ](https://web.archive.org/topics.asp?node_id=1053) (128), [Lasers](https://web.archive.org/topics.asp?node_id=1054) (775), [Modulators](https://web.archive.org/topics.asp?node_id=1055) (126), [Mux/demuxes](https://web.archive.org/topics.asp?node_id=1048) (279), [Network processors ](https://web.archive.org/topics.asp?node_id=1013) (747), [Optical amplifiers ](https://web.archive.org/topics.asp?node_id=1049) (306), [Optical channel monitors](https://web.archive.org/topics.asp?node_id=1051) (80), [Optical components](https://web.archive.org/topics.asp?node_id=1046) (1933), [Speciality fiber ](https://web.archive.org/topics.asp?node_id=1057) (39), [Switches & OADMs](https://web.archive.org/topics.asp?node_id=1050) (325), [Transceivers ](https://web.archive.org/topics.asp?node_id=1047) (969), [Transmission fiber ](https://web.archive.org/topics.asp?node_id=1056) (336), [Variable optical attenuators](https://web.archive.org/topics.asp?node_id=1052) (130)   
-[Ethernet](https://web.archive.org/topics.asp?node_id=1217)  
-[10-Gbit/s Ethernet switches](https://web.archive.org/topics.asp?node_id=1018) (1105), [Access devices](https://web.archive.org/topics.asp?node_id=1253) (144), [ATM switches](https://web.archive.org/topics.asp?node_id=1045) (331), [Circuit emulation](https://web.archive.org/topics.asp?node_id=1263) (12), [Converged access ](https://web.archive.org/topics.asp?node_id=1021) (56), [Ethernet chips](https://web.archive.org/topics.asp?node_id=1010) (359), [Ethernet equipment](https://web.archive.org/topics.asp?node_id=1017) (948), [Ethernet over copper](https://web.archive.org/topics.asp?node_id=1025) (118), [Ethernet PONs](https://web.archive.org/topics.asp?node_id=1026) (116), [Ethernet services](https://web.archive.org/topics.asp?node_id=1020) (1063), [Ethernet technologies](https://web.archive.org/topics.asp?node_id=1024) (239), [Multipoint](https://web.archive.org/topics.asp?node_id=1023) (71), [Multiservice edge equipment](https://web.archive.org/topics.asp?node_id=1042) (98), [Multiservice provisioning platforms ](https://web.archive.org/topics.asp?node_id=1043) (582), [Multiservice switches](https://web.archive.org/topics.asp?node_id=1044) (362), [Point-to-point](https://web.archive.org/topics.asp?node_id=1022) (63), [Pseudowire (Layer 2 tunnels)](https://web.archive.org/topics.asp?node_id=1250) (97)   
-[IP & Convergence](https://web.archive.org/topics.asp?node_id=1342)  
-[B-RASs](https://web.archive.org/topics.asp?node_id=1031) (196), [Cell/WLAN](https://web.archive.org/topics.asp?node_id=1546) (47), [Compression equipment](https://web.archive.org/topics.asp?node_id=1033) (8), [Core routers ](https://web.archive.org/topics.asp?node_id=1029) (1050), [DNS](https://web.archive.org/topics.asp?node_id=1245) (33), [Edge routers ](https://web.archive.org/topics.asp?node_id=1030) (1229), [ENUM](https://web.archive.org/topics.asp?node_id=1246) (43), [Fixed/Mobile Convergence ](https://web.archive.org/topics.asp?node_id=1027) (367), [GMPLS](https://web.archive.org/topics.asp?node_id=1040) (68), [IMS](https://web.archive.org/topics.asp?node_id=1003) (679), [IMS Control Layer](https://web.archive.org/topics.asp?node_id=1544) (16), [IMS Service Layer](https://web.archive.org/topics.asp?node_id=1545) (17), [IP equipment](https://web.archive.org/topics.asp?node_id=1028) (669), [IP software](https://web.archive.org/topics.asp?node_id=1035) (228), [IP technologies](https://web.archive.org/topics.asp?node_id=1036) (1083), [IPv6](https://web.archive.org/topics.asp?node_id=1249) (40), [Layer 3 VPNs](https://web.archive.org/topics.asp?node_id=1251) (90), [MPLS](https://web.archive.org/topics.asp?node_id=1039) (637), [MPLS](https://web.archive.org/topics.asp?node_id=1038) (1460), [Multicast](https://web.archive.org/topics.asp?node_id=1259) (20), [P2P](https://web.archive.org/topics.asp?node_id=1243) (74), [Pseudowire (Layer 2 tunnels)](https://web.archive.org/topics.asp?node_id=1250) (97), [QOS](https://web.archive.org/topics.asp?node_id=1037) (252), [SIP](https://web.archive.org/topics.asp?node_id=1247) (262), [Traffic managers](https://web.archive.org/topics.asp?node_id=1032) (542), [Wireline/Wireless](https://web.archive.org/topics.asp?node_id=1547) (29)   
-[Mobile/Wireless](https://web.archive.org/topics.asp?node_id=1525) (Sponsored by Sun Microsystems Inc.)   
-[3G Evolution](https://web.archive.org/topics.asp?node_id=1534) (38), [Broadcast (Mobile TV, etc.)](https://web.archive.org/topics.asp?node_id=1536) (109), [Carrier WiFi](https://web.archive.org/topics.asp?node_id=1535) (126), [CDMA (3G)](https://web.archive.org/topics.asp?node_id=1531) (133), [Core Network](https://web.archive.org/topics.asp?node_id=1538) (92), [EV-DO](https://web.archive.org/topics.asp?node_id=1532) (73), [Fixed Wireless (Microwave, etc.)](https://web.archive.org/topics.asp?node_id=1537) (48), [GSM/EDGE](https://web.archive.org/topics.asp?node_id=1528) (196), [HSDPA/HSUPA](https://web.archive.org/topics.asp?node_id=1530) (168), [IMS Core](https://web.archive.org/topics.asp?node_id=1541) (23), [Mobile/Wireless](https://web.archive.org/topics.asp?node_id=1526) (3209), [Packet Core](https://web.archive.org/topics.asp?node_id=1540) (19), [Radio Access Network](https://web.archive.org/topics.asp?node_id=1527) (94), [TD-SCDMA (Chinese 3G)](https://web.archive.org/topics.asp?node_id=1533) (22), [Transmission](https://web.archive.org/topics.asp?node_id=1542) (22), [UMTS(3G)](https://web.archive.org/topics.asp?node_id=1529) (158), [Voice Core](https://web.archive.org/topics.asp?node_id=1539) (12), [WiMax](https://web.archive.org/topics.asp?node_id=1127) (467), [Wireless Chips](https://web.archive.org/topics.asp?node_id=1543) (106), [Wireless LAN](https://web.archive.org/topics.asp?node_id=1126) (251)   
-[Optical Networking](https://web.archive.org/topics.asp?node_id=1343) (Sponsored by Cisco)   
-[40-Gbit/s transmission](https://web.archive.org/topics.asp?node_id=1089) (300), [Core optical switches](https://web.archive.org/topics.asp?node_id=1063) (723), [CWDM](https://web.archive.org/topics.asp?node_id=1067) (220), [DWDM](https://web.archive.org/topics.asp?node_id=1066) (1451), [Long-haul WDM equipment](https://web.archive.org/topics.asp?node_id=1061) (365), [Metro optical switches, ROADMs](https://web.archive.org/topics.asp?node_id=1062) (913), [Metro WDM equipment](https://web.archive.org/topics.asp?node_id=1060) (496), [Multiservice provisioning platforms & add/drop muxes](https://web.archive.org/topics.asp?node_id=1091) (358), [Optical equipment](https://web.archive.org/topics.asp?node_id=1059) (775), [Optical switches & crossconnects](https://web.archive.org/topics.asp?node_id=1090) (382), [Optical technologies](https://web.archive.org/topics.asp?node_id=1065) (159), [Sonet/SDH](https://web.archive.org/topics.asp?node_id=1088) (876), [Sonet/SDH chips ](https://web.archive.org/topics.asp?node_id=1012) (267), [Wavelength services](https://web.archive.org/topics.asp?node_id=1124) (187)   
-[Security](https://web.archive.org/topics.asp?node_id=1226)  
-[Anti-virus](https://web.archive.org/topics.asp?node_id=1244) (21), [Denial-of-service attacks](https://web.archive.org/topics.asp?node_id=1248) (28), [Encryption](https://web.archive.org/topics.asp?node_id=1084) (31), [Endpoint security](https://web.archive.org/topics.asp?node_id=1087) (14), [Firewalls](https://web.archive.org/topics.asp?node_id=1081) (49), [Intrusion detection & prevention](https://web.archive.org/topics.asp?node_id=1085) (29), [IPSec VPN](https://web.archive.org/topics.asp?node_id=1082) (789), [Security](https://web.archive.org/topics.asp?node_id=1080) (1467), [SSL VPN](https://web.archive.org/topics.asp?node_id=1083) (845), [URL filtering](https://web.archive.org/topics.asp?node_id=1086) (9), [User authentication](https://web.archive.org/topics.asp?node_id=1252) (16)   
-[Services Software](https://web.archive.org/topics.asp?node_id=1227)  
-[Activation](https://web.archive.org/topics.asp?node_id=1078) (355), [Billing systems](https://web.archive.org/topics.asp?node_id=1069) (454), [Content/software downloads](https://web.archive.org/topics.asp?node_id=1550) (119), [Customer relationship management](https://web.archive.org/topics.asp?node_id=1072) (62), [Element management systems](https://web.archive.org/topics.asp?node_id=1073) (25), [Fault management](https://web.archive.org/topics.asp?node_id=1074) (36), [Inventory management](https://web.archive.org/topics.asp?node_id=1242) (88), [Mediation systems](https://web.archive.org/topics.asp?node_id=1071) (167), [Messaging](https://web.archive.org/topics.asp?node_id=1548) (100), [Mobile location](https://web.archive.org/topics.asp?node_id=1549) (17), [OSS](https://web.archive.org/topics.asp?node_id=1068) (1413), [Performance monitoring](https://web.archive.org/topics.asp?node_id=1075) (173), [Policy control](https://web.archive.org/topics.asp?node_id=1262) (53), [Provisioning ](https://web.archive.org/topics.asp?node_id=1079) (403), [Revenue assurance & fraud management](https://web.archive.org/topics.asp?node_id=1070) (249), [Service delivery platforms (SDPs)](https://web.archive.org/topics.asp?node_id=1264) (175), [Service management](https://web.archive.org/topics.asp?node_id=1076) (77), [Service-oriented architectures](https://web.archive.org/topics.asp?node_id=1241) (148), [Services](https://web.archive.org/topics.asp?node_id=1325) (1359), [Web gateways](https://web.archive.org/topics.asp?node_id=1551) (8), [Web services](https://web.archive.org/topics.asp?node_id=1261) (47), [XML](https://web.archive.org/topics.asp?node_id=1260) (39)   
-[Test & Measurement](https://web.archive.org/topics.asp?node_id=1225)  
-[ OSS Test & measurement](https://web.archive.org/topics.asp?node_id=1077) (974), [ Test & measurement](https://web.archive.org/topics.asp?node_id=1093) (916), [ VOIP equipment Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1111) (121), [ Optical equipment Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1064) (766), [ Sonet/SDH Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1092) (1573), [ Ethernet equipment Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1019) (82), [ IP equipment Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1034) (51), [ Access equipment Test & measurement equipment](https://web.archive.org/topics.asp?node_id=995) (81), [ Comm chips Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1016) (26), [ Optical components Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1058) (59), [ MPLS Test & measurement equipment](https://web.archive.org/topics.asp?node_id=1041) (8)   
-[Video](https://web.archive.org/topics.asp?node_id=1211)  
-[Broadcast video equipment (including encoding)](https://web.archive.org/topics.asp?node_id=1097) (325), [Content delivery network (CDN)](https://web.archive.org/topics.asp?node_id=1997) (18), [Content protection](https://web.archive.org/topics.asp?node_id=1098) (126), [IPTV](https://web.archive.org/topics.asp?node_id=1257) (1367), [Middleware & business support systems](https://web.archive.org/topics.asp?node_id=1104) (237), [Set-top boxes](https://web.archive.org/topics.asp?node_id=1095) (419), [Stored video servers](https://web.archive.org/topics.asp?node_id=1096) (135), [TV](https://web.archive.org/topics.asp?node_id=1100) (730), [Video equipment](https://web.archive.org/topics.asp?node_id=1094) (999), [Video services](https://web.archive.org/topics.asp?node_id=1099) (1353), [Video software](https://web.archive.org/topics.asp?node_id=1103) (302), [Videophone](https://web.archive.org/topics.asp?node_id=1102) (105), [VOD](https://web.archive.org/topics.asp?node_id=1101) (985)   
-[VOIP](https://web.archive.org/topics.asp?node_id=1212)  
-[Application servers](https://web.archive.org/topics.asp?node_id=1109) (112), [Centrex](https://web.archive.org/topics.asp?node_id=1122) (144), [Conferencing](https://web.archive.org/topics.asp?node_id=1120) (48), [Contact centers ](https://web.archive.org/topics.asp?node_id=1123) (29), [Enhanced voice ](https://web.archive.org/topics.asp?node_id=1117) (26), [Enterprise](https://web.archive.org/topics.asp?node_id=1114) (349), [Media gateways](https://web.archive.org/topics.asp?node_id=1107) (189), [Messaging ](https://web.archive.org/topics.asp?node_id=1118) (50), [Presence management](https://web.archive.org/topics.asp?node_id=1119) (31), [Residential](https://web.archive.org/topics.asp?node_id=1113) (413), [Session border controllers](https://web.archive.org/topics.asp?node_id=1108) (227), [Signaling gateways](https://web.archive.org/topics.asp?node_id=1110) (54), [Softswitches](https://web.archive.org/topics.asp?node_id=1106) (859), [VOIP chips](https://web.archive.org/topics.asp?node_id=1011) (98), [VOIP equipment](https://web.archive.org/topics.asp?node_id=1105) (2619), [VOIP services](https://web.archive.org/topics.asp?node_id=1112) (2401), [VOIP software](https://web.archive.org/topics.asp?node_id=1116) (406), [VOIP VPNs](https://web.archive.org/topics.asp?node_id=1121) (19), [Wholesale](https://web.archive.org/topics.asp?node_id=1115) (153)   
-|  |  |  | 
+United Business Media LLC, 600 Community Drive, Manhasset NY, 11030.
