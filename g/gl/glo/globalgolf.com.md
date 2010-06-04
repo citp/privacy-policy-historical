@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219130341id_/http%3A//www.globalgolf.com/aboutus/privacy/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgolf.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604215608id_/http%3A//www.globalgolf.com/aboutus/privacy) for the most accurate reproduction.*
 
 # GlobalGolf.com Privacy Policy
 
@@ -79,13 +79,23 @@ To contact us with questions about this policy or other inquiries send us an ema
 
 Still Need Help? You may contact us at any of the following:
 
+**Mailing Address**  
 GlobalGolf.com  
 PO Box 90083   
 Raleigh, NC 27675  
 USA
 
-Customer Service: 1-866-843-0262  
-International: 001-919-719-7940  
-Fax:1-919-719-7958
+**Customer Service Center Hours**  
+Monday - Friday: 9AM - 9PM EST  
+Saturday 10AM - 6PM EST
 
-By E-Mail: [questions@GlobalGolf.com](mailto:questions@GlobalGolf.com "Click to send mail to questions@GlobalGolf.com")
+**Telephone**  
+866-843-0262 / U.S.  
+001-919-719-7950 / International
+
+**Fax**  
+919-719-7958 / U.S.  
+001-919-719-7958 / International
+
+**Email**  
+[questions@globalgolf.com](mailto:questions@globalgolf.com)
