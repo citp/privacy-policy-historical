@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourbonusgifts.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229132535id_/http%3A//getyourbonusgifts.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourbonusgifts.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604025627id_/http%3A//getyourbonusgifts.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Get Your Bonus Gifts
 
