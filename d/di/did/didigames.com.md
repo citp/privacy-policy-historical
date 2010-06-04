@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211205230id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the didigames.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604191912id_/http%3A//www.didigames.com/privacypolicy.php) for the most accurate reproduction.*
 
 # 
 
@@ -11,7 +11,7 @@
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc).
 
 **Third Party Advertising**  
-We use third-party advertising companies to serve ads when you visit didigames.com. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
+We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 **Third Party Cookies**  
 In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser.
@@ -22,13 +22,9 @@ It is didigames.com's policy to respond quickly to claims of intellectual proper
 **External Links**  
 didigames.com site contains links to other sites. didigames.com is not responsible for the privacy practices or the content of such Web sites.
 
-  
-
-
 * * *
 
-###   
-Terms of Use
+###  Terms of Use
 
 When visiting didigames.com website and/or using its any software, game, you fully agree with it on its “Privacy Policy” and “Terms of Use” conditions. If you do not agree on any of these conditions, you are not allowed to use the website and or its services. didigames.com has the right to update and modify the policies any time. The visitors always should check the related pages to see updates.
 
