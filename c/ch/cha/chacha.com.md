@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207032920id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chacha.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604220110id_/http%3A//answers.chacha.com/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | ChaCha
-
-## Privacy
 
 **Privacy Policy**
 
@@ -13,6 +11,8 @@ This Privacy Policy summarizes ChaCha’s privacy practices and the uses of the 
 **The Information ChaCha Collects and Uses**
 
 In connection with your access to or use of the Site or the Services, ChaCha may request and/or collect from you personal information that may include: first and last name, address, phone number, email address, or other information (”Personal Information”). By accessing or using the Site or the Services you are accepting the terms of ChaCha’s Privacy Policy.
+
+Some of the Personal Information (for example your name and username) is listed publicly on chachee.heroku.com, me.chacha.com and ChaCha.me (collectively, the "ChaCha.me Service"), including on your profile page and in search results. The ChaCha.me Service is designed to help you receive answers and comments. Because most of the information you provide to the ChaCha.me Service is information you want made public, your questions and comments may be broadly and instantly disseminated. You should be careful about all information that may be made public by the ChaCha.me Service. When you submit information, you are transferring such information into the World Wide Web and you hereby consent to such transfer. Likewise, your replies to questions submitted via the ChaCha.me Service may be published to other websites. You are responsible for what gets published. Whatever you enter into the ChaCha.me Service text boxes may be published and could be publicly viewable immediately upon your clicking the submit button.
 
 IF YOU DO NOT AGREE TO THE PRIVACY PRACTICES DESCRIBED IN THIS PRIVACY POLICY, PLEASE DO NOT USE THE CHACHA SITE OR SERVICES.
 
@@ -57,7 +57,7 @@ A Guide may assist users of the Site and the Services. In ChaCha’s recruitment
 
 When you use the Site, a cookie may be sent to your browser. A cookie is a small text file sent by a website’s computer system that is stored on your computer’s hard drive. Cookies are a commonly used technology on the Web, and they are used in ChaCha’s search functionality. You are always free to set your browser to decline cookies, and you can delete cookies from your computer. However, disabling cookies may adversely affect your ability to use the Site or the Services. See your browser’s “Help” file for more details on cookies.
 
-ChaCha uses outside advertising agencies to display advertisements on the Site. Such advertisements may also contain cookies. Cookies may be used to recognize you, as well as to track site usage. These cookies are stored on your computer’s hard drive, and help to establish usage trends and to tailor website content and develop further enhancements. Advertisers and other third parties and/or affiliates’ use of cookies are subject to their own privacy policies. We encourage you to read those privacy policies.
+ChaCha uses third party advertisers who serve ads and collect information on the Site. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements on the Site, other websites and other forms of media about goods and services of interest to you. These third party advertisers may also use cookies on this Site. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit <http://www.networkadvertising.org/managing/opt_out.asp>.
 
 The Site and the Services may contain windows or hyperlinks which provide access to other websites not affiliated with ChaCha. Your use of an external website or any informational content found on an external website is subject to and governed by the terms and guidelines of said external website. ChaCha does not make any representations or warranties concerning, and will not in any way liable for, any informational content, products, services, software, or other materials available on an external website, even if one or more pages of the external website are framed within a page of the Site. ChaCha is not responsible for the privacy practices of any external website. For your protection, please refer to the privacy policies of the respective external websites.
 
@@ -68,6 +68,12 @@ ChaCha stores and processes information in the United States of America. The dat
 **ChaCha’s Commitment to Data Security**
 
 To improve data security and restrict access to your personal and business information, ChaCha has put in place certain physical, electronic, and managerial procedures to safeguard the information ChaCha collects via the Site. ChaCha does not, however, guarantee that information collected via the Site is or will be completely secure from misappropriation by hackers or from other dishonest or criminal activities, or in the event of a failure of computer hardware, software, or a telecommunications network.
+
+**Third Party Disclosures**
+
+This site uses ClickTale web analytics service. ClickTale may record mouse clicks, mouse movements, scrolling activity as well as any text you type in this website. ClickTale does not collect personally identifiable information that you do not voluntarily enter in this website. ClickTale does not track your browsing habits across web sites which do not use ClickTale services. For more information see [Privacy Policy for Information Collected by the ClickTale Web Analytics Service](http://www.clicktale.com/privacy_service.aspx). We are using the information collected by ClickTale service to optimize user experience.
+
+You can choose to disable the Service at <http://www.clicktale.net/disable.html>.
 
 **Deletion or Modification of Personal Information**
 
@@ -80,4 +86,5 @@ If you ever wish to access your Personal Information, or to have your Personal I
 > **Fax: (317) 660-6687**  
 >  **E-mail:[customer.relations@chacha.com](mailto:customer.relations@chacha.com)**
 
-Effective Date: 09 October 2009
+Effective Date: 25 March 2010  
+Last Updated: 25 May 2010
