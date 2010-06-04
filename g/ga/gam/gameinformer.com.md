@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126004054id_/http%3A//gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gameinformer.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604122934id_/http%3A//gameinformer.com/p/privacy.aspx) for the most accurate reproduction.*
 
 # GameInformer.com
 
