@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the indiemoviesonline.com privacy policy that was archived on 2009-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090810214102id_/http%3A//www.indiemoviesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indiemoviesonline.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604112337id_/http%3A//www.indiemoviesonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free Movies: Watch movies online legally
+# Privacy policy | Free Movies Online | Watch Free Films | Indie Movies Online
 
 **Privacy Policy**
 
 **1\. Introduction and General Terms**
 
-Indiemoviesonline.com, Inc. ("IMO") recognizes that its customers, visitors, Members, and others who use [www.indiemoviesonline.com](http://www.indiemoviesonline.com/ "www.indiemoviesonline.com") (the "IMO Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the IMO Site. IMO provides this Privacy Notice to help you make an informed decision about whether to use or continue using the IMO Site. This Privacy Notice is incorporated into and is subject to the IMO Terms of Use. Your use of the IMO Site and any personal information you provide on the IMO Site remains subject to the terms of this Privacy Notice and our Terms of Use.
+Indiemoviesonline.com, Inc. ("IMO") recognizes that its customers, visitors, Members, and others who use www.indiemoviesonline.com (the "IMO Site") (collectively or individually "Members") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the IMO Site. IMO provides this Privacy Notice to help you make an informed decision about whether to use or continue using the IMO Site. This Privacy Notice is incorporated into and is subject to the IMO Terms of Use. Your use of the IMO Site and any personal information you provide on the IMO Site remains subject to the terms of this Privacy Notice and our Terms of Use.
 
 By visiting the IMO Site (whether or not you are a registered member) or using any of the IMO Services on any of the Sites, you are accepting this Privacy Policy. If you do not want information about you to be used in the manner set forth in this Privacy Policy, please do not use the IMO Services.
 
@@ -114,7 +114,7 @@ To protect your privacy and security, we take reasonable steps (such as requesti
 
 If you have concerns regarding this Privacy Policy, including if you believe that IMO may have incorrect information for you or if you would like your personally identifiable information to be permanently removed from our database, you may email us at privacy@Indiemoviesonline.com.
 
-Emails sent to [privacy@Indiemoviesonline.com](mailto:privacy@Indiemoviesonline.com) for purposes other than communication about personally identifiable information may not be answered.
+Emails sent to privacy@Indiemoviesonline.com for purposes other than communication about personally identifiable information may not be answered.
 
 **5) Third-party Companies**
 
@@ -129,6 +129,8 @@ IMO carries advertisements from other companies, often with the ability to click
 Some of the advertisements that appear in connection with the IMO Services may be delivered to you by internet advertising companies (also called "ad networks" or "network advertisers"). These companies may use cookies and other technologies to deliver advertisements to you, measure their effectiveness, and personalize advertising content. IMO does not have access to or control over cookies or other technologies that they may use. The information practices of these advertising companies are governed by their own privacy policies and are not covered by this Privacy Policy.
 
 Please note that if you are accessing IMO from outside the UK and you make a comment or complaint regarding any element of advertising (see paragraph 11 for more details about this) then IMO may forward your correspondence to IMO only for the purposes of responding to you.
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>[ ](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **6) Data Security**  
 
@@ -156,7 +158,7 @@ In the event IMO goes through a business transition, such as a merger, acquisiti
 
 We will hold your personal information on our systems for as long as is necessary for the relevant service, or as long as is set out in any relevant contract you hold with IMO. 
 
-Where you contribute to [www.indiemoviesonline.com](http://www.indiemoviesonline.com/ "www.indiemoviesonline.com") IMO will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
+Where you contribute to www.indiemoviesonline.com IMO will generally only keep your content for as long as is reasonably required for the purpose(s) for which it was submitted.
 
 **10) Changes to IMO's Privacy Policy**
 
