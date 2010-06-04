@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safeauto.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228022132id_/http%3A//www.safeauto.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safeauto.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604074754id_/http%3A//www.safeauto.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # SafeAuto Insurance Company - Privacy Policy
 
-[Home](https://web.archive.org/Default.aspx "Safe Auto Insurance Company Home Page") » Privacy Policy
+[Home](https://web.archive.org/ "Safe Auto Insurance Company Home Page") » Privacy Policy
 
 We at SafeAuto Insurance Company are dedicated to protecting your privacy and earning your trust. We respect your right to keep your personal information confidential and to avoid unwanted solicitations. Our privacy policy describes the information we collect about you and how we use and protect it. 
 
