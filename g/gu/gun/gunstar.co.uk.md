@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gunstar.co.uk privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203003757id_/http%3A//www.gunstar.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gunstar.co.uk privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604061459id_/http%3A//www.gunstar.co.uk/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # GunStar | Privacy Policy
 
