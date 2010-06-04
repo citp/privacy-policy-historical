@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507131653id_/http%3A//www.cplusplus.com/member/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cplusplus.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604040915id_/http%3A//www.cplusplus.com/member/privacy.cgi) for the most accurate reproduction.*
 
 # Privacy policy
-
-  
-
 
 ### Privacy policy
 
