@@ -1,86 +1,70 @@
-> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2006-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20061226203358id_/http%3A//www.kintera.org/site/lookup.asp%3Fc%3D7dJBKPNxFqG%26b%3D303718) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kintera.org privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604175716id_/http%3A//internet.blackbaud.com/site/c.owL8JoO7KzE/b.5059223/k.9F45/Privacy_Policy/apps/s/link.asp) for the most accurate reproduction.*
 
-# Privacy Policy - Kintera.org -- The Giving Communities
+# Blackbaud Privacy Policy
 
-**Kintera Privacy Policy**
+Blackbaud Privacy Policy
 
-Effective Date:  February 24, 2005
+At Blackbaud, we are committed to protecting your privacy. You can travel through most of our site without giving us any information about yourself. But sometimes we do need information to provide services that you request, and this statement of privacy explains data collection and use in those situations. Please read this complete privacy statement. 
 
-This privacy policy (the “Policy”) describes Kintera’s privacy practices for our Web site located at www.kintera.org (our “Site”), including what types of information we gather and track, how we use the information, and with whom we share the information.
+**Collecting your Personal Information**   
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, subscribing to e-mail newsletters, completing an online survey, joining a limited-access premium site, viewing premium-level resource information, or when requesting information about or purchasing Blackbaud products and services. When you provide your personal information, a profile is created. If you ever want to review or update your profile, simply visit www.blackbaud.com and edit your personal information. We’ll ask you to disclose your User ID and Password so that only you can access your profile. The Blackbaud Web site assigns a personal identification number and sends it to your computer in the form of a small text file, called a "cookie." The use of this cookie allows you to visit other password-restricted portions of Blackbaud’s Web site — for which you have security access — without having to sign in again. 
 
-Questions regarding this Policy should be directed to [communities@kintera.com](mailto:communities@kintera.com) or to the following address:
+**Use of your Personal Information**   
+We use your personal information for four primary purposes: 
 
-Chief Marketing Officer
+  * To make the site easier for you to use by not making you enter your personal information more than once. 
+  * To help you quickly find information on Blackbaud software, services and customer support. 
+  * To help us create and deliver content most relevant to you. 
+  * To alert you to product upgrades, special offers, updated information and other new services from Blackbaud. 
 
-Kintera, Inc.
+We occasionally contract with other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose. Blackbaud will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Blackbaud; (b) protect and defend the rights or property of Blackbaud, and, (c) act in urgent circumstances to protect the personal safety of Blackbaud customers, visitors to Blackbaud’s Web site, or the public. 
 
-9605 Scranton Road  
-San Diego, CA 92121
+**Control of your Personal Information**   
+When you register, or otherwise give us personal information, Blackbaud will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above. Blackbaud may send out periodic e-mails informing you of technical service issues related to a product or service you requested. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service you have chosen. 
 
-Please note that this Policy only addresses the Site’s own privacy practices, and does not address the privacy practices of other Kintera Web sites or those of customers for which Kintera hosts Web sites.  For information about the privacy practices of a particular customer, please consult that customer’s Web site.
+**Access to your Personal Information  
+** We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time on [www.blackbaud.com](http://www.blackbaud.com/). You can: 
 
-### What information we collect, how we collect it, and how we use it
+  * View and edit personal information you have already given us 
+  * Subscribe or unsubscribe to Blackbaud email newsletters 
 
-_Personal Information_
+**Security of your Personal Information**   
+Blackbaud strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your User ID and Password, so do not share these with others. 
 
-“Personal Information” refers to information that lets us know the specifics of who you are and can be used to identify, contact or locate you.  You can visit our Site without telling us who you are and without revealing any information about yourself.  However, Personal Information is requested for accessing certain portions of our Web sites, or for accessing certain services we provide ( _e.g._ , for creating Causzines).  You may also be sending us your comments or questions by using the “Contact Us” page, or responding to an online survey.  Personal Information may include your name, mailing address, telephone number, email address and other identification and contact information.  We may also collect certain financial information, like your credit card number, to provide certain services to you.
+**Use of Cookies**   
+To ensure we are publishing content customers need and want, Blackbaud collects aggregated site-visitation statistics using cookies. When someone visits the site, a cookie is placed on the customer’s machine (if the customer accepts cookies) or is read if the customer has visited the site previously. If you choose to not have your browser accept cookies from Blackbaud’s Web site, you will need to re-enter your personal information each time that you attempt to access premium information.  
 
-In addition, when registering with Kintera for certain services, we may ask you to choose a security question to answer (such as your mother’s maiden name or your pet’s name).  This required information is necessary for a variety of tasks, such as should we need to issue a new password if you forget or lose your password or contact you should the need arise in administering your account.
+ **Blackbaud OnDemand Service  Level Agreement**   
+Download the [Blackbaud Hosting Service Level Agreement](http://www.blackbaud.com/files/resources/HostingServicesAgreement.pdf).
 
-We generally use your Personal Information for our own business or administrative purposes, such as to deliver services requested by you, to collect payments, to keep you informed of our services by sending you our newsletters, to provide customer support, to administer our Site and individual accounts, or to analyze the collected information.
+ **Acceptable Use Policy for Forums and Blogs**  
+Please remember that the open and real-time nature of these Forums makes it is impossible for us to vouch for the validity of any content posted. As such, we are not responsible for any messages posted or the consequences of following any advice offered within Forum posts. The views expressed in the posts you will find in these forums belong solely to their respective authors and do not necessarily reflect the views of Blackbaud, Inc. If you find any posts in these Forums to be offensive or objectionable, please contact us via email to the address offered as a contact for the Forums in question. If we determine that removal of a post or posts is necessary, we will make reasonable efforts to do so in a timely manner.
 
-_Internet Protocol address_
+By using these Forums, you agree to the following: 
 
-Every computer connected to the Internet has a unique number called an Internet Protocol (“IP”) address.  We do not track a specific IP address to identify an individual user.  However, we reserve the right to use and disclose such information to identify a user if we reasonably determine that it is necessary to protect our Site, hosted sites or users of these sites, or to comply with legal requirements.
+  * By posting messages, uploading files, inputting data, or engaging in any other form of communication through this service (collectively "the content"), you are granting Blackbaud, Inc., its successors and assignees, a royalty-free, perpetual, non-exclusive, unrestricted, worldwide license to use, adapt, transmit, publicly perform or display any such content on the site to which it was contributed (or successor site). In plain English, you allow us to continue to display your contributions to the site. We won't do anything else with them, however. 
+  * If you contribute any graphic images or photographs, you accept all liability for any model or property release issues that may arise from an individual or trademarked property in the content. Please do not submit any images or photographs for which you do not have a current model or property release. 
+  * You will not post any material that is knowingly false, misleading, or inaccurate. 
+  * You will not behave in an abusive and/or hateful manner, and will not harrass, threaten, nor attack anyone. 
+  * You will not use profanity in our forums, and will neither post with language or content that is obscene, sexually oriented, or sexually suggestive nor link to sites that contain such content. 
+  * You will respect other people's right to personal privacy and will not post any other person's identifying information (including their names, contact information, and any other relevant information) within the forum but your own. 
+  * You will not use these forums to violate any laws nor to discuss illegal activities. 
+  * You will not to impersonate any person or entity, forge headers or otherwise manipulate identifiers in order to disguise the origin of any posting, nor collect or store personal data about other users. 
+  * You will not post any copyrighted material, nor link to any copyrighted material (with the exception of publicly available sites and pages that the legal owners of the copyrights have created to make that material freely available to the general public), unless that copyright is owned by you or by these Forums. 
+  * You will not use these Forums for the purposes of sharing or distributing viruses, licenses, registration information, software keys, "cracks," or other information designed to do harm to or allow unlawful access to any computer hardware, software, networks, or any other systems. 
+  * You will not post advertisements, chain letters, pyramid schemes, or solicitations, all of which are inappropriate and prohibited in the Forums. You will not, furthermore, collect personal information about forum members for the purpose of sending them any such advertisements, chain letters, pyramid schemes, or solicitations through other means (email, messaging programs, etc.). 
+  * You will not post messages that are clearly outside of the stated topic of any Forums nor disrupt a forum by deliberately posting repeated irrelevant messages or copies of identical messages (also known as "flooding"). 
+  * You will not attempt to access any protected sections of the sites or Forums, nor make use of any hacks, cracks, bug exploits, etc. to bypass or modify the features of the forum software at any Blackbaud, Inc. site. 
+  * You will, if asked by a representative of the Forums, cease posting any content, and/or links to content, deemed offensive, objectionable, or in poor taste by the staff of the Forums. 
 
-_Non-Personal Information_
+At all times, you remain solely responsible for anything found within your posts and agree to indemnify and hold Blackbaud, Inc. and its subsidiaries, affiliates, officers, agents, co-branders or other partners, and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third party due to or arising out of any material you submit, post to or transmit through the Forums, your use of the Forums, your connection to the Forums, your violation of the AUP, legal notice, or privacy policy, or your violation of the rights of another.These Forums do not and cannot review all of the content of every message posted and do not accept responsibility for the contents of any messages. We reserve the right to delete any message and/or restrict posting rights in our Forums for any reason whatsoever. Should you continue to post messages that violate the rules of the Forums, your account may be terminated, your access to the Forums may be banned, and your service provider(s) may be contacted about your behavior. Furthermore, we expressly reserve our rights under the law to take any other actions we deem necessary.
 
-“Non-Personal Information” refers to information that does not identify a specific individual by itself or in combination with other information.  We gather certain information about you based on your activities by use of cookies (explained below), clear GIFs (explained below) or other means.  This information is compiled and analyzed on both a personal and an aggregate basis.  Non-Personal Information may include your Web site traffic information.  When you arrive at or leave our Site, we automatically receive the Web address of the site that you came from or are going to.  We also collect information on which pages of our Site you visit while you are on our hosted site, the type of browser you use, your IP address, the times you access our hosted sites, and the time required to download the information you request.  We use this information to try to better understand visitor preferences and to manage the load on our servers.  We may sell or otherwise share aggregated statistical data and other Non-Personal Information with business partners and other non-affiliate third parties, but this shared information will not include Personal Information ( _i.e._ , will not identify you personally).
+We at these Forums also reserve the right to disclose personal information when required by law or in the good-faith belief that such action is necessary to conform to the edicts of the law or comply with a legal process served on Blackbaud, Inc., protect and defend the rights or property of Blackbaud, Inc.'s network of sites, or visitors to Blackbaud, Inc., identify persons who may be violating the law, the legal notice, or the rights of third parties, and cooperate with the investigations of purported unlawful activities. 
 
-_Cookies_
+**Changes to this Statement**   
+Blackbaud will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the bottom of the privacy statement. 
 
-A cookie is an element of data that a Web site can send to your browser, which may then be stored on your system.  We sometimes use cookies to collect information from visits to our Site to help us provide better service.  You can set your browser to notify you before you receive a cookie, giving you the chance to decide whether to accept it.  You can also set your browser to turn off all cookies.  If you do so, however, some areas of some sites may not function properly.
+**Last updated February 26, 2008**
 
-_Clear GIFs_
-
-Clear GIFs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of our users.  The main difference between the two is that clear GIFs are invisible on the page and are much smaller, about the size of the period at the end of this sentence.  Clear GIFs are not tied to your Personal Information.
-
-### Disclosure to non-affiliate third parties
-
-Kintera works with third parties who provide administrative support to us, such as credit card clearance and other services of an administrative nature.  Personal Information, including financial information, may be shared with such third parties in order for them to provide these services to us.  We may also disclose Personal Information in response to legal process, such as a court order or subpoena, or to protect our Site, hosted sites or users of these sites.  In the event of a merger, consolidation, or sale or transfer of all or substantially all of our assets or business, one of the assets transferred may include the information we collect about our users.
-
-In addition, we may use a third-party service partner to track the Web traffic on our Site.  The only information gathered by a third-party service partner will be Non-Personal Information.
-
-We do not share Personal Information submitted to our Site with non-affiliate third parties for their direct marketing purposes, unless the individual submitting this information has permitted us to do so.
-
-### Information security and quality
-
-We use reasonable security procedures and practice to protect the quality and integrity of your Personal Information.  We have implemented physical, technical and organizational measures, such as using encryption for transmission of potentially sensitive information, to help keep your information secure.
-
-### Email tools
-
-Kintera is committed to complying with the CAN-SPAM Act.  Kintera provides email-marketing tools to Web site visitors who have created personal Web pages with Kintera.  These tools provide convenient ways to communicate with friends and family on a personal level; they are not designed for sending out bulk or commercial emails.
-
-### Links to other Web sites
-
-Our Site may contain links to other Web sites.  Kintera is not responsible for the privacy practices or the content of such other Web sites.
-
-### Offline v. Online practices
-
-This Policy applies solely to Kintera’s online information-gathering and dissemination practices, and does not apply to any of our practices conducted offline.
-
-### Privacy of children
-
-Our Site is directed toward general audience, and we do not knowingly collect Personal Information about children under the age of 13.  We request that any child under the age of 13 not submit any Personal Information without prior consent of that child’s parent or guardian.
-
-### Changes to the Policy
-
-Kintera periodically reviews and updates this Policy.  Any changes to the Policy will be effective immediately upon posting of the updated Policy on our Site.  Please visit this page from time to time and check for any updates.
-
-### Access and Modification
-
-If you wish to access or modify your Personal Information collected at the Site, or wish to discontinue receiving our newsletters or other email communications, please contact us.
-
-### Kintera Terms of Service
-
-This Policy supplements our Terms of Service pursuant to Section 4 thereof.  All of the provisions of the Terms of Service remain applicable.
+|   
+---|---
