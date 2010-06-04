@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227080126id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onthesnow.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604020453id_/http%3A//www.onthesnow.com/privacy) for the most accurate reproduction.*
 
 # 
 
