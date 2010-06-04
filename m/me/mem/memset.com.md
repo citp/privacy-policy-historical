@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2009-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the memset.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604052058id_/http%3A//www.memset.com/about-us/privacy-policy.php) for the most accurate reproduction.*
 
-# MEMSET Hosting : Privacy Policy
+# MEMSET :: Dedicated Hosting - Managed Servers - IT Hosting - Clusters
 
-#####  Memset have proved to be reliable and professional, with exceptional quality and speed of service and support.  
-Geoff Elwell, [Private Eye](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/casestudies.php?study=privateeye)
+## About us
 
-  
-
-
-## About Us
-
-### |Privacy Policy|
+### [Privacy Policy]
 
 We (Memset Ltd.) are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
 
@@ -42,4 +36,4 @@ We use technology to track the patterns of behaviour of visitors to our site, an
 
 We reserve the right to pass on your personal information to any law enforcement agencies properly requesting it in connection with the commission of any offence once we are reasonable satisfied as to the circumstances surrounding the request.
 
-If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/web/20090601172528id_/http%3A//www.memset.com/contact.php).
+If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/contact/index.php).
