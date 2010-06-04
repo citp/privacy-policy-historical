@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222220819id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nbr.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604225321id_/http%3A//www.nbr.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | National Business Review (NBR) New Zealand - Business, News, Arts, Media, Share Market and More
+# Privacy Policy | The National Business Review - New Zealand - business, markets, finance, politics, property, technology and more
 
 By using this site, you agree to the Privacy Policy of National Business Review. If you do not agree to the Policy, please do not use this site. National Business Review examines its privacy policy periodically and reserves the right, at its discretion, to modify or remove portions of this policy at any time. This page should be reviewed periodically so that you are updated on any changes. If you want to communicate with us about our policy, please write to us at:   
-News Liberty Press Group.   
-Level 26 BNZ Tower,   
-125 Queen St,   
+Liberty Press Group.   
+Level 14, Citi Building  
+123 Customs St east,   
 Auckland NZ,   
-PO Box 1881,   
+PO Box 1734,   
 Auckland 1015,   
 or email us at [privacy@nbr.co.nz](mailto:privacy@nbr.co.nz).
 
@@ -48,3 +48,5 @@ National Business Review has established relationships with reputable business p
 National Business Review chooses its advertisers and business partners carefully. However, National Business Review is not responsible for the content or practices of Web sites operated by third parties that are linked to our sites. These links are meant for the user's convenience only. Links to third party sites do not constitute sponsorship, endorsement or approval by National Business Review of the content, policies or practices of such third party sites. Once you have left a National Business Review site via such a link, you should check the applicable privacy policy of the third party site.
 
 National Business Review sites may also be linked to Web sites operated by companies affiliated with NBR. Visitors to those sites should refer to their separate privacy policies and practices.
+
+NBR may use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies,[ click here.](http://www.networkadvertising.org/)
