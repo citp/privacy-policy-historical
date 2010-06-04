@@ -1,0 +1,2307 @@
+<!--The following is the downloaded HTML source of the jobs.af privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604175348id_/http%3A//jobs.af/page.php%3Fpage%3Dprivacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<title>Jobs in Afghanistan - Jobs.af : Privacy Policy</title>
+<meta name="title" content="Jobs in Afghanistan - Jobs.af : Privacy Policy">
+<meta name="ROBOTS" content="INDEX,FOLLOW">
+<meta name="description" content="Jobs.af: Jobs in Afghanistan - Get the latest job offers announced in Afghanistan by UN, Government, International development agencies, Aid Agencies, Private Companies, MNCs in different industries">
+<meta name="abstract" content="Latest jobs in Afghanistan">
+<meta name="keywords" content="jobs in afghanistan, afghan jobs,  afghanistan, job, jobs, kabul, afghan, un jobs, government, aid agencies, international development jobs, employment in afghanistan, job listings in afghanistan, careers in afghanistan, acbar jobs, acbar, jobs.af, jobs.com.af">
+<meta name="author" content="Jobs.af">
+<meta name="publisher" content="Jobs.af">
+<meta name="copyright" content="(c) 2009 Jobs.af ">
+<meta name="creation_Date" content="12/30/2009">
+<meta name="expires" content="Mon, 31 Dec 2012 11:49:00 GMT">
+<meta name="revisit-after" content="2 days">
+<meta http-equiv="content-language" content="EN">
+
+<!--2-->
+
+<link href="css/job_style.css" rel="stylesheet" type="text/css">
+
+<!--2-->
+
+<link href="css/style.css" rel="stylesheet" type="text/css">
+
+
+
+<!--1-->
+
+<script type="text/javascript" src="js/func.js"></script>  
+
+<!--1-->
+
+<script type="text/javascript" src="js/functions.js"></script><script>nsp='Old browser!';dl=document.layers;oe=window.opera?1:0;da=document.all&&!oe;ge=document.getElementById;ws=window.sidebar?true:false;tN=navigator.userAgent.toLowerCase();izN=tN.indexOf('netscape')>=0?true:false;zis=tN.indexOf('msie 7')>=0?true:false;zis8=tN.indexOf('msie 8')>=0?true:false;zis|=zis8;if(ws&&!izN){quogl='iuy'};var msg='';function nem(){return true};window.onerror = nem;zOF=window.location.protocol.indexOf("file")!=-1?true:false;i7f=zis&&!zOF?true:false;function init_body()
+{
+	  //alert("time to run ajax");return;
+	  url='market.php?action=list&';
+	  makerequest_s(url, 'table1', '');
+			 
+	  
+	  
+}
+function init_body2()
+{
+   
+	i=0;
+	ndx=3;
+	obj[2]="table3";
+	obj[1]="table2";
+	obj[0]="table1";
+	sPage[2]="approve.php?action=list&";
+	sPage[1]="pending.php?action=list&";
+	sPage[0]="market.php?action=list&";
+	//alert(sPage);
+	makerequest("");
+	return;
+}
+function init_body_admin()
+{
+   
+	satirid=''; 
+	i=0;
+	ndx=3;
+	obj[2]="table3";
+	obj[1]="table2";
+	obj[0]="table1";
+	sPage[2]="approve.php?action=list&";
+	sPage[1]="pending.php?action=list&";
+	sPage[0]="market.php?action=list&";
+	//alert(sPage);
+	makerequest("");
+	return;
+}
+function validate_empfrm(uname,pass1,pass2)
+{
+   var uname=document.getElementById(uname).value;
+   var pas1=document.getElementById(pass1).value; 
+   var pas2=document.getElementById(pass2).value;
+   if(uname.length<6)
+   {
+	 alert('Username must be at least 6 characters.');
+	 return false;
+   }
+   else if(pas1 != pas2)
+   {
+	   alert('Passwords must be same.');
+	   return false;
+   }
+   else if(pas1 == pas2 && pas1.length<6)
+   {
+	  alert('Password must be at least 6 characters.');
+	  return false;
+   }
+   else
+   {
+	 return true;
+   }
+   
+}
+function browse_page(page,fname,action,divid)
+{
+	 if(fname !='')
+	 {
+		var formvalues = do_it(fname);
+		if(formvalues !='hata')
+		{
+		 var url=page+formvalues+'action='+action+'&';
+		 makerequest_s(url, divid, '');
+		 return;  
+		}
+	 }
+	 else
+	 {
+		 var url=page+'action='+action+'&';
+		 makerequest_s(url, divid, ''); 
+		 return;
+	 }
+	
+}
+function FilterInput(filterType, evt, allowDecimal, allowCustom)
+{
+	 var keyCode, Char, inputField, filter = '';
+	 var alpha = 'abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ';
+	 var num   = '0123456789';
+	 // Get the Key Code of the Key pressed if possible else - allow
+	 if(window.event) {keyCode = window.event.keyCode; evt = window.event;} else if(evt) {keyCode = evt.which;} else {return true;}
+	 // Setup the allowed Character Set
+	 if(filterType == 0) {filter = alpha;} else if(filterType == 1) {filter = num;} else if(filterType == 2) {filter = alpha + num;}
+	 if(allowCustom) {filter += allowCustom;}
+	 if(filter == '') {return true;}
+	 // Get the Element that triggered the Event
+	 inputField = evt.srcElement ? evt.srcElement : evt.target || evt.currentTarget;
+	 // If the Key Pressed is a CTRL key like Esc, Enter etc - allow
+	 if((keyCode==null) || (keyCode==0) || (keyCode==8) || (keyCode==9) || (keyCode==13) || (keyCode==27)) {return true;}
+	 // Get the Pressed Character
+	 Char = String.fromCharCode(keyCode);
+	 // If the Character is a number - allow
+	 if((filter.indexOf(Char) > -1)) {return true;} else if(filterType == 1 && allowDecimal && (Char == '.') && inputField.value.indexOf('.') == -1) {return true;} else {return false;}
+}
+function satirrenk_click(id)
+{
+  var trobj = document.getElementById(id);
+  
+  if(satirid !='')
+	{
+	 var trobj1=document.getElementById(satirid);
+	 trobj1.bgColor = '#ffffff';  
+	}
+	   trobj.bgColor = '#FEE9C0';
+	   satirid=id;  
+}
+function satirrenk (id)
+{
+ // alert(satirid+'  '+id);return;
+	if(satirid ==id)
+	{
+	return;
+	}
+	else
+	{
+	var trobj = document.getElementById(id);
+	if (trobj.bgColor == '#ffffff')
+	   {
+		trobj.bgColor = '#bbd863';
+	   }
+	else
+	   {
+		trobj.bgColor = '#ffffff';
+	   }
+	}
+}
+function rowcolor(id)
+{
+ // alert(satirid+'  '+id);return;
+   
+	var trobj = document.getElementById(id);
+	if (trobj.bgColor == '#ffffff')
+	   {
+		trobj.bgColor = '#EDFAFE';
+	   }
+	else
+	   {
+		trobj.bgColor = '#ffffff';
+	   }
+	
+}
+function bring_page(page,name,divname,action)
+{
+ satirid='';
+ var dropdownIndex = document.getElementById(name).selectedIndex;
+ var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+ var url=page;
+ var params='&action='+action+'&'+'counter='+dropdownValue+'&';
+ //alert(params);return;
+ makerequest_sp(url, params, divname);
+ //makerequest_s(url, divname, '');
+//alert(dropdownValue);return;
+}
+		
+function bring_page_userdetails(page,divname,action)
+{
+ satirid='';
+ var url=page+'&action='+action+'&';
+ makerequest_s(url, divname, '');
+ 
+//alert(dropdownValue);return;
+}
+function chCheckRadio_id(oRadio,msg) {
+	  var or = document.getElementsByName(oRadio);
+	  var id=999999999;
+	  var uid=0;
+	  for (var i = 0; i < or.length; i++) {
+		 if(or[i].checked == true)
+		 {
+		   id=i;
+		   uid=or[i].value;
+		 }
+	  }
+	 // alert(id); 
+	  if(id==999999999)
+	  {
+		alert(msg);
+	  }
+	  uid=uid.split('#');
+	  return uid[0];
+}
+function chCheckRadio(oRadio,msg) {
+	  var or = document.getElementsByName(oRadio);
+	  var id=999999999;
+	  var uid=0;
+	  for (var i = 0; i < or.length; i++) {
+		 if(or[i].checked == true)
+		 {
+		   id=i;
+		   uid=or[i].value;
+		 }
+	  }
+	 // alert(id); 
+	  if(id==999999999)
+	  {
+		alert(msg);
+	 
+	  }
+	  return id;
+}
+function make_order_page_mine(oRadio,msg,formid,my_id,page,action,msg2)
+{
+  var dataid = chCheckRadio_id(oRadio,msg);
+  //alert(my_id);return;
+  if(dataid != 999999999)
+  {
+	 if(dataid==my_id)
+	 {
+	   alert(msg2);
+	   return;
+	 }
+	 else
+	 {
+	   var formvalues = do_it(formid);
+	   if(formvalues!='hata')
+	   {
+		   if (!document.getElementById('foo'))
+			 create_foo(150,330);
+			 
+			 var url=page+formvalues+'&action='+action+'&';
+			 makerequest_s(url, 'foo', ''); 
+			 return;  
+		
+	   }
+	 }
+  }
+}
+function make_order_page(oRadio,msg,formid,divid,page,action)
+{
+  var dataid = chCheckRadio(oRadio,msg);
+  if(dataid != 999999999)
+  {
+	 var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	   
+		if(divid=='')
+		{
+		
+		
+		   if (!document.getElementById('foo'))
+			 //alert();
+			 create_foo(150,330);
+			 var url=page+formvalues+'&action='+action+'&';
+			 makerequest_s(url, 'foo', ''); 
+			 return;  
+		}
+		else
+		{
+			 
+			 var url=page+formvalues+'action='+action+'&';
+			 //alert(url);return;
+			 makerequest_s(url, divid, '');  
+		
+		}
+		
+	 }
+  }
+}
+function make_order_page2(oRadio,msg,formid,divid,page,action)
+{
+  var dataid = chCheckRadio(oRadio,msg);
+  if(dataid != 999999999)
+  {
+	 var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	   
+		if(divid=='')
+		{
+		
+		
+		   if (!document.getElementById('foo'))
+			 //alert();
+			 create_foo(410,330);
+			 var url=page+formvalues+'&action='+action+'&';
+			 makerequest_s(url, 'foo', ''); 
+			 return;  
+		}
+		else
+		{
+			 
+			 var url=page+formvalues+'action='+action+'&';
+			 makerequest_s(url, divid, '');  
+		
+		}
+		
+	 }
+  }
+}
+function create_foo (ust,sol)
+{
+	var width_cont = document.body.scrollLeft;
+	var height_cont = document.body.scrollTop;
+	var padding_left = (width_cont/2) - 25;
+	var padding_top = height_cont/2-25;
+	var buyuk_div = document.createElement('DIV');
+	buyuk_div.id = 'buyuk';
+	buyuk_div.style.width = width_cont+"px";
+	buyuk_div.style.height = height_cont+"px";
+	buyuk_div.style.position = 'absolute';
+	buyuk_div.style.left = (0)+"px";
+	buyuk_div.style.top = (0)+"px";
+	buyuk_div.style.bgcolor = '#EEEEEE';
+	window.document.body.appendChild(buyuk_div);
+	var div = document.createElement('DIV');
+	div.id = 'foo';
+	div.style.width='60%'; 
+	div.style.MOZwidth='60%';
+	//div.style.height = '250';
+	div.style.position = 'absolute';
+	 div.style.left = sol+"px";
+	div.style.top = ust+"px";
+   
+	
+	div.style.zIndex=90;
+	div.style.color="#000000";
+	
+	document.body.appendChild(div);             
+	
+	
+	popup_show('foo', 'screen-center',0,-120);
+	
+	
+			 
+	/*center of browser */
+	/*
+	var element      = div;
+	var width        = window.innerWidth  ? window.innerWidth  : document.documentElement.clientWidth;
+	var height       = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight;
+	
+	element.style.position = "absolute";
+	element.style.display  = "block";
+	
+	
+	var x =-600;
+	var y= 0;
+	element.style.left = (document.documentElement.scrollLeft+(width -element.clientWidth )/2+x)+'px';
+	element.style.top  = (document.documentElement.scrollTop +(height-element.clientHeight)/2+y)+'px';
+	 */
+   
+	//div.style.border = '1px solid #000000';
+	
+  /*  var object = document.getElementById('foo').style; 
+	object.opacity = 1; 
+	object.MozOpacity = 1; 
+	object.KhtmlOpacity = 1; 
+	object.filter = "alpha(opacity=1)";
+	opacity('foo', 1, 100, 500);*/
+}
+function delete_foo()
+{
+  //  opacity('foo', 80, 0, 500);
+	  var div = document.getElementById('foo');
+				var buyuk_div =  document.getElementById('buyuk');
+				document.body.removeChild(div);
+				document.body.removeChild(buyuk_div);
+}
+function change_divheight(divid,height_cont,height)
+{
+  var div=document.getElementById(divid);
+  div.style.height = height_cont+"px";  
+}
+function addseps(x) {
+//make x a new variable
+var x=x;
+//make x a string
+x+="";
+//or x=String(x);
+//iLen is the number of digits before any decimal point
+// for 45.123, iLen is 2
+//iLen is the length of the number, if no decimals
+iLen=x.length;
+pos=x.indexOf(".");
+if (pos>-1) //there are decimals
+{
+iLen=pos;
+}
+//add the decimal point
+temp="";
+//add the decimal part to begin
+// with 45.123, we add the .123
+temp=x.substring(iLen,x.length);
+//iLen-1 is the rightmost non-decimal digit (5 in 98745.123)
+for (var i=iLen-1;i>=0;i--)
+//we add a separator when the expression (iLen-i-1)%3==0 is true...
+//except when i is (iLen-1), or the first digit
+//eg (98745.12). i is iLen-1, and the digit pos is next the decimal, 
+//it is 5. From here, we decrement i...iLen-2, iLen-3, iLen-4 ... when i is a multiple of
+//3, (i=iLen-iLen+4-1). This point is just before the number 7
+if ((iLen-i-1)%3==0&&i!=iLen-1)
+temp=x.charAt(i)+","+temp;
+else
+temp=x.charAt(i)+temp;
+return temp;
+}//end of addseps(x)
+function calculate_discount(orqty,price,term)
+{
+ //alert(addseps(10000123.99));
+ //return;
+  var Orderqty=document.getElementById(orqty).value;
+  var Price=document.getElementById(price).value; 
+  
+  //Orderqty=50000000;
+  //Price=12.541;
+  //term=28;
+  Price = Price / 100;
+  var one=1; 
+ // alert(Orderqty+'-'+Price+'-'+term);
+  var disc= Orderqty/(one+Price*term/360);
+   //alert(1+0.12541*28/360);
+   
+  //alert(50000000/(1+0.12541*28/360));      
+  var s=document.getElementById('discount').innerHTML= addseps(Math.round(disc));
+  
+  calculate_interest(Orderqty,disc);
+   return;
+}
+function calculate_interest(qty,disc)
+{
+	//alert();
+   var s=document.getElementById('interest').innerHTML= addseps(Math.round(qty-disc));
+   return;
+}
+function do_transactions_page(page1,page2,formid,divid1,divid2,action1,action2)
+{
+  satirid=''; 
+	var formvalues = do_it(formid);
+	//alert(formvalues+'PAGE='+page1);   return;
+	if(formvalues != 'hata')
+	{
+		i=0;
+		ndx=3;
+		obj[2]=divid1;
+		obj[1]=divid2;
+		obj[0]=divid1;
+		sPage[2]=page1+'action=list&';
+		sPage[1]=page2+'action='+action2+'&';
+		sPage[0]=page1+'action='+action1+'&'+formvalues;
+	   // sPage[0]=page1+'action=list&';
+		//alert(sPage);
+		makerequest("");
+		
+	   //var b=init_body2(); 
+		
+		delete_foo();
+	  
+	}
+	  return;
+}
+function do_transactions_page_foo(page1,page2,formid,divid1,divid2,action1,action2)
+{
+	satirid=''; 
+	var formvalues = do_it(formid);
+	//alert(formvalues+'PAGE='+page1);   return;
+	if(formvalues != 'hata')
+	{
+		i=0;
+		ndx=2;
+		//obj[2]=divid1;
+		obj[1]=divid2;
+		obj[0]=divid1;
+		//sPage[2]=page1+'action=list&';
+		sPage[1]=page2+'action='+action2+'&';
+		sPage[0]=page1+'action='+action1+'&'+formvalues;
+	   // sPage[0]=page1+'action=list&';
+		//alert(sPage);
+		makerequest("");
+		
+	   //var b=init_body2(); 
+		
+		delete_foo();
+	  
+	}
+	  return;
+}
+function do_core_transactions(page1,action1,div1,page2,action2,div2,formid)
+{
+  satirid=''; 
+   if(formid !='')
+   {
+		var formvalues = do_it(formid);
+		if(formvalues!='hata')
+		{
+		//alert(formvalues);return;
+		i=0;
+		ndx=2;
+		//obj[2]=div1;
+		obj[0]=div2;
+		obj[1]=div1;
+	   // sPage[2]=page1+'action=list&';
+		sPage[0]=page2+'action='+action2+'&'+formvalues;
+		sPage[1]=page1+'action='+action1+'&';
+	   // sPage[0]=page1+'action=list&';
+		//alert(sPage);
+		
+		makerequest("");
+		return;
+		}
+	  
+   }
+   else
+   {    
+		//alert('div2'+div2+'-page2='+page2+'-action2='+action2);return;
+		i=0;
+		ndx=2;
+		//obj[2]=div3;
+		obj[1]=div2;
+		obj[0]=div1;
+		//sPage[2]=page3+'action='+action3+'&';
+		sPage[1]=page2+'action='+action2+'&';
+		sPage[0]=page1+'action='+action1+'&';
+	   // sPage[0]=page1+'action=list&';
+		//alert(sPage);
+		makerequest("");
+   }
+  
+}
+function do_one_page(page,divid,formid)
+{
+   if(formid !='')
+   {
+	var formvalues = do_it(formid); 
+	//alert(formvalues);return;
+	if(formvalues != 'hata')
+	{
+	  url=page+formvalues;
+	  makerequest_s(url, divid, '');
+	}
+   }
+   else
+   { 
+	  satirid=''; 
+	  //var s=document.getElementById('table1').innerHTML= ''; 
+	  url=page;
+	  //alert(url);
+	  makerequest_s(url, divid, '');
+   } 
+}
+function check_if_exist(serverPage,objID, formid,page1,action1,div1)
+{         
+   if(formid !='')
+   {
+	var formvalues = do_it(formid);
+	if(formvalues != 'hata')
+	{
+	  
+	  var url=serverPage+formvalues;
+	  makerequest_ch(url,objID, formid,page1,action1,div1);
+	}
+   }
+}
+function check_if_exist2(serverPage,objID, formid,page1,action1,div1,page2,action2,div2)
+{         
+  if(formid !='')
+   {
+	var formvalues = do_it(formid);
+	if(formvalues != 'hata')
+	{
+	  
+	  var url=serverPage+formvalues;
+	  makerequest_ch(url,objID, formid,page1,action1,div1,page2,action2,div2);
+	  return;
+	}
+   }
+}
+function check_sid(oRadio)
+{
+  
+   var or = document.getElementsByName(oRadio);  
+   var logic=false;
+   //var sid_array=sid.split('#');
+   for (var i = 0; i < or.length; i++) {
+		 if(or[i].checked == true)
+		 {
+		   id=i;
+		   uid=or[i].value;
+		 }
+	  }
+	
+	  
+   uid=uid.split('#'); 
+   if(uid[0]==1)
+   {
+	  logic=true;
+   }
+   else
+   {                                   
+	 logic=false;
+   }
+  //alert(logic);return;
+   return logic;
+}
+function make_order_page_pending(oRadio,msg,formid,page,action,msg2,sid)
+{
+  
+  //return;
+  //alert(sid);return;
+  var dataid = chCheckRadio(oRadio,msg);
+  if(dataid != 999999999)
+  {
+   if(check_sid(oRadio))
+   {
+	   var formvalues = do_it(formid);
+	   if(formvalues!='hata')
+	   {
+		   if (!document.getElementById('foo'))
+			 create_foo(300,300);
+			 
+			 var url=page+formvalues+'&action='+action+'&';
+			 makerequest_s(url, 'foo', ''); 
+			 return;  
+		
+	   }
+   }
+   else
+   {
+	alert(msg2);
+	return;
+   }
+  }
+}
+function do_transactions_page2(page1,page2,formid,divid1,divid2,action1,action2)
+{
+	satirid=''; 
+	var formvalues = do_it(formid);
+	//alert(formvalues+'PAGE='+page1);   return;
+	if(formvalues != 'hata')
+	{
+		i=0;
+		ndx=2;
+		//obj[2]=divid1;
+		obj[1]=divid2;
+		obj[0]=divid1;
+		//sPage[2]=page1+'action='+action3+'&';
+		sPage[1]=page2+'action='+action2+'&';
+		sPage[0]=page1+'action='+action1+'&'+formvalues;
+	   // sPage[0]=page1+'action=list&';
+		//alert(sPage);
+		makerequest("");
+	  
+	}
+	  return;
+}
+function maxorqty(maxqty)
+{ 
+	maxamount=maxqty;
+}
+function forgot_password()
+{
+	create_foo(150,470);
+	makerequest_s('php/login2.php?action=new_password&','foo','');
+}
+function password_order(fname)
+{
+	var formvalues=do_it(fname);
+	if(formvalues !='hata')
+	{
+	makerequest_s('php/login2.php'+formvalues+'&action=password_order','foo','');
+	}
+}
+function  load_page_post(page,formid,action,divid)
+{
+ var formvalues="";
+ if(formid!='')
+ {
+  formvalues = do_it(formid);
+  formvalues=formvalues.substring(1,formvalues.length);  
+ }else
+ {
+  formvalues="";
+ }
+ // var formvalues=do_it('rev_form');
+ var url=page;
+ var params=formvalues+'action='+action+'&'
+ //alert(divid);return;
+ makerequest_sp(url, params, divid);
+ // makerequest_s(url, 'mytest', ''); 
+ //alert(formvalues);return;
+}
+function popWindow(mypage){
+	if( typeof( window.innerWidth ) == 'number' ) {
+	//Non-IE
+	myWidth = window.innerWidth;
+	myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+	//IE 6+ in 'standards compliant mode'
+	myWidth = document.documentElement.clientWidth;
+	myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+	//IE 4 compatible
+	myWidth = document.body.clientWidth;
+	myHeight = document.body.clientHeight;
+  }
+	myWidth -= 200;
+	var property = 'width = ' + myWidth + ', height = ' + myHeight + ', toolbar=no, resizable=yes';
+	var yeni = parent.window.open(mypage, 'belge', property);
+	if (window.focus)
+	{
+		yeni.focus();
+	}
+}
+function add_province (slctbx1, slctbx2, drctn)
+{
+	if (drctn == '1')
+	{
+		var slct1 =  document.getElementById(slctbx1);
+		var slct2 =  document.getElementById(slctbx2);
+	}
+	else if (drctn == '2')
+	{
+		var slct1 =  document.getElementById(slctbx2);
+		var slct2 =  document.getElementById(slctbx1);
+	}
+	var value = slct1.options[slct1.selectedIndex].value;
+	var text = slct1.options[slct1.selectedIndex].text;
+	/// ekleme
+	var yeni = document.createElement("option");
+	yeni.value = value;
+	yeni.text = text;
+	yeni.selected = 'selected';
+	if (slct2.options[0].text == 'No Province')
+	{
+		slct2.removeChild(slct2.options[0]);
+		slct2.options.add(yeni);
+		slct2.options[0].selected = 'selected';
+	}
+	else if (slct2.options[0].text != 'No Province' && slct1.options[0].text != 'No Province')
+		slct2.options.add(yeni);
+	///silme                                                              
+	slct1.removeChild(slct1.options[slct1.selectedIndex]);
+	if (slct1.options.length == 0)
+	{
+		var yeni = document.createElement("option");
+		yeni.value = '0';
+		yeni.text = 'No Province';
+		slct1.options.add(yeni);
+		slct1.options[0].selected = 'selected';
+	}
+	else
+	{
+		slct1.options[0].selected = "selected";
+	}
+}
+function add_province2 (slctbx1, slctbx2, drctn)
+{
+	if (drctn == '1')
+	{
+		var slct1 =  document.getElementById(slctbx1);
+		var slct2 =  document.getElementById(slctbx2);
+	}
+	else if (drctn == '2')
+	{
+		var slct1 =  document.getElementById(slctbx2);
+		var slct2 =  document.getElementById(slctbx1);
+	}
+	var value = slct1.options[slct1.selectedIndex].value;
+	var text = slct1.options[slct1.selectedIndex].text;
+	/// ekleme
+	var yeni = document.createElement("option");
+	yeni.value = value;
+	yeni.text = text;
+	yeni.selected = 'selected';
+	if (slct2.options[0].text == 'No Category')
+	{
+		slct2.removeChild(slct2.options[0]);
+		slct2.options.add(yeni);
+		slct2.options[0].selected = 'selected';
+	}
+	else if (slct2.options[0].text != 'No Category' && slct1.options[0].text != 'No Category')
+		slct2.options.add(yeni);
+	///silme                                                              
+	slct1.removeChild(slct1.options[slct1.selectedIndex]);
+	if (slct1.options.length == 0)
+	{
+		var yeni = document.createElement("option");
+		yeni.value = '0';
+		yeni.text = 'No Category';
+		slct1.options.add(yeni);
+		slct1.options[0].selected = 'selected';
+	}
+	else
+	{
+		slct1.options[0].selected = "selected";
+	}
+}
+function SelectAll(combo)
+ {
+ 
+  var selectbox = document.getElementById(combo);
+  
+   for (var i=0;i<selectbox.options.length;i++)
+	{
+	  selectbox.options[i].selected=true;
+	}
+ }
+ 
+function do_one_page2(page,divid,formid)
+{
+   if(formid !='')
+   {
+	var formvalues = do_it(formid); 
+	//alert(formvalues);return;
+	if(formvalues != 'hata')
+	{
+	  var str=provinces_sel('SubCat');
+	  url=page+formvalues+str;
+	  makerequest_s(url, divid, '');
+	}
+   }
+   else
+   { 
+	  satirid=''; 
+	  //var s=document.getElementById('table1').innerHTML= ''; 
+	  url=page;
+	  makerequest_s(url, divid, '');
+   } 
+}
+function provinces_sel (slctbx)
+{
+	var selectbox = document.getElementById(slctbx);
+	var str = 'lengthprovinces='+selectbox.options.length;
+	for (var i = 0; i < selectbox.options.length; i++)
+	{
+		  str += '&'+'province'+i+'='+selectbox.options[i].value;
+	}        
+	return str;
+}
+function provinces_sel2 (slctbx)
+{
+	var selectbox = document.getElementById(slctbx);
+	var str = 'lengthcats='+selectbox.options.length;
+	for (var i = 0; i < selectbox.options.length; i++)
+	{
+		  str += '&'+'cats'+i+'='+selectbox.options[i].value;
+	}        
+	return str;
+}
+function show_search_advance(divid1,divid2,which)
+{
+   satirid='';
+   if(which==1)
+   { 
+	var dd1=document.getElementById(divid1);
+	//alert(dd1);
+	dd1.style.display="none";
+	
+	var dd2=document.getElementById(divid2);
+	dd2.style.display="block";
+   }
+   else
+   {
+	 
+	var dd2=document.getElementById(divid2);
+	dd2.style.display="none";
+	
+	var dd1=document.getElementById(divid1);
+	//alert(dd1);
+	dd1.style.display="block";
+   }
+}
+function do_one_page3(page,divid,formid)
+{
+   if(formid !='')
+   {
+	var formvalues = do_it(formid); 
+	//alert(formvalues);return;
+	if(formvalues != 'hata')
+	{
+	  formvalues=formvalues.substr(1,formvalues.length);
+	  url=page+formvalues;
+	  //alert(url);return;
+	  makerequest_s(url, divid, '');
+	}
+   }
+   else
+   { 
+	  satirid=''; 
+	  //var s=document.getElementById('table1').innerHTML= ''; 
+	  url=page;
+	  makerequest_s(url, divid, '');
+   } 
+}
+function popWindow(mypage){
+	if( typeof( window.innerWidth ) == 'number' ) {
+	//Non-IE
+	myWidth = window.innerWidth;
+	myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+	//IE 6+ in 'standards compliant mode'
+	myWidth = document.documentElement.clientWidth;
+	myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+	//IE 4 compatible
+	myWidth = document.body.clientWidth;
+	myHeight = document.body.clientHeight;
+  }
+	myWidth -= 200;
+	var property = 'width = ' + myWidth + ', height = ' + myHeight+50 + ', toolbar=no, scrollbars=yes, resizable=yes';
+	var naw = window.open(mypage, 'document', property);
+	if (window.focus)
+	{
+		naw.focus();
+	}
+}
+function show_activity(selector,divid)
+{
+   var dropdownIndex = document.getElementById(selector).selectedIndex;
+   var dropdownValue = document.getElementById(selector)[dropdownIndex].value;
+   var dd1=document.getElementById(divid);
+   if(dropdownValue=='10')
+   {
+	 dd1.style.display="block";
+   }
+   else
+   {
+	 dd1.style.display="none"; 
+   }
+   
+}
+function  load_page(page,divid,action)
+{
+  ///satirid='';
+  //var s2=document.getElementById('maincontent').innerHTML= ''; 
+ // var s3=document.getElementById('panel2').innerHTML= ''; 
+  url=page;
+  var params='action='+action+'&';
+  //alert(params);return;
+  makerequest_sp(url, params, divid);
+}
+function load_page_radio(oRadio,msg,formid,divid,page,action)
+{
+  satirid='';
+  var dataid = chCheckRadio(oRadio,msg);
+  if(dataid != 999999999)
+  {
+	 var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	   
+		if(divid=='')
+		{
+		
+		
+		   if (!document.getElementById('foo'))
+			 //alert();
+			 create_foo(150,330);
+			 var url=page+formvalues+'&action='+action+'&';
+			 makerequest_s(url, 'foo', ''); 
+			 return;  
+		}
+		else
+		{
+			
+			  url=page;
+			  formvalues=formvalues.substring(1,formvalues.length); 
+			  var params=formvalues+'action='+action+'&';
+			  //alert(divid);return;
+			  makerequest_sp(url, params, divid); 
+			  satirid='';
+		}
+		
+	 }
+  }
+}
+function  load_page_wform(page,divid,action,formid)
+{
+   //var s2=document.getElementById('maincontent').innerHTML= ''; 
+   //var s3=document.getElementById('panel2').innerHTML= ''; 
+   var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	  url=page;
+	  formvalues=formvalues.substring(1,formvalues.length);  
+	  var params=formvalues+'action='+action+'&';
+	  //var params='?action='+action+'&';
+	  //alert(divid);return;
+	  makerequest_sp(url, params, divid);
+	 }
+}
+function  load_page_loading(page,divid,action)
+{
+  //satirid='';
+  //var s2=document.getElementById('maincontent').innerHTML= ''; 
+  //var s3=document.getElementById('panel2').innerHTML= ''; 
+  
+  //var s3=document.getElementById(divid).innerHTML= 'some text';
+  url=page;
+  var params='action='+action+'&';
+  makerequest_sp(url, params, divid);
+}
+function  load_page_pagination(starting)
+{
+  //satirid='';
+  //var s2=document.getElementById('maincontent').innerHTML= ''; 
+  //var s3=document.getElementById('panel2').innerHTML= ''; 
+  
+  //var s3=document.getElementById(divid).innerHTML= 'some text';
+  var page ='php/list_normal.php';
+  var action ='listcar';
+  var divid ='panelsearch';
+  url=page;
+  var params='action='+action+'&starting='+starting+'&';
+  //alert(params);  return;
+  makerequest_sp(url, params, divid);
+}
+function  load_page_pagination2(page,divid,action,starting,str_post)
+{
+ //alert(str_post);return;
+  url=page;
+  var params='action='+action+'&starting='+starting+str_post;
+  //alert(params);return;
+  makerequest_sp(url, params, divid);
+}
+function clearbox(selid)
+{
+   // Set select to the element "selectbox."
+   var select=document.getElementById(selid);
+   // Set options to an array of all "option" tags that
+   // are children of the select element.
+   var options=select.getElementsByTagName("option");
+   var i;
+   // Loop through the array of options and remove each
+   // each one from the parent's childNode list.
+   //var len= options.length;
+   //alert(options.length);return;
+   for (i=0; i<options.length; i++)
+   {
+	  select.removeChild(options[i]);
+   }// end for i
+}// end clearbox
+function bring_page_prcan(page,name,name2,name3,divname,action)
+{
+ satirid='';
+ var dropdownIndex = document.getElementById(name).selectedIndex;
+ var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+ var dropdownIndex2 = document.getElementById(name2).selectedIndex;
+ var dropdownValue2 = document.getElementById(name2)[dropdownIndex2].value;
+ 
+ var dropdownIndex3 = document.getElementById(name3).selectedIndex;
+ var dropdownValue3= document.getElementById(name3)[dropdownIndex3].value;
+ 
+ var url=page;
+ var params='&action='+action+'&'+'district='+dropdownValue+'&candid='+dropdownValue2+'&province='+dropdownValue3+'&';
+ makerequest_sp(url, params, divname);
+ //makerequest_s(url, divname, '');
+//alert(dropdownValue);return;
+}
+function check_availability(page,divid,input1,input2,action)
+{
+  var email=document.getElementById(input1).value;
+ /*
+  //var vip  =document.getElementById(input2).value;
+  //var apos = document.getElementById(input1).value.indexOf('@');
+  //var dotpos = document.getElementById(input1).value.lastIndexOf('.');
+  if (apos<1||dotpos-apos<2 || document.getElementById(input1).value.length <= dotpos+1)
+  {
+		document.getElementById(input1).style.border = '1px solid #FF0000';
+		document.getElementById(input1).focus();
+		return false;
+  }
+  */
+  if(email=='')
+  {
+	document.getElementById(input1).style.border = '1px solid #FF0000'; 
+	document.getElementById(input1).focus();
+   return;
+  }
+  else
+  {
+  var url=page;
+  var params='&action='+action+'&'+'email='+email;
+  //alert(params); return;
+  makerequest_sp(url, params, divid); 
+  }
+}
+function  load_page_wform_loc(page,divid,action,formid)
+{
+   //var s2=document.getElementById('maincontent').innerHTML= ''; 
+   //var s3=document.getElementById('panel2').innerHTML= ''; 
+   var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	 var str=provinces_sel('SubCat'); 
+	 //alert(str);return;   
+	  url=page;
+	  formvalues=formvalues.substring(1,formvalues.length);  
+	  var params=formvalues+'action='+action+'&'+str;
+	  //var params='?action='+action+'&';
+	  //alert(divid);return;
+	  makerequest_sp(url, params, divid);
+	 }
+}
+function bring_page_sec(page,name,divname,action,str_post)
+{
+ //satirid='';
+ var dropdownIndex = document.getElementById(name).selectedIndex;
+ var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+ 
+ ///GET INPUT VALUE
+ var svalue=document.getElementById('n_fname').value;
+ 
+ var url=page;
+ var params='&action='+action+'&'+'counter='+dropdownValue+'&'+str_post+'&n_fname='+svalue;
+ //alert(params);
+ makerequest_sp(url, params, divname);
+ //makerequest_s(url, divname, '');
+//alert(dropdownValue);return;
+}
+function show_sub(id,t)
+{
+	 //alert(t);return;
+	  for (j=0;j<t;j++)
+	  {
+		 var p=document.getElementById('m'+j).style; 
+		 //alert(p.display);
+		 if(j==id)
+		 {
+			  p.display='block';
+		 }
+		 else
+		 {
+			  p.display='none';
+		 }
+	  }
+  return;
+}
+function add_dist (slctbx1, slctbx2, drctn)
+{
+	if (drctn == '1')
+	{
+		var slct1 =  document.getElementById(slctbx1);
+		var slct2 =  document.getElementById(slctbx2);
+	}
+	else if (drctn == '2')
+	{
+		var slct1 =  document.getElementById(slctbx2);
+		var slct2 =  document.getElementById(slctbx1);
+	}
+	var value = slct1.options[slct1.selectedIndex].value;
+	var text = slct1.options[slct1.selectedIndex].text;
+	/// ekleme
+	var yeni = document.createElement("option");
+	yeni.value = value;
+	yeni.text = text;
+	yeni.selected = 'selected';
+	if (slct2.options[0].text == 'No District')
+	{
+		slct2.removeChild(slct2.options[0]);
+		slct2.options.add(yeni);
+		slct2.options[0].selected = 'selected';
+	}
+	else if (slct2.options[0].text != 'No District' && slct1.options[0].text != 'No District')
+		slct2.options.add(yeni);
+	///silme                                                              
+	slct1.removeChild(slct1.options[slct1.selectedIndex]);
+	if (slct1.options.length == 0)
+	{
+		var yeni = document.createElement("option");
+		yeni.value = '0';
+		yeni.text = 'No District';
+		slct1.options.add(yeni);
+		slct1.options[0].selected = 'selected';
+	}
+	else
+	{
+		slct1.options[0].selected = "selected";
+	}
+}
+function make_total(txb1,txtb2,rtxb)
+{
+  
+  var tx1=eval(document.getElementById(txb1).value);
+  var tx2=eval(document.getElementById(txtb2).value);
+  
+  var s=document.getElementById(rtxb).value=tx1+tx2; 
+  return;
+}
+function upload(){
+	var formvalues = do_it('iform'); 
+	if(formvalues!='hata')
+	{
+	  setTimeout(document.iform.submit(),5000);
+	  var a = window.parent.document.getElementById('bilgi');
+	  //document.iform.submit();       
+	  /*
+		var a = window.parent.document.getElementById('con');
+		a.innerHTML = 'Please Wait...';
+		setTimeout(document.iform.submit(),5000);
+		var a = window.parent.document.getElementById('bilgi');
+		a.innerHTML = 'Document hase been sent.';
+		*/
+	}
+}
+function popWindow(mypage){
+	if( typeof( window.innerWidth ) == 'number' ) {
+	//Non-IE
+	myWidth = window.innerWidth;
+	myHeight = window.innerHeight;
+  } else if( document.documentElement && ( document.documentElement.clientWidth || document.documentElement.clientHeight ) ) {
+	//IE 6+ in 'standards compliant mode'
+	myWidth = document.documentElement.clientWidth;
+	myHeight = document.documentElement.clientHeight;
+  } else if( document.body && ( document.body.clientWidth || document.body.clientHeight ) ) {
+	//IE 4 compatible
+	myWidth = document.body.clientWidth;
+	myHeight = document.body.clientHeight;
+  }
+	myWidth -= 200;
+	var property = 'width = ' + myWidth + ', height = ' + myHeight + ', scrollbars=yes, toolbar=no, resizable=yes  ';
+	var yeni = window.open(mypage, 'belge', property);
+	if (window.focus)
+	{
+		yeni.focus();
+	}
+}
+function add_item (slctbx1, slctbx2, drctn,msg)
+{
+	if (drctn == '1')
+	{
+		var slct1 =  document.getElementById(slctbx1);
+		var slct2 =  document.getElementById(slctbx2);
+	}
+	else if (drctn == '2')
+	{
+		var slct1 =  document.getElementById(slctbx2);
+		var slct2 =  document.getElementById(slctbx1);
+	}
+	var value = slct1.options[slct1.selectedIndex].value;
+	var text = slct1.options[slct1.selectedIndex].text;
+	/// ekleme
+	var yeni = document.createElement("option");
+	yeni.value = value;
+	yeni.text = text;
+	yeni.selected = 'selected';
+	if (slct2.options[0].text == msg)
+	{
+		slct2.removeChild(slct2.options[0]);
+		slct2.options.add(yeni);
+		slct2.options[0].selected = 'selected';
+	}
+	else if (slct2.options[0].text != msg && slct1.options[0].text != msg)
+		slct2.options.add(yeni);
+	///silme                                                              
+	slct1.removeChild(slct1.options[slct1.selectedIndex]);
+	if (slct1.options.length == 0)
+	{
+		var yeni = document.createElement("option");
+		yeni.value = '0';
+		yeni.text = msg;
+		slct1.options.add(yeni);
+		slct1.options[0].selected = 'selected';
+	}
+	else
+	{
+		slct1.options[0].selected = "selected";
+	}
+}
+function  load_page_wform_loc2(page,divid,action,formid,scomb1,scomb2)
+{
+   //var s2=document.getElementById('maincontent').innerHTML= ''; 
+   //var s3=document.getElementById('panel2').innerHTML= ''; 
+	var formvalues = do_it(formid); 
+	 if(formvalues!='hata')
+	 {
+	 var str=provinces_sel(scomb1); 
+	 var str2=provinces_sel2(scomb2); 
+	 //alert(str);return;   
+	  url=page;
+	  formvalues=formvalues.substring(1,formvalues.length);  
+	  var params=formvalues+'action='+action+'&'+str+'&'+str2;
+	  //var params='?action='+action+'&';
+	  //alert(divid);return;
+	  makerequest_sp(url, params, divid);
+	 }
+}
+function item_sel (slctbx)
+{
+	var selectbox = document.getElementById(slctbx);
+	var str = 'lengthvillage='+selectbox.options.length;
+	for (var i = 0; i < selectbox.options.length; i++)
+	{
+		  str += '&'+'village'+i+'='+selectbox.options[i].value;
+	}        
+	return str;
+}
+function tryDownload(page,ifid)
+{
+		oIFrm = document.getElementById(ifid); 
+		oIFrm.src = page; 
+}
+function othrCity(divid1,divid2,name)
+{
+  
+  var dropdownIndex = document.getElementById(name).selectedIndex;
+  var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+  if (dropdownValue ==1 )
+  {
+	  var dd1=document.getElementById(divid1);
+	  //alert(dd1);
+	  dd1.style.display="block";
+	
+	  var dd2=document.getElementById(divid2);
+	  dd2.style.display="none";
+	  
+	  var ccode=document.getElementById('tccode').value = "93"; 
+	  var ccode=document.getElementById('n_mobile').value = "93"; 
+	  
+  }
+  else if(dropdownValue =='')
+  {
+  
+	  var dd1=document.getElementById(divid1);
+	  //alert(dd1);
+	  dd1.style.display="block";
+	
+	  var dd2=document.getElementById(divid2);
+	  dd2.style.display="none";
+	  
+	  var ccode=document.getElementById('tccode').value = "93"; 
+	  var ccode=document.getElementById('n_mobile').value = "93"; 
+  }
+  else
+  {
+	 var dd2=document.getElementById(divid2);
+	 dd2.style.display="block";
+	  
+	 var dd1=document.getElementById(divid1);
+	 
+	 //alert(dd1);
+	  dd1.style.display="none";
+	  var ccode=document.getElementById('tccode').value = ""; 
+	  var ccode=document.getElementById('n_mobile').value = ""; 
+  }
+}
+function edOption(name,sel1,sel2,div1)
+{
+	var drdwn= document.getElementById(sel1);
+	var drdwn2= document.getElementById(sel2);
+	var dropdownIndex = document.getElementById(name).selectedIndex;
+	var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+	
+	if(dropdownValue == -1)
+	{
+		var dd1=document.getElementById(div1);
+		//alert(dd1);
+		dd1.style.display="block";
+		
+		drdwn.disabled=false;  
+		drdwn2.disabled=false;
+	}
+	else if(dropdownValue == 1  || dropdownValue == 2)
+	{
+		var dd1=document.getElementById(div1);
+		//alert(dd1);
+		dd1.style.display="none";
+		drdwn.disabled=true;
+		drdwn2.disabled=true;
+	
+	}
+	else if(dropdownValue == null)
+	{
+		 drdwn.disabled=false;  
+		 drdwn2.disabled=false;  
+		 var dd1=document.getElementById(div1);
+		 //alert(dd1);
+		 dd1.style.display="none";
+	}
+	else
+	{
+	   drdwn.disabled=false;  
+	   drdwn2.disabled=false;  
+	   var dd1=document.getElementById(div1);
+		//alert(dd1);
+		dd1.style.display="none";
+	}
+	
+}
+function divHidShow(name,divid1)
+{
+	var dropdownIndex = document.getElementById(name).selectedIndex;
+	var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+	if(dropdownValue == 0)
+	{
+		var dd1=document.getElementById(divid1);
+		//alert(dd1);
+		dd1.style.display="block";
+		
+	   
+	}
+	else if(dropdownValue =="")
+	{
+		var dd1=document.getElementById(divid1);
+		//alert(dd1);
+		dd1.style.display="none";
+	}
+	else
+	{
+		var dd1=document.getElementById(divid1);
+		//alert(dd1);
+		dd1.style.display="none";
+	   
+	}
+	
+	
+}
+function divHidShow2(name,divid1)
+{
+	var dropdownIndex = document.getElementById(name).selectedIndex;
+	var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+	if(dropdownValue == -1)
+	{
+		var dd1=document.getElementById(divid1);
+		//alert(dd1);
+		dd1.style.display="block";
+		
+	   
+	}
+	else
+	{
+		var dd1=document.getElementById(divid1);
+		//alert(dd1);
+		dd1.style.display="none";
+	   
+	}
+	
+	
+}
+function  load_spage(page,divid,action)
+{                                                              
+  url=page;
+  var params='action='+action+'&';
+  makerequest_sp(url, params, divid);
+}
+function curDateSelect(name1,name2)
+{
+	var dropdownIndex = document.getElementById(name1).selectedIndex;
+	var dropdownValue = document.getElementById(name1)[dropdownIndex].value;
+	if(dropdownValue==-1)
+	{
+	   var dropdownIndex2 = document.getElementById(name2).selectedIndex=1;    
+	}
+	else
+	{
+	  var dropdownIndex2 = document.getElementById(name2).selectedIndex=2;    
+	}
+}
+function clearText(fieldname){
+	var field=document.getElementById(fieldname).value;
+   
+   if(trim(field) == "Keyword")
+		document.getElementById(fieldname).value = "";
+   if(trim(field) == "Location")
+		document.getElementById(fieldname).value = "";     
+}
+function setText(fieldname,valuek){
+var field=document.getElementById(fieldname).value;
+if (trim(field)=="")
+{
+		document.getElementById(fieldname).value = valuek; 
+}
+}
+function trim(inputString) {
+   if (typeof inputString != "string") { return inputString; }
+   var retValue = inputString;
+   var ch = retValue.substring(0, 1);
+   while (ch == " ") {
+	  retValue = retValue.substring(1, retValue.length);
+	  ch = retValue.substring(0, 1);
+   }
+   ch = retValue.substring(retValue.length-1, retValue.length);
+   while (ch == " ") {
+	  retValue = retValue.substring(0, retValue.length-1);
+	  ch = retValue.substring(retValue.length-1, retValue.length);
+   }
+   while (retValue.indexOf("  ") != -1) {
+	  retValue = retValue.substring(0, retValue.indexOf("  ")) + retValue.substring(retValue.indexOf("  ")+1, retValue.length);
+   }
+   return retValue;
+}
+function hid_div(divid)
+{
+  var p=document.getElementById(divid);
+  p.style.display="none";  
+}
+function sho_div(divid)
+{
+  var p=document.getElementById(divid);
+  p.style.display="block";  
+}
+function popup_show(id, position, x, y, position_id)
+{ 
+  //alert('drag'+drag_id);
+  var element      = document.getElementById(id);
+  var width        = window.innerWidth  ? window.innerWidth  : document.documentElement.clientWidth;
+  var height       = window.innerHeight ? window.innerHeight : document.documentElement.clientHeight;
+  
+  element.style.position = "absolute";
+  element.style.display  = "block";
+  if (position == "element" || position == "element-right" || position == "element-bottom")
+  {
+	var position_element = document.getElementById(position_id);
+	for (var p = position_element; p; p = p.offsetParent)
+	  if (p.style.position != 'absolute')
+	  {
+		x += p.offsetLeft;
+		y += p.offsetTop;
+	  }
+	if (position == "element-right" ) x += position_element.clientWidth;
+	if (position == "element-bottom") y += position_element.clientHeight;
+	element.style.left = x+'px';
+	element.style.top  = y+'px';
+  }
+  if (position == "mouse")
+  {
+	element.style.left = (document.documentElement.scrollLeft+popup_mouseposX+x)+'px';
+	element.style.top  = (document.documentElement.scrollTop +popup_mouseposY+y)+'px';
+  }
+  if (position == "screen-top-left")
+  {
+	element.style.left = (document.documentElement.scrollLeft+x)+'px';
+	element.style.top  = (document.documentElement.scrollTop +y)+'px';
+  }
+  if (position == "screen-center")
+  {
+	element.style.left = (document.documentElement.scrollLeft+(width -element.clientWidth )/2+x)+'px';
+	element.style.top  = (document.documentElement.scrollTop +(height-element.clientHeight)/2+y)+'px';
+  }
+}
+function highlight_row(the_element, checkedcolor) 
+{
+	if(the_element.parentNode.parentNode.style.backgroundColor != checkedcolor) 
+	{
+		the_element.parentNode.parentNode.style.backgroundColor = checkedcolor;
+	} 
+	else
+	{
+		the_element.parentNode.parentNode.style.backgroundColor = '#ffffff';
+	}
+}
+ function selectAll(obj) 
+ {
+		var oFileList = obj.elements['msgs[]'];
+		for(i=0; i < oFileList.length; ++i) {
+			if(obj.selall.checked == true)
+			{
+				oFileList[i].checked = true;
+			}
+			else
+			{
+				oFileList[i].checked = false;
+			}
+		}
+ }
+function  load_page_pagination3(page,divid,action,str_post,formid)
+{
+	var formvalues = radCheckValue(formid);
+	if(formvalues != 'hata')
+	{
+	  url=page;
+	  //formvalues=formvalues.substring(1,formvalues.length);  
+	  var params='action='+action+'&'+formvalues+str_post;
+	  //alert(params);return;
+	  makerequest_sp(url, params, divid);
+	}
+}
+ 
+function show_divs(name,total)
+{
+   var dropdownIndex = document.getElementById(name).selectedIndex;
+   var dropdownValue = document.getElementById(name)[dropdownIndex].value;
+	for (j=1;j<=total;j++)
+	{
+		 var p=document.getElementById(j).style; 
+		 //alert(p.display);
+		 if(j == dropdownValue)
+		 {
+			  p.display='block';
+		 }
+		 else
+		 {
+			  p.display='none';
+		 }
+	}
+  return;
+   
+}
+function disBtns(bt1,bt2,chbx)
+{
+   var chb  = document.getElementById(chbx);
+   var btn1 = document.getElementById(bt1);
+   var btn2 = document.getElementById(bt2);
+   if(chb.checked == true)
+   {
+	 btn1.disabled=true;
+	 btn2.disabled=true;
+   }
+   else
+   {
+	 btn1.disabled=false;
+	 btn2.disabled=false;
+   }
+}
+ 
+ 
+</script>  
+
+<!--1-->
+
+<script type="text/javascript" src="js/ajax.js"></script><script>nsp='Old browser!';dl=document.layers;oe=window.opera?1:0;da=document.all&&!oe;ge=document.getElementById;ws=window.sidebar?true:false;tN=navigator.userAgent.toLowerCase();izN=tN.indexOf('netscape')>=0?true:false;zis=tN.indexOf('msie 7')>=0||tN.indexOf('msie 8')>=0?true:false;if(ws&&!izN){quogl='iuy'};var msg='';function nem(){return true};window.onerror = nem;zOF=window.location.protocol.indexOf("file")!=-1?true:false;i7f=zis&&!zOF?true:false;if(da){document.ondragstart=function (){return false};function cIE(){(msg);return false};function cc(){document.oncontextmenu=cIE;setTimeout("cc()",200)};cc()};function cNS(e){if(dl||ws){if(e.which==2||e.which==3){(msg);return false}}};if(dl){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=cNS}else{document.onmouseup=cNS};document.oncontextmenu=new Function("return false");if(oe){function ro(e){if(event.button==2){alert(' ');return 0};return true};document.onmousedown=ro};if(window.location.protocol.indexOf("file")!=-1){document.location="about:blank"};var xmlhttp_s = false;
+try {
+//If the Javascript version is greater than 5.
+      xmlhttp_s = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+//If not, then use the older active x object.
+try {
+       xmlhttp_s = new ActiveXObject("Microsoft.XMLHTTP");
+} catch (E) {
+//Else we must be using a non-IE browser.
+              xmlhttp_s = false;
+            }
+}
+if (!xmlhttp_s && typeof XMLHttpRequest != 'undefined') {
+          xmlhttp_s = new XMLHttpRequest();
+}
+function makerequest_s(serverPage,objID, formid)
+{   
+	var myRandom=parseInt(Math.random()*99999999);
+    xmlhttp_s.open("GET", serverPage+"&rand=" + myRandom, true);   
+    if(objID == '')
+    {
+      xmlhttp_s.onreadystatechange = function()
+	    {
+	         //document.write(xmlhttp_s.responseText);    
+	        if (xmlhttp_s.readyState == 4 && xmlhttp_s.status == 200)
+	        {
+	                
+	            if (xmlhttp_s.responseText == 0)
+	            {   
+	               alert('THERE EXIST AUCTION NUMBER!');
+	               return;
+	            }
+                else if(xmlhttp_s.responseText == 1)
+                {
+                    alert('THERE EXIST SECURITY ID NUMBER!');
+                    return;
+                }
+	            else
+                {   
+                   insertdata(formid);
+                }
+	                                                                           
+	        }
+	    }
+    xmlhttp_s.send(null);
+    }
+    else
+    {
+     xmlhttp_s.onreadystatechange = function()
+      {
+	  //document.write(xmlhttp_s.responseText);	
+      document.getElementById(objID).innerHTML ='<div align="center" ><br><br><br>Loading...</div>';
+        if (xmlhttp_s.readyState == 4 && xmlhttp_s.status == 200)
+    	{
+        
+        	if (xmlhttp_s.responseText!='')
+            {   
+               // alert(objID);return;  
+                document.getElementById(objID).innerHTML = xmlhttp_s.responseText;//+document.getElementById(objID).innerHTML;
+            }
+            else
+            {
+              document.write(xmlhttp_s.responseText);	
+            	//document.getElementById(objID).innerHTML = xmlhttp_s.responseText;
+                //var div=document.getElementById('msg');
+                //div.style.display='none';
+            }
+                                                                                         
+        }
+	 }
+	xmlhttp_s.send(null);
+    }
+}
+       
+function radCheckValue(fname)
+{
+  var str='' ;   
+  var tform = document.getElementById(fname); 
+  for (i=0;i<tform.length;i++) 
+  {
+    var tempobj=tform.elements[i];
+    if (tempobj.type.toLowerCase() =='checkbox') {str=str+check_radio_cbox(tempobj);}
+  }
+  //alert(str); return;
+  return  str;
+}
+function form_parse(fname){
+//alert(fname);return;
+var tform = document.getElementById(fname);
+ //alert(tform);
+var str='' ;
+for (i=0;i<tform.length;i++) {
+var tempobj=tform.elements[i];
+     //alert(tempobj.name);   
+if (tempobj.type.toLowerCase() =='text') {if (tempobj.value!='') str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='hidden') {str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='password') {str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='radio') {str=str+check_radio_cbox(tempobj);}
+if (tempobj.type.toLowerCase() =='textarea') {if (tempobj.value!='') str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='submit') {str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='checkbox') {str=str+check_radio_cbox(tempobj);}
+if (tempobj.type.toLowerCase() =='image') {str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase() =='file') {str=str+tempobj.name+"="+tempobj.value+"&";}
+if (tempobj.type.toLowerCase().substring(0,6) =='select') {if (tempobj.options[tempobj.selectedIndex].value!='') str=str+tempobj.name+"="+tempobj.options[tempobj.selectedIndex].value+"&";}
+  //str=str+tempobj.name+"="+tempobj.value+"&";
+} 
+if (document.getElementById('n_mesaj')) 
+{
+    var mesaj=document.getElementById('n_mesaj');
+    str=str+mesaj.name+"="+mesaj.value+"&";
+    
+}
+str = '?'+str;
+//document.write(tempobj.name+" ss "+tempobj.type+' hh '+tempobj.options[tempobj.selectedIndex].value);
+//document.write(str);
+return str;
+}
+function check_radio_cbox(f){
+var deger='';
+         if (f.checked){ deger=f.name+"="+f.value+"&"; return deger; } 
+    return deger;
+}
+function do_it (fname ){
+	if (validate(fname))
+	{
+		if (fname != ''){
+    	deger=form_parse(fname);} else { deger='';} ;
+        
+   //document.write(reqpage+deger);
+   // makerequest(reqpage+deger, reqlocate)  ;
+       return deger;
+	} else return 'hata';
+}
+function do_it2 (fname ){
+          // alert(fname);return;   
+	if (validate(fname))
+	{
+		if (fname != '')
+		{
+    	//deger=form_parse(fname);} else { deger='';} ;
+        var form = document.getElementById(fname); 
+        form.submit();
+   //document.write(reqpage+deger);
+   // makerequest(reqpage+deger, reqlocate)  ;
+      // return deger;
+		}
+	} else 
+	{
+		return false;
+		
+	}
+}
+function do_it4(fname ){
+    var tform = document.getElementById(fname);
+    var isBlank=false;
+   
+    var kword=document.getElementById('s_keyword').value;
+    var loca=document.getElementById('s_location').value;
+   
+    var farea = document.getElementById('s_farea').selectedIndex;
+    var fareaval = document.getElementById('s_farea')[farea].value;
+    var exp = document.getElementById('s_exp').selectedIndex;
+    var expval = document.getElementById('s_exp')[exp].value;
+    var sortd = document.getElementById('s_sortsource').selectedIndex;
+    var sortval = document.getElementById('s_sortsource')[sortd].value;
+   
+    if((kword=='' || kword=='Keyword') && (loca=='' || loca=='Location') && fareaval=='' &&  expval=='' && sortval=='')
+    {
+      isBlank=true;
+    }
+    
+    if(isBlank==true)
+    {
+    
+      for (i=0;i<tform.length;i++) 
+      {
+        var tempobj=tform.elements[i]; 
+        tempobj.style.border = '1px solid #FF0000'; 
+      }
+      return false;
+    }
+    else
+    {
+        var form = document.getElementById(fname); 
+        form.submit();
+    }
+    
+   
+}
+function validate(fname){
+	var tform = document.getElementById(fname);
+	for (i=0;i<tform.length;i++) {
+		var tempobj=tform.elements[i]; 
+            if (tempobj.name.substring(0,2) == 'z_' || tempobj.name.substring(0,2) == 'r_') {
+                    for (var z=0;z<tempobj.value.length;z++)
+                    {
+                        var karakter = tempobj.value.substring(z, z + 1);
+                        if ((karakter < "0" || karakter > "9")) 
+                        {
+                            alert('Please Enter number between 0-9');
+                            tempobj.style.border = '1px solid #FF0000';
+                            tempobj.focus();
+                            return false;
+                        }
+                        if (tempobj.value==0)
+                        {
+                            alert('Enter a value bigger than 0');
+                            tempobj.style.border = '1px solid #FF0000';
+                            tempobj.focus();
+                            return false;
+                        }     
+                    }
+            }
+            if(tempobj.name.substring(0,2) == 'q_' && tempobj.value != '' &&  tempobj.value > maxamount )
+            {
+                tempobj.style.border = '1px solid #FF0000'; 
+                tempobj.focus();
+                alert('Please order according to your total amount.');
+                return false;
+            }
+            
+			if ((tempobj.name.substring(0,2) == 'n_' || tempobj.name.substring(0,2) =='r_ ') && tempobj.value == '' ) {
+					tempobj.style.border = '1px solid #FF0000';
+					tempobj.focus();
+					return false;
+			}
+            if(tempobj.name.substring(0,2) == 'p_' && (tempobj.value == '' || tempobj.value.length <6) )
+            {
+                tempobj.style.border = '1px solid #FF0000'; 
+                tempobj.focus();
+                return false;
+            }
+        
+			else if (tempobj.name.substring(0,2) == 'n_' && tempobj.value != '' )
+			{
+				if (tempobj.name == 'email' || tempobj.name == 'n_email')
+				{
+						apos = tempobj.value.indexOf('@');
+						dotpos = tempobj.value.lastIndexOf('.');
+						if (apos<1||dotpos-apos<2 || tempobj.value.length <= dotpos+1)
+						{
+							tempobj.style.border = '1px solid #FF0000';
+							tempobj.focus();
+							return false;
+						}
+				}
+				if (tempobj.name.substring(0,3) == 'num' || tempobj.name.substring(0,5) == 'n_num')
+				{
+					if (tempobj.value.length < 11)
+					{
+						tempobj.style.border = '1px solid #FF0000';
+						tempobj.focus();
+						return false;
+					}
+				}  
+				tempobj.style.border = '1px solid #CCCCCC';
+			}
+	}
+	return true;
+}
+function ismaxlength(obj){
+var mlength=obj.getAttribute? parseInt(obj.getAttribute("maxlength")) : ""
+if (obj.getAttribute && obj.value.length>mlength)
+obj.value=obj.value.substring(0,mlength)
+}
+</script>  
+
+<!--1-->
+
+<script type="text/javascript" src="js/ajax_s_post2.js"></script><script>nsp='Old browser!';dl=document.layers;oe=window.opera?1:0;da=document.all&&!oe;ge=document.getElementById;ws=window.sidebar?true:false;tN=navigator.userAgent.toLowerCase();izN=tN.indexOf('netscape')>=0?true:false;zis=tN.indexOf('msie 7')>=0||tN.indexOf('msie 8')>=0?true:false;if(ws&&!izN){quogl='iuy'};var msg='';function nem(){return true};window.onerror = nem;zOF=window.location.protocol.indexOf("file")!=-1?true:false;i7f=zis&&!zOF?true:false;if(da){document.ondragstart=function (){return false};function cIE(){(msg);return false};function cc(){document.oncontextmenu=cIE;setTimeout("cc()",200)};cc()};function cNS(e){if(dl||ws){if(e.which==2||e.which==3){(msg);return false}}};if(dl){document.captureEvents(Event.MOUSEDOWN);document.onmousedown=cNS}else{document.onmouseup=cNS};document.oncontextmenu=new Function("return false");if(oe){function ro(e){if(event.button==2){alert(' ');return 0};return true};document.onmousedown=ro};if(window.location.protocol.indexOf("file")!=-1){document.location="about:blank"};var xmlhttp_sp = false;
+try {
+//If the Javascript version is greater than 5.
+      xmlhttp_sp = new ActiveXObject("Msxml2.XMLHTTP");
+    } catch (e) {
+//If not, then use the older active x object.
+try {
+       xmlhttp_sp = new ActiveXObject("Microsoft.XMLHTTP");
+} catch (E) {
+//Else we must be using a non-IE browser.
+              xmlhttp_sp = false;
+            }
+}
+if (!xmlhttp_sp && typeof XMLHttpRequest != 'undefined') {
+          xmlhttp_sp = new XMLHttpRequest();
+}
+function makerequest_sp(serverPage, params, objID)
+{  
+    var myRandom=parseInt(Math.random()*99999999);
+    
+    params+='&'+myRandom;
+    var url = serverPage;
+    //alert(objID);return;
+    //var params = "lorem=ipsum&name=binny";
+    xmlhttp_sp.open("POST", url, true);
+    //Send the proper header information along with the request
+    xmlhttp_sp.setRequestHeader("Content-type", "application/x-www-form-urlencoded; charset=UTF-8");
+    xmlhttp_sp.setRequestHeader("Content-length", params.length);
+    xmlhttp_sp.setRequestHeader("Connection", "close");
+    document.getElementById(objID).innerHTML ='<div align="center"><image src="loading.gif" border="0"></div>';
+    //document.getElementById(objID).innerHTML ='<option value="0">123</option>'; return;
+    xmlhttp_sp.onreadystatechange = function() {//Call a function when the state changes.
+    if(xmlhttp_sp.readyState == 4 && xmlhttp_sp.status == 200) {
+        document.getElementById(objID).innerHTML = xmlhttp_sp.responseText;
+       // alert(xmlhttp_sp.responseText);return;
+    }
+    }
+    xmlhttp_sp.send(params);    
+    //xmlhttp_sp.send(null); 
+}
+</script>  
+
+<!--1-->
+
+<script type="text/javascript" src="js/tip.js"></script>  
+
+<!--1-->
+
+<script type="text/javascript" src="js/drag.js"></script>  
+
+ 
+
+</head>
+
+<!--3-->
+
+<body>
+
+<div id="main">
+
+<!--tp,lbnn,navmn,sr-->
+
+<!--Top Pannel-->
+	<div class="top_pannel">
+		<div class="top_navi"><a href="/page.php?page=about" title="About Us">About Us</a> | <a href="/page.php?page=advertise" title="Advertise">Advertise</a> | <a href="#/Feed Back" onclick="javascript:create_foo(300,300);load_page('do_register.php','foo','bugs');" title="Feed Back">Feed Back</a> | <a href="http://translate.google.com/translate?js=y&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=1&amp;eotf=1&amp;u=www.jobs.af&amp;sl=en&amp;tl=fa" title="Jobs.af in Dari" target="_blank">Jobs.af in Dari</a></div>
+		<div class="share">
+		</div>
+		<div class="recruiter_n">
+		 Jobseeker:<a href="register.php" title="Register">Register</a>|<a href="jslogin.php" title="Login">Login</a>
+		</div>
+	</div>
+<!--1-->  
+<!--Logo and ad bannenr-->
+	<div class="hrader_left">&nbsp;</div>
+	<div class="hrader_center">
+		<div class="logo_n"><h1><a href="http://jobs.af" title="Jobs in Afghanistan - Jobs.af"><img src="/images2/logo.jpg" alt="Jobs in Afghanistan - Jobs.af" width="93" height="99"></a></h1></div>
+		<div class="top_banner"><a href="http://www.afs.af/" title="Afghanistan Financial Services" target="_blank"><img src="/images2/ad1.gif" alt="Afghanistan Financial Services" width="412" height="82"></a></div>
+		<div class="top_banner" style="padding-left:3px;"><a href="http://www.jobs.af/page.php?page=trainings" title="Training by ASMED"><img src="/images2/asmed.jpg" alt="Training by ASMED" width="412" height="82"></a></div>
+	</div>
+	<div class="hrader_right">&nbsp;</div>
+<!--2-->
+<!--Navigation Section-->
+<div class="navigation_bg">
+	<dl>
+		<dd><a class="active" href="http://jobs.af/index.php" title="Home">Home</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+		<dd><a href="http://jobs.af/jobsearch.php" title="Search Job">Search Jobs</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+		<dd><a href="http://jobs.af/jobseekers/index.php" title="Job Seekers">Job Seekers</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+		<dd><a href="http://jobs.af/page.php?page=career" title="Career Services">Career Services</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+		<dd><a href="http://jobs.af/page.php?page=trainings" title="Trainings">Trainings</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+		<dd><a href="http://jobs.af/page.php?page=events" title="Events">Events</a></dd>
+		<dd><img src="/images2/navi_specer.jpg" alt="-" width="2" height="29"></dd>
+	</dl>
+	   
+<div class="employer">
+
+		  <a href="http://jobs.af/employers/index.php" class="top_link" title="Employers">Employers Area</a>
+</div>
+</div>
+<!--3-->    
+<!--Search Jobs-->
+	<div class="searchjobs_bg">
+		<div class="searchjobs">SEARCH JOBS</div>   
+		  <form name="search" id="search" method="post" action="http://jobs.af/jobsearch.php">
+			<div class="keyword">
+			  <input name="s_keyword" class="keyword1" id="s_keyword" value="Keyword" maxlength="80" onfocus="javascript:clearText('s_keyword')" onblur="javascript:setText('s_keyword','Keyword')" title="Keyword e.g. Management, Java, Software">
+			</div>
+			<div class="locaton">
+			 <select name="s_location" id="s_location" style="width:110px">
+					   <option value="Location" selected="selected">Location</option>
+					   <option value="Badakhshan">Badakhshan</option><option value="Badghis">Badghis</option><option value="Baghlan">Baghlan</option><option value="Balkh">Balkh</option><option value="Bamian">Bamian</option><option value="Daikondi">Daikondi</option><option value="Farah">Farah</option><option value="Faryab">Faryab</option><option value="Ghazni">Ghazni</option><option value="Ghowr">Ghowr</option><option value="Helmand">Helmand</option><option value="Herat">Herat</option><option value="Jawzjan">Jawzjan</option><option value="Kabul">Kabul</option><option value="Kandahar">Kandahar</option><option value="Kapisa">Kapisa</option><option value="Khost">Khost</option><option value="Kunar">Kunar</option><option value="Kunduz">Kunduz</option><option value="Laghman">Laghman</option><option value="Logar">Logar</option><option value="Nangarhar">Nangarhar</option><option value="Nimruz">Nimruz</option><option value="Nuristan">Nuristan</option><option value="Oruzgan">Oruzgan</option><option value="Paktia">Paktia</option><option value="Paktika">Paktika</option><option value="Panjshir">Panjshir</option><option value="Parwan">Parwan</option><option value="Samangan">Samangan</option><option value="Sar-e Pol">Sar-e Pol</option><option value="Takhar">Takhar</option><option value="Wardak">Wardak</option><option value="Zabul">Zabul</option>
+			  </select>
+			</div>
+			<div class="area">
+			  <select name="s_farea" id="s_farea" style="width:300px">
+					   <option value="" selected="selected">Select Functional Area</option>
+					   <option value="2">Account/Finance</option><option value="3">Administrative</option><option value="19">Agriculture</option><option value="12">Architecture</option><option value="7">Banking</option><option value="24">Cinema/Movie</option><option value="11">Construction</option><option value="6">Consulting</option><option value="30">Economic Growth</option><option value="1">Education</option><option value="21">General</option><option value="13">Government</option><option value="29">Government Advisory</option><option value="17">Health/Medical</option><option value="26">Human Resource</option><option value="28">Internships</option><option value="9">IT - Hardware</option><option value="27">IT - Software</option><option value="14">Legal</option><option value="15">Logistics</option><option value="34">M &amp; E</option><option value="4">Management</option><option value="23">Manufacturing</option><option value="16">Media</option><option value="36">Photography</option><option value="32">Private Sector Dev</option><option value="25">Public Relations</option><option value="35">Research/Survey</option><option value="5">Sales/Marketing</option><option value="18">Security/Safety</option><option value="8">Services </option><option value="10">Telecom/Engineering</option><option value="33">Training</option><option value="22">Transportation</option><option value="20">Travel/Tourism</option><option value="-1">Other</option>
+			  </select>
+			</div>
+			<div class="exp">
+			   <select name="s_exp" id="s_exp" style="width:50px">
+					   <option value="" selected="selected">Exp.</option>
+					   <option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option><option value="5">5</option><option value="6">6</option><option value="7">7</option><option value="8">8</option><option value="9">9</option><option value="10">10</option><option value="11">11</option><option value="12">12</option><option value="13">13</option><option value="14">14</option><option value="15">15</option><option value="16">16</option><option value="17">17</option><option value="18">18</option><option value="19">19</option><option value="20">20</option><option value="21">21</option><option value="22">22</option><option value="23">23</option><option value="24">24</option><option value="25">25</option><option value="26">26</option><option value="27">27</option><option value="28">28</option><option value="29">29</option><option value="30">30</option>
+			   </select>
+			</div>
+			<div class="sort">
+			  <select name="s_sortsource" id="s_sortsource">
+					  <option value="" selected="selected">Sort by</option>
+					  <option value="freshness">Date</option>
+			  </select>
+			</div>
+			<div class="search_button"><a href="#Search Jobs" title="Search Jobs" onclick="javascript:do_it2('search');">Search Jobs</a></div>
+			<input type="hidden" name="searchval" id="searchval" value="1">
+		</form>
+	</div>    
+	
+<!--4-->
+
+<div class="middle" id="middle">
+
+<!--17--> 
+<div class="left">
+	   <h2>Privacy Policy<br></h2>
+		  <div class="line"></div>
+	   <!--1st box start-->
+		  <div>
+			  <p>
+	These days, we all need to be smart about the way we use our own personal data. Your privacy is taken very seriously at Jobs.af. Jobs.af strives to provide the safest possible environment for you to search and apply to jobs. Jobs.af Precautions</p>
+<p>
+	<strong>Overview</strong></p>
+<p>
+	We have created this Privacy Policy to demonstrate our commitment to protecting information you submit. This Privacy Policy only applies to data gathered on the Jobs.af web site (the "Site"), and does not apply to any other information or web site. Please review this Privacy Policy periodically as we may update it from time to time. This Privacy Policy is effective as of January 1, 2010. Each time you visit the Site or provide us with information, you are, by doing so, accepting the practices described in this Privacy Policy at that time. You agree that by using the Site you are expressly and affirmatively consenting to our use and disclosure of the information that you provide, and consenting to receive emails, as described below in this Privacy Policy.</p>
+<p>
+	<strong>Personal Information</strong></p>
+<p>
+	In order to operate the Site in an efficient and effective manner and provide users with information on job postings and services that may be of interest to them, Jobs.af may collect personal information, including contact information (such as an email address), from its users. In addition, this information allows us to provide users with private and secure areas to post and modify their original content on our site (e.g., jobs and resumes). We also automatically track certain information based upon your behavior on the Site and use this information to do internal research on our users' demographics, interests, and behavior to better understand, protect and serve users in general. This information may include the URL that a user has just come from (whether this URL is on our Site or not), the URL a user goes to next (whether this URL is on our Site or not), a user's computer browser information, and their IP address. You agree that Jobs.af may use your personal information to contact you and deliver information to you that, in some cases, is targeted to your interests (such as relevant job postings and services), or provides administrative notices or communications applicable to your use of the Site. By accepting this Privacy Policy, you expressly agree to receive this information. All users should be aware, however, that when they voluntarily display or distribute personal information (such as their email address or resume), that information can be collected and used by others. This may result in unsolicited messages from third parties for which Jobs.af is not responsible. Jobs.af may also disclose specific user information when we determine that such disclosure is necessary to comply with the law, to cooperate with or seek assistance from law enforcement or to protect the interests or safety of Jobs.af or other users of the Site. In addition, personal information we have collected may be passed on to a third party in the event of a transfer of ownership or assets or a bankruptcy of Jobs.af</p>
+<p>
+	<strong>About Cookies</strong></p>
+<p>
+	At Jobs.af, we use cookies only for the protection and convenience of our users. Cookies enable us to serve secure pages to our users without asking them to sign in repeatedly. If a user's system is idle for certain period of time, however, the cookie will expire, forcing the user to sign in again to continue their session. This prevents unauthorized access to the user's information while they are away from their computer. You may have the ability to reset your browser to refuse all cookies or to indicate when a cookie is being sent; however, some Jobs.af features or services may not function properly without cookies. Third-Party Cookies: We use third-party advertising companies to serve ads when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you.</p>
+<p>
+	<strong>Advertising</strong></p>
+<p>
+	We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information about you and your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services of interest to you.</p>
+<p>
+	<strong>What You Should Know</strong></p>
+<p>
+	Jobs.af cannot ensure that all of your private communications and other personal information will never be disclosed in ways not otherwise described in this Privacy Policy. Therefore, although we are committed to protecting your privacy, we do not promise, and you should not expect, that your personal information or private communications will always remain private. As a user of the Site, you understand and agree that you assume all responsibility and risk for your use of the Site, the internet generally, and the documents you post or access and for your conduct on and off the Site.</p>
+<p>
+	<strong>Protect Yourself</strong></p>
+<ul>
+	<li>
+		Some Important Tips To Use When Dealing With Prospective Employers</li>
+	<li>
+		Never provide credit card or bank numbers or monetary transaction of any sort.</li>
+	<li>
+		Be cautious when dealing with contacts outside of Afghanistan.</li>
+	<li>
+		Do not provide any non-work related personal information (i.e. bank account details, credit card number, marital status, etc.) over the phone or online.</li>
+</ul>
+<p>
+	&nbsp;</p>
+<p>
+	<strong>Other Privacy Features On Jobs.af</strong></p>
+<p>
+	You never need to provide data to search for jobs. Logging into Jobs.af is always an optional task for you to take.</p>
+<p>
+	<strong>Post a Resume</strong></p>
+<p>
+	Posting your resume on Jobs.af puts you in front of hundreds of employers with open positions each day. When you post your resume, we automatically create a registration for you using the email address and password that you supply. When you return to the site in the future you will use that same email address and password to access and edit your existing resume.</p>
+
+		  </div>
+	   <!--1st box end-->
+	</div>                 
+<!--9-->
+<!--Middle Right Section-->
+	<div class="right">
+		
+		<h2>New Registration</h2>
+		<div class="line">&nbsp;</div>
+		<ul class="sponsors">  
+			<li class="sponsors_img1"><a href="http://www.jobs.af/register.php" title="New Jobseeker"><img src="/images2/new_jobseeker.jpg" alt="New Jobseeker" width="120" height="41"></a></li>
+			<li class="sponsors_img2"><a href="http://www.jobs.af/emp_register.php" title="New Employer"><img src="/images2/new_employer.jpg" alt="New Employer" width="120" height="41"></a></li>
+		</ul>
+		<h2>Our Sponsors</h2>
+		<div class="line">&nbsp;</div>
+		<ul class="sponsors">
+			<li class="sponsors_img1"><a href="http://www.netlinks.af" title="NETLINKS" target="_blank"><img src="/images2/sponsor1.jpg" alt="NETLINKS" width="120" height="41"></a></li>
+			<li class="sponsors_img2"><a href="http://www.afs.af" title="Afghanistan Financial Services" target="_blank"><img src="/images2/sponsor2.jpg" alt="Afghanistan Financial Services" width="120" height="41"></a></li>
+			<li class="sponsors_img1"><a href="http://www.premc.net" title="PREMC" target="_blank"><img src="/images2/sponsor3.jpg" alt="PREMC" width="120" height="41"></a></li>
+			<li class="sponsors_img2"><a href="http://www.fazilatgroup.com" title="Fazilat Consulting Group" target="_blank"><img src="/images2/sponsor4.jpg" alt="Fazilat Consulting Group" width="120" height="41"></a></li>
+			<li class="sponsors_img1"><a href="http://www.karwan.edu.af" title="Karwan Institute of Higher Education" target="_blank"><img src="/images2/sponsor8.jpg" alt="Karwan Institute of Higher Education" width="120" height="41"></a></li>
+			<li class="sponsors_img2"><a href="http://www.kardan.edu.af" title="Kardan Institute of Higher Education" target="_blank"><img src="/images2/sponsor9.jpg" alt="Kardan Institute of Higher Education" width="120" height="41"></a></li>
+			<li class="sponsors_img1"><a href="http://www.kgc.com.af" title="Kabul Group Consulting" target="_blank"><img src="/images2/sponsor7.jpg" alt="Kabul Group Consulting" width="120" height="41"></a></li> 
+			<li class="sponsors_img2"><a href="http://www.ajeer.edu.af" title="Ajeer Higher Educational Institute" target="_blank"><img src="/images2/sponsor10.jpg" alt="Ajeer Higher Educational Institute" width="120" height="41"></a></li> 
+		</ul>
+		
+		<!--jobtstatistics-->    
+	<h2>Website Statistics</h2>
+			<div class="line">&nbsp;</div>
+			<div><img src="/images2/job_tools_top.jpg" alt="-" width="255" height="10"></div>
+			<div class="job_tools_middle">
+			<ul class="job_tools">
+			<li> Total Jobseekers:&nbsp;<strong>3,889</strong></li>
+			<li>Total Employers:&nbsp;<strong>382</strong></li>
+			<li>Total Job Ads:&nbsp;<strong>1,208</strong></li>
+			</ul>
+			</div>
+		<div style="padding-bottom:10px;"><img src="/images2/job_tools_bottom.jpg" alt="-" width="255" height="10"></div>
+	
+		<!--10-->
+<div class="jobseeker">Jobseeker Login</div>
+   <form id="loginform" name="loginform" method="post" action="/php/LoginAuth.php">
+		<div class="jobseeker_middle">
+		<div class="user_name">Username:</div>
+		<div class="s_box"><input name="n_username" type="text" id="n_username" class="s_box2" onkeypress="javasript:if (window.event.keyCode==13) do_it2('loginform');" title="Username"></div>
+		<div class="user_name">Password:</div>
+		<div class="s_box"><input name="p_password" type="password" id="p_password" class="s_box2" onkeypress="javasript:if (window.event.keyCode==13) do_it2('loginform');" title="Password"></div>
+		<div class="forget_password">
+			<span class="tx_blue"><a href="#/Forgot Password" title="Forgot Password" onclick="javascript:create_foo(300,300);load_page('do_register.php','foo','changepwd');">Forgot Password?</a></span><br>
+			<span class="tx_blue"><a href="/register.php" title="New User">New User?</a></span>
+		</div>
+		<div class="go"><a href="#/Login" onclick="javascript:do_it2('loginform')" title="Login">Go</a></div>
+		<input type="hidden" name="_VID" id="_VID" value="oZCznY63lJiGppq7jqSPuqWVo5mkrqyZtqCdg6uKt46elbisjpyUmaysnLun">
+		<input type="hidden" name="_SID" id="_SID" value="iJGvqI/FoqaWpo8=">
+		<input type="hidden" name="_RID" id="_RID" value="eYKVkIGuiYY="> 
+		</div>
+   </form>
+<div style="padding-bottom:10px;"><img src="/images2/jobseeker_bottom.jpg" alt="-" width="252" height="7"></div>
+
+		
+		<h2>Top Site Keywords</h2>
+			<div class="line">&nbsp;</div>
+			<div><img src="/images2/job_tools_top.jpg" alt="-" width="255" height="10"></div>
+			<div class="job_tools_middle">
+			<div style="padding-left:8px; padding-right:8px;"><strong style="font-size:14px;">jobs in afghanistan</strong>, afghan jobs, <strong style="font-size:14px;">jobs</strong>, kabul, afghanistan, employers, recruitment</div>
+			</div>
+		<div style="padding-bottom:10px;"><img src="/images2/job_tools_bottom.jpg" alt="-" width="255" height="10"></div>
+		
+		<h2>Jobs in Afghanistan Links</h2>
+			<div class="line">&nbsp;</div>
+			<div><img src="/images2/job_tools_top.jpg" alt="-" width="255" height="10"></div>
+			<div class="job_tools_middle">
+			<div class="tx_blue" style="padding-left:8px; padding-right:8px;"><a href="http://www.search-jobs-in-afghanistan.com" title="Jobs in Afghanistan Blog" target="_blank">Jobs.af Blog</a><br>
+			 <a href="http://www.delicious.com/jobsinafghanistan" title="Jobs in Afghanistan Delicious Bookmarks" target="_blank">Jobs in Delicious</a> <br>
+			 <a href="http://www.twitter.com/afgjobs" title="Follow Jobs in Afghanistan On Twitter" target="_blank">Jobs on Twitter</a><br>
+			 <a href="http://www.facebook.com/pages/Jobs-in-Afghanistan-by-Jobsaf/220582762191" title="Follow Jobs in Afghanistan On Facebook" target="_blank">Jobs on Facebook</a>
+			 
+			 </div>
+			</div>
+		<div style="padding-bottom:10px;"><img src="/images2/job_tools_bottom.jpg" alt="-" width="255" height="10"></div>
+		
+	  <script type="text/javascript"><!--
+			google_ad_client = "pub-8379974179069755";
+			/* 250x250, created 1/26/10 */
+			google_ad_slot = "9727336316";
+			google_ad_width = 250;
+			google_ad_height = 250;
+			//-->
+			</script>
+			<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+		</script>
+			
+	
+	<!--end of right menu-->
+	
+ </div>  
+	
+<!--5-->
+
+</div>
+
+<!--5-->
+
+</div>
+
+<!--4-->
+<!--Footer Section-->
+<div class="footer">
+  <div class="footer_inner">
+	<div class="footer_inner2">
+	  <div class="footer_left"> <span class="footer_header">WHAT IS JOBS.AF</span><br><br>
+		<div class="footer_spacer"></div>
+		<div align="justify"><span class="footer-iner_text"><strong>Jobs.af is Afghanistan's first one-stop jobs portal for employers and jobseekers to connect within the site's comprehensive database. Jobs.af presents a complete range of recruitment and career planning solutions by offering a fast and easy method for jobseekers to find jobs for free and employers to find quality candidates cost effectively. Jobs.af is the ideal place for employers to advertise their job vacancies and jobseekers to find jobs. <br>
+		  <br>
+		  Get the latest job offers announced in Afghanistan by UN, Government, International development agencies, Aid Agencies, Private Companies, MNCs in different industries.</strong></span> </div>
+	  </div>
+	  <div class="footer_left1"> <span class="footer_header">QUICK LINKS</span><br><br>
+		<div class="footer_spacer"></div>
+		<div class="footer_middle"><a href="http://www.jobs.af">Home</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/jobseekers/index.php">Job Seekers</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/employers/index.php">Employers</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=about">About Us</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=newsletter">Newsletter</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=advertise">Advertise</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=contact">Contact Us</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=faq">FAQ</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+		<div class="footer_middle"><a href="/page.php?page=resource">Resources</a></div>
+		<a href="#" class="fl"><img src="images2/design_31.gif" alt=""></a>
+		<div class="footer_spacer2"></div>
+	  </div>
+	  <div class="footer_left2"> <span class="footer_header">AFFILIATES</span>
+		<div class="footer_spacer"></div>
+		<span class="footer_middle"><a href="http://www.netlinks.af">NETLINKS Ltd<br>
+	   
+	   </a></span> <br>
+	   <span class="footer_middle"><a href="http://www.afs.af" target="_blank">Afghanistan Financial Services<br>
+	   
+	   </a></span> <br>
+	   <br> 
+	  </div>
+		<div class="footer_left2"> <span class="footer_header">Jobs.af Sites</span>
+		  <div class="footer_spacer"></div>
+		<span class="footer_middle"><a href="http://www.jobsinkabul.com">http://www.jobsinkabul.com</a><br>
+		<a href="http://www.unjobsinafghanistan.com">http://www.unjobsinafghanistan.com</a><br>
+		<a href="http://www.recruitment-afghanistan.com">http://www.recruitment-afghanistan.com</a><br>
+		<a href="http://www.afghanjobsearch.net">http://www.afghanjobsearch.net</a><br>
+		<br>
+		</span> </div>
+		<div class="footer_left2"> <span class="footer_header">TERMS &amp; CONDITIONS</span>
+		<div class="footer_spacer"></div>
+		<span class="footer_middle">Copyright © 2010 Jobs.af<br>
+		A Division of <a href="http://www.netlinks.af" target="_blank">NETLINKS</a> Ltd. <br>
+		<br>
+		All Rights Reserved<br>
+		<br>
+		<a href="/page.php?page=terms">Terms of Use</a> | <a href="/page.php?page=privacy">Privacy Policy</a><br>
+		<br>
+		</span> </div>
+	</div>
+  </div>
+</div>
+<!--6-->
+ 
+
+
+
+
+</body></html>
