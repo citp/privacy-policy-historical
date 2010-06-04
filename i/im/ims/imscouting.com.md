@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imscouting.com privacy policy that was archived on 2009-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091022062331id_/http%3A//www.imscouting.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imscouting.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604053649id_/http%3A//www.imscouting.com/privacy-policy) for the most accurate reproduction.*
 
-# IMScouting - Every player, anywhere | e-Scouting for professionals | Professionals Player information
+# IMScouting.com
 
 Here at IMScouting.com, we are committed to safeguarding your privacy. Before submitting any information to the IMScouting Ltd., we encourage you to read the following Privacy Policy and learn how we will treat your personal information
 
@@ -8,9 +8,9 @@ By using any part of the IMScouting.com website, you consent to the collection a
 
 ##### Collecting your Personal Information
 
-During your visit to IMScouting.com, you will be asked to provide us with information that personally identifies you or allows us to contact you (hereinafter: “Personal Information”). Generally, this information will be requested upon registering and creating your account or before posting to the forum. This Personal Information may vary but will typically include your first and last name, e-mail address, address (country, city) and phone number. You will also be requested to provide a unique member name and password to access and use certain features of the site. Also, in case you are purchasing a member package, a credit card number (including CID number) and expiration date may be required.
+During your visit to IMScouting.com, you will be asked to provide us with information that personally identifies you or allows us to contact you (hereinafter: "Personal Information"). Generally, this information will be requested upon registering and creating your account or before posting to the forum. This Personal Information may vary but will typically include your first and last name, e-mail address, address (country, city) and phone number. You will also be requested to provide a unique member name and password to access and use certain features of the site. Also, in case you are purchasing a member package, a credit card number (including CID number) and expiration date may be required.
 
-IMScouting Ltd. may also collect non-personally identifiable information, including traffic statistics regarding page views; other technical information, including users’ Internet Protocol (IP) address and standard web log information; and supplemental information from third parties.
+IMScouting Ltd. may also collect non-personally identifiable information, including traffic statistics regarding page views; other technical information, including users' Internet Protocol (IP) address and standard web log information; and supplemental information from third parties.
 
 ##### Use of your Personal Information
 
@@ -34,11 +34,11 @@ You also have a significant role in protecting your Personal Information. No one
 
 ##### Use of Cookies
 
-IMScouting Ltd. uses “cookie” technology and users’ IP addresses to customize and enhance your online experience on the site. Cookies are pieces of information transferred to your hard drive when you visit our site that automatically identify your browser to our server whenever you interact with our site. Such technology is a common feature of many web sites and is necessary in order for certain features of our site to function properly or in order to provide an online service to you (for instance, site registration). You may customize the browser settings of your computer to notify you when a browser cookie is sent or to refuse browser cookies altogether. Please check your browser for instructions on how to make these adjustments.
+IMScouting Ltd. uses "cookie" technology and users' IP addresses to customize and enhance your online experience on the site. Cookies are pieces of information transferred to your hard drive when you visit our site that automatically identify your browser to our server whenever you interact with our site. Such technology is a common feature of many web sites and is necessary in order for certain features of our site to function properly or in order to provide an online service to you (for instance, site registration). You may customize the browser settings of your computer to notify you when a browser cookie is sent or to refuse browser cookies altogether. Please check your browser for instructions on how to make these adjustments.
 
 ##### Changes to this Policy
 
-IMScouting Ltd. will occasionally update this Privacy Policy. When we do, we will also revise the “Last Updated” date at the top of the Privacy Policy. If we make any material changes to this Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Your continued use of IMScouting Ltd.’s website following the posting of changes to this Policy will signal your acceptance of such changes.
+IMScouting Ltd. will occasionally update this Privacy Policy. When we do, we will also revise the "Last Updated" date at the top of the Privacy Policy. If we make any material changes to this Policy, those changes will be posted here so that you are always aware of what personal information is collected, how that information is used, and under what circumstances that information may be disclosed. Your continued use of IMScouting Ltd.'s website following the posting of changes to this Policy will signal your acceptance of such changes.
 
 ##### Contact
 
