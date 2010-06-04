@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202152351id_/http%3A//www.hofmag.com/content/view/49) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hofmag.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605010534id_/http%3A//www.hofmag.com/content/view/49) for the most accurate reproduction.*
 
 # Privacy Policy
 
