@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129231512id_/http%3A//www.movieweb.com/features/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movieweb.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604083700id_/http%3A//www.movieweb.com/notice/privacy) for the most accurate reproduction.*
 
-# MovieWeb.com Privacy Policy
+# Privacy Policy - MovieWeb
 
 MovieWeb, Inc. has created this privacy statement to describe our firm commitment to your privacy. The following discloses our information gathering and dissemination practices for this website: "MovieWeb.com" at [http://www.movieweb.com](http://www.movieweb.com/).  We seek to protect your private information so that you have a pleasurable viewing experience on our Web site. We will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. Please return to this page from time to time, as we will be updating this statement as our services continue to grow. We welcome and encourage questions, comments, and suggestions. Please contact us at [webmaster@movieweb.com](mailto:webmaster@movieweb.com) with any questions. 
 
@@ -14,11 +14,15 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 ## How We Use Cookies
 
-We use cookies (1) to estimate the number of visitors to our Web site, (2) to measure general traffic patterns, and (3) to personalize information and services we provide to you on the site.
+We use cookies 
 
-Companies that place ads on the MovieWeb.com Web site — including, but not limited to Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media Advertising.com, DoubleClick and/or others — may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the MovieWeb.com site may not function properly if your browser refuses our cookies.
+  * (1) to estimate the number of visitors to our Web site
+  * (2) to measure general traffic patterns, and 
+  * (3) to personalize information and services we provide to you on the site.
 
-We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles. 
+
+
+Companies that place ads on the MovieWeb.com Web site — including, but not limited to Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media Advertising.com, DoubleClick and/or others — may also use their own cookies to help determine the frequency and placement of particular ads. Your browser controls how cookies are used and can be set to not allow them. However, it is possible that some parts of the MovieWeb.com site may not function properly if your browser refuses our cookies. We may, from time to time, use cookies to store your zip code and email address for use with certain current or future services such as e-mail update list(s), showtimes e-mail services, local showtimes profiles, theater and movie preference profiles. 
 
 ## Cookie Notification and Disabling
 
@@ -35,21 +39,15 @@ MovieWeb.com collects personally identifiable information when you (1) subscribe
 
 ## How We Use Personally Identifiable Information
 
-MovieWeb.com uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you. 
-
-MovieWeb.com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. MovieWeb.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other click-stream data. 
+MovieWeb.com uses your personally identifiable information to personalize your experience on our Web site, to deliver products and/or services ordered and/or purchased by you and to contact you. MovieWeb.com also compiles aggregate data from all of our customers to prepare internal reports about which pages are popular, how many total unique users visit our site, and different traffic patterns. MovieWeb.com does not combine your personally identifiable information with information about pages visited, purchases made, or any other click-stream data. 
 
 ## Who We Disclose Personally Identifiable Information To
 
-MovieWeb.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. MovieWeb.com may disclose some personal information to outside companies who help MovieWeb.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. 
-
-The MovieWeb.com Web site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the MovieWeb.com Web site. MovieWeb.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. 
-
-MovieWeb.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to MovieWeb.com or others. 
+MovieWeb.com will not sell, rent, trade, or disclose your personally identifiable information to anyone except as explained in this policy. MovieWeb.com may disclose some personal information to outside companies who help MovieWeb.com with the administration and delivery of newsletters, promotional games, trivia contests, and sweepstakes. For example, a company who administers a sweepstakes for us may use your e-mail address to update you on your status in the sweepstakes. Or, our newsletters may be distributed by another company that will use your e-mail or shipping address for delivery. The MovieWeb.com Web site contains links to other Web sites. Although we do not provide any personally identifiable information to these companies, we cannot guarantee your privacy once you leave the MovieWeb.com Web site. MovieWeb.com is not responsible for the privacy policies, practices, or content of Web sites with links on our site. MovieWeb.com may also disclose your personal information to law enforcement personnel, government officials, or others when we, in our sole discretion, believe that disclosure is necessary to prevent violations of the law, injury to person or property, or any harm to MovieWeb.com or others. 
 
 ## Communication
 
-We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide MovieWeb.com users free opt-in updates about the MovieWeb.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from MovieWeb.com. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to [webmaster@movieweb.com](mailto:webmaster@movieweb.com%20). 
+We collect personally identifiable information such as first and last name and email address when you sign up for our email list(s). These email services provide MovieWeb.com users free opt-in updates about the MovieWeb.com site and movie information and/or content. We may also request secondary information, such as your movie preferences, which we will use to help personalize the site for you in the future. We may also on occasion send promotional and informational mail to you from MovieWeb.com. You may opt-out of receiving these secondary communications by sending an email with "remove" in the subject line to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). 
 
 ## Demographic Information
 
@@ -65,23 +63,19 @@ MovieWeb.com, both using its own systems and the systems of others (such as Goog
 
 ## Sharing of Information
 
-MovieWeb.com is engaged in "powered by" relationships as more fully described herein. MovieWeb.com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. 
-
-We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information. 
+MovieWeb.com is engaged in "powered by" relationships as more fully described herein. MovieWeb.com does not share any personally identifiable information with third-parties, other than its partners as herein described, and will otherwise only share information in aggregate form. We use outside ad companies to display ads on our site. These ads may contain cookies. While we use cookies in other parts of our Web site, cookies from banner ads are collected by advertising networks, and we do not have access to this information. 
 
 ## Third Party Advertising
 
-We use third-party advertising companies to serve ads when you visit our Web site. �Specifically, this site uses the services of a variety of advertisers, rep firms and networks, including but not limited to: Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media, DoubleClick and/or other various independent advertisers and/or networks for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. More particularly, the third-party advertising technology that we and our advertising partners use on this Web site uses information derived from your visits to this site to target advertising within this site. �In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites.� In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. �These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here http://www.networkadvertising.org/optout_nonppii.asp.� In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize certain of our our online advertising. �Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising.� To "opt-out," of the use of such Web beacons used by ad providers utilizing Doubleclick/Boomerang, please click here. http://www.doubleclick.com/privacy/index.aspx. 
+We use third-party advertising companies to serve ads when you visit our Web site. Specifically, this site uses the services of a variety of advertisers, rep firms and networks, including but not limited to: Gorilla Nation, MTVN, Brightroll, Adconion, Google, Tribal Fusion, Husky Media, DoubleClick and/or other various independent advertisers and/or networks for serving and/or targeting of ads, promotions and other marketing messages when you visit our Web site. More particularly, the third-party advertising technology that we and our advertising partners use on this Web site uses information derived from your visits to this site to target advertising within this site. In addition, our advertisers may use other third-party advertising technology to target advertising on this site and other sites. In the course of advertisements being served to you, a unique third-party cookie or cookies may be placed your browser. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). In addition, we use Web beacons, provided by third-party advertising companies, to help manage and optimize certain of our our online advertising. Web beacons enable us to recognize a browser's cookie when a browser visits this site, to learn which banner ads bring users to our Web site and to deliver more relevant advertising. To "opt-out," of the use of such Web beacons used by ad providers utilizing Doubleclick/Boomerang, please [click here.](http://www.doubleclick.com/privacy/index.aspx)
 
 ## Security
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control.   
-Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. MovieWeb periodically reviews web security and ensures that all policies and practices are adhered to within the company. 
+This site has security measures in place to protect the loss, misuse and alteration of the information under our control. Employees are notified in staff meetings of security policies and practices regularly. Access to data limited and employees obtain access to log files by a secured password. MovieWeb periodically reviews web security and ensures that all policies and practices are adhered to within the company. 
 
 ## Children
 
-**Our Policy For Guests Under Age 18**   
-MovieWeb.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to MovieWeb.com. 
+**Our Policy For Guests Under Age 18** MovieWeb.com is committed to protecting the privacy of children. We encourage parents and guardians to explore the Internet with their children. Visitors under age 18 should not submit any personally identifiable information to MovieWeb.com. 
 
 ## Links
 
@@ -89,7 +83,7 @@ MovieWeb.com site contains links to other web sites. Please note that when you c
 
 ## Correct/Update or Cancel Subscription
 
-Users can change their information with MovieWeb.com by emailing a request to [webmaster@movieweb.com](mailto:webmaster@movieweb.com%20). If you wish to unsubscribe from any MovieWeb mailing list, please email [webmaster@movieweb.com](mailto:webmaster@movieweb.com%20) using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message. 
+Users can change their information with MovieWeb.com by emailing a request to [webmaster@movieweb.com](mailto:webmaster@movieweb.com). If you wish to unsubscribe from any MovieWeb mailing list, please email [webmaster@movieweb.com](mailto:webmaster@movieweb.com) using the e-mail address you would like removed and type “UNSUBSCRIBE” as the subject of the message. 
 
 ## Notification of Changes
 
@@ -97,6 +91,4 @@ MovieWeb.com privacy practices may change periodically. MovieWeb.com will notify
 
 ## Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact:   
-MovieWeb  
-Email: [webmaster@movieweb.com](mailto:webmaster@movieweb.com)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you may contact: MovieWeb Email: [webmaster@movieweb.com](mailto:webmaster@movieweb.com)
