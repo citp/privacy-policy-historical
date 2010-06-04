@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004024157id_/http%3A//www.copyright.com/ccc/viewPage.do%3FpageCode%3Di3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the copyright.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604134716id_/http%3A//copyright.com/viewPage.do%3FpageCode%3Di3) for the most accurate reproduction.*
 
 # Privacy Policy - Copyright Clearance Center
 
-Effective: 05/12/07
+Effective: 06/19/09
 
 By using the www.copyright.com Web site or any other Copyright Clearance Center (CCC) Web-based service, you agree to the terms of the CCC Online Privacy Policy, as outlined below. 
 
