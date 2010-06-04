@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsallgay.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227083511id_/http%3A//www.itsallgay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsallgay.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604033741id_/http%3A//www.itsallgay.com/privacy) for the most accurate reproduction.*
 
 # Its All Gay
 
@@ -10,7 +10,7 @@
 
 Your right to privacy is important to us
 
-Our third party licensors are fully registered under the Data Protection Act 1998 and aim to comply with all the protection the Act affords to you. Further information on the Act is on the internet at www.informationcommissioner.gov.uk. The data protection registration is held under the name of Mash&New Limited. Under the Data Protection Act 1998, we have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
+Our third party licensors are fully registered under the Data Protection Act 1998 and aim to comply with all the protection the Act affords to you. Further information on the Act is on the internet at www.informationcommissioner.gov.uk. The data protection registration is held under the name of GLBT Limited. Under the Data Protection Act 1998, we have a legal duty to protect any personal information we collect from you. Save for information being passed on between us and our third party licensors, we do not pass or sell on your details to any third party unless you give us permission to do so or the law requires/permits it. 
 
 #### User Provided Information -
 
