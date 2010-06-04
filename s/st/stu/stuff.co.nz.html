@@ -1,0 +1,1485 @@
+<!--The following is the downloaded HTML source of the stuff.co.nz privacy policy that was archived on 2010-06-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100604230807id_/http%3A//www.stuff.co.nz/about-stuff/legal/25044/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+  <!-- section_header -->
+<meta name="verify-v1" content="RazNiYjuvNuEsMeFXxfR9l9cDZIKxcq2VjQZA25CHgM=">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
+
+<title>Privacy Policy - legal - about-stuff | Stuff.co.nz</title>
+<meta name="robots" content="noarchive">
+    <meta name="description" content="This Privacy Policy applies to your use of the Stuff website www.stuff.co.nz. It applies to use by both visitors to the site and all customers who use any goods, products or services that we provide on or through the Site including when you register for My Stuff services such as emails; newsletters, updates and offers of products.">
+    <meta name="keywords" content="stuff, latest, breaking, new zealand, nz, world, news, sport, sports, weather, forecast, forecasts, business, entertainment, science, environment, polities, newspaper, newspapers">
+
+<link href="http://static.stuff.co.nz/css/all.min.css" rel="stylesheet" type="text/css" media="screen">
+<link href="http://static.stuff.co.nz/css/print.min.css" rel="stylesheet" type="text/css" media="print">
+<link rel="apple-touch-icon-precomposed" href="http://static.stuff.co.nz/images/apple-touch-icon-precomposed.png">
+<script type="text/javascript">
+    var JavaScriptCSS = document.createElement('link');
+    JavaScriptCSS.setAttribute('href', 'http://static.stuff.co.nz/css/javascript.min.css');
+    JavaScriptCSS.setAttribute('rel', 'stylesheet');
+    JavaScriptCSS.setAttribute('type', 'text/css');
+    document.getElementsByTagName('head')[0].appendChild(JavaScriptCSS);
+</script><link href="http://static.stuff.co.nz/css/javascript.min.css" rel="stylesheet" type="text/css">
+
+<link href="http://static.stuff.co.nz/css/business.min.css" rel="stylesheet" type="text/css">
+
+<!--[if IE]>
+  <link rel="stylesheet" type="text/css" href="http://static.stuff.co.nz/css/ie.min.css" />
+<![endif]-->
+
+<script src="http://static.stuff.co.nz/js/site-all.min.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+function thickboxDone() {
+    TB_remove();
+    location.reload(1);
+}
+</script>
+
+    <link rel="shortcut icon" href="http://static.stuff.co.nz/781/3251781.ico">
+
+<link rel="alternate" type="application/rss+xml" title="Stuff.co.nz - About Stuff" href="http://www.stuff.co.nz/rss/about-stuff/legal">
+
+<!-- /section_header -->
+
+  <!-- node_header -->
+
+<link rel="image_src" href="http://static.stuff.co.nz/1234741430/368/1381368.gif"> 
+<!-- /node_header -->
+
+<script type="text/javascript">//<![CDATA[
+
+//Below functions are helper ones for maintaining adspaces
+
+//expands special offer content
+jQuery.expand = function(adpos){
+
+$('#ad' + adpos).css("display","block");
+
+};
+
+//Takes a iframe id & collapses it for when there is no advert to show
+jQuery.collapse = function(theIframe){
+
+$('#iframe_' + theIframe).css("display","none");
+
+};
+
+//If there is an ad to serve then we want to show the 'ad feedback' link
+//Clicks through to a feedback form on that particular advert
+jQuery.showWrapper = function(theWrapper){
+$('#feedback_' + theWrapper).css("display","inline");
+}
+
+// Cache-busting and pageid values for the ad
+random = Math.round(Math.random() * 10000000000);
+if (!pageNum) var pageNum = Math.round(Math.random() * 10000000000);
+
+var ad_area_code = "s.stuff.aboutstuff.legal";
+var ad_domain = "www.stuff.co.nz";
+
+function loadHserverAd(strDimension,strPos,width,height){
+   //Check if there isn't already an ad piece of code in there - search for instance of iframe_strPos
+   if( ($('#ad' + strPos + ':has(#iframe_' + strPos + ')').length < 1 )){
+      adserver = "http://inl.adbureau.net";
+      var target = "/site=s/area=" + ad_area_code + "/aamsz=" + strDimension + "/POS=" + strPos  + "/SOURCEDOMAIN=" + ad_domain;
+
+        target = target + "/KEYWORD=" + escape("Policy+Privacy");
+
+      var adpageNum = pageNum;
+
+      var random = Math.round(Math.random() * 10000000000);
+      $('#ad' + strPos).append('<IFRAME ID ="iframe_' + strPos + '" SRC="'+adserver+ '/hserver/acc_random='+random + target + '/pageid=' + adpageNum + '/?http://www.stuff.co.nz/about-stuff/legal/25044/privacy-policy' + '" NORESIZE SCROLLING=NO HSPACE=0 VSPACE=0 FRAMEBORDER=0 MARGINHEIGHT=0 MARGINWIDTH=0 WIDTH=' + width + ' HEIGHT=' + height + ' allowTransparency="true"><SCRIPT SRC="' + adserver + '/jnserver/acc_random=' + random + target + '/pageid=' + adpageNum + '"></SCR' + 'IPT></IFRAME>');
+   }
+}
+
+function renderBserverAd(strPos, aambTag) {
+    var divName = "ad" + strPos;
+    var invDiv = 'INV' + divName;
+    var content = eval(aambTag);
+    content.replace(/<\/?(?:html|body|head)\/?>/g, '');
+    var holder = $('<div id="' + invDiv + '"></div>');
+    holder.html(content);
+    $('#' + divName).append(holder);
+}
+
+function relocateAd(iframeObj, divName) { 
+    var iframeDoc, 
+    allScripts; 
+    iframeDoc = iframeObj.contentWindow.document;
+
+    allScripts = iframeDoc.getElementsByTagName('script'); 
+
+    for (s = 0; s < allScripts.length; s++) 
+    if (allScripts[s].src) 
+    allScripts[s].src = ''; 
+    document.getElementById(divName).insertAdjacentElement('beforeEnd', iframeDoc.getElementById('adDiv')); 
+}
+
+function rank_sort (a, b) {
+    var ra = a.rank;
+    var rb = b.rank;
+
+    if ( rb == null ) return -1;
+    if ( ra == null ) return  1;
+
+    return ra - rb;
+}
+
+var hserver_ads = [];
+function PushHserverAd(id, rank, width, height, aamsz) {
+    hserver_ads.push( { id: id,
+                        rank: rank,
+                        width: width,
+                        height: height,
+                        aamsz: aamsz } );
+}
+function RenderHserverAds() {
+    hserver_ads.sort(rank_sort);
+    for (var i = 0; i < hserver_ads.length; i++) {
+        var ad = hserver_ads[i];
+        loadHserverAd( ad.aamsz, ad.id, ad.width, ad.height );
+    }
+}
+
+var bserver_ads = [];
+function PushBserverAd(id, rank, width, height, aamsz) {
+    bserver_ads.push( { id: id,
+                        rank: rank,
+                        width: width,
+                        height: height,
+                        aamsz: aamsz } );
+}
+
+function SetupBserverAds(){
+    if (bserver_ads.length == 0) return;
+
+    var aamRnd = Math.round(Math.random() * 100000000000);
+
+    // Adserver URL
+    adserver = "http://inl.adbureau.net/bservers";
+
+    // Ad tag targeting values which will be appended to each ad request section in the bserver ad call
+
+    var allAdTags = "/AAMALL/acc_random=" + aamRnd + "/pageid=" + pageNum + "/site=s/area=" + ad_area_code + "/SOURCEDOMAIN=" + ad_domain;
+
+      allAdTags = allAdTags + "/KEYWORD=" + escape("Policy+Privacy");
+
+    //loop through adArr with all the ad call strings provided
+    bserver_ads.sort(rank_sort);
+
+    var adStr = '';
+    var tag_id = 0;
+    for (var i=0; i<bserver_ads.length; i++) {
+        var ad = bserver_ads[i];
+        ad.tag = "AAMB" + tag_id++;
+        eval(ad.tag + ' = 0;');
+        var code = "/" + ad.tag + "/aamsz=" + ad.aamsz + "/POS=" + ad.id;
+        adStr = adStr + code;
+    }
+
+    //document.write('<SCR' + 'IPT SRC="' + adserver + allAdTags  + adStr + '?" type="text/JavaScript" language="JavaScript">');
+    //document.write('</SCR' + 'IPT>');
+    $('body').append('<SCR' + 'IPT SRC="' + adserver + allAdTags + adStr + '?" type="text/JavaScript" language="JavaScript"></SCR' + 'IPT>');
+
+}
+function RenderBserverAds() {
+    if (bserver_ads.length == 0) return;
+
+    if (eval(bserver_ads[0].tag)) {
+        for (var i = 0; i < bserver_ads.length; i++) {
+            var ad = bserver_ads[i];
+            renderBserverAd(ad.id, ad.tag);
+        }
+        bserver_ads = [];
+    } else {
+        setTimeout(RenderBserverAds, 1000);
+    }
+}
+//]]></script> 
+
+</head>
+<body>
+
+  <div id="trademenav"><div id="trademenav_left"><ul><li><a href=" http://www.stuff.co.nz/">Stuff</a></li><li>|</li><li><a href=" http://www.trademe.co.nz/">Trade Me</a></li><li>|</li><li><a href=" http://www.findsomeone.co.nz/">FindSomeone</a></li><li>|</li><li><a href=" http://www.oldfriends.co.nz/">Old Friends</a></li><li>|</li><li><a href=" http://www.holidayhouses.co.nz/">Holiday Houses</a></li><li>|</li><li><a href=" http://www.travelbug.co.nz">Hotels &amp; Motels</a></li></ul></div><div id="trademenav_right" style="width:275px;"><div id="adTOPPIXEL" style="width:1px;Height:1px;float:right;"> <script>$(function () {PushHserverAd('TOPPIXEL', 1, 1, 1, '1x1');}); </script> </div><div id="adTOPSTRIP" class="top_corner_ad" style="width:275px;"> <script>$(function () {PushBserverAd('TOPSTRIP', 6, 275, 23, '275x23_TOPSTRIP');}); </script> </div></div></div>
+
+<div id="container">
+
+<!-- +node_landing+ -->
+
+<!-- Masthead -->
+
+<!-- components/masthead story/node -->
+<div id="pagetop">
+
+    <div id="logo">
+
+        <a href="/">
+
+<img src="http://static.stuff.co.nz/1235693074/046/1745046.gif" alt="Stuff.co.nz" border="0">
+
+        </a>
+
+        <div id="sectionlogo">
+            <a href="/about-stuff/legal">
+
+<img src="http://static.stuff.co.nz/1235697773/128/1745128.gif" alt="Stuff.co.nz" border="0">
+
+            </a>
+        </div><!-- end sectionlogo-->
+
+    </div><!-- end logo-->
+    <div id="top_ad">
+
+  <div class="" style="" id="adTOPBANNER">
+
+<span class="ad_feedback" id="feedback_TOPBANNER">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=TOPBANNER&amp;adsize=300x250&amp;area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushHserverAd('TOPBANNER', 1, 760, 120, '760x120');
+});
+//-->
+</script>
+
+    </div><!--end top_ad-->
+</div><!--pagetop-->
+
+<!-- Nav Bar -->
+<!-- Nav Bar -->
+
+<div id="nav" class="mbluenav">
+  <div id="nav_top">
+<div class="nav_items">
+
+  <ul>
+
+      <li><a href="/" class="prev_nav_item">Stuff Home</a></li>
+
+        <li class="mid_nav_item"><a href="/about-stuff">About&nbsp;Stuff</a></li>
+
+      <li class="current_nav_item">
+        <a href="/about-stuff/legal">Legal</a>
+        <span class="nav_right"></span>
+      </li>
+
+  </ul>
+</div>
+
+<div id="search_box">
+  <form action="/searchresults" id="cse-search-box">
+  <input name="Search Site" type="submit" class="search_box_button" value="Search Site">
+
+  <input type="hidden" name="cof" value="FORID:9">
+
+  <input type="hidden" name="cx" value="006730714154542492986:oh6vl0ybuqy">
+
+  <input type="hidden" name="ie" value="UTF-8">
+
+  <input type="text" name="q" size="31" id="search_box_text">
+  </form>
+  <div id="welcome_user">Kia ora, <strong class="username"><noscript>Guest</noscript></strong>
+    <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
+    <span id="logged_in" class="account_only hide">
+      [<a href="/settings">Settings</a>] [<a href="/logout">Logout</a>]
+    </span> 
+    <span id="logged_out" class="guest_only hide">
+      [<a class="thickbox" onclick="" title="Sign in" href="/login/?KeepThis=true&amp;TB_iframe=true&amp;height=210&amp;width=429"> sign in</a>]
+    </span>
+  </div>
+</div>
+
+  </div>  
+  <div id="nav_bottom">
+<div id="nav_bottom_left">
+  <ul>
+
+        <li><a href="/about-stuff/legal/25044/privacy-policy">Privacy Policy</a></li>
+
+        <li><a href="/about-stuff/legal/1513434/Terms-and-Conditions">Terms &amp; Conditions</a></li>
+
+        <li><a href="/about-stuff/legal/1513458/Terms-and-Conditions-for-Comments">Terms and Conditions for Comments</a></li>
+
+  </ul>
+</div>
+<div id="nav_bottom_right">
+
+</div>
+
+  </div>
+</div>
+
+<div id="content" class="story_landing">
+
+  <div id="left_col">
+
+<!-- +normal_story_landing+ -->
+<!-- google_ad_section_start(name=storyheadline) --> 
+<h1>Privacy Policy 
+
+</h1>
+<!-- google_ad_section_end(name=storyheadline) --> 
+<h2>
+
+</h2>
+<span class="storycredit">
+
+</span>
+<div id="toolbox">
+    <div class="greybox_borderleft"></div>
+    <div class="greybox_borderright"></div>
+    <div class="toolbox_date">Last updated 00:00 01/01/2009</div>
+    <div class="toolbox_item"><a href="#share" class="share_icon">Share</a></div>
+    <div class="toolbox_item"><a href="javascript:window.print();" id="print_icon">Print </a></div>
+    <div class="toolbox_item"><a href="javascript:alterStoryTextSize();" id="font_icon">Text Size </a></div>
+
+</div>
+
+<div id="story_features_empty">
+
+  <div id="adRELEVANTOFFER1">
+  <div class="story_feature_title">
+    <h2>Relevant offers</h2>
+  </div>
+  <!-- Begin relevant offers adspace-->
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('RELEVANTOFFER1', 14, 240, 45, '240x45_SPECIALOFFER');
+});
+//-->
+</script>
+
+</div>
+
+</div>
+
+<!-- -normal_story_landing- -->
+
+    <!--start components/story/common_content-->
+
+<!-- google_ad_section_start(name=storybody) -->
+
+  <p>
+
+    This Privacy Policy applies to your use of the Stuff website www.stuff.co.nz. It applies to use by both visitors to the site and all customers who use any goods, products or services that we provide on or through the Site including when you register for My Stuff services such as emails; newsletters, updates and offers of products.
+  </p>
+
+  <p>
+
+    <strong>Non-Personal Information</strong>
+  </p>
+
+  <p>
+
+    When you use the Site our server, our agent's or contractor's server logs the following information, which is provided by your browser:
+  </p>
+
+  <p>
+
+    a) your server's IP address (a number which is unique to the machine through which you are connected to the Internet) or your personal IP address
+  </p>
+
+  <p>
+
+    b) the type of browser and operating system you are using
+  </p>
+
+  <p>
+
+    c) the domain name of the referring site (e.g. the previous Site that you visited).
+  </p>
+
+  <p>
+
+    The Server also logs:
+  </p>
+
+  <p>
+
+    a) the date and time of your visit
+  </p>
+
+  <p>
+
+    b) the URL address of the pages accessed and the documents downloaded.
+  </p>
+
+  <p>
+
+    This information does not personally identify you.&nbsp; We analyse this non-personal information for certain trends and statistics, such as which parts of the Site users are visiting, which features or services are most popular and to measure the effectiveness of advertising. We do not disclose information about individuals except for the reasons set out below.
+  </p>
+
+  <p>
+
+    We also monitor interactions with our Site using Nielson//Net Ratings Limited to provide tracking and auditing services in respect of the Site. More information about Net Ratings Limited can be found here: http://www.nielsen-netratings.com/
+  </p>
+
+  <p>
+
+    <strong>Personal Information</strong>
+  </p>
+
+  <p>
+
+    There are times (such as when you register for My Stuff) when we may need personal information from you, such as your name, postal address or email address, fax and phone numbers. We may also collect demographic information such as your age, gender, preferences and interests.&nbsp; We do not collect sensitive information such as your racial or ethnic origin, political opinions or religious beliefs. You will be asked to supply that personal information voluntarily.&nbsp; This will enable us to provide you with the Services such as emails; newsletters; updates and offers of products that you have expressed an interest in.&nbsp;
+  </p>
+
+  <p>
+
+    You may decide not to provide information to us. However, if you do not provide it, we may not be able to provide our Services to you.
+  </p>
+
+  <p>
+
+    By providing us with your Login and Password and selecting the option to receive certain Services you consent to receive e-mails from us that relate to your My Stuff subscription and to the Services you choose (by express consent or otherwise).&nbsp; We may send you information based on the parts of the Site that you visit or the links that you click on.&nbsp; For the purposes of optimising the e-mails we may send you and tailoring those e-mails to your interests, we will also collect information about the topics/blogs/links that you click on, read about or choose to receive information about.&nbsp; You will have the option of opting out of receiving emails and other information at any time by using the one click option to 'unsubscribe' from the email newsletters.
+  </p>
+
+  <div class="ad_story_island hidden_ad" style="" id="adSTORYBODY">
+
+<span class="ad_leftcol_feedback" id="feedback_STORYBODY">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=STORYBODY&amp;adsize=300x250&amp;area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushHserverAd('STORYBODY', 2, 300, 250, '300x250');
+});
+//-->
+</script>
+
+  <p>
+
+    Whenever&nbsp; we ask you to provide personal information&nbsp; we will ask whether you wish to receive correspondence and information from&nbsp; us,&nbsp; this will generally be by way of an 'opt-out' box that will appear each time you are asked to provide personal information for additional purposes. Please tick this 'opt-out' box if you do not wish your personal information to be used in this way.&nbsp; We will take all reasonable steps to allow you access to your personal information and we will correct personal information if we are satisfied that it is incorrect.&nbsp;&nbsp;
+  </p>
+
+  <p>
+
+    Where possible, information will be obtained directly from you, but otherwise it may be provided from others (with your consent), or generated within or by the systems used to provide our Services
+  </p>
+
+  <p>
+
+    Information collected by us may be combined with information obtained by our related companies ("related companies" has the meaning set out in section 2(3) of the Companies Act 1993).
+  </p>
+
+  <p>
+
+    You may ask to see any information we hold about you and we will provide it as long as we have such information and can readily retrieve it. You may also ask us to correct any information that we hold about you.
+  </p>
+
+  <p>
+
+    <strong>Use of your Personal Information</strong>
+  </p>
+
+  <p>
+
+    We will only use your personal information for the purpose for which you have provided it, unless you consent otherwise or we are required by law to disclose it.&nbsp;&nbsp; We do not sell, rent or lease our visitor or customer information to third parties.&nbsp; Your personal information will only be disclosed to those employees who have a need to know.
+  </p>
+
+  <p>
+
+    Where we receive information about your session or about you, we may use that information to conduct market research surveys, for statistical analysis to determine Site usage, to run competitions and for direct marketing purposes relating to our business, to tailor our Services to match your needs and improve the Site generally.&nbsp;
+  </p>
+
+  <p>
+
+    We may provide your personal information to others to:
+  </p>
+
+  <p>
+
+    a) provide our Services to you and others
+  </p>
+
+  <p>
+
+    b) send you bills (if applicable) and recover any money you owe
+  </p>
+
+  <p>
+
+    c) keep you informed of and conduct, sales and marketing activities in relation to Services available to, or planned for, you from us and other people
+  </p>
+
+  <p>
+
+    d) exercise any lawful right we or any of our related companies, our contractors, credit reference and debt collection agencies, communications network operators and selected business partners has.
+  </p>
+
+  <p>
+
+    Although we may publish aggregated information relating to your use of the Services, such as usage patterns, we do not disclose information in a form that could reasonably be expected to identify you, without your prior permission.
+  </p>
+
+  <p>
+
+    <strong>Disclosure of information</strong>
+  </p>
+
+  <p>
+
+    We may disclose information about you or your use of the Site and/or Services without your prior permission if we believe that such action is necessary to:
+  </p>
+
+  <p>
+
+    a) conform to legal requirements or comply with legal process, or to help maintain the law
+  </p>
+
+  <p>
+
+    b) protect our rights or property or those of our related companies
+  </p>
+
+  <p>
+
+    c) enforce our Site Terms
+  </p>
+
+  <p>
+
+    d) act to protect the interests of our, or our related companies, customers or others.
+  </p>
+
+  <p>
+
+    <strong>Third Party Ad Servers</strong>
+  </p>
+
+  <p>
+
+    Some of our advertisers use third party companies to serve advertisements when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites, including information gathered by cookies, in order to provide advertisements about goods and Services of interest to you. We do not control the practices of these companies and they may not follow the same privacy policies as us.
+  </p>
+
+  <p>
+
+    <strong>Third party websites</strong>
+  </p>
+
+  <p>
+
+    We encourage you to review the privacy statements of websites if you follow links from the Site to them, so that you can understand how those websites collect, use and share your information. We are not responsible for the privacy statements or other content on websites linked from the Site.
+  </p>
+
+  <p>
+
+    <strong>Changes to our Policy</strong>
+  </p>
+
+  <p>
+
+    We may, at our discretion, update or revise this Policy from time to time. Any changes will take effect immediately once they are posted on our Site. Your continued use of our Services after any changes have been posted on our Site signifies your acceptance of those changes.
+  </p>
+
+  <p>
+
+    For more information please e-mail <a href="mailto:clearance@fairfaxnz.co.nz">clearance@fairfaxnz.co.nz</a>
+  </p>
+
+  <p>
+
+    &nbsp;
+  </p>
+
+<!-- google_ad_section_end(name=storybody) -->
+
+<div style="width: 305px;" id="related_box">
+  <div id="related_box_left">
+
+      <h2>Next Legal story:</h2>
+      <p><a href="/about-stuff/1513434/Terms-and-Conditions" class="story_icon">Terms and Conditions</a></p>
+
+    <h2><a href="/about-stuff" id="section_icon">About Stuff Homepage</a></h2>
+  </div>
+</div>
+
+<div class="sponsored_links" id="adsponsored_links_box">
+    <div class="sponsored_links_inner">
+        <h2>Sponsored links</h2>
+
+        <span id="adSPONSOREDLINK1" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK1', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK2" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK2', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK3" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK3', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK4" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK4', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK5" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK5', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK6" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK6', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK7" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK7', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+        <span id="adSPONSOREDLINK8" class="hidden_ad">
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPONSOREDLINK8', 12, 310, 16, '310x16_SPONSOREDLINK');
+});
+//-->
+</script>
+
+</span>
+
+    </div>
+</div>
+
+<div id="sharebox">
+  <div class="greybox_borderleft"></div>
+  <div class="greybox_borderright"></div>
+  <div id="sharebox_top">
+    <span style="background-position: -10px -834px;" class="share_icon sharebox_topleft">Share this page </span>
+    <a name="share" title="share"></a>
+    <span class="sharebox_topright"></span>
+  </div>
+  <div id="sharebox_mid">
+    <span class="sharebox_link"><a class="thickbox" id="email_icon" href="/email_a_friend/20698/25044?TB_iframe=true&amp;height=400&amp;width=615">Email</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://www.facebook.com/sharer.php%3fu=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26t=Privacy%20Policy" target="_blank" id="facebook">Facebook</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://www.myspace.com/Modules/PostTo/Pages/%3fu=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26t=Privacy%20Policy" target="_blank" id="myspace">MySpace</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://digg.com/submit%3fphase=2%26url=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26title=Privacy%20Policy" target="_blank" id="digg">Digg</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://www.stumbleupon.com/submit%3furl=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26title=Privacy%20Policy" target="_blank" id="stumbleupon">StumbleUpon</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://del.icio.us/post%3furl=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26title=Privacy%20Policy" target="_blank" id="delicious">Delicious</a></span>
+
+    <span class="sharebox_link"><a href="/track/share/25044/?dest=http://reddit.com/submit%3furl=http://www.stuff.co.nz/about-stuff/legal/25044/Privacy-Policy%26title=Privacy%20Policy" target="_blank" id="reddit">Reddit</a></span>
+
+    <span class="sharebox_link"><a target="_blank" id="linkedin" href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http%3A%2F%2Fwww.stuff.co.nz%2Fabout-stuff%2Flegal%2F25044%2FPrivacy-Policy&amp;title=Privacy%20Policy&amp;summary=This%20Privacy%20Policy%20applies%20to%20your%20use%20of%20the%20Stuff%20website%20www.stuff.co.nz.%20It%20applies%20to%20use%20by%20both%20visitors%20to%20the%20site%20and%20all%20customers%20who%20use%20any%20goods,%20products%20or%20services%20that%20we%20provide%20on%20or%20through%20the%20Site%20including%20when%20you%20register%20for%20My%20Stuff%20services%20such%20as%20emails;%20newsletters,%20updates%20and%20offers%20of%20products.%20&amp;source=stuff.co.nz">Linkedin</a></span> 
+
+    <span class="sharebox_link"><a target="_blank" id="twitter" href=" http://twitter.com/home?status=Currently Reading Privacy Policy http://www.stuff.co.nz/s/SGWA" title="Tweet it on Twitter">Twitter</a></span> 
+
+  </div>
+</div>
+
+<!--end components/story/common_content-->
+
+  </div> <!-- End Left Column -->
+
+  <div id="right_col">
+
+    <!-- start components/right_column -->
+
+<div class="hbox_narrow">
+  <div class="hbox_top_grey">
+      <div class="hbox_top_grey_left"></div>
+      <span class="hbox_top_title headlines_title"><a href="/about-stuff">About Stuff Headlines</a></span>
+      <div class="hbox_top_grey_right"></div>
+
+      <a href="/rss/about-stuff" onclick="pageTracker._trackPageview('/signups/RSS')" class="grey_rss_icon">RSS</a>
+      <span class="rss_ie6"><a href="/rss/about-stuff" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static.stuff.co.nz/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
+  </div>
+  <div class="hbox_body_left">
+  <div class="section_headlines">
+
+      <p class="story_icon_link"><a href="/about-stuff/22245/About-Stuff">About Stuff</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/33785/Contact-Us">Contact Us</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/2715191/Get-Stuff-on-your-Mobile">Get Stuff on your Mobile</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">Follow us on Facebook and Twitter</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/33001/Advertise-Online">Advertise Online</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/1513423/Frequently-Asked-Questions">Frequently Asked Questions</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/25044/Privacy-Policy">Privacy Policy</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/1513434/Terms-and-Conditions">Terms and Conditions</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/1513458/Terms-and-Conditions-for-Comments">Terms and Conditions for Comments</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/30297/Stuff-Site-Map">Stuff Site Map</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/1513469/Make-Stuff-my-Homepage">Make Stuff my Homepage</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/1764077/Vodafone-live-internet-on-your-mobile-info-entertainment">Vodafone live! – internet on your mobile, info &amp; entertainment</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/2071058/Newspapers">Newspapers</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax New Zealand Limited’s online news archive service</a>
+
+      </p>
+
+  </div>
+  </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+    <div class="hbox_btm_left"></div>
+    <div class="hbox_btm_right"></div>
+  </div>
+</div>
+
+  <div class="right_col_ad" style="" id="adSECTIONTOPRIGHT">
+
+<span class="ad_island_feedback" id="feedback_SECTIONTOPRIGHT">
+  <a class="adfeedback" target="_blank" href="/about-stuff/advertising-feedback/?pos=SECTIONTOPRIGHT&amp;adsize=300x250&amp;area=s.stuff">
+
+  Ad Feedback</a>
+</span>
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushHserverAd('SECTIONTOPRIGHT', 6, 300, 600, '300x600');
+});
+//-->
+</script>
+
+<div class="hbox_narrow">
+  <div class="hbox_top_grey">
+      <div class="hbox_top_grey_left"></div>
+      <span class="hbox_top_title headlines_title"><a href="/">Stuff Headlines</a></span>
+      <div class="hbox_top_grey_right"></div>
+
+      <a href="/rss/" onclick="pageTracker._trackPageview('/signups/RSS')" class="grey_rss_icon">RSS</a>
+      <span class="rss_ie6"><a href="/rss/" onclick="pageTracker._trackPageview('/signups/RSS')"><img src="http://static.stuff.co.nz/images/icon_rss.gif" height="16" width="16" alt=""></a></span>
+  </div>
+  <div class="hbox_body_left">
+  <div class="section_headlines">
+
+      <p class="story_icon_link"><a href="/national/3780965/More-than-100-homes-still-empty-as-more-rain-predicted">More than 100 homes still empty as more rain predicted</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/national/3781012/Fire-Service-staff-save-choking-dog-over-the-phone">Fire Service staff save choking dog over the phone</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+      </p>
+
+      <p class="story_icon_link"><a href="/national/crime/3780873/Army-medal-thief-named-after-suppression-expires">Army medal thief named after suppression expires</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/sport/football/world-cup/all-whites/3780895/Slovenias-intensity-too-much-for-All-Whites">Slovenia's intensity too much for All Whites</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+
+      </p>
+
+      <p class="story_icon_link"><a href="/sport/tennis/3780855/Nadal-to-meet-Soderling-in-French-Open-final">Nadal to meet Soderling in French Open final</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/national/crime/3780053/Ex-coach-forged-cancer-claims-to-get-sick-days">Ex-coach forged cancer claims to get sick days</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/life-style/3779924/One-marathon-can-be-just-the-start">One marathon can be just the start</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/national/health/3779873/Need-for-sleepovers-disturbing">Need for sleepovers 'disturbing'</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/entertainment/arts/3779869/Carnivals-fate-not-councils-fault">Carnival's fate 'not council's fault'</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/business/personal-finance/3779863/Couple-stung-by-Blue-Chip-face-another-fight">Couple stung by Blue Chip face another fight</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/business/industries/3779691/Farmers-snap-up-Toyota-utes-and-vans">Farmers snap up Toyota utes and vans</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/business/personal-finance/3779686/Kiwis-can-t-cope-with-successful-women">Kiwis 'can't cope with successful women'</a>
+
+      </p>
+
+      <p class="story_icon_link"><a href="/world/asia/3779728/Myanmar-seeking-nuclear-weapons-report">Myanmar seeking nuclear weapons - report</a>
+
+      </p>
+
+  </div>
+  </div>
+    <div class="hbox_body_right"></div>
+    <div class="hbox_btm">
+    <div class="hbox_btm_left"></div>
+    <div class="hbox_btm_right"></div>
+  </div>
+</div>
+
+  <!-- start components/ad/specialoffer -->
+<div class="hbox_narrow hidden_ad" id="adspecial_offer_box">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <span class="hbox_top_none_title">Special offers</span>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers">
+
+  <div class="special_offer" style="" id="adSPECIALOFFER1">
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPECIALOFFER1', 15, 240, 45, '240X45_SPECIALOFFER');
+});
+//-->
+</script>
+
+  <div class="special_offer" style="" id="adSPECIALOFFER2">
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPECIALOFFER2', 15, 240, 45, '240X45_SPECIALOFFER');
+});
+//-->
+</script>
+
+  <div class="special_offer" style="" id="adSPECIALOFFER3">
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('SPECIALOFFER3', 15, 240, 45, '240X45_SPECIALOFFER');
+});
+//-->
+</script>
+
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div><!-- adspecial_offer_box -->
+<!-- end components/ad/specialoffer -->
+
+    <!-- start components/most_popular most_popular_section_id=10 -->
+
+<div id="most_popular_wrapper">
+    <div class="hbox_narrow">
+        <div class="hbox_top_grey">
+            <div class="hbox_top_grey_left"></div>
+            <span class="hbox_top_title">Most popular</span>
+            <div class="hbox_top_grey_right"></div>
+        </div>
+
+        <div id="most_popular">
+            <ul>
+                <li><a href="#viewed"><span>Viewed</span></a></li>
+                <li><a href="#shared"><span>Shared</span></a></li>
+                <li class="last-tab"><a href="#commented"><span>Commented</span></a></li>
+            </ul>
+            <div id="viewed">
+
+                <p>
+                    <a class="story_icon" href="/national/3779892/Good-grief-fake-mourner-revealed">Good grief - fake mourner revealed</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/3779905/Sorry-no-Riff-Raff-allowed">Sorry, no Riff Raff allowed</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/health/3779873/Need-for-sleepovers-disturbing">Need for sleepovers 'disturbing'</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/crime/3780052/Taupo-cop-sets-pace-on-speed">Taupo cop sets pace on speed</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/entertainment/3779597/Tarantino-shocks-waitress">Tarantino shocks waitress</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/oddstuff/3775914/Bidders-keen-to-give-rhino-new-name">Bidders keen to give rhino new name</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/world/americas/3775708/Woman-fired-for-being-too-good-looking">Woman fired 'for being too good looking'</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/crime/3780873/Army-medal-thief-named-after-suppression-expires">Army medal thief named after suppression expires</a>
+
+		</p>
+
+            </div>
+            <div id="shared">
+
+                <p>
+                    <a class="story_icon" href="/national/health/3779899/Don-t-let-any-more-babies-die">'Don't let any more babies die'</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/politics/3779934/Tax-ruling-shifts-law">Tax ruling 'shifts' law</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/3779892/Good-grief-fake-mourner-revealed">Good grief - fake mourner revealed</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/3779905/Sorry-no-Riff-Raff-allowed">Sorry, no Riff Raff allowed</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/life-style/wellbeing/3779977/Boys-turning-to-porn-and-tech-too-soon">Boys turning to porn and tech too soon</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/business/personal-finance/3779686/Kiwis-can-t-cope-with-successful-women">Kiwis 'can't cope with successful women'</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/health/3779880/Premature-baby-could-have-been-saved-by-vitamin-K-coroner-rules">Premature baby could have been saved by vitamin K, coroner rules</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/politics/3779553/Trade-Minister-reprimanded-for-rowdy-behavior">Trade Minister reprimanded for rowdy behavior</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/3774854/NZ-great-for-kids-if-you-re-rich">NZ great for kids - if you're rich</a>
+
+		</p>
+
+                <p>
+                    <a class="story_icon" href="/national/politics/3779882/ETS-charm-offensive-to-overcome-scepticism">ETS 'charm offensive' to overcome scepticism</a>
+
+		</p>
+
+            </div>
+            <div id="commented">
+
+                <p>
+                    <a class="story_icon" href="/sport/football/world-cup/all-whites/3780895/Slovenias-intensity-too-much-for-All-Whites">Slovenia's intensity too much for All Whites</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_gallery.gif" style="float:none; margin-left:5px;" alt="">
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/sport/football/world-cup/3780838/Slovenia-beat-All-Whites-3-1">Slovenia beat All Whites 3-1</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3774857/Four-drink-limit-for-party-bus-passengers">Four-drink limit for party-bus passengers</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/technology/blogs/connector/3770144/Linux-the-other-operating-system">Linux - the other operating system</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3774863/Govt-won-t-sell-bank-says-Key">Govt won't sell bank, says Key</a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/technology/blogs/connector/3775145/You-know-you-re-a-tech-addict-when">You know you're a tech addict when...</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3774860/Truckie-rescues-errant-motorist">Truckie rescues errant motorist</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3773283/Govt-won-t-sell-Kiwibank-PM">Govt 'won't sell' Kiwibank - PM </a>
+
+    <img src="http://static.stuff.co.nz/images/icon_video.gif" style="float:none; margin-left:5px;" alt="">
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3774808/Second-plaque-poses-family-puzzle">Second plaque poses family puzzle</a>
+
+                </p>
+
+                <p>
+                    <a class="story_icon" href="/the-press/news/3769877/Wheels-not-welcome-in-SBS-Marathon">Wheels not welcome in SBS Marathon</a>
+
+                </p>
+
+            </div>
+            <div class="hbox_btm">
+                <div class="hbox_btm_left"></div>
+                <div class="hbox_btm_right"></div>
+            </div>
+            <div class="clearer"></div>
+        </div><!-- most_popular -->
+    </div><!-- hbox_narrow -->
+</div><!-- most_popular_wrapper -->
+<!-- end components/most_popular -->
+
+<!-- start components/polls -->
+
+<script type="text/javascript" src="http://static.stuff.co.nz/js/polls.min.js"></script>
+
+<!-- end components/polls -->
+
+  <!-- start components/ad/featured_promotions -->
+<div class="hbox_narrow hidden_ad" id="adfeatured_promobox">
+    <div class="hbox_top_none">
+        <div class="hbox_top_none_left"></div>
+        <h2 class="hbox_top_none_title">Featured Promotions</h2>
+        <div class="hbox_top_none_right"></div>
+    </div>
+
+    <div class="hbox_body_left">
+        <div class="special_offers" style="width:258px; padding-left:10px; padding-right:10px;">
+
+  <div class="" style="width:120px; height:180px; float:left;" id="adFEATUREDPROMOTION1">
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('FEATUREDPROMOTION1', 13, 120, 180, '120x180_FEATUREDPROMOTION');
+});
+//-->
+</script>
+
+  <div class="" style="width:120px; height:180px; float:left;" id="adFEATUREDPROMOTION2">
+
+  </div> 
+
+<script language="javascript">
+<!--
+$(function () {
+PushBserverAd('FEATUREDPROMOTION2', 13, 120, 180, '120x180_FEATUREDPROMOTION');
+});
+//-->
+</script>
+
+        </div>
+    </div>
+
+    <div class="hbox_btm">
+        <div class="hbox_btm_left"></div>
+        <div class="hbox_btm_right"></div>
+    </div>
+</div>
+<!-- end components/ad/featured_promotions -->
+
+<!-- end components/right_column -->
+
+  </div> <!-- End Right Column -->
+
+</div>
+
+<img src="/track/view/20698/25044/?dest=http://static.stuff.co.nz/images/1pxwhite.gif" alt="">
+<!-- -node_landing- -->
+
+<div id="footer" class="mbluenav">
+    <div id="footer_top">
+      <ul>
+
+        <li><a href="/national/">National</a></li>
+
+        <li><a href="/world/">World</a></li>
+
+        <li><a href="/business/">Business</a></li>
+
+        <li><a href="/technology/">Technology</a></li>
+
+        <li><a href="/sport/">Sport</a></li>
+
+        <li><a href="/entertainment/">Entertainment</a></li>
+
+        <li><a href="/life-style/">Life &amp; Style</a></li>
+
+        <li><a href="/travel/">Travel</a></li>
+
+        <li><a href="/blogs/">Blogs</a></li>
+
+        <li><a href="/competitions/">Competitions</a></li>
+
+        <li><a href="/auckland/">Auckland</a></li>
+
+     </ul>
+  </div><!--end footer top-->
+  <div id="footer-bottom">
+    <div id="footer-bottom-left">
+
+    <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Stuff.co.nz</div>
+        <div class="footer-bottom-left-list">
+            <ul>
+                <li><a href="http://www.stuff.co.nz/about-stuff/22245/Background">About Us</a></li>
+                <li>|</li>
+                <li><a href="http://www.stuff.co.nz/about-stuff/33785/Contact-Us">Contact Us</a></li>
+                <li>|</li>
+                <li><a href="http://www.stuff.co.nz/about-stuff/2715191/Mobile">Mobile</a></li>
+            </ul>
+        </div>
+        <div class="clearer"></div>
+    </div>
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Subscribe</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <!--<li><a href="#">Email</a></li>
+            <li>|</li>-->
+            <li><a href="/about-stuff/1764077/Stuff-co-nz-on-your-Vodafone-mobile">Text</a></li>
+            <!--<li>|</li>
+            <li><a href="#">RSS Feeds</a></li>-->
+            <li>|</li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/2708777/Follow-us-on-Facebook-and-Twitter">Follow us on Facebook and Twitter</a></li>
+            <li>|</li>
+            <!--<li><a href="#">Digital Editions</a></li>
+            <li>|</li>-->
+            <li><a href="http://www.fairfaxnz.co.nz/publications/index.html">Newspapers</a></li>
+            <li>|</li>
+            <li><a href="http://www.mags4gifts.co.nz/">Magazines</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Services</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <!--<li><a href="#">Competitions</a></li>
+            <li>|</li>-->
+            <li><a href="http://www.newszone.co.nz/">Newspapers in Education</a></li>
+            <li>|</li>
+            <li><a href="http://www.azdirect.co.nz/">A-Z Directories</a></li>
+            <li>|</li>
+            <li><a href="/about-stuff/33001/Advertise-Online">Online Advertising</a></li>
+            <li>|</li>
+            <li><a href="http://www.fairfaxnz.co.nz/publications/index.html">Print Advertising</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Classifieds</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <li><a href="http://www.trademe.co.nz/">        Trade Me</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/Trade-me-jobs/index.htm">Jobs</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/Trade-me-property/index.htm">Property</a></li>
+            <li>|</li>
+            <li><a href="http://www.trademe.co.nz/Trade-me-motors/index.htm">Motors</a></li>
+            <li>|</li>
+            <li><a href="http://www.travelbug.co.nz/accommodation">Accommodation</a></li>
+            <li>|</li>
+            <li><a href="http://www.findsomeone.co.nz/">Personals</a></li>
+            <li>|</li>
+            <li><a href="http://www.adstuff.co.nz/">Newspaper Classifieds</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Newspapers</div>
+        <div class="footer-bottom-left-list">
+           <ul>
+            <li><a href="/dominion-post/">Dominion Post </a></li>
+            <li>|</li>
+            <li><a href="/the-press/">The Press</a></li>
+            <li>|</li>
+            <li><a href="/waikato-times/">Waikato Times</a></li>
+            <li>|</li>
+            <li><a href="/auckland/">Auckland Stuff</a></li>
+            <li>|</li>
+            <li><a href="/sunday-news/">Sunday News</a></li>
+            <li>|</li>
+            <li><a href="/sunday-star-times/">Sunday Star-Times</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+        <div class="footer-bottom-left-row">
+        </div><!--end footer bottom left row-->
+        <div class="footer-bottom-left-title"> </div>
+        <div class="footer-bottom-left-list">
+           <ul>
+            <li><a href="/marlborough-express/">Marlborough Express</a></li>
+            <li>|</li>
+            <li><a href="/manawatu-standard/">Manawatu Standard</a></li>
+            <li>|</li>
+            <li><a href="/nelson-mail/">Nelson Mail</a></li>
+            <li>|</li>
+            <li><a href="/southland-times/">Southland Times</a></li>
+            <li>|</li>
+            <li><a href="/taranaki-daily-news/">Taranaki Daily News</a></li>
+            <li>|</li>
+            <li><a href="/timaru-herald/">Timaru Herald</a></li>
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+      <div class="footer-bottom-left-row">
+        <div class="footer-bottom-left-title">Other Sites</div>
+        <div class="footer-bottom-left-list">
+          <ul>
+            <li><a href="http://www.cuisine.co.nz/">Cuisine</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzhouseandgarden.co.nz/">NZ House &amp; Garden</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzfishingnews.co.nz/">NZ Fishing News</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzlifeandleisure.co.nz/">NZ Life &amp; Leisure</a></li>
+            <li>|</li>
+            <li><a href="http://www.nzgardener.co.nz/">NZ Gardener</a></li>
+            <li>|</li>
+            <li><a href="http://www.stuff.co.nz/about-stuff/archives/2385092/Fairfax-New-Zealand-Limited-s-online-news-archive-service">Fairfax Archives</a></li>
+            <!-- <li>|</li>
+            <li><a href="#">Network Sitemap</a></li> -->
+          </ul>
+        </div><!--end footer bottom left list-->
+        <div class="clearer"></div>
+      </div><!--end footer bottom left row-->
+    </div><!--end footer bottom left-->
+
+    <div id="footer-bottom-right">
+
+      <p class="footer-right-title">Breaking news?</p>
+      <p class="descrip">Send us your photos, videos and tip-offs:</p>
+      <p class="grey"><span class="float-left">Email</span><span><a href="mailto:newstips@stuff.co.nz">newstips@stuff.co.nz</a></span></p>
+      <div class="clearer"></div>
+      <p class="grey"><span class="float-left">Phone</span><span>0800 697 8833</span></p>
+      <div class="clearer"></div>
+
+    </div><!--end footer bottom right-->
+    <div class="clearer"></div>
+  </div><!--end footer bottom-->
+  <div id="ffxcredit">
+    <div id="ffxlogo"></div><br>
+      © 2010 <a href="http://www.fairfaxmedia.co.nz">Fairfax New Zealand Limited</a><br>
+      <a href="/about-stuff/legal/25044/privacy-policy">Privacy</a><!--  |
+      <a href="#">Conditions</a>-->
+  </div><!--end fairfax credit-->
+</div>
+
+</div><!--end container-->
+
+<script language="javascript">
+<!--
+$(function () {
+    RenderHserverAds();
+
+    SetupBserverAds();
+    RenderBserverAds();
+});
+//-->
+</script>
+
+  <script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ?
+"https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost +
+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1056754-1");
+pageTracker._trackPageview();
+</script>
+
+<!-- START Nielsen//NetRatings SiteCensus V5.3 -->
+<!-- COPYRIGHT 2007 Nielsen//NetRatings -->
+
+<script type="text/javascript">
+	/* <![CDATA[ */
+	var _rsCI="nz-stuff";
+	var _rsCG="s-stuff-aboutstuff-legal-ttstorytt-25044";
+	var _rsDN="//secure-nz.imrworldwide.com/";
+
+	var _rsSE=1;
+	var _rsSM=0.1;
+	var _rsCL=1;
+
+	/* ]]> */
+</script>
+
+<script type="text/javascript" src="//secure-nz.imrworldwide.com/v53.js"></script>
+
+<noscript>
+	<div><img src="//secure-nz.imrworldwide.com/cgi-bin/m?ci=nz-stuff&cg=s-stuff-aboutstuff-legal-ttstorytt-25044&cc=1" alt=""/></div>
+</noscript>
+<!-- END Nielsen//NetRatings SiteCensus V5.3 -->
+
+
+
+
+</body></html>
