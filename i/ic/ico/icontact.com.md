@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225101124id_/http%3A//www.icontact.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icontact.com privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604052640id_/http%3A//www.icontact.com/terms/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | iContact - Email Marketing Software
+# Privacy Policy | Email Marketing by iContact
 
 #### Effective Date: September 9, 2009
 
