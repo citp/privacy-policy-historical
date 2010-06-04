@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610072403id_/http%3A//www.aa.co.nz/terms/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aa.co.nz privacy policy that was archived on 2010-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100604234056id_/http%3A//www.aa.co.nz/terms/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - AA New Zealand
 
@@ -10,7 +10,7 @@ Receiving information from us
 
 When we first obtain personal information from you, or when you take a new service from us, we will give you the opportunity to indicate if you do or do not (as applicable) wish to receive information from us about other services or products. Normally this will be done by way of a tick box on an application form or contract. 
 
-If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 7pm, Monday to Friday and 9am to 5pm,Saturday and Sunday). Or, you can change this information online. Click on 'My AA' and follow the instructions.
+If you want to update or correct information held by us, including contact preferences, you can call our Membership line toll free on 0800 500 444 (8am to 6pm, Monday to Saturday). Or, you can change this information online. Click on 'My AA' and follow the instructions.
 
 2\. Collection of information
 
