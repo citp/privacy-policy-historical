@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2009-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091102074548id_/http%3A//www.walottery.com/sections/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the walottery.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606004523id_/http%3A//www.walottery.com/Privacy/default.aspx) for the most accurate reproduction.*
 
-# Washington's Lottery -- Press Room
+# Washington's Lottery -- Privacy
 
 Thank you for visiting the Washington's Lottery website and reviewing our Privacy Notice. This statement addresses collection, use and security of and access to information that may be obtained through use of the Lottery website. This notice covers the following topics: 
 
-  * Information Collected and How it is Used 
-  * Personal Information and Choice 
-  * Public Access to Information 
-  * Regarding Certain [Personal/Private] Information Use 
-  * Review and Correction of Personally Identifiable Information 
-  * Cookies [and Applets] 
-  * Security 
-  * Disclaimer 
-  * Use of Site 
-  * Limitation of Liability 
+  * Information Collected and How it is Used
+  * Personal Information and Choice
+  * Public Access to Information
+  * Regarding Certain [Personal/Private] Information Use
+  * Review and Correction of Personally Identifiable Information
+  * Cookies [and Applets]
+  * Security
+  * Disclaimer
+  * Use of Site
+  * Limitation of Liability
   * Contact Information
 
 
@@ -22,9 +22,9 @@ Thank you for visiting the Washington's Lottery website and reviewing our Privac
 
 If you do nothing during your visit to our website but browse, read pages or download information, we will gather and store certain information about your visit. This information does not identify you personally. We automatically collect and store the following information about your visit: 
 
-  1. The Internet Protocol address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu). 
-  2. The type of browser and operating system you used. 
-  3. The date and time you visited this site. 
+  1. The Internet Protocol address and domain name used. The Internet Protocol address is a numerical identifier assigned either to your Internet service provider or directly to your computer. We use the Internet Protocol address to direct Internet traffic to you. This address can be translated to determine the domain name of your service provider (e.g. xcompany.com or yourschool.edu).
+  2. The type of browser and operating system you used.
+  3. The date and time you visited this site.
   4. The Web pages or services you accessed at this site.
 
 
@@ -35,8 +35,8 @@ The information we automatically collect or store is logged by Cole & Weber and 
 
 If during your visit to our website you participate in a survey, send an email, or perform some other transaction online, the following additional information will be collected: 
 
-  1. The email address and contents of the email, for those who communicate with us via email. 
-  2. Information volunteered in response to a survey. 
+  1. The email address and contents of the email, for those who communicate with us via email.
+  2. Information volunteered in response to a survey.
   3. Information volunteered through an online form for any other purpose.
 
 
