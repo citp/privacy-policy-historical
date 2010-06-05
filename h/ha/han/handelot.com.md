@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2009-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090813071152id_/http%3A//www.handelot.com/int.php%3Fp%3Dcms%26CMSID%3D28%26PHPSESSID%3D8257c2bd42010dae5adc709cefa9423e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the handelot.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605064719id_/http%3A//handelot.com/int.php%3Fp%3Dcms%26CMSID%3D28) for the most accurate reproduction.*
 
-# ..:: handelot.com - The global trading marketplace ::..
+# ..:: handelot.com - The global B2B trading marketplace ::..
 
 #### Privacy Statement
 
