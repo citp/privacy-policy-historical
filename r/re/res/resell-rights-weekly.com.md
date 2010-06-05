@@ -1,13 +1,8 @@
-> *The following text is extracted and transformed from the resell-rights-weekly.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410030758id_/http%3A//resell-rights-weekly.com/members/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resell-rights-weekly.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605075223id_/http%3A//resell-rights-weekly.com/members/privacy.php) for the most accurate reproduction.*
 
-# Resell Rights Weekly
+# Privacy Policy :: Resell Rights Weekly
 
-  
-
-
-## 
-
-General Privacy Policy for Resell-Rights-Weekly.com
+## **General Privacy Policy for Resell-Rights-Weekly.com**
 
 **General Privacy Policies**   
 We respect your interest in your privacy and as a result we have created this informational disclosure. 
@@ -62,6 +57,3 @@ After your account becomes inactive your information may remain in our databases
 
 **Policy Changes**  
 These policies may be amended by us at any time and without notice, but will be posted at this page. You agree that your continued use of our websites, product or service after that date will constitute your consent and acceptance of the amendment. 
-
-  
-
