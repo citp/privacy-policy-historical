@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418010108id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.hub%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dinline_customer_survey%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dbtb_hub%26siteArea%3Dbtb.hub%26type%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the btconnect.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605031958id_/http%3A//www2.bt.com/btPortal/application%3Forigin%3Dbtb_footer.jsp%26event%3Dbea.portal.framework.internal.portlet.event%26pageid%3Dmb_form%26portletid%3Dmb_form%26portletns%3Dmb_form%26wfevent%3DLink.mb_form%26com.bea.event.type%3Dlinkclick%26oLDesc%3DPrivacy%2BPolicy%26oSiteArea%3Dbtb.mya%26oPJsp%3Dbtb_footer.jsp%26oPt%3Dmb_rcol_services%26oLName%3DprivacyPolicy%26oOJsp%3D%26oPg%3Dmy_account%26siteArea%3Dbtb.mya%26type%3Dprivacy) for the most accurate reproduction.*
 
-# BT.com | Small & medium business
+# BT.com | Small & medium business | Your account
 
 |    |  |   
 ---  
@@ -10,6 +10,7 @@ Why do we have a Privacy Policy?
 What does this privacy policy cover?   
 What personal information do we collect about you, and when do we collect it?   
 What personal information do we collect about you from other companies and organisations?   
+Credit checking and account management   
 Do we share your personal information with anyone else?   
 For how long does BT keep personal information?   
 How do we protect your data when it is transferred out of Europe?   
@@ -18,7 +19,7 @@ How can I change the personal information BT holds about me?
 How can I manage BT's contact with me for marketing purposes?   
 How do we protect your personal information?   
 How do you find out about changes to our privacy policy?   
-Does BT´s privacy policy protect me when I use BT´s websites?   
+Does BT's privacy policy protect me when I use BT's websites?   
 When do we use cookies?   
 How do you disable cookies?   
 Are third party sites covered by this policy?   
@@ -64,17 +65,19 @@ Return to top
 #### What personal information do we collect about you, and when do we collect it?  
   
    
-We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services.   
-   
-  
+We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services.  
+We may ask you for information to enable us to provide a service to you and we collect this information by telephone, written correspondence or via a website. We may ask you for information including your name, private/business address, contact telephone numbers and email address. We may also ask you for other information that relates to the service you are using or ordering. For example, we may need your credit card number to charge you for certain services. 
+
   * When you (or someone using your telephone line) make a telephone call or send a fax that uses our telephone network or connect to the world wide web, we keep a record of that call (including the number called) to enable BT to charge for it. We also receive from other operators information about calls made over our network, where we need that information for connecting and billing purposes.
   * If someone abuses or damages the telephone network, for example by making offensive or nuisance calls, we may keep information relating to that abuse.
   * We have information about your use of our services (such as the amount of time you spend on-line), which we use to manage our network, and for billing. We may also use this information for marketing products and services but we will give the option to opt out of receiving this material.
   * If you enter into any of our competitions or promotions, we may ask for information about you, which will be made clear at the time you enter. We will also inform you of the purposes for which the information you provide may be used.
   * We may ask you from time to time about what use you make of the services we provide, what other services you would like us to provide in the future, and for other information, such as lifestyle data.
   * We collect information from visitors to our websites to help us to make improvements to the websites and to the services we make available. We know, for instance, how many visitors there are to each website, when they visited, for how long and to which areas of our website they went. We may share this information with our advertisers and to other companies which offer their goods or services on our websites. It helps to show these organisations how effective our websites are as sales channels for their products. You or any other individual cannot be identified from the information we share as the data is aggregated and anonymised.
+  * We may also monitor and record our communications with you, including e-mails and phone conversations. Information which we collect may then be used for training purposes, quality assurance, to record details about the products and services you order from us, and in order to meet our legal and regulatory obligations generally
 
   
+   
    
 We do not use this information to:   
    
@@ -91,7 +94,28 @@ Return to top
   
   * We may receive personal information about you from other companies and organisations (for example, for marketing purposes) and we rely on these third parties to obtain your consent for us to use this information.
   * We receive information from other telecommunications operators about their customers to enable us to enter their details (together with our own customer´s information) in telephone directories. We also make telephone numbers available on directory enquiry services unless customers (BT or other licensed telecommunications operators) have chosen to be ex-directory.
-  * Please note that when you order goods and services from BT we may make enquiries about you for credit reference purposes. These enquires include searching your records held by Experian / Equifax or any other credit reference agency and checking any details held on you by the Interactive Media in Retail Group (IMRG) Security Alert or any other fraud prevention scheme. At all times where your information is disclosed to us we will protect it in accordance with this policy and keep it secure.
+
+  
+Return to top  
+   
+  
+#### Credit checking and account management  
+  
+   
+1. Please note that when you order goods and services from BT we may make enquiries about you for credit reference purposes. These enquires include searching your records held by Experian / Equifax or any other Credit Reference Agency (CRA) and checking any details held on you by the Interactive Media in Retail Group (IMRG) Security Alert or other Fraud Prevention Agencies (FPAs). When CRAs receive a search from us they will place a footprint on your credit file that may be seen by other organisations. At all times where your information is disclosed to us we will protect it in accordance with this policy and keep it secure.  
+2. We will carry out checks while assessing your application for telephone service and will verify your identity. We do this to help protect you from identity theft and fraud, and also to prevent and detect crime and money laundering.  We may also make periodic searches at CRAs and FPAs to manage your account with us.  
+3. If you tell us that you have a spouse or financial associate, we will link your records together so you must be sure that you have their agreement to disclose information about them. CRAs also link your records together and these links will remain on your and their files until such time as you or your partner successfully files for a disassociation with the CRAs to break that link.  
+4. Information on applications will be sent to CRAs and will be recorded by them. We may also give them details of your accounts and billing information, including how you manage it/them to CRAs We may tell them about payments you make to us, your account balances, and payment defaults [We may also give them historical information we hold about your payment history with us.] If you do not pay your bills on time, CRAs will record this information and it may be supplied to other organisations by CRAs and FPAs to perform similar checks and to trace your whereabouts and recover debts that you owe to them as well as us.
+
+ **How to find out more**  
+This is a condensed version and if you would like to read the full details of how your data may be used please visit our website at or phone [0800800150] or ask one of our staff.  
+You can contact the CRAs currently operating in the UK; the information they hold may not be the same so it is worth contacting them all. They will charge you a small statutory fee.  
+  
+   
+  
+  * Callcredit, Consumer Services Team, PO Box 491, Leeds, LS3 1WZ or call 0870 0601414 or log on to ;www.callcredit.co.uk
+  * Equifax PLC, Credit File Advice Centre, PO Box1140, Bradford, BD1 5US or call 0844 3350550 or log on to ;www.equifax.co.uk
+  * Experian, Consumer Help Service, PO Box 8000, Nottingham NG80 7WF or call 0844 4818000 or log on to ;www.experian.co.uk
 
   
 Return to top  
@@ -109,6 +133,9 @@ If there is a change (or prospective change) in the ownership of BT or any of it
 If you believe the personal information we hold on your is incorrect you may amend it by following the procedure set out below in "How can I change the personal information BT holds about me?"  
   
    
+  
+
+  
 Return to top  
    
   
@@ -201,7 +228,7 @@ We may change our privacy policy from time to time. New policies will be publish
 Return to top  
    
   
-#### Does BT´s privacy policy protect me when I use BT´s websites?  
+#### Does BT's privacy policy protect me when I use BT's websites?  
   
    
 BT´s privacy policy also applies to information collected when you use any of our websites.  
@@ -235,9 +262,7 @@ Over and above what BT does to safeguard your privacy and security on-line, ther
   * We also recommend you then close your browser so any history of the session is cleared. As an extra precaution, your session on bt.com will time out if you have not used the site for 30 minutes.
   * We collect information from visitors to our websites to help us to make improvements to the websites and to the services we make available. We know, for instance, how many visitors there are to each website, when they visited, for how long and to which areas of our website they went. We may share this information with our advertisers and to other companies which offer their goods or services on our websites. It helps to show these organisations how effective our websites are as sales channels for their products. You or any other individual cannot be identified from the information we share as the data is aggregated and anonymised.
   * We do not use this information to:
-  * identify individuals visiting our website; or
   * analyse your visits to any other websites (except that we do track you if you go to websites carrying our banner, but we do not identify personal details while we do this); or
-  * track any Internet searches which you may make while on our website.
 
   
 Return to top  
@@ -262,7 +287,7 @@ This cookie allows us to:
 
   
    
-We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it. BT´s cookies do not collect any information regarding the use of your PC or your Internet browsing in any way.  
+We do not store information regarding your telephone number, account or payment details in the cookie, and this information cannot be accessed using it.   
 Please note that as the cookie is based on your PC, we will not find it if you visit our websites using a different PC to the one you registered on.   
    
 Return to top  
