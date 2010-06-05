@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freedaysegypt.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204125931id_/http%3A//www.freedaysegypt.com/privicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freedaysegypt.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606004615id_/http%3A//www.freedaysegypt.com/privicy.php) for the most accurate reproduction.*
 
 # .::. Privacy Policy - FreeDaysEgypt .::.
 
