@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyinterlake.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203194623id_/http%3A//www.dailyinterlake.com/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyinterlake.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605064441id_/http%3A//www.dailyinterlake.com/site/privacy) for the most accurate reproduction.*
 
 # Daily Inter Lake - site
 
