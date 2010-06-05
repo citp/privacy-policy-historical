@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602124535id_/http%3A//www.eweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eweekeurope.co.uk privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605155301id_/http%3A//www.eweekeurope.co.uk/service-privacy-policy) for the most accurate reproduction.*
 
-# - Privacy Policy
+# Privacy Policy | eWEEK Europe UK
 
 NetMediaEurope endeavours to respect the privacy of its customers and users at all times, ensuring that the confidentiality of any information they share with NetMediaEurope is treated with the utmost guarantees. In the present Privacy Policy, NetMediaEurope sets out its compliance with current data protection legislation in the United Kingdom such as the UK Data Protection Act 1998. It also seeks to address any queries or doubts that its customers and users might have in this sense.
 
-NetMediaEurope S.A. is the owner of this website. For more information about NetMediaEurope S.A., such as contact details where users may exercise their legal right to access, rectify, cancel or challenge any data NetMediaEurope collects on its sites, please consult our Legal Notice.
+NetMediaEurope UK Ltd. is the owner of this website. For more information about NetMediaEurope UK Ltd., such as contact details where users may exercise their legal right to access, rectify, cancel or challenge any data NetMediaEurope collects on its sites, please consult our [Legal Notice](http://www.downsoft.com/legal).
 
-#### User Consent
+### User Consent
 
 By choosing to access this NetMediaEurope website, users recognise that they are aware of the present Privacy Policy that establishes what personal information NetMediaEurope collects via its website and the use it makes thereof.
 
-#### Personal Details
+### Personal Details
 
 NetMediaEurope will only use any personal contact details (postal address, email address, telephone number, mobile number, fax number etc.) that users provide via its websites to contact users regarding the services they have requested. This includes the publication of user-generated content on NetMediaEurope websites, user surveys aimed to help NetMediaEurope improve its service to you, registration renewals and alerts about information published by NetMediaEurope that the user has expressed a wish to receive.
 
@@ -22,7 +22,7 @@ In order to provide users with free resources, such as whitepaper libraries or p
 
 NetMediaEurope may also offer users the possibility to opt-in to receive marketing information about ICT products and services from carefully selected, reputable companies and organizations: either by email, telephone, post and/or SMS. NetMediaEurope will only send users marketing information that it believes may be of their interest, either in a personal or professional capacity. NetMediaEurope will however always send this information to you directly. It will never divulge a user’s personal or professional details to third parties without the user’s express consent.
 
-#### Website User Information
+### Website User Information
 
 NetMediaEurope collects certain types of anonymous statistical information about its website users, such as domain names and IP addresses, operating systems, browser, browser version, cookie details and referral websites. The reason for this is to identify and rectify faults in the website and be able to manage traffic adequately. However, NetMediaEurope never links this brute statistical information to specific users.
 
@@ -30,9 +30,9 @@ HTTP cookies are parcels of text sent by web servers to user browsers or other w
 
 NetMediaEurope uses the following third-party services in its websites, to serve advertisements and measure traffic:
 
-_DART. Ad server whose privacy policy can be reviewed here:[http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)_
-
-_Google Analytics: traffic measurement and tracking service, whose privacy policy can be reviewed here:<http://www.google.com/intl/en_ALL/privacy.html>._
+DART. Ad server whose privacy policy can be reviewed here: [http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&  
+](http://www.doubleclick.com/us/corporate/privacy/privacy/default.asp?asp_object_1=&)  
+Google Analytics: traffic measurement and tracking service, whose privacy policy can be reviewed here: <http://www.google.com/intl/en_ALL/privacy.html>.
 
 NetMediaEurope uses the above third-party services in good faith but can in no way be held responsible for the content or the privacy policies of these and other third-party websites whose content is linked to from its own websites.
 
