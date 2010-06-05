@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vapornation.com privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203114856id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vapornation.com privacy policy that was archived on 2010-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605155147id_/http%3A//www.vapornation.com/store/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -7,16 +7,60 @@
 <meta name="Keywords" content="Vaporizer, Vaporizers, Portable Vaporizer, Weed Vaporizer, Digital Vaporizer, How to make a Vaporizer, Marijuana Vaporizer, Vapir">
 <title>Vaporizer | Vaporizers | Volcano Vaporizer | Vaporizor | Vapir | Make Vaporizer </title>
 
-<link href="css/style.css" rel="stylesheet" type="text/css" media="screen">
-<link href="stylesheet.css" rel="stylesheet" type="text/css" media="screen">
-<!--[if IE]><link href="css/styleie.css" rel="stylesheet" type="text/css" media="screen" /><![endif]-->
-<script type="text/javascript" src="css/faq.js"></script>
-<script type="text/javascript" src="Scripts/external.js"></script>
-<script src="Scripts/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="Scripts/blink.js" type="text/javascript"></script>
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/swfobject.js" type="text/javascript"></script>
 
-<script type="text/javascript" src="http://www.trustlogo.com/trustlogo/javascript/trustlogo.js"></script>
-<script type="text/javascript" src="http://www.trustlogo.com/trustlogo/javascript/cot.js"></script>
+
+
+<link href="stylesheet.css" rel="stylesheet" type="text/css">
+<link href="style3.css" rel="stylesheet" type="text/css">
+
+
+<!--[if IE 5]>
+<style type="text/css"> 
+/* place css box model fixes for IE 5* in this conditional comment */
+.twoColFixLtHdr #sidebar1 { width: 230px; }
+</style>
+<![endif]-->
+<!--[if IE 6]>
+<style type="text/css">
+.twoColFixLtHdr .sidebar1 {
+	background-color: #171717;
+	float: left;
+	margin-left: 2px;	/* IE6 specisific */
+	width: 184px;
+}
+.twoColFixLtHdr #mainContent {
+	background-color: #171717;
+	margin-top: 0;
+	margin-right: 0px;
+	margin-bottom: 0;
+	margin-left: 193px;	/* IE6 specisific */
+	text-align: left;
+} 
+#pageflipleft {
+	position: relative;
+	float:left;	/* IE6 specisific */
+}
+</style>
+<![endif]-->
+<!--[if IE]>
+<style type="text/css"> 
+/* place css fixes for all versions of IE in this conditional comment */
+.twoColFixLtHdr #sidebar1 { padding-top: 30px; }
+.twoColFixLtHdr #mainContent { zoom: 1; }
+/* the above proprietary zoom property gives IE the hasLayout it needs to avoid several bugs */
+</style>
+<![endif]-->
+<style type="text/css">
+<!--
+body {
+	background-image: url(images3/BG3.jpg);
+	background-repeat: repeat;
+}
+-->
+</style>
+
+ 
 
 <script language="javascript">
 var formposted=0;
@@ -29,10 +73,160 @@ function chkform2()
  return false;
 
 }
+function URLEncode(str )
+{
+	// The Javascript escape and unescape functions do not correspond
+	// with what browsers actually do...
+	var SAFECHARS = "0123456789" +					// Numeric
+					"ABCDEFGHIJKLMNOPQRSTUVWXYZ" +	// Alphabetic
+					"abcdefghijklmnopqrstuvwxyz" +
+					"-_.!~*''()";					// RFC2396 Mark characters
+	var HEX = "0123456789ABCDEF";
 
-</script></head>
+	var plaintext = str;
+	var encoded = "";
+	for (var i = 0; i < plaintext.length; i++ ) {
+		var ch = plaintext.charAt(i);
+	    if (ch == " ") {
+		    encoded += "+";				// x-www-urlencoded, rather than %20
+		} else if (SAFECHARS.indexOf(ch) != -1) {
+		    encoded += ch;
+		} else {
+		    var charCode = ch.charCodeAt(0);
+			if (charCode > 255) {
+			    alert( "Unicode Character ''" 
+                        + ch 
+                        + "'' cannot be encoded using standard URL encoding.\n" +
+				          "(URL encoding only supports 8-bit characters.)\n" +
+						  "A space (+) will be substituted." );
+				encoded += "+";
+			} else {
+				encoded += "%";
+				encoded += HEX.charAt((charCode >> 4) & 0xF);
+				encoded += HEX.charAt(charCode & 0xF);
+			}
+		}
+	} // for
 
-<body>
+	
+	return encoded;
+}
+function trfunc(lang) {
+   var url=URLEncode(document.URL);
+   var newurl="http://translate.google.com/translate?client=tmpg&hl=en&u=" + url +  "&langpair=";
+   
+   switch(lang) {
+    case 1: newurl=newurl+"en|tr";break;
+	case 2: newurl=newurl+"en|es";break;
+	case 3: newurl=newurl+"en|ru";break;
+	case 4: newurl=newurl+"en|ro";break;
+	case 5: newurl=newurl+"en|ko";break;
+	case 6: newurl=newurl+"en|ja";break;
+	case 7: newurl=newurl+"en|it";break;
+	case 8: newurl=newurl+"en|hi";break;
+	case 9: newurl=newurl+"en|iw";break;
+	case 10: newurl=newurl+"en|el";break;
+	case 11: newurl=newurl+"en|de";break;
+	case 12: newurl=newurl+"en|fr";break;
+	case 13: newurl=newurl+"en|en";break;
+	case 14: newurl=newurl+"en|nl";break;
+	case 15: newurl=newurl+"en|zh-TW";break;
+   }
+  // alert(newurl);
+  document.location=newurl; 
+}
+</script>
+
+
+<script type="text/javascript" src="/Scripts/jquery-1.4.2.min.js"></script>
+	<script type="text/javascript"> 
+	jQuery.noConflict();
+	
+	jQuery(document).ready(function(){
+	 
+	//Page Flip on hover
+	 
+	jQuery("#pageflip").hover(function() { //On hover...
+		jQuery("#pageflip img , .msg_block").stop()
+			.animate({ //Animate and expand the image and the msg_block (Width + height)
+				width: '250px',
+				height: '260px'
+			}, 500);
+		} , function() {
+		jQuery("#pageflip img").stop() //On hover out, go back to original size 50x52
+			.animate({
+				width: '102px',
+				height: '106px'
+			}, 220);
+		jQuery(".msg_block").stop() //On hover out, go back to original size 50x50
+			.animate({
+				width: '102px',
+				height: '102px'
+			}, 200); //Note this one retracts a bit faster (to prevent glitching in IE)
+	});
+	 
+	
+	//Page Flip on hover (Left)
+	 
+	jQuery("#pageflipleft").hover(function() { //On hover...
+		jQuery("#pageflipleft img , .msg_block1").stop()
+			.animate({ //Animate and expand the image and the msg_block (Width + height)
+				width: '250px',
+				height: '260px'
+			}, 500);
+		} , function() {
+		jQuery("#pageflipleft img").stop() //On hover out, go back to original size 50x52
+			.animate({
+				width: '102px',
+				height: '106px'
+			}, 220);
+		jQuery(".msg_block1").stop() //On hover out, go back to original size 50x50
+			.animate({
+				width: '102px',
+				height: '102px'
+			}, 200); //Note this one retracts a bit faster (to prevent glitching in IE)
+	});
+	
+	});
+	</script>
+
+
+
+<script type="text/javascript" src="http://www.trustlogo.com/trustlogo/javascript/trustlogo.js"></script>
+<script type="text/javascript" src="http://www.trustlogo.com/trustlogo/javascript/cot.js"></script>
+
+<script type="text/javascript">
+			function popup(){
+				if ((window.event.clientX < 0) && (window.event.clientY < 0)){
+					url = "http://www.surveymonkey.com/s/WGXSYYF";
+					winname = "survey";
+					winproperties = "width=700,height=400,left=300,top=200,resizable=yes,scrollbars=yes,menubar=no,toolbar=no,directories=no,location=no,status=no";
+					window.open(url, winname, winproperties);
+				}
+			}
+			</script>
+</head>
+
+<body class="twoColFixLtHdr">
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-4875215-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
 
 <h1 id="seo">
   Vaporizer | Vaporizers | Volcano Vaporizer | Vaporizor | Vaporizer how to | Vapir | Make Vaporizer | Herbal Vaporizer | 
@@ -49,204 +243,217 @@ VaporNation Apparel</h2>
 
 
 <a id="seo" href="http://www.atlantawebexpert.com">Web Master: Atlanta Web Expert</a>
+
+<div id="pageflipleft">
+	<a href="/store/gift.php">
+		<img style="border: medium none ; width: 102px; display: block; height: 106px; text-decoration: none;" src="page_flip1.png" alt="">
+		<span class="msg_block1"></span>
+	</a>
+</div>
+
+<div id="pageflip">
+	<a href="/store/specials.php">
+		<img style="border: medium none ; width: 102px; display: block; height: 106px; text-decoration: none;" src="page_flip.png" alt="">
+		<span class="msg_block"></span>
+	</a>
+</div>
+
+
+<div id="header">
+<div id="logo">
+<img src="images3/logo.png" width="464" height="130" alt="logo">
+</div>
+<div id="nav">
+
+<ul>
+<li><a href="#" onclick="javascript:trfunc(15)"><img src="images3/b1.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(14)"><img src="images3/b2.jpg" width="20" height="12" border="0"></a></li>
+
+<li><a href="#" onclick="javascript:trfunc(13)"><img src="images3/b3.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(12)"><img src="images3/b4.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(11)"><img src="images3/b5.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(10)"><img src="images3/b6.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(9)"><img src="images3/b7.jpg" border="0"></a></li><a href="#" onclick="javascript:trfunc(9)">
+</a><li><a href="#" onclick="javascript:trfunc(9)"></a><a href="#" onclick="javascript:trfunc(8)"><img src="images3/b8.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(7)"><img src="images3/b9.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(6)"><img src="images3/b10.jpg" width="20" height="12" border="0"></a></li>
+
+<li><a href="#" onclick="javascript:trfunc(5)"><img src="images3/b11.jpg" border="0"></a></li><a href="#" onclick="javascript:trfunc(5)">
+</a><li><a href="#" onclick="javascript:trfunc(5)"></a><a href="#" onclick="javascript:trfunc(4)"><img src="images3/b12.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(3)"><img src="images3/b13.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(2)"><img src="images3/b14.jpg" width="20" height="12" border="0"></a></li>
+<li><a href="#" onclick="javascript:trfunc(1)"><img src="images3/b15.jpg" width="20" height="12" border="0"></a></li>
+</ul>
+<div class="menu"><a href="/store/about_us.php">About Us</a> | <!--<a href="/blog/">Blog</a> | --><a href="/store/account.php">My Account</a> | <a href="/store/shopping_cart.php">My Cart</a> | <a href="/store/contact_us.php">Contact</a> |  <a href="/store/affiliate_affiliate.php">Affiliate Log-in</a> | <a href="/store/wholesaler_account.php">Wholesalers</a></div>
+<div class="cart">Your cart is empty. <a href="shopping_cart.php"><img src="images3/cart.png" width="19" height="18" border="0"></a></div>
+
+</div>
+</div>
+<div id="menu">
+  <ul>
+   <li><a href="/index.php">Home</a></li>
+   <li><a href="/store/Popular-Vaporizers-Monthly-Specials-c-79_36.html">Monthly Specials</a></li>
+   <li><a href="/articles/">Vaporizer Info</a></li>
+   <li><a href="/store/affiliate_info.php">Affiliates</a></li>
+</ul>
+	
+
+ <div style="float:right; margin-top:5px; margin-right: 3px;">
+  	
+    <form id="srcform" name="srcform" method="post" action="/store/advanced_search_result.php">
+	
+	<object id="FlashIDflasher" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="384" height="22" style="float:left; border-style:none; border-width:0px;">
+	<param name="movie" value="flasher.swf">
+	<param name="quality" value="high">
+	<param name="wmode" value="opaque">
+	<param name="swfversion" value="8.0.35.0">
+	<!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don’t want users to see the prompt. -->
+	<param name="expressinstall" value="/Scripts/expressInstall.swf">
+	<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+	<!--[if !IE]>-->
+	<object type="application/x-shockwave-flash" data="flasher.swf" width="384" height="22" style="float:left; border-style:none; border-width:0px;">
+	  <!--<![endif]-->
+	  <param name="quality" value="high">
+	  <param name="wmode" value="opaque">
+	  <param name="swfversion" value="8.0.35.0">
+	  <param name="expressinstall" value="/Scripts/expressInstall.swf">
+	  <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+	  <div>
+		<h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+		<p><a href="http://www.adobe.com/go/getflashplayer"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+	  </div>
+	  <!--[if !IE]>-->
+	</object>
+	<!--<![endif]-->
+	</object>
+	
+      <input style="float:left; border-style:none; border:0px; height:20px; margin-left: 7px;" name="keywords" type="text" id="keywords">  
+	  <input type="image" src="images3/search_button.jpg" width="68" height="22" border="0" style="padding-right:5px; margin-left: 7px;">
+    </form>
+    
+  </div>
+
+</div>
 <div id="container">
-  <div id="search_bar">
-    <div id="search_left">
- 		<!--a href="http://www.vapornation.com/store/specials.php"><img src="images/banner/bannera.gif" border=0></a--->
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,28,0" width="280" height="46">
-  <param name="movie" value="images/banner/banner.swf">
-  <param name="quality" value="high">
-  <param name="wmode" value="transparent">  
-  <embed src="images/banner/banner.swf" quality="high" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" width="280" height="46" wmode="transparent">
-</object><br>
-<a href="specials.php"><img src="http://www.vapornation.com/store/images/banner/banner.png" border="0" style="margin-left:20px;"></a>
 
-    </div>
-    <div id="search_right"> <a href="https://www.vapornation.com/store/login.php" class="headerNavigation">My Account</a> | <a href="contact_us.php">Contact</a> | <a href="affiliate_affiliate.php"> Affiliate Log-in</a> | <a href="wholesaler_account.php"> Wholesalers</a>
-      <p>CALL TOLL FREE: 1-888-321-VAPOR (8276)&nbsp; </p>
-      <p></p><form name="quick_find" action="advanced_search_result.php?search_in_description=1&amp;x=0&amp;y=0&amp;categories_id=&amp;inc_subcat=1&amp;manufacturers_id=&amp;pfrom=&amp;pto=&amp;dfrom=mm%2Fdd%2Fyyyy&amp;dto=mm%2Fdd%2Fyyyy" method="get" onsubmit="return checkKeyword()">
-         <input type="image" src="http://www.vapornation.com/store/images/go.gif" value="GO" style="float:right">
-        <input type="text" class="search_box" name="keywords" style="float:right">
-       <span id="label" style="float:right;padding-top:3px;">SEARCH: </span><span>
-        </span>
-      </form><p></p>
-      <p style="clear:right;padding-top:15px;_padding-top:0px;"><strong>Your cart is empty.</strong></p>
-    </div>
-  </div>
-  <div id="header_image">&nbsp;</div>
-  <div id="navigation">
-    <ul>
-      <li><a href="/index.php">Home</a></li>
-      <li><a href="index.php">Store</a></li>
-      <li><a href="Monthly-Specials-c-36.html">Monthly Specials</a></li>
-      <li><a href="/articles/">Vaporizer Info</a></li>
-      <li><a href="about_us.php">About Us</a></li>
-      <li><a href="/blog/">Blog</a></li>
-      <li><a href="affiliate_info.php">Affiliates</a></li>
-      <li id="navi"><a href="shopping_cart.php">My Cart</a></li>
-      <li id="navi"><a href="contact_us.php">Contact</a></li>
-    </ul>
-  </div>
-  <div id="contentArea">
-    <div id="leftPart">
-      <div id="leftNav">
-        <!--first menu-->
-        <div class="menu">
-          <div class="menu_top">
-            <p class="text4"> VAPORIZER STORE</p>
-          </div>
-          <div class="menu_center"> 
-          <li class="cat_lev_0" style="list-style: none;"><a href="#" class="parent">Live Chat Help</a>
-   <ul>
-   <!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
-<div id="cis5iw" style="z-index:100;position:absolute"></div><div id="scs5iw" style="display:inline"></div><div id="sds5iw" style="display:none"></div><script type="text/javascript">var ses5iw=document.createElement("script");ses5iw.type="text/javascript";var ses5iws="http://image.providesupport.com/js/vapornation/safe-standard.js?ps_h=s5iw\u0026ps_t="+new Date().getTime();setTimeout("ses5iw.src=ses5iws;document.getElementById(''sds5iw'').appendChild(ses5iw)",1)</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=vapornation">Live Chat Help</a></div></noscript>
-<!-- END ProvideSupport.com Graphics Chat Button Code -->
-   
-   </ul>
-   </li>
-          
-          
-<!-- start categorybox //-->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td align="left" class="boxText"><form name="shop_price" action="http://www.vapornation.com/store/shop_by_price.php" method="get"><select name="range" onchange="this.form.submit();" size="1" style="width: 100%"><option value="0">Shop By Price</option><option value="0">Under $100.00</option><option value="1">From $100.00 to $200.00</option><option value="2">From $200.00 to $300.00</option><option value="3">From $300.00 to $400.00</option><option value="4">Above $400.00</option><option value="5">Show all price ranges</option></select></form></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<!-- end categorybox //-->
+<!--[if IE 8]>
+<div class="sidebar1" style="background-color:#000000">
+<![endif]-->
+<!--[if IE 7]>
+<div class="sidebar1ie7" style="background-color:#000000">
+<![endif]-->
+<!--[if IE 6]>
+<div class="sidebar1" style="background-color:#000000">
+<![endif]-->
+<!--[if IE 5]>
+<div class="sidebar1" style="background-color:#000000">
+<![endif]-->
+<!--[If !(IE)]-->
+<div class="sidebar1" style="background-color:#000000">
+<!--[endif]-->
 
-          
-<!-- start shopbypricebox //-->
-<ul><li class="cat_lev_0"><a href="#" class="parent">Popular Vaporizers</a>
-<ul><li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Digital-Vaporizers-c-79_52.html">Digital Vaporizers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Forced-Air-Vaporizers-c-79_122.html">Forced Air Vaporizers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Globe-Vaporizers-c-79_118.html">Globe Vaporizers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Handsfree-Vaporizers-c-79_59.html">Handsfree Vaporizers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Monthly-Specials-c-79_36.html">Monthly Specials</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Portable-Vaporizers-c-79_56.html" class="parent">Portable Vaporizers</a>
-<ul><li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Portable-Vaporizers-Arizer-c-79_56_107.html">Arizer</a></li>
-</ul></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Standard-Vaporizers-c-79_57.html">Standard Vaporizers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Vaporizers-Top-Ranking-Vaporizers-c-79_51.html">Top Ranking Vaporizers</a></li>
-</ul></li>
-<li class="cat_lev_0"><a href="#" class="parent">Popular Brands</a>
-<ul><li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Hot-Box-c-80_58.html">Hot Box</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-iolite-c-80_108.html">iolite</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Predator-c-80_126.html">Predator</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Silver-Surfer-c-80_99.html">Silver Surfer</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Vapir-c-80_55.html">Vapir</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-VaporBrothers-c-80_65.html">VaporBrothers</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Volcano-c-80_45.html">Volcano</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-c-80_103.html" class="parent">Other Brands</a>
-<ul><li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Arizer-c-80_103_116.html">Arizer</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-AroMed-c-80_103_85.html">AroMed</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-HappyVappy-c-80_103_66.html">HappyVappy</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-HerbalAire-c-80_103_92.html">HerbalAire</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-iVape-c-80_103_93.html">iVape</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Kia-Vaporizer-c-80_103_124.html">Kia Vaporizer</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Natural-Goods-c-80_103_96.html">Natural Goods</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Vapolution-c-80_103_84.html">Vapolution</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Vapor-Box-c-80_103_67.html">Vapor Box</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Vapor-Genie-c-80_103_114.html">Vapor Genie</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Popular-Brands-Other-Brands-Vapor-Tower-c-80_103_82.html">Vapor Tower</a></li>
-</ul></li>
-</ul></li>
-<li class="cat_lev_0"><a href="#" class="parent">Related Products</a>
-<ul><li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Grinders-c-78_46.html" class="parent">Grinders</a>
-<ul><li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Grinders-Acrylic-Grinders-c-78_46_47.html">Acrylic Grinders</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Grinders-Electric-Grinders-c-78_46_50.html">Electric Grinders</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Grinders-Metal-Grinders-c-78_46_48.html">Metal Grinders</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Grinders-Wooden-Grinders-c-78_46_49.html">Wooden Grinders</a></li>
-</ul></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Oils-c-78_44.html">Oils</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Vapor-Whips-and-Glassware-c-78_54.html">Vapor Whips and Glassware</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-c-78_53.html" class="parent">Vaporizer Accessories</a>
-<ul><li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-Battery-and-Charger-Kits-c-78_53_111.html">Battery and Charger Kits</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-Other-Vaporizer-Accessories-c-78_53_113.html">Other Vaporizer Accessories</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-Scales-c-78_53_112.html">Scales</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-Vapir-Accessories-c-78_53_110.html">Vapir Accessories</a></li>
-<li class="cat_lev_2"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Accessories-Volcano-Accessories-c-78_53_109.html">Volcano Accessories</a></li>
-</ul></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Vaporizer-Apparel-c-78_39.html">Vaporizer Apparel</a></li>
-<li class="cat_lev_1"><a href="http://www.vapornation.com/store/Related-Products-Herbs-c-78_86.html">Herbs</a></li>
-</ul></li></ul>
-<!-- end shopbypricebox //-->
+<div>
+	  <object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="184" height="251">
+		<param name="movie" value="images3/flash.swf">
+		<param name="quality" value="high">
+		<param name="wmode" value="opaque">
+		<param name="swfversion" value="6.0.65.0">
+		<!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don�t want users to see the prompt. -->
+		<param name="expressinstall" value="/Scripts/expressInstall.swf">
+		<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+		<!--[if !IE]>-->
+		<object type="application/x-shockwave-flash" data="images3/flash.swf" width="184" height="251">
+		  <!--<![endif]-->
+		  <param name="quality" value="high">
+		  <param name="wmode" value="opaque">
+		  <param name="swfversion" value="6.0.65.0">
+		  <param name="expressinstall" value="/Scripts/expressInstall.swf">
+		  <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+		  <div>
+			<h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+			<p><a href="http://get.adobe.com/flashplayer/otherversions/"><img src="http://www.adobe.com/images/shared/download_buttons/get_adobe_flash_player.png" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+		  </div>
+		  <!--[if !IE]>-->
+		</object>
+		<!--<![endif]-->
+	  </object>
+	</div>
 
+
+        <div class="popular" style="padding-bottom:3px"> 
           
-          </div>
-        </div>
-        <div class="menu">
-          <div class="menu_top">
-            <p class="text4"> AFFILIATE PROGRAM</p>
-          </div>
-          <div class="menu_center">
-            <ul>
-              <li><a href="affiliate_info.php">Affiliate Information</a></li>
-              <li><a href="affiliate_faq.php">Affiliate Program FAQ</a></li>
-              <li><a href="affiliate_affiliate.php">Affiliate Log In</a></li>
-            </ul>
-          </div>
-        </div>
-        <div class="menu">
-          <div class="menu_top">
-            <p class="text4"> INFORMATION</p>
-          </div>
-          <div class="menu_center"> 
-<!-- start informationbox //-->
-<table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBox">
-  <tbody><tr>
-    <td><table border="0" width="100%" cellspacing="0" cellpadding="0" class="infoBoxContents">
-  <tbody><tr>
-    <td class="boxText"><ul><li><a href="http://www.vapornation.com/store/about_us.php">About Us</a></li><li><a href="http://www.vapornation.com/store/contact_us.php">Contact Us</a></li><li><a href="http://www.vapornation.com/store/conditions.php">Conditions of Use</a></li><li><a href="http://www.vapornation.com/store/free_shipping.php">Free Shipping</a></li><li><a href="http://www.vapornation.com/store/low_price_guarantee.php">Low Price Guarantee</a></li><li><a href="http://www.vapornation.com/store/press.php">Press Releases</a></li><li><a href="http://www.vapornation.com/store/privacy.php">Privacy Notice</a></li><li><a href="http://www.vapornation.com/store/reward_points.php">Rewards and Points</a></li><li><a href="http://www.vapornation.com/store/satisfaction_guarantee_return_policy.php">Return Policy</a></li><li><a href="http://www.vapornation.com/store/shipping.php">Shipping</a></li><li><a href="http://www.vapornation.com/store/unreceived_orders.php">Unreceived Orders</a></li><li><a href="http://www.vapornation.com/store/vaporizers_health_benefits.php">Vaporizer Health Benefits</a></li><li><a href="http://www.vapornation.com/store/vaporizer-instructions.php">Vaporizer Instructions</a></li><li><a href="http://www.vapornation.com/store/wholesaler_account.php">Wholesaler Login</a></li></ul></td>
-  </tr>
-</tbody></table>
-</td>
-  </tr>
-</tbody></table>
-<!-- end informationbox //-->
- </div>
-        </div>
-        <div class="menu">
-          <div class="menu_top">
-            <p class="text4"> SUBSCRIBE NEWSLETTER</p>
-          </div>
-          <div class="menu_center">
-            <form name="newsletter" action="newsletters_subscribe.php" method="post" onsubmit="return verify(this);">
-              <span class="smallText"><strong>Get a FREE Subscription and receive details about special offers, sales and discount offerings. Its All Free!<br>
-              </strong></span>
-              <div>Name :
-                <input type="text" name="lastname" value="">
-              </div>
-              <div>Email :
-                <input type="text" name="Email" value="">
-              </div>
-              <div>
-                <input type="submit" name="Submit" value="Subscribe" class="btn">
-              </div>
-            </form>
-          </div>
-        </div>
-				<!-- TRANSLATE -->
-		        <div class="menu">
-<div class="menu_center"> </div>
-        </div>
-		
-		<!--TRANSLATE END -->
-      </div>
-    </div>
-    <div id="rightPart">
-      <div class="main_content">
-        <div>
-          <marquee behavior="scroll" direction="left" scrollamount="2" scrolldelay="12">
-          <a href="free_shipping.php"><img src="images/shipping1.gif" border="0"></a>
-          </marquee>
-        </div>
-        <div class="content_center">
-          <div class="content_text"> 
+           <img src="images3/sidebarp3.jpg" width="184" height="23"><ul>
+<li><a href="/store/shop_by_price.php?range=4" class="parent">$400 +</a></li>
+<li><a href="/store/shop_by_price.php?range=3" class="parent">$300 - $400</a></li>
+<li><a href="/store/shop_by_price.php?range=2" class="parent">$200 - $300</a></li>
+<li><a href="/store/shop_by_price.php?range=1" class="parent">$100 - $200</a></li>
+<li><a href="/store/shop_by_price.php?range=0" class="parent">Under $100 </a></li>
+</ul>
+<img src="images3/sidebarp2.jpg" width="184" height="23"><ul>
+<li><a href="/store/arizer-vaporizers.html">Arizer</a></li>
+<li><a href="/store/hot-box-vaporizers.html">Hot Box</a></li>
+<li><a href="/store/iolite-vaporizers.html">Iolite <font color="#FF0000" size="-4">Free Butane Refill</font></a></li>
+<li><a href="/store/predator-vaporizer.html">Predator</a></li>
+<li><a href="/store/silver-surfer-vaporizers.html">Silver Surfer</a></li>
+<li><a href="/store/vapir-vaporizers.html">Vapir</a></li>
+<li><a href="/store/vaporbrothers-vaporizers.html">VaporBrothers</a></li>
+<li><a href="/store/volcano-vaporizers.html">Volcano</a></li>
+<li><a href="/store/index.php?cPath=103" class="parent">Other Brands</a></li></ul>
+
+           <img src="images3/sidebarp1.jpg" width="184" height="23"><ul>
+<li><a href="/store/index.php?cPath=52">Digital Vaporizers</a></li>
+<li><a href="/store/index.php?cPath=122">Forced Air Vaporizers</a></li>
+<li><a href="/store/index.php?cPath=118">Discount Vaporizers</a></li>
+<li><a href="/store/index.php?cPath=59">Handsfree Vaporizers</a></li>
+<li><a href="/store/index.php?cPath=56" class="parent">Portable Vaporizers</a></li><li><a href="/store/index.php?cPath=57">Standard Vaporizers</a></li>
+<li><a href="/store/index.php?cPath=51">Top Ranking Vaporizers</a></li>
+</ul>
+
+
+<img src="images3/sidebarp4.jpg" width="184" height="23"><ul>
+<li><a href="/store/index.php?cPath=53" class="parent">Vaporizer Accessories</a></li>
+<li><a href="/store/index.php?cPath=54">Vapor Whips and Glassware</a></li>
+<li><a href="/store/index.php?cPath=46" class="parent">Herbal Grinders</a></li>
+<li><a href="/store/index.php?cPath=39">Vaporizer Apparel</a></li>
+
+<li><a href="/store/index.php?cPath=44">Oils</a></li>
+<li><a href="/store/index.php?cPath=86">Herbs</a></li>
+</ul>
+
+
+
+            </div> 
+
+<div>
+	
+		<!-- BEGIN ProvideSupport.com Graphics Chat Button Code -->
+		<div id="cis5iw" style="z-index:100;position:absolute"></div><div id="scs5iw" style="display:inline"></div><div id="sds5iw" style="display:none"><script type="text/javascript" src="http://image.providesupport.com/js/vapornation/safe-standard.js?ps_h=s5iw&amp;ps_t=1580382071220"></script></div>
+		<script type="text/javascript">
+		var ses5iw=document.createElement("script");ses5iw.type="text/javascript";var ses5iws="http://image.providesupport.com/js/vapornation/safe-standard.js?ps_h=s5iw\u0026ps_t="+new Date().getTime();
+		for(i=1;i<1000;i++) {
+		 j=i;
+		}
+		 ses5iw.src=ses5iws;
+		document.getElementById("sds5iw").appendChild(ses5iw);
+		</script><noscript><div style="display:inline"><a href="http://www.providesupport.com?messenger=vapornation">Live Chat Help</a></div></noscript>
+	<a href="../store/low_price_guarantee.php"><img style="padding-top:6px; padding-bottom:4px; border-style: none;" src="images3/low.jpg" width="183" height="96"></a>
+	<img style="padding-top:5px; padding-bottom:4px;" src="images3/paypal.jpg" width="183" height="65">
+	<a href="http://www.la.bbb.org/BusinessReport.aspx?CompanyID=100071279&amp;source=ctc"><img style="padding-top:5px; padding-bottom:4px;" src="images3/bbb.jpg" width="183" height="70" border="0"></a>
+	<img style="padding-top:5px; padding-bottom:4px;" src="images3/ups.jpg" width="183" height="65">
+	<img style="padding-top:5px; padding-bottom:4px;" src="images3/xhtmlx.jpg" width="183" height="65">
+</div>
+	
+</div>
+         
+  <div id="mainContent">
+  	<div id="breadcrumb" style="width:852px; float:left;">
+  	<div class="breadcrumbtail"><a href="http://www.vapornation.com" class="headerNavigation">Home</a> » <a href="http://www.vapornation.com/store/privacy.php" class="headerNavigation">Privacy Notice</a></div>
+
+	 <table style="float:left" border="0" align="left" width="99%" bgcolor="#FFFFFF" cellpadding="2" cellspacing="0"><tbody><tr><td>
+	 
+	 
+	 
+	 
 <!-- start content //-->
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
       <tbody><tr>
@@ -261,7 +468,7 @@ VaporNation Apparel</h2>
         <td><img src="images/pixel_trans.gif" border="0" alt="" width="100%" height="20"></td>
       </tr>
       <tr>
-        <td><table border="0" width="100%" cellspacing="0" cellpadding="2">
+        <td style="padding-left:30px; padding-right:30px;"><table border="0" width="100%" cellspacing="0" cellpadding="2">
           <tbody><tr>
             <td class="main">At VaporNation.com, your privacy is a <strong>TOP</strong> priority. We want our users to be aware of any information we collect, how we use it, and under what circumstances, if any, we disclose it.<br><br>
 <b>Information we collect and use</b>:<br><br>
@@ -298,103 +505,163 @@ If you have any questions or suggestions regarding our privacy policy, the pract
       </tr>
 	  <tr>
 			  <td>
-			  <p><br><br><a href="store/reward_points.php?&amp;sid"><img src="images/600x.jpg" border="0" width="580"></a></p>
 
-<p style="padding-top:10px;">
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="https://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="580" height="177" id="vepor1401" align="middle">
-<param name="allowScriptAccess" value="sameDomain">
-<param name="movie" value="https://www.vapornation.com/vepor1401.swf"><param name="quality" value="high"><param name="bgcolor" value="#000000"><embed src="https://www.vapornation.com/vepor1401.swf" quality="high" bgcolor="#000000" width="580" height="177" name="vepor1401" align="middle" allowscriptaccess="sameDomain" type="application/x-shockwave-flash" pluginspage="https://www.macromedia.com/go/getflashplayer">
-</object>
-</p>
 			  </td>
 			  </tr>
     </tbody></table>
 <!-- end content //-->
- </div>
-        </div>
-      </div>
-      <!--main add goes here-->
-      <div class="main_content">
-        <table width="100%">
-          <tbody><tr>
-            <td width="50%"><a href="../blog/feed/" title="RSS Feed - Subscribe to the Vapor Nation Blog"><img src="images/banner/subscribe-blog.jpg" alt="Click to Subscribe to the Vapor Nation Blog" border="0"></a></td>
-            <td width="50%"><a href="free_shipping.php" title="Free Shipping - Click for More Information" target="_blank"><img src="images/banner/free-shipping.jpg" alt="Free Shipping - Click for More Information" border="0" style="margin:5px 0;"></a></td>
-          </tr>
-          <tr>
-            <td><a href="wholesalers.php" title="Wholesalers" target="_self"><img src="../images/add1.gif" alt="Wholesalers" border="0" style="margin:5px 0px;"></a></td>
-            <td><a href="affiliate_info.php" title="Vapor Nation - Join our Affiliate Program!" target="_blank"><img src="../images/add2.gif" alt="Join our Affiliate Program!" border="0"></a></td></tr>
-        </tbody></table>
-		<div id="bottom">
-		<span style="width:50px;">&nbsp;</span>
-        <span><a href="shipping.php"><img src="images/UPS-logo.gif" border="0"></a></span><span style="width:50px;">&nbsp;</span>
- 		<span>
-<a href="http://www.la.bbb.org/BusinessReport.aspx?CompanyID=100071279"><img src="http://www.la.bbb.org/images/clickratingsm.gif" width="135" height="52" border="0"></a>  &nbsp;  
-</span><span style="width:50px;">&nbsp;</span>
-        <span><img src="images/weaccept.png" border="0"></span>
-    </div>
-      </div>
-    </div>
-    <!--RightPart Ends here------->
-  </div>
-  <!--ContentArea-->
 
-    <div id="footer">
-      <ul>
-        <h1>Affiliates <img src="images/footer-bullet.jpg"></h1>
+	
+	 </td></tr></tbody></table>
+</div>
+
+<div style="margin-left:0px; float:left;">
+	
+	
+	
+	
+	
+	<div style="background-color:#000000;">
+		  <object id="FlashID2" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="843" height="158">
+			<param name="movie" value="/images/vepor_final.swf">
+			<param name="quality" value="high">
+			<param name="wmode" value="opaque">
+			<param name="swfversion" value="8.0.35.0">
+			<!-- This param tag prompts users with Flash Player 6.0 r65 and higher to download the latest version of Flash Player. Delete it if you don�t want users to see the prompt. -->
+			<param name="expressinstall" value="/Scripts/expressInstall.swf">
+			<!-- Next object tag is for non-IE browsers. So hide it from IE using IECC. -->
+			<!--[if !IE]>-->
+			<object type="application/x-shockwave-flash" data="/images/vepor_final.swf" width="843" height="158">
+			  <!--<![endif]-->
+			  <param name="quality" value="high">
+			  <param name="wmode" value="opaque">
+			  <param name="swfversion" value="8.0.35.0">
+			  <param name="expressinstall" value="/Scripts/expressInstall.swf">
+			  <!-- The browser displays the following alternative content for users with Flash Player 6.0 and older. -->
+			  <div>
+				<h4>Content on this page requires a newer version of Adobe Flash Player.</h4>
+				<p><a href="http://get.adobe.com/flashplayer/otherversions/"><img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" width="112" height="33"></a></p>
+			  </div>
+			  <!--[if !IE]>-->
+			</object>
+			<!--<![endif]-->
+		  </object>
+		</div>
+	
+	<div style="background-color:#000000;"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="https://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="843" height="370">
+		  <param name="movie" value="/static-gallery-animWLink.swf">
+		  <param name="quality" value="high">
+		  <param name="bgcolor" value="#000000">
+			<param name="wpmode" value="transparent">
+			
+		  <embed src="/static-gallery-animWLink.swf" quality="high" pluginspage="https://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="843" height="370">
+		</object><br><br></div>
+	
+    <div class="footerbanner">
+	<img src="images3/footerbanner.jpg" width="843" height="126">
+	</div>
+	
+</div>
+ 
+<!-- end #mainContent -->
+</div>
+  <br class="clearfloat">
+
+  <div id="footer">
+  <div class="coloumn">
+ 
+  
+ </div>
+    <div class="col">
+    <ul>
+    <h1>Affiliates</h1>
+  
         <li><a href="affiliate_info.php" target="_parent">Program Details</a></li>
         <li><a href="affiliate_affiliate.php" target="_parent">Login &amp; View Account</a></li>
         <li><a href="affiliate_affiliate.php" target="_parent">Sign Up as an Affiliate</a></li>
         <li><a href="affiliate_faq.php">Affiliate Program FAQ</a></li>
         <li><a href="affiliate_password_forgotten.php" target="_parent">Forgot Password? </a></li>
-      </ul>
-      <ul>
-        <h1>Company <img src="images/footer-bullet.jpg"></h1>
-        <li><a href="about_us.php" target="_blank">About VaporNation</a></li>
+      </ul> 
+    </div>
+  <div class="col">
+    <ul>
+    <h1>Company</h1>
+  
+       <li><a href="about_us.php" target="_blank">About VaporNation</a></li>
         <li><a href="contact_us.php" target="_blank">Contact VaporNation</a></li>
-        <li><a href="../blog/" target="_blank">Our Blog</a></li>
-        <li><a href="../articles/" target="_blank">Articles</a></li>
-        <li><a href="press.php" target="_blank">Press Releases</a></li>
-      </ul>
-      <ul>
-        <h1>Help <img src="images/footer-bullet.jpg"></h1>
-        <li><a href="account.php">Track Your Order</a></li>
-        <li><a href="privacy.php" target="_parent">Privacy Policy</a></li>
+        <li><a href="/blog/" target="_blank">Our Blog</a></li>
+        <li><a href="/articles/" target="_blank">Articles</a></li>
+        <li><a href="conditions.php">Conditions of Use</a></li>
+        <li><a href="press.php" target="_blank">Press Releases</a></li>  
+       <li><a href="privacy.php">Privacy Notice</a></li>
+       
+      
+      </ul> 
+  </div>
+  <div class="col">
+    <ul>
+    <h1>Help</h1>
+   
+        <li><a href="account.php">Track Your Order</a></li>  
         <li><a href="shipping.php" target="_parent">Shipping Policy</a></li>
         <li><a href="satisfaction_guarantee_return_policy.php" target="_blank">Return Policy</a></li>
 		<li><a href="/store/files/Signature_Release_Form_-_VN.pdf" target="_blank">Signature Release Form</a></li>
-        <li><a href="/store/sitemap/sitemap.xml" target="_blank">Site Map XML</a></li>
-      </ul>
-      <ul>
-        <h1>Popular Vaporizers <img src="images/footer-bullet.jpg"></h1>
-        <li><a href="popular-vaporizers-digital-vaporizers-c-79_52.html">Digital Vaporizers</a></li>
+         <li><a href="low_price_guarantee.php">Low Price Guarantee</a></li>
+      <li><a href="reward_points.php">Rewards and Points</a></li>
+      <li><a href="vaporizer-instructions.php">Vaporizer Instructions</a></li>
+      </ul> 
+  </div>
+  <div class="col">
+    <ul>
+    <h1>Popular</h1>
+   <li><a href="popular-vaporizers-digital-vaporizers-c-79_52.html">Digital Vaporizers</a></li>
         <li><a href="popular-vaporizers-handsfree-vaporizers-c-79_59.html">Handsfree Vaporizers</a></li>
         <li><a href="popular-vaporizers-portable-vaporizers-c-79_56.html">Portable Vaporizers</a></li>
 		<li><a href="popular-vaporizers-standard-vaporizers-c-79_57.html">Standard Vaporizers</a></li>
 		<li><a href="popular-vaporizers-rated-vaporizers-c-79_51.html">Top Rated Vaporizers</a></li>
-      </ul>
+    </ul> 
   </div>
-<div style="clear: both;"></div>
-<p style="position: relative; bottom: 0px; height: 25px; color: black; text-align: center;">Copyright ©2009 VaporNation.com a Better Life Products Company | Please visit our sister site <a style="color: black; text-align: center;" href="http://www.ecstacyproducts.com">EcstacyProducts.com</a></p>
-  
-  </div>
-<script type="text/javascript">COT("https://www.vapornation.com/images/cot_evssl.gif", "SC3", "none");</script>
-<!--<script src=''http://www.google-analytics.com/ga.js'' type=''text/javascript''></script>
+
+  <div class="footertext">Copyright ©2009 VaporNation.com a Better Life Products Company | Please visit our sister site <a style="color:#FFFFFF; font-family:Verdana,Geneva,sans-serif; font-size:12px; font-weight:bold; text-decoration:none;" href="http://www.ecstacyproducts.com" target="_blank">EcstacyProducts.com</a></div>
+    
+  <!-- end #footer --></div>
+<!-- end #container --></div>
+
+
 <script type="text/javascript">
-setTimeout(''startGA();'', 3000); 
-function startGA() {
-	var pageTracker = _gat._getTracker("UA-4875215-1");
-	pageTracker._initData();
-	pageTracker._trackPageview();
-} 
-</script>-->
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src=''" + gaJsHost + "google-analytics.com/ga.js'' type=''text/javascript''%3E%3C/script%3E"));
-</script><script src="" https:="" ssl.google-analytics.com="" ga.js''="" type="" text="" javascript''=""></script>
+swfobject.registerObject("FlashIDflasher");
+swfobject.registerObject("FlashID");
+swfobject.registerObject("FlashID2");
+swfobject.registerObject("FlashIDbanner");
+swfobject.registerObject("FlashIDdiscreet");
+</script>
+
+
+
+
+<script type="text/javascript" src="http://www.google-analytics.com/ga.js"></script>
 <script type="text/javascript">
 try {
-var pageTracker = _gat._getTracker("UA-4561663-2");
+var pageTracker = _gat._getTracker("UA-4875215-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+
+
+
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript">
+document.write(unescape("%3Cscript%20src=\""+
+ (document.location.protocol=="https:"?
+  "https://clicktale.pantherssl.com/":
+  "http://s.clicktale.net/")+
+ "WRb.js\"%20type=\"text/javascript\"%3E%3C/script%3E"));
+</script><script src="https://clicktale.pantherssl.com/WRb.js" type="text/javascript"></script>
+<script type="text/javascript">
+var ClickTaleSSL=1;
+if(typeof ClickTale=="function") ClickTale(38002,0.1,"www");
+</script>
+
 
 </body></html>
