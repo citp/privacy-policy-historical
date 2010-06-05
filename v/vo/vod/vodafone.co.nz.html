@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vodafone.co.nz privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226062418id_/http%3A//vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vodafone.co.nz privacy policy that was archived on 2010-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605024306id_/http%3A//vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 <meta http-equiv="content-type" content="text/html; charset=UTF-8">
@@ -51,18 +51,139 @@
 		<a href="/"><img src="/css/3.0/img/menu/logo.gif" alt="Vodafone" class="top-logo"></a>
 		<ul id="top-quicklinks">
 			<li class="top-search">
-	      <form id="cse-search-box" name="cse-search-box" action="http://www.google.co.nz/search">
-          <div id="deleteMe">
-            <input type="hidden" value="en" name="hl">
-            <input type="hidden" value="ISO-8859-1" name="ie">
-            <input type="hidden" value="vodafone.co.nz" name="sitesearch">
-          </div>
-          <input type="text" id="autoComplete" class="searchField" name="q">
-          <input type="image" src="/css/2.1/img/btn-search.gif" alt="Go" value="Go" name="top-search">
+	      <form action="http://search.vodafone.co.nz/" name="cse-search-box" id="cse-search-box">
+	      	<input type="hidden" value="0" name="start"> 
+          <input type="text" name="q" class="searchField" id="autoComplete"> 
+          <input type="submit" alt="Search" class="search"> 
 		    </form>
 			</li>
-			<li><a href="/shop/checkout/cart.jsp" class="icon-cart">Shopping cart</a></li>
 			
+      <li class="login-area">
+      	<ul class="btn">
+        	
+      		
+        	<li><a href="https://www.vodafone.co.nz/knox/login_handler.jsp?template=myvodafone" class="btnGrey login" title="Sign in to my account"><img src="/img/icons/icon-user-header.gif" alt="icon">Sign in to my account</a></li>
+            
+	    	
+	        <li class="cart"><a href="/shop/checkout/cart.jsp" rel="nofollow" class="icon-cart">Shopping cart</a></li> 
+      	</ul>
+        <div id="dropdown-container">
+          <div id="dropdown-wrapper">
+            <h2>Manage your services online</h2>
+            <form id="switcher" action="#" class="show">
+              <ul class="formList">
+                <li>
+                  <div class="radioWrapperLeft">
+                    <div class="formCopy radio">
+                      <input type="radio" name="radio_switch" checked="checked" id="radio_mob" value="mobile">
+                    </div>
+                    <div class="radioLabel">
+                      <label for="radio_mob">Mobile</label>
+                    </div>
+                  </div>
+                </li>
+                <li class="noFloat"> 
+                  <div class="radioWrapperRight">
+                    <div class="formCopy radio">
+                      <input type="radio" name="radio_switch" id="radio_int" value="internet">
+                    </div>
+                    <div class="radioLabel">
+                      <label for="radio_int">Internet &amp; home/work phone</label>
+                    </div>
+                  </div>
+                </li>   
+              </ul> 
+            </form> 
+	
+            
+  
+            
+            <form name="loginHandler" id="loginHandler" class="validate-this show" method="post" action="https://www.vodafone.co.nz/knox/loginHandler.do">
+                		
+                <input type="hidden" value="1" name="loginState">
+                <input type="hidden" value="/myvodafone" name="url">
+                <input type="hidden" value="mvf" name="pcode">
+                <input type="hidden" value="myvodafone" name="template">
+                <ul class="formList">
+                  <li>
+                    <div class="formCopy">
+                      <label for="myvfLoginOnlineId" class="float">Online ID</label>
+                      
+                    </div>      
+                    <input type="text" tabindex="1" class="textField required" name="username" id="myvfLoginOnlineId">
+                  </li>
+                  <li>
+                    <div class="formCopy">
+                      <label for="myvfLoginPassword">Password</label>
+                    </div>
+                    <input type="password" tabindex="2" class="textField required" maxlength="32" name="password" id="myvfLoginPassword">
+                  </li>       
+                </ul>
+                <ul>
+                  <li class="noFloat">     
+                    <div class="formButtons">
+                      <a class="textBtnGrey formBtn loginSubmit" href="#"><span>Sign in</span></a>
+                    </div>
+                  </li>   
+                </ul>  
+                <div class="lb_links">
+                  <ul class="link_list1Col">			
+                    <li><a href="/knox/forgotten_password_handler.jsp?template=myvodafone&amp;pcode=mvf&amp;url=https://www.vodafone.co.nz/myvodafone" title="Get a password reminder sent to you" class="hidden btnDeepPurple">Forgotten your password?</a></li>
+                    <li class="show"><a href="/knox/registration_form_handler.jsp?allowCompletion=Y" class="btnDeepPurple register" title="Sign up now">Sign up now</a></li>
+                    <li><a href="http://webmail.vodafone.co.nz/vfwebmail/" class="btnDeepPurple" title="Your Webmail">Your Webmail</a></li>
+                  </ul>
+                </div> 
+              </form>
+    
+              
+              
+    
+              <form name="fabLoginForm" id="fabLoginForm" class="validate-this hidden" method="post" action="https://the.vodafone.co.nz/acnts/myaccounts.pl/login">
+                
+                <input type="hidden" name="cmd" value="login">
+                <input type="hidden" name="force_connetion" value="true">
+                <input type="hidden" name="frames" value="true">
+                <input type="hidden" name="selected_tpl" value="true">
+                <input type="hidden" name="no_tcode" value="true">
+                <ul class="formList">
+                  <li>
+                    <div class="formCopy">
+                      <label for="fabLoginOnlineId" class="float">Username / phone number</label>
+                       
+                    </div>
+                    <input type="text" tabindex="1" class="textField required" name="login" id="fabLoginOnlineId">
+                  </li>
+                  <li>
+                    <div class="formCopy">
+                      <label for="fabLoginPassword">Password / PIN</label>
+                    </div>
+                    <input type="password" tabindex="2" class="textField required" maxlength="32" name="password" id="fabLoginPassword">
+                  </li>
+                </ul>    
+                <ul>
+                  <li class="noFloat">     
+                    <div class="formButtons">
+                      <a class="textBtnGrey formBtn loginSubmit" href="#"><span>Sign in</span></a>
+                    </div>
+                  </li>   
+                </ul>  
+                <div class="lb_links">
+                  <ul class="link_list1Col">			
+                    <li><a href="https://the.vodafone.co.nz/acnts/getpwd.pl" title="Get a password reminder sent to you" class="hidden btnDeepPurple">Forgotten your password?</a></li>
+                    <li><a href="http://webmail.vodafone.co.nz/vfwebmail/" class="btnDeepPurple" title="Your Webmail">Your Webmail</a></li>
+                  </ul>
+                </div> 
+              </form>      
+    
+              
+  
+							<script type="text/javascript">
+                $j("#loginHandler, #switcher, #fp_link, #form_submitter").removeClass("hidden").addClass("show");
+                $j(".accessible").removeClass("show").addClass("hidden");
+              </script> 
+          </div>
+        </div>
+      </li>
 		</ul>
 		<ul id="top-globalnav">
         	 
@@ -152,13 +273,13 @@
 <a href="/careers/index.jsp?">Careers</a>
 </li>
 <li>
-<a class="active" href="/about/legal-stuff/">Legal stuff</a>
+<a href="/about/legal-stuff/" class="active">Legal stuff</a>
 <ul>
 <li>
 <a href="/about/legal-stuff/fair-use-policy.jsp">Fair Use Policy</a>
 </li>
 <li>
-<a class="active selected" href="/about/legal-stuff/vodafone-privacy-policy.jsp">Privacy Policy</a>
+<a href="/about/legal-stuff/vodafone-privacy-policy.jsp" class="active selected">Privacy Policy</a>
 </li>
 <li>
 <a href="/about/legal-stuff/connection-terms-and-conditions.jsp">Connection terms</a>
@@ -285,6 +406,7 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p></div></
     <form id="rate_this_page" action="http://feedback.vodafone.co.nz/rating.php" method="post">
     <div id="feedback_header"><strong class="header">Let us know what you think of this page?</strong>
       <div id="thumbs_up" title="Rate this page good" style="display: block;"><strong>Good</strong></div>
+
       <div id="thumbs_down" title="Rate this page bad" style="display: block;"><strong>Bad</strong></div>
       <div class="rating_wrapper">
         <ul id="accessible" class="formList accessible" style="display: none;">
@@ -303,21 +425,63 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p></div></
     </div>
     </div>    
     <div id="feedback_content">    
-    	<img src="/img/feedback/ajax-indicator-lg.gif" id="ajax_indicator_lg" alt="Loading...">
-      <ul class="formList">
-        <li>
-          <label for="comments">Do you have any comments you'd like to add? We want to hear it - good or bad.</label>
+    	<img src="/img/feedback/ajax-indicator-lg.gif" id="ajax_indicator_lg" alt="Loading...">			
+			<ul class="formList">
+        <li style="padding-top:10px;"> 				
+          <label for="comments" class="float"><strong>What changes could Vodafone make to this website to make you more likely to recommend Vodafone in the future?</strong></label>
+					<span class="floatRight"><a href="#" id="close_feedback"><strong>close</strong></a></span>
         </li>     
         <li>
           <textarea name="comments" id="comments" rows="30" cols="30"></textarea>       
         </li>
-        <li>
-	        <a href="#" id="send_comment">Send your comments</a>
-			<a href="#" id="cancel">No thanks</a>
-        </li>
       </ul>
-      <div class="clear"></div>
-      <span>This is a great place to let us know what you think could be improved about this web page. If you want a response please use the <a href="/help/contact-us/">contact us</a> form.</span>
+			<p id="how_likely"><strong>How likely are you to recommend Vodafone to a friend or colleague?</strong></p>
+
+			<span class="recommendLeft">Not at all likely</span>
+			<span class="recommendRight">Very likely</span>
+			<ul class="formList recommend">
+        <li>
+					<label for="nps_00">0
+						<input type="radio" name="nps" id="nps_00" value="0">
+					</label>	
+          <label for="nps_01">1
+						<input type="radio" name="nps" id="nps_01" value="1">
+					</label>					
+					<label for="nps_02">2
+						<input type="radio" name="nps" id="nps_02" value="2">
+					</label>
+					<label for="nps_03">3
+						<input type="radio" name="nps" id="nps_03" value="3">
+					</label>					
+					<label for="nps_04">4
+						<input type="radio" name="nps" id="nps_04" value="4">
+					</label>						
+					<label for="nps_05">5
+						<input type="radio" name="nps" id="nps_05" value="5">
+					</label>						
+					<label for="nps_06">6
+						<input type="radio" name="nps" id="nps_06" value="6">
+					</label>						
+					<label for="nps_07">7
+						<input type="radio" name="nps" id="nps_07" value="7">
+					</label>						
+					<label for="nps_08">8
+						<input type="radio" name="nps" id="nps_08" value="8">
+					</label>						
+					<label for="nps_09">9
+						<input type="radio" name="nps" id="nps_09" value="9">
+					</label>						
+					<label for="nps_10">10
+						<input type="radio" name="nps" id="nps_10" value="10">
+					</label>
+				</li>     
+			</ul>
+			<br class="clear">
+			<p id="want_response"><strong>If you want a response, you'll need to use <a href="http://help.vodafone.co.nz/app/ask">the email form</a></strong></p>
+		
+			<div class="formButtons">
+				<a id="send_comment" class="textBtnRedMedium" href="#"><span>Send your comments</span></a>
+			</div>		
 		</div>
     </form>
     <div id="feedback_bottom"></div>
@@ -353,19 +517,21 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p></div></
           <h4><a href="/mobile">Mobile</a></h4>
         </li>
         <li><a href="/shop/mobileListing.jsp?reset=true&amp;categoryId=cat80064&amp;menuKey=mnit100007">Mobile phones</a></li>
-        <li><a href="/shop/accessoryListing.jsp?selectionKey=accessory&amp;reset=true&amp;categoryId=cat70004">Accessories</a></li>
         <li><a href="/shop/plansOnAccount.jsp?plantype=mobile&amp;billingMethod=onAccount&amp;planSegment=consumer&amp;menuKey=mnit100009">Plans</a></li>
         <li><a href="/shop/planPrepay.jsp?plantype=mobile&amp;billingMethod=prepay&amp;menuKey=mnit100011">Prepay</a></li>
         <li><a href="/roaming/">Roaming</a></li>
         <li><a href="/coverage/">Coverage</a></li>
+        <li><a href="/topup/">Top up</a></li>
         <li><a href="/services/">Mobile services</a></li>
+        <li><a href="/shop/accessoryListing.jsp?selectionKey=accessory&amp;reset=true&amp;categoryId=cat70004">Accessories</a></li>
       </ul>
       <ul>
         <li>
           <h4><a href="/specials-promos/">Specials &amp; promos</a></h4>
         </li>
         <li><a href="/shop/specialsListing.jsp?categoryId=cat300005&amp;reset=true&amp;menuKey=mnit300018">Online specials</a></li>
-        <li><a href="/specials-promos/broadband-at-home/index.jsp">Free Broadband</a></li>
+        <li><a href="/sky-tv/mysky.jsp">Free My SKY HDi</a></li>
+        <li><a href="/international-calling/" title="International calling rates">International calling</a></li>
       </ul>
     </div>
     <div class="singleColumn">
@@ -373,7 +539,7 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p></div></
         <li>
           <h4><a href="/internet/">Internet</a></h4>
         </li>
-        <li><a href="/broadband/">Internet &amp; home phone packages</a></li>
+        <li><a href="/broadband/">Broadband &amp; phone packages</a></li>
         <li><a href="/mobile-broadband/">Out and About</a></li>
 	 <li><a href="/mobile-data/mobile-web.jsp">On your mobile phone</a></li>
         <li><a href="/home-phone-and-broadband/internet-services/pc-protection.jsp">PC Protection</a></li>
@@ -439,21 +605,22 @@ intended to limit or exclude your rights under the Privacy Act 1993.</p></div></
         <li>
           <h4><a href="/about/">About Vodafone</a></h4>
         </li>
-        <li><a href="http://careers.vodafone.co.nz">Careers at Vodafone</a></li>
+        <li><a href="http://careers.vodafone.co.nz" rel="nofollow">Careers at Vodafone</a></li>
         <li><a href="/mobile-advertising/">Advertise with Vodafone</a></li>
         <li><a href="http://forum.vodafone.co.nz/index.php?showforum=28">Feedback on this website</a></li>
-        <li><a href="http://twitter.com/vodafonenz">Follow Vodafone</a></li>
+        <li><a href="http://twitter.com/vodafonenz" class="twitter">Follow us</a></li>
+        <li><a href="http://www.facebook.com/vodafoneNZ" class="facebook">Become a fan</a></li>
       </ul>
     </div>
     <div class="copyright">
       <ul>
-        <li class="first">Copyright © 2009</li>
+        <li class="first">Copyright © 2010</li>
         <li> <a href="http://www.vodafone.com/" title="Vodafone Group">Vodafone Group</a> </li>
         <li> <a href="/about/" title="About Vodafone">About Vodafone</a> </li>
         <li> <a href="/about/legal-stuff/vodafone-privacy-policy.jsp" title="Privacy policy">Privacy policy</a> </li>
         <li> <a href="/about/legal-stuff/" title="Terms and conditions">Terms and conditions</a> </li>
         <li> <a href="/sitemap/" title="Site map">Site map</a> </li>
-        <li> <a href="/help/contact-us/" title="Contact us">Contact us</a> </li>
+        <li> <a href="/help/contact-us/" title="Contact us">Contact us</a></li>
       </ul>
     </div>
   </div>
