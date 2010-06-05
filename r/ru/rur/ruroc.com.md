@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215054623id_/http%3A//www.ruroc.com/LinkClick.aspx%3Flink%3D58%26tabid%3D149) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruroc.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605024541id_/http%3A//www.ruroc.com/LinkClick.aspx%3Flink%3D58%26tabid%3D149) for the most accurate reproduction.*
 
 # Privacy
 
@@ -45,3 +45,31 @@ Ruroc will occasionally update this Statement of Privacy to reflect company and 
 ## Contact Information
 
 Ruroc welcomes your comments regarding this Statement of Privacy. If you believe that Ruroc has not adhered to this Statement, please contact Ruroc at [admin@ruroc.com](mailto:admin@ruroc.com). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+
+\--------------------------------------
+
+## **Haftungsausschluss:** ****
+
+WINGPRINT übernimmt keinerlei Gewähr für die Aktualität, Richtigkeit, Vollständigkeit oder Qualität der bereitgestellten Informationen.  
+Wir behalten es sich ausdrücklich vor, Teile der Seiten oder das gesamte Angebot ohne gesonderte Ankündigung zu verändern, zu ergänzen, zu löschen oder die Veröffentlichung zeitweise oder endgültig einzustellen. Für etwaige Schäden, die beim Aufrufen oder Herunterladen von Daten durch Computerviren oder der Installation oder Nutzung von Software verursacht werden übernimmt WINGPRINT keine Haftung.
+
+### **Verweise und Links**
+
+WINGPRINT ist nur für die eigenen Inhalte verantwortlich. Bei direkten oder indirekten Verweisen auf fremde Internetseiten ("Links"), die außerhalb des Verantwortungsbereiches von WINGPRINT  liegen, kann eine Haftungsverpflichtung nur in Kraft treten, wenn WINGPRINT von den Inhalten Kenntnis hat und es technisch möglich und zumutbar wäre, die Nutzung im Falle rechtswidriger Inhalte zu verhindern.   
+Auf die aktuelle und zukünftige Gestaltung, die Inhalte oder die Urheberschaft der gelinkten/verknüpften Seiten haben wir keinerlei Einfluss. Für illegale oder fehlerhafte Inhalte und insbesondere für Schäden, die aus der Nutzung oder Nichtnutzung solcherart der Informationen entstehen, haftet allein der Anbieter der jeweiligen Seite.
+
+### **Urheber und Kennzeichenrecht**
+
+WINPRINT ist bestrebt, in allen Publikationen die Urheberrechte zu beachten, von ihm selbst erstellte Grafiken, Texte oder dergleichen zu nutzen oder auf lizenzfreie Grafiken, Bilder und Texte zurückzugreifen.
+
+Alle innerhalb des Internetangebotes genannten und ggf. durch Dritte geschützten Marken- und Warenzeichen unterliegen uneingeschränkt den Bestimmungen des jeweils gültigen Kennzeichenrechts und den Besitzrechten der jeweiligen Eigentümer. Allein aufgrund der bloßen Nennung ist nicht der Schluss zu ziehen, dass Markenzeichen nicht durch Rechte Dritter geschützt sind!
+
+Das Copyright für veröffentlichte,  selbst erstellte Objekte bleibt allein bei WINGPRINT. Eine Vervielfältigung oder Verwendung  in anderen elektronischen oder gedruckten Publikationen ist ohne ausdrückliche Zustimmung nicht gestattet.
+
+### **Datenschutz** ****
+
+Sofern innerhalb des Internetangebotes die Möglichkeit zur Eingabe persönlicher oder geschäftlicher Daten (Emailadressen, Namen, Anschriften) besteht, erfolgt die Preisgabe dieser Daten seitens des Nutzers auf ausdrücklich freiwilliger Basis. Die Inanspruchnahme und Bezahlung aller angebotenen Dienste ist - soweit technisch möglich und zumutbar - auch ohne Angabe solcher Daten bzw. unter Angabe anonymisierter Daten oder eines Pseudonyms gestattet.
+
+### **Rechtwirksamkeit des Haftungsausschluss** **es**
+
+Dieser Haftungsausschluss ist als Teil des Internetangebotes zu betrachten, von dem aus auf diese Seite verwiesen wurde. Sofern Teile oder einzelne Formulierungen dieses Textes der geltenden Rechtslage nicht, nicht mehr oder nicht vollständig entsprechen sollten, bleiben die übrigen Teile des Dokumentes in ihrem Inhalt und ihrer Gültigkeit davon unberührt.
