@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the i3dthemes.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204002447id_/http%3A//www.i3dthemes.com/policies/%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i3dthemes.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605153519id_/http%3A//www.i3dthemes.com/policies/%3Fpolicy%3Dprivacy) for the most accurate reproduction.*
 
 # Policies & Legal Notifications | i3dTHEMES.com
 
-**Please Note:** A full PIPA Privacy Policy as required by British Columbia law is available [here](https://web.archive.org/web/20091204002447id_/http%3A//www.i3dthemes.com/policies/%3Fpolicy%3Dprivacy?policy=pipa)
+**Please Note:** A full PIPA Privacy Policy as required by British Columbia law is available [here](https://web.archive.org/web/20100605153519id_/http%3A//www.i3dthemes.com/policies/%3Fpolicy%3Dprivacy?policy=pipa)
 
 **Lucky Marble recognizes that respecting user privacy over the Internet is of utmost importance.**
 
