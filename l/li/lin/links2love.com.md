@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2009-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091107195050id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the links2love.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605040513id_/http%3A//www.links2love.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Your Privacy is Completely Protected
 
@@ -9,6 +9,8 @@
 **Links 2 Love** respects the privacy of users of this Site and believes that information about users should be used responsibly and appropriately. In general, all users may visit this Site anonymously and without revealing any additional personal information. If you have an inquiry or need to communicate with **Links 2 Love** , only the people who need it to respond to your communication will use this information.
 
 **We do **not** share **any** information about YOU, your name or email address with anyone.**
+
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/). 
 
 \----------------------------------------------------------------------------- 
 
