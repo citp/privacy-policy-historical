@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itsmarta.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220044333id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsmarta.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605180711id_/http%3A//www.itsmarta.com/privacy-disclaimers.aspx) for the most accurate reproduction.*
 
 # MARTA - Metropolitan Atlanta Rapid Transit Authority
-
-| | 
 
   * Disclaimers
 
@@ -63,16 +61,5 @@ If you have any questions or concerns about our privacy policy, please contact c
 
 * * *
 
-While we attempt to maintain accurate and current information on our web sites, MARTA does not warrant the accuracy or completeness of any material displayed on its web sites or on any links accessed from its web sites. MARTA updates its web sites periodically, and may change any of the material at any time without notice.  The materials posted may become out of date, and MARTA makes no commitment to update the materials.  It is suggested that Customers call the MARTA Customer Information Center at 404-848-5000 for assistance[.](http://mediaalchemy.com/ ".") 
+While we attempt to maintain accurate and current information on our web sites, MARTA does not warrant the accuracy or completeness of any material displayed on its web sites or on any links accessed from its web sites. MARTA updates its web sites periodically, and may change any of the material at any time without notice.  The materials posted may become out of date, and MARTA makes no commitment to update the materials.  It is suggested that Customers call the MARTA Customer Information Center at 404-848-5000 for assistance[.](http://mediaalchemy.com/ ".")   
 
-* * *
-
-**This site was designed and built by the MARTA web team:**  
-Venkata Sudheer, lead programmer/Ektron  
-TC Moore, Infortmation Architecture/HTML & Flash/Art Direction  
-Aubury Webb, Content/HTML/design  
-Inna Gindina, Applications  
-Velma Mustakeem, PM  
-Roshanda Heard, Marketing Consultant/Content  
-  
----|---
