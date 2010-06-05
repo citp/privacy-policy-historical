@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the doccheck.com privacy policy that was archived on 2007-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071017063252id_/http%3A//www.doccheck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the doccheck.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605235621id_/http%3A//www.doccheck.com/privacy) for the most accurate reproduction.*
 
-# DocCheck - Homepage: Privacy
+# Privacy - DocCheck
 
 DocCheck® places a high priority on data protection. DocCheck takes your privacy seriously. Please read the following to learn more about our privacy policy. 
 
