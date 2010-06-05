@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130084041id_/http%3A//www.conservation.org/Pages/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the conservation.org privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605073811id_/http%3A//www.conservation.org/pages/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Conservation International
 
