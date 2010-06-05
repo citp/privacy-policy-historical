@@ -1,20 +1,10 @@
-> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019124458id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shinydevelopment.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605074435id_/http%3A//shinydevelopment.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » Shiny Development
-
-## Privacy and Shiny Development
-
-Privacy is of critical importance to us and we take it very seriously, the legal jargon is down below but we work by a few simple principles:
-
-  * We will only collect information from you where it is essential for the running of this web site or the purchasing/running of our products. Our purchase process typifies this as we ask only for your e-mail address and your name and address. We do not hold nor have access to any financial information involved in the payment for our products. All financial transactions are via secure, third party providers such as [PayPal](http://www.paypal.com/) and [Google Checkout](http://checkout.google.com/).
-  * We may collect anonymous usage statistics from our web site and products.
-  * Any other information collected will always be optional and will only ever be asked for to support new features added to the site or our products.
-
-
+# Privacy Policy | Shiny Development
 
 ## Privacy Policy
 
-Shiny Development Ltd. ("Shiny Development") operates the website [shinydevelopment.com](http://shinydevelopment.com/). It is Shiny Development’s policy to respect your privacy regarding any information we may collect while operating our website.
+Shiny Development Ltd. (“Shiny Development”) operates the website [shinydevelopment.com](http://shinydevelopment.com/). It is Shiny Development’s policy to respect your privacy regarding any information we may collect while operating our website.
 
 ### Usage Statistics
 
