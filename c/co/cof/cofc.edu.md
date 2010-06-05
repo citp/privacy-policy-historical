@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2009-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091031121737id_/http%3A//cofc.edu/policies/privacypolicy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cofc.edu privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605061327id_/http%3A//www.cofc.edu/policies/privacypolicy/index.php) for the most accurate reproduction.*
 
 # Privacy Policy - College of Charleston
 
@@ -176,7 +176,7 @@ Public Records include the following: (1) the names, sex, race, title, and dates
 
 ### 5.0 EDUCATION RECORDS
 
-Policies and procedures dealing with the disclosure of education records shall be in accord with the policies of the College Registrar dealing with the implementation of the Federal _Family Educational Rights and Privacy Act_ (20 U.S.C. § 1232g). Those policies and procedures can be found at: [http://www.cofc.edu/~register/FERPA.htm](http://www.cofc.edu/~register/FERPA.htm). Interpretations of the statute and the controlling regulations shall be made by the Office of Legal Affairs, after consultation with the Office of the Registrar, or the Provost, as may be appropriate under the circumstances.
+Policies and procedures dealing with the disclosure of education records shall be in accord with the policies of the Office of the Registrar dealing with the implementation of the Federal _Family Educational Rights and Privacy Act_ (20 U.S.C. § 1232g). Those policies and procedures can be found at: [http://www.cofc.edu/~register/FERPA.htm](http://www.cofc.edu/~register/FERPA.htm). Interpretations of the statute and the controlling regulations shall be made by the Office of Legal Affairs, after consultation with the Office of the Registrar, or the Provost, as may be appropriate under the circumstances.
 
 ### 6.0 “MEDICAL RECORD” or “HEALTH INFORMATION”
 
