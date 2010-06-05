@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the onlinecollege.org privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228172350id_/http%3A//www.onlinecollege.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinecollege.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606001744id_/http%3A//www.onlinecollege.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online College
+# Privacy Policy | Online College Tips - Online Colleges
+
+## Privacy Policy
 
 **Online College** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it.
 
