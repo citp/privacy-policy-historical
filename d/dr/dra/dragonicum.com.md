@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125222850id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dragonicum.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605222728id_/http%3A//www.dragonicum.com/page%3Dprivacy_policy) for the most accurate reproduction.*
 
-# Dragonicum.com - making the right business connections !
+# Dragonicum.com - making the right business connections ! -
 
 ### **DRAGONICUM PRIVACY POLICY                                      **
 
@@ -58,8 +58,6 @@ Once you have become Registered User or Member of Dragonicum, we have already re
 ### **Authentification and Verification**
 
 All requests sent to Dragonicum by email that requires answers from us or is a part of your registration process, will due to security automatically be tested to verify that the email address you use if authentic.
-
-### **Trust Pass**
 
 All applications for Dragonicum Membership, as well as for User Registration, will pass through an authentification and verification process, starting with automatically verifying that the email address is correct. 
 
@@ -229,12 +227,24 @@ _An example below, for those of you using Mozilla Firefox:_
 
 ü      Select: Cookies, and click Clear 
 
+### **GOOGLE ADS - THIRD PARTY COOKIES**
+
+ **
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+
+You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
+
+**
+
 ### **Conclusion**
 
 Dragonicum has designed its Privacy Policy to serve the Dragonicum community, customers, and employees fairly. You should remember to consider every piece of information you receive, not as de facto recommendation, but as an idea for further consideration. Our Privacy Policy does not relieve individuals or companies from taking responsibility for their own decisions. Due diligence and critical thoughts are crucial to your business success. 
 
-We will welcome your continuous input regarding our Privacy Policy and our services provided to you. You may send us your responses and comments to [info@dragonicom.com](mailto:info@dragonicom.com)
+We will welcome your continuous input regarding our Privacy Policy and our services provided to you. You may send us your responses and comments by email to 
+
+**mcf (at) elkatv.si**
 
 **_Thank you for visiting our Website!_**
 
-_Last updated: 15 October 2007_
+_Last updated: 2 April 2009_
