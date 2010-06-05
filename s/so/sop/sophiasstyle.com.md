@@ -1,19 +1,17 @@
-> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2007-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071029115727id_/http%3A//www.sophiasstyle.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sophiasstyle.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605152631id_/http%3A//www.sophiasstyle.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Designer Children's Clothing :: Sophias Style Boutique
+# Privacy Policy for Sophias Style
 
 This website is operated by SophiasStyle.com, and this privacy policy applies to this website only. 
 
-At SophiasStyle.com, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the data you provide to us. 
-
-As we continue to develop our website and take advantage of technologies to improve the services we offer, this policy likely will change. We therefore encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. 
+At SophiasStyle.com children's clothing store, we respect our customers and understand that you are concerned about privacy, so we've instituted policies intended to ensure that your personal information is handled safely and responsibly. We also have posted this privacy policy to let you know what kind of information we collect, how it is handled, with whom it may be shared, what choices you have regarding our use of your information, and how you may access some of the data you provide to us. 
 
 **What Information Do We Collect?**   
 We collect various types of information depending upon how you use our site. 
 
   * When you order from us, we collect your name, billing address, shipping address, email address, phone number, and credit card number (with expiration date) or gift card number. We also gather information on the person who will receive any gift you send (e.g., that person's name and address) and we will retain a record of your purchases. In addition, if you are a registered user and have signed in when you enter this information, it will automatically be saved for ease of reference.   
 
-  * When you become a SophiasStyle.com registered user, we collect your name, mailing address, email address, birth date and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. We also may ask for additional information (e.g., about your favorite brands and interests) so that we may offer services and promotions that may be of interest to you. However, you have the option not to provide it.   
+  * When you become a Sophias Style registered user, we collect your name, mailing address, email address, birth date and password. This information is gathered to make your shopping experience as a registered user as quick and easy as possible. We also may ask for additional information (e.g., about your favorite brands and interests) so that we may offer services and promotions that may be of interest to you. However, you have the option not to provide it.   
 
   * When you enter a sweepstakes or contest online, we usually collect your name, address, email address, and phone number. We also may ask you for additional information, such as your age, interests, product preferences, or zip code.   
 
@@ -53,7 +51,7 @@ SophiasStyle.com also may share your personal information with outside companies
 
 Additionally, SophiasStyle.com may share account or other information when we believe it is necessary to comply with law or to protect our interests or property. This may include sharing information with other companies, lawyers, credit bureaus, agents or government agencies in connection with issues related to fraud, credit or debt collection. 
 
-Finally, SophiasStyle.com may share your personal information with unrelated outside companies so that they can directly market their products or services to you if we feel that a company offers products or services that we believe may be of interest. We also may provide you with the opportunity to sign up on our Web site to receive such email offers. 
+Finally, SophiasStyle.com will never share your personal information with unrelated outside companies so that they can directly market their products or services. 
 
 **What Choices Do You Have Regarding the Use of Your Information?**  
 We provide you with a number of choices regarding our handling of your personal information. 
@@ -61,5 +59,3 @@ We provide you with a number of choices regarding our handling of your personal 
 To opt-out of email, you can click on the unsubscribe link and hit send at the bottom of any SophiasStyle.com email communication. 
 
 **Note:** Once you have submitted your request you should assume that it has been successfully received and your request is being processed. Please allow us 10 business days from when the request was received to complete the removal, as some of our promotions may already have been in process before you submitted your request. 
-
-**Thank you for choosing SophiasStyle.com for all of your girls clothing needs.**
