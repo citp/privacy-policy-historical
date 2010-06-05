@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226062418id_/http%3A//vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodafone.co.nz privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605024306id_/http%3A//vodafone.co.nz/about/legal-stuff/vodafone-privacy-policy.jsp) for the most accurate reproduction.*
 
 # Vodafone Privacy Policy - Vodafone NZ
 
