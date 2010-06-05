@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thrillophilia.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204203300id_/http%3A//www.thrillophilia.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thrillophilia.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605063539id_/http%3A//www.thrillophilia.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Adventure Sports - Thrillophilia
+# Privacy policy Thrillophilia Adventure Tours Pvt. Ltd.
 
 Thrillophilia respects your privacy and we will do our utmost to ensure the information you supply is kept private and secure. We protect the privacy of your personal information under the Privacy Act of 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). This applies to information supplied to us in the following situations:
 
@@ -64,7 +64,7 @@ Sensitive information
 
 We only collect sensitive information about you with consent.
 
-Also view are [disclaimer](https://web.archive.org/web/20091204203300id_/http%3A//www.thrillophilia.com/Disclaimer.doc) policy here.
+Also view are [disclaimer](https://web.archive.org/web/20100605063539id_/http%3A//www.thrillophilia.com/Disclaimer.doc) policy here.
 
 More information
 
