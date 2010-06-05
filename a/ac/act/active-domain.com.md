@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226000046id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the active-domain.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606015838id_/http%3A//www.active-domain.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy statement for Active-Domain's domain registration services
 
