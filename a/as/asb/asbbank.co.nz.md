@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015084046id_/http%3A//asbbank.co.nz/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605024129id_/https%3A//www.asb.co.nz/story335.aspx) for the most accurate reproduction.*
 
-# ASB - Privacy
+# Privacy - ASB Bank New Zealand
 
 ASB Bank Limited ("ASB") recognises the importance of safeguarding your personal and financial information. As an institution offering financial services ASB needs to obtain personal information about you in the course of providing our products and services. Because this information is confidential and important to you, we think it's important you know how we treat your information.
 
@@ -17,7 +17,7 @@ We only use your personal information to:
 
 
 
-ASB will not sell your information to third parties. We may in the future contact you to inform you of new services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us.
+ASB will not sell your information to third parties. We may in the future contact you to inform you of services and products available from ASB or the ASB Group of companies. If you do not wish to receive these offers kindly e-mail us.
 
 To ensure full security you will need to take appropriate steps to ensure that your Internet browser is capable of supporting our website's encryption requirements. Most versions of Netscape Navigator or Microsoft Internet Explorer versions 5 and above will support our server authentication and data encryption technology. Our website does not collect personal identifying information about you except where specifically requested by you or us. 
 
