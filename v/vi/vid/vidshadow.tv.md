@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the vidshadow.tv privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016180819id_/http%3A//www.vidshadow.tv/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidshadow.tv privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605215856id_/http%3A//www.vidshadow.tv/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**[Visit VidShadow.com Corporate](http://vidshadow.com/)**
-
-Vidshadow.tv Privacy Policy
+**Vidshadow.tv Privacy Policy**
 
 Vidshadow.tv, Inc. ("Vidshadow.tv") recognizes that its customers, visitors, users, and others who use http://Vidshadow.tv or other web sites owned or operated by Vidshadow.tv (the "Vidshadow.tv Sites") (collectively or individually "Users") value their privacy. This Privacy Notice details important information regarding the use and disclosure of User information collected on the Vidshadow.tv Sites. Vidshadow.tv provides this Privacy Notice to help you make an informed decision about whether to use or continue using the Vidshadow.tv Sites.
 
-This Privacy Notice is incorporated into and is subject to the Vidshadow.tv’s [Terms of Use](https://web.archive.org/help/terms). Your use of the Vidshadow.tv Sites and any personal information you provide on the Vidshadow.tv Sites remains subject to the terms of this Privacy Notice and our [Terms of Use](https://web.archive.org/help/terms).
+This Privacy Notice is incorporated into and is subject to the Vidshadow.tv’s Terms of Use. Your use of the Vidshadow.tv Sites and any personal information you provide on the Vidshadow.tv Sites remains subject to the terms of this Privacy Notice and our Terms of Use.
 
 Please note that any video, image, or other content posted at the direction of Users onto the Vidshadow.tv Sites becomes published content and is not considered personally identifiable information subject to this Privacy Notice.
 
@@ -30,17 +28,17 @@ When Vidshadow.tv Discloses Information
   * We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.
   * We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Vidshadow.tv Sites.
   * We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.
-  * Vidshadow.tv also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Vidshadow.tv believes, in good faith, is appropriate or necessary to enforce our [Terms of Use](https://web.archive.org/help/terms), take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Vidshadow.tv, our Users or others.
+  * Vidshadow.tv also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Vidshadow.tv believes, in good faith, is appropriate or necessary to enforce our Terms of Use, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Vidshadow.tv, our Users or others.
 
 
 
 Your Options
 
-You may, of course, decline to submit personally identifiable information through the Vidshadow.tv Sites, in which case Vidshadow.tv may not be able to provide certain services to you. Please note that media files uploaded by Users to the Vidshadow.tv Sites cannot be removed and remain subject to our [Terms of Use](https://web.archive.org/help/terms).
+You may, of course, decline to submit personally identifiable information through the Vidshadow.tv Sites, in which case Vidshadow.tv may not be able to provide certain services to you. Please note that media files uploaded by Users to the Vidshadow.tv Sites cannot be removed and remain subject to our Terms of Use.
 
 To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.
 
-Please contact Vidshadow.tv with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices [email our privacy team](mailto:service@vidshadow-inc.com).
+Please contact Vidshadow.tv with any questions or comments about this Privacy Notice, your personal information, your consent, or your opt-in or opt-out choices [email our privacy team](mailto:privacy@onescreen.com).
 
 Third-party Advertisers & Links to Other Sites
 
@@ -52,7 +50,7 @@ Data Security
 
 Vidshadow.tv uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Vidshadow.tv and you do so at your own risk. Once we receive your transmission of information, Vidshadow.tv makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.
 
-If Vidshadow.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vidshadow.tv may post a notice on the Vidshadow.tv Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify our privacy team via email; [email our privacy team](mailto:service@vidshadow-inc.com).
+If Vidshadow.tv learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Vidshadow.tv may post a notice on the Vidshadow.tv Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify our privacy team via email; [Privacy Team](mailto:privacy@onescreen.com).
 
 Commitment to Parents of Young Children
 
@@ -60,7 +58,7 @@ Protecting the privacy of young children is especially important. For that reaso
 
 International Users – Please note!
 
-The Vidshadow.tv Sites are hosted in the United States and are intended for and directed to Users in the United States . If you are a User accessing the Vidshadow.tv Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Vidshadow.tv Sites, which are governed by U.S. law, this Privacy Notice, and our [Terms of Use](https://web.archive.org/help/terms), you are transferring your personal information to the United States and you consent to that transfer.
+The Vidshadow.tv Sites are hosted in the United States and are intended for and directed to Users in the United States . If you are a User accessing the Vidshadow.tv Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Vidshadow.tv Sites, which are governed by U.S. law, this Privacy Notice, and our Terms of Use, you are transferring your personal information to the United States and you consent to that transfer.
 
 Merger, Sale, or Bankruptcy
 
@@ -76,4 +74,4 @@ Date Last Modified
 This Privacy Notice was last modified April 10, 2008.
 
 Contact Information  
-Please contact Vidshadow.tv with any questions or comments about this Privacy Notice email our privacy team; [email our privacy team](mailto:service@vidshadow-inc.com).
+Please contact Vidshadow.tv with any questions or comments about this Privacy Notice email our [privacy team](mailto:privacy@onescreen.com).
