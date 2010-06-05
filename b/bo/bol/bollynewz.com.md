@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the bollynewz.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603051942id_/http%3A//www.bollynewz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bollynewz.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605162508id_/http%3A//www.bollynewz.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-* * *
-
-Advertisement
+Advertisements
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site Bollynewz.com . The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -15,9 +13,8 @@ Like most standard Web site servers we use log files. This includes internet pro
 If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
 **Cookies**  
-A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
-
-Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Our site don’t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.  
+Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 **Links**  
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
@@ -26,4 +23,4 @@ This Web site contains links to other sites. Please be aware that we are not res
 We use outside ad companies to display ads on our site. These ads may contain cookies and are collected by our ad companies, and we do not have access to this information. We work with the ad companies: Google Adsense, Axill etc. Please check their websites for respective privacy policies.
 
 **Contact Information**  
-If users have any questions or suggestions regarding our privacy policy, please contact us at: admin@indianglam.com
+If users have any questions or suggestions regarding our privacy policy, please contact us at: nx1vir@gmail.com
