@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the byohosting.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620053552id_/http%3A//www.byohosting.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the byohosting.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605072834id_/http%3A//www.byohosting.com/Privacy-Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
