@@ -1,41 +1,39 @@
-> *The following text is extracted and transformed from the crif.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224161606id_/http%3A//www.crif.com/en/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crif.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606014412id_/http%3A//www.crif.com/en/2377279D-645E-437D-A0AB-14224FA84CB4/Privacy-Policy-adopted-by-CRIF-SpA-s-website.chn) for the most accurate reproduction.*
 
 # Privacy Policy adopted by CRIF SpA’s website
 
-  | 
-
-This Privacy Policy describes the methods adopted by CRIF SpA’s website, http://www.crif.com, for processing its users’ personal data.  
-This is a general notice, issued to all those who consult the website, in compliance with Italian Legislative Decree 196/2003 “Personal data protection code”.  
-When using certain services, users will provide specific information and make specific requests, providing specific consent for their personal data to be processed if necessary.  
+Privacy Policy This Privacy Policy describes the methods adopted by CRIF SpA in the management of its website, http://www.crif.com, with reference to the processing its users’ personal data.  
+This is a general notice, issued to all those who consult the website, in compliance with the Italian Legislative Decree 196/2003 “Personal Data Protection Code”.  
+When using certain services, users will be provided with specific information and requested specific consent for their personal data to be processed, if necessary.  
 
 
-**The Data Contoller** As a result of accessing and consulting this site, data relative to identified or identifiable persons may be processed.  
+**The Data Controller** Following access and consulation of this site, data relative to identified or identifiable persons may be processed.  
 The data controller is CRIF SpA, with registered offices in Via M. Fantin 1-3, 40131 Bologna.
 
  **Data Processing Location  
 **  
-The data collected from those who access the site will be processed at the CRIF SpA offices, as notified to the Personal Data Protection Guarantor in compliance with art. 37 of Italian Legislative Decree 196/2003. The data shall be handled by persons with relative technical skills, employees or associates, who have been specifically assigned data processing roles.
+The data collected from those who access the site will be processed at the CRIF SpA offices, in the manner set out by the _Garante per la protezione dei dati personali_  (the Italian Authority which deals with the protection of personal data) _ _ and in compliance with art. 37 of Italian Legislative Decree 196/2003. The data shall be handled by persons with relative technical skills; employees or associates, who have been specifically assigned data processing roles.
 
 **Processing Methods  
 **  
-The data shall be processed in a licit, correct fashion, so as to ensure data security and confidentiality. Personal data shall be processed using electronic or automated tools.
+The data shall be processed in a lawful, correct fashion, so as to ensure data security and confidentiality. Personal data shall be processed using electronic, or at any rate, computerized devices. 
 
 **Processed Data Types**
 
-The information systems and software procedures involved in the operation of this site acquire certain personal data during their normal operation. The transmission of this data is implicit in the use of Internet communication protocols. This information is not collected in order to be associated with identified parties, however, due to its very nature, it could make it possible to identify users through processing and association with data held by third parties. This category of data includes IP addresses and the domain names of the computers used by users who connect to the site, the URI (Uniform Resource Identifier) addresses of the resources requested, the time the request was made, the method used in making the request to the server and other parameters relative to the operating system and the user’s information environment.  
-The optional and voluntary provision of the user’s email address to the addresses indicated on the site, entails the acquisition of the user’s personal data, necessary in order to respond to the requests of the same.
+The information systems and software procedures involved in the operation of this site acquire certain personal data during their normal operation. The transmission of this data is implicit in the use of Internet communication protocols. This information is not collected in order to be associated with identified parties, however, due to its very nature, it could make it possible to identify users through processing activity and association with data held by third parties. The type of data acquired includes IP addresses and the domain names of users' computers who connect to the site, the addresses of the resources requested in URI notation (Uniform Resource Identifier), the time the request was made, the method used in making the request to the server, and other parameters related to the operating system and the computer environment of the user.  
+The optional and voluntary sending of emails to the addresses indicated on the site, involves the acquisition of the user’s personal data, necessary in order to respond to the their requests.
 
- **Data Provision**
+ **Data Submission**
 
-Users are free to provide the personal data necessary for CRIF SpA to supply the requested services.  
-Failure to provide this data may make it impossible for said company to supply the requested information or services.
+Users are free to decide whether to provide the personal data necessary for CRIF SpA to supply the requested services.  
+Failure to provide this data may make it impossible CRIF to supply the requested information or services.
 
 **Cookies**
 
-Cookies are not used to transmit personal information. The use of session cookies, which are not stored permanently on the user’s computer and disappear after the browser has been closed, is strictly limited to the transmission of session identification codes, which consist of random numbers generated by the server, necessary for safe navigation of the site.  
+Cookies are not used to send personal information. The use of session cookies, which are not stored permanently on the user’s computer and disappear after the browser has been closed, is strictly limited to the transmission of session identification codes, which consist of random numbers generated by the server, necessary for safe navigation of the site.  
 The use of these session cookies thus avoids the use of other information techniques that could pose a potential threat to navigation confidentiality. They do not enable the acquisition of personal details that could identify the user.
 
 **User Rights**
 
-Pursuant to art. 7 of Italian Legislative Decree 196/2003, the persons to whom the data refers have the right to obtain confirmation of the existence or otherwise of said data, at any time, and to be informed of their content and origin. They also have the right to check their accuracy or ask for them to be added to, updated or corrected. In keeping with the same article, those concerned have the right to ask for data processed in violation of the law to be cancelled, made anonymous or blocked, as well as to oppose their processing, for legitimate reasons.  
+Pursuant to art. 7 of Italian Legislative Decree 196/2003, the persons to whom the data refers have the right to obtain confirmation of the existence or otherwise of said data, at any time, and to be informed of their content and origin. They also have the right to check the accuracy of their data or ask for them to be integrated, updated or corrected. According to the same article, the interested parties have the right to ask for data processed in violation of the law to be cancelled, made anonymous or blocked, as well as to oppose their processing, for legitimate reasons.  
 In these cases, requests should be sent to CRIF SpA, Via M. Fantin, 1-3, 40131 Bologna
