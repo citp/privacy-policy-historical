@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the propakistani.com privacy policy that was archived on 2009-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090711185805id_/http%3A//www.propakistani.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propakistani.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605154709id_/http%3A//propakistani.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ProPakistani
+
+## Privacy Policy
 
 This privacy statement discloses the privacy practices for all pages and services offered by ProPakistani.com
 
@@ -19,6 +21,16 @@ In the event of authorized law enforcement investigations, and pursuant to any r
 **» E-mail Newsletters**
 
 If users wish to subscribe to our e-mail newsletters, we ask for contact information. Our Daily Newsletter is powered by FeedBurner, however we use in-house solution for weekly Newsletter. We/Feedburner use information submitted by you in the same manner as we use contact information described above. Recipients of our newsletters can unsubscribe using the instructions listed at the end of the e-mail newsletter.
+
+**SMS Subscription**
+
+You are asked to provider certain information if you request to receive daily SMS alerts. We collect this information to keep our SMS broadcast as per the dynamics of our subscribers. Like all other instances, this information will never be given/sold to third party, otherwise asked by the the Law of the Land.
+
+**Third Party Advertising Partners**
+
+All users of ProPakistani must keep this in mind that third parties may be placing and reading cookies on your browsers, or using web beacons to collect information as a result of ad serving on ProPakistani.com.
+
+For, instance one of our partners, Google uses the [ DoubleClick DART cookie](http://www.doubleclick.com/privacy/faq.aspx) on ProPakistani.com displaying AdSense for content ads. Similarly, other advertising partners may use their respective cookies to track advertising stats.
 
 **» External Links**
 
