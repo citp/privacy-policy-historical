@@ -1,19 +1,19 @@
-> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416231515id_/http%3A//www.pelco.com/company/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelco.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605202545id_/http%3A//www.pelco.com/sites/global/en/company/about-us/company-profile/privacypolicy.page) for the most accurate reproduction.*
 
-# Pelco - Privacy Policy
+# privacy Policy
 
-#### Pelco Privacy Policy
-
-Updated: July 1, 2004
-
-Pelco is committed to protecting your privacy. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement does not apply to Pelco products or services. Please read the complete Pelco.com privacy statement.
+Pelco is committed to protecting your privacy. But sometimes we do need information to provide services that you request, and this privacy statement explains data collection and use in those situations. This privacy statement does not apply to Pelco products or services. Please read the complete Pelco.com privacy statement
 
 Personal information collected by Pelco often is limited to e-mail address, language, country or location, but may include other information when needed. For example: If you choose a service or transaction that requires payment, we will request personal information necessary for billing and/or shipping, such as: name, address, telephone number, and credit card number.
 
 **Use of your Personal Information**  
 We use your personal information for the following purposes:  
-• To deliver services, such as newsletters or events.  
-• To alert you to product upgrades, special offers, updated information and other new services from Pelco, if you so request.
+
+
+  * To deliver services, such as newsletters or events.
+  * To alert you to product upgrades, special offers, updated information and other new services from Pelco, if you so request.
+
+
 
 We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
 
@@ -31,4 +31,5 @@ Pelco Privacy
 3500 Pelco Way  
 Clovis, Ca, 93612  
 559-292-1981  
-800-289-9100
+800-289-9100  
+
