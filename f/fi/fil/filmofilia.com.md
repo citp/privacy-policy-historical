@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122070534id_/http%3A//www.filmofilia.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filmofilia.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605074846id_/http%3A//www.filmofilia.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FilmoFilia
 
@@ -37,3 +37,6 @@ When FilmoFilia makes changes to this privacy policy we will post those changes 
 ## Contact Information
 
 If you have any questions regarding our privacy policy, please contact us: **filmofilia [at] gmail.com**
+
+  
+
