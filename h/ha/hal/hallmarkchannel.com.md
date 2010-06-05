@@ -1,14 +1,13 @@
-> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605230505id_/http%3A//hallmarkchannel.com/publish/consumer/home/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hallmarkchannel.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605055806id_/http%3A//www.hallmarkchannel.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Hallmark Channel
 
-> **PRIVACY POLICY 2007  
-> **
+>   
+>  Thank you for visiting the Hallmark Channel web site. Your privacy on the Internet is important to us. To better protect your privacy we provide you with this notice outlining how we collect and use online information.
 > 
-> Thank you for visiting the Hallmark Channel web site. Your privacy on the Internet is important to us. To better protect your privacy we provide you with this notice outlining how we collect and use online information.
-> 
->  **INFORMATION WE COLLECT**  
->  Hallmark Channel collects personally identifiable information (such as your name, mailing address, e-mail address, telephone number, cable/satellite provider, birth date, gender), when it is voluntarily submitted by users in connection with newsletters, sweepstakes, contests, feedback, registrations, surveys, memberships, products or services. 
+> **INFORMATION WE COLLECT**  
+>  Hallmark Channel collects personally identifiable information (such as your name, mailing address, e-mail address, telephone number, cable/satellite provider, birth date, gender), when it is voluntarily submitted by users in connection with newsletters, sweepstakes, contests, feedback, registrations, surveys, memberships, products or   
+>  services. 
 > 
 > We collect aggregate information about your activities on our web site (such as the pages at the site which you access most frequently, what browser version you are using, what browser plug-ins you have installed, etc.) This allows us to improve our site based on current technology demographics so that we may provide you with the best online experience at Hallmark Channel websites. The ONLY time we ever receive personal information from you is when you volunteer the information. 
 > 
@@ -16,16 +15,16 @@
 > 
 > Hallmark Channel E-mail Newsletter subscribers can easily unsubscribe at any time by following the instructions located at the bottom of every one of our e-mail newsletters. Additionally, Hallmark Channel members may also unsubscribe by modifying their “Edit My Profile” link on the Hallmark Channel website after logging in.
 > 
->  **COOKIES**  
+> **COOKIES**  
 >  A “cookie” is a small data file that is sent to your computer when you visit a website. Cookies are stored on your computer’s hard drive. Cookies allow the website to remember information that can enhance your visit. We use cookies to provide features such as auto-login and to determine when you have previously visited our site. Our cookies are not used to retrieve any information from your computer that was not sent to you by us. Our cookies do not contain any personally identifiable information about you. Most Internet browsers are set up to accept cookies, most browsers allow you the ability to reject cookies or prompt you when cookies are being used. However, if you choose to set your browser to reject cookies you may lose some functionality on our website, such as auto-login.
 > 
->  **THIRD PARTIES**  
+> **THIRD PARTIES**  
 >  At times, we hire third parties to provide services such as creating some of our sites, ads, promotions, contests and other marketing material. These third parties may collect data from our site through cookies and the registration process. This data may be used to develop reports on how to make the site more interesting and useful. Registration data collected is sent back to us and will not be used for any other purpose unless the registrant gives permission for such use.   
-> Occasionally, you may get cookies from our sponsors, vendors and/or advertisers, these are not our cookies and are not subject to our privacy policy. Please read the applicable privacy policy to determine how they will use any information they collect from you.
+>  Occasionally, you may get cookies from our sponsors, vendors and/or advertisers, these are not our cookies and are not subject to our privacy policy. Please read the applicable privacy policy to determine how they will use any information they collect from you.
 > 
->  **CHILDREN AND PRIVACY**  
+> **CHILDREN AND PRIVACY**  
 >  Hallmark Channel encourages parents and guardians to spend time with their children online, and to be familiar with the sites their children visit. When subscribing to our Hallmark Channel E-mail Newsletter or when entering information in connection with an online sweepstakes, contest, survey, registration, product or service, we ask for users to state their age/birth date. Hallmark Channel relies on our users to be truthful in responding to these questions. We do not knowingly collect personally identifiable information from children under the age of 13.  
-> We encourage users under the age of 18 not to submit personal information to us. The age of eligibility may be greater than 18 years of age when entering an online contest or sweepstakes (always read the rules for details). 
+>  We encourage users under the age of 18 not to submit personal information to us. The age of eligibility may be greater than 18 years of age when entering an online contest or sweepstakes (always read the rules for details). 
 > 
 > **COMMUNITY AND PUBLIC AREAS**  
 >  Information posted to message boards and chat areas is available to the general public. Please use caution when posting any such information. Users under the age of 18 should be particularly careful not to provide any personally identifying information while using chat rooms or message boards. Users of chat areas and message boards must follow acceptable standards of behavior when posting messages online. Hallmark Channel reserves the right to, but is not obligated to, refuse or delete any content that in our sole discretion is considered inappropriate. 
@@ -38,10 +37,10 @@
 > If you have any questions or wish to communicate with us with regard to this Privacy Policy or your personal information please contact us at:
 > 
 > E-mail: [viewers@HallmarkChannel.com](mailto:viewers@hallmarkchannel.com)  
-> Phone: (888) 390-7474 
+>  Phone: (888) 390-7474 
 > 
 > **Please note that participation in some activities offered on our site may be limited, without the submission of personally identifiable information of the user.**
 > 
->  **USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT WITH THE TERMS OF USE AND PRIVACY POLICY.**
+> **USE OF THIS SITE SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT WITH THE TERMS OF USE AND PRIVACY POLICY.**
 > 
 > Copyright and Trademark Notice: TM, ® and © Hallmark Channel and its related entities. All rights reserved.
