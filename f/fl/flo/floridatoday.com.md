@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridatoday.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204014748id_/http%3A//www.floridatoday.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridatoday.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605040733id_/http%3A//www.floridatoday.com/section/PRIVACY) for the most accurate reproduction.*
 
 # floridatoday.com | Brevard PRIVACY | FLORIDA TODAY
 
