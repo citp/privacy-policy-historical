@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostingcup.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204002144id_/http%3A//hostingcup.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingcup.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605152944id_/http%3A//hostingcup.com/privacy.html) for the most accurate reproduction.*
 
 # HostingCup - Dedicated Hosting Service
 
