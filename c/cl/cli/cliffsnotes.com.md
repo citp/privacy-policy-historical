@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021153530id_/http%3A//www.cliffsnotes.com/WileyCDA/Section/id-305334.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cliffsnotes.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605181201id_/http%3A//www.cliffsnotes.com/cliffsnotes-privacy-policy.html) for the most accurate reproduction.*
 
-# CliffsNotes Privacy Policy - CliffsNotes
+# CliffsNotes.com Privacy Policy - CliffsNotes
 
 ## Introduction
 
@@ -28,7 +28,7 @@ We may also use third party advertisers to present or serve the advertisements t
 
 ## What information does Wiley collect when users purchase products on this Web site?
 
-If users purchase a product or products on CliffsNotes.com, they are required to provide their name, billing and/or mailing address information, an e-mail address, a phone number, and a valid credit card number with expiration date and security code. For additional information about our shopping cart, please visit the ["ordering" area of the CliffsNotes.com help section](https://web.archive.org/WileyCDA/Section/Ordering-Books.id-305479.html).
+If users purchase a product or products on CliffsNotes.com, they are required to provide their name, billing and/or mailing address information, an e-mail address, a phone number, and a valid credit card number with expiration date and security code. For additional information about our shopping cart, please visit the ["ordering" area of the CliffsNotes.com help section](https://web.archive.org/Section/Ordering-CliffsNotes-Books.id-305479.html).
 
 ## What information does Wiley collect when users subscribe to CliffsTips, this Web site's free e-mail newsletter service? How can users unsubscribe to CliffsTips?
 
