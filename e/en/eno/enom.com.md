@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415032131id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enom.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605131847id_/http%3A//www.enom.com/terms/privacy.asp) for the most accurate reproduction.*
 
 # eNom - domain name, web site hosting, email, registration - PRIVACY POLICY
 
@@ -66,5 +66,24 @@ Yes, we do share information but only as described below. Otherwise we will not 
 **\- Conditions of Use, Notices, and Revisions**
 
   * If you choose to visit eNom, your visit and any dispute over privacy is subject to this Notice and our Terms and Conditions, including limitations on damages, arbitration of disputes, and application of the law of the state of Washington. If you have any concern about privacy at eNom, please send us a thorough description to [info@enom.com](mailto:info@enom.com), and we will try to resolve it. Our business changes constantly. This Notice and the Terms and Conditions will change also, and use of information that we gather now is subject to the Privacy Notice in effect at the time of use. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes.
+
+
+
+**\- For European Union Citizens:**
+
+  * In compliance with the Safe Harbor Principles, eNom commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens with inquiries or complaints by regarding this privacy policy should contact:
+
+[legal@enom.com](mailto:legal@enom.com).
+
+eNom has further committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. Thus, if you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by eNom, you may contact:
+
+Council of Better Business Bureaus, Inc.  
+BBB EU Safe Harbor   
+4200 Wilson Boulevard, Suite 800  
+Arlington, VA 22203  
+Phone: 703-276-0100  
+Web: www. us.bbb.org  
+Email: eusafeharbor@council.bbb.org 
+
 
 
