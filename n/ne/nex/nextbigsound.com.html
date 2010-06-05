@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the nextbigsound.com privacy policy that was archived on 2009-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091204125145id_/http%3A//www.nextbigsound.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextbigsound.com privacy policy that was archived on 2010-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605064310id_/http%3A//www.nextbigsound.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>        
     	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    	<meta name="viewport" content="width = 900">
+    	<meta name="viewport" content="width = 960, initial-scale=0.5">
     	<meta name="description" content="Next Big Sound is online music analytics &amp; insights">
     	<meta name="keywords" content="music analytics, analytics, music, stats, tracking, popularity, insights, metrics, music metrics, artist metrics">
-    	<link rel="stylesheet" type="text/css" href="/css/style.css?138">
+    	<link rel="stylesheet" type="text/css" href="/css/style.css?1672">
 		<link rel="icon" href="/images/favicon.ico" type="image/x-icon">
-		<script type="text/javascript" src="/js/jquery.js?22"></script>
-		<script type="text/javascript" src="/js/lightbox.js?22"></script>
-		<script type="text/javascript" src="/js/swfobject.js?22"></script>
+		<script type="text/javascript" src="/js/jquery.js?24"></script>
+		<script type="text/javascript" src="/js/lightbox.js?24"></script>
+		<script type="text/javascript" src="/js/swfobject.js?24"></script>
 		    	<!--[if lt IE 7]>
 
 		<script type="text/javascript"> 
@@ -24,7 +24,9 @@
 		<![endif]-->
 
 				
-		<script type="text/javascript">
+		<script type="text/javascript">			
+			
+			
 			
 			var otherset = false;
 			var page;
@@ -33,52 +35,81 @@
 							if(!otherset)
 								$(".globalMessage").slideUp(200);
 						},3000);
-				});
+			});
 				
 				
 		</script>
+		<script type="text/javascript">
+	var faqie=false;
+</script>
     	<!--[if lt IE 8]>
 <script src="http://ie7-js.googlecode.com/svn/version/2.0(beta3)/IE8.js" type="text/javascript"></script>
 <style type="text/css">
 	.iePassword {margin-bottom:20px;}
-	input.radio {
+	.box input.radio {
 		position:relative;
 		top:10px;
 	}
 
-	.theRadiosYo {
+	.box .theRadiosYo {
 		position:relative;
 		top:-20px;
 	}
 	
-	.autocomplete{
+	.autocomplete {
 		position:relative;
 		z-index: 999 !important;
 	}
 	
+	#theGraph {
+		margin-left:-17px;
+		margin-top:12px;
+		position:static;
+	}
+	
+	p#whySignup  {
+		width:355px !important;
+	}
+	
+	
+	
 	
 	
 </style>
+
+
+	<script type="text/javascript">
+		faqie=true;
+	</script>
+	<style type="text/css">
+	.faqSidebar {
+		margin-left:40px;
+	}
+	</style>
+
+
+
 <![endif]-->
     	<title>Next Big Sound</title>
 
 		<!--[if gte IE 6]>
     	<link rel="stylesheet" type="text/css" href="/css/ie7.css?002"/>
 		<![endif]-->
+			
+			<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+				
 	
  </head>
 
-<body>
+<body style="background-color: rgb(24, 24, 24);">
 	<div class="fakeBody">
 	<!-- start lightbox -->
 		<div class="explainInfoLightboxBG">
 
 			<div class="explainInfoLightboxHolder">
-				<a href="javascript:hideHelp();" class="close"></a>
 				
 				<div id="lightBoxContent">
-					<div style="line-height:100px; text-align:center; margin-top:20px;"><img src="/images/ajax-loader.gif" alt="loading"></div>
-				
+					<div class="lightboxInnerHolder" style="height: 50px; line-height:50px;"><div style="padding-left:10px;">Loading...</div></div>
 				</div>
 				
 			</div>
@@ -95,7 +126,7 @@
 
 			<div id="headerGlow"></div>
 			<ul id="extraNav">
-												<li><a href="/signup">Sign Up</a></li>				<li><a href="/login">Log In</a></li>				
+								<li><a onclick="javascript: signUpAjax(); return false;" href="#signup">Sign Up</a></li>				<li><a onclick="javascript: loginAjax(); return false;" href="#login">Log In</a></li>				
 			</ul>
 		</div>
 	</div>
@@ -177,13 +208,13 @@
 				<h3>Artists/industry</h3>
 				<ul>
 					<li><a href="/verify/directory">» verify your band's account</a></li>
-					<li><a href="javascript:addBand('');">» add artists you can't find</a></li>
+					<li><a href="#add" onclick="javascript:addBand(''); 	">» add artists you can't find</a></li>
 					<li><a href="/forum">» discuss NBS in the forum</a></li>
 				</ul>
 			</div>
 			<div class="footerModule" style="width:130px;">
-				<h3>We're Hiring</h3>
-				<p><a href="/jobs">Join our team and create useful products for the music industry.</a></p>
+				<h3>Track It All</h3>
+				<p><a href="javascript:showHelp();">Check out the networks and metrics Next Big Sound tracks.</a></p>
 			</div>
 			<div class="footerModule" style="border-right:0; padding-right:10px; width:168px;">
 				<h3>Contact Us</h3>
@@ -195,12 +226,15 @@
 			</div>
 			<br class="clear">
 		</div>
-			<div class="footerBottom">© 2009 Next Big Sound · <a href="/terms">Terms of Use</a> · <a href="/privacy">Privacy Policy</a>
-	</div>
+			<div class="footerBottom">
+				© 2010 Next Big Sound · <a href="/terms">Terms of Use</a> · <a href="/privacy">Privacy Policy</a> · <a href="/jobs">Jobs</a> · <a href="/faq">FAQ</a>
+			</div>
 	</div>
 
+		
+								
 
-						
+		
 		
 		
 		<script type="text/javascript">
@@ -213,5 +247,12 @@
 		pageTracker._trackPageview();
 		} catch(err) {}</script>
 		
+		<script type="text/javascript">
+	document.write(unescape("%3Cscript src='" + ((document.location.protocol=="https:")?"https:":"http:") + "//snapabug.appspot.com/snapabug-new.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://snapabug.appspot.com/snapabug-new.js" type="text/javascript"></script><script type="text/javascript">
+	SnapABug.setButton("/images/help.png",35,74);
+	SnapABug.setButtonEffect('-4px');
+	SnapABug.addButton('7d472963-afd3-4de4-9948-b87d7b20ca4a',"1","30%");
+	</script>
+	
 
 </div></body></html>
