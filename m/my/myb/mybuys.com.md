@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020438id_/http%3A//www.mybuys.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605180324id_/http%3A//www.mybuys.com/privacy) for the most accurate reproduction.*
 
 # MyBuys - Privacy
 
@@ -88,7 +88,7 @@ Redwood Shores, CA 94065
 USA
 
 E-mail: [info@mybuys.com ](mailto:info@mybuys.com)  
-Phone: 650-591-0210 
+Phone: 650-232-2900 
 
 #### **Resolving Privacy Policy Disputes**
 
