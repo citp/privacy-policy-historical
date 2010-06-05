@@ -1,14 +1,6 @@
-> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2008-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081220201117id_/http%3A//www.raveaboutit.com.au/index.php%3Fp%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raveaboutit.com.au privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605115214id_/http%3A//www.raveaboutit.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Local Business Reviews - Rave About It - Privacy Statement
-
-We have a commitment to the protection of online user privacy under the (Australian) Privacy Amendment (Private Sector) Act 2000 (Cth) on 21 December, 2001.
-
-In order to protect your privacy, information we collect is used only in the manner and for the purposes described below.
-
-This "Privacy Policy" discloses the privacy practices governing our knowing collection, use, and disclosure of information.
-
-All references below referring to "we" or "us" refer to Rave About It.
+# Privacy policy
 
 ## User Consent to Privacy Statement
 
@@ -83,5 +75,3 @@ If visitors have any questions about our products, services or need to correct t
 We appreciate and will consider any comments you may have on our Site, the Software Products, service, or ideas you may have on how to improve them. Please [contact us](http://www.raveaboutit.com.au/index.php?p=contact_us) with your feedback. Please note that by doing so, or by otherwise posting, uploading, inputting, providing or submitting ("Posting") your comments, feedback, concepts, know-how, techniques, software, or ideas ("Submission"), you irrevocably assign free of charge, all worldwide rights, title and interest in all copyrights, patent rights, and all other intellectual property rights in the Submission to Rave About It, its successors and assigns. You agree to cooperate with Rave About It, its successors, and assigns, in perfecting such intellectual property rights. Without limitation, Rave About It, its affiliated companies and its licensees, will be entitled to use your Submission on an unrestricted basis, for any purpose whatsoever, including, to: develop, manufacture and market products incorporating such Submission, to copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate, and reformat your Submission; to publish your name in connection with your Submission; and the unrestricted right to license such rights.
 
 Rave About It does not wish to receive any submission that is confidential or proprietary. You agree not to post or otherwise provide any submission that you consider confidential or proprietary, and any submissions you post will be deemed and treated as non-confidential and non-proprietary. In addition, do not post any Submissions that you do not want to assign to Rave About It. No compensation will be paid or is due with respect to the assignment or use of your Submission, as provided herein. Rave About It is under no obligation to post or use any Submission you may provide. By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission including, without limitation, all the rights necessary for you to assign, provide, post, upload, input or submit the Submission.
-
-[](http://www.raveleads.com/)
