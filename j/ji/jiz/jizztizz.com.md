@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jizztizz.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204134449id_/http%3A//www.jizztizz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jizztizz.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605031649id_/http%3A//www.jizztizz.com/privacy.html) for the most accurate reproduction.*
 
 # Jizztizz.com - Privacy Policy
 
