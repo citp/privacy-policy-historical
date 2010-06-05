@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2007-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071229005039id_/http%3A//www.bimmerfest.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bimmerfest.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605070550id_/http%3A//www.bimmerfest.com/privacypolicy.php) for the most accurate reproduction.*
 
-# bimmerfest - Bringing The BMW Community Together - Privacy Policy
+# 
 
-  
-
-
-###  You are visiting a performanceIX site 
+You are visiting a performanceIX site -- Privacy Policy 
 
 Protecting your privacy is important to us. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the performanceIX Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information. 
 
