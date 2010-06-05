@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sanfrancisco.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203051302id_/http%3A//www.sanfrancisco.com/app/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sanfrancisco.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605061412id_/http%3A//www.sanfrancisco.com/app/privacy-policy.php) for the most accurate reproduction.*
 
 # SanFrancisco.com Privacy Policy
 
