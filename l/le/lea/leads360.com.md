@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204134814id_/http%3A//www.leads360.com/privacy-policy.aspx%3Fheight%3D470%26width%3D750) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leads360.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605074857id_/http%3A//www.leads360.com/privacy-policy.aspx%3Fheight%3D470%26width%3D750) for the most accurate reproduction.*
 
 # Leads360 | Privacy Policy
 
