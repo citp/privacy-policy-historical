@@ -1,51 +1,57 @@
-> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2005-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050307001130id_/http%3A//www.ahs.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605040652id_/http%3A//www.ahs.com/about/privacy.html) for the most accurate reproduction.*
 
-# American Historic Society (ver 0.9)
+# American Home Shield - Privacy Policy
 
-The American Historic Society   
-Privacy Statement
+### Privacy Policy/Your Policy Rights
 
-I. General 
+At American Home Shield, we are committed to protecting your privacy. We use the information we collect about you to process orders and to provide a more personalized shopping experience.
 
-  
-The American Historic Society respects the privacy of every individual who visits our websites or responds to our interactive advertisements. This Privacy Statement outlines the information the American Historic Society will collect and how we will use that information. This statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit. 
+#### What information do we collect? How do we use it?
 
-  
-II. Personally-Identifiable Information 
+When you request information about a product or service or register with our site, we may need to know specific information about you. This enables us to process your registration/requests and promptly reply to your needs.  
+When you order products or services from American Home Shield, we need to know your name, e-mail address, mailing address, credit card number and expiration date. This allows us to process and fulfill your order and to notify you of your order status. To learn more about our encryption policies, please review the section "How does American Home Shield protect customer information?"  
+This site contains links to other sites. American Home Shield is not responsible for the privacy practices or the content of such Web sites. We will not pass your information along to the linked site. However, we cannot protect your information if you provide it to that site.  
+We monitor customer traffic patterns and site usage to help us develop the design and layout of American Home Shield's web sites.  
+We may also use the information we collect to occasionally notify you about important changes to the Web site, new American Home Shield services, and special offers and information we think you'll find valuable. If you would rather not receive this information, please contact us through one of the channels identified in the choice/opt-out section.
 
-  
-In order to fulfill and service your order, we will need to collect basic information about you - name, address, phone, e-mail address, etc. You will also need to provide payment information.
+#### How does American Home Shield protect customer information?
 
-If you do not want your personally-identifiable information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us by submitting a "Feedback" or contacting our Customer Service. We will use reasonable efforts to delete your information from our existing files.
+When you place orders, we use a secure server. This secure server software, SSL (Secure Sockets Layer) encrypts all information you input before it is sent to us. Furthermore, customer transactional data we collect is protected against unauthorized access with the use of digital certificates. American Home Shield's digital certificates are issued by VeriSign, one of the most established signers of digital certificates.
 
-When you do provide us with personally-identifiable information, we may use that information in the following ways, unless stated otherwise:   
-We may need to store and process that information to better understand your needs and how we can improve our products and services.   
-We may use that information to contact you.   
-We may provide that information to third parties.  
-The personal information you have provided us and information about your order may be shared with third parties. This information may be combined with other personally identifiable information (such as demographic information and past purchase information) available from our records and other sources. This information will be used to make our future marketing efforts more efficient. It may also be used by our marketing partners to bring you offers of interest. If you prefer we do not share your name and address with marketing partners, please contact us by submitting an email through our "Feedback".
+#### Will American Home Shield disclose the information it collects to outside parties?
 
-If you agreed to receive email from our marketing partners, we will share with them your email address and the information described above, so they can send you offers for products and services that may be of interest to you. We will only share your email address if you have opted in by checking the box on the registration page. Additionally, each email our partners send you will include a description of the simple opt out process to enable you to stop receiving future email.
+American Home Shield does not sell, trade or rent your personal information to others. We may choose to do so in the future with trustworthy third parties, but you can request that we do not by e-mailing us at [customercare@ahslink.com](mailto:customercare@ahslink.com). (If you use more than one e-mail address to shop with us, send this message from each e-mail account you use.) Also, American Home Shield may provide aggregate statistics about our customers, sales, traffic patterns, and related site information to reputable third-party vendors. However, these statistics will not include personal identifying information.
 
-  
-III. Children 
+#### Choice/Opt-Out
 
-  
-The American Historic Society has no intention of collecting any personally-identifiable information (that is, your name, address, telephone number, or email address) from individuals under eighteen years of age. Where appropriate, The American Historic Society will specifically instruct children not to submit such information on our websites or advertisements. If a child has provided us with personally-identifiable information, a parent or guardian of that child should contact us at the email address or phone number listed in the Customer Service Numbers if they would like this information deleted from our records. We will use reasonable efforts to delete the child's information from our existing files. 
+Our site provides users the opportunity to opt-out of receiving communication from American Home Shield and our partners when we request information about a visitor.  
+This site allows the following options for removing your information from our database. If you do so, you will not receive future communication from us.
 
-  
-IV. Non-Personally-Identifiable Information Collected Automatically 
+  * You can send e-mail to [customercare@ahslink.com](mailto:customercare@ahslink.com)
+  * You can call the following telephone number: 1-800-776-4663
 
-  
-In some cases, we may collect information about you that is not personally-identifiable. Examples of this type of information include the type of Internet Browser you are using, the type of computer operating system you are using, and the domain name of the website from which you linked to our site or advertisement. 
 
-  
-V. Information We May Place Automatically On Your Computer's Hard Drive 
 
-  
-When you view our website or advertisements, we may store some information on your computer. This information will be in the form of a "Cookie" or similar file and will help us in many ways. For example, "Cookies" allow us to tailor a website or advertisement to better match your interests and preferences. With most Internet Browsers, you can erase cookies from your computer's hard drive, block all cookies, or receive a warning before a cookie is stored. Please refer to your Browser instructions or help screen to learn more about these functions. 
+#### Correct/Update
 
-  
-VI. Who to Contact 
+This site gives users the following options for changing and modifying information previously provided.
 
-  
-If you have submitted personally-identifiable information through The American Historic Society website or interactive advertisement, and would like that information deleted from our records, please submit a "Feedback" and provide us with the requested information. We will use reasonable efforts to delete this information from our existing files. 
+  * You can send e-mail to [customercare@ahslink.com](mailto:customercare@ahslink.com)
+  * You can call the following telephone number: 1-800-776-4663
+
+
+
+#### Your consent
+
+By using our Web site, you consent to the collection and use of this information by American Home Shield. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it.
+
+#### Contacting the Web site
+
+If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact us at: 
+
+**[customercare@ahslink.com](mailto:customercare@ahslink.com)  
+1-800-776-4663**
+
+#### Special Notice to California Residents
+
+American Home Shield customers residing in California who have submitted personal information to us may request information about our disclosures of certain categories of personal information to third parties for their direct marketing purposes. All requests for disclosure information must be submitted to us at [customerprivacy@ahslink.com](mailto:customerprivacy@ahslink.com). Within 30 days of receiving such a request, we will provide a list of the categories of personal information disclosed to third parties for third-party direct marketing purposes during the immediately preceding calendar year, along with the names and addresses of these third parties. This request may be made no more than once per calendar year. Pursuant to California law, we reserve our right not to respond to requests submitted to addresses other than those specified in this paragraph.
