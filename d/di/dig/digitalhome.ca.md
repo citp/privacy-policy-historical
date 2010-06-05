@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203140836id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalhome.ca privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605033509id_/http%3A//www.digitalhome.ca/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Digital Home
 
@@ -65,3 +65,6 @@ At your request, we will provide to you a statement explaining the extent to whi
 SECURITY
 
 We will use appropriate security safeguards to protect your personal information against loss, theft, and unauthorized access.
+
+##### WARNING: A Firefox adblock plug-in could   
+be blocking content from this site.
