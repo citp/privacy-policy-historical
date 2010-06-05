@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203191930id_/http%3A//www.tallahassee.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tallahassee.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605055518id_/http%3A//www.tallahassee.com/section/PRIVACY) for the most accurate reproduction.*
 
 # tallahassee.com | Tallahassee PRIVACY | Tallahassee Democrat
 
