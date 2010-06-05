@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403203417id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wandisco.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605220912id_/http%3A//www.wandisco.com/php/privacy.php) for the most accurate reproduction.*
 
-# WANdisco™ CVS MultiSite Replicator, Subversion MultiSite Replicator, SVN / CVS Replication, Role Based Security, Access Control, Software Configuration Management, SCM, Distributed Development, ACL, CVSNT, revzoom, cvsroot, source code control, Atlassian JIRA Clustering, VMware, rPath, Subversion Appliance
+# WANdisco™ Subversion, SVN, CVS, JIRA, Replication, Subversion MultiSite, Subversion Control, Subversion Mirror, Subversion Appliance, Tigris Subversion, JIRA Indexing, Atlassian, JIRA Clustering, Atlassian JIRA MultiSite , Distributed Software Development, SCM, Software Configuration Management, Subversion Support
 
 | 
 
