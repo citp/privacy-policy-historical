@@ -1,36 +1,57 @@
-> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623222954id_/http%3A//www.cfchildren.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secondstep.org privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605052256id_/http%3A//www.cfchildren.org/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
    
 
-Last Updated: April 2007 
+Last Updated: January 2010 
 
-We're aware of the trust and confidence you demonstrate when you visit our Web site and provide us with personal information. This privacy policy is posted to demonstrate our adherence to the practices you'll find common to the best Web sites online. We promise that we will treat your information with the honesty and sensitivity you have come to expect from Committee for Children. 
+We're aware of the trust and confidence you demonstrate when you visit our Web site and provide us with personal information. This privacy policy is posted to demonstrate our adherence to the practices you'll find common to the best Web sites online. We promise that we will treat your information with the honesty and sensitivity you have come to expect from Committee for Children.
 
-By visiting our Web site you agree to accept the practices described in this privacy policy. 
+By visiting our Web site you agree to accept the practices described in this privacy policy.
 
-Privacy Policy  
-Information Collected by Committee for Children   
-We use information that we collect from our visitors to personalize and improve your visit to our Web site. 
+COMMITTEE FOR CHILDREN  
+PRIVACY POLICY
 
-Information you give us: We collect any information that you enter on our Web site, such as your account information when you register or your email address when you sign up for our eNewsletters. 
+This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by Committee for Children (“CfC”, “we”, or “us”) with respect to your use of the Web site located at www.cfchildren.org (the “Site”) so you can make an informed decision about using the Site. We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on the Policy the date it was last updated. We encourage you to review this Policy from time to time to make sure that you understand how any personal information you provide will be used.
 
-Automatic information collected by us: Whenever you visit our Web site we collect and store information in "cookies," which remember information about a visitor from one page to the next, and from one visit to the next. 
+  
+WHAT IS PERSONAL INFORMATION?  
+As used herein, the term “personal information” means information that specifically identifies an individual or information about that individual when directly linked to personally identifiable information. Personal information does not include “aggregate” information, which is data we collect about the use of the Site or about a group or category of products, services, or users, from which individual identities or other personal information has been removed. This policy in no way restricts or limits our collection and use of aggregate information.
 
-Orders: We gather customers' phone numbers to protect ourselves and customers from possible fraud. 
+  
+WHAT PERSONAL INFORMATION DO WE COLLECT?   
+We may collect certain information you voluntarily provide to us which may contain personal information. Personal information may also be collected if you provide such information in connection with: posting content, sending an email or message to another user, or participating in any interactive forums or features on the Site.   
+When you use the Site, some information is also automatically collected, such as your Internet Protocol (IP) address, your operating system, the browser type, the address of a referring Web site, and your activity on the Site. We treat this information as personal information if we combine it with or link it to any of the identifying information mentioned above. Otherwise, it is used in the aggregate only.
 
-Sharing Information with Third Parties   
-As a matter of practice we do not share, sell, or rent any of your information with any third parties unless it is needed to complete your sales transactions.   
-Your personal data might be shared with some of the following third parties: 
+  
+We may automatically collect certain information through the use of “cookies” or Web beacons. Cookies are small data files that are stored on a user's hard drive at the request of a Web site to enable the site to recognize users who have visited them previously and retain certain information such as customer preferences and history. If we link cookies to any personally identifying information, we will treat this information as personal information. Web beacons are small, invisible graphic images that may be used on the Site or in emails relating to the Site to collect certain information and monitor user activity on the Site. If you wish to block, erase, or be warned of cookies, please refer to your browser manufacturer to learn about these functions. However, if a browser is set not to accept cookies or if a user rejects a cookie, some portions of the Site may not function properly.
 
-Credit card companies and shippers: When you buy something from us, we send your credit card information, name, billing address, and the amount of your purchase to your credit card company to verify and authorize the purchase. Your name, telephone number, and shipping information must be provided to third party shippers such as UPS and the United States Postal Service to deliver your purchase. 
+  
+HOW DO WE USE THE PERSONAL INFORMATION WE COLLECT?   
+In general, we use personal information we collect to process your requests or transactions; to provide you with information, products, or services you request; to inform you about other information, events, promotions, products, or services we think will be of interest to you; to facilitate your use of, and our administration and operation of, the Site; and for the purpose for which the information was provided.
 
-Security   
-We maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of information transmitted to us using this Web site. 
+  
+WHAT PERSONAL INFORMATION DO WE SHARE WITH THIRD PARTIES?  
+We will not share the personal information we collect from you through this Site with third parties except as described in this Policy, as it may be revised from time to time. We may share personal information with vendors, consultants, and other service providers (“Service Providers”) who are engaged by or working with us in connection with the operation of the Site or the services we provide and who need access to such information to carry out their work for us. We may also share personal information with other third parties when you give us your consent to do so. We are not responsible for the actions of Service Providers or other third parties, nor are we responsible for any additional information you provide directly to these Service Providers or other third parties, and we encourage you to become familiar with their practices before disclosing information directly to them. Nothing herein restricts the sharing of aggregate information, which may be shared with third parties without your consent.
 
-Notification of Changes to Privacy Policy   
-We may change our privacy policy to reflect any changes in our organization or services. If we change the privacy policy, we will post the changes here so that you will be aware that the privacy policy has changed. We may email a notification about changes to our privacy policy, unless you have instructed us not to, but you should check our Web site from time to time to see recent changes. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account. We will never substantially change our policies or practices to make them less protective of the information that we have already collected from you, unless you consent. 
+  
+We may disclose personal information in the good faith belief that we are lawfully authorized or required to do so, or that doing so is reasonably necessary or appropriate to comply with the law or with legal process or authorities; to respond to any claims; or to protect the rights, property, or safety of CfC, our users, our members, our employees, or the public, including without limitation to protect CfC or our users or members from fraudulent, abusive, inappropriate or unlawful use of our Site. Information about our users and members, including personal information, may also be disclosed or transferred as part of, or during negotiations of, any merger or sale of organizational assets, or in any other situation where personal information may be transferred as one of the assets of CfC.
+
+  
+You understand that when you use the Site, information you post in your profile, blogs, listings, public or private groups, forums, and other interactive areas of the Site, as well as any information you share with individuals through the Site, will be available to other users and in some cases may be publicly available. We recommend you be cautious about giving out personal information to others or sharing personal information in public or private online forums. We are not responsible for the actions of any third parties with whom you share personal information.
+
+  
+WHAT STEPS DO WE TAKE TO PROTECT YOUR INFORMATION ONLINE?   
+We endeavor to maintain physical, electronic, and procedural safeguards to protect the confidentiality and security of personal information transmitted to us using this Web site. Please be aware, however, that despite our efforts, no security measures are perfect or impenetrable. To protect the confidentiality of personal information, you must keep your password confidential and not disclose it to any other person. You are responsible for all uses of our Web site by any person using your password. Please advise us immediately if you believe your password has been misused.
+
+  
+WHAT CHOICES DO YOU HAVE REGARDING THE USE OF YOUR INFORMATION?   
+You may “opt out” of receiving marketing or promotional emails from us, by following the directions in such emails. This will not affect our ability to send you service- and account-related emails or to use your personal information as otherwise described in this Policy.
+
+  
+HOW CAN YOU CORRECT AND UPDATE YOUR PERSONAL INFORMATION OR OBTAIN ADDITIONAL INFORMATION?  
+If you have any questions or comments about this Policy or the practices relating to this Site, or you wish to verify, correct, or delete any personal information we have collected, please contact us at communitysupport@cfchildren.org and we will endeavor to respond to your inquiry or to correct, update, or remove the personal information you have provided us as you indicate. You may also contact us by mail at the following address: Committee for Children, Attn: Community Support, 568 1st Ave. S., Ste. 600, Seattle, WA, 98118. However, please note that in some cases, we may believe it is necessary or appropriate to retain certain personal information we have collected, and the deletion of such personal information will be in our sole discretion unless otherwise required by law.
 
 Endorsements
 
