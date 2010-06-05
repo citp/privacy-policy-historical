@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230092038id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicareaustralia.gov.au privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606014336id_/http%3A//www.medicareaustralia.gov.au/about/privacy-security.jsp) for the most accurate reproduction.*
 
 # Privacy and security - Medicare Australia
 
@@ -168,4 +168,4 @@ While Medicare Australia endeavours to make this site secure, users should be aw
 
 Despite its best efforts, Medicare Australia does not warrant that the information in its site is free from infection by computer viruses or other contamination.
 
-Last updated: 1 October, 2009
+Last updated: 18 March, 2010
