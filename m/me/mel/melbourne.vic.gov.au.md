@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2009-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091112043255id_/http%3A//www.melbourne.vic.gov.au/info.cfm%3Fpg%3D665) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melbourne.vic.gov.au privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605153619id_/http%3A//www.melbourne.vic.gov.au/Pages/Privacy.aspx) for the most accurate reproduction.*
 
-# City of Melbourne - Home - Privacy Policy Statement
+# Privacy statement
 
 ## Information privacy
 
-The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs. 
+The City of Melbourne views the protection of your privacy as an integral part of its commitment towards complete accountability and integrity in all its activities and programs.
 
 This statement outlines the privacy practices of the City of Melbourne in relation to visits to any Council website.
 
 ## Collection of personal information
 
-Council will only collect personal information supplied by you to this web site when it is necessary to do so. The information will be used for purposes including but not limited to the following,
+Council will only collect personal information supplied by you to this web site when it is necessary to do so. The information will be used for purposes including but not limited to the following :
 
 1\. To contact you where it is necessary to do so to aid in providing Council Services requested by you eg, obtaining a resident parking permit via our website.
 
@@ -46,6 +46,6 @@ If you wish to alter any personal information you have supplied to Council whils
 
 Please contact the Council’s Privacy Officer on (03) 9658 9173 if you have any other enquires concerning Councils privacy procedures.
 
-[  Council's Privacy Policy Statement  (124kb) ](https://web.archive.org/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.pdf)
+[City of Melbourne Privacy Policy Statement (PDF, 124kb) ](https://web.archive.org/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.pdf)
 
-[  Council's Privacy Policy Statement (77kb) ](https://web.archive.org/rsrc/PDFs/Governance/CITYOFMELBOURNEPRIVACYPOLICYSTATEMENT.DOC)
+[City of Melbourne Privacy Policy Statement (Text only, 77kb) ](https://web.archive.org/AboutMelbourne/Documents/City_of_Melbourne_Privacy_Policy_Statement.DOC)
