@@ -1,118 +1,94 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511130734id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605122845id_/http%3A//www.sgi.sk.ca/privacy.html) for the most accurate reproduction.*
 
-# SGI - Protecting your privacy
+# Protecting your privacy - SGI
 
-**Our commitment**
+  | 
+
+#### Our commitment
 
 At SGI we value our customers and take your privacy seriously. You can rest assured that we’ll protect and respect your personal information and privacy.
 
-This information complements our corporate privacy policy, which was developed to anticipate a broad range of circumstances.
+This information complements our [Corporate Privacy Policy](https://web.archive.org/web/20100605122845id_/http%3A//www.sgi.sk.ca/corporate_privacy_policy.pdf), which we developed to anticipate a broad range of circumstances.
 
 Our commitment to you is to collect only the information we need to conduct your business and to adhere to industry best practices in handling and protecting your personal information.
 
 Protecting your privacy is important to us at SGI.
 
-**Personal information collected**
+#### Collecting your personal information
 
-Personal information is information that relates specifically to you as a customer. We may require the following information depending on the service or product you want or the benefit you’re receiving:
+Personal information is information that relates specifically to you as a customer. Depending on the service or products you require, SGI collects and retains the following personal information about you:
 
-  * Name, address, telephone and fax numbers, along with email address
-  * Age, gender, marital and family status
-  * Identification numbers
-  * Insurance claims history
-  * Driver records
-  * Education and employment history
-  * Financial or property information
-  * Physical- or mental-health information, including prior health and treatment history
-
-
-
-**Protecting your privacy**
-
-SGI will protect your personal information with security safeguards appropriate to the sensitivity of the information. To provide further protection, we’ll:
-
-  * Obtain appropriate consent from you for the collection, use or disclosure of your personal information 
-  * Retain personal information only as long as necessary 
-  * Not collect, use or disclose your personal information for anything other than the identified purposes, except where required by law
-  * Strive to maintain the accuracy and completeness of your personal information
-  * Respond to any request from you to access or correct your personal information 
+  * Name, address, home and work phone and fax numbers, email address and cellphone number.
+  * Age, gender, and marital and family status.
+  * Education, employment status, including the name and address of your current Employer, and work history.
+  * Financial and property status information (i.e., mortgage or leasing information on property you hold, money owed to SGI, bank information, credit information, tax information, and information regarding receipt of government benefits, etc.).
+  * Your driving record including crashes, licence suspensions, convictions, traffic violations, the class of licence you hold and your safe driver or business rating.
+  * Your vehicle information.
+  * Your insurance claims history and any information needed to adjust those prior claims (e.g., witness statements, damage estimates, claims file investigations, etc.).
+  * Your physical or mental health information including current and prior health claims, Workers' Compensation Board claims information, or any entitlement regarding other insurance programs or policies.
+  * Your photograph and signature.
+  * Other government identification numbers.
+  * Your commercial driving records and logs required to be completed by law and inspection outcomes relating to Carrier Audit issue of National Safety Code (NSC) Certificates.
 
 
 
-**Using your personal information**
+#### Using your personal information
 
-SGI, your broker or our licence issuers may need to collect your personal information to:
+SGI collects personal information for the purposes of administering _The Automobile Accident Insurance Act_ and _The Traffic Safety Act._
 
-  * Verify your identity
-  * Confirm your application information and understand and assess your insurance needs
-  * Provide driver licensing and vehicle registration products and services
-  * Meet our photo identification and safety mandate
-  * Underwrite insurance risks on a prudent basis
-  * Provide the benefits to which you’re entitled
-  * Establish and maintain a relationship with you and respond to your inquiries
-  * Detect, investigate and prevent fraud
-  * Comply with requests from law-enforcement agencies
-  * Compile statistics for research or product and program development
-  * Meet legal and regulatory requirements
-  * Notify you of other products and services to meet your needs
+Your personal information is collected and shared between various departments within SGI and with our business partners or agents (i.e., brokers, licence issuers, lawyers, process servers, medical or financial consultants, etc.) for the following business purposes:
 
-
-
-To meet the purposes just listed, we may need to obtain or share your information, but will do so only when a legitimate business purpose exists. 
-
-**Consent**
-
-Your knowledge and consent is required for the collection, use and disclosure of your personal information.
-
-We may obtain your consent:
-
-  * In writing, such as a signed application or consent form
-  * In person or over the telephone
-  * Through your authorized representative
+  * To determine entitlement to a driver’s licence or vehicle registration and/or provide Saskatchewan residents with photo identification, a driver’s licence or vehicle registration.
+  * To administer government-regulated driving programs set out in _The Traffic Safety Act_ and supporting regulations (i.e., ignition interlock program, addiction screening, graduated driver program, etc.).
+  * To regulate and address road safety issues regarding rules of the road and vehicle safety.
+  * To provide commercial carriers with a National Safety Code Certificate and monitor the safety compliance of commercial carriers.
+  * To provide insurance coverage under _The Automobile Accident Insurance Act_.
+  * To underwrite risks on a prudent basis.
+  * To investigate insurance claims for both property damage or personal injury, and where required, pay customers the compensation to which they are entitled.
+  * To assist customers with insurance financing options (i.e., AutoPay or the Deductible Payment Plan).
+  * To detect, investigate and prevent fraud.
+  * To compile statistics for research or product and program development that may require using de-identified data.
+  * To conduct litigation that arise out of our business.
+  * To conduct business audits.
+  * To verify customer identity, respond to customers’ inquiries, questions or concerns and to communicate with customers as required.
 
 
 
-Some legal exceptions exist. Please be assured that SGI will follow best practices and will collect, use or share your information only as required to do so for legitimate business purposes or for legal reasons. 
+#### Protecting your privacy
 
-**It’s your information**
+SGI will protect your personal information with security safeguards appropriate to the sensitivity of the information. To provide further protection, SGI:
 
-It’s your right to refuse permission to obtain, use or disclose your personal information. You also have the right to withdraw your consent at any time. 
-
-If you chose to exercise these rights, we’ll continue to make every effort to provide you with quality products and services, but we may not be able to do so. 
-
-**Accuracy**
-
-To ensure that SGI has accurate information please notify us when there are changes to your personal information.
-
-**Privacy policy**
-
-For a complete copy of SGI’s corporate privacy policy, [click here](https://web.archive.org/web/20090511130734id_/http%3A//www.sgi.sk.ca/pdf/sgi_privacy.pdf) (PDF, 40kB).
-
-**Privacy contact**
-
-If you want to:
-
-  * Access your personal information or have your information corrected
-  * Change your consent with respect to how we collect, use or disclose your personal information
-  * File a complaint about our privacy policies or the manner in which we’ve handled your personal information
-  * Inquire about any other privacy questions or concerns
+  * Obtains appropriate consent from you for the collection and use of your personal information.
+  * Does not use your personal information for any purpose other than those business purposes identified above.
+  * Does not disclose your personal information to anyone except to our business partners or agents for the purpose of providing the above noted services unless required by law to disclose your information.
+  * Strives to maintain the accuracy and completeness of your personal information.
+  * Responds to any requests from you to access or correct your personal information.
 
 
 
-**Please contact:**
+#### Consent
 
-> SGI Chief Privacy Officer  
->  2260 – 11th Ave.  
->  Regina, Sask.  S4P 0J9  
->  Telephone: 1-800-667-8015  
->  E-mail: [sgiinquiries@sgi.sk.ca](mailto:sgiinquiries@sgi.sk.ca)
+Unless otherwise prescribed by law, your knowledge and consent is required for the collection, use and disclosure of your personal information.
 
-If you’re not satisfied with the outcome of an inquiry or complaint handled by SGI’s Chief Privacy Officer, you may address your concerns to:
+We can obtain your consent in two ways:
 
-> Office of the Saskatchewan Information and Privacy Commissioner  
->  503 – 1801 Hamilton St.  
->  Regina, Sask.  S4P 4B4  
->  Phone: 306-787-8350  
->  Toll-free within Saskatchewan: 1-877-748-2298  
->  Fax: 306-798-1603  
->  [www.oipc.sk.ca](http://www.oipc.sk.ca/)
+  * Directly: Through a signed application or consent form or when you provide consent in person or over the phone.
+  * Indirectly: When you provide information to SGI to obtain a service or deal with SGI through an authorized representative.
+
+
+
+Please note: Some legal exceptions exist. Please be assured that SGI will follow best practices in this regard.
+
+#### It's your information
+
+It's your right to refuse permission to obtain, use or disclose your personal information unless SGI is required by law to provide same. You also have the right to withdraw your consent at any time.
+
+If you chose to exercise the right to refuse access to your information or withdraw your consent to use your personal information, SGI will continue to make every effort to provide you with quality service.
+
+Please Note: In many situations, SGI may not be able to provide you with a particular product or service without your personal information.
+
+#### Your driver's licence
+
+SGI provides you with a driver’s licence or photo identification card for the sole purpose of enabling you to operate a motor vehicle on Saskatchewan roadways.
+
+Many organizations and businesses seek to collect or retain a copy of this information for other reasons (i.e., to verify your identity or prevent fraud). SGI reminds you to use caution when providing your driver’s licence or photo identification card to other organizations. In circumstances where you provide this information, you may want to ask the organization why this information is required, and how it is being stored to ensure it is safe. You must also ensure your information is being safeguarded against unauthorized access by individuals who may use it or acquire your identification or personal information without your consent. 
