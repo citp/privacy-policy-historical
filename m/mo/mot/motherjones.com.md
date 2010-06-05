@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130163325id_/http%3A//www.motherjones.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the motherjones.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605050603id_/http%3A//motherjones.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Mother Jones
 
@@ -72,6 +72,7 @@ When you donate, we use the information you provide to process your donation. On
 
 From time to time, we may sponsor promotions, contests, surveys, or other events which require the collection, processing, and storage of individual contact information (e.g., name and mailing or email address) and demographic information (e.g., your age and state of residence) to be used for the event. We may cosponsor these events with other companies. In that case, your individual contact and demographic information is likely to be shared with other sponsors.
 
+  
 Demographic information may be compiled and reported or shared in the aggregate with others, but no personal details that can be linked to specific individuals will be provided. We will not release personally identifiable contact or demographic information to any third party other than named sponsors without your consent (except as provided in Section 10). 
 
 We request that cosponsors uphold the privacy of your information by not distributing or sharing such information with any other businesses or organizations. However, we do not control the information practices of others, and cannot guarantee that they will not disclose your information.  You should review the privacy policy of any cosponsor before participating in a promotion or survey.
