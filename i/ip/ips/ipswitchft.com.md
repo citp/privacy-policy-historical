@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipswitchft.com privacy policy that was archived on 2010-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx) for the most accurate reproduction.*
 
-# Ipswitch File Transfer - Privacy
+# Privacy Statement - Ipswitch File Transfer
 
 We take your privacy very seriously. We collect industry-standard information to in order to provide you with superior products and customer service. Our privacy policies are described in the following pages
 
-  * [Personal Information](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp#personalinfo)
-  * [Web Visit Information](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp#webvisitinfo)
-  * [Sharing of Information with Third Parties](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp#thirdparties)
-  * [Security](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp#security)
-  * [Children’s Online Privacy Protection](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/privacy.asp#childrens)
+  * [Personal Information](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#personalinfo)
+  * [Web Visit Information](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#webvisitinfo)
+  * [Sharing of Information with Third Parties](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#thirdparties)
+  * [Security](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#security)
+  * [Children’s Online Privacy Protection](https://web.archive.org/web/20100605055633id_/http%3A//www.ipswitchft.com/Company/Privacy.aspx#childrens)
 
 
 
@@ -72,4 +72,4 @@ Your credit card information is encrypted before transmission over the Internet 
 Neither our websites nor our products are designed for or directed to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13. 
 
 Contact Information   
-If you have a concern about your privacy, please [contact us](https://web.archive.org/web/20090207074823id_/http%3A//www.ipswitchft.com/company/contact.asp).
+If you have a concern about your privacy, please [contact us](https://web.archive.org/Company/Contact.aspx).
