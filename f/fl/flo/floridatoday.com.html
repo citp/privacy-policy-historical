@@ -1,26 +1,30 @@
-<!--The following is the downloaded HTML source of the floridatoday.com privacy policy that was archived on 2009-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091204014748id_/http%3A//www.floridatoday.com/section/PRIVACY) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the floridatoday.com privacy policy that was archived on 2010-06-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100605040733id_/http%3A//www.floridatoday.com/section/PRIVACY) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html lang="en"><head>
-<!-- GO4F Version: 0912.1574 -->
+<!-- GO4F Version: 1006.1756 -->
 							<title>floridatoday.com | Brevard PRIVACY | FLORIDA TODAY</title>
 <meta name="keywords" content="floridatoday.com,Brevard,FL,News,local news,headlines,stories,world news">
 <meta name="description" content="Brevard FL News - floridatoday.com is the home page of Brevard FL with in depth and updated Brevard local news. Stay informed with both Brevard FL news as well as headlines and stories from around the world.">
+<link rel="canonical" href="http://www.floridatoday.com/section/PRIVACY/PRIVACY">
+<meta name="robots" content="noodp">
+<meta name="robots" content="noydir">
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <meta http-equiv="pragma" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="cache-control" content="no-cache">
 <link href="/includes/css/go4/go4-local.css" rel="stylesheet" type="text/css">
 <!-- temp to include more than just base local.css -->
+<link rel="shortcut icon" href="/graphics/favicon.ico" type="image/x-icon">
 <link href="/gci/gc/p9/GO4Styles-min.css" rel="stylesheet" type="text/css">
 <script src="/GEL/lib/core/core.js"></script>
 <script type="text/javascript"> 
- /*Subsite Redirect*/
+/*Subsite Redirect*/
 var _bodyTimer= new GEL.util.benchmark.Timer("Body Load").start(); 
 GEL.thepage.on("ready", function() { _bodyTimer.end() } ); 
- try{document.domain= GEL.config.domain= "floridatoday.com"}catch(e){};
- /* GO4 Faster PageInfo */
- 				GEL.config.sitelifeurl= "http://sitelife." + 
+try{document.domain= GEL.config.domain= "floridatoday.com"}catch(e){};
+/* GO4 Faster PageInfo */
+				GEL.config.sitelifeurl= "http://sitelife." + 
 	"floridatoday.com/ver1.0/Direct/Process?sid=sitelife"+ 
 	".floridatoday.com";
 GEL.thepage.pageinfo = { 
@@ -48,19 +52,45 @@ GEL.thepage.pageinfo = {
 		name: "FLORIDA TODAY", 
 		state: "FL",
 		city: "Brevard"
+	},
+	comscore: { 
+		comscoreenable: "on",
+		c1: "2", 
+		c2: "6035223"
 	}
 };
 GEL.thepage.pageinfo.siteinstance="";
- /* Banner configuration and Initialization */
- (function(){
+GEL.thepage.pageinfo.videooverlays="on";
+/*GO4 Faster Semantics*/
+	GEL.thepage.pageinfo.semantics={
+	response:{},
+	source:'DB',
+	enabled:true,
+	status:'undefined',
+	url:'http://cx.contextweb.com/ctx/?cwurl=http%3A//www.floridatoday.com/section/PRIVACY/PRIVACY',
+	uniqueids:[undefined],
+	uniqueidsdesc:[],
+	allids: [undefined],
+	calltime:'0',
+	cached:true
+};
+/* Banner configuration and Initialization */
+(function(){
 var 
-	_c= GEL.config
+	_c= GEL.config,
+	_a = [],
+	_SI= GEL.namespace("thepage.pageinfo.semantics"), 
+	_ids= typeof _SI.uniqueids == 'object' ? _SI.uniqueids : [],
+	_keywords
 ; 
+for(var i=0, l= _ids.length,kw= _ids[i]; i < l ; kw= _ids[++i])
+	_a[_a.length]= "CW" + kw; 
+_c.KeyWords= _a.slice(); 
+_c.KeyValues= {cw: _ids.slice()}; 
 _c.AdPage='fl-brevard.flatoday.com/news/local/index.htm';
 _c.AdServer= "gannett.gcion.com"; 
 _c.AdNetworkId= 5111.1;
 _c.PlacementId=parseInt(896067, 10)
-_c.KeyWords= ''+'&'+location.search.substring(1);
 _c.gcion_section_front = "section"; 
 _c.gdn_section_front = "section"; 
 _c.PDurl = 'search.floridatoday.com'; /*PDURL*/
@@ -71,7 +101,7 @@ GEL.thepage.initializer.addInitRoutine({
 	callback: bannerFinder, 
 	priority: 25
 }); 
-function bannerFinder(){ 
+function bannerFinder(){
 	var 
 		_t= new GEL.util.benchmark.Timer("Banners").start(), 
 		_bl= GEL.thepage.bannerLoader= 
@@ -80,12 +110,11 @@ function bannerFinder(){
 	; 	
 	_bl.findBanners(); 
 	_bm= _bl.loadBanners(
-			function(){return this.config.loadOnInit;}, 
-			null, 
-			false
-		);
+		function(){return this.config.loadOnInit;},
+		null, 
+		false
+	);
 	_bm.on("ready", _t.getStop()); 
-	//_bm.attach(); 
 	this.addElement(_bm); 
 }
 })(); 
@@ -102,7 +131,7 @@ return function OAS_AD(pos, opts) {
         _me.parentNode.insertBefore(_container.getElement(), _me); 
 }
 })(); 
- (function(){ 
+(function(){ 
 var _c= GEL.config.userauth={
 	timeout: 20, 
 	enable_auth_by_division: true, 
@@ -128,7 +157,7 @@ var _c= GEL.config.userauth={
 	persona_url: "/apps/pbcs.dll/section?category=pluckpersona", 
 	blogs_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaBlog", 
 	photos_url: "/apps/pbcs.dll/section?category=pluckpersona&plckPersonaPage=PersonaPhotos", 
-	version: "3.4.1",
+	version: "3.4",
 	coppaage: 13, 
 	pp_url: "/pp", 
 	tos_url: "/tos", 
@@ -216,7 +245,7 @@ GEL.thepage.initializer.addInitRoutine({
 	}
 }); 
 })(); 
- /****O4 Faster Omniture******/
+/****O4 Faster Omniture******/
 (function(){
 	var 
 		_PI= GEL.thepage.pageinfo
@@ -224,18 +253,22 @@ GEL.thepage.initializer.addInitRoutine({
 	GEL.namespace('config.omniture', 'config.bus.properties', 'config.bus.providers');
 	GEL.config.bus.providers.sitecat= 100; 
 	GEL.config.bus.providers.bt= 200;
-/* If this is a frontpage (section or home) we add the checkmate provider */
+/* If this is a frontpage (section Front or home) we add the checkmate provider:*/
 (function(){ 
-	var _CFG= GEL.namespace("config.checkmate"); 
+	var _CFG= GEL.namespace("config.comscore"); 
 	_CFG.domain= "" || (function(){ 
 		var _a= window.location.host.split("."); 
 		return _a[_a.length - 2];
 	})(); 
-	_CFG.server= "q1.checkm8.com"; 
-	_CFG.scriptlib= "http://q1digital.checkm8.com/adam/cm8adam_1_call.js"; 
+	_CFG.comscoreenable= "on";
+	_CFG.server= "b.scorecardresearch.com";
+	_CFG.scriptlib= "http://b.scorecardresearch.com/beacon.js";
+	_CFG.accountid= 6035223;
+	_CFG.c1= 2;
+	_CFG.c4= GEL.namespace("thepage.pageinfo").articleinturl || '';
 	_CFG.profile= ""; 
-	GEL.config.bus.providers.checkm8= 200;
-})(); 
+	GEL.config.bus.providers.comscore= 100;
+})();
 /* This is the SiteCatalyst specific configuration  */
 	GEL.config.omniture= {
 		account: 'gpaper114,gntbcstglobal',
@@ -260,7 +293,7 @@ GEL.thepage.initializer.addInitRoutine({
 	is maintained within the OMniture JavaScript provider. 
 */
 	GEL.config.bus.properties= {
-		server: 'publicus',
+		server: 'SAXO-GEL',
 		pagetype: '',
 		custom1: '',
 		custom2: '',
@@ -286,11 +319,100 @@ GEL.thepage.initializer.addInitRoutine({
 				return _pdefault;
 		})(),
 		custom8 : '',
+		topstories: (function(){
+			var 
+				_top = {
+					frontpage: (function(){
+						return '';
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_top
+							;
+							_top = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _top;
+						}
+					})(),		
+					section: (function(){
+						return '';
+					})(),
+					gallery: (function(){
+						return '';
+					})(),
+					error: (function(){
+						return '';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _top)
+				return _top[_type];
+		})(),
 		contenttype : 'section',
-		division: 'Newspaper',
+		division: '',
 		location: document.location,
+		uri: (function(){
+			var 
+				_uri = {
+					frontpage: (function(){
+						var _uri = "/frontpage"
+						return _uri;
+					})(),
+					article: (function(){
+						if(GEL.thepage.pageinfo.articleinturl){
+							var 
+								_arturl=GEL.thepage.pageinfo.articleinturl.split("/"),
+								_uri
+							;
+							_uri = '/article/'+_arturl[2]+"/"+_arturl[3]+"/"+_arturl[4];
+							return _uri;
+						}
+					})(),		
+					section: (function(){
+						var _uri = "/section/"+_PI.categoryid;
+						return _uri;
+					})(),
+					gallery: (function(){
+						return '/Gallery-TBD';
+					})(),
+					error: (function(){
+						return '/error';
+					})()
+				},_type=_PI.type
+			;
+			if(_type in _uri)
+				return _uri[_type];
+		})(),
+		pagedomain: _PI.url.domainname,
 		marketname: 'Melbourne:floridatoday',
-		isException : false
+		isException : false,
+		useraction: (function(){
+			var _p = GEL.env.url.qsv;
+			if(_p.odyssey && _p.template!='printphoto')
+				return _p.odyssey;
+		})(),
+		ecommerceSource: (function(){
+			var 
+				_p = GEL.env.url.qsv
+			;
+			if(_p.source)
+				return _p.source;
+		})(),
+		semantics: (function(){
+			if(typeof(_PI.semantics)!='undefined' && typeof(_PI.semantics.uniqueids)!='undefined'){
+				var 
+					_c = _PI.semantics.uniqueids.join('+'),
+					_t = _PI.type,_u
+				;
+			_u = (_t=='frontpage') ? 'frontpage' : 
+					( (_t=='article') ? _PI.articleinturl.split('/').slice(1,5).join('/') : 
+						( (_t=='section') ? _PI.type +'/'+_PI.categoryid : '' ) )
+			; 
+				if(_c)
+					return 'CW:'+'/'+_u+':'+_PI.ssts.section+':'+_c;
+			}
+		})()
 	}
 })();
 </script> 
@@ -311,7 +433,7 @@ GEL.thepage.initializer.addInitRoutine({
 			<div class="leaderboard-container-top">
 				<div class="leaderboard-top">
 					<div class="ad_728x90">
-<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896067/0/-1/ADTECH;alias=fl-brevard.flatoday.com/news/local/index.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=4602;misc=1580375150780;size=728x90;noperf=1;key=PRIVACY;kvtitle=PRIVACY"></script>
+<div id="adcontainer___gelement_adbanner_0"><div id="__gelement_1" class=" gel-hidden"><script id="__gelement_2" src="https://gannett.gcion.com/addyn/3.0/5111.1/896067/0/-1/ADTECH;alias=fl-brevard.flatoday.com/news/local/index.htm_728x90_1;cookie=info;loc=100;target=_blank;grp=62198;misc=1580375154640;size=728x90;noperf=1;key=CWundefined;kvcw=;kvtitle=PRIVACY"></script>
 </div>
 </div><banner position="728x90_1" id="__gelement_adbanner_0"></banner>
 </div>
@@ -371,7 +493,7 @@ GEL.thepage.initializer.add({
 		<li class="headerPartnersList"><a href="http://www.floridatoday.com/autos">Cars</a> |</li>
 		<li class="headerPartnersList"><a href="http://floridatoday.gon.gannettonline.com/apps/pbcs.dll/section?category=homes&amp;pub=floridatoday">Real Estate</a> |</li>
 		<li class="headerPartnersList"><a href="http://www.apartments.com/partner/Community.aspx?Area4=Y&amp;page=SubArea&amp;state=FL&amp;rgn1=15&amp;partner=flatoday&amp;prvpg=3">Rentals</a> |</li>
-		<li class="headerPartnersList"><a href="http://www.eharmony.com/singles/servlet/registration?cmd=registration-profile-opt&amp;cid=1039&amp;aid=3310">Dating</a> |</li>
+		<li class="headerPartnersList"><a href="http://gannett.eharmony.com/dating/?cid=1039&amp;aid=3310&amp;cmd=registration-profile-opt">Dating</a> |</li>
 		<li class="headerPartnersList"><a href="http://deals.floridatoday.com">Deals</a> |</li>
 		<li class="headerPartnersList"><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday">Classifieds</a>
 	</li></ul>
@@ -382,111 +504,73 @@ GEL.thepage.initializer.add({
 		<tbody><tr>
 			<td>
 				<div class="masthead">
-					<h1>
-						<a href="http://www.floridatoday.com"><img src="/graphics/mastlogo.gif" alt="floridatoday.com"></a>
-					</h1>
+					<a href="http://www.floridatoday.com"><img src="/graphics/mastlogo.gif" alt="floridatoday.com"></a>
 				</div>
 			</td>
 			<td>
 				<div class="pd-search">
-					<script>
-	var currentLnk = 'tab0';
-	function changeTabbedAff(aff, tabId, text) {
-		document.tabbedForm.aff.value = aff;
-		document.getElementById(currentLnk).className = "";
-		document.getElementById(tabId).className = "pd-search-section-on";
-		document.getElementById("pd-search-text").innerHTML = "Search<br>" + text;
-		currentLnk = tabId;
-	}
-	function gotoTabbedAff(aff, tabId, text, domain) {
-		window.location=domain.replace(/:9085/,"")+"/sp?aff="+aff;
-	}
-	function changeStyle(tabId, onVal) {
-		if(onVal)
-		    document.getElementById(tabId).className = "pd-searchMore-droplistOn";
-		else
-		document.getElementById(tabId).className = "pd-searchMore-droplist";
-	}
-	var hideId;
-	function showMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-		    coords = getPosition();
-		    document.getElementById('pd-search-sections-more').style.left = (coords.x+50) +'px';
-            document.getElementById('pd-search-sections-more').style.top = coords.y +'px';
-			document.getElementById('pd-search-sections-more').style.display = "block";
+					<div class="searchbox-shift">
+<script>
+var search_default = "Find what you are looking for ...";
+var timer = null;
+function showOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "";
+}
+function HideAllSearchOptions() {
+	var search_options = document.getElementById("search-options");
+	search_options.style.display = "none";
+}
+function submitFormAction() {
+	var keywords = document.getElementById("searchbox").value;
+		if (keywords == search_default){
+			keywords = "";
+		}
+	var search_form = document.getElementById("pd-header-search");
+	var checked_option = "";
+	for(var i = 0; i < search_form.searchoption.length; i++) {
+		if(search_form.searchoption[i].checked) {
+			checked_option = search_form.searchoption[i].value;
 		}
 	}
-	function getPosition() {
-	    var coords =  new Object();
-	      coords.x = 0;
-	      coords.y = 0;
-          try {
-	        targetElement = document.getElementById('tabm');
-		    if(targetElement.x && targetElement.y) {
-		        coords.x = targetElement.x;
-		        coords.y = targetElement.y;
-		    } else {
-		        if(targetElement.offsetParent) {
-			        coords.x += targetElement.offsetLeft;
-				    coords.y += targetElement.offsetTop;
-				    while(targetElement = targetElement.offsetParent) {
-				        coords.x += targetElement.offsetLeft;
-					    coords.y += targetElement.offsetTop;
-				    }
-			    }
-		    }
-	      } catch(error) { }
-          return coords;
-	}
-	function hideMore() {
-		if(document.getElementById('pd-search-sections-more')!=null) {
-			document.getElementById('pd-search-sections-more').style.display = "none";
-		}
-	}
-	function mouseOverShowMore() {
-		clearTimeout(hideId);
-	}
-	function mouseOutHideMore(timeout) {
-		hideId = setTimeout("hideMore()",timeout);
-	}
+	var new_url = "";
+	if(checked_option === "OPTION1") new_url = "http://search.floridatoday.com/sp?aff=1100&skin=&keywords=";
+	else if(checked_option === "OPTION2") new_url = "http://pqasb.pqarchiver.com/floridatoday/results.html?st=basic&QryTxt=";
+	else if(checked_option === "OPTION3") new_url = "http://search.floridatoday.com/sp?aff=1180&keywords=";
+	else if(checked_option === "OPTION4") new_url = "http://search.floridatoday.com/sp?skin=&aff=1109&keywords=";
+	new_url = new_url + "" + keywords;
+	window.location.href = new_url;
+	return false; 
+}	
+function safeParam( key, def) { 
+    var defval = def|| ""; 
+    var re = new RegExp( "[?&]" + key + "=([^&$]*)", "i" ); 
+    var offset = location.search.search(re); 
+    if ( offset == -1 || RegExp.$1 == '') return defval; 
+    return RegExp.$1; 
+}		
 </script>
-		<div id="isf-search-form">						
-<form action="http://search.floridatoday.com/sp" method="get" class="tabbed-search-form" id="tabbedForm" name="tabbedForm">
-	<input type="hidden" name="aff" value="1100">
-	<input type="hidden" name="skin" value="100">
-	<div style="float:left;">
-		<span id="pd-search-text" class="pd-search-text">Search<br>All</span>
-	</div>
-	<div style="float:left; width:350px;">
-		<div class="pd-search-sections">
-			<ul>
-								<li id="tab0" class="pd-search-section-on"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tab0','All')">All</a></b><span>&nbsp;</span></li>
-								<li id="tab1"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1101','tab1','Local News')">Local News</a></b><span>&nbsp;</span></li>
-								<li id="tab2"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1174','tab2','Archives')">Archives</a></b><span>&nbsp;</span></li>
-								<li id="tab3"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1114','tab3','Jobs')">Jobs</a></b><span>&nbsp;</span></li>
-								<li id="tabm"><b><a href="javascript:void(0);" onclick="changeTabbedAff('1100','tabm','more');mouseOverShowMore();showMore();" onmouseout="mouseOutHideMore(250);">More&nbsp;»</a></b><span>&nbsp;</span></li></ul></div>
-								<div id="pd-search-sections-more" class="pd-search-sections-more" style="display:none;" onmouseover="mouseOverShowMore();" onmouseout="mouseOutHideMore(250);"><ul>
-								<li id="tab4" class="pd-searchMore-droplist" onmouseover="changeStyle('tab4',true);mouseOverShowMore();" onmouseout="changeStyle('tab4',false);"><a href="javascript:gotoTabbedAff('1109&amp;skin=100','tab4','Directory','http://search.floridatoday.com');">Directory</a></li>
-								<li id="tab5" class="pd-searchMore-droplist" onmouseover="changeStyle('tab5',true);mouseOverShowMore();" onmouseout="changeStyle('tab5',false);"><a href="javascript:gotoTabbedAff('1102&amp;skin=100','tab5','Classifieds','http://search.floridatoday.com');">Classifieds</a></li>
-								<li id="tab6" class="pd-searchMore-droplist" onmouseover="changeStyle('tab6',true);mouseOverShowMore();" onmouseout="changeStyle('tab6',false);"><a href="javascript:gotoTabbedAff('1113&amp;skin=100','tab6','Cars','http://search.floridatoday.com');">Cars</a></li>
-								<li id="tab7" class="pd-searchMore-droplist" onmouseover="changeStyle('tab7',true);mouseOverShowMore();" onmouseout="changeStyle('tab7',false);"><a href="javascript:gotoTabbedAff('1180&amp;skin=100','tab7','Coupons &amp; Deals','http://search.floridatoday.com');">Coupons &amp; Deals</a></li>
-								<li id="tab8" class="pd-searchMore-droplist" onmouseover="changeStyle('tab8',true);mouseOverShowMore();" onmouseout="changeStyle('tab8',false);"><a href="javascript:gotoTabbedAff('1105&amp;skin=100','tab8','Movies','http://search.floridatoday.com');">Movies</a></li>
-								<li id="tab9" class="pd-searchMore-droplist" onmouseover="changeStyle('tab9',true);mouseOverShowMore();" onmouseout="changeStyle('tab9',false);"><a href="javascript:gotoTabbedAff('1125&amp;skin=100','tab9','Obituaries','http://search.floridatoday.com');">Obituaries</a></li>
-								<li id="tab10" class="pd-searchMore-droplist" onmouseover="changeStyle('tab10',true);mouseOverShowMore();" onmouseout="changeStyle('tab10',false);"><a href="javascript:gotoTabbedAff('1172&amp;skin=100','tab10','Comments','http://search.floridatoday.com');">Comments</a></li>
-								<li id="tab11" class="pd-searchMore-droplist" onmouseover="changeStyle('tab11',true);mouseOverShowMore();" onmouseout="changeStyle('tab11',false);"><a href="javascript:gotoTabbedAff('1171&amp;skin=100','tab11','People','http://search.floridatoday.com');">People</a></li>
-								<li id="tab12" class="pd-searchMore-droplist" onmouseover="changeStyle('tab12',true);mouseOverShowMore();" onmouseout="changeStyle('tab12',false);"><a href="javascript:gotoTabbedAff('1108&amp;skin=100','tab12','Shopping','http://search.floridatoday.com');">Shopping</a></li>
-			</ul>
+<form method="get" id="pd-header-search" class="multi-search" onsubmit="return submitFormAction()" action=" ">
+	<div id="search-wrapper" class="clear">
+		<div id="search_border">
+			<input id="searchbox" type="text" size="34" maxlength="34" onfocus="if(this.value==='Find what you are looking for ...') this.value=''; showOptions();" onblur="if(this.value=='') this.value=safeParam('keywords','Find what you are looking for ...');timer=setTimeout('HideAllSearchOptions()',1500);" onkeydown="showOptions();">
+			<button class="search_btn" type="submit"> Search</button>
 		</div>
-		<div style="clear:both;"></div>
-		<div>
-			<input type="text" name="keywords" class="keyword-input" value="">
-			<input type="image" src="/graphics/search/button_search.gif" class="go-button" align="top">
+		<div id="search-options" style="display:none;" onmouseover="clearTimeout(timer);" onmouseout="timer=setTimeout('HideAllSearchOptions()',1500);">
+			<p>Search in</p>
+			<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION1" checked="">&nbsp;&nbsp;News<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION2">&nbsp;&nbsp;Archives
+	     	</div>
+	   		<div class="left">
+				<input class="submit" name="searchoption" type="radio" value="OPTION3">&nbsp;&nbsp;Local Deals<br>
+				<input class="submit" name="searchoption" type="radio" value="OPTION4">&nbsp;&nbsp;Local Directory
+		    </div>       
 		</div>
 	</div>
-	<div style="clear:both;"></div>
 </form>
-		</div><!-- #isf-search-form -->			
-
+<script type="text/javascript">document.getElementById("searchbox").value = safeParam('keywords',search_default);</script>
+</div>
 				</div>
 			</td>
 			<td>
@@ -500,7 +584,7 @@ GEL.thepage.initializer.add({
 		</tr>
 		</tbody></table>
 		<div id="navigation-container" class="navigation-container">
-	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node2529"><a href="http://www.floridatoday.com/">HOME</a></span><span class="level1-expand" id="node2530"><a href="http://www.floridatoday.com/news">NEWS</a></span><span class="level1-expand" id="node2542"><a href="http://www.floridatoday.com/communities">COMMUNITIES</a></span><span class="level1-expand" id="node2543"><a href="http://www.floridatoday.com/section/sports">SPORTS</a></span><span class="level1-expand" id="node2544"><a href="http://www.floridatoday.com/videos">VIDEO</a></span><span class="level1-expand" id="node2545"><a href="http://www.floridatoday.com/life">LIFE</a></span><span class="level1-expand" id="node2546"><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935">WEATHER</a></span><span class="level1-expand" id="node2547"><a href="http://www.floridatoday.com/opinion">OPINION</a></span><span class="level1-expand" id="node2548"><a href="http://www.legacy.com/obituaries/floridatoday/">OBITUARIES</a></span><span class="level1-expand" id="node2550"><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday">CLASSIFIEDS</a></span><span class="level1-expand" id="node2551"><a href="http://www.floridatoday.com/content/services/">CUSTOMER SERVICE</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5619"><a href="http://www.floridatoday.com/content/blogs/space">Space / Flame Trench blog</a></span><span class="level2-expand" id="node5623"><a href="http://www.floridatoday.com/watchdog">Brevard Watchlist</a></span><span class="level2-expand" id="node5823"><a href="http://www.floridatoday.com/education">Education</a></span><span class="level2-expand" id="node5624"><a href="http://brevard.metromix.com/home/roundup/zap-squad-galleries/712582/content">Zap Squad</a></span><span class="level2-expand" id="node5627"><a href="http://www.floridatoday.com/jeffparker">Jeff Parker Toons In</a></span><span class="level2-expand" id="node6308"><a href="http://www.floridatoday.com/help">Help!</a></span><span class="level2-expand" id="node12538"><a href="http://www.floridatoday.com/heroes">Hometown Heroes</a></span><span class="level2-expand" id="node10089"><a href="http://www.floridatoday.com/gas">Gas</a></span><span class="level2-expand" id="node14936"><a href="http://topics.gannett.com/h1n1+flu/?template=floridatoday">Swine flu</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
+	<div id="NavigationMenuLevel1Div" class="navigation-menu-level1" style="display:block"><span class="level1-collapse" id="node2529"><a href="http://www.floridatoday.com/">HOME</a></span><span class="level1-expand" id="node2530"><a href="http://www.floridatoday.com/news">NEWS</a></span><span class="level1-expand" id="node2542"><a href="http://www.floridatoday.com/communities">COMMUNITIES</a></span><span class="level1-expand" id="node2543"><a href="http://www.floridatoday.com/section/sports">SPORTS</a></span><span class="level1-expand" id="node2544"><a href="http://www.floridatoday.com/videos">VIDEO</a></span><span class="level1-expand" id="node2545"><a href="http://www.floridatoday.com/life">LIFE</a></span><span class="level1-expand" id="node2546"><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935">WEATHER</a></span><span class="level1-expand" id="node2547"><a href="http://www.floridatoday.com/opinion">OPINION</a></span><span class="level1-expand" id="node2548"><a href="http://www.legacy.com/obituaries/floridatoday/">OBITUARIES</a></span><span class="level1-expand" id="node2550"><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday">CLASSIFIEDS</a></span><span class="level1-expand" id="node2551"><a href="http://www.floridatoday.com/content/services/">CUSTOMER SERVICE</a></span><span class="level1-expand" id="node15564"><a href="http://www.floridatoday.com/photos">PHOTOS</a></span></div><div id="NavigationMenuLevel2Div" class="navigation-menu-level2" style="display:block"><span class="level2-expand" id="node5619"><a href="http://flametrench.flatoday.net">Space / Flame Trench blog</a></span><span class="level2-expand" id="node5623"><a href="http://watchlist.flatoday.net">Brevard Watchlist</a></span><span class="level2-expand" id="node5823"><a href="http://www.floridatoday.com/education">Education</a></span><span class="level2-expand" id="node5624"><a href="http://brevard.metromix.com/bars-and-clubs/photogalleries">Zap Squad</a></span><span class="level2-expand" id="node5627"><a href="http://jeffparker.flatoday.net">Jeff Parker Toons In</a></span><span class="level2-expand" id="node6308"><a href="http://www.floridatoday.com/help">Help!</a></span><span class="level2-expand" id="node12538"><a href="http://www.floridatoday.com/heroes">Hometown Heroes</a></span><span class="level2-expand" id="node10089"><a href="http://www.floridatoday.com/gas">Gas prices</a></span><span class="level2-expand" id="node15507"><a href="http://brevard.metromix.com/home/roundup/beach-pictures/1060856/content">Beach galleries</a></span></div><div id="NavigationMenuLevel3Div" class="navigation-menu-level3" style="display:none"></div>
 </div>
 <script type="text/javascript">
 (function(){ 
@@ -521,7 +605,6 @@ function initMenu(){
 }
 })(); 
 </script>
-
 	</div>
 </div>
 <!-- end #header-container -->
@@ -638,7 +721,7 @@ function initMenu(){
 	</tr>
 	<tr>
 		<td>
-			<table width="940"><tbody><tr><td valign="top" style="padding:5px;"><a href="http://www.floridatoday.com/archives" style="color:white;font-size:10px;">» 7-day archive</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0402&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» 7-day forecast</a><br><a href="http://www.floridatoday.com/filmcontest" style="color:white;font-size:10px;">» 90 seconds to fame film contest</a><br><a href="http://www.floridatoday.com/columnists" style="color:white;font-size:10px;">» Advice &amp; columnists</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0801&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» Airport delays</a><br><a href="http://pqasb.pqarchiver.com/floridatoday" style="color:white;font-size:10px;">» Archives</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0603&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» Around the u.s.</a><br><a href="http://www.floridatoday.com/bca" style="color:white;font-size:10px;">» Bca section</a><br><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Barefoot bay</a><br><a href="http://brevard.metromix.com/bars-and-clubs" style="color:white;font-size:10px;">» Bars &amp; clubs</a><br><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Bay bulletin</a><br><a href="http://www.floridatoday.com/columnists" style="color:white;font-size:10px;">» Blogs</a><br><a href="http://www.floridatoday.com/breeze" style="color:white;font-size:10px;">» Breeze</a><br><a href="http://www.floridatoday.com/watchdog" style="color:white;font-size:10px;">» Brevard watchlist</a><br><a href="http://www.floridatoday.com/news" style="color:white;font-size:10px;">» Brevard headlines</a><br><a href="http://www.floridatoday.com/section/columnists0313" style="color:white;font-size:10px;">» Brian mccallum</a><br><a href="http://www.floridatoday.com/business" style="color:white;font-size:10px;">» Business</a><br><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday" style="color:white;font-size:10px;">» Classifieds</a><br><a href="http://www.floridatoday.com/communities" style="color:white;font-size:10px;">» Communities</a><br><a href="http://www.floridatoday.com/content/services/" style="color:white;font-size:10px;">» Customer service</a><br><a href="http://www.floridatoday.com/press" style="color:white;font-size:10px;">» Cape canaveral</a><br><a href="http://www.floridatoday.com/section/capitolnews" style="color:white;font-size:10px;">» Capitol news</a><br><a href="http://www.floridatoday.com/content/autos/index.htm" style="color:white;font-size:10px;">» Cars</a><br><a href="http://topics.gannett.com/Cash+for+Clunkers/?template=floridatoday" style="color:white;font-size:10px;">» Cash for clunkers</a><br><a href="http://www.floridatoday.com/tribune" style="color:white;font-size:10px;">» Cocoa</a><br><a href="http://www.floridatoday.com/press" style="color:white;font-size:10px;">» Cocoa beach</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams02" style="color:white;font-size:10px;">» Cocoa beach web cam</a><br><a href="http://www.floridatoday.com/columnists" style="color:white;font-size:10px;">» Columnists &amp; blogs</a><br><a href="http://www.floridatoday.com/content/services/contacts/staff.shtml" style="color:white;font-size:10px;">» Contact us</a><br><a href="http://www.floridatoday.com/content/blogs/education/index.shtml" style="color:white;font-size:10px;">» Cram session blog</a><br><a href="http://www.floridatoday.com/section/crime" style="color:white;font-size:10px;">» Crime</a><br></td><td valign="top"><a href="http://www.uclick.com/client/fto/fcx/" style="color:white;font-size:10px;">» Crossword</a><br><a href="http://www.floridatoday.com/crimedata" style="color:white;font-size:10px;">» Data center: crime data</a><br><a href="http://www.floridatoday.com/educationdata" style="color:white;font-size:10px;">» Data center: education data</a><br><a href="http://www.floridatoday.com/politicsdata" style="color:white;font-size:10px;">» Data center: politics</a><br><a href="http://www.floridatoday.com/realestatedata" style="color:white;font-size:10px;">» Data center: real estate data</a><br><a href="http://www.floridatoday.com/weatherdata" style="color:white;font-size:10px;">» Data center: weather data</a><br><a href="http://www.eharmony.com/singles/servlet/registration?cmd=registration-profile-opt&amp;cid=1039&amp;aid=3310" style="color:white;font-size:10px;">» Dating</a><br><a href="http://www.floridatoday.com/education" style="color:white;font-size:10px;">» Education</a><br><a href="http://www.floridatoday.com/content/blogs/extremeculture/index.shtml" style="color:white;font-size:10px;">» Extreme culture</a><br><a href="http://www.floridatoday.com/factbook" style="color:white;font-size:10px;">» Fact book</a><br><a href="http://www.floridatoday.com/content/blogs/fitness/index.shtml" style="color:white;font-size:10px;">» Finding fitness</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=PluckPersona&amp;plckPersonaPage=PersonaBlog&amp;plckUserId=59f7b35cfde84f13bb2e99a8c9089fc1&amp;U=59f7b35cfde84f13bb2e99a8c9089fc1" style="color:white;font-size:10px;">» Flablabla</a><br><a href="http://www.floridatoday.com/content/blogs/space" style="color:white;font-size:10px;">» Flame trench blog</a><br><a href="http://www.floridatoday.com/floridanews" style="color:white;font-size:10px;">» Florida</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=playofweek" style="color:white;font-size:10px;">» Football play of the week</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum" style="color:white;font-size:10px;">» Forums</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0101" style="color:white;font-size:10px;">» Galleries</a><br><a href="http://appsrv.flatoday.net/gs/" style="color:white;font-size:10px;">» Garage sales</a><br><a href="http://www.floridatoday.com/gas" style="color:white;font-size:10px;">» Gas</a><br><a href="http://www.floridatoday.com/section/sports0404" style="color:white;font-size:10px;">» Gators</a><br><a href="http://floridatoday.com/content/blogs/gators/index.shtml" style="color:white;font-size:10px;">» Gators sports scene blog</a><br><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Grant-valkaria</a><br><a href="http://deals.floridatoday.com" style="color:white;font-size:10px;">» Grocery coupons</a><br><a href="http://www.floridatoday.com/" style="color:white;font-size:10px;">» Home</a><br><a href="http://www.floridatoday.com/health" style="color:white;font-size:10px;">» Health</a><br><a href="http://www.floridatoday.com/help" style="color:white;font-size:10px;">» Help!</a><br><a href="http://www.floridatoday.com/help" style="color:white;font-size:10px;">» Help! column</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0722" style="color:white;font-size:10px;">» High school galleries</a><br><a href="http://www.floridatoday.com/highschoolsports" style="color:white;font-size:10px;">» High school sports</a><br><a href="http://www.floridatoday.com/highschoolsportsblog" style="color:white;font-size:10px;">» High schools blog</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=PluckForum&amp;plckForumPage=Forum&amp;plckForumId=Cat%3aadc4d919-840d-4bdc-bac8-3e3151995cf0Forum%3a40478062-40ef-48ef-ba71-e73cf7b879ac" style="color:white;font-size:10px;">» High schools forum</a><br></td><td valign="top"><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=playofweek" style="color:white;font-size:10px;">» High school football play of the week</a><br><a href="http://www.floridatoday.com/homecoming" style="color:white;font-size:10px;">» Homecoming</a><br><a href="http://www.floridatoday.com/heroes" style="color:white;font-size:10px;">» Hometown heroes</a><br><a href="http://www.floridatoday.com/content/contests/horoscope.shtml" style="color:white;font-size:10px;">» Horoscope</a><br><a href="http://www.floridatoday.com/content/contests/horoscope.shtml" style="color:white;font-size:10px;">» Horoscopes</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0401&amp;Zipcode=32935&amp;city=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» Hour-by-hour</a><br><a href="http://www.floridatoday.com/breeze" style="color:white;font-size:10px;">» Ihb</a><br><a href="http://www.floridatoday.com/breeze" style="color:white;font-size:10px;">» Indialantic</a><br><a href="http://www.floridatoday.com/multimedia" style="color:white;font-size:10px;">» Interactive graphics</a><br><a href="http://www.floridatoday.com/jeffparker" style="color:white;font-size:10px;">» Jeff parker toons in</a><br><a href="http://floridatoday.gannettonline.com/careerbuilder/index.html" style="color:white;font-size:10px;">» Jobs</a><br><a href="http://www.floridatoday.com/life" style="color:white;font-size:10px;">» Life</a><br><a href="http://www.floridatoday.com/content/blogs/space/launch/index.shtml" style="color:white;font-size:10px;">» Launch schedule</a><br><a href="http://www.floridatoday.com/section/columnists0603" style="color:white;font-size:10px;">» Lee nessel</a><br><a href="http://legals.flatoday.net/" style="color:white;font-size:10px;">» Legal ads</a><br><a href="http://www.floridatoday.com/littleleague" style="color:white;font-size:10px;">» Little league</a><br><a href="http://www.floridatoday.com/business" style="color:white;font-size:10px;">» Local headlines</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0601&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» Local loop</a><br><a href="http://www.floridatoday.com/content/contests/lottery.shtml" style="color:white;font-size:10px;">» Lottery</a><br><a href="http://www.floridatoday.com/magic" style="color:white;font-size:10px;">» Magic</a><br><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Malabar</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=columnists0303" style="color:white;font-size:10px;">» Mark decotis</a><br><a href="http://www.floridatoday.com/times" style="color:white;font-size:10px;">» Melbourne</a><br><a href="http://www.floridatoday.com/breeze" style="color:white;font-size:10px;">» Melbourne beach</a><br><a href="http://www.floridatoday.com/times" style="color:white;font-size:10px;">» Melbourne village</a><br><a href="http://www.floridatoday.com/content/multimedia/mlbradar.shtml" style="color:white;font-size:10px;">» Melbourne doppler radar</a><br><a href="http://www.flatoday.net/obits/search.htm" style="color:white;font-size:10px;">» Memoriams</a><br><a href="http://www.floridatoday.com/press" style="color:white;font-size:10px;">» Merritt island</a><br><a href="http://brevard.metromix.com" style="color:white;font-size:10px;">» Metromix</a><br><a href="http://brevard.metromix.com/events" style="color:white;font-size:10px;">» Metromix: events</a><br><a href="http://brevard.metromix.com/music" style="color:white;font-size:10px;">» Metromix: music</a><br></td><td valign="top"><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Micco</a><br><a href="http://www.floridatoday.com/section/columnists0309" style="color:white;font-size:10px;">» Mike cherry</a><br><a href="http://www.floridatoday.com/staradvocate" style="color:white;font-size:10px;">» Mims</a><br><a href="http://brevardcounty.momslikeme.com" style="color:white;font-size:10px;">» Momslikeme</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0103" style="color:white;font-size:10px;">» More web cams</a><br><a href="http://www.floridatoday.com/motorsports" style="color:white;font-size:10px;">» Motorsports</a><br><a href="http://brevard.metromix.com/movies" style="color:white;font-size:10px;">» Movies</a><br><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=BREVARD&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dBREVARD" style="color:white;font-size:10px;">» My cozi calendar</a><br><a href="http://www.floridatoday.com/news" style="color:white;font-size:10px;">» News</a><br><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=floridatoday" style="color:white;font-size:10px;">» Nation &amp; world</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0603&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» National loop</a><br><a href="http://www.floridatoday.com/notabledeaths" style="color:white;font-size:10px;">» Notable deaths</a><br><a href="http://www.legacy.com/obituaries/floridatoday/" style="color:white;font-size:10px;">» Obituaries</a><br><a href="http://www.floridatoday.com/opinion" style="color:white;font-size:10px;">» Opinion</a><br><a href="http://www.floridatoday.com/section/entertainment12" style="color:white;font-size:10px;">» On the town</a><br><a href="http://www.floridatoday.com/opinion" style="color:white;font-size:10px;">» Our views &amp; your views</a><br><a href="http://www.floridatoday.com/outdoors" style="color:white;font-size:10px;">» Outdoors</a><br><a href="http://pqasb.pqarchiver.com/floridatoday/item.html" style="color:white;font-size:10px;">» Page prints</a><br><a href="http://www.floridatoday.com/baybulletin" style="color:white;font-size:10px;">» Palm bay</a><br><a href="http://www.floridatoday.com/sun" style="color:white;font-size:10px;">» Palm shores</a><br><a href="http://www.floridatoday.com/section/columnists0312" style="color:white;font-size:10px;">» Patti sponsler</a><br><a href="http://www.floridatoday.com/delivery" style="color:white;font-size:10px;">» Pay bill</a><br><a href="http://floridatoday.gns.gannettonline.com/apps/pbcs.dll/section?category=TECH" style="color:white;font-size:10px;">» Personal technology</a><br><a href="http://www.floridatoday.com/content/blogs/pets/index.shtml" style="color:white;font-size:10px;">» Pet project</a><br><a href="http://www.floridatoday.com/section/columnists0306" style="color:white;font-size:10px;">» Peter kerasotis</a><br><a href="http://www.floridatoday.com/section/news0201" style="color:white;font-size:10px;">» Photo galleries</a><br><a href="http://www.floridatoday.com/sun" style="color:white;font-size:10px;">» Pineda</a><br><a href="http://www.floridatoday.com/ads" style="color:white;font-size:10px;">» Place an ad</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams03" style="color:white;font-size:10px;">» Port canaveral web cam</a><br><a href="http://www.floridatoday.com/staradvocate" style="color:white;font-size:10px;">» Port st john</a><br><a href="http://www.floridatoday.com/press" style="color:white;font-size:10px;">» Press</a><br></td><td valign="top"><a href="http://www.floridatoday.com/content/multimedia/mlbradar.shtml" style="color:white;font-size:10px;">» Radars</a><br><a href="http://floridatoday.gon.gannettonline.com/apps/pbcs.dll/section?category=homes&amp;pub=floridatoday" style="color:white;font-size:10px;">» Real estate</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0602&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" style="color:white;font-size:10px;">» Regional loop</a><br><a href="http://www.apartments.com/partner/Community.aspx?Area4=Y&amp;page=SubArea&amp;state=FL&amp;rgn1=15&amp;partner=flatoday&amp;prvpg=3" style="color:white;font-size:10px;">» Rentals</a><br><a href="http://brevard.metromix.com/restaurants" style="color:white;font-size:10px;">» Restaurants</a><br><a href="http://www.floridatoday.com/tribune" style="color:white;font-size:10px;">» Rockledge</a><br><a href="http://sec.floridatoday.com/" style="color:white;font-size:10px;">» Sec</a><br><a href="http://www.floridatoday.com/section/sports" style="color:white;font-size:10px;">» Sports</a><br><a href="http://www.floridatoday.com/breeze" style="color:white;font-size:10px;">» Satellite beach</a><br><a href="http://www.floridatoday.com/staradvocate" style="color:white;font-size:10px;">» Scottsmoor</a><br><a href="http://www.legacy.com/obituaries/floridatoday/" style="color:white;font-size:10px;">» Search obituaries</a><br><a href="http://www.shoplocal.com/floridatoday/new_user_entry.aspx?CityStateZip=32935" style="color:white;font-size:10px;">» Shopping</a><br><a href="http://www.floridatoday.com/content/blogs/shop/index.shtml" style="color:white;font-size:10px;">» Shopping with autumn</a><br><a href="http://www.floridatoday.com/space" style="color:white;font-size:10px;">» Space</a><br><a href="http://www.floridatoday.com/content/blogs/space" style="color:white;font-size:10px;">» Space / flame trench blog</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=PluckForum&amp;plckForumPage=Forum&amp;plckForumId=Cat%3acf706468-735d-4846-8357-0f19969ada2aForum%3ab33828cc-5e17-469c-964f-da8426e708b0" style="color:white;font-size:10px;">» Space chat</a><br><a href="http://www.floridatoday.com/space" style="color:white;font-size:10px;">» Space headlines</a><br><a href="http://www.spacesonline.com/" style="color:white;font-size:10px;">» Spaces</a><br><a href="http://moonlanding.historybeat.com" style="color:white;font-size:10px;">» Special project: moon landing memories</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=news0202" style="color:white;font-size:10px;">» Special project: saving hubble</a><br><a href="http://www.floridatoday.com/staradvocate" style="color:white;font-size:10px;">» Star advocate</a><br><a href="http://www.floridatoday.com/stocks" style="color:white;font-size:10px;">» Stocks</a><br><a href="http://www.floridatoday.com/content/forms/services/letters.shtml" style="color:white;font-size:10px;">» Submit a letter to the editor</a><br><a href="http://www.floridatoday.com/newsubscriber" style="color:white;font-size:10px;">» Subscribe now</a><br><a href="http://www2.uclick.com/client/fto/sudoc" style="color:white;font-size:10px;">» Sudoku</a><br><a href="http://www2.uclick.com/client/fto/sudoc" style="color:white;font-size:10px;">» Sudoku &amp; features</a><br><a href="http://www.floridatoday.com/sun" style="color:white;font-size:10px;">» Sun</a><br><a href="http://www.floridatoday.com/sun" style="color:white;font-size:10px;">» Suntree</a><br><a href="http://www.floridatoday.com/surfing" style="color:white;font-size:10px;">» Surfing</a><br><a href="http://topics.gannett.com/h1n1+flu/?template=floridatoday" style="color:white;font-size:10px;">» Swine flu</a><br><a href="http://teetimes.floridatoday.com/" style="color:white;font-size:10px;">» Tee times</a><br></td><td valign="top"><a href="http://www.floridatoday.com/times" style="color:white;font-size:10px;">» Times</a><br><a href="http://www.floridatoday.com/staradvocate" style="color:white;font-size:10px;">» Titusville</a><br><a href="http://www.floridatoday.com/ondemand" style="color:white;font-size:10px;">» Today in brevard</a><br><a href="http://www.floridatoday.com/tribune" style="color:white;font-size:10px;">» Tribune</a><br><a href="http://www.floridatoday.com/videos" style="color:white;font-size:10px;">» Video</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/article?AID=/99999999/NEWS01/90126025&amp;template=mogulus" style="color:white;font-size:10px;">» Video ondemand</a><br><a href="http://www.floridatoday.com/videos" style="color:white;font-size:10px;">» Videos</a><br><a href="http://www.floridatoday.com/sun" style="color:white;font-size:10px;">» Viera</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935" style="color:white;font-size:10px;">» Weather</a><br><a href="http://www.floridatoday.com/watchdog" style="color:white;font-size:10px;">» Watchdog</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=news04" style="color:white;font-size:10px;">» Weather news</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams01" style="color:white;font-size:10px;">» Weather web cam</a><br><a href="http://www.floridatoday.com/webcams" style="color:white;font-size:10px;">» Web cams</a><br><a href="http://deals.floridatoday.com" style="color:white;font-size:10px;">» Weekly deals</a><br><a href="http://www.floridatoday.com/times" style="color:white;font-size:10px;">» West melbourne</a><br><a href="http://www.floridatoday.com/content/jobs/profiles/floridatoday/index.shtml" style="color:white;font-size:10px;">» Work for us</a><br><a href="http://www.floridatoday.com/littleleague" style="color:white;font-size:10px;">» Youth sports</a><br><a href="http://www.floridatoday.com/youthfootball" style="color:white;font-size:10px;">» Youth football</a><br><a href="http://www.floridatoday.com/youthsoccer" style="color:white;font-size:10px;">» Youth soccer</a><br><a href="http://brevard.metromix.com/home/roundup/zap-squad-galleries/712582/content" style="color:white;font-size:10px;">» Zap squad</a><br><a href="http://www.floridatoday.com/webcams" style="color:white;font-size:10px;">» Zoo web cam</a><br></td></tr></tbody></table>
+			<table width="940"><tbody><tr><td valign="top" style="padding:5px;"><a href="http://www.floridatoday.com/archives" class="flaSiteMapLink">» 7-day archive</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0402&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» 7-day forecast</a><br><a href="http://www.floridatoday.com/columnists" class="flaSiteMapLink">» Advice &amp; columnists</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0801&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» Airport delays</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0731" class="flaSiteMapLink">» All-space coast</a><br><a href="http://pqasb.pqarchiver.com/floridatoday" class="flaSiteMapLink">» Archives</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0603&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» Around the u.s.</a><br><a href="http://www.floridatoday.com/section/news31" class="flaSiteMapLink">» Assignment: brevard</a><br><a href="http://www.floridatoday.com/bca" class="flaSiteMapLink">» Bca section</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Barefoot bay</a><br><a href="http://brevard.metromix.com/bars-and-clubs" class="flaSiteMapLink">» Bars &amp; clubs</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Bay bulletin</a><br><a href="http://brevard.metromix.com/home/roundup/beach-pictures/1060856/content" class="flaSiteMapLink">» Beach galleries</a><br><a href="http://www.floridatoday.com/columnists" class="flaSiteMapLink">» Blogs</a><br><a href="http://www.floridatoday.com/breeze" class="flaSiteMapLink">» Breeze</a><br><a href="http://watchlist.flatoday.net" class="flaSiteMapLink">» Brevard watchlist</a><br><a href="http://www.floridatoday.com/news" class="flaSiteMapLink">» Brevard headlines</a><br><a href="http://www.floridatoday.com/section/columnists0313" class="flaSiteMapLink">» Brian mccallum</a><br><a href="http://www.floridatoday.com/business" class="flaSiteMapLink">» Business</a><br><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday" class="flaSiteMapLink">» Classifieds</a><br><a href="http://www.floridatoday.com/communities" class="flaSiteMapLink">» Communities</a><br><a href="http://www.floridatoday.com/content/services/" class="flaSiteMapLink">» Customer service</a><br><a href="http://www.floridatoday.com/press" class="flaSiteMapLink">» Cape canaveral</a><br><a href="http://www.floridatoday.com/content/autos/index.htm" class="flaSiteMapLink">» Cars</a><br><a href="http://www.floridatoday.com/section/news1303" class="flaSiteMapLink">» Class of 2010</a><br><a href="http://www.floridatoday.com/tribune" class="flaSiteMapLink">» Cocoa</a><br><a href="http://www.floridatoday.com/press" class="flaSiteMapLink">» Cocoa beach</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams02" class="flaSiteMapLink">» Cocoa beach web cam</a><br><a href="http://www.floridatoday.com/columnists" class="flaSiteMapLink">» Columnists &amp; blogs</a><br><a href="http://www.floridatoday.com/content/services/contacts/staff.shtml" class="flaSiteMapLink">» Contact us</a><br><a href="http://cramsession.flatoday.net" class="flaSiteMapLink">» Cram session blog</a><br></td><td valign="top"><a href="http://www.floridatoday.com/section/crime" class="flaSiteMapLink">» Crime</a><br><a href="http://www.uclick.com/client/fto/fcx/" class="flaSiteMapLink">» Crossword</a><br><a href="http://www.floridatoday.com/crimedata" class="flaSiteMapLink">» Data center: crime data</a><br><a href="http://www.floridatoday.com/educationdata" class="flaSiteMapLink">» Data center: education data</a><br><a href="http://www.floridatoday.com/politicsdata" class="flaSiteMapLink">» Data center: politics</a><br><a href="http://www.floridatoday.com/realestatedata" class="flaSiteMapLink">» Data center: real estate data</a><br><a href="http://www.floridatoday.com/weatherdata" class="flaSiteMapLink">» Data center: weather data</a><br><a href="http://gannett.eharmony.com/dating/?cid=1039&amp;aid=3310&amp;cmd=registration-profile-opt" class="flaSiteMapLink">» Dating</a><br><a href="http://www.floridatoday.com/education" class="flaSiteMapLink">» Education</a><br><a href="http://www.floridatoday.com/section/news020401" class="flaSiteMapLink">» Essays on innovation</a><br><a href="http://extremeculture.flatoday.net" class="flaSiteMapLink">» Extreme culture</a><br><a href="http://www.floridatoday.com/factbook" class="flaSiteMapLink">» Fact book</a><br><a href="http://fitness.flatoday.net" class="flaSiteMapLink">» Finding fitness blog</a><br><a href="http://flametrench.flatoday.net" class="flaSiteMapLink">» Flame trench blog</a><br><a href="http://www.floridatoday.com/floridanews" class="flaSiteMapLink">» Florida</a><br><a href="http://www.floridatoday.com/section/capitolnews" class="flaSiteMapLink">» Florida capitol news</a><br><a href="http://www.floridatoday.com/content/multimedia/livestream/floridatoday.shtml" class="flaSiteMapLink">» Floridatoday on livestream</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?plckForumPage=ForumCategories&amp;category=PluckForum" class="flaSiteMapLink">» Forums</a><br><a href="http://appsrv.flatoday.net/gs/" class="flaSiteMapLink">» Garage sales</a><br><a href="http://www.floridatoday.com/gas" class="flaSiteMapLink">» Gas prices</a><br><a href="http://www.floridatoday.com/section/sports0404" class="flaSiteMapLink">» Gators</a><br><a href="http://gators.flatoday.net" class="flaSiteMapLink">» Gators sports scene blog</a><br><a href="http://www.floridatoday.com/graduation" class="flaSiteMapLink">» Graduation</a><br><a href="http://www.floridatoday.com/graduation" class="flaSiteMapLink">» Graduation galleries</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Grant-valkaria</a><br><a href="http://deals.floridatoday.com" class="flaSiteMapLink">» Grocery coupons</a><br><a href="http://www.floridatoday.com/" class="flaSiteMapLink">» Home</a><br><a href="http://www.floridatoday.com/health" class="flaSiteMapLink">» Health</a><br><a href="http://www.floridatoday.com/help" class="flaSiteMapLink">» Help!</a><br><a href="http://www.floridatoday.com/help" class="flaSiteMapLink">» Help! column</a><br><a href="http://www.floridatoday.com/highschoolsports" class="flaSiteMapLink">» High school</a><br></td><td valign="top"><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0722" class="flaSiteMapLink">» High school galleries</a><br><a href="http://highschoolsports.flatoday.net" class="flaSiteMapLink">» High schools blog</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=PluckForum&amp;plckForumPage=Forum&amp;plckForumId=Cat%3aadc4d919-840d-4bdc-bac8-3e3151995cf0Forum%3a40478062-40ef-48ef-ba71-e73cf7b879ac" class="flaSiteMapLink">» High schools forum</a><br><a href="http://www.floridatoday.com/heroes" class="flaSiteMapLink">» Hometown heroes</a><br><a href="http://www.floridatoday.com/content/contests/horoscope.shtml" class="flaSiteMapLink">» Horoscope</a><br><a href="http://www.floridatoday.com/content/contests/horoscope.shtml" class="flaSiteMapLink">» Horoscopes</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0401&amp;Zipcode=32935&amp;city=Melbourne&amp;State=FL" class="flaSiteMapLink">» Hour-by-hour</a><br><a href="http://www.floridatoday.com/section/NEWS0401" class="flaSiteMapLink">» Hurricane preparation</a><br><a href="http://www.floridatoday.com/breeze" class="flaSiteMapLink">» Ihb</a><br><a href="http://www.floridatoday.com/section/news0204" class="flaSiteMapLink">» In-depth: the future of nasa</a><br><a href="http://www.floridatoday.com/breeze" class="flaSiteMapLink">» Indialantic</a><br><a href="http://www.floridatoday.com/multimedia" class="flaSiteMapLink">» Interactive graphics</a><br><a href="http://jeffparker.flatoday.net" class="flaSiteMapLink">» Jeff parker toons in</a><br><a href="http://floridatoday.gannettonline.com/careerbuilder/index.html" class="flaSiteMapLink">» Jobs</a><br><a href="http://www.floridatoday.com/life" class="flaSiteMapLink">» Life</a><br><a href="http://spacelaunch.flatoday.net" class="flaSiteMapLink">» Launch schedule</a><br><a href="http://www.floridatoday.com/section/columnists0603" class="flaSiteMapLink">» Lee nessel</a><br><a href="http://legals.flatoday.net/" class="flaSiteMapLink">» Legal ads</a><br><a href="http://www.floridatoday.com/littleleague" class="flaSiteMapLink">» Little league</a><br><a href="http://www.floridatoday.com/business" class="flaSiteMapLink">» Local headlines</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0601&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» Local loop</a><br><a href="http://www.floridatoday.com/content/contests/lottery.shtml" class="flaSiteMapLink">» Lottery</a><br><a href="http://www.floridatoday.com/magic" class="flaSiteMapLink">» Magic</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Malabar</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=columnists0303" class="flaSiteMapLink">» Mark decotis</a><br><a href="http://www.floridatoday.com/times" class="flaSiteMapLink">» Melbourne</a><br><a href="http://www.floridatoday.com/breeze" class="flaSiteMapLink">» Melbourne beach</a><br><a href="http://www.floridatoday.com/times" class="flaSiteMapLink">» Melbourne village</a><br><a href="http://www.floridatoday.com/content/multimedia/mlbradar.shtml" class="flaSiteMapLink">» Melbourne doppler radar</a><br><a href="http://www.flatoday.net/obits/search.htm" class="flaSiteMapLink">» Memoriams</a><br><a href="http://www.floridatoday.com/press" class="flaSiteMapLink">» Merritt island</a><br></td><td valign="top"><a href="http://brevard.metromix.com" class="flaSiteMapLink">» Metromix</a><br><a href="http://brevard.metromix.com/home/roundup/metromix-brevard-the-videos/1749987/content" class="flaSiteMapLink">» Metromix videos</a><br><a href="http://brevard.metromix.com/events" class="flaSiteMapLink">» Metromix: events</a><br><a href="http://brevard.metromix.com/music" class="flaSiteMapLink">» Metromix: music</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Micco</a><br><a href="http://www.floridatoday.com/section/columnists0309" class="flaSiteMapLink">» Mike cherry</a><br><a href="http://www.floridatoday.com/staradvocate" class="flaSiteMapLink">» Mims</a><br><a href="http://brevardcounty.momslikeme.com" class="flaSiteMapLink">» Momslikeme</a><br><a href="http://www.floridatoday.com/motorsports" class="flaSiteMapLink">» Motorsports</a><br><a href="http://motorsports.flatoday.net" class="flaSiteMapLink">» Motorsports blog</a><br><a href="http://brevard.metromix.com/movies" class="flaSiteMapLink">» Movies</a><br><a href="http://www.cozi.com/go/?a=campaign&amp;b=COZI_GANNETT&amp;c=BREVARD&amp;l=/landing/signup.aspx%3flink_loc%3deditpromo%3fmarket%3dBREVARD" class="flaSiteMapLink">» My cozi calendar</a><br><a href="http://www.floridatoday.com/news" class="flaSiteMapLink">» News</a><br><a href="http://content.usatoday.com/dist/custom/gci/topicpage.aspx?cid=floridatoday" class="flaSiteMapLink">» Nation &amp; world</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0603&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» National loop</a><br><a href="http://www.floridatoday.com/notabledeaths" class="flaSiteMapLink">» Notable deaths</a><br><a href="http://www.legacy.com/obituaries/floridatoday/" class="flaSiteMapLink">» Obituaries</a><br><a href="http://www.floridatoday.com/opinion" class="flaSiteMapLink">» Opinion</a><br><a href="http://www.floridatoday.com/section/entertainment12" class="flaSiteMapLink">» On the town</a><br><a href="http://www.floridatoday.com/opinion" class="flaSiteMapLink">» Our views &amp; your views</a><br><a href="http://www.floridatoday.com/outdoors" class="flaSiteMapLink">» Outdoors</a><br><a href="http://www.floridatoday.com/photos" class="flaSiteMapLink">» Photos</a><br><a href="http://pqasb.pqarchiver.com/floridatoday/item.html" class="flaSiteMapLink">» Page prints</a><br><a href="http://www.floridatoday.com/baybulletin" class="flaSiteMapLink">» Palm bay</a><br><a href="http://www.floridatoday.com/sun" class="flaSiteMapLink">» Palm shores</a><br><a href="http://www.floridatoday.com/delivery" class="flaSiteMapLink">» Pay bill</a><br><a href="http://floridatoday.gns.gannettonline.com/apps/pbcs.dll/section?category=TECH" class="flaSiteMapLink">» Personal technology</a><br><a href="http://petproject.flatoday.net" class="flaSiteMapLink">» Pet project</a><br><a href="http://www.floridatoday.com/section/columnists0306" class="flaSiteMapLink">» Peter kerasotis</a><br><a href="http://heypeterk.flatoday.net/" class="flaSiteMapLink">» Peter kerasotis blog</a><br><a href="http://www.floridatoday.com/sun" class="flaSiteMapLink">» Pineda</a><br></td><td valign="top"><a href="http://www.floridatoday.com/ads" class="flaSiteMapLink">» Place an ad</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams03" class="flaSiteMapLink">» Port canaveral web cam</a><br><a href="http://www.floridatoday.com/staradvocate" class="flaSiteMapLink">» Port st john</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?Category=sports0722" class="flaSiteMapLink">» Prep galleries</a><br><a href="http://www.floridatoday.com/press" class="flaSiteMapLink">» Press</a><br><a href="http://www.floridatoday.com/proms" class="flaSiteMapLink">» Prom galleries</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?Category=NEWS14" class="flaSiteMapLink">» Proms</a><br><a href="http://www.floridatoday.com/content/multimedia/mlbradar.shtml" class="flaSiteMapLink">» Radars</a><br><a href="http://floridatoday.gon.gannettonline.com/apps/pbcs.dll/section?category=homes&amp;pub=floridatoday" class="flaSiteMapLink">» Real estate</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER0602&amp;Zipcode=32935&amp;City=Melbourne&amp;State=FL" class="flaSiteMapLink">» Regional loop</a><br><a href="http://www.apartments.com/partner/Community.aspx?Area4=Y&amp;page=SubArea&amp;state=FL&amp;rgn1=15&amp;partner=flatoday&amp;prvpg=3" class="flaSiteMapLink">» Rentals</a><br><a href="http://brevard.metromix.com/restaurants/roundup/restaurant-review-roundup/1229159/content" class="flaSiteMapLink">» Restaurant reviews</a><br><a href="http://brevard.metromix.com/restaurants" class="flaSiteMapLink">» Restaurants</a><br><a href="http://www.floridatoday.com/tribune" class="flaSiteMapLink">» Rockledge</a><br><a href="http://sec.floridatoday.com/" class="flaSiteMapLink">» Sec</a><br><a href="http://www.floridatoday.com/section/sports" class="flaSiteMapLink">» Sports</a><br><a href="http://www.floridatoday.com/breeze" class="flaSiteMapLink">» Satellite beach</a><br><a href="http://www.floridatoday.com/staradvocate" class="flaSiteMapLink">» Scottsmoor</a><br><a href="http://www.legacy.com/obituaries/floridatoday/" class="flaSiteMapLink">» Search obituaries</a><br><a href="http://www.shoplocal.com/floridatoday/new_user_entry.aspx?CityStateZip=32935" class="flaSiteMapLink">» Shopping</a><br><a href="http://www.floridatoday.com/space" class="flaSiteMapLink">» Space</a><br><a href="http://flametrench.flatoday.net" class="flaSiteMapLink">» Space / flame trench blog</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=PluckForum&amp;plckForumPage=Forum&amp;plckForumId=Cat%3acf706468-735d-4846-8357-0f19969ada2aForum%3ab33828cc-5e17-469c-964f-da8426e708b0" class="flaSiteMapLink">» Space chat</a><br><a href="http://www.floridatoday.com/section/news0201" class="flaSiteMapLink">» Space galleries</a><br><a href="http://www.floridatoday.com/space" class="flaSiteMapLink">» Space headlines</a><br><a href="http://www.floridatoday.com/content/multimedia/livestream/floridatoday_space.shtml" class="flaSiteMapLink">» Space on livestream</a><br><a href="http://www.floridatoday.com/content/maps/spacewebcams.shtml" class="flaSiteMapLink">» Space web cams</a><br><a href="http://www.spacesonline.com/" class="flaSiteMapLink">» Spaces</a><br><a href="http://www.floridatoday.com/photos" class="flaSiteMapLink">» Staff galleries</a><br><a href="http://www.floridatoday.com/staradvocate" class="flaSiteMapLink">» Star advocate</a><br><a href="http://www.floridatoday.com/stocks" class="flaSiteMapLink">» Stocks</a><br></td><td valign="top"><a href="http://www.floridatoday.com/content/forms/services/letters.shtml" class="flaSiteMapLink">» Submit a letter to the editor</a><br><a href="http://www.floridatoday.com/newsubscriber" class="flaSiteMapLink">» Subscribe now</a><br><a href="http://www2.uclick.com/client/fto/sudoc" class="flaSiteMapLink">» Sudoku</a><br><a href="http://www2.uclick.com/client/fto/sudoc" class="flaSiteMapLink">» Sudoku &amp; features</a><br><a href="http://www.floridatoday.com/sun" class="flaSiteMapLink">» Sun</a><br><a href="http://www.floridatoday.com/sun" class="flaSiteMapLink">» Suntree</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0103" class="flaSiteMapLink">» Surf web cams</a><br><a href="http://www.floridatoday.com/surfing" class="flaSiteMapLink">» Surfing</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=sports0101" class="flaSiteMapLink">» Surfing galleries</a><br><a href="http://teetimes.floridatoday.com/" class="flaSiteMapLink">» Tee times</a><br><a href="http://www.floridatoday.com/times" class="flaSiteMapLink">» Times</a><br><a href="http://www.floridatoday.com/staradvocate" class="flaSiteMapLink">» Titusville</a><br><a href="http://www.floridatoday.com/section/videonetwork01" class="flaSiteMapLink">» Today in brevard</a><br><a href="http://www.floridatoday.com/section/news1305" class="flaSiteMapLink">» Top scholars 2010</a><br><a href="http://www.floridatoday.com/tribune" class="flaSiteMapLink">» Tribune</a><br><a href="http://www.floridatoday.com/videos" class="flaSiteMapLink">» Video</a><br><a href="http://www.floridatoday.com/section/videonetwork01" class="flaSiteMapLink">» Video ondemand</a><br><a href="http://www.floridatoday.com/crime" class="flaSiteMapLink">» Video: first court appearances</a><br><a href="http://www.floridatoday.com/videos" class="flaSiteMapLink">» Videos</a><br><a href="http://www.floridatoday.com/sun" class="flaSiteMapLink">» Viera</a><br><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935" class="flaSiteMapLink">» Weather</a><br><a href="http://watchlist.flatoday.net" class="flaSiteMapLink">» Watchlist</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=news04" class="flaSiteMapLink">» Weather news</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?category=cams01" class="flaSiteMapLink">» Weather web cam</a><br><a href="http://www.floridatoday.com/webcams" class="flaSiteMapLink">» Web cams</a><br><a href="http://deals.floridatoday.com" class="flaSiteMapLink">» Weekly deals</a><br><a href="http://www.floridatoday.com/times" class="flaSiteMapLink">» West melbourne</a><br><a href="http://www.floridatoday.com/content/jobs/profiles/floridatoday/index.shtml" class="flaSiteMapLink">» Work for us</a><br><a href="http://www.floridatoday.com/apps/pbcs.dll/section?Category=PluckPublicPhotoGalleries" class="flaSiteMapLink">» Your galleries</a><br><a href="http://www.floridatoday.com/section/sports17" class="flaSiteMapLink">» Youth basketball</a><br><a href="http://www.floridatoday.com/littleleague" class="flaSiteMapLink">» Youth sports</a><br></td><td valign="top"><a href="http://www.floridatoday.com/youthfootball" class="flaSiteMapLink">» Youth football</a><br><a href="http://www.floridatoday.com/youthsoccer" class="flaSiteMapLink">» Youth soccer</a><br><a href="http://brevard.metromix.com/bars-and-clubs/photogalleries" class="flaSiteMapLink">» Zap squad</a><br><a href="http://www.floridatoday.com/webcams" class="flaSiteMapLink">» Zoo web cam</a><br></td></tr></tbody></table>
 		</td>
 	</tr>
 	<tr>
@@ -650,8 +733,9 @@ function initMenu(){
 				<a href="http://www.floridatoday.com/autos"><span class="cars"></span></a>
 				<a href="http://floridatoday.gannettonline.com/careerbuilder/index.html"><span class="jobs"></span></a>
 				<a href="http://floridatoday.gon.gannettonline.com/apps/pbcs.dll/section?category=homes&amp;pub=floridatoday"><span class="homes"></span></a>
+<a href="http://www.homegain.com"><span class="homegain"></span></a>
 				<a href="http://www.shoplocal.com/floridatoday/new_user_entry.aspx?CityStateZip=32935"><span class="shopping"></span></a>
-				<a href="http://www.eharmony.com/singles/servlet/registration?cmd=registration-profile-opt&amp;cid=1039&amp;aid=3310"><span class="dating"></span></a>
+				<a href="http://gannett.eharmony.com/dating/?cid=1039&amp;aid=3310&amp;cmd=registration-profile-opt"><span class="dating"></span></a>
 				<a href="http://www.usaweekend.com"><span class="usaweekend"></span></a>
 			</div>
 			<div id="partner-links" class="partner-links">
@@ -661,7 +745,7 @@ function initMenu(){
 					<li><a href="http://www.cars.com">Cars: Cars.com</a></li>
 					<li><a href="http://www.apartments.com">Apartments: Apartments.com</a></li>
 					<li><a href="http://www.shoplocal.com">Shopping: ShopLocal.com</a></li>
-					<li><a href="http://www.homefinder.com">Homes: Homefinder.com</a></li>
+					<li><a href="http://www.homefinder.com">Homes:</a> <a href="http://www.homefinder.com">Homefinder.com</a></li>
 					<li><a href="http://www.eharmony.com">Dating: eHarmony</a></li>
 				</ul>
 			</div>
@@ -670,7 +754,7 @@ function initMenu(){
 </tbody></table>
 <div class="seo-links">
 <ul>
-<li><a href="http://www.floridatoday.com/">HOME</a> | </li><li><a href="http://www.floridatoday.com/news">NEWS</a> | </li><li><a href="http://www.floridatoday.com/communities">COMMUNITIES</a> | </li><li><a href="http://www.floridatoday.com/section/sports">SPORTS</a> | </li><li><a href="http://www.floridatoday.com/videos">VIDEO</a> | </li><li><a href="http://www.floridatoday.com/life">LIFE</a> | </li><li><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935">WEATHER</a> | </li><li><a href="http://www.floridatoday.com/opinion">OPINION</a> | </li><li><a href="http://www.legacy.com/obituaries/floridatoday/">OBITUARIES</a> | </li><li><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday">CLASSIFIEDS</a> | </li><li><a href="/content/services/">CUSTOMER SERVICE</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
+<li><a href="http://www.floridatoday.com/">HOME</a> | </li><li><a href="http://www.floridatoday.com/news">NEWS</a> | </li><li><a href="http://www.floridatoday.com/communities">COMMUNITIES</a> | </li><li><a href="http://www.floridatoday.com/section/sports">SPORTS</a> | </li><li><a href="http://www.floridatoday.com/videos">VIDEO</a> | </li><li><a href="http://www.floridatoday.com/life">LIFE</a> | </li><li><a href="http://floridatoday.weather.gannettonline.com/apps/pbcs.dll/section?Category=WEATHER01&amp;zipcode=32935">WEATHER</a> | </li><li><a href="http://www.floridatoday.com/opinion">OPINION</a> | </li><li><a href="http://www.legacy.com/obituaries/floridatoday/">OBITUARIES</a> | </li><li><a href="http://classifieds.flatoday.com/osform/MVCCService?osform_template=/flatoday/branding/front.htm&amp;publication=flatoday">CLASSIFIEDS</a> | </li><li><a href="/content/services/">CUSTOMER SERVICE</a> | </li><li><a href="http://www.floridatoday.com/photos">PHOTOS</a> | </li><li><a href="/section/sitemapHTML">Site Map</a></li></ul></div>
 <div id="legal" class="legal">
 	<ul>
 		<li><a href="/section/TERMS">Terms of Service</a> |</li>
@@ -687,6 +771,7 @@ function initMenu(){
 </div>
 <!-- macro name="ad_rotate_test" --> 
 <!-- div class="clear"></div -->
+<!--MBox macro -->
 <!--Site Catalyst macro -->
 <!--Sitecatalyst Macro Settings -->
 <script type="text/javascript"> 
@@ -798,6 +883,26 @@ function initMenu(){
 <noscript> 
  <img src="http://gpaper114.112.2O7.net/b/ss/gpaper114,gntbcstglobal/1/H.3--NS/0"	height="1" width="1" border="0" alt="" />
 </noscript> 
+<!--Semantics Agency Trading Desk-->
+<div id="adsdaq"></div>
+<script type="text/javascript">
+(function(){
+	GEL.thepage.initializer.addInitRoutine({ 
+		name: "ADSDAQ",
+		namespace: "remoting",
+		callback: function (){ 
+			var 
+				_jscntr= GEL.ement("adsdaq"), 
+				_u= "http://atd.agencytradingdesk.net/WatsonTracker/IMP/A1000138/C1000187/P1003016/cw.jsx?t=1"
+			;
+			_jscntr.setContentUrl(_u, 'script');
+			_jscntr.updateRemoteContent(); 
+			return; 
+		}, 
+		priority: 250
+	});
+})()	
+</script>
 <script type="text/javascript">
 setTimeout(function(){ GEL.thepage.initializer.init();}, 100); 
 </script> 
