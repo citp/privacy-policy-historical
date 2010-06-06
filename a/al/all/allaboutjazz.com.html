@@ -1,33 +1,49 @@
-<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2009-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091221123724id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the allaboutjazz.com privacy policy that was archived on 2010-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100606153242id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.-->
 
-<html><head>
-<title>Jazz - AllAboutJazz.com</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" dir="ltr" lang="en-US"><head>
+<title>All About Jazz Privacy Policy</title>
+
+
 <meta name="home" content="Jazz">
 <meta name="robots" content="all">
-<meta name="Description" content="Jazz - AllAboutJazz.com | The web's premier resource for jazz">
+<meta name="Description" content="Jazz reviews, interviews, news, forums, videos, downloads, photos, clubs, calendar and much more.">
 <meta name="abstract" content="Jazz's premier website since 1995">
-<meta name="keywords" content="jazz, jazz clubs, jazz music, jazz festivals, jazz art, jazz tickets, jazz history, jazz reviews, jazz videos, Louis Armstrong, Jimmy Jazz, free jazz downloads, Duke Ellington, Miles Davis, Wynton Marsalis, Pat Metheny">
+<meta name="keywords" content="jazz, jazz downloads, jazz clubs, jazz music, jazz festivals, jazz photos, jazz tickets, jazz history, jazz reviews, jazz videos">
 <meta name="revist-after" content="7 days">
-<meta name="author" content="All About Jazz">
-<meta name="copyright" content="All About Jazz">
+<meta name="author" content="Michael Ricci and Michael Lorenz">
+<meta name="copyright" content="Vision X Software">
 <meta name="verify-v1" content="vdVYRrD6+14xwXQ4frtYjD5bryEjWeWmwq1+zhGFdQE=">
-<meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><link href="/logo/jazz2.ico" rel="shortcut icon">
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!--- <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-2" />  --->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"> 
+<link href="/logo/jazz2.ico" rel="shortcut icon">
 
 <style type="text/css" media="screen"> 
           @import url(http://www.allaboutjazz.com/style_msl.css);
 		  
+tr.aaj_cal_b { background-color: #e5eaf0; }
+tr.aaj_cal_w { background-color: #ffffff; }
+th.aaj_cal_l { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: left; vertical-align: top; font-weight: bold; }
+th.aaj_cal_r { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: right; vertical-align: top; font-weight: bold; }
+th.aaj_cal_c { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: center; vertical-align: top; font-weight: bold; }
+td.aaj_cal_l { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: left; vertical-align: top; }
+td.aaj_cal_r { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: right; vertical-align: top; }
+td.aaj_cal_c { font-family: verdana,helvetica,arial; font-size: 8pt; text-align: center; vertical-align: top; }					  
+		  
 a:link              { color: #50707D; text-decoration: none;}
 a:visited           { color: #50707D; text-decoration: none;}
 a:hover             { color: #462282; text-decoration: underline;}		
-		  
-</style>
 
-<style type="text/css">
-<? if ($css) echo "$css\n"; ?>
+a.aajcat    {font-weight: bold}
+td.aajdate  {background-color: #FFFFFF; font-size: 8pt; text-align: center}
+td.aajcat   {background-color: #FFFFFF; font-size: 8pt; text-align: center}
+td.aaj      {background-color: #FFFFFF; font-size: 8pt}
+td.aajlast  {background-color: #FFFFFF; font-size: 8pt; padding-top: 18px}
+h1          {font-family: verdana; font-size: 10pt; font-color: #50707D; font-weight: normal; font-weight: bold; letter-spacing: 1px}
+body        {font-family: verdana; font-size: 8pt}
+a:link      {color: #50707D}
+a:visited   {color: #50707D}
+a:hover     {color: #20404D; text-decoration: underline}
+		  
 </style>
 
 <script language="JavaScript">
@@ -40,80 +56,77 @@ var ord = axel * 1000000000000000000;
 // This part of script alleviates a Netscape document.write bug
 NS4 = document.layers;
 if (NS4) {
-origWidth = innerWidth;
-origHeight = innerHeight;
+origwidth = innerwidth;
+origheight = innerheight;
 }
 function reDo() {
-if (innerWidth != origWidth || innerHeight != origHeight) 
+if (innerwidth != origwidth || innerheight != origheight) 
 location.reload();
 }
 if (NS4) onresize = reDo;
 
+function getCookie(Name) {
+    var search = Name + "=";
+    var returnvalue = "";
+    if (document.cookie.length > 0) {
+        offset = document.cookie.indexOf(search);
+        if (offset != -1) {
+            offset += search.length;
+            end = document.cookie.indexOf(";", offset);
+            if (end == -1)
+                end = document.cookie.length;
+            returnvalue=unescape(document.cookie.substring(offset, end))
+        }
+    }
+    return returnvalue;
+}
+
+function setCookie(name, value, days) {
+    var dt = new Date();
+    dt.SetTime(dt.GetTime() + (1000*60*60*24*days));
+    document.cookie = escape(name) + "=" + escape(value) + "; path=/; expires=" + dt.toGMTString() + ";";
+}
+
+function delCookie(name) {
+    document.cookie = escape(name) + "=; path=/; expires=Thu, 01-Jan-70 00:00:01 GMT;";
+}
+
+function writeTopLinks() {
+    var uid = getCookie('person_uid');
+    if (uid == '') {
+        document.write("(NO UID)");
+    } else {
+        document.write("(" + uid + ")");
+    }
+}
+
+function logout() {
+    delCookie("person_uid");
+    window.location.reload();
+}
+
 // -->
-
-</script>
-
-<script language="Javascript">
-function SubmitLogin()
-{
-  var temp;
-  document.loginform.JavaScript.value="JScript1.0";
-
-  if (navigator.userAgent.indexOf("Mozilla/4.0") != -1)
-  {
-   document.loginform.JavaScript.value="JavaScript1.2";
-  }
-  else if (navigator.userAgent.indexOf("Mozilla/3.0") != -1)
-  {
-   document.loginform.JavaScript.value="JavaScript1.1";
-  }
-  else if (navigator.userAgent.indexOf("MSIE") != -1)
-  {
-   document.loginform.JavaScript.value="JScript1.0";
-  }
-  else if (navigator.userAgent.indexOf("Mozilla/2.0") != -1)
-  {
-   document.loginform.JavaScript.value="JavaScript1.0";
-  }
-  else if (navigator.userAgent.indexOf("Opera") != -1)
-  {
-   document.loginform.JavaScript.value="JavaScript1.2";
-  }
-}
-</script>
-
-<script language="JavaScript">
-
-<!--    
-// -->
-<!-- Begin
-
-function popup(url) {
-    mywin = window.open(url,'popupWin','width=500,height=373,scrollbars=no,resizable=no');
-    mywin.focus();
-}
-
-function checkAll(field)
-{
-  for (i = 0; i < field.length; i++)
-    field[i].checked = true;
-}
-
-//  End -->
-
 </script>
 
 <script type="text/javascript" language="JavaScript">
-	<!-- 
-	function jump(fe){
-		var opt_key = fe.selectedIndex;
-		var uri_val = fe.options[opt_key].value;
-		window.open(uri_val,'_blank');
-		return true;
- 	}
- 	//-->
- </script>
- 
+    <!-- 
+    function jump(fe){
+        var opt_key = fe.selectedIndex;
+        var uri_val = fe.options[opt_key].value;
+        window.open(uri_val,'_self');
+        return true;
+    }
+    //-->
+</script>
+
+<!-- Start Quantcast tag -->
+<script type="text/javascript" src="http://quantserve.com/quant.js"></script>
+<script type="text/javascript">
+_qacct="p-91s5la8d2Pp-g";quantserve();</script>
+<noscript>
+<img src="http://quantserve.com/pixel/p-91s5la8d2Pp-g.gif" style="display: none" height="1" width="1" alt="Quantcast"/></noscript>
+<!-- End Quantcast tag -->
+
 <script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
 <script type="text/javascript">
   GS_googleAddAdSenseService("ca-pub-7212609363493973");
@@ -136,153 +149,454 @@ function checkAll(field)
 </head>
 
 <!--- BODY --->
-<body background="/php/pretty/bg.gif" bgcolor="#FFFFFF" text="#000000" link="#50707D" vlink="#50707D">
-	
+<body bgcolor="#FFFFFF" text="#000000" link="#28415C" vlink="#28415C">
+
+
+
+
+
+<!-- TOP -->
+
 <center>
 
-<br>
+<div style="background: #28415C; width: 100%; border-color: #28415C; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
 
-<div style="background: white; width: 990px; border: 2px #28415C solid; padding-bottom: 0px;">
-
-<table cellpadding="0" bgcolor="#ffffff" cellspacing="0" border="0" width="990" align="center">
-
-<!--- Begin Row 1 --->
+<table cellpadding="0" bgcolor="#ffffff" cellspacing="0" border="0" width="990">
 
 <tbody><tr>
-<td bgcolor="#11344A">
+<td bgcolor="#28415c">
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td><a href="http://www.allaboutjazz.com">
-<img src="/php/pretty/jazz2.gif" width="230" height="90" border="0"></a></td>
-<td align="RIGHT">
-
-<script type="text/javascript">
-  GA_googleFillSlot("Leaderboard_Top");
-</script>
-
-
+<td><img src="/php/pretty/spacer2.gif" width="4" height="24" border="0"></td>
+<td align="left"> <span class="home_box_text"><font color="#FFC462"><strong><a href="/php/news_ticker.php" style="text-decoration: none; color: #FFC462" onmouseover="this.style.color='#efefff'" onmouseout="this.style.color='#FFC462'">NEWS</a> </strong><font color="#efefff">|</font> 
+  <script type="text/javascript" src="/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="/jquery/1.3.2/jquery.elementReady.js"></script>
+<link rel="stylesheet" type="text/css" href="/css/glider.css">
+	<script type="text/javascript" src="/js/glider.js"></script>
+	<script type="text/javascript">
+		featuredcontentglider.init({
+			gliderid: "news_ticker", //ID of main glider container
+			contentclass: "glidecontent", //Shared CSS class name of each glider content
+			togglerid: "p-select", //ID of toggler container
+			remotecontent: "", //Get gliding contents from external file on server? "filename" or "" to disable
+			selected: 1, //Default selected content index (0=1st)
+			persiststate: false, //Remember last content shown within browser session (true/false)?
+			speed: 500, //Glide animation duration (in milliseconds)
+			direction: "downup", //set direction of glide: "updown", "downup", "leftright", or "rightleft"
+			autorotate: true, //Auto rotate contents (true/false)?
+			autorotateconfig: [3000, 30] //if auto rotate enabled, set [milliseconds_btw_rotations, cycles_before_stopping]
+		})
+	</script>
+	
+	<div id="news_ticker" class="glidecontentwrapper">
+<div class="glidecontentdefault">
+			<span class="navbar2_text">
+				<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=57451">Ornette Coleman Receives Honorary Doctorate of Music from...</a>			
+			</span>		
+		</div>		
+			<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=57451">Ornette Coleman Receives Honorary Doctorate of Music from...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=57277">Bitches Brew 40th Anniversary Release Part of Miles Davis...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=57278">Jazz Arts Group of Columbus Awarded 2010-2011 NAMM...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56971">The Pew Center for Arts &amp; Heritage Announces 2010...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56887">NYC Summer Jazz Workshops, Presented by New York Jazz...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56962">Bassists Take Center Stage in Nashville Flood Relief</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56885">Summer 2010: Jazzmobile Heads Back to the Streets of New...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56799">Enter the  Motema "Gregory Porter - Water" Giveaway Contest</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56712">Attention: Publicists! Place Your AAJ Coverage Widget on...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=55570">Harmony in Harlem Jazz Fellowship for Non-Jazz Educators </a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56625">Chick Corea, Eddie Gomez and Paul Motian Explore Bill Evans...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56506">The TD Ottawa International Jazz Festival Turns 30!</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=54949">Order "Icons Among Us" (DVD) at shop.allaboutjazz.com!</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56236">Limited Time Grover Washington Jr. Free Download Now...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=56217">Enter the Summit Records "RIYEL" Giveaway!</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=54678">All About Jazz Teams with JAZZRADIO.com: Access 24 Radio...</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=54288">Advertiser? Bookmark the AAJ Advertiser Start Page</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=52126">Follow All About Jazz on Twitter - Expanded Tweets</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=50464">Keys to a Successful Showcase Campaign at All About Jazz</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=48043">Develop Your AllAboutJazz.com Advertising Strategy for 2010</a>			
+				</span>		
+			</div>
+					<div class="glidecontent" style="top: 15px; height: 15px; visibility: visible;">
+				<span class="navbar2_text">
+					<a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news.php?id=16861">MY AAJ Member Benefits - Sign up Today!</a>			
+				</span>		
+			</div>
+			</div>
+	
+		<div id="p-select" class="glidecontenttoggler" style="display: block; opacity: 0.844557;">
+	<a href="#" class="prev" buttontype="previous">Prev</a>
+	<a href="#" class="toc" pagenumber="0pg">Page 1</a> <a href="#" class="toc" pagenumber="1pg">Page 2</a> <a href="#" class="toc" pagenumber="2pg">Page 3</a>
+	<a href="#" class="next">Next</a>
+	</div>
+</font></span></td>
+<td align="right">
+<table cellpadding="2&quot;" border="0">
+<tbody><tr>
+<td width="14"><a href="http://twitter.com/AllAboutJazz" target="_blank"><img src="/Twitter-14x14.gif" width="14" height="14" border="0" alt="" title="Visit All About Jazz at Twitter"></a></td> 
+<td width="14"><a href="http://digjazz.blogspot.com" target="_blank"><img src="/blog14x14.gif" width="14" height="14" border="0" alt="" title="Visit the All About Jazz news blog"></a></td>  
+<td width="14"><a href="http://www.facebook.com/home.php#/group.php?gid=7408864935&amp;ref=ts" target="_blank"><img src="/Facebook-14x14.gif" width="14" height="14" border="0" alt="" title="Visit All About Jazz at Facebook"></a></td> 
+<td width="14"><a href="/php/live/index.php"><img src="/widget_icon14x14.gif" width="14" height="14" border="0" alt="" title="Use the All About Jazz content widgets on your website or blog"></a></td> 
+<td width="14"><a href="/php/live/rss.php"><img src="/datafeed.gif" width="14" height="14" border="0" alt="" title="Subscribe to the All About Jazz RSS feeds"></a></td>
+<td width="14"><a href="/php/news.php?id=31847"><img src="/mobile14x16.gif" width="14" height="16" border="0" alt="" title="Access AAJ from your mobile phone!"></a></td>
+<td><!-- include("/data/websites/allaboutjazz.com/www/html/php/shop_rotation.php") --></td>
+</tr>
+</tbody></table>
 </td>
+<td><img src="/php/pretty/spacer2.gif" width="4" height="0" border="0"></td>
 </tr>
 </tbody></table>
 </td>
 </tr>
+</tbody></table>
+
+</div>
 
 <!--- Begin Row 2 --->
 
-<tr>
-<td bgcolor="#28415C">
+<div style="background: #11344a; width: 100%; text-align:center; border-color: #11344a; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<table cellpadding="0" bgcolor="#ffffff" cellspacing="0" border="0" width="990" align="center">
+
 <tbody><tr>
-<td><img src="/php/pretty/spacer2.gif" width="12" height="0" border="0"></td>
-<td>
-<table cellpadding="0" cellspacing="0" border="0">
+<td bgcolor="#11344a">
+<table cellpadding="8" cellspacing="0" border="0" width="100%">
 <tbody><tr>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="http://www.allaboutjazz.com">HOME</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/news_center.php">NEWS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/review_center.php">REVIEWS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/article_center.php">ARTICLES</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="http://musicians.allaboutjazz.com">MUSICIANS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/calendar/calendar.php">SHOWS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="CENTER"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/php/guide_center.php">GUIDES</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="http://www.allaboutjazz.com/php/gallery2/main.php">PHOTOS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="http://forums.allaboutjazz.com">FORUMS</a></strong></font></td>
-<td valign="bottom" align="center"><img src="/php/pretty/sep2.gif" width="22" height="30" border="0"></td>
-<td align="center"><font size="2" face="helvetica,verdana,arial"><strong><a style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#EFEFFF'" onmouseout="this.style.color='#C4D1DF'" href="/jazzradio.php">RADIO</a></strong></font></td>
-<td align="right"> <!--- <a href=http://www.spinner.com/category/jazz/ target=_blank><img src=/aol_icon.gif width=90 height=26 border=0></a> ---> </td>
+<td align="left" width="230"><a href="http://www.allaboutjazz.com"><img src="/images/big_banner.jpg" width="230" height="90" border="0" alt="Return to home page" title="Return to home page"></a></td>
+
+<td align="right">
+<script type="text/javascript">
+  GA_googleFillSlot("Leaderboard_Top");
+</script>
+</td>
 </tr>
 </tbody></table>
 </td>
-<td align_right=""></td>
 </tr>
+
 </tbody></table>
 
-</td>
-</tr>
+</div>
 
 <!--- Begin Row 3 --->
 
-<tr>
-<td bgcolor="#869FB6">
+<div style="background: #28415C; width: 100%; text-align:center; border-color: #28415C; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
 
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
+<table cellpadding="0" bgcolor="#ffffff" cellspacing="0" border="0" width="990" align="center">
+
 <tbody><tr>
-<td><img src="/php/pretty/spacer3.gif" width="20" height="0" border="0"></td>
-<td align="CENTER"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/article.php?id=298">Welcome</a></strong></font></td>
-<td valign="bottom"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="CENTER"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/jazzdownloads.php">Daily MP3s</a></strong></font></td>
-<td valign="BOTTOM"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="CENTER"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/jazzvideos.php">Videos</a></strong></font></td>
-<td valign="BOTTOM"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="center"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/jazzpodcasts.php">Podcast</a></strong></font></td>
-<td valign="BOTTOM"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="CENTER"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/album_center.php">Upcoming Releases</a></strong></font></td>
-<td valign="BOTTOM"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="center"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#ffffff'" href="/php/future_articles.php">Editorial Calendar</a></strong></font></td>
-<td valign="BOTTOM"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="CENTER"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#FFFFFF'" href="/php/news.php?id=31847">Mobile</a></strong></font></td>
-<td valign="bottom"><img src="/php/pretty/uparrow.gif" width="17" height="22" border="0"></td>
-<td align="center"><font size="1" face="verdana,arial"><strong><a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#ffffff'" href="/php/contest_giveaways.php">Contests</a></strong></font></td>
-<td><img src="/php/pretty/spacer3.gif" width="220" height="0" border="0"></td>
-<td align="center"> <!--- <img src=/puzzle_piece.gif border=0 width=16 height=16 valign=middle> <font size=2 face=helvetica,verdana,arial><strong><a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#C4D1DF'" onmouseout="this.style.color='#ffffff'" href=/php/article.php?id=29379>Help Wanted</A></strong> ---> </td>
-<td> &nbsp; </td>
-</tr>
-</tbody></table>
+<td align="left">
 
-</td>
-</tr>
+<div style="width:990px;" "height:12px;"="">
 
-<!--- Begin Row 4 --->
+        <div style="width:990px;background-color:#28415c">
+            <table cellpadding="2" cellspacing="0" border="0" width="990">
+            <tbody><tr>
+            <td width="4"><img src="/php/pretty/spacer2.gif" width="1" height="28" border="0"> </td>
+            <td valign="center">
+			
+<span class="home_box_text">
+<strong>
+<font color="#efefff">
+<a href="/php/login.php" style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#efefff'" onmouseout="this.style.color='#C4D1DF'">Sign In</a> &nbsp; | &nbsp; <a href="/php/signup.php" style="text-decoration: none; color: #C4D1DF" onmouseover="this.style.color='#efefff'" onmouseout="this.style.color='#C4D1DF'">I'm New Here</a>
+</font>
+</strong>
+</span>		
 
-<tr>
-<td bgcolor="#C4D1DF" style="padding:5px">
-<!--- GOOGLE SEARCH --->
-<table cellpadding="0" cellspacing="0" border="0" width="100%">
-<tbody><tr>
-<td><img src="/php/pretty/spacer4.gif" width="1" height="0" border="0"></td>
-<td colspan="4" width="200"><!-- Google CSE Search Box Begins  -->
-<form action="http://www.allaboutjazz.com/googlesearch.php" id="searchbox_005595936876858408448:hfhqnzuknl8">
-  <input type="hidden" name="cx" value="005595936876858408448:hfhqnzuknl8">
-  <input type="hidden" name="cof" value="FORID:11">
-  <input type="text" name="q" size="24">
-  <input type="submit" name="sa" value="Search">
-</form>
-<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005595936876858408448%3Ahfhqnzuknl8&amp;lang=en"></script>
-<!-- Google CSE Search Box Ends -->
-</td>
-<td align="right"><strong><font size="1" face="verdana,arial" color="#263F5A"><strong><a href="/php/advertising/index.php" style="text-decoration: none; color: #263F5A" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#263F5A'">Advertise</a> &nbsp; | &nbsp; <a href="/php/contributor_center.php" style="text-decoration: none; color: #263F5A" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#263F5A'">Staff</a>  &nbsp; | &nbsp; <a href="/php/article.php?id=24771" style="text-decoration: none; color: #263F5A" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#263F5A'">AAJ Pro</a>  &nbsp; | &nbsp; <a href="/php/contactus.php" style="text-decoration: none; color: #263F5A" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#263F5A'">Contact Us</a></strong> &nbsp;  </font></strong></td> 
-<td><img src="/php/pretty/spacer4.gif" width="1" height="0" border="0"></td>
-</tr>
-</tbody></table>
+			</td><td align="right" valign="center"><!-- Google CSE Search Box Begins  --> 
+            <form action="http://www.allaboutjazz.com/googlesearch.php" id="searchbox_005595936876858408448:hfhqnzuknl8">
+                <input type="hidden" name="cx" value="005595936876858408448:hfhqnzuknl8">
+                <input type="hidden" name="cof" value="FORID:11">
+                <input type="text" name="q" size="22">
+			</form></td>
+			<td align="right" valign="center" width="60">	
+                <input type="IMAGE" name="sa" src="/search2010.gif">
+            
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005595936876858408448%3Ahfhqnzuknl8&amp;lang=en"></script>
+            <!-- Google CSE Search Box Ends -->
+			</td>
 
-</td>
-</tr>
+            </tr>
+            </tbody></table>
+        </div>
+	
+
+</div></td></tr>
+
+
+
 
 </tbody></table>
+
+</div>
+
+<div style="background: #11344a; width: 100%; text-align:center; border-color: #11344a; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
+
+<table cellpadding="0" bgcolor="#11344a" cellspacing="0" border="0" width="100%" align="center">
+
+<tbody><tr><td align="center" width="100%">
+
+<div class="navbar">
+<ul class="nav">
+<li><a href="#">ARTICLES</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/review_center.php">CD Reviews</a></li>
+		<li><a href="/php/article_center.php">Articles</a></li>
+		<li><a href="/php/article_center.php?in_type=32">Interviews</a></li>
+		<li><a href="/php/coverstories.php">Featured Stories</a></li>
+		<li><a href="/php/article_center.php?in_type=19">Live Reviews</a></li>
+		<li><a href="/php/article_readcount_current.php?article_type=101">Top Read Articles</a></li>
+		<li><a href="/php/article_recommended_current.php?article_type=101">Top Recommended Articles</a></li>										
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">AUDIO &amp; VIDEO</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/jazzdownloads.php">Free Daily MP3</a></li>
+		<li><a href="http://www.allaboutjazz.com/php/listeningparty.php">Weekly Listening Party</a></li>
+		<li><a href="/php/jazzvideos.php">Daily Video</a></li>
+		<li><a href="/php/jazzpodcasts.php">Jazz Session Podcast</a></li>		
+		<li><a href="/php/jazzvideoguy_videos.php">Jazz Video Guy Videos</a></li>			
+		<li><a href="/php/jazzradio.php">Radio Channels</a>	</li>			
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">CALENDAR</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/calendar/calendar.php">Concerts &amp; Festivals</a></li>
+		<li><a href="/php/event_edit.php">Submit a Show/Event</a></li>		
+		<li><a href="/php/calendar/calendar.php?advanced=1">Search for a Show</a></li>			
+		<li><a href="/php/album_center.php">Upcoming CD Releases</a></li>
+		<li><a href="/php/future_articles.php">AAJ Editorial Calendar</a></li>	
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">FORUMS</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="http://forums.allaboutjazz.com/">Forum Home</a></li>
+		<li><a href="http://forums.allaboutjazz.com/register.php">Register</a></li>
+		<li><a href="http://forums.allaboutjazz.com/search.php?do=getdaily">Recent Posts</a></li>	
+		<li><a href="http://forums.allaboutjazz.com/search.php">Search</a></li>			
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">GUIDES</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/jazzguides.php?type=2">Associations</a></li>		
+		<li><a href="/php/jazzguides.php?type=7">Clubs / Venues</a></li>	
+		<li><a href="/php/jazzguides.php?type=11">Festivals / Cruises</a></li>
+		<li><a href="/php/jazzguides.php?type=9">Management &amp; Booking</a></li>			
+		<li><a href="/php/jazzguides.php?type=5">Publicity Firms</a></li>	
+		<li><a href="/php/jazzguides.php?type=4">Radio Stations</a></li>
+		<li><a href="/php/jazzguides.php?type=6">Record Labels</a></li>	
+		<li><a href="/php/jazzguides.php?type=13">Record Stores</a></li>
+		<li><a href="/php/jazzguides.php?type=12">Schools</a></li>
+		<li><a href="/php/guide_center.php">More Directories</a></li>					
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">NEWS</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/news_center.php">Today's News</a></li>	
+		<li><a href="/php/localnews.php">Local News</a></li>
+		<li><a href="/php/news_readcount_current.php">Top Read News</a></li>	
+		<li><a href="/php/recommended_recent.php">Top Recommended News</a></li>
+		<li><a href="/php/news_ticker.php">News Ticker</a></li>	
+		<li><a href="http://www.allaboutjazz.com/cgi/news.pl">Submit News</a></li>
+		<li><a href="/php/news_center.php?in_ntype=13">AAJ News</a></li>		
+		<li><a href="/php/news.php?id=41157">AAJ Syndication Service</a></li>
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">PEOPLE</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/musician_center.php">Musicians</a></li>	
+		<li><a href="/php/music_teachers.php">Music Teachers</a></li>
+		<li><a href="/php/contributor_center.php">AAJ Staff</a></li>
+		<li><a href="/php/person_center.php">AAJ Members</a></li>
+		<li><a href="/php/jazzguides.php?type=20">Jazz Bloggers</a></li>
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">PHOTOS</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/gallery.php">View All Photos</a></li>	
+		<li><a href="/php/gallery.php?pop=1">View Popular Photos</a></li>
+		<li><a href="/php/gallery_edit.php">Manage Your Photos</a></li>	
+		<li><a href="/php/gallery_upload.php">Upload Your Photos</a></li>
+        				
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">RADIO</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/jazzradio.php">All Channels</a> (24)</li>	
+		<li><img src="/line.gif" width="180" height="1" border="0"></li>
+		<li><a href="http://www.jazzexcursion.com" target="_blank">Jazz Excursion</a></li>
+		<li><a href="http://www.dinnerjazzexcursion.com" target="_blank">Dinner Jazz Excursion</a></li>
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">SHOP</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="http://shop.allaboutjazz.com">Store Home</a></li>	
+		<li><a href="https://shop.allaboutjazz.com/prodinfo.asp?number=VAR292D">Icons Among Us (DVD)</a></li>		
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=19&amp;deptname=On%20Sale">On Sale</a></li>
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=16&amp;deptname=Recent%20Releases">Recent Reissues</a></li>	
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=18&amp;deptname=DVD">DVDs</a></li>
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=160&amp;deptname=Bargain%20Bin">Bargain Bin</a></li>	
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=17&amp;deptname=Last%20Chance">Last Chance</a></li>
+		<li><a href="https://shop.allaboutjazz.com/products.asp?dept=31&amp;deptname=Box%20Sets">Box Sets</a></li>
+		<li><a href="http://www.shareasale.com/r.cfm?b=129549&amp;u=357587&amp;m=17923&amp;urllink=&amp;afftrack= style=">HDTracks</a> [Downloads Only]</li>		
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">CONTACT</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/php/article.php?id=298">Welcome to AAJ</a></li>	
+		<li><a href="/php/contactus.php">Contact Us</a></li>
+		<li><a href="/php/article.php?id=29379">Help Wanted</a></li>	
+		<li><a href="/php/submit_suggestion.php">Have a Suggestion?</a></li>
+		<li><a href="/php/faq.php">Tech Support FAQ</a></li>
+		<li><a href="/php/tech_support.php">Report a Bug</a></li>	
+		<li><a href="/php/swap_links.php">Swap Links with AAJ</a></li>
+		<li><a href="/php/lectures/">Speakers Bureau</a></li>		
+	</ul>
+  </div></div>
+</li>
+<li> &nbsp; &nbsp; </li>
+<li><a href="#">ADVERTISE</a>
+  <div class="sub"><div>
+	<ul>
+		<li><a href="/jazz/advertising_start.php">Advertiser Start Page</a></li>	
+		<li><a href="/php/advertising/index.php">Options &amp; Rates</a></li>	
+		<li><a href="/php/advertising/index.php">Banner Options</a></li>
+		<li><a href="/php/listeningparty.php">Listening Party</a></li>
+		<li><a href="/promo/index.php">New Release Showcase</a></li>	
+		<li><a href="/php/advertising/announcement.php">Email Announcements</a></li>			
+		<li><a href="/php/advertising/about.php">First Timer?</a></li>
+	</ul>
+  </div></div>
+</li>
+</ul>
+</div>
+	
+</td></tr>
+
+</tbody></table>
+
+</div>
  
-<table cellpadding="0" cellspacing="0" border="0" width="990" align="CENTER" bgcolor="#FFFFFF">
+<table cellpadding="3" cellspacing="0" border="0" width="990" align="center" bgcolor="#ffffff">
 
 <tbody><tr>
-<!-- MAIN TABLE -->
-</tr></tbody></table><table border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-<tbody><tr>
+ <!-- LEFT COLUMN --->
+  <td valign="top" align="left" width="170" bgcolor="#ffffff">
+  
+  <br>
 
-<!-- LEFT (TOP PORTION) -->
-
-<td valign="TOP" align="CENTER" width="170" bgcolor="#222E35">
-<br>
-<div style="background: #C4D1DF; width: 160; text-align:center; border-style: solid; border-width: 2pt; border-bottom-width: 2pt; border-color: #28415C; padding-bottom: 14px;">
-<div style="background: #28415C; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: white;">
-<a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="/php/calendar/calendar.php">JAZZ NEAR YOU</a>
-</div>	
+   <div style="background: #ffffff; width: 160; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #c4d1df; padding-bottom: 14px;">
+    <div style="background: #c4d1df; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+     <a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#333333'" href="/php/calendar/calendar.php">JAZZ NEAR YOU</a>
+    </div>	
 <br>
 <center>
 <script type="text/javascript">
@@ -290,14 +604,14 @@ function checkAll(field)
 </script>
 </center>
 <br>
-     <font size="1" face="verdana,arial">
+      <span class="home_box_text">
      <form name="jumpto" method="get"><select name="url" onchange="return jump(this);" size="1">
      <option value="/index.php">What's near you?</option>
-     <option value="/php/entity_search.php?t=2">Associations</option>	 	 
+     <option value="/php/entity_search.php?t=2">Associations</option>		 
      <option value="/php/calendar/calendar.php">Calendar of Events</option>
      <option value="/php/musician_finder.php">Musicians</option>	 
      <option value="/php/music_teachers.php">Music Teachers</option>
-     <option value="/php/localnews.php">News</option>
+     <option value="/php/localnews.php">News</option>	 
      <option value="/php/entity_search.php?t=4">Radio Stations</option>	 
      <option value="/php/entity_search.php?t=13">Record Stores</option>
      <option value="/php/entity_search.php?t=12">Schools</option>	 	 
@@ -305,80 +619,126 @@ function checkAll(field)
      <option value="/php/entity_search.php?t=7">Venues/Clubs</option>	 
      </select>
      </form>
-	 </font>
+	 </span>
+
 </div>
 
 <br>
-
-<div style="background: #C4D1DF; width: 160; text-align:center; border-style: solid; border-width: 2pt; border-bottom-width: 2pt; border-color: #28415C; padding-bottom: 14px; background-image: url(/php/pretty/cdtransition.gif);">
-<div style="background: #28415C; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: white;">
-<a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="/php/showcase.php">SHOWCASE TITLES</a>
-</div>
-<div style="text-align:left; padding-left: 4px;">
-<font size="1" face="verdana,arial">
+   <div style="background: #ffffff; width: 160; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #c4d1df; padding-bottom: 14px;">
+    <div style="background: #c4d1df; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+    <a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#333333'" href="/php/showcase.php">SHOWCASE ADS</a>
+    </div>
+    <div style="text-align:left; padding-left: 4px;">
+     <span class="home_box_text">
+	 
+<!-- showcase -->
 <br>
 <table cellpadding="2" cellspacing="0" border="0">
-    
+
+
 <tbody><tr>
-<td><a href="/php/showcase.php?id=819"><img src="http://www.allaboutjazz.com/coverart/2009/walterbeltrami-timoka.jpg" width="50" height="50" border="1"></a></td>
-<td><font size="1" face="verdana,arial"><b><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#28415C'" href="/php/showcase.php?id=819">Timoka</a></b><br>Walter Beltrami</font></td>
+<td><a href="/php/showcase.php?id=933"><img src="http://www.allaboutjazz.com/coverart/2010/groverwashingtonjr_groverlive_mr.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=933">Grover Live</a></strong><br>Grover Washington, Jr.</font></td>
 </tr>
 
-<tr><td colspan="2" height="12"></td></tr>    
-    
+<tr><td colspan="2" height="12"></td></tr>
+
+
 <tr>
-<td><a href="/php/showcase.php?id=823"><img src="http://www.allaboutjazz.com/coverart/2009/juliousbass2009.jpg" width="50" height="50" border="1"></a></td>
-<td><font size="1" face="verdana,arial"><b><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#28415C'" href="/php/showcase.php?id=823">Funkdaddy&amp;3D</a></b><br>JuliousBass</font></td>
+<td><a href="/php/showcase.php?id=937"><img src="http://www.allaboutjazz.com/coverart/2010/jeffantoniuk_brotherhood_mr.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=937">Brotherhood</a></strong><br>Jeff Antoniuk and the Jazz Update</font></td>
 </tr>
 
-<tr><td colspan="2" height="12"></td></tr>    
-    
+<tr><td colspan="2" height="12"></td></tr>
+
+
 <tr>
-<td><a href="/php/showcase.php?id=814"><img src="http://www.allaboutjazz.com/coverart/2009/jackieallen_mr.jpg" width="50" height="50" border="1"></a></td>
-<td><font size="1" face="verdana,arial"><b><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#28415C'" href="/php/showcase.php?id=814">Starry Night</a></b><br>Jackie Allen</font></td>
+<td><a href="/php/showcase.php?id=941"><img src="http://www.allaboutjazz.com/coverart/2010/MartinStehlMartinStehl_mr.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=941">Martin Stehl</a></strong><br>Martin Stehl</font></td>
 </tr>
 
-<tr><td colspan="2" height="12"></td></tr>    
-    
+<tr><td colspan="2" height="12"></td></tr>
+
+
 <tr>
-<td><a href="/php/showcase.php?id=821"><img src="http://www.allaboutjazz.com/coverart/2009/vectortrio2009_mr.jpg" width="50" height="50" border="1"></a></td>
-<td><font size="1" face="verdana,arial"><b><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#28415C'" href="/php/showcase.php?id=821">Nomina</a></b><br>Vector Trio</font></td>
+<td><a href="/php/showcase.php?id=934"><img src="http://CDBaby.name/j/o/johnevansdream.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=934">The Winding Road</a></strong><br>John Evans &amp; Dream</font></td>
 </tr>
 
-<tr><td colspan="2" height="12"></td></tr>    
-    
+<tr><td colspan="2" height="12"></td></tr>
+
+
 <tr>
-<td><a href="/php/showcase.php?id=820"><img src="http://www.allaboutjazz.com/coverart/2009/alvinqueen_mr.jpg" width="50" height="50" border="1"></a></td>
-<td><font size="1" face="verdana,arial"><b><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#28415C'" href="/php/showcase.php?id=820">Mighty Long Way</a></b><br>Alvin Queen</font></td>
+<td><a href="/php/showcase.php?id=943"><img src="http://ecx.images-amazon.com/images/I/511hGRysmhL._.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=943">Colors of Red Island </a></strong><br>Claudio Scolari, Daniele Cavalca, Simone Scolari </font></td>
 </tr>
 
-<tr><td colspan="2" height="12"></td></tr>    
+<tr><td colspan="2" height="12"></td></tr>
+
+
+<tr>
+<td><a href="/php/showcase.php?id=931"><img src="http://www.lawsonrollins.com/images/ESPIRITO_cover260.jpg" width="50" height="50" border="1" alt=""></a></td>
+<td><font size="1" face="verdana,arial"><strong><a href="/php/showcase.php?id=931">Espirito</a></strong><br>Lawson Rollins</font></td>
+</tr>
+
+<tr><td colspan="2" height="12"></td></tr>
+
+
 </tbody></table>
+<!-- end new releases -->
 
-</font>
-
+  </span>
     <center>
-	<b><font size="1" face="verdana,arial"><a href="http://www.allaboutjazz.com/promo/index.html" style="text-decoration: none; color: #263F5A" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#263F5A'">Advertise Here</a></font></b></center>
 
-</div>
-</div>
+    </center></div>
+   </div>
 
-
-<br><br>
+<br>
 
 <script type="text/javascript">
   GA_googleFillSlot("Skyscraper");
 </script>
-
-
 <br>
 
-<div style="background: #C4D1DF; width: 160; text-align:center; border-style: solid; border-width: 2pt; border-bottom-width: 2pt; border-color: #28415C; padding-bottom: 14px;">
-<div style="background: #28415C; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: white;">
-<a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="http://www.allaboutjazz.com/php/regional_articles.php">GLOBAL COVERAGE</a>
+<div style="background: #ffffff; width: 160; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #c4d1df; padding-bottom: 14px;">
+<div style="background: #c4d1df; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#333333'" href="/php/contest_giveaways.php">GIVEAWAYS</a> 
 </div>
 <br>
-     <font size="1" face="verdana,arial">
+<table cellpadding="2" border="0">
+
+
+<tbody><tr><td align="left"><a href="/php/news.php?id=57269"><img src="http://www.resonancerecords.org/_img/covers/RCD-1015-l.jpg" width="30" height="30" border="1"></a></td>
+<td align="left"><span class="home_box_text"><strong>Andreas Oberg</strong>
+<br><a title="Learn more about the Andreas Oberg giveaway." href="/php/news.php?id=57269">Info</a> | <a title="Click this link to enter the Andreas Oberg giveaway." href="/php/musician_network.php?id=16783&amp;favorite=1">Enter</a></span></td></tr>
+
+
+<tr><td align="left"><a href="/php/news.php?id=56799"><img src="http://ecx.images-amazon.com/images/I/51uzohleMrL._.jpg" width="30" height="30" border="1"></a></td>
+<td align="left"><span class="home_box_text"><strong>Gregory Porter</strong>
+<br><a title="Learn more about the Gregory Porter giveaway." href="/php/news.php?id=56799">Info</a> | <a title="Click this link to enter the Gregory Porter giveaway." href="/php/musician_network.php?id=20204&amp;favorite=1">Enter</a></span></td></tr>
+
+
+<tr><td align="left"><a href="/php/news.php?id=56217"><img src="http://www.summitrecords.com/coverimages/515cover.jpg" width="30" height="30" border="1"></a></td>
+<td align="left"><span class="home_box_text"><strong>RIYEL</strong>
+<br><a title="Learn more about the RIYEL giveaway." href="/php/news.php?id=56217">Info</a> | <a title="Click this link to enter the RIYEL giveaway." href="/php/musician_network.php?id=15835&amp;favorite=1">Enter</a></span></td></tr>
+
+
+<tr><td align="left"><a href="/php/news.php?id=55726"><img src="http://www.allaboutjazz.com/coverart/2010/eriktelford_kinetic_mr.jpg" width="30" height="30" border="1"></a></td>
+<td align="left"><span class="home_box_text"><strong>Erik Telford</strong>
+<br><a title="Learn more about the Erik Telford giveaway." href="/php/news.php?id=55726">Info</a> | <a title="Click this link to enter the Erik Telford giveaway." href="/php/musician_network.php?id=20027&amp;favorite=1">Enter</a></span></td></tr>
+
+</tbody></table>
+</div>
+
+
+<br>
+
+<div style="background: #ffffff; width: 160; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #c4d1df; padding-bottom: 14px;">
+<div style="background: #c4d1df; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#333333'" href="http://www.allaboutjazz.com/php/regional_articles.php">GLOBAL COVERAGE</a>
+</div>
+<br>
+     <span class="home_box_text">
      <form name="jumpto" method="get"><select name="url" onchange="return jump(this);" size="1">
      <option value="/index.php">View by Region</option>
      <option value="http://italia.allaboutjazz.com">AAJ: Italy</option>		 
@@ -392,43 +752,77 @@ function checkAll(field)
      <option value="/php/regional_articles.php?in_region=7">Middle East</option>	 
      </select>
      </form>
-	 </font>
+	 </span>
 </div>
 
 <br>
 
-<div style="background: #C4D1DF; width: 160; text-align:center; border-style: solid; border-width: 2pt; border-bottom-width: 2pt; border-color: #28415C; padding-bottom: 14px;">
-<div style="background: #28415C; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: white;">
-<a href="http://www.allaboutjazz.com/php/live/index.php"><img src="/more11x9.gif" width="11" height="9" border="0"></a> <a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="http://www.allaboutjazz.com/php/live/index.php">DATA FEEDS</a>
+<div style="background: #ffffff; width: 160; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #c4d1df; padding-bottom: 14px;">
+<div style="background: #c4d1df; width: 160; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#333333'" href="http://shop.allaboutjazz.com">SHOP JAZZ</a>
 </div>
 <br>
-<center>
-<table cellpadding="2" border="0" width="150">
-<tbody><tr><td width="14"><a href="/php/live/index.php"><img src="/widget_icon14x14.gif" width="14" height="14" border="0"></a></td> <td><span class="home_box_text"><strong><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#28415C'" href="http://www.allaboutjazz.com/php/live/index.php">Widgets</a></strong></span></td><td width="14"><a href="/php/live/rss.php"><img src="/datafeed.gif" width="14" height="14" border="0"></a></td>  <td><span class="home_box_text"><strong><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#28415C'" href="http://www.allaboutjazz.com/php/live/rss.php">Feeds</a></strong></span></td></tr>
-<tr><td width="14"><a href="http://twitter.com/AllAboutJazz"><img src="/Twitter-14x14.gif" width="14" height="14" border="0"></a></td>  <td><span class="home_box_text"><strong><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#28415C'" href="http://twitter.com/AllAboutJazz">Twitter</a></strong></span></td><td width="14"><a href="http://digjazz.blogspot.com"><img src="/blog14x14.gif" width="14" height="14" border="0"></a></td>  <td><span class="home_box_text"><strong><a style="text-decoration: none; color: #28415C" onmouseover="this.style.color='#ffffff'" onmouseout="this.style.color='#28415C'" href="http://digjazz.blogspot.com">Blog</a></strong></span></td></tr>
-</tbody></table>
-</center>
+<span class="home_box_text">
+
+<!-- begin shop -->
+
+<a href="http://shop.allaboutjazz.com/prodinfo.asp?number=VAR292D"><img src="http://www.allaboutjazz.com/photos/news/iconsamongus2010.jpg" width="84" border="0" alt=""></a>
+<br><span class="home_box_text"><strong><a href="http://shop.allaboutjazz.com/prodinfo.asp?number=VAR292D">Icons Among Us: Jazz In The Present Tense (DVD)</a></strong></span>
+<br><br><br>
+
+<!-- end shop -->
+
+<!-- begin shop -->
+
+<a href="http://shop.allaboutjazz.com/prodinfo.asp?number=VAUGS15D"><img src="http://cover7.cduniverse.com/CDUCoverArt/video/91/8125891.jpg" width="84" border="0" alt=""></a>
+<br><span class="home_box_text"><strong><a href="http://shop.allaboutjazz.com/prodinfo.asp?number=VAUGS15D">Sarah Vaughan: The Divine One (DVD)</a></strong></span>
+<br><br><br>
+
+<!-- end shop -->
+
+<!-- begin shop -->
+
+<a href="http://www.shareasale.com/r.cfm?b=129549&amp;u=357587&amp;m=17923&amp;urllink=www.hdtracks.com/index.php%3Ffile%3Dredirect%26search%3Dartist%26keyword%3DKeith%2BJ"><img src="https://s3.amazonaws.com/hdtrack_img/HD602527095837_110.jpg" width="84" border="0" alt=""></a>
+<br><span class="home_box_text"><strong><a href="http://www.shareasale.com/r.cfm?b=129549&amp;u=357587&amp;m=17923&amp;urllink=www.hdtracks.com/index.php%3Ffile%3Dredirect%26search%3Dartist%26keyword%3DKeith%2BJ">Keith Jarrett @ HDtracks</a></strong></span>
+<br><br><br>
+
+<!-- end shop -->
+</span>
 </div>
 
-<br><br>
+<br>
 
 </td>
-<!-- SEPARATOR -->
-<td valign="TOP" width="8" bgcolor="#FFFFFF">
-<font color="#FFFFFF">.</font>
-</td>
+
+
+
 
 <!-- MAIN CONTENT -->
-<td valign="TOP" align="CENTER">
-  <table width="100%" border="0" cellpadding="8">
-  <tbody><tr><td>
-    <font face="VERDANA,ARIAL" size="2">
-      <br><font size="5" color="#1E475D" face="VERDANA,ARIAL"><b>Secure Shopping Guarantee and Privacy Information</b></font>
-      <p><br>
+<td valign="TOP" align="CENTER" width="100%">
 
-<img height="32" src="/safeandsecure.jpg" width="380" border="0">
-</p><p><b><u>Making a purchase at All About Jazz is 100% safe - We Guarantee It.</u></b> 
-</p><p>When we request personal information from you (such as name, address, phone 
+<center>
+<table border="0" width="100%" cellpadding="8"><tbody><tr><td>
+<font size="2" face="VERDANA,ARIAL">
+
+
+</font></td><td valign="TOP" align="CENTER" width="100%">
+
+<table border="0" cellpadding="8" width="100%">
+
+<tbody><tr>
+<td colspan="3"> 
+    <span class="article_title">Secure Shopping Guarantee and Privacy Information</span>
+
+<br><br>
+</td>
+</tr>
+
+<tr>
+<td valign="TOP">
+    <span class="article_title_list">
+
+<b><u>Making a purchase at All About Jazz is 100% safe - We Guarantee It.</u></b> 
+<p>When we request personal information from you (such as name, address, phone 
 number and credit card number) it is done on our secure servers. We use industry 
 standard technology to protect confidential information - SSL (Secured Socket 
 Layer) - an advanced encryption technology that makes personal information 
@@ -436,6 +830,7 @@ unreadable as it travels over the Internet.</p>
 <p>We are so confident in our security, that we guarantee you'll pay nothing if 
 unauthorized charges are made to your credit card as a result of shopping at 
 All About Jazz.</p>
+
 <p>Federal law limits your liability for unauthorized charges to your account. 
 The Fair Credit Billing Act states that your credit card company (creditor) 
 cannot hold you liable for more than $50 in the unlikely event a fraudulent 
@@ -463,6 +858,7 @@ order by filling out and submitting an online form. This information includes
 your name, telephone numbers, mailing address, e-mail address and credit card 
 information. All information regarding our online customers is stored on a 
 highly secured server that is not accessible through the Internet.</p>
+
 <p>When you participate in an online contest or survey, we may ask you for 
 personal information such as name or e-mail address to complete this process. 
 Your participation in these events is voluntary and information collected will 
@@ -494,67 +890,475 @@ anonymous site visitors. </p>
 <b><u>External Links</u></b>
 <br>This site contains links to other sites. All About Jazz is not responsible for the privacy practices or the content of such Web sites.
 
-</p></font><p><font face="VERDANA,ARIAL" size="2">
-
+</p><p>
 
 
 <b><u>Contacting All About Jazz</u></b>
 <br>If you have any questions about this privacy statement, the practices of this site, or your dealings with these Web sites, you can contact: <a href="mailto:privacy@visionx.com">privacy@visionx.com</a>.
 
-<br>
-<br>
 
-    </font>
-  </p></td></tr>
-  </tbody></table>
+</p></span></td>
+</tr>
+</tbody></table>
+
+</td>
+
+
+</tr></tbody></table>
+</center>
+
 </td>
 
 
 
 <!-- END MAIN TABLE -->
+
 </tr>
 </tbody></table>
 
 
-<!-- BOTTOM -->
+<center>
 
-<table cellpadding="3" bgcolor="#FFFFFF" cellspacing="0" border="0" width="990" align="center">
- <tbody><tr>
-  <td colspan="3" bgcolor="#28415c" align="center" valign="center">
+<div style="background: #28415C; width: 100%; text-align:center; border-color: #28415C; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
 
-<!-- begin banner -->
+<table cellpadding="0" bgcolor="#28415C" cellspacing="0" border="0" width="990" align="center">
+
+            <tbody><tr>
+            <td width="4"><img src="/php/pretty/spacer2.gif" width="4" height="34" border="0"> </td>
+            <td valign="center" align="left"><span class="navbar1_text"><span class="home_box_text">
+<strong>
+<font color="#EFEFFF">
+<a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.allaboutjazz.com/php/advertising/index.php">Advertise</a> | <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.allaboutjazz.com/php/contactus.php">Contact Us</a> | <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="/sitemap.php">Site Map</a> | <span style="color:#bb0000"> <a href="http://contests.allaboutjazz.com" style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#efefff'" onmouseout="this.style.color='#ffffff'">Enter our weekly contest giveaways</a></span>
+</font>
+</strong>
+</span>
+</span></td>
+			<td align="right" valign="center"><!-- Google CSE Search Box Begins  --> 
+            <form action="http://www.allaboutjazz.com/googlesearch.php" id="searchbox_005595936876858408448:hfhqnzuknl8">
+                <input type="hidden" name="cx" value="005595936876858408448:hfhqnzuknl8">
+                <input type="hidden" name="cof" value="FORID:11">
+                <input type="text" name="q" size="20">
+			</form></td>
+			<td valign="center" width="60">	
+                <input type="IMAGE" name="sa" src="/search2010.gif">
+            
+            <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=searchbox_005595936876858408448%3Ahfhqnzuknl8&amp;lang=en"></script>
+            <!-- Google CSE Search Box Ends -->
+			</td>
+
+</tr>
+</tbody></table>
+		
+</div>
+
+
+<div style="background: #E5EAF0; width: 100%; text-align:center; border-color: #E5EAF0; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
+
+<br>
+
+<table border="0" cellpadding="3" align="center" width="990px">
+<tbody><tr>
+<td valign="top" align="center">
+
+<div style="background: #FFFFFF; width: 900; height: 230; text-align:left; border-style: solid; border-width: 2pt; border-bottom-width: 2pt; border-color: #C4D1DF; padding-bottom: 14px;">
+<div style="background: #C4D1DF; width: 900; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="http://www.allaboutjazz.com/php/jazzradio.php">JAZZRADIO.COM CHANNELS @ ALL ABOUT JAZZ</a>
+</div>
+<br>
+<center>
+<iframe src="http://www.jazzradio.com/aaj/channels.php" width="880" height="160" border="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"> <!--Insert some alternative content for browsers that don't
+support iframe?--> </iframe>
+<p align="right"> <span class="home_box_text"> <a href="/php/jazzradio.php">View More Channels</a> </span>  &nbsp;  &nbsp;   </p>
+</center>
+
+</div>
+
+</td>
+</tr>
+</tbody></table>
+<br>
+
+<table border="0" cellpadding="3" align="center" width="990px">
+<tbody><tr>
+<td valign="top" align="center">
+
+<div style="background: #FFFFFF; width: 900; height: 190; text-align:left; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #C4D1DF; padding-bottom: 14px;">
+<div style="background: #C4D1DF; width: 900; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="http://www.allaboutjazz.com/php/gallery.php">FEATURED PHOTOS: WOMEN IN JAZZ</a>
+</div>
+<br>
+<div style="text-align:center; font: 8pt Verdana, Helvetica, Arial, sans-serif;">
+
+<table cellpadding="3" border="0" width="100%" align="center">
+<tbody><tr>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=38454"><img src="http://www.allaboutjazz.com/media/thumb/2/8/b/d4b0ce9bcff8c7e81c46066e4dd86.jpg" height="100" border="0"></a></td>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=41444"><img src="http://www.allaboutjazz.com/media/thumb/a/7/4/3dfd1c86055270e4737408dce0b8f.jpg" height="100" border="0"></a></td>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=13047"><img src="http://www.allaboutjazz.com/media/thumb/f/b/3/80c8f4d8062efd349f0d607fcb9a6.jpg" height="100" border="0"></a></td>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=41973"><img src="http://www.allaboutjazz.com/media/thumb/b/b/e/d671ea69325f75d3a58a279c9796d.jpg" height="100" border="0"></a></td>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=37582"><img src="http://www.allaboutjazz.com/media/thumb/1/e/7/5c91f6fe2f1ff8a619d11aca169fe.jpg" height="100" border="0"></a></td>
+<td valign="bottom" align="center" width="16%"><a href="http://www.allaboutjazz.com/php/gallery_image.php?id=38138"><img src="http://www.allaboutjazz.com/media/thumb/7/9/a/819d6368d1f67cff92d58201301ff.jpg" height="100" border="0"></a></td>
+</tr>
+<tr><td colspan="6" height="14"></td></tr>
+<tr><td colspan="3" align="left">  &nbsp;  <span class="article_title_list">  </span></td> 
+<td align="right" colspan="3"><span class="article_title_list"><a href="http://www.allaboutjazz.com/php/gallery.php">More Photos</a> | <a href="http://www.allaboutjazz.com/php/gallery_upload.php">Upload Photos</a> &nbsp; </span></td>
+</tr>
+</tbody></table>
+
+</div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+
+
+<br>
+
+<table border="0" cellpadding="3" align="center" width="990px">
+<tbody><tr>
+<td valign="top" align="center">
+
+<div style="background: #FFFFFF; width: 900; text-align:left; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #C4D1DF; padding-bottom: 14px; margin-bottom: 15px;">
+<div style="background: #C4D1DF; width: 900; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="http://www.allaboutjazz.com/php/calendar/calendar.php">YOUR LOCAL CALENDAR</a>
+ | <a href="http://www.allaboutjazz.com/php/login.php">SIGN IN TO VIEW LOCAL CALENDAR</a> 
+	 
+</div>
+<br>
+<div style="text-align:center; font: 8pt Verdana, Helvetica, Arial, sans-serif;">
+<table cellpadding="4" cellspacing="0" border="0" width="100%" align="center">
+<tbody><tr>
+ <th class="aaj_cal_c">Date</th>
+ <th class="aaj_cal_l">Title/Musician</th>
+ <th class="aaj_cal_l">Venue</th>
+ <th class="aaj_cal_l">Location</th>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409016">Jun 06</a></td>
+ <td class="aaj_cal_l">Landon Knoblock</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=13648">The Local 269</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=408370">Jun 06</a></td>
+ <td class="aaj_cal_l">Swingadelic</td>
+ <td class="aaj_cal_l">Jersey Shore Jazz and Blues Festival</td>
+ <td class="aaj_cal_l">Oceanport, NJ</td>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409020">Jun 06</a></td>
+ <td class="aaj_cal_l">Michael Feinberg</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=13648">The Local 269</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409217">Jun 06</a></td>
+ <td class="aaj_cal_l">Scot Albertson</td>
+ <td class="aaj_cal_l">Christ Church</td>
+ <td class="aaj_cal_l">Norwalk, CT</td>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409875">Jun 06</a></td>
+ <td class="aaj_cal_l">Joachim Badenhorst</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=12251">Douglass Street Music Collective</a></td>
+ <td class="aaj_cal_l">Brooklyn, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409996">Jun 06</a></td>
+ <td class="aaj_cal_l">Rale Micic</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=14708">ThearerLab</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=410028">Jun 06</a></td>
+ <td class="aaj_cal_l">Fat Cat Big Band</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=732">Fat Cat</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=410118">Jun 06</a></td>
+ <td class="aaj_cal_l">Vic Juris Trio</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=676">55 Bar</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409034">Jun 07</a></td>
+ <td class="aaj_cal_l">Sten Hostfalt</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=7588">ABC No Rio</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409058">Jun 07</a></td>
+ <td class="aaj_cal_l">Swingadelic</td>
+ <td class="aaj_cal_l">Maxwell's</td>
+ <td class="aaj_cal_l">Hoboken, NJ</td>
+</tr>
+<tr bgcolor="#e5eaf0">
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409130">Jun 07</a></td>
+ <td class="aaj_cal_l">George Gee</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=14612">Gospel Uptown</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+<tr>
+ <td class="aaj_cal_c"><a href="/php/calendar/event_detail.php?id=409392">Jun 07</a></td>
+ <td class="aaj_cal_l">Brian Settles and Jeremy Carlstedt</td>
+ <td class="aaj_cal_l"><a href="/php/entity.php?id=13648">The Local 269</a></td>
+ <td class="aaj_cal_l">New York, NY</td>
+</tr>
+</tbody></table>
+<table cellpadding="4" border="0" width="100%" align="center">
+ <tbody><tr><td colspan="5" height="14"></td></tr>
+ <tr>
+  <td align="left">
+   <span class="home_box_text">
+    <form name="jumpto" method="get">
+     <select name="url" onchange="return jump(this);" size="1">
+      <option value="/php/calendar/calendar.php">-- View by Festival --</option>
+      <option value="/php/calendar/calendar.php?festival=14770">22ND ANNUAL ASBURY PARK JAZZ FESTIVAL PRESENTED BY THE ASBURY PARK PRESS</option>
+      <option value="/php/calendar/calendar.php?festival=14698">4th Annual Jazz Legends Festival "Celebrating Women In Jazz"</option>
+      <option value="/php/calendar/calendar.php?festival=14686">Baldwin Jazz Piano Presents</option>
+      <option value="/php/calendar/calendar.php?festival=14734">Bar Harbor Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14789">Brooklyn Jazz</option>
+      <option value="/php/calendar/calendar.php?festival=14760">Carefusion</option>
+      <option value="/php/calendar/calendar.php?festival=14688">Comerica Java &amp; Jazz</option>
+      <option value="/php/calendar/calendar.php?festival=14703">CPFJ 30th Annual Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=931">Healdsburg Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=8504">Jazz 88 Ocean Beach Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14718">Jazz Academy Summer Camp</option>
+      <option value="/php/calendar/calendar.php?festival=14768">Jazz Festival Imaxina Sons (Vigo, Spain)</option>
+      <option value="/php/calendar/calendar.php?festival=14709">JJA Jazz Awards</option>
+      <option value="/php/calendar/calendar.php?festival=14693">Low Notes For Nashville Benefit</option>
+      <option value="/php/calendar/calendar.php?festival=14742">Maino LIVE</option>
+      <option value="/php/calendar/calendar.php?festival=14779">Mondomusica in Jazz</option>
+      <option value="/php/calendar/calendar.php?festival=14781">Mont-Tremblant International Blues Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14775">NAMM Winter Show</option>
+      <option value="/php/calendar/calendar.php?festival=14741">Ne-Yo LIVE</option>
+      <option value="/php/calendar/calendar.php?festival=14661">Red Hook Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=6679">Red Sea Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14758">Red Sea Jazz Festival </option>
+      <option value="/php/calendar/calendar.php?festival=14756">Red-Sea Jazz Festival 2010 </option>
+      <option value="/php/calendar/calendar.php?festival=14780">Savassi Festival 2010</option>
+      <option value="/php/calendar/calendar.php?festival=14747">Skylands Music Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14748">STANLEY CLARKE + HIROMI</option>
+      <option value="/php/calendar/calendar.php?festival=14771">SummerNights Three-Concert Series</option>
+      <option value="/php/calendar/calendar.php?festival=14774">Taste of Woodbridge</option>
+      <option value="/php/calendar/calendar.php?festival=14594">The Warwick Valley Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14745">Treasure Beach Jazz Escape</option>
+      <option value="/php/calendar/calendar.php?festival=4869">West Oak Lane Jazz and Arts Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14682">West Oaklane Jazz Festival</option>
+      <option value="/php/calendar/calendar.php?festival=14699">Winscombe and Sandford Festival 2010</option>
+      <option value="/php/calendar/calendar.php?festival=4900">Xerox Rochester International Jazz Festival</option>
+     </select>
+    </form>
+   </span>
+  </td>
+  <td colspan="3"><span class="home_box_text"> </span></td>
+  <td align="right">
+   <span class="home_box_text">
+    <form name="jumpto" method="get">
+     <select name="url" onchange="return jump(this);" size="1">
+      <option value="/php/calendar/calendar.php">-- More Event Options --</option>
+      <option value="/php/calendar/calendar.php">All Local Events</option>      
+      <option value="/php/calendar/calendar.php?type=2">Just Festivals</option>
+      <option value="/php/event_edit.php">Submit Events</option>    
+      <option value="/php/entity_search.php?t=7">Local Venues</option>
+      <option value="/php/entity_search.php?t=11">Local Festivals</option>  
+     </select>
+    </form>
+   </span>
+  </td>
+ </tr>
+</tbody></table>
+</div>
+</div>
+
+ </td>
+ </tr>
+</tbody></table>
+
+
+<table border="0" cellpadding="3" align="center" width="990px">
+<tbody><tr>
+<td valign="top" align="center" width="33%">
+
+<div style="background: #FFFFFF; width: 292; height: 212; text-align:left; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #C4D1DF; padding-bottom: 14px;">
+<div style="background: #C4D1DF; width: 292; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="http://www.allaboutjazz.com/php/jazzpodcasts.php">JAZZ SESSION PODCAST</a>
+</div>
+<br>
+<style type="text/css">
+a.aajcat    {font-weight: bold}
+td.aajdate  {background-color: #FFFFFF; font-size: 7pt; text-align: center}
+td.aajcat   {background-color: #FFFFFF; font-size: 7pt; text-align: center}
+td.aaj      {background-color: #FFFFFF; font-size: 7pt}
+td.aajlast  {background-color: #FFFFFF; font-size: 7pt; padding-top: 18px}
+h1          {font-family: verdana; font-size: 7pt; font-color: #50707D; font-weight: normal; font-weight: bold; letter-spacing: 1px}
+body        {font-family: verdana; font-size: 7pt}
+a:link      {color: #50707D}
+a:visited   {color: #50707D}
+a:hover     {color: #20404D; text-decoration: underline}
+</style>
+<div style="text-align:center; font: 8pt Verdana, Helvetica, Arial, sans-serif;">
+<script language="javascript" type="text/javascript" src="http://www.allaboutjazz.com/live/podcast01.txt"></script>
+</div>
+</div>
+
+
+</td>
+<td valign="top" align="center" width="33%">
+
+<div style="background: #FFFFFF; width: 292; height: 212; text-align:left; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #C4D1DF; padding-bottom: 14px;">
+<div style="background: #C4D1DF; width: 292; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="/php/jazzvideoguy_videos.php">JAZZ VIDEO GUY PRESENTS</a>
+</div>
+<br>
+<style type="text/css">
+a.aajcat    {font-weight: bold}
+td.aajdate  {background-color: #FFFFFF; font-size: 7pt; text-align: center}
+td.aajcat   {background-color: #FFFFFF; font-size: 7pt; text-align: center}
+td.aaj      {background-color: #FFFFFF; font-size: 7pt}
+td.aajlast  {background-color: #FFFFFF; font-size: 7pt; padding-top: 18px}
+h1          {font-family: verdana; font-size: 7pt; font-color: #50707D; font-weight: normal; font-weight: bold; letter-spacing: 1px}
+body        {font-family: verdana; font-size: 7pt}
+a:link      {color: #50707D}
+a:visited   {color: #50707D}
+a:hover     {color: #20404D; text-decoration: underline}
+</style>
+<div style="text-align:center; font: 8pt Verdana, Helvetica, Arial, sans-serif;">
+<script language="javascript" type="text/javascript" src="http://www.allaboutjazz.com/live/jazzvideoguy01.txt"></script>
+</div>
+</div>
+
+
+</td>
+<td valign="top" align="center" width="33%">
+
+<div style="background: #FFFFFF; width: 292; height: 212; text-align:center; border-style: solid; border-width: 1pt; border-bottom-width: 1pt; border-color: #C4D1DF; padding-bottom: 14px;">
+<div style="background: #C4D1DF; width: 292; height: 16; padding-top: 4px; padding-bottom: 4px; text-align:center; font: bold 12px Verdana, Helvetica, Arial, sans-serif; color: black;">
+<a style="text-decoration: none; color: #333333" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#333333'" href="/php/jazzvideos.php">TODAY'S VIDEO</a>
+</div>
+<br>
+<div style="text-align:center; font: 8pt Verdana, Helvetica, Arial, sans-serif;">
+
+<!-- begin download -->
+
+<a href="http://www.allaboutjazz.com/php/jazzdownloadv.php?id=5505"><img src="http://i2.ytimg.com/vi/QQf-frmphqA/default.jpg" width="120" height="90" border="1"></a>
+<br><br><strong><a href="http://www.allaboutjazz.com/php/jazzdownloadv.php?id=5505">I Can't Get Started</a></strong>
+<br>Al Grey
+<br><br>
+<a href="/php/jazzvideos.php">More Videos</a>
+
+
+<!-- end download -->
+	
+</div>
+</div>
+
+</td>
+</tr>
+</tbody></table>
+
+<br>
+
+</div>
+
+<div style="background: #28415C; width: 100%; text-align:center; border-color: #28415C; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
+
+<table cellpadding="8" cellspacing="0" border="0" width="990" align="center" bgcolor="#28415c">
+
+<tbody><tr>
+<td width="4"><img src="/php/pretty/spacer2.gif" width="4" height="14" border="0"> </td>
+<td>
+<span class="home_box_text"><strong><font color="#efefff">
+
+Visit &nbsp; - &nbsp; <a href="http://www.shareasale.com/r.cfm?b=129549&amp;u=357587&amp;m=17923&amp;urllink=&amp;afftrack=" style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" target="_blank">HDTracks</a> | <a href="http://aaj.jazzloft.com" style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" target="_blank">Jazz Loft</a> 
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://resscomm.equipespectra.ca/compteur/compteur.aspx?cat=fijm-swing-AAJ-BB&amp;dest=http://www.montrealjazzfest.com/artists/features/feature-swing.aspx" target="_blank">Montreal Jazz Festival</a>
+
+<!-- end links -->
+
+
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.summerjazzsicily.com" target="_blank">Summer Jazz Sicily </a>
+
+<!-- end links -->
+
+
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.jazzluvinsingles.com" target="_blank">Jazz Lovin' Singles</a>
+
+<!-- end links -->
+
+
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.ecmrecords.com" target="_blank">ECM Records</a>
+
+<!-- end links -->
+
+
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.abstractlogix.com/xcart/home.php?cat=306" target="_blank">Abstract Logix</a>
+
+<!-- end links -->
+
+
+<!-- begin links -->
+| <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="http://www.sfjazz.org" target="_blank">SFJAZZ</a>
+
+<!-- end links -->
+
+
+</font></strong></span>
+
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+
+<div style="background: #E5EAF0; width: 100%; text-align:center; border-color: #E5EAF0; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
+
+<table cellpadding="8" cellspacing="0" border="0" width="990" align="center">
+<tbody><tr>
+<td bgcolor="#e5eaf0" align="center" valign="center" colspan="2">
+
+<br>
+
+<span class="home_box_text">
 
 <script type="text/javascript">
   GA_googleFillSlot("Leaderboard_Bottom");
 </script>
+<br>
 
-  <br>
+</span></td>
+</tr>
 
-<!-- end banner -->
-
-  </td>
- </tr>
- <tr>
-
- 
-  <td bgcolor="#11344a" align="left" valign="center"> <font color="#11344a">..</font> <span class="home_box_text"><font color="#ffffff"><a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="/privacy.htm">Privacy Policy</a> | <font color="#ffffff">AAJ Supports:</font> <a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="http://www.lenslady.org" title="Contact Lens and Eyeglass Recycling">Lens Lady</a> </font></span>  </td>
-
-  <td bgcolor="#11344a" align="center" valign="center"><span class="home_box_text"><font color="#ffffff">All material <a style="text-decoration: none; color: #FFFFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#FFFFFF'" href="/license_this.htm">copyright</a> © 2009 All About Jazz and/or contributing writer/visual artist. All rights reserved.</font></span></td>
-
-   <td bgcolor="#11344a" align="right">     <a href="/index.php"><img src="/php/pretty/jazz3.gif" width="65" height="21" border="0"></a>  &nbsp; </td>
-
- </tr>
 </tbody></table>
-
-<!-- end main table -->
-
-
-
-
 
 </div>
 
-<br>
+<div style="background: #28415C; width: 100%; text-align:center; border-color: #28415C; padding-top: 0px; padding-bottom: 0px; border-style: solid; border-width: 0pt; border-bottom-width: 0pt;">
+
+<table cellpadding="8" cellspacing="0" border="0" width="990" align="center">
+
+<tbody><tr>
+<td bgcolor="#28415C" width="120">
+<a href="http://www.spinner.com/category/all-about-jazz/"><img src="/images/aolmusic.gif" width="120" height="24" border="0"></a>
+
+</td>
+<td bgcolor="#28415C" align="right" valign="center">
+
+<span class="home_box_text"><strong><font color="#EFEFFF">All material <a style="text-decoration: none; color: #EFEFFF" onmouseover="this.style.color='#FFC462'" onmouseout="this.style.color='#EFEFFF'" href="/license_this.htm">copyright</a> ©  2010 All About Jazz and/or contributing writer/visual artist. All rights reserved | <a style="text-decoration: none; color: #ffffff" onmouseover="this.style.color='#ffc462'" onmouseout="this.style.color='#ffffff'" href="/privacy.php">Privacy Policy</a> <!--- <img src=/aajlogo_square.gif width=16 height=16 border=0 align=top> ---> </font></strong></span>
+
+</td>
+</tr>
+</tbody></table>
+
+</div>
+
+<!-- end main table -->
 
 <!--- Google Analytics Tracking Code --->
 <script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
@@ -562,10 +1366,15 @@ anonymous site visitors. </p>
 <script type="text/javascript">
 _uacct = "UA-1973392-1";
 urchinTracker();
+</script><!--- Google Analytics Tracking Code --->
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1973392-1";
+urchinTracker();
 </script>
 
-<!-- end banner -->
 
 
 
-</center></body></html>
+</center></center></body></html>
