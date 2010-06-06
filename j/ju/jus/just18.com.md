@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218060834id_/http%3A//www.just18.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the just18.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606222706id_/http%3A//www.just18.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - HTTP Electronic Publishing, Inc.
 
