@@ -1,52 +1,41 @@
-> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2006-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060925095934id_/http%3A//www.parkinson.org/site/pp.asp%3Fc%3D9dJFJLPwB%26b%3D71164) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parkinson.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606031703id_/http%3A//www.parkinson.org/Privacy---Terms-of-Use.aspx) for the most accurate reproduction.*
 
-# Helping Cure Parkinson Disease - Welcome to The National Parkinson Foundation
+# National Parkinson Foundation - Privacy & Terms of Use
 
-National Parkinson Foundation, Inc. thanks you for visiting its website. Because we are committed to respecting the privacy of our website visitors, this website privacy policy statement and safeguarding describes the information we collect from you during your visit to our site, how we may use it, and how we will protect the information which you may opt to provide.
+## Privacy Policy
 
-**Personally Identifiable Information**  
-Personally identifiable information includes your name, address, zip code and telephone number, e-mail address or any other information which might reasonably be used to identify you individually. NPF collects personally identifiable information from website visitors only when it is voluntarily provided. NPF will not otherwise collect this information from you on our website. NPF offers the option of making tax deductible contributions with a credit card and will collect the information needed to make such transactions.
+We at the National Parkinson Foundation (NPF) are committed to respecting the privacy of our website visitors.  This page describes our privacy policy regarding the information we collect from you during your visit to our site, how we may use it, and how we will protect the information which you choose to provide us.
 
-At those portions of our Web site where we provide you with the option to input personally identifiable information, we notify you of the uses we intend to make of that information in any given instance. When NPF receives personally identifiable information we may use it for reasonable purposes. For example we may use this information to contact you, via e-mail or regular mail, to provide you with information we believe may be of interest. It may also be used for compiling data and analyses to understand and serve your needs. Data is also compiled to evaluate the use and utility of the services we provide on line. **Personally identifiable information will not be sold, rented or exchanged outside of NPF unless the user is first notified and expressly consents to such transfer.**
+### Personally Identifiable Information
 
-**Collective/Aggregate Data**  
-NPF's website may also collect information from you that is not personally identifiable. For example, we might track information about the date and time visitors access our site, the type of web browser they used, and the websites from which they connected to our site. Our website collects this information by depositing certain bits of information called "cookies" in a visitor's computer. This technology does not collect an individual visitor's personally identifiable information, rather this information is collected in an aggregate form. The "cookies" can tell us how and when pages in a website were visited and by how many people. This aggregate information will enable us to improve our website to serve and inform you better. It also may allow you to shortcut accesses to point of interest on our website when you reenter our system. Attaching this device to your system has no effect on how it performs.
+NPF does not require that you provide personally identifiable information in order to use our website.  Personally identifiable information includes your name, address, zip code and telephone number, e-mail address and any other information which might be used to identify you individually. You may provide personally identifiable information to us while using the site in three situations: (1) while making a donation, (2) while communicating with the foundation, and (3) while participating in our on-line forums.  Participating in on-line forums is addressed below.  If you decide to support the activities of NPF by making a tax deductible contribution with a credit card, we will collect the information needed to complete the transaction. If you contact NPF, we will collect the information necessary to respond to you and also will receive any information you disclose in your message.  In both these cases (i.e., making a donation or contacting NPF), we will clearly disclose how we intend to use the information you provide on the page in which it is collected.  In every case, we will take reasonable precautions to prevent your personal information from being intercepted by any third party using standard web techniques including encryption and firewalls to protect the data.  In these cases, when NPF receives personally identifiable information, we may use it for reasonable purposes. For example, we may use this information to contact you to provide you with information we believe may be of interest. It may also be used for compiling data and analyses to understand and serve your needs.  Data is also compiled to evaluate how well we are doing at accomplishing our mission.
 
-**Use of Communications Forums**  
-The National Parkinson Foundation website has, will, or may contain threaded discussions, chat rooms, list servers and other communications forums. By participating in any of these, users agree to send and receive messages that are both proper and related to the forum topic. The following actions are unacceptable practices:  
+In contrast to the information that we collect in order deliver services, we also offer forums where site visitors can exchange ideas and discuss issues with healthcare providers and allied professionals.  If you provide personally identifiable information in one of our on-line forums, you do so **at your own risk**.  NPF cannot be held responsible for personal information posted in the on-line forums.  There is a disclaimer on the forum page that also warns of this risk.
 
+Personally identifiable information will never be sold, rented or exchanged outside of NPF and its vendors bound by non-disclosure agreements unless the user is first notified and expressly consents to such transfer.
 
-  * Defaming, harassing, threatening, or otherwise violating the legal rights of others, including their privacy.
+### Use of Cookies
 
-  * Misrepresenting one's person, background, or character;
+Like most websites, NPF's website may store information on your computer in a small file called a “cookie.”  These cookies never store personally identifiable information and do not compromise your privacy.  Cookies are used exclusively to improve the user experience by providing continuity in your browsing the site.  If you access the site via a public computer, be sure to click “log off” at the end of your session.  The site will warn you not to use the “remember me” functionality (enabled by cookies) if you are at a public computer.
 
-  * Posting any defamatory, infringing, obscene, false, or unlawful material;
+## Other Terms and Conditions
 
-  * Selling, advertising, or exchanging any goods or services unless expressly allowed;
+### Use of the On-line Forum
 
-  * Posting any copyrighted material owned by a third party.
+The National Parkinson Foundation (NPF) website includes several discussion forums (“forums”). By participating in the forums, users agree to send and receive messages that are both proper and related to the forum topic. The following actions represent examples of unacceptable practices, and may result in NPF taking action against violators: defaming, harassing, threatening, or otherwise violating the legal rights of others, including their privacy; misrepresenting one's person, background, or character; posting any defamatory, infringing, obscene, false, or unlawful material; selling, advertising, or exchanging any goods or services unless expressly allowed; posting any copyrighted material owned by a third party.  This list is not exclusive and may be changed at any time with or without prior notice. NPF may alter or remove any messages or postings to our site at its discretion, including those we deem inappropriate or offensive. You use the National Parkinson Foundation website at your own risk. Please do not post personally identifiable information in the forums.  If you do, NPF cannot be held responsible for the use of that information. 
 
+### Links To Other Sites
 
+As a resource to our visitors NPF may provide links to other websites and links to other sites may be posted in the forums. Links posted in the forums are generally not screened and any link posted in the forum is followed at your own risk.  For links posted outside the forum, we try to carefully choose websites which we believe are useful and meet our high standards for the accuracy and utility of information. However, because website design and content can change so quickly we cannot guarantee the standards of every website to which we link. Likewise, we are not responsible for the content of any non-NPF site. We also cannot guarantee the privacy policies of these other sites and suggest you check the privacy policies of those sites directly.
 
+### Communications from NPF
 
-The National Parkinson Foundation may alter or remove any messages or postings to our site which we deem inappropriate or offensive.
+If you wish to stop receiving any e-mail or other communications from NPF or if you have submitted personally identifiable information through a NPF website and would like to have that information deleted, please notify us and it will be done promptly.  Click on the “contact us” link in the navigation bar to contact NPF.
 
-Also, you agree to use the National Parkinson Foundation website at your own risk. While championing the proper use of such forums, The National Parkinson Foundation cannot guarantee that violations of the above code will not occur.  
+### Security
 
+NPF takes data security seriously.  NPF collects data that is covered by the medical privacy law HIPAA and is subjected to periodic audits by our banks and the Better Business Bureau.  Information collected by NPF (besides that which you may submit in the forums) is stored behind a firewall and protected using secure encryption technologies.  While no security steps can offer 100 percent protection we utilize state-of-the-art, industry-standard protocols to prevent unauthorized access to the information we hold. We will limit access to personal information to those NPF personnel with a need to know it. We educate our staff about their duty to protect your privacy and provide training regarding the policy described herein.\
 
-**Links To Other Sites**  
-As a resource to our visitors NPF may provide links to other websites. We try to carefully choose websites which we believe are useful and meet our high standards for the accuracy and utility of information. However, because website design and content can change so quickly we cannot guarantee the standards of every website to which we link. Likewise, we are not responsible for the content of any non-NPF site. We also cannot guarantee the privacy policies of these other sites and suggest you check the privacy policies of those sites directly.
+### Changes
 
-**Choice**  
-If you wish to stop receiving any e-mail or other communications from NPF, which might be sent to you in the future based on your request for this information, or if you have submitted personally identifiable information through a NPF website and would like to have that information deleted, please notify us and it will be done promptly.
-
-**Accuracy**  
-NPF will make every effort to maintain the accuracy and confidentiality of any personal information you supply to us. If you wish to make additions or other corrections to the information you have sent in please transmit it to the National Parkinson Foundation Inc.'s data processing department.
-
-**Security**  
-All information transmitted to this NPF Web site is secure to the extent possible using existing technology. Unauthorized third parties should not be able to access it during transmission. We will store the information that you share with us securely and will take appropriate steps to protect it from unauthorized access or disclosure. While no security steps can offer 100 percent protection we utilize state-of-the-art technology and systems to prevent unauthorized access to the information we hold. We will limit access to this information to those NPF personnel with a need to know. We educate our staff about their duty to protect your privacy and provide training regarding the policy described herein.
-
-**Changes**  
-Any changes to this privacy policy will be communicated promptly at this location. Please check our privacy page periodically to review any changes that may have been made.
-
-**Thank you for visiting the NPF Web site. We value your interest and ideas. If you have any comments or concerns regarding the use of information provided by NPF via an Internet site please  [ _contact us_](http://www.parkinson.org/site/lookup.asp?c=9dJFJLPwB&b=71158) _._**
+NPF reserves the right to make changes to this policy without notice.  Any changes to this privacy policy will be reflected in changes on this page. Please check this privacy page periodically to review any changes that may have been made.
