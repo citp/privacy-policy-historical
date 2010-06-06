@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617045028id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the natural-holistic-health.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606040610id_/http%3A//www.natural-holistic-health.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Natural Holistic Health Blog
 
-## [Privacy Policy](http://www.natural-holistic-health.com/privacy-policy-2/ "Privacy Policy")
+## Privacy Policy
 
 **Natural Holistic Health Blog** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
@@ -23,3 +23,7 @@ Note that you can change your browser settings to disable cookies if you have pr
 ## Contact Information
 
 Concerns or questions about this privacy policy can be directed to support@natural-holistic-health.com for further clarification.
+
+## Email Policy
+
+We take our readers’ privacy very seriously. You can rest assured that your email address, name or any other personal information will be shared for any reason. Email addresses are collected for the purpose of sending article updates from Natural Holistic Health Blog and for no other purpose. Natural Holistic Health Blog Article updates are sent, on average, only once per week.
