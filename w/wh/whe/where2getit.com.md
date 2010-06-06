@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230133825id_/http%3A//www.where2getit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the where2getit.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606095916id_/http%3A//www.where2getit.com/privacy-policy) for the most accurate reproduction.*
 
 # Where 2 Get It » Privacy Policy
 
 ## Privacy Policy
 
-The Where 2 Get It name and reputation were built on a foundation of trust. Where 2 Get It is committed to working with public policy organizations, industry groups and government institutions to understand and address privacy issues as they relate to visitors to our Website. This online privacy statement tells you about the information Where 2 Get It collects through the services available on our website, http://www.where2getit.com (the “Website”), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us at [privacy@where2getit.com.](mailto:privacy@where2getit.com)
+The Where 2 Get It name and reputation were built on a foundation of trust. Where 2 Get It is committed to working with public policy organizations, industry groups and government institutions to understand and address privacy issues as they relate to visitors to our Website. This online privacy statement tells you about the information Where 2 Get It collects through the services available on our website, http://www.where2getit.com (the “Website"), how we use that information and how you can opt out of certain uses of information we may collect. If you have any questions about our privacy policy or our use of your information, you can email us at [privacy@where2getit.com.](mailto:privacy@where2getit.com)
 
 PLEASE READ THIS PRIVACY STATEMENT CAREFULLY BEFORE USING ANY OF WHERE2GETIT’S SERVICES DESCRIBED BELOW. BY USING ANY SUCH SERVICES YOU ARE ACKNOWLEDGING THAT YOU HAVE READ AND UNDERSTAND THIS POLICY AND THAT YOU AGREE TO BE BOUND BY ITS TERMS. IF YOU DO NOT AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY STATEMENT, SIMPLY EXIT THIS PAGE WITHOUT ACCESSING OR USING ANY OF OUR SERVICES.
 
