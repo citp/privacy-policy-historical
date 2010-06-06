@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostso.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231124445id_/http%3A//www.hostso.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostso.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606065253id_/http%3A//www.hostso.com/privacy_policy.php) for the most accurate reproduction.*
 
 # HostSo - Privacy Policy
 
@@ -90,10 +90,10 @@ As a consequence we may change this privacy policy from time to time or as the n
 
 ## More Policies:
 
-[Service Level Agreement](https://web.archive.org/web/20091231124445id_/http%3A//www.hostso.com/service_level_agreement.php)
+[Service Level Agreement](https://web.archive.org/web/20100606065253id_/http%3A//www.hostso.com/service_level_agreement.php)
 
-[Terms of Service](https://web.archive.org/web/20091231124445id_/http%3A//www.hostso.com/terms_of_service.php)
+[Terms of Service](https://web.archive.org/web/20100606065253id_/http%3A//www.hostso.com/terms_of_service.php)
 
-[Refund Policy](https://web.archive.org/web/20091231124445id_/http%3A//www.hostso.com/refund_policy.php)
+[Refund Policy](https://web.archive.org/web/20100606065253id_/http%3A//www.hostso.com/refund_policy.php)
 
-[Acceptable Usage](https://web.archive.org/web/20091231124445id_/http%3A//www.hostso.com/acceptable_use_policy.php)
+[Acceptable Usage](https://web.archive.org/web/20100606065253id_/http%3A//www.hostso.com/acceptable_use_policy.php)
