@@ -1,12 +1,34 @@
-<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2009-10-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091008111038id_/http%3A//www.afrihost.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the afrihost.com privacy policy that was archived on 2010-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100606080907id_/http%3A//www.afrihost.com/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head> <title>Contact Afrihost.com | Web Hosting Provider in Rivonia, Sandton, Johannesburg / JHB, South Africa</title> <meta name="Description" content="Afrihost Contact Details | PHP, mySQL, Perl, CPanel, Fantastico"> <meta name="Keywords" content="web hosting south africa, domain registration, domain name registration, best web hosting provider, nt, linux, asp, php, mysql, postgres, Dial up, Dialup,web design, website design, content management, Computer Internet Consultants, Computers, Employment, Jobs, Vacancies, Search engine, directory, ecommerce, shopping basket, resellers">
 
 <link rel="stylesheet" type="text/css" href="v3-includes/style.css"> <script type="text/javascript" language="JavaScript" src="v3-includes/info-hover.js"></script>
 <link rel="shortcut icon" href="favicon.ico">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-</head>
+<link href="afrinew.css" rel="stylesheet" type="text/css" media="all">
+<script language="javascript" type="text/javascript" src="jquery.js"></script>
+<script language="javascript" type="text/javascript">
+		function czlogin()
+		{
+			$("#czlogin").slideDown("slow");
+			$('#blackout').show();
+			$('#blackout').animate({opacity: "0.8"}, {queue:false, duration:250} );
+			return false;
+		}
+		
+		function czclose()
+		{
+			$("#czlogin").slideUp("slow");
+			$('#blackout').animate({opacity: "0.0"}, 1000, function() { 
+				$('#blackout').hide(); 
+			});
+		}
+		
+		function czload() {
+			document.getElementById("centerbtn").innerHTML="<img src='images/loading.gif' />";	
+		} 
+</script></head>
 <body>
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
@@ -14,7 +36,7 @@
 
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td height="30" class="top_menu"><img src="images/inv_26.gif" width="1" height="10" alt="web hosting south africa, domain registration, nt, linux, asp, php, mysql, postgres, directory, ecommerce, e-commerce, shopping basket, resellers, adsl, broadband"><a href="resellers.php">Reseller Hosting</a>  |  <a href="affiliates.php">Affiliates</a>  |  <a href="about.php">About</a>  |  <a href="linux-hosting.php">Pricing</a>  |  <a href="contact.php">Contact</a>  | <a href="support.php">Support</a> |  <a href="https://clientzone.afrihost.com"><strong>Client Zone</strong></a>&nbsp;&nbsp;&nbsp; </td>
+    <td height="30" class="top_menu"><img src="images/inv_26.gif" width="1" height="10" alt="web hosting south africa, domain registration, nt, linux, asp, php, mysql, postgres, directory, ecommerce, e-commerce, shopping basket, resellers, adsl, broadband"><a href="status.php"><strong>STATUS ALERTS!</strong></a>  |  <a href="resellers.php">Reseller Hosting</a>  |  <a href="about.php">About</a>  |  <a href="linux-hosting.php">Pricing</a>  |  <a href="contact.php">Contact</a>  | <a href="support.php">Support</a> |  <a href="#" onclick="javascript:czlogin();"><strong>Client Zone</strong></a>&nbsp;&nbsp;&nbsp; </td>
   </tr>
 </tbody></table>
 <table width="100%" height="45" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -33,14 +55,28 @@
 <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td width="138"><img src="images/logo_bottom.jpg" alt="Website Hosting | Domain Registration | Webhosting | ADSL" width="138" height="30"></td>
-    <td background="images/top_menu_back.jpg" class="main_menu"><a href="home.php">Home</a>  &nbsp;|&nbsp;  <a href="adsl-broadband-internet.php" title="ADSL Broadband Plans">ADSL Broadband</a>  &nbsp;|&nbsp;  <a href="linux-hosting.php" title="Website Hosting">Web Hosting</a>  &nbsp;|&nbsp;  <a href="domains.php">Domain Search</a>&nbsp;  |&nbsp;  <a href="dedicated-server-web-hosting.php" title="Dedicated Server Hosting">Dedicated Server</a>  &nbsp;|&nbsp;  <a href="mybackups.php">MyBackups</a></td>
+    <td background="images/top_menu_back.jpg" class="main_menu"><a href="home.php">Home</a>  &nbsp;|&nbsp;  <a href="adsl-broadband-internet.php" title="ADSL Broadband Plans">ADSL Capped</a>  &nbsp;|&nbsp;  <a href="adsl-uncapped.php" title="ADSL Uncapped Plans">ADSL Uncapped</a>  &nbsp;|&nbsp;  <a href="linux-hosting.php" title="Website Hosting">Web Hosting</a>  &nbsp;|&nbsp;  <a href="domains.php">Domain Names</a>&nbsp;  |&nbsp;  <a href="dedicated-server-web-hosting.php" title="Dedicated Server Hosting">Dedicated Server</a>  &nbsp;</td>
     <td width="15" align="right" background="images/top_menu_back.jpg"><img src="images/top_menu_right.jpg" width="5" height="30"></td>
   </tr>
 </tbody></table>
 </td>
   </tr>
 </tbody></table>
- <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
+
+<div id="blackout"></div>
+<form action="https://clientzone.afrihost.com/login" enctype="multipart/form-data" method="post" onsubmit="czload();">
+    <div id="czlogin">
+    	<div id="pop_head" onclick="czclose();"></div>
+    	<div class="inner">
+            <p>Please enter your login credentials to access the clientzone</p>
+            <label><span>Email</span> <input type="text" name="username" id="username" class="field"></label>
+            <label><span>Password</span> <input type="password" name="password" id="upassword" class="field"></label>
+			<div id="centerbtn"><input id="btn_submit" name="Submit" value="Submit" type="image" src="images/btn_submit.gif"></div> 
+        </div> 
+        <div id="pop_foot"></div>
+    </div>
+</form>
+<div class="hideme"><img src="images/loading.gif"></div> <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td><img src="images/gap.jpg" width="145" height="30"></td>
   </tr>
@@ -123,7 +159,7 @@
             </tr>
           </tbody></table>
           
-          <h2 class="std">If you have any questions at all please contact us and chat to our friendly web hosting experts on 011 234 5045 or drop us an email at <a href="mailto:support@afrihost.com">support@afrihost.com</a>. </h2>
+          <h2 class="std">If you have any questions at all please contact us and chat to our friendly web hosting experts on 011 612 7200 or drop us an email at <a href="mailto:support@afrihost.com">support@afrihost.com</a>. </h2>
  <p>
 </p></td>
       </tr>
@@ -132,28 +168,34 @@
 </tbody></table>
 <p>
   
+
+
+
+
+
 </p><table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td height="37"><img src="../images/spotlight_sarocks.jpg" alt="Web Hosting Testimonials | South Africa" width="900" height="37"></td>
+        <td height="37"><img src="../images/cust_test_1.jpg" alt="ADSL &amp; Web Hosting Testimonials | South Africa" width="900" height="37"></td>
       </tr>
     </tbody></table>
     </td>
   </tr>
 </tbody></table>
-<table width="900" height="112" border="0" align="center" cellpadding="0" cellspacing="0" background="images/spotlight_sarocks_2.jpg">
+<table width="900" height="112" border="0" align="center" cellpadding="0" cellspacing="0" background="images/cust_test_2.jpg">
   <tbody><tr>
-    <td class="testimonials">We are proud to host SA Rocks, a blog nominated for the 2009 SA Blog Awards for South African Blog of the Year. SA Rocks stands for all the good in South Africa and we're very proud to be associated with it!    </td>
+    <td class="testimonials">I just want to let you know how pleased I am in the manner you treated me last week. From the time I made the call until you walked me out the Afrihost office - the whole experience was just too good. It was professional and filled with rapport and care.
+    </td>
   </tr>
   <tr>
-    <td class="testimonial_link"><a href="http://www.sarocks.co.za" title="Web Hosting Testimonials" target="_blank" class="testimonial_link">Click here to visit SA Rocks and see the sunny side of South Africa &gt;&gt;</a> </td>
+    <td class="testimonial_link"><a href="testimonials.php" class="testimonial_link" title="Web Hosting Testimonials">Read All Our Client's Comments &gt;&gt;</a> </td>
   </tr>
 </tbody></table>
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
-    <td height="65" valign="bottom"><div align="center">
-      <h1 class="slogan">Our Promise: 100% Passion. 100% Web Hosting. Or Your Money Back.</h1>
+    <td height="30" valign="bottom"><div align="center">
+      <p>&nbsp;&nbsp;</p>
     </div></td>
   </tr>
 </tbody></table>
@@ -252,6 +294,7 @@ function toggle(ele, link){
                           <li class="content_small"><a href="live-web-hosting.php">Webcam</a></li>
                           <li class="content_small"><a href="client-zone-prizes.php">Win an Apple iPhone</a></li>
                           <li class="content_small"><a href="terms.php">Terms &amp; Conditions</a> </li>
+                          <li class="content_small"><a href="status.php">Network Status</a> </li>
                         </ul>
                       </div>
                     </div></td>
@@ -334,6 +377,7 @@ function toggle(ele, link){
                         <li class="content_small"><a href="adsl-power-high-bandwidth.php">ADSL Power User Plans</a></li>
                         <li class="content_small"><a href="adsl-prepaid-bandwidth.php">ADSL Prepaid Bandwidth</a> </li>
                         <li class="content_small"><a href="adsl-how-to-get-broadband.php">How to get ADSL Broadband</a></li>
+                        <li class="content_small"><a href="http://www.afrihost.com">Cheap ADSL: R29/GB</a></li>
                         </ul>
                     </div>
                   </div></td>
@@ -363,15 +407,15 @@ function toggle(ele, link){
     <td colspan="3" class="footer_big"><p class="footer_big" align="center">&nbsp;</p>
       <p class="footer_big" align="center"><a href="http://www.dedicated.co.za" target="_blank" title="Afrihost Blog - Dedicated to your website success">We are Dedicated to your Website Success!</a></p>
       <p class="footer_big" align="center">Copyright
-                © 2000 - 2009 Afrihost.com: <a href="http://www.afrihost.com">South Africa Web Hosting Provider</a> ... Best <a href="http://www.afrihost.com">Web Hosting</a> Ever!</p>
+                © 2000 - 2010 Afrihost.com | <a href="http://www.afrihost.com">South Africa ADSL &amp; Web Hosting Provider</a> ... Best <a href="http://www.afrihost.com">Web Hosting</a> Ever!</p>
       <p align="center">&nbsp;</p></td>
   </tr>
   <tr>
     <td width="268" class="footer_big"><div align="center"><a href="http://www.afrihost.com/privacy-policy.php" class="style2">Privacy Policy<br>
     </a></div></td>
     <td width="357" class="footer_small"><p align="center"><span class="footer_small><div align="><a href="http://www.ispa.org.za/code"><img src="http://www.afrihost.com/images/ispa_member.jpg" alt="Afrihost is a proud ISPA Member and upholds the ISPA Code of Conduct" border="0"></a></span><br>
-        <a href="http://www.ispa.org.za/code" class="style2">We are a proud member of ISPA and uphold the ISPA Code of Conduct</a><a href="http://www.afrihost.com/privacy-policy.php" class="style2"></a></p>      </td>
-    <td width="275" class="footer_big"><div align="center"><a href="http://www.afrihost.com/aup.php" class="style2">Acceptable Use Policy</a></div></td>
+        <a href="http://www.ispa.org.za/code" class="style2">We are a proud member of ISPA and uphold the ISPA Code of Conduct</a><a href="http://www.afrihost.com/privacy-policy.php" class="style2"></a><br><br></p>      </td>
+    <td width="275" class="footer_big"><div align="center"><a href="http://www.afrihost.com/aup.php" class="style2">Acceptable Use Policy</a><br></div></td>
   </tr>
 </tbody></table>
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
@@ -382,7 +426,7 @@ function toggle(ele, link){
 <table width="900" border="0" align="center" cellpadding="0" cellspacing="0">
   <tbody><tr>
     <td class="footer"><p class="footer" align="center"><a href="http://www.newsprout.com.au" target="_blank">Web Hosting in Australia</a> | <a href="http://www.afridesign.com" target="_blank">Web Design in South Africa</a> | <a href="http://www.afrihost.com/sms-reminders.php" target="_blank">SMS Reminders | Automatic SMS Messages | Bulk SMS</a><a href="http://www.gofishclientcatchers.com/services/search_engine_optimization"></a><br>
-      <a href="http://www.gofishclientcatchers.com">Go Fish Client Catchers . Website Design and Development, Google Adwords and Online Marketing</a><br>
+      Go Fish Client Catchers - <a href="http://www.gofishclientcatchers.com/search_engine_optimization">Search Engine Optimisation</a> and <a href="http://www.gofishclientcatchers.com/website_design_and_development">Web Development</a><br>
       <a href="http://www.mybackups.co.za">Online Backups | Remote Data Backup Storage by MyBackups | Daily, Encrypted &amp; in South Africa</a>
 
 
@@ -400,13 +444,8 @@ function toggle(ele, link){
 
 
 
+   
   <script type="text/javascript">
-document.write('\<script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/jquery.js"\>\</script\>');
-document.write('\<script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/jquery.catfish.js"\>\</script\>');
-document.write('\<script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/ads.js.php?reload='
- + Math.floor(Math.random()*1000000) + 
- '&single=100"\>\</script\>');
-</script><script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/jquery.js"></script><script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/jquery.catfish.js"></script><script type="text/javascript" src="http://www.afrihost.com/popp/javascripts/ads.js.php?reload=22395&amp;single=100"></script>  <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
