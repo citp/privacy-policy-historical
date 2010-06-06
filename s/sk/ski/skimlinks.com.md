@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skimlinks.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228163619id_/http%3A//skimlinks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skimlinks.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606093127id_/http%3A//www.skimlinks.com/privacy) for the most accurate reproduction.*
 
 # Skimlinks :: Privacy Policy
 
