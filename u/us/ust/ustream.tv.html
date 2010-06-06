@@ -1,21 +1,538 @@
-<!--The following is the downloaded HTML source of the ustream.tv privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231215123id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ustream.tv privacy policy that was archived on 2010-06-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100606105429id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/2000/REC-xhtml1-20000126/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
 		<title>USTREAM Privacy Policy: Personal and User Information, Security</title>
 		<link rel="SHORTCUT ICON" href="http://cdn2.ustream.tv/static/images/favicon:1.ico">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-		<script type="text/javascript">var initialNotificationData={"items":[{"id":"75","text":"Watch New Years Celebrations LIVE from Times Square 8:45pm PST\/11:45pm EST","onclick":"","link":"http:\/\/www.ustream.tv\/channel\/CBS-news","breaking":"1"},{"id":"2","text":"You could be broadcasting live in a few seconds. Create a show!","onclick":"$('#signupShow').click();","link":"#","breaking":"0"},{"id":"3","text":"Did you know that you can poll your viewers during your live broadcast? Broadcast now!","onclick":"$('#signupShow').click();","link":"#","breaking":"0"},{"id":"10","text":"Broadcast in high quality! The picture is amazing!","onclick":"","link":"\/higher-quality","breaking":"0"},{"id":"11","text":"Watch Ustream from your iPhone! Anywhere, anytime. Download Now!","onclick":"","link":"http:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewSoftware?id=301520250&mt=8","breaking":"0"},{"id":"12","text":"Broadcast live from your mobile phone! Check it out.","onclick":"","link":"\/mobile","breaking":"0"},{"id":"13","text":"Follow us on Twitter @Ustream to get alerts on cool streams.","onclick":"","link":"http:\/\/twitter.com\/ustream","breaking":"0"},{"id":"30","text":" Want a shot at the homepage? Create highlights from your recordings!","onclick":"","link":"http:\/\/www.ustream.tv\/discovery\/highlight","breaking":"0"}],"lastId":"75","flag":3,"refreshInterval":120};var pageId="Static_Privacy";var loggedIn=false;var loggedInWithFacebook=false;var pageUrl="\/privacy-policy";var staticUrl="http:\/\/cdn1.ustream.tv\/";var imagesToPreload=["http:\/\/cdn2.ustream.tv\/static\/images\/ajax-loader-small:16422.gif","http:\/\/cdn2.ustream.tv\/static\/images\/ajax-loader-big:16422.gif"];var appliedRevshare=false;var revshareConditionsMet=null;var needTwitterAuth=true;var broadcastProperties=[];var broadcastNowUrl="\/get-started";</script>				
-						
+				<script type="text/javascript">
+	//if (window.Ustream) throw("fw overwrite error");
+	var UstreamLabels = {
+			//twitterWidget.js
+			"js.twitter_widget.bad_words": 'ass,14 words,5 words,anal,anal sex,arse,arsehole,asses,asshole,asswipe,azz,azzes,azzhole,bastard,BDSM,beaner,beatch,biatch,bitch,bizatch,blowjob,blueballs,bondage,boob,boobs,bordello,bugger,buggery,bunghole,butthead,butthole,buttlick,buttsex,buttwipe,cameltoe,candyass,carpetmunch,clit,clitoris,cock,cockbite,cocks,cocksmoker,cocksuck,cocksucka,cocksucker,corn hole,crap,cum,cunnilingus,cunt,damn,desu,dick,dickbite,dickhead,dicklick,dicklicka,dicklicker,dicks,dicksuck,dicksucka,dicksucker,dicksucking,diddle,dildo,dingleberr,doggiestyle,dong,douche,dyke,dykes,dykes,f?ck,fack,fag,fag,faggot,fapped,fart,farts,fatass,fatboy,fatfat,fatpig,fattie,felch,feltch,fingerpulla,fittslickare,fittytuck,freaking,friggin,frikking,front14,fuck,fucker,fudgepack,fudgepacka,fudgepacker,fudgepacking,fuk,funkyass,gangbang,goatse,god hates fags,golden shower,handjob,hitler,homo,horney,horny,jackass,jacking,jackoff,jerk,jerking,jisim,jism,jizz,jizzum,kike,kkk,kyke,kykes,lemonparty,masterbat,masturbat,meatrack,meatspin,monkeyass,motharfuk,motherfuk,motherfuka,motherukka,mudkip,mudlover,mudpeople,muff,muffdive,mutherfuk,n1ger,n1gger,n1ggerz,n1grah,niger,nigga,niggah,niggaz,nigger,nigg-er,niggers,niggez,nigra,orgasm,pecker,penis,penus,pimp,piss,poontang,poopshoot,porchmonkey,porn,prick,pube,pussies,pussy,pussylicker,queef,rahowa,rape,rectal,rectum,rimjob,scallywag,schlong,secks,sh1t,shit,shitting,sixty-nine,skank,slanteyes,slanthead,slut,sonuvabitch,spic,spooge,stiffy,suckass,taint,tinkle,tit,tits,tits,titties,titty,totse,tubgirl,turd,twat,twats,vagina,wang,wanker,wcotc,wetback,wetbacks,wetfart,whitepower,whore,whores,wop,yid,zipperhead,suck',
+			"js.twitter_widget.less_than_5_seconds": 'less than 5 seconds ago',
+			"js.twitter_widget.less_than_10_seconds": 'less than 10 seconds ago',
+			"js.twitter_widget.less_than_20_seconds": 'less than 20 seconds ago',
+			"js.twitter_widget.half_minute_ago": 'half a minute ago',
+			"js.twitter_widget.one_minute_ago": '1 minute ago',
+			"js.twitter_widget.minutes_ago": '#n# minutes ago',
+			"js.twitter_widget.about_one_hour_ago": 'about 1 hour ago',
+			"js.twitter_widget.about_hours_ago": 'about #number# hours ago',
+			"js.twitter_widget.login_with_twitter": 'Login with Twitter',
+			"js.twitter_widget.username": 'Username',
+			"js.twitter_widget.password": 'Password',
+			"js.twitter_widget.network_error": 'Network error. Please retry.',
+			"js.twitter_widget.hey": 'Hey #user#',
+			"js.twitter_widget.enter_a_message": 'Enter a message.',
+			"js.twitter_widget.inappropriate_language": 'Inappropriate language.',
+			"js.twitter_widget.too_many_characters": 'Ack! Too many characters!',
+			"js.twitter_widget.follow_us_for_live_updates": 'Follow us for live updates!',
+			"js.twitter_widget.you_are_now_following_us": 'You are now following us!',
+			"js.twitter_widget.please_wait_before_tweet": 'Please wait #number# seconds before tweeting again.',
+			//socialStream.js
+			"js.social_stream_login.unknown_error_code": 'Unknown error code!',
+			"js.social_stream_login.unknown_error": 'Unknown error!',
+			"js.social_stream_login.error": 'Error!',
+			"js.social_stream_login.login_error": 'Login error!',
+			"js.social_stream_login.cookie_not_found": 'Cookie not found!',
+			"js.social_stream_login.timeout": 'Timeout!',
+			"js.social_stream_login.facebook_logout_error": 'Facebook logout error!',
+			"js.social_stream_login.allow_publish_your_wall": 'You have to allow to publish comments to your wall!',
+			"js.social_stream.badwords": 'ass,14 words,5 words,anal,anal sex,arse,arsehole,asses,asshole,asswipe, azz, azzes,azzhole,bastard,BDSM,beaner,beatch,biatch,bitch,bizatch,blowjob,blueballs,bondage,boob,boobs,bordello,bugger,buggery,bunghole,butthead,butthole,buttlick,buttsex,buttwipe,cameltoe,candyass,carpetmunch,clit,clitoris,cock,cockbite,cocks,cocksmoker,cocksuck,cocksucka,cocksucker,corn hole,crap,cum,cunnilingus,cunt,damn,desu,dick,dickbite,dickhead,dicklick,dicklicka,dicklicker,dicks,dicksuck,dicksucka,dicksucker,dicksucking,diddle,dildo,dingleberr,doggiestyle,dong,douche,dyke,dykes,dykes,f?ck,fack,fag,fag,faggot,fapped,fart,farts,fatass,fatboy,fatfat,fatpig,fattie,felch,feltch,fingerpulla,fittslickare,fittytuck,freaking,friggin,frikking,front14,fuck,fucker,fudgepack,fudgepacka,fudgepacker,fudgepacking,fuk,funkyass,gangbang,goatse,god hates fags,golden shower,handjob,hitler,homo,horney,horny,jackass,jacking,jackoff,jerk,jerking,jisim,jism,jizz,jizzum,kike,kkk,kyke,kykes,lemonparty,masterbat,masturbat,meatrack,meatspin,monkeyass,motharfuk,motherfuk,motherfuka,motherukka,mudkip,mudlover,mudpeople,muff,muffdive,mutherfuk,n1ger,n1gger,n1ggerz,n1grah,niger,nigga,niggah,niggaz,nigger,nigg-er,niggers,niggez,nigra,orgasm,pecker,penis,penus,pimp,piss,poontang,poopshoot,porchmonkey,porn,prick,pube,pussies,pussy,pussylicker,queef,rahowa,rape,rectal,rectum,rimjob,scallywag,schlong,secks,sh1t,shit,shitting,sixty-nine,skank,slanteyes,slanthead,slut,sonuvabitch,spic,spooge,stiffy,suckass,taint,tinkle,tit,tits,tits,titties,titty,totse,tubgirl,turd,twat,twats,vagina,wang,wanker,wcotc,wetback,wetbacks,wetfart,whitepower,whore,whores,wop,yid,zipperhead,suck',
+			"js.social_stream.password": 'password',
+			//revshare.js - site.js
+			"js.revshare.introducing_title": 'Introducing the Ustream Partner Program!',
+			"js.revshare.partner_with_ustream": 'Partner with Ustream and Make Money!',
+			"js.revshare.relevant_ads": 'Relevant ads are placed in your stream.',
+			"js.revshare.earn_ad_revenue": 'Earn 50% of ad revenue generated by your content.',
+			"js.revshare.no_fees": 'No fees. Secure and safe.',
+			"js.revshare.cancel": 'Cancel',
+			"js.revshare.apply": 'Apply',
+			"js.revshare.error": 'Error!',
+			//broadcast.js
+			"js.broadcast.broadcast_now": 'Broadcast Now!',
+			"js.broadcast.broadcast": 'Broadcast!',
+			"js.broadcast.next": 'Next »',
+			"js.broadcast.cancel": 'Cancel',
+			"js.broadcast.which_show_to_broadcast_with": 'Which show do you want to broadcast with?',
+			"js.broadcast.select_category": 'Select category',
+			"js.broadcast.please_choose_category": 'Please choose a category',
+			//broadcaster.js
+			"js.broadcaster.flix_browser_plugin": 'Flix browser plugin',
+			"js.broadcaster.restart_broadcaster_console": 'Restart Broadcaster Console',
+			//broadcasterLite.js
+			"js.broadcaster_lite.stop_record": 'Stop Record',
+			"js.broadcaster_lite.live": 'Live',
+			"js.broadcaster_lite.no_broadcast_detected": 'No Broadcast Detected',
+			"js.broadcaster_lite.start_record": 'Start Record',
+			"js.broadcaster_lite.start": 'start',
+			"js.broadcaster_lite.stop": 'stop',
+			"js.broadcaster_lite.action_failed": 'Failed to #text#',
+			//channelDetails.js
+			"js.channel_details.beta_bubble_title": 'Beta Show Page',
+			"js.channel_details.beta_bubble_text": 'Hey there! You found our secret beta page. Its <strong>simple, clean, and wide screen</strong>. Let us know what you think, we can\\\'t wait to hear your feedback!',
+			"js.channel_details.info_show_more": 'show more',
+			"js.channel_details.info_show_less": 'show less',
+			//channelFeed.js
+			"js.channel_feed.comments": 'Comments',
+			"js.channel_feed.submit_action": 'Submit',
+			"js.channel_feed.or": 'or',
+			"js.channel_feed.cancel": 'cancel',
+			"js.channel_feed.error": 'Error!',
+			"js.channel_feed.delete_item_confirmation": 'Delete this item?',
+			"js.channel_feed.are_you_sure": 'Are you sure?',
+			"js.channel_feed.remove_from_list": 'Remove from list',
+			"js.channel_feed.cancel_action": 'Cancel',
+			"js.channel_feed.delete_action": 'Delete',
+			"js.channel_feed.approve_action": 'Approve',
+			"js.channel_feed.comment_action": 'Comment',
+			"js.channel_feed.number_attending": '(#number# attending)',
+			"js.channel_feed.rsvp": 'RSVP',
+			"js.channel_feed.live_broadcast_started": 'live broadcast started ',
+			"js.channel_feed.video_from": 'Video from',
+			"js.channel_feed.ustream_mobile_recorder": 'Ustream Mobile Recorder',
+			"js.channel_feed.ustream": 'Ustream',
+			"js.channel_feed.uploaded": 'uploaded',
+			"js.channel_feed.recorded": 'recorded',
+			"js.channel_feed.video_comment": 'Video Comment',
+			"js.channel_feed.show_all": 'All',
+			"js.channel_feed.show_videos": 'Videos',
+			"js.channel_feed.show_highlights": 'Highlights',
+			"js.channel_feed.leave_comment": 'Be the first to leave a comment!',
+			"js.channel_feed.no_items": 'There are no items to display yet.',
+			"js.channel_feed.use_channel_video_comments": 'Use this channel for all my video comments',
+			"js.channel_feed.select_channel_video_comment": 'Select channel to record your videocomment',
+			"js.channel_feed.next_action": 'Next »',
+			"js.channel_feed.channel_created": 'Channel created',
+			"js.channel_feed.please_wait": 'Please wait ... ',
+			"js.channel_feed.show_created": 'Your show "<em>#text#</em>" has been created, click "Continue".',
+			"js.channel_feed.could_not_create_channel": 'Sorry, could not create your channel, please try again later.',
+			"js.channel_feed.continue_action": 'Continue',
+			"js.channel_feed.record_action": 'Record',
+			"js.channel_feed.stop_record_action": 'Stop Recording',
+			"js.channel_feed.camera": 'Camera',
+			"js.channel_feed.microphone": 'Microphone',
+			"js.channel_feed.preview": 'Preview',
+			"js.channel_feed.save": 'Save',
+			"js.channel_feed.rerecord": 'Re-record',
+			"js.channel_feed.settings": 'settings',
+			"js.channel_feed.enter_comment": 'Enter your comment',
+			"js.channel_feed.cannot_record_while_broadcasting": 'You cannot record a video comment while your are broadcasting',
+			//channelTagline.js
+			"js.channel_tagline.updated_just_now": 'updated just now',
+			"js.channel_tagline.updated_ago": 'updated #text#',
+			"js.channel_tagline.no_update_yet": 'This channel hasn\'t got an update yet.',
+			//comments.js
+			"js.comments.error": 'Error!',
+			"js.comments.are_you_sure": 'Are you sure?',
+			"js.comments.ban_action": 'Ban',
+			"js.comments.unban_action": 'Unban',
+			//facebookConnect.js
+			"js.facebook.connect_ustream_with_facebook": 'Connect Ustream with Facebook...',
+			"js.facebook.facebook_connect": 'Facebook Connect',
+			"js.facebook.error": 'Error!',
+			"js.facebook.logout_confirmation": 'Are you sure? You will be logged out.',
+			//facebookLive.js
+			"js.facebook_live.invalid_show_url": 'Invalid show URL.',
+			"js.facebook_live.success": 'Success',
+			"js.facebook_live.application_submitted": 'Your application has been submitted.',
+			"js.facebook_live.error": 'Error',
+			"js.facebook_live.automatic": 'Automatic',
+			"js.facebook_live.application_modified": 'Your application has been modified.',
+			//feeds.js
+			"js.feeds.settings_saved": 'Your Settings Successfully Saved',
+			"js.feeds.settings_removed": 'Your Settings Successfully Removed',
+			"js.feeds.go_to_feed_viewer": 'Go to Feed viewer',
+			"js.feeds.set_feed_preferences": 'Set Feed Preferences',
+			"js.feeds.stop_following": 'Stop Following',
+			"js.feeds.follow_all_success": 'Successfully Follow All!',
+			//header.js
+			"js.header.welcome": 'Welcome',
+			"js.header.your_shows": 'Your Shows',
+			"js.header.dashboard": 'Dashboard',
+			"js.header.community": 'Community',
+			"js.header.profile": 'Profile',
+			"js.header.logout": 'Log out',
+			"js.header.hi": 'Hi',
+			"js.header.my_profile": 'My profile',
+			"js.header.login": 'Login',
+			"js.header.sign_up": 'Sign Up',
+			//highlight.js
+			"js.highlight.video_too_short": 'This video is too short for tagging, please use 10 seconds or longer videos!',
+			"js.highlight.title": 'Title',
+			"js.highlight.highlight_action": 'Highlight',
+			"js.highlight.share_action": 'Share',
+			"js.highlight.next_action": 'next »',
+			"js.highlight.describe_what_happened": 'describe what happened!',
+			"js.highlight.submit_action": 'submit »',
+			"js.highlight.drag_select_start_stop": 'drag to select start & stop',
+			"js.highlight.preview_action": 'preview',
+			"js.highlight.highlight_could_not_be_saved": 'An error happened, this highlight could not be saved. Sorry!',
+			"js.highlight.highlight_created": 'You created a highlight!',
+			"js.highlight.share_link": 'Share the link!',
+			"js.highlight.tagged_highlights": 'Tagged Highlights',
+			"js.highlight.editing_start_end": 'Editing Start/End Time',
+			"js.highlight.move_the_sliders": 'Move the sliders to the correct start and stop time',
+			"js.highlight.done_action": 'done »',
+			"js.highlight.changes_not_saved": 'An error happened, your changes could not be saved. Sorry!',
+			"js.highlight.successful_cut": 'You have changed the start and end time of your video! If you want to change again just click "Cut"',
+			//highlightSwitcher.js
+			"js.highlight_switcher.turn_off": 'turn off',
+			"js.highlight_switcher.turn_on": 'turn on',
+			"js.highlight_switcher.video_can_tagged_by_fans": 'This video can now be tagged by your fans and friends.',
+			"js.highlight_switcher.video_can_tagged_by_you": 'This video can now be tagged by you.',
+			"js.highlight_switcher.video_can_tagged_by_everyone": 'This video can now be tagged by everyone.',
+			"js.highlight_switcher.please_try_again": 'Please try again!',
+			//login.js
+			"js.login.login_failed": 'Login failed, please check your username and/or password.',
+			"js.login.login": 'Login',
+			//moment.js
+			"js.moment.error": 'Error!',
+			"js.moment.are_you_sure": 'Are you sure?',
+			"js.moment.unknown_error": 'An unknown error happened.',
+			//myprofile.js
+			"js.myprofile.account_delete_warning": 'Deleting your account will prevent you from creating a new account with the same email address. To use your current email address for your new account, please swap out your email address in this account.',
+			"js.myprofile.account_delete_confirmation": 'Are you sure you wish to delete your account?',
+			//myshows.js
+			"js.myshows.channel_delete_confirmation": 'Wait! Deleting your channel will remove all videos associated with it. Would you like to continue?',
+			"js.myshows.please_wait": 'please wait!',
+			"js.myshows.error": 'Error!',
+			//myshows.js
+			"js.myshows_design.unsaved_theme_switch_confirmation": 'You have modified the current theme and you will lose your unsaved changes if you switch the theme now. Are you sure you want to switch to this theme?',
+			"js.myshows_design.theme_selected": 'Theme selected! Click save to apply.',
+			//myshows.js
+			"js.myshows_videofeed.remove_hashtag": 'remove this hashtag',
+			"js.myshows_videofeed.unapprove_user": 'unapprove this user',
+			"js.myshows_videofeed.user_already_banned": 'This user is already on your banned list.',
+			"js.myshows_videofeed.user_already_approved": 'This user is already on your approved list.',
+			"js.myshows_videofeed.unban_this_user": 'unban this user',
+			//myshows.js
+			"js.myshows_advanced.password_retype_mismatch": 'Password and retyped password not equal!',
+			"js.myshows_advanced.password_missing": 'Please enter password!',
+			"js.myshows_advanced.password_retype_missing": 'Please enter retyped password!',
+			"js.myshows_advanced.deop_user": 'deop this user',
+			//myshows.js
+			"js.myshows_offair.remove_favourites": 'Remove from favorites',
+			"js.myshows_offair.failed_remove_favourites": 'Failed to remove video from offair clips!',
+			"js.myshows_offair.add_favourites": 'Add to favorites',
+			"js.myshows_offair.failed_add_favourites": 'Failed to add video to offair clips!',
+			"js.myshows_offair.remove_all_favourites_confirmation": 'Are you sure, you want to remove all Favorites for this channel?',
+			"js.myshows_offair.failed_remove_all_favourites": 'Failed to remove all videos from offair clips!',
+			//myshows.js
+			"js.myshows_schedule.event_delete_confirmation": 'Are you sure want to delete this event?',
+			//myshows.js
+			"js.myshows_affiliate.books": 'Books',
+			"js.myshows_affiliate.albums": 'Albums',
+			"js.myshows_affiliate.tracks": 'Tracks',
+			"js.myshows_affiliate.apps": 'Apps',
+			"js.myshows_affiliate.ringtones": 'Ringtones',
+			"js.myshows_affiliate.title": 'Title',
+			"js.myshows_affiliate.publisher": 'Publisher',
+			"js.myshows_affiliate.author": 'Author',
+			"js.myshows_affiliate.name": 'Name',
+			"js.myshows_affiliate.vendor": 'Vendor',
+			"js.myshows_affiliate.track_name": 'Track Name',
+			"js.myshows_affiliate.album": 'Album',
+			"js.myshows_affiliate.artist": 'Artist',
+			"js.myshows_affiliate.add": 'Add',
+			"js.myshows_affiliate.error_no_results": 'Oops, no results! Did you spell your name right? :)',
+			"js.myshows_affiliate.merchant": 'Merchant',
+			"js.myshows_affiliate.remove": 'Remove',
+			"js.myshows_affiliate.error": 'Error!',
+			"js.myshows_affiliate.are_you_sure": 'Are you sure?',
+			//mySpaceApp.js
+			"js.myspace_app.error": 'Error!',
+			"js.myspace_app.message_not_sent": 'Your message was not sent!',
+			//mySpaceChat.js
+			"js.myspace_chat.error": 'Error!',
+			"js.myspace_chat.message_not_sent": 'Your message was not sent!',
+			//mySpaceConnect.js
+			"js.myspace_connect.login_error": 'login error',
+			//mySpaceLive.js
+			"js.myspace_live.invalid_show_url": 'Invalid show URL.',
+			"js.myspace_live.success": 'Success',
+			"js.myspace_live.application_submitted": 'Your application has been submitted.',
+			"js.myspace_live.error": 'Error',
+			"js.myspace_live.automatic": 'Automatic',
+			"js.myspace_live.application_modified": 'Your application has been modified.',
+			//myvideos.js
+			"js.myvideos.video_delete_confirmation": 'Are you sure want to delete this Item?',
+			"js.myvideos.status": 'Status',
+			"js.myvideos.description_limit_reached_error": 'Video description limit (2000 character) reached.',
+			"js.myvideos.provide_description": 'Please provide a description of your show.',
+			"js.myvideos.submit_tags": 'Please submit three tags or more. These tags should describe your show.',
+			"js.myvideos.upload_in_progress": 'Upload in progress',
+			//productionServices.js
+			"js.production_services.required_field_error": 'This field is required',
+			"js.production_services.provide_email_error": 'Please provide a valid email address',
+			"js.production_services.success_title": 'Success',
+			"js.production_services.success_message": 'Your application has been submitted.',
+			"js.production_services.error_title": 'Error',
+			"js.production_services.error_message": 'Error!',
+			//share.js
+			"js.share.tweet_out_show": 'Tweet out the show',
+			"js.share.tweet_sent": 'Your tweet has been sent.',
+			"js.share.sending_error": 'Sending error.',
+			"js.share.email_your_friends": 'Email your friends',
+			"js.share.message_sent": 'Your message has been sent.',
+			//show.js
+			"js.show.more_description": 'more...',
+			"js.show.number_viewers": '#number# viewers',
+			//showHeader.js
+			"js.show_header.updated_just_now": 'updated just now',
+			"js.show_header.updated_ago": 'updated #text# ago',
+			"js.show_header.no_update_yet": 'This channel hasn\'t got an update yet.',
+			"js.show_header.minute": 'minute',
+			"js.show_header.hour": 'hour',
+			"js.show_header.week": 'week',
+			"js.show_header.minutes": 'minutes',
+			"js.show_header.hours": 'hours',
+			"js.show_header.weeks": 'weeks',
+			//signup.js
+			"js.signup_step1.welcome_to_ustream": 'Welcome to Ustream!',
+			"js.signup_step1.login_to_ustream": 'Login to Ustream',
+			"js.signup_step1.create_an_account": 'Create An Account',
+			"js.signup_step1.your_profile": 'Your Profile',
+			"js.signup_step1.find_your_friends": 'Find Your Friends',
+			//signup_step2.js  // actually, this will come in v3.0
+			"js.signup_step2.first_name": 'First Name',
+			"js.signup_step2.last_name": 'Last Name',
+			"js.signup_step2.gender": 'Your Gender',
+			"js.signup_step2.male": 'Male',
+			"js.signup_step2.female": 'Female',
+			"js.signup_step2.country": 'Country',
+			"js.signup_step2.zipcode": 'Zip Code',
+			"js.signup_step2.city": 'City',
+			"js.signup_step2.next_step": 'Next Step',
+			"js.signup_step2.welcome_title": 'Welcome to Ustream!',
+			"js.signup_step2.welcome_text": 'You\\\'ve successfully registered to Ustream!<br />Before customizing your other settings, please fill out your profile information.',
+			"js.signup_step2.create_an_account": 'Create An Account',
+			"js.signup_step2.your_profile": 'Your Profile',
+			"js.signup_step2.find_your_friends": 'Find Your Friends',
+			// signupStep3.js
+			"js.signup_step3.done_next_step": 'Done. Next Step.',
+			//socialStream.js
+			"js.social_stream_example.name1": 'Mike',
+			"js.social_stream_example.message1": 'I dare you to do it!',
+			"js.social_stream_example.name2": 'Sam',
+			"js.social_stream_example.message2": 'Wow. Is this live? This is awesome! How often do you broadcast?',
+			"js.social_stream_example.name3": 'David',
+			"js.social_stream_example.message3": 'My friend just told me to come watch this!',
+			"js.social_stream_example.name4": 'Kevin',
+			"js.social_stream_example.message4": 'Hey guys, you catch yesterday\\\'s show? Was crazy!',
+			"js.social_stream_example.name5": 'Matt',
+			"js.social_stream_example.message5": 'I saw posts about this show on Twitter, Facebook, Myspace, and AIM! Nuts!',
+			"js.social_stream_example.name6": 'Morgan',
+			"js.social_stream_example.message6": 'Hahaha, that was really funny.',
+			"js.social_stream_example.name7": 'Emma',
+			"js.social_stream_example.message7": 'This is really cool.',
+			"js.social_stream_example.name8": 'Katie',
+			"js.social_stream_example.message8": 'I just followed you!',
+			"js.social_stream_example.name9": 'Kelsey',
+			"js.social_stream_example.message9": 'Do you have any dogs? Have you seen the Shiba Inu puppies?',
+			"js.social_stream_example.name10": 'Erica',
+			"js.social_stream_example.message10": 'I could watch this all day.',
+			"js.social_stream_example.name11": 'Caitlin',
+			"js.social_stream_example.message11": 'Best. Show. Ever. Period.',
+			//socialStream.js
+			"js.social_stream_example.welcome_title": 'Welcome to the Social Stream!',
+			"js.social_stream_example.welcome_text": 'You can login and interact with Twitter, Facebook, MySpace and AIM. Try it out!',
+			//socialStream.js
+			"js.social_stream.welcome_title": 'Welcome to the Social Stream!',
+			"js.social_stream.welcome_text": 'You can login and interact with Twitter, Facebook, MySpace and AIM. Try it out!',
+			"js.social_stream.inappropriate_language_error": 'Inappropriate language.',
+			"js.social_stream.no_service_selected_error": 'Where should we send the message?',
+			"js.social_stream.error": 'Error!',
+			"js.social_stream.flood_wait": 'Please wait <b>30</b> seconds before sending again.',
+			//socialStreamItem.js
+			"js.social_stream_item.posted_facebook": 'posted on Facebook',
+			"js.social_stream_item.posted_twitter": 'posted on Twitter',
+			"js.social_stream_item.posted_myspace": 'posted on Myspace',
+			"js.social_stream_item.posted_aim": 'posted on Aim',
+			"js.social_stream_item.delete_action": 'Delete this message',
+			"js.social_stream_item.ban_action": 'Delete message and ignore the sender\\\'s messages',
+			"js.social_stream_item.delete_confirmation": 'Are you sure you want to delete this message from this list?',
+			"js.social_stream_item.ban_confirmation": 'Are you sure you want to delete this message from this list, and ban its sender?',
+			//statusUpdate.js
+			"js.status_update.please_allow_wall_publish": 'Please allow to publish comments to your wall!',
+			"js.status_update.error_wall_publish": 'You have to allow to publish comments to your wall!',
+			"js.status_update.error": 'Error!',
+			"js.status_update.username": 'username',
+			"js.status_update.password": 'password',
+			"js.status_update.save_and_continue": 'Save and Continue',
+			"js.status_update.send_to_twitter": 'Send your status updates to your Twitter follower! All tweets will automatically have a link to your show page.',
+			"js.status_update.send_to_aim": 'Share your broadcast with friends as your AIM status! All status updates will automatically have a link to your show page.',
+			"js.status_update.send_to_facebook": 'Update your Facebook status to show your friends! All status updates will automatically have a link to your show page.',
+			"js.status_update.facebook_connect": 'Facebook Connect',
+			"js.status_update.send_to_myspace": 'Update your MySpace status to show your friends! All status updates will automatically have a link to your show page.',
+			"js.status_update.myspace_id": 'MySpaceID',
+			"js.status_update.error_user_pass": 'Wrong username or password!',
+			"js.status_update.minutes_ago": '#number# minutes ago',
+			"js.status_update.error_maximum_text": 'Please enter maximum 95 character long text.',
+			"js.status_update.error_send_failed": 'Send failed!',
+			"js.status_update.error_clear_failed": 'Clear failed!',
+			"js.status_update.myspace": 'MySpace',
+			"js.status_update.facebook": 'Facebook',
+			"js.status_update.aim": 'AIM',
+			"js.status_update.twitter": 'Twitter',
+			//tagliner.js
+			"js.tagliner.what_are_you_broadcasting": 'What are you broadcasting?',
+			"js.tagliner.error_max_characters": 'Max 95 char!',
+			"js.tagliner.error_tagline_failed": 'Tagline failed!',
+			"js.tagliner.error_twit_failed": 'Twit failed!',
+			//twitter.js
+			"js.twitter.error_user_pass": 'Invalid password or username.',
+			"js.twitter.login_to_twitter": 'Login to Twitter',
+			"js.twitter.username": 'Username',
+			"js.twitter.password": 'Password',
+			"js.twitter.login": 'Login',
+			"js.twitter.cancel": 'Cancel',
+			//twitterConnect.js
+			"js.twitter_connect.error_user_pass": 'Please check your username and password.',
+			"js.twitter_connect.cancel_action": 'Cancel',
+			"js.twitter_connect.save_action": 'Save',
+			"js.twitter_connect.save_continue_action": 'Save and Continue',
+			"js.twitter_connect.skip_action": 'Skip',
+			"js.twitter_connect.do_not_ask_again": 'Do Not Ask Again',
+			"js.twitter_connect.broadcast_now": 'Broadcast Now!',
+
+			// video.js
+			"js.video.hide": 'Hide',
+			"js.video.show": 'Show',
+			"js.video.error": 'Error!',
+			
+			//growl.js
+			"js.jgrowl.close_all": 'close all',
+			
+			//_manage.js
+			"js.myfollowers_manage_widget.block": 'Block',
+			"js.myfollowers_manage_widget.direct_message": 'Direct Message',
+			"js.myfollowers_manage_widget.message_sent": 'Your message has been sent.',
+			"js.myfollowers_manage_widget.unblock": 'Un Block',
+
+//===================================
+
+			"js.common_for_all.unknown_error": 'Error!',
+			//aimCredentials.js++
+			"js.aim_credentials.settings_saved": 'Settings saved',
+			"js.aim_credentials.invalid_up": 'Invalid username or password',
+			//Bubble.js
+			//ChannelVideos.js++
+			"js.channel_videos.views": '#n# views',
+			//contactImport.js++
+			"js.contact_import.message_error": 'An error has occured, your contacts could not be imported.',
+			"js.contact_import.success": 'Your contacts have been imported',
+			"js.contact_import.emailed_contacts": 'Your contacts have been emailed.',
+			"js.contact_import.follow": 'Now you Follow your contacts who is joined to Ustream.Tv.',
+			"js.contact_import.email_sent": 'Your Email has been sent.',
+			//continuous-loading.js
+			//CopyEmbedCode.js
+			//countDown.js++
+			"js.countdown.pattern": '#days# days, #hours# hours, #mins# minutes and #secs# seconds',
+			"js.countdown.comingsoon": 'Coming Soon',
+			//CoverLayer.js
+			//dialog.js....+
+			"js.dialog_theme_select.show_themes": 'Show Page Themes!',
+			"js.dialog_theme_select.show_para": 'Take a second to select an awesome theme for your show page!',
+			"js.dialog_theme_select.button": 'Browse Themes!',
+			"js.dialog_theme_select.later_link": 'Maybe Later',
+			"js.dialog_iphone.taken_out": 'You have been taken out of the iPhone network',
+			"js.dialog_iphone.title": 'Congratulations! You have been selected to be featured on our iPhone Viewing App',
+			"js.dialog_iphone.copy_p_1": 'We are excited to feature you on the iPhone! You were chosen for having great content that we are proud to promote. We are positive that your audience will enjoy watching your show from anywhere - on their iPhones.',
+			"js.dialog_iphone.copy_p_2": 'In addition, as a featured show on the iPhone we ask that you confirm that you will abide by the following:',
+			"js.dialog_iphone.copy_p_3": 'I will follow <a href="http://www.ustream.tv/terms" target="_blank">Ustream\\\'s Terms of Service</a>',
+			"js.dialog_iphone.copy_label_nudity": '- I will not broadcast nudity of any kind',
+			"js.dialog_iphone.copy_label_vulgar": '- I will not broadcast vulgar content',
+			"js.dialog_iphone.copy_label_copyright": '- I will not broadcast content that I do not own the copyright to',
+			"js.dialog_iphone.copy_label_illact": '- I will not broadcast any illegal activities',
+			"js.dialog_iphone.copy_label_followterms": 'I will follow <a href="http://www.apple.com/legal/terms" target="_blank">Apple\\\'s iPhone Terms and Conditions</a>',
+			"js.dialog_iphone.copy_p_4": 'If at any time these rules are broken you will be taken off of the iPhone and immediately banned.',
+			"js.dialog_iphone.copy_cancel": 'I would not like to be featured on the iPhone',
+			//DiscoveryDropdown.js
+			//discoverySelect.js
+			//ErrorHandler.js
+			//flagContent.js+ (Error!)
+			//follow.js++
+			"js.followable.follow": 'Follow',
+			"js.followable.following": 'Following',
+			"js.followable.stopfollow": 'Stop following',
+			//form.js
+			//ga-tracking.js
+			//helpToolTips.js
+			//IntervalTimer.js
+			//itemListManager.js++
+			"js.item_list_manager.already_in_list": 'Could not add item, maybe it\\\'s already in the list?',
+			"js.item_list_manager.noadd": 'Sorry, we could not add this item.',
+			"js.item_list_manager.done": 'done',
+			//jsonPager.js+
+			"js.json_pager.prev": 'Â« Prev',
+			"js.json_pager.next": 'Next Â»',
+			//limitedLengthInput.js
+			//LiveSearchV3++ - majd atnevezzuk ezt is
+			"js.live_search.search_broadcasts": 'Search Broadcasts',
+			"js.live_search.search_recordings": 'Search Recordings',
+			"js.live_search.search_upcoming": 'Search Upcoming',
+			//loading.js
+			//mediaLabel.js
+			//myspaceStatusUpdate.js+
+			"js.myspace_status_update.nocookie": 'Please enable cookies in your browser.',
+			"js.myspace_status_update.errorcode": 'MySpace error: #code#',
+			"js.myspace_status_update.activity_error": 'Failed to post activity on MySpace.',
+			//pager.js
+			//PagerV3.js - de ez kuka is
+			//prettyDate.js+
+			"js.pretty_date.now": 'just now',
+			"js.pretty_date.half_min": '30 seconds ago',
+			"js.pretty_date.one_min": '1 minute ago',
+			"js.pretty_date.n_mins": '#n# minutes ago',
+			"js.pretty_date.one_hour": '1 hour ago',
+			"js.pretty_date.n_hours": '#n# hours ago',
+			"js.pretty_date.yesterday": 'Yesterday',
+			"js.pretty_date.n_days": '#n# days ago',
+			//pseudoSelect.js
+			//rate.js+
+			"js.rate.thank_you": 'Thank you for your rating',
+			"js.rate.one_rated": '1 rated',
+			//realTimer.js
+			//SimplePager.js
+			//socialStreamLoginPanel.component.js
+			//socialStreamLoginPanel.js
+			//socialStreamSettings.js+
+			"js.social_stream_settings.logged_in_as": 'logged in as <strong>#username#</strong>',
+			"js.social_stream_settings.logout": 'logout',
+			"js.social_stream_settings.unban": 'unban users',
+			"js.social_stream_settings.unban_selected": '<button>unban selected users</button> or <a>cancel</a>',
+			"js.social_stream_settings.no_unban_yet": 'You haven\\\'t banned any users yet.',
+			"js.social_stream_settings.return": 'Return to settings',
+			//socialStreamUIPanel.js
+			//staticPager.js
+			//tab.js
+			//TabbedTitleBox.js
+			//timer.js
+			//TitleBox.js
+			//truncate.js
+			//twitter.js
+			//twitterCredentials.js
+			"js.twitter_credentials.saved": 'Settings saved.',
+			"js.twitter_credentials.invalid_up": 'Invalid username or password.'
+//	}};
+	};
+
+</script>
+
+												
+				
 				<meta name="robots" content="index, follow">
 <meta name="description" content="USTREAM Privacy Policy Information: Personally Identifiable Information Usage, Sharing, Disclosure, Changing-, Deleting Information.">
 <meta name="verify-v1" content="rxzEzICqj/Fzcsk4DodfDnrkiLUEa8g7Bj5yONd80Pk=">
 
 		<link rel="search" type="application/opensearchdescription+xml" href="http://cdn2.ustream.tv/static/osd:1.xml" title="Search Ustream.tv">
 
-		<link rel="stylesheet" type="text/css" href="http://cdn2.ustream.tv/static/css/packed_main:34088.css">
-		<script type="text/javascript" src="http://cdn2.ustream.tv/static/js/packed_core:33826.js"></script>
-		<!--[if lte IE 7]>
+		<link rel="stylesheet" type="text/css" href="http://cdn2.ustream.tv/static/css/packed_main:45549.css">
+		<script type="text/javascript" src="http://cdn2.ustream.tv/static/js/packed_core:44300.js"></script>
+<script type="text/javascript" src="http://cdn2.ustream.tv/static/js/components/liveSearch:32144.js"></script>
+		<script type="text/javascript">Ustream.Vars.isLive="true";Ustream.Vars.locale="en_US";Ustream.Vars.initialNotificationData={"items":[{"id":"2","text":"Broadcasting live is as easy as 1,2,3. Get started today!","onclick":"$('#signupShow').click();","link":"#","breaking":"0"},{"id":"10","text":"Ustream Producer allows you to broadcast in higher quality. Try it free!","onclick":"","link":"\/producer","breaking":"0"},{"id":"11","text":"Download Ustream's viewer application for your mobile phone to watch your favorite streams on the go!","onclick":"","link":"http:\/\/itunes.apple.com\/WebObjects\/MZStore.woa\/wa\/viewSoftware?id=301520250&mt=8","breaking":"0"},{"id":"12","text":"Download Ustream's broadcasting application for your mobile phone, go live from anywhere.","onclick":"","link":"\/mobile","breaking":"0"},{"id":"13","text":"Follow @Ustream on Twitter to get alerts on celebrity broadcasts, red carpet events, and more!","onclick":"","link":"http:\/\/twitter.com\/ustream","breaking":"0"},{"id":"30","text":"Creating highlights from your recordings gives people a snapshot of your content. Create a highlight today!","onclick":"","link":"http:\/\/www.ustream.tv\/discovery\/highlight","breaking":"0"}],"lastId":"30","flag":3,"refreshInterval":120};Ustream.Vars.v3=false;Ustream.Vars.pageId="Static_Privacy";Ustream.Vars.loggedIn=false;Ustream.Vars.loggedInWithFacebook=false;Ustream.Vars.pageUrl="\/privacy-policy";Ustream.Vars.staticUrl="http:\/\/cdn2.ustream.tv\/";Ustream.Vars.imagesToPreload=["http:\/\/cdn2.ustream.tv\/static\/images\/ajax-loader-small:16422.gif","http:\/\/cdn2.ustream.tv\/static\/images\/ajax-loader-big:16422.gif"];Ustream.Vars.appliedRevshare=false;Ustream.Vars.revshareConditionsMet=null;Ustream.Vars.needTwitterAuth=true;Ustream.Vars.broadcastProperties=[];Ustream.Vars.broadcastNowUrl="\/get-started";
+</script>		<!--[if lte IE 7]>
 		<script type="text/javascript" src="http://cdn2.ustream.tv/static/js/dd_rounded:26081.js"></script>
 		<script type="text/javascript">
 			DD_roundies.addRule('.rounded', '5px');
@@ -30,7 +547,9 @@
 			var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-1359697-1']);
 			_gaq.push(['_setAllowAnchor', true]);
+
 			_gaq.push(['_trackPageview']);
+
 
 			(function() {
 				var ga = document.createElement('script');
@@ -39,12 +558,28 @@
 				document.documentElement.firstChild.appendChild(ga);
 			})();
 			</script><script src="https://ssl.google-analytics.com/ga.js" async="true"></script>
-			</head>
-	<body id="Static_Privacy">
+				<script type="text/javascript">
+			if (!$.cookie('locale')) {
+				$.cookie('locale', 'en_US', {path: '/'});
+				$.cookie('siteversion', 'en_US', {path: '/'});
+			} else if ($.cookie('siteversion') != $.cookie('locale')) {
+				$.cookie('siteversion', $.cookie('locale'), {path: '/'});
+			}
+			var matches = window.location.href.match(/lang=([a-z]{2}_[A-Z]{2})/);
+			var lang = (matches ? matches[1] : '');
+			if (lang != '' && lang != $.cookie('locale')) {
+				$.cookie('locale', lang, {path: '/'});
+				$.cookie('siteversion', lang, {path: '/'});
+				if ($.cookie('locale') == lang) {
+					window.location.href = window.location.href.replace(/&?lang=[a-z]{2}_[A-Z]{2}/, '').replace(/\/\?$/, '/');
+				}
+			}
+		</script>
+	</head>
+	<body id="Static_Privacy" class="lang-en-US">
 		<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
 
 		
-
 <div id="header">
 	<div class="in">
 		<h1><a id="headerLogo" href="/">Ustream</a></h1>
@@ -98,7 +633,7 @@
 
 		<p>Effective July 28, 2008</p>
 
-		<p>Ustream.tv, Inc. ("Ustream.tv," "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Ustream.tv (this "Site") and our media player which enables users to stream and broadcast content (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Ustream.tv Terms of Service.</p>
+		<p>Ustream, Inc. ("Ustream.tv," "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Ustream.tv (this "Site") and our media player which enables users to stream and broadcast content (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Ustream.tv Terms of Service.</p>
 
 		<p>As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within the United States or internationally.</p>
 
@@ -174,9 +709,9 @@
 
 
 		Privacy Matters c/o Ustream.tv<br>
-		274 Castro Street, Suite 204,<br>
-		Mountain View, CA 94041
-	</div>
+		475 Brannan Street,<br>
+		Ste 410, San Francisco,<br>
+		CA 94107	</div>
 </div>
 
 
@@ -187,8 +722,10 @@
 	<ul>
 		<li>
 			<strong>Main</strong><br>
-			<a href="/discovery/live/all">All Broadcasts</a> | <a href="/discovery/recorded/all">Videos</a><br>
-			<a href="/discovery/event/all">Upcoming</a> | <a href="/discovery/live/all/?filter=mobile">Mobile</a>
+			<a href="/discovery/live/all">All Broadcasts</a> |
+			<a href="/discovery/recorded/all">Videos</a><br>
+			<a href="/discovery/event/all">Upcoming</a> |
+			<a href="/discovery/live/all/?filter=mobile">Mobile</a>
 		</li>
 
 		<li>
@@ -209,7 +746,8 @@
 
 		<li>
 			<strong>Help &amp; Info</strong><br>
-			<a href="http://helpcenter.ustream.tv">Help Center</a> | <a href="/channel/help">Live Help</a><br>
+			<a href="http://helpcenter.ustream.tv">Help Center</a>
+			|			<a href="/channel/help">Community Help</a><br>
 			<a href="/terms">Terms of Service</a><br>
 			<a href="/privacy-policy">Privacy Policy</a><br>
 			<a href="/copyright-policy">Copyright Policy</a><br>
@@ -218,22 +756,36 @@
 
 		<li>
 			<strong>Ustream</strong><br>
-			<a href="https://watershed.ustream.tv">Watershed</a> | <a href="/about">About Us</a><br>
-			<a href="http://www.ustream.tv/blog">Our Blog</a> | <a href="/press">Press</a><br>
-			<a href="/contact-us">Contact</a> | <a href="http://developer.ustream.tv">Developers</a><br>
-			<a href="/hire">Jobs</a> | <a href="http://www.ustream.tv/forum/index.php">Message Board</a><br>
-			<a href="/mobile">Mobile App</a> | <a href="/mediakit">Media Kit</a>
-		</li>
+			<a href="https://watershed.ustream.tv">Watershed</a> |
+			<a href="/about">About Us</a><br>
+			<a href="http://www.ustream.tv/blog">Our Blog</a> |
+			<a href="/press/">Press</a><br>
+			<a href="/contact-us">Contact</a> |
+			<a href="http://developer.ustream.tv">Developers</a><br>
+			<a href="/hire">Jobs</a>
+			|			<a href="http://www.ustream.tv/forum/index.php">Message Board</a><br>
+			<a href="/mobile">Mobile App</a> |
+			<a href="/producer">Ustream Producer</a><br>
+						<a href="/production-services">Production Services</a>
+					</li>
 
 		<li>
 			<strong>Network Us</strong><br>
-			<a href="http://twitter.com/ustream" target="_blank">Twitter</a> | <a href="http://www.myspace.com/ustream" target="_blank">MySpace</a><br>
-			<a href="http://www.facebook.com/ustream" target="_blank">Facebook</a> | <a href="http://199844.spreadshirt.com/us/US/Shop/" target="_blank">Shop</a>
+			<a href="http://twitter.com/ustream" target="_blank">Twitter</a> |
+			<a href="http://www.myspace.com/ustream" target="_blank">MySpace</a><br>
+			<a href="http://www.facebook.com/ustream" target="_blank">Facebook</a>
 		</li>
 	</ul>
 	<br class="clear">
 	&nbsp;
-
+	<form action="" method="get">
+		<div class="langwrp">
+			Please select your language - 			<select name="lang" id="chooselang">
+				<option value="en_US" selected="selected">English</option>
+				<option value="ja_JP">日本語</option>
+			</select>
+					</div>
+	</form>
 	</div><!-- // footer -->
 
 
@@ -273,7 +825,7 @@
 		</tbody></table>
 	</form>
 	<form method="POST" action="/login-google">
-		<table cellpadding="0" cellspacing="0" id="type2" class="separators" width="100%">
+		<table cellpadding="0" cellspacing="0" id="type3" class="separators" width="100%">
 			<tbody><tr>
 				<td width="128"><label>Google &amp; Gmail Login:</label></td>
 				<td>
@@ -283,9 +835,9 @@
 		</tbody></table>
 	</form>
 	<form method="POST" action="/login-yahoo">
-		<table cellpadding="0" cellspacing="0" id="type2" class="separators" width="100%">
+		<table cellpadding="0" cellspacing="0" id="type4" class="separators" width="100%">
 			<tbody><tr>
-				<td width="128"><label for="l3">Yahoo Login:</label></td>
+				<td width="128"><label>Yahoo Login:</label></td>
 				<td>
 					<input type="submit" name="yahooSubmit" class="submit" value="Yahoo Login">
 				</td>
@@ -293,7 +845,7 @@
 		</tbody></table>
 	</form>
 	<form method="POST" action="/login-openid">
-		<table cellpadding="0" cellspacing="0" id="type2" class="separators" width="100%">
+		<table cellpadding="0" cellspacing="0" id="type5" class="separators" width="100%">
 			<tbody><tr>
 				<td width="128"><label for="l3">OpenID Login:</label></td>
 				<td><input type="text" class="text" id="l3" name="openId">&nbsp;&nbsp;&nbsp;<img width="16" height="16" src="http://cdn2.ustream.tv/static/images/openid:16873.gif" style="position:relative;top:3px;"></td>
