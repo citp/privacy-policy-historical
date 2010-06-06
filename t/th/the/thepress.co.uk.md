@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thepress.co.uk privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804012647id_/http%3A//www.thepress.co.uk/my/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepress.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606092738id_/http%3A//www.yorkpress.co.uk/my/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
