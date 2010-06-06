@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008111038id_/http%3A//www.afrihost.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afrihost.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606080907id_/http%3A//www.afrihost.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Contact Afrihost.com | Web Hosting Provider in Rivonia, Sandton, Johannesburg / JHB, South Africa
 
