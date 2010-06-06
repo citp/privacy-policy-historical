@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangaloremirror.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227173536id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/bangaloremirror.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangaloremirror.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607011851id_/http%3A//ms.timesofindia.com/ads/Privacypolicy/bangaloremirror.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
