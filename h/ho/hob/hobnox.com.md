@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobnox.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206105801id_/http%3A//www.hobnox.com/privacy.1048.en.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobnox.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001135id_/http%3A//www.hobnox.com/privacy.1048.en.html) for the most accurate reproduction.*
 
 # Hobnox - Privacy Policy
 
