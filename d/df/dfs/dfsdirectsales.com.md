@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618142027id_/http%3A//www.dfsdirectsales.com/edealinv/servlet/ExecMacro%3Fnurl%3Dcontrol/Privacy.vm%26ctl_nbr%3D641) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dfsdirectsales.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606115858id_/http%3A//www.dfsdirectsales.com/StoreCatalog/ctl641/sitecontent/Privacy/Privacy) for the most accurate reproduction.*
 
-# DFS Direct Sales | DELL Store: Refurbished Dell Computers, Notebooks, Laptops, Used Computer Systems, Monitors, Servers, Workstations
+# DFS Direct Sales | DELL Store: Privacy Policy
 
-**Privacy and Data Security** Your right to privacy and data security is a primary concern. That's why, when you visit [DFSDirectSales.com](https://web.archive.org/edealinv/servlet/ExecMacro?nurl=control/StoreHome.vm&ctl_nbr=641), we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site ([www.DFSDirectSales.com](https://web.archive.org/edealinv/servlet/ExecMacro?nurl=control/StoreHome.vm&ctl_nbr=641)) 
+**Privacy and Data Security** Your right to privacy and data security is a primary concern. That's why, when you visit [DFSDirectSales.com](https://web.archive.org/edealinv/servlet/ExecMacro?nurl=control/StoreHome.vm&ctl_nbr=$ctl_nbr), we help you maintain control over your personal data on the Internet. Below are the guidelines we use for protecting the information you provide us during a visit to our Internet site ([www.DFSDirectSales.com](https://web.archive.org/edealinv/servlet/ExecMacro?nurl=control/StoreHome.vm&ctl_nbr=$ctl_nbr)) 
 
 **Dell Financial Services LLC (DFS) only asks for specific types of personal information**  
 In a few areas on our web site, we ask you to provide information that will enable us to enhance your site visit or to follow up with you after your visit. It is completely optional for you to participate. 
