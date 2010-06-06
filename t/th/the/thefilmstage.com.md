@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the thefilmstage.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128053625id_/http%3A//thefilmstage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefilmstage.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606052312id_/http%3A//thefilmstage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Film Stage
-
-##  Privacy Policy  
-
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
