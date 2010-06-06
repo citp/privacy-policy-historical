@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206113337id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakpoint.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001535id_/http%3A//www.pakpoint.com/useronline) for the most accurate reproduction.*
 
 # Privacy PakPoint
 
