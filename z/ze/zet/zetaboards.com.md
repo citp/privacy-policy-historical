@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427200725id_/http%3A//s1.zetaboards.com/zb/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zetaboards.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606031939id_/http%3A//www.zetaboards.com/privacy) for the most accurate reproduction.*
 
-# ZetaBoards » Our service's privacy policy
-
-## Privacy Policy
-
-Your privacy is important to ZetaBoards. We have limited the amount and types of personal information that we need from you. We wish for you to be fully informed of how your information is gathered and used.
+# ZetaBoards Privacy Policy
 
 ### What information does ZetaBoards gather:
 
@@ -40,4 +36,4 @@ ZetaBoards may update and revise this privacy policy. We will inform users of an
 
 ### Parental Controls:
 
-Certain materials on the internet or on ZetaBoards may not be appropriate for minors. ZetaBoards suggests monitoring your child's activity while on ZetaBoards. Should you encounter content on ZetaBoards that appears to not be appropriate, check our [Terms of Service](http://s1.zetaboards.com/zb/tos/) and then [report](http://s1.zetaboards.com/zb/report/) it if needed. ZetaBoards also recommends that you consider the use of [Parental Control software](http://s1.zetaboards.com/zb/parent/). 
+Certain materials on the internet or on ZetaBoards may not be appropriate for minors. ZetaBoards suggests monitoring your child's activity while on ZetaBoards. Should you encounter content on ZetaBoards that appears to not be appropriate, check our [Terms of Service](http://www.zetaboards.com/tos/) and then [report](http://www.zetaboards.com/report/) it if needed. ZetaBoards also recommends that you consider the use of [Parental Control software](http://www.zetaboards.com/parent/). 
