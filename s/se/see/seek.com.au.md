@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227164325id_/http%3A//www.seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606045025id_/http%3A//www.seek.com.au/general_id_items/content/privacy.ascx) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
   
 
 
-  1. ## SEEK’s commitment to maintaining your privacy
+  1. ## SEEK's commitment to maintaining your privacy
 
-SEEK’s Privacy Statement has been created because we value our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for all sites managed by SEEK.
+SEEK's Privacy Statement has been created because we value our users and recognise their right to keep personal information private. This statement discloses our information gathering and dissemination practices for all sites managed by SEEK.
 
 
 
@@ -17,7 +17,7 @@ SEEK collects information on our site visitors collectively including which sect
 
 _IP Addresses_
 
-SEEK’s web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user. 
+SEEK's web servers gather your IP address to assist with the diagnosis of problems or support issues with our services. Again, information is gathered in aggregate only and cannot be traced to an individual user. 
 
 _Cookies & Applets_
 
@@ -38,17 +38,17 @@ In order to better understand our users, SEEK utilises a third party measurement
 
 This aggregate, non-personal information is collated and provided to SEEK to assist in analysing the usage of the site. This data is also accessible by media organisations and research companies, for the purpose of conducting industry comparisons with other Internet websites. 
 
-* ## Collecting information on SEEK Registered ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ Members 
+* ## Collecting information on SEEK Registered '[My Account](https://web.archive.org/myseek/myaccount.ascx)' Members 
 
-As part of registering with SEEK, we collect personal information about you in order for you to take full advantage of SEEK’s services. To do this it may be necessary for you to provide additional information to SEEK as detailed below.
+As part of registering with SEEK, we collect personal information about you in order for you to take full advantage of SEEK's services. To do this it may be necessary for you to provide additional information to SEEK as detailed below.
 
 _Registration_
 
-Registration is completely optional. However, registration for ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address. You may access this information at any time by clicking ‘My Details’ on ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’, or by clicking here.
+Registration is completely optional. However, registration for '[My Account](https://web.archive.org/myseek/myaccount.ascx)' services allows you to take advantage of more of the tools and resources that assist you in finding a job. Registration includes submitting your email address. You may access this information at any time by clicking 'My Details' on '[My Account](https://web.archive.org/myseek/myaccount.ascx)', or by clicking here.
 
 _Job Mail_
 
-Job Mail is an optional service. SEEK requests that you provide information relating to your employment preferences as well as your email address so that we may notify you via email of jobs specific to your needs. Users can modify or delete their Job Mail profiles at any time by going to the ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ area of the site.
+Job Mail is an optional service. SEEK requests that you provide information relating to your employment preferences as well as your email address so that we may notify you via email of jobs specific to your needs. Users can modify or delete their Job Mail profiles at any time by going to the '[My Account](https://web.archive.org/myseek/myaccount.ascx)' area of the site.
 
 _Storing your resume_
 
@@ -60,15 +60,15 @@ As part of the online job service, SEEK provides registered members with the opt
 
 _Private SEEK Resumes_
 
-SEEK provides the option of creating a resume and making it ‘Private’. This means that your resume will not be made generally available to employers and recruiters and will be used for making job applications on SEEK.
+SEEK provides the option of creating a resume and making it 'Private'. This means that your resume will not be made generally available to employers and recruiters and will be used for making job applications on SEEK.
 
 All information provided when creating these resumes including name, address, email address, telephone numbers, employment and educational history are used for the purposes of facilitating your job seeking efforts.
 
-Users can modify or delete their resume at any time by going to the ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ area of the site.
+Users can modify or delete their resume at any time by going to the '[My Account](https://web.archive.org/myseek/myaccount.ascx)' area of the site.
 
 _Public & Anonymous SEEK Resumes_
 
-SEEK provides the option of making your online resume ‘Public’ or ‘Anonymous’. Selecting one of these options means your resume will be available for viewing by employers and recruiters who pay to access SEEK’s resume database. Though all efforts are taken so that access is given only to those who have requested it via SEEK, we cannot guarantee that other parties will not without our consent gain access to this database.
+SEEK provides the option of making your online resume 'Public' or 'Anonymous'. Selecting one of these options means your resume will be available for viewing by employers and recruiters who pay to access SEEK's resume database. Though all efforts are taken so that access is given only to those who have requested it via SEEK, we cannot guarantee that other parties will not without our consent gain access to this database.
 
 SEEK resumes give you the option of also providing sensitive information relating to professional associations and memberships, however it is not mandatory to complete this in order to use SEEK services. By providing these details in your resume, you are consenting to have this information passed onto advertisers via any applications made.
 
@@ -76,7 +76,7 @@ You may change the privacy settings for your resume at any time, as well as bein
 
 _Online Applications_
 
-Making an online application to a job advertisement on SEEK is a free and optional service that does not require registration. Job applications require you to complete mandatory fields (first name, last name, phone and email) so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to SEEK’s service providers and contractors from time to time who assist us to deliver our products and services. 
+Making an online application to a job advertisement on SEEK is a free and optional service that does not require registration. Job applications require you to complete mandatory fields (first name, last name, phone and email) so that the advertiser can identify and contact you. Your application, including attachments and cover letters, are forwarded directly on to the third party advertiser. This information may also be disclosed to SEEK's service providers and contractors from time to time who assist us to deliver our products and services. 
 
 By applying to a position advertised on SEEK you are requesting that SEEK pass the information to the Advertiser as a part of your application. 
 
@@ -90,7 +90,7 @@ The only contact information that is collected will be in relation to survey res
 
 * ## Email communications from SEEK
 
-SEEK also provides you with selected information about job seeking and career-related topics in our email newsletter SEEK News Update. This free service is sent to registered users and provides the option of opting out of receiving these by changing your preferences in ‘My Account’. SEEK may also make you aware of additional products and services which form part of your relationship with SEEK.
+SEEK also provides you with selected information about job seeking and career-related topics in our email newsletter SEEK News Update. This free service is sent to registered users and provides the option of opting out of receiving these by changing your preferences in 'My Account'. SEEK may also make you aware of additional products and services which form part of your relationship with SEEK.
 
 * ## Storage & Security of Personal Information
 
@@ -102,7 +102,7 @@ You can also play an important role in keeping your personal information secure,
 
 * ## Access to Your Information
 
-As indicated in point 2, unless you become a registered ‘[My Account](https://web.archive.org/myseek/myaccount.ascx)’ user, SEEK does not collect information that identifies you personally. If however, you become a SEEK registered user, you are able to change and update your registered profile at any time. Should you require assistance with updating your account or removing your details from the site, this can be requested by [forwarding an email](mailto:userhelp@seek.com.au) . You can also request your personal information directly from Advertisers who you have applied to on the site.
+As indicated in point 2, unless you become a registered '[My Account](https://web.archive.org/myseek/myaccount.ascx)' user, SEEK does not collect information that identifies you personally. If however, you become a SEEK registered user, you are able to change, update or delete your registered profile at any time by logging in to [My Account](https://web.archive.org/myseek/myaccount.ascx). You can also request your personal information directly from Advertisers who you have applied to on the site.
 
 * ## SEEK Partners & Advertisers
 
