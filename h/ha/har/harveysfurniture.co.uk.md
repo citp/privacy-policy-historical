@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230133254id_/http%3A//www.harveysfurniture.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harveysfurniture.co.uk privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606233447id_/http%3A//www.harveysfurniture.co.uk/Privacy.aspx%23Policy) for the most accurate reproduction.*
 
 # Privacy
-
-Privacy Policy 
 
 This website is operated by Homestyle Operations Ltd (trading as Harveys the Furniture Store) which is responsible for the processing of your personal data and is the data controller for all such information. Homestyle Operations Ltd is part of the Steinhoff UK Retail Group of Companies (the Steinhoff Group) which also includes Bensons For Beds, Cargo HomeShop, Sleepmasters, The Bed Shed and Bed Shed Extra. All these businesses are retailers operating in the Furniture/Homeware sector.We regard your privacy as very important. This privacy policy describes the information we may collect from you and the purpose for our collection of it. Any personal information that you provide to us via this website will be dealt with in accordance with this privacy policy. 
 
