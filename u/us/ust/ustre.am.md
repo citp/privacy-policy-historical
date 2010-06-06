@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustre.am privacy policy that was archived on 2009-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090605170515id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustre.am privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606105429id_/http%3A//www.ustream.tv/privacy-policy) for the most accurate reproduction.*
 
 # USTREAM Privacy Policy: Personal and User Information, Security
 
@@ -6,7 +6,7 @@
 
 Effective July 28, 2008
 
-Ustream.tv, Inc. ("Ustream.tv," "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Ustream.tv (this "Site") and our media player which enables users to stream and broadcast content (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Ustream.tv Terms of Service.
+Ustream, Inc. ("Ustream.tv," "we" or "us") provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.Ustream.tv (this "Site") and our media player which enables users to stream and broadcast content (collectively, the "Services"). This Privacy Policy applies only to information that you provide to us through the Services. This Privacy Policy may be updated from time to time. We will notify you of any material changes by posting the new Privacy Policy on the Site. You are advised to consult this policy regularly for any changes. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Ustream.tv Terms of Service.
 
 As used in this policy, the terms "using" and "processing" information include using cookies on a computer, subjecting the information to statistical or other analysis and using or touching information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within the United States or internationally.
 
@@ -70,5 +70,6 @@ Ustream.tv does not knowingly collect personally identifiable information from c
 If you have any questions about this Privacy Policy, please contact us at [Privacy@Ustream.tv](mailto:Privacy@Ustream.tv) or at:
 
 Privacy Matters c/o Ustream.tv  
-274 Castro Street, Suite 204,  
-Mountain View, CA 94041 
+475 Brannan Street,  
+Ste 410, San Francisco,  
+CA 94107 
