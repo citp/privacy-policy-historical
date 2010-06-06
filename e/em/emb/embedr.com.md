@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231001120id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embedr.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606031733id_/http%3A//embedr.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Embedr, Create Custom Video Playlists
 
