@@ -1,231 +1,85 @@
-> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2009-05-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090510130210id_/http%3A//www.superpages.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infospace.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606071709id_/http%3A//support.infospace.com/privacy) for the most accurate reproduction.*
 
-# Superpages.com - Privacy Policy
+# Infospace Privacy Policy
 
-Idearc Media LLC ("Idearc") respects your right to privacy, and we want you to be aware of how we collect and handle information on each website covered by this policy. 
+## Privacy Policy
 
-**This Privacy Policy applies only to the user privacy of the www.superpages.com, www.bigbook.com, and www.bigyellow.com websites (each, “This Website”, as applicable). It does not apply to the offline activities of Idearc Media LLC or any of its affiliates.**
+InfoSpace, Inc. and its subsidiaries ("we", "us" or "our") owns and operates a number of different sites on the Web (each, an "InfoSpace Site"), and is strongly committed to protecting the privacy of our user community. This privacy policy provides details on our information collection and use practices that are specific to Infospace.com. For our general information collection, use and disclosure practices, please review our global privacy policy located [here](http://www.infospaceinc.com/privacy.aspx) on the InfoSpace corporate website. Please note that this policy applies only to us and the Infospace website, and not to other companies or organizations or their web sites to which we may provide links or to any software that may be downloaded from the InfoSpace Sites.
 
-**Privacy Policy Effective Date / Updates**  
-This Privacy Policy is effective as of November 15, 2007. Our business changes constantly. Our Privacy Policy will change also, and information collected through This Website is subject to the Privacy Policy in effect at the time the information is collected (unless you consent otherwise as to information related to you). You are advised to check this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website) frequently to see recent changes. Idearc will notify users of any changes to this Privacy Policy by posting the version of the Privacy Policy containing such changes on this web page (or such other page accessible by clicking on the Privacy Policy link in the footer of This Website). 
+## Anonymous User Information
 
-Information Idearc Collects  
-**What information does This Website gather?**
+We collect anonymous information each time you visit Infospace, and use this information to provide our services and improve the overall quality of your online experience. Each time you use our search services to submit a query, we collect your IP address, referral data, and browser and platform type. We do not require you to share information that identifies you personally, such as your name or e-mail address, in order to use the search services available on Infospace. We collect this information by assigning an anonymous ID number to your queries and linking the following additional data to that number: the date and time you visited Infospace, your search terms, and the links upon which you choose to click. Like most standard website servers, we use log files to collect and store this anonymous user information.
 
-When you visit This Website, Idearc may collect the following types of information: 
+## Individual User Information
 
-| 
+From time-to-time we may collect or request information from you that identifies you personally in addition to the anonymous information described above. This information may include your contact information (such as name, e-mail address, shipping address, and zip code) and demographic information (such as age, gender, occupation, and household income). We will not use or disclose any information that identifies you personally except as described in this privacy policy.
 
-| 
+We may collect or request such personal information in the following ways:
 
-  Personally Identifiable Information You Knowingly Provide   
-  
----|---  
-  
-| 
+### Correspondence
 
-  Information Idearc Collects Automatically   
-  
-| 
+If you contact us, we may keep a record of the contact information you provide us in order to communicate with you regarding your correspondence.
 
-  Non-Personally Identifiable Information You Knowingly Provide   
-  
-Idearc collects personally identifiable information that you knowingly provide to us. For example, Idearc may ask you to provide personally identifiable contact information (such as name, address, e-mail address and telephone number). In addition, if you purchase a product or service, Idearc may ask you to provide additional information such as your credit card information, and if you apply for the Superpages Local Serve Program, Idearc may ask you to provide additional information such as your Social Security number. In some cases (for example, if you register with us (or sign-in on This Website) or purchase a product or service), Idearc may also ask you to provide other information such as a personal ID, password, and security question and answer.
+### Surveys, Promotions or Contests
 
-If you choose to use an available referral service on This Website (e.g., to send a postcard, listing, page link, contest invitation, etc.), we will ask for certain personal information from the recipient (e.g., the recipient’s name, e-mail address, mobile telephone number) and your name and e-mail address. Idearc uses the personally identifiable referral information you provide to facilitate this communication on a one-time basis, and may also store and use such personally identifiable information for analysis purposes (e.g., tracking the success of the referral feature). 
+From time to time, we may conduct surveys, promotions or contests on Infospace. Participation in these events is completely voluntary and you will always have a choice whether or not to participate. Any personal information collected as part of the event will only be collected and used for purposes of the event, such as to notify the winners and award prizes for a promotion or contest. Survey information will be used for purposes of monitoring or improving the use and satisfaction of the InfoSpace Sites.
 
-In addition, as you (and other users) browse This Website, our web servers automatically collect certain information about such visits (usually through the use of cookies, javascript tags, clear .gif files (also known as “web beacons”), and the analysis of http headers), such as the user’s IP address, the user’s domain name, the user’s browser type, the user’s user agent, how many users visit This Website, which pages the user visits and for how long, the date and time the user accesses This Website, the Internet address of the site from which the user directly linked to This Website and the links on This Website on which the user clicks. In addition, Idearc collects certain search parameters relating to searches conducted by the user which are not entered by the user.
+### User Groups
 
-In some cases, we may also collect non-personally identifiable information that you provide, such as search parameters in connection with a search you conduct through This Website, ratings and reviews, and zip code.
+If you register for a user group on Infospace, we request individual user information. If you choose to participate in a user group, your individual user information will be used to qualify you and to contact you for various projects at InfoSpace's discretion. You may opt out of a user group at any time by following the opt out provisions of the user group and your individual user information will be deleted.
 
-To improve the services we can offer you, we may decide to expand This Website's capabilities for obtaining information about users in the future. We will update this Privacy Policy as our practices change to ensure that you are aware of developments in this area.   
+### Tell-A-Friend
 
+If you use our referral services for informing friends or family about any of our services, we may ask you for individual user information and the name and email address of your friend or family member. We will only use the information you provide us to send the person an e-mail inviting them to visit the site or use the service.
 
-**How does Idearc use information collected on This Website?**
+## Third Party Information Gathering
 
-When users supply personally identifiable information about themselves for a specific purpose (for example, to register to use a feature on This Website, to purchase a product or service, to obtain a free listing, to receive information, or to apply for a job), we may use such information for such purpose. 
+Infospace contains links to other websites on the Internet. Please be aware that InfoSpace is not responsible for the information collection and use and privacy practices of such other websites and third parties. We encourage our users to be aware when they leave Infospace and to read the privacy statements of each and every other website that may collect their personally identifiable information. This privacy statement applies solely to information collected by us from the Infospace website.
 
-When users provide personally identifiable information to order products or services (or to obtain a free listing) through This Website, we may also use such personally identifiable information as we would use the same information obtained in a traditional non-electronic manner. For example, we may use such personally identifiable information to assess your credit rating, to publish your name, address, and phone number in our directories (unless you have requested a non-published number), to contact you in connection with user reviews and/or to evaluate your service needs and contact you regarding additional services you may find useful. When users provide personally identifiable information in connection with a feature on This Website, we may also use such personally identifiable information in connection with the operation of such feature. (For example, if you register to use the personalized directory service, we may use the personally identifiable information you provide to provide you with a more personalized and useful service, and if you create a review of a business on Superpages.com, we may publish your initials, city and state in connection with such review.) When users provide personally identifiable information in connection with a contest, sweepstakes or other promotion that we may run on This Website, we may use such information to administer such contest, sweepstakes or promotion and to notify winners.
+We use third party companies to serve advertisements when you visit Infospace. These companies may use information about your visits to Infospace in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to Infospace, these companies may place or recognize a unique cookie on your computer or use other technologies such as pixel tags. Our privacy policy does not cover any use of information that a third-party ad-serving company may collect from you. These companies have their own policies as to record keeping and data retention. If you would like more information about this practice, or would like to know your choices about not having this information used by advertising companies, please click here: [http://www.networkadvertising.org/.](http://www.networkadvertising.org/)
 
-We may also use personally identifiable information you provide to communicate with you (e.g., to send you e-mails) and to otherwise serve you. For example, we may use your name and e-mail address to send you e-mails to (a) provide information regarding our company, marketing information about products and services, and newsletters, (b) conduct online surveys, (c) confirm orders placed online and (d) otherwise communicate with you. However, you may request not to receive (i.e., “opt-out” of receiving) commercial e-mail messages (the primary purpose of which is the commercial advertisement or promotion of a commercial product or service) from us (on a category-by-category basis), by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. If you have previously opted out of receiving commercial e-mail messages related to one or more categories, you may cancel your request to opt-out of (i.e., consent to receive commercial e-mail messages from us related to) such categories (on a category-by-category basis) by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. Please note that we reserve the right to send certain types of e-mail messages that are not subject to opt-out (see information about e-mails, below) to online users, including those who have opted out of receiving commercial e-mail messages.
+## Cookies
 
-In addition, Idearc may use personally identifiable information you provide and information Idearc automatically collects through this website (and may combine personally identifiable information you provide with information Idearc automatically collects through This Website and non-personally identifiable information you knowingly provide) as it deems appropriate to protect its property or other rights (for example, to enforce any policies or contractual provisions regarding use of the “ratings and reviews” feature or the “send a listing” feature).
+We and our third party advertising partners (as described above) may place and access cookies on your computer when you use our services. A cookie is a small data file sent to your browser and which may then be stored on your computer. We use both session cookies and persistent cookies. For the session cookie, once you close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on your hard drive for an extended period of time. Persistent cookies can be removed by following the instructions provided in your Internet browser help file.
 
-We use information Idearc automatically collects through This Website to improve This Website, to monitor its performance, to make This Website easier for you and other users to use, and to manage features and programs made available through This Website. For example, Idearc may use information Idearc automatically collects in the ways described in the section entitled “What is a cookie and why does Idearc use them?”, below. 
+We use cookie technology to track which pages you view and which Web browsers you use on Infospace. We may also use cookies to help us provide personalized features and preferences to you in a way that may be linked to individual user information that you elect to share with us. We also use "action tags" to assist in delivering the cookie. These action tags allow us to compile statistics and other data about our customers on an aggregate basis, by embedding a random identifying number on each user's browser. Then we track where that number shows up on our site.
 
-**Can I review and request changes to personally identifiable information that I provide through registration forms on This Website?**
+## Sharing
 
-If you register with us and create a profile on This Website, at any time after you register and create a profile, you may review and request changes to any personally identifiable information you provided through the registration form, by viewing and updating your profile within the application. 
+We may need to disclose the personal information we collect from you when required by law or otherwise necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process. We may also share your personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person or violations of our terms of use. 
 
-In addition, (i) you may request not to receive (i.e., “opt-out” of receiving) commercial e-mail messages from us (on a category-by category basis), by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page, and (ii) if you have previously opted out of receiving commercial e-mail messages related to one or more categories, you may cancel your request to opt-out of (i.e., consent to receive commercial e-mail messages from us related to) such categories (on a category-by-category basis) by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. Please note that we reserve the right to send certain types of e-mail messages that are not subject to opt-out (see information about e-mails, below) to online users, including those who have opted out of receiving commercial e-mail messages.   
+To the extent we use third party service providers or have co-sponsors of any survey, promotion or contents, the information we collect from you may be accessed or shared as part of the service or event with any such third party or co-sponsor, provided that any such disclosure will be subject to written agreement with such third party or co-sponsor to only use such information for the purpose of the service or event and to not share or make any other use of the information.
 
+## Mergers; Business Transitions
 
-**Do you sell or provide my information collected through This Website to companies outside of the "Idearc Family?"**
+In the event InfoSpace goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets that involve Infospace, the information we collect from Infospace will, in most instances, be transferred to the third party as part of the assets.
 
-We do not sell or disclose personally identifiable information you provide to us through This Website to anyone outside of the "Idearc Family" unless (i) you specifically authorize it, (ii) it is to complete a transaction, service or activity that you initiated or requested, (iii) it is to provide a service on behalf of Idearc (for example, Idearc may contract with an entity outside of the “Idearc Family” to send e-mail messages on behalf of Idearc), in which case such non- “Idearc Family” entities are not permitted to use such information for any purpose other than to provide such service, (iv) it is to assess your credit ranking or report your failure to fulfill your payment obligations in connection with the purchasing of (or application to purchase) products or services through This Website, (v) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (vi) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (vii) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (viii) Idearc transfers all or substantially all of its assets to another entity (in which case Idearc may disclose, sell and/or otherwise provide personally identifiable information to such entity). If you provide personally identifiable information to us in the context of an event Idearc sponsors on This Website with another company, such as a contest, or if you register on a co-sponsored section or feature of This Website, you may also be providing such personally identifiable information to the co-sponsor. When you provide your personally identifiable information to any third party, Idearc is not responsible for any third party’s use of such personally identifiable information. 
+## Choice/Opt-out
 
-Idearc may share information it automatically collects through This Website with non-"Idearc Family" companies in order to assess the results of a promotion, event or third party relationship, to provide information to current or prospective customers, to complete a transaction, service, search or other activity that the user initiated or requested or to otherwise enhance your online experience. For example, we may provide information Idearc automatically collects: 
+We desire to keep you in control of the personal information you provide to us. Accordingly, you can request to review, correct, change or remove the personal information we collect and store from you at any time by filling out the [Contact Us](http://search.infospace.com/ispace/ws/contactUs/_iceUrlFlag=11?_IceUrl=true&rfcid=1293&rfcp=footer-full) form. 
 
-| 
+## Notification of Changes
 
-| 
+If we change or update our privacy policy, we will post the new policy in this location and provide an updated effective date for the policy so that you are always aware of our information collection and use practices.
 
-When you link to another site from This Website.  
-  
----|---|---  
-  
-|  | 
+If we change the manner in which we use your personal information from that stated at the time of collection, we will notify users by posting a notice on our website for 30 days.
 
-When you request certain information that Idearc obtains from a third party.  
-  
-|  | 
+## Special Notification with respect to Children's Privacy (Users under the age of 13)
 
-When we host co-branded versions of This Website (or portions of This Website). Our co-branded websites may also contain clear .gif files (electronic images that allow This Website to automatically collect information about your visit to the website).   
-  
-|  | 
+In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which websites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT:
 
-When we use third party tracking services to help us analyze automatically collected information in the aggregate to evaluate the effectiveness of This Website. The third parties performing such tracking services are not permitted to use the information for any other purpose.   
-  
-We may also disclose information Idearc automatically collects to non-“Idearc Family” companies or entities if (a) it is required by law or we believe that such action is necessary in order to conform to the edicts of the law, (b) we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served, (c) we believe that disclosure is necessary to protect the safety of customers, employees or property, or (d) Idearc transfers all or substantially all of its assets to another entity (in which case Idearc may disclose, sell and/or otherwise provide information Idearc automatically collects to such entity).
+  1. Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or 
+  2. Knowingly use or share personal information from users under 13 years of age with third parties; 
 
-Please note that Idearc may support features and content appearing on other companies' sites that you may visit. These companies may collect information about you, but Idearc does not have control over the privacy practices of these companies. If you are visiting a site that indicates that it is "powered by superpages.com", or if you link to another site from This Website, you are advised to read the privacy policy of that site for its policies regarding information collection and usage. 
 
-**Do you accommodate links to other sites?**
 
-Yes. This Website contains links to other sites. These other sites may, among other things, allow you to bid on and/or purchase products that you initially viewed on This Website. These other sites may (or may not) be “co-branded” or “private-labeled” with (or otherwise contain) the Superpages.com, BigBook or BigYellow trademarks or other trademarks or branding of Idearc. **You can tell if you have linked from one site to another site by looking at the URL in the browser window (or, if the link opens a new browser window, by looking at the URL found by “right-clicking” on the page in the window and selecting “properties”). If the second level domain of the URL for the page containing the link is different than the second level domain of the URL for the page to which you have linked, you have linked to a different site. For example, if you link from a page located at the URL www.thirdleveldomain.superpages.com to a page located at the URL www.superpages.secondleveldomain.com, you have linked to another website. Please note that any of Idearc's trademarks or service marks (e.g., Superpages, BigBook, BigYellow, etc.) may be included in the URL of a co-branded or private label site that is owned and operated by another company, in a location other than that occupied by the second level domain (e.g., as the third level domain).** Other companies that own or operate these sites may track and/or collect information about you, but Idearc does not have control over the privacy practices (including, without limitation, those relating to tracking user activity, collection of user data, use of user data, and security) of these companies (although, when a user activates a link from This Website to one of these other sites, Idearc may pass the user’s referral URL and IP address to the server hosting such other site). We are not responsible for the privacy policies or practices (including, without limitation, those related to tracking, collection, use and security) employed by other companies (or in connection with sites of other companies), and we are not responsible for the content on, or operation of, sites of other companies (including, without limitation, any transactions conducted through such sites). We are committed to safeguarding customer privacy on This Website. **If you are visiting a site via a link on This Website, you are advised to read the privacy policy of such other site for its policies regarding information tracking, collection, usage and security.**
+It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.
 
-Idearc may, however, host (or contract with third parties to host) website advertising linked to This Website (the "Idearc-Hosted Website Ad(s)"). If you provide personally identifiable information while visiting any Idearc-Hosted Website Ad, you will also be providing the personally identifiable information to the advertiser (and advertiser and/or Idearc may be automatically collecting information while you visit any Idearc-Hosted Website Ad). In addition, Idearc may share information which is automatically collected while you visit any Idearc-Hosted Website Ad with non-"Idearc Family" companies in order to complete a transaction that you initiated or to assess and report the results of the ad. Idearc is not responsible for the privacy practices employed by the advertiser. **If you are visiting an Idearc-Hosted Website Ad via a link on this website, you are advised to read the privacy policy of such Idearc-Hosted Website Ad for its policies regarding information tracking, collection, usage and security.**  
+Questions regarding children's privacy should be directed to: 
 
-
-**Does Idearc combine personally identifiable information provided through This Website by users of This Website with offline information about such users?**
-
-If and when Idearc intends to combine personally identifiable information you provide through This Website with offline information about you, this intent will be clearly stated. You will then have the ability to choose not to have that information combined.   
-
-
-E-Mail   
-**Does This Website send e-mail to users of This Website?**
-
-Idearc may send you commercial e-mail messages (unless you have chosen to opt-out of receiving them, with some exceptions, as explained below) and non-commercial e-mail messages (which are not subject to opt-out, as explained below). For example, Idearc may send you e-mails to (a) conduct online surveys, (b) provide information regarding our company, information regarding our website(s), marketing information about products and services, and newsletters, and (c) confirm orders placed online and to otherwise communicate with you as a customer. In addition, occasionally, we may use opt-in e-mail lists from third parties to promote our latest specials. 
-
-You may request not to receive (i.e., “opt-out” of receiving) commercial e-mail messages (the primary purpose of which is the commercial advertisement or promotion of a commercial product or service) from us (on a category-by-category basis), by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page. If you have previously opted out of receiving commercial e-mail messages related to one or more categories, you may cancel your request to opt-out of (i.e., consent to receive commercial e-mail messages from us related to) such categories (on a category-by-category basis) by clicking on [Update Your Email Preferences](http://www.idearcmedia.com/customersupport/contactus/opt/opt.jsp) (or otherwise visiting the e-mail campaign opt-out page), and following the directions provided on the e-mail campaign opt-out page.
-
-Please note that we reserve the right to send e-mails to online users, including those who have opted out of receiving commercial e-mail messages, to (a) facilitate, complete or confirm a commercial transaction the user has agreed to enter into with Idearc; (b) provide warranty information, product recall information, or safety or security information with respect to a commercial product or service used or purchased by the user; (c) provide notification concerning a change in the terms or features of, notification of a change in the user’s standing or status with respect to, or at regular periodic intervals, account balance information or other type of account statement with respect to, a subscription, membership, account or comparable ongoing commercial relationship involving the ongoing purchase or use by the user of products or services offered by Idearc; (d) provide information directly related to an employment relationship or related benefit plan in which the user is currently involved, participating or enrolled, (e) deliver goods or services, including product updates or upgrades, that the user is entitled to receive under the terms of a transaction that the user has previously agreed to enter into with Idearc, (f) communicate other non-commercial e-mail messages, and (g) communicate commercial e-mail messages that the user consents to receiving.
-
-If you are visiting a site via a link on This Website, you are advised to read the privacy policy of that other site for its policies regarding e-mail. (See section entitled “Do you accommodate links to other sites?”, above)
-
-Online Advertising  
-**What is Idearc's position regarding online advertising and third party ad servers?**
-
-Idearc accepts advertisements from third parties that serve advertising into This Website. Idearc may use clear .gif files (also known as “web beacons”) provided by such third parties in the pages containing the ad(s) that Idearc sends to your browser. These "clear gifs" allow the third parties to automatically collect information (e.g., usage pattern information) about your visit to This Website.
-
-As an online advertiser, Idearc may use information supplied from third party companies in several ways, such as to: 
-
-| 
-
-| 
-
-Evaluate and prioritize site selection when developing online media plan   
-  
----|---|---  
-  
-|  | 
-
-Geographically target advertising   
-  
-|  | 
-
-Deliver product and pricing advertising/information applicable to the customers' state   
-  
-|  | 
-
-Gauge the effectiveness of our online advertising   
-  
-Security  
-**What security measures are in place to restrict access to personally identifiable information?**
-
-Idearc is committed to protecting your personally identifiable information that you provide through This Website. This Website is protected with a variety of security measures such as change control procedures and physical access controls (and passwords, as applicable). We also implement other control mechanisms in an effort to help protect personally identifiable information that you provide through This Website from being lost, misused or altered inappropriately.
-
-This Website supports 128 bit Secure Socket Layer (SSL) encryption to transmit certain information (e.g., credit card information provided by the user and social security numbers provided by the user). SSL is a transport level technology for authentication and data encryption between a web server and a web browser. SSL sends data over the "socket", which is a secure channel at the connection layer. 
-
-Cookies  
-**What is a cookie and why does Idearc use them?**
-
-A cookie is a small data string our server writes to your hard drive that contains your unique User ID for This Website. Cookies help us to identify new and returning users to This Website, analyze click-stream data, and track historical activity on This Website, which allows us to give you a more personalized, useful experience on This Website. 
-
-Cookies help Idearc to enhance the user's online experience and can be used to: 
-
-| 
-
-| 
-
-deliver the appropriate geographic message   
-  
----|---|---  
-  
-|  | 
-
-manage frequency of ad exposure; avoid over delivery of the same message   
-  
-|  | 
-
-tailor an advertisement or other content to better match your interests and preferences   
-  
-|  | 
-
-ensure that you see the correct products and pricing applicable to the state in which you live   
-  
-|  | 
-
-keep track of your order as you order services   
-  
-|  | 
-
-understand advertising effectiveness   
-  
-|  | 
-
-manage features and programs made available through This Website   
-  
-A cookie cannot be used to access or otherwise compromise the data on your hard drive. However, customers are free to delete website cookies. Most internet browsers enable you to erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored.
-
-You can choose to change your browser settings to disable cookies if you do not want us to establish and maintain a unique User ID. Please be aware that cookies may be required to complete certain functions on This Website, such as ordering products or services and My Superpages. To disable cookies, see "Setting Cookie Preferences", below.
-
-However, you need to understand that some websites/ad serving companies have the ability to reestablish your history even after cookie deletion, if you reenter the same site on another occasion, or some other site tracked by the ad serving company/network, and specifically provide personal data.
-
-Deletion of cookies alone does not prevent ad serving companies from reestablishing history on a user. The user must either continue to decline cookies each time it reenters the site to keep the tracking severed, if desired, or opt-out. When you opt-out, your unique user ID cookie is erased and you are reassigned an anonymous, non-id cookie. This new cookie tells websites that you have opted out and they will then know not to attempt to assign other cookies to you in the future. Opt-out cookies do not contain a unique user ID number therefore websites are not able to identify your computer uniquely.
-
-Users who choose to continually delete cookies and not opt out can have their browser advise them each time a website attempts to send a cookie to your system. At that time, you can choose to either Accept or Cancel a cookie. Users who choose to "opt out" after deleting cookies will receive an anonymous/non personally identifiable cookie. 
-
-**Here is How to Set Your Cookie Preferences:**
-
-| 
-
-| 
-
-Microsoft Internet Explorer 5+: From the menu, select Tools and click on Internet Options. Click on the Privacy tab.   
-  
----|---|---  
-  
-|  | 
-
-Mozilla Firefox: From the menu, select Tools and click on Options. Click the Privacy panel and then click on the Cookies label.   
-  
-|  | 
-
-Netscape Navigator 7+: From the menu, select Edit and click Preferences. Click the Privacy & Security category, then click Cookies.   
-  
-|  | 
-
-Other Browsers: Contact the manufacturer of the browser for information.   
-  
-Children's Privacy  
-**Does Idearc knowingly collect personal information from children through This Website?**
-
-Idearc does not knowingly collect personal information from children through This Website. Idearc does not request that users provide any personal information through any area of This Website that is directed towards children. Idearc may, however, automatically collect certain information regarding users’ visits to This Website (for example, the user’s IP address, the user’s domain name, the user’s user agent, which pages the user visits and for how long, the date and time the user accessed This Website and the referral URL) including areas of This Website that are directed towards children. (See Section entitled “Information Idearc Collects”.) 
-
-We cannot always determine the age of persons who access and use This Website. If a child visits This Website or provides us with the child’s information, we encourage the parent or guardian of the child to Contact Us to have such information deleted. This Website, and any site to which users may link from This Website, may contain content provided by advertisers or other third parties that may not be suitable for children. Idearc asks parents or legal guardians to assist Idearc by supervising any activities of children at This Website. 
-
-Contact Information  
-**Who do I contact if I am concerned, or have questions, about my privacy related to This Website?**
-
-Please visit [Contact Us](http://www.superpages.com/about/contact.html).
+InfoSpace, Inc.   
+601 108th Avenue NE, Suite 1200   
+Bellevue, Washington 98004 USA   
+\+ (1) 425.201.6100 phone   
+\+ (1) 425.201.6150 fax   
+[Contact Us](http://search.infospace.com/ispace/ws/contactUs/_iceUrlFlag=11?_IceUrl=true&rfcid=1293&rfcp=footer-full)
