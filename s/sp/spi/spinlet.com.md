@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spinlet.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231013248id_/http%3A//www.spinlet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spinlet.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606190328id_/http%3A//www.spinlet.com/privacy) for the most accurate reproduction.*
 
-# Privacy - Spinlet
+# Free iPhone Application, An online Social Music Network, Spinlet
 
 This statement applies to Spinlet(TM) services, mobile offering and website (“services”). 
 
