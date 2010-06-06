@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206130305id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalgiving.org privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001607id_/http%3A//www.globalgiving.org/aboutus/privacypol.html) for the most accurate reproduction.*
 
 # Privacy Policy - GlobalGiving
 
@@ -50,12 +50,12 @@ In order to collect this information, the site places a cookie on your hard driv
 
 GlobalGiving uses the personal information that you provide, and the technical information logged by our servers to process your donations, to: 
 
-  * → deliver the notifications described above; 
-  * → notify your friends and family about the project if you ask us to; 
-  * → improve your experience (such as remembering your name, the items in your Giving Cart, or your preferences); 
-  * → contact you regarding your donation(s) and other aspects of the service; 
-  * → operate the site and our business; and 
-  * → compile aggregate statistics that allow us to understand how visitors use our site, and to make improvements in design and content to better serve you.
+  * deliver the notifications described above; 
+  * notify your friends and family about the project if you ask us to; 
+  * improve your experience (such as remembering your name, the items in your Giving Cart, or your preferences); 
+  * contact you regarding your donation(s) and other aspects of the service; 
+  * operate the site and our business; and 
+  * compile aggregate statistics that allow us to understand how visitors use our site, and to make improvements in design and content to better serve you.
 
 
 
@@ -65,9 +65,9 @@ We will share your personal information with our agents, representatives, servic
 
 Unless you ask us not to, we also share your personal information when you make a donation: 
 
-  * → When you donate to a registry, fundraiser, or giving group, we share your name and the date and amount of your donation with the person who created the fundraiser, registry, or group.
-  * → When you donate to a project, we share your name and contact information and the amount of your donation with the project leader.
-  * → Each time you make a donation, however, we will give you the opportunity to tell us not to share your personal information in the ways described above.
+  * When you donate to a registry, fundraiser, or giving group, we share your name and the date and amount of your donation with the person who created the fundraiser, registry, or group.
+  * When you donate to a project, we share your name and contact information and the amount of your donation with the project leader.
+  * Each time you make a donation, however, we will give you the opportunity to tell us not to share your personal information in the ways described above.
 
 
 
