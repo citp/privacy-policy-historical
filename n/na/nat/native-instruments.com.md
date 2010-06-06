@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201192150id_/http%3A//www.native-instruments.com/en/company/other-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the native-instruments.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606213633id_/http%3A//www.native-instruments.com/en/company/other-pages/privacy-policy) for the most accurate reproduction.*
 
 # OTHER PAGES : PRIVACY POLICY | NATIVE INSTRUMENTS : COMPANY
 
@@ -38,6 +38,9 @@ Our data processing system is protected against access from outside by a firewal
 Our employees are bound to secrecy. Depending on which area they work in, this may include: 
 
 The data protection officer also has a special professional secrecy obligation to observe. 
+
+**Google's program for "interest-based advertising"**   
+Within the scope of its marketing operations NATIVE INSTRUMENTS uses Google’s program for “interest-based advertising”, so-called remarketing. In the process of this program a special browser cookie is stored on the user’s computer. It is used for serving the user special ads by Native Instruments, Google or third-party services when visiting other websites. 
 
 **Your data protection rights**   
 According to the BDSG you have a right to be furnished at no charge with information on the data we stored about you and on their use, as well as under certain circumstances a right to correction, blocking or deletion of your data.   
