@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213042522id_/http%3A//mashery.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mashery.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606040406id_/http%3A//www.mashery.com/privacy) for the most accurate reproduction.*
 
 # Mashery - Privacy Policy
 
@@ -49,11 +49,11 @@ The Website is not directed at individuals under thirteen years of age, and Mash
 
 #### 5\. Your Rights to View and Edit Information Submitted Voluntarily
 
-In most cases, the tools that collect and store personally-identifiable information allow you to correct, update or review that information (and any preferences) by logging-in to the specific service and making the desired changes to your registration information in the "My Account" page. In most cases you may also withdraw your registration or inquire about your personal information maintained by Mashery by sending us an email at [privacy@Mashery.com](mailto:privacy@Mashery.com).
+In most cases, the tools that collect and store personally-identifiable information allow you to correct, update or review that information (and any preferences) by logging-in to the specific service and making the desired changes to your registration information in the "My Account" page. In most cases you may also withdraw your registration or inquire about your personal information maintained by Mashery by sending us an email at privacy AT mashery [dot] com.
 
 #### 6\. Your Rights to Opt-Out, Opt-In, or Limit Specific Uses and Disclosures of Your Personally Identifiable Information
 
-When you register with the Website, you may be asked whether you want to receive special announcements and future newsletters by email. If you check "yes" but change your mind at any time in the future and no longer wish to receive our newsletter and other special announcements by email you will be able to Opt-Out of these services by: (a) going to your "My Account" page within the applicable Mashery service; (b) following the directions included at the bottom of any newsletter issue; and/or (c) sending us an email at [privacy@Mashery.com](mailto:privacy@Mashery.com) and we will take you off the applicable list. You may also Opt-In to receive communications from us and our partners at the point of registration or by similarly following the instructions above.
+You can access and modify the account information you provide us by signing in to your “My Account” page within the applicable Mashery service. Should you no longer wish to receive certain communications from us, you may (a) follow the unsubscribe instructions included in the communications you receive, or (b) send us an email at privacy AT mashery [dot] com with “unsubscribe” in the subject line, and we will take you off the applicable list. We reserve the right to send you certain account and legal communications relating to the applicable Mashery service, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them.
 
 #### 7\. Links to Other Internet Sites
 
