@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilestopic.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230347id_/http%3A//mobilestopic.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilestopic.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606184052id_/http%3A//www.mobilestopic.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy, Latest Mobile Phone News & Reviews by MobilesTopic.com
 
