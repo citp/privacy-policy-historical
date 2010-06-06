@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525215827id_/http%3A//vizrt.com/about/privacy_statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vizrt.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606184304id_/http%3A//www.vizrt.com/about/privacy_statement) for the most accurate reproduction.*
 
-# Vizrt - Content meets expression - Privacy Statement
-
-## Privacy Statement
+# Vizrt - Privacy Statement
 
 Your right to privacy is extremely important to us. As a user, you may visit our site while remaining anonymous and without the need to reveal any personal information. However, in certain portions of the site you may be asked to provide personal information, such as your name, address, and e-mail. Vizrt will use this data to contact you with information that is relevant to the reasons for which it was submitted. 
 
