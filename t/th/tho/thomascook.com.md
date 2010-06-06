@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2009-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090928032125id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomascook.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606061321id_/http%3A//www.thomascook.com/privacy-policy) for the most accurate reproduction.*
 
 # Thomas Cook understands the importance of site privacy
 
-  * [ Home ](https://web.archive.org/)
+  * [Home](https://web.archive.org/)
   * 
 
 
@@ -25,5 +25,6 @@ Users who have subscribed to our e-mail service or visitors purchasing products 
 
 We will provide a summary of any personal information held upon request. This information will only be sent to the e-mail address on file for the subscriber name associated with it. To obtain an information summary please [e-mail us](http://thomascooknew.custhelp.com/cgi-bin/thomascooknew.cfg/php/enduser/std_alp.php). Thomas Cook Retail Ltd, its contractors, agents, owners, and employees are not responsible for the content or the privacy policies of other web sites to which this Site may link.
 
-  
+[](http://www.thomascook.com/)
 
+ **My Thomas Cook** Register your email address to receive eNews, offers, holiday-related tips, plus more so you don't miss a holiday trick[Login ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=-9151085007527328591&fromPage=true) | [Register ](https://www.thomascook.com/myThomasCook/login.jsp?_DARGS=/common/fragments/tcHeader.jsp.1_A&_DAV=/templates/urlFilterPage.jsp&_dynSessConf=-9151085007527328591&fromPage=true)| [Email Sign Up](https://web.archive.org/why-register)
