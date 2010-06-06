@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultimateidx.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625180843id_/http%3A//www.ultimateidx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultimateidx.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606191901id_/http%3A//www.ultimateidx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | The UltimateIDX
 
