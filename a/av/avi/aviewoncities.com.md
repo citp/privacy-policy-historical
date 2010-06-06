@@ -1,19 +1,20 @@
-> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620155002id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviewoncities.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606112613id_/http%3A//www.aviewoncities.com/_privacy.htm) for the most accurate reproduction.*
 
 # A View On Cities - Privacy Policy
 
-  
-
-
-The privacy of our visitors to aviewoncities.com is important to us. 
+## The privacy of our visitors to aviewoncities.com is important to us
 
 At aviewoncities.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit aviewoncities.com, and how we safeguard your information. We never sell your personal information to third parties. 
 
-Log Files
+## Newsletter
+
+We hate spam as much as you do. We only send our newsletter with hotel promotions to those who opted in by subscribing via a hotel page such as [www.aviewoncities.com/hotels.htm](https://web.archive.org/web/20100606112613id_/http%3A//www.aviewoncities.com/hotels.htm) or by accepting to receive newsletters when booking a hotel (disabled by default). If you do not want to stop receiving our newsletter, click on the subscribe link in the newsletter or use [this page](http://www.aviewoncities.com/zznewsletters/newsletter.htm) to unsubscribe.
+
+## Log Files
 
 As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
 
-Cookies and Web Beacons 
+## Cookies and Web Beacons
 
 We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums. 
 
@@ -21,3 +22,6 @@ We also use third party advertisements on aviewoncities.com to support our site.
 If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/).
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts. 
+
+  
+
