@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ename.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206105330id_/http%3A//www.ename.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ename.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607001152id_/http%3A//www.ename.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy:The preferred platform of domain buying & selling
 
