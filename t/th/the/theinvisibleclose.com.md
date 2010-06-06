@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theinvisibleclose.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214213934id_/http%3A//www.theinvisibleclose.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theinvisibleclose.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606091244id_/http%3A//www.theinvisibleclose.com/privacy.htm) for the most accurate reproduction.*
 
 # The Invisible Close | The Queen of Sales Conversions | Privacy
 
