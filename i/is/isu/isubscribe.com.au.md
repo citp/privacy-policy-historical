@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226080359id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubscribe.com.au privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606065349id_/http%3A//www.isubscribe.com.au/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy - Australian Magazines :: iSUBSCRiBE - magazine subscriptions online
 
 iSUBSCRiBE Pty Ltd is committed to protecting and maintaining your privacy. As part of normal daily operations we may collect your information. The following Privacy Policy describes the type of information iSUBSCRiBE may collect and what may happen to that information.
 
-Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 303, 25 Lime Street Sydney 2000
+Any questions regarding this policy or enquiries regarding privacy should be sent to iSUBSCRiBE Pty Ltd Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000
 
 **What type of information is collected by iSUBSCRiBE?**
 
@@ -32,4 +32,4 @@ iSUBSCRiBE may also provide your information to other organizations who are spon
 
 Cookies are small pieces of information that are stored by your browser on your computers hard drive. Our cookies do not contain any personally identifying information, but they do enable us to provide the functionality you require when visiting iSUBSCRiBE websites (for example, to place items in your shopping cart).
 
-If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE, Suite 303, 25 Lime Street, Sydney NSW Australia 2000 or via e-mail [info@isubscribe.com.au](mailto:info@isubscribe.com.au)
+If you would like to make an access request or wish to provide feedback about this policy, please contact iSUBSCRiBE by writing to the General Manager iSUBSCRiBE Pty Ltd, Suite 17, 13 Hickson Road, Dawes Point NSW Australia 2000 or via e-mail [info@isubscribe.com.au](mailto:info@isubscribe.com.au)
