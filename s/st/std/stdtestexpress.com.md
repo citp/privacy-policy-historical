@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206105329id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stdtestexpress.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606095522id_/http%3A//www.stdtestexpress.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Std Test Express
+# Privacy Policy | STD Test Express
 
 * * *
 
@@ -44,13 +44,13 @@ We reserve the right to disclose your personally identifiable information as req
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently.
 
-PHN Services is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/contact/). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
+PHN Services is a licensee of the TRUSTe Privacy Program. If you have questions or concerns regarding this statement, please [contact us](https://web.archive.org/contact/). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 Write to us at:
 
 **Personal Health Network**  
-P.O. Box 06256  
-Chicago, IL 60606-6256
+P.O. Box 3012  
+Chicago, IL 60654
 
 PHN Services is located at:
 
