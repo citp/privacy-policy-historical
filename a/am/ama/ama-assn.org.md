@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214115509id_/http%3A//www.ama-assn.org/ama/pub/footer/privacy-policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ama-assn.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606074027id_/http%3A//www.ama-assn.org/ama/pub/footer/privacy-policy.shtml) for the most accurate reproduction.*
 
 # AMA - Privacy Policy
 
@@ -81,7 +81,7 @@ You should be aware that other Internet sites that link to the AMA site or to an
 **How you can access and change information**  
 If you are a registered user of the AMA Web site, subscriber to AMA publications, purchaser of AMA products or an AMA member, you may review and update/correct your information by using your user name and password or by contacting the AMA Unified Service Center at (800) 621-8335.
 
-Physicians and medical students may [update or correct any information the AMA may have on file by going online](http://www.ama-assn.org/ama/pub/membership/manage-your-membership/update-your-information.shtml) or may call (800) 621-8335. Updates or corrections to certain types of information (e.g. physician licensure, medical education or training, etc.) will require independent verification prior to effectuating any (permanent) change to our files.
+Physicians and medical students may [update or correct any information the AMA may have on file by going online](http://www.ama-assn.org/go/oldcc) or may call (800) 621-8335. Updates or corrections to certain types of information (e.g. physician licensure, medical education or training, etc.) will require independent verification prior to effectuating any (permanent) change to our files.
 
 **Changes to the Internet privacy statement**  
 The AMA regularly reviews its compliance with this Internet Privacy Statement. Please feel free to direct any questions or concerns regarding this Internet Privacy Statement or AMA’s treatment of personal information by sending us an e-mail. Changes to our Internet Privacy Statement will be noted below so that you can be fully informed about the privacy protections we provide and your choices with regard to our use of personal information.
