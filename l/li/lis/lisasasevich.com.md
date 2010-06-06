@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisasasevich.com privacy policy that was archived on 2009-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090606023631id_/http%3A//www.lisasasevich.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisasasevich.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606185005id_/http%3A//www.lisasasevich.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
