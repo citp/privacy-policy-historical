@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123142835id_/http%3A//www.photonvps.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonvps.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606082831id_/http%3A//www.photonvps.com/privacy_policy.html) for the most accurate reproduction.*
 
 # PhotonVPS - Privacy Policy
 
