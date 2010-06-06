@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the whitepaperworld.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115081154id_/http%3A//whitepaperworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitepaperworld.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606204836id_/http%3A//whitepaperworld.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | White Paper World
 
-**Privacy Policy**
+**Privacy Policy – IT Knowledge Hub LLC  
+**
 
-WhitePaperWorld.com takes pride in creating richer, deeper interactive experiences through editorial programming that combines syndicated, original, independent and user-generated content. WhitePaperWorld.com has a strong presence in the USA, Asia, Africa, Europe, and the Middle East.  
-This privacy policy applies to the U.S. operations of all brands and services within the WhitePaperWorld.com family.
+WhitePaperWorld.com, owned and operated by IT Knowledge Hub LLC, takes pride in creating richer, deeper interactive experiences through editorial programming that combines syndicated, original, independent and user-generated content. WhitePaperWorld.com has a strong presence in the USA, Asia, Africa, Europe, and the Middle East. This privacy policy applies to the U.S. operations of all brands and services within the WhitePaperWorld.com family.
 
 **Overall Privacy Statement**
 
