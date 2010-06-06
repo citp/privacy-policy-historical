@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228040013id_/http%3A//www.wealthyaffiliate.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthyaffiliate.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606065218id_/http%3A//www.wealthyaffiliate.com/privacy.php) for the most accurate reproduction.*
 
 # WealthyAffiliate.com - Disclaimer
 
