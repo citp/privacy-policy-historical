@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the experimentalbiology.org privacy policy that was archived on 2009-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091122112749id_/http%3A//experimentalbiology.org/content/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the experimentalbiology.org privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606165417id_/http%3A//experimentalbiology.org/content/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - ExperimentalBiology.org
 
