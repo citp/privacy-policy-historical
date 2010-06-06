@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129141258id_/http%3A//www.moneyexpert.com/Common/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyexpert.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606143713id_/http%3A//www.moneyexpert.com/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Money Expert :: Privacy Policy
+# Money Expert - Privacy Policy
 
 **Our Commitment to Privacy**  
 MoneyExpert Limited is committed to keeping private, within a secure environment, the data that we collect through the use of our software. We therefore aim to provide an environment in which you know that we respect your right to privacy and will do whatever we can to ensure that any information you provide to us remains private. Any such information will only be used for the purposes described below.
@@ -32,17 +32,17 @@ By using our website, and completing an enquiry form, you will be regarded as ha
 
 MoneyExpert Limited use third party email service suppliers to send our customers emails.
 
-If you do not wish to be contacted by via email us in future, please click the [unsubscribe link](https://members.moneyexpert.com/servlet/website/responseform?thgLRE1glNIlJkpIL_wkpOHJRwhspJR) and follow the instructions. We will then cease to contact your via email to offer products and services that you may be interested in.
+If you do not wish to be contacted by via email us in future, please click the [unsubscribe link](https://members.moneyexpert.com/servlet/website/ResponseForm?thgLRE1glNIlJkpIL_wkpOHJRwhspJR) and follow the instructions. We will then cease to contact your via email to offer products and services that you may be interested in.
 
 Alternatively, you can email us at unsubscribe@moneyexpert.com, requesting that your email address is removed.
 
 MoneyExpert's price comparison service involves us passing the details you input to our website to our partners. This enables the partners to provide us with quotations on the products and services that you have requested. If you do decide to enter into a contract with one of our partners then the information which we have supplied to them (as well as any further information requested by them to enable to them to complete the contract) will be held by the partner. You are therefore advised to read the partners privacy policy before entering into any contract with them.
 
-We may also share your personal information with other [Trusted Business Partners](https://web.archive.org/common/trustedpartners.aspx "View our Trusted Business Partners") and other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
+We may also share your personal information with other [Trusted Business Partners](https://web.archive.org/products.aspx "View our Trusted Business Partners") and other professional advisers, financial organisations and advisers, sponsors and advertisers. Such parties may contact you by phone, e-mail or otherwise to inform you about products and services that may be of interest to you. If you prefer to opt out of such direct marketing activity, please let us know by any means convenient for you so that we may remove your personal data from our marketing database. However, please remember that by opting out, we will not be able to contact you about products or services that may benefit you.
 
 If you provide us with information about another person, you confirm that they have appointed you to act for them and they have consented to the processing of their personal data as set out above.
 
-If your enquiry is in regard to Mortgage advice, we will arrange for one of our [Trusted Business Partners](https://web.archive.org/common/trustedpartners.aspx "View our Trusted Business Partners") to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
+If your enquiry is in regard to Mortgage advice, we will arrange for one of our [Trusted Business Partners](https://web.archive.org/products.aspx "View our Trusted Business Partners") to contact you by phone. In some circumstances, we may arrange for an alternative Mortgage Adviser to contact you. In these cases, we will notify you of the name of the adviser and request your permission for your details to be sent to them before any contact is made.
 
 MoneyExpert may also disclose your personal information to governmental bodies and regulators where required to do so by law, or where necessary for MoneyExpert Limited to fulfil our regulatory obligations.
 
@@ -77,4 +77,4 @@ A cookie in no way gives us access to your computer or any information about you
 **Changes to the Policy**  
 We may need to amend the Privacy Policy from time to time. Any such amendment will take effect as soon as it is posted on the website. You are therefore encouraged to familiarise yourself with the Privacy Policy on a regular basis. 
 
-Click [here](https://web.archive.org/common/termsconditions.aspx "View our Terms & Conditions") to view our terms and conditions.
+Click [here](https://web.archive.org/terms-and-conditions.aspx "View our Terms & Conditions") to view our terms and conditions.
