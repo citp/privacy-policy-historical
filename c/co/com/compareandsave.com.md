@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125120409id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compareandsave.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606044444id_/http%3A//www.compareandsave.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Compare and Save
+
+[Home](https://web.archive.org/) / Privacy Policy
 
 Freedom Marketing Limited (CompareandSave.com) does not capture and store any personal information about individuals who access this web site, except where you voluntarily choose to give us your personal details via email, by registering for our newsletter, or by enquiring about any of our services.
 
