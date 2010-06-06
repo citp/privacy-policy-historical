@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221123724id_/http%3A//www.allaboutjazz.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allaboutjazz.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606153242id_/http%3A//www.allaboutjazz.com/privacy.php) for the most accurate reproduction.*
 
-# Jazz - AllAboutJazz.com
-
-  
-**Secure Shopping Guarantee and Privacy Information**
-
-  
-
+# All About Jazz Privacy Policy
 
 **_Making a purchase at All About Jazz is 100% safe - We Guarantee It._**
 
