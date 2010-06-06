@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freudbox.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217044154id_/http%3A//www.freudbox.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freudbox.com privacy policy that was archived on 2010-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100606073204id_/http%3A//www.freudbox.com/pages/privacy.html) for the most accurate reproduction.*
 
-# Freud Box - Privacy Policy
+# Privacy
 
 This is the web site of Rich Media SoIutions Inc.
 
@@ -18,7 +18,7 @@ If you do not want to receive e-mail from us in the future, please let us know b
 
 If you supply us with your postal address on-line you will only receive the information for which you provided us your address.
 
-Calling us at the number provided above or Visit [your profile page](https://web.archive.org/profile/) and customize yourt settings.
+Calling us at the number provided above or Visit [ your profile page](https://web.archive.org/profile/) and customize yourt settings.
 
 With respect to Ad Servers: We do not partner with or have special relationships with any ad server companies.
 
