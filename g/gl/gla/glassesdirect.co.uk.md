@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623090059id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607083047id_/http%3A//www.glassesdirect.co.uk/pacp) for the most accurate reproduction.*
 
-# Glasses Direct | Legal Stuff | Privacy Statement
+# Privacy Policy
 
 * * *
 
 ### 1\. INTRODUCTION
 
-### PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN TH
+### PLEASE DO NOT SEND EMAILS OR REGISTER ON THE SITE IF YOU DO NOT WANT THAT INFORMATION TO BE PROCESSED BY US IN THE WAYS DESCRIBED BY THIS NOTICE. BY PROVIDING US WITH INFORMATION ON THE SITE, YOU CONSENT TO THE TRANSFER OF PERSONAL DATA AS DESCRIBED IN THE FOLLOWING POLICY
 
 Your privacy is important to us. This Privacy and Cookie Policy explains what information we collect about you and what we do with it. Please take a few minutes to read it.
 
