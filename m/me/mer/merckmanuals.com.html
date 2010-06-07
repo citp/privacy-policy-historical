@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the merckmanuals.com privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231010325id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the merckmanuals.com privacy policy that was archived on 2010-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607115724id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" webkit chrome linux js"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -45,11 +45,41 @@
 <link type="text/css" rel="stylesheet" href="/css/merckAccordian.css">
 <link type="text/css" rel="stylesheet" href="/css/merckTabs.css">
 <!--js global-->
-<!-- global css-->
+<!-- Created by Amit Gaur -->
 <script type="text/javascript" src="/js/css_browser_selector.js"></script>
 <script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+
+<script src="/includes/audio-video/swf/AC_OETags.js" language="javascript" type="text/javascript"></script>
+
 <script language="JavaScript">		
-		var externalLinkWarning = "The link you have selected will take you to a site outside Merck.com. \n\n Merck does not review or control the content of any non-Merck site. Merck does not endorse and is not responsible for the accuracy, \n content, practices, or standards of any non-Merck sources.";
+		var externalLinkWarning;
+		var registeredsymbolstyle;
+		var registeredsymbolHerostyle;
+		var is_chrome = navigator.userAgent.toLowerCase().indexOf('chrome') > -1;
+
+		if (/Firefox[\/\s](\d+\.\d+)/.test(navigator.userAgent)){ 
+
+			externalLinkWarning = "The link you have selected will take you to a site outside Merck.com. \n\nMerck does not review or control the content of any non-Merck site. Merck does not endorse and is not responsible for the accuracy, content, practices, or standards of any non-Merck sources.";
+
+			registeredsymbolstyle = "<sup style='padding:0px;font-size: 0.63em; top:0.23em;line-height: 0.5em;vertical-align:super'>&reg;</sup>";
+			registeredsymbolHerostyle="<sup style='padding:0.3em 0em 0em 0em; line-height: 0.5em;top: -0.02em;font-size: 18px;'>&reg;</sup>";
+
+		}
+		else if (is_chrome == true)
+		{
+			externalLinkWarning = "The link you have selected will take you to a site outside Merck.com. \n\nMerck does not review or control the content of any non-Merck site. Merck does not endorse and is not responsible for the accuracy, content, practices, or standards of any non-Merck sources.";
+
+			registeredsymbolstyle = "<sup style='padding:0px;font-size: 0.63em; top:-0.01em; line-height: 0.5em;vertical-align:super'>&reg;</sup>";
+			registeredsymbolHerostyle="<sup style='padding:-0.01em;top: -0.01em;font-size: 18px;'>&reg;</sup>";
+		}
+		else
+		{
+			externalLinkWarning = "The link you have selected will take you to a site outside Merck.com. \n\nMerck does not review or control the content of any non-Merck site. Merck does not endorse and is\nnot responsible for the accuracy, content, practices, or standards of any non-Merck sources.";
+
+			registeredsymbolstyle = "<sup style='padding:0px;font-size: 0.88em; top:-0.01em;line-height: 0.9em;vertical-align:super;'>&reg;</sup>";
+			registeredsymbolHerostyle="<sup style='padding:0.3em 0em 0em 0em;top: -0.02em;font-size: 21px;'>&reg;</sup>";
+		}
+
 		function extLink(link) {			
 			var elw = externalLinkWarning.replace(/\*n/g,'\n');
 			var uc = confirm(elw);	
@@ -89,7 +119,7 @@ modal.enter('<div id="pdfdisplay"><a href="javascript:modal.exit();"><img src="/
 <script language="JavaScript">
 		function explanation_of_newprivacy_policy1()
 		{		
-			window.open('/about/how-we-operate/privacy/explanation-of-changes-to-merck-safeharborpolicy.html', 'EXPLANATION', 'toolbar=0, location=0, directories=0, menuBar=0, scrollbars=0, resizable=0, width=800, height=300, left=375, top=350');
+			window.open('/about/how-we-operate/privacy/explanation-of-changes-to-merck-safeharborpolicy.html', 'EXPLANATION', 'toolbar=0, location=0, directories=0, menuBar=0, scrollbars=0, resizable=0, width=800, height=210, left=375, top=350');
 		}
 </script>
 
@@ -104,7 +134,8 @@ function setActive() {
 	  for(j=0;j<child1.length;j++) {
 				
 				if(document.location.href.indexOf(child1[j].href)>=0) {  
-					parent1.className="altactive";
+					//parent1.className="altactive";
+					parent1.style.font="bold 11px arial,serif";
 					parent1.href = "javascript:Void()";
 					break;
 				}
@@ -120,7 +151,8 @@ function setActive() {
 	  for(i=0;i<child2.length;i++) {
 			
 				if(document.location.href.indexOf(child2[i].href)>=0) {  
-					parent2.className="altactive";
+					//parent2.className="altactive";
+					parent2.style.font="bold 11px arial,serif";
 					parent2.href = "javascript:Void()";
 					break;					
 				}
@@ -136,7 +168,8 @@ function setActive() {
 	  for(k=0;k<child3.length;k++) {
 				
 				if(document.location.href.indexOf(child3[k].href)>=0) {  
-					parent3.className="altactive";
+					//parent3.className="altactive";
+					parent3.style.font="bold 11px arial,serif";
 					parent3.href = "javascript:Void()";
 					break;
 				}
@@ -146,6 +179,42 @@ function setActive() {
  
 }
 </script>
+
+
+<!-- Akamaization, Flash detection and print fix starts. Added by Amit Gaur on May 20, 2010 -->
+
+						<meta name="DCSext.dcsid" content="dcs004xtu100000wcf1sga6nx_3f7d"><meta name="DCSext.sdcserver" content="sdc-web.merck.com"><meta name="WT.sp" content="www.merck.com"><meta name="WT.cg_n" content="web"><meta name="WT.cg_s" content="20100607115724id_"><meta name="WT.z_tier2" content="1"><meta name="WT.z_distinct_m" content="2"><meta name="WT.z_distinct_y" content="2"></head><body onload="explanation_of_newprivacy_policy();"><div id="akamaizer" style="visability:hidden;">
+			
+							<a id="annualreport" href="//a248.e.akamai.net/7/248/430/20100306013251/www.merck.com/includes/audio-video/swf/merck_ar_2010.swf"> </a>
+
+						</div>
+
+						<script type="text/javascript">
+						
+
+							function displayar2009()
+
+							 {
+
+								var annualReportAkamaizedPath = document.getElementById('annualreport');
+								var requiredMajorVersion = 9;
+								var requiredMinorVersion = 0;
+								var requiredRevision = 0;									
+								var hasReqestedVersion = DetectFlashVer(requiredMajorVersion, requiredMinorVersion, requiredRevision);
+
+								if (hasReqestedVersion) {
+									modal.enter('<div id="ARdisplay"><div align="right"><a href="javascript:modal.exit();"><img src="/includes/audio-video/swf/assets/images/close_bt.gif" border="0" /></a></div><div align="center"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0" name="ar_2009" width="905" height="535" align="middle" id="ar_2009"><param name="allowScriptAccess" value="always" /><param name="allowFullScreen" value="false" /><param name="movie" value="/includes/audio-video/swf/merck_ar_2010.swf" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src= ' + annualReportAkamaizedPath + ' quality="high" bgcolor="#ffffff" width="905" height="535" name="ar_2009" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div></div>');
+								} else {  								
+									
+									modal.enter('<div id="ARdisplay"><div align="right"><a href="javascript:modal.exit();"><img src="/includes/audio-video/swf/assets/images/close_bt.gif" border="0" /></a></div><div style="width:905px; height:535px; align:center; border-style:solid; background-color: white;"><br><br><br><br><br><br><br><br><br><br><br><br><br>This content requires the Adobe Flash Player. <a href="http://get.adobe.com/flashplayer/#mediaPlayer/loadImage:/includes/audio-video/swf/merck_ar_2010.swf&audio:&inline:true" target="_blank">Get Flash</a></div></div>');
+
+								}	
+
+							}
+
+						</script>
+
+<!-- Akamaization, Flash detection and print fix ends. Added by Amit Gaur on May 20, 2010 -->
 <!-- jquery plugins here -->
 <!-- jquery plugins here -->
 <script type="text/javascript" src="/js/jquery.merckAccordian.js"></script>
@@ -233,9 +302,9 @@ document.getElementsByTagName('head').item(0).appendChild(mtMeta);
 addMeta("DCSext.dcsid","dcs004xtu100000wcf1sga6nx_3f7d");
 addMeta("DCSext.sdcserver","sdc-web.merck.com");
 addMeta("WT.sp","www.merck.com");
-</script><meta name="DCSext.dcsid" content="dcs004xtu100000wcf1sga6nx_3f7d"><meta name="DCSext.sdcserver" content="sdc-web.merck.com"><meta name="WT.sp" content="www.merck.com">
-<meta name="WT.cg_n" content="web"><meta name="WT.cg_s" content="20091231010325id_"><meta name="WT.z_tier2" content="1"><meta name="WT.z_distinct_m" content="2"><meta name="WT.z_distinct_y" content="2"></head>
-<body onload="explanation_of_newprivacy_policy();">
+</script>
+
+
 <a name="top">
 </a><div class="globalWrapper"><a name="top">
   </a><div class="headerContainer"><a name="top">
@@ -371,7 +440,8 @@ addMeta("WT.sp","www.merck.com");
                  <li><a href="/about/views-and-positions/healthcare-reform/home.html">Healthcare Reform</a></li>
                  <li><a href="/about/views-and-positions/innovation/home.html">Innovation</a></li>
                  <li><a href="/about/views-and-positions/quality-and-safety/home.html">Quality and Safety</a></li>
-                 <li><a href="/about/views-and-positions/sales-and-marketing/home.html">Sales and Marketing</a></li>  
+                 <li><a href="/about/views-and-positions/sales-and-marketing/home.html">Sales and Marketing</a></li> 
+                 <li><a href="/about/views-and-positions/corporate-political-contributions/home.html">Corporate Political Contributions </a></li>  
 				 
 				 <ul id="child3">
 				   <li style="display:none" ;=""><a href="/about/views-and-positions/trade-association-memberships.html">trade-association-memberships</a></li> 
@@ -548,7 +618,91 @@ addMeta("WT.sp","www.merck.com");
       <div class="module"> <img src="//a248.e.akamai.net/7/248/430/20091118040820/www.merck.com/images/about/privacy-key.jpg"> </div>
     </div>
   </div>
-  <!-- START OF SmartSource Data Collector TAG -->
+  
+<div class="footer1 clearfix">
+       <!-- <div class="searchFooter">     
+			<form action="/search/userSearch.do" method="get" name="frm"  onsubmit="return validate_header();">
+               <tr>
+                    <td><input type=text name="strSearchTerm"  class="text" maxlength="100" value=""/></td>
+                    <td><input type="image" src="/images/global/butn_search.gif" class="butn" />
+                </tr>
+         	</form> 
+        
+        </div> -->
+	<ul class="sitemap clearfix">
+		<li>
+			<h5><a href="/patients-and-caregivers/home.html">Patients &amp; Caregivers</a></h5>
+			<ul>
+				<li><a href="/responsibility/pap-information.html">Patient Assistance Program</a></li>
+				<li><a href="/merckhelps/uninsured/home.html" target="_blank">Prescription Discount Program</a></li>
+				<li><a href="/mmhe/" target="_blank">The Merck Manual — Home Edition</a></li>
+				<li><a href="/pubs/mmanual_ha/contents.html" target="_blank">The Merck Manual of Health &amp; Aging</a></li>
+                <li><a href="/product/mav/home.html">Adult Vaccination Locator</a></li>
+				<li><a href="/research/discovery-and-development/clinical-development/home.html">Clinical Trials</a></li>				
+			</ul>
+		</li>
+		<li>
+			<h5><a href="http://www.merckservices.com" target="_blank">Healthcare Professionals</a></h5>
+			<ul>
+				<li><a href="/mmpe/" target="_blank">The Merck Manual</a></li>
+				<li><a href="http://www.merckservices.com" target="_blank">Merck Services</a></li>
+				<li><a href="/product/distributors/home.html">Authorized Distributors</a></li>
+				<li><a href="/research/discovery-and-development/clinical-development/home.html">Clinical Trials</a></li>
+			</ul>
+		</li>
+		<li>
+			<h5>Media &amp; Investors</h5>
+			<ul>
+				<li><a href="/newsroom/home.html">News</a></li>
+				<li><a href="/investors/partnerships/home.html">Partnerships</a></li>
+				<li><a href="/investors/financials/quarterly-financials/home.html">Quarterly Financials</a></li>
+				<li><a href="/investors/financials/sec-filings/home.html">SEC Filings</a></li>
+				<li><a href="/investors/financials/annual-reports/home.html">Annual Reports</a></li>
+				<li><a href="/investors/events-and-presentations/home.html">Presentations &amp; Events</a></li>
+				<li><a href="/newsroom/company-statements/home.html">Company Statements</a></li>
+				<li><a href="/newsroom/media-contacts/home.html">Media Contacts</a></li>
+				<li><a href="/investors/contact-investor-relations/home.html">Investor Contacts</a></li>
+			</ul>
+		</li>
+		<li>
+			<h5>Job Seekers</h5>
+			<ul>
+				<li><a href="/careers/life-at-merck/diversity-recruiting/home.html">Recruiting</a></li>
+				<li><a href="/careers/life-at-merck/benefits/home.html">Benefits</a></li>
+				<li><a href="/about/how-we-operate/diversity/home.html">Diversity</a></li>
+				<li><a href="/careers/search-and-apply/search-jobs/home.html">Search Jobs</a></li>
+				<li><a href="/careers/search-and-apply/submit-resume/home.html">Post Resume</a></li>
+				<li><a href="/research/pipeline/home.html">Pipeline</a></li>
+				<li><a href="/investors/financials/annual-reports/home.html">Annual Report</a></li>
+				<li><a href="/about/our-values/home.html">Core Values</a></li>
+			</ul>
+		</li>
+        <li>
+			<h5><a href="/newsroom/company-statements/home.html">Company Statements</a></h5>
+			<ul>
+				<li><a href="/newsroom/news-release-archive/product/fosamax_statement.html">FOSAMAX<sup>®&nbsp;</sup> (alendronate sodium) Statement regarding Osteonecrosis of the Jaw</a> </li>
+				<li>&nbsp;&nbsp;</li>
+				<li><h5><a class="rssPodcast" href="/podcast/home.html">Podcasts</a></h5><h5></h5></li>
+				<li><h5><a class="rssPodcast" href="/rss/home.html">RSS</a></h5><h5></h5></li>
+			</ul>
+		</li>
+        </ul>
+	<ul class="legalnav clearfix">
+    	<li class="copyright"><a href="/policy/copyright/home.html">Copyright</a> © 2009-2010 Merck Sharp &amp; Dohme Corp., a subsidiary of<font style="font-size:11px"><b> Merck &amp; Co., Inc.</b></font>, Whitehouse Station, N.J., U.S.A.</li>
+      
+        <li>&nbsp;&nbsp;</li>
+		<li>&nbsp;&nbsp;</li>
+        <li>&nbsp;&nbsp;</li>
+		<li>&nbsp;&nbsp;</li>
+		<li>&nbsp;&nbsp;</li>
+        <li>&nbsp;&nbsp;</li>
+		<li><a href="/about/how-we-operate/privacy/home.html">Privacy</a></li>		
+		<li><a href="/policy/terms-of-use/home.html">Terms of Use</a></li>
+        <li><a href="/map/home.html">Site Map</a></li>
+	</ul>
+</div>
+
+<!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2008 WebTrends Inc. All rights reserved. -->
 <!-- Version: 8.5.0 -->
 <!-- Tag Builder Version: 2.0.0 -->
@@ -578,91 +732,6 @@ mTrack.mtMainCollect();
 _tag.dcsCollect(mTrack);
 //]]>>
 </script>
-<div class="footer1 clearfix">
-       <!-- <div class="searchFooter">     
-			<form action="/search/userSearch.do" method="get" name="frm"  onsubmit="return validate_header();">
-               <tr>
-                    <td><input type=text name="strSearchTerm"  class="text" maxlength="100" value=""/></td>
-                    <td><input type="image" src="/images/global/butn_search.gif" class="butn" />
-                </tr>
-         	</form> 
-        
-        </div> -->
-	<ul class="sitemap clearfix">
-		<li>
-			<h5><a href="/patients-and-caregivers/home.html?WT.svl=footer">Patients &amp; Caregivers</a></h5>
-			<ul>
-				<li><a href="/responsibility/pap-information.html?WT.svl=footer">Patient Assistance Program</a></li>
-				<li><a href="/merckhelps/uninsured/home.html?WT.svl=footer" target="_blank">Prescription Discount Program</a></li>
-				<li><a href="/mmhe/?WT.svl=footer" target="_blank">The Merck Manual — Home Edition</a></li>
-				<li><a href="/pubs/mmanual_ha/contents.html?WT.svl=footer" target="_blank">The Merck Manual of Health &amp; Aging</a></li>
-                <li><a href="/product/mav/home.html?WT.svl=footer">Adult Vaccination Locator</a></li>
-				<li><a href="/research/discovery-and-development/clinical-development/home.html?WT.svl=footer">Clinical Trials</a></li>
-				<li><a href="https://www.healthycircles.com/Public/Consumer/Home.aspx" target="_blank">H1N1 Flu Information System</a></li>
-			</ul>
-		</li>
-		<li>
-			<h5><a href="http://www.merckservices.com?WT.svl=footer" target="_blank">Healthcare Professionals</a></h5>
-			<ul>
-				<li><a href="/mmpe/" target="_blank?WT.svl=footer">The Merck Manual</a></li>
-				<li><a href="http://www.merckservices.com?WT.svl=footer" target="_blank">Merck Services</a></li>
-				<li><a href="/product/distributors/home.html?WT.svl=footer">Authorized Distributors</a></li>
-				<li><a href="/research/discovery-and-development/clinical-development/home.html?WT.svl=footer">Clinical Trials</a></li>
-			</ul>
-		</li>
-		<li>
-			<h5>Media &amp; Investors</h5>
-			<ul>
-				<li><a href="/newsroom/home.html?WT.svl=footer">News</a></li>
-				<li><a href="/investors/partnerships/home.html?WT.svl=footer">Partnerships</a></li>
-				<li><a href="/investors/financials/quarterly-financials/home.html?WT.svl=footer">Quarterly Financials</a></li>
-				<li><a href="/investors/financials/sec-filings/home.html?WT.svl=footer">SEC Filings</a></li>
-				<li><a href="/investors/financials/annual-reports/home.html?WT.svl=footer">Annual Reports</a></li>
-				<li><a href="/investors/events-and-presentations/home.html?WT.svl=footer">Presentations &amp; Events</a></li>
-				<li><a href="/newsroom/company-statements/home.html?WT.svl=footer">Company Statements</a></li>
-				<li><a href="/newsroom/media-contacts/home.html?WT.svl=footer">Media Contacts</a></li>
-				<li><a href="/investors/contact-investor-relations/home.html?WT.svl=footer">Investor Contacts</a></li>
-			</ul>
-		</li>
-		<li>
-			<h5>Job Seekers</h5>
-			<ul>
-				<li><a href="/careers/life-at-merck/diversity-recruiting/home.html?WT.svl=footer">Recruiting</a></li>
-				<li><a href="/careers/life-at-merck/benefits/home.html?WT.svl=footer">Benefits</a></li>
-				<li><a href="/about/how-we-operate/diversity/home.html?WT.svl=footer">Diversity</a></li>
-				<li><a href="/careers/search-and-apply/search-jobs/home.html?WT.svl=footer">Search Jobs</a></li>
-				<li><a href="/careers/search-and-apply/submit-resume/home.html?WT.svl=footer">Post Resume</a></li>
-				<li><a href="/research/pipeline/home.html?WT.svl=footer">Pipeline</a></li>
-				<li><a href="/investors/financials/annual-reports/home.html?WT.svl=footer">Annual Report</a></li>
-				<li><a href="/about/our-values/home.html?WT.svl=footer">Core Values</a></li>
-			</ul>
-		</li>
-        <li>
-			<h5><a href="/newsroom/company-statements/home.html?WT.svl=footer">Company Statements</a></h5>
-			<ul>
-				<li><a href="/newsroom/news-release-archive/product/fosamax_statement.html?WT.svl=footer">FOSAMAX<sup>®&nbsp;</sup> (alendronate sodium) Statement regarding Osteonecrosis of the Jaw</a> </li>
-				<li>&nbsp;&nbsp;</li>
-				<li><h5><a class="rssPodcast" href="/podcast/home.html?WT.svl=footer">Podcasts</a></h5><h5></h5></li>
-				<li><h5><a class="rssPodcast" href="/rss/home.html?WT.svl=footer">RSS</a></h5><h5></h5></li>
-			</ul>
-		</li>
-        </ul>
-	<ul class="legalnav clearfix">
-    	<li class="copyright"><a href="/policy/copyright/home.html?WT.svl=footer">Copyright</a> © 2009 Merck Sharp &amp; Dohme Corp., a subsidiary of<font style="font-size:11px"><b> Merck &amp; Co., Inc.</b></font>, Whitehouse Station, N.J., U.S.A.</li>
-      
-        <li>&nbsp;&nbsp;</li>
-		<li>&nbsp;&nbsp;</li>
-        <li>&nbsp;&nbsp;</li>
-		<li>&nbsp;&nbsp;</li>
-		<li>&nbsp;&nbsp;</li>
-        <li>&nbsp;&nbsp;</li>
-		<li><a href="/about/how-we-operate/privacy/home.html?WT.svl=footer">Privacy</a></li>		
-		<li><a href="/policy/terms-of-use/home.html?WT.svl=footer">Terms of Use</a></li>
-        <li><a href="/map/home.html?WT.svl=footer">Site Map</a></li>
-	</ul>
-</div>
-
-
 
 
 
