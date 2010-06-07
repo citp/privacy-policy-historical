@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2009-10-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091003003932id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drugs.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607154913id_/http%3A//www.drugs.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy for Drugs.com
 
@@ -19,7 +19,7 @@ If you have questions or concerns regarding this statement, you should first con
 
 If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily address, you should contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with us to resolve your concerns. 
 
-Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical informatio. This information may include:
+Drugs.com collects no personal information about you when you visit our web site unless otherwise stated or unless you choose to provide this information to us (such as through registration on our site, MedNotes, or on the product information submission forms). However, we may collect and store certain information automatically. This information will not be shared with anyone beyond the web site support staff, except when required by law enforcement investigation (such as to comply with a judicial proceeding, court order or subpoena), and will be used only as a source of anonymous statistical information. This information may include:
 
   * Internet Protocol (IP) address of the domain from which You access the Internet, either Your individual address or the proxy provided by Your Internet Service Provider (ISP). 
   * Date and time You access our site. 
@@ -53,8 +53,6 @@ However, Your e-mail message, question, or comment may be forwarded to other Dru
 
 Drugs.com follows generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. We use SSL (Secure Socket Layer) technology to protect your sensitive information on our site. If you have any questions about security on our Web site, you can send an [email](http://www.drugs.com/contact.html) using our contact form.
 
->
-
 ### Forum/Bulletin Board
 
 If you use any forum/bulletin board or chat room on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums. Drugs.com also reserves the right to terminate the accounts of visitors who use these services in a manner inconsistent with our Terms of Use.
@@ -68,6 +66,10 @@ If you choose to use our referral service to tell a friend about our site, we wi
 In order to use some areas of this web site, you must first complete the registration form. During registration you are required to provide contact information such as your name, age, email address, preferred username, password and preferred subscriptions. We will only use this information to contact you about the services on our site in which you have expressed interest. You also have the option to provide demographic information to us; we encourage you to submit this information so we can provide you a more personalized experience on our site. 
 
 If your personally identifiable information changes, or if you no longer desire our service, you may update or deactivate your information by signing into your account or by emailing our [Customer Support](http://www.drugs.com/contact.html) or by contacting us by telephone or postal mail at the contact information listed above.
+
+### E-mail Disclosure
+
+If you subscribe to receive e-mail, we will only send messages to notify you about the services on our site in which you have expressed interest. These e-mails may contain an occasional sponsor message. E-mail messages sent to you will always contain at least one clearly visible link to unsubscribe.
 
 ### MedNotes
 
@@ -89,4 +91,4 @@ Drugs.com reserves the right to disclose your personally identifiable informatio
 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our homepage.
 
-Updated: September 16, 2009
+Updated: February 24, 2010
