@@ -1,35 +1,58 @@
-> *The following text is extracted and transformed from the movies-on-demand.tv privacy policy that was archived on 2009-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090306032054id_/http%3A//www.movies-on-demand.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies-on-demand.tv privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607150414id_/http%3A//www.movies-on-demand.tv/privacy-policy) for the most accurate reproduction.*
 
-# Free Movies - Watch Movies Online On Demand For Free Full Movie Downloads
+# Privacy Policy
 
-Thank you for visiting the Movies-On-Demand.TV website (" ** _Site_** ").  We regard your privacy seriously and provide this Privacy Policy to describe which information we collect and how we use it. 
+**What information do we collect?**
 
-  
-**Personally Identifiable Information (PII)**  
-You may use this Site without registering.  You may also register and voluntarily provide personally identifiable information (“ ** _PII_** ”), such as your name and email address.  When you create your account, we will ask you to create a username and password.  You will be able to enter PII into your password-protected account.  You are solely responsible for maintaining the confidentiality of your password and your account information.  In addition, Movies-On-Demand.TV allows you to set up personal profiles that may be viewed by all Site users.  To enrich your experience, you may choose to include some PII in your public profile so that other users can identify you.  You can change or delete your profile anytime. **  **
+We collect information from you when you register on our site.
 
-  
-**Non-Personally Identifiable Information**  
-We may collect non-personally identifiable information (“ ** _Non-PII”_** ) such as your internet protocol address and information associated with your computer, browser and network to deliver services or information, provide notices, track usage, verify your authority to use the Site, store your preferences, and generally improve the content and functionality of the Site.  We may also use small text files stored in your browser called cookies to store your preferences, record session information, and improve Site experience.  We associate cookies with your browser, not with the information to PII you submit in your account. You may be able to configure your browser to accept or reject all or some cookies, or notify you when a cookie is set. 
+When ordering or registering on our site, as appropriate, you may be asked to enter your: name or e-mail address. You may, however, visit our site anonymously.
 
-  
-**Disclosure**  
-We will not intentionally disclose PII in your account except as specifically described in this Privacy Policy.  Non-PII may be shared with third parties to provide more relevant services and advertisements.  We may also disclose your PII and Non-PII if we believe we are required to do so by law, regulation or other government authority, or to prevent harm to yourself or others. In addition, we may transfer your PII to a successor entity upon a change of control of Movies-On-Demand.TV, sale, merger, other corporate reorganization. Such successor entity will be bound by the terms and conditions of this Privacy Policy.
+Google, as a third party vendor, uses cookies to serve ads on your site.  
+Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy..
 
-  
- **Email**  
-Email addresses are used for identification, inviting new friends to Movies-On-Demand.TV, searching for and finding friends, for general communication, and to send notifications to you.  To facilitate searching for and finding friends on the Site, Movies-On-Demand.TV allows users to search for other members using text searches, first and last name, email address, and other attributes.  Users can invite friends to join Movies-On-Demand.TV by sending invitation emails via our automated invitation system.  Movies-On-Demand.TV stores these email addresses so that the respondents may be added to the friend's list of the member sending the invitations, and also to establish relationships between users. Movies-On-Demand.TV does not sell invitation email addresses or use them for any other purpose. 
+**What do we use your information for?**
 
-  
-**Links to Third Party Sites**  
-This Site contains links to other websites.  Your use of linked websites is subject to the terms of use and privacy policies located on the linked websites.
+Any of the information we collect from you may be used in one of the following ways:
 
-  
- **Security**  
-Movies-On-Demand.TV employs procedural and technological measures, consistent with the demands of customer service. Such measures are reasonably designed to protect your information from loss, unauthorized access, disclosure, alteration or destruction.  Movies-On-Demand.TV uses password protection, firewalls, internal restrictions and other security measures to help prevent unauthorized access to your PII.
+• To personalize your experience  
+(your information helps us to better respond to your individual needs)
 
-  
- **Policy Changes**  
-Movies-On-Demand.TV reserves the right to change this Privacy Policy, and will post any revisions on the Site. We encourage you to review this Privacy Policy regularly for any changes. Your continued use of this Site will be subject to the then-current Privacy Policy.
+• To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
 
-If you have questions or comments regarding this Privacy Policy, please email us at [admin@movies-on-demand.tv](mailto:admin@movies-on-demand.tv).
+• To administer a contest, promotion, survey or other site feature
+
+• To send periodic emails  
+The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.
+
+**Do we use cookies?**
+
+Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information
+
+We use cookies to understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**Do we disclose any information to outside parties?**
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+
+**Childrens Online Privacy Protection Act Compliance**
+
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
+
+**Terms and Conditions**
+
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.movies-on-demand.tv/terms-of-use/>
+
+**Your Consent**
+
+By using our site, you consent to our privacy policy.
+
+**Changes to our Privacy Policy**
+
+If we decide to change our privacy policy, we will post those changes on this page.
