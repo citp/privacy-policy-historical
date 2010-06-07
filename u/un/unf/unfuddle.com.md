@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220210233id_/http%3A//unfuddle.com/support/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unfuddle.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607122439id_/http%3A//unfuddle.com/support/privacy_policy) for the most accurate reproduction.*
 
 # Unfuddle Support: Privacy Policy
 
