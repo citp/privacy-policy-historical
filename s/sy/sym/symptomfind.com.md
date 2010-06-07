@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517140000id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the symptomfind.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607130102id_/http%3A//www.symptomfind.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Symptom Find
 
@@ -48,3 +48,5 @@ SymptomFind.com/ValueClick Inc.
 Suite 250  
 Westlake Village, CA 91362  
 E-Mail: [privacy@valueclick.com ](mailto:privacy@valueclick.com)
+
+Note: The information provided on this site may be provided by third parties. The owners and operators of this site do not guarantee the accuracy, completeness, and compliance of the content on this site. Such content is not and shall not be deemed tax, legal, financial, or other advice, and we encourage you to confirm the accuracy of the content. Use is at your own risk, and use of this site shall be deemed acceptance of the above.
