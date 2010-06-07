@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218213141id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasyfootballcafe.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607121906id_/http%3A//www.fantasyfootballcafe.com/utility_page.php) for the most accurate reproduction.*
 
-# Utility Page - Fantasy Football Cafe 2009
+# Utility Page - Fantasy Football Cafe 2010
 
 On this page, you can find out how to write for the Cafe, whom to contact for what as well as a statement on our firm commitment to privacy. Once you're here, we'd also be particularly happy if you would participate in our [Site Survey](https://web.archive.org/survey_start.php), which is located [here](https://web.archive.org/survey_start.php). Interested in having your football writing published? Want to share your thoughts with the fantasy community? Fantasy Football Cafe welcomes submissions of interesting, original, and well-written articles.
 
