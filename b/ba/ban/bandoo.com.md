@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bandoo.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216053747id_/http%3A//www.bandoo.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bandoo.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607082635id_/http%3A//www.bandoo.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free Emoticons & Winks for AOL, Yahoo!, MSN Messenger, Twitter & Hotmail. Get Bandoo Emotions!
+# Free Emoticons & Winks for AOL, Yahoo!, MSN Messenger, Outlook Express, Facebook, Twitter & Hotmail. Get Bandoo Emotions!
 
 Bandoo, Inc ("Bandoo") takes your privacy very seriously. Please read the following to learn more about Bandoo's Privacy Policy ("Policy"). This Policy details how Bandoo receives, collects and uses information in connection with their website located at Bandoo.com and software provided on the Bandoo.com website (the website and software collectively referred to herein as "Site"). 
 
