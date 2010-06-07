@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207082038id_/http%3A//www.imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imgsin.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607172650id_/http%3A//imgsin.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Sinfully Good
 
   
-
-
+  
+[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1624754&afsid=55544)   
 Image Sin policy is to respect and protect the privacy of our users. Image Sin will not disclose your personal information to third parties without your consent.
 
 Image Sin will not sell or give your email address to anyone and you will never be placed on any lists. However, Image Sin may disclose your information when Image Sin believes in good faith that the law requires it.
