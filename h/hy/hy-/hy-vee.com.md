@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206202129id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607172828id_/http%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Hy-Vee - Company - Privacy
 
@@ -6,6 +6,7 @@
   * [About Hy-Vee](https://web.archive.org/company/about-hy-vee/default.aspx)
   * [Careers](https://web.archive.org/company/careers/default.aspx)
   * [Scholarships](https://web.archive.org/company/scholarships/default.aspx)
+  * [Diversity](https://web.archive.org/company/careers/diversity.aspx)
   * [Press Room](https://web.archive.org/company/press-room/default.aspx)
   * [Sustainability](https://web.archive.org/company/sustainability/default.aspx)
 
