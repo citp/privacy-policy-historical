@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625004314id_/http%3A//www.freshersworld.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freshersworld.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607132652id_/http%3A//freshersworld.com/privacy.htm) for the most accurate reproduction.*
 
 # Freshersworld.com ™ :: Privacy Policy
 
