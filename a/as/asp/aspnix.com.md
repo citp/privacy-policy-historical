@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228175053id_/https%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspnix.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607132755id_/https%3A//aspnix.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : ASPnix Web Hosting - ASP.NET, MS SQL, AJAX, Hyper-V, Microsoft Hosting and Virtualization
+# Privacy Policy : ASP NET Windows Web Hosting by ASPnix
 
 We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how ASPnix collects information from all end users of ASPnix's Internet and web hosting services (the "Services") - those who access some of our Services but do not have accounts ("Visitors") as well as those who pay a service fee to subscribe to the Service ("Customers") - what we do with the information we collect, and the choices Visitors and Customers have concerning the collection and use of such information. ASPnix requests that you read this Privacy Policy carefully.
 
