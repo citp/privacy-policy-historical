@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627215153id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tumbleweedhouses.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608010059id_/http%3A//www.tumbleweedhouses.com/privacy-policy) for the most accurate reproduction.*
 
 # Tumbleweed Privacy Policy
-
-Tumbleweed Tiny House Company >
-
-[Home](http://www.tumbleweedhouses.com/ "Browse to: Home") / Privacy Policy 
 
 **Why did you receive a mailing from us?**
 
 Our email marketing is permission based. If you received a mailing from us, our records  
 indicate that (a) you have expressly shared this address for the purpose of receiving  
-information in the future (”opt-in”), or (b) you have registered or purchased or otherwise  
+information in the future (“opt-in”), or (b) you have registered or purchased or otherwise  
 have an existing relationship with us. We respect your time and attention by controlling  
 the frequency of our mailings.
 
