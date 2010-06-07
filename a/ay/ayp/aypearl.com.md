@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212200810id_/http%3A//www.aypearl.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aypearl.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607124851id_/http%3A//www.aypearl.com/help/privacy.html) for the most accurate reproduction.*
 
-# Help Center - Privacy - Aypearl.com
+# Privacy policy-aypearl
 
-#### Privacy Policy
+### Privacy Policy 
 
-At [AYPearl.com](http://www.aypearl.com/), we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
+At [AYPearl.com](http://www.ay-pearl.com/), we respect and protect our customers' privacy when we devote ourselves to providing excellent services and jewelry with good quality. Your personal information collected to offer better service for you is handled safely and responsibly. We have instituted politics intended to ensure that they are not sold or rented to other companies. The following are details of our privacy policy. 
 
 #### Quality , Selection and Value 
 
