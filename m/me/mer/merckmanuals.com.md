@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the merckmanuals.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231010325id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the merckmanuals.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607115724id_/http%3A//www.merck.com/about/how-we-operate/privacy/internet-privacy-policy.html) for the most accurate reproduction.*
 
 # Internet Privacy Policy
 
