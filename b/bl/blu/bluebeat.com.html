@@ -1,21 +1,17 @@
-<!--The following is the downloaded HTML source of the bluebeat.com privacy policy that was archived on 2009-06-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090624014013id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bluebeat.com privacy policy that was archived on 2010-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608003042id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html id="z" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
-  <title>BlueBeat.com Music - Privacy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html id="z" xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml" xml:lang="en" lang="en"><head>
+  <title>Help - BlueBeat.com: Play Free Music</title>
   <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-  <meta name="Keywords" content="online music, internet radio, digital radio, mp3, legal online music, streaming audio, music service, buy music, music library, listen to music, bluebeat, digital music, high fidelity sound">
-  <meta name="Description" content="Online internet radio.  High fidelity digital radio.  Listen to 500,000 music recordings in mp3 format.  Perfect streaming audio.  Digital radio done right">
+  <meta name="title" content="Help">
+  <meta name="keywords" content="online music, internet radio, digital radio, mp3, legal online music, streaming audio, music service, buy music, music library, listen to music, bluebeat, digital music, high fidelity sound">
+  <meta name="description" content="BlueBeat.com - Play Free Music - Help">
+  
   
   <style type="text/css" media="all">@import "http://images.bluebeat.com/css/skel.css";</style>
 
-  <style type="text/css" media="all">@import "http://images.bluebeat.com/css/user.css";</style>
-  <!--[if IE 5]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin.css";</style><![endif]-->
-  <!--[if IE 6]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin.css";</style><![endif]-->
-  <!--[if IE 7]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/skeliewin7.css";</style><![endif]-->
-  <style type="text/css" media="all">@import "http://images.bluebeat.com/css/style.css";</style>
-  <!--[if IE 5]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/decoiewin.css";</style><![endif]-->
-  <!--[if IE 6]><style type="text/css" media="all">@import "http://images.bluebeat.com/css/decoiewin.css";</style><![endif]-->
+  <!--[if IE 7]><style type="text/css" media="all">@import "/c/skeliewin7.css";</style><![endif]-->
   
   <script type="text/javascript">
 
@@ -23,31 +19,26 @@ var bRight = false;
 var val = 
 { ratein:      3,
   rateout:     20,
-  urlDock:     '/aj/dock/',
   urlExpand:   '/aj/expand/',
   urlOneTrack: '/aj/album/track/',
   urlHist:     '/aj/history/',
-  urlStar:     '/aj/star/',
-  urlValidate: '/aj/validate/',
-  msping:      3000,
+  msping:      20000, //this is timer for song highlight, and song history, was 3000
   msvalidate:  1000,
   hist:        0,
   idcomp:      0,
+  ida:         0,
   curcrate:    0,
   idu:         0
 }
 var modal_h = 300;
 var modal_w  = 600;
+var timer = 0;
 
 function redrawFooter()
-{ var bow = document.getElementById('bowwrapper');
+{ var bow = document.getElementById('footer');
   var disp = bow.style.display;
   bow.style.display = 'none';
   bow.style.display = disp;
-}
-
-function clearText(eid)
-{ if (document.getElementById(eid).value == 'Enter search words') document.getElementById(eid).value = '';
 }
 
 function convertLinks() //the XHTML 1.0 strict-compliant way.
@@ -72,8 +63,6 @@ function convertLinks() //the XHTML 1.0 strict-compliant way.
                                                                    }
     else if (sRel.indexOf('unhi') != -1) link.onclick = function() { return unhi(); }
     else if (sRel.indexOf('lf')   != -1) link.onclick = function() { return showPopWin('/modal/login', modal_w, modal_h, returnRefresh); }
-    else if (val['curcrate'] &&
-             sRel.indexOf('dj')   != -1) link.onclick = function() { return dockop(this); }
     else if (sRel.indexOf('ex')   != -1) link.onclick = function() { return expand(this.href); }
     else if (sRel.indexOf('ur')   != -1 &&
              val['idu'])                 link.onclick = function() { return star(this.href); }
@@ -136,62 +125,6 @@ function unhi()
   return true;
 }
 
-function refreshProblem()
-{ if (pr.value == 'Account Creation')
-  { unpr.value = 'n/a';
-    unpr.disabled = true;
-  }
-  else
-  { unpr.value = '';
-    unpr.disabled = false;
-  }
-}
-
-function refreshResidence()
-{ if (co.value == 'US')
-  { document.getElementById('zipo').innerHTML = "Zip Code: ";
-    document.getElementById('st').disabled = false;
-    if(document.getElementById('errst') && document.getElementById('errzi'))
-    { document.getElementById('errst').style.visibility = 'visible';  
-      document.getElementById('errzi').style.visibility = 'visible';
-    }
-
-    document.getElementById('st').options[0].text = 'Select Your State...';
-  }
-  else  // not in the US
-  { document.getElementById('zipo').innerHTML = "Postal Code: ";
-    if(document.getElementById('errst') && document.getElementById('errzi'))
-    { document.getElementById('errst').style.visibility = 'hidden';
-      document.getElementById('errzi').style.visibility = 'hidden';
-    }
-    document.getElementById('st').disabled = true;
-//    document.getElementById('st').options[0].text = '(Optional) Select State...';
-    document.getElementById('st').options[0].text = 'N/A';
-  }
-}
-
-function filter(sortall)
-{ var array = document.forms['formfilter'].elements;
-  var all = document.getElementById('genreall'); if (!all) return;
-  if (sortall)
-  { for (var ii = 0, el; el = array[ii]; ++ii)
-    { if (el.name.indexOf('genre') < 0) continue;
-      if (el.name != 'genreall') el.checked = all.checked;
-    }
-  }
-  else
-  { var anyGenre = false;
-    var allGenre = true;
-    for (var ii = 0, el; el = array[ii]; ++ii)
-    { if (el.name.indexOf('genre') < 0) continue;
-      if (el.name != 'genreall')
-      { if (el.checked) anyGenre = true;
-        else allGenre = false;
-      }
-    }
-    all.checked = (allGenre || !anyGenre);
-  }
-}
 
 function loadTarget(url)
 { window.location.href = url;
@@ -208,33 +141,6 @@ function preview()
                                                        + document.getElementById('ss').value
                                                        + ".gif)";  
 }
-
-function registerBoxes()
-{ var array = document.forms['formfilter'].elements;
-  for (var ii = 0, el; el = array[ii]; ++ii)
-  { if (el.name.indexOf('genre') < 0) continue;
-    if (el.name == 'genreall') el.onclick = function() { filter(true); }
-    else                       el.onclick = function() { filter(false); }
-  }
-}
-
-function registerDock()
-{
-  return;
-  // the onchange handler is causing some problems
-  // when used on the search page, the search terms are lost
-  // temporarily bypass it
-
-  // when not signed-in, there is no dockbox element
-  try
-  {
-    if (!document.getElementById('dockbox')) return;
-    document.getElementById('dockbox').onchange = function() { document.getElementById('formdock').submit(); }
-  } catch (e) {
-    // handle errors here
-  }
-}
-
 
 function expandThis(id)
 { if ( typeof document.getElementById != 'undefined' ) {
@@ -271,11 +177,6 @@ function setCookie(ss)
 { document.cookie = ss + '; domain=bluebeat.com; path=/';
 }
 
-function expandCrate()
-{ document.getElementById('colcr').style.display='none';  
-  document.getElementById('excr').style.display='block';
-}
-
 function loadWindowName()
 {
   // wrap in a try because IE6 was complaining
@@ -291,6 +192,112 @@ function refreshBitrate ()
   if (bitrate == '320') { showPopWin('/modal/download/', 700, 300, returnRefresh); }
 }
 
+function clear_searchbox(e)
+{
+  if ((e.value).match('Please enter an artist or a song'))
+    document.getElementById('searchbox').value = '';
+}
+
+function search_string()
+{
+  // this function validates that the user has entered something into the search input box
+  var qs = document.getElementById('searchbox').value;
+
+  // trim the input for leading & following spaces
+  qs = qs.replace(/^\s+|\s+$/g, '');
+
+  if (qs.length < 1 || qs.match('Please enter an artist or a song'))
+    return false;
+
+  return true;
+}
+
+function toggleall(obj, id, type)
+{ var bChecked; 
+  var form = document.getElementById('myForm');  
+  if (obj.type == "checkbox") { var bChecked = obj.checked; }
+
+  for (var ii = 0; ii < form.length; ++ii)
+  { if (form.elements[ii].id == 'excludeToggle' && form.elements[ii] != obj)
+    { form.elements[ii].checked = null; }
+    else if (form.elements[ii].type == "checkbox")   
+    { if (id && type)
+      { if(form.elements[ii].className == type+'_'+id)  
+        { form.elements[ii].checked = bChecked; }
+      }
+      else if (id == 'song')
+      { if(obj.className == form.elements[ii].id) // this is the album checkbox on cart page
+        { form.elements[ii].checked = null; }
+      }
+      else
+      { form.elements[ii].checked = bChecked; }
+    }
+  }
+}
+
+
+function getElementsByClassName(classname, node) {
+  
+  if(!node) node = document.getElementsByTagName("body")[0];
+  var a = [];
+  var re = new RegExp('\\b' + classname + '\\b');
+  var els = node.getElementsByTagName("*");
+  for(var i=0,j=els.length; i<j; i++)
+  if(re.test(els[i].className))a.push(els[i]);
+  return a;
+}
+
+function open_item(id)
+{
+  if (document.getElementById(id).style.display=='block') {  close_item(id); }
+  else {
+    document.getElementById(id).style.display='block';
+    if (id=='account_dropdown') { document.getElementById('open_account_menu').className='selected'; }
+  }
+}
+
+function close_item(id)
+{
+  if ( document.getElementById(id) != null)
+  {
+    document.getElementById(id).style.display = 'none';
+    if (id=='account_dropdown') { document.getElementById('open_account_menu').className=''; }
+  }
+}
+
+function close_all(name)
+{
+  var obj = getElementsByClassName(name);
+  if (obj)
+  { for(var i=0; i<obj.length; i++)
+    { if (obj[i].id) close_item(obj[i].id); }
+  }
+}
+
+function listener(e) { // capture the element that was clicked
+  var t;
+  if (!e) { var e = window.event; }
+  if (e.target) { t = e.target; }
+  else if (e.srcElement) { t = e.srcElement; }
+  if (t.nodeType ==3) { t = t.parentNode; }
+
+  if (document.getElementById('genesis_matches') && t.id != 'genesis_box') {
+     setTimeout(function() { document.getElementById('genesis_matches').style.display='none'; }, 300);
+  }
+  if (document.getElementById('account_dropdown') && t.id != 'open_account_dropdown' && t.className != 'account_arrow' && t.className != 'dropdown_item') {
+     setTimeout(function() { document.getElementById('account_dropdown').style.display='none'; }, 300);
+     document.getElementById('open_account_menu').className='';
+  }
+  if (getElementsByClassName('buy_popup') && t.className != 'buyButton' && t.className != 'buy_link') {
+     setTimeout(function() { close_all('buy_popup') }, 300);
+  } 
+  if (getElementsByClassName('dj_popup') && (t.className != 'dj_add' && t.className != 'add' && t.className != 'addLarge' && t.className != 'dj_title')) {
+     setTimeout(function() { close_all('dj_popup') }, 300);
+  }
+  if (getElementsByClassName('divpopup') && t.className != 'question') { 
+     setTimeout(function() { close_item('why_status') }, 300); 
+  }
+}
 </script>
 
   <link rel="stylesheet" type="text/css" href="http://images.bluebeat.com/css/submodal.css">
@@ -418,6 +425,8 @@ var gPopupIsShown = false;
 var gDefaultPage = "/modal-loading.html";
 var gHideSelects = false;
 var gReturnVal = null;
+var force_login = false;
+var redirect_url = '';
 
 var gTabIndexes = new Array();
 // Pre-defined list of tags we want to disable/enable tabbing into
@@ -481,6 +490,7 @@ function initPopUp() {
 			}
 		}
 	}
+  if (force_login) { showPopWin('/modal/login', 600, 300, returnRefresh); }
 }
 addEvent(window, "load", initPopUp);
 
@@ -718,7 +728,7 @@ function displaySelectBoxes() {
 
   <script type="text/javascript">
 
-function returnRefresh(returnVal) 
+function returnRefresh() 
 {
   var refresh = window.location.href;
   var url = refresh.split(/\?l|\&l|#/);
@@ -727,7 +737,7 @@ function returnRefresh(returnVal)
   var base = url[0];
   if ( cb > 0 )
   {
-    var re = new RegExp("q=");
+    var re = new RegExp("=");
     if ( re.test(base) == true )
     {
       base = base + "&cb=" + dt.valueOf();
@@ -737,15 +747,32 @@ function returnRefresh(returnVal)
       base = base + "?cb=" + dt.valueOf();
     }
   }
-  window.location = base;
+  if (redirect_url.match(/open/))
+  { redirect_url;
+   
+  }
+  else
+    window.location = redirect_url ? redirect_url : base;
+}
+
+function returnBaseBeatCart()
+{ //window.location = "http://www.basebeat.com/validate_user?cart_c32id="+document.getElementById('cart_c32id').value; 
+  window.location = "http://www.bluebeat.com/cart?logindone=1";
+}
+
+function returnLoginSaved()
+{ window.location = "http://www.bluebeat.com/cart/saved";
+}
+
+function returnSavedForm()
+{ document.getElementById('myForm').submit();
 }
 
 function launchPlayer(type, id, br)
 {
-  var bitrate = document.getElementById('bitr').value;
   var user_id = document.getElementById('idu').value;
-  //var modal_h = document.getElementById('modalHeight').value;
-  //var modal_w = document.getElementById('modalWidth').value;
+  var x1_status = document.getElementById('x1stat').value;
+  
   if ( (type == 's') || (type == 'ia') || (type == 'ib') || (type == 'ic') || (type == 'iw') )
   {
     if ( user_id == 0 )
@@ -754,7 +781,7 @@ function launchPlayer(type, id, br)
       return;
     }
   }
-  if ( bitrate == 320 )
+  if ( x1_status == 1 )
   {
     if ( type == 'cr' )
     {
@@ -762,19 +789,19 @@ function launchPlayer(type, id, br)
     }
     window.location = "http://www.bluebeat.com/listen/" + type + "/" + id;
   }
-  else if ( bitrate == 160 )
+  else if ( x1_status == 0 )
   {
     launchFP(type, id);
   }
 }
 
 function getH() {
-  var h = 230;
+  var h = 310;
   return (h);
 }
 
 function getW() {
-  var w = 335;
+  var w = 950;
   return (w);
 }
 
@@ -808,31 +835,11 @@ function launchFP(type,id) {
       var typex = "s";
       var idx = t2;
       break;
-    case "everything":
-      var typex = "e";
-      var idx = t2;
-      break;
-    case "crate":
-    case "kp":
-    case "tm":
-      if ( t2 == "info" ) {
-        t2 = xs[3];
-        if ( type == "cr" || type == "kp" || type == "tm" ) {
-          var page  = "/flashplayer?type=" + type + "&id=" + id;
-        }
-        else {
-          var page  = "/flashplayer?type=" + t1 + "&id=" + t2 + "&typex=" + type + "&idx=" + id;
-        }
-      }
-      else {
-        var page  = "/flashplayer?type=" + type + "&id=" + id;
-      }
-      var idx = 0;
-      break;
     default:
       var page  = "/flashplayer?type=" + type + "&id=" + id;
       var idx = 0;
   }
+
   var w = getW();
   var h = getH();
   if ( idx == 0 ) {
@@ -843,22 +850,229 @@ function launchFP(type,id) {
   }
   self.name='bluebeat';
   bluebeatFlash=window.open(playerPage,"BlueBeatFlashPlayer","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable,width=" + w + ",height=" + h);
+  bluebeatFlash.blur();
+  bluebeatFlash.focus();
 }
 
-function shareCrate(id) {
-  var bitrate = document.getElementById('bitr').value;
-  if ( bitrate == 160 )
+function sharePlaylist(id) {
+  var x1_status = document.getElementById('x1stat').value;
+  if ( x1_status == 0 )
   {
     var w = getW();
     var h = getH();
     var playerPage  = "/flashshare?&id=" + id;
     self.name='bluebeat';
     bluebeatFlash=window.open(playerPage,"BlueBeatFlashPlayer","toolbar=0,location=0,status=0,menubar=0,scrollbars=0,resizable,width=" + w + ",height=" + h);
+    window.location=window.location + "?shared=1";
+  }
+  else if ( x1_status == 1 )
+  {
+    window.location = "http://www.bluebeat.com/action/shareplaylist/" + id;
+  }
+}
+
+
+
+</script>
+
+  <script type="text/javascript">
+
+
+function addCartItems(thisid,status,refresh)
+{ 
+  // thisid format of 'buy_type_id'
+  var type = thisid.split("_"); 
+  
+  if (refresh)
+   window.location.href=window.location.pathname+"?add="+type[2]+"&type="+type[1]+"&status="+status;
+  else 
+  {  new AjaxHandler({ url:"/cart?add="+type[2]+"&type="+type[1]+"&status="+status+"&ajax=1",
+                       fn:function(obj) { respondCart(obj,thisid); } }).go();  
+  }
+  //close_all();                     
+  return false;
+}
+
+function respondCart(req,thisid)
+{
+  if (!req.responseText) return;
+  document.getElementById('cart_summary').innerHTML = req.responseText;
+  //document.getElementById('cart_added').style.display = 'block';
+  //fado(document.getElementById('cart_added'), 1);
+  //timer = setTimeout("close_item('cart_added')",9000);
+
+  var added = req.responseText.match(/<div id='cart_added' style='display:none'>(.*)<\/div>/);
+  document.getElementById(thisid).innerHTML = "<div id='popCloseBox'><a onclick=\"close_all('buy_popup')\"></a></div>"+added[1];
+  document.getElementById(thisid).style.display = 'block';
+}
+
+function openBuyLink(link)
+{ 
+  close_all('buy_popup');
+  return ext(link);
+  
+}
+
+function open_buyPopup(thisid,refresh)
+{ 
+  // thisid format of 'buy_type_id'
+  var type = thisid.split("_"); 
+
+  if (document.getElementById(thisid).style.display=='block') { close_item(thisid); }
+  else { 
+    close_all('buy_popup');
+    var refresh_page = refresh ? '&refresh=1' : '';
+    
+    new AjaxHandler({ url:"/buy?price=1&id="+type[2]+"&type="+type[1]+refresh_page+'&thisid='+thisid,
+                       fn:function(obj) { respond_buyPopup(obj,thisid); } }).go();  
+  }
+}
+
+function respond_buyPopup(req, thisid)
+{
+  //if (!req.responseText) return;
+  if (req.responseText) document.getElementById(thisid).innerHTML = req.responseText;
+  document.getElementById(thisid).style.display='block';
+}
+
+
+</script>
+
+  <script type="text/javascript">
+
+function createCrate(thisid)
+{
+  window.location.href="/playlists/?new=1&thisid="+thisid;
+}
+
+function viewCrate(idplaylist)
+{
+  window.location.href="/playlists/"+idplaylist;
+}
+
+function addCrateItems(idplaylist,thisid)
+{ 
+  // thisid format of 'idcr_dj_type_id'
+  var type = thisid.split("_");
+  
+  new AjaxHandler({ url:"/aj/add_playlist/"+idplaylist+"/?add="+type[2]+"&type="+type[1]+"&ajax=1",
+                    fn:function(obj) { respondCrate(obj,thisid); } }).go();
+ 
+  //close_all();
+  return false;
+}
+
+function removeCrateItems(thisid,curpage)
+{
+  // thisid format of 'buy_type_id'
+  var type = thisid.split("_");
+  var page = curpage || window.location.pathname;
+   
+  window.location.href=page+"&remove="+type[2]+"&type="+type[1];
+  // new AjaxHandler({ url:"/aj/dj_crate/?remove="+type[2]+"&type="+type[1]+"&ajax=1",
+   //                    fn:function(obj) { respondCrate(obj,thisid); } }).go();
+  
+  //close_all();
+  return false;
+}
+
+function respondCrate(req,thisid)
+{
+  if (!req.responseText) return;
+  document.getElementById(thisid).innerHTML = req.responseText; 
+}
+
+function open_djPopup(thisid,refresh)
+{
+ // thisid format of 'buy_type_id'
+  var type = thisid.split("_");
+  
+  if (document.getElementById(thisid).style.display=='block') { close_item(thisid); }
+  else {
+    close_all('dj_popup');
+    var refresh_page = refresh ? '&refresh=1' : '';
+    new AjaxHandler({ url:"/aj/dj_list/?id="+type[2]+"&type="+type[1]+refresh_page+'&thisid='+thisid,
+                       fn:function(obj) { respond_djPopup(obj,thisid); } }).go();
+  }
+}
+
+function respond_djPopup(req, thisid)
+{ 
+  if (!req.responseText) return;
+  var text = req.responseText;
+
+  if (text.match(/not_logged/))
+  { window.location.reload();
   }
   else
   {
-    window.location = "http://www.bluebeat.com/action/sharecrate/" + id;
+    document.getElementById(thisid).innerHTML = req.responseText;
+    document.getElementById(thisid).style.display='block';
   }
+}
+
+function open_artistPopup(idplaylist, thisid)
+{ 
+  var url = "/aj/dj_crate_artists/"+ idplaylist; 
+  
+  new AjaxHandler({ url: url,
+                      fn:function(req) { respond_artistPopup(req); } }).go(); 
+ // AjaxRequest.get(
+  //	{
+//		'url':url,
+//		'async':'false',
+//		'onSuccess':function(obj){ strHTML = obj.responseText; },
+//		'onError':function(obj){ }
+//		}
+//		);
+  //respond_artistPopup();
+  return strHTML;
+}
+
+function respond_artistPopup()
+{ 
+  //alert(req.responseText);
+  //if (!req.responseText) return;
+  //alert(req.responseText);  
+  //return req.responseText;
+  return strHTML;
+}
+
+
+</script>
+
+  <script type="text/javascript">
+
+function addFavoriteItems(thisid)
+{
+  // thisid format of 'fav_type_id'
+  var type = thisid.split("_");
+
+  new AjaxHandler({ url:"/fav/"+type[1]+"/"+type[2]+"?add=1",
+                    fn:function(obj) { respondFavorite(obj,thisid); } }).go();
+
+  //close_all();
+  return false;
+}
+
+function removeFavoriteItems(thisid)
+{
+
+  // thisid format of 'fav_type_id'
+  var type = thisid.split("_");
+  var page = window.location.pathname;
+
+  new AjaxHandler({ url:"/fav/"+type[1]+"/"+type[2]+"?remove=1",
+                    fn:function(obj) { window.location.href="/favorites"; } }).go();
+
+  //window.location.href=page+"&remove="+type[2]+"&type="+type[1];
+  return false;
+}
+
+function respondFavorite(req,thisid)
+{
+  if (!req.responseText) return;
+  document.getElementById(thisid).innerHTML = req.responseText;
 }
 
 </script>
@@ -870,101 +1084,117 @@ function shareCrate(id) {
 </head>
 
 <body id="pi">
+
+ <div id="ad_header">
+<!--<iframe id="header_ad" src="#" width="728" height="90" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="false"></iframe>-->
+<!-- ValueClick Media 728x90 LEADERBOARD CODE for BlueBeat -->
+  <script language="javascript" src="http://media.fastclick.net/w/get.media?sid=53608&amp;tp=5&amp;d=j&amp;t=n"></script>
+  <noscript><a href="http://media.fastclick.net/w/click.here?sid=53608&c=1" target="_blank">
+  <img src="http://media.fastclick.net/w/get.media?sid=53608&tp=5&d=s&c=1" width=728 height=90 border=1></a></noscript>
+  <!-- ValueClick Media 728x90 LEADERBOARD CODE for BlueBeat -->
+<span class="advertisement">Advertisement</span>
+</div>
+<div id="mainwrapper">
 <div id="wrapper">
   <div id="main">
-    <div id="mast">   
-      <div id="mastcontent">
-	      <div id="menu">
-  <ul>
-	  <li><a href="/">home</a></li>
-	  <li><a href="/genres/">genres</a></li>
-	  <li><a href="/recent/">what's new</a></li>
-	  <li class="last"><a href="/popular/">popular programs</a></li>
-  </ul>
-  <input type="hidden" id="bitr" name="bitrate" value="160">
-  <input type="hidden" id="idu" name="user_id" value="">
-</div> 
-
-        <div id="logo"><a href="/" alt="BlueBeat Music" title="BlueBeat Home"></a></div>	      
-	    </div>	    
-	    <div id="mastlogin"> 
-          
-           
-              <div id="signin">
-  <ul>
-	  <li class="last"><a href="javascript:showPopWin('/modal/login', 600, 300, returnRefresh)">login</a></li>
-	  <li><a href="javascript:showPopWin('/modal/join', 600, 300, returnRefresh)">join</a></li>
-  </ul>
-  <input type="hidden" id="cb" name="cache_bust" value="0">
-</div> 
-
-           
-          
-         </div>
-         
-        <div id="mastsearch">  
-	        <form id="formsearch" action="/search" method="get">
-	    <div id="menusearch"> 
-	      <!--UdmComment-->
-	      
-	       <table>
-		       <tbody><tr>
-		        <td><input type="text" maxlength="100" class="entry" title="Enter Search Words" id="searchbox" name="q" value=""></td>
-		        <td><input type="submit" title="Site Search" id="searchbutton" value=""></td>
-		        <td><input type="hidden" name="type" value=""></td>
-	        </tr>
-	        </tbody></table>
-	   
-	      <!--/UdmComment-->
-	    </div> 
-	    </form> 
-	    <script type="text/javascript">
-       <!-- 
-         window.onload = function() { document.getElementById('searchbox').focus(); }
-       // -->
-      </script>
-	      </div>  
-	     
-  </div> <!-- end mast -->
-  <div id="banner">
-	  <div id="bannercontent">
-	    <div id="genreMenu">
+    <div id="header"> 
+      <div id="genreMenu">
   <ul>
   
-    <li><a href="/genres/24/">Blues</a></li>
+    <li>
+      <a href="/music-genre/24/Blues">Blues</a>
+    </li>
   
-    <li><a href="/genres/955/">Classical</a></li>
+    <li>
+      <a href="/music-genre/955/Classical">Classical</a>
+    </li>
   
-    <li><a href="/genres/14/">Country</a></li>
+    <li>
+      <a href="/music-genre/14/Country">Country</a>
+    </li>
   
-    <li><a href="/genres/904/">Electronica</a></li>
+    <li>
+      <a href="/music-genre/904/Electronic">Electronic</a>
+    </li>
   
-    <li><a href="/genres/48/">Folk</a></li>
+    <li>
+      <a href="/music-genre/48/Folk">Folk</a>
+    </li>
   
-    <li><a href="/genres/106/">Jazz</a></li>
+    <li>
+      <a href="/music-genre/106/Jazz">Jazz</a>
+    </li>
   
-    <li><a href="/genres/990/">R&amp;B</a></li>
+    <li>
+      <a href="/music-genre/990/RandB">R&amp;B</a>
+    </li>
   
-    <li><a href="/genres/1/">Rap</a></li>
+    <li>
+      <a href="/music-genre/1/Rap">Rap</a>
+    </li>
   
-    <li><a href="/genres/116/">Reggae</a></li>
+    <li>
+      <a href="/music-genre/116/Reggae">Reggae</a>
+    </li>
   
-    <li><a href="/genres/10/">Rock</a></li>
+    <li>
+      <a href="/music-genre/10/Rock">Rock</a>
+    </li>
   
-    <li><a href="/genres/135/">World</a></li>
+    <li>
+      <a href="/music-genre/135/World">World</a>
+    </li>
      
-  <li><a href="/genres/">All</a></li> 
+    <li><a href="/music-genre/">All</a></li>
+  </ul>
+  <div class="clear"></div>
+</div>
+  
+      <div id="nav_menu">
+  <ul>
+    <li><a href="/">home</a>&nbsp;|&nbsp;</li>
+    <li><a href="/music-genre/artist">artists</a>&nbsp;|&nbsp;</li>
+    <li><a href="/music-genre/album">albums</a>&nbsp;|&nbsp;</li>
+    <li><a href="/music-genre/playlist">playlists</a></li>
+  </ul>
+</div> 
+
+        <div class="clear"></div>
+      <div id="logo_row">
+        <div id="logo" onclick="location.assign(&quot;http://www.bluebeat.com&quot;);"></div>
+        <div id="header_message">
+          <img src="http://images.bluebeat.com/createShareListenHeader.png" alt="CREATE, SHARE AND LISTEN TO PLAYLISTS OF YOUR FAVORITE MUSIC">
+        </div>
+        <div class="clear"></div>
+      </div>
+      
+         <div id="signin_menu">
+  <ul>
+     <li><a href="javascript:showPopWin('/modal/join', 600, 300, returnRefresh)">join</a>&nbsp;|&nbsp;</li>
+     <li><a href="javascript:showPopWin('/modal/login', 600, 300, returnRefresh)">login</a>&nbsp;|&nbsp;</li>
+     <li class="fb_connect"><fb:login-button onlogin="FBC_login(false)" size="small" v="2">Connect</fb:login-button></li>
   </ul>
 </div>
-	  </div>
-  </div> 
-  <div id="content">
+
       
+       <div id="main_search">
+   <form id="formsearch" action="/search" method="get" onsubmit="return search_string();"> 
+    <table>
+      <tbody><tr>
+        <td><input type="text" maxlength="100" class="entry" title="Enter Search Words" id="searchbox" name="q" value="" onclick="clear_searchbox(this);"></td>
+        <td><input type="submit" title="Site Search" id="searchbutton" value=""></td>
+      </tr>
+     </tbody></table>
+   </form>
+  </div> 
+
+  </div> <!-- end header -->
+  <div id="content">
 
 
-      <div id="columnone">
+      <div id="main_content">
 	<h2>Privacy Policy</h2>
-	<div class="doc">
+	<div class="notice">
 	  <h4>Last Updated March 17, 2005</h4>
 	  <p>Welcome to BlueBeat.  We value your privacy, and want you to know what information we collect and what we do with it.</p>
 	  <p>BlueBeat, Inc. ("<strong>BlueBeat</strong>") provides a variety of online services, from electronic commerce to digital distribution of music.  Because the success of BlueBeat is dependent on building and maintaining goodwill with our customers, we are committed to implementing measures designed to protect the privacy of those using our services.  Moreover, we see it as our responsibility to help set an example and establish the standards for privacy on the Internet.</p>
@@ -1024,33 +1254,67 @@ function shareCrate(id) {
 	  <p>We may display links to other sites.  We are not responsible for those other sites, their privacy policies or how they treat information about their visitors or members.	We advise you to check their privacy policies to find out how they are treating your personal information.</p>
 	  <h5>QUESTIONS?</h5>
 	  <p>Questions regarding this Privacy Policy should be directed to BlueBeat at <a href="mailto:privacy@bluebeat.com">privacy@bluebeat.com</a> or, if by U.S. mail, at:<br> Post Office Box 8447<br>Santa Cruz, California 95061<br>Attn:	Privacy.</p>
-	</div>
-      </div>
-      <div class="clear"></div>
-    </div>
-    <div id="stretch_height"></div>
+	</div> <!-- end doc -->      
+    </div> <!-- end maincontent -->
+    <div class="clear"></div>
+  </div> <!-- end content -->  
 
-    <div id="bowwrapper">
-      <div id="bow">
-	     <div id="bowcontent">
-	        <ul>
-	           <li><a href="/index/">Site Index</a></li>
-	           <li><a href="/support/">Help</a></li>
-	           <li><a href="/news/">News</a></li>
-	           <li><a href="/forum/login">Forum</a></li>
-	           <li><a href="javascript:showPopWin('/modal/download/', 600, 300, returnRefresh)">Upgrade Music Player</a></li>
-	           <li><a href="/support/terms/" rel="pop">Terms of Use</a></li>
-	           <li><a href="/support/privacy/" rel="pop">Privacy</a></li>
-	           <li><a href="/index.xml">Subscribe/RSS</a></li>
-	        </ul>
-	        <p>copyright © 2003-2009 BlueBeat, Inc, a subsidiary of MRT.	All Rights Reserved.
-	        Informational sources hold respective copyrights.</p>
+    <div id="stretch_height" style="height: 0px;"></div>
+  <div id="ad_footer">
+<!--<iframe id="footer_ad" src="#" width="300" height="250" scrolling="no" frameborder="0" marginheight="0" marginwidth="0" allowtransparency="false"></iframe>-->
+ <!-- ValueClick Media 300x250 Medium Rectangle CODE for BlueBeat -->
+  <script language="javascript" src="http://media.fastclick.net/w/get.media?sid=53608&amp;m=6&amp;tp=8&amp;d=j&amp;t=n"></script>
+  <noscript><a href="http://media.fastclick.net/w/click.here?sid=53608&m=6&c=1" target="_blank">
+  <img src="http://media.fastclick.net/w/get.media?sid=53608&m=6&tp=8&d=s&c=1" width=300 height=250 border=1></a></noscript>
+  <!-- ValueClick Media 300x250 Medium Rectangle CODE for BlueBeat -->
+<span class="advertisement">Advertisement</span>
+</div>
+    </div><!-- end main -->
+    <div id="footer" style="">
+	     
+	        <div id="footer-navigation">
+	          <ul>
+	            <li class="footer-title">Browse Music</li>
+	            <li><a href="/music-genre">Genres</a></li>
+	            <li><a href="/music-genre/artist">Artists</a></li>
+	            <li><a href="/music-genre/album">Albums</a></li>
+                    <li><a href="/music-genre/playlist">Playlists</a></li>
+	          </ul>
+	           <ul>
+	            <li class="footer-title">Connect With Us</li>
+	            <!--<li><a href="/about">About Us</a></li>  -->
+	            <li><a href="/support/feedback">Leave Feedback</a></li>
+	            <li><a href="/news">News</a></li>                                 
+            </ul>
+            <ul>
+              <li class="footer-title">Check Us Out</li>
+              <li><a href="http://www.facebook.com/home.php?#/bluebeatmusic?ref=sgm" rel="ext"><img src="http://images.bluebeat.com/facebook_small.gif"><span>Facebook</span></a></li>
+              <li><a href="http://www.myspace.com/bluebeatmusic" rel="ext"><img src="http://images.bluebeat.com/myspace_small.gif"><span>Myspace</span></a></li>
+              <li><a href="/index.xml" rel="pop"><img src="http://images.bluebeat.com/rss_small.gif"><span>Subscribe/RSS</span></a></li>
+            </ul>           
+            <ul>
+               <li class="footer-title">Support</li>
+               <li><a href="/support">FAQ</a></li>
+               <li><a href="/support/problem">Report a Problem</a></li>
+               <li><a href="/index">Site Index</a></li>
+               <li><a href="/support/terms/" rel="pop">Terms of Use</a></li>
+               <li><a href="/support/privacy/" rel="pop">Privacy</a></li>
+               
+               
+	           </ul>
+	         </div>  
+	         <div class="clear"></div>
+	         <br>
+	        <p><span class="footer-text">All audio-visual works copyright © 2009 (reg. # PAu 3-407-524) BlueBeat, Inc, a subsidiary of MRT.</span></p>
+                <p><span class="footer-text">BlueBeat transmits simulated live musical performances for free at 160 and 320 kb/s.</span></p>
 	        <p>By using this site, you agree to abide by the BlueBeat <a href="/support/terms/" rel="pop">Terms of Use</a>.</p>
-	     </div>
-      </div>
-    </div>
 
-    <!--[if lt IE 7]><script type='text/javaScript'>
+    </div>
+    <input type="hidden" id="cb" name="cache_bust" value="0">
+    <input type="hidden" id="idu" name="user_id" value="">
+    <input type="hidden" id="x1stat" name="x1_status" value="0">
+    
+    <script type="text/javaScript">
 /*
  * functions to stretch the page height in IE versions 6 and below
  */
@@ -1083,13 +1347,14 @@ function min_page_height() {
 }
 
 function adjust_footer() {
-  var bow = document.getElementById('bowwrapper');
+  var bow = document.getElementById('footer');
   var disp = bow.style.display;
   bow.style.display = 'none';
   bow.style.display = disp;
 
   try {
     var welcome = document.getElementById('welcome');
+
     var bottom = welcome.style.display;
     welcome.style.display = 'none';
     welcome.style.display = bottom;
@@ -1097,13 +1362,13 @@ function adjust_footer() {
 }
 
 min_page_height();
-window.attachEvent('onresize', min_page_height);
+addEvent(window, 'resize', min_page_height);
 
 </script>
-<![endif]-->
 
-  </div> <!-- end main -->  
 </div>  <!-- end wrapper -->
+<div class="clear"></div>
+</div> <!-- end mainwrapper -->
 
 <script type="text/javascript">
 //<![CDATA[
@@ -1111,26 +1376,22 @@ window.attachEvent('onresize', min_page_height);
 
   
   
-  
-  
-  if (document.getElementById)
-  { 
-    
-    
-    
-  }
   if (document.getElementsByTagName) pushOnload(function() { convertLinks();
-							     
-							     
-							     
-							     
 							     
 							   });
 //]]>
 </script>
 <input id="modalWidth" type="hidden" name="modalWidth" value="600">
 <input id="modalHeight" type="hidden" name="modalHeight" value="300">
+<script type="text/javascript" src="/j/aj.js"></script>
+<script type="text/javascript" src="/j/fado.js"></script>
+<script type="text/javascript" src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php"></script>
 
+<script type="text/javascript">
+  document.onclick = listener;
+  FB.init("519ef2cae74510b461333e2b9b185845", "/fbconnect/xd_receiver.html");
+  FB.ensureInit( function () { FB.XFBML.Host.parseDomTree() });
+</script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl."
 : "http://www.");
