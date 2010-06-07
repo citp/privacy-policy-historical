@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clemson.edu privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229220738id_/http%3A//www.clemson.edu//privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clemson.edu privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607124919id_/http%3A//www.clemson.edu/privacypolicy.html) for the most accurate reproduction.*
 
 # Family Privacy Protection Act Policy : Clemson University
 
 (Enacted Pursuant to S.C. Code Section 30-2-10 et. seq.)*
 
-The University is a complex agency which has a variety of legitimate public purposes encompassing teaching, research and extension. It is in the University’s best interest to promote strong and effective affiliated foundations and entities and to provide goods and services to its students, parents, alumni and employees which promote the interests of the University. The University provides much of this support internally; however there are a number of supportive functions which for various reasons are performed by affiliated entities or private contractors.
+The University is a complex agency which has a variety of legitimate public purposes encompassing teaching, research and extension. It is in the University's best interest to promote and support affiliated foundations and entities. In some cases the University’s interests can be served by providing goods and services to its students, parents, alumni and employees. The University provides much of this support and many services internally; however there are a number of supportive functions which for various reasons are performed by affiliated entities or private contractors.
 
 To this end, the university will implement the Family Privacy Protection Act (FPPA) as follows:
 
