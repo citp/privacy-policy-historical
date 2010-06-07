@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cashkeywords.com privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227132112id_/http%3A//www.cashkeywords.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashkeywords.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607081446id_/http%3A//www.cashkeywords.com/privacy_policy.php) for the most accurate reproduction.*
 
-# CashKeywords Toolbar | Privacy Policy
+# Cash Keywords Privacy Policy
 
 The CashKeywords team is committed to each customer's privacy and will do everything within its power to protect this right.
 
