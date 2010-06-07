@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218021752id_/http%3A//www.honoluluadvertiser.com/section/PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honoluluadvertiser.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607085247id_/http%3A//www.honoluluadvertiser.com/section/PRIVACY) for the most accurate reproduction.*
 
-# honoluluadvertiser.com | Honolulu privacy | The Honolulu Advertiser
+# honoluluadvertiser.com | Honolulu PRIVACY | The Honolulu Advertiser
 
 Last Updated: March 4, 2009
 
