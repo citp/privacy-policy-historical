@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230181429id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripit.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607034113id_/http%3A//www.tripit.com/uhp/privacyPolicy) for the most accurate reproduction.*
 
 # TripIt | Online travel itinerary and trip planner
-
-Privacy Policy 
 
 (last revised December 9, 2009) 
 
@@ -18,7 +16,7 @@ If we change our privacy policy, we will post those changes to this privacy poli
 
 If we decide to change our privacy policy in regards to how we utilize any personally identifiable information, we will post those changes on our homepage. 
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. 
+We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy or if we change our email practices, we will notify you here, by email, or by means of a notice on our home page. 
 
 TripIt is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.tripit.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -40,7 +38,7 @@ If you contact us, we also will collect the information you provide that details
 
 _Import Contacts_
 
-We utilize an import contacts feature to help you keep in touch with your contacts and other members of TripIt. We make it easy for you to invite people from your email address books and contact lists to join you on our Site or to find people who have already joined our site. At your request we will search your email address book to help you import your contacts to our Site. We do not store your login information. When you requst that TripIt send an invitation email to your imported contacts, TripIt stores this contact information for the sole purpose of sending this invitation email. The email that is sent to your friend will come from your email address so that your friends know that you want to invite them to visit the site. TripIt does not store any passwords you provide as part of the contact import process. 
+We utilize an import contacts feature to help you keep in touch with your contacts and other members of TripIt. We make it easy for you to invite people from your email address books and contact lists to join you on our Site or to find people who have already joined our site. At your request we will search your email address book to help you import your contacts to our Site. We do not store your login information. When you request that TripIt send an invitation email to your imported contacts, TripIt stores this contact information for the sole purpose of sending this invitation email. The email that is sent to your friend will come from your email address so that your friends know that you want to invite them to visit the site. TripIt does not store any passwords you provide as part of the contact import process. 
 
 _Facebook Connect_
 
@@ -76,7 +74,7 @@ If you use our job section of the site, although it is co-branded as TripIt, ple
 
 ## 3\. How Your Information Is Protected
 
-We maintain data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of the personally identifiable information submitted to us, both during transmission and once we receive it. Current Internet security methods and technologies are used to prevent unauthorized access, maintain data accuracy and ensure correct use of information. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
+We maintain data handling and storage practices and procedures that are designed to ensure the integrity and confidentiality of the personally identifiable information and email addresses submitted to us, both during transmission and once we receive it. Current Internet security methods and technologies are used to prevent unauthorized access, maintain data accuracy and ensure correct use of information. No method of transmission over the Internet, or method of electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
 The security of your personal information is important to us. When you enter sensitive information such as credit card number on our registration or order forms, we encrypt that information using secure socket layer technology (SSL). 
 
@@ -122,7 +120,7 @@ If you decide that you are no longer interested in receiving email communication
 
   * You may follow the instructions in our emails on how to unsubscribe yourself from our email list.
   * You may click on [Settings](https://www.tripit.com/account/edit) at the top of any page on our Site and update your Email Subscription settings.
-  * You may send us a letter at 444 De Haro Street, Suite 130, San Francisco, CA 94107.
+  * You may send us a letter at 500 Treat Avenue, Suite 100, San Francisco, CA 94110.
 
 
 
