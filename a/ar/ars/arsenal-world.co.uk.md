@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207011712id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-world.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608011503id_/http%3A//www.arsenal-world.co.uk/feedback/loadpriv.asp) for the most accurate reproduction.*
 
 # Arsenal FC News - Arsenal World
 
