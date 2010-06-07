@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2009-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090922162331id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the suite101.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607095738id_/http%3A//www.suite101.com/info.cfm/privacy_policy) for the most accurate reproduction.*
 
-# Suite101 Privacy Policy | Suite101.com
+# Suite101 Privacy Policy
 
 Protecting your privacy is important to Suite101.com Media Inc. ("Suite101").
 
