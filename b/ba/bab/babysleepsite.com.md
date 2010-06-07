@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207014827id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babysleepsite.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608002608id_/http%3A//www.babysleepsite.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Baby Sleep Help | Toddler Sleep Help | Custom Sleep Help - The Baby Sleep Site™
+# Privacy Policy | The Baby Sleep Site™ - Baby Sleep Help | Toddler Sleep Help | Custom Sleep Help
 
 PickNicksBrain publishes content on this website as a resource for information. PickNicksBrain values the privacy of our visitors and users. Any personal information that may be made available to PickNicksBrain when you browse or navigate the site shall be kept confidential. 
 
@@ -34,4 +34,4 @@ PickNicksBrain reserve the right to change, modify or update this policy at any 
 
 If you have questions or concerns about PickNicksBrain privacy policy, please contact us by email (info AT picknicksbrain DOT com).
 
-[](http://www.addthis.com/bookmark.php?v=20)
+[](http://www.addthis.com/bookmark.php?v=250&username=picknicksbrain)
