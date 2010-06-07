@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231053055id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookrags.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607034030id_/http%3A//www.bookrags.com/about/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,7 +10,7 @@ BookRags may use personally identifiable information, without limitation, to ema
 
 You may choose at any time to opt out of receiving some or all of these communications. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/) page. You can also select 'unsubscribe' from any of the emails that you receive. 
 
-Some communications are important to ensure that we provide our users with the highest quality of service, our members cannot opt out of email contact on changes in site policies, customer support services, or any other issued deemed by BookRags to be important to communicate. 
+Because some communications are important to ensure that we provide our users with the highest quality of service, our members cannot opt out of email contact on changes in site policies, customer support services, or any other issues deemed by BookRags to be important to communicate. 
 
 BookRags uses some of your personal information in accordance with the Terms of Service. We may also engage a co-registration program with our partners and we will be able to communicate with you and use demographic data about you. To change your settings, please visit "Privacy Settings" under your [My Account](https://web.archive.org/account/) page. 
 
@@ -41,10 +41,6 @@ BookRags has partnered with Glam Media Inc. for display advertising. You may con
 >  info@glammedia.com  
 > 
 
-BookRags has partnerned with Lotame Solutions, Inc. ("Lotame") to better help us operate the website, report website traffic, statistics, advertisement 'click-throughs', and/or other activities on the website. Lotame may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. Lotame does not collect personally identifiable information. For more information on how the information is collected and used by Lotame, please see Lotame's privacy policy at http://www.lotame.com/PrivacyPolicy.shtml. 
+We use a third-party advertising company to serve ads when you visit our Web site. This company may use information (not including your name, address, email address or telephone number) about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [click here.](http://www.doubleclick.net/us/corporate/privacy)
 
-* Google, as a third party vendor, uses cookies to serve ads on your site. 
-* Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
-* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
-
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/pdfs/NAI_principles.pdf).
+Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. 
