@@ -1,7 +1,8 @@
-<!--The following is the downloaded HTML source of the blackspider.com privacy policy that was archived on 2009-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091020095423id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blackspider.com privacy policy that was archived on 2010-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607121220id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><!-- PageID 3433 - published by RedDot 7.5 - 7.5.1.69 - 22099 -->
+        <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <meta name="keywords" content="">
         <meta name="description" content="">
@@ -27,10 +28,15 @@
         <![endif]-->  
         <!--include style tags in following StyleVariable-->
              
-        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.1/jquery.min.js"></script>
+          
+         <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+        <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jqueryui/1.7.2/jquery-ui.min.js"></script>
+        <script type="text/javascript" src="/include/jsbin/jquery.hoverIntent.minified.js"></script>   
+        <script type="text/javascript" src="/include/jsbin/jcarousellite_1.0.1.js"></script>
         <script src="/include/jsbin/hmTabs.js" type="text/javascript"></script>     
-        <script type="text/javascript" src="http://www.websense.com/include/jsbin/swfobject.js"></script>
-        <script type="text/javascript" src="http://www.websense.com/include/jsbin/i2a.js"></script>
+        <script type="text/javascript" src="/include/jsbin/swfobject.js"></script>
+        <script type="text/javascript" src="/include/jsbin/i2a.js"></script>
+        <script type="text/javascript" src="/controls/jws.js"></script> 
         <script type="”text/javascript”"></script>
         <script type="text/javascript" language="javascript">
            jQuery().ready(function(){
@@ -48,7 +54,7 @@
                         var elementSelected = $("#MainMenuTabId").text();
                         $(".MainMenu").children("ul").children("li").each(function(){
                 if ($(this).attr("id") == elementSelected) {
-                                $(this).attr("class", "mselected");
+                                $(this).addClass("mselected");
                                 $(this).children("span").replaceWith("<span class=\"rgtmain\">&nbsp;</span>");
                                 $(this).children("a").before("<span class=\"lftmain\">&nbsp;</span>");
                                 $(this).prev().children("span").remove();
@@ -56,11 +62,7 @@
                         });
                         
                     });
-                $("#SearchPanel").mouseover(function(){
-                    $(this).addClass("SearchHover");
-                }).mouseout(function(){
-                    $(this).removeClass("SearchHover");
-                });
+              
                  $("#flyOut01Panel").hover(function(){
                   $(this).addClass("flyOut01Hover");
                 }, function(){
@@ -81,32 +83,29 @@
                 }, function(){
                     $(this).removeClass("flyOut04Hover");
                 });   
+    
+                $('.header-interior-wrapper ul li span').live('click', function(){
+                    if( $(this).parent().attr('id') == "login" && dontOpen == true ){
+                        
+                    }
+                    else{
+                        ogClass = $('.header-interior-wrapper ul li.opened').attr('id');
+                        $('.header-interior-wrapper ul li.opened').attr('class', ogClass);
+                        var delim;
+                        delim = $(this).parent().attr('class') + "Hover";
+                        $(this).parent().addClass(delim).addClass('opened');
+                    }
+                    $('.topNav-close-b, .topNav-close').live('click', function(){
+                        ogClass = $('.header-interior-wrapper ul li.opened').attr('id');
+                        $('.header-interior-wrapper ul li.opened').attr('class', ogClass);
+                    })
+                });    
                 
-                  $("#buyRenewPanel").mouseover(function(){
-                    $(this).addClass("buyRenewHover");
-                }).mouseout(function(){
-                    $(this).removeClass("buyRenewHover");
-                });
-                                                $("#loginPanel").mouseover(function(){
-                    $(this).addClass("loginHover");
-                }).mouseout(function(){
-                    $(this).removeClass("loginHover");
-                });
-                $("#RegionsPanel").hover(function(){
-                  $(this).addClass("regionsHover");
-                }, function(){
-                    $(this).removeClass("regionsHover");
-                });
-                                
-                $(".other-regions").children(".RegionsToChoose").children("ul").children("li").hover(function(){
-                    $(this).addClass("liHover");
-                }, function(){
-                    $(this).removeClass("liHover");
-                });
-                                
+            
+                
+                
             });
-        </script>    
-        <script type="text/javascript" language="JavaScript"><!--
+            </script>            <script type="text/javascript" language="JavaScript"><!--
 function HideContent(d) {
 document.getElementById(d).style.display = "none";
 }
@@ -144,6 +143,33 @@ function siteAppend()
     sfRetUrl.value = strReturnArgs;
 }
 </script>
+<script type="text/javascript">
+         var welcomeTxt;
+         var dontOpen = false;
+        $(document).ready(function() {
+            var util = new jws.utility();
+            util.getVisitor(function(visitor) {
+                if (visitor != null) {
+                    var fullname = visitor.firstName + " " + visitor.lastName;
+                    if (fullname.length > 25) {
+                        fullname = visitor.firstName;   
+                    }
+                    welcomeTxt = '<span id="welcome"><img src="/assets/imgs/iconMyWebsenseUser.jpg" align="left"/>Welcome,</span>' + "&nbsp;" + fullname + " " + '[<a id="myws-logout" href="#">logout</a>]';
+                    $('.header-panel li#login a.topNavIcon').hide();
+                    $('.header-panel li#login span.topNav-title').html(welcomeTxt);
+                    $('.header-panel li#login span.topNav-title').addClass('myws-open');
+                    dontOpen = true;                
+                } else {
+                }
+            });
+            
+             $('a#myws-logout').live('click', function(){
+                     util.logout(function(){
+                         location.reload();
+                });           
+            });        
+        });
+    </script>
 <style>        .lightgray, .fineprint{  color:#666666 !important; } .bolded{  font-weight:900; } .genericSubtitle, .subtitleBlue, .subtitleRed, .subtitleGreen{  font-size:14px;  } .subtitleBlue{  color:#0078C9 !important; } .subtitleRed{  color:#E23b30 !important; } .subtitleGreen{  color:#719500 !important; } .fineprint{  font-size:10px !important;  font-weight:bold; }      </style></head>
 
 
@@ -160,27 +186,28 @@ function siteAppend()
         
         
 <!-- loginPanel container -->
-            <li id="loginPanel" class="login">
-                <a href="#" onclick="return false;">MyWebsense  &nbsp;<img src="/content/Assets/Images/ArrowMainMenu.gif"></a>     
+               <li id="login" class="login">
+                                   <span class="topNav-title"><a href="#" onclick="return false;">MyWebsense  &nbsp; </a></span>
+                <span><a class="topNavIcon" href="#" onclick="return false;">&nbsp;</a></span>     
                 <div class="other-login">
                     <div class="loginToChoose">
-                        <h1 class="mm_header">MyWebsense</h1>
-                                                 <h3 class="mm_subheader">Already logged in? <a href="https://www.websense.com/MyWebsense/Default.aspx"> Go to MyWebsense</a></h3>
+      <div class="wsPopTopCloseBtn"><span><a id="login-close" class="topNav-close-b" href="#" onclick="return false;">&nbsp;</a></span></div>
+                        <h1 class="mm_header">MyWebsense </h1> 
+                                                 <h3 class="mm_subheader">Already logged in? <a href="/content/Registration.aspx"> Go to MyWebsense</a></h3>
             <ul>        
            <li>
-                    <form action="https://www.websense.com/MyInfo/Default.aspx" method="post">
-            <b>Existing Users:</b><label>E-mail address:</label><input name="user" type="text" style="width:150px;">
+                    <form action="https://www.websense.com/content/Registration.aspx" method="post">
+            <b>Existing Users:</b><label>Email address:</label><input name="user" type="text" style="width:150px;">
                         <label>Password:</label><input name="pass" type="password" style="width:150px;">
-                        <a href="https://www.websense.com/MyInfo/ResetPassword.aspx">(Forgot password?)</a><br><br>
-             <input class="clear" type="submit" value="Log In"><br clear="all"><br>
-                        <input style="display:inline" type="checkbox" id="rememberMe" name="rememberMe"><label style="display:inline" for="rememberMe">Keep me logged in </label>
+                        <a href="/content/Registration.aspx?task=forgotpass">(Forgot password?)</a><br><br>
+             <input type="submit" value="Log In"><br clear="all"><br>
+                        <input style="display:inline; margin-top: -3px;" type="checkbox" id="rememberMe" name="rememberMe"><label style="display:inline" for="rememberMe">Keep me logged in </label>
             </form>
                 </li>
                 <li>
-                    <form action="https://www.websense.com/MyInfo/Default.aspx" method="post">
-            <b>First time users:</b><br><br>Please request a login:<label>E-mail address:</label>                
-            <input type="text" name="requestLoginEmail"><br><br>
-                        <input type="submit" name="submit" value="Submit">
+                    <form action="Registration.aspx?task=register" method="post">
+            <b>First Time Users:</b><br><br>
+                        <input type="submit" name="submit" value="Register">
                     </form>
                 </li>
             </ul>
@@ -190,17 +217,18 @@ function siteAppend()
 <!-- /loginPanel container -->
 <li class="sepHnav"></li>
 <!-- buyRenewPanel container -->        
-            <li id="buyRenewPanel" class="buyRenew">
-                <a href="#" onclick="return false;">Buy &amp; Renew &nbsp;<img src="/content/Assets/Images/ArrowMainMenu.gif"></a>    
+            <li id="buyRenew" class="buyRenew">
+   <span class="topNav-title">  <a href="#" onclick="return false;">Buy &amp; Renew &nbsp;</a></span><span><a class="topNavIcon" href="#" onclick="return false;">&nbsp;</a></span>       
                 <div class="other-buyRenew">
-                    <div class="buyRenewToChoose">        
+                    <div class="buyRenewToChoose">   
+         <div class="wsPopTopCloseBtn"><span><a id="buyRenew-close" class="topNav-close" href="#" onclick="return false;">&nbsp;</a></span></div>     
                         <h1 class="mm_header">Find A Channel Partner</h1>
                         <h3 class="mm_subheader">Choose a Region:</h3>            
                         <dl id="mm_world">
-                            <dd id="na"><a id="nalink" title="North America" href="http://www.websense.com/FindPartner/?region=NA"><i>NA</i></a></dd>                            
-                            <dd id="emea"><a id="emealink" title="Europe, Middle East, Africa" href="http://www.websense.com/FindPartner/?region=EMEA"><i>EMEA</i></a></dd>
-                            <dd id="cala"><a id="calalink" title="Latin America &amp; Caribbean" href="http://www.websense.com/content/Regional/LatAm/BuyTry.aspx"><i>CALA</i></a></dd>
-                            <dd id="apac"><a id="apaclink" title="Asia Pacific" href="http://www.websense.com/FindPartner/?region=APAC"><i>APAC</i></a></dd>
+                            <dd id="na"><a id="nalink" title="North America" href="/FindPartner/?region=NA"><i>NA</i></a></dd>                            
+                            <dd id="emea"><a id="emealink" title="Europe, Middle East, Africa" href="/FindPartner/?region=EMEA"><i>EMEA</i></a></dd>
+                            <dd id="cala"><a id="calalink" title="Latin America &amp; Caribbean" href="/content/Regional/LatAm/BuyTry.aspx"><i>CALA</i></a></dd>
+                            <dd id="apac"><a id="apaclink" title="Asia Pacific" href="/FindPartner/?region=APAC"><i>APAC</i></a></dd>
                         </dl>                                                    
                     </div>                                       
                 </div>
@@ -208,10 +236,12 @@ function siteAppend()
 <!-- /buyRenewPanel container -->            
 <li class="sepHnav"></li>
 <!-- RegionsPanel container -->                                                                
-            <li id="RegionsPanel" class="regions">
-                <a class="anc_regions" href="#" onclick="return false;">English &nbsp;(US) &nbsp;&nbsp;<img src="/content/Assets/Images/ArrowMainMenu.gif"></a>
+               <li id="regions" class="regions">
+                 <span class="topNav-title"><a class="anc_regions" href="#" onclick="return false;">English &nbsp;(US) &nbsp;&nbsp;</a>
+</span> <span><a class="topNavIcon" href="#" onclick="return false;">&nbsp;</a></span>   
                 <div class="other-regions">
-                    <div class="RegionsToChoose">                                
+                    <div class="RegionsToChoose">
+       <div class="wsPopTopCloseBtn"><span><a id="Regions-close" class="topNav-close" href="#" onclick="return false;">&nbsp;</a></span></div>                                   
                         <h1 class="mm_header">Regional Sites</h1>
                         <h3 class="mm_subheader">Choose a Region:</h3>        
 <ul>             
@@ -221,7 +251,7 @@ function siteAppend()
     <li><a href="/content/Regional/Brazil/Home.aspx"><span>Português &nbsp;(Brasil)</span></a></li>
     <li><a href="/content/Regional/UnitedKingdom/Home.aspx"><span>English &nbsp;(UK)</span></a></li>
     <li><a href="/content/Regional/Germany/Home.aspx"><span>Deutsch</span></a></li>
-    <li><a href="http://www.websense.com/content/regional/india/Home.aspx"><span>English &nbsp;(India)</span></a></li>
+    <li><a href="/content/regional/india/Home.aspx"><span>English &nbsp;(India)</span></a></li>
     <li><a href="/content/Regional/Japan/Home.aspx"><span>日本語</span></a></li>
     <li><a href="/content/Regional/LatAm/Home.aspx"><span>Español &nbsp;(LatAm)</span></a></li>      
     <li><a href="/content/Regional/SCH/Home.aspx"><span>中国 &nbsp;(simplified) </span></a></li>
@@ -235,13 +265,15 @@ function siteAppend()
 
 <li class="sepHnav"></li>
 <!-- SearchPanel container -->    
-            <li id="SearchPanel" class="Search">
-                <a href="#" onclick="return false;">Search &nbsp;<img src="/content/Assets/Images/ArrowMainMenu.gif"></a>                                   
+             <li id="Search" class="Search">
+ <span class="topNav-title"><a href="#" onclick="return false;">Search &nbsp;</a></span>                                   
+<span><a class="topNavIcon" href="#" onclick="return false;">&nbsp;</a></span>   
                 <div class="other-Search">
                         <div class="SearchToChoose">        
-                            <h1 class="mm_header">Search</h1>
+                                                <div class="wsPopTopCloseBtn"><span><a id="Search-close" class="topNav-close" href="#" onclick="return false;">&nbsp;</a></span></div>                               
+   <h1 class="mm_header">Search</h1>
                                 <div class="searchBox">
-<form class="headerForm" id="SiteSearch" name="searchForm" action="http://www.websense.com/search/default.aspx" onsubmit="this.submit();return false;">
+<form class="headerForm" id="SiteSearch" name="searchForm" action="/search/default.aspx" onsubmit="this.submit();return false;">
     <label><b>Websense.com</b></label><br><input id="qt" name="qt" type="text" size="42" value="">
     <input type="submit" value="Search" onclick="siteAppend();"><input id="site" name="site" type="hidden"><br>
     <span>
@@ -252,7 +284,7 @@ function siteAppend()
     </span>
     <br clear="all">
     <hr>
-    <label class="label"><b>Other</b></label><a href="http://www.websense.com/content/KnowledgeBase.aspx">Knowledge Base Search</a>
+    <label class="label"><b>Other</b></label><a href="/content/KnowledgeBase.aspx">Knowledge Base Search</a>
 </form>
                                 </div><!-- /searchBox -->
                         </div><!-- /SearchToChoose -->                                                                                      
@@ -269,7 +301,7 @@ function siteAppend()
             <!--LOGO-->
             <div class="HeaderLogo">
 
-              <a href="/content/Home.aspx"><img src="/content/Assets/Images/NEW_WebSenseLogo.png"></a>
+              <a href="/content/Home.aspx"><img src="/content/Assets/Images/wsLogo.jpg"></a>
             
             </div>
             <br class="clear">
@@ -281,23 +313,298 @@ function siteAppend()
         <div class="clearNew PrincipalMenu">
             <div class="MainMenu">
                 
-
 <ul>
-                    <li id="wsRoot"><a href="/content/Home.aspx">Home</a><span class="sepPNav">&nbsp;</span></li>
-                    <li id="ws0"><a href="/content/Products.aspx">Products</a><span class="sepPNav">&nbsp;</span></li>
-                    <li id="wsNone1"><a href="/evaluations/Default.aspx?l=en">Evaluate</a><span class="sepPNav">&nbsp;</span></li>
-                    <li id="ws2"><a href="/content/Partners.aspx">Partners</a><span class="sepPNav">&nbsp;</span></li>
-                    <li id="wsNone3"><a href="http://securitylabs.websense.com">Security Labs</a><span class="sepPNav">&nbsp;</span></li>
-                    <li id="ws1"><a href="/content/support.aspx">Support</a><span class="sepPNav">&nbsp;</span></li>
-                </ul>
+    <li id="wsRoot" class="main_home"> <a href="/content/Home.aspx">Home</a><span class="sepPNav">&nbsp;</span></li>
+    
+               <li id="ws6" class="main_solutions"><a href="/content/solutions-center.aspx">Solutions</a><span class="sepPNav">&nbsp;</span></li>
+            
+    <li id="ws0" class="main_products"><a href="/content/Products.aspx">Products</a><span class="sepPNav">&nbsp;</span></li>
+    <li id="ws1" class="main_evaluate"><a href="/content/evaluations.aspx">Evaluate</a><span class="sepPNav">&nbsp;</span></li>
+    <li id="ws2" class="main_partners"><a href="/content/Partners.aspx">Partners</a><span class="sepPNav">&nbsp;</span></li>
+    <li id="wsNone4" class="main_security-labs"><a href="/content/Services.aspx">Technologies</a><span class="sepPNav">&nbsp; </span></li>
+    <li id="ws3" class="main_support"><a href="/content/support.aspx">Support</a><span class="sepPNav">&nbsp;</span></li>
+    <li id="ws4" class="main_about-us"><a href="/content/AboutUs.aspx">About Us</a><span class="sepPNav">&nbsp;</span></li>
+    
+                <li id="ws5" class="main_myaccount"><a href="/content/mywebsense-subscriptions.aspx">MyAccount</a></li>
+            
+</ul>
             </div>    
         </div>      
 
+<div id="mega-menu-content">    
+<script type="text/javascript">
+   
+            $(document).ready(function(){
+    var hiddenDiv;
+    var config = {
+     interval: 50,
+     sensitivity: 10,
+     over: openIt,
+     timeout: 50,
+     out: closeIt
+    };
+    
+    var configDiv = {
+     interval: 00,
+     sensitivity: 10,
+     over: stayOpen,
+     timeout: 50,
+     out: closeActive
+    };
+    $('.MainMenu ul li').hoverIntent(config);
+    $('div.main-mega-menu').hoverIntent(configDiv);
+    
+    function openIt(){ 
+$('.MainMenu ul').css({
+  height: "38px"
+  });
+     hiddenDiv = 'div#' + $(this).attr('class');
+     var offset = $(this).offset();
+     var extraPadX = 13;
+     var extraPadY = 0;
+     var posLeft;
+     var posTop;
+       if( $(this).hasClass('mselected') ){
+  $(this).toggleClass('mselected')
+  hiddenDiv = 'div#' + $(this).attr('class');
+  $(this).toggleClass('mselected')
+ } 
+     if ( $(hiddenDiv).hasClass('main_flip') ){
+      posLeft = offset.left - $(hiddenDiv).width() + $(this).width() - 25;
+      posTop = offset.top + $(this).height() + extraPadY;
+     }
+     else{ 
+      posLeft = offset.left - $(this).width()/3 - extraPadX;
+      posTop = offset.top + $(this).height() + extraPadY;
+     }
+     
+     $('.main-mega-menu .wsPopTopCloseBtn').live('click',function(e){
+      closeActive();
+      closeIt();
+     });
+     
+     $(hiddenDiv).addClass('main_open').css({'top' : posTop, 'left' : posLeft});
+    }
+    
+    function stayOpen(){
+     $(hiddenDiv).addClass('main_active');
+    }
+    
+    function closeIt(){
+     $(hiddenDiv).removeClass('main_open');
+    }
+    
+    function closeActive(){
+     $(hiddenDiv).removeClass('main_active');
+    }
+   });
+  </script>
+<!--Solutions Mega Menu-->
+<div class="main-mega-menu" id="main_solutions">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="inner-content">
+<p class="mega-header">Business </p>
+<ul>
+<li><a href="federal-solutions-web-security.aspx">Federal</a> </li>
+<li><a href="enterprise-solutions-web.aspx">Enterprise</a> </li>
+<li><a href="smb-solutions-web.aspx">SMB</a></li></ul></div><br class="clear">
+<div class="inner-content">
+<p class="mega-header">Education</p>
+<ul class="left">
+<li><a href="education-k12-web.aspx">K-12</a> </li>
+<li><a href="education-higher-web.aspx">Higher Education</a></li></ul></div></div></div></div></div></div></div><!--/Solutions Mega Menu--><!--Products Mega Menu-->
+<div class="main-mega-menu" id="main_products">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="inner-content" id="triton">
+<p class="tritonlogo"></p>
+<p>Websense® TRITON™ is the first and only solution to combine industry-leading Web security, email security, and data loss prevention security technologies into one unified architecture. </p>
+<p id="triton-cta"><a class="mm-cta" href="Products.aspx"><span>Learn More</span></a> </p></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="icon web"></p>
+<p class="mega-header"><a href="WebSecurityOverview.aspx">Web Security</a> </p>
+<ul>
+<li><a href="SecurityGateway.aspx">Web Security Gateway</a> </li>
+<li><a href="WebSecurity.aspx">Web Security</a> </li>
+<li><a href="WebFilter.aspx">Web Filter</a></li></ul></div>
+<div class="inner-content">
+<p class="icon data"></p>
+<p class="mega-header"><a href="DataSecurity.aspx">Data Security</a> </p>
+<ul class="left">
+<li><a href="DataSecuritySuite.aspx">Data Security Suite</a></li></ul></div>
+<div class="inner-content">
+<p class="icon email"></p>
+<p class="mega-header"><a href="MessagingSecurity.aspx">Email Security</a> </p>
+<ul class="left">
+<li><a href="EmailSecurity.aspx">Email Security</a> </li>
+<li><a href="HostedEmailSecurity.aspx">Hosted Email Security</a></li></ul></div>
+<div class="inner-content">
+<p class="icon"></p>
+<p class="mega-header"><a href="platforms.aspx">Product Platforms</a> </p>
+<ul class="left">
+<li><a href="security-as-a-service.aspx">SaaS (Security-as-a-Service)</a> </li>
+<li><a href="platforms-software.aspx">Software</a> </li>
+<li><a href="v-series-appliances.aspx">V-Series Appliances</a></li></ul></div></div>
+<div class="mega-right">
+<div class="inner-content">
+<p class="mega-header"><a href="Services.aspx">Services</a> </p>
+<ul>
+<li><a href="professional-services.aspx">Professional Services</a> </li>
+<li><a href="SupportServices.aspx">Support Services</a> </li>
+<li><a href="Services.aspx">Technology Services</a></li></ul></div>
+<div class="inner-content">
+<p class="mega-header"><a href="ProductResources.aspx">Product Resources</a> </p>
+<ul class="left">
+<li><a href="ProductResources.aspx">Webinars</a> </li>
+<li><a href="videos.aspx">Videos</a> </li>
+<li><a href="Datasheets.aspx">Data Sheets</a> </li>
+<li><a href="WhitePapers.aspx">White Papers</a> </li>
+<li><a href="CaseStudies.aspx">Case Studies</a> </li>
+<li><a href="ProductBrochures.aspx">Product Brochures</a></li></ul></div>
+<div class="inner-content">
+<p class="mega-header"><a href="Training.aspx">Training &amp; Certification</a> </p></div></div></div></div></div></div></div></div><!--/Products Mega Menu--><!--Evaluate Mega Menu-->
+<div class="main-mega-menu main_flip" id="main_evaluate">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header">Web Security </p>
+<ul>
+<li><a href="websense-web-security-gateway-evaluation.aspx">Websense Web Security Gateway</a> </li>
+<li class="indent"><a href="websense-hosted-web-security-evaluation.aspx">Websense Hosted Web Security Gateway</a> </li>
+<li><a href="websense-web-security-evaluation.aspx">Websense Web Security</a> </li>
+<li><a href="websense-web-filter-evaluation.aspx">Websense Web Filter</a></li></ul></div></div>
+<div class="mega-left" id="mega-small">
+<div class="inner-content">
+<p class="mega-header">Data Security</p>
+<ul class="left">
+<li><a href="websense-data-security-suite-evaluation.aspx">Websense Data Security Suite</a></li></ul></div>
+<div class="inner-content">
+<p class="mega-header">Email Security</p>
+<ul class="left">
+<li><a href="websense-email-security-evaluation.aspx">Websense Email Security</a> </li>
+<li><a href="websense-hosted-email-security-evaluation.aspx">Websense Hosted Email Security</a></li></ul></div></div></div></div></div></div></div></div><!--/Evaluate Mega Menu--><!--Partners Mega Menu-->
+<div class="main-mega-menu main_flip" id="main_partners">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header"><a href="Partners.aspx">ChannelConnect Global Partner Program</a> </p>
+<ul>
+<li><a href="channel-connect-global-partner-program.aspx">North America</a> </li>
+<li><a href="cala-partner-program.aspx">Latin America and Caribbean</a> </li>
+<li><a href="emea-partner-program.aspx">Europe, Middle East, Africa</a> </li>
+<li><a href="apac-partner-program.aspx">Asia Pacific</a></li></ul></div></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header"><a href="find-a-partner.aspx">Find a Partner</a> </p>
+<ul class="left">
+<li><a href="/FindPartner/?region=NA">North America</a> </li>
+<li><a href="/content/Regional/LatAm/BuyTry.aspx">Latin America and Caribbean</a> </li>
+<li><a href="/FindPartner/?region=EMEA">Europe, Middle East, Africa</a> </li>
+<li><a href="/FindPartner/?region=APAC">Asia Pacific</a></li></ul></div>
+<div class="inner-content">
+<p class="mega-header"><a href="technology-integration-partners.aspx">Technology Integration Partners</a> </p>
+<ul class="left">
+<li><a href="technology-alliance-partners.aspx">Partners</a></li></ul></div></div></div></div></div></div></div></div><!--/Partners Mega Menu--><!--Security Labs Mega Menu-->
+<div class="main-mega-menu main_flip" id="main_security-labs">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="inner-content">
+<p class="mega-header"><a href="http://securitylabs.websense.com/">Security Labs</a> </p>
+<ul>
+<li><a href="http://community.websense.com/blogs/securitylabs/" target="_blank">Blogs</a> </li>
+<li><a href="http://securitylabs.websense.com/content/reportMalicious.aspx">Report Malicious Activity</a> </li>
+<li><a href="http://securitylabs.websense.com/content/threatResource.aspx">Attack Information Center</a> </li>
+<li><a href="http://securitylabs.websense.com/content/ThreatUpdateCenter.aspx">Security Effectiveness Center</a> </li>
+<li><a href="http://securitylabs.websense.com/content/about.aspx">About Security Labs</a></li></ul></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header"><a href="Services.aspx">Product Technologies</a> </p>
+<ul class="left">
+<li><a href="MasterDatabase.aspx">Master Database</a> </li>
+<li><a href="Defensio.aspx">Defensio</a> </li>
+<li><a href="PreciseID.aspx">PreciseID</a> </li>
+<li><a href="ThreatSeeker.aspx">ThreatSeeker</a> </li>
+<li><a href="websense-threatseeker-cloud.aspx">ThreatSeeker Cloud</a></li></ul></div></div></div></div></div></div></div></div><!--/Security Labs Mega Menu--><!--Support Mega Menu-->
+<div class="main-mega-menu main_flip" id="main_support">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header">Resources </p>
+<ul>
+<li><a href="SupportByProduct.aspx">Support by Product</a> </li>
+<li><a href="toolsandpolicies.aspx">Tools &amp; Policies</a> </li>
+<li><a href="KnowledgeBase.aspx">Knowledge Base</a> </li>
+<li><a href="contactSupport.aspx">Contact Support</a> </li>
+<li><a href="http://community.websense.com/forums/">Forums</a> </li></ul></div>
+<div class="inner-content">
+<p class="mega-header">MyWebsense </p>
+<ul class="left">
+<li><a href="mywebsense-subscriptions.aspx">Login</a> </li></ul></div></div>
+<div class="mega-left">
+<div class="inner-content">
+<p class="mega-header">Stay Informed</p>
+<ul class="left">
+<li><a href="TechAlerts.aspx">Tech Alerts</a> </li>
+<li><a href="SupportWebinars.aspx">Support Webinars</a> </li></ul></div>
+<div class="inner-content">
+<p class="mega-header">New Customers</p>
+<ul class="left">
+<li>Get the most out of support in 5 simple steps <a class="mm-cta" id="support-cta" href="get-the-most-out-of-support.aspx"><span>Go</span></a> </li></ul></div></div></div></div></div></div></div></div><!--/Support Mega Menu--><!--About Us Mega Menu-->
+<div class="main-mega-menu main_flip" id="main_about-us">
+<div class="bottom-left">
+<div class="bottom-right">
+<div class="top-left">
+<div class="top-right">
+<div class="mega-content">
+<div class="wsPopTopCloseBtn"><a href="#"></a></div>
+<p class="mega-header"><a href="AboutUs.aspx">About Us</a> </p>
+<div class="inner-content">
+<ul>
+<li><a href="http://community.websense.com/blogs/">Newsroom</a> </li>
+<li><a href="events.aspx">Events</a> </li>
+<li><a href="newsletters.aspx">Newsletters</a> </li>
+<li><a href="http://investor.websense.com/">Investors</a> </li></ul></div>
+<div class="inner-content">
+<ul class="left">
+<li><a href="industry-analyst-reports.aspx">Industry Analyst Reports</a> </li>
+<li><a href="careers.aspx">Careers</a> </li>
+<li><a href="contact-us.aspx">Contact Us</a></li></ul></div></div></div></div></div></div></div><!--/About Us Mega Menu-->            
+        
+</div>
         <!--At this point, header homepage-->       
     </div>
 <!-- Set this value to Yes to display "Overview" in the menu and the manually entered page section title if page not part of navigation: No-->
 <!-- Main menu tab paint -->
-    <div id="MainMenuTabId" style="display:none">ws5</div>
+    <div id="MainMenuTabId" style="display:none">ws8</div>
     <div class="body-wrapper">
         <!--SubMenu-->
             <div class="container2"> 
@@ -429,7 +736,8 @@ function siteAppend()
                                         
                                         
                                            
-                                      
+                                        
+                                                 
                                     
                                           
 
@@ -491,7 +799,7 @@ s.prop2 = SetSprop(2, strsplit);
 s.prop3 = SetSprop(3, strsplit);
 s.prop4 = SetSprop(4, strsplit);
 s.pageName = s.pageName.toLowerCase();
-s.server="SL3WWW3";
+s.server="SL3WWW2A";
 s.server = s.server.toLowerCase();
 s.channel=strsplit[0];
 function SetSprop(startIndex, pathArray) {
@@ -511,19 +819,18 @@ function SetSprop(startIndex, pathArray) {
 
 
 <!-- footer contains a context menu (see the list below) and the copyright info -->
-        <div class="clear footer">
+        <div class="footer">
             
             <div class="foot-wrap">
                 <ul class="left">
-                    <li><a href="/content/AboutUs.aspx">About Us</a><span class="sepFnav">&nbsp;</span></li>
-                    <li><a href="/site/footer/careers.html">Careers</a><span class="sepFnav">&nbsp;</span></li>
+                                       <li><a href="/site/footer/careers.html">Careers</a><span class="sepFnav">&nbsp;</span></li>
                     <li><a href="/content/contact-us.aspx">Contact Us</a><span class="sepFnav">&nbsp;</span></li>
                     <li><a href="http://community.websense.com/blogs/">Newsroom</a><span class="sepFnav">&nbsp;</span></li>
                     <li><a href="http://www.websense.com/site/sitemap.html">Site Map</a><span class="sepFnav">&nbsp;</span></li>
                     <li><a href="/content/Legal-Overview.aspx">Legal Information</a><span class="sepFnav">&nbsp;</span></li>
                     <li><a href="http://www.websense.com/site/footer/privacypolicy.html">Privacy Policy</a></li>
                 </ul>
-                <span class=" copyright right">©2009 Websense, Inc.  All Rights Reserved.</span>
+                <span class=" copyright right">©2010 Websense, Inc.  All Rights Reserved.</span>
             </div>
         </div>
     </div>
