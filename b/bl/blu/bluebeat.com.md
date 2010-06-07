@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bluebeat.com privacy policy that was archived on 2009-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090624014013id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluebeat.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608003042id_/http%3A//www.bluebeat.com/support/privacy) for the most accurate reproduction.*
 
-# BlueBeat.com Music - Privacy
+# Help - BlueBeat.com: Play Free Music
 
 #### Last Updated March 17, 2005
 
