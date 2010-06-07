@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227034052id_/http%3A//windows8news.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows8news.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607044424id_/http%3A//windows8news.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Windows 8 News
 
@@ -22,7 +22,9 @@ This policy will be updated from time to time. If we make significant changes to
 
 **Filed Under** : [News](http://windows8news.com/category/news/ "View all posts in News")
 
-**Bookmark & Share**
+ **Bookmark & Share**
 
-[](http://www.stumbleupon.com/submit?url=http://windows8news.com/privacy-policy/&title=Privacy%20Policy) 
+[](http://www.stumbleupon.com/submit?url=http://windows8news.com/privacy-policy/&title=Privacy%20Policy)
 
+
+**About the Author** : Everton is based in London and has worked in the internet and mobile space for over ten years now, and before that worked in corporate strategy and consulting. He has a degree in Economics from Cambridge University, and currently runs the Portal and online operations for one of the largest ISPs in the UK.He also writes for **[Windows 7 News](http://www.windows7news.com/), [Connected Internet](http://www.connectedinternet.co.uk/)** and **[One Tip A Day](http://www.onetipaday.com/)**[.](http://www.onetipaday.com/)
