@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220064410id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resellerratings.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607134819id_/http%3A//www.resellerratings.com/statement.pl) for the most accurate reproduction.*
 
 # Privacy Policy - ResellerRatings.com
 
