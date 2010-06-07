@@ -1,26 +1,103 @@
-<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2009-05-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090508080114id_/http%3A//rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rezlive.com privacy policy that was archived on 2010-06-07.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100607093241id_/http%3A//www.rezlive.com/privacy_policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>RezLive.com –  Global Reservation System with Wholesale Rates by Travel Designer India Pvt Ltd</title>
-<meta name="description" content="RezLive.com is a Product of Travel Designer India Private Limited offering Dedicated &amp; Exclusive Wholesale B2B System with 2,500 destinations &amp; more than 60 countries &amp; 20,000 hotels with Whole Sale Rates">
-<meta name="keywords" content="Book Hotels, Travel Holiday, Packages, Hotel Packages, discount hotel, whole sale hotel, Europe hotel, worldwide hotel, rezlive, travel designer, air travel, discount air travel, cheap air travel, vacation package, vacation package, honeymoon packages, cheap honeymoon, honeymoon hotel">
-<link href="css/styles.css" rel="stylesheet" type="text/css">
-<link type="text/css" rel="stylesheet" href="css/calendar.css">
-<script type="text/JavaScript" src="js/validation.js"></script>
-<script type="text/javascript" src="js/dynamic/ajax.js"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Wholesale B2B System with 2,500 destinations &amp; more than 60 countries offering 70,000 hotels, 4500 Sightseeing &amp; Activities and Airport and land transfers.">
+<meta name="keywords" content=" Relive, Reservation Online, Global Reservation System, XML, Online Booking, Online Hotels, Worldwide Hotels, Online Sightseeing, Online Airport Transfers, Travel Reservations, Reservation System, Hotel Deals, Discounted Hotels, Travel Designer India, Travel Designer Ahmedabad, Travel Designer Mumbai, Travel Designer Delhi, Designer Indya, Indian Hotels">
+<title>RezLive.com - Global Reservation System by Travel Designer India Pvt Ltd</title>
 
-<script type="text/JavaScript">
-<!--
+
+<style type="text/css">
+	/* Don't delete anything below here */
+	.dhtmlgoodies_contentBox {
+	height:0px;
+	visibility:hidden;
+	position:absolute;
+	overflow:hidden;
+	padding: 0px 5px 5px 5px;
+	color:#026e92;
+	width:113px;
+	float: left;
+	text-align: center;
+}
+.dhtmlgoodies_content {
+	border:1px solid #abbfd0;
+	background-color:#fff;
+	position:relative;
+	font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;
+	width:100%;
+	font-size:11px;
+	float:left;
+	height:auto;
+}
+.content_inner{border-bottom:1px solid #abbfd0; padding:5px; text-align:left;}
+
+.btn{width:113px; height:36px; border:0px solid #9ac1c9; padding:3px 0px 0px 5px; font-weight:bold; cursor:pointer; background:url(images/currency_btn.jpg) top left no-repeat;text-align: left;}
+</style>
+<script type="text/javascript">
+var slideDownInitHeight = new Array();
+var slidedown_direction = new Array();
+
+var slidedownActive = false;
+var contentHeight = false;
+var slidedownSpeed = 3; 	// Higher value = faster script
+var slidedownTimer = 7;	// Lower value = faster script
+function slidedown_showHide(boxId) {
+	if(!slidedown_direction[boxId])slidedown_direction[boxId] = 1;
+	if(!slideDownInitHeight[boxId])slideDownInitHeight[boxId] = 0;
+	
+	if(slideDownInitHeight[boxId]==0)slidedown_direction[boxId]=slidedownSpeed; else slidedown_direction[boxId] = slidedownSpeed*-1;
+	
+	slidedownContentBox = document.getElementById(boxId);
+	var subDivs = slidedownContentBox.getElementsByTagName('DIV');
+	for(var no=0;no<subDivs.length;no++){
+		if(subDivs[no].className=='dhtmlgoodies_content')slidedownContent = subDivs[no];	
+	}
+	contentHeight = slidedownContent.offsetHeight;
+	slidedownContentBox.style.visibility='visible';
+	slidedownActive = true;
+	slidedown_showHide_start(slidedownContentBox,slidedownContent);
+}
+function slidedown_showHide_start(slidedownContentBox,slidedownContent) {
+
+	if(!slidedownActive)return;
+	slideDownInitHeight[slidedownContentBox.id] = slideDownInitHeight[slidedownContentBox.id]/1 + slidedown_direction[slidedownContentBox.id];
+	if(slideDownInitHeight[slidedownContentBox.id] <= 0){
+		slidedownActive = false;	
+		slidedownContentBox.style.visibility='hidden';
+		slideDownInitHeight[slidedownContentBox.id] = 0;
+	}
+	if(slideDownInitHeight[slidedownContentBox.id]>contentHeight){
+		slidedownActive = false;	
+	}
+	slidedownContentBox.style.height = slideDownInitHeight[slidedownContentBox.id] + 'px';
+	slidedownContent.style.top = slideDownInitHeight[slidedownContentBox.id] - contentHeight + 'px';
+
+	setTimeout('slidedown_showHide_start(document.getElementById("' + slidedownContentBox.id + '"),document.getElementById("' + slidedownContent.id + '"))',slidedownTimer);	// Choose a lower value than 10 to make the script move faster
+}
+
+function setSlideDownSpeed(newSpeed) {
+	slidedownSpeed = newSpeed;
+}
+</script>
+
+<script language="javascript1.2" type="text/javascript">
+
+function hotels(arg1){
+		var i=0;
+		for(i=1; i<=3; i++){
+			document.getElementById(i).style.display = 'none';
+		}
+		document.getElementById(arg1).style.display = 'block';
+	}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
 function MM_preloadImages() { //v3.0
   var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
     var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
     if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
 }
 
 function MM_findObj(n, d) { //v4.01
@@ -35,81 +112,396 @@ function MM_swapImage() { //v3.0
   var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
    if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
 }
-//-->
+
+function Visa_Processing() {
+	winx = window.open('visa_processing.php','VisaProcessing','width=800,height=600,resizable=1,scrollbars=1');
+	winx.title = 'Visa Processing';
+}
+</script>
+<link href="css/style_sheet.css" rel="stylesheet" type="text/css">
+<link href="css/calendar_pop.css" type="text/css" rel="stylesheet">
+<link href="css/menu_css.css" type="text/css" rel="stylesheet">
+<link rel="stylesheet" href="js/windowfiles/dhtmlwindow.css" type="text/css">
+<link rel="stylesheet" href="js/modalfiles/modal.css" type="text/css">
+<script type="text/javascript" src="js/dynamic/ajax.js"></script>
+<script type="text/javascript" src="js/global.js"></script>    
+<script type="text/javascript" src="js/validation.js"></script>    
+<script type="text/javascript" src="js/PopupWindow.js"></script>
+<script type="text/javascript" src="js/AnchorPosition.js"></script>
+<script type="text/javascript" src="js/date.js"></script>
+<script type="text/javascript" src="js/hotel_search.js"></script>
+<script type="text/javascript" src="js/windowfiles/dhtmlwindow.js"></script>
+<script type="text/javascript" src="js/modalfiles/modal.js"></script>
+<script type="text/javascript" src="js/swfobject.js"></script>
+<script type="text/javascript" src="js/ajaxpagination.js"></script>
+<script type="text/javascript" src="js/menuNew.js" language="javascript"></script>
+<script language="JavaScript" src="js/menu.js" type="text/javascript"></script>
+<script language="JavaScript" src="js/mm_menu.js" type="text/javascript"></script>
+<script src="js/mootools-1.2-core.js" type="text/javascript" language="javascript"></script>
+<script src="js/mootools-1.2-more.js" type="text/javascript" language="javascript"></script>
+<script type="text/javascript" src="js/menu_new2.js"></script>
+<script type="text/javascript" src="js/check_date.js"></script>			
+<script type="text/javascript" src="js/chk_date.js"></script> 
+<script type="text/javascript">
+function validate_room_type(sId) {
+ var check_counter = parseInt(0) ;
+    var outArray = new Array();	
+	if(typeof(sId)!='string' || !sId)	{	
+		return outArray;
+	};	
+	 if(document.hotel_form)	{		
+		var mycount=document.hotel_form[sId].length;
+		var flag ;
+		for(var i=0;i<document.hotel_form[sId].length;i++){
+			outArray[i] =  document.hotel_form[sId][i];
+			//alert(outArray[i].value);
+			if(outArray[i].value== "") {
+				//alert("blank");
+				//alert("i is" + i);
+				flag = i + 1  ;								
+				//alert("now flag is" + flag);
+			}else {
+				//alert("not blank");
+				flag = 0;	
+				return true ;
+				//alert("flag is" + flag);
+			}
+		}
+		
+	}
+	//alert("mycount is" + mycount);
+	//alert("flag  is" + flag);	
+	if (mycount == flag)	{
+		alert("Select atleast one Room Typed");
+	}
+	
+ }
+
+function validate_room_and_pax_count(sId,pId) {
+	var check_counter = parseInt(0) ;
+    var outArray = new Array();	
+	var paxArray = new Array();	
+	if(typeof(sId)!='string' || !sId)	{	
+		return outArray;
+	};	
+	 if(document.hotel_form)	{		
+		var mycount=document.hotel_form[sId].length;
+		var flag ;
+		var RoomCount = '0' ;
+		var PaxCount = '0' ;
+		for(var i=0;i<document.hotel_form[sId].length;i++){
+			outArray[i] =  document.hotel_form[sId][i];
+			paxArray[i] =  document.hotel_form[pId][i];
+			
+			//alert(outArray[i].value);
+			//alert(paxArray[i].value);
+			if(outArray[i].value > 3) {
+				alert("Maximum 3 rooms allowed in one room type");
+				return false;
+			}
+			if(((outArray[i].value) * (paxArray[i].value)) > 9){
+				alert("Maximum 9 Pax allowed in one room type");
+				return false;
+			}
+		}
+		return true;
+		
+	}
+	
+ } function validate_rating(rate_id) {
+	 //alert(rate_id) ;
+	 //alert(document.hotel_form[rate_id].length);
+	 var minmum_rating_selection= new Array(); 
+	 cnt=0;
+	 for(var i=0;i<document.hotel_form[rate_id].length;i++){
+		 //alert(document.hotel_form[rate_id][i].value);
+		 if (document.hotel_form[rate_id][i].checked){
+			 //alert('Yes cnt is now '+ cnt);			 
+			 minmum_rating_selection[cnt]=document.hotel_form[rate_id][i].value ;			 
+			 cnt= cnt + 1 ;
+		 }else {
+			 //alert('No');
+		 }
+		 
+	 }
+	 
+	 if (minmum_rating_selection.length > 0) {
+		if (minmum_rating_selection.length > 3) {
+			alert('You should not select more than 3 ratings.');
+			 return false;
+		}else {
+			return true ;
+		}
+	 }else {
+		 alert('You should select atleast 1 rating.');
+		 return false;
+	 }
+
+ }
+var total = new Array();
+function search_frm() {
+	var MformObj = document.forms["hotel_form"];		
+	
+	var arr_date=new Date(MformObj.arrivalDate.value) ;					
+	var departure_date=new Date(MformObj.departureDate.value) ;					
+
+	var CI_Day = arr_date.getDate() ;
+	var CI_Month = arr_date.getMonth()+1 ;
+	var CI_Year = arr_date.getFullYear();					
+
+	var CO_Day = departure_date.getDate() ;
+	var CO_Month = departure_date.getMonth()+1 ;
+	var CO_Year = departure_date.getFullYear();					
+	
+	/*if(MformObj.sel_roomtype.options[MformObj.sel_roomtype.selectedIndex].value == 'doublepluschild' || MformObj.sel_roomtype.options[MformObj.sel_roomtype.selectedIndex].value == 'triplepluschild') {
+		MformObj.txt_child_age.value = MformObj.txt_child_age.value ;
+	} else {
+		MformObj.txt_child_age.value = '' ;
+	}*/
+
+					
+	smonth	=	CI_Month 
+	sday	=	CI_Day
+	syear	=	CI_Year
+
+	emonth	=	CO_Month
+	eday	=	CO_Day
+	eyear	=	CO_Year
+
+	fromDate = smonth+"/"+sday+"/"+syear;
+	toDate = emonth+"/"+eday+"/"+eyear;
+
+	//if (isDate(fromDate)==false){					
+		//return false
+	//}
+
+	//if (isDate(toDate)==false){					
+		//return false
+	//}
+						
+	var curr_date=new Date()
+	curr_date = curr_date.getMonth()+1+"/"+curr_date.getDate()+"/"+curr_date.getFullYear();
+	
+	//if (Date.parse(fromDate) > Date.parse(toDate)) {
+	//	alert("Check Out date should be after Check In Date")
+	//	return false;
+	//}
+
+	//if (Date.parse(toDate)-Date.parse(fromDate) > (30*24*60*60*1000)) {
+	//	alert("You are allowed to book for a maximum 30 Nights")
+	//	return false;
+	//}
+				
+	var total_count = 0;
+	for(var i=0;i<total.length;i++) {
+		if(total[i]) {
+			if(total[i] != "") {
+				total_count += 1;
+			}
+		} 
+	}
+					
+	if(MformObj.sel_city_preferred.options[MformObj.sel_city_preferred.selectedIndex].value == "" && MformObj.sel_country.options[MformObj.sel_country.selectedIndex].value == "") {
+		alert("Select a country.");
+		MformObj.sel_country.focus();
+	}else if(MformObj.sel_city_preferred.options[MformObj.sel_city_preferred.selectedIndex].value == "" && MformObj.sel_city.options[MformObj.sel_city.selectedIndex].value == "") {
+		alert("Select a city.");
+		MformObj.sel_city.focus();
+	} else {
+		var final_string = "";
+		var tt;
+		for(var i=0;i<total.length;i++) {
+			if(total[i]) {
+				if(total[i] != "") {
+					tt = total[i].toString();
+					final_string = final_string+tt;
+				}
+			} 
+		}
+						
+		var rating = 0;
+		var selected;
+		for(i=0;i<document.forms["hotel_form"].elements.length;i++){
+		if(document.forms["hotel_form"].elements[i].type == 'select-one'){
+			if(document.forms["hotel_form"].elements[i].name == 'sel_roomtype'){
+					if(document.forms["hotel_form"].elements[i].value != 0){
+						selected = 1;
+						//break;
+					} else {
+						selected = 0;
+					}
+				}
+			} else if(document.forms["hotel_form"].elements[i].type == "checkbox" && document.forms["hotel_form"].elements[i].checked){
+				rating++;
+			}
+		}
+						
+		/*
+		if((rating < 1 || rating > 2)){
+				alert("You Have To Choose two ratings and minimum one rating ");
+				return false;
+		}
+		*/
+
+		//if(!selected){
+		//	alert("You Have To Choose A Room Type");
+		//	return false;
+		//}
+		if(MformObj.sel_hotel.value == "") {						
+			if(validate_room_type('room') && validate_room_and_pax_count('room','roomtypePaxCount') && validate_rating('rating_chk')){				
+				MformObj.submit();
+			}				
+		}else{
+			if(validate_room_type('room') && validate_room_and_pax_count('room','roomtypePaxCount')){
+					MformObj.submit();
+			}
+		}
+	}
+}
+
+function unselect_ratings(formObj){
+	//for(i=0;i<formObj.elements.length;i++){
+		//if(formObj.elements[i].type == "radio"){
+			//formObj.elements[i].checked = false;
+		//}
+	//}
+}
+var ajax = new sack();
+
+function getCityList(sel) {					
+	document.getElementById('city_loading').style.display = 'block';
+	document.getElementById('sel_city').disabled = true;
+	var countryCode = sel.options[sel.selectedIndex].value;
+
+	document.getElementById('sel_city').options.length = 0;	// Empty city select box
+	if(countryCode){
+		ajax.requestFile = 'ajax/ajax_city_list.php?sel_country='+countryCode;	// Specifying which file to get
+		ajax.onCompletion = createCities;	// Specify function that will be executed after file has been found
+		ajax.runAJAX();		// Execute AJAX function
+	}																											
+}
+
+function createCities() {
+	var obj = document.getElementById('sel_city');
+	eval(ajax.response);	// Executing the response from Ajax as Javascript code	
+	document.getElementById('city_loading').style.display = 'none';
+	document.getElementById('sel_city').disabled = false;
+}
+
+function getHotelList(sel) {
+	hotel_loading.style.display = 'block';
+	document.getElementById('sel_hotel').disabled = true;
+	var cityCode = sel.options[sel.selectedIndex].value;
+	document.getElementById('sel_hotel').options.length = 0;	// Empty city select box
+	alert(cityCode);
+	if(cityCode){
+		ajax.requestFile = 'ajax/ajax_hotel_list.php?sel_city='+cityCode;	// Specifying which file to get
+		ajax.onCompletion = createHotels;	// Specify function that will be executed after file has been found
+		ajax.runAJAX();		// Execute AJAX function
+	}
+	
+}
+
+function createHotels() {
+	var obj = document.getElementById('sel_hotel');
+	eval(ajax.response);	// Executing the response from Ajax as Javascript code	
+	hotel_loading.style.display = 'none';
+	document.getElementById('sel_hotel').disabled = false;
+}
+
+function manage_date(d,ci,co){
+	selected_ci_date=document.forms["hotel_form"].arrivalDate.value;
+	selected_co_date=document.forms["hotel_form"].departureDate.value;
+	
+	var ci_dateArray = selected_ci_date.split('/');					
+	var co_dateArray = selected_co_date.split('/');					
+	ci_day=ci_dateArray[0];
+	ci_month=ci_dateArray[1];
+	ci_year=ci_dateArray[2];
+	co_day=co_dateArray[0];
+	co_month=co_dateArray[1];
+	co_year=co_dateArray[2];
+	//alert(ci_year);
+
+	days = document.forms["hotel_form"].sel_days;
+	
+	cifromDate = ci_month+"/"+ci_day+"/"+ci_year;
+	cotoDate = co_month+"/"+co_day+"/"+co_year;
+	//alert(cifromDate) ;
+	//alert(cotoDate) ;
+					
+	if (co){
+		if (Date.parse(cifromDate) > Date.parse(cotoDate)){
+			alert("Check In date should be greater than Check Out date") ;												
+			co_day.value=(ci_day.value*1)+(1);
+			return false;
+		}
+	}
+					
+	if(d) {
+		// change CO
+		//alert('nikhil');						
+		var myDate = new Date();
+		myDate.setFullYear(ci_year,ci_month-1,ci_day)	;
+		
+		myDate.setDate(myDate.getDate() + (days.value)*1);
+		
+		day_o = myDate.getDate();
+		if(day_o <= 9) 
+			day_o = "0"+day_o; 
+
+		co_day = day_o;
+		
+		month = myDate.getMonth();
+		month = month+1;
+		if(month <= 9) 
+			month = "0"+month; 
+
+		co_month = month;
+		co_year = myDate.getFullYear();
+		//alert(co_day);alert(co_month);alert(co_year);
+		document.forms["hotel_form"].departureDate.value = co_day+"/"+co_month+"/"+co_year;						
+	}
+					
+	if(ci){
+		// change CO
+		var myDate = new Date();
+		myDate.setFullYear(ci_year,ci_month-1,ci_day)	;
+		myDate.setDate(myDate.getDate() + (days.value)*1);
+		
+		day_o = myDate.getDate();
+		if(day_o <= 9) 
+			day_o = "0"+day_o; 
+
+		co_day = day_o;
+		month = myDate.getMonth();
+		month = month+1;
+		if(month <= 9) 
+			month = "0"+month; 
+
+		co_month = month;
+		co_year = myDate.getFullYear();
+	}
+
+	if(co){
+		// change CO
+		var myCiDate = new Date();
+		var myCoDate = new Date();
+		myCiDate.setFullYear(ci_year,ci_month-1,ci_day)	
+		myCoDate.setFullYear(co_year,co_month-1,co_day)	
+		days.value = (myCoDate-myCiDate)/(24*60*60*1000);
+	}
+				
+}
+			//-->
 </script>
 
-<script type="text/Javascript" src="js/global.js"></script>
+
 </head>
-<body onload="MM_preloadImages('images/global_blue.gif','images/hotel_blue.gif','images/reservation_blue.gif','images/system_blue.gif','images/hotel_menu_blue.gif','images/rental_menu_blue.gif','images/packages_menu_blue.gif','images/destination_menu_blue.gif');">
-<center>
-<table border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td colspan="3" height="5"></td>
-  </tr>
-  <tr>
-    <td width="5">&nbsp;</td>
-    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-      <tbody><tr>
-        <td><table width="996" border="0" cellspacing="0" cellpadding="0" align="center">
-					<tbody><tr>
-						<td height="5"></td>
-					</tr>
-          <tr>
-            <td>
-							<table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="150">
-									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td>
-										 <img src="images/logo.jpg">
-										 <link rel="SHORTCUT ICON" href="images/favicon.ico">
-										</td>
-                  </tr>
-                  <tr>
-                    <td height="5"></td>
-                  </tr>
-                </tbody></table></td>
-                <td valign="top">
-								<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="12"></td>
-                  </tr>
-                  <tr>
-                    <td><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image65','','images/global_blue.gif',1)"><img src="images/global_grey.gif" name="Image65" width="41" height="9" border="0" alt=""></a></td>
-                  </tr>
-                  <tr>
-                    <td height="12"></td>
-                  </tr>
-                  <tr>
-                    <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image67','','images/reservation_blue.gif',1)"><img src="images/reservation_grey.gif" name="Image67" width="72" height="9" border="0" alt=""></a></td>
-                  </tr>
-                  <tr>
-                    <td height="12"></td>
-                  </tr>
-                  <tr>
-                    <td><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image68','','images/system_blue.gif',1)"><img src="images/system_grey.gif" name="Image68" width="42" height="11" border="0" alt=""></a><a href="#" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image68','','images/global_blue.gif',1)"></a></td>
-                  </tr>
-                </tbody></table></td>                
-                <td>&nbsp;</td>
-                <td width="470" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td align="right">
-										<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=7,0,19,0" width="468" height="60">
-										<param name="movie" value="images/Rezlive-Banner.swf">
-										<param name="quality" value="high">
-										<embed src="images/Rezlive-Banner.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="468" height="60">
-										</object>
-									</td>
-                  </tr>
-                  <tr>
-                    <td height="18"></td>
-                  </tr>
-                  <tr>
-                    <td>
-																			<script language="JavaScript" src="js/menu.js" type="text/javascript"></script>
-									<script language="JavaScript" src="js/mm_menu.js" type="text/javascript"></script>
-									<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 123px; height: 75px;">
+<body>
+
+
+<script language="JavaScript1.2" type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(206, 206, 206); background-color: rgb(206, 206, 206); width: 123px; height: 75px;">
   <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 73px; width: 121px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
 	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 72px; width: 120px; background-color: rgb(228, 213, 0);">
 <div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: Verdana, Arial, Helvetica, sans-serif; font-weight: normal; font-size: 11px; width: 119px; height: 17px; background-color: rgb(238, 235, 195); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:2px;color:#524c00;">»&nbsp;Market&nbsp;Today&nbsp;</div>
@@ -186,405 +578,349 @@ function MM_swapImage() { //v3.0
 </div>
 </span>
 
-									<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="16" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="16"><img src="images/arow_menu.gif" width="16" height="22" alt=""></td>
-                          </tr>
-                          <tr>
-                            <td width="16" height="1"></td>
-                          </tr>
-                        </tbody></table></td>
-                        <td width="1" align="left"></td>
-                        <td width="69"><a href="index.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image68','','images/home_menu_blue.gif',1)"><img src="images/home_menu.gif" name="Image68" width="69" height="23" border="0" alt="Home" title="Home"></a></td>
-                        <td width="1" align="left"></td>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-						   <td width="1"></td>
-                            <td width="92"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-							  	<td width="1"></td>
-                                <td width="16"><a href="http://www.designerindya.com/hotel_search.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image69','','images/indian_menu_blue.gif',1)"><img src="images/indian_menu.gif" name="Image69" border="0" alt="Search Hotels" title="Search Hotels"></a></td>
-                              </tr>                              
-                            </tbody></table></td>
 
-							<td width="1"></td>
-                            <td width="92"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td width="16"><a href="hotel_search.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image69','','images/int_menu_blue.gif',1)"><img src="images/int_menu.gif" name="Image69" border="0" alt="Search Hotels" title="Search Hotels"></a></td>
-                              </tr>                              
-                            </tbody></table></td>
+<div class="main">
+	<div id="container">
+    	<div id="main_content">
+           	
+<script language="javascript1.2" type="text/javascript">
+var ajax=new sack();
+function clear_text(arg1){					
+	if(arg1 == 'agent'){
+		if(document.getElementById("agent").value == 'Agent Code'){
+			document.getElementById('agent').value = '';
+		}
+	} else if(arg1 == 'username'){
+		if(document.getElementById("username").value == 'Username'){
+			document.getElementById('username').value = '';
+		}
+	} else if(arg1 == 'password'){						
+		if(document.getElementById("password").value == 'Password'){							
+			document.getElementById("dummy_pass").style.display='none';								
+			document.getElementById("main_pass").style.display='block';								
+			document.getElementById('password').value = '';					
+			document.getElementById('password').focus();
+		}
+	}
+}
 
-														<!-- <td width="1"></td>
-                            <td width="92"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tr>
-                                <td width="16"><a href="hotel_search.php" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image69','','images/hotel_menu_blue.gif',1)"><img src="images/hotel_menu.gif" name="Image69" width="92" height="23" border="0" alt="Search Hotels" title="Search Hotels"></a></td>
-                              </tr>                              
-                            </table></td> -->
-														<td width="1"></td>														
-                            <td width="92"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-															<tbody><tr>
-                                <td width="16"><!-- packages_new.php --><a href="javascript:alert('Coming Soon');" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image71','','images/packages_menu_blue.gif',1)"><img src="images/packages_menu.gif" name="Image71" width="92" height="23" border="0" alt="Search Packages" title="Search Packages"></a></td>
-                              </tr>                              
-                            </tbody></table></td>
-                            <td width="1"></td>
-                            <td width="104"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                              <tbody><tr>
-                                <td width="16"><a href="sight_search.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image72','','images/destination_menu_blue.gif',1)"><img src="images/destination_menu.gif" name="Image72" width="104" height="23" border="0" alt="Search Desinations" title="Search Destinations"></a></td>
-                              </tr>
-                              
-                            </tbody></table></td>
-                            <td width="1"></td>
-                            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-                                <td width="16"><a href="transfer_search.php" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image70','','images/rental_menu_blue.gif',1)"><img src="images/rental_menu.gif" name="Image70" width="92" height="23" border="0" alt="Seacrh Rentals" title="Search Rentals"></a></td>
-                              </tr>
-                            </tbody></table></td>
-                          </tr>
-                        </tbody></table></td>
-                      </tr>
-                      
-                    </tbody></table>
-										</td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-					          <tr>
-            <td><table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-image: url('images/gradients_blue.gif')">
-              <tbody><tr>
-                <td align="right" class="text_white">You are not logged in as a Agent, Review the benefits <a href="agent_registration_benefits.php" class="text_white"><u>here</u></a>.</td>
-                <td width="19">&nbsp;</td>
-              </tr>
-            </tbody></table></td>
-          </tr>
-					        </tbody></table></td>
-      </tr>
-      <tr>
-        <td height="4" bgcolor="#d7d7d7"></td>
-      </tr>
-      <tr>
-        <td height="1" bgcolor="#FFFFFF"></td>
-      </tr>
-      <tr>
-        <td>
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="24">&nbsp;</td>
-            <td width="760" valign="top">				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td height="10"></td>
-              </tr>
-							<tr>
-                <td height="44" class="tahoma14_orange_reg">Privacy Policy</td>
-              </tr>
-              <tr>
-                <td><div align="left">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="3"><img src="images/registrationform_cornerleft.gif" width="4" height="22" alt=""></td>
-                        <td style="background-image: url('images/registrationform_bg.gif')" class="tahoma_11bluebold">General Policy</td>
-                        <td width="3"><img src="images/registrationform_cornerrigh.gif" width="4" height="22" alt=""></td>
-                      </tr>
-                    </tbody></table>
-                </div></td>
-              </tr>
-              <tr>
-                <td>
-								<span class="tahoma11grayspace">
-											<br>
-											RezLive.com takes your privacy concerns seriously and will not share your personal information without your consent.<br><br> If you choose to use one of the features below, your information will be used as follows: 
-RezLive.com will never disclose or sell any of your personal information, including your name, address, shopping, or transaction history to any third party without your permission.<br>
-If you are a member, we will use your e-mail address to send correspondence about RezLive.com, including: <br>
-<li>Reservation confirmations
-</li><li>Important updates about your travel plans
-</li><li>Newsletters
-</li><li>Notifications of travel specials 
-If you have additional questions or concerns regarding the RezLive.com site, please e-mail us at Feedback@RezLive.com.com. We read every customer e-mail and will respond as soon as possible.<br>
+function clearField(id, val){
+	if(document.getElementById(id).value == val){
+		document.getElementById(id).value = "";
+	}
+}
+function defaultText(id, val){
+	if(document.getElementById(id).value == ''){
+		document.getElementById(id).value = val;
+		temp = 0;
+	}
+}
+function setNewValue(id){
+	if(document.getElementById(id).value != ""){
+		//temp = 1;
+	}
+}
 
-											</li></span></td>
-               </tr>
-              <tr>
-                <td>&nbsp;</td>
-              </tr>
-              <tr>
-                <td><div align="left">
-                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="3"><img src="images/registrationform_cornerleft.gif" width="4" height="22" alt=""></td>
-                        <td style="background-image: url('images/registrationform_bg.gif')" class="tahoma_11bluebold">Your Feed Back &amp; Suggestions are Important</td>
-                        <td width="3"><img src="images/registrationform_cornerrigh.gif" width="4" height="22" alt=""></td>
-                      </tr>
-                    </tbody></table>
-                </div></td>
-              </tr>
-<tr>
-                <td>
-								<span class="tahoma11grayspace">
-											<br>
-											We Welcome your Suggestions to Serve you Better, write back to us on <a href="mailto:Feedback@RezLive.com">Feedback@RezLive.com</a>
-											</span></td>
-               </tr>
-              <tr>
-                <td height="95">&nbsp;</td>
-              </tr>
-            </tbody></table></td>
-            <td>&nbsp;</td>
-            <td width="197" valign="top">
-										<table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td bgcolor="#e6e6e6">				
-				<script type="text/javascript">
-				<!--
-				function clear_text(arg1){					
-					if(arg1 == 'agent'){
-						//if(document.getElementById("password").value == 'Password'){
-						//	document.getElementById("password").type = 'text'
-						//}
-						if(document.getElementById("agent").value == 'Agent Code'){
-							document.getElementById('agent').value = '';
-						}
-					}
-					else if(arg1 == 'username'){
-						//if(document.getElementById("password").value == 'Password'){
-						//	document.getElementById("password").type = 'text'
-						//}
+function getFieldNew(){
+	if(document.getElementById("passwordRequestP").value == ''){
+		document.getElementById('passwordRequestT').value = 'Password';
+		document.getElementById("dummy_pass").style.display='block';								
+		document.getElementById("main_pass").style.display='none';								
+	}
+}
+function clearFieldNew(){		
+		document.getElementById("dummy_pass").style.display='none';								
+		document.getElementById("main_pass").style.display='block';								
+		document.getElementById('passwordRequestP').value = '';					
+		document.getElementById('passwordRequestP').focus();
+}
+				
+function get_text(arg1){
+	if(arg1 == 'agent'){
+		if(document.getElementById("agent").value == ''){
+			document.getElementById('agent').value = 'Agent Code';
+		}
+	}
+	else if(arg1 == 'username'){
+		if(document.getElementById("username").value == ''){
+			document.getElementById('username').value = 'Username';
+		}
+		
+	}
+	else if(arg1 == 'password'){
+		if(document.getElementById("password").value == ''){
+			document.getElementById('password').value = 'Password';
+			document.getElementById("dummy_pass").style.display='block';								
+			document.getElementById("main_pass").style.display='none';								
+		}
+	}
 
-						if(document.getElementById("username").value == 'Username'){
-							document.getElementById('username').value = '';
-						}
-					}
-					else if(arg1 == 'password'){						
-						//alert(document.getElementById("password").value) ;
-						if(document.getElementById("password").value == 'Password'){							
-							document.getElementById("dummy_pass").style.display='none';								
-							document.getElementById("main_pass").style.display='block';								
-							document.getElementById('password').value = '';					
-							document.getElementById('password').focus();
-							//if(document.getElementById("password").type == 'text') document.getElementById("password").type = 'password';
-						}
-					}
-				
-				}
-				
-				function get_text(arg1){
-					if(arg1 == 'agent'){
-						if(document.getElementById("agent").value == ''){
-							document.getElementById('agent').value = 'Agent Code';
-						}
-					}
-					else if(arg1 == 'username'){
-						if(document.getElementById("username").value == ''){
-							document.getElementById('username').value = 'Username';
-						}
-						
-					}
-					else if(arg1 == 'password'){
-						if(document.getElementById("password").value == ''){
-							document.getElementById('password').value = 'Password';
-							document.getElementById("dummy_pass").style.display='block';								
-							document.getElementById("main_pass").style.display='none';								
-						}
-					}
-				
-				}
-				
-				function submit_login_form(formObj){
-					if(is_empty(formObj.txt_agent_code,formObj.txt_agent_code.value) || formObj.txt_agent_code.value == 'Agent Code') {
-						alert('Enter Agent Code.');
-						formObj.txt_agent_code.focus();
-					} else if(is_empty(formObj.txt_username,formObj.txt_username.value) || formObj.txt_username.value == 'Username') {
-						alert('Enter Username.');
-						formObj.txt_username.focus();
-					} else if(is_empty(formObj.txt_password,formObj.txt_password.value) || formObj.txt_password.value == 'Password') {
-						alert('Enter Password.');
-						formObj.txt_password.focus();
-					} else {
-						formObj.submit();
-					}
-				}
+}
+function checkReturn(e) {
+ var ENTER_KEY = 13;
+            var code = "";
+      
+ if (window.event) // IE
+            {
+                code = e.keyCode;
+            }
+            else if (e.which) // Netscape/Firefox/Opera
+            {
+                code = e.which;
+            }
+ if(code == ENTER_KEY) {
+  submit_login_form(document.forms['agent_login_frm']);
+ 
+ }
+}
 
-				//-->
-				</script>
-				
-								<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e5e5e5">
-              <tbody><tr>
-                <td width="5" height="5"></td>
-                <td height="5"></td>
-                <td width="5"></td>
-              </tr>
-              <tr>
-                <td width="5"></td>
-                <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                  <tbody><tr>
-                    <td height="22" bgcolor="#f5f5f5"><table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#e5e5e5">
-                      <tbody><tr bgcolor="#e5e5e5">
-                        
-                        <td class="text" align="center"><a href="agent_registration.php" class="text"><img src="images/agents_register_btn.gif" border="0"></a></td>
-                      </tr>
-                    </tbody></table></td>
-                  </tr>
-                  <tr>
-                    <td height="5"></td>
-                  </tr>									
-                  <tr>
-                    <td bgcolor="#F5F5F5">
-											<form name="agent_login_frm" method="POST" action="agent_login.php" onsubmit="submit_login_form(document.forms['agent_login_frm']);return false ;">
-											<input type="hidden" name="action_type" value="login">
-											<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="1" height="1"></td>
-                            <td height="1"></td>
-                            <td width="1"></td>
-                          </tr>
-                          <tr>
-                            <td width="1" height="20"></td>
-                            <td height="20"><table width="100%" border="0" cellspacing="0" cellpadding="0" style="background-image: url('images/gradients_grey.gif')">
-                              <tbody><tr>
-                                <td width="9">&nbsp;</td>
-                                <td class="text_bold">Agent Login</td>
-                              </tr>
-                            </tbody></table></td>
-                            <td width="1" height="10"></td>
-                          </tr>
-                        </tbody></table></td>
-                      </tr>
-                      <tr>
-                        <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
-                            <td width="7" height="5"></td>
-                            <td height="5"></td>
-                            <td width="7"></td>
-                          </tr>
-                          <tr>
-                            <td width="7"></td>
-                            <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-								<tbody><tr>
-									<td height="15" class="error_msg"></td>
-								</tr>
-                              <tr>
-                                <td>
-										<input name="txt_agent_code" type="text" class="form_text" value="Agent Code" onfocus="clear_text('agent')" id="agent" onblur="get_text('agent')">
-																</td>
-                              </tr>
-                              <tr>
-                                <td height="5"></td>
-                              </tr>
-                              <tr>
-                                <td><input name="txt_username" id="username" type="text" class="form_text" value="Username" onfocus="JavaScript:clear_text('username')" onblur="get_text('username')"></td>
-                              </tr>
-                              <tr>
-                                <td height="5"></td>
-                              </tr>
-                              <tr>
-                                <td>
-								<div id="main_pass" style="display:none">
-								<input name="txt_password" id="password" type="password" value="Password" class="form_text" onblur="get_text('password')">					
-								</div>
-								
-								<div id="dummy_pass" style="display:block">
-								<input type="text" value="Password" class="form_text" onfocus="JavaScript:clear_text('password')">
-								</div>
-								</td>
-                              </tr>
-                              <tr>
-                                <td height="5"></td>
-                              </tr>
-                              <tr>
-                                <td align="right"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                  <tbody><tr>
-                                    <td width="44">									
-									<input type="image" src="images/login_btn.gif">									</td>
-																		<td class="text_small"></td>                                    
-                                  </tr>
-																	<tr>
-																		<td>
-																		<a href="forgot_password.php" class="text_small">Forgot Password?</a>
-																		</td>
-																	</tr>
-																		</tbody></table></td>
-                              </tr>
-                            </tbody></table></td>
-                            <td width="7"></td>
-                          </tr>
-                        </tbody></table></td>
-                      </tr>
-											</tbody></table>
-											</form>
-										</td>
-                  </tr>									
-                </tbody></table></td>
-                <td width="5"></td>
-              </tr>
-              <tr>
-                <td width="5" height="7"></td>
-                <td width="5" height="7"></td>
-                <td width="5" height="7"></td>
-              </tr>
-            </tbody></table>
-				</td>
-              </tr>
-              <tr>
-                <td height="7"></td>
-              </tr>
-              <tr>
-                <td>
-																									</td>
-              </tr>
-              <tr>
-                <td height="7"></td>
-              </tr>
-              <tr>
-                <td>
-									</td>
-              </tr>
-            </tbody></table>
+		
+function submit_login_form(formObj){
+	if(is_empty(formObj.txt_agent_code,formObj.txt_agent_code.value) || formObj.txt_agent_code.value == 'Agent Code') {
+		alert('Enter Agent Code.');
+		formObj.txt_agent_code.focus();
+		//return false;
+	} else if(is_empty(formObj.txt_username,formObj.txt_username.value) || formObj.txt_username.value == 'Username') {
+		alert('Enter Username.');
+		formObj.txt_username.focus();
+		//return false;
+	} else if(is_empty(formObj.txt_password,formObj.txt_password.value) || formObj.txt_password.value == 'Password') {
+		alert('Enter Password.');
+		//return false;
+	} else {
+		formObj.submit();
+	}
+}
+
+
+</script>
+
+
+<div class="float_left" style="padding:27px 0px 0px; width:100%;border:0px solid red;">
+	<div class="float_left" style="width:463px; padding:5px 0px 0px 10px; ">
+		<div class="width_auto float_left color_white">» <a href="agent_registration.php" class="color_white">Agents Register Here</a></div>
+		<div class="width_auto float_right color_white">» <a href="forgot_password.php" class="color_white">Forgot Password</a></div>
+		<div class="float_left" style="width:100%; padding:3px 0px 0px;">
+			
+			<table width="100%" border="0" cellpadding="0" cellspacing="0">
+			  <tbody><tr>
+				<td align="left" valign="top"><img src="images/img_001.jpg" alt=""></td>
+			  </tr>
+			  <tr>
+				<td align="center" valign="top" style="background:url(images/img_003.jpg) top left no-repeat; width:462px; height:24px; padding:3px 0px 0px;">
+				<form name="agent_login_frm" method="POST" action="agent_login.php">
+				<input type="hidden" name="action_type" value="login">					
+					<table width="95%" border="0" cellpadding="0" cellspacing="0">
+					  <tbody><tr>
+						<td width="80" align="left" valign="top" class="color_white bold" style="padding:3px 0px 0px;">Agent Login:</td>
+						<td width="110" align="left" valign="top"><input type="text" name="txt_agent_code" id="agent" value="Agent Code" class="input_style" onfocus="clear_text('agent')" onblur="get_text('agent')"></td>
+						<td width="110" align="left" valign="top">
+						<input type="text" name="txt_username" id="txt_username" class="input_style" value="Username" onblur="javascript: defaultText('txt_username', 'Username');" onfocus="javascript: clearField('txt_username', 'Username');" style="width:95%">
 						</td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td height="7"></td>
-      </tr>
-      <tr bgcolor="#d6d6d6">
-        <td height="2"></td>
-      </tr>
-			<tr>
-        <td colspan="3">		<table width="996" border="0" cellspacing="0" cellpadding="0" align="center">
-					<tbody><tr>
-        <td height="25" align="right" bgcolor="#e9e9e9">
-				<table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-					<td align="left" class="text_small_wi_dark" style="padding-left:10px;"><a href="about_travel.php" class="text_small_wi_dark">About Travel Designer India</a> | <a href="reach_us.php" class="text_small_wi_dark">Reach Us</a></td>
-            <td align="right" class="text_small_wi_dark"><a href="cards.php" class="text_small_wi_dark">Cards &amp; Refunds</a> | <a href="disclaimer.php" class="text_small_wi_dark">Disclaimer</a> | <a href="privacy_policy.php" class="text_small_wi_dark">Privacy Policy</a> | <a href="affiliate.php" class="text_small_wi_dark">Become An Affiliate</a> | <a href="advertising.php" class="text_small_wi_dark">Advertising</a> | <a href="jobs.php" class="text_small_wi_dark">Jobs</a></td>
-            <td width="10">&nbsp;</td>
-          </tr>
-        </tbody></table></td>
-      </tr>      <tr>
-        <td height="1"></td>
-      </tr>
-      <tr>
-        <td height="30"><table width="100%" border="0" cellspacing="0" cellpadding="0" height="35">
-          <tbody><tr>
-            <td bgcolor="#D5E6F6" width="30%" align="left" class="text_small_wi"> © 2009 rezlive. All Rights Reserved. Empowered by </td>
-			<td bgcolor="#D5E6F6" align="left" width="4%"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.png" border="0" title="OTRAMS" alt="OTRAMS"></a></td>
-            <td bgcolor="#D5E6F6">&nbsp;</td>
-			<td bgcolor="#D5E6F6" class="text" align="right">A Product of Travel Designer India Pvt Ltd</td>
-            <td bgcolor="#D5E6F6" width="231" align="right" class="text"><img src="images/bottom_logo.jpg" id="Image1" alt=""></td>
-          </tr>
-        </tbody></table></td>
-      </tr>
-		</tbody></table></td>
-      </tr>
-    </tbody></table></td>
-    <td width="5">&nbsp;</td>
-  </tr>
-</tbody></table>
-</center>
+						<td width="110" align="left" valign="top">
+							<div id="main_pass" style="display:none;">
+							<input type="password" name="txt_password" id="passwordRequestP" class="input_style" style="width:95%;" value="" onkeydown="javascript: checkReturn(event);">
+								</div>
+								<div id="dummy_pass">
+								<input type="text" name="passwordRequest" id="passwordRequestT" class="input_style" style="width:95%;" value="Password" onfocus="javascript: clearFieldNew();" onclick="javascript: clearFieldNew();" onkeypress="javascript: clearFieldNew();" onmouseup="javascript: clearFieldNew();">
+								</div>
+						</td>
+						<td align="left" valign="top"><a href="javascript:submit_login_form(document.forms['agent_login_frm']);"><img src="images/btn_go.jpg" alt="Agent Login" title="Agent Login" width="23" height="23" border="0"></a></td>
+					  </tr>
+				  </tbody></table>
+				 </form>
+				</td>
+			  </tr>
+			  <tr>
+				<td align="left" valign="top" style="height:17px;"><img src="images/img_002_2.jpg" alt=""></td>
+			  </tr>
+		  </tbody></table>
+		  <div id="abc" style="display:none;"></div>
+		</div>
+	</div>
+	<div class="float_right" style="width:483px; padding:0px 10px 0px 0px;">
+	  <div class="width_auto float_left" style="padding:40px 0px 0px;"><img src="images/img_ad.jpg" alt=""></div>
+		<div class="float_left" style="border:1px solid black; width:468px;">
+			<div>
+				<div id="flashcontent6"> </div>
+								  <script type="text/javascript">
+							// <![CDATA[
+							var so = new SWFObject("images/germany_banner.swf", "Index", "468px", "60px", "9", "#ffffff");
+							so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
+							so.addParam("scale", "noscale");
+							so.addParam("wmode", "#ffffff");
+							so.write("flashcontent6");
+							// ]]>
+							</script>
+				<!-- <img src="images/top_banner.jpg" alt="" /> -->
+				<div class="vertical_spacing"></div>
+			</div>
+		</div>
+	</div>
+</div>
+			 <div class="vertical_spacing" style="height:8px;"></div>
+            <!-- banner starts-->
+			 <div class="float_left" style="width:100%; background:#FFFFFF; ">
+  <div style="width:auto; margin:auto; text-align:center;">
+		<img src="images/banner_privacy_policy.jpg" alt="" border="1">
+  </div>
+  <div class="vertical_spacing" style="height:8px;"></div>
+</div>
 
+ 
+            <!-- banner ends-->
+            <div class="vertical_spacing"></div>
+            <!--mid nav start-->
+            <div class="float_left" style="width:98%; background:#FFFFFF; padding:0px 10px;">
+            	<!--mid left start-->
+                 <div class="float_left width_100per;" style="margin-left:2px;border:0px solid red;">
+  <div class="float_left" style="width:680px;">
+	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	  <td width="39" align="left" valign="top"><a href="index.php"><img src="images/btn_home.jpg" alt="" width="39" height="27"></a></td>
+	  <td width="65" align="left" valign="top"><a href="packages.php"><img src="images/btn_packages.jpg" alt="" width="65" height="27"></a></td>
+	  <td width="78" align="left" valign="top"><a href="car_rentals.php"><img src="images/btn_car_rentals.jpg" alt="" width="78" height="27"></a></td>
+	  <td width="62" align="left" valign="top"><a href="groups.php"><img src="images/btn_services.jpg" alt="" width="91" height="27"></a></td>
+	  <td width="82" align="left" valign="top"><a href="destinations.php"><img src="images/btn_destinations.jpg" alt="" width="82" height="27"></a></td>
+	  <td width="51" align="left" valign="top"><a href="hotel_search.php"><img src="images/btn_hotels.gif" width="51" height="28"></a></td>
+	  <td width="80" align="left" valign="top"><a href="sight_search.php"><img src="images/btn_sight_seeing.gif" alt="" width="80" height="28"></a></td>
+	  <td align="left" valign="top"><a href="transfer_search.php"><img src="images/btn_transfers.gif" alt="" width="69" height="28"></a></td>
+		<td width="136" align="right" valign="middle" style="background:url(images/img_012.jpg) top left repeat-x;">
+		<a href="login.php"><img src="images/login_btn.jpg" alt="" style="padding-right:5px;"></a></td>
+	</tr>
+    </tbody></table>
+
+  </div>
+    <div class="float_left width_auto"><img src="images/call_us_img.jpg" alt=""></div>
+</div>  
+				<div class="float_left color_black " style="width:69.4%; border:1px solid #bdbdbd; text-align:justify">
+	<div style="background:#fff8eb; padding:6px; border-bottom:1px solid #b2b2b2;"><img src="images/privacy_policy.jpg" alt=""></div>
+	<div style="padding:5px;">
+		<div class="box_1">  	
+			<div class="box_2 bold">»  General Policy</div>
+			<div style="padding:5px">
+				<div class="vertical_spacing" style="height:0px;"></div>
+				RezLive.com takes your privacy concerns seriously and will not share your personal information without your consent.
+				<br><br>
+				If you choose to use one of the features below, your information will be used as follows: RezLive.com will never disclose or sell any of your personal information, including your name, address, shopping, or transaction history to any third party without your permission.
+				If you are a member, we will use your e-mail address to send correspondence about RezLive.com, including: <br><br>
+				<ul style="padding-left: 15px; line-height: 15px;">
+					<li>Reservation confirmations</li>
+					<li>Important updates about your travel plans</li>
+					<li>Newsletters</li>
+					<li>Notifications of travel specials If you have additional questions or concerns regarding the RezLive.com site, please e-mail us at Feedback@RezLive.com. We read every customer e-mail and will respond as soon as possible.</li>
+				</ul>
+				<div class="vertical_spacing" style="height:0px;"></div>              
+			</div>
+		</div>
+		<div class="vertical_spacing" style="height:18px;"></div>
+		<div class="box_1">  	
+			<div class="box_2 bold">»  Your Feedback &amp; Suggestions are Important</div>  
+			<div style="padding:5px; ">
+				We Welcome your Suggestions to Serve you Better, write back to us on <a href="mailto:Feedback@RezLive.com" style="color:#000000; text-decoration:underline;">Feedback@RezLive.com</a>
+			</div>
+		</div>
+		<div class="vertical_spacing" style="height:18px;"></div>
+	</div>
+</div>              
+                <!--mid left end-->
+                <!--mid right start-->
+				                <div class="float_right" style="width:30%; border:0px solid red; text-align:left;">
+               	<!--special offers start-->
+					<iframe src="special_offer.php?page=1" frameborder="0" style="width:290px; height:315px;   margin:0; padding:0;" scrolling="no"></iframe>
+                    <!--special offers end-->
+                    <div class="vertical_spacing"></div>
+					<!--marquee start-->
+                    <div style="width:auto; margin:auto; text-align:center;">
+						<div id="flashcontent5"> </div>
+								  <script type="text/javascript">
+							// <![CDATA[
+							var so = new SWFObject("images/logos_scroll2.swf", "Index", "277px", "46px", "9", "#000000");
+							so.addVariable("flashVarText", "this is passed in via FlashVars for example only");
+							so.addParam("scale", "noscale");
+							so.addParam("wmode", "transparent");
+							so.write("flashcontent5");
+							// ]]>
+							</script>
+							<!-- <img src="images/marquee1.jpg" alt="" /> -->
+					</div>
+                    <!--marquee end-->
+                </div>
+				                <!--mid right end-->
+                <div class="vertical_spacing" style="height:8px;"></div>
+              	<div class="float_left width_100per">
+				<div class="float_left" style="width:100%; border:0px solid red;">
+<div class="vertical_spacing" style="height:1px;"></div>
+	<div class="align_left" style="background:url(images/1pxline_bg01.jpg) top left repeat-x; height:34px; padding:2px 0px 0px 5px;">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tbody><tr>
+	    <td width="140" align="left" valign="top" style="padding:5px 0px 0px;"><a href="about_travel.php">About Travel Designer India</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+		<td width="50" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="reach_us.php">Reach Us</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td width="90" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="cards.php">Cards &amp; Refunds</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td width="50" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="disclaimer.php">Disclaimer</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td width="70" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="privacy_policy.php">Privacy Policy</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td width="60" align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="advertising.php">Advertising</a></td>
+	    <td width="7" align="left" valign="top"><img src="images/divider_img.jpg" alt=""></td>
+	    <td align="left" valign="top" style="padding:5px 0px 0px 5px;"><a href="jobs.php">Jobs</a></td>
+	    
+	</tr>
+	</tbody></table>
+	</div>
+</div>   
+              </div>
+                <div class="vertical_spacing" style="height:1px;"></div>
+                <!--footer start-->
+                <div class="float_left width_100per para">
+	<table width="100%" border="0" cellspacing="0" cellpadding="0">
+	  <!-- <tr>
+		<td width="40%" class="para" align="left" valign="middle" bgcolor="#d1d1d1" style="padding:10px;">
+		<div class="width_auto float_left" style="padding:3px 0px 0px 0px">&copy; 2009 rezlive. All Rights Reserved. Empowered by </div>
+		<div class="width_auto float_left" style="padding:0px 0px 0px 5px"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.jpg" alt="" /></a></div></td>
+		<td align="right" class="para" valign="top" bgcolor="#d1d1d1" style="padding:10px;">
+			<div class="width_auto float_right" style="padding:0px 0px 0px 5px"><img src="images/logos_img.jpg" alt="" /></div>
+		  <div class="width_auto float_right" style="padding:8px 0px 0px 0px">A Product of Travel Designer India Pvt Ltd </div>
+		
+		</td>
+	  </tr> -->
+	  <tbody><tr>
+                        <td width="30%" align="left" valign="middle" bgcolor="#d1d1d1" style="padding:5px 10px;">
+                        <div class="width_auto float_left" style="padding:3px 0px 0px 0px">© 2009 rezlive. All Rights Reserved.  </div>
+                        </td>
+                        <td width="50%" align="center" valign="top" bgcolor="#d1d1d1" style="padding:5px 10px;">
+                       	  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                              <tbody><tr>
+                                <td align="right" valign="middle" style="padding-right:5px;">A product of</td>
+                                <td align="left" valign="middle"><img src="images/travel_designer_logo.jpg" alt="" width="138" height="35"></td>
+                              </tr>
+                          </tbody></table>
+
+                          
+                          
+                        </td>
+                        <td align="right" valign="middle" bgcolor="#d1d1d1" style="padding:5px 10px;"><table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td align="left" valign="middle"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                          <tbody><tr>
+                            <td align="right" valign="middle" style="padding-right:5px">Empowered by</td>
+                            <td width="61" align="right" valign="middle"><a href="http://www.otrams.com" target="_blank"><img src="images/otrams_logo.jpg" alt=""></a></td>
+                          </tr>
+                        </tbody></table>                          <a href="http://www.otrams.com" target="_blank"></a></td>
+                              </tr>
+                        </tbody></table>
+
+                        </td>
+                      </tr>
+  </tbody></table>
+<div class="vertical_spacing" style="height:4px;"></div>
+</div>   
+                <!--footer end-->
+            </div>
+            <!--mid nav end-->
+        </div>
+    </div>
+</div>
 
 </body></html>
