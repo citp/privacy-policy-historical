@@ -1,40 +1,99 @@
-> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2009-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090326075211id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the student.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607081508id_/http%3A//www.student.com/privacy.php) for the most accurate reproduction.*
 
 # Student Center, Student.com, Student Center Network, teens, students, teen, student, college students, high school students, StudentCenter
 
+2 Great new contests, including the DVD for The 41 Year Old Virgin Who Knocked Up Sarah Marshall And Felt Superbad About It. [ Enter Here!](http://contests.student.com/) These prizes are also available in our auctions section.[ Auctions are Here.](http://auctions.student.com/) Hide Message 
+
 You are here: 
 
-  
-**PRIVACY POLICY**  
-  
-  
-**Revised November 13, 2003**
+_Last updated July 24, 2009_
 
-Your privacy is very important to us. You do not have to register on any of our sites or login to use them. The only area that requires login is our chatrooms. You must be 13 or older to participate in our chatrooms, and if you are under 13, we would prefer that you not participate at all in any site on The Student Center Network. All Student Center Network sites are for college students, high school students, and teens. Our sites are not for people under 13. 
+Table Of Contents:
 
-If you do register on our site, you will have a password. The Student Center Network will make every reasonable effort to protect your password. You are responsible for keeping your password confidential. Do not share it. If you share a computer with other people, make sure that when you leave, you are not signed on to your Student Center Network account and that you have exited your browser. 
+  * Our Commitment To Privacy
+  * The Information We Collect at Registration
+  * Our Commitment To Data Security
+  * Our Cookies
+  * Our Commitment To Children's Privacy
+  * How To Access Or Correct Your Information
+  * Third-Party Companies
+  * Third-Party Advertisers
+  * Governing Law
+  * How To Contact Us
 
-Be careful about sharing personal information in public places. If you send personal information through email, or post it on a message board or in a chatroom, then other people can collect it and use it. You may end up getting email messages you do not want from people you do not know. 
 
-When you register at The Student Center Network, we collect some information from you, such as your name, year of birth, and email address. We do not register people under 13. You can update your information at anytime by changing your registration or user record on the Edit Account page. 
 
-We will not sell or give out any of your personal information without telling you and giving you an opportunity to refuse. 
+## Our Commitment To Privacy
 
-We may release your personal information if required by law, or if we have cause to believe that it might stop someone from harming others. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-Companies other than The Student Center, Inc. may run some services on the site. They may run promotions as well, and they may collect personal information. Since they are separate companies, we are not responsible for how they handle that information. If you are concerned about how they may handle that information, check out their privacy policies. If you do not want your personal information collected, you may decide not to participate in the contest or promotion. 
+## The Information We Collect at Registration
 
-This policy does not cover the information gathering of advertisers or companies that you can link to from The Student Center Network. We are not responsible for the privacy practices of those advertisers or sites. If you are concerned about how these other sites may handle information you provide, check out their privacy policies. By using The Student Center, you may be automatically providing information to other sites. 
+When you register at Student.com, Campushook.com or any other sites owned and operated by The Student Center, Inc., we collect some information from you, such as:
 
-Under 13? Please read this  
-The Student Center Network is a web community of sites for college students, high school students, and teens. It is not for people under 13. If you are under 13, we request that you come back and visit us when you are a teen! We do not register users under the age of 13 nor do we knowingly collect personally identifiable information from those under 13. If we receive credible information that a registered user is under 13, we will remove personally identifiable information and close the account. Third Party Advertising  
-We use Gorilla Nation, MAXOnline, Buds Inc, Tribal Fusion, Fastclick, Traffic Marketplace, Bidclix, 24/7 RealMedia and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click [here](http://www.networkadvertising.org/optout_nonppii.asp) Cookies  
-Cookies are small text files that are sent to your computer's hard drive. At The Student Center Network, cookies allow us to track users to help us provide better service. However, the cookies are only active when a person has logged on to their account. If a person uses our sites without logging on or registering, no cookies are involved. But cookies are used by us to get your account information and to tell us where you like to go on the site, what contest and promotions you enter and to determine the number of Student Center Network users. Third Party Cookies  
-In the course of serving advertisements to this site, our third-party ad server, Gorilla Nation, Double Click or their affiliates, or individual advertisers may place or recognize a unique "cookie" on your browser. They are separate companies, so we have no control over their use of cookies. Surveys  
-The Student Center Network may survey our users from time to time for our own use, for our clients or other sites. If you participate, you will be anonymous. No personally identifying information on individuals will be released from the surveys. Copyright  
-We either own everything on this site or have permission to use it. You are not allowed to copy or retransmit anything from our site without The Student Center Network's express written permission. If the material is owned or copyrighted by someone else, you must have the copyright owner's permission to use it. You also are not allowed to transmit to The Student Center Network any material that you do not own or do not have permission to use. Violating this policy could result in civil or criminal penalties. 
+  * Your name;
+  * Your date of birth/age;
+  * Your e-mail address;
+  * Your mailing address (optional);
 
-The Student Center is not responsible for the content that is placed on the website by its users. However, content placed on the site by users or by The Student Center at the request of a user, becomes the property of The Student Center. 
 
-Governing Law  
-This Agreement is governed by the laws of the state of New York and Delaware, without regard to the choice of law provisions, and applicable federal law. If any portion of this Agreement is invalid or unenforceable, it will be considered removed and the remainder of this Agreement will remain in effect. These are all the terms and conditions governing your use of The Student Center Network. 
+
+You can update your information at anytime by changing your registration or user record on the Edit Account page.
+
+You do not have to register on any of our sites or login to use them or view them, although certain areas do require registration for full access.
+
+## Our Commitment To Data Security
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+
+If you do register on our site, you will have a password. While we make every reasonable effort to protect your password, you are responsible for keeping your password confidential. Do not share it. If you are on a shared computer or workstation, do not save your password and make sure to log out when you close the browser.
+
+Be careful about sharing personal information in public places. If you send personal information through e-mail, post it on a message board or post it in a chatroom, then other people can collect it and user it. You may end up geting e-mail messages you do not want from people or companies you do not know.
+
+We will not sell or give out any of your personal information without telling you and giving you an opportunity to refuse.
+
+We may release your personal information if required by law or if we have cause to believe that it might stop someone from harming others.
+
+## Our Cookies
+
+Cookies are small text files that are sent to your computer's hard drive. On sites owned and operated by The Student Center, Inc., cookies allow us to track users to help us provide better service. However, the cookies are only active when a person has logged on to their account. If a person uses our sites without logging on or registering, no cookies are involved. But cookies are used by us to get your account information and to tell us where you like to go on the site, what contest and promotions you enter and to determine the number of Student Center Network users.
+
+## Our Commitment To Children's Privacy
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+
+You must be 13 or older to register with Student.com, Campushook.com and all other sites owned and operated by the Student Center, Inc.. If you are under 13, you cannot register with Student.com, Campushook.com or any other site owned and operated by The Student Center, Inc.
+
+## Third-Party Companies
+
+Companies other than The Student Center, Inc. may run services or promotions on our sites. These services or promotions may collect personal information. Since they are third-party companies, The Student Center, Inc. is not responsible for how these companies handle and use your information. If you are concerned about how they may handle or use your information, please read their privacy policies. If you do not want your personal information collected, you may decide not to participate in the service or promotion.
+
+## Third-Party Advertisers
+
+We use Gorilla Nation, MAXOnline, Buds Inc, Tribal Fusion, Fastclick, Traffic Marketplace, Bidclix, 24/7 RealMedia, Google and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp).
+
+Google has requeste that we inform you about the following policies specific to their advertising:
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+
+
+
+## Governing Law
+
+This Agreement is governed by the laws of the state of New York and Delaware, without regard to the choice of law provisions, and applicable federal law. If any portion of this Agreement is invalid or unenforceable, it will be considered removed and the remainder of this Agreement will remain in effect. These are all the terms and conditions governing your use of The Student Center Network.
+
+## How To Contact Us
+
+Should you have other questions or concerns about these privacy policies, please e-mail [jeff@student.com](mailto:jeff@student.com). You can contact us by mail at:
+
+The Student Center, Inc.  
+9A Main Street  
+Irvington, NY 10533  
+United States 
+
+_This privacy polciy is COPPA-compliant. For details, please visit<http://www.ftc.gov/coppa/>._
+
+|   
+---|---
