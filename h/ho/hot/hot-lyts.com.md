@@ -1,26 +1,21 @@
-> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201120221id_/http%3A//www.hot-lyts.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hot-lyts.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607035246id_/http%3A//www.hot-lyts.com/pages/privacy) for the most accurate reproduction.*
 
-# Myspace Layouts,2.0 Layouts,Hide Everything,Christmas Layouts,Default
+# Privacy Policy | Hot-lyts
 
-**Users information**  
-(1) This website uses cookies to store visitors preferences and for tracking purposes. Usage of a tracker records users information such as their IP address, user-specific information on what pages users access or visit, browser and operating system type. We will never stores any personal information in data that can be used to identify your private information such as your name, address & account numbers. This data is commonly used and do not harm your system. It is used to manage the website and improve the website services.   
-(2) We respect your privacy. When using "Gigya tool", no personal information (such as myspace email and passwords, friendster info, etc.) will be saved. 
+Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
-**Subscribers**  
-We may use your email address to inform when new stuff are added on this website. We will never use it to send spam. We will not disclose and/or sell your email address to anyone for any reason. Users who are no longer wish to receive any updates can unsubscribe anytime. 
+Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. 
 
-**Third party sites**  
-To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address, and clickstream information. For further information, consult the privacy policies of:   
-(1) [Google Adsense](http://www.google.com/privacy.html)  
-(2) [Valueclickmedia](http://valueclickmedia.com/privacy.shtml)  
-(3) [Nabbr](http://nabbr.com/)  
-(4) [Cpx Interactive](http://cpxinteractive.com/)
+We will collect and use of personal information solely with the objective of fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.
 
-**Contact**   
-If there are any questions regarding our privacy policy or our website policy please contact me at 
+We will only retain personal information as long as necessary for the fulfillment of those purposes. 
 
-_chezzcuh@gmail.com_
+We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
 
-. 
+Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
 
-**Last Updated: September 29, 2009**
+We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+
+We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
