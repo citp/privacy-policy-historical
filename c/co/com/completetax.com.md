@@ -1,18 +1,19 @@
-> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531023455id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the completetax.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607144339id_/http%3A//www.completetax.com/privacy.asp) for the most accurate reproduction.*
 
-# PRIVACY POLICY | CompleteTax
+# Privacy Policy
 
 Our Commitment to Privacy
 
 This Service is provided to you through CCH INCORPORATED ("CCH"), the owner of this product. CCH is committed to keeping your information private and recognizes the importance all customers place on the privacy and confidentiality of their information. While new technologies allow us to more efficiently serve our clients, we are committed to maintaining the rigorous privacy standards that are synonymous with our established and trusted name.
 
-By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine®. Further information about this program is available at rel="external"http://www.bbbonline.org.
+By participating in the Council of Better Business Bureau's BBBOnLine® Privacy Program we have made a commitment to meet the program's strict requirements regarding how we treat your information and have it verified by BBBOnLine®. Further information about this program is available at [http://www.bbbonline.org](http://www.bbbonline.org/).
 
 In keeping with our Privacy Policy, we provide this Policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this Policy easy to find, we make it available throughout our web site and on other pages throughout our web site.  
   
+---  
 Covered Web Sites
 
-The Privacy Policy described herein is applicable to this entire web site, including all areas where financial information is gathered and income tax data is input, printed and/or transmitted. It does not apply to any other online services, or to any other web sites published and/or maintained by us.
+The Privacy Policy described herein is applicable to this entire web site, including all areas where financial information is gathered and income tax data is input, printed and/or transmitted. It does not apply to any other online services, or to any other web sites published and/or maintained by us or any other service provider.
 
 This Privacy Policy covers all the online information practices of www.completetax.com. Other sites maintained by CCH, such as www.tax.cchgroup.com and www.tax.cchgroup.com/pfx/products/CompleteTaxPro/ operate under their own Privacy and security policies.
 
@@ -110,9 +111,11 @@ For the purpose of providing you with additional information or services, our we
 
 We are not responsible for information gathered by third party web sites. You should review any third party site's Privacy Policy for details regarding their policies concerning information they gather. Any time you are preparing to navigate to a site that is not covered by this Privacy Policy, we will indicate at the bottom of the page that you are leaving our site.
 
-Through our partnership with Republic Bank and Trust Company, you may apply for a bank product. In order to apply for a bank product, you must consent to our disclosure of your relevant personal and tax return information to Republic Bank. Signing the necessary consent form for such disclosure included within the program serves as your authorization. Your tax information is sent to Republic Bank when your return is e-filed. When you select the option within our program for a bank product, once your return has qualified for electronic filing we share some or all of the following for Republic Bank to provide the requested service: your name, address, social security number, phone number, amount of refund and bank account information. Republic Bank uses the personally identifiable information for the purpose of providing your bank product. You may visit the site at [http://taxpayer.republicrefund.com](http://taxpayer.republicrefund.com/) to view their Privacy Policy.
+Through our partnership with Santa Barbara Bank & Trust ("SBBT"), you may apply for a bank product. In order to apply for a bank product, you must consent to our disclosure of your relevant personal and tax return information to SBBT. Signing the necessary consent form for such disclosure included within the program serves as your authorization. Your tax information is sent to SBBT when your return is e-filed. When you select the option within our program for a bank product, once your return has qualified for electronic filing we share some or all of the following for SBBT to provide the requested service: your name, address, social security number, phone number, amount of refund and bank account information. SBBT uses the personally identifiable information for the purpose of providing your bank product. You may visit the site at <https://cisc.sbbtral.com/privacy.aspx> to view their Privacy Policy.
 
 Through our partnership with Official Payments Corporation®, you may request to pay your tax balance due via credit or debit card. When you make this request, you will be asked to disclose your card information to Official Payments. Official Payments uses the personally identifiable information for the purpose of providing the payment of your tax via credit or debit card as requested. You may visit the site at [www.officialpayments.com](http://www.officialpayments.com/cch.jsp) to view their Privacy Policy.
+
+Information entered into the donation value calculators (through CharityDeductions.com™) is used solely to provide you with information regarding the fair market value of non-cash charitable donations. You may visit the site at [www.charitydeductions.com](http://www.charitydeductions.com/) to view their Privacy Policy.
 
 Information entered into the Tax Calculators (through Time Value Software) is used solely to provide you with estimates of various tax situations. The information used in these calculations is not saved. You may visit the site at [www.tvalue.com](http://www.timevalue.com/Privacy.htm) to view their Privacy Policy.  
   
@@ -132,16 +135,16 @@ After paying for your return, the financial information used to make your paymen
   
 How to Contact Us
 
-Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20090531023455id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
+Should you have other questions or concerns about this Privacy Policy, please submit your questions using our [Customer Support](https://web.archive.org/web/20100607144339id_/http%3A//www.completetax.com/supportrequest.asp) link or one of the methods below.
 
 CCH INCORPORATED  
 Online Tax Group - Suite 200  
 20101 Hamilton Avenue  
 Torrance, CA 90502  
-Email: [info@completetax.com](mailto:info@completetax.com)  
+Email: [support@completetax.com](mailto:support@completetax.com)  
 Web site URL: [www.completetax.com](http://www.completetax.com/)  
   
   
-[© 2009, CCH. All Rights Reserved.](https://web.archive.org/web/20090531023455id_/http%3A//www.completetax.com/copyright.asp)  
+[© 2009-2010, CCH. All Rights Reserved.](https://web.archive.org/web/20100607144339id_/http%3A//www.completetax.com/copyright.asp)  
 CCH, a Wolters Kluwer business  
 
