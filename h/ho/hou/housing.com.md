@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616181046id_/http%3A//www.housing.com/categories/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the housing.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607233457id_/http%3A//www.housing.com/categories/privacy-policy.html) for the most accurate reproduction.*
 
 # Housing.com | Privacy Policy
 
