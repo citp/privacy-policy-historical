@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020095423id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websense.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607121220id_/http%3A//www.websense.com/site/footer/privacypolicy.html) for the most accurate reproduction.*
 
 # Websense.com — Privacy Policy
 
