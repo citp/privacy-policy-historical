@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620202534id_/http%3A//ontheflix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontheflix.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607080933id_/http%3A//ontheflix.com/privacy.html) for the most accurate reproduction.*
 
 # OnTheFlix.Com: Privacy Policy
 
 **OnTheFlix.Com Privacy Policy**
 
-OnTheFlix.Com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our system. "You" or "Your" means you as a participant in or as a user of TopStuf.Com. "We" or "Our" or "Us" means OnTheFlix.Com. "Our site" means OnTheFlix.Com. 
+OnTheFlix.Com is serious about protecting your online privacy. This Privacy Statement explains our views and practices concerning privacy, and how they may pertain to you as a user of our system. "You" or "Your" means you as a participant in or as a user of OnTheFlix.Com. "We" or "Our" or "Us" means OnTheFlix.Com. "Our site" means OnTheFlix.Com. 
 
   
 Section 1. Collected Information   
