@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2009-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091008001539id_/http%3A//www.sex.com/site/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sex.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607203105id_/http%3A//www.sex.com/site/privacy-policy.html) for the most accurate reproduction.*
 
 # Sex.com - Site: Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=sex.com&sealid=101)
 
-Effective as of OCTOBER 13, 2008
+Effective as of DECEMBER 11, 2008
 
 Escom, LLC  is a licensee of the TRUSTe Web Privacy Seal Program.  TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices.  This privacy statement covers the Web site www.sex.com].  Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
@@ -16,7 +16,7 @@ Your privacy is very important to us. Because we gather certain types of persona
 
  **If you do not agree with this Privacy Policy, please do not participate in the online or off-line activities and services that require you to provide your Personal Information. (The type of Personal Information collected is listed below.)**
 
-In order to ensure continued compliance with all applicable laws and fair information practices, where required, Sex.com agrees to cooperate with Integrity Services in good faith with respect to implementing any legally-required forms or language in its privacy policy and/or at the point where the Site collects any Online or Offline Records.  
+In order to ensure continued compliance with all applicable laws and fair information practices, where required, Sex.com agrees to cooperate with Integrity Services in good faith with respect to implementing any legally-required forms or language in its privacy policy and/or at the point where the Site collects any Online or Offline Records.   ??
 
 To become a registered Member of the Site, you will be required to  submit at least your full name, zip code, a valid and functioning e-mail address, date of birth, username and password.  More information may be necessary in order for you to become a registered Member.  You agree and authorize us to provide the registration information you submit to an agency to confirm the accuracy of the information you submitted against public records.
 
@@ -31,21 +31,22 @@ This site qualifies for the alternative option; it has a comprehensive privacy p
 If you are a California resident and have an established business relationship with us and want to receive information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us in two ways. Send email to Privacy Administrator at [privacy@sex.com](https://mail.google.com/mail?view=cm&tf=0&to=privacy@sex.com&su=message%20from%20privacy%20policy). Alternatively, you may contact Sex.com at:
 
 **Escom, LLC**  
-23480 Park Sorrento, Suite 206B  
-Calabasas, CA Attn: Your California Privacy Rights   
-**c/o Privacy Administrator**
+PO Box 1410  
+Agoura Hills, CA  91376  
+Attn: Your California Privacy Rights  
+ **c/o Privacy Administrator**
 
 **For requests sent via email, you must put the statement "Your California Privacy Rights" in the subject field of your email. All requests sent via postal mail must be labeled "Your California Privacy Rights" on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) **We will not accept requests via the telephone or by facsimile.** We are not responsible for notices that are not labeled or not sent properly, or do not have complete information.
 
 To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at the following email address: [privacy@sex.com](https://mail.google.com/mail?view=cm&tf=0&to=privacy@sex.com&su=message%20from%20privacy%20policy%20page) or:
 
-**Sex.com/ Escom, LLC  
-** 23480 Park Sorrentto, Suite 206B  
-Calabasas, CA 91302  
-Attn: Privacy Rights   
-**c/o Privacy Administrator  
+**Sex.com/Escom, LLC  
+** PO Box 1410  
+Agoura Hills, CA  91376  
+Attn: Privacy Rights  
+ **c/o Privacy Administrator  
 **  
- **GENERAL PRIVACY GUIDELINES**
+ **GENERAL PRIVACY GUIDELINES?**
 
 **UNLESS SPECIFIED OTHERWISE ON THE SITE, ALL SUBSCRIBERS AND USERS OF THE SITE MUST BE AT LEAST 18 YEARS OF AGE AND A LEGAL RESIDENT OF THE UNITED STATES ("U.S.") TO SUBSCRIBE TO THE SERVICES PRESENTED ON THE SITE REQUIRING SUBMISSION OF PERSONAL INFORMATION. THIS SITE IS DESIGNED AND TARGETED TO U.S. AUDIENCES AND IS GOVERNED BY AND OPERATED IN ACCORDANCE WITH THE LAWS OF THE U.S. WE MAKE NO REPRESENTATION THAT THIS SITE IS OPERATED IN ACCORDANCE WITH THE LAWS OF OTHER NATIONS. BY YOUR PARTICIPATION IN OUR SITE ACTIVITIES, YOU CERTIFY THAT YOU ARE AT LEAST 18 YEARS OF AGE AND A LEGAL RESIDENT OF THE U.S. ALL USERS OF THE SITE ARE REQUIRED TO PROVIDE TRUE, CURRENT, COMPLETE AND ACCURATE PERSONAL INFORMATION WHEN PROMPTED AND WE WILL REJECT AND DELETE ANY ENTRY THAT WE BELIEVE IN GOOD FAITH TO BE FALSE, FRAUDULENT, OR INCONSISTENT WITH THIS PRIVACY POLICY.**
 
@@ -109,4 +110,4 @@ Generally, you may review, update or delete your Personal Information or Sensiti
 
 To review, update or delete your Personal Information or Sensitive Personal Information collected by the Site, please email the Site's Privacy Administrator at [privacy@sex.com](https://mail.google.com/mail?view=cm&tf=0&to=privacy@sex.com&su=message%20from%20privacy%20policy%20page), through the "Account Settings" page of your user account, or click here. In addition, To have access to your Personal Information or Sensitive Personal Information, you must provide proof of identification such as full name, street address, city/state and zip code, user ID and password, and/or information about your recent activity on the website. We reserve the right to deny access to any user if we believe there is a question about your identity. And if the burden or expense of providing access to your Personal Information is disproportionate to the risks to your privacy, or if the legitimate rights of others would be violated, we may decide not to provide access to such information. In such cases, we will provide to you an explanation of why access cannot be provided and a contact person for further inquiries.
 
-This Privacy Policy was last updated on October 13, 2008 and is effective immediately.
+This Privacy Policy was last updated on December 11, 2009 and is effective immediately.
