@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the filesquick.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603233706id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesquick.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607131509id_/http%3A//www.xb-wiki.com/index.php/Privacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Xb
 
