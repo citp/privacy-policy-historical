@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starbulletin.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026201944id_/http%3A//www.starbulletin.com/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starbulletin.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607032727id_/http%3A//www.starbulletin.com/about/privacypolicy.html) for the most accurate reproduction.*
 
 # StarBulletin.com Privacy Policy - About - Starbulletin.com
 
