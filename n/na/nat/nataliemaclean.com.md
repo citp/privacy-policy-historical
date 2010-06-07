@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nataliemaclean.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623195608id_/http%3A//www.nataliemaclean.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nataliemaclean.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607034109id_/http%3A//www.nataliemaclean.com/privacy) for the most accurate reproduction.*
 
-# Natalie MacLean's Free Wine Newsletter
+# NatDecants Privacy Policy | Natalie MacLean
 
 The following Privacy Policy summarizes the various ways that **NatalieMacLean.com** ("Service Provider," "we" or "our") treats the information you provide while using www.nataliemaclean.com ("Website"). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
