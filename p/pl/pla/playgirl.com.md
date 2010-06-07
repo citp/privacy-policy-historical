@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the playgirl.com privacy policy that was archived on 2009-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091021183244id_/http%3A//www.playgirl.com/home/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playgirl.com privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607102638id_/http%3A//www.playgirl.com/privacyPolicy) for the most accurate reproduction.*
 
-# PLAYGIRL | Male Hunks | Naked Men | Hot Nude Males
+# Privacy Policy
 
-## Trans Digital Media Privacy Policy
+## TRANS DIGITAL MEDIA, LLC Privacy Policy
 
-TRANS DIGITAL MEDIA has created this privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices for this Web site (the "Web site"). By using or accessing this Web site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEB SITE.
+TRANS DIGITAL MEDIA, LLC has created this privacy policy statement in order to demonstrate our firm commitment to your privacy. The following discloses our information gathering, use and dissemination practices for this Web site (the "Web site"). By using or accessing this Web site, you signify your assent to our Privacy Policy. IF YOU DO NOT AGREE TO THIS PRIVACY POLICY YOU MAY NOT ACCESS OR OTHERWISE USE THE WEB SITE.
 
 ## Personal and Non-Personal Information
 
@@ -12,7 +12,7 @@ When using the Web site you may be asked to provide certain personally identifia
 
 ## Information Usage
 
-We do not share any Personal Information you submit through our Web site with any third party, unless it is necessary to comply with your request for a service or product, or to comply with applicable law. We may use Aggregate Information to improve and enhance your experience on the Web site and for our market research activities. For example, we may share Aggregate Information with other unaffiliated third parties, such as business partners and advertisers, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any Personal Information. We will never sell your Personal Information to any third party without your consent except in connection with the sale or merger of TRANS DIGITAL MEDIA or the division responsible for such services.
+We do not share any Personal Information you submit through our Web site with any third party, unless it is necessary to comply with your request for a service or product, or to comply with applicable law. We may use Aggregate Information to improve and enhance your experience on the Web site and for our market research activities. For example, we may share Aggregate Information with other unaffiliated third parties, such as business partners and advertisers, in an aggregate, anonymous form, which means that the shared information will not contain nor be linked to any Personal Information. We will never sell your Personal Information to any third party without your consent except in connection with the sale or merger of TRANS DIGITAL MEDIA, LLC or the division responsible for such services.
 
 ## Changes to policy; Opt-Out Process
 
@@ -28,11 +28,11 @@ As you use the Internet, a trail of electronic information is left at each web s
 
 ## Other Web Sites
 
-Our Web site may contain links to, and advertisements from, other web sites not maintained by TRANS DIGITAL MEDIA. Other sites may also reference or link to our Web site. We encourage you to be aware when you leave our Web site and to read the privacy statements of each and every web site that you visit. We are not responsible for the privacy practices or the content of such other sites.
+Our Web site may contain links to, and advertisements from, other web sites not maintained by TRANS DIGITAL MEDIA, LLC. Other sites may also reference or link to our Web site. We encourage you to be aware when you leave our Web site and to read the privacy statements of each and every web site that you visit. We are not responsible for the privacy practices or the content of such other sites.
 
 ## Security
 
-The security of your Personal Information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and TRANS DIGITAL MEDIA., and TRANS DIGITAL MEDIA. and you, will be free from unauthorized access by third parties such as hackers and your use of the Web site demonstrates your assumption of this risk. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your Personal Information.
+The security of your Personal Information is very important to us. We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and TRANS DIGITAL MEDIA, LLC., and TRANS DIGITAL MEDIA, LLC. and you, will be free from unauthorized access by third parties such as hackers and your use of the Web site demonstrates your assumption of this risk. We have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we collect. Only those employees who need access to your information in order to perform their duties are allowed access to your Personal Information.
 
 ## Contact
 
