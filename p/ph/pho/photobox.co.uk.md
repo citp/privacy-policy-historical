@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2009-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090718215457id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607133559id_/http%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoBox - PhotoBox
 
