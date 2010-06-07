@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729014315id_/http%3A//www.cbox.ws/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbox.ws privacy policy that was archived on 2010-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100607133628id_/http%3A//www.cbox.ws/privacy.php) for the most accurate reproduction.*
 
-# Cbox · Privacy Policy · Free Tagboard and Chat Widget for your Site
+# Cbox · Privacy Policy · Chat and Tag for the Social Web
 
 Cbox is committed to maintaining your privacy and keeping your personal information confidential, and extends this policy to the third party users of your Cbox as well. 
 
