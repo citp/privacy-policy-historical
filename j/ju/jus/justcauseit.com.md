@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justcauseit.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717102521id_/http%3A//justcauseit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justcauseit.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608095359id_/http%3A//justcauseit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | JUST CAUSE (beta)
 
@@ -73,7 +73,7 @@ Our web site contains links to other web sites. Any personal information you pro
 ## Comments or Concerns  
 
 
-We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at [info@justcauseit.com](mailto:info@justcauseit.com "Linkification: mailto:info@justcauseit.com"). 
+We welcome your feedback. If you have any comments or concerns about this privacy policy or would like to contact us for any reason, you may reach us at info – at – justcauseit – dot – com 
 
 ## Data Changes  
 
