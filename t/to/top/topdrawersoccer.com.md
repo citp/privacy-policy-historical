@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111130340id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topdrawersoccer.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608070808id_/http%3A//www.topdrawersoccer.com/content/nid-2835) for the most accurate reproduction.*
 
 # TopDrawerSoccer.com, Articles
 
+## TopDrawerSoccer.com Privacy  
+  
+|   
+  
+Article Written By Advanced Soccer Media  
+  
 ## TopDrawerSoccer.com Website Privacy Statement
-
-This document was last updated on 12.05.2008.
 
   1. **ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
@@ -55,16 +59,14 @@ Visitors to our website can register to purchase services. When you register, we
 We will not disclose personally identifiable information we collect from you to third parties without your permission except to the extent necessary including:
 
       * To fulfill your service requests for services. 
-      * To protect ourselves from liability, 
-      *   
-
+      * To protect ourselves from liability,
       * To respond to legal process or comply with law, or
       * In connection with a merger, acquisition, or liquidation of the company.
   
 
   4. **USE OF WEB BEACONS OR GIF FILES**
 
-TopDrawerSoccer.com Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow TopDrawerSoccer.com to count users who have visited those pages and to deliver co-branded services. TopDrawerSoccer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
+TopDrawerSoccer.com Web pages may contain electronic images known as Web beacons - sometimes also called single-pixel gifs - that allow TopDrawerSoccer.com to count users who have visited those pages and to deliver co-branded services. TopDrawerSoccer.com may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon.
 
 Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. TopDrawerSoccer.com prohibits Web beacons from being used to collect or access your personal information.
 
