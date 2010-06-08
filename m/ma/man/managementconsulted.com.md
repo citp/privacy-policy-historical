@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the managementconsulted.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202143906id_/http%3A//managementconsulted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the managementconsulted.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608214810id_/http%3A//managementconsulted.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
