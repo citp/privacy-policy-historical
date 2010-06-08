@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207155302id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608113014id_/http%3A//www.aviva.co.uk/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Aviva - Legal - Privacy Policy
 
@@ -46,15 +46,7 @@ In the case of personal data, with limited exceptions, and on payment of the app
 Marketing
     
 
-[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed.
-
-By providing us with your contact details, you consent to being contacted for these purposes.
-
-If you wish to receive these, please ensure that the "Yes" box contains a tick when entering your personal details. However, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
-
-We can also provide you with great deals from our carefully selected partners.
-
-If you wish to receive these, then please tick the "Yes" box when entering your personal details. Note that again you may unsubscribe at a later date if you wish.
+[Aviva group](https://web.archive.org/legal/aviva-group-products-and-services.html) and its agents may use your information to keep you informed by post, telephone, e-mail, text messaging or other electronic means, about insurance and financial products and services which may be of interest to you. Your information may also be disclosed and used for these purposes after your policy has lapsed. By providing us with your contact details, you consent to being contacted for these purposes. At that time, we will provide you with a means of opting-out and in addition, you can contact us at any time to have your details removed from lists used by us for direct marketing purposes.
 
 Your rights
     
