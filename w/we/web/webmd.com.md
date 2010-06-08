@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231140229id_/http%3A//www.webmd.com/policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webmd.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608093706id_/http%3A//www.webmd.com/policies/about-privacy-policy%3Fss%3Dftr) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@ Part 4: |  Personally Identifiable Information We Collect About You
   1. Newsletters & Emails to You
   2. Emails You Send to WebMD
   3. Email a Friend
-  4. Message Boards and other Public Forums 
+  4. Health Exchanges, Blogs and other Public Forums
   5. Website Registration and Interactive Tools on WebMD 
   6. Children
   7. Market Research
@@ -63,31 +63,35 @@ To give you confidence that we adhere to strict healthcare industry privacy stan
 
 URAC - WebMD has been awarded e-Health accreditation from URAC, formerly the American HealthCare Accreditation Association. URAC is an independent accrediting body that has reviewed and approved WebMD's WebMD.com Web sites for compliance with its more than 45 quality and ethics standards that are based on the Hi-Ethics Principles. WebMD helped create the Hi-Ethics Principles as a founding member of the Hi-Ethics alliance. Hi-Ethics was an organization of health Web sites committed to a set of ethical principles designed to ensure that consumers can confidently realize the full benefit of the Internet to improve their health and the health of their families. To verify our compliance, click on the URAC logo. Please note that the URAC certification only applies to the WebMD.com site.
 
-[ ](https://web.archive.org/click?url=http://www.truste.org/ivalidate.php?url=www.webmd.com&sealid=101)
+[ ](http://www.webmd.com/click?url=http%3A//clicktoverify.truste.com/pvr.php%3Fpage=validate%26companyName=WebMD,%20LLC%26sealid=101%26ctv_group=WebMD)
 
 TRUSTe - WebMD is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, nonprofit organization whose goal is to build users' trust and confidence in the Internet by promoting the use of fair information practices. As required of TRUSTe licensees, we will inform you of the following in this Privacy Policy:
 
-  * What personally identifiable information of yours is collected; 
-  * What organization is collecting the information; 
-  * How the information is used; 
-  * With whom the information may be shared; 
-  * What choices are available regarding collection, use and distribution of the information; 
+  * What personally identifiable information (PII) of yours we collect 
+  * Who is collecting the information 
+  * How the information is used 
+  * With whom (if anyone) the information may be shared 
+  * What choices you have about collection, use and distribution of the information 
   * What kind of security procedures are in place to protect the loss, misuse or alteration of information under our control; and, 
   * How you can correct any inaccuracies in the information. 
 
 
 
-To verify our compliance, click on the TRUSTe logo. Please note that the TRUSTe certification only applies to the WebMD.com site.
+Click on the TRUSTe logo to verify our compliance with the TRUSTe Privacy Program. The TRUSTe certification only applies to the WebMD.com and Medicinenet.com sites.
 
-Health on The Net Foundation - WebMD complies with the principles of the HON Code of Conduct established by the Health on the Net Foundation. To verify our compliance, click on the HON logo. Please note that the Health on The Net Foundation certification applies only to sites under the WebMD.com domain.
+Health on The Net Foundation - WebMD complies with the principles of the HON Code of Conduct established by the Health on the Net Foundation. To verify our compliance, click on the HON logo. Please note that the Health on The Net Foundation certification applies to WebMD.com, Medicinenet.com, and eMedicineHealth.com domains.
 
-This Privacy Policy applies to the WebMD Web sites owned and operated by WebMD, including the WebMD.com site, the WebMD Health Manager site, the MedicineNet.com site, the RxList.com site and the WebMD Health-101 sites. Reference to "WebMD" means WebMD, LLC., including any company that WebMD, LLC. controls (for example, a subsidiary that WebMD, LLC. owns). WebMD Web sites include any site that WebMD owns or controls (for example, a WebMD Health-101 site). WebMD may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy. 
+This Privacy Policy applies to Web sites owned and operated by WebMD, including WebMD.com, the WebMD Health Manager, Medicinenet.com, and RxList.com.
 
-The WebMD Web site contains links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that WebMD is not responsible for the privacy practices of these other sites. We encourage you to look for and review the privacy statements of each and every Web site that you visit through a link or advertisement on WebMD. 
+Reference to "WebMD" means WebMD, LLC., including any company that WebMD, LLC. controls (for example, a subsidiary that WebMD, LLC. owns). "WebMD Web sites" include any site that WebMD owns or controls (for example, Medicinenet.com). WebMD may share information among its subsidiaries or sites that it owns or controls, but is always protected under the terms of this Privacy Policy. 
+
+The WebMD Web sites contain links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that WebMD is not responsible for the privacy practices of these other sites. We encourage you to look for and review the privacy statements of each and every Web site that you visit through a link or advertisement on WebMD. 
 
 We hope that reading our Privacy Policy helps you understand how we manage information about you. Throughout our Privacy Policy, we have underlined various terms and hot-linked them to our Glossary or to the corresponding Section within the Privacy Policy to help you better understand their meaning. 
 
-While you may use some of the functionality of WebMD without registration, many of the specific tools and services on our website require registration. If you use our Web site without registering, the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons. If you choose to register with our Web site for certain Interactive Tools or other services, we require you to submit Personally Identifiable Information. Depending on the tool or service you have selected, we may also collect Personal Health Information. You are responsible for ensuring the accuracy of the Personally Identifiable Information and Personal Health Information you submit to WebMD. Inaccurate information will affect the information you receive when using our site and tools and our ability to contact you as described in this Privacy Policy. For example, your email address should be kept current because that it is how we communicate with you. 
+  * While you may use some of the functionality of WebMD without registration, many of the specific tools and services on our website require registration. If you use our Web site without registering, the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons. If you choose to register with our Web site for certain Interactive Tools or other services, we require you to submit Personally Identifiable Information. Depending on the tool or service you have selected, we may also collect Personal Health Information. You are responsible for ensuring the accuracy of the Personally Identifiable Information and Personal Health Information you submit to WebMD. Inaccurate information will affect the information you receive when using our site and tools and our ability to contact you as described in this Privacy Policy. For example, your email address should be kept current because that it is how we communicate with you.
+
+
 
 Even if you do not register with WebMD, we collect Non-Personal Information about your use of our Web site, special promotions and newsletters. 
 
@@ -109,7 +113,26 @@ We collect Personally Identifiable Information, like your name, email address, d
 
 ## A. Newsletters & Emails to You
 
-At registration and at various times as you use WebMD, you will be given the option of receiving recurring informational/promotional newsletters via email from WebMD and/or directly from third parties. These emails will not contain Personal Health Information. When you sign up for our email newsletters or at any time, you can choose to Opt-In to receiving additional promotional emails from WebMD or our Sponsors. In order to subscribe to WebMD newsletters via email, we need your contact information, like name and email address. You can unsubscribe from the newsletters by simply clicking on the "unsubscribe" link at the bottom of any email newsletter. An email to our automated unsubscribe service will be created on your computer. Click the "send" button. You will then be unsubscribed from that newsletter within two to three business days. You may also unsubscribe or change any of your email preferences by clicking on the applicable links in your email newsletter or by changing your profile settings by clicking on any of the view/manage links at the bottom of your WebMD Newsletter. If you experience difficulties with our automated unsubscribe service, please use our Customer Support Form. WebMD Customer Service will manually unsubscribe you from that newsletter in two to three business days. In some cases, when you click on a link or an advertisement on our site, in an e-mail or newsletter, your browser may be momentarily directed to the website of a third party which, acting on behalf of WebMD (see Disclosure to Third Party Contractor Web sites, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to your selected destination; this re-direction process may not be apparent to you.
+At registration and at various times as you use WebMD, you will be given the option of receiving recurring informational/promotional newsletters via email from WebMD and/or directly from third parties. These emails will not contain Personal Health Information. When you sign up for our email newsletters or at any time, you can choose to Opt-In to receiving additional promotional emails from WebMD or our Sponsors. In order to subscribe to WebMD newsletters via email, we need your contact information, like name and email address. You can unsubscribe from the newsletters by simply 
+
+  * Following the directions included at the bottom of each email newsletter you receive from WebMD
+  * Editing the information you entered when you registered by going to: https://member.webmd.com/default.aspx?returl=
+    * Sign in to WebMD
+    * Select, "My Profile"
+    * Select "Update" under the newsletters option on the right hand side of the page
+    * Uncheck the newsletters you don't want to continue receiving. (If you want all newsletters to stop, then you must uncheck all of them)
+    * Check any additional newsletters you want to receive
+    * The unsubscribe process may take up to three (3) business days to complete.
+    * Press "Submit" at the bottom of the page to confirm your new choices
+    * An email will be sent to confirm the updates you make to your selection of newsletters
+
+
+
+If you have difficulties with our unsubscribe or subscribe service, please use our Customer Support Form to write us and let us know about your problem. WebMD Customer Service will manually unsubscribe you from that newsletter in two to three business days.
+
+In some cases, when you click on a link or an advertisement on our site, in an e-mail or newsletter, your browser may be momentarily directed to the website of a third party which, acting on behalf of WebMD (see Disclosure to Third Party Contractor Web sites, below), notes or "counts" your response to the e-mail or newsletter before re-directing your browser to your selected destination; this re-direction process may not be apparent to you.
+
+When you use the WebMD Health Exchange and click the Watch This Discussion link in any Health Exchange posting, WebMD will send you an email summary of each day's postings in that Exchange.
 
 ## B. Emails You Send to WebMD
 
@@ -117,13 +140,15 @@ This Privacy Policy does not apply to content, business information, ideas, conc
 
 ## C. Email a Friend
 
-If you choose to use our Email a Friend service to tell a friend about our site or newsletter, we will ask you for your name, your email address and your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the from email address. WebMD does not use your name, your email address or your friend's email information and the information you provide using this service for any other purpose. We will only use the information you provide to send the email you request. 
+If you use our Email a Friend service to tell a friend about our site or newsletter, we will ask you for your name, your email address and your friend's email address. We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the "from" email address. WebMD does not use your name, your email address or your friend's email information for any other purpose. We will only use the information you provide to send the email you request. 
 
-## D. Message Boards and other Public Forums
+## D. Community, Health Exchanges, Blogs and other Public Forums
 
-As a service to our users, WebMD features message boards, chat rooms and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by medical or healthcare experts. **Any information shared (including Personally Identifiable and Personal Health Information) that you reveal in a chat room, message board, Ask Our Expert posting or online discussion is by design open to the public and is not a private, secure service. You should think carefully before disclosing any Personally Identifiable or Personal Health Information in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines like Google, Yahoo, MSN etc.**
+WebMD features several community areas and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by medical or healthcare experts. Our communities are open to the public and should not be considered private.
 
-We use other third parties [like Blogger from Google] to manage the WebMD blog(s) on our site. When you create a Google Account for Blogger, Google will share the information you have posted as necessary for us and the third party to provide continued service and to allow you to post your blogs on both the Google blog site and the WebMD site. Google will share ownership of your information as necessary to continue to implement the blogs on our site and as described in their privacy policy. WebMD will use your information as described in this privacy policy.
+**Any information you shared in any online community area (including Personally Identifiable and Personal Health Information) like a chat room, Health Exchange, Ask Our Expert posting or online discussion is by design open to the public and is not private. You should think carefully before posting any Personally Identifiable or Personal Health Information in any public forum. What you post can be seen, disclosed to or collected by third parties and may be used by others in ways we cannot control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, the information you post may also show up in third-party search engines like Google, Yahoo, MSN, Bing etc.**
+
+We use third parties [like Blogger from Google] to manage the WebMD blog(s) on our site. When you choose to reply to a post or create your own post on a WebMD blog, you will be given the option to create an account for Google Blogger, Google will share the information you post as necessary for us and Blogger to provide continued service and to allow you to post your blogs on both the Google Blogger site and the WebMD site. Google will share ownership of your information as necessary to continue to implement the blogs on our site and as described in the Google Blogger privacy policy. WebMD will use your information as described in this privacy policy.
 
 ## E. Website Registration and Interactive Tools on WebMD
 
@@ -137,11 +162,13 @@ We are committed to protecting the privacy of children. Neither WebMD nor any of
 
 From time to time the WebMD market research department, or its operations contractors acting on its behalf, conducts online research surveys through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may ask you to submit Personally Identifiable Information. WebMD may combine your Personally Identifiable Information you submit in a survey to information about you from other sources. The information from other sources may include financial, health or other identifiable information. This Personally Identifiable Information is used for research purposes, and is not used for sales solicitations. When a survey is sponsored by a third party, Aggregate Information of the survey results is reported to the sponsor. Personally Identifiable Information collected through market research will be used only by WebMD and its service providers and contractors and will not be given or sold to any other third party without your consent or as otherwise permitted by this Privacy Policy. For market research surveys we will not knowingly accept survey responses from or conduct interviews with any person under the age of 18. Some surveys may provide remuneration to participants such as a small cash fee for your time or an entry into a sweepstakes for a larger prize. Each survey will disclose whether or not it is a paid survey. In addition to collecting survey responses from our members, Cookies may be used to authenticate respondents or to help you pick up where you left off in a survey. If you have Cookies disabled you may not be able to participate in some studies. Cookies may be used to connect survey data with WebMD site usage characteristics. You will be notified when we would like to use Cookies in this way and your consent will be requested for these Cookies.
 
-WebMD Health Manager allows you a secure place to store your Personal Health Information and provides tools and services in order to better manage your health and the health of your family. WebMD Health Manager requires additional registration whether you access it through (i) WebMD, (ii) your employer's Web site or (iii) your healthcare sponsor's website. Regardless of how you access the WebMD Health Manager the following apply:
+WebMD Health Manager allows you a secure place to store your Personal Health Information and provides tools and services in order to better manage your health and the health of your family. WebMD Health Manager requires additional registration whether you access it through (i) WebMD, (ii) your employer's Web site or (iii) your healthcare sponsor's website.
+
+**Important Note:** If you are an employee or health plan member who has enabled access to your health record at WebMD.com by registering at your employer's or health plan's website, the privacy policy applicable to your information at your employer's or health plan's website remains applicable to your personal health record at WebMD.com. If your employer or health plan account is no longer made available to you by your employer or health plan, you will continue to have access to your health information from your PHR at WebMD.com, using the same username and password. In this situation, the privacy policy that applies to your information will be the privacy policy at the WebMD.com site, www.webmd.com/phr. Except for employees or health plan members covered by their employer's or health plan's privacy policy described above, the following applies to your access to WebMD Health Manager through this site:
 
 ## A. WebMD Health Manager Home Page
 
-Personal Health Information that you enter into one of the WebMD Health Manager tools is used to provide you personalized and clinically relevant information on your personalized Health Manager home page and throughout the Health Manager product. WebMD Health Manager creates a personal home page specifically for you. You control and authorize who can gain access to this page. 
+Personal Health Information that you enter into one of the WebMD Health Manager tools is used to provide you personalized and clinically relevant information on your personalized Health Manager home page and throughout the Health Manager product. WebMD Health Manager creates a personal home page specifically for you. You control and authorize who can gain access to this page.
 
 ## B. Concept Unique Identifiers
 
@@ -157,7 +184,7 @@ WebMD Health Manager has the ability to use Personally Identifiable Information 
 
 Information that WebMD Health Manager deems related to your Personal Health Information will be delivered to you through the Secure Message Center on your personal health home page. 
 
-delivered to you through the Secure Message Center on your personal health home page. If you decide that you would prefer not to receive personalized email or secure electronic messages from the WebMD Health Manager tool, you may "Opt-out" of the service by clicking on the settings tab on your Health Manager home page and changing your email preference. 
+If you decide that you would prefer not to receive personalized email or secure electronic messages from the WebMD Health Manager tool, you may "Opt-out" of the service by clicking on the settings tab on your Health Manager home page and changing your email preference. 
 
 ## E. Interactive Tools on WebMD Health Manager
 
@@ -167,9 +194,9 @@ WebMD does not knowingly engage in business with a company that uses Spyware. We
 
 Sponsors or advertisers on WebMD may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on WebMD and in emails, special promotions or newsletters we send you. Some advertisers use companies other than WebMD to serve their ads and to monitor users' responses to ads, and these companies ("Ad Servers") may also collect Non-Personal Information through the use of Cookies or Web Beacons on our Web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the Web site of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to WebMD to show the ad, or to the advertiser's website); this re-direction process will not be apparent to you. 
 
-We do not control these third parties' use of cookies or Web Beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Web site to agree that they will not collect any Personally Identifiable Information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to Personally Identifiable Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. For example, in connection with "Ad links" furnished by Yahoo, non-personal information sent by your browser to Yahoo when you click on a sponsored link or submit a query may be used by Yahoo as described in its privacy policy. In addition, WebMD's Advertising Policy is posted on our Web site and will provide additional detail about our relationship with advertisers and the companies that serve ads. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can Opt-out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.webmd.com/click?url=http://www.networkadvertising.org/managing/opt_out.asp) gateway Opt-out site. This website will also allow you to review the Ad Server's privacy policies.
+We do not control these third parties' use of cookies or Web Beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Web site to agree that they will not collect any Personally Identifiable Information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to Personally Identifiable Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. For example, in connection with "Ad links" furnished by Yahoo, non-personal information sent by your browser to Yahoo when you click on a sponsored link or submit a query may be used by Yahoo as described in its privacy policy. In addition, WebMD's Advertising Policy is posted on our Web site and will provide additional detail about our relationship with advertisers and the companies that serve ads. You should review the privacy policy of other sites you visit or link to from our site to understand how these other sites use cookies and how they use the information they collect through the use of cookies or web beacons on their own sites. Certain Ad Servers allow you to prevent them from collecting data through the use of cookies. In order to do so, you must Opt-out of such data collection with each individual site. Currently, you can Opt-out of Cookies for several Ad Servers by visiting the [Network Advertising Initiative](http://www.webmd.com/click?url=http://www.networkadvertising.org/managing/opt_out.asp) gateway Opt-out site. This website will also allow you to review the Ad Server's privacy policies. You can find additional information and resources about how to opt out of advertising and related cookies by visiting the [World Privacy Forum's Site.](http://www.webmd.com/click?url=http://www.worldprivacyforum.org/cookieoptout.html)
 
-You can also find additional information and resources about how to opt out of advertising and related cookies by visiting the [World Privacy Forum's Site.](http://www.webmd.com/click?url=http://www.worldprivacyforum.org/cookieoptout.html)
+WebMD does not knowingly engage in business with any company that uses Spyware or Maleware. We do not provide users with downloadable software that collects or uses any PII or PHI without full disclosure and Opt-in consent.
 
 Except as described in this Privacy Policy or as specifically agreed to by you, WebMD will not disclose any Personally Identifiable or Personal Health Information it gathers from you on our website. We may only release Personally Identifiable or Personal Health Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your Personally Identifiable or Personal Health Information to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose Personal Information as described below. 
 
@@ -198,7 +225,7 @@ WebMD may provide Aggregate Information to third parties. For example, we might 
 Here are some of the security procedures that WebMD uses to protect your privacy: 
 
   * Requires both a personal username (log-in name) and a password in order for users to access their Personally Identifiable Information or Personal Health Information. 
-  * Requires a public 'nickname' different from the username and password, used for any public forums like message boards. 
+  * Requires a public 'nickname' different from the username and password, used for any public forums like Health Exchanges. 
   * Uses firewalls to protect information held in our servers. 
   * Utilizes Secure Socket Layer (SSL) encryption in transmitting Personally Identifiable Information to our servers. In order to take advantage of encryption technology, you must have an Internet browser which supports 128-bit encryption. 
   * Closely monitors the limited number of WebMD employees who have potential access to your Personally Identifiable Information. 
@@ -310,7 +337,7 @@ If other pieces of information are linked to PII, they also become PII. For exam
 
 **username:** A name used to gain access to a computer system or program. Usernames, and often passwords, are required in shared systems, such as the Internet. In most such systems, users can choose their own usernames and passwords (see Nickname above for additional information.) 
 
-Usernames are also required to post a reply on message boards, use certain WebMD Tools and online services such as WebMD Health Manager. 
+Usernames are also required to post a reply on Health Exchanges, use certain tools and online services like WebMD Health Manager. 
 
 **virus:** A program or piece of code that is loaded onto your computer without your knowledge and runs against your wishes. Viruses can also "replicate" themselves by copying their code to other computers. All computer viruses are manmade. A simple virus that can make a copy of itself over and over again is relatively easy to produce. Even such a simple virus is dangerous because it will quickly use all available memory and bring the system to a halt. An even more dangerous type of virus is one capable of transmitting itself across networks and bypassing security systems. There are numerous virus protection programs available. See the "How You Can Protect Yourself" section. 
 
@@ -318,6 +345,6 @@ Usernames are also required to post a reply on message boards, use certain WebMD
 
 * * *
 
-Effective: November 25, 2009
+Last Updated: March 05, 2010
 
-©2009 WebMD, LLC. All rights reserved. 
+©2010 WebMD, LLC. All rights reserved. 
