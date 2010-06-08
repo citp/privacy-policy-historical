@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603101016id_/http%3A//www.artistdata.com/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artistdata.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608185238id_/http%3A//www.artistdata.com/us/privacy) for the most accurate reproduction.*
 
 # ArtistData -
 
@@ -52,7 +52,7 @@ A. You can edit your ARTIST DATA SYSTEMS account information including your pers
 
 B. We reserve the right to send you certain communications relating to the ARTIST DATA SYSTEMS service, such as service announcements, administrative messages, that are considered part of your ARTIST DATA SYSTEMS account. You have the ability to opt-out of such communications by changing your preferences on our website.
 
-C. You can delete your ARTIST DATA SYSTEMS account by contacting us at [support@artistdata.com](mailto:support@artistdata.com) or canceling your subscription on artistdata.com.
+C. You can delete your ARTIST DATA SYSTEMS account by [contacting us here](http://helpme.artistdata.com/) or canceling your subscription on artistdata.com.
 
 V. Confidentiality and Security
 
@@ -72,4 +72,4 @@ A. By using this website you signify your acceptance of our Privacy Policy. If y
 
 VIII. Questions and Suggestions 
 
-A. If you have questions or suggestions, please contact us at: [support@artistdata.com](mailto:support@artistdata.com)
+A. If you have questions or suggestions, please contact us at: [http://helpme.artistdata.com](http://helpme.artistdata.com/)
