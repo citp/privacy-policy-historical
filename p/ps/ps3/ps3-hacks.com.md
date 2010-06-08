@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ps3-hacks.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126014620id_/http%3A//www.dashhacks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ps3-hacks.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608082908id_/http%3A//dashhacks.com/privacypolicy) for the most accurate reproduction.*
 
 # Dashhacks Inc. Privacy Policy | The Dashhacks Network
 
 Privacy Policy for dashhacks.com and all sites within the Dashhacks Network.
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [admin@dashhacks.com](mailto:admin@dashhacks.com).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@dashhacks.com.
 
 At dashhacks.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by dashhacks.com and how it is used.
 
