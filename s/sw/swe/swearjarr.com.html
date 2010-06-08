@@ -1,0 +1,475 @@
+<!--The following is the downloaded HTML source of the swearjarr.com privacy policy that was archived on 2010-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608035913id_/http%3A//www.swearjarr.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
+    <title>Welcome to SwearJarr</title>
+    <meta name="description" content="With An Average Of 430,000 SWEAR WORDS PER DAY, We thought Twitter could use a SwearJarr">
+	<meta name="keywords" content="Charity, swear, swear jarr, twitter, twitter curse words, curse words, web 2.0, donate, donation, donations, give, fundraising, fundraiser, fundraising campaign, aid, contributions ">
+
+    	<link href="css/application.css" media="all" rel="stylesheet" type="text/css">
+    	<script src="http://code.jquery.com/jquery-latest.js"></script>
+	<script src="js/jcarousellite.js" type="text/javascript"></script>
+	<script src="js/timeago.js" type="text/javascript"></script>
+	
+    	<script>
+    	
+    	var donatorsPage = 1;
+    	var offendersPage = 1;
+    	var celebrityPage = 1;
+
+ $(document).ready(function() {
+
+	if ($("#tweets_container").length > 0){
+	moreTweets();
+	}
+
+	if ($("#main_checkout").length > 0){
+	$("span.timestamp").timeago();
+	}
+ });
+
+
+	function searchUser(user) {
+
+	$("#searchform").attr("action",user);
+	$("#searchform").submit();
+
+	}
+
+	function searchUserPage(user) {
+
+	$("#searchform").attr("action","http://swearjarr.com/"+user);
+	$("#searchform").submit();
+
+	}
+ 
+	function contactValidate() {
+	
+	if($('#txtName').val() == ""){
+	alert('Please fill in your name.');
+	} else if($('#txtEmail').val() == "") {
+	alert('Please fill in a valid email.');	  
+	} else if($('#txtDescription').val() == "") {
+	alert('Please enter a description for your inquiry.');
+	} else if($('#recaptcha_response_field').val() == "") {
+	alert('Please enter the characters in the image verification.');
+	} else {
+	$('#contact_form').submit();
+	}
+	  
+	}
+
+    	
+    	function moreTweets() {
+ 
+    	$.get("poll.php", function(data){
+		  
+     	$('#tweets_list').append(data);
+	$("div.timestamp").timeago();
+	
+		$("#tweets_container").jCarouselLite({
+		    circular: true,
+		    vertical: true,
+		    hoverPause:true,
+		    visible: 3,
+		    auto:3000,
+		    speed:1000,
+		    afterEnd: function(visible) {
+		        $(visible[0]).fadeTo(2000, 1);
+			},
+		    beforeStart: function(visible) {
+        		var listIndex = $(visible[2]).index();
+		        $("#tweets_list li").each(function() {
+		    		if(listIndex-3 == $(this).index()) {
+		                $(this).fadeTo(100, 0);		
+		            }
+		        });
+		    }
+    	});
+	
+   	});
+    	
+	$(".carousel").hide();   
+	
+    	}
+    	
+	
+    	function paypalTransaction(user, amount, since_id) {
+     	$.get("user.php?f=paypal", { user: user, amount: amount, since_id: since_id },
+   function(data){
+     document.paypal.submit();
+   });
+    	
+    	}
+    	
+    	function moreDonators(index) {
+    	 	
+    	 $('#view_left').append("<img src='img/arrows16.gif'>");
+    	     	 
+    	 $.get("more.php", { block: "donators", page: donatorsPage+1, index: index },
+   		function(data){
+
+		index++;
+		$('#view_left').html("<a onClick='moreDonators("+index+")'>View more...</a>");
+
+		$('#donators').append(data);
+     	donatorsPage++;
+     	
+   		});
+    	
+    	}
+    	
+    	function moreOffenders(index) {
+    	 	
+    	 $('#view_right').append("<img src='img/arrows16.gif'>");
+    	     	 
+    	 $.get("more.php", { block: "offenders", page: offendersPage+1, index: index },
+   		function(data){
+
+		index++;
+		$('#view_right').html("<a onClick='moreOffenders("+index+")'>View more...</a>");
+
+		$('#offenders').append(data);
+     	offendersPage++;
+     	
+   		});
+    	
+    	}
+    	
+    	function moreCelebs(index) {
+    	 	
+    	 $('#view_bottom').append("<img src='img/arrows16.gif'>");
+    	     	 
+    	 $.get("more.php", { block: "celebs", page: celebrityPage+1, index: index },
+   		function(data){
+
+		index++;
+		$('#view_bottom').html("<a onClick='moreCelebs("+index+")'>View more...</a>");
+
+		$('#celebs').append(data);
+     	celebrityPage++;
+     	
+   		});
+    	
+    	}
+    	
+    	</script>
+  </head>
+  <body>
+<!-- header -->
+<!--<div id="breaking"><a href="twitter_emp.php"><img src="img/breaking.png"></a></div>-->
+<div id="pre_header">
+	<ul>
+		<li><a href="non_profits.php">For Non Profits</a></li>
+		<li><a href="contact.php">Contact Us</a></li>
+		<li><a href="http://blog.swearjarr.com">Blog</a></li>
+</ul></div>
+	<div id="header">
+		<div id="logo">
+			<a href="index.php"><img src="img/sj_logo.jpg"></a>
+		</div>
+		<div id="header_stats">
+
+			  <h3>Total Donations:</h3> 
+			  <span class="hstats">$2,125.75</span>
+			  <h4>Number of SWEAR words:</h4> 
+			  <span class="hstats">Today: 349,113<br>
+			  This week: 714,113<br>
+			  This month: 2,428,228<br>
+			  Since launch date June 1 2010: 2,603,092</span>			
+			
+		</div>
+		<div class="clear"></div>
+	</div><!-- end header -->
+	<div id="nav_wrapper">
+		<div id="nav">
+			<ul>
+				<li><a href="what.php">What is SwearJarr and how does it work?</a></li>
+			</ul>
+		</div>
+		<div id="swear_police">
+			<img src="img/sp_badge_small.jpg">
+			<div class="info">Did you get caught by the Swear Police?</div>
+			<span class="what"><a href="swear_police.php">What's the deal?</a></span>
+		</div>
+		<div class="clear"></div>
+	</div>
+		
+
+
+<!-- wrapper -->
+<div id="wrapper">
+
+			
+		<!-- Start Container -->
+		<div id="container">			
+		
+				<!-- main content -->		
+				<div id="main3">
+					<h1>Privacy Policy</h1>
+					SwearJarr.com. ("SwearJarr") knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting SwearJarr's website at www.SwearJarr.com or otherwise using any of SwearJarr's services (the "Service"), you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
+					<br><br>
+					<h3>What Does This Privacy Policy Cover?</h3><br>
+					<p>This Privacy Policy covers SwearJarr's treatment of personally identifiable information ("Personal Information") that SwearJarr gathers when you are accessing the Service. This policy does not apply to the practices of companies that SwearJarr does not own or control, or to individuals that SwearJarr does not employ or manage.
+					<br><br>
+					</p><h3>What Personal Information Does SwearJarr display or Collect?</h3><br>
+					The information we gather from users enables us to personalize and improve our Service. SwearJarr does not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Service or send any information about yourself to us.
+					<br><br>
+					We may collect the following types of information from our users.
+					<br><br>
+					Information Collected from Other Services:
+					<br><br>
+					SwearJarr may collect and display information about you that is publicly available on other websites. We access such information in accordance with the data access policies of the websites and applicable user specific privacy settings. If you wish to have your information excluded from SwearJarr, you may be able to adjust the account privacy settings of your service provider to prevent your information from being publicly accessed. You may also contact us via email at <a href="mailto:hello@SwearJarr.com">hello@SwearJarr.com</a>.
+					<br><br>
+					Personal Information You Provide to Us:
+					<br><br>
+					We receive and store any information you enter on the Service or provide to us in any other way. You may choose not to provide us with certain information, but then you may not be able to take advantage of many of our special features. The Personal Information you provide is used for such purposes as responding to your requests for certain information, products and services, customizing the advertising and content you see, and communicating with you about specials and new features.
+					<br><br>
+					Information Collected Automatically:
+					<br><br>
+					We receive and store certain types of information whenever you interact with the Service. SwearJarr automatically receives and records information on our server logs from your browser including your IP address, search queries, SwearJarr cookie information, and the page you requested. We also record the details of your activity on the Service.
+					<br><br>
+					Generally, our service automatically collects usage information, such as the numbers and frequency of visitors to our site and its components. SwearJarr only uses this data in aggregate form, that is, as a statistical measure, and not in a manner that would identify you personally. This type of aggregate data enables us to figure out how often users use parts of the Service so that we can make the Service appealing to as many users as possible, and improve the Service. As part of this use of information, we may provide aggregate information to our partners about how our users, collectively, use our site. We share this type of statistical data so that our partners also understand how often people use their services and the Service, so that they, too, may provide you with an optimal online experience. Again, SwearJarr never discloses aggregate information to a partner in a manner that would identify you personally.
+					<br><br>
+					<h3>What About Cookies?</h3><br>
+					Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your browser to enable our systems to recognize your browser and tell us how and when pages in our site are visited and by how many people. SwearJarr cookies do not collect Personal Information, and we do not combine the general information collected through cookies with other Personal Information to tell us who you are or what your screen name or email address is.
+					<br><br>
+					Most browsers have an option for turning off the cookie feature, which will prevent your browser from accepting new cookies, as well as (depending on the sophistication of your browser software) allowing you to decide on acceptance of each new cookie in a variety of ways. We strongly recommend that you leave the cookies activated, however, because cookies enable you to take advantage of some of the Service's most attractive features.
+					<br><br>
+					Ads appearing on the Service may be delivered to users by our advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by SwearJarr and does not cover the use of cookies by any advertisers.
+					<br><br>
+					<h3>Will SwearJarr Share Any of the Personal Information it Receives?</h3><br>
+					Personal Information about our users is an integral part of our business. We neither rent nor sell your Personal Information to anyone. SwearJarr reserves the right to release Personal Information when we believe in good faith that release is necessary to comply with the law; enforce or apply our Terms of Use and other agreements; or protect the rights, property, or safety of others. 
+					<br><br>
+					<h3>Links to Other Sites</h3><br>
+					The Service contains links to other sites. SwearJarr is not responsible for the privacy policies and/or practices on other sites. When linking to another site a user should read the privacy policy stated on that site. This Privacy Policy only governs information collected on the Service.
+					<br><br>
+					<h3>Changes to this Privacy Policy</h3><br>
+					SwearJarr may make changes to this Privacy Policy from time to time for any reason. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Information, we will notify you via e-mail or by posting an announcement on the Service. Users are bound by any changes to the Privacy Policy when he or she uses the Service after such changes have been first posted.
+					<br><br>
+					<h3>Questions or Concerns</h3><br>
+					If you have any questions or concerns regarding privacy at SwearJarr, please send us a detailed message to <a href="mailto:hello@SwearJarr.com">hello@SwearJarr.com</a>. We will make every effort to resolve your concerns.
+										
+				</div><!-- end main content -->
+		
+		
+				<!-- side bar -->			
+					<div id="side">
+	<div id="non_profits">
+		<div id="swearto">
+		<h2>Swear to make a difference</h2>
+		<p>Each month, proceeds will be split between two charitable organizations. At the beginning 
+			of each month, we will choose two new organizations to receive donations from the SwearJarr.</p>
+		</div>
+		<br>
+		<br>
+		<h3>This Month's Proceeds Go To:</h3>
+		
+		<a target="_blank" title="Visit standup2cancer.org" href="http://www.standup2cancer.org/"><img src="img/su2c_small.png"></a>
+		<span class="text2">Cancer sucks! (Will the <a href="swear_police.php">Swear Police</a> bust us for saying that?)<b> Stand Up To Cancer</b> funds innovative, collaborative cancer research aimed at ending cancer once and for all.  One-hundred percent of your donation goes to our "Dream Teams," which bring together the best and the brightest minds in cancer research, and to our Innovative Research Grants, which back high-risk, high-reward projects.  But none of that would matter if we weren't also going the last mile to deliver these promising new treatments to patients as quickly as possible.  Stand up with us -- this is where the end of cancer begins!</span>
+		<ul>
+			<li><a target="_blank" title="Visit standup2cancer.org" href="http://www.standup2cancer.org/"><img src="img/home_small.png"></a></li>		
+			<li><a target="_blank" title="Join SU2C on YouTube" href="http://www.youtube.com/user/su2c"><img src="img/youtube_small.png"></a></li>
+			<li><a target="_blank" title="Join SU2C on Facebook" href="http://www.facebook.com/su2c"><img src="img/facebook_small.png"></a></li>
+			<li><a target="_blank" title="Join SU2C on Twitter" href="http://twitter.com/su2c"><img src="img/twitter_small.png"></a></li>
+			         
+		</ul>
+		<br>		
+		<br>
+		<br>
+		<a target="_blank" title="Visit strength.org" href="http://strength.org/"><img src="img/mnm_logo_sm.png"></a>
+		<span class="text2"><b>Malaria No More</b> is determined to end malaria deaths. A non-profit, non-governmental organization, Malaria No More makes high-yield investments of time and capital to speed progress, unlock resources, mobilize new assets and spur the world toward reaching this goal.</span>
+		<ul>
+			<li><a target="_blank" title="Visit malarianomore.org" href="http://www.malarianomore.org/"><img src="img/home_small.png"></a></li>		
+			<li><a target="_blank" title="Join Malaria No More on YouTube" href="http://www.youtube.com/user/malarianomore"><img src="img/youtube_small.png"></a></li>
+			<li><a target="_blank" title="Join Malaria No More on Facebook" href="http://www.facebook.com/malarianomore"><img src="img/facebook_small.png"></a></li>
+			<li><a target="_blank" title="Join Malaria No More on Twitter" href="http://twitter.com/malarianomore"><img src="img/twitter_small.png"></a></li>         
+		</ul>
+		<div class="clear"></div>
+		
+		
+	</div>
+	<div class="clear"></div>
+<!--		<div id="stats_left">
+			<div id="contents">			  
+			  start top list
+			  				
+			</div>
+			<div class="clear"></div>
+		</div>
+		
+		
+		<div id="stats_right">
+			<div id="contents">			  
+			  start top list
+			  				
+			</div>
+			<div class="clear"></div>
+		</div>
+-->		
+		
+		<div id="celeb_top"></div>
+		<div id="celeb_list_box">
+			<div id="contents">			  
+			  <!-- start top list -->
+			  				 
+				  <div id="celebs">
+				   <table class="celeb">
+				    <tbody><tr>
+				        <td>
+				            <img src="http://a3.twimg.com/profile_images/107763943/twitter_normal.jpg" alt="" width="24" height="24">
+				            <a href="ThatKevinSmith">ThatKevinSmith</a> 
+				        </td>
+				        <td>
+				            Kevin Smith
+				        </td>
+				        <td class="swears">
+				           <span class="text">49</span><span class="text2">swears</span> 
+				        </td>
+				    </tr>
+				</tbody></table>
+    
+    
+    			 
+				   
+				  <div class="clear"></div>
+ <table class="celeb">
+				    <tbody><tr>
+				        <td>
+				            <img src="http://a3.twimg.com/profile_images/421377161/azizlittletwitter_normal.jpg" alt="" width="24" height="24">
+				            <a href="azizansari">azizansari</a> 
+				        </td>
+				        <td>
+				            Aziz Ansari
+				        </td>
+				        <td class="swears">
+				           <span class="text">41</span><span class="text2">swears</span> 
+				        </td>
+				    </tr>
+				</tbody></table>
+    
+    
+    			 
+				   
+				  <div class="clear"></div>
+ <table class="celeb">
+				    <tbody><tr>
+				        <td>
+				            <img src="http://a1.twimg.com/profile_images/838970286/BustaRhymes2_normal.gif" alt="" width="24" height="24">
+				            <a href="BusaBusss">BusaBusss</a> 
+				        </td>
+				        <td>
+				            Busta Rhymes
+				        </td>
+				        <td class="swears">
+				           <span class="text">36</span><span class="text2">swears</span> 
+				        </td>
+				    </tr>
+				</tbody></table>
+    
+    
+    			 
+				   
+				  <div class="clear"></div>
+ <table class="celeb">
+				    <tbody><tr>
+				        <td>
+				            <img src="http://a1.twimg.com/profile_images/739554652/Aubrey_O_Day_09_00022_2mt_copymarkussave_normal.jpg" alt="" width="24" height="24">
+				            <a href="AubreyODay">AubreyODay</a> 
+				        </td>
+				        <td>
+				            Aubrey ODay
+				        </td>
+				        <td class="swears">
+				           <span class="text">33</span><span class="text2">swears</span> 
+				        </td>
+				    </tr>
+				</tbody></table>
+    
+    
+    			 
+				   
+				  <div class="clear"></div>
+ <table class="celeb">
+				    <tbody><tr>
+				        <td>
+				            <img src="http://a1.twimg.com/profile_images/889368768/IMG_1691_normal.JPG" alt="" width="24" height="24">
+				            <a href="DJWhooKid">DJWhooKid</a> 
+				        </td>
+				        <td>
+				            Dj Whoo Kid
+				        </td>
+				        <td class="swears">
+				           <span class="text">32</span><span class="text2">swears</span> 
+				        </td>
+				    </tr>
+				</tbody></table>
+    
+    
+    			 
+				   
+				  <div class="clear"></div>
+		
+				  </div>	  
+				  <span id="view_bottom" class="view_more"><a onclick="moreCelebs(5)">View more...</a></span>
+				  <div class="clear"></div>				
+			</div>
+			<div class="clear"></div>
+		</div>
+		<div id="celeb_bottom"></div>
+		
+		<div class="clear"></div>
+
+</div>		
+<div class="clear"></div><!-- end side -->			
+
+
+<!-- footer -->				
+</div><!-- end container -->
+		
+</div><!-- end wrapper -->
+
+				<div id="footer_wrapper">
+					<div id="footer_content">
+						<div id="footer">
+							<dl>
+								<dt>© 2010 SwearJarr.com</dt>		
+								<dd>
+									<a href="privacy.php">Privacy Policy</a> | <a href="terms.php">Terms of Service</a>
+									<br>
+									<br>
+									<br>
+									<br>
+									<a target="_blank" title="Twitter.com" href="http://www.twitter.com"><img src="img/powered-by-twitter-sig.gif"></a>	
+								</dd>
+							</dl>
+								<ul>
+						            <li>WebSite</li>
+						            <li><a href="what.php">What is this?</a></li>
+						            <li><a href="non_profits.php">For Non Profits</a></li>
+						            <li><a href="swear_police.php">Swear Police</a></li>
+						            <li><a href="http://blog.swearjarr.com">Blog</a></li>      
+						        </ul>
+								<ul>
+						            <li>Follow Us</li>						           
+						            <li><img src="img/email_small2.png"><a href="contact.php">Contact us</a></li>
+						            <li><img src="img/twitter_small.png"><a href="http://twitter.com/swearjarr">@swearjarr</a></li>
+						            <!--<li><img src="img/facebook_small.png"><a href="http://facebook.com/swearjarr">facebook</a></li> -->        
+						        </ul>
+						</div>
+					</div>
+					<div class="clear"></div>
+				</div>
+<script type="text/javascript">
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+    try {
+    var pageTracker = _gat._getTracker("UA-1845644-8");
+    pageTracker._trackPageview();
+    } catch(err) {}
+</script>
+  
+
+	</body></html>
