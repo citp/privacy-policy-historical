@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227105146id_/http%3A//www.freeagentcentral.com/website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeagentcentral.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608060439id_/http%3A//www.freeagentcentral.com/website/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - FreeAgent Central
+# Privacy Policy - FreeAgent
 
 Maintaining your privacy is one of our core principles. You entrust us with sensitive financial information. We take that responsibility seriously.
 
-**Version 3.0:** This policy was last updated on 5th February 2008. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though. 
+**Version 3.0:** This policy was last updated on 5th February 2008. It may be updated in the future and we'll post the new version here on our website. We will never deviate from our overall philosophy, though.
 
 ## You Own and Control Your Data
 
@@ -26,8 +26,7 @@ When you sign up for an account, you provide your name, contact details (includi
   * maintain our own accounts, and for billing,
   * enable us to answer your queries,
   * verify your identity for security purposes,
-  * send you our newsletter, if you have asked us to.   
-
+  * send you our newsletter, if you have asked us to. 
 
 
 
@@ -68,7 +67,6 @@ We also reserve the right to cooperate with law enforcement officials in the inv
   * You have the right to request a copy of personal information we hold about you. To do this, simply write to us or send us an email - you'll find our contact details here. We may charge you £10 for providing this information to cover our administration costs.
   * You may unsubscribe from our email newsletter at any time by emailing or writing to us.
   * To provide the highest level of customer service we need accurate customer information. You can help by informing us whenever your circumstances change. You can ask us to correct incorrect personal information about you by writing to or emailing us.
-  * You can find detailed information about your rights under UK Data Protection legislation on the UK Information Commissioner's website at www.ico.gov.uk.   
-
+  * You can find detailed information about your rights under UK Data Protection legislation on the UK Information Commissioner's website at www.ico.gov.uk. 
 
 
