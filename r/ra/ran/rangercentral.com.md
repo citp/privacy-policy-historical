@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rangercentral.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228150229id_/http%3A//www.rangercentral.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangercentral.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608045740id_/http%3A//www.rangercentral.com/privacy.htm) for the most accurate reproduction.*
 
 # Power Rangers Central - Privacy Statement
 
