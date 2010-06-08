@@ -1,149 +1,220 @@
-> *The following text is extracted and transformed from the axainsurance.com privacy policy that was archived on 2007-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071218234051id_/http%3A//customersupport.networksolutions.com/article.php%3Fid%3D306) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the axainsurance.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608044901id_/http%3A//www.axainsurance.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - AXA Insurance
 
-#### Find Answers To Your Questions:
+  * How we use your information and who we share it with
+  * Fraud Prevention Agencies
+  * Protecting your Personal Information
+  * Use of your Personal Information
+  * Collection of Information
+  * Exchange of Information
+  * Preventing and Detecting Fraud
+  * Motor Insurance Database
+  * Additional Products
+  * Credit Reference Agencies
+  * Use of Personal Information for Marketing
+  * Dealing with other people
+  * Automatic renewals
+  * Sensitive Personal Information
+  * Cookies
+  * Further Information
 
-Search by keyword or browse by category for immediate answers to frequently asked questions: 
 
-### Privacy Policy
 
-**Why A Privacy Policy?**  
+Your privacy is important to us and we promise we will respect your personal information. We will use your information to manage your insurance with us, including underwriting, claims handling and statistical analysis. This may include disclosing your information within the AXA Group and to agents, suppliers, other insurers, or reinsurers who provide services on our behalf. 
 
-  
-Network Solutions respects your individual privacy. This Privacy Policy ('Policy') embodies our commitment to its protection through adherence to fair electronic information practices. This Policy puts you, the individual, in control of how your personal information is processed. You have our promise that we will not electronically process your personal information in any way that is incompatible with this Policy.
+We do not disclose your information to anyone outside the AXA Group except: 
 
- **This Privacy Policy protects your privacy by:**
+  * Where we have your permission; or
+  * Where we are required or permitted to do so by law; or
+  * To other companies who provide a service to us or you; or
+  * Where we may transfer rights and obligations under this agreement.
 
- **Informing you about:**
 
-  * The types of personal information Network Solutions collects about you through its Web sites; 
-  * How it collects that information; 
-  * The general purposes for which it collects such information; 
-  * The types of organizations to which it discloses the information; 
-  * The choices and means by which individuals may limit its use and disclosure. 
 
+We may transfer your information to other countries including those located outside the European Economic Area. If we do this we will seek to ensure that anyone to whom we pass it provides an adequate level of protection. 
 
+Back to top
 
-**Empowering you to choose:**
+## Fraud prevention agencies
 
-  * Whether and how certain personal information you provide is used (where such use is unrelated to the uses for which you originally disclosed it); and 
-  * Whether and the manner in which a third party uses certain personal information you provide (where such use is unrelated to the uses for which you originally disclosed it). 
+To keep premiums low we do participate in a number of industry initiatives to prevent and detect fraud. To help prevent crime we may: 
 
+  * Share information about you with other organisations and public bodies including the police;
+  * Share information about you within the AXA Group and with other insurers;
+  * Pass your details to recognised centralised insurance industry applications and claims review systems (for example the Motor Insurance Anti-Fraud and Theft Register, CUE, DVLA databases containing driver, vehicle and other information) where your details may be checked and updated;
+  * Check your details with fraud prevention agencies and databases. If you give us false or inaccurate information and we suspect fraud, we may record this with fraud prevention agencies;
+  * Search records held by fraud prevention and credit agencies to:
+  * Help make decisions about credit services for you and members of your household;
+  * Help make decisions on insurance policies and claims for you and members of your household;
+  * Trace debtors, recover debt, prevent fraud and to manage your insurance policies;
+  * Check your identity to prevent money laundering;
+  * Undertake credit searches and additional fraud searches.
 
 
-**Assuring you that Network Solutions:**
 
-  * Takes reasonable precautions to protect personal information from loss, misuse, unauthorized access, disclosure, alteration or destruction; 
-  * Implements reasonable policies and procedures to ensure that personal information is kept only for the purposes for which it has been gathered; 
-  * Uses reasonable measures to ensure that we have accurately and completely recorded the personal information you have provided; and 
-  * Provides you reasonable access to your personal information as well as procedures for correcting or modifying that information where appropriate. 
+If you would like a copy of the information we hold about you, please refer to the Further Information section below. 
 
+Back to top
 
+## Protecting your Personal Information
 
-**Ensuring accountability** to individuals who believe that Network Solutions has not complied with these privacy principles. 
+The Site is operated by Swiftcover Insurance Services Ltd ("axainsurance.com") a wholly owned subsidiary of AXA Insurance UK plc; part of the AXA Group. Further details of axainsurance.com are set out in our [Website terms of use](https://web.archive.org/terms/). In this privacy statement, "our", "we" and "us" refer to axainsurance.com. 
 
-  
-**Third Party Advertising and Cookies**
+Back to top
 
-We use third-party advertising companies to serve ads on our Web site and other Web sites. In the course of serving advertisements, these companies may place or recognize a unique 'cookie' on your hard drive, and may use information (not including your name, address, e-mail address, or telephone number) about your visits to this and other web sites in order to measure advertising effectiveness and to provide advertisements about goods and services of interest to you. For more information about this practice and to know your choices about not having your information used by these companies, please visit 
+## Use of your Personal Information
 
-[http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.net/us/corporate/privacy) and <http://www.accipiter.com/company/privacy.php>. 
+Your "personal information" means any information that you have given to us, or third parties, in connection with a service or product offered whether through use of this web site, by phone or in writing. 
 
-Network Solutions shares Web site usage information about visitors to our Web site with a reputable third-party advertising company for the purpose of targeting our Internet banner advertisements on this site and other sites. For this purpose, we and our third-party advertising company note some of the pages you visit on our Web site through the use of pixel tags (also called clear gifs). The information collected by our third-party advertising company through the use of these pixel tags is not personally identifiable. For more information about our third-party advertiser, please click here. To opt out of the targeting program, please click 
+We take your privacy very seriously and are committed to protecting your personal information. 
 
-[here](http://www.privacychoices.org/).   
-**Information Corrections or Changes**  
-You have the ability to correct or change certain information in our records, such as your address and contact information. The process for changing your information begins at <https://www.networksolutions.com/en_US/manage-it/index.jhtml>. You may change this information at any time and as often as necessary. If you need assistance or have questions about correcting information, you can contact us via e-mail at [customerservice@networksolutions.com](mailto:customerservice@networksolutions.com). 
+When you buy a product or service from us you will have access to a policy document relating to that product or service. If there is any conflict between the terms of this privacy statement and those of the specific privacy statement that applies to a particular product, then the terms of the latter will prevail. 
 
-**How We Put Information to Good Use**  
-We use information about you for purposes of monitoring and improving our internal operations, as well as to ensure we: (i) bill you properly, (ii) administer your account in accordance with your agreements with us, and (iii) properly perform the services you have requested.
+This document should be shown to anyone else who is covered by, or a party to, any services or policies you buy from us. We may make changes to this privacy statement from time to time. Such changes will be effective from the time they appear on the Site. Therefore, you should remember to check this privacy statement from time to time. 
 
-We also use the information we collect to monitor and improve our internal operations, as well as to improve the experience of users in our network of sites. For example, we may correlate Web site traffic information with data about individual users. This data helps us to determine how much our customers use parts of the site, allowing us to enhance it to fit the needs of as many of our customers as possible. We may also break down overall usage statistics according to customers' domain names, browser types, and MIME types by reading this information from the browser string (information contained in every user's browser).
+Back to top
 
-Another example of our use of information to enhance the experience of users in our network of sites is our reliance on cookie files. We use cookie files to make it easier for users to access our site or services. A cookie file is a small data file that certain Web sites write to your hard drive when you visit them. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited. However, the only personal information a cookie can contain is information you supply yourself. A cookie cannot read data off your hard disk or read cookie files created by other sites. We use cookies to track user traffic patterns (as described above) when you register for Network Solutions services. When you register, we may use a cookie to store a unique, random user ID. We use this ID to identify you anonymously in our database and to track the pages you visit on our site.
+## Collection of Information
 
-If you have set your browser to warn you before accepting cookies, you will receive the warning message with each cookie. You may refuse cookies by turning them off in your browser; however, some of our sites may require a cookie for access.
+We collect information strictly in accordance with the Data Protection Act. When we collect personal information directly from you, if you ask for a quote or purchase a product or service from us we will do our best to ensure that information is kept up to date and accurate. Please assist us in this by advising us of any changes as soon as possible. 
 
-Finally, we use the information we collect to direct important notices and information affecting your account or services, as well as to provide general information that may be of interest to you, including newsletters, surveys, contest and sweepstake announcements, and information about our service or product offerings or the offerings of our business affiliates. You may opt-out of receiving information from us simply by notifying us of your desire in accordance with the opt-out instructions contained in any information message you receive from us. Note, however, that in order to fulfill our service obligations to you, we must continue sending you notices and other important information affecting your account or services.
+We are constantly striving to improve the quality of our service and the efficiency of our systems and so, from time to time, we may use your personal information during staff training and/or system testing. 
 
- **Getting to Know Our Customers**
+Back to top
 
-Network Solutions is in the business of putting people in touch with other people. That requires more than simply offering innovative technical services. It also requires that we understand you, our customer, and your needs. Indeed, we are the Internet's leading domain name registrar because we have taken the time to get acquainted with each one of our many customers.
+## Exchange of Information
 
-We get to know you primarily through the information you provide to us when signing up for, or using, one or more of our services. The information you provide ranges from basic contact information, to payment information, to the technical coordinates of your host servers. The application for domain name registration services found at 
+At various times we will exchange personal information with certain other approved organisations for underwriting and fraud prevention purposes and we may provide such information to others where required or permitted by law. Also, your personal information will sometimes be used and analysed by us and other companies in the AXA Group for the following purposes: 
 
-[www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com) is a representative illustration of the information we request of you. All of the information we request from you when purchasing our services is obligatory unless otherwise noted on the relevant form. When you purchase our services, you agree to provide and maintain accurate, complete and updated information.
+  * Managing and administering products and services that we supply - in the case of insurance products this will include underwriting, reinsurance and claims handling purposes and may include disclosing your information to other insurers, reinsurers, regulatory authorities or to our agents who provide services on our behalf;
+  * Considering any applications for products you may make and to help in making credit-related decisions about you where appropriate;
+  * Servicing other relationships you may have within the AXA Group
+  * Financial risk assessment, money laundering checks, compliance and regulatory reporting and fraud prevention;
+  * Assisting in making decisions on insurance proposals, other products and any claims made by you, members of your household, and others connected with your insurance proposals and claims; and
+  * Helping us and the AXA Group to develop new and innovative products and services.
 
-After you have signed up for our services, we may be in communication with you about your account, technical questions you may have about services provided by us, or any other matter relating to those services. Those communications are essential to our relationship with you and to our ability to provide you with quality services that are responsive to your needs. At the same time, those communications give us helpful insights about you, your preferences and the ways in which we might improve our services. We therefore may maintain this information for future use.
 
-For operational and quality assurance purposes, we take note of whether and how you use the information and services that we provide, such as by recording site traffic patterns and by maintaining log files of users' access to site files.
 
-The information we receive from or about you is stored on systems designed to prevent the loss, misuse, unauthorized access, disclosure, alteration or destruction of that information. We also encrypt your transmission of sensitive information to us (e.g., credit card numbers, account passwords) in the interest of heightened privacy protection and information integrity. Transactions within our account manager and purchase flows use Secure Sockets Layer (SSL) encryption when transmitting data from your connection to our systems. You may click the lock icon within your web browser to verify the authenticity of any or our SSL certificates. 
+We may send data in confidence for processing to other companies within the AXA Group (or companies acting on their instructions) including those operating outside the European Economic Area. By entering your details onto our website you are consenting to such use of your personal data. 
 
-**With Whom We May Share Information**  
-Pursuant to arrangements with Internet Corporation for Assigned Names and Numbers ('ICANN'), we compile and maintain a publicly accessible registration database that includes basic information about each domain name registered with us, including the names, telephone numbers and e-mail addresses of individuals designated as points of contact for a given domain name. Whether or not applicable domain name registration fees have been paid is also publicly accessible. With the gradual continued privatization of the Domain Name System, and consistent with the rules or policies applicable to that system, or to comply with any changes in law or regulation, we may, if appropriate, take steps to restrict the accessibility and amount of personally identifying information available in the registration database
+Disclosure of your information to a third party outside of the AXA Group will only be made where the third party has agreed to keep your personal information strictly confidential and use it only for the specific purpose for which we provide it to them and: 
 
-When you register a domain name through us, we must disclose your domain name and its associated Internet Protocol ("IP") numbers to the appropriate registry in order to make your chosen domain name a functional address on the Internet. Certain registries also require that we disclose to them the names, postal addresses, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. Each registry discloses certain portions (and in some cases all) of the information we are required to provide to them about your domain name registration. For example, each registry discloses at least each registered domain name and its associated IP numbers ("TLD zone files") to TLD server administrators so that the domain name is capable of functioning as an address on the Internet. Consistent with the current rules and policies for the Domain Name System, such registries also disclose the TLD zone files to other interested persons, provided those persons agree, among other things, not to use the TLD zone files for improper purposes, including the transmission of unsolicited commercial e-mail. Similarly, each registry may compile and maintain a publicly accessible database that includes basic information about each domain name registered with that registry, including the names, telephone and fax numbers, and e-mail addresses of individuals designated as the registrant or points of contact for a given domain name. 
+  * It is necessary for the performance of an agreement we have with you;
+  * You have given your consent to the disclosure;
+  * Such disclosure is required or permitted by law;
+  * We are entitled to transfer rights and/or obligations as provided under the terms of any policy you may purchase;
+  * Any such third party provides benefits or services to you under or in connection with our agreement with you; or
+  * It is a credit reference or fraud prevention agency.
 
-We may share certain information about you with our vendors who are responsible for handling your account or performing other services that you require (including vendors who may update your credit card expiration date and credit card account number if you choose our auto-renew feature). Although we may share financial information (i.e., credit card numbers, banking information), security information (e.g., account passwords) and personal communications (e.g., personal e-mail messages or message board postings) with such vendors when necessary and appropriate, we will not share such information with any other third parties unless directed by you or except in response to formal requests in the form of a subpoena or court order issued in connection with civil or criminal proceedings related to a domain name registration or other services we provide, or in response to requests by law enforcement agencies when we suspect that you or your agent is using our services to cause harm or damage to us or others or adversely affect our ability to provide services to our customers
 
-Additionally, we may share the information stored on the publicly accessible registration database, as well as other information that is not of a sensitive nature, with carefully selected business partners, including those who offer services that complement those provided by us or which may otherwise be of interest to you. If you do not want us to share information about you with our business partners, you may opt-out of receiving this information through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/manage-it/);
+Enhancements in technology may result in changes in the way we view, record and use your personal information. If we think the changes could be to your disadvantage, we will advise you, by email and by posting a notice of amendment on the Site, at least 30 days before the changes become effective. If you then continue to use a service or product for a further 60 days we will assume you have consented to the changes. 
 
-b. Click “Edit User Info” in the left menu;
+Back to top
 
-c. Scroll to the bottom of the page;
+## Preventing and Detecting Fraud
 
-d. Select “NO” for the third statement, which reads, “I would like to receive selected and relevant information from Network Solutions partners;” and
+We may, at any time, employ the following processes and system to prevent and detect fraud. 
 
-e. Click “SAVE.”
+  * Share your information across the AXA Group, with other insurers and, where we are entitled to do so under the Data Protection Act, the police and other law enforcement agencies
+  * Pass your details to centralised insurance applications and claims checking systems by, or on behalf of, or shared with other insurers. These may include, for example, Insurance Hunter and the Claims and Underwriting Exchange Register
+  * Check your details with fraud prevention agencies and, if you give us false or inaccurate information and we suspect fraud, record this with the fraud prevention agency.
+  * We and other organisations may also use and search these records to: 
+    * Help make decisions about credit and credit-related services for you and members of your household
+    * Help make decisions on motor, household, credit, life and other insurance proposals and claims for you and members of your household;
+    * Trace people who owe money, recover debt, prevent fraud and to manage your insurance policies;
+    * Check your identity to prevent money laundering, unless you give us satisfactory proof of identity; and
+    * Carry out credit searches, electoral role searches and further fraud searches.
 
-  
-Please note, however, that consistent with the current rules and policies for the Domain Name System, information about you must remain available in the publicly accessible registration database.
 
- **How Do I Get My Name Removed from Bulk Access**  
-As noted above, we currently make certain information about you available to the general public via our domain name registration database look-up services. These services give users access to such data on a query-by-query basis. Pursuant to our arrangements with ICANN, qualified persons may also access such data on a bulk basis provided they agree, among other things, not to use the data to allow, enable or otherwise support the transmission by e-mail, telephone, or facsimile of mass, unsolicited, commercial advertising or solicitations to entities other than to such qualified persons’ own existing customers; or (ii) sell or redistribute the data to third parties, except insofar as the data is incorporated into a value-added product or service that does not permit the extraction of a substantial portion of the data. If you do not want your personal information disclosed on a bulk basis, you may opt-out of such disclosure through our Account Manager by following the instructions below:
 
-a. Log into Account Manager at [www.networksolutions.com](http://www.networksolutions.com/en_US/legal/www.networksolutions.com);
+Back to top
 
-b. Click “Edit User Info” in the left menu;
+## Motor Insurance Database
 
-c. Scroll to the bottom of the page;
+When you take out a car insurance policy, your policy details will be added to the Motor Insurance Database ("MID"), run by the Motor Insurers' Information Centre ("MIIC"). MID data may be used by the Driver and Vehicle Licensing Agency and the Driver and Vehicle Licensing Northern Ireland for the purpose of electronic vehicle licensing and by the police for the purposes of establishing whether a driver's use of a vehicle is likely to be covered by a motor insurance policy and for preventing and detecting crime. If you are involved in an accident, whether in the UK or abroad, other UK insurers, the Motor Insurers' Bureau and MIIC may search the MID to obtain relevant policy information. 
 
-d. Select “NO” for the first statement, which reads, “I choose to have my name included in the Bulk WHOIS data licensed to third parties for domains for which I am the Account Holder or Primary Contact;” and
+Persons pursuing a claim in respect of a road traffic accident (including citizens of other EU countries) may be entitled to access relevant information held about you on the MID. You can find out more about this from us, or from the [Motor Insurance Bureau](http://www.mib.org.uk/Home/en/default.htm). 
 
-e. Click “SAVE.” 
+Back to top
 
-**Our Accountability to You**  
-By purchasing our services, you obtain the protections of, and consent to the data processing practices described in, this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
+## Additional Products
 
-In addition to the privacy protections that we provide, our employees, agents and business partners are independently responsible for ensuring compliance with this Privacy Policy, as described below. 
+When you take out other policies with us, your details will be passed to the appropriate provider as shown below: 
 
-**Employee Accountability**  
-Only those Network Solutions employees that have a legitimate business purpose for accessing and handling personal information obtained by us are given authorization to do so. The unauthorized access or use of such information by a Network Solutions employee is prohibited and constitutes grounds for disciplinary action.
+  * Breakdown Claims - AXA Assistance (UK) Limited
+  * Glass Claims - Autoglass & RAC Autowindscreens
+  * Car and Home Claims - Supply & Incident Management Solutions Ltd
+  * Travel Claims - Inter Group Insurance Services Ltd
+  * Replacement Cars - Enterprise Rent A Car Ltd
 
-Additionally, our information management systems are configured in such a way as to block or inhibit employees from accessing information that they have no authority to access. 
 
-**The Accountability of Network Solutions' Agents and Business Partners**  
-Our trusted vendors and business partners are responsible for processing or handling some of the information that we receive. These vendors and business partners are not authorized to use such information for purposes beyond those specified by us and are required to preserve the confidentiality with which we treat such information.
 
-If you feel that Network Solutions, or any of our agents, representatives or employees, is violating this Privacy Policy, please contact us via e-mail at 
+Back to top
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com), by telephone at (703) 668-4600, or by postal mail at:
+## Credit Reference Agencies
 
-Network Solutions, LLC  
-Attention: General Counsel  
-13861 Sunrise Valley Dr   
-Suite 300   
-Herndon VA 20171   
-United States  
-(703) 668-4600 
+We make searches about you at credit reference agencies who will supply us with information, including information from the Electoral Register and credit information. The agencies will record details of the search whether or not this application proceeds. We may use scoring methods to assess this application and to verify your identity. Credit searches and other information which is provided to us and/or the credit reference agencies, about you and those with whom you are linked financially may be used by us if you, or other members of your household, apply for other facilities including insurance applications and claims. This information may also be used for debt tracing and the prevention of money laundering as well as the management of your account. 
 
-**Notification of Changes**  
-We will post any changes to this Privacy Policy 30 days before their effective date so you will always know what information we collect, how we use it, and under what circumstances, if any, we disclose it. You are responsible for periodically checking our web site for changes to this Privacy Policy. You may opt-out of any posted change to our collection, use or disclosure of your personal information by sending an e-mail to 
+Back to top
 
-[privacy@networksolutions.com](mailto:privacy@networksolutions.com).
+## Use of Personal Information for Marketing Purposes
 
- **If you have any questions regarding this Privacy Policy, please contact[ privacy@networksolutions.com](mailto:privacy@networksolutions.com).**
+The information you supply may be used by us, other members of the AXA Group and carefully selected Third Parties for research purposes or to inform you of other products or services that may be of interest to you, unless you have advised us otherwise. On each occasion that we contact you for these purposes, you will always be given the option to opt out of any further communication. 
+
+If you have provided your contact information to us and would prefer not to receive marketing information, or to participate in research, simply [contact us](https://web.archive.org/contact/) to let us know. 
+
+Back to top
+
+## Dealing with Other People
+
+If your spouse or partner contacts us on your behalf, due to data protection, we will be unable to answer their queries. However, if you require your spouse, partner or another third party to be able to discuss your policy, please contact the [Help Team](https://web.archive.org/contact/) and inform us of whom you would like to speak on your behalf. However, this will exclude them from being able to cancel the policy as we require to speak to the policyholder regarding cancellations. 
+
+In some exceptional circumstances we may also deal with other people who contact us on your behalf. 
+
+We will not reveal any credit or debit card numbers to anyone other than the policyholder. 
+
+Back to top
+
+## Automatic Renewals
+
+With AXA car insurance policies most customers benefit from the convenience of our automatic renewal service. This means you do not have the hassle of contacting us at renewal to pay for your next years premium, we simply email your renewal information approx. 25 days prior to your renewal date, if you're happy with it you don't need to do anything. If you do not want to renew, just [call us](https://web.archive.org/contact/) before your policy expiry date. 
+
+### How does it work?
+
+We securely retain your payment details and if you don't contact us we will renew your policy automatically for you. 
+
+### Does everyone qualify for this service?
+
+Although most customers qualify for this service, not all policies can be automatically renewed. 
+
+### How do I know if I qualify for this service?
+
+If you are unsure you can [contact us](https://web.archive.org/contact/). 
+
+Back to top
+
+## Sensitive Personal Information
+
+To provide you with some of our products or services, we may need to collect and process sensitive personal information (such as information about any criminal convictions or the state of your health) about you and others who are a party to the service or product. We will only use sensitive personal data for the specific purpose for which you provide it. Please ensure that you only provide us with sensitive information about other people with their express agreement. 
+
+Back to top
+
+## Cookies
+
+A cookie is a piece of information stored on the hard drive of a computer by a web server to enhance and simplify a website user's experience by identifying a user if he or she has previously accessed that website. Cookies are commonly used on the Internet and cannot harm a user's computer system. You can find out more about the way cookies work on [cookie central](http://www.cookiecentral.com/). 
+
+The cookies used on the Site do not include any information that others could read and understand about you such as your name or any account or policy number. They contain no personal information about you. 
+
+Most Internet browsers allow you to turn off the cookie function. If you want to know how to do this please look at the help menu on your browser. However this will restrict the services you can use. 
+
+Back to top
+
+## Further Information
+
+You should be aware that any telephone calls made to us may be recorded for monitoring and training purposes and to assist us in preventing and detecting fraud. Therefore, your use of this means of communication means that you accept and consent to this. 
+
+Under the terms of the Data Protection Act (1998) you are entitled to request a copy of the personal data we hold about you. We reserve the right to charge a fee of £10 for this service. Please contact the Data Protection Officer by email at [info@axainsurance.com](mailto:info@axainsurance.com) or in writing to Data Protection, AXA Insurance, PO Box 925, 9 Fudan Way, Stockton-On-Tees, TS19 1NL. 
+
+Back to top
