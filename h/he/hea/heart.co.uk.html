@@ -1,521 +1,640 @@
-<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2007-01-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070104021356id_/http%3A//www.heart1062.co.uk/article.asp%3Fid%3D27079) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the heart.co.uk privacy policy that was archived on 2010-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608194508id_/http%3A//www.heart.co.uk/privacy-policy) for the most accurate reproduction.-->
 
-<html><head><script language="JAVASCRIPT" src="/jsfiles/incDynamicMenus.js"></script>
-
-<script language="JAVASCRIPT" type="text/JavaScript">
-/************************************
- BUILD THE DATA ARRAYS FOR THE MENUS
-************************************/
-// Menu Item Object
-function objMenuItem(sHTML, sURL, sTarget) {
-	if (sTarget == null) sTarget = "";
-
-	this.sHTML = sHTML;
-	this.sURL = sURL;
-	this.sTarget = sTarget;
-}
-// Create the Menu Arrays
-var aryMenu1 = new Array();
-aryMenu1[0] = new objMenuItem('Home','/default.asp');
-aryMenu1[1] = new objMenuItem('On Air','');
-aryMenu1[2] = new objMenuItem('Win','');
-aryMenu1[3] = new objMenuItem('What\'s Happening','');
-aryMenu1[4] = new objMenuItem('Dating','http://www.heartdating.com/heart1062.htm');
-aryMenu1[5] = new objMenuItem('Shop','');
-aryMenu1[6] = new objMenuItem('VIPs','');
-aryMenu1[7] = new objMenuItem('Contact Us','/contactus.asp');
-var aryMenu1_2 = new Array();
-aryMenu1_2[0] = new objMenuItem('DJ Pages','/sectional.asp?id=3334');
-aryMenu1_2[1] = new objMenuItem('Breakfast','/sectional.asp?id=3476');
-aryMenu1_2[2] = new objMenuItem('Drivetime','/sectional.asp?id=7262');
-aryMenu1_2[3] = new objMenuItem('Time Tunnel','/article.asp?id=63286');
-aryMenu1_2[4] = new objMenuItem('Club Classics','/article.asp?id=62963');
-aryMenu1_2[5] = new objMenuItem('The A List','http://www.heart1062.co.uk/goout.asp?u=http://www.thealist.co.uk/');
-aryMenu1_2[6] = new objMenuItem('Schedule','/schedule.asp');
-aryMenu1_2[7] = new objMenuItem('News','/sectional.asp?id=1190');
-aryMenu1_2[8] = new objMenuItem('Travel','/sectional.asp?id=1190');
-aryMenu1_2[9] = new objMenuItem('Showbiz','/sectional.asp?id=1191');
-aryMenu1_2[10] = new objMenuItem('Listen Live','/article.asp?id=66804');
-aryMenu1_2[11] = new objMenuItem('DAB Digital Radio','/Article.asp?id=65994');
-aryMenu1_2[12] = new objMenuItem('Heart on Freeview','/Article.asp?id=321628');
-var aryMenu1_3 = new Array();
-aryMenu1_3[0] = new objMenuItem('Win & Buy Tickets','/sectional.asp?id=3267');
-aryMenu1_3[1] = new objMenuItem('Contests Page','/sectional.asp?id=3432');
-aryMenu1_3[2] = new objMenuItem('Terms & Conditions','/Article.asp?id=302903');
-var aryMenu1_4 = new Array();
-aryMenu1_4[0] = new objMenuItem('Heart Dating','http://www.heartdating.com/heart1062.htm');
-aryMenu1_4[1] = new objMenuItem('Hotcourses','/Article.asp?id=26183');
-aryMenu1_4[2] = new objMenuItem('Ground Patrol','/sectional.asp?id=7423');
-aryMenu1_4[3] = new objMenuItem('Your Community','/sectional.asp?id=3261');
-aryMenu1_4[4] = new objMenuItem('Time Tunnel Challenge','/Article.asp?id=300933');
-aryMenu1_4[5] = new objMenuItem('Photo Gallery','http://www.heart1062.co.uk/Photogallery.asp');
-var aryMenu1_6 = new Array();
-aryMenu1_6[0] = new objMenuItem('Buy Tickets','/Article.asp?id=68502');
-aryMenu1_6[1] = new objMenuItem('Books','/Article.asp?id=322912');
-aryMenu1_6[2] = new objMenuItem('CDs','/Article.asp?id=322564');
-aryMenu1_6[3] = new objMenuItem('DVDs','/Article.asp?id=322580');
-aryMenu1_6[4] = new objMenuItem('Heart Mobile','/sectional.asp?id=3467');
-aryMenu1_6[5] = new objMenuItem('DAB Digital Radio','/Article.asp?id=65994');
-aryMenu1_6[6] = new objMenuItem('Heart Dating','http://www.heartdating.com/heart1062.htm');
-aryMenu1_6[7] = new objMenuItem('Time Tunnel Challenge','/Article.asp?id=300933');
-var aryMenu1_7 = new Array();
-aryMenu1_7[0] = new objMenuItem('VIP Club Info','/Article.asp?id=146254');
-aryMenu1_7[1] = new objMenuItem('VIP Login','/els/elsloginfrm.asp');
-var aryMenu1_8 = new Array();
-aryMenu1_8[0] = new objMenuItem('Contact Us','/contactus.asp');
-aryMenu1_8[1] = new objMenuItem('Advertising info','/article.asp?id=25980');
-aryMenu1_8[2] = new objMenuItem('Ofcom Public Files','/Article.asp?id=237338');
-var aryMenu2 = new Array();
-aryMenu2[0] = new objMenuItem('Home','/');
-aryMenu2[1] = new objMenuItem('On Air','');
-aryMenu2[2] = new objMenuItem('Win','');
-aryMenu2[3] = new objMenuItem('What\'s Happening','');
-aryMenu2[4] = new objMenuItem('Shop','');
-aryMenu2[5] = new objMenuItem('VIPs','');
-aryMenu2[6] = new objMenuItem('Contact Us','');
-var aryMenu2_7 = new Array();
-aryMenu2_7[0] = new objMenuItem('Contact Us','/contactus.asp');
-aryMenu2_7[1] = new objMenuItem('VIPs','/els/');
-aryMenu2_7[2] = new objMenuItem('Heart on Freeview','/Article.asp?id=321628');
-var aryMenu3 = new Array();
-aryMenu3[0] = new objMenuItem('Home','default.asp');
-aryMenu3[1] = new objMenuItem('On Air','schedule.asp');
-aryMenu3[2] = new objMenuItem('Staying In','sectional.asp?ID=12161');
-aryMenu3[3] = new objMenuItem('Going Out','sectional.asp?ID=12161');
-aryMenu3[4] = new objMenuItem('Picture Gallery','photowall.asp');
-aryMenu3[5] = new objMenuItem('Showbiz News','sectional.asp?ID=12161');
-aryMenu3[6] = new objMenuItem('Heart Dating','sectional.asp?ID=12161');
-aryMenu3[7] = new objMenuItem('Your Heart FM','sectional.asp?ID=12161');
-aryMenu3[8] = new objMenuItem('Competitions','sectional.asp?ID=12161');
-var aryMenu3_2 = new Array();
-aryMenu3_2[0] = new objMenuItem('Schedule','schedule.asp');
-aryMenu3_2[1] = new objMenuItem('DJ Pages','sectional.asp?ID=12160');
-aryMenu3_2[2] = new objMenuItem('On Air Subnav 3','default.asp');
-aryMenu3_2[3] = new objMenuItem('Sample Article','article.asp?ID=322171');
-var aryMenu3_3 = new Array();
-aryMenu3_3[0] = new objMenuItem('Staying Out Subnav 1','article.asp');
-aryMenu3_3[1] = new objMenuItem('Staying Out Subnav 2','article.asp');
-aryMenu3_3[2] = new objMenuItem('Staying Out Subnav 3','article.asp');
-var aryMenu3_4 = new Array();
-aryMenu3_4[0] = new objMenuItem('Going Out Subnav 1','article.asp');
-aryMenu3_4[1] = new objMenuItem('Going Out subnav 2','article.asp');
-aryMenu3_4[2] = new objMenuItem('Going Out Nav 3','/article.asp');
-var aryMenu3_5 = new Array();
-aryMenu3_5[0] = new objMenuItem('Picture Gallery Subnav 1','PhotoWall.asp?id=2636');
-aryMenu3_5[1] = new objMenuItem('Picture Gallery Subnav 2','PhotoWall.asp?id=2636');
-aryMenu3_5[2] = new objMenuItem('Picture Gallery Subnav 3','PhotoWall.asp?id=2636');
-var aryMenu3_7 = new Array();
-aryMenu3_7[0] = new objMenuItem('Heart Dating Subnav 1','article.asp');
-aryMenu3_7[1] = new objMenuItem('Heart Dating Subnav 2','article.asp');
-aryMenu3_7[2] = new objMenuItem('Heart Dating Subnav 3','article.asp');
-var aryMenu3_8 = new Array();
-aryMenu3_8[0] = new objMenuItem('Your Heart Subnav 1','article.asp');
-aryMenu3_8[1] = new objMenuItem('Your Heart Subnav 2','article.asp');
-aryMenu3_8[2] = new objMenuItem('Your Heart Subnav 3','article.asp');
-var aryMenu3_9 = new Array();
-aryMenu3_9[0] = new objMenuItem('Competitions Subnav 1','article.asp');
-aryMenu3_9[1] = new objMenuItem('Competitions Subnav 2','article.asp');
-aryMenu3_9[2] = new objMenuItem('Competitions Subnav 3','article.asp');
-
-</script>
-
-
-
-<!-- No Tacoda Tag -->
-<title>Heart 106.2</title>
-<meta name="description" content="Heart 106.2, More Music Variety.  Heart 106.2 features music events, showbiz news, contests, concerts, clubs and more!">
-<meta name="keywords" content="london radio, london music, london, heart 106.2 fm, 106.2, jamie theakston, harriet scott, jamie and harriet, toby anstis, emma b, nick snaith, showbiz, celebrities, music, gossip, hula, hula hoop, hulaing, hula hooping, music, ">
-<meta name="MSSmartTagsPreventParsing" content="TRUE">
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-
-<script language="JAVASCRIPT">
-<!--
-//256x360
-function openWin(){}
-function openWin(v,w,h){
-  if (v != null && v !=''){
-       x='/popup.asp?id='+v;  
-  theWin = window.open(x, "newWin", "width="+ w +",height="+ h +",top=100,scrollbars=yes,center=no,location=no,toolbars=no,status=no")
-  theWin.focus;}
-}
-//-->
-</script>
-
-
-<link href="/stylesheets/schedule.css" rel="stylesheet" type="text/css">
-<link href="/stylesheets/bs-sectional4.css" rel="stylesheet" type="text/css">
-<link href="/stylesheets/bs-sectional1.css" rel="stylesheet" type="text/css">
-<link href="/udf/styles.css" rel="stylesheet" type="text/css" id="NavStyles">
-<style>
-.artLink {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	color: #FFFFFF;
-	text-decoration: underline;
-	padding: 5px;
-}
-.artLink:link {
-	font-family: Verdana, Arial, Helvetica, sans-serif;
-	font-size: 11px;
-	color: #FFFFFF;
-	text-decoration: underline;
-	padding: 5px;
-}
-</style>
-
-<script language="JAVASCRIPT"><!--
-document.write('<S'+'CRIPT src=http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ihrt.js?Mode=HTML&fightcache=' + (new Date()).getTime() + '></'+'scr'+'ipt>');
-// --> 
-</script><script src="http://media.radcity.net/imch/nowplaying/nowplayingnonflash_ihrt.js?Mode=HTML&amp;fightcache=1580474546108"></script>
-</head>
-
-<body onload="funPositionMenus();" bgcolor="#FFFFFF" leftmargin="10" topmargin="10" marginwidth="10" marginheight="10">
-
-<div align="left">
-<table width="945" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr align="left" valign="top"> 
-      <td width="760">
-
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	 <td width="259" height="126" rowspan="2" align="left" valign="top"><a href="/default.asp"><img src="/images/g_logo-1062.gif" width="259" height="126" alt="Home Page" border="0"></a></td>
-	 <td height="62" align="left" valign="top"><a target="_blank" href="/ad/click.asp?adID=44857&amp;adRunID=55537"><img src="http://images.radcity.net/5565/1735784.gif" class="cgBannerAd" border="0" alt="www.peugeot.co.uk"></a><!--<img src="/images/01_banner.gif" width="468" height="60" class="cgBannerAd">--></td>
-	</tr>
-	<tr>
-	 <td align="left" valign="top"><table width="501" border="0" cellspacing="0" cellpadding="0">
-		 <tbody><tr align="left" valign="top">
-			<td width="259"><table width="248" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr align="left" valign="top">
-				 <td height="8" colspan="3"><img src="/images/trans.gif" width="248" height="8"></td>
-				</tr>
-				<tr align="left" valign="top">
-				 <td width="47"><img src="/images/g_subhead_keyword.gif" width="47" height="15" alt="Search"></td>
-				 
-	<script language="Javascript">
-	<!--
-	function ValidateKeyForm()
-	{
-		isOK = true;
-		if (isOK && (document.formKeyForm.searchstring.value.length < 1)) {
-			alert("Please enter a valid Keyword.");
-			document.formKeyForm.searchstring.focus();
-			isOK = false;
-		}
-		return isOK
-	}
-	//-->
-	</script>
-	<form method="get" action="/SearchResults.asp" name="formKeyForm" onsubmit="return ValidateKeyForm();"></form><input type="hidden" name="search" value="1">
-	<td width="95"><input name="searchstring" type="text" class="cgKeywordInput" value="keyword search" maxlength="35" onclick="document.formKeyForm.searchstring.value=''"></td>
-	<td width="108"><input type="image" src="/images/g_button_keyword.gif" width="108" height="15" id="image1" name="image1" alt="submit"></td>
-    
-				</tr>
-				<tr align="left" valign="top">
-				 <td colspan="3">
-<a class="cgViewText" href="javascript:gohere('dis','/article.asp?id=27079')">View text version</a>
-<br><img src="/images/trans.gif" width="248" height="22"></td>
-				</tr>
-			 </tbody></table></td>
-			<td width="253">
-	<table width="253" border="0" cellspacing="0" cellpadding="0">
-	<form action="/els/elsLoginPrc.asp" method="POST" name="elsLoginForm" id="els" onsubmit="return funValLogin();"></form>
-	<input type="hidden" value="/article.asp?id=27079" name="fldDestination">
-	<input type="hidden" value="" name="Action">
-		<tbody><tr>
-			<td align="left" valign="top"><img src="/images/trans.gif" width="253" height="8"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top">
-				<table border="0" cellspacing="0" cellpadding="0">
-
-					<tbody><tr align="left" valign="top">
-					   <td width="66"><img src="/images/g_subhead_club.gif" width="66" height="15" alt="VIPs Login"></td>
-					   <td width="76"><input type="text" maxlength="75" name="fldUserName" value="email address" class="cgClubEmail" onfocus="document.els.fldUserName.value=''"></td>
-					   <td width="3"><img src="/images/trans.gif" width="3" height="15"></td>
-					   <td width="51"><input type="password" maxlength="25" name="fldPassword" value="password" class="cgClubPass" onfocus="document.els.fldPassword.value=''"></td>
-					   <td width="27"><input type="image" src="/images/g_button_club.gif" border="0" width="27" height="15" alt="Submit" id="image1" name="image1"></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td align="left" valign="top"><img src="/images/trans.gif" width="253" height="3"></td>
-		</tr>
-		<tr>
-			<td align="left" valign="top"><table border="0" cellspacing="0" cellpadding="0">
-					 <tbody><tr align="left" valign="top">
-						<td width="84" class="cgClubPadding"><a href="Javascript:document.elsLoginForm.Action.value='register';document.elsLoginForm.submit();"><img src="/images/g_subhead_join-club.gif" width="84" height="14" border="0" alt="Join VIP Club"></a></td>
-						<td width="74" class="cgClubPadding"><a href="Javascript:document.elsLoginForm.Action.value='register';document.elsLoginForm.submit();"><img src="/images/g_club_sign-up.gif" width="70" height="14" border="0" alt="Signup"></a></td>
-						<td><input type="checkbox" name="fldSaveLogin" id="fldSaveLogin" value="1"></td>
-						<td width="70" class="cgClubPadding"><img src="/images/g_club_save-login.gif" width="70" height="14" alt="Save my login">
-						</td></tr>
-					</tbody></table>
-
-			</td>
-		</tr>
-	
-	</tbody></table>
-	<script language="Javascript">
-	<!--
-	function funValLogin()
-	{
-		var objForm = document.elsLoginForm;
-		var isOK = true;
-		if (isOK && ! (objForm.fldUserName.value.search(/^\w+((-\w+)|(\.\w+))*\@[A-Za-z0-9]+((\.|-)[A-Za-z0-9]+)*\.[A-Za-z0-9]+$/) != -1)) {
-			alert("Please enter a valid Email Address.\n\r A valid email address should look like yourname@yourdomain.com");
-			objForm.fldUserName.focus();
-			isOK = false;
-		}
-		if (isOK && (objForm.fldPassword.value.length < 1)) {
-			alert("Please enter a valid Password.");
-			objForm.fldPassword.focus();
-			isOK = false;
-		}
-		return isOK
-	}
-
-	function funLoginPass()
-	{
-		var objForm = document.elsLoginForm;
-
-		if (objForm.fldUserName.value.length < 1) {
-			alert("Please enter a valid Email Address to send your password to.");
-			objForm.fldUserName.focus();
-		}
-		else {
-			objForm.Action.value='mailpass';
-			objForm.submit();
-		}
-	}
-	//-->
-	</script>
-</td>
-		 </tr>
-		</tbody></table></td>
-	</tr>	
- </tbody></table>
- <table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	 <td height="27" align="right" valign="top" bgcolor="#7F8487">
-		<script language="JAVASCRIPT">
-<!--
-// Function That Initiates the LEFT MENU
-funCreateNavigation(1);
--->
-</script><noscript></noscript>
-	 </td>
-	</tr>	
- </tbody></table>
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	 <td width="254" height="62" align="left" valign="top">&nbsp;</td>
-	 <td width="253" align="left" valign="top"><table width="253" height="62" border="0" cellpadding="0" cellspacing="0">
-		 <tbody><tr align="left" valign="top">
-			<td><table width="253" height="62" border="0" cellpadding="0" cellspacing="0">
-				<tbody><tr align="left" valign="top">
-				 <td colspan="2"><img src="/images/g_subhead_now-playing.gif" width="167" height="24"></td>
-				</tr>
-				<tr align="left" valign="top">
-				 <td width="40" height="17"><img src="/images/g_subhead_song.gif" width="40" height="17"></td>
-				 <td width="213" class="cgNowPlaying"><script language="JavaScript">
-	<!--
-	var jsSongTitle = HeartLNTitle;
-	document.write(HeartLNTitle);
-	//-->
-	</script></td>
-				</tr>
-				<tr align="left" valign="top">
-				 <td width="40" height="21"><img src="/images/g_subhead_artist.gif" width="40" height="21"></td>
-				 <td width="127" class="cgNowPlaying"><script language="JavaScript">
-	<!--
-	var jsArtist = HeartLNArtist;
-	document.write(HeartLNArtist);
-	//-->
-	</script></td>
-				</tr>
-			 </tbody></table></td>
-		 </tr>
-		</tbody></table></td>
-	 <td width="253" align="left" valign="top"><table width="253" height="62" border="0" cellpadding="0" cellspacing="0"><tbody><tr align="left" valign="top">
-<td width="101" rowspan="2"><img src="http://images.radcity.net/5565/921236.jpg" width="101" height="62" alt="Gareth" john="" at="" the="" weekend=""><br><img src="/images/trans.gif" width="101" height="1" border="0"><br></td>
-<td><img src="/images/g_subhead_on-air.gif" width="88" height="19" alt="On Air Now"><a href="/showdj.asp?DJID=26287" class="cgDjLink"></a></td></tr><tr align="left" valign="top"><td class="cgDjText">Gareth John at the weekend<br>
-		<script language="JavaScript">
-		<!--	
-		document.write(HeartLNTimes);
-		//-->
-		</script>
-		<br><img src="/images/trans.gif" width="101" height="5"><br><a href="/showdj.asp?DJID=26287" class="cgDjLink">details</a></td></tr></tbody></table>
-
-	<script language="JavaScript">
-	<!--
-		var currentDJID = "26287";
-		var jsDJID = HeartLNDJID;
-		if (currentDJID != jsDJID) {
-			//time to reset djid application variable
-			//check reset value so we don't end up with endless redirects just in case
-			
-			var thisPage = document.location.href;
-			//send to djprc.asp to reset application variable
-			document.location.href = "/djprc.asp?djid=" + jsDJID + "&rurl=" + thisPage;
-			
-		}
-		
-	//-->
-	</script>
-	</td>
-	</tr>	
- </tbody></table> 
- <table width="760" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td><img src="/images/trans.gif" width="700" height="1" border="0"></td></tr></tbody></table>
- <table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>	 
-	 
-	 <td align="left" valign="top">
-	 
-<script language="JAVASCRIPT" type="text/JavaScript">
-function funListenLive() {
-	document.write ("<a href=http://exodus.interoutemediaservices.com/livestreams/chrysalis/cpg/heart1062/stream.asp?tk=1Vw8Jr39yAg=ZtVGojU60GEDvK2hcEusQbjDa4M=*2><img src=http://images.radcity.net/5565/910371.gif border=0 align=right vspace=3 hspace=5 alt=Listen_Live></a>")
-}
-</script>
-
-<table width="760" border="0" cellspacing="0" cellpadding="0">
-		 <tbody><tr align="left" valign="top">
-			<td width="606" class="artBackDarkBlue">
-			<table width="606" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-				 <td align="left" valign="top" class="artBackDarkBlue2">
-				 <table width="606" border="0" cellspacing="0" cellpadding="0">
-					 <tbody><tr align="left" valign="top">
-				 		<td colspan="3"><img src="/images/trans.gif" width="606" height="18"></td>
-					 </tr>
-					 <tr align="left" valign="top">
-				 		<td width="15"><img src="/images/trans.gif" width="15" height="50"></td>
-						<td width="596" valign="top">
-<font class="Headline">Privacy Policy</font><br><br>
-<font class="Text"><p><font class="gBody"><font color="#ffffff"><font size="1"><font face="Verdana"><strong>General </strong><br><br>Heart 106.2 has structured its web site so that, in general, you can visit the website without identifying yourself or revealing any personal information. This privacy policy explains what we do with the personal information you choose to give us. This policy only applies to the Heart 106.2 site and not to the companies, individuals, organisations or other websites that may be linked to our site. By giving us your personal information, you consent to this information being used in accordance with this policy. Any changes to this policy will be posted on our website. <br><br><b>How we look after your information</b> <br><br>Heart 106.2 is committed to ensuring that your information is as safe as possible. We have strict security procedures covering the storage and disclosure of your information in order to prevent unauthorised access and to comply with UK Data Protection laws. <br><br><b>When and why do we collect information? </b><br><br>Unless you permit us, only authorised Heart 106.2 and First Media Works employees are permitted to have access to your personal information if their job requires them to. <br><br>When you register with us to join the Heart 106.2 Loyal Listener Club we will collect your contact information (such as your name, postal, and e-mail address). If you register for the Loyal Listener Club we will not share your information with any third party. <br><br>We use your contact information to send you information about our company, products or services in which we think you might be interested, or to contact you when necessary. From time to time, we may also use your information to contact you contact you to invite you to take part in optional research about the website or the station <br><br>If you request certain products or services we will need to share your personal information with the company or organisation providing this product or service. We may also share your information with our subsidiaries, parent company, or our successor in business. <br><br>We will also collect your contact information when you enter the competitions we run on our site. If you provide us with your details in this way, we may share your information with third parties, as detailed below. If you are happy for us to share your information with third parties, please tick the relevant box when you send us your details at that time. <br><br>We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our IT systems properly or to protect ourselves or our users. <br><br>If you believe that any information we are holding on you is incorrect or incomplete, please e-mail us as soon as possible so that we may correct this [link to address]. <br><br><b>Unsubscribe</b> <br><br>If at any time you wish to unsubscribe to the Loyal Listener Club then please </font></font></font><a href="http://www.heart1062.co.uk/els/elsloginfrm.asp" target="_blank"><font face="Verdana" color="#ffff00" size="1">click here</font></a><font face="Verdana" color="#ffffff" size="1">. Login to the club with your user name and password. Once logged in to the club look for the option <b>"Update Your Contact Information"</b> and uncheck these two fields: <b>"I want to join the Loyal Listener Club"</b> and <b>"OK to send me email"</b> then click the <b>"Save My Changes"</b> option at the bottom of the page.</font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1"><strong>Heart Network</strong></font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1">For this information as relates to other&nbsp;radio stations across the Heart Network, use the following links: <a href="/goout.asp?u=http://www.106fm.co.uk/article.asp?id=92836">Heart 106</a>, <a href="/goout.asp?u=http://www.heart1007.co.uk/article.asp?id=114570">Heart 100.7</a>, <a href="/goout.asp?u=http://www.heartdigital.co.uk/index.htm">Heart Digital</a>
-</font></font></p><p><font class="gBody"><font face="Verdana" color="#ffffff" size="1">
-
-</font><br></font></p></font>
-<br><font class="Text"></font>
-
-						</td>
-						<td width="15"><img src="/images/trans.gif" width="15" height="50"></td>
-						</tr>
-						<tr align="left" valign="top">
-						<td colspan="3"><img src="/images/trans.gif" width="606" height="18"></td>
-						</tr>
-						</tbody></table>
-						 </td>
-				</tr>
-			 </tbody></table></td>
-
-	<td width="8"><img src="/images/trans.gif" width="2" height="100" border="0"></td>
-			<td width="126" valign="top"><table width="126" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-				 <td align="center" valign="middle" class="cg600x120border">
-	<table border="0" cellpadding="0" cellspacing="0" class="tileadsMainTable">
-		<tbody><tr>
-		 <td class="tileadsBackground">
-		   <table border="0" cellpadding="0" cellspacing="0" class="tileadsTable">
-			 <tbody><tr>
-				<td colspan="3" class="tileadsTopCapBg"><table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					 <td class="tileadsTableTitle"></td>
-					 <td class="tileadsTopCapRight"><img src="images/trans.gif" width="1" height="1"></td>
-					</tr>
-				</tbody></table></td>
-			 </tr>
-			 <tr>
-				<td class="tileadsTableLeft"><img src="images/trans.gif" width="1" height="1"></td>
-				<td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-					<tbody><tr><td align="center"><a target="_blank" href="/ad/click.asp?adID=45242&amp;adRunID=55941"><img src="http://images.radcity.net/5565/1749054.gif" border="0" alt="makes a great start to your day"></a></td></tr>
-
-				</tbody></table></td>
-				<td class="tileadsTableRight"><img src="images/trans.gif" width="1" height="1"></td>
-			 </tr>
-			 <tr>
-				<td colspan="3" class="tileadsBottomCapBg"><table border="0" cellpadding="0" cellspacing="0">
-					<tbody><tr>
-					 <td class="tileadsTableFooter"><img src="images/trans.gif" width="1" height="1"></td>
-					 <td class="tileadsBottomCapRight"><img src="images/trans.gif" width="1" height="1"></td>
-					</tr>
-				</tbody></table></td>
-			 </tr>
-		  </tbody></table></td>
-		</tr>
-	</tbody></table>
-</td>
-				</tr>
-			 </tbody></table></td>
-		 </tr>
-</tbody></table>
-
- </td>
-	</tr>
- </tbody></table>
- <table width="760" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-	 <td height="58" align="left" valign="middle" class="cgCopyrightBackground">
-	 <table width="760" border="0" cellspacing="0" cellpadding="0">
-		 <tbody><tr align="left" valign="top">
-			<td width="25"><img src="/images/trans.gif" width="25" height="25"></td>
-			<form action="/default.asp" method="post" target="_top" id="siteIndexForm" name="siteIndexForm"></form>
-			<td width="229">
-				
-<select name="u" class="footerSiteIndex" onchange="submit();"><option>site index</option><option value="/default.asp">home</option><option value="">on air</option><option value="/sectional.asp?id=3334">&nbsp;&nbsp;&nbsp;&nbsp;• dj pages</option><option value="/sectional.asp?id=3476">&nbsp;&nbsp;&nbsp;&nbsp;• breakfast</option><option value="/sectional.asp?id=7262">&nbsp;&nbsp;&nbsp;&nbsp;• drivetime</option><option value="/article.asp?id=63286">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel</option><option value="/article.asp?id=62963">&nbsp;&nbsp;&nbsp;&nbsp;• club classics</option><option value="http://www.heart1062.co.uk/goout.asp?u=http://www.thealist.co.uk/">&nbsp;&nbsp;&nbsp;&nbsp;• the a list</option><option value="/schedule.asp">&nbsp;&nbsp;&nbsp;&nbsp;• schedule</option><option value="/sectional.asp?id=1190">&nbsp;&nbsp;&nbsp;&nbsp;• news</option><option value="/sectional.asp?id=1190">&nbsp;&nbsp;&nbsp;&nbsp;• travel</option><option value="/sectional.asp?id=1191">&nbsp;&nbsp;&nbsp;&nbsp;• showbiz</option><option value="/article.asp?id=66804">&nbsp;&nbsp;&nbsp;&nbsp;• listen live</option><option value="/Article.asp?id=65994">&nbsp;&nbsp;&nbsp;&nbsp;• dab digital radio</option><option value="/Article.asp?id=321628">&nbsp;&nbsp;&nbsp;&nbsp;• heart on freeview</option><option value="">win</option><option value="/sectional.asp?id=3267">&nbsp;&nbsp;&nbsp;&nbsp;• win &amp; buy tickets</option><option value="/sectional.asp?id=3432">&nbsp;&nbsp;&nbsp;&nbsp;• contests page</option><option value="/Article.asp?id=302903">&nbsp;&nbsp;&nbsp;&nbsp;• terms &amp; conditions</option><option value="">what's happening</option><option value="http://www.heartdating.com/heart1062.htm">&nbsp;&nbsp;&nbsp;&nbsp;• heart dating</option><option value="/Article.asp?id=26183">&nbsp;&nbsp;&nbsp;&nbsp;• hotcourses</option><option value="/sectional.asp?id=7423">&nbsp;&nbsp;&nbsp;&nbsp;• ground patrol</option><option value="/sectional.asp?id=3261">&nbsp;&nbsp;&nbsp;&nbsp;• your community</option><option value="/Article.asp?id=300933">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel challenge</option><option value="http://www.heart1062.co.uk/Photogallery.asp">&nbsp;&nbsp;&nbsp;&nbsp;• photo gallery</option><option value="http://www.heartdating.com/heart1062.htm">dating</option><option value="">shop</option><option value="/Article.asp?id=68502">&nbsp;&nbsp;&nbsp;&nbsp;• buy tickets</option><option value="/Article.asp?id=322912">&nbsp;&nbsp;&nbsp;&nbsp;• books</option><option value="/Article.asp?id=322564">&nbsp;&nbsp;&nbsp;&nbsp;• cds</option><option value="/Article.asp?id=322580">&nbsp;&nbsp;&nbsp;&nbsp;• dvds</option><option value="/sectional.asp?id=3467">&nbsp;&nbsp;&nbsp;&nbsp;• heart mobile</option><option value="/Article.asp?id=65994">&nbsp;&nbsp;&nbsp;&nbsp;• dab digital radio</option><option value="http://www.heartdating.com/heart1062.htm">&nbsp;&nbsp;&nbsp;&nbsp;• heart dating</option><option value="/Article.asp?id=300933">&nbsp;&nbsp;&nbsp;&nbsp;• time tunnel challenge</option><option value="">vips</option><option value="/Article.asp?id=146254">&nbsp;&nbsp;&nbsp;&nbsp;• vip club info</option><option value="/els/elsloginfrm.asp">&nbsp;&nbsp;&nbsp;&nbsp;• vip login</option><option value="/contactus.asp">contact us</option><option value="/contactus.asp">&nbsp;&nbsp;&nbsp;&nbsp;• contact us</option><option value="/article.asp?id=25980">&nbsp;&nbsp;&nbsp;&nbsp;• advertising info</option><option value="/Article.asp?id=237338">&nbsp;&nbsp;&nbsp;&nbsp;• ofcom public files</option></select>
-			</td>
-			
-			<td class="Copyright"><font class="Copyright">Copyright © 2007 Heart 106.2 and <a class="CopyrightLink" href="Javascript:displayNotice();">MediaSpan</a><br><a class="CopyrightLink" target="_blank" href="http://www.mediaspanonline.com/poweredby/default.asp?d=www.heart1062.co.uk">Powered by MediaSpan Online</a></font><script language="Javascript">
-<!--
-function displayNotice() {
-	noteWin = window.open("http://mediaspanonline.com/PopUpCopyrightNotice.asp?d=www.heart1062.co.uk", "noteWindow", "location=no,status=no,toolbar=no,menubar=no,width=520,height=500,scrollbars=yes,resizable=yes");
-	noteWin.focus();
-}
-//-->
-</script></td>
-			<td align="right"><a class="cgPrivacyPolicy" href="/article.asp?id=27079">Privacy Policy</a></td>
-			<td width="10"><img src="/images/trans.gif" width="10" height="25"></td>
-		 </tr>
-		</tbody></table></td>
-	</tr>
- </tbody></table><!--653or 62.5%-->
- <div id="Layer1" style="position:absolute; left: 10px; align:left; top:166px; width:100%; height:62; z-index:0; visibility: inherit;">
-	<table cellpadding="0" cellspacing="0" border="0" width="760">
-	<tbody><tr><td width="507" align="left" valign="top">
-	<table width="254" border="0" cellspacing="0" cellpadding="0">
-		 <tbody><tr align="left" valign="top">
-			<td width="31"><img src="/images/trans.gif" width="31" height="1"><br><img src="/images/g_heart-animated.gif" width="31" height="61"></td>
-			<td valign="top"><img src="/images/trans.gif" width="86" height="1"><br><a href="/article.asp?id=66804"><img src="/images/g_subhead_listen-live.gif" width="86" height="22" border="0" alt="Listen Live"></a></td>
-		 </tr>
-		</tbody></table></td>
-		<td width="101">
-	<table width="101" height="62" border="0" cellpadding="0" cellspacing="0">
-	 <tbody><tr>
-		<td align="left" valign="top"><img src="/images/g_dj_lower-right-corner.gif" width="101" height="62" border="0"></td>
-	 </tr>
-	</tbody></table>
-	</td>
-	<td width="152" align="right" valign="top"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td valign="bottom" align="left" height="62" width="68"><a href="/showdj.asp?DJID=26287"><img src="/images/trans.gif" width="60" height="12" border="0"></a></td><td valign="top" align="right"><img src="/images/trans.gif" width="64" height="2" border="0"><br><a href="/showdj.asp?DJID=26287"><img src="/images/g_subhead_email.gif" width="64" height="19" border="0" alt="Email"></a></td></tr></tbody></table>
-	</td>
-	</tr></tbody></table>
- </div>
- 
- </td>
-  
-    </tr>
-  </tbody></table>
-</div>
-<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>heart.co.uk - Heart</title>
+<meta http-equiv="imagetoolbar" content="no">
+<link rel="canonical" href="/privacy-policy/">
+<meta name="keywords" content="heart.co.uk, music, radio, heart fm">
+<meta name="description" content="Listen online or on digital to hit music radio Heart. Find heart.co.uk presenter, local news and weather information more.
+">
+<meta name="robots" content="noodp,noydir"> 
+<!--[if !IE]><!-->
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/heart-minified__88860221.css" media="screen" type="text/css">
+<!--<![endif]-->
+<!--[if IE 6]>
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie6-minified__1c065b07.css" media="screen" type="text/css">
+<![endif]-->
+<!--[if IE 7]>
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie7-minified__7d85073e.css" media="screen" type="text/css">
+<![endif]-->
+<!--[if gt IE 7]>
+<link rel="stylesheet" href="http://heartfm.gcstatic.com/d/heart.co.uk/css/combined/ie8-minified__3e85f1bf.css" media="screen" type="text/css">
+<![endif]-->
+<script type="text/javascript" src="http://heartfm.gcstatic.com/d/heart.co.uk/js/heart-minified__8ba908c7.js"></script>
+<link rel="shortcut icon" href="http://heartfm.gcstatic.com/d/heart.co.uk/img/favicon.ico">
 <script type="text/javascript">
-_uacct = "UA-608936-1";
-urchinTracker();
+var mm_audio = window.mm_audio || {};
+mm_audio.wmpScriptPath = 'http://heartfm.gcstatic.com/gusto/c/js/playerStateChange.js';
+var gusto = window.gusto || {};
+gusto.station = {name: "",slug: "",id: "",mediamanager_id: "",region: "",frequency: ""}
 </script>
-
-
-<script>
-function gohere(x,m){
-location.href="/setDisability.asp?s="+x+"&m="+m
+</head>
+<body class="js">
+<script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js' : 'js');</script>
+<div id="page">
+<div id="header">
+<div id="logo">
+<p>
+<a href="/"><img src="http://heartfm.gcstatic.com/d/heart.co.uk/img/logo-heart-variety.png" alt="This is Heart"></a>
+</p>
+</div>
+<span class="shim"></span>
+<div id="listen_live_btn">
+<a href="/javascript-required/">Listen Live</a>
+<span></span>
+</div>
+<script type="text/javascript">
+var gusto = window.gusto || {};
+gusto.openPlayer = function(slug){
+window.open('http://player.musicradio.com/heart'+slug+'/live', 'playerWin', 'dialog=yes,location=no,scrollbars=yes,menubar=no,width=380,height=660,status=no,resizable=yes');
 }
+$("#listen_live_btn").bind('click.listenlive', function(e){
+if (gusto.station && gusto.station.slug){
+gusto.openPlayer(gusto.station.slug);
+}else{
+gusto.openPlayer('london');
+}
+return false;
+});
 </script>
+
+<ul id="user_status">
+    
+    
+        
+        	<li><a class="user_login" rel="nofollow" href="/members/login/?done=/privacy-policy/">Login</a></li>
+        
+	    <li class="last"><a href="/members/register/">Register</a></li>
+    
+</ul>
+
+<div id="listen_info" class="non_local">
+<h2>Find your local Heart station website</h2>
+<p>There are lots of Heart Stations across the country. Tell us where you are for content and shows for your area.</p>
+<p class="location_link"><a href="/localise/" class="cta"><span class="txt"><span class="tl"><span class="bl"></span></span>
+Set your location
+<span class="tr"><span class="br"></span></span><span class="be"></span></span></a></p>
+<p class="help_link"><a href="/localise/help/">Need more help?</a></p>
+</div>
+<div id="primary_navigation">
+<ul>
+<li class="first current">
+<em>
+Home</em></li>
+<li>
+<a href="/shows/">Shows</a></li>
+<li>
+<a href="/music/">Music</a></li>
+<li>
+<a href="/showbiz/">Showbiz</a></li>
+<li>
+<a href="/win/">Win</a></li>
+<li>
+<a href="/lifestyle/">Lifestyle</a></li>
+<li>
+<a href="/local/">Local</a></li>
+<li>
+<a href="/games/">Games</a></li>
+<li>
+<a href="/have-a-heart/">Have a Heart</a></li>
+</ul>
+<form action="/search/" method="get" class="search">
+<div>
+<label for="search1">Search</label>
+<input type="text" name="q" class="q" id="search1" value="">
+<button class="cta" type="submit" name="search"><span class="txt"><span class="tl"><span class="bl"></span></span>
+GO
+<span class="tr"><span class="br"></span></span><span class="be"></span></span></button>
+</div>
+</form>
+</div>
+</div><div id="container">
+<div id="megamodwrapper">
+<div id="left_column">
+<div id="sky1" class="commercial skyscraper">
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256586|0|168|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251626"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256586|0|168|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256586|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+</div>
+</div>
+<div id="centre_column">
+<div class="commercial sponsorship">
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2332317|0|454|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251628"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2332317|0|454|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2332317|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+</div>
+<h1>Global Radio Privacy Policy</h1>
+<div class="article">
+<p class="stand_first"> 
+Any information you provide about yourself to Global Radio UK Limited (“Global Radio”) or our associated companies will only be used in accordance with our Privacy Policy Statement, detailed below. Please note, the Privacy Policy Statement does not apply to websites or text services operated by third parties.
+</p>
+<p> We collect information from you for a number of reasons, for example:</p>
+<ul>
+<li>To provide personalised services for our individual users.</li>
+</ul>
+<ul>
+<li>To enable us to send out editorial content that you’ve requested.</li>
+</ul>
+<ul>
+<li>To enable us to send out promotions in which we think you will be interested.</li>
+</ul>
+<ul>
+<li>To help us to improve the services we offer.&nbsp; To use anonymous, aggregated details about our users to sell appropriate advertising space on our websites and other properties (for example, we may need to tell advertisers what proportion of the visitors to our websites are female), collect promotional and marketing information, and to pass on offers to our users, and does not mean sharing an individual's details with an advertiser.</li>
+</ul>
+<h3>Our Aims</h3>
+<p> 1. We are fully committed to protecting your privacy and will respect your privacy in terms of email, mobile and any other details you submit to us via any media.<br> 
+<br> 
+2. We will not collect personally identifying information except with your specific knowledge and consent.<br> 
+<br> 
+3. We will work with our suppliers to ensure that your data is protected with high quality, reliable and secure technology. Our technology partners invest in high-quality security and work hard to protect your privacy.<br> 
+<br> 
+4. We follow strict security procedures set out in UK Data Protection Legislation in respect of the storage and disclosure of information given by you via our websites, your mobile or via any other media.</p>
+<h3>Collection of Information</h3>
+<p> 5. We collect information on our users through cookies on websites, interactions with both our websites and our text services and via other media, such as postal registrations to club membership.<br> 
+<br> 
+6. The information we need depends on how you are interacting with our website, text or otherwise but could include an email address, a password, age, gender and postcode and a mobile telephone number although additional information may also be requested.&nbsp; We may ask further or different questions for different services, including competitions. Unless stated, all questions are compulsory. We may also ask some further, voluntary questions so we can gain a clearer understanding of our users. Your responses help us to sell appropriate advertising space and to alert you to information we think may be of interest to you and so improve the offering we can make to users. They also enable us to personalise services for our users, for example through club membership.&nbsp; We do not share this information with third parties unless you have specifically consented to this.<br> 
+<br> 
+7. If you are registered you may update your personal information at any time via the "My Details" page for web users, where registration is available on the site. You can get to the "My Details Page" from most pages on the website if you are logged-on. If you are a text user then the text messages you receive from us will alert you to options for unsubscription and/ or change of details – please follow these messages.<br> 
+<br> 
+8. When you interact with us via either online or text services you may be invited to register with us. Such registration is your choice. Your decision to register or otherwise will not have any effect on the outcome of any competition.</p>
+<h3>"Cookies"</h3>
+<p> 9. You may have read about "cookies", small pieces of information that are stored by your browser on your computer's hard drive. Global Radio uses cookies to identify registered users without needing to ask for registration details every time you access one of our sites. The cookies control the display of ads, to ensure that you don't see the same ad too many times in a single session, for example, and to track usage patterns on our sites. Our cookies do not contain any personally identifying information.&nbsp; While using the sites, you may notice that our advertisers occasionally serve you cookies, either directly or when you link to their sites. We cannot directly control what our advertisers or these cookies do, but it's our policy that advertisers on the sites should use cookies the same way we do.<br> 
+<br> 
+10. Occasionally, we may use cookies to track registered or unregistered users as they travel through the site - for instance, we might use cookies to count the total number of unique users who are accessing the site over a particular period of time. This information will never be shared with a third party at an individual level, and is used to make our systems more efficient.<br> 
+<br> 
+11. If you are concerned about cookies, you can turn them off in your browser. However, please note that if you do this some areas of the site may not work properly.</p>
+<h3>"Safe Harbor"</h3>
+<p> 12. For purely technical and operational reasons, your user data may from time to time be stored on our behalf on servers based overseas.&nbsp; All contractors operating such storage on our behalf will be identifiable as "Safe Harbor" compliant.<br> 
+"Data Protection Act"<br> 
+<br> 
+13. We will ensure that all personal information supplied is held securely in accordance with the Data Protection Act 1998 and its relevant subordinate legislation and we will comply with the principles set out in that Act. When you supply any personal information to us we will meet our legal obligations towards you in the way that we deal with that information. In accordance with the data protection principles we have to collect the information fairly and to let you know how we will use it (see paragraphs 14 - 18) and whether we will pass the information on to anyone else. We will not supply your personal information to third parties without your express prior consent or where required by law. We will ensure that any information will be held only as long as is necessary to ensure that our service runs smoothly. We use up to date industry procedures to keep personal data as safe and secure as possible and to protect against loss, unauthorised disclosure or access.</p>
+<h3>Use of Information</h3>
+<p> 14. Where you have submitted personal information about yourself we may from time to time provide you by e-mail, mail, text or otherwise with an update of information about our services and products. You may "opt out" by clicking on unsubscribe links provided in subsequent communications.<br> 
+<br> 
+15. You should be aware that any information you post in our public areas on our websites, such as message boards, may be seen, collected and used by others, and may result in unsolicited messages from other users or parties. Alas, we can't control this; you post at your own risk.<br> 
+<br> 
+16. We will e-mail, mail, text or otherwise, as appropriate, occasionally with information about your registration and/or your club membership if you have joined one.<br> 
+<br> 
+17. Sometimes you will provide us with data that doesn't reveal your personal identity. We may use this sort of information for editorial marketing and promotion purposes and occasionally for other purposes.<br> 
+<br> 
+18. Any research carried out via our websites or through text message to your mobile is for the exclusive use of Global Radio unless specifically stated at the time of completion. However, please note that "pooled" responses to questions may be shared with our partner organisations.</p>
+<h3>Advertisers, Sponsors and Associates</h3>
+<p> 19. Where we collect registration information from you, we will only contact you ourselves.<br> 
+<br> 
+20. We will not sell, trade, rent or pass on any individual’s user details (including your email address and/ or mobile telephone number) unless we have your prior consent. With your permission we will only share the information with carefully chosen, reputable and trustworthy third parties.<br> 
+<br> 
+21. We will never share your personally identifying information with a third party, including an advertiser, without your explicit permission. Similarly, you will receive unsolicited mail or texts only from Global Radio and associated companies only if you have agreed to this.<br> 
+<br> 
+22. A few special cases are worth noting: From time to time we may run competitions or request material we can publish; to participate, you must usually supply us with your identity which you agree to have publicly associated with your submission. The exact rules vary from case to case, and will be noted clearly on the relevant pages. Your participation will always be voluntary and knowing.<br> 
+<br> 
+23. Otherwise, we will only share anonymous aggregate statistics about our users, sales and traffic patterns with our advertisers. Whilst your individual information is protected as outlined above, we reserve the right to use aggregated, anonymous data about our users as a group whether this is in connection with either web or text users. For example, we might report to potential advertisers that a certain percentage of our users are interested in its products, based on information requests.<br> 
+<br> 
+24. We reserve the right to access and disclose individually identifiable information to comply with applicable laws and lawful government requests, to operate our systems properly and to protect both ourselves and our users.<br> 
+<br> 
+25. We may provide aggregate statistics about our customers, sales, traffic patterns and related site information to reputable third-party vendors, but these statistics will include no personally identifying information.<br> 
+<br> 
+26. Global Radio and our associated companies follow the relevant legal requirements and uses all reasonable precautions to ensure only responsible third parties see the information, however we are not responsible for any breach of security or any actions of any third parties who receive the information.<br> 
+<br> 
+We reserve the right to change our privacy policy and all changes will be posted here.&nbsp; Where the changes are significant, we may also choose to email all our registered users with the new privacy policy.<br> 
+<br> 
+© Global Radio UK Limited 2008</p>
+<div class="addthis_toolbox addthis_default_style">
+<a href="http://www.addthis.com/bookmark.php?v=250&amp;username=xa-4b59b2205e2b6062" class="addthis_button_compact">Share</a>
+<span class="addthis_separator">|</span>
+<a class="addthis_button_facebook"></a>
+<a class="addthis_button_twitter"></a>
+<a class="addthis_button_myspace"></a>
+<a class="addthis_button_favorites"></a>
+</div>
+<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4b59b2205e2b6062"></script>
+</div>
+</div>
+</div><div id="right_column">
+<div class="mod editorial_list">
+<h2><span>Quick links</span></h2>
+<ul>
+<li class="pod odd first">
+<a href="/shows/schedule/" class="">Schedule</a>
+</li>
+<li class="pod">
+<a href="/shows/breakfast/" class="">Heart Breakfast</a>
+</li>
+<li class="pod odd">
+<a href="/shows/drivetime/" class="">Heart Drivetime</a>
+</li>
+<li class="pod">
+<a href="/shows/last-10-songs/" class="">Last 10 songs</a>
+</li>
+<li class="pod odd">
+<a href="/local/" class="">Local events</a>
+</li>
+<li class="pod last">
+<a href="/local/news/" class="">Local news</a>
+</li>
+</ul>
+</div><div id="mpu1" class="commercial mpu">
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256589|0|170|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251629"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256589|0|170|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256589|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+</div><div class="mod no_header commercial ad_promo">
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318779|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251631"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318779|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318779|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318780|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251632"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318780|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318780|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318781|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251634"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318781|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318781|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2318782|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251636"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2318782|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2318782|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336771|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251637"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336771|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336771|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2336770|0|91|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251652"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2336770|0|91|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2336770|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>
+</div>
+<div class="mod editorial_promo  no_header">
+<ul>
+<li class="pod odd">
+<h3>
+<a href="http://irab.fimc.net/weather1.asp?adid=2158347" class="external-blank">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/04/rainbow-1264406518-editorial-promo-0.jpg" alt="Weather Forecast" height="62" width="116">
+<span>Weather</span>
+</a>
+</h3>
+<p>Find out more about today's weather in your area plus the five day forecast.</p>
+</li>
+<li class="pod last">
+<h3>
+<a href="/local/traffic-and-travel/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/motorway-junction-1218821255-editorial-promo-1.jpg" alt="M25/M1 junction" height="62" width="116">
+<span>Traffic and Travel</span>
+</a>
+</h3>
+<p>Want to avoid queues? Use our links to make your journey as smooth as possible.</p>
+</li>
+</ul>
+</div><div class="mod editorial_promo ">
+<h2><a href="/music/">Music</a></h2>
+<ul>
+<li class="pod odd">
+<h3>
+<a href="/music/see-pixie-lott/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/23/pixie-lott12-1275848603-editorial-promo-0.jpg" alt="Pixie Lott" height="62" width="116">
+<span>See Pixie Lott</span>
+</a>
+</h3>
+<p>Find out how you can see Pixie on tour just before Christmas.</p>
+</li>
+<li class="pod">
+<h3>
+<a href="/music/robbie-and-gary-duet/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/101663813-editorial-promo-0.jpg" alt="Robbie Williams and Gary Barlow" height="62" width="116">
+<span>Robbie and Gary duet</span>
+</a>
+</h3>
+<p>Huge news for Take That fans as Robbie Williams and Gary Barlow are set to duet on a brand new single.</p>
+</li>
+<li class="pod odd last">
+<h3>
+<a href="/music/lee-ryans-new-video-i-am/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/16/lee-ryan-secret-love-1271752179-editorial-promo-0.jpg" alt="Lee Ryan Secret Love" height="62" width="116">
+<span>Lee Ryan's new video</span>
+</a>
+</h3>
+<p>Watch the video for Lee's new single 'I Am Who I Am' - which fans have made his new single.</p>
+</li>
+</ul>
+<p class="more"><a href="/music/">See all Music</a></p>
+</div><div class="mod editorial_promo  no_header">
+<ul>
+<li class="pod odd last">
+<h3>
+<a href="/showbiz/celebrity-birthdays/">
+<img src="http://assets.gcstatic.com/u/apps/asset_manager/uploaded/2010/06/heart-birthday-cake-1265993108-editorial-promo-0.gif" alt="Heart Birthday Cake" height="62" width="116">
+<span>Celebrity birthdays</span>
+</a>
+</h3>
+<p>Is it your birthday? Which celebrity do you share your birthday with?</p>
+</li>
+</ul>
+</div><div class="mod editorial_list">
+<h2><a href="/shows/news/uk-world/">UK &amp; World</a></h2>
+<ul>
+<li class="pod odd first">
+<a href="/shows/news/uk-world/mum-dipped-babys-dummy-in-methadone-1/" class="">Mum Dipped Baby's Dummy In Methadone </a>
+</li>
+<li class="pod">
+<a href="/shows/news/uk-world/millions-face-starvation-after-niger-drought-1/" class="has_video">Millions Face Starvation After Niger Drought</a>
+</li>
+<li class="pod odd">
+<a href="/shows/news/uk-world/mps-urged-to-save-brit-woman-on-death-row-1/" class="has_video">MPs Urged To Save Brit Woman On Death Row</a>
+</li>
+<li class="pod">
+<a href="/shows/news/uk-world/trust-fined-pound50k-over-disabled-patient-de-1/" class="has_video">Trust Fined £50k Over Disabled Patient Death</a>
+</li>
+<li class="pod odd">
+<a href="/shows/news/uk-world/spain-funeral-for-brit-kids-killed-by-mum/" class="">Spain Funeral For Brit Kids 'Killed By Mum'</a>
+</li>
+<li class="more last"><a href="/shows/news/uk-world/">See all UK &amp; World</a></li>
+</ul>
+</div><div class="mod editorial_list">
+<h2><a href="/showbiz/news/">Showbiz news</a></h2>
+<ul>
+<li class="pod odd first">
+<a href="/showbiz/news/big-brother-hopefuls-vie-for-house-place-1/" class="">Big Brother Hopefuls Vie For House Place</a>
+</li>
+<li class="pod">
+<a href="/showbiz/news/rapper-turns-judge-for-sky1-talent-show/" class="">Rapper Turns Judge For Sky1 Talent Show</a>
+</li>
+<li class="pod odd">
+<a href="/showbiz/news/rocker-bon-jovi-scales-new-heights-at-o2-1/" class="has_video">Rocker Bon Jovi Scales New Heights At O2</a>
+</li>
+<li class="pod">
+<a href="/showbiz/news/harrelson-scores-winner-in-soccer-thriller-1/" class="">Harrelson Scores Winner In Soccer Thriller</a>
+</li>
+<li class="pod odd">
+<a href="/showbiz/news/cruises-thundering-hip-hop-duet-with-j-lo-1/" class="has_video">Cruise's Thundering Hip Hop Duet With J-Lo</a>
+</li>
+<li class="more last"><a href="/showbiz/news/">See all Showbiz news</a></li>
+</ul>
+</div>
+</div>
+</div><div id="footer">
+<div id="breadcrumb_bar">
+<p>You are here: </p>
+<p id="top_link"><a href="#page">Back to top</a></p>
+</div>
+<div class="toe first">
+<h2>
+<a href="/shows/how-to-listen/">How to listen</a>
+</h2>
+<ul>
+<li>
+<a href="/shows/how-to-listen/listen-live-digital-radio/">Digital Radio</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/fm-radio/">FM</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/online/">Online</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/tv-and-satellite/">TV</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/mobile">Mobile</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/faqs/">Listening FAQ</a>
+</li>
+</ul>
+</div>
+<div class="toe">
+<h2>
+Find your local heart
+</h2>
+<ul>
+<li>
+<a href="/localise/regions/">By region</a>
+</li>
+<li>
+<a href="/localise/">By postcode</a>
+</li>
+</ul>
+</div>
+<div class="toe">
+<h2>
+<a href="/on-air">On air</a>
+</h2>
+<ul>
+<li>
+<a href="/shows/breakfast/">Heart breakfast</a>
+</li>
+<li>
+<a href="/shows/drivetime/">Drivetime</a>
+</li>
+<li>
+<a href="/shows/schedule/">Schedule</a>
+</li>
+<li>
+<a href="/shows/playlist/">Playlist</a>
+</li>
+<li>
+<a href="/shows/last-10-songs/">Last 10 songs</a>
+</li>
+<li>
+<a href="/shows/">All Heart Shows</a>
+</li>
+</ul>
+</div>
+<div class="toe">
+<h2>
+Discover more
+</h2>
+<ul>
+<li>
+<a href="/help/article-archive/">Article archive</a>
+</li>
+<li>
+<a href="/shows/how-to-listen/mobile/">iPhone support</a>
+</li>
+<li>
+<a href="/support/">Website support</a>
+</li>
+<li>
+<a href="/accessibility/">Accessibility</a>
+</li>
+</ul>
+</div>
+<div class="toe last">
+<h2>
+All about Heart
+</h2>
+<ul>
+<li>
+<a href="/faqs/">Frequently Asked Questions</a>
+</li>
+<li>
+<a href="/contact-us/">Contact us</a>
+</li>
+<li>
+<a href="/advertise-us/">Advertise with Us</a>
+</li>
+<li>
+<a href="/about-us/">About us</a>
+</li>
+<li>
+<a href="/privacy-policy/">Privacy policy</a>
+</li>
+<li>
+<a href="/terms-conditions/">Terms and conditions</a>
+</li>
+<li>
+<a href="/public-file/">Public file</a>
+</li>
+</ul>
+</div>
+<div id="copyright">
+<form action="/search/" method="get" class="search">
+<div>
+<label for="search2">Search</label>
+<input type="text" name="q" class="q" id="search2" value="">
+<button class="cta" type="submit" name="search"><span class="txt"><span class="tl"><span class="bl"></span></span>
+GO
+<span class="tr"><span class="br"></span></span><span class="be"></span></span></button>
+</div>
+</form>
+<p>© 2010 <a href="http://www.thisisglobal.com/radio">Global Radio</a> UK Ltd. 
+</p>
+</div>
+</div>
+</div>
+<!--[if IE 6]><script type="text/javascript">
+var toReplace = "http://heartfm.gcstatic.com/d/heart.co.uk/img/trans.gif";
+$('img[src*=png]').each(function(i) {
+var src = $(this).attr('src');
+var styleBlock = {
+'width': $(this).width() + 'px',
+'height': $(this).height() + 'px',
+'filter': "progid:DXImageTransform.Microsoft.AlphaImageLoader(src='" + src + "', sizingMethod='scale')"
+}
+$(this).css(styleBlock);
+$(this).attr('src', toReplace);
+});
+$('img#dj_img').show();
+</script>
+<style type="text/css">#listen_live_btn a{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://heartfm.gcstatic.com/d/heart.co.uk/img/listen-live-btn.png',sizingMethod='crop');}#listen_live_btn span{filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://heartfm.gcstatic.com/d/heart.co.uk/img/listen-live-flare.png',sizingMethod='scale');}</style>
+<![endif]-->
+<div id="leader1wrap">
+<div id="leader1" class="commercial leaderboard">
+<script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256587|0|225|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251663"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256587|0|225|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256587|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript>	   
+</div>
+</div>
+<div class="commercial overlay"><script type="text/javascript">
+<!--
+if (window.adgroupid == undefined) { window.adgroupid = Math.round(Math.random() * 1000); }
+document.write('<scr'+'ipt language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=;grp='+window.adgroupid+';misc='+new Date().getTime()+'"></scri'+'pt>');
+//-->
+</script><script language="javascript1.1" type="text/javascript" src="http://adserver.adtech.de/addyn|3.0|646|2256588|0|16|ADTECH;loc=100;target=_blank;key=;grp=815;misc=1580400251665"></script><noscript><p><a href="http://adserver.adtech.de/adlink|3.0|646|2256588|0|16|ADTECH;loc=300;key=key1+key2+key3+key4"><img src="http://adserver.adtech.de/adserv|3.0|646|2256588|0||ADTECH;loc=300;" width="1" height="1" alt=""></a></p></noscript></div>
+<!-- SiteCatalyst code version: H.20.2.
+Copyright 1997-2009 Omniture, Inc. More info available at
+http://www.omniture.com -->
+<script language="JavaScript" type="text/javascript">
+var s_account="GlobalRHeartcouk";
+</script>
+<script type="text/javascript" src="http://heartfm.gcstatic.com/gusto/c/js/sctl.js?ver=333"></script>
+<script language="JavaScript" type="text/javascript"><!--
+/* You may give each page an identifying name, server, and channel on
+the next lines. */
+s.pageName="HRT/HRT/privacy policy";
+s.channel="HRT";
+s.pageType="";
+s.prop1="HRT/HRT";
+s.prop2="HRT/HRT/privacy policy";
+s.prop3="";
+s.prop4="";
+s.prop5="article";
+s.prop6="503";
+s.prop7="";
+s.prop8="";
+s.prop9="";
+s.prop10="";
+s.prop11="";
+s.prop12="";
+s.prop13="";
+s.prop14="";
+s.prop15="";
+s.prop16="";
+s.prop17="";
+s.prop18="Logged Out";
+s.prop19="";
+s.prop20="";
+s.prop21="";
+s.prop22="";
+s.prop23="";
+s.prop24="";
+s.prop25="";
+s.prop26="";
+s.prop27="";
+s.products="646-2256586;646-2332317;646-2256589;646-2318779;646-2318780;646-2318781;646-2318782;646-2336771;646-2336770;646-2256587;646-2256588";
+/* Conversion Variables */
+s.campaign="";
+s.events="";
+s.eVar1="";
+s.eVar2="";
+s.eVar3="";
+s.eVar4="";
+s.eVar5="";
+s.eVar6="";
+s.eVar7="";
+s.eVar8="";
+s.eVar9="";
+s.eVar10="";
+s.eVar11="";
+s.eVar12="";
+s.eVar13="";
+s.eVar14="";
+s.eVar15="";
+s.eVar16="";
+s.eVar17="";
+s.eVar18="";
+s.eVar19="";
+s.eVar20="";
+s.eVar21="";
+s.eVar22="";
+s.eVar23="";
+s.eVar24="";
+s.eVar25="";
+/* Hierarchy Variables */
+s.hier1="article, 503";
+s.hier2="HRT/HRT/privacy policy";
+/* Stream Tracking Variables */
+s.Media.autotrack=true;
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code);//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+src="http://c.musicradio.com/b/ss/GlobalRDev/1/H.20.2--NS/0?[AQB]&cdp=3&[AQE]"
+height="1" width="1" border="0" alt=""></a></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.20.2. -->
+
 </body></html>
