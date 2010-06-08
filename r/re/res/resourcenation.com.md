@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830111547id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the resourcenation.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608060803id_/http%3A//www.resourcenation.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ResourceNation
 
 [](http://www.truste.org/ivalidate.php?url=www.resourcenation.com&sealid=101)
 
-Last updated on November 19, 2007
+Last updated on December 14, 2009
 
 OVERVIEW
 
 **Request for Quote forms**  
-Resource Nation, Inc. allows businesses and consumers to request price quotes for certain services. In order to request a quote, you must first complete the quote request form to provide us with your name, company name, title, phone number, address and email address. After you complete the form, Resource Nation will identify and match you with NO MORE THAN 5 vendors that may be qualified to provide a price quote. We then forward this information to each of the matched vendors, and each of those vendors should contact you directly to provide price quotes for the requested service category. Vendors will usually contact you via phone or e-mail. The Vendors may require additional information in order to provide you with an accurate quote.
+Resource Nation, Inc. allows businesses and consumers to request price quotes for certain services. In order to request a quote, you must first complete the quote request form to provide us with your name, company name, title, phone number, address and email address. After you complete the form, Resource Nation will identify and match you with NO MORE THAN 6 vendors that may be qualified to provide a price quote. We then forward this information to each of the matched vendors, and each of those vendors should contact you directly to provide price quotes for the requested service category. Vendors will usually contact you via phone or e-mail. The Vendors may require additional information in order to provide you with an accurate quote.
 
 Every vendor in the Resource Nation network has entered into an electronic contract with us. Our contract with the vendors prohibits them from selling your information to any third party, or using your information for any reason other than providing a quote and providing you the agreed service (if you reach agreement with the vendor).
 
@@ -30,9 +30,9 @@ Resource Nation collects personally identifiable information from Vendors at sev
 We will occasionally send you information on new services, special offers, and information articles/newsletters. Out of respect for your privacy, we offer you the opportunity not to receive these types of communications. Please see "Choice and Opt-out" below.
 
 **Newsletters**  
-All users who request a quote will be added to our newsletter distribution. Out of respect for your privacy, we provide you a way to unsubscribe. Users may opt-out of newsletters or any other communication from Resource Nation by clicking opt-out on the newsletter or simply sending an e-mail to info@resourcenation.com. Please see the "Choice and Opt-out" section below.  
-Customer service
+All users who request a quote will be added to our newsletter distribution. Out of respect for your privacy, we provide you a way to unsubscribe. Users may opt-out of newsletters or any other communication from Resource Nation by clicking opt-out on the newsletter or simply sending an e-mail to info@resourcenation.com. Please see the "Choice and Opt-out" section below.
 
+**Customer service**  
 Based upon the personally identifiable information you provide us, we will send you an e-mail with a list of the vendors who we have matched to provide you with price quotes. We will also communicate with you in response to your inquiries, to provide the services you request, to manage your account, and to obtain missing information. We will communicate with you by email or telephone, in accordance with your wishes.
 
 **INFORMATION COLLECTION AND USE**
@@ -40,7 +40,7 @@ Based upon the personally identifiable information you provide us, we will send 
 **Profile**  
 We store information that we collect through cookies, log files and clear gifs, to create a "profile" of your preferences. We tie your personally identifiable information, and your purchasing history, to information in the profile, in order to provide tailored promotions and marketing offers and to improve the content of the site for you.
 
-We do not share your profile with any third parties, although we will pass the information you provide in the quote request form to NO MORE THAN 5 vendors for each category you request services.
+We do not share your profile with any third parties, although we will pass the information you provide in the quote request form to NO MORE THAN 6 vendors for each category you request services.
 
 **Aggregate Information (non-personally identifiable)**  
 We share aggregated demographic information about our user base with our partners and advertisers. This information does not identify individual users. This information is used to recruit vendors into our vendor network. Typical information shared with vendors may include the number of quote requests, the popular geographic locations of quote requests, and the type of quote requests. We do not share personally identifying information except with Vendors for the specific quote requests that have been matched.
@@ -48,7 +48,7 @@ We share aggregated demographic information about our user base with our partner
 We do not link aggregate user data with personally identifiable information.
 
 **Personally identifiable information**  
-We DO NOT Share Personally Identifiable Information with third parties, EXCEPT for the NO MORE THAN 5 vendors we match your quote request.
+We DO NOT Share Personally Identifiable Information with third parties, EXCEPT for the NO MORE THAN 6 vendors we match your quote request.
 
 **Legally Required Disclaimer**  
 We reserve the right to disclose your personally identifiable information if required to comply with a judicial proceedings, court order, or other legal process.
@@ -109,8 +109,8 @@ We reserve the right to modify this Privacy Policy statement at any time, so ple
 **TRUSTe**  
 Resource Nation is a licensee of the TRUSTe Web Privacy Seal Program. TRUSTe is an independent, non-profit organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.ResourceNation.com. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
-If you have questions or concerns regarding this statement, you should first contact Ryan White at info@resourcenation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns. 
+If you have questions or concerns regarding this statement, you should first contact Ryan White at info@resourcenation.com. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at http://www.truste.org/consumers/watchdog_complaint.php. TRUSTe will then serve as a liaison with us to resolve your concerns.
 
 **CONTACT US**  
-If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@ResourceNation.com](mailto:info@ResourceNation.com) or (888) 713-3221 or mail to 125 N. Acacia Ave., Solana Beach, CA 92075.  
-(888) 713-3221. 
+If you have any questions or suggestions regarding our privacy policy, please contact us at: [info@ResourceNation.com](mailto:info@ResourceNation.com) or (888) 713-3221 or mail to 777 S Coast Hwy 101, Suite 105, Solana Beach, CA 92075.  
+(888) 713-3221.
