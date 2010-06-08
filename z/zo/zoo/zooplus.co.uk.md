@@ -1,39 +1,62 @@
-> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421001840id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zooplus.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608222910id_/http%3A//www.zooplus.co.uk/content/privacy) for the most accurate reproduction.*
 
-# Pet Supplies, Pet Food, and Pet Products on Sale Now at zooplus.co.uk
+# Pet Supplies, Pet Food, Dog Food, Cat Food and Pet Accessories at Zooplus
 
 ## Privacy & Security
 
 Dear customers, 
 
-We value your trust and thus make every effort to make your shopping experience safe and enjoyable. zooplus employs highest security standards at all times to ensure the protection of all your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring data and saving data on our servers. 
+We value your trust and, therefore, make every effort to ensure your shopping experience is safe and enjoyable. [zooplus.co.uk ](http://www.zooplus.co.uk/) employs highest security standards at all times safeguard your personal data from unauthorised access or use. Your order, personal data as well as your credit card details are protected by technical encryption and an additional authorisation process - both when transferring and saving data on our servers. To learn more see the information below. 
 
-**Collecting and using your data**  
+Zooplus.co.uk Shop Management Team 
+
+P.S. We are optimizing our site continually to make your shopping experience more enjoyable. If you have any comments or feedback, please let us know [here ](https://www.zooplus.co.uk/contact/). 
+
+#### Internet Shopping is Safe
+
+Collecting and using your data  
+How secure is your personal data?  
+Security of payment transaction  
+Non-disclosure to third parties   
+Your Password   
+Website optimisation   
+
+
+#### Collecting and using your data
+
 We collect information about you for two reasons: to process your order and to provide you with the best possible service. 
 
-The personal data you submit at zooplus will not be passed on to any unauthorised third party outside the company. However, we may share your information with our certified partners when it is necessary to do so in order to fulfill your order. 
+The personal data you submit at zooplus will not be passed on to any unauthorised third party outside the company. However, we may share your information with our certified partners when it is necessary to do so in order to fulfil your order. 
 
-While registering with zooplus you also can subscribe to one of our marketing newsletters. If you wish to terminate the subscription, please tell us. You can do so at any time and at your convenience. 
+While registering with zooplus, you can also subscribe to one of our marketing newsletters. If you wish to terminate the subscription, you may do so at any time at your own convenience.
 
-**State-of-the-art technical standards**  
-For transferring data zooplus uses the so-called SSL security system (secure socket layer) together with a 128-bit encryption. This technology offers the best possible security and is also used by all major high street banks, to protect all online banking data. You will know if a site uses encrypted data transmission by the closed padlock symbol on the bottom status bar of your browser. 
+####  How secure is your personal data?
 
-**Security of payment transactions**  
-Payment by credit card is completely safe due to our above-mentioned security standards. 
+zooplus.co.uk uses the Secure Sockets Layer (SSL) security protocol with 128-bit encryption to transfer personal data. This technology offers the best possible security and is also used by all major high street banks, to protect all online banking data. You will know if a site uses encrypted data transmission by the closed padlock symbol in the bottom status bar of your browser. 
 
-**Your password**  
-zooplus offers a special service in case you should forget your password: At the center of the sign in-page you will always find the link "Forgotten your password?". We will send your password to your eMail address immediately. 
+The SSL protocol zooplus.co.uk uses is the industry standard and among the best available today for secure commerce transaction. It encrypts your personal information including your credit card number, name and address. 
 
-As only you or persons authorised by you have access to your eMail account, your password is safeguarded against unauthorised access. Please note: you should not entrust a third party with your log-in information and use the SSL encryption when ordering whenever it is available. 
+####  Security of payment transaction 
 
-**Using cookies**  
-Cookies are alphanumeric means of identification that are transferer onto your computer's hard drive via your Web browser. Cookies are a very common technique found in most leading online shops. 
+Payment by credit card is completely safe, secure and efficient. To ensure that your credit or debit card is not being used without your consent, we will validate name, address and other personal information supplied by you. All information provided will remain strictly confidential. 
 
-During your shopping session at zooplus we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
+####  Non-disclosure to third parties 
 
-Cookies can be activated via the help function of most Web browsers. For detailed information please click here. 
+zooplus.co.uk does not provide any personally identifiable customer information to third-party advertisers or web-sites.   
+zooplus.co.uk will only disclose your personal data to third parties when it is necessary to do so in order to fulfil your order. 
 
-**The zooplus guarantee**  
-All zooplus products are covered by a 2-year warranty.
+####  Your Password 
 
-[ ](https://web.archive.org/myzooplus "my zooplus")
+zooplus offers a special service in case you should forget your password: At the centre of the sign in-page you will always find the link "Forgotten your password?". We will send your password to your email address immediately. 
+
+As only you or persons authorised by you have access to your email account, your password is safeguarded against unauthorised access. Please note: You should not entrust a third party with your log-in information and use the SSL encryption when ordering whenever it is available. 
+
+####  Website optimisation 
+
+This website uses Criteo technology to collect and store information about your browsing activity for marketing purposes. For this, only anonymous non-personal data is collected and stored. This data is stored on your computer as a "cookie" text file. Using an algorithm, Criteo analyses your browsing activity in order to provide you with targeted product offerings in the form of personalized advertising banners on other (publisher) websites. There is absolutely no way data can be used to identify who you are. 
+
+Collected data is used solely to improve our offering. Your data is neither passed on to third parties, nor used for other purposes. You may deactivate this completely anonymous analysis of your browsing activity at Criteo under the following link: [Criteo Opt-out](http://www.criteo.com/index.php?view=article&id=114)
+
+You can find additional information on Criteo technology in the [Criteo Privacy Policy ](http://www.criteo.com/en/solutions/privacy-policy)
+
+During your shopping session at zooplus.co.uk, we transfer a permanent cookie onto your hard drive. This allows our systems to save the shopping cart while you are shopping with us. Please be advised that permanent cookies are mandatory for shopping with zooplus. We ensure you that no other information will be stored in our systems. 
