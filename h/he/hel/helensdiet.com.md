@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helensdiet.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430200510id_/http%3A//www.helensdiet.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helensdiet.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608105158id_/http%3A//www.helensdiet.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Helen's Diet - Privacy Policy
 
