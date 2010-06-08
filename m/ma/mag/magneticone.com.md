@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202101943id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magneticone.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608165455id_/http%3A//www.magneticone.com/store/page_info.php%3Fpages_id%3D18) for the most accurate reproduction.*
 
 # Privacy Statement
 
