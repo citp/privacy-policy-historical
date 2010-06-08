@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2009-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090909000008id_/http%3A//www.caring.com/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caring.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608094045id_/http%3A//www.caring.com/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Caring.com
+
+Caring, Inc. has created this Privacy Policy to let you know know why we collect information from you and what we do with it. This Privacy Policy applies to Caring.com and all of its trade names, including but not limited to GilbertGuide.com and Caring.com, henceforth referred to collectively as "Caring.com."
 
 Your privacy is important to us. Caring.com has prepared these privacy and security policies ("Statement") so you may better understand how Caring.com ("our Website") may use your personal information in connection with our Website and services, as well as how it protects your information against unauthorized use. Please take the time to review this Statement and contact us using the Contact Information below with any questions or concerns.
 
@@ -42,7 +44,7 @@ In the event that we disclose your personally identifiable information as set fo
 
 ## CONTROL OF YOUR PERSONAL INFORMATION
 
-Caring.com offers its customers choices for the collection, use, and sharing of personally identifiable information at the time a customer decides to register. In addition, customers may stop the delivery of future communications from Caring.com by unsubscribing at any time. For instance, each e-mail you receive (aside from �service e-mails�) contain instructions explaining how to stop receiving such e-mails.
+Caring.com offers its customers choices for the collection, use, and sharing of personally identifiable information at the time a customer decides to register. In addition, customers may stop the delivery of future communications from Caring.com by unsubscribing at any time. For instance, each e-mail you receive (aside from "service e-mails") contain instructions explaining how to stop receiving such e-mails.
 
 If your personally identifiable information changes (such as zip code, phone, or e-mail or postal address), or if you no longer desire our service, we provide a way for you to correct, update, or delete/deactivate your personally identifiable information. This can be done by visiting the Profile page on our Website or by e-mailing our Customer Support service at support@caring.com.
 
