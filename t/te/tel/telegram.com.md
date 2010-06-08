@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208105623id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telegram.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608193513id_/http%3A//www.telegram.com/privacypolicy) for the most accurate reproduction.*
 
-# Telegram.com - A product of the Worcester Telegram & Gazette
+# Privacy policy
 
 This policy describes how the web sites maintained by the Telegram & Gazette ("we" or "T&G") and all others controlled by us (the "Site") - collect and utilize users' personally identifiable information ("PII"). The T&G Sites are general audience web sites, and we do not knowingly collect PII from children under 13 years of age.
 
