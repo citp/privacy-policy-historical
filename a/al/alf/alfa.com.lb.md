@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227143058id_/http%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alfa.com.lb privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608072409id_/http%3A//www.alfa.com.lb/privacy.aspx) for the most accurate reproduction.*
 
 # Untitled Page
 
