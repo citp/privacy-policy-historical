@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getyourbillspaid.co.uk privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202150546id_/http%3A//www.getyourbillspaid.co.uk/common/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getyourbillspaid.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608184126id_/http%3A//www.getyourbillspaid.co.uk/common/privacy.html) for the most accurate reproduction.*
 
 # 
 
