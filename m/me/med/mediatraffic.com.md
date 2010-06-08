@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426030231id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediatraffic.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608072722id_/http%3A//www.mediatraffic.com/privacy.php) for the most accurate reproduction.*
 
-# Media Traffic
+# Media Traffic - CPV PPV Contextual Advertising - Privacy Policy
 
 ## 2\. Information Collected and How It's Used
 
@@ -9,6 +9,12 @@ An IP (Internet Protocol) address is automatically assigned to your computer eve
 
 **Cookies**  
 In computer language, a cookie is used to store data on your computer's hard drive. We use cookies to store your account number once you register. We never use cookies to capture or contain personal information from your computer. The only personal information mediatraffic.com has is what you give to us.
+
+**Third Party Cookies**  
+From time to time we employ the services of a third party agent in tracking statistical data on the Site. This agent may utilize cookies and web beacons to facilitate the service. A web beacon is a 1x1 image that tracks site traffic and isn't tied to any personal information. We are not responsible for, nor have any control over these third party cookies. We use this aggregated information to improve our Site functionality.
+
+**Third Party Links**  
+Please note in the privacy statement that your Site contains links to third party sites. Media Traffic is not responsible for the information practices of these sites, and users' are encouraged to read their privacy policies prior to disclosing personal information.
 
 **Your Account**  
 In order to utilize certain services, you may be asked to provide certain personal information to MTA, such as account information (user name and password), credit card information (card type, account number, expiration date, and billing address), banking information (Swift/ABA routing number, account number, bank name and address), PayPal email, email address, IM user ID, name and company name, tax identification number, and home or work address and telephone number, as well as certain demographic information, including city, state, country and zip code. MTA uses your personal information to deliver the services you have requested and to communicate with you, including certain mandatory service communications such as welcome letters, billing reminders, information on technical service issues, and security announcements. All such information is provided voluntarily by you. No such information is utilized by MTA for the purpose of displaying targeted websites or profiling. MTA does not sell, rent or lease such information to third parties.
@@ -46,7 +52,7 @@ We, however, may occasionally wish to communicate with our customers in order to
 
 As part of our service, our Customer Service Department routinely communicates with members by phone or email to respond to questions or issues relating to their account, or to offer optimization services. We may also solicit some of our clients from time to time, either online or by email, to participate in client surveys. Participation in these surveys is voluntary, and the information collected provides Media Traffic Agency with valuable feedback on our services, which in turn, helps us to improve them.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@mediatraffic.com. We offer an opportunity to opt-out of certain communications from the members area, or you may contact us using the contact information listed below.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by [contacting us](http://mediatraffic.com/contact.php). We offer an opportunity to opt-out of certain communications from the members area, or you may contact us using the contact information listed below.
 
 You will be notified when your personal information is collected by any third party that is not our agent/service provider, so you can make an informed choice as to whether or not to share your information with that party.
 
