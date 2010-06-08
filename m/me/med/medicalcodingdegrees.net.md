@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medicalcodingdegrees.net privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207061507id_/http%3A//medicalcodingdegrees.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medicalcodingdegrees.net privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608234113id_/http%3A//www.medicalcodingdegrees.net/privacy.php) for the most accurate reproduction.*
 
 # Medical Coding Degrees - Privacy Policy
 
