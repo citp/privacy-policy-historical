@@ -1,73 +1,81 @@
-> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2007-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070824111506id_/https%3A//www.bluefur.com/support2/index.php%3F_m%3Dknowledgebase%26_a%3Dviewarticle%26kbarticleid%3D334%26nav%3D0%2C1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluefur.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608102423id_/http%3A//www.bluefur.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Powered By Kayako eSupport
+# BlueFur - Canada Web Hosting - Privacy Policy
 
-Privacy Policy
+BlueFur.com ("BlueFur") has created this privacy statement in order to demonstrate our commitment to privacy to our customers and users of our consulting services, online services, websites, and web services ("Services").
 
-Manticore Media Group Inc. (�BlueFur.com�) respects the privacy of its customers and visitors and is committed to protecting the personal information of its customers and visitors. This Privacy Policy covers the site [www.bluefur.com](http://www.bluefur.com/). We collect no personally identifiable information about you when you visit our site unless you choose to provide that information to us or as specifically outlined in this Policy. 
+This privacy policy governs the manner in which BlueFur uses, maintains and discloses information collected from its customers and users of our Services.
 
-This Policy describes our general principles for the collection and use of information from customers and visitors to our Web sites. We want to ensure that you understand how we will and will not use the information you entrust to us. In order to fully understand your rights we encourage you to read this Policy. 
+## 1\. Privacy
 
-For visitors, we've structured our Web sites so that, in general, you can visit us on Web without identifying yourself or revealing any personal information. 
+BlueFur is committed to developing long lasting relationships based on trust. As such, BlueFur will do everything in its power to ensure that your right to privacy is maintained and protected. Our Services are not directed at children under 13 years of age.
 
-For prospective and existing customers and partners, once you choose to provide us personally identifiable information (any information by which you can be identified), you can be assured that it will only be used to support your relationship with BlueFur.com. 
+## 2\. Information We Collect
 
-What type of information does BlueFur.com collect? 
+BlueFur may request or collect personal information from online users in a variety of ways, including through online forms for ordering products and services, and other instances where users are invited to volunteer such information.
 
-When you visit our Web site, our Web server collects basic user information about you that includes your ISP's domain, the time you accessed our Web site, and the pages from within our Web site that you visit and is not personally identifiable information except as needed to prevent fraud or abuse of the system. 
+The information we collect is personal information that identifies you personally, such as:
 
-When you sign up for BlueFur.com's services, you provide us with both contact and payment information. Contact information typically includes your name, address, and phone number. Payment information typically includes your credit card number. 
+  * First & last name
+  * Postal address
+  * Telephone and fax numbers
+  * URL
+  * E-mail address
+  * Credit card information
+  * Other billing information
 
-While you are a BlueFur.com customer, we manage information with regard to your account status, choice of services, and customer logs. In addition, we may store customers' electronic mail and other communications as a necessary incident to the transmission and delivery of those communications. 
 
-How do we use this information?   
-BlueFur.com does not trade, rent or sell your personal information to any other organization or third party. 
 
-We use the contact information you provide us to establish our service for you. We use payment information for payment processing purposes only. We create and maintain other information such as customer account status, choice of services, and customer logs in the normal course of providing service. By pressing the �submit� button, each visitor constitutes consent to use the information for purposes stated in this Policy. 
+BlueFur may also collect information about how users access our Services using a tracking ID unique to each user through the use of cookies or other similar means.
 
-We may disclose contact information with your permission when gathering and posting testimonials. 
+## 3\. What are Cookies?
 
-We will not otherwise disclose customer personal and account information unless we have reason to believe that disclosing such information is necessary to identify, make contact with, or bring legal action against someone who may be causing harm or interfering with the rights or property of BlueFur.com, our customers, or others. We may provide information to regulatory authorities and law enforcement officials in accordance with applicable laws or where BlueFur.com has a good faith belief that the law requires such disclosure. 
+A cookie is a piece of data stored on the user's computer tied to information about the user. We may use both session ID cookies and persistent cookies. For session ID cookies, once you close your browser or log out, the cookie terminates and is erased. A persistent cookie is a small text file stored on your computer’s hard drive for an extended period of time.
 
-BlueFur.com also will not disclose to third parties the contents of any electronic mail or other electronic communications that BlueFur.com stores or transmits for its customers except where: (a) it is a matter or public safety or policy; (b) it is in connection with the transfer of other business assets; (c) it is required to cooperate with orders, warrants, or other legal process that BlueFur.com determines in its sole discretion to be valid and enforceable; and (d) it is necessary to provide to a law enforcement agency when the contents are inadvertently obtained by BlueFur.com and appear to pertain to the commission of a crime. 
+Your browser’s help file contains information and instructions for removing persistent cookies. Session ID cookies may be used by BlueFur to track user preferences while the user is using our Services. They also help to minimize load times and save on server processing. Persistent cookies may be used by BlueFur to store whether, for example, you want your password remembered or not, and other information. Cookies used on BlueFur websites do not contain personally identifiable information.
 
-BlueFur.com disclaims any intention to censor, edit, or engage in ongoing review or surveillance of communications stored on or transmitted through its facilities by customers or others. BlueFur.com will, however, review, delete, or block access to communications that may harm BlueFur.com, its customers or third parties. The grounds on which BlueFur.com may take such action include, but are not limited to, actual or potential violations of the TOS. 
+## 4\. Log Files
 
-Please note that BlueFur.com may use this information collected to direct notices as well as provide you with other general information that may be of interest to you and information about our services or product offerings or the offerings of our business affiliates, as well as other important information regarding your account or services at our discretion. 
+Like most standard websites, we use log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user's movement in the aggregate, and gather broad demographic information for aggregate use. However, none of the information stored in our log files, including but not limited to IP addresses, is linked to personally identifiable information.
 
-Customers may opt out of receiving newsletters and/or promotional emails from BlueFur.com by sending a request to [newsletter-unsubscribe@bluefur.com.ca](mailto:newsletter-unsubscribe@bluefur.com.ca). In this request, customers must identify their domain name and contact information. Customers may not opt out of receiving information from BlueFur.com which is essential for maintaining or updating customers account or system information. 
+## 5\. How we use this Information
 
-Third Party Advertising and Cookies 
+BlueFur may use the personally identifiable information collected by BlueFur to contact customers regarding products and services offered by BlueFur and, to the extent the User has agreed to it, by its trusted affiliates, independent contractors and business partners.
 
-The basic user information collected is used to help us analyze Web traffic, improve the content of our Web site and improve your experience on our Web site. 
+We may also use this information for research purposes regarding the effectiveness of our Services and marketing and sales efforts. BlueFur will not in any way share this information with a third party either for free or by selling it, unless you specifically authorize such disclosures.
 
-We do not trade, rent or sell your personal information to others, except as detailed in this Policy . We currently contract with several online partners who use the data only on our behalf to help manage and optimize our Internet business and communications. We use the services of a marketing company to help us measure the effectiveness of our advertising and how visitors use our site. To do this, we use Action Tags and cookies provided by our marketing company on this site. The information collected by the marketing company through the use of Action Tags and cookies is not personally identifiable. The information we collect helps us learn things like what kinds of customers our site attracts, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing company logs the information coming from our site on our behalf, we control how that data may and may not be used. 
+## 6\. Disclosure of Information
 
-We may at times also use cookies, which are small pieces of information that a Web site can store in a designated file on your computer. Cookies allow a Web application to respond to you as an individual. By gathering and remembering information about your preferences, the Web application can tailor its operation to your needs, likes, and dislikes. Most web browsers allow you to control this use of cookies. Please take a look at your particular browser for instructions on this function. If you elect to disable cookies, please keep in mind that you will not be able to take full advantage of a personalized experience on our Web site. It is possible that some portions of the site will not function properly or may perform more slowly if you choose to reject cookies. 
+BlueFur may also disclose aggregate, anonymous, data based on information collected from Users to investors and potential partners. In such cases, statistical information only will be disclosed and personally identifiable data will be kept strictly confidential. In case BlueFur is sold, the information collected from users may be transferred to the new owners.
 
-Our Web site allows for a chat function. Chat functions allow you to participate in �live� online conversations with us on our Web site. Although the transcripts from the chats may be stored internally on in-house servers for our records only, we collect no personally identifiable information about you when you participate unless you choose to provide that information to us. 
+BlueFur may from time to time engage third parties, including its own subsidiaries and affiliated companies, to preserve, analyze or otherwise store or manipulate data received by BlueFur from its customers. In all such cases, such third party service providers will be required to treat all such data with the same degree of care as BlueFur and they will be prohibited from disclosing such data to any other person or party, except as otherwise provided for in this Privacy Policy.
 
-How Can I access my personal information? 
+## 7\. Special Offers and Updates
 
-You can access your personal information, such as your address and contact information, at anytime to correct or change any of the data shared with us when you became a customer of BlueFur.com. If you need assistance or have questions about correcting information you can contact us via email at [billing@bluefur.com](mailto:billing@bluefur.com). 
+Our customers and users will occasionally receive information on products, services, special deals, and possibly a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications.
 
-Security 
+## 8\. Service Announcements
 
-BlueFur.com has security measures in place to help prevent the loss, misuse and alteration of the information under our control. When you place an order online, your information, including your credit card number, is protected using Secure Socket Layer (SSL) encryption technology. This encrypts order data and is designed to aid in ensuring the accuracy and security of that customer information. 
+On rare occasions it is necessary to send out a strictly service related announcement, if, for instance, our service is temporarily suspended for maintenance. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
 
-Links 
+## 9\. Legal Disclaimer
 
-Our Web site provides links to other Web sites, sites that may be maintained by companies that are not affiliates of ours. We are not responsible for the privacy practices or the content of such Web sites and we encourage you to use caution. In particular, we recommend that you view the privacy policy posted on each site to confirm the sites policies are acceptable to you. This Policy applies solely to information collected by this Web site. 
+Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law, if we have a good-faith belief that such action is necessary and required to comply with a current judicial proceeding, a court order or legal process served on BlueFur.
 
-Children's Privacy   
-BlueFur.com does not sell products or services for purchase by children. Customers must be at least 18 years of age. Any individual under the age of 18 (�Minor�) must have a parent or guardian accept the TOS in order for the Minor to become a Customer. If you are under 18, we strongly encourage you to use our Web site only with the involvement of a parent or guardian. 
+BlueFur websites contain links to other sites. Please be aware that BlueFur is not responsible for the privacy practices of such other sites. We encourage you to read the privacy statements of each and every Web site that collects personally identifiable information. The BlueFur Privacy Policy as described herein applies solely to information collected by BlueFur.
 
-Changes to our Policy 
+## 10\. Maintenance of Information
 
-BlueFur.com reserves the right to change this Policy simply by posting such changes on our site. We encourage you to periodically check our site for changes to this Policy since your continued use of the site following any changes to this Policy will be deemed to constitute your acceptance of such change. The operative and effective version of this Policy will be the latest version available on the site. 
+The information provided to BlueFur is saved indefinitely and may be stored on one or more databases directly or indirectly maintained by BlueFur. BlueFur employs industry standard security measures to protect the confidentiality of the information.
 
-You may opt out of any posted changes to our collection, use or disclosure of your personal information by sending an email to [privacy@bluefur.com](mailto:privacy@bluefur.com). In this request, customers must identify their domain name and contact information. 
+While we cannot guarantee that loss, misuse or alteration to data will not occur; we make every effort to prevent such occurrences. Any other particularly sensitive information, such as credit card numbers collected for commercial transactions, is encrypted prior to transmission by you to BlueFur.
 
-Contact Us 
+## 11\. Your Responsibility
 
-If you have questions or concerns regarding this Policy, you should contact us by email at [privacy@BlueFur.com](mailto:privacy@BlueFur.com).
+You are responsible for the security of the login information, such as usernames and passwords, which give you access to your private information maintained by BlueFur. Make sure you keep login information in a safe place and do not share it with others.
+
+Note that key-loggers, viruses, or other surveillance devices can intercept login information on the computers from which you access our Services, so you should take precautions regarding such devices, especially from public computers. In addition, you should always log out from any relevant Services when you are not actively using them.
+
+## 12\. Questions
+
+Any questions concerning this Privacy Policy may be directed to .
