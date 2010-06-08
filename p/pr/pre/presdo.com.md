@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207201601id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presdo.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608161435id_/http%3A//www.presdo.com/about/privacy) for the most accurate reproduction.*
 
 # Presdo | Privacy Policy
 
 ### Privacy Policy
 
-Effective date: January 1, 2009
+Effective date: January 1, 2010
 
 #### 1\. Introduction
 
@@ -78,9 +78,9 @@ This Privacy Policy may be updated as Presdo’s services change and grow. Presd
 If you have any questions about this privacy policy, please contact us at [privacy@presdo.com](mailto:privacy@presdo.com?subject=Privacy%20Policy). You may also contact us by mail at:
 
 Presdo, Inc.  
-PO Box 391737  
-Mountain View, CA 94039 
+2103 Landings Drive  
+Mountain View, CA 94043
 
 Email: [service@presdo.com](mailto:service@presdo.com?subject=Privacy%20Policy)
 
-Copyright © 2009 Presdo. All rights reserved.
+Copyright © 2010 Presdo Inc. All rights reserved.
