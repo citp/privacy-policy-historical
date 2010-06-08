@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129232722id_/http%3A//www.clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickcompare.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608090956id_/http%3A//clickcompare.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Click Compare - The UK's largest brokerage
 
