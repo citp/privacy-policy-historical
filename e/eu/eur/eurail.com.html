@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the eurail.com privacy policy that was archived on 2009-09-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090921071938id_/http%3A//www.eurail.com/eurail-privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eurail.com privacy policy that was archived on 2010-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608062701id_/http%3A//www.eurail.com/eurail-privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	
@@ -8,8 +8,8 @@
 <meta name="keywords" content="">
 <meta name="description" content="At Eurail.com, we are committed to protecting the online privacy of visitors to our website. ">
 	
-	<link rel="stylesheet" type="text/css" href="/eCache/DEF/2/050.css" media="all">
-	
+	<link rel="stylesheet" type="text/css" href="/eCache/DEF/2/050.css" media="all">	
+	<link rel="stylesheet" type="text/css" href="/include/eurail/extratext.css" media="screen, projection">
 	<script type="text/javascript">
 	// languageObj for content that is inserted by JavaScript
 	var languageObj = {
@@ -23,13 +23,16 @@
 	
 	<script type="text/javascript" src="/res/scripts/httprequest.js"></script>
 	<script type="text/javascript" src="/eCache/DEF/2/053.js"></script>
-	<script type="text/javascript" src="/eCache/DEF/2/054.js"></script>
 	<script type="text/javascript" src="/eCache/DEF/2/056.js"></script>
-	<link rel="stylesheet" href="/eCache/DEF/2/210.css" type="text/css" media="screen">
-<script type="text/javascript" src="/eCache/DEF/2/209.js"></script>
-<script type="text/javascript" src="/eCache/DEF/2/207.js"></script>
-<script type="text/javascript" src="/eCache/DEF/2/206.js"></script>
-<script type="text/javascript" src="/eCache/DEF/2/208.js"></script>
+	<script type="text/javascript" src="/include/eurail/eurail-translate.js"></script>
+
+	<link rel="stylesheet" type="text/css" href="/include/eurail/shadowbox/shadowbox.css" media="screen, projection">
+	<script type="text/javascript" src="/include/eurail/shadowbox/shadowbox.js"></script>
+ 	<script type="text/javascript">
+ 	Shadowbox.init();
+ 	players:  ['img', 'html', 'iframe', 'qt', 'wmp', 'swf', 'flv'] 
+ 	</script>
+
 </head>
 
 <body class=" jsLabelsOn">
@@ -47,34 +50,29 @@
 	<h2 class="offScreen">Languages &amp; search</h2>
 	<ul class="nav">
 		<li class="selected"><a href="#">English</a></li>
-<li><a mporgnav="" href="http://espanol.eurail.com/enes/" onclick="tsh='espanol.eurail.com';tsl='/enes/';
-tsha=/(espanol|portugues)\.eurail\.com/;
-oh=new Array();tsd=new Array();
-oh[0]='www.railkey.com';tsd[0]=tsl+'drailkey/';
-oh[1]='eurail.lectric.nl';tsd[1]=tsl+'sdeurail/dlectric/';
-oh[2]='www.eurail.com';tsd[2]=tsl;
-tsmatch=location.href.match(tsha);if(tsmatch==null){for(i=0;i<oh.length;i++){idx=location.href.indexOf(oh[i]);if
-(idx>-1)break;}idx=idx+oh[i].length;hname=tsh+tsd[i];}else{idx2=location.href.indexOf(tsh);if(idx2==-1)
-{idx=location.href.indexOf(tsmatch[0])+tsmatch[0].length+tsl.length;hname=tsh+tsl;}else{for(i=0;i<tsd.length;i++)
-{idx=location.href.indexOf(tsd[i]);if(idx>-1)break;}idx=idx+tsd[i].length;hname=oh[i];}}
-path=location.href.substring(idx);hend=hname.charAt(hname.length-1);pstart=path.charAt(0);if
-(hend=='/'&amp;&amp;pstart=='/')path=path.substring(path.indexOf('/')+1);if(hend!='/'&amp;&amp;pstart!='/')
-path='/'+path;location.href=location.protocol+'//'+hname+path;return false;">
-Español</a></li>
-<li><a mporgnav="" href="http://portugues.eurail.com/enpt/" onclick="tsh='portugues.eurail.com';tsl='/enpt/';
-tsha=/(espanol|portugues)\.eurail\.com/;
-oh=new Array();tsd=new Array();
-oh[0]='www.railkey.com';tsd[0]=tsl+'drailkey/';
-oh[1]='eurail.lectric.nl';tsd[1]=tsl+'sdeurail/dlectric/';
-oh[2]='www.eurail.com';tsd[2]=tsl;
-tsmatch=location.href.match(tsha);if(tsmatch==null){for(i=0;i<oh.length;i++){idx=location.href.indexOf(oh[i]);if (idx>-1)break;}idx=idx+oh[i].length;hname=tsh+tsd[i];}else{idx2=location.href.indexOf(tsh);if(idx2==-1) {idx=location.href.indexOf(tsmatch[0])+tsmatch[0].length+tsl.length;hname=tsh+tsl;}else{for(i=0;i<tsd.length;i++) {idx=location.href.indexOf(tsd[i]);if(idx>-1)break;}idx=idx+tsd[i].length;hname=oh[i];}} path=location.href.substring(idx);hend=hname.charAt(hname.length-1);pstart=path.charAt(0);if (hend=='/'&amp;&amp;pstart=='/')path=path.substring(path.indexOf('/')+1);if(hend!='/'&amp;&amp;pstart!='/') path='/'+path;location.href=location.protocol+'//'+hname+path;return false;">
-Português</a></li>
+<li>
+<a mporgnav="" href="http://espanol.eurail.com/enes/" onclick="return switchLanguage('es');
+function switchLanguage(lang) {
+    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	return false;
+}
+">Español</a>
+</li>
+
+<li><a mporgnav="" href="http://portugues.eurail.com/enpt/" onclick="return switchLanguage('pt');
+function switchLanguage(lang) {
+    MP.SrcUrl=unescape('mp_js_orgin_url');MP.UrlLang='mp_js_current_lang';MP.init();
+	MP.switchLanguage(MP.UrlLang==lang?'en':lang);
+	return false;
+}
+">Português</a>
+</li>
 		<li id="siteSearch">
 			<form action="/search" method="get">
-				<div class=" inactive">
-					<label for="siteSearchTerm" class="overLabel">Search by keyword<span>:</span></label>
+				<div>
 					<input type="text" class="textfield" id="siteSearchTerm" name="siteSearchTerm">
-					<input type="image" class="button" id="siteSearchSubmit" name="siteSearchSubmit" src="/images/eurail2_1/layout/button_go.gif" alt="Go">
+					<input type="image" class="button" id="siteSearchSubmit" name="siteSearchSubmit" src="/images/eurail2_1/layout/button_search.gif" alt="Search" style="width: 60px">
 					<input type="hidden" id="method" name="method" value="2">
 					<input type="hidden" id="postback" name="postback" value="true">
 				</div>
@@ -88,22 +86,22 @@ Português</a></li>
 	<ul class="nav">
 				
 		<li><a href="http://www.eurail.com"><span>Home</span></a></li>
-				<li><a href="/eurail-our-products"><span>Passes</span></a></li>		<li><a href="/eurail-planning"><span>Planning</span></a></li>		<li><a href="/eurail-where-to-go"><span>Countries</span></a></li>	</ul>
+				<li><a href="http://www.eurail.com/eurail-our-products"><span>Passes</span></a></li>		<li><a href="http://www.eurail.com/eurail-planning"><span>Planning</span></a></li>		<li><a href="http://www.eurail.com/eurail-countries"><span>Countries</span></a></li>	</ul>
 <!-- /#mainNav --></div>
 	
 			<div id="shortcuts" class="headerNav">
 				<h2 class="offScreen">Short cuts</h2>
-				<ul class="nav"><li><a href="/eurail-frequently-asked-questions"><span>FAQ</span></a></li><li><a href="/eurail-contact"><span>Contact</span></a></li><li><a href="/eurail-news"><span>News</span></a></li><li><a href="http://blog.eurail.com"><span>Blog</span></a></li>	</ul>
+				<ul class="nav"><li><a href="http://www.eurail.com/eurail-support"><span>Support</span></a></li><li><a href="https://www.eurail.com/eurail-account"><span>Account login</span></a></li>	</ul>
 			<!-- /#shortcuts --></div>			
 		<!-- /.container --></div>
 	</div>
 <!-- /#siteTop --></div>
 		
 		<div id="secNav">
-				<div class="container">
-					<!-- no secundary navigation -->
-				</div>
-			<!-- /#secNav --></div>
+			<div class="container">
+				<!-- no secundary navigation -->
+			</div>
+		<!-- /#secNav --></div>
 		
 		<div id="siteBody" class="container">
 		
@@ -119,7 +117,7 @@ Português</a></li>
 
 				<ul>
 					<li>
-						<a href="/eurail-terms-conditions">Terms &amp; Conditions</a>
+						<a href="http://www.eurail.com/eurail-terms-conditions">Terms &amp; Conditions</a>
 						
 				<ul>
 					<li>
@@ -141,42 +139,26 @@ Português</a></li>
 			<!-- /#thisPage --><p class=" printPage"><a href="#">Print this page</a></p></div>
 			
 			<div id="attentionBar">
-				
-				
+				<div id="tekstPaginaEurail">
+					<div id="menuColumn">
+ 
+<h3 style="font-size: 100%"><a href="eurail-terms-conditions">Terms &amp; Conditions</a></h3><ul id="menu1" class="menu"><li class="level-1"><a href="http://www.eurail.com/eurail-booking-terms">Booking Terms</a></li><li class="level-1"><a href="http://www.eurail.com/eurail-disclaimer">Terms of Use</a></li><li class="level-1"><a href="http://www.eurail.com/eurail-privacy-policy">Privacy and Cookie Policy</a></li><li class="level-1 last"><a href="http://www.eurail.com/eurail-game-conditions">Game Conditions</a></li></ul>
 
-
-
-
-
-
-
-
-
-
-<div id="subMenu">
-<h2>
-	<a href="eurail-terms-conditions">Terms &amp; Conditions</a>
-	</h2>
-	<ul class="nav">
-		<li><a href="/eurail-booking-terms">Booking Terms</a></li>
-		<li><a href="/eurail-disclaimer">Terms of Use</a></li>
-		<li class="selected"><a href="/eurail-privacy-policy">Privacy and Cookie Policy<span> (selected)</span></a></li>
-		<li><a href="/eurail-game-conditions">Game Conditions</a></li>
-		
-	</ul>
-	<!-- showAll-icoon wordt hier d.m.v. JavaScript geplaatst indien 1 of meer <li>'s de clasName "overflow" hebben (hideOverflow() in general.js) -->
+			
 </div>
-												
-			<!-- /#attentionBar --></div>
+				</div>
+								<!-- /#attentionBar --></div>
 			
 			<div id="siteContent">
-			
+
+								
 					<div class="row">
-						<div class="contentIntro" style="padding-right: 7px">
-							<h1>Privacy and Cookie Policy</h1>					
+						<div class="TextpageIntro">
+							<h1 style="color: #3a739e; margin-bottom: 10px; padding-bottom: 5px; border-bottom: 1px solid #d8d8d8">Privacy and Cookie Policy</h1>
+						
 							<p><strong>At Eurail.com, we are committed to protecting the online privacy of visitors to our website. This Policy applies only to the website and online services provided by Eurail.com. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our website, how we may use that information, and how we disclose it to third parties.</strong></p>
 <p>Eurail.com adheres to and is in compliance with the Safe Harbor Privacy Principles developed in coordination with the European Union’s Directive on Data Protection and the U.S. Department of Commerce.</p>
-														<div class="contentItem">
+							<div class="contentItem">
                 		  <div class="content">
 			<h2 class="t-a14-dk-bl">I. Information That We Collect</h2>
 <p><b>Personal Information</b><br>At various locations on our websites, such as in our order forms (and potentially surveys and polls), we may request that you supply us with "personal information," such as your name, email address, mailing and shipping addresses, home or work telephone number, and/or credit card information. You will always know when we are collecting personal information, because we only collect personal information when you voluntarily submit it to us through our online forms and questionnaires. Although you do not have to provide us with any information to visit our websites, you may not be able to fully utilize all of the services on our websites if you choose not to provide certain information. If you do choose to give us personal information through our websites, we will collect and retain that information.</p>
@@ -207,48 +189,102 @@ Português</a></li>
 			<!-- /.contentItem --></div>
 			
 							
-						<!-- /.contentIntro --></div>
-						<div class="additionalContent" style="margin-top: 40px">
-												
+														
+						<!-- /.contentIntrotextpage --></div>
+						<div class="additionalContenttextpage" style="margin-top: 30px;">
+						
+		<div class="textpageright">
+			<div class="bannerInfo" style="border-color: rgb(153, 204, 0);">
+<h3>About Eurail.Com</h3>
+<p>Eurail.Com sells Eurail rail Passes online to travelers from all over the world. <br><a href="/eurail-company">More about our company</a>. </p></div>
+		</div>
+		
+						</div>
 
-
-                       					<div class="contentItem">
-                		  <div class="content">
-			<p><a href="/include/interrail/mplink.js">.</a></p></div>
-			<!-- /.contentItem --></div>
-			
-												</div>
 					<!-- /.row --></div>
 
-									
+			<div class="row noAdditionalContent" style="padding-left: 10px">
+						<div class="content">
+																			
+						<!-- /.contentIntrotextpage --></div>
+					
+					<!-- /.row --></div>
+
+												
+								
+				
 			<!-- /#siteContent --></div>
-			
+</div>			
 			
 		<!-- /#siteBody --></div>
 		
-	<!-- /#allButFooter --></div>
+	<!-- /#allButFooter -->
 	
 	<div id="footer">
-	<div class="container">
-	
-		<div id="aboutSite">
-					<h2 class="offScreen">About this Site</h2>
-					<ul class="nav"><li><a href="/eurail-company">Our Company</a></li><li><a href="/eurail-terms-conditions">Terms &amp; Conditions</a></li><li><a href="/eurail-privacy-policy">Privacy Policy</a></li><li><a href="/eurail-disclaimer">Disclaimer</a></li><li><a href="/sitemap">Sitemap</a></li>	</ul>
-					</div>
-		
-		<div id="additionalNav">
-					<h2 class="offScreen">Additional navigation</h2>
-					<ul class="nav"><li class="first"><a href="http://www.eurail.com">Home</a></li><li><a href="/eurail-our-products">Passes</a></li><li><a href="/eurail-planning">Planning</a></li><li><a href="/eurail-where-to-go">Countries</a></li><li><a href="/eurail-frequently-asked-questions">FAQ</a></li><li><a href="/eurail-contact">Contact</a></li><li><a href="/eurail-news">News</a></li>	<li><a href="http://blog.eurail.com">Blog</a></li></ul>
-					</div>
-			
-	<!-- /.container --></div>
-<!-- /#footer --></div>
-	<!-- i2a tracking code-->
-<script type="text/javascript" src="/include/eurail/i2a.js">
-</script>
-	
+<div class="container">
+       <div id="foooter">
+		<div class="section">
+			<div class="info-lists">
+				<div class="box-holder">
+					<ul class="payment">
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico6.gif" width="22" height="15" alt="American Express"></a></li>
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico5.gif" width="22" height="16" alt="JCB"></a></li>
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico4.gif" width="22" height="15" alt="Visa"></a></li>
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico3.gif" width="22" height="15" alt="PayPal"></a></li>
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico2.gif" width="22" height="15" alt="MasterCard"></a></li>
+						<li><a href="/eurail-how-to-order"><img src="/images/eurail/content/ico1.gif" width="22" height="15" alt="Visa"></a></li>
+					</ul>
+					<strong class="logo"><a href="/eurail-about-us">Eurail.Com. b.v.</a></strong>				</div>
+				<div class="info-box">
+					<strong>Our company</strong>
+					<ul>
+						<li><a href="/eurail-about-us">About us</a></li>
+						<li><a href="/eurail-news">News</a></li>
+						<li><a href="/eurail-contact">Contact</a></li>
+						<li><a href="/eurail-jobs">Jobs</a></li>
+					</ul>
+				</div>
+				<div class="info-box">
+					<strong>Follow us on</strong>
+					<ul class="social">
+						<li><a href="http://www.twitter.com/eurail" target="_blank" class="twitter">Twitter</a></li>
+						<li><a href="http://www.facebook.com/eurorail" target="_blank" class="facebook">Facebook</a></li>
+						<li><a href="http://www.youtube.com/eurail" target="_blank" class="youtube">Youtube</a></li>
+						<li><a href="http://blog.eurail.com" target="_blank" class="our-blog">Eurail blog</a></li>
+					</ul>
+				</div>
+				<div class="info-box">
+					<strong>Terms &amp; conditions</strong>
+					<ul>
+						<li><a href="/eurail-booking-terms">Booking Terms</a></li>
+						<li><a href="/eurail-privacy-policy">Privacy policy</a></li>
+						<li><a href="/eurail-disclaimer">Disclaimer</a></li>
+						<li><a href="/eurail-return-policy">Return policy</a></li>
+					</ul>
+				</div>
+				<div class="info-box">
+					<strong>Orders and shipping</strong>
+					<ul>
+						<li><a href="/eurail-how-to-order">How to order your Pass</a></li>
+						<li><a href="/eurail-shipping-calculator">Shipping information</a></li>
+						<li><a href="/eurail-pass-how-to-use">How to use your Pass</a></li>
+						<li><a href="/eurail-frequently-asked-questions">FAQ</a></li>
+					</ul>
+				</div>
+			</div>
+		</div>
+		<div class="area">
+			<ul class="logo-list">
+				<li><img src="/images/eurail/content/logo3-footer.gif" width="44" height="22" alt="Eurail.Com logo"></li>
+				<li><a href="/sitemap">Sitemap </a></li>			
+			</ul>
+			<p>© 2006-2010 | All rights reserved</p>
+		</div>
+	</div>
+          </div>
+</div>
 	<!-- mp_trans_disable_start -->
-<script src="http://www.eurail.com/gascripts/gatag.js" type="text/javascript"></script>
+<script src="/gascripts/gatag.js" type="text/javascript"></script>
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -256,7 +292,7 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 <script type="text/javascript">
 var pageTracker = _gat._getTracker("UA-939429-1");
 </script>
-<script src="http://www.eurail.com/gascripts/custom_se.js" type="text/javascript"></script>
+<script src="/gascripts/custom_se.js" type="text/javascript"></script>
 <script>
 pageTracker._setDomainName("none");
 pageTracker._setAllowLinker(true);
@@ -264,7 +300,7 @@ pageTracker._setCookieTimeout("23328000");
 pageTracker._initData();
 pageTracker._trackPageview();
 </script>
-<script type="text/javascript" src="http://www.eurail.com/gascripts/ga-multidomain.js"></script>
+<script type="text/javascript" src="/gascripts/ga-multidomain.js"></script>
 <!-- mp_trans_disable_end -->
 
 </body></html>
