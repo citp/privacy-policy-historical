@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bulletcashmethod.com privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623183026id_/http%3A//www.bulletcashmethod.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bulletcashmethod.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608122814id_/http%3A//www.bulletcashmethod.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -40,7 +40,7 @@ We can be reached by contacting:
 
 BulletCashMethod.com
 
-Email: jordanlh@gmail.com
+Email: support@bulletcashmethod.com
 
 Changes to this Policy
 
