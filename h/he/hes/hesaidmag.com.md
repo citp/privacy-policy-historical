@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hesaidmag.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617095412id_/http%3A//www.hesaidmag.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hesaidmag.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608164549id_/http%3A//www.hesaidmag.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
