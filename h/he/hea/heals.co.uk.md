@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924190951id_/http%3A//www.heals.co.uk/pcat/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heals.co.uk privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608195251id_/http%3A//www.heals.co.uk/pcat/privacy%26link%3Dordering) for the most accurate reproduction.*
 
 # Heal's | Privacy Policy
 
