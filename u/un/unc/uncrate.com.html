@@ -1,70 +1,178 @@
-<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2009-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090414235259id_/http%3A//www.uncrate.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uncrate.com privacy policy that was archived on 2010-06-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100608090428id_/http%3A//www.uncrate.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<title>Uncrate | The Buyer's Guide For Men</title>
+<title>Uncrate | Privacy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="robots" content="index, follow">
 <meta name="description" content="Uncrate is a web magazine for guys who love stuff. Our team finds the best gadgets, clothes, cars, DVDs and more.">
-<link rel="stylesheet" href="http://www.uncrate.com/css/alpha.css" type="text/css">
+
+
+    
+        
+        
+        
+        
+        
+        
+        <link rel="start" href="http://www.uncrate.com/" title="Home">
+        <script type="text/javascript" src="http://www.uncrate.com/js/mt.js"></script>
+        
+    
+
+
+<link rel="stylesheet" href="/css/un.css" type="text/css">
 <link rel="shortcut icon" href="/favicon.ico" type="image/ico">
 <link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://feeds.feedburner.com/uncrate">
-<script type="text/javascript" src="/stuff/js/stuff.js"></script>
-<script type="text/javascript" src="/includes/scripts/share.js"></script>
-<script>
-var strProtocol = document.location.protocol+"//";
-var strAddInEyeSrc = "ds.serving-sys.com/BurstingScript/addineye.js";
-if(strProtocol == "https://")
-     strAddInEyeSrc = "secure-"+ strAddInEyeSrc;
-strAddInEyeSrc = strProtocol + strAddInEyeSrc;
-document.write("<scr"+"ipt src="+strAddInEyeSrc+"></scr"+"ipt>");
-</script><script src="https://secure-ds.serving-sys.com/BurstingScript/addineye.js"></script>
-</head>	
-<body>
-<div id="room">
-<div id="rug">
-
-<div id="leaderboard">
+<script type="text/javascript" src="/js/custom.js"></script>
+<script type="text/javascript" src="/js/share.js"></script>
+<script type="text/javascript" src="/js/k.js"></script>
+<script type="text/javascript" src="/js/jq.js"></script>
+<script type="text/javascript" src="/js/jc.js"></script>
 <script type="text/javascript">
-var federated_media_section = '';
+		$(document).ready(function(){
+		    $(function() {
+		        $(".anyClass").jCarouselLite({                      		                   
+		            auto:5000,		           
+		            speed:700,
+		            start: 0,
+		            visible:1
+		        });
+		    });
+            $("#SlideContainer").css("visibility","visible");
+		});
 </script>
-<script type="text/javascript" src="http://static.fmpub.net/zone/278"></script>
+
+<script type="text/javascript">
+/* <![CDATA[ */
+mtAttachEvent('load', mtUpdateScores);
+mtAttachEvent('usersignin', mtUpdateScores);
+/* ]]> */
+</script>
+
+</head>
+
+	<body>
+
+	<div id="room">
+	<div id="rug">
+
+	<div id="header">
+
+	<div class="leaderboard">
+		<script type="text/javascript">
+		var federated_media_section = '';
+		</script>
+		<script type="text/javascript" src="http://static.fmpub.net/zone/278"></script>
+	</div>
+	
+	<div class="logo">
+<a href="/"><img src="/i/uncrate.gif" width="495" height="107" border="0" alt="Uncrate"></a>
+	</div>
+	
+	<div class="elsewhere">
+	
+		<form method="get" action="/search" id="searchform" name="searchform" onsubmit="return search()">
+		<input name="query" id="searchbox" onfocus="javascript:if(this.value=='  Search Uncrate') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='  Search Uncrate'}" value="  Search Uncrate">
+		<input type="image" src="/i/search.gif" alt="Go" name="go" value="Go">
+		</form>
+		
+		<script type="text/javascript" language="javascript">
+		<!--
+		function search() {
+		    query = document.searchform.query.value.replace(/ /g,'+')
+		    window.location = "/search/" + query;
+		    
+		    return false;
+		}
+		-->
+		</script>
+		<div id="signin-widget-content" class="widget-content"></div>
+		
+		<script type="text/javascript">
+		/* <![CDATA[ */
+		function mtUpdateSignInWidget(u) {
+		    var separator = '&nbsp;&nbsp;|&nbsp;&nbsp;';
+		    var el = document.getElementById('signin-widget-content');
+		    var content = '';
+		    if (!el) return;
+		    if (u) {
+		        if (u && u.is_authenticated) {
+		            user = u;
+		            mtSaveUser();
+		        } else {
+		            // user really isn't logged in; so let's do this!
+		            return mtSignIn();
+		        }
+		    } else {
+		        u = mtGetUser();
+		    }
+		    if (u && u.name) {
+		        var url;
+		        if (u.is_authenticated) {
+		            if (u.is_author) {
+		                url = '/user/view';
+		                url += '?static=' + encodeURIComponent( location.href );
+		            } else {
+		                url = u.url;
+		            }
+		        } else if (u.url) {
+		            url = u.url;
+		        } else {
+		            url = null;
+		        }
+		        if (url)
+		            content += 'Signed in as <a href="' + url + '">' + u.name + '</a>';
+		        else
+		            content += 'Signed in as ' + u.name + '';
+		        if (u.is_author)
+		            content += separator + '<a href="/user/edit?return_to=' + encodeURIComponent(document.URL) + '">Edit profile</a>';
+		        
+		        content += separator + '<a href="/stuff/signout?return_to=' + encodeURIComponent(document.URL) + '">Sign out</a>';
+		        
+		    } else if (u && u.is_banned) {
+		        content = 'You do not have permission to sign in to this blog.';
+		    } else {
+		        content = '<a href="http://www.uncrate.com/signin/?return_to=' + encodeURIComponent(document.URL) + '">Sign in</a> or ';
+		        content += '<a href="http://www.uncrate.com/signup/?return_to=' + encodeURIComponent(document.URL) + '">sign up</a> to submit stuff and save your favorites.';
+		    }
+		    el.innerHTML = content;
+		}
+		mtAttachEvent('load', mtUpdateSignInWidget);
+		mtAttachEvent('usersignin', mtUpdateSignInWidget);
+		/* ]]> */
+		</script>
 </div>
-<div id="header">
-<div class="logo">
-<a href="/"><img src="/i/uncrate.gif" width="470" height="120" border="0" alt="Uncrate" usemap="#Map"></a>
-<map name="Map">
-<area shape="rect" coords="1,61,469,119" href="/" alt="Uncrate">
-<area shape="rect" coords="301,20,350,45" href="/men/home/" alt="Crib">
-<area shape="rect" coords="233,20,290,45" href="/men/body/" alt="Body">
-<area shape="rect" coords="149,20,214,45" href="/men/style/" alt="Style">
-<area shape="rect" coords="73,20,130,45" href="/men/cars/" alt="Cars">
-<area shape="rect" coords="0,20,57,45" href="/men/gear/" alt="Gear">
+	
+<div id="nav">
+<div class="navimage">
+<img src="/i/nav-970.gif" width="970" height="21" usemap="#Nav" border="0">
+<map name="Nav">
+<area shape="rect" coords="-22,-19,49,20" href="/men/gear/" alt="Gear">
+<area shape="rect" coords="69,-13,126,20" href="/men/style/" alt="Style">
+<area shape="rect" coords="148,-29,203,20" href="/men/cars/" alt="Rides">
+<area shape="rect" coords="224,-41,375,20" href="/men/entertainment/" alt="Entertainment">
+<area shape="rect" coords="395,-26,479,20" href="/men/culture/" alt="Culture">
+<area shape="rect" coords="499,-48,551,20" href="/men/body/" alt="Body">
+<area shape="rect" coords="571,-34,632,20" href="/men/home/" alt="Living">
+<area shape="rect" coords="722,-19,815,20" href="/answers/" alt="Answers">
+<area shape="rect" coords="836,-10,898,20" href="/about/stuff/" alt="Stuff">
+<area shape="rect" coords="917,-10,970,20" href="/sections/" alt="More">
 </map>
 </div>
-
-<div class="elsewhere">
-<span style="float: right; text-align: right;">Follow us on <a href="http://twitter.com/uncrate/">Twitter</a> and <a href="http://www.uncrate.com/men/uncrate/news/follow-us-on-twitter-win-stuff/">win stuff</a>.<br>5416 items posted in 102 categories since 2005.</span></div>
-
-<form method="get" action="http://www.uncrate.com/search" id="searchform" name="searchform" onsubmit="return search()">
-<input name="query" type="search" id="searchbox" onfocus="javascript:if(this.value=='  Search Uncrate') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='  Search Uncrate'}" value="  Search Uncrate">
-<input type="image" src="/i/go.gif" alt="Go" name="go" value="Go">
-</form>
+<div class="hrdivider"></div>
 </div>
+</div>
+<!-- <div id="stamp">
+<script type='text/javascript' src='http://static.fmpub.net/zone/2567'></script>
+</div>
+</div> -->
 
-<script type="text/javascript" language="javascript">
-<!--
-function search() {
-    query = document.searchform.query.value.replace(/ /g,'+')
-    window.location = "http://www.uncrate.com/search/" + query + "/";
-    return false;
-}
--->
-</script>
-<div id="left">
-<div class="lefttext">
+	<div id="left">
 
-<h2>Privacy Policy</h2>
+	<div class="lefttext">
+
+<div class="serif"><p></p><h2>Privacy Policy</h2>
 <p>The policies below are applicable to Uncrate.com. Any questions or comments you may have regarding this privacy policy, contact <a href="http://www.zombiecorp.com">Zombie Corp</a>.</p>
 
 <p>Zombie Corp respects each individual user's right to privacy. Zombie Corp and its sites do not collect personal identifying information unless such information is specifically and knowingly provided from users during contests, surveys, sweepstakes, giveaways, site registration, or use of public areas, such as a forum. Zombie Corp may use aggregate forms of this information — not individual data — for marketing and promotional purposes. Zombie Corp does not supply identifying information to other companies, or uses such information for its own purposes including but not limited to email newsletters, unless the user "opts-in" for such purposes by specifically allowing usage. (Identifying information must necessarily be used when notifying a user of requested information, such as notification of a winning entry in a contest or sweepstakes.) Zombie Corp is not responsible for any actions or policies of such companies.</p>
@@ -75,7 +183,8 @@ function search() {
 
 <p>ATTENTION KIDS: No information should be submitted to Zombie Corp by children under 18 years of age without their parent's or guardian's consent. Zombie Corp does not monitor the age of its user audience.</p>
 
-<p>Zombie Corp reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p>
+<p>Zombie Corp reserves the right to change this policy at any time by posting notice of the existence of a new privacy statement. This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.</p><p></p></div>
+
 
 
 </div>
@@ -83,29 +192,39 @@ function search() {
 
 <div id="right">
 <div class="righttext">
-<p style="text-align: justify">Uncrate is a web magazine for guys who love stuff. Our team finds the best <a href="http://www.uncrate.com/men/gear/">gadgets</a>, <a href="http://www.uncrate.com/men/style/">clothes</a>, <a href="http://www.uncrate.com/men/cars/">cars</a>, <a href="http://www.uncrate.com/men/entertainment/">DVDs</a> and <a href="http://www.uncrate.com/sections/">more</a>. New gear is posted every weekday — bookmark us, sign up for <a href="http://www.uncrate.com/newsletter/">email updates</a>, or grab our <a href="http://feeds.feedburner.com/uncrate">RSS feed</a>. Send <a href="http://www.uncrate.com/contact/">tips and requests</a>.
-You can also follow us on <a href="http://twitter.com/uncrate/">Twitter</a>, friend us on <a href="http://www.facebook.com/uncrate">Facebook</a>, track us on <a href="http://uncrate.tumblr.com/">Tumblr</a>, or grab our <a href="http://www.widgetbox.com/widget/uncrate-the-buyers-guide-for-men-zombiecorp">Widget</a> for your blog.
-</p>
 
-<div class="hrtopright"></div>
+<div id="viewright">
+<div class="viewtextright">
+
+<span style="float: left;"><strong>Get Uncrate</strong>&nbsp;&nbsp;<a href="http://www.uncrate.com/subscribe/" rel="nofollow">Email</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://feeds.feedburner.com/uncrate" rel="nofollow">RSS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://twitter.com/uncrate/" target="_blank" rel="nofollow">Twitter</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.facebook.com/uncrate" target="_blank" rel="nofollow">Facebook</a></span>
+
+</div>
+<div class="hrtopright2"></div>
+</div>
+
+<p>
+<script type="text/javascript"><!--//<![CDATA[
+   var m3_u = (location.protocol=='https:'?'https://ads.uncrate.com/www/delivery/ajs.php':'http://ads.uncrate.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=1");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://ads.uncrate.com/www/delivery/ajs.php?zoneid=1&amp;cb=52018118298&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100608090428id_/http%253A//www.uncrate.com/privacy"></script><noscript><a href='http://ads.uncrate.com/www/delivery/ck.php?n=a91316e7&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://ads.uncrate.com/www/delivery/avw.php?zoneid=1&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a91316e7' border='0' alt='' /></a></noscript>
+</p>
 
 <p>
 <script type="text/javascript" src="http://static.fmpub.net/zone/279"></script>
 </p>
 
-<p>
-<a href="http://www.zirh.com/products.aspx?c=46" target="_blank"><img border="0" alt="ZIRH" src="http://www.uncrate.com/ads/zirh-300x60-1.gif" width="300" height="60"></a>
-</p>
-
-<div class="hr"></div>
-
-<div style="text-transform: uppercase; text-align: center;">
-<a href="http://www.uncrate.com/advertise/">Sponsor Uncrate</a>
-</div>
-
-<div class="hr"></div>
-
-<form style="background-color: #FFC;border: 1px solid #FC3;padding:10px 10px 15px 10px;margin-bottom:13px;text-align:center;" action="http://www.feedburner.com/fb/a/emailverify" method="post" target="popupwindow" onsubmit="window.open('http://www.feedburner.com', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"> <p><img src="http://www.uncrate.com/i/newsletter.gif" width="13" height="14" alt="." border="0" class="newsletter"> <strong>Subscribe to the Uncrate Dispatch</strong><br>Get our latest posts delivered free to your inbox.</p> <input type="text" class="dispatchfield" name="email" onfocus="javascript:if(this.value=='Your email address') {this.value='';}" onblur="javascript:if(this.value=='') {this.value='Your email address'}" value="Your email address"> <input type="hidden" value="http://feeds.feedburner.com/~e?ffid=85432" name="url"><input type="hidden" value="Uncrate" name="title"><input type="submit" class="dispatchbutton" value="Submit"></form>
+<script type="text/javascript" src="http://static.fmpub.net/site/uncrate"></script>
 
 <div class="sitemeter">
 <script type="text/javascript" language="JavaScript">var site="sm5uncrate"</script>
@@ -117,26 +236,63 @@ You can also follow us on <a href="http://twitter.com/uncrate/">Twitter</a>, fri
 </noscript>
 </div>
 
-<!-- FM Tracking Pixel -->
-<script type="text/javascript" src="http://static.fmpub.net/site/uncrate"></script>
-<!-- FM Tracking Pixel -->
+<span style="text-transform:uppercase; font-weight: bold;">Latest Questions from Uncrate Answers</span> 
+
+<div class="hr10"></div> 
+
+<p><a href="http://www.uncrate.com/answers/travel/whats-the-best-carry-on-bag-for-a-2-week-trip-to-europe/">What's the best carry-on bag for a 2-week trip to Europe?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/travel/what-are-some-great-things-to-do-on-a-toronto-trip/">What are some great things to do on a Toronto trip?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/money-career/what-tips-do-you-have-for-a-first-time-indie-store-owner/">What tips do you have for a first-time indie store owner?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/gear/what-is-the-best-hd-projector-that-wont-break-the-bank/">What is the best HD projector that won't break the bank?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/home-garage/what-neighborhoods-should-i-consider-for-renting-in-seattle/">What neighborhoods should I consider for renting in Seattle?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/entertainment/what-are-some-essential-books-every-man-should-read/">What are some essential books every man should read?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/style/who-makes-long-sleeve-t-shirts-with-longer-sleeves/">Who makes long-sleeve T-shirts with longer sleeves?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/food-drink/what-are-some-nice-reasonably-priced-wines/">What are some nice, reasonably priced wines?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/travel/what-tips-do-you-have-for-relocating-across-the-country-/">What tips do you have for relocating across the country?  </a></p>
+
+<p><a href="http://www.uncrate.com/answers/travel/what-else-to-do-in-johannesburg-when-im-not-at-the-world-cup/">What else to do in Johannesburg when I'm not at the World Cup?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/rides/whats-the-best-aftermarket-bluetooth-solution-for-my-car/">What's the best aftermarket Bluetooth solution for my car?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/health-fitness/whats-the-best-water-bottle-with-a-built-in-filter/">What's the best water bottle with a built-in filter?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/gear/what-is-the-best-portable-waterproof-speaker-system/">What is the best portable, waterproof speaker system?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/body/what-are-some-amazing-tattoo-joints-in-the-midwest/">What are some amazing tattoo joints in the midwest?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/grooming/how-can-i-keep-from-getting-helmet-hair/">How can I keep from getting helmet hair?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/food-drink/whats-the-best-way-to-prepare-ribeye-steaks-for-grilling/">What's the best way to prepare ribeye steaks for grilling?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/gear/whats-the-best-cooler-to-bring-golfing/">What's the best cooler to bring golfing?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/home-garage/whats-a-good-cordless-drill-for-under-100/">What's a good cordless drill for under $100?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/travel/who-makes-the-best-travel-guides/">Who makes the best travel guides?</a></p>
+
+<p><a href="http://www.uncrate.com/answers/sports-outdoors/what-are-the-best-sunglasses-for-golf/">What are the best sunglasses for golf?</a></p>
+	
+<p><iframe src="http://www.facebook.com/plugins/likebox.php?id=65879791704&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:255px;" allowtransparency="true"></iframe></p>
+
+<p><iframe src="http://www.facebook.com/plugins/likebox.php?id=106698929375183&amp;width=300&amp;connections=10&amp;stream=false&amp;header=false&amp;height=255" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:255px;" allowtransparency="true"></iframe></p>
 
 <p>
-<!-- FM Medium Rectangle 2 Zone -->
 <script type="text/javascript" src="http://static.fmpub.net/zone/875"></script>
-<!-- FM Medium Rectangle 2 Zone -->
 </p>
 
 <p>
-<!-- FM Wide Skyscraper Zone -->
 <script type="text/javascript" src="http://static.fmpub.net/zone/280"></script>
-<!-- FM Wide Skyscraper Zone -->
 </p>
 
-<div class="hr"></div>
-
 <p>
-<strong>Elsewhere</strong>
  </p>
 
 </div>
@@ -144,24 +300,53 @@ You can also follow us on <a href="http://twitter.com/uncrate/">Twitter</a>, fri
 </div>
 </div>
 
+
 <div id="footer">
 
 <div class="pod">
 	
 <div class="pea">
 <h3>Recent Gear</h3>	
+
+<div class="headlines"><a href="http://www.uncrate.com/men/gear/sports/nike-air-rate-golf-shoe/" rel="nofollow">Nike Air Rate Golf Shoe</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/culture/drinks/cheerwine/" rel="nofollow">Cheerwine</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/gear/ipod-iphone/iphone-4/" rel="nofollow">iPhone 4</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/style/shoes/mocc-socks/" rel="nofollow">Mocc Socks</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/entertainment/books/lost-encyclopedia/" rel="nofollow">Lost Encyclopedia</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/style/shorts-swimwear/birdwell-original-301-boardshort/" rel="nofollow">Birdwell Original 301 Boardshort</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/entertainment/music/rebel-within-by-hank-williams-iii/" rel="nofollow">Rebel Within by Hank Williams III</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/entertainment/books/the-godfather-family-album/" rel="nofollow">The Godfather Family Album</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/gear/outdoor/vking/" rel="nofollow">VKing</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/men/gear/travel-luggage/f1-flight-dopp-kit/" rel="nofollow">F1 Flight Dopp Kit</a></div>
+
 		
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/digital-cameras/nikon-d5000/">Nikon D5000</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/travel-luggage/john-allanas-roll-up/">John Allan’s Roll Up</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/entertainment/music/the-open-door-ep-by-death-cab-for-cutie/">The Open Door EP by Death Cab For Cutie</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/culture/drinks/guinness-250-anniversary-stout/">Guinness 250 Anniversary Stout</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/musical-instruments/gibson-dark-fire-guitar/">Gibson Dark Fire Guitar</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/travel-luggage/seat-belt-camera-straps/">Seat Belt Camera Straps</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/style/shoes/prokeds-court-king/">Pro-Keds Court King</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/home/lighting/kozo3-desk-lamp/">KOZO3 Desk Lamp</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/laptops/dell-latitude-e6400-xfr-laptop/">Dell Latitude E6400 XFR Laptop</a></div>
-<div class="headlines"><a href="http://www.uncrate.com/men/gear/grilling/smokin-tex-hotorcold-smoker/">Smokin Tex Hot-or-Cold Smoker</a></div>
-		
+</div>
+
+<div class="pea">
+<h3>Recent Questions</h3>	
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/travel/whats-the-best-carry-on-bag-for-a-2-week-trip-to-europe/" rel="nofollow">What's the best carry-on bag for a 2-week trip to Europe?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/travel/what-are-some-great-things-to-do-on-a-toronto-trip/" rel="nofollow">What are some great things to do on a Toronto trip?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/money-career/what-tips-do-you-have-for-a-first-time-indie-store-owner/" rel="nofollow">What tips do you have for a first-time indie store owner?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/gear/what-is-the-best-hd-projector-that-wont-break-the-bank/" rel="nofollow">What is the best HD projector that won't break the bank?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/home-garage/what-neighborhoods-should-i-consider-for-renting-in-seattle/" rel="nofollow">What neighborhoods should I consider for renting in Seattle?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/entertainment/what-are-some-essential-books-every-man-should-read/" rel="nofollow">What are some essential books every man should read?</a></div>
+
+<div class="headlines"><a href="http://www.uncrate.com/answers/style/who-makes-long-sleeve-t-shirts-with-longer-sleeves/" rel="nofollow">Who makes long-sleeve T-shirts with longer sleeves?</a></div>
 		
 </div>
 	
@@ -169,73 +354,69 @@ You can also follow us on <a href="http://twitter.com/uncrate/">Twitter</a>, fri
 <h3>Hot Categories</h3>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/gear/laptops/">Laptops</a></span><a href="http://www.uncrate.com/men/gear/ipod-iphone/">iPod &amp; iPhone Gear</a>
+<span style="float:right;"><a href="http://www.uncrate.com/men/gear/laptops/" rel="nofollow">Laptops</a></span><a href="http://www.uncrate.com/men/gear/ipod-iphone/" rel="nofollow">iPod &amp; iPhone Gear</a>
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/entertainment/dvd/">DVDs</a></span><a href="http://www.uncrate.com/men/style/tees-polos/">Tees &amp; Polos</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/entertainment/dvd/" rel="nofollow">DVDs</a></span><a href="http://www.uncrate.com/men/style/tees-polos/" rel="nofollow">Tees &amp; Polos</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/body/fragrances/">Fragrances</a></span>
-<a href="http://www.uncrate.com/men/cars/exotic/">Exotic Cars</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/body/fragrances/" rel="nofollow">Fragrances</a></span>
+<a href="http://www.uncrate.com/men/cars/exotic/" rel="nofollow">Exotic Cars</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/style/wallets/">Wallets</a></span>
-<a href="http://www.uncrate.com/men/gear/cell-phones/">Cell Phones</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/style/wallets/" rel="nofollow">Wallets</a></span>
+<a href="http://www.uncrate.com/men/gear/cell-phones/" rel="nofollow">Cell Phones</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/entertainment/music/">Music</a></span>
-<a href="http://www.uncrate.com/men/home/seating/">Seating</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/entertainment/music/" rel="nofollow">Music</a></span>
+<a href="http://www.uncrate.com/men/home/seating/" rel="nofollow">Seating</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/gear/grilling/">Grilling</a></span>
-<a href="http://www.uncrate.com/men/cars/sports-cars/">Sports Cars</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/gear/grilling/" rel="nofollow">Grilling</a></span>
+<a href="http://www.uncrate.com/men/cars/sports-cars/" rel="nofollow">Sports Cars</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/style/shoes/">Shoes</a></span>
-<a href="http://www.uncrate.com/men/gear/digital-cameras/">Digital Cameras</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/style/shoes/" rel="nofollow">Shoes</a></span>
+<a href="http://www.uncrate.com/men/gear/digital-cameras/" rel="nofollow">Digital Cameras</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/cars/suvs-wagons/">SUVs &amp; Wagons</a></span>
-<a href="http://www.uncrate.com/men/entertainment/books/">Books</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/cars/suvs-wagons/" rel="nofollow">SUVs &amp; Wagons</a></span>
+<a href="http://www.uncrate.com/men/entertainment/books/" rel="nofollow">Books</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/gear/home-audio-speakers/">Home Audio &amp; Speakers</a></span>
-<a href="http://www.uncrate.com/men/home/lighting/">Lighting</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/gear/home-audio-speakers/" rel="nofollow">Home Audio &amp; Speakers</a></span>
+<a href="http://www.uncrate.com/men/home/lighting/" rel="nofollow">Lighting</a> 
 </div>
 
 <div class="headlines">
-<span style="float:right;"><a href="http://www.uncrate.com/men/gear/tv-video/">TV &amp; Video</a></span>
-<a href="http://www.uncrate.com/men/style/watches/">Watches</a> 
+<span style="float:right;"><a href="http://www.uncrate.com/men/gear/tv-video/" rel="nofollow">TV &amp; Video</a></span>
+<a href="http://www.uncrate.com/men/style/watches/" rel="nofollow">Watches</a> 
 </div>
 
 </div>
 	
 <div class="pealast">
-<h3>About Uncrate</h3>
+<h3>Uncrate</h3>
+<p style="text-align: justify">Uncrate is a web magazine for guys who love stuff. Our team digs up the best gadgets, clothes, cars, DVDs and more. New items are posted daily. Enjoy responsibly.</p>
 
-<p style="text-align: justify">Uncrate is the No. 1 buyer's guide for men. We test and highlight cool items from cell phones to DVDs to cars. Five new products are added every week day for your perusal. You're welcome.</p>
+<p>Subscribe: <a href="http://www.uncrate.com/subscribe/" rel="nofollow">Newsletter</a> | <a href="http://feeds.feedburner.com/uncrate" rel="nofollow">RSS Feed</a> <a href="http://feeds.feedburner.com/uncrate" rel="nofollow"><img src="http://www.uncrate.com/i/feed.gif" width="12" height="12" alt="RSS" border="0" class="feed"></a></p>
 
+<p>Contact: <a href="/contact/">Tips &amp; Requests</a> | <a href="http://www.uncrate.com/advertise/">Advertise</a></p>
 
-<p>Subscribe: <a href="http://www.uncrate.com/newsletter/">Newsletter</a> | <a href="http://feeds.feedburner.com/uncrate">RSS Feed</a> <a href="http://feeds.feedburner.com/uncrate"><img src="http://www.uncrate.com/i/feed.gif" width="12" height="12" alt="RSS" border="0" class="feed"></a></p>
-
-<p>Browse: <a href="http://www.uncrate.com/sections/">Sections</a> | <a href="http://www.uncrate.com/archives/">Archives</a></p>
-
-<p>Contact: <a href="http://www.uncrate.com/contact/">Tips &amp; Requests</a> | <a href="http://www.uncrate.com/advertise/">Advertise</a></p>
-
-<p>Jump: <a href="http://www.uncrate.com/men/gear/">Gear</a> | <a href="http://www.uncrate.com/men/cars/">Cars</a> | <a href="http://www.uncrate.com/men/style/">Style</a> | <a href="http://www.uncrate.com/men/home/">Crib</a> | <a href="http://www.uncrate.com/men/entertainment/">Discs</a></p>
-		
+<p>Also: <a href="http://twitter.com/uncrate/" rel="nofollow">Twitter</a> | <a href="http://www.facebook.com/uncrate" rel="nofollow">Facebook</a> | <a href="http://www.widgetbox.com/widget/uncrate-the-buyers-guide-for-men-zombiecorp" rel="nofollow">Widget</a>
+</p> 
 </div>
 
 <div class="copy">
-Copyright © MMIX <a href="http://www.zombiecorp.com/">Zombie Corp</a>. All rights reserved. Don't steal our stuff. Or we'll eat your brains. <a href="http://www.uncrate.com/privacy/">Privacy Policy</a>. <a href="http://www.uncrate.com/terms/">Terms of Use</a>. <br>
+Copyright © MMX <a href="http://www.zombiecorp.com/" target="_blank">Zombie Corp</a>. All rights reserved. <a href="http://www.uncrate.com/editorial/" rel="nofollow">Editorial Policy</a>. <a href="http://www.uncrate.com/privacy/" rel="nofollow">Privacy Policy</a>. <a href="http://www.uncrate.com/terms/" rel="nofollow">Terms of Use</a>. Uncrate is powered by <a href="http://www.movabletype.com/" target="_blank" rel="nofollow">Movable Type</a>.
 
 </div>
 </div> 
@@ -247,7 +428,5 @@ Copyright © MMIX <a href="http://www.zombiecorp.com/">Zombie Corp</a>. All righ
 _uacct = "UA-255873-1";
 urchinTracker();
 </script>
-
-
 
 </body></html>
