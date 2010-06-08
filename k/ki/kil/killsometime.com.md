@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225100508id_/http%3A//www.killsometime.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the killsometime.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608123949id_/http%3A//www.killsometime.com/privacy) for the most accurate reproduction.*
 
 # KillSomeTime.com - Privacy Policy
 
-[Home](http://www.killsometime.com/ "KillSomeTime.com Homepage")    KillSomeTime.com Privacy Policy 
-
-[](http://www.adbrite.com/mb/commerce/purchase_form.php?opid=1440501&afsid=1)
-
-KillSomeTime.com Privacy Policy 
+[Home](https://web.archive.org/)    9/08/2009 - 7 Flash Games, 5 Funny Videos, 7 Funny Jokes 
 
 Your privacy is important to KillSomeTime.com. All information collected through your use of KillSomeTime.com's site is intended to be used as a means to better serve KillSomeTime.com's current and future customers. KillSomeTime.com will not sell, distribute or disseminate any personal information collected about you through your use of this site to any unaffiliated third party without your prior consent, unless such disclosure is required by law or is necessary to protect our services, enforce any terms of service, or to prevent a violation of KillSomeTime.com's or someone else's rights. KillSomeTime.com reserves the right to exchange your personal information with other companies and organizations for the purposes of collection activities, fraud protection, credit risk reduction or for any other reason necessary to carry out the purpose of this website. 
 
@@ -17,45 +13,3 @@ Throughout this website there are links to external sites not under the control 
 KillSomeTime.com may require personal information in order to sign up for services from KillSomeTime.com, or to manage your current account. Any such information will be used exclusively by KillSomeTime.com, our employees, suppliers, agents and any applicable third party service providers required to set up your service or needed to respond to your requests. 
 
 Your use of the KillSomeTime.com website signifies your acceptance of this Privacy Policy. If you do not accept the terms of this Privacy Policy, please do not use the KillSomeTime.com web site. This Privacy Policy may be changed from time-to-time without notice. Any such changes will be posted to this web site and will be available for your review. Any continued use of this web site after a change has occurred will constitute your acceptance of such change. 
-
-Random Funny Pictures 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=836 "FAIL")
-
-**Hits:** 68,148   |    **Rating:** (7.0) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=270 "Puked in his sleep")
-
-**Hits:** 263,421   |    **Rating:** (4.8) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=946 "Ice Van")
-
-**Hits:** 39,844   |    **Rating:** (6.0) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=97 "She can be my mechanic any day")
-
-**Hits:** 413,450   |    **Rating:** (7.5) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=912 "Cool Lightning Strike")
-
-**Hits:** 62,758   |    **Rating:** (8.3) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=1238 "Nice Giraffe Statue")
-
-**Hits:** 12,633   |    **Rating:** (7.8) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=823 "Bear Banging")
-
-**Hits:** 99,796   |    **Rating:** (7.2) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=2 "Cat looks pissed off")
-
-**Hits:** 205,871   |    **Rating:** (7.4) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=748 "Awesome Ass")
-
-**Hits:** 140,606   |    **Rating:** (6.0) 
-
-[ ](http://www.killsometime.com/Pictures/Picture.asp?ID=298 "Motorcycle Thong")
-
-**Hits:** 665,799   |    **Rating:** (7.9) 
