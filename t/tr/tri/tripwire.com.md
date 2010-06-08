@@ -1,33 +1,22 @@
-> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109224836id_/http%3A//www.tripwire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripwire.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608102123id_/http%3A//www.tripwire.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Tripwire
+# 
 
-This is the web site of Tripwire, Inc.  
-Our postal address is
-
-**One Main Place  
-101 SW Main St., Ste. 1500  
-Portland, OR 97204 USA**  
-
-
-We can be reached via e-mail at [webmaster@tripwire.com](mailto:webmaster@tripwire.com)   
-or you can reach us by telephone at 503.276.7500
-
-For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible).
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible).
 
 We collect only the domain name, but not the e-mail address of visitors to our Web page, aggregate information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations and anonymous session-specific information on what pages consumers access or visit.
 
 The information we collect is used to improve the content of our Web page and may be used by Tripwire, Inc. or its authorized partners to contact consumers concerning Tripwire products and services. It is not traded, sold or given to any other company or organization without the expressed permission of the end-user.
 
-With respect to cookies: We use cookies to and record session information for authorization and authentication for controlled-access pages or files.
+With respect to cookies: We use cookies to record session information for authorization and authentication for controlled-access pages or files.
 
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address or to unsubscribe from Tripwire eNews (Tripwired), please click the UNSUBSCRIBE link at the bottom of the newsletter.
 
-If you supply us with your postal address on-line you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, or writing to us at the above address.
+If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by calling us at the number provided above, e-mailing us at the above address, or writing to us at the above address.
 
-Please provide us with your exact name and address. We will be sure your name is removed from the list we share with our partners. 
+Please provide us with your exact name and address. We will be sure your name is removed from the list we share with our partners.
 
-Persons who supply us with their telephone numbers on-line may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
+Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding new products and services or upcoming events. If you do not wish to receive such telephone calls, please let us know by sending us e-mail at the above address, calling us at the above telephone number, or writing to us at the above address.
 
 Please provide us with your name and phone number. We will be sure your name is removed from the list we share with our partners.
 
