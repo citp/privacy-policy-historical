@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2009-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090828094323id_/http%3A//www.roosevelt.edu/technology/privacy-nw.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roosevelt.edu privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608214653id_/http%3A//legacy.roosevelt.edu/technology/privacy-nw.htm) for the most accurate reproduction.*
 
 # Roosevelt University - Privacy Policy
 
@@ -10,7 +10,7 @@ Information is gathered via the web site primarily by two methods. First, our we
 
 ## About Us
 
-This is a privacy policy for Roosevelt University. Our homepage on the Web is located at [ http://www.roosevelt.edu](file:///C:/Inetpub/wwwroot/default.asp). The full text of our privacy policy is available on the Web at [ http://www.roosevelt.edu/doit/website/privacy.htm](https://web.archive.org/web/20090828094323id_/http%3A//www.roosevelt.edu/doit/website/privacy.htm) This policy does not tell users where they can go to exercise their opt-in or opt-out options.
+This is a privacy policy for Roosevelt University. Our homepage on the Web is located at [ http://www.roosevelt.edu](file:///C:/Inetpub/wwwroot/default.asp). The full text of our privacy policy is available on the Web at [ http://www.roosevelt.edu/doit/website/privacy.htm](https://web.archive.org/web/20100608214653id_/http%3A//legacy.roosevelt.edu/doit/website/privacy.htm) This policy does not tell users where they can go to exercise their opt-in or opt-out options.
 
 We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address: Webmaster 1430 N. Roosevelt Blvd. Room 700 Schaumburg, IL 60195 USA 
 
