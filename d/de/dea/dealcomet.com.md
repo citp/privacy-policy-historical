@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealcomet.com privacy policy that was archived on 2009-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090706053904id_/http%3A//www.dealcomet.com/deals/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealcomet.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609005823id_/http%3A//www.dealcomet.com/deals/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Deal Comet
 
