@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206031319id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aviva.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608093216id_/http%3A//www.aviva.com/privacy-policy) for the most accurate reproduction.*
 
 # Aviva - Privacy policy
 
