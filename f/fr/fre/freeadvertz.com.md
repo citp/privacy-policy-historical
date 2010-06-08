@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeadvertz.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610073235id_/http%3A//www.freeadvertz.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeadvertz.com privacy policy that was archived on 2010-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100608050843id_/http%3A//www.freeadvertz.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
