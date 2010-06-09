@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2009-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090519042709id_/http%3A//www.governmentvideo.com/Privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the governmentvideo.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609183641id_/http%3A//www.governmentvideo.com/Privacynotice) for the most accurate reproduction.*
 
 # GV - Privacy Notice
 
