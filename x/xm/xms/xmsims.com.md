@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xmsims.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206204941id_/http%3A//xmsims.com/sims2/ehtm/main/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmsims.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609140312id_/http%3A//xmsims.com/sims2/ehtm/main/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # XM Sims2 free Sims 2 computer game downloads hair objects skins houses furniture clothes wings fantasy jewelry accessory fashion
 
