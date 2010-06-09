@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216072901id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gshock.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610001632id_/http%3A//www.gshock.com/support/privacy) for the most accurate reproduction.*
 
 # Casio: G-Shock - Watches - Privacy Policy
 
