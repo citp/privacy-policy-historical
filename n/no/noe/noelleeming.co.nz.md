@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105092759id_/http%3A//www.noelleeming.co.nz/faq-popup.ep%3FentryId%3DD5957C7EC93A7094CC25755400098B1D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noelleeming.co.nz privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000529id_/http%3A//www.noelleeming.co.nz/customer-service/faq-D5957C7EC93A7094CC25755400098B1D.html) for the most accurate reproduction.*
 
 # Customer Service - Noel Leeming
 
@@ -13,4 +13,4 @@ It is necessary for you to register your details with us in order to place onlin
 The information is held by:  
 Noel Leeming Group  
 1 Nelson St, PO Box 91146  
-Auckland, New Zealand 
+Auckland, New Zealand
