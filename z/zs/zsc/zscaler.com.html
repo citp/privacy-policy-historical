@@ -1,9 +1,7 @@
-<!--The following is the downloaded HTML source of the zscaler.com privacy policy that was archived on 2009-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206034625id_/http%3A//www.zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the zscaler.com privacy policy that was archived on 2010-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609132928id_/http%3A//www.zscaler.com/PrivacyPolicy.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/form1.dwt" codeOutsideHTMLIsLocked="false" --><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<!-- InstanceBeginEditable name="meta" -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/formpage.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta name="verify-v1" content="P60rL9OuhilVjNxV2jnEkKa+PNz/BzvxQRaJqQ20YdQ=">
 <meta name="google-site-verification" content="0IT21OR9d-uTi-S4H6NnAVAZizku8gEDoFZ2bdnHzng">
@@ -11,6 +9,7 @@
 <meta name="description" content="Zscaler delivers leading in SaaS Web security, URL Filtering, web filtering,  data security, internet Security and email security.  We enforce business policy, mitigate risk, and provide twice the functionality at half the cost of current solutions.">
 <meta name="robots" content="index, follow"> 	
 <meta name="expires" content="never">
+<!-- InstanceBeginEditable name="doctitle" -->
 <title>Zscaler Cloud Security : SaaS Web Security, Web Security, URL Filtering, Internet Security</title>
 <style type="text/css">
 <!--
@@ -19,211 +18,330 @@
 -->
 </style>
 
+<script language="JavaScript" type="text/javascript">
+function getUrlVars()
+{
+var vars = [], hash;
+var url1 = window.location.href;
+	if(url1.indexOf('?') != -1){
+		var hashes = url1.slice(url1.indexOf('?') + 1).split('&');
+		//alert("1="+hashes);
+		for(var i = 0; i < hashes.length; i++)
+		{
+			hash = hashes[i].split('=');
+			vars.push(hash[0]);
+			vars[hash[0]] = hash[1];
+		}
+		return vars;
+	}else{
+		return null;
+	}
+}
+</script>
+<script type="text/javascript" src="js/savecookie.js"></script>
+<script type="text/javascript" src="js/statename.js"></script>
+<script type="text/javascript" src="js/validations.js"></script>
+<script type="text/javascript">
+	var hash; 				
+	//var srcvalue = 'ondemand_idc_Aug2009 ';				
 
+function init_onload(){
+	hash = getUrlVars();
+	//alert(hash); 
+	
+	if (hash != null) 
+	{
+		if (hash=='src')
+		{	
+			var src1 = hash['src'];			
+			srcvalue = srcvalue+src1.replace(/%20/g, " ");
+		}else{
+			var ptn = hash['ptnr'];
+			srcvalue = srcvalue+ptn.replace(/%20/g, " ");
+			document.getElementById('myDiv').style.display="block";
+			spn = hash['ptnr'];
+			//alert(spn);
+			spn = spn.replace(/%20/g, " ");
+			spn = spn.replace(/</g, "&lt;");
+			spn = spn.replace(/>/g, "&gt;");
+			document.getElementById('myDiv').innerHTML='Co-Sponsored by '+spn; 
+			document.getElementById('00N70000002MjAM').value=spn;
+		}
+		/*if (hash=='src')
+		{				
+			srcvalue = srcvalue+hash['src'];
+		}else{
+			srcvalue = srcvalue+hash['ptnr'];
+		}*/
+	}
+	//alert(srcvalue);
+}
+function validate_submit(myform)
+			{
+
+				if(validate(myform))
+				{
+					var	val1= document.getElementById('00N700000029x9P');
+					if(trim(val1.value)=="")
+							{
+								alert('Please select a range for number of internet gateways in your organization. All fields in the form are mandatory');
+								val1.focus();
+								return false;
+					    }
+
+					var	val2= document.getElementById('00N70000002Bdof');
+
+
+					    if(trim(val2.value)=="")
+							{
+								alert('Please select a range for number of employees. All fields in the form are mandatory');
+								val2.focus();
+								return false;
+					    }
+
+					    var val3= document.getElementById('00N700000029xxq');
+
+							if(trim(val3.value)=="")
+							{
+								alert('Please select a value for what best describes your business. All fields in the form are mandatory');
+								val3.focus();
+								return false;
+		    			}
+
+		    			var val4= document.getElementById('00N70000002AVut');
+
+						if(trim(val4.value)=="")
+						{
+							alert('Please select a value for what is your biggest filtering/security challenges. All fields in the form are mandatory');
+							val4.focus();
+							return false;
+		    			}
+
+		    			var val5= document.getElementById('00N70000002AEnC');
+
+						if(trim(val5.value)=="")
+						{
+							alert('Please select a value for what Web Security tools do you currently use. All fields in the form are mandatory');
+							val5.focus();
+							return false;
+		    			}
+
+		    			var val6= document.getElementById('00N700000029xy0');
+
+						if(trim(val6.value)=="")
+						{
+							alert('Please select a value for how did you hear about us. All fields in the form are mandatory');
+							val6.focus();
+							return false;
+		    			}
+					if(document.getElementById("rem").value == 'yes'){
+						saveValues(myform);
+					}
+					myform.submit();
+								
+				}
+	}
+</script>
 <!-- InstanceEndEditable -->
-<!-- InstanceParam name="footer" type="boolean" value="true" -->
+
 </head>
-<body leftmargin="0" topmargin="0" onload="getSavedValues(this.form);init_onload();">
 
-<div style="margin:0 auto; width:85%">
-<div id="header">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-
+<body style="margin:0 0 0 0" onload="getSavedValues(this.form); init_onload();">
+<table width="990" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
   <tbody><tr>
-    <td height="55px"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
       <tbody><tr>
-        <td colspan="2" rowspan="2" align="left" valign="bottom"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+        <td width="64%" class="headerquote" style="padding-left:20px"><a href="http://www.zscaler.com/index.html"><img src="images/zscaler_logo.png" alt="Zscaler" title="Zscaler" width="234" height="65"></a></td>
+        <td width="36%" valign="top"><!-- InstanceBeginEditable name="lang1" -->
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
           <tbody><tr>
-            <td width="25%" align="left" valign="middle" style="padding:0px 0px 0px 10px;"><a href="index.html"><img src="images/zscaler_logo.png" title="Zscaler Logo" alt="Zscaler Logo" width="180" height="50" border="0" longdesc="index.html"></a></td>
-            <td width="75%" height="50" valign="bottom" class="headerquote">The Leader in Cloud Security</td>
+            <td colspan="2" valign="top"></td>
           </tr>
-        </tbody></table></td>
-        <td width="27%"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td colspan="2"><div id="header_right" style="width:100%;display:inline;"></div></td>
-            </tr>
-          <tr><!-- InstanceBeginEditable name="dropdown" -->
-            <td width="99%" height="30px">&nbsp;</td>
+          <tr>
+            <td>&nbsp;</td>
+            <td></td>
+          </tr>
+          <tr>
+            <td width="99%"><select id="lang" name="lang" class="select_search" onchange="gourl();">
+                <option value="us" selected="selected">English</option>
+                <option value="japanese">Japanese</option>
+                <option value="rus">Russian</option>
+            </select></td>
             <td width="1%"></td>
-        <!-- InstanceEndEditable -->  </tr> 
-        </tbody></table></td>
-      </tr>
-      <tr>
-        <td align="right"></td>
-      </tr>
-      <tr>
-        <td width="25%" height="10px"></td>
-        <td width="48%"></td>
-        <td></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+            <td></td>
+          </tr>
+        </tbody></table><!-- InstanceEndEditable --></td>
       </tr>
     </tbody></table></td>
   </tr>
-
   <tr>
-    <td width="90%"><!-- InstanceBeginEditable name="titlebox" -->
-      <div id="navigation">
-        <ul class="main_nav">
-          <a href="#" class="firstlink"><span></span></a>
-          <li><span style="font-size:16px; font-weight:bold; vertical-align:middle; line-height:36px;">Privacy Policy</span></li>
-                
-    <li class="nav_right"></li>
-    </ul>
-  </div><!-- InstanceEndEditable --></td></tr>
-  <tr>
-    <td valign="middle"></td>
-  </tr>
-</tbody></table>
-</div>
-<div id="container" style="float:left; width:100%; margin:0 auto;"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td valign="top"><!-- InstanceBeginEditable name="midform" -->
-      <table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
-        
+    <td style="width:100%"><!-- InstanceBeginEditable name="fortitle" -->
+      <table width="100%" border="0" cellspacing="0" cellpadding="0">
         <tbody><tr>
-          <td width="4%"></td>
-          <td width="92%" colspan="2"></td>
-          <td width="4%" colspan="2" rowspan="3" valign="top">&nbsp;</td>
-        </tr>
-        
-        <tr>
-          <td width="4%" rowspan="2" align="left" valign="top">&nbsp;</td>
-          <td colspan="2" align="left" valign="top"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="bodytxt">
-            <tbody><tr>
-              <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td align="center"><p class="firsthd"><strong>Privacy Statement<br>
-                  </strong></p></td>
-                  </tr>
-                <tr>
-                  <td align="center"><strong class="thirdhd1">Effective  January 15, 2009</strong></td>
-                </tr>
-              </tbody></table></td>
-            </tr>
-            <tr>
-              <td width="100%" valign="top" class="midnavheader">Overview</td>
-            </tr>
-            <tr>
-              <td valign="top"><strong class="thirdhd1"><em class="thirdhd1">What Is Covered in this Privacy  Statement? </em></strong>This  Privacy Statement contains information on how Zscaler, Inc. (“we”), processes  certain categories of data relating to individual persons. </td>
-            </tr>
-            
-            <tr>
-              <td valign="top"><ul class="inner_ul">
-                   <li>If you are a visitor to our website, www.zscaler.com,       please see the section "Website Privacy" below for a       comprehensive description of our data processing practices with respect to       data about you. </li>
-                   <li>If you are an end user of Zscaler Services, please see       the section "Service End User Privacy" below for information on       our data processing practices with respect to data about you. </li>
-                <li>If you are a resident of any European Union Member       State, please also see the section "EU Safe Harbor Privacy       Statement" below for a comprehensive description of our data       processing practices with respect to data about you in reference to the EU       Safe Harbor Principles. We refer to data relating to you as an       identifiable individual as "EU Personal Data." </li>
-                <li>Zscaler reserves the right to amend this policy at       anytime and the revised policy will take effect on the date posted on the       Zscaler website.</li>
-                </ul></td>
-            </tr>
-            <tr>
-              <td valign="top" class="secondpara"><span class="thirdhd1"><em class="thirdhd1">How Can You Contact Us? </em></span>If  you have questions or concerns regarding this Privacy Statement, please feel  free to contact us by email at <a href="mailto:info@zscaler.com">info@zscaler.com</a> or write to us at:</td>
-            </tr>
-            <tr>
-              <td valign="top">Privacy  Matters<br>
-                c/o Zscaler, Inc.<br>
-                392 Potrero Ave. <br>
-                Sunnyvale,  CA 94085, 
-                USA</td>
-            </tr>
-            <tr>
-              <td valign="top">&nbsp;</td>
-            </tr>
-            <tr>
-              <td valign="top" class="midnavheader">Website Privacy </td>
-            </tr>
-            <tr>
-              <td><em class="thirdhd1">What Is Covered by This Section?</em> The  paragraphs in this section describe how we use and disseminate information collected  about Website Visitors through our Website. It does not cover any other data  processing activities. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Your Use of the Public Website  Implies Consent.</em> Your  use of the Website signifies your acceptance of this Privacy Statement. If you  do not agree or are not comfortable with any policy described in this Privacy  Statement, your remedies are to discontinue your use of the Website. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">If You Don't Volunteer Any Personal  Data, We Won't Collect Any Through the Website.</em> We use cookies and various traffic  tracking technologies to monitor the use of our Website. We collect such data  related to IP addresses but do not link it to any personally identifiable  information (such as names and email addresses) that you may voluntarily submit  to us through other means (except as described below, in "Agents and  Service Providers"). </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Agents and Service Providers.</em> We  may engage data processing agents and service providers that assist us in the  processing of personally identifiable information that Website Visitors may  volunteer through the Website, as well as electronic messages and traffic data  that is linked to IP addresses. Such third parties process data only on our  behalf and are contractually obligated to refrain from using such data for  their own purposes. Each time visitors visit our Website after they have  submitted a Web Form to us or clicked on a particular link in a marketing email  from us, we maintain a record of certain information about their visit  including the pages viewed on our Website, the time of the visit, the order of  pages accessed and the amount of time such visitors spend at each page. We use  this information to better tailor our services to our visitors. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Use of Cookies. </em>A  cookie is a small text file containing information that a web browser transfers  to your computer's hard disk for record-keeping purposes. On the Website, we  may use cookies to analyze our site traffic patterns, but, except as described  above, we link cookies only to IP addresses and not any personally identifiable  information about Website Visitors (such as names or email addresses). For  example, we currently use third party service providers (e.g. Google Analytics)  to analyze traffic to the Public Website. Other than as mentioned above, the  software used by us does not have a database of individual profiles for each  visitor connected to personally identifiable information. This third party  software uses cookies to track non-personally identifiable information, and  links cookies only to IP addresses and aggregate data about the traffic to the  Website. Most web browsers automatically accept cookies. Please consult your  browser's manual or online help if you want information on restricting or  disabling the browser's handling of cookies. If you disable cookies, you can  still view the Website, but some features may not be available and you may not  be able to take advantage of offers or activities regarding online  registration, which includes online sales.</td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Volunteered Information Collected on  the Website. </em>Website  Visitors may contact us in a variety of ways, including, without limitation, by  completing the Web Forms described in the table below. Contact information,  such as name, address, email addresses and/or phone number, is typically  provided when using these methods. This information is used to provide the  services that are requested by the Website Visitor (e.g. to respond to your  request for further information about us or our services, to send you a  newsletter or White Paper if you request them, to send you free software,  etc.). We do not sell your name to an independent third party. </td>
-            </tr>
-            <tr>
-              <td class="secondpara">Website Visitors may sign up to  receive various information or services from us, including the following: (i)  free trials of our services, (ii) White Papers, (iii) product demonstrations, (iv)  our Webinars or those of other third parties. We may send promotional emails to  Website Visitors who have sent us such Web Forms. We may provide your  information from these Web Forms to certain of our authorized resellers to  communicate information to you about our services.</td>
-            </tr>
-            <tr>
-              <td class="secondpara">We also allow Website Visitors to  contact us by email with questions, comments or requests. The information  collected from these emails is used to reply to such questions, comments, or  requests. Sometimes we file visitor's comments, so that we can improve the  Website in the future.</td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Disclosure to Third Parties.</em> In  the course of our normal business activities, we do not share personally  identifiable data about Website Visitors with any independent third parties,  other than with our agents, service providers and authorized resellers as  described in the preceding paragraphs "Agents and Service Providers"  and "Volunteered Information Collected on the Website." In  particular, we are not in the business of selling, renting or loaning personally  identifiable information to independent third parties. </td>
-            </tr>
-            
-            <tr>
-              <td class="secondpara">Nevertheless, we may have to  disclose information to third parties when required by law or under the  good-faith belief that such disclosure is necessary in order to conform to  applicable law, comply with legal process served on us, or to protect the  property or interests, its agents and employees, or the personal safety of  others, or the public. Under such circumstances, we may be prohibited by law,  court order or other legal process from providing notice of the disclosure, and  we reserve the right to not provide such notice in its sole discretion. </td>
-            </tr>
-            <tr>
-              <td class="secondpara">If we become involved in a merger,  acquisition, or any form of sale of some or all of our assets, we will provide  notice before personal information is transferred and becomes subject to a  different privacy policy. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Links to Other Sites. </em>The  Website may contain links to other sites. We are not responsible for the  privacy practices of any sites other than our own. This section on  "Website Privacy" applies only to information collected by us on the public  website. We may use service providers to collect certain information about  those users who register for our webinars including the user's name, title,  company name, physical address, email address, phone number, web address, job  title, company size, and job function. Our service providers then provide us  this information so that we may follow-up to provide our services to such users. </td>
-            </tr>
-            <tr>
-              <td class="secondhd">Service End User Privacy </td>
-            </tr>
-            <tr>
-              <td><em class="thirdhd1">What Is Covered by This Section? </em>The  paragraphs in this section provide information on how we use and disseminates  information collected about End Users of our Zscaler services. It does not  cover any other data processing activities. </td>
-            </tr>
-            <tr>
-              <td class="secondpara">Zscaler is a data processor which processes web traffic on  behalf of its client who is the data controller.&nbsp; Clients contract with Zscaler to deliver such  web traffic security services.&nbsp; The term  data controller is defined in US Safe Harbor and EU privacy legislation as the  natural or legal person, public authority, agency or any other body which alone  or jointly with others determines the purposes and means of the processing of  personal data. The data controller retains full responsibility for the data with  regards to the individual(s) concerned.&nbsp; The  term data processor means a natural or legal person, public authority, agency  or any other body which processes personal data on behalf of the controller.</td>
-            </tr>
-            <tr>
-              <td class="secondpara">All  legislation referred to herein requires that the relationship between a data  controller and a data processor is covered by a contract before outsourcing  related to the processing of personal data takes place. The purpose of the  contract is to protect the interests of the data controller, i.e. the person or  body who determines the purposes and means of processing, who retains full  responsibility for the data with regards to the individuals concerned. The  contract thus specifies the processing to be carried out and any measures  necessary to ensure that the data are kept secure. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Zscaler  obligations.&nbsp; </em>Zscaler’s  obligations may vary according to the jurisdiction of our client and their area  of business. The typical obligations to ensure compliance with the most common  privacy legislation are: to comply with the U.S. Safe Harbor principles, EU  data protection legislation or other similar national legislation as a data  processor; to ensure that the data is only used for the purpose of providing  our web security service and purposes that are authorized and requested by our  client; to keep the data confidential.</td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Client obligations</em>.&nbsp; To  ensure that we process personal data in accordance with relevant privacy  regulations we will only offer our service under a contract which defines the  obligations of Zscaler and our client according to applicable privacy  legislation. We will always require our clients to comply with relevant privacy  legislation as the data controller.&nbsp; Zscaler does not control the sharing  of personal information related to our service. This is governed by our client,  the data controller, in accordance with the client privacy policy and applicable  privacy legislation.<br></td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Zscaler  may transfer personal data when legally required to do so.&nbsp; </em>Zscaler  will not transfer personal data to other entities without authorization or  request from our client unless Zscaler is legally required to do so, for  example, by a court order or subpoena.<br></td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Who  should End Users contact regarding privacy? </em> If you are an end-user of our service you should contact our  client for any information related to information held about you and the  privacy policy which governs the relationship between you and our client.&nbsp; In many cases our client will be your  employer. </td>
-            </tr>
-            <tr>
-              <td class="secondpara"><em class="thirdhd1">Access by Zscaler employees.&nbsp; </em>Access  to private and confidential data on our systems is limited to only those  employees with a specific need to retrieve this information.&nbsp; Zscaler uses  commercially reasonable computer security safeguards to protect its databases  and servers against risks of loss, unauthorized access, destruction, misuse,  modification, or inadvertent or improper disclosure of data.&nbsp; These risks,  however, cannot be completely eliminated and Zscaler therefore cannot guarantee  complete security of any information you transmit to us, and this information  is transmitted at your own risk.</td>
-            </tr>
-            <tr>
-              <td class="secondhd">EU Safe Harbor Privacy Statement</td>
-            </tr>
-            <tr>
-              <td>Zscaler  adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward  Transfer, Security, Data Integrity, Access and Enforcement, and is registered  with the <a href="http://www.export.gov/safeharbor/" target="_blank" class="greylnkactive">U.S. Department of  Commerce’s Safe Harbor Program</a>.</td>
-            </tr>
-            
-            <tr>
-              <td valign="top" class="secondpara">&nbsp;</td>
-            </tr>
-          </tbody></table></td>
+          <td style="background-image:url(images/topmenuleft.png); background-repeat:no-repeat; background-position:left; height:38px; width:16px;">&nbsp;</td>
+          <td class="formheader" style="background-image:url(images/topmenubg.png); background-repeat:repeat-x; background-position:left; height:38px;">Privacy Policy </td>
+          <td style="background-image:url(images/topmenuright.png); background-repeat:no-repeat; background-position:left; width:16px; height:38px">&nbsp;</td>
         </tr>
       </tbody></table>
-    <!-- InstanceEndEditable --></td>
+    
+	 <!-- InstanceEndEditable --></td>
+  </tr>
+  
+  <tr>
+    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td valign="top"><!-- InstanceBeginEditable name="main" -->
+          <table width="100%" border="0" cellspacing="0" cellpadding="0"><tbody><tr><td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tbody><tr>
+              <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                  <tbody><tr>
+                    <td width="100%" colspan="2" style="background-image:url(images/headbg.gif); background-repeat:repeat-x; height:40px; "><div id="myDiv" style="background-color:#efefef; display:none" class="firsthdtxt"></div></td>
+                  </tr>
+                  <tr>
+                    <td colspan="2" class="leftbody"><table width="100%" border="0" cellpadding="0" cellspacing="0" class="bodytxt">
+                      <tbody><tr>
+                        <td valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                              <td align="center"><p class="firsthd"><strong>Privacy Statement<br>
+                              </strong></p></td>
+                            </tr>
+                            <tr>
+                              <td align="center"><strong class="thirdhd1">Effective  January 15, 2009</strong></td>
+                            </tr>
+                        </tbody></table></td>
+                      </tr>
+                      <tr>
+                        <td width="100%" valign="top" class="midnavheader1">Overview</td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><strong class="thirdhd1"><em class="thirdhd1">What Is Covered in this Privacy  Statement? </em></strong>This  Privacy Statement contains information on how Zscaler, Inc. (“we”), processes  certain categories of data relating to individual persons. </td>
+                      </tr>
+                      <tr>
+                        <td valign="top"><ul class="inner_ul">
+                            <li>If you are a visitor to our website, www.zscaler.com,       please see the section "Website Privacy" below for a       comprehensive description of our data processing practices with respect to       data about you. </li>
+                          <li>If you are an end user of Zscaler Services, please see       the section "Service End User Privacy" below for information on       our data processing practices with respect to data about you. </li>
+                          <li>If you are a resident of any European Union Member       State, please also see the section "EU Safe Harbor Privacy       Statement" below for a comprehensive description of our data       processing practices with respect to data about you in reference to the EU       Safe Harbor Principles. We refer to data relating to you as an       identifiable individual as "EU Personal Data." </li>
+                          <li>Zscaler reserves the right to amend this policy at       anytime and the revised policy will take effect on the date posted on the       Zscaler website.</li>
+                        </ul></td>
+                      </tr>
+                      <tr>
+                        <td valign="top" class="secondpara1"><span class="thirdhd1"><em class="thirdhd1">How Can You Contact Us? </em></span>If  you have questions or concerns regarding this Privacy Statement, please feel  free to contact us by email at <a href="mailto:info@zscaler.com">info@zscaler.com</a> or write to us at:</td>
+                      </tr>
+                      <tr>
+                        <td valign="top">Privacy  Matters<br>
+                          c/o Zscaler, Inc.<br>
+                          392 Potrero Ave. <br>
+                          Sunnyvale,  CA 94085, 
+                          USA</td>
+                      </tr>
+                      <tr>
+                        <td valign="top">&nbsp;</td>
+                      </tr>
+                      <tr>
+                        <td valign="top" class="midnavheader1">Website Privacy </td>
+                      </tr>
+                      <tr>
+                        <td><em class="thirdhd1">What Is Covered by This Section?</em> The  paragraphs in this section describe how we use and disseminate information collected  about Website Visitors through our Website. It does not cover any other data  processing activities. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Your Use of the Public Website  Implies Consent.</em> Your  use of the Website signifies your acceptance of this Privacy Statement. If you  do not agree or are not comfortable with any policy described in this Privacy  Statement, your remedies are to discontinue your use of the Website. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">If You Don't Volunteer Any Personal  Data, We Won't Collect Any Through the Website.</em> We use cookies and various traffic  tracking technologies to monitor the use of our Website. We collect such data  related to IP addresses but do not link it to any personally identifiable  information (such as names and email addresses) that you may voluntarily submit  to us through other means (except as described below, in "Agents and  Service Providers"). </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Agents and Service Providers.</em> We  may engage data processing agents and service providers that assist us in the  processing of personally identifiable information that Website Visitors may  volunteer through the Website, as well as electronic messages and traffic data  that is linked to IP addresses. Such third parties process data only on our  behalf and are contractually obligated to refrain from using such data for  their own purposes. Each time visitors visit our Website after they have  submitted a Web Form to us or clicked on a particular link in a marketing email  from us, we maintain a record of certain information about their visit  including the pages viewed on our Website, the time of the visit, the order of  pages accessed and the amount of time such visitors spend at each page. We use  this information to better tailor our services to our visitors. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Use of Cookies. </em>A  cookie is a small text file containing information that a web browser transfers  to your computer's hard disk for record-keeping purposes. On the Website, we  may use cookies to analyze our site traffic patterns, but, except as described  above, we link cookies only to IP addresses and not any personally identifiable  information about Website Visitors (such as names or email addresses). For  example, we currently use third party service providers (e.g. Google Analytics)  to analyze traffic to the Public Website. Other than as mentioned above, the  software used by us does not have a database of individual profiles for each  visitor connected to personally identifiable information. This third party  software uses cookies to track non-personally identifiable information, and  links cookies only to IP addresses and aggregate data about the traffic to the  Website. Most web browsers automatically accept cookies. Please consult your  browser's manual or online help if you want information on restricting or  disabling the browser's handling of cookies. If you disable cookies, you can  still view the Website, but some features may not be available and you may not  be able to take advantage of offers or activities regarding online  registration, which includes online sales.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Volunteered Information Collected on  the Website. </em>Website  Visitors may contact us in a variety of ways, including, without limitation, by  completing the Web Forms described in the table below. Contact information,  such as name, address, email addresses and/or phone number, is typically  provided when using these methods. This information is used to provide the  services that are requested by the Website Visitor (e.g. to respond to your  request for further information about us or our services, to send you a  newsletter or White Paper if you request them, to send you free software,  etc.). We do not sell your name to an independent third party. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">Website Visitors may sign up to  receive various information or services from us, including the following: (i)  free trials of our services, (ii) White Papers, (iii) product demonstrations, (iv)  our Webinars or those of other third parties. We may send promotional emails to  Website Visitors who have sent us such Web Forms. We may provide your  information from these Web Forms to certain of our authorized resellers to  communicate information to you about our services.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">We also allow Website Visitors to  contact us by email with questions, comments or requests. The information  collected from these emails is used to reply to such questions, comments, or  requests. Sometimes we file visitor's comments, so that we can improve the  Website in the future.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Disclosure to Third Parties.</em> In  the course of our normal business activities, we do not share personally  identifiable data about Website Visitors with any independent third parties,  other than with our agents, service providers and authorized resellers as  described in the preceding paragraphs "Agents and Service Providers"  and "Volunteered Information Collected on the Website." In  particular, we are not in the business of selling, renting or loaning personally  identifiable information to independent third parties. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">Nevertheless, we may have to  disclose information to third parties when required by law or under the  good-faith belief that such disclosure is necessary in order to conform to  applicable law, comply with legal process served on us, or to protect the  property or interests, its agents and employees, or the personal safety of  others, or the public. Under such circumstances, we may be prohibited by law,  court order or other legal process from providing notice of the disclosure, and  we reserve the right to not provide such notice in its sole discretion. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">If we become involved in a merger,  acquisition, or any form of sale of some or all of our assets, we will provide  notice before personal information is transferred and becomes subject to a  different privacy policy. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Links to Other Sites. </em>The  Website may contain links to other sites. We are not responsible for the  privacy practices of any sites other than our own. This section on  "Website Privacy" applies only to information collected by us on the public  website. We may use service providers to collect certain information about  those users who register for our webinars including the user's name, title,  company name, physical address, email address, phone number, web address, job  title, company size, and job function. Our service providers then provide us  this information so that we may follow-up to provide our services to such users. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondhd2">Service End User Privacy </td>
+                      </tr>
+                      <tr>
+                        <td><em class="thirdhd1">What Is Covered by This Section? </em>The  paragraphs in this section provide information on how we use and disseminates  information collected about End Users of our Zscaler services. It does not  cover any other data processing activities. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">Zscaler is a data processor which processes web traffic on  behalf of its client who is the data controller.&nbsp; Clients contract with Zscaler to deliver such  web traffic security services.&nbsp; The term  data controller is defined in US Safe Harbor and EU privacy legislation as the  natural or legal person, public authority, agency or any other body which alone  or jointly with others determines the purposes and means of the processing of  personal data. The data controller retains full responsibility for the data with  regards to the individual(s) concerned.&nbsp; The  term data processor means a natural or legal person, public authority, agency  or any other body which processes personal data on behalf of the controller.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1">All  legislation referred to herein requires that the relationship between a data  controller and a data processor is covered by a contract before outsourcing  related to the processing of personal data takes place. The purpose of the  contract is to protect the interests of the data controller, i.e. the person or  body who determines the purposes and means of processing, who retains full  responsibility for the data with regards to the individuals concerned. The  contract thus specifies the processing to be carried out and any measures  necessary to ensure that the data are kept secure. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Zscaler  obligations.&nbsp; </em>Zscaler’s  obligations may vary according to the jurisdiction of our client and their area  of business. The typical obligations to ensure compliance with the most common  privacy legislation are: to comply with the U.S. Safe Harbor principles, EU  data protection legislation or other similar national legislation as a data  processor; to ensure that the data is only used for the purpose of providing  our web security service and purposes that are authorized and requested by our  client; to keep the data confidential.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Client obligations</em>.&nbsp; To  ensure that we process personal data in accordance with relevant privacy  regulations we will only offer our service under a contract which defines the  obligations of Zscaler and our client according to applicable privacy  legislation. We will always require our clients to comply with relevant privacy  legislation as the data controller.&nbsp; Zscaler does not control the sharing  of personal information related to our service. This is governed by our client,  the data controller, in accordance with the client privacy policy and applicable  privacy legislation.<br></td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Zscaler  may transfer personal data when legally required to do so.&nbsp; </em>Zscaler  will not transfer personal data to other entities without authorization or  request from our client unless Zscaler is legally required to do so, for  example, by a court order or subpoena.<br></td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Who  should End Users contact regarding privacy? </em> If you are an end-user of our service you should contact our  client for any information related to information held about you and the  privacy policy which governs the relationship between you and our client.&nbsp; In many cases our client will be your  employer. </td>
+                      </tr>
+                      <tr>
+                        <td class="secondpara1"><em class="thirdhd1">Access by Zscaler employees.&nbsp; </em>Access  to private and confidential data on our systems is limited to only those  employees with a specific need to retrieve this information.&nbsp; Zscaler uses  commercially reasonable computer security safeguards to protect its databases  and servers against risks of loss, unauthorized access, destruction, misuse,  modification, or inadvertent or improper disclosure of data.&nbsp; These risks,  however, cannot be completely eliminated and Zscaler therefore cannot guarantee  complete security of any information you transmit to us, and this information  is transmitted at your own risk.</td>
+                      </tr>
+                      <tr>
+                        <td class="secondhd2">EU Safe Harbor Privacy Statement</td>
+                      </tr>
+                      <tr>
+                        <td>Zscaler  adheres to the US Safe Harbor Privacy Principles of Notice, Choice, Onward  Transfer, Security, Data Integrity, Access and Enforcement, and is registered  with the <a href="http://www.export.gov/safeharbor/" target="_blank" class="greylnkactive">U.S. Department of  Commerce’s Safe Harbor Program</a>.</td>
+                      </tr>
+                      <tr>
+                        <td valign="top" class="secondpara">&nbsp;</td>
+                      </tr>
+                    </tbody></table></td>
+                  </tr>
+                  
+              </tbody></table></td>
+            </tr>
+<tr></tr>
+        </tbody></table></td>
+          </tr>
+        </tbody></table>
+        <!-- InstanceEndEditable --></td>
+        </tr>
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+  </tr>
+  <tr>
+    <td align="center" style="background-image:url(images/footerbg.png); background-repeat:no-repeat; height:40px; width:990px"><span class="greylink">© 2009-2010 Zscaler, Inc. All rights reserved. | <a href="PrivacyPolicy.html" target="_self" class="greylink">Privacy Policy</a> | <a href="acceptable_use_policy.html" target="_self" class="greylink">Acceptable Use Policy</a> | <a href="sitemap.html" target="_self" class="greylink">Site Map</a></span></td>
   </tr>
 </tbody></table>
-</div>
-</div>
-
-
-<div id="footer" style="margin:20px auto">
-  <table width="85%" border="0" cellspacing="0" cellpadding="0" align="center">
-    
-    
-    <tbody><tr>
-      <td width="984%" height="30" colspan="8" align="center" class="greylink">© 2008-2009 Zscaler, Inc. All rights reserved. | <a href="sitemap.html">Site Map</a> |&nbsp; <a href="PrivacyPolicy.html" target="_self" class="greylink">Privacy Policy</a> | <a href="acceptable_use_policy.html" target="_self" class="greylink">Acceptable Use Policy</a></td>
-    </tr>
-  </tbody></table>
-</div>
-
 <script type="text/javascript" src="js/ganal.js"></script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript" src="js/analy.js"></script>
 
@@ -231,12 +349,8 @@
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-var pageTracker = _gat._getTracker("UA-6177009-1");
-pageTracker._trackPageview();
-</script>
-<script type="text/javascript" language="javascript">llactid=14146</script>
-<script type="text/javascript" language="javascript" src="http://t4.trackalyzer.com/trackalyze.js"></script> 
+
+
 
 <!-- InstanceEnd -->
 </body></html>
