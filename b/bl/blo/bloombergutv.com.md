@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bloombergutv.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208102923id_/http%3A//www.bloombergutv.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloombergutv.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609092455id_/http%3A//www.bloombergutv.com/privacypolicy.php) for the most accurate reproduction.*
 
-# Online Business News of Indian Stock Market, Financial News, World business News, Live stock market , Top share, Financial news, headline news at BloombergUTV.com
+# BloombergUTV: Latest Business News, India Business News, Stock Market News, Live Stock Quotes, Latest India News, Financial News and World Business News
 
 **UTV News Limited BloombergUTV ("BloombergUTV")**
 
