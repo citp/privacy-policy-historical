@@ -1,357 +1,372 @@
-<!--The following is the downloaded HTML source of the acs-inc.com privacy policy that was archived on 2009-07-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090718095608id_/http%3A//www.acs-inc.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acs-inc.com privacy policy that was archived on 2010-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609205852id_/http%3A//www.acs-inc.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=7"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><title>Affiliated Computer Services</title>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><link rel="shortcut icon" href="favicon.ico">
-<style type="text/css" media="screen">@import "/css/nav.css";</style>
-<style type="text/css" media="screen">@import "/css/main.css";</style>
-<style type="text/css" media="print">@import "/css/print.css";</style>
-<script type="text/javascript" src="/js/acs.js"></script>
-<script src="/js/jquery.js" type="text/javascript"></script> 
-<script src="/js/jq.cleanCSSanim.js" type="text/javascript"></script> 
-<script src="/js/dimensions.js" type="text/javascript"></script>
-<script src="/js/jq_dickerfisch_menue.js" type="text/javascript"></script>
-<script src="/js/SearchHighlight.js" type="text/javascript"></script>
-<!--[if lte IE 7]>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head id="ctl00_Head1"><title>Affiliated Computer Services</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7"><script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
+<script id="EktronJS" type="text/javascript" src="/WorkArea/java/ektron.js"></script>
+<script id="EktronDmsMenuJS" type="text/javascript" src="/WorkArea/DmsMenu/DmsMenu.js"></script>
+
+
+    <style type="text/css" media="screen">
+        @import "/css/nav.css";
+    </style>
+    <style type="text/css" media="screen">
+        @import "/css/main.css";
+    </style>
+    <style type="text/css" media="print">
+        @import "/css/print.css";
+    </style>
+
+    <script type="text/javascript" src="/js/acs.js"></script>
+
+    <script src="/js/jquery.js" type="text/javascript"></script>
+
+    <script src="/js/jq.cleanCSSanim.js" type="text/javascript"></script>
+
+    <script src="/js/dimensions.js" type="text/javascript"></script>
+
+    <script src="/js/SearchHighlight.js" type="text/javascript"></script>
+
+    <script type="text/javascript" language="javascript">
+    sfHover = function() 
+    {
+     var sfEls = document.getElementById("nav").getElementsByTagName("LI");     
+     for (var i=0; i<sfEls.length; i++) {         
+        sfEls[i].onmouseover=function() {             
+            this.className+=" sfhover";         
+        }         
+        sfEls[i].onmouseout=function() {             
+            this.className=this.className.replace(new RegExp(" sfhover\\b"), "");         
+            
+        }     
+      } 
+    } 
+    if (window.attachEvent) window.attachEvent("onload", sfHover); 
+    
+    </script>
+
+    <!--[if lte IE 7]>
 <link rel="STYLESHEET" type="text/css" href="/css/ie7.css" /> 
-<![endif]--> 
-<!--[if lte IE 6]> 
+<![endif]-->
+    <!--[if lte IE 6]> 
 <noscript><link rel="STYLESHEET" type="text/css" href="/css/ie6.css" /></noscript> 
 <![endif]-->
-<script type="text/javascript">
 
+    <script type="text/javascript">
 $(document).ready(function() {
-	var samp3 = new DickerFisch('#nav',{NavTimeout: new Array(99,250),Fit2ViewportClass:'leftover',LimitLinks:0});
-});
-jQuery(function(){
-    var options = {
-                exact:"partial",
-                style_name_suffix:false
-    }
-    jQuery(document).SearchHighlight(options);
-});
-</script>
-<script type="text/javascript">
-<!--
-$(document).ready(function(){
-  $("#greenpage").css("visibility", "hidden");
-  $("PublicSector").css("visibility", "hidden");
-  $("#greenpage_image").css("visibility", "hidden");   
-  $("#PublicSector_image").css("visibility", "hidden");   
+
+//Add bindings for expand/collapse content
+ $("p.slide").toggle(function(){
+   $(this).parent().addClass("panel-down");
+ },function(){
+   $(this).parent().removeClass("panel-down");
+ });
+
+$("p#closeall").bind("click", function () {$(".panel_example").next().css("display","none");
+$(".panel_example").removeClass("panel-down");});
+$("p#openall").bind("click", function () {$(".panel_example").next().css("display","block");
+$(".panel_example").addClass("panel-down");});
+$("p.slide").bind("click", function () {$(this).parent().next().toggle();
+return false;});
+//Greenpage visible
   $("#greenpage").hover(function(){
   $("#greenpage_image").css("visibility", ""); 
  }, function(){  
   $("#greenpage_image").css("visibility", "hidden");   
 });
-  $("#PublicSector").hover(function(){
-  $("#PublicSector_image").css("visibility", ""); 
- }, function(){  
-  $("#PublicSector_image").css("visibility", "hidden");   
-});
-  $(".greenpageblock").bind("myEvent",function(event){$("#greenpage").css("visibility", "visible");$("#PublicSector").css("visibility", "hidden");});
-  $(".greenpageblock").trigger("myEvent");
-  $("#PublicSector").css("visibility", "visible");
-  $(".PublicSectorblock_left").trigger("myEvent");
-  
 
-  var rollover = $('.acstopmenu').html() 
-  $("#" + rollover).css("background-image", "url(/images/nav_" + rollover + "_over.gif)"); 
-  $("#" + rollover).next("li").html("&nbsp;");   
-  $("#" + rollover).prev("li").html("&nbsp;");
-   
-  $(".panel_example").next().slideUp("fast"); 
-  $(".panel_example").addClass("panel-up");   
-  
-  $("#sidebar").bind("myEvent",function(event){$("#bodycontent").css("width", "743px");});  
-  $("#sidebar").trigger("myEvent");
-
-  $("#sidebar > .int").bind("myEvent",function(event){$("#bodycontent").css("width", "500px");});  
-  $("#sidebar > .int").trigger("myEvent");
-  $(".contact_info_stmt").bind("myEvent",function(event){$("#subnav").append("<p style='margin-top: 130px;'>Let us help you find what you're looking for,<br />call: 1-214-841-6111,<br />email: <a href='mailto:info@acs-inc.com'>info@acs-inc.com</a></p>");});  
-  $(".contact_info_stmt").trigger("myEvent"); 
-  $('ul:empty').css("display","none")
-  $('.sitemap:empty').css("display","none")
-  $('#sidebar:empty').css("display","none")
-  
-  /*the script for automatically expanding collapsible content on search results*/
-  $("span.hilite").bind("OpenMe",function(event){ 
-   $(".panel_example").next().slideDown("slow");  
-   //$(".panel_example").removeClass("panel-down");      
-   $(".panel_example").addClass("panel-down"); 
-   $(".greenpageblock > img").css("visibility", "visible");      
-   $(".greenpageblock > img").show("fast") 
-   $(".PublicSectorblock > img").css("visibility", "visible");      
-   $(".PublicSectorblock > img").show("fast") 
-  });
-  $("span.hilite").trigger("OpenMe");
-  
-/*automatically make all links open in new window*/
-$("a[@href^='http']").attr('target','_blank');
-
-$("#openall").click(function(){ 
-  $(".panel_example").next().slideUp("slow"); 
-  $(".panel_example").removeClass("panel-down");     
-  $(".panel_example").addClass("panel-up");
-  $(".greenpageblock > img").css("visibility", "visible");     
-  $(".greenpageblock > img").show("fast")
-  $(".PublicSectorblock > img").css("visibility", "visible");      
-  $(".PublicSectorblock > img").show("fast")
 });
-
-$("#closeall").click(function(){ 
-  $(".panel_example").next().slideDown("slow");  
-  $(".panel_example").addClass("panel-down");
-});   
-
-$(".panel_example").click(function(){    
-  $(this).next().slideToggle("slow", function(){  
-  $(this).prev().focus();
-  //$(".greenpageblock > img").focus();
-  $(this).prev().toggleClass("panel-down");
-  
-  $(".greenpageblock > img").css("visibility", "visible");  
-  $(".greenpageblock > img").show("fast")
-  $(".PublicSectorblock > img").css("visibility", "visible");      
-  $(".PublicSectorblock > img").show("fast")   
-  });
-});
-/* 
-$("#openall").click(function(){  
-  $(".panel_example").next().hide("slow");  
-  $(".panel_example").addClass("panel-down");  
-}); 
-
-$("#closeall").click(function(){  
-  $(".panel_example").next().show("slow");  
-  $(".panel_example").removeClass("panel-down");      
-  $(".panel_example").addClass("panel-up");    
-});    
-
-$(".panel_example").click(function(){  
-  $(this).next().show("slow", function(){ 
-   $(this).prev().toggleClass("panel-down"); 
-  });  
-});
-*/
-/*this is for Locations Map to toggle the expandable content*/
-$("#map_na").click(function(){  
-  $(".slide0").parent("div").next().slideToggle("slow", function(){ 
-   $(".slide0").parent("div").toggleClass("panel-down");
-}); 
-});
-$("#map_la").click(function(){  
-  $(".slide1").parent("div").next().slideToggle("slow", function(){ 
-   $(".slide1").parent("div").toggleClass("panel-down");
-}); 
-});
-$("#map_eu").click(function(){  
-  $(".slide2").parent("div").next().slideToggle("slow", function(){ 
-   $(".slide2").parent("div").toggleClass("panel-down");
-}); 
-});
-$("#map_me").click(function(){  
-  $(".slide3").parent("div").next().slideToggle("slow", function(){ 
-   $(".slide3").parent("div").toggleClass("panel-down");
-}); 
-});
-$("#map_ap").click(function(){  
-  $(".slide4").parent("div").next().slideToggle("slow", function(){ 
-   $(".slide4").parent("div").toggleClass("panel-down");   
-}); 
-});
-
-$("#sfnav > .parent").hover(function(){
- $(this).next("li").css("visibility", "hidden");  $(this).prev("li").css("visibility", "hidden"); }, function(){  $(this).next("li").css("visibility", "visible");  $(this).prev("li").css("visibility", "visible"); });
-}); 
-//-->
-</script>
-
-<!-- Home Page Script -->
-    <script type="text/javascript" src="/js/jquery.cycle.all.pack.js"></script>
-    <script type="text/javascript">
-<!--
-$(document).ready(function(){
- $(".black").fadeTo("fast", 0.4);
-$("#jumpbox > ul").hover(function(){  
-$("#jumpbox > ul").css("overflow","visible"); 
-}, function(){  
-$("#jumpbox > ul").css("overflow","hidden");  
-});
-$('#style').cycle({ 
-    fx:     'scrollHorz', 
-    speed:  'slow', 
-    timeout: 25000, 
-    next:   '#next', 
-    prev:   '#prev',
-            before:  fadeIn, 
-            after:   fadeAway
-});         
-
-$(".contentbox").hover(function(){
-  $(this).fadeTo("slow", 1.0); 
- },function(){ 
-  $(this).fadeTo("slow", 0.2); 
-});
- 
-function fadeIn() { 
- $(".contentbox").fadeTo("fast", 1.0);
-}           
-
-function fadeAway() { 
- setTimeout(function(){
- $(".contentbox").fadeTo(2000, 0.2);
- }, 3000);
-}           
-});
-//-->
     </script>
-<!-- End Home Page Script -->
+    <script type="text/javascript" src="swfobject.js"></script>
+    <script type="text/javascript">
+    function LoadVideoPlayerPages(iMage,iMovie,iwidth, iheight)
+        {     
+            var s1 = new SWFObject("player.swf","ply",iwidth,iheight,"3","#FFFFFF");
+  	        s1.addParam("allowfullscreen","true");
+ 	        s1.addParam("allownetworking","all");
+ 	        s1.addParam("allowscriptaccess","always");
+ 	        s1.addVariable("repeat","true");
+		    s1.addParam("wmode", "transparent");	   
+	        s1.addParam("flashvars","&file="+iMovie+"&image="+iMage+"&viral.callout=none&viral.onpause=false&viral.functions=none");	   	    
+	        s1.write("PagesDiv");
+    	   
+	    }
+    </script>  
 
-<!--[if lt IE 7]>
+    <!--[if lt IE 7]>
 <style type="text/css" media="screen">
 body{behavior:url(csshover.htc);}
 </style>
 <![endif]-->
 
+<link id="EktronModalCss" href="/WorkArea/java/plugins/modal/ektron.modal.css" type="text/css" rel="stylesheet">
 
-<link id="ctl00_ctl00_ekcss_global" href="/WorkArea/csslib/global.css" type="text/css" rel="stylesheet">
+<link id="_css_acsTopMenu.css" href="/css/acsTopMenu.css" type="text/css" rel="stylesheet">
 
-<script id="EktronFlexMenuJS" type="text/javascript" src="/WorkArea/java/ek_flexmenu.js"></script>
-
-<link id="_css_leftmenu.css" href="/css/leftmenu.css" type="text/css" rel="stylesheet">
-<title>
+<link id="_css_slaveexpand.css" href="/css/slaveexpand.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script><script type="text/javascript">try {var pageTracker = _gat._getTracker("UA-8395445-8");pageTracker._trackPageview();} catch(err) {} </script><title>
 	Untitled Page
-</title><script language="javascript" type="text/javascript">
-function getqv(variable) 
-{
-    var query = window.location.search.substring(1);
-    var vars = query.split("&");
-    for (var i=0;i<vars.length;i++) {
-    var pair = vars[i].split("=");
-    if (pair[0] == variable) 
-    {
-      return pair[1];
+</title></head>
+<body>
+    <form name="aspnetForm" method="post" action="/privacy.aspx" id="aspnetForm" title="">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTA1NzM1Mzk0NA9kFgJmD2QWAgIDEGRkFgYCBQ8WAh4EaHJlZgUUaHR0cDovL3d3dy54ZXJveC5jb21kAhEPFgIeBFRleHQFTDxoMT5Qcml2YWN5PC9oMT48aW1nIGFsdD0iZ3JlZW5wYWdlYmFubmVyIiBzcmM9L2ltYWdlcy9iYW5uZXJwYWdlLmpwZz48L2ltZz5kAhMPZBYGAgEPZBYCZg8PFgIeB1Zpc2libGVoZGQCAw9kFgJmDxYCHwFlZAIFD2QWAmYPFgIfAWVkGAEFHl9fQ29udHJvbHNSZXF1aXJlUG9zdEJhY2tLZXlfXxYBBRJjdGwwMCRzZWFyY2hidXR0b25uGQ+/tBAIc1VNb5tfYI42W0ud6A==">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
     }
-  } 
-  //var test = 55;
-  //return test;
 }
-function SMOTrack()
-{
-     
-    var referrer = document.referrer;
-    var projectid=17;
-    
-    document.write('<img src="http://72.32.240.4/sm_tracking/tracking.gif?pid='+projectid+'&um='+getqv('um')+'&referrer='+referrer+'">');
-   
-    
-} 
-</script></head>
-
-<body id="ctl00_ctl00_MyACS">
-    <form name="aspnetForm" method="post" action="pages_exp.aspx?id=190" id="aspnetForm" title="">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA2ODA1MjQ0NA9kFgJmD2QWAmYPZBYCAgMPZBYCAgEPZBYCAgUPZBYEAgMPZBYCAgEPFgIeBFRleHQFB1ByaXZhY3lkAgcPZBYGAgkPFgIfAAWERDxwPjxzdHJvbmc+R2VuZXJhbDxiciAvPjxiciAvPjwvc3Ryb25nPkFDUyBpcyBjb21taXR0ZWQgdG8gdGhlIHByaXZhY3kgYW5kIHNlY3VyaXR5IG9mIHBlcnNvbmFsIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHRvIHVzIHRocm91Z2ggdGhlIHVzZSBvZiBBQ1MgV2ViIFNpdGVzLiBUaGlzIE9ubGluZSBQcml2YWN5IFN0YXRlbWVudCAoIlN0YXRlbWVudCIpIGluZm9ybXMgeW91IG9mIHRoZSBpbmZvcm1hdGlvbiBwcmFjdGljZXMgZm9yIEFDUyBXZWIgU2l0ZXMsIGluY2x1ZGluZyB0aGUgdHlwZSBvZiBwZXJzb25hbCBpbmZvcm1hdGlvbiB3ZSBjb2xsZWN0IGZyb20geW91ciB1c2Ugb2YgQUNTIFdlYiBTaXRlcywgaG93IHRoZSBpbmZvcm1hdGlvbiBpcyB1c2VkLCBhbmQgd2l0aCB3aG9tIHRoZSBpbmZvcm1hdGlvbiBpcyBzaGFyZWQuPGJyIC8+PGJyIC8+DQpCeSB1c2luZyBvdXIgU2l0ZSwgeW91IGFncmVlIHRoYXQgeW91ciB1c2UgaXMgc3ViamVjdCB0byB0aGUgdGVybXMgb2YgdGhpcyBTdGF0ZW1lbnQgYW5kIHlvdSBjb25zZW50IHRvIHRoZSBjb2xsZWN0aW9uLCB1c2UgYW5kIHN0b3JhZ2Ugb2YgeW91ciBpbmZvcm1hdGlvbiBieSBBQ1MgaW4gYWNjb3JkYW5jZSB3aXRoIHRoaXMgU3RhdGVtZW50IGFuZCBhcyBtYXkgYmUgbW9yZSBzcGVjaWZpY2FsbHkgZXhwbGFpbmVkIG9uIGVhY2ggU2l0ZS4gQUNTIG1heSBjaGFuZ2UgdGhpcyBTdGF0ZW1lbnQgYXQgYW55IHRpbWUgYW5kIHdpbGwgZGlzcGxheSB0aGUgY2hhbmdlcyBoZXJlIG9uIHRoaXMgU2l0ZS4gQmVjYXVzZSB5b3VyIHVzZSBvZiB0aGlzIFNpdGUgYWZ0ZXIgY2hhbmdlcyBoYXZlIGJlZW4gcG9zdGVkIGluZGljYXRlcyB5b3VyIGFncmVlbWVudCB3aXRoIHRob3NlIGNoYW5nZXMsIHdlIGVuY291cmFnZSB5b3UgdG8gdmlzaXQgdGhpcyBTdGF0ZW1lbnQgb24gYSByZWd1bGFyIGJhc2lzLiBJZiB5b3UgYXJlIG5vdCBjb21mb3J0YWJsZSB3aXRoIHVzaW5nIHRoaXMgU2l0ZSBpbiBhY2NvcmRhbmNlIHdpdGggdGhpcyBTdGF0ZW1lbnQsIHBsZWFzZSBleGl0IHRoZSBTaXRlIGltbWVkaWF0ZWx5LjxiciAvPjxiciAvPg0KWW91IG1heSBoYXZlIGFjY2Vzc2VkIHRoaXMgU2l0ZSBhcyBhIHJlc3VsdCBvZiBhIGxpbmsgZnJvbSBhbm90aGVyIEFDUyBTaXRlLiBUaGlzIFN0YXRlbWVudCBhcHBsaWVzIHRvIGFsbCBBQ1MgU2l0ZXMgbGlua2VkIHRvIHRoaXMgU2l0ZSBleGNlcHQgd2hlcmUgbW9yZSBzcGVjaWZpYyBpbmZvcm1hdGlvbiBpcyBwcm92aWRlZCBvbiB0aGUgbGlua2VkIFNpdGUgd2l0aCByZXNwZWN0IHRvIHRoZSBjb2xsZWN0aW9uLCB1c2UgYW5kIHN0b3JhZ2Ugb2YgcGVyc29uYWwgaW5mb3JtYXRpb24uPGJyIC8+PGJyIC8+DQpUaGlzIFN0YXRlbWVudCBpcyBlZmZlY3RpdmUgSnVuZSAyLCAyMDA0LjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+Q29sbGVjdGlvbiBhbmQgVXNlIG9mIEluZm9ybWF0aW9uPC9iPjxiciAvPjxiciAvPg0KWW91IG1heSB2aXNpdCB0aGlzIFNpdGUgYW5kIGNlcnRhaW4gb3RoZXIgQUNTIFNpdGVzIHdpdGhvdXQgcmVnaXN0ZXJpbmcgb3IgZGlzY2xvc2luZyBwZXJzb25hbGx5IGlkZW50aWZpYWJsZSBpbmZvcm1hdGlvbiwgYWx0aG91Z2ggc29tZSBhcmVhcyBvZiB0aGlzIFNpdGUgb3Igb3RoZXIgU2l0ZXMgbWF5IHJlcXVpcmUgYSBwYXNzd29yZC4gQUNTIG1heSBhc2sgeW91IHRvIHByb3ZpZGUgcGVyc29uYWwgaW5mb3JtYXRpb24sIHN1Y2ggYXMgd2hlbiB5b3UgYXJlIGFza2VkIHRvIGNvbXBsZXRlIGFuIG9ubGluZSBmb3JtIG9yIGEgcmVxdWVzdCB3aXRoIHJlZ2FyZCB0byBhIHByb2R1Y3Qgb3Igc2VydmljZSBmcm9tIEFDUy4gVGhpcyBpbmZvcm1hdGlvbiBtYXkgaW5jbHVkZSBuYW1lLCBwaHlzaWNhbCBhZGRyZXNzLCBwaG9uZSBudW1iZXIsIGVtYWlsIGFkZHJlc3MgYW5kIG90aGVyIHBlcnNvbmFsIGluZm9ybWF0aW9uIHRoYXQgeW91IGNob29zZSB0byBwcm92aWRlLiBBQ1MgdXNlcyB0aGlzIGluZm9ybWF0aW9uIGZvciBwdXJwb3NlcyBvZiBjb21tdW5pY2F0aW9ucyB3aXRoIHlvdSwgdG8gcmVzcG9uZCB0byByZXF1ZXN0cyB5b3UgbWF5IGhhdmUsIGFuZCBmb3IgbWFya2V0aW5nIHB1cnBvc2VzLiBJZiB5b3Ugd2lzaCB0byB1cGRhdGUgaW5mb3JtYXRpb24geW91IHByb3ZpZGVkIHRocm91Z2ggdGhpcyBTaXRlIGluIGNvbm5lY3Rpb24gd2l0aCByZWd1bGFyIG1haWxpbmdzIG9yIHlvdSB3aXNoIHRvIGhhdmUgeW91ciBuYW1lIHJlbW92ZWQgZnJvbSBhIG1haWxpbmcgbGlzdCwgeW91IG1heSBkbyBzbyBieSBzZW5kaW5nIGFuIGVtYWlsIG9yIGJ5IHN1Ym1pdHRpbmcgYW4gdXBkYXRlZCBmb3JtIHRocm91Z2ggdGhlIHNhbWUgY29tbXVuaWNhdGlvbiBjaGFubmVsIHlvdSBpbml0aWFsbHkgc3VibWl0dGVkIHRoZSBpbmZvcm1hdGlvbi48YnIgLz48YnIgLz4NCkNlcnRhaW4gQUNTIFNpdGVzIGFsbG93IGZvciB0aGUgZWxlY3Ryb25pYyBzdWJtaXNzaW9uIG9mIHJlc3VtZXMgaWYgeW91IGFyZSBpbnRlcmVzdGVkIGluIGVtcGxveW1lbnQgb3Bwb3J0dW5pdGllcyB3aXRoIEFDUy4gUmVzdW1lcyByZWNlaXZlZCBieSBBQ1MgYXJlIHVzZWQgb25seSBmb3IgZW1wbG95bWVudCBwdXJwb3NlcyBvciBzdWNoIG90aGVyIHB1cnBvc2UgeW91IG1heSByZXF1ZXN0LiBJZiB5b3Ugd2lzaCB0byBkZWxldGUgb3IgdXBkYXRlIGVtcGxveW1lbnQtcmVsYXRlZCBpbmZvcm1hdGlvbiB5b3Ugc3VibWl0dGVkIHRocm91Z2ggdGhpcyBTaXRlLCB5b3UgbWF5IGRvIHNvIGJ5IHVzaW5nIHRoZSBwcm9maWxlIG1hbmFnZW1lbnQgZnVuY3Rpb24gdGhhdCBpcyBhdmFpbGFibGUgb3IgY29udGFjdCBBQ1MgSHVtYW4gUmVzb3VyY2VzLjxiciAvPjxiciAvPg0KV2hlbiB5b3UgdmlzaXQgdGhpcyBTaXRlLCB3ZSBtYXkgYXV0b21hdGljYWxseSBjb2xsZWN0IGNlcnRhaW4gaW5mb3JtYXRpb24gcmVsYXRpbmcgdG8geW91LCBzdWNoIGFzIHlvdXIgSW50ZXJuZXQgYWRkcmVzcywgSW50ZXJuZXQgc2VydmljZSBwcm92aWRlciwgdHlwZSBvZiBvcGVyYXRpbmcgc3lzdGVtLCB0aGUgdGltZSBhbmQgZGF0ZSB5b3UgYWNjZXNzZWQgdGhlIFNpdGUsIGFuZCB0aGUgSW50ZXJuZXQgYWRkcmVzcyBmcm9tIHdoaWNoIHlvdSBhcnJpdmVkIGF0IG91ciBTaXRlLiBBbHNvLCB3aGVuIHlvdSB2aXNpdCBvdXIgU2l0ZSB3ZSBtYXkgY29sbGVjdCBpbmZvcm1hdGlvbiB0aHJvdWdoIHRoZSB1c2Ugb2YgYSAiY29va2llIi4gQSBjb29raWUgaXMgYSBzbWFsbCBmaWxlIHRoYXQgYSB3ZWIgc2l0ZSBjYW4gc2VuZCB0byB5b3VyIGJyb3dzZXIgYW5kIHRoZW4gaXMgc3RvcmVkIG9uIHlvdXIgY29tcHV0ZXIuIFRoaXMgdHlwZSBvZiB0ZWNobm9sb2d5IGlzIGRlc2lnbmVkIHRvIHRlbGwgdXMgd2hlbiB5b3UgcmVlbnRlciBvdXIgU2l0ZSwgd2hlcmUgeW91IHZpc2l0IHdpdGhpbiBvdXIgU2l0ZSwgYW5kIHRoZSB0eXBlIG9mIGJyb3dzZXIgeW91IHVzZS4gWW91IGFyZSBub3QgcmVxdWlyZWQgdG8gYWNjZXB0IGFueSBjb29raWUgd2UgbWlnaHQgdXNlLCBhbHRob3VnaCBzb21lIGFyZWFzIG9mIGEgU2l0ZSBtYXkgbm90IGJlIG9wZXJhdGlvbmFsIHdpdGhvdXQgdGhlIHVzZSBvZiBjb29raWVzLiBZb3UgY2FuIGRpc2FibGUgY29va2llcyBvbiB5b3VyIGNvbXB1dGVyIGJ5IGNoYW5naW5nIHRoZSBzZXR0aW5ncyBpbiB5b3VyIGJyb3dzZXIuIFRoZSBpbmZvcm1hdGlvbiBjb2xsZWN0ZWQgaGVscHMgdXMgaWRlbnRpZnkgZGF0YSByZWxhdGluZyB0byB1c2FnZSBhbmQgdHJlbmRzLCBhZGRyZXNzIGFueSBwcm9ibGVtcyB3aXRoIFNpdGUgYWRtaW5pc3RyYXRpb24sIGFuZCB0byBmdXJ0aGVyIGltcHJvdmUgdGhpcyBTaXRlLjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+U2hhcmluZyBvZiBJbmZvcm1hdGlvbiB3aXRoIFRoaXJkIFBhcnRpZXM8L2I+PGJyIC8+PGJyIC8+DQpBQ1Mgd2lsbCBub3Qgc2VsbCBvciBnaXZlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdG8gdGhpcmQgcGFydGllcyBmb3IgdGhlaXIgdXNlIGZvciBwdXJwb3NlcyB1bnJlbGF0ZWQgdG8gQUNTIHdpdGhvdXQgeW91ciBwZXJtaXNzaW9uLjxiciAvPjxiciAvPg0KQUNTIG1heSBzaGFyZSBwZXJzb25hbCBpbmZvcm1hdGlvbiBhYm91dCB5b3Ugd2l0aCBvdXIgc3Vic2lkaWFyaWVzIGFuZCBhZmZpbGlhdGVkIGNvbXBhbmllcy4gV2UgYWxzbyBtYXkgc2hhcmUgcGVyc29uYWwgaW5mb3JtYXRpb24gd2l0aCBvdXIgc3VwcGxpZXJzLCBjb250cmFjdG9ycyBhbmQgYWdlbnRzIHdobyBwZXJmb3JtIGZ1bmN0aW9ucyBvbiBvdXIgYmVoYWxmLCBvciBpbiBjb25uZWN0aW9uIHdpdGggcHJvZHVjdHMgYW5kIHNlcnZpY2VzIG9mZmVyZWQgYnkgQUNTIG9yIGEgcmVxdWVzdCBtYWRlIGJ5IHlvdS4gQUNTIG1heSBkaXNjbG9zZSB5b3VyIHBlcnNvbmFsIGluZm9ybWF0aW9uIGFzIHdlIGNvbnNpZGVyIG5lY2Vzc2FyeSB0byBjb21wbHkgd2l0aCB0aGUgbGF3IG9yIGdvdmVybm1lbnRhbCBhdXRob3JpdGllcywgaW4gY29ubmVjdGlvbiB3aXRoIGxpdGlnYXRpb24sIGRpc3B1dGUgcmVzb2x1dGlvbiwgb3IgYWRtaW5pc3RyYXRpb24gb2YgdGhpcyBTdGF0ZW1lbnQgb3IgYSBwb3NzaWJsZSB2aW9sYXRpb24gb2YgdGhpcyBTaXRlJ3MgVGVybXMgb2YgVXNlIG9yIHRoZSByaWdodHMgb2YgQUNTIG9yIGEgdGhpcmQgcGFydHkuIEluIGFkZGl0aW9uLCBBQ1MgbWF5IGRpc2Nsb3NlIG9yIHJlY2VpdmUgcGVyc29uYWwgaW5mb3JtYXRpb24gaW4gY29ubmVjdGlvbiB3aXRoIGEgcG9zc2libGUgc2FsZSwgcHVyY2hhc2UsIG1lcmdlciBvciBvdGhlciByZW9yZ2FuaXphdGlvbiBvZiBhIGJ1c2luZXNzLjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+UmV0ZW50aW9uPC9iPjxiciAvPjxiciAvPg0KQUNTIHdpbGwgcmV0YWluIHBlcnNvbmFsIGluZm9ybWF0aW9uIGNvbGxlY3RlZCBieSBhIFNpdGUgZm9yIGFzIGxvbmcgYXMgaXQgaXMgbmVlZGVkIHRvIGZ1bGZpbGwgdGhlIHB1cnBvc2UgZm9yIHdoaWNoIHRoZSBpbmZvcm1hdGlvbiB3YXMgcHJvdmlkZWQsIHRvIG1haW50YWluIGEgcmVjb3JkIG9mIGNvbW11bmljYXRpb25zIHdpdGggeW91LCBvciBhcyByZXF1aXJlZCBieSBhcHBsaWNhYmxlIGxhdy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPlNlY3VyaXR5PC9iPjxiciAvPjxiciAvPg0KVG8gcHJvdGVjdCB0aGUgcGVyc29uYWwgaW5mb3JtYXRpb24gd2UgcmVjZWl2ZSBBQ1MgdXNlcyBjZXJ0YWluIHNlY3VyaXR5IG1lYXN1cmVzIGRlc2lnbmVkIHRvIGd1YXJkIGFnYWluc3QgdGhlIGxvc3MsIG1pc3VzZSBhbmQgYWx0ZXJhdGlvbiBvZiB0aGF0IGluZm9ybWF0aW9uLiBJdCBzaG91bGQgYmUgcmVjb2duaXplZCwgaG93ZXZlciwgdGhhdCB3ZSBjYW5ub3QgZ3VhcmFudGVlIHRoYXQgdHJhbnNtaXNzaW9uIG9mIGRhdGEgb3ZlciB0aGUgSW50ZXJuZXQgd2lsbCBiZSBhYnNvbHV0ZWx5IHNlY3VyZS4gRHVlIHRvIHRoZSBvcGVuIG5hdHVyZSBvZiB0aGUgSW50ZXJuZXQgdGhlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIG1heSBiZSBpbiBlbnZpcm9ubWVudHMgdGhhdCBkbyBub3QgaGF2ZSBhZGVxdWF0ZSBzZWN1cml0eSBtZWFzdXJlcyBhbmQgbWF5IGJlIGFjY2Vzc2VkIGFuZCB1c2VkIGJ5IHBlcnNvbnMgb3RoZXIgdGhhbiB0aG9zZSBpbnRlbmRlZC4gQXMgYSByZXN1bHQsIHdoaWxlIHByb3RlY3Rpb24gb2YgeW91ciBwZXJzb25hbCBpbmZvcm1hdGlvbiBpcyBpbXBvcnRhbnQgdG8gdXMsIEFDUyBpcyBub3QgYWJsZSB0byBlbnN1cmUgdGhlIHNlY3VyaXR5IG9mIGluZm9ybWF0aW9uIHlvdSB0cmFuc21pdCB0byB1cyBhbmQgeW91IGFzc3VtZSB0aGUgcmlzayBvZiBhbnkgdGhpcmQgcGFydHkgb2J0YWluaW5nIHRoYXQgaW5mb3JtYXRpb24uIFVwb24gcmVjZWlwdCBvZiB5b3VyIGluZm9ybWF0aW9uIEFDUyB3aWxsIHN0cml2ZSB0byBlbnN1cmUgaXRzIHNlY3VyaXR5IG9uIG91ciBzeXN0ZW1zLjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+TGlua3MgdG8gT3RoZXIgV2ViIFNpdGVzPC9iPjxiciAvPjxiciAvPg0KVGhpcyBTaXRlIG1heSBjb250YWluIGxpbmtzIHRvIG90aGVyIHdlYiBzaXRlcywgbm90IG1haW50YWluZWQgYnkgQUNTLiBJZiB5b3UgY2hvb3NlIHRvIGFjY2VzcyB0aG9zZSBzaXRlcywgcGxlYXNlIHJldmlldyB0aGUgcHJpdmFjeSBTdGF0ZW1lbnQgYXBwbGljYWJsZSB0byBlYWNoIHNpdGUuIFRoZSBsaW5rcyB0byBvdGhlciBzaXRlcyBhcmUgbWFkZSBhdmFpbGFibGUgYXMgYSBjb252ZW5pZW5jZSB0byB5b3UgYW5kIEFDUyBpcyBub3QgcmVzcG9uc2libGUgZm9yIHRoZSBwcml2YWN5IHBvbGljaWVzIGFuZCBpbmZvcm1hdGlvbiBjb2xsZWN0aW9uIHByYWN0aWNlcyBvZiB0aG9zZSBzaXRlcy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPkFDUyBDbGllbnQgV2ViIFNpdGVzPC9iPjxiciAvPjxiciAvPg0KSW4gdGhlIGNvdXJzZSBvZiBwcm92aWRpbmcgc2VydmljZXMgdG8gaXRzIGNsaWVudHMsIEFDUyBtYXkgb3BlcmF0ZSB3ZWIgc2l0ZXMgZm9yIGNlcnRhaW4gY2xpZW50cyB0aGF0IGludm9sdmUgdGhlIGNvbGxlY3Rpb24sIHVzZSBhbmQgcmV0ZW50aW9uIG9mIHBlcnNvbmFsIGluZm9ybWF0aW9uLiBGb3IgZXhhbXBsZSwgaWYgeW91IGFyZSBhIGhlYWx0aCBwbGFuIG1lbWJlciwgaGVhbHRoIHBsYW4gcHJvdmlkZXIsIGEgcGF0aWVudCBvciBvdGhlciBpbmRpdmlkdWFsIHdobyBkb2VzIGJ1c2luZXNzIHdpdGggYW4gQUNTIGNsaWVudCwgQUNTIG1heSBjb2xsZWN0LCB1c2UgYW5kIG1haW50YWluIHBlcnNvbmFsIGluZm9ybWF0aW9uIGluIG9yZGVyIHRvIHByb3ZpZGUgeW91IHdpdGggc2VydmljZXMgb24gYmVoYWxmIG9mIHRoZSBjbGllbnQuIFRob3NlIGFjdGl2aXRpZXMgYXJlIGNvbmR1Y3RlZCBieSBBQ1MgdW5kZXIgYSBjb250cmFjdCBiZXR3ZWVuIEFDUyBhbmQgdGhlIGNsaWVudC4gVGhpcyBTdGF0ZW1lbnQgaXMgbm90IGludGVuZGVkIHRvIG1vZGlmeSB0aGUgdGVybXMgb2YgdGhlIGNvbnRyYWN0IGJldHdlZW4gQUNTIGFuZCB0aGUgY2xpZW50LiBJZiB5b3UgaGF2ZSBxdWVzdGlvbnMgYWJvdXQgdGhlIGhhbmRsaW5nIG9mIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24gdGhhdCBhcmUgbm90IGFkZHJlc3NlZCBvbiB0aGUgc3BlY2lmaWMgd2ViIHNpdGUgdGhyb3VnaCB3aGljaCBBQ1MgY29uZHVjdHMgdGhvc2UgYWN0aXZpdGllcyBvbiBiZWhhbGYgb2YgdGhlIGNsaWVudCwgcGxlYXNlIHVzZSB0aGUgY29udGFjdCBpbmZvcm1hdGlvbiBsaXN0ZWQgb24gdGhhdCBzaXRlIG9yIGNvbW11bmljYXRlIHdpdGggdGhlIEFDUyBjbGllbnQuPC9wPjxwIGNsYXNzPSJjb250ZW50Ij48Yj5HbG9iYWwgUHJlc2VuY2U8L2I+PGJyIC8+PGJyIC8+DQpBQ1MgaGFzIGVtcGxveWVlcywgY3VzdG9tZXJzIGFuZCBzdXBwbGllcnMgaW4gbWFueSBjb3VudHJpZXMgYXJvdW5kIHRoZSB3b3JsZC4gVGhlIG1hbmFnZW1lbnQsIG9wZXJhdGlvbmFsIGFuZCB0ZWNobmljYWwgcHJvY2Vzc2VzIGFuZCBzeXN0ZW1zIHVzZWQgYnkgQUNTIG1heSBpbnZvbHZlIHRyYW5zZmVyIG9mIGluZm9ybWF0aW9uIGFjcm9zcyBib3JkZXJzLiBGb3IgZXhhbXBsZSwgcGVyc29uYWwgaW5mb3JtYXRpb24geW91IGdpdmUgdG8gQUNTIG1heSBiZSBzZW50IHRvIHN5c3RlbXMgb3V0c2lkZSB0aGUgY291bnRyeSBpbiB3aGljaCB5b3UgaW5pdGlhbGx5IHByb3ZpZGVkIHRoZSBpbmZvcm1hdGlvbiwgYW5kIGl0IG1heSBiZSBwcm9jZXNzZWQgYW5kIHN0b3JlZCBpbiBhIGRpZmZlcmVudCBjb3VudHJ5LiBSZWdhcmRsZXNzIG9mIHdoZXJlIHlvdSBwcm92aWRlIHlvdXIgcGVyc29uYWwgaW5mb3JtYXRpb24sIEFDUyB3aWxsIHRha2Ugc3RlcHMgdG8gaGFuZGxlIGl0IGluIGEgc2VjdXJlIG1hbm5lciBpbiBhY2NvcmRhbmNlIHdpdGggdGhpcyBTdGF0ZW1lbnQgYW5kIGFsbCBhcHBsaWNhYmxlIGxhd3MuPC9wPjxwIGNsYXNzPSJjb250ZW50Ij48Yj5DaGlsZHJlbjwvYj48YnIgLz48YnIgLz4NCkFDUyBkb2VzIG5vdCBtYXJrZXQgaXRzIHByb2R1Y3RzIG9yIHNlcnZpY2VzIHRvIGNoaWxkcmVuIHVuZGVyIHRoaXJ0ZWVuIHllYXJzIG9mIGFnZS4gV2UgZG8gbm90IGludGVuZCB0byBjb2xsZWN0IHBlcnNvbmFsIGluZm9ybWF0aW9uIGZyb20gY2hpbGRyZW4gYW5kIHJlcXVlc3QgdGhhdCBjaGlsZHJlbiBkbyBub3Qgc3VibWl0IHBlcnNvbmFsIGluZm9ybWF0aW9uIHRvIHVzLjwvcD48cCBjbGFzcz0iY29udGVudCI+PGI+U2NvcGUgb2YgU3RhdGVtZW50PC9iPjxiciAvPjxiciAvPg0KVGhpcyBTdGF0ZW1lbnQgZGVzY3JpYmVzIHRoZSBvbmxpbmUgcHJpdmFjeSBwcmFjdGljZXMgZm9yIEFDUyBXZWIgU2l0ZXMgbWFpbnRhaW5lZCBieSBBZmZpbGlhdGVkIENvbXB1dGVyIFNlcnZpY2VzLCBJbmMuIGFuZCBpdHMgc3Vic2lkaWFyaWVzICgiQUNTIikuIEl0IGRvZXMgbm90IG1vZGlmeSBhbnkgYWdyZWVtZW50cyBBQ1MgbWF5IGhhdmUgd2l0aCBvdXIgY3VzdG9tZXJzLCBzdXBwbGllcnMgb3Igb3RoZXIgdGhpcmQgcGFydGllcy48L3A+PHAgY2xhc3M9ImNvbnRlbnQiPjxiPkNvbnRhY3QgSW5mb3JtYXRpb248L2I+PGJyIC8+PGJyIC8+DQpQbGVhc2UgZGlyZWN0IGFueSBxdWVzdGlvbnMgeW91IG1pZ2h0IGhhdmUgYWJvdXQgdGhpcyBTdGF0ZW1lbnQgdG8gdGhlIEFDUyBQcml2YWN5IE9mZmljZS48L3A+ZAILD2QWBAICD2QWBAIBDxYCHgVjbGFzcwUGc2xpZGUwFgJmDw8WAh8ABShTb2NpYWwgU2VjdXJpdHkgTnVtYmVyIFByb3RlY3Rpb24gUG9saWN5ZGQCAw9kFgICAw8PFgIfAAXBFjxwPjxzdHJvbmc+UHVycG9zZTwvc3Ryb25nPjwvcD48cD5BQ1MgdXNlcyBTb2NpYWwgU2VjdXJpdHkgTnVtYmVycyBpbiBvdXIgcm9sZSBhcyBhbiBlbXBsb3llciBhbmQgYXMgYSBzZXJ2aWNlIHByb3ZpZGVyIHRvIG91ciBjbGllbnRzLsKgIFRoaXMgU29jaWFsIFNlY3VyaXR5IE51bWJlciBQcm90ZWN0aW9uIFBvbGljeSAo4oCcUG9saWN54oCdKSBpcyBpbnRlbmRlZCB0byBwcm90ZWN0IHRoZSBjb25maWRlbnRpYWxpdHkgb2YgYW5kIGxpbWl0IGFjY2VzcyB0byBTb2NpYWwgU2VjdXJpdHkgTnVtYmVycyBpbiB0aGUgcG9zc2Vzc2lvbiBhbmQgY29udHJvbCBvZiBBQ1MgYW5kIHByb2hpYml0IHVubGF3ZnVsIGRpc2Nsb3N1cmUgb2YgdGhvc2UgTnVtYmVycy7CoCBBcyB1c2VkIGluIHRoaXMgUG9saWN5LCBhIFNvY2lhbCBTZWN1cml0eSBOdW1iZXIgKFNTTikgaXMgYSA5LWRpZ2l0IG51bWJlciBpc3N1ZWQgdG8gaW5kaXZpZHVhbHMgYnkgdGhlIFNvY2lhbCBTZWN1cml0eSBBZG1pbmlzdHJhdGlvbiwgYW4gYWdlbmN5IG9mIHRoZSBVLlMuIEZlZGVyYWwgR292ZXJubWVudC48L3A+PHA+PHN0cm9uZz5TY29wZTwvc3Ryb25nPjwvcD48cD5Gb3IgcHVycG9zZXMgb2YgdGhpcyBQb2xpY3ksIOKAnEFDU+KAnSBtZWFucyBBZmZpbGlhdGVkIENvbXB1dGVyIFNlcnZpY2VzLCBJbmMsIGl0cyBhZmZpbGlhdGVzIGFuZCBzdWJzaWRpYXJpZXMuwqAgVGhpcyBQb2xpY3kgYXBwbGllcyB0byBhbGwgQUNTIGVtcGxveWVlcywgaW5kZXBlbmRlbnQgY29udHJhY3RvcnMsIGNvbnN1bHRhbnRzLCB0ZW1wb3JhcnkgZW1wbG95ZWVzIGFuZCBhbGwgb3RoZXIgaW5kaXZpZHVhbHMgb3IgZW50aXRpZXMgKOKAnFdvcmtlcnPigJ0pIHRoYXQgYWNjZXNzLCB1c2Ugb3IgcHJvY2VzcyBTU05zIGluIHRoZSBwZXJmb3JtYW5jZSBvZiBqb2IgZHV0aWVzIG9yIHRoZSBkZWxpdmVyeSBvZiBzZXJ2aWNlcyBvbiBiZWhhbGYgb2YgQUNTLsKgIENvbnRyYWN0cyB3aXRoIGNsaWVudHMsIHN1cHBsaWVycyBvciBvdGhlciB0aGlyZCBwYXJ0aWVzIG1heSBjb250YWluIGFkZGl0aW9uYWwgcmVxdWlyZW1lbnRzIHJlbGF0aW5nIHRvIHRoZSBwcm90ZWN0aW9uIG9mIFNTTnMuwqAgSW4gYWxsIGNhc2VzLCBzdWNoIGNvbnRyYWN0dWFsIHJlcXVpcmVtZW50cyB3aWxsIGNvbnRyb2wgdG8gdGhlIGV4dGVudCB0aGV5IGFyZSBtb3JlIHN0cmluZ2VudCB0aGFuIHRoZSBzdGFuZGFyZHMgc2V0IGZvcnRoIGluIHRoaXMgUG9saWN5IGFuZCBhc3NvY2lhdGVkIHByb2NlZHVyZXMuwqAgVGhpcyBQb2xpY3kgZG9lcyBub3QgYXR0ZW1wdCB0byBhZGRyZXNzIHRoZSB2YXJpZXR5IG9mIHNwZWNpZmljIGxlZ2FsIG9yIHJlZ3VsYXRvcnkgcmVxdWlyZW1lbnRzIHRoYXQgbWF5IGJlIGluIGVmZmVjdCBpbiBldmVyeSBqdXJpc2RpY3Rpb24uwqAgU3VjaCByZXF1aXJlbWVudHMgbWF5IGJlIGFkZHJlc3NlZCBpbiByZWxhdGVkIEFDUyBwcml2YWN5IGd1aWRhbmNlIGFuZCBjb21tdW5pY2F0aW9ucy48L3A+PHA+PHN0cm9uZz5Qcm90ZWN0aW9uIG9mIFNTTnM8L3N0cm9uZz48L3A+PHA+QUNTIHdpbGwgZXN0YWJsaXNoIGFuZCBtYWludGFpbiByZWFzb25hYmxlIHByb2NlZHVyZXMgYW5kIHNhZmVndWFyZHMgZGVzaWduZWQgdG8gcHJvdGVjdCB0aGUgY29uZmlkZW50aWFsaXR5IG9mIFNTTnMgd2hpbGUgaW4gQUNT4oCZIHBvc3Nlc3Npb24gYW5kIGNvbnRyb2wsIHdoZXRoZXIgY29sbGVjdGVkIGJ5IEFDUyBpbiBjb25uZWN0aW9uIHdpdGggZW1wbG95bWVudCBhY3Rpdml0aWVzIG9yIGZ1cm5pc2hlZCB0byBBQ1MgaW4gY29ubmVjdGlvbiB3aXRoIHRoZSBwZXJmb3JtYW5jZSBvZiBzZXJ2aWNlcyBmb3IgYSBjbGllbnQuwqAgTm8gdW5sYXdmdWwgZGlzY2xvc3VyZSBvZiBTU05zIGlzIHBlcm1pdHRlZC7CoCBBY2Nlc3MgdG8gU1NOcyB3aWxsIGJlIGxpbWl0ZWQgdG8gdGhvc2UgV29ya2VycyB3aXRoIGEgbmVlZC10by1rbm93IGFuZCB0byB0aGUgbWluaW11bSBhbW91bnQgcmVhc29uYWJseSBuZWNlc3NhcnkgZm9yIGEgV29ya2VyIHRvIHBlcmZvcm0gdGhlIGFzc2lnbmVkIHRhc2suPC9wPjxwPjxzdHJvbmc+Q29tcGxpYW5jZSB3aXRoIExhd3M8L3N0cm9uZz48L3A+PHA+QUNTIHdpbGwgY29tcGx5IHdpdGggYWxsIGFwcGxpY2FibGUgbGF3cyByZWxhdGluZyB0byB0aGUgdXNlLCBhY2Nlc3MgYW5kIGRpc2Nsb3N1cmUgb2YgU1NOcy7CoMKgPC9wPjxwPjxzdHJvbmc+SW50ZWdyYXRpb24gd2l0aCBTZWN1cml0eSBQb2xpY2llczwvc3Ryb25nPjwvcD48cD5UaGlzIFBvbGljeSBpcyBpbnRlbmRlZCB0byBiZSBpbnRlcnByZXRlZCBhbmQgY29uc3RydWVkIGluIGEgbWFubmVyIGNvbnNpc3RlbnQgd2l0aCBBQ1MgSW5mb3JtYXRpb24gU2VjdXJpdHkgYW5kIFBoeXNpY2FsIFNlY3VyaXR5IHBvbGljaWVzIGFuZCBvdGhlciByZWxldmFudCBwb2xpY2llcyBvciBwcm9jZWR1cmVzLjwvcD48cD48c3Ryb25nPlNhbmN0aW9uczwvc3Ryb25nPjwvcD48cD5WaW9sYXRpb25zIG9mIHRoaXMgUG9saWN5IG1heSByZXN1bHQgaW4gaW1tZWRpYXRlIGRpc2NpcGxpbmFyeSBhY3Rpb24gdXAgdG8gYW5kIGluY2x1ZGluZyB0ZXJtaW5hdGlvbiBvZiBlbXBsb3ltZW50LCBjb250cmFjdCB0ZXJtaW5hdGlvbiwgb3Igb3RoZXIgYWN0aW9ucyBhcyBBQ1MgZGVlbXMgYXBwcm9wcmlhdGUuPC9wPjxwPjxzdHJvbmc+U3VwcGxpZXJzLCB2ZW5kb3JzIGFuZCBjb250cmFjdG9yczwvc3Ryb25nPjwvcD48cD5BQ1Mgd2lsbCB0YWtlIHJlYXNvbmFibGUgc3RlcHMgdG8gc2VsZWN0IHN1cHBsaWVycywgdmVuZG9ycyBhbmQgY29udHJhY3RvcnMgd2hvIG1haW50YWluIGFwcHJvcHJpYXRlIHNhZmVndWFyZHMgdG8gcHJvdGVjdCBTU05zLjxiciAvPjwvcD5kZAIDD2QWAgIBDxYCHwEFBnNsaWRlMWQCDQ9kFgJmDzwrAAkAZGT+pv2swO/vMq65cyYHFOyEoFR6aA==">
-
-<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAgLVl4r6DAK27uidDpsQubftlLOVlKelCSCFTyNoZNYo"><div id="container">
-    <!-- Header -->    
-        <div id="header">
-            <div id="logo">
-                <a href="/">
-                    <img src="/images/logo.gif" style="width: 296px; height: 103px;" alt="ACS"></a></div>
-            <div id="search">
-                <label for="ctl00_searchqueryfield">Search</label>                
-                <input name="ctl00$ctl00$searchqueryfield" type="text" id="ctl00_ctl00_searchqueryfield">
-                <label for="searchbutton"></label><input type="image" onclick="CallSearch(); return false;" src="/images/submit_arrow.gif" id="searchbutton"><br>
-                <!--<a style="color: White; text-decoration: none; font-size: 10px;" href="search.aspx?adv=true">Advanced Search
-                <img src="/images/white_arrow.gif" alt="search arrow" border="0" /></a>-->
-            </div>
-            <div id="nav">
-                <ul id="sfnav" class="navfxenabled">                
-                
-<li id="about"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=224"><img border="0" src="/uploadedImages/spacer.gif" alt="About ACS"></a><ul><li><a href="/pages_exp.aspx?id=504" target="_self">Overview</a></li><li><a href="/pages_exp.aspx?id=226" target="_self">Philosophy</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=506" id="menuitem1">Leadership</a><ul><li><a href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a href="/bios.aspx?id=926" target="_self">Tas Panos</a></li><li><a href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a href="/bios.aspx?id=1551" target="_self">Joseph Doherty</a></li><li><a href="/bios.aspx?id=76" target="_self">Chris Leach</a></li><li><a href="/bios.aspx?id=1577" target="_self">Tasos Tsolakis</a></li><li><a href="/bios.aspx?id=1731" target="_self">Skip Stitt</a></li><li><a href="/bios.aspx?id=2009" target="_self">Dave Amoriell</a></li><li><a href="/bios.aspx?id=2105" target="_self">Rebecca Scholl</a></li></ul></li><li><a href="/pages_exp.aspx?id=508" target="_self">Community</a></li><li><a href="/pages_exp.aspx?id=510" target="_self">Recognition</a></li><li><a href="/pages_exp.aspx?id=512" target="_self">History</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="services"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=198"><img border="0" src="/uploadedImages/spacer.gif" alt="Services"></a><ul><li><a href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a href="/HCMS.aspx" target="_self">Human Capital Management</a></li><li><a href="/pages_exp.aspx?id=210" target="_self">Information Technology (IT)</a></li><li><a href="/pages_exp.aspx?id=1529" target="_self">Application Services</a></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=492" id="menuitem1">Public Sector</a><ul><li><a href="/pages_exp.aspx?id=228" target="_self">Administration and Finance</a></li><li><a href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li><a href="/pages_exp.aspx?id=236" target="_self">Federal - US</a></li><li><a href="/pages_exp.aspx?id=234" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=238" target="_self">Human Services</a></li><li><a href="/pages_exp.aspx?id=422" target="_self">Public Safety &amp; Justice</a></li><li><a href="/pages_exp.aspx?id=242" target="_self">Transportation</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="industries"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=536"><img border="0" src="/uploadedImages/spacer.gif" alt="Industries"></a><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=564" id="menuitem1">Commercial</a><ul><li><a href="/Communication_Providers.aspx" target="_self">Communication Providers</a></li><li><a href="/Financial_Services.aspx" target="_self">Financial Services Organization</a></li><li><a href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a href="/pages_exp.aspx?id=354" target="_self">Insurance Companies</a></li><li><a href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a href="/pages_exp.aspx?id=360" target="_self">Retailers</a></li><li><a href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a href="/pages_exp.aspx?id=370" target="_self">Travel Providers</a></li></ul></li><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=492" id="menuitem1">Public Sector</a><ul><li><a href="/pages_exp.aspx?id=228" target="_self">Administration and Finance</a></li><li><a href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li><a href="/pages_exp.aspx?id=236" target="_self">Federal - US</a></li><li><a href="/pages_exp.aspx?id=234" target="_self">Healthcare</a></li><li><a href="/pages_exp.aspx?id=238" target="_self">Human Services</a></li><li><a href="/pages_exp.aspx?id=422" target="_self">Public Safety &amp; Justice</a></li><li><a href="/pages_exp.aspx?id=242" target="_self">Transportation</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="news" class="parent"><a href="http://www.snl.com/irweblinkx/yearlynews.aspx?iid=4039393&amp;Year=2009&amp;mode=1" target="_blank"><img border="0" src="/uploadedImages/spacer.gif" alt="News &amp; Events"></a></li><li style="margin-top: 3px; width: 3px;">|</li><li id="library"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=524"><img border="0" src="/uploadedImages/spacer.gif" alt="Resource Library"></a><ul style="display: none;"></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="analyst"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=518"><img border="0" src="/uploadedImages/spacer.gif" alt="Analyst Relations"></a><ul style="display: none;"></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="investor" class="parent"><a href="http://www.snl.com/irweblinkx/corporateprofile.aspx?iid=4039393" target="_blank"><img border="0" src="/uploadedImages/spacer.gif" alt="Investor Relations"></a></li><li style="margin-top: 3px; width: 3px;">|</li><li id="media"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=528"><img border="0" src="/uploadedImages/spacer.gif" alt="Media Relations"></a><ul><li><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=568" id="menuitem1">Subject Matter Experts</a><ul><li><a href="/bios.aspx?id=2021" target="_self">Andy Vassallo</a></li><li><a href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a href="/bios.aspx?id=1753" target="_self">Tom Blodgett</a></li><li><a href="/bios.aspx?id=1965" target="_self">Robert Blondin</a></li><li><a href="/bios.aspx?id=1813" target="_self">Charles Church</a></li><li><a href="/TimConway.aspx" target="_self">Tim Conway</a></li><li><a href="/DavidCummins.aspx" target="_self">David Cummins</a></li><li><a href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a href="/bios.aspx?id=1739" target="_self">Connie Harvey</a></li><li><a href="/bios.aspx?id=1837" target="_self">Dawn Hawkins Johnson</a></li><li><a href="/bios.aspx?id=2071" target="_self">Raymond Hennings</a></li><li><a href="/bios.aspx?id=1727" target="_self">Chris Leach</a></li><li><a href="/bios.aspx?id=1815" target="_self">Chris Mankle</a></li><li><a href="/bios.aspx?id=1811" target="_self">John Polk</a></li><li><a href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li><li><a href="/LouisSchiavone.aspx" target="_self">Louis Schiavone</a></li><li><a href="/bios.aspx?id=1643" target="_self">Chantel Sheaks</a></li><li><a href="/bios.aspx?id=1653" target="_self">Skip Stitt</a></li><li><a href="/bios.aspx?id=1605" target="_self">Chris Tranquill</a></li><li><a href="/bios.aspx?id=1579" target="_self">Tasos Tsolakis</a></li><li><a href="/bios.aspx?id=1841" target="_self">Parker Williams</a></li><li><a href="/bios.aspx?id=1835" target="_self">Richard Williams</a></li></ul></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="careers"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=520"><img border="0" src="/uploadedImages/spacer.gif" alt="Careers"></a><ul><li><a href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a href="/pages_exp.aspx?id=1573" target="_self">Career Opportunities</a></li><li><a href="/pages_exp.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="locations"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=522"><img border="0" src="/uploadedImages/spacer.gif" alt="Locations"></a><ul><li><a href="/ACS_Europe.aspx" target="_self">Western Europe</a></li></ul></li><li style="margin-top: 3px; width: 3px;">|</li><li id="links"><a href="/WorkArea/linkit.aspx?LinkIdentifier=ID&amp;ItemID=570"><img border="0" src="/uploadedImages/spacer.gif" alt="ACS Links"></a><ul style="display: none;"></ul></li>
-<script language="JavaScript" type="text/javascript" src="/WorkArea/java/webtoolbar.js"></script>
-<script type="text/javascript" language="JavaScript">
-function GetPreviewURL() {
- var url = self.location.href;
- var arString = url.split('?')
- if (arString.length > 1) { url = url + "&amp;cmsMode=Preview"}
- else { url = url + "?cmsMode=Preview"}
- return url;
-}
-</script><script type="text/javascript" language="javascript">
-function PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) { return (EkTbWebMenuPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize));}
-function ecmPopUpWindow (url, hWind, nWidth, nHeight, nScroll, nResize) { 
- PopUpWindow(url, hWind, nWidth, nHeight, nScroll, nResize) ; 
- } 
+//]]>
 </script>
 
-                </ul>
+
+<div>
+
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEWAwLioMr/CwKw3+eXDAK0i8miDETaddHbaZEOmU2Nz7SJM6xEbgGm">
+</div>
+        <div id="container">
+            <!-- Header -->
+            <div id="header">
+                <div id="logo">
+                    <a href="/">
+                        <img src="/images/newlogo.jpg" style="width: 202px; height: 103px;" alt="ACS" usemap="#Image-Maps"></a>
+                         <map id="_Image-Maps" name="Image-Maps">
+<area shape="rect" coords="10,10,219,54" href="/" alt="" title="">
+<area shape="rect" coords="5,69,219,103" href="http://www.xerox.com/" alt="" title="" target="_blank"></map>
+                        </div>
+                <div id="search">
+                    <label for="lblsearchqueryfield">
+                        Search</label>
+                    <input name="ctl00$searchqueryfield" type="text" id="ctl00_searchqueryfield">
+                    <label for="lblsearchbutton">
+                    </label>
+                    <input src="/images/submit_arrow.gif" name="ctl00$searchbutton" type="image" id="ctl00_searchbutton"><br><br><br>
+                       <a href="http://www.xerox.com" id="ctl00_XeroxAnnmnt" target="_blank"><img src="images/XeroxAnnmnt_header.gif" alt="Acs is now a Xerox Company"></a>
+                </div>
+                <div id="nav">
+                    <link type="text/css" rel="stylesheet" href="/css/acsTopMenu.css"><div class="acstopmenu"><div class="ekflexmenu" id="e0fa05764_142_
+	0_ekflexmenu
+						"><div class="
+								ekflexmenu_menu_level_0 ekflexmenu_submenu
+							"><ul class="ekflexmenu_submenu_items" id="e0fa05764_142_
+	0_submenu_items
+								"><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_143"><a id="e0fa05764_142_143_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=224">About ACS</a><input type="hidden" id="e0fa05764_142_143_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_143_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=504" target="_self">ACS Overview</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=508" target="_self">Community</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=510" target="_self">Recognition</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=512" target="_self">History</a></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_159"><a id="e0fa05764_142_159_button
+				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=506&amp;colid=6">Leadership</a><input type="hidden" id="e0fa05764_142_159_parentid
+			" value="e0fa05764_142_
+	143"><ul id="e0fa05764_142_159_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418331" target="_self">Tracy Tolbert</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1551" target="_self">Joseph Doherty</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2009" target="_self">Dave Amoriell</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2297" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418262" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418321" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2393" target="_self">Mark Boxer</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418311" target="_self">David Bywater</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418391" target="_self">Richard Schnacker</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2105" target="_self">Rebecca Scholl</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=76" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1577" target="_self">Tasos Tsolakis</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_144"><a id="e0fa05764_142_144_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=198">Services</a><input type="hidden" id="e0fa05764_142_144_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_144_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a class="ekflexmenu_link" href="/HCMS.aspx" target="_self">Human Capital Management</a></li><li><a class="ekflexmenu_link" href="/it_infrastructure_outsourcing_and_services.aspx" target="_self">IT Outsourcing</a></li><li><a class="ekflexmenu_link" href="/ApplicationServices.aspx" target="_self">Application Services</a></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_147"><a id="e0fa05764_142_147_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05764_142_147_parentid
+			" value="e0fa05764_142_
+	144"><ul id="e0fa05764_142_147_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
+				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05764_142_10737418238"><a id="e0fa05764_142_10737418238_button
+				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05764_142_10737418238_parentid
+			" value="e0fa05764_142_
+	147"><ul id="e0fa05764_142_10737418238_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_148"><a id="e0fa05764_142_148_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=536">Industries</a><input type="hidden" id="e0fa05764_142_148_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_148_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_149"><a id="e0fa05764_142_149_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=564">Commercial</a><input type="hidden" id="e0fa05764_142_149_parentid
+			" value="e0fa05764_142_
+	148"><ul id="e0fa05764_142_149_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/communications_providers.aspx" target="_self">Communications Providers</a></li><li><a class="ekflexmenu_link" href="/advanced_financial_solutions.aspx" target="_self">Financial Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a class="ekflexmenu_link" href="/insurance_industry_solutions.aspx" target="_self">Insurance Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a class="ekflexmenu_link" href="/retail_industry_consultants.aspx" target="_self">Retail Industry</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a class="ekflexmenu_link" href="/travel_industry_services.aspx" target="_self">Travel Industry Services</a></li></ul></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_150"><a id="e0fa05764_142_150_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05764_142_150_parentid
+			" value="e0fa05764_142_
+	148"><ul id="e0fa05764_142_150_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
+				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05764_142_10737418239"><a id="e0fa05764_142_10737418239_button
+				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05764_142_10737418239_parentid
+			" value="e0fa05764_142_
+	150"><ul id="e0fa05764_142_10737418239_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_151"><a id="e0fa05764_142_151_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=526">News &amp; Events</a><input type="hidden" id="e0fa05764_142_151_parentid
+			" value="e0fa05764_142_
+	142"></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_152"><a id="e0fa05764_142_152_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=524">Resource Library</a><input type="hidden" id="e0fa05764_142_152_parentid
+			" value="e0fa05764_142_
+	142"></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_153"><a id="e0fa05764_142_153_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=518">Analyst Relations</a><input type="hidden" id="e0fa05764_142_153_parentid
+			" value="e0fa05764_142_
+	142"></li><li><a class="ekflexmenu_link" href="http://www.xerox.com/go/xrx/template/inv_rel_newsroom.jsp?app=InvestorRelations&amp;format=landing&amp;view=Main&amp;Xcntry=USA&amp;Xlang=enUS" target="_blank"><img border="0" src="/uploadedImages/spacer.gif">Investor Relations</a></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_154"><a id="e0fa05764_142_154_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=528">Media Relations</a><input type="hidden" id="e0fa05764_142_154_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_154_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu" id="e0fa05764_142_158"><a id="e0fa05764_142_158_button
+				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=568&amp;colid=16">Subject Matter Experts</a><input type="hidden" id="e0fa05764_142_158_parentid
+			" value="e0fa05764_142_
+	154"><ul id="e0fa05764_142_158_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=2398" target="_self">Caroline Avey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2399" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1643" target="_self">Chantel Sheaks</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1727" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1605" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1739" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/DavidCummins.aspx" target="_self">David Cummins</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1811" target="_self">John Polk</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2337" target="_self">Kevin Kelley</a></li><li><a class="ekflexmenu_link" href="/LouisSchiavone.aspx" target="_self">Louis Schiavone</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1841" target="_self">Parker Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2071" target="_self">Raymond Hennings</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2355" target="_self">Richard Klingshirn</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1835" target="_self">Richard Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1965" target="_self">Robert Blondin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2357" target="_self">Rohail Khan</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2401" target="_self">Sherri Z. Heller</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1579" target="_self">Tasos Tsolakis</a></li><li><a class="ekflexmenu_link" href="/TimConway.aspx" target="_self">Tim Conway</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1753" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_155"><a id="e0fa05764_142_155_button
+				" tabindex="0" class="ekflexmenu_button" href="/contentnav.aspx?id=520">Careers</a><input type="hidden" id="e0fa05764_142_155_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_155_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=1573" target="_self">Career Opportunities</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05764_142_156"><a id="e0fa05764_142_156_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=522">Locations</a><input type="hidden" id="e0fa05764_142_156_parentid
+			" value="e0fa05764_142_
+	142"><ul id="e0fa05764_142_156_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Asia Pacific</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Caribbean &amp; Latin America</a></li><li><a class="ekflexmenu_link" href="/ACS_Europe.aspx" target="_self">Europe</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Middle East &amp; Africa</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">North America</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">South America</a></li></ul></li><li id="e0fa05764_142_157" class="endtopnav"><a id="e0fa05764_142_157_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=570">ACS Links</a><input type="hidden" id="e0fa05764_142_157_parentid
+			" value="e0fa05764_142_
+	142"></li></ul></div></div></div>
+                    
+                </div>
             </div>
-            
-        </div>
-        <!-- End of Header -->        
-        
-        
-    <!--Content area from Internal.master-->
-    <div id="contentholder">
-        <div id="subnav">
-            
-                <span id="ctl00_ctl00_cphMainContent_cphLeftMenu_ekLeftFlexMenu"></span>
-                <div id="greenpage" style="visibility: hidden;">
-                    <div id="greenpage_image" style="visibility: hidden;"></div>
-                    <!--<p>
-                        Get the complete self-contained interactive document of ACS Solutions</p>-->
-                    <div class="greenpageblock_left">
-                        <img src="/images/green_leaf.gif" alt="greenpage" style="float: left; padding: 5px 10px 0 20px;"> <span style="display: block; padding-top: 5px; float: left;">Learn more about<br>ACS Green Pages</span>
-                        <!--<a href="#" onclick="return false;">OPEN</a> | <a href="#" onclick="return false;">DOWNLOAD</a> |
-                        <a href="#" onclick="return false;">EMAIL</a>-->
+            <!-- End of Header -->
+            <div id="contentholder">
+                <div id="subnav">
+                    
+    <link type="text/css" rel="stylesheet" href="/css/slaveexpand.css"><div class="slaveexpand"><div class="ekflexmenu" id="e0fa05763_142_
+	0_ekflexmenu
+						"><div class="
+								ekflexmenu_menu_level_0 ekflexmenu_submenu
+							"><ul class="ekflexmenu_submenu_items" id="e0fa05763_142_
+	0_submenu_items
+								"><li class="
+				ekflexmenu_menu_level_0 ekflexmenu_submenu" id="e0fa05763_142_142"><input type="hidden" id="e0fa05763_142_142_parentid
+			" value="e0fa05763_142_
+	0"><ul id="e0fa05763_142_142_submenu_items
+				" class="
+							ekflexmenu_submenu_items ekflexmenu_slavecontainer
+						"><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_143"><input type="hidden" id="e0fa05763_142_143_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_143_submenu_items
+				" class="ekflexmenu_submenu_items"><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=504" target="_self">ACS Overview</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=508" target="_self">Community</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=510" target="_self">Recognition</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=512" target="_self">History</a></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05763_142_159"><a id="e0fa05763_142_159_button
+				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=506&amp;colid=6">Leadership</a><input type="hidden" id="e0fa05763_142_159_parentid
+			" value="e0fa05763_142_
+	143"><ul id="e0fa05763_142_159_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=60" target="_self">Lynn Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1191" target="_self">Kevin Kyser</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=62" target="_self">Tom Burlin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=74" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=70" target="_self">Lora Villarreal</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=66" target="_self">John Rexford</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418331" target="_self">Tracy Tolbert</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1551" target="_self">Joseph Doherty</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2009" target="_self">Dave Amoriell</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=72" target="_self">Ann Vezina</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2297" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1257" target="_self">Derrell James</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418262" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418321" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2393" target="_self">Mark Boxer</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418311" target="_self">David Bywater</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=10737418391" target="_self">Richard Schnacker</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2105" target="_self">Rebecca Scholl</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=76" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1577" target="_self">Tasos Tsolakis</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_144"><input type="hidden" id="e0fa05763_142_144_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_144_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=202" target="_self">Customer Care</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=204" target="_self">Document &amp; Data Management</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=206" target="_self">Finance &amp; Accounting</a></li><li><a class="ekflexmenu_link" href="/HCMS.aspx" target="_self">Human Capital Management</a></li><li><a class="ekflexmenu_link" href="/it_infrastructure_outsourcing_and_services.aspx" target="_self">IT Outsourcing</a></li><li><a class="ekflexmenu_link" href="/ApplicationServices.aspx" target="_self">Application Services</a></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05763_142_147"><a id="e0fa05763_142_147_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05763_142_147_parentid
+			" value="e0fa05763_142_
+	144"><ul id="e0fa05763_142_147_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
+				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05763_142_10737418238"><a id="e0fa05763_142_10737418238_button
+				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05763_142_10737418238_parentid
+			" value="e0fa05763_142_
+	147"><ul id="e0fa05763_142_10737418238_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_148"><input type="hidden" id="e0fa05763_142_148_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_148_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05763_142_149"><a id="e0fa05763_142_149_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=564">Commercial</a><input type="hidden" id="e0fa05763_142_149_parentid
+			" value="e0fa05763_142_
+	148"><ul id="e0fa05763_142_149_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/communications_providers.aspx" target="_self">Communications Providers</a></li><li><a class="ekflexmenu_link" href="/advanced_financial_solutions.aspx" target="_self">Financial Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=212" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=262" target="_self">Higher Education Institutions</a></li><li><a class="ekflexmenu_link" href="/insurance_industry_solutions.aspx" target="_self">Insurance Solutions</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=638" target="_self">Manufacturers</a></li><li><a class="ekflexmenu_link" href="/retail_industry_consultants.aspx" target="_self">Retail Industry</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=640" target="_self">Transportation: Shipping &amp; Logistics</a></li><li><a class="ekflexmenu_link" href="/travel_industry_services.aspx" target="_self">Travel Industry Services</a></li></ul></li><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05763_142_150"><a id="e0fa05763_142_150_button
+				" tabindex="0" class="ekflexmenu_button" href="/workarea/linkit.aspx?linkidentifier=id&amp;itemid=492">Public Sector</a><input type="hidden" id="e0fa05763_142_150_parentid
+			" value="e0fa05763_142_
+	148"><ul id="e0fa05763_142_150_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/adminandfinance.aspx" target="_self">Administration and Finance</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=494" target="_self">Energy and Environment</a></li><li class="
+				ekflexmenu_menu_level_3 ekflexmenu_submenu" id="e0fa05763_142_10737418239"><a id="e0fa05763_142_10737418239_button
+				" tabindex="0" class="ekflexmenu_button" href="/federal.aspx">Federal - US</a><input type="hidden" id="e0fa05763_142_10737418239_parentid
+			" value="e0fa05763_142_
+	150"><ul id="e0fa05763_142_10737418239_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/GovernmentContractVehicles.aspx" target="_self">Government Contract Vehicles</a></li></ul></li><li><a class="ekflexmenu_link" href="/healthcare.aspx" target="_self">Healthcare</a></li><li><a class="ekflexmenu_link" href="/humanservices.aspx" target="_self">Human Services</a></li><li><a class="ekflexmenu_link" href="/publicsafetyandjustice.aspx" target="_self">Public Safety and Justice</a></li><li><a class="ekflexmenu_link" href="/transportation.aspx" target="_self">Transportation</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_151"><input type="hidden" id="e0fa05763_142_151_parentid
+			" value="e0fa05764_142_142"></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_152"><input type="hidden" id="e0fa05763_142_152_parentid
+			" value="e0fa05764_142_142"></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_153"><input type="hidden" id="e0fa05763_142_153_parentid
+			" value="e0fa05764_142_142"></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_154"><input type="hidden" id="e0fa05763_142_154_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_154_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li class="
+				ekflexmenu_menu_level_2 ekflexmenu_submenu ekflexmenu_startlevel
+				" id="e0fa05763_142_158"><a id="e0fa05763_142_158_button
+				" tabindex="0" class="ekflexmenu_button" href="/collection.aspx?id=568&amp;colid=16">Subject Matter Experts</a><input type="hidden" id="e0fa05763_142_158_parentid
+			" value="e0fa05763_142_
+	154"><ul id="e0fa05763_142_158_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/bios.aspx?id=2398" target="_self">Caroline Avey</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2399" target="_self">Chad Harris</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1643" target="_self">Chantel Sheaks</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1367" target="_self">Chris Engle</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1727" target="_self">Chris Leach</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1605" target="_self">Chris Tranquill</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1739" target="_self">Connie Harvey</a></li><li><a class="ekflexmenu_link" href="/DavidCummins.aspx" target="_self">David Cummins</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1050" target="_self">Jeffrey C. (Jeff) Bauer, Ph.D.</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1811" target="_self">John Polk</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2337" target="_self">Kevin Kelley</a></li><li><a class="ekflexmenu_link" href="/LouisSchiavone.aspx" target="_self">Louis Schiavone</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1841" target="_self">Parker Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2071" target="_self">Raymond Hennings</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2355" target="_self">Richard Klingshirn</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1835" target="_self">Richard Williams</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1965" target="_self">Robert Blondin</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2357" target="_self">Rohail Khan</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=2401" target="_self">Sherri Z. Heller</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1579" target="_self">Tasos Tsolakis</a></li><li><a class="ekflexmenu_link" href="/TimConway.aspx" target="_self">Tim Conway</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1753" target="_self">Tom Blodgett</a></li><li><a class="ekflexmenu_link" href="/bios.aspx?id=1447" target="_self">Will Saunders</a></li></ul></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_155"><input type="hidden" id="e0fa05763_142_155_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_155_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="https://infobank.acs-inc.com/login.asp" target="_blank">ACS Employee Portal</a></li><li><a class="ekflexmenu_link" href="/pages_exp.aspx?id=1573" target="_self">Career Opportunities</a></li><li><a class="ekflexmenu_link" href="/contentnav.aspx?id=226" target="_self">Philosophy</a></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_156"><input type="hidden" id="e0fa05763_142_156_parentid
+			" value="e0fa05764_142_142"><ul id="e0fa05763_142_156_submenu_items
+				" class="ekflexmenu_submenu_items_hidden"><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Asia Pacific</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Caribbean &amp; Latin America</a></li><li><a class="ekflexmenu_link" href="/ACS_Europe.aspx" target="_self">Europe</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">Middle East &amp; Africa</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">North America</a></li><li><a class="ekflexmenu_link" href="/ACS_Locations.aspx" target="_self">South America</a></li></ul></li><li class="
+				ekflexmenu_menu_level_1 ekflexmenu_submenu" id="e0fa05763_142_157"><input type="hidden" id="e0fa05763_142_157_parentid
+			" value="e0fa05764_142_142"></li></ul></li></ul></div></div></div>
+
+                    <div id="greenpage_image" style="visibility: hidden;">
+                    </div>
+                    <div id="greenpage" style="visibility: visible;">
+                        <div class="greenpageblock_left">
+                            
+                        </div>
+                    </div>
+                    <p style="margin-top: 130px;">
+                        
+                    </p>
+                    <div class="PublicSectorblock_left">
+                        
                     </div>
                 </div>
-                <!-- Below code added by Suresh for display Navigation bar on Public Sector page --->
-                <!-- Public Sector Navigation begins here -->
-                 
-                <!-- Public Sector Navigation ends here-->
-                <!-- Commerical page Navigation begins here -->
-                 
-                <!-- Commerical page Navigation ends here-->
-                <!-- Below code added by Suresh for display Navigation bar on Public Sector\Healthcare solutions page --->
-                <!-- GHS Navigation begins here -->
-                 
-                <!-- GHS Navigation ends here-->
-                <!-- Below code added by Suresh for display Navigation bar on Human Services page --->
-                <!-- Human Services Navigation begins here -->
-                 
-                <!-- Human Services Navigation ends here-->
-                <!-- Below code added by Suresh for display Navigation bar on Public Sector\Healthcare solutions page --->
-                <!-- Community Navigation begins here -->                
-                 
-                <!-- Careers Navigation ends here-->
-                <!-- Below code added by Suresh for display Navigation bar on Public Sector\Healthcare solutions page --->
-                <!-- Community Navigation begins here -->                
-                 
-                <!-- Careers Navigation ends here-->
-                <div id="ctl00_ctl00_cphMainContent_cphLeftMenu_acstopmenu" style="display:none;" class="acstopmenu"></div>              
-            
-        </div>
+                <div id="banner">
+                    <h1>Privacy</h1><img alt="greenpagebanner" src="/images/bannerpage.jpg">
+                </div>
+                <div id="content">
+                    
+    <div id="sidebar">
         
-            <div id="banner">
-                <h1>Privacy</h1>
-                <img src="/images/bannerpage.jpg" id="ctl00_ctl00_cphMainContent_cphMainBanner_bannerimg" alt="greenpagebanner">
-            </div>
-        
-        
-        <div id="content"><div id="sidebar">
-            
-    
 
-            </div>
-            <div id="bodycontent" style="width: 743px;">
-                
-          
-    
-    <span id="ctl00_ctl00_cphMainContent_cphContentArea_lblContentTitle"></span>
         
-    <p><strong>General<br><br></strong>ACS is committed to the privacy and security of personal information you provide to us through the use of ACS Web Sites. This Online Privacy Statement ("Statement") informs you of the information practices for ACS Web Sites, including the type of personal information we collect from your use of ACS Web Sites, how the information is used, and with whom the information is shared.<br><br>
+        
+    </div>
+    <div id="bodycontent" style="width: 500px;">
+        
+        <!--?xml version="1.0" encoding="utf-8"?--><simplecontent><p><strong>General<br><br></strong>ACS is committed to the privacy and security of personal information you provide to us through the use of ACS Web Sites. This Online Privacy Statement ("Statement") informs you of the information practices for ACS Web Sites, including the type of personal information we collect from your use of ACS Web Sites, how the information is used, and with whom the information is shared.<br><br>
 By using our Site, you agree that your use is subject to the terms of this Statement and you consent to the collection, use and storage of your information by ACS in accordance with this Statement and as may be more specifically explained on each Site. ACS may change this Statement at any time and will display the changes here on this Site. Because your use of this Site after changes have been posted indicates your agreement with those changes, we encourage you to visit this Statement on a regular basis. If you are not comfortable with using this Site in accordance with this Statement, please exit the Site immediately.<br><br>
 You may have accessed this Site as a result of a link from another ACS Site. This Statement applies to all ACS Sites linked to this Site except where more specific information is provided on the linked Site with respect to the collection, use and storage of personal information.<br><br>
 This Statement is effective June 2, 2004.</p><p class="content"><b>Collection and Use of Information</b><br><br>
@@ -367,62 +382,29 @@ In the course of providing services to its clients, ACS may operate web sites fo
 ACS has employees, customers and suppliers in many countries around the world. The management, operational and technical processes and systems used by ACS may involve transfer of information across borders. For example, personal information you give to ACS may be sent to systems outside the country in which you initially provided the information, and it may be processed and stored in a different country. Regardless of where you provide your personal information, ACS will take steps to handle it in a secure manner in accordance with this Statement and all applicable laws.</p><p class="content"><b>Children</b><br><br>
 ACS does not market its products or services to children under thirteen years of age. We do not intend to collect personal information from children and request that children do not submit personal information to us.</p><p class="content"><b>Scope of Statement</b><br><br>
 This Statement describes the online privacy practices for ACS Web Sites maintained by Affiliated Computer Services, Inc. and its subsidiaries ("ACS"). It does not modify any agreements ACS may have with our customers, suppliers or other third parties.</p><p class="content"><b>Contact Information</b><br><br>
-Please direct any questions you might have about this Statement to the ACS Privacy Office.</p>
-    <div style="clear: left; margin: 0px;"></div>
-    <div style="position: relative; padding-top: 10px; margin-top: 10px;">
-                <p id="openall">Close All</p> 
-                <p id="closeall">Expand All</p>
-<div class="panel_example panel-up"><p id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_collapsetitle" class="slide0"><span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_lblTitle">Social Security Number Protection Policy</span></p></div>
-
-<div id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_collapsecontent0" style="display: none;">
-    
-    <span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_lblHtml"><p><strong>Purpose</strong></p><p>ACS uses Social Security Numbers in our role as an employer and as a service provider to our clients.&nbsp; This Social Security Number Protection Policy (“Policy”) is intended to protect the confidentiality of and limit access to Social Security Numbers in the possession and control of ACS and prohibit unlawful disclosure of those Numbers.&nbsp; As used in this Policy, a Social Security Number (SSN) is a 9-digit number issued to individuals by the Social Security Administration, an agency of the U.S. Federal Government.</p><p><strong>Scope</strong></p><p>For purposes of this Policy, “ACS” means Affiliated Computer Services, Inc, its affiliates and subsidiaries.&nbsp; This Policy applies to all ACS employees, independent contractors, consultants, temporary employees and all other individuals or entities (“Workers”) that access, use or process SSNs in the performance of job duties or the delivery of services on behalf of ACS.&nbsp; Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs.&nbsp; In all cases, such contractual requirements will control to the extent they are more stringent than the standards set forth in this Policy and associated procedures.&nbsp; This Policy does not attempt to address the variety of specific legal or regulatory requirements that may be in effect in every jurisdiction.&nbsp; Such requirements may be addressed in related ACS privacy guidance and communications.</p><p><strong>Protection of SSNs</strong></p><p>ACS will establish and maintain reasonable procedures and safeguards designed to protect the confidentiality of SSNs while in ACS’ possession and control, whether collected by ACS in connection with employment activities or furnished to ACS in connection with the performance of services for a client.&nbsp; No unlawful disclosure of SSNs is permitted.&nbsp; Access to SSNs will be limited to those Workers with a need-to-know and to the minimum amount reasonably necessary for a Worker to perform the assigned task.</p><p><strong>Compliance with Laws</strong></p><p>ACS will comply with all applicable laws relating to the use, access and disclosure of SSNs.&nbsp;&nbsp;</p><p><strong>Integration with Security Policies</strong></p><p>This Policy is intended to be interpreted and construed in a manner consistent with ACS Information Security and Physical Security policies and other relevant policies or procedures.</p><p><strong>Sanctions</strong></p><p>Violations of this Policy may result in immediate disciplinary action up to and including termination of employment, contract termination, or other actions as ACS deems appropriate.</p><p><strong>Suppliers, vendors and contractors</strong></p><p>ACS will take reasonable steps to select suppliers, vendors and contractors who maintain appropriate safeguards to protect SSNs.<br></p></span>
-    <div id="collapsesidebar">
-    <span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_lblSidebarContent"></span>
-    
-    
- <!-- Added below line by Suresh Ponnuswamy on 06/23/2008 as per ACS Maintenance_061908.xls document sent by Lary Anderson -->
- <!-- Task 6 : "Back to top" links added to expandable content blocks for Accross the site -->
-    <div align="right"><a id="ctl00_ctl00_cphMainContent_cphContentArea_ctl02_hplGoToTop" href="javascript:window.scrollTo(0,0)">Back to Top</a>  </div> 
-    </div>
-</div>
-<div class="panel_example panel-up" style="display: none;"><p id="ctl00_ctl00_cphMainContent_cphContentArea_ctl03_collapsetitle" class="slide1"><span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl03_lblTitle"></span></p></div>
-<div id="ctl00_ctl00_cphMainContent_cphContentArea_ctl03_collapsecontent1" style="display: none; visibility: hidden;">
-    
-    <img src="/images/spacer.gif" border="0" width="10">
-    <span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl03_lblHtml"></span>
-    <div id="collapsesidebar">
-    <span id="ctl00_ctl00_cphMainContent_cphContentArea_ctl03_lblSidebarContent"></span>
-    
-    
-    </div>
-</div></div>
-      
-    
-          
-           </div>
-        </div>
-        <div style="clear: both; font-size: 1px;">&nbsp;</div> 
+Please direct any questions you might have about this Statement to the ACS Privacy Office.</p></simplecontent><div style="position: relative; padding-top: 10px; margin-top: 40px;"><p id="closeall">Close All</p><p id="openall">Expand All</p><div class="panel_example panel-up"><p class="slide"><span>Social Security Number Protection Policy</span></p></div><div style="display: none;"><div><p><strong>Purpose</strong></p><p>ACS uses Social Security Numbers in our role as an employer and as a service provider to our clients.&nbsp; This Social Security Number Protection Policy (“Policy”) is intended to protect the confidentiality of and limit access to Social Security Numbers in the possession and control of ACS and prohibit unlawful disclosure of those Numbers.&nbsp; As used in this Policy, a Social Security Number (SSN) is a 9-digit number issued to individuals by the Social Security Administration, an agency of the U.S. Federal Government.</p><p><strong>Scope</strong></p><p>For purposes of this Policy, “ACS” means Affiliated Computer Services, Inc, its affiliates and subsidiaries.&nbsp; This Policy applies to all ACS employees, independent contractors, consultants, temporary employees and all other individuals or entities (“Workers”) that access, use or process SSNs in the performance of job duties or the delivery of services on behalf of ACS.&nbsp; Contracts with clients, suppliers or other third parties may contain additional requirements relating to the protection of SSNs.&nbsp; In all cases, such contractual requirements will control to the extent they are more stringent than the standards set forth in this Policy and associated procedures.&nbsp; This Policy does not attempt to address the variety of specific legal or regulatory requirements that may be in effect in every jurisdiction.&nbsp; Such requirements may be addressed in related ACS privacy guidance and communications.</p><p><strong>Protection of SSNs</strong></p><p>ACS will establish and maintain reasonable procedures and safeguards designed to protect the confidentiality of SSNs while in ACS’ possession and control, whether collected by ACS in connection with employment activities or furnished to ACS in connection with the performance of services for a client.&nbsp; No unlawful disclosure of SSNs is permitted.&nbsp; Access to SSNs will be limited to those Workers with a need-to-know and to the minimum amount reasonably necessary for a Worker to perform the assigned task.</p><p><strong>Compliance with Laws</strong></p><p>ACS will comply with all applicable laws relating to the use, access and disclosure of SSNs.&nbsp;&nbsp;</p><p><strong>Integration with Security Policies</strong></p><p>This Policy is intended to be interpreted and construed in a manner consistent with ACS Information Security and Physical Security policies and other relevant policies or procedures.</p><p><strong>Sanctions</strong></p><p>Violations of this Policy may result in immediate disciplinary action up to and including termination of employment, contract termination, or other actions as ACS deems appropriate.</p><p><strong>Suppliers, vendors and contractors</strong></p><p>ACS will take reasonable steps to select suppliers, vendors and contractors who maintain appropriate safeguards to protect SSNs.<br></p><div align="right"><a href="javascript:window.scrollTo(0,0)"><u>Back to Top</u></a></div></div></div></div>
     </div>
 
-        
-        <div id="footer">
-          
-
-            <ul>
-                <li><a href="/contactus.aspx">Contact Us</a></li>
-                <li>|</li>
-                <li><a href="/sitemap.aspx">Site Map</a></li>
-                <li>|</li>
-                <li><a href="/privacy.aspx">Privacy Policy</a></li>
-                <li>|</li>
-                <li><a href="/terms.aspx">Terms of Use</a></li>
-            </ul>
-            <div id="copyright">
-                © Copyright 2009 Affiliated Computer Services, Inc. All Rights Reserved.
+                </div>
+                <div style="clear: both; font-size: 1px;">
+                </div>
+            </div>
+            <div id="footer">
+                <ul>
+                    <li><a href="/contactus.aspx">Contact Us</a></li>
+                    <li>|</li>
+                    <li><a href="/sitemap.aspx">Site Map</a></li>
+                    <li>|</li>
+                    <li><a href="/privacy.aspx">Privacy Policy</a></li>
+                    <li>|</li>
+                    <li><a href="/terms.aspx">Terms of Use</a></li>
+                </ul>
+                <div id="copyright">
+                    © Copyright 2010 Affiliated Computer Services, Inc. All Rights Reserved.
+                </div>
             </div>
         </div>
-    </div></form>
+    </form>
 
 
 </body></html>
