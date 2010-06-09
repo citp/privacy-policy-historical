@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insure.com privacy policy that was archived on 2009-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091223183524id_/http%3A//www.insure.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insure.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609155347id_/http%3A//www.insure.com/privacy_statement.html) for the most accurate reproduction.*
 
-# Insure.com Car Insurance - Official site. Compare auto insurance quotes, 200 companies, instant term life insurance quotes, life insurance quotes, health insurance quotes, medical insurance quotes, dental insurance, long-term care insurance, renter's insurance.
+# 
 
 **QuinStreet, Inc.**  
 
