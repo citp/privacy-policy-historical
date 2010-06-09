@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216212310id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cash4offers.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609060351id_/http%3A//www.cash4offers.com/ppolicy.php) for the most accurate reproduction.*
 
 # The Cash4Offers.com Privacy Policy
 
@@ -25,13 +25,13 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
   9. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, The Cash4Offers.com has used appropriate industry standard procedures to safeguard the confidentiality of your personal information, such as firewall, encryption, token authentication, application proxies, monitoring technology, and adaptive analysis of network traffic to track abuse of our network and its data. However, no data transmitted over the Internet can be 100% secure.
 
-  10. You must be at least 13 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](http://www.cash4offers.com/contact.html).
+  10. You must be at least 13 years of age to become a member of The Cash4Offers.com. If you have any questions or concerns about The Cash4Offers.com membership policies, please [contact us](http://cash4offers.com/blog/contact-us).
 
   11. We give users the following options for changing and modifying information previously provided: 
 
     1. You can [log in to the member control panel](http://www.cash4offers.com/login.html) and click the edit info button. There you will be able to change all information you have previously given.
 
-    2. Use our [contact](http://www.cash4offers.com/contact.html) form.
+    2. Use our [contact](http://cash4offers.com/blog/contact-us) form.
 
     3. Send mail to the postal address at the bottom of this page.
 
@@ -46,6 +46,6 @@ The Cash4Offers.com has developed the web technology to enable businesses to int
 
 **Contacting the Web Site**
 
-If you have any questions about our policy, you can [contact us](http://www.cash4offers.com/contact.html). 
+If you have any questions about our policy, you can [contact us](http://cash4offers.com/blog/contact-us). 
 
 Close Window 
