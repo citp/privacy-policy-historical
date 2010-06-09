@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916235108id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pcpitstop.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609194432id_/http%3A//www.pcpitstop.com/about/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -52,6 +52,12 @@ As part of our market research model, we collect aggregate information about all
 **PC Pitstop cookies:** To be able to remember your computer's test results as you use our site, we use cookies. PC Pitstop does not use cookies to track PCs in locations outside our site. No personal information is collected through the use of PC Pitstop's cookies. You must accept some cookies for the site to work, but others are optional. Details on all the cookies used at PC Pitstop are available here: [http://www.pcpitstop.com/faq/cookies.asp](https://web.archive.org/faq/cookies.asp). 
 
 **Third-party cookies:** PC Pitstop uses banner advertising throughout its site that is sold by third-party agencies such as Tribal Fusion, and they may place and collect cookie information. The PC Pitstop site does not control the issuing or use of third-party cookies; they are not required, and you may reject or delete them if you choose. The privacy policies for these ad companies differ from PC Pitstop's; you may review their policies and/or contact the agencies via their Web sites: [Tribal Fusion](https://web.archive.org/offsite.asp?http://www.tribalfusion.com/www/about/privacy.html), [Commission Junction](https://web.archive.org/offsite.asp?http://www.cj.com/privacy.asp), [DoubleClick](https://web.archive.org/offsite.asp?http://www.doubleclick.net/us/corporate/privacy/privacy/default.asp?asp_object_1=&). 
+
+  * Third party vendors, including Google, show PC Pitstop ads on sites on the internet.
+  * Third party vendors, including Google, use cookies to serve ads based on a user's prior visits to our site.
+  * Users may opt out of Google's use of cookies by visiting the [Google advertising opt-out page.](https://web.archive.org/offsite.asp?http://www.google.com/privacy_ads.html)
+
+
 
 ## PC Pitstop Support Forums
 
