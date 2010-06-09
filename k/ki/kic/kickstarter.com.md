@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504141603id_/http%3A//www.kickstarter.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickstarter.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610012433id_/http%3A//www.kickstarter.com/privacy) for the most accurate reproduction.*
 
-# Kickstarter » Privacy Policy
+# Privacy Policy — Kickstarter
 
 We respect your right to privacy.
 
@@ -52,4 +52,4 @@ _People under 18 are not permitted to use Kickstarter on their own, and so this 
 
 ### Questions
 
-If you have questions or suggestions you can contact us at: [customerservice@kickstarter.com](https://web.archive.org/web/20090504141603id_/http%3A//www.kickstarter.com/customerservice@kickstarter.com)
+If you have questions or suggestions you can contact us at: [customerservice@kickstarter.com](https://web.archive.org/web/20100610012433id_/http%3A//www.kickstarter.com/customerservice@kickstarter.com)
