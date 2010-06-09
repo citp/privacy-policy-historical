@@ -1,0 +1,280 @@
+<!--The following is the downloaded HTML source of the fxstat.com privacy policy that was archived on 2010-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609113756id_/http%3A//fxstat.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Privacy Policy - FXSTAT</title><link rel="shortcut icon" href="/favicon.ico">
+<link rel="stylesheet" type="text/css" href="/themes/default/css/main.css">
+<script type="text/javascript" src="/js/libraries/jquery1.3.2.js"></script>
+<script type="text/javascript" src="/js/jquery.betterTooltip.js"></script>
+<script type="text/javascript" src="/js/common.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<script type="text/javascript">//<![CDATA[
+$(function(){
+    var url = window.location.href;
+    
+    $(".headmenu .item").each(function(){
+	if ($(this).attr('href') != '/') {
+        if (url.search($(this).attr('href'))>=0) {
+            $(this).addClass('active');
+        }}
+    });
+	
+	 $(".headmenu .homeitem").each(function(){
+        if (url.search($(this).attr('href')+'$')>=0) {
+            $(this).addClass('active');
+        }
+    });
+	
+    $(".withtip").betterTooltip();
+    
+    var defaultSearch = 'Search...';
+    if ($('#searchString').val() == '') {
+        $('#searchString').val(defaultSearch);
+    } 
+    $('#searchString')
+        .blur(function(){
+            if ($(this).val() == '') {
+               $(this).val(defaultSearch);
+            } 
+        })
+        .focus(function(){
+             if ($(this).val() == defaultSearch) {
+                $(this).val('');
+             }
+        });
+    $('#searchForm').submit(function(){
+        if ($('#searchString').val() == defaultSearch) return false;
+    });
+
+    var defaultLogin = 'Email Address';
+    if ($('#form_username', $("#loginform")).val() == '') {
+    	$('#form_username', $("#loginform")).val(defaultLogin);
+    } 
+    $('#form_username', $("#loginform"))
+        .blur(function(){
+            if ($(this).val() == '') {
+               $(this).val(defaultLogin);
+            } 
+        })
+        .focus(function(){
+             if ($(this).val() == defaultLogin) {
+                $(this).val('');
+             }
+        });
+    var defaultPassword = 'Password';
+    if ($('#fake_form_password', $("#loginform")).val() == '') {
+        $('#fake_form_password', $("#loginform")).val(defaultPassword);
+    } 
+    if ($('#form_password', $("#loginform")).val() != '') {
+        $('#fake_form_password', $("#loginform")).hide();
+        $('#form_password', $("#loginform")).show();
+    } 
+    $('#fake_form_password', $("#loginform"))   
+    .focus(function(){
+        $(this).hide();
+    	$('#form_password', $("#loginform")).show();
+    });
+    $('#form_password', $("#loginform"))
+    .blur(function(){
+        if ($(this).val() == '') {
+            $(this).hide();
+            $('#fake_form_password', $("#loginform")).blur().show();
+        } 
+    });
+    $('#loginform').submit(function(){
+    	if ($('#form_password', $("#loginform")).val() == '') {
+ 		   $('#form_password', $("#loginform")).val($('#fake_form_password', $("#loginform")).val());
+    	}
+    });
+});
+//]]></script>
+</head>
+
+<body>
+
+<div class="site">
+<div class="header">
+
+<div class="loginform">
+<div class="form_errors hidden"></div><form id="loginform" method="post" action="/">
+
+<input type="text" name="form_username" id="form_username" value="" class="text"><div class="form_username_errors hidden" id="form_username_errors"></div>
+<input type="password" name="form_password" id="form_password" value="" class="hidden text"><input type="text" class="text" name="fake_form_password" id="fake_form_password" value="">
+<div class="form_password_errors hidden" id="form_password_errors"></div><input type="submit" class="button loginbutton" value="Login">
+    <a class="button registerbutton" href="/">Register</a>
+<div class="clear"></div>
+<div class="remember">
+<input type="hidden" name="form_rememberme" value=""><input type="checkbox" name="form_rememberme" id="form_rememberme" value="1"><label for="form_rememberme">Remember me</label></div>
+<a href="/user/reset" class="forgotpass">Forgot your password?</a>
+</form>
+</div>
+
+<div class="links">
+<div class="links_item"><span class="icon icon-clock">&nbsp;</span>
+Wed, Jun 09 2010, 11:37:56 GMT</div>
+</div>
+</div>
+
+<div class="headmenu">
+<a href="/" class="logo">&nbsp;</a>
+
+<div class="search">
+<form id="searchForm" method="get" action="/search">
+<input type="text" maxlength="64" name="s" id="searchString" class="searchinput" value="">
+<a href="#search" class="searchbutton" onclick="if($(&quot;#searchString&quot;).val()){$(&quot;#searchForm&quot;).submit();} return false;">&nbsp;</a>
+</form>
+</div>
+
+ <a href="/" class="item homeitem">Home</a>
+<a href="#" onclick="return(false);" class="item withtip" title="Available to registered members only">My Portfolio</a>
+<a href="/perfomances" class="item">Performances</a>
+<a href="/answers" class="item">Answers</a>
+<!-- <a href="#" class="item">Community</a> -->
+<!-- <a href="/brokers" class="item">Brokers</a> -->
+</div>
+
+<div class="topbanner">
+
+<!--/* OpenX Javascript Tag v2.8.5 */-->
+
+<script type="text/javascript"><!--//<![CDATA[
+   document.MAX_ct0 ='INSERT_CLICKURL_HERE';
+
+   var m3_u = (location.protocol=='https:'?'https://test.fxstat.com/www/delivery/ajs.php':'http://test.fxstat.com/www/delivery/ajs.php');
+   var m3_r = Math.floor(Math.random()*99999999999);
+   if (!document.MAX_used) document.MAX_used = ',';
+   document.write ("<scr"+"ipt type='text/javascript' src='"+m3_u);
+   document.write ("?zoneid=5&amp;target=_blank");
+   document.write ('&amp;cb=' + m3_r);
+   if (document.MAX_used != ',') document.write ("&amp;exclude=" + document.MAX_used);
+   document.write (document.charset ? '&amp;charset='+document.charset : (document.characterSet ? '&amp;charset='+document.characterSet : ''));
+   document.write ("&amp;loc=" + escape(window.location));
+   if (document.referrer) document.write ("&amp;referer=" + escape(document.referrer));
+   if (document.context) document.write ("&context=" + escape(document.context));
+   if ((typeof(document.MAX_ct0) != 'undefined') && (document.MAX_ct0.substring(0,4) == 'http')) {
+       document.write ("&amp;ct0=" + escape(document.MAX_ct0));
+   }
+   if (document.mmm_fo) document.write ("&amp;mmm_fo=1");
+   document.write ("'><\/scr"+"ipt>");
+//]]>--></script><script type="text/javascript" src="https://test.fxstat.com/www/delivery/ajs.php?zoneid=5&amp;target=_blank&amp;cb=50575996741&amp;charset=UTF-8&amp;loc=https%3A//web.archive.org/web/20100609113756id_/http%253A//fxstat.com/privacy"></script>
+<noscript>
+<a href='http://test.fxstat.com/www/delivery/ck.php?n=a5a00600&amp;cb=INSERT_RANDOM_NUMBER_HERE' target='_blank'><img src='http://test.fxstat.com/www/delivery/avw.php?zoneid=5&amp;cb=INSERT_RANDOM_NUMBER_HERE&amp;n=a5a00600&amp;ct0=INSERT_CLICKURL_HERE' border='0' alt='' /></a>
+</noscript>
+
+
+</div>
+
+<div class="page">
+<div class="box whitebox" id="terms-use">
+<div class="content">
+    <h1>
+      Website Privacy Policy
+    </h1>
+<div class="clear"></div>
+<div class="text">
+The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to FXSTAT to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+<div class="clear"></div>
+We believe your business is no one else's. Your privacy is important to you and to us. So we'll protect the information you share with us. To protect your privacy, FXSTAT follows different principles in accordance with worldwide practices for customer privacy and data protection.
+ <ul>
+ <li>We won�t sell or give away, mail address, phone number, email address or any other information to anyone. </li>
+ <li>We�ll use state-of-the-art security measures to protect your information from unauthorized users. </li>
+ </ul>
+ <div class="clear"></div>
+<b>NOTICE</b>
+<div class="clear"></div>
+We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
+  <ul>
+ <li>To make the site easier for you to use by not having to enter information more than once.  </li>
+ <li>To help you quickly find software, services or information.  </li>
+ <li>To help us create content most relevant to you.  </li>
+ <li>To alert you to product upgrades, special offers, updated information and other new services from FXSTAT.  </li>
+ </ul>
+ <div class="clear"></div>
+<b>CONSENT</b>
+<div class="clear"></div>
+If you choose not to register or provide personal information, you can still use most of www.FXSTAT.com. But you will not be able to access areas that require registration. 
+<div class="clear"></div>
+If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding FXSTAT  products, programs, events, or services by email, or telephone, you may select the option stating that you do not wish to receive marketing messages from FXSTAT from your setting area. 
+<div class="clear"></div>
+FXSTAT occasionally allows other companies to offer our registered customers information about their products and services, using Email only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+<br><br>
+<b>ACCESS</b>
+<div class="clear"></div>
+We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
+  <ul>
+ <li>View and edit personal information you have already given us. </li>
+ <li>Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail. </li>
+ <li>Sign up for electronic newsletters about our services and products. </li>
+ <li>Register. Once you register, you will have access to the setting area where you can create th above settings.</li>
+<li>Wherever you go on www.FXSTAT.com, your information such as name email etc stays with you unless you share it with others via Widgets, Email, Profile, Answer and Ask Section.</li>
+ </ul>
+ <div class="clear"></div>
+<b>NOTICE TO PARENTS</b>
+<div class="clear"></div>
+Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+ <br><br>
+<b>ENFORCEMENT</b>
+<div class="clear"></div>
+If for some reason you believe FXSTAT has not adhered to these principles, please notify us by email at <a href="mailto:privacy@fxstat.com">privacy@fxstat.com</a>, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+ <br><br>
+
+<b>WHAT WE DO WITH THE INFORMATION YOU SHARE</b>
+<div class="clear"></div>
+When you join us, you provide us with your contact information, including name and email address. We use this information to send you updates about your system, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. 
+<div class="clear"></div>
+FXSTAT  will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on FXSTAT  or the site; (b) protect and defend the rights or property of FXSTAT  and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of FXSTAT , its Websites, or the public.
+
+<br><br><br><br><br><br>
+		
+</div>
+<div style="clear:both;"></div>
+</div>
+<div class="bottom"><div class="left"></div><div class="right"></div><div class="middle"></div></div>
+<div class="clear"></div>
+</div></div>
+
+<!-- <div class="adspace">
+<div class="blankarea">Advertisement area</div>
+</div> -->
+
+<div class="footer">
+<div class="links">
+
+<div class="clear"></div>
+<a href="/terms">Terms of Use</a> |
+<!-- <a href="/faq">FAQ </a> |-->
+<a href="/privacy">Privacy </a> |
+<a href="http://fxstat.zendesk.com/anonymous_requests/new">Contact Us</a> |
+<a href="/about">About</a> |
+<!-- <a href="/sitemap">Sitemap</a> | -->
+ <a href="http://fxstat.zendesk.com/home">Help</a> |
+ <a href="http://blog.fxstat.com">FXSTAT Blog</a> |
+ <a href="http://twitter.com/fxstat" class="twitter">&nbsp;</a> |
+<a href="http://www.facebook.com/pages/FXSTATcom/109353142438542?v=info" class="facebook">&nbsp;</a> |
+<a href="http://fxstat.zendesk.com/anonymous_requests/new"><span class="icon icon-bug">&nbsp;</span>Report a Bug</a>
+</div>
+© 2010 FX STAT Ltd. All Rights Reserved. 
+<div class="clear"></div>
+<div class="warning">
+RISK WARNING: Trading foreign exchange, contract for difference, share, commodities on margin carries a high level of risk, and may not be suitable for all. Before deciding to trade foreign exchange you should carefully consider your monetary objectives, level of experience, and risk appetite. Any data and information is provided here, solely for informational purposes, and is not intended for trading purposes or advice. You should be aware of all the risks associated with online margin trading, and seek advice from an independent advisor if you have any doubts. Past returns are not indicative of future results.
+</div>
+</div>
+</div>
+
+<div id="opaco" class="hidden"></div>
+<div id="popup" class="hidden"></div>
+<div id="loading" class="loading hidden"><img src="/themes/default/images/loading.gif" width="16" height="16" alt="Loading..."></div>
+<div id="alert_message" class="hidden"></div>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15622174-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>
