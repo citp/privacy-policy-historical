@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728053412id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbn.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609223417id_/http%3A//www.cbn.com/about/privacy_notice.aspx) for the most accurate reproduction.*
 
 # CBN.com Privacy Notice
 
@@ -13,6 +13,7 @@
   * [Visit CBN](https://web.archive.org/about/visit/index.aspx?WT.svl=menu)
 
   
+[](http://www.cbn.com/superbook/pages/superbook_kids_radio.aspx?intcmp=SB0900002 "Superbook Kids Radio")   
 |    
 
 
@@ -58,7 +59,7 @@ CBN.com gives you access to a broad range of information about your account and 
 CBN.com does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use CBN.com only with the involvement of a parent or guardian.
 
 **Conditions of Use, Notices, and Revisions**  
-If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20090728053412id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
+If you choose to visit CBN.com, your visit and any dispute over privacy is subject to this Notice and our [Conditions of Use](https://web.archive.org/web/20100609223417id_/http%3A//www.cbn.com/about/termsofuse.aspx), including limitations on damages, arbitration of disputes, and application of the law of the Commonwealth of Virginia. If you have any concern about privacy at CBN.com, please send us a thorough description to [partners@CBN.com](mailto:partners@CBN.com), and we will try to resolve it.
 
 Our business changes constantly, and our Privacy Notice and the Conditions of Use will change also. We may e-mail periodic reminders of our notices and conditions, unless you have instructed us not to, but you should check our Web site frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
@@ -89,16 +90,22 @@ A caring friend will be there to pray with you in your time of need.
 
 | 
 
-[](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?WT.svl=right_nav)
+[](https://web.archive.org/spirituallife/BibleStudyAndTheology/Discipleship/Steps_to_Peace_With_God.aspx?intcmp=EVAN0001&WT.svl=right_nav)
 
-[](https://web.archive.org/spirituallife/ChristianCourses/index.aspx?WT.svl=right_nav)
+[](https://web.archive.org/spirituallife/ChristianCourses/index.aspx?intcmp=DISC0001&WT.svl=right_nav)
+
+## Need Prayer?
+
+Call our Prayer Counselors
+
+## 1-800-759-0700
 
 ## What Our Partners Are Doing 
 
-### [Gone in an Instant](https://web.archive.org/partners/outreach/OB949_ChenChina.aspx)
+### [Risking Your Life for a Drink of Water](https://web.archive.org/partners/outreach/OB1165_Kays_Well.aspx)
 
-In the blink of an eye, Chen’s life as he knew it, disappeared. Discover how friends like you are rebuilding an entire village and touching hearts after disaster struck. 
+The open well in this Cambodian village was extremely dangerous, but it was the only source of water the villagers had. That is, until you came with a lifesaving gift.
 
-### [Realtors Reveal Secret of Success](https://web.archive.org/partners/profiles/MichaelandVictoria_Duever.aspx)
+### [**When Good Plans Go Bad**](https://web.archive.org/partners/profiles/Carlos_DawnDosSantos.aspx)
 
-Mike and Victoria rode the real estate boom from top to bottom. Then they made a strategic decision that changed their finances. Discover how you can do the same.
+Carlos's and Dawn's plan for their dream house went terribly wrong. Then a bold decision brought them back their heart's desire.
