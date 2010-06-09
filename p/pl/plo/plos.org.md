@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plos.org privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222231551id_/http%3A//www.plos.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plos.org privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609040425id_/http%3A//www.plos.org/privacy.php) for the most accurate reproduction.*
 
 # Public Library of Science: Privacy Statement
 
@@ -20,4 +20,4 @@ We treat our readers' information as private and confidential, and we will not d
 
 Some pages on this site may use "cookies," which are small files that the site places on your hard drive for identification purposes. These files are used for site registration and customization the next time you visit us. You should note that cookies cannot read data off of your hard drive. Your Web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not. By not accepting cookies, some pages may not fully function and you may not be able to access certain information on this site. 
 
-This statement may change from time to time, so please check back periodically. If you have any concerns about how your information is being used or questions about PLoS's Privacy Policy, please feel free to [contact us](https://web.archive.org/contact.php?recipient=gen). 
+This statement may change from time to time, so please check back periodically. If you have any concerns about how your information is being used or questions about PLoS's Privacy Policy, please feel free to [contact us](https://web.archive.org/contact_form.php?recipient=gen). 
