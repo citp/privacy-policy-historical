@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201184414id_/http%3A//www.unit5.org/departments/technology/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unit5.org privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609051459id_/http%3A//www.unit5.org/departments/technology/privacy.shtml) for the most accurate reproduction.*
 
 # Online and Hosted Unit 5 Sites Privacy Policy
 
-######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20091201184414id_/http%3A//www.unit5.org/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
+######  [Español](http://translate.google.com/translate?u=https://web.archive.org/web/20100609051459id_/http%3A//www.unit5.org/departments/technology/privacy.shtml&hl=en&ie=UTF-8&sl=en&tl=es "*** Haga clic aquí para ver esta página traducida al español. Debido a un formato diferente el sitio puede tener una apariencia ligeramente diferente y alguna funcionalidad se puede perder. ****  Click to view this page translated into Spanish. Due to different formatting the site may have a slightly different appearance and some functionality may be lost. ***") 
 
 ##### **Online and Hosted Unit 5 Sites** Privacy Policy
 
@@ -10,17 +10,17 @@
 
 McLean County Unit 5 is very concerned about the protection of your online privacy, whether you are a teacher, student, parent, administrator, or general visitor to our Web site. As a result, McLean County Unit 5 has made the commitment not to disclose any of your personal information to third parties without your consent. For your protection, we have also established the following privacy statement that is meant to inform you of how we collect information and how we use it. Since this policy may change from time to time, we recommend that you refer to it regularly.
 
-If you have questions or concerns regarding this statement, you should first contact the Unit 5 Web Manager by email at webmaster@unit5.org. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the district offices either in writing or by email at [ district@unit5.org](mailto:district@unit5.org)
+If you have questions or concerns regarding this statement, you should first contact the Unit 5 Web Manager by email at webmaster@unit5.org. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact the district offices either in writing or by email at [district@unit5.org](mailto:district@unit5.org)
 
 **WHO WE ARE**
 
-Unit 5 Online and the various websites hosted by McLean County Unit District No. 5 are operated as a single "Site" by McLean County Unit District No. 5, a publicly funded K-12 education district with a publicly elected Board of Education. 
+Unit 5 Online and the various websites hosted by McLean County Unit District No. 5 are operated as a single "Site" by McLean County Unit District No. 5, a publicly funded K-12 education district with a publicly elected Board of Education. 
 
 **HOW TO REACH US**
 
 > **Our general mailing address is:**
 > 
-> McLean County Unit 5 Schools 
+> McLean County Unit 5 Schools 
 > 
 > 1809 West Hovey Ave.
 > 
@@ -59,9 +59,9 @@ There are various areas on our Site where we either require or permit you to tra
 > 
 > **Professional Development Academy Registration.** McLean County Unit 5 and the Professional Development Academy offers staff members the ability to register for training and education courses via Unit 5 Online. Registration information submitted electronically via Unit 5 Online does not include information of a personal nature and is not shared with third parties or outside the immediate needs of the Professional Development Academy program
 > 
-> **Staff Registration**. Staff members registered with Unit 5 Online have the ability to receive enhanced services and functionality on our site, specifically in the Secured Staff Resources Area. In order to become a registrant of the Secured Staff Resources Area, we ask staff members for their first and last name and email address. This is only for those affiliated with Unit 5 as a staff member, administrator, or other persons who need access as determined by Unit 5. 
+> **Staff Registration**. Staff members registered with Unit 5 Online have the ability to receive enhanced services and functionality on our site, specifically in the Secured Staff Resources Area. In order to become a registrant of the Secured Staff Resources Area, we ask staff members for their first and last name and email address. This is only for those affiliated with Unit 5 as a staff member, administrator, or other persons who need access as determined by Unit 5. 
 > 
-> **Message Boards and Postings**. We offer private and secured message boards to be used by teachers and their students as part of a class curriculum. These boards require that staff and teachers have an ID and Password assigned to them for access. Message Boards are monitored for inappropriate activities and can be audited as needed to remove such activity when necessary. No employee of Unit 5 will ask for an ID or Password from staff or student inside these message boards, and all information about user accounts is protected and not shared with third parties. Please see our Terms of Use before using such boards and/or postings and make sure to post only information that you are comfortable sharing. 
+> **Message Boards and Postings**. We offer private and secured message boards to be used by teachers and their students as part of a class curriculum. These boards require that staff and teachers have an ID and Password assigned to them for access. Message Boards are monitored for inappropriate activities and can be audited as needed to remove such activity when necessary. No employee of Unit 5 will ask for an ID or Password from staff or student inside these message boards, and all information about user accounts is protected and not shared with third parties. Please see our Terms of Use before using such boards and/or postings and make sure to post only information that you are comfortable sharing. 
 > 
 > **Images**. Unit 5 has a very specific policy regarding the posting and use of staff and student images on Unit 5 hosted websites. Policy disclosure is available in the Web Publishing Guidelines. Staff and student images must meet specific privacy protection minimums or they may not be posted.
 
@@ -89,7 +89,7 @@ Please keep in mind that whenever you give out personal information on other Web
 
 **EMAIL LINKS**
 
-We use email links located on our various "contact us" pages to allow you to contact us directly with any questions or comments you may have. 
+We use email links located on our various "contact us" pages to allow you to contact us directly with any questions or comments you may have. 
 
 We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may also file your comments to improve the site and program, or review and discard the information. Your personal information is not shared with third parties, except where noted for legal purposes or when legally required.
 
@@ -99,11 +99,11 @@ This site has security measures in place to protect the loss, misuse and alterat
 
 > **Human Resources Information Security**. Unit 5 Online offers, as a free service, the ability to apply for posted open job positions electronically. Information requested can be considered of a private nature, and submitted via an unsecured form electronically using electronic mail systems. It is possible that information can be intercepted by third parties and reviewed, however Unit 5 makes no claim to securing this information while it is in transit electronically from an end user to Unit 5. Information gathered through an electronic job application is entered into Unit 5 Human Resources computing resources and stored electronically for a minimum of one year, at which time they are discarded. Information gathered electronically via the submission of an online job application form is never shared with anyone outside of the Human Resources department.
 > 
-> **Online Email Access (Staff Only).** Unit 5 Staff members are advised of the following when using the Unit 5 Online provided email access pages: 
+> **Online Email Access (Staff Only).** Unit 5 Staff members are advised of the following when using the Unit 5 Online provided email access pages: 
 > 
 >   * Electronic mail transmitted and viewed via the Online Email Access page is not secured and is susceptible to third party intervention or interception
 >   * Electronic mail access uses limited cookies to make the process of using the Online Email Access page and is subject to the relevant statements of this policy
->   * It is possible, however unlikely, that a third party may use a computer after you have and gain access to your private email via the Online Email Access page. It is recommended that you shut down your browser after each use of the Online Email Access page at a minimum to limit the possibility of abuse by a third party. 
+>   * It is possible, however unlikely, that a third party may use a computer after you have and gain access to your private email via the Online Email Access page. It is recommended that you shut down your browser after each use of the Online Email Access page at a minimum to limit the possibility of abuse by a third party. 
 > 
 
 > 
@@ -117,7 +117,7 @@ This site has security measures in place to protect the loss, misuse and alterat
 > 
 > **Professional Development Academy Information Security**. Staff members registering for a class electronically with the Professional Development Academy (PDA) are required to disclose certain contact information that may be considered private. This information is submitted electronically via the Internet and may be susceptible to interception by third parties where it can be read or used in a manner other than intended.
 > 
-> **Online Polls and Voting.** No personal information will be asked or gathered without permission regarding these activities, when available, on Unit 5 Online and all other Unit 5 websites. 
+> **Online Polls and Voting.** No personal information will be asked or gathered without permission regarding these activities, when available, on Unit 5 Online and all other Unit 5 websites. 
 > 
 > **Email Mailing List.** Unit 5 maintains and operates an automated subscription service for important announcements to be sent by Unit 5 to registrants via email. This system is voluntary, and "opt-out" options are given in every email sent to registrants, as well as online. No personal information is gathered beyond email addresses, and Unit 5 does not disclose email addresses to third parties for any reason beyond those specifically detailed in this Privacy Policy document.
 > 
@@ -139,5 +139,7 @@ By using this Site, you signify your assent to the McLean County Unit 5 Privacy 
 
 If you have questions or concerns regarding this Web site's privacy statement and/or terms of use, you should contact us via email at: district@unit5.org. 
 
-Document Revised 7/11/2001.  Version 1.01   
+Document Revised 7/11/2001.  Version 1.01
+
+  
 
