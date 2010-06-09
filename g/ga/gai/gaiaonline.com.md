@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2009-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090418132806id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gaiaonline.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610011914id_/http%3A//www.gaiaonline.com/info/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gaia Online
 
@@ -46,6 +46,8 @@ You may, of course, decline to share your personally-identifiable information wi
 To protect your privacy and security, we take reasonable steps to verify your identity before granting you account access or making corrections. HOWEVER, You are responsible for maintaining the secrecy of your unique password and account information at all times. 
 
 ### Third-party Advertisers, Links to Other Sites:
+
+If you opt in to connect your Gaia account and data with Facebook (through the Facebook Connect feature) or with any other third party networking (or other) site, that data may become public through the other site. This Privacy Notice only applies to information collected through Gaia Online. When you access Facebook or other third party sites through links or features on Gaia Online, you do so at your own risk. These other sites are not under Gaia's control, and you acknowledge that Gaia is not responsible or liable for their privacy practices and/or policies. When linking to another site you should read the privacy policy posted on that site and make sure that you are comfortable with its privacy practices.
 
 Gaia allows other companies, called third-party ad servers or ad networks, to serve advertisements within Gaia Online. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements that appear within Gaia Online and they automatically receive your IP Address when this happens. Such third-party ad servers may also use other technologies (such as cookies, javascript, or web beacons) to measure the effectiveness of their advertisements and to personalize their advertising content. 
 
