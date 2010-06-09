@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2009-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090707235725id_/http%3A//cactusmedia.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchcactus.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609165613id_/http%3A//cactusmedia.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Cactus Media - The Leader In Performance Based Marketing!
 
