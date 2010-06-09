@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fillinn.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215210220id_/http%3A//buzzinn.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fillinn.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609020141id_/http%3A//fillinn.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Buzz Inn
+# Privacy Policy - Fill Inn
 
-**BuzzInn** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
+**FillInn** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site.
 
 **Third Party Advertising**  
 We use Google AdSense and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you.
@@ -14,13 +14,13 @@ In the course of serving advertisements to this site, our third-party advertiser
 We do not request any personal information or collect any information that personally identifies you or allows you to be personally contacted. Since we do not collect any personal information on this Web site, we do not share any personal information with any third parties nor do we use any personal information for any purposes.
 
 **External Links**  
-This site contains links to other sites. **BuzzInn** is not responsible for the privacy practices or the content of such Web sites.
+This site contains links to other sites. **FillInn** is not responsible for the privacy practices or the content of such Web sites.
 
 **Our Commitment To Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
 **The Information We Collect:**  
-This notice applies to all information collected or submitted on the **BuzzInn** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
+This notice applies to all information collected or submitted on the **FillInn** website. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are: Name Address, Email address, Phone number, Credit/Debit Card Information (etc.). On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient’s address. In this circumstance, the types of personal information collected are: Name, Address, Phone, Number (etc.)
 
 **The Way We Use Information:**  
 We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.  
