@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129120502id_/http%3A//projects.ajc.com/services/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accessatlanta.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609185035id_/http%3A//projects.ajc.com/services/policies/privacy) for the most accurate reproduction.*
 
 # AJC Policies - Privacy Policy ajc.com
 
