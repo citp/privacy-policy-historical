@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208105935id_/http%3A//www.journal-news.com/services/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the journal-news.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609112409id_/http%3A//www.journal-news.com/services/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Dayton, Ohio 45409
 
 937-225-2323 
 
-[rmarcano@coxohio.com](mailto:rmarcano@coxohio.com)
+[Ray.Marcano@cmgdigital.com](mailto:Ray.Marcano@cmgdigital.com)
 
 **User registration:** For information regarding user registration, please read our [frequently asked questions](https://www.journal-news.com/news/userreg/tc/q_faq.jsp) . You may also direct questions and comments to our customer service center: 
 
@@ -32,7 +32,7 @@ Phone: 1-877-267-0018
 
 E-mail: [ur@coxohio.com](mailto:ur@coxohio.com)
 
-**CHILDREN'S PRIVACY** ****
+**CHILDREN'S PRIVACY **
 
 Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. We won't knowingly allow anyone under 13 to register with our site or to provide any other personally identifying information. If you’re under 13, please do not provide us with any personally identifying information about yourself (such as your name, your email address or your phone number). 
 
