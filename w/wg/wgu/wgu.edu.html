@@ -1,670 +1,257 @@
-<!--The following is the downloaded HTML source of the wgu.edu privacy policy that was archived on 2008-12-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20081217112401id_/http%3A//www.wgu.edu/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the wgu.edu privacy policy that was archived on 2010-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609142053id_/http%3A//www.wgu.edu/privacy) for the most accurate reproduction.-->
 
-<html><head>
-	
-
-	
-
-		<title>online university - WGU - online colleges - online degrees</title>
-<meta name="verify-v1" content="9MeNoOndOjgY1QVmkvE3xurZf1yOksm+4y0Gf/EMMLU=">
-<meta name="keywords" content="online university online degree online degrees online college online colleges education online distance learning online bachelor degree online bachelors degree online business degree online teaching degree accredited online university">
-<meta name="description" content="Western Governors University is an accredited online university offering distance learning and adult education towards an online degree or certification.">
-<style>
-.WGU { FONT-SIZE : 1PT; COLOR : #000000;}
-</style>
-		<link href="./includes/styles.css" type="text/css" rel="stylesheet">
-		<script language="JavaScript">
-		<!--
-<!-- Menu Class Start -->
-
-var
-	menu_c_instance_list = new Array;
-function menu_c(x,y,width,height,text_class,inactive_class,active_class,onshow,onhide) {
-	this.instance_num                       = menu_c_instance_list.length;
-	menu_c_instance_list[this.instance_num] = this;
-
-	this.parent         = 0;
-	this.x              = (x ? x : 0);
-	this.y              = (y ? y : 0);
-	this.width          = (width  ? width  : 137);
-	this.height         = (height ? height : 17);
-	this.text_class     = text_class;
-	this.inactive_class = inactive_class;
-	this.active_class   = active_class;
-	this.onshow         = onshow;
-	this.onhide         = onhide;
-	this.item_list      = new Array;
-	this.hide_timeout   = 0;
-	this.div            = 0;
-
-	function object_top(obj) {
-		if (!obj) {
-			return 0;
-		}
-		return (obj.offsetTop ? obj.offsetTop : 0) + object_top(obj.offsetParent);
-	}
-	this.object_top = object_top;
-
-	function object_left(obj) {
-		if (!obj) {
-			return 0;
-		}
-		return (obj.offsetLeft ? obj.offsetLeft : 0) + object_left(obj.offsetParent);
-	}
-	this.object_left = object_left;
-
-	function setup() {
-		if (!document.getElementById) {
-			return;
-		}
-
-		this.div
-		document.write(''
-			+ '<div id="menu_' + this.instance_num + '"'
-			+ ' style="'
-			+	'position:absolute;'
-			+	'top:'    + this.y      + 'px;'
-			+	'left:'   + this.x      + 'px;'
-			+	'width:'  + this.width  + 'px;'
-			+	'visibility:hidden;"'
-			+ '></div>'
-		);
-		this.div = document.getElementById('menu_' + this.instance_num);
-		if (this.div) {
-			var
-				html = '';
-			html += ''
-				+ '<table border="0" cellpadding="0" cellspacing="0">'
-			;
-			for (var item_num = 0;item_num < this.item_list.length;item_num++) {
-				var
-					item = this.item_list[item_num],
-					div = 0;
-				html += ''
-					+ '<tr><td id="menu_' + this.instance_num + '_' + item_num + '"'
-					+ ' class="' + this.inactive_class + '"'
-					+ ' style="'
-					+	(item_num < (this.item_list.length - 1) ? 'border-bottom:none;' : '')
-					+	'width:'  + this.width  + 'px;'
-					+	'height:' + this.height + 'px;"'
-					+ " onmouseover='"
-					+	"var menu=menu_c_instance_list[" + this.instance_num + "];"
-					+	"menu.stop_hide_timeout();"
-					+	"menu.set_active(" + item_num + ");"
-					+ "'"
-					+ " onmousemove='"
-					+	"var menu=menu_c_instance_list[" + this.instance_num + "];"
-					+	"menu.stop_hide_timeout();"
-					+	"menu.set_active(" + item_num + ");"
-					+ "'"
-					+ " onmouseout='"
-					+	"var menu=menu_c_instance_list[" + this.instance_num + "];"
-					+	"menu.start_hide_timeout();"
-					+ "'"
-					+ (item.type == 'URL' ? " onclick='window.location.href=\"" + item.data + "\";'" : '')
-					+ ((item.type == 'MENU') && (item.extra_data) ? " onclick='window.location.href=\"" + item.extra_data + "\";'" : '')
-					+ '>'
-				;
-				if (item.type == 'URL') {
-					html += ''
-						+ '<a'
-						+ ' href="' + item.data + '"'
-						+ ' title="Click for ' + item.text + '"'
-						+ ' class="' + this.text_class + '"'
-						+ '>' + item.text + '</a>'
-					;
-				} else if (item.type == 'MENU') {
-					html += ''
-						+ '<table border="0" cellpadding="0" cellspacing="0" width="100%">'
-						+ '<tr>'
-						+	'<td class="' + this.text_class + '" width="100%">'
-						+	(item.extra_data ? '<a href="' + item.extra_data + '" title="Click for ' + item.text + '" class="' + this.text_class + '">' : '')
-						+		item.text
-						+	(item.extra_data ? '</a>' : '')
-						+	'</td>'
-						+	'<td><img src="./images/menu_arrow_5x9.gif" alt="" width="5" height="9"></td>'
-						+ '</tr></table>'
-					;
-				}
-				html += '</div>';
-
-				if (item.type == 'MENU') {
-					var
-						menu = item.data;
-					menu.x              = (!menu.x              ? (this.x + this.width - 1)           : menu.x);
-					menu.y              = (!menu.y              ? (this.y + (item_num * this.height)) : menu.y);
-					menu.width          = (!menu.width          ? this.width                          : menu.width);
-					menu.height         = (!menu.height         ? this.height                         : menu.height);
-					menu.text_class     = (!menu.text_class     ? this.text_class                     : menu.text_class);
-					menu.inactive_class = (!menu.inactive_class ? this.inactive_class                 : menu.inactive_class);
-					menu.active_class   = (!menu.active_class   ? this.active_class                   : menu.active_class);
-
-					menu.setup();
-				}
-			}
-			html += ''
-				+ '</table>'
-			;
-
-			this.div.innerHTML = html;
-		}
-	}
-	this.setup = setup;
-
-	function add(type,text,data,extra_data) {
-		var
-			item_num = this.item_list.length;
-		this.item_list[item_num] = new Object;
-		this.item_list[item_num].type       = type.toUpperCase();
-		this.item_list[item_num].text       = text;
-		this.item_list[item_num].data       = data;
-		this.item_list[item_num].extra_data = extra_data;
-
-		if (this.item_list[item_num].type == 'MENU') {
-			this.item_list[item_num].data.parent = this;
-		}
-	}
-	this.add = add;
-
-	function show() {
-		if (this.onshow) {
-			this.onshow();
-		}
-
-		if (!document.getElementById) {
-			return;
-		}
-
-		this.set_active(-1);
-
-		if (this.div) {
-			this.div.style.visibility = 'visible';
-		}
-	}
-	this.show = show;
-
-	function hide() {
-		if (this.onhide) {
-			this.onhide();
-		}
-
-		if (!document.getElementById) {
-			return;
-		}
-
-		if (this.div) {
-			this.div.style.visibility = 'hidden';
-		}
-		for (var item_num = 0;item_num < this.item_list.length;item_num++) {
-			var
-				item = this.item_list[item_num];
-			if (item.type == 'MENU') {
-				item.data.hide();
-			}
-		}
-	}
-	this.hide = hide;
-
-	function start_hide_timeout() {
-		this.stop_hide_timeout();
-		this.hide_timeout = setTimeout("menu_c_instance_list[" + this.instance_num + "].hide()",50);
-
-		if (this.parent) {
-			this.parent.start_hide_timeout();
-		}
-	}
-	this.start_hide_timeout = start_hide_timeout;
-
-	function stop_hide_timeout() {
-		if (this.hide_timeout) {
-			clearTimeout(this.hide_timeout);
-			this.hide_timeout = 0;
-		}
-
-		if (this.parent) {
-			this.parent.stop_hide_timeout();
-		}
-	}
-	this.stop_hide_timeout = stop_hide_timeout;
-
-	function set_active(item_num) {
-		if (!document.getElementById) {
-			return;
-		}
-
-		var
-			div  = document.getElementById('menu_' + this.instance_num + '_' + item_num);
-		if (div) {
-			div.className = this.active_class;
-			if (this.item_list[item_num].type == 'MENU') {
-				this.item_list[item_num].data.show();
-			}
-		}
-
-		for (var other_item_num = 0;other_item_num < this.item_list.length;other_item_num++) {
-			if (other_item_num != item_num) {
-				div = document.getElementById('menu_' + this.instance_num + '_' + other_item_num);
-				if (div) {
-					div.className = this.inactive_class;
-					if (this.item_list[other_item_num].type == 'MENU') {
-						this.item_list[other_item_num].data.hide();
-					}
-				}
-			}
-		}
-	}
-	this.set_active = set_active;
-}
-
-<!-- Menu Class End -->
-			var
-				menu_degrees_header_inactive = new Image,menu_degrees_header_active = new Image,
-				menu_admissions_header_inactive = new Image,menu_admissions_header_active = new Image,
-				menu_tuition_header_inactive = new Image,menu_tuition_header_active = new Image,
-				menu_about_header_inactive = new Image,menu_about_header_active = new Image;
-			menu_degrees_header_inactive.src = './images/menu_degrees_inactive_169x20.gif';
-			menu_degrees_header_active.src   = './images/menu_degrees_active_169x20.gif';
-			function menu_degrees_onshow() {
-				if (menu_admissions) { menu_admissions.hide(); }
-				if (menu_tuition)    { menu_tuition.hide(); }
-				if (menu_about)      { menu_about.hide(); }
-				
-				if (document.images['menu_degrees_header']) {
-					document.images['menu_degrees_header'].src = menu_degrees_header_active.src;
-				}
-				
-			}
-			function menu_degrees_onhide() {
-				
-				if (document.images['menu_degrees_header']) {
-					document.images['menu_degrees_header'].src = menu_degrees_header_inactive.src;
-				}
-				
-			}
-			menu_admissions_header_inactive.src = './images/menu_admissions_inactive_108x20.gif';
-			menu_admissions_header_active.src   = './images/menu_admissions_active_108x20.gif';
-			function menu_admissions_onshow() {
-				if (menu_degrees) { menu_degrees.hide(); }
-				if (menu_tuition) { menu_tuition.hide(); }
-				if (menu_about)   { menu_about.hide(); }
-				
-				if (document.images['menu_admissions_header']) {
-					document.images['menu_admissions_header'].src = menu_admissions_header_active.src;
-				}
-				
-			}
-			function menu_admissions_onhide() {
-				
-				if (document.images['menu_admissions_header']) {
-					document.images['menu_admissions_header'].src = menu_admissions_header_inactive.src;
-				}
-				
-			}
-			menu_tuition_header_inactive.src = './images/menu_tuition_inactive_187x20.gif';
-			menu_tuition_header_active.src   = './images/menu_tuition_active_187x20.gif';
-			function menu_tuition_onshow() {
-				if (menu_degrees)    { menu_degrees.hide(); }
-				if (menu_admissions) { menu_admissions.hide(); }
-				if (menu_about)      { menu_about.hide(); }
-				
-				if (document.images['menu_tuition_header']) {
-					document.images['menu_tuition_header'].src = menu_tuition_header_active.src;
-				}
-				
-			}
-			function menu_tuition_onhide() {
-				
-				if (document.images['menu_tuition_header']) {
-					document.images['menu_tuition_header'].src = menu_tuition_header_inactive.src;
-				}
-				
-			}
-			menu_about_header_inactive.src = './images/menu_about_inactive_141x20.gif';
-			menu_about_header_active.src   = './images/menu_about_active_141x20.gif';
-			function menu_about_onshow() {
-				if (menu_degrees)    { menu_degrees.hide(); }
-				if (menu_admissions) { menu_admissions.hide(); }
-				if (menu_tuition)    { menu_tuition.hide(); }
-				
-				if (document.images['menu_about_header']) {
-					document.images['menu_about_header'].src = menu_about_header_active.src;
-				}
-				
-			}
-			function menu_about_onhide() {
-				
-				if (document.images['menu_about_header']) {
-					document.images['menu_about_header'].src = menu_about_header_inactive.src;
-				}
-				
-			}
-
-			var
-				menu_degrees    = new menu_c( 20,119,151,17,'menu','menuinactive','menudegreesactive',menu_degrees_onshow,menu_degrees_onhide),
-				menu_admissions = new menu_c(180,119,139,17,'menu','menuinactive','menudegreesactive',menu_admissions_onshow,menu_admissions_onhide),
-				menu_tuition    = new menu_c(288,119,188,17,'menu','menuinactive','menudegreesactive',menu_tuition_onshow,menu_tuition_onhide),
-				menu_about      = new menu_c(475,119,132,17,'menu','menuinactive','menudegreesactive',menu_about_onshow,menu_about_onhide);
-			// Degrees
-			var menu_tc = new menu_c();
-				var menu_tc = new menu_c();
-				menu_tc.add('URL','Licensure Programs','./education/teacher_certification.asp');
-				menu_tc.add('URL','Graduate Programs','./education/masters_degree.asp');
-			//	menu_tc.add('URL','Associate of Arts','./education/associate_of_arts_degree.asp');
-			menu_degrees.add('MENU','WGU Teachers College',menu_tc,'./education/landing.asp');
-			//	var menu_biz = new menu_c();
-			//	menu_biz.add('URL','Bachelor\'s Degrees','./business/programs.asp');
-			//	menu_biz.add('URL','Associate\'s Degrees','./business/business_associate_degree.asp');
-			menu_degrees.add('URL','Business','./business/programs.asp');
-			//	var menu_it = new menu_c();
-			//	menu_it.add('URL','Bachelor\'s Degrees','./online_it_degrees/programs.asp');
-			//	menu_it.add('URL','Associate\'s Degrees','./online_it_degrees/information_technology_associate_degree.asp');
-			menu_degrees.add('URL','Information Technology','./online_it_degrees/programs.asp');
-			menu_degrees.add('URL','Health Professions','./online_health_professions_degrees/programs.asp');
-			menu_degrees.setup();
-
-			// Admission
-			menu_admissions.add('URL','The Student Experience','./admissions/student_experience.asp');
-			menu_admissions.add('URL','Academic Experience','./admissions/academic_experience.asp');
-			menu_admissions.add('URL','Admission requirements','./admissions/requirements.asp');
-			menu_admissions.add('URL','Apply for admission','https://www.wgu.edu/wgu/app/');
-			menu_admissions.add('URL','Transferring','./admissions/transferring.asp');
-			menu_admissions.setup();
-
-			// Tuition
-			menu_tuition.add('URL','Tuition & Fees','./tuition_financial_aid/tuition.asp');
-			menu_tuition.add('URL','Financial Aid Overview','./tuition_financial_aid/financial_aid.asp');
-			menu_tuition.add('URL','Apply for Financial Aid','./tuition_financial_aid/financial_aid_application.asp');
-			menu_tuition.add('URL','Scholarships','./tuition_financial_aid/scholarships.asp');
-			menu_tuition.add('URL','VA & Military','./tuition_financial_aid/veterans.asp');
-			menu_tuition.add('URL','Corporate Reimbursement','./tuition_financial_aid/corporate.asp');
-			menu_tuition.setup();
-
-			// About
-			menu_about.add('URL','The WGU Advantage','./about_WGU/WGU_advantage.asp');
-			menu_about.add('URL','Accreditation','./about_WGU/accreditation.asp');
-			menu_about.add('URL','Who We Are','./about_WGU/who_we_are.asp');
-			menu_about.add('URL','WGU Newsroom','./about_WGU/wgu_news.asp');
-			menu_about.add('URL','Library & Bookstore','./about_WGU/library_bookstore.asp');
-			menu_about.add('URL','Students & Alumni','./about_WGU/students_alumni.asp');
-			menu_about.add('URL','Employment at WGU','./about_WGU/employment.asp');
-			menu_about.setup();
-
-			function popup(url,name,width,height,scrollbars) {
-				window.open(url,name,"titlebar=no,menubar=no,toolbar=no,scrollbars=" + (scrollbars ? "yes" : "no") + ",status=no,resizable=yes,location=no,width=" + width + ",height=" + height + ",top=16,left=16");
-			}
-		//-->
-		</script></head><body bgcolor="#FEF7E3" leftmargin="0" topmargin="0" rightmargin="0" marginwidth="0" marginheight="0" onload="page_fix_height()"><div id="menu_0" style="position:absolute;top:119px;left:20px;width:151px;visibility:hidden;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td id="menu_0_0" class="menuinactive" style="border-bottom:none;width:151px;height:17px;" onmouseover="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(0);" onmousemove="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(0);" onmouseout="var menu=menu_c_instance_list[0];menu.start_hide_timeout();" onclick="window.location.href=&quot;./education/landing.asp&quot;;"><table border="0" cellpadding="0" cellspacing="0" width="100%"><tbody><tr><td class="menu" width="100%"><a href="./education/landing.asp" title="Click for WGU Teachers College" class="menu">WGU Teachers College</a></td><td><img src="./images/menu_arrow_5x9.gif" alt="" width="5" height="9"></td></tr></tbody></table></td></tr><tr><td id="menu_0_1" class="menuinactive" style="border-bottom:none;width:151px;height:17px;" onmouseover="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(1);" onmousemove="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(1);" onmouseout="var menu=menu_c_instance_list[0];menu.start_hide_timeout();" onclick="window.location.href=&quot;./business/programs.asp&quot;;"><a href="./business/programs.asp" title="Click for Business" class="menu">Business</a></td></tr><tr><td id="menu_0_2" class="menuinactive" style="border-bottom:none;width:151px;height:17px;" onmouseover="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(2);" onmousemove="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(2);" onmouseout="var menu=menu_c_instance_list[0];menu.start_hide_timeout();" onclick="window.location.href=&quot;./online_it_degrees/programs.asp&quot;;"><a href="./online_it_degrees/programs.asp" title="Click for Information Technology" class="menu">Information Technology</a></td></tr><tr><td id="menu_0_3" class="menuinactive" style="width:151px;height:17px;" onmouseover="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(3);" onmousemove="var menu=menu_c_instance_list[0];menu.stop_hide_timeout();menu.set_active(3);" onmouseout="var menu=menu_c_instance_list[0];menu.start_hide_timeout();" onclick="window.location.href=&quot;./online_health_professions_degrees/programs.asp&quot;;"><a href="./online_health_professions_degrees/programs.asp" title="Click for Health Professions" class="menu">Health Professions</a></td></tr></tbody></table></div><div id="menu_5" style="position:absolute;top:119px;left:170px;width:137px;visibility:hidden;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td id="menu_5_0" class="menuinactive" style="border-bottom:none;width:137px;height:17px;" onmouseover="var menu=menu_c_instance_list[5];menu.stop_hide_timeout();menu.set_active(0);" onmousemove="var menu=menu_c_instance_list[5];menu.stop_hide_timeout();menu.set_active(0);" onmouseout="var menu=menu_c_instance_list[5];menu.start_hide_timeout();" onclick="window.location.href=&quot;./education/teacher_certification.asp&quot;;"><a href="./education/teacher_certification.asp" title="Click for Licensure Programs" class="menu">Licensure Programs</a></td></tr><tr><td id="menu_5_1" class="menuinactive" style="width:137px;height:17px;" onmouseover="var menu=menu_c_instance_list[5];menu.stop_hide_timeout();menu.set_active(1);" onmousemove="var menu=menu_c_instance_list[5];menu.stop_hide_timeout();menu.set_active(1);" onmouseout="var menu=menu_c_instance_list[5];menu.start_hide_timeout();" onclick="window.location.href=&quot;./education/masters_degree.asp&quot;;"><a href="./education/masters_degree.asp" title="Click for Graduate Programs" class="menu">Graduate Programs</a></td></tr></tbody></table></div><div id="menu_1" style="position:absolute;top:119px;left:180px;width:139px;visibility:hidden;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td id="menu_1_0" class="menuinactive" style="border-bottom:none;width:139px;height:17px;" onmouseover="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(0);" onmousemove="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(0);" onmouseout="var menu=menu_c_instance_list[1];menu.start_hide_timeout();" onclick="window.location.href=&quot;./admissions/student_experience.asp&quot;;"><a href="./admissions/student_experience.asp" title="Click for The Student Experience" class="menu">The Student Experience</a></td></tr><tr><td id="menu_1_1" class="menuinactive" style="border-bottom:none;width:139px;height:17px;" onmouseover="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(1);" onmousemove="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(1);" onmouseout="var menu=menu_c_instance_list[1];menu.start_hide_timeout();" onclick="window.location.href=&quot;./admissions/academic_experience.asp&quot;;"><a href="./admissions/academic_experience.asp" title="Click for Academic Experience" class="menu">Academic Experience</a></td></tr><tr><td id="menu_1_2" class="menuinactive" style="border-bottom:none;width:139px;height:17px;" onmouseover="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(2);" onmousemove="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(2);" onmouseout="var menu=menu_c_instance_list[1];menu.start_hide_timeout();" onclick="window.location.href=&quot;./admissions/requirements.asp&quot;;"><a href="./admissions/requirements.asp" title="Click for Admission requirements" class="menu">Admission requirements</a></td></tr><tr><td id="menu_1_3" class="menuinactive" style="border-bottom:none;width:139px;height:17px;" onmouseover="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(3);" onmousemove="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(3);" onmouseout="var menu=menu_c_instance_list[1];menu.start_hide_timeout();" onclick="window.location.href=&quot;https://www.wgu.edu/wgu/app/&quot;;"><a href="https://www.wgu.edu/wgu/app/" title="Click for Apply for admission" class="menu">Apply for admission</a></td></tr><tr><td id="menu_1_4" class="menuinactive" style="width:139px;height:17px;" onmouseover="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(4);" onmousemove="var menu=menu_c_instance_list[1];menu.stop_hide_timeout();menu.set_active(4);" onmouseout="var menu=menu_c_instance_list[1];menu.start_hide_timeout();" onclick="window.location.href=&quot;./admissions/transferring.asp&quot;;"><a href="./admissions/transferring.asp" title="Click for Transferring" class="menu">Transferring</a></td></tr></tbody></table></div><div id="menu_2" style="position:absolute;top:119px;left:288px;width:188px;visibility:hidden;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td id="menu_2_0" class="menuinactive" style="border-bottom:none;width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(0);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(0);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/tuition.asp&quot;;"><a href="./tuition_financial_aid/tuition.asp" title="Click for Tuition &amp; Fees" class="menu">Tuition &amp; Fees</a></td></tr><tr><td id="menu_2_1" class="menuinactive" style="border-bottom:none;width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(1);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(1);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/financial_aid.asp&quot;;"><a href="./tuition_financial_aid/financial_aid.asp" title="Click for Financial Aid Overview" class="menu">Financial Aid Overview</a></td></tr><tr><td id="menu_2_2" class="menuinactive" style="border-bottom:none;width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(2);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(2);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/financial_aid_application.asp&quot;;"><a href="./tuition_financial_aid/financial_aid_application.asp" title="Click for Apply for Financial Aid" class="menu">Apply for Financial Aid</a></td></tr><tr><td id="menu_2_3" class="menuinactive" style="border-bottom:none;width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(3);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(3);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/scholarships.asp&quot;;"><a href="./tuition_financial_aid/scholarships.asp" title="Click for Scholarships" class="menu">Scholarships</a></td></tr><tr><td id="menu_2_4" class="menuinactive" style="border-bottom:none;width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(4);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(4);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/veterans.asp&quot;;"><a href="./tuition_financial_aid/veterans.asp" title="Click for VA &amp; Military" class="menu">VA &amp; Military</a></td></tr><tr><td id="menu_2_5" class="menuinactive" style="width:188px;height:17px;" onmouseover="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(5);" onmousemove="var menu=menu_c_instance_list[2];menu.stop_hide_timeout();menu.set_active(5);" onmouseout="var menu=menu_c_instance_list[2];menu.start_hide_timeout();" onclick="window.location.href=&quot;./tuition_financial_aid/corporate.asp&quot;;"><a href="./tuition_financial_aid/corporate.asp" title="Click for Corporate Reimbursement" class="menu">Corporate Reimbursement</a></td></tr></tbody></table></div><div id="menu_3" style="position:absolute;top:119px;left:475px;width:132px;visibility:hidden;"><table border="0" cellpadding="0" cellspacing="0"><tbody><tr><td id="menu_3_0" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(0);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(0);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/WGU_advantage.asp&quot;;"><a href="./about_WGU/WGU_advantage.asp" title="Click for The WGU Advantage" class="menu">The WGU Advantage</a></td></tr><tr><td id="menu_3_1" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(1);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(1);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/accreditation.asp&quot;;"><a href="./about_WGU/accreditation.asp" title="Click for Accreditation" class="menu">Accreditation</a></td></tr><tr><td id="menu_3_2" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(2);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(2);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/who_we_are.asp&quot;;"><a href="./about_WGU/who_we_are.asp" title="Click for Who We Are" class="menu">Who We Are</a></td></tr><tr><td id="menu_3_3" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(3);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(3);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/wgu_news.asp&quot;;"><a href="./about_WGU/wgu_news.asp" title="Click for WGU Newsroom" class="menu">WGU Newsroom</a></td></tr><tr><td id="menu_3_4" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(4);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(4);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/library_bookstore.asp&quot;;"><a href="./about_WGU/library_bookstore.asp" title="Click for Library &amp; Bookstore" class="menu">Library &amp; Bookstore</a></td></tr><tr><td id="menu_3_5" class="menuinactive" style="border-bottom:none;width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(5);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(5);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/students_alumni.asp&quot;;"><a href="./about_WGU/students_alumni.asp" title="Click for Students &amp; Alumni" class="menu">Students &amp; Alumni</a></td></tr><tr><td id="menu_3_6" class="menuinactive" style="width:132px;height:17px;" onmouseover="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(6);" onmousemove="var menu=menu_c_instance_list[3];menu.stop_hide_timeout();menu.set_active(6);" onmouseout="var menu=menu_c_instance_list[3];menu.start_hide_timeout();" onclick="window.location.href=&quot;./about_WGU/employment.asp&quot;;"><a href="./about_WGU/employment.asp" title="Click for Employment at WGU" class="menu">Employment at WGU</a></td></tr></tbody></table></div>
-	
-	
-			
-<script language="JavaScript">
-<!--
-	menu_degrees.setup();
-	menu_admissions.setup();
-	menu_tuition.setup();
-	menu_about.setup();
-//-->
-</script><div id="menu_0" style="position:absolute;top:119px;left:20px;width:151px;visibility:hidden;"></div><div id="menu_5" style="position:absolute;top:119px;left:170px;width:137px;visibility:hidden;"></div><div id="menu_1" style="position:absolute;top:119px;left:180px;width:139px;visibility:hidden;"></div><div id="menu_2" style="position:absolute;top:119px;left:288px;width:188px;visibility:hidden;"></div><div id="menu_3" style="position:absolute;top:119px;left:475px;width:132px;visibility:hidden;"></div>
-
-<div id="WGU">
-<a href="http://www.wgu.edu/" target="_top"><img src="http://www.wgu.edu/images/header_606x90.gif" height="1" width="1" border="0" align="left" alt="Western Governors University header image"></a>
-
-
-
-<font class="WGU">
-</font>
-</div>
-
-<table border="0" cellpadding="10" cellspacing="0">
-	<tbody><tr>
-		<td>
-<table id="page" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF" width="780">
-	<tbody><tr>
-		<td valign="top" colspan="5" rowspan="2"><a href="./index.asp"><img src="./images/header_606x90.gif" width="606" height="90" border="0" alt="Western Governors University"></a></td>
-		<td colspan="2" bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="2" alt=""></td>
-		<td bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="2" alt=""></td>
-		
-		   <td align="right" colspan="2" rowspan="3" background="./images/header_back_2x110.gif"><a href="./wgu/inquiry_form.asp"><img src="./images/header_right_139x109.gif" width="139" height="109" border="0" alt="Click for More Info or call 1-866-225-5948"></a></td>
-				
-	</tr>
-	<tr><td colspan="3" bgcolor="#EEDBA4"><img src="./images/trans_1x1.gif" width="1" height="88" alt=""></td></tr>
-
-	<tr>
-		<td rowspan="2" bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td>
-		<td rowspan="2"><a href="./education/overview.asp" onmouseover="menu_degrees.show();return false;"><img name="menu_degrees_header" src="./images/menu_degrees_inactive_169x20.gif" width="169" height="20" border="0" alt="Click for Degrees &amp; Programs"></a></td>
-		<td rowspan="2"><a href="./admissions/overview.asp" onmouseover="menu_admissions.show();return false;"><img name="menu_admissions_header" src="./images/menu_admissions_inactive_108x20.gif" width="108" height="20" border="0" alt="Click for Admissions"></a></td>
-		<td rowspan="2"><a href="./tuition_financial_aid/overview.asp" onmouseover="menu_tuition.show();return false;"><img name="menu_tuition_header" src="./images/menu_tuition_inactive_187x20.gif" width="187" height="20" border="0" alt="Click for Tuition &amp; Financial Aid"></a></td>
-		<td rowspan="2"><a href="./about_WGU/overview.asp" onmouseover="menu_about.show();return false;"><img name="menu_about_header" src="./images/menu_about_inactive_141x20.gif" width="141" height="20" border="0" alt="Click to know more about Western Governors University"></a></td>
-		<td colspan="3" bgcolor="#EEDBA4"><img src="./images/trans_1x1.gif" width="1" height="19" alt=""></td>
-	</tr>
-	<tr><td colspan="4" bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td></tr>
-	<tr height="19">
-		<td rowspan="2" bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td>
-		<td valign="top" colspan="4" rowspan="2">
-<!-- Body Start -->
-
-<table border="0" cellpadding="0" cellspacing="0" height="100%">
-	<tbody><tr><td><img src="./images/trans_1x1.gif" width="24" height="5" alt=""></td></tr>
-	<tr>
-		<td rowspan="3"><img src="./images/trans_1x1.gif" width="24" height="1" alt=""></td>
-		<td class="footerinactive"><a href="./" class="footerinactive">Home</a> &gt; <span class="footeractive">Privacy Policy</span></td>
-		<td><img src="./images/trans_1x1.gif" width="10" height="1" alt=""></td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="20" alt=""></td></tr>
-	<tr>
-		<td valign="top" width="571" height="100%">
-<!-- Sub-Body Start -->
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%" height="750">
-	<tbody><tr>
-		<td class="black11" valign="top">
-
-<font class="blue12bd">About Your Privacy</font><br><hr color="#000066" size="1">
-<p>
-Western Governors University is committed to ensuring your privacy as a visitor to our site and as a student in our university. The information you share with us through our forms will only be used for purposes specified on the form and, in some cases, to contact you with news about WGU, its course and program offerings, services, and special events. WGU will store the information you provide only as long as is necessary.
-</p><p>
-Students can modify their personal information each time they enroll in a class or apply to a WGU degree program. They may also call WGU's Student Services Center (877-435-7948) to request changes to personal information. 
-</p><p>
-WGU uses passwords to protect the privacy of students who use personalized areas of its site. The highest level of security is used for storing information (SSL encryption). WGU staff monitors the site for technical reliability. 
-</p><p>
-WGU provides its education providers and partners with complete enrollment information for students who enroll in their classes and with information in aggregate form about traffic to the WGU Web site. WGU's education providers and partners are obligated through their agreements with WGU to maintain the privacy of WGU students. 
-Student directory information may be shared with outside institutions and corporations. 
-</p><p>
-Students who do not wish to be listed in the student directory or to be included on WGU mailing lists may send their request via e-mail to <a href="mailto:unsubscribe@wgu.edu" class="link"><u>unsubscribe@wgu.edu</u></a>. 
-</p><p>
-WGU complies with the protections established under the Family Education Rights and Privacy Act of 1974 (FERPA). For details about WGU's policy on the use of student information and the procedures WGU has established in accordance with FERPA, please see the Student Handbook. 
-		</p></td>
-	</tr>
-</tbody></table>
-
-<!-- Sub-Body End -->
-		</td>
-	</tr>
-        <tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-</tbody></table>
-
-<!-- Body End -->
-		</td>
-		<td colspan="2"><img src="./images/main_corner_5x19.gif" width="5" height="19" alt=""></td>
-		<td bgcolor="#336699"><img src="./images/trans_1x1.gif" width="30" height="1" alt="">
-		</td><td align="right" bgcolor="#336699"><a href="https://www.wgu.edu/wgu/app/"><img src="./images/apply_138x19.gif" width="138" height="19" border="0" alt="Click to Apply Today"></a></td>
-		<td rowspan="3" bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td height="700"><img name="page_height" src="./images/trans_1x1.gif" width="4" height="719" alt=""></td>
-		<td bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td>
-		<td valign="top" colspan="2" rowspan="2" bgcolor="#CAD6E6">
-<!-- Side Start -->
-
-<table border="0" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-		<td><img src="./images/trans_1x1.gif" width="10" height="11" alt=""></td>
-		<td></td>
-		<td><img src="./images/trans_1x1.gif" width="10" height="1" alt=""></td>
-	</tr>
-	<tr>
-		<td></td>
-		<td class="blue11">
-			<table cellpadding="4" cellspacing="0" width="100%" id="Table1">
-				<tbody><tr><td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td><td valign="top" colspan="2" class="blue11bd"><a href="./about_WGU/accreditation_pop.asp" onclick="window.open(&quot;./about_WGU/accreditation_pop.asp&quot;,&quot;accreditation&quot;,&quot;width=638,height=600,scrollbars=yes&quot;);return false;" class="blue11bd">Accreditation</a></td></tr>
-				<tr><td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td><td valign="top" colspan="2" class="blue11bd"><a href="./tuition_financial_aid/financial_aid.asp" class="blue11bd">Financial Aid</a></td></tr>
-				<tr><td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td><td valign="top" colspan="2" class="blue11bd"><a href="./admissions/quiz.asp" onclick="window.open(&quot;./admissions/quiz.asp&quot;,&quot;quiz&quot;,&quot;width=638,height=600,scrollbars=yes&quot;);return false;" class="blue11bd">Is online study for you?</a></td></tr>
-				<tr><td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td><td valign="top" colspan="2" class="blue11bd"><a href="./about_WGU/student_success_data.asp" class="blue11bd">Student Success and Performance Data</a></td></tr>
-				<tr><td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td><td valign="top" colspan="2" class="blue11bd">
-				
-				<a href="./admissions/student_experience.asp" class="blue11bd">WGU Student Experience</a>
-				
-	
-		<!-- kara's new link -->
-			
-		<!-- end kara's new link-->
-		
-						</td></tr>
-
-	<!-- start new link-->	
-			
-				
-<!-- end new link-->	
-				
-				<tr>
-					<td valign="top" class="blue11"><img src="./images/icon_sidebar.gif" border="0" alt=""></td>
-					<td valign="top" class="blue11bd"><a href="./wgu/videos.asp" onclick="popup(&quot;./wgu/videos_all.asp&quot;,&quot;press&quot;,640,520,true);return false;" class="blue11bd">See videos of past graduation ceremonies</a></td>
-					<td valign="top" class="blue11bd" style="padding-left:5px;"><a href="./wgu/videos.asp" onclick="popup(&quot;./wgu/videos.asp&quot;,&quot;press&quot;,640,520,true);return false;" class="blue11"><img src="./images/graduation_tn_50x57.gif" width="50" height="57" border="0" alt="Graduation Video Clip"></a></td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-	<tr><td align="center" colspan="3"><img src="./images/bar_tan_122x2.gif" width="122" height="2" alt=""></td></tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="5" alt=""></td></tr>
-	<tr>
-		<td></td>
-		<td class="blue10">
-<font class="blue11bd">"Competency-based…"</font><br>
-"I like the idea of a competency-based program. In some areas I already had expertise and skills so I could take an independent study class and build the portfolio and take the exams. In other areas I needed more instruction."
-		</td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="2" alt=""></td></tr>
-	<tr><td></td><td align="right" class="blue10">—Gretchen Burr,  WGU graduate, high school teacher</td></tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-
-	<tr>
-		<td></td>
-		<td class="blue10">
-<font class="blue11bd">"Flexibility I needed…"</font><br>
-"I have been able to work at home during the time frame that fit my schedule. Studying on weekends, nights, early mornings, and even traveling times provided the flexibility I needed."
-		</td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="2" alt=""></td></tr>
-	<tr><td></td><td align="right" class="blue10">—Judy Beesley,  WGU student</td></tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-
-	<tr>
-		<td></td>
-		<td class="blue10">
-<font class="blue11bd">"Very flexible…"</font><br>
-"What a great opportunity this kind of program is for working adults. It was very flexible and fits into most any schedule. I worked with my mentor and studied independently or with co-workers who were also WGU students."
-		</td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="2" alt=""></td></tr>
-	<tr><td></td><td align="right" class="blue10">—Cathy Waters,  HR Administrator, PacifiCorp</td></tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-	<tr>
-		<td></td>
-		<td><a href="./wgu/testimonials_pop.asp?group=benefit" onclick="popup(&quot;./wgu/testimonials_pop.asp?group=benefit&quot;,&quot;press&quot;,640,640,true);return false;" class="link" title="Click for more testimonials"><u>more testimonials &gt;</u></a></td>
-	</tr>
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="25" alt=""></td></tr>
-	 
-	   <tr><td align="center" colspan="2" style="padding-left:4px"><a href="./wgu/inquiry_form.asp"><img src="./images/more_info_side_120x20.gif" width="120" height="20" border="0" alt="More Info"></a></td></tr>
-		
-	<tr><td><img src="./images/trans_1x1.gif" width="1" height="10" alt=""></td></tr>
-</tbody></table>
-
-<!-- Side End -->
-		</td>
-	</tr>
-	<tr>
-
-		<td><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td>
-
-	</tr>
-	<tr>
-		<td colspan="7" bgcolor="#000066"><img src="./images/footer_corner_left_11x16.gif" width="11" height="16" alt=""></td>
-		<td colspan="5">
-			<table border="0" cellpadding="0" cellspacing="0" width="100%">
-				<tbody><tr>
-					<td bgcolor="#CAD6E6" width="100%"><img src="./images/trans_1x1.gif" width="1" height="15" alt=""></td>
-					<td rowspan="2"><img src="./images/footer_corner_right_11x16.gif" width="11" height="16" alt=""></td>
-				</tr>
-				<tr><td bgcolor="#000066"><img src="./images/trans_1x1.gif" width="1" height="1" alt=""></td></tr>
-			</tbody></table>
-		</td>
-	</tr>
-	<tr height="17" bgcolor="#FEF7E3">
-		<td align="center" colspan="10">
-			<table border="0" cellpadding="0" cellspacing="0">
-		
-				<tbody><tr>
-					<td class="footerinactive">© 1998-2008 Western Governors University. All rights reserved.</td>
-					<td class="footerinactive">&nbsp;&nbsp;&nbsp;<a href="./site_map.asp" class="footerinactive" title="Click for Site Map" onmouseover="this.className=&quot;footeractive&quot;;" onmouseout="this.className=&quot;footerinactive&quot;;">Site Map</a>&nbsp;&nbsp;&nbsp;</td>
-					<td class="footerinactive">|</td>
-					<td class="footerinactive">&nbsp;&nbsp;&nbsp;<a href="./privacy.asp" class="footerinactive" title="Click for Privacy Policy" onmouseover="this.className=&quot;footeractive&quot;;" onmouseout="this.className=&quot;footerinactive&quot;;">Privacy Policy</a>&nbsp;&nbsp;&nbsp;</td>
-					<td class="footerinactive">|</td>
-					<td class="footerinactive">&nbsp;&nbsp;&nbsp;<a href="./contact_us.asp" class="footerinactive" title="Click to Contact Western Governors University" onmouseover="this.className=&quot;footeractive&quot;;" onmouseout="this.className=&quot;footerinactive&quot;;">Contact WGU</a>&nbsp;&nbsp;&nbsp;</td>
-					<td class="footerinactive">|</td>
-					<td class="footerinactive">&nbsp;&nbsp;&nbsp;<a href="http://my.wgu.edu/cp/home/loginf" class="footerinactive" title="Click login to My Western Governors University" onmouseover="this.className=&quot;footeractive&quot;;" onmouseout="this.className=&quot;footerinactive&quot;;">MyWGU Login</a>&nbsp;&nbsp;&nbsp;</td>
-				</tr>	
-			</tbody></table>
-		</td>
-	</tr>
-	
-	
-</tbody></table>
-		</td>
-	</tr>
-</tbody></table>
-
-	
-<div id="WGU">
-<a href="http://www.wgu.edu/" target="_top"><img src="http://www.wgu.edu/images/header_606x90.gif" height="1" width="1" border="0" align="left" alt="Western Governors University header image"></a>
-
-
-<font class="WGU">
-</font>
-</div>
-
-<script language="JavaScript">
-<!--
-	function page_fix_height() {
-		var
-			page        = document.getElementById("page"),
-			page_height = document.images['page_height'];
-		if ((page) && (page_height)) {
-			page_height.height = (page.offsetHeight - 220);
-		}
-	}
-		
-//-->
-</script>
-
-<!-- Prospector Applet Code -->
-<script language="JavaScript" src="http://server1.prospector.com/groopz2/Resources/70/hidden.js"></script>
-<!-- End Applet Code -->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
+<title>WGU's Privacy Policy </title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="Privacy Policy for Western Governors University.">
+<meta name="keywords" content="online university,online unversities,wgu,online education">
+<meta name="robots" content="index,follow">
+<meta name="DC.title" content="WGU's Privacy Policy">
+<link rel="shortcut icon" href="/sites/all/themes/wgu/favicon.ico" type="image/x-icon">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/aggregator/aggregator.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/node/node.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/defaults.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/system/system-menus.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/modules/user/user.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/theme/content-module.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/datepicker.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/date/date_popup/themes/timeentry.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/dhtml_menu/dhtml_menu.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/filefield/filefield.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/img_assist/img_assist.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/modules/cck/modules/fieldgroup/fieldgroup.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/wgu/style.css?R">
+<link type="text/css" rel="stylesheet" media="print" href="/sites/all/themes/wgu/print.css?R">
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/wgu/nonindex.css?R">
+<script type="text/javascript" src="/sites/all/modules/jquery_update/replace/jquery.min.js?R"></script>
+<script type="text/javascript" src="/misc/drupal.js?R"></script>
+<script type="text/javascript" src="/sites/all/modules/date/date_timezone/date_timezone.js?R"></script>
+<script type="text/javascript" src="/sites/all/modules/dhtml_menu/dhtml_menu.js?R"></script>
+<script type="text/javascript" src="/sites/all/modules/img_assist/img_assist.js?R"></script>
+<script type="text/javascript" src="/sites/all/modules/jquery_plugin/jquery.popupwindow.min.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/columnify.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/utils.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/browserdetect_lite.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/opacity.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/jquery.nyroModal-1.3.1.min.js?R"></script>
+<script type="text/javascript" src="/sites/all/themes/wgu/jquery.corner.js?R"></script>
 <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, { "basePath": "/", "dhtmlMenu": { "slide": "slide", "siblings": "siblings", "relativity": 0, "children": 0, "clone": 0, "doubleclick": 0 } });
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var BASE_URL = "/";
+//--><!]]>
+</script>
+ <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/wgu/fix-ie.css" /><script type="text/javascript" src="/js/iepngfix_v2/iepngfix_tilebg.js"></script><style type="text/css">.iepngfix { behavior: url(js/iepngfix_v2/iepngfix.htc) }</style><script type="text/javascript" src="/js/fixpng.js"></script>
+    <![endif]-->
+
+    <!-- [if lte IE 6]>
+    <style type='text/css'>
+      .fixme {
+        margin-right: 0px !important;
+      }
+      .ie6Fix {
+        display:inline-block;
+        line-height:12pt;
+        font-size:20px;
+        hasLayout:-1;
+        margin: auto auto -2px !important;
+      }
+    </style>
+    <![endif]-->
+	<script type="text/javascript">
+        $(function() {
+          try {
+               $(".linkbox, .csc, #csc").corner("10px");
+          } catch (e) {} // 
+          
+        });
+    </script>
+<script type="text/javascript" charset="iso-8859-1" src="https://server.iad.liveperson.net/hcp/html/mTag.js?site=57856987"></script></head>
+
+<body class="nonindex">
+<!-- Layout -->
+<div id="wrapper" class="lp-chat-restore-tables">
+  <div id="wrapper-2">
+  
+            <div id="header">
+        <div id="logo-floater">
+          <a href="http://www.wgu.edu/" title=""><img class="fixPNG" src="/sites/all/themes/wgu/logo.png" alt="" id="logo"></a>        </div><!-- /#logo-floater -->
+        <div id="topNav">
+                    <div class="imgHolder" style="padding-top:13px;"> <img class="fixPNG" src="/images/call_us.png" title="Call us at 1.866.225.5948" alt="Call us at 1.866.225.5948"> </div>
+          <div class="topNavSeparator">
+            <!-- -->
+          </div><!-- /.topNavSeparator -->
+          <div class="imgHolder" style="padding-top:25px;"> <a href="https://www.wgu.edu/wgu/app/app_step0"><img class="fixPNG" src="/images/btn_apply_now.png" title="Apply Now" alt="Apply Now"></a> </div>
+          <div class="topNavSeparator">
+            <!-- -->
+          </div><!-- /.topNavSeparator -->
+          <div class="imgHolder" style="padding-top:25px;"> <a href="/wgu/inquiry_form"><img class="fixPNG" src="/images/btn_request_info.png" title="Request Information" alt="Request Information"></a> </div>
+                  </div><!-- /#topNav -->
+        <div id="topLinks">
+                    <a href="/degrees_and_programs"><img src="/images/head_degrees_programs.jpg" title="Degrees &amp; Programs" alt="Degrees &amp; Programs"></a> | 
+          <a href="/admissions/overview"><img src="/images/head_admissions.jpg" title="Admissions" alt="Admissions"></a> | 
+          <a href="/tuition_financial_aid/overview"><img src="/images/head_tuition_financial_aid.jpg" title="Tuition &amp; Financial Aid" alt="Tuition &amp; Financial Aid"></a> | 
+          <a href="/about_WGU/overview"><img src="/images/head_about_wgu.jpg" title="About WGU" alt="About WGU"></a> | 
+          <a href="/are_you_wgu/index"><img src="/images/head_the_wgu_experience.jpg" style="vertical-align:middle;" title="The WGU Experience" alt="The WGU Experience"></a>
+                  </div><!-- /#topLinks -->
+      </div><!-- /#header -->
+        <div id="container" class="clear-block">
+<div id="sidebar-left">
+    <div id="block-menu-primary-links" class="clear-block block block-menu">
+
+
+  <div class="content"><ul class="menu level-0"><li class="expanded first collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/degrees_and_programs" title="Degrees &amp; Programs" id="dhtml_menu-305" class="level-1 image-link"><img src="/images/menu/degrees_programs_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="expanded first collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/online_teaching_degree" title="" id="dhtml_menu-154" class="level-2">Teachers College</a></td></tr></tbody></table><ul class="menu level-2"><li class="expanded first collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification" title="Teacher Licensure Programs" id="dhtml_menu-296" class="level-3">Licensure Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_special_education_bachelor_degree" title="BA Special Education" id="dhtml_menu-168" class="level-4">BA Special Education</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_biology_bachelor_degree" title="BA in Biological Science" id="dhtml_menu-536" class="level-4">BA Biological Science</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_chemistry_bachelor_degree" title="BA in Chemistry" id="dhtml_menu-537" class="level-4">BA Chemistry</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_early_childhood_education_bachelor_degree" title="BA in Early Childhood Education" id="dhtml_menu-1135" class="level-4">BA Early Childhood Education</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_geoscience_bachelor_degree" title="BA in Geosciences" id="dhtml_menu-538" class="level-4">BA Geosciences</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_elementary_bachelor_degree" title="BA Interdisciplinary Studies" id="dhtml_menu-556" class="level-4">BA Interdisciplinary Studies</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_mathematics_bachelor_degree" title="BA in Mathematics" id="dhtml_menu-557" class="level-4">BA Mathematics</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_physics_bachelor_degree" title="BA in Physics" id="dhtml_menu-559" class="level-4">BA Physics</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_science_bachelor_degree" title="BA in Science 5-9" id="dhtml_menu-558" class="level-4">BA Science (5-9)</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_mathematics_master_degree" title="MAT Mathematics (5-9 or 5-12)" id="dhtml_menu-566" class="level-4">MAT Mathematics (5-9 or 5-12)</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_science_master_degree" title="MAT Science (5-9 or 5-12)" id="dhtml_menu-567" class="level-4">MAT Science (5-9 or 5-12)</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_social_science_master_degree" title="MAT Social Science" id="dhtml_menu-568" class="level-4">MAT Social Science</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_elementary_master_degree" title="MAT K-8" id="dhtml_menu-565" class="level-4">MAT Teaching K-8</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_elementary_program" title="Post-Baccalaureate Teacher Preparation Program (K-8)" id="dhtml_menu-561" class="level-4">Post-Bacc Teacher Preparation Program (K-8)</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_mathematics_program" title="Post-Baccalaureate Program, Mathematics" id="dhtml_menu-562" class="level-4">Post-Bacc Teacher Preparation Program, Mathematics</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_science_program" title="Post-Baccalaureate Teacher Preparation Program, Science (5-9 or 5-12)" id="dhtml_menu-563" class="level-4">Post-Bacc Teacher Preparation Program, Science</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/teacher_certification_social_science_program" title="Post-Baccalaureate Teacher Preparation Program, Social Science (5-12)" id="dhtml_menu-564" class="level-4">Post-Bacc Teacher Preparation Program, Social Science</a></td></tr></tbody></table></li></ul></li><li class="expanded last collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/masters_degree" title="Teachers College Graduate Programs" id="dhtml_menu-297" class="level-3">Graduate Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/endorsement_preparation_program_english_language_learning" title="ELL Endorsement Prep" id="dhtml_menu-569" class="level-4">ELL Endorsement Prep</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/endorsement_preparation_program_educational_leadership" title="Endorsement Prep Program, Educational Leadership" id="dhtml_menu-1177" class="level-4">Ed Leadership Endorsement Prep</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_biology" title="MASE in Biology" id="dhtml_menu-869" class="level-4">MA Biology</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_chemistry" title="MASE in Chemistry" id="dhtml_menu-575" class="level-4">MA Chemistry</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_english_language_learning" title="MA in English Language Learning" id="dhtml_menu-578" class="level-4">MA English Language Learning</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_geoscience" title="MASE in Geosciences" id="dhtml_menu-573" class="level-4">MA Geosciences</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_mathematics" title="MA in Mathematics Education" id="dhtml_menu-577" class="level-4">MA Math Education</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_physics" title="MASE Physics" id="dhtml_menu-574" class="level-4">MA Physics</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_science" title="MA Science 5-9" id="dhtml_menu-576" class="level-4">MA Science 5-9</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_instructional_design" title="MED Instructional Design" id="dhtml_menu-572" class="level-4">MED Instructional Design</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_education_learning_technology" title="MED Learning and Technology" id="dhtml_menu-571" class="level-4">MED Learning and Technology</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_science_educational_leadership" title="MS Educational Leadership" id="dhtml_menu-579" class="level-4">MS Educational Leadership</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/education/master_science_special_education" title="MS Special Education" id="dhtml_menu-580" class="level-4">MS Special Education</a></td></tr></tbody></table></li></ul></li></ul></li><li class="expanded  collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/online_business_degree" title="WGU Business College" id="dhtml_menu-256" class="level-2">College of Business</a></td></tr></tbody></table><ul class="menu level-2"><li class="expanded first collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/online_business_bachelor" title="College of Business Bachelor's Programs" id="dhtml_menu-276" class="level-3">Bachelor's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/accounting_bachelor_degree" title="BS Accounting" id="dhtml_menu-524" class="level-4">BS Accounting</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/human_resource_bachelor_degree" title="BS Business - Human Resource Management" id="dhtml_menu-526" class="level-4">BS HR Management</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/IT_management_bachelor_degree" title="BS in Business - Information Technology Management" id="dhtml_menu-527" class="level-4">BS IT Management</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/marketing_bachelor_degree" title="BS Marketing Management" id="dhtml_menu-528" class="level-4">BS Marketing Management</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/sales_management_bachelor_degree" title="BS Sales and Sales Management" id="dhtml_menu-1415" class="level-4">BS Sales and Sales Management</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/business_management_bachelor_degree" title="BS Business Management" id="dhtml_menu-298" class="level-4">BS Business Management</a></td></tr></tbody></table></li></ul></li><li class="expanded last collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/online_business_master" title="College of Business Master's Programs" id="dhtml_menu-277" class="level-3">Master's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/master_business_administration_healthcare_management_degree" title="MBA Healthcare Management" id="dhtml_menu-529" class="level-4">MBA Healthcare Management</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/master_business_administration_IT_degree" title="MBA Information Technology Management" id="dhtml_menu-433" class="level-4">MBA IT Management</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/business/master_business_administration_degree" title="MBA Master of Business Administration" id="dhtml_menu-530" class="level-4">MBA Master of Business Administration</a></td></tr></tbody></table></li></ul></li></ul></li><li class="expanded  collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/programs" title="College of Information Technology" id="dhtml_menu-270" class="level-2">College of Information Technology</a></td></tr></tbody></table><ul class="menu level-2"><li class="expanded first collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/bachelor_degree_programs" title="College of Information Technology Bachelor's Programs" id="dhtml_menu-274" class="level-3">Bachelor's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree" title="BS in Information Technology" id="dhtml_menu-432" class="level-4">BS IT</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree_databases" title="BS in Information Technology - Databases" id="dhtml_menu-431" class="level-4">BS IT-Databases</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree_networks_admin" title="BS in Information Technology - Networks Administration" id="dhtml_menu-430" class="level-4">BS IT-Networks Admin</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree_networks_design" title="BS in Information Technology - Networks Design and Management" id="dhtml_menu-429" class="level-4">BS IT-Networks Design &amp; Mgmt</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree_security" title="BS in Information Technology - Security" id="dhtml_menu-428" class="level-4">BS IT-Security</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_technology_degree_software" title="BS in Information Technology - Software" id="dhtml_menu-427" class="level-4">BS IT-Software</a></td></tr></tbody></table></li></ul></li><li class="expanded last collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/master_degree_programs" title="College of Information Technology Master's Programs" id="dhtml_menu-275" class="level-3">Master's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/information_security_assurance_degree" title="MS in Information Security and Assurance" id="dhtml_menu-466" class="level-4">MS Info. Security &amp; Assurance</a></td></tr></tbody></table></li></ul></li></ul></li><li class="expanded last collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/online_healthcare_degree" title="College of Health Professions" id="dhtml_menu-271" class="level-2">College of Health Professions</a></td></tr></tbody></table><ul class="menu level-2"><li class="expanded first collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/online_healthcare_bachelor_degree" title="College of Health Professions Bachelor's Degrees" id="dhtml_menu-272" class="level-3">Bachelor's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_it_degrees/health_informatics_degree" title="BS in Health Informatics" id="dhtml_menu-532" class="level-4">BS Health Informatics</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/bachelor_science_nursing_licensure" title="BS Nursing (Prelicensure)" id="dhtml_menu-997" class="level-4">BS Nursing (Prelicensure)</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/bachelor_science_nursing" title="BS Nursing (RN to BSN)" id="dhtml_menu-533" class="level-4">BS Nursing (RN to BSN)</a></td></tr></tbody></table></li></ul></li><li class="expanded last collapsed start-collapsed  level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/online_healthcare_master_degree" title="College of Health Professions Master's Programs" id="dhtml_menu-273" class="level-3">Master's Programs</a></td></tr></tbody></table><ul class="menu level-3"><li class="leaf first level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/master_science_nursing_education_specialization_degree" title="MS Nursing Education" id="dhtml_menu-534" class="level-4">MS Nursing Education</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/master_science_nursing_leadership_specialization_degree" title="MS Nursing Leadership" id="dhtml_menu-535" class="level-4">MS Nursing Leadership</a></td></tr></tbody></table></li><li class="leaf level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/rn_msn_nursing_education_specialization" title="MS Nursing, Education (RN to MSN Option)" id="dhtml_menu-1158" class="level-4">MS Nursing, Education (RN to MSN Option)</a></td></tr></tbody></table></li><li class="leaf last level-3"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/online_health_professions_degrees/rn_msn_nursing_leadership_specialization" title="MS Nursing, Leadership and Management (RN to MSN Option)" id="dhtml_menu-1157" class="level-4">MS Nursing, Leadership/Management (RN to MSN Option)</a></td></tr></tbody></table></li></ul></li></ul></li></ul></li><li class="expanded  collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/overview" title="Admissions" id="dhtml_menu-312" class="level-1 image-link"><img src="/images/menu/admissions_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="expanded first collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience" title="Admissions -- Academic Experience" id="dhtml_menu-589" class="level-2">Academic Experience</a></td></tr></tbody></table><ul class="menu level-2"><li class="leaf first level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience_mentor" title="Admissions – Academic Experience Mentor" id="dhtml_menu-592" class="level-3">Your Mentor</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience_aap" title="Academic Experience AAP" id="dhtml_menu-590" class="level-3">Academic Action Plan</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience_assessment" title="Admissions – Academic Experience Completing Assessments" id="dhtml_menu-588" class="level-3">Completing Assessments</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience_lr" title="Admissions – Academic Experience Using Learning Resources" id="dhtml_menu-591" class="level-3">Using Learning Resources</a></td></tr></tbody></table></li><li class="leaf last level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/academic_experience_communities" title="Admissions – Academic Experience Online Student Communities" id="dhtml_menu-593" class="level-3">Student Communities</a></td></tr></tbody></table></li></ul></li><li class="expanded  collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/requirements" title="Admissions: Requirements" id="dhtml_menu-338" class="level-2">Admissions Requirements</a></td></tr></tbody></table><ul class="menu level-2"><li class="leaf first level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/tc_requirements" title="Admissions: TC Requirements" id="dhtml_menu-594" class="level-3">Teachers College Admissions Requirements</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/business_requirements" title="Admissions: College of Business Requirements" id="dhtml_menu-597" class="level-3">College of Business Requirements</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/it_requirements" title="Admissions: College of IT Requirements" id="dhtml_menu-595" class="level-3">College of IT Admissions Requirements</a></td></tr></tbody></table></li><li class="leaf last level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/health_requirements" title="Admissions: College of Health Professions Requirements" id="dhtml_menu-596" class="level-3">College of Health Admissions Requirements</a></td></tr></tbody></table></li></ul></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="https://www.wgu.edu/wgu/app/app_step0" title="Application" id="dhtml_menu-777" class="level-2">Apply for Admission</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/enrollment_checklist" title="Admissions: Enrollment Checklist" id="dhtml_menu-337" class="level-2">Enrollment Checklist</a></td></tr></tbody></table></li><li class="expanded last collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/transferring" title="Admissions: Transferring" id="dhtml_menu-333" class="level-2">Transferring</a></td></tr></tbody></table><ul class="menu level-2"><li class="leaf first level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/transferring_credits_faq" title="Admissions: Transferring FAQ" id="dhtml_menu-334" class="level-3">FAQ for Earning Transfer Credit</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/cc_transfer" title="Admissions: Community College Transfer" id="dhtml_menu-336" class="level-3">Community College Transfers</a></td></tr></tbody></table></li><li class="leaf last level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/admissions/how_to_request_transcript" title="Admissions: How to request transcripts" id="dhtml_menu-335" class="level-3">How to Request Transcripts</a></td></tr></tbody></table></li></ul></li></ul></li><li class="expanded  collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/overview" title="Tuition &amp; Financial Aid" id="dhtml_menu-313" class="level-1 image-link"><img src="/images/menu/tuition_financial_aid_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="leaf first level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/tuition" title="Tuition and Fees" id="dhtml_menu-339" class="level-2">Tuition and Fees</a></td></tr></tbody></table></li><li class="expanded  collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/financial_aid" title="Tuition: Financial Aid Overview" id="dhtml_menu-343" class="level-2">Financial Aid</a></td></tr></tbody></table><ul class="menu level-2"><li class="leaf first level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/financial_aid_application" title="Applying for Financial Aid" id="dhtml_menu-1001" class="level-3">Applying for Financial Aid</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/aid_more" title="Tuition: More Information About Financial Aid" id="dhtml_menu-898" class="level-3">More About Financial Aid</a></td></tr></tbody></table></li><li class="leaf last level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/obligation_faq" title="Tuition: Your Financial Obligations" id="dhtml_menu-897" class="level-3">Your Financial Obligations</a></td></tr></tbody></table></li></ul></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/scholarships" title="Tuition: Scholarships" id="dhtml_menu-342" class="level-2">Scholarships</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/veterans" title="Tuition: VA and Military" id="dhtml_menu-341" class="level-2">VA and Military</a></td></tr></tbody></table></li><li class="leaf last level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/tuition_financial_aid/corporate" title="Tuition: Corporate Reimbursement" id="dhtml_menu-340" class="level-2">Corporate Reimbursement</a></td></tr></tbody></table></li></ul></li><li class="expanded  collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/overview" title="About WGU" id="dhtml_menu-306" class="level-1 image-link"><img src="/images/menu/about_wgu_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="leaf first level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/WGU_story" title="The WGU Story" id="dhtml_menu-601" class="level-2">The WGU Story</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/students_alumni" title="About: Students and Alumni" id="dhtml_menu-352" class="level-2">About Our Students</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/WGU_different" title="About WGU –How We’re Different" id="dhtml_menu-598" class="level-2">How We're Different</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/what_others_say" title="What Others Say" id="dhtml_menu-599" class="level-2">What Others Say</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/accreditation" title="About: Accreditation" id="dhtml_menu-349" class="level-2">Accreditation and Recognition</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/governors_industry" title="Founded by governors. Supported by education and business leaders." id="dhtml_menu-600" class="level-2">University Governance</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/library_bookstore" title="About: Library and Bookstore" id="dhtml_menu-350" class="level-2">Online Library</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/employment" title="Employment at WGU" id="dhtml_menu-476" class="level-2">Employment at WGU</a></td></tr></tbody></table></li><li class="expanded last collapsed start-collapsed  level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/wgu_news" title="" id="dhtml_menu-174" class="level-2">WGU Newsroom</a></td></tr></tbody></table><ul class="menu level-2"><li class="leaf first level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/in_the_news" title="About: WGU In the News" id="dhtml_menu-367" class="level-3">In the News</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/resources" title="About WGU: Resources" id="dhtml_menu-1204" class="level-3">Resources</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/press_releases" title="About: News Releases" id="dhtml_menu-371" class="level-3">News Releases</a></td></tr></tbody></table></li><li class="leaf level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/newsletters" title="About: Newsletters" id="dhtml_menu-370" class="level-3">Newsletters</a></td></tr></tbody></table></li><li class="leaf last level-2"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/about_WGU/student_profiles" title="About: Profiles" id="dhtml_menu-368" class="level-3">Profiles</a></td></tr></tbody></table></li></ul></li></ul></li><li class="expanded  collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/overview" title="" id="dhtml_menu-308" class="level-1 image-link"><img src="/images/menu/why_wgu_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="leaf first level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/our_commitments" title="Why WGU – Our Commitments" id="dhtml_menu-581" class="level-2">Our Commitments</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/competency_based_approach" title="Why WGU – Competency-Based Approach" id="dhtml_menu-586" class="level-2">Competency-Based Approach</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/good_WGU_student" title="Why WGU – Who Makes a Good WGU Student" id="dhtml_menu-582" class="level-2">Who Makes a Good WGU Student</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/WGU_accreditation" title="Why WGU – Our Accreditation" id="dhtml_menu-587" class="level-2">Our Accreditation</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/how_we_compare" title="Our AccreditationHow We Compare" id="dhtml_menu-583" class="level-2">How We Compare</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/what_employers_say" title="Why WGU – What Employers Say" id="dhtml_menu-584" class="level-2">What Employers Say</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/supported_by" title="Why WGU – Supported By" id="dhtml_menu-585" class="level-2">Supported By</a></td></tr></tbody></table></li><li class="leaf last level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/why_WGU/testimonials" title="Testimonials" id="dhtml_menu-775" class="level-2">Testimonials</a></td></tr></tbody></table></li></ul></li><li class="expanded last collapsed start-collapsed  level-0"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/are_you_wgu/index" title="" id="dhtml_menu-173" class="level-1 image-link"><img src="/images/menu/the_wgu_experience_inactive.gif"></a></td></tr></tbody></table><ul class="menu level-1"><li class="leaf first level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/student-experience/getting-started" title="The WGU Experience: Getting Started" id="dhtml_menu-309" class="level-2">Getting Started</a></td></tr></tbody></table></li><li class="leaf level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/student-experience/life" title="The WGU Experience: Student Experience" id="dhtml_menu-310" class="level-2">Student Experience</a></td></tr></tbody></table></li><li class="leaf last level-1"><table cellpadding="0" cellspacing="0" border="0" style="background-color:"><tbody><tr><td class="menuControl"></td><td><a href="/student-experience/graduation" title="The WGU Experience: Graduation and Beyond" id="dhtml_menu-311" class="level-2">Graduation and Beyond</a></td></tr></tbody></table></li></ul></li></ul><img src="/images/watermark_chopped.png" class="menu-watermark fixPNG" style="float:right;"></div>
+</div>
+</div>
+<div id="center">
+      <!-- <div class="right-corner"><div class="left-corner"> -->
+                   <div class="titleBox"><h1>WGU's Privacy Policy</h1></div>                  <div class="breadcrumb"><a href="/">Home</a> :: WGU's Privacy Policy</div>             
+      <div class="clear-block outerNodeHolder">
+                <div class="middleNodeHolder">
+          <div class="innerNodeHolder" id="innerNodeHolder">
+            <div class="nodeHolderTop"></div>
+            <div class="nodeHolderMiddle">
+              <div class="nodeHolder"> <div id="node-2502" class="node">
+
+
+
+  
+  <div class="content clear-block">
+    <p>
+Western Governors University (WGU) is committed to ensuring your privacy as a visitor to this website, as an interested party in one of WGU's degree programs, and as a student in our university. Any personally identifiable information collected about you on this website is used by Western Governors University to contact you about the university’s programs, administer your application to the university, and provide additional information as needed, potentially including contact via phone or email; however, at any time you have the option under the CAN-SPAM laws to request that WGU discontinue further email contact. WGU will not release, sell, rent, or trade your personal information gathered here to any third party for the promotion of other services or products. 
+</p>
+<p>
+WGU does not collect any personal information about you other than what you voluntarily provide. WGU does, however, collect anonymous non-personally identifiable data about your website visit through pixel tags, sometimes known as cookies, that help us track information about your visit and that are used to deliver banner advertisements to you on the Internet.
+</p>
+<p>
+If you apply or enroll as a WGU student, WGU uses passwords to protect the privacy of applicants and students who use personalized areas of its sites. The highest level of security is used for storing information (SSL encryption). WGU staff monitor the sites for technical reliability. 
+</p>
+<p>
+WGU complies with the protections established under the Family Education Rights and Privacy Act of 1974 (FERPA). FERPA is a Federal law designed to protect the privacy of student education records. FERPA governs the release of education records and access to education records. 
+</p>
+<p>
+The FERPA policy is intended to ensure students have the right to inspect and review their education records; the right to amend their education records as appropriate; and the right to control access to their education records. Students have the right to: (1) inspect and review their education records, (2) request amendment to their education records, (3) consent to disclosures of non-directory information, except to the extent that FERPA authorizes disclosure without consent, and (4) file a complaint with the U.S. Department of Education concerning alleged failures by WGU to comply with FERPA requirements. Students have the right to request that their records be amended if they believe the content is inaccurate, misleading, or in violation of their privacy rights. 
+</p>
+<p>
+For details about WGU's policy on the use of student information and the procedures WGU has established in accordance with FERPA, please see the WGU Student Handbook. 
+</p>
+<p>
+As a WGU student, your personal information may be shared with third-party learning resources, assessment sites, and other external vendors who support the academic programs. These vendors are obligated through their agreements with WGU to maintain the privacy of WGU students. Student directory information may be shared with outside institutions and corporations. 
+</p>  </div>
+
+  <div class="clear-block">
+    <div class="meta">
+        </div>
+
+          <div class="links">
+</div>
+      </div>
+
+</div>
+                <div id="increaseMe" style="height:1px;"> </div>
+              </div>
+            </div>
+            <div class="nodeHolderBottom"></div>
+          </div>
+                    <div id="sidebar-right" class="sidebar">
+                        <div id="block-block-2" class="clear-block block block-block">
+
+
+  <div class="content"><div class="rightEC" style="line-height:0;">
+    <a href="/wgu/inquiry_form"><img src="http://www.wgu.edu/files/RequestInfo.gif" alt="Request Information"></a>
+</div>
+</div>
+</div>
+<div id="block-block-25" class="clear-block block block-block">
+
+
+  <div class="content"><div class="pageBox">
+  <div class="pageBoxBody">
+ 
+             <a href="/wgu/nbc_news"><img src="/files/images/NBC_News_sidebar.png" alt="NBC News Features WGU"></a>
+
+                   <p>"The dreams of 19 governors have become [WGU Grad Angie Gonzalez's] dream fulfilled."</p>
+            <p>
+                —Tom Costello<br>
+                NBC Nightly News with Brian Williams</p>
+            
+            <a class="lm" href="/wgu/nbc_news">Watch the video</a>
+            <div class="hr">
+            </div>
+            <ul class="scholarships">
+                <li>WGU to award over 50 more scholarships for math and science educators</li>
+            </ul>
+            <a class="lm" href="/tuition_financial_aid/urban_overview">Learn more »</a>
+            <div class="hr">
+            </div>
+            <img class="fixPNG" src="/images/in_the_news_1.png" alt="In the news">
+            <ul class="news">
+                <li>"The best – and cheapest – college you've never heard of is found only online."</li>
+            </ul>
+            <p>
+                —Time Magazine<br>
+                November 13, 2008</p>
+            <a class="lm" href="/about_WGU/time">Read the article »</a>
+        </div>
+    </div>
+</div>
+</div>
+ </div>
+                    <div class="cleaner"> </div>
+        </div>
+              </div>
+</div><!-- /#sidebar-left -->
+</div><!-- /#container -->
+              </div>
+</div>
+<!-- /wrapper -->
+      <div id="footer" class="lp-chat-restore-tables ">  <div id="block-block-40" class="clear-block block block-block">
+
+
+  <div class="content">        <div class="greyLine">
+          <!-- -->
+        </div><!-- /.greyLine -->
+        <div class="copy bottom">COPYRIGHT © 2010 Western Governors University. All rights reserved.</div>
+        <div class="footerLinks bottom">
+              <a href="http://www.wgu.edu/contact_us">Contact WGU</a> |
+              <a href="http://www.wgu.edu/about_WGU/employment">Employment</a> |
+              <a href="http://www.wgu.edu/about_WGU/wgu_news">News</a> |
+              <a href="http://www.wgu.edu/site_map">Site Map</a> |
+              <a href="http://www.wgu.edu/privacy">Privacy Policy</a> |
+        <a href="http://my.wgu.edu">MyWGU Login</a> </div>
+        <div style="clear:both;"></div></div>
+</div>
+<div id="block-block-42" class="clear-block block block-block">
+
+
+  <div class="content"><script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
 </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
 <script type="text/javascript">
+try {
 var pageTracker = _gat._getTracker("UA-932736-1");
-pageTracker._initData();
-pageTracker._trackPageview();
-</script>
+if (typeof(_pageViewName)!='undefined' && _pageViewName) {
+  pageTracker._trackPageview(_pageViewName);
+} else {
+  pageTracker._trackPageview();
+}
+} catch(err) {}</script>
+
+<!-- BEGIN LivePerson Monitor. --><script language="javascript"> var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "57856987",'lpProtocol' : "https"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);</script><!-- END LivePerson Monitor. --></div>
+</div>
+      </div><!-- /#footer -->
+      <!-- /layout -->
+<div id="debug"> </div>
 
 
-
-
-	
 
 </body></html>
