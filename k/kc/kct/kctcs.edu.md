@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kctcs.edu privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218004209id_/http%3A//www.kctcs.edu/About_KCTCS/Privacy_and_Terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kctcs.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609185635id_/http%3A//www.kctcs.edu/About_KCTCS/Privacy_and_Terms.aspx) for the most accurate reproduction.*
 
 # Kentucky Community & Technical College System - Privacy and Terms
 
