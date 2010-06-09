@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417120233id_/http%3A//www.e-myth.com/pub/htdocs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-myth.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609172213id_/http%3A//www.e-myth.com/pub/htdocs/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | E-Myth Worldwide
+# None
 
 We have created this privacy policy to demonstrate our firm commitment to your privacy and the protection of your information.
 
