@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206051403id_/http%3A//www.authenteak.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the authenteak.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609080728id_/http%3A//www.authenteak.com/privacy.asp) for the most accurate reproduction.*
 
-# AuthenTEAK, LLC Privacy Policy: Outdoor Furniture, Weber Grills, Windham Cast Aluminum, Patio Store, Teak Furniture, Gloster, Contemporary Outdoor Furniture, Outdoor Kitchen, Wicker
+# AuthenTEAK, LLC Privacy Policy: Outdoor Furniture, Viking Outdoor Kitchen, Tropitone, Weber Grills, Windham Cast Aluminum, Patio Shop, Teak Furniture, Gloster, Contemporary Outdoor Furniture
 
 Privacy Statement for AuthenTEAK LLC
 
