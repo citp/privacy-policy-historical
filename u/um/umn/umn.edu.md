@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231005746id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umn.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609203117id_/http%3A//www.privacy.umn.edu) for the most accurate reproduction.*
 
 # Online Privacy Statement : University of Minnesota
 
