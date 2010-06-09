@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213013926id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlsjustwannahavefunds.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609191249id_/http%3A//www.girlsjustwannahavefunds.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : Girls Just Wanna Have Funds
+# Privacy Policy : Girls Just Wanna Have Funds: Personal Finance Blog For Women Taking Charge Of Their Finances
 
 The privacy of our visitors to **Girls Just Wanna Have Funds** is important to us.At Girls Just Wanna Have Funds, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit Girls Just Wanna Have Funds, and how we safeguard your information. We never sell your personal information to third parties.
 
