@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the redzee.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308130525id_/http%3A//www.redzee.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redzee.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609033802id_/http%3A//www.redz.com/privacypolicy.html) for the most accurate reproduction.*
 
-# RedZee Privacy Policy
+# RedZ Privacy Policy
 
-**RedZee Privacy Policy**
+**RedZ Privacy Policy**
 
-This website (the "www.RedZee.com") is owned and operated by RedZee Search Inc. RedZee (collectively, "RedZee" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. RedZee has established this Privacy Policy to let you know what information we may collect from you on the site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including RedZee's “RedZee” search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the site or our services. This Privacy Policy applies only to information that we collect on the site (or otherwise through our search engine) and does not apply to information which we may collect by other means. 
+This website (the "www.RedZ.com") is owned and operated by RedZ Search Inc. RedZ (collectively, "RedZ" or "we") are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. RedZ has established this Privacy Policy to let you know what information we may collect from you on the site and how we may use that information. Please take a moment to review the terms of our Privacy Policy. By using the Site (including RedZ's “RedZ” search engine and any other services offered on the Site), you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the site or our services. This Privacy Policy applies only to information that we collect on the site (or otherwise through our search engine) and does not apply to information which we may collect by other means. 
 
 Personal Information Information We May Collect
 
@@ -18,7 +18,7 @@ Tracking technologies may record information such as Internet domain and host na
 
 Search Engine
 
-When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. RedZee may present search result links in a format that enables us to understand whether they have been followed and may monitor clicks on an individual and an aggregate basis. We use this information to understand and improve the quality of RedZee's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
+When you use our search engine, we may collect certain non-personally identifiable information through the use of cookies and other tracking technologies described above. For example, when you use our search engine, we may keep track of which search terms are popular. If we display advertising to you on the Site (including the search results pages displayed after any searches you may run), such advertising may be related to the search terms you entered. RedZ may present search result links in a format that enables us to understand whether they have been followed and may monitor clicks on an individual and an aggregate basis. We use this information to understand and improve the quality of RedZ's search technology. For instance, this data helps us determine how often users are satisfied with the first result of a query and how often they proceed to later results.
 
 Links to Other Sites
 
@@ -26,15 +26,15 @@ Please be aware that when you are on the site, you could be directed to other si
 
 Security
 
-Wherever your Personal Information may be held within RedZee or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
+Wherever your Personal Information may be held within RedZ or on its behalf, we intend to take reasonable and appropriate steps to protect the Personal Information that you share with us from unauthorized access or disclosure. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. As a result, while we strive to protect your Personal Information and privacy, we cannot guarantee or warrant the security of any information you disclose or transmit to us online and cannot be responsible for the theft, destruction, or inadvertent disclosure of your Personal Information.
 
 Updating Your Information
 
-To the extent that you do provide us with Personal Information, RedZee wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to privacy@RedZee.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
+To the extent that you do provide us with Personal Information, RedZ wishes to maintain accurate Personal Information. If we collect Personal Information from you on the Web, you may send updates and corrections about your Personal Information to privacy@RedZ.com and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable.
 
 Children's Privacy
 
-Redzee.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us.
+RedZ.com is not structured to attract children. Accordingly, we do not knowingly collect Personal Information from anyone under 13 years of age. If you are under the age of 13, please do not provide any Personal Information to us.
 
 Changes to Our Privacy Policy
 
@@ -42,4 +42,4 @@ The terms of this Privacy Policy may change from time to time without prior noti
 
 Governing Law
 
-This Privacy Policy and the privacy practices of RedZee will be subject exclusively to the laws of the State of Florida within the United States of America. RedZee makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
+This Privacy Policy and the privacy practices of RedZ will be subject exclusively to the laws of the State of Florida within the United States of America. RedZ makes no representation that this Privacy Policy and such practices comply with the laws of any other country. Visitors who use the Site, the search engine or any other services offered on the Site and reside outside the United States do so on their own initiative and are responsible for compliance with local laws, if and to the extent local laws are applicable.
