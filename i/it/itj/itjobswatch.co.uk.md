@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208105929id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000903id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
