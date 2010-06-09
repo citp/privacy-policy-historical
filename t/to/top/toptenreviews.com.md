@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218101453id_/http%3A//www.toptenreviews.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptenreviews.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609162208id_/http%3A//www.toptenreviews.com/privacy-policy.html) for the most accurate reproduction.*
 
 # TopTenREVIEWS Privacy Policy
 
@@ -48,7 +48,7 @@ Occasional changes may be made to our privacy policy. Visitors to TopTenREVIEWS,
 By using the TopTenREVIEWS website, you signify your acceptance of this website privacy policy.  If you do not agree to this policy, please do not use our sites. Your continued use of any TopTenREVIEWS site following the posting of changes to these terms will indicate your acceptance of those changes. 
 
 **How to Contact Us**  
-If you want to reach us, [click here](https://web.archive.org/web/20091218101453id_/http%3A//www.toptenreviews.com/contact-us.html). 
+If you want to reach us, [click here](https://web.archive.org/web/20100609162208id_/http%3A//www.toptenreviews.com/contact-us.html). 
 
   
 
