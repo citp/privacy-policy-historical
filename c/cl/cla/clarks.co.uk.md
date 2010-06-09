@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2009-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090703185744id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609114101id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy-Clarks
+# Clarks Online| The Clarks Privacy Policy-Clarks
 
   
 
@@ -45,6 +45,10 @@ We comply with stringent safeguards to protect your personal data. If you would 
 If you have registered to receive emails from Clarks, you can remove your email address from the list at any time by using the links in the emails that are sent to you. We will never make your personal details available to other companies for marketing purposes.
 
 We will endeavour to make all our communications clear in their intent. We will endeavour not to overuse your personal data and will not mail you more than four times a month.
+
+**Clarks recommend a friend campaign**  
+Individuals supplying Clarks with the email address of their friend via our recommend a friend campaign should first confirm that the friend consents to their email address being supplied.  
+All email addresses supplied to us via the recommend a friend email campaign will be sent one email advising of the recommendation and will be given the option to supply further details and opt in to the Clarks emails.
 
   
 
