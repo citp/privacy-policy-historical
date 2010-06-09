@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pc-optimizer.com privacy policy that was archived on 2009-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090908161033id_/http%3A//www.pc-optimizer.com/privacy.php%3Flg%3DUS) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pc-optimizer.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609040627id_/http%3A//www.pc-optimizer.com/privacy.php%3Flg%3DEN) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ Provider hereby informs the User of the following:
 
 In accordance with the provisions set out above, the User hereby authorises Provider to process, and expressly consents to the processing of, the User’s personal data for the purposes indicated, as well as for the facilities and functions whatsoever included within the Services.
 
-This Privacy Policy is valid from 2009 
+This Privacy Policy is valid from 2010 
