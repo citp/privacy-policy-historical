@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ctsummation.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208124549id_/http%3A//www.ctsummation.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ctsummation.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609110905id_/http%3A//www.ctsummation.com/Privacy.aspx) for the most accurate reproduction.*
 
 # CT Summation - Privacy Policy
 
