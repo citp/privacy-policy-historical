@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627034652id_/http%3A//www.cms.hhs.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cms.gov privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609033234id_/http%3A//www.cms.gov/AboutWebsite/02_Privacy%2520Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy Web Policies & Important Links
 
@@ -50,5 +50,4 @@ There are no Related Links Outside CMS
 **Page Last Modified: 12/14/2005 12:00:00 AM**  
 [Help with File Formats and Plug-Ins](https://web.archive.org/help/default.asp)
 
-[Submit Feedback](http://questions.cms.hhs.gov/cgi-bin/cmshhs.cfg/php/enduser/ask.php?p_prods=749,1022)  
-
+[Submit Feedback](http://questions.cms.hhs.gov/app/ask/p/749,1022)
