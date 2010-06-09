@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the ed.gov privacy policy that was archived on 2009-12-31.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091231100551id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ed.gov privacy policy that was archived on 2010-06-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100609043409id_/http%3A//www.ed.gov/notices/privacy/index.html) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- displayTemplateGenericPage edwebwwwp02c01 --><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><!-- displayTemplateGenericPage edwebwwwp01c01 --><head>
 
 
 <!-- BEGIN Content Zone "_MD"-->
@@ -87,7 +87,22 @@ function popWin(theURL,winName,features) {
   mywin.focus();
 }
 
+/*-- image rollover for program/office bubble --*/
+
+function imgRoll(img, state) {
+	
+	if (document.images[img].src.indexOf('_on.gif') == -1) {
+		(state) ? document.images[img].src = eval(img + '_over.src') : document.images[img].src = eval(img + '_off.src');
+	
+	}
+}
+
 </script>
+<script language="javascript" src="/scripts/jquery-1.2.6.min.js"></script>
+<script language="javascript" src="/scripts/jquery-plugins.js"></script>
+<script language="javascript" src="/scripts/jqfunctions.js"></script>
+<script src="/style/nice_menus.js" type="text/javascript" language="JavaScript"></script>
+
 <script type="text/javascript">
 if(browser && browser == 'ns4'){
 	document.write('<link rel="STYLESHEET" type="text/css" href="/style/common_ns.css">');
@@ -115,7 +130,7 @@ else{
 <!--Content Zone "A"-->
 
 
-				<a href="/index.jhtml?src=a"><img src="/images/ed_mn_logo.gif" alt="Link to ED.gov Home Page" width="135" height="52" hspace="0" vspace="0" border="0"></a> <span class="text">U.S. Department of Education</span>
+				<a href="http://www.ed.gov/"><img src="/images/ed_mn_logo.gif" alt="Link to ED.gov Home Page" width="135" height="52" hspace="0" vspace="0" border="0"></a> <span class="text">U.S. Department of Education</span>
 
 
 		                               
@@ -127,16 +142,15 @@ else{
 <!--Content Zone "E"-->
 
 
-    	<form action="/results.html" id="cse-search-box">
+    	<form action="http://find.ed.gov/search" method="get" id="cse-search-box">
 <label for="q" style="display:none;">Search</label>
-<input type="hidden" name="cx" value="017789009494528204701:uzmeqn9qqxo">
-<input type="hidden" name="cof" value="FORID:9">
-<input type="hidden" name="hq" value="-archived:">
-<input type="hidden" name="ie" value="UTF-8">
-<input type="text" name="q" width="159" class="searchInput">
+<input type="hidden" name="client" value="default_frontend">
+<input type="hidden" name="output" value="xml_no_dtd">
+<input type="hidden" name="proxystylesheet" value="default_frontend">
+<input type="text" name="q" width="159" class="searchInput" title="Insert Search Text for ED.gov">
 <input type="image" name="sa" src="/images/ed_gl_search_button.gif" alt="Submit Search" value="submit"><br>
 <div id="advsearch" class="leftNavSearchOptions">
-<a href="/help/site/advsearch/advSearch.jsp">Advanced Search</a>
+<a href="http://find.ed.gov/search?client=default_frontend&amp;output=xml_no_dtd&amp;proxystylesheet=default_frontend&amp;proxycustom=&lt;ADVANCED/&gt;" title="Advanced Search">Advanced Search</a>
 </div></form>
 				 			
 
@@ -147,7 +161,48 @@ else{
 <!--Content Zone "B"-->
 			
 
-			<span class="students"><a href="/students/landing.jhtml">Students</a></span><span class="parents"><a href="/parents/landing.jhtml">Parents</a></span><span class="teachers"><a href="/teachers/landing.jhtml">Teachers</a></span><span class="administrators"><a href="/admins/landing.jhtml">Administrators</a></span>
+			<div id="block-nice_menus-1" class="block">
+  <div class="block-inner-0"><div class="block-inner-1">
+    <div class="block-inner-2"><div class="block-inner-3">
+  		<div class="block-inner">
+    		<div class="block-content">
+      			<div class="block-content-inner">
+<ul class="nice-menu nice-menu-down" id="nice-menu-1"><li id="menu-342" class="menuparent menu-path-www.ed.gov-fund-landing.jhtml"><a href="/fund/landing.jhtml" title="Funding Menu">Funding</a><ul><li id="menu-2217" class="menu-path-www.ed.gov-fund-grants-college.html"><a href="/fund/grants-college.html" title="Money for college menu">Money for college</a></li>
+<li id="menu-2218" class="menu-path-www.ed.gov-fund-grants-apply.html"><a href="/fund/grants-apply.html" title="Grant opportunities menu">Grant opportunities</a></li>
+<li id="menu-2219" class="menu-path-www.ed.gov-fund-contract-opportunities.html"><a href="/fund/contract-opportunities.html" title="Contract opportunities menu">Contract opportunities</a></li>
+</ul>
+</li>
+<li id="menu-343" class="menuparent menu-path-www.ed.gov-policy-landing.jhtml"><a href="/policy/landing.jhtml" title="">Policy</a><ul><li id="menu-2636" class="menu-path-www.ed.gov-news-web-latest-whatsnew.jhtmlpageNumber1perPage10category9on"><a href="/news/web/latest/whatsnew.jhtml?pageNumber=1&amp;perPage=10&amp;category9=on" title="">Policy updates</a></li>
+<li id="menu-2637" class="menu-path-www.ed.gov-policy-gen-guid-significant-guidance.html"><a href="/policy/gen/guid/significant-guidance.html" title="Significant guidance menu">Significant guidance</a></li>
+<li id="menu-2638" class="menu-path-www.ed.gov-policy-policy-by-program.html"><a href="/policy/policy-by-program.html" title="Policy by program menu">Policy by program</a></li>
+<li id="menu-2639" class="menu-path-www.ed.gov-policy-policy-by-topic.html"><a href="/policy/policy-by-topic.html" title="policy by topic menu">Policy by topic</a></li>
+</ul>
+</li>
+<li id="menu-344" class="menuparent menu-path-www.ed.gov-rschstat-landing.jhtml"><a href="/rschstat/landing.jhtml" title="Research menu">Research</a><ul><li id="menu-2641" class="menu-path-www.ed.gov-rschstat-facts.html"><a href="/rschstat/facts.html" title="Facts and figures menu">Facts and figures</a></li>
+<li id="menu-2642" class="menu-path-www.ed.gov-about-pubs-publications-reports.html"><a href="/about/pubs/publications-reports.html" title="Publications and reports">Publications and reports</a></li>
+<li id="menu-2643" class="menu-path-www.ed.gov-rschstat-best-practices.html"><a href="/rschstat/best-practices.html" title="Best practices">Best practices</a></li>
+</ul>
+</li>
+<li id="menu-345" class="menuparent menu-path-node-1572"><a href="http://www.ed.gov/news" title="News menu">News</a><ul><li id="menu-2644" class="menu-path-news-press-releases"><a href="http://www.ed.gov/news/press-releases" title="Press releases menu">Press releases</a></li>
+<li id="menu-2645" class="menu-path-www.ed.gov-news-photos-videos.html"><a href="http://www.ed.gov/news/photos-videos.html" title="Photos and video menu">Photos and video</a></li>
+<li id="menu-2646" class="menu-path-news-speeches"><a href="http://www.ed.gov/news/speeches" title="Speeches menu">Speeches</a></li>
+<li id="menu-6417" class="menu-path-news-media-advisories"><a href="http://www.ed.gov/news/media-advisories" title="Media advisories menu">Media advisories</a></li>
+</ul>
+</li>
+<li id="menu-2640" class="menuparent menu-path-www.ed.gov-about-landing.jhtml"><a href="/about/landing.jhtml" title="About ED menu">About ED</a><ul><li id="menu-2647" class="menu-path-www.ed.gov-about-overview-focus-performance.html"><a href="/about/overview/focus/performance.html" title="Budget and Performance menu">Budget and Performance</a></li>
+<li id="menu-2648" class="menu-path-www.ed.gov-about-offices-or-index.html"><a href="/about/offices/or/index.html" title="Organization menu">Organization</a></li>
+<li id="menu-2649" class="menu-path-www.ed.gov-about-what-we-do.html"><a href="/about/what-we-do.html" title="What we do menu">What we do</a></li>
+<li id="menu-2650" class="menu-path-www.ed.gov-about-jobs-open-edhires-index.html"><a href="/about/jobs/open/edhires/index.html" title="Jobs at ED menu">Jobs at ED</a></li>
+<li id="menu-2651" class="menu-path-www.ed.gov-about-contacts-gen-index.html"><a href="/about/contacts/gen/index.html" title="">Contacts</a></li>
+</ul>
+</li>
+</ul>
+		      </div>
+		    </div>
+  		</div>
+    </div></div>
+  </div></div>
+</div>
 
 <!--END Content Zone "B" -->
 </div>
@@ -327,16 +382,10 @@ else{
 <!--Content Zone "C" -->
 
 
-					<div id="promo">
-<a href="/policy/gen/leg/recovery/index.html"><img src="/images/ed_gl_rs_recoveryact.gif" alt="ED Recovery Act: Learn More" width="176" height="69" hspace="0" vspace="0" border="0"></a>
-</div>
-
-<img src="/images/ed_gl_rs_div.gif" alt="" width="211" height="6" hspace="0" vspace="0" border="0">
-
-<div id="tasks">
+					<div id="tasks">
 <img src="/images/ed_gl_rs_tasks.gif" alt="How do I find..." width="193" height="22" hspace="0" vspace="0" border="0">
 <ul class="infoCenterText">
-<li><a href="/fund/landing.jhtml">Grant opportunities</a></li>
+<li><a href="/fund/grants-apply.html">Grant opportunities</a></li>
 <li><a href="/fund/grants-college.html">Money for college</a></li>
 <li><a href="/rschstat/landing.jhtml">Research, best practices</a></li>
 <li><a href="http://nces.ed.gov/fastfacts/">Facts and figures</a></li>
@@ -344,6 +393,13 @@ else{
 <li><a href="/about/top-tasks.html">More</a></li>
 </ul>
 </div>		
+
+<img src="/images/ed_gl_rs_div.gif" alt="" width="211" height="6" hspace="0" vspace="0" border="0">
+
+<div id="promo">
+<a href="/policy/gen/leg/recovery/index.html"><img src="/images/ed_gl_rs_recoveryact.gif" alt="ED Recovery Act: Learn More" width="176" height="69" hspace="0" vspace="0" border="0"></a>
+</div>
+
 <img src="/images/ed_gl_rs_div.gif" alt="" width="211" height="6" hspace="0" vspace="0" border="0">
 
 
@@ -448,20 +504,19 @@ else{
 
 
 			<div id="column1" class="footerText">
-			<p><a href="/news/landing.jhtml">News</a></p>
+			<p><a href="http://www.ed.gov/news">News</a></p>
 			<ul>
-			<li><a href="/news/pressreleases/latest/index.html">Press releases</a></li>
-			<li><a href="/news/speeches/latest/index.html">Speeches</a></li>
-			<li><a href="/news/events/advisory.html">Media advisories</a></li>
-			<li><a href="/news/events/calendars/secschedule.html">Secretary's schedule</a></li>
-			<li><a href="/news/av/video/index.html">Video</a></li>
-
-			<li><a href="/news/newsletters/index.html">Newsletters</a></li>
+			<li><a href="http://www.ed.gov/news/press-releases">Press releases</a></li>
+			<li><a href="http://www.ed.gov/news/speeches">Speeches</a></li>
+			<li><a href="http://www.ed.gov/news/media-advisories">Media advisories</a></li>
+			<li><a href="http://www2.ed.gov/news/events/calendars/secschedule.html">Secretary's schedule</a></li>
+			<li><a href="http://www2.ed.gov/news/av/video/index.html">Video</a></li>
+			<li><a href="http://www2.ed.gov/news/newsletters/index.html">Newsletters</a></li>
 			</ul>
 
 			<p><a href="/about/top-tasks.html">How do I find...</a></p>
 			<ul>
-<li><a href="/fund/landing.jhtml">Grant opportunities</a></li>
+<li><a href="/fund/grants-apply.html">Grant opportunities</a></li>
 <li><a href="/fund/grants-college.html">Money for college</a></li>
 <li><a href="/rschstat/landing.jhtml">Research, best practices</a></li>
 
@@ -523,6 +578,7 @@ else{
 	<div id="column4" class="footerText">
 			<p><a href="/about/landing.jhtml">About ED</a></p>
 			<ul>
+			<li><a href="/about/inits/ed/index.html">Initiatives</a></li>
 			<li><a href="/about/offices/list/index.html">ED offices</a></li>
 			<li><a href="/news/staff/bios/index.html">Senior staff</a></li>
 			<li><a href="/news/staff/update.html">Political appointees</a></li>
@@ -536,7 +592,9 @@ else{
 			<li><a href="/about/offices/list/om/reports.html">No FEAR Act data</a></li>
 
 			<li><a href="http://answers.ed.gov/cgi-bin/education.cfg/php/enduser/std_alp.php">FAQs</a></li>
-			<li><a href="/about/overview/focus/online-services.html">Online Services</a></li>
+			<li><a href="/about/overview/focus/online-services.html">Online services</a></li>
+			<li><a href="/open/">Open Government</a></li>
+            <li><a href="/about/inits/list/index.html">White House Initiatives</a></li>
 			<li><a href="/espanol/bienvenidos/es/index.html">Recursos en español</a></li>
 			</ul>
 	</div>
@@ -567,9 +625,28 @@ else{
 	</div>
 	<p style="clear:both">&nbsp;</p>
 
-<!-- crazyegg, pjk -->
+<!-- START crazyegg -->
 <script type="text/javascript" src="http://cetrk.com/pages/scripts/0009/9201.js"> </script>
-<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0009/9201.js"> </script>	
+<script type="text/javascript" src="http://s3.amazonaws.com/new.cetrk.com/pages/scripts/0009/9201.js"> </script>
+<!-- END crazyegg -->
+<!--GOOGLE ANALYTICS CODE-->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10911895-1");
+// put in customized calls before_trackPageview() methods
+pageTracker._setAllowAnchor(true);
+pageTracker._setDomainName(".ed.gov");
+pageTracker._setVisitorCookieTimeout("0"); //expires at end of session
+pageTracker._setSessionCookieTimeout("0"); //expires at end of session
+pageTracker._setCampaignCookieTimeout("0"); //expires at end of session
+pageTracker._trackPageview();
+} catch(err) {}    
+</script>
+<!-- END GOOGLE ANALYTICS CODE-->
         	
 
 <!--END Content Zone "L"  -->
