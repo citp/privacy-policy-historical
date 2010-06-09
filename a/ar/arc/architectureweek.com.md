@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420065747id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the architectureweek.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609165000id_/http%3A//www.architectureweek.com/privacy.html) for the most accurate reproduction.*
 
 # ArchitectureWeek Privacy Statement
 
@@ -73,65 +73,63 @@ Kevin Matthews Editor in Chief, ArchitectureWeek Artifice, Inc. PO Box 1588 Euge
 
 [**Daily Architecture Headlines**](http://www.architectureweek.com/headlines.html) — Updated every day at ArchitectureWeek 
 
-[**Pritzker Gives Permanence to an Ephemeral Magic**](http://www.architectureweek.com/cgi-bin/wllk?http://www.brisbanetimes.com.au/opinion/pritzker-gives-permanence-to-an-ephemeral-magic-20090415-a7ik.html) — Brisbane Times, 2009.0416 
+[**Guatemala Sinkhole Created by Humans, Not Nature**](http://www.architectureweek.com/cgi-bin/wllk?http://news.nationalgeographic.com/news/2010/06/100603-science-guatemala-sinkhole-2010-humans-caused/) — National Geographic, 2010.0603 
 
-[**Hello LEED V3!**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0415/news_1-1.html) — ArchitectureWeek, 2009.0415 
+[**People and Places 0602**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2010/0602/news_1-1.html) — ArchitectureWeek, 2010.0602 
 
-[**People and Places 2009.0415**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0415/news_2-1.html) — ArchitectureWeek, 2009.0415 
+[**Durst, Related in WTC Bid**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748703406604575278462783495780.html?mod=dist_smartbrief) — Wall Street Journal, 2010.0601 
 
-[**Smithsonian Picks Black History Museum Designer**](http://www.architectureweek.com/cgi-bin/wllk?http://www.google.com/hostednews/ap/article/ALeqM5h7jLI2t95Smxkm2IMgkCh1V5rqPwD97IFDU80) — Associated Press, 2009.0415 
+[**Coalition Government to Scrap House Building Targets**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/uk/10198180.stm) — BBC, 2010.0531 
 
-[**Pritzker Prize Goes to Peter Zumthor**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2009/04/13/arts/design/13pritzker.html?th&emc=th) — New York Times, 2009.0413 
+[**China Real Estate Bubble Bursts in Bond Market: Credit Markets**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-31/china-real-estate-bubble-bursts-in-bond-market-credit-markets.html) — Bloomberg BusinessWeek, 2010.0531 
 
-[**Swiss Architect Receives the Pritzker Prize**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2009/04/12/AR2009041200966.html?hpid=artsliving) — Washington Post, 2009.0412 
+[**Zell Sees Bargain in Brazil Property on Strong Growth**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-31/zell-sees-bargain-in-brazil-property-on-strong-growth-update2-.html) — Bloomberg BusinessWeek, 2010.0531 
 
-[**Earthquake Upsets Italian Architecture**](http://www.architectureweek.com/cgi-bin/wllk?http://www.yaledailynews.com/articles/view/28605) — Yale Daily News, 2009.0410 
+[**London Housing Shortage to Push Up Prices**](http://www.architectureweek.com/cgi-bin/wllk?http://www.guardian.co.uk/business/2010/may/30/housing-shortage-london-south-east) — Guardian, 2010.0530 
 
-[**Construction Begins on London's Shard**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nce.co.uk/down-at-the-bridge/5200168.article) — New Civil Engineer, 2009.0409 
+[**Hurricane Season Begins Tuesday with $5.8 Billion of Work Still in Progress**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nola.com/hurricane/index.ssf/2010/05/hurricane_season_begins_tuesda.html) — New Orleans Times-Picayune, 2010.0529 
 
-[**AIA/ALA Library Awards**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0408/index.html) — ArchitectureWeek, 2009.0408 
+[**Romeâ€™S Maxxi Is Open at Last**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/2/e476218e-6919-11df-aa7e-00144feab49a.html) — Financial Times, 2010.0529 
 
-[**Italians Comb through Rubble after Quake**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2009/04/08/world/europe/08quake.html?_r=1) — New York Times, 2009.0408 
+[**Big Rise in House Building after Surge in Demand**](http://www.architectureweek.com/cgi-bin/wllk?http://www.ft.com/cms/s/0/80766096-69ef-11df-a978-00144feab49a.html) — Financial Times, 2010.0528 
 
-[**Plans for Hunters Point Naval Shipyard Revealed**](http://www.architectureweek.com/cgi-bin/wllk?http://www.sfexaminer.com/local/Plans-for-Hunters-Point-Naval-Shipyard-revealed-42569247.html) — San Francisco Examiner, 2009.0407 
+[**Estimates Suggest Spill Is Biggest in U.S. History**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/28/us/28flow.html?ref=earth) — New York Times, 2010.0528 
 
-[**Death Toll in Italy Quake on the Rise**](http://www.architectureweek.com/cgi-bin/wllk?http://www.latimes.com/news/nationworld/world/la-fg-italy-quake7-2009apr07,0,1185599.story) — Los Angeles Times, 2009.0407 
+[**Expiring Tax Credits Boost New Home Sales; Mortgage Rates, Falling Prices Help**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2010/05/26/AR2010052605083.html) — Washington Post, 2010.0527 
 
-[**Strong Quake Hits Italy, at Least 92 Dead**](http://www.architectureweek.com/cgi-bin/wllk?http://www.upi.com/Top_News/2009/04/06/Strong-quake-hits-Italy-at-least-92-dead/UPI-62491238991494/) — United Press International, 2009.0406 
+[**Tax Deal Fuels New-Home Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748704717004575268173355581314.html?mod=WSJ_hpp_MIDDLENexttoWhatsNewsThird) — Wall Street Journal, 2010.0527 
 
-[**People and Places 2009.0401**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0401/news_1-1.html) — ArchitectureWeek, 2009.0401 
+[**New Orleans' Nine Most Endangered Sites Bear Legacies of Music, Worship, Justice**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nola.com/news/index.ssf/2010/05/new_orleans_nine_most_endanger.html) — New Orleans Times-Picayune, 2010.0527 
 
-[**Brooklyn Bridge to Get Face-Lift Thanks to Feds, Says Bloomberg**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nydailynews.com/ny_local/2009/03/30/2009-03-30_brooklyn_bridge_to_get_facelift_thanks_t.html) — New York Daily News, 2009.0330 
+[**Rome's New Contemporary Art Museum Set to Open**](http://www.architectureweek.com/cgi-bin/wllk?http://www.cbc.ca/arts/artdesign/story/2010/05/27/contemporary-art-museum.html) — CBC News, 2010.0527 
 
-[**Plans Unveiled for African American Museum**](http://www.architectureweek.com/cgi-bin/wllk?http://www.washingtonpost.com/wp-dyn/content/article/2009/03/27/AR2009032703481.html) — Washington Post, 2009.0327 
+[**Kimbell Art Museum Releases Final Design for Addition to Kahn's Original**](http://www.architectureweek.com/cgi-bin/wllk?http://featuresblogs.chicagotribune.com/theskyline/2010/05/kimbell-art-museum-releases-final-design-for-addition-to-kahns-original.html) — Chicago Tribune, 2010.0527 
 
-[**People and Places 2009.0318**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0318/news_1-1.html) — ArchitectureWeek, 2009.0318 
+[**Two Architects Have a Meeting of the Minds at a Texas Museum**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/27/arts/design/27kimbell.html) — New York Times, 2010.0527 
 
-[**$700M in Federal Aid Finally Flowing to N.O.**](http://www.architectureweek.com/cgi-bin/wllk?http://www.usatoday.com/news/nation/2009-03-17-naginrebuild_N.htm) — USA Today, 2009.0317 
+[**Home Sales Data, Toll Results Boost Builder Shares**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/BT-CO-20100526-709829.html?mod=WSJ_earnings_MIDDLETopHeadlines) — Wall Street Journal, 2010.0526 
 
-[**Future of Many Architectural Firms in Doubt**](http://www.architectureweek.com/cgi-bin/wllk?http://www.charlotteobserver.com/136/story/601736.html) — Charlotte Observer, 2009.0316 
+[**Great New Landscapes**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2010/0526/news_1-1.html) — ArchitectureWeek, 2010.0526 
 
-[**Grand Paris: Architects Reveal Plans to Transform French Capital**](http://www.architectureweek.com/cgi-bin/wllk?http://www.telegraph.co.uk/news/worldnews/europe/france/4980639/Grand-Paris-Architects-reveal-plans-to-transform-French-capital.html) — Telegraph, 2009.0313 
+[**Boston Properties Bows Out**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/SB10001424052748703341904575266970446627434.html?mod=WSJ_latestheadlines) — Wall Street Journal, 2010.0526 
 
-[**California Schools Honored for Intelligent Design**](http://www.architectureweek.com/cgi-bin/wllk?http://www.prweb.com/releases/Sustainable_design/school_designers/prweb2230244.htm) — PR Web, 2009.0312 
+[**Vote Endorses Muslim Center Near Ground Zero**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2010/05/26/nyregion/26muslim.html) — New York Times, 2010.0525 
 
-[**People and Places 2009.0311**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0311/news_2-1.html) — ArchitectureWeek, 2009.0311 
+[**'Amityville Horror' Home Goes on Sale for $1.15m**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/world/us_and_canada/10154402.stm) — BBC, 2010.0525 
 
-[**Palladio Awards 2009**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0311/index.html) — ArchitectureWeek, 2009.0311 
+[**U.S. Economy: Purchases, Inventories of Existing Homes Increase**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/u-s-economy-purchases-inventories-of-existing-homes-increase.html) — Bloomberg BusinessWeek, 2010.0524 
 
-[**Congregation Beth Sholom's Design Honored**](http://www.architectureweek.com/cgi-bin/wllk?http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2009/03/09/DDNN16ALG0.DTL) — San Francisco Chronicle, 2009.0309 
+[**Fed Says Asset Sales Will Come after Rates Are Raised**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/fed-says-asset-sales-will-come-after-rates-are-raised-update2-.html) — Bloomberg BusinessWeek, 2010.0524 
 
-[**Tram Firm under Fire over Cologne Building Collapse**](http://www.architectureweek.com/cgi-bin/wllk?http://news.scotsman.com/scotland/Tram-firm-under-fire-over.5040238.jp) — Scotsman Online, 2009.0305 
+[**Mortgage Delinquencies Decline Broadly in April -S &P**](http://www.architectureweek.com/cgi-bin/wllk?http://online.wsj.com/article/BT-CO-20100524-708376.html?mod=WSJ_latestheadlines) — Wall Street Journal, 2010.0524 
 
-[**German Archive Building Collapses**](http://www.architectureweek.com/cgi-bin/wllk?http://news.bbc.co.uk/2/hi/europe/7921988.stm) — BBC News, 2009.0304 
+[**U.S. Subprime Hunt Targets Goldman, May Skip Cassano: Timeline**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/u-s-subprime-hunt-targets-goldman-may-skip-cassano-timeline.html) — Bloomberg BusinessWeek, 2010.0524 
 
-[**People and Places 2009.0304**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0304/news_1-1.html) — ArchitectureWeek, 2009.0304 
+[**Tax Credit and Low Mortgage Rates Boost Home Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://www.google.com/hostednews/ap/article/ALeqM5hnu6sB3PemlhadTaizNLLJMgRONAD9FTBNSO0) — Associated Press, 2010.0524 
 
-[**Sverre Fehn, 84, Architect of Modern Nordic Forms, Dies**](http://www.architectureweek.com/cgi-bin/wllk?http://www.nytimes.com/2009/02/28/arts/design/28fehn.html?_r=1&scp=1&sq=building+AND+construction+AND+architecture&st=nyt) — New York Times, 2009.0228 
+[**Daiwa House Seeking Acquisitions to Expand Renovation Sales**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/news/2010-05-24/daiwa-house-seeking-acquisitions-to-expand-renovation-sales.html) — Bloomberg BusinessWeek, 2010.0524 
 
-[**AIA CEO Talks TOD to Transportation Finance Reform Panel**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0225/press_release_2-1.html) — AIA Press Release at ArchWeek, 2009.0227 
-
-[**People and Places 2009.0225**](http://www.architectureweek.com/cgi-bin/wllk?http://www.archweek.com/2009/0225/news_1-1.html) — ArchitectureWeek, 2009.0225 
+[**Calif. Homebuilder Agrees to Plea in Fraud Ring**](http://www.architectureweek.com/cgi-bin/wllk?http://www.businessweek.com/ap/financialnews/D9FRGE8G0.htm) — Bloomberg BusinessWeek, 2010.0521 
 
 Note: Pages will open in a new browser window  
 External sites are not endorsed by ArchitectureWeek.  
@@ -141,5 +139,4 @@ External sites are not endorsed by ArchitectureWeek.
 
 [**News Department Archive**](http://www.architectureweek.com/articles/news_articles.html)
 
-**Special thanks** to [Sustaining Subscribers](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)  [www.buildingdesign-recruitment.co.uk](http://www.buildingdesign-recruitment.co.uk/),   
-[www.buildingdesign-tenders.co.uk](http://www.buildingdesign-tenders.co.uk/), [www.construction-index.com](http://www.construction-index.com/), [www.beesker.com](http://www.beesker.com/), [Custom Doors](http://www.steinerdoors.com/), and [Von Duprin](http://www.popularhardware.com/). 
+**Special thanks** to our [Sustaining Subscribers](http://www.architectureweek.com/cgi-bin/support_archweek.cgi)  [BuilderSpace.com](http://www.builderspace.com/), and offering  [custom doors](http://www.steinerdoors.com/),  [log bags](http://www.artpromos.com/),  [shutters](http://www.hillarys.co.uk/shutters/), and  [kitchen faucets](http://www.qualitybath.com/kitchen-faucets.htm). 
