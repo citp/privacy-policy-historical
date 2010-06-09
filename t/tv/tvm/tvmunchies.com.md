@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvmunchies.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207080736id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvmunchies.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610000002id_/http%3A//comedy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Comedy.com
 
@@ -10,7 +10,7 @@ EFFECTIVE DATE: August 6, 2009
 
 1.1. Purpose of Policy
 
-Comedy.com, LLC (”us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website located at [http://comedy.com](http://comedy.com/ "Comedy.com") (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
+Comedy.com, LLC (“us,” “we,” or “Company”) is committed to respecting the privacy rights of its customers, visitors, and other users of its website located at [http://comedy.com](http://comedy.com/ "Comedy.com") (the “Site”). We created this Website Privacy Policy (this “Policy”) to give you confidence as you visit and use the Site, and to demonstrate our commitment to fair information practices and the protection of privacy. This Policy is only applicable to the Site, and not to any other websites that you may be able to access from the Site, each of which may have data collection and use practices and policies that differ materially from this Policy.
 
 1.2. Notice Concerning Children
 
@@ -42,7 +42,7 @@ We are a general audience site, and do not direct any of our content specificall
 
 (d) ANONYMOUS INFORMATION. We use anonymous information to analyze our Site traffic, but we do not examine this information for individually identifying information. In addition, we may use anonymous IP addresses to help diagnose problems with our server, to administer our site, or to display the content according to your preferences. Traffic and transaction information may also be shared with business partners and advertisers on an aggregate and anonymous basis.
 
-(e) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your user ID or password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.
+(e) USE OF COOKIES. We may use cookies to deliver content specific to your interests, to save your user ID or password so you don’t have to re-enter it each time you visit our site, or for other purposes. Promotions or advertisements displayed on our site may contain cookies. We do not have access to or control over information collected by outside advertisers on our site.  To opt out of receiving third-party cookies from our advertisers please visit the [National Advertising Initiative’s website](http://www.networkadvertising.org/managing/opt_out.asp) and follow the instructions they have provided.
 
 (f) DISCLOSURE OF PERSONAL INFORMATION. In addition to disclosures described above, we may disclose personal information if required to do so by law or in the good-faith belief that such action is necessary to (1) conform to the edicts of the law or comply with legal process served on us or our parent company, subsidiaries or affiliates, (2) protect and defend our rights or property or the rights or property of users of the Site, or (3) act under exigent circumstances to protect the safety of the public or users of the Site.
 
