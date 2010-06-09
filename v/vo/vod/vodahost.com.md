@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2009-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091125163342id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodahost.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609065715id_/http%3A//www.vodahost.com/privacy.htm) for the most accurate reproduction.*
 
 # VodaHost Web Hosting Privacy Policy
 
