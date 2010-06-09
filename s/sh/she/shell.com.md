@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227231039id_/http%3A//www.shell.com/home/content/footer/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shell.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609153009id_/http%3A//www.shell.com/home/content/footer/about_this_site/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Global
 
@@ -117,4 +117,4 @@ From time to time we may make changes to this privacy policy. If we make any sub
 
 ###  How you can contact us 
 
-If you would like to contact Shell.com about our privacy policy, please use this form to [contact the Shell webmaster](https://web.archive.org/home/forms/footer/contact_us/contact_webmaster/form_webmaster.html "contact the Shell webmaster").
+If you would like to contact Shell.com about our privacy policy, please use this form to [contact the Shell webmaster](https://forms.shell.com/home/forms/footer/about_this_site/contact_us/contact_webmaster/form_webmaster.html "contact the Shell webmaster").
