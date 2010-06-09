@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2009-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091104184628id_/http%3A//www.aionline.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aionline.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609041058id_/http%3A//aionline.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for The Art Institute of Pittsburgh Online Division
 
-This policy was last updated on February 1, 2008.
+This policy was last updated on May 18, 2010.
 
 The Art Institutes system of schools is committed to protecting any personal information that you may provide to us. We want you to understand what kinds of information we gather from you, how this information is used and protected, and how you can control its use. This statement discloses the privacy practices of The Art Institutes Web site. By using The Art Institutes Web site, the user agrees, without limitation or qualification, to be bound by this Privacy Policy. Any changes in our Privacy Policy will be communicated in this page, so please check back from time to time.
 
@@ -20,9 +20,9 @@ The Art Institutes Web site is designed for users from the United States. Users 
 
 In general, you can visit this Web site without telling us who you are or revealing any information about yourself. Our Web site tracking software collects the domain names but not the email addresses of visitors. Domain name information that we collect is not used to personally identify you, but is used to measure the number of visits, average time spent on the site and the pages viewed. We use this information to measure the use of the site and improve the content delivered on the site.
 
-When you make a request for further information from The Art Institutes, you are asked to provide certain contact information that is collected and used for the purpose of responding to your request. The information collected from you may include your name, address, telephone number or email address.
+When you make a request for further information from The Art Institutes, you are asked to provide certain contact information that is collected and used for the purpose of responding to your request. The information collected from you may include your name, address, telephone number or email address. We may use this information to contact you through various means, including phone calls, text messages, e-mail and postal mail about programs and services that we offer.
 
-We collect personal information you submit pursuant to the registration and purchasing processes of our Web site. If you e-mail us, you are voluntarily releasing information to us.
+We collect personal information you submit pursuant to the registration and inquiry submission processes of our Web site. If you e-mail us, you are voluntarily releasing information to us.
 
 In addition, we may have collected similar information from you in the past. We use that historic information in accordance with this Privacy Policy. By using our Web site you are consenting to our continued use of any such information.
 
@@ -40,7 +40,7 @@ We use the aggregate and specific information from users to develop statistics t
 
   * You may always choose not to provide information, even though it may be needed to take advantage of The Art Institutes Web site features.
   * You may add or update certain information that you send to us. When you update information, we usually keep a copy of the prior version for our records.
-  * If you do not want to receive e-mail or other mail from us or if you wish to check your information, please e-mail us at [webadmin@aii.edu](mailto:webadmin@aii.edu?subject=Privacy%20Policy%20Use%20of%20Personal%20Information).
+  * If you do not want to receive e-mail or other mail from us or if you wish to check your information, please e-mail us at [webadmin@edmc.edu](mailto:webadmin@edmc.edu?subject=Privacy%20Policy%20Use%20of%20Personal%20Information).
 
 
 
@@ -64,7 +64,7 @@ We are the owner of data you supply to us.
 
 ## Information-Sharing Disclosure Request – California
 
-If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom The Art Institutes system of schools or any of its affiliates has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at: The Art Institutes, 210 Sixth Avenue, 33rd Floor, Pittsburgh, PA 15222. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at [webadmin@aii.edu](mailto:webadmin@aii.edu?subject=Information%20Sharing%20Disclosure%20Request) or by telephone at (toll-free) 1.888.624.0300. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt.
+If you are a California resident, you have the right to request one Notice of Information-Sharing Disclosure per year which will identify the third parties with whom The Art Institutes system of schools or any of its affiliates has shared the information we have collected from you. You may request the Notice of Information-Sharing Disclosure by writing to us at: The Art Institutes, 210 Sixth Avenue, 33rd Floor, Pittsburgh, PA 15222. You may also send us your Notice of Information-Sharing Disclosure request via e-mail at [webadmin@edmc.edu](mailto:webadmin@edmc.edu?subject=Information%20Sharing%20Disclosure%20Request) or by telephone at (toll-free) 1.888.624.0300. We will respond to your request for a Notice of Information-Sharing Disclosure within thirty (30) days of receipt.
 
 ## Our Privacy Policy and Outside Links
 
@@ -78,6 +78,6 @@ The Art Institutes
 210 Sixth Avenue  
 Pittsburgh, PA 15222  
 Fax: (412) 995-7295  
-Email: [webadmin@aii.edu](mailto:webadmin@aii.edu?subject=Questions%20Regarding%20Privacy%20Policy)
+Email: [webadmin@edmc.edu](mailto:webadmin@edmc.edu?subject=Questions%20Regarding%20Privacy%20Policy)
 
-This policy was last updated on February 1, 2008.
+This policy was last updated on May 18, 2010.
