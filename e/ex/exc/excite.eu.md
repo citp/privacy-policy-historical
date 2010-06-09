@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the excite.eu privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108072415id_/http%3A//www.excite.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the excite.eu privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610010124id_/http%3A//www.excite.eu/privacy) for the most accurate reproduction.*
 
 # Excite eu - privacy
 
