@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503002045id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdo.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609124556id_/http%3A//www.bdo.com/legal/safeharbor.aspx) for the most accurate reproduction.*
 
-# BDO Seidman, LLP - Safe Harbor Data Privacy Statement
+# BDO United States - Safe Harbor Data Privacy Statement
 
 ## BDO Seidman, LLP Safe Harbor Data Privacy Statement
 
