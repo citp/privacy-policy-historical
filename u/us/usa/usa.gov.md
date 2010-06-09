@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216220413id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usa.gov privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609023050id_/http%3A//www.usa.gov/About/Privacy_Security.shtml) for the most accurate reproduction.*
 
 # Privacy and Security: USA.gov
 
@@ -6,28 +6,14 @@
 
 Official information and services from the U.S. government
 
-[](https://web.archive.org/gobiernousa/Privacidad_Seguridad.shtml?toggleTo=en_Privacy_&_Security)
-
-The USA.gov privacy policy is plain and simple. We collect NO personal information, like names or addresses, when you visit our website. If you choose to provide personal information to us, it's only used to fulfill your request for information.
-
-We do collect some technical information when you visit. This is used to help us manage and improve the USA.gov website. The section below explains how we handle and collect technical information when you visit our website.
+USA.gov does not collect any personal information when you visit our web site unless you choose to provide that information. The USA.gov privacy policy is as follows:
 
   
 
 
 ### Information Collected and Stored Automatically
 
-When you browse, read pages, or download information on USA.gov, we automatically gather and store certain technical information about your visit. This information never identifies who you are. The information we collect and store about your visit is listed below:
-
-  * The Internet domain (for example, "xcompany.com" if you use a private Internet access account, or "yourschool.edu" if you connect from a university's domain) and IP address (an IP address is a number that is automatically assigned to your computer whenever you're surfing the web) from which you access our website;
-  * The type of browser (such as Firefox, Safari, or Internet Explorer) and operating system (such as Windows, Mac, Unix) used to access our site;
-  * The date and time you access our site;
-  * The pages you visit; and,
-  * If you linked to the USA.gov website from another website, the address of that website.
-
-
-
-This information is only used to help us make the site more useful for you. With this aggregate data, we learn about the number of visitors to our site and the types of technology our visitors use. We never track or record information about individuals and their visits.
+When you visit the USA.gov web site, we may store some or all of the following: the Internet address from which you access the web site, date and time, the Internet address of the web site from which you linked to our site, the name of the file or words you searched, items clicked on a page, and the browser and operating system used. This information is used to measure the number of visitors to the various sections of our site and identify system performance or problem areas. We also use this information to help us expand the coverage of the site, to analyze patterns of usage, and to make the site more useful. However, this information is not used for associating search terms or patterns of site navigation with individual users. USA.gov periodically deletes its Web logs. On occasion, USA.gov may provide this information to third party entities it contracts with for the purposes of research analysis. 
 
   
 
