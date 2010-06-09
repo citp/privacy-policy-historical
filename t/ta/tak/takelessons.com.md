@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230055011id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takelessons.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609060408id_/http%3A//takelessons.com/corp/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Music Lessons | TakeLessons
-
-[](https://web.archive.org/)
-
-Local Music & Singing Lessons
 
 Last revised: November 2008 
 
@@ -86,7 +82,7 @@ If you have any questions about this Privacy Policy or the practices described h
     
     
     Attn: ClickFor, Inc. Customer Service
-    624 Broadway, Suite 504
+    517 Fourth Ave Suite 402
     San Diego, CA  92101    
 
 ##  Revisions to This Policy 
