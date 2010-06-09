@@ -1,42 +1,45 @@
-> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2007-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070519151307id_/http%3A//www.planbookedu.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planbookedu.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609092528id_/http%3A//www.planbookedu.com/pages/privacy) for the most accurate reproduction.*
 
-# PlanbookEdu.com: Free Online Lesson Planning for Teachers of All Grade Levels
+# Privacy Policy
 
-Privacy Policy Privacy Policy  
-At PlanbookEdu.com, we take your privacy concerns regarding our service seriously, so we have created the following Privacy Policy to explain our information collection and use practices. Our Privacy Policy covers what information we collect through our service, how we use this information, how you may opt-out of this collection, the security measures we take to protect this information, and our policy regarding children under 13 years of age. By using our service, you consent and agree to the information collection and use practices described in our Privacy Policy. We may periodically make changes to our Privacy Policy. It is your responsibility to review the most recent version of our Privacy Policy frequently and remain informed about any changes to it.
+Your privacy is critically important to us. At PlanbookEdu we have a few fundamental principles:
 
-What Information Is Collected?  
-We may collect information from you through our website when you purchase or register for our service. Below are the specific details on what, where, when, and why this information is collected and how it is used.
+  * We don't ask you for personal information unless we truly need it. (We can't stand services that ask you for things like your gender or income level for no apparent reason.)
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
+  * We don't store personal information on our servers unless required for the on-going operation of one of our services.
 
-Registration  
-The term "personally identifiable information" means any information that may be used to identify you, including, but not limited to, your name, address, email address, Internet Protocol address, phone number, billing information, or other contact information. You may be asked for certain personally identifiable information when registering for or accessing a particular product or service. We do not share this information with any third parties.
 
-PlanbookEdu.com Database  
-PlanbookEdu.com is used to create and store your personal lesson plans. We will never share this information with any third parties. We will never access this information for any reason.
 
-Cookies  
-Cookies are small text files stored by your browser on your computer when you visit a website. We use cookies to improve our website and make it easier to use. Cookies permit us to recognize you and avoid repetitive requests for the same information. Most browsers will accept cookies until you change your browser settings to refuse them. You may change your browser's settings to refuse our cookies. However, if you do so, you may not be able access certain PlanbookEdu.com service.
+Below is our privacy policy which incorporates these goals:
 
-Use of Contractors  
-We may retain the service of outside contractors to perform services on our behalf (for example, to help provide technical support services or deliver new products or services). At times, we must disclose relevant personally identifiable information about you to our contractors so they may provide these specific services for us. We require our contractors to keep this information confidential and to only use the information on our behalf.
+PlanbookEdu LLC (" **PlanbookEdu** ") operates several websites including [PlanbookEdu.com](http://www.planbookedu.com/) and [free-bingo-cards.com](http://www.free-bingo-cards.com/). It is PlanbookEdu's policy to respect your privacy regarding any information we may collect while operating our websites.
 
-Email Communications  
-Periodically, we may send email to you if you have indicated a preference to receive news, updates, special offers, and other information relating to our service. You may unsubscribe from these email subscriptions at the account web page on our website.
+### Website Visitors
 
-Updating Your Information  
-If you desire to change or modify any of the information that you have previously provided to us, you may do so at the account web page on our website.
+Like most website operators, PlanbookEdu collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. PlanbookEdu's purpose in collecting non-personally identifying information is to better understand how PlanbookEdu's visitors use its website. From time to time, PlanbookEdu may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
 
-Children  
-Our service are intended solely for persons 13 years of age and older. If you are under the age of 13 you may not access or use our service. By using our service you represent and warrant to us that you are 13 years of age or older.
+PlanbookEdu also collects potentially personally-identifying information like Internet Protocol (IP) addresses. PlanbookEdu does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-Links to Third Party Web Sites  
-Our service may contain links to other websites and software. We are not responsible for the privacy practices or the content of these websites or software. Please visit the privacy policies of these third party sites in order to understand their privacy and information collection practices.
+### Gathering of Personally-Identifying Information
 
-Disclosures Required by Law  
-We reserve the right to disclose your personally identifiable information when we believe in good faith that an applicable law, regulation, or legal process requires it, or when we believe disclosure is necessary to protect or enforce our rights or the rights of another user.
+Certain visitors to PlanbookEdu's websites choose to interact with PlanbookEdu in ways that require PlanbookEdu to gather personally-identifying information. The amount and type of information that PlanbookEdu gathers depends on the nature of the interaction. For example, we ask visitors who sign up for an account at [planbookedu.com](http://www.planbookedu.com/) to provide an email address. PlanbookEdu collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor's interaction with PlanbookEdu. PlanbookEdu does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
 
-Mergers and Acquisitions  
-In the event that we or a portion of our assets are acquired by another company, customer information, including personally identifiable information, may be one of the transferred assets.
+### Aggregated Statistics
 
-No Error-Free Performance  
-We do not guarantee error-free performance under this Privacy Policy. We may not always catch an unintended privacy issue, despite our efforts to do so. Accordingly, we welcome your feedback regarding any privacy concerns that you may have, including how we can improve our service generally. We will use reasonable efforts to comply with this Privacy Policy and will take prompt corrective action when we learn of any failure to comply with it. We will not be liable for any damages, including incidental, consequential, or punitive damages, relating to the practices described in this Privacy Policy. 
+PlanbookEdu may collect statistics about the behavior of visitors to its websites. PlanbookEdu may display this information publicly or provide it to others. However, PlanbookEdu does not disclose personally-identifying information other than as described below.
+
+### Protection of Certain Personally-Identifying Information
+
+PlanbookEdu discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on PlanbookEdu's behalf or to provide services available at PlanbookEdu's websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using PlanbookEdu's websites, you consent to the transfer of such information to them. PlanbookEdu will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, PlanbookEdu discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when PlanbookEdu believes in good faith that disclosure is reasonably necessary to protect the property or rights of PlanbookEdu, third parties or the public at large. If you are a registered user of an PlanbookEdu website and have supplied your email address, PlanbookEdu may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what's going on with PlanbookEdu and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. PlanbookEdu takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+
+### Cookies
+
+A cookie is a string of information that a website stores on a visitor's computer, and that the visitor's browser provides to the website each time the visitor returns. PlanbookEdu uses cookies to help PlanbookEdu identify and track visitors, their usage of PlanbookEdu website, and their website access preferences. PlanbookEdu visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using PlanbookEdu's websites, with the drawback that certain features of PlanbookEdu's websites may not function properly without the aid of cookies.
+
+### Ads
+
+Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by PlanbookEdu and does not cover the use of cookies by any advertisers.
+
+### Privacy Policy Changes
+
+Although most changes are likely to be minor, PlanbookEdu may change its Privacy Policy from time to time, and in PlanbookEdu's sole discretion. PlanbookEdu encourages visitors to frequently check this page for any changes to its Privacy Policy. 
