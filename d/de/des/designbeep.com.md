@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207200733id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbeep.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609070435id_/http%3A//designbeep.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DesignBeep
+
+## [Privacy Policy](http://designbeep.com/privacy-policy/ "Permanent Link to Privacy Policy")
 
 **Designbeep.com** takes your privacy seriously. This privacy policy describes what personal information we collect and how we use it. See this [privacy policy primer](http://www.synclastic.com/privacy/privacy-policies/) to learn more about privacy policies in general.
 
