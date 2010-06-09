@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/statements.htm%23Privacy%2520Statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uaex.edu privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/statements.htm%23Privacy) for the most accurate reproduction.*
 
 # Statements, Disclaimers and Freedom of Information for the U of A Division of Agriculture
 
-[About Us](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/about_us.htm)  
+[About Us](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/about_us.htm)  
   
 
 
-[Find Us](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/findus.htm)  
+[Find Us](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/findus.htm)  
   
 
 
@@ -17,18 +17,18 @@
 
 
 [Logos & Standards  
-     of Usage](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/Logos/default.htm)  
+     of Usage](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/Logos/default.htm)  
   
 
 
-[News & Publications](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/news_publications/default.htm)  
+[News & Publications](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/news_publications/default.htm)  
 
 
-[Organizational Chart](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/organizational_chart.htm)  
+[Organizational Chart](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/organizational_chart.htm)  
 
 
 [Policy & Management   
-     Guidelines](https://web.archive.org/web/20090426055157id_/http%3A//division.uaex.edu/policy_management/default.htm)  
+     Guidelines](https://web.archive.org/web/20100609090542id_/http%3A//division.uaex.edu/policy_management/default.htm)  
   
 
 
@@ -116,16 +116,28 @@ Administrative Offices
 2404 N. University Avenue  
 Little Rock, AR 72207  
 501- 686-2540  
-[mjshult@uasys.edu](mailto:mjshult@uasys.edu) | **Cooperative Extension Service  
+[mjshult@uasys.edu](mailto:mjshult@uasys.edu)  
+---  
+  
+**Dr. Tony Windham  
+**Associate Vice-President  
+for Agriculture - Extension  
+2301 South University  
+Little Rock, AR 72204  
+501-671-2001  
+E-mail: [ twindham@uaex.edu](mailto:twindham@uaex.edu)
+
+| 
+
+**Cooperative Extension Service  
 Ms. Donna Rothberg**  
-Director, Human Resources & Program Compliance  
+Director, Human Resources  
 2301 South University Avenue  
 Room 104D  
 Little Rock, AR 72203   
 Voice: 501-671-2219   
 Fax: 501-671-2251   
 E-mail: [drothberg@uaex.edu](mailto:drothberg@uaex.edu)   
----|---  
   
 **  
 Dr. Mark J. Cochran**  
