@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2009-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090927094102id_/http%3A//www.hyperxlocal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperxlocal.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609110406id_/http%3A//www.hyperxlocal.com/privacy-policy) for the most accurate reproduction.*
 
 # HyperX Local
 
@@ -43,7 +43,7 @@ HXL will never will fully disclose individually identifiable information about y
 
 CALIFORNIA RESIDENTS: Your Privacy Rights
 
-Starting January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either provide a list detailing the categories of information shared and the entities to which such information was provided - or provide a mechanism by which a consumer may opt-out of having their information shared with third parties. You may request that your information not be shared by sending a written letter including your full name and email address to: HyperX Local 102 West 12200 South | Draper, UT 84020. Please contact us with any questions or concerns about your privacy rights. ****
+Starting January 1, 2005, companies that collect personally identifiable information from California residents and disclose such information to third parties (including affiliated entities) for marketing purposes must, in response to a request by a consumer, either provide a list detailing the categories of information shared and the entities to which such information was provided – or provide a mechanism by which a consumer may opt-out of having their information shared with third parties. You may request that your information not be shared by sending a written letter including your full name and email address to: HyperX Local 102 West 12200 South | Draper, UT 84020. Please contact us with any questions or concerns about your privacy rights. ****
 
 **Opt-Out Features**
 
