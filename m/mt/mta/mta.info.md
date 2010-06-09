@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227063718id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mta.info privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609204700id_/http%3A//www.mta.info/mta/privacy.htm) for the most accurate reproduction.*
 
 # MTA - Internet Privacy Policy
 
@@ -42,7 +42,7 @@ The MTA Agencies may disclose personal information to federal or state or local 
 
 ## Retention of Information Collected Through the MTA Website
 
-The information collected through the MTA Website is retained by the MTA Agencies in accordance with the applicable records retention and disposition requirements of New York law. Information concerning these records retention and disposition schedules may be obtained at <http://www.archives.nysed.gov/a/records/mr_pub_mi1_part1.shtml> and by contacting the MTA Website’s Privacy Compliance Officer listed below.
+The information collected through the MTA Website is retained by the MTA Agencies in accordance with the applicable records retention and disposition requirements of New York law. Information concerning these records retention and disposition schedules may be obtained at [ _http://www.archives.nysed.gov/a/records/mr_pub_mi1_part1.shtml_](http://www.archives.nysed.gov/a/records/mr_pub_mi1_part1.shtml) and by contacting the MTA Website’s Privacy Compliance Officer listed below.
 
 ## Access to and Correction of Personal Information Collected Through the MTA Website
 
@@ -79,7 +79,7 @@ The information provided in this Policy should not be construed as giving busine
 
 ## Contact Information
 
-For questions regarding this Policy, please [contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20091227063718id_/http%3A//www.mta.info/mta/privacy2.htm)
+For questions regarding this Policy, please _[contact the MTA Website Privacy Compliance Officer via email](https://web.archive.org/web/20100609204700id_/http%3A//www.mta.info/mta/privacy2.htm)_
 
 or by mail to:
 
