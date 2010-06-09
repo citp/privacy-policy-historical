@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotohoroscope.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208010930id_/http%3A//www.gotohoroscope.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotohoroscope.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609131017id_/http%3A//www.gotohoroscope.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ This notice applies to all information collected or submitted on our website. Th
 We use the information you provide about yourself only to complete a specific request, for example, to post a comment on our blog or to subscribe to our email feed. We never use or share the personally identifiable information provided to us in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
 
 **How We Use Cookies**   
-A cookie is a small file placed on your computer’s hard drive that enables us to monitor which pages you find useful and which you do not. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you, however, from taking full advantage of the website. 
+A cookie is a small file placed on your computerвЂ™s hard drive that enables us to monitor which pages you find useful and which you do not. Our site and third parties such as advertisers may add a cookie to help analyze web traffic or to determine targeted advertisements based on your preferences. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you, however, from taking full advantage of the website. 
 
 **Third-party advertisement**   
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.   
