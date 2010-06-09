@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streamingradioguide.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910084029id_/http%3A//www.findanisp.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamingradioguide.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609222752id_/http%3A//www.findanisp.com/privacy.php) for the most accurate reproduction.*
 
 # ISP Directory - Privacy Statement
 
