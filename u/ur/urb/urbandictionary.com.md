@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228063459id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbandictionary.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609142300id_/http%3A//www.urbandictionary.com/privacy.php) for the most accurate reproduction.*
 
 # Urban Dictionary: Privacy Policy
 
