@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616175819id_/http%3A//www.takecarehealth.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takecarehealth.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609082840id_/http%3A//www.takecarehealth.com/privacy.aspx%3Ffoot%3Dtc_privacy_statement) for the most accurate reproduction.*
 
 # Privacy Statement - Take Care Clinic - Convenient, Affordable Health Care
 
