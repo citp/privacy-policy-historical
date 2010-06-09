@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616235844id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the responsemagic.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609063402id_/http%3A//www.responsemagic.com/privacyPolicy.php) for the most accurate reproduction.*
 
-# .: Response Magic :. Professional Autoresponder + Lead Management + Contact Manager
+# Email Marketing System | Email Marketing Software | Email Responder | Auto Responder | Email Deliverabiliy
 
 Platinum Synergy realizes that you care how your information is processed and shared, and we appreciate your trust in us to do that carefully and sensibly. This notice describes our Privacy Policy. By visiting our website ([www.platinumsynergy.com](http://www.platinumsynergy.com/)), as well as our associated websites [www.responsemagic.com](http://www.responsemagic.com/) , [www.synergyroom.com](http://www.synergyroom.com/) you are accepting and consenting to the practices described in this Privacy Policy. 
 
