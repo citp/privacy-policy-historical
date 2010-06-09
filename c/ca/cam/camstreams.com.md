@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the camstreams.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426073454id_/http%3A//www.camstreams.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the camstreams.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609135523id_/http%3A//www.camstreams.com/privacy.asp) for the most accurate reproduction.*
 
 # Streaming Webcams - providing free streaming to webcam users - Privacy Policy
 
