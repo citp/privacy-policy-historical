@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115164049id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askia.com privacy policy that was archived on 2010-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100609153401id_/http%3A//www.askia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Askia - Software for surveys
 
@@ -37,12 +37,12 @@ You can correct factual errors in your personally identifiable information by se
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
 **How To Contact Us**  
-Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20091115164049id_/http%3A//www.askia.com/contact@askia.com).
+Should you have other questions or concerns about these privacy policies, please call us at +33 1 44 836 832 or send us an email at [contact@askia.com](https://web.archive.org/web/20100609153401id_/http%3A//www.askia.com/contact@askia.com).
 
 ### Latest news
 
 [Subscribe](https://web.archive.org/news/feed)
 
-#### [Askia at SEMO exhibition 2009!](https://web.archive.org/news/askia-at-semo-2009)
+#### [Askia User Conference: the programme](https://web.archive.org/news/first-askia-user-conference-programme)
 
-Askia will be exhibiting at the SEMO exhibition again this year. As you're well aware the [SEMO](http://www.salon-semo.com/) exhibition is the largest meeting place in France providing a unique display exchange place for market research institutes... 
+At the moment we have more than **80 registered delegates** representing more than **40 MR companies and 9 countries**. **10 speakers** are already announced and more might be joining very soon. 
