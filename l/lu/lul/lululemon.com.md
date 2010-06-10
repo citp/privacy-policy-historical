@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202140444id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lululemon.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610210213id_/http%3A//www.lululemon.com/privacy) for the most accurate reproduction.*
 
 # lululemon athletic, yoga-inspired athletic apparel: our privacy policy
 
