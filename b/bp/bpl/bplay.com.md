@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2009-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090801112506id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bplay.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610154648id_/http%3A//www.bplay.com/privacy.php) for the most accurate reproduction.*
 
-# Bplay : BlackBerry Games
+# BlackBerry Games, Themes, Apps and Ringtones | Bplay
 
 Magmic Inc. is committed to protecting the privacy of our users and customers. We consider the security of personal information to be of the highest importance, and have established standards to maintain and guard against unauthorized access to user information. The following privacy policy outlines how Magmic Inc. collects personal information and what we do with the information once it is collected.   
 
@@ -33,7 +33,7 @@ We collect certain types of information as part of our normal website operations
 When you visit our website, our web servers automatically collect information about each transaction between your device and our servers. This is a practice common to all web servers known as server logging. Server logs can contain, but are not limited to, your IP address (a number associated with your internet service provider, company, or educational institution), transaction date, browser type, request type (GET or POST), session IDs, and cookie information. This information is normally used to generate information about general usage on our site and to improve our website. It may or may not be associated with your personal information.
 
 **Cookies**  
-Cookies are files stored on your computer by websites that you visit. You can control, using your browserï¿½s preferences, how cookies are treated, which sites may use them on your device, and how you are notified of their use. We use cookies for various purposes on our websites to enhance user experience and to provide information about general usage trends on our site.
+Cookies are files stored on your computer by websites that you visit. You can control, using your browser's preferences, how cookies are treated, which sites may use them on your device, and how you are notified of their use. We use cookies for various purposes on our websites to enhance user experience and to provide information about general usage trends on our site.
 
 **Other types of information we may collect**  
 We reserve the right to request other types of information in the future.
