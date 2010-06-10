@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119010643id_/http%3A//www.equileaseone.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equileaseone.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610034602id_/http%3A//www.equileaseone.com/privacypolicy.html) for the most accurate reproduction.*
 
 # EquiLeaseOne.com Privacy Policy
 
