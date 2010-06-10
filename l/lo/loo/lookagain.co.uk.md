@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2008-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lookagain.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp%3Fqid%3D670) for the most accurate reproduction.*
 
 # What is your privacy policy? - LookAgain Help
 
-  * [Help](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
-  * [Privacy](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
+  * [Help](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/index.asp)
+  * [Privacy](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/category.asp?cid=108)
 
 
 
@@ -30,7 +30,6 @@ We may share your details to third parties whose offers we think might interest 
 
 This information will not be used for any other purpose. If you do not want us to use your information for third party marketing purposes, please write to us at:  
 Look Again  
-Otto House  
 Ingleby Road  
 Bradford  
 BD99 2XG 
@@ -51,6 +50,6 @@ Our courier service will have selected access to your details for delivery purpo
 
 ## Other questions in this section:
 
-  * [What is your data protection policy?](https://web.archive.org/web/20080630021701id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp?qid=671)
+  * [What is your data protection policy?](https://web.archive.org/web/20100610062958id_/http%3A//www.lookagain.co.uk/web/main/help/question.asp?qid=671)
 
 
