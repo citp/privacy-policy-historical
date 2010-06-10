@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2009-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090503130352id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbizwebsites.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191135id_/http%3A//www.yourbizwebsites.com/Privacy.html) for the most accurate reproduction.*
 
 # Grab Your FREE Website - TODAY - From YourBizWebsites
 
