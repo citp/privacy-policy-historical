@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913110949id_/http%3A//www.smilecity.co.nz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smilecity.co.nz privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610143256id_/http%3A//www.smilecity.co.nz/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - SmileCity
 
@@ -9,20 +9,17 @@ Privacy Policy
   
 
 
-##### How does SmileCity use the information I provide?
+##### How does SmileCity use the information I provide in the Account Settings and Rewards Profile?
 
-SmileCity uses the information you provide in your account settings and account profile to target and personalise the emails and surveys we send to you and the offers we make available to you. We do this to ensure that you only receive relevant and appropriate information.
+SmileCity uses the information you provide in your Account Settings and Rewards Profile to target and personalise the emails, surveys and letters we send to you and the offers we make available to you. We do this to ensure that you only receive relevant and appropriate information.
 
-**SmileCity will not sell or give away your personal information** to any other person, company or organisation, unless:
+Demographic and profile data is only shared with SmileCity clients and advertisers on an aggregate or collective basis. For example, we might tell our clients that 3680 of our members live in a particular town or suburb, or that 43% of our members have indicated an interest in sport.
 
-  1. it is required by law, or;
-  2. you expressly agree to us giving out your information.
+Your personally identifiable information such as your name, address or email address will never be sold to any third party. Your personally identifiable information may be shared with a third party if it is required by law. Your personally identifiable information may also be shared with a third party (for example a supplier or partner of ours) if it is necessary for us to process a transaction that you request, or if you opt-in to a service or feature where we outsource some aspects of the provision of that service or feature. For example, if you opt in to the Postal Rewards feature, we may share your postal address with a mail processing company that sends mail to you on our behalf. We have strict legal agreements in place that prevent any third party from using that information more than once, or for any purpose beyond what is allowed for in the agreement.
 
+##### What is the Community Profile and what happens to the information I provide there?
 
-
-One exception to this is when you are the winning bidder on an auction item sponsored by a third party. By bidding on that auction item, you agree to SmileCity passing on your details to the third party for the purpose of delivery of the auction item. If you do not wish for your details to be shared in such a way, do not bid on such auctions.
-
-Demographic and profile data is only shared with SmileCity clients and advertisers on an aggregate or collective basis. For example, we might tell our clients that 3680 of our members live in a particular town or suburb, or that 43% of our members have indicated an interest in sport. However, we will never tell our clients your name, your postal address or your email address and other such information.
+The Community Profile is a separate section, unrelated to the Rewards Profile. Filling in your Community Profile is completely optional. Any information you enter and any photo you upload to the Community Profile is published on the web site and available for viewing by the public. Therefore if you wish to use the Community Profile feature, you should only enter information of a general nature that you are comfortable sharing publicly.
 
 ##### What happens to the answers I give in an online survey?
 
@@ -58,10 +55,10 @@ We respect your time and attention. We will never send to you more than fourteen
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-To unsubscribe now, [click here](https://web.archive.org/web/20090913110949id_/http%3A//www.smilecity.co.nz/Account/Settings.aspx).
+To unsubscribe now, [click here](https://web.archive.org/web/20100610143256id_/http%3A//www.smilecity.co.nz/Account/Settings.aspx).
 
-**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20090913110949id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx).
+**If you have received unwanted email sent from SmileCity,** or purporting to be sent from SmileCity, please [contact SmileCity](https://web.archive.org/web/20100610143256id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx).
 
-**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20090913110949id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy and permission practices of the SmileCity Web site or your dealings with SmileCity Ltd, please [contact SmileCity](https://web.archive.org/web/20100610143256id_/http%3A//www.smilecity.co.nz/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
-This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20090913110949id_/http%3A//www.smilecity.co.nz/Terms.aspx).
+This statement should be read in conjunction with the SmileCity [Terms of Service](https://web.archive.org/web/20100610143256id_/http%3A//www.smilecity.co.nz/Terms.aspx).
