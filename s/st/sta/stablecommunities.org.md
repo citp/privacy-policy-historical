@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the stablecommunities.org privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612205304id_/http%3A//www.stablecommunities.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stablecommunities.org privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610080211id_/http%3A//www.stablecommunities.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-#### **NeighborWorks® America Web Site Privacy Policy**
 
 NeighborWorks America respects the privacy of every individual who visits our Web site. We understand that visitors to our Web site may be concerned about the type of information that we collect from visitors and how we treat such information. Please take a moment to read our Web site Privacy Policy.
 
@@ -34,5 +32,4 @@ For Web site security purposes and to ensure that this service remains available
 
 #### **Linking to Web sites Outside NeighborWorks America**
 
-Our Web site has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.  
- 
+Our Web site has many links to other sites. When you link to any of these sites, you are no longer on our site and are subject to the privacy policy of the new site.
