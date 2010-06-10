@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vendorseek.com privacy policy that was archived on 2009-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090417063609id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vendorseek.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610070608id_/http%3A//www.vendorseek.com/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -26,78 +26,123 @@
 	function chkEmail(email)
 {}
 
+
 	function validate()
 	{
+		if(document.frmreq.firstname.value=='')
+		  {
+			alert('Please Enter your First Name');
+			document.frmreq.firstname.focus();
+			return false;
+		  }
+		if(document.frmreq.lastname.value=='')
+		  {
+			alert('Please Enter your Last Name');
+			document.frmreq.lastname.focus();
+			return false;
+		  }
 
-	if(document.frmreq.company.value == 0)
-	  {
-		alert('Please Enter the Company Name');
-		document.frmreq.company.focus();
-		return false;
-	  }
-  
-  if(document.frmreq.street.value == 0)
-	  {
-		alert('Please Enter the Street Address');
-		document.frmreq.street.focus();
-		return false;
-	  }
+		if(document.frmreq.company.value == 0)
+		  {
+			alert('Please Enter the Company Name');
+			document.frmreq.company.focus();
+			return false;
+		  }
 
-if(document.frmreq.city.value == 0)
-	  {
-		alert('Please Enter the City');
-		document.frmreq.city.focus();
-		return false;
-	  }
+	 	 if(document.frmreq.street.value == 0)
+		  {
+			alert('Please Enter the Street Address');
+			document.frmreq.street.focus();
+			return false;
+		  }
 
-if(document.frmreq.state.value == 0)
-	  {
-		alert('Please Enter the State');
-		document.frmreq.state.focus();
-		return false;
-	  }
+		if(document.frmreq.city.value == 0)
+		  {
+			alert('Please Enter the City');
+			document.frmreq.city.focus();
+			return false;
+		  }
+
+		if(document.frmreq.state.value == 0)
+		  {
+			alert('Please Enter the State');
+			document.frmreq.state.focus();
+			return false;
+		  }
+
+		if(document.frmreq.zip.value=='')
+		  {
+			alert('Please enter zip code');
+			document.frmreq.zip.focus();
+			return false;
+		  }
+
+		if(document.frmreq.zip.value !='' )
+		  {
+			if (document.frmreq.zip.value.length < 5)
+			{
+			alert('Please Enter correct Zip code (Zip code should be = or > 5 )');
+			document.frmreq.zip.focus();
+			return false;
+			}
+
+		  }
+
+		if(document.frmreq.name.value == 0)
+		  {
+			alert('Please Enter the Contact Name');
+			document.frmreq.name.focus();
+			return false;
+		  }
 
 
-if(document.frmreq.name.value == 0)
-	  {
-		alert('Please Enter the Contact Name');
-		document.frmreq.name.focus();
-		return false;
-	  }
+		if(document.frmreq.phone.value == 0)
+		  {
+			alert('Please Enter the Phone Number');
+			document.frmreq.phone.focus();
+			return false;
+		  }
 
 
-if(document.frmreq.phone.value == 0)
-	  {
-		alert('Please Enter the Phone Number');
-		document.frmreq.phone.focus();
-		return false;
-	  }
+		if(document.frmreq.email.value == 0)
+		  {
+			alert('Please Enter the Email ID');
+			document.frmreq.email.focus();
+			return false;
+		  }
+		if(document.frmreq.employee.value == 0)
+		{
+			alert('Please Enter the Employee Size');
+			document.frmreq.employee.focus();
+			return false;
+		}
 
+		if(document.frmreq.industry.value == 0)
+		{
+			alert('Please Enter the Industry');
+			document.frmreq.industry.focus();
+			return false;
+		}
 
-if(document.frmreq.email.value == 0)
-	  {
-		alert('Please Enter the Email ID');
-		document.frmreq.email.focus();
-		return false;
-	  }   
-   
+		if(document.frmreq.url.value == 0)
+		{
+			alert('Please Enter the Company Website');
+			document.frmreq.url.focus();
+			return false;
+		}
+
+		if(document.frmreq.position.value == 0)
+		{
+			alert('Please Enter the Position or Title in company');
+			document.frmreq.position.focus();
+			return false;
+		}
+
 
     return true;
-}			
-/*		  
-if (document.frmreq.captchano.value == '') {
-	alert('Please enter code you see in image.');
-	document.frmreq.captchano.focus();
-	return false;
-}*/	  
-/*if(document.frmreq.contact.selectedIndex == 0)
-	  {
-		alert('Please Select the Contact Mode');
-		document.frmreq.contact.focus();
-		return false;
-	  }
-  */		
-  
+}
+
+
 </script></head>
 
 	
@@ -159,13 +204,17 @@ function specialKeyPress(){
     </td>
     <td>
     <div align="right">
-<!-- Chat tag for Account VS (ID: 1), Site VendorSeek.com (ID: 1), Queue Live Chat (ID: 2)  -->
-<table border="0"><tbody><tr><td>
-<a href="javascript: var e = window.open('http://www.vendorseek.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&amp;siteID=1&amp;queueID=2',
-'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');" onmouseout="top.status=''; return true;" onmousedown="top.status='Chat with a company representative';return true;" onmouseover="top.status='Chat with a company representative';return true;">
-<img border="0" src="/SightMaxAgentInterface/chat.smgif?accountID=1&amp;siteID=1&amp;queueID=2" alt="Live chat by SightMax"></a></td></tr>
-</tbody></table>
-<!-- end of chat tag -->
+<!-- Chat tag for Account VS (ID: 1), Site VendorSeek.com (ID: 1), Queue Live Chat (ID: 2) 
+<table border='0'><tr><td>
+<a href="javascript: var e = window.open('http://www.vendorseek.com/SightMaxAgentInterface/PreChatSurvey.aspx?accountID=1&siteID=1&queueID=2',
+'chatWindow','width=490,height=404,resizable=0,scrollbars=no,menubar=no,status=no');"
+onmouseout="top.status=''; return true;"
+onmousedown="top.status='Chat with a company representative';return true;"
+onmouseover="top.status='Chat with a company representative';return true;">
+<img border=0 src="/SightMaxAgentInterface/chat.smgif?accountID=1&siteID=1&queueID=2"
+alt="Live chat by SightMax"></a></td></tr>
+</table>
+ end of chat tag -->
     </div>
     </td>
   </tr>
@@ -187,10 +236,10 @@ function specialKeyPress(){
 		<tbody><tr>
 			<td align="left" valign="top" width="770">
 			<div style="padding: 0 0 0 3px;">
-<div style="float:right; padding:15px 15px 0 0;">Last Updated 9/10/08</div>
+<div style="float:right; padding:15px 15px 0 0;">Last Updated 07/17/09</div>
 <h1>Privacy Policy</h1>
 <div class="article">
-If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to VendorSeek.com, 520 Fellowship Rd, Suite 102, Mt. Laurel, NJ 08054 or via email to <a href="mailto:custserv@VendorSeek.com" class="blue">custserv@VendorSeek.com</a>.<br>
+If you have questions or concerns regarding this statement, you should first contact Customer Service in writing to QuinStreet 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404 or via our <a target="_blank" href="/contactus.asp">Contact Us</a> form on our website.<br>
 <br>  
 
 <div align="center"><a href="http://www.truste.org/ivalidate.php?url=www.VendorSeek.com&amp;sealid=101" target="_blank"><img src="/images/truste_seal_ctv.gif"></a></div>
@@ -206,15 +255,15 @@ If you have questions or concerns regarding this privacy policy, please see our 
 <strong>Your privacy is our main concern.</strong><br><br> 
 
 The following privacy policy details how we gather information, how that information is shared, and what practices VendorSeek.com implements to ensure your information is safe and protected. <br><br> 
-Use of www.VendorSeek.com (the “Website”) to receive quotes or to register as a Vendor in our Approved Vendor Network indicates your agreement with this privacy policy. <br><br>
+Use of www.VendorSeek.com (the "Website") to receive quotes or to register as a Vendor in our Approved Vendor Network indicates your agreement with this privacy policy<br><br>
 
 This privacy policy does not apply to the practices of companies that VendorSeek.com does not own or control, or to people who VendorSeek.com does not employ. <br><br>
 
 <strong>Your California Privacy Rights</strong><br><br>  
 
-California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes.  That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. <br><br>  
+California has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer’s personal information (as defined by the act) to any third party for direct marketing purposes to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information.<br><br>  
 
-If you are a California resident you may request this information from VendorSeek.com or any of its affiliates by writing to us via email at custserv@VendorSeek.com or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404.   VendorSeek.com is not obligated to respond to more than one such request from a customer per calendar year. <br><br>
+If you are a California resident you may request this information from VendorSeek.com or any of its affiliates by completing our <a target="_blank" href="/contactus.asp">Contact Us</a> form or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404. VendorSeek.com is not obligated to respond to more than one such request from a customer per calendar year.<br><br>
 
 
 <strong>What information does VendorSeek.com gather?</strong><br><br>  
@@ -255,7 +304,7 @@ Cookies are stored only if you select to save your password on the login screen.
  <br><br>
 
 
-This privacy policy covers the use of cookies by www.VendorSeek.com only.  Some of our business partners (e.g., advertisers) use cookies on our Website. We have no access to or control over these cookies.  You may disable or reject cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of VendorSeek.com. Having trouble while cookies is disabled? Call our Customer Service department at (800) 446-1073.  <br><br>
+This privacy policy covers the use of cookies by www.VendorSeek.com only.  Some of our business partners (e.g., advertisers) use cookies on our Website. We have no access to or control over these cookies.  You may disable or reject cookies if your browser permits. Please be advised that this may prevent you from accessing certain features of VendorSeek.com. Having trouble while cookies is disabled? Contact our Customer Service department via our <a target="_blank" href="/contactus.asp">Contact Us</a> form<br><br>
 
 
 <em>Log Files:</em><br><br>
@@ -340,7 +389,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. <br><br>
 
-If you have any questions about security on our Website, you may email us at custserv@VendorSeek.com.<br><br>
+If you have any questions about security on our Website, please complete our <a target="_blank" href="/contactus.asp">Contact Us</a> form and we will respond.<br><br>
 
 
 
@@ -359,7 +408,7 @@ In order for VendorSeek.com to service you properly, you will need to provide us
 
 <strong>Access - changing information:</strong><br><br>
 
-Vendors with VendorSeek.com can change profile information at any time by accessing their profiles with the appropriate sign-in name and password. Individuals who place requests can update, change or remove information by contacting custserv@VendorSeek.com. <br><br>
+Vendors with VendorSeek.com can change profile information at any time by accessing their profiles with the appropriate sign-in name and password. Individuals who place requests can update, change or remove information by filling out our <a target="_blank" href="/contactus.asp">Contact Us</a> form on our website. <br><br>
 
 
 
@@ -373,7 +422,7 @@ Vendors with VendorSeek.com can change profile information at any time by access
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes when we ask for this information. For example, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form. <br>
 <br>
 
-If you no longer wish to receive our newsletter and promotional communications or other additional marketing material, you may opt-out of receiving them by following the instructions included in each newsletter or communication or other marketing material or by e-mailing us at custserv@VendorSeek.com.<br>
+If you no longer wish to receive our newsletter and promotional communications or other additional marketing material, you may opt-out of receiving them by following the instructions included in each newsletter or communication or other marketing material or by filling out our <a target="_blank" href="/contactus.asp">Contact Us</a> form on our website.<br>
 <br>
 
 <u>Non-Personally Identifiable Information – Opting out:</u><br>
@@ -405,7 +454,7 @@ VendorSeek.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an indepen
 
 <strong>Contact Details:</strong>
 
-If you have questions or concerns regarding this privacy policy, you should first contact us via email at <a href="mailto:custserv@VendorSeek.com" class="blue">custserv@VendorSeek.com</a> or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a href="http://www.truste.org/consumers/watchdog_complaint.php" class="blue"> http://www.truste.org/consumers/watchdog_complaint.php</a> where you may submit a complaint.  TRUSTe will then serve as a liaison with us to resolve your concerns.<br>
+: If you have questions or concerns regarding this privacy policy, you should first complete our <a target="_blank" href="/contactus.asp">Contact Us</a> form or you may send us correspondence at the following address: 1051 East Hillsdale Boulevard, 8th floor, Attention: Business-to-Business, Foster City, CA 94404. If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at <a target="_blank" href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a> where you may submit a complaint. TRUSTe will then serve as a liaison with us to resolve your concerns.<br>
 <br>
 
 
@@ -424,7 +473,7 @@ If you have questions or concerns regarding this privacy policy, you should firs
 			<table cellpadding="0" cellspacing="0" width="230">
 			<tbody><tr>
 				<td valign="top">
-					<h1 class="searchheading">Search VendorSeek</h1><form method="get" action="/search_live.asp" privacy.asp"="" class="zoom_searchform">
+					<h3 class="searchheading">Search VendorSeek</h3><form method="get" action="/search_live.asp" privacy.asp"="" class="zoom_searchform">
 <table cellpadding="0" cellspacing="0"><tbody><tr><td><input type="text" name="zoom_query" size="17" value="" class="zoom_searchbox"></td>
 <td>&nbsp;<input type="submit" value="Search" class="zoom_button"></td></tr></tbody></table>
 <input type="hidden" name="zoom_per_page" value="10">
@@ -479,6 +528,7 @@ If you have questions or concerns regarding this privacy policy, you should firs
 		</td>
 	</tr>
 	<!-- Footer starts here -->
+
 	<tr class="extra">
 		<td style="padding:30px 0 0 0;" colspan="2" align="center">
 		<table cellpadding="0" cellspacing="0" width="100%" align="center">
@@ -502,16 +552,14 @@ If you have questions or concerns regarding this privacy policy, you should firs
 		</tr>
 		<tr>
     		<td style="padding:10px 0 0 0;" class="footer" width="50%" align="left">
-				<div style="padding:5px 0px 0px 10px">SF<br>
 				<a class="footer" href="/sitemap.asp">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a class="footer" href="/terms_of_use.asp" rel="nofollow">Terms of Use</a>&nbsp;&nbsp;|&nbsp;&nbsp;
 				<a class="footer" href="/privacy.asp" rel="nofollow">Privacy Policy</a><br>
 				<a class="footer" href="/become_vendor.asp">Get Pre-Qualified Sales Leads</a><br>
-				Copyright 2002-2008. vendorseek.com  All Rights Reserved.</div></td>
+				Copyright 2002-2008. vendorseek.com  All Rights Reserved.</td>
 			<td style="padding:10px 0 0 0;" align="right" class="footer" width="50%">
 				<div style="padding:5px 10px 0px 0px">
-				Phone: (800) 446-1073<br>
-                Fax: (856)-222-9611 </div></td>
+				&nbsp;</div></td>
   		</tr>
 		</tbody></table>
 		</td>
@@ -530,18 +578,12 @@ urchinTracker();
 </script>
 
 
-<!-- Monitor tag for Account VS (ID: 1), Site vendorseek-test-site.com (ID: 1), Queue Live Chat (ID: 2) -->
-<!--<script language=javascript src="/SightMaxAgentInterface/Monitor.smjs?accountID=1&siteID=1&queueID=2"></script>-->
-
-
-
 <!-- webtrends start -->
 <script language="JavaScript" type="text/javascript">
 	var gDomain="www.qsstats.com";
 	var gDcsId="dcshl4i9yr4tuuvvdjhrljh9n_9u7d";
 	var gFpc="WT_FPC";
 	var gConvert=true;
-
 	if ((typeof(gConvert)!="undefined")&&gConvert&&(document.cookie.indexOf(gFpc+"=")==-1)&&(document.cookie.indexOf("WTLOPTOUT=")==-1)){
 		document.write("<SCR"+"IPT TYPE='text/javascript' SRC='"+"http"+(window.location.protocol.indexOf('https:')==0?'s':'')+"://"+gDomain+"/"+gDcsId+"/wtid.js"+"'><\/SCR"+"IPT>");
 	}
@@ -551,9 +593,7 @@ urchinTracker();
 </script>
 
 <script type="text/javascript" src="/wt/webtrends.js"></script>
-
 <noscript><img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://www.qsstats.com/dcshl4i9yr4tuuvvdjhrljh9n_9u7d/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.0.2" /></noscript>
 <!-- webtrends end -->
-
 
 </body></html>
