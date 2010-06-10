@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210210631id_/http%3A//www.salesheads.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesheads.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610220926id_/http%3A//www.salesheads.com/mkt/content/js/default.asp%3Fpg%3Dprivacy) for the most accurate reproduction.*
 
 # Sales Jobs, Sales Careers – SalesHeads.com
 
