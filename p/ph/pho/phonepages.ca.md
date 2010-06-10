@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the phonepages.ca privacy policy that was archived on 2008-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080523130914id_/http%3A//www.phonepages.ca/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonepages.ca privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610204031id_/http%3A//phonepages.ca/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# PhonePages Local Online Search
+# Phone Pages Privacy Policy
 
 **OUR COMMITMENT: RESPECTING AND PROTECTING OUR CUSTOMERS' PRIVACY**
 
@@ -56,9 +56,9 @@ Phonepages does not provide any personal information to the advertiser when you 
 
 
 
-If Phonepages learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Phonepages may post a notice on our Web site if a security breach occurs. If this happens, you will need a Web browser enabling you to view the Phonepages Web site. Phonepages may also send an e-mail to you at the e-mail address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving an electronic notice) you should notify us at privacy at phonepagesinc dot com.
+If Phonepages learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using this Web site or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of this site. Phonepages may post a notice on our Web site if a security breach occurs. If this happens, you will need a Web browser enabling you to view the Phonepages Web site. Phonepages may also send an e-mail to you at the e-mail address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving an electronic notice) you should notify us at [ privacy at phonepagesinc dot com](mailto:privacy@phonepagesinc.com "Email Privacy Policy on PhonePages").
 
-If you believe your Phonepages account has been compromised, please report the incident using our [contact page](https://web.archive.org/web/20080523130914id_/http%3A//www.phonepages.ca/contact.php "Contact Us on PhonePages"). In the event that you believe that your personal safety is at risk or if you believe that you may be the victim of identity theft or other illegal conduct, please contact the appropriate federal, state or local law enforcement agencies directly. 
+If you believe your Phonepages account has been compromised, please report the incident using our [contact page](http://www.phonepages.ca/Contactus.aspx "Contact Us on PhonePages"). In the event that you believe that your personal safety is at risk or if you believe that you may be the victim of identity theft or other illegal conduct, please contact the appropriate federal, state or local law enforcement agencies directly. 
 
 **PRIVACY POLICY UPDATES**
 
@@ -68,4 +68,4 @@ Our Privacy Policy is regularly reviewed and revised to make sure we continue to
 
 **CONTACTING US: QUESTIONS, COMMENTS, & CONCERNS:**
 
-Phonepages will happily address any concerns about its online privacy practices and policies; please e-mail us at privacy at phonepagesinc dot com. 
+Phonepages will happily address any concerns about its online privacy practices and policies; please e-mail us at [ privacy at phonepagesinc dot com](mailto:privacy@phonepagesinc.com "Email Privacy Policy on PhonePages"). 
