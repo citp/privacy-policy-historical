@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2009-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090228085150id_/http%3A//www.yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourcollegeplan.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610174634id_/http%3A//www.yourcollegeplan.com/privacy.html) for the most accurate reproduction.*
 
 # YourCollegePlan.com
 
@@ -45,11 +45,11 @@ If you do not want Us to collect information, do not input any data on Our Web s
 **WITH WHOM WILL THE INFORMATION BE SHARED?**   
 We may share Information about you with other people or nonaffiliated companies or for particular purposes including, without limitation, the purposes described below. In all cases, you may opt-out of sharing your Information with such providers by choosing not to use or register for that service or content. Please see "Offering You Choices-Marketing Options" below for information on how to opt-out of sharing your Information. 
 
-  * **Products or Service Requests** \- If you submit a request for a product or service on Our Web site, We will share Information about you contained in the request form with Our business partners (such as a University) to process and fulfill your request. Our business partners may contact you by telephone, e-mail, or mail based on the Information you provided to Us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of Our business partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.
+**Products or Service Requests** \- If you submit a request for a product or service on Our Web site, We will share Information about you contained in the request form with Our business partners (such as a University) to process and fulfill your request. Our business partners may contact you by telephone, e-mail, or mail based on the Information you provided to Us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission, any state equivalent Do Not Call List, or the Do Not Call List of a specific company. If one of Our business partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again. 
 
-  * **Subsidiaries** , Parent, or Sister Companies: We may share Information about you with Our subsidiaries, sister companies, parent company, successors, and assigns unless you opt-out of sharing Information with such parties. Please see "Offering You Choices - Marketing Options" below for information on how to opt-out of sharing your Information.
+**Subsidiaries** , Parent, or Sister Companies: We may share Information about you with Our subsidiaries, sister companies, parent company, successors, and assigns unless you opt-out of sharing Information with such parties. Please see "Offering You Choices - Marketing Options" below for information on how to opt-out of sharing your Information. 
 
-  * **Required by Law:** We may also share Information about you as permitted or required by law including, without limitation, inquires by law enforcement or to comply with Federal laws including, without limitation, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 ("CAN-SPAM Act of 2003"). We reserve the right to disclose your personally identifiable information as required by law and when We believe that disclosure is necessary to protect Our rights and/or to comply with a judicial proceeding, court order, or legal process served on Our Web site.
+**Required by Law:** We may also share Information about you as permitted or required by law including, without limitation, inquires by law enforcement or to comply with Federal laws including, without limitation, the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003 ("CAN-SPAM Act of 2003"). We reserve the right to disclose your personally identifiable information as required by law and when We believe that disclosure is necessary to protect Our rights and/or to comply with a judicial proceeding, court order, or legal process served on Our Web site.
 
 
 
@@ -57,9 +57,9 @@ We may share Information about you with other people or nonaffiliated companies 
 **OFFERING YOU CHOICES - MARKETING OPTIONS**   
 If you sign up on Our Web site to receive more information regarding any school, signing up as an affiliate, or register as a vendor you will receive promotional emails from Us. However, you have choices when it comes to learning about new offers or services. If you do not wish to receive offers of products or services from Us, Our sister companies, or partners, here are the methods you may employ to opt-out: 
 
-  * **E-mail Opt-out Options:** Each marketing e-mail We send includes instructions and an unsubscribe link.
+**E-mail Opt-out Options:** Each marketing e-mail We send includes instructions and an unsubscribe link. 
 
-  * **Refusing Cookies:** Subject to the section below pertaining to cookies, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task.
+**Refusing Cookies:** Subject to the section below pertaining to cookies, you have the ability to prohibit being served an advertisement based on cookie technology. We utilize reputable third-party vendors to serve advertisements. If however, you are not comfortable with cookies, you can adjust the settings within your browser to further prohibit being served a cookie. Please see the browser's instructions to perform this task.
 
 
 
