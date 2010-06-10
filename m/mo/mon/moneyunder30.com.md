@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2009-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091019112130id_/http%3A//www.moneyunder30.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyunder30.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610020028id_/http%3A//www.moneyunder30.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Money Under 30
 
