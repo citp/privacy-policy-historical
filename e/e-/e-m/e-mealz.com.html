@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-mealz.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214054231id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-mealz.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610094545id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
   <title>E-mealz - a meal planning resource for busy moms and frugal family cooks.</title>
@@ -17,7 +17,7 @@
   <![endif]-->
   
   <link rev="replyto" href="feedback@e-mealz.com">
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
   <script type="text/javascript">
     <!--
     function MM_swapImgRestore() { //v3.0
@@ -43,12 +43,12 @@
       if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
     }
     //-->
-		$(document).ready(function() {
-			$('#southern_living').fadeOut('slow').fadeIn('slow').fadeOut('slow').fadeIn('slow').fadeOut('slow').fadeIn('slow');
-		});
+		
   </script>
   
   <script type="text/javascript" src="/overlibmws.js"></script>
+  <script type="text/javascript" src="/rollovers.js"></script>
+  
   <link rel="stylesheet" href="/newdefault2.css">
   <link href="/favicon.ico" rel="shortcut icon" type="image/ico">
 </head>
@@ -57,10 +57,10 @@
   <div id="overDiv" style="position:absolute; visibility:hidden; z-index:1000;"></div>
   
   <div id="container">
-    <a href="mealtimemakeover.shtml" id="mealtimemakeover">mealtimemakeover.com</a>
+    <!-- <a href="mealtimemakeover.shtml" id="mealtimemakeover">mealtimemakeover.com</a> -->
     
-    <div id="southern_living" style="z-index:10;">
-       <a href="http://e-mealz.com/Holiday-Crockpot-Giveaway.shtml"><img src="/images/promotions/2009-christmas/icon_santa_turkey.png" width="264" height="73" alt="Holiday Crockpot Giveaway"> <img src="/images/promotions/2009-christmas/CP09_ornament_sm.png" alt="Holiday Crockpot Giveaway"></a>
+    <div id="haiti">
+      <a href="/haiti"><img src="/haiti/images/OurHEART4Haiti_logo-header.png" width="371" height="68" border="0"></a>
     </div>
     
     <div id="logo">
@@ -69,13 +69,13 @@
     
     <div id="main_container">
       <div id="header">
-        <img src="/images/swirly.png" id="swirly" alt="swirl" width="291" height="381">
+        <!-- <img src="/images/swirly.png" id="swirly" alt="swirl" width="291" height="381" /> -->
         
         <div id="daveramsey">
           <img src="/images/dave-ramsey2.png" width="395" height="114" alt="E-mealz really does save you a ton of time and money, and at $5 a month, this is a no-brainer!">
         </div>
       </div>
-    
+      
       <div id="navigation">
         <a href="/index.shtml">home</a>
         <a href="/how.shtml">how does it work?</a>
@@ -85,30 +85,58 @@
         <a href="/links.shtml">links</a>
         <a href="/about.shtml">about</a>
       </div>
-    
+      
       <div id="left_side">
-        <div class="container_2">
-          <a href="/amember/signup.php">subscribe now!</a>
+        <div>
+          <a href="/amember/signup.php"><img src="/images/navigation/subscribe_now.png" height="44" width="239" alt="Subscribe Now!" class="rollover" id="lhs-signup"></a>
         </div>
-        <div class="container_2">
-          <a href="/amember/member.php">members enter here</a>
+        <div>
+          <a href="/amember/member.php"><img src="/images/navigation/members_enter_here.png" height="44" width="239" alt="Members Enter Here" class="rollover" id="lhs-member"></a>
         </div>
-        <div class="container_2">
-          <a href="/coupons.shtml">jane's coupon tips </a>
+        <div>
+          <a href="/coupons.shtml"><img src="/images/navigation/janes_coupon_tips.png" height="44" width="239" alt="Jane's Coupon Tips" class="rollover" id="lhs-coupons"></a>
         </div>
-        <div class="container_2" id="gift_left">
-          <a href="/gift.shtml">give the gift</a>
+        <div>
+          <a href="/gift.shtml"><img src="/images/navigation/give_the_gift.png" height="44" width="239" alt="Give The Gift" class="rollover" id="lhs-gift"></a>
         </div>
-        <div class="container_2" id="twitter_left">
-          <a href="http://twitter.com/EMEALZ">follow us on twitter</a>
+        <div>
+          <a href="http://twitter.com/EMEALZ"><img src="/images/navigation/follow_us_on_twitter.png" height="44" width="239" alt="Follow us on Twitter" class="rollover"></a>
         </div>
-        <div class="container_2" id="facebook_left">
-          <a href="http://www.facebook.com/pages/E-Mealz/138553919372">join us on facebook</a>
+        <div>
+          <a href="http://www.facebook.com/pages/E-Mealz/138553919372"><img src="/images/navigation/join_us_on_facebook.png" height="44" width="239" alt="Join us on Facebook" class="rollover"></a>
         </div>
+        <!-- Begin sidebar promotion -->
+          <form action="/amember/email/fathersdayrequest.php" target="_blank" method="post" style="margin:1em 0 0.5em;">
+            <div id="mom-sidebar">
+              <p><input name="subject" value=""></p>
+             <input type="text" name="email" value="" data-label="Email Address" id="sidebar-email">
+              <input type="submit" style="position:absolute; left:-300px; width:100px;" value="Request Recipe">
+              <a href="#" onclick="this.parentNode.parentNode.submit()" id="make-request"></a>
+            </div>
+          </form>
+          <style type="text/css">
+            #mom-sidebar { position:relative; width:235px; height:403px; background:url(/images/promotions/2010-fathersday/Homepage_FDicon.png); overflow:hidden; }
+            #mom-sidebar p { display:none; }
+            #make-request { position:absolute; left:80px; top:370px; width:90px; height:33px; }
+            #sidebar-email { position:absolute; left:20px; top:333px; width:195px; height:23px;
+              border:none; background:#fff; color:#333;
+              font:inherit; padding:1px 2px 3px; font-size:12px; line-height:20px;
+              box-sizing:content-box; -moz-box-sizing:content-box; -ms-box-sizing:content-box; -webkit-box-sizing:content-box; 
+            }
+            #sidebar-email.labeled { color:#aaa; }
+          </style>
+        <!-- End sidebar promotion -->
+        
+        <a href="http://e-mealz.com/vacation"><img src="/vacation/images/vacation-menu_icon-NEW.png" alt="Emealz Vacation Menu" border="0"></a> 
         <br>
-        <a href="http://e-mealz.com/gift.shtml"><img src="/images/gift_homepromo.jpg" border="0"></a>
+        <a href="http://e-mealz.com/gift.shtml"><img src="/images/GivetheGift_homepromo.png" alt="Give the Gift of E-mealz" border="0"></a> 
         <br>
-        <p style="text-align:center"><a href="https://www.securitymetrics.com/site_certificate.adp?s=66%2e70%2e120%2e92&amp;i=155139" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" style="border:0; padding:5px 0;"></a> &nbsp; <script type="text/javascript" src="https://seal.thawte.com/getthawteseal?host_name=e-mealz.com&amp;size=M&amp;lang=en"></script></p>
+        <p style="text-align:center">
+          <a href="https://www.securitymetrics.com/site_certificate.adp?s=66%2e70%2e120%2e92&amp;i=155139" target="_blank"><img src="https://www.securitymetrics.com/images/sm_ccsafe_check1.gif" alt="SecurityMetrics for PCI Compliance, QSA, IDS, Penetration Testing, Forensics, and Vulnerability Assessment" style="border:0; padding:5px 0;"></a>
+          <br>
+          <br>
+          <a href="http://www.InstantSSL.com" title="SSL Certificate Authority" style="font-family: arial; font-size: 10px; text-decoration: none;"><img src="/images/InstantSSL-DV_tl_white.gif" alt="Instant SSL Certificate" title="SSL Certificate Authority" border="0"></a>
+        </p>
       </div>
 		
 		<div id="bigcenter">
