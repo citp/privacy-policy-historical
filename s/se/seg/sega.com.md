@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429052242id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sega.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610062454id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SEGA ::
+
+Privacy Policy - Last updated on April 6, 2010
 
 [](http://www.esrb.org/confirm/sega-confirmation.jsp?)
 
@@ -21,7 +23,8 @@ Because the website you have come from displays the ESRB Privacy Online certific
   * SEGA's policy regarding links to websites operated by other companies;
   * How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;
   * The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;
-  * The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices; and,
+  * The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;
+  * How will I know if this privacy policy has changed? and,
   * SEGA's policy regarding the collection of information from children under 13.
 
   
@@ -33,6 +36,8 @@ This Privacy Policy currently applies to the following websites operated by SEGA
 
 > [www.sega.com](https://web.archive.org/home.php)  
 >  [www.segamobile.com](http://www.segamobile.com/)  
+>  [blogs.sega.com](http://blogs.sega.com/)  
+>  [forums.sega.com](http://forums.sega.com/)  
 > 
 
 In addition, SEGA may own several other domain names that point to the websites listed above. From time to time, we may add new websites and will take reasonable steps to update the list.  
@@ -54,6 +59,7 @@ In order to give you the best experience on our websites, SEGA may collect infor
   * Email a question to our customer service desk;
   * Register a product online; and/or,
   * Purchase a product or service online (e.g., Phantasy Star Online subscription).
+  * Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails
 
 
 
@@ -67,6 +73,8 @@ For some activities, we may also ask you to create a username and password and t
 ## How does SEGA use the information it collects?
 
 Generally, information that we collect for a particular purpose is used for that purpose only. For example, if you email us a question using our online Customer Service form, your personal information will only be used to provide a response to your inquiry. Similarly, information collected from those who register on one of our websites account is used to provide registrants the benefits that come along with registration, which often include a subscription to our newsletter, access to the latest game news and special offers, contests, and other features. In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest). If you choose to receive these additional services, we will use your information to provide them to you. If you choose to opt-in to receive e-mails from one of our partner companies (during registration for or participation in one of these events), we encourage you to visit such partner's website and read their policy before agreeing to provide your information to them.
+
+Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any SEGA website are not retained by SEGA and are only used to send a one-time email notification on your behalf.
 
 From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you. To extend these products or services to you, we may use your personal information to send out notices on their behalf. We strive to limit the notices and communications to those that we think you would appreciate receiving.
 
@@ -189,6 +197,14 @@ New York, NY 10017
 »Back to top  
  
 
+## How will I know if this privacy policy has changed?
+
+We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.
+
+Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.
+
+»Back to top
+
 ## SEGA's policy regarding children under 13:
 
 We do not knowingly collect personal information such as name and email address from children under 13. From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or parental permission. Such portions of our sites operate activities or provide services in a way that does not require prior parental consent.  
@@ -206,7 +222,7 @@ Children of all ages are encouraged to send their artwork for posting in our [So
 
 All SEGA games are rated by the Entertainment Software Ratings Board (ESRB) for their appropriateness for different age groups. Game information on SEGA.com includes the ESRB rating plus information about the ESRB rating system. You may wish to check the SEGA.com site for such game information before buying games for your children. The SEGA.com website itself carries the ESRB Privacy Certification seal, and is considered a "safe harbor" website.
 
-We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20090429052242id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
+We hope this page has answered many of your questions about our site. For more detailed information, see our Privacy Policy and [Terms of Use](https://web.archive.org/web/20100610062454id_/http%3A//www.sega.com/legal/terms.php). If you have any questions or concerns regarding online privacy, please contact us through our [Customer Support Online Form](http://help.sega.com/support/?group=segaamerica) and a customer support representative will answer your question shortly.
 
 »Back to top
 
