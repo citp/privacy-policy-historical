@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619050058id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunywcc.edu privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205400id_/http%3A//www.sunywcc.edu/wcc_disclaimer.htm) for the most accurate reproduction.*
 
 # Westchester Community College - Disclaimer
 
@@ -142,6 +142,8 @@ Items that could damage other computers.
 
 Commercials, soliciting for personal gain, or spam. 
 
+Profanity.
+
 The college reserves the right not to post comments. Please remember that the views and opinions expressed by bloggers are strictly those of the authors . Also understand that  the contents of blog entries may create lasting consequences, so be respectful and professional in your postings. By participating in any college blogs, you are responsible for your comments and you agree not to represent yourself as another individual. 
 
 **Social Networking Policy**
@@ -159,6 +161,8 @@ Personal attacks.
 Plagiarized material.
 
 Private information published without consent.
+
+Profanity.
 
 Material related to gambling. 
 
