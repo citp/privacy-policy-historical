@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2009-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090830015659id_/http%3A//tamebay.com/about-tamebay/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tamebay.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610190949id_/http%3A//tamebay.com/about-tamebay/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : TameBay : eBay news blog and forum
 
@@ -25,3 +25,8 @@ Your information is stored in a cookie for next time you visit the site. Most br
 
   
 Visits to TameBay are tracked by [Site Meter](http://www.sitemeter.com/). Information collected by Site Meter is covered by [their privacy policy](http://www.sitemeter.com/?a=privacy). IP addresses collected by Site Meter are not linked to any personally identifying information and do not allow TameBay to track individual users. 
+
+## Google Analytics 
+
+  
+Visits to TameBay are tracked by [Google Analytics](http://www.google.com/analytics/index.html). Information collected by Google Analytics is covered by [their privacy policy](http://www.google.com/privacy.html). Information collected by Google Analytics does not include any personally identifying information and does not allow TameBay to track individual users. 
