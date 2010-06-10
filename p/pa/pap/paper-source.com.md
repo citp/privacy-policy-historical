@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523112917id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paper-source.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205217id_/http%3A//www.paper-source.com/cgi-bin/paper/security.html) for the most accurate reproduction.*
 
 # Paper Source - security & privacy
+
+|  | 
 
 This site uses a secure server (SSL) to encrypt all of your personal information. We use strong security measures to prevent the loss, misuse and alteration of your information once it is in our records. 
 
@@ -19,6 +21,6 @@ Paper Source
 410 N. Milwaukee Ave.  
 Chicago, IL 60610 
 
-In addition, we may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. (our “service providers”). We provide our service providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. To opt-out of allowing us to share your information with our service providers [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). 
+In addition, we may contract with companies or persons to provide certain services including credit card processing, shipping, data management, promotional services, etc. (our "service providers"). We provide our service providers with the information needed for them to perform these services. We also ask our service providers to confirm that their privacy practices are consistent with ours. To opt-out of allowing us to share your information with our service providers [click here](https://web.archive.org/cgi-bin/paper/opt_out.html). 
 
 Paper Source reserves the right to change or modify this policy at any time by posting the revised policy on our web site. For this reason, we encourage you to review our Privacy Policy whenever you purchase products from us or use our Web Site.
