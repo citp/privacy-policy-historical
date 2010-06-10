@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tutorius.net privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115004934id_/http%3A//www.tutorius.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tutorius.net privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610095025id_/http%3A//www.tutorius.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Design Ideas and Tutorial Sources on tutorius.net
+# Privacy Policy - Free Tutorial and Design Idea on tutorius.net
 
 What follows is the Privacy Statement for all Tutorius websites including all the websites run under the http://www.tutorius.net. Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
 
@@ -10,7 +10,7 @@ You may choose to add your email address to our contact list via the forms on ou
 Cookies and Web Beacons  
 www.tutorius.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Some of our advertising partners may use cookies and web beacons on our site such as Google (www.google.com/adsense) that use the DART cookie enables that place ads on our web site. For further information, consult the privacy policy of each those websites. You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html)
+Some of our advertising partners may use cookies and web beacons on our site such as Google (www.google.com/adsense) that use the DART cookie enables that place ads on our web site. For further information, consult the privacy policy of each those websites. You can choose to accept or decline cookies. To opt out of Google’s use of cookies, please visit the [Google ad and content network privacy policy](http://www.tutorius.net/?rb_uQvyI "Original Link: http://www.google.com/privacy_ads.html")
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
