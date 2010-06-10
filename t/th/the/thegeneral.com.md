@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730180627id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thegeneral.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611002932id_/http%3A//www.thegeneral.com/privacy.html) for the most accurate reproduction.*
 
 # The General - Auto Insurance Online
 
@@ -8,7 +8,7 @@ Our Privacy Policy
 
 **Our goal is to protect the confidentiality of information that you provide to us. This is how we will do this:**
 
-**INFORMATION WE COLLECT.** Our company needs information in order to issue to you a policy, service a policy, and handle claims on a policy. The information that we need is not generally available to the public. We collect this information in a number of ways:
+**INFORMATION WE COLLECT:** Our company needs information in order to issue to you a policy, service a policy, and handle claims on a policy. The information that we need is not generally available to the public. We collect this information in a number of ways:
 
 > **Information that you give us.** When you apply for a policy we record the information that you give us. We do the same thing when you request a policy change. This information includes:
 > 
@@ -56,8 +56,10 @@ Our Privacy Policy
 > 
 > **Information we obtain from our website.** This information is unique to Internet transactions. It includes the web site that linked you to ours, your computer operating system, and the pages you viewed on our site. Some web sites, including ours, may also store "cookies" on your computer. Cookies collect technical data, like your Internet Protocol (IP) address, operating system, and session ID. They can also save certain information entered by you. The General uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to: <http://www.doubleclick.net/us/corporate/privacy>
 
-**PARTIES TO WHOM WE DISCLOSE INFORMATION.** We disclose this information to third parties only to the extent necessary to issue a policy to you, to service a policy already issued to you, to handle claims under your policy, to provide another service that you requested or to respond to a request from a court or governmental agency. We do not disclose this information to third parties except to the extent described above. This is our company policy. We will not change this policy without giving you advance notice. 
+**PARTIES TO WHOM WE DISCLOSE INFORMATION:** We disclose this information to third parties only to the extent necessary to issue a policy to you, to service a policy already issued to you, to handle claims under your policy, to provide another service that you requested or to respond to a request from a court or governmental agency. We do not disclose this information to third parties except to the extent described above. This is our company policy. We will not change this policy without giving you advance notice. 
 
-**CONFIDENTIALITY.** We restrict access to information about you to those employees and other parties who need that information to provide products or services to you. Their right to further disclose and use the information is limited by our employee code of conduct and applicable law.
+**CONFIDENTIALITY:** We restrict access to information about you to those employees and other parties who need that information to provide products or services to you. Their right to further disclose and use the information is limited by our employee code of conduct and applicable law.
 
-**SECURITY.** We maintain physical and electronic safeguards to guard your personal information against unauthorized disclosure or use. 
+**SECURITY:** We maintain physical and electronic safeguards to guard your personal information against unauthorized disclosure or use. 
+
+**RETENTION AND DISPOSAL OF INFORMATION:** We retain your personal information for the period of time necessary to comply with business and legal requirements and then dispose of it according to our established procedures. 
