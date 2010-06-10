@@ -1,12 +1,7 @@
-> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220100234id_/http%3A//www.schwab-global.com/public/schwab-gcb-en/legal_compliance/privacy_and_security.html%3Fcmsid%3DP-1030747%26lvl1%3Dlegal_compliance%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schwab-global.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610073028id_/http%3A//www.schwab-global.com/public/schwab-gcb-en/legal_compliance/privacy_and_security.html%3Fcmsid%3DP-1030747%26lvl1%3Dlegal_compliance) for the most accurate reproduction.*
 
 # Privacy & Security
 
-| 
-
-A Commitment to Your Privacy 
-
-  
 **Your Privacy Is Not for Sale**  
 Schwab does not and will not sell your personal information to anyone, for any reason.
 
@@ -20,6 +15,8 @@ We collect personal information about you in a number of ways.
   * **Transaction and experience information.** Once your account has been opened, we collect and maintain personal information about your account activity, including your transactions, balances, positions and history. This information allows us to administer your account and provide the services you or your employer or plan sponsor have requested.  
   * **Website usage.** When you visit our websites, we may use devices known as “cookies,” graphic interchange format files (GIFs), or other similar web tools to enhance your web experience. These tools help us to recognize you, maintain your web session, and provide a more personalized experience. To learn more, please click the Privacy link on the Schwab website(s) you use. 
 
+
+
   
 How We Share and Use Your Information Among Schwab Affiliates  
 The term “Schwab” refers to a family of affiliated financial services companies that are owned by The Charles Schwab Corporation. These include, but are not limited to:
@@ -32,14 +29,16 @@ The term “Schwab” refers to a family of affiliated financial services compan
   6. The 401(k) Companies, Inc. and its subsidiaries 
   7. Charles Schwab Investment Management, Inc. Schwab may share information we collect about you within our family of companies to help: 
 
-  
+
+
 Schwab may share information we collect about you within our family of companies to help:
 
   * Provide you with better service or to perform services on your behalf; 
   * Respond to communications from you (or as you authorize or request); 
   * Make it more convenient for you to open a new account. 
 
-  
+
+
 At any time, you may instruct Schwab not to share information about you with our affiliates for certain purposes, as explained below under “How to Limit the Sharing and Use of Your Information.”
 
 **How We Share Your Information Outside of Schwab**  
@@ -49,7 +48,8 @@ We may share your information with outside companies and other third parties in 
   * When we use other companies to provide services for us, such as printing and mailing your account statements; 
   * When we believe that disclosure is required or permitted under law (for example, to cooperate with regulators or law enforcement, resolve consumer disputes, perform credit/authentication checks or for risk control). 
 
-  
+
+
 Certain Schwab affiliates and subsidiaries may also enter into a joint-marketing agreement with another financial institution in order to provide you with a Schwab-branded financial product or service.
 
 **How to Limit the Sharing and Use of Your Information**  
@@ -60,7 +60,8 @@ You may choose to limit the information we share about you among our affiliates 
   * You may make your affiliate-sharing privacy choice at any time, and that choice will remain in effect until you tell Schwab to change it. If you have previously provided Schwab with this information with respect to your current accounts, you do not need to provide it again. 
   * If you exercise your privacy choice, Schwab will continue to share information among our affiliates that identifies you (such as your name and Social Security number), as well as information about your transactions and experiences with us, to perform services on your behalf, respond to communications from you, or, if you are their customer, to offer you products or services. 
 
-  
+
+
 Schwab also allows you to limit marketing from the Schwab affiliate(s) with which you have a relationship. This is separate from your affiliate-sharing choice. **You may do so by calling Schwab at the customer service number listed on your account statement.** These preferences will remain in effect for at least five years, after which time Schwab may ask you to update those preferences and may contact you for marketing purposes.
 
 **State Laws**  
@@ -79,6 +80,8 @@ Charles Schwab, U.K., Limited (“Schwab U.K.”) introduces residents of the Un
 
   * The “Website usage” paragraph does not apply to the schwab.co.uk website 
   * Schwab may use email to communicate with prospective customers, with their permission. 
+
+
 
 **  
 Charles Schwab, Hong Kong, Limited Customers**  
@@ -117,8 +120,6 @@ The 401(k) Companies, Inc.: **888-283-2416**
 Schwab Funds® direct investors: **800-407-0256**  
 Laudus Funds® direct investors: **800-447-3332**
 
-If you are uncertain which number is right for you or have questions or concerns, call **877-812-1817** , contact us by email at privacy@schwab.com, or check the website(s) you use. 
+If you are uncertain which number is right for you or have questions or concerns, call **877-812-1817** , contact us by email at privacy@schwab.com, or check the website(s) you use.
 
- 
-
-CSA 06876 REG11000FMT-12 (04/09) 
+CSA 06876 REG11000FMT-12 (04/09)
