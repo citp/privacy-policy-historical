@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asseenontv.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217084950id_/http%3A//www.asseenontv.com/privacy_security_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asseenontv.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610090656id_/http%3A//www.asseenontv.com/privacy_security_policy.html) for the most accurate reproduction.*
 
 # AsSeenOnTV.com - The Official Site for As Seen On TV - Best Prices! - Order Now! 866-277-3366
 
