@@ -1,15 +1,13 @@
-> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502162309id_/http%3A//www.overtons.com/customerservice/privacypolicy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overtons.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610193950id_/http%3A//www.overtons.com/policies/privacy.shtml) for the most accurate reproduction.*
 
-# Overton's - Customer Service : Privacy Policy
+# Overton's® > Policies : Privacy Policy
 
-**Effective date: August 3, 2008**
-
-  
+**Effective date: August 3, 2008**  
 
 
 This Privacy Policy explains how Gander Mountain, Overton’s, Consumers Marine and other members of the Gander Mountain family of businesses (collectively, “the Gander Mountain family of businesses,” “we,” “us,” and “our”) protect your privacy when you use the following Web sites (our “Sites”):
 
-GanderMtn.com
+[GanderMtn.com](http://www.gandermtn.com/)
 
 [Overtons.com](http://www.overtons.com/)
 
@@ -149,6 +147,12 @@ Attention: Customer Service
 111 Red Banks Road  
 Greenville, NC 27858  
 (252) 355-7600  
-FAX (252) 355-2923  
-  
----
+FAX (252) 355-2923
+
+Ordering/ Customer Service Hotline:
+
+1-800-334-6541
+
+Exclusive Technical Hotline:
+
+1-888-OVERTON
