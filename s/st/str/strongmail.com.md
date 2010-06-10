@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231121036id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the strongmail.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610193735id_/http%3A//www.strongmail.com/site/privacy-policy) for the most accurate reproduction.*
 
 # StrongMail's Privacy Policy | StrongMail
 
@@ -122,4 +122,4 @@ If any provision of this Policy is deemed void, unlawful or otherwise unenforcea
 
 StrongMail Systems UK, Ltd is a company registered in England and Wales at 5 New Street Square, London EC4A 3TW. Reg. No. 6398867. VAT # GB 925 07 6228.
 
-Copyright © 2009 StrongMail Systems, Inc. STRONGMAIL and the STRONGMAIL logo are registered trademarks in the United States, other countries or both. All Rights Reserved. Any other trademark, brand or name is the property of its respective owner.
+Copyright © 2010 StrongMail Systems, Inc. STRONGMAIL and the STRONGMAIL logo are registered trademarks in the United States, other countries or both. All Rights Reserved. Any other trademark, brand or name is the property of its respective owner.
