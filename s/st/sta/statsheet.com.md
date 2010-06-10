@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231175611id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statsheet.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610052149id_/http%3A//statsheet.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - StatSheet.com
 
