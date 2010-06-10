@@ -1,87 +1,99 @@
-> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2003-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20030401105542id_/http%3A//www.skiddle.com/w3c/policy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skiddle.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610022535id_/http%3A//www.skiddle.com/privacy.php) for the most accurate reproduction.*
 
-# Privacy Statement for skiddle.com
+# None
 
-## About Us
+Skiddle Limited (“we”) are committed to protecting and respecting your privacy.
 
-This is a privacy policy for skiddle.com. Our homepage on the Web is located at [ http://www.skiddle.com](http://www.skiddle.com/default.shtml). The full text of our privacy policy is available on the Web at [ http://www.skiddle.com/w3c/policy1.html](http://www.skiddle.com/w3c/policy1.html) Users may go to [ http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi](http://www.skiddle.net/cgi-bin/eflyer/mojo/mojo.cgi) for information on how to opt-in or opt-out of use of their information. 
+This policy (together with our terms of use [linked to website terms of use] and any other documents referred to on it) sets out the basis of which any personal data we collect from you, or that you provide to us, will be processed by use. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By accepting the Privacy Policy and our Terms and Conditions when registering, you expressly consent to our collection, storage, use and disclosure of your personal information as described below.
 
-You may contact us by e-mail at [ info@skiddle.com](mailto:info@skiddle.com). You may call us at 07764 49 22 23. 
+For the purpose of the Data Protection Act 1998 (The Act), the data controller is Skiddle Limited of the Watermark, Ribbleton Street Preston PR1 5EZ.
 
-## Dispute Resolution and Privacy Seals
+## INFORMATION WE MAY COLLECT FROM YOU
 
-We have no privacy seals or other assurance mechanisms. 
+We may collect and process the following data about you:-
 
-## Data Collection
-
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained seperately. 
-
-* * *
-
-### Group "Basic information"
-
-We collect the following information: 
-
-  * Click-stream data
-  * HTTP protocol elements
-  * Search terms
+  1. Information that we provide by filling in forms on our site at www.skiddle.com (“our site”). This includes information provided at the time of registering to use our site, subscribing to our service, posting material and requesting further services. We may also ask you for information when you report a problem with our site. 
+  2. If you contact us, we may keep a record of that correspondence. 
+  3. We may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them. 
+  4. Details of transactions you carry out through our site and of the fulfilment of your orders. 
+  5. Details of your visits to our site including but not limited to, traffic data, location data, web logs and other communication data, whether this is required for a billing purpose or otherwise and the resources which you access. 
 
 
 
-This data will be used for the following purposes:
+## IP ADDRESSES AND COOKIES
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+We may collect information about your computer, including where available your IP address, operating system and browser type, for system administration and to report aggregate information to our advisors. This is statistical data about our users browser actions and patents, and does not identify any individual. For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computers hard drive. They help us to improve our site and to deliver a better and more personalised service. They enable use:-
 
-
-
-This data will be used by ourselves and our agents. 
-
-The following explanation is provided for why this data is collected:
-
-> Data collected from all Web users: access logs, and search strings (if entered).
-
-* * *
-
-### Group "Cookies"
-
-At the user's option, we will collect the following data: 
-
-  * HTTP cookies
-  * Navigation and click-stream data
-  * State management mechanisms
+  1. To estimate our audience size and usage pattern; 
+  2. to store information about your preferences, and to allow to customize our site according to your individual interest. 
+  3. to speed up your searches; 
+  4. to recognise you when you return to our site. 
 
 
 
-This data will be used for the following purposes:
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our site. Unless you have adjusted your browser settings so that it will refuse cookies, our system will issue cookies when you log on to our site.
 
-  * Research and development.
-  * One-time tailoring.
+Please note that our advertisers may also use cookies, over which we have no control.
+
+## WHERE WE STORE YOUR PERSONAL DATA
+
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us for one of our suppliers. Staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.
+
+Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.
+
+Although we do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site, any transmission is at your own risk. Once we have received your information, we will use strict procedures and security procedures to try to prevent unauthorised access.
+
+## USES MADE OF THE INFORMATION
+
+We use information held about you in the following ways:-
+
+  1. to ensure that content from our site is presented in the most effective manner for you and your computer; 
+  2. to provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes; 
+  3. to carry out our obligations arising from any contracts entered into between you and us; 
+  4. to allow you to participate in interactive features of our service, when you chose to do so; 
+  5. to notify you about changes to our service. 
 
 
 
-This data will be used by ourselves and our agents. 
+We don't sell your personal information to third parties for their marketing purposes without your explicit consent.
 
-The following explanation is provided for why this data is collected:
+We may use your data to provide you with information about goods, services or events which may be of interest to you and we may contact you about these by email, post or telephone.
 
-> Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+If you are an existing customer, we will only contact you by electronic means (e-mail, or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.
 
-## Cookies
+If you are a new customer, and where we permit selected third parties to use your data, we will contact you by electronic means unless you have not consented to this. If you do not want us to use your data in this way, or to pass your details onto third parties for marketing purposes, please email support@skiddle.com.
 
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. 
+We do not disclose information about identifiable individuals to advertisers, but we may provide them with aggregate information about our users (for example, we may inform them that 500 men aged under 30 have clicked on their advertisement on any given day) we may also use such aggregate information to help advertisers reach the kind of audience they want to target (for example, women in SW1) we may also use the personal we have collected from you to enable us to comply with our advertisers wishes by displaying their advertisement to that target audience
 
-Our site makes use of cookies. Cookies are used for the following purposes: 
+If you'd prefer we didn't send you marketing communication, please update your privacy preferences, available in My Skiddle
 
-  * User targeting 
-  * Research and development 
+## DISCLOSURE OF YOUR INFORMATION
+
+We may disclose your personal information to any member of our group, which means our subsidiary’s, our ultimate holding company and its subsidiary’s, as defined in section 1159 of the UK Companies Act 2006.
+
+We may disclose your personal information to third parties:-
+
+  1. In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets. 
+  2. If Skiddle or substantially all of its assets are required by a third party, in which case personal data held by it about its customers will be one of the transferred assets. 
+  3. If we under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or imply our terms of use [insert as link to websites terms of use] and other agreements, or to protect the rights, property, or safety of Skiddle, our customers, or others. This includes exchanging information with other companies and organisations for the purpose of fraud pretention and credit risk reduction. 
+  4. To help us improve the service to you. In some cases we may pass your contact details to our customer feedback partner. This information will be used solely to give you the opportunity to raise any issues you may have encountered, or suggestions you may have for improving our service to you. 
 
 
 
-## Policy Evaluation
+## YOUR RIGHTS
 
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us at support@skiddle.com.
 
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
+Our site may, from time to time, contain links to and from websites for advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
-**Satisfactory policy** : this compact policy is considered _satisfactory_ according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
+## ACCESS TO INFORMATION
+
+The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+
+## CHANGES TO OUR PRIVACY POLICY
+
+Any changes we make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+
+## CONTACT
+
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to support@skiddle.com.
