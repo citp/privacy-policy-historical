@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203121306id_/http%3A//www.worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worksafebc.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610195808id_/http%3A//www.worksafebc.com/legal/leg_20.asp) for the most accurate reproduction.*
 
 # WorkSafeBC.com - Privacy
 
