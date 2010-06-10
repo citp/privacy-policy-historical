@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2007-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070626050430id_/http%3A//www.nmm.ac.uk/server/show/nav.00500600b) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmm.ac.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610214555id_/http%3A//www.nmm.ac.uk/privacy) for the most accurate reproduction.*
 
-# Privacy statement : About us : National Maritime Museum
+# Privacy : Website policies : NMM policies : About us : NMM
 
-The National Maritime Museum respects the privacy of every individual who visits our websites. We operate in accordance with the Data Protection Act 1998 and the Freedom of Information Act 2000. 
+Your information | Tracking our visitors | Cookies | Content updates by email | Newsletter | Online donations | Booking tickets online | Further information and requests
+
+### Introduction
+
+The National Maritime Museum respects the privacy of every individual who visits our websites. We operate in accordance with the Data Protection Act 1998 and the Freedom of Information Act 2000. 
 
 ### Your information
 
@@ -14,17 +18,21 @@ It is the Museum's policy not to distribute or sell your information on to any t
 
 ### Tracking our visitors
 
-The Museum monitors how people use our websites and aggregates general statistics about customers, traffic patterns and related site information in an anonymous form. In order to collect this data, the Museum uses software that collects statistics from IP data. This software can determine what times of day people access our site, which country they access the websites from, how long they visit for, what browser they are using, etc.
+The Museum monitors how people use our websites and aggregates general statistics about customers, traffic patterns and related site information in an anonymous form. In order to collect this data, the Museum uses software that collects statistics from IP data. This software can determine what times of day people access our site, which country they access the websites from, how long they visit for, what browser they are using, etc.
 
 This information is collected primarily to measure the popularity of the websites as a whole and particular content, allowing us to judge visitor needs and tailor future content.
 
 ### Cookies
 
-In some areas of our site, a cookie may be placed on your computer. A cookie is a small file that resides on your computer's hard drive that allows the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit. 
+In some areas of our site, a cookie may be placed on your computer. A cookie is a small file that resides on your computer's hard drive that allows the Museum to improve the quality of your visit to our websites. If your browser permits it you can set your computer to reject cookies, although this may affect the quality of your visit.
 
-[Collections Online](http://www.nmm.ac.uk/collections), [PortCities](http://www.portcities.org.uk/london/) and [Maritime Art Greenwich](http://www.nmm.ac.uk/mag/) require cookies to be enabled to allow you to perform some searches and login and create your own collections. The Flash version of the [Hodges website](http://www.nmm.ac.uk/hodgesonline) also requires cookies to work correctly.
+[Collections Online](http://www.nmm.ac.uk/collections), [PortCities](http://www.portcities.org.uk/london/) and [Maritime Art Greenwich](http://www.nmm.ac.uk/mag/) require cookies to be enabled to allow you to perform some searches and login and create your own collections. The Flash version of the [Hodges website](https://web.archive.org/hodgesonline) also requires cookies to work correctly.
 
 If you are concerned about the use of cookies, we suggest you set your browser's privacy settings to 'high'. This setting will block cookies that collect personal information without your explicit consent while allowing you to fully enjoy the features of the websites.
+
+### Content updates by email
+
+The Museum uses [Google FeedBurner](http://www.feedburner.com/fb/a/home) to send a daily digest of new content from our website. If an individual want to use this service, they have to submit a valid email address. Individuals who don’t want to share this personal information can still access our new content by visiting the website. Google FeedBurner’s [privacy policy](http://www.feedburner.com/fb/a/privacy) states that they will only use the email address for the purpose for which it was collected, that is, delivery of email content updates from websites selected by the individual. Individuals can unsubscribe at any time by following the ‘unsubscribe’ link that is included in every email. Individuals can change and modify information previously provided, or permanently and irrevocably delete their Google FeedBurner account, at any time.
 
 ### Newsletter
 
@@ -44,17 +52,17 @@ We have enabled online donations to be made to the Museum through Justgiving. Th
 
 ### Booking tickets online
 
-Our online booking service is provided by Rialto Ticketing. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. Rialto Ticketing do not disclose personal data to other parties.
+Our online booking service is provided by TOR Maximweb. They collect personal information on behalf of the Museum to process each transaction and only use personal data where it is necessary to fulfil your order. TOR do not disclose personal data to other parties.
 
 ### Further information and requests
 
-The Data Controller is the Board of Trustees of the National Maritime Museum, but to request any information with respect to the Website please write to: 
+The Data Controller is the Board of Trustees of the National Maritime Museum, but to request any information with respect to the Website please write to:
 
-Online Projects   
+Digital Media   
 National Maritime Museum   
 Greenwich   
 London SE10 9NF
 
 Copyright © National Maritime Museum
 
-Read the Museum's [copyright notice](http://www.nmm.ac.uk/server/show/conWebDoc.3681).
+Read the Museum's [copyright notice](https://web.archive.org/copyright/).
