@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204221103id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decodir.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610094040id_/http%3A//www.decodir.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Modern Homes Interior Decorating Ideas on Decodir
+# Privacy Policy - Modern Homes Interior Design and Decorating Ideas on Decodir
 
 What follows is the Privacy Statement for all **Decodir** websites including all the websites run under the [http://www.decodir.com](http://www.decodir.com/). Please read this statement regarding our blogs. If you have questions please ask us via our contact form.
 
