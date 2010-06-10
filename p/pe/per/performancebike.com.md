@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227223540id_/http%3A//www.performancebike.com/bikes/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the performancebike.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610031049id_/http%3A//www.performancebike.com/bikes/Content_10052_10551_-1_PrivacyPolicy) for the most accurate reproduction.*
 
-# Performance Bicycle Privacy Policy
+# Performance Bicycle Privacy Policy - CustomContentMaster
 
 |  Performance, Inc. which operates PerformanceBike.com ("Performance Bicycle") is committed to respecting your privacy and protection. The purpose of this Privacy Policy is to inform you of what personal information we may collect from you, how we use it and the choices you have regarding our use of it. Performance Bicycle is the sole owner of the information collected on [www.performancebike.com](http://www.performancebike.com/). 
 
