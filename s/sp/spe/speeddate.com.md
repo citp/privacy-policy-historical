@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219033818id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the speeddate.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610220005id_/http%3A//www.speeddate.com/index.php%3Fpage%3Dsite%26action%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Online Speed Dating - SpeedDate.com
 
-This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed by SpeedDate.com, Inc. (“SpeedDate”).
+This privacy policy (the "Privacy Policy") describes the personal information collected about users of the online dating service accessible via the Website located at www.speeddate.com and related URLs (the "Service") and how such information may be used or disclosed by SpeedDate.com, Inc.™ (“SpeedDate”).
 
-The term “You” (and its variants) refers to You as a user of the Service and the term “Us” (and its variants) refers to SpeedDate. 
+The term “You” (and its variants) refers to You as a user of the Service and the term “Us” (and its variants) refers to SpeedDate™. 
 
 #### Overview
 
-As part of the operation of the Service We collect and may disclose information about You. By accepting the SpeedDate.com Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the SpeedDate.com Terms of Use.
+As part of the operation of the Service We collect and may disclose information about You. By accepting the SpeedDate.com™ Terms of Use and this Privacy Policy, You consent to Our use and disclosure of Your personal information as described in this Privacy Policy. This Privacy Policy is incorporated into and subject to the terms of the SpeedDate.com™ Terms of Use.
 
 #### A Special Note About Children
 
@@ -36,15 +36,15 @@ You have full control regarding which of these emails you want to receive. To ch
 
 #### Inviting Friends
 
-Inviting friends to SpeedDate.com is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may [contact us](http://helpspot.speeddate.com/index.php?pg=request) to request that we remove their information from our database. 
+Inviting friends to SpeedDate.com™ is always completely optional. When you choose to invite friends, we will send an email to the addresses you enter indicating that it is a message from you. We will share your name and email address with anyone you invite so that they know who the invitation is coming from. If a friend does not respond to the initial invitation after a little while, we will send up to one reminder messages on your behalf. Your friends may [contact us](http://helpspot.speeddate.com/index.php?pg=request) to request that we remove their information from our database. 
 
-For your convenience, SpeedDate.com offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not leave preselected or explicitly select, and your invitations are the only email we will ever send to your friends unless they register to join the site. 
+For your convenience, SpeedDate.com™ offers the ability to import email addresses from common address books such as Hotmail/Yahoo/Gmail/AOL. If you choose to use this feature, we will access your address book using the login details that you provide. We access your address book only once to retrieve your friends' information so that you may select whom to invite. We do not store your login details nor do we use them for any other purpose than to retrieve your contacts. We never send invitations to contacts you do not leave preselected or explicitly select, and your invitations are the only email we will ever send to your friends unless they register to join the site. 
 
 If you have accidentally sent invitations you did not intend - please [contact us](http://helpspot.speeddate.com/index.php?pg=request) and we can cancel the reminder message. 
 
 #### Our Disclosure of Your Information
 
-Although we use industry-standard efforts to protect the personal information We collect via the Service, we cannot guarantee that this information will not be accessed by the government or third parties in certain circumstances. We may be required by law to disclose information to the government, law enforcement agencies or third parties.  In addition, third parties may unlawfully intercept or access transmissions or private communications and members may abuse or misuse Your information that they collect from the Service. Accordingly, You should not expect that Your personally identifiable information or private communications will remain private in all circumstances. 
+Although we use industry-standard efforts to protect the personal information We collect via the Service, we cannot guarantee that this information will not be accessed by the government or third parties in certain circumstances. We may be required by law to disclose information to the government, law enforcement agencies or third parties. You authorize us to report consumer transaction data to third parties for fraud prevention services. In addition, third parties may unlawfully intercept or access transmissions or private communications and members may abuse or misuse Your information that they collect from the Service. Accordingly, You should not expect that Your personally identifiable information or private communications will remain private in all circumstances. 
 
 We do not sell personally identifiable information about You to third parties (provided that we may sell such information to a third party in connection with an acquisition of all or part of our business). However, the following describes some of the ways that Your personally identifiable information may be used or disclosed.
 
