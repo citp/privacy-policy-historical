@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202232906id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspose.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610210544id_/http%3A//www.aspose.com/corporate/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Corporate - Aspose
 
@@ -9,7 +9,7 @@
 ---  
   
   
-This web site is maintained by Aspose Pty Ltd, Suite 119, 272 Victoria Avenue, Chatswood, NSW, 2067, Australia. By accessing or using the Aspose.com Web site, you agree to the terms of the Aspose Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
+This web site is maintained by Aspose Pty Ltd, Suite 163, 79 Longueville Road, Lane Cove, NSW, 2066, Australia. By accessing or using the Aspose.com Web site, you agree to the terms of the Aspose Online Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site.
 
 As of May 15, 2007, Aspose Pty Ltd has updated its Privacy Policy in order to give you a better understanding of its Privacy Policy and Practices. If you have any questions or concerns, please contact us at privacy@aspose.com.  
   
