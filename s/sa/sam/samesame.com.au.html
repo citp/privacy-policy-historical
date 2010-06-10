@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the samesame.com.au privacy policy that was archived on 2009-12-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091219194246id_/http%3A//www.samesame.com.au/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the samesame.com.au privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610062017id_/http%3A//www.samesame.com.au/policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-- Page Title -->
@@ -8,30 +8,115 @@
 <link rel="alternate" href="/rss/whatson.xml" type="application/rss+xml" title="RSS">
 <link rel="home" href="http://www.samesame.com.au/">
 <!-- Style Sheets -->
-<link rel="stylesheet" href="http://jt.c.s.tsatic.net/text.css" type="text/css">
-<link rel="stylesheet" href="http://jc.c.s.tsatic.net/core.css" type="text/css">
-<link rel="stylesheet" href="http://je.c.s.tsatic.net/elements/entries.css" type="text/css">
+<link rel="stylesheet" href="http://nt.c.s.tsatic.net/text.css" type="text/css">
+<link rel="stylesheet" href="http://nc.c.s.tsatic.net/core.css" type="text/css">
+<link rel="stylesheet" href="http://ne.c.s.tsatic.net/elements/entries.css" type="text/css">
 <!--[if IE 7]>
-<link rel="stylesheet" href="http://jt.c.s.tsatic.net/ie7.css" type="text/css" />
+<link rel="stylesheet" href="http://nt.c.s.tsatic.net/ie7.css" type="text/css" />
 <![endif]-->
 <!-- Scripts -->
 <!-- core javascript -->
-<!-- Framework -->
-<script src="http://jc.j.s.tsatic.net/global/FWK_2.js" language="javascript" type="text/javascript"></script>
-<!--[if IE 6]>
-<script src="http://jf.j.s.tsatic.net/global/png_fix.js" language="javascript" type="text/javascript" ></script>
-<script type="text/javascript">
-		DD_belatedPNG.fix('.pngfix');
-</script>
-<![endif]-->
-<!-- jQuery -->
-<script src="http://jc.j.s.tsatic.net/global/jquery/jquery.js" language="javascript" type="text/javascript"></script>
+<!-- chartbeat -->
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+<script src="http://nc.j.s.tsatic.net/global/FWK_2.js" language="javascript" type="text/javascript"></script>
+<script src="http://nc.j.s.tsatic.net/global/jquery/jquery.js" language="javascript" type="text/javascript"></script>
 <script>jQuery.noConflict();</script>
-<script src="http://jc.j.s.tsatic.net/global/fl_global.js" language="javascript" type="text/javascript"></script>
-		
+<script src="http://nc.j.s.tsatic.net/global/jquery/jquery.cookie.js" language="javascript" type="text/javascript"></script>		
+<script src="http://nc.j.s.tsatic.net/global/fl_global.js" language="javascript" type="text/javascript"></script>
+<script src="http://nc.j.s.tsatic.net/global/jquery/jquery.reject.min.js" type="text/javascript"></script>
+<script src="http://nc.j.s.tsatic.net/global/jquery/jquery.googleanalytics.js" language="javascript" type="text/javascript"></script>
+<script type="text/javascript">
+	
+	// Uncomment for debugging into Firebug Console
+	jQuery.fn.track.defaults.debug = true;
+	
+	// Load Google Analytics script & track page views (callback to affiliateImpressionTracking function)
+	jQuery.trackPage('UA-774333-2',{callback:affiliateImpressionTracking});
+	
+	jQuery(document).ready(function(){
+		// Track Article All About Affiliate Link Clicks, get Affiliate Name from 'rel' attribute of anchor
+		jQuery('.allabout-affiliate a').track({
+			category : function(element) { return 'affiliate-' + element.attr('rel') }
+		});
+		jQuery('.tnz-tile a').track({
+			category :	'newzealand',
+			action	 :	'click',
+			label	 :	function(element) { return element.attr('rel') },
+			value	 :	function(element) { return element.attr('alt') }
+		});
+	});
+	
+	// Function to track impressions of affiliate links. Called via pageTracker callback.
+	function affiliateImpressionTracking() {
+		jQuery('.allabout-affiliate a').each(function(){
+			jQuery.trackEvent('affiliate-' + jQuery(this).attr('rel'),'impression',jQuery(this).attr('href'),null)
+		});
+	}
+	
+</script>
+<!-- jReject Browser Deprecation Check -->
+<script language="javascript" type="text/javascript">
+
+jQuery(document).ready(function () {
+
+	jQuery.reject({
+		reject: {
+			all: false,
+			msie5: true,
+			msie6: true,
+			chrome1: true,
+			chrome2: true,
+			safari2: true,
+			opera7: true,
+			opera8: true,
+			firefox1: true,
+			firefox2: true
+		},
+		closeCookie: true,
+		display: ['chrome','firefox','safari','msie','gcf'],
+		browserInfo: {
+			chrome: {
+				text: 'Chrome 4',
+				url: 'http://www.google.com/chrome/'
+			},
+			firefox: {
+				text: 'Firefox 3.6',
+				url: 'http://www.getfirefox.com/'
+			},
+			safari: {
+				text: 'Safari 4',
+				url: 'http://www.apple.com/safari/download/'
+			},
+			gcf: {
+				text: 'Google Chrome Frame for IE',
+				url: 'http://code.google.com/chrome/chromeframe/'
+			},
+			msie: {
+				text: 'Internet Explorer 8',
+				url: 'http://www.microsoft.com/windows/Internet-explorer/default.aspx'
+			}
+		},
+		imagePath: 'http://nc.i.s.tsatic.net/global/jreject_icons/',
+		header: 'Did you know that your Internet Browser is out of date?',  
+		paragraph1: 'Your browser is out of date, and may not be compatible with our website. A list of the most popular web browsers can be found below.',  
+		paragraph2: 'Just click on the icons to get to the download page',
+		close: true, // Allow closing of window  
+		closeMessage: 'By closing this window you acknowledge that your experience on this website may be degraded',  
+		closeLink: 'Close This Window',  
+		closeURL: '#',
+		closeESC: true,  
+		closeCookie: false,    
+		overlayBgColor: '#000',  
+		overlayOpacity: 0.8,  
+		fadeOutTime: 'fast' // Fade out time on close ('slow','medium','fast' or integer in ms)  
+	});
+
+});
+
+</script>		
 <!-- meta tags -->
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="built" content="2009-12-20 06:42:46">
+<meta name="built" content="2010-06-10 16:20:16">
 </head>
 <body>
 <!-- Site -->
@@ -57,10 +142,9 @@ tSection.add ( "Local News", "http://www.samesame.com.au/news/local/", "Up-to-th
 tSection.add ( "International News", "http://www.samesame.com.au/news/international/", "Breaking gay and lesbian news from around the globe" );
 tSection.add ( "Features", "http://www.samesame.com.au/features/", "A detailed look at the stories and issues that affect you" );	
 tSection.add ( "Reviews", "http://www.samesame.com.au/reviews/", "Stay up to date with what's hot and what's not" );
-tSection.add ( "Columns", "http://www.samesame.com.au/blogs/", "Fresh and vibrant commentary on various topics of interest" );	
 tSection.add ( "Support", "http://www.samesame.com.au/support/", "A look behind some of the issues that we're all faced with" );		
 tSection.add ( "All About", "http://www.samesame.com.au/allabout/", "All you need to know about everything gay" );
-tSection.add ( "Northern Territory", "http://www.samesame.com.au/nt/", "<img src='http://jt.i.s.tsatic.net/_theme/tnt/dropdown.gif' width='125' height='43'/>" );
+tSection.add ( "New Zealand", "http://www.samesame.com.au/newzealand/", "<img src='http://nt.i.s.tsatic.net/_theme/tourismnz/tiles/navigation.gif' width='125' height='41'/>" );
 tMenu.add ( tSection )		
 var tSection = new FWK_Menu_Section ( "People", "http://www.samesame.com.au/people/", "people" );
 tSection.add ( "Browse People", "http://www.samesame.com.au/people/browse/", "Scan through our members to see what other people are up to" );
@@ -99,9 +183,10 @@ tSection.add ( "Brisbane", "http://www.samesame.com.au/forum/forumdisplay.php?f=
 tSection.add ( "Adelaide", "http://www.samesame.com.au/forum/forumdisplay.php?f=5", "Home of churches, porn and serial killers, spend some time discussing the South Australian town" );
 tSection.add ( "Perth", "http://www.samesame.com.au/forum/forumdisplay.php?f=6", "" );	
 tSection.add ( "Australia", "http://www.samesame.com.au/forum/forumdisplay.php?f=8", "If it's related to the rest of Australia, this is where you discuss it" );
-tSection.add ( "Health and Support", "http://www.samesame.com.au/forum/forumdisplay.php?f=10", "<img src='http://jt.i.s.tsatic.net/_promos/bgf/nav_bgf.gif' width='125' height='71'/>" );
+tSection.add ( "Health and Support", "http://www.samesame.com.au/forum/forumdisplay.php?f=10", "<img src='http://nt.i.s.tsatic.net/_promos/bgf/nav_bgf.gif' width='125' height='71'/>" );
 tSection.add ( "Chat &amp; Gossip", "http://www.samesame.com.au/forum/forumdisplay.php?f=11", "For everything from Lindsay Lohan to drapes" );
 tSection.add ( "News &amp; Current Affairs", "http://www.samesame.com.au/forum/forumdisplay.php?f=31", "For everything from Lindsay Lohan to drapes" );
+tSection.add ( "Ladies' Lounge", "http://www.samesame.com.au/forum/forumdisplay.php?f=42", "Girls just wanna have fun here" );
 tSection.add ( "Classifieds", "http://www.samesame.com.au/forum/forumdisplay.php?f=51", "Got something you'd like to buy or sell? Checkout the Same Same Classifieds!" );
 tSection.add ( "Ask Same Same", "http://www.samesame.com.au/forum/forumdisplay.php?f=9", "Got a question about the site? This is where we'll answer it" );
 tMenu.add ( tSection )
@@ -146,21 +231,7 @@ tMenu.init();
 </object>					
 </div>
 </div>
-<div id="artwork-layout" class="clearfix">			
-<!--[if lte IE 6]><style>#ie6-deprecated {display:block;}</style><![endif]-->
-<!--[if lte IE 6]>
-<div id="ie6-deprecated" class="clearfix">
-<div id="ie6-notice">
-<h3>We no longer support the browser you are using.</h3>
-<p>Please upgrade to one of these more modern browsers.</p>
-</div>
-<ul id="ie6-alternatives">
-<li id="alternative-firefox"><a href="http://www.getfirefox.com/" target="_blank">Firefox:</a></li>
-<li id="alternative-safari"><a href="http://www.apple.com/safari/download/" target="_blank">Safari:</a></li>
-<li id="alternative-ie8"><a href="http://www.microsoft.com/windows/Internet-explorer/default.aspx" target="_blank">IE8:</a></li>
-</ul>
-</div>
-<![endif]-->
+<div id="artwork-layout" class="clearfix">	
 <!-- Body -->
 <div id="layout_3">
 <!-- Content -->
@@ -312,7 +383,7 @@ To go to the Ask Same Same Forum, <a href="/forum/forumdisplay.php?f=9" class="b
 <!-- Content Bar -->
 <div id="contentBar" class="grey">
 <!-- Tabs -->
-<link rel="stylesheet" type="text/css" href="http://je.c.s.tsatic.net/elements/tabs.css">
+<link rel="stylesheet" type="text/css" href="http://ne.c.s.tsatic.net/elements/tabs.css">
 <script>
 function hideAllAreas ()
 {
@@ -360,7 +431,7 @@ FWK_AllTabs.push ( profileTabs );
 <!-- Side Bar -->
 <div id="sideBar">
 <div class="ad sponsor" id="sideBarAd">
-<!-- banner inserted: Sun, 20 Dec 2009 06:42:46 +1100 --><!--START: Ad TAG | default | default/syd | 300x60 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/samesame.com.au/default/syd;;sz=300x60;tile=3;ord=1946035958?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/samesame.com.au/default/syd;sz=300x60;tile=3;ord=1946035958?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/samesame.com.au/default/syd;sz=300x60;tile=3;ord=1946035958?" width="300" height="60" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 300x60 -->
+<!-- banner inserted: Thu, 10 Jun 2010 16:20:16 +1000 --><!--START: Ad TAG | default | default | 300x60 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/samesame.com.au/default;;sz=300x60;tile=3;ord=4337954092?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/samesame.com.au/default;sz=300x60;tile=3;ord=4337954092?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/samesame.com.au/default;sz=300x60;tile=3;ord=4337954092?" width="300" height="60" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default | 300x60 -->
 </div>
 <script>
 jQuery(document).ready(function () {
@@ -404,78 +475,6 @@ More Features
 Latest Features
 </h2>
 <div class="content">
-<!-- Small Article -->
-<div class="entry-content-small ">
-<a href="/features/4914/Tropical-Fruits--Still-Magical.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/160/65_50/42d11_160617.jpg" title="Tropical Fruits - Still Magical" alt="www.samesame.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/features/4914/Tropical-Fruits--Still-Magical.htm">
-Tropical Fruits- Still Magical
-</a>
-</h3>
-<p class="entry-author">
-By <a href="/people/Joal">Joal</a>, 17th December, 2009	</p>					 
-<p class="abstract">
-The glory days of Sydney’s Oxford Street may now be the stuff of legend, but...
-</p>
-</div>
-</div>					
-<!-- Small Article -->
-<div class="entry-content-small ">
-<a href="/features/4898/Making-A-B-Line-For-Lamb.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/160/65_50/f661a_160067.jpg" title="Making A B-Line For Lamb" alt="www.samesame.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/features/4898/Making-A-B-Line-For-Lamb.htm">
-Making A B-Line For Lamb
-</a>
-</h3>
-<p class="entry-author">
-By <a href="/people/elektro kitten">elektro kitten</a>, 15th December, 2009	</p>					 
-<p class="abstract">
-Andy Barlow and Lou Rhodes of UK's Lamb are looking forward to bringing in the new...
-</p>
-</div>
-</div>					
-<!-- Small Article -->
-<div class="entry-content-small ">
-<a href="/features/4893/Photographing-Matthew-Mitcham.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/159/65_50/0b053_159174.jpg" title="Photographing Matthew Mitcham" alt="www.samesame.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/features/4893/Photographing-Matthew-Mitcham.htm">
-Photographing Matthew Mitcham
-</a>
-</h3>
-<p class="entry-author">
-By <a href="/people/Christian Taylor">Christian Taylor</a>, 11th December, 2009	</p>					 
-<p class="abstract">
-Same Same talks to legendary photographer William Yang about his new series of...
-</p>
-</div>
-</div>					
-<!-- Small Article -->
-<div class="entry-content-small ">
-<a href="/features/4890/Cocos-Islands-Australias-Very-Own-Maldives.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/159/65_50/3a973_159156.jpg" title="Cocos Islands: Australia's Very Own Maldives" alt="www.samesame.com.au" width="65" height="50">
-</a>
-<div class="assistGroup">
-<h3>
-<a href="/features/4890/Cocos-Islands-Australias-Very-Own-Maldives.htm">
-Australia's Very Own Maldives
-</a>
-</h3>
-<p class="entry-author">
-By <a href="/people/Robert La Bua">Robert La Bua</a>, 11th December, 2009	</p>					 
-<p class="abstract">
-Summer is here! Time for a holiday, but where to go in this great, big, gay world?...
-</p>
-</div>
-</div>				
 </div>
 </div>
 </div>
@@ -492,52 +491,73 @@ More Events
 Hot Events
 </h2>
 <div class="content">
-<!-- ### t[2009-12-20 06:42:46] plugin[smarty_function_whatson] type[] key[whatsOnItem_temp_3_1_1] //-->
+<!-- ### t[2010-06-10 16:20:16] plugin[smarty_function_whatson] type[] key[whatsOnItem_temp_3_1_] //-->
 <!-- small Event -->
 <div class="entry-event-small ">
-<a href="/whatson/sydney/event/18177/Neon-NYE.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/152/65_50/dbeb2_152991.jpg" title="www.samesame.com.au" alt="www.samesame.com.au" width="65" height="50">
+<a href="/whatson/melbourne/event/20415/Rock-The-Ballet--National-Tour.htm">
+<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/199/65_50/1fe82_199256.jpg" title="www.samesame.com.au" alt="www.samesame.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/whatson/sydney/event/18177/Neon-NYE.htm">
-Neon NYE
+<a href="/whatson/melbourne/event/20415/Rock-The-Ballet--National-Tour.htm">
+Rock The Ballet  - National Tour
 </a>
 </h3>
 <p class="entry-details">
-<a href="/whatson/Sydney/date/2009-12-31">
-Thu 31st Dec - Fri 1st Jan
+<a href="/whatson//date/2010-06-01">
+Tue 1st Jun - Sat 17th Jul
 </a>
 ~
-<a href="/whatson/Sydney/venue/654320460/Tank_Nightclub">
-Tank Nightclub			</a>
+<a href="/whatson//venue/654319844/Earth_Nightclub">
+Earth Nightclub			</a>
 </p>	
 <p class="abstract">
-On December 31 this year, in the best nightclub in Australia, the people who...
+Direct from New York and following on from sell out seasons in Berlin, Hamburg,...
 </p>
 </div>
 </div>					
 <!-- small Event -->
 <div class="entry-event-small ">
-<a href="/whatson/sydney/event/15805/NaviGAYtion-2.htm">
-<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/129/65_50/ae2f9_129737.jpg" title="www.samesame.com.au" alt="www.samesame.com.au" width="65" height="50">
+<a href="/whatson/brisbane/event/20427/Club-Phoenix-Dance-party.htm">
+<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/200/65_50/3cc15_200232.jpg" title="www.samesame.com.au" alt="www.samesame.com.au" width="65" height="50">
 </a>
 <div class="assistGroup">
 <h3>
-<a href="/whatson/sydney/event/15805/NaviGAYtion-2.htm">
-NaviGAYtion 2
+<a href="/whatson/brisbane/event/20427/Club-Phoenix-Dance-party.htm">
+Club Phoenix Dance party
 </a>
 </h3>
 <p class="entry-details">
-<a href="/whatson/Sydney/date/2010-02-05">
-Fri 5th Feb - Mon 8th Feb
+<a href="/whatson//date/2010-06-02">
+Wed 2nd Jun - Sat 3rd Jul
 </a>
-~
-<a href="/whatson/Sydney/venue/654319843/Undisclosed_Location">
-Undisclosed Location			</a>
 </p>	
 <p class="abstract">
-Just when you thought it was safe to go back on the water… The long-rumored...
+Our aim is to bring together women with similar interests in an effort to...
+</p>
+</div>
+</div>					
+<!-- small Event -->
+<div class="entry-event-small ">
+<a href="/whatson/brisbane/event/20243/Prejudice-and-Pride--Brisbanes-Queer-History.htm">
+<img src="http://wac.0B80.edgecastcdn.net/800B80/www.samesame.com.au/198/65_50/8dd44_198861.jpg" title="www.samesame.com.au" alt="www.samesame.com.au" width="65" height="50">
+</a>
+<div class="assistGroup">
+<h3>
+<a href="/whatson/brisbane/event/20243/Prejudice-and-Pride--Brisbanes-Queer-History.htm">
+Prejudice and Pride - Brisbane's Queer History
+</a>
+</h3>
+<p class="entry-details">
+<a href="/whatson//date/2010-06-04">
+Fri 4th Jun - Sun 17th Oct
+</a>
+~
+<a href="/whatson//venue/654324711/Museum_of_Brisbane">
+Museum of Brisbane			</a>
+</p>	
+<p class="abstract">
+Prejudice and Pride is a respectful and dignified exploration of the contribution...
 </p>
 </div>
 </div>				
@@ -545,7 +565,7 @@ Just when you thought it was safe to go back on the water… The long-rumored...
 </div>
 </div>
 		
-<!-- banner inserted: Sun, 20 Dec 2009 06:42:46 +1100 --><!--START: Ad TAG | default | default/syd | 2x2 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/samesame.com.au/default/syd;;sz=2x2;tile=4;ord=1946035958?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/samesame.com.au/default/syd;sz=2x2;tile=4;ord=1946035958?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/samesame.com.au/default/syd;sz=2x2;tile=4;ord=1946035958?" width="2" height="2" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default/syd | 2x2 -->
+<!-- banner inserted: Thu, 10 Jun 2010 16:20:16 +1000 --><!--START: Ad TAG | default | default | 2x2 --><script language="JavaScript" src="http://ad.au.doubleclick.net/adj/samesame.com.au/default;;sz=2x2;tile=4;ord=4337954092?" type="text/javascript"></script><noscript><a href="http://ad.au.doubleclick.net/jump/samesame.com.au/default;sz=2x2;tile=4;ord=4337954092?" target="_blank"><img src="http://ad.au.doubleclick.net/ad/samesame.com.au/default;sz=2x2;tile=4;ord=4337954092?" width="2" height="2" border="0" alt=""></a></noscript><!--END: Ad TAG | default | default | 2x2 -->
 </div>
 </div>
 		
@@ -587,7 +607,7 @@ Back to Top
 <div class="links">
 <!-- Logo -->
 <a class="footer-logo" href="/">
-<img src="http://jd.i.s.tsatic.net/_core/logos/logo_sitefooter.gif" alt="SameSame.com.au" title="SameSame.com.au">
+<img src="http://nd.i.s.tsatic.net/_core/logos/logo_sitefooter.gif" alt="SameSame.com.au" title="SameSame.com.au">
 </a>
 <div class="footer-links">
 <!-- Quick Links -->
@@ -636,7 +656,7 @@ The Sound Alliance
 All Rights Reserved
 </li>
 <li>
-© 2009 SameSame Pty Ltd
+© 2010 SameSame Pty Ltd
 </li>
 </ul>
 <ul class="textOnly column sites">
@@ -664,9 +684,9 @@ ThoughtByThem
 <div id="ieResizeFix"></div>
 <!-- Banner Ads -->
 <script type="text/javascript">
-										FWK_setAd (  "ad_super_1", "<!-- banner inserted: Sun, 20 Dec 2009 06:42:46 +1100 --><!--START: Ad TAG | default | default/syd | 728x90 --><iframe src='http://ad.au.doubleclick.net/adi/samesame.com.au/default/syd;;sz=728x90;tile=5;ord=1946035958?' width='728' height='90' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/samesame.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=1946035958?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/samesame.com.au/default/syd;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=1946035958?' width='728' height='90' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 728x90 -->" );
-				FWK_setAd ( "ad_island_1", "<!-- banner inserted: Sun, 20 Dec 2009 06:42:46 +1100 --><!--START: Ad TAG | default | default/syd | 300x250 --><iframe src='http://ad.au.doubleclick.net/adi/samesame.com.au/default/syd;;sz=300x250;tile=6;ord=1946035958?' width='300' height='250' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/samesame.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=1946035958?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/samesame.com.au/default/syd;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=1946035958?' width='300' height='250' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default/syd | 300x250 -->" );
-										
+										FWK_setAd (  "ad_super_1", "<!-- banner inserted: Thu, 10 Jun 2010 16:20:16 +1000 --><!--START: Ad TAG | default | default | 728x90 --><iframe src='http://ad.au.doubleclick.net/adi/samesame.com.au/default;;sz=728x90;tile=5;ord=4337954092?' width='728' height='90' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/samesame.com.au/default;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=4337954092?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/samesame.com.au/default;sz=728x90;abr=!ie4;abr=!ie5;abr=!ie6;tile=5;ord=4337954092?' width='728' height='90' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default | 728x90 -->" );
+				FWK_setAd ( "ad_island_1", "<!-- banner inserted: Thu, 10 Jun 2010 16:20:16 +1000 --><!--START: Ad TAG | default | default | 300x250 --><iframe src='http://ad.au.doubleclick.net/adi/samesame.com.au/default;;sz=300x250;tile=6;ord=4337954092?' width='300' height='250' marginwidth='0' marginheight='0' hspace='0' vspace='0' frameborder='0' scrolling=no borderCOLOR='#000000'><a href='http://ad.au.doubleclick.net/jump/samesame.com.au/default;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=4337954092?' target='_blank'><img src='http://ad.au.doubleclick.net/ad/samesame.com.au/default;sz=300x250;abr=!ie4;abr=!ie5;abr=!ie6;tile=6;ord=4337954092?' width='300' height='250' border='0' alt=''></a></iframe><!--END: Ad TAG | default | default | 300x250 -->" );
+														
 			var EXP_Remover  = getItem ( "FWK_Dummy" );
 			EXP_Remover.expression  = new EXP_Remove ( EXP_Remover );
 			var EXP_Reporter = getItem ( "FWK_Dummy" );
@@ -681,16 +701,6 @@ ThoughtByThem
 			}
 			
 		</script>
-<!-- Google -->
-<script type="text/javascript">
-		var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-		document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-		</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-		try {
-		var pageTracker = _gat._getTracker("UA-774333-2");
-		pageTracker._trackPageview();
-		} catch(err) {}</script>
 <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2009 Nielsen Online -->
 <script src="//secure-au.imrworldwide.com/v60.js"></script>
@@ -705,6 +715,31 @@ trac.record().post();
 </div>
 </noscript>
 <!-- END Nielsen Online SiteCensus V6.0 -->
+<!-- chartbeat -->
+<script type="text/javascript">
+var _sf_async_config={uid:6429,domain:"samesame.com.au"};
+if(_sf_startpt)
+{
+    
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src',
+           (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+           "static.chartbeat.com/js/chartbeat.js");
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+    
+}
+</script>
+			
 </div>
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
