@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2009-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090226210402id_/http%3A//www.web-blinds.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the web-blinds.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611010757id_/http%3A//www.web-blinds.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # web-blinds.com - privacy policy
 
@@ -6,7 +6,7 @@ We are fully committed to protecting your privacy. This statement describes our 
 
 ## What information do we collect and how do we use it?: 
 
-The principle activity of web-blinds.com is the supply of window blinds. In order to do this, we need to collect information from you. web-blinds.com collects information from you when you register with us. You automatically register with us when you order free samples, or when you save quotes, window measurements or rooms from 'room creator'. You also register with us when you place an order. We ask for your name, address, telephone number and email address. This information is essential for processing any orders you place with us and it also helps us tailor our service and provide you with a more personalised shopping experience. You can view the personal information we have collected about you by visiting the 'my web-blinds.com' page of the site. 
+The principle activity of web-blinds.com is the supply of window blinds. In order to do this, we need to collect information from you when you place an order, request free samples, or when you save quotes, window measurements or rooms from 'room creator', but we will only retain this information with your permission. We always ask for your email address as this information is essential for processing any orders you place with us and it also helps us tailor our service and provide you with a more personalised shopping experience. All other information, such as your name, address and telephone number is optional for all processes apart from placing an order. If you do decide to register with us you can view the personal information we have collected about you by visiting the 'my web-blinds.com' page of the site. 
 
 Any personal information collected by us is controlled by us at,
 
@@ -47,7 +47,7 @@ Our site may contain links to other sites, which we believe may be of interest t
 
 ## Policy changes
 
-Any changes to our privacy policy will be posted on this page of our site and will be effective immediately. This policy was last updated on 18 March 2005. 
+Any changes to our privacy policy will be posted on this page of our site and will be effective immediately. This policy was last updated on 19 June 2009. 
 
 ## How do I contact web-blinds.com?
 
@@ -60,4 +60,4 @@ Colwick Business Park
 Nottingham  
 NG4 2JR  
 Email:[enquiries@web-blinds.com](mailto:enquiries@web-blinds.com)  
-Tel:0800 169 3938
+Tel:0845 604 9611
