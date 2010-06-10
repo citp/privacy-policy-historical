@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222203523id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gopusa.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610152022id_/http%3A//gopusa.com/legal/privacy.shtml) for the most accurate reproduction.*
 
 # GOPUSA - Privacy Notice
 
-[Printer-Friendly Version](https://web.archive.org/web/20091222203523id_/http%3A//gopusa.com/legal/privacyp.shtml)
+[Printer-Friendly Version](https://web.archive.org/web/20100610152022id_/http%3A//gopusa.com/legal/privacyp.shtml)
 
 **GOPUSA PRIVACY NOTICE**
 
