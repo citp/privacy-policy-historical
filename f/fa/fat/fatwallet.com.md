@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220035936id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatwallet.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610111046id_/http%3A//www.fatwallet.com/privacy.php) for the most accurate reproduction.*
 
-# Coupons from FatWallet.Com save you money!
+# Fatwallet Privacy Policy Statement
 
 This web site is owned and operated by FatWallet.Com, Inc. (FatWallet or we). FatWallet takes user privacy seriously and makes reasonable efforts to protect your privacy. We have created this Privacy Policy in order to share with you our information collection and use practices. Please read this policy carefully before sharing any personally identifiable information described below. This policy applies solely to the web site and service located at www.fatwallet.com (the Service).
 
