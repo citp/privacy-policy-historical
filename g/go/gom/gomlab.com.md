@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2008-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080617060021id_/http%3A//www.gomlab.com/eng/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomlab.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610110846id_/http%3A//www.gomlab.com/eng/privacy_policy.html) for the most accurate reproduction.*
 
-# GOM software - Free, Simple, Light, It just plays! - GOM Media Player, GOM encoder
+# GOMlab.com - Play Any Video File, Any Time! The Best Media Player!
 
 Privacy Policy
 
