@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2009-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091205200848id_/http%3A//www.losangeles.com/app/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the losangeles.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191232id_/http%3A//www.losangeles.com/app/privacy-policy.php) for the most accurate reproduction.*
 
 # LosAngeles.com Privacy Policy
 
