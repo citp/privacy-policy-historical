@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobspress.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231151147id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobspress.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610021229id_/http%3A//thechronicleherald.ca/services/privacypolicy.html) for the most accurate reproduction.*
 
 # Nova Scotia News - TheChronicleHerald.ca
 
