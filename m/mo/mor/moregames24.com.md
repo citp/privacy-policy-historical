@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moregames24.com privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911091734id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moregames24.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610174542id_/http%3A//www.escapegames24.com/2006/01/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy Walkthrough, Cheats, Hints, Tips, Solution, Passwords, Answers, Codes, Help, Strategy Guide, Review and Tutorial
-
-[Privacy Policy](http://www.escapegames24.com/2006/01/privacy-policy.html)
+# Privacy Policy Walkthrough, Hints, Tips, Cheats, Solutions, Help, Guide, Answers, and Tutorial
 
   
 Privacy Policy for www.escapegames24.com
@@ -33,4 +31,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
 
-[ ](http://www.blogger.com/post-edit.g?blogID=21527793&postID=3427056060647838565 "Edit Post") [](http://www.addthis.com/bookmark.php?v=250&pub=xa-4aa6602735c02dee)
+  
+[Report Broken Link](http://www.escapegames24.com/2006/01/contact.html)  
+Please let us know about nonworking game links! 
