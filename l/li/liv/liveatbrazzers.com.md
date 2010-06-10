@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the liveatbrazzers.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208230938id_/http%3A//www.liveatbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liveatbrazzers.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611004048id_/http%3A//www.liveatbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
 
 # LiveAtBrazzers - Privacy Policy
 
@@ -54,4 +54,4 @@ c/o Ariel Secretaries Limited
 P.O. Box 57528  
 3316 Limassol - Cyprus
 
-LiveAtBrazzers.com LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! LiveAtBrazzers.com is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
+LiveAtBrazzers LIVE SEX CAM is the best quality live webcam available. Chat for free live 1-on-1 with these hotties, watch a show you'll never forget or join in on the action and let them see and hear you with our cam2cam feature! LiveAtBrazzers is the most popular live cam community featuring sexy amateurs and pornstars from all over the world.
