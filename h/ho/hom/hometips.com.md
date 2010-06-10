@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2009-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090527110150id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometips.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191643id_/http%3A//www.hometips.com/2-privacypolicy.php) for the most accurate reproduction.*
 
 # Home Tips - Privacy Policy
 
@@ -32,8 +32,6 @@ In general, it is our policy not to share your e-mail address or any phone numbe
 
 Please note, however, that our site also may include links to other websites, and we provide access to products and services offered by third parties. We share with these third parties such information as is necessary to provide the products or services. We will not provide your email address to such third parties unless it's necessary to provide services you have requested, or to allow you to participate in a co-sponsored promotion. For example, we will provide your name and e-mail address to a marketing partner from which you're purchasing goods or services, or from which you are requesting a catalog. 
 
-We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.google.com/privacy_ads.html). 
-
 We also provide links to other websites, and provide access to products and services offered by third parties, whose privacy policies we don't control. The privacy policies of these third party sites may differ from ours. If you can't find the privacy policy of any of our provider partners through a link either from the site's homepage or from the pages on which the products or services are offered, you should contact the provider directly for more information. 
 
 If you ever receive mailings from us that you do not wish to receive, please tell us by sending an e-mail to this address: webmaster[@]hometips.com. Please include your name and complete mailing address so we can remove you from our database. Additionally, you will find further opt-out instructions below in this privacy policy. 
@@ -41,10 +39,6 @@ If you ever receive mailings from us that you do not wish to receive, please tel
 Like most Internet sites, we track the total number of visitors using different sections and pages on our Web site. Occasionally we also invite our users to anonymously share certain personal information about themselves -- such as their age, income levels, hobbies and the like. In both cases, we aggregate this information and use it to gain a better understanding of our users' interests, and to improve the quality of our sites. We also share this aggregate information with advertisers, to help them gain a better understanding of the demographics of our audience. 
 
 Users also should be aware when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on HomeTips� bulletin boards or forums, that this information can be collected and used by third parties. This may result in unsolicited messages from other posters or third parties. Such activities are beyond our control. 
-
-Please note that any informative or entertaining articles, questions, or answers posted on the HomeTips site, including but not limited to the HomeTips Forums, become the sole, exclusive intellectual property of HomeTips upon posting on HomeTips. HomeTips does not warrant the accuracy or completeness of this information. 
-
-Users should be aware when they voluntarily disclose personally identifiable information (e.g., user name, e-mail address) on HomeTips bulletin boards or forums, that this information can be collected and used by third parties. This may result in unsolicited messages from other posters or third parties. Such activities are beyond our control. 
 
 **Opt-out information**
 
