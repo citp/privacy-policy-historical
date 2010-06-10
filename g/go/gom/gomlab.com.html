@@ -1,13 +1,18 @@
-<!--The following is the downloaded HTML source of the gomlab.com privacy policy that was archived on 2008-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20080617060021id_/http%3A//www.gomlab.com/eng/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gomlab.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610110846id_/http%3A//www.gomlab.com/eng/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link href="../ginclude/style/base.css" rel="stylesheet" type="text/css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<link href="/ginclude/style/base.css?20091104" rel="stylesheet" type="text/css">
     
-<title>GOM software - Free, Simple, Light, It just plays! - GOM Media Player, GOM encoder</title>
-<meta name="keywords" content="">
-<script>
+<link rel="shortcut icon" href="http://www.gomlab.com/favicon.ico" type="image/x-icon">
+<title>GOMlab.com - Play Any Video File, Any Time! The Best Media Player!</title>
+<meta name="keywords" content="Play Any Video File, Any Time! The Best Media Player!, MP4, FLV and MKV video playback software. Can play and encoding DVD AVI RM MOV TS, gom, lab, gomlab, gom lab, gomlab.com, multimedia, media, media player, gomplayer, gom player, player, gomaudio, gom audio, audio, gomencoder, gom encoder, encoder, gomcast, cast, converter, convert, video format changer, video format converter, release, presents, broadcast, broadcasting, casting, e-sports, esports, e sports, sports, game, music, special, premium">
+<meta name="Description" content="Play Any Video File, Any Time! The Best Media Player!, MP4, FLV and MKV video playback software. Can play and encoding DVD AVI RM MOV TS, gom, lab, gomlab, gom lab, gomlab.com, multimedia, media, media player, gomplayer, gom player, player, gomaudio, gom audio, audio, gomencoder, gom encoder, encoder, gomcast, cast, converter, convert, video format changer, video format converter, release, presents, broadcast, broadcasting, casting, e-sports, esports, e sports, sports, game, music, special, premium">
+<meta name="Robots" content="ALL">
+<meta name="googlebot" content="index,follow">
+<meta name="verify-v1" content="fj4kAD1NOPgGIj9tWaKMLoEZYW29aJf/KLOzIdnT2c0=">
+<script language="javascript" type="text/javascript">
   <!-- 
   function null_value(){
    var sf = document.search_form;  
@@ -79,7 +84,7 @@ function gtype_setcookie() {
     var returl = document.URL;
 	returl = escape(returl);
 	    
-    top.location = "/"+gtype_gourl+"/login.html?redirect="+returl;      
+    top.location = "http://www.gomlab.com/eng/newLogin.html?redirect="+returl;      
   }
       
   function leng_move()
@@ -87,27 +92,61 @@ function gtype_setcookie() {
     var langform = document.leng;  
     var sindex = langform.lengtype.selectedIndex; 
     lang = langform.lengtype.options[sindex].value; 
-    
       
     var returl = document.URL;
     var partStr=returl.split("/");
     returl = partStr[4]; 
-        	    
+	//alert(returl);
     if (returl == "") {
-         top.location = "/"+lang+"/index.html?langgtype="+lang;     
+		if(lang == "japan") {
+				top.location = "http://www.gomplayer.jp/";
+		} else {
+	         top.location = "/"+lang+"/index.html?langgtype="+lang;
+		}
     } else {    
-        var t_point_type = returl.lastIndexOf("langgtype=");      
-        
-        if (t_point_type > 0) {
-          var returl =  returl.substring(0,t_point_type-1);                   
-        }
-        
-        var t_point_type2 = returl.lastIndexOf("?");      
-        if (t_point_type2 > 0) {
-          top.location = "/"+lang+"/"+returl+"&langgtype="+lang;      
-        } else {
-          top.location = "/"+lang+"/"+returl+"?langgtype="+lang;      
-        }
+		if(returl == "thankyou.html" || returl == "donation.html"){
+			if(lang == "japan") {
+				top.location = "http://www.gomplayer.jp/";
+			} else {
+				top.location = "/"+lang+"/";
+			}
+		} else {
+			var t_point_type = returl.lastIndexOf("langgtype=");      
+			
+			if (t_point_type > 0) {
+			  var returl =  returl.substring(0,t_point_type-1);                   
+			}
+			
+			var t_point_type2 = returl.lastIndexOf("?");      
+			if (t_point_type2 > 0) {
+				if (t_point_type2 > 0) {
+					var returl =  returl.substring(0,t_point_type-1);                   
+				} 
+				if(lang == "japan") {
+					top.location = "http://www.gomplayer.jp/";
+				} else if(lang == "ru") {
+					if(returl.indexOf("GMP_Howtouse") != -1 || returl == "GE_Introduction.html" || returl == "GE_download.html" || returl == "GMP_LogoLibrary.html" || returl == "GMP_SkinLibrary.html" || returl.indexOf("donation.html") != -1){
+						top.location = "/"+lang+"/";					
+					} else {
+						top.location = "/"+lang+"/"+returl;    
+					}
+				} else {
+					top.location = "/"+lang+"/"+returl;      
+				}
+			} else {
+				if(lang == "japan") {
+					top.location = "http://www.gomplayer.jp/";
+				} else if(lang == "ru") {
+					if(returl.indexOf("GMP_Howtouse") != -1 || returl == "GE_Introduction.html" || returl == "GE_download.html" || returl == "GMP_LogoLibrary.html" || returl == "GMP_SkinLibrary.html" || returl.indexOf("donation.html") != -1){
+						top.location = "/"+lang+"/";					
+					} else {
+						top.location = "/"+lang+"/"+returl;    
+					}
+				}  else {
+					top.location = "/"+lang+"/"+returl+"?langgtype="+lang;
+				}
+			}
+		}
     }
         
     }
@@ -176,7 +215,7 @@ function gtype_setcookie() {
     var gtype_gourl = getCookieGtype( 'gtype' );
     var returl = document.URL;
 	//returl = escape(returl);
-	top.location = "/"+gtype_gourl+"/login.html?redirect="+returl;
+	top.location = "/eng/newLogin.html?redirect="+returl;
   }
   	
   function go_search(){
@@ -197,17 +236,13 @@ function gtype_setcookie() {
 </script></head>
 
   
-
-
-  <body id="index" class="index" onload="gtype_setcookie(),change_leng();">
-  
-
+  <body id="index" class="index" onload="gtype_setcookie();change_leng();">
 <div id="Header">
     <!-- login -->
     <div id="BaseNav">
           
                   <!-- a href="/gforum/profile.html?mode=register" target="_top" >Register</a --> 
-          <a href="javascript:go_url('register_agreement.html?mode=register');">Register</a>&nbsp;&nbsp;
+          <a href="javascript:go_url('register_agreement.html?mode=register');">Sign up</a>&nbsp;&nbsp;
           <!-- a href="/eng/login.html" target="_top" >Log in</a -->		
           <a href="javascript:gologinret()">Log in</a>		
           <!-- a href="/gforum/login.html" target="_top" >Log in</a -->		
@@ -217,40 +252,23 @@ function gtype_setcookie() {
      <!-- gng -->
     <div id="GnbWrapper">
 			<div id="Gnb">
-				<div id="Branding"><a href="javascript:go_home();" title="GOM"><img src="../ginclude/img/logo.gif" alt="GOM"></a></div>				
+				<div id="Branding"><a href="javascript:go_home();" title="GOM"><img src="/ginclude/img/logo.gif" alt="GOM"></a></div>				
       	<ul id="GnbMenu">
           <li><a href="javascript:go_url('GMP_Introduction.html')" id="Software">GOM Software</a></li>
 					<li class="border">|</li>
-          <li><a href="javascript:go_url('GMP_download.html')" id="Download">Download</a></li>
+          <li><a href="javascript:go_url('GMP_SkinLibrary.html')" id="Library">Library</a></li>
 					<li class="border">|</li>
-          <li><a href="/gforum/index.html" target="_top" id="Forum">Forum</a></li>
+          <li><a href="/eng/forum.html" target="_top" id="Openlab">Forum</a></li>
           <!-- li><a href="gforum.html" id="Forum">Forum</a></li -->
           <!-- li><a href="gforum.html" id="Forum">Forum111</a></li -->
 				</ul>
 				
-				<!--[if IE]>
-				<div id='Language_ie'>
-				<![endif]-->				
-				<div id="Language">
-				<form name="leng">
-	            <select name="lengtype" onchange="leng_move()">
-				<option value="eng">English</option><!-- eng -->
-				<option value="japan">日本語 </option> <!-- jap -->
-				<option value="cn">中文(S)</option><!-- cn -->
-				<option value="tw">中文(T)</option><!-- tw -->
-				</select>				
-				</form>
-				</div>
-				<!--[if IE]>
-				</div>
-				<![endif]-->		
-								<div id="Search">
-				<form name="search_form" method="post" action="/ginclude/_inc/eng_header_search.html" target="_top" onsubmit="javascript:go_search()" ;="">				
+				<div id="Search">
+				<form name="search_form" method="post" action="/ginclude/_inc/eng_header_search.html" target="_top" onsubmit="javascript:go_search()">				
 				<!-- form name="search_form" method="post" action="/gforum/search.html?mode=results" onsubmit="javascript:go_search()"; -->								
 				<!-- input type="hidden" name="mode" value="results" -->		
 								<input type="hidden" name="langgtype" value="eng">						
-                <input type="text" name="search_keywords" class="input" value="Search" onfocus="null_value()"><a href="javascript:go_search()"><img src="../ginclude/img/btn_srch.gif" class="BtnSrch"></a>			
-													
+                <input type="text" name="search_keywords" class="input" value="Search" onfocus="null_value()"><a href="javascript:go_search()"><img src="/ginclude/img/btn_srch.gif" class="BtnSrch" alt="Search"></a><!-- 090723 --><a href="http://twitter.com/gomlab" target="_blank"><img src="/eng/eng_img/btn_twitter.gif" alt="follow @gomlab on Twitter" border="0" class="BtnTwitter"></a><!-- 090723 -->
 				</form>
 				</div>
 				
@@ -261,6 +279,7 @@ function gtype_setcookie() {
 </div>
 
 <hr class="menuBorder">
+
 <!-- #mainBody -->
 <div id="BodyWrapper">
 	
@@ -370,21 +389,42 @@ function gtype_setcookie() {
 </div>        
 <!-- #mainBody -->
 
-   <link href="../ginclude/style/base.css" rel="stylesheet" type="text/css">
-    
+  
 
 
-<hr class="menuBorder">
+
 
 <div class="clear"></div>
 <div id="Footer">
-<p class="subNav">
+<div id="Fbody">
+<a href="/eng/terms_of_service.html" target="_top">TERMS OF SERVICE</a>
+&nbsp;|&nbsp;
 <a href="/eng/privacy_policy.html" target="_top">PRIVACY POLICY</a>
 &nbsp;|&nbsp;
 <a href="/eng/contactus.html" target="_top">CONTACT US</a>
-</p>
 <p class="copy">Copyright © GRETECH CORP. All Rights Reserved.</p>
 </div>
+<!--[if IE]>
+<div id='Language_ie'>
+<![endif]-->				
+<div id="Language">
+<form name="leng" action="">
+<span class="bTitle">Language : </span>
+<select name="lengtype" onchange="leng_move()">
+<option value="eng">English</option><!-- eng -->
+<option value="ru">Русский</option><!-- ru -->
+<option value="japan">日本語 </option> <!-- jap -->
+<option value="cn">简体中文</option><!-- cn -->
+<option value="tw">繁體中文</option><!-- tw -->
+</select>				
+</form>
+</div>
+<!--[if IE]>
+</div>
+<![endif]-->
+<div class="clear"></div>
+</div>
+
 
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
