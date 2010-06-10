@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sega.com privacy policy that was archived on 2009-04-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090429052242id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sega.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610062454id_/http%3A//www.sega.com/legal/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html><head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -7,7 +7,7 @@
         <meta name="description" content="">
 
         <title>SEGA ::  </title>
-        <link type="text/css" rel="stylesheet" href="/css/segawest.css">
+        <link type="text/css" rel="stylesheet" href="/css/segawest1.css">
 
         <!-- DEFINE A HTMLTOP() TYPE THING FOR THE JS -->
         <script type="text/javascript">var htmlTop = "/";</script>
@@ -21,15 +21,12 @@
 
         
         <link type="text/css" rel="stylesheet" href="/css/themes/_legal.css">
-    
+            
         <script type="text/javascript">
-            var flagsSmallHeight = 16, flagsFullHeight = 340;
+            var flagsSmallHeight = 14, flagsFullHeight = 340;
             var subflagsSmall = 20, subflagsFull = 71;
 
-
             window.addEvent ('domready', function () {
-                // Initialise Slimbox (Lighbox)
-                //Lightbox.init.bind ();
 
                 // Set up flags
                 var mainFlags = $$("#flags");
@@ -39,96 +36,85 @@
                 var subfx = new Fx.Elements (subFlags, {wait: false, duration: 500});
 
                 mainFlags.each (function (mainFlag, i) {
-                	mainFlag.addEvent ("mouseenter", function (event) {
-                		var o = {};
-                		o[i] = {height: [mainFlag.getStyle ("height").toInt (), flagsFullHeight]}
-                		fx.start (o);
-                	});
+                    mainFlag.addEvent ("mouseenter", function (event) {
+                        var o = {};
+                        o[i] = {height: [mainFlag.getStyle ("height").toInt (), flagsFullHeight]}
+                        fx.start (o);
+                    });
                 });
-            	mainFlags.each (function (mainFlag, i) {
+                mainFlags.each (function (mainFlag, i) {
                     mainFlag.addEvent ("mouseleave", function (event) {
                         var o = {};
                         o[i] = {height: [mainFlag.getStyle ("height").toInt (), flagsSmallHeight]}
-                    	fx.start (o);
-                	});
+                        fx.start (o);
+                    });
                 })
                 subFlags.each (function (subFlag, i) {
-                	subFlag.addEvent ("click", function (event) {
-                		var o = {};
-                		o[i] = {height: [subFlag.getStyle ("height").toInt (), subflagsFull]}
-                		subfx.start (o);
-                	});
+                    subFlag.addEvent ("click", function (event) {
+                        var o = {};
+                        o[i] = {height: [subFlag.getStyle ("height").toInt (), subflagsFull]}
+                        subfx.start (o);
+                    });
                 });
-            	subFlags.each (function (subFlag, i) {
+                subFlags.each (function (subFlag, i) {
                     subFlag.addEvent ("mouseleave", function (event) {
                         var o = {};
                         o[i] = {height: [subFlag.getStyle ("height").toInt (), subflagsSmall]}
-                    	subfx.start (o);
-                	});
+                        subfx.start (o);
+                    });
                 })
-
-                // Make Tooltips for the flags - breaks site in IE7
-                // var FlagTips = new Tips($$('.flags .link'), {className: 'flagtip'});
             });
         </script>
+        
     </head>
 
     <body>
+
         <div class="mainContainer"><center>
-            <div class="globalNav"><center>
-                <div class="content"><center>
+            <div class="globalNav">
+                <div class="content">
+                                    <div id="flag_container">
+                    <div id="flags">
+                        <div class="flag_top"><div class="EnglishUSA">&nbsp;</div></div>
+                                                        <div class="flag"><a href="?t=EnglishUK" title="EnglishUK" class="EnglishUK">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=Australian" title="Australian" class="Australian">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=French" title="French" class="French">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=German" title="German" class="German">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=Spanish" title="Spanish" class="Spanish">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=Italian" title="Italian" class="Italian">&nbsp;</a></div>
+                                                                <div class="flag"><a href="?t=Dutch" title="Dutch" class="Dutch">&nbsp;</a></div>
+                                                        <div id="subflags" class="subflags">
+                            <div class="flag"><a href="javascript:void(0)" title="Belgium" class="Belgium">&nbsp;</a></div>
+                            <div class="divider">&nbsp;</div>
+                            <div class="flag"><a href="?t=French&amp;st=Belgium" title="French" class="French">&nbsp;</a></div>
+                            <div class="flag"><a href="?t=Dutch&amp;st=Belgium" title="Dutch" class="Dutch">&nbsp;</a></div>
+                            <div class="divider">&nbsp;</div>
+                        </div>
+
+                        <div class="flag"><a href="http://www.sega.jp/" title="Japan" class="Japan">&nbsp;</a></div>
+                        <div class="footer">&nbsp;</div>
+                    </div></div>
                     <ul>
                                                     <li class="first">
-                                <a href="http://www.playsega.com" rel="nofollow" target="_blank" title="">Play SEGA</a>
+                                <a href="http://www.sonicthehedgehog4.com" target="_blank" title="Sonic the Hedgehog 4: Episode I">Sonic the Hedgehog 4: Episode I</a>
                                 </li>
                                                              <li>
-                                <a href="/games/mario-and-sonic-at-the-olympic-winter-games/" rel="nofollow" target="_blank" title="Mario and Sonic at the Olympic Winter Games">Mario and Sonic at the Olympic Winter Games</a>
+                                <a href="/games/aliens-vs-predator/" target="_blank" title="Aliens vs. Predator™">Aliens vs. Predator™</a>
                                 </li>
                                                              <li>
-                                <a href="http://www.conduitgame.com" target="_blank" title="The Conduit website">The Conduit</a>
+                                <a href="http://www.ironman2game.com" target="_blank" title="Iron Man™ 2: The Video Game">Iron Man™ 2: The Video Game</a>
                                 </li>
                                                              <li>
-                                <a href="http://www.vt2009.com" target="_blank" title="">Virtua Tennis 2009</a>
+                                <a href="http://www.totalwar.com/napoleon" target="_blank" title="Napoleon Total War">Napoleon Total War</a>
                                 </li>
                                                              <li>
                                 <a href="http://www.playsega.com" target="_blank" title="Free Online Games at Play SEGA">Free Online Games</a>
                                 </li>
                                                  </ul>
 
-                                    	<div id="flags" class="flags">
-                        <div class="flag_top"><div class="EnglishUSA"><a href="#" class="link"><img src="/images/spacer.gif"></a></div></div>
-                                                            <div class="flag"><div class="EnglishUK"><a href="?t=EnglishUK" class="link" title="EnglishUK"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="EnglishUK"><a href="?t=EnglishUK" class="link" title="EnglishUK"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="Australian"><a href="?t=Australian" class="link" title="Australian"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="Australian"><a href="?t=Australian" class="link" title="Australian"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="French"><a href="?t=French" class="link" title="French"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="French"><a href="?t=French" class="link" title="French"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="German"><a href="?t=German" class="link" title="German"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="German"><a href="?t=German" class="link" title="German"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="Spanish"><a href="?t=Spanish" class="link" title="Spanish"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="Spanish"><a href="?t=Spanish" class="link" title="Spanish"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="Italian"><a href="?t=Italian" class="link" title="Italian"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="Italian"><a href="?t=Italian" class="link" title="Italian"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                            <div class="flag"><div class="Dutch"><a href="?t=Dutch" class="link" title="Dutch"><img src="/images/spacer.gif"></a></div></div>
-                                                                      <!--<div class="flag"><div class="Dutch"><a href="?t=Dutch" class="link" title="Dutch"><img src="/images/spacer.gif" /></a></div></div>-->
-                                                <div id="subflags" class="subflags">
-                            <div class="flag_top"><div class="Belgium"><a href="javascript:void(0)" class="link" title="Belgium"><img src="/images/spacer.gif"></a></div></div>
-                            <div class="divider">&nbsp;</div>
-                            <div class="flag"><div class="French"><a href="?t=French&amp;st=Belgium" class="link" title="French"><img src="/images/spacer.gif"></a></div></div>
-                            <div class="flag"><div class="Dutch"><a href="?t=Dutch&amp;st=Belgium" class="link" title="Dutch"><img src="/images/spacer.gif"></a></div></div>
-                            <div class="divider">&nbsp;</div>
-                        </div>
-
-                        <div class="flag"><div class="Japan"><a href="http://www.sega.jp" class="link" title="Japan"><img src="/images/spacer.gif"></a></div></div>
-                        <div class="footer">&nbsp;</div>
-                    </div>
-                </center></div>
-            </center></div>
-            <div class="clearingDiv" style="height: 26px">&nbsp;</div>
-                    <div class="mainTop">
-            <a href="/"><img src="/images/logos/sega.jpg" class="segaLogo"></a>
-
-            <script type="text/javascript">
+                </div>
+            </div>
+            <div class="mainTop"><a href="/"><img src="/images/logos/sega.jpg" class="segaLogo" alt="SEGA"></a> <script type="text/javascript">
                 function searchSite () {
                     window.location = '/search/?q=' + document.getElementById ('searchSite').value;
                 }
@@ -157,20 +143,19 @@
                 }
             </script>
 
-            <div class="searchBox">
-                <form action="javascript:searchSite()" method="post"><div class="inputArea" style="width: 150px; "><div class="inputLeft">&nbsp;</div><div class="inputMiddle2"><input type="text" id="searchSite" onfocus="javascript:manageBox('focus', 'searchSite', 'Search SEGA')" onblur="javascript:manageBox('blur', 'searchSite', 'Search SEGA')" value="Search SEGA" class="inputInput" style="width: 117px; color: rgb(172, 168, 153);"></div><div class="inputRight2"><a href="javascript:searchSite()"><img src="/images/blank.gif" style="width: 100%; height: 100%; border: 0px"></a></div></div></form>
+<div class="searchBox">
+                <form action="javascript:searchSite()" method="post"><div class="inputArea" style="width: 150px; "><div class="inputLeft">&nbsp;</div><div class="inputMiddle2"><input type="text" id="searchSite" onfocus="javascript:manageBox('focus', 'searchSite', 'Search SEGA')" onblur="javascript:manageBox('blur', 'searchSite', 'Search SEGA')" value="Search SEGA" class="inputInput" style="width: 117px; color: rgb(172, 168, 153);"></div><div class="inputRight2"><a href="javascript:searchSite()"><img src="/images/blank.gif" style="width: 100%; height: 100%; border: 0" alt=""></a></div></div></form>
                 <script type="text/javascript">
                     manageBox('onload', 'searchSite', 'Search SEGA');
-                </script>
-            </div>
+                </script></div>
 
-            <div class="navArea">
-                <div class="nav">
-                    <a class="button0_sml" href="/games"><span>GAMES</span></a><a class="button0_sml" href="/news"><span>NEWS</span></a><a class="button0_sml" href="/segapass/home.php"><span>SEGA PASS</span></a><a class="button0_sml" href="http://blogs.sega.com/usa"><span>BLOGS</span></a><a class="button0_sml" href="http://help.sega.com/?group=englishusa&amp;t=EnglishUSA"><span>SUPPORT</span></a><a class="button0_sml" href="http://boards2.sega.com/sega_board/index.php"><span>FORUMS</span></a><a class="button0_sml" href="/ecommerce"><span>E-STORE</span></a><a class="button0_sml" href="http://www.playsega.com/" target="_blank" rel="nofollow"><span>PLAYSEGA</span></a>                </div>
-            </div>
-        </div>
+<div class="navArea">
+<div class="nav">
+                    <a class="button0_sml" href="/games"><span>GAMES</span></a><a class="button0_sml" href="/news"><span>NEWS</span></a><a class="button0_sml" href="/segapass/home.php"><span>SEGA PASS</span></a><a class="button0_sml" href="http://blogs.sega.com/usa"><span>BLOGS</span></a><a class="button0_sml" href="http://help.sega.com/?group=englishusa&amp;t=EnglishUSA"><span>SUPPORT</span></a><a class="button0_sml" href="http://forums.sega.com/"><span>FORUMS</span></a><a class="button0_sml" href="/ecommerce"><span>E-STORE</span></a><a class="button0_sml" href="http://www.playsega.com/" target="_blank" rel="nofollow"><span>PLAYSEGA</span></a>                </div>
+</div>
+</div>
 
-        <div class="clearingDiv" style="height: 0px">&nbsp;</div>
+<div class="clearingDiv" style="height: 0px">&nbsp;</div>
 
         <div class="mainMiddle">
             <div class="mainLeft">
@@ -178,37 +163,40 @@
                 <div class="boxOne">
                     <div class="top">&nbsp;</div>
                     <div class="middle">
-                                        <div class="content">
-                    <form name="segawestgamesfilter" action="/games/" method="get">
+                        <div class="content">
+<form action="/games/" method="get" id="gamesearchform">
                         <div class="headingArea" style="width: 223px; "><div class="headingLeft">&nbsp;</div><div class="headingMiddle" style="width: 209px"><div class="headingText">SEARCH FOR A GAME</div></div><div class="headingRight">&nbsp;</div></div>
                         <div class="clearingDiv" style="height: 4px">&nbsp;</div>
+                        <div>
 
-                        <!-- PLATFORM SEARCH -->
-                                    <select id="searchPlatform" name="searchPlatform" class="selectArea" style="width: 223px"><option value="" selected="selected">Select a platform</option>
+<!-- PLATFORM SEARCH -->
+                                    <select id="searchPlatform" name="searchPlatform" class="selectArea" style="width: 223px"><option selected="selected" value="">Select a platform</option>
                 <option value="-1">Select All</option>
                 <option value="9">Wii™</option>
                 <option value="15">&nbsp;&nbsp; - Virtual Console™</option>
-                <option value="3">PLAYSTATION®3</option>
-                <option value="31">&nbsp;&nbsp; - PlayStation® Network</option>
+                <option value="3">PlayStation®3 system</option>
+                <option value="31">&nbsp;&nbsp; - PlayStation®Network</option>
                 <option value="5">Xbox 360®</option>
                 <option value="16">&nbsp;&nbsp; - Xbox LIVE®Arcade</option>
                 <option value="8">Nintendo DS™</option>
                 <option value="1">PC</option>
+                <option value="999">&nbsp;&nbsp; - Expansion Pack</option>
                 <option value="12">PC Download</option>
                 <option value="7">PSP® system</option>
-                <option value="2">PlayStation®2</option>
+                <option value="2">PlayStation®2 system</option>
                 <option value="4">Xbox®</option>
                 <option value="13">Apple Mac</option>
                 <option value="17">iPhone</option>
                 <option value="11">Mobile</option>
                 <option value="14">iPod</option>
-                <option value="18">&nbsp;&nbsp; - iPod Touch</option>
+                <option value="18">&nbsp;&nbsp; - iPod touch</option>
+                <option value="35">iPad</option>
                 <option value="19">GameCube™</option>
                 </select>
                         <div class="clearingDiv" style="height: 4px">&nbsp;</div>
 
-                        <!-- GENRE SEARCH -->
-                                    <select id="searchGenre" name="searchGenre" class="selectArea" style="width: 223px"><option value="" selected="selected">Select a genre</option>
+<!-- GENRE SEARCH -->
+                                    <select id="searchGenre" name="searchGenre" class="selectArea" style="width: 223px"><option selected="selected" value="">Select a genre</option>
                 <option value="-1">Select All</option>
                 <option value="1">Action / Adventure</option>
                 <option value="14">Action Puzzle</option>
@@ -217,28 +205,26 @@
                 <option value="3">Casual Games</option>
                 <option value="15">Collection</option>
                 <option value="4">Fighting</option>
-                <option value="10">First person shooter</option>
                 <option value="16">MMORPG</option>
                 <option value="11">Platform</option>
                 <option value="7">Puzzle</option>
                 <option value="17">RPG</option>
                 <option value="9">RPG / MMO</option>
                 <option value="8">Racing</option>
+                <option value="10">Shooter</option>
                 <option value="5">Soccer</option>
                 <option value="12">Sports</option>
                 <option value="13">Strategy / Sim</option>
                 </select>
                         <div class="clearingDiv" style="height: 4px">&nbsp;</div>
 
-                        <!-- NAME SEARCH -->
+<!-- NAME SEARCH -->
 
                         <div class="inputArea" style="width: 143px; float: left"><div class="inputLeft">&nbsp;</div><div class="inputMiddle"><input type="text" name="searchGame" id="searchGame" onfocus="javascript:manageBox('focus', 'searchGame', 'Enter game name...')" onblur="javascript:manageBox('blur', 'searchGame', 'Enter game name...')" value="Enter game name..." class="inputInput" style="width: 125px; color: rgb(172, 168, 153);"></div><div class="inputRight">&nbsp;</div></div>
                         <script type="text/javascript">
                             manageBox('onload', 'searchGame', 'Enter game name...');
-                        </script>
-                        <a class="button1" onclick="document.segawestgamesfilter.submit()" style="float: right; margin: 0px 8px 0px 0px; text-align: center; width: 55px"><span style="width: 47px">Go!</span></a>
-                    </form>
-                </div>
+                        </script> <a class="button1" onclick="document.getElementById('gamesearchform').submit()" style="float:right; margin: 0 8px 0 0; text-align:center; width:55px"><span style="width:47px">Go!</span></a></div></form>
+</div>
                     </div>
                     <div class="bottom">&nbsp;</div>
                 </div>
@@ -249,16 +235,19 @@
                 <div class="both"><center>
 	                <div style="text-align: justify; margin: 0px 8px 0px 8px; ">
 
-					<div class="headingArea" style="width: 496px; "><div class="headingLeft">&nbsp;</div><div class="headingMiddle" style="width: 482px"><div class="headingText">Privacy Policy</div></div><div class="headingRight">&nbsp;</div></div>
+					<div class="headingArea" style="width: 496px; "><div class="headingLeft">&nbsp;</div><div class="headingMiddle" style="width: 482px"><div class="headingText">Privacy Policy - Last updated on April 6, 2010</div></div><div class="headingRight">&nbsp;</div></div>
 					<br>
+					
 					<a href="http://www.esrb.org/confirm/sega-confirmation.jsp?" target="_blank"><img src="../images/esrb_certified.jpg" style="border: none; padding: 24px 0px 5px 10px; float: right;"></a><h2 id="top">SEGA of AMERICA'S ONLINE PRIVACY POLICY</h2>SEGA of America, Inc. (collectively, "SEGA" or "we") respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you.  To further this commitment, we have adopted this Online Privacy Policy ("Privacy Policy") to guide how we collect, store, and use the information you provide us.<br>
 <br>
 This Privacy Policy Statement and the certification seal located on this page confirms that SEGA is a valid licensee and participating member in the <a href="http://www.esrb.org" class="underlined_link">Entertainment Software Rating Board's Privacy Online Program: ESRB Privacy Online</a>.  To protect your privacy, we have voluntarily undertaken this privacy initiative and all of our websites have been reviewed and certified by ESRB Privacy Online to meet established online information collection and use practices.  As part of this privacy program, we are subject to frequent audits of our sites and other enforcement and accountability mechanisms administered independently by the ESRB.<br>
 <br>
 Because the website you have come from displays the ESRB Privacy Online certification seal, this Privacy Policy will tell you:<br>
-<ul><li><a href="#scope" class="underlined_link">The scope of this Privacy Policy;</a></li><li><a href="#types" class="underlined_link">Exactly what information SEGA may collect from you online;</a></li><li><a href="#howdoessegause" class="underlined_link">How SEGA will use the information it collects;</a></li><li><a href="#providepersonal" class="underlined_link">What are the consequences if you refuse to provide your personal information to SEGA when requested;</a></li><li><a href="#cookies" class="underlined_link">Whether SEGA uses cookies, tracks IP addresses, or uses other passive means to collect information about your visit our websites;</a></li><li><a href="#whoiscollecting" class="underlined_link">Who collects the information that you disclose on a SEGA website;</a></li><li><a href="#thirdparty" class="underlined_link">SEGA's policy regarding links to websites operated by other companies;</a></li><li><a href="#accesspersonal" class="underlined_link">How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;</a></li><li><a href="#safeguards" class="underlined_link">The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;</a></li><li><a href="#contactinfo" class="underlined_link">The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;</a> and,</li><li><a href="#under13" class="underlined_link">SEGA's policy regarding the collection of information from children under 13.</a></li></ul><br>
+<ul><li><a href="#scope" class="underlined_link">The scope of this Privacy Policy;</a></li><li><a href="#types" class="underlined_link">Exactly what information SEGA may collect from you online;</a></li><li><a href="#howdoessegause" class="underlined_link">How SEGA will use the information it collects;</a></li><li><a href="#providepersonal" class="underlined_link">What are the consequences if you refuse to provide your personal information to SEGA when requested;</a></li><li><a href="#cookies" class="underlined_link">Whether SEGA uses cookies, tracks IP addresses, or uses other passive means to collect information about your visit our websites;</a></li><li><a href="#whoiscollecting" class="underlined_link">Who collects the information that you disclose on a SEGA website;</a></li><li><a href="#thirdparty" class="underlined_link">SEGA's policy regarding links to websites operated by other companies;</a></li><li><a href="#accesspersonal" class="underlined_link">How you can view, and if necessary, update or delete the personal information SEGA has already collected and stored about you;</a></li><li><a href="#safeguards" class="underlined_link">The steps SEGA takes to ensure the security, quality, and integrity of the personal information it collects from online visitors;</a></li><li><a href="#contactinfo" class="underlined_link">The information you need to ask a question or file a complaint regarding this Privacy Policy or SEGA's online information practices;</a></li><li><a href="#policychanged" class="underlined_link">How will I know if this privacy policy has changed?</a> and,</li><li><a href="#under13" class="underlined_link">SEGA's policy regarding the collection of information from children under 13.</a></li></ul><br>
 <h2>The scope of this Privacy Policy:</h2>This Privacy Policy currently applies to the following websites operated by SEGA:<blockquote><a href="/home.php" class="underlined_link">www.sega.com</a><br>
 <a href="http://www.segamobile.com" class="underlined_link">www.segamobile.com</a><br>
+<a href="http://blogs.sega.com" class="underlined_link" target="_blank">blogs.sega.com</a><br>
+<a href="http://forums.sega.com/" class="underlined_link" target="_blank">forums.sega.com</a><br>
 </blockquote>In addition, SEGA may own several other domain names that point to the websites listed above.  From time to time, we may add new websites and will take reasonable steps to update the list.<br>
 Please note that this Privacy Policy applies only to information submitted and collected by SEGA online through the websites listed above, and does not apply to information that may be collected by SEGA offline.  In addition, this Privacy Policy applies to SEGA only, and <b>not</b> to websites maintained by our international affiliates or by other companies or organizations to which we link.  When you link to these websites or to any other sites from a website operated by SEGA (as listed above), this Privacy Policy no longer applies.  SEGA is therefore not responsible for the content or activities provided on such sites.<br>
 <br>
@@ -266,13 +255,15 @@ Please note that this Privacy Policy applies only to information submitted and c
 <br>
 <a href="#top" class="underlined_link">»Back to top</a><br>
 <a name="types" id="types">&nbsp;</a><h2>What types of information does SEGA collect?</h2>In order to give you the best experience on our websites, SEGA may collect information about you, but only if you voluntarily provide it to us.  Typically, we may ask you to submit personal and/or demographic information if you decide to:<br>
-<ul><li>Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);</li><li>Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);</li><li>Access and participate in message boards;</li><li>Participate in an online contest, beta test, tournament, or other event;</li><li>Email a question to our customer service desk;</li><li>Register a product online; and/or,</li><li>Purchase a product or service online (e.g., Phantasy Star Online subscription).</li></ul>Please note that before you can use some of the activities above, you may be required to register.  The ability to access certain areas and features of our websites by simply logging in is only available to those web users that have already created a username and password during an earlier visit to one of our websites.The types of personal information collected in conjunction with the activities listed above will vary depending on the activity.  The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information.<br>
+<ul><li>Register on one of our websites (which includes registering for Phantasy Star Universe to obtain a username and password);</li><li>Subscribe to a SEGA newsletter (e.g., SEGA NewsBlast);</li><li>Access and participate in message boards;</li><li>Participate in an online contest, beta test, tournament, or other event;</li><li>Email a question to our customer service desk;</li><li>Register a product online; and/or,</li><li>Purchase a product or service online (e.g., Phantasy Star Online subscription).</li><li>Register for Polls, Surveys or Questionnaires E-Cards or "Send-to-a-Friend" emails</li></ul>Please note that before you can use some of the activities above, you may be required to register.  The ability to access certain areas and features of our websites by simply logging in is only available to those web users that have already created a username and password during an earlier visit to one of our websites.The types of personal information collected in conjunction with the activities listed above will vary depending on the activity.  The requested information may include: (i) your name, (ii) mailing address, (iii) telephone number, (iv) email address, and, for those purchasing products or services online, (v) credit card and billing information.<br>
 <br>
 For some activities, we may also ask you to create a username and password and to provide other non-personal information such as: (i) your age or date of birth; (ii) your gender; (iii) your game and platform preferences; (iv) information about the hardware you may own and/or the game you may have recently purchased; (v) your favorite quotes, websites, and fan pages; and, (vi) other game-related information (collectively referred to as "demographic information").  If demographic information is collected for an activity that also requires personal information, we may combine your demographic information with your personal information.<br>
 <br>
 <a href="#top" class="underlined_link">»Back to top</a><br>
 <a name="howdoessegause" id="howdoessegause">&nbsp;</a><br>
 <h2>How does SEGA use the information it collects?</h2>Generally, information that we collect for a particular purpose is used for that purpose only.  For example, if you email us a question using our online Customer Service form, your personal information will only be used to provide a response to your inquiry.  Similarly, information collected from those who register on one of our websites account is used to provide registrants the benefits that come along with registration, which often include a subscription to our newsletter, access to the latest game news and special offers, contests, and other features.  In some instances, however, you may also be given the option to have your information used for an activity or service different from the activity or service that you are requesting (e.g., have your email address added to our newsletter mailing list when entering a contest).  If you choose to receive these additional services, we will use your information to provide them to you. If you choose to opt-in to receive e-mails from one of our partner companies (during registration for or participation in one of these events), we encourage you to visit such partner's website and read their policy before agreeing to provide your information to them.<br>
+<br>
+Any email addresses collected from you during the use of the E-Cards or "Send-to-a-Friend" email feature on any SEGA website are not retained by SEGA and are only used to send a one-time email notification on your behalf.<br>
 <br>
 From time to time, we are approached by third party companies and organizations that provide products or services that we believe may be of interest to you.  To extend these products or services to you, we may use your personal information to send out notices on their behalf.  We strive to limit the notices and communications to those that we think you would appreciate receiving.<br>
 <br>
@@ -363,6 +354,13 @@ New York, NY  10017<br>
 <a href="mailto:privacy@esrb.org" class="underlined_link">privacy@esrb.org</a><br>
 <br>
 <a href="#top" class="underlined_link">»Back to top</a><br>
+<a name="policychanged" id="thirdparty">&nbsp;</a><br>
+<h2>How will I know if this privacy policy has changed?</h2>We may amend this Privacy Policy at any time. If we make any material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email at the last email address that you provided us, or by prominently posting notice of the changes on the websites covered by this Privacy Policy. Any material changes to this Privacy Policy will be effective 30 days following our dispatch of an email notice to you or 30 days following our posting of notice of the changes on the Websites covered by this Privacy Policy.<br>
+<br>
+Please note that, at all times, you are responsible for updating your personal information to provide us your current email address. If the last email address that you have provided us is not valid, or for any other reason is not capable of delivering to you the notice described above, our dispatch of the email containing such notice will nonetheless constitute effective notice of the changes described in the notice.<br>
+<br>
+<a href="#top" class="underlined_link">»Back to top</a><br>
+<br>
 <a name="under13" id="under13">&nbsp;</a><br>
 <h2>SEGA's policy regarding children under 13:</h2>We do not knowingly collect personal information such as name and email address from children under 13.  From time to time, certain portions of our websites (e.g., a contest entry form) may allow all users (including children under 13) to disclose a limited amount of personal information without first telling us their age or parental permission.  Such portions of our sites operate activities or provide services in a way that does not require prior parental consent.<br>
 We recognize the importance of safeguarding the privacy of children and encourage parents to check and monitor their children's use of online activities regularly.<br>
@@ -483,18 +481,14 @@ ESRB also urges parents to talk with their children about their favorite games. 
     			<div class="boxTwo">
     				<div class="top">&nbsp;</div>
     				<div class="middle">
-                                        <div class="content">
+                        <div class="content">
                     <div class="headingArea" style="width: 223px; "><div class="headingLeft">&nbsp;</div><div class="headingMiddle" style="width: 209px"><div class="headingText">REGISTER FOR SEGA PASS</div></div><div class="headingRight">&nbsp;</div></div>
                     <div class="clearingDiv" style="height: 5px">&nbsp;</div>
-                    <div style="width: 138px; float: left; font-weight: bold">Not a member yet?</div>
-                    <div style="width: 74px; float: right; margin: 2px 11px 0px 0px">
-                        <img src="/images/logos/segapass.gif" style="margin: 0px 0px 9px 0px">
-                        <a class="button1" href="/segapass" style="float: right; margin: 0"><span>Register</span></a>
-                    </div>
-                    <div style="width: 118px; float: left">
-                        <div style="padding: 0px 0px 0px 0px">
-                            Sign up now to receive the latest updates on your favorite products!                        </div>
-                    </div>
+<div style="width: 138px; float: left; font-weight: bold">Not a member yet?</div>
+<div style="width: 74px; float: right; margin: 2px 11px 0 0"><img src="/images/logos/segapass.gif" style="margin-bottom:9px" alt=""> <a class="button1" href="/segapass" style="float: right; margin: 0"><span>Register</span></a>
+</div>
+<div style="width: 118px; float: left">
+  Sign up now to receive the latest updates on your favorite products!</div>
                 </div>
     				</div>
     				<div class="bottom">&nbsp;</div>
@@ -508,14 +502,11 @@ ESRB also urges parents to talk with their children about their favorite games. 
                     <ul>
                         <li class="first"><a href="/legal/privacy.php">Privacy</a></li>
                         <li><a href="/legal/terms.php">Site Terms</a></li>
-                        <!--<li><a href="#">Copyright</a></li>-->
-                        <li><a href="http://tbe.taleo.net/NA4/ats/careers/jobSearch.jsp?org=SEGAUSA&amp;cws=1">Careers</a></li>
-                        <!--<li><a href="#">Product Registration</a></li>-->
+                        <li><a href="/corporate/careers.php">Careers</a></li>
                         <li><a href="/corporate">Corporate</a></li>
-                        <!--<li><a href="#">RSS</a></li>-->
                                             </ul>
                     <div class="text">
-                        SEGA publishes video games for the PLAYSTATION®3 computer entertainment system, PlayStation®2 computer entertainment system, PSP® (PlayStation®Portable) system,<br> Wii™, Nintendo DS™, PC and Xbox 360®                    </div>
+                        SEGA publishes video games for the PlayStation®3 computer entertainment system, PlayStation®2 computer entertainment system, PSP® (PlayStation®Portable) system, Wii™, Nintendo DS™, PC and Xbox 360®                    </div>
                 </div>
             </div>
 
@@ -526,12 +517,12 @@ ESRB also urges parents to talk with their children about their favorite games. 
         </center></div>
 
 
-				<!-- SiteCatalyst code version: H.15.1.
+                <!-- SiteCatalyst code version: H.15.1.
 Copyright 1997-2008 Omniture, Inc. More info available at
 http://www.omniture.com -->
 
 <script type="text/javascript" src="http://www.sega.com/includes/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 /* You may give each page an identifying name, server, and channel on
 the next lines. */
 s.pageName="LEGAL::PRIVACY POLICY"
@@ -563,13 +554,12 @@ s.eVar5=""
 s.hier1=""
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
+<script type="text/javascript"><!--
 if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+//--></script><noscript><div><a href="http://www.omniture.com" title="Web Analytics"><img
 src="http://segaglobal.112.2O7.net/b/ss/segaglobal/1/H.16--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.16. -->
-    
+height="1" width="1" alt="" /></a></div></noscript><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.16. -->    
     
     
 
