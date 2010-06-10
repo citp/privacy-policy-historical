@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511031434id_/http%3A//www.majestic.co.uk/Help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the majestic.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610200037id_/http%3A//www.majestic.co.uk/Help/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy-Majestic
+# Privacy Policy
 
 ## 
 
