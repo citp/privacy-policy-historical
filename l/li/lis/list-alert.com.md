@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the list-alert.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204074728id_/http%3A//www.list-alert.com/about/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the list-alert.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191558id_/http%3A//www.list-alert.com/about/privacy.cfm) for the most accurate reproduction.*
 
-# Privacy Policy at List-Alert
+# Privacy Policy
 
 **_Privacy Policy_**   
 
