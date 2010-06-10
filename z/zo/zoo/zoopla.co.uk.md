@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228080333id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoopla.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610063119id_/http%3A//www.zoopla.co.uk/privacy) for the most accurate reproduction.*
 
 # Zoopla! Privacy policy
 
