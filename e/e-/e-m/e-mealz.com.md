@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214054231id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-mealz.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610094545id_/http%3A//www.e-mealz.com/privacy.shtml) for the most accurate reproduction.*
 
 # E-mealz - a meal planning resource for busy moms and frugal family cooks.
 
