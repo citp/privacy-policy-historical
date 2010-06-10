@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225140848id_/http%3A//www.indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indusnet.co.in privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610191924id_/http%3A//www.indusnet.co.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Indus Net Technologies - Privacy Policy
 
@@ -114,7 +114,3 @@ Indus Net Technologies may otherwise disclose your personal information when:
 ### Contacting us regarding our privacy policy
 
 If you have questions or suggestions about this privacy policy, or your own personal information, please e-mail us at [privacy@indusnet.co.in](mailto:privacy@indusnet.co.in)
-
-[](http://www.internetworld.co.uk/indus-net-technologies.html)
-
-## Our Ventures
