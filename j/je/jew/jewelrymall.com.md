@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2009-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090410144605id_/http%3A//www.jewelrymall.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jewelrymall.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610095033id_/http%3A//www.jewelrymall.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
