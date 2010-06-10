@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029015249id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the education.vic.gov.au privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610175203id_/http%3A//www.education.vic.gov.au/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement - Department of Education and Early Childhood Development
 
@@ -86,4 +86,4 @@ Fax: 03 9657 2626
 
 Email: [webinfo@edumail.com.au](mailto:webinfo@edumail.com.au?Subject=Privacy%20Statement%20enquiry)
 
-For further information regarding privacy, view the [_Victorian Information Privacy Act 2000_](http://www.dms.dpc.vic.gov.au/Domino/Web_Notes/LDMS/PubLawToday.nsf/2184e627479f8392ca256da50082bf3e/a318444c40ffd492ca2570cf00042812!OpenDocument) (http://www.dms.dpc.vic.gov.au/) or go to the [Privacy Victoria website](http://www.privacy.vic.gov.au/) (http://www.privacy.vic.gov.au/).
+For further information regarding privacy, view the [_Victorian Information Privacy Act 2000_](http://www.legislation.vic.gov.au/Domino/Web_Notes/LDMS/PubStatbook.nsf/f932b66241ecf1b7ca256e92000e23be/4BE13AE4A4C3973ECA256E5B00213F50/$FILE/00-098a.pdf) (http://www.legislation.vic.gov.au/) or go to the [Privacy Victoria website](http://www.privacy.vic.gov.au/) (http://www.privacy.vic.gov.au/).
