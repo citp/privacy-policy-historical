@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421004819id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessdictionary.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610091609id_/http%3A//www.businessdictionary.com/disclaimer.php) for the most accurate reproduction.*
 
 # Privacy Policy, Disclaimer and Copyright
 
@@ -23,6 +23,6 @@ We are not responsible for the claims or representations made by advertisers and
 
 We are very pleased to have partnered with Vijay Luthra to bring you this dictionary. Vijay is the author and copyright holder of the definitions, and under our partnership we have the exclusive and permanent right to publish the definitions online. Vijay shares our passion for educating as many people as possible about business and helping them to succeed in their careers.
 
-Copyright©2007-2009 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
+Copyright©2007-2010 Vijay Luthra and BusinessDictionary.com. ALL RIGHTS RESERVED.
 
-Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20090421004819id_/contact.php).
+Reproduction of all or part of this dictionary and/or of any other content on this site, in any format, without our written consent is strictly prohibited. If you have questions about this dictionary please feel free to [contact us](https://web.archive.org/web/20100610091609id_/contact.php).
