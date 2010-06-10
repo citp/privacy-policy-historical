@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202084249id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrystickets.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610105134id_/http%3A//www.barrystickets.com/privacy.php) for the most accurate reproduction.*
 
 # Barrys Tickets - Privacy Policy
 
 | 
+
+## Barry's Tickets - Privacy Policy
 
 [](http://www.truste.org/ivalidate.php?url=www.barrystickets.com&sealid=101)
 
@@ -16,7 +18,7 @@ In the event that Barrystickets.com is acquired by or merged with a third party,
 
 WE DO NOT SELL YOUR PERSONAL INFORMATION OR EMAIL ADDRESS TO "LIST BROKERS" OR ANY OTHER THIRD PARTY.
 
->   * **How the Information is Used**
+  * **How the Information is Used**
 
 
 
@@ -174,5 +176,3 @@ WE DO NOT SELL YOUR PERSONAL INFORMATION OR EMAIL ADDRESS TO "LIST BROKERS" OR A
 
 >   
 >  Questions regarding this statement should be directed to Barrystickets.com's site coordinator at [info@barrystickets.com](mailto:info@barrystickets.com)
-
-| 
