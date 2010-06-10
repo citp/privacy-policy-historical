@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the poorvika.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617035028id_/http%3A//www.poorvika.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poorvika.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610222927id_/http%3A//www.poorvika.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Mobiles at lowest rate in India. Mobile showroom at Chennai . lowest price on mobile phones accessories, recharge, iPods, Mp3, memory card, Camera, DTH. “Think mobile!.. Think poorvika!... “ Buy branded mobile Nokia mobile, Sony mobile, Samsung mobile, Htc mobile, Blackberry mobile ,Lg mobile at lowest price in India. Buy your favorite mobiles through online purchase. Free home delivery available only at poorvika
 
-|  |  |   
+|  |   
 ---  
 | **Privacy Policy - General**  
 ---  
