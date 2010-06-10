@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the thecorner.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002324id_/http%3A//www.thecorner.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecorner.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610231918id_/http%3A//www.thecorner.com/cms/legal/privacypolicy.asp) for the most accurate reproduction.*
 
 # THECORNER.COM - Legal Area
 
 |  |   
-Welcome to the United States section of THECORNER.COM (the “US Site”).  The US Site is operated, under license, by YOOX Corporation, a Delaware corporation having an address at 80 River Street, Hoboken, New Jersey, 07030 ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., the owner of the US Site, an Italian company having an address at Via Nannetti, 1, 40069 Zola Predosa – Bologna, Italy ("YOOX Italy").  
+Welcome to the United States section of thecorner.com (the “US Site”).  The US Site is operated, under license, by YOOX Corporation, a Delaware corporation having an address at 80 River Street, Hoboken, New Jersey, 07030 ("YOOX USA"). YOOX USA is a subsidiary of YOOX S.p.A., the owner of the US Site, an Italian company having an address at Via Nannetti, 1, 40069 Zola Predosa – Bologna, Italy ("YOOX Italy").  
 Please read our privacy policy (the “Privacy Policy”) carefully. This Privacy Policy applies when you visit and surf the US Site regardless of whether you purchase products or not, when you register with the US Site and when you use our services. By using the US Site, you accept the practices described in this Privacy Policy. If you do not want to accept the practices described in this Privacy Policy, please do not use the US Site.  
 Since personal data of users and customers of the US Site may be processed in Italy, any such processing of personal data will be conducted in compliance with applicable US law as well as the Italian Data Protection Code (Legislative Decree no. 196 dated June 30, 2003). Pursuant to the Italian Data Protection Code, YOOX USA is the controller of personal data of users and customers of the US Site. As the controller of personal data, YOOX USA independently determines the purposes and means by which your personal data is processed, including all security measures. As required by the Italian Data Protection Code, YOOX USA has appointed YOOX Italy as its data protection representative in Italy. As our data protection representative in Italy, YOOX Italy independently ensures that personal data is processed in Italy in a correct and lawful manner and in accordance with good practice.  
 **1.** |   | **OUR POLICY**  
@@ -21,7 +21,7 @@ The following is a list of the companies primarily involved in the processing of
   * BT Italia S.p.A. We provide I.Net, by electronic means, with personal data contained in registration or order forms for purposes relevant to the housing of our servers; 
   * [Prestige International ("Prestige")](http://english.prestigein.com/). We provide Prestige, by electronic means, with customers' contact information for purposes connected to call center and customer care services available to the users and customers of the US Site; 
   * [ND Logistic Italia S.p.A ("ND")](http://www.norbert-dentressangle.com/). We provide ND Logistic Italia S.p.A. with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site. 
-  * [Distribution Solution Inc. ("DSI")](http://www.dsi3pl.com/locations.asp). We provide DSI with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site. 
+  * [Port Logistics Group ("PLG"](http://www.portlogisticsgroup.com/). We provide PLG with customers' personal contact information for purposes relevant to the processing of purchase orders for products sold on the US Site. 
   * Paymentech Inc. ("Paymentech"). We provide Paymentech with customers' personal contact information for the performance of electronic payment services through credit/debit cards for products sold on the US Site. 
   * Global Collect BV . ("Global Collect"). We provide Global Collect with customers' personal contact information for the performance of electronic payment services through credit/debit cards for products sold on the US Site. 
   * [YOOX Italy](http://www.yoox.com/). We provide YOOX Italy with personal data of users and customers for purposes related to direct marketing services of YOOX USA and in connection with other services provided by YOOX Italy to YOOX USA, such as call center and help desk services.
@@ -65,7 +65,7 @@ In addition, your personal data may be disclosed to third parties in order to (1
 Any third party information disclosed to YOOX USA in accordance with this Privacy Policy will not be used for any purpose other than as required to technically operate the service, to complete a transaction, or as otherwise required by law.  
 In the event there is a change in the corporate structure of YOOX USA including, without limitation, by merger, consolidation, sale, liquidation, or transfer of substantial assets, YOOX USA may, in its sole discretion, transfer, sell or assign personal data collected on and through the US Site, including, without limitation, personally identifiable information and aggregate information concerning users and customers, to one or more affiliated or unaffiliated third parties.  
 **6.** |   
-| **HOW DO WE COLLECT YOUR DATA ON THECORNER.COM**  
+| **HOW DO WE COLLECT YOUR DATA ON thecorner.com**  
 |  | 
 
 Cookies  
