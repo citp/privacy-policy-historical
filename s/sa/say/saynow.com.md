@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the saynow.com privacy policy that was archived on 2009-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090802115308id_/http%3A//www.saynow.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saynow.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205127id_/http%3A//www.saynow.com/info/privacy) for the most accurate reproduction.*
 
 # SayNow
-
-## Privacy Policy
 
 SayNow knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting SayNow's web site, submitting information or using any of our services, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
