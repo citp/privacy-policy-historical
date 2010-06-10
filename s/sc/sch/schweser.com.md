@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2009-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090525101358id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the schweser.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610175406id_/http%3A//www.schweser.com/help/privacypolicy.php) for the most accurate reproduction.*
 
-# Financial Risk Manager Exam Review, FRM Study Program - Schweser.com
+# Professional Development, Continuing Professional Education, Financial, Accounting, Distance Learning - Schweser.com
 
   
 | 
@@ -132,7 +132,7 @@ Information you provide at the time of registration (if you are 13 or older) may
 If you wish to terminate your relationship with us and wish for us to eliminate your information from our database, please contact our Privacy Policy Coordinator at [online@schweser.com](mailto:online@schweser.com?subject=Privacy%20Policy%20-%20Terminate%20Account) and provide your account name (your email address) and schweser.com password. 
 
   11. **Contact Us**  
-If you have questions or concerns regarding this privacy statement, you should contact the company via our [contact page](https://web.archive.org/web/20090525101358id_/http%3A//www.schweser.com/help/contact_us.php). 
+If you have questions or concerns regarding this privacy statement, you should contact the company via our [contact page](https://web.archive.org/web/20100610175406id_/http%3A//www.schweser.com/help/contact_us.php). 
   12. **Your Acceptance of These Terms**  
 By using this website, you signify your consent to schweser.com's Privacy Policy. If you do not agree to this, please do not use our websites or services. Your continued use of our websites or services following the posting of changes to these terms will mean you accept those changes in accordance with the Terms of Use.
 
