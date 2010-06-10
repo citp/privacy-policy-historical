@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617191947id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keysurvey.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610195719id_/http%3A//www.keysurvey.com/legal/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[ Click to download PDF version](https://web.archive.org/pdf/privacy.pdf)  (172 kb). 
-
-  
-
+[ Click to download PDF version](http://docs.worldapp.com/collateral/privacy_policy.pdf)
 
 Key Survey is the official trademark of WorldAPP. Your use of www.keysurvey.com site is governed by Key Survey's Terms of Use and this Privacy Policy. The purpose of this Privacy Policy is to disclose what information we collect, how the information you may provide to Key Survey is used by the company, and how such information is both protected and made available on our Web site.
 
 This privacy policy may change from time to time, so you are encouraged to check the page regularly. We will inform our users of the material changes to privacy policy by including this information into our regular Update notifications. Key Survey will operate this Web site according to the Privacy Policy that is posted at the time.
+
+WorldAPP complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. WorldAPP has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  
+
 
 ## TABLE OF CONTENTS 
 
