@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webvision2020.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619222255id_/http%3A//www.webvision2020.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webvision2020.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610205235id_/http%3A//www.webvision2020.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Web Vision 2020
 
@@ -217,8 +217,9 @@ We may change this Privacy Policy from time to time without notice to you to tak
 
 If you have any questions in relation to privacy, please contact our Privacy Officer at:
 
-Mega Success Club Pty Ltd  
-PO Box 808 Newport Beach NSW 2106 Australia  
-Email: [info@MegaSuccessClub.com](mailto:info@megasuccessclub.com)  
-Telephone (within Australia): 1300 782 734  
-Telephone (outside Australia): +61 412 817 373
+Webvision 2020  
+PO Box 410  
+Bunbury WA, Australia, 6231  
+Email: info@webvision2020.info  
+Telephone (within Australia): (08) 9791 6600  
+Telephone (outside Australia): +61 8 9791 6600
