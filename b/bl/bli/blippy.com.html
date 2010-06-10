@@ -1,160 +1,832 @@
-<!--The following is the downloaded HTML source of the blippy.com privacy policy that was archived on 2004-04-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20040401210626id_/http%3A//about.netster.com/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blippy.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610022446id_/http%3A//blippy.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-	<title>Netster®</title>
-	<link rel="stylesheet" href="css/style.css" type="text/css">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+	<meta name="keywords" content="">
+	<meta name="description" content="">
+	<meta name="robots" content="">
+
+	
+
+	<link rel="icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" type="image/x-icon">
+
+	<title>Blippy / Privacy Policy</title>
+
+	<link href="http://asset.blippy.com/stylesheets/compiled/master.css?1911" media="screen" rel="stylesheet" type="text/css">
+	
+
+	<script src="http://asset.blippy.com/javascripts/all.js?1911" type="text/javascript"></script>
+	<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php" type="text/javascript"></script>
+	<script type="text/javascript">
+//<![CDATA[
+// util
+
+var debug = function() { };;
+
+var notice = function(m) {
+	$(".flash").show();
+	$("#error").hide();
+	$("#notice").html(m).show();
+};
+var error = function(m) {
+	$(".flash").show();
+	$("#notice").hide();
+	$("#error").html(m).show();
+};
+var flashClear = function() {
+	$(".flash").hide();
+	$("#notice").empty().hide();
+	$("#error").empty().hide();
+};
+
+var warn = function(m) {
+	$("#warning").hide();
+	$("#status").hide();
+	$("#warning").html(m).slideDown(500);
+};
+var note = function(m) {
+	$("#status").hide();
+	$("#warning").hide();
+	$("#status").html(m).slideDown(500);
+};
+var noteClear = function() {
+	$("#note").empty().hide();
+	$("#warning").empty().hide();
+};
+
+var loading = function() {
+	$("#loading").show();
+};
+var complete = function() {
+	$("#loading").hide();
+};
+
+var pollWithExponentialBackoff = function(callback, delay) {
+	setTimeout(function() {
+		callback();
+		pollWithExponentialBackoff(callback, delay * 2);
+	}, delay);
+};
+
+var deviceIphone = "iphone";
+var deviceIpod = "ipod";
+var deviceIpad = "ipad";
+var deviceAndroid = "android";
+var uagent = navigator.userAgent.toLowerCase();
+
+function DetectIphone() {
+  if (uagent.search(deviceIphone) > -1)
+    return true;
+  else
+    return false;
+}
+function DetectIpod() {
+  if (uagent.search(deviceIpod) > -1)
+    return true;
+  else
+    return false;
+}
+function DetectIpad() {
+  if (uagent.search(deviceIpad) > -1)
+    return true;
+  else
+    return false;
+}
+function DetectAndroid() {
+  if (uagent.search(deviceAndroid) > -1)
+    return true;
+  else
+    return false;
+}
+function DetectIphoneOrIpodOrAndroidOrIpad() {
+  if (DetectIphone())
+    return true;
+  else if (DetectIpod())
+    return true;
+  else if (DetectIpad())
+    return true;
+  else if (DetectAndroid())
+    return true;
+  else
+    return false;
+}
+
+
+
+// session
+
+$(document).one("mousemove", function() {
+	$.post("/sessions/validate?guid=40c96414-7437-11df-b840-123139181e57", null, function(data) {});
+});
+
+
+// modal
+
+$(document).ready(function() {
+	$("#modal").jqm();
+});
+
+// notifications
+
+$(document).ready(function() {
+  var dropdownOpen = 0;
+	$(".notification-tab").click(function() {
+	  if(dropdownOpen == 1) {
+	    $(".notification-dropdown", this).hide();
+	    $(this).removeClass("selected-border").addClass("inactive");
+	    dropdownOpen = 0;
+	  } else {
+	    dropdownOpen = 1;
+  		$(".notification-dropdown", this).show();
+  		$(this).removeClass("active inactive").addClass("selected-border");
+  		count = $(this).closest(".notification-tab").find(".count");
+  		type = $(this).closest(".notification-tab").find(".type");
+  		if (count.attr("title") > 0) {
+  			$.post('/users/seen_notifications', { type: type.attr("title") });
+  			count.hide().attr("title",0);
+		  }
+	  }
+	}).mouseenter(function() {
+		$(this).data("cancel", false);
+	}).mouseleave(function() {
+		$(this).data("cancel", true);
+		var self = this;
+		setTimeout(function() {
+			if (!$(self).data("cancel")) {
+				return;
+			}
+			$(".notification-dropdown", self).hide();
+			$(".unseen", self).removeClass("unseen");
+	    dropdownOpen = 0;
+			$(self).removeClass("selected-border").addClass("inactive");
+		}, 500);
+  });
+});
+
+// search
+
+$(document).ready(function() {
+	$(".autocomplete #q").autocomplete("/search?format=json", {
+		loading: function() { loading(); },
+		complete: function() { complete(); },
+		startMessage: "Search for people or businesses...",
+		defaultMessage: function(term) { return "Search for \"" + term + "\"" },
+		defaultMessageClick: function(term) {
+			$(".autocomplete #q").val(term);
+			location.href = "/search?q=" + term;
+		},
+		formatItem: function(row) { return row[2]; }
+	}).result(function(event, item) {
+		$(".autocomplete #q").val(item[1]);
+		location.href = item[3];
+	});
+});
+
+// tabs
+
+$(document).ready(function() {
+	$(".tab").live('click', function(e) {
+		e.preventDefault();
+
+		if (typeof($(this).attr("tab")) == "undefined") {
+			return;
+		}
+
+		$(".tab-content").hide();
+		$(this).attr("tab") == "everything" ? $(".tab-content").show() : $("#" + $(this).attr("tab")).show();
+		$(".tab").removeClass("active");
+		$(this).addClass("active");
+		window.location.hash = "_" + $(this).attr("tab");
+	});
+
+	if (window.location.hash.charAt(1) == "_") {
+		var tab = window.location.hash.substring(2);
+		if ($("#" + tab).length > 0) {
+			$(".tab[tab=" + tab + "]").click();
+		}
+	}
+});
+
+// tipsy
+
+$(document).ready(function() {
+	if (!DetectIphoneOrIpodOrAndroidOrIpad()) {
+		$(".popup").tipsy();
+		$(".popup-n").tipsy({ gravity: 'n' });
+		$(".popup-s").tipsy({ gravity: 's' });
+		$(".popup-e").tipsy({ gravity: 'e' });
+		$(".popup-w").tipsy({ gravity: 'w' });
+	}
+});
+
+
+// facebook
+
+var __logged_in          = false;
+var __linked_to_facebook = false;
+var __loaded_facebook    = false;
+
+var facebookLoaded = function(callback) {
+	if (__loaded_facebook) {
+		callback();
+		return;
+	}
+	FB_RequireFeatures([ "Connect" ], function() {
+		FB.Facebook.init('53162dd43f6781cf872cdf6bb7b81f21', '/xd_receiver.html');
+		callback();
+	});
+};
+
+var facebookConnected = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	if (__linked_to_facebook) { // FIXME: Doesn't check session.
+		success();
+		return;
+	}
+	facebookLoaded(function() {
+		FB.Connect.requireSession(function() {
+			FB.Facebook.apiClient.users_getInfo([ FB.Connect.get_loggedInUser() ], [ 'uid', 'name', 'pic_square' ], function(response) {
+				if (__logged_in) {
+					$.getJSON('/facebook/link', {
+						"user[facebook_id]": response[0].uid,
+						"user[facebook_name]": response[0].name,
+						"user[facebook_profile_image_url]": response[0].pic_square
+					}, function(data, status) {
+						if (data) {
+							__linked_to_facebook = true;
+							success();
+						}
+						else {
+							failure(); // link_facebook action failed.
+						}
+					});
+				}
+				else {
+					success();
+				}
+			}, function() {
+				failure(); // users_getInfo failed.
+			});
+		}, function() {
+			failure(); // requireSession failed.
+		});
+	});
+};
+
+var facebookUser = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	facebookConnected(function() {
+		FB.Facebook.apiClient.users_getInfo([ FB.Connect.get_loggedInUser() ], [ 'uid', 'name', 'pic_square' ], function(response) {
+			success(response[0]);
+		}, function() {
+			failure(); // users_getInfo failed.
+		});
+	}, function() {
+		failure(); // facebookConnected failed.
+	});
+};
+
+var facebookStatus = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	facebookLoaded(function() {
+		FB.Connect.get_status().waitUntilReady(function(status) {
+			switch(status) {
+				case FB.ConnectState.connected:
+					success();
+					break;
+				case FB.ConnectState.appNotAuthorized:
+				case FB.ConnectState.userNotLoggedIn:
+					failure();
+					break;
+				}
+		});
+	});
+};
+
+var facebookShare = function(prompt, message, name, description, href, media) {
+	facebookConnected(function() {
+		FB.Connect.streamPublish(message, {
+			name: name,
+			description: description,
+			href: href,
+			media: media
+		}, null, null, prompt, function() {
+		}, false, null);
+	});
+}
+
+// twitter
+
+var __linked_to_twitter  = false;
+
+var twitterConnected = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	if (__linked_to_twitter) {
+		success();
+		return;
+	}
+	var modal = window.open('http://blippy.com/twitter/login', '_blank', 'height=400,width=800,left=300,top=200,resizable=yes', true);
+	var wait  = function() {
+		setTimeout(function() {
+			if (modal == null) {
+				failure(); // When does this happen?
+				return;
+			}
+			if (modal.closed) {
+				$.getJSON('/twitter/check', function(data) {
+					if (data) {
+						__linked_to_twitter = true;
+						success();
+					}
+					else {
+						failure(); // check_twitter action returned false.
+					}
+				});
+			}
+			else {
+				wait();
+			}
+		}, 25);
+	};
+	wait();
+};
+
+var twitterUser = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	twitterConnected(function() {
+		$.getJSON('/twitter/check', function(data) {
+			if (data) {
+				success(data);
+			}
+			else {
+				failure(); // check_twitter action returned false.
+			}
+		});
+	}, function() {
+		failure(); // twitterConnected failed.
+	});
+};
+
+var twitterStatus = function(success, failure) {
+	if (typeof(success) != 'function') { success = function(){}; }
+	if (typeof(failure) != 'function') { failure = function(){}; }
+	if (__linked_to_twitter) {
+		success();
+	}
+	else {
+		failure();
+	}
+};
+
+var twitterShare = function(status) {
+	window.open('http://twitter.com/home?status=' + status, '_blank', 'height=400,width=800,left=300,top=200,resizable=yes', true);
+};
+
+// transaction
+
+var youtubePlayerId;
+
+function youtubePlayerOff(containerId) {
+	var youtubePlayer = document.getElementById(youtubePlayerId);
+
+	if (youtubePlayer) {
+		youtubePlayer.pauseVideo();
+	}
+
+	var container = $("#" + containerId);
+	container.empty();
+	container.hide();
+}
+
+function youtubePlayerOn(containerId, youtubeId, title) {
+	youtubePlayerOff(containerId);
+
+	var container = $("#" + containerId);
+	$("<a />").attr({ "href": "#", "class": 'small' }).text("Stop").click(function(e) { e.preventDefault(); youtubePlayerOff(containerId); }).appendTo(container);
+	$("<br />").appendTo(container);
+	$("<div />").attr({ id: "yt_" + youtubeId }).appendTo(container);
+
+	youtubePlayerId = "ytplayer_" + youtubeId;
+
+	swfobject.embedSWF("http://www.youtube.com/v/" + youtubeId + "?enablejsapi=1&fs=1&playerapiid=ytplayer",
+	                   "yt_" + youtubeId,
+	                   "425",
+	                   "356",
+	                   "8",
+	                   null,
+	                   null,
+	                   { allowScriptAccess: "always", allowFullScreen: true },
+	                   { id: youtubePlayerId });
+
+	container.show();
+}
+
+function onYouTubePlayerReady() { // callback for youtube javascript player api, required
+	var youtubePlayer = document.getElementById(youtubePlayerId);
+	if (youtubePlayer) {
+		youtubePlayer.playVideo();
+	}
+}
+
+function enableHuluEmbeds() {
+  $(".link, .name", ".body .hulu").click(function(e) {
+    e.preventDefault();
+    videoId = $(this).attr('ref');
+    videoHref = $(this).attr("href");
+    $("#video_" + videoId).html('<a href="' + videoHref + '"></a>');
+    $("#video_" + videoId + " a").embedly({maxWidth: 500, wrapElement: 'div', method : "replace" });
+  })
+}
+
+// classify
+
+function classifyTransactionOn(id) {
+	$("#transaction_" + id + " .classification-editor").show();
+	$("#transaction_" + id + " .classification-editor input[type=text]:first").focus();
+	$("#transaction_" + id + " .statement").show();
+	$("#transaction_" + id + " .merchant").hide();
+	$("#transaction_" + id + " .timestamp").hide();
+}
+
+function classifyTransactionOff(id) {
+	$("#transaction_" + id + " .classification-editor").hide();
+	$("#transaction_" + id + " .statement").hide();
+	$("#transaction_" + id + " .merchant").show();
+	$("#transaction_" + id + " .timestamp").show();
+}
+
+// describe
+
+function describeTransactionOn(id) {
+	$("#transaction_" + id + " .description-editor").show();
+	$("#transaction_" + id + " .description-editor textarea:first").focus();
+	$("#transaction_" + id + " .description").hide();
+	$("#transaction_" + id + " .nudges").hide();
+	$("#transaction_" + id + " .likes").hide();
+	$("#transaction_" + id + " .comments").hide();
+}
+
+function describeTransactionOff(id) {
+	$("#transaction_" + id + " .description-editor").hide();
+	$("#transaction_" + id + " .description").show();
+	$("#transaction_" + id + " .nudges").show();
+	$("#transaction_" + id + " .likes").show();
+	$("#transaction_" + id + " .comments").show();
+}
+
+// upload callbacks
+
+function successfulUpload(id, data) {
+	var upload = $("<img />").attr({ "src": data });
+	var container = $("#image_" + id);
+
+	// clear the state of the image picker
+	$("#image_url_" + id).val("");
+	container.empty();
+	container.append(upload);
+
+	var snapper = $("#snap_" + id);
+	snapper.hide();
+}
+
+$(document).ready(function() {
+
+	// classify
+	$(".transaction .classify").live("click", function(e) {
+		e.preventDefault();
+		describeTransactionOff($(this).attr("ref"));
+		classifyTransactionOn($(this).attr("ref"));
+	});
+	$(".classification-editor .close").live('click', function(e) {
+		e.preventDefault();
+		classifyTransactionOff($(this).attr("ref"));
+	});
+	$(".classification-editor input[type=text]").autocomplete("/search?format=json&amp;type=business", {
+		loading: function() { loading(); },
+		complete: function() { complete(); },
+		startMessage: "Search for businesses...",
+		searchOnFocus: false,
+		formatItem: function(row) { return row[2]; }
+	}).result(function(event, item) {
+		$(this).val(item[0]);
+	});
+
+	// describe
+	$(".transaction .describe").live("click", function(e) {
+		e.preventDefault();
+		var self = $(this);
+		var id = self.attr("ref");
+
+		// display the description dialog
+		classifyTransactionOff(id);
+		describeTransactionOn(id);
+
+		// display the image picker
+		var picker = $("#pick_" + id);
+		picker.empty();
+		picker.imageSearch({
+			"default": picker.attr("rel"),
+			"callback": function(image_url) { $("#image_url_" + id).val(image_url); }
+		});
+	});
+	$(".description-editor .close").live("click", function(e) {
+		e.preventDefault();
+		describeTransactionOff($(this).attr("ref"));
+	});
+
+	// comment tagging
+	$(".description-editor textarea, .comment textarea").autocomplete("/search?format=json&amp;type=user", {
+		loading: function() { loading(); },
+		complete: function() { complete(); },
+		startMessage: "Type a username to tag someone in this purchase...",
+		formatItem: function(row) { return row[2]; },
+		hotKeyMode: true,
+		delay: 200
+	});
+
+	// publisher
+	$(".publisher .menu a").live("click", function(e) {
+		e.preventDefault();
+		var self = $(this);
+		var id = $(this).attr("ref");
+		var type = $(this).attr("class");
+		$(".picker, .uploader, .snapper").hide();
+		$("#" + type + "_" + id).show();
+	});
+
+	// image picker
+	$(".publisher .menu a.pick").live("click", function() {
+		var self = $(this);
+		var id = self.attr("ref");
+		var picker = $("#pick_" + id);
+
+		picker.empty();
+		picker.imageSearch({
+			"default": $("#transaction_" + id + " .title .merchant").html(),
+			"callback": function(image_url) { $("#image_url_" + id).val(image_url); }
+		});
+
+		$("#pick_" + id + " input[type=text]:first").focus();
+	});
+
+	// webcam
+	$(".publisher .menu a.snap").live("click", function() {
+		var self = $(this);
+		var id = self.attr("ref");
+		var snapper = $("#snap_" + id);
+
+		swfobject.embedSWF("/flash/webcam.swf", "embed_" + id, "320", "285", "9.0.0", null, {
+			"upload_url": "/transactions/" + id + "/upload_image",
+			"upload_id": id,
+			"before_callback": "loading",
+			"after_callback": "complete",
+			"success_callback": "successfulUpload"
+		});
+	});
+
+	// hover
+	if (DetectIphoneOrIpodOrAndroidOrIpad()) {
+		$(".transaction .controls, .transaction-block .merchant .inline-actions").show();
+  }
+	else {
+		$(".transaction").live("mouseover mouseout", function(e) {
+			if (e.type == 'mouseover') {
+				$(this).find(".controls").show();
+			}
+			else {
+				$(this).find(".controls").hide();
+			}
+		});
+
+		// block hover
+		$(".transaction-block .merchant").live("mouseover mouseout", function(e) {
+			if (e.type == 'mouseover') {
+				$(this).find(".inline-actions").show();
+			}
+			else {
+				$(this).find(".inline-actions").hide();
+			}
+		});
+	}
+
+	// calls to action
+	if (window.location.hash.substring(1) == "describe" || false) {
+		$(".describe:first").click();
+		notice("Describe this purchase!");
+	}
+	else if (window.location.hash.substring(1) == "comment" || false) {
+		$(".new_comment:first").show().find("textarea:first").focus();
+		notice("Reply to this thread!");
+	}
+  
+  enableHuluEmbeds();
+
+});
+
+// analytics
+
+var curUser = 0;
+
+// analytics
+function recordClick(link, tid, src, newTab) {
+	try {
+		$.ajax({
+			type: 'POST', 
+			dataType: "html",
+			contentType: "text/html",
+			url:  '/clicks?q=' + curUser + '&j=' + tid + '&w=' + escape(src)
+		});
+	}
+	catch (err) {
+	}
+
+	if (link != "#" && link.indexOf('hulu.com') < 0) {
+                if(!newTab){
+		  setTimeout('document.location = "' + link + '"', 100);	
+                }
+                //Safari does not easily obey this as default
+                //but change in preferences makes it work
+                else{
+                  setTimeout('window.open("' + link + '")', 100);
+                }
+	}
+}
+
+$(document).ready(function() {
+   
+  $(".clickable").delegate("a", "click", function (e){
+     if($(this).attr('ref')){
+       e.preventDefault();
+
+     //Register the Ctrl keyPress or on Mac the Command keyPress 
+     //so that we can try to open the link in new tab/window
+     //Safari is a bitch though coz it does not obey window.open
+     var newTab = false; 
+     if(e.metaKey || e.ctrlKey){ 
+       newTab = true;
+     }   
+       var tid = $(this).attr('ref');
+       recordClick($(this).attr("href"), tid, window.location.pathname, newTab);
+
+     }
+  });
+
+  $(".clickable").delegate("img", "click", function (e){
+     if($(this).attr('ref')){
+       e.preventDefault();
+
+     //Register the Ctrl keyPress or on Mac the Command keyPress 
+     //so that we can try to open the link in new tab/window
+     //Safari is a bitch though coz it does not obey window.open
+     var newTab = false;
+     if(e.metaKey || e.ctrlKey){  
+       newTab = true;
+     } 
+
+      var tid = $(this).attr('ref');
+      recordClick("#", tid, window.location.pathname, newTab); 
+    }
+  });
+
+});
+
+
+//]]>
+</script>
+	
+
 </head>
-<body bgcolor="White" background="images/background.gif" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
-<table border="0" cellpadding="2" cellspacing="2">
-	<tbody><tr valign="top">
-		<td>
-			<img src="images/privacy_title.gif" border="0" width="293" height="90">
-		</td>
-		<td align="left">
-			<iframe width="468" height="60" scrolling="no" frameborder="0" src="../banners/news_468.asp">
-				<!-- Content News, 468x60 Banner (Above Fold) -->
-				<script language="javascript" src="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=1;dt=1;ac=11;c=636;"></script><noscript><a href="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=2;dt=3;ac=11;c=636;" target="_blank"><img width="468" height="60" src="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=1;dt=3;ac=11;c=636;" border="0"></a></noscript>
-				<!-- Content News, 468x60 Banner (Above Fold) -->
-			</iframe>
-		</td>
-		<td align="right" valign="middle" width="100%">
-			<a href="http://www.netster.com">Home</a>
-		</td>
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="3" cellspacing="0" width="85%" align="left">
-	<tbody><tr>
-		<td width="10">&nbsp;&nbsp;</td>
-		<td>
-			<b>Netster® Privacy Policy and Terms of Use</b>
-				<br><br>
+<body class="">
+	<div id="modal" class="jqmWindow"></div>
+	<div id="loading"><img alt="Loading" src="http://asset.blippy.com/images/loading.gif?1911" style="vertical-align: middle;"></div>
 
-				By using our Products and Services, you agree, without limitation or qualification, to be bound by this Privacy Policy or any 
-				other privacy or data collection Privacy Policy related to services offered directly by Netster.com. Please note that Netster.com 
-				contains links to other sites and may allow those sites to be co-branded with the Netster® name. Web sites that are linked to 
-				Netster.com may have privacy policies that differ from that of the Netster.com This privacy policy only covers services offered 
-				by Netster.com.
-				<br><br>
+	<div class="header-wrapper">
+		<div class="header">
+			<a href="/?ref=logo" class="branding" title="Home">Blippy</a>
 
-				This privacy statement does not cover the privacy policies of Third party advertisers and or affiliates that advertise or list 
-				their products and services on Netster.com. Netster.com allows other companies that are presenting advertisements on some of our 
-				web pages to transmit, set and access their cookies on your computer. <b>Therefore, the following policies are those of Netster.com 
-				only</b>. 
-				<br><br>
 
-				When you visit Netster® and/or use any of the Netster® offered search services, The Netster® (Netster.com) collects certain 
-				statistical data. At this point The Netster® cannot identify you personally, but rather only collect statistical information on 
-				the usage, and pattern of usage of its services. This information is automatically received by Netster.com from your browser 
-				and is kept on our server logs. This information includes your I.P. address, our cookies, time and date of your visit, web pages 
-				as well as search queries requested by you. The Netster® uses this information to improve its services to its users, which includes 
-				you. The Netster®, further uses this information to custom tailor its content and advertising and to analyze our traffic in 
-				aggregate. Recent browser releases allow you to reconfigure and set your browser in such a manner that will greatly limit the 
-				amount data Netster.com as well as other websites are able to collect. You can choose whether to accept cookies by changing the 
-				settings of your browser. You can reset your browser to refuse all cookies, or allow your browser to show you when a cookie is 
-				being sent. If you choose not to accept these cookies, your experience at our site and other Web sites may be extremely limited 
-				and some features may not work properly. Please refer to the help section of your browser to learn how you can configure your 
-				browser so not to allow cookies to be placed on your computer. 
-				<br><br>
+			
 
-				<b>Cookies and single-pixel gifs</b><br>
-				Only the information that you provide, or the choices you make while visiting a Web site, can be stored in a cookie, 
-				(in addition to time, day of your visit and your I.P. address). Our site cannot determine your e-mail address unless you choose 
-				to type it in. The Netster® does not have access to the rest of your computer. The Netster®, its advertisers and or affiliates, 
-				may use single-pixel gif images, also called web beacons, to count Web page accesses and gather some general statistical 
-				information. Again, The Netster® does <b>not</b> gather personal information through the use of these images. The Netster® or our 
-				advertisers may use single-pixel gifs that can track personal information from cookies that may have been previously placed 
-				on a user's computer if the user has chosen to previously provide Netster® and/or its advertiser with such personal information.
-				<br><br>
+		</div><!-- .header -->
+	</div><!-- .header-wrapper -->
 
-				In addition to collecting anonymous statistical data, Netster.com also collects Personally Identifiable Information if you have 
-				chosen to provide The Netster® with such information. This information data tells us specifically who you are, i.e.; Your Name, 
-				E-Mail Address, Postal Address, etc. This Personally Identifiable Information is only collected, if YOU have chosen to provide 
-				it to The Netster®. This information is collected at the time <b>you</b> have <b>chosen</b> to sign-up for certain Netster.com products or 
-				services, such as e-mail, weather and financial personalized settings, browser updates, participation in a sweepstake or special 
-				offer. Netster.com uses this information to better understand your personal needs and in addition may use this information to 
-				send you product and service offers in the future. We may also use this information to provide to companies who work for or on 
-				behalf of Netster.com to provide special offers on product and services.
-				<br><br>
+	
+	<div class="content-wrapper">
+		<div class="content">
 
-				The sites displayed as search results or linked to by Netster.com and/or its affiliates are developed by third parties over whom 
-				The Netster® has no control. Third party affiliates or service providers, whom in some instances use complete automation, index 
-				most of the search results that appear on The Netster® results pages. The Netster® does not screen or censor any of this information, 
-				nor does The Netster® screen or censor any of the listings. The Internet is a worldwide system of computer networks in which any 
-				person can post information on their individual computer, which if connected to the Internet can be accessed by others, or, if 
-				they have permission, on the computers or computer networks of others. Today, the most popular portion of the Internet is the 
-				World Wide Web. This portion of the Internet is readily accessed with the use of a web browser. It is the goal of Netster.com to 
-				return to you the most relevant information and links to the web sites your search query has called for. However, we cannot 
-				guarantee that your search will not locate unintended or objectionable content. Further, certain materials accessible on the 
-				Internet is <b>NOT</b> appropriate for minors. The Netster® is concerned about your child's safety and does not accept banner 
-				advertisements containing adult content, however, has no control over your children's search queries, and the subsequent results 
-				of those queries. To limit and / or prevent your children's access to such materials, The Netster® suggest that you install 
-				commercially available hardware and/or software that has the ability to filter out such content. Such hardware / software products 
-				may be set to filter out content on weapons, sexual adult content, hate and racist content as well as violent content. They may 
-				also be set to disable chat sites, e-mail and message board forums. Netster.com and / or its affiliated companies assume no 
-				responsibility for your decision to utilize any "hyperlinks" to sites found on Netster.com results pages, or for the accuracy or 
-				usefulness of any materials contained in such sites.
-				<br><br>
+			<div class="body">
 
-				<b>THE SERVICES ARE PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND. NETSTER.COM DISCLAIMS ANY WARRANTIES, EXPRESS OR IMPLIED, 
-				INCLUDING ANY WARRANTIES OF TITLE, NON-INFRINGEMENT, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE.</b>
-				<br><br>
+				<div class="flash hidden">
+					<span id="notice" class="green hidden"></span>
+					<span id="error" class="fuschia hidden"></span>
+				</div>
 
-				Netster.com may amend this Agreement at any time, and at it sole discretion, by posting the amended terms on its Web site. 
-				All amended terms are automatically effective 7 days after they are initially posted. This Agreement may not be otherwise 
-				amended except in a written document signed by you and Netster.com
-				<br><br>
+				<div id="warning" class="warnings hidden"></div>
+				<div id="status" class="statuses hidden"></div>
 
-				<b>CHILDREN'S PRIVACY</b><br>
-				Protecting the privacy of children is an extremely important issue. For that reason we do not structure any part of our 
-				subscriber or affiliate services to attract anyone under the age of 13.  If parents believe their child (any age under 18) 
-				has accessed our system without their permission, they can contact our customer service department by e-mail at 
-				<a href="mailto:emailsupport@netster.net">emailsupport@netster.net</a>   <b>Visit</b> <a href="http://www.ftc.gov/kidzprivacy">http://www.ftc.gov/kidzprivacy</a> <b>for information from the Federal Trade Commission about 
-				protecting children's privacy online</b>.
-				<br><br>
+				<div class="heading">
+					<h1>Privacy Policy</h1>
 
-			<hr size="1" width="85%" color="#D7D7D7">
-			<div align="center">
-			<a href="about.asp">About Us</a> | <a href="qandq.asp">Questions and Complaints</a> | <a href="inquire.asp">Inquire About A Domain</a> | <a href="pcspam.asp">Spam Policy</a> | <a href="copyright.asp">Copyright Info</a>  |  <a href="privacy.asp">Privacy Policy</a> | <a href="termsandconditions.asp">SmartBrowse Terms and Conditions</a>
-			</div>
-			<br>
-			<div align="center"> 
-			<table border="0" cellpadding="0" cellspacing="0">
-				<form method="post" action="http://www.netster.com/results/results_redirect.asp" target="_top" id="form1" name="form1"></form>
-					<tbody><tr>
-						<td valign="top" align="center">
-							<table width="400" border="1" cellspacing="0" cellpadding="0" bgcolor="#FCF8D5" bordercolor="#C0C8C0">
-								<tbody><tr>
-									<td align="center">
-										<table cellpadding="0" cellspacing="0" align="center">
-											<tbody><tr>
-												<td height="54" valign="middle">
-													<input style="width: 300px" name="KeyWords">
-												</td>
-												<td>
-													&nbsp;<input type="submit" value="Search" id="submit1" name="submit1">
-												</td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
+				</div>
+
 				
-			</tbody></table>
-			<br>
-			<iframe width="468" height="60" scrolling="no" frameborder="0" src="../banners/news_468.asp">
-				<!-- Content News, 468x60 Banner (Above Fold) -->
-				<script language="javascript" src="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=1;dt=1;ac=11;c=636;"></script><noscript><a href="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=2;dt=3;ac=11;c=636;" target="_blank"><img width="468" height="60" src="http://z1.adserver.com/w/cp.x;rid=59;tid=1;ev=1;dt=3;ac=11;c=636;" border="0"></a></noscript>
-				<!-- Content News, 468x60 Banner (Above Fold) -->
-			</iframe>
-			</div>
-			<br>
-		</td>
-	</tr>
-</tbody></table>
+<div class="spaced">Blippy provides this Privacy Policy to inform you of our policies and procedures regarding the collection, use, and disclosure of the information that we collect and receive from users of our services at www.blippy.com (the "Services").  This Privacy Policy applies only to information that you provide to use through the Services.  Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms of Service (the "Terms").</div>
+<div class="spaced">As used in this policy, the terms .using. and .processing. information include using cookies on a computer, subjecting the information to statistical or other analysis and using or handling information in any way, including, but not limited to collecting, storing, evaluating, modifying, deleting, using, combining, disclosing and transferring information within our organization or among our affiliates within the United States or internationally.</div>
+<div class="spaced"><b>Information Collection and Use</b></div>
+<div class="spaced">Our primary goals in collecting personally identifiable information are to provide you with the Services, to administer your membership, and to enable users to enjoy and easily navigate the Services. </div>
+<div class="spaced"><b><i>Information Collected Upon Registration.</i></b></div>
+<div class="spaced">When you register with Blippy, you provide some personally identifiable information to us, such as your name, username, password, and email address, and any other information or data that you provide to the Services, such as the login credentials for any of your webmail or social networking site accounts that you link to your Blippy account, or any of your accounts on websites that you make purchases from which you link to your Blippy account. Personally identifiable information that we may also collect in order to provide the Services may include your IP address, city, time zone, telephone number, and other information that you decide to provide us with, or that you decide to include in your public profile.</div>
+<div class="spaced"><b><i>Additional Information.</i></b></div>
+<div class="spaced">Your user name and image, if you decide to upload one, are displayed to people in the Blippy network to enable you to connect with people on Blippy, as specified in your privacy settings. Once a member, you may provide additional information in the profile section, including but not limited to your bio, your location, as well as your personal web site, if you have one. Providing additional information beyond what is required at registration is entirely optional, but enables you to better identify yourself and find new friends and opportunities in the Blippy system. You may customize your account with information such as a cell phone number for the delivery of SMS messages or your address book so that we can help you find Blippy users that you know.  Our Services are primarily designed to help you share information about your purchases with others.  This information will be public by default, but you may make it more private by editing your account settings.  You should be careful about all information that will be made public by Blippy.</div>
+<div class="spaced"><b><i>Use of Contact Information.</i></b></div>
+<div class="spaced">In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Services. If you decide at any time that you no longer wish to receive such information or communications from us, please follow the unsubscribe instructions provided in any of the communications. </div>
+<div class="spaced"><b><i>Log Data.</i></b></div>
+<div class="spaced">When you visit the Services, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Services, and for the technical administration of the Services. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms. </div>
+<div class="spaced"><b><i>Cookies.</i></b></div>
+<div class="spaced">Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Services. A cookie is a small data file that we transfer to your computer.s hard disk. We do not use cookies to collect personally identifiable information. Blippy may use both session cookies and persistent cookies to better understand how you interact with the Services, to monitor aggregate usage by our users and web traffic routing on the Services, and to improve the Services. A session cookie enables certain features of the Services and is deleted from your computer when you disconnect from or leave the Services. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Services. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.</div>
+<div class="spaced"><b>Information Sharing and Disclosure</b></div>
+<div class="spaced"><b><i>Services Providers.</i></b></div>
+<div class="spaced">We may engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data. </div>
+<div class="spaced"><b><i>Compliance with Laws and Law Enforcement.</i></b></div>
+<div class="spaced">Blippy cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Blippy or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.</div>
+<div class="spaced"><b><i>Business Transfers.</i></b></div>
+<div class="spaced">Blippy may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.</div>
+<div class="spaced"><b>Changing or Deleting Information</b></div>
+<div class="spaced">If you are a registered user of the Services, you may access and update or correct the information you provided to us by e-mailing us at privacy@blippy.com.  If you would like us to remove your records from our system, please contact us and we will attempt to accommodate your request if we do not have any legal obligation to retain the record.</div>
+<div class="spaced"><b>Security</b></div>
+<div class="spaced">Blippy is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access.  We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on the Services in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.</div>
+<div class="spaced"><b>Links to Other Websites</b></div>
+<div class="spaced">Our Services contain links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.</div>
+<div class="spaced"><b>Our Policy Towards Children</b></div>
+<div class="spaced">The Services are not directed to persons under 13. If a parent or guardian becomes aware that their child has provided us with personally identifiable information without their consent, please contact us. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.</div>
+<div class="spaced"><b>Changes to this Policy</b></div>
+<div class="spaced">This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on the Services. You are advised to consult this Privacy Policy regularly for any changes.  By continuing to access or use the Services after a modification becomes effective, you agree to be bound by the revised Privacy Policy.  If the modified Privacy Policy is not acceptable to you, your only recourse is to cease using the Services.</div>
+<div class="spaced"><b>Contacting Us</b></div>
+<div class="spaced">If you have any questions about this Privacy Policy, please contact us at privacy@blippy.com.</div>
+<div class="spaced"><b>Last Updated:</b> January 14th, 2010</div>
 
+			</div>
+
+			<div class="rail">
+				<h4>About Blippy</h4>
+
+<ul class="tabs">
+	<li><a href="/about">about</a></li>
+	<li><a href="/jobs">jobs</a></li>
+	<li><a href="/terms">terms</a></li>
+	<li><span>privacy</span></li>
+	<li><a href="/rules">rules</a></li>
+	<li><a href="/security">security</a></li>
+</ul>
+
+
+				
+			</div>
+
+		</div>
+	</div>
+
+	<div class="footer-wrapper">
+		<div class="footer">
+			
+			<div class="body">
+				<a href="/about">about</a> ·
+				<a href="/jobs">jobs</a> ·
+				<a href="/terms">terms</a> ·
+				<a href="/privacy">privacy</a> ·
+				<a href="/rules">rules</a> ·
+				<a href="/security">security</a> ·
+				<a href="http://developer.blippy.com" target="_developer">developers</a> ·
+				<a href="http://blog.blippy.com" target="_blog">blog</a> ·
+				<a href="http://blippy.wufoo.com/forms/m7x4a3/" onclick="window.open('http://blippy.wufoo.com/forms/m7x4a3/',  null, 'height=434, width=680, toolbar=0, location=0, status=1, scrollbars=1,resizable=1'); return false;">send us feedback</a>
+			</div>
+			<div class="rail">
+				<a href="http://twitter.com/blippy" class="twitter-link" target="_blank">follow @blippy on Twitter</a>
+			</div>
+			<div class="badges">
+				<div class="badge"><!-- START SCANALERT CODE -->
+    <a target="_blank" href="https://www.mcafeesecure.com/RatingVerify?ref=174.129.154.193"><img width="94" height="54" border="0" src="//images.scanalert.com/meter/174.129.154.193/13.gif" alt="McAfee SECURE sites help keep you safe from identity theft, credit card fraud, spyware, spam, viruses and online scams" oncontextmenu="alert('Copying Prohibited by Law - McAfee Secure is a Trademark of McAfee, Inc.'); return false;"></a>
+    <!-- END SCANALERT CODE --></div>
+			</div>
+		</div>
+	</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try { var pageTracker = _gat._getTracker("UA-11156047-1"); pageTracker._trackPageview(); } catch(e) { }
+</script>
 
 
 
