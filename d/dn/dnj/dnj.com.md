@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206115843id_/http%3A//www.dnj.com/section/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dnj.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610035111id_/http%3A//www.dnj.com/section/PRIVACY) for the most accurate reproduction.*
 
 # dnj.com | Murfreesboro PRIVACY | The Daily News Journal
 
