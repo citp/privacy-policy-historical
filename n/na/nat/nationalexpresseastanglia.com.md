@@ -1,44 +1,81 @@
-> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2009-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090717021930id_/http%3A//tickets.nationalexpresseastcoast.com/nxec/en/purchase/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationalexpresseastanglia.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611001056id_/http%3A//www.nationalexpresseastanglia.com/footers/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy Policy
+This Privacy Policy indicates National Express East Anglia's (NXEA) procedures regarding the collection and use of your personal information. If you have any requests or queries concerning your personal information then please [**contact us**](https://web.archive.org/about_us/contact_us "Contact Us").
 
-This privacy policy outlines the procedures NXEC Trains Limited and National Express Group have in place regarding the collection and use of your personal information. We respect your privacy and take great care in the storage and use of your personal data. If you have any questions or queries regarding this policy, please contact our Customer Relations Team at [c.relations@nationalexpress.com](mailto:c.relations@nationalexpress.com).
+This Privacy Policy will inform you of the following:
 
-We consider as private any personal information (i.e. information from which you can be identified) supplied by you to us and will hold it in accordance with applicable Data Protection legislation currently in force. You may request a copy of the personal information that we hold about you and to have any inaccuracies corrected.
-
-We will hold and use your personal information on our computer systems in order to process ticket transactions, reply to feedback via the SMS feedback service and personalise your shopping experience. We may pass this personal information to third party service providers for completing a booking or transaction with us or maintaining our customer database. These third party companies will be required to use your personal information in accordance with Data Protection legislation.
-
-National Express Group respect your privacy and will not pass or sell your details on to any other third parties except where you expressly consent. We may however pass your personal information to any company who takes over the NXEC Trains Limited franchise to enable them to use that information in line with the consent you have provided, or where lawfully requested or required to do so by legal or regulatory authorities.
-
-We may also use your personal information to contact you with offers, promotions and communications in line with the consent you have provided. If you do not wish to receive this information you may choose to alter your Data Protection status by accessing your account on the NXEC Trains Limited website or by emailing [c.relations@nationalexpress.com](mailto:c.relations@nationalexpress.com).
-
-Your personal information will be used by us for the following:
-
-  * Completing ticket transactions (which may involve passing your data to third parties for the explicit purpose of fulfilling the ticket) 
-  * Market research purposes 
-  * Direct marketing purposes
+  * What personally identifiable information is collected from you on the website
+  * How this information will be used
+  * With whom the information may be shared
+  * What choices are available to you regarding collection, use and distribution of the information
 
 
 
-If you would like details of the personal information we store about you, please write to:
+#### 1.We will collect the information you enter when you complete our registration form.
 
-National Express Customer Relations  
-Freepost RRZG-ZZZX-LKXK  
-Newcastle upon Tyne  
-NE1 5DN
+Our system may also automatically record the following information on your visit to our website:
 
-## Use of "cookies" and internet tags
+  * your browser type _(e.g. Netscape Navigator, Internet Explorer)_
+  * your operating system _(e.g. Microsoft Windows, Macintosh)_
+  * your IP address _(a unique identifier for each connection to the internet)_
+  * your domain name _(e.g. freeserve.co.uk, demon.co.uk)_
 
-We may collect and process anonymous information about your visit to this website, such as some of the pages you visit and some of the searches you perform. Such anonymous information is used by us to help improve the contents of the site and to compile, for internal market research purposes, aggregate statistics about individuals using it. In doing this we may install "cookies" that collect the first-level domain name of the user (e.g. "bigmail.com" from an e-mail address of "john@bigmail.com") and the date and time of access. "Cookies" as used by us cannot be used to discover the identity of an individual user.
 
-A "cookie" is a small piece of information that is sent to your browser and stored on your computer’s hard drive. "Cookies" do not damage your computer and you can set your browser to notify you when you receive a "cookie", which in turn will enable you to decide whether or not you want to accept it or not. For further information about "cookies", please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-We may also on occasion use Internet tags in combination with "cookies" at this site and may deploy these tags through a third-party advertising partner. These tags are placed on both on-line advertisements that bring users to the site and on different pages of the site. We use this technology to measure visitor response to our sites and the effectiveness of our advertising campaigns (including how many times a page is opened and which information is consulted). The third-party may be able to collect anonymous aggregated data about visitors to other sites because of these Internet tags and "cookies".
+This information is automatically collected and does not require your input - the information is used to improve our facilities and to provide you with an optimum website.
 
-Please be assured that we DO NOT collect or seek through these tags or "cookies" any personally identifiable information about our visitors, such as names, addresses, email addresses or telephone numbers.
+#### 2.We respect your privacy and will only use your information:
 
-## Our Pledge to You
+  * to log various usage and statistical information about your use of our facilities
+  * to administer the website and gather broad demographic information about users of the site
+  * to send you details of special offers, promotions, new products and services from NXEA
+  * to advise you of changes to our website
+  * to improve our website, and to customise our website for you based on your demographics 
+
+
+
+Our site provides an opt-in and opt-out facility so that you only receive information if you choose to. If you choose opt-in status, whenever we send you information, we will always give you the opportunity to request your details to be removed from our marketing list.
+
+#### 3.We may disclose your Information to:
+
+  * our regulators, lawyers and auditors
+  * persons where required by law under a court order or subpoena
+  * third party service providers or agents acting on our behalf.
+
+
+
+ _(Please note: our website may contain links to the websites of other companies that are outside of our control. These websites are not covered by this Privacy Policy. If you access other sites through our website then the operators of these sites may collect information from you which will be used by them in accordance with their own privacy policies, which may differ from ours.)_
+
+#### 4.Your information
+
+Your Information will be retained by us for as long as the purpose for which it was collected continues. It will then be destroyed although copies may be retained if required to satisfy our legal, regulatory or accounting requirements. By law, you are entitled to a copy of the personal information we hold on you.
+
+If you request this information we may make an administration charge.
+
+#### Opt-Out Procedure
+
+You may choose not to receive any promotional communications from NXEA, if you wish to do this please select the unsubscribe option in any of the communications you have received. Alternatively please email [CRMdata@nationalexpress.com](mailto:CRMdata@nationalexpress.com "Unsubscribe email address to CRMdata team") with a subject line of ‘ **NXEA unsubscribe** '.
+
+#### Changes / Modification
+
+You may make a request to us to change or modify your information at any time.  Further, if you are aware at any time that any of the information that you have given to us has changed then please let us know at the earliest opportunity of the changes that need to be made to your information. If you would like guidance on how to change the information that we hold on you please contact our [**customer relations team**](https://web.archive.org/about_us/contact_us/get_in_touch/customer_relations "Customer Relations").
+
+#### Changes to this Privacy Policy
+
+If we change this policy, we will post the new policy on our home page. If the change means that we will use your information differently, we will notify you. You may accept the change of use, or if you do not, we will continue to use your information in accordance with the policy under which it was collected.
+
+#### Our Pledge to You
 
 We pledge our intention to meet our obligations under this Privacy Policy statement, and to comply with the requirements of the Data Protection Act 1998.
+
+#### Legal Entity
+
+National Express East Anglia (Registered company name: London Eastern Railway Limited)  England and Wales whose registered office is 7 Triton Square, London, NW1 3HG a subsidiary company of National Express Group PLC. 
+
+#### Purchasing tickets online (The Trainline) Privacy Policy
+
+When you purchase tickets through the facility on this website, your purchase is governed by the Terms and Conditions between you and The TrainLine _(an independent  ticket retail company). _ [**View Online Booking Privacy Policy**](http://www.buytickets.nationalexpresseastanglia.com/terms.aspx#privacy "View National Express Online Privacy Policy").
+
+For customers who purchased tickets online prior to 13 November please call 08457 225 111.
