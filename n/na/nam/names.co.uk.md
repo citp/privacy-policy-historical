@@ -1,12 +1,11 @@
-> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620062907id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the names.co.uk privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610204505id_/http%3A//www.names.co.uk/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement - Domain Names, Hosting, Dedicated Server Solutions and Broadband ADSL, Namesco Limited
+# Privacy Statement - Web domain, Register domain names, Hosting, Dedicated server solutions – Namesco
 
 ## PRIVACY STATEMENT
 
-This privacy statement discloses the privacy practices for Namesco Limited.
-
-This web site agrees to notify you of:
+This privacy statement discloses the privacy practices for Namesco Limited.  
+“Namesco” means Namesco Limited (company registration number 3913408) whose registered office is at Acton House, Perdiswell Park, Worcester, WR3 7GD and any company within its group of companies (as the same may vary from time to time). “Group” has the meaning given in section 126(1) of the Companies Act 2006. This web site agrees to notify you of:
 
   * What personally identifiable information of yours or third party personally identification is collected from you through the website
   * The organization collecting the information
