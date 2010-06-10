@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the e-junkie.com privacy policy that was archived on 2009-06-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090617050552id_/http%3A//static.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the e-junkie.com privacy policy that was archived on 2010-06-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100610111511id_/http%3A//www.e-junkie.com/ej/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
 <meta name="description" content="">
@@ -17,19 +17,21 @@
 		}
 	}
 
-	function UpdateTimer() {
- 		if (timerID) {
-			clearTimeout(timerID);
-		}
+	function UpdateTimer(fire) {
+		if (fire) {
+	 		if (timerID) {
+				clearTimeout(timerID);
+			}
 	
- 		var tDate = new Date();
- 		var ct = tDate.getTime();
+ 			var tDate = new Date();
+ 			var ct = tDate.getTime();
 
- 		if (document.images) { 
-			document["sb"].src = prot+document.domain+'/ej/sb.php?cb=' + ct ;
+ 			if (document.images) { 
+				document["sb"].src = prot+document.domain+'/ej/sb.php?cb=' + ct ;
+			}
 		}
 
-		timerID = setTimeout("UpdateTimer()", 280000);
+		timerID = setTimeout("UpdateTimer(true)", 280000);
 	}
 </script>
 <script type="text/javascript" src="/ej/js/combined.js"></script>
@@ -41,7 +43,7 @@ span.searchword {background-color: yellow;}
 
 		<script type="text/javascript" src="http://w.sharethis.com/widget/?tabs=web%2Cpost%2Cemail&amp;charset=utf-8&amp;style=default&amp;publisher=378be04d-4491-479f-8665-0a5a45735c30"></script>
 	</head>
-<body onload="UpdateTimer();googleSearchHighlight();MM_preloadImages('/ej/images/shop1_lo_over.gif','/ej/images/sell_lo_over.gif','/ej/images/affiliates1_lo_over.gif','/ej/images/community1_lo_over.gif');">
+<body onload="UpdateTimer(false);googleSearchHighlight();MM_preloadImages('/ej/images/shop1_lo_over.gif','/ej/images/sell_lo_over.gif','/ej/images/affiliates1_lo_over.gif','/ej/images/community1_lo_over.gif');">
 <!--sphider_noindex-->
   <table width="752" border="0" cellspacing="0" cellpadding="0" height="100%" style="text-align:left;width:752px;margin-right: auto;margin-left: auto;height:100%">
      <tbody><tr>
@@ -60,7 +62,7 @@ span.searchword {background-color: yellow;}
                   <td bgcolor="#FFFFFF" width="734" align="left" height="97" colspan="5" valign="top"> 
                     <table width="734" border="0" cellspacing="0" cellpadding="0" height="97">
                       <tbody><tr> 
-                        <td height="9" valign="middle" align="right"><img src="https://web.archive.org/ej/sb.php?cb=1580435673149" width="2" height="2" name="sb"><img src="/ej/images/trans.gif" width="9" height="9"></td>
+                        <td height="9" valign="middle" align="right"><img src="/ej/images/trans.gif" width="2" height="2" name="sb"><img src="/ej/images/trans.gif" width="9" height="9"></td>
                       </tr>
                       <tr>
                         <td height="65" valign="top" align="right" class="nosearchhi">
@@ -70,7 +72,7 @@ span.searchword {background-color: yellow;}
 								. <a href="http://www.e-junkie.com/ej/resources.htm">resources</a>
 							 
 							. <a href="http://twitter.com/ejunkie" style="background:#ffeeaa;" target="_blank">friend us</a>
-							. <a href="http://www.e-junkie.com/ej/reseller.htm">resell e-junkie<img src="/ej/images/money_reseller.gif" border="0" align="absmiddle" alt="e-junkie reseller program"></a></div><a href="http://www.e-junkie.com/ej/clients.htm#paypal"><img src="/ej/images/paypal-feed.gif" width="269" height="32" border="0" alt="World Class Solution - Damon @ PayPal"></a>
+								. <a href="http://www.e-junkie.com/ej/reseller.htm">resell e-junkie<img src="/ej/images/money_reseller.gif" border="0" align="absmiddle" alt="e-junkie reseller program"></a></div><a href="http://www.e-junkie.com/ej/clients.htm#paypal"><img src="/ej/images/paypal-feed.gif" width="269" height="32" border="0" alt="World Class Solution - Damon @ PayPal"></a>
 												</td>
                       </tr>
                       <tr> 
@@ -102,7 +104,7 @@ span.searchword {background-color: yellow;}
 												<a href="https://www.e-junkie.com/ej/login.php">login</a> . <a href="https://www.e-junkie.com/ej/register.php">register</a> 
 											. <a href="http://www.e-junkie.com/ej/pricing.htm">pricing</a> 
                     . <a href="http://www.e-junkie.com/ej/features.htm">features</a> . <a href="http://www.e-junkie.com/ej/help.htm">help</a> 
-                    <!-- . <a href="http://www.e-junkie.com/ej/faq.htm">faq</a> . <a href="http://www.e-junkie.com/ej/troubleshooting.htm">troubleshooting</a>--> . <a href="http://www.e-junkie.com/ej/clients.htm">client list</a> . <a href="http://www.e-junkie.com/ej/demo.htm">test our service</a>
+                     . <a href="http://www.e-junkie.com/ej/clients.htm">client list</a> . <a href="http://www.e-junkie.com/ej/demo.htm">test our service</a>
 										</div>
 		  </td>
                   <td background="/ej/images/nav_bg.gif" width="10"><img src="/ej/images/trans.gif" width="10" height="10"></td>
@@ -114,14 +116,14 @@ span.searchword {background-color: yellow;}
                 </tr>
 								  <tr valign="middle">
 					<td bgcolor="#ffffff" width="1"><img height="1" width="1" src="/ej/images/trans.gif"></td>	
-					<td colspan="5" height="26" bgcolor="#FFFFFF"> 
+					<td colspan="5" height="26" bgcolor="#FFFFFF" valign="middle"> 
 					  <table width="734" border="0" cellspacing="0" cellpadding="1" height="22">
 						<tbody><tr> 
-						  <td bgcolor="#CCCCCC" width="734">
+						  <td bgcolor="#CCCCCC" width="734" valign="middle">
 						  <table width="732" border="0" cellspacing="0" cellpadding="2" height="20">
 							<tbody><tr> 
-								<td bgcolor="#FFFFCC" width="25" valign="top" height="22" align="center"><img src="/ej/images/bell_icon.gif" width="16" height="16" alt="Notice">								</td>
-								<td bgcolor="#FFFFCC" width="709" height="22"><font color="#444444"><b>Selling E-books?</b> Learn about our new <a href="http://www.e-junkie.com/bb/topic/3335">PDF security</a> feature.</font></td>
+								<td bgcolor="#FFFFCC" width="25" valign="middle" height="22" align="center"><img src="/ej/images/bell_icon.gif" width="16" height="16" alt="Notice">								</td>
+								<td bgcolor="#FFFFCC" width="709" height="22" valign="middle"><font color="#444444"><b><a href="http://twitter.com/ejunkie">Follow us on Twitter!</a></b></font></td>
 							</tr>
 						  </tbody></table>
 						  </td>
@@ -362,7 +364,7 @@ span.searchword {background-color: yellow;}
 <!-- /MAIN CONTENT --></div>
 <!-- closing wiki --><!-- footer -->
 <!--sphider_noindex-->
-				  </td>
+		  </td>
                   <td width="10" bgcolor="#F9FBFC"><img src="/ej/images/trans.gif" width="10" height="10"></td>
                   <td width="1" bgcolor="#C3CED9"><img src="/ej/images/trans.gif" width="1" height="1"></td>
                   <td width="1" bgcolor="#FFFFFF"><img src="/ej/images/trans.gif" width="1" height="1"></td>
@@ -374,12 +376,12 @@ span.searchword {background-color: yellow;}
             </td>
           </tr>
           <tr> 
-            <td valign="bottom" height="7"><img src="/ej/images/trans.gif" width="7" height="7"></td>
+            <td valign="bottom" height="3"><img src="/ej/images/trans.gif" width="4" height="3"></td>
           </tr>
 	  <tr> 
             <td valign="bottom">
               <table width="736" border="0" cellspacing="0" cellpadding="2" height="29" class="nosearchhi" id="footer">
-			                  <tbody><tr> 
+		                <tbody><tr> 
                   <td width="500"> 
                     <a href="http://www.e-junkie.com/ej/about.htm">
                     about                    </a> | <a href="http://www.e-junkie.com/ej/contact.php">
@@ -388,41 +390,43 @@ span.searchword {background-color: yellow;}
                     terms of service                    </a> | <a href="http://www.e-junkie.com/ej/privacy.htm">
                     privacy policy                    </a></td>
                   <td width="236" align="right">©
-                    2009                    19.5 Degrees. 
+                    2010                    19.5 Degrees. 
                     All rights reserved.                    </td>
                 </tr>
                 <tr> 
                   <td align="left">
                     Designated trademarks and brands are the property of their respective owners.                    <br>
-                    Use of this Web site constitutes acceptance of the <a class="footerlink" href="/ej/terms.htm">Terms of Service</a> and <a class="footerlink" href="/ej/privacy.htm">Privacy Policy</a>.                    </td>
+                    Use of this Web site constitutes acceptance of the <a class="footerlink" href="http://www.e-junkie.com/ej/terms.htm">Terms of Service</a> and <a class="footerlink" href="http://www.e-junkie.com/ej/privacy.htm">Privacy Policy</a>.                    </td>
                   <td valign="bottom" align="right"><img src="/ej/images/footer_logo.gif" width="32" height="35"></td>
                 </tr>
-				              </tbody></table>
+		              </tbody></table>
             </td>
           </tr>
           <tr>
-            <td valign="bottom" height="7"><img src="/ej/images/trans.gif" width="7" height="7"></td>
+            <td valign="bottom" height="3"><img src="/ej/images/trans.gif" width="4" height="3"></td>
           </tr>
 		  <tr>
-            <td valign="bottom" height="7"><table border="0" cellspacing="0" cellpadding="0" width="736">
+            <td valign="bottom">
+<table border="0" cellspacing="0" cellpadding="0" width="736">
       <tbody><tr class="nosearchhi"> 
         <td valign="middle" width="90" align="left"><a href="http://www.e-junkie.com/ej/paypal-partner.htm"><img style="margin: 0 5px 5px 0" src="https://www.paypal.com/en_US/i/logo/PayPal_Certified_Int_87x37.gif" width="87" height="37" border="0" alt="PayPal Certified Integration"></a></td>
         <td valign="middle" width="90" align="left"><a href="http://www.e-junkie.com/ej/google-checkout-shopping-cart.htm"><img style="margin: 0 5px 5px 0" src="/ej/images/Google-Checkout_Certified.gif" width="87" height="37" border="0" alt="Google Checkout Certified Integrattion"></a></td>
      
    <td valign="middle" width="100" align="left"><a href="http://www.e-junkie.com/ej/pricing.htm"><img src="/ej/images/30daymoneyback.gif" width="57" height="57" alt="30 Day Money Back Guarantee" border="0"></a> 
         </td>
-	<td valign="middle" width="226" align="right"><a href="http://www.slamtheonlinescam.com/" target="_blank"><img src="/ej/images/slam.gif" alt="Slam the Online Scam" border="0"></a> 
-        </td><td valign="middle" width="110" align="right"><a href="javascript:;" onclick="window.open('//www.controlscan.com/seal/verify5.php?id=235&amp;dom=133EC644',
+	<td valign="middle" width="231" align="right"><a href="http://www.slamtheonlinescam.com/" target="_blank"><img src="/ej/images/slam.gif" alt="Slam the Online Scam" border="0"></a></td>
+        <td valign="middle" width="105" align="right"><a href="javascript:;" onclick="window.open('//www.controlscan.com/seal/verify5.php?id=235&amp;dom=133EC644',
 'CS', 'menubar=no,scrollbars=1,height=600,width=650');return
 false;"><img border="0" src="//www.controlscan.com/seal/sealx5.php?id=235&amp;dom=133EC644" oncontextmenu="javascript:; return false;"></a></td>
         <td valign="middle" width="120" align="right">
-          <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
+         <script language="JavaScript" type="text/javascript" src="//smarticon.geotrust.com/si.js"></script>
         </td>
       </tr>
     </tbody></table>
-			</td>
-          </tr>          <tr>
-            <td valign="bottom" height="7"><img src="/ej/images/trans.gif" width="7" height="7"></td>
+	</td>
+          </tr>
+          <tr>
+            <td valign="bottom" height="3"><img src="/ej/images/trans.gif" width="4" height="3"></td>
           </tr>
 		  </tbody></table>
       </td>
