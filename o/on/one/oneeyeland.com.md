@@ -1,24 +1,24 @@
-> *The following text is extracted and transformed from the oneeyeland.com privacy policy that was archived on 2009-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090610223307id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneeyeland.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610190844id_/http%3A//www.oneeyeland.com/privacy_policy.php) for the most accurate reproduction.*
 
 # One Eyeland - The one community for creative photographers.
 
 _Revision date: 24th December, 2008_
 
-One Eyeland is for lensmen who deserve every ounce of privacy that they can lay their hands on. That’s why we’ve put together a comprehensive Privacy Policy that tries to address every issue that concerns you... 
+One Eyeland is for lensmen who deserve every ounce of privacy that they can lay their hands on. why put together a comprehensive Privacy Policy that tries to address every issue that concerns you... 
 
 **THE POLICY**  
-This Privacy Policy applies to our web site www.OneEyeland.com (from now on referred to as the “Site”). It explains what information we collect through the Site, how we use that information, and what choices you have.
+This Privacy Policy applies to our web site www.OneEyeland.com (from now on referred to as the . It explains what information we collect through the Site, how we use that information, and what choices you have.
 
 The Site contains links to other web sites. This Privacy Policy does not apply to the practices of any companies or individuals that One Eyeland does not control, or any web sites that you link to from the One Eyeland Site. You should use caution and review the privacy policies of any sites that you visit from ours to learn more about their information practices. 
 
 Please take a few minutes to read this agreement. By accessing the our Site, you agree to accept the terms and conditions of this Privacy Policy and are aware that our policies may evolve in the future as indicated below. 
 
 **THE INFO WE COLLECT**  
-In various places on this Site, we collect “Personally Identifiable Information,” such as your name, age, gender, postal address, telephone number, e-mail address or other information that can be used to contact you or identify you as an individual. For example, we collect this information when you register for membership and sign up for e-mail newsletters. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate. 
+In various places on this Site, we collect Personally Identifiable Information,such as your name, age, gender, postal address, telephone number, e-mail address or other information that can be used to contact you or identify you as an individual. For example, we collect this information when you register for membership and sign up for e-mail newsletters. From time to time in the future we may offer additional features, services, and promotional opportunities that would require you to submit Personally Identifiable Information to participate. 
 
-We also collect “Anonymous Information” such as your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. Your Personally Identifiable Information is linked to your Anonymous Information. 
+We also collect Anonymous Information such as your IP address, the type of browser you use, the pages on our Sites that you have visited, and the advertisements that you have clicked on. Your Personally Identifiable Information is linked to your Anonymous Information. 
 
-Like many Internet sites, we also use “cookies” to collect information. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and the use of different services and features of the Sites. Advertisers that appear on the One Eyeland Site may place cookies on your computer and their use of the information stored on those cookies is subject to their own privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to the Site’s cookies. 
+Like many Internet sites, we also use to collect information. A cookie is a small data file that we transfer to your computer and is stored on your hard drive. When you visit our Site(s) the cookie identifies your computer to us so that you do not have to re-register each time you visit. We may also use cookies to measure the traffic to our Sites and the use of different services and features of the Sites. Advertisers that appear on the One Eyeland Site may place cookies on your computer and their use of the information stored on those cookies is subject to their own privacy policies. You should visit their sites to learn about their information practices. Advertisers or other companies do not have access to the Site’s cookies. 
 
 We do not intend that children will use our sites. We do not solicit or knowingly collect information from children under 13 years old, nor will we accept registration from them. 
 
@@ -54,7 +54,7 @@ We may change this policy from time to time. While we will usually indicate majo
 If you register as a member of the One Eyeland Site and make postings to comments section, forums or your user page, please remember that anything you post is publicly available. The user name you have chosen during the registration process is visible to all users of the Site. If you visit another member’s user page, your user name will appear on that page. Your user page will also show certain statistics regarding your use of the Site, such as the date you became a member, how long ago you last visited the Site, the categories of materials you have posted. Your user profile, and the information you choose to include in your profile, will also be available to other users of our chat rooms, forums and to visitors that access your personal user page. One Eyeland does not control, and is not responsible for, the use of any information or content that you have exposed to the public through your use of the Site. 
 
 **ON SECURITY**  
-During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL (“Secure Sockets Layer”) technology. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, and only our employees and agents with a need to know the information are given access. While no amount of security can give a perfect guarantee, you can have a high degree of confidence that the personally identifiable information you give us is protected from unauthorized access and use. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Please contact us if you have any information regarding unauthorized use of the One Eyeland site. 
+During sessions in which you give us information such as credit card numbers, we encrypt your transmissions using SSL (Secure Sockets Layer) technology. We keep the Personally Identifiable Information you provide on servers that are protected by firewalls and other technological means against intrusion or unauthorized access. They are located in a physically secure facility, and only our employees and agents with a need to know the information are given access. While no amount of security can give a perfect guarantee, you can have a high degree of confidence that the personally identifiable information you give us is protected from unauthorized access and use. We rely on you to select passwords that cannot be guessed easily and to safeguard those passwords from disclosure. Please contact us if you have any information regarding unauthorized use of the One Eyeland site. 
 
 **ON UPDATES**  
 We may update this Privacy Policy from time to time as our services change and expand. If we update this Privacy Policy, we will notify you about significant changes by sending a notice to the email address specified in your account or by posting a notice of such changes on the One Eyeland Sites. Unless otherwise provided, the revised terms will take effect on the date they are posted. Once such changes become effective, your continued use of the Site will signify your acceptance of the new Privacy Policy. If you do not agree to the terms of this Privacy Policy, or any revised Privacy Policy, your sole and exclusive remedy is to discontinue using the Site. 
@@ -65,5 +65,5 @@ If you have questions about this Statement or our policies, please contact us at
 
 One Eyeland   
 # 3, 1 st Floor, 1 St Main Road,   
-Teynampet, Chennai – 18.   
+Teynampet, Chennai 18.   
 India 
