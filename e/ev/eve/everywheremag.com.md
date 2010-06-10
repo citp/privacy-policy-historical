@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everywheremag.com privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611092736id_/http%3A//everywheremag.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everywheremag.com privacy policy that was archived on 2010-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100610175345id_/http%3A//everywheremag.com/about/privacy) for the most accurate reproduction.*
 
 # Everywhere: Privacy policy
 
