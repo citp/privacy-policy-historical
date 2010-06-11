@@ -1,0 +1,16 @@
+> *The following text is extracted and transformed from the malaysia-today.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214031id_/http%3A//www.malaysia-today.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D28424%26Itemid%3D100117) for the most accurate reproduction.*
+
+# Privacy Policy
+
+[](http://digg.com/ "Digg!")[](http://del.icio.us/ "Del.icio.us!")[](http://www.google.com/bookmarks/ "Google!")[](https://favorites.live.com/ "Live!")[](https://www.facebook.com/ "Facebook!")[](http://www.technorati.com/ "Technorati!")[](http://www.stumbleupon.com/ "StumbleUpon!")[](http://www.myspace.com/ "MySpace!")[](http://myweb2.search.yahoo.com/ "Yahoo!")[ ](http://www.twitter.com/ "Twitter!")[](http://www.linkedin.com/ "LinkedIn!") 
+
+At Malaysia Today we appreciate your readership and value your personal privacy. We respect the personal nature of the information you provide us on our web site and acknowledge the importance of protecting this information. You may provide personal information to Malaysia Today in one of three ways: 
+
+(1) by sharing your e-mail address and subscribing to email newsletters or requesting site updates,   
+(2) by sharing personal information when you provide tips to our news department, or   
+(3) by sharing personal information when you post comments on our posts or stories. 
+
+We may also ask for other information at other times but at no time will you be required to share any personal information to gain complete access to our site. At no time does any party other than Malaysia Today have access to your personally identifiable information. Our databases are stored in highly secure servers and are not accessible from within Malaysia. 
+
+  
+
