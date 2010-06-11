@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208125108id_/http%3A//www.vagaro.com/Users/CMSPage.aspx%3Fpid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vagaro.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611083601id_/http%3A//www.vagaro.com/Privacy-policy) for the most accurate reproduction.*
 
-# VAGARO | Privacy Policy
+# Privacy Policy – Vagaro, Salon Software, Salon POS, Hair Salon Software
 
 **VAGARO.COM PRIVACY POLICY**
 
@@ -89,6 +89,3 @@ E-mail: admin@vagaro.com
 
 
 In Your letter, please describe in as much detail as possible ways in which You believe the Privacy Policy has not been complied with. We will investigate Your complaint promptly.
-
-  
-
