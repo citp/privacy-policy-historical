@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagenic.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219015612id_/http%3A//www.imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagenic.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214015id_/http%3A//imagenic.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Imagenic.net Free Multi Image Upload Picture Upload Multi Upload Image Hosting Image Gallery » More Information » Privacy Policy
 
