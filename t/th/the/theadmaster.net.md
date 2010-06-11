@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618034016id_/http%3A//theadmaster.net/%3Fpage_id%3D56) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theadmaster.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611230049id_/http%3A//theadmaster.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Ad Master - Advertise Everywhere
 
   
   
   
-Privacy Policy for The Ad Master - Advertise Everywhere  
+Privacy Policy for The Ad Master – Advertise Everywhere  
 
 
-**THE AD MASTER - ADVERTISE EVERYWHERE**
+**THE AD MASTER – ADVERTISE EVERYWHERE**
 
 ##  **PRIVACY POLICY**
 
   
-Welcome to The Ad Master - Advertise Everywhere (the “Site”).
+Welcome to The Ad Master – [Advertise](http://theadmaster.net/advertise/ "Advertise") Everywhere (the “Site”).
 
 We understand that privacy online is important to users of our Site, especially when conducting business.   
-This statement governs our privacy policies with respect to those users of the Site (”Visitors”) who visit without   
-transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The Ad Master - Advertise Everywhere (collectively, “Services”) (”Authorized Customers”).
+This statement governs our privacy policies with respect to those users of the Site (“Visitors”) who visit without   
+transacting business and Visitors who register to transact business on the Site and make use of the various services offered by The Ad Master – Advertise Everywhere (collectively, “Services”) (“Authorized Customers”).
 
 **“Personally Identifiable Information”**   
-refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
+refers to any information that identifies or can be used to identify, [contact](http://theadmaster.net/contact/ "contact"), or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, social security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user)   
 or demographic information not connected to an identified individual.
 
 **What Personally Identifiable Information is collected?**  
@@ -36,7 +36,7 @@ We use Personally Identifiable Information to customize the Site, to make approp
 Personally Identifiable Information about Authorized Customers may be shared with other Authorized Customers who wish to evaluate potential transactions with other Authorized Customers. We may share aggregated information about our Visitors, including the demographics of our Visitors and Authorized Customers, with our affiliated agencies and third party vendors. We also offer the opportunity to “opt out” of receiving information or being contacted by us or by any agency acting on our behalf.
 
 **How is Personally Identifiable Information stored?**  
-Personally Identifiable Information collected by The Ad Master - Advertise Everywhere is securely stored and is not accessible to third parties or employees of The Ad Master - Advertise Everywhere except for use as indicated above.
+Personally Identifiable Information collected by The Ad Master – Advertise Everywhere is securely stored and is not accessible to third parties or employees of The Ad Master – Advertise Everywhere except for use as indicated above.
 
 **What choices are available to Visitors regarding collection, use and distribution of the information?**  
 Visitors and Authorized Customers may opt out of receiving unsolicited information from or being contacted by us and/or our vendors and affiliated agencies by responding to emails as instructed, or by contacting us at [sheila.sultani@verizon.net](mailto:sheila.sultani@verizon.net)
@@ -44,12 +44,12 @@ Visitors and Authorized Customers may opt out of receiving unsolicited informati
 **Are Cookies Used on the Site?**  
 Cookies are used for a variety of reasons. We use Cookies to obtain information about the preferences of our Visitors and the services they select. We also use Cookies for security purposes to protect our Authorized Customers. For example, if an Authorized Customer is logged on and the site is unused for more than 10 minutes, we will automatically log the Authorized Customer off.
 
-**How does The Ad Master - Advertise Everywhere use login information?**  
-The Ad Master - Advertise Everywhere uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
+**How does The Ad Master – Advertise Everywhere use login information?**  
+The Ad Master – Advertise Everywhere uses login information, including, but not limited to, IP addresses, ISPs, and browser types, to analyze trends, administer the Site, track a user’s movement and use, and gather broad demographic information.
 
   
 **What partners or service providers have access to Personally Identifiable Information from Visitors and/or Authorized Customers on the Site?**  
-The Ad Master - Advertise Everywhere has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
+The Ad Master – Advertise Everywhere has entered into and will continue to enter into partnerships and other affiliations with a number of vendors.  
 Such vendors may have access to certain Personally Identifiable Information on a need to know basis for evaluating Authorized Customers for service eligibility.   
 Our privacy policy does not cover their collection or use of this information.
 
@@ -75,7 +75,7 @@ This web site contains links to other web sites. Please note that when you click
 
 
   
-© 2008 **The Ad Master - Advertise Everywhere** , All rights reserved.  
+© 2008 **The Ad Master – Advertise Everywhere** , All rights reserved.  
 Unauthorized duplication or publication of any materials  
 from this Site is expressly prohibited.
 
