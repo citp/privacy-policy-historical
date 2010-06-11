@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stonewashed.net privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218072357id_/http%3A//www.stonewashed.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stonewashed.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210733id_/http%3A//stonewashed.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
