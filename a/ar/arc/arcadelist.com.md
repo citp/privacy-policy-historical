@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadelist.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203234705id_/http%3A//www.arcadelist.com/Privacy_Policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadelist.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611233631id_/http%3A//arcadelist.com/Privacy_Policy.asp) for the most accurate reproduction.*
 
 # Privacy Policy - ArcadeList.com
 
