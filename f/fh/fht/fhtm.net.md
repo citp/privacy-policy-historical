@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fhtm.net privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221012753id_/http%3A//www.fhtm.net/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhtm.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211313id_/http%3A//fhtm.net/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Fortune Hi-Tech Marketing
 
@@ -49,7 +49,7 @@ We are committed to maintaining the security of your personally identifiable inf
 
 ## 7\. Acceptance of Policy, subject to change
 
-We reserve the right to revise or modify this policy, or any other policies or agreements at any time without prior notification. By using our services, you accept the terms and conditions of this policy. 
+We reserve the right to revise or modify this policy, or any other policies or agreements at any time without prior notification. By using our services, you accept the terms and conditions of this policy.
 
 ## 8\. Contact Information
 
