@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622173656id_/http%3A//www.couplescompany.com/Company/NewCompany/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couplescompany.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611233925id_/http%3A//www.couplescompany.com/Company/Company/Privacy_policy.htm%23Privacy) for the most accurate reproduction.*
 
-# Couples Company: Privacy Policy and Legal Disclaimer
+# 06:19:45 PM Wednesday February, 19 2020
 
   
 ** Legal Disclaimer:  **
@@ -74,7 +74,7 @@ Cookies are like your business card and they tell us whether you have visited Co
 Cookies allow you to save time and frustration by storing the user names and passwords you use on our site and information on past purchases and personal preferences. By doing this, you do not have to re-enter the information. Should you disable the use of cookies on your browser, you will need to re-enter this information whenever you visit our site. CouplesCompany.com will not and cannot use cookies to retrieve personal information about you from your computer.   TOP
 
 Opt-Out  
-CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20090622173656id_/http%3A//www.couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own. 
+CouplesCompany.com provides customers the opportunity to opt-out of receiving communications from us during your Couples Club registration. We give you the following options to change or modify your information in our database and to choose not to receive future communications. Please review our **[Zero Tolerance Spam Policy.](https://web.archive.org/web/20100611233925id_/http%3A//www.couplescompany.com/PreLaunchFAQ.htm#SPAM)**   This is as much for our members' benefit as our own. 
 
 TOP
 
@@ -82,14 +82,10 @@ TOP
 **For Questions, concerns and curiosities about the CouplesCompany.com privacy statement and Web site, please contact us at:
 
 **Couples Company, Inc.  
-23905 Clinton Keith Rd. #114-369   
-Wildomar, CA. 92595**
+6250 Canoga Ave #483  
+Woodland Hills, CA. 91367**
 
-[send email](mailto:moreinfo@couplescompany.com?subject=Privacy%20Policy%20Inquiry)
+**(310) 594-3728  
+Local & International**
 
-**(310) 594-3728** **  
-**  Couples Company Inc is an Idaho Corporation.
-
-**(800)-384-6918  
-Toll Free US & Canada  
- **
+PUBLIC @ CouplesCompany.com
