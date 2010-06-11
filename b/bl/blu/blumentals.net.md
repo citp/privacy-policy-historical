@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2009-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090501145215id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blumentals.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611204011id_/http%3A//www.blumentals.net/company/privacy.php) for the most accurate reproduction.*
 
 # Blumentals Software - Company
 
@@ -23,6 +23,10 @@ Blumentals Software collects and uses your personal information to operate and i
 Except as described in this statement, we will not disclose your personal information outside of Blumentals Software and its controlled subsidiaries and affiliates without your consent.
 
 We may share your personal information with third parties only if we believe such action is necessary to: (a) satisfy any applicable law, regulation, legal process or enforceable governmental request; (b) protect and defend the rights or property of Blumentals Software; or (c) act in urgent circumstances to protect the personal safety of users of Blumentals Software products or members of the public.
+
+## Software license activation and validation
+
+Our Software may attempt to contact remote servers over the Internet in order to complete the license activation process and validate the right to use the Software on your computer. No personally identifiable information will be transmitted during this process, except to the extent that IP address may be considered personally identifiable in some jurisdictions.
 
 ## Changes to this privacy statement
 
