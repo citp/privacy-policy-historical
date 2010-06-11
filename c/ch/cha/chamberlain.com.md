@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424054715id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chamberlain.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611091057id_/http%3A//www.chamberlain.com/corporate/en-us/privacyPolicy) for the most accurate reproduction.*
 
 # Chamberlain Privacy Policy
 
@@ -41,6 +41,4 @@ This Privacy Policy is subject to the terms of the applicable Chamberlain Site T
 
 The operator of this site is The Chamberlain Group, Inc., 845 Larch Avenue, Elmhurst, Illinois, (630) 279-3600. 
 
-If you have any questions regarding Chamberlain´s Privacy Policy, please contact
-
-[help@chamberlaingroup.com](mailto:help@chamberlaingroup.com).
+If you have any questions regarding Chamberlain´s Privacy Policy, please contact us at the above phone number.
