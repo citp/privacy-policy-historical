@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204212342id_/http%3A//designtaxi.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designtaxi.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611233408id_/http%3A//www.designtaxi.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TAXI: The Global Creative Network
 
