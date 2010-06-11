@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the geeksaresexy.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529051159id_/http%3A//www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geeksaresexy.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210344id_/http%3A//www.geeksaresexy.net/privacy-policy-geeks-are-sexy-technology-news) for the most accurate reproduction.*
 
-# Privacy Policy: [Geeks are Sexy] Technology News | [Geeks Are Sexy] Technology News
+# Privacy Policy: [Geeks are Sexy] Technology News | Geeks are Sexy Technology News
 
 **Privacy Policy** for **geeksaresexy.net** and **geeksaresexy.blogspot.com**
 
