@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myflowertree.com privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210215914id_/http%3A//www.myflowertree.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myflowertree.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611235214id_/http%3A//www.myflowertree.com/privacypolicy.php) for the most accurate reproduction.*
 
 # Flowers and Gifts - MyFlowerTree Official Site
 
