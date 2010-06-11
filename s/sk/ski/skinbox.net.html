@@ -1,12 +1,11 @@
-<!--The following is the downloaded HTML source of the skinbox.net privacy policy that was archived on 2009-11-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091129123111id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skinbox.net privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611212200id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<title>
 				Privacy policy - 
-				IPB skins and IP.Board 3.0 - Skinbox
-	</title>
+				IPB skins and vBulletin styles from Skinbox</title>
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 					<link href="/css/blacktie/jquery-ui-1.7.2.custom.css" media="screen" rel="stylesheet" type="text/css">
@@ -112,7 +111,7 @@ $(document).ready(function() {
 //]]>
 
 </script>	<script type="text/javascript">
-		var logoutRedirect = '/index/logout/url/L3ByaXZhY3lwb2xpY3kuaHRtbA%3D%3D';
+		var logoutRedirect = '/index/logout/url/L3ByaXZhY3lwb2xpY3k%3D';
 		var isLoggedIn = 0;
 		var goptions = [];
 		var options = [];
@@ -129,62 +128,6 @@ $(document).ready(function() {
 	</script>
 	<script type="text/javascript" src="/js/skinbox.js">
 	</script>
-	
-<script type="text/javascript">
-
-$(document).ready(function(){
-
-	$("#nicemenu img.arrow").click(function(){ 
-								
-		$("span.head_menu").removeClass('active');
-		
-		submenu = $(this).parent().parent().find("div.sub_menu");
-		
-		if(submenu.css('display')=="block"){
-			$(this).parent().removeClass("active"); 	
-			submenu.hide(); 		
-			$(this).attr('src','http://www.skinbox.net/images/arrow_hover.png');									
-		}else{
-			$(this).parent().addClass("active"); 	
-			submenu.fadeIn(); 		
-			$(this).attr('src','http://www.skinbox.net/images/arrow_select.png');	
-		}
-		
-		$("div.sub_menu:visible").not(submenu).hide();
-		$("#nicemenu img.arrow").not(this).attr('src','http://www.skinbox.net/images/arrow.png');
-						
-	})
-	.mouseover(function(){ $(this).attr('src','http://www.skinbox.net/images/arrow_hover.png'); })
-	.mouseout(function(){ 
-		if($(this).parent().parent().find("div.sub_menu").css('display')!="block"){
-			$(this).attr('src','http://www.skinbox.net/images/arrow.png');
-		}else{
-			$(this).attr('src','http://www.skinbox.net/images/arrow_select.png');
-		}
-	});
-
-	$("#nicemenu span.head_menu").mouseover(function(){ $(this).addClass('over')})
-								 .mouseout(function(){ $(this).removeClass('over') });
-	
-	$("#nicemenu div.sub_menu").mouseover(function(){ $(this).fadeIn(); })
-							   .blur(function(){ 
-							   		$(this).hide();
-									$("span.head_menu").removeClass('active');
-								});		
-								
-	$(document).click(function(event){ 		
-			var target = $(event.target);
-			if (target.parents("#nicemenu").length == 0) {				
-				$("#nicemenu span.head_menu").removeClass('active');
-				$("#nicemenu div.sub_menu").hide();
-				$("#nicemenu img.arrow").attr('src','http://www.skinbox.net/images/arrow.png');
-			}
-	});			   
-							   
-								   
-});
-
-</script>
 <meta name="google-site-verification" content="FUjIC69_1BjfAjpHmmHis1g-8_UQSyNgpnZnJ0B8I9c">
 </head>
 <body>
@@ -229,78 +172,72 @@ Bad username and/or password.</p>
 </div>
 </div>
 
-
 <p><a class="skiplink" href="#maincontent">Skip over navigation</a></p>
 
-                    <div id="memberbar" style="display:inline">
-                    	<ul id="navigation">
-				<li class="first"><img src="/images/icon_nav_welcome.png" style="float:left"><a id="triggerLogin" href="/login.html">Login</a></li>
-		<li class="last"><img src="/images/icon_nav_register.png" style="float:left"><a href="/join.html">Register</a></li>
+<div id="wrapper">
+
+     <div id="memberbar">	<ul id="navigation" class="finally" style="margin:0;padding:0;">
+				<li class="first" style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_welcome.png" style="float:left">&nbsp;<a id="triggerLogin" href="/login.html">Login</a></span></li>
+		<li style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_register.png" style="float:left">&nbsp;<a href="/join.html">Register</a></span></li>
+		<li class="last" style="padding:0;margin:0;"><span class="head" style="min-width:100px;"><img src="/images/icon_nav_forums.png" style="float:left">&nbsp;<a href="http://www.skinbox.net/community">Community forums</a></span></li>
 			</ul>
-			
-<div class="clear"></div>					</div>
-					<center>
-<div align="center" id="wrapper" style="text-align:left;">
+<div class="clear"></div></div>
 
-<div style="padding-top:0px;">
-
-	<a href="/" class="replace" id="logo"><span></span>IPB skins</a>
+	<div><a href="/" title="IPB skins and vBulletin 4 styles - Skinbox" class="replace" id="logo"><span></span>IPB skins and vBulletin 4 styles</a>
     
-<div id="nicemenu">
-    <ul>
-        <li><span class="head_menu"><a href="/skins/index.html">Browse skins</a><img src="/images/arrow.png" width="18" height="15" align="top" class="arrow"></span>
-            <div class="sub_menu" style="z-index: 10">
-               				<a href="/skins/ipb-3-0-skins/index-c2.html">
-			IPB 3.0 skins			(14)
-		</a>
-				<a href="/skins/ipb-2-2-2-3-skins/index-c1.html">
+    <ul class="finally">
+        <li><span class="head" style="min-width:150px;font-size:1.1em;"><a href="/skins/index.html">Browse skins</a><img src="/images/arrow.png" align="top" class="arrow"></span>
+            <ul class="submenu">
+               				<li><a href="/skins/ipb-3-0-skins/2">
+			IPB 3.0 skins			(37)
+		</a></li>
+				<li><a href="/skins/ipb-2-2-2-3-skins/1">
 			IPB 2.2 &amp; 2.3 skins			(23)
-		</a>
-<a href="http://www.skinbox.net/skins/ipb-3-0-skins/light-skins/index-c9.html" class="item_line" title="Light IPB skins">Light skins</a>
-				<a href="http://www.skinbox.net/skins/ipb-3-0-skins/dark-skins/index-c10.html" title="Dark IPB skins">Dark skins</a>
-				<a href="http://www.skinbox.net/skins/ipb-3-0-skins/professional-skins/index-c11.html" title="Professional IPB skins">Professional skins</a>
-				<a href="http://www.skinbox.net/skins/ipb-3-0-skins/seasonal-skins/index-c12.html" title="Seasonal IPB skins">Seasonal skins</a>
-				<a href="http://www.skinbox.net/skins/ipb-3-0-skins/gaming-skins/index-c13.html" title="Gaming IPB skins">Gaming skins</a>
-<a href="/skins/index.html" class="item_line" title="View all skins">View all skins</a>
-<a href="/skins/sale.html" title="Skins on sale"><span style="color:red;padding:0;">Skins on sale</span></a>
-            </div>
+		</a></li>
+			<li><a href="/skins/vbulletin-4-styles/25">
+			vBulletin 4 styles			(7)
+		</a></li>
+			<li><a href="/skins/vbulletin-3-8-styles/23">
+			vBulletin 3.8 styles			(3)
+		</a></li>
+               	<li><a class="line" href="/skins/ipb-3-0-skins/light-skins/9">Light Skins</a></li>
+<li><a href="/skins/ipb-3-0-skins/dark-skins/10">Dark Skins</a></li>
+<li><a href="/skins/ipb-3-0-skins/professional-skins/11">Professional Skins</a></li>
+<li><a href="/skins/ipb-3-0-skins/seasonal-skins/12">Seasonal Skins</a></li>
+<li><a href="/skins/ipb-3-0-skins/gaming-skins/13">Gaming skins</a></li>
+				<li><a href="/skins" class="item_line" title="View all skins">View all skins</a></li>
+				<li><a class="line" href="/skins/sale" title="Skins on sale"><span style="color:red;padding:0;">Skins on sale</span></a></li>
+            </ul>
         </li>
-<li><span class="head_menu"><a href="/membership.html">Skinbox club</a></span>
-        </li><li><span class="head_menu"><a href="/community/">Support</a><img src="/images/arrow.png" width="18" height="15" align="top" class="arrow"></span>
-             <div class="sub_menu" style="z-index: 10">
-                <a href="/forums/" title="Get help on the forum">Community forums</a>
-                <a href="/forums/index.php/forum/13-skin-tutorials/" title="Tutorials on your purchased skins">Skin tutorials</a>
-                <a href="/forums/index.php/tracker/" title="Found a bug on your skin? Please report it">Bug tracker</a>
-<a href="/contact.html" class="item_line" title="Contact Skinbox">Contact us</a>
-            </div>
+		<li style="margin-left:-34px;"><span class="head" style="font-size:1.1em;"><a href="/membership">Skinbox club</a></span></li>
+        <li><span class="head" style="min-width:175px;font-size:1.1em;"><a href="#">More</a><img src="/images/arrow.png" align="top" class="arrow"></span>
+             <ul class="submenu">
+                <li><a href="http://www.2ipb.com/" title="layout_OrderCustomIpbSkin - 2ipb">Order custom IPB skin</a></li>
+                <li><a href="/skinmodifications" title="Custom skin modifications">Custom skin modifications</a></li>
+				<li><a href="/getcaught" title="Get Caught &amp; Win!">Get Caught &amp; Win!</a></li>
+                <li><a href="/videos" title="Videos">Videos</a></li>
+				<li><a href="/testimonials" title="Testimonials">Testimonials</a></li>
+			    <li><a href="/compare" title="Compare">Compare</a></li>
+				<li><a href="/newsletters" title="Newsletters">Newsletters</a></li>
+            </ul>
         </li>
     </ul>
-</div>
-
-					<div>
-					<ul class="nav" id="cartdrop" style="float:right;"></ul>
-                    </div>
-					
-					<div class="secondarynav">
-             <form method="get" action="/search" id="frmsearch">
-				<div>
-					<input type="text" name="query" id="textboxsearch" class="textboxsearch" size="37" value="What kind of skin are you looking for?">
-				</div>
-			</form>
-</div>		
-
-					
-					</div>	
+			
+					<ul class="finally" id="cartdrop" style="float:right;"></ul>
+				
+			</div>
                     
-                    <div class="clear"></div>
+<div class="clear"></div>
+        
         <div id="slider_nohome">
 		<div id="contentslider_nohome">
-			<h1>Privacy policy</h1>
-			<p></p> 
-		</div>
+           <h1>Privacy policy</h1>
+           <p></p> 
+           		</div>
 	</div>
+	
 	<div id="innercontent">
-			<div id="breadcrumb">
+					<div id="breadcrumb">
 				<ul id="menubreadcrumb">
 				<li class="first"><a href="#" class="replace" id="logosmall"><span></span>Home</a></li>
 								<li class="last">
@@ -309,7 +246,7 @@ Bad username and/or password.</p>
 				</li>
 					</ul>
 	</div>
-	<div id="contentpadding">
+		<div id="contentpadding">
 	    		Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.<br><br>
 
 Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. <br><br>
@@ -334,20 +271,20 @@ We are committed to conducting our business in accordance with these principles 
     
 	<div id="footer">
 		<div id="footerleft">
-			<h5><ul class="nav" style="float:left;">
-<li>Language<img src="/images/arrowdown.gif">
-<ul>
-<li><a href="http://www.skinbox.net/privacypolicy.html">English</a></li>
-<li><a href="http://fr.skinbox.net/privacypolicy.html">Français (version bêta)</a></li>
+			<h5><ul class="finally" style="float:left;">
+<li style="padding:0;margin:0;"><span class="head" style="font-size:11px;cursor:pointer;margin:0;padding-top:0;min-width:80px;">Language<img src="/images/arrow-little.png" class="arrow"></span>
+<ul class="submenu">
+<li style="font-size:11px;"><a href="http://www.skinbox.net/privacypolicy">English</a></li>
+<li style="font-size:11px;"><a href="http://fr.skinbox.net/privacypolicy">Français</a></li>
 </ul></li>
-<li>Currency<img src="/images/arrowdown.gif">
-<ul>
-<li><a href="/set-currency/usd.html?url=L3ByaXZhY3lwb2xpY3kuaHRtbA%3D%3D">($) US dollars</a></li>
-<li><a href="/set-currency/eur.html?url=L3ByaXZhY3lwb2xpY3kuaHRtbA%3D%3D">(€) Euros</a></li>
-<li><a href="/set-currency/gbp.html?url=L3ByaXZhY3lwb2xpY3kuaHRtbA%3D%3D">(£) Pounds</a></li></ul></li>
-<li><a class="right tip" href="http://www.paypal.com" title="<p>We are Paypal verified and accept all major credit cards.</p>"><img src="/images/weaccept.gif" border="0"></a></li>
-
-</ul></h5>
+<li style="padding:0;margin:0;margin-left:-15px;"><span class="head" style="font-size:11px;cursor:pointer;margin:0;padding-top:0;min-width:80px;">Currency<img src="/images/arrow-little.png" class="arrow"></span>
+<ul class="submenu">
+<li style="font-size:11px;"><a href="/set-currency/usd.html?url=L3ByaXZhY3lwb2xpY3k%3D">($) US dollars</a></li>
+<li style="font-size:11px;"><a href="/set-currency/eur.html?url=L3ByaXZhY3lwb2xpY3k%3D">(€) Euros</a></li>
+<li style="font-size:11px;"><a href="/set-currency/gbp.html?url=L3ByaXZhY3lwb2xpY3k%3D">(£) Pounds</a></li></ul></li>
+</ul>
+<span style="float: left"><a class="right tip" href="https://www.paypal.com/us/verified/pal=admin@ipbcustomize.com" title="<p>We are Paypal verified and accept all major credit cards.</p>"><img src="/images/weaccept.gif" border="0"></a></span>
+</h5>
 		</div>
 		<ul id="menufooter">
 			<li><a href="/privacypolicy.html">Privacy policy</a></li>
@@ -372,6 +309,5 @@ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.
 var pageTracker = _gat._getTracker("UA-3775281-3");
 pageTracker._trackPageview();
 </script>
-</div></center>
 
-</body></html>
+</div></body></html>
