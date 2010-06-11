@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416220611id_/http%3A//www.freetypinggame.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freetypinggame.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203817id_/http%3A//www.freetypinggame.net/privacy.asp) for the most accurate reproduction.*
 
 # FreeTypingGame.net - Free typing games online, fun and lesson based keyboarding games including home row!
 
@@ -9,9 +9,29 @@
 
 **PRIVACY POLICY - COMMITMENT TO YOUR PRIVACY**
 
-Your privacy on the Internet is of the utmost importance to us. At FreeTypingGame.net, we want to make your experience online satisfying and safe.
+Your privacy on the Internet is of the utmost importance to us. At FreeTypingGame.Net, LLC, we want to make your experience online satisfying and safe. References to FreeTypingGame or FreeTypingGame.Net herein refer to FreeTypingGame.Net, LLC
 
 Because we gather certain types of information about our users, we feel you should fully understand our policy and the terms and conditions surrounding the capture and use of that information. This privacy statement discloses what information we gather and how we use it.
+
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at freetypinggame@(At)hotmail.com . REMOVE THE (At). Or contact us via our [contact form.](https://web.archive.org/web/20100611203817id_/http%3A//www.freetypinggame.net/contactus.asp)
+
+**Cookies and Web Beacons**  
+FreeTypingGame.net does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+
+**DoubleClick DART Cookie**  
+• Google, as a third party vendor, uses cookies to serve ads on your site.  
+• Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.   
+• Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - <http://www.google.com/privacy_ads.html>
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:   
+Google Adsense 
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here <http://www.networkadvertising.org/managing/opt_out.asp>   
+www.FreeTypingGame.Net has no access to or control over these cookies that are used by third-party advertisers. 
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.FreeTypingGame.Net's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
 **INFORMATION FreeTypingGame.net GATHERS AND TRACKS**
 
