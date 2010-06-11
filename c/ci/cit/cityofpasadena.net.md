@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831170436id_/http%3A//cityofpasadena.net/Privacy_Statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpasadena.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611224358id_/http%3A//cityofpasadena.net/Privacy_Statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement - City of Pasadena, California
 
