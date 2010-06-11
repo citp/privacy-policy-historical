@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2009-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090323072826id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xmind.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210213id_/http%3A//www.xmind.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - XMind - Social Brainstorming and Mind Mapping
+# Privacy Policy - XMind - Mind Mapping and Storming
 
 ## PRIVACY POLICY
 
