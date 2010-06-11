@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2009-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206214739id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the christmastreeshops.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611052036id_/http%3A//www.bedbathandbeyond.com/ctsprivacypolicy.asp) for the most accurate reproduction.-->
 
 <html><head><script language="Javascript">
 <!--
@@ -61,7 +61,6 @@ function getCookieVal( offset )
 function getURLArgs()
 {
 	var url;
-	var bFoundOrder = false;
 	var parts = new Array();
 	var sArgs = "?";
 	url = document.location.href;
@@ -69,7 +68,7 @@ function getURLArgs()
 
 	var query = new Array();
 	var param = new Array();
-	var order_num, i;
+	var i;
 
 	if ( parts.length > 1 )
 	{
@@ -78,11 +77,6 @@ function getURLArgs()
 		while( i < query.length )
 		{
 			param = query[i].split( "=" );
-			if ( param[0] == "order_num" )
-			{
-				sArgs += "order_num=" + param[1] + "&";
-				bFoundOrder = true;
-			}
 			if ( param[0].toUpperCase() == "BRN" )
 				sArgs += "BRN=" + param[1] + "&";
 			if ( param[0].toUpperCase() == "WRN" )
@@ -91,11 +85,7 @@ function getURLArgs()
 				sArgs += "MC=" + param[1] + "&";
 			i++;
 		}
-		if ( !bFoundOrder )
-			sArgs += "order_num=-1&";
 	}
-	else
-		sArgs = "?order_num=-1&";
 
 	return sArgs;
 }
@@ -182,6 +172,43 @@ function OpenPopupWindow( sURL, width, height, scbar, tbar )
 	windowpic = window.open(sURL, sWinName, strwindow);	
 	windowpic.focus();
 }
+
+function OpenNewWindow( sURL, width, height, scbar, tbar )
+{
+	if ( isNaN( width ) )
+		width=390;
+	if ( isNaN( height ) )
+		height=427;
+	if ( scbar != "yes" )
+		scbar = "yes";
+	if ( tbar != "yes" )
+		tbar = "yes";
+
+	var bars = "menubar=yes,toolbar=yes";
+	if ( tbar == "yes" )
+		bars = "menubar=yes,toolbar=yes";
+
+	var strwindow = "toolbar=yes,width=" + width + ",height=" + height + ",directories=yes,location=yes,status=yes,scrollbars="+scbar+"," + bars + ",resizable=yes";
+	if ( navigator.appName == "Microsoft Internet Explorer" )
+		strwindow = "toolbar=yes,width=" + (width-10) + ",height=" + (height-5) + ",directories=yes,location=yes,status=yes,scrollbars="+scbar+"," + bars + ",resizable=yes";
+
+	if ( window.screen )
+	{
+		var aw = screen.availWidth - 50;
+		var ah = screen.availHeight - 120;
+		var nwidth = width;
+		var nheight = height;
+		strwindow = "width=" + nwidth + ",height=" +nheight + strwindow;
+		strwindow += ",left=" + ( ( aw - nwidth ) / 2);
+		var nTop = ( ah - nheight ) / 2;
+		if (nTop < 0 )
+			nTop = 0;
+		strwindow += ",top=" + nTop;
+	}
+	
+	window.open (sURL, '', strwindow);
+}
+
 
 //-->
 </script>
@@ -580,7 +607,7 @@ function OpenPopupWindow( sURL, width, height, scbar, tbar )
 <table width="942px" border="0">
   <tbody><tr>
     <td>
-		<div align="center">©2006 - 2009&nbsp;Christmas Tree Shops Inc. All rights reserved.</div>
+		<div align="center">©2006 - 2010 &nbsp;Christmas Tree Shops Inc. All rights reserved.&nbsp;</div>
 	</td>
   </tr>
 </tbody></table>
