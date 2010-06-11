@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214205730id_/http%3A//www.usconstitution.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usconstitution.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210134id_/http%3A//www.usconstitution.net/privacy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy - The U.S. Constitution Online - USConstitution.net
+
+* * *
 
 USConstitution.net is concerned about your privacy, as you might guess from the subject matter on this site. This site is also frequented by people of all ages, as young as elementary school children, on up to centegenarians. To ensure that all visitors are aware of our policies, the following privacy policy is being published.
 
@@ -24,7 +26,7 @@ Frequent users may wish to register. Registered users choose a user name and pas
 
 Children 12 and under should get parental permission before registering and using their real name to post messages or before registering as a user.
 
-USConstitution.net does request that users who choose to use a pseudonym or handle use the same one consistently. Other Message Board policies [are posted and available](https://web.archive.org/web/20091214205730id_/http%3A//www.usconstitution.net/constpolicy.html).
+USConstitution.net does request that users who choose to use a pseudonym or handle use the same one consistently. Other Message Board policies [are posted and available](https://web.archive.org/web/20100611210134id_/http%3A//www.usconstitution.net/constpolicy.html).
 
 In addition to the information discussed above, each message posted includes the IP address of the computer posting the message. The IP address is saved to allow tracking and filtering of anyone who abuses or misuses the Message Board system. The IP address is stored internally, and is accessible only by the Webmaster.
 
@@ -38,11 +40,7 @@ The pages at USConstitution.net contain many links, some within the site and som
 
 **Questions**
 
-If you have any questions about this policy or about USConstitution.net, please [email the webmaster](https://web.archive.org/web/20091214205730id_/http%3A//www.usconstitution.net/mailtowm.php3).
-
-* * *
-
-[](http://www.constitutionfacts.com/)
+If you have any questions about this policy or about USConstitution.net, please [email the webmaster](https://web.archive.org/web/20100611210134id_/http%3A//www.usconstitution.net/mailtowm.php3).
 
 * * *
 
