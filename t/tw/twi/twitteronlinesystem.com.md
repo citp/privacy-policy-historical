@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the twitteronlinesystem.com privacy policy that was archived on 2009-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090721090857id_/http%3A//www.twitteronlinesystem.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitteronlinesystem.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611175424id_/http%3A//twitteronlinesystem.com/privacy.html) for the most accurate reproduction.*
 
 # Untitled Document
 
