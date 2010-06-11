@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the articlefree4all.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609171121id_/http%3A//articlefree4all.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlefree4all.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611052816id_/http%3A//articlefree4all.com/privacy.php) for the most accurate reproduction.*
 
-# Article Free 4 All
+# HaCkEd BY Z7FaaN H4Ck3R
 
 **www.articlefree4all.com  
 **
