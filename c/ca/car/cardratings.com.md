@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004190422id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardratings.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611175349id_/http%3A//www.cardratings.com/privacy.html) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy CardRatings.com Privacy Statement
 
 Updated as of January 5, 2009
 
