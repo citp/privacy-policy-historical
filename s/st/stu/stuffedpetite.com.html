@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the stuffedpetite.com privacy policy that was archived on 2009-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091125143911id_/http%3A//www.stuffedpetite.com/MCE/stp/0/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the stuffedpetite.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611215541id_/http%3A//stuffedpetite.com/MCE/stp/0/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <title>StuffedPetite.com :: Privacy Policy</title>
@@ -29,7 +29,7 @@
 <script type="text/javascript">
 		var ImgArray = new Array ('/themes/templates/images/public_header_01.gif', '/themes/templates/images/header_top.gif', '/themes/templates/images/header_base.gif', '/themes/templates/images/scene_panel_top.gif');
 		var exit=true;
-		var counter_end=80;
+		var counter_end=89;
 		var counter_color='#ff0000';
 		var counter_size='32px';
 		var counter_face="Arial";
@@ -38,33 +38,46 @@
 	</script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/swfobject.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/swfobject2.js"></script>
-<script type="text/javascript">
-	var color1 = '0x9d9a9a';
-	var color2 = '0xccdefd';
-	var color3 = '0x509aef';
-	var flashvars = {
-						file: '/themes/templates/trailers/MXP_STP_Trailer.flv',
-						image: '/themes/stp/images/trailer_thumb.jpg',
-						height: '182',
-						width: '234',
-						overstretch: 'true',
-						backcolor: color1,
-						frontcolor: color2,
-						lightcolor: color3
-					};							
+<script type="text/javascript" language="JavaScript" src="/themes/templates/js/flowplayer-3.1.4.min.js"></script>
+<script language="javascript" type="text/javascript">
+	// map domain names to product keys 
+var keys = { 
+  'myxxxpass.com' : '#@cb2fdcedaae4e8f5d7a',
+  '1000facials.com' : '#@31f83f06915dcd89d50',
+  'throated.com' : '#@bd6805065a1a1ecd384',
+  'onlyteenblowjobs.com' : '#@fed9d25a34d85253a3d',
+  'loveyourtits.com' : '#@a2b462455d6a3676c90',
+  'sharemycock.com' : '#@39da822ec35cf10b183',
+  'meatmyass.com' : '#@e690408f030996a6443',
+  'stuffedpetite.com' : '#@aeb9555dba972505e79',
+  'soccermomscore.com' : '#@4538d9cc363ed52f884',
+  'ilovemonstercocks.com' : '#@8e39c965504b90f4a0f',
+  'itsabigblackthing.com' : '#@659a001d99d203e8afa',
+  '1stinterracial.com' : '#@18764c1d0f7d84952c4',
+  'mommyblowsbest.com' : '#@f9678234c19e8427089',
+  'mycontentengine.com' : '#@4a75a857d0f429e6394'
+}; 
+ 
+// use correct key in the installation 
 	
-	var params = {
-						allowscriptaccess: "always",
-						allowfullscreen: "true"
-				 };
-	
-	
-	var attributes = {
-						id: "headerFlashPlayer",
-						name: "headerFlashPlayer"
-					 };
-	
-	swfobject.embedSWF("/mediaplayer.swf", "headerFlashPlayer", "234", "182", "9.0.0","/expressInstall.swf", flashvars, params, attributes);			
+	$f("player", {src: "http://myxxxpass.com/flowplayer.commercial-3.1.5.swf", wmode: 'transparent'}, 
+	   { 
+  			key: keys[location.host] || '', 
+  			clip: { 
+  				url: 'MXP_STP_Trailer.flv',
+				autoPlay: false,
+        		// use RTMP streaming 
+        		provider: 'rtmp'
+    	  		  },
+	    	plugins: {  					
+				// setup the RTMP streaming plugin 
+					rtmp: { 
+						url: 'http://myxxxpass.com/flowplayer.rtmp-3.1.3.swf', 
+						// location of the connection
+						netConnectionUrl: 'rtmp://publicstreaming.mycontentengine.com/TL1' 
+						  }  
+					 }
+		});
 </script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/prototype.js"></script>
 <script type="text/javascript" language="JavaScript" src="/themes/templates/js/scriptaculous.js"></script>
@@ -187,12 +200,13 @@ document.observe('dom:loaded', function()
 				</script>
 			</div>
 			<div id="headerFlashPlayerBox">
-				<div id="headerFlashPlayer"></div>
+				<div id="headerFlashPlayer"><a href="MXP_STP_Trailer.flv" id="player" style="background: url(/themes/stp/images/trailer_thumb.jpg)"><img src="/themes/templates/images/play_icon_sm.png" alt="View Site Trailer" title="View Site Trailer"></a></div>
 			</div>
 			<div id="playerBottom">Part Of MyXXXPass.com</div>
 			<div id="headerPlayerJoinLink2"><a href="http://www.blazingbucks.com/wm/signup/signup.php?site=20"><span>See More</span></a></div>
 		</div>
 		<div class="clear"></div>
+		<div id="hdIcon"></div>
 	</div>
 	<!-- begin nav -->
 	<div id="headerNavBox">
@@ -215,12 +229,12 @@ document.observe('dom:loaded', function()
 					<li><a href="/MCE/stp/0/site_trailer/MXP_XPT_Trailer.flv/152">XXXPillowTalk.com</a></li>
 				</ul>
 			</li>
-			<li class="top"><a href="/MCE/stp/0/site_scenes/[1-20]"><img src="/themes/templates/images/nav_scenes.jpg" alt="All StuffedPetite.com Scenes" title="All StuffedPetite.com Scenes"></a>
+			<li class="top"><a href="/MCE/stp/0/site_scenes"><img src="/themes/templates/images/nav_scenes.jpg" alt="All StuffedPetite.com Scenes" title="All StuffedPetite.com Scenes"></a>
 				<ul>
-					<li><a class="MenuBarItemSubmenu" href="/MCE/stp/0/site_scenes/[1-20]">All Scenes</a>
+					<li><a class="MenuBarItemSubmenu" href="/MCE/stp/0/site_scenes">All Scenes</a>
 						<ul>
-							<li><a href="/MCE/stp/0/site_scenes/[1-20]">StuffedPetite.com</a></li>
-							<li><a href="/MCE/stp/0/all_scenes/[1-20]">MyXXXPass Network</a></li>
+							<li><a href="/MCE/stp/0/site_scenes">StuffedPetite.com</a></li>
+							<li><a href="/MCE/stp/0/all_scenes">MyXXXPass Network</a></li>
 						</ul>
 					</li>
 					<li><a href="/MCE/stp/0/most_popular_scenes_site">Most Popular</a>
@@ -238,7 +252,7 @@ document.observe('dom:loaded', function()
 					<li><a href="/MCE/stp/0/coming_soon">Coming Soon</a></li>
 				</ul>
 			</li>
-			<li class="top"><a class="MenuBarItemSubmenu" href="/MCE/stp/0/all_site_updates/[1-20]"><img src="/themes/templates/images/nav_updates.jpg" alt="All StuffedPetite.com Updates" title="All StuffedPetite.com Updates"></a>
+			<li class="top"><a class="MenuBarItemSubmenu" href="/MCE/stp/0/all_site_updates"><img src="/themes/templates/images/nav_updates.jpg" alt="All StuffedPetite.com Updates" title="All StuffedPetite.com Updates"></a>
 				<ul>
 					<li><a class="MenuBarItemSubmenu" href="/MCE/stp/0/site_updates/53">1000Facials.com</a></li>
 					<li><a href="/MCE/stp/0/site_updates/201">ILoveMonsterCocks.com</a></li>
@@ -313,8 +327,8 @@ document.observe('dom:loaded', function()
 	</ul>
 	<p><a href="/MCE/stp/0/2257">§18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a></p>
 	<p>All models on this site were at least 18 years of age at the time of filming.</p>
-	<p>All rights reserved StuffedPetite.com © 2009.</p><p>
-    </p><p id="billingNotice">StuffedPetite.com is a site owned by Chargepay B.V.</p>
+	<p>All rights reserved StuffedPetite.com © 2009.</p>
+    <p id="billingNotice">StuffedPetite.com is a site owned by Chargepay B.V.</p>
 	<p class="mcefooter">Powered by <a href="http://www.mycontentengine.com" target="_blank" onclick="exit=false">MyContentEngine.com</a>© 2004-2009</p>
 </div>
  </div>
