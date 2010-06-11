@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imagehut.net privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821103703id_/http%3A//imagehut.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imagehut.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211036id_/http%3A//imagehut.net/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # ImageHut » More Information » Privacy Policy
 
