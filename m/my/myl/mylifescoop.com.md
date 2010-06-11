@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114200831id_/http%3A//mylifescoop.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mylifescoop.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611221203id_/http%3A//mylifescoop.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for MyLifeScoop.com — Life Scoop
 
