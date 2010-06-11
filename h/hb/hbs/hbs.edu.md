@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbs.edu privacy policy that was archived on 2009-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091124214648id_/http%3A//www.hbs.edu/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbs.edu privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611185029id_/http%3A//www.hbs.edu/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Harvard Business School
 
