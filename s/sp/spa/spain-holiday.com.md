@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615013301id_/http%3A//www.spain-holiday.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spain-holiday.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611173542id_/http%3A//www.spain-holiday.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy of Spain-holiday.com
 
