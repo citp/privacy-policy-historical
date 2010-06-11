@@ -1,102 +1,177 @@
-> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417052014id_/http%3A//www.revolvermag.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvermag.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061137id_/http%3A//www.futureus.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | RevolverMag.com - The World's Loudest Rock Magazine!
+# Privacy policy « Future US, Inc
 
-PRIVACY POLICY
+Last Updated on January 6, 2010
 
-Last Updated on January 8, 2008
+### 1\. Introduction
 
-At Future US, Inc., a magazine, disc media and website publisher, we are interested in protecting your privacy. But sometimes we do need information to understand how to make our properties more interesting, more specialized and more successful, and this statement of privacy explains data collection and use in those situations. Please read the complete privacy statement.
+Future US, Inc. and its subsidiaries and affiliates (collectively “Future” or “we”) respect the privacy rights of our online visitors and are committed to protecting the personal information collected about you. To further this commitment, we have adopted this Online Privacy Policy (“Privacy Policy”) to guide how we collect, store, and use the information you provide us online.
 
-Non US Visitors:
+This Online Privacy Policy includes the following information:
 
-Our privacy policy is intended to meet the laws and requirements of the United States. If you are visiting from outside the United States any information you provide will be treated in accordance with the laws of the United States or, if the law in jurisdiction does not permit you to access our website, then you must not maintain access to it.
+  * What this Privacy Policy applies to
+  * What types of information Future collects
+  * How Future uses the information it collects
+  * What happens if you don’t want to provide any personal information
+  * What kinds of cookies or other passive collection tools Future uses on its Website(s)
+  * Who collects the information that you disclose on Future’s Websites and with whom, if anyone, Future shares your personal information
+  * What choices you can make regarding how your personal information is used
+  * How you can change or delete the information Future has collected about you
+  * What is Future’s policy regarding collecting information from children under 13
+  * How Future ensures the security, quality, and integrity of your information
+  * How you can ask a question or file a complaint regarding this Privacy Policy
+  * How disputes regarding this Privacy Policy are resolved
 
-Collecting your Personal Information:
 
-We will ask you when we need information that personally identifies you (that is, your first and last name; your home or business address; your e-mail address; your telephone number; your gender) or allows us to contact you. Generally, this information is requested when you are asked to register before entering a contest, ordering e-mail newsletters, or if you subscribe to one of our magazines or properties, or elect to participate in a forum and/or a survey. Personal information collected by any of our websites often is limited to e-mail address, language, country or location, but may include other information when needed to provide a service to you.
 
-For example: If you choose to subscribe to a magazine or e-mail newsletter, we may request personal information such as: name, address, telephone number, and shipping information.
+Back to top of Privacy Policy
 
-Use of your Personal Information:
+### 2\. What does this Privacy Policy apply to?
 
-We may use your personal information for the following primary purposes:
+The website you are currently visiting is operated by Future located at 4000 Shoreline Court, Suite 400, South San Francisco, CA 94080. This Privacy Policy currently applies to all of the website(s) operated by Future (collectively referred to as “Future Websites” or “our Websites”). [Please click here](http://dl.futureus.com/legal/futureus_privacy_policy_site_list.pdf "Future US privacy policy site list") to see a complete list of the Future Websites. In the future, if we wish to include additional websites under this Privacy Policy, we will take reasonable steps to include them in the list and ensure that they provide a link to this Privacy Policy. Some Websites, due to the nature of the content and services they provide, may have additional information relating to the collection and use of information submitted to them. Please read each Websites Terms of Use as well as this Privacy Policy.
 
-* To help us create and deliver content most relevant to you.  
-* To alert you to special offers, updated information and other services.  
-* To help us determine if any modifications need to be made to our publications or with respect to our subscriptions.  
-* To contact you regarding participation in a reader survey.
+Please note that this Privacy Policy applies only to information submitted and collected online through the Future Websites (as listed above), and does not apply to information that may be collected by Future offline. In addition, this Privacy Policy does not extend to websites maintained by our international affiliates (e.g., Future Publishing, Inc. or Future plc) or other companies or organizations to which we link. Because we cannot guarantee that the privacy policies of such sites meet the requirements of Future’ Online Privacy Policy, we encourage you to read the privacy policy of the website to which you link before you submit any personal information to that site.
 
-We may occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Please note that by using our Websites, you signify your assent to Future’s Online Privacy Policy. If you do not agree to this Privacy Policy, please do not use our Websites. We reserve the right to make changes to this Privacy Policy. If we make a material change to this Privacy Policy, we will notify you by posting the change on our Websites or in this Privacy Policy and, if necessary, give you additional choices regarding such change. Please check back from time to time to ensure that you are aware of these changes. Your continued use of our Websites will signify your acceptance of these changes.
 
-We also will occasionally share this information with third parties so that you may be informed of matters, services or products of interest to readers of our magazines.
+Back to top of Privacy Policy
 
-We will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on us; (b) protect and defend our rights or property; (c) act in urgent circumstances to protect the personal safety of users of any of our websites, or the public; and (d) comply with negotiated agreements in the event of a merger or sale of any of our products.
+### 3\. What types of information does Future collect?
 
-Control of your Personal Information:
+In order to give you the best experience on our Websites, Future may collect information about you, but only if you voluntarily provide it to us. Typically, we may ask you to submit personal and/or demographic information in connection with any one of the following features or services.
 
-When you register on one of our websites, or otherwise give us personal information, we will not share that information with third parties without your permission, other than for the limited exceptions already listed. It will only be used for the purposes stated above.
+  * Website and game-specific registration
+  * Newsletter subscription
+  * General support
+  * Product support
+  * Contests, sweepstakes, and other promotions
+  * Polls, surveys, or questionnaires
+  * Message boards
+  * Other features such as e-cards, wish lists, and tell-a-friend
 
-We will occasionally allow other companies to offer our customers information about their products and services. If you do not wish to receive any such mailings, you may send an e-mail to [webmaster@futureus.com](mailto:webmaster@futureus.com).
 
-Security of your Personal Information:
 
-Future US, Inc., will use its best efforts to protect the security of your personal information and honor your choices for its intended use.
+The types and amount of personal information collected for these activities will vary depending on the activity. The requested personal information may include: your name, home address, telephone number, e-mail address and (for those purchasing products online) credit card information including billing and shipping addresses. For some activities, we may ask you to create a username and password and to provide other non-personal information such as your age or date of birth, gender, game and platform preferences (including information about the games and hardware you own), hobbies and interests, and other information (also known as “demographic information”). If demographic information is collected for an activity that also requires personal information, we may combine the demographic information with your personal information. Combining data allows us to customize the notices we send you and the services we provide you according to your interests and preferences. For more on how we use your information, please read the section on use below.
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above.
+Back to top of Privacy Policy
 
-Email Correspondence:
+### 4\. How does Future use the information it collects?
 
-We may respond to email sent directly to us or through a online submission form. This information and emails would only be shared with a third party in connection with a court order, sale of the website(s) to a third party or to defend a legal claim. These emails would only rarely be used for one time correspondence with that user. These e-mails are kept internally for our own day to day business purposes.
+Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-Special Notification with respect to Children's Privacy  
-(Users under the age of 13):
+Information collected from those who voluntarily submit it to us is used to provide services like updates on special events, game news, and email announcements of interest to our users. Occasionally, we share your personal information (e.g., e-mail address) with a third-party sponsor, co-sponsor, or other reputable third party that provides products or services that may be of interest to you. Moreover, if you register for access to our blogs or message boards, we will use your personal information to enable you to view and post messages on the boards. However, you should understand that community forums, blogs, and message boards are tools that allow you to communicate with members of the online community. As such, whenever you give out personal information in public areas, that information can be collected and used by people you don’t know.
 
-In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with our policy and COPPA regulations, we DO NOT:
+We may also use your personal information for other purposes such as “Operational Uses.” For example, we may use your information to send you administrative communications either about your account with us or about features of our Web sites, including any future changes to this Privacy Policy. 
 
-* Request or knowingly collect personally identifiable online or offline contact information from users under 13 years of age;  
-* Knowingly use or share personal information from users under 13 years of age with third parties;  
-* Give children the ability to publicly post or otherwise distribute personally identifiable contact information;  
-* Entice children with the prospect of a special game, prize or other activity to divulge more information than is needed to participate in the activity.
+We occasionally use other companies, agents or contractors to perform services necessary to our operations. For example, we have partnered with other companies to personalize our Web pages, process credit card transactions, analyze customers’ interaction with our Website, and process consumer surveys. We also provide postal addresses to the U.S. Post Office for delivery purposes. In the course of providing such services, these companies may have contact with your personally identifying information. These entities have agreed to securely store and maintain the personal information received from us. 
 
-Use of Cookies:
+Finally, we may take your personally identifiable information and make it non-personally identifiable, either by combining it with information about other individuals (aggregating your information with information about other individuals), or by removing characteristics (such as your name) that make the information personally identifiable to you (de-personalizing your information). Given the nature of this information, no restrictions apply under this Privacy Policy on our right to aggregate or de-personalize your personal information, and we may use and share in any way with third parties the resulting non-personally identifiable information.
 
-To ensure we are publishing content customers need and want, we may elect to collect aggregated site-visitation statistics using cookies. We do not track individual's use of the site.
+For practical reasons, we treat personal information submitted to us in a business capacity different from information we receive in a non-business capacity. Personal information submitted to us in a business capacity (e.g. resumes, event sponsorship, etc.) may be shared with third parties, depending on the nature of the inquiry.
 
-Third Party Advertising:
+_Purchase or Sale of Businesses_
 
-We use third-party advertising companies to serve ads when you visit certain of our websites. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here:
+From time to time, we may purchase a business or sell one or more of our businesses and your personally identifiable information may be transferred as a part of the purchase or sale. If we purchase a business, the personally identifiable information received with that business would be treated in accordance with this Privacy Policy, if it is practicable and permissible to do so. If we sell a business, we will include provisions in the selling contract requiring the purchaser to treat your personally identifiable information in the same manner required by this Privacy Policy (including any amendments to this Privacy Policy). The provisions of this paragraph will also apply if we are sold as part of bankruptcy proceedings.
 
-<http://www.networkadvertising.org/optout_nonppii.asp>
+_Disclosures Required By Law and Disclosures to Help Protect the Security and Safety of Our Websites and Others_
 
-Future US does not provide any personal information to a advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. Downloads or other content interacted with from third party advertisers is subject to the advertiser's privacy policies, not this one.
+We will disclose personal information when we believe in good faith that such disclosures (a) are required by law, including, for example, to comply with a court order or subpoena, or (b) will help to: enforce our Terms of Use; enforce contest, sweepstakes, promotions, and/or game rules; protect your safety or security, including the safety and security of property that belongs to you; and/or, protect the safety and security of our Web sites or third parties.
 
-Future US lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies. use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Future US's cookies.
+Back to top of Privacy Policy
 
-Third Party Cookies & IP Addresses:
+### 5\. What happens if I refuse to provide my personal information to Future?
 
-In the course of serving advertisements to this site, our third-party ad server may place or recognize a unique "cookie" on your browser.
+If you choose not to submit personal information when requested, you may not be able to participate in certain activities on our Websites and may limit the services we can provide you. For example, if you refuse to share your email address, you may not be able to receive general support or product support. To simply browse our Websites, however, you do not need to give us any personal information.
 
-Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+Back to top of Privacy Policy
 
-Most browsers are automatically set to accept cookies. You can disable cookies or set your browser to alert you when cookies are being sent. However, some areas will not function properly if you do so. There are many sources for additional information about Internet cookies, and we encourage anyone concerned about the use of cookies to do more research on the topic so you can make an informed decision about accepting them from any site. As technology advances and cookies provide more functionality, we expect to utilize them in different ways.
+### 6\. Does Future use cookies or use other passive means to collect information?
 
-IP Address. An Internet Protocol (IP) address is a unique string of numbers that is assigned to your computer by your Internet Service Provider. Web servers automatically identify your computer by its IP address. We will use your IP address to help diagnose problems with our server and to administer our site. Your IP address also may be used to gather broad demographic information. The IP address is not tied to any personally identifiable information
+We collect information through technology to make our Web sites more interesting and useful to you. For example, when you come to one of our Web sites, we collect your IP address. An IP address is often associated with the portal through which you enter the Internet, like your ISP (Internet service provider), your company, or your university. Standing alone, your IP address is not personally identifiable. At times, we also use IP addresses to collect information regarding the frequency with which our guests visit various parts of our Web sites. We may combine this information with personally identifiable information.
 
-If you have questions regarding this statement, you should contact webmaster @ futureus.com.
+We may use cookies to improve the use and functionality of our Websites. A “cookie” is a small file or record-keeping device that websites often store on a user’s computer. Storage of cookies on your system provides an easy and convenient method for us to personalize your experience on our Websites. For example, cookies will remember what you’ve placed in your shopping cart, tell us that you have visited one of our Websites before, and may contain other information that will make your next visit to our Websites more enjoyable. We may combine information contained in cookies with your personal information. You can always disable cookies or set your browser to alert you when cookies are being sent to your computer, although this may affect your ability to shop online, both at Future and elsewhere.
 
-Changes to this Statement:
+We may use web beacons (or clear GIFs) on our Websites or include them in the e-mail messages we send you. Web beacons (also known as “web bugs”) are small strings of code that provide a method of delivering a graphic image on a web page or in an email message for the purpose of transferring data. We use web beacons for many purposes, including site traffic reporting, unique visitor counts, advertising and email auditing and reporting, and personalization. Information gathered through web beacons may be linked to your personal information.
 
-We will occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this Statement, we will notify you by placing prominent notice on the Web site.
+Future may also keep track of Internet Protocol (IP) addresses to troubleshoot technical concerns and to maintain website safety and security. An IP address is a number that is used by computers on the network to identify your computer every time you log on to the Internet.
 
-Contact Information:
+Future may collect information in the form of logs – files that record website activity and gather statistics about web users’ browsing habits. These entries are generated anonymously, and help Future determine (among other things) how many and how often users have visited our Websites, which pages they’ve visited, and other similar data (a.k.a., navigational data). We also use the log file entries for our internal marketing and demographic studies, so we can constantly improve the online services we provide you. Log files are used internally only, and are not associated with any particular user, computer, or browser.
 
-We welcome your comments regarding this Statement of Privacy, please contact us by e-mail, or postal mail at
+Many advertisements are managed and placed on our Web sites by third parties. These companies are called “network advertisers.” Network advertisers who place advertisements on our Web sites may also use cookies and Web beacons to collect non-personally identifiable information when you click on or move your cursor over one of their banner advertisements. You may not realize this information is being collected. In some cases, we may have access to information from Web beacons and cookies used by network advertisers on our sites and this information may permit us to identify other sites that you have visited that are also associated with the network advertiser.
 
-Future US, Inc.  
-Attention: Webmaster  
-4000 Shoreline Court, Suite 400  
-South San Francisco, CA 94080 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
 
-  
+Finally, once you’ve clicked on an advertisement and have left our Web sites, our Privacy Policy no longer applies and you must read the privacy policy of the advertiser to see how your personal information will be handled on their Web site.
 
+Back to top of Privacy Policy
+
+### 7\. Who is collecting my personal information and is it shared with anyone?
+
+The information that you disclose on the Future Websites is collected by Future or by a vendor on Future’s behalf; and, is used in accordance with the practices set forth above. Vendors (or agents) are entities that provide support for the internal operations of our Websites and who only use the information we share with them (or that they collect on our behalf) for purposes of internal fulfillment (e.g., online product fulfillment). Vendors are required to handle such information in accordance with this Privacy Policy.
+
+From time to time, we may run contests, tournaments, or other events or activities (“events”) on our Websites. Information collected for these events may include personal information such as your email address and may be collected by or shared with a third party sponsor, co-sponsor, or other reputable third party (e.g., promotional partner, software licensee, or game developer). If you do not want your information to be collected by or shared with a third party, you can choose not to participate in these events at the time the information is collected.
+
+We may disclose personal information in the good faith belief that we are required to do so by law, including but not limited to disclosure to law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or us to legal liability. In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event, Future’s customer information may be transferred to our successor or assign.
+
+Back to top of Privacy Policy
+
+### 8\. Can I choose how my personal information is used?
+
+If you do not want to receive our newsletter, service related announcements, or any other communications and/or services from Future, please opt-out from these communications or services at the time of registration or information collection. If at any time you decide to remove your personal information from our database, you may do so by emailing us at [privacy@futureus.com](mailto:privacy@futureus.com). 
+
+Back to top of Privacy Policy
+
+### 9\. How do I access or update my personal information?
+
+You can access and update the contact information you gave us during registration (that is, your e-mail address or any other information that would directly enable us to contact you), by e-mailing us at privacy@futureus.com.
+
+**Your California Privacy Rights**  
+
+
+California Civil Code Section 1798.83 permits our customers who are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. For inquiries regarding our disclosure policy, please contact us using the information provided below:
+
+Attn: Privacy Policy Administrator
+
+4000 Shoreline Court, Suite 400
+
+South San Francisco, CA 94080
+
+[privacy@futureus.com](mailto:privacy@futureus.com)
+
+Back to top of Privacy Policy
+
+### 10\. What is Future’s policy regarding children under 13?
+
+It is Future’s policy not to collect information from children 12 or younger at the Sites, and Future employs industry standard technical measures to prevent children from providing us with any personally identifiable information. Children from the ages of 13 to 17 are able to participate at the Websites; however, some features of the Websites may be unavailable to them. Children 12 and under may still surf the Websites, and may see many links to other websites while doing so. Future cannot guarantee that these other websites contain material appropriate for them. We strongly urge parents to monitor their children’s Internet usage, and to actively participate in the selection of websites their children visit.
+
+Back to top of Privacy Policy
+
+### 11\. What safeguards does Future use to protect my personal information?
+
+Future takes reasonable measures to protect the confidentiality, security, and integrity of the personal information collected from our Website visitors. Personal information collected by Future is stored in secure operating environments that are not available to the public and that are only accessible to authorized employees. We also have security measures in place to protect the loss, misuse, and alteration of the information under our control. For example, before we allow web users to access their personal information, we verify their identity by requesting information such as their username and password.
+
+While Future takes reasonable precautions against possible breaches of its Websites and customer databases, no website or Internet transmission is completely secure. Consequently, Future cannot and does not guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. Future urges you to take steps to keep your personal information safe by memorizing your password or keeping it in a safe place (separate from your account information), logging out of your user account, and closing your web browser.
+
+Back to top of Privacy Policy
+
+### 12\. How do I ask a question or file a complaint? (Contact Information)
+
+If you have any questions, complaints, or comments regarding this Privacy Policy or our information collection practices, please contact our Privacy Policy Administrator at:
+
+Attn: Privacy Policy Administrator
+
+4000 Shoreline Court, Suite 400
+
+South San Francisco, CA 94080  
+
+
+[privacy@futureus.com](mailto:privacy@futureus.com)
+
+### 13\. How are disputes regarding this Privacy Policy resolved?
+
+By using our Websites, you agree that any claim arising out of or relating to our adherence to this Privacy Policy, or the breach thereof, that cannot be resolved through our internal processes, will be settled by arbitration administered by the American Arbitration Association (“AAA”) in accordance with its applicable commercial rules. You further agree that: (a) any arbitrator will be either an attorney or retired judge having significant and recognized experience with and knowledge of privacy issues and information technology; (b) the arbitration panel will apply California law, without regard to it conflict of laws principles; (c) the exclusive location for such arbitration will be San Francisco, California; and (d) all decisions of the arbitration panel will be final and binding on the parties, which waive any right to further appeal the arbitration award, to the extent an appeal may be lawfully waived.
+
+This Privacy Policy was last updated on January 6, 2010.
+
+Back to top of Privacy Policy
