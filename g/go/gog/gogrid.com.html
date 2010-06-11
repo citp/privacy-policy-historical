@@ -1,13 +1,15 @@
-<!--The following is the downloaded HTML source of the gogrid.com privacy policy that was archived on 2009-05-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090504104911id_/http%3A//www.gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gogrid.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611070342id_/http%3A//www.gogrid.com/legal/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>GoGrid Cloud Hosting : Privacy Policy</title>
 <meta name="description" content="Read the ServePath/GoGrid Privacy Policy">
 <meta name="keywords" content="cloud hosting, cloud computing, gogrid, virtualized servers, windows cloud servers, linux cloud servers, cloud server support, cloud hosting support">
-<link href="/styles.core.css" type="text/css" rel="stylesheet">
+<link href="http://wac.1a6a.edgecastcdn.net/801A6A/www.gogrid.com/styles/styles.core.v3.css" type="text/css" rel="stylesheet">
 <link href="/favicon.png" rel="icon" type="image/png">
+<script src="/js/jquery/jquery.js" type="text/javascript"></script>
+<script src="/js/jquery/jquery.cookie.js" type="text/javascript"></script>
 <script src="/js/jquery/jquery.js" type="text/javascript"></script>
 <script src="/js/jquery/jquery.ui.js" type="text/javascript"></script>
 <script src="/js/jquery/jquery.accordion.js" type="text/javascript"></script>
@@ -24,141 +26,131 @@ $(document).ready(function(){
 			closeable: true, 
 			closeText: '<img src="/images/overlay_close.png" />',
 			unloadOnHide: true,
-			y: '0px'
+			// y: '0px',
+			fixed: false
 		});
+		cmCreatePageviewTag($(this).attr('title'), "Legal")
 		return false;
-	})
+	});
+	$('#sideNav_links ul li').mouseover(function(){
+			$(this).stop().animate({
+				backgroundPosition: '0px'
+			}, {duration: 400}).mouseout(function(){
+				$(this).stop().animate({
+				backgroundPosition: '-210px'
+				}, {duration: 400})
+			})
+		});
+		
+	$('#sideNav_questions ul li').click(function(){
+		$(this).toggleClass('this');
+		$(this).next('.answer').slideToggle('fast');
+	});
+	
+	$('#liveChat_btn, .liveChat_link').click(function(){
+		window.open('/inc/liveChat_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes');
+		cmCreatePageviewTag("Live Chat Initiated", "Live Chat", null, null);
+		return false;
+	});
+	
+	$('#liveCall_btn, .liveCall_link').click(function(){
+		window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes');
+		cmCreatePageviewTag("Live Call Initiated", "Live Call", null, null);
+		return false;
+	});
 })
 // ]]>
 </script>
+
+<!--[if lte IE 6]>
+<style>
+img.png {
+	behavior:url(/ie6/pngbehavior.htc);
+    }
+</style>
+<![endif]-->
+
 <script type="text/javascript" charset="iso-8859-1" src="http://server.iad.liveperson.net/hcp/html/mTag.js?site=69971338"></script></head>
 
-<body><div id="container">
-	<script type="text/javascript">
-
-	function rotatePhone() {
-		$('.pn').toggle('slow');
+<body><script type="text/javascript">
+function invite() {
+	$('#chatInvite').slideDown(250, function(){
+		$('#questionCloud').animate({top: '-54px'}, 250)
+		})
 	}
 	
-	$(document).ready(function(){
-		setInterval('rotatePhone()', 8000);
-	});
+var decline_cookie = function(c_name, c_value, d_expire) {
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + d_expire);
+	document.cookie = c_name+ "=" + escape(c_value) + 
+	((d_expire == null) ? "" : ";expires="+exdate.toGMTString()) + 
+	';path = /';
 
+}
+
+$(function(){
+	setTimeout("invite()", 15000);
+	$('#inviteClose').bind('click', function(){
+		$('#chatInvite').slideUp(500, function(){
+			var cookieName = 'chatDecline';
+			var cookieOptions = {path: '/', expires: null}
+			new decline_cookie(cookieName,'declined', cookieOptions);
+		});
+		
+		
+	})
+})
 </script>
 
-<div id="topInfo">
-	<div id="contactUs">
-    	<div id="contactUs_top">
-        	<div id="buttonContactUs">
-        		<a href="/company/contact-us.php">
-                	<img src="/images/blank_contactUs.gif" alt="contact us" border="0">
-                </a>
-            </div>
-            24/7 Support :: 24/5 Sales
+<div id="topBar">
+	<div id="wrapper_topNav">
+    	<div id="topContact">
+        	<span class="phoneNumbers">US &amp; Canada: 1.877.946.4743   Worldwide: 1.415.869.7444</span> | <a href="http://blog.gogrid.com">Blog</a> | <a class="liveChat_link" href="#">live chat</a> | <a href="/customer-login/">customer login</a>
         </div>
-        <div id="phoneNumbers" onclick="javascript:window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-            <div class="phoneNumber">
-                1.877.946.4743
-            </div>
-            <div class="phoneLabel">
-                US and Canada : 
-            </div>
-            <div class="phoneNumber" id="worldwide">
-                <div id="ww_number" style="display:block;" class="pn">+1.415.869.7444</div>
-                <div id="liveCall_top" style="display:none;" class="pn">Click to Call <span style="color:#6fbe44; font-weight:bold;">FREE!</span></div>
-            </div>
-            <div class="phoneLabel">
-                Worldwide : 
-            </div>	
+    	<div id="logo">
+        	<a href="/"><img src="/images/gogrid_logo.png" alt="gogrid logo" class="png" height="44" width="248"></a>
+        </div>
+        <div id="navBar">
+        	<ul>
+            	<li><a id="nav_cloudHosting" href="/cloud-hosting/">Cloud Hosting</a></li>
+                <li><a id="nav_hybridHosting" href="/hybrid-hosting/">Hybrid Hosting</a></li>
+                <li><a id="nav_support" href="/support/">Support</a></li>
+                <li><a id="nav_community" href="/community/">Community</a></li>
+                <li><a id="nav_signUp" href="/signUp/">Sign Up</a></li>
+            </ul>
         </div>
     </div>
-    <div id="logo">
-    	<a href="/index.php"><img src="/images/logo.png" alt="GoGrid Cloud Hosting"></a>
-    </div>
-</div>    
-<div id="topNav">
-	<div id="customerLogin">
-    	<a href="https://my.gogrid.com">
-        	<img src="/images/blank_custLogin.gif" alt="customer login">
-        </a>
-    </div>
-	<div class="topNav_item">
-    	<a href="/how-it-works/index.php" name="topNav_how">How GoGrid Works</a>
-    </div>
-    <div class="topNav_item">
-    	<a href="/pricing/index.php" name="topNav_signup">Pricing/Sign Up</a>
-    </div>
-    <div class="topNav_item">
-    	<a href="/support/index.php" name="topNav_support">24/7 Support</a>
-    </div>
-    <div class="thisPage">
-    	<a href="/company/index.php" name="topNav_company">Company</a>
-    </div>
-    <div class="topNav_item">
-    	<a href="/partners/index.php" name="topNav_partners">Partners</a>
-    </div>
-    <div class="topNav_item">
-    	<a href="/community/index.php" name="topNav_community">Community</a>
-    </div>
-</div>    <div id="box-middle">
-        <div id="sideNavigation">
-        	
-<style>
-#callout_referral {
-	float:left;
-	display:inline;
-	width:179px;
-	margin:0;
-	padding:0;
-	border:0px;
-	background:#595959;
-	}
-</style>
+</div>
+
+<div id="main">
+	<div id="wrapper_inner" class="clear">
+    	<div id="contentContainer" class="clear">
+        	<div id="contentContainer_left">
+				
+
+<div id="sideNav_links">
+    <h3>Legal</h3>
+    <ul>
+        <li><a href="/legal/terms-service.php" class="notThis" name="sideNav_Terms of Service">Terms of Service</a></li><li><a href="/legal/aup.php" class="notThis" name="sideNav_Acceptable Use Policy">Acceptable Use Policy</a></li><li><a href="/legal/privacy-policy.php" class="this" name="sideNav_Privacy Policy">Privacy Policy</a></li><li><a href="/legal/sla.php" class="notThis" name="sideNav_SLA">SLA</a></li><li><a href="/legal/EU-safe-harbor.php" class="notThis" name="sideNav_Safe Harbor Policy">Safe Harbor Policy</a></li>    </ul>
+
+</div> 
+<div id="sideNav_signup">
+    <a href="/signUp/">
+        <img src="/images/sideNav_signUp.png" alt="">
+    </a>
+</div>
+
+ 
 
 
-	<div id="sideNavigation_top" class="sideNavigation_title">
-    	Legal    </div>
-    <div id="sectionNavigation">
-    	<ul>
-		<li><a href="/legal/terms-service.php" class="notThis" name="sideNav_Terms of Service">Terms of Service</a></li><li></li><li><a href="/legal/aup.php" class="notThis" name="sideNav_Acceptable Use Policy">Acceptable Use Policy</a></li><li></li><li><a href="/legal/privacy-policy.php" class="this" name="sideNav_Privacy Policy">Privacy Policy</a></li><li></li><li><a href="/legal/betaAgreement.php" class="notThis" name="sideNav_Beta Agreement">Beta Agreement</a></li><li></li><li><a href="/legal/sla.php" class="notThis" name="sideNav_SLA">SLA</a></li><li>         </li></ul>  
-    	
-    </div>  
-    <div class="sideNavigation_title">
-    	Questions?
-    </div>  
-	<div id="questionCallouts">
-    	<div class="questionCallout" id="liveChat" onclick="javascript:window.open('/inc/liveChat_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-        	<a href="javascript:void(0)" target="chat69971338" onclick="javascript:window.open('/inc/liveChat_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-            Start a Live Chat with<br>a GoGrid Sales Rep</a>
-    	</div>
-        
-        <div class="questionCallout" id="liveCall" onclick="javascript:window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;"> 
-        	<a href="javascript:void(0)" target="call69971338" onclick="javascript:window.open('/inc/liveCall_tracker.php?referrer='+escape(document.location), 'chat69971338', 'width=472, height=320, resizable=yes, scrollbar=yes'); return false;">
-            Talk to a GoGrid<br>Sales Rep Now
-            </a>
-		</div>
-                
-    	<div class="questionCallout" id="sideNav_phone">
-        	Call us Anytime:<br>
-            <span class="sideNav_phone">1.415.869.7444</span>
-    	</div>
-        
-	</div>
-    
-    
-    <div id="sideNavigation_bot">
-<div id="sideNavigation_SignUpBtn"><a href="/pricing/index.php" name="sideNav_signup"><img src="/images/sideNav_SignUpBlank.png" alt="" border="0"></a></div>    </div>
-    
-	
-
-         </div>
-        <div id="rightside">
-        	<div class="content-top"></div>
-            <div class="content-middle">
-            	                	<div class="pageTitle">
-                    	<h1>Privacy Policy</h1>
-                    </div>
-                            	<p><strong>Effective Date: October 31, 2008</strong></p>
+<!--
+ 
+-->
+            </div>
+            <div id="contentContainer_right">
+            	<h1>Privacy Policy</h1>
+                <div id="content" class="clear">
+                	<p><strong>Effective Date: October 31, 2008</strong></p>
         
         <p>GoGrid has created this Privacy Policy to record and explain our commitment to privacy, and as an agreement with our customers and with other third parties about our data-handling.  This policy lists the types of potentially private data GoGrid collects, explains how we use and protect that data, and discloses our key procedures surrounding privacy.
         This Privacy Policy applies to GoGrid's services (collectively, the "Service") and to its website: www.GoGrid.com.</p>
@@ -228,44 +220,99 @@ $(document).ready(function(){
         
         <p>This Privacy Policy doesn't address use of data by our customers or by other third parties, even if the data is stored on one of GoGrid's computers or collected through a website we host (Hosted Data), or collected through a website linked to our website.  GoGrid is not responsible for use or misuse of data by any third party, including any GoGrid customer or the operator of a website linked to one of our websites.</p>
         
-      <p>&nbsp;</p>            </div>
-            <img src="/images/boxBottom_bg.png" alt="">
-        </div>
-    	
+      <p>&nbsp;</p>            	</div>
+            </div>
+    	</div>
     </div>
+	<div id="footer" class="clear">
+    <div id="footerTitle">
+        <div id="slaSeal">
+            <a href="/legal/sla.php">Cloud Hosting Service Level Agreement</a>
+        </div>
+        <ul>
+            <li class="foot_cloudHosting"><a href="/cloud-hosting/">Cloud Hosting</a></li>
+            <li class="foot_resources"><a href="/support/">Resources</a></li>
+            <li class="foot_about"><a href="/company/">About Us</a></li>
+            <li class="foot_legal"><a href="/legal/sla.php">Legal</a></li>
+            <li class="foot_contact"><a href="/company/contact-us.php">Contact Us</a></li>
+        </ul>
+    </div>
+    <div id="footerLinks" class="clear">
+        <ul class="foot_cloudHosting">
+            <li><a href="/cloud-hosting/windows-cloud-servers.php">Windows Cloud Servers</a></li>
+            <li><a href="/cloud-hosting/linux-cloud-servers.php">Linux Cloud Servers</a></li>
+            <li><a href="/cloud-hosting/custom-cloud-server-images.php">Custom Cloud Server images</a></li>
+            <li><a href="/cloud-hosting/cloud-storage.php">Cloud Storage</a></li>
+            <li><a href="/cloud-hosting/dedicated-servers.php">Dedicated Servers</a></li>
+            <li><a href="/cloud-hosting/pricing.php">Pricing</a></li>
+            <li><a href="/microsoft_websitespark/">Microsoft WebsiteSpark</a></li>
+            <li><a href="/bizspark/">Microsoft BizSpark Hosting</a></li>
+        </ul>
+        <ul class="foot_resources">
+            <li><a href="http://pyramid.gogrid.com" target="_blank">Cloud Computing Explained</a></li>
+            <li><a href="/cloud-hosting/scaling-with-cloud-computing.php">Scaling with Cloud Computing</a></li>
+            <li><a href="http://blog.gogrid.com">GoGrid Blog</a></li>
+            <li><a href="http://wiki.gogrid.com">GoGrid Wiki</a></li>
+            <li><a href="http://forums.gogrid.com">Forums</a></li>
+            <li><a href="/support/faqs.php">FAQs</a></li>
+            <li><a href="/support/cloud-hosting-tutorials.php">Video Tutorials</a></li>
+        </ul>
+        <ul class="foot_about">
+            <li><a href="/company/">Company Overview</a></li>
+            <li><a href="/company/facilities.php">Facilities</a></li>
+            <li><a href="/company/careers.php">Careers</a></li>
+            <li><a href="/company/events.php">Events</a></li>
+            <li><a href="/company/press.php">Media Coverage</a></li>
+            <li><a href="/company/press.php">Press Releases</a></li>
+            <li><a href="/community/partners">Partners</a></li>
+        </ul>
+        <ul class="foot_legal">
+            <li><a href="/legal/sla.php">SLA</a></li>
+            <li><a href="/legal/terms-service.php">Terms of Service</a></li>
+            <li><a href="/legal/aup.php">Acceptable Use Policy</a></li>
+            <li><a href="/legal/privacy-policy.php">Privacy Policy</a></li>
+            <!--<li><a href="#">SAS Type II</a></li>-->
+            <li><a href="/legal/EU-safe-harbor.php">Safe Harbor Policy</a></li>
+        </ul>
+        <div class="foot_contact">
+            US &amp; Canada: 1.877.946.4743<br>
+            Worldwide: +1.415.869.7444
+            <ul id="contactLinks">
+                <li id="twitter"><a href="http://twitter.com/gogrid" target="_blank">Follow @ GoGrid</a></li>
+                <li id="facebook"><a href="http://facebook.com/gogrid" target="_blank">Become a Fan</a></li>
+                <li id="email"><a href="/company/contact-us.php">Email Us</a></li>
+                <li id="foot_chat"><a href="#" target="_blank" class="liveChat_link">Start a Live Chat</a></li>
+            </ul>
+        </div>
+    </div>
+    <div id="footerText">
+        © Copyright 2006 - 2010 <a href="">GoGrid Cloud Hosting</a> All rights reserved. Patents pending.<br>
+Amazon and EC2 are trademarks of Amazon.com, Inc. All other trademarks are property of their respective owners.
+    </div>
+</div>    <div id="chatInvite">
+    <div id="inviteClose"></div>
+    <div id="invite_inner">
+        <img src="/images/chat_invite/questionCloud.png" id="questionCloud">
+        <h3>Questions?</h3>
+        Talk to a Cloud Hosting Expert Now
+        <div class="liveChat_link" id="chatLink_footer">Live Chat</div>
+        <div class="liveCall_link" id="chatCall_footer">Get a Call</div>
+    </div>
+</div> 
     
-    <div id="box-bottom"></div>
-    <div id="footer">
-		<div id="footerLinks_links">
-    <a href="/how-it-works/">How it Works</a> |
-    <a href="/pricing/">Sign Up</a> | 
-    <a href="/support" target="_blank">Support</a> | 
-    <a href="/company">Company</a> |
-    <a href="/partners">Partners</a> |
-    <a href="/community">Community</a> |
-    <a href="http://blog.gogrid.com" target="_blank">Blog</a> | 
-    <a href="/legal/terms-service.php">Terms of Service</a> | 
-    <a href="/legal/aup.php">Acceptable Use Policy</a> | 
-    <a href="/legal/privacy-policy.php">Privacy Policy</a> | 
-    <a href="/legal/sla.php">SLA</a>
 </div>
 
-<p><a href="/how-it-works/">GoGrid Cloud Hosting</a> is a service of <a href="http://www.servepath.com" target="_blank">ServePath Dedicated Hosting</a> © Copyright 2006 - 2009 ServePath LLC. All rights reserved. Patents pending.</p>
+<!-- BEGIN Genius code 
 
-<p>GoGrid is a registered trademark of ServePath LLC. Amazon and EC2 are trademarks of Amazon.com, Inc. All other trademarks are property of their respective owners.</p>    </div>
-</div>
-
-<!-- BEGIN Genius code  -->
-
-<script language="JavaScript" type="text/javascript">
+<script language='JavaScript' type='text/javascript'>
 	//<![CDATA[
 	if (self==top){
 		document.write("<scr" + "ipt type='text/javascript' language='JavaScript' id='GeniusCode' src='" + location.protocol + '//idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w' + "'>		</scr" + "ipt>");
 		}
 	//]]>
-</script><script type="text/javascript" language="JavaScript" id="GeniusCode" src="https://idaeg.rsvpgenius.com/mgTrack1.js?mgcid=1fff72w">		</script>
+</script>
 
-<!-- END Genius code  -->
+END Genius code  -->
 
 
 <script type="text/javascript" src="https://lct.salesforce.com/sfga.js">
@@ -278,10 +325,15 @@ $(document).ready(function(){
 </script>
 
 <script type="text/javascript">
-	_uacct = "UA-3986422-1";
-	_udn="none";
-	_ulink=1;
-	urchinTracker();
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+    var pageTracker = _gat._getTracker("UA-3986422-1");
+    pageTracker._setDomainName(".gogrid.com");
+    pageTracker._trackPageview();
+} catch(err) {}
 </script>
 
 <!-- BEGIN LivePerson Monitor. -->
@@ -291,46 +343,74 @@ $(document).ready(function(){
 var lpMTagConfig = {'lpServer' : "server.iad.liveperson.net",'lpNumber' : "69971338",'lpProtocol' : "http"}; function lpAddMonitorTag(src){if(typeof(src)=='undefined'||typeof(src)=='object'){src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';}if(src.indexOf('http')!=0){src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;}else{if(src.indexOf('site=')<0){if(src.indexOf('?')<0)src=src+'?';else src=src+'&';src=src+'site='+lpMTagConfig.lpNumber;}};var s=document.createElement('script');s.setAttribute('type','text/javascript');s.setAttribute('charset','iso-8859-1');s.setAttribute('src',src);document.getElementsByTagName('head').item(0).appendChild(s);} if (window.attachEvent) window.attachEvent('onload',lpAddMonitorTag); else window.addEventListener("load",lpAddMonitorTag,false);
 //]]>
 </script>
-
-
 <!-- END LivePerson Monitor. -->
 
-<!-- SiteCatalyst code version: H.20.2.
-Copyright 1997-2009 Omniture, Inc. More info available at
-http://www.omniture.com -->
-<script language="JavaScript" type="text/javascript" src="/js/s_code.js"></script>
-<script language="JavaScript" type="text/javascript"><!--
-/* You may give each page an identifying name, server, and channel on
-the next lines. */
-s.pageName=""
-s.server=""
-s.channel=""
-s.pageType=""
-s.prop1=""
-s.prop2=""
-s.prop3=""
-s.prop4=""
-s.prop5=""
-/* Conversion Variables */
-s.campaign=""
-s.state=""
-s.zip=""
-s.events=""
-s.products=""
-s.purchaseID=""
-s.eVar1=""
-s.eVar2=""
-s.eVar3=""
-s.eVar4=""
-s.eVar5=""
-/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
-var s_code=s.t();if(s_code)document.write(s_code)//--></script>
-<script language="JavaScript" type="text/javascript"><!--
-if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
-//--></script><noscript><a href="http://www.omniture.com" title="Web Analytics"><img
-src="http://servepath-gogrid-dev.122.2O7.net/b/ss/servepath-gogrid-dev/1/H.20.2--NS/0"
-height="1" width="1" border="0" alt="" /></a></noscript><!--/DO NOT REMOVE/-->
-<!-- End SiteCatalyst code version: H.20.2. -->
+<!-- BEGIN Retargeter Code -->
+<img src="http://ad.adtegrity.net/pixel?id=613387&amp;t=2" width="1" height="1">
+<!-- Google Code for RTGR330 Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1032687336;
+var google_conversion_language = "en";
+var google_conversion_format = "1";
+var google_conversion_color = "666666";
+var google_conversion_label = "dv92COSNoAEQ6J227AM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1032687336/?label=dv92COSNoAEQ6J227AM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
 
+<!-- END Retargeter Code -->
 
-        </body></html>
+<!-- GOOGLE REMARKETING CODE -->
+<!-- Google Code for Cloud Hosting Page View Remarketing List -->
+<script type="text/javascript">
+<!--
+var google_conversion_id = 1051939791;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "666666";
+var google_conversion_label = "j-F2CNv-qAEQz6fN9QM";
+var google_conversion_value = 0;
+//-->
+</script>
+<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1051939791/?label=j-F2CNv-qAEQz6fN9QM&amp;guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- / GOOGLE REMARKETING CODE -->
+<!-- BEGIN DEMANDBASE CODE -->
+<script type="text/javascript">
+var domainy = location.protocol == "https:" ?
+"https://leads.demandbase.com" : "http://leads.demandbase.com";
+document.write(unescape("%3Cscript src='" +
+ domainy +"/212662.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://leads.demandbase.com/212662.js" type="text/javascript"></script>
+<noscript><p>
+<img alt="Demandbase Connect" width="1" height="1"
+ src="http://leads.demandbase.com/212662ns.gif" />
+</p></noscript>
+<noscript><p><a href="http://www.demandbase.com">
+<img src="http://www.demandbase.com/images/stream/demandbase.gif"
+alt="Demandbase" width="1" height="1"></a></p></noscript>
+
+<!-- /END DEMANDBASE CODE -->
+
+		
+
+		<script type="text/javascript" src="http://wac.1a6a.edgecastcdn.net/801A6A/www.gogrid.com/js/coremetrics/eluminate.js"></script>
+<script type="text/javascript" src="http://wac.1a6a.edgecastcdn.net/801A6A/www.gogrid.com/js/coremetrics/cmdatatagutils.js"></script>
+<script type="text/javascript">
+cmSetProduction();
+cmCreatePageviewTag("Privacy Policy", "Legal", null, null);
+</script>
+</body></html>
