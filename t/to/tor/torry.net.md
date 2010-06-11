@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505194030id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torry.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214534id_/http%3A//www.torry.net/privacy.php) for the most accurate reproduction.*
 
 # Torry's Delphi Pages
 
@@ -37,36 +37,38 @@ We reserve the right to update privacy statement from time to time. If we change
 ---  
   
   
-  [Power tools for MySQL and PostgreSQL are calling you!](http://www.torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)  
+  [Add instant Desktop Publishing functionality to your Delphi application!](http://torry.net/advtxt/adclick.php?bannerid=71&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D7)  
+With the DtpDocuments component suite, you, the developer, can instantly add professional-quality document editing capabilities to your VCL applications.   
+It is not the next reporting component that can only output square, unblended shapes and text blocks. This component can handle virtually every graphical aspect, including native free rotation and alpha blending on pixel and shape level.   
+Develop your own Photo editors, Word-processors, Desktop Publishing and home publishing applications, Multipage print previews, Process visualisation, Reporting engines, CAD/GIS editors (2D) - also eCAD, ODB++, Charting and organising applications (e.g. VISIO-alike), the sky is the limit!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=71&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D7)
+
+  
+  [Do you know that you can save 10% on LMD products?](http://torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)  
+LMD-Tools covers almost 370 components (Relase 7.0 CE, + about 30 labeled controls) for any task you can imagine. Following component groups are only examples for the broad range of available components: LMD Tools includes controls for superior interface design, system programming, file controls, database applications, internet-/web-components, multimedia, text/data input (RichEdit), display of formatted text, and many more.   
+_Only for Torry's visitors!_ [ more...](http://torry.net/advtxt/adclick.php?bannerid=67&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D9)
+
+  
+  [Power tools for MySQL and PostgreSQL are calling you!](http://torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)  
  **Database Designer** product family allows you to solve database structure modeling, generation and modification tasks easy. For PostgreSQL and MySQL, choose your favorite!   
 Don't forget to check **DBACentral for MySQL** as well - GUI solution for database administration and data management, which provides you with Microsoft Access like interface paradigm for executing all database operations over database structure and table data. Now with PHP web pages and SSH tunneling.   
-And get 10% off!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)
+And get 10% off!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=68&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D6)
 
   
-  [Tired of common actions? Try SweetControls, they will help...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
+  [Tired of common actions? Try SweetControls, they will help...](http://torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
 CodeAccelerate’s Delphi VCL controls are native, not derived from a standard control. So the power behind them are not hidden from you and whenever you need, you will find the answers to "howto" questions in seconds.   
 With CodeAccelerate’s Suite (over 50 rich, unique, high-quality, fully customizable, stable, fast controls controls, which are designed carefully to cover all your requirements), give power and profession to your Delphi applications which they desire and let others admire.   
-With SweetControls leave your doubts behind! And, of course, get 10% off as Torry's visitor!  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)
-
-  
-  [Complete Database Tools for SQL Server, Oracle, MySQL, Firebird and other DBMS](http://www.torry.net/advtxt/adclick.php?bannerid=121&zoneid=1&source=&dest=http%3A%2F%2Fwww.sqlmaestro.com)  
-SQL Maestro Group is engaged in developing powerful database administration and management tools for **MySQL** , **Oracle** , **MS SQL Server** , **PostgreSQL** , **SQLite** , **Firebird** and **MaxDB** providing the highest performance, scalability and reliability to meet the requirements of today's database applications. SQL Maestro provides support in your database management activities.   
-Download fully functional trial versions today and try them directly in your environment. There are also some freeware tools.  [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=121&zoneid=1&source=&dest=http%3A%2F%2Fwww.sqlmaestro.com)
-
-  
-  [Save up to $353 on WPTools!](http://www.torry.net/advtxt/adclick.php?bannerid=65&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D2)  
-Does your program need word processing capability? If so, WPTools should be your first choice. With its own RTF engine, WPTools is a collection of components which offers numerous features that the Win32 Richedit2.dll can’t. This control lets you use tables, paragraph frames, headers and footers - including page numbers, bulleted and numbered lists, different types of paragraph alignment (justified, left, right, centered) and various types of tab stops (left, right and decimal), as well as special text attributes, such as hyperlinks or hidden text. Text is formatted with WYSIWYG, including page breaks and which are shown in the editor! Texts can be imported and exported in RTF, HTML and ANSI or you can implement your own formats.  
- **Only Torry's visitors can save up to $353!** [ more...](http://www.torry.net/advtxt/adclick.php?bannerid=65&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D2)  
+With SweetControls leave your doubts behind! And, of course, get 10% off as Torry's visitor!  [ more...](http://torry.net/advtxt/adclick.php?bannerid=72&zoneid=1&source=&dest=http%3A%2F%2Fwww.torry.net%2Fshowcase.php%3Fvn%3D12)  
   
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
 
   * [Best Web Hosts](http://www.top10webhosting.com/)
-  * [business intelligence software](http://www.actuate.com/)
   * [Free Samples](http://www.thunderfap.com/)
 
 |  |  | 
 
 [Advertising on Torry's Delphi Pages](http://www.torry.net/adv.htm)
+
+[](http://www.delphideveloperdays.com/)
 
 [](http://www.anyplace-control.com/)
 
