@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowsfileassociation.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204210858id_/http%3A//www.windowsfileassociation.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowsfileassociation.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611031027id_/http%3A//windowsfileassociation.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Windows File Association
+# Privacy Statement
 
 This privacy policy applies to the use of WindowsFileAssociation.com.
 
@@ -14,7 +14,7 @@ Additionally, cookies may be used to provide easier and faster access to website
 
 Security
 
-We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization \- we are not in a position to guarantee the absolute security of your information. 
+We follow accepted industry standards to protect any personal information you have provided to us. However, please be aware that no method of electronic storage can ever be 100% secure. Therefore as is the case with any organization - we are not in a position to guarantee the absolute security of your information. 
 
 Links to Other Websites
 
@@ -23,3 +23,7 @@ This website may contain links to other sites that are not controlled in any way
 Legal Disclaimer
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served on our website.
+
+_[ Repair & open any file extension now!](http://pack.paretologic.revenuewire.net/filecure/download)_
+
+* * *
