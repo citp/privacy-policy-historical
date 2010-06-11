@@ -1,963 +1,241 @@
-<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2009-06-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090606094215id_/http%3A//www.domainsite.com/privacy_policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the domainsite.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611110700id_/http%3A//domainsite.com/policies/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-
-<script language="JavaScript">
-<!--
-function MM_openBrWindow(theURL,winName,features) { //v2.0
-  window.open(theURL,winName,features);
-}
-//-->
-function selectall() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-        }
-    }
-}
-
-function selectall_cc() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "de" || 
-		currentform.elements[i].value == "jp" || 
-		currentform.elements[i].value == "tm" || 
-		currentform.elements[i].value == "io" || 
-		currentform.elements[i].value == "sh" || 
-		currentform.elements[i].value == "ac" || 
-		currentform.elements[i].value == "nl" || 
-		currentform.elements[i].value == "at" || 
-		currentform.elements[i].value == "be" || 
-		currentform.elements[i].value == "co.nz" || 
-		currentform.elements[i].value == "net.nz" || 
-		currentform.elements[i].value == "it" || 
-		currentform.elements[i].value == "com.mx" || 
-		currentform.elements[i].value == "org.nz" || 
-		currentform.elements[i].value == "ag" ||
-		currentform.elements[i].value == "la" ||
-		currentform.elements[i].value == "hn" ||
-		currentform.elements[i].value == "sc" ||
-		currentform.elements[i].value == "vc" ||
-                currentform.elements[i].value == "co.in" ||
-                currentform.elements[i].value == "org.in" ||
-                currentform.elements[i].value == "firm.in" ||
-                currentform.elements[i].value == "gen.in" ||
-                currentform.elements[i].value == "eu"
-		)
-	{
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-        }
-        }
-    }
-}
-
-function selectall_main() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "com" ||
-                currentform.elements[i].value == "net" ||
-                currentform.elements[i].value == "org" ||
-                currentform.elements[i].value == "biz" ||
-                currentform.elements[i].value == "info" ||
-                currentform.elements[i].value == "us" ||
-                currentform.elements[i].value == "ws" ||
-                currentform.elements[i].value == "bz" ||
-                currentform.elements[i].value == "cc" ||
-                currentform.elements[i].value == "tv" ||
-                currentform.elements[i].value == "co.uk" ||
-                currentform.elements[i].value == "org.uk" ||
-                currentform.elements[i].value == "name" ||
-                currentform.elements[i].value == "cn" ||
-                currentform.elements[i].value == "am" ||
-                currentform.elements[i].value == "in" ||
-                currentform.elements[i].value == "mobi" ||
-                currentform.elements[i].value == "mn" ||
-                currentform.elements[i].value == "gs" ||
-                currentform.elements[i].value == "tl" ||
-                currentform.elements[i].value == "nf" ||
-                currentform.elements[i].value == "ki" ||
-                currentform.elements[i].value == "fm"
-
-                )
-        {
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-        }
-        }
-    }
-}
-
-function selectInd(tld) {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == tld)
-        {
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            } else {
-		currentform.elements[i].checked = false;
-	    }
-        }
-        }
-    }
-}
-function unSelectInd(tld) {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == tld)
-        {
-            if(currentform.elements[i].checked == true){
-                currentform.elements[i].checked = false;
-            }
-        }
-        }
-    }
-}
-
-function selectCom() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-	        if (currentform.elements[i].value == "com")
-        	{
-	            if(currentform.elements[i].checked == false){
-        	        currentform.elements[i].checked = true;
-	            }
-        	}
-        }
-    }
-	this.work(currentform, 'net', false);
-	this.work(currentform, 'org', false);
-	this.work(currentform, 'info', false);
-	this.work(currentform, 'biz', false);
-	this.work(currentform, 'us', false);
-	this.work(currentform, 'mobi', false);
-	this.work(currentform, 'in', false);
-	this.work(currentform, 'tv', false);
-}
-
-function work(currentform, tld, select){
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-                if (currentform.elements[i].value == tld)
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-
-        }
-    }
-}
-
-function selectNetOrg() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-                if (currentform.elements[i].value == "net")
-                {
-                    if(currentform.elements[i].checked == false){
-                        currentform.elements[i].checked = true;
-                    }
-                }
-                if (currentform.elements[i].value == "org")
-                {
-                    if(currentform.elements[i].checked == false){
-                        currentform.elements[i].checked = true;
-                    }
-                }
-        }
-    }
-        //this.work(currentform, 'com', false);
-        this.work(currentform, 'info', false);
-        this.work(currentform, 'biz', false);
-        this.work(currentform, 'us', false);
-        this.work(currentform, 'mobi', false);
-	this.work(currentform, 'in', false);
-}
-
-function selectBulkAll(select) {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-                if (currentform.elements[i].value == "com")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    } 
-                }
-
-                if (currentform.elements[i].value == "net")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-                if (currentform.elements[i].value == "org")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-                if (currentform.elements[i].value == "info")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-                if (currentform.elements[i].value == "biz")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-                if (currentform.elements[i].value == "us")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-                if (currentform.elements[i].value == "mobi")
-                {
-                    if(currentform.elements[i].checked != select){
-                        currentform.elements[i].checked = select;
-                    }
-                }
-
-
-        }
-    }
-}
-
-function selectall_cnic() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "br.com" || 
-		currentform.elements[i].value == "cn.com" || 
-		currentform.elements[i].value == "de.com" || 
-		currentform.elements[i].value == "eu.com" || 
-		currentform.elements[i].value == "gb.com" || 
-		currentform.elements[i].value == "gb.net" || 
-		currentform.elements[i].value == "hu.com" || 
-		currentform.elements[i].value == "jpn.com" || 
-		currentform.elements[i].value == "no.com" || 
-		currentform.elements[i].value == "qc.com" || 
-		currentform.elements[i].value == "ru.com" || 
-		currentform.elements[i].value == "sa.com" || 
-		currentform.elements[i].value == "se.com" || 
-		currentform.elements[i].value == "se.net" || 
-		currentform.elements[i].value == "uk.com" || 
-		currentform.elements[i].value == "uk.net" || 
-		currentform.elements[i].value == "us.com" || 
-		currentform.elements[i].value == "uy.com" || 
-		currentform.elements[i].value == "web.com" || 
-		currentform.elements[i].value == "za.com")
-	{
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-	}
-        }
-    }
-}
-
-function unselectall_main() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "com" ||
-                currentform.elements[i].value == "net" ||
-                currentform.elements[i].value == "org" ||
-                currentform.elements[i].value == "biz" ||
-                currentform.elements[i].value == "info" ||
-                currentform.elements[i].value == "us" ||
-                currentform.elements[i].value == "ws" ||
-                currentform.elements[i].value == "bz" ||
-                currentform.elements[i].value == "cc" ||
-                currentform.elements[i].value == "tv" ||
-                currentform.elements[i].value == "co.uk" ||
-                currentform.elements[i].value == "org.uk" ||
-                currentform.elements[i].value == "name" ||
-                currentform.elements[i].value == "cn" ||
-                currentform.elements[i].value == "am" ||
-                currentform.elements[i].value == "mobi" ||
-                currentform.elements[i].value == "in" ||
-                currentform.elements[i].value == "mn" ||
-                currentform.elements[i].value == "gs" ||
-                currentform.elements[i].value == "tl" ||
-                currentform.elements[i].value == "nf" ||
-                currentform.elements[i].value == "ki" ||
-                currentform.elements[i].value == "fm"
-)
-                {
-                    if(currentform.elements[i].checked == true){
-                        currentform.elements[i].checked = false;
-                    }
-                }
-        }
-    }
-}
-
-
-function unselectall_cc() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "de" || 
-		currentform.elements[i].value == "jp" || 
-		currentform.elements[i].value == "tm" || 
-		currentform.elements[i].value == "io" || 
-		currentform.elements[i].value == "sh" || 
-		currentform.elements[i].value == "ac" || 
-		currentform.elements[i].value == "nl" || 
-		currentform.elements[i].value == "at" || 
-		currentform.elements[i].value == "be" || 
-		currentform.elements[i].value == "co.nz" || 
-		currentform.elements[i].value == "net.nz" || 
-		currentform.elements[i].value == "it" || 
-		currentform.elements[i].value == "com.mx" || 
-		currentform.elements[i].value == "org.nz" ||
-                currentform.elements[i].value == "ag" ||
-                currentform.elements[i].value == "la" ||
-                currentform.elements[i].value == "hn" ||
-                currentform.elements[i].value == "sc" ||
-                currentform.elements[i].value == "vc" ||
-                currentform.elements[i].value == "co.in" ||
-                currentform.elements[i].value == "org.in" ||
-                currentform.elements[i].value == "firm.in" ||
-                currentform.elements[i].value == "gen.in" ||
-                currentform.elements[i].value == "eu"
-)
-		{
-		    if(currentform.elements[i].checked == true){
-			currentform.elements[i].checked = false;
-		    }
-		}
-        }
-    }
-}
-
-function unselectall_cnic() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-        if (currentform.elements[i].value == "br.com" || 
-		currentform.elements[i].value == "cn.com" || 
-		currentform.elements[i].value == "de.com" || 
-		currentform.elements[i].value == "eu.com" || 
-		currentform.elements[i].value == "gb.com" || 
-		currentform.elements[i].value == "gb.net" || 
-		currentform.elements[i].value == "hu.com" || 
-		currentform.elements[i].value == "jpn.com" || 
-		currentform.elements[i].value == "no.com" || 
-		currentform.elements[i].value == "qc.com" || 
-		currentform.elements[i].value == "ru.com" || 
-		currentform.elements[i].value == "sa.com" || 
-		currentform.elements[i].value == "se.com" || 
-		currentform.elements[i].value == "se.net" || 
-		currentform.elements[i].value == "uk.com" || 
-		currentform.elements[i].value == "uk.net" || 
-		currentform.elements[i].value == "us.com" || 
-		currentform.elements[i].value == "uy.com" || 
-		currentform.elements[i].value == "web.com" || 
-		currentform.elements[i].value == "za.com")
-	{
-                    if(currentform.elements[i].checked == true){
-                        currentform.elements[i].checked = false;
-                    }
-                }
-        }
-    }
-}
-
-  function selectDiv(id, value)
-  {
-        var changeStr;
-        var theObj;
-        var dispStr;
-
-        divId1 = id+"_"+value;
-        var value1 = "true";
-        if (value == true)
-                value1 = false;
-        else
-                value1 = true;
-        divId2 = id+"_"+value1;
-	var blocking = "0";
-
-        if (document.getElementById)
-        {
-                changeStr = "document.getElementById('"+divId1+"')";
-                theObj = eval(changeStr);
-                if (theObj)
-                {
-                        blocking = "1";
-                        theObj.style.display = 'block';
-                }
-                changeStr = "document.getElementById('" + divId2 + "')";
-                theObj = eval(changeStr);
-                if (theObj)
-                {
-                        if (blocking == "1"){
-                                theObj.style.display = 'none';
-                        } else {
-                                 theObj.style.display = 'block';
-                        }
-                }
-        }
-  }
-
-
-function unselectall() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("opttldarray") != -1){
-            if(currentform.elements[i].checked == true){
-                currentform.elements[i].checked = false;
-            }
-        }
-    }
-}
-
-function selectall1() {
-    var currentform = window.document.form2;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("checked[]") != -1){
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-        }
-    }
-}
-function unselectall1() {
-    var currentform = window.document.form2;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("checked[]") != -1){
-            if(currentform.elements[i].checked == true){
-                currentform.elements[i].checked = false;
-            }
-        }
-    }
-}
-
-function select_all() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("domain_name[]") != -1){
-            if(currentform.elements[i].checked == false){
-                currentform.elements[i].checked = true;
-            }
-        }
-    }
-}
-function unselect_all() {
-    var currentform = window.document.form1;
-    for (i = 0; i < currentform.elements.length;i++) {
-        if (currentform.elements[i].name.indexOf("domain_name[]") != -1){
-            if(currentform.elements[i].checked == true){
-                currentform.elements[i].checked = false;
-            }
-        }
-    }
-}
-  function selectBulkDiv(key,value)
-  {
-        status = key+"_"+value;
-        value1 = "true";
-        if (value == true)
-                value1 = false;
-        else
-                value1 = true;
-        status1 = key+"_"+value1;
-        var changeStr;
-        var theObj;
-        if (document.getElementById)
-        {
-                changeStr = "document.getElementById('show_" + status + "')";
-                theObj = eval(changeStr);
-                if (theObj)
-                {
-                        blocking = "1";
-                        theObj.style.display = 'block';
-                }
-                changeStr = "document.getElementById('show_" +status1 + "')";
-                theObj = eval(changeStr);
-                if (theObj)
-                {
-                        if (blocking == "1"){
-                                theObj.style.display = 'none';
-                        } else {
-                                 theObj.style.display = 'block';
-                        }
-                }
-
-        }
-  }
-
-</script>
-
-<title>DomainSite.com</title>
-<link href="/domainsite.css" rel="stylesheet" type="text/css">
-<link rel="shortcut icon" href="/favicon.ico">
-<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" id="HTML"><head>
+  <title>Privacy Policy - Domainsite.com</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="">
+  <meta name="keywords" content="">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="stylesheet" type="text/css" href="/css/sub/jquery-ui.css?0.03">
+  <link rel="stylesheet" type="text/css" href="/css/sub/main.css?0.03">
+  <script type="text/javascript" src="/scripts/code_header.js?0.21"></script>
 </head>
+<body>
 
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" bgcolor="#FFFFFF">
+<div id="LoadingDiv" style="display:none;padding-top:100px;">
+  <div id="LoadingDiv_inner">
+  <div id="LoadingDiv_header"><span onclick="doNotRestLoadingDiv = 0; resetLoadingDiv();" style="cursor:hand;cursor:pointer;">[X]</span></div>
+  <span id="span_loading_content"> <br><br><br> <span id="span_loading_text">Processing...</span> <br><br> <img id="image_loading_image" src="/javascript/images/loading.gif" alt=""> </span></div>
+</div>
 
-<table width="746" border="0" align="center" cellpadding="0" cellspacing="0" class="grBoxText">
-  <tbody><tr>
-    <td>
+<div id="JqueryLoadingDiv" title="Loading..." style="text-align:center; vertical-align: middle; display:none;">
+<span id="JqueryLoadingDivImage"><img src="/images/loading.big.gif"></span>
+<span id="JqueryLoadingDivContent"></span>
+<span id="JqueryLoadingDivFooter"></span>
+</div>
+<div id="Outer">
+<div id="Page">
+ <div id="Header">
+  <div id="Navbar">
+   <a href="/" id="Site-logo-domainsite_com" class="site-logo"><img src="/media/cleardot.gif" alt="domainsite.com"></a>
+   <ul>
+     <li><a href="/" id="Nav-home"><img src="/media/cleardot.gif" alt="Home"></a></li>
+     <li><a href="/whois_result" id="Nav-whois"><img src="/media/cleardot.gif" alt="Whois"></a></li>
+     <li><a href="/faq" id="Nav-faq"><img src="/media/cleardot.gif" alt="Domain Name FAQ"></a></li>
+     <li><a href="/contact" id="Nav-contact"><img src="/media/cleardot.gif" alt="Contact domainsite.com"></a></li>
+     <li><a href="/checkout.php" id="Nav-cart"><img src="/media/cleardot.gif" alt="Checkout"></a></li>
+     <li><a href="/management/" id="Nav-acct"><img src="/media/cleardot.gif" alt="My Account"></a></li>
+   </ul>
+  </div>
+  <div id="Login-header" class="login">
+    <form method="post" action="https://www.domainsite.com/account/login_u.php?redir_location=/policies/privacy_policy" id="Login-header-form" class="form-login">
+      <div class="form-message form-mini-message">&nbsp;</div>
+      <div class="login-item form-username ui-corner-all">Username:<br><input class="input-username" name="acct_name" type="text"></div>
+      <div class="login-item form-password ui-corner-all">Password:<br><input class="input-password" name="password" type="password"></div>
+       <div class="login-item form-vip ui-corner-all">
+        Vip Pin: <a tabindex="100" href="/services/namesafe/faq" target="blank">?</a><br>
+        <input class="input-password" name="vip_pin" type="password">
+      </div>
+      <div class="login-item login-button"><br><a class="button-1" href="javascript:$('#Login-header-form').submit();void(0);"><span>Login</span></a></div>
+      <div class="login-item login-links">
+        <a class="lost-password" href="/tools/get_password">Lost Password?</a><br>
+        <a class="create-account" href="/account/login.php">Create an Account!</a>
+      </div>
+      <input type="submit" class="hidden">
+    </form>
+  </div>
+  <div class="clear"></div>
+  <div id="Sub-header"><div class="search"> 
+    <div id="Header-search">
+     <form name="header_search" action="/name" method="post">
+      <span class="search-text">Search by domain, keyword, or phrase</span>
+      <input type="text" name="domain">
+      <a class="button-3" href="javascript:header_search.submit();">
+       <span>SEARCH</span>
+       <input type="submit">
+      </a>
+     </form>
+    </div>
+   <div id="Cart">
+    <div id="Cart-info">
+     <a href="/checkout.php">Your Cart</a>: <span id="Cart-number">0</span> item(s)
+     <b>Total:</b> $<span id="Cart-price">0</span> | <a id="Empty-cart">Empty Cart</a>
+   </div>
+   <div id="Cart-mini">
+    <a href="/checkout.php"><img alt="shopping cart" src="/media/cleardot.gif"></a>
+   </div>   </div>
+  </div></div>
+   </div>
+ <div class="clear"></div>
+ <div id="Content">
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td width="100%" align="right" valign="bottom">
-    <table width="100%" border="0" cellspacing="0" cellpadding="3">
-              <tbody><tr>
-                <td width="100%" align="right" valign="bottom">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-                    <tbody><tr>
-          <td width="163" align="left"><a href="/"><img border="0" src="/images_2/logo.png" alt="Domain name registration, Register domain, domain registration, register domain name"></a></td>
-<td width="100%">&nbsp;</td>
-                      <td align="left" class="BodyText">
-125 Rampart Way<br>Suite 300<br>Denver, CO 80230<br>Phone: 303-459-6012<br>
-                        <a href="mailto:support@domainsite.com" class="BodyText">support@domainsite.com</a>
-                      </td>
-                    </tr>
-                  </tbody></table></td>
-                <td width="44" align="right"><img src="/images/icann.gif"></td>
-              </tr>
-              <tr>
-                <td colspan="2" align="right"><table border="0" cellspacing="0" cellpadding="2">
-                    <tbody><tr class="toplinks">
-                      <td valign="top" align="right">
-                    		      <a target="_top" href="/whois_result.php" class="toplinks"> Whois</a> |
-		      <a target="_top" href="/free_services.php" class="toplinks"> Products and Services</a> |
-                      <a target="_top" href="/check_our_pricing.php" class="toplinks" border="0">Compare Our Pricing</a> |
-                      <a target="_top" href="/user_view_question.php" class="toplinks">Knowledge Base</a> |
-                      <a target="_top" href="/aboutus.php" class="toplinks">About Us |</a>
-                      <a target="_top" href="/contactus.php" class="toplinks" border="0">Contact Us</a> |
-                      <a target="_top" href="/faq.php" class="toplinks">FAQ</a>
-		      </td>
-                    </tr>
-                  </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table>
-
-<table width="100%" height="25" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr bgcolor="#fffa00">
-
-
-
-<td><img src="/images/topcap_l.png" height="25"></td>
-<td align="center" valign="middle" nowrap=""><a href="/index.php"><img src="/images/top_home.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/register.php"><img src="/images/top_register.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/renewal/list_domain.php"><img src="/images/top_renew.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/transfer/index.php"><img src="/images/top_transfer.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/free_email.php"><img src="/images/top_free_email.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/shopping_cart.php"><img src="/images/top_shopping.png" border="0" alt=""></a></td>
-<td> | </td>
-<td align="center" valign="middle" nowrap=""><a class="topbar" href="/management/list_domain.php"><img src="/images/top_account.png" border="0" alt=""></a></td>
-<td align="right"><img src="/images/topcap_r.png" height="25"></td>
-
-
-</tr>
-
-</tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td width="7">
-      <img src="/images_2/trans_gif.gif" width="7" height="9">
-    </td>
-  </tr>
-</tbody></table>
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-<tbody><tr valign="top">
-<td>
-</td><td width="100%">
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<table width="100%">
 <tbody><tr>
-<td>
+<td valign="top">
+	<style type="text/css">
+	
+	li.alpha {list-style-type: lower-alpha;}	
+	</style>
+	<div class="bodytext">
 
+<h1>Privacy Policy</h1>
 
-</td>
-</tr>
-<tr>
-<td><img src="/images_2/trans_gif.gif" width="7" height="2"></td>
-</tr>
-<tr>
-<td>
+<p>Spot Domain LLC ("Domainsite.com") respects your privacy. We want you to useDomainsite.com services with complete confidence in our commitment to serving you and protecting your private information.</p>
+ 
+<p>This Privacy Policy describes how Domainsite.com collects information from users of Domainsite.com's services (the "Services") including those who have accounts (“Customers”) and those who do not (“Visitors”) as well as what we do with the information we collect. Domainsite.com requests that you read this Privacy Policy carefully.</p>
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" bgcolor="#dadaff">
-<tbody><tr>
-<td><img src="/images/bluecurve_tl.png" width="12" height="13"></td>
-<td width="100%"></td>
-<td><img src="/images/bluecurve_tr.png" width="12" height="13"></td>
-</tr>
-<tr>
+	<ol>
+	<li>Data Collection
+		<ol>
+			<li class="alpha">VISITORS - Visitors to Domainsite.com receive “cookies” to track their movement through our site. This information may include referral URL, IP address, browser type and device type.</li>
+			<li class="alpha">CUSTOMERS - When a Visitor opens an account at Domainsite.com we collect personal information including, but not limited to name, e-mail address, billing address, credit card or other payment information as well as a password.</li>
+		</ol>
+	</li>
+	<li>Information Usage
+		<ol>
+			<li class="alpha">Browsing information collected from all Visitors is used to diagnose problems and make improvements to our website and services.</li>
+			<li class="alpha">Customer information is used to create and maintain accounts as well as contacting Customers in case of any problems with accounts, provide technical support, conduct surveys and other similar activities.</li>
+		</ol>
+	</li>
+	<li>Information Sharing
+		<ol>
+			<li class="alpha">Domainsite.com partners with a variety of trusted companies to provide services such as SSL certificates, design and marketing services, etc. In order to expedite and provision such services we must share various levels of Customer information with these partners.</li>
+			<li class="alpha">Domain name registrant data is required, by ICANN (Internet Corporation for Assigned Names &amp; Numbers) policy and applicable law, to be complete and correct. This information is published in a publicly searchable database (WHOIS). Certain TLDs (Top Level Domains) allow the utilization of a Privacy Service to obscure personal information while still complying with applicable laws.</li>
+		</ol>
+	</li>
 
-<td bgcolor="#dadaff" colspan="3">
-<table width="100%" border="0" cellspacing="0" cellpadding="10"><tbody><tr>
-<td class="BodyText">
+	<li>Exceptions
+		<ol>
+			<li class="alpha">We reserve the right to, without explicit permission, provide personally identifiable information in the following circumstances:</li>
+			<p>i. We believe in good faith that it is necessary to comply with subpoenas, court orders and other legal process as required or permitted by law.</p>
+			<p>ii. To report, prevent or assist in the investigation of suspected fraud or other illegal activities or take actions associated with such activities.</p>
+			<p>iii. To enforce the Domainsite.com Terms of Services, establish, exercise or defend our legal rights or as otherwise provided in the User Agreement, AUP or this Privacy Policy.</p>
+		</ol>
+	</li>
 
+	<li>Mailings – Upon becoming a Domainsite.com Customer:
+		<ol>
+			<li class="alpha">You agree to receive notifications regarding your account including, but not limited to, renewal/expiry notifications and billing notifications. These notifications cannot be turned off.</li>
+			<li class="alpha">You are automatically subscribed to any and all promotional emails and newsletters. You may choose to unsubscribe from these notifications by following the instructions and/or opt-out links provided in the mailings themselves.</li>
+		</ol>
+	</li>
+</ol>
 
+<p>Domainsite.com reserves the right to modify this, as well as any other policies and/or agreement at any time.</p>
 
-                              <table width="100%" border="0" cellspacing="0" cellpadding="5">
-                                <tbody><tr>
-                                  <td class="pagehead">
-                                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-                                      <tbody><tr>
-                                        <td class="pagehead" height="31">Privacy
-                                          Policy </td>
-                                      </tr>
-                                    </tbody></table>
-                                  </td>
-                                </tr>
-                                <tr>
-                                  <td valign="top" class="BodyText">
-                                    <table width="100%" border="0" cellspacing="0" cellpadding="3">
-                                      <tbody><tr>
-                                        <td class="BodyText" valign="top">We respect
-                                          your privacy. We do not sell or rent
-                                          your personal information to third parties
-                                          for marketing purposes without your
-                                          explicit consent. According to the law,
-                                          domain name registration information
-                                          has to be made available through Whois…,
-                                          a publicly accessible database that
-                                          lists the domain name registration information
-                                          of each registrant. Since domain name
-                                          registration information is available
-                                          to the public through Whois…, anyone
-                                          can access it on the Domainsite.com
-                                          website or other web resources that
-                                          offer Whois…. Therefore, the domain
-                                          name registration information you provide
-                                          us is, and must be, made available to
-                                          the public. At times our customers may
-                                          be included within searches of the Whois…
-                                          database; however, any "spam"
-                                          received through the use of Whois…
-                                          does not originate from Domainsite.com.
-                                          <p>The privacy policy of this statement
-                                            applies to our services offered under
-                                            the domain name Domainsite.com and
-                                            to our subsidiaries or joint venture
-                                            websites. We promise that we will
-                                            not use your personal information
-                                            in any way that is incompatible with
-                                            this privacy policy. By visiting this
-                                            website you agree to be bound by the
-                                            terms and conditions of this privacy
-                                            policy. This privacy policy is incorporated
-                                            into and subject to the terms of the
-                                            Domainsite.com Registration Agreement.
-                                            Please do not use or access the Domainsite.com
-                                            website if you do not agree to this
-                                            privacy policy. </p>
-                                          <p>Our website uses WebTrends Live to
-                                            analyze traffic. Unlike some tracking
-                                            services, WebTrends Live does not
-                                            create individual profiles for visitors.
-                                            WebTrends Live only collects aggregate
-                                            data. Please read the following excerpt
-                                            from WebTrends Live's Privacy Principles
-                                            to learn more about the ways your
-                                            personal information will be used
-                                            and protected. To learn even more
-                                            about WebTrends Live's privacy policy,
-                                            please click here.<br>
-                                          </p>
-                                          <p><span class="boxHead">WebTrends Live--Privacy
-                                            Principles*</span><br>
-                                            Because your trust and confidence
-                                            is important to us, WebTrends Live
-                                            conducts its business under the following
-                                            privacy principles: <br>
-                                            <br>
-                                            <span class="boxHead">Principle 1
-                                            - No Collection of Personal Information</span><br>
-                                            WebTrends Live does not collect any
-                                            personal information such as names,
-                                            ages, phone numbers, addresses or
-                                            e-mail addresses from visitors to
-                                            Domainsite.com's website. </p>
-                                          <p><span class="boxHead">Principle 2
-                                            - No Combination of Browsing and Web
-                                            Traffic Information with Personal
-                                            Information</span><br>
-                                            Since WebTrends Live does not collect
-                                            any personal information from website
-                                            visitors, we do not combine traffic
-                                            analysis information with personal
-                                            information such as name, age, phone
-                                            number or mailing address. </p>
-                                          <p><br>
-                                            <span class="boxHead">Principle 3
-                                            - No Aggregation of Individual Visitor
-                                            Traffic Patterns across Multiple Sites</span><br>
-                                            WebTrends Live does not collect individual
-                                            profile information for visitors across
-                                            multiple sites and does not aggregate
-                                            information from any other sources
-                                            about browsing patterns of individual
-                                            visitors across multiple sites. </p>
-                                          <p><span class="boxHead">Principle 4
-                                            - Collection of Non-Personally Identifiable
-                                            Information </span><br>
-                                            WebTrends Live collects anonymous
-                                            visitor information like IP addresses,
-                                            browser types (such as Internet Explorer
-                                            or Netscape), referring pages, pages
-                                            visited and time spent on the web
-                                            site. WebTrends Live collects this
-                                            non-personally identifiable information
-                                            for the following purposes: (1) to
-                                            provide anonymous statistical analysis
-                                            of web page traffic patterns to Domainsite.com
-                                            for its website; (2) to administer
-                                            our website and servers, (3) to allow
-                                            for auditing of our services by third
-                                            parties, and (4) to improve our services.
-                                          </p>
-                                          <p><span class="boxHead">Principle 5
-                                            - Anonymous Use of Cookies</span><br>
-                                            It is WebTrends Live's policy to use
-                                            cookies only for more accurate anonymous
-                                            traffic analysis such as tracking
-                                            the time/date of the visit, the page
-                                            viewed, the referrer, transaction
-                                            information for eCommerce pages. The
-                                            cookie information does not include
-                                            personal data such as name, age, phone
-                                            number, e-mail address or mailing
-                                            address. In addition, WebTrends Live
-                                            does not link cookies to personal
-                                            data such as name, age, phone number,
-                                            e-mail address or mailing address.
-                                            As we do not build a database of individual
-                                            visitors, the data that we do collect
-                                            is never stored in any individual
-                                            user profile; the data collected serves
-                                            only to update aggregate counts allowing
-                                            Domainsite.com to monitor traffic
-                                            on its site. Most browsers are initially
-                                            set up to accept cookies. If you would
-                                            prefer, you can set your browser to
-                                            reject cookies. <br>
-                                            Through WebTrends Live, Domainsite.com
-                                            uses customized JavaScript tracking
-                                            code provided by WebTrends to track
-                                            anonymous information about its website
-                                            visitors' activity. This code contacts
-                                            NetIQ's servers, receives a response,
-                                            and loads an image to the page. This
-                                            1x1 image is called a clear gif or
-                                            web bug. This JavaScript tracking
-                                            code does not collect personal information
-                                            such as name, age, phone number, mailing
-                                            address or credit card numbers from
-                                            visitors to Domainsite.com's website.
-                                            Visitors may elect to opt out of receiving
-                                            tracking cookies for all sites using
-                                            WebTrends Live services. </p>
-                                          <p><span class="boxHead">Principle 6
-                                            - No Individual Profiling</span><br>
-                                            WebTrends Live does not create individual
-                                            profiles of visitors. Unlike other
-                                            tracking services we do not have a
-                                            database of individual profiles of
-                                            each visitor. WebTrends Live collects
-                                            data in aggregate form and data is
-                                            not recorded or stored about individual
-                                            visitors. </p>
-                                          <p><span class="boxHead">Principle 7
-                                            - Third Party Access</span><br>
-                                            Domainsite.com controls access to
-                                            WebTrends Live traffic analysis reports.
-                                            WebTrends Live does not provide access
-                                            to anyone other than the visitors
-                                            identified by Domainsite.com. WebTrends
-                                            Live anonymous traffic data for Domainsite.com
-                                            may be provided to an auditing service
-                                            upon request from Domainsite.com.
-                                            <br>
-                                          </p>
-                                          <p><span class="boxHead">Principle 8
-                                            - Opting Out of Tracking Cookies</span><br>
-                                            You may elect to opt out of receiving
-                                            tracking cookies for all sites using
-                                            WebTrends Live services. To do so,
-                                            you will need to accept a cookie indicating
-                                            your choice. Please visit our opt-out
-                                            page for more information. <br>
-                                          </p>
-                                          <p><span class="boxHead">For More Information</span><br>
-                                            For more information about WebTrends
-                                            Live privacy policy, please click
-                                            here.<br>
-                                            *Excerpted From WebTrends Live: http://www.webtrendslive.com/wtl_system/privacy_policy.htm<br>
-                                          </p>
-                                          <p><span class="boxHead">Notice:</span><br>
-                                            Domainsite.com may amend this privacy
-                                            policy at any time by posting the
-                                            amendment terms to the Domainsite.com
-                                            website. All amendments shall automatically
-                                            be effective 30 days after they are
-                                            initially posted to the Domainsite.com
-                                            website.<br>
-                                            <br>
-                                          </p>
-                                        </td>
-                                      </tr>
-                                    </tbody></table>
-                                    <p>&nbsp;</p>
-                                  </td>
-                                </tr>
-                              </tbody></table>
+</div>
+   </td>
+      </tr>
+    </tbody></table>
+ </div>
+ <div id="Footer"><div id="Footer-bar">
+ <div class="footer-block">
+  <h4>Our Policies</h4>
+  <ul>
+    <li><a href="/policies/guarantee">Our Guarantee</a></li>
+    <li><a href="/policies/registration-agreement">Registration Agreement</a></li>
+    <li><a href="/policies/dispute">Dispute Resolution</a></li>
+    <li><a href="/policies/privacy_policy">Privacy Policy</a></li>
+  </ul>
+ </div>
+ <div class="footer-block">
+  <h4>About Us</h4>
+  <ul>
+    <li><a href="/aboutus">About Domainsite.com</a></li>
+    <li><a href="/contact">Contact Domainsite.com</a></li>
+    <li><a href="/faq">FAQ</a></li>
+  </ul>
+ </div>
+ <div class="footer-block">
+  <h4>Domain Names</h4>
+  <ul>
+    <li><a href="/">Register Domain Names</a></li>
+    <li><a href="/renewal/list_domain">Renew Domain Names</a></li>
+    <li><a href="/domain-transfer">Domain Transfer</a></li>
+    <li><a href="/domain-suggestions">Domain Suggestions</a></li>
+    <li><a href="/geo-domains">Geo Domains</a></li>
+    <li><a href="/suggestion">Verisign Suggestion Tool</a></li>
+    <li><a href="/pricing">Domain Pricing</a></li>
+  </ul>
+ </div>
+ <div class="footer-block">
+  <h4>Our Network</h4>
+  <ul>
+    <li><a href="http://who.is">Who.is</a></li>
+    <li><a href="http://wiki.name.com/en/All_About_Names">Name Wiki</a></li>
+    <li><a href="/deleting-domains">Domain Nabber</a></li>
+  </ul>
+ </div><div class="clear"></div>
+ </div></div>
+</div>
+</div>
 
+<script src="/js/jquery.js?0.21" type="text/javascript"></script>
+<script src="/js/jquery-ui.js?0.21" type="text/javascript"></script>
+<script src="/js/jquery.taconite.js?0.21" type="text/javascript"></script>
+<script src="/js/main.js?0.21" type="text/javascript"></script>
+<script src="/scripts/code_footer.js?0.21" type="text/javascript"></script>
+<script src="https://www.google.com/jsapi?0.21" type="text/javascript"></script>
 
-</td>
-</tr>
-</tbody></table>
-</td>
-</tr>
-<tr>
-
-<td><img src="/images/bluecurve_bl.png" width="12" height="13"></td>
-<td width="100%"></td>
-<td><img src="/images/bluecurve_br.png" width="12" height="13"></td>
-
-</tr>
-</tbody></table>
-</td>
-</tr>
-</tbody></table>
-</td>
-
-<td width="15" background="/images_2/divider.gif"><img src="/images_2/divider.gif" width="15" height="14"></td>
-          <td width="98" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td valign="top">
-
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-        <td valign="top">
-	    <table width="100%" border="0" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-                <td>
-<img src="/inner-images/inner_main_7.jpg" width="188" height="236" alt="Register" web="" address,="" register="" a="" cc="" address="">		</td>
-            </tr>
-            <tr>
-                <td>
-		    &nbsp;
-		</td>
-            </tr>
-            <tr>
-                <td>
-
-		    <font color="#000000" size="7" face="Arial, Helvetica, sans-serif"><strong>$8.88</strong></font>
-		    <br>
-                    <font color="#003333" size="4" face="Arial, Helvetica, sans-serif"><strong>Standard 1 Year Domain 
-		    Registration with Email Forwarding, Domain Forwarding, and DNS Management Tools</strong></font>
-
-	        </td>
-            </tr>
-            </tbody></table>
-	</td>
-    </tr>
-</tbody></table>
-
-
-                </td>
-              </tr>
-            </tbody></table></td>
-<td width="98" background="/images_2/right_line.gif"><img src="/images_2/right_line.gif" width="8" height="14"></td>        </tr>
-      </tbody></table>
-      <table width="100%" border="0" cellspacing="0" cellpadding="0">
-        <tbody><tr>
-          <td background="/images_2/bline.gif"><img src="/images_2/bline.gif" width="16" height="11"></td>
-        </tr>
-      </tbody></table>
-
-
-      <table width="100%" border="0" cellspacing="0" cellpadding="5">
-        <tbody><tr>
-          <td class="BodyText">
-
-          <!--Include footer-->
-<table width="100%" border="0" cellspacing="0" cellpadding="5">
-        <tbody><tr>
-          <td width="90%" class="BodyText"><table width="100%" border="0" cellspacing="0" cellpadding="2">
-              <tbody><tr>
-                <td colspan="2" class="BodyText" nowrap=""><a target="_top" href="/dispute_policy.php" class="BodyText">Dispute Policy</a>
-                  | <a target="_top" href="/registration_agreement.php" class="BodyText">Registration Agreement</a> |
-                  <a target="_top" href="/privacy_policy.php" class="BodyText">Privacy Policy</a> | <a target="_top" href="/user_view_question.php" class="BodyText">Knowledge
-                  Base</a> | <a target="_top" href="/aboutus.php" class="BOdyText">About Us</a> | <a target="_top" href="/contactus.php" class="BodyText">Contact
-                  Us</a> | <a target="_top" href="/faq.php" class="BodyText">FAQ</a>
-                  | <a target="_top" href="/glossary.php" class="BodyText">Glossary</a>
-                  | <a target="_top" href="/careers.php" class="BodyText">Careers</a>
-   <!--               | <a target='_top' href="/dotjobsregistration-sunrise.php" class="BodyText">.jobs</a>-->
-
-</td>
-              </tr>
-              <tr>
-                <td class="grBoxText">
-<a href="/powered_by.php">powered by</a> |
-<a href="http://www.linuxmanpages.com">linux man pages</a> |
-<a href="http://www.earthsearch.net">geographic information</a> |
-<a href="http://www.whois.ws">global whois</a> |
-<a href="http://www.name.net/toolbars.php">Firefox and Mozilla toolbars</a> |
-<a href="http://www.bluerider.com">dictionary</a> |
-<a href="http://www.tld.io">ccTLD information</a>
-<br>
-©2005 Spot Domain LLC, All Rights Reserved.
-(2)
-</td>
-              </tr>
-            </tbody></table></td>
-        </tr>
-      </tbody></table>
-          </td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<p class="boxHead">&nbsp;</p>
-
-
-<script src="https://ssl.google-analytics.com/urchin.js" type="text/javascript">
-</script>
 <script type="text/javascript">
-_uacct = "UA-346134-9";
-urchinTracker();
+initLogin();
+$('.input-username').change(function() { 
+    checkVip($(this).parent().parent('form').attr('id'), $(this).val()); 
+  });
+$('#Empty-cart').click(function() { emptyCart(); });
+
+
+ var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+ document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script>
+ var pageTracker = _gat._getTracker("UA-346134-9"); pageTracker._trackPageview();
+
+    var clientLocation = getCookies('gcl');
+    if(!clientLocation && google.loader.ClientLocation)
+    {
+        var footerUserLat = google.loader.ClientLocation.latitude;
+        var footerUserLng = google.loader.ClientLocation.longitude;
+     	var footerUserCity = google.loader.ClientLocation.address.city;
+        var footerUserCountry = google.loader.ClientLocation.address.country;
+        var footerUserCountryCode = google.loader.ClientLocation.address.country_code;
+        var footerUserRegion = google.loader.ClientLocation.address.region;
+
+	var clientLocationString = '';
+	clientLocationString += 'userLat:' + footerUserLat + ',';
+	clientLocationString += 'userLng:' + footerUserLng + ',';
+	clientLocationString += 'userCity:' + footerUserCity + ',';
+	clientLocationString += 'userCountry:' + footerUserCountry + ',';
+	clientLocationString += 'userCountryCode:' + footerUserCountryCode + ',';
+	clientLocationString += 'userRegion:' + footerUserRegion + '';
+
+        var date = new Date();
+        var year = date.getFullYear();
+        setCookies('gcl', clientLocationString, '', '', '', '/', '<?= domainsite.com ?>');
+    }
+$(document).ready(function()
+{
+$('#JqueryLoadingDiv').dialog({autoOpen: false, draggable: false, resizable: false, modal: true, closeOnEscape: false});});
 </script>
 
 
 
 
+<!-- Lovingly processed and rendered by Milhouse1 in 0.0218s. -->
+
+<script>
+getSetShoppingCartInfo();
+</script>
 </body></html>
