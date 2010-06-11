@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625041106id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uesp.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213333id_/http%3A//www.uesp.net/wiki/UESPWiki%3APrivacy_Policy) for the most accurate reproduction.*
 
 # UESPWiki:Privacy Policy - UESPWiki
 
 ### The UESPWiki – Your source for The Elder Scrolls since 1995
+
+[](https://web.archive.org/wiki/UESPWiki:Full_Protection)
 
 ## Contents
 
@@ -133,6 +135,16 @@ The UESP [IRC channel](https://web.archive.org/wiki/UESPWiki:IRC "UESPWiki:IRC")
 ## Advertising
 
 The UESP uses [Google AdSense](http://www.google.com/adsense "http://www.google.com/adsense") to provide advertisements in order to assist with running costs. This system is not under the control of UESP and may record details and / or store cookies in addition to the recording and storage described above. Further details are available on the [AdSense site](http://www.google.com/adsense "http:///www.google.com/adsense") and in Google's [Privacy Policy](http://www.google.com/privacy.html "http://www.google.com/privacy.html").
+
+In particular (taken from [Google Advertising Cookie and Privacy Policies](http://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-ww-et-asui&medium=link "http://www.google.com/adsense/support/bin/answer.py?answer=100557&sourceid=aso&subid=ww-ww-et-asui&medium=link"):
+
+    
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.
+  * Google's use of the [Double Click DART cookie](http://www.doubleclick.com/privacy/faq.aspx "http://www.doubleclick.com/privacy/faq.aspx") enables it and its partners to serve ads to your users based on their visit to your sites and/or other sites on the Internet.
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and [content network privacy policy](http://www.google.com/privacy_ads.html "http://www.google.com/privacy_ads.html").
+
+
 
 ## Questions
 
