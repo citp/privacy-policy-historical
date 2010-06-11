@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2009-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091121173948id_/http%3A//livescore.net/soccer/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210903id_/http%3A//livescore.net/soccer/policy) for the most accurate reproduction.*
 
 # LiveScore.com - Soccer Live Scores
 
