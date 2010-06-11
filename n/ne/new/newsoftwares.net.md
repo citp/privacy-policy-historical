@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2009-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090409155649id_/http%3A//www.newsoftwares.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoftwares.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611222210id_/http%3A//www.newsoftwares.net/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Windows XP & Vista File and Folder Lock Software
+# NewSoftwares.net, Inc. - Security Products - Privacy Policy
+
+We at [NewSoftwares.net, Inc.](http://www.newsoftwares.net/) are committed to protect your privacy and therefore have implemented this Privacy Policy that summarizes our responsibilities and practice towards handling any personal information that you may provide to us.
 
 NewSoftwares.net Inc. does not collect any private information from its users directly. It only receives basic information about customers through e-commerce solutions like BMTMicro, Inc. and Regnow.com, Inc. as it is necessary to fulfill orders and provide customer support.
 
-Upon completion of an order, NewSoftwares.net Inc. receives only: Customer Name, Address, Email Address, and Phone Number. 
+Upon completion of an order, NewSoftwares.net, Inc. receives only: Customer Name, Address, Email Address, and Phone Number. 
 
 This information is considered confidential, and will not be released, sold or rented to any third party. Furthermore, private information like Credit Card Numbers, TAX IDs and other such information is processed by BMTMicro and/or Regnow.com, Inc. directly and doesn't get to NewSoftwares.net, Inc in any shape or form.
 
-If a visitor purchases a product and/or service from us, they may be contacted occasionally by email with updates and/or other beneficial information specifically related to these products and/or services, only if the user has opt-in for such subscription when ordering / contacting us.
+If a visitor purchases a product and/or service from us, they may be contacted occasionally by email with updates and/or other beneficial information specifically related to these products and / or services, only if the user has opt-in for such subscription when ordering / contacting us.
 
 A visitor will be given the opportunity to remove him/herself from further updates of purchased products by replying to such emails with the word 'Remove' in the subject line. 
 
-A visitor can also request to not receive any update information related to products or services purchased by expressing their request via email to mailbag@newsoftwares.net. All removal requests are immediately honored.
+A visitor can also request to not receive any update information related to products or services purchased by expressing their request via email to [mailbag@newsoftwares.net](mailto:mailbag@newsoftwares.net). All removal requests are immediately honored.
 
 ### Credit Card Security:
 
