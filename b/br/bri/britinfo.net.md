@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the britinfo.net privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831183659id_/http%3A//www.britinfo.net/uk/ps.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the britinfo.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611223907id_/http%3A//www.britinfo.net/uk/ps.htm) for the most accurate reproduction.*
 
 # UK information - a guide and directory with tourist information
+
+[UK Information](http://www.britinfo.net/ "Britain") » **Privacy Statement**
 
 ## Information Collection
 
 ### Information Collection
 
-Electronic Mind Ltd is the sole owner of the information collected on www.britinfo.net. Electronic Mind Ltd may collect information from users on our web site in circumstances outlined below.
+web-site-factory.com is the sole owner of the information collected on www.britinfo.net. web-site-factory.com may collect information from users on our web site in circumstances outlined below.
 
 Should a user feel that they would like to find out the information stored about them a request should be sent to us, in writing, and we will produce a report of the information about the user.
 
@@ -52,7 +54,7 @@ Users who no longer wish to receive our newsletter and communications may opt-ou
 
 ### Links
 
-This web site contains links to other sites. Please be aware that we, Electronic Mind Ltd., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+This web site contains links to other sites. Please be aware that we, web-site-factory.com, are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
 
 ### Security
 
