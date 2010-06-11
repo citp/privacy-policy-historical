@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2009-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090913221523id_/http%3A//perpetuumsoft.com/Privacy.aspx%3Frel%3Dnofollow) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the perpetuumsoft.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611131710id_/http%3A//www.perpetuumsoft.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Perpetuum Software - .NET Reporting, Charting, OLAP, Gauge, and Instrumentation Components for Visual Studio Developers
+# Perpetuum Software LLC - We are Committed to protect your Privacy & Ensuring You a Positive Experience
 
 Perpetuum Software is committed to protecting your privacy and ensuring you have a positive experience on our website. This policy outlines our personal information handling practices for both online and offline data. If you give us personal information, we will treat it according to this policy. 
 
