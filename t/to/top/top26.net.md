@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2008-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081204061856id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top26.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210246id_/http%3A//www.top26.net/privacy.html) for the most accurate reproduction.*
 
 # Top 26 Gaming - Privacy Policy
 
-there are currently 289 visitors online!
+there are currently 144 visitors online!
 
 [](http://www.top26.net/)
 
