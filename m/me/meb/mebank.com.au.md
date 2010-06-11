@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212083402id_/http%3A//www.mebank.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mebank.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612010051id_/http%3A//www.mebank.com.au/legal/privacy) for the most accurate reproduction.*
 
-# ME Bank :: Privacy Policy
+# Privacy Policy - ME Bank
 
 > **How to contact us** ^
 
@@ -14,7 +14,7 @@ We, like you, are concerned about security. For information on this important is
 
 Please be aware that whenever you voluntarily disclose personal information over the Internet (for example: in discussion forums, via e-mail, or in chat sites) that this information can be collected and used by others. In short, if you post personal information in publicly accessible online forums, you may receive unsolicited messages from other parties in return. Ultimately, you are solely responsible for maintaining the secrecy of your Customer ID and Access Code and/or any account information. Please be careful and responsible whenever you are using the Internet and our website.
 
-If you have any concerns or questions, please call 1300 654 990 for the cost of a local call anywhere in Australia.
+If you have any concerns or questions, please call 1300 654 998 for the cost of a local call anywhere in Australia.
 
 We will apply our privacy compliance procedures (which are based on privacy legislation and the Federal Privacy Commissioner's National Principles for the Fair Handling of Personal Information), in relation to any personal information which we gather in the course of carrying on our business. We regard all the personal information we have collected from and about you as being equally sensitive and undertake to treat it all in accordance with the principles set out in this Privacy Policy.
 
