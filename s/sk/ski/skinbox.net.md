@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skinbox.net privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129123111id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinbox.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212200id_/http%3A//www.skinbox.net/privacypolicy.html) for the most accurate reproduction.*
 
-# Privacy policy - IPB skins and IP.Board 3.0 - Skinbox
+# Privacy policy - IPB skins and vBulletin styles from Skinbox
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
