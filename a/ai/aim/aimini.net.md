@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aimini.net privacy policy that was archived on 2007-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070430175701id_/http%3A//www.aimini.net/web-usage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aimini.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210411id_/http%3A//www.aimini.net/web-usage/privacy-policy) for the most accurate reproduction.*
 
-# P2P - Peer to Peer Sharing Resources Network
+# aimini.net - Privacy Policy
 
 Your trust is extremely important to us and we make every effort necessary to protect your privacy. AIMINI.NET strives to offer its visitors the many advantages of Internet technology and to provide an interactive and personalized experience. We may use Personally Identifiable Information (your name, e-mail address, street address, telephone number) subject to the terms of this privacy policy. Please note this policy applies only to information collected by AIMINI.NET online and does not impact information collected or used by AIMINI.NET or its affiliates through other means.
 
@@ -8,7 +8,7 @@ Your trust is extremely important to us and we make every effort necessary to pr
 
 How we collect and store information depends on the page you are visiting, the activities in which you elect to participate and the services provided. You can visit many pages on our site without providing any information. Other pages may prompt you to provide information, such as when you register for access to portions of our site, sign up for membership. You may also provide information when you participate in sweepstakes and contests, voting and polling activities and other interactive areas of our site.
 
-Like most Web sites, AIMINI.NET also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the referrer of URL, but AIMINI.NET does not utilize cookies on this site. In certain cases, you can choose not to provide us with information, for example by setting your browser to blocking referrer of URL, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
+Like most Web sites, AIMINI.NET also collects information automatically and through the use of electronic tools that may be transparent to our visitors. For example, we may log the referrer of URL and utilize cookies on this site. In certain cases, you can choose not to provide us with information, for example by setting your browser to blocking referrer of URL, but doing so may limit your ability to access certain portions of the site or may require you to re-enter your user name and password. Additionally we may not be able to customize the site's features according to your preferences.
 
 **What we do with the information we collect.**
 
@@ -26,10 +26,10 @@ While on our site, our advertisers, promotional partners or other third parties 
 
 **Children.**
 
-AIMINI.NET does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe AIMINI.NET has any information from or about anyone under 13, please contact our [guard](mailto:guard@aimini.net).
+AIMINI.NET does not knowingly collect or solicit Personally Identifiable Information from or about children under 13 except as permitted by law. If we discover we have received any information from a child under 13 in violation of this policy, we will delete that information immediately. If you believe AIMINI.NET has any information from or about anyone under 13, please contact our guard by **guard@aimini.net**
 
 **Changes to this policy.**
 
 AIMINI.NET reserves the right to change this policy at any time. Please check this page periodically for changes. Your continued use of our site following the posting of changes to these terms will mean you accept those changes. Information collected prior to the time any change is posted will be used according to the rules and laws that applied at the time the information was collected.
 
-Last Updated: July 15, 2006
+Last Updated: Feb 10, 2009
