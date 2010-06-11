@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the justguys.net privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603024559id_/http%3A//www.justguys.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justguys.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210422id_/http%3A//www.justguys.net/privacy.htm) for the most accurate reproduction.*
 
 # JustGuys.net Privacy Policy
 
