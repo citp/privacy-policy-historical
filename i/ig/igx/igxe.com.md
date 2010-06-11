@@ -1,18 +1,15 @@
-> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2009-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090212135106id_/http%3A//www.igxe.com/include/Privacy_Policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igxe.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611062512id_/http%3A//www.igxe.com/include/Privacy_Policy.cfm) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**Privacy Policy**   
 IGXE and its affiliated companies (collectively, the “Company”) respect your privacy rights and recognize the importance of protecting the Personal Information (as defined below) provided by you to us. This Privacy Policy describes how the Company collects, stores, and uses the Personal Information you provide to us through the Company's web sites and through telephone or e-mail communications you may have with us. This Privacy Policy also describes the choices available to you regarding the Company's use of the Personal Information you provide to us, and the actions you can take to access this information and request that the Company correct or delete it. 
 
 **Consent**  
-By using the Company's web sites, you acknowledge that you have read this Privacy Policy and you consent to the practices described herein with respect to the Company's collection, use and disclosure the Personal Information provided by you to us. This is the Company's entire and exclusive Privacy Policy and it supersedes any earlier version. We reserve the right to change this Privacy Policy in accordance with the terms herein at any time, which is why we encourage you to visit this page often, review this Privacy Policy frequently, and remain informed about any changes to it.   
-If, after review, you still have questions about any portion of this Privacy Policy, please contact the Company using the contact information provided at the bottom of this Privacy Policy. 
+By using the Company's web sites, you acknowledge that you have read this Privacy Policy and you consent to the practices described herein with respect to the Company's collection and use the Personal Information provided by you to us. This is the Company's entire and exclusive Privacy Policy and it supersedes any earlier version. We reserve the right to change this Privacy Policy in accordance with the terms herein at any time, which is why we encourage you to visit this page often, review this Privacy Policy frequently, and remain informed about any changes to it. If, after review, you still have questions about any portion of this Privacy Policy, please contact the Company using the contact information provided at Contact Us page. 
 
 **Information Collection and Use  
 Personal Information **  
-“Personal Information” means information that can identify you as a specific individual, such as your name, address, phone number, e-mail address, or other contact information, whether at work or at home.   
-On all Company web sites that collect Personal Information, we specifically describe what information is required in order to provide you with the product, service, or feature you have requested. We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. 
+“Personal Information” means information that can identify you as a specific individual, such as your name, address, phone number, e-mail address, or other contact information, whether at work or at home. On all Company web sites that collect Personal Information, we specifically describe what information is required in order to provide you with the product, service, or feature you have requested. We collect Personal Information when you contact us, when you register with us, when you use our products and services, when you submit an order with us, when you visit our web sites or the web sites of certain of the Company's partners, and when you enter promotions and sweepstakes. 
 
 **Registration**  
 when you register with us on this site, you first complete the on-line registration form, which requires you to create a username and password. During registration, you are also required to provide Personal Information, which may include name, billing address, shipping address, telephone number, e-mail address, credit card number, and credit card expiration date. We use this information so that we may contact you about the services and products on the site(s) in which you have expressed interest or requested and to facilitate the completion of an order.
@@ -35,10 +32,10 @@ As is true of most web sites, the Company gathers certain information automatica
 
 **Use of Information  
 Verification, Billing, and Order Status**  
-The Company collects Personal Information to verify the accuracy of your name, billing address, shipping address, credit card number, and credit card expiration date provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address (es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification. 
+The Company collects Personal Information to verify the accuracy of your name, billing address and shipping address provided, to screen for fraud, to bill you for products and services purchased and to pay you for products and services sold. The Company uses your e-mail address (es) to contact you regarding the status of your order when necessary and to send you a Receipt Purchase/Sale Confirmation and Order Shipping Notification. 
 
 **Special Offers and Updates**  
-The Company collects information about which sections of its web site you visit most often, so that it can send you our newsletter and information about relevant offers, promotions, contests, and sweepstakes which may interest you. Accordingly, the Company will occasionally send you information on products, services, special deals, promotions and sweepstakes. 
+The Company may, but is not obligated, to send you strictly service-related announcements or rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an e-mail. Generally, you may not opt-out of these communications since they are not promotional in nature. If you do not wish to receive them, you may have the option to deactivate your account. 
 
 **Service-related Announcements**  
 The Company may, but is not obligated, to send you strictly service-related announcements or rare occasions when it is necessary to do so. For example, if our service is temporarily suspended for maintenance, we might send you an e-mail.   
@@ -58,14 +55,8 @@ The Company does not sell or rent any of the information collected to third part
 **Service Providers**  
 The Company discloses the information collected to external service providers necessary to facilitate the following outsourced operations: address verification, credit card processing, fraud screening and order shipping.
 
-**Other Third Parties**  
-The Company shares information, including Personal Information, with trusted third-party partners so that customers can receive information about third-party offers and promotions that may interest them. These third-party partners do not have independent rights to share the information provided to them by us.
-
 **Compliance with Legal Authorities**  
 As required by law, and to enforce customers' or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies. 
-
-**Compliance with Legal Authorities**  
-As required by law, and to enforce customers' or the Company's legal rights, and to comply with local, state, federal and international law, the Company may disclose information to law enforcement agencies.
 
 **Choice and Opt-Out**  
 If you no longer wish to receive the Company's promotional communications, you may "opt-out" of receiving them by following the instructions included in each communication or by e-mailing the Company at .
@@ -85,13 +76,4 @@ The Company has a ZERO TOLERANCE policy for Internet fraud or any attempt to acc
 Agencies with which the Company cooperates are: state and local police authorities, the United States Federal Bureau of Investigation, US and International Customs Agencies, and Interpol. 
 
 **International Transfer  
-**Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.  
-**Children**  
-The Company's sites are not intended for or directed to persons under the age of 13. The Company does not buy or sell products or services from or to children. Any person who provides their information to the Company through the Company's web sites represents to the Company that they are 13 years of age or older. If you are under 13, you may use IGXE.com only with the involvement of a parent or guardian.
-
-**Changes to this Statement**  
-The Company will from time-to-time update this Privacy Policy, each time revising the last updated date at the top of the Privacy Policy and indicate the nature of the revisions within the statement. The Company will notify customers of material changes to this statement by e-mail or by placing prominent notice on its web site.
-
-**Contact Information**  
-You may contact the Company by e-mail at    
-You may click to see our [homepage](http://www.igxe.com/) and [Terms and Conditions](http://www.igxe.com/include/Terms_and_Conditions.cfm).
+**Personal Information collected by the Company may be stored and processed in the United States or any other country in which the Company or its affiliates, subsidiaries or agents maintain facilities, and by using the Company's web sites, you consent to any such transfer of Personal Information outside of your country.
