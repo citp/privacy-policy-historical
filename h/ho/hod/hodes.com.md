@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106170322id_/http%3A//www.hodes.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hodes.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611221423id_/http%3A//www.hodes.com/privacypolicy) for the most accurate reproduction.*
 
-# Bernard Hodes Group | Contact Us
-
-## Our Privacy Policy
+# Our Privacy Policy | Bernard Hodes Group
 
 **Mum's the word around here**  
 At Bernard Hodes Group, we respect your right to keep your personally identifiable information private. That's why we will never rent or share your information with third parties. We will only collect and hold your e-mail address for the purpose of providing you with the articles, reports or newsletters you have voluntarily and specifically requested. We hate spam as much as you do, and are dedicated to ensuring you never receive any from us.
@@ -14,4 +12,4 @@ When you give us your e-mail address in order to receive monthly newsletters, ar
 Throughout our site, we offer you the chance to share our information with a friend. Don't be shy about using this feature--your friend's e-mail address will be completely safe. We will use your friend's e-mail address only to send him or her the information you've requested. After that, your friend will never hear from us again, unless they voluntarily request it. It is, however, up to you to ensure that when you give us your friend's e-mail address, you're absolutely sure he or she will be receptive to receiving information from us.
 
 **You're never committed**  
-As great as we think our reports and newsletters are, we realize you may not want to receive them forever. That's why we've made it easy to take your name off our list. If you decide you no longer want to receive information from us, just go to the Unsubscribe section at [http://www.hodes.com/publications/talentmatters/subscription.asp](https://web.archive.org/web/20091106170322id_/http://www.hodes.com/publications/talentmatters/subscription.asp). Type in the e-mail address you used to subscribe, and click the Unsubscribe button. You'll be unsubscribed automatically and you will not receive any further information from us.
+As great as we think our reports and newsletters are, we realize you may not want to receive them forever. That's why we've made it easy to take your name off our list. If you decide you no longer want to receive information from us, just click on the unsubscribe link in your email. Type in the e-mail address you used to subscribe, and click the Unsubscribe button. You'll be unsubscribed automatically and you will not receive any further information from us.
