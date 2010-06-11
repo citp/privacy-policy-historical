@@ -1,20 +1,52 @@
-> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2009-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090526082200id_/http%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emailmeform.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611190653id_/http%3A//www.emailmeform.com/v-privacy.html) for the most accurate reproduction.*
 
 # EmailMe Form - Privacy Statement
 
-### Privacy Statement
+EmailMeForm has created this privacy policy in order to demonstrate our firm commitment to the confidentiality of user data. EmailMeForm absolutely hates spam, so we will never use your information to spam you. Our priority is to ensure that your transaction is secure, the data you provide to us is protected, and that your privacy is respected. We take this responsibility very seriously. 
 
-**Short Version**
+##  Your Data 
 
-We keep all your AND your form users personal information secret. We absolutely hate spam, so we don't use your information to spam you.
+EmailMeForm is committed to maintaining your privacy and security. We respect the privacy of all of our account holders and the data collected from the forms. Although EmailMeForm may own the data storage, databases and the service, **you retain all rights to your data**. We will also not utilize your data in our databases to compete with you, market to your clients, advertise to, or contact them for any reason. 
 
- **Long Version** **EmailMe Form** has created this privacy statement in order to demonstrate our firm commitment to the confidentiality of user data. The following discloses our information gathering and dissemination practices for this site. **Use Of Ip Address**  
-For each visitor to our site, our web server automatically records the visitor's domain and IP address. We use your IP address to help diagnose problems with our server, and to administer our Web site. **Use of Cookies**  
-Cookies are small files that contain information a web site uses for tracking a visit. Our site uses cookies to authenticate who you are and what information you have registered for access to. This information is not linked to individual visitors. **Order Forms**  
-The order forms our site provide you for purchasing products are made available through RegNow, one of the world largest Ecommerce Solutions provider. The contact information (like your email address), and financial information (like your credit card number) we collect about you when you place an order is safety stored and in no way will be available to any third party. Contact information is used only to get in touch with you when necessary ( e.g. sending you the product(s) you ordered ). Financial information that is collected is used to bill you for the order. **Newsletter**  
-The email address you provide when you subscribe to our newsletter is used only to send you our free newsletter, it will not be disclosed, sold or rented to any outside party. **Your form users**  
-While you can choose to have a copy of each form submittal in our database, useful in case you are having problems with your email, we will never disclose nor use any of the information about your form visitors and users. We will never send them any emails, nor disclose any information about them to any outside party. **Public Discussion Board**  
-Any information that is disclosed on EmailMe Form Discussion Board becomes public information, and it will be visible to all visitors. Please be cautious when deciding to disclose your personal information. **Links To Other Sites**  
-EmailMe Form is not responsible for the privacy practices or the content of the outside sites it links to. **Security**  
-This site provides a secure server for all credit card orders, securely encrypting all personal data with industry-standard methods. **Contacting EmailMe Form**  
-If you have any questions about this privacy statement or the practices of this site, please feel free to contact us using the [Online Form](https://web.archive.org/v-contact.html).
+The only exception to our strict adherance to your privacy is if it becomes necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Service, or as otherwise required by law. 
+
+##  Security 
+
+We take significant steps to ensure that our servers and your data are always kept secure. This includes hiring leading E-Commerce Gateway Systems and Security firms to improve and audit our performance including **Plimus E-Commerce Systems, Paypal, McAfee SECURE** and **VeriSign**. 
+
+When we collect personally identifiable financial information from you, the data is always secured by the Secure Sockets Layer (SSL). Additionally, all personal credit card and payment information are not stored within EmailMeForm systems. 
+
+##  Account Information 
+
+Personal information is collected only when users voluntarily register at EmailMeForm to purchase items, receive newsletters, or for other special offers or promotional opportunities. It is EmailMeForm's policy to treat all personal information as confidential. We will never sell your personal information or share it unnecessarily. 
+
+If you are already registered with EmailMeForm but no longer wish to receive messages from us, or you wish to correct/update information provided to us, please let us know using our [contact form](https://web.archive.org/web/20100611190653id_/http%3A//www.emailmeform.com/v-onlineform.html). 
+
+##  Traffic Logs 
+
+For statistical purposes, EmailMeForm will gather certain information automatically and store it in log files. These log files contain standard information collected by web servers, such as client IP addresses, browser type, internet service provider (ISP), operating system, etc. This information is only used internally, and is not distributed or sold to a 3rd party. EmailMeForm uses this information, which does not identify individual users, to analyze trends, to administer the EmailMeForm website and to gather demographic information about its user base as a whole. EmailMeForm does not link this automatically collected data to personally identifiable information. 
+
+## Compliance with Children's Online Privacy Protection Act 
+
+Persons under 14 are not eligible to enter into the promotions or service agreements offered on this site. Under no circumstances does EmailMeForm intentionally collect personal data from any person under the age of 14. 
+
+## Use of Cookies 
+
+As part of offering and providing customizable and personalized services, EmailMeForm uses cookies to recognize our users and allow them to access their accounts.. If you have your browser set to reject cookies, your use of the EmailMeForm services is likely to be interrupted. The cookies we use are not permanent. 
+
+## Changes to this Policy 
+
+EmailMeForm may periodically update this policy. We will notify you about significant changes in the way we treat personal information by posting a prominent notice on the site and possibly sending a notice to the primary email address specified in your Account. We do not intend to reduce your rights under this Policy without your explicit consent, and we expect most such changes will be minor. Each version of this Policy will be identified at the bottom of the page by its effective date. 
+
+## Contact Us
+
+**Email:** Please fill out our [contact form](https://web.archive.org/web/20100611190653id_/http%3A//www.emailmeform.com/v-onlineform.html)  
+**Mailing Address:** PO Box 3497, Redwood City, CA 94064-3497  
+
+
+## Terms of Service
+
+Your use of the EmailMeForm services is governed by our [Terms and Conditions](https://web.archive.org/web/20100611190653id_/http%3A//www.emailmeform.com/v-terms.html), which contains disclaimers, limitations of liability and a choice of California law and jurisdiction.
+
+Emailmeform Uses a Secure checkout with Partner Plimus. Emailmeforms are currently being used on Blogger, Facebook and can be processed by   
+Microsoft Windows, otherwise Emailmeform is neighter affiliated with nor sponsored by the owners of the services above.
