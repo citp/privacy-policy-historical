@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109000029id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4qsurvey.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061842id_/http%3A//www.4qsurvey.com/en/para-nav/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy | Free 4Q Online Survey - © iPerceptions 2008 | 4Q Survey
+# Privacy policy | 4Q Survey
 
 This privacy statement covers iPerceptions Inc.’s (“iPerceptions” or “us”) “4Q” service (the “Service”) available at 4q.iperceptions.com
 
@@ -56,3 +56,5 @@ We may enter into discussions or negotiations with a third party (anywhere in th
 ## Contact Us
 
 If you require further information or if we can be of any aid with respect to privacy issues, updating your contact information, or the practices of this site, you can contact us at [privacy@iperceptions.com](mailto:privacy@iperceptions.com)
+
+[-](http://www.iptestingsite.com/index-3.html)
