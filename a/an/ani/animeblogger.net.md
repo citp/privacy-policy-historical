@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeblogger.net privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212010407id_/http%3A//animeblogger.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeblogger.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210200id_/http%3A//animeblogger.net/privacy-policy) for the most accurate reproduction.*
 
 # AnimeBlogger.net » Privacy Policy
 
