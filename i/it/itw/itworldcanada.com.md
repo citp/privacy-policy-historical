@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2009-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091020093332id_/http%3A//www.itworldcanada.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itworldcanada.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612003205id_/http%3A//www.itworldcanada.com/ContentPage/Privacy) for the most accurate reproduction.*
 
-# ITWorld Canada
-
-## IT World Canada Inc. Online Privacy Statement
+# IT World Canada Inc. Online Privacy Statement
 
 Effective January 1, 2004
 
@@ -43,7 +41,7 @@ IT World Canada does not charge a fee for visitors to access the site's content;
 **Cookies used in registration**  
 As part of the registration process we use a browser feature called a "cookie". A cookie is a piece of data that a Web site can send to your browser, which may then be stored on your computer as a small text file. The cookie we send as part of the registration process allows the site to recognize that a visitor is a registered user and permit access to restricted sections of the site on future visits.
 
-For a more detailed explanation of our use of cookies, please see the section, _Information We May Place Automatically On Your Computer's Hard Drive_ , found later in this statement.
+For a more detailed explanation of our use of cookies, please see the section, _Information We May Place Automatically On Your Computer''s Hard Drive_ , found later in this statement.
 
 **PERSONALLY IDENTIFYING INFORMATION**  
 
@@ -76,9 +74,9 @@ We will seek your prior consent to the collection, use and disclosure of persona
 Your personal information will not be used for any other purpose without your consent.
 
 **DISCLOSURE**  
-In order to effectively provide the products and services you have requested, IT World Canada may share your personal information with selected third parties who act on our behalf as suppliers or service providers. Examples include bonded mailing houses for processing and labelling items, including publications, prior to mailing; and, Canada Post and other distributors and carriers. We provide only the information required to perform the requested service. Information provided to third parties in these circumstances may only be used for the stated purpose. It is our practice to require third party suppliers to handle information in a manner consistent with IT World Canada's policies.
+In order to effectively provide the products and services you have requested, IT World Canada may share your personal information with selected third parties who act on our behalf as suppliers or service providers. Examples include bonded mailing houses for processing and labelling items, including publications, prior to mailing; and, Canada Post and other distributors and carriers. We provide only the information required to perform the requested service. Information provided to third parties in these circumstances may only be used for the stated purpose. It is our practice to require third party suppliers to handle information in a manner consistent with IT World Canada''s policies.
 
-In addition, the information collected to service your subscriptions is made available -- on IT World Canada's premises only -- for review by the Canadian Circulation Audit Bureau (CCAB), the official auditing body for magazines. The auditors may also contact randomly selected subscribers in order to verify the publisher's circulation statements.
+In addition, the information collected to service your subscriptions is made available -- on IT World Canada's premises only -- for review by the Canadian Circulation Audit Bureau (CCAB), the official auditing body for magazines. The auditors may also contact randomly selected subscribers in order to verify the publisher''s circulation statements.
 
 **SUPPLEMENTING INFORMATION**  
 From time to time we may supplement information you give us via our Web site with information we acquire from other sources, such as information to validate your address, or company information available through sources such as business directories. This is to help us maintain consistency and accuracy of the information we collect and to help us provide a better service.
@@ -118,15 +116,15 @@ ITWorldCanada.com users should be aware that when they voluntarily disclose pers
 
 * * *
 
-  * **Accountability:** An organization is responsible for personal information under its custody and shall designate an individual or individuals who are accountable for the organization's compliance with the following principles.
-  * **Identifying Purposes:** The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.
-  * **Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
-  * **Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.
-  * **Limiting Use, Disclosure and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
-  * **Accuracy:** Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
-  * **Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.
-  * **Openness:** An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
-  * **Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information, and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
-  * **Challenging Compliance:** An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals accountable for the organization's compliance.
+  * **Accountability:** An organization is responsible for personal information under its custody and shall designate an individual or individuals who are accountable for the organization''s compliance with the following principles.
+  *  **Identifying Purposes:** The purposes for which personal information is collected shall be identified by the organization at or before the time the information is collected.
+  *  **Consent:** The knowledge and consent of the individual are required for the collection, use or disclosure of personal information, except where inappropriate.
+  *  **Limiting Collection:** The collection of personal information shall be limited to that which is necessary for the purposes identified by the organization. Information shall be collected by fair and lawful means.
+  *  **Limiting Use, Disclosure and Retention:** Personal information shall not be used or disclosed for purposes other than those for which it was collected, except with the consent of the individual or as required by law. Personal information shall be retained only as long as necessary for the fulfillment of those purposes.
+  *  **Accuracy:** Personal information shall be as accurate, complete and up-to-date as is necessary for the purposes for which it is to be used.
+  *  **Safeguards:** Personal information shall be protected by security safeguards appropriate to the sensitivity of the information.
+  *  **Openness:** An organization shall make readily available to individuals specific information about its policies and practices relating to the management of personal information.
+  *  **Individual Access:** Upon request, an individual shall be informed of the existence, use and disclosure of his or her personal information, and shall be given access to that information. An individual shall be able to challenge the accuracy and completeness of the information and have it amended as appropriate.
+  *  **Challenging Compliance:** An individual shall be able to address a challenge concerning compliance with the above principles to the designated individual or individuals accountable for the organization''s compliance. 
 
 
