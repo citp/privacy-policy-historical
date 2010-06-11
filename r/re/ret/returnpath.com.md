@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2008-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080807160626id_/http%3A//returnpath.com/privacy/privacy_returnpath.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211851id_/http%3A//www.returnpath.net/privacy/privacy_returnpath.php) for the most accurate reproduction.*
 
 # Return Path
 
----  
+|   
+---|---  
+[ ](http://secure.trust-guard.com/certificates/www.returnpath.net)  
   
-1/30/2020 
+1/31/2020 
 
 |   
   
@@ -37,7 +39,7 @@ Tom Bartel, CPO
 
 ## The organization collecting information at this Website:
 
-[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20080807160626id_/http%3A//returnpath.com/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
+[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20100611211851id_/http%3A//www.returnpath.net/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
 
 ## The Information We Collect and Use:
 
@@ -79,7 +81,7 @@ To provide the Service to you, we may sometimes use other businesses to perform 
 
 ### Change of Control / Asset Transfer
 
-As the Company develops we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by, merged with, or sold to a third party, or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control. In the event of such a corporate change in control affecting all or parts of our business assets our users will be notified in accordance with the "Changes to this Policy" section of the policy if their personal information is provided to the new controlling party.
+As the Company develops, we may buy other businesses or their assets or sell all or parts of our business assets. Customer information is generally one of the business assets involved in such transactions. Thus, in the event that the assets of the Company in whole or in parts are acquired by a third-party, customer information, including any visitor information collected through the Site or the Service, would be one of the transferred assets. In the event of a corporate change in control or sale of all or parts of our business assets our users will be notified in accordance with the "Changes to this Policy" section of the policy if their personal information is provided to the new corporate entity or asset purchaser.
 
 ### Legal Compliance
 
