@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the lefolio.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226122239id_/http%3A//www.royaltyuniverse.com/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lefolio.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611182058id_/http%3A//www.royaltyuniverse.com/Privacy_Policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Royalty Universe
 
-|  | 
-
-Privacy Policy
+## Privacy Policy
 
 This is the privacy policy of this website and will be referred to as "We", "our" and "us" in this Internet Privacy Policy. By using this site, you agree to the Internet Privacy Policy of this web site ("the web site"), which is set out on this web site page. 
 
@@ -26,8 +24,3 @@ We provide links to Web sites outside of our web sites, as well as to third part
 
 **Problems or questions**  
 If we become aware of any ongoing concerns or problems with our web sites, we will take these issues seriously and work to address these concerns. If you have any further queries relating to our Privacy Policy, or you have a problem or complaint, please contact us.
-
-|    
-  
-  
----|---|---
