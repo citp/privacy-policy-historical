@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2009-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090404070006id_/http%3A//www.datacash.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacash.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611063142id_/http%3A//www.datacash.com/about/privacy.php) for the most accurate reproduction.*
 
 # DataCash Processing Secure Internet Payments (Credit and Debit Card, Direct Debit, Online Cash)
 
