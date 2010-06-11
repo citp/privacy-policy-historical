@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220043841id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degree.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212558id_/http%3A//www.degree.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
