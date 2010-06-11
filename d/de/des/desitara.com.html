@@ -1,550 +1,301 @@
-<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2009-07-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090710181704id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the desitara.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611055536id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<link href="/img/animated_favicon.gif" type="icon" rel="icon"><link href="/img/animated_favicon.gif" type="icon" rel="shortcut icon"><meta name="description" content="Privacy Policy">
-<meta name="keywords" content="Privacy Policy">
-<title>Privacy Policy</title>
-<link rel="stylesheet" type="text/css" href="http://images.desitara.com/cssv3/css/sidebar.css"><link rel="stylesheet" type="text/css" href="http://images.desitara.com/cssv3/css/common/common.css"><script type="text/javascript" src="http://static.desitara.com/jsv2/jquery/jquery.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv2/core.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv2/jquery/plugins/json.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv2/jquery/plugins/accordian.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv2/jquery/jquery.boxy.js"></script><link rel="stylesheet" type="text/css" href="http://images.desitara.com/cssv3/css/boxy.css"><script>
+<link href="http://images.desitara.com/css_v3/img/animated_favicon.gif" type="icon" rel="icon"><link href="http://images.desitara.com/css_v3/img/animated_favicon.gif" type="icon" rel="shortcut icon">
+<title> Privacy Policy | Desitara </title>
+<meta name="description" content=" Privacy Policy ">
+<meta name="keywords" content=" Privacy Policy ">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/theme/site/default/default.css"><link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/common/commonlatest.css"><script type="text/javascript" src="http://static.desitara.com/jsv3/jquery/jquery_1_3_2.js"></script><link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/tooltip/tipsy.css"><script type="text/javascript" src="http://static.desitara.com/jsv3/AC_RunActiveContent.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv3/jquery/plugins/jquery.tipsy.js"></script><script type="text/javascript" src="http://static.desitara.com/jsv3/common_packed.js"></script><script>
+var serverTime = '1276235734';
+var desichaturl = {};
+desichaturl.base 	   = '/chat/';
+//desichaturl.base 	   = '';
+desichaturl.friend_url = '/users/recent';
+desichaturl.send_text = "Update";
+desichaturl.sending_text = "Saving...";
+desichaturl.loading_animation_text = '<p><img src="/img/common/ajaxloadersmall.gif"/>Loading...</p>';
+dt.loadingMessage = '<p><img src="/img/common/loader_black_bg.gif"/>Loading...</p>';
+</script>
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/desi_chat.css"><script type="text/javascript" src="http://static.desitara.com/jsv3/chat/desi_chat.js"></script><script>
 dt.site_base_url = '';
 dt.current_url = '/privacypolicy';
 var menu_array = {};
 var menu_count_array = {};
-function setsrchtype(typevalue,typekey)
+function setsrchtype(typevalue,typekey, searchDefaultValue, engtypes)
 {
-	document.getElementById('toptype').value = typevalue;
-	if(document.getElementById('topterm').value == 'Search videos, photos or friends'){
-		document.getElementById('topterm').value = '';
+	if(engtypes == 'Blogs')
+		engtypes = 'Wpblogs';
+	document.getElementById('toptype').value = engtypes;
+	if((document.topstartsearch.topterm.value == searchDefaultValue)||(document.topstartsearch.topterm.value == '')){
+		document.topstartsearch.topterm.value = '';
 		return false;
 	}
 //	document.getElementById('settype').innerHTML = typevalue;
 	document.getElementById('topstartsearch').submit();
 }
-</script>
-<style>
-.clsUserProMenu{
-margin-bottom:20px;
+
+function isIE6()
+{
+	if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
+	{ //test for MSIE x.x;
+	 var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
+	 if (ieversion<=6) return true;
+	 else return false;
+	}
 }
-</style>
+
+function isSafari(){
+	if (/Safari/.test(navigator.userAgent))
+		return true;
+	else
+		return false;
+}
+</script>
 </head>
 <body class="clsIndexBody">
-<textarea style="display:none" id="user_data"> {"Config":{"userAgent":"99a5d0ecca3198bdf550595aed087714","time":1247489823,"rand":1287789839,"timeout":10},"User":{"id":0,"user_name":""}}</textarea>
+<textarea style="display:none" id="user_data"> {"Config":{"userAgent":"99a5d0ecca3198bdf550595aed087714","time":1276262731,"rand":1024376661,"timeout":10},"User":{"id":0,"user_name":""}}</textarea>
 <script>
 dt(document).ready(function() {
+ if(dt.validator){
+  dt.validator.messages= {
+		required: "This field is required.",
+		remote: "Please fix this field.",
+		email: "Please enter a valid email address.",
+		url: "Please enter a valid URL.",
+		date: "Please enter a valid date.",
+		dateISO: "Please enter a valid date (ISO).",
+		dateDE: "Bitte geben Sie ein gültiges Datum ein.",
+		number: "Please enter a valid number.",
+		numberDE: "Bitte geben Sie eine Nummer ein.",
+		digits: "Please enter only digits",
+		creditcard: "Please enter a valid credit card number.",
+		equalTo: "Please enter the same value again.",
+		accept: "Please enter a value with a valid extension.",
+		maxlength: dt.format("Please enter no more than {0} characters."),
+		minlength: dt.format("Please enter at least {0} characters."),
+		rangelength: dt.format("Please enter a value between {0} and {1} characters long."),
+		range: dt.format("Please enter a value between {0} and {1}."),
+		max: dt.format("Please enter a value less than or equal to {0}."),
+		min: dt.format("Please enter a value greater than or equal to {0}."),
+		phone: "Please enter a valid contact number"
+		
+	} 
+ }
+
+ if(dt.timeago){
+	dt.timeago.settings.strings = {
+        prefixAgo: null,
+        prefixFromNow: null,
+        suffixAgo: "ago",
+        suffixFromNow: "from now",
+        ago: null, // DEPRECATED, use suffixAgo
+        fromNow: null, // DEPRECATED, use suffixFromNow
+        seconds: "few seconds",
+        minute: " a minute",
+        minutes: "%d minutes",
+        hour: " an hour",
+        hours: " %d hours",
+        day: "a day",
+        days: "%d days",
+        month: " a month",
+        months: "%d months",
+        year: " a year",
+        years: "%d years"
+	};
+ }
+	dt.boxy_label = {};
+	dt.boxy_label.okText = "Ok";
+	dt.boxy_label.cancelText = "Cancel";
+	dt.boxy_label.confirmText = "Please confirm:";
+
  dt.extend(dt, dt.evalJSON(dt('#user_data').val()));
+
 });
 </script>
 <!-- clsCommonBody -->
-<div id="DesitaraIndex" class="clsMainBody">
-  <!-- Accessibility Links -->
-  <div id="top">
-    <ul>
-      <li><a href="#">Skip to main content</a></li>
-      <li><a href="#">Skip to Navigation Links</a></li>
-      <li><a href="#">Skip to Footer</a></li>
-    </ul>
-  </div>
-  <!--end of Accessibility Links -->
+<div id="page">
   <!-- Header -->
-  <div id="Header" class="clsClearFix">
-    <!-- HeaderRight -->
-    <div class="clsHeaderRight png">&nbsp;</div>
-    <!-- end of HeaderRight -->
-    <!-- HeaderLeft -->
-    <div class="clsHeaderLeft png">&nbsp;</div>
-    <!-- end of HeaderLeft -->
-    <!-- HeaderCenter -->
-    <div class="clsHeaderCenter png">
-      <!-- Logo -->
-      <div class="clsLogo"> <a href="http://www.desitara.com/">
-        <h1> <span id="dtlogo_span" title="Desitara - Showcase Your Talent"><span id="dtlogo_spanhover" class="hoverClass" title="Desitara - Showcase Your Talent">&nbsp;</span></span> </h1>
-        </a> </div>
-      <!-- end of Logo -->
-      <!-- RightTopMenu -->
-      <div class="clsRightTopMenu">
-                <ul>
-          <li>
-            <a href="/users/login?next_url=privacypolicy" class="cls_Login">Log in</a>          </li>
-          <li>|</li>
-          <div class="clsContentArea clsSuccess" id="login_boxy_box" style="display:none">
-            <!-- sideBar -->
-            <!-- end of sideBar -->
-            <!-- GroupList -->
-            <div class="clsSignInHead">
-              <h1>Log In</h1>
-            </div>
-            <!-- end of GroupList -->
-            <!-- GroupRounded -->
-            <form id="UserLoginForm" method="post" action="/users/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>            <table class="clsSignInTable">
-              <tbody><tr>
-                <td>Username</td>
-                <td class="clsSignInInput"><input type="text" id="Useruser_name_dt" value="" name="data[User][user_name]"></td>
-              </tr>
-              <tr>
-                <td>Password</td>
-                <td class="clsSignInInput"><input type="password" id="UserPassword_dt" value="" name="data[User][password]"></td>
-              </tr>
-              <tr>
-                <td>&nbsp;</td>
-                <td class="clsSignInForget"><a href="/users/forgotpassword">Forgot Password?</a>                  <input type="submit" name="submit" value="Login" class="clsSignInBtn">
-                </td>
-              </tr>
-              <!--  <tr>
-    <td>&nbsp;</td>
-    <td class="clsSignInForget"><input type="checkbox" id="remember_me" value="yes" name="remember_me"  /><label for="remember_me">Remember Me</label></td>
-  </tr>-->
-            </tbody></table>
-            <input type="hidden" id="next_url" name="next_url" value="privacypolicy">
-            </form>            <p class="clsRememberSignIn"> Not a member? <span class="clsSignInJoin"><a href="/users/signup">Join now</a> </span></p>
-            <!-- end of GrpBtmRound -->
-            <!-- end of GroupRounded -->
-          </div>
-                    <!--<li><a href="#">Site Tour</a></li>
-          <li>|</li>
-          <li><a href="#">Help</a></li>
-          <li>|</li>-->
-          <li><a href="/users/signup">Join Now</a></li>
-        </ul>
-                <!-- Showcase -->
-        <div class="clsShowcase">
-          <p class="clsTalentWorld">Showcase your talent to the world!<span class="clsStar">BE A STAR</span></p>
-        </div>
-        <!-- end of Showcase -->
-        <!-- end of Login -->
-        <div class="clsLogin">
-          <!-- SearchArea -->
-          <div class="clsSearchArea">
-            <div>
-              <form name="topstartsearch" id="topstartsearch" method="get" action="/search/results/?" onsubmit="javascript:if(document.getElementById('topterm').value == 'Search videos, photos or friends') document.getElementById('topterm').value = '';if(document.topstartsearch.topterm.value == '') return false; ">
-                <span class="clsSearchInput">
-                <input name="topterm" id="topterm" onclick="if(this.value=='Search videos, photos or friends') this.value='';javascript:document.getElementById('topddl').className='clsAllSearch';document.getElementById('topDropSearch').style.display='block';" onblur="if(this.value=='') this.value='Search videos, photos or friends'" value="Search videos, photos or friends" type="text" autocomplete="OFF">
-                <input name="toptype" id="toptype">
-                <input name="toporder" id="toporder" value="All">
-                </span><span class="clsSearchIcon">
-                <input type="submit" value="">
-                </span>
-              </form>
-            </div>
-                        <div class="clsDropSearch" id="topDropSearch" name="topDropSearch" style="display:none;" onmouseover="javascript:document.getElementById('topDropSearch').style.display='block';" onmouseout="javascript:document.getElementById('topDropSearch').style.display='none';">
-              <ul class="clsTopSearchRound clsClearFix">
-                <li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('All','all'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl" class="clsAllSearch">All</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Videos','video'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Videos</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Photos','photo'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Photos</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Contests','contest'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Contests</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Groups','group'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Groups</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Events','event'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Events</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Blogs','blog'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Blogs</span></a></li><li onmouseover="javascript:document.getElementById('topddl').className='';document.getElementById('topDropSearch').style.display='block';"><a href="#" onclick="javascript:setsrchtype('Profiles','profile'); document.getElementById('topDropSearch').style.display='none'; "><span name="topddl" id="topddl">Profiles</span></a></li>              </ul>
-              <div class="clsWhtBtmSearchList">&nbsp; </div>
-            </div>
-          </div>
-          <!-- end of SearchArea -->
-        </div>
-        <!-- end of Login -->
-      </div>
-      <!-- end of RightTopMenu -->
+		<textarea id="loginboxtextarea" style="display:none;">        &lt;div class="clsContentArea" id="login_boxy_box" style="display:none;"&gt;
+          &lt;!-- sideBar --&gt;
+          &lt;!-- end of sideBar --&gt;
+          &lt;!-- GroupList --&gt;
+          &lt;div class="clsSignInHead" &gt;
+            &lt;h1&gt;
+              LOGIN            &lt;/h1&gt;
+          &lt;/div &gt;
+		 
+          &lt;!-- end of GroupList --&gt;
+          &lt;!-- GroupRounded --&gt;
+          &lt;form id="UserLoginForm" method="post" action="/users/login"&gt;&lt;fieldset style="display:none;"&gt;&lt;input type="hidden" name="_method" value="POST" /&gt;&lt;/fieldset&gt;          &lt;table class="clsSignInTable"&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Username&lt;/td&gt;
+              &lt;td  class="clsSignInInput"&gt;&lt;input type="text" id="Useruser_name_dt" value="" name="data[User][user_name]"/&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;Password&lt;/td&gt;
+              &lt;td class="clsSignInInput"&gt;&lt;input type="password" id="UserPassword_dt" value="" name="data[User][password]"/&gt;&lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;tr&gt;
+              &lt;td&gt;&nbsp;&lt;/td&gt;
+              &lt;td class="clsSignInForget"&gt;&lt;a href="/users/forgotpassword"&gt;Forgot Password?&lt;/a&gt;                &lt;input type="submit" name="submit" value="Login" class="clsSignInBtn" /&gt;
+              &lt;/td&gt;
+            &lt;/tr&gt;
+            &lt;!--  &lt;tr&gt;
+    &lt;td&gt;&nbsp;&lt;/td&gt;
+    &lt;td class="clsSignInForget"&gt;&lt;input type="checkbox" id="remember_me" value="yes" name="remember_me"  /&gt;&lt;label for="remember_me"&gt;&lt; ?php __('remember me');?&gt;&lt;/label&gt;&lt;/td&gt;
+  &lt;/tr&gt;--&gt;
+          &lt;/table&gt;
+                    &lt;input type="hidden" id="next_url" name="next_url" value="privacypolicy" /&gt;
+          &lt;input type="hidden" id="from_contest" name="from_contest" value="" /&gt;
+          &lt;/form&gt;          &lt;p class="clsRememberSignIn"&gt;
+            Not a member?			
+			
+			
+			  &lt;span class="clsSignInJoin"&gt;&lt;a href="/users/signup"&gt;Join Now&lt;/a&gt; &lt;/span&gt;&lt;/p&gt;
+			
+			
+          &lt;!-- end of GrpBtmRound --&gt;
+          &lt;!-- end of GroupRounded --&gt;
+        &lt;/div&gt;          
+         </textarea>   
+  <div id="header">
+    <!-- headerbar1 container -->
+      <div id="headerbar1">
+    <div id="header1">
+      <!-- language -->
+      <div id="language_widget" class="widget ">
+
+
+<ul>
+<li class="item"><a onmouseover="showLanguageSubMenu()" onmouseout="hideLanguageSubMenu()" href="javascript:void(0);">
+English</a>
+<ul id="Langdropdown" style="display:none;" onmouseover="dt('#Langdropdown').show();" onmouseout="dt('#Langdropdown').hide();">
+<li class="item">
+<a class="eng_class" href="/users/changeLanguage/lang:eng">
+English</a>
+</li>
+<li class="item">
+<a class="hin_class" href="/users/changeLanguage/lang:hin">
+हिन्दी</a>
+</li>
+<li class="item">
+<a class="deu_class" href="/users/changeLanguage/lang:deu">
+Deutsch</a>
+</li>
+<li class="item">
+<a class="spa_class" href="/users/changeLanguage/lang:spa">
+Español</a>
+</li>
+<li class="item">
+<a class="jpn_class" href="/users/changeLanguage/lang:jpn">
+日本語</a>
+</li>
+<li class="item">
+<a class="pol_class" href="/users/changeLanguage/lang:pol">
+Polska</a>
+</li>
+<li class="item">
+<a class="chi_class" href="/users/changeLanguage/lang:chi">
+中文</a>
+</li>
+<li class="item">
+<a class="fre_class" href="/users/changeLanguage/lang:fre">
+Français</a>
+</li>
+</ul>
+</li>
+</ul>
+
+
+
+<script type="text/javascript">
+function showLanguageSubMenu(){
+var off = dt('#language_widget').offset();
+dt('#Langdropdown').css({'top':off.top+'px'}).show();
+}
+function hideLanguageSubMenu(){
+var off = dt('#language_widget').offset();
+dt('#Langdropdown').css({'top':off.top+'px'}).hide();
+}
+</script>
+ </div>      <!-- end of language -->
+      <!-- login -->
+      <div id="login_widget" class="widget ">          <form id="usersloginform1" method="post" action="/users/login"><fieldset style="display:none;"><input type="hidden" name="_method" value="POST"></fieldset>              <input onclick="if(this.value=='User Name') this.value=''" onblur="if(this.value=='') this.value='User Name';" value="User Name" type="text" id="Useruser_name" name="data[User][user_name]"> 
+              <input onclick="if(this.value=='Password') this.value='';" onblur="if(this.value=='') this.value='Password';" value="Password" type="password" id="UserPassword" name="data[User][password]"> 
+              <input type="hidden" id="next_url" name="next_url" value="privacypolicy">
+              <input class="submit" type="submit" name="submit" value="LOG IN">
+          </form>     
+</div><div id="signup_widget" class="widget "><input class="submit" type="submit" name="submit" value="SIGN UP" onclick="document.location='/users/signup'"></div>      <!-- end of login -->
+      <!-- single sign on -->
+            <!-- end of single sign on -->
+      <!-- search -->
+      <div id="search_widget" class="widget "><!-- SearchArea -->
+
+<form name="topstartsearch" id="topstartsearch" method="get" action="/search/results/?" onsubmit="javascript:if(document.topstartsearch.topterm.value == 'Search videos, photos or friends') document.topstartsearch.topterm.value = '';if(document.topstartsearch.topterm.value == '') return false; ">
+  <div class="input text"><input name="topterm" type="text" class="searchinput" id="autosuggestfortopsearch" value="Search videos, photos or friends" onclick="if(this.value==&quot;Search videos, photos or friends&quot;) this.value=&quot;&quot;;" onblur="if(this.value==&quot;&quot;) this.value=&quot;Search videos, photos or friends&quot;;"></div>
+<script type="text/javascript">
+
+dt(document).ready(function() { 	
+	dt("#autosuggestfortopsearch").autocomplete({ 
+    serviceUrl:"/autosuggest/searchwords",
+    minChars:"1", 
+    delimiter: /(,|;)\s*/, // regex or character
+    maxHeight:400,
+    width:300,
+    deferRequestBy: 0 //miliseconds
+//    params: { country:'Yes' } //aditional parameters
+    // callback function:
+//    onSelect: function(value, data){ alert('You selected: ' + value + ', ' + data); },
+    // local autosugest options:
+//    lookup: ['January', 'February', 'March', 'April', 'May'] //local lookup values 
+  });
+
+});
+
+</script>
+  <input name="toptype" id="toptype" type="hidden">
+  <input name="toporder" id="toporder" value="All" type="hidden">
+  <input class="searchsubmit" type="submit" value="">
+</form>
+<!-- end of SearchArea -->
+</div>      <!-- end of search -->
+      <!-- upload -->
+            <!-- end of upload -->
     </div>
-  </div>
-  <!-- end of HeaderCenter -->
-  <!-- SubHeader -->
-  <div class="clsSubHeader clsClearFix">
-    <ul class="clsSubMenu">
-      <li class="clsNormalMenu"><a href="/" class="mainMenu" id="home_menu">HOME</a>  </li>
-      <li class="clsNormalMenu"><a href="/videos/talent" class="mainMenu" id="videos_menu">VIDEOS</a> <style>
-.smallfont ul{
-float:left;
-}
-.smallfont{
-width:auto !important;
-}
-</style>
-<div class="clsRightDrop" id="dtmenu_videos_menu" style="display:none; z-index:9999">
-  <div class="clsLeftDrop">
-    <div class="clsMiddleDrop">
-      <ul class="subMenu">
-                <li><a href="/videos/all/">Recent Videos</a></li>
-              <script>
-	  menu_array['submenuitem_Recent_Videos'] = 'dtmenu_videos_menu';
-	  </script>
-        
-        			
-		<li class="clsSubarrow"><a id="a_submenuitem_Talent" href="javascript: void 0" onmouseover="showSubMenuOnClick('submenuitem_Talent')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Talent')">Talent</a></li>	
-		      <script>
-	  menu_array['submenuitem_Talent'] = 'dtmenu_videos_menu';
-	  </script>
-        
-        			
-		<li class="clsSubarrow"><a id="a_submenuitem_Channels" href="javascript: void 0" onmouseover="showSubMenuOnClick('submenuitem_Channels')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Channels')">Channels</a></li>	
-		      <script>
-	  menu_array['submenuitem_Channels'] = 'dtmenu_videos_menu';
-	  </script>
-        
-                <li><a href="/videos/all/mine">My Videos</a></li>
-              <script>
-	  menu_array['submenuitem_My_Videos'] = 'dtmenu_videos_menu';
-	  </script>
-        
-              </ul>
-		<div class="smallfont subMenu" id="submenuitem_Talent" style="display:none;height:200px;" onmouseover="showSubMenuOnClick('submenuitem_Talent')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Talent')">
-	<ul>
-		        <li><a href="/videos/talent/recent/Singing">Singing</a></li>
-                <li><a href="/videos/talent/recent/Dancing">Dancing</a></li>
-                <li><a href="/videos/talent/recent/Acting">Acting</a></li>
-                <li><a href="/videos/talent/recent/Adventure+%26amp%3B+games">Adventure &amp; games</a></li>
-                <li><a href="/videos/talent/recent/Magic">Magic</a></li>
-                <li><a href="/videos/talent/recent/Instrumental">Instrumental</a></li>
-        </ul><ul>        <li><a href="/videos/talent/recent/Other+Talents">Other Talents</a></li>
-                <li><a href="/videos/talent/recent/Sports">Sports</a></li>
-                <li><a href="/videos/talent/recent/Modeling">Modeling</a></li>
-                <li><a href="/videos/talent/recent/Short-Films">Short-Films</a></li>
-          	  <script>    
-       menu_count_array['submenuitem_Talent'] = 2;
-	  </script> 
-	</ul>
     </div>
-		<div class="smallfont subMenu" id="submenuitem_Channels" style="display:none;height:200px;" onmouseover="showSubMenuOnClick('submenuitem_Channels')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Channels')">
-	<ul>
-		        <li><a href="/videos/channel/recent/Bollywood+Films">Bollywood Films</a></li>
-                <li><a href="/videos/channel/recent/Hollywood+Films">Hollywood Films</a></li>
-                <li><a href="/videos/channel/recent/Desi+Videos">Desi Videos</a></li>
-                <li><a href="/videos/channel/recent/International+Videos">International Videos</a></li>
-                <li><a href="/videos/channel/recent/Bollywood+music">Bollywood music</a></li>
-                <li><a href="/videos/channel/recent/International+Music">International Music</a></li>
-        </ul><ul>        <li><a href="/videos/channel/recent/Animation">Animation</a></li>
-                <li><a href="/videos/channel/recent/Comedy">Comedy</a></li>
-                <li><a href="/videos/channel/recent/Cars+%26amp%3B+Vehicles">Cars &amp; Vehicles</a></li>
-                <li><a href="/videos/channel/recent/Education">Education</a></li>
-                <li><a href="/videos/channel/recent/News+%26amp%3B+Politics">News &amp; Politics</a></li>
-                <li><a href="/videos/channel/recent/People%27s+Voice">People's Voice</a></li>
-        </ul><ul>        <li><a href="/videos/channel/recent/Pets+%26amp%3B+Animals">Pets &amp; Animals</a></li>
-                <li><a href="/videos/channel/recent/Science+%26amp%3B+Technology">Science &amp; Technology</a></li>
-                <li><a href="/videos/channel/recent/Television">Television</a></li>
-                <li><a href="/videos/channel/recent/Travel+%26amp%3B+Events">Travel &amp; Events</a></li>
-                <li><a href="/videos/channel/recent/Kids">Kids</a></li>
-                <li><a href="/videos/channel/recent/Schools+%26amp%3B+College">Schools &amp; College</a></li>
-        </ul><ul>        <li><a href="/videos/channel/recent/Sports">Sports</a></li>
-                <li><a href="/videos/channel/recent/Magic">Magic</a></li>
-                <li><a href="/videos/channel/recent/Other">Other</a></li>
-                <li><a href="/videos/channel/recent/Regional+Videos">Regional Videos</a></li>
-          	  <script>    
-       menu_count_array['submenuitem_Channels'] = 4;
-	  </script> 
-	</ul>
+    <!-- headerbar1 bg container ends -->
+    <!-- header2 container -->
+     <div id="headerbar2">
+    <div id="header2">
+      <!-- logo -->
+      <div id="logo_widget" class="widget ">    <a href="http://www.desitara.com/"><img src="http://images.desitara.com/css_v3//css/theme/site/default/log1o.jpg"></a>
+
+
+</div>      <!-- end of logo -->
+      <!-- menu -->
+      <div id="mainmenu" class="widget "><ul>
+<li class="item"><a href="/">HOME</a></li><li class="item"><a href="/videos/talent">VIDEOS</a></li><li class="item"><a href="/photos">PHOTOS</a></li><li class="item"><a href="/talent/contest">CONTESTS</a></li><li class="item"><a href="/users">MEMBERS</a></li><li class="item"><a href="/communities">COMMUNITY</a></li><li class="item upload"><a href="/videos/videoupload">UPLOAD</a></li>	
+</ul>
+</div>      <!-- end of menu -->
     </div>
-	    </div>
-  </div>
-</div>
-<script>
-function showSubMenuOnClick(id){
-	var width = (menu_count_array[id] + 1)*165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	dt('#'+id).show();
-}
-
-function hideSubMenuOnMouseOut(id){
-	var width = 165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	//dt('#'+id).removeClass('clsSubarrowActive');
-	dt('#a_'+id).parent().removeClass('clsSubarrowActive')
-	dt('#'+id).hide();
-}
-
-
-
-</script> </li>
-      <!--clsNormalActiveMenu-->
-      <li class="clsNormalMenu "><a href="/photos/" class="mainMenu" id="photos_menu">PHOTOS</a><style>
-.smallfont ul{
-float:left;
-}
-.smallfont{
-width:auto !important;
-}
-</style>
-<div class="clsRightDrop" id="dtmenu_photos_menu" style="display:none; z-index:9999">
-  <div class="clsLeftDrop">
-    <div class="clsMiddleDrop">
-      <ul class="subMenu">
-                <li><a href="/photos/recent">Recent Photos</a></li>
-              <script>
-	  menu_array['submenuitem_Recent_Photos'] = 'dtmenu_photos_menu';
-	  </script>
-        
-                <li><a href="/photos/popular">Popular Photos</a></li>
-              <script>
-	  menu_array['submenuitem_Popular_Photos'] = 'dtmenu_photos_menu';
-	  </script>
-        
-                <li><a href="/photos/mine">My Photos</a></li>
-              <script>
-	  menu_array['submenuitem_My_Photos'] = 'dtmenu_photos_menu';
-	  </script>
-        
-                <li><a href="/photos/myfavorites">My Favorites</a></li>
-              <script>
-	  menu_array['submenuitem_My_Favorites'] = 'dtmenu_photos_menu';
-	  </script>
-        
-                <li><a href="/photos/myfriends">My Friends Photos</a></li>
-              <script>
-	  menu_array['submenuitem_My_Friends_Photos'] = 'dtmenu_photos_menu';
-	  </script>
-        
-              </ul>
-	    </div>
-  </div>
-</div>
-<script>
-function showSubMenuOnClick(id){
-	var width = (menu_count_array[id] + 1)*165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	dt('#'+id).show();
-}
-
-function hideSubMenuOnMouseOut(id){
-	var width = 165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	//dt('#'+id).removeClass('clsSubarrowActive');
-	dt('#a_'+id).parent().removeClass('clsSubarrowActive')
-	dt('#'+id).hide();
-}
-
-
-
-</script> </li>
-      <!-- clsActive clsBigActiveMenu -->
-
-      <li class="clsBigMenu"><a href="/talent/contest/" class="mainMenu" id="competition_menu">CONTESTS</a> <style>
-.smallfont ul{
-float:left;
-}
-.smallfont{
-width:auto !important;
-}
-</style>
-<div class="clsRightDrop" id="dtmenu_competition_menu" style="display:none; z-index:9999">
-  <div class="clsLeftDrop">
-    <div class="clsMiddleDrop">
-      <ul class="subMenu">
-        			
-		<li class="clsSubarrow"><a id="a_submenuitem_Live" href="javascript: void 0" onmouseover="showSubMenuOnClick('submenuitem_Live')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Live')">Live</a></li>	
-		      <script>
-	  menu_array['submenuitem_Live'] = 'dtmenu_competition_menu';
-	  </script>
-        
-        			
-		<li class="clsSubarrow"><a id="a_submenuitem_Previous" href="javascript: void 0" onmouseover="showSubMenuOnClick('submenuitem_Previous')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Previous')">Previous</a></li>	
-		      <script>
-	  menu_array['submenuitem_Previous'] = 'dtmenu_competition_menu';
-	  </script>
-        
-              </ul>
-		<div class="smallfont subMenu" id="submenuitem_Live" style="height:200px;" onmouseover="showSubMenuOnClick('submenuitem_Live')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Live')">
-	<ul>
-		        <li><a href="/talent/contest/Michael+Jackson+IS+ALIVE">Michael Jackson IS ALIVE</a></li>
-          	  <script>    
-       menu_count_array['submenuitem_Live'] = 1;
-	  </script> 
-	</ul>
     </div>
-		<div class="smallfont subMenu" id="submenuitem_Previous" style="display:none;height:200px;" onmouseover="showSubMenuOnClick('submenuitem_Previous')" onmouseout="hideSubMenuOnMouseOut('submenuitem_Previous')">
-	<ul>
-		        <li><a href="/talent/contest/Waves+2009">Waves 2009</a></li>
-                <li><a href="/talent/contest/Disha">Disha</a></li>
-                <li><a href="/talent/contest/Anubhav">Anubhav</a></li>
-                <li><a href="/talent/contest/Mount+Carmel">Mount Carmel</a></li>
-                <li><a href="/talent/contest/IIMB+-+Unmaad">IIMB - Unmaad</a></li>
-                <li><a href="/talent/contest/Dhwani">Dhwani</a></li>
-        </ul><ul>        <li><a href="/talent/contest/Mood+Indigo">Mood Indigo</a></li>
-          	  <script>    
-       menu_count_array['submenuitem_Previous'] = 2;
-	  </script> 
-	</ul>
-    </div>
-	    </div>
-  </div>
-</div>
-<script>
-function showSubMenuOnClick(id){
-	var width = (menu_count_array[id] + 1)*165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	dt('#'+id).show();
-}
-
-function hideSubMenuOnMouseOut(id){
-	var width = 165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	//dt('#'+id).removeClass('clsSubarrowActive');
-	dt('#a_'+id).parent().removeClass('clsSubarrowActive')
-	dt('#'+id).hide();
-}
-
-
-
-</script> </li>
-     <!-- <li class="clsBigMenu"><a href="" class="mainMenu" id="competition_menu">CONTESTS</a>  </li>-->
-
-      <li class="clsBigMenu"><a href="http://www.desitara.com/communities" class="mainMenu" id="community_menu">COMMUNITY</a><style>
-.smallfont ul{
-float:left;
-}
-.smallfont{
-width:auto !important;
-}
-</style>
-<div class="clsRightDrop" id="dtmenu_community_menu" style="display:none; z-index:9999">
-  <div class="clsLeftDrop">
-    <div class="clsMiddleDrop">
-      <ul class="subMenu">
-                <li><a href="/groups/index">Groups</a></li>
-              <script>
-	  menu_array['submenuitem_Groups'] = 'dtmenu_community_menu';
-	  </script>
-        
-                <li><a href="/events/index">Events</a></li>
-              <script>
-	  menu_array['submenuitem_Events'] = 'dtmenu_community_menu';
-	  </script>
-        
-                <li><a href="/forums">Forums</a></li>
-              <script>
-	  menu_array['submenuitem_Forums'] = 'dtmenu_community_menu';
-	  </script>
-        
-                <li><a href="/blogs">Blogs</a></li>
-              <script>
-	  menu_array['submenuitem_Blogs'] = 'dtmenu_community_menu';
-	  </script>
-        
-              </ul>
-	    </div>
-  </div>
-</div>
-<script>
-function showSubMenuOnClick(id){
-	var width = (menu_count_array[id] + 1)*165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	dt('#'+id).show();
-}
-
-function hideSubMenuOnMouseOut(id){
-	var width = 165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	//dt('#'+id).removeClass('clsSubarrowActive');
-	dt('#a_'+id).parent().removeClass('clsSubarrowActive')
-	dt('#'+id).hide();
-}
-
-
-
-</script> </li>
-      <li class="clsBigMenu"><a href="/users" class="mainMenu" id="members_menu">MEMBERS</a><style>
-.smallfont ul{
-float:left;
-}
-.smallfont{
-width:auto !important;
-}
-</style>
-<div class="clsRightDrop" id="dtmenu_members_menu" style="display:none; z-index:9999">
-  <div class="clsLeftDrop">
-    <div class="clsMiddleDrop">
-      <ul class="subMenu">
-                <li><a href="/users/recent">Recent Members</a></li>
-              <script>
-	  menu_array['submenuitem_Recent_Members'] = 'dtmenu_members_menu';
-	  </script>
-        
-                <li><a href="/users/popular">Popular Members</a></li>
-              <script>
-	  menu_array['submenuitem_Popular_Members'] = 'dtmenu_members_menu';
-	  </script>
-        
-                <li><a href="/users/myfriends">My Friends</a></li>
-              <script>
-	  menu_array['submenuitem_My_Friends'] = 'dtmenu_members_menu';
-	  </script>
-        
-              </ul>
-	    </div>
-  </div>
-</div>
-<script>
-function showSubMenuOnClick(id){
-	var width = (menu_count_array[id] + 1)*165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	dt('#'+id).show();
-}
-
-function hideSubMenuOnMouseOut(id){
-	var width = 165;
-	var menu_id = menu_array[id]; //.replace("dtmenu_","")
-	if(isIE6())
-	dt('#'+menu_id).css('width',width+'px');
-	
-	dt('.smallfont').hide();
-	//dt('#'+id).removeClass('clsSubarrowActive');
-	dt('#a_'+id).parent().removeClass('clsSubarrowActive')
-	dt('#'+id).hide();
-}
-
-
-
-</script></li>
-    </ul>
-    <div class="clsUpload"> <a href="/users/upload">UPLOAD</a> </div>
+    <!-- header2 container ends -->
   </div>
   <!-- end of SubHeader -->
-  <div id="staticpages_view">
-    <!-- BottomContent -->
-    <div class="clsBottomContent">
-      <!-- TopContent -->
-      <div class="clsTopContent ">
-        <div class="clsMiddleContent">
-          <!-- end of TopContent -->
-          <div id="mainBody">
-
-            <div class="clsBody">
-              <div class="clsContentArea clsMargin clsClearFix">
-			                 <!-- start of sidebar -->
-            					<script>
+  <div id="staticpages_view" class="contentbar">
+        <!-- start of sidebar -->
+    <div id="sidebar"><div style="margin-left: 10px;"></div><div>&nbsp;</div>					<script>
 						 var subtitlesidebar = '';
 						</script>
 
-<link rel="stylesheet" type="text/css" href="http://images.desitara.com/cssv3/css/sidebar.css">						<script>
-						 subtitlesidebar = 'sideBarSubTitle_1';
-						</script>
-					<div id="sidebar"><h3 class="sidebarmenu clsClosedBlue sideBarSubTitle_0"><a href="javascript:void 0;">Quick Links</a></h3><ul class="clsSubTitle "><li class=""><a href="/aboutus">About Us</a></li><li class=""><a href="/contactus">Contact Us</a></li><li class=""><a href="/advertise">Advertise</a></li><li class=""><a href="/press">Press</a></li><li class=""><a href="/jobs">Jobs</a></li><li class="clsActiveNormalMenu"><a href="/privacypolicy">Privacy Policy</a></li><li class=""><a href="/termsofuse">Terms of Use</a></li><li class=" clsMenuNoBorder"><a href="/faq">FAQ</a></li></ul><iframe src="/ads/sidebarbanner/" width="260" height="270" frameborder="0" scrolling="no"></iframe></div>            <!-- end of sidebar -->
-                                 <link rel="stylesheet" type="text/css" href="http://images.desitara.com/cssv3/css/footerlinks/PrivacyPolicy.css">
+<link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/sidebar.css"><h3 class="sidebarmenu clsClosedBlue sideBarSubTitle_0"><a href="javascript:void 0;">Quick Links</a></h3><ul class="clsSubTitle "><li class=""><a href="/aboutus">About Us</a></li><li class=""><a href="/contactus">Contact Us</a></li><li class=""><a href="/advertise">Advertise</a></li><li class=""><a href="/press">Press</a></li><li class=""><a href="/jobs">Jobs</a></li><li class="clsActiveNormalMenu"><a href="/privacypolicy">Privacy Policy</a></li><li class=""><a href="/termsofuse">Terms of Use</a></li><li class=""><a href="/faq">FAQ</a></li><li class=" clsMenuNoBorder"><a href="/links">Links</a></li></ul><div>&nbsp;</div><div style="margin-left: 60px;"><!--Iframe Tag  -->
+<!-- begin ZEDO for channel: Listing page , publisher: Sidebar , Ad Dimension: Wide Skyscraper - 160 x 600 -->
+<iframe src="http://d8.zedo.com/jsc/d8/ff2.html?n=1094;c=10;s=9;d=7;w=160;h=600" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="160" height="600"></iframe>
+<!-- end ZEDO for channel: Listing page , publisher: Sidebar , Ad Dimension: Wide Skyscraper - 160 x 600 --></div></div>    <!-- end of sidebar -->
+         <link rel="stylesheet" type="text/css" href="http://images.desitara.com/css_v3/css/footerlinks/PrivacyPolicy.css">
  <div class="clsGroupList">
           <h1>Desitara Privacy Policies</h1>
 <!-- end of GroupList -->
@@ -609,45 +360,41 @@ function hideSubMenuOnMouseOut(id){
 
 
 </div>
-<!-- end of PressRelease -->               </div>
-              <div> &nbsp; </div>
-				  <!-- ledger board banner -->
-	              <div align="center">
-	              	<iframe src="http://d8.zedo.com/jsc/d8/ff2.html?n=1094;c=8;s=6;d=14;w=728;h=90" frameborder="0" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true" width="728" height="90"></iframe>	              </div>
-	              <!-- ledger board banner -->
-	              <div> &nbsp; </div>
-            </div>
+<!-- end of PressRelease -->     <!-- ledger board banner -->
+    <div align="center" class="clsBottomAdvertisement">
           </div>
-        </div>
-      </div>
-    </div>
+    <!-- ledger board banner -->
     <!-- end of BottomContent -->
   </div>
   <!-- end of ContentArea -->
-  <!-- Footer -->
-  <div id="fotter" class="clsClearFix">
-    <div class="clsLeftFooter">
-      <ul>
-        <li class="clsConnect">Connect<span class="clsFilms">Films</span> Media</li>
-        <li><a href="http://www.sladgroup.com/" target="_blank">S.Lad Group</a></li>
-      </ul>
-    </div>
-    <div class="clsRightFooter">
-      <ul class="clsClearFix">
-        <li><a href="/aboutus">ABOUT US</a></li>
-        <li> <a href="/contactus">CONTACT</a> </li>
-        <li> <a href="/advertise">ADVERTISE</a> </li>
-        <li><a href="/jobs">JOBS</a></li>
-        <li><a href="/press">PRESS</a></li>
-        <li><a href="/privacypolicy">PRIVACY POLICY</a></li>
-        <li><a href="/termsofuse">TERMS OF USE</a></li>
-        <li><a href="/faq">FAQ</a></li>
-      </ul>
-    </div>
-  </div>
-  <!-- end of Footer -->
 </div>
 <!-- end of clsCommonBody -->
+<!-- Footer -->
+<div id="footerbar1">
+  <!-- footer1 container starts -->
+  <div id="footer1">
+    <!-- footer2 -->
+    <div class="widget" id="footer2">
+      <!-- company name -->
+      <div id="companyname_widget" class="widget "><p>Connect<span class="clsFilms">Films</span> Media&nbsp;&nbsp;<a href="http://www.sladgroup.com" target="_blank">S.Lad Group</a></p></div>      <!-- end of company name -->
+      <!-- followusicon start -->
+      <div id="followus_widget" class="widget "><!-- title start -->
+  <h1>Follow us on</h1>
+<!-- title end -->
+    <ul>
+    	<li class="item"><a href="http://twitter.com/Desitaracom"><img src="http://images.desitara.com/css_v3/css/theme/site/default/twitter.jpg"></a></li><li class="item"><a href="http://www.youtube.com/user/Desitara1"><img src="http://images.desitara.com/css_v3/css/theme/site/default/youtube.jpg"></a></li><li class="item"><a href="http://www.facebook.com/pages/Desitaracom-Be-a-Star/198248123142"><img src="http://images.desitara.com/css_v3/css/theme/site/default/facebook.jpg"></a></li><li class="item"><a href="http://www.myspace.com/desitara.com"><img src="http://images.desitara.com/css_v3/css/theme/site/default/myspace.jpg"></a></li>	
+    </ul></div>      <!-- followusicon end -->
+    </div>
+    <!-- end of footer2 -->
+    <!-- footermenu -->
+    <div id="footermenu_widget" class="widget "><ul>
+
+<li class="item"><a href="/">Desitara</a><ul><li class="item"><a href="/aboutus">About Us</a></li><li class="item"><a href="/contactus">Contact Us</a></li><li class="item"><a href="/advertise">Advertise</a></li><li class="item"><a href="/jobs">Jobs</a></li><li class="item"><a href="/press">Press</a></li></ul> </li><li class="item"><a href="/videos/talent">Videos</a><ul><li class="item"><a href="/videos/talent">Talent</a></li><li class="item"><a href="/videos/channel">Channels</a></li><li class="item"><a href="/videos/contest">Contests</a></li><li class="item"><a href="/videos/group/recent">Groups</a></li><li class="item"><a href="/videos/event/recent">Events</a></li></ul> </li><li class="item"><a href="/communities">Community</a><ul><li class="item"><a href="/groups">Groups</a></li><li class="item"><a href="/events">Events</a></li><li class="item"><a href="/forums">Forums</a></li><li class="item"><a href="/blogs">Blogs</a></li></ul> </li><li class="item"><a href="/">Help Center</a><ul><li class="item"><a href="/privacypolicy">Privacy Policy</a></li><li class="item"><a href="/termsofuse">Terms of Use</a></li><li class="item"><a href="/faq">FAQ</a></li><li class="item"><a href="/links">Links</a></li></ul> </li>	
+</ul></div>    <!-- end of footermenu -->
+  </div>
+  <!-- footer1 container end-->
+</div>
+<!-- end of Footer -->
 <!-- start of ads -->
 <script type="text/javascript">
 
@@ -686,29 +433,40 @@ piwik_log(piwik_action_name, piwik_idsite, piwik_url);
 </object>
 </a>
 <!-- /Piwik -->
+<!-- Start Quantcast tag -->
+<script type="text/javascript">
+_qoptions={
+qacct:"p-bezdvFKlmTQ7A"
+};
+</script>
+<script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+<noscript>
+<img src="http://pixel.quantserve.com/pixel/p-bezdvFKlmTQ7A.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+</noscript>
+<!-- End Quantcast tag -->
 <!-- end of ads -->
 <script>
-	function isIE6()
-	{
-		if (/MSIE (\d+\.\d+);/.test(navigator.userAgent))
-		{ //test for MSIE x.x;
-		 var ieversion=new Number(RegExp.$1) // capture x.x portion and store as a number
-		 if (ieversion<=6) return true;
-		 else return false;
-		}
-	}
+	
 
 var htmlMenuObject;
 var htmlMenuHideObject;
 dt(document).ready(function() {
+ dt.ajaxSetup({
+   cache: false
+ });
+
 	var options = dt.extend({title: "Desitara",show:false,draggable:true,closeable:true,center:true,modal:true}, options || {});
 	dt.loginDialog = new Boxy(dt.loadingMessage, options);
 
+	var friendoptions = dt.extend({title: "Desitara",show:false,draggable:false,closeable:true,center:true,modal:true}, friendoptions || {});
+	dt.friendDialog = new Boxy(dt.loadingMessage, friendoptions); 	
+	
 	dt('.cls_Login').click(function(){
-		dt.loginDialog.setContent(dt.loadingMessage)
-		dt.loginDialog.show();		
-		dt.loginDialog.setContent(dt('#login_boxy_box').html());
-		dt.loginDialog.center();
+		//dt.loginDialog.setContent(dt.loadingMessage)
+		//dt.loginDialog.show();		
+		//dt.loginDialog.setContent(dt('#loginboxtextarea').text());		
+		//dt.loginDialog.center();
+		dt.callLogin();
 		return false;
 	});
 
@@ -727,60 +485,124 @@ dt(document).ready(function() {
  if(isIE6())
  dt('.smallfont').hide();
 
- dt('.clsRightDrop').mouseover(function(){
- 	dt(this).show().parent().children('a').addClass('clsActive');
+
+
+ dt('.clsRightDrop').mouseover(function(e){
+		dt(this).show().parent().children('a').addClass('clsActive');
  });
 
- dt('.clsRightDrop').mouseout(function(){
- 	dt('#'+dt(this).attr('id').replace("dtmenu_","")).removeClass('clsActive');
-	dt(this).hide();
+ dt('.clsRightDrop').mouseout(function(e){
+	var tg = (window.event) ? e.srcElement : e.target;
+	if(tg.className == 'clsRightDrop' || tg.className == 'clsLeftDrop' || tg.className == 'clsMiddleDrop'){
+		dt('#'+dt(this).attr('id').replace("dtmenu_","")).removeClass('clsActive');
+		dt(this).hide();
+	}
  });
 
- dt('.mainMenu').mouseover(function(){
+dt('#Header').mouseover(function(){
+	dt('.clsRightDrop').hide();
+})
+
+ dt('.mainMenu').mouseover(function(e){
+ 	dt('.mainMenu').removeClass('clsActive');
+	dt('.clsRightDrop').hide();
  	dt(this).addClass('clsActive');
 	dt('#dtmenu_'+dt(this).attr('id')).show();
+	//temp = dt(this).attr('id').offset()
+	pos = dt('#'+dt(this).attr('id')).offset();
+	dt('#dtmenu_'+dt(this).attr('id')).css( { "left": (pos.left) + "px"} );
  });
 
- dt('.mainMenu').mouseout(function(){
+ dt('.mainMenu').mouseout(function(e){
+
  	dt(this).removeClass('clsActive');
 	dt('#dtmenu_'+dt(this).attr('id')).hide();
  })
 
- dt('.smallfont').mouseover(function(){
+ dt('.smallfont').mouseover(function(e){
+ 	var tg = (window.event) ? e.srcElement : e.target;
+	if(tg.className!='smallfont') return false;
+ 	dt(this).show();
  	var id = dt(this).attr('id');
 	id = '#a_'+id;
 	dt('.clsSubarrow a').parent().removeClass('clsSubarrowActive');
 	dt(id).parent().addClass('clsSubarrowActive');
  });
 
-	dt('.clsSubarrow a').mouseover(function(){
+	dt('.normal_links').hover(
+		function(e){
+			var tg = (window.event) ? e.srcElement : e.target;
+			if(tg.className!='normal_links') return false;
+			dt('.smallfont').hide();
+			dt('.clsSubarrow').removeClass('clsSubarrowActive')
+		},
+		function(e){
+			var tg = (window.event) ? e.srcElement : e.target;
+			if(tg.className!='normal_links') return false;
+			dt('.smallfont').hide();
+			dt('.clsSubarrow').removeClass('clsSubarrowActive')
+		}
+	)
+	dt('.clsSubarrow a').mouseover(function(e){
+		var tg = (window.event) ? e.srcElement : e.target;
+		if(tg.parentNode.className!='clsSubarrow') return false;
+
 		dt('.clsSubarrow').removeClass('clsSubarrowActive');
 		dt(this).parent().addClass('clsSubarrowActive');
 	});
-
 	dt('#sidebar').accordion({
 		header: '.sidebarmenu',
 		event: 'mouseover',
-	//		active: '.'+subtitlesidebar,
-		selectedClass: 'selected',
+				active: '.sideBarSubTitle_0',
+				selectedClass: 'selected',
 		autoheight: false
 	});
-
-
+dt('#desitchat_optionsbutton').prepend('<span class="desitchat_tab_notification">Login to chat</span>');
 });
 
 function listenQuery(hash){
 
 }
 
-</script>
+ try {
+   document.execCommand('BackgroundImageCache', false, true);
+ } catch(e) {}
+ 
+function showSubMenuOnClick(id,e,do_action){
+	if (!e) var e = window.event;
+	var tg = (window.event) ? e.srcElement : e.target;
 
+	if(tg.parentNode.className =='clsSubarrow' || tg.className=='smallfont'){
+		var width = (menu_count_array[id] + 1)*168;
+		var menu_id = menu_array[id]; //.replace("dtmenu_","")
+		if(isIE6())
+		dt('#'+menu_id).css('width',width+'px');
+
+		dt('.smallfont').hide();
+		dt('#'+id).show();
+	}
+}
+
+function hideSubMenuOnMouseOut(id,e,do_action){
+	if (!e) var e = window.event;
+	var tg = (window.event) ? e.srcElement : e.target;
+
+	if(tg.parentNode.className =='clsSubarrow' || tg.className=='smallfont'){
+		var width = 165;
+		var menu_id = menu_array[id]; //.replace("dtmenu_","")
+		if(isIE6())
+		dt('#'+menu_id).css('width',width+'px');
+
+		dt('.smallfont').hide();
+		//dt('#'+id).removeClass('clsSubarrowActive');
+		dt('#a_'+id).parent().removeClass('clsSubarrowActive')
+		dt('#'+id).hide();
+	}
+}
+</script>
 <script>
-      try {
-      document.execCommand('BackgroundImageCache', false, true);
-      } catch(e) {}
-</script>
-
+							
+	</script>
 
 
 </body></html>
