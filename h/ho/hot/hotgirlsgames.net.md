@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2009-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091123110843id_/http%3A//www.hotgirlsgames.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotgirlsgames.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211736id_/http%3A//www.hotgirlsgames.net/privacy.php) for the most accurate reproduction.*
 
 # Our privacy
 
