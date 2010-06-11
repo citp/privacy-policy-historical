@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204111046id_/http%3A//www.peopleofwalmart.com/%3Fpage_id%3D6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleofwalmart.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611164059id_/http%3A//www.peopleofwalmart.com/%3Fpage_id%3D6) for the most accurate reproduction.*
 
-# Privacy Policy | www.peopleofwalmart.com
+# Funny Pictures at WalMart Privacy Policy
 
 **PRIVACY STATEMENT**
 
@@ -105,5 +105,3 @@ ALA is the owner of this Website and retains all ownership rights to the informa
 **ARTICLE 15.   European Union and Other Foreign Nations**
 
 15.1        This Website is governed by and operated in accordance with the laws of United States of America and is intended for enjoyment of residents of the United States.  ALA makes no representation that this Website is governed by or operated in accordance with the laws of other nations.  By using this Website and submitting any personal information, visitors from outside of the United States acknowledge the this Website is subject to U.S. law, consent to the transfer of personal data to the U.S., and waive any claims that may arise under their own national laws.
-
-In: [Uncategorized](http://www.peopleofwalmart.com/?cat=1 "View all posts in Uncategorized") | | [#](http://www.peopleofwalmart.com/?page_id=6 "Permanent Link to Privacy Policy")
