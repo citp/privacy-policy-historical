@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the revenue.net privacy policy that was archived on 2008-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080513225936id_/http%3A//www.revenue.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revenue.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611205936id_/http%3A//revenue.net/privacy.php) for the most accurate reproduction.*
 
 # :: Revenue.net :: Direct Navigation Search Marketing ::
 
