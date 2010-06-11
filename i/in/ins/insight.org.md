@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209112253id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insight.org privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611020724id_/http%3A//www.insight.org/general/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Privacy Policy
 
 has created this Privacy Policy to explain why we collect particular information and how we will protect your personal privacy within our Web site. The following discloses our information gathering and dissemination practices for the Web site located at the URL .
 
@@ -17,9 +15,7 @@ Because we want to demonstrate our commitment to your privacy, this Privacy Poli
 6\. What kind of security procedures are in place to protect the loss, misuse, or alteration of information under our control;   
 7\. How you can correct any inaccuracies in your information. 
 
-Questions regarding this statement should be directed to 
-
-by clicking [here](http://www.insight.org/contact/email.html). 
+Questions regarding this statement should be directed to by clicking [here](http://www.insight.org/contact/email.html). 
 
 **What Information We Collect and How We Use That Information** :   
 Our registration forms require users to give us contact information that may include name, e-mail address, format preference (HTML vs. Text), address, interests, and similar information. We do not request or store sensitive information from our visitors, such as credit card or social security numbers. 
@@ -33,23 +29,13 @@ Our Site may use cookies to enhance your experience while using our Site. Cookie
 Your browser is probably set to accept cookies. However, if you would prefer not to receive cookies, you can alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our Site will not function properly when you view them. 
 
 **Security** :   
-All information provided to 
-
-is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of 
-
-. Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
+All information provided to is transmitted using SSL (Secure Socket Layer) encryption. SSL is a proven coding system that lets your browser automatically encrypt, or scramble, data before you send it to us. We also protect account information by placing it on a secure portion of our Site that is only accessible by certain qualified employees of . Unfortunately, however, no data transmission over the Internet is 100% secure. While we strive to protect your information, we cannot ensure or warrant the security of such information. 
 
 **Tell-A-Friend** :   
-If a user elects to use our referral service for informing a friend about our Site, we ask him or her for the friend's name and e-mail address. 
-
-will automatically send the friend a one-time e-mail inviting them to visit the Site. 
-
-stores this information for the sole purpose of sending this one-time e-mail. 
+If a user elects to use our referral service for informing a friend about our Site, we ask him or her for the friend's name and e-mail address. will automatically send the friend a one-time e-mail inviting them to visit the Site. stores this information for the sole purpose of sending this one-time e-mail. 
 
 **Other Web Sites** :   
-Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which 
-
-has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different from ours. 
+Our Site contains links to other Web sites. Please note that when you click on one of these links, you are entering another Web site for which has no responsibility. We encourage you to read the privacy statements on all such sites as their policies may be different from ours. 
 
 **Contacting the Web Site** :   
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, you can contact us by [e-mail,](http://www.insight.org/contact/email.html) [phone](http://www.insight.org/contact/phone.html), or [mail](http://www.insight.org/contact/phone.html). 
