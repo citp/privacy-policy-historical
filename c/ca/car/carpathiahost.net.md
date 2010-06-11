@@ -1,34 +1,44 @@
-> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2007-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070714143037id_/http%3A//www.carpathiahost.net/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carpathiahost.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212703id_/http%3A//carpathiahost.net/privacy-policy) for the most accurate reproduction.*
 
-# Carpathia Hosting, Inc. | PRIVACY POLICY
+# Carpathia Managed Hosting - Privacy Policy
 
-### PRIVACY POLICY
+Carpathia Hosting, Inc. and our affiliated companies (“Carpathia”) are committed to respecting the online privacy of the users of Carpathia’s websites (“Users”). Carpathia recognizes Users need for appropriate protection of any personally identifiable information Personally Identifiable Information given to or obtained by Carpathia. Therefore, Carpathia shall adhere to the following privacy policy (“Privacy Policy”) so Users know how Carpathia intends to treat Users’ Personally Identifiable Information.
 
-By accessing or using the Carpathia Hosting, Inc.'s or ProHosters' (collectively referred to as "Company" or "We") web site, you agree to the terms of the Company Privacy Policy, as outlined below. If you do not agree to these terms, please do not access or use this site. Company reserves the right to change its Privacy Policy from time to time at its sole discretion. Your use of this site will be subject to the most current version of the Privacy Policy at the time of such use.
+Personally Identifiable Information means any information that there is a reasonable basis to believe may be used to identify, distinguish or trace a User individually. Carpathia uses reasonable efforts to comply with all applicable laws around the world that are designed to protect the privacy of Personally Identifiable Information. 
 
-Collection of personal information  
-When you engage in certain activities on this site, such as ordering products, downloading software, or entering contests, Company may ask you to provide certain information about yourself by filling out and submitting an online form. It is completely optional for you to engage in these activities. If you elect to engage in these activities, however, Company may ask that you provide us personal information, such as your first and last name, mailing address (including zip code), e-mail address, employer, job title and department, telephone and facsimile numbers, and other personal identifying information. When ordering products or services on the site, you may be asked to provide a credit card number. Depending upon the activity, some of the information that we ask you to provide is identified as mandatory and some as voluntary. If you do not provide the mandatory data with respect to a particular activity, you will not be able to engage in that activity. 
+Carpathia uses reasonable efforts to comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view the company’s certification, please visit http://www.export.gov/safeharbor/.  
 
-In the process of administering our site, we maintain and track usage through Web server logs. Web server logs provide such information as what types of browsers are accessing our site, what pages receive high traffic, and the times of day our servers experience significant load. We use this information to improve the content and navigation features of our site. It is not used to personally identify you.
 
-How your personal information is used  
-Company collects your information in order to record and support your participation in the activities you select. The information that you provide is also used as part of our effort to keep you informed about special offers and other products and services of Company and selected third parties. 
+1.  Notice:   
+Carpathia receives Personally Identifiable Information from prospective customers and other persons located in the European Union who may be interested in a business relationship with Carpathia.  This Personally Identifiable Information comes from website visits, email, live chat and other means.  Carpathia uses this Personally Identifiable Information to contact those persons about potential business transactions, for operations purposes and to improve the way our services are marketed.
 
-How we share your personal information  
-We will not sell, rent or lease to others telephone numbers or e-mail addresses. We will share the personal data you provide only with other Company entities and/or business partners who are acting on our behalf for the uses described above, except as provided below (see Consent).
+  
+When Carpathia collects Personally Identifiable Information on the web, Carpathia intends to post a notice to the User explaining the purpose of collecting Personally Identifiable Information  and whether Carpathia plans to transfer such Personally Identifiable Information with a third party. Carpathia does not intend to transfer to third parties (unless such third party is acting on Carpathia’s behalf) Personally Identifiable Information without the consent of the User except when the transfer of such Personally Identifiable Information is legally required. 
 
-Consent  
-Company will use and share the personally identifiable information you provided to us in ways related to those described above. We reserve the right to disclose any and all pertinent customer information to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate.
+Where and how we capture data:  
+Some of Carpathia’s web pages use “cookies” or other tracking technologies. A “cookie” is a binary file Carpathia uses to recall information, which may include Personally Identifiable Information, previously provided by a User so that the User is not required to provide the information again when navigating a Carpathia web site. Users may be able to configure their internet browsers to notify the User if they’ve received a cookie and/or block the cookie. Users who choose not to accept cookies may be unable to access certain options, offers, and services that involve Carpathia interaction with that User. Tracking technologies may record information such as internet domain and host names; Internet protocol (IP) addresses; browser software and operating system types; clickstream patterns; and dates and times that the Carpathia sites are accessed. Carpathia uses cookies and other tracking technologies to improve Carpathia’s web site and Users’ web experience. Carpathia may also analyze information that does not contain PII for trends and statistics.
 
-Reprinting personal information  
-Please note that any information you post to a public bulletin board or chat room is available to all persons accessing that site.
+Carpathia’s web sites are not structured to attract children and Carpathia does not intend to collect Personally Identifiable Information from any User Carpathia knows to be under 13 years of age.
 
-Privacy related concerns  
-Should you have questions or concerns relating to this Privacy Statement or compliance with it, please send e-mail to: [info@carpathiahost.com](mailto:info@carpathiahost.com)
+2\. Choice:   
+Users may choose (opt out) whether or not to provide Personally Identifiable Information to Carpathia. The notice Carpathia intends to provide is intended to assist the User to make the choice whether or not provide Personally Identifiable Information. Users who choose not to provide Carpathia Personally Identifiable Information may be unable to access certain options, offers, and services that involve Carpathia interaction with that User. 
 
-Safe Harbor  
-Carpathia Hosting adheres to the Safe Harbor privacy principles of the Safe Harbor program administered by the U. S. Department of Commerce.
+  
+3\. Onward Transfer:  
+If a User chooses to provide Carpathia with their Personally Identifiable Information, Carpathia may transfer that Personally Identifiable Information within Carpathia and to Carpathia’s third-party service providers, including across borders, and from a User’s country or jurisdiction to other countries or jurisdictions around the world.  Carpathia does not intend to sell Personally Identifiable Information without the User’s consent. 
 
-  For a free initial consultation with the Carpathia Hosting engineering team, contact sales today.
+4.  Access:  
+Carpathia will allow an individual access to their Personally Identifiable Information and allow the individual to correct, amend or delete inaccurate information, except where the burden or expense of providing access would be disproportionate to the risks to the privacy of the individual in the case in question or where the rights of persons other than the individual would be violated.  Any individual who has provided Personally Identifiable Information to Carpathia may request to correct amend, or delete inaccurate information by contacting Carpathia at [legal@carpathiahost.com](mailto:legal@carpathiahost.com) . 
 
-#### 888.200.9494 or  [Sales@carpathiahost.com](mailto:Sales@carpathiahost.com)
+5.  Security:  
+Wherever Personally Identifiable Information is retained by Carpathia (or by a third party on Carpathia’s behalf), Carpathia intends to take reasonable and appropriate steps to protect the Personally Identifiable Information from loss, misuse and unauthorized access, disclosure, alteration, and destruction.  Carpathia cannot guarantee the security of information on or transmitted over the Internet.  Carpathia may ask Users to provide credit card information through www.prohosters.com and this credit card is encrypted for its protection prior to its transmission over the internet. 
+
+6.  Data Integrity:  
+Carpathia shall only process Personally Identifiable Information in a way that is compatible with and relevant for the purpose for which it was collected or authorized by the individual. To the extent necessary for those purposes, Carpathia shall take reasonable steps to ensure that Personally Identifiable Information is accurate, complete, current and reliable for its intended use.
+
+7.  Enforcement:  
+Carpathia uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Safe Harbor Privacy Principles.
+
+Carpathia's privacy policy directs all individuals with questions and concerns regarding its privacy policy to contact Carpathia for resolution.  In the event the individual is not satisfied with Carpathia's internal dispute resolution process, Carpathia intends to cooperate fully with reasonable requests from the EU Data Protection Authorities.
+
+By using this web site, you consent to the terms of Carpathia’s Privacy Policy and to Carpathia’s processing of Personally Identifiable Information. 
