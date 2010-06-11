@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321053806id_/http%3A//www.guildportal.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guildportal.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611024102id_/http%3A//www.guildportal.com/privacy) for the most accurate reproduction.*
 
-# GuildPortal Guild Hosting and Management - GuildPortal the Leader in Guild Hosting - for World of Warcraft, Warhammer Online, Age of Conan, Lord of the Rings, Everquest and more!
+# GuildPortal Guild Website Hosting - World of Warcraft, EverQuest2, Lord of the Rings, Warhammer, more - GuildPortal the Leader in Guild Hosting
 
 Information Collection
 
