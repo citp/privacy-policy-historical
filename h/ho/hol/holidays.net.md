@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507080310id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidays.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215451id_/http%3A//www.holidays.net/policy.htm) for the most accurate reproduction.*
 
 # Holidays on the Net - Privacy Statement and Policy
 
@@ -21,19 +21,20 @@ Advertisers
 
 We use an outside ad company to display ads on our site. These ads may contain cookies. While we may use cookies in other parts of our Web site, cookies received with banner ads are collected by our ad company, and we do not have access to this information. 
 
+> Update 12/12/09:
+> 
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+
+  
+
+
 Mailing List
 
-Holidays on the Net hosts a number of Newsletters/e-mailing lists that notify our users of upcoming Holidays and celebrations at our website. These mailing lists are "DOUBLE OPT-IN" lists, which means you must first sign up from our website. You will then receive an email sent to the address supplied when subscribing. You need to reply to that email to confirm your wish to join the list. We DO NOT add email address to our lists. 
-
-Current Holiday on the Net newsletters: 
-
-> **Holidays newsletter** (a email "invitation" to the holiday celebrations of each month. Averaging 2 emails a month) 
-
-Holidays on the Net offers this mailing list in association with [Yahoo Groups](http://privacy.yahoo.com/privacy/us/). 
+Holidays on the Net hosts a number of Newsletters/e-mailing and SMS/text lists that notify our users of upcoming Holidays and celebrations at our website. These mailing lists are "DOUBLE OPT-IN" lists, which means you must first sign up from our website. You will then receive an email sent to the address supplied when subscribing. You need to reply to that email to confirm your wish to join the list. We DO NOT add email address to our lists. 
 
 Contact information from the registration form is ONLY used to send information about our website and upcoming holiday celebrations. 
 
-(It is the policy of Holidays on the Net to NEVER sell or exchange members names or email addresses to any other party or organization without the explicit permission of the member. Click to read more of [Yahoo Groups policy](http://www.onelist.com/info/privacy.html)
+(It is the policy of Holidays on the Net to NEVER sell or exchange members names or email addresses to any other party or organization without the explicit permission of the member.
 
 Users may opt-out of receiving future mailings; see the choice/opt-out section below. 
 
@@ -49,7 +50,7 @@ These sites have been chosen because we feel that their content or services are 
 
 Public Forums
 
-This site makes guestbooks available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. (Our guestbooks do NOT disclose email addresses) 
+This site allows comments to be posted by its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. (We do NOT disclose email addresses when a comment is posted) 
 
 Supplementation of Information
 
@@ -59,19 +60,20 @@ Children's Guidelines
 
 This site DOES NOT request information from children in order to use our website. 
 
-  1. This site does allow all visitors, including children, to post to our guestbooks. NO personal information is required or necessary to post to these guestbooks or message boards. 
+  1. This site does allow all visitors, including children, to post to our guestbooks, blog and comment sections. NO personal information is required or necessary to post to these. 
 
-Please note that a copy of EVERY posting to any of our guestbooks is emailed to our office. While we do have filters that scan each posting for offending material, sometimes something slips through. All email copies of guestbook entries are reviewed and an offending posting will be removed as soon as it is possible. 
+Please note that a copy of EVERY posting to any of our guestbooks, blog and comments are emailed to our office. While we do have filters that scan each posting for offending material, sometimes something slips through. All email copies of guestbook, blog and comment entries are reviewed and an offending posting will be removed as soon as it is possible. 
 
 
 
 
 Choice/Opt-Out
 
-Our site provides users the opportunity to opt-out of receiving promotional information from us. 
+Our site provides users who have signed up to receive promotional items the opportunity to opt-out of receiving additional promotional information from us. 
 
-  1. To be removed from any of our newsletters please [unsubscribe here](http://www.holidays.net/hol_listu.htm). (Emails sent via the mailing lists will contain information and/or a link to unsubscribe) 
-  2. You can send email to [holidayboss@holidays.net](mailto:holidayboss@holidays.net)
+  1. To be removed from any of our newsletters just click on the **unsubscribe link** at the bottom of any email you receive from us. Additionally any email will also contain a link to " **Manage My Account** ", which when clicked on will take you to your account management page. From this page you can easily modify or remove yourself from future promotional items.
+  2. To be removed from receiving SMS/text messages just reply with the word "STOP".
+  3. Additionally you can send email to [holidayboss@holidays.net](mailto:holidayboss@holidays.net)
 
 
 
@@ -83,7 +85,7 @@ THIS SITE DOES NOT SEND SPAM! End of policy!
 
 > _Email spoofing may occur in different forms, but all have a similar result: a user receives email that appears to have originated from one source when it actually was sent from another source. Email spoofing is often an attempt to trick the user..._
 
-From the the CERT® Coordination Center website (a center of Internet security expertise). For more information on "email spoofing" please visit their [website](http://www.cert.org/tech_tips/email_spoofing.html)
+From the CERT® Coordination Center website (a center of Internet security expertise). For more information on "email spoofing" please visit their [website](http://www.cert.org/tech_tips/email_spoofing.html)
 
 
 
