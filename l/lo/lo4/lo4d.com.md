@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127130842id_/http%3A//www.canadiancontent.net/corp/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lo4d.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210515id_/http%3A//www.canadiancontent.net/corp/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
