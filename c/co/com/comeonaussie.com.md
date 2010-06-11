@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comeonaussie.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/privacy.html) for the most accurate reproduction.*
 
 # Come On Aussie Internet - Privacy Statement
 
@@ -9,17 +9,17 @@ Internet Services
 
 • [Domain Names](http://domains.comeonaussie.net.au/)
 
-• [Web Hosting](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/web_hosting.html)
+• [Web Hosting](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/web_hosting.html)
 
 • [Web Design](http://www.ozsmallbiz.net/hosting/special1.html)
 
-• [Web Site Promotion](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/web_site_promotion.html)
+• [Web Site Promotion](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/web_site_promotion.html)
 
-• [Support](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/support.html)
+• [Support](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/support.html)
 
-• [Contact](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/contact.html)
+• [Contact](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/contact.html)
 
-• [Privacy](https://web.archive.org/web/20091214200853id_/http%3A//www.comeonaussie.net/privacy.html)
+• [Privacy](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/privacy.html)
 
 |  **Explore A Little Part of _OUR_ Web**  
 ---  
@@ -28,9 +28,9 @@ Internet Services
 
 The privacy of our visitors to all sites managed by Come On Aussie Internet Services is important to us.
 
-Here is information on what types of personal information we receive and collect when you use and visit sites belonging to Come On Aussie Internet Services, and how we safeguard your information.
+Here is information on the types of personal information we receive and collect when you use and visit sites belonging to Come On Aussie Internet Services, and how we safeguard your information.
 
-We never sell your personal information to third parties.
+We never sell, rent or lend out your personal information to third parties.
 
 **Log Files**
 
@@ -40,9 +40,17 @@ Log files do NOT collect any personally identifiable information - i.e. we can n
 
 **Our Listing Services**
 
-If you use any of our web sites listing services at our directories, please recognise that ALL business information you provide on the submission form can be made publically available, but ONLY on your special listing page for each site submitted. If you do not wish your business contact information to be made available, please do not use our services.
+If you use any of our web site listing services at our directories, please recognise that **ALL business information** you provide on the submission form can be made publically available, but ONLY on your special listing page for each site submitted. If you do not wish your business contact information to be made available, please do not use our services.
 
 As a subscriber to our listing services, you can expect to receive occasional email bulletins from us regarding your use of that service. If you do not want to receive these emails, you can use the unsubscribe link provided at the bottom of each email, or simply reply to the email requesting you be unsubscribed.
+
+**Email Subscriptions**
+
+If you subscribe to any of our services which require submission of your email address, please be assured that your details are kept private. Your details are not sold or rented to any other people. They are used ONLY by us to provide the service requested by you. 
+
+All our email subscriptions go through a **double opt-in process** which confirms you are the actual person requesting the provision of the service. We record all the details including the date/time and IP address associated with that subscription in the event of any complaints.
+
+If you no longer require your subscription, please **use the unsubscribe link included at the bottom of every email** sent to remove yourself from that list, or simply reply to the email requesting you be unsubscribed. Alternatively send your request to us using the address provided on our [contact page](https://web.archive.org/web/20100611214009id_/http%3A//www.comeonaussie.net/contact.html)
 
 **Cookies and Web Beacons**
 
