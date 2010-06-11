@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2009-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091108092413id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradeholding.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611224429id_/http%3A//www.tradeholding.net/default.cgi/action/privacypolicy) for the most accurate reproduction.*
 
 # UK Business Directory - B2B Marketplace, Company Directory, Trade Leads and Product Catalogs - www.TradeHolding.net
 
@@ -18,7 +18,7 @@ Your www.TradeHolding.net and TradeHolding.com B2B Network Account Information a
 
 **PUBLISHING INFORMATION**  
 Company Description, Trade Lead Publishing and Product Detail Publishing:  
-All of your Publishing Information will be publicly available on www.TradeHolding.net and TradeHolding.com B2B Network and therefore accessible by visitors and members.  
+All of your Publishing Information will be publicly available on www.TradeHolding.net and TradeHolding.com B2B Network and therefore accessible by visitors, certain robots and members. The publicly available information can be also cached by search engines and robots and -as we do have no control over these entities- we can not influence the way these details are presented on certain pages / sites / etc. If you ever request your pages to be removed from our sites and servers we will do this but it is your responsibilitry to remove the publicly available information from any third party.  
 Any Publishing Information that you use on www.TradeHolding.net and TradeHolding.com B2B Network forms becomes public information and you respond for them (including but not limited to the rights of confidentiality and copyrights).  
 If you submit any information to www.TradeHolding.net and TradeHolding.com B2B Network to be published on our B2B Network through the publishing forms you are deemed to have given consent to the publication of such information.
 
