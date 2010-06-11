@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photoradar.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214082658id_/http%3A//www.photoradar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photoradar.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612011439id_/http%3A//www.photoradar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PhotoRadar
 
