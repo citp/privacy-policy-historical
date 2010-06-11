@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195244id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyrecipe.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213951id_/http%3A//www.pinoyrecipe.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy by PinoyRecipe.Net
 
 ### PinoyRecipe.net Privacy Policy
 
-PinoyRecipe.net is concerned about your privacy. We do our very best not to infringe upon your freedom to surf the internet. The only information we collect from your surfing is to monitor traffic flow on our sites (which pages are viewed and how often), to maintain security (in case of hacking), and to keep our sites up to date (when broken links are found). IP address is used solely for traffic flow patterns (if there was another way we’d use it - sorry!), browser type/platform is used so we can design our sites so the majority of our visitors can use all of our features - we hate to leave anyone out.
+PinoyRecipe.net is concerned about your privacy. We do our very best not to infringe upon your freedom to surf the internet. The only information we collect from your surfing is to monitor traffic flow on our sites (which pages are viewed and how often), to maintain security (in case of hacking), and to keep our sites up to date (when broken links are found). IP address is used solely for traffic flow patterns (if there was another way we’d use it – sorry!), browser type/platform is used so we can design our sites so the majority of our visitors can use all of our features – we hate to leave anyone out.
 
 We do use third-party advertising to serve ads on our sites. We do share visitor traffic information to our sites with these companies for the sole purpose of managing and targeting advertisements and for market research analysis on our sites. The third-party advertising companies may use pixel tags (also called clear gifs) to note which pages are more popular than others for advertising purposes. In the course of serving advertisements to this site, our third-party advertisers may place or recognize a unique “cookie” on your computer.
 
@@ -20,7 +20,7 @@ No tag for this post.
 
 #### Related Recipes
 
-**No. of Views for this Post:** 2,369 views
+**No. of Views for this Post:** 5,108 views
 
   
 
