@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2009-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090502062415id_/http%3A//www.lemonfree.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemonfree.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611062246id_/http%3A//www.lemonfree.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Lemon Free Classifieds
 
-**(the "Site"). It describes the extent of our responsibilities and visitors to this Site are deemed to accept it. Please review it carefully.**
+**This statement describes our practices with respect to visitors to LemonFree.com (the "Site"). It describes the extent of our responsibilities and visitors to this Site are deemed to accept it. Please review it carefully.**
 
 Privacy Policy
 
