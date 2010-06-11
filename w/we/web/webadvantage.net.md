@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619234241id_/http%3A//www.webadvantage.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webadvantage.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213131id_/http%3A//www.webadvantage.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Web Ad.vantage
 
@@ -15,3 +15,6 @@ Internet ‘cookies’ are used on this website to eliminate certain content, su
 When visiting any Internet site your unique address called an “IP address” is recorded. WebAdvantage.net, Inc. does not release any information about the collection of this address to any third party except under court order. Web Ad.vantage, Inc. archives the log files in order to create aggregate statistical reports, detect errors at the website, and for security reasons. The log files are eventually deleted.
 
 To have personal information removed from the WebAdvantage.net, Inc. database contact [privacy@webadvantage.net](mailto:privacy@webadvantage.net).
+
+  
+
