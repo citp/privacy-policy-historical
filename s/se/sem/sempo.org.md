@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2007-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070613033234id_/http%3A//www.sempo.org/about/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sempo.org privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211556id_/http%3A//www.sempo.org/about/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SEMPO
 
@@ -42,7 +42,7 @@ Personal information is information that is associated with your name or persona
 
 **_Registration_**
 
-Although sections of the web site may be viewed simply by visiting http://www.sempo.org, in order to access some Content and/or additional features offered at the web site, you may need to sign on as a guest or register as a member. Information you provide on the web site may be used to create a member profile. Registration may be necessary so that we can maintain your membership and contact you when necessary regarding your membership or organizational information and in order to ensure the quality of our services. The registration form may require you to choose a member name and password and to provide us with information such as your first and last names, email address, and mailing address. Some information may be shared with other SEMPO individual members and organizations. Member contact information may be provided to other members to encourage and facilitate collaboration, research, and the free exchange of information. Your information may be added to our mailing lists. From time to time, member information may be shared with our affiliated companies, event organizers and/or other organizations that may offer additional benefits to our users. By providing us with your personal information, you expressly grant us and all other persons or entities involved in the operations of web site and our affiliated companies the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the web site. If you do not wish to share your personally identifiable information, you may opt-out of sharing. See the _Choice/Opt-Out_ section below for details. 
+Although sections of the web site may be viewed simply by visiting http://www.sempo.org, in order to access some Content and/or additional features offered at the web site, you may need to sign on as a guest or register as a member. Information you provide on the web site may be used to create a member profile. Registration may be necessary so that we can maintain your membership and contact you when necessary regarding your membership or organizational information and in order to ensure the quality of our services. The registration form may require you to choose a member name and password and to provide us with information such as your first and last names, email address, and mailing address. Some information may be shared with other SEMPO individual members and organizations. Member contact information may be provided to other members to encourage and facilitate collaboration, research, and the free exchange of information. Your information may be added to our mailing lists. From time to time, member information may be shared with our affiliated companies, event organizers and/or other organizations that may offer additional benefits to our users. By providing us with your personal information on the membership application, you expressly consent to our storing, processing and distributing your information for these purposes.  Also, by providing us with your personal information, you expressly grant us and all other persons or entities involved in the operations of web site and our affiliated companies the right to transmit, monitor, retrieve, store, and use your information in connection with the operation of the web site. If you do not wish to share your personally identifiable information, you may opt-out of sharing. See the _Choice/Opt-Out_ section below for details. 
 
 We also collect member's financial information (such as credit card numbers) for processing credit cards during online membership enrollment. This information is passed to a 3rd party credit card processing agency for payment processing.
 
@@ -87,7 +87,7 @@ From time to time SEMPO may email you electronic newsletters, announcements, sur
 
 > _SEMPO  
 >  401 Edgewater Place, Suite 600  
->  Wakefield, MA 01880_
+> Wakefield, MA 01880_
 
 **_Contacting Us_**
 
@@ -100,4 +100,4 @@ If you have any questions about this privacy statement, the practices of this si
 
 > _SEMPO  
 >  401 Edgewater Place, Suite 600  
->  Wakefield, MA 01880_
+> Wakefield, MA 01880_
