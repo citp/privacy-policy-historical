@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215024350id_/http%3A//www.invisalign.com/Sub/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invisalign.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611165421id_/http%3A//www.invisalign.com/Sub/Pages/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## Privacy policy
+### Privacy policy
 
 Align Technology, Inc., manufacturers of the Invisalign®, have created this privacy statement in order to demonstrate our commitment to protecting your personal information. The following discloses our information gathering and dissemination practices for our Internet sites, www.invisalign.com, www.aligntech.com, and for our partners' sites.
 
@@ -43,6 +43,6 @@ Our site provides users the opportunity to opt-out of receiving communications f
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:
 
-Align Technology  
+Align Technology, Inc.  
 881 Martin Ave.  
 Santa Clara, CA 95050
