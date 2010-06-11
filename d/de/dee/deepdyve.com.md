@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2009-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090604031358id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611052643id_/http%3A//www.deepdyve.com/corp/privacy_policy) for the most accurate reproduction.*
 
 # DeepDyve - Privacy Policy
 
