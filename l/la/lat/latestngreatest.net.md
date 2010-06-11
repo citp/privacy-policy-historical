@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latestngreatest.net privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414192344id_/http%3A//www.latestngreatest.net/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latestngreatest.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210417id_/http%3A//www.latestngreatest.net/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -15,7 +15,7 @@ Latestngreatest.net is concerned about your privacy. Please read the following t
 
 
 
-If you have any questions about this privacy statement, or the practices of this site than please [contact us ](https://web.archive.org/web/20090414192344id_/http%3A//www.latestngreatest.net/contact.htm)  
+If you have any questions about this privacy statement, or the practices of this site than please [contact us ](https://web.archive.org/web/20100611210417id_/http%3A//www.latestngreatest.net/contact.htm)  
  
 
 [http://www.latestngreatest.net](http://www.latestngreatest.net/)
