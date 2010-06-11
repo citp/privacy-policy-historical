@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the silverlight.net privacy policy that was archived on 2009-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091115091519id_/http%3A//www.silverlight.net/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the silverlight.net privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611211109id_/http%3A//www.silverlight.net/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
 	Privacy Statement : The Official Microsoft Silverlight Site
 </title><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta name="description" content="Microsoft portal site for the Silverlight development community. Download Silverlight, post to the forums, read Silverlight blogs and learn about Silverlight."><meta name="keywords" content="Silverlight, RIA, Web, HTML, Developer, Internet, Microsoft, Web Services, Visual Studio .NET"><meta name="author" content="Microsoft Silverlight"><meta http-equiv="X-UA-Compatible" content="IE=8">
-        <link rel="stylesheet" media="all" type="text/css" href="http://i2.silverlight.net/resources/style/screen.css?cdn_id=10052009_5">
-        <link rel="stylesheet" media="all" type="text/css" href="http://i1.silverlight.net/resources/style/jquery.modal.css?cdn_id=10052009_5">        
-        <link rel="stylesheet" media="print" type="text/css" href="http://i1.silverlight.net/resources/style/print.css?cdn_id=10052009_5">                
+        <link rel="stylesheet" media="all" type="text/css" href="http://i1.silverlight.net/resources/style/screen.css?cdn_id=05062010">
+        <link rel="stylesheet" media="all" type="text/css" href="http://i1.silverlight.net/resources/style/jquery.modal.css?cdn_id=05062010">        
+        <link rel="stylesheet" media="print" type="text/css" href="http://i1.silverlight.net/resources/style/print.css?cdn_id=05062010">                
         <script src="http://ajax.microsoft.com/ajax/jQuery/jquery-1.3.2.min.js" type="text/javascript"></script>
         <script type="text/javascript" src="/resources/script/core.min.js"></script> 
-        <link rel="shortcut icon" type="image/ico" href="http://i1.silverlight.net/resources/images/icons/favicon.ico?cdn_id=10052009_5"> 
+        <link rel="shortcut icon" type="image/ico" href="http://i2.silverlight.net/resources/images/icons/favicon.ico?cdn_id=05062010"> 
         
         
         <!--[if lte IE 7]>
@@ -28,10 +28,11 @@
 
         <div class="wrapper_all">
             <div class="header">
-                <h1><a href="http://www.silverlight.net">Microsoft Silverlight</a></h1>        	    
+                
+                    <p class="logo"><a href="http://www.silverlight.net">Microsoft Silverlight</a></p>
                 
 
-<script type="text/javascript">$(document).ready(function() { $("#dropdown_language_selector").click(function() { $("div#dropdown_language_wrapper").show(); }); $("#dropdown_language_wrapper").click(function() { $("div#dropdown_language_wrapper").hide(); }); $("ul#dropdown_option_container").hover(function() { $("div#dropdown_language_wrapper").show(); }, function() { $("div#dropdown_language_wrapper").hide(); }); });</script>
+<script type="text/javascript">    hidePopupDelay = 2000; isMouseInDropDown = false; hideTimerId = null; function HideDropDown() { $("div#dropdown_language_wrapper").hide() } function OnTimerEnd() { hideTimerId = null; if (isMouseInDropDown) StartDropDownTimer(); else HideDropDown() } function StartDropDownTimer() { if (hideTimerId) clearTimeout(hideTimerId); hideTimerId = setTimeout(OnTimerEnd, hidePopupDelay) } $(document).ready(function() { $("#dropdown_language_selector").click(function() { $("div#dropdown_language_wrapper").show(); StartDropDownTimer() }); $("#dropdown_language_wrapper").mouseover(function() { isMouseInDropDown = true }); $("#dropdown_language_wrapper").mouseout(function() { isMouseInDropDown = false }); $("#dropdown_language_wrapper").click(function() { $("div#dropdown_language_wrapper").hide() }); $("ul#dropdown_option_container").hover(function() { $("div#dropdown_language_wrapper").show(); StartDropDownTimer() }, HideDropDown) });</script>
 
         <div class="usernav">
             <ul class="usernav-options">                
@@ -42,6 +43,23 @@
     
 <div class="dropdown_language">    
     <a id="dropdown_language_selector" alt="Nav" href="#">English</a>
+
+<div id="dropdown_language_wrapper" style="display:none">
+    <div class="dropdown_language_top"></div>
+        <ul id="dropdown_option_container" class="dropdown_language_options">                    
+            <li class="selected"><a href="">English</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#spanish">Español</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#portuguese">Português</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#korean">한국어</a></li>
+            <li class="dropdown_language_japanese"><a href="http://www.silverlight.net/learn/international/#Japanese"><span>日本語</span></a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#french">Français</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#italian">Italiano</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#german">Deutsch</a></li>
+            <li><a href="http://www.silverlight.net/learn/international/#russian">Русский</a></li>
+            <li class="dropdown_language_chinese"><a href="http://www.silverlight.net/learn/international/#Chinese"><span>汉语</span></a></li>
+		    <li><a href="http://www.silverlight.net/learn/international/#taiwanese">台湾</a></li>
+        </ul>
+    </div>  
 </div>
             </div>                            
             <div class="wrapper_nav">
@@ -49,15 +67,15 @@
                     
         <ul class="main_nav">
     
-        <li><a class="selected" href="/default.aspx"><span>Home</span></a></li>
+        <li><a class="selected" href="/"><span>Home</span></a></li>
     
-        <li><a class="" href="/getstarted/default.aspx"><span>Get Started</span></a></li>
+        <li><a class="" href="/getstarted/"><span>Get Started</span></a></li>
     
-        <li><a class="" href="/learn/default.aspx"><span>Learn</span></a></li>
+        <li><a class="" href="/learn/"><span>Learn</span></a></li>
     
-        <li><a class="" href="/showcase/default.aspx"><span>Showcase</span></a></li>
+        <li><a class="" href="/showcase/"><span>Showcase</span></a></li>
     
-        <li><a class="" href="/community/default.aspx"><span>Community</span></a></li>
+        <li><a class="" href="/community/"><span>Community</span></a></li>
     
         <li><a class="" href="http://forums.silverlight.net/"><span>Forums</span></a></li>
     
@@ -79,7 +97,7 @@
             <p class="banner_header banner_header_breadcrumb">
                 
 
-<iframe width="728px" height="90px" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" src="http://ads.asp.net/a.aspx?ZoneID=401&amp;Task=Get&amp;PageID=81829&amp;SiteID=2"></iframe><a href="http://www.neudesicmediagroup.com/Advertising.aspx"><img src="http://i2.silverlight.net/resources/images/content/misc/placeholder_advertisehere_top.png?cdn_id=10052009_5" alt="Advertise Here"></a>                
+<iframe width="728px" height="90px" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" src="http://ads.asp.net/a.aspx?ZoneID=401&amp;Task=Get&amp;PageID=81829&amp;SiteID=2"></iframe><a href="http://www.neudesicmediagroup.com/Advertising.aspx?site=Silverlight"><img src="http://i3.silverlight.net/resources/images/content/misc/placeholder_advertisehere_top.png?cdn_id=05062010" alt="Advertise Here"></a>                
             </p>
             
             <div class="wrapper_main no_bg full_width">
@@ -171,55 +189,41 @@
                 <p class="ad_footer">
                     
 
-<iframe width="728px" height="90px" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" src="http://ads.asp.net/a.aspx?ZoneID=389&amp;Task=Get&amp;PageID=81829&amp;SiteID=2"></iframe><a href="http://www.neudesicmediagroup.com/Advertising.aspx"><img src="http://i2.silverlight.net/resources/images/content/misc/placeholder_advertisehere.jpg?cdn_id=10052009_5" alt="Advertise Here"></a>
+<iframe width="728px" height="90px" hspace="0" vspace="0" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" allowtransparency="true" src="http://ads.asp.net/a.aspx?ZoneID=389&amp;Task=Get&amp;PageID=81829&amp;SiteID=2"></iframe><a href="http://www.neudesicmediagroup.com/Advertising.aspx?site=Silverlight"><img src="http://i2.silverlight.net/resources/images/content/misc/placeholder_advertisehere.jpg?cdn_id=05062010" alt="Advertise Here"></a>
                 </p>
-                
-                
-
-<iframe height="105" frameborder="0" width="100%" scrolling="no" visible="true" marginwidth="0" marginheight="0" src="/footertextads.aspx"></iframe>
                 
                 <div class="footer">
                     
 
 <p> 
-    <a href="/contact.aspx">Questions/Problems with Silverlight.net?</a> | <a href="http://www.neudesicmediagroup.com/Advertising.aspx">Advertise with us</a>
+    <a href="/contact.aspx">Questions/Problems with Silverlight.net?</a> | <a href="http://www.neudesicmediagroup.com/Advertising.aspx?site=Silverlight">Advertise with us</a>
     <br>All Rights Reserved <a href="/termsofuse.aspx">Terms of Use</a> | <a href="/privacy.aspx">Privacy Statement</a>
-    <br>Copyright © 2009 Microsoft Corporation.</p>
+    <br>Copyright © 2010 Microsoft Corporation.</p>
 <div class="footer_img_links">
-    <a href="http://www.asp.net" title="ASP.net"><img src="http://i2.silverlight.net/resources/images/content/misc/aspnet.png?cdn_id=10052009_5" alt="ASP.net"></a> 
-    <a href="http://www.silverlight.net" title="Silverlight"><img src="http://i1.silverlight.net/resources/images/content/misc/silverlight.png?cdn_id=10052009_5" alt="Silverlight"></a> 
-    <a href="http://channel9.msdn.com" title="Channel 9"> <img src="http://i1.silverlight.net/resources/images/content/misc/channel9.png?cdn_id=10052009_5" alt="Channel 9"></a> 
-    <a href="http://edge.technet.com/" title="Edge Technet"> <img src="http://i2.silverlight.net/resources/images/content/misc/technet.png?cdn_id=10052009_5" alt="Edge Technet"></a> 
-    <a href="http://www.iis.net" title="IIS"><img src="http://i2.silverlight.net/resources/images/content/misc/iis.png?cdn_id=10052009_5" alt="IIS"></a> 
-    <a href="http://visitmix.com/" title="MIX"><img src="http://i2.silverlight.net/resources/images/content/misc/mix.png?cdn_id=10052009_5" alt="MIX"></a>
-    <a href="http://www.msdn.com" title="MSDN"><img src="http://i1.silverlight.net/resources/images/content/misc/msdn.png?cdn_id=10052009_5" alt="MSDN"></a> 
-    <a href="http://www.windowsclient.net" title="Windows Client"> <img src="http://i1.silverlight.net/resources/images/content/misc/windows_client.png?cdn_id=10052009_5" alt="WindowsClient"></a>
+    <a href="http://www.asp.net" title="ASP.net"><img src="http://i3.silverlight.net/resources/images/content/misc/aspnet.png?cdn_id=05062010" alt="ASP.net"></a> 
+    <a href="http://www.silverlight.net" title="Silverlight"><img src="http://i2.silverlight.net/resources/images/content/misc/silverlight.png?cdn_id=05062010" alt="Silverlight"></a> 
+    <a href="http://channel9.msdn.com" title="Channel 9"> <img src="http://i2.silverlight.net/resources/images/content/misc/channel9.png?cdn_id=05062010" alt="Channel 9"></a> 
+    <a href="http://edge.technet.com/" title="Edge Technet"> <img src="http://i1.silverlight.net/resources/images/content/misc/technet.png?cdn_id=05062010" alt="Edge Technet"></a> 
+    <a href="http://www.iis.net" title="IIS"><img src="http://i2.silverlight.net/resources/images/content/misc/iis.png?cdn_id=05062010" alt="IIS"></a> 
+    <a href="http://visitmix.com/" title="MIX"><img src="http://i2.silverlight.net/resources/images/content/misc/mix.png?cdn_id=05062010" alt="MIX"></a>
+    <a href="http://www.msdn.com" title="MSDN"><img src="http://i3.silverlight.net/resources/images/content/misc/msdn.png?cdn_id=05062010" alt="MSDN"></a> 
+    <a href="http://www.windowsclient.net" title="Windows Client"> <img src="http://i2.silverlight.net/resources/images/content/misc/windows_client.png?cdn_id=05062010" alt="WindowsClient"></a>
 </div>
 
                 </div>
             </div>
-            <div id="dropdown_language_wrapper" style="display:none">
-                <div class="dropdown_language_top"></div>
-                <ul id="dropdown_option_container" class="dropdown_language_options">
-                    <li class="selected"><a href="">English</a></li>
-                    <li class="dropdown_language_japanese"><a href="http://www.silverlight.net/learn/international/#Japanese"><span>日本語</span></a></li>
-                    <li class="dropdown_language_chinese"><a href="http://www.silverlight.net/learn/international/#Chinese"><span>汉语</span></a></li>
-                    <li><a href="http://www.silverlight.net/learn/international/#Slovakian">Slovenskom</a></li>
-                </ul>
-            </div>            
         </div>
-        <script type="text/javascript" src="http://i2.silverlight.net/resources/script/jquery-ui-1.7.1.custom.min.js?cdn_id=10052009_5"></script>
-        <script type="text/javascript" src="http://i3.silverlight.net/resources/script/jquery.fancybox-1.2.1.js?cdn_id=10052009_5"></script>
-        <script type="text/javascript" src="http://i3.silverlight.net/resources/pagegate/js/pagegate.js?cdn_id=10052009_5"></script>
+        <script type="text/javascript" src="http://i3.silverlight.net/resources/script/jquery-ui-1.7.1.custom.min.js?cdn_id=05062010"></script>
+        <script type="text/javascript" src="http://i1.silverlight.net/resources/script/jquery.fancybox-1.2.6.js?cdn_id=05062010"></script>
+        
                 
-        <script type="text/javascript">$(document).ready(function() { msc_initVar(); InitPage(); });</script>
-        <script type="text/javascript" src="http://i1.silverlight.net/resources/script/omniture/omni_rsid_slvnet.min.js?cdn_id=10052009_5"></script>
-        <script type="text/javascript" src="http://i3.silverlight.net/resources/script/omniture/s_code_dotnet.min.js?cdn_id=10052009_5"></script>
-        <script type="text/javascript" src="http://i1.silverlight.net/resources/script/omniture/OmniHelper_slvnet.min.js?cdn_id=10052009_5"></script>
+        <script type="text/javascript">$(document).ready(function() { InitPage(); });</script>
+        <script type="text/javascript" src="http://i1.silverlight.net/resources/script/omniture/omni_rsid_slvnet.min.js?cdn_id=05062010"></script>
+        <script type="text/javascript" src="http://i3.silverlight.net/resources/script/omniture/s_code_dotnet.min.js?cdn_id=05062010"></script>
+        <script type="text/javascript" src="http://i3.silverlight.net/resources/script/omniture/OmniHelper_slvnet.min.js?cdn_id=05062010"></script>
         <script type="text/javascript"> try { var s_code = s.t(); if (s_code) document.write(s_code) } catch (err) { }</script>
         <noscript><a href="http://www.omniture.com" title="Web Analytics"><img src="http://msstonojsslvnet.112.2O7.net/b/ss/msstonojsslvnet/1/H.20.2--NS/0" height="1" width="1" border="0" alt="" /></a></noscript>
-        <a id="pagegate-shim" href="/resources/pagegate/installprompt.html?iframe"></a>
-        <div id="cb_main" class="cbMain"><div id="cb_link1" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/aspnet.gif" alt="ASP.NET"></div><div class="cbLinkText">ASP.NET: <a href="http://microsoftcommunities.com/Link/bb10b8c1-8881-42ca-beb4-9edaf6cebde6/Default.aspx">More Data Binding</a></div></div><div id="cb_link2" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/silverlight.gif" alt="Silverlight"></div><div class="cbLinkText">Silverlight: <a href="http://microsoftcommunities.com/Link/83246d07-af93-4d50-bf83-a8b102bfce76/Default.aspx">The Silverlight HVP Spec</a></div></div><div id="cb_link3" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/ch9.gif" alt="Channel 9"></div><div class="cbLinkText">Channel 9: <a href="http://microsoftcommunities.com/Link/dba5acf0-80b3-408f-8968-551224d467c5/Default.aspx">TWC9: C9 Live at PDC, Teamprise, SDKs galore, </a></div></div><div id="cb_link4" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt="WindowsClient"></div><div class="cbLinkText">WindowsClient: <a href="http://microsoftcommunities.com/Link/f55fc94f-1fbb-4ace-8022-44b6a96bb47d/Default.aspx">Exploring new techniques for DLR Script in XAML</a></div></div><div id="cb_link5" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/aspnet.gif" alt="ASP.NET"></div><div class="cbLinkText">ASP.NET: <a href="http://microsoftcommunities.com/Link/226c8695-b513-47d8-af0f-afb023836262/Default.aspx">Metrics in software and physics</a></div></div><div id="cb_link6" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt="WindowsClient"></div><div class="cbLinkText">WindowsClient: <a href="http://microsoftcommunities.com/Link/1e5a1246-68a9-4224-847c-e5ea20890c99/Default.aspx">Surface Blog Week In Review</a></div></div><div id="cb_link7" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt="WindowsClient"></div><div class="cbLinkText">WindowsClient: <a href="http://microsoftcommunities.com/Link/911385b6-bd85-457d-a4f7-17ef651e9d4d/Default.aspx">Bulk check-in for SharePoint</a></div></div><div id="cb_link8" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/technetedge.gif" alt="TechNet Edge"></div><div class="cbLinkText">TechNet Edge: <a href="http://microsoftcommunities.com/Link/58a1ef7b-c798-4b2c-8b5f-ef59f7e0fb4c/Default.aspx">Windows PowerShell : Variables, Types, and Operators</a></div></div><div id="cb_link9" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/ch9.gif" alt="Channel 9"></div><div class="cbLinkText">Channel 9: <a href="http://microsoftcommunities.com/Link/f3381681-d32a-45d6-9eb6-94ae03ddfe9e/Default.aspx">E2E: Erik Meijer and Dave Campbell: Data, Databases and the Cloud</a></div></div><div id="cb_link10" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/ch9.gif" alt="Channel 9"></div><div class="cbLinkText">Channel 9: <a href="http://microsoftcommunities.com/Link/0edb80cc-df09-4467-be1f-31a548798a3d/Default.aspx">Announcing Channel 9 Live at PDC09</a></div></div><div id="cb_link11" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/technetedge.gif" alt="TechNet Edge"></div><div class="cbLinkText">TechNet Edge: <a href="http://microsoftcommunities.com/Link/72472878-dee3-4d85-bad5-96bc06bad94f/Default.aspx">MSRC Monthly Security Bulletin Webcast - November 2009</a></div></div><div id="cb_link12" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt="WindowsClient"></div><div class="cbLinkText">WindowsClient: <a href="http://microsoftcommunities.com/Link/403356b9-2375-47c9-8ac4-cc832fa0d067/Default.aspx">Microsoft Surface @ Hard Rock Cafe coming to PDC</a></div></div><div id="cb_link13" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/aspnet.gif" alt="ASP.NET"></div><div class="cbLinkText">ASP.NET: <a href="http://microsoftcommunities.com/Link/f52cdb87-c608-4228-960b-ac099365ad40/Default.aspx">Visual Studio 2010 - Code Snippets</a></div></div><div id="cb_link14" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/10.gif" alt="Channel 10"></div><div class="cbLinkText">Channel 10: <a href="http://microsoftcommunities.com/Link/342fed48-90ca-4feb-baab-f71bc0b3be2b/Default.aspx">Dell's Zino Line: Candy-Colored Mini Computers</a></div></div><div id="cb_link15" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/10.gif" alt="Channel 10"></div><div class="cbLinkText">Channel 10: <a href="http://microsoftcommunities.com/Link/4c6b56d0-069c-4f0b-a7db-247013f6daf9/Default.aspx">Zune HD Gets New Games</a></div></div><div id="cb_link16" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/10.gif" alt="Channel 10"></div><div class="cbLinkText">Channel 10: <a href="http://microsoftcommunities.com/Link/3034a985-6200-482b-9dc6-36562b50068f/Default.aspx">Windows Live Adds 19 More Activity Partners</a></div></div><div id="cb_link17" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/ch9.gif" alt="Channel 9"></div><div class="cbLinkText">Channel 9: <a href="http://microsoftcommunities.com/Link/38506087-93b9-4d81-aa17-e6f7c8fced53/Default.aspx">Countdown to PDC show will be live today at 12PM PST</a></div></div><div id="cb_link18" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/technetedge.gif" alt="TechNet Edge"></div><div class="cbLinkText">TechNet Edge: <a href="http://microsoftcommunities.com/Link/791804cc-0092-4564-80ae-a56b38a1db40/Default.aspx">UAG Demo, Screencast, and PM Interview</a></div></div><div id="cb_link19" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/ch9.gif" alt="Channel 9"></div><div class="cbLinkText">Channel 9: <a href="http://microsoftcommunities.com/Link/a3d710b4-6ba6-495c-805f-20ad27e7ca36/Default.aspx">E2E: Erik Meijer and Patrick Dussud - Inside Garbage Collection</a></div></div><div id="cb_link20" class="cbLink"><div class="cbLinkImg"><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt="WindowsClient"></div><div class="cbLinkText">WindowsClient: <a href="http://microsoftcommunities.com/Link/cbcc1bd6-c6e9-4efb-8ac8-ee26a098af05/Default.aspx">Microsoft Surface SDK WE now available to MSDN Subscribers</a></div></div><div id="cb_more" class="cbMore" onmouseover="cb_showmenu();" onmouseout="msc_menuMouseOut();"><div class="cbMoreText">Microsoft Communities</div><div class="cbMoreImg"></div></div><div id="cb_menu" class="cbMenu" onmouseover="msc_menuMouseOver();" onmouseout="msc_menuMouseOut();"><ul><li><img src="http://mscommunities.com/images/sites/aspnet.gif" alt=""> <a href="http://microsoftcommunities.com/Community/7d12c3ae-6096-4e97-91e9-fedb44ae6e94/Default.aspx">ASP.NET</a></li><li><img src="http://mscommunities.com/images/sites/ch8.png" alt=""> <a href="http://microsoftcommunities.com/Community/ec87056f-902c-4afc-9cc8-7e510a243a31/Default.aspx">Channel 8</a></li><li><img src="http://mscommunities.com/images/sites/ch9.gif" alt=""> <a href="http://microsoftcommunities.com/Community/53af7a0b-90f3-4ed3-b760-a1c79250eeb7/Default.aspx">Channel 9</a></li><li><img src="http://mscommunities.com/images/sites/10.gif" alt=""> <a href="http://microsoftcommunities.com/Community/22f63860-348e-408c-8f6e-2ca2f0edcd55/Default.aspx">Channel 10</a></li><li><img src="http://mscommunities.com/images/sites/iis.gif" alt=""> <a href="http://microsoftcommunities.com/Community/5cc39646-7e21-4b61-875c-31b8dc8b86e5/Default.aspx">IIS.NET</a></li><li><img src="http://mscommunities.com/images/sites/silverlight.gif" alt=""> <a href="http://microsoftcommunities.com/Community/167945b5-c2e2-4665-aee5-ea9ee7055b42/Default.aspx">Silverlight</a></li><li><img src="http://mscommunities.com/images/sites/technetedge.gif" alt=""> <a href="http://microsoftcommunities.com/Community/75294586-9823-4946-81c0-113f4b8f09f5/Default.aspx">TechNet Edge</a></li><li><img src="http://mscommunities.com/images/sites/windowsclient.gif" alt=""> <a href="http://microsoftcommunities.com/Community/f64ada82-1f72-462e-9bb5-187623536b87/Default.aspx">WindowsClient</a></li><li><img src="http://mscommunities.com/images/sites/mix.gif" alt=""> <a href="http://microsoftcommunities.com/Community/9fa64457-89ad-4ff9-a595-ef8dbe623be8/Default.aspx">Mix Online</a></li></ul></div></div>        
+        
     </form>
 
 </body></html>
