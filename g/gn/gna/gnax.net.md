@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gnax.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219100553id_/http%3A//www.gnax.net/privacy_policy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gnax.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203812id_/http%3A//www.gnax.net/privacy_policy.shtml) for the most accurate reproduction.*
 
 # Datacenter Services - Atlanta Disaster Recovery, Dallas Servers, East Coast Colocation - GNAX Privacy Policy
 
@@ -69,7 +69,7 @@ This policy was last modified on 3/4/09.
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-[www.gnax.net](https://web.archive.org/web/20091219100553id_/http%3A//www.gnax.net/index.shtml)  
+[www.gnax.net](https://web.archive.org/web/20100611203812id_/http%3A//www.gnax.net/index.shtml)  
 1100 White Street  
 Atlanta, GA 30310  
 United States  
