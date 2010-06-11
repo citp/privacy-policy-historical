@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2009-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090710181704id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desitara.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611055536id_/http%3A//www.desitara.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Desitara
 
 Updated as of Apr 22, 2008
 
