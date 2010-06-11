@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extralabs.net privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322191904id_/http%3A//www.extralabs.net/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extralabs.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211950id_/http%3A//www.extralabs.net/privacy.htm) for the most accurate reproduction.*
 
 # Free RSS Software Tools
 
