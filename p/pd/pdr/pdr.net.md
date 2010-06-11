@@ -1,93 +1,129 @@
-> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2008-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080819235609id_/https%3A//www.thomsonhc.com/register/librarian/PFActionId/pf.ShowPage/PageId/register.PrivacyStatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdr.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210635id_/http%3A//www.pdr.net/includes/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# Thomson Healthcare: Privacy Policy Statement
+# PDRNetwork - Privacy Policy
 
-This privacy statement is designed to tell you how Thomson Healthcare uses and secures your personal information. This privacy statement describes the practices of the Thomson Healthcare Community, which is presently offered by the following Thomson Healthcare companies: Thomson Mercury MD, Thomson Micromedex and Thomson PDR (certain consumer based PDR sites such as www.pdrhealth.com and www.pdrbookstore.com are controlled by their own privacy statements, please review those privacy terms and conditions separately). As described below, this privacy statement relates solely to the online and offline information collection and use practices of the Thomson Healthcare Community. 
+**PDR NETWORK, LLC**
+
+**PRIVACY POLICY**
+
+**Updated December 11, 2009**
+
+This Privacy Policy is designed to tell you how PDR Network, LLC (“PDR Network”, “we” or “us”) secures and uses the personal information collected from individuals including healthcare professionals in connection with PDR Network’s products and services.  In particular, the statement describes how PDR Network handles personal information collected via the www.pdr.net Web site, other Web sites that link to this privacy statement, online registration, and offline PDR surveys, etc. By using this site or any of the PDR Network services, you indicate your acceptance of PDR Network’s Privacy Policy.
+
+**Our Philosophy**
+
+Your trust is our greatest asset. We make every reasonable effort to ensure that information held by PDR Network-powered Web sites is confidential and secure. We disclose our information-security practices to you as clearly and fully as possible. These practices receive continuous oversight, and many of our business decisions, including Web design, technology selections, and third-party business relationships, begin and end with considerations for your privacy.
+
+**Changes to Policy**
+
+While our philosophy will not change, the details of the policy, including how we use customer information for new, unanticipated uses not previously disclosed in this privacy statement may change over time. If we make a material change to our policy, we will post and highlight the policy changes, and we will also notify you via e-mail or take other reasonable steps to give you an opportunity to opt-out of the new data uses.  Please refer back to this page regularly. The date the policy was last revised will always appear at the top of the policy pages. 
+
+**Site Ownership, Scope, and Applicability of the Policy**
+
+This Policy applies only when you are within the PDR Network-branded environment and only to information that PDR Network collects.  Please note that our Web sites may provide direct links to various sponsor and marketing partner sites.  This privacy statement does not describe the practices of these parties. Before disclosing personal information to any third party, you should read the privacy notice associated with that site, as PDR Network has no control over information submitted to or collected by such third parties.
+
+Note: Other PDR Network Web sites (including consumer-focused sites such as www.pdrhealth.com and www.pdrbookstore.com) and services (such as the bookstore) are controlled by their own privacy statements.  These can be obtained by clicking on the Web site privacy policy link or contacting customer service at the number below. 
 
 **Information that We Collect**
 
-In general, you may browse online many parts of the Thomson Healthcare Community without providing any personal information. The information we collect from web site visitors is collected on an aggregate basis as you and others browse our web sites, and is not used to identify you in any way.
+In general, you may visit this Web site without providing any personal information. The information we collect from Web site visitors is collected on an aggregate basis, and is not used to identify you in any way. 
 
-If you want to interact with Thomson Healthcare and take advantage of the materials available from Thomson Healthcare to qualified professionals (such as the PDR), you may register with Thomson Healthcare and join the Thomson Healthcare Community. You may register online at any of our web sites or offline, by providing us with personal information via phone, facsimile or mail. Registration is completely voluntary and free. When you join the Thomson Healthcare Community, we collect: 
+If you want to interact with PDR Network online and take advantage of the materials available on the PDR Network Web site for qualified professionals (such as the annual PDR® print book), you may register and join the PDR Network professional community.  Registration is voluntary and free to qualified professionals. 
 
-* contact information (such as name, office address, office phone and fax numbers, and email address), and
-* other personal information (such as information about your professional background, licensure, practice and areas of specialization as well as any other personal information that you choose to provide us.)
+When you join the PDR Network professional community, we collect contact information (such as name, office address, office phone and fax numbers, and e-mail address), and other personal information (such as information about your professional background, licensure, practice, and areas of specialization as well as any other personal information that you choose to provide us). 
 
-We will tailor the materials we provide you based on the information in your profile, such as specialty. Please note that certain products (such as the PDR®) are only available to qualified, credentialed professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification.
+We will tailor the materials we provide you based on the information in your profile, such as your specialty. Please note that certain products (such as the PDR® and sampling services) are only available to qualified, credentialed professionals, so you may not receive access to all of the services we offer if we cannot confirm your qualification.
 
-If you are a registered user of Thomson Healthcare Community products and services, we will also collect information about your use of our products and services. For example, we will record information about the CME activities in which you participate, newsletters you subscribe to, and web sites, tools and other services that you use.
+If you are a registered user of PDR Network products and services, we will also collect and use activity statistics so we can understand the ways in which our sites and services are being utilized. For example, we will record information about the PDR activities in which you participate, newsletters you subscribe to, and Web sites, tools and other services that you use.  Activity related data is stored anonymously and it is only used in the form of aggregated statistics. This aggregated, anonymous data may also be shared with business partners. Activity related data cannot be used to target you with solicitations of any kind. 
 
-**How We Use the Information**
+Of course, none of our sites or services are directed at children, and we make every reasonable effort to ensure that we do not accept personal information from persons under 13 years of age.
 
-In general, we use all of the information we collect in order to: 
+**How We Use Your Information**
 
-* respond to your requests for information
-* provide you with products and services
-* determine if you are eligible for certain products or services
-* provide customer service
-* provide you with additional information that may be of interest, including marketing and educational materials from us and our partners
+In general, we use the information we collect in order to: 
 
-If you purchase a product from us (such as book or newsletter subscription), you may provide us with a credit card number. This credit card number will only be used to process your purchase. We will not disclose credit card numbers to any third party for marketing purposes under any circumstances.
+\- respond to your requests for information 
 
-Unless you tell us not to, we may also provide information about you or your practice to other Thomson companies and unaffiliated third parties. For example, like most publishers, we share our subscriber lists with selected business partners so that they may offer you products and services directly. Thomson companies also publish various quality programs and products, and we may include information about your practice in those items.
+\- provide you with products and services 
 
-We may also share your information with other third parties who perform services for us, but we forbid these companies from using your personal information for their own purposes.
+\- determine if you are eligible for certain products or services 
 
-Please note that we may disclose any information as required by law, when necessary for health or safety purposes, or when needed to protect our legal rights. For example, we may disclose information about you in response to a subpoena. We may also disclose information about you in connection with the transfer of assets of our business. Additionally, as we continue to develop the Thomson Healthcare Community, we might sell or buy business units. In such transactions, customer information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing privacy notice (unless, of course, the customer consents otherwise).
+\- provide customer service 
+
+\- provide you with additional information that may be of interest, including marketing and educational materials from us and our partners 
+
+If you purchase a product from us (such as a book or newsletter subscription), you may provide us with a credit card number. This credit card number may be stored but will only be used and disclosed as needed to process your purchase. We will not disclose credit card numbers to any third party for marketing purposes under any circumstances. 
+
+**When We Share Your Information with Others**
+
+We work with business partners to provide the highest-quality services available. We may provide your information to third parties as needed to fulfill your requests for products and services.  For example, if you choose to participate in complimentary pharmaceutical product sampling programs, we will provide your information to the third party as required by the terms of the sampling program.
+
+Unless you tell us not to (i.e. ‘opt-out’), we may provide information about you or your practice to third parties. For example, we share our lists with selected business partners so that they may offer products or services of interest to you. We may also share your information with other third parties who perform services for us, but we, by contract in most cases, prohibit these companies from using your personal information for their own purposes.  These companies may only use your information to perform the services on our behalf.
 
 **Your Choices**
 
-We use good faith efforts to respect your preferences about our use of your information. We only want to send you information if you want to receive it. We want to communicate with you in the manner that works best for you - whether that is via email, phone, fax or direct mail. You may change your communication preferences at any time by doing any of the following things: 
+We use good faith efforts to respect your preferences about our use and disclosure of your information. We only want to send you information if you want to receive it. We want to communicate with you in the manner that works best for you - whether that is via e-mail, phone, fax, or direct mail. You may change your communication preferences at any time by doing any of the following things: 
 
-* updating your profile through the profile link on a Thomson Healthcare Community web site homepage
-* opting-out of emails by using the unsubscribe feature on the email communication
-* contacting our customer services department by email at
-[ TH.customerservice@thomson.com](mailto:TH.customerservice@thomson.com "TH.customerservice@thomson.com") or by phone at 1-888-227-6469 and requesting the desired change (e.g., opting in or out of faxes) 
+\- updating your profile through the profile link on a PDR Network Web site homepage 
 
-If you do not want to receive information from other Thomson companies or unaffiliated third parties, you may opt out by accessing your profile and checking the appropriate boxes in the preference section. You can also tell us at any time after you register that you do not want us to disclose your information to other Thomson companies and unaffiliated third parties by updating your profile through the profile link on a Thomson Healthcare Community web site homepage, or contacting our customer service department. 
+\- opting-out of e-mails by using the “unsubscribe” feature on the e-mail communication 
 
-**Accessing your Information**
+\- contacting our customer service department by e-mail at _privacy@pdr.net_  or by phone at 1-888-227-6469 and requesting the desired change (e.g., opting in or out of faxes) 
 
-We strive to provide all our customers with reasonable opportunity to access and update their customer profile information. If you have disclosed information to us via online registration or by updating your profile you may access and update this information by following the link on a Thomson Healthcare Community web site homepage to your account profile. Our customer support department can also reasonably assist you with other requests related to information about you that may be maintained by us.
+You can also tell us at any time after you register that you do not want us to disclose your information to unaffiliated third parties for their own use by updating your profile through the profile link on a PDR Network Web site homepage, or contacting our customer service department. 
 
-Additionally, if you have registered with the Thomson Healthcare Community previously but have not provided information needed to qualify for a PDR or other services that require credentialing, you may add information to your profile to enable us to qualify you and provide the additional products and services.
+**Accessing Your Information**
 
-**Privacy statement Parameters**
+We strive to provide all our customers with reasonable opportunity to access and update their customer profile information. If you have disclosed information to us via online registration or by updating your profile, you may access and update this information by following the link on a PDR Network Web site homepage to your account profile. Our customer service department can also reasonably assist you with other requests related to information about you that may be maintained by us.
 
-This privacy statement describes the policies governing the Thomson Healthcare Community. It does not govern the practices at other Thomson company businesses.
-
-Additionally, this statement applies to contact and other personal information maintained by the Thomson Healthcare Community. Personal information provided to the Thomson Healthcare companies in other ways (such as in offline communications with those companies outside of the Thomson Healthcare Community) will be covered by this privacy statement if such personal information is consolidated with personal information in the Thomson Healthcare Community.
-
-Some of the web sites in the Thomson Healthcare Community may provide direct links to various sponsor and marketing partner sites, where you can apply for products and services (such as complimentary drug sampling). This privacy statement does not describe the practices of our partners. Before disclosing personal information to any other company's web site, you should read the privacy notice associated with that site.
+Additionally, if you have registered with the PDR Network previously but have not provided information needed to qualify for a PDR or other services that require credentialing, you may add information to your profile to enable us to qualify you and provide the additional products and services.
 
 **Cookies and Web Site Information**
 
-Like most other commercial web sites, we use standard "cookie" technology and web server logs to collect information about how our web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our web sites. Cookies allow you to move from page to page on the web site, by remembering the information about the entire session.
+We use standard "cookie" technology as well as web beacons and web server logs to collect information about how our Web site is used. Cookies are small pieces of data that are stored by your web browser on your hard drive. The cookies allow our web servers to recognize the computers used to access our Web sites. Cookies allow you to move from page to page on the Web site, by remembering the information about the entire session.
 
-Information gathered through cookies and by our web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis and is not associated with your profile.
+Web beacons are transparent pixel images that are used in collecting information about Web site visitor activities and e-mail response and tracking. For example, if we send you an e-mail message, we (or third parties providing services on our behalf) may collect information through web beacons to determine whether you have opened the e-mail message or clicked on links located within the e-mail message. 
 
-We use a third-party advertising company to serve ads when you visit our web site. This company may use information about your visit to this web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. If you would like more information about this practice and to know your choices about not having this information used by this company, please [ click here](http://www.doubleclick.net/us/corporate/privacy "click here"). 
+Information gathered through cookies, web beacons and by our web server logs may include your IP address, the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis and is not associated with your profile.
+
+We may use third-party advertising entities to serve ads when you visit our Web site. This company may use information about your visit to this Web site in order to provide advertisements about goods and services that may be of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique cookie on your browser. You may view, delete or block cookies by adjusting your web browser preferences.  If you disable cookies, you may still use our Web site, but it may interfere with some of its functionality. 
 
 **How We Secure Information Transmissions**
 
-Although no systems are completely secure, we have taken reasonable steps to help prevent the loss, misuse and alteration of the information under our control. For example, when we ask users to provide financial information (such as credit card number), or any information during the registration or profile update process, the data is protected using Secure Sockets Layer (SSL) encryption technology.
+We have implemented reasonable technical, physical, and administrative controls to help prevent the loss, misuse, and alteration of the information under our control. For example, when we ask users to provide financial information (such as a credit card number), or any information during the registration or profile update process, the data is protected using Secure Sockets Layer (SSL) encryption technology.
 
-**Changes to Our Policies**
+**Individuals Located Outside the United States **
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in this privacy statement. If we make a material change to this statement, we will post and highlight the policy changes, and we will also notify you via email or take other reasonable steps to give you an opportunity to opt-out of the new data uses.
+If you are located outside of the United States of America ("U.S."), please be aware that any information you provide to us will be transferred to the  U.S.   By joining PDR Network’s professional community, receiving our products or services and/or providing us with your information, you consent to this transfer.
 
-**Individuals Located Outside the United States**
+**Mobile Devices/Third Party Fees**
 
-If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States. The Thomson Healthcare Community will comply with all applicable local laws in respect of your information. By joining the Thomson Healthcare Community, receiving our products or services and/or providing us with your information, you consent to this transfer.
+PDR Network may deploy mobile marketing campaigns and may allow you to register for services that involve messages and/or e-mails being sent to your mobile device. You are responsible for obtaining access to the mobile device services and that access may involve third-party fees, including mobile carrier, text messaging, or airtime charges. You are solely responsible for those fees, including any and all fees associated with the delivery of the messages, e-mails or other materials to your mobile device. Please consult your mobile service provider's pricing plan prior to registering for any such service to determine the charges for sending and receiving messages or data from/to your mobile device.
+
+**Transfers of Information for Legal Purposes**
+
+PDR Network  may need to disclose certain information to comply with a legal requirement, such as a law, regulation, court order, subpoena, or search warrant, in the course of a legal proceeding or in response to a law enforcement agency request. If there is a change of control in PDR Network’s business (whether by merger, sale, or otherwise) or a sale or transfer of its assets, customer information could be sold or transferred as part of that transaction and your information potentially used by the Purchaser or other recipient of said customer information, but any such use remains subject to the promises made in any pre-existing privacy notice.
+
+You acknowledge that PDR Network is located in the U.S. and will process and store your information in the U.S., and that as a result, U.S. governments, courts or law enforcement, or regulatory agencies may be able to obtain disclosure of your information through the laws of the  U.S.
 
 **Contact Us with Any Questions**
 
-If you have any questions about this privacy statement or our use of your personal information, please contact:
+If you have any questions about this Privacy Policy, the practices of PDR Network Web sites, your dealings with PDR Network, or would like to provide comments, please contact us at _[ customerservice@pdr.net](mailto:customerservice@pdr.net)_, or by phone, toll-free, at  1.800.232.7379within the  United States .
 
-Thomson Healthcare   
-5 Paragon Drive   
-Montvale, NJ 07645
+If you have any questions about this Privacy Policy or our use of your personal information, please contact:
 
-Phone: 1-888-227-6469   
-Fax: 1-201-722-2680   
-Email:[TH.customerservice@thomson.com](mailto:TH.customerservice@thomson.com "TH.customerservice@thomson.com")
+PDR Network, LLC
+
+5 Paragon Drive
+
+Montvale , NJ 07645
+
+Phone: 1-888-227-6469
+
+Fax: 1-201-722-2680 
+
+E-mail: privacy@pdr.net
+
+**Legal Disclaimer**
+
+Unfortunately, no data protection method or combination of methods can be guaranteed 100 percent secure. We take all reasonable steps to protect your personal information as described throughout this policy, but we cannot ensure or warrant our ability to do so. As a result, you use PDR Network content, products, and services at your own risk. PDR Network will not be liable for disclosures of your personal information due to errors in transmission or unauthorized acts of third parties.
