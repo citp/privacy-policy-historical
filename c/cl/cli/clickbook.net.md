@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickbook.net privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014060945id_/http%3A//www.clickbook.net/dev/site.nsf/ConfidentialityInfo) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickbook.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210129id_/http%3A//www.clickbook.net/dev/site.nsf/ConfidentialityInfo) for the most accurate reproduction.*
 
 # ClickBook.net - Privacy Policy
 
@@ -6,7 +6,7 @@ We treat all personal information, collected by us, with respect and confidentia
 
 We take all reasonable steps to ensure that personal information is stored securely and accurately. If you have previously submitted information that you wish to change or remove please let us know and we will not only do as you ask, but we will demonstrate that we have done so.  
 
-By submitting your information to us, you agree that we may use your personal information that we collect and retain, to promote or inform you of our other products or services, which may be of interest to you. You may notify us at any time that you no longer wish to receive marketing or promotional material by contacting us. We undertake to remove you from any e-mail lists under our control. 
+By submitting your information to us, you agree that we may use your personal information that we collect and retain, to promote or inform you of our other products or services, which may be of interest to you. You may notify us at any time using the Contact Us form that you no longer wish to receive promotional material in relation to ClickBook. 
 
 Your personal information will never be provided to any other party without your express permission.
 
