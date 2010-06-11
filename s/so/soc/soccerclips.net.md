@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2009-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090313003448id_/http%3A//www.soccerclips.net/en/pageinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210335id_/http%3A//www.soccerclips.net/en/pageinfo/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - SoccerClips.net
 
@@ -38,6 +38,8 @@ Your Choices
  **Third-party Advertisers, Links to Other Sites**
 
 Soccerclips allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Soccerclips Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Soccerclips Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalise the advertising content you see.
+
+Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
 
 Soccerclips does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent.  
 You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt out of certain practices. Soccerclips’ privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. Any data obtained by third-party ad servers, which is subsequently shared with Soccerclips, is maintained and handled by Soccerclips in accordance with this privacy policy.
