@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228062923id_/http%3A//www.imtranslator.net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imtranslator.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212134id_/http%3A//www.imtranslator.net/privacy.asp) for the most accurate reproduction.*
 
 # Privacy of Smart Link Corporation.
 
@@ -39,4 +39,4 @@ In the course of serving advertisements to this site, our third-party advertiser
 
 This privacy policy applies to web pages ending in [paralink.com](http://www.paralink.com/), [imtranslator.com](http://www.imtranslator.com/) or [imtranslator.net](http://www.imtranslator.net/) that contain a link to this privacy policy at the bottom of the web page. 
 
-If you have any questions about this, contact us at [privacy-support](https://web.archive.org/web/20091228062923id_/http%3A//www.imtranslator.net/contacts.asp).
+If you have any questions about this, contact us at [privacy-support](https://web.archive.org/web/20100611212134id_/http%3A//www.imtranslator.net/contacts.asp).
