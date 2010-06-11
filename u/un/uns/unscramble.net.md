@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2007-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070804003048id_/http%3A//www.unscramble.net/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unscramble.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210218id_/http%3A//www.unscramble.net/modules.php%3Fname%3DPrivacy) for the most accurate reproduction.*
 
 # Unscramble.net - Privacy
 
@@ -24,9 +24,7 @@ See Advertisers information below.
 
 ####  Advertisers 
 
-We use an outside ad company to display ads on our site and as part of our [Afflilate Program](http://www.unscramble.net/help/affiliate.html). These ads may contain cookies to prevent fraud. Cookies received with banner ads or part of our Affiliate Program are collected by our ad company, and we do not have access to this information. 
-
-Please go to [adtegrity.com](http://www.adtegrity.com/privacy.asp) to view the privacy policy of our advertiser.
+We have contracted with ValueClick to monitor certain pages of our website for the purpose of reporting website traffic, statistics, advertisement 'click-throughs', and/or other activities on our website. Where authorized by us, ValueClick may use cookies, web beacons, and/or other monitoring technologies to compile anonymous statistics about our website visitors. No personally identifiable information is collected by or transferred to any party other than the Advertiser. For more information about how the information is collected and used by ValueClick, please see ValueClick's privacy policy at [ www.valueclickmedia.com ](http://www.valueclickmedia.com/member_privacy.shtml)
 
 ####  Registration Forms 
 
@@ -58,5 +56,5 @@ Please email your request to [ privacy@unscramble.net ](mailto:privacy@unscrambl
 
 ####  Contacting the Web Site 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:   
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [ privacy@unscramble.net](mailto:privacy@unscramble.net)  
 
