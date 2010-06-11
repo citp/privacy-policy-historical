@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228202154id_/http%3A//www.bumrungrad.com/overseas-medical-care/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumrungrad.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611054635id_/http%3A//www.bumrungrad.com/overseas-medical-care/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Bumrungrad International Hospital,Thailand - Privacy Policy
 
-|  | 
+|  |  | 
 
 [ Home](http://www.bumrungrad.com/overseas-medical-care/bumrungrad-international.aspx) > Privacy Policy   
   
