@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608205928id_/http%3A//scnet.net/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scnet.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203953id_/http%3A//scnet.net/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | ServerCentral: Colocation and Managed Data Center Solutions
 
@@ -15,7 +15,7 @@ Our Web servers do not automatically record e-mail addresses of the visitors.
 ## Does ServerCentral use cookies?
 
 Yes, ServerCentral uses cookies. A cookie is a small piece of data that is sent to your Internet browser from a Web server and stored on your computer's hard drive. Cookies are often used to provide you with a customized experience. At no time is any personal information stored within one of our cookies.  
-Accepting cookies through your browser is a personal choice. You can sill enjoy ServerCentral's Web sites if you choose not to accept cookies.
+Accepting cookies through your browser is a personal choice. You can still enjoy ServerCentral's Web sites if you choose not to accept cookies.
 
 ## What information do you collect when I complete the "Contact Us" form?
 
