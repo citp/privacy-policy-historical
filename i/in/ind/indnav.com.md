@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2009-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090317042921id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indnav.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611142227id_/http%3A//www.indnav.com/home/tosandprivacy) for the most accurate reproduction.*
 
-# Indnav.com - India Classifieds, Travel Guide, Tours, Tour Operators, Hotels, Maps and Properties in India.
+# Indnav.com Terms of Service And Privacy Policy
 
 | **Privacy Policy and Terms of Use
 
@@ -52,9 +52,9 @@ Supplying personally identifiable information is entirely voluntary. You are not
 
 You may change your interests at any time and may opt-in or opt-out of any marketing / promotional / newsletters mailings. Indnav.com reserves the right to send you certain service related communication, considered to be a part of your Indnav account without offering you the facility to opt-out. You may update your information and change your account settings at any time. 
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@indnav.com to opt out.
-
- **Cookies**  
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at support@indnav.com to opt out.  
+  
+**Cookies**  
 Indnav (or third party service providers on our behalf) may set and access cookies on your computer. A cookie is a small amount of data (often including a unique identifier), that is sent to your browser from a web site's computers and stored on your computer's hard drive. Indnav uses cookies to understand site usage and to improve the content and offerings on our site.  
 
 
