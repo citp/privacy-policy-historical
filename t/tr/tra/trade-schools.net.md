@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trade-schools.net privacy policy that was archived on 2009-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090511000307id_/http%3A//www.trade-schools.net/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade-schools.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211043id_/http%3A//www.trade-schools.net/privacy-policy.asp) for the most accurate reproduction.*
 
 # Trade-Schools.net - Privacy Policy
 
@@ -40,7 +40,7 @@ Additional information regarding AdSense ads which are displayed on certain page
   * Google's use of the DART cookie enables it to serve ads to our users based on their visit to this site and other sites on the Internet.
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
-© 2001 - 2009 [Beelineweb.com](http://www.beelineweb.com/)  
+© 2001 - 2010 [Beelineweb.com](http://www.beelineweb.com/)  
 ---|---|---  
 | 
 
