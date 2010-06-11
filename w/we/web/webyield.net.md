@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2009-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091029011312id_/http%3A//www.webyield.net/privacystatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyield.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210447id_/http%3A//webyield.net/privacystatement.html) for the most accurate reproduction.*
 
 # WebYield Privacy Statement
 
@@ -16,11 +16,13 @@
 > 
 > From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically.
 > 
-> [Contact us ](https://web.archive.org/web/20091029011312id_/http%3A//www.webyield.net/contact.html)
+> [Contact us ](https://web.archive.org/web/20100611210447id_/http%3A//webyield.net/contact.html)
 
 | 
 
 SEO Tools 
+
+[ ](http://www.webceo.com/cgi-bin/go/clickthru.cgi?id=webyield)
 
 SEO Resources 
 
