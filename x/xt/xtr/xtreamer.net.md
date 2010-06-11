@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the xtreamer.net privacy policy that was archived on 2009-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090608234929id_/http%3A//shop.xtreamer.net/Support/questions.php%3Fquestionid%3D39) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xtreamer.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213401id_/http%3A//xtreamer.net/company/policies/privacy-policy.aspx) for the most accurate reproduction.*
 
-# XTreamer Support System :: Privacy Policy
+# Xtreamer.Net - Privacy Polivy
 
-## Privacy Policy
-
-  **Our Promise to You Regarding Your Privacy  
-** **  
-**Last Updated: April 11, 2009
+**Our Promise to You Regarding Your Privacy  
+****  
+** Last Updated: April 11, 2009
 
 At Xtreamer.net, we do more than protect your data. **We care about your privacy.**
 
@@ -18,7 +16,11 @@ When you place an order, register a product, obtain technical support, download 
   
 Like most companies, Xtreamer.net uses cookies to customize our communication and provide you with better service. A cookie is a small data file that our website writes to your hard drive when you visit our site. That file may contain information that we use to track the Web pages you have visited or how often you've visited Xtreamer.net's site. The primary reason Xtreamer.net uses cookies is to prepare customized pages for you. However, a cookie cannot read data off your computer's hard disk. You can also set your browser to warn you before accepting cookies, or you can refuse cookies by turning them off in your browser. **Will Xtreamer.net share my information with other companies or people?**  
   
-Xtreamer.net will not sell, rent, trade, or lease your personal information for marketing purposes. We will only share information with third-party agents who provide services for our business operation. These agents must comply with our privacy policies and cannot use your personal data for any other purpose. Apart from this, we disclose personal information only in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to: comply with legal process; respond to any claims; or protect the rights, property or personal safety of Xtreamer.net, our customers, or the public. **Note to European Customers:** The information you provide us will be transferred outside the European Economic Area for the purpose of processing by Xtreamer.net, its affiliates and agents. By submitting your information, you agree to that international transfer. **How secure is the personal information I provide Xtreamer.net?**  
+Xtreamer.net will not sell, rent, trade, or lease your personal information for marketing purposes. We will only share information with third-party agents who provide services for our business operation. These agents must comply with our privacy policies and cannot use your personal data for any other purpose. Apart from this, we disclose personal information only in the good faith belief that we are required to do so by law, or that doing so is reasonably necessary to: comply with legal process; respond to any claims; or protect the rights, property or personal safety of Xtreamer.net, our customers, or the public. **Note to European Customers:**  
+
+The information you provide us will be transferred outside the European Economic Area for the purpose of processing by Xtreamer.net, its affiliates and agents. By submitting your information, you agree to that international transfer.
+
+ **How secure is the personal information I provide Xtreamer.net?**  
   
 Xtreamer.net believes that it uses reasonable precautions, including a firewall, to protect your personal information. For Xtreamer.net's online store, web-based customer support, and product registration process, we use Secure Sockets Layer technology to encrypt the information you send us, when you use an encryption-enabled browser. **How can I manage my personal information or change my opt-in/out status?  
 **  
@@ -34,20 +36,19 @@ Latin American customers can find contact information at: http://www.Xtreamer.ne
 European customers can find the information they need on the Contact Page.  
 Asia Pacific customers can find the information they need at the contact page.
 
- **Disclaimer :**Xtreamer.net is dedicated to continually improving its websites by adding new functionality, products, services and programs. Because of those improvements — along with the changes in the law, technology, and Xtreamer.net's business — Xtreamer.net reserves the right to change, modify, add, or remove portions of this Privacy Policy at any time. The latest version of our privacy policy will be available on our web site and will indicate the date that it went into affect. We encourage you to review our Privacy Policy whenever you use this website to make sure you always understand how your information will be used.
+**Disclaimer :  
+**  
+Xtreamer.net is dedicated to continually improving its websites by adding new functionality, products, services and programs. Because of those improvements — along with the changes in the law, technology, and Xtreamer.net's business — Xtreamer.net reserves the right to change, modify, add, or remove portions of this Privacy Policy at any time. The latest version of our privacy policy will be available on our web site and will indicate the date that it went into affect. We encourage you to review our Privacy Policy whenever you use this website to make sure you always understand how your information will be used.
 
-### Related Articles
+##  Get Involved
 
-No related articles were found. 
+Want to become part of the 
 
-### Attachments
+##  Other resources & links
 
-No attachments were found. 
+The following resources   
+contain additional useful  
+information about Xtreamer:
 
-### Visitor Comments
-
-No visitor comments posted. Post a comment
-
-### Post Comment for "Privacy Policy"
-
-_To post a comment for this article, simply complete the form below. Fields marked with an asterisk are required._
+  
+• [Official Shop](http://shop.xtreamer.net/)
