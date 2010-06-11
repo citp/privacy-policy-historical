@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gogo-power.com privacy policy that was archived on 2009-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091030140429id_/http%3A//www.gogo-power.com/Articles.asp%3FID%3D133) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogo-power.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211747id_/http%3A//www.gogo-power.com/privacy-policy-a/133.htm) for the most accurate reproduction.*
 
-# Gogo-power.com - Best New laptop battery, Laptop replacement battery, DVD burners, Baby monitors
+# gogo power Privacy Policy for customer
 
 **Privacy Policy**
 
