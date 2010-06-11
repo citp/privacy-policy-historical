@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923081824id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 360cities.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213757id_/http%3A//www.360cities.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
