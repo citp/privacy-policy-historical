@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the todo-backup.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214222819id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the todo-backup.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611205437id_/http%3A//www.easeus.com/privacy.htm) for the most accurate reproduction.*
 
 # EASEUS Privacy Policy.
 
@@ -59,9 +59,3 @@ All updates to this policy will be posted here. Last update: October 2005.
 ## Questions?
 
 Please send any questions or comments on our privacy practices to [corp@easeus.com](mailto:corp@easeus.com). CHENGDU YIWO Tech Development Co., Ltd is committed to user privacy in our products and services.
-
-[Home](https://web.archive.org/) | [Solution](https://web.archive.org/solution.htm) | [About Company](https://web.archive.org/company.htm) | [Contacts](https://web.archive.org/contact.htm) | [Resource](https://web.archive.org/resource/) | [Blog](http://blog.easeus.com/) | [Forum](http://forum.easeus.com/) | [Directory](http://directory.easeus.com/) | [Links](https://web.archive.org/links.htm) | [Sitemap](https://web.archive.org/sitemap.htm)
-
-Copyright © 2005-2009 CHENGDU YIWO Tech Development Co., Ltd. ALL RIGHTS RESERVED.
-
-[Privacy Policy](https://web.archive.org/privacy.htm) | [License](https://web.archive.org/license.htm) | [Legal Counsel](https://web.archive.org/legal-counsel.htm) | Language : [English](https://web.archive.org/), [Deutsch](https://web.archive.org/language/german/), [Francias](https://web.archive.org/language/french/), [Espanol](https://web.archive.org/language/spanish/)
