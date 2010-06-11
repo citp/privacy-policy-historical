@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2009-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090302165427id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jabil.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611234717id_/http%3A//www.jabil.com/privacy.html) for the most accurate reproduction.*
 
 # Jabil Circuit - Privacy policy
 
-**1\. Purpose.** Jabil Circuit, Inc. has created the following Privacy Policy (a) to comply with the United States Safe Harbor, (b) to facilitate the exchange of information between Jabil Circuit, Inc.'s offices located in the United States, in the European Union, and in other jurisdictions, and (c) to govern information Jabil Circuit, Inc. generally receives through this Web Site. The scope and terms of this Privacy Policy are set out below. 
+**1\. Purpose**. Jabil Circuit, Inc. has created the following Privacy Policy (a) to comply with the United States Safe Harbor, (b) to facilitate the exchange of information between Jabil Circuit, Inc.'s offices located in the United States, in the European Union, and in other jurisdictions, and (c) to govern information Jabil Circuit, Inc. generally receives through this Web Site. The scope and terms of this Privacy Policy are set out below.
 
-**2\. Your Agreement.** Your use of this Web Site, or submission of information via this Web Site, constitutes your agreement to the terms of this Privacy Policy. Please review these terms to ensure they are acceptable. In addition, please also review our Terms of Use, located at http://jabil.com/legal.asp to ensure they are similarly acceptable.
+**2\. Your Agreement.** Your use of this Web Site, or submission of information via this Web Site, constitutes your agreement to the terms of this Privacy Policy. Please review these terms to ensure they are acceptable. In addition, please also review our Terms of Use, located at <http://www.jabil.com/legal.html> to ensure they are similarly acceptable.
 
 **3\. Definitions.** Capitalized terms used in this Privacy Policy have the meanings set forth in Section 21 (Defined Terms).
 
-**4\. Safe Harbor Certification.** Jabil US has adopted (i) this Safe Harbor and Online Users Privacy Policy and (ii) a separate Jabil US EU Employee Privacy Policy in order to participate in the US Safe Harbor. Jabil US certifies with the U.S. Department of Commerce that these Privacy Policies comply with the Safe Harbor and provide the adequate protections specified in the Data Protection Directive. 
+**4\. Safe Harbor Certification.** Jabil US has adopted (i) this Safe Harbor and Online Users Privacy Policy and (ii) a separate Jabil US EU Employee Privacy Policy in order to participate in the US Safe Harbor. Jabil US certifies with the U.S. Department of Commerce that these Privacy Policies comply with the Safe Harbor and provide the adequate protections specified in the Data Protection Directive.
 
 **5\. Scope of Privacy Policy.**
 
@@ -16,35 +16,35 @@
 
 **5.2. No Application to Jabil Employees; Employee Personal Data Protection.** This Privacy Policy does not set out the Personal Data Protection Practices of Jabil US and Jabil Affiliates with respect to Jabil Employees, and this Privacy Policy does not cover Jabil Employees.
 
-**6\. Site Visitors.** Information which Jabil US may receive concerning Site Visitors using the Jabil Web Site falls into two broad categories: Aggregate Information (defined below in Section 6.1) and Personal Data. This Section sets out the Personal Data Protection Practices applicable to Site Visitors. 
+**6\. Site Visitors**. Information which Jabil US may receive concerning Site Visitors using the Jabil Web Site falls into two broad categories: Aggregate Information (defined below in Section 6.1) and Personal Data. This Section sets out the Personal Data Protection Practices applicable to Site Visitors.
 
 **6.1. Aggregate Information from Site Visitors.** "Aggregate Information" is information that does not identify a Site Visitor, and may include, for example, statistical information concerning the web pages on the Jabil Web Site that users most frequent. Aggregate Information may be collected through cookies and similar Internet technologies. "Cookies" are small text files that a web site can use to recognize repeat users, to facilitate the user's ongoing access to and use of the site, and to compile aggregate data to improve the web site and focus advertising. If Jabil US uses cookies or other similar Internet technologies on the Jabil Web Site, these technologies will not collect or retain the Site Visitor's name or other Personal Data. In addition, no third parties are permitted to use for their own purposes cookies Jabil US may create at the Jabil Web Site. With Aggregate Information, Jabil US may undertake or commission statistical and other summary analyses of Site Visitor behavior and characteristics when visiting the Jabil Web Site. Although Jabil US may share this aggregate information with third parties, no aggregate information Jabil US provides to third parties will allow such third parties to identify a Site Visitor, or determine anything personal about the Site Visitor.
 
 **6.2. Personal Data from Site Visitors.** Jabil US may receive Personal Data from Site Visitors who use the Jabil Web Site, where applicable, (i) to submit questions or comments to Jabil US, (ii) to request information about products or services offered by Jabil US or Jabil Affiliates, or (iii) to employ other features that may be available at the Web Site which call for submission of Personal Data. Jabil US uses Personal Data which Site Visitors submit through the Jabil Web Site (a) to respond to the Site Visitor (although Jabil US in this Privacy Policy undertakes no obligation to respond to any Site Visitor), and (b) to provide the services or products requested by the Site Visitor, where the requested services or products are, in fact, offered by Jabil US and are in accordance with Jabil US's standard business procedures.
 
-**6.2.1. Further Uses.** Jabil US and US Affiliates may wish to use a Site Visitor's Personal Information for purposes which are in addition to those specified in Section 6.2 (Personal Data from Site Visitors) and which do not involve disclosures beyond those permitted in Section 12 (Onward Disclosures). If Jabil US uses a Site Visitor's Personal Data for these additional Jabil-related purposes, such as for contacting the Site Visitor independent of an inquiry from the Site Visitor, the Site Visitor shall be entitled to opt-out of such additional uses in accordance with Section 11 (Choice and Opt-Out Rights). 
+**6.2.1. Further Uses**. Jabil US and US Affiliates may wish to use a Site Visitor's Personal Information for purposes which are in addition to those specified in Section 6.2 (Personal Data from Site Visitors) and which do not involve disclosures beyond those permitted in Section 12 (Onward Disclosures). If Jabil US uses a Site Visitor's Personal Data for these additional Jabil-related purposes, such as for contacting the Site Visitor independent of an inquiry from the Site Visitor, the Site Visitor shall be entitled to opt-out of such additional uses in accordance with Section 11 (Choice and Opt-Out Rights).
 
 **6.2.2. Disclosure.** Jabil US will not disclose Personal Data received from Site Visitors except in accordance with Section 12 (Onward Disclosures).
 
 **7\. Employment Applicants.** The Jabil Web Site allows Employment Applicants to submit employment applications to Jabil US and to Jabil Affiliates. In addition, Jabil US and US Affiliates may receive from EU Affiliates information concerning EU Employment Applicants. Applications submitted by Employment Applicants will include Personal Data. This Section provides Jabil US's Personal Data Protection Practices with respect to such Personal Data.
 
-**7.1. Use of Employment Applicants' Personal Data.** Jabil US uses Personal Data it receives from Employment Applicants (i) to process the Applicants' applications, (ii) to contact references which may be identified in such applications, (iii) to collect and compile additional information concerning the Applicant from available sources, consistent with applicable law, and (iv) to evaluate the Employment Applicant's candidacy for employment. 
+**7.1. Use of Employment Applicants' Personal Data**. Jabil US uses Personal Data it receives from Employment Applicants (i) to process the Applicants' applications, (ii) to contact references which may be identified in such applications, (iii) to collect and compile additional information concerning the Applicant from available sources, consistent with applicable law, and (iv) to evaluate the Employment Applicant's candidacy for employment.
 
 **7.1.1. Further Uses.** Jabil US and US Affiliates may wish to use an Employment Applicant's Personal Data for purposes which are in addition to those specified in Section 7.1 (Use of Employment Applicant's Personal Data) and which do not involve disclosures beyond those permitted in Section 12 (Onward Disclosures). If Jabil US uses an Employment Applicant's Personal Data for these additional Jabil-related purposes, such as for contacting the Employment Applicant independent of the employment application process, the Employment Applicant shall be entitled to opt-out of such additional uses in accordance with Section 11 (Choice and Opt-Out Rights).
 
-**7.1.2. Disclosure.** Jabil US will not disclose Personal Data received from an Employment Applicant except in accordance with Section 12 (Onward Disclosures). If the Employment Applicant seeks employment with a Jabil Affiliate, Jabil US will provide relevant information concerning the Employment Applicant, including Personal Data, to such Jabil Affiliate, subject to Section 12 (Onward Disclosures). 
+**7.1.2. Disclosure.** Jabil US will not disclose Personal Data received from an Employment Applicant except in accordance with Section 12 (Onward Disclosures). If the Employment Applicant seeks employment with a Jabil Affiliate, Jabil US will provide relevant information concerning the Employment Applicant, including Personal Data, to such Jabil Affiliate, subject to Section 12 (Onward Disclosures).
 
 **7.2. Sensitive Data.** Jabil US and Jabil Affiliates do not request Sensitive Data from Employment Applicants, except as expressly permitted under the local laws and regulations of the applicable jurisdiction. In the event an Employment Applicant submits Sensitive Data, Jabil US will handle such Sensitive Data in accordance with Section 10 (Sensitive Data).
 
 **7.3. No Obligation to Consider Application.** Due to the nature of the Internet and the structure of the Jabil Web Site, Jabil US may receive (i) substantially more applications through the Jabil Web Site than Jabil US wishes to review, (ii) applications which do not meet the requirements for positions that are available, and (iii) applications at points where no positions are currently available. Accordingly, there is no assurance that Jabil US will process or review materials which Employment Applicants submit seeking employment with Jabil US or any of its Affiliates, and Jabil US expressly disclaims any obligation to engage in such processing or review, and disclaims any obligation to respond to any Employment Applicant submissions.
 
-**8\. EU Business Contacts.** Jabil US may receive or collect Personal Data with respect to EU Business Contacts, directly or through an EU Affiliate. 
+**8\. EU Business Contacts.** Jabil US may receive or collect Personal Data with respect to EU Business Contacts, directly or through an EU Affiliate.
 
-**8.1. Use of Personal Data from EU Business Contacts.** Jabil US uses Personal Data from EU Business Contacts (i) to perform and enforce applicable contractual obligations with an EU Business Contact, (ii) to evaluate an existing or prospective relationship with such EU Business Contact, including a possible merger or acquisition, (iii) to perform services or provide goods requested by the EU Business Contract; and (iv) to solicit business from or present business opportunities to the EU Business Contact. 
+**8.1. Use of Personal Data from EU Business Contacts.** Jabil US uses Personal Data from EU Business Contacts (i) to perform and enforce applicable contractual obligations with an EU Business Contact, (ii) to evaluate an existing or prospective relationship with such EU Business Contact, including a possible merger or acquisition, (iii) to perform services or provide goods requested by the EU Business Contract; and (iv) to solicit business from or present business opportunities to the EU Business Contact.
 
-**8.2. Disclosure.** Jabil US will not disclose Personal Data received from EU Business Contacts except in accordance with Section 12 (Onward Disclosures). 
+**8.2. Disclosure.** Jabil US will not disclose Personal Data received from EU Business Contacts except in accordance with Section 12 (Onward Disclosures).
 
-**8.3. Business Card Information.** Business Card Information (as defined below) is customarily freely exchanged, and generally does not qualify as Personal Data because it is publicly available, as set out in Section 21.15. Accordingly, Business Card Information is treated differently than Personal Data under this Privacy Policy, as set out below: 
+**8.3. Business Card Information.** Business Card Information (as defined below) is customarily freely exchanged, and generally does not qualify as Personal Data because it is publicly available, as set out in Section 21.15. Accordingly, Business Card Information is treated differently than Personal Data under this Privacy Policy, as set out below:
 
 **8.3.1. Business Card Information.** Except in the case of merger or acquisition candidates and in other circumstances where additional information is advisable, in its uses of information from EU Business Contacts Jabil US and US Affiliates generally employ only that Personal Data (i) which identifies individual decision-makers at the relevant EU Business Contact, and (ii) which consists of such individual's business address, business email, and business telephone number (collectively "Business Card Information").
 
@@ -58,7 +58,7 @@
 
 **10\. Sensitive Data.** This Section provides Jabil US's and US Affiliates' Personal Data Protection Practices regarding Sensitive Data.
 
-**10.1. Compliance with Law.** Jabil US and Jabil Affiliates comply with laws and regulations applicable to Sensitive Data in their respective jurisdictions, and do not collect or request Sensitive Data except in accordance with such laws and regulations.
+**10.1. Compliance with Law**. Jabil US and Jabil Affiliates comply with laws and regulations applicable to Sensitive Data in their respective jurisdictions, and do not collect or request Sensitive Data except in accordance with such laws and regulations.
 
 **10.2. Additional Protections for Sensitive Data.** If Jabil US or US Affiliates receive Sensitive Data concerning an EU Data Subject, Jabil US and US Affiliates will not disclose such Sensitive Data to any third party and will not use the Sensitive Data for any purpose other than (i) for the purpose for which it was originally provided by the EU Data Subject or (ii) for a later purpose expressly authorized or consented to by the EU Data Subject, except as provided below in Section 10.3 (Exception from Consent Requirement for Certain Disclosures).
 
@@ -76,7 +76,7 @@
 
 **12.2. Jabil Agents.** Jabil US and US Affiliates may disclose Personal Data of Safe Harbor and Online Privacy Policy Data Subjects (i) to a third party that is acting as Jabil US's agent to perform tasks on Jabil US's behalf and under Jabil US's supervision, including but not limited to its Worldwide Affiliates, and (ii) to a third party that is acting as a US Affiliate's agent to perform tasks on the Affiliate's behalf and under its supervision, including but not limited to its Worldwide Affiliates, provided the third party either (a) subscribes to the Safe Harbor principles or is subject to the Data Protection Directive or another personal data protection adequacy finding of the EU or (b) agrees (1) to provide auditable protections for the Safe Harbor and Online Privacy Policy Data Subject's privacy interests that are no less protective than those set out in this Privacy Policy, and (2) to use the Personal Data only for the purposes for which the third party has been engaged by Jabil US or the US Affiliate.
 
-**12.3. Other Third Parties.** Except as provided in Section 10.3 (Exception for Consent Requirement for Certain Disclosures), Jabil US and US Affiliates will not disclose Personal Data of Safe Harbor and Online Privacy Policy Data Subjects to any third party other than one identified in this Section 12 (Onward Disclosures) without the express consent of the Data Subject.
+**12.3. Other Third Parties**. Except as provided in Section 10.3 (Exception for Consent Requirement for Certain Disclosures), Jabil US and US Affiliates will not disclose Personal Data of Safe Harbor and Online Privacy Policy Data Subjects to any third party other than one identified in this Section 12 (Onward Disclosures) without the express consent of the Data Subject.
 
 **13\. Confidentiality and Security Of Personal Data.** Jabil US and US Affiliates maintain physical, electronic and procedural safeguards designed to secure Personal Data of Safe Harbor and Online Privacy Policy Data Subjects, and to prevent unauthorized access. These technical security systems are structured to deter and prevent hackers and others from accessing Personal Data of Safe Harbor and Online Privacy Policy Data Subjects.
 
@@ -94,7 +94,7 @@
 
 **14.4. Extent of Data Deletions.** Upon fulfilling a requested deletion of Personal Data under this Section 14 (Right to Access, Change, or Delete Personal Data), Jabil US and US Affiliates will cease to use such Data and will use commercially reasonable efforts to remove all record of such Data; however, it may be impossible to delete the information completely from applicable Jabil databases, due to backups and records of deletions.
 
-**15\. Privacy Protection For Children.** The Jabil Web Site is not directed at children, and Jabil US will not accept or request Personal Data from individuals Jabil US knows to be under 13. In accordance with the Children's Online Privacy Protection Act of 1998, if Jabil US learns that a child under 13 has provided Personal Data, Jabil US will delete this information from its databases, in accordance with its deletion policy, set out in Section 14 (Right to Access, Change, or Delete Personal Data). For more information regarding a child under the age of 13 providing personal information to a web site, see the Federal Trade Commission's web site explaining the Children's Online Privacy Protection Act of 1998 at [http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/.](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/)
+**15\. Privacy Protection For Children.** The Jabil Web Site is not directed at children, and Jabil US will not accept or request Personal Data from individuals Jabil US knows to be under 13. In accordance with the Children's Online Privacy Protection Act of 1998, if Jabil US learns that a child under 13 has provided Personal Data, Jabil US will delete this information from its databases, in accordance with its deletion policy, set out in Section 14 (Right to Access, Change, or Delete Personal Data). For more information regarding a child under the age of 13 providing personal information to a web site, see the Federal Trade Commission's web site explaining the Children's Online Privacy Protection Act of 1998 at [http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/.](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy)
 
 **16\. Exceptions.** As further provided in Section 10.3 (Exception for Consent Requirement for Certain Disclosures), Jabil US and US Affiliates may disclose Personal Data as may be required in legal proceedings, or in response to a subpoena, court order, or administrative order compelling disclosure. In addition, in cases involving a threat of imminent harm to a Data Subject or to others, Jabil US and US Affiliates may release such Personal Data to prevent or mitigate the threat. In any such case, Jabil US and US Affiliates will seek to limit the scope of disclosure, and will disclose only such Data as is reasonably required to fulfill the purpose of the disclosure.
 
@@ -104,11 +104,12 @@
 
 **19\. Choice Of Law And Jurisdiction.** This Privacy Policy shall be construed in accordance with the laws of the State of Florida, without regard to any conflict of law provisions. Any dispute arising under this Privacy Policy shall be resolved exclusively by the state or federal courts sitting in Pinellas County, Florida, with the exception of those disputes for which the Data Protection Directive requires resolution in an alternative forum or jurisdiction.
 
-**20\. Complaints, Questions, and Requests.** Safe Harbor and Online Privacy Policy Data Subjects may contact Jabil US and US Affiliates (i) with complaints concerning this Privacy Policy or its implementation, (ii) with questions concerning this Policy, and (iii) with requests under Section 14 (Right to Access, Change, or Delete Personal Data), at the following address:
+**20\. Complaints, Questions, and Requests.** Safe Harbor and Online Privacy Policy Data Subjects may contact Jabil US and US Affiliates (i) with complaints concerning this Privacy Policy or its implementation, (ii) with questions concerning this Policy, and (iii) with requests under Section 14 (Right to Access, Change, or Delete Personal Data), at the following address:  
+
 
 Jabil Circuit, Inc.  
 US Safe Harbor Compliance  
-C/O Jason Reynolds  
+C/O Sangita Shah  
 10560 Dr. Martin Luther King Street North  
 St. Petersburg, FL 33716  
 Phone: 727-803-3945  
@@ -117,7 +118,7 @@ e-mail: [ussafeharborcompliance@jabil.com](mailto:ussafeharborcompliance@jabil.c
 
 **21\. Defined Terms.** Capitalized terms in this Privacy Policy have the following meaning:
 
-**21.1. "Business Card Information"** means the information found on a standard business card, as further defined in Section 8.3.1 (Business Card Information), below.
+**21.1. "Business Card Information"** means the information found on a standard business card, as further defined in Section 8.3.1 (Business Card Information), below. 
 
 **21.2. "Data Subject"** means the natural person who is the subject of, and identified in, Personal Data.
 
@@ -141,11 +142,11 @@ e-mail: [ussafeharborcompliance@jabil.com](mailto:ussafeharborcompliance@jabil.c
 
 **21.12. "Jabil Employee"** means an employee of Jabil US or a Jabil Affiliate.
 
-**21.13. "Jabil US"** means Jabil Circuit, Inc. incorporated under the laws of the state of Delaware having its corporate headquarters in St. Petersburg, Florida, USA.
+**21.13. "Jabil US"** means Jabil Circuit, Inc. incorporated under the laws of the state of Delaware having its corporate headquarters in St. Petersburg, Florida, USA. 
 
 **21.14. "Jabil Web Site" or the"Web Site"** means Jabil US's Internet web site located at www.jabil.com.
 
-**21.15. "Personal Data"** means data that personally identifies a Data Subject or that may be used to personally identify a Data Subject (such as an identification number that identifies a Data Subject). Personal Data includes data such as an individual's name, address, phone number, email address, user ID and password, personal billing information, and credit card information. Personal Data does not include data that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Data. This Privacy Policy imposes greater restrictions on Sensitive Data (as this term is defined below) than on Personal Data; accordingly, unless expressly stated, the term "Personal Data" does not include "Sensitive Data." 
+**21.15. "Personal Data"** means data that personally identifies a Data Subject or that may be used to personally identify a Data Subject (such as an identification number that identifies a Data Subject). Personal Data includes data such as an individual's name, address, phone number, email address, user ID and password, personal billing information, and credit card information. Personal Data does not include data that is encoded or anonymized, or publicly available information that has not been combined with non-public Personal Data. This Privacy Policy imposes greater restrictions on Sensitive Data (as this term is defined below) than on Personal Data; accordingly, unless expressly stated, the term "Personal Data" does not include "Sensitive Data."
 
 **21.16. "Personal Data Protection Practices"** means practices concerning the collection, use, and disclosure of Personal Data.
 
@@ -161,26 +162,28 @@ e-mail: [ussafeharborcompliance@jabil.com](mailto:ussafeharborcompliance@jabil.c
 
 **21.22. "Worldwide Affiliates"** means Jabil Affiliates other than (i) EU Affiliates or (ii) US Affiliates.
 
-## Opt Out Notice For Direct Marketing
+**Opt Out Notice For Direct Marketing**
 
 Capitalized terms in this Notice are defined in Jabil US's Privacy Policy for Safe Harbor and Online Users. This Policy is located at [www.jabil.com](http://www.jabil.com/)
 
-Jabil US and US Affiliates periodically may wish to use Personal Data to send Direct Marketing Information to a Safe Harbor and Online Privacy Policy Data Subject. Such Data Subjects have the right to opt out of receiving such Direct Marketing Information, in accordance with Section 11 of Jabil US's Privacy Policy for Safe Harbor and Online Users. If you are a Safe Harbor and Online Privacy Policy Data Subject, and you choose to exercise this opt out right, please complete and execute this form and mail it to Jabil US at the following address: 
+Jabil US and US Affiliates periodically may wish to use Personal Data to send Direct Marketing Information to a Safe Harbor and Online Privacy Policy Data Subject. Such Data Subjects have the right to opt out of receiving such Direct Marketing Information, in accordance with Section 11 of Jabil US's Privacy Policy for Safe Harbor and Online Users. If you are a Safe Harbor and Online Privacy Policy Data Subject, and you choose to exercise this opt out right, please complete and execute this form and mail it to Jabil US at the following address:
 
 Jabil Circuit, Inc.  
 US Safe Harbor Compliance  
-C/O Jason Reynolds  
+C/O Sangita Shah  
 10560 Dr. Martin Luther King Street North  
-St. Petersburg, FL 33716
+St. Petersburg, FL 33716 
 
-__________________________________________
+__________________________________________ 
 
-I HAVE READ AND UNDERSTAND JABIL CIRCUIT, INC.'S. PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS AND HEREBY EXERCISE MY RIGHT UNDER APPLICABLE PRIVACY LAWS AND PRINCIPLES TO OPT OUT OF JABIL CIRCUIT, INC.'S USE OF MY PERSONAL DATA FOR ITS DIRECT MARKETING PURPOSES (AS THOSE TERMS ARE DEFINED IN THE JABIL PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS, LOCATED AT WWW.JABIL.COM) BY DOING SO, I, AS THE DATA SUBJECT, UNDERSTAND THAT JABIL CIRCUIT, INC. WILL NOT SEND ME DIRECT MARKETING INFORMATION, BUT MAY STILL USE MY PERSONAL DATA FOR THE PURPOSE IT WAS ORIGINALLY COLLECTED OR FOR WHICH I SUBSEQUENTLY AUTHORIZE AND MAY STILL DISCLOSE MY PERSONAL DATA, AS DESCRIBED ELSEWHERE IN THE PRIVACY POLICY AND AS PERMITTED UNDER OR REQUIRED BY APPLICABLE LAW.
+I HAVE READ AND UNDERSTAND JABIL CIRCUIT, INC.'S. PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS AND HEREBY EXERCISE MY RIGHT UNDER APPLICABLE PRIVACY LAWS AND PRINCIPLES TO OPT OUT OF JABIL CIRCUIT, INC.'S USE OF MY PERSONAL DATA FOR ITS DIRECT MARKETING PURPOSES (AS THOSE TERMS ARE DEFINED IN THE JABIL PRIVACY POLICY FOR SAFE HARBOR AND ONLINE USERS, LOCATED AT WWW.JABIL.COM) BY DOING SO, I, AS THE DATA SUBJECT, UNDERSTAND THAT JABIL CIRCUIT, INC. WILL NOT SEND ME DIRECT MARKETING INFORMATION, BUT MAY STILL USE MY PERSONAL DATA FOR THE PURPOSE IT WAS ORIGINALLY COLLECTED OR FOR WHICH I SUBSEQUENTLY AUTHORIZE AND MAY STILL DISCLOSE MY PERSONAL DATA, AS DESCRIBED ELSEWHERE IN THE PRIVACY POLICY AND AS PERMITTED UNDER OR REQUIRED BY APPLICABLE LAW. 
 
-Signed:___________________________________  
-Print Name:________________________________  
-Date:_____________________________________   
-Mailing Address:____________________________  
+Signed:____________________________________  
+Print Name:_________________________________  
+Date:______________________________________  
+Mailing Address:_____________________________  
 Telephone No.:______________________________
 
 FCH1 #79169 v1
+
+0709
