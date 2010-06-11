@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2009-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091128060924id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bargainoutfitters.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611063810id_/http%3A//www.bargainoutfitters.com/net/main/Privacy.aspx) for the most accurate reproduction.*
 
 # Bargain Outfitters - Bargains, Discounts, Markdowns, Deals, on Boots, Clothing, Outdoor Gear at Bargain Outfitters
 
@@ -24,7 +24,7 @@ In order to make you feel comfortable and secure in our online store, Bargain Ou
   * Security
   * Children
   * Notification of Change
-  * [Terms of Use](https://web.archive.org/web/20091128060924id_/http%3A//www.bargainoutfitters.com/net/main/TermsOfUse.aspx)
+  * [Terms of Use](https://web.archive.org/web/20100611063810id_/http%3A//www.bargainoutfitters.com/net/main/TermsOfUse.aspx)
 
 
 
