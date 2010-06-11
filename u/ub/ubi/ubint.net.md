@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubint.net privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225051328id_/http%3A//www.ubint.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubint.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612013748id_/http%3A//www.ubint.net/privacy.php) for the most accurate reproduction.*
 
 # Unblocked and uncensored browsing with ubint.net!
 
