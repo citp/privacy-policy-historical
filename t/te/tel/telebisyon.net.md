@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the telebisyon.net privacy policy that was archived on 2009-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090414230805id_/http%3A//telebisyon.net/tulong/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telebisyon.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211446id_/http%3A//telebisyon.net/tulong/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,6 +14,7 @@ Search
 ---  
 |   
 ---  
+  
  | 
 
 Telebisyon.net knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. **By visiting Telebisyon.net, you are accepting the practices described in this Privacy Notice.**
