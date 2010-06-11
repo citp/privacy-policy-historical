@@ -1,157 +1,35 @@
-<!--The following is the downloaded HTML source of the guildportal.com privacy policy that was archived on 2009-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090321053806id_/http%3A//www.guildportal.com/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the guildportal.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611024102id_/http%3A//www.guildportal.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><title>
-	GuildPortal Guild Hosting and Management - GuildPortal the Leader in Guild Hosting - for World of Warcraft, Warhammer Online, Age of Conan, Lord of the Rings, Everquest and more!
-</title><meta name="description" content="The leader in guild web site hosting and management for massively multiplayer online game guilds."><meta name="keywords" content="guildportal,guild portal,guild hosting,guild management,cms,content management system,world of warcraft,warhammer,age of conan,everquest,everquest 2,guild web sites"><meta name="ROBOTS" content="NOODP"><meta name="author" content="GuildPortal.com, a trademark of Axiom Shift, LLC"><link rel="stylesheet" href="/App_Themes/Glossy09/StyleSheet.css" type="text/css"><link rel="stylesheet" href="/Cms/addins/facebox/facebox.css" type="text/css">
-
-    <script type="text/javascript" src="/Cms/jquery-1.3.1.min.js"></script>
-    <script type="text/javascript" src="/Cms/jquery.watermark.pack.js"></script>
-    <script type="text/javascript" src="/Cms/addins/facebox/facebox.js"></script>
-
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/apple-touch-icon.png">
-    
-    <script type="text/javascript">
-        function writeFlashElement(iWidth, iHeight, sSrc, sNavTo)
-        {
-            var gpDoc = document; 
-            
-            gpDoc.write('<span onmousedown="window.location.href=&#39;' + sNavTo + '&#39;">');
-            gpDoc.write('<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="' + iWidth.toString() + '" height="' + iHeight.toString() + '">');
-            gpDoc.write('<param name="movie" value="' + sSrc + '">');
-            gpDoc.write('<param name="quality" value="high">');
-            gpDoc.write('<param name="wmode" value="transparent">');
-            gpDoc.write('<embed src="' + sSrc + '" WMODE="transparent" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="' + iWidth.toString() + '" height="' + iHeight.toString() + '"></embed></object>');
-            gpDoc.write('</span>');        
-        }
-
-    </script>
-    
-    
+	GuildPortal Guild Website Hosting - World of Warcraft, EverQuest2, Lord of the Rings, Warhammer, more - GuildPortal the Leader in Guild Hosting
+</title><meta name="description" content="GuildPortal.com is the Leader in Guild Web Hosting for MMO Guilds, Clans and Legions. Member, Better Business Bureau.  Unmatched reliability and speed, regular improvements and additions, and ethical business practices have been GuildPortal's defining characteristics.  All the features you'd expect, many that you wouldn't."><meta name="keywords" content="guild hosting,guildportal,guild portal,guild web sites,free guild sites,guild management,world of warcraft,champions online,aion,warhammer,everquest,everquest 2"><meta name="ROBOTS" content="NOODP"><meta name="author" content="GuildPortal.com, a trademark of Axiom Shift, LLC"><meta name="application-name" content="GuildPortal"><meta http-equiv="X-UA-Compatible" content="IE=8"><link rel="alternate" type="application/rss+xml" title="GuildPortal Updates RSS" href="/rss/updates/"><link rel="stylesheet" href="/App_Themes/Glossy09/StyleSheet20100121.css" type="text/css"><link rel="stylesheet" href="/Cms/addins/facebox/facebox.css" type="text/css">
             <script type="text/javascript">
                 var pageIdent = "GuildPortal the Leader in Guild Hosting"; 
             </script>
 
-    <script type="text/javascript">
-    
-        // Center an object on the screen
-        jQuery.fn.center = function() {
-	        var w = $(window);
-	        this.css("position","absolute");
-	        
-	        this.css("top",(w.height()-this.height())/2+w.scrollTop() + "px");
-	        this.css("left",(w.width()-this.width())/2+w.scrollLeft() + "px");
-	        this.css("opacity", ".7"); 
-	        
-	        return this;
-        }
-
-        function pageBackSwitch(intForBack) {
-            if (intForBack == '') {
-                $("body").css("background-image", "url('/App_Themes/Glossy09/PageBack.png')");
-            }
-            else {
-                $("body").css("background-image", "url('/App_Themes/Glossy09/PageBack" + intForBack + ".png')");
-            }
-        };
-
-        function refreshGrids() {
-            $(".gp3-data-grid  div:even").addClass("gp3-data-grid-row-even");
-        }
-
-        jQuery(document).ready(
-            function() {
-
-                $("#gp-toolbar-button-home").click(function() { window.location = "/Default.aspx"; })
-                $("#gp-toolbar-button-new-group").click(function() { window.location = "/NewGuild.aspx"; })
-                $("#gp-toolbar-button-features").click(function() { window.location = "/Features.aspx"; })
-                $("#gp-toolbar-button-support").click(function() { window.location = "/Support.aspx"; })
-                $("#gp-toolbar-button-pricing").click(function() { window.location = "/Pricing.aspx"; })
-                $("#gp-toolbar-button-faq").click(function() { window.location = "/FAQ.aspx"; })
-                $("#gp-create-now-button").click(function() { window.location = "/NewGuild.aspx"; })
-
-                switch (pageIdent) {
-                    case "Home":
-                        $("#gp-toolbar-button-home").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                    case "New Guild":
-                        $("#gp-toolbar-button-new-group").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                    case "Guild Hosting Features":
-                        $("#gp-toolbar-button-features").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                    case "GuildPortal Support":
-                        $("#gp-toolbar-button-support").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                    case "Guild Hosting Pricing":
-                        $("#gp-toolbar-button-pricing").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                    case "Frequently Asked Questions":
-                        $("#gp-toolbar-button-faq").removeClass("gp-toolbar-button").addClass("gp-toolbar-button-active");
-                        break;
-                }
-
-                jQuery("#gp-why-header").hide();
-                jQuery("#gp-why-body").hide();
-                jQuery(".gp-toolbar-button").hover(function() {
-                    jQuery(this).removeClass("gp-toolbar-button").addClass("gp-toolbar-button-hover");
-                },
-                function() {
-                    jQuery(this).removeClass("gp-toolbar-button-hover").addClass("gp-toolbar-button");
-                });
-                jQuery(".gp-search-box").focus(function() {
-                    jQuery(this).removeClass("gp-search-box").addClass("gp-search-box-focused");
-                });
-                jQuery(".gp-search-box").blur(function() {
-                    jQuery(this).removeClass("gp-search-box-focused").addClass("gp-search-box");
-                });
-                if ($('.gp-search-box').val() == '') {
-                    $('.gp-search-box').val("Search Guilds...");
-                }
-                jQuery("#gp-create-now-button").hover(function() {
-                    jQuery(this).attr("src", "/App_Themes/Glossy09/GpCreateNowHover.png");
-                },
-                function() {
-                    jQuery(this).attr("src", "/App_Themes/Glossy09/GpCreateNow.png");
-                });
-
-                jQuery("attr[rel*='facebox']").facebox();
-                jQuery("#gp-why-header").fadeIn(1000);
-                jQuery("#gp-why-body").fadeIn(3500);
-
-
-                $(".gp-search-box").bind("keypress", function(e) {
-                    var code = e.charCode || e.keyCode;
-                    if (code == 13) {
-                        window.location = "/Search.aspx?SearchText=" + $(this).val();
-                        return false;
-                    }
-                    else {
-                        return true;
-                    }
-                });
-
-                $('.gp-search-box').watermark();
-                $('.gp-input-text').watermark();
-
-                $('input[type=text],input[type=password]').focus(function() {
-                    $(this).addClass("gp3-shadow-boxer");
-                }).blur(function() { $(this).removeClass("gp3-shadow-boxer"); });
-            });
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pub=gpaaron"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>    
         
-    </script>
-    
-</head>
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><link rel="icon" href="/favicon.png" type="image/png" sizes="32x32"><link rel="icon" href="/favicon.png" type="image/png" sizes="33x34"><link rel="icon" href="/apple-touch-icon.png" type="image/png" sizes="57x61"><link rel="apple-touch-icon" href="/apple-touch-icon.png"><base href="http://www.guildportal.com/"></head>
 <body>
-    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1MzQyNTc5OA9kFgJmD2QWBAIBD2QWAgIODxYCHgRUZXh0BZEBDQogICAgICAgICAgICA8c2NyaXB0IHR5cGU9InRleHQvamF2YXNjcmlwdCI+DQogICAgICAgICAgICAgICAgdmFyIHBhZ2VJZGVudCA9ICJHdWlsZFBvcnRhbCB0aGUgTGVhZGVyIGluIEd1aWxkIEhvc3RpbmciOyANCiAgICAgICAgICAgIDwvc2NyaXB0PmQCAw9kFgQCAQ9kFgICAQ8PFgIfAAUXV2VsY29tZSB0byBHdWlsZFBvcnRhbCFkZAIFDw8WAh4HVmlzaWJsZWhkZBgCBR5fX0NvbnRyb2xzUmVxdWlyZVBvc3RCYWNrS2V5X18WAQUPY3RsMDAkbG9naW5TYXZlBRFjdGwwMCRtdlVzZXJTdGF0ZQ8PZAIBZKyTkW+POc387YbPljeUcmcbTZFG">
+    <form name="aspnetForm" method="post" action="/privacy/" id="aspnetForm">
+<div>
+<input type="hidden" name="ctl00_smGp3Master_TSM" id="ctl00_smGp3Master_TSM" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMjA1MzQyNTc5OA9kFgJmD2QWAgIDDxYCHgZhY3Rpb24FCS9wcml2YWN5LxYCAgIPZBYCAgEPDxYCHgRUZXh0BRdXZWxjb21lIHRvIEd1aWxkUG9ydGFsIWRkGAEFEWN0bDAwJG12VXNlclN0YXRlDw9kAgFk">
+</div>
 
+
+<script src="/Telerik.Web.UI.WebResource.axd?_TSM_HiddenField_=ctl00_smGp3Master_TSM&amp;compress=1&amp;_TSM_CombinedScripts_=%3b%3bSystem.Web.Extensions%2c+Version%3d3.5.0.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d31bf3856ad364e35%3aen-US%3a8ac4a3ed-a467-4f19-a8ed-9270f6e4c6d6%3aea597d4b" type="text/javascript"></script>
+<script src="../Cms/jquery.watermark.pack.js" type="text/javascript"></script>
+<script src="../Cms/addins/facebox/facebox-latest.pack.js" type="text/javascript"></script>
+<script src="../Cms/Gp3MasterPublic-latest.pack.js" type="text/javascript"></script>
     
+    
+
     <div id="gp-body-wrapper">
 
         <div id="gp3-top-info-bar"></div>
-
-
 
         <!-- HEADER WRAPPER -->
         <div id="gp-header-wrapper">
@@ -160,9 +38,8 @@
                 <tbody><tr>
                     <td id="gp-header-left">&nbsp;</td>
                     <td id="gp-banner-cell">
-                  
-                    
                         <img src="/App_Themes/Glossy09/GPBig3.png" id="gp-big" alt="GuildPortal is the Leader in Guild Hosting!">                        
+                        <a href="/faq/?FAQEntry=47" title="That's right, we've been providing guild hosting for 8 years!  Click to read more."><img alt="That's right, we've been providing guild hosting for 8 years!  Click to read more." src="/App_Themes/Glossy09/8Years.png" id="gp-8year" border="0"></a>
                     </td>
                     <td id="gp-new-group-cell">
                         <img id="gp-create-now-button" src="/App_Themes/Glossy09/GpCreateNow.png" border="0" alt="Get your guild online, for free!">
@@ -178,12 +55,13 @@
         
         <table id="gp-main-toolbar" cellpadding="0" cellspacing="0">
             <tbody><tr>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-home"><a href="/Default.aspx">Home</a></td>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-new-group"><a href="/NewGuild.aspx">Get Hosted</a></td>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-features"><a href="/Features.aspx">Features</a></td>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-support"><a href="/Support.aspx">Support</a></td>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-pricing"><a href="/Pricing.aspx">Pricing</a></td>
-                <td class="gp-toolbar-button" id="gp-toolbar-button-faq"><a href="/FAQ.aspx">FAQ</a></td>
+                <td class="gp-toolbar-button" id="gp-toolbar-button-home"><a title="GuildPortal Home Page" href="/">Guild Hosting</a></td>
+                <td class="gp-toolbar-button" id="gp-toolbar-button-new-group"><a title="Get your guild online." href="/newguild/">Get Hosted</a></td>
+                <td class="gp-toolbar-button" id="gp-toolbar-button-features"><a title="View a brief list of features." href="/features/">Features</a></td>
+                <td class="gp-toolbar-button" id="gp-toolbar-button-support"><a title="Send in a support ticket." href="/support/">Support</a></td>
+                <td class="gp-toolbar-button" id="gp-toolbar-button-pricing"><a title="Hosting is free, but subscribers see no ads.  Click for information on pricing." href="/pricing/">Pricing</a></td>
+                <td class="gp-toolbar-button gp-toolbar-button-faq" id="gp-toolbar-button-faq"><a title="Read answers to frequently asked questions." href="/faq/">FAQ</a></td>
+                <td class="gp-toolbar-button gp-toolbar-button-guilds" id="gp-toolbar-button-guilds"><a title="Browse or search guilds hosted at GuildPortal.com." href="/search/">Guilds</a></td>
                 
                 <td id="gp-toolbar-search-container">
                     
@@ -219,22 +97,15 @@
                                     </tbody></table>
                                 </div>
                                 <div class="gp3-box-content">
+                                    <div class="gp3-form-section">
                                     
-                                            <div id="ctl00_loginPanel">
-		
-                                                <table width="99%" cellpadding="2" cellspacing="0" border="0">
-                                                    <tbody><tr><td>Login:</td><td><input name="ctl00$loginUser" type="text" id="ctl00_loginUser" class="gp-input-mainform-login"></td></tr>
-                                                    <tr><td>Password:</td><td><input name="ctl00$loginPass" type="password" id="ctl00_loginPass" class="gp-input-mainform-login"></td></tr>
-                                                    <tr><td colspan="2"><input id="ctl00_loginSave" type="checkbox" name="ctl00$loginSave"><label for="ctl00_loginSave">Remember Me</label> </td></tr>
-                                                    <tr><td colspan="2" align="right"><input type="submit" name="ctl00$loginButton" value="Login" id="ctl00_loginButton"></td></tr>
-                                                </tbody></table>
-                                                
-                                                <div style="padding-top: 5px;">
-                                                    <a href="/NewUser.aspx" title="If you are a new user to GuildPortal, click this link to create a new account.  After you do, you will be able to create a new guild site or join your existing guild's site.">New user</a>?  <a href="/SendPassword.aspx" title="If you've forgotten your password, GuildPortal can send it to the e-mail address we have on file.">Forgot</a>?
-                                                </div>
-                                            
-	</div>
-                                                                             
+                                            <ul class="gp3-styledlist">
+                                                <li><a title="Create a new Guild Website" href="/newguild">Create a Guild Website</a></li>
+                                                <li><a title="Search or browse guild websites currently hosted on GuildPortal" href="/search">Search Sites</a></li>
+                                                <li><a id="ctl00_btnLoginToGp" title="Login with your GuildPortal master account" href="javascript:__doPostBack('ctl00$btnLoginToGp','')">Login to GuildPortal</a></li>
+                                            </ul>
+                                         
+                                    </div>                                    
                                 </div>
                             
 </div>
@@ -243,7 +114,7 @@
                         
                         
                         
-                        <!-- GP Recommends (Visible only on non-home pages) -->
+                        <!-- GP Recommends -->
                         <div id="gp3Box" style="">
                             <div id="ctl00_pnlGpRecommends" class="gp3-gloss-box">
 	
@@ -264,9 +135,22 @@
                                 </div>
                                 <div class="gp3-box-content">
                                     <!-- Content -->
-                                    <a href="http://www.tentonhammer.com/">Ten Ton Hammer</a><br>
-                                    <a href="http://www.instantventrilo.com/">Instant Ventrilo</a><br>
-                                    <a href="http://www.offlinetshirts.com/">Offline T-Shirts</a>
+                                    <div class="gp3-form-section">
+                                        <ul class="gp3-styledlist">
+                                            <li><a title="MMO fan fiction!" target="_blank" href="http://www.gamerfables.com">
+                                                MMO Fan Fiction</a></li>
+                                            <li><a title="Ten Ton Hammer, a trusted and timely source of gaming news." target="_blank" href="http://www.tentonhammer.com/">
+                                                Ten Ton Hammer</a></li>
+                                            <li><a title="Professional GuildPortal templates, custom made." target="_blank" href="http://www.guildhelper.com">
+                                                Guild Helper</a></li>
+                                            <li><a title="Ventrilo voice chat services." target="_blank" href="http://www.gamespeak.com/">
+                                                GameSpeak Ventrilo</a></li>
+                                            <li><a title="Gaming T-Shirts." target="_blank" href="http://www.offlinetshirts.com/">
+                                                Offline T-Shirts</a></li>
+                                            <li><a title="The GuildPortal add-on for WoW that synchronizes roster and bank info between WoW and your guild site." href="/GPHelper.aspx">
+                                                GP Add-on for WoW</a></li>
+                                        </ul>
+                                    </div>
                                 </div>
                             
 </div>
@@ -279,7 +163,8 @@
                     <!-- Right Area -->
                     <td id="gp-right-pane">
                         <!-- Center : Content Place Holder -->                        
-                        
+
+                            
 
     <div style="">
         <div id="ctl00_RightPane_PANELIDHERE" class="gp3-gloss-box">
@@ -454,7 +339,9 @@
 
 
 
+                            
                         <!-- Center : Content Place Holder ENDS -->
+                        
                     </td>
                     <!-- Right Area Ends --> 
                 </tr>                
@@ -463,35 +350,71 @@
         </div>
         
         <div id="gp-footer" style="padding: 8px 0px 8px 0px; margin-right: 0px; margin-left: 0px;">
-            GuildPortal™ is a Registered Trademark of Axiom Shift, LLC. All rights reserved.<br>
-            <a href="/Terms.aspx">Terms</a> | 
-            <a href="/Privacy.aspx">Privacy Policy</a> | 
-            <a href="/Support.aspx">Contact</a> | 
-            <a href="/Guild.aspx?GuildID=3780">Admin Community</a> | 
-            <a href="/Search.aspx">Browse Guilds</a> | 
-            <a href="/ChangeLog.aspx">Recent Updates</a> | 
-            <a href="/MemberBlogs.aspx">Member Blogs</a>
+        
+            GuildPortal™ is a Registered Trademark of Axiom Shift, LLC. All rights reserved.
+            
+            <div>
+                   <a href="/features/">Guild Hosting Features</a> | 
+                
+                <a title="Need help with using GuildPortal?  Send us a support ticket and we'll get on it." href="/support/">Get Support</a> | 
+                    
+                <a title="Although hosting is free, you do have the option of subscribing, which removes all advertisements.  Click to read more about it." href="/pricing/">Pricing</a> | 
+                    
+                <a title="Search for and read answers to frequently asked questions people have when using GuildPortal" href="/faq/">Frequently Asked Questions</a>
+                
+            </div>
+            
+            <div>
+            
+            <a title="(For WoW Guilds) Download the GPHelper add-on for World of Warcraft, which helps synchronize roster and bank information from in-game with your GuildPortal-hosted site, automatically." href="/gphelper/">WoW Add-On</a> | 
+                
+            <a title="Read the terms of use for GuildPortal.com." href="/terms/">Terms</a> | 
+                
+            <a title="Read our privacy policy, which explains what we store about you, why we store it, and how we won't share that information with anyone else." href="/privacy/">Privacy Policy</a> | 
+                
+            <a title="Send in a support ticket to contact us." href="/support/">Contact</a> | 
+                
+            <a title="Visit the GuildPortal Admin Community, a site that all web site owners using GuildPortal.com are invited to join.  Get help, tips, and other great stuff from the experts -- people just like you." href="http://admins.guildportal.com">Admin Community</a> | 
+                
+            <a title="Browse guilds hosted at GuildPortal.  Drill down by game and server." href="/search/">Browse Guilds</a> | 
+                
+            <a title="View recent updates to the service." href="/changelog/">Recent Updates</a> | 
+
+            <a title="View and submit videos on using GuildPortal, or helpful to gamers in general." href="/videos/">Videos</a> | 
+            
+            <a title="Read game fan-fiction written by GuildPortal gamers." href="/fables/">GamerFables</a>
+            
+            </div>
+            
+            
+            
+            <div id="ctl00_shareHolder" style="margin-top: 10px; margin-bottom: 10px;"><a class="addthis_button addthis_small" href="http://www.addthis.com/bookmark.php?v=20" onmouseover="return addthis_open(this, '', 'http://www.guildportal.com/privacy/', 'GuildPortal GuildPortal Guild Website Hosting - World of Warcraft, EverQuest2, Lord of the Rings, Warhammer, more - GuildPortal the Leader in Guild Hosting');" onmouseout="addthis_close();" onclick="return addthis_sendto();"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" border="0" alt="Share"></a></div>
+        
         </div>
 
-    </div>
+    </div> <!-- close gp-body-wrapper --> 
+        
     
-    
-    
-    </form>
 
-
-    <!-- Google Page View Code -->
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+    
+    <!-- Google Analytics Code.  Only Aggregate data is collected, no personal data is. --> 
     <script type="text/javascript">
-        var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-        document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+    var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+    document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
     </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
     <script type="text/javascript">
-        if (_gat != null) {
-            var pageTracker = _gat._getTracker("UA-6292963-1");
-            pageTracker._trackPageview();
-        }
-    </script>	
-    <!-- End Google Page View Code -->   
+    try {
+    var pageTracker = _gat._getTracker("UA-6292963-1");
+    pageTracker._trackPageview();
+    } catch(err) {}</script>    
+    
+
 
 
 </body></html>
