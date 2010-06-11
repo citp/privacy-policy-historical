@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mortgagerate.net privacy policy that was archived on 2009-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090215000058id_/http%3A//www.mortgagerate.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mortgagerate.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210413id_/http%3A//www.mortgagerate.net/privacy.php) for the most accurate reproduction.*
 
 # Mortgage Rate Loans, Refinance Mortgage Rate Companies,Refinance Loan
 
