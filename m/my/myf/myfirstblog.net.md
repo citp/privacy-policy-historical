@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027073230id_/http%3A//myfirstblog.net/summary.php%3Fop%3Ddisplay%26page%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfirstblog.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210747id_/http%3A//myfirstblog.net/summary.php%3Fop%3Ddisplay%26page%3Dprivacy) for the most accurate reproduction.*
 
 # MyFirstBlog.net: free blogs, blogs for all
 
