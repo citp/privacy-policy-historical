@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529000356id_/http%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elyrics.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211139id_/http%3A//www.elyrics.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy eLyrics.net
 
@@ -10,7 +10,7 @@ By using our web site, you consent to the collection and use of your personal in
 Your IP address is used to gather broad demographic information and to track your general visiting paterns (how many pages you view while at one website, downloads, etc). 
 
 **Third Party Advertising**  
-We use Adtegrity.com and other third-party advertising companies to serve ads when you visit Elyrics.net. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/optout_nonppii.asp). For more information about Adtegrity.com, cookies, how to "opt-out", and all other privacy policies please [click here](http://www.adtegrity.com/privacy.asp). 
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp)
 
 **Cookies**  
 Some ads displayed may come from our servers. Ads loading from our servers may also contain cookies, the purpose of these cookies is just to introduce and select the proper advertisements to be shown for your interests. We only have access to information of visiting frequencies of our visitors from cookies you might receive while viewing ads from our servers. 
