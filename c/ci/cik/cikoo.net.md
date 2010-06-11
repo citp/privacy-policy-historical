@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cikoo.net privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923182608id_/http%3A//www.cikoo.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cikoo.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210554id_/http%3A//www.cikoo.net/privacy.php) for the most accurate reproduction.*
 
 # Cikoo.NET
 
