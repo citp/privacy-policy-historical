@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the mediaondemand.net privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907101509id_/http%3A//www.mediaondemand.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mediaondemand.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211906id_/http%3A//www.mediaondemand.net/privacy) for the most accurate reproduction.*
 
-# MEDIA ON DEMAND SOLUTIONS - Privacy
-
-Privacy Policy
+# Media On Demand - The Streaming Media and webcast Specialists - Privacy
 
 Media On Demand is committed to responsible management of consumer data. We comply with all rules, both ethical and legal, with respect to the use of consumer information obtained by us and we adhere strictly to all industry guidelines at all times. We undertake to continuously monitor our management of the use and security of consumer information to uphold your rights. This statement outlines the type of information we collect and store, our usage policy, and whom to contact with questions or concerns.
 
