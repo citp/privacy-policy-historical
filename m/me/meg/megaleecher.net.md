@@ -1,13 +1,6 @@
-> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208052641id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaleecher.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213754id_/http%3A//www.megaleecher.net/Privacy_Policy) for the most accurate reproduction.*
 
 # Our Privacy Policy | Megaleecher.Net
-
-## Like This Post, Get Updates By Email:
-
-  * [Privacy](https://web.archive.org/taxonomy/term/2184)
-  * [Privacy Policy](https://web.archive.org/taxonomy/term/2185)
-
-
 
 We can be reached via e-mail at [privacy@megaleecher.net](mailto:privacy@megaleecher.net)
 
@@ -22,12 +15,10 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 Google Adsense - <http://www.google.com/privacypolicy.html>  
 TribalFusion - <http://www.exponential.com/who-we-are/privacy-policy.jsp>
 
+We use Mollom anti-spam technology to scan content posted by users, please review there privacy policy from the link below :
+
+Mollom's Web service privacy policy - <http://mollom.com/web-service-privacy-policy>
+
 For any questions or concern regarding privacy and data usage policy of this website, Pls. email us at the above email address.
 
-  
-
-
-## Similar Stories You Might Be Interested In :
-
-**This is just one of the many helpful tips we have posted, You can find more stories[here](http://www.megaleecher.net/tracker),   
-Do subscribe to updates using your favorite [RSS feed](http://feeds.feedburner.com/TheBestInternetNews) reader or using the secure FeedBurner email update form on top of this post.**
+**Updated : 25-02-2010**
