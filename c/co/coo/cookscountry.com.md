@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229230457id_/http%3A//www.cookscountry.com/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cookscountry.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611135350id_/http%3A//www.cookscountry.com/privacy_policy.asp) for the most accurate reproduction.*
 
 # Cooks Country
 
