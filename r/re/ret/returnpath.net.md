@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2008-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080514202512id_/http%3A//www.returnpath.net/privacy/privacy_returnpath.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the returnpath.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211851id_/http%3A//www.returnpath.net/privacy/privacy_returnpath.php) for the most accurate reproduction.*
 
 # Return Path
 
----  
+|   
+---|---  
+[ ](http://secure.trust-guard.com/certificates/www.returnpath.net)  
   
 1/30/2020 
 
@@ -37,7 +39,7 @@ Tom Bartel, CPO
 
 ## The organization collecting information at this Website:
 
-[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20080514202512id_/http%3A//www.returnpath.net/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
+[Return Path]( "Go to the Return Path Website") ("Company" or "we"), operates the website located at [www.returnpath.net](https://web.archive.org/web/20100611211851id_/http%3A//www.returnpath.net/privacy/www.returnpath.net) (the "Site"). Return Path collects information about you when you sign-up for newsletters, special promotions, or initiate requests for information regarding Return Path services (the "Service").
 
 ## The Information We Collect and Use:
 
