@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ongfirst.com privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420065723id_/http%3A//www.ongfirst.com/privacypolicy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ongfirst.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611175749id_/http%3A//www.ongfirst.com/english/privacypolicy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -15,6 +15,7 @@
 <script src="lib/effects.js" type="text/javascript" language="javascript"></script>
 <script src="lib/jquery-ui-accordion.js" type="text/javascript" language="javascript"></script>
 <script src="lib/jquery-ui-dialog.js" type="text/javascript" language="javascript"></script>
+<script src="../Javascript/langswap.js" type="text/javascript" language="javascript"></script>
 
 
 <script>
@@ -36,12 +37,13 @@ $(document).ready(function(){
 <div id="top"></div>
 	<div id="header-wrapper">
 	<div id="header"><a href="index.php"><img src="images/ongFirst_logo.gif" alt="OngFirst Logo" name="ofLogo" width="192" height="52" id="ofLogo"></a></div>
+	<div id="changeLanguage"><a href="#" onclick="langswap()"><img src="../Javascript/lang_schinese.jpg" alt="简体中文" id="languageImg"></a></div>
 </div>
 <div id="navBar">
     	<div id="innerNavBar">
         	<ul>
             	<li><a href="aboutus.php" id="nav-about"><span class="display-none">About Us</span></a>
-                <ul>
+                <ul style="width: 96px; display: none;">
                 <li><a href="aboutus.php">Milestone</a></li>
                 <li><a href="business.php">Our Business</a></li>
                 <li><a href="philosophy.php">Our Philosophy</a></li>
@@ -50,14 +52,14 @@ $(document).ready(function(){
                 </ul>
                 </li>
 				<li><a href="products.php" id="nav-products"><span class="display-none">Products</span></a>
-                <ul>
+                <ul style="width: 130px; display: none;">
                 <li><a href="products.php">Commodities</a></li>
                 <li><a href="financials.php">Financials</a></li>
                 <li><a href="foreignexchange.php">Foreign Exchange</a></li>               
                 </ul>
                 </li>
                 <li><a href="openaccount.php" id="nav-openaccount"><span class="display-none">Open an Account</span></a>
-                <ul>
+                <ul style="width: 181px; display: none;">
                 <li><a href="openaccount-proprietary.php">Trading Member <br>( Proprietary )</a></li>
                 <li><a href="openaccount-individual.php">Trading Member <br>( Individual )</a></li>
                 <li><a href="openaccount-retail.php">Retail -  Individual /Joint</a></li>
@@ -65,14 +67,14 @@ $(document).ready(function(){
                 </ul>
                 </li>
                 <li><a href="etrading.php" id="nav-etrading"><span class="display-none">E-Trading</span></a>
-                <ul>
+                <ul style="width: 142px; display: none;">
                 <li><a href="ongfutures.php">OngFutures</a></li>
                 <li><a href="onggl.php">OngGL</a></li>
                 <li><a href="ongfx.php">OngFX</a></li>
                 </ul>
           </li>
                 <li><a href="resources.php" id="nav-resources"><span class="display-none">Resources</span></a>
-                <ul>
+                <ul style="width: 145px; display: none;">
                 <li><a href="resources.php">General FAQ</a></li>
                 <li><a href="trading-faq.php">Trading FAQ</a></li>
                 <li><a href="products-faq.php">Products FAQ</a></li>
@@ -80,7 +82,7 @@ $(document).ready(function(){
                 </li>
                 <li><a href="contact.php" id="nav-contact"><span class="display-none">Contact Us</span></a></li>
                 <li><a href="http://customer.ongfirst.com" id="nav-clientlogin"><span class="display-none">Client Login</span></a>
-                <ul>
+                <ul style="width: 123px; display: none;">
                 <li><a href="https://customer.ongfirst.com">Ong E-Statement</a></li>
                 <li><a href="https://www.ongfx.com" target="_blank">OngFX</a></li>
                 <!--<li><a href="http://portal.gatewaycapital.com/logon.aspx" target="_blank">OngTrader</a></li>-->
@@ -117,7 +119,7 @@ $(document).ready(function(){
                     <div class="clear">&nbsp;</div>
                  </div>
                  <div class="left-vtab">
-<a href="professional-traders-intro.php" id="vtab-pro"></a><a href="retail-traders-intro.php" id="vtab-retail"></a><a href="institutional-traders-intro.php" id="vtab-inst"></a><a href="business-partnership-intro.php" id="vtab-business"></a>
+<a href="professional-traders-intro.php" id="vtab-pro"></a><a href="retail-traders-intro.php" id="vtab-retail"></a><a href="institutional-traders-intro.php" id="vtab-inst"></a><a href="business-partnership-intro.php" id="vtab-business"></a><a href="http://www.ongcomm.com" id="vtab-ongc" target="_blank"></a>
 </div>                 
                  <a href="index.php" class="floatRight"><img src="images/back-to-home.gif" width="117" height="33" alt="Back to home"></a>
                  <div class="clear">&nbsp;</div>
@@ -141,8 +143,8 @@ $(document).ready(function(){
 <li>Any other necessary information required for the processing of account</li>
 </ul>
 
-<p>We would not require more information more than there is necessary for the sole purpose of opening an account with us. 
-You are obligated not to provide any of the personal information we required from you. However, failure to provide us with the necessary information will lead to unnecessary delays in processing your account. While we make an effort to keep the personal information obtained up-to-date, you can help us by informing us of any changes and we will update our records.</p>
+<p>We would not require further information other than what is necessary for the sole purpose of opening an account with us. 
+ However, failure to provide us with the necessary information will lead to unnecessary delays in processing your account. While we make an effort to keep the personal information obtained up-to-date, you can help us by informing us of any changes and we will update our records.</p>
 
 <h3>Usage of Your Personal Information</h3>
 <p>We may use your personal information in the following:</p>
@@ -198,6 +200,7 @@ Cookies are small text files that are automatically stored on a person's web bro
 <div id="footer">
     Trading involves high degree of risk and may not be suitable for everyone. Please consult your financial advisors if you have any doubts.<br>
     76 SHENTON WAY, #10-00 SINGAPORE 079119 | ALL RIGHTS RESERVED. ONG FIRST TRADITION PTE LTD | <a href="disclaimer.php">DISCLAIMER</a> | <a href="privacypolicy.php">PRIVACY POLICY</a> | <a href="riskdisclosure.php">RISK DISCLOSURE</a> | <a href="sitemap.php">SITE MAP</a>
+    <br>Best view with IE7 or above
     </div>
 
     </body></html>
