@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edenfantasys.com privacy policy that was archived on 2009-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090209190007id_/http%3A//www.edenfantasys.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edenfantasys.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611145650id_/http%3A//www.edenfantasys.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Edenfantasys.com
 
@@ -9,33 +9,33 @@
   *     * [sex toys for women](http://www.edenfantasys.com/sex-toys-for-women/)
     * [sex toys for men](http://www.edenfantasys.com/sex-toys-for-men/)
     * [sex toys for couples](http://www.edenfantasys.com/sex-toys-for-couples/)
-    * [lesbian sex toys](http://www.edenfantasys.com/lesbian-sex-toys/)
-    * [gay sex toys](http://www.edenfantasys.com/gay-sex-toys/)
+    * [sex toys for gender play](http://www.edenfantasys.com/sex-toys-for-gender-play/)
   *     * [vibrators](http://www.edenfantasys.com/vibrators/)
     * [dildos](http://www.edenfantasys.com/dildos/)
     * [anal toys](http://www.edenfantasys.com/anal-toys/)
     * [masturbators](http://www.edenfantasys.com/masturbators/)
-    * [lubricants](http://www.edenfantasys.com/sex-lubricants/)
-  *     * [dildo harnesses](http://www.edenfantasys.com/dildo-harnesses/)
+    * [dildo harnesses](http://www.edenfantasys.com/dildo-harnesses/)
+  *     * [sexy lingerie](http://www.edenfantasys.com/sexy-lingerie/)
     * [bondage and fetish](http://www.edenfantasys.com/bondage-and-fetish/)
-    * liberator adventure gear
     * [sensual love](http://www.edenfantasys.com/SENSUAL-LOVE/)
+    * liberator adventure gear
+  *     * [lubricants](http://www.edenfantasys.com/sex-lubricants/)
     * [condoms](http://www.edenfantasys.com/condoms/)
-  *     * [erotic books, video, audio](http://www.edenfantasys.com/BOOKS-VIDEO-AUDIO/)
-    * [sexy lingerie](http://www.edenfantasys.com/sexy-lingerie/)
     * [sex toy accessories](http://www.edenfantasys.com/sex-toy-accessories/)
+  *     * [erotic books, video, audio](http://www.edenfantasys.com/books-video-audio/)
     * [party favors and gags](http://www.edenfantasys.com/PARTY-FAVORS-AND-GAGS/)
   *     * [phallix glass toys](http://www.edenfantasys.com/phallix-glass-sex-toys/)
     * [steel toys](http://www.edenfantasys.com/STEEL-TOYS/)
     * [star signature lines](http://www.edenfantasys.com/STAR-SIGNATURE-LINES/)
     * [private label collections](http://www.edenfantasys.com/PRIVATE-LABEL-COLLECTIONS/)
-    * [our recent additions](http://www.edenfantasys.com/OUR-RECENT-ADDITIONS/)
+    * our recent additions
   *     * [sex toy reviews](http://www.edenfantasys.com/sex-toy-reviews/)
+    * sex community
     * forum
+    * interviews
+    * [sexis magazine](http://www.edenfantasys.com/sexis/)
     * community blog
     * [sex fantasies](http://www.edenfantasys.com/sex-fantasy/)
-    * [sex guides and tips](http://www.edenfantasys.com/sex-guides-and-tips/)
-    * [editorial](http://www.edenfantasys.com/editorial/)
 
 
 
@@ -48,7 +48,7 @@ Ordering information privacy policy
   * We use encryption software for all data put into our customers on our site. You must be aware that when you click on hyperlinks and/or banners of third party websites, you are governed under the privacy practices and policies of that website. Once in a foreign webpage, we are not liable for the actions of that party. 
   * When placing an order with us your personal and financial information is encrypted on our website using the best encryption software SSL (secure socket layer) and you are on a secure site. VeriSign is the verification source to ensure you that our site is secure. 
   * While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user information offline. 
-  * If you have any questions about the security at our Web site, you can send an email to CustomerService@EdenFantasys.com. 
+  * If you have any questions about the security at our Web site, you can submit a [Support Ticket](https://web.archive.org/STS/CreateTicketByCustWiz.aspx). 
 
   
 Discreet billing and shipping information 
