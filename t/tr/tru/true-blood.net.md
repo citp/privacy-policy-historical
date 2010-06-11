@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101163526id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the true-blood.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210453id_/http%3A//true-blood.net/about-us/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy : True-Blood.net – True Blood news, spoilers, photos and more!
+# Privacy Policy | True-Blood.net - True Blood season 3 news, spoilers, & photos!
 
 This is the web site of **True-Blood.net**.
 
@@ -20,7 +20,8 @@ With respect to Ad Servers: To try and bring you offers that are of interest to 
 
 For further information, consult the privacy policies of:
 
-http://www.google.com/privacy.html  
+http://www.google.com/privacy.html
+
 http://valueclickmedia.com/privacy.shtml
 
 From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and we will use for these new purposes only data collected from the time of the policy change forward. If you are concerned about how your information is used, you should check back at our Web site periodically.
