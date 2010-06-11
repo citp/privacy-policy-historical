@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614055504id_/http%3A//washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the washingtonbanglaradio.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611121000id_/http%3A//www.washingtonbanglaradio.com/content/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy. Listen to Interview. Watch Music Video Online. Read Reviews. Download New MP3 Songs. English Hindi Bangla CD Store
+# Privacy Policy | ওয়াশিংটন বাংলা রেডিও Washington Bangla Radio
 
 **What information do we collect?**
 
