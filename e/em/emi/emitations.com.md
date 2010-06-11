@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2009-09-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090903193158id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emitations.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611054327id_/http%3A//www.emitations.com/privacypolicy1.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -22,4 +22,5 @@ While we make use of third party credit card processing company to bill users fo
 
 These parties are not allowed to use personally identifiable information excepting the purpose of providing these services.
 
-**Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).
+**Third-Party Web Beacons:** We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).  
+
