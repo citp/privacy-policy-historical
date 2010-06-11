@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gbyguess.com privacy policy that was archived on 2009-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090224204350id_/http%3A//www.gbyguess.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gbyguess.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611061306id_/http%3A//www.gbyguess.com/Privacy.aspx) for the most accurate reproduction.*
 
-# GUESS Customer Care - Privacy Policy
+# G by GUESS Customer Care - Privacy Policy
 
 ###  Privacy Policy
 
@@ -10,7 +10,7 @@
 
 ####  California Privacy Rights
 
-Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask for a notice describing what categories of personal customer information GUESS, Inc. shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: GUESS, Inc. E-Commerce Customer Service, 1444 Alameda St. Los Angeles, CA 90021 or email [ **customerservice@gbyguess.com**](mailto:customerservice@gbyguess.com). In your request, please specify that you want a copy of "Your California Privacy Rights Notice." Please allow 30 days for a response. 
+Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask for a notice describing what categories of personal customer information GUESS, Inc. shares with third parties or corporate affiliates for those third parties or corporate affiliates' direct marketing purposes. That notice will identify the categories of information shared and will include a list of the third parties and affiliates with which it was shared, along with their names and addresses. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: GUESS, Inc. E-Commerce Customer Service, 1444 Alameda St. Los Angeles, CA 90021 or use our [_web contact form_](http://www.gbyguess.com/CustomerCare/ContactForm.aspx). In your request, please specify that you want a copy of "Your California Privacy Rights Notice." Please allow 30 days for a response. 
 
 ####  Information We Gather
 
@@ -36,4 +36,4 @@ Customer Service
 **GbyGUESS.com**  
 1444 Alameda St.  
 Los Angeles, CA 90021  
-[customerservice@gbyguess.com](mailto:customerservice@gbyguess.com)
+[_Customer Service Contact Form_](http://www.gbyguess.com/CustomerCare/ContactForm.aspx)
