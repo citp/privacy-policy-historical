@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2009-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091105195529id_/http%3A//scentsy.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scentsy.us privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210834id_/http%3A//www.scentsy.net/en-us/privacy-policy.aspx) for the most accurate reproduction.*
 
-# Scentsy: The Hottest New Thing in Candles
+# Scentsy: Privacy Policy
 
 **Scentsy, Inc. Privacy Policy Notice**  
 **  
@@ -37,4 +37,4 @@ Changes to This Privacy Notice**
 Scentsy reserves the right to change this privacy notice.  Any changes to this notice will become effective upon posting of the revised notice on the Internet or as required by law.   
 **  
 Questions**  
-If you have any questions or concerns regarding this notice, please contact us either by email at [legal@scentsy.com](mailto:legal@scentsy.com), or by regular mail at Scentsy, Inc., Attn: Legal Department, 3698 E. Lanark Dr, Meridian, ID 83642.  Please note that email communications are not necessarily secure.  Accordingly you should not include credit card information or other sensitive information in your email correspondence to us. 
+If you have any questions or concerns regarding this notice, please contact us either by email at [legal@scentsy.com](mailto:legal@scentsy.com), or by regular mail at Scentsy, Inc., Attn: Legal Department, 3698 E. Lanark Dr, Meridian, ID 83642.  Please note that email communications are not necessarily secure.  Accordingly you should not include credit card information or other sensitive information in your email correspondence to us.
