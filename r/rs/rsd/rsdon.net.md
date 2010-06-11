@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsdon.net privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210212559id_/http%3A//rsdon.net/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsdon.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210129id_/http%3A//rsdon.net/Privacy_Policy) for the most accurate reproduction.*
 
 # RSdon.net - Privacy Policy
 
