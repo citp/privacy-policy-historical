@@ -1,43 +1,43 @@
-> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416050419id_/http%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kamus.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611204035id_/http%3A//www.kamus.net/privacy.php) for the most accurate reproduction.*
 
 # Kamus.net
 
-#### Personal Information
+STANDS4 LLC cares about your privacy. We want to make you feel comfortable and secure using or purchasing products from our web site. This privacy policy explains the types of information we gather, how it is protected, what we do with it and how you can correct or change information.
 
-We do not collect any personal information from a visitor to our sites unless that visitor explicitly and intentionally provides it. Under no circumstances do we collect any personal data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, health, or sex life. If you are simply browsing our sites, we do not gather any personal information about you. 
+**Consent to this Privacy Policy**
 
-#### Subscriptions
+By providing STANDS4 LLC with Personal Information (defined below), you signify that you agree with the terms of our current Privacy Policy as posted here. If you do not agree with any term in this Policy, please do not provide any Personal Information. If you choose not to provide Personal Information, you may not be able to take certain actions, like becoming an Abbreviations.com's editor, access particular areas of the web site, posting comments to our Blog, or send us e-mail. 
 
-If you choose to subscribe to our premium products or services, we will request certain information from you such as your name, address, telephone number, e-mail address, and credit card information. 
+**Continuing Agreement**
 
-#### Statistical Information about your Visit
+STANDS4 LLC may change or revise this Privacy Policy from time to time by updating this posting. Please review this Privacy Policy each time you visit this web site in order to be aware of the most current terms regarding your use of this web site. Your use of this web site reaffirms your continuing agreement to the most current Privacy Policy. 
 
-When you visit our sites, our computers may automatically collect statistics about your visit. This information does not identify you personally, but rather about your visit to our sites. We may monitor statistics such as how many people visit our sites, the user's IP address, which pages people visit on our sites, from which domains our visitors reach our sites, and which browsers people use. We use these statistics about your visit for aggregation purposes only. These statistics are used to help us improve the performance of our Web sites. 
+**What Personal Information is collected and how?**
 
-#### Our Commitment to Children's Privacy
+When you are applying to become an Abbreviations.com editor, adding new entries or sending us email, you may provide us with your name, e-mail address and a short description of your internet experience ("Personal Information"). 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+STANDS4 LLC also uses "cookies" to receive and store certain types of information whenever you interact with the web site. Cookies are identifiers transferred to your computer's hard drive through your browser which enable our systems to recognize your browser. This recognition allows web sites to give you customized and personalized service and helps web site owners identify ways to improve your online experience. Cookies may also be used to help web site owners track responses to messages sent on behalf of our advertisers so that STANDS4 LLC may aggregate such information and report results to them. The "help" portion of the toolbar on most browsers will tell you how to reject or disable cookies or receive notice when a new cookie appears. If you choose to reject or disable cookies, you will be unable to use those specific areas of the web site that require the use of cookies. 
 
-#### Use of Cookies
+STANDS4 LLC does not knowingly collect or maintain any Personal Information from children under the age of 13. In addition, no part of this web site is designed with the purpose of attracting any person under age 13.
 
-A "cookie" is a piece of information that our web sites send to your browser, which then is stored on your system. A user can use our web sites without cookies; however, our systems need cookies for premium content in order to identify you as a premium subscriber. You may disable or delete the cookies at any time. Many users prefer to use cookies in order to help them navigate a Web site as seamlessly as possible. You should be aware that cookies contain no more information than you volunteer, and they are not able to "invade" your hard drive and return to the sender any personal or other information from your computer. 
+**How does STANDS4 LLC use your information?**
 
-To find more information about cookies: 
+STANDS4 LLC uses your Personal Information to enhance and personalize your online experience. STANDS4 LLC does not sell Personal Information about individual customers to third parties, sell or rent lists of customers or use information about individual customers except as described below. 
 
-If you are using Microsoft Internet Explorer� as your browser, go to the Microsoft Web site at http://www.microsoft.com/info/cookies.htm?RLD=291 If you are using Netscape Navigator� as your browser, go to the Netscape Web site at http://home.netscape.com/security/basics/privacy.html#cookies 
+Aggregated Information: STANDS4 LLC may use aggregated information regarding its customers and usage of this web site and disclose such aggregated information to advertisers, partners and others for various purposes. 
 
-#### Disclosure by Law and Protection of eProduct
+Third Party Service Providers: STANDS4 LLC may employ other companies and individuals to perform certain functions such as delivering packages, processing credit card payments and analyzing data. They may have access to personal information to perform their functions. 
 
-If we are required by law to disclose certain information to local, state, federal, national or international law enforcement authorities, we will do so. We will also disclose information to third parties as necessary in order to comply with applicable laws and regulations. In addition, Farlex may share information in order to investigate, prevent, or take action regarding illegal activities or suspected fraud, or enforce or apply our agreements. 
+We use third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies visit [http://www.networkadvertising.org](http://www.networkadvertising.org/)
 
-#### Our Security Procedures
+Enforcement of Agreement or Compliance with Law: STANDS4 LLC may use or disclose personal information when STANDS4 LLC believes it is appropriate to enforce these Terms of Use, to protect the rights, property or safety of STANDS4 LLC or its users or to comply with the law. 
 
-We consider the protection of all personally identifiable information we receive from our Web site visitors and subscribers as critical to our corporate mission. Please be assured that we have security measures in place to protect against the loss and misuse of any information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. In order to try to minimize this risk, we encrypt all information that you submit in ordering of our premium products using the Secure Sockets Layer (SSL) protocol. We also have partnered with Authorize.net, one of the most reputable and experienced credit card payment companies in the World to handle our users' online transactions. 
+**How may you change or remove your personal information?**
 
-Facilitating the Support, Renewal, and Purchase of our Products and Services. We may use the information you submit to contact you to discuss the support, renewal, and purchase of our premium products and services. You may receive a communication directly from one of our customer care representatives. Please be assured that we will keep the communications to a minimum and you will have an option to block any communication from us if your subscriptions are cancelled. 
+You may at any time review and change your Personal Information stored by this web site by contacting us using our [contact page](https://web.archive.org/web/20100611204035id_/http%3A//www.kamus.net/contact.php).
 
-Please be aware that we reserve the right to notify our subscribers of any information that affects the status of current subscriptions. You may not opt out of receiving information regarding the expiration and renewal of the subscriptions, account balances or the payment history and status. 
+You may also request that STANDS4 LLC permanently remove all Personal Information stored by STANDS4 LLC by delivering notice requesting such removal. Upon such request, STANDS4 LLC will remove all such information and will not thereafter use personally identifiable information about you in any way. 
 
-#### Changes to this Privacy Statement
+**Site Security**
 
-If a material change is made to this Privacy Statement and/or the way we use our customers' personally identifiable information, a prominent notice of the nature of the change will be posted on this Privacy Statement and the current subscribers will be notified as soon as possible. 
+STANDS4 LLC will take reasonable precautions to keep your Personal Information secure. All personally identifiable information is subject to restricted access to prevent unauthorized access, modification or misuse. 
