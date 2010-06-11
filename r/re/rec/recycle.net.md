@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2009-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090531112511id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recycle.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215153id_/http%3A//www.recycle.net/web/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -42,7 +42,7 @@ No data transmission over the Internet or any wireless network can be guaranteed
 
 #### Changes to Privacy Policy 
 
-Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Recycler's World in writing and specifically request that Recycler's World remove all of your collected information in Recycler's World possession. This Privacy Policy was last amended on March 12, 2008. 
+Any changes to this Privacy Policy will be communicated through our posting an amended and restated Privacy Policy on our Site. Our posting the amended and restated Privacy Policy will make such new Privacy Policy immediately effective. You agree that all Collected Information (whether or not collected prior to or after the new policy became effective) will be governed by the newest Privacy Policy then in effect. If you do not agree to the new changes in our Privacy Policy, you should contact Recycler's World in writing and specifically request that Recycler's World remove all of your collected information in Recycler's World possession. This Privacy Policy was last amended on March 16, 2009. 
 
 #### Your Feedback 
 
