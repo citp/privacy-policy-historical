@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221202343id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getitfromboy.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211103id_/http%3A//getitfromboy.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showbiz Intriga? Get It From Boy!
 
@@ -7,13 +7,13 @@ This Privacy Policy may be modified from time to time; the date of the most rece
 **_We respect your privacy and we are committed to safeguarding your privacy while online at our site http://getitfromboy.net. The following discloses the information gathering and dissemination practices for this Web site._  
 **  
 **Log Files**  
-Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track userâ€™s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track userÃ¢â‚¬â„¢s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information.
 
 **Newsletter**  
 If a user wishes to subscribe to our newsletter (powered by Feedburner), we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications.
 
 **Cookies**  
-A cookie is a piece of data stored on the userâ€™s computer tied to information about the user. Our site donâ€™t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+A cookie is a piece of data stored on the userÃ¢â‚¬â„¢s computer tied to information about the user. Our site donÃ¢â‚¬â„¢t use cookies. However, Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
 
 **Links**  
 This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
