@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222020548id_/http%3A//www.sita.aero/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sita.aero privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611182824id_/http%3A//www.sita.aero/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SITA.aero
 
@@ -56,15 +56,15 @@ We do not share your profile with other third parties.  To update or change you
 
 #### Disclosure of your information
 
-We DO NOT Share Personally Identifiable Information with third parties.
+Except as provided in this privacy policy we do not disclose your personal information to third parties.
 
-However we may transfer your personal information to our subsidiaries, affiliate companies or Agents in a destination outside the European Economic Area ("EEA")  including for processing an order, providing you with support services. By registering your personal information on our Website, you agree for your personal information to be transferred, stored or processed outside the EEA. Any data will be transferred in accordance with this privacy policy.
+We may transfer your personal information to our subsidiaries, affiliate companies or Agents, which may be located outside the European Economic Area ("EEA"), including for processing an order and providing you with support services. By registering your personal information on our Website, you agree for your personal information to be transferred, stored or processed outside the EEA. Any data will be transferred in accordance with this privacy policy.
 
-#### Agents 
+**Agents**
 
-We can use outside shipping companies to fulfil orders. These companies do not retain, share, store or use personally identifiable information for any other purposes.
+We can use outside companies to process orders and handle your personal information on our behalf for marketing purposes. These companies do not retain, share, store or use personally identifiable information for any other purposes.
 
-#### Legal Disclaimer
+**Legal Disclaimer**
 
 We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Website.
 
