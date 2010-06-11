@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203034713id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipandtrick.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213129id_/http%3A//www.tipandtrick.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Tip and Trick
 
@@ -44,15 +44,15 @@ Tip and Trick may occasionally conduct user surveys to better target our content
 
 By using this site, you consent to the collection and use of this information by Tip and Trick. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
+  * [Free Online Phonemyphone Service Helps Locating Misplaced Mobile Phone](http://www.tipandtrick.net/2008/free-online-phonemyphone-service-helps-locating-misplaced-mobile-phone/ "Permanent Link: Free Online Phonemyphone Service Helps Locating Misplaced Mobile Phone")
+  * [How to Remove Pinned Programs From the Taskbar in Windows 7](http://www.tipandtrick.net/2010/how-to-remove-pinned-programs-from-the-taskbar-in-windows-7/ "Permanent Link: How to Remove Pinned Programs From the Taskbar in Windows 7")
   * [Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter](http://www.tipandtrick.net/2008/free-genuine-license-code-for-privacy-guardian-by-signing-up-pc-tools-newsletter/ "Permanent Link: Free Genuine License Code for Privacy Guardian by Signing Up PC Tools Newsletter")
+  * [Enable Lock Pages in Memory to Prevent Database Paging to Disk](http://www.tipandtrick.net/2008/enable-lock-pages-in-memory-to-prevent-database-paging-to-disk/ "Permanent Link: Enable Lock Pages in Memory to Prevent Database Paging to Disk")
+  * [How to Remove Recycle Bin Icon in Windows 7](http://www.tipandtrick.net/2010/how-to-remove-recycle-bin-icon-in-windows-7/ "Permanent Link: How to Remove Recycle Bin Icon in Windows 7")
+  * [Steganos Security Suite 2007 Full Version Free Download and Serial Number](http://www.tipandtrick.net/2008/steganos-security-suite-2007-full-version-free-download-and-serial-number/ "Permanent Link: Steganos Security Suite 2007 Full Version Free Download and Serial Number")
+  * [New HP Elite Autofocus Webcam](http://www.tipandtrick.net/2008/new-hp-elite-autofocus-webcam/ "Permanent Link: New HP Elite Autofocus Webcam")
+  * [How to Change the Default Setting for Power Button Action in Windows 7](http://www.tipandtrick.net/2010/how-to-change-the-default-setting-for-power-button-action-in-windows-7/ "Permanent Link: How to Change the Default Setting for Power Button Action in Windows 7")
   * [Not a Hack: Lahore Electric Supply Companies (LESCO) Website Privacy Leaks](http://www.tipandtrick.net/2008/not-a-hack-lahore-electric-supply-companies-lesco-website-privacy-leaks/ "Permanent Link: Not a Hack: Lahore Electric Supply Companies \(LESCO\) Website Privacy Leaks")
-  * [BBC Technology Investigates: Facebook Faces the Music](http://www.tipandtrick.net/2008/bbc-technology-investigates-facebook-faces-the-music/ "Permanent Link: BBC Technology Investigates: Facebook Faces the Music")
-  * [Google AdSense Ads Allowed on The Pirate Bay P2P File Sharing Site?](http://www.tipandtrick.net/2008/google-adsense-ads-allowed-on-the-pirate-bay-p2p-file-sharing-site/ "Permanent Link: Google AdSense Ads Allowed on The Pirate Bay P2P File Sharing Site?")
-  * [Welcome to Tip and Trick](http://www.tipandtrick.net/2008/welcome-to-tip-and-trick/ "Permanent Link: Welcome to Tip and Trick")
-  * [Join Microsoft Usablity Research for Free Vista, Map, Office and Money Software](http://www.tipandtrick.net/2008/join-microsoft-usablity-research-for-free-vista-map-office-and-money-software/ "Permanent Link: Join Microsoft Usablity Research for Free Vista, Map, Office and Money Software")
-  * [Prevent Theft of Personal Information Through Web-based Malware with Haute Secure 2.0](http://www.tipandtrick.net/2008/prevent-theft-of-personal-information-through-web-based-malware-with-haute-secure-20/ "Permanent Link: Prevent Theft of Personal Information Through Web-based Malware with Haute Secure 2.0")
-  * [Party Line: A Free Communication Utility for Facebook Users](http://www.tipandtrick.net/2008/party-line-a-free-communication-utility-for-facebook-users/ "Permanent Link: Party Line: A Free Communication Utility for Facebook Users")
-  * [Fix Third-Party Input Language Method Editor (IME) Issues in IE and Windows Vista by Disabling UIPI](http://www.tipandtrick.net/2008/fix-third-party-input-language-method-editor-ime-issues-in-ie-and-windows-vista-by-disabling-uipi/ "Permanent Link: Fix Third-Party Input Language Method Editor \(IME\) Issues in IE and Windows Vista by Disabling UIPI")
-  * [How to Endorse a US Personal Check to Deposit to United States Bank Account](http://www.tipandtrick.net/2008/how-to-endorse-a-us-personal-check-to-deposit-to-united-states-bank-account/ "Permanent Link: How to Endorse a US Personal Check to Deposit to United States Bank Account")
+  * [How to Disable Windows Vista CD/DVD Disc Burning/Recording Function](http://www.tipandtrick.net/2008/how-to-disable-windows-vista-cddvd-disc-burningrecording-function/ "Permanent Link: How to Disable Windows Vista CD/DVD Disc Burning/Recording Function")
 
 
