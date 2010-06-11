@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228094635id_/http%3A//www.makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingmusicfun.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213819id_/http%3A//makingmusicfun.net/htm/tos.htm) for the most accurate reproduction.*
 
 # Terms Of Use/Privacy Policy | MakingMusicFun.net
 
