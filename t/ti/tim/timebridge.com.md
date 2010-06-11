@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230230356id_/http%3A//www.timebridge.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timebridge.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611141206id_/http%3A//www.timebridge.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TimeBridge | Meeting Productivity
 
 We here at TimeBridge Inc. (“TimeBridge”) know it is important that you understand how information about you is used and shared. We provide this Privacy Policy to explain our policies and procedures for the collection, use and disclosure of information received from users of our website [www.TimeBridge.com](http://www.timebridge.com/) (the "Site") and the TimeBridge software downloaded from the Site ("Software") (collectively the "Services"). 
 
-If you have any questions or comments about our practices or this Privacy Policy please contact us at [ privacy@timebridge.com](mailto:privacy@timebridge.com)
+If you have any questions or comments about our practices or this Privacy Policy please contact us at [privacy@timebridge.com](mailto:privacy@timebridge.com)
 
-  * This Privacy Policy applies only to the Services and is incorporated into the [ TimeBridge Terms of Service Agreement ](https://web.archive.org/pages/terms-of-service).
+  * This Privacy Policy applies only to the Services and is incorporated into the [TimeBridge Terms of Service Agreement ](https://web.archive.org/pages/terms-of-service).
   * We may update this Privacy Policy from time to time. We will notify you of material changes by posting the new Privacy Policy on the Site. Please consult the Site regularly for changes. Unless otherwise defined in this policy, terms used in this Privacy Policy have the meanings provided in the TimeBridge Terms of Service Agreement. 
   * By using our Services you are consenting to TimeBridge processing your information as described in this Privacy Policy now and as amended by us. These uses include the collection, storage and deletion, disclosure and transfer of your information to and from the United States to provide you with the Services you have requested. 
 
@@ -82,4 +82,4 @@ c/o Privacy Officer
 
 Berkeley, CA 94709
 
-(c) 2009 TimeBridge, Inc. All rights reserved.
+(c) 2010 TimeBridge, Inc. All rights reserved.
