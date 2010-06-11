@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2009-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090208090811id_/http%3A//www.huddle.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huddle.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612014241id_/http%3A//www.huddle.net/about/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy ~ Huddle
+# Privacy statement ~ About ~ Huddle
 
-Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/terms-and-conditions). Capitalised terms used in this Privacy Policy are defined in the [Terms of Use](https://web.archive.org/terms-and-conditions).
+Ninian Solutions Limited trading as Huddle is committed to preserving the privacy of all visitors to huddle.net. Please read the following privacy policy to understand how We use and protect the information that You provide to Us. Please also ensure that You have read and understood Our Terms of Use which You can find [here](https://web.archive.org/terms-and-conditions). Capitalized terms used in this Privacy Policy are defined in the [Terms of Use](https://web.archive.org/terms-and-conditions).
 
 **1.Information that we collect from  you**
 
@@ -34,7 +34,7 @@ f) to administer, support, improve and develop Our Website.
 
 **3\. Disclosure of your  information**
 
-3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorised access. We comply with the laws of the countries from which we operate.
+3.1 We do follow strict guidelines in the storage and disclosure of information which You have given us, to prevent unauthorized access. We comply with the laws of the countries from which we operate.
 
 3.2 Certain personal information that You provide to Us is defined as Sensitive Personal Data by the Data Protection Act 1988. We do not seek any sensitive personal data other than that which is reasonable and necessary for the purposes sought. You are giving Your explicit consent to collect, process, disclose, transfer or store Your Sensitive Personal Data for the purposes of processing orders for goods and services.
 
@@ -52,7 +52,7 @@ Cookies are small amounts of information which We store on Your computer. We iss
 
 **5\. Security and data  retention**
 
-We employ security measures to protect Your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law requires.
+We employ security measures to protect Your information from access by unauthorized persons and against unlawful processing, accidental loss, destruction and damage. We will retain Your information for a reasonable period or as long as the law requires.
 
 **6\. Accessing and  updating**
 
