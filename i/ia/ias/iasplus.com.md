@@ -1,29 +1,25 @@
-> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807061349id_/http%3A//www.iasplus.com/disclaim.htm%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iasplus.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611064852id_/http%3A//www.iasplus.com/disclaim.htm%23privacy) for the most accurate reproduction.*
 
 # IAS Plus: Security, Legal, and Privacy
 
   
 _Welcome_
 
-Deloitte Touche Tohmatsu is delighted you're visiting our IAS Plus website. By using this website, you agree that you will abide by the below terms and conditions: 
+Deloitte Touche Tohmatsu is delighted you're visiting our IAS Plus Website. By using this Website, you agree that you will abide by the below terms and conditions: 
 
 _Legal_
 
 **About Deloitte**
 
-Deloitte Entities refers to one or more of Deloitte Touche Tohmatsu, a Swiss Verein, and its network of member firms, each of which is a legally separate and independent entity. Please see www.deloitte.com/about for a detailed description of the legal structure of Deloitte Touche Tohmatsu and its member firms. 
+Deloitte Entities refers to one or more of Deloitte Touche Tohmatsu, a Swiss Verein, and its network of member firms, each of which is a legally separate and independent entity. Please see [www.deloitte.com/about](http://www.deloitte.com/about) for a detailed description of the legal structure of Deloitte Touche Tohmatsu and its member firms. 
 
-'Deloitte' is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, and tax services to selected clients. These firms are members of Deloitte Touche Tohmatsu, a Swiss Verein ('DTT'). Each member firm provides services in a particular geographic area and is subject to the laws and professional regulations of the particular country or countries in which it operates. DTT helps coordinate the activities of the member firms but does not itself provide services to clients. DTT and the member firms are separate and distinct legal entities, which cannot obligate the other entities. DTT and each DTT member firm are only liable for their own acts or omissions, and not those of each other. Each DTT member firm is structured differently in accordance with national laws, regulations, customary practice, and other factors, and may secure the provision of professional services in their territories through subsidiaries, affiliates, and/or other entities. 
-
-Deloitte provides audit, tax, consulting, and financial advisory services to public and private clients spanning multiple industries. With a globally connected network of member firms in 140 countries, Deloitte brings world-class capabilities and deep local expertise to help clients succeed wherever they operate. Deloitte's 150,000 professionals are committed to becoming the standard of excellence. 
-
-Deloitte's professionals are unified by a collaborative culture that fosters integrity, outstanding value to markets and clients, commitment to each other, and strength from cultural diversity. They enjoy an environment of continuous learning, challenging experiences, and enriching career opportunities. Deloitte's professionals are dedicated to strengthening corporate responsibility, building public trust, and making a positive impact in their communities. 
+"Deloitte" is the brand under which tens of thousands of dedicated professionals in independent firms throughout the world collaborate to provide audit, consulting, financial advisory, risk management, and tax services to selected clients. These firms are members of Deloitte Touche Tohmatsu (DTT), a Swiss Verein. Each member firm provides services in a particular geographic area and is subject to the laws and professional regulations of the particular country or countries in which it operates. DTT helps coordinate the activities of the member firms but does not itself provide services to clients. DTT and the member firms are separate and distinct legal entities, which cannot obligate the other entities. DTT and each DTT member firm are only liable for their own acts or omissions, and not those of each other. Each of the member firms operates under the names "Deloitte", "Deloitte & Touche", "Deloitte Touche Tohmatsu", or other related names. Each DTT member firm is structured differently in accordance with national laws, regulations, customary practice, and other factors, and may secure the provision of professional services in their territories through subsidiaries, affiliates and/or other entities. 
 
 **Copyright**
 
-© 2009 Deloitte Touche Tohmatsu. 
+© 2010 Deloitte Touche Tohmatsu. 
 
-If you copy, print, or distribute pages or portions of pages from this website, such pages and portions of pages are subject to the following conditions: 
+If you copy, print, or distribute pages or portions of pages from this Website, such pages and portions of pages are subject to the following conditions: 
 
   * They may used for informational purposes only. 
   * They may be used only for non-commercial purposes. 
@@ -31,7 +27,7 @@ If you copy, print, or distribute pages or portions of pages from this website, 
 
 
 
-Note that any program, publication, design, product, process, software, technology, information, know-how, or idea described on this website may be the subject of other rights, including other intellectual property rights, which are owned by Deloitte Entities or other interested parties and are not licensed to you hereunder. 
+Note that any program, publication, design, product, process, software, technology, information, know-how, or idea described on this Website may be the subject of other rights, including other intellectual property rights, which are owned by Deloitte Entities or other interested parties and are not licensed to you hereunder. 
 
 **Disclaimer of Responsibility**
 
@@ -47,23 +43,23 @@ The Deloitte Entities cannot and do not assure you in any way that this site is 
 
 **No Unlawful or Prohibited Use**
 
-As a condition of your use of this website, you agree that you will not use this Website or its content for any purpose that is unlawful or prohibited by these terms and conditions. 
+As a condition of your use of this Website, you agree that you will not use this Website or its content for any purpose that is unlawful or prohibited by these terms and conditions. 
 
 **Trademarks**
 
-"Deloitte Touche Tohmatsu", "Deloitte & Touche", "Deloitte", "Touche", "Tohmatsu", the Deloitte, Deloitte Touche Tohmatsu and the Deloitte & Touche logos (and any of the foregoing used in any combination), product names and all page headers, footers, and icons are trademarks or registered trademarks of Deloitte Entities. All other product names mentioned are the trademarks of their respective owners. 
+"Deloitte Touche Tohmatsu", "Deloitte & Touche", "Deloitte", "Touche", "Tohmatsu", the Deloitte, Deloitte Touche Tohmatsu, and Deloitte & Touche logos (and any of the foregoing used in any combination), product names and all page headers, footers, and icons are trademarks or registered trademarks of Deloitte Entities. All other product names mentioned are the trademarks of their respective owners. 
 
 The name "IAS Plus" and the  logo are trademarks of Deloitte Touche Tohmatsu. 
 
 **Links from This Website to Other Sites**
 
-No Deloitte Entity is responsible for the contents or use of any other websites that are referenced by this Website including, without limitation, the accuracy or reliability of any information, data, opinions, advice, or statements made on those websites. Links from this website to other sites do not constitute an endorsement by any Deloitte Entities. Those links are for convenience only. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites. 
+No Deloitte Entity is responsible for the contents or use of any other websites that are referenced by this Website including, without limitation, the accuracy or reliability of any information, data, opinions, advice, or statements made on those websites. Links from this Website to other sites do not constitute an endorsement by any Deloitte Entities. Those links are for convenience only. It is the responsibility of the user to evaluate the content and usefulness of information obtained from other sites. 
 
 **Linking to This Website from Another Site**
 
-DTT permits anyone to link to our http://www.iasplus.com website subject to the linker's compliance with the following terms and conditions. 
+DTT permits anyone to link to our http://www.iasplus.com Website subject to the linker's compliance with the following terms and conditions. 
 
-A site that links to the IAS Plus website: 
+A site that links to the IAS Plus Website: 
 
   * May link to, but not replicate, content contained in the IAS Plus site; 
   * Must not present misleading or false information about the IAS Plus site or about any Deloitte Entity; 
@@ -85,7 +81,9 @@ If you have any questions regarding this privacy statement or do not feel that y
 
 **Information Collection**
 
-As a visitor, you do not have to submit any personal information in order to use the Website. The site collects only personally identifiable information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address and telephone and fax numbers. DTT does not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, physical or mental health, or sexual orientation) from visitors. DTT will, where necessary, obtain visitors' explicit consent to collect and use such information. 
+As a visitor, you do not have to submit any personal information in order to use the Website. The site collects only personally identifiable information that is specifically and voluntarily provided by visitors. Such information may consist of, but is not limited to, your name, current job title, company address, email address and telephone and fax numbers. 
+
+DTT does not usually seek sensitive information (e.g., data relating to race or ethnic origin, religious beliefs, criminal record, physical or mental health, or sexual orientation) from visitors. DTT will, where necessary, obtain visitors' explicit consent to collect and use such information. 
 
 **Cookies and Web Beacons**
 
@@ -95,7 +93,7 @@ Neither our cookies nor Web beacons collect any personal information such as you
 
 **Information Use**
 
-Personal information is used only for limited purposes. For example, when you register with the Web site to gain access to premium content or request future communications about various Deloitte Entities' areas of interest, such as specific Deloitte Entity publications or marketing campaigns, DTT may use the information you submit to create a personal profile to customize the response to further requests or inquiries. DTT may also use the information to personalize your Web site experience. In addition, when you choose to register online for a Deloitte Entity-hosted event, Deloitte Entities will use the information you submit to respond to you. In addition, the webmasters may, where necessary, use your information for various site related tasks. DTT will implement procedures to obtain necessary consents before sending you emails containing information about Deloitte Entity service offerings. You may at any time request that DTT discontinue sending you such materials. 
+Personal information is used only for limited purposes. For example, when you register with the Website to gain access to premium content or request future communications about various Deloitte Entities' areas of interest, such as specific Deloitte Entity publications or marketing campaigns, DTT may use the information you submit to create a personal profile to customize the response to further requests or inquiries. DTT may also use the information to personalize your Website experience. In addition, when you choose to register online for a Deloitte Entity-hosted event, Deloitte Entities will use the information you submit to respond to you. In addition, the webmasters may, where necessary, use your information for various site related tasks. DTT will implement procedures to obtain necessary consents before sending you emails containing information about Deloitte Entity service offerings. You may at any time request that DTT discontinue sending you such materials. 
 
 **Disclosure of Information to Third Parties**
 
@@ -108,7 +106,7 @@ Personal information may be transmitted internationally through the Deloitte Ent
 This Website collects data from you in only two circumstances – if you choose to access IFRS E-learning or if you choose to subscribe to the IAS Plus Newsletter and Alerts. Visitors who do either of those things may change their details as follows: 
 
   * _IFRS E-learning._ The IFRS E-learning page (accessed by clicking on the light bulb icon on the home page – or [Click Here](http://www.deloitteifrslearning.com/)) has a 'Delete my registration details' button. 
-  * _Subscribing to the newsletters and alerts._ The IAS Plus subscription page for newsletters and alerts is accessed by clicking on the link 'Click to subscribe to IAS Plus newsletter and alerts by email' on the home page (or [Click Here](https://web.archive.org/web/20090807061349id_/http%3A//www.iasplus.com/subscribe.htm)). The email you receive transmitting each newsletter or alert includes an 'Unsubscribe' link. 
+  * _Subscribing to the newsletters and alerts._ The IAS Plus subscription page for newsletters and alerts is accessed by clicking on the link 'Click to subscribe to IAS Plus newsletter and alerts by email' on the home page (or [Click Here](https://web.archive.org/web/20100611064852id_/http%3A//www.iasplus.com/subscribe.htm)). The email you receive transmitting each newsletter or alert includes an 'Unsubscribe' link. 
 
 
 
@@ -126,4 +124,4 @@ DTT understands the importance of protecting children's privacy in the interacti
 
 **Visitors' Questions**
 
-If you have any questions or concerns regarding your privacy while using this Web site, please direct them to the [IAS Plus Webmaster](mailto:info@iasplus.com) (info at iasplus.com). 
+If you have any questions or concerns regarding your privacy while using this Website, please direct them to the [IAS Plus Webmaster](mailto:info@iasplus.com) (info at iasplus.com). 
