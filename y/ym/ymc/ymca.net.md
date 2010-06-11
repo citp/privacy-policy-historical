@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321073942id_/http%3A//www.ymca.net/general/ymca_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ymca.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210705id_/http%3A//www.ymca.net/general/ymca_privacy_policy.html) for the most accurate reproduction.*
 
 # YMCA Privacy Policy
 
 We are committed to protecting the privacy and security of the users of our Site. 
 
-This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Site. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly. 
+This privacy policy will advise you about our guidelines concerning the use of your personal information, including, without limitation, the reasonable efforts we make to protect your personal information in accord with these guidelines, and about what choices you have concerning our use of such information. Please read this policy carefully. We may need to change this policy from time to time in order to address new issues and reflect changes on our Site. We will post those changes here so that you will always know our policies regarding what information we gather, how we might use that information, and whether we will disclose that information to anyone. Please refer back to this policy regularly.
+
+We keep your private information private by: 
+
+  * **Not selling your information—** You've entrusted us with your personal information, and we're committed to using it wisely. YMCA of the USA will not sell your personal information to anyone, for any reason, at any time. 
+  * **Using firewalls and encryption—** We use firewalls and encryption technology to protect personal information on our computer systems. 
+  * **Restricting who has access to your information—** We take precautions to ensure that your internet account and personal information are accessible only by employees who are authorized to have access to your personal information. 
+
+
 
 If you have any questions or concerns about our privacy policy, please contact us at Legal Department, YMCA of the USA, 101 N. Wacker Drive, Chicago, IL 60607. 
 
@@ -37,6 +45,10 @@ We use such information for our business purposes, and, in particular, primarily
 ## Privacy of Children
 
 We are mindful that young people need special safeguards and privacy protection. We realize that they may not understand all the provisions of our policy or be able to make thoughtful decisions about the choices that are made available to our adult users. We strongly urge all parents to participate in their children's exploration of the Internet and any online services, and to teach their children about protecting their personal information while online. 
+
+## Donations
+
+We collect only enough information to process your donation and do not use the information for any other purpose. Your payment information is transmitted to us using a secure internet method that helps ensure the privacy of this information. During the time your payment information resides on our computers, it is in an encrypted format and can only be accessed by authorized personnel with a decryption key.
 
 ## Links to Other Sites
 
