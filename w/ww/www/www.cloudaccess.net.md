@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202065616id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the www.cloudaccess.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211425id_/http%3A//www.cloudaccess.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+CloudAccess.net Privacy Policy
 
 ##### What This Privacy Policy Covers
 
@@ -9,13 +11,6 @@ This policy covers how CloudAccess.net, LLC, a Michigan corporation ("cloudacces
 This policy covers how the cloudaccess.net Sites, Products, and Services deal with information about your children under the Children's Online Privacy Protection Act ("COPPA"), and how parents and legal guardians may request from us how they can review, delete, or stop the collection of the personally identifiable information of their child.
 
 This policy does not apply to the practices of companies that CloudAccess.net does not own or control, or to people that CloudAccess.net does not employ or manage.
-
-
-
-
-
-
-
 
 ##### Information We Gather
 
@@ -31,9 +26,6 @@ The CloudAccess.net Sites, Products, and Services may automatically receive and 
 
 The CloudAccess.net Sites, Products, and Services use information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting.
 
-
-
-
 ##### _IP Address_
 
 The CloudAccess.net Sites, Products, and Services may occasionally obtain IP addresses from users depending upon how you access our Web sites. IP addresses, browser, and session information may be used for various purposes, including to:
@@ -47,9 +39,6 @@ Help determine which users have access privileges to certain content, services, 
 Monitor and prevent fraud and abuse.
 
 The CloudAccess.net Sites, Products, and Services may display your IP address to the owners or maintainers of certain journals or Blogs when you post to those journals or Blogs and the owner or maintainer has enabled functionality on the sites for this purpose.
-
-
-
 
 ##### _Cookies_
 
@@ -70,21 +59,11 @@ Estimate and report our total audience size and traffic.
 
 Conduct research to improve the content and services provided on the cloudaccess.net Sites, Products, and Services.
 
-
-
-
 CloudAccess.net lets other entities that show advertisements on some of our Web pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, and not this policy. Advertisers or other entities do not have access to CloudAccess.net's cookies.
-
-
-
 
 ##### Information Relating to Children
 
 The Children's Online Privacy Protection Act ("COPPA") requires that we inform parents and legal guardians about how we collect, use, and disclose personal information from children under 13 years of age. The CloudAccess.net Sites, Products, and Services are not directed at children under 13 years of age, but we recognize that with proper adult supervision some parents might permit their children to visit and utilize the CloudAccess.net Sites, Products, and Services. COPPA requires that we obtain the consent of parents and guardians in order for children under 13 years of age to use certain features of the CloudAccess.net Sites, Products, and Services.
-
-
-
-
 
 When your child attempts to register and/or provide personal information to cloudaccess.net (including on any of the CloudAccess.net Sites, Products, and Services), we require a parent or legal guardian to: complete the registration; review our privacy policy and to submit a valid credit card number to verify that the child's parent or guardian knows about and authorizes our information practices related to children protected by COPPA; and verify through the use of an email confirmation and second authorization that the parent or guardian consents to any applicable Terms of Service and this privacy policy.
 
@@ -124,14 +103,7 @@ As we continue to develop our business, we may also buy or sell all or part of o
 
 ##### Changes to this Privacy Policy
 
-
-
-
 CloudAccess.net may revise, modify, or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular CloudAccess.net account or by placing a prominent notice on our site.
-
-
-
-
 
 ##### Confidentiality and Security
 
@@ -143,10 +115,7 @@ Your account information is password-protected.
 
 In certain areas, the CloudAccess.net Sites, Products, and Services use industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. 
 
-
-
-
-If CloudAccess.net learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the CloudAccess.net Sites, Products, and Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of those sites, products, and services. We may post a notice on our applicable Web sites if a security breach occurs. If this happens, you will need a Web browser enabling you to view the applicable Web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) .
+If CloudAccess.net learns of a security systems breach, we may attempt to notify you electronically so that you can take appropriate protective steps. By using the CloudAccess.net Sites, Products, and Services or providing personal information to us, you agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of those sites, products, and services. We may post a notice on our applicable Web sites if a security breach occurs. If this happens, you will need a Web browser enabling you to view the applicable Web sites. We may also send an email to you at the email address you have provided to us in these circumstances. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), you should notify us at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) [admin@cloudaccess.net](mailto:admin@cloudaccess.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it .
 
 ##### Changing Your Preferences and Personal Information
 
@@ -154,15 +123,12 @@ You can edit your account information with an applicable CloudAccess.net Site, P
 
 You can delete your applicable account by visiting the applicable account deletion page; however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements.
 
-
-
-
 ##### Contacting cloudaccess.net
 
-If you have a privacy concern regarding any CloudAccess.net Site, Product, or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those Sites, Products, or Services, you should complete a feedback form or you can write to us by email at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) . Alternatively, we can be reached by telephone at 800-400-1565 or our postal mail address:
+If you have a privacy concern regarding any CloudAccess.net Site, Product, or Service, or this policy, and if you cannot satisfactorily resolve it through the use of those Sites, Products, or Services, you should complete a feedback form or you can write to us by email at [admin@cloudaccess.net](mailto:admin@cloudaccess.net) [admin@cloudaccess.net](mailto:admin@cloudaccess.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it . Alternatively, we can be reached by telephone at 800-400-1565 or our postal mail address:
 
 CloudAccess.net, LLC.   
-[info@michiganmedia.net](mailto:info@michiganmedia.net)   
+[info@michiganmedia.net](mailto:info@michiganmedia.net) [info@michiganmedia.net](mailto:info@michiganmedia.net) This e-mail address is being protected from spambots. You need JavaScript enabled to view it   
 Toll Free: 800-400-1565  
 Fax: 313-899-7032  
 web: [http://www.cloudaccess.net](http://www.cloudaccess.net/undefined)
