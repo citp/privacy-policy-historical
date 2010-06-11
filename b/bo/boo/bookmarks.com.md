@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookmarks.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227173137id_/http%3A//bookmarks.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookmarks.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211207id_/http%3A//bookmarks.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # netRocket bookmarking, tagging and scheduling the sites you browse and discover -- Privacy Policy
 
