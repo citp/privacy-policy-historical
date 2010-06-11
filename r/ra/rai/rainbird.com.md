@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2009-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090916010536id_/http%3A//www.rainbird.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbird.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611072429id_/http%3A//www.rainbird.com/corporate/privacy.htm) for the most accurate reproduction.*
 
-# Rain Bird - Privacy Policy
-
-Privacy Policy
+# Rain Bird: Privacy Policy
 
 Rain Bird respects your privacy. Our site uses forms and surveys for visitors to request information about our products and services, or to provide us feedback. The information collected is used by Rain Bird to improve our Web site and the overall relationship with our customers.
 
