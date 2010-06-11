@@ -1,30 +1,53 @@
-> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2007-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071027071326id_/http%3A//blogher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celebritybabyscoop.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611231446id_/http%3A//www.celebritybabyscoop.com/privacy_policy) for the most accurate reproduction.*
 
-# What is your privacy policy? | BlogHer
+# CelebrityBabyScoop.com Privacy Policy | Celebrity Baby Scoop
 
-**BlogHer Network Privacy Statement**  
-_Updated: 29 January 2006_
+Effective Date: October 2, 2009
 
-**We want the BlogHer Network community to be built on trust.** This online privacy statement tells you about the information the BlogHer Network collects through the Web site and how we use that information. By using our services and accessing the BlogHer Network, you are consenting to the information collection and use practices described in this statement, as modified from time to time by us. If we decide to change our privacy statement, we will post a new statement on the BlogHer Network and change the date at the top of the statement. Therefore, we encourage you to check the date of our privacy statement whenever you visit the BlogHer Network for any updates or changes.
+Celebrity Baby Scoop, LLC hereby adopts this Privacy Policy to inform you of how it treats personal or personally identifiable information (“Personal Information”) that may be collected when you visit or use the celebritybabyscoop.com website or Celebrity Baby Scoop, LLC’s services. This Privacy Policy does not apply to the practices of third parties that Celebrity Baby Scoop, LLC does not own or control, or to individuals that are not under Celebrity Baby Scoop, LLC’s actual control.
 
-  1. **Information about you.** Except as disclosed in this statement, we do not sell or disclose information that identifies our users of the BlogHer Network personally or makes it possible for other parties to contact them directly. We only collect non-personal information in the aggregate ("Aggregate Information"), such as pages visited, on the BlogHer Network.
+1\. Our Collection and Use of Your Personal Information
 
+We may collect Personal Information when you use the celebritybabyscoop.com website or Celebrity Baby Scoop, LLC services. We use your personal information to help you register a member account, complete a transaction, communicate with you, provide services and support, and to update you on our services and benefits or those of our Trusted Partners. This Personal Information may include but is not limited to name, address, phone number, email address, user ID’s and passwords, billing and transaction information, credit card information, and other information.
 
-* **Voluntarily provided information.** Registration is required to post on the site, at which point a valid email address is requested. This email address will remain private. In addition, information voluntarily provided by you in the "Private Information" area of the registration process will remain private. **_However, we reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on BlogHer._ The rest of the information you provide in your user profile will be visible to others, including anonymous visitors to the site.**
-* **Other information.** The site collects other information by use of internet technology available to make this site function properly. 
+You agree that we are allowed to use your email address, however obtained, to communicate with you and to update you on our services and benefits or those of our Trusted Partners. By submitting an email address to us or by posting on the celebritybabyscoop.com website, you agree that we may contact you. We may use this Personal Information to customize the celebritybabyscoop.com Site Content.
 
-  1. **Cookies.** We collect aggregate information about you and your use of the BlogHer Network whenever you visit us online. This includes use of cookies to store your user session IDs. BlogHer uses session ID cookies to make it easier for you to navigate our site. A session ID cookie expires when you close you browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file. BlogHer does not use cookies to track your web browsing on other websites.
-  2. **Click Tracking**. As is true of most Web sites, BlogHer gathers certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We use this information to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole. Except as noted herein, we do not link this automatically-collected data to personally identifiable information.
-  3. **IP Addresses**. Each user's IP address is logged with each visit and each action performed on the site. This information is never provided to the public, and is logged only for a temporary period of time. _IP address information is linked to user data and_ may _be used in an effort to block a "banned" user from accessing the website._
-  4. **Advertising**. If there is advertising on the site, such advertising may employ the use of cookies or other methods to track hits and click-throughs. We are not responsible for advertiser cookies or how the information gathered through their use might be used.
-  5. **Participation on a Public Website.** You should be aware that any personally identifiable information you submit on this website in blogs, comments, other posts and your user profile can be read, collected, or used by other users of this website, including anonymous visitors, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit on this website.
-  6. **Aggregate information.** We may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all Aggregate Information, provided that, such information does not personally identify you. When we share such information with other companies, it is not traceable to any particular user, and will not be used to contact you.
+We may also collect data about your use of the celebritybabyscoop.com website and services that is not associated with your specific personal identity. We may log your IP address when you use the celebritybabyscoop.com website or collect other information via cookies to evaluate how you use the website and to tailor the Site Content according to your preferences.
 
+2\. User Information and Opt-Out
 
-* **Co-branded service offerings.** At some point, we may share aggregate information with certain businesses with which BlogHer has formed a strategic alliance. You may be able to identify these businesses because BlogHer has authorized them to display clearly identified and branded images on the BlogHer Network and in its communications. These strategic partners are requested to clearly state their own privacy policies on their own web sites or promotional materials, and if you provide them with your personal information, it may become subject to the policies of the respective company. No personal information identifiable to a specific user is collected or shared from the BlogHer Network.
-* **Third Party Services.** The BlogHer Network reserves the right to offer third party services and products to you on the Web site, such as via the conference sponsorship area and via newsletters, based on the preferences that you identify during the registration process and based on your subsequent preferences. We may share aggregated demographic information about our user base with other entities, such as advertisers. This information does _not_ identify individual users. We do not link aggregate user data with personally identifiable information. We may share personally identifiable information with third-party vendors and partners _only in those situations where you have given us prior, specific permission to do so_.
-* **Links to Other Sites**. BlogHer contains links to other sites that are not owned or controlled by BlogHer. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies only to information collected by this website.
-* **United States law**. Much of BlogHer's membership, our servers and databases are primarily located in the United States. As a result, the personal information you provide us will be processed in and is subject to the laws and regulations of the United States. If you are a visitor from outside the United States and you provide us with your contact or other personally-identifiable information, you will be asked to consent to the collection and/or processing in the United States of your personally-identifiable information, which includes the use of cookies as described below.
-* **Changes**. This Privacy Policy may change from time to time, without notice.
+We do not use your Personal Information for advertisements by third parties, by we may provide your Personal Information to our Trusted Partners pursuant to ¶ 3 of this Privacy Policy. We may use your email address consistent with the provisions outlined above. You are permitted and able to opt-out of communications from us, but you must do so in writing. We are not responsible for communications from third parties that we do not own or control.
 
-If you have any questions or concerns about BlogHer's Privacy Policy, please [contact us](https://web.archive.org/web/20071027071326id_/http%3A//blogher.org/contact-us).
+3\. Our Sharing and Disclosure of Your Personal Information
+
+We will not sell, rent, lease, or transfer your Personal Information to any individual, business, or government entity except to respond to authorized information requests by government authorities, comply with any law, regulation, subpoena, or court order, help prevent frau or to enforce or protect our rights and properties, or to protect the personal safety of our employees and third parties on our property. We may sell, rent, lease, or transfer your Personal Information to our Trusted Partners where we determine that such a sale, rental, lease, or transfer to our Trusted Partners would provide you with information or services that may be of interest to you. We determine the membership criteria of our Trusted Partners program, and it will comply will all applicable state and federal laws concerning the transfer of personal information.
+
+4\. Our Sale of Celebritybabyscoop.com or the Purchase of Other Business or Entities
+
+If we acquire or sell a business unit or subsidiary, including but not limited to the complete sale of the celebritybabyscoop.com service to a third party, your Personal Information may be transferred to a third party. If this happens, your Personal Information will continue to be used consistent with the terms of this Privacy Policy.
+
+5\. Member Account Access
+
+If we assign you a username and password to access the celebritybabyscoop.com website or services, you have the ability to edit your Personal Information at any time. You may also request, in writing, that Celebrity Baby Scoop, LLC cancel your account. We will not share your user account information with another individual, business, or government entity, excluding a purchase or sale under ¶ 4 or a transfer of information to our Trusted Partners as stated in ¶ 3, unless ordered to do so by a court.
+
+6\. Our Protection of Your Personal Information
+
+All of our member account pages, such as web pages that display your Personal Information, are protected with Secure Socket Layer encryption (“SSL”). All member accounts must be accessed with usernames and passwords. You are advised not to share unnecessary Personal Information, including your username and password, with any other person.
+
+No security system can be guaranteed to be completely secure. We use commercially reasonable efforts to protect your Personal Information, but you provide your Personal Information at your own risk.
+
+7\. Integrity of Personal Information
+
+We work to ensure that your Personal Information is accurate, complete, current, and relevant. You are responsible for ensuring the same and you have an ongoing duty to inform us of any changes in your Personal Information.
+
+8\. Amendments
+
+We reserve the rights to amend this Privacy Policy at any time. If we amend this Privacy Policy, the Effective Date of the Privacy Policy will change.
+
+9\. Contact
+
+If you have any questions regarding this Privacy Policy, you can contact us directly by emailing [lisa@celebritybabyscoop.com](mailto:lisa@celebritybabyscoop.com). You may also write to us at the following address:
+
+Celebrity Baby Scoop, LLC  
+515 West Shore Trail  
+Sparta, NJ 07871
