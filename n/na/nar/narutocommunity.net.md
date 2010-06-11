@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217205105id_/http%3A//narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the narutocommunity.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210028id_/http%3A//narutocommunity.net/index.php%3Ffind%3Dprivacy_policy) for the most accurate reproduction.*
 
-# |Naruto Anime News - Download Direct Naruto Anime Episodes & Manga @ Naruto Community
+# privacy_policy|Naruto Community - Download Naruto Anime & Naruto Manga
 
 ##  Today's News & Content 
 
@@ -8,7 +8,9 @@
 > 
 > **The privacy of our visitors to narutocommunity.net is important to us.  **
 > 
-> At **narutocommunity.net** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit narutocommunity.net, and how we safeguard your information.  We never sell your personal information to third parties.
+> At **narutocommunity.net** , we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit narutocommunity.net, and how we safeguard your information.  We never sell your personal information to third parties. 
+> 
+> We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here - <http://www.networkadvertising.org/managing/opt_out.asp>.
 > 
 > **Log Files**  
 >  As with most other websites, we collect and use the data contained in log files.  The information in the log files include  your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site. 
