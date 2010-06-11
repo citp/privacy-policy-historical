@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the romanoriginals.co.uk privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002835id_/http%3A//www.romanoriginals.co.uk/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the romanoriginals.co.uk privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611132440id_/http%3A//www.romanoriginals.co.uk/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at Roman Originals
 
 ## Privacy Policy Introduction
 
-This Privacy Policy explains our policies on privacy. Any information you submit to us via the Registration form will be held and used by us in accordance with the provisions of the Data Protection Act. If you have any requests or queries at any time concerning your personal information or our practices, please contact our Customer Services Helpline on 0844 808 1900 or email us at [webadmin@romanoriginals.co.uk](mailto:webadmin@romanoriginals.co.uk).
+This Privacy Policy explains our policies on privacy. Any information you submit to us via the Registration form will be held and used by us in accordance with the provisions of the Data Protection Act. If you have any requests or queries at any time concerning your personal information or our practices, please contact our Customer Services Helpline on 0845 508 9453 or email us at [webadmin@romanoriginals.co.uk](mailto:webadmin@romanoriginals.co.uk).
 
 ## What Information Do We Collect?
 
@@ -28,6 +28,10 @@ Back to top
 
 Roman Originals Plc uses your email address as a convenient way to contact you about your order. From time to time, we may update you on relevant news or promotions, but only with your permission. We will not pass your details on to any other relevant third parties unless you have given us permission to do so.
 
+## Email Mailing List
+
+At the bottom of every email that we send there will be a link to unsubscribe, If you are already registered on our site you can also unsubscribe by logging in to your Account and use the option to change your communication options and uncheck the checkbox where it says 'email'
+
 ## Need help?
 
-We strive to offer all our customers an excellent level of service. If you have any queries or comments about the Website at any time, please contact our Customer Services Helpline on 0844 808 1900. The Customer Services Helpline number is available Monday to Friday 9:00am till 5:00pm, excluding weekends, bank holidays and national holidays.
+We strive to offer all our customers an excellent level of service. If you have any queries or comments about the Website at any time, please contact our Customer Services Helpline on 0845 508 9453. The Customer Services Helpline number is available Monday to Friday 9:00am till 5:00pm, excluding weekends, bank holidays and national holidays.
