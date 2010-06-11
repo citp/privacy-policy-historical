@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fotopic.net privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509122933id_/http%3A//fotopic.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotopic.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210719id_/http%3A//fotopic.net/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy :: Fotopic.Net
 
@@ -12,7 +12,7 @@ The Fotopic.Net site also uses cookies. Cookies are small files written on your 
 
 We do not sell, trade or rent your personal information to others. 
 
-Under the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access (we are registered with the [Data Protection Registrar](http://www.esd.informationcommissioner.gov.uk/esd/search.asp), no. PZ9320333). Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you. Please note that the information you enter may be transferred outside the European Economic Area for the purposes of processing by Fotopic.net Ltd and its affiliates. 
+Under the UK Data Protection Act 1998, we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access (we are registered with the [Data Protection Registrar](http://www.esd.informationcommissioner.gov.uk/esd/search.asp), no. PZ9320333). Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you. Please note that the information you enter may be transferred outside the European Economic Area for the purposes of processing by Snappy Design Ltd and its affiliates. 
 
 ### IP Address
 
@@ -30,7 +30,7 @@ It is important for you to protect against unauthorised access to your password 
 
 ### Disclosure with Other Suppliers
 
-Fotopic.net Ltd. maintains agreements with other suppliers for the provision of services such as printing, image retouching, and support. When you place an order through Fotopic we will pass on your name and address for the sole purpose of carrying out authorisation of the transaction and supplying you with the goods, and by placing an order you consent to this sharing of information. Our suppliers are under agreement not to use these details for any other information (including direct marketing). In any case, we provide the minimal amount of information to carry out the task. 
+Snappy Design Ltd. maintains agreements with other suppliers for the provision of services such as printing, image retouching, and support. When you place an order through Fotopic we will pass on your name and address for the sole purpose of carrying out authorisation of the transaction and supplying you with the goods, and by placing an order you consent to this sharing of information. Our suppliers are under agreement not to use these details for any other information (including direct marketing). In any case, we provide the minimal amount of information to carry out the task. 
 
 ### Links to Other Sites
 
@@ -38,10 +38,10 @@ This site contains links to other sites that may offer information, products or 
 
 ### Questions or Comments
 
-If you have any questions about this privacy policy, the practices of this site, or your dealings with the Web site, you can contact Fotopic.net Ltd. via email at [info@fotopic.net](mailto:info@fotopic.net). 
+If you have any questions about this privacy policy, the practices of this site, or your dealings with the Web site, you can contact Snappy Design Ltd. via email at [info@fotopic.net](mailto:info@fotopic.net). 
 
 ### Terms and Conditions
 
-Please also read our [Terms and Conditions](https://web.archive.org/web/20080509122933id_/http%3A//fotopic.net/about/terms.php). 
+Please also read our [Terms and Conditions](https://web.archive.org/web/20100611210719id_/http%3A//fotopic.net/about/terms.php). 
 
 [](https://web.archive.org/)
