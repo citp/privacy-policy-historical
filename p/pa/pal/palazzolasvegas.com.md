@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the palazzolasvegas.com privacy policy that was archived on 2009-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090330193014id_/http%3A//www.palazzolasvegas.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the palazzolasvegas.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611031301id_/http%3A//www.palazzolasvegas.com/privacy.aspx) for the most accurate reproduction.*
 
 # The Palazzo Las Vegas - Resort Hotel Casino
 
