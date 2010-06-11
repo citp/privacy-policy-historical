@@ -1,36 +1,39 @@
-> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2007-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071007111113id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tech-pro.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611215539id_/http%3A//www.tech-pro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Tech-Pro Privacy Policy  
----  
-  
+This privacy policy explains how information is handled when you visit this site, and when you purchase products or services using links from this site.
+
 ### Personal information
 
-Tech-Pro Limited values your privacy. 
+Tech-Pro.net values your privacy. We do not retain personal information about visitors to this site. The only information this site may request from you is your name and email address. You will only be asked for this information if:
 
-The only information we may hold about you is your name and email address. The only way we can obtain this information is if:
-
-  * you purchase one of our own Tech-Pro products; 
-  * you sign up for our newsletter; 
-  * you send us an email.
+  * you purchase a Tech-Pro branded product.
+  * you sign up for our newsletter.
+  * you send us an email or open a support ticket.
 
 
 
-We do not receive any information about you if you purchase a product from another company that is featured on this site.
+We hate spam as much as you do. Tech-Pro.net **guarantees** that we will not use any information received from this website for any purpose other than that for which you provided it.
 
-We hate spam as much as you do. Tech-Pro Limited **guarantees** that we will not use information received in this way for any purpose other than to identify registered users of our products, send out newsletters or to reply to your emails. Tech-Pro Limited will never give or sell this information to any third party.
+Tech-Pro.net's newsletter is operated on our behalf by Bits du Jour. You can read their privacy statement [here](http://www.bitsdujour.com/privacy/).
 
 ### Cookies and other tracking technologies
 
-In common with all other websites, the web server on which this site is hosted logs usage information, including such items as your Internet Protocol (IP) address, browser software and operating system, referring web page (the page containing the link you clicked that brought you to this site), the pages you accessed, and dates and times that you accessed the site. The web server does not log any information that would enable us to identify you as an individual.
+As is the case with most websites, Tech-Pro.net uses cookies - small data files that are stored temporarily by your browser - to add functionality to the site, improve your browsing experience and enable the operation of certain features. Cookies are a necessary part of the operation of most modern websites. For example, they may be used to store the details of items purchased on a website so that the items can be displayed when you reach the shopping cart page.
 
-Tech-Pro Limited may analyze the information collected by the web server for trends and statistics, or we may employ third party analysis services to collect and analyze site usage information for us, in order to improve the effectiveness of the site.
+Some third party sites linked from this site may place cookies on your computer to record that you reached them via a link from Tech-Pro.net. The information stored in these cookies is not personally identifiable, and simply enables third party sites to pay Tech-Pro.net a commission for its role in generating a sale of a product.
 
-Some pages of this site may use cookies for technical reasons, to improve your browsing experience. Some third party sites linked from this site may also place cookies on your computer to record that you came from this site. The reason for this is to allow Tech-Pro Limited to receive a commission on any sales that may result from advertisements or product reviews on this site.
+Tech-Pro.net uses third-party advertising companies including Google to serve ads when you visit our website. These companies may store non personally identifiable information in cookies in order to provide advertisements about goods and services that may be of interest to you. For more information about the DoubleClick cookie used by Google see the [DoubleClick privacy policy](http://www.doubleclick.com/privacy/faq.aspx). To discover how to opt out of receiving DoubleClick cookies, [click here](http://www.google.co.uk/privacy_ads.html).
 
-###  E-commerce
+### Web server logs
 
-Electronic commerce (e-commerce) transactions made through this site are made using third parties such as PayPal, Plimus, Element5, RegNow or eSellerate, operating on behalf of the developers of the product you are purchasing. Tech-Pro Limited never receives your credit card details or other personal or financial information, even when you are purchasing one of our own products.
+In common with almost all websites, the web server on which this site is hosted logs non personally identifiable information related to visitors' use of the website. Tech-Pro.net may analyze the information collected by the web server for trends and statistics, or we may employ third party analysis services to collect and analyze site usage information for us, in order to improve the effectiveness of the site.
 
-Third party sites have their own privacy policies. Please consult them if you require more information.
+### E-commerce
+
+Electronic commerce (e-commerce) transactions made through this site are made using third party payment processing services such as [Plimus](http://www.plimus.com/), [RegNow](http://www.regnow.com/), [ShareIt](http://www.shareit.com/) or [eSellerate](http://www.esellerate.net/), which work on behalf of the developer of the product you purchase. Tech-Pro.net is not involved in the transaction and never receives your credit card details or other personal or financial information.
+
+Your legal contract of sale is with the company that processed your payment. In the event of a dispute (such as non-receipt of a product or license key) you are advised first of all to contact the product developer who has a contractual obligation to the payment processing company to fulfil the order.
+
+Third party payment processing sites have their own privacy policies. Please consult them if you require more information.
