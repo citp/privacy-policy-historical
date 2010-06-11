@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2009-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090227230847id_/http%3A//www.idt.net/site/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idt.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210614id_/http%3A//www.idt.net/site/privacy.aspx) for the most accurate reproduction.*
 
 # IDT Corporation - Privacy Policy
 
@@ -133,15 +133,15 @@ Our agent for notice of claims of copyright infringement on the IDT Web Sites ca
 
 By Mail:
 
-Ely Tendler  
-Chief Legal Officer  
 IDT Corporation  
-520 Broad Street  
+Legal Department  
+17th Floor  
+550 Broad Street  
 Newark, NJ 07102
 
 By phone:
 
-(973) 438-1000  
+(973) 438-3342  
 
 
 Copyright Notice
