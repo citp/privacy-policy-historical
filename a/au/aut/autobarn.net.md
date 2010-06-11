@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201061122id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611222359id_/http%3A//www.autobarn.net/privacypolicy.html) for the most accurate reproduction.*
 
 # Policies
 
@@ -23,6 +23,9 @@ When you purchase a product we ask you for information such as name, address, an
 
 Whenever you send us personal correspondence, such as e-mail or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect and store such information. From time to time, AutoBarn.com holds contests and sweepstakes. We will collect and store all information relating to such contests and sweepstakes. AutoBarn.com might purchase information from third parties in order to supplement the information we have received from our customers.  
   
+**Third-Party Web Beacons**  
+ We use third-party web beacons from Yahoo! to help analyze where visitors go and what they do while visiting our website. Yahoo! may also use anonymous information about your visits to this and other websites in order to improve its products and services and provide advertisements about goods and services of interest to you.  If you would like more information about this practice and to know your choices about not having this information used by Yahoo!, [click here](https://reports.web.analytics.yahoo.com/optout,OptOut.vm?domain=a.analytics.yahoo.com).  
+   
 **Removing Your Information from Our Records**  
 If for some reason, you want us to remove your credit card and contact information from our database, we will, but only after all of your transactions have been completed. All you have to do is send us e-mail at [customerservice@autobarn.com](mailto:CustomerService@autobarn.com), or contact us using one of the methods listed below under How to Contact Us. Such information, however, is never completely removed from our database archives because we routinely back up our servers for disaster recovery and tax-record purposes.  
   
