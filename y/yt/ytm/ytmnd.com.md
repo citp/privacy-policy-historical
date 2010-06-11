@@ -1,30 +1,32 @@
-> *The following text is extracted and transformed from the ytmnd.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227024236id_/http%3A//ytmnd.com/info/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytmnd.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612001400id_/http%3A//ytmnd.com/info/privacy_policy) for the most accurate reproduction.*
 
 # ytmnd - you're the man now dog!
 
-## 'YTMND.COM' Privacy Policy
+## YTMND.COM Privacy Policy
 
-**_What This Privacy Policy Covers_**
+### What This Privacy Policy Covers
 
-* This privacy policy pertains to the use of the YTMND web site at http://www.ytmnd.com/ 
-* This privacy policy covers how YTMND treats personal information that YTMND collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number. 
-* Children under 13 are not permitted to use the YTMND service, and so this privacy policy makes no provision for children's use of the site. 
+  * This privacy policy pertains to the use of the YTMND web site at http://www.ytmnd.com/
+  * This privacy policy covers how YTMND treats personal information that YTMND collects and receives. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number.
+  * Children under 13 are not permitted to use the YTMND service, and so this privacy policy makes no provision for children's use of the site. 
 
-###  Information Collection and How it is used
 
-**General Information**
 
-  * YTMND collects personal information when you register with YTMND to use YTMND services or to post content on YTMND. 
+### Information Collection and How it is used
+
+### General Information
+
+  * YTMND collects personal information when you register with YTMND to use YTMND services or to post content. 
   * When you register we ask for your email address and certain optional information such as your name, birth date, birth place, gender, biographical information, ICQ/AIM/Yahoo/MSN user name, and personal interests. 
-  * If you would like to obtain a paid ("Pro") account, we will ask for your billing address, phone number, and credit card information. 
+  * Depending on your level of desired service, we may ask for your billing address, phone number, and credit card information. 
   * YTMND automatically receives and records information on our server logs from your browser, including your IP address, cookie, and the page you request. 
   * YTMND uses information for the following general purposes: products and services provision, billing, identification and authentication, services improvement, contact, research, and anonymous reporting. 
 
 
 
-**IP Addresses**
+### IP Addresses
 
-IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with YTMND.
+IP Addresses are automatically reported by your browser each time you view a web page. Your IP address is stored in our user registration databases when you register with YTMND, as well as each time you log in and each time you upload digital content.
 
 IP addresses may be used for various purposes, including: 
 
@@ -35,7 +37,7 @@ IP addresses may be used for various purposes, including:
 
 
 
-**Cookies**
+### Cookies
 
 A cookie is a small amount of data, which often includes an anonymous unique identifier, that is sent to your browser from a web site's computers and stored on your computer's hard drive.
 
@@ -53,23 +55,22 @@ o Conduct research to improve YTMND's content and services.
 
 ###  Information Sharing and Disclosure
 
-  * When you post a message, your YTMND ID or alias that you are posting under is visible to other users. 
+  * When you post a message, your YTMND ID or alias that you are posting under is visible to other users unless otherwise specified.. 
   * If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.YTMND does not rent or sell your personal information.
-  * Generally, YTMND does not share personal information about you with other people or nonaffiliated companies without your consent except to provide products or services you've requested and in the following circumstances: 
-    * YTMND may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court and other data will be stored and processed in Canada and the United States and this information may be subject to the laws of these jurisidictions.
+  * Generally, YTMND does not share personal information about you with other people or unaffiliated companies without your consent except to provide products or services you've requested.
+  * YTMND may be required to disclose personally identifiable information under special circumstances, such as to comply with subpoenas, warrants, court and other data will be stored and processed in Canada and the United States and this information may be subject to the laws of these jurisdictions.
+  * In some cases YTMND may act as a contact liaison between users and third parties. An example of this would be when a third party would like permission to reproduce the work of a YTMND user. In cases such as these a YTMND representative may contact the user to request permission in order to forward proper contact information on.
+
+
 
 ###  Editing and Deleting Account Information. Security.
 
-    * You can change your YTMND Account Information, at any time. 
-    * We may send you certain communications relating to the YTMND service, such as service announcements and administrative messages,that are considered part of your YTMND account. 
-    * You can delete your YTMND account at any time from your account page; however, please note that your identification,billing and contact information may remain in YTMND's records for some period. 
-    * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
-    * Your YTMND Account Information is password-protected. 
-    * In certain areas, YTMND uses SSL-encryption to protect data transmissions. 
-  
+  * You can change your YTMND Account Information, at any time. 
+  * We may send you certain communications relating to the YTMND service, such as service announcements and administrative messages, that are considered part of your YTMND account. 
+  * You can delete your YTMND account at any time from your account page; however, please note that your IP, identification, billing and contact information may remain in YTMND's records for some period. 
+  * We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+  * Your YTMND Account Information is password-protected. 
+  * In certain areas, YTMND uses SSL-encryption to protect data transmissions. 
+  * All passwords are hashed using a salted algorithm for protection.
 
-
-
-
-  
 
