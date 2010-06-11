@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citizenship.gov.au privacy policy that was archived on 2009-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091111234027id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citizenship.gov.au privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611045103id_/http%3A//www.immi.gov.au/functional/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!--
@@ -29,14 +29,15 @@
 <!-- beginnoindex -->
 <script src="/_designs/immi_javascript_files/prototype.js/index.js" type="text/javascript"></script>
 <script src="/_designs/immi_javascript_files/effects.js/index.js" type="text/javascript"></script>
-<script src="/_designs/immi_javascript_files/globals.js/index.js" type="text/javascript"></script>
-<!--[if IE]>
-<script src="/_designs/immi_javascript_files/ie.js" type="text/javascript"></script>
-<![endif]-->
 <!-- START for dhtmlXCombo -->
 <script src="/_designs/immi_javascript_files/codebase_dhtmlxCombo/dhtmlxcombobox.js" type="text/javascript"></script>
 <!-- END for dhtmlXCombo -->
 <!-- endnoindex -->
+<script src="/_js/homepage-features.js" type="text/javascript"></script>
+<script src="/_designs/immi_javascript_files/globals.js/index.js" type="text/javascript"></script>
+<!--[if IE]>
+<script src="/_designs/immi_javascript_files/ie.js" type="text/javascript"></script>
+<![endif]-->
 
 <!-- Exclude-20081111-xyz -->
 </head>
@@ -171,7 +172,9 @@
 	<li><a href="/visitors/event-organisers-participants/">International Event Coordinator Network (IECN)</a></li>
 	<li><a href="/business-services/legend/">LEGENDcom</a></li>
 	<li><a href="/gateways/panel_doctors/">Panel Doctors Gateway</a></li>
+	<li><a href="/gateways/police/">Police Working with Diverse Communities Gateway</a></li>
         <li><a href="/managing-australias-borders/compliance/info-employers/evo-orgs.htm">Visa Entitlement Verification Online</a></li>
+		
       </ul>
     </li>
     <li id="top-nav-7">
@@ -306,11 +309,10 @@
           <li class="first sub-item-1"><a href="/about/department/diac-plan/">DIAC Strategic Plan 2009-12</a></li>
           <li class="sub-item-2"><a href="/about/department/awards/e-award_2009.htm">DIAC Wins eAward</a></li>
           <li class="sub-item-3"><a href="/about/department/awards/e-award_intl_2009.htm">DIAC Wins International Government Technology Award</a></li>
-          <li class="sub-item-4"><a href="/about/department/staffsurvey/">Employee Opinion Survey</a></li>
-          <li class="sub-item-5"><a href="/about/department/ministers.htm">Minister and Parliamentary Secretary's websites</a></li>
-          <li class="sub-item-6 last"><a href="/about/department/perf-progress/">Performance and Progress</a></li>
-          <li class="sub-item-7"><a href="/about/department/senior-staff/">Senior Staff</a></li>
-          <li class="sub-item-8 last"><a href="/about/department/who-we-are.htm">Who We Are</a></li>
+          <li class="sub-item-4"><a href="/about/department/ministers.htm">Minister and Parliamentary Secretary's websites</a></li>
+          <li class="sub-item-5"><a href="/about/department/perf-progress/">Performance and Progress</a></li>
+          <li class="sub-item-6"><a href="/about/department/senior-staff/">Senior Staff</a></li>
+          <li class="sub-item-7 last"><a href="/about/department/who-we-are.htm">Who We Are</a></li>
         </ul>
       </div>
     </li>
@@ -346,12 +348,12 @@
       <div class="accordion-toggle"><a href="/about/careers/">Careers</a></div>
       <div class="accordion-content">
         <ul>
-          <li class="first sub-item-1"><a href="/about/careers/dors/dors.htm">About the Departmental On-line Recruitment System (DORS)</a></li>
-          <li class="sub-item-2"><a href="/about/careers/dors/index.htm">Information for Applicants</a></li>
+          <li class="first sub-item-1"><a href="/about/careers/erecruit/erecruit.htm">About eRecruit</a></li>
+          <li class="sub-item-2"><a href="/about/careers/erecruit/index.htm">Information for Applicants</a></li>
           <li class="sub-item-3"><a href="/about/careers/overview.htm">Graduate Employment</a></li>
           <li class="sub-item-4"><a href="/about/careers/work-experience.htm">Work Experience Program</a></li>
-          <li class="sub-item-5"><a href="/about/careers/ca.htm">Collective Agreement </a></li>
-	  <li class="sub-item-6 last"><a href="/about/careers/interpreter-careers.htm">Career opportunities - interpreters </a></li>
+          <li class="sub-item-5"><a href="/about/careers/ea.htm">Enterprise Agreement </a></li>
+	  <li class="sub-item-6 last"><a href="/about/careers/interpreter-careers.htm">Career Opportunities - Interpreters </a></li>
         </ul>
       </div>
     </li>
@@ -382,7 +384,6 @@
         <li><a href="http://www.immi.gov.au/e_visa/eta.htm">Electronic Travel Authority (ETA)</a></li>
         <li><a href="http://www.immi.gov.au/e_visa/check-progress.htm">Check progress of online application</a></li>
         <li><a href="http://www.immi.gov.au/e_visa/vevo.htm">Check Work or Visa Entitlements (VEVO)</a></li>
-        <li><a href="http://www.immi.gov.au/gateways/agents/index.htm">Agents Gateway</a></li>
       </ul>
       <div class="divider"></div>
       <ul>
@@ -397,14 +398,15 @@
   </div>
   <div class="box_content">
     <div class="form">
-      <select id="quick_links_menu" onchange="jumpPage('quick_links_menu');">
+      <select id="quick_links_menu" name="quick_links_menu" onchange="jumpPage2(cb_QuickLinks);">
+        <option value="http://www.immi.gov.au/gateways/agents/index.htm">Agents Gateway</option>
+        <option value="http://www.citizenship.gov.au/ceremonies/">Citizenship Ceremonies</option>
+        <option value="http://www.citizenship.gov.au/">Citizenship Eligibility</option>
+        <option value="http://www.citizenship.gov.au/learn/">Citizenship Resources</option>
         <option value="http://www.immi.gov.au/visawizard/">Find a Visa</option>
         <option value="http://www.immi.gov.au/allforms/" selected="selected">Immigration Forms</option>
-        <option value="http://www.immi.gov.au/allforms/990i.htm">Visa Fees</option>
-        <option value="http://www.citizenship.gov.au/">Citizenship Eligibility</option>
-        <option value="http://www.citizenship.gov.au/resources/ceremonies/">Citizenship Ceremonies</option>
-        <option value="http://www.citizenship.gov.au/resources/">Citizenship Resources</option>
-        <option value="http://www.immi.gov.au/living-in-australia/help-with-english/amep/index.htm">Learning English (AMEP)</option>
+        <option value="http://www.immi.gov.au/living-in-australia/help-with-english/amep/">Learning English (AMEP)</option>
+        <option value="http://www.immi.gov.au/allforms/990i/visa-charges.htm">Visa Fees</option>
       </select>
       <input type="button" value="Go" onclick="jumpPage('quick_links_menu');">
     </div>
