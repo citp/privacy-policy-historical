@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talenthunter.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230070802id_/http%3A//talenthunter.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talenthunter.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611133331id_/http%3A//talenthunter.com/privacy.php) for the most accurate reproduction.*
 
 # Talent Modeling Auditions Acting Casting Calls TalentHunter.com
 
@@ -40,17 +40,17 @@ Non-Personally Identifiable Information: This refers to information that does no
 
 (a) register for our services and register your e-mail address with us;   
 (b) enter sweepstakes or contests sponsored by us or one of our partners;   
-(c) sign up for special offers from selected third parties;   
+(c) sign up for special offers;   
 (d) send e-mail messages, submit forms or transmit other information by telephone or letter; or   
 (e) submit your credit card or other payment information when ordering and purchasing services on our site.
 
 We may also collect information from you at other points on our site that state that such information is being collected.
 
-In addition, we may also collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information. This information is ultimately stored in the form of stored categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site.
+In addition, we may also collect certain Non-Personally Identifiable Information. This information is ultimately stored in the form of stored categories, and, in some cases, specific URLs. We use your IP address to diagnose problems with our servers, software, to administer our site and to gather demographic information. Our third party ad servers will also provide us with summary, but not individual, reports that will tell us how many ads were presented and clicked upon at our site.
 
 We will primarily use your Personally Identifiable Information to provide our services to you, as required by our agreements with you. We will also use Personally Identifiable Information to enhance the operation of our site, improve our marketing and promotional efforts, statistically analyze site use, improve our service offerings, and customize our site's content, layout, and services. We may use Personally Identifiable Information to deliver information to you and to contact you regarding administrative notices. We may also use Personally Identifiable Information to resolve disputes, troubleshoot problems and enforce our agreements with you, including our Site Terms of Use and this Private Policy.
 
-**3\. With whom do we share your information?** We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our services through contractual arrangements with affiliates, partners and other third parties. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information to the card-issuing bank to confirm payment for services purchased on this site; and provide order information to third parties that help us provide customer service.
+**3\. With whom do we share your information?** We do not sell, trade, or rent your Personally Identifiable Information to others. We do provide some of our services through contractual arrangements with affiliates, partners and other third parties. We and our service partners use your Personally Identifiable Information to operate our sites and to deliver their services. For example, we must release your credit card information (through a secure connection) to the card-issuing bank to confirm payment for services purchased on this site; and provide order information to third parties that help us provide customer service.
 
 We will encourage our service partners to adopt and post privacy policies. However, the use of your Personally Identifiable Information by our service partners is governed by the privacy policies of those service partners, and is not subject to our control.
 
@@ -71,6 +71,8 @@ We encourage you to promptly update your Personally Identifiable Information if 
 
 **5\. What are your choices regarding collection, use, and distribution of your information?** We may, from time to time, send you an e-mail (or e-mails) regarding our products and services. In addition, if you indicated upon registration that you are interested in receiving offers or information from us and our partners, we may occasionally send you direct email about services that we feel may be of interest to you. Only Monarch Holding Group, Inc. or their partners will send you these direct emailings and only if you indicated that you do not object to these offers. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily edit your account information to no longer receive such offers and mailings.
 
+We may also transfer personal information to a successor to the Website in connection with a merger, consolidation, asset sale or other corporate change regarding the Website.
+
 You also have choices with respect to cookies, as described below. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. If you choose to reject all cookies some parts of our site may not work properly in your case.
 
 **6\. What security precautions are in place to protect against the loss, misuse, or alteration of your information?** At our site you can be assured that your Personally Identifiable Information is secure, consistent with current industry standards. The importance of security for all Personally Identifiable Information associated with our user is of utmost concern to us. Your Personally Identifiable Information is protected in several ways. Access by you to your Personally Identifiable Information is available through a password and unique customer ID selected by you. This password is encrypted. We recommend that you do not divulge your password to anyone. In addition, your Personally Identifiable Information resides on a secure server that only selected Monarch Holding Group, Inc. personnel and contractors have access to via password. We encrypt your Personally Identifiable Information and thereby prevent unauthorized parties from viewing such information when it is transmitted to us.
@@ -89,7 +91,7 @@ We may use an outside ad serving company to display banner advertisements on our
 
 **9\. What else should you know about your privacy online?** You must be at least 18 years old or have a parents or guardians permission by having a parent or guardian agree to our Terms Of Service to use this site. Our policy is that we do not knowingly collect, use or disclose Personally Identifiable Information about visitors that are under 18 years of age.
 
-You should also be aware that when Personally Identifiable Information is voluntarily disclosed (i.e. your name, e-mail address, etc.) on this site, that information, along with any information disclosed in your communication, can be collected and used by third parties and may result in unsolicited messages from third parties. Such activities are beyond our control and this Policy does not apply to such information. Any submissions to public areas on this site are accepted with the understanding that they are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you're online.
+Ultimately, you are solely responsible for maintaining the secrecy of your password and/or account information. Please be careful and responsible whenever you're online.
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us by sending a letter to:
 
