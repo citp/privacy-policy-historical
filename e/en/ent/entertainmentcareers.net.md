@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213025153id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentcareers.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212456id_/http%3A//www.entertainmentcareers.net/sbjobs/privacy.asp) for the most accurate reproduction.*
 
 # Entertainment Jobs and Internships - Entertainment Careers.Net
 
