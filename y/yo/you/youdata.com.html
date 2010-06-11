@@ -1,0 +1,233 @@
+<!--The following is the downloaded HTML source of the youdata.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611080403id_/http%3A//www.youdata.com/documentation/PrivacyPolicy.html) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
+<!-- HTTP 1.1 -->
+<meta http-equiv="Cache-Control" content="no-store">
+<!-- HTTP 1.0 -->
+<meta http-equiv="Pragma" content="no-cache">
+<!-- Prevents caching at the Proxy Server -->
+<meta http-equiv="Expires" content="0">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="icon" href="/../images/favicon.ico">
+<title>YouData - About YouData</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link href="../styles/yd.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+
+function getCookie(name) {
+      var prefix = name + "="
+      var start = document.cookie.indexOf(prefix)
+
+      if (start==-1) {
+          return null;
+      }
+
+      var end = document.cookie.indexOf(";", start+prefix.length)
+      if (end==-1) {
+          end=document.cookie.length;
+      }
+
+      var value=document.cookie.substring(start+prefix.length, end)
+      return unescape(value);
+  }
+
+ function saveUsername(theForm) {
+     var expires = new Date();
+     expires.setTime(expires.getTime() + 24 * 30 * 60 * 60 * 1000); //sets it for approx 30 days.
+
+  setCookie("username",theForm.j_username.value,expires,"http://www.youdata.com");
+ }
+
+ function setCookie(name,value,expires,path,domain,secure) {
+    document.cookie = name + "=" + escape (value) +
+      ((expires) ? "; expires=" + expires.toGMTString() : "") +
+      ((path) ? "; path=" + path : "") +
+      ((domain) ? "; domain=" + domain : "") + ((secure) ? "; secure": "");
+  }
+
+
+ // This function is used by the login screen to validate user/pass
+  // are entered.
+  function validateRequired(form) {
+      var bValid = true;
+      var focusField = null;
+      var i = 0;
+      var fields = new Array();
+      oRequired = new required();
+
+      for (x in oRequired) {
+          if ((form[oRequired[x][0]].type == 'text' || form[oRequired[x][0]].type == 'textarea' || form[oRequired[x][0]].type =='select-one' || form[oRequired[x][0]].type == 'radio' ||form[oRequired[x][0]].type == 'password') && form[oRequired[x][0]].value =='') {
+             if (i == 0)
+                focusField = form[oRequired[x][0]];
+
+             fields[i++] = oRequired[x][1];
+
+             bValid = false;
+          }
+      }
+
+      if (fields.length > 0) {
+         focusField.focus();
+      }
+      return bValid;
+  }
+
+ function validateForm(form) {
+     return validateRequired(form);
+ }
+
+ function required () {
+     this.aa = new Array("j_username", "Username is required", new Function ("varName", " return this[varName];"));
+     this.ab = new Array("j_password", "Passowrd is required", new Function ("varName", " return this[varName];"));
+ }
+
+ function checkParam() {
+         var error = getURLParam("error");
+      if(error && error==1) {
+          document.getElementById("loginError").style.display = "";
+      }
+      var accountCreated = getURLParam("accountCreated");
+      if(accountCreated) {
+          document.getElementById("accountCreatedDiv").style.display = "";
+          document.getElementById("j_username").value=accountCreated;
+          document.getElementById("j_password").focus();
+      }
+ }
+
+ function getURLParam(name) {
+      name = name.replace(/[\[]/,"\\\[").replace(/[\]]/,"\\\]");
+      var regexS = "[\\?&]"+name+"=([^&#]*)";
+      var regex = new RegExp( regexS );
+      var results = regex.exec( window.location.href );
+      if( results == null ) {
+          return "";
+      } else {
+             return results[1];
+         }
+  }
+
+  function getUsername() {
+      if (getCookie("username") != null) {
+          document.getElementById("j_username").value =
+          getCookie("username");
+          document.getElementById("j_password").focus();
+      } else {
+          document.getElementById("j_username").focus();
+         }
+  }
+
+
+</script>
+</head>
+<body>
+<div id="bodyContent">
+  <div id="contentAll">
+    <table id="headTABLE" width="1000" align="center" border="0" cellspacing="0" cellpadding="0">
+      <tbody><tr>
+        <td><a href="http://www.youdata.com"><img src="images/YouDataLogo.gif" alt="youdata" width="189" height="49" border="0"></a></td>
+        <td align="right"><img src="../images/attentionPaid2.gif" alt="Attention Paid. ™" width="189" height="49"></td>
+      </tr>
+    </tbody></table>
+    <table id="tabs-Table" width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+      <tbody><tr>
+        <td id="tabs-Table-TopRow"><img src="../images/menuBarBackground.gif"></td>
+      </tr>
+      <tr>
+        <td bgcolor="#DCCEB0" align="center" valign="bottom"><table id="head-Tabs" border="0" cellspacing="0">
+            <tbody><tr>
+              <td align="center" class="selected">Privacy Policy</td>
+              <!-- <td align="center" class="selected">Home</td> -->
+            </tr>
+        </tbody></table></td>
+      </tr>
+    </tbody></table>
+    <!-- Main Body Starts HERE -->
+    <br>
+    <table width="1000" border="0" cellspacing="0" cellpadding="5" align="center">
+      <tbody><tr>
+        <td width="180" valign="top"><div align="center"><strong>Privacy Policy</strong></div></td>
+        <td align="top">
+       	  <table border="0" cellpadding="0" cellspacing="0" width="100%">
+            <tbody><tr>
+              <td><img src="../images/paneUntitled_r1_c1.gif" width="13" height="11" border="0" class="paneTitled_r1_c1" alt=""></td>
+              <td class="paneTitled_r1_c2" width="100%"></td>
+              <td><img src="../images/paneUntitled_r1_c3.gif" width="13" height="11" border="0" class="paneTitled_r1_c3" alt=""></td>
+            </tr>
+            <tr>
+              <td class="paneTitled_r2_c1"></td>
+              <td class="paneTitled_r2_c2" width="100%"><!-- Pane Contents -->
+                <p>This policy is effective as of August 15, 2008.</p>
+
+						<p class="p1"><b>YouData’s Privacy Policy</b></p>
+						<p class="p1">YouData’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using our MeFile<span class="s1"><sup>TM</sup></span> service, located at www.youdata.com, www.mefile.com and their directly associated domains (collectively, “YouData” or the “Site”).</p>
+						<p class="p1">By using or accessing the Site, you are accepting the practices described in this Privacy Policy.<span class="Apple-converted-space">&nbsp; </span>If you have questions or concerns regarding this statement, you should contact our privacy staff at privacy@youdata.com.<span class="Apple-converted-space">&nbsp;</span></p>
+						<p class="p1"><b>The Information We Collect and How We Use It</b></p>
+						<p class="p1">When you register with our Site, you are required to provide us with certain personal information, such as your email address, your cell phone number, your birthday and your gender.<span class="Apple-converted-space">&nbsp; </span>This information is used to manage the access to sensitive user-specific information such as your account balance and your MeFile. In your Mefile, you may choose to provide additional user-specific information such as interests, household income, education and other information that better allows our advertising partners to qualify you for their targeted Attention Paid<span class="s1"><sup>TM</sup></span> advertising campaigns. But we don’t tell the advertisers any information that will personally identify who you are.<span class="Apple-converted-space">&nbsp; </span>In the event YouData requires additional personal information from you in order for us or our advertisers to comply with applicable law (including without limitation, applicable IRS reporting requirements), we will request such information from you, and we may condition your continued use of the Site or the MeFile service and payment of all awards reflected in your MeFile account on your provision of such requested information in a timely manner.<span class="Apple-converted-space">&nbsp;</span></p>
+						<p class="p1">We use your IP Address to help diagnose problems with our server, and to administer our Site.<span class="Apple-converted-space">&nbsp; </span>We may also use your IP Address or other information about your use of the Site or analyze your online behavior through tracking software or other means in order to confirm your compliance with our User Terms of Service. <span class="Apple-converted-space">&nbsp;</span></p>
+						<p class="p1">When you view our Site we might store some information on your computer. This information will be in the form of a "cookie" or similar file. Cookies are small pieces of information stored on your hard drive, not on our site. Cookies do not spy on you or otherwise invade your privacy, and they cannot invade your hard drive and steal information. Rather, they help you navigate a web site as easily as possible. We use cookies to prevent you from reentering all your login information at each connection.<span class="Apple-converted-space">&nbsp; </span>Please note that this privacy policy covers the use of cookies by YouData and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>
+						<p class="p1">By using the MeFile<span class="s1"><sup>TM</sup></span> service, you are consenting to have your personal data transferred to and processed in the United States.</p>
+						<p class="p1"><b>Children Under Age 13</b></p>
+						<p class="p1">YouData does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for the MeFile Service or send any information about yourself to us. No one under age 13 may provide any personal information to or on YouData. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at info@youdata.com.</p>
+						<p class="p1"><b>Children From Ages 13 to 17</b></p>
+						<p class="p1">We recommend that minors from ages 13 to 17 ask their parents for permission before sending any information about themselves to anyone over the Internet, including through the MeFile service.</p>
+						<p class="p1"><b>Sharing Your Information with Third Parties</b></p>
+						<p class="p1">As described above, as part of the MeFile service, we provide your information to our third party advertisers without providing any identifying individual information about you. <span class="Apple-converted-space">&nbsp;</span></p>
+						<p class="p1">We may also use third parties to facilitate our business, such as to host the Site at a co-location facility for servers, to send out email updates about YouData, to remove repetitive information from our user lists, and to process Attention Paid advertising award payments by our advertisers.<span class="Apple-converted-space">&nbsp; </span>In connection with these business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the YouData-specified purposes.</p>
+						<p class="p1">We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the YouData service or using the YouData name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies.</p>
+						<p class="p1">If the ownership of all or substantially all of the YouData business, or individual business units owned by YouData, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.</p>
+						<p class="p1"><b>Links</b></p>
+						<p class="p1">YouData may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our Site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected through the MeFile service.</p>
+						<p class="p1"><b>Third Party Advertising</b></p>
+						<p class="p1">Advertisements that appear on YouData are sometimes delivered (or “served”) directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and “web beacons” (also known as “1x1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. YouData does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on YouData unless you choose to share it with them.</p>
+						<p class="p1"><b>Changing or Removing Information</b></p>
+						<p class="p1">Access and control over most personal information on YouData is readily available through your user account. YouData users may modify or delete any of their user account information at any time by logging into their account.<span class="Apple-converted-space">&nbsp; </span>However, we may retain copies of your account information in order to fulfill our obligations to our advertisers, comply with legal requirements (including without limitation, IRS requirements for both us and our advertisers) and the like.<span class="Apple-converted-space">&nbsp; </span>Information will be updated immediately. Individuals who wish to deactivate their MeFile account may do so on the <span class="s2">MeFile Account</span> page.<span class="Apple-converted-space">&nbsp;</span></p>
+						<p class="p1"><b>Security</b></p>
+						<p class="p1">YouData takes appropriate precautions to protect our users’ information. Our Site has industry standard security measures in place to protect the loss, misuse and alteration of the information under our control. While there is no such thing as "perfect security" on the Internet, we will take all reasonable steps to insure the safety of your personal information.<span class="Apple-converted-space">&nbsp; </span>If you have any questions about the security of our Site, please contact us at privacy@youdata.com.</p>
+						<p class="p1"><b>Terms of Service, Notices and Revisions</b></p>
+						<p class="p1">Your use of YouData, and any disputes arising from it, is subject to this Privacy Policy as well as our Terms of Service and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Service at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this Site. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current Privacy Policy. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account.</p>
+						<p class="p1"><b>Contacting the Site</b></p>
+						<p class="p1">If you have any questions about this Privacy Policy, please contact us at <a href="mailto:privacy@youdata.com">privacy@youdata.com</a>.</p>
+			  <p></p></td>
+              <td class="paneTitled_r2_c3"></td>
+            </tr>
+            <tr>
+              <td><img name="paneTitled_r3_c1" src="../images/paneTitled_r3_c1.gif" width="13" height="12" border="0" class="paneTitled_r3_c1" alt=""></td>
+              <td class="paneTitled_r3_c2" width="100%"></td>
+              <td><img name="paneTitled_r3_c3" src="../images/paneTitled_r3_c3.gif" width="13" height="12" border="0" class="paneTitled_r3_c3" alt=""></td>
+            </tr>
+          </tbody></table>
+          
+          
+          </td>
+      </tr>
+      
+    </tbody></table>
+    
+    
+    
+    <table width="1000" align="center" border="0" cellpadding="8" cellspacing="0">
+      <tbody><tr bgcolor="#cab68f">
+        <td><table width="100%">
+            <tbody><tr>
+              <td><div align="center" class="footerText"><strong>©2007-2010 YouData, Inc. All rights reserved.</strong><br>
+                  YouData™, Attention Paid ®, MeFile™ and related trademarks, names, and logos are property of YouData,Inc. and are registered and/or used in the U.S and countries around the world.</div></td>
+            </tr>
+          </tbody></table></td>
+      </tr>
+    </tbody></table>
+  </div>
+</div>
+<map name="FrontPageVideoHolder_r2_c1Map" id="FrontPageVideoHolder_r2_c1Map">
+  <area shape="rect" coords="255,0,400,13" href="YouData/signup/csignup.html">
+</map>
+
+<style type="text/css">
+@import url('http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.css');
+</style>
+<script src="http://s3.amazonaws.com/getsatisfaction.com/feedback/feedback.js" type="text/javascript"></script>
+<script type="text/javascript" charset="utf-8">
+GSFN.feedback('http://getsatisfaction.com/youdata/feedback');
+</script>
+
+</body></html>
