@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2009-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091127050331id_/http%3A//www.proxite.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the proxite.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203659id_/http%3A//proxite.net/privacy.php) for the most accurate reproduction.*
 
 # proxite.net :: anonymous, uncensored free web browsing. Bypass network access to youtube and facebook.
 
