@@ -1,27 +1,34 @@
-> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422154344id_/http%3A//www.unexplainable.net/siteinfo/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unexplainable.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611224213id_/http%3A//www.unexplainable.net/privacy.shtml) for the most accurate reproduction.*
 
-# Unexplainable.Net's Privacy Policy
+# Unexplainable.Net Privacy Policy
 
-**Unexplainable.Net's Privacy Policy**
+**Unexplainable.Net Privacy Policy**
 
-Unexplainable.Net's main purpose is to circulate interesting articles and news.  We offer a different perspective on life, and work hard to keep you informed about unexplainable topics.
+Unexplainable.Net respects it's users privacy and will never do anything to burden it's readers. We use cookies on advertisements, run a mailing list, and have access to the usual web server stats. But this information is never shared, given away, or sold. 
 
-**Privacy** -  Unexplainable.Net respects it's users privacy and will never do anything to burden it's readers.  We use standard web scripting to run our news articles that does not require any personal information to be given. We do not track personal navigation, nor do we collect personal data. We do however offer our readers a mailing list which is 100% voluntary.  Any information given during signing up to our mailing list is 100% safe, as we use the internets most trusted mailing list service. We do not give out, or sell any personal information to any third party.
+We collect the domain name and IP address (where possible) of visitors to our Web page, the e-mail addresses of those who communicate with us via e-mail, or who subscribe to our newsletter, and aggregate information on what pages consumers access or visit. The information we collect is used to improve the content of our Web pages and make your experience better.
 
 **Sponsors and Advertisers**
 
-Unexplainable.net serves ads by Google and operates the Unexplainable Store. The Unexplainable store privacy policy can be found [here](http://www.store.unexplainable.net/privacy.php).
+Unexplainable.net serves ads by Google and operates the Unexplainable Store.
 
 **Google Ads**
 
-  * Google, as a third party vendor, uses cookies to serve ads on Unexplainable.Net.
-  * Google's use of the DART cookie enables it to serve ads to the user based on their visit to Unexplainable.Net and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+* Google, as a third party vendor, uses cookies to serve ads on Unexplainable.Net.  
+* Google's use of the DART cookie enables it to serve ads to the user based on their visit to Unexplainable.Net and other sites on the Internet.  
+* Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
 
+**The Unexplainable Store**
 
+* The Unexplainable Store uses cookies to track affiliate sales.  
+* The Unexplainable Store Runs a mailing list and complies with all laws. it is ran through [aweber.com](http://www.aweber.com/).   
+* Users can [disable cookies](http://support.mozilla.com/sr-CYRL/kb/Enabling+and+disabling+cookies) if they desire, but many useful features will be lost.  
+* We use traffic analytic services to track traffic patterns.  
+* Locations, IP Addresses, and ISP information of visitors are logged.
 
-**How We Use Your Information** \- If you choose to subscribe to our mailing list, we use your email address to send you important updates, additions, gifts, information, offers, etc. That is full extent of any and all information we collect.
+You don't need to worry about privacy issues here. All out scripting and servers are of the average nature and there is no devious intent. We want to offer you the best experience possible, so we use available information to mold the website content. Every newsletter email we send contains an "Unsubscribe Link". 
 
-**How Users Can Opt Out** \- Every email we send contains an "Unsubscribe Link". By simply clicking that link within the email body, your information will be deleted from our list. 
-
-**Privacy Guarantee** \- We understand internet privacy is very important and we offer a 100% guarantee that we will respect your personal information.
+  
+Our postal address is  
+**178 Glade Dr.  
+Long Pond, Pa, 18334**
