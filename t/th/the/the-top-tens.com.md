@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231145028id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-top-tens.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611192146id_/http%3A//www.the-top-tens.com/privacy.asp) for the most accurate reproduction.*
 
 # TheTopTens - Privacy Policy
 
@@ -20,7 +20,7 @@ We use third-party advertising companies to serve ads when you visit our Web sit
 
 We will only share collected information with third parties when we are legally required to do so. Information will never be provided to third parties for marketing purposes. 
 
-**Newest Lists**
+**Featured Lists**
 
 **Most Popular**
 
