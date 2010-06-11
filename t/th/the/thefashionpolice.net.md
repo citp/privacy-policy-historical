@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926151031id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefashionpolice.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611221518id_/http%3A//www.thefashionpolice.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy « The Fashion Police: Ugly shoes, pants, bags and prom dresses
+# Privacy Policy » By The Fashion Police
 
 At TheFashionPolice.net we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use visit our site, and how we safeguard your information.  We never sell your personal information to third parties.
 
