@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417025206id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rv.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211040id_/http%3A//www.rv.net/privacy.cfm) for the most accurate reproduction.*
 
 # RV.Net : Privacy Policy
 
@@ -12,7 +12,7 @@ Affinity Group, Inc.
 PO Box 6888  
 Englewood, CO 80155-6888
 
-## Privacy Policy Contents
+    **Privacy Policy Contents**
 
 ### Types of information we collect and how we collect it.
 
@@ -39,6 +39,8 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 ### How We Use the Personally Identifiable Information that We Collect 
 
 When you supply us with personally identifiable information, the information you provide is added to our customer file. We use personally identifiable information in a limited number of ways. We use the information to complete transactions. For instance, we use your information to process your order, or if you contact us for help we will use the information to contact you. We use information collected to notify you if you've won a game or contest. Information we collect is also used to send you: e-mail updates related to clubs, products and services, discounts, upcoming events and newsletters about our sites; RV or other e-mail promotions and special offers from our third-party sponsors; periodic mailings or telephone contact related to clubs, products and services, discounts, upcoming events, newsletters about our sites; periodic mailings related to RV or other promotions and special offers from our third-party sponsors. 
+
+In addition, by joining Good Sam Club and/or other Affinity-sponsored membership clubs, you agree and acknowledge that we may recognize your membership among our affiliated companies and on our web sites. For example, if you are a member of Good Sam Club and have also joined the RV.Net forum, we will indicate that you are a Good Sam Club member by displaying a "Good Sam" icon by your user name whenever you post content to an RV.Net forum. If you would like to remove the Good Sam Club icon in relation to your forum posts, you may do so in your forum account in the "My Profile" section.
 
 ### Who We Share Your Information With 
 
@@ -100,6 +102,6 @@ This Privacy Policy shall not apply to any unsolicited information you provide u
 
 ### Policy Changes
 
-Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of December 10, 2008 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
+Please note: Due to the rapidly changing nature of the Internet, we may change this Privacy Policy from time to time based on your comments and our need to accurately reflect our data collection and disclosure practices. This Privacy Policy is effective as of October 06, 2009 and has not been revised in any material respect since such effective date. All changes to this Privacy Policy are effective immediately. In the event of any material changes to this Privacy Policy, we will notify users of our site of the change by providing an "updated as of" date on the "Privacy Policy" link on our website, which "updated as of" date will remain in the "Privacy Policy" link for a period of at least 30 days after the effectiveness of the changes.
 
-Copyright 2009 Affinity Group, Inc. All Rights Reserved.
+Copyright 2010 Affinity Group, Inc. All Rights Reserved.
