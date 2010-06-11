@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217050917id_/http%3A//joox.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joox.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211310id_/http%3A//joox.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - joox.net
 
@@ -10,5 +10,4 @@ Some non-personal information is however collected in order to show targeted ads
 
 **We do not send spam. The divx player is spyware free. Enjoy your stay!**
 
-[joox.net privacy policy](http://joox.net/privacy-policy) | [Free flash games!](http://www.flashzonegames.com/) | [Free homepage!](http://www.homepagegate.com/) | [Free forum!](http://www.forumbag.com/)   
-Cached: 2008-12-17 06:09:17
+[joox.net privacy policy](http://joox.net/privacy-policy)
