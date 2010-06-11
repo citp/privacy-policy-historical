@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211193716id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pilotgroup.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211652id_/http%3A//www.pilotgroup.net/about/privacy.php) for the most accurate reproduction.*
 
 # Pilot Group - Privacy and Security
 
@@ -85,4 +85,4 @@ We reserve the right to modify this privacy statement at any time, so please rev
 
 **Contact Us**
 
-Should you have some questions or concerns regarding this privacy statement or the practices of this site, contact Pilot Group Support or Sales Team by [online contact form](http://www.pilotgroup.net/support/), via Live Chat at any of our site or via phone number 1-888-228-8440 (toll free line). 
+Should you have some questions or concerns regarding this privacy statement or the practices of this site, contact Pilot Group Support or Sales Team by [online contact form](http://www.pilotgroup.net/support/), via Live Chat at any of our site or via phone number 1-866-620-1919 (toll free line). 
