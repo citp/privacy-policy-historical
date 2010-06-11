@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vovici.net privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119004626id_/http%3A//vovici.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vovici.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612013402id_/http%3A//vovici.net/privacy.aspx%3Fcta%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Vovici
 
@@ -17,16 +17,23 @@ Vovici Corporation
 Ste 250  
 Dulles, Virginia 20166 USA
 
+| 
+
 **Phone Numbers:**  
 1.800.941.0904  
 +1.703.481.9326
 
 **Email Address:**  
-[privacy@vovici.com ](mailto:privacy@vovici.com "privacy@vovici.com ")
-
+[privacy@vovici.com ](mailto:privacy@vovici.com "privacy@vovici.com ")  
+  
+---|---  
+  
 We **do not sell, share, or distribute any information** you provide during the registration process or in discussions with our survey advisors. Additionally, we use a double opt-in registration process to further assure the security of your contact information. Any attempt to circumvent or abuse our system through multiple registrations, entering someone else's contact information or falsifying any data will result in immediate deletion of any and all records and accounts for that user.
 
 In the event that your inquiry goes unaddressed within a reasonable time expectation, or hasn't been addressed to your satisfaction, please contact [TRUSTe](http://watchdog.truste.com/pvr.php?page=complaint&url= "TRUSTe") who shall then work as a liaison in assisting us to resolve your concerns.
+
+**Safe Harbor  
+**We self-certify compliance with <https://www.export.gov/safehrbr/list.aspx>.
 
 **Newsletters  
 **When you provide your email address to receive our newsletter or indicate on your registration form that you would like to receive our newsletter, we will use your email address to send our newsletter. You may opt-out of receiving our newsletter at any time by following the unsubscribe instructions provided with it, updating your user profile, or by contacting the Vovici Webmaster via email at [privacy@vovici.com](mailto:privacy@vovici.com "privacy@vovici.com"). We will process your request as soon as possible.
