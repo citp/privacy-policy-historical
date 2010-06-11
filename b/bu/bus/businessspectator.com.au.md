@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229064940id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessspectator.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612002003id_/http%3A//www.businessspectator.com.au/bs.nsf/pages/Privacy_Policy%3FOpenDocument) for the most accurate reproduction.*
 
-# Business Spectator - Privacy Policy
+# Privacy Policy | Australian Business News, Commentary and Analysis | Business Spectator
 
 > **Privacy Policy**
 > 
@@ -46,12 +46,12 @@
 > 
 > We will comply with our obligations under the _Spam Act 2003_ (Cth), and may contact you at the email or other address which you provide to us in order to:
 > 
->   * provide you with news alerts and other information which you sign up to receive from us, or
+>   * provide you with news alerts and other information which you sign up to receive from us. Where you have signed up for an editorial email with a regular publishing schedule, such as the KGB Dossier or 'morning alert', we reserve the right to send you multiple editions in a day in the event of 'major or special breaking business news'. Examples of 'major or special breaking news' events include, but are not limited to, the collapse of a major currency or a nation financially defaulting, special editions about the Australian Federal Budget or Australian Federal Election, the merger or acquisition activity of two or more ASX20 companies, etc.; or
 >   * provide you with updated information about our website; or
 >   * provide you with other information about our products and services which you may enjoy.
 > 
   
->  We will not send you 'spam' (promotional information) without first asking you whether you wish to have promotional information sent to you. If you wish to stop receiving alert e-mails from us, you can unsubscribe by clicking the "Manage News Alerts" button and unsubscribing from alert emails, or by contacting us at info@BusinessSpectator.com.au. If you contact us via email, we will remove you from the alert email subscription as soon as practicable.
+>  We will not send you 'spam' (promotional information) without first asking you whether you wish to have promotional information sent to you. If you wish to stop receiving alert e-mails from us, you can unsubscribe by clicking the "Manage News Alerts" button and suspending or unsubscribing from alert emails, or by contacting us at info@BusinessSpectator.com.au. If you contact us via email, we will remove you from the alert email subscription as soon as practicable.
 > 
 > **You can access the information we keep about you**
 > 
