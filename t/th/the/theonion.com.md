@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222005556id_/http%3A//www.theonion.com/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theonion.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611155305id_/http%3A//www.theonion.com/privacy) for the most accurate reproduction.*
 
-# privacy | The Onion - America's Finest News Source
-
-## Privacy Policy
+# Privacy Policy | The Onion - America's Finest News Source
 
 Onion, Inc., producer of _The Onion_ and its related content and service sites, believes that electronic privacy is crucial for the ongoing success of the Internet as a service, commercial, and entertainment medium. We know you're concerned about protecting your privacy online. At _The Onion_ , we treat your personal information (especially payment information) with the highest standards of safety, security, and confidentiality.
 
@@ -58,6 +56,6 @@ _The Onion_ never shares, sells, or rents any personal information without your 
 
 **_The Onion_** uses invented names in all its stories, except in cases when public figures are being satirized. Any other use of real names is accidental and coincidental.
 
-The content of this web-site—graphics, text and other elements—is © Copyright 2009 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
+The content of this web-site—graphics, text and other elements—is © Copyright 2010 by Onion, Inc., and may not be reprinted or retransmitted in whole or in part without the expressed written consent of the publisher.
 
 **_The Onion_** is not intended for readers under 18 years of age.
