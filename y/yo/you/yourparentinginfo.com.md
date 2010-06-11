@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourparentinginfo.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630023752id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourparentinginfo.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611034823id_/http%3A//wasabiventures.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Wasabi Ventures, LLC. Privacy Policy
 
