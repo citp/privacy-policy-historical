@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2009-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090416015150id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apartmentreviews.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210520id_/http%3A//www.apartmentreviews.net/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for ApartmentReviews.net
 
