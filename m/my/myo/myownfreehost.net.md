@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myownfreehost.net privacy policy that was archived on 2009-09-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090920225258id_/http%3A//myownfreehost.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myownfreehost.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211010id_/http%3A//myownfreehost.net/privacy.php) for the most accurate reproduction.*
 
 # Your own free web host! : Privacy Policy
 
