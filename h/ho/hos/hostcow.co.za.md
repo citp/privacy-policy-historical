@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202111013id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostcow.co.za privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611114123id_/http%3A//www.hostcow.co.za/privacy-policy.php) for the most accurate reproduction.*
 
-# WEB HOSTING? | Hosting | South Africa | Host a Website | Personal & Business Webhosting Websites with FREE co za Domain Name Registration. AFRICA HOSTING?
+# PRIVACY POLICY? HostCow
 
   | 
+
+### **If you have questions please feel free to contact us on 0861 HOSTING or chat to one of our agents online.**
 
 Your privacy is very important to HostCow ("HostCow"). We want to make your experience using our services and on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools and opportunities with complete confidence.
 
@@ -47,7 +49,10 @@ We have created this Privacy Policy to demonstrate our firm commitment to privac
   13. **Revisions to This Policy.** HostCow reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner. Notice of any revision, amendment, or modification will be posted in accordance with the Terms of Service.
   
 
-Revised:  April 2009  |    
----|---|---  
-  
-**© Copyright 2009 HostCow** | Web Hosting South Africa | Web Hosting Provider. All rights reserved.     [Terms of Service](https://www.hostcow.co.za/terms-of-service.php "Terms of Services") | [Privacy Policy](https://www.hostcow.co.za/privacy-policy.php)
+
+
+Revised: 
+
+February 2010 
+
+| 
