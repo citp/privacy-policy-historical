@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621154647id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tampagov.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611213315id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/privacy_policy.asp) for the most accurate reproduction.*
 
 # TAMPA FLORIDA USA municipal government-Privacy Policy
 
-Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20090621154647id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/security_policy.asp).) 
+Thank you for visiting the City of Tampa web site and reviewing our privacy policy.  Our privacy policy is clear: We will collect no personal information about you when you visit our web site unless you choose to provide that information to us.  (Please also review [our security policy](https://web.archive.org/web/20100611213315id_/http%3A//www.tampagov.net/about_us/tampagov/Internet_policies/security_policy.asp).) 
 
 ## Email
 
-E-mail addresses are public records under Florida Law and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request do not send electronic mail to this entity. Instead, [contact this office](https://web.archive.org/contact_us/index.asp) by telephone or in writing, via the United States Postal Service.
+E-mail addresses are public records pursuant to Section 668.6076, Florida Statutes, and are not exempt from public-records requirements. If you do not want your e-mail address to be subject to being released pursuant to a public-records request do not send electronic mail to this entity. Instead, [contact this office](https://web.archive.org/contact_us/index.asp) by telephone or in writing, via the United States Postal Service.
 
 ## Information Collected and Stored Automatically
 
