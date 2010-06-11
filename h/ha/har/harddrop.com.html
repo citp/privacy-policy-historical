@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the harddrop.com privacy policy that was archived on 2009-12-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091230093046id_/http%3A//harddrop.com/pp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the harddrop.com privacy policy that was archived on 2010-06-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100611034125id_/http%3A//harddrop.com/pp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html dir="ltr" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head>
-	<title>Privacy Policy » Hard Drop - Tetris Community</title>
+	<title>Privacy Policy » Hard Drop - Tetris Community &amp; Forum</title>
 	<base id="base" href="http://harddrop.com/">
-	<meta name="keywords" content="tetris, tetris friends, tetrisfriends.com, tetris clans, tetris teams, tetris forums, tetris community, tetris wiki, games, hard drop, leaderboard, scores, tetris forums, forums, tetris records, records, tetris highscores, highscores, jin8, tgm, tetris the grandmaster, tgm2, tgm3, tgm4, hangame tetris, toj, tetris online japan, tetris videos, tetris lessons, tetris tutorial, tutorials, arcade tetris, joystick tetris, gamepad tetris, online tetris, multiplayer tetris, blink, samaf, hebo-mai, tetris strategy, multiplayer strategy tetris, tetris live, tetris beta, tetris.com, message board, tetrinet, tetrinet2, cultris, lockjaw, tetron, blockbox, blokkendoos, TF, n-blox, blockstar, puzzle games, java tetris, mac tetris, play tetris, play tetris free, play tetris online, tetris online, tetrisconcept, puzzle, discussion, tetris online free, tetris party, tetris ds, tds, quadra, facebook tetris, best player">
-	<meta name="description" content="Hard Drop is a Tetris community for all Tetris players, regardless of skill or what version of Tetris you play.  Forums, Wiki, Videos, Records, Strategies and more.">
+	<meta name="keywords" content="tetris, friends, teams, forum, community, wiki, games, hard drop, strategy, records, score, tgm, toj, multiplayer, videos">
+	<meta name="description" content="Hard Drop is a Tetris community for all Tetris players, regardless of skill or what version of Tetris you play.  Forum, Wiki, Videos, Records, Strategies and more.">
 	<meta name="robots" content="index,follow">
 	<meta http-equiv="imagetoolbar" content="no">
 	<meta http-equiv="cache-control" content="no-cache">
@@ -35,10 +35,72 @@
 		msg[7] = 'Use your browser facility to add a bookmark to this site.';
 		msg[8] = 'Please, select item(s)';
 	</script>
-	<script type="text/javascript" src="design/js/overlib.js?v=1620"></script>
+	
+
+<script type="text/javascript" src="design/js/overlib.js?v=1620"></script>
+
 	<script type="text/javascript" src="design/js/main.js?v=1620"></script>
 	<script type="text/javascript" src="design/js/common.js?v=1620"></script>
 	<script type="text/javascript" src="design/js/validator.js?v=1620"></script>
+	<script type="text/javascript">
+
+function getContentS(page, params, elementid)
+{
+//params has to have following format
+//i.e.: c=1&id=3....
+//page is the server side script. include full path
+//i.e. ../scripts/myscript.php
+
+//Clear our fetching variable
+	var xmlhttp=false;
+//Try to create active x object
+	try {xmlhttp = new ActiveXObject('Msxml2.XMLHTTP');}
+		catch (e) 
+		{
+	    try {xmlhttp = new ActiveXObject('Microsoft.XMLHTTP');} 
+	    	catch (E) 
+	    	{
+	        	xmlhttp = false;
+	    	}
+		}
+	if (!xmlhttp && typeof XMLHttpRequest!='undefined') 
+	{
+		xmlhttp = new XMLHttpRequest();
+ 	}
+
+	//This is the path to the PHP file on the server
+	var file = page+params;
+
+	//Open the file through GET, and add the page we want to retrieve as a GET variable
+	xmlhttp.open('GET', file, true);    
+	xmlhttp.onreadystatechange=function() 
+	{
+		if(xmlhttp.readyState==1)
+			if(document.getElementById(elementid))
+				document.getElementById(elementid).innerHTML = document.getElementById(elementid).innerHTML;
+	    if(xmlhttp.readyState==4) 
+		{ 
+   			//Make sure there is something in the content variable
+   			var content = xmlhttp.responseText;
+
+      		//The content data which has been retrieved
+			if( content )
+			{   
+				//Change the inner content of your div to the newly retrieved content
+				if(elementid != "undifined" && document.getElementById(elementid).innerHTML != content)
+				    document.getElementById(elementid).innerHTML = content;   
+			}
+		}
+	}
+	//Nullify the XMLHttpRequest
+	xmlhttp.send(null)
+	return;
+}
+
+
+</script>
+<link href="plugins/mystatusmoods/styles.css" rel="stylesheet" type="text/css">
+
 
 <link rel="stylesheet" type="text/css" href="design/js/tooltip/style.css">
 <script type="text/javascript" language="javascript" src="design/js/tooltip/domLib.js"></script>
@@ -87,7 +149,7 @@ function hideMenux(id)
  	<td> 		
  		<table style="width:100%;" cellpadding="0" cellspacing="0">
  		<tbody><tr>
-		<td style="width:45%;font-size:14pt;vertical-align:bottom;text-align:center;">
+		<td style="width:50%;font-size:14pt;vertical-align:bottom;text-align:center;">
 		 <table style="margin-left:auto;margin-right:auto;" cellpadding="0" cellspacing="0">
  <tbody><tr>
  	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/';" onmouseover="this.className='dmenu2';showMenux('memmenux1');" onmouseout="this.className='dmenu';;hideMenux()">
@@ -99,8 +161,11 @@ function hideMenux(id)
  	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/forums/';" onmouseover="this.className='dmenu2';showMenux('memmenux3');" onmouseout="this.className='dmenu';hideMenux()">
 		<a href="http://harddrop.com/forums/">FORUMS</a>
  	</td>
- 	<td class="dmenu" onclick="javascript:window.open('http://harddrop.com/wiki/');" onmouseover="this.className='dmenu2';showMenux('memmenux4');" onmouseout="this.className='dmenu';hideMenux()">
-		WIKI
+	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/ladder/';" onmouseover="this.className='dmenu2';showMenux('memmenux7');" onmouseout="this.className='dmenu';hideMenux()">
+		<a href="http://harddrop.com/ladder/">LADDER</a>
+ 	</td>
+ 	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/wiki/';" onmouseover="this.className='dmenu2';showMenux('memmenux4');" onmouseout="this.className='dmenu';hideMenux()">
+		<a href="http://harddrop.com/wiki/">WIKI</a>
  	</td>
  	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/videos/';" onmouseover="this.className='dmenu2';showMenux('memmenux5');" onmouseout="this.className='dmenu';hideMenux()">
 		<a href="http://harddrop.com/videos/">VIDEOS</a>
@@ -108,6 +173,7 @@ function hideMenux(id)
  	<td class="dmenu" onclick="javascript:window.location.href='http://harddrop.com/records/';" onmouseover="this.className='dmenu2';showMenux('memmenux6');" onmouseout="this.className='dmenu';hideMenux()">
 		<a href="http://harddrop.com/records/">RECORDS</a>
  	</td>
+
 
      </tr>
  </tbody></table>
@@ -120,7 +186,7 @@ function hideMenux(id)
 </tbody></table>
  			</td>
  			<td style="width:45%;vertical-align:bottom;text-align:right;" class="top2">
-						<center><b>1298 members and stacking!</b></center>
+						<center><b>1796 members and stacking!</b></center>
 			<center>Welcome guest, please <a href="http://harddrop.com/login/"><u>login</u></a> or <a href="http://harddrop.com/signup/"><u>sign up</u></a></center>
 
 			 			</td>
@@ -133,7 +199,7 @@ function hideMenux(id)
 		<td style="font-size:8pt;width:95%;" class="color">
 					<div id="memmenux1" style="display:none;">
 				<img src="file/style/vinamese/a1.gif" alt="" style="vertical-align:middle;">
-				<span style="vertical-align:middle;">Recent news, latest videos, who's online, new forum topics and more.</span>
+				<span style="vertical-align:middle;">Recent news, latest videos, who's online, live shoutbox and more.</span>
 			</div>
 					<div id="memmenux2" style="display:none;">
 				<img src="file/style/vinamese/a1.gif" alt="" style="vertical-align:middle;">
@@ -157,7 +223,7 @@ function hideMenux(id)
 			</div>
 					<div id="memmenux7" style="display:none;">
 				<img src="file/style/vinamese/a1.gif" alt="" style="vertical-align:middle;">
-				<span style="vertical-align:middle;">Create a free account and get access privileges for the entire site.</span>
+				<span style="vertical-align:middle;">Test your skills and climb the ladder by competing against other members.</span>
 			</div>
 
 		</td>
@@ -179,7 +245,7 @@ function hideMenux(id)
 		<td style="vertical-align:top;" id="main">
 <table style="width:100%;" cellpadding="8" cellspacing="4">
 <tbody><tr>
-    <td style="width:70%;vertical-align:top;font-size:9pt;">
+    <td style="width:100%;vertical-align:top;font-size:9pt;">
         <table style="width: 100%;" class="mainmenu5" cellpadding="0" cellspacing="0" border="0">
         <tbody><tr>
 <td width="7"><img src="design/pic/spacer.gif" class="sqr1" alt="" height="7" width="7"></td>
@@ -187,12 +253,13 @@ function hideMenux(id)
         </tr>
         </tbody></table>
 		        <div style="padding:15px;"><font size="2">
-					We, ("Hard Drop"), understand that your privacy information 
+					Hard Drop, (hereinafter referred to as "HD") understands that your privacy information 
 					is very important to you. We also understand that you may 
-					not want people on the internet to have the information 
-					you share on ("the Site") which is accessible at harddrop.com. This is why it is our commitment 
+					not want your private information 
+					shared on <a href="http://www.harddrop.com">www.harddrop.com</a>, 
+					(hereinafter referred to as "HD Website"). This is why it is our commitment 
 					to give you control over what information you want to share 
-					with others through the Site.<p><font face="arial,helvetica,sans-serif" size="2">
+					with others through the HD Website.<p><font face="arial,helvetica,sans-serif" size="2">
 					<span style="-moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; background: 0% 50%">
 					This Privacy Policy is effective as of June 26, 2009</span></font></p>
 					<div id="book">
@@ -205,54 +272,77 @@ function hideMenux(id)
 											you understand how we collect and 
 											use the personal information you 
 											decide to share, and help you make 
-											wise decisions when using 
-											the Site. By using or accessing 
-											the Site, you are accepting the 
+											wise decisions when accessing 
+											the HD Website. By using or accessing 
+											the HD Website, you are accepting the 
 											practices that are outlined in our 
-											privacy policy.<p><b>1. Information we 
+											privacy policy.<p><b>The HD Website 
+											Privacy Policy includes:</b></p>
+											<p><font face="Times New Roman">• 
+											Information we collect</font></p>
+											<p><font face="Times New Roman">• 
+											Cookies and sessions</font></p>
+											<p><font face="Times New Roman">• 
+											User management and updating 
+											information</font></p>
+											<p><font face="Times New Roman">• 
+											Use of your information</font></p>
+											<p><font face="Times New Roman">• 
+											Selling information to Third Parties</font></p>
+											<p><font face="Times New Roman">• 
+											Changes to this policy</font></p>
+											<p>&nbsp;</p>
+											<p><b>1. Information we 
 											collect</b></p>
-											<p>There are two different personal 
+											<p>There is personal 
 											information we collect from you when 
-											you access the Site. Information such as your e-mail 
+											you access the HD Website. Information such as your e-mail 
 											address, location, gender and date 
 											of birth is collected when you sign 
-											up onto the Site. Furthermore, 
+											up onto the HD Website. Furthermore, 
 											information that you wish to 
 											disclose to us through your account 
 											and profile settings will be shared 
-											on the Site. We do not knowingly 
+											to the public. We do not knowingly 
 											collect information from anyone 
-											under the age of 13.</p>
+											under the age of 14. Minors must 
+											obtain proof of approval from a 
+											legal guardian at the time of member 
+											registration. HD will send an 
+											electronic mail upon request using 
+											the e-mail provided at the end of 
+											this page.</p>
 											<p>We collect visitors' IP addresses 
 											in our server logs. We may use this 
 											information to diagnose technical 
 											problems, prevent certain visitors 
 											from accessing our website, collect 
 											and publish geographical data.</p>
-											<p>When you log into the Site, you may 
+											<p>When you log into the HD Website, you may 
 									start transmitting information with other 
-									members through many available methods. You 
+									members through many methods. You 
 											may contribute content at your own risk such 
 									as videos, blogs, forum posts and 
 									more. Please be careful about 
 									posting any information you would not like 
-									to share with anyone on the Site as no 
+									to share with anyone on the HD Website as no 
 											privacy protection measures are perfect. Therefore, we 
 									cannot guarantee the control of unauthorized 
 									individuals from viewing the content you 
-									post on the Site. </p>
-											<p><b>2. Cookies and Sessions</b></p>
-											<p>The Site may set cookies on 
+									post on the HD Website. </p>
+											<p><b>2. Cookies and sessions</b></p>
+											<p>The HD Website may set cookies on 
 											visitors' computers in order to help 
 											determine site usage patterns, 
 											remember user sessions or diagnose 
 											technical problems. You may clear or 
-											delete your cookies at anytime in 
-											your browser options. It is 
+											delete your cookies at anytime using 
+											your browser's options. It is 
 											important to clear cookies when 
 											using a public computer.</p>
 							
-											<p><b>3. Updating misinformation</b></p>
+											<p><b>3. User management and 
+											updating unformation</b></p>
 											<p>At anytime our users may edit or 
 											update any misinformation or content 
 											by utilizing our profile and account 
@@ -271,7 +361,7 @@ function hideMenux(id)
 											whether you want your location map 
 											on your profile. (IMPORTANT: Your 
 											location will still be viewable to 
-											everyone on the Hard Drop world map. 
+											everyone on the HD Website's world map. 
 											You may change your latitude and 
 											longitude if you would like your 
 											location to be anonymous.)</p>
@@ -280,7 +370,7 @@ function hideMenux(id)
 											when you sign up for an account is 
 											used to connect you with other 
 											people; members and visitors on the 
-											Site. Your profile is on the Site is 
+											HD Website. Your profile is  
 											only accessible to other Hard Drop 
 											members and not visitors or guests.</p>
 											<p>Your IP address is used 
@@ -288,10 +378,11 @@ function hideMenux(id)
 											other users for everyone to see. You may change your 
 											location at any time if you feel 
 											that your location should be kept 
-											anonymous or more accurate. Time after 
+											anonymous or less accurate. Time after 
 											time, we may decide to use your 
 											e-mail address to send 
-											you notifications regarding the Site (new features, website 
+											you notifications regarding the HD 
+											Website (new features, website 
 											updates, etc).</p>
 											<p>If you do not want to receive 
 											e-mails from us in the future, 
@@ -308,14 +399,14 @@ function hideMenux(id)
 											<p>At anytime this policy may change 
 											without any notice. We reserve the 
 											right to add to, update, or change 
-											the policy. We 
+											this policy. We 
 											expect that most future changes to 
 											our policy are minor and will not 
 											interfere with your privacy 
 											concerns.</p>
 											<p>harddrop.com takes your privacy 
 											concerns very seriously. If you have 
-											any questions, do not hesitate to 
+											any questions or requests, do not hesitate to 
 											e-mail us at
 											<a href="mailto:support@harddrop.com">
 											support@harddrop.com</a></p>
@@ -367,6 +458,8 @@ function hideMenux(id)
     <div style="padding:5px;">
         <a href="javascript:void(0);" onclick="popUp2('http://harddrop.com/popup/file_terms/dir_language/','500','500','yes','200','100');"><u>Terms of Service</u></a>
         - <a href="http://harddrop.com/pp"><u>Privacy Policy</u></a>
+ - <a href="http://www.directspace.net" target="_blank"><u>DirectSpace</u></a>
+- <a href="http://harddrop.com/links"><u>Links</u></a>
         - <a href="http://harddrop.com/contact-us/"><u>Contact Us</u></a>
                 <div style="padding-top:4px;color:#feecf2;">
 		
@@ -376,7 +469,7 @@ function hideMenux(id)
     <table id="bottom4" style="width:100%;" cellpadding="0" cellspacing="0">
     <tbody><tr>
         <td style="text-align:center;font-size:8pt;">
-            ©2009 Hard Drop community
+            ©2009-2010 Hard Drop Community &amp; Forum
         </td>
     </tr>
         <tr>
@@ -402,6 +495,10 @@ function hideMenux(id)
 </div>
 <div id="ajax_temp_content" style="display:none;"></div>
 
-<div id="popupLayer" style="display:none;"></div>
+
+
+
+
+
 
 </body></html>
