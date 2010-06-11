@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the faster-pc.net privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201133254id_/http%3A//faster-pc.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faster-pc.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210434id_/http%3A//faster-pc.net/privacy) for the most accurate reproduction.*
 
 # Faster-PC.net Privacy Policy
 
@@ -42,4 +42,19 @@ We reserve the right to disclose your personally identifiable information as req
 
 If you have any questions or concerns regarding this privacy policy, or you wish to contact us for any other reason, please use the [contact form](https://web.archive.org/contact/).
 
-This privacy policy was last updated on June 2, 2008.
+## How to uninstall software you have downloaded from this site
+
+Faster-PC.net only recommends software that we believe is helpful to your computer and easy to use. The simplicity of the uninstallation process is part of the criteria we use to evaluate software programs that are linked to from this site.
+
+To uninstall any software you download from this site, please take the following steps:
+
+  * Open your Start menu and click the "Control Panel" button
+  * Open the "Add/Remove Programs" icon (or "Programs and Features" on Vista and Windows 7)
+  * You will now see a list of all the software installed on your computer. Find the program you wish to uninstall and click it once to select it.
+  * Press "Uninstall", and follow the on-screen directions.
+
+
+
+The software should now be removed from your computer. 
+
+This privacy policy was last updated on December 19, 2009.
