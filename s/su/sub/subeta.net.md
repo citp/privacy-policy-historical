@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subeta.net privacy policy that was archived on 2009-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090515132847id_/http%3A//www.subeta.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subeta.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611212705id_/http%3A//www.subeta.net/privacy.php) for the most accurate reproduction.*
 
 # Subeta - Privacy Policy
 
