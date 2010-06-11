@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefabricstore.net privacy policy that was archived on 2008-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080321022855id_/http%3A//www.onlinefabricstore.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefabricstore.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612002146id_/http%3A//www.onlinefabricstore.net/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Online Fabric Store
 
@@ -14,4 +14,4 @@ On occasion, we may contact you with news, coupons or promotions via e-mail or r
 **Changes to this Privacy Statement**  
 We reserve the right to modify our Privacy Statement at any time.  If we change this Statement, this site will be updated.  Each time you visit our website, you agree to the terms and conditions of this Statement as they are in effect at the time.  Please be sure to check this Statement often so you will always be aware of the steps taken concerning your personal information.
 
-If you have any questions regarding our privacy practices, want to request "do not share/do not send" status, or otherwise need to contact us concerning this Statement, please [contact our customer service](https://web.archive.org/web/20080321022855id_/http%3A//www.onlinefabricstore.net/contact.aspx "Online Fabric Store Customer Service").
+If you have any questions regarding our privacy practices, want to request "do not share/do not send" status, or otherwise need to contact us concerning this Statement, please [contact our customer service](https://web.archive.org/web/20100612002146id_/http%3A//www.onlinefabricstore.net/contact.aspx "Online Fabric Store Customer Service").
