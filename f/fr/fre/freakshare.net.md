@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the freakshare.net privacy policy that was archived on 2009-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091006100915id_/http%3A//freakshare.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freakshare.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210348id_/http%3A//freakshare.net/privacy-policy.html) for the most accurate reproduction.*
 
-# FreakShare.net - Easy One-Click File Hosting
+# FreakShare - Easy One-Click File Hosting
 
 Agreement regarding confidentiality. 
 
