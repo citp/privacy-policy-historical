@@ -1,44 +1,43 @@
-> *The following text is extracted and transformed from the onestepsearch.net privacy policy that was archived on 2003-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20031206060609id_/http%3A//www.moniker.com/help/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestepsearch.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210010id_/http%3A//onestepsearch.net%3Ftmp%3Dtmp_ons_privacy) for the most accurate reproduction.*
 
-# Moniker.com - more than a name
+# OneStep Search - Privacy Policy
 
-**_MONIKER ONLINE SERVICES, LLC PRIVACY POLICY_** __
+This Privacy Policy applies to your use of OneStep Search Desktop, a software application published and distributed by OneStep ("OneStep," "we," "us" or "our"). Your privacy is important to us and this Privacy Policy reflects our concern in safeguarding it. This Privacy Policy describes our practices regarding the collection, maintenance, use and sharing of information that we collect. Our Privacy Policy may change from time to time and those changes will be available for your review on this web site. Your continued use of OneStep Search Desktop after any such changes have been made will signify your assent to the changed Privacy Policy. To contact OneStep about privacy issues, please e-mail us at [onestepsearch.privacy@onestepsearch.net](mailto:onestepsearch.privacy@onestepsearch.net).
 
-Moniker.com is owned and operated by Moniker Online Services, LLC.  Moniker Online Services, LLC is committed to safeguarding your privacy online. This statement is therefore set out to outline how we make use of the information you submit to us during registration. The terms contained on this page may be revised from time to time. To protect your interests, visit this page periodically to review the current terms of our policy.
+  
 
-By purchasing our services, you acknowledge and consent to the terms described in this Privacy Policy. When you purchase our services, you also represent to us that you have provided notice to, and obtained consent from, any third party individuals whose personal data you supply to us with regard to: (i) the purposes for which such third party's personal data have been collected, (ii) the intended recipients or categories of recipients of the third party's personal data, (iii) which of the third party's data are obligatory and which data, if any, are voluntary, and (iv) how the third party can access and, if necessary, rectify the data held about them.
 
-Personal information is requested when you register to be a client. During registration, you are asked to provide your name, email address, birth date, gender, postal or zip code, occupation, industry and personal interests, etc. The more information you submit and the more accurate it is, the better we are able to tailor our services to your needs. 
+## Information We Gather:
 
-Moniker Online Services, LLC’s purpose in collecting personal information is to identify the client as well as to send recent updates and important announcements via mail and/or email. Moniker Online Services, LLC does research on our Clients’ demographics and interests based on the information you submitted to us upon registration. We do this to better understand and serve all our clients. This data is compiled, analyzed, and used only by Moniker Online Services, LLC. No part of the information you have provided would be sold, disclosed, or made accessible by third parties or by the public. 
+We do not purposefully collect any personally identifiable information about you (such as your name, address, email address, or telephone number). OneStep Search Desktop does transmit limited non-personally identifiable information, such as your IP address, type of browser and operating system, unique software ID, version of the OneStep Software, internal software status indicators (including error codes to determine if the Software has encountered any internal errors), a tag that identifies any OneStep distribution partner from whom you may have downloaded or installed OneStep Search Desktop, and keyword and error search queries entered in your browser address bar. Please note that search query information collected by OneStep Search Desktop is maintained by us on an aggregated basis (i.e., together with the queries of all of our end-users) for the purposes of generating statistics regarding the use of our aoftware (such as the number of queries performed by the average end-user per month, a list of the most popular query terms, etc.), and is never used in a manner that matches specific search query information with any particular end-user. To properly reflect your language, filtering and other preferences, OneStep Search Desktop may also use cookies (i.e., packets of information containing your preferences that are sent to your browser and sent back by your browser each time your browser accesses our server). Cookies that we may use may only be read by the server that placed them there. If you wish to control how and whether cookies will be accepted by your browser, you should refer to the documentation accompanying your browser.
 
-Some of the purposes for which we collect your personal information are:
+  
 
-1.         Surveys
 
-Moniker.com may occasionally conduct customer surveys to better target our content and product inventory to our audience. We sometimes share the aggregated demographic information in these surveys with our advertisers and partners. We never share any information about specific individuals with any third party, except as noted previously. 
+## How We Use the Information We Gather:
 
-2.         Contests 
+Most of the limited, non-personally identifiable information collected is used to provide more relevant services to our end-users. For example, we may use your IP address to determine which language to use to provide you with Internet search results. In addition, information collected from end-users may be used in aggregate form to, among other things, determine the total number of distributed and active copies of OneStep Search Desktop, prepare utilization reports for our partners or affiliates (collectively, "Partners"), diagnose and fix compatibility problems or other bugs in our software, and perform statistical analyses to enable us to build higher quality, more useful online services. The information collected from end-users also allows us to determine if the software on an end-user's computer is encountering internal errors or needs to be updated and permits us to deliver search results pages that are as responsive as possible to an individual end- user's particular search query ( e.g., serves results in the end-user's native language and tailored to the end-user's country of connectivity). 
 
-Moniker.com may conduct contests in which we request certain personal information. These contests and sweepstakes are conducted in full accordance with United States and Canadian federal and state laws. The full rules and all information about such contests are clearly posted during such events. Information gathered is used only to verify user identity and to contact winners and/or prize recipients, except when specifically noted otherwise. Again, we do not share information about specific individuals with any third party, except as noted previously. 
+  
 
-3.         Usage Tracking
 
-Moniker.com tracks user traffic patterns throughout Moniker.com and this information is correlated with data about individual users. 
+## When We Disclose the Information We Gather:
 
-4.         Use of Information
+As a general rule, we do not share the information we collect from end-users with third- parties. However, IP addresses, unique software IDs, and search terms or phrases inputted in the browser address bar as queries by our end-users are transmitted to certain Partners with whom OneStep has subcontracted to obtain Internet search results or other services in response to such search queries (such as Yahoo!, AskJeeves.com, Miva and others). The data is also used by those Partners for internal data reporting purposes, but not for the purposes of marketing to our end-users. In addition, some of the information we collect is provided, in aggregate form only, to our Partners solely for purposes of calculating amounts owed to such Partners, not for the purposes of marketing to our end- users. Our Partners are obligated by applicable law to protect the privacy of certain types of data; however, we are not responsible for their actions or omissions, including the manner in which they use information that they receive from us. Nevertheless, if you feel that any of our Partners, or any third party who claims association with OneStep, is improperly collecting or using information about you, we urge you to contact them directly and also to inform us by e-mailing us at [onestepsearch.privacy@onestepsearch.net](mailto:onestepsearch.privacy@onestepsearch.net). If in the future we sell or transfer assets or portions of our business, or if we experience a change in control, reorganization or liquidation, we may transfer such information to our successor or buyer, subject to this Privacy Policy. Finally, we reserve the right to disclose any information about you if it is required by law, necessary to defend our legal rights, or if we in good faith believe it is appropriate to cooperate in investigations of fraud or other illegal activity in which you may beinvolved (or are reasonably suspected to be involved), even without a subpoena, warrant or court order.
 
-Moniker.com uses any information voluntarily given by our users to enhance their experience in our network of sites, whether to provide interactive or personalized elements on the sites or to better prepare future content based on the interests of our users. 
+  
 
-5.         Opt-Out Policy
 
-Moniker.com gives users options wherever necessary and practical, such choices include opting not to provide certain personal information when registering for a site or service and/or opting not to participate in certain interactive areas, which completely alleviates the need for any information from our users. 
+## No Responsibility for Third-Party Practices:
 
-Clients hold complete freedom to express themselves on their web sites. Although your intellectual freedom is respected, Moniker Online Services, LLC still reserves the right to remove from our servers any obscene, threatening, or illegal content.
+Any web sites that you click to from one of our Internet search results web pages have been developed by third-parties over which we exercise no control. Such web sites may send their own cookies to end-users, collect data, or solicit personally identifiable information from you. We are not responsible for the privacy practices or the content of such web sites, including such web sites' use of any information collected when our end- users click through to such web sites. Even though such information might not identify you personally, we strongly encourage you to become familiar with the privacy practices of those web sites.
 
-If you believe Moniker Online Services, LLC is not abiding by its posted privacy policy, or if you have any comments, please direct them to the following address:
+  
 
-Attn: Policies  
-Moniker Online Services, LLC.  
-20 SW 27th Ave. Suite 201  
-Pompano Beach, Florida 33069
+
+## Questions:
+
+Questions regarding this Software Use Privacy Policy should be directed by e-mail to OneStep at [onestepsearch.privacy@onestepsearch.net](mailto:onestepsearch.privacy@onestepsearch.net) or, by U.S. mail, to:  
+335 Madison Avenue, Suite 840,  
+New York, NY 10017  
+Attn: Privacy Officer
