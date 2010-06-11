@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omronhealthcare.com privacy policy that was archived on 2009-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090504084029id_/http%3A//www.omronhealthcare.com/info/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omronhealthcare.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611054539id_/http%3A//www.omronhealthcare.com/info/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ When you visit Omronhealthcare.com, you will be assigned a temporary "cookie" (a
 
 You can choose to visit at Omronhealthcare.com without cookies, but without these identifier files you will not be able to take advantage of certain features of our site. These features include remembering your password (so you don't have to log in each time you visit), providing a more personalized experience. To visit without cookies, you can configure your browser to reject all cookies or notify you when a cookie is set. (Each browser is different, so check the "Help" menu of your browser to learn how to change your cookie preferences.)
 
-We also collect certain technical information from your computer each time you request a page during a visit to Omronhealthcare.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring Web site, if any. We collect this information to enhance the quality of your experience during your visit to our site and will not sell or rent this information to any third parties.
+We also collect certain technical information from your computer each time you request a page during a visit to Omronhealthcare.com. This information may include your Internet Protocol (IP) address, your computer's operating system, browser type and the address of a referring Web site, if any. We collect this information to enhance the quality of your experience during your visit to our site and will not sell or rent this information to any unaffiliated third parties.
 
  **Contacting Omronhealthcare.com**
 
@@ -24,7 +24,7 @@ We will use your email address to respond to your questions, suggestions, and/or
 
  **Other Times We May Collect Personal Information**
 
-From time to time, Omronhealthcare.com may conduct surveys and contests via our Web site, email, and other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will never sell or rent such information to any third parties.
+From time to time, Omronhealthcare.com may conduct surveys and contests via our Web site, email, and other media. If you choose to participate, we may request your name, email address, mailing address and other personal information. We will not sell or rent such information to any unaffiliated third parties.
 
  **How We Use Your Personal Information**
 
@@ -33,12 +33,13 @@ Information we collect on Omronhealthcare.com may be used to enhance your experi
   * Respond to your customer-service inquiries or requests
   * Communicate special offers and featured items to you, if you choose to receive such notices
   * Customize your experience
+  * Share special offers from Omron partner organization
 
 
 
  **When and With Whom We Share Your Personal Information**
 
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives and trusted service providers and contractors for limited purposes, including fulfilling customer requests; offering certain products and services in connection with our Web site; communicating to customers; providing customer service; enhancing and improving customers' experience; enabling access to our partners' sites.
+We will not sell or rent your personal information to any unaffiliated third parties under any circumstances. We will share personal customer information only with our agents, representatives and trusted service providers and contractors for limited purposes, including fulfilling customer requests; offering certain products and services in connection with our Web site; communicating to customers; providing customer service; enhancing and improving customers' experience; enabling access to our partners' sites.
 
 Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required by law. We may share aggregated demographic and statistical information with our partners. This is not linked to any personal information that can identify any individual person.
 
@@ -64,7 +65,7 @@ Omron Healthcare Inc. does not and will not sell or rent your personal informati
 
  **Changes to the Omronhealthcare.com Privacy Policy**
 
-This Privacy Policy was posted on Omronhealthcare.com on April 1, 2008. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on Omron.com for a period of at least six months after the change is implemented.
+This Privacy Policy was posted on Omronhealthcare.com on May 5, 2010. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on Omron.com for a period of at least six months after the change is implemented.
 
   
 
