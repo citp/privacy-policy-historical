@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bobbyboard.com privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209001653id_/http%3A//www.bobbyboard.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bobbyboard.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612013550id_/http%3A//www.bobbyboard.com/index.php%3Fview%3Dpage%26pagename%3Dprivacy) for the most accurate reproduction.*
 
-# United States - Bobby Board - Free Classifieds
+# California , United States - Bobby Board - Free Classifieds
 
 Privacy Policy
 
