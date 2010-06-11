@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ravelry.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217030955id_/https%3A//www.ravelry.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ravelry.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611143040id_/https%3A//www.ravelry.com/about/privacy) for the most accurate reproduction.*
 
-# Ravelry - a knit and crochet community
+# Ravelry: Privacy Policy
 
 Ravelry Privacy Policy 
 
