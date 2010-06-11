@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420065723id_/http%3A//www.ongfirst.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ongfirst.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611175749id_/http%3A//www.ongfirst.com/english/privacypolicy.php) for the most accurate reproduction.*
 
 # Ong First Tradition Pte Ltd - Privacy Policy
 
@@ -21,7 +21,7 @@ If you have established a relationship with Ong First Tradition as a capacity of
 
 
 
-We would not require more information more than there is necessary for the sole purpose of opening an account with us. You are obligated not to provide any of the personal information we required from you. However, failure to provide us with the necessary information will lead to unnecessary delays in processing your account. While we make an effort to keep the personal information obtained up-to-date, you can help us by informing us of any changes and we will update our records.
+We would not require further information other than what is necessary for the sole purpose of opening an account with us. However, failure to provide us with the necessary information will lead to unnecessary delays in processing your account. While we make an effort to keep the personal information obtained up-to-date, you can help us by informing us of any changes and we will update our records.
 
 ### Usage of Your Personal Information
 
