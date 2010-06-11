@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201032119id_/http%3A//www.traveladnetwork.com/content/view/56/79) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveladnetwork.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612004323id_/http%3A//www.traveladnetwork.com/content/view/56/79) for the most accurate reproduction.*
 
 # www.traveladnetwork.com - Privacy Policy
 
 ## Travel Ad Network Privacy Policy
 
   
-**Last Updated: July 27, 2009**
+**Last Updated: February 10,2009**
 
 This Privacy Policy sets forth the Travel Ad Network ("TAN'") policy with respect to the Personally Identifiable Information ("PII") and Non-Personally Identifiable Information ("Non-PII") that is collected from users ("Users") of TAN websites (collectively, the "Sites"). By voluntarily providing us with your PII, you are consenting to our use of it in accordance with this Privacy Policy including transfer of your PII to TAN and authorized third parties located in the United States and in other countries. 
 
@@ -82,7 +82,7 @@ To visit the Atlas (Microsoft Advertising) opt out, go to <http://www.atlassolut
 
 To opt-out of other cookies, or if you would like more information about this practice, please visit the Network Advertising Initiative, an organization championing consumer privacy and establishing advertising standards, at this URL: [](http://www.networkadvertising.org/optout_nonppii.asp)<http://www.networkadvertising.org/optout_nonppii.asp>
 
-**PII Opt-Out.** To opt out of our use of your PII, you may (a) click the appropriate "Opt Out" link in any applicable e-mail communication or newsletter or (b) visit [http://travelad.listrak.com](http://travelad.listrak.com/).  
+**PII Opt-Out.** To opt out of our use of your PII, you may (a) click the appropriate "Opt Out" link in any applicable e-mail communication or newsletter or (b) visit [http://travelad.listrak.com](http://www.traveladnetwork.com/content/view/70).  
 
 
 E-mails that are sent to you as a result of you performing a business transaction with us or requesting specific information from the Sites are not subject to an Opt Out process. If you have any suggestions on how to improve these e-mails, please communicate to our Customer Service group using the Contact Us functionality on the applicable Site. 
