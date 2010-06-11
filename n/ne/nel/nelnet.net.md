@@ -1,171 +1,154 @@
-> *The following text is extracted and transformed from the nelnet.net privacy policy that was archived on 2006-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20060924061136id_/https%3A//www.nelnet.net/Shared_Includes/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nelnet.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210104id_/http%3A//www.nelnet.com/onecolumn.aspx%3Fid%3D992%26path%3Dnel.sec) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy & Security ::: Nelnet
 
-**Privacy Policy**
+Nelnet, Inc., (the “Company”) wants you to understand how we collect, protect, and use your personally identifiable information (“your information”) and the choices you have about how your information is used. This policy covers the information handling practices of the Company; however, certain departments and/or products within the Company may have more restrictive information handling practices.
 
-Privacy Policy Effective Date January 1, 2006
+ ** _Online information_**
 
-Nelnet understands how important privacy is to you, and we are committed to providing you with extraordinary customer service. This commitment includes protecting the personal information you entrust to us by adhering to strict guidelines.  This privacy policy explains what information we collect about you, how we collect it, why we collect it, and with whom we share the information.  This policy applies to both our current customers and our former customers.  Nelnet reserves the right to change this policy, and we will communicate any changes to you, as required by law.  The effective date of this policy is January 1, 2006, and the practices described in this policy replace all prior policies regarding privacy of customer information issued by Nelnet or any of our affiliates listed below in the area designated as companies this policy applies to (“Nelnet Companies”).  **Important Note:**   If Nelnet services but does not own your education loan, the privacy policy of the lender that owns your loan applies instead.  As your loan servicer, Nelnet complies with your lender’s policy. 
+We are committed to providing you a useful and enjoyable online experience. When you access a Company website (“Company Site”), you can be sure that your information is protected by physical, procedural, and electronic safeguards. We collect information from your visit only in order to personalize and improve upon your experience with us.
 
-Nelnet will not share your personally identifiable information with unaffiliated companies for marketing purposes that are unrelated to educational or financial products and services.  We do share information with companies that assist us in servicing your account, organizations that assist us in communicating our products, services, or special offers to you, and unaffiliated companies that offer educational or financial products and services.  As our customer, you may choose how you want us to handle your personally identifiable information.
+  To access information and send e-mail via Company Sites, you will need a browser that supports the use of Secure Sockets Layer. This encryption technology helps ensure the authenticity of your online sessions and secures data being transmitted over the public Internet.
 
-**Online Information**
+  When you enter a Company Site, we will identify the Internet Protocol (IP) address of your computer or handheld device. The IP address doesn’t identify you personally, but it lets us identify the device you’re using. We store IP addresses in case we need to track a connection for security purposes.
 
-We at Nelnet are committed to providing you a useful and enjoyable online experience, and to protecting your personal information during your visit. When you access a Nelnet Web site, you can be sure that your information is protected by the latest security and authentication techniques. We may collect information from your visit, in order to personalize and improve upon your experience with us, but all information we collect is treated as confidential. 
+  Company Sites may use cookies in several applications for navigational purposes. A cookie is a small text file placed on your hard drive (not on the Company Site) by a Web page server. Cookies make your Internet experience quicker and more convenient. You are always free to decline our cookies if your browser permits, but some parts of Company Sites may not work properly if you do. Accepting a cookie from a Company Site does not give us access to any of your information.
 
- 
+  If you supply us with your e-mail address, we may let you know by e-mail about other products and services and product enhancements that may be of interest to you. You will have the opportunity to tell us you don’t want to receive future messages with each message you receive. If you e-mail a question or comment to us, we will use your e-mail address to reply to you and we will temporarily store your e-mail address, your message and our reply for quality assurance or to satisfy applicable laws and regulations. When we collect your e-mail address this way, we won’t use it for marketing our products and services unless you have given us permission.
 
-To access student loan account information and send email via our Web site, you will need a browser that supports the use of Secure Sockets Layer (Netscape 4.0or greater, MS Internet Explorer 5.0 or greater, etc). This encryption technology helps ensure the authenticity of you online sessions and secures data being transmitted over the public Internet. 
+  Company Sites don’t knowingly collect, maintain, or use information from children under age 13 unless first complying with the Children’s Online Privacy Protection Act. If we find out we have unknowingly collected such information, we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose websites may contain links to ours, including vendors where you may shop.
 
- 
+  Please note that when you shop with a vendor who is linked to a Company Site, even though you may have started your visit with us, and even though our pages may still appear, your transactions are completed with a separate organization, not with us. We don’t share your information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from us, but we cannot guarantee your satisfaction with these organizations.
 
-If you are using Netscape Navigator, your session is secured if a key appears in the lower left corner of your screen; when the session is not secure, the key will appear broken. Internet Explorer displays a lock icon in a locked position on the status bar when you enter a secure site. When you leave a secure Web site, Internet Explorer displays a lock in an unlocked position on the status bar. If the page you are viewing uses frames, you may not see the key or lock, but can simply right-click anywhere in the frame and select “Properties”. If the Web site address (URL) starts with “https” the “s” indicates a secure site or area of the site. 
+ ** _Information we collect and why_**
 
- 
+In order to provide you with products and services, we collect your information from different sources:
 
-When you enter a Nelnet Web site, you will pass through our security “firewall” and we identify the Internet Protocol (IP) address of you computer or handheld device, The IP address won’t identify you personally, but it will let us identify the device you’re using and we store IP addresses in case we need to track a connection for security purposes. 
+  * Information you provide to us on forms (such as applications), by e-mail, in writing, by telephone or through our websites. 
+  * Information collected from your transactions with us or others, such as account activity.
+  * In the case of student loans, information from unaffiliated third parties such as credit histories from credit reporting agencies.
 
- 
 
-Nelnet Web sites use cookies in several applications for navigational purposes. A cookie is a small text file placed on your hard drive (with your permission) by a Web page server. Accepting a cookie from a Nelnet Web site does not give Nelnet access to your computer of any personal information about you. Also, the type of cookies we use don’t get stored permanently in your computer – they expire immediately after you close your browser and are deleted. You can also set up your Web browser to inform you when cookies are set or to prevent cookies from being set. 
 
- 
+ ** _  
+Information safeguarding practices_**
 
-If you supply us with your email address we may let you know by email about other products and services and product enhancements that may be of interest to you. You will have the opportunity to tell us you don’t want ot receive future messages with each message you receive. If you send us an email question or comment, we will use your email address to reply to you and we will temporarily store your email address, your message and our reply for quality assurance or to satisfy applicable laws and regulations. When we collect your email address this way, we won’t use it for marketing our products and services unless you have given us permission. If you are not comfortable that your email system is secure, you can always contact Customer Service by telephone. 
+We appreciate the trust you place in us, and we are committed to the security and privacy of your information.
 
- 
+  * Our authorized employees, agents, and contractors receive your information only to the extent required to perform their work.
+  * We comply with federal and state regulations as well as industry standards set forth to protect your information.
+  * Companies that assist us in delivering our products and services are also required to protect your information and use it only for the services we ask them to perform.
 
-We don’t knowingly collect, maintain or use personal information from our Web sites about children under age 13. If we find out we have collected such information we will take all reasonable measures to delete that information from our system as soon as possible. We are not responsible for the collection and use of information by companies or individuals unaffiliated with us whose Web sites may contain links to ours, including vendors where you may shop. 
 
- 
 
-Please note that when you shop with a vendor who is linked to a Nelnet Web site, even though you may have started your visit at the Nelnet site, and even though Nelnet pages may still appear, your transactions are completed with a separate organization, not with Nelnet. We don’t share your personal information with them, but information you choose to share with them will fall under their privacy policies, which we encourage you to review. We carefully select other organizations in an effort to give you the value and excellent customer service you expect from Nelnet. 
+ ** _  
+Information sharing with affiliated companies_**
 
- 
+We may share your information with our affiliated companies in order to better understand your educational and financial needs and provide solutions. Unless you instruct us otherwise, our affiliates may selectively contact you about products, services, and promotions that may be of interest to you. 
 
-**What information we collect and how we collect it**
+ ** _Information sharing with service providers and others outside of our affiliated companies_**
 
-“Nonpublic personal information” is information about you that is not generally available to the public and that Nelnet obtains through providing a product or service to you.  This information is collected to enable us to serve you effectively and efficiently. One type of nonpublic personal information we may collect is identification information such as your name, address, e-mail address, phone number, birth date, and Social Security number. We also collect financial information such as your income and assets.  This information is collected on loan applications and other forms.  We maintain information about your transactions with us and with our affiliates. Transactional information may include, for example, your account balance and payment history.  We also receive non-transactional information from third parties, such as credit bureaus.  This may include your credit history, credit score, or information you authorize us to obtain from others.  For example, when you obtain a federal education loan, you authorize Nelnet to obtain enrollment information from the school you are attending or plan to attend.  We collect information when you use our Internet Web sites and services, communicate with us via e-mail, or register or apply for our products and services. 
+To the extent required or permitted by law, we may share your information with service providers and unaffiliated third parties for the following reasons:
 
-**Why we collect information**
+  * To service your account and provide you with products and services you have requested.
+  * To communicate with you about additional products, services, and special offers, using marketing providers to assist us.
+  * To transfer information to a new owner, subject to the terms of this policy, following the sale of a subsidiary, business unit, or some or all of our assets.
+  * To comply with a legal requirement, such as a law, regulation, court order, subpoena, search warrant, or in the course of a legal proceeding.
+  * To respond to your opt-in request or other disclosure request.
+  * In the case of student loans, to report to a credit bureau, guaranty agency, school, or the U.S. Department of Education.
 
-We collect information about you to identify you as our customer and manage your account. This enables us to determine your eligibility for a loan and process the application. Your information is used to protect your account from unauthorized access and to process transactions to your account.  We use it to contact you about products and services, collect on your account when necessary, and to comply with various legal and regulatory requirements.   
 
-**How we share information externally, as permitted by law**
 
-In limited situations, Nelnet is permitted by law to share nonpublic personal information about you with companies unaffiliated with our organization in order to do business with you. For example, we are permitted to share information with the following types of organizations:
+ ** _  
+Information sharing options_**
 
-·    Service providers and business partners – These organizations include lenders that provide funding for loans, companies that originate loans and process loan transactions for us, and vendors that provide mail services, computer programming, and product and service delivery. 
+You have the following options to control how your information is used:
 
-·    Marketing service providers - These organizations assist us in communicating information about products, services, and special offers to you. 
+  *  **Option # 1 (Affiliate Marketing):** You may direct our affiliated companies not to market their products and services to you. Selecting this option will also direct us not to share your third-party consumer report information with our affiliated companies. We will honor your direction until you notify us of a change.
+  *  **Option # 2 (Third-Party Sharing):** You may direct us not to share your information with unaffiliated third parties. We will honor your direction until you notify us of a change.
 
-We select our service providers and business partners very carefully.  These organizations receive limited information about you as we deem necessary to perform their functions and are always required to maintain the confidentiality of the information.  We restrict their use of the information to the purposes we authorize.
 
-Nelnet may also share nonpublic personal information about you with parties unaffiliated with our organization in other circumstances, such as when you request that we do so or when required by law.  For example, Nelnet is required by law to provide nonpublic personal information about a customer who has a federal education loan to the school the student is attending, the guaranty agency, the United States Department of Education, and national credit bureaus.  Furthermore, Nelnet may share your information in response to a court order or subpoena, at the request of a law enforcement agency, or when we suspect fraud or criminal activity.
 
-**How we share information within Nelnet**
+  
+If you wish to change how we use your information, you may contact us by one of the following methods. Please include your name, address, and account number (if applicable) along with your request.
 
-The Nelnet Companies are involved in a variety of businesses related to helping families make their educational dreams possible.  Among the Nelnet Companies, we may share transactional information about you in order to provide you a loan or other product or service or to service your existing account. We may also share non-transactional information about you among the Nelnet Companies, such as information we receive from credit bureaus or other unaffiliated parties, in order to determine if we or our partners have another product or service that may be of interest to you.  Non-transactional information may include your creditworthiness, payment history with other businesses, and employment history.  You may direct us not to share such non-transactional information about you among the Nelnet Companies and with our affiliated companies by submitting to us a completed [Nelnet Privacy Option form ](https://web.archive.org/includes/privacy.pdf)and checking option number 1.
+  * Complete the [Privacy Options Form](http://www.nelnet.com/optoutform.aspx?path=nel.sec "privacy options page") online.  
+  * Write to:  Nelnet Privacy Options (EP)  
+               P.O. Box 82525  
+               Lincoln, NE 68501
 
-**How we share information with educational or financial organizations**
 
-Nelnet may also share nonpublic personal information about you with parties unaffiliated with our organization that offer educational or financial products and services.  These parties may include, but are not limited to, schools, scholarship search groups, credit organizations, insurance providers, financial institutions, and securities companies.  You may direct us not to share your nonpublic personal information with these types of parties for these purposes by submitting to us a completed [Nelnet Privacy Option form](https://web.archive.org/includes/privacy.pdf) and checking option number 2.
 
-**Previous selections of option number 1 or 2**
+ ** _Joint accounts_**
 
-If you previously sent us a request not to share your information, your request is still being honored; it is not necessary for you to submit another request. If you wish to revoke your prior request and give permission for Nelnet to begin sharing your information among the Nelnet Companies, with our affiliated companies, and with the unaffiliated third parties described in this Privacy Policy, submit to us a completed [Nelnet Privacy Option form](https://web.archive.org/includes/privacy.pdf) and check option number 3.
+Joint account holders may make privacy choices for each other.
 
-**If you are a resident of:**
+ ** _Vermont_** ** _residents_**
 
-**California** **:** Your state law requires financial institutions to obtain your consent prior to sharing information about you with unaffiliated third parties offering educational or financial products and services.  Except as permitted by law, we will not share information we collect about you with unaffiliated third parties unless you give us your consent to do so.  If you would like to take advantage of product and service offerings from these unaffiliated parties, submit to us a completed [Nelnet Privacy Option form](https://web.archive.org/includes/privacy.pdf) and check option number 3.  ****
+We will automatically manage accounts with Vermont addresses as if the account holder has selected both opt-out choices described above. You may opt in and provide your consent using the contact methods described above.
 
-**Vermont** **:** Your state law requires financial institutions to obtain your consent prior to sharing information about you with others. Except as permitted by law, we will not share information we collect about you among the Nelnet Companies, with our affiliated companies, and with unaffiliated third parties unless you give us your consent to do so.  If you would like to take advantage of product and service offerings from the Nelnet Companies, our affiliated companies, and unaffiliated third parties, submit to us a completed [Nelnet Privacy Option form](https://web.archive.org/includes/privacy.pdf) and check option number 3.
+ ** _California_** ** _residents_**
 
-**Our security procedures**
+We will automatically manage accounts with California addresses as if the account holder has directed us not to share with unaffiliated third parties. You may opt in and provide your consent using the contact methods described above.
 
-Nelnet takes careful steps to safeguard customer information. We restrict access to your personal and account information to those employees who we believe need to know that information in order to provide products or services to you, and we regularly train our employees on privacy, information security, and their obligation to protect your information. We maintain physical, electronic, and procedural safeguards that comply with federal and industry standards to guard your personal information, and we regularly test those safeguards to maintain the appropriate levels of protection. 
+ ** _Information about this policy_**
 
-**Nelnet Companies to which this policy applies**
+  * This policy is effective January 1, 2010.
+  * This policy applies to current and former customers.
+  * This policy is available at our website.
+  * This policy does not apply if we are providing services for another entity. In such circumstances, that entity’s privacy policy will apply to the use of your information.
+  *  **If you previously sent us a request not to share your personally identifiable information, your request is still being honored; it is not necessary for you to submit another request.** If you wish to revoke your prior request, you may opt in and provide your consent using the contact methods described above.
 
-This policy applies to the Nelnet Companies listed below **,** as well as trusts and special purpose entities created by these companies. This list may change from time to time without notice.
 
-National Education Loan Network, Inc.
 
-InTuition, Inc.          
+ ** _  
+Protecting your personally identifiable information_**
 
-Nelnet Marketing Solutions, Inc.
+You are encouraged to take steps to protect your privacy by keeping passwords and personal identification numbers confidential, never disclosing personal information to unknown callers, and ensuring your Internet use is secured and protected from unauthorized access or use. If you believe you are a victim of identify theft:  
 
-Class Credit, Inc.
 
-EMT Corporation
+  * Call the Federal Social Security Administration fraud hotline: 800.269.0271
+  * File a police report with your local authorities, note the report number and officer’s name
+  * Call the Federal Trade Commission’s Identity Theft hotline: 877.IDTHEFT
+  * Contact the major national credit reporting agencies: 
+    * Experian 888.397.3742
+    * Equifax 800.525.6285
+    * TransUnion 800.680.7289
+    * Innovis 800.540.2505
 
-Nelnet Guarantee Services, L.L.C.
 
-EFS Finance Co.
 
-MELMAC, Inc.
+ ** _  
+Affiliated companies covered by this policy_**
 
-National Educational Loan of New England, Inc.
+This privacy policy applies to the following companies as well as subsidiary entities maintained for purposes of holding loans:
 
-Nelnet Academic Services, L.L.C.
+  * Nelnet, Inc.
 
-College Bound Loans, Inc.
+  * Nelnet Guarantee Solutions, LLC
 
-National Higher Education Loan Program, Inc.
+  * Nelnet Servicing, LLC
 
-Chela Education Funding, Inc.
+  * Education Solutions, Inc.
 
-LoanSTAR Funding Group, Inc.
+  * National Education Loan Network, Inc.
+  * National Higher Education Loan Program, Inc.
+  * Nelnet Academic Funding Solutions, LLC
 
-The companies listed below are also affiliated with Nelnet but maintain independent privacy policies.  These affiliated companies may receive transactional or non-transactional information from one or more of the Nelnet Companies consistent with this policy.
+  * InTuition, Inc.
 
-Student Marketing Group, Inc.
+  * Nelnet B2B Services, LLC
 
-FACTS Management Company                                                   National Honor Roll, L.L.C.
+  * NLS Holding, LLC
+  * Petersons Nelnet, LLC
+  * CUnet, LLC
+  * Nelnet Enrollment Solutions, LLC
+  * National Education Loan of New England, Inc.
+  * Nelnet Asset Management, Inc.
+  * College Bound Loans, Inc.
+  * Chela Education Funding, Inc.
 
-EDULINX Canada Corporation
 
-**Other helpful information**
 
-On our Web sites and in electronic communications, Nelnet may provide links to Web sites of other organizations unaffiliated with the Nelnet Companies as a convenience to you. The inclusion of any link does not imply our endorsement of any other organization, its Web sites, or its products and services. Nelnet is not responsible for the privacy practices or content of any other Web site.
-
-**How to protect your privacy and prevent identity theft**  
-Take steps to protect your privacy by never disclosing personal information to unknown callers, shredding documents containing personal information, keeping passwords and personal identification numbers (PIN’s) confidential, and ensuring your Internet use is secured and protected from unauthorized access or use.  If you believe you are a victim of identify theft, take the following actions:
-
-·    Immediately close any accounts, such as credit card or bank accounts, to which the thief might gain access.
-
-·    Call the Federal Social Security Administration fraud hotline at 1.800.269.0271.
-
-·    File a police report with your local authorities. Write down the report number and the police officer’s name.
-
-·    Call the Federal Trade Commission’s identity theft hotline at 1.877.IDTHEFT.
-
-·    Contact the national credit bureaus and place a fraud alert on your account:
-
-    Experian 1.888.397.3742        Equifax 1.800.525.6285
-
-    Trans Union 1.800.680.7289   Innovis 1.800.540.2505 
-
-**National Do-Not-Call registry**
-
-In order to stop telemarketing calls you don’t want to receive, you can register your phone number at 1.888.382.1222 or www.donotcall.gov.                                            
-
-**Credit bureau lists and direct marketing preferences**  
-Credit bureaus may sell your personal information to companies in order for those companies to send you pre-approved credit or insurance offers.  To prevent your personal information from being sold for this purpose, call the Credit Reporting Industry Pre-screening Opt Out number at 1.888.567.8688 or logon at www.optoutprescreen.com.
-
-You can also limit other marketing you receive by contacting the Direct Marketing Association (DMA) to have your name removed from their contact lists.  You must include your name, address, telephone number, and signature with your request.
-
-DMA Mail Preference Service
-
-PO Box 643
-
-Carmel, NY 10512
-
-DMA Telephone Preference Service
-
-PO Box 1559
-
-Carmel, NY 10512
-
-You may have your e-mail address removed from DMA’s list by submitting a request at: http://dmaconsumers.org/optoutform_emps.shtml.
+  
+This list may change at any time without notice.  Please visit our website to review the most current list of affiliated companies covered under this policy.
