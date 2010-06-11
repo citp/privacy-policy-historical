@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snapdrive.net privacy policy that was archived on 2009-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090422083422id_/http%3A//www.snapdrive.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snapdrive.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611210330id_/http%3A//www.snapdrive.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
