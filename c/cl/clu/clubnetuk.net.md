@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clubnetuk.net privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109000628id_/http%3A//clubnetuk.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clubnetuk.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612001034id_/http%3A//clubnetuk.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
