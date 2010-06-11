@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420041641id_/http%3A//www.tor-proxy.net/index.php%3Fq%3Den/node/28) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tor-proxy.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611214740id_/http%3A//tor-proxy.net/index.php%3Fq%3Den/node/28) for the most accurate reproduction.*
 
 # Privacy Policy | tor-proxy.net
 
@@ -34,7 +34,9 @@ Thus the hash value is clear, it cannot be reckoned back with the at present ava
 
 ### § 2a - Data Retention
 
-Since 2009 we are forced by German law to raise data which make it possible to deanonymize the user afterwards. The seized data is your IP address, the web-address (URI) received through us and the exact time. The data is stored encrypted for 6 months and given to authorities only complied to legal requirements. You'll find more details in this new [news post](https://web.archive.org/index.php?q=en/node/75).
+~~Since 2009 we are forced by German law to raise data which make it possible to deanonymize the user afterwards. The seized data is your IP address, the web-address (URI) received through us and the exact time. The data is stored encrypted for 6 months and given to authorities only complied to legal requirements. You'll find more details in this new[news post](https://web.archive.org/index.php?q=en/node/75).~~
+
+Date retention is [not active any more](https://web.archive.org/index.php?q=en/node/99).
 
 ### § 3 - Links to other Websites
 
