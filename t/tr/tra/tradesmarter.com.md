@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tradesmarter.com privacy policy that was archived on 2009-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091126153041id_/http%3A//www.tradesmarter.com/options/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tradesmarter.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611203004id_/http%3A//www.tradesmarter.com/options/privacy) for the most accurate reproduction.*
 
-# TradeSmarter | Trade Options: Binary Options Trading on forex, stock & commodities
+# Binary Options Trading Platform | TradeSmarter
 
 Thank you for visiting TradeSmarter, and using the games, services, platform and applications we provide (collectively, the "Services"). Your privacy is important to us. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used at this Site (the "Policy").
 
