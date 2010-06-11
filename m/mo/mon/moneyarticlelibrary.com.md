@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moneyarticlelibrary.com privacy policy that was archived on 2009-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091118160245id_/http%3A//www.moneyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyarticlelibrary.com privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611094913id_/http%3A//www.moneyarticlelibrary.com/privacy.php) for the most accurate reproduction.*
 
-# Money Article Library
+# MONEY ARTICLE LIBRARY- Finance, Investing, Credit, Debt, Banking, Loans, Accounting, Real Estate, Stocks, Bonds, Commodities...
 
 ## Our Address & Contact Information
 
