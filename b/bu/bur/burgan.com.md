@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429084429id_/http%3A//www.burgan.com/0_3_privacy_policy.AxCMS%3FActiveID%3D1084) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burgan.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612093816id_/http%3A//www.burgan.com/0_3_privacy_policy.AxCMS%3FActiveID%3D1084) for the most accurate reproduction.*
 
 # Burgan Bank - privacy policy
 
