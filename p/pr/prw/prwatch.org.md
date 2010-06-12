@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2009-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090122062834id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prwatch.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203833id_/http%3A//www.prwatch.org/cmd/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Center for Media and Democracy
 
@@ -10,29 +10,29 @@ We will not collect any personally identifiable information about you, such as y
 
 CMD does not sell or trade names or other personal data that we collect on our website, nor do we maintain any credit card information. Credit card donations through our website are processed by [Democracy In Action](http://www2.democracyinaction.org/), which is committed to providing safe, secure and private online transactions. For further details about their privacy practices, please consult their [privacy and security policy directly](http://www2.democracyinaction.org/privacypolicy).
 
-When you make a donation to us through the [Donate button](http://www.prwatch.org/donate) on our website, Democracy In Action shares your contact information (name, address and email address) with us. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. You may also receive our newsletter, _PR Watch_. If you do not want to receive materials from us, you can call (608) 260-9713 or email us at [editor@prwatch.org](mailto:editor@prwatch.org).
+When you make a donation to us through the [Donate button](https://web.archive.org/donate) on our website, you will receive our weekly newsletter _The Weekly Spin_. Democracy In Action shares your contact information (name, address and email address) with us. We maintain this information in our database of supporters in order to keep you abreast of our future work and related issues that may be of interest to you. If you decide you do not want to receive materials from us, you can call (608) 260-9713 or email us at [editor@prwatch.org](mailto:editor@prwatch.org).
 
 ## Cookies
 
-We use cookies to store visitors preferences, record session information, alert visitors to new areas that we think might be of interest to them when they return to our site, and record past activity at a site in order to provide better service when visitors return to our site.
+We use cookies to store visitors preferences, record session information, alert visitors to new areas that we think might be of interest to them when they return to our site, and record past activity at a site in order to provide better service when visitors return to our site; however, we do not use the cookies to monitor any particular individual's activity.
 
 ## Email Lists
 
-Users who sign up for our email lists will receive regular communications that are explained on the sign-up page for each list. Each list will provide information on how to unsubscribe to this service. 
+Supporters who donate will receive regular communications from us about our work and opportunities to help. People interested in our work may sign up to receive our electronic publications and information without donating. Each electronic message from us will provide information on how to unsubscribe to this service. 
 
-If you join or donate to the Center for Media and Democracy online, you will receive our regular membership communications as detailed on the online sign-up form. Otherwise, your information will be used only for the purposes for which it was provided, and we will not sell, rent, provide or disclose personally identifiable information to any commercial users or marketing firms.
+If you join or donate to the Center for Media and Democracy online, you will receive our regular membership communications. We will not sell, rent, provide or disclose personally identifiable information to any commercial users or marketing firms.
 
 ## Browser Information
 
-When you visit the Center for Media and Democracy website to read or download information, we may collect and store the following general information in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site: your computer's IP address, browser type, and operating system, the date and time you access our site, the Internet address of the website from which you linked directly to our site, the search terms used in connecting to our site, and the various pages that you visit while on our site. We will not disseminate this information to the general public.
+When you visit a Center for Media and Democracy website to read or download information, we may collect and store the following general information in order to analyze trends, gather broad demographic information, and monitor site traffic patterns that can help us further develop and improve the design and functionality of our site: your computer's IP address, browser type, and operating system, the date and time you access our site, the Internet address of the website from which you linked directly to our site, the search terms used in connecting to our site, and the various pages that you visit while on our site. We will not disseminate this information to the general public.
 
 ## Publicly Sharing Your Comments
 
-We often receive information from website visitors who have successfully participated in our programs and/or used our resources. In certain instances, we would like to publicly share the comments and stories we receive by posting this information on one of our websites. We will not, however, publicly share ANY information we receive on any of our websites without first receiving the express consent of the individual who submitted the information.
+We often receive information from website visitors who have successfully participated in our programs and/or used our resources. In certain instances, we would like to publicly share the comments and stories we receive by posting this information on one of our websites. We will not, however, publicly share ANY information we receive on any of our websites without first receiving the express consent of the individual who submitted the information. If you choose to comment on a news item or blog via the comment option on the website, those comments will be made public and we encourage your views and debate.
 
-## Protecting Our Children
+## Protecting Children
 
-Center for Media and Democracy is concerned about the safety and privacy of children online. Because of this, we will make all efforts to comply with the Children's Online Privacy Protection Act of 1998 (COPPA). COPPA and its accompanying FTC regulations establish United States federal law that protects the privacy of children using the Internet. We do not and will not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we will develop our site with the capacity to block acceptance of information from children under 13 whenever age-related information is requested. It is possible that by fraud or deception by others we may receive information given to us by, or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or else delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at editor AT prwatch.org.
+Center for Media and Democracy will make all efforts to comply with the Children's Online Privacy Protection Act of 1998 (COPPA). We do not and will not knowingly contact or collect personal information from children under 13. Our site is not intended to solicit information of any kind from children under 13, and we will develop our site with the capacity to block acceptance of information from children under 13 whenever age-related information is requested. It is possible that by fraud or deception by others we may receive information given to us by, or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or else delete the information from our servers. If you want to notify us of our receipt of information by children under 13, please do so by emailing us at editor AT prwatch.org.
 
 ## Other Security Measures
 
@@ -47,6 +47,3 @@ We reserve the right to periodically amend this privacy policy. If we make any s
 Upon request we will provide access to the information that we maintain about you. You can request this information by emailing us at the below address. Visitors can have this information corrected by completing the feedback form or visiting their password protected member profile.
 
 We work hard to ensure that your experience on our site is a positive one. If you have any questions about this privacy policy or your dealings with our site, please contact us at the address below.
-
-  
-
