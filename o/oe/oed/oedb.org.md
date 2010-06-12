@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2009-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090926230008id_/http%3A//oedb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oedb.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612220408id_/http%3A//oedb.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OEDb
 
@@ -30,3 +30,9 @@ We are not responsible for the policies of Web sites that we hyperlink to. If yo
 ### Privacy Contact Information
 
 If you have any questions, comments, or concerns about this privacy policy, please e-mail us at [contact@oedb.org](mailto:contact@oedb.org).
+
+### [Return home](https://web.archive.org/)
+
+### E-mail Newsletter
+
+Get news, features, and tips in your inbox! Enter your e-mail address to sign up for the OEDb newsletter. _We respect your[privacy](https://web.archive.org/privacy)._
