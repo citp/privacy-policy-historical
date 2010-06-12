@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2009-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090421092704id_/http%3A//www.floridajobs.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridajobs.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183100id_/http%3A//www.floridajobs.org/privacy.html) for the most accurate reproduction.*
 
 # Agency for Workforce Innovation - Office of Early Learning
 
