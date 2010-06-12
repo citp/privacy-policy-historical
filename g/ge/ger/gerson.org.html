@@ -1,777 +1,248 @@
-<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2009-07-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090708091506id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gerson.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612230326id_/http%3A//www.gerson.org/privacy.htm) for the most accurate reproduction.-->
 
-<html><head><script language="Javascript">
-		function setValue(form, fieldname, fieldvalue) {
-			eval("form." + fieldname + ".value = '" + fieldvalue + "'");
-		}
-		
-		function FormatPhone(form, fieldname) {
-			var strFieldValue;
-			strFieldValue = eval("form." + fieldname + ".value");
-			strFieldValue = FormatPhoneImp(strFieldValue);
-			eval("form." + fieldname + ".value = '" + strFieldValue + "'");
-		}	
-
-		function FormatZip(form, fieldname) {
-			var strFieldValue;
-			strFieldValue = eval("form." + fieldname + ".value");
-			strFieldValue = FormatNumberImp(strFieldValue,5);
-			eval("form." + fieldname + ".value = '" + strFieldValue + "'");
-		}
-
-		function FormatPhoneImp(InitialValue) {
-			var strInitial = InitialValue;
-			var strFinal = new String();
-			var j = 0 ;
-			var rePhone = new RegExp("[(]\d\d\d[)][ ]\d\d\d[-]\d{4}$");
-			
-			if (strInitial.length > 2) {
-				 strFinal = "(";
-			};
-			
-			// here we check for the already formatted phone number and exit if true					
-			if 	(rePhone.test(strInitial) == true) {
-				return strInitial;
-			}	
-
-			// here we begin processing the field, placing the numbers into a new phone number string
-			for (var i = 0; i < strInitial.length; ++i) {
-				if ((strInitial.charAt(i) == '0') ||
-					(strInitial.charAt(i) == '1') ||
-					(strInitial.charAt(i) == '2') ||
-					(strInitial.charAt(i) == '3') ||
-					(strInitial.charAt(i) == '4') ||
-					(strInitial.charAt(i) == '5') ||
-					(strInitial.charAt(i) == '6') ||
-					(strInitial.charAt(i) == '7') ||
-					(strInitial.charAt(i) == '8') ||
-					(strInitial.charAt(i) == '9')) {
-					j = j + 1
-					if (j == 4) {
-						strFinal = strFinal + ") ";
-					}
-
-					if (j == 7) {
-						strFinal = strFinal + "-";
-					}
-			
-					if (j < 11) {
-						strFinal = strFinal + strInitial.charAt(i);
-					}
-				}
-			}
-			return strFinal;
-		}
-		
-
-		function FormatNumberImp(strInput,nLength) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ((strInput.charAt(i) == '0') ||
-					(strInput.charAt(i) == '1') ||
-					(strInput.charAt(i) == '2') ||
-					(strInput.charAt(i) == '3') ||
-					(strInput.charAt(i) == '4') ||
-					(strInput.charAt(i) == '5') ||
-					(strInput.charAt(i) == '6') ||
-					(strInput.charAt(i) == '7') ||
-					(strInput.charAt(i) == '8') ||
-					(strInput.charAt(i) == '9'))
-				{	
-					strResult = strResult + strInput.charAt(i);
-					if (i >= nLength) return strResult;
-				}
-			}
-			return strResult;
-		}	
-		function FormatAlphaNumeric(form, fieldname) {
-			var strFieldValue;
-			strFieldValue = eval("form." + fieldname + ".value");
-			strFieldValue = FormatAlphaNumericImp(strFieldValue);
-			eval("form." + fieldname + ".value = '" + strFieldValue + "'");
-		}	
-
-		function FormatAlphaNumericImp(strInput,nLength) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ( 
-				   ((strInput.charAt(i) >= '0') && (strInput.charAt(i) <= '9')) ||
-				   ((strInput.charAt(i) >= 'A') && (strInput.charAt(i) <= 'Z')) ||
-				   ((strInput.charAt(i) >= 'a') && (strInput.charAt(i) <= 'z'))
-				)
-				{	
-					strResult = strResult + strInput.charAt(i);
-					if (i >= nLength) return strResult;
-				}
-			}
-			return strResult;
-		}			
-		function FormatAlphaNumericWithSpace(form, fieldname) {
-			var strFieldValue;
-			strFieldValue = eval("form." + fieldname + ".value");
-			strFieldValue = FormatAlphaNumericWithSpaceImp(strFieldValue);
-			eval("form." + fieldname + ".value = '" + strFieldValue + "'");
-		}	
-
-		function FormatAlphaNumericWithSpaceImp(strInput,nLength) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ( 
-				   ((strInput.charAt(i) >= '0') && (strInput.charAt(i) <= '9')) ||
-				   (strInput.charAt(i) == ' ') ||
-				   (strInput.charAt(i) == '.') ||
-				   (strInput.charAt(i) == ',') ||
-				   ((strInput.charAt(i) >= 'A') && (strInput.charAt(i) <= 'Z')) ||
-				   ((strInput.charAt(i) >= 'a') && (strInput.charAt(i) <= 'z'))
-				)
-				{	
-					strResult = strResult + strInput.charAt(i);
-					if (i >= nLength) return strResult;
-				}
-			}
-			return strResult;
-		}			
-
-		function FormatNumeric(form, fieldname) {
-			var strFieldValue;
-			strFieldValue = eval("form." + fieldname + ".value");
-			strFieldValue = FormatNumericImp(strFieldValue);
-			eval("form." + fieldname + ".value = '" + strFieldValue + "'");
-		}	
-
-		function FormatNumericImp(strInput,nLength) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ( 
-				   ((strInput.charAt(i) >= '0') && (strInput.charAt(i) <= '9'))
-				)
-				{	
-					strResult = strResult + strInput.charAt(i);
-					if (i >= nLength) return strResult;
-				}
-			}
-			return strResult;
-		}	
-
-		function RemoveNumber(strInput, max) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ((strInput.charAt(i) == '0') ||
-					(strInput.charAt(i) == '1') ||
-					(strInput.charAt(i) == '2') ||
-					(strInput.charAt(i) == '3') ||
-					(strInput.charAt(i) == '4') ||
-					(strInput.charAt(i) == '5') ||
-					(strInput.charAt(i) == '6') ||
-					(strInput.charAt(i) == '7') ||
-					(strInput.charAt(i) == '8') ||
-					(strInput.charAt(i) == '9'))
-				{	
-					strResult = strResult + strInput.charAt(i);
-				}
-			}
-					
-			if (strResult.length > 4) {
-				strResult = strResult.charAt(0) + strResult.charAt(1) + strResult.charAt(2) + strResult.charAt(3)
-			}					
-			if (strResult > max) {
-				alert("Sorry, you have requested more of an item than we have in stock.\nPlease check the inventory column and adjust your order.\nThank you.")
-				strResult = 0
-			}
-			if (strResult.length == 0) {
-				strResult = 0
-			}
-			
-			return strResult;
-		}	
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office"><head>
+<meta name="GENERATOR" content="Microsoft FrontPage 12.0">
+<meta name="ProgId" content="FrontPage.Editor.Document">
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Gerson Institute</title>
 
 
-		function RemoveNumber2(strInput, max,strOldValue) {
-			var strResult;
-			strResult = "";
-			for (var i = 0; i < strInput.length; ++i) {
-				if ((strInput.charAt(i) == '0') ||
-					(strInput.charAt(i) == '1') ||
-					(strInput.charAt(i) == '2') ||
-					(strInput.charAt(i) == '3') ||
-					(strInput.charAt(i) == '4') ||
-					(strInput.charAt(i) == '5') ||
-					(strInput.charAt(i) == '6') ||
-					(strInput.charAt(i) == '7') ||
-					(strInput.charAt(i) == '8') ||
-					(strInput.charAt(i) == '9'))
-				{	
-					strResult = strResult + strInput.charAt(i);
-				}
-			}
-					
-			if (strResult.length > 4) {
-				strResult = strResult.charAt(0) + strResult.charAt(1) + strResult.charAt(2) + strResult.charAt(3)
-			}					
-			if (strResult > max) {
-				alert("Sorry, you have requested more of an item than we have in stock.\nQuantity left is stock is " + max.toString() + ".\nThank you.")
-				strResult = strOldValue
-			}
-			if (strResult.length == 0) {
-				strResult = 0
-			}
-			
-			return strResult;
-		}			
-		function FormatQty(form,fieldname,max) {
-			var strQty;
-			strQty = eval("form." + fieldname + ".value");
-			strQty = RemoveNumber(strQty,max);
-			eval("form." + fieldname + ".value = " + strQty + "");
-		}
+<style type="text/css">
+.style2 {
+	border-collapse: collapse;
+}
+.style3 {
+	border-style: outset;
+}
+.BodyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+}
+.style4 {
+	font-size: small;
+}
+</style>
 
-		function FormatQty2(form,fieldname,max,strOldQty) {
-			var strQty
-			strQty = eval("form." + fieldname + ".value");
-			strQty = RemoveNumber2(strQty,max,strOldQty);
-			eval("form." + fieldname + ".value = " + strQty + "");
-		}
 
-		function MM_openBrWindow(theURL,winName,features) {
-		  window.open(theURL,winName,features);
-		}		
-		function pviiW3Cbg(obj, pviiColor) {
-			obj.style.backgroundColor=pviiColor
-		}
+<link rel="stylesheet" type="text/css" href="gerson.css"></head>
 
-		function removeFromCart(sku) {
-			window.open("CartDetail.asp?cmd=rm&sku=" + sku,"_parent")
-		}	
-		function CopyShippingToBilling() {
-			document.confirm.ship_first_name.value = document.confirm.first_name.value ;
-			document.confirm.ship_last_name.value = document.confirm.last_name.value ;
-			document.confirm.ship_address.value = document.confirm.address.value ;
-			document.confirm.ship_address2.value = document.confirm.address2.value ;
-			document.confirm.ship_city.value = document.confirm.city.value ;
-			document.confirm.ship_state.value = document.confirm.state.value ;
-			document.confirm.ship_zip.value = document.confirm.zip.value ;
-			document.confirm.ship_country.value = document.confirm.country.value ;
-			document.confirm.ship_phone.value = document.confirm.phone.value ;
-			document.confirm.ship_fax.value = document.confirm.fax.value ;
-			document.confirm.ship_email.value = document.confirm.email.value ;
-			document.confirm.ship_email2.value = document.confirm.email2.value ;
-		}		
 
-		function CopyCertBillingToShipping2() {
-			document.confirm.s_name.value = document.confirm.b_name.value ;
-			document.confirm.s_address.value = document.confirm.b_address.value ;
-			document.confirm.s_address2.value = document.confirm.b_address2.value ;
-			document.confirm.s_city.value = document.confirm.b_city.value ;
-			document.confirm.s_state.value = document.confirm.b_state.value ;
-			document.confirm.s_zip.value = document.confirm.b_zip.value ;
-			document.confirm.s_country.value = document.confirm.b_country.value ;
-			document.confirm.s_phone.value = document.confirm.b_phone.value ;
-		}
-		
-
-		function reload2(form) {
-			window.open("CartDetail.asp?st=" + form.st.value,"_parent")
-		}		
-
-		function reload3(form) {
-			window.open("CartDetail.asp?sh=" + form.sh.value,"_parent")
-		}		
-
-		function reload4(form) {
-			window.open("CartDetail.asp?us=" + form.us.value,"_parent")
-		}		
-
-		//To be called by onKeyUp
-		function RestrictToNumeralKey(Textbox) {
-			var Text     = Textbox.value;
-			var Length   = Text.length;
-			var LastChar = Text.charAt(Length - 1);
-			if(LastChar.search(/[0-9]/) == -1) Textbox.value = Text.substring(0, Length - 1);
-			RemoveNonNumerals(Textbox);
-		}
-
-		//To be called by onBlur
-		function RemoveNonNumerals(Textbox) {
-			Textbox.value = Textbox.value.replace(/[^0-9]/g,'');
-		}
-		
-		function ComputeCosts(price) {
-			var total = parseInt(document.confirm.qty.value) * price;
-			if (total > 0) {
-				document.confirm.SubTotal.value = Money(total);
-				document.confirm.Total.value = Money(total);
-			} else {
-				document.confirm.SubTotal.value = "$0.00"		
-				document.confirm.Total.value = "$0.00"		
-			}
-		}
-
-		function Money(Value) {
-			var V = Math.round(Value*100.);
-			var Vs= V.toString();
-			var Len = Vs.length;
-			var Rt = Vs.substr(Len-2, 2);
-			var Lf = Vs.substr(0,Len-Rt.length);
-			return "$"+Lf+"."+Rt;
-		}		
-		
-		function hideshow(which, mode)
-		{
-			if (!document.getElementById|document.all) {
-				return
-			}  else {
-				if (document.getElementById) {
-					oWhich = eval ("document.getElementById('" + which + "')")
-				} else {
-					oWhich = eval ("document.all." + which)
-				}
-			}
-			window.focus()
-			if (mode == "show")  {
-				oWhich.style.display=""
-			} else {
-				oWhich.style.display="none"
-			}
-		}
-		
-
-		function DisplayHeadCountItem(id, mode) {
-			try {
-			if (id == 1)
-				seat1.style.display = mode;			
-			else if (id == 2)
-				seat2.style.display = mode;			
-			else if (id == 3)
-				seat3.style.display = mode;			
-			else if (id == 4)
-				seat4.style.display = mode;			
-			else if (id == 5)
-				seat5.style.display = mode;			
-			else if (id == 6)
-				seat6.style.display = mode;			
-			else if (id == 7)
-				seat7.style.display = mode;			
-			else if (id == 8)
-				seat8.style.display = mode;			
-			else if (id == 9)
-				seat9.style.display = mode;			
-			else if (id == 10)
-				seat10.style.display = mode;			
-			else if (id == 11)
-				seat11.style.display = mode;			
-			else if (id == 12)
-				seat12.style.display = mode;			
-			else if (id == 13)
-				seat13.style.display = mode;			
-			else if (id == 14)
-				seat14.style.display = mode;			
-			else if (id == 15)
-				seat15.style.display = mode;			
-			else if (id == 16)
-				seat16.style.display = mode;			
-			else if (id == 17)
-				seat17.style.display = mode;			
-			else if (id == 18)
-				seat18.style.display = mode;			
-			else if (id == 19)
-				seat19.style.display = mode;			
-			else if (id == 20)
-				seat20.style.display = mode;			
-			else if (id == 21)
-				seat21.style.display = mode;			
-			else if (id == 22)
-				seat22.style.display = mode;			
-			else if (id == 23)
-				seat23.style.display = mode;			
-			else if (id == 24)
-				seat24.style.display = mode;			
-			else if (id == 25)
-				seat25.style.display = mode;			
-			else if (id == 26)
-				seat26.style.display = mode;			
-			else if (id == 27)
-				seat27.style.display = mode;			
-			else if (id == 28)
-				seat28.style.display = mode;			
-			else if (id == 29)
-				seat29.style.display = mode;			
-			else if (id == 30)
-				seat30.style.display = mode;			
-			else if (id == 31)
-				seat31.style.display = mode;			
-			else if (id == 32)
-				seat32.style.display = mode;			
-			else if (id == 33)
-				seat33.style.display = mode;			
-			else if (id == 34)
-				seat34.style.display = mode;			
-			else if (id == 35)
-				seat35.style.display = mode;			
-			else if (id == 36)
-				seat36.style.display = mode;			
-			else if (id == 37)
-				seat37.style.display = mode;			
-			else if (id == 38)
-				seat38.style.display = mode;			
-			else if (id == 39)
-				seat39.style.display = mode;			
-			else if (id == 40)
-				seat40.style.display = mode;			
-			else if (id == 41)
-				seat41.style.display = mode;			
-			else if (id == 42)
-				seat42.style.display = mode;			
-			else if (id == 43)
-				seat43.style.display = mode;			
-			else if (id == 44)
-				seat44.style.display = mode;			
-			else if (id == 45)
-				seat45.style.display = mode;			
-			else if (id == 46)
-				seat46.style.display = mode;			
-			else if (id == 47)
-				seat47.style.display = mode;			
-			else if (id == 48)
-				seat48.style.display = mode;			
-			else if (id == 49)
-				seat49.style.display = mode;			
-			else if (id == 50)
-				seat50.style.display = mode;			
-			} catch (Exception) {}
-		}
-		
-  		function UpdateHeadCount() {
-  			var MaxSeat = 50
-			var count = document.Fundraiser.HeadCount.value;
-			if (count.length > 0)
-			{
-				count = parseInt(count);
-				
-				var count2 = 1;
-				while (count2 <= count)
-				{
-					DisplayHeadCountItem(count2,"");
-					count2 = count2 + 1;				
-				}
-
-				var count3 = parseInt(count) + 1;
-				while (count3 <= MaxSeat)
-				{
-					DisplayHeadCountItem(count3,"none");
-					count3 = count3 + 1;				
-				}				
-			}
-			else 
-			{
-				//HeadCountCost.innerText  = "$0";
-				//HeadCountAttendee.style.display = "none";		
-				var count = 1;
-				while (count <= MaxSeat)
-				{
-					DisplayHeadCountItem(count,"none");
-					count = count + 1;
-				}					
-			}
-			UpdateTotalTotal();
-  		}
-
-		//To be called by onBlur
-		function RemoveNonNumerals(str) {
-			return str.replace(/[^0-9]/g,'');
-		}
-
-		function UpdateTotalTotal()
-		{
-			var headCount = 0;
-			var grandTotal = 0;
-			var donation = 0;
-			
-			try {
-				headCount = parseInt(document.Fundraiser.HeadCount.value);
-			} catch (Exception) {}
-
-			try {
-				donation = RemoveNonNumerals(document.Fundraiser.Donation.value);
-				if (donation.length > 0)
-					donation = parseInt(donation);
-				else
-					donation = 0;
-			} catch (Exception) {}
-			
-			grandTotal = donation + (1000 * headCount);
-			HeadCountCost.innerText = "$" + grandTotal;
-			GrandTotalLabel.innerText = "$" + grandTotal;
-		}
-		
-		function showhideobjects() {
-			UpdateHeadCount();
-		}
-		  		
-  		function SetTBD(form,fieldName,mode) {
-			var strFieldValue = eval(fieldName + ".value");
-			if (mode == true) {
-				if (strFieldValue == "")
-					eval(fieldName + ".value = 'tbd'");
-				else
-					eval(fieldName + ".value = '" + strFieldValue + "'");				
-			} else {
-				if (strFieldValue == "tbd")
-					eval(fieldName + ".value = ''");
-				else
-					eval(fieldName + ".value = '" + strFieldValue + "'");							
-			}
-  		}
-  		
-  		function ToggleTBD(form,seat,mode) {
-  			SetTBD(form,"form.s" + seat + "name",mode);
-  			SetTBD(form,"form.s" + seat + "email",mode);
-  			SetTBD(form,"form.s" + seat + "phone",mode);
-  			SetTBD(form,"form.s" + seat + "address1",mode);
-  			SetTBD(form,"form.s" + seat + "address2",mode);
-  			SetTBD(form,"form.s" + seat + "city",mode);
-  			SetTBD(form,"form.s" + seat + "state",mode);
-  			SetTBD(form,"form.s" + seat + "zip",mode);
-  		}
-  		
-		function ToggleHeadTDB(form)
-		{
-			var mode = false;
-			if (document.Fundraiser.chkHeadCount.checked)
-				mode = true;
-				
-			for (var i=1;i<10;i++)
-				ToggleTBD(form,i,mode);
-		}
-
-		//To be called by onBlur
-		function RemoveNonNumerals(str) {
-			return str.replace(/[^0-9]/g,'');
-		}
-						
-</script>
+<body bgcolor="">
 
 <script type="text/javascript">
-_uacct = "UA-2210556-1";
-urchinTracker();
+
+//HV Menu- by Ger Versluis (http://www.burmees.nl/)
+//Submitted to Dynamic Drive (http://www.dynamicdrive.com)
+//Visit http://www.dynamicdrive.com for this script and more
+
+function Go(){return}
+
 </script>
+<script type="text/javascript" src="exmplmenu_var.js"></script>
+<script type="text/javascript" src="menu_com.js"></script>
+<noscript>Your browser does not support script</noscript>
 
 
-<title>The Gerson Institute - Alternative Cancer Treatment </title>
-<meta name="title" content="The Gerson Institute is a non-profit organization, established in 1977. As a public benefit agency we are dedicated to healing and preventing chronic and degenerative diseases based on the vision, philosophy and successful work of Max Gerson, M.D. We pursue our mission by offering a range of programs and resources designed to provide current, accurate information to people who are considering, and healing with the Gerson Therapy.">
-<meta name="description" content="The Gerson Institute is a non-profit organization, established in 1977. As a public benefit agency we are dedicated to healing and preventing chronic and degenerative diseases based on the vision, philosophy and successful work of Max Gerson, M.D. We pursue our mission by offering a range of programs and resources designed to provide current, accurate information to people who are considering, and healing with the Gerson Therapy.">
-<meta name="keywords" content="Gerson" therapy,="" gerson="" clinic,="" clinics,="" max="" gerson,="" institute,="" dr.="" cancer="" therapies,="" natural="" healing,="" medicine,="" treatments,="" alternative="" treatment,="" charlotte="" detoxification,="" juicing,="" coffee="" enemas,="" cancer,="" prevention="">
-<meta name="language" content="English">
-<meta name="author" content="GSC">
-<meta name="copyright" content="2005">
-<meta name="GoogleBot" content="index, follow">
-<meta name="robots" content="INDEX, FOLLOW">
-<meta name="revisit-after" content="1 days">
-<meta name="document-class" content="Living Document">
-<meta name="document-classification" content="Health and Fitness">
-<meta name="document-rights" content="Copyrighted Work">
-<meta name="document-type" content="Public">
-<meta name="document-rating" content="Safe for Kids">
-<meta name="document-distribution" content="Global">
-
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link href="Library/Master.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
-
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-//-->
-</script>
-<link rel="stylesheet" href="Library/body.css" type="text/css">
-</head>
-<body leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" onload="MM_preloadImages('images/btn_about_on.gif','images/btn_therapy_on.gif','images/bnt_medical_on.gif','images/btn_education_on.gif','images/btn_membership_on.gif','images/btn_store_on.gif')">
-<table width="799" border="0" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
-  <tbody><tr>
-    <td width="130"><a href="default.asp"><img src="images/logo_top.gif" width="130" height="84" border="0"></a></td>
-    <td width="669" valign="bottom"><table width="669" border="0" cellspacing="0" cellpadding="0">
+  <center>
+  <table id="bannerhead" style="height:168px">
+    <tbody><tr>
+      <td width="491">
+      <img border="0" src="images/logo.png" align="left" width="144" height="96"><span style="font-weight: 400"> </span>
+      
+      <p>&nbsp;</p>
+      <p><span style="font-weight: 400" class="style4">
+      
+      <font face="Times New Roman" color="#006600">
+      Healing &amp; Preventing Disease the Natural Way</font></span>
+      
+      </p></td>
+      <td width="309">
+      <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber2" height="113" align="right">
         <tbody><tr>
-          <td width="334">&nbsp;</td>
-          <td width="335" align="right" class="DateFont">7/8/2009&nbsp;</td>
-        </tr>
-      </tbody></table></td>
-  </tr>
-</tbody></table>
-<table width="799" border="0" cellpadding="0" cellspacing="0" background="images/back_top_nav.gif">
-  <tbody><tr> 
-    <td><a href="default.asp"><img src="images/logo_bottom.gif" width="216" height="20" border="0"></a></td>
-    <td width="73"><a href="about/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about','','images/btn_about_on.gif',1)"><img src="images/btn_about_off.gif" alt="About The Gerson Institute" name="about" width="73" height="20" border="0"></a></td>
-    <td width="111"><a href="g_therapy/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('therapy','','images/btn_therapy_on.gif',1)"><img src="images/btn_therapy_off.gif" alt="Gerson Therapy" name="therapy" width="111" height="20" border="0"></a></td>
-    <td width="145"><a href="med_professionals/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('medical','','images/bnt_medical_on.gif',1)"><img src="images/bnt_medical_off.gif" alt="Gerson Medical Professionals" name="medical" width="145" height="20" border="0"></a></td>
-    <td width="77"><a href="education/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('education','','images/btn_education_on.gif',1)"><img src="images/btn_education_off.gif" alt="Education" name="education" width="77" height="20" border="0"></a></td>
-    <td width="89"><a href="membership/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('membership','','images/btn_membership_on.gif',1)"><img src="images/btn_membership_off.gif" alt="Membership" name="membership" width="89" height="20" border="0"></a></td>
-    <td width="51"><a href="store/default.asp" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('store','','images/btn_store_on.gif',1)"><img src="images/btn_store_off.gif" alt="Online Store" name="store" width="51" height="20" border="0"></a></td>
-    <td width="37">&nbsp;</td>
-  </tr>
-</tbody></table>
-<table width="799" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr> 
-    <td colspan="5"><img src="images/spacer.gif" width="700" height="30"><a href="store/CartDetail.asp"><img src="images/shopcart.gif" border="0" width="90" height="26" alt="View Cart"></a></td>
-  </tr>
-  <tr> 
-    <td width="8"><img src="images/spacer.gif" width="8" height="8"></td>
-    <td width="205" valign="top">
-      <table width="205" border="0" cellpadding="0" cellspacing="0" background="images/back_quick_links_table.gif">
-        <tbody><tr> 
-          <td><img src="images/back_quick_links_table_top.gif" width="205" height="21"></td>
-        </tr>
-        <tr> 
-          <td> 
-            <table width="100%" border="0" cellspacing="0" cellpadding="15">
-              <tbody><tr> 
-                <td><a href="donation.asp" class="QuickLinkText"><img src="images/arrow_right.gif" width="9" height="9" border="0" align="absbottom">&nbsp;Click 
-                  here to <br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make a donation ...</a></td>
-              </tr>
-            </tbody></table>
+
+<!-- Start Top Navigation -->
+      
+<td width="100%" height="61" valign="top" ;="" align="right">
+
+<div id="gitoplinks_sm" style="float:right;">
+	   <p style="margin-top: 0; margin-bottom: 0">
+	   <b>
+	   <a href="faq.htm"><font size="1" color="#FFFFFF">FAQs</font></a><font size="1"><font color="#FFFFFF"> |
+       </font>
+	   <a href="contactus.htm"><font color="#FFFFFF">Contact us</font></a><font color="#FFFFFF"> |
+       </font>
+       <a href="sitemap.htm"><font color="#FFFFFF">Site Map</font></a></font><font size="1" color="#FFFFFF">
+       </font></b>
+</p></div>
+
           </td>
-        </tr>
-        <tr> 
-          <td><img src="images/back_quick_link_divider.gif" width="205" height="1"></td>
-        </tr>
-        <tr> 
-          <td>
-            <table width="100%" border="0" cellspacing="0" cellpadding="15">
-              <tbody><tr> 
-                <td><a href="requestbrochure.asp" class="QuickLinkText"><img src="images/arrow_right.gif" width="9" height="9" border="0" align="absbottom"> 
-                  Click here to <br>
-                  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; request a brochure ...</a></td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td><img src="images/back_quick_link_divider.gif" width="205" height="1"></td>
-        </tr>
-        <tr> 
-          <td>
-            <table width="100%" border="0" cellspacing="0" cellpadding="15">
-              <tbody><tr> 
-                <td>&nbsp;</td>
-              </tr>
-            </tbody></table>
-          </td>
-        </tr>
-        <tr> 
-          <td><img src="images/back_quick_links_table_bott.gif" width="205" height="18"></td>
-        </tr>
-      </tbody></table>
-      <img src="images/spacer.gif" width="205" height="9"> 
-      <table width="205" border="0" cellpadding="0" cellspacing="0" background="images/back_quick_links_table.gif" class="BodyText">
-        <tbody><tr> 
-          <td><img src="images/back_events_table_top.gif" width="205" height="21"></td>
-        </tr>
-        <tr> 
-          <td> 
-             
-          </td>
-        </tr>        
-      </tbody></table>
-    </td>
-    <td width="9"><img src="images/spacer.gif" width="9" height="8"></td>
-    <td width="564" valign="top"><table width="564" border="0" cellpadding="0" cellspacing="0" background="images/content_middle.gif">
-        <tbody><tr>
-          <td width="564"><img src="images/content_top.gif" width="564" height="4"></td>
-        </tr>
-        <tr> 
-          <td><table width="564" border="0" cellspacing="0" cellpadding="0">
-              <tbody><tr> 
-                <td width="13"><img src="images/spacer.gif" width="13" height="10"></td>
-                <td> 
-                  <p><img src="images/header_privacy.gif" width="246" height="48"></p>
-                  <table width="500" border="0" cellspacing="0" cellpadding="0" align="center" class="BodyText">
-                    <tbody><tr> 
-                      <td><p>This privacy notice discloses the privacy practices for (www.gerson.org). This privacy notice applies solely to information collected by this web site. It will notify you of the following: </p>
-                        <ul>
-                          <li>What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared. </li>
-                          <li>What choices are available to you regarding the use of your data. </li>
-                          <li>The security procedures in place to protect the misuse of your information. </li>
-                          <li>How you can correct any inaccuracies in the information. </li>
-                        </ul>
-                        <p><strong>Information Collection, Use, and Sharing</strong><br>
-  We are the sole owners of the information collected on this site. We only have access to/collect information that you voluntarily give us via email or other direct contact from you. We will not sell or rent this information to anyone. </p>
-                        <p>We will use your information to respond to you, regarding the reason you contacted us. We will not share your information with any third party outside of our organization, other than as necessary to fulfill your request, e.g. to ship an order. </p>
-                        <p>Unless you ask us not to, we may contact you via email in the future to tell you about specials, new products or services, or changes to this privacy policy. </p>
-                        <p><strong>Your Access to and Control Over Information</strong><br>
-  You may opt out of any future contacts from us at any time. You can do the following at any time by contacting us via the email address or phone number given on our website: </p>
-                        <ul>
-                          <li>See what data we have about you, if any. </li>
-                          <li>Change/correct any data we have about you. </li>
-                          <li>Have us delete any data we have about you. </li>
-                          <li>Express any concern you have about our use of your data. </li>
-                        </ul>
-                        <p><strong>Security</strong><br>
-  We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline. </p>
-                        <p>Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page. </p>
-                        <p>While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. </p>
-                        <strong>If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619-685-5353 or via email&nbsp;&nbsp; <a href="mailto:info@gerson.org">info@gerson.org</a>.</strong> </td>
-                    </tr>
-                  </tbody></table>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p>
-                  <p>&nbsp;</p></td>
-              </tr>
-            </tbody></table></td>
+          
+<!-- End Top Navigation -->
+          
         </tr>
         <tr>
-          <td><img src="images/content_bottom.gif" width="564" height="4"></td>
+        
+
+    </tr>
+  </tbody></table>
+
+          </td>
         </tr>
-      </tbody></table></td>
-    <td><img src="images/spacer.gif" width="13" height="8"></td>
-  </tr>
-</tbody></table>
-<table width="799" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td>&nbsp;</td>
-  </tr>
-</tbody></table>
+      </tbody></table>
 
-<table width="799" border="0" cellpadding="0" cellspacing="0" class="Footer">
-  <tbody><tr> 
-    <td> 
-      <div align="center" style="font-size:12px;">
-       Gerson Institute/Cancer Curing Society<br>
-        1572 Second Avenue, San Diego,   CA 92101<br>
-          (619)-685-5353 / (888)-443-7766 (US only)  |   Fax (619)-685-5363<br>
+  </center>
 
-      (800) 838-2256 (US and Canada)   <br>
-		The trademark/service mark Gerson® is registered to the Gerson Institute. © 1992-2003 Gerson Institute.<br>
-        <a href="contactus.asp">Contact Us</a> | <a href="privacy.asp">Privacy 
-        Statement</a> | <a href="https://www.gerson.org/donation.asp">Make a Donation</a><br>
-      </div>
-    </td>
-  </tr>
+<div align="center">
+  <center>
+  
+<table style="width: 800px" class="style1"> 
+  <tbody><tr><td> 
+	<div id="MenuPos" style="position:relative; width:110px; height:20px;"></div> 
+  </td></tr> 
 </tbody></table>
 
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="5" cellspacing="2" width="800" id="AutoNumber4" bgcolor="#FFFFFF" class="style2">
+    <tbody><tr>
+      <td width="200" valign="top" class="style3">
+      
+<!--Start here for Left links-->
+<div id="spotlight_yellow">
+
+<font size="2">Quick Links:</font></div>  
+<div id="spotlight_body">
+<ul class="blue_links">   
+<li><a href="requestbrochure.htm">Request a Brochure</a></li>
+<li><a href="Programs/findgersonclinic.htm">Admission to a Gerson Clinic</a></li>
+<li><a href="store/">Visit our Store</a></li>
+<li><a href="Programs/approved_referral.htm">Find a Gerson doctor or caregiver</a></li>
+<li><a href="GersonTherapy/other_resources.htm">Other Resources</a></li>
+</ul>
+</div>
+
+<!--End here for Left links-->
+
+    
+</td>
+      <td width="1">&nbsp;</td>
+      <td valign="top">
+<table cellspacing="0" cellpadding="0" width="564" border="0">
+	<tbody><tr>
+		<td width="13"></td>
+		<td>
+		<p><img height="48" src="images/header_privacy.gif" width="246"></p>
+		<table class="BodyText" cellspacing="0" cellpadding="0" width="500" align="center" border="0">
+			<tbody><tr>
+				<td>
+				<p>This privacy notice discloses the privacy practices for 
+				(www.gerson.org). This privacy notice applies solely to 
+				information collected by this web site. It will notify you of 
+				the following: </p>
+				<ul>
+					<li>What personally identifiable information is collected 
+					from you through the web site, how it is used and with whom 
+					it may be shared. </li>
+					<li>What choices are available to you regarding the use of 
+					your data. </li>
+					<li>The security procedures in place to protect the misuse 
+					of your information. </li>
+					<li>How you can correct any inaccuracies in the information.
+					</li>
+				</ul>
+				<p><strong>Information Collection, Use, and Sharing</strong><br>
+				We are the sole owners of the information collected on this 
+				site. We only have access to/collect information that you 
+				voluntarily give us via email or other direct contact from you. 
+				We will not sell or rent this information to anyone. </p>
+				<p>We will use your information to respond to you, regarding the 
+				reason you contacted us. We will not share your information with 
+				any third party outside of our organization, other than as 
+				necessary to fulfill your request, e.g. to ship an order. </p>
+				<p>Unless you ask us not to, we may contact you via email in the 
+				future to tell you about specials, new products or services, or 
+				changes to this privacy policy. </p>
+				<p><strong>Your Access to and Control Over Information</strong><br>
+				You may opt out of any future contacts from us at any time. You 
+				can do the following at any time by contacting us via the email 
+				address or phone number given on our website: </p>
+				<ul>
+					<li>See what data we have about you, if any. </li>
+					<li>Change/correct any data we have about you. </li>
+					<li>Have us delete any data we have about you. </li>
+					<li>Express any concern you have about our use of your data.
+					</li>
+				</ul>
+				<p><strong>Security</strong><br>
+				We take precautions to protect your information. When you submit 
+				sensitive information via the website, your information is 
+				protected both online and offline. </p>
+				<p>Wherever we collect sensitive information (such as credit 
+				card data), that information is encrypted and transmitted to us 
+				in a secure way. You can verify this by looking for a closed 
+				lock icon at the bottom of your web browser, or looking for 
+				"https" at the beginning of the address of the web page. </p>
+				<p>While we use encryption to protect sensitive information 
+				transmitted online, we also protect your information offline. 
+				Only employees who need the information to perform a specific 
+				job (for example, billing or customer service) are granted 
+				access to personally identifiable information. The 
+				computers/servers in which we store personally identifiable 
+				information are kept in a secure environment. </p>
+				<strong>If you feel that we are not abiding by this privacy 
+				policy, you should contact us immediately via telephone at 
+				619-685-5353 or via email&nbsp;&nbsp; <a href="mailto:info@gerson.org">
+				info@gerson.org</a>.</strong> </td>
+			</tr>
+		</tbody></table>
+		</td>
+	</tr>
+</tbody></table>
+</td>
+    </tr>
+  </tbody></table>
+  </center>
+</div>
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="800" id="AutoNumber5">
+    <tbody><tr>
+      <td width="100%">&nbsp;</td>
+    </tr>
+    <tr>
+      <td width="100%" background="images/back_footer.gif" height="110">
+<p align="center"><font size="1">Gerson Institute/Cancer 
+Curing Society<br>
+1572 Second Avenue, San Diego, CA 92101<br>
+(619)-685-5353 / (888)-443-7766 (US only) | Fax (619)-685-5363<br>
+(800) 838-2256 (US and Canada) <br>
+<font face="Garamond">The trademark/service mark Gerson® is registered to the 
+Gerson Institute. © 1992-2003 Gerson Institute.<br>
+</font>
+<a href="index.htm">Home</a> |
+<a href="contactus.htm">Contact Us</a> |
+<a href="privacy.htm">Privacy Statement</a> | </font>
+<a href="/membership/donation.htm"><font size="1">Make a Donation
+</font></a></p></td>
+    </tr>
+  </tbody></table>
+  </center>
+</div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-10988815-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
-</body></html>
+
+<div style="position: absolute; visibility: visible; width: 795px; height: 22px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 101; top: 181px; left: 286px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 107px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Home</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 107px; height: 18px; padding-left: 3px; padding-top: 2px; left: 112px; top: 1px;">About Us<img src="../tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 13px; left: 98px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 107px; height: 18px; padding-left: 3px; padding-top: 2px; left: 223px; top: 1px;">Programs<img src="../tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 13px; left: 98px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 119px; height: 18px; padding-left: 3px; padding-top: 2px; left: 334px; top: 1px;">Gerson Therapy<img src="../tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 13px; left: 110px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 112px; height: 18px; padding-left: 3px; padding-top: 2px; left: 457px; top: 1px;">Ways to Give<img src="../tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 13px; left: 103px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 107px; height: 18px; padding-left: 3px; padding-top: 2px; left: 573px; top: 1px;">Get Involved<img src="../tridown.gif" style="position: absolute; width: 10px; height: 5px; top: 13px; left: 98px;"></div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: white; background-color: rgb(105, 132, 63); text-align: left; width: 107px; height: 18px; padding-left: 3px; padding-top: 2px; left: 684px; top: 1px;">Store</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(195, 224, 244); width: 152px; height: 64px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Learn More</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Mission/Vision</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Newsletters</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(195, 224, 244); width: 202px; height: 147px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Telephone Information</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Information and Referral</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Gerson Basics Workshop</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Caregiver Certification</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 85px;">Health Practitioner Training</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 38px; padding-left: 3px; padding-top: 2px; left: 1px; top: 106px;">Charlotte Gerson Health Restoration Center</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(195, 224, 244); width: 202px; height: 158px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">About Gerson Therapy</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Get Started</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 28px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Find Gerson Clinic, Doctor and more..</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 74px;">Gerson Supplies</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 95px;">Max Gerson</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 116px;">Case Studies</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 197px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 137px;">Scientific Studies</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(195, 224, 244); width: 152px; height: 85px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Make a Donation</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Planned Giving Options</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 43px;">Membership Info</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 64px;">Become a Member</div></div><div style="position: absolute; visibility: hidden; background-color: rgb(195, 224, 244); width: 152px; height: 43px; font-family: arial, &quot;comic sans ms&quot;, technical; font-weight: normal; font-style: normal; font-size: 9pt; z-index: 102; top: 0px; left: 0px;"><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 1px;">Join our Email List</div><div style="position: absolute; visibility: inherit; overflow: hidden; cursor: default; color: green; background-color: rgb(207, 221, 176); text-align: left; width: 147px; height: 18px; padding-left: 3px; padding-top: 2px; left: 1px; top: 22px;">Employment Opportunities</div></div></body></html>
