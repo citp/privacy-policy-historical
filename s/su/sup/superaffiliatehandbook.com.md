@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superaffiliatehandbook.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207013804id_/http%3A//superaffiliatehandbook.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superaffiliatehandbook.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612051205id_/http%3A//www.superaffiliatehandbook.com/privacy.html) for the most accurate reproduction.*
 
 # The Super Affiliate Handbook
 
@@ -85,4 +85,4 @@ SuperAffiliateHandbook.com will use commercially reasonable efforts to promptly 
 * * *
 
 WebVista Incorporated  
-[**Contact Rosalind**](http://netprofitstoday.com/support)
+[**Contact Rosalind**](http://rosalindgardner.info/)
