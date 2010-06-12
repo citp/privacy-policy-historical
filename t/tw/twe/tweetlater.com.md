@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tweetlater.com privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804192254id_/http%3A//www.tweetlater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweetlater.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612145639id_/http%3A//www.socialoomph.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy » TweetLater.com
+# Privacy Policy » SocialOomph.com
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -26,7 +26,7 @@ Most browsers allow you to refuse to accept cookies. (For example, in Internet E
 
 ### Using Your Personal Data
 
-Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website. 
+Personal data submitted on this website will be used for the purposes specified in this privacy policy or in relevant parts of the website.
 
 In addition to the uses identified elsewhere in this privacy policy, we may use your personal information to:
 
@@ -36,9 +36,17 @@ In addition to the uses identified elsewhere in this privacy policy, we may use 
 
 (c) send to you marketing communications relating to our business or the businesses of carefully-selected third parties which we think may be of interest to you by post or, where you have specifically agreed to this, by email or similar technology (you can inform us at any time if you no longer require marketing communications to be sent by using the opt-out link(s) that are included in all our email communications with you);
 
-(d) provide other companies with statistical information about our users � but this information will not be used to identify any individual user.
+(d) provide other companies with statistical information about our users - but this information will not be used to identify any individual user.
 
 We will not without your express consent provide your personal information to any third parties for the purpose of direct marketing.
+
+### Facebook Privacy
+
+When you add your Facebook account to our application, we store only the unique identifier (UID) of your account. In addition, we access your first name, last name, and profile picture as required for display purposes on your logged-in member pages, but these data elements are not stored in our system.
+
+When you revoke access to your Facebook account from our system, our application immediately ceases to make calls to Facebook on your account.
+
+The only purposes for which we access your Facebook account is for the retrieval of the data elements listed above, and for publishing the updates that you schedule for your Facebook account.
 
 ### Other Disclosures
 
