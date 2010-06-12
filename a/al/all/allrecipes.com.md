@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625034450id_/http%3A//allrecipes.com/Help/aboutus/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allrecipes.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612181851id_/http%3A//allrecipes.com/Help/aboutus/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -118,21 +118,21 @@ We collect, process, and maintain your information in the United States, where p
 
 ### Correcting/Updating Personal Information
 
-We give you the opportunity to opt-out of receiving commercial e-mail from us by following the opt-out instructions provided in the message. Even if you opt-out in this manner, however, you will still receive account-related messages from us. To get placed on our “DO NOT E-MAIL” list, send a request to [CustomerRelations@allrecipes.com](https://web.archive.org/web/20090625034450id_/http%3A//allrecipes.com/Help/Feedback.aspx). If your e-mail address is added to the “DO NOT E-MAIL” list, you will not receive any newsletters or other opt-in e-mail messages. Please note, however, that your e-mail address being placed on the “DO NOT E-MAIL” list does not prevent you from receiving “send-to-a-friend” e-mail messages, or email messages from third parties from which you requested information, products, or services from during or immediately after registration. To opt-out from messages from these third parties, or from any other communications that you receive directly from third parties, you must contact them directly in order to opt-out.
+We give you the opportunity to opt-out of receiving commercial e-mail from us by following the opt-out instructions provided in the message. Even if you opt-out in this manner, however, you will still receive account-related messages from us. To get placed on our “DO NOT E-MAIL” list, send a request to [CustomerRelations@allrecipes.com](https://web.archive.org/web/20100612181851id_/http%3A//allrecipes.com/Help/Feedback.aspx). If your e-mail address is added to the “DO NOT E-MAIL” list, you will not receive any newsletters or other opt-in e-mail messages. Please note, however, that your e-mail address being placed on the “DO NOT E-MAIL” list does not prevent you from receiving “send-to-a-friend” e-mail messages, or email messages from third parties from which you requested information, products, or services from during or immediately after registration. To opt-out from messages from these third parties, or from any other communications that you receive directly from third parties, you must contact them directly in order to opt-out.
 
 ### California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If, having provided your consent, you would like to revoke your consent to future disclosure of your personal information to third parties, send a request to [CustomerRelations@allrecipes.com](mailto:CustomerRelations@allrecipes.com) with “California Opt-Out” in the subject line. Please note that this opt-out will not prevent the use of information that has already been disclosed to third parties with your consent and you should contact them directly to opt-out from such communications. If you would like more information with respect to your privacy rights under California law, you may contact us at [CustomerRelations@allrecipes.com](https://web.archive.org/web/20090625034450id_/http%3A//allrecipes.com/Help/Feedback.aspx). Please indicate such a request by placing “California Disclosure Information” in the subject line.
+California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding disclosure of personal information to third parties for their direct marketing purposes. We do not provide your personal information to any third party for their direct marketing purposes without your consent. If, having provided your consent, you would like to revoke your consent to future disclosure of your personal information to third parties, send a request to [CustomerRelations@allrecipes.com](mailto:CustomerRelations@allrecipes.com) with “California Opt-Out” in the subject line. Please note that this opt-out will not prevent the use of information that has already been disclosed to third parties with your consent and you should contact them directly to opt-out from such communications. If you would like more information with respect to your privacy rights under California law, you may contact us at [CustomerRelations@allrecipes.com](https://web.archive.org/web/20100612181851id_/http%3A//allrecipes.com/Help/Feedback.aspx). Please indicate such a request by placing “California Disclosure Information” in the subject line.
 
 ### Contact Us
 
 If you have any questions or comments about this Privacy Policy, the privacy practices of this Web site, or your dealings with Allrecipes.com, please contact us at [CustomerRelations@allrecipes.com](mailto:CustomerRelations@allrecipes.com) or use the following address phone or fax number: 
 
 **Allrecipes.com**  
-3317 Third Ave. S  
-Suite D  
+413 Pine Street  
+Suite 500  
 Seattle, WA  
-98134 
+98101 
 
 Phone: 206.292.3990  
 Fax: 206.292.1793
