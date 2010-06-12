@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usscouts.org privacy policy that was archived on 2009-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090204164113id_/http%3A//usscouts.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usscouts.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612205809id_/http%3A//usscouts.org/privacypolicy.asp) for the most accurate reproduction.*
 
 # USSSP: Privacy Policy
 
@@ -149,6 +149,12 @@ Mozilla 3.0/www.altavista.digital.com
 **www.altavista.digital.com** \-- this indicates the last site the person visited, which indicates how people find this site 
 
 Requests for other types of documents use similar information. No other user-identifying information is collected. 
+
+**Advertising**   
+
+
+Some of our subsites use advertising in association with Amazon.com and Google AdSense. Users are advised to consult with privacy policies on the Amazon and Google sites to become aware of advertiser practices. Google AdSense has recently adopted Internet-based advertising that allows advertisers to show ads based on a user's previous interactions with them, such as visits to an advertiser website and also to reach users based on their interests through tracking of pages in the Google content network.   
+
 
 **Orders**   
 
