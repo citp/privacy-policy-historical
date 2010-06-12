@@ -1,6 +1,36 @@
-> *The following text is extracted and transformed from the paidthefastest.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206131805id_/http%3A//www.paidthefastest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidthefastest.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612044008id_/http%3A//www.paidthefastest.com/privacy) for the most accurate reproduction.*
 
-# Get Paid in 24 Hours - PaidTheFastest.com
+# Instant PayPal Payment to PayPal | PaidTheFastest.com
+
+  |  | 
+
+  Shoutbox  
+  
+---  
+  
+  Jackpot  
+  
+| **Balance:** | 
+
+$36.10  
+  
+---|---  
+  
+Ends Jun 30, 2010 12:00 AM  
+  
+[](https://web.archive.org/members/pts/jackpot/index.php)  
+  
+| 
+
+  Spend Points  
+  
+---  
+  
+Click the arrow to view all of the point categories.  
+  
+[](javascript:doMenu3\('main4'\);)  
+  
+  | 
 
 PaidTheFastest CAN MAKE CHANGES TO THIS PRIVACY POLICY AT ANY TIME WITH OR WITHOUT NOTICE
 
@@ -46,3 +76,34 @@ Cookies
 
 Cookies used by PaidTheFastest can only be seen by PaidTheFastest, and cannot in any way cause harm to your computer. Because we cannot properly track member actions without the use of Cookies (to ensure members are credited for completing Offers, referring friends, etc), our Web Site will not function properly for members who have disabled Cookies.  
 
+
+|   | 
+
+|   
+---  
+  
+| 
+
+  Last Approved  
+  
+---  
+  
+[](javascript:doMenu2\('main1'\);)  
+  
+| 
+
+  Newly Added  
+  
+---  
+  
+[](javascript:doMenu2\('main2'\);)  
+  
+| 
+
+  Account Stats  
+  
+---  
+  
+[](javascript:doMenu2\('main3'\);)  
+  
+ 
