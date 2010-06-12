@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2009-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091025154223id_/http%3A//farespotter.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the farespotter.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612074533id_/http%3A//www.farespotter.net/l1/privacy-policy.html) for the most accurate reproduction.*
 
 # FareSpotter.net :: Privacy Policy
 
@@ -6,7 +6,7 @@
 
 Last updated February 6, 2009
 
-FareSpotter LLC (the “Company”) has created this privacy statement in order to demonstrate our commitment to your privacy. The following Privacy Policy discloses our information gathering and dissemination practices for FareSpotter.com (the “Site”). This Privacy Policy governs your use of the Site and any content, products or services made available from or through the Site, including any sub domains thereof. By visiting the Site and requesting information, products or services offered on or through the Site, you agree to abide by the terms of this Privacy Policy, as they may be amended from time to time. Our Privacy Policy may change from time to time and the Company reserves the right to change or modify our Privacy Policy at any time with or without notice by posting changes to the Site. Please check back frequently for updates as it is your sole responsibility to be aware of changes. 
+FareSpotter LLC (the “Company”) has created this privacy statement in order to demonstrate our commitment to your privacy. The following Privacy Policy discloses our information gathering and dissemination practices for FareSpotter.net (the “Site”). This Privacy Policy governs your use of the Site and any content, products or services made available from or through the Site, including any sub domains thereof. By visiting the Site and requesting information, products or services offered on or through the Site, you agree to abide by the terms of this Privacy Policy, as they may be amended from time to time. Our Privacy Policy may change from time to time and the Company reserves the right to change or modify our Privacy Policy at any time with or without notice by posting changes to the Site. Please check back frequently for updates as it is your sole responsibility to be aware of changes. 
 
 ### IP Addresses
 
@@ -28,7 +28,9 @@ Most web browsers provide users the ability to limit the use of cookies by allow
 
 ### Emails and Unsubscribe Policy
 
-If you signed up for the Company's email newsletter, you were required to submit to us your email address and home airport. We will use this information to send you our newsletter, which may include offers or promotions from us or third parties. We will not sell or share your email address or home airport information with any third parties. To unsubscribe from our newsletter, please send an email to [unsubscribe@fareloop.com](mailto:unsubscribe@fareloop.com) from the email address that you used to sign up for the newsletter.
+If you signed up for the Company's email newsletter, you were required to submit to us your email address and home airport. We will use this information to send you our newsletter, which may include offers or promotions from us or third parties. We will not sell or share your email address or home airport information with any third parties. To unsubscribe from our newsletter, please [click here](http://www.farespotter.net/unsubscribe.html).
+
+In the future, in order to customize your experience with our email newsletters, we may receive a confirmation when you open email from us, if your computer supports such capabilities. Clicking on a link in our newsletters may also be tracked on a per user basis to allow us to present content, which closely matches your interests. Demographic and profile data (such as state, zip code, age, or gender) may be used to customize your experience at our site or in our email newsletters, showing you content and advertising that may best suit your needs. This information is shared with advertisers and other third parties on an aggregate basis only. Individual user click behavior is never shared with advertisers and partners.
 
 ### Data Sharing
 
@@ -56,4 +58,4 @@ Though we make every effort to preserve your privacy we may need to disclose per
 
 ### Contact
 
-If you have any questions or concerns over the Privacy Policy, please feel free to contact [privacy@fareloop.com](mailto:privacy@fareloop.com).
+If you have any questions or concerns over the Privacy Policy, please feel free to contact [privacy@farespotter.net](mailto:privacy@farespotter.net).
