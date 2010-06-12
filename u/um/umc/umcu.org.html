@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2009-09-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090917133038id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the umcu.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612210414id_/http%3A//umcu.org/about/privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <!-------------	META DATA ------------->
@@ -68,6 +68,7 @@ do	{
           <ul>
             <!--Checking Links -->
             <li><a href="/checking/index.html">Compare Checking Accounts</a></li>
+            <li><a href="/checking/businesscheckingaccount.html">Business Checking Accounts</a></li>
             <li><a href="/checking/switchkit.html">Switch Kit</a></li>
             <li><a href="/checking/visacheckcard/index.html">Visa Check Card</a></li>
             <li><a href="/rates/ratesheet.html#savings">Rates &amp; Fees</a></li>
@@ -86,6 +87,7 @@ do	{
           <ul>
             <!--Savings Links -->
 			<li><a href="/savings/savings.html">Regular Savings</a></li>
+			<li><a href="/savings/businessaccountsaving.html">Business Savings</a></li>
 			<li><a href="/savings/moneymarket.html">Money Market Savings</a></li>
 			<li><a href="/savings/termsave.html">Term Savings Accounts</a></li>
 			<li><a href="/savings/IRAs.html">IRAs</a></li>
@@ -173,7 +175,7 @@ do	{
             <li><a href="/about/privacypolicy.html">Privacy Policy</a></li>
             <li><a href="/about/communityinvolvement.html">Community Involvement</a></li>
             <li><a href="/about/newshighlights.html">News</a></li>
-            <li><a href="/about/contactus.html">Contact Us</a></li></ul>
+            <li><a target="_blank" href="https://secure.umcu.org/infodesk/comm.html">Contact Us</a></li></ul>
         </div>
       </div>
     </div>
@@ -343,7 +345,6 @@ if(node_level_1 == "membership")	{
 	
 		document.write('<ul>');
 		document.write('<li ');if(node_level_3=="student_members_faq")document.write('class="nav2tab"');document.write('><a href="/membership/students/faq.html">Student Members FAQ</a></li>');
-		document.write('<li ');if(node_level_3=="tips_for_students")document.write('class="nav2tab"');document.write('><a href="/membership/students/tips.html">Tips for Students</a></li>');		
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/membership/students/index.html">Student Members</a></li>'); // draw inactive
 	
@@ -385,6 +386,15 @@ if(node_level_1 == "checking")	{
 	
 	// draw expanded
 	
+	if(node_level_2 == "business_checking")	{
+		document.write('<li>')
+		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
+		document.write('<a href="/checking/businesscheckingaccount.html">Business Checking</a></li>');
+		
+	} else 	document.write('<li><a href="/checking/businesscheckingaccount.html">Business Checking</a></li>');	// draw inactive
+	
+	// draw expanded
+
 	if(node_level_2 == "switch_kit")	{
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
@@ -415,6 +425,13 @@ if(node_level_1 == "checking")	{
 		document.write('<a href="/rates/ratesheet.html">Rates &amp; Fees</a></li>');
 		
 		document.write('<ul>');
+		document.write('<li ');if(node_level_3=="savingsrates")document.write('class="nav2tab"');document.write('><a href="/rates/savingsrates.html">Savings</a></li>');
+		document.write('<li ');if(node_level_3=="tsairarates")document.write('class="nav2tab"');document.write('><a href="/rates/tsairarates.html">Term Savings & IRAs</a></li>');
+		document.write('<li ');if(node_level_3=="checkingrates")document.write('class="nav2tab"');document.write('><a href="/rates/checkingrates.html">Checking Account</a></li>');
+		document.write('<li ');if(node_level_3=="autorates")document.write('class="nav2tab"');document.write('><a href="/rates/autorates.html">Auto Loans</a></li>');
+		document.write('<li ');if(node_level_3=="creditcardrates")document.write('class="nav2tab"');document.write('><a href="/rates/creditcardrates.html">Credit Cards</a></li>');
+		document.write('<li ');if(node_level_3=="homeequityrates")document.write('class="nav2tab"');document.write('><a href="/rates/homeequityrates.html">Home Equities & Mortgages</a></li>');
+		document.write('<li ');if(node_level_3=="otherloanrates")document.write('class="nav2tab"');document.write('><a href="/rates/otherloanrates.html">Other Loans</a></li>');
 		document.write('<li ');if(node_level_3=="fees")document.write('class="nav2tab"');document.write('><a href="/rates/fees.html">Fee Schedule</a></li>');
 		document.write('</ul>');		
 	} else 	document.write('<li><a href="/rates/ratesheet.html">Rates &amp; Fees</a></li>'); // draw inactive
@@ -476,6 +493,18 @@ if(node_level_1 == "savings")	{
 
    // draw expanded
 
+   if(node_level_2 == "business_savings")	{
+		document.write('<li>')
+		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
+		document.write('<a href="/savings/businessaccountsaving.html">Business Savings</a></li>');
+			
+	} else 	document.write('<li><a href="/savings/businessaccountsaving.html">Business Savings</a></li>'); // draw inactive	
+	
+	// draw expanded
+	
+
+   
+   
    if(node_level_2 == "money_market_savings")	{
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
@@ -625,7 +654,6 @@ if(node_level_1 == "loans_credit_cards")	{
 		document.write('<li ');if(node_level_3=="visa")document.write('class="nav2tab"');document.write('><a href="/loans/creditcards/visa.html">Visa Classic</a></li>');
 		document.write('<li ');if(node_level_3=="visa_platinum")document.write('class="nav2tab"');document.write('><a href="/loans/creditcards/visaplatinum.html">Visa Platinum</a></li>');
     	document.write('<li ');if(node_level_3=="cardholder_dispute")document.write('class="nav2tab"');document.write('><a href="/loans/creditcards/cardholder_dispute.html">Cardholder Dispute Form</a></li>');
-		document.write('<li ');if(node_level_3=="credit_cards_faq")document.write('class="nav2tab"');document.write('><a href="/loans/faq/creditcards.html">Credit Cards FAQ</a></li>');
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/loans/creditcards/index.html">Credit Cards</a></li>'); // draw inactive
 	
@@ -874,6 +902,10 @@ if(node_level_2 == "identity_theft")	{
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
 		document.write('<a href="/resources/offers/index.html">Special Offers for Members</a></li>');
 		
+		document.write('<ul>');
+		document.write('<li ');if(node_level_3=="tax_filing")document.write('class="nav2tab"');document.write('><a href="/resources/offers/taxfiling.html">Tax Filing</a></li>');
+
+		
 	} else 	document.write('<li><a href="/resources/offers/index.html">Special Offers for Members</a></li>'); // draw inactive
 
 	// draw expanded
@@ -942,11 +974,10 @@ if(node_level_1 == "about_umcu")	 {
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
 		document.write('<a href="/about/locations/index.html">Locations</a></li>');
-	
+
 		document.write('<ul>');
 		document.write('<li ');if(node_level_3=="service_centers")document.write('class="nav2tab"');document.write('><a href="/about/locations/servicecenters.html">Service Centers</a></li>');		
-		document.write('<li ');if(node_level_3=="umcu_atms")document.write('class="nav2tab"');document.write('><a href="/about/locations/umcuatms.html">UMCU ATMs</a></li>');
-		document.write('<li ');if(node_level_3=="network_atms")document.write('class="nav2tab"');document.write('><a href="/about/locations/networkatms.html">Network ATMs</a></li>');		
+		document.write('<li ');if(node_level_3=="umcu_atms")document.write('class="nav2tab"');document.write('><a href="/about/locations/umcuatms.html">ATMs</a></li>');
 		document.write('<li ');if(node_level_3=="map")document.write('class="nav2tab"');document.write('><a href="/about/locations/branch&ATMdirectory.pdf">Map (PDF)</a></li>');
 		document.write('</ul>');
 	} else 	document.write('<li><a href="/about/locations/index.html">Locations</a></li>'); // draw inactive
@@ -987,17 +1018,14 @@ if(node_level_1 == "about_umcu")	 {
 		if(node_level_2 == "contact_us")	 {
 		document.write('<li>')
 		if(node_level_3=="")document.write('<img src="/images/bullet_nav2.gif" />');
-		document.write('<a href="/about/contactus.html">Contact Us</a></li>');
-	
-		document.write('<ul>');
-		document.write('<li ');if(node_level_3=="telephone_fax_directory")document.write('class="nav2tab"');document.write('><a href="/about/telephonefax.html">Telephone/Fax Directory</a></li>');		
-		document.write('</ul>');
-	} else 	document.write('<li><a href="/about/contactus.html">Contact Us</a></li>'); // draw inactive
+		document.write('<a target="_blank"href="https://secure.umcu.org/infodesk/comm.html">Contact Us</a></li>');
+
+	} else 	document.write('<li><a target="_blank" href="https://secure.umcu.org/infodesk/comm.html">Contact Us</a></li>'); // draw inactive
 
 } // close 	if(node_level_1 == "about_umcu")
 
 
-</script><li><a href="/about/aboutcreditunions.html">What is a Credit Union?</a></li><li><a href="/about/umcuhistory.html">History</a></li><li><a href="/about/umcufinancials.html">Financial Highlights</a></li><li><a href="/about/who.html">Who’s Who?</a></li><li><a href="/about/jobs.html">Job Opportunities</a></li><li><a href="/about/locations/index.html">Locations</a></li><li><img src="/images/bullet_nav2.gif"><a href="/about/privacypolicy.html">Privacy Policy</a></li><li><a href="/about/communityinvolvement.html">Community Involvement</a></li><li><a href="/about/newshighlights.html">News</a></li><li><a href="/about/contactus.html">Contact Us</a></li>
+</script><li><a href="/about/aboutcreditunions.html">What is a Credit Union?</a></li><li><a href="/about/umcuhistory.html">History</a></li><li><a href="/about/umcufinancials.html">Financial Highlights</a></li><li><a href="/about/who.html">Who’s Who?</a></li><li><a href="/about/jobs.html">Job Opportunities</a></li><li><a href="/about/locations/index.html">Locations</a></li><li><img src="/images/bullet_nav2.gif"><a href="/about/privacypolicy.html">Privacy Policy</a></li><li><a href="/about/communityinvolvement.html">Community Involvement</a></li><li><a href="/about/newshighlights.html">News</a></li><li><a target="_blank" href="https://secure.umcu.org/infodesk/comm.html">Contact Us</a></li>
 
 </ul>
 </div>
@@ -1010,15 +1038,16 @@ if(node_level_1 == "about_umcu")	 {
 <div id="footer" style="background: url('http://www.umcu.org/images/umca_bg_footer_new.gif');">
 <ul>
 <font style="font-size: 10pt;" size="2">	<li><a href="http://www.umcu.org/">Home</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-	<li><a href="http://www.umcu.org/about/contactus.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+	<li><a href="../about/locations/index.html">Locations</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+	<li><a target="_blank" href="https://secure.umcu.org/infodesk/comm.html">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
 	<li><a href="http://www.umcu.org/sitemap.html">Site Map</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
 	<li><a href="http://www.umcu.org/about/privacypolicy.html">Security &amp; Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
-	<li><a href="https://clientadmin.digitalmailer.com/elert/114/umcu-elert-reg.html">Sign-up for Email Alerts</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
+	<li><a href="https://clientadmin.digitalmailer.com/elert/114/114ARBregistration.html">Sign-up for Email Alerts</a>&nbsp;&nbsp;|&nbsp;&nbsp;</li>
 	<li><a href="http://www.umcu.org/resources/scams/index.html">Scam Alerts</a></li>
 </font></ul>
 <p>
-<font style="font-size: 10pt;" size="2">© 2009, University of Michigan Credit Union, P.O. Box 7850 Ann Arbor, MI 48107, 734-662-8200 or 800-968-8628
-</font></p>
+<font style="font-size: 10pt;" size="2">© 2010, University of Michigan Credit Union, P.O. Box 7850, Ann Arbor, MI 48107, 734-662-8200 or 800-968-8628&nbsp; 
+Routing Number: 2724-7654-3</font></p>
 </div>
 
 <!-- Sub Footer -->
