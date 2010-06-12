@@ -1,29 +1,32 @@
-<!--The following is the downloaded HTML source of the traineo.com privacy policy that was archived on 2009-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091226071754id_/http%3A//traineo.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the traineo.com privacy policy that was archived on 2010-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613013631id_/http%3A//www.traineo.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
     <title>
-       traineo | Fitness &amp; Weight Loss Community
-      
+      Weight Loss Community at traineo | Weight Loss Forum, Weight Loss Help
     </title>
     <meta content="traineo helps you lose weight by letting you track your progress through a unique way of getting friendly motivation. The concept is simple: you sign up and choose up to 4 friends or members of your family to receive weekly email updates on how you're doing." name="description">
-    <meta content="weight loss, traineo, lose weight, fat loss, weight loss log, motivation, meet others" name="description">
+    <meta content="weight loss, traineo, lose weight, fat loss, weight loss log, motivation, meet others, calorie counter, weight loss support, weight loss forum, health forum, fitness forum," name="keywords">
+    <meta content="iB7OERQ0relZ-5jzkqI64RggeYcBbX89hHwACSzIvLY" name="google-site-verification">
     <link href="/favicon.ico" rel="icon" type="image/x-icon">
-    <link type="text/css" media="all" rel="Stylesheet" href="/stylesheets/base20091006.css" charset="utf-8">
-    <link type="text/css" media="all" rel="Stylesheet" href="/stylesheets/about.css" charset="utf-8">
-    <script type="text/javascript" src="/javascripts/base091006.js"></script>
+    <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/base_2010-05-01.css">
+    <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/about.css">
+    <script type="text/javascript" src="/javascripts/base_2010-06-01.js"></script>
     
     <!--[if IE 6]> 
-      <link type="text/css" media="all" rel="Stylesheet" href="/stylesheets/ie6.css" charset="utf-8" />
+      <link type="text/css" rel="Stylesheet" media="all" charset="utf-8" href="/stylesheets/ie6.css" />
     <![endif]-->
-  </head>
+  <script language="javascript" type="text/javascript" src="https://a3.websitealive.com/1434/Visitor/vTracker_v2.asp?websiteid=0&amp;groupid=1434"></script></head>
   <body class="custom_pages show">
-    <div id="north">
+    <div id="north" style="z-index:1099;">
       <div class="center">
         <div class="girdle clearfix">
           <div class="clearfix">
             <div class="left" id="logo-container">
               <h1 class="logo">
+                <span style="display:none;">
+                  traineo Weight Loss Program &amp; Community
+                </span>
                 <a href="/">traineo</a>
               </h1>
             </div>
@@ -31,9 +34,6 @@
               <div class="tabs">
                 <div class="toptabs_small">
                   <ul>
-                    <li>
-                      <a href="http://store.traineo.com">Store</a>
-                    </li>
                     <li>
                       <a href="http://blog.traineo.com">Blog</a>
                     </li>
@@ -47,16 +47,27 @@
                 </div>
               </div>
               <div class="login" id="top_login">
-                <div class="welcome login">
-                  <form method="post" action="/login"><input type="text" class="text text" value="" name="user[username]" id="login_user_username">
-                  <input type="password" class="text password" value="" name="user[password]" id="login_user_password">
-                  <input type="submit" class="green" value="Login" name="submit" id="submit">
-                  <div class="forgot_password">
-                    <input type="checkbox" class="checkbox" name="remember_me" value="true" id="remember_me">
-                    <label for="remember_me">Remember me •</label>
-                    <a href="/forgot_password">Forgot password?</a>
+                <style type="text/css">
+                .to-expert-help { color:#fff; font-size:12px;}
+                .to-expert-help a{ text-decoration:none;font-weight:bold;}
+                .to-expert-help img {vertical-align:bottom;}
+                .tlogin a{color:#2D5000}
+                </style>
+                <div class="welcome login" style="float:right;position:relative;right:20px;top:6px;">
+                  <div class="fake_button green tlogin" style="padding:3px 25px;display:inline;margin-right:20px;position:relative;top:1px;">
+                    <a href="/login">Login</a>
                   </div>
-                  </form>
+                  <fb:login-button v="2" size="large" onlogin="facebook_onlogin();" autologoutlink="true" perms="email">
+                  Login with Facebook
+                  </fb:login-button>
+                  <!-- = form_for User.new, :action => url(:login) do -->
+                  <!-- = text_field :username, :class => 'text', :id => 'login_user_username' -->
+                  <!-- = password_field :password, :class => 'text', :id => 'login_user_password' -->
+                  <!-- = submit 'Login', :class => 'green' -->
+                  <!-- .forgot_password -->
+                  <!-- = check_box :name => "remember_me", :value => "true", :id => "remember_me" -->
+                  <!-- %label{:for => "remember_me"} Remember me &bull; -->
+                  <!-- = link_to "Forgot password?", url(:forgot_password) -->
                 </div>
               </div>
             </div>
@@ -68,17 +79,10 @@
             <li class="dropdown">
               <a class="item" href="/start">Tools</a>
               <ul>
-                <li><a href="/activity">Activity</a></li>
-                <li><a href="/diet">Food</a></li>
                 <li><a href="/weight">Weight</a></li>
-                <li><a href="/logs">Log</a></li>
-                <!-- %li -->
-                <!-- %a Journal -->
-                <li>
-                  <a href="/goals">Set Goal</a>
-                </li>
-                <!-- %li.sep -->
-                <!-- %a Food Search -->
+                <li><a href="/start#Calories">Calories</a></li>
+                <li><a href="/logs">Logs</a></li>
+                <li><a href="/start#Progress_Photos">Photos</a></li>
               </ul>
             </li>
             <li class="dropdown">
@@ -86,14 +90,14 @@
               <ul>
                 <li><a href="/forums">Forums</a></li>
                 <li><a href="/groups">Groups</a></li>
+                <!-- %li=link_to "Challenges", url(:challenges) -->
+                <li><a href="/progress_photos">Progress Photos</a></li>
                 <!-- %li.sep -->
                 <!-- %a traineo Pulse -->
                 <!-- %li -->
                 <!-- =link_to "Support Library", url(:custom, :shortname => :library) -->
+                <!-- %li=link_to "Favorite Quotes", url(:favorite_quotes) -->
                 <li><a href="/users">Find Members</a></li>
-                <li><a href="/tell_friends">Invite Friends</a></li>
-                <li><a href="/favorite_quotes">Favorite Quotes</a></li>
-                <li><a href="/progress_photos">Progress Photos</a></li>
               </ul>
             </li>
           </ul>
@@ -156,6 +160,7 @@
             <ul class="second-row">
               <li><a href="/jobs">Jobs</a></li>
               <li><a href="/personal_trainers">Are you a personal trainer?</a></li>
+              <li><a href="/foods/">Search Foods</a></li>
             </ul>
             <div class="social-links">
               traineo on:
@@ -165,17 +170,50 @@
           </div>
         </div>
         <div class="copyright">
-          © traineo 2009
+          
         </div>
       </div>
     </div>
+    <script src="http://cdn.wibiya.com/Loaders/Loader_259246.js" type="text/javascript"></script>
+    <script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+    <script type="text/javascript">FB.init("821cf648eaf7de24fe6ab06a43188c74","/xd_receiver.htm", {permsToRequestOnConnect : 'email'});</script>
+    <script>function facebook_onlogin(){document.location.href = "/fb_connect";}</script>
+    <script type="text/javascript" charset="utf-8">
+    var is_ssl = ("https:" == document.location.protocol);
+    var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
+    document.write(unescape("%3Cscript src='" + asset_host + "javascripts/feedback-v2.js' type='text/javascript'%3E%3C/script%3E"));
+    </script><script src="https://s3.amazonaws.com/getsatisfaction.com/javascripts/feedback-v2.js" type="text/javascript"></script>
+    <script type="text/javascript" charset="utf-8">
+    var feedback_widget_options = {};
+    feedback_widget_options.display = "overlay";  
+    feedback_widget_options.company = "traineo";
+    feedback_widget_options.placement = "left";
+    feedback_widget_options.color = "#222";
+    feedback_widget_options.style = "question";
+    var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
+    </script>
+    <!-- Start AliveChat Tracking Code -->
+    <script type="text/javascript">
+    function wsa_include_js(){
+    var wsa_host = (("https:" == document.location.protocol) ? "https://" : "http://");
+    var js = document.createElement('script');
+    js.setAttribute('language', 'javascript');
+    js.setAttribute('type', 'text/javascript');
+    js.setAttribute('src',wsa_host + 'a3.websitealive.com/1434/Visitor/vTracker_v2.asp?websiteid=0&groupid=1434');
+    document.getElementsByTagName('head').item(0).appendChild(js);
+    }
+    if (window.attachEvent) {window.attachEvent('onload', wsa_include_js);}
+    else if (window.addEventListener) {window.addEventListener('load', wsa_include_js, false);}
+    else {document.addEventListener('load', wsa_include_js, false);}
+    </script>
+    <!-- End AliveChat Tracking Code -->
     <div id="extras" style="display: none">
     </div>
     <div id="loading" style="display: none">Loading content...</div>
     <div id="drop_down_holder">
       <div id="drop_down">
         <div class="content" id="drop_down_content"></div>
-        <a class="closelink" href="#" id="close_drop_down">close this</a>
+        <a class="closelink" id="close_drop_down" href="#">close this</a>
       </div>
     </div>
     <script type="text/javascript">
