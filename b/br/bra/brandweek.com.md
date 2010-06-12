@@ -1,57 +1,52 @@
-> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2009-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090729152604id_/http%3A//www.nielsenbusinessmedia.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandweek.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613002730id_/http%3A//www.brandweek.com/bw/privacy-policy.jsp) for the most accurate reproduction.*
 
-# Nielsen Business Media
+# Branding - Corporate Branding - Internet Brand Marketing
 
-**Revised December 2007**
+Privacy Policy
 
-This site is part of the NIELSEN BUSINESS MEDIA ("Nielsen") network of web sites. Please note that NIELSEN does not pass personally identifiable information of our users to DoubleClick.
+  
+**Effective Date: September 15, 2009**
 
-At NIELSEN we take your privacy very seriously. Because of this we want to provide you with explicit information on how we collect, gather, and identify information during your visit to our site. This information may be expanded or updated as we change or develop our site. For this reason, we recommend that you review this policy from time-to-time to see if anything has changed. Your continued use of our site signifies your acceptance of our privacy policy.
+This privacy notice covers the collection and use of information for this website, [http://en-us.nielsen.com](http://en-us.nielsen.com/) (“website” or “we”). This website is owned by The Nielsen Company.
 
-**Personally Identifiable Information** refers to information that tells us specifically who you are, such as your name, phone number, email or postal address. In many cases we need this information to provide the personalized or enhanced service that you have requested. 
+**About The Nielsen Company**
 
-The amount of Personally Identifiable Information that you choose to disclose to NIELSEN is completely up to you. The only way we know something about you personally is if you provide it to us in conjunction with one of our services.
+The Nielsen Company is a global information and media company with leading market positions and recognized brands in marketing and media information, online intelligence, trade shows and business publications (Billboard, The Hollywood Reporter, Adweek). The privately held company is active in more than 100 countries, with headquarters in Haarlem, the Netherlands, and New York, USA. In New York, the address is 770 Broadway, New York, New York 10003, the general telephone number there is 646-654-5000.
 
-**What information do we collect and how do we use it?**
+**What information we collect and how we use it**
 
-NIELSEN collects information on our users in three ways: by your voluntary submissions (for instance, if you sign up for one of our email newsletters) and/or surveys; sweepstakes and/or contest entries; and through cookie technology.
+We ask those interested in obtaining more information about Nielsen’s products and services to provide their names, email addresses, name of their company or website, telephone number and industry. Clients may gain access to their information through this site and may use a password or other means of authentication to do so. We do not sell this information to or share it with third parties, except as described below. We use your contact information to fulfill your request or respond to your inquiry, and may alert you to Nielsen reports, studies, Webinars or publications on related topics in which we think you may be interested. The emails that we send contain links that enable you to “unsubscribe” from future such mailings.
 
-In our effort to provide personalization and opportunities for prizes and services, we may at times ask you to submit information such as your name or email address, or to share your interests and hobbies with us. You never have to answer these questions, and you can decline this exchange of information on any site on the Internet - not just ours - at any time. However, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information, such as a personalized stock portfolio, a sweepstakes entry, or the purchase and shipment of products and prizes to people who visit our network.
+We ask those that seek a career at Nielsen to complete an application and provide related information. If you are interested in a career with us, please review our “[Job Search Privacy Statement](http://en-us.nielsen.com/etc/medialib/nielsen_dotcom/en_us/documents/pdf/careers.Par.72744.File.dat/Career_Privacy_Statement.pdf).” While it is consistent with this Notice, it contains additional information specifically for job applicants.
 
-The information NIELSEN collects is used in a variety of ways: for internal review; to improve the content of the site, thus making your user experience more valuable; to notify you about updates to the service; and to let you know about products and services that you may be interested in.
+**Cookies and Web beacons**
 
-**Email:** If you have provided us your email address, NIELSEN periodically sends promotional emails to its subscribers about services offered by NIELSEN and its partners. If you do not wish to receive email information from NIELSEN, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.   
+To keep track of your choice of language and home page preference, we place a cookie on your computer. A cookie is a small amount of data, which often includes an anonymous unique identifier, sent to your browser from a website’s computers and stored on your computer’s hard drive. Our “preference” cookie expires after thirty (30) days. We also use a small piece of code (sometimes referred to as “1x1 clear pixel,” “Web beacon” or “clear GIF”) placed in the pages of our website to help us gather additional information about which parts of the site receive the most visitors and other user traffic patterns, and enable us to administer the site. We also use cookies to understand your Internet usage, including other websites that you visit and, occasionally, your exposure to certain Internet advertisements as you surf the Web. To opt out of this explicitly, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=total&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt%26opt=2 "http://server-us.imrworldwide.com/cgi-bin/o?oo=total&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt%26opt=2"). If you decide that you want your web surfing to be tracked, please [click here](http://server-us.imrworldwide.com/cgi-bin/o?oo=cancel&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt "http://server-us.imrworldwide.com/cgi-bin/o?oo=cancel&tu=http://www.netratings.com/privacy_opt.jsp?section=leg_opt").
 
+No personally-identifiable information is contained in our cookies or transmitted through our Web beacons.
 
-The "email this article" feature is an easy way for you to send articles through email. The email addresses that you supply to use this service will not be used for any other purpose without your consent. 
+You can set your browser to reject most cookies by following the browser help file directions. However, if your browser is set to reject cookies or you delete cookies, you may not be able to use some features of certain websites. You can also delete individual cookies or all cookies on your computer by following the browser help file directions.
 
-**With whom does NIELSEN share the information it gathers/tracks?**
+**When we may disclose your information to others**
 
-From time to time we share this information with other reputable organizations for marketing purposes or the information is used by NIELSEN to contact consumers for its own marketing endeavors. As a valued consumer, we offer you the opportunity to "opt out", or request not to accept these marketing opportunities. If at any time you change your mind and do not want NIELSEN to share your email address or home address with other companies and/or organizations, or would simply like to be removed from the list, please let us know by emailing us at: [removeme@nielsen.com](mailto:removeme@vnuemedia.com) or by writing us at NIELSEN BUSINESS MEDIA, 770 Broadway, New York, NY 10003.
+From time to time, and notwithstanding any other provision of this Notice, we may partner with unaffiliated companies or individuals for market research product development or similar purposes. These companies or individuals may be provided with access to personally identifiable information, but we will require by contract that they agree to maintain the confidentiality, security and integrity of such information. We also may subcontract with other companies and individuals to do work on our behalf; they may be provided with access to personally identifiable information, but only as needed to perform their functions. Notwithstanding any other provision of this Notice, we may disclose personally identifiable information to any third party when disclosure is required by law, or desirable to permit us to exercise or preserve our legal rights or take action regarding potentially illegal activities or to protect the safety of any person. In the event that The Nielsen Company is acquired by or merged with a third party entity, or in the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected as part of such merger, acquisition, sale, or other change of control.
 
-**Sweepstakes/Contests**
+**Children**
 
-From time-to-time NIELSEN, along with other reputable companies, provides sweepstakes and other contests for the enjoyment of our users. By participating in the contest or sweepstakes and answering any and all questions, the user understands that NIELSEN and/or the involved company(s) may use the information obtained for marketing purposes. Children under 18 may not participate in any sweepstakes or contest promoted by NIELSEN.
+This site is not directed at children under the age of 13 and does not knowingly collect any personally identifiable information from children under the age of 13. If a parent or guardian believes that this site has collected the personally-identifiable information of a child under the age of 13, please contact [contactcommunications@nielsen.com](mailto:contactcommunications@nielsen.com) and we will use our best efforts to remove the information from our records.
 
-**Cookies**
+**Access to your information**
 
-NIELSEN may automatically collect non-personally identifiable information and data through the use of "cookies." Cookies are small text files a Web site uses to recognize repeat users, facilitate the user's ongoing access to the site and facilitate the use of the site. "Cookies" also allow a site to track usage behavior and compile site usage information that will allow for the improvement of content and target advertising.
+You may contact us if at any time you would like to see the personally identifiable information we hold about you, or to ask us to correct or update this information, or to ask us to delete it.
 
-Some sites in the NIELSEN eMedia Network use DoubleClick and other third-party advertising companies to serve ads when you visit our Web sites. These companies may use non-personally identifiable information (i.e. not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here [www.doubleclick.net/naiprivacy](http://www.doubleclick.net/naiprivacy).
+**Data storage, transfers and security**
 
-Some sites in the NIELSEN eMedia Networks also use a third party to collect non-personally identifiable information using web beacons.
+We may store the personal details we hold about you for as long as needed, which may be indefinitely. We may store this information in the United States or we may transfer it to any other country. The data protection laws in countries to which personal data are transferred may or may not provide a level of protection equivalent to the laws in your home country. Wherever we hold the data, we will apply the terms of this Notice and any applicable data protection law. We maintain certain procedures to protect the confidentiality, security and integrity of personally identifiable information while it is controlled by us. However, the storage and communication of personal data cannot always be completely secure. Also, we cannot and do not guarantee that data transferred to third parties in accordance with this Notice will be protected against intentional or accidental misuse or loss.
 
-**About Children's Privacy**
+**_Please contact us if you have questions or wish to take any action with respect to information to which this Notice applies._** You can reach us by sending an email to [contactcommunications@nielsen.com](mailto:contactcommunications@nielsen.com).
 
-NIELSEN is committed to the safety of our children. Children under 18 may not participate in any sweepstakes or contests on NIELSEN. Also, we encourage children under the age of 18 to ask a parent for permission before providing or sending any information to anyone online.
+**We may change this Notice and our data collection and management practices**
 
-**Your Consent**
+We reserve the right to update and make material and non-material changes to this Notice and to our practices in collecting and handling personally identifiable information. If we make material changes, we will notify you by email prior to their implementation and let you decide if you want the material changes to apply to your personally-identifiable information. We will also post a prominent notice at this website and indicate at the top of this statement when it was most recently updated.
 
-By using our Web site, you consent to the collection and use of the information described in this Privacy Policy by NIELSEN. Once again, if you do not wish us to share this information with other reputable companies that we think you might be interested in, please let us know by emailing us at [removeme@nielsen.com](mailto:removeme@vnuemedia.com).
-
-**Questions?**
-
-We welcome your questions and/or comments. Please send all queries to [webmaster@nielsen.com](mailto:webmaster@vnuemedia.com).  
-
-
-|  
+[Contact us if you have any questions about our privacy policy.](http://en-us.nielsen.com/contact)
