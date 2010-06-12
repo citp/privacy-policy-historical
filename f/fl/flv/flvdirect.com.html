@@ -1,10 +1,12 @@
-<!--The following is the downloaded HTML source of the flvdirect.com privacy policy that was archived on 2009-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091206034046id_/http%3A//flvdirect.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flvdirect.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612073101id_/http%3A//www.flvdirect.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="FLVDirect privacy policy"> 
+<meta name="keywords" content="flv, player, free, free flv player"> 
 <title>FLVDirect</title>
-<link rel="stylesheet" href="style.css" type="text/css" media="all">
+<link rel="stylesheet" href="emerg/style.css" type="text/css" media="all">
 <!--[if lte IE 6]>
 <style>
 .content_left { margin-left: 10px;}
@@ -30,26 +32,26 @@ window.onload=init;
 <body bgcolor="white">
 <div class="header">
     <a href="index.html" onclick="document.location.href = this + document.location.search; return false;"><img src="images/logo.gif" alt=" " border="0" id="logo"></a>
-    <a href="download.html" onclick="return download('privacy');"><img src="images/download-top.gif" alt="" name="downloadtop" border="0" id="download-top"></a>
+    <a href="download.html" onclick="return download('privacy');"><img src="images/download-top.gif" alt="DOwnload free flv player" name="downloadtop" border="0" id="download-top"></a>
   <p><strong>Downloaded <span id="cntr">2,358,755</span> times</strong></p>
 </div>
 <div class="content" id="download_block" style="display:none">
     <h1>Installation for your Internet Explorer browser</h1>
     <ol>
-        <li>Click the Download button to install. (by installing the software you confirm that you accept our <a href="terms.html" onclick="document.location.href = this + document.location.search; return false;">Terms of Service</a>).
+      <li>Click the Download button to install. (by installing the software you confirm that you accept our <a href="terms.html" onclick="document.location.href = this + document.location.search; return false;">Terms of Service</a>).
             <br><br>
-            <a href="files/setup.exe" onclick="document.location.href = 'downloadfile.php' + document.location.search; return false;"><img src="images/download01.gif" border="0"></a> </li>
+          <a href="files/setup.exe" onclick="return download('content_index');"><img src="images/download01.gif" alt="Download FLV Player" border="0"></a> </li>
         <li>Click "Run" to start the installation.
             <br><br>
-            <img src="images/download02.1.gif" width="404" height="273">	</li>
+            <img src="images/download02.1.gif" alt="Run FLV Player Installer" width="404" height="273">	</li>
         <li>Click "Run" once more to confirm<br><br>
-            <img src="images/download03.1.gif">	</li>
+          <img src="images/download03.1.gif" alt="CLick Run Again to confirm"></li>
         <li>Go through the setup steps to complete the installation. <br>
         </li>
     </ol>
 
     <div class="textbutton">
-        <a href="files/setup.exe" onclick="document.location.href = 'downloadfile.php' + document.location.search; return false;">Click Here to Download FLV Direct Player!<br>
+        <a href="files/setup.exe" onclick="return download('content_index');">Click Here to Download FLV Direct Player!<br>
             It's totally FREE! No Registration. No Spyware.</a></div>
 
 
@@ -64,7 +66,7 @@ window.onload=init;
             <li>Unlike other Flash Video players available online, which charge all sorts of download fees, FLV Player is 100% free!</li>
         </ul>
         <br>
-        <strong>Download for FREE now! <a href="files/setup.exe" onclick="document.location.href = 'downloadfile.php' + document.location.search; return false;">Click Here!</a></strong>
+        <strong>Download for FREE now! <a href="files/setup.exe" onclick="return download('content_index');">Click Here!</a></strong>
     </div>
     <div class="misc_features3">
         <p>
@@ -90,24 +92,48 @@ window.onload=init;
 <script type="text/javascript">
 function download(contentBlock)
 {
-        window.location='downloadfile.php' + document.location.search;
+	var s = document.location.search;
+	var el = document.getElementById("inst_full");
+	if (el)
+	{
+		/*if (s=='') s = '?noeula=1'; else s = s + '&noeula=1';*/
+		if (document.location.search.indexOf("aff")!=-1)
+		{
+			if (!el.checked)
+			{
+				el = document.getElementById("inst_hmp");
+				if (el)
+				{
+					if (s=='') s = '?'; else s = s + '&';
+					if (el.checked)
+						s = s + "hmp=1";
+					else
+						s = s + "hmp=0";
+				}
+				el = document.getElementById("inst_sp");
+				if (el)
+				{
+					if (s=='') s = '?'; else s = s + '&';
+					if (el.checked)
+						s = s + "sp=1";
+					else
+						s = s + "sp=0";
+				}
+			}
+		}
+	}
+	//if (document.getElementById("download_block"))
+	if (s=='') s = '?'; else s = s + '&';
+    window.location='downloadfile.php' + s +'c=rk8fpz58';
 	var e = document.getElementById("download_block");
 	if (e) {
 		e.style.display = "block";
-		document.getElementById(contentBlock).style.display = "none";
+		if (document.getElementById(contentBlock))
+			document.getElementById(contentBlock).style.display = "none";
 	}
 	return false;
 }
 </script>
-<script type="text/javascript">
-var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-<script type="text/javascript">
-try {
-var pageTracker = _gat._getTracker("UA-7887153-2");
-pageTracker._trackPageview();
-} catch(err) {}</script>
 
 <div class="content" id="privacy">
 <p align="right"><strong>Version 1.0 (February 2, 2009)</strong></p>
@@ -153,9 +179,20 @@ pageTracker._trackPageview();
 
 </div>
   <div id="footer">
-    <p>Copyright © 2009 All Rights Reserved.</p>
+    <p>Copyright © 2009-2010 All Rights Reserved.</p>
     <p><a onclick="document.location.href = this + document.location.search; return false;" href="terms.html">Terms and Conditions</a> <a onclick="document.location.href = this + document.location.search; return false;" href="privacy.html">Privacy Policy</a> <a onclick="document.location.href = this + document.location.search; return false;" href="uninstall.html">Uninstall</a> <a onclick="document.location.href = this + document.location.search; return false;" href="contactus.html">Contact Us</a></p>
   </div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-8191476-28");
+pageTracker._trackPageview();
+} catch(err) {}</script>
 
 
 
