@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smsgupshup.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204020333id_/http%3A//www.smsgupshup.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smsgupshup.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612093607id_/http%3A//www.smsgupshup.com/terms/privacy) for the most accurate reproduction.*
 
 # SMS GupShup - Terms of Use
 
