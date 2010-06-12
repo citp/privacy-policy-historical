@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2009-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091109213738id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityofpaloalto.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612195248id_/http%3A//www.cityofpaloalto.org/knowzone/web_site_help/default.asp%23privacy) for the most accurate reproduction.*
 
 # City of Palo Alto Website - Web Site Help
 
