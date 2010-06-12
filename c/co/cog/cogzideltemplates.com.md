@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027015211id_/http%3A//www.cogzideltemplates.com/index.php/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cogzideltemplates.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612155944id_/http%3A//www.cogzideltemplates.com/privacy_policy) for the most accurate reproduction.*
 
 # Cogzidel Templates - Ready to use Templates, Logos, Fonts, Headers, Flash Intros
 
