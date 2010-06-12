@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213023520id_/http%3A//www.peoplematters.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplematters.in privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613005433id_/http%3A//peoplematters.in/privacy-policy) for the most accurate reproduction.*
 
 # None
 
-Sunday, December 13, 2009 | [Home](http://www.peoplematters.in/) › Privacy Policy
+Sunday, June 13, 2010 | [Home](http://peoplematters.in/) › Privacy Policy
 
 ## People Matters Online Privacy Policy
 
