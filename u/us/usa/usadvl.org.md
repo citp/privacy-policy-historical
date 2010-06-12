@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usadvl.org privacy policy that was archived on 2009-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090528074728id_/http%3A//www.usadvl.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usadvl.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191601id_/http%3A//usadvl.org/privacy.php) for the most accurate reproduction.*
 
 # Green Card Lottery, Apply and win the USA Green Card Lottery, USADVL, Live & work in America
 
