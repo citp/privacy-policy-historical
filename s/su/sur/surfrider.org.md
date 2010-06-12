@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2009-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surfrider.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/privacy.asp) for the most accurate reproduction.*
 
 # Surfrider Foundation- Privacy Policy
 
 |  |  |  |   
 ---  
-|  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/whoweare.asp) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/whatwedo.asp) |  | [](http://actionnetwork.org/surfrider/home.html) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/chapters.asp) |  | [](http://www.surfrider.org/srstore/store.aspx) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/media.asp) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/waterquality.asp) |  |  |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/support.asp) |   
+|  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/whoweare.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/whatwedo.asp) |  | [](http://www.surfrider.org/action.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/chapters.asp) |  | [](http://www.swell.com/c/surfriderStore_landing.html) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/media.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/waterquality.asp) |  |  |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |  | [](https://web.archive.org/web/20100612203138id_/http%3A//www.surfrider.org/support.asp) |   
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---  
 |   
 ---  
@@ -21,7 +21,7 @@ When you register for special services on one of our sites (to get personalized 
   1. **What Personally Identifiable Information of Yours is Collected?**  
 This means information that tells us something about who you are, such as your name, phone number, email address, mailing address, or even credit card number (if you use a credit card to make a donation). If you visit our sites to read or download information, such as consumer brochures or press releases, we collect and store only the following information about you: the name of the domain from which you access the Internet (for example, aol.com, if you are connecting from an Earthlink account, or duke.edu, if you are connecting from Duke university's domain); the date and time you access our site; and the Internet address of the web site from which you may have linked directly to our site. See How Your Information May Be Used.
   2.  **What Organization is Collecting Your Information?**  
-We are the Surfrider Foundation, a non-profit, tax-deductible environmental grassroots organization. We are responsible for any information collected on our web sites. Our organizational site is [http://www.surfrider.org](http://www.surfrider.org/). Surfrider Foundation contracts (under the confidentiality restrictions mentioned on this page) with Coremetrics, a service partner, to provide data collection and reports regarding our visitors' activities on our site. Coremetrics may use cookies on our behalf and may receive information about your browsing and buying activity. Coremetrics may store member ID, city, state, zip code, and email address on our behalf. Under no circumstances may Coremetrics use your information other than in connection with providing services to us to make our site more useful and efficient. If you would like to opt out of these particular services provided by Coremetrics to Surfrider, please [click here](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/opt_out.asp).  
+We are the Surfrider Foundation, a non-profit, tax-deductible environmental grassroots organization. We are responsible for any information collected on our web sites. Our organizational site is [http://www.surfrider.org](http://www.surfrider.org/). We use Google Analytics to help us obtain traffic information about our site.   
   
 
   3. **How Your Information May Be Used**  
@@ -39,8 +39,6 @@ You can update our records of your personal information in the "My Account" area
 Some of our web sites use "cookie" messages to automatically help provide better services. They remind us who you are and how you like to use our web site, based on what you've done and told us before. The "cookie" is placed in your computer and is read when you come back to our web site. Cookies let us take you to the information and features you're particularly interested in. They also let us track your and others' usage, so we know which parts of our sites are most popular. You can reject cookies or very easily cancel them later.
 
 Also, our online store and "My Account" pages rely on cookies for core functionality; the online store and "My Account" pages will not function for you if you have cookies turned off.
-
-Moreover, the Surfrider Foundation uses a site visitor tracking system provided by CoreMetrics; this system uses cookies. [Click here](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/opt_out.asp) to opt-out.
 
 If you would like your browser to reject cookies, you can instruct your browser to do so. 
 
@@ -60,7 +58,6 @@ Changes without notice. We may change any part of this policy, without any separ
 
   10. **Opt-Out**
     1. To opt-out from receiving content from Surfrider Foundation or its chapters, please do the following: if you want no contact about anything from the Surfrider Foundation or its chapters, partners and affiliates please email [membership@surfrider.org](mailto:info@surfrider.org) and write "REMOVE ALL" in the Subject line of the email. 
-    2. To opt-out of our CoreMetrics provided system to track our site visitors, [click here](https://web.archive.org/web/20090219202323id_/http%3A//www.surfrider.org/opt_out.asp). 
    
 
 
