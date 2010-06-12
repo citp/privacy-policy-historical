@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2009-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090831023227id_/http%3A//highwire.org/about/privacy.dtl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highwire.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612200923id_/http%3A//highwire.org/about/privacy.dtl) for the most accurate reproduction.*
 
-# HighWire Press -- Privacy Policy
-
-**Privacy Policy for HighWire Press (highwire.stanford.edu)**
+# HighWire Privacy Policy
 
 HighWire Press respects your privacy. We do not sell, exchange, or release your personal information (name, email address) without your consent, regardless of its source, to any third parties. Information is given to HighWire-affiliated publishers in the form of 1) grouped statistics compiled from registration data and log file data (none of this data provided is personally identifiable), and 2) e-mail addresses/contact names of users whose alerts make use of that particular publishers' journal(s), as mentioned below. Information gathered through the use of cookies is not related to any personally identifiable details. If you have any questions or concerns about our privacy policy please send us [feedback](https://web.archive.org/cgi/feedback). 
 
