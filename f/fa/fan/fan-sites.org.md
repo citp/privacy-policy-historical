@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208234323id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fan-sites.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612185440id_/http%3A//fan-sites.org/get-hosted/privacy-policy) for the most accurate reproduction.*
 
 # Fan Sites Network | Privacy Policy
-
-## Privacy Policy
 
 **Privacy Policy**  
 The Fan Sites Network, and its advertisers and affiliates are deeply committed to protecting the privacy of Internet users. Below is information outlining our continued support for the responsible management of consumer information.
