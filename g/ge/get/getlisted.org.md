@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210085314id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getlisted.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612193607id_/http%3A//getlisted.org/Privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | GetListed.org
 
@@ -21,7 +21,7 @@ Website Address
 
   * Any of the information we collect from you may be used in one of the following ways: 
     * To personalize your experience (your information helps us to better respond to your individual needs)
-    * To perform searches on Google, Yahoo, Best of the Web, MSN, and other search engines for the specific business information you entered 
+    * To perform searches on Google, Yahoo, Best of the Web, Bing, and other search engines for the specific business information you entered 
   * At no time do we transmit your information to any website or other data provider without your knowledge. 
 
 
@@ -43,7 +43,7 @@ We do not sell, trade, or otherwise transfer to outside parties your personally 
 
 **Third party links**
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website, including but not limited to those offered by Google, Yahoo, Best of the Web, and MSN. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
+Occasionally, at our discretion, we may include or offer third party products or services on our website, including but not limited to those offered by Google, Yahoo, Best of the Web, and Bing. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 **California Online Privacy Protection Act Compliance**
 
