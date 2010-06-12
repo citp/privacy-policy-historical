@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220142642id_/http%3A//www76.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hattrick.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612184212id_/http%3A//www.hattrick.org/Help/Privacy.aspx) for the most accurate reproduction.*
 
-# Hattrick » Help » Privacy statement
+# Privacy statement » Help » Hattrick
 
 **Hattrick Ltd, a company with its registered address at Suites 41/42, Victoria House, 26 Main Street, Gibraltar,** publisher of Hattrick.org, has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this [Web site.](http://www.hattrick.org/)
 
@@ -67,7 +67,7 @@ All other information that you directly or indirectly create or access within Ha
 This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These include firewalls, physical security and password protection. 
 
 **Opt-Out**  
-You can choose to terminate your Hattrick account at any time by contacting a local Game Master or if that is not possible by contacting Hattrick at [ privacy@hattrick.org](mailto:privacy@hattrick.org). E-mail messages may be sent to all active users and can only be opted out of by terminating the account. The exception is the Hattrick Newsletter, which you can opt out from under My Hattrick > Preferences > Other Preferences. 
+You can choose to terminate your Hattrick account at any time by contacting a local Game Master or if that is not possible by contacting Hattrick at [ privacy@hattrick.org](mailto:privacy@hattrick.org). E-mail messages may be sent to all registered users. You can opt out from receiving most messages only by terminating the account. You can opt out from The Hattrick Newsletter under My Hattrick > Preferences > Other Preferences. 
 
 **Data Quality/Access**  
 This site gives users the following options for changing and modifying information previously provided:  
