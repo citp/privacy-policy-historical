@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allhostguide.com privacy policy that was archived on 2009-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090210080202id_/http%3A//www.allhostguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allhostguide.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191652id_/http%3A//www.allhostguide.com/privacy.html) for the most accurate reproduction.*
 
-# AllHostGuide.com Privacy Policy
+# AllHostGuide.com - Search
 
 This is the web site of **AllHostGuide.com**  
 
