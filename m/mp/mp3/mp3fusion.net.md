@@ -1,17 +1,25 @@
-> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2009-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090328160948id_/http%3A//www.mp3fusion.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mp3fusion.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612033959id_/http%3A//www.mp3fusion.net/privacy.html) for the most accurate reproduction.*
 
-# mp3 arena ^_^ free mp3 downloads free mp3 albums free mp3 search free music downloads free mp3 songs free download mp3 free mp3s
+# Mp3Fusion.net - Free Mp3 Downloads & Songs
+
+### LEGAL NOTICE
 
 **Privacy Policy**
 
-We at mp3fusion.net are deeply committed to protecting the privacy of Internet users. We do not collect any personally identifiable information about you such as name, address, phone number, or e-mail address. Any information collected is not shared with third parties.   
-Cookies  
-A cookie is a small data file containing certain information and is written to your hard drive when you visit the website. A cookie cannot be read by a website other than the one that sets the cookie. Most cookies Last only through a single session or visit. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. We also use outside agencies to display ads on our site. These ads may contain cookies that are collected by our ad company, and we do not have access to this information.
+Privacy has become a major concern on the Internet. Mp3Fusion.net knows that you care how information about you is used and shared. This privacy statement describes how Mp3Fusion.net deals with your information. By visiting Mp3Fusion.net, you are accepting the practices described in this privacy statement.
 
-Third Parties  
-mp3fusion.net works with third parties that serve ads to this site.In these instances, we have no control over the information collected by the third-party, and may not be held responsible for the actions of the third-party measurement service where collected information is concerned. If you have questions regarding different third-party measurement services and their respective methods of information collection, please contact rickard@mp3fusion.net.
+**Personal Information**
 
-We use a third-party advertising company to serve ads when you visit our site. This company may use information (not including your name, address, email address or telephone number) about your visits to our and other web sites in order to provide advertisements about goods and services of interest to you. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your computer.
+Mp3Fusion.net does not require you to disclose personal information anywhere on the site. However, Mp3Fusion.net may offer additional features which require you to fill out forms requiring your personal information. We ask for your name, email address, city, country and birth date. The email address is used to send you a registration confirmation including activation link to active your account. The other personal details are used for display on your profile. Your IP address is used to gather broad demographic information and to track your general visiting patterns. Your IP address is also used to help diagnose technical problems. Mp3Fusion.net does not sell, rent, or trade your personal information with any third parties.
 
-Contact info  
-If you wish to learn more about our efforts to protect your privacy, please feel free to send questions and/or comments to: rickard@mp3fusion.net
+**Cookies**
+
+Cookies are small text files that are used by many sites to store or transfer information between the main site and the computer you use to access the site. These cookies are stored in a special folder in your temporary internet files directory. Mp3Fusion.net uses cookies in parts of the website. In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser.
+
+**Advertisers**
+
+We use third-party advertising companies to serve ads when you visit this website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. The advertisements may contain cookies. The advertisements are necessary to finance the costs of keeping this site online.
+
+**Contact**
+
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you are welcome to contact us.
