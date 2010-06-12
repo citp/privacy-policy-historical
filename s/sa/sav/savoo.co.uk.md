@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2009-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090623073118id_/http%3A//www.savoo.co.uk/corporate/articles/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savoo.co.uk privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613012830id_/http%3A//www.savoo.co.uk/corporate/articles/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Savoo
+# Privacy Policy
 
 **Privacy Statement**
 
@@ -42,7 +42,7 @@ We also collect demographic information. Demographic information is all other in
 Savoo does not sell trade or rent your personal information to other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:   
 
 
-**Service Requests or Loan Products -** If you submit a request for a loan product or service offered through this website we will share the personal information contained in your request form, such as your full name, physical address, telephone number, property location and self-assessed value, with lenders in our provider network strictly to process and fulfill your request. All lenders in our provider network, which include banks, mortgage lenders and brokers, have entered into marketing agreements with Savoo and are required to comply with federal and state privacy regulations. The lenders may contact you by telephone, email, or mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission or any state equivalent Do Not Call List. If one of the lenders contacts you by telephone and you wish not to be contacted again by that lender with respect to your inquiry, then you should specifically make a request to that lender not to contact you again. If the lender disregards your request and contacts you again, please let us know immediately by sending an email to Savoo Customer Support. Please note that the lenders may maintain the information you provided whether you elect to use their services or not.  
+**Service Requests or Loan Products -** If you submit a request for a loan product or service offered through this website we will share the personal information contained in your request form, such as your full name, physical address, telephone number, property location and self-assessed value, with lenders in our provider network strictly to process and fulfill your request. All lenders in our provider network, which include banks, mortgage lenders and brokers, have entered into marketing agreements with Savoo and are required to comply with federal and state privacy regulations. The lenders may contact you by telephone, email, or mail based on the information you provided to us in order to process and fulfill your request, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission or any state equivalent Do Not Call List. If one of the lenders contacts you by telephone and you wish not to be contacted again by that lender with respect to your inquiry, then you should specifically make a request to that lender not to contact you again. If the lender disregards your request and contacts you again, please let us know immediately by sending an email to Savoo [Customer Care](http://savings.zendesk.com/home). Please note that the lenders may maintain the information you provided whether you elect to use their services or not.  
 
 
 **Other Service or Products Requests -** If you submit a request for a product or service other than a loan such telecommunication service, we will share the personal information contained in your request form such as your full name, telephone number and email address with our business partners to process and fulfill your request. Our business partners may contact you by telephone, email, or mail based on the information you provided to us, even if you have opted into the National Do Not Call List administered by the Federal Trade Commission or any state equivalent Do Not Call List. If one of our partners contacts you by telephone and you wish not to be contacted again by that business partner with respect to your inquiry, then you should specifically make a request to that partner not to contact you again.  
@@ -74,11 +74,6 @@ We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs) 
 The security of your personal information is very important at Savoo and we take a number of steps to safeguard it. For example: We limit access to personal information to those employees or agents who assist us in providing requested products and services to you. Employees are required to comply with our strict policies and procedures regarding the handling of your personal information. Employees who violate these policies are subject to our normal disciplinary process. We maintain physical, electronic, and procedural safeguards that comply with federal standards to guard personal information about you. We use industry standard data encryption technologies when transferring and receiving consumer data on the Savoo website.   
 
 
-**Opting-Out  
-**
-
-You may register to receive communications from us directly on our website or through a third party. When you subscribe, we will periodically send you a newsletter e-mail featuring special and exclusive offers, promotions and other members-only benefits. If you no longer wish to receive these communications, please let us know by contacting [Customer Care](https://web.archive.org/web/20090623073118id_/http%3A/corporate/customercare.html), or click the [unsubscribe](https://web.archive.org/web/20090623073118id_/http%3A/corporate/unsubscribe.html) link located at the bottom of all emails, or use the [unsubscribe](https://web.archive.org/web/20090623073118id_/http%3A/corporate/unsubscribe.html) link located in the footer of our site, Savoo. Our email database is updated continually. However, you may continue to receive email communications from us up to ten business days from the time we receive your unsubscribe request. Please note that Savoo can only control its own mailing list and policies. Third party advertisers that maintain their own mailing lists may send communications that advertise our services, and you may need to contact these parties directly in order to stop receiving their email communications.
-
 **Message Boards/Chat Rooms/Blogs**
 
 If you use a message board, chat room, or blog on this site, you should be aware that any personally identifiable information you submit there can be read, collected, or used by other users of these forums, and could be used to send you unsolicited messages. We are not responsible for the personally identifiable information you choose to submit in these forums.
@@ -102,17 +97,20 @@ We are committed to protecting the privacy of children. Savoo's services are not
 **Updating your Information  
 **
 
-If you want to access or update the personal information you submitted to Savoo, please contact Savoo [Customer Support](http://savoo/corporate/customercare.html). In the alternative, you can write us at the address below and request that your personal information be updated.   
+If you want to access or update the personal information you submitted to Savoo, please contact [Customer Care](http://savings.zendesk.com/home). In the alternative, you can write us at the address below and request that your personal information be updated.   
 
 
 **Questions and Suggestions  
 **
 
-If you have any questions, concerns or suggestions about our Privacy Policy, you may contact us by sending us a message via email using the [Customer Care form](http://savoo/corporate/customercare.html), or by sending a letter to:   
+If you have any questions, concerns or suggestions about our Privacy Policy, you may contact [Customer Care](http://savings.zendesk.com/home), or you can send a letter to:   
 
 
-   Savoo, Inc  
-   Attn: Customer Support    510 State Street #200    Santa Barbara, CA 93101  
+> Savoo, Inc.  
+>  Attn: Customer Care  
+>  2932 Nebraska Avenue  
+>  Santa Monica, CA 90404  
+> 
 
 **Retention of Information  
 **
@@ -139,4 +137,4 @@ This privacy policy is not intended to and does not create any contractual or le
 
 
 **Effective Date October 18th, 2005  
-Last Updated on May 8, 2008**
+Last Updated on January 7, 2010**
