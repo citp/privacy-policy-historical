@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2008-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080907032622id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the residentadvisor.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612032925id_/http%3A//www.residentadvisor.net/privacy.aspx) for the most accurate reproduction.*
 
 # RA: Privacy policy
 
@@ -20,9 +20,9 @@ If you would rather not have cookies on your computer, you can set your browser 
 
 3\. Use and storage of your personal information
 
-RA may use the collected data about you for internal purposes only, to improve its Site and to better tailor the Site to meet your needs. 
+RA may use the collected data about you for internal purposes only, to improve its site and to better tailor the services to meet your needs. 
 
-In general, any information you provide to RA will only be used within the RA and by its agents and service providers. Your information may be disclosed to third party contractors and service providers who work with RA, to provide website services. Your information will be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content anywhere on or to www.residentadvisor.net or otherwise engage in any disruptive behaviour on the website, RA can use whatever information that is available about you to stop such behaviour. 
+In general, any information you provide to RA will only be used in relation to the site. Your information may be disclosed to third party contractors and service providers who work with RA, to provide website services. Your information will be disclosed where we are obliged or permitted by law. If you post or send offensive, inappropriate or objectionable content anywhere on or to www.residentadvisor.net or otherwise engage in any disruptive behaviour on the website, RA can use whatever information that is available about you to stop such behaviour. 
 
 4\. Security 
 
