@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2009-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090812224112id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buyusa.gov privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612050743id_/http%3A//www.export.gov/about/eg_main_016803.asp) for the most accurate reproduction.*
 
 # 
 
