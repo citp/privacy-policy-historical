@@ -1,0 +1,504 @@
+<!--The following is the downloaded HTML source of the mistercabin.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612181350id_/http%3A//www.mistercabin.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+    <title>Mister Cabin - cabins rentals:  cabin, Cottage,   Lake home, Chalet, Vacation Rental</title>
+    <meta name="description" content="find Cabin, Cottage, Chalet, Lake home and Cabin Rentals throughout the United States - Directory listing of Cabins, Chalets, Cottages, Lake Homes.">
+    <meta name="keywords" content="Cabin, Cottage, Vacation Rental, Chalet, Lake home, log cabin, cabin rentals, cabin rental, log cabins, lake cabins, mountain cabin, rent cabins, rental cabins, lake cabin rentals, vacation cabin, big bear cabins, cabin homes, luxury cabins, mountains cabins, smoky mountain cabin, mountain cabin rental, rustic cabin, accommodations, cabin rental, vacation home, vacation cabin, cabins for rent, rental cabins, cottages for rent, rent cottages, rent cabins, les chalet, ski chalet, Cottage, Chalet, Lake home">
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <link rel="stylesheet" type="text/css" href="http://mistercabin.com/css/mistercabinholiday.css">
+    <script type="text/javascript" language="JavaScript" src="http://mistercabin.com/includes/js/sarissa/sarissa.js"></script>
+    <script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/mistercabincommon.js"></script>
+	<script type="text/javascript" language="JavaScript" src="http://mistercabin.com/includes/js/dargPop.js"></script>
+    <script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/dhtmlwindow.js"></script>
+
+</head>
+<body>
+<!-- mistercabin Main Wrapper Starts Here -->
+<div id="wrapper_shadow">
+    <div id="wrapper">
+        <!-- Header Include Starts Here -->
+		<div id="header" class="clearfix">
+            <!--Header Starts Here -->
+<link rel="stylesheet" type="text/css" href="http://mistercabin.com/css/autocomplete.css">
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/mistercabinnewslettersignup.js"></script>
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/mistercabinheader.js"></script>
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/jquery.js"></script>
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/autocomplete.js"></script>
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/dimensions.js"></script>
+<script type="text/javascript" language="javascript" src="http://mistercabin.com/includes/js/dargPop.js"></script>
+<script type="text/javascript">
+	//jQuery.noConflict();
+	$(function(){
+		if(document.getElementById("SearchLocFld1")) {
+			setAutoCompleteLoc("SearchLocFld1",  "resultsloc", "http://mistercabin.com/autocompletelocationsearch.php?part=");
+		}
+	});
+</script>
+<script language="javascript" type="text/javascript">
+	var httpReq = new XMLHttpRequest();
+	function validateFrmMainSearch() {
+	}
+	function sendLoginRequest(strLoginName, strLoginPass, strRememberMe) { 
+		httpReq.open('get', 'http://mistercabin.com/loginXml.php?usr=' + strLoginName + '&pass=' + strLoginPass + '&rm=' + strRememberMe); 
+		httpReq.onreadystatechange = handleLoginResponse; 
+		httpReq.send(null); 
+	} 
+	function handleLoginResponse() { 
+		if(httpReq.readyState == 4) {
+			var response = httpReq.responseText;
+			xmlDoc=httpReq.responseXML;
+			var root = xmlDoc.getElementsByTagName('users')[0];
+			if(root != null) {
+				var items = root.getElementsByTagName("user");
+				var item = items[0];
+				var userstatus = item.getElementsByTagName("userstatus")[0].firstChild.nodeValue;
+				var userurl = item.getElementsByTagName("userurl")[0].firstChild.nodeValue;
+				if(userstatus == "User Login Success") {
+					location.href = userurl;
+				} else if(userstatus == "User Name Error") { 
+					document.getElementById("loginErrorId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Please use a valid email address and try again</span>";
+					document.getElementById("userEmailAddId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Email Address</span>";
+					document.getElementById("user_name").value = "";
+					document.getElementById("user_name").focus();
+					return false;
+				} else {
+					document.getElementById("loginErrorId").innerHTML = "Please use a valid email address and try again";
+					document.getElementById("userEmailPassId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Password</span>";
+					document.getElementById("user_password").value = "";
+					document.getElementById("user_password").focus();
+					return false;
+				}
+			}
+		} 
+	} 
+	function validatelogin(){
+		var strRemember = "";
+		if((document.getElementById("user_name").value == "")){
+			document.getElementById("loginErrorId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Please use a valid email address and try again</span>";
+			document.getElementById("userEmailAddId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Email Address</span>";
+			document.getElementById("user_name").value = "";
+			document.getElementById("user_name").focus();
+			return false;
+		}
+		if((document.getElementById("user_password").value == "")){
+			document.getElementById("loginErrorId").innerHTML = "Please use a valid email address and try again";
+			document.getElementById("userEmailPassId").innerHTML = "<span style=\"font-size:12px; color:#FF0000; \">Password</span>";
+			document.getElementById("user_password").value = "";
+			document.getElementById("user_password").focus();
+			return false;
+		}
+		if(document.getElementById("txtRememberMeId").checked == true){
+			strRemember = document.getElementById("txtRememberMeId").value;
+		}
+		sendLoginRequest(document.getElementById("user_name").value, document.getElementById("user_password").value, strRemember);
+	}
+</script>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-15637924-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+<div id="Header">
+    <div id="Logo"><a href="http://mistercabin.com/" title="mistercabin.com"><img src="http://mistercabin.com/images/logo.png" alt="Master Cabin" width="158"></a></div>
+    <div id="TopNavWrapper">
+        <div id="TopNav" style="1px solid #000000;">
+            <div id="TopNav-Right">
+                                    <a href="http://mistercabin.com/registration" class="wlink">Register</a>&nbsp;|&nbsp;<a href="javascript:toggleLayer1('signup');" class="wlink">Login</a>&nbsp;|&nbsp;<a href="http://mistercabin.com/help" class="wlink">Help</a>
+                                </div>
+            <div class="clear"></div>
+            <!-- Sign In Starts Here -->
+            <div id="signup" style="display:none; position:relative; z-index:9999; right:0px; background:#0099CC; top:0px;">
+                <div class="content">
+                    <div style="position:absolute; z-index:999;right:-20px; top:31px; width:420px;">
+                        <table width="420" border="0" cellspacing="0" cellpadding="0">
+                            <tbody><tr>
+                                <td class="leftpsign"></td>
+                                <td width="100%" align="left" valign="top" bgcolor="#FFFFFF" style="padding:10px; border-top:1px solid #CCCCCC;">
+                                    <table width="100%" border="0" cellspacing="0" cellpadding="0" class="font12">
+                                        <tbody><tr>
+                                            <td width="475" align="left" valign="top" class="head"><strong>Sign in</strong></td>
+                                            <td width="15" align="right" valign="top"><a href="javascript:toggleLayer1('signup');"><img src="http://mistercabin.com/images/pop-up-cross.gif" alt="Close" title="Close" border="0"></a></td>
+                                        </tr>
+                                        <tr><td id="loginErrorId">&nbsp;</td></tr>
+                                        <tr>
+                                            <td colspan="2" align="left" valign="top" class="PopTxt">
+                                                <table width="100%" cellspacing="0" cellpadding="0">
+                                                    <tbody><tr>
+                                                        <td id="userEmailAddId">Email Address</td>
+                                                        <td class="pad-lft25" id="userEmailPassId">Password</td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td valign="bottom"><input name="user_name" type="text" class="Textfield164" id="user_name" value="" style="position:relative;" onclick="this.focus();"></td>
+                                                        <td align="right" valign="bottom" class="pad-lft20"><span><input name="user_password" type="password" id="user_password" class="Textfield170" value="" style="position:relative;" onclick="this.focus();"></span></td>
+                                                    </tr>
+                                                    <tr><td class="pad-top7"><a href="http://mistercabin.com/forget-password.php" class="blue-link">Forgotton password</a></td><td>&nbsp;</td></tr>
+                                                    <tr>
+                                                        <td colspan="2" valign="middle">
+                                                            <table width="100%" cellspacing="0" cellpadding="0">
+                                                                <tbody><tr>
+                                                                    <td valign="bottom">
+                                                                        <table width="100%" cellspacing="0" cellpadding="0">
+                                                                            <tbody><tr>
+                                                                                <td valign="middle"><input name="txtRememberMe" id="txtRememberMeId" type="checkbox" class="checkbox" value="1"></td>
+                                                                                <td valign="bottom">Remember me on this computer </td>
+                                                                            </tr>
+                                                                        </tbody></table>
+                                                                    </td>
+                                                                    <td align="right"><a href="javascript:#" onclick="return validatelogin();"><img src="http://mistercabin.com/images/signin.gif" alt="Sign in" name="Image48" width="90" height="30" border="0"></a></td>
+                                                                </tr>
+                                                            </tbody></table>
+                                                        </td>
+                                                    </tr>
+                                                </tbody></table>
+                                            </td>
+                                        </tr>
+                                        <tr><td height="12" colspan="2" align="left" valign="top" class="dash25"></td></tr>
+                                        <tr>
+                                            <td colspan="2" valign="bottom">
+                                                <p class="FloatLft padlft15 boldTitle">Not a member</p>
+                                                <p class="FloatLft font12 pad-lft10"><a href="http://mistercabin.com/registration" class="arrowLink">Register for free</a></p>
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                                <td class="rightp" width="10"></td>
+                            </tr>
+                            <tr>
+                                <td align="right"><img src="http://mistercabin.com/images/popleftbtmsign.png" alt="ANP" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://mistercabin.com/images/popleftbtm.png', sizingMethod='crop');" width="6" height="10"></td>
+                                <td class="bottomp"></td>
+                                <td align="left"><img src="http://mistercabin.com/images/poprightbtm1.png" style="filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='http://mistercabin.com/images/poprightbtm1.png', sizingMethod='crop');" width="15" height="10" alt="ANP"></td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </div>
+            </div>
+            <!-- Sign In End Here -->
+            <div id="TopNav-Left" style="width:615px;">
+                <ul>
+                    <li class="current first_link"><a style=" z-index:9999; position: relative;" href="http://mistercabin.com/"><b>Home</b></a></li>
+                    <li><a href="http://mistercabin.com/accommodation"><b>Find a Property</b></a></li>
+                    <li><a href="http://mistercabin.com/advertise"><b>List Your Property</b></a></li>
+                    <li><a href="http://mistercabin.com/travel-guides"><b>Travel Guides</b></a></li>
+                    <li><a class="noimage" href="http://mistercabin.com/about-us"><b>About us</b></a></li>
+                </ul>
+            </div>
+            <div class="clear"></div>
+        </div>
+    </div>
+    <div class="clear"></div>
+</div>
+<div>
+<!-- holiday maker home search : start here -->
+<script language="javascript" type="text/javascript">
+	function validateFrmLocSearch(){
+		if(document.getElementById('SearchLocFld1').value == "eg Los Angeles or Chicago ..."){
+			document.getElementById('SearchLocFld1').value = "";
+		}
+	}
+</script>
+<table width="1042" border="0" cellspacing="0" cellpadding="0" class="search_bg">
+    <tbody><tr>
+        <td align="left" valign="top" class="width22">&nbsp;</td>
+        <td align="left" valign="top" class="width691 font12">
+            <form action="http://mistercabin.com/accommodation" method="post" name="frmLocSearch" id="frmLocSearch" onsubmit="validateFrmLocSearch()" style="height:60px; ">
+                <input type="hidden" name="searchKey" value="5fc45b6c22090c57955aaab71be24df9">
+                <div class="SearchMain">
+                    <div class="content">
+                        <table border="0" width="100%" cellpadding="0" cellspacing="0">
+                            <tbody><tr>
+                                <td width="300" align="left" valign="middle" class="font14-black" style="font-family:Arial, Helvetica, sans-serif;">Search now for your next vacation</td>
+                                <td width="204" align="left" valign="middle">
+                                    <input type="text" name="txtLocSearch" id="SearchLocFld1" class="searchBox1" value="eg Los Angeles or Chicago ..." onclick="return bnkLocSearch();" onblur="return restoreLocSearch();" autocomplete="off">
+                                </td>
+                                <td width="10"></td>
+                                <td width="85" align="left" valign="middle">
+                                    <input type="image" src="http://mistercabin.com/images/search.gif" alt="Search">
+                                </td>
+                                <td width="135" align="left" valign="middle" class="pad-lft10 pad-right10"><a href="http://mistercabin.com/searchform" style="text-decoration:none;" class="blue-link">Advanced search</a></td>
+                                <td align="right" valign="middle" width="139">
+                                    <div class="pad-right10 pad-top3">
+                                        <!-- AddThis Button BEGIN -->
+                                        <div style="text-align:right;">
+                                            
+                                        </div>
+                                        <!-- AddThis Button END -->
+                                    </div>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </div>
+                </div>
+            </form>
+        </td>
+        <td align="left" valign="top" class="width18">&nbsp;</td>
+    </tr>
+</tbody></table>
+<!-- holiday maker home search : end here -->
+</div>
+<!-- BreadCrumb Starts Here -->
+<div id="BreadCrumbWrapper">
+    <div id="BreadCrumb">
+        <div id="BreadCrumb-Left">
+            <span class="black">You are here:</span> <a href="http://mistercabin.com/" title="Home">Home</a>  &gt; Privacy Policy         </div>
+    </div>
+</div><!-- BreadCrumb Ends Here -->
+        </div>
+        <!-- Header Include Ends Here -->
+        <div id="div" class="clearfix">
+            <table width="984" border="0" cellspacing="0" cellpadding="0">
+                <tbody><tr>
+                    <td align="left" valign="top" class="width280">
+                        <div class="box-t">
+    <div class="box-r">
+        <div class="box-b">
+            <div class="box-l">
+                <div class="box-tr">
+                    <div class="box-br">
+                        <div class="box-bl">
+                            <div class="box-tl">
+                                <table border="0" cellspacing="0" cellpadding="0">
+                                    <tbody><tr>
+                                        <td class="font16-darkgrey pad-top5">
+                                            <h1>Newsletter Subscription</h1>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td> &nbsp;</td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <td class="pad-btm3 pad-top10" style="background:url(images/newsletter_background.gif) no-repeat; ">
+                                            <div style="height:135px; margin-bottom:10px; padding-top:20px; padding-bottom:20px; padding-left:10px; margin-right:0px; padding-right:0px;">
+
+                                                <div id="displayfrmId" style="display: block;">
+                                                    <p><span>Sign up to get the latest news<br>and offers!</span></p>
+                                                    <div id="showNewsLetterSignUpError" style="padding-left:0px;"></div>
+                                                    <input type="text" name="txtEmail" id="txtEmailId" class="search-text" size="15" value="Enter email address..." onclick="return bnkEmail();" onblur="return restoreEmail();" onkeypress="checksignupEnter(event)" autocomplete="off" style="text-decoration:none;">
+                                                    <div class="signup-box" style="margin-top:28px;">
+                                                        <input alt="Sign up" name="GO" type="image" src="images/signup.gif" border="0" id="GO" onclick="return validateSignUpForNewsletters();">
+                                                    </div>
+                                                </div>
+                                                <div id="displaythanksId" style="display: none;">
+                                                    <p><span>Sign up to get the latest news<br>and offers!</span></p>
+                                                    <p><b>Thanks for your interest</b><br> Our latest feature packed newsletter will be in your inbox soon</p>
+                                                </div>
+                                                <div id="displayuserexistId" style="display: none;">
+                                                    <p><span>Sign up to get the latest news<br>and offers!</span></p>
+                                                    <p><strong>Thanks but you're already signed up!</strong><br>Look out for the next MisterCabin newsletter in your inbox soon.</p>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="pad-top20 pad-lft0 font16-darkgrey">
+                                            <h1>Follow us on</h1>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>&nbsp; </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div class="followus" style="height:285px; background:url(images/links_to_twitter.gif) no-repeat; padding-top:20px; text-align:center; ">
+                                                <a href="http://www.facebook.com" style="text-decoration:none;"><img src="images/facebook_full.gif" style="margin-bottom:10px;" border="0"></a>
+                                                <div class="clear"></div>
+                                                <a href="http://twitter.com" style="text-decoration:none;"><img src="images/twitter_icon.gif"></a>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="font16-darkgrey">
+                                            <h1>Popular Tags</h1>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td>&nbsp; </td>
+                                    </tr>
+                                    <tr>
+                                        <td>
+                                            <div style="width:260px;">
+                                            <div class="box-t_cloud" style="width:260px;">
+                                                <div class="box-r_cloud">
+                                                    <div class="box-b_cloud">
+                                                        <div class="box-l_cloud">
+                                                            <div class="box-tr_cloud">
+                                                                <div class="box-br_cloud">
+                                                                    <div class="box-bl_cloud">
+                                                                        <div class="box-tl_cloud">
+                                                                            <div class="cloud_tags">
+                                                                                <p><a href="#">Vacation Rental</a></p>
+                                                                                <p><a href="#">Texas</a></p>
+                                                                                <p><a href="#" class="large">Cabin Rentals in New Braunfels, Texas</a></p>
+                                                                                <p><a href="#">Texas Hill Country Vacation Rentals</a></p>
+                                                                                <p><a href="#">World</a></p>
+                                                                                <p><a href="#">USA</a></p>
+                                                                                <p><a href="#" class="large">Cabin</a></p>
+                                                                                <p><a href="#"><br>Texas Travel Guides</a></p>
+                                                                                <p><a href="#">Accomodation in Braunfels</a></p>
+                                                                                <p><a href="#" class="large">Texas Holiday Rentals</a></p>
+                                                                                <p><a href="#">Apartment in Texas</a></p>
+                                                                                <p><a href="#">Texas Shopping</a></p>
+                                                                                <p><a href="#">Guest Houses in Brunfels, Texas</a></p>
+                                                                                <p><a href="#" class="large">Texas Hill Country Vacation Rentals</a></p>
+                                                                            </div>
+                                                                        </div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                    <tr><td>&nbsp;</td></tr>
+                                </tbody></table>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+                    </td>
+                    <td width="10" align="left" valign="top" class="width16">&nbsp;</td>
+                    <td align="left" valign="top" class="font12 width680">
+						<table class="font12" border="0" cellspacing="0" cellpadding="0" width="690">
+<tbody>
+<tr>
+<td class="pad-right10">
+<h1 class="page-headingNew">Privacy Policy</h1>
+</td>
+</tr>
+<tr>
+<td class="pad-btm20" align="left" valign="top">
+<table class="font12" border="0" cellspacing="0" cellpadding="0" width="690">
+<tbody>
+<tr>
+<td colspan="2" width="692" align="left" valign="bottom">
+<table border="0" cellspacing="0" cellpadding="0" width="100%">
+<tbody>
+<tr>
+<td align="left" valign="top">
+<table class="font12" border="0" cellspacing="0" cellpadding="0" width="690">
+<tbody>
+<tr>
+<td class="height20" colspan="2" align="left" valign="bottom">&nbsp;</td>
+</tr>
+<tr>
+<td class="pink14arial" colspan="2" align="left" valign="top">What information do we collect</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">We collect information from you when you register on our site or subscribe to our newsletter. When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">What do we use your information for?</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">What do we use your information for?</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top"><strong>To personalize your experience</strong> - your information helps us to better respond to your individual needs<br> <strong>To improve our website</strong> - we continually strive to improve our website offerings based on the information and feedback we receive from you<br> <strong>To improve customer service</strong> - your information helps us to more effectively respond to your customer service requests and support needs.<br> <strong>To process transactions relating to your property listings</strong> - your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the service requested.<br> <strong>To send periodic emails</strong> - the email address you provide will only be used to send you information and updates pertaining to your property listing and / or the services you have requested. If you have opted into the mistercabin.com mailing list you will receive emails that may include company news, updates, related product or service information, etc.<br></td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top"><strong>Note :</strong> If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">How do we protect your information?</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">We implement a variety of security measures to maintain the safety of your personal information when you add, update pay for your property listing or access your personal information. We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database (WorldPay) only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be stored on our servers.<br></td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Do we use cookies?</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">We only use session cookies. We do not use permanent cookies, this means whenever you leave the site all the information you entered will not be kept or stored on your personal computer.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Do we disclose any information to outside parties?</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Third party links</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Childrens Online Privacy Protection Act Compliance</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Online Privacy Policy Only</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">This online privacy policy applies only to information collected through our website and not to information collected offline.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Terms and Conditions</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <a class="blue-link" href="&lt;?php echo SITE_URL; ?&gt;terms">terms</a></td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Your Consent</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">By using our site, you consent to our web site privacy policy.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Changes to our Privacy Policy</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">If we decide to change our privacy policy, we will post those changes on this page.</td>
+</tr>
+<tr>
+<td class="pad-top5 pink14arial" colspan="2" align="left" valign="top">Contacting us</td>
+</tr>
+<tr>
+<td class=" pad-btm10" colspan="2" align="left" valign="top">If you have questions about our privacy policy then please use the ‘Contact us’ form at the following address: <a class="blue-link" href="&lt;?php echo SITE_URL; ?&gt;contact-us">contact-us</a></td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</tbody>
+</table>                    
+						                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        <div id="footer" class="clearfix">
+            <div class="footer_menu">
+    <p><a href="http://mistercabin.com/show-sitemap">Sitemap</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mistercabin.com/about-us">About Us</a>&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mistercabin.com/show-terms">Terms &amp; Condition</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mistercabin.com/privacy-policy">Privacy Policy</a> &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://mistercabin.com/contact-us">Contact Us</a></p>
+</div>
+<div class="copyright_info">
+    <p>Use of the website constitutes acceptence of the Mister Cabin.com Terms and Conditions and Privacy Policy</p>
+    <p>©2009-2010, MisterCabin.com, Inc. All Right Reserved. </p>
+</div>
+        </div>
+    </div>
+</div>
+
+
+</body></html>
