@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217001422id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsgopublic.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612153459id_/http%3A//www.jobsgopublic.com/pages/show/privacy) for the most accurate reproduction.*
 
-# jobsgopublic - Public Jobs and Careers | Pages | Show
+# jobsgopublic - Public Jobs and Careers | privacy
 
 ## Privacy Statement
 
