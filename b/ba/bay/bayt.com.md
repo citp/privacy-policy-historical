@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220033446id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bayt.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613010835id_/http%3A//www.bayt.com/en/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Bayt.com
 
-[Home](https://web.archive.org/en/home/) » Privacy Statement
+[Home](https://web.archive.org/en/home/) › Privacy Statement
 
 Bayt.com is firmly committed to protecting the privacy of our users. Our goal is to provide you with a secure online experience and to ensure that any information you submit to us is private and used/disclosed only for the purposes and in the means described below.
 
