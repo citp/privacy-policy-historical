@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620203707id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floormall.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172440id_/http%3A//www.floormall.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Floormall.com Privacy Policy
 
@@ -24,7 +24,7 @@ We respect each site visitor's right to personal privacy. To that end, we collec
 **The information we collect is:  
 
 
-  * never shared with other organizations for commercial purposes. 
+  * not shared with other organizations for commercial purposes.
 
 **  
 **This site collects cookies. ([Definition of Cookies](http://www.netlingo.com/right.cfm?term=cookies)) **  
