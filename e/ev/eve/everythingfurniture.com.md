@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2009-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091202032023id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everythingfurniture.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612173931id_/http%3A//www.everythingfurniture.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Everything Furniture Privacy Policy
 
