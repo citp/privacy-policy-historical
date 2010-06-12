@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the altera.com privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203031837id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the altera.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612033727id_/http%3A//www.altera.com/common/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -35,42 +35,27 @@
 <div class="top-banner">
 	<a href="/"><img src="/common/template/08/altera-logo.gif" alt="FPGA, CPLD, and ASIC solutions from Altera" class="altera-logo"></a>
 	
-	<div class="top-banner-right">
+	<span class="top-banner-right">
 		<ul class="quick-links">
 			<li><a href="https://www.altera.com/support/software/download/sof-download_center.html">Download Center</a></li>
 			<li><a href="/literature/lit-index.html">Literature</a></li>
 
 		</ul>
-
-		<form action="/cgi-bin/devsearch.pl" name="theSearchForm" class="search-form2" onsubmit="return isSearchFormCompleted(this);">
-		<input type="hidden" name="pn" value="0">
-		<input type="text" name="q" size="10" align="absmiddle" maxlength="512" id="searchQuery" class="search-query2" value="Search" onfocus="resetSearchField(this);" onblur="resetSearchField(this);" style="width: 155px;"><img id="searchDropdown" class="search-dropdown" src="/common/template/08/dropdown_button.gif" height="19" width="19" align="absbottom" style="display: inline;"><input type="image" id="searchButton" src="/common/template/08/search_button.gif" height="19" width="19" align="absbottom">
-		<ul id="collectionMenu" class="collection-menu2">
-			<li>Entire Site</li>
-			<li>Part Number</li>
-			<li>Knowledge Database</li>
-			<li>Support &amp; Technical Docs</li>
-			<li>Forums &amp; Wiki</li>
-		</ul>
-		<input type="hidden" name="site" value="www">
-
-		</form>
-	</div>
-	<script language="javascript" type="text/javascript"><!-- //
-		searchText = "Search";
-		document.theSearchForm.q.value = searchText;
-		// --- Reset the CSS for the Search Form if JavaScript is enable ---
-		document.getElementById("searchQuery").style.width = "155px";
-		document.getElementById("searchDropdown").style.display = "inline";
-	// --></script>
+        <span id="before-sign-in" class="sign-in-tab" style="display:inline; cursor:pointer;" onclick="popupSignin();">
+        	<a href="https://www.altera.com/myaltera/mal-index.jsp" onclick="return false;">Sign in/register<br><nobr>myAltera Account</nobr></a>
+        	<a href="https://www.altera.com/myaltera/mal-index.jsp" onclick="return false;"><img src="/common/template/08/triangle-down-on-blue.gif" border="0"></a>
+        </span>
+        <span id="after-sign-in" class="sign-in-tab" style="display:none;">
+        	<strong>Welcome</strong><br>
+            <ul class="myaltera-links">
+            	<li>&nbsp;&nbsp;<a href="https://www.altera.com/myaltera/mal-index.jsp">myAltera</a></li>
+                <li>&nbsp;&nbsp;<a href="https://www.altera.com/servlets/myaltera/logout?referer=https://www.altera.com/myaltera/mal-index.jsp">Logout</a></li>
+            </ul>
+        </span>
+	    <img id="header-tab" src="/common/template/08/sign-in-tab.gif">
+	</span>
+	
 </div>
-<!--[if lte IE 7]><style>
-	ul.collection-menu2 { position:absolute; margin:20px 0 0 -200px; width:195px; }
-</style><script>
-	document.getElementById("searchQuery").align = "absmiddle";
-	document.getElementById("searchDropdown").align = "absmiddle";
-	document.getElementById("searchButton").align = "absmiddle";
-</script><![endif]-->
 <!-- end top banner -->
 
 <!-- begin top navigation -->
@@ -137,13 +122,15 @@
 	<li><a class="hide" href="/support/spt-index.html">Support</a>
 	<!--[if lte IE 6]><a href='/support/spt-index.html'>Support<table><tr><td><![endif]-->
 	<ul>
+		<li><a href="/support/design-support-resources/spt-index-guide.html">Design &amp; Support Resources</a></li>
 		<li><a href="/support/kdb/kdb-index.jsp">Knowledge Database</a></li>
 		<li><a href="/support/devices/dvs-index.html">Devices</a></li>
 		<li><a href="/support/software/sof-index.html">Design Software</a></li>
 		<li><a href="/support/ip/ips-index.html">Intellectual Property</a></li>
-		<li><a href="/support/refdesigns/ref-index.jsp">Reference Designs</a></li>
+		<li><a href="/support/devkits/devkits-index.html">Development Kits/Cables</a></li>
 		<li><a href="/support/examples/exm-index.html">Design Examples</a></li>
-		<li><a href="/support/spt-user-communities.html">User Communities</a></li>
+		<li><a href="/download">Downloads</a></li>
+		<li><a href="/support/spt-user-communities.html">User Communities/Forums</a></li>
 		<li><a href="/mysupport">mySupport</a></li>
 	</ul>
 	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -158,7 +145,7 @@
 		<li><a href="/corporate/partners/prt-index.html">Partners</a></li>
 		<li><a href="/corporate/news_room/nr-index.jsp">Newsroom</a></li>
 		<li><a href="/corporate/ir/irs-index.html">Investor Relations</a></li>
-		<li><a href="/corporate/jobs/emp-index.jsp">Jobs</a></li>
+		<li><a href="/jobs">Jobs</a></li>
 		<li><a href="/corporate/contact/con-index.html">Contact Us</a></li>
 	</ul>
 	<!--[if lte IE 6]></td></tr></table></a><![endif]-->
@@ -178,10 +165,74 @@
 
 
 </ul>
+
+<span id="search-form" class="search-form">
+    <form action="/cgi-bin/devsearch.pl" name="theSearchForm" class="search-form2" onsubmit="return isSearchFormCompleted(this);">
+    <input type="hidden" name="pn" value="0">
+    <input type="text" name="q" size="10" align="absmiddle" maxlength="512" id="searchQuery" class="search-query2" value="Search" onfocus="resetSearchField(this);" onblur="resetSearchField(this);" style="width: 155px;"><img id="searchDropdown" class="search-dropdown" src="/common/template/08/dropdown_button.gif" height="19" width="19" align="absbottom" style="display: inline;"><input type="image" id="searchButton" src="/common/template/08/search_button.gif" height="19" width="19" align="absbottom">
+    <ul id="collectionMenu" class="collection-menu2">
+        <li>Entire Site</li>
+        <li>Part Number</li>
+        <li>Knowledge Database</li>
+        <li>Support &amp; Technical Docs</li>
+        <li>Forums &amp; Wiki</li>
+    </ul>
+    <input type="hidden" name="site" value="www">
+
+	</form>
+</span>
+<span id="myalteraSignIn" class="myaltera-sign-in" style="display:none;">
+	<img src="/js.lib/dhtmlwindow/close.gif" style="float:right;" onclick="popupSignin();">
+    <form name="myAlteraSigninForm" action="https://www.altera.com/servlets/account/authenticate" method="post">
+    <input type="hidden" name="isMyAlteraSignin" value="true">
+   	<table border="0" cellpadding="1" cellspacing="0">
+    <tbody><tr>
+    	<td align="right">Username: </td>
+		<td>&nbsp;<input type="text" name="username" maxlength="20"></td>
+    </tr>
+    <tr>
+    	<td align="right">Password: </td>
+        <td>&nbsp;<input type="password" name="password" maxlength="15"></td>
+    </tr>
+    <tr>
+    	<td>&nbsp;</td>
+        <td><input type="checkbox" id="remember-myaltera" name="remember" value="me"> <label for="remember-myaltera">Remember me</label> 
+        	<input type="submit" name="submit" value="Sign In" class="form-button"></td>
+    </tr>
+    </tbody></table>
+    </form>
+    
+    <a href="https://www.altera.com/servlets/myaltera/retrieveAccount?a=retrieveAccount">Forgot my username or password</a>
+    
+    <hr color="#069" size="1" width="100%" noshade="noshade" style="border:solid 1px #069; vertical-align:bottom;">
+    
+    <form name="myAlteraCreationForm" action="https://www.altera.com/servlets/account/checkemail?referer=https://www.altera.com/myaltera" method="post">
+    Don't have myAltera account? Register Now. <br>
+    Enter your email address: <br>
+    <input type="text" name="email" size="25" maxlength="50" style="vertical-align:middle;">
+    <input type="submit" name="submit" value="Submit" class="form-button" style="vertical-align:middle;">
+    </form>
+</span>
+
 </div>
 </div>
 </div>
 <!-- end top navigation -->
+
+<script language="javascript" type="text/javascript"><!-- //
+	searchText = "Search";
+	document.theSearchForm.q.value = searchText;
+	// --- Reset the CSS for the Search Form if JavaScript is enable ---
+	document.getElementById("searchQuery").style.width = "155px";
+	document.getElementById("searchDropdown").style.display = "inline";
+// --></script>
+<!--[if lte IE 7]><style>
+	ul.collection-menu2 { position:absolute; margin:20px 0 0 -200px; width:195px; }
+</style><script>
+	document.getElementById("searchQuery").align = "absmiddle";
+	document.getElementById("searchDropdown").align = "absmiddle";
+	document.getElementById("searchButton").align = "absmiddle";
+</script><![endif]-->
 
 
 
@@ -358,8 +409,6 @@
 <!-- end gray gutter -->
 
 <!-- begin footer -->
-<div class="footer-container-blur">
-<div class="footer-container-shadow">
 <div id="footer" class="footer-container">
 	<div id="footerNavigation" class="footer-navigation">
 		<a href="/products/prd-index.html">Products</a> |
@@ -379,22 +428,41 @@
 	</div>
 
 
-	<div id="footerCopyright" class="footer-copyright">Copyright © 1995-2009 Altera Corporation. All Rights Reserved.</div>
-	<table class="footer-icons" border="0" cellspacing="0" cellpadding="1">
-	<tbody><tr valign="top">
-		<td class="footer-icon">
-			<a href="http://www.altera.com/subscriptions/email/rss/eml-rss.html"><img class="footer-icon" src="/common/template/08/rss-icon.gif" alt="RSS Feeds" onmouseover="toggleFooterLink(1,true);" onmouseout="toggleFooterLink(1,false);"></a><br>
-			<a href="http://www.altera.com/subscriptions/email/rss/eml-rss.html" id="footerIcon1" class="footer-icon-link">RSS Feeds</a>
-		</td>
-		<td class="footer-icon">
-			<a href="https://www.altera.com/subscriptions/email/signup/eml-index.jsp"><img class="footer-icon" src="/common/template/08/email-update-icon.gif" alt="Email Updates" onmouseover="toggleFooterLink(2,true);" onmouseout="toggleFooterLink(2,false);"></a><br>
-			<a href="https://www.altera.com/subscriptions/email/signup/eml-index.jsp" id="footerIcon2" class="footer-icon-link">Email Updates</a>
-		</td>
-	</tr>
-	</tbody></table>
+	<div id="footerCopyright" class="footer-copyright">Copyright © 1995-2010 Altera Corporation. All Rights Reserved.</div>
+    
+    <table cellpadding="3" border="0" class="footer-icons"><tbody><tr valign="top">
+    <td>
+        <a href="http://www.alteraforum.com/"><img class="footer-icon" src="/common/template/08/icon-forum.gif" alt="Altera Forum"></a><br>
+        <a href="http://www.alteraforum.com/">Altera<br>Forum</a>
+    </td>
+    <td>
+        <a href="http://www.twitter.com/alteracorp"><img class="footer-icon" src="/common/template/08/icon-twitter.gif" alt="Twitter"></a><br>
+        <a href="http://www.twitter.com/alteracorp">Twitter</a>
+    </td>
+    <td>
+        <a href="/rss"><img class="footer-icon" src="/common/template/08/icon-rss.gif" alt="RSS"></a><br>
+        <a href="/rss">RSS</a>
+    </td>
+    <td>
+        <a href="http://www.facebook.com/alteracorp"><img class="footer-icon" src="/common/template/08/icon-fb.gif" alt="Facebook"></a><br>
+        <a href="http://www.facebook.com/alteracorp">Facebook</a>
+    </td>
+    <td>
+        <a href="http://www.flickr.com/photos/39424198@N08/"><img class="footer-icon" src="/common/template/08/icon-flickr.gif" alt="Flickr"></a><br>
+        <a href="http://www.flickr.com/photos/39424198@N08/">Flickr</a>
+    </td>
+    <td>
+        <a href="http://www.youtube.com/alteracorp"><img class="footer-icon" src="/common/template/08/icon-youtube.gif" alt="YouTube"></a><br>
+        <a href="http://www.youtube.com/alteracorp">YouTube</a>
+    </td>
+    <td>
+        <a href="/subscribe"><img class="footer-icon" src="/common/template/08/icon-email.gif" alt="Email Updates"></a><br>
+        <a href="/subscribe">Email<br>Updates</a>
+    </td>
+    </tr></tbody></table>
+    
 
-</div>
-</div>
+
 </div>
 <!-- end footer -->
 
