@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incomebooster.org privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219215106id_/http%3A//incomebooster.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incomebooster.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191756id_/http%3A//incomebooster.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FREE Ways to Make Money Online and Work from Home
 
@@ -7,3 +7,5 @@ This website/blog uses third-party advertising companies to serve ads when visit
 If you wish to opt out of Advertising companies tracking and tailoring advertisements to your surfing patterns you may do so at [Network Advertising Initiative](http://networkadvertising.org/managing/opt_out.asp).
 
 Google uses the Doubleclick DART cookie to serve ads across it’s Adsense network and you can get further information regarding the DART cookie at [Doubleclick](http://www.doubleclick.com/privacy/faq.aspx) as well as opt out options at [Google’s Privacy Center](http://www.google.com/privacy_ads.html)
+
+Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
