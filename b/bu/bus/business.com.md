@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213091054id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the business.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612044702id_/http%3A//www.business.com/info/privacypolicy.asp) for the most accurate reproduction.*
 
 # Business.com Privacy Policy
 
@@ -49,4 +49,4 @@ Attn: Customer Service - Business.com Privacy
 Santa Monica, CA 90404  
 [customerservice@business.com](mailto:customerservice@business.com)
 
-Copyright © 2009 Business.com, Inc. All rights reserved.
+Copyright © 2010 Business.com, Inc. All rights reserved.
