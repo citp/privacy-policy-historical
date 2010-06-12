@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vebtoday.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616170710id_/http%3A//vebtoday.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vebtoday.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612022159id_/http%3A//www.vebtoday.com/privacy.html) for the most accurate reproduction.*
 
 # vebtoday - Privacy
 
