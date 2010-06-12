@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217004229id_/http%3A//www.lipower.org/company/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lipower.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612200219id_/http%3A//www.lipower.org/privacy.html) for the most accurate reproduction.*
 
-# LIPA | Privacy Policy and Terms of Use
-
-Privacy Policy and Terms of Use
+# LIPA | Privacy Policy
 
 Thank you for visiting the LIPA Web site. We hope your visit is helpful and informative.
 
@@ -63,4 +61,4 @@ Any suggestions, comments or other feedback ("Feedback") offered to LIPA with re
 LIPA reserves the right to cease offering any or all of the Podcasting Service or Podcast Content at any time or to require you to cease any and all use of the Podcasting Service or Podcast Content at any time for any reason. LIPA assumes no liability for your activities in connection with the Podcasting Service or for your use of the Podcast Content in connection with your website, computer or MP3 player.
 
 **Contact Information  
-**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [ lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).
+**For questions regarding the Privacy Policy or the ability to review and correct personal information you submitted to LIPA, please e-mail LIPA at [lipacustomerservice@liaccount.com](mailto:lipacustomerservice@liaccount.com).
