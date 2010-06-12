@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the labtestsonline.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
 * * *
 
-**[Code of Conduct](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/pb_honcode.html "Code of Conduct") | [Terms of Use](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/terms.html "Terms of Use") | [Privacy](https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/privacy.html "Privacy")**
+**[Code of Conduct](https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/pb_honcode.html "Code of Conduct") | [Terms of Use](https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/terms.html "Terms of Use") | [Linking & Licensing](https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/content_use.html "Linking & Licensing") | [Privacy](https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/privacy.html "Privacy")**
 
 AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact. Further, we do not
 
