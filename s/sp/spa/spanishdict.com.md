@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130154951id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spanishdict.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152258id_/http%3A//www.spanishdict.com/company/privacy) for the most accurate reproduction.*
 
 # SpanishDict | Privacy
 
@@ -18,6 +18,10 @@ SpanishDict may collect statistics about the behavior of visitors to its website
 ## Protection of Certain Personally-Identifying Information
 
 SpanishDict discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on SpanishDict’s behalf or to provide services available at Curiosity Media’s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using SpanishDict’s websites, you consent to the transfer of such information to them. SpanishDict will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, SpanishDict discloses potentially personally-identifying and personally-identifying information only when required to do so by law, or when SpanishDict believes in good faith that disclosure is reasonably necessary to protect the property or rights of SpanishDict, third parties or the public at large. If you are a registered user of an SpanishDict website and have supplied your email address, SpanishDict may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with SpanishDict and our products. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. SpanishDict takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information. 
+
+## Advertising
+
+SpanishDict uses third-party advertising companies to serve ads when you visit our Website. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please visit [networkadvertising.org](http://www.networkadvertising.org/managing/opt_out.asp).
 
 ## Cookies
 
