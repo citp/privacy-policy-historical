@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230222737id_/http%3A//incansoft.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incansoft.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612214202id_/http%3A//www.incansoft.com/Privacy.php) for the most accurate reproduction.*
 
 # Incansoft | Experience The Difference Today!
 
