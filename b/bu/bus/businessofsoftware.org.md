@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219184732id_/http%3A//www.businessofsoftware.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessofsoftware.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172402id_/http%3A//www.businessofsoftware.org/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy policy | Business of Software 2008: A Joel On Software Conference
+# Privacy | Business of Software 2010: A Joel On Software Conference
+
+## Privacy
 
 Any information you give us is held with the utmost care and security, and will not be used in ways to which you have not consented.
 
