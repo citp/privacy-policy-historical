@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fast-growing-trees.com privacy policy that was archived on 2009-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090517004413id_/http%3A//www.fast-growing-trees.com/PrivacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fast-growing-trees.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612143952id_/http%3A//www.fast-growing-trees.com/PrivacyPolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,7 +8,7 @@ More Information
 
 | 
 
-By supplying us with your contact information, you agree to receive both informational & promotional emails from www.fast-growing-trees.com, as well as from other companies. Please note, your personal & private information is never shared with another company, just your email address, and you may opt out of an email by clicking the “opt out” button on the bottom any email.
+By supplying us with your contact information, you agree to receive both informational & promotional emails from www.fast-growing-trees.com, as well as from our partner companies. Please note, your personal & private information is never shared with another company, and you may opt out of an email by clicking the “opt out” button on the bottom of any email.
 
 |   
 ---|---  
@@ -24,7 +24,7 @@ Fast Growing Trees Nursery and its affiliates recognize the trust you place in u
 ---|---  
 | 
 
-Fast Growing Trees Nursery takes all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on secure servers. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by agents. Please notify us immediately if there is any unauthorized use of your account by any other Internet user or any other breach of security.  
+Fast Growing Trees Nursery takes all reasonable steps to keep secure any information which we hold about you, and to keep this information accurate and up to date. Your information is stored on our secure servers. In addition, our employees and data processors are obliged to respect the confidentiality of any personal information held by agents. Please notify us immediately if there is any unauthorized use of your account by any other Internet user or any other breach of security.  
   
 ---|---  
   
