@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218170434id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the harrahs.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612205930id_/http%3A//www.harrahs.com/privacy.html) for the most accurate reproduction.*
 
 # Harrah's Entertainment, Inc. - Privacy Policy
 
@@ -16,25 +16,18 @@
 Privacy Policy  
 Harrah's Operating Company, Inc.   
   
-**Effective Date:   March 1, 2006**
-
-* * *
-
-  
-**INTRODUCTION**
-
-Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties.  This Privacy Policy explains our practices for the following properties: Harrah's Phoenix Ak-Chin, Harrah's Rincon, Harrah's Joliet, Harrah's Metropolis, Horseshoe Hammond, Horseshoe Council Bluffs, Harrah's Council Bluffs, Harrah's Louisiana Downs, Harrah's New Orleans, Horseshoe Casino Bossier City, Horseshoe Casino Tunica, Harrah's North Kansas City, Harrah's St. Louis, Bill's Lake Tahoe, Harrah's Lake Tahoe, Harrah's Las Vegas, Harrah's Laughlin, Harrah's Reno, Harveys Lake Tahoe, Rio All-Suite Hotel & Casino, Harrah's Resort Atlantic City, Showboat Atlantic City, Harrah's Cherokee, Harrah's Chester, Bally's Las Vegas, Paris Las Vegas, Caesars Palace, Flamingo Las Vegas, Horseshoe Southern Indiana, Caesars Atlantic City, Bally's Atlantic City, Grand Biloxi, Harrah's Tunica, Tunica Roadhouse, Wild Wild West Atlantic City, Claridge Atlantic City, Poarch Creek Atmore and the corporate offices of Harrah's Operating Company, Inc. (collectively “The Properties” and/or “We”).
+**Revised:   January 8, 2010**
 
 * * *
 
   
 **CORPORATE PRIVACY POLICY**
 
-We value you as a customer and take your personal privacy seriously. In the course of providing you with credit or other financial services we collect certain personal information about you that we understand you may consider private or confidential.  This information may be contained in applications   and other forms you submit to us, gathered from your gaming activity with us,  or obtained from our affiliates and other third parties such as credit bureaus. We are therefore providing you with this notice to explain our policies for collecting, using and sharing this information with others.
+We value you as a customer and take your personal privacy seriously. In the course of providing you with credit or other financial services, we collect certain personal information about you that we understand you may consider private or confi dential. This information may be contained in applications and other forms you submit to us, gathered from your gaming activity with us, or obtained from our affiliates and other third parties such as credit bureaus. We are therefore providing you with this notice to explain our policies for collecting, using and sharing this information with others. Harrah's Operating Company, Inc. and all of our subsidiaries, affiliates, casinos and resorts have an unwavering commitment to providing outstanding products and services to visitors to our properties. This Privacy Policy explains our practices for all properties and/or entities owned, operated or managed by Harrah's Operating Company, Inc. or its affiliates in the United States (collectively "The Properties" and/or "We"). 
 
 **Our Privacy Principles**
 
-  * We protect, according to strict standards of security and confidentiality,  all nonpublic personal information we collect about our customers.
+  * We protect, according to strict standards of security and confi dentiality, all nonpublic personal information we collect about our customers.
 
   * We maintain physical, electronic and organizational safeguards to protect this information.
 
@@ -42,14 +35,14 @@ We value you as a customer and take your personal privacy seriously. In the cour
 
   * We afford former customers the same protections as existing customers with respect to the use and sharing of their information.
 
-  * We permit only authorized employees, who are trained in the proper handling of this information, to have access to it.
+  * We permit only authorized employees, who are trained in the proper handling of this information to have access to it.
 
 
 
 
 **Information We May Collect**
 
-We collect and use information we believe is necessary to administer our business and provide you with the financial services you request.  We may collect and maintain several types of information needed for these purposes, such as those stated below.
+We collect and use information we believe is necessary to administer our business and provide you with the fi nancial services you request. We may collect and maintain several types of information needed for these purposes, such as those stated below.
 
   * Information we receive on applications for credit or other financial services, such as your name, address, telephone number, Social Security number and other identifying information.
 
@@ -62,19 +55,19 @@ We collect and use information we believe is necessary to administer our busines
 
 **Information Disclosure to Affiliated Entities**
 
-If necessary, we may share information we receive from you, and about your transactions with us, with our affiliates, including our owned, operated, and managed casinos licensed under the Harrah's, Horseshoe, Rio, Showboat, Harveys, Caesars, Bally's, Paris, Grand, Tunica Roadhouse, and Flamingo brand names. Doing so allows us to quickly respond to applications for credit or other financial services at these properties to better serve our customers.
+If necessary, we may share information we receive from you, and about your transactions with us, with our affi liates, including our owned, operated, and managed casinos and other corporate entities or affiliates. Doing so allows us to quickly respond to applications for credit or other financial services at these properties to better serve our customers.
 
 **Information Disclosure to Non-Affiliated Entities**
 
-We share the information we collect about our customers with credit bureaus, collection agencies, and other non-affiliated third parties only as permitted by law.  If you are a participant in our Total Rewards® Program, we may share certain limited information about you with other businesses with which we contract, who may contact you as part of a joint marketing or promotional program (Joint Marketers).  These businesses may include financial services companies, such as banks and insurance companies, other service providers, such as airlines and car rental agencies, and retailers. The information we share with them such as your name, address, and telephone number is gathered solely from your participation in the Total Rewards Program.
+As permitted by law, we share the information we collect about our customers with credit bureaus, collection agencies, and other nonaffiliated third parties. If you are a participant in our Total Rewards® Program, we may share certain limited information about you with other businesses with which we contract, who may contact you as part of a third party promotional program, affi liated loyalty program or due to the sale or transfer of one of our Properties "Third Parties". The information we share with them such as your name, address and telephone number is gathered solely from your participation in the Total Rewards Program.
 
 **Your Choice to Share Information**
 
-If you prefer that we not share your personal information with Joint Marketers, please follow the instructions provided in this brochure.  If you are a Total Rewards account holder who enrolled in the State of Nevada or California, and have a joint account with a spouse, any spouse can opt out on behalf of the other.
+If you prefer that we not share your personal information with Third Parties, please follow the instructions provided in this brochure.
 
 **When We Will Notify You**
 
-We will inform you of our Privacy Policy at least once a year, as long as you are a current credit or financial services customer of ours. If you no longer have a customer relationship with us - if you have not played, stayed, dined, used your Total Rewards card or conducted any other business with us in the past 24 months - we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future.
+We will inform you of our Privacy Policy at least once a year, as long as you are a current credit or fi nancial services customer of ours. If you no longer have a customer relationship with us, we will continue to follow our Privacy Policy, but you will not receive annual notices from us in the future.
 
 **Changes in Privacy Policy**
 
