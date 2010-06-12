@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnas.org privacy policy that was archived on 2009-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090625092501id_/http%3A//www.cnas.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnas.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612214801id_/http%3A//www.cnas.org/privacy) for the most accurate reproduction.*
 
 # CNAS Privacy Policy | Center for a New American Security
 
