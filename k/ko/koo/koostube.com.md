@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the koostube.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231093355id_/http%3A//www.koostube.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the koostube.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612125117id_/http%3A//www.koostube.com/privacy.php) for the most accurate reproduction.*
 
 # We give you porn tube for free! Porno videos in KoosTube - Privacy Policy
 
