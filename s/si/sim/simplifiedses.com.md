@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the simplifiedses.com privacy policy that was archived on 2009-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090123101410id_/http%3A//simplifiedses.com/Privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplifiedses.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612225145id_/http%3A//simplifiedses.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SimplifiedSES.com
+# Privacy Policy
 
 ##### Privacy Policy
 
 At Simplified Web Systems, we respect the privacy needs of our valued members. This Privacy Policy outlines what specific information is gathered on the Simplified Search Engine Suite and how that information is used.
 
-Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our members. If, at any time, you have questions or concerns about our privacy practices, please feel free contact us at .
+Maintaining the privacy of your information is of paramount importance to us as it helps foster confidence, goodwill and stronger relationships with you, our members. If, at any time, you have questions or concerns about our privacy practices, please feel free to [contact us](https://web.archive.org/contact).
 
 ###### Information Collection and Use
 
