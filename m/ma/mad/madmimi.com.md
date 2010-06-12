@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213133728id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the madmimi.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612064301id_/http%3A//madmimi.com/legal/privacy) for the most accurate reproduction.*
 
 # Mad Mimi Email Marketing
 
