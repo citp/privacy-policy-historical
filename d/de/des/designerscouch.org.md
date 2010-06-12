@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designerscouch.org privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115182715id_/http%3A//designerscouch.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designerscouch.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190823id_/http%3A//designerscouch.org/about/privacy) for the most accurate reproduction.*
 
 # DesignersCouch: Privacy Policy
 
