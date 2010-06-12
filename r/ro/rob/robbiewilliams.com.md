@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807033517id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbiewilliams.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612224447id_/http%3A//www.robbiewilliams.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - RobbieWilliams.com
+# Privacy Policy | RobbieWilliams.com
 
 **ROBBIEWILLIAM.COM SITE PRIVACY POLICY**
 
