@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2009-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090427170146id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 2-surf.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612162909id_/http%3A//www.2-surf.net/privacy.php) for the most accurate reproduction.*
 
 # Cosmetics,Fragrance,Handbags,Jewelry,Shoes,Music,Art,Music,Automotive,WebTools
 
@@ -12,47 +12,8 @@
 |    
   
   
-|  Recent Listings  
----  
   
-  [ ** _Anti BUSh Gear_**](http://www.2-surf.net/ClothingApparel/Children's/7-25-0-2441-0-0.html) \- USA, 
-
-  The place to buy anti Bush Gear. Shirts,ornaments,bumperstickers,greeting cards,
-
-  (10-20-2006)
-
-  [ ** _Search-engine-web-link_**](http://www.2-surf.net/Web-Services/Advice/28-112-0-19989-0-0.html) \- USA, California 
-
-  Web consulting company - search engine optimization, submissions to search engin
-
-  (01-08-2007)
-
-  [ ** _Megrisofts_**](http://www.2-surf.net/Web-Services/Web-Tools/28-121-0-4379-0-0.html) \- India, 
-
-  WebmasterDirectory.Biz offers a variety of resources for webmasters ranging from
-
-  (10-20-2006)
-
-  [ ** _CVonNET_**](http://www.2-surf.net/Careers/Employment/6-23-0-8564-0-0.html) \- USA, 
-
-  Create a professional and attractive CV or resume within a few minutes. Choose b
-
-  (10-20-2006)
-
-  [ ** _California Vehicle Accident Lawyer_**](http://www.2-surf.net/Legal/Services/20-88-0-1844-0-0.html) \- USA, 
-
-  Vehicle accidents are accidents involving cars, trucks, buses and motorcycles. C
-
-  (10-19-2006)
-
-  [ ** _Our Secret Garden Mountain Retreat Cabins & Cottages_**](http://www.2-surf.net/Travel/Hotel/27-109-0-9466-0-0.html) \- USA, 
-
-  Big Bear Lake, CA romantic jacuzzi cabins and cottages hand stenciled in roses, 
-
-  (10-20-2006)  
-  
-  
-  
+|    
   
 
 
@@ -157,6 +118,8 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 **2-Surf.net's and 2-surf.com's Privacy Policy**   
   
   
+---|---  
+  
   
 |  Help  
 ---  
@@ -167,29 +130,29 @@ Though we make every effort to preserve user privacy, we may need to disclose pe
 Featured Listings  
 ---  
   
-  [ ** _Computer Shop Finder_**](http://www.2-surf.net/Computer-&-Electronics/Computer-Stores/9-145-0-29556-0-0.html) \- United Kingdom, Louisiana 
+  [ ** _Area Rugs at DecoraRugs.com_**](http://www.2-surf.net/ArtPhotoMusic/Art/2-4-0-29589-0-0.html) \- USA, California 
 
-  This website lists every computer shop in the UK, you can leave a computer shop 
+  Area Rugs - At Decora Rugs we offer a tremendous area rug collection, including 
 
-  [ ** _GoRecroot_**](http://www.2-surf.net/Careers/Job-Boards/6-143-0-29586-0-0.html) \- USA, Massachusetts 
+  [ ** _gVilla Boutique_**](http://www.2-surf.net/Accessories/Clothes-Shops/1-133-0-29579-0-0.html) \- United Kingdom, New York 
 
-  Job advertising, post jobs and resume database access for international recruitm
+  We are an online department store specialising in designer goods. We offer class
 
-  [ ** _www.123print.com_**](http://www.2-surf.net/Business/Business-To-Business/5-18-0-12432-0-0.html) \- USA, Maryland 
+  [ ** _Osteoporosis Treatment with ACTONEL_**](http://www.2-surf.net/Health-&-Beauty/Wellness/17-76-0-29622-0-0.html) \- USA, Massachusetts 
 
-  Provides online design for customized products like business cards, post cards, 
+  ACTONEL prevents and treats osteoporosis. It is the only oral monthly osteoporos
 
-  [ ** _Graphic Designer Finder_**](http://www.2-surf.net/Web-Services/Web-Design/28-119-0-29526-0-0.html) \- United Kingdom, Georgia 
+  [ ** _Green Culture_**](http://www.2-surf.net/Home-&-Garden/Furniture/18-79-0-29562-0-0.html) \- USA, California 
 
-  This website is provides a full directory of all UK graphic designers, website d
+  GreenCulture is one of the leading eco-friendly retailers on the web. Visit GCRu
 
-  [ ** _Lanzarote Tourist_**](http://www.2-surf.net/Travel/Vacation/27-111-0-19129-0-0.html) \- Europe, Alabama 
+  [ ** _Jolly Soft Toys_**](http://www.2-surf.net/Games-&-Toys/Games/15-62-0-29625-0-0.html) \- United Kingdom, Other 
 
-  Information on local history, current weather and a complete overview of the mai
+  This website sells great value soft toys, teddies, kids toys, childrens toys &am
 
-  [ ** _Ritmomontreal_**](http://www.2-surf.net/Entertainment/News/11-148-0-29600-0-0.html) \- Canada, Other 
+  [ ** _EducationalToysNow.com_**](http://www.2-surf.net/Games-&-Toys/Toys/15-63-0-29601-0-0.html) \- USA, Oregon 
 
-  Showcase reggaeton music and videos form artists such has Wisin y Yandel, Daddy   
+  Educational Toys that make learning fun for toddler and preschool age children.   
   
   
 Top Listings  
@@ -199,44 +162,44 @@ Top Listings
 
   generic pharmacy online offers you the finest quality generic drugs for a very c
 
-  ( **20901** Hits since 10-20-2006)
+  ( **24936** Hits since 10-20-2006)
 
   [ ** _drugstores4u.com_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2222-0-0.html) \- Canada, 
 
   FDA approval drugs online, the cheapest prescription Tramadol, fioricet, ultram,
 
-  ( **20350** Hits since 10-19-2006)
+  ( **23744** Hits since 10-19-2006)
 
   [ ** _bestgenericpharmacy_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-2809-0-0.html) \- USA, 
 
   Order generic Viagra and other prescription drugs online, online generic pharmac
 
-  ( **17235** Hits since 10-20-2006)
-
-  [ ** _PillHunt_**](http://www.2-surf.net/Sports-&-Fitness/Exercise-&-Health/26-102-0-2305-0-0.html) \- USA, 
-
-  Weightloss comparison and general fitness information at Pillhunt.com
-
-  ( **10072** Hits since 10-20-2006)
-
-  [ ** _genericsmed_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-15787-0-0.html) \- United Kingdom, Other 
-
-  Buy Generic Viagra, Cialis, Propecia, Levitra online. Guaranteed Cheap,Confident
-
-  ( **9204** Hits since 10-29-2006)
+  ( **21138** Hits since 10-20-2006)
 
   [ ** _Cheap Web Design_**](http://www.2-surf.net/Web-Services/Web-Design/28-119-0-19105-0-0.html) \- United Kingdom, Alabama 
 
   Cheap inexpensive website design, SEO and Marketing based in scotland UK. Low pr
 
-  ( **9162** Hits since 12-21-2006)  
+  ( **14720** Hits since 12-21-2006)
+
+  [ ** _PillHunt_**](http://www.2-surf.net/Sports-&-Fitness/Exercise-&-Health/26-102-0-2305-0-0.html) \- USA, 
+
+  Weightloss comparison and general fitness information at Pillhunt.com
+
+  ( **13693** Hits since 10-20-2006)
+
+  [ ** _genericsmed_**](http://www.2-surf.net/Health-&-Beauty/Pharmaceuticals/17-73-0-15787-0-0.html) \- United Kingdom, Other 
+
+  Buy Generic Viagra, Cialis, Propecia, Levitra online. Guaranteed Cheap,Confident
+
+  ( **12528** Hits since 10-29-2006)  
   
   
   
   
   
   
-© 2001-2009 [ 2-surf.net ](http://www.2-surf.net/) All Rights Reserved. 
+© 2001-2010 [ 2-surf.net ](http://www.2-surf.net/) All Rights Reserved. 
 
 All logos and trademarks in this site are property of their respective owners. 
 
