@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theskinnywebsite.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230220825id_/http%3A//theskinnywebsite.com/site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theskinnywebsite.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612074011id_/http%3A//theskinnywebsite.com/site/privacy-policy) for the most accurate reproduction.*
 
 # The Skinny Website:: Gossiping about skinny celebrities, celebrity diets, body and weight since 2005!
 
