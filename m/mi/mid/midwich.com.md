@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230060235id_/http%3A//www.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwich.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612143338id_/http%3A//www.midwich.com/about/tac/privacy_policy) for the most accurate reproduction.*
 
 # Midwich Ltd
 
@@ -28,12 +28,12 @@ WHO WE SHARE THE INFORMATION WITH AND YOUR CHOICES
 When you use this site and have not advised us to the contrary, you are agreeing that we may use your personal information for the purposes set out in this statement.  
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.  We may release your personal information to our authorised direct marketing agents unless you tell us that you do not wish this to happen.  
 When you provide any information on line, you should look for the boxes on the user details registration page. You can click to say that you do not want the information to be used by anyone for direct marketing purposes.  If you have not previously objected to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or e-mailing us at:  
-    Marketing, Midwich Limited, Gilray Road, Diss, Norfolk, IP22 4YT  
+    Marketing, Midwich Limited, Vinces Road, Diss, Norfolk, IP22 4YT  
     Email: [marketing@midwich.com](mailto:marketing@midwich.com)
 
 WHAT IF YOU THINK WE HAVE INCORRECT INFORMATION OR YOU WOULD LIKE A COPY OF THE INFORMATION WE HOLD ABOUT YOU?  
 You may request details of personal information which we hold about you under the Data Protection Act 1998.  A small fee will be payable.  This fee will not exceed £10.  If you would like a copy of the information held on you please write to:  
-    Marketing, Midwich Limited, Gilray Road, Diss, Norfolk, IP22 4YT  
+    Marketing, Midwich Limited, Vinces Road, Diss, Norfolk, IP22 4YT  
     Email:[marketing@midwich.com](mailto:marketing@midwich.com)  
 If you believe that any information we are holding on you is incorrect or incomplete, please write or e-mail us as soon as possible to the above address.  We will correct any information which was found to be incorrect promptly.
 
