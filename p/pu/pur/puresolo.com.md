@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the puresolo.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203174159id_/http%3A//www.puresolo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the puresolo.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612041702id_/http%3A//www.puresolo.com/privacy) for the most accurate reproduction.*
 
 # Download Sheet Music, Download Backing Tracks & Download Karaoke Songs | PureSolo
 
