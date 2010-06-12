@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217092926id_/http%3A//www.feedblitz.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedblitz.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612064855id_/http%3A//www.feedblitz.com/privacy.asp) for the most accurate reproduction.*
 
 # FeedBlitz Privacy Policy
 
