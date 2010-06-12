@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115140445id_/http%3A//www.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubely.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612221918id_/http%3A//www.tubely.com/index.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
 # Tubely
 
@@ -8,7 +8,7 @@ Tubely does not send Spam or sell email addresses.
 
 **About Tubely and the Information We Collect**
 
-Tubely is an online social networking community that connects people through networks of friends for dating or making new friends. To accomplish this, our users create their own profiles which are shown to the people in their personal network. A personal network consists of a user?s friends as well as the extended group of people that a user is connected to via chains of mutual friends. To fulfill the purpose of this site, some personal information we ask for is displayed to people within these personal networks. 
+Tubely is an online social networking community that connects people through networks of friends or making new friends. To accomplish this, our users create their own profiles which are shown to the people in their personal network. A personal network consists of a user's friends as well as the extended group of people that a user is connected to via chains of mutual friends. To fulfill the purpose of this site, some personal information we ask for is displayed to people within these personal networks. 
 
 **Information Collected/Tracked by Tubely**
 
