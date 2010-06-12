@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211203131id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wikimediafoundation.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190305id_/http%3A//wikimediafoundation.org/wiki/Wikimedia%3APrivacy_policy) for the most accurate reproduction.*
 
 # Privacy policy - Wikimedia Foundation
 
@@ -12,6 +12,7 @@ Wikimedia policies
   * [Access to nonpublic data](https://web.archive.org/wiki/Access_to_nonpublic_data_policy "Access to nonpublic data policy")
   * [Licensing and copyright](https://web.archive.org/wiki/Resolution:Licensing_policy "Resolution:Licensing policy")
   * **Privacy** and [donor privacy](https://web.archive.org/wiki/Donor_Privacy_Policy "Donor Privacy Policy")
+  * [Trademarks](https://web.archive.org/wiki/Trademark_Policy "Trademark Policy")
 
 
   * Board and staff 
@@ -73,7 +74,7 @@ The Foundation limits the collection of personally identifiable user data to pur
 
 ####  Cookies
 
-    The sites set a temporary session cookie on a visitor's computer whenever a Project page is visted. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use. 
+    The sites set a temporary session cookie on a visitor's computer whenever a Project page is visited. Readers who do not intend to log in or edit may deny this cookie; it will be deleted at the end of the browser's session. More cookies may be set when one logs in to maintain logged-in status. If one saves a user name or password in one's browser, that information will be saved for up to 30 days, and this information will be resent to the server on every visit to the same Project. Contributors using a public machine who do not wish to show their username to future users of the machine should clear these cookies after use. 
 
 ####  Page history
 
