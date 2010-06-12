@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219071746id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dillards.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612163252id_/http%3A//www.dillards.com/info/notices.jsp%23PrivacyPolicy) for the most accurate reproduction.*
 
 # Dillard's.com | Company Notices and Terms of Use
 
@@ -114,8 +114,6 @@ Dillard's will issue a refund in the form and amount of the original tender paid
 
 
 ### Dillards.com Privacy Policy
-
-Dillards.com Privacy Policy
 
 Thank you for visiting Dillards.com. Dillard’s understands that on-line privacy is very important to you. We have adopted this Internet Privacy Policy as part of our commitment to your privacy. The terms “we,” “us,” and “our” refer to the Dillard’s Inc. family of companies, operators of Dillard’s retail stores and Dillards.com. 
 
