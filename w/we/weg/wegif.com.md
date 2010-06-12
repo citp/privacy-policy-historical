@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wegif.com privacy policy that was archived on 2009-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090609051324id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegif.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612163125id_/http%3A//www.wegif.com/privacy) for the most accurate reproduction.*
 
 # WeGIF.com - Privacy Policy
 
