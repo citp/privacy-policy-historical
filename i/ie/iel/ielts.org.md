@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001062947id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ielts.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202648id_/http%3A//www.ielts.org/privacy_policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
