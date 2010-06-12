@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficmystic.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203083842id_/http%3A//www.trafficmystic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficmystic.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612063406id_/http%3A//www.trafficmystic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guaranteed SEO Website Rankings
 
