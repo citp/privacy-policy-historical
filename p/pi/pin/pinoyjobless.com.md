@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208110901id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinoyjobless.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613010531id_/http%3A//pinoyjobless.com/about) for the most accurate reproduction.*
 
 # Privacy Policy | Dine Laang!
 
