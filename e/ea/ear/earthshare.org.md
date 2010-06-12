@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229172341id_/http%3A//earthshare.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthshare.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612192211id_/http%3A//www.earthshare.org/privacy-policy.html) for the most accurate reproduction.*
 
 # About: EarthShare’s Donor Privacy Policy
-
-## E-NEWS SIGNUP
-
-**Join our online community!** Sign up to receive green tips, news about your favorite charities, quiz contests & more, delivered every other week. 
 
 EarthShare values and respects its donors’ right to privacy. It affirms that its fund-raising practices protect against unauthorized use of its contributor lists, and permits no general telephone solicitation of the public. 
 
@@ -17,11 +13,3 @@ Visitors to the EarthShare Web site remain anonymous. EarthShare does not requir
 We use a number of web analytics products to optimize our website, including Google Analytics and Google Website Optimizer.  These tools do not require our site visitors to identify themselves, and they do not provide us any personally identifiable information about our visitors that is not supplied voluntarily. Our goal in using analytics is to understand what parts of our website you like and which parts need work.  We encourage you to accept cookies when surfing our website so we can do our job of providing you useful information as effectively as possible.
 
 EarthShare welcomes [**comments and questions**](mailto:info@earthshare.org) about this policy. We are committed to protecting your personal information, and will make every reasonable effort to keep that information secure.
-
-## GET INVOLVED
-
-[](https://web.archive.org/tell-us-about-your-workplace-and-receive-a-reusable-chico-bag.html)
-
-Want to show your green side at work? Help us introduce the EarthShare workplace giving program to your employer! 
-
-[Tell us more](https://web.archive.org/tell-us-about-your-workplace-and-receive-a-reusable-chico-bag.html) to get started!
