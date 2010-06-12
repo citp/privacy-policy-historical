@@ -1,19 +1,29 @@
-<!--The following is the downloaded HTML source of the bsr.org privacy policy that was archived on 2009-05-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090526085857id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bsr.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612212201id_/http%3A//www.bsr.org/about/privacy-policy.cfm) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<link rel="shortcut icon" href="#">
-	<meta name="viewport" content="width=950, initial-scale=0.45, minimum-scale=0.45">
+	<meta name="viewport" content="width = device-width">
 	
 	<link rel="shortcut icon" href="/favicon.ico">
 	
 	<link rel="stylesheet" type="text/css" media="screen, projection" href="/styles/framework.css">
 	<link rel="stylesheet" type="text/css" media="print" href="/styles/print.css">
+		
+	<script type="text/javascript" src="/js/jquery.js"></script>
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	<script type="text/javascript"><!--//--><![CDATA[//><!--
 		sfHover = function() {
-			var sfEls = document.getElementById("main-nav").getElementsByTagName("LI");
+			var sfEls = document.getElementById("navigation-bar").getElementsByTagName("li");
 			for (var i=0; i<sfEls.length; i++) {
 				sfEls[i].onmouseover=function() {
 					this.className+=" sfhover";
@@ -24,26 +34,45 @@
 			}
 		}
 		if (window.attachEvent) window.attachEvent("onload", sfHover);
-	//--><!]]></script>
-	
-	
-	
+		
+		sfHoverMeta = function() {
+			var sfmEls = document.getElementById("meta-navigation").getElementsByTagName("li");
+			for (var i=0; i<sfmEls.length; i++) {
+				sfmEls[i].onmouseover=function() {
+					this.className+=" sfhover-meta";
+				}
+				sfmEls[i].onmouseout=function() {
+					this.className=this.className.replace(new RegExp(" sfhover-meta\\b"), "");
+				}
+			}
+		}
+		if (window.attachEvent) window.attachEvent("onload", sfHoverMeta);
+	//--><!]]>
+	</script>
 	
 	
 	<script type="text/javascript">
-		function openWindow(url, name) {
+		function newWindow(url, name) {
   			popupWin = window.open(url, name, 'scrollbars,width=500,height=400,resizable=yes,left=25,top=25')
 		}
+	</script>
+	<script language="javascript" type="text/javascript">
+		<!--
+		function popitup(url) {
+			newwindow=window.open(url,'name','height=600,width=850');
+			if (window.focus) {newwindow.focus()}
+				return false;
+		}
+		
+		// -->
 	</script>
 		
 	
 	
 			
-				
 			
-			
-				
-				
+					
+					
 			
 		
 		
@@ -52,286 +81,397 @@
 	
 
 	
-		<title>BSR | BSR Privacy Policy</title>
+		<title>BSR: BSR Privacy Policy</title>
 		<meta name="Keywords" content="Business for Social Responsibility, BSR, corporate social responsibility, CSR, corporate responsibility, social responsibility, business, ethics, ethical, ethical business, ethical businesses, business ethics, global, global ethics, business codes, values, business values, culture, corporate culture, triple bottom line, companies, fortune 500 companies, global 1000 companies, innovate, innovative, company policy, social policies, social responsibility of business, social responsibilities of businesses, San Francisco businesses, bay area businesses, social venture, social entrepreneurship, models of corporate social responsibility, community investment, community economic development, community development, community development banking, community partnerships, underserved communities, minority business owners, MBE, women business owners, WBE, philanthropy, environment, sustainable, sustainable business practices, sustainable businesses, green, green products, green product design, green building, green building design, environmental justice, social justice, climate, governance, governance and accountability, corporate accountability, reporting, disclosure, social audits, human rights, child labor, child labor laws, labor law, LaborLaw, discrimination, cottage industry, marketplace, workplace, mission, vision, privacy, e-privacy, diversity, work-life, conference, discussion boards, web boards, survey, survey tools, cause-related marketing, CRM, SRI, socially responsible investing, responsible business transparency, socially responsible business practices, stakeholder engagement, codes of conduct, UN Global Compact, sustainable development, climate change, business strategy, corporate leadership, globalization, supply chain">
 		<meta name="Description" content="Business for Social Responsibility (BSR) is a global partner for responsible business leaders. The BSR website provides in-depth reports, news summaries, leadership practices, membership information and links. Topic areas include Corporate Social Responsibility; Business Ethics; Community Involvement; Community Economic Development; Environment; Governance &amp; Accountability; Human Rights; Marketplace; Mission, Vision, Values; and Workplace.">
 	
 </head>
 <body>
-	<a name="top">&nbsp;</a>
-	<!--
-		Accessibility: Skip to content anchor link
-	-->
-	<div class="hide-visibility">
-		<ul>
-			<li><a href="#main_content">Skip navigation links</a></li>
-		</ul>
-	</div>
-
-	<div id="content-container">
-		<div id="member-area">
-			<!--
-				Get the top-right links
-			-->
+<a name="top"><!-- --></a>
+<!--
+	Accessibility: Skip to content anchor link
+-->
+<div class="hide">
+	<ul>
+		<li><a href="#main_content">
 			
+				Jump to member login</a>
+			
+		</li>
+	</ul>
+</div>
+
+
+<div id="header">
+	<div class="content-container">
+		
+		
 
 <div id="login-bar">
-	<ul>
+	<ul id="meta-navigation">
+		<!--
+		<li><a href="#altmenu" onclick="$('#backpanel').slideToggle(200,'linear')">Pull-Down Navigation &#8595;</a></li>
+		<li class="top-level-meta-link"><a href="#" id="altmenu" onClick="$('#backpanel').slideToggle(250,'linear')">Pull-Down Navigation &#8595;</a></li> -->
+		<li class="top-level-meta-link"><a href="/about/index.cfm">About</a>
+			<ul class="sfhover-meta">
+				<li><strong>About</strong></li>
+				<li><a href="/about/how-we-work.cfm">How We Work</a></li>
+				<li><a href="/about/bsr-report.cfm">BSR Report</a></li>
+				<li><a href="/about/contact.cfm">Contact</a></li>
+				<li><strong>People</strong></li>
+				<li><a href="/about/staff.cfm">Staff List</a></li>
+				<li><a href="/about/board.cfm">Board of Directors</a></li>
+				<li><a href="/about/collaboration.cfm">Collaboration</a></li>
+				<li><a href="/bsrjobs">Jobs at BSR</a></li>
+				<li><a href="/about/values-culture-work-life.cfm">Values &amp; Culture</a></li>
+				<li><strong>Press</strong></li>
+				<li><a href="/about/media/index.cfm">Media Center</a></li>
+				<li><a href="/about/media/in-the-news.cfm">In the News</a></li>
+				<li><a href="/about/media/spokespeople.cfm">Expert Sources</a></li>
+			</ul>
+		</li>
+		<li class="top-level-meta-link"><a href="http://blog.bsr.org">Blog</a></li>
+		<li class="top-level-meta-link"><a href="/about/bsr-report.cfm">BSR Report</a></li>
+		<li class="top-level-meta-link"><a href="/fr/index.cfm">français</a>
+			<ul class="sfhover-meta">
+				<li><strong>français</strong></li>
+				<li><a href="/fr/index.cfm">Accueil</a></li>
+				<li><a href="/fr/about/index.cfm">A propos de bsr</a></li>
+				<li><a href="/fr/membership/index.cfm">Devenir membre</a></li>
+				<li><a href="/fr/consulting/index.cfm">Conseils</a></li>
+				<li><a href="/fr/research/index.cfm">Recherche &amp; Innovation</a></li>
+				<li><a href="/fr/about/contact.cfm">Nous contacter</a></li>
+			</ul>
+		</li>
+		<li class="top-level-meta-link"><a href="/cn/index.cfm">中文</a>
+			<ul class="sfhover-meta">
+				<li><strong>关于BSR (商务社会责任国际协会)</strong></li>
+				<li><a href="/cn/about/index.cfm">BSR介绍</a></li>
+				<li><a href="/cn/about/staff.cfm">BSR员工</a></li>
+				<li><a href="/cn/about/contact.cfm">联络我们</a></li>
+				<li><strong>会员</strong></li>
+				<li><a href="/cn/membership/join.cfm">成为BSR会员</a></li>
+				<li><strong>核心业务</strong></li>
+				<li><a href="/cn/consulting/overview.cfm">核心业务介绍</a></li>
+				<li><a href="/cn/consulting/csr-chinese-characteristics.cfm">建设中国特色的企业社会责任体系</a></li>
+				<li><a href="/cn/consulting/environment.cfm">环境保护: 水资源与气候变化</a></li>
+				<li><a href="/cn/consulting/industries/financial-services.cfm">可持续金融</a></li>
+				<li><a href="/cn/consulting/next-gen-supply-chain.cfm">新一代的供应链管理</a></li>
+				<li><a href="/cn/consulting/framing-csr-dialogue.cfm">构建企业社会责任对话与合作机制</a></li>
+				<li><a href="/cn/consulting/working-groups/index.cfm">工作小组</a></li>
+				<li><a href="/cn/consulting/impact/index.cfm">重要案例</a></li>
+				<li><strong>前瞻性研究与开发</strong></li>
+				<li><a href="/cn/research/index.cfm">前瞻性研究与开发介绍</a></li>
+				<li><a href="/cn/research/sustainable-investment-article.cfm?documentid=53649">出版物：中国可持续投资</a></li>
+				
+				<li><strong>最新活动</strong></li>
+				<li><a href="/cn/events/index.cfm">最新活动介绍</a></li>
+				<li><a href="/cn/resources/featured-resources.cfm">出版物</a></li>
+			</ul>
+		</li>
 		
 		
-				<li><a href="https://www.bsr.org/login/index.cfm">Member Login</a></li>
-		
+			<li class="top-level-meta-link"><a href="https://bsr.org/login/index.cfm">Member Login</a></li>
 		
 	</ul>
 </div>
-		</div>
 
-		<div id="header">
-			<a href="/index.cfm"><img src="/images/bsr_logo_white.png" alt="Business for Social Responsibility logo" border="0"></a>
-		</div>
 
-		<div style="clear: both;"><!-- --></div>
 
-		<div id="main-nav">
+
+
+
+		<p>
+		<a href="/index.cfm"><img src="/images/bsr_logo.gif" alt="BSR, The Business of a Better World"></a></p>
+	</div>
+</div>
+
+<div id="main-nav">
+	<div class="content-container">
+		
+
+<ul id="navigation-bar">
+	<li class="top-level-link"><a href="/membership/">Membership</a>
+	
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Join Us</strong></li>
+			<li><a href="/membership/overview.cfm">Overview</a></li>
+			<li><a href="/membership/benefits.cfm">Benefits</a></li>
+			<li><a href="/membership/eligibility-dues.cfm">Eligibility &amp; Dues</a></li>
+			<li><a href="/membership/associate.cfm">Associate Membership</a></li>
+			<li><a href="/membership/faq.cfm">Frequently Asked Questions</a></li>
+			<li><a href="/membership/member-list.cfm">Member List</a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
 			
-
-<ul>
-	<li>
-			<a href="/index.cfm">Home</a>
-		</li>
-	<li>
-			<a href="/membership/join.cfm">Membership</a>
-		
-	<ul>
-		<li><a href="/membership/join.cfm">Join</a></li>
-		<li><a href="/membership/members-only/index.cfm">Member Center</a></li>
-		<li><a href="/membership/working-groups/index.cfm">Working Groups</a></li>
-		
-	</ul></li>
-	<li>
-			<a href="/consulting/industry/index.cfm">Consulting</a>
-		
-	<ul>
-		<li><a href="/consulting/industry/index.cfm">Industry Expertise</a></li>
-		<li><a href="/consulting/services/index.cfm">Services</a></li>
-		<li><a href="/consulting/impact/index.cfm">Impact</a></li>
-	</ul></li>
-	<li>
-			<a href="/research/index.cfm">Research</a>
-		
-		<ul>
-			<li><a href="/research/index.cfm">Research Overview</a></li>
-			<li><a href="/research/initiatives/index.cfm">Initiatives</a></li>
+			<li><strong>Member Center</strong></li>
+			
+			
+					<li><a href="/membership/members-only/index.cfm">Member Center Home</a></li>
+					<li><a href="/membership/members-only/bsr-insight-archives.cfm"><em>BSR Insight</em> Archives</a></li>
+					<li><a href="/membership/members-only/member-search.cfm">Member Directory</a></li>
+					<li><a href="/membership/members-only/sustainability-matters.cfm">Sustainability Matters Archive</a></li>
+					<li><a href="/membership/members-only/subscribe.cfm">Subscribe to the <em>BSR Insight</em></a></li>
+			
 			
 		</ul>
+	</div>
+	</li>
+
+	<li class="top-level-link"><a href="/consulting/">Consulting</a>
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Industry</strong></li>
+			<li><a href="/consulting/industry/index.cfm">Industry Overview</a></li>
+			<li><a href="/consulting/industry/consumer-products.cfm">Consumer Products</a></li>
+			<li><a href="/consulting/industry/energy.cfm">Energy</a></li>
+			<li><a href="/consulting/industry/financial-services.cfm">Financial Services</a></li>
+			<li><a href="/consulting/industry/food-ag.cfm">Food, Beverage &amp; Agriculture</a></li>
+			<li><a href="/consulting/industry/ict.cfm">Information &amp; Communications Technology</a></li>
+			<li><a href="/consulting/industry/media-entertainment.cfm">Media &amp; Entertainment</a></li>
+			<li><a href="/consulting/industry/mining.cfm">Mining</a></li>
+			<li><a href="/consulting/industry/pharma-biotech.cfm">Pharmaceuticals &amp; Biotechnology</a></li>
+			<li><a href="/consulting/industry/transportation.cfm">Transportation &amp; Logistics</a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Services</strong></li>
+			<li><a href="/consulting/services/index.cfm">Services Overview</a></li>
+			<li><a href="/consulting/services/community-engagement.cfm">Community Engagement</a></li>
+			<li><a href="/consulting/services/environment.cfm">Environmental Assessment &amp; Strategy</a></li>
+			<li><a href="/consulting/services/human-rights.cfm">Human Rights Assessment &amp; Strategy</a></li>
+			<li><a href="/consulting/services/materiality.cfm">Materiality Analysis</a></li>
+			<li><a href="/consulting/services/reporting.cfm">Reporting &amp; Communications</a></li>
+			<li><a href="/consulting/services/stakeholder-engagement.cfm">Stakeholder Engagement </a></li>
+			<li><a href="/consulting/services/csr-strategy.cfm">Sustainability Strategy &amp; Integration </a></li>
+			<li><a href="/consulting/services/supply-chain.cfm">Sustainable Supply Chain Management</a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Working Groups</strong></li>
+			<li><a href="/consulting/working-groups/index.cfm">Working Groups Overview</a></li>
+			<li><a href="/consulting/working-groups/apparel-sundries.cfm">Apparel, Mills &amp; Sundries</a></li>
+			<li><a href="/consulting/working-groups/better-work.cfm">Better Work Buyers' Forum</a></li>
+			<li><a href="/consulting/working-groups/beyond-monitoring.cfm">Beyond Monitoring</a></li>
+			<li><a href="/consulting/working-groups/clean-cargo.cfm">Clean Cargo</a></li>
+			<li><a href="/consulting/working-groups/eicc.cfm">Electronic Industry Citizenship Coalition</a></li>
+			<li><a href="/consulting/working-groups/energy-efficiency.cfm">Energy Efficiency Partnership</a></li>
+			<li><a href="/consulting/working-groups/environmental-markets.cfm">Environmental Services, Tools &amp; Markets</a></li>
+			<li><a href="/consulting/working-groups/esg-investing.cfm">Environmental, Social &amp; Governance Investing</a></li>
+			<li><a href="/consulting/working-groups/ict.cfm">Information &amp; Communications Technology</a></li>
+			<li><a href="http://www.globalnetworkinitiative.org" target="_blank">Global Network Initiative</a></li>
+			<li><a href="http://pharmaceuticalsupplychain.org" target="_blank">Pharmaceutical Supply Chain</a></li>
+			<li><a href="/consulting/working-groups/software.cfm">Software</a></li>
+			<li><a href="/consulting/working-groups/sustainability-outlook.cfm">Sustainability Outlook</a></li>
+			<li><a href="/consulting/working-groups/sustainable-water.cfm">Sustainable Water</a></li>
+			<li><a href="http://www.voluntaryprinciples.org" target="_blank">Voluntary Principles</a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Impact</strong></li>
+			<li><a href="/consulting/impact/index.cfm">Impact Stories List</a></li>
+		</ul>
+	</div>
+	</li>
+
+	<li class="top-level-link"><a href="/research/">Research</a>
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Research &amp; Innovation</strong></li>
+			<li><a href="/research/overview.cfm">Overview</a></li>
+			<li><a href="/research/reports.cfm">Reports</a></li>
+			<!--
+			<li><a href="/research/issue-briefs.cfm">Issue Briefs</a></li> -->
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Publications</strong></li>
+			<li><a href="/research/publications.cfm">Publications List</a></li>
+			<li><a href="/research/sustainable-investment-article.cfm?documentid=53649"><em>Sustainable Investment in China</em></a></li>
+			
+			<li><a href="/research/human-rights-wired-world.cfm">Human Rights in a Wired World</a></li>
+			<li><a href="/research/leading-perspectives.cfm"><em>Leading Perspectives</em></a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Initiatives</strong></li>
+			<li><a href="/research/initiatives/index.cfm">Initiatives Overview</a></li>
+			<li><a href="http://ctichina.org" target="_blank">China Training Institute</a></li>
+			<li><a href="http://drcafta.bsr.org" target="_blank">DR-CAFTA Responsible Competitiveness Project</a></li>
+			<li><a href="http://herproject.org" target="_blank">HERproject</a></li>
+			<li><a href="/research/initiatives/ilm.cfm">International Labor Migration</a></li>
+			<li><a href="/research//initiatives/funders.cfm">Major Funders</a></li>
+		</ul>
+	</div>
 	</li>
 	
-	<li>
-			<a href="/bsrconferences/2009/index.cfm">Conference &amp; Events</a>
+	<li class="top-level-link"><a href="/bsrconferences/">Conference</a>
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>2010</strong></li>
+			<li><a href="http://guest.cvent.com/i.aspx?4W%2cI4%2cb814cdd1-3d1c-4495-acb8-1613c4601840">REGISTER NOW</a></li>
+			<li><a href="/bsrconferences/2010/index.cfm">Overview</a></li>
+			<li><a href="/bsrconferences/2010/agenda.cfm">Agenda</a></li>
+			<li><a href="/bsrconferences/2010/email-signup.cfm">Email Signup</a></li>
+			<li><a href="/bsrconferences/2010/faq.cfm">Frequently Asked Questions</a></li>
+			<li><a href="/bsrconferences/2010/pre-conference-trainings.cfm">Pre-Conference Trainings</a></li>
+			<li><a href="/bsrconferences/2010/sessions.cfm">Session Descriptions</a></li>
+			<li><a href="/bsrconferences/2010/networking.cfm">Social Networking</a></li>
+			<li><a href="/bsrconferences/2010/sustainable-conference.cfm">Sustainable Conference</a></li>
+			<li><a href="/bsrconferences/2010/registration-info.cfm">Registration Information</a></li>
+			
+			<li><a href="/bsrconferences/2010/speaker-inquiries.cfm">Speaker Inquiries</a></li>
+			<li><a href="/bsrconferences/2010/sponsors.cfm">Sponsors</a></li>
+			<li><a href="/bsrconferences/2010/logistics.cfm">Venue, Travel &amp; Logistics</a></li>
+			<li><a href="/bsrconferences/2010/who-attended-2009.cfm">Who Attended in 2009</a></li>
+			
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Past Conferences</strong></li>
+			<li><a href="/bsrconferences/2009/session-summaries.cfm">2009 Session Summaries</a></li>
+			<li><a href="/bsrconferences/2009/sessions.cfm">2009 Sessions</a></li>
+			<li><a href="/bsrconferences/2009/speakers.cfm">2009 Speakers</a></li>
+			<li><a href="/bsrconferences/2008/session-summaries.cfm">2008 Session Summaries</a></li>
+			<li><a href="/bsrconferences/2008/photo-gallery/index.cfm">2008 Photo Gallery</a></li>
+			<li><a href="/bsrconferences/2008/companies.cfm">2008 Who Attended</a></li>
+		</ul>
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Future Conferences</strong></li>
+			<li><a href="/bsrconferences/future.cfm">BSR Conference 2011 Location &amp; Venue</a></li>
+		</ul>
 		
-	<ul>
-		<li><a href="/bsrconferences/2009/index.cfm">2009 Conference</a></li>
-		<li><a href="/bsrconferences/2008/session-summaries.cfm">Past Conferences</a></li>
-		<li><a href="/bsrconferences/future.cfm">Upcoming Conferences</a></li>
-		<li><a href="/bsrconferences/events.cfm">Events</a></li>
-	</ul></li>
+	</div>
+	</li>
 	
-	<li>
-			<a href="/resources/index.cfm">Resources</a>
-		
-		<ul>
-			<li><a href="/resources/index.cfm">CSR Resources</a></li>
+	<li class="top-level-link"><a href="/events/">Events</a>
+	<!-- <li class="r"><a href="#"Events<br> -->
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>Calendar</strong></li>
+			<li><a href="/events/index.cfm">Upcoming Events</a></li>
+		</ul>
+	</div>
+	</li>
+
+	<li class="top-level-link"><a href="/resources/">Resources</a>
+	<div class="sfhover">
+		<ul class="fancy-bullets-navigation">
+			<li><strong>External Resources</strong></li>
 			<li><a href="/resources/jobs/index.cfm">CSR Jobs</a></li>
-			<li><a href="/resources/csr-wire.cfm">CSR News</a></li>
-		</ul></li>
-	
-	
-	<li>
-		<span id="nav-selection">About</span>
-		
-		<ul>
-			<li><a href="/about/index.cfm">About Us</a></li>
-			<li><a href="http://blog.bsr.org">Blog</a></li>
-			<li><a href="/about/who-we-are.cfm">People</a></li>
-			<li><a href="/about/values-culture-work-life.cfm">Careers</a></li>
-			<li><a href="/about/media/index.cfm">Media Center</a></li>
-			<li><a href="/about/contact.cfm">Contact</a></li>
-		</ul></li>
-		
-
-	<li>
-			<a href="/cn/index.cfm"><img src="/images/chinese-off.gif" height="10" alt="Chinese language section"></a>
-		
-		<ul>
-			<li><a href="/cn/about/index.cfm">关于BSR (商务社会责任国际协会)</a></li>
-			<li><a href="/cn/membership/join.cfm">会员</a></li>
-			<li><a href="/cn/consulting/index.cfm">核心业务</a></li>
-			<li><a href="/cn/research/index.cfm">前瞻性研究与开发</a></li>
-			<li><a href="/cn/bsrconferences/events.cfm">最新活动</a></li>
-			<li><a href="/cn/resources/featured-resources.cfm">出版物</a></li>
-		</ul></li>
-				
-	<li>
-			<a href="/fr/index.cfm">Français</a>
-		
-		<ul>
-			<li><a href="/fr/about/index.cfm">A Propos de BSR</a></li>
-			<li><a href="/fr/membership/join.cfm">Devenir Membre</a></li>
-			<li><a href="/fr/consulting/industry/index.cfm">Conseils</a></li>
-			<li><a href="/fr/research/index.cfm">Recherche &amp; Développement</a></li>
-			
-			<li><a href="/fr/about/contact.cfm">Nous Contacter</a></li>
-		</ul></li>
+			<li><a href="/resources/featured-resources.cfm">Featured Resources</a></li>
+			<!-- <li><a href="#">CSR Wire</a></li> -->
+		</ul>
+	</div>
+	</li>
 </ul>
+<div style="clear: both;"></div>
 
-		</div>
-		
-		<a name="main_content"><!-- --></a>
-		<div id="main-content">
-			
-			<!--
-				Sub-navigation
-			-->
-			<div id="left-column">
-				<div id="sub-nav">
-					
-
-		
-		<h4 class="column-label">About</h4>
-		<ul>
-			<li>
-						<a href="/about/index.cfm">About Us</a>
-				</li>
-			<li><a href="http://blog.bsr.org">Blog</a></li>
-			<li>
-						<a href="/about/bsr-report.cfm">2007 Report</a>
-				</li>
-			<li>
-						<a href="/about/contact.cfm">Contact</a>
-				</li>
-			
-		</ul>
-		
-		<br>
-		
-		<h4 class="column-label">People</h4>
-		<ul>
-			<li>
-					<a href="/about/who-we-are.cfm">People</a>
-				</li>
-			
-			<li>
-						<a href="/about/staff.cfm">Staff</a>
-				</li>
-			<li>
-						<a href="/about/board-of-directors.cfm">Board of Directors</a>
-				</li>
-			<li>
-						<a href="/about/advisors.cfm">Senior Advisors</a>
-				</li>
-			<li>
-						<a href="/about/collaboration.cfm">Collaboration</a>
-				</li>
-		</ul>
-			
-		<br>
-		
-		<h4 class="column-label">Careers</h4>
-		<ul>
-			<li>
-						<a href="/about/values-culture-work-life.cfm">Values &amp; Culture</a>
-					</li>
-			<li>
-						<a href="http://tbe.taleo.net/NA9/ats/careers/searchResults.jsp?org=BFORSR&amp;cws=1">BSR Jobs</a>
-				</li>
-		</ul>
-			
-		<br>
-		
-		<h4 class="column-label">Media Center</h4>
-		<ul>	
-			<li>
-						<a href="/about/media/index.cfm">Media Center</a>
-				</li>
-			
-			
-				
-			<li>
-						<a href="/about/media/in-the-news.cfm">In the News</a>
-				</li>
-			<li>
-						<a href="/about/media/spokespeople.cfm">Spokespeople</a>
-				</li>
-		</ul>
+	</div>
+	<div class="clear"></div>
+</div>
 	
+<a name="main_content"><!-- --></a>
+<div id="breadcrumbs">
+	<div class="content-container">
+		<p>
+		
+		<a href="/index.cfm">Home</a>
+		
+		→ 
+		<a href="/about/index.cfm">About</a>
+		
+		
 
-				</div>
-			</div>
+</p>
+		
+		
+		<h1>
+		
+			
+				BSR Privacy Policy
+			
+		
+		
+		</h1>
+	</div>
+</div>
 
+<div id="main-content">
+
+	<div class="content-container">
 	
-			<div id="content-column-sub">
-				
-				<h4 class="column-label">BSR Privacy Policy</h4>
-				<!--
-					Go get the main page content file
-				-->
-				
+		
+		
 
 
-	<div class="top-item">
-<h1>Privacy Policy</h1>
-<p>
+	<div class="faux-columns one-fifth">
+<p class="intro-text">
 Business for Social Responsibility is committed to your right to privacy and to the ethical use of information online. We adhere strictly to the following privacy practices.</p>
-
-<div class="secondary-paragraphs">
-<p>
+<p class="caption">
 Last updated: June 2005</p>
+</div>
+
+<div class="faux-columns four-fifths no-right-margin">
+
+<h3 class="crop-top">No release of personally identifiable information to third parties</h3>
 <p>
-<strong>No release of personally identifiable information to third parties</strong><br>
 We do not rent, sell, give, exchange, or otherwise share personally identifiable information with other individuals or organizations.</p>
+
+<h3>Personally identifiable information is collected only on a voluntary basis</h3>
 <p>
-<strong>Personally identifiable information is collected only on a voluntary basis</strong><br>
 Personally identifiable information such your name, postal address, telephone number, or credit card number are collected only if you "opt in" by choosing to give us this information on a voluntary basis by registering to receive products or services.</p>
+
+<h3>We do collect "aggregate data," that is, group data with no personal identifiers</h3>
 <p>
-<strong>We do collect "aggregate data," that is, group data with no personal identifiers</strong><br>
 We use this aggregate data to help us understand how the site is being used and to improve its usability, and to enhance the quality and availability of products and services we offer. We also, with your explicit permission, use aggregate data from online surveys you choose to fill out for research and publication purposes. Once again, this is aggregate data only; individuals or firms are not identified in any such research or publication.</p>
+
+<h3>How we use the information</h3>
 <p>
-<strong>How we use the information</strong><br>
 Personally identifiable information you choose to give us will only be used to:</p>
 <ul>
-  <li>Process membership applications</li>
-  <li>Process billing and orders for products/services you choose to purchase on our site</li>
-  <li>Send you product information and occasional special offers or announcements from select BSR partners. BSR assures that members who "opt-in" will receive no more than 3 special communications a month.</li>
+<li>Process membership applications</li>
+<li>Process billing and orders for products/services you choose to purchase on our site</li>
+<li>Send you product information and occasional special offers or announcements from select BSR partners. BSR assures that members who "opt-in" will receive no more than 3 special communications a month.</li>
 </ul>
 <p>
 We also collect data that helps us identify the time, date, Internet location, and system information you use during your purchase. This information will assist us in the event of fraud against your credit card.</p>
 <p>
 We will only use the information you give us on the website for the purposes described in this privacy policy.</p>
+
+<h3>Cookies</h3>
 <p>
-<strong>Cookies</strong><br>
 We do not use cookies to collect information about you. We do use temporary or session cookies to help you navigate our site, and when you are engaged in a purchase to help us fulfill your order.</p>
+
+<h3>Links</h3>
 <p>
-<strong>Links</strong><br>
 The BSR site contains links to other sites. Please be aware that we are not responsible for the privacy policies of other sites. We encourage our users to be aware of when they leave our site and to read the privacy statements of each site they visit. BSR's privacy statement applies only to information collected by our website.</p>
+
+<!---
 <p>
 <strong>We provide information security</strong><br>
-We use <a href="http://www.verisign.com" target="_blank" title="Link will open in a new window">VeriSign</a> as our secure, on-line transaction processing service. Please visit their site for more information about transaction security.</p>
+We use <a href="http://www.verisign.com" target="_blank" title="Link will open in a new window">VeriSign</a> as our secure, on-line transaction processing service. Please visit their site for more information about transaction security.</p> --->
 </div>
 
 	
 
-			</div>
-
-		</div>
-
-		<div class="clear"><!-- --></div>
-
-		<div id="footer">
-			<p>
-			<a href="/about/contact.cfm">Contact</a> | <a href="/about/privacy-policy.cfm">Privacy Policy</a><br>
-			© Copyright 2001-2009 Business for Social Responsibility</p>
-		</div>
 	</div>
+</div>
 
 
-</div></body></html>
+<div class="clear"><br></div>
+<div id="footer">
+	<div class="content-container">
+		<p>
+		© Copyright 2001-2010 BSR | <a href="/about/contact.cfm">Contact</a> | <a href="/about/privacy-policy.cfm">Privacy Policy</a> | <a href="#top">Back to the Top</a></p>
+	</div>
+</div>
+<div class="clear"><br></div>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-634925-12");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+</body></html>
