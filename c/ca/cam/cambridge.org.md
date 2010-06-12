@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cambridge.org privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225114606id_/http%3A//www.cambridge.org/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cambridge.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182720id_/http%3A//www.cambridge.org/policy/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cambridge University Press
 
