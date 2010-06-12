@@ -1,94 +1,116 @@
-> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622192926id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catholic.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182139id_/http%3A//www.catholic.org/about/privacy.php) for the most accurate reproduction.*
 
-# Catholic Online - About
+# Catholic Online Privacy Statement - - Catholic Online
 
-## Catholic Online Privacy Statement
+_Catholic Online, LLC takes your privacy seriously. Please read the following to learn more about our privacy policy._
 
-This document was last updated May 25, 2005. 
+The federal government and technology industry have developed [practical tips](http://www.onguardonline.gov/) to help you guard against Internet fraud, secure your computer and protect your personal information. 
 
-Catholic Online is committed to protecting your privacy. This privacy statement explains data collection and use practices of the Catholic Online (www.catholic.org) site (the “Site”); it also does apply to other online or offline Catholic Online sites, products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement. 
+_How Catholic Online, LLC Uses Your Personal Information_
 
-### Collection of your Personal Information 
+This policy covers how Catholic Online, LLC treats personal information that Catholic Online, LLC collects and receives, including information related to your past use of Catholic Online, LLC products and services. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you to provide a service or carry out a transaction that you have requested such as receiving information about Catholic Online products and services, entering a contest, ordering e-mail newsletters, joining a limited-access premium site or service, signing up for an event or training, or when purchasing, downloading and/or registering Catholic Online products. The personal information we collect may include your name, title, company or organization name, work e-mail, work phone, work or home address, information about your job function, information about your company, and credit card information. 
+_This privacy policy only applies to Catholic Online, LLC_
 
-The Site may collect certain information about your visit, such as the name of the Internet service provider and the Internet Protocol (IP) address through which you access the Internet; the date and time you access the Site; the pages that you access while at the Site and the Internet address of the Web site from which you linked directly to our site. This information is used to help improve the site, analyze trends and administer the site. Some of our sites collect information about your hardware and software in order to provide a requested service. Windows Update, for example, needs to know information about your computer in order to recommend needed operating system updates. 
+This policy does not apply to the practices of companies that Catholic Online, LLC does not own or control, or to people that Catholic Online, LLC does not employ or manage. 
 
-Catholic Online technical communities provide opportunities to interact with Catholic Online employees, experts, and your peers in order to share knowledge and news about Catholic Online products and related technologies. In order to avoid your e-mail address or other personal information from being gathered and used by others for inappropriate or harmful purposes, Catholic Online advises that you should be cautious about posting a real e-mail address or other personal information to newsgroups, chats, or other public forums. 
+_INFORMATION COLLECTION AND USE_
 
-### Use of your Personal Information 
+_General_
 
-The personal information collected on this Site will be used to operate the Site and to provide the service(s) or carry out the transaction(s) you have requested or authorized. 
+Catholic Online, LLC collects personal information when you register with Catholic Online, LLC, when you use Catholic Online, LLC products or services, when you visit Catholic Online, LLC pages or the pages of certain Catholic Online, LLC partners, and when you enter promotions or sweepstakes. Catholic Online, LLC may combine information about you that we have with information we obtain from business partners or other companies. 
 
-In support of these uses, Catholic Online may use personal information to provide you with more effective customer service, to improve the Site and any related Catholic Online products or services, and to make the Site easier to use by eliminating the need for you to repeatedly enter the same information or by customizing the Site to your particular preference or interests. In order to offer you a more consistent experience in your interactions with Catholic Online, information collected by Catholic Online may be combined with information collected by other Catholic Online services. 
+When you register we ask for information such as your name, email address, birth date, gender, ZIP code, occupation, industry, and personal interests. For some financial products and services we might also ask for your address, Social Security number, and information about your assets. When you register with Catholic Online, LLC and sign in to our services, you are not anonymous to us. 
 
-We may use your personal information to provide you with important information about the product or service that you are using, including critical updates and notifications. Additionally, with your permission, we may send you information about other Catholic Online products and services, and/or share information with Catholic Online partners so they may send you information about their products and services. 
+Catholic Online, LLC collects information about your transactions with us and with some of our business partners, including information about your use of financial products and services that we offer.
 
-We merge site-visitation data with anonymous demographic information for research purposes, and we may use this information in aggregate to provide more relevant content. In some limited-entry sections of Catholic Online, with your approval, we will combine site-visitation data with your personal information in order to provide you with personalized content. If you decline permission, we will not provide you the personalized service and won't merge your personal information with site-visitation data. 
+Catholic Online, LLC automatically receives and records information from your computer and browser, including your IP address, Catholic Online, LLC cookie information, software and hardware attributes, and the page you request.
 
-When you sign up for a newsletter or agree to receive promotional e-mail, Catholic Online may use customized links or similar technologies to track e-mail links that you click. We may associate that information with your personal information in order to provide you more focused e-mail communications or purchase information. Each e-mail communication includes an unsubscribe link allowing you to stop delivery of that type of communication. 
+Catholic Online, LLC uses information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients. 
 
-Some services on Catholic Online offer individuals the ability to publicly display certain personal information, such as for a Catholic Online partner who wishes to publish contact information as part of offering a business service. Participation in such services is always optional. 
+_Children_
 
-Catholic Online occasionally hires other companies to provide limited services on our behalf, such as Web site hosting, packaging, mailing and delivering prizes, answering customer questions about products and services, and sending information about our products, special offers, and other services. We will only provide those companies the personal information they need to deliver the service. They are required to maintain the confidentiality of the information and are prohibited from using that information for any other purpose. 
+When a child under age 13 attempts to register with Catholic Online, LLC, we ask the child to have a parent or guardian obtain parental permission. 
 
-Catholic Online may disclose personal information if required to do so by law or in the good faith belief that such action is necessary to (a) conform to the edicts of the law or comply with legal process served on Catholic Online or the Site; (b) protect and defend the rights or property of Catholic Online and our family of Web sites; or (c) act in urgent circumstances to protect the personal safety of Catholic Online employees or agents, users of Catholic Online products or services, or members of the public. 
+Catholic Online, LLC does not contact children under age 13 about special offers or for marketing purposes without a parent's permission. 
 
-Personal information collected on the Site may be stored and processed in the United States or any other country in which Catholic Online or its affiliates, subsidiaries or agents maintain facilities, and by using the Site, you consent to any such transfer of information outside of your country. Catholic Online abides by the safe harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of data from the European Union. 
+Catholic Online, LLC does not ask a child under age 13 for more personal information, as a condition of participation, than is reasonably necessary to participate in a given activity or promotion.
 
-### Control of your Personal Information 
+_INFORMATION SHARING AND DISCLOSURE_
 
-Except as otherwise described in this statement, personal information you provide on the Site will not be shared outside of Catholic Online and its controlled subsidiaries and affiliates without your permission. 
+Catholic Online, LLC does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances: 
 
-Please be aware that this privacy statement and any choices you make on the Site will not necessarily apply to personal information you may have provided to Catholic Online in the context of other, separately operated, Catholic Online products or services. 
+  * We provide the information to trusted partners who work on behalf of or with Catholic Online, LLC under confidentiality agreements. These companies may use your personal information to help Catholic Online, LLC communicate with you about offers from Catholic Online, LLC and our marketing partners. However, these companies do not have any independent right to share this information.
+  
 
-Catholic Online may send out periodic e-mails informing you of technical service or security issues related to a product or service you requested, or confirming you requested a product or service. In some services offered by Catholic Online, contact with the customer is an intrinsic part of the service. You will not be able to choose to unsubscribe to these mailings, as they are considered an essential part of the service(s) you have chosen. 
+  * We have a parent's permission to share the information if the user is a child under age 13. Parents have the option of allowing Catholic Online, LLC to collect and use their child's information without consenting to Catholic Online, LLC sharing of this information with people and companies who may use this information for their own purposes.
+  
 
-### Access to your Personal Information 
+  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
+  
 
-Some services offered on Catholic Online may collect information that is not accessible. However you can access your personal information by contacting Catholic Online as described at the bottom of this statement, or through alternative means of access described by the service. You can review and edit your personal information by contacting one of our Customer Service representatives Monday through Friday, between the hours of 9 a.m. and 4 p.m. PST at 1-661-869-1000. 
+  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Catholic Online, LLC's terms of use, or as otherwise required by law. 
+  
 
-### Security of your Personal Information 
+  * We transfer information about you if Catholic Online, LLC is acquired by or merged with another company. In this event, Catholic Online, LLC will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
-Catholic Online is committed to protecting the security of your personal information. We use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use, or disclosure. For example, we store the personal information you provide on computer servers with limited access that are located in controlled facilities. Additionally, when we transmit sensitive personal information (such as a credit card number) over the Internet, we protect it through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
 
-### Protection of Children's Personal Information 
 
-Catholic Online is a general audience site and does not knowingly collect any personal information from children. 
+Catholic Online, LLC displays targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click targeted ads meet the targeting criteria—for example, men ages 18-24 from a particular geographic area. 
 
-### Use of Cookies 
+  * Catholic Online, LLC does not provide any personal information to the advertiser when you interact with or view a targeted ad. However, by interacting with or viewing an ad you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the ad. 
+  
 
-We use cookies on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web server in the domain that issued the cookie to you. 
+  * Catholic Online, LLC advertisers include financial service providers (such as banks, insurance agents, stock brokers and mortgage lenders) and non-financial companies (such as stores, airlines, and software companies).
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the Web site, the information you previously provided can be retrieved, so you can easily use the site's features that you customized. 
 
-Web beacons, also known as clear gif technology or action tags, may be used to assist in delivering the cookie on our site. This technology is a tool we use to compile aggregated statistics about Catholic Online Web site usage, such as how many visitors clicked on key elements (such as links or graphics) on a Catholic Online Web page, blog or a newsletter. We may share aggregated site statistics with partner companies. 
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other Web sites you visit. 
+Catholic Online, LLC works with vendors, partners, advertisers, and other service providers in different industries and categories of business.
 
-### Use of Web Beacons 
+_COOKIES_
 
-Catholic Online Web pages may contain electronic images known as Web beacons - sometimes called single-pixel gifs - that allow Catholic Online to count users who have visited those pages and to deliver co-branded services. Catholic Online may include Web beacons in promotional e-mail messages or newsletters in order to determine whether messages have been opened and acted upon. 
+Catholic Online, LLC may set and access Catholic Online, LLC cookies on your computer.
 
-Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. Doing this allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views. Catholic Online prohibits Web beacons from being used to collect or access your personal information. 
+Catholic Online, LLC lets other companies that show advertisements on some of our pages set and access their cookies on your computer. Other companies' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other companies do not have access to Catholic Online, LLC's cookies.
 
-### Enforcement of this Privacy Statement 
+Catholic Online, LLC uses web beacons to access Catholic Online, LLC cookies inside and outside our network of web sites and in connection with Catholic Online, LLC products and services.
 
-If you have questions regarding this statement, you should [contact Catholic Online ](http://www.catholic.org/about/contactus.php). 
+_Your Ability to Edit and Delete Your Account Information and Preferences_
 
-### Changes to this Statement 
+_General_
 
-We may occasionally update this privacy statement. When we do, we will also revise the "last updated" date at the top of the privacy statement. For material changes to this privacy statement, we will notify you either by placing a prominent notice on the home page of our Web site or by directly sending you a notification. We encourage you to periodically review this privacy statement to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy statement and any updates. 
+You can edit your Catholic Online, LLC Account Information, including your marketing preferences, at any time. 
 
-### Contact Information 
+New categories of marketing communications might be added to the Marketing Preferences page from time to time. Users who visit this page can opt out of receiving future marketing communications from these new categories or they can unsubscribe by following instructions contained in the messages they receive. 
 
-Catholic Online welcomes your comments regarding this privacy statement. If you believe that Catholic Online has not adhered to this privacy statement, please contact [customerservice@catholic.org ](mailto:customerservice@catholic.org) or via postal mail at the address provided below, and we will use reasonable efforts to promptly determine and remedy the problem. 
+We reserve the right to send you certain communications relating to the Catholic Online, LLC service, such as service announcements, administrative messages and the Catholic Online, LLC Newsletters that are considered part of your Catholic Online, LLC account, without offering you the opportunity to opt out of receiving them. 
 
-Catholic Online 
+You can delete your Catholic Online, LLC account by visiting our Account Deletion page. Please click here to read about information that might possibly remain in our archived records after your account has been deleted. 
 
-Catholic Online privacy   
-P.O. Box 9686   
-Bakersfield , California 93389 
+_Children_
+
+Parents can review, edit, and delete information relating to their child's Catholic Online, LLC account. . 
+
+_CONFIDENTIALITY AND SECURITY_
+
+We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs. 
+
+We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you. 
+
+_CHANGES TO THIS PRIVACY POLICY_
+
+Catholic Online, LLC may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your Catholic Online, LLC account or by placing a prominent notice on our site. 
+
+_QUESTIONS AND SUGGESTIONS_
+
+If you have questions or suggestions, please contact us at:
+
+Catholic Online, LLC  
+Privacy Policy Issues  
+P.O. Box 11236  
+Bakersfield, CA 93389
+
+Effective Date: October 13, 2009
 
   
 
