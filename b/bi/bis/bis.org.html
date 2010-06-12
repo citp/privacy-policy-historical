@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bis.org privacy policy that was archived on 2009-08-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090810181235id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bis.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612195356id_/http%3A//www.bis.org/privacy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -34,7 +34,7 @@
 		<div id="header_right">
 			<ul id="header_links" title="Header links">
 				<li class="first"><a class="rss" href="/rss/index.htm">RSS</a></li>
-				<li><a href="/privacy.htm?format=print" target="_blank" rel="external">Print-friendly</a></li> 
+								<li><a href="/privacy.htm?format=print" target="_blank" rel="external">Print-friendly</a></li> 
 				<li><a href="/emailalert.htm">E-mail alert</a></li>
 				<li><a href="/about/faq.htm">FAQ</a></li>
 				<li><a href="/about/contact.htm">Contact</a></li>				<li style="display:none" id="logout_link"><a href="/dcms/login?logout=true">Log out</a></li>
@@ -44,9 +44,11 @@
 				<p><a href="/sitemap/">Sitemap</a> | <a href="/search/?adv=1">Advanced search</a> | </p>
 				<form id="frmSearch" action="/search/" method="get" accept-charset="UTF-8">
 					<fieldset id="quick_search">
-						<input id="sp_q" name="sp_q" maxlength="80" size="19" type="text">
+						<input id="sp_q" name="q" maxlength="80" size="19" type="text">
 						<label for="sp_q" accesskey="2">
-							<a href="javascript:submitQuickSearch();" onclick="submitQuickSearch();"><img src="/img/list-arrow.gif" alt="Go"> Go</a>
+							<a href="javascript:submitQuickSearch();" onclick="submitQuickSearch();"><img src="/img/list-arrow.gif" alt="Go"> Go
+								<input style="display:none;" id="sp_submit" type="submit" value="Go">
+							</a>
 						</label>
 					</fieldset>
 					<input type="hidden" id="adv" name="adv" value="1">
@@ -95,7 +97,7 @@
 					<ul title="Banking services">
 							<li><a href="/banking/index.htm">Bank for central banks</a></li>
 							<li><a href="/banking/finserv.htm">Products and services</a></li>
-							<li><a href="/banking/balsheet.htm">Balance sheet</a></li>
+							<li><a href="/banking/balsheet.htm">Financial statements</a></li>
 					</ul>
 			</li>
 			<li><a href="/forum/research.htm">Publications &amp; research</a>
