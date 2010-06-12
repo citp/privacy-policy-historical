@@ -1,33 +1,66 @@
-> *The following text is extracted and transformed from the iguides.org privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621222851id_/http%3A//iguides.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iguides.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612192738id_/http%3A//www.iguides.org/privacy.php) for the most accurate reproduction.*
 
 # Internet Guide - Web Directory- Privacy Policy
 
-In order to be comfortable with the privacy measures taken at iGuides.org and to enhance your experience with us, we are pronouncing this privacy policy to send across our message. We want a secured and healthy environment where users can effortlessly search the best websites on the internet with us. 
+Your privacy is important to iGuides.This privacy statement provides information about the personal information that iGuides collects, and the ways in which iGuides uses that personal information.
 
-To elaborate more on our information collection process, we would like to announce that these collection processes are subject to change without any prior notice to all our users. There are a lot of instances on this website that we collect the user information. 
+NB: iGuides will never sell your personal information, including your email address, to a 3rd party. 3rd party information sharing will be done strictly in accordance with the information disclosed below.
 
-**Registration:**
+### Personal information use and collection: overview
 
-At the time of the registration, there is a considerable amount of information that is mandatory to fill out for the user. During the registration, we authenticate the username and the email address. This email address will be the sole point of contact for the user to be aware about our services. 
+iGuides reserves the right to collect and use personal information such as the following:
 
-We also take in some more details if the product has to be shipped out or even financial information for various billing purposes. 
+  * Information concerning your personal use of this website (i.e.: whether it is for a sole proprietor, a business or personal use, etc.)
+  * personal data that you provide to register with the website
+  * Information relating to transactions carried out over this website
+  * Information provided by you that is necessary for subscribing to the website services (including credit card details, if applicable). Note: all credit card transactions are done via standard secure methods. You will never be asked for credit card details or any other financial details by email. If iGuides requires financial details, we will direct you to our secure servers
 
-**Information Usage:**
 
-We store all the information that is gathered at several places on iGuides.org This data is secured with us and we have this information with the consent of our users at the time of associating with our site. 
 
-We do not sell this information to any third party organization under any circumstances. 
+### iGuides' use of your personal information
 
-However, our members will receive updates about our site additions and products at regular intervals. We do appreciate the privacy of our users and endow with the option of not receiving these communicative emails. They can opt out whenever they want without any obligations. 
+iGuides may make use of your personal information to: 
 
-On an emergent level, it becomes mandatory to send out service related emails, for an example in cases of suspension or maintenance. Users do not have an option to opt out from such emails. The users can opt out only from the promotional emails. 
+  * Administer this website
+  * Personalize your entries for you (subject to your permission)
+  * Enable you to access and use these website services 
+  * Publish certain information about you on our website (subject to your permission)
+  * Deliver products to you that you purchase, if applicable
+  * Provide you with services 
+  * Email your statements and invoices
+  * Take authorized payments from you
+  * Email you marketing material (subject to your permission)
 
-In case of potential advertisers, we may possibly provide the demographics of the users on our site. However, any data sharing shall happen with the consent of the users. We strongly recommend you to check the privacy policy of any third party site you visit. 
 
-If there is a merger or a change of ownership, the users will be notified and new privacy policy shall be pronounced. For security reasons, such transactions will be transparent to the users.
 
-As far as the content on our site is concerned, we are the sole owners of every work on our site and therefore any changes made within the site shall not be disclosed to the users. 
+Personal information disclosed to iGuides’ agents or subcontractors for the above purposes will be subject to the same terms of this iGuides privacy statement. 
 
-**Legal Disputes**
+iGuides may also disclose your personal information as required by law in connection with prospective or actual legal proceedings and/or in order to exercise or defend iGuides’ legal rights or to establish verification of those rights. 
 
-We make all efforts to protect your privacy, however during legal proceedings we shall be required to release data for the reason that it might be in compliance to the current judicial process served on iGuides.org The users will not be informed in such cases.
+### Data Security
+
+iGuides will take all reasonable precautions in order to prevent the loss, misuse or alteration of your personal information. 
+
+Your personal information will be stored on iGuides’ secure servers and secure back-up systems. 
+
+iGuides will protect all information concerning electronic transactions with encryption technology.
+
+### International data transfers
+
+Information collected by iGuides may be stored and/or processed in any country where iGuides has operations. This information will be used in accordance with this privacy policy.
+
+Personal information that you submit to iGuides for publication will be published on the internet and available throughout the world. Acceptance of any of iGuides’ services is tantamount to your agreement to international transfers of personal information. 
+
+### Updating this statement
+
+iGuides may occasionally update this privacy policy. You are advised to check this page regularly to ensure that you aware of any changes. 
+
+### Other websites
+
+The iGuides directory contains links to many other websites. iGuides bears no responsibility for the privacy policies of any third parties.
+
+### Contact iGuides
+
+If you have any questions about the iGuides privacy policy or iGuides’ use of your personal information, please contact us
+
+By email: [EMAIL ADDRESS]
