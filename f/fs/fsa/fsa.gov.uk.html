@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the fsa.gov.uk privacy policy that was archived on 2009-12-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091203171701id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fsa.gov.uk privacy policy that was archived on 2010-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613004713id_/http%3A//www.fsa.gov.uk/Pages/Privacy/index.shtml) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/Framework.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <!-- InstanceBeginEditable name="doctitle" -->
@@ -9,19 +9,26 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!-- InstanceEndEditable --> 
 <meta name="eGMS.accessibility" scheme="WCAG" content="Double-A">
-<!-- link rel="stylesheet" type="text/css" href="/css/styles.css" -->
-<style type="text/css"><!-- @import "/css/styles.css"; --></style>
-<link rel="stylesheet" media="print" type="text/css" href="/css/print.css"> 
+<!-- link rel="stylesheet" type="text/css" href="/css-new/styles.css" -->
+<style type="text/css"><!-- @import "/css-new/styles.css"; --></style>
+<link rel="stylesheet" media="print" type="text/css" href="/css-new/print.css"> 
 
 <!-- InstanceParam name="Primary Navigation selected id" type="text" value="policy" -->
 <!-- InstanceParam name="Secondary Navigation include URL" type="URL" value="/pages/Privacy/nav.html" -->
 <!-- InstanceParam name="Content include URL" type="URL" value="/content/Privacy/content.html" -->
 <!-- InstanceParam name="Banner image style" type="text" value="default" -->
 <style type="text/css">
-	a#policy,
-	a#policy:hover,
-	a#policy:visited { 
-		color:#cccc99 !important;
+	#primary-navigation ul li a#policy,
+	#primary-navigation ul li a#policy:hover,
+	#primary-navigation ul li a#policy:visited { 
+		background-color: #709f70;
+		color: #fff;
+	}
+	#primary-navigation ul li a#policy.dropdown { 
+		background-image: url(/images/top_nav/topnavarrowover.gif);
+	}
+	#primary-navigation ul li a#policy.dropped { 
+		background-image: url(/images/top_nav/topnavarrowover.gif);
 	}
 </style>
 <!-- InstanceBeginEditable name="params" --><!-- InstanceEndEditable -->
@@ -41,82 +48,149 @@
       <li><a href="/Pages/about/index.shtml" accesskey="a">Jump to About Us [Accesskey 'a']</a></li>
     </ul>
   </div>
-  <div></div>
-  <div id="top-nav" class="clearfix"> <a id="access-top-nav" name="access-top-nav"></a>
-    <ul class="clearfix">
-  <li class="first-item"><a id="home" href="/Pages/index.shtml">Home</a></li>
-  <li><a id="sitemap" href="/pages/sitemap/index.shtml">Site map</a></li>
-  <li><a id="help" href="/Pages/Help/index.shtml">Help</a></li>
-  <li><a href="/Pages/Accessibility/index.shtml">Accessibility</a></li>
-
-  <li><a href="/pages/wls/index.shtml">Cymraeg</a></li>
-</ul>
-
-
-  </div>
-  <div id="banner" class="default clearfix"> <a href="/pages/index.shtml"><img id="banner-image" src="/images/fsa-logo.gif" alt="Go to the homepage"></a>
-    <div id="banner-right">
-      <div id="search">
-        <div class="form clearfix">
-
-<form action="http://www.fsa.gov.uk/pages/search/index.shtml" id="cse-search-box">
- <p>Search <input id="custom" type="radio" name="cx" value="007702012814746907219:vvguzpuphuq" checked=""><label for="custom">this site</label>
-<input id="www" type="radio" name="cx" value="!007702012814746907219:vvguzpuphuq"><label for="www">the web</label></p>
+	<script type="text/javascript" src="/js/jquery_1_2_6.js"></script>
+<script type="text/javascript" src="/js/jsddm.js"></script>
+<script type="text/javascript" src="/js/hp_controls.js"></script>
+<div id="banner" class="default clearfix">
+	<div id="banner-left"> <a href="/pages/index.shtml" id="banner-image"><img src="/images/fsa_logo.gif" alt="Go to the homepage"></a> </div>
+	<div id="banner-right">
+		 <div id="search">
+					 <!--
+			<form class="clearfix" name="globalsearchform" method="get" action="http://search.atomz.com/search/" style="margin:0;">
+				<input type="hidden" name="sp-a" value="sp1002a2c3">
+				<input type="hidden" name="sp-p" value="all">
+				<input type="hidden" name="sp-f" value="ISO-8859-1">
+				<input type="hidden" name="sp-t" value="FSAsearch.tpl">
+				<input class="input-field" maxlength="255" name="sp-q" id="sp-q" value="Search the FSA">
+				&nbsp;
+				<a href="" id="globalsearchsubmit"><div><div><div><div>Search</div></div></div></div></a>
+			</form>
+		-->
+		<form action="http://www.fsa.gov.uk/pages/search/index.shtml" id="cse-search-box">
+	<input type="hidden" name="cx" value="007702012814746907219:vvguzpuphuq">
     <input type="hidden" name="cof" value="FORID:9">
     <input type="hidden" name="ie" value="UTF-8">
-    <input type="text" name="q" size="20">
+    <input type="text" class="input-field" maxlength="255" name="q">
+    <div id="globalsearchsubmit2"><div><div><div><div>
     <input class="button" id="globalsearchsubmit" name="globalsearchsubmit" type="submit" value="Search">
-   
+   </div></div></div></div></div>
   <script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en"></script>
-<p style="margin:25px 0 0 30px;"><img src="/images/link-arr-white.gif" alt="*" width="7" height="7">&nbsp; &nbsp;<a href="http://fsahandbook.info/FSA/index.jsp" style="color:#000; text-decoration:none;">Searching the FSA Handbook</a></p>      
 </form>
-  
-        </div>
-      </div>
-      <div id="right-logo">
-        <!--<img src="/images/fsa-logo2.gif" alt="" width="220" height="109"/>-->
-      </div>
+			<p id="welsh"><a href="/pages/wls/index.shtml">Cymraeg</a></p>
+		</div>
+		<div id="primary-navigation" class="clearfix"> <a id="access-nav" name="access-nav"></a>
+			<ul id="primary-navigation-list">
+
+					<li id="about_us"><a id="aboutthefsa" href="/Pages/about/index.shtml" class="dropdown">About us</a>
+					<div>
+						<ul>
+							<li><a href="/Pages/About/Who/index.shtml">Who are we</a></li>
+							<li><a href="/Pages/About/What/index.shtml">What we do</a></li>
+							<li class="last"><a href="/Pages/About/Aims/index.shtml">Aims and objectives</a></li>
+					  </ul>
+				  <ul>
+							<li><a href="/Pages/About/Media/index.shtml">Media Centre</a></li>
+							<li><a href="/Pages/About/careers/index.shtml">Careers</a></li>
+                            <li class="last"><a href="/Pages/About/complaints/index.shtml">Complaints about the FSA</a></li>
+						</ul>
+					</div>
+				</li>
+
+					<li id="doing"><a id="doingbusinesswiththefsa" href="/Pages/doing/index.shtml" class="dropdown">Doing business with us</a>
+					<div>
+						<ul>
+							<li><a href="/Pages/Doing/Do/index.shtml">Do I need to be authorised?</a></li>
+							<li><a href="/Pages/Doing/how/index.shtml">How do I get authorised</a></li>
+							<li><a href="/Pages/Doing/Regulated/index.shtml">Being regulated</a></li>
+							<li><a href="/Pages/Doing/Cancel/index.shtml">How do I cancel my authorisation?</a></li>
+							<li class="last"><a href="/Pages/Doing/small_firms/index.shtml">Small Firms</a></li>
+						</ul>
+						<ul>
+							<li><a href="/Pages/Doing/Events/index.shtml">Events</a></li>
+							<li><a href="/Pages/Doing/training/index.shtml">Industry training</a></li>
+							<li><a href="/Pages/Doing/UKLA/index.shtml">UK Listing Authority</a></li>
+							<li><a href="/Pages/Doing/suppliers/index.shtml">Supplying the FSA</a></li>
+							<li class="last"><a href="/Pages/Doing/Contact/index.shtml">How to contact us</a></li>
+						</ul>
+					</div>
+				</li>
+
+<li id="library"><a id="fsalibrary" href="/Pages/library/index.shtml" class="dropdown">FSA Library</a>
+					<div>
+						<ul>
+							<li><a href="/Pages/Library/latest/index.shtml">Latest publications</a></li>
+							<li><a href="/Pages/Library/Corporate/index.shtml">Corporate documents</a></li>
+							<li><a href="/Pages/Library/Policy/index.shtml">Policy documents</a></li>
+							<li class="last"><a href="/Pages/Library/Communication/index.shtml">Communication documents</a></li>
+						</ul>
+						<ul>
+							<li><a href="/Pages/Library/research/index.shtml">Research</a></li>
+							<li><a href="/Pages/Library/Other_publications/index.shtml">Other publications</a></li>
+							<li><a href="/Pages/Library/Publications_by_date/index.shtml">Publications by date</a></li>
+							<li class="last"><a href="/Pages/Library/Ordering/index.shtml">Ordering printed copies</a></li>
+                            
+						</ul>
+
+					</div>
+				</li>
+				<li id="handbook"><a id="fsahandbook" href="/Pages/handbook/index.shtml">FSA Handbook</a></li>
+			  <li id="register"><a id="fsaregister" href="/Pages/register/index.shtml">The FSA Register</a></li>
+  <li id="consumer"><a id="consumerinformation" href="/pages/consumerinformation/index.shtml" class="dropdown">Consumer Information</a>
+    <div>
+      <ul>
+        <li><a href="/Pages/consumerinformation/firmnews/2010/index.shtml">Firm news</a></li>
+        <li><a href="/Pages/consumerinformation/checkourregister/index.shtml">Check our register</a></li>
+        <li><a href="/Pages/consumerinformation/compensation/index.shtml">Compensation</a></li>
+        <li><a href="/Pages/consumerinformation/uk_groups/index.shtml">UK banking and savings groups</a></li>
+        <li><a href="/Pages/consumerinformation/financial_advertising/index.shtml">What is financial advertising</a></li>
+        <li class="last"><a href="/Pages/consumerinformation/unfair_contracts/index.shtml">Unfair contracts</a></li>
+      </ul>
+      <ul>
+        <li><a href="/Pages/consumerinformation/scamsandswindles/index.shtml">Scams and swindles</a></li>
+        <li><a href="/Pages/consumerinformation/stay_safe/index.shtml">Stay safe</a></li>
+        <li><a href="/Pages/consumerinformation/product_news/index.shtml">Regulatory news</a></li>
+        <li><a href="/Pages/consumerinformation/if_things_go_wrong/index.shtml">If things go wrong</a></li>
+        <li><a href="/Pages/consumerinformation/privacy_policy/index.shtml">Privacy policy</a></li>
+        <li class="last"><a href="/Pages/consumerinformation/consumer_contact/index.shtml">Consumer contact</a></li>
+      </ul>
+
     </div>
+  </li>
+		  </ul>
+	  </div>
   </div>
-<div id="primary-navigation" class="clearfix">     <ul class="clearfix">
-      <li class="first-item clearfix"><a id="aboutthefsa" href="/Pages/about/index.shtml">About<br>
-        the FSA</a></li>
-      <li class="clearfix"><a id="doingbusinesswiththefsa" href="/Pages/doing/index.shtml">Doing business<br>
-        with the FSA</a></li>
-      <li class="clearfix"><a id="fsalibrary" href="/Pages/library/index.shtml">FSA<br>
-        Library</a></li>
-      <li class="clearfix"><a id="fsahandbook" href="/Pages/handbook/">FSA<br>
-        Handbook</a></li>
-      <li class="clearfix"><a id="fsaregister" href="/Pages/register/">FSA<br>
-        Register</a></li>
-      <li class="clearfix"><a id="consumerinformation" href="http://www.moneymadeclear.fsa.gov.uk/">Consumer<br>
-        information</a></li> 
-    </ul>
-  </div>
+</div>
+
   <div id="surround" class="clearfix">
     <div id="content" class="clearfix">
-      <div id="leftnav" class="clearfix"><a id="access-secondarynav" name="access-secondarynav"></a><ul><li class="sel"><!-- #BeginLibraryItem "/Library/Nav/Privacy/Privacy.lbi" --><a href="/Pages/Privacy/index.shtml">Privacy policy statement</a><!-- #EndLibraryItem --></li></ul>  <br><br><br><br><br><br><br><br></div>
-      <a id="access-content" name="access-content"></a> <!-- InstanceBegin template="/Templates/Content Page PRODUCTION.dwt" codeOutsideHTMLIsLocked="false" --><!-- InstanceParam name="Landing Page" type="boolean" value="false" -->
-
-<div id="header" class=""><!-- InstanceBeginEditable name="Content Header" --> 
+      <div id="leftnav" class="clearfix">
+				<p>In this section:</p>
+				<a id="access-secondarynav" name="access-secondarynav"></a><ul><li class="sel"><!-- #BeginLibraryItem "/Library/Nav/Privacy/Privacy.lbi" --><a href="/Pages/Privacy/index.shtml">Privacy policy statement</a><!-- #EndLibraryItem --></li></ul>  <br><br><br><br><br><br><br><br></div>
+      <a id="access-content" name="access-content"></a> <!-- InstanceBegin template="/Templates/Content Page PRODUCTION.dwt" codeOutsideHTMLIsLocked="false" -->	<!-- InstanceParam name="Landing Page" type="boolean" value="false" -->
+	<div id="header" class="">
+	<!-- InstanceBeginEditable name="Content Header" --> 
         <div></div>
         <!-- DW nested template div -->
         <div class="header"> 
           <div class="imgdiv"></div>
           <h1 style="margin-bottom: 0;">Privacy policy statement</h1>
         </div>
-        <!-- InstanceEndEditable --></div>
-<div id="bodycopy" class="clearfix">
-  <div id="rightnav">
-    <div class="topimg"><!-- InstanceBeginEditable name="Right top image" --><!-- InstanceEndEditable --></div>
-    <!-- InstanceBeginEditable name="Content Right" -->
+        <!-- InstanceEndEditable -->
+	</div>
+		<div id="bodycopy" class="clearfix">
+			<div id="rightnav">
+				<div class="topimg">
+					<!-- InstanceBeginEditable name="Right top image" --><!-- InstanceEndEditable -->
+				</div>
+				<!-- InstanceBeginEditable name="Content Right" -->
           <p></p><div class="rightbox style1 clearfix">
             <h2>Related information</h2>
             <p>The technical terms we use in this privacy policy are explained in our Glossary.</p>
             <p><a href="/pages/Privacy/glossary.shtml">Glossary of terms</a> </p>
           </div><p></p>
-    <!-- InstanceEndEditable --></div>
-  <!-- InstanceBeginEditable name="Body Copy" -->
+    <!-- InstanceEndEditable -->
+			</div>
+			<!-- InstanceBeginEditable name="Body Copy" -->
         <p class="Lead-text">
           We (the Financial Services Authority - FSA) receive personal information through this website. You may, for example, be asked for personal information if you want to take advantage of specific services that we offer, such as ordering online or subscribing to our publications.</p>
         <p>Where you provide personal information, we will only use it to deliver the services you have requested. </p>
@@ -130,33 +204,72 @@
         <p></p>
        
   <!-- InstanceEndEditable -->
-  <div class="clear">
-    <div id="footer">
-      <div id="footer-links"><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
-</script>
+		</div>
+	</div>
+</div>
+<!-- footer -->
+<div id="footer">
+	<div id="footer-control">
+	<p>Page last updated
+	<!-- SSI commands below include the date in the dd/mm/yy format -->
+	
+	24/04/10
+		| © Financial Services Authority</p>
+	<p id="expand_footer">Explore the FSA</p>
+</div>
+<div id="footer-links">
+	<ul class="first-footer-list">
+		<li class="section_head">About the FSA</li>
+		<li><a href="/Pages/about/index.shtml">About us</a></li>
+		<li><a href="/Pages/doing/index.shtml">Doing business with us</a></li>
+		<li><a href="/Pages/library/index.shtml">FSA Library</a></li>
+		<li><a href="/Pages/handbook/index.shtml">FSA Handbook</a></li>
+		<li><a href="#">The FSA Register</a></li>
+		<li><a href="/Pages/About/careers/index.shtml">Careers</a></li>
+	    <li><a href="/Pages/Doing/Contact/index.shtml">Contact us</a></li>
+	</ul>
+<ul>
+		<li class="section_head">Site information</li>
+	<li><a href="/Pages/Accessibility/index.shtml">Accessibility</a></li>
+	<li><a href="/pages/data_protection/">Data protection</a></li>
+	<li><a href="/Pages/Legal/index.shtml">Legal information</a></li>
+	<li><a href="/Pages/Information/index.shtml">Freedom of information</a></li>
+	<li><a href="/Pages/Privacy/index.shtml">Privacy policy</a></li>
+	<li><a href="http://words-at-work.co.uk/?fname=fsa">Clear English Standard Award</a></li>
+  </ul>
+	<ul>
+		<li class="section_head">What's going on</li>
+	  <li><a href="/pages/library/latest/index.shtml">Latest publications</a></li>
+	  <li><a href="/pages/doing/events/index.shtml">Events</a></li>
+	  <li><a href="/pages/consumerinformation/index.shtml">Consumer Information</a></li>
+      <li><a href="/Pages/About/Media/Facts/index.shtml">Facts and figures</a></li>
+  </ul>
+<ul class="last-footer-list">
+		<li class="section_head">Areas of interest</li>
+	<li><a href="/Pages/Doing/how/index.shtml">How do I get authorised?</a></li>
+		<li><a href="/Pages/Doing/UKLA/index.shtml">UK Listing Authority</a></li>
+		<li><a href="/Pages/Doing/training/index.shtml">Industry training</a></li>
+	    <li><a href="/Pages/About/What/financial_crime/index.shtml">Financial crime</a></li>
+        <li><a href="/Pages/Doing/Regulated/Firms/index.shtml">Firms online</a></li>
+        <li><a href="/Pages/Doing/small_firms/index.shtml">Smaller firms</a></li>
+        <li><a href="/Pages/Doing/Regulated/index.shtml">Being regulated</a></li>
+</ul>
+</div>
+</div>
+<!-- InstanceEnd --> </div>
+  
+
+
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
 _uacct = "UA-815273-1";
 _udn = "fsa.gov.uk";
 urchinTracker();
 </script>
-<ul id="footerlist">
-	<li id="firstfootlink"><a href="/Pages/Legal/index.shtml">Legal information</a> | </li>
-	<li><a href="/Pages/Information/index.shtml">Freedom of information</a> | </li>
-	<li><a href="/Pages/Privacy/index.shtml">Privacy policy</a> | </li>
-	<li><a href="/pages/data_protection/">Data protection</a> | </li>
-	<li id="lastfootlink"><a href="/Pages/Doing/Contact/index.shtml">Contact us</a></li>
-</ul>
-© Financial Services Authority | 
- 
-Page last updated <!-- SSI commands below include the date in the dd/mm/yy format -->
-		
-		07/08/06</div>
-    </div>
-  </div>
-</div>
-<!-- InstanceEnd --> </div>
-  </div>
-</div>
+
+<script type="text/javascript" src="http://cetrk.com/pages/scripts/0010/5280.js"> </script>
+
+
 
 <!-- InstanceEnd -->
 </body></html>
