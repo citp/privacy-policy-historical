@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119044837id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goireland.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152302id_/http%3A//www.goireland.com/about/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - GoIreland.com
 
   
 **PRIVACY**
 
-We at goireland.com are committed to protecting your privacy and this Privacy Policy sets out what we do with any of your information which we may obtain when you use our website [www.goireland.com](http://www.goireland.com/) (referred to in these policies as the “website” or the “site”) or the Gulliver booking system. The site is operated by Gulliver InfoRes Services Limited, FEXCO Centre, Langford Street, Killorglin, Co Kerry, Ireland (referred to in these policies as "we"/"us"/"our"). 
+We at goireland.com are committed to protecting your privacy and this Privacy Policy sets out what we do with any of your information which we may obtain when you use our website [www.goireland.com](http://www.goireland.com/) (referred to in these policies as the “website” or the “site”) or the Gulliver booking system. The site is operated by Gulliver InfoRes Services Limited, FEXCO Centre, Killorglin, Co Kerry, Ireland (referred to in these policies as "we"/"us"/"our"). 
 
 **Using our site**   
 By using our site, you signify that you agree with the terms of our current Privacy Policy as posted on this site from time to time.
@@ -20,7 +20,8 @@ Certain sections of the site use cookies to which allow us to track and record u
 The newsletter sign up form allows you to register for our regular newsletters. This means that you will be the first to hear about last minute deals, special offers, discounts and new products and services. We send this newsletter to you by email, and we collect your email address for this purpose. Our email management provider (Newsweaver) processes the sending out of our newsletter. Our email management provider is located in Ireland. For more information on Newsweaver see <http://www.newsweaver.ie/>
 
   
-With each newsletter that we send to you, we provide you a link to this Privacy Policy and also give you the right to unsubscribe from our email list. We will delete your email address from our list of newsletter subscribers as soon as possible after we receive your unsubscribe notification.
+With each newsletter that we send to you, we provide you a link to this Privacy Policy and also give you the right to unsubscribe from our email list.   
+
 
 **External Links**   
 This site contains links to other websites. We cannot be held responsible for the privacy or security practices or the content of such websites. 
@@ -29,7 +30,7 @@ This site contains links to other websites. We cannot be held responsible for th
 You have the right to obtain a copy of the information that we hold about you. You can also request that we rectify or erase any information that we hold about you, if that information is incorrect. If you wish to exercise these rights please email us at [privacy@gulliverireland.com](mailto:privacy@gulliverireland.com).
 
 **Irish Data Protection Commissioner**   
-Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner [http://www.dataprivacy.ie/](http://www.dataprivacy.ie/). 
+Further information on your data privacy rights are available on the website of the Irish Data Protection Commissioner [http://www.dataprotection.ie/](http://www.dataprotection.ie/docs/Home/4.htm). 
 
 **BOOKING ACCOMMODATION**
 
