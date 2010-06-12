@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218122935id_/http%3A//www.marinelayer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marinelayer.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613003850id_/http%3A//www.marinelayer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy « Marine Layer
 
