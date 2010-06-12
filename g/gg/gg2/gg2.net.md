@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2009-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090126035455id_/http%3A//gg2.net/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gg2.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612052252id_/http%3A//www.gg2.net/Privacy.aspx) for the most accurate reproduction.*
 
 # :: GG2.Net :: Privacy Policy
 
