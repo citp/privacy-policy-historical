@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rainbowdressup.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429175043id_/http%3A//www.rainbowdressup.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rainbowdressup.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612071607id_/http%3A//www.rainbowdressup.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -18,13 +18,25 @@ Collection of information and Third-Party sites and Sponsors
 
 It is important that you understand that advertisers or Web sites that link to a RainbowDressup.com site may collect personal information about you. The Privacy Policy does not apply to, and cannot control the activities of other advertisers or Web sites. We use third-party advertising companies to serve ads on our sites. These companies may use information about your visits to this and other sites in order to help them provide relevant ads to users. Third parties may also be placing and reading cookies on your browser, or using web beacons to collect information, in the course of ads being served on our website. If you do not wish for these third-parties to place and read cookies you can set your browser to block them. 
 
-Google Adsense 
+**Google Adsense**
 
   * Google, as a third party vendor, uses cookies to serve ads on your site. 
   * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. 
   * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy ](http://www.google.com/privacy_ads.html). 
 
 
+
+**ValueClick Media**
+
+Online behavioral advertising (“OBA”) and/or multi-site advertising is occurring on CarTitans.com
+
+You can learn more about VCM by visiting their website: [valueclickmedia.com](http://valueclickmedia.com/)
+
+You can opt out from ValueClick or Network Advertising sites as follows:
+
+[http://www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+
+<https://admin.valueclickmedia.com/optout/index.html>
 
   
 Security   
