@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the euroteenerotica.com privacy policy that was archived on 2009-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090426103212id_/http%3A//www.euroteenerotica.com/freetour-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the euroteenerotica.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612095213id_/http%3A//euroteenerotica.com/privacy.php) for the most accurate reproduction.*
 
 # 
 
@@ -20,7 +20,7 @@ When you are logged into your EuroTeenErotica account, your browsing activities 
 
 **_Third Party Billing Companies_**
 
-The third party billing companies which collect your payment for using our services collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them. 
+The third party billing companies which collect your payment for using our services collect personal and billing information that we have access to but do not store. You acknowledge and agree that we do not have any responsibility for the collection, maintenance or safeguarding of the privacy of any such personal or billing information provided to such third party billing companies and that such responsibility is solely between you and the third party billing company. We encourage you to examine and determine your satisfaction with the policies of such third party billing companies prior to your using them.
 
 **_When and With Whom We Share Your Personal Information_**
 
@@ -62,4 +62,7 @@ The Sites may contain links to other websites. Please be aware that we are not r
 
 **_How to Contact EuroTeenErotica_**
 
-If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://euroteenerotica.com/freetour-support.php) or via email at support@euroteenerotica.com.
+If you have comments or questions regarding our privacy policy, please contact us through our [support form](http://euroteenerotica.com/freetour-support.php) or via email at support@EuroTeenErotica.com.
+
+  
+
