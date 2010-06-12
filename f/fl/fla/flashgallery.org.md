@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2009-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091001033634id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashgallery.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190416id_/http%3A//www.flashgallery.org/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Your privacy is of utmost importance to us here at www.flashgallery.org. Rest assured that any information you provide will only be used in accordance with this privacy statement.   
+Your privacy is of utmost importance to us here at flashgallery.org. Rest assured that any information you provide will only be used in accordance with this privacy statement.   
 This policy may be updated or changed anytime and we encourage you to review it whenever you visit the site to make sure you understand how any personal information you provide will be used. 
 
 ### Collection and Use of Information
