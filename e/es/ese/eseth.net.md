@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eseth.net privacy policy that was archived on 2009-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090321074525id_/http%3A//eseth.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eseth.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612172600id_/http%3A//eseth.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Statement of eSeth.net
 
