@@ -1,0 +1,512 @@
+<!--The following is the downloaded HTML source of the mmogame.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612173632id_/http%3A//en.mmogame.com/games/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<meta http-equiv="X-UA-Compatible" content="chrome=1">
+<title>Privacy Policy :: MMOGame</title>
+
+<link rel="icon" type="image/x-icon" href="http://en.mmogame.com/favicon.ico">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="keywords" content="">
+<meta name="description" content="Online-Games - Play free online games at MMOGame. The best games community for online and browser games on the internet. Play for free against other players. Experience the fascinating world of browser games and internet games on MMOGame.com">
+<meta name="abstract" content="MMOGame - Your free game portal - Feel free to play!">
+<meta name="language" content="en">
+<meta name="author" content="Gameforge Productions GmbH">
+<meta name="publisher" content="Gameforge Productions GmbH">
+<meta name="copyright" content="Gameforge Productions GmbH">
+<meta name="audience" content="all">
+
+<link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/yui-reset.css"><link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/all2.css"><link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/jquery.fancybox-1.3.0.css"><link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/jquery.mutateForm.css"><link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/kata.css">
+<!--[if IE 6]>
+<style type="text/css">
+#ie6_message {display:block; width:expression(document.body.clientWidth <= 940 ? "940": "100%" );}
+body {margin-top:60px;}
+</style>
+<![endif]-->
+<!--[if IE]>
+<link rel="stylesheet" type="text/css" href="http://en.mmogame.com/css/ie.css?1.5.3" />
+<![endif]-->
+<script type="text/javascript" src="http://en.mmogame.com/js/cache-1.5.3"></script><script type="text/javascript" src="http://en.mmogame.com/js2/social.js"></script><!-- Piwik -->
+<script type="text/javascript">
+var pkBaseURL = (("https:" == document.location.protocol) ? "https://usrtrack.de/" : "http://usrtrack.de/");
+document.write(unescape("%3Cscript src='" + pkBaseURL + "piwik.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://usrtrack.de/piwik.js" type="text/javascript"></script><script type="text/javascript">
+try {
+var piwikTracker = Piwik.getTracker(pkBaseURL + "piwik.php", 3);
+piwikTracker.trackPageView();
+piwikTracker.enableLinkTracking();
+} catch( err ) {}
+</script><noscript><img src="http://usrtrack.de/piwik.php?idsite=3" style="border:0" alt=""/></noscript>
+<!-- End Piwik Tag -->
+
+<script type="text/javascript">
+	var mmoPath = 'http://en.mmogame.com/';
+	function mutateLanguage(opts){
+		if(opts.value == 0){
+			return opts.text;
+		}
+		var html = '<div class="mmoflag mmo_' + opts.value.toUpperCase() + ' float-left"><img src="http://en.mmogame.com/img/blank.gif" width="20" height="14" /></div>';
+		html += '<div class="float-left">'+opts.text+'</div>';
+		html += '<br class="clearfloat"/>';
+		return html;
+	}
+
+	function mutateMessanger(opts){
+		var html = '<img src="http://en.mmogame.com/img/ims-'+opts.value.toLowerCase()+'.png" class="float-left" />';
+		html += '<div class="float-left">'+opts.text+'</div>';
+		html += '<br class="clearfloat"/>';
+		return html;
+	}
+
+	function mutateCharakter(opts){
+		if(opts.value.split(',')[1] == ''){
+			var html = '<div class="mmoflag mmo_' + opts.value.split(',')[0].toUpperCase() + ' float-left"><img src="http://en.mmogame.com/img/blank.gif" width="20" height="14" /></div>';
+			html += '<div class="float-left" style="color:#880000">'+opts.text+'</div>';
+			html += '<br class="clearfloat"/>';
+			return html;
+		}
+		var html = '<div class="mmoflag mmo_' + opts.value.split(',')[0].toUpperCase() + ' float-left"><img src="http://en.mmogame.com/img/blank.gif" width="20" height="14" /></div>';
+		html += '<div class="float-left">'+opts.text+'</div>';
+		html += '<br class="clearfloat"/>';
+		return html;
+	}
+	function mutateProfile(opts){
+		if(opts.value == 0){
+			return opts.text;
+		}
+		if (opts.value.split(',')[3] == 'group') {
+			var html = '<div class="float-left buddylistimg"/>';
+			html += '<div class="float-left buddylist">'+opts.text+'</div>';
+		} else {
+			var html = '<img src="'+opts.value.split(',')[1]+'small.jpg" width="25" height="25" class="float-left"/>';
+			html += '<div class="float-left">'+opts.text+'</div>';
+		}
+		html += '<br class="clearfloat"/>';
+		return html;
+	}
+	function changePortalLang(that){
+		var link=window.location.href;
+		window.location.href=link.replace('en.',that.value+'.')
+	}
+	function mutateNickname(opts){
+		return '<div class="' + opts.className + '">' + opts.text + '</div>';
+	}
+	function initMutate(element){
+		var element = element || 'body';
+		var element = $(element);
+		element.find('select.language:not(.undisplayedFocus)').mutateSelect({
+			optionsClass:'language',
+			mutate:mutateLanguage
+		});
+		element.find('select.messenger:not(.undisplayedFocus)').mutateSelect({
+			optionsClass:'messenger',
+			mutate:mutateMessanger,
+    		width:220
+		});
+		element.find('select.mutateProfile:not(.undisplayedFocus)').mutateSelect({
+		});
+		element.find('#game_nickname:not(.undisplayedFocus)').mutateSelect({
+    		autocomplete:true,
+			mutate:mutateNickname,
+    		width:150
+    	});
+                element.find('#game_country:not(.undisplayedFocus)').mutateSelect({
+                        optionsClass:'language',
+			mutate:mutateLanguage,
+                        width:220
+    	});
+                element.find('#game_country_download:not(.undisplayedFocus)').mutateSelect({
+                        optionsClass:'language',
+			mutate:mutateLanguage,
+                        width:220
+    	});
+                element.find('#game_round:not(.undisplayedFocus)').mutateSelect({
+                        width:170
+    	});
+    	element.find('select.mutateChar:not(.undisplayedFocus)').mutateSelect({
+			calculateWidth:true
+      	});
+		element.find('select.mutate:not(.undisplayedFocus)').mutateSelect();
+	}
+	// ie6 
+	var ua = navigator.userAgent.toLowerCase();
+	var ie6 = ((ua.indexOf("msie 6") > -1) && (ua.indexOf("opera") < 0));
+</script>
+
+</head>
+<body style="background: #000000 url(http://en.mmogame.com/games/rageclaw/default/background.jpg) no-repeat top fixed">
+	
+<a name="top"></a>
+<div id="pageWrapper">
+	<div id="main">
+		<div id="headerWrapper">
+			<div id="headerBG">
+				<h1 id="logo" class="hell-logo">
+					<a href="http://en.mmogame.com/" title="Game Overview">
+						<span>mmogame.com</span>
+						<span>Feel free to play</span>
+					</a>
+				</h1>
+							<div id="userBoxLogin">
+					<span class="nameTitle">E-Mail:</span><span class="pwTitle">Password:<a href="http://en.mmogame.com/user/passwordlost" title="Forgot Password" class="light mmoltip">(forgotten)</a></span>
+					<form action="http://en.mmogame.com/user/login?__token=f734a0e366ea43e5f3f49e2cb3bdb637" onsubmit="if(!document.send_login.password.value){void(0);return false}" name="send_login" id="send_login" method="post">
+						<input class="textField left" type="text" id="logEmail" name="email" maxlength="255" tabindex="1">
+						<input class="textField middle" type="password" id="logPassword" name="password" maxlength="20" tabindex="2">
+						                                                <input type="submit" class="right" value="LOGIN">
+						<br class="clearfloat">
+					</form>
+						<div class="regdata clearfix">
+														<a href="http://en.mmogame.com/user/register" class="commonLink loginBoxReg">Register for free now</a>
+						</div>
+				</div>
+							<br class="clearfloat">
+				<div id="menuWrapper">
+					<div id="topMenuWrapper">
+			<ul id="topMenu" class="sf-menu"><li class="first">
+					<a class="active" href="http://en.mmogame.com/home/index">
+					Home</a></li><li class="split"></li><li class="middle_active">
+					<a class="active" href="http://en.mmogame.com/games/gamelist">
+						Games
+					</a><ul class="levelMenu"><li class="firstdmenu">
+								<a href="http://en.mmogame.com/games/browsergames">
+									Browser games</a></li><li>
+								<a href="http://en.mmogame.com/games/clientgames">
+									Client games</a></li><li class="lastdmenu">
+								<a href="http://en.mmogame.com/games/gamelist">
+									All</a></li></ul></li><li class="split"></li><li class="middle">
+					<a class="active" href="http://en.mmogame.com/overview/show">
+						My MMOGame
+					</a></li><li class="split"></li><li class="middle">
+					<a class="active" href="http://en.mmogame.com/forum/index">
+						Community
+					</a><ul class="levelMenu"><li class="firstdmenu">
+								<a href="http://en.mmogame.com/forum/index">
+									Forums</a></li><li class="lastdmenu">
+								<a href="http://en.mmogame.com/games/mmosupport">
+									Support</a></li></ul></li><li class="split"></li><li class="middle">
+					<a class="active" href="http://en.mmogame.com/user/search">
+						Search
+					</a><ul class="levelMenu"><li class="firstdmenu">
+								<a href="http://en.mmogame.com/user/search/mmogame">
+									Player in MMOGame</a></li><li class="lastdmenu">
+								<a href="http://en.mmogame.com/user/search/games">
+									Player in Games</a></li></ul></li></ul>						<div id="langBox">
+							<select class="language" id="lang_change" onchange="changePortalLang(this)">
+											<option value="br">Brasil</option>
+											<option value="dk">Danmark</option>
+											<option value="de">Deutschland</option>
+											<option value="es">España</option>
+											<option value="fr">France</option>
+											<option value="it">Italia</option>
+											<option value="hu">Magyarország</option>
+											<option value="mx">México</option>
+											<option value="nl">Nederland</option>
+											<option value="pl">Polska</option>
+											<option value="pt">Portugal</option>
+											<option value="ro">România</option>
+											<option value="se">Sverige</option>
+											<option value="tr">Türkiye</option>
+											<option value="us">USA</option>
+											<option value="en" selected="selected">United Kingdom</option>
+											<option value="cz">Česká republika</option>
+											<option value="gr">Ελλάδα</option>
+											<option value="bg">България</option>
+											<option value="ru">Россия</option>
+											<option value="ae">الإمارات العربية المتحدة</option>
+										</select>
+						</div>
+					</div>
+					<div id="subMenuWrapper">
+			<ul id="subMenu" class="subMenuThree"><li class="first">
+											<a href="http://en.mmogame.com/games/browsergames">
+												Browser games
+											</a>
+										</li><li class="split"></li><li>
+											<a href="http://en.mmogame.com/games/clientgames">
+												Client games
+											</a>
+										</li><li class="split"></li><li>
+											<a class="active" href="http://en.mmogame.com/games/gamelist">
+												All
+											</a>
+										</li><li class="split"></li><li class="split"></li></ul><script type="text/javascript">if (ie6) $("#topMenu .levelMenu").remove();</script>									<div id="userOnline">623.320 players online</div>
+								</div>
+				</div>
+			</div>
+		</div>
+		<div id="contentTop"></div>
+				<div id="contentWrapper">
+					<div id="contentColumn" class="noCookies">
+				<div id="breadcrumbs">You are here: <a href="http://en.mmogame.com/games/gamelist">Games</a> » <a href="http://en.mmogame.com/games/gamelist">All</a> » Privacy Policy</div>												
+				﻿<div class="commonContentContainer first_div">
+		<h2>Privacy Policy</h2>
+
+	<div class="contentWrapper rightsContainer">
+				<br>
+<br>
+<br>
+<br>
+<b><u>Privacy policy</u></b><br>
+<br>
+Gameforge Productions GmbH and Gameforge 4D GmbH, both Albert-Nestler-Straβe 8, 76131 Karlsruhe, and other companies of the Gameforge Group ("Gameforge"), take the protection of your personal information very seriously. The following privacy policy will provide you with information about the personal information that is collected and how it is processed and used.<br>
+<br>
+<b>1. Subject matter of this privacy policy</b><br>
+This Privacy Policy applies to all services which are offered on Gameforge internet sites, in particular the Gameforge portal at ‘www.mmogame.com’ and the individual online game sites.<br>
+
+Unless stated otherwise, this Privacy Policy exclusively regulates how Gameforge treats your personal information. In case you make use of services provided by third parties, the Privacy Policy conditions of these third parties apply exclusively. Gameforge does not revise Privacy Policy conditions of third parties.<br>
+<br>
+<b>2. Responsible contact</b><br>
+Responsible contact according to the Federal Data Protection Act is Gameforge Productions GmbH, Albert-Nestler-Strasse 8, 76131 Karlsruhe.<br>
+
+In case you have any questions concerning privacy policy matters, please contact datenschutz@gameforge.de. At this address, you can inquire about privacy issues, review, change or delete your personal information stored by Gameforge. Alternatively, you can also contact us using the above postal address. Please - if possible – include the online game that you have played, the server and your player name.<br>
+<br>
+<b>3. Collection of information</b><br>
+Generally, you can access our Internet offering without disclosing any personal information to us. It is always your choice whether or not to provide us with your personal information. We collect your information to be able to fulfill the user requirement.  In addition to monitoring compliance with the terms and rules this includes in particular the proper handling of your payment arrangements.<br>
+
+If you would like to register on our Internet sites, participate in sweepstakes or subscribe to our newsletter it is necessary to provide personal information. This information includes, for example, your name, address, e-mail address and other personal information which Gameforge may query in individual cases.  In many cases it is possible to use Gameforge’s services by using pseudonyms. Users are encouraged to make use of this feature.<br>
+
+In addition, individual information such as IP address, browser type and access time will automatically be transferred to us by your computer and stored on our server. Except for the purpose of prosecuting unauthorized use of our website, we evaluate such information only for statistical and performance-related purposes. Where possible, the information is anonymized.<br>
+
+In order to make the visit to our Internet sites as pleasant as possible, we use, like many other companies, so-called cookies. After your visit to our website, these cookies are usually automatically deleted from your hard drive. Your Internet browser can be set to reject cookies generally. This can lead, for technical reasons, to restricted functioning of our Internet offerings. <br>
+
+We gather, process and use personal information – unless already permitted by statutes – only with your consent.  If this consent is made in an electronic manner in the context of our online offerings, we shall fulfill the legal requirements to inform you about it.<br>
+<br>
+<b>4. Use of your personal information</b><br>
+We use your personal data in order to constantly improve our range of services and to satisfy the user’s needs.<br>
+
+Gameforge uses your personal information for the establishment, processing and settlement of your user relationship with Gameforge and the processing of payments.<br>
+
+Furthermore, we use your information in order to communicate with you. This includes that we, as the case may be, inform you about novelties of our services via e-mail. We use your personal information in order to inform you about products, services or certain events which could be of interest to you on a regular basis. You will be informed as part of this communication that you may cancel the subscription at any time. Finally, we use your information in order to protect our web pages and to trace unauthorized accesses.<br>
+<br>
+<b>5. Transmission of personal information</b><br>
+As a matter of course, your data will not be sold to third parties. Gameforge exclusively transmits your personal data to the following extent: <br>
+
+We work together with payment providers (e.g. credit card companies, banks, PayPal, mobile services, debt collection agencies, etc.) providers that create and compile statistical data, IT service providers (e.g. data centers, hosts, backup services, database services). <br>
+
+These service providers only have access to your data to the extent which is necessary for the completion of their tasks. These service providers are obliged to treat you data according to this privacy policy and the relevant data protection statutes. <br>
+
+In the case that Gameforge, companies controlled by Gameforge, particular affiliated companies or shares of the company are sold, your customer information will generally be passed on with the transmitted part of the company. Of course, in this case your data is also subject to this privacy policy and the relevant data protection statutes.<br>
+<br>
+<b>6. Deletion of data</b><br>
+If your data is no longer necessary for the above-mentioned purposes including the settlement, for tax purposes or other legal reasons it will be deleted.<br>
+<br>
+<b>7. Security of your personal information</b><br>
+We process the information collected from you according to the German data protection law. All employees are obliged and have been adviced to maintain data confidentiality and privacy obligations, and that received. <br>
+
+When submitting payments the transfer of your information is protected by SSL encryption technology. Our SSL transfer is THAWTE certified.<br>
+<br>
+
+	</div>
+
+	<div class="goTop"><a class="upBtn" href="#top" onclick="movePageTo();return(false)">to the top</a></div>
+	<br class="clearfloat">
+</div>
+				
+				<div id="no_cookies" class="commonContentContainer" style="display:none;">
+					<h2>Error</h2>
+					<div class="contentWrapper messageBoxList">
+						<div class="messageIcon"><img src="http://en.mmogame.com/img/icon_warning.png" width="82px" height="96px" alt=""></div>
+						<div class="messageTitle">The following errors occurred.</div>
+						<div class="messageText">
+							<ul class="errorMsg">
+								<li>To use the MMOGame portal properly, please activate your browser cookies.</li>
+							</ul>
+						</div>
+					</div>
+					<div class="commonContentContainerBottom"></div>
+					<br class="clearfloat">
+				</div>
+				<noscript>
+				<div id="no_js" class="commonContentContainer">
+					<h2>Error</h2>
+					<div class="contentWrapper messageBoxList">
+						<div class="messageIcon"><img src="http://en.mmogame.com/img/icon_warning.png"  width="82px" height="96px" alt="" /></div>
+						<div class="messageTitle">The following errors occurred.</div>
+						<div class="messageText">
+							<ul class="errorMsg">
+								<li>To use the MMOGame portal properly, please activate JavaScript.</li>
+							</ul><br class="clearfloat" />
+						</div>
+					</div>
+					<div class="commonContentContainerBottom"></div>
+				</div>
+				</noscript>
+				<script type="text/javascript">
+				if (!document.cookie) {
+					$('#contentColumn').addClass('noCookies');
+					$('#no_cookies').show();
+				} else $('#contentColumn').removeClass('noCookies');
+				</script>
+			</div>
+			<div id="sidebarColumn">
+				<div id="sidebarWrapper">
+						<div id="HoldingGamerMatchBox"></div><div class="sidebarBoxCommon">
+	<h2>Player of the Day</h2>
+	<ul class="userExamples clearfix">
+		<li class="firstli">
+		<div class="userrow clearfix">
+	<a href="http://en.mmogame.com/profile/show/BlackBlade-253223" title="BlackBlade’s profile" class="smallAvatarImg mmoptip"><img width="50" height="50" src="http://www1.fe.mmogame.com/avatar/253223-395486d2/small.jpg"></a>    <div class="username">
+    <a href="http://en.mmogame.com/profile/show/BlackBlade-253223" title="BlackBlade’s profile" class="username mmoltip">BlackBlade</a>	    </div>
+    <div class="useractions">
+        <div class="icon buddyOnlineOff_Icon mmotip" title="BlackBlade is offline"></div>
+        <a rel="nofollow" href="#buddyAddMskd253223" class="masked icon nb-buddyIcon mmoltip" title="Add as Friend"></a><a rel="nofollow" href="#messagesWriteMskd253223" class="masked icon nb-mailIcon mmoltip" title="Send message"></a>    </div>
+
+    <div class="usergames">
+					<a href="http://en.mmogame.com/games/highscore/4story/253223" class="servergame mmoptip" title="4Story"><img width="22" height="22" src="http://en.mmogame.com/games/4story/default/icon.png" alt="4Story"></a>							<a href="http://en.mmogame.com/games/highscore/kingsage/253223" class="servergame mmoptip" title="KingsAge"><img width="22" height="22" src="http://en.mmogame.com/games/kingsage/default/icon.png" alt="KingsAge"></a>					</div>
+</div>
+		</li>
+	</ul>
+	<div class="sidebarBoxBottom"></div>
+</div>
+<!-- MOD GAMEBOX-->
+<div class="sidebarBoxCommon clearfix">
+ 	<h2>MMOGame recommends</h2>
+			<div class="sidebarGameDesc clearfix">
+			<div class="gameText">
+				<a href="http://en.mmogame.com/4story">
+					<span class="boxHeadline">4Story</span>
+					<span class="normalText">For the light of truth</span>
+					<span class="boxGenre">Genre:&nbsp;Client game</span>
+				</a>
+			</div>
+			<a href="http://en.mmogame.com/4story" class="float-left mmoptip" title="4Story"><img width="50" height="49" src="http://en.mmogame.com/games/4story/default/small.png" alt="4Story"></a>		</div>
+			<div class="sidebarGameDesc clearfix">
+			<div class="gameText">
+				<a href="http://en.mmogame.com/metin2">
+					<span class="boxHeadline">Metin2</span>
+					<span class="normalText">Sharpen your blade and your mind</span>
+					<span class="boxGenre">Genre:&nbsp;Client game</span>
+				</a>
+			</div>
+			<a href="http://en.mmogame.com/metin2" class="float-left mmoptip" title="Metin2"><img width="50" height="49" src="http://en.mmogame.com/games/metin2/default/small.png" alt="Metin2"></a>		</div>
+			<div class="sidebarGameDesc clearfix">
+			<div class="gameText">
+				<a href="http://en.mmogame.com/ikariam">
+					<span class="boxHeadline">Ikariam</span>
+					<span class="normalText">The future of antiquity</span>
+					<span class="boxGenre">Genre:&nbsp;Browser game</span>
+				</a>
+			</div>
+			<a href="http://en.mmogame.com/ikariam" class="float-left mmoptip" title="Ikariam"><img width="50" height="49" src="http://en.mmogame.com/games/ikariam/default/small.png" alt="Ikariam"></a>		</div>
+			<div class="sidebarGameDesc clearfix">
+			<div class="gameText">
+				<a href="http://en.mmogame.com/nostale">
+					<span class="boxHeadline">NosTale</span>
+					<span class="normalText">Live the legend</span>
+					<span class="boxGenre">Genre:&nbsp;Client game</span>
+				</a>
+			</div>
+			<a href="http://en.mmogame.com/nostale" class="float-left mmoptip" title="NosTale"><img width="50" height="49" src="http://en.mmogame.com/games/nostale/default/small.png" alt="NosTale"></a>		</div>
+		<div class="commonLinkWrapper">
+		<a class="commonLink" href="http://en.mmogame.com/games/gamelist">Show all games</a>
+	</div>
+	<div class="sidebarBoxBottom"></div>
+</div>
+						<a class="sidebarBtnHeadline iconSupport" target="_blank" href="http://en.mmogame.com/games/mmosupport">MMOGame Support</a>
+						<div id="socialBookmarking" class="socialBtnHeadline">
+	<div class="header">Bookmark us!</div>
+	<div class="socialitems clearfix">
+			<a rel="nofollow" href="#reddit" target="_blank" class="icon redditIcon mmoltip" title="Bookmark on<br/>Reddit<br/>">
+			</a>
+				<a rel="nofollow" href="#digg" target="_blank" class="icon diggIcon mmoltip" title="Bookmark on<br/>Digg<br/>">
+			</a>
+				<a rel="nofollow" href="#facebook" target="_blank" class="icon facebookIcon mmoltip" title="Bookmark on<br/>Facebook<br/>">
+			</a>
+				<a rel="nofollow" href="#google" target="_blank" class="icon googleIcon mmoltip" title="Bookmark on<br/>Google<br/>">
+			</a>
+				<a rel="nofollow" href="#technorati" target="_blank" class="icon technoratiIcon mmoltip" title="Bookmark on<br/>Technorati<br/>">
+			</a>
+		</div>
+</div>
+<script type="text/javascript">
+	urls = {
+		'#reddit':{type1:'htt',url1:'/reddit.com/submit?url=http%3A%2F%2Fen.mmogame.com&title=Gameforge%E2%80%99s+free+gaming+portal',type2:'htt',url2:'/reddit.com'},
+'#digg':{type1:'htt',url1:'/digg.com/submit?url=http%3A%2F%2Fen.mmogame.com&titleGameforge%E2%80%99s+free+gaming+portal',type2:'htt',url2:'/digg.com'},
+'#facebook':{type1:'htt',url1:'/www.facebook.com/share.php?src=bm&u=http%3A%2F%2Fen.mmogame.com&t=Gameforge%E2%80%99s+free+gaming+portal',type2:'htt',url2:'/www.facebook.com'},
+'#google':{type1:'htt',url1:'/www.google.com/bookmarks/mark?op=add&hl=en&bkmk=http%3A%2F%2Fen.mmogame.com&title=Gameforge%E2%80%99s+free+gaming+portal',type2:'htt',url2:'/www.google.com'},
+'#technorati':{type1:'htt',url1:'/technorati.com/faves/seoportal?add=http%3A%2F%2Fen.mmogame.com&title=Gameforge%E2%80%99s+free+gaming+portal',type2:'htt',url2:'/technorati.com'}	}
+	socialbookmarks();
+</script>
+				</div>
+			</div>
+			<br class="clearfloat">
+		</div>
+	</div>
+	<!--generated by cms-->
+<div id="footer">
+	<div id="footerColums" class="clearfix">
+		<div class="column" id="aboutColumn">
+			<div class="head">About MMOGame</div>
+			<div class="list">
+				<a target="_blank" href="http://en.mmogame.com/features/index">This is MMOGame</a>
+				<a href="http://en.mmogame.com/games/imprint">Imprint</a>
+				<a href="http://en.mmogame.com/games/terms">T&amp;Cs</a>
+				<a href="http://en.mmogame.com/games/privacy">Privacy Policy</a>
+				<a href="http://en.mmogame.com/games/changelog">1.5.3</a> <a class="team" href="http://en.mmogame.com/games/team">&nbsp;</a>
+			</div>
+		</div>
+		<div class="column" id="browsergamesColumn">
+			<div class="head">Browser games</div>
+			<div class="list">
+<a href="http://en.mmogame.com/games/gamedetails/ikariam">Ikariam</a><a href="http://en.mmogame.com/games/gamedetails/bitefight">BiteFight</a><a href="http://en.mmogame.com/games/gamedetails/ogame">OGame</a><a href="http://en.mmogame.com/games/gamedetails/gladiatus">Gladiatus</a><a href="http://en.mmogame.com/games/gamedetails/battleknight">BattleKnight</a></div><div class="list"><a href="http://en.mmogame.com/games/gamedetails/wildguns">WildGuns</a><a href="http://en.mmogame.com/games/gamedetails/kingsage">KingsAge</a><a href="http://en.mmogame.com/games/gamedetails/tanoth">Tanoth</a>
+			</div>
+		</div>
+		<div class="column" id="clientgamesColumn">
+			<div class="head">Client games</div>
+			<div class="list">
+<a href="http://en.mmogame.com/games/gamedetails/4story">4Story</a><a href="http://en.mmogame.com/games/gamedetails/metin2">Metin2</a><a href="http://en.mmogame.com/games/gamedetails/nostale">NosTale</a><a href="http://en.mmogame.com/games/gamedetails/airrivals">AirRivals</a>
+			</div>
+		</div>
+		<div class="column" id="helpColumn">
+			<div class="head">Help</div>
+			<div class="list">
+				<a target="_blank" href="http://en.mmogame.com/games/mmosupport">Support</a>
+				<a target="_blank" href="http://en.mmogame.com/forum/index">Forums</a>
+			</div>
+		</div>
+	</div>
+	<div class="bottom">
+		<a target="_blank" href="http://www.gameforge.de">© 2010 Gameforge Productions GmbH</a>
+	</div>
+</div>
+	<div id="loginArrow" class="nodisplay"></div>
+	<div class="nodisplay"><div class="ajaxloading"></div></div>
+	<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+	</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+	<script type="text/javascript">
+	try {
+	var pageTracker = _gat._getTracker("UA-10233108-2");
+	pageTracker._trackPageview();
+	} catch(err) {}</script>
+</div>
+<script type="text/javascript">
+window.onlineTimes = 0;
+setOnline();
+function setOnline(){
+}
+
+function stillActive(){
+	window.onlineTimes = 0;
+	if(window.setOnlineTimeout == -1){
+		window.setOnline();
+	}
+}
+window.onfocus = stillActive;
+window.onclick = stillActive;
+</script>
+<script type="text/javascript">
+var urlsMasked = {
+'#buddyAddMskd253223':{type:'htt', url:'/en.mmogame.com/buddies/ask/253223'},
+'#messagesWriteMskd253223':{type:'htt', url:'/en.mmogame.com/messages/write/253223'}};
+unmasklinks();
+</script><div id="ie6_message">
+	<div class="icon warning_Icon" style="float:left;"></div>
+	<div class="icon warning_Icon" style="float:right;"></div>
+	<p>Your currently used browser is outdated and may cause display errors on this website. <br>Please install the <a href="http://code.google.com/intl/de/chrome/chromeframe/">Chrome-Plugin</a> or update your browser to a newer version: <a href="http://www.microsoft.com/upgrade/" target="_blank">Internet Explorer</a> or <a href="http://www.mozilla-europe.org/de/firefox/" target="_blank">Mozilla Firefox</a></p>
+	<div class="clearfloat" style="line-height:0px;margin:0px;padding:0px;overflow:hidden"></div>
+</div>
+
+
+</body></html>
