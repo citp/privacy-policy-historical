@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226191106id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fileden.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612114923id_/http%3A//www.fileden.com/privacy_policy.php) for the most accurate reproduction.*
 
-# Free file hosting and online storage
+# FileDen.com | Free file hosting and online storage
 
 **Overview**  
-This privacy policy applies to the use of File Den (http://www.fileden.com). Here at File Den we take all our visitor's privacy very serious. We will never at any point sell or transfer personal identifiable information to other companies without the visitor's consent.
+This privacy policy applies to the use of File Den (http://www.fileden.com). Here at File Den we take all our visitor's privacy very seriously. We will never at any point sell or transfer personal identifiable information to other companies without the visitor's consent.
 
 **Age**  
 File Den is a service not designed for users under the age of 13 (thirteen) years. If an underaged user is found using the service the user's account and any information of the user will be permanently terminated.
