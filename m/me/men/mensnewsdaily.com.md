@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2009-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090807035417id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mensnewsdaily.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612073628id_/http%3A//mensnewsdaily.com/privacy-policy) for the most accurate reproduction.*
 
-# MND: Your Daily Dose of Counter-Theory
+# | MND: Your Daily Dose of Counter-Theory | MND: Your Daily Dose of Counter-Theory
 
 ## Privacy Policy
 
@@ -30,9 +30,4 @@ MND may update this policy. Please note [this page](http://mensnewsdaily.com/pri
 **Who can I ask if I have any additional questions?**  
 If you have questions or concerns regarding this statement, contact editor(at)MensNewsDaily.com.
 
-  
-
-
-[Trackback](http://mensnewsdaily.com/privacy-policy/trackback/ "Trackback url \(right click and copy\) for Privacy Policy")
-
-Posted in: [Vox Populi](http://mensnewsdaily.com/category/vox-populi/ "View all posts in Vox Populi") | 79 views 
+[Share on digg](http://digg.com/submit?phase=2&url=http://mensnewsdaily.com/privacy-policy/&title=Privacy%20Policy "Share on digg")
