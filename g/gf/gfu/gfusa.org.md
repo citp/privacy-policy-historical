@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101035612id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gfusa.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152242id_/http%3A//www.gfusa.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameen Foundation
+
+[](http://www.grameenfoundation.org/print/privacy-policy "Display a printer-friendly version of this page.")[](http://www.grameenfoundation.org/printmail/101 "Send this page by e-mail.")
 
  Grameen Foundation respects your right to privacy and is committed to maintaining your confidence and trust. We do not share your personal information with other organizations for commercial or non-commercial purposes.
 
