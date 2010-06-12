@@ -1,9 +1,13 @@
-> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206011816id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winster.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612034630id_/http%3A//www.winster.com/privacy.html) for the most accurate reproduction.*
 
 # Winster - Games, Friends, Prizes
 
-Privacy Policy
+Privacy Policy |   | 
 
+[ ](https://www.bbb.org/online/consumer/cks.aspx?id=110012715254950)  
+  
+---|---|---  
+  
 Last updated: June 9, 2009
 
 Winster, Inc. ("Winnie", "I", "We", "Us", "Our") believes in the Golden Rule: We respect your right to privacy, and intend to treat your personal information as We would want Ours treated on your web site. This notice describes Our Privacy Policy. 
