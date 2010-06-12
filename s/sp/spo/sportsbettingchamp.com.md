@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsbettingchamp.com privacy policy that was archived on 2009-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090509100220id_/http%3A//www.sportsbettingchamp.com/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsbettingchamp.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613001844id_/http%3A//www.sportsbettingchamp.com/privacy_statement.html) for the most accurate reproduction.*
 
 # 
 
