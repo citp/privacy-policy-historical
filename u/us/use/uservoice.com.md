@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2009-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090415032612id_/http%3A//uservoice.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uservoice.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612023331id_/http%3A//uservoice.com/privacy) for the most accurate reproduction.*
 
 # UserVoice - Privacy Policy
 
@@ -44,5 +44,5 @@ Questions
     
     
     UserVoice Inc.
-    101 Cooper St. #205
-    Santa Cruz, CA 95060
+    425 Bush St. Suite 600
+    San Francisco, CA 94108
