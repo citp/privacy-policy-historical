@@ -1,37 +1,41 @@
-> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208123330id_/http%3A//www.bmtmicro.com/support/misc_forms/PrivacyStatement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmtmicro.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612094522id_/http%3A//bmtmicro.com/developer-privacy-policy.html) for the most accurate reproduction.*
 
-# BMT Micro Privacy Statement
+# BMTMicro - Privacy Policy
 
-**Forward:**
+BMT Micro, Inc., respects the privacy of our partners, clients and their customers. Any and all information collected through our system is treated with the utmost care.
 
-BMT Micro, Inc. has created this privacy statement in order to demonstrate our firm commitment to maintaining your privacy and confidential information. The following discloses our information gathering and dissemination practices.
+BMT Micro, Inc. asks customers to supply various personal data when placing an order, such as name and address, credit-card information, and E-mail address. We use this data only for the purpose of filling an order, or communicating with the customer or supplier about the status of an order.
 
-**Reselling of information:**
+We will release personally identifiable information to third parties and organizations when we believe it is appropriate for us to do so in order to comply with the law or to protect against fraud. We will also release such information to cooperate with law enforcement or other governmental investigations (without necessarily requiring the requesting law enforcement or government agency to formally serve us with a subpoena), comply with all valid court orders or subpoenas, protect the legal rights of us and our users, or when we believe it is needed for fraud protection and/or credit risk reduction.
 
-BMT Micro, Inc. does not sell or rent your personal information in any capacity to any third party for any reason. There is only one way your information can be obtained from us and that is if we are compelled by a legal authority with the ability to access our records to do so. In 8.5 years it has never happened, but we have to cover ourselves with this contingency. Having said that, remember, we resell software, and developers of said software are supplied with your name, address, and e-mail address (NEVER YOUR PAYMENT INFO!) so that they may contact you about future updates.
+Except for the circumstances set forth in the previous paragraph, we will not knowingly distribute customer information to be used in mailing lists, surveys, or any other purpose other than what is required to perform our services.
 
-**Security:**
+**What information do we collect? How do we use it?**
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control, including secure socket layer (SSL) certificates provided by [thawte](http://www.thawte.com/) for online credit card payment and password-protected access to our databases. We also offer convenient [toll free ordering](http://www.bmtmicro.com/BMTInfo_OrderingOptions.html) (including toll free fax) as well as toll numbers for non-US callers if you simply do not want to put your information on the web.
+When ordering from BMT Micro, Inc. we must collect the purchaser's name, email address, mailing address and credit card information. This allows us to process and fulfill orders and provide notification of the order status.
 
-As we sell almost 2000 products, we have over 1000 links to other sites for you to learn more about the products we sell. Understandably, we cannot be responsible for the privacy policies for sites that are not under our control. This is an area overlooked by most consumers and often is swept under the rug.
+**How does BMT Micro, Inc. protect customer information?**
 
-BMT Micro, Inc. will occasionally use online surveys to ask visitors and or customers for feedback on our products and services. These are always 100% optional and are never required. We may use contact data from such surveys to send the user information about our company or to contact users when necessary. Users may opt-out of receiving future direct communications easily and without any hassle by following the choice/opt-out section below.
+Customers who buy through the BMT Micro, Inc. system are shopping on a secure server, which encrypts all of the customer's personal information including name, address and credit card number. Encryption ensures that no one can access or use personal information in an unauthorized manner.
 
-**Choice/Opt-Out:**
+Our commerce system was developed in-house with security as the foremost concern.
 
-Our site provides users the opportunity to opt-out of receiving future communications.
+BMT Micro, Inc. has made an investment in protecting our clients' and customers' information utilizing the following technologies:
 
-  1. If you are SUBSCRIBED and want to UNSUBSCRIBE, you can click here to submit your request via our Web form. We make it as easy to unsubscribe as subscribe. 
-  2. We provide our customers with the opportunity to change previously supplied information by sending a request for changes feedback@bmtmicro.com 
+###### Firewall
 
+Firewalls allow the use of authenticated access and can prevent certain types of traffic from entering the private network. Customizing the firewall according to the network topology is essential to having a useful firewall protection mechanism.
 
+###### SSL (Secure Socket Layers)
 
-**Contacting BMT Micro, Inc.:**
+Because we accept sensitive information from end-users such as passwords and credit card numbers, BMT Micro, Inc.'s site uses SSL. This logic encrypts the data being sent to the server from the browser using high-level encryption technology. Once the data is received from customers on the BMT Micro, Inc. network, it may be required that the data be maintained for a certain period of time inside our private network. Encrypting the data means it cannot be viewed in plain text.
 
-If you have any questions regarding this document, please contact us via e-mail, referencing Privacy in the subject line, or write to us at the following address:
+###### Security Metrics
 
-**BMT Micro, Inc.  
-Attn: Privacy Statement  
-PO 15016  
-Wilmington, NC 28408**
+[](https://www.securitymetrics.com/site_certificate.adp?s=63%2e96%2e6%2e196&i=49099)
+
+BMT Micro is reviewed quarterly by Security Metrics to ensure that high security standards are maintained. Security Metrics tests for over 4400 security weaknesses!
+
+**What about cookies?**
+
+"Cookies" are small pieces of information that are stored by your browser on your computer's hard drive. BMT Micro, Inc.'s cookies are used only to aid in purchasing and do not store any specific customer traits. These cookies do not store sensitive data. Cookies are P3P enabled to ensure security.
