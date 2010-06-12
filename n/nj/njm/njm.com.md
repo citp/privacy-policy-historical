@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2009-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090213115347id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the njm.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612093406id_/http%3A//www.njm.com/Information/PrivacyPolicy.asp) for the most accurate reproduction.*
 
 # New Jersey Manufacturers Insurance Company
 
