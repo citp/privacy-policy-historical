@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221063056id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vu.edu.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612092749id_/http%3A//www.vu.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Victoria University | A New School of Thought | Melbourne, Australia
 
