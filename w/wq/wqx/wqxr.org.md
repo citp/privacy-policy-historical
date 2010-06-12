@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wqxr.org privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212155054id_/http%3A//www.wqxr.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wqxr.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612231112id_/http%3A//www.wqxr.org/about/privacy) for the most accurate reproduction.*
 
-# WQXR - WQXR Privacy Policy
+# WQXR Privacy Policy - WQXR
 
 WQXR is part of the WNYC Radio family, and values your participation in our public radio community, both online and offline, and assures you that your privacy is a priority to us. The WQXR web site adheres to a strict policy for ensuring the privacy of your personally identifiable information (such as full name, address, e-mail address, telephone number and/or other identifiable information) and preserving the integrity of this online medium.
 
