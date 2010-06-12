@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207065148id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the providentcu.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612210510id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -80,4 +80,10 @@ Provident Credit Union and its affiliates are committed to protecting the privac
 
 
 
-[Privacy Form](https://web.archive.org/web/20090207065148id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
+### Your Right to Opt-Out
+
+If you do not want us to give information about you to third parties, you can opt out at any time by contacting our Call Center at (650) 508-0300, or by completing the "[Opt Out](https://web.archive.org/web/20100612210510id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)" form below and returning it in person to one of our [community branch locations](https://web.archive.org/providentIF.asp?i=branches), or mailing it to us at the address provided on the form. It may take up to four weeks to implement your request.
+
+Your preference will apply to all accounts linked to your Member Number. For joint accounts, any account holder can make their selection on behalf of the other joint account holders.
+
+[Privacy Form](https://web.archive.org/web/20100612210510id_/http%3A//www.providentcu.org/AFrames/MembershipFrames/PrivacyForm.html)
