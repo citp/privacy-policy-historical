@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randpaul2010.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212015626id_/http%3A//www.randpaul2010.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randpaul2010.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612142109id_/http%3A//www.randpaul2010.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Rand Paul 2010 | U.S. Senate
 
