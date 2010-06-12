@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204211756id_/http%3A//www.pppl.gov/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pppl.gov privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612053045id_/http%3A//www.pppl.gov/privacy.cfm) for the most accurate reproduction.*
 
-# Princeton Plasma Physics Laboratory
+# Princeton Plasma Physics Laboratory — Enabling a World Powered by Fusion Energy
 
 ## Security Notice
 
