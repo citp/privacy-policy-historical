@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acne.org privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228033100id_/http%3A//www.acne.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acne.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191521id_/http%3A//www.acne.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
