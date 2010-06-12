@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccs.com privacy policy that was archived on 2009-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208102220id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccs.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612174432id_/http%3A//shop.ccs.com/customerserv/help%3Aprivacy_policy) for the most accurate reproduction.-->
 
 <html xmlns="http://www.w3.org/1999/xhtml"><head><script language="JavaScript">
 function openBMLWindow(url,height) {
@@ -24,19 +24,19 @@ function openInvestWin(url) {
 
 
 
-
-	<!-- web12 -->
+	<!-- web20 -->
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
-	<title>Shop CCS</title>
-	<meta name="keywords" content="">
-	<meta name="description" content="">
-	
-	
-	<meta http-equiv="published" content="Tuesday, December 8, 2009 4:22:20">
-	<link href="http://shop.ccs.com/css/typography.css" rel="stylesheet" type="text/css">
-	<link href="http://shop.ccs.com/css/style.css" rel="stylesheet" type="text/css">
-   
+        <title>Shop CCS</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+    
+	<meta http-equiv="published" content="Saturday, June 12, 2010 12:44:31">
+    
+        <script language="JavaScript" src="http://reviews.ccs.com/static/8008/bazaarvoice.js" type="text/javascript"></script>
+    
+        <script language="JavaScript" src="http://answers.ccs.com/answers/8008/static/bazaarvoiceQA.js" type="text/javascript"></script>
+    
 	<script type="text/javascript" src="http://shop.ccs.com/shared/scripts/jquery-1.3.2.min.js"></script>
 	<script type="text/javascript" src="http://shop.ccs.com/shared/scripts/jquery.bgiframe.pack.js"></script>
 	<script language="javascript" src="http://shop.ccs.com/shared/scripts/ajax.js"></script>
@@ -44,9 +44,6 @@ function openInvestWin(url) {
 	<script language="javascript" src="http://shop.ccs.com/shared/search/scripts/sizesearch.js"></script>
 	<script type="text/javascript" src="http://shop.ccs.com/js/main.js"></script>
 	<script type="text/javascript">//<![CDATA[
-		function openJobWindow(url) {
-			popupWin = window.open(url,'jobsCCS','height=430,width=640,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no');
-		}
 		function openSurveyWindow(url) {
 			popupWin = window.open(url,'CCS Survey','height=600,width=700,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no,status=no');
 		}
@@ -66,8 +63,8 @@ function openInvestWin(url) {
 	<script type="text/javascript" src="http://shop.ccs.com/shared/wishlist/wl_sharedWishList.js"></script>
 	
 	<script>
-	var wishlistpostCardURL = 'http://shop.ccs.com/wishlist/wl_postcard.cfm';
-	var wishlistmailSender  = 'http://shop.ccs.com/wishlist/wl_mailSender.cfm';
+	var wishlistpostCardURL = 'https://shop.ccs.com/wishlist/wl_postcard.cfm';
+	var wishlistmailSender  = 'https://shop.ccs.com/wishlist/wl_mailSender.cfm';
 	var dsnname = 'pro-ccs-lb-alt';
 	
 		var microsite = '';
@@ -85,9 +82,9 @@ function openInvestWin(url) {
 </head><body><ignoreurlreformat>
 	<script type="text/javascript">
 		
-			var login_template_path = "http://shop.ccs.com/login/login.cfm?secured=false&bv_RR_enabled=false&bv_AA_enabled=false";
+			var login_template_path = "http://shop.ccs.com/login/login.cfm?secured=false&bv_RR_enabled=true&bv_AA_enabled=true";
 		
-		var register_url = "https://shop.ccs.com/account/default.cfm?TID=5555-05080904226105041245128-0&action=accountCreate";
+		var register_url = "https://shop.ccs.com/account/default.cfm?action=accountCreate";
     </script> 
 	<script type="text/javascript" src="http://shop.ccs.com/shared/myAccount/login.js"></script>
     <link href="http://shop.ccs.com/shared/myAccount/login.css" rel="stylesheet" type="text/css">
@@ -124,33 +121,73 @@ function openInvestWin(url) {
 		function logout(coremetricsEventId, CoremetricsCategoryId, coreMetricsDo) {
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 1, CoremetricsCategoryId, 0);  }
-			eraseCookie('SESSION');
-			eraseCookie('USER_PROFILE');
-			eraseCookie('BAZAARVOICEUSER');
 			if ((coremetricsEventId) && (CoremetricsCategoryId) && coreMetricsDo == 'true')
 				{ cmCreateConversionEventTag(coremetricsEventId, 2, CoremetricsCategoryId, 0);	}
+		
+		var logoutPath = "http://shop.ccs.com/account/default.cfm?action=accountSignOut";
 		
 			var thisurl = window.location.toString();
 			var regex = "/" + "&bvdisplaycode=[a-zA-Z0-9%._&=]*" + "/g";
 			if (thisurl.indexOf('&bvdisplaycode=') > 0 && thisurl.indexOf('submitReview') < 0) {
 				thisurl = thisurl.replace(eval(regex), '');
-				window.location=thisurl;
-			}
-			else {
-				window.location.reload();
 			}
 		
+			var ret_val= $.ajax({ type: "GET", url: logoutPath, data: {Next: escape(thisurl)}, async: false }).responseText;
+			eraseCookie('BAZAARVOICEUSER');
+			window.location=thisurl;
 		}
+		
 //-->
 </script>
 
 	<style type="text/css">
-		.gradientBar {
-			background: transparent url(http://shop.ccs.com/images/ccs/global/cat_bar.jpg) top right repeat-y;
-			height: 16px;
-		}
+	@import "http://shop.ccs.com/shared/catalogQuickOrder/catalogQuickOrder.css";
 	</style>
-    
+	<script type="text/javascript" src="http://shop.ccs.com/shared/catalogQuickOrder/catalogQuickOrder.js"></script>
+	<script type="text/javascript">
+	var quickordersearchtemplate = 'http://shop.ccs.com/catalogQuickOrder/catalogQuickOrderSearchResult.cfm';
+	
+		var microsite = '';
+	
+		var doCoreMetrix = true;	
+	
+	</script>
+
+	<script type="text/javascript" src="http://shop.ccs.com/shared/endeca/js/bsn.AutoSuggest_2.1.3.js" charset="utf-8"></script>
+    <style type="text/css">
+		@import url("http://shop.ccs.com/shared/endeca/css/autosuggest_inquisitor.css");
+		@import url("http://shop.ccs.com/endeca/autosuggest.css");
+	</style>
+        
+    <script type="text/javascript">
+		var advancedSearchShouldSubmit = false;
+		var advancedSearchPageURL = "http://shop.ccs.com/searchresults/?N=";
+        $(document).ready(function() {
+			$("form[name='keywordSearch']").submit(function() { return advancedSearchShouldSubmit; });
+			
+			$("form[name='keywordSearch'] input.submitbutton").click(keywordSubmit);
+			
+            // Attach Type-Ahead Functionality to Search Input Box
+            var options = {
+				script: function (input) { return "http://shop.ccs.com/endeca/search_typeahead.cfm?Dn=0&Dp=8&Dr=AND(P_ProductSiteId:1)&D=*"+input+"*"; }
+			,	json: true
+			,	maxentries: 10
+			,	shownoresults: false
+			,	minchars: 3
+			,	timeout: 5000
+			,	delay: 200
+            };
+			var as = null;
+            if ($("#reduce_input_text_height").length) {
+				as = new bsn.AutoSuggest('reduce_input_text_height', options);
+			}
+			else if ($("#key_word_search").length) {
+				as = new bsn.AutoSuggest('key_word_search', options);
+			}
+        });
+    </script>
+
+
 <!-- begin OAS Browser test  --> 
 <script language="JavaScript"> <!--  
 _version=10; //--> </script> 
@@ -168,7 +205,6 @@ _version=10;}
  
 <!-- here are oas site, page, and random number variables  --> 
 var oas='http://oascentral.stackmag.com/RealMedia/ads/'; 
-var sitepage = "www.eastbay.com"; 
 var RN = new String (Math.random()); 
 var RNS = RN.substring (2, 11); 
 var OAS_query = '';        
@@ -176,7 +212,7 @@ var OAS_query = '';
 <!-- here is the ad insertion function --> 
 function DisplayAds (Position, width, height) 
 { 
-var oaspage= sitepage + '/1' + RNS + '@' + Position + '?' + OAS_query; 
+var oaspage= 'www.eastbay.com/1' + RNS + '@' + Position + '?' + OAS_query; 
  
 if (_version < 11) { 
 document.write ('<A HREF="' + oas + 'click_nx.ads/'+ oaspage + '" TARGET="_top" ><IMG SRC="' + 
@@ -195,12 +231,50 @@ document.write ('\<\!-- --\>');
 </ignoreurlreformat>
 <!--  end OAS function definition -->
 
+<script type="text/javascript">
 
-	<style type="text/css">
-		body {
+try { document.domain = "ccs.com"; } catch(exc){}
+
+</script>
+
+
+                <style type="text/css">
+					@import 'http://shop.ccs.com/css/typography.css'; @import 'http://shop.ccs.com/css/style.css'; @import 'http://reviews.ccs.com/static/8008/bazaarvoice.css'; @import 'http://answers.ccs.com/answers/8008/static/bazaarvoiceQA.css'; 
+	.gradientBar {
+		background: transparent url(http://shop.ccs.com/images/ccs/global/cat_bar.jpg) top right repeat-y;
+		height: 16px;
+	}
+
+                </style>
+            
+                <style type="text/css">
+					
+	.checkout_step {
+		height: 35px;
+		background-color: transparent;
+		background-position: top left;
+		background-repeat: no-repeat;
+	}
+	#checkout_step_shipping {
+		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-shipping.gif);
+	}
+	#checkout_step_payment {
+		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-payment.gif);
+	}
+	#checkout_step_review {
+		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-review.gif);
+	}
+	#checkout_step_receipt {
+		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-receipt.gif);
+	}	
+@import 'http://t.p.mybuys.com/css/mbstyles.css'; 
+                </style>
+            
+		<style type="text/css">
+            body {
 	margin:0 auto;
 	text-align:center;
-	background-image: url(http://shop.ccs.com/images/ccs/topnav/newsite/art-img_background.gif);
+	background-image: url(http://shop.ccs.com/images/ccs/topnav/newsite/ccs_bg_img_decks.jpg);
 	background-repeat:repeat-x;
 	background-position:top left;
 	font-family:arial,helvetica,sans-serif;
@@ -224,6 +298,7 @@ height:125px;
 max-height:125px;
 position: relative;
 }
+
 #header {
 width:975px;
 height:125px;
@@ -332,12 +407,17 @@ top:-1px;
 position:relative;
 margin-right:3px;
 }
+#quickorder {
+float:left;
+top:-8px;
+margin-right:3px;
+}
 #advancedsearchForm {
 	font-size: 10px;
 	padding:1px 0;
 	margin:0;
 	color: #000;
-	width: 593px;
+	width: 735px;
 	text-align:right;
 	float:right;
 }
@@ -444,6 +524,7 @@ font-size:10px;
 width: 450px;
 top:2px;
 right:7px;
+
 position:relative;
 text-align:right;
 z-index: 100;
@@ -524,7 +605,7 @@ font-weight:bold;
 	width:962px;
 	height:auto;
 	margin:0 12px;
-        #margin-left: 9px;
+        #margin-left: 10px;
 	padding:0;
 /*
 	width:966px;
@@ -552,7 +633,7 @@ margin-left:6px;
 	clear:both;
 	width:964px;
         margin: 0 auto;
-		background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-bg_footer.gif);
+background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-bg_footer.gif);
 		background-position:top left;
 		background-repeat:no-repeat;
 /*	border:#000 1px solid;*/
@@ -615,10 +696,13 @@ margin-left:6px;
 	font-style:italic;
 	color:#555;
 	width:100%;
-	margin:10px 0 0 0px;
+	margin:-2px 0 0 0px;
 	padding:0;
 }
-
+/* ie adjustment */
+* html #email-wrap {
+	margin:0px 0 0 0px;
+}
 #email-icon {
 	float:left;
 	margin-top:15px
@@ -644,7 +728,7 @@ margin-left:6px;
 	font-style:italic;
 	color:#555;
 	width:100%;
-	margin:2px 0 0 0;
+	margin:1px 0 0 0;
 	padding:0;
 }
 #mobile-icon {
@@ -744,9 +828,9 @@ margin-left:6px;
 /* float:left;*/
 }
 #footer-bottom {
-background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-dropshadow-bottom.gif);
+/* background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-dropshadow-bottom3.gif);
 	background-position:bottom;
-	background-repeat: repeat-x;
+	background-repeat: repeat-x; */
 	width:968px;
 	height:12px;
 	min-height:12px;
@@ -769,8 +853,12 @@ table #container {
 
 float:right;
 }
-	</style>
-
+ #quickorder_wrapper {
+margin:0;
+padding:0 30px;
+    }
+        </style>
+    
 
 
 
@@ -789,7 +877,7 @@ float:right;
 		cmSetProduction();
 		cm_HOST = "rpt.ccs.com" + "/eluminate?";
 	
-		cmCreatePageviewTag("", null, null, null);
+		cmCreatePageviewTag("Cust Service: Privacy Policy", "CustServ", null, null);
 		
 //-->
 </script>
@@ -855,6 +943,11 @@ function MM_swapImage() { //v3.0
 		<a href="http://shop.ccs.com/content/report_problem" title="CCS Feedback"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_feedback_header.gif" border="0" alt="CCS Feedback"></a>&nbsp;
 		<!-- end feedback div -->
 		</div>
+<!-- start quick order div -->
+		<div id="quickorder">
+		<a href="http://shop.ccs.com/catalogQuickOrder/catalogQuickOrder" title="Catalog Quick Order" rel="nofollow"><img src="//shop.ccs.com/images/ccs/topnav/newsite/art-quickorder.gif" width="128" height="18"></a>
+		</div>
+		<!-- end quick order div -->
             <form name="keywordSearch" action="http://shop.ccs.com/searchresults/" method="GET" id="searchform">
               <input type="hidden" name="search" value="k">
               <input type="text" id="reduce_input_text_height" name="keyword" size="15" maxlength="40" value="   Enter Item # or Keyword" onfocus="this.style.color=&quot;black&quot;;this.value=&quot;&quot;;">
@@ -874,9 +967,9 @@ function MM_swapImage() { //v3.0
               <li><a href="https://shop.ccs.com/account/default/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_my_account.gif" id="Image14" onmouseover="MM_swapImage('Image14','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_my_account_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
               <li><a href="http://shop.ccs.com/customerserv/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_customer_service.gif" id="Image15" onmouseover="MM_swapImage('Image15','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_customer_service_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
               <li><a href="https://shop.ccs.com/account/default/action--orderStatus/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_order_status.gif" id="Image16" onmouseover="MM_swapImage('Image16','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_order_status_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-              <li><a href="http://shop.ccs.com/wishlist/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_wish_list.gif" id="Image17" onmouseover="MM_swapImage('Image17','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_wish_list_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-<li><a href="https://shop.ccs.com/catalog/shoppingCart/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shopping_cart_nav.gif" name="Image18" width="76" height="31" id="Image18" onmouseover="MM_swapImage('Image18','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shopping_cart_nav_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
-              <li style="background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_cart.gif);width:215px;height:31px"><span id="order_summary"><a href="https://shop.ccs.com/catalog/shoppingCart/">
+              <li><a href="https://shop.ccs.com/wishlist/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_wish_list.gif" id="Image17" onmouseover="MM_swapImage('Image17','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_wish_list_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+<li><a href="http://shop.ccs.com/catalog/shoppingCart/" title=""><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shopping_cart_nav.gif" name="Image18" width="76" height="31" id="Image18" onmouseover="MM_swapImage('Image18','','http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shopping_cart_nav_on.gif',1)" onmouseout="MM_swapImgRestore()"></a></li>
+              <li style="background-image:url(http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_cart.gif);width:215px;height:31px"><span id="order_summary"><a href="http://shop.ccs.com/catalog/shoppingCart/">
 <span class="label">Items:</span>
 <span class="value">0</span>
 <span class="label">Subtotal:</span>
@@ -909,10 +1002,11 @@ function MM_swapImage() { //v3.0
         </div>
         <!-- start lower-right div -->
         <div id="lower-right">
+
           <!-- customer greeting div -->
           <div id="custgreet">
-            <div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login">log in</a> 
-								or <a href="https://shop.ccs.com/account/default.cfm?action=accountCreate">register</a>.</span></div> 
+            <div id="welcome_area"><span id="guest_welcome">Welcome, Guest, click here to <a href="javascript:openLoginDialogForID('guest_welcome_login', null, null, function() {updateWelcome()}, null,'Guest Message', 'Log In', 'true', 'true')" id="guest_welcome_login" rel="nofollow">log in</a> 
+								or <a href="https://shop.ccs.com/account/default.cfm?action=accountCreate" rel="nofollow">register</a>.</span></div> 
           </div>
           <!-- end lower-right div -->
         </div>
@@ -927,33 +1021,22 @@ function MM_swapImage() { //v3.0
   <div id="inside" style="padding-top:1px;"> 
 <br>
 
-
-
 	  <!-- thirdparty_marketing_code was not set -->
 	
-		<!-- tpbann --><div style="width:962px;text-align:center;"><a href="http://ww2.ccs.com/disclaimers/ccs102909-fs69-dis/ccs102909a-dis.html" target="_blank"><img src="http://shop.ccs.com/images/ccs/topbanners/10_29_09_global_69.gif" alt="Free Shipping over $69" border="0"></a></div><!-- end tpbann -->
+	<script language="javascript">
+		<!--
+		viewBannerEvent("04_06_10_global_banner", 90);
+		//-->
+	</script>
+<a href="http://ww2.ccs.com/disclaimers/040610_dis/ccs040610a-dis.html" target="_new">
+		<img src="http://shop.ccs.com/images/ccs/topbanners/04_06_10_global_banner.gif" alt="Free Shipping $69" border="0">
+		</a> 
+<!-- MyBuys integration -->
+<!-- requestProtocol: http -->
+    
 	
-<style type="text/css">
-	.checkout_step {
-		height: 35px;
-		background-color: transparent;
-		background-position: top left;
-		background-repeat: no-repeat;
-	}
-	#checkout_step_shipping {
-		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-shipping.gif);
-	}
-	#checkout_step_payment {
-		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-payment.gif);
-	}
-	#checkout_step_review {
-		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-review.gif);
-	}
-	#checkout_step_receipt {
-		background-image: url(http://shop.ccs.com/images/ccs/checkout/header-receipt.gif);
-	}	
-</style>
-
+	<script type="text/javascript" src="http://t.p.mybuys.com/js/mybuys3.js"></script> 
+	<script type="text/javascript" src="http://t.p.mybuys.com/clients/CCS/js/setup.js"></script> 
 
 <style type="text/css">
 	#helpheader {
@@ -992,6 +1075,18 @@ function MM_swapImage() { //v3.0
 	.preview {
 		color: red;
 	}
+	#contenttitle {
+		font-size:14px;
+		font-weight:bold;
+	}
+	#itemchild {
+		padding-left: 17px;
+	}
+	.language {
+		float: right;
+		font-size: 10px;
+		color: orange;
+	}
 </style>
 
 
@@ -1016,7 +1111,7 @@ function MM_swapImage() { //v3.0
 					<li><a href="http://shop.ccs.com/customerserv/help:sizing/">General Sizing Information</a></li>
 				
 					<li><a href="http://shop.ccs.com/customerserv/help:tips/">Sport-Specific FAQ's and Tips</a></li>
-				
+				            
 		</ul>
 	</div>
 	<div id="helpcontent">
@@ -1026,8 +1121,12 @@ function MM_swapImage() { //v3.0
         <a href="http://shop.ccs.com/customerserv/"><img src="http://shop.ccs.com/images/ccs/staticheaders/hdr_customerservice.gif" alt="Customer Service"></a>
 </div>
 
-		
-			<h1 style="background: transparent url(http://shop.ccs.com/images/ccs/im_break.gif) bottom left no-repeat; padding-bottom: 10px;">Privacy Policy</h1>
+		            
+
+			<div id="contenttitle">
+            	Privacy Policy
+                <hr size="1">
+            </div>
 			<ul></ul>
 			<p><!--Page name is privacy_policy.html--></p>
 <p style="text-align: left;"><strong><big>Online Privacy Statement</big></strong></p>
@@ -1122,10 +1221,20 @@ function MM_swapImage() { //v3.0
 	</div>
 	<div class="clear"></div>
 </div>
+<!-- <mybuys_debug>
+
+	Page Type: CUSTOMER_SERVICE
+	cm_CategoryID: CustServ
+	has mB_treeid: 0
+	has promoId: No
+	is Search page: No
+	is brand name: No
+	CGI.SCRIPT_NAME: /controller.cfm
+	doMB: false  </mybuys_debug> -->
 <!-- start footer-flex-icons div -->
     <div class="footer-flex-icons">
       <div id="flex-generic-1" class="flex-column-gen" style="width:110px;padding-left:10px"><a href="http://shop.ccs.com/catRequest/category/" title="Free Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_free_catalog.gif" width="127" height="84" border="0"></a></div>
-      <div id="flex-generic-2" class="flex-column-gen"><a href="Http://ccs.movadamedia.com/november2009/page.aspx?id=1" target="_blank" title="Online Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shop_online_catalog.gif" width="153" height="84" border="0"></a></div>
+      <div id="flex-generic-2" class="flex-column-gen"><a href="http://ccs.movadamedia.com/May2010/page.aspx?id=1" target="_blank" title="Online Catalog"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_shop_online_catalog.gif" width="153" height="84" border="0"></a></div>
       <div id="flex-generic-3" class="flex-column-gen"><a href="http://shop.ccs.com/promotion/promoId:5003284/gift-cards/" title="Gift Cards"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_giftcard.gif" width="162" height="84" border="0"></a></div>
       <div id="flex-generic-4" class="flex-column-gen"><a href="http://shop.ccs.com/skateboardbuilder/" title="Skateboard Builder"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_skatebuilder.gif" width="161" height="84" border="0"></a></div>
       <div id="flex-generic-5" class="flex-column-gen"><a href="http://shop.ccs.com/content/report_problem/" title="User Feedback"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_feedback.gif" width="151" height="84" border="0"></a></div>
@@ -1140,20 +1249,46 @@ function MM_swapImage() { //v3.0
           </div>
           <div id="cleardiv"></div>
         </div>
-        <!--			  <div id="mobile-wrap">
+        		  <div id="mobile-wrap">
 			  <div id="mobile-form">
-Sign up for mobile offers
+Sign up for mobile alerts
+<script type="text/javascript" language="javascript">
+function openSignupemail2(type, co_cd) {
+	var delim = '?';
+    var seperator = '=';
+	var apmSand = '&';
+	if (type == 'email')
+	{ 
+		var v = document.getElementById("email").value;
+		openEmailSignUp(v, co_cd);
+	}
+	else if (type == 'mobile')	
+	{
+		var v = document.getElementById("Mobile_Number_1").value;
+		var w = document.getElementById("Mobile_Number_2").value;
+		var x = document.getElementById("Mobile_Number_3").value;
+		var u = "";
+		switch (co_cd) {
+			case "61":
+				u = 'http://ww2.ccs.com/mobile/ccs.html' + delim + 'Mobile_Number_1' + seperator + v + apmSand + 'Mobile_Number_2' + seperator + w + apmSand + 'Mobile_Number_3' + seperator + x ;
+				break;
+		}
+		//alert(u);
+		popupWin = window.open(u,'SignupMobile','height=620,width=640,fullscreen=no,menubar=no,location=no,resizable=yes,scrollbars=yes,titlebar=yes,toolbar=no');		
+	}
+}
+</script>
 			  <form name="mobile_signup_form" method="post" action="">
 
-			   <input id="Mobile_Number_1" size="5" value="Enter" style="color: #555;font-size:11px;width:42px;height:18px" onFocus="this.style.color='black';javascript:dofocus('Mobile_Number_1');" onKeyUp="javascript:validateMobile('Mobile_Number_1','3','Mobile_Number_2');" type="text"/>
-<input id="Mobile_Number_2" size="6" value="Mobile" style="color: #555;font-size:11px;width:42px;height:18px" onFocus="this.style.color='black';javascript:dofocus('Mobile_Number_2');" onKeyUp="javascript:validateMobile('Mobile_Number_2','3','number');" type="text"/>
-<input id="Mobile_Number_3" size="6" value="Number" style="color: #555;font-size:11px;width:42px;height:18px" onFocus="this.style.color='black';javascript:dofocus('Mobile_Number_3');"  onKeyUp="javascript:validateMobile('Mobile_Number_3','4','joinMobile');" type="text"/><a href="javascript:openSignupemail('mobile', '21');" title="Join Mobile club." id="joinMobile"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_enter.gif" alt="Join Mobile club." width="31" height="18" hspace="2" border="0" align="absmiddle" /></a>			  
+			   <input id="Mobile_Number_1" size="5" value="Enter" style="color: #555;font-size:10px;width:42px;height:16px" onfocus="this.style.color='black';javascript:dofocus('Mobile_Number_1');" onkeyup="javascript:validateMobile('Mobile_Number_1','3','Mobile_Number_2');" type="text">
+<input id="Mobile_Number_2" size="6" value="Mobile" style="color: #555;font-size:10px;width:42px;height:16px" onfocus="this.style.color='black';javascript:dofocus('Mobile_Number_2');" onkeyup="javascript:validateMobile('Mobile_Number_2','3','Mobile_Number_3');" type="text">
+<input id="Mobile_Number_3" size="6" value="Number" style="color: #555;font-size:10px;width:42px;height:16px" onfocus="this.style.color='black';javascript:dofocus('Mobile_Number_3');" onkeyup="javascript:validateMobile('Mobile_Number_3','4','joinMobile');" type="text"><a href="javascript:openSignupemail2('mobile', '61');" title="Join Mobile club." id="joinMobile"><img src="http://shop.ccs.com/images/ccs/topnav/newsite/art-btn_enter.gif" alt="Join Mobile club." width="31" height="18" hspace="2" border="0" align="absmiddle"></a>			  
 			  </form>
 			  </div>
 			
 			<div class="cleardiv"></div> 
-			</div>-->
-      </div>
+			</div>
+</div>
       <!-- end footer-flex-icons div -->
     </div>
     <!-- start footer-tagline div -->
@@ -1188,13 +1323,13 @@ Sign up for mobile offers
       <ul>
         <li style="line-height:18px"><a href="http://shop.ccs.com/catRequest/category/" title="Free Catalog">Free Catalog</a></li>
         <li>|</li>
-	<li><a href="http://ccs.movadamedia.com/august2009/page.aspx?id=1" target="_blank" title="Shop Online Catalog">Shop Online Catalog</a></li>
+	<li><a href="http://ccs.movadamedia.com/May2010/page.aspx?id=1" target="_blank" title="Shop Online Catalog">Shop Online Catalog</a></li>
         <li>|</li>
 	<li><a href="http://shop.ccs.com/promotion/promoId:5003284/gift-cards/" title="Gift Cards">Gift Cards</a></li>
         <li>|</li>
         <li><a href="http://shop.ccs.com/customerserv/help:sizing/" title="Sizing Chart">Size Chart</a></li>
         <li>|</li>
-        <li><a href="http://jobs.ccs.com/" target="_blank" title="Careers">Careers</a></li>
+        <li><a href="http://www.footlocker-inc.com/careers.cfm?page=careers-ccs-landing" target="_blank" title="Careers">Careers</a></li>
         <li>|</li>
         <li><a href="http://shop.ccs.com/content/feedback/" title="Contact Us">Contact Us</a></li>
         <li>|</li>
@@ -1225,7 +1360,7 @@ var dn = "shop.ccs.com";
 </map></div>
       <!-- end footer tagline div -->
 <br>
-<a>© 2009 CCS Direct LLC. All Rights Reserved</a> 
+<a>© 2010 CCS Direct LLC. All Rights Reserved</a> 
 </div>
   </div>
   <!-- start footer-bottom div -->
