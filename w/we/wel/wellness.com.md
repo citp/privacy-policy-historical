@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2009-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090430112832id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellness.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613003339id_/http%3A//www.wellness.com/privacy.asp) for the most accurate reproduction.*
 
 # Wellness.com - The Healthy Living Community
 
@@ -60,11 +60,24 @@ _Disclosure of Aggregate Information_
 
 Wellness.com may provide to third parties non-Personal Information about its website usage statistics that does not allow you to be identified or contacted and that is combined with the non-Personal Information of other users ("Aggregate Information"). For example, the company might inform third parties regarding the number of users of the Website and the activities they conduct while on the website. Depending on the circumstances, the company may or may not charge third parties for this Aggregate Information. The company also may not limit the third parties use of the Aggregate Information, except that we do require third parties to whom we disclose Aggregate Information to agree that they will not attempt to make this information personally identifiable by combining it with other databases or otherwise.
 
+_Third Party Advertisers_
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit [_www.google.com/privacy_ads.html_](http://www.google.com/privacy_ads.html). 
+
+  * Google, as a third party vendor, uses cookies to serve ads on your site.   
+
+  * Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and * other sites on the Internet.   
+
+  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at [_www.google.com/privacy_ads.html_](http://www.google.com/privacy_ads.html).   
+
+
+
+
 **4\. Your Privacy Choices**
 
 Users will occasionally be presented with the option of receiving informational emails or newsletters from Wellness.com. Users may exercise these options by indicating their email preferences for receiving these communications. In most cases, at the bottom of any email sent from Wellness.com, if you wish to unsubscribe from the list, click on the "UNSUBSCRIBE" link at the bottom of the email to automatically have your information removed from our that newsletter's database of recipients. Your information will be removed immediately upon your completion of the automated unsubscribe process.
 
-5\. Protecting your Personal Information
+**5\. Protecting your Personal Information**
 
 Wellness.com, Inc. takes reasonable technological and physical security measures to protect each user’s Personal Information; however, users must protect their own passwords and log-in information themselves. The Company cannot protect a user’s Personal Information from a third-party who has obtained their log-in and password credentials legally or illegally. User's are cautioned to take great care to protect their own passwords. Some recommended strategies to help protect passwords are as follows: 
 
