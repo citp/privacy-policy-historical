@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lifewithoutlimbs.org privacy policy that was archived on 2007-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071019181125id_/http%3A//www.lifewithoutlimbs.org/policy-privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lifewithoutlimbs.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612211652id_/http%3A//lifewithoutlimbs.org/policy-privacy.php) for the most accurate reproduction.*
 
 # Life Without Limbs :: Nick Vujicic
 
