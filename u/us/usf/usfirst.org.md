@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231091622id_/http%3A//www.usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usfirst.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202221id_/http%3A//www.usfirst.org/aboutus/content.aspx%3Fid%3D868) for the most accurate reproduction.*
 
 # USFIRST.org
 
@@ -10,7 +10,7 @@ Participants and parents, and other persons entering any _FIRST_ online system o
 
 **_Youth under 13 (COPPA Compliancy)_**
 
-If you are under the age of 13, you need your parent’s permission to use this site at all, and, unless we receive your parent’s verifiable consent (e.g. initials on your on-line registration form or an email from your parents to the _FIRST_ Webmaster) before you can enter any personal information (such as name, address, email address, pictures of yourself) in any of our online systems.
+If you are under the age of 13, you need your parent’s permission to use this site (which throughout this Policy refers to all _FIRST_ websites) at all, and, unless we receive your parent’s verifiable consent (e.g. initials on your on-line registration form or an email from your parents to the _FIRST_ Webmaster) before you can enter any personal information (such as name, address, email address, pictures of yourself) in any of our online systems.
 
 You may not enter personal information (such as name, address, email address) in any of our online systems.
 
