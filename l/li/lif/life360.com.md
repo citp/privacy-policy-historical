@@ -1,36 +1,120 @@
-> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910201547id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the life360.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612232723id_/http%3A//www.life360.com/privacy_policy/loggedout) for the most accurate reproduction.*
 
 # Life360 : Privacy Policy
 
-Privacy Policy for Life360's Services (including Life360 's Panic N' Poke) This Privacy Policy applies to the United States. This policy describes the ways we collect, store, use and protect your personal information. You accepted this policy when you signed up for our Service. We may amend this policy at any time by posting a revised version on our website. The revised version will be effective at the time we post it. In addition, if the revised version includes a substantial change, we will provide you with 30 days' prior notice by posting notice of the change on the "Policy Updates" page of our website. We last modified this Policy on April 16, 2009. 
+Effective on October 21, 2009
 
-1.How we collect information about you   
-2.How we use cookies   
-3.How we protect and store personal information   
-4.How we use the personal information we collect   
-5.How we share personal information with other Life360 users   
-6.How we share personal information with other parties   
-7.How you can restrict Life360 from sharing your personal information   
-8.How you can access or change your personal information   
-9.How you can contact us about privacy questions
+Life360 is committed to protecting your privacy. This privacy policy describes how Life360 collects and uses the personal information you provide on our website: [www.life360.com](http://www.life360.com/). It also describes the choices available to you regarding Life360's use of your personal information and the steps you can take to access this information and to request that we correct or update it.
 
-1\. Life360's website, we collect your IP address and standard web log information, such as your browser type and the pages you accessed on our website.  
-If you open an account, we collect the following types of information from you: - Contact information - your name, address, phone, email, and other similar information. - Financial information - the bank account numbers and credit card numbers that you link to your Life360 account. Before permitting you to use our service, we may require you to provide additional information to use to verify your identity or address or to manage risk, such as your date of birth, social security number or other information. When you are using our service, we collect information about your account transactions and we may collect information about your computer or other access device for fraud prevention purposes. Finally, we may collect additional information from or about you in other ways not specifically described here. For example, we may collect information from contact you have made with our customer support team or may store results you're your survey responses.
+**TRUSTe**
 
-2\. How we use cookies. When you access our website, we, or companies we hire to track how our website is used, may place small data files called "cookies" on your computer. We send a "session cookie" to your computer when you log in to your account. This type of cookie helps us to recognize you if you visit multiple pages on our site during the same session, so that we don't need to ask you for your password on each page. Once you log out or close your browser, this cookie expires and no longer has any effect. We also use longer-lasting cookies for other purposes such as to display your e-mail address on our sign-in form, so that you don't need to retype the e-mail address each time you log in to your account. We encode our cookies so that only we can interpret the information stored in them. You are free to decline our cookies if your browser permits, but doing so may interfere with your use of our website.
+Life360 is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This website has agreed to have its privacy practices monitored for compliance by TRUSTe.
 
-3\. How we protect and store personal information. Throughout this policy, we use the term "personal information" to describe information that can be associated with a specific person and can be used to identify that person. We do not consider personal information to include information that has been made anonymous so that it does not identify a specific user. We store and process your personal information on our computers in the US, and we protect it by maintaining physical, electronic and procedural safeguards in compliance with applicable US federal and state regulations. We use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. 
+If you have questions or concerns regarding this policy, you should first contact us at [admin@life360.com](mailto:admin@life360.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
-4\. How we use the personal information we collect. Our primary purpose in collecting personal information is to provide you with a safe, smooth, efficient, and customized experience. We may use your personal information to: provide the services and customer support you request; process transactions and send notices about your transactions; resolve disputes, collect fees, and troubleshoot problems; prevent potentially prohibited or illegal activities, and enforce our User Agreement; customize, measure, and improve our services and the content and layout of our website; send you targeted marketing, service update notices, and promotional offers based on your communication preferences; compare information for accuracy and verify it with third parties. 
+**Collection and Use of Personal Information**
 
-5\. How we share personal information with other Life360 users. To process your payments, we need to share some of your personal information with the person or company that you are paying or is paying you. Your contact information, date of sign-up, the number of payments you have received from verified Life360 users, and whether you have verified control of a bank account are provided to other Life360 users who you transact with through Life360. If you are buying goods or services and pay through Life360, we may also provide the seller with your confirmed credit card billing address to help complete your transaction with the seller. The seller is not allowed to use this information to market their services to you unless you have agreed to it. We work with merchants to enable them to accept payments from you using Life360. In doing so, a merchant may share information about you with us, such as your email address, when you attempt to pay that merchant. We use this information to confirm to that merchant that you are a Life360 customer and that the merchant should enable Life360 as a form of payment for your purchase.  
-Regardless, we will not disclose your credit card number or bank account number to anyone you have paid or who has paid you through Life360, except with your express permission or if we are required to do so to comply with a subpoena or other legal process. 
+We collect the following personal information from you.
 
-6\. How we share personal information with other parties. We may share your personal information with: Members of Txtblstr or Twillio to provide joint content and services (such as registration, transactions and customer support) to help detect and prevent potentially illegal acts and violations of our policies, and to guide decisions about their products, services and communications; members of our corporate family who may use this information to send you marketing communications only if you have requested their services; service providers under contract who help with parts of our business operations (fraud prevention, bill collection, marketing, technology services). Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit. If your personal information could be used contrary to this policy, you will receive prior notice). We may also share personal information with: law enforcement, government officials, or other third parties when owe are compelled to do so by a subpoena, court order or similar legal procedure owe need to do so to comply with law owe believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement; other third parties with your consent or direction to do so. Life360 will not sell or rent any of your personal information to third parties in the normal course of doing business and only shares your personal information with third parties as described in this policy. 
+  * Contact Information such as name, email address, mailing address, phone number
+  * Billing Information such as credit card number, expiration date, billing address
+  * Preferences Information such as product wish lists, order history, marketing preferences
+  * Unique Identifiers such as user name, ID number, account number, password
 
-7\. How you can restrict Life360 from sharing your personal information: Federal and state laws allow you to restrict the sharing of your personal information in certain instances. However, these laws also state that you cannot restrict other types of sharing. Because we have chosen to refrain from certain types of data sharing, the only type of sharing of your personal information that you may restrict is as follows: If you do not want Life360 to share your personal information with other financial institutions for the purpose of marketing our jointly offered products to you, please log in to your account and uncheck the box in the Information Sharing section of the Notifications and Information Sharing page. This page can be accessed by going to the Profile subtab under the My Account tab. You can also control how we use your contact information to market our services to you in the notifications preferences. 
 
-8\. How you can access or change your personal information: you can review and edit your personal information at any time by logging in to your account and clicking the Profile subtab under the "My Account" tab. 
 
-9\. How you can contact us about privacy questions: if you have questions or concerns regarding this policy, you should contact us by using this form or writing to us at Life360, Attn:  
-Privacy Department, 2590 Durant Ave P.O. Box 271 Berkeley CA 94704. Life360 maintains offices at 2680 Bancroft Way, Berkeley, CA 94704 
+We collect this information when you
+
+  * Set up an account
+  * Sign up for our newsletter or email list
+  * Contact us with questions or request more information about our products or services
+
+
+
+We use this information to
+
+  * Fulfill your order
+  * Send you an order confirmation
+  * Assess the needs of your business to determine which products best meet those needs
+  * Send you requested product or service information
+  * Send product updates or warranty information
+  * Respond to customer service requests
+  * Administer your account
+  * Send you a newsletter
+  * Respond to your questions and concerns
+  * Improve our website and marketing efforts
+
+
+
+**Information Sharing**
+
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell, rent, trade, or otherwise share your personal information with third parties without first providing you notice and choice.
+
+We may provide your personal information to agents or service providers acting on our behalf for limited purposes. For example, we may share personal information with our agents or service providers to ship your order, or send you email on our behalf. These third parties are authorized to use your personal information _only_ to perform the service they are providing for us.
+
+We reserve the right to disclose your personal information as required by law (e.g., to comply with a subpoena, warrant, court order, or legal process served on our website) and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, and/or respond to a government request.
+
+In the event Life360 goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified via email and/or a prominent notice on our website of any such change in ownership or control of your personal information, as well as any choices you may have regarding your personal information.
+
+_Third Party E-Commerce Solutions Provider_
+
+Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use your information for any other purpose.
+
+**Choice/Opt-Out**
+
+You may opt-out of receiving our newsletter or marketing emails from us by following the unsubscribe instructions included in each newsletter or marketing email or you can contact us at [admin@life360.com](mailto:admin@life360.com).
+
+**Cookies and Other Tracking Technologies**
+
+ _Cookies_
+
+Cookies are very small text files that are stored on your computer when you visit certain web pages. We use cookies on our site to
+
+  * Keep track of login name and password
+  * Personalize your experience
+
+
+
+_Log Files_
+
+As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or page views.
+
+We use this information, which does not usually identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
+
+We may record your IP addresses when you place an order through our site in order to detect and prevent fraud.
+
+_Web Beacons_
+
+A web beacon is an electronic image placed on a web page that can serve many of the same purposes that cookies serve, For example, recording the pages you visit on our site. We or third parties may use web beacons to track the traffic patterns of users from one page to another.
+
+We or our third party service provider may use web beacons in some of our emails to let us know which emails have been opened by recipients or track click-through rates. This allows us to gauge the effectiveness of our communications to customers and our marketing campaigns.
+
+**Correcting and Updating Your Personal Information**
+
+To review and update your personal information to ensure it is accurate, contact us at [admin@life360.com](mailto:admin@life360.com).
+
+**Widgets**
+
+Our website includes Widgets, which are interactive mini-programs that run on our site and are designed to provide single-purpose services (e.g. displaying the latest news, opinions, music, etc). These Widgets are hosted by a third party. Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable certain features of the Widget to function properly. The information collected by this Widget is subject to the Widget's privacy policy. Life360 is not responsible for personal information you choose to provide through the Widget.
+
+Our website offers blogs or community forums to allow you to learn more about us. You should be aware that any personally identifiable information you provide in these areas may be read, collected, and used by others who access them. We are not responsible for any personally identifiable information you choose to submit in blogs, forums, chat areas, instant message services, bulletin boards, or any other publicly accessible service or website.
+
+**Security**
+
+When we collect personal information directly from you, we follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. If you have any questions about security on our website, you can contact us at [admin@life360.com](mailto:admin@life360.com).
+
+In order to make a purchase from us, you must use our shopping cart provider to finalize and pay for your order. Its privacy statement and security practices will also apply to your information. We encourage you to read that privacy statement before providing your information.
+
+**Notification of Privacy Statement Changes**
+
+We may update this policy from time to time as our information practices are modified or changed. If we make any material changes to this policy that affect your personal information, we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change. We encourage you to periodically review this page for the latest information on our privacy practices.
+
+**Contact Information**
+
+You can contact us by writing or email us at the address below.
+
+Life360   
+78 1st Street   
+San Francisco, CA 94105   
+[admin@life360.com ](mailto:admin@life360.com)   
+415-462-0002 
