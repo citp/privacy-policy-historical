@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2009-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090708091506id_/http%3A//www.gerson.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gerson.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612230326id_/http%3A//www.gerson.org/privacy.htm) for the most accurate reproduction.*
 
-# The Gerson Institute - Alternative Cancer Treatment
+# Gerson Institute
 
 This privacy notice discloses the privacy practices for (www.gerson.org). This privacy notice applies solely to information collected by this web site. It will notify you of the following: 
 
@@ -35,4 +35,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 While we use encryption to protect sensitive information transmitted online, we also protect your information offline. Only employees who need the information to perform a specific job (for example, billing or customer service) are granted access to personally identifiable information. The computers/servers in which we store personally identifiable information are kept in a secure environment. 
 
-**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619-685-5353 or via email    [info@gerson.org](mailto:info@gerson.org).**
+**If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephone at 619-685-5353 or via email    [ info@gerson.org](mailto:info@gerson.org).**
