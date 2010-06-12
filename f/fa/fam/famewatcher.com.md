@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the famewatcher.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231143427id_/http%3A//famewatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the famewatcher.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613003325id_/http%3A//famewatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Famewatcher
 
