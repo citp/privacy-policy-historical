@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216222515id_/http%3A//vodpod.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodpod.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612122945id_/http%3A//vodpod.com/privacy) for the most accurate reproduction.*
 
 # Vodpod: Privacy
 
@@ -52,11 +52,11 @@ A cookie is a small amount of data, which often includes an anonymous unique ide
   * You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set. 
   * If you reject all cookies, you will not be able to use Vodpod products or services that require you to "sign in," and you may not be able to take full advantage of the Vodpod service. 
   * Vodpod uses its own cookies for a number of purposes, including to:  
-o Access your information when you "sign in".   
-o Keep track of preferences you specify while you are using Vodpod's services.  
-o Store credentials you may use to enable posting to other sites   
-o Estimate and report our total audience size and traffic.   
-o Conduct research to improve Vodpod's content and services. 
+\- Access your information when you "sign in".   
+\- Keep track of preferences you specify while you are using Vodpod's services.  
+\- Store credentials you may use to enable posting to other sites   
+\- Estimate and report our total audience size and traffic.   
+\- Conduct research to improve Vodpod's content and services. 
   * Vodpod may let other companies (such as Google) that show advertisements on some of our pages set and access their cookies on your computer. Other entities' use of their cookies is subject to their own privacy policies, not this one. Advertisers or other entities do not have access to Vodpod's cookies. 
 
 
