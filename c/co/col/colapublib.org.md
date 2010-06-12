@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2009-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091113084550id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the colapublib.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191428id_/http%3A//www.colapublib.org/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | County of Los Angeles Public Library
 
@@ -29,3 +29,19 @@ Our website also contains links to information located on websites maintained by
 ## Disclaimer of Liability
 
 With respect to information available from this web page, neither the County of Los Angeles nor any of its employees, make any warranty, express or implied, including the warranty of merchantability and fitness for a particular purpose, or assume any liability or responsibility for the accuracy, completeness, or usefulness of such information.
+
+## Privacy Regarding Registration and Circulation Records
+
+All registration and circulation records of any library which is in whole or in part supported by public funds shall remain confidential and shall not be disclosed to any person, local agency, or state agency except as follows:
+
+  1. By a person acting within the scope of his or her duties within the administration of the library.
+  2. By a person authorized, in writing, by the individual to whom the records pertain, to inspect the records. 
+  3. By the order of the appropriate superior court 
+
+
+
+As used in this section, the term "registration records" includes any information which a library requires a patron to provide in order to become eligible to borrow books and other materials, and the term "circulation records" includes any information which identifies the patrons borrowing particular books and other material. 
+
+This section shall not apply to statistical reports of registration and circulation nor to records of fines collected by the library.
+
+From the [California Government Code](http://law.justia.com/california/codes/gov.html), Chapter 3.5, Article 1, Section 6267
