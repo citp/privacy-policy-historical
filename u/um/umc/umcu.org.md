@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the umcu.org privacy policy that was archived on 2009-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090917133038id_/http%3A//www.umcu.org/about/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the umcu.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612210414id_/http%3A//umcu.org/about/privacypolicy.html) for the most accurate reproduction.*
 
 # University of Michigan Credit Union
 
