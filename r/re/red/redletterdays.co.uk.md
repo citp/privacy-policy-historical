@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2009-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091004224041id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the redletterdays.co.uk privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612043054id_/http%3A//www.redletterdays.co.uk/Privacy) for the most accurate reproduction.*
 
 # Red Letter Days - Gift Experience Vouchers - Birthday presents and unique gift ideas
 
@@ -18,11 +18,9 @@ When you book an experience, we need you know your name, address, email address,
 
 If you have a web account, you can also access a copy of the booking confirmation letter to print and bring with you on the day. Throughout each of these processes, when you login or create an account, you are able to choose whether you wish to receive further information from us and the method by which you would like to receive it (email, post, telephone and/or SMS). 
 
-Throughout each of these processes, when you login to or create an account, you are able to choose whether you wish to receive further information from us and the method by which you would like to receive it (email, post, telephone and/or SMS). 
-
 ###  How does Red Letter Days protect customer information?
 
-When you place orders or request a brochure, we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Legislation, we follow strict security procedures in the storage and disclosure of information you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you. 
+When you place orders we use a secure server. The secure server software (SSL) encrypts all information you input before it is sent to us. Furthermore, as required by the UK Data Protection Legislation, we follow strict security procedures in the storage and disclosure of information you have given us, to prevent unauthorised access. Our security procedures mean that we may occasionally request proof of identity before we are able to disclose sensitive information to you. 
 
 ###  Red Letter Days' use of cookies
 
