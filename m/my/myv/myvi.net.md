@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myvi.net privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227194314id_/http%3A//myvi.net/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myvi.net privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612021043id_/http%3A//myvi.net/site/privacy) for the most accurate reproduction.*
 
 # ViSalus Privacy Policy
 
