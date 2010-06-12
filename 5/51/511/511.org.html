@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2009-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091119221308id_/http%3A//www.511.org/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 511.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612184116id_/http%3A//www.511.org/privacy.asp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/2-column.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -25,11 +25,98 @@ include virtual="/inc/css-block.asp" -->
 
 <div id="container">
 
-    <div id="skipto"><a href="#mainContent" class="skip_nav" accesskey="z">Skip to Content</a></div>
+    <div id="skipto"><a href="#contentarea" class="skip_nav" accesskey="z">Skip to Content</a></div>
     
     <div id="header">
-      <div id="logo"> <a href="/default.asp"><img src="/img/logos/511-logo.gif" alt="511 logo"></a> <span id="logo-tagline">SF Bay Area</span>
-        <div id="my-login-tagline"><a href="http://my511.org/" title="MY511"><img src="/img/global/my511.gif" width="36" height="36" alt="My 511"></a>
+    
+		<style type="text/css">
+        #autoRefreshLink {
+			font-family: "Lucida Grande", Arial, Helvetica, sans-serif;
+			font-size: 10px;
+			font-weight: bold;
+			position: absolute;
+			/*top: 71px;*/
+			top: 78px;
+			/*right: -15px;*/
+			left: -9999px;
+			width: 160px;
+			text-align: center;
+        }
+        #autoRefreshLink a {
+        	color: #536B25;
+        }
+        #autoRefreshInfo {
+			position: absolute;
+			top: 95px;
+			right: 15px;
+			width: 300px;
+			z-index: 2001;
+			font-size: 12px;
+			display: none;
+			background-color: #EBEBEB;
+			border: 1px solid #666666;
+			padding: 5px;
+        }
+        </style>
+      
+		<div id="autoRefreshLink"></div>
+        
+        <div id="autoRefreshInfo">
+		When this page auto-refreshes, the Current Traffic Conditions map refreshes it's data and show up-to-date traffic info. Similarly, if there are any emergency notifications, the page refresh will update the 'Welcome to 511.org' section with these messages. Stopping auto-refresh of the page will stop these updates from appearing on the page.
+      	</div>
+		
+		<script language="javascript" type="text/javascript">
+		
+		var curPath = window.location.pathname;
+		var curPage = curPath.substring(curPath.lastIndexOf('/') + 1);
+		//alert(curPath);
+		
+		if(curPage == "default.asp" || curPage == "") {
+		
+			var destination_param = decodeURI(getURLParam('auto_refresh'));
+			if(destination_param == "yes" || destination_param == "") {
+				document.getElementById('autoRefreshLink').innerHTML = '<a href="?auto_refresh=no" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();">Pause auto-refresh</a> <!--<img src="../img/global/info_icon.gif" alt="What is this?" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();" style="position: relative; top: 5px;" />-->';
+			} else {
+				//do not set auto-refresh meta tag
+				document.getElementById('autoRefreshLink').innerHTML = '<a href="/" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();">Restart auto-refresh</a> <!--<img src="../img/global/info_icon.gif" alt="What is this?" onmouseover="whatIsThisShow();" onmouseout="whatIsThisHide();" style="position: relative; top: 5px;" />-->';
+			}
+			
+		}
+		
+		function whatIsThisShow() {
+			document.getElementById('autoRefreshInfo').style.display = "block";
+		}
+		function whatIsThisHide() {
+			document.getElementById('autoRefreshInfo').style.display = "none";
+		}
+		
+		</script>
+      
+      	<div id="logo"> <a href="/default.asp"><img src="/img/logos/511-logo.gif" alt="511.org Home"></a> <span id="logo-tagline">SF Bay Area</span>
+      
+      	<style type="text/css">
+		#mobileDiv2 {
+			position: absolute;
+			top: 5px;
+			left: 80px;
+			font-family: "Lucida Grande",Arial,Helvetica,sans-serif;
+			font-size: 15px;
+			font-weight: bold;
+			text-align: left;
+			width: 150px;
+			padding-bottom: 10px;
+			z-index: 1000;
+		}
+		#mobileDiv2 a {
+			color: #CC0000;
+		}
+		</style>
+		
+        
+        <map name="My511">
+        	<area shape="rect" coords="-2,0,38,37" href="http://my511.org/" alt="Login to MY511.org" title="Login to MY511.org">
+        </map>
+        <div id="my-login-tagline"><img src="/img/global/my511.gif" width="36" height="36" alt="Login to MY511.org" usemap="#My511">
           <ul>
             <li><a href="http://www.my511.org/">Login</a></li>
             <li class="last"><a href="http://www.my511.org/regstep1.aspx">Register</a></li>
@@ -86,12 +173,17 @@ include virtual="/inc/css-block.asp" -->
           <ul>
             <li><a href="/about-511-phone-features.asp">Phone Features</a></li>
             <li><a href="/about-511-web-features.asp">Web Features</a></li>
+            <li><a href="/about-511-mobile.asp">511 Mobile</a></li>
             <li><a href="/about-511-who-we-are.asp">Who We Are</a></li>
-            
             <li><a href="/about-511-suggestions.asp">Suggestions</a></li>
           </ul>
         </li>
-        <li class="hilite"><a href="/apps.asp">Apps &amp; Extras</a>
+        <li class="hilite"><a href="/apps.asp">Mobile &amp; Apps</a>
+          <ul>
+          	<li><a href="/apps-511-mobile.asp">511 Mobile</a></li>
+            <li><a href="/apps-3rd-party-apps.asp">Third Party Apps</a></li>
+            <li><a href="/apps-websites.asp">Websites</a></li>
+          </ul>
         </li>
       </ul>
     </div><!-- END header -->
@@ -182,7 +274,8 @@ include virtual="/inc/css-block.asp" -->
     
     <div id="two-col-primary-layout">
     
-		<div id="primaryCol">
+		<a name="contentarea" id="contentarea"></a>
+        <div id="primaryCol">
       
             <div class="padding">
             
@@ -323,9 +416,7 @@ include virtual="/inc/css-block.asp" -->
             <ul>
               <li class="left-align"><a href="/call-511.asp">Call 511</a></li>
               <li class="left-align"><a href="/about-511.asp">About 511</a></li>
-              
-              
-              <li class="left-align"><a href="../about-511-suggestions.asp">Suggestions</a></li>
+              <li class="left-align"><a href="/about-511-suggestions.asp">Suggestions</a></li>
             </ul>
           </div><!-- END right -->
         </div><!-- END center-menu -->
@@ -377,8 +468,8 @@ include virtual="/inc/css-block.asp" -->
         <p>Languages</p>
         <ul>
           <li><a href="/language_disclaimer.asp">Disclaimer</a></li>
-          <li><script language="JavaScript1.2" type="text/javascript">document.write("<a href=\"http://translate.google.com/translate?u=http://511.org/default.asp&langpair=en|es&hl=en&ie=UTF-8&oe=UTF-8&prev=/language_tools\" tabindex=\"165\" title=\"Spanish\" target=\"_top\" title=\"Spanish\" style=\"font-size:10px\" class=\"footer_link_new\">En Espa&ntilde;ol</a>");</script><a href="http://translate.google.com/translate?u=http://511.org/default.asp&amp;langpair=en|es&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=/language_tools" tabindex="165" title="Spanish" target="_top" style="font-size:10px" class="footer_link_new">En Español</a></li>
-          <li><script language="JavaScript1.2" type="text/javascript">document.write("<a href=\"http://translate.google.com/translate?u=http://511.org/default.asp&langpair=en%7Czh-CN&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools\" tabindex=\"165\" title=\"Chinese\" target=\"_top\" title=\"Chinese\" style=\"font-size:10px\" class=\"footer_link_new\">中文</a>");</script><a href="http://translate.google.com/translate?u=http://511.org/default.asp&amp;langpair=en%7Czh-CN&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" tabindex="165" title="Chinese" target="_top" style="font-size:10px" class="footer_link_new">中文</a></li>
+          <li><script language="JavaScript1.2" type="text/javascript">document.write("<a href=\"http://translate.google.com/translate?u=http://511.org/default.asp&langpair=en|es&hl=en&ie=UTF-8&oe=UTF-8&prev=/language_tools\" title=\"Spanish\" target=\"_top\" title=\"Spanish\" style=\"font-size:10px\" class=\"footer_link_new\">En Espa&ntilde;ol</a>");</script><a href="http://translate.google.com/translate?u=http://511.org/default.asp&amp;langpair=en|es&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=/language_tools" title="Spanish" target="_top" style="font-size:10px" class="footer_link_new">En Español</a></li>
+          <li><script language="JavaScript1.2" type="text/javascript">document.write("<a href=\"http://translate.google.com/translate?u=http://511.org/default.asp&langpair=en%7Czh-CN&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools\" title=\"Chinese\" target=\"_top\" title=\"Chinese\" style=\"font-size:10px\" class=\"footer_link_new\">中文</a>");</script><a href="http://translate.google.com/translate?u=http://511.org/default.asp&amp;langpair=en%7Czh-CN&amp;hl=en&amp;ie=UTF-8&amp;oe=UTF-8&amp;prev=%2Flanguage_tools" title="Chinese" target="_top" style="font-size:10px" class="footer_link_new">中文</a></li>
         </ul>
       </div><!-- END footer-menu -->
       
@@ -398,8 +489,10 @@ include virtual="/inc/css-block.asp" -->
               
               
               <li class="left-align"><a href="/accessibility.asp">Accessibility</a></li>
-              <li class="left-align"><a href="/apps.asp">Apps &amp; Extras</a></li>
+              <li class="left-align"><a href="/apps.asp">Mobile &amp; Apps</a></li>
               <li class="left-align"><a href="/developer-resources.asp">Dev Resources</a></li>
+              <div style="margin-top: 3px;"></div>
+              <li class="left-align"><a href="http://www.facebook.com/511SFBay" target="_blank"><img src="/img/global/facebook16x16.gif" alt="facebook.com/511sfbay" title="facebook.com/511sfbay" border="0"></a>&nbsp;&nbsp;<a href="http://twitter.com/511SFBay" target="_blank"><img src="/img/global/twitter16x16.gif" alt="twitter.com/511sfbay" title="twitter.com/511sfbay" border="0"></a></li>
             </ul>
           </div><!-- END right -->
         </div><!-- END center-menu -->
@@ -410,10 +503,14 @@ include virtual="/inc/css-block.asp" -->
     </div><!-- END mainContent -->
     
     <div id="copy-subfooter">
-      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2009 Metropolitan Transportation Commission</a></p>
+      <p><a href="http://www.mtc.ca.gov/" target="_blank">©2010 Metropolitan Transportation Commission</a></p>
     </div>
 
 </div><!-- END container -->
+
+<!-- START Mobile functionality -->
+
+<!-- END Mobile functionality -->
 
 <script src="/urchin.js" type="text/javascript"></script>
 <script type="text/javascript">
