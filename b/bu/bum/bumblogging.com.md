@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumblogging.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208043121id_/http%3A//bumblogging.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumblogging.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612182040id_/http%3A//bumblogging.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy
 
