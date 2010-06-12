@@ -1,27 +1,23 @@
-> *The following text is extracted and transformed from the webecoist.com privacy policy that was archived on 2009-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090921015414id_/http%3A//webecoist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webecoist.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612074848id_/http%3A//webecoist.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | WebEcoist | Green Living
+# Privacy Policy : WebEcoist
 
-## Privacy Policy
+The privacy of visitors to WebUrbanist.com and WebEcoist.com is important to us. We collect information from you when you subscribe to our newsletter, respond to a survey or fill out a form. When registering on our site, as appropriate, you may be asked to enter your name or e-mail address. You may, however, visit our site anonymously.
 
-Privacy Policy for webecoist.com
+**Use of Information:** Some of the information we collect from you may be used to personalize your experience, to improve our website, to administer a contest, promotion, survey or other site feature or to send periodic opt-in emails. Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-The privacy of our visitors to webecoist.com is important to us.
+**Personal Information:** We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
 
-At webecoist.com, we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit webecoist.com, and how we safeguard your information. We never sell your personal information to third parties.
+**Cookies:** This website uses Cookies. These are files that a site or its service provider transfers to your computers hard drive through your web browser which, if you allow them, enable the sites or service provider systems to recognize your browser to capture and remember certain information. We use cookies to keep track of advertisements displayed to visitors. To learn more or for opt-out options, visit [Network Advertising dot org](http://www.networkadvertising.org/managing/opt_out.asp)
 
-Log Files  
-As with most other websites, we collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the browser you used to visit our site (such as Internet Explorer or Firefox), the time you visited our site and which pages you visited throughout our site.
+**Google:** Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy. Other third-party vendors use cookies as well.
 
-Cookies and Web Beacons  
-We do use cookies to store information, such as your personal preferences when you visit our site. This could include only showing you a popup once in your visit, or the ability to login to some of our features, such as forums.
+**Third-Party Links:** Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
-We also use third party advertisements on webeocist.com to support our site. Some of these advertisers may use technology such as cookies and web beacons when they advertise on our site, which will also send these advertisers (such as Google through the Google AdSense program) information including your IP address, your ISP , the browser you used to visit our site, and in some cases, whether you have Flash installed. This is generally used for geotargeting purposes (showing New York real estate ads to someone in New York, for example) or showing certain ads based on specific sites visited (such as showing cooking ads to someone who frequents cooking sites).
+**California Online Privacy Protection Act Compliance:** Because we value your privacy we have taken the necessary precautions to be in compliance with the California Online Privacy Protection Act. We therefore will not distribute your personal information to outside parties without your consent.
 
-You can choose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+**Childrens Online Privacy Protection Act Compliance:** We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not intentionally collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older.
 
-Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added.
+**Consent:** By using our site, you consent to our privacy policy. This online privacy policy applies only to information collected through our website and not to information collected offline. If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date shown here: This policy was last modified on 2/8/2010
 
-New to [WebEcoist](http://webecoist.com/)? [Click here for the RSS feed](http://webecoist.com/feed/) and view the [archives](http://webecoist.com/archives/) and [galleries](http://webecoist.com/galleries/). Also be sure to visit [WebUrbanist](http://weburbanist.com/) and see [architecture](http://dornob.com/category/architecture/), [interiors](http://dornob.com/category/interiors/), [fantastic furniture](http://dornob.com/category/furniture/) and [more designs](http://dornob.com/category/more/) at [Dornob](http://dornob.com/) and find [great gadgets](http://gajitz.com/meta/gadgets/), [strange science](http://gajitz.com/meta/science/) and [tech with a twist](http://gajitz.com/meta/technology/) at [Gajitz](http://gajitz.com/)
-
-. 
+Please also visit our [Terms and Conditions](http://webecoist.com/terms-of-service/) section establishing the use, disclaimers, and limitations of liability governing the use of our website and contact us with questions, concerns or complaints on this [contact page](http://webecoist.com/contact/).
