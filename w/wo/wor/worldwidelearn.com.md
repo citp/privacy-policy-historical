@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208042137id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldwidelearn.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612190848id_/http%3A//www.worldwidelearn.com/about-worldwidelearn/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | About WorldWideLearn.com
-
-[Home](http://www.worldwidelearn.com/) | [About WorldWideLearn](http://www.worldwidelearn.com/about-worldwidelearn/index.html) | Privacy Policy 
 
 We at WorldWideLearn and our affiliated companies worldwide are committed to respecting your online privacy and recognize your need for appropriate protection and management of any information you share with us by using our web sites.
 
