@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626073059id_/http%3A//scoutstuff.org/BSASupply/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scoutstuff.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612204337id_/http%3A//www.scoutstuff.org/BSASupply/privacy.aspx) for the most accurate reproduction.*
 
 # BSA Privacy Policy
 
