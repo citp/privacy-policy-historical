@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the websitealive7.com privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524081547id_/http%3A//www.websitealive.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitealive7.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612183954id_/http%3A//www.websitealive.com/privacy-policy) for the most accurate reproduction.*
 
-# Website Alive
+# Privacy Policy
 
 We are committed to your privacy. This Privacy Policy details how we use your personal identifying information. This Privacy Policy may be modified at any time without notice to you. Please review this document each time you visit us or use any of our tools or services. Our Privacy Policy is our commitment to you that we provide not only the highest quality services and products, but that we understand that you expect us to safeguard the personal and business information that we collect. To this end, our Privacy Policy allows you to make an informed decision regarding your usage of the tools and services that we provide. As technology and circumstances change, we will continue to update, modify and enhance this Privacy Policy for your benefit as part of our commitment to you to provide the best possible services and security according to our high standards of business practices and ethics. 
 
@@ -79,7 +79,7 @@ We use your personal information, in a general sense, to operate our business; t
 
 Your password is protected by us from unauthorized access and usage via standard security approaches. However, no such process is 100% secured. Also, we advise you to never share your password and other sensitive information with any third party and to always verify by examining the address placed into your browser’s URL section that you are actually present at our web site before you enter in your user ID and password information. 
 
-How Can You Access and Correct Your Information? You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing techsupport@websitealive.com.
+How Can You Access and Correct Your Information? You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing [techsupport@websitealive.com](mailto:techsupport@websitealive.com) .
 
 Evaluation of our Privacy Policy practices and internal protocols: from time to time, our operations and business practices are reviewed for compliance with internal policies and procedures governing the security and confidentiality of our information. We provide ongoing training for regarding our standards and practices regarding the safeguarding of your personal information and in general limit access to any such information to those employees who are authorized to attend to your information for such reasonably required and necessary access thereto. 
 
@@ -98,7 +98,7 @@ If your credit card or password is stolen or used without your permission, immed
 
 **Cancellation**
 
-You may cancel your account at any time by sending an e-mail to billing@websitealive.com. Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database. 
+You may cancel your account at any time by sending an e-mail to [billing@websitealive.com](mailto:billing@websitealive.com) . Once WebsiteAlive has finished processing the cancellation, WebsiteAlive will delete all your Registration Data from its database. 
 
 Use of Aggregated Information. WebsiteAlive reserves the right to disclose to third parties information about Subscriber usage of the WebsiteAlive Web site and any related services, including information gathered during your use of the Site. Any information disclosed will be in the form of aggregate data (such as overall patterns or demographic reports) that does not describe or identify any individual user.
 
