@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the bu.mp privacy policy that was archived on 2009-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091229054556id_/http%3A//www.bu.mp/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bu.mp privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612073050id_/http%3A//bu.mp/privacy) for the most accurate reproduction.*
 
-# Bump Technologies, Inc.
+# The Bump App for iPhone and Android | Bump Technologies, Inc.
 
-[](https://web.archive.org/web/20091229054556id_/http%3A//www.bu.mp/index.html)
+[ ](http://bu.mp/ "Bump Technologies Home Page")
 
 #### Privacy policy
 
-This is our privacy policy. If you want to learn about our privacy features, please [read about them in our FAQ.](https://web.archive.org/web/20091229054556id_/http%3A//www.bu.mp/faq.html)
+This is our privacy policy. If you want to learn about our privacy features, please [read about them in our FAQ.](https://web.archive.org/web/20100612073050id_/http%3A//bu.mp/faq "Bump Frequently Asked Questions")
 
   1. We do not collect or store any of the contact information that users enter and transfer to other users using Bumptm.
   2. We will take appropriate measures to protect your data through security techniques like encryption (see our FAQ for more details).
