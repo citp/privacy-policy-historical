@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230003328id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aiononline.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612145830id_/http%3A//us.ncsoft.com/en/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | NCsoft
 
@@ -96,8 +96,6 @@ In such a situation, you will be given an opportunity to decline to share that i
 
 As described in the registration process, a third party's (such as Alienware's) use of the shared Personal Information will be governed by any privacy policy that company may have in place and our use of such information shall, of course, be governed by the terms of this Privacy Policy.
 
-You may change your preferences concerning the sharing of your information by going to the [INSERT NAME/LINK TO APPROPRIATE PAGE] page.
-
 ### Online Communications, Games
 
 When you play any of the games offered and/or served by NCI, or use any of the communication features on the Sites, your IP address (the Internet protocol address from which you access any of the above) may be stored in our records.
@@ -175,7 +173,7 @@ Some areas of the Site may have special rules for children under the age of 18. 
 
 If you are a parent or guardian who has discovered that your child has submitted his or her personal information without your permission or consent, NCI will take reasonable steps to remove that information from the NCI database at your request.
 
-To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user name, password, and email address that your child submitted. If your child has used your credit card on our web sites without your permission, contact us immediately at [support@plaync.com](mailto:support@plaync.com).
+To request removal of your child's information, please send us an e-mail (to the address below) and be sure to include in your message the same user name, password, and email address that your child submitted. If your child has used your credit card on our web sites without your permission, contact us immediately at [support@ncsoft.com](mailto:support@ncsoft.com).
 
 ## 5\. The choices available to users regarding collection, use and distribution of the Personal Information
 
@@ -197,7 +195,7 @@ NCI takes precautions to protect our users' information. When users submit sensi
 
 We have established and maintain reasonable security procedures to protect the confidentiality, security and integrity of your personal information. We use encryption, Secure Socket Layers, and other technical measures (such as off-site backup, security testing, and password protection), and we implement off-line efforts to further protect this information, including limiting employee access to personal information and updating our employees regarding our security practices and privacy policies.
 
-Please recognize, however, that "perfect security" does not exist on the Internet. If you have any questions about the security at our website or facilities, you can send an e-mail to [support@plaync.com](mailto:support@plaync.com).
+Please recognize, however, that "perfect security" does not exist on the Internet. If you have any questions about the security at our website or facilities, you can send an e-mail to [support@ncsoft.com](mailto:support@ncsoft.com).
 
 ## 8\. Information for people in the European Union
 
