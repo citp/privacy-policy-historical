@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2007-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20070527120525id_/http%3A//www.hotelscombined.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotelscombined.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612221113id_/http%3A//www.hotelscombined.com.au/AboutUs/Privacy.aspx) for the most accurate reproduction.*
 
-# Hotels Combined - Compare Hotel Prices from Top Hotel Sites
+# HotelsCombined.com.au Privacy Statement
 
   
   
@@ -8,18 +8,18 @@
 
 ## Our Commitment
 
-Welcome to HotelsCombined.com, the best site on the web for up-to-date information on hotels and accommodations throughout the world. We, the founders of HotelsCombined.com are Internet users, too, so we understand how serious you are about protecting your private information – we’re serious about it, too! To help you understand our privacy policies better, we’ve chosen to explain it below in plain English. That way, you can feel comfortable that we are just as dedicated to your privacy as we are to ours. 
+Welcome to HotelsCombined.com.au, the best site on the web for up-to-date information on hotels and accommodations throughout the world. We, the founders of HotelsCombined.com.au are Internet users, too, so we understand how serious you are about protecting your private information – we’re serious about it, too! To help you understand our privacy policies better, we’ve chosen to explain it below in plain English. That way, you can feel comfortable that we are just as dedicated to your privacy as we are to ours. 
 
 The bottom line is that any information we collect from you remains completely private unless you give us permission to give it to another website. We do not knowingly collect private information from children, and we don’t sell your information to any other websites for any reason. That’s it in a nutshell! If you have any questions about our privacy policy, please don’t hesitate to contact us by email or at 
 
 Hotels Combined Pty Ltd  
-Suite 4/6 Clifford Street  
-Mosman, NSW, 2088  
+Level 2, Suite 3, 173-179 Broadway  
+Ultimo, 2007, NSW  
 Sydney, Australia 
 
 ## Information Collected
 
-Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit HotelsCombined.com. We use this information to make the site better – easier to use and simpler. 
+Our computers collect non-personally identifiable data (your IP address, how often you visit our site, which pages you visit, etc.) each time you visit HotelsCombined.com.au. We use this information to make the site better – easier to use and simpler. 
 
 We will only collect personally identifiable data (your name, email address, phone number, etc.) on forms YOU complete. This information might be used for promotions, specials, or to contact you when you have a question. YOU are in complete control of what personally identifiable information you give us. 
 
@@ -38,7 +38,7 @@ c) protect and/or defend our Company, website, employees, and users.
 
 ## Children
 
-HotelsCombined.com does not knowingly collect any information from children. 
+HotelsCombined.com.au does not knowingly collect any information from children. 
 
 ## Cookies
 
@@ -46,15 +46,15 @@ Cookies are a standard Internet technology, a small text file that is put on you
 
 ## Acquisition
 
-That’s the fancy term for if we sell HotelsCombined.com or the Company or merge with another company. If we do, your information might be transferred to the new company. 
+That’s the fancy term for if we sell HotelsCombined.com.au or the Company or merge with another company. If we do, your information might be transferred to the new company. 
 
 ## Security
 
-HotelsCombined.com is as committed to the security of your computer system as we are to your privacy. We use various types of standard Internet security technologies and procedures to help protect your personal information from unauthorized access, use, and disclosure. 
+HotelsCombined.com.au is as committed to the security of your computer system as we are to your privacy. We use various types of standard Internet security technologies and procedures to help protect your personal information from unauthorized access, use, and disclosure. 
 
 ## Changes in Privacy Policy
 
-HotelsCombined.com might choose to update our privacy policy occasionally. If we do, we will post a notice on the website so you can review any changes and how they might affect you. Also, please review this page from time to time to make sure you haven’t missed any such notices. By continuing to use HotelsCombined.com, you are agreeing to this privacy policy and any updates we make to it. 
+HotelsCombined.com.au might choose to update our privacy policy occasionally. If we do, we will post a notice on the website so you can review any changes and how they might affect you. Also, please review this page from time to time to make sure you haven’t missed any such notices. By continuing to use HotelsCombined.com.au, you are agreeing to this privacy policy and any updates we make to it. 
 
 ## Effective Date
 
