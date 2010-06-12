@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the smartycard.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227183103id_/http%3A//www.smartycard.com/tp/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the smartycard.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612044617id_/http%3A//www.smartycard.com/tp/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | SmartyCard
 
