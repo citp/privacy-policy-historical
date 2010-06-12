@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flvdirect.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206034046id_/http%3A//flvdirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flvdirect.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612073101id_/http%3A//www.flvdirect.com/privacy.html) for the most accurate reproduction.*
 
 # FLVDirect
 
