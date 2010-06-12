@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2009-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090826150607id_/http%3A//www.necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the necu.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612232630id_/http%3A//necu.org/why-necu/privacy-and-security.aspx) for the most accurate reproduction.*
 
 # Northeast Credit Union : Privacy & Security
 
