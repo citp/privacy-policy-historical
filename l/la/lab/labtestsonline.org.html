@@ -1,11 +1,15 @@
-<!--The following is the downloaded HTML source of the labtestsonline.org privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228010857id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the labtestsonline.org privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612155700id_/http%3A//www.labtestsonline.org/site/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
 
         <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE7">
 
         <link href="../css/my_layout_2_col.css" rel="stylesheet" type="text/css">
+
+        <link href="../scripts/js/jquery/plugins/bookmark/jquery.bookmark.css" rel="stylesheet" type="text/css">
+
+        <link href="../scripts/js/jquery/plugins/bookmark/lto.jquery.bookmark.css" rel="stylesheet" type="text/css">
 
         <!--[if lte IE 7]>
 
@@ -31,6 +35,8 @@
 
         <!-- add your meta tags here -->
 
+        <meta name="keywords" content="privacy">
+
         
 
 
@@ -40,6 +46,8 @@
         <script src="../scripts/js/jquery/jquery-1.3.2.min.js" type="text/javascript" language="javascript"></script>
 
         <script src="../scripts/js/jquery/plugins/shadowbox-2.0/shadowbox-2.0.js" type="text/javascript" language="javascript"></script><link rel="stylesheet" type="text/css" href="/scripts/js/jquery/plugins/shadowbox-2.0/skin/note/skin.css"><script type="text/javascript" src="/scripts/js/jquery/plugins/shadowbox-2.0/skin/note/skin.js"></script>
+
+        <script src="../scripts/js/jquery/plugins/bookmark/lto.jquery.bookmark.js" type="text/javascript" language="javascript"></script>
 
         <script type="text/javascript">
 
@@ -99,101 +107,19 @@
 
                     <div class="noindex">
 
-<script language="javascript" type="text/javascript">
+                        <ul id="flags">
 
-    /*
+                           <script src="http://www.labtestsonline.org/scripts/php/intl_nav.php?c=US&amp;rt=js"></script>
 
-     * get the HTML for the international flags
+                        </ul>
 
-     *
-
-     * Note: place this js inline so Publish can parse the host country param, 'c'
-
-     *
-
-     */
-
-    jQuery(document).ready(function($){
-
-        /*
-
-         *
-
-         * If want to pull in the international site navigation HTML via AJAX, use either
-
-         * methods 1 or 2 below; note that for security reasons, AJAX can only call a script
-
-         * from the SAME server
-
-         *
-
-         * Also, if want to use the AJAX call, remove the script content inside the ul below
-
-         *
-
-         */
+                        <div class="clear"></div>
 
 
 
-        /*
-
-         * Method 1: simply dump the HTML from the PHP script into the UL
-
-         */
-
-        /* $("ul#flags").load("http://www.labtestsonline.org/scripts/php/intl_nav.php?c=US"); */
 
 
 
-        /*
-
-         * Method 2: retrieve the HTML from the PHP script into a variable,
-
-         *           then use an effect to display it
-
-         */
-
-        /*
-
-         * $.get("/scripts/php/intl_nav.php", { c: "US" },
-
-         *  function(data){
-
-         *    $("ul#flags").html(data).hide().fadeIn(3000);
-
-         * });
-
-         *
-
-         */
-
-
-
-         /*
-
-          * use an effect to display the flags
-
-          *
-
-          */
-
-         /* $("ul#flags").hide().fadeIn(3000); */
-
-
-
-    });
-
-</script>
-
-
-
-                    <ul id="flags">
-
-                        <script src="http://www.labtestsonline.org/scripts/php/intl_nav.php?c=US&amp;rt=js"></script>
-
-                    </ul>
-
-                    <div class="clear"></div>
 
 </div>
 
@@ -259,7 +185,15 @@ Display site news items on Home page (pulled from >members>news folder)
 
 -->
 
+<!--
 
+
+
+Use disclaimer on forms
+
+
+
+-->
 
 
 
@@ -301,6 +235,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/adh/glance.html" title="ADH">ADH</option>
+
+        
+
                 <option value="/understanding/analytes/afb_culture/glance.html" title="AFB Smear and Culture">AFB Smear and Culture</option>
 
         
@@ -321,7 +259,7 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
-                <option value="/understanding/analytes/allergy/glance.html" title="Allergy Testing">Allergy Testing</option>
+                <option value="/understanding/analytes/allergy/glance.html" title="Allergy Blood Testing">Allergy Blood Testing</option>
 
         
 
@@ -645,6 +583,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/cryoglobulin/glance.html" title="Cryoglobulin">Cryoglobulin</option>
+
+        
+
                 <option value="/understanding/analytes/csf/glance.html" title="CSF Analysis">CSF Analysis</option>
 
         
@@ -713,7 +655,11 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
-                <option value="/understanding/analytes/emergency/glance.html" title="ER/Overdose Drug Testing">ER/Overdose Drug Testing</option>
+                <option value="/understanding/analytes/emergency/glance.html" title="Emergency/Overdose Drug Testing">Emergency/Overdose Drug Testing</option>
+
+        
+
+                <option value="/understanding/analytes/ena_panel/glance.html" title="ENA Panel">ENA Panel</option>
 
         
 
@@ -725,7 +671,11 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
-                <option value="/understanding/analytes/estrogen/glance.html" title="Estrogen">Estrogen</option>
+                <option value="/understanding/analytes/estradiol/glance.html" title="Estradiol">Estradiol</option>
+
+        
+
+                <option value="/understanding/analytes/estrogen/glance.html" title="Estrogens">Estrogens</option>
 
         
 
@@ -881,6 +831,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/hla_testing/glance.html" title="HLA Testing">HLA Testing</option>
+
+        
+
                 <option value="/understanding/analytes/home_tests/glance.html" title="Home Tests">Home Tests</option>
 
         
@@ -1029,6 +983,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/methotrexate/glance.html" title="Methotrexate">Methotrexate</option>
+
+        
+
                 <option value="/understanding/analytes/microalbumin/glance.html" title="Microalbumin">Microalbumin</option>
 
         
@@ -1081,6 +1039,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/papp_a/glance.html" title="PAPP-A">PAPP-A</option>
+
+        
+
                 <option value="/understanding/analytes/parvo/glance.html" title="Parvovirus B19">Parvovirus B19</option>
 
         
@@ -1106,6 +1068,10 @@ Display site news items on Home page (pulled from >members>news folder)
         
 
                 <option value="/understanding/analytes/phosphorus/glance.html" title="Phosphorus">Phosphorus</option>
+
+        
+
+                <option value="/understanding/analytes/pku/glance.html" title="PKU">PKU</option>
 
         
 
@@ -1266,6 +1232,10 @@ Display site news items on Home page (pulled from >members>news folder)
         
 
                 <option value="/understanding/analytes/sodium/glance.html" title="Sodium">Sodium</option>
+
+        
+
+                <option value="/understanding/analytes/sputum_culture/glance.html" title="Sputum Culture">Sputum Culture</option>
 
         
 
@@ -1457,6 +1427,10 @@ Display site news items on Home page (pulled from >members>news folder)
 
         
 
+                <option value="/understanding/analytes/vwf/glance.html" title="von Willebrand Factor">von Willebrand Factor</option>
+
+        
+
                 <option value="/understanding/analytes/wbc/glance.html" title="WBC">WBC</option>
 
         
@@ -1509,7 +1483,15 @@ Display site news items on Home page (pulled from >members>news folder)
 
 -->
 
+<!--
 
+
+
+Use disclaimer on forms
+
+
+
+-->
 
 
 
@@ -1740,6 +1722,10 @@ Display site news items on Home page (pulled from >members>news folder)
         
 
         <option value="/understanding/conditions/inflammatory_bowel.html" title="Inflammatory Bowel Disease">Inflammatory Bowel Disease</option>
+
+        
+
+        <option value="/understanding/conditions/influenza.html" title="Influenza">Influenza</option>
 
         
 
@@ -1995,7 +1981,15 @@ Display site news items on Home page (pulled from >members>news folder)
 
 -->
 
+<!--
 
+
+
+Use disclaimer on forms
+
+
+
+-->
 
 
 
@@ -2087,21 +2081,15 @@ Display site news items on Home page (pulled from >members>news folder)
 
                             <div id="util">
 
-                                    
 
-                                
 
-                                    
+                                    <div class="util_content hasBookmark" id="share_this_page"><a href="#" class="bookmark_popup_text"><img id="sharepage" src="/images/redesign/common/util_share_gray.jpg " alt="Bookmark this..."></a><div class="bookmark_popup"><ul class="bookmark_list"><li><a href="mailto:?subject=Lab%20Tests%20Online%3A%20Privacy&amp;body=%0AI%20thought%20you%20might%20find%20this%20page%20from%20Lab%20Tests%20Online%20to%20be%20of%20interest%3A%0Ahttps%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html" target="_blank"><span title="Send to E-mail" class="bookmark_icons" style="background-position: -16px -0px;"></span>&nbsp;E-mail</a></li><li><a href="http://digg.com/submit?phase=2&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;title=Privacy" target="_blank"><span title="Send to Digg" class="bookmark_icons" style="background-position: -128px -0px;"></span>&nbsp;Digg</a></li><li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;t=Privacy" target="_blank"><span title="Send to Facebook" class="bookmark_icons" style="background-position: -176px -0px;"></span>&nbsp;Facebook</a></li><li><a href="http://del.icio.us/post?url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;title=Privacy" target="_blank"><span title="Send to del.icio.us" class="bookmark_icons" style="background-position: -112px -0px;"></span>&nbsp;del.icio.us</a></li><li><a href="http://twitter.com/home?status=Privacy%20https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html" target="_blank"><span title="Send to twitter" class="bookmark_icons" style="background-position: -128px -192px;"></span>&nbsp;twitter</a></li><li><a href="http://buzz.yahoo.com/submit?submitUrl=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;submitHeadline=Privacy" target="_blank"><span title="Send to Yahoo Buzz" class="bookmark_icons" style="background-position: -48px -64px;"></span>&nbsp;Yahoo Buzz</a></li><li><a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;title=Privacy&amp;ro=false&amp;summary=&amp;source=" target="_blank"><span title="Send to LinkedIn" class="bookmark_icons" style="background-position: -32px -64px;"></span>&nbsp;LinkedIn</a></li><li><a href="http://www.myspace.com/Modules/PostTo/Pages/?u=https%3A%2F%2Fweb.archive.org%2Fweb%2F20100612155700id_%2Fhttp%253A%2F%2Fwww.labtestsonline.org%2Fsite%2Fprivacy.html&amp;t=Privacy" target="_blank"><span title="Send to MySpace" class="bookmark_icons" style="background-position: -144px -16px;"></span>&nbsp;MySpace</a></li></ul></div></div>
 
 
 
-                                 <a href="mailto:?subject=Privacy&amp;body=http://www.labtestsonline.org/site/privacy.html" title="Email this page"><img id="email" src="http://www.labtestsonline.org/images/redesign/common/util_email.jpg" alt="Email this page"></a>
+                                    <div class="util_content"><a href="#" onclick="pThis();" title="Print this page"><img id="print" src="../images/redesign/common/util_print_page.jpg" alt="Print this page"></a></div>
 
-
-
-                                    <a href="#" onclick="pThis();" title="Print this page"><img id="print" src="../images/redesign/common/util_print_page.jpg" alt="Print this page"></a>
-
-                                    <a href="../helpful" title="Was this page helpful?"><img id="helpful" src="../images/redesign/common/util_helpful.jpg" alt="Was this page helpful?"></a>
+                                    <div class="util_content"><a href="../helpful" title="Was this page helpful?"><img id="helpful" src="../images/redesign/common/util_helpful.jpg" alt="Was this page helpful?"></a></div>
 
                             </div>
 
@@ -2113,7 +2101,7 @@ Display site news items on Home page (pulled from >members>news folder)
                                 <hr class="analyte_rule">
                                 <div>
                                     <div class="paragraph">
-                                            <p id="policies_nav"><strong><a title="Code of Conduct" href="pb_honcode.html">Code of Conduct</a> |  <a title="Terms of Use" href="terms.html">Terms of Use</a> | <a class="selected" title="Privacy" href="privacy.html">Privacy</a></strong></p>
+                                            <p id="policies_nav"><strong><a title="Code of Conduct" href="pb_honcode.html">Code of Conduct</a> |  <a title="Terms of Use" href="terms.html">Terms of Use</a> |  <a title="Linking &amp; Licensing" href="content_use.html">Linking &amp; Licensing</a> |  <a class="selected" title="Privacy" href="privacy.html">Privacy</a></strong></p>
 
 <p>AACC and its collaborating partners are committed to honoring the privacy of our visitors. We have designed the site to minimize the gathering of personal data; we will not do so without first alerting you to the fact. Further, we do not</p>
 
@@ -2238,7 +2226,7 @@ Display site news items on Home page (pulled from >members>news folder)
                         
     
 
-        This article was <span class="date_note" id="last_reviewed" rel="#desc_reviewed">last reviewed</span> on January 16, 2009.&nbsp;&nbsp;|&nbsp;&nbsp;This article was <span class="date_note" id="last_modified" rel="#desc_modified">last modified</span> on December 27, 2009.
+        This article was <span class="date_note" id="last_reviewed" rel="#desc_reviewed">last reviewed</span> on January 16, 2009.&nbsp;&nbsp;|&nbsp;&nbsp;This article was <span class="date_note" id="last_modified" rel="#desc_modified">last modified</span> on June 3, 2010.
 
     <div class="date_desc" id="desc_reviewed" style="display: none;">The review date indicates when the article was last reviewed from beginning to end to ensure that it reflects the most current science. A review may not require any modifications to the article, so the two dates may not always agree.</div>
 
@@ -2339,6 +2327,10 @@ Display site news items on Home page (pulled from >members>news folder)
 </script>
 
     
+
+
+
+
 
 
 
