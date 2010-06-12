@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130015359id_/http%3A//www.wegotserved.co.uk/2008/11/09/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wegotserved.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612111856id_/http%3A//www.wegotserved.com/2008/11/09/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - We Got Served - The Windows Home Server Site | We Got Served
+# Privacy Policy | We Got Served
 
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
 
@@ -23,16 +23,18 @@ A cookie consists of information sent by a web server to a web browser, and stor
 
 We may use both “session” cookies and “persistent” cookies on the website.  We will use the session cookies to: keep track of you whilst you navigate the website; We will use the persistent cookies to: enable our website to recognise you when you visit;
 
-Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date. 
+Session cookies will be deleted from your computer when you close your browser.  Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
 
 We use Google Analytics to analyse the use of this website.  Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers.  The information generated relating to our website is used to create reports about the use of the website. Google will store this information.  Google’s privacy policy is available at: <http://www.google.com/privacypolicy.html>.  
 
 
 Our advertisers may also send you cookies.
 
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and would like to know your options in relation to·not having this information used by these companies, [click here](http://www.google.co.uk/privacy_ads.html).
+
 Most browsers allow you to refuse to accept cookies.  (For example, in Internet Explorer you can refuse all cookies by clicking “Tools”, “Internet Options”, “Privacy”, and selecting “Block all cookies” using the sliding selector.)  This will, however, have a negative impact upon the usability of many websites.
 
-  **(4) Disclosures**
+**(4) Disclosures**
 
 We may disclose information about you to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
 
@@ -42,9 +44,9 @@ In addition, we may disclose information about you:
 
 (b) in connection with any legal proceedings or prospective legal proceedings;
 
-(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and 
+(c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk); and
 
-(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling. 
+(d) to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
 
 Except as provided in this privacy policy, we will not provide your information to third parties.
 
@@ -60,17 +62,17 @@ You expressly agree to such transfers of personal information.
 
 **(6)  Security of your personal data**
 
-We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information. 
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
-We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted. 
+We will store all the personal information you provide on our secure (password- and firewall- protected) servers. All electronic transactions you make to or receive from us will be encrypted.
 
-Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. 
+Of course, data transmission over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
 You are responsible for keeping your password and user details confidential. We will not ask you for your password.
 
 **(7)  Policy amendments**
 
-We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.  
+We may update this privacy policy from time-to-time by posting a new version on our website.  You should check this page occasionally to ensure you are happy with any changes.
 
 We may also notify you of changes to our privacy policy by email.
 
@@ -82,13 +84,13 @@ You may instruct us not to process your personal data for marketing purposes by 
 
 **(9)  Third party websites**
 
-  The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites. 
+The website contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
 
 **(10)  Updating information**
 
 Please let us know if the personal information which we hold about you needs to be corrected or updated.
 
-**(11)   Contact** 
+**(11)   Contact**
 
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email at terry [at] wegotserved.co.uk or by mail at
 
