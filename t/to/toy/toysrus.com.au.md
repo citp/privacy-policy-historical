@@ -1,8 +1,9 @@
-> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2009-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090930040616id_/http%3A//www.toysrus.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toysrus.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612171014id_/http%3A//www.toysrus.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Welcome to the Toys"R"Us web site
+# Privacy Policy | Toys ‘R’ Us
 
-**Toys R Us Privacy Policy**
+**Toys"R"Us Privacy Policy  
+**
 
 Toys"R"Us (Australia) Pty Ltd is committed to responsibly managing personal information, using the National Privacy Principles of the Privacy Amendment (Privacy Sector) Act 2000, collected from customers during the course of their dealings with us as a retailer of family related products and services.
 
@@ -33,8 +34,7 @@ Telephone: (02) 9794 8999
 E-Mail: [privoffaus@toysrus.com.au](mailto:privoffaus@toysrus.com.au)
 
 Personal information may be disclosed to contractors, service providers and partners of Toys"R"Us who will help us provide our marketing material to you. Your personal information will not be disclosed to any  
-other third party, unless such disclosure is permitted by the law or the Act. Toys"R"Us adopts policies and practices to prevent unauthorised access to our premises, system or physical storage locations. We have procedures in place which enable only authorised persons access to personal information as required. The storage and security of personal information will be reviewed at regular intervals. When a review identifies personal information that is no longer required, it will be destroyed or re-identified as soon as practical by an authorised person.  
-
+other third party, unless such disclosure is permitted by the law or the Act. Toys"R"Us adopts policies and practices to prevent unauthorised access to our premises, system or physical storage locations. We have procedures in place which enable only authorised persons access to personal information as required. The storage and security of personal information will be reviewed at regular intervals. When a review identifies personal information that is no longer required, it will be destroyed or re-identified as soon as practical by an authorised person.
 
 **Website / Email**  
 When you look at the Toys"R"Us Australia website (www.toysrus.com.au) we will automatically receive and record information on our server logs from your browser, including your ip address and cookie information.
