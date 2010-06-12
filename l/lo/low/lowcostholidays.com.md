@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215101828id_/http%3A//www.lowcostholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lowcostholidays.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612051033id_/http%3A//www.lowcostholidays.com/privacypolicy.aspx) for the most accurate reproduction.*
 
-# Low Cost Holidays | Cheap holiday packages & all inclusive hotel deals
+# Low Cost Holidays | Search for cheap holidays, all inclusive holiday deals and city breaks
 
 ### Privacy policy
 
-lowcostbedsagents.com is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
+lowcostholidays.com is committed to protecting your privacy and maintaining the security of any personal information received from you. We strictly adhere to the requirements of the data protection legislation in the UK. When making a booking we will need to collect information from you which is necessary to process your booking. This includes, but is not limited to, your name, postal address and email address. Unless we have your consent, we will only disclose personal data to third parties if this is required for the purpose of fulfilling your booking.
 
 This is subject to the proviso that we may disclose your data to certain permitted third parties, such as our own professional advisors, who are bound by confidentiality codes, and when we are legally obliged to do so. We do not sell, rent or exchange your personal information with any third party for commercial reasons.
 
