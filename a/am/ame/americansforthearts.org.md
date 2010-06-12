@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2009-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090311040704id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americansforthearts.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612192512id_/http%3A//www.americansforthearts.org/privacy.asp) for the most accurate reproduction.*
 
 # Privacy Statement
 
-Updated: May 2008 
+Updated: August 2009 
 
 ##### Overall
 
@@ -42,4 +42,4 @@ If you need to update your e-mail information or any other personal information,
 
 ##### Contact Information
 
-For more information, requests, questions, or comments, please [e-mail us](https://web.archive.org/staff_email.asp?u=webmaster&d=artsusa.org&n=General+Information+Staff&t=Web+and+Technology+Services) or call us at 212.223.2787. 
+For more information, requests, questions, or comments, please [e-mail us](https://web.archive.org/staff_email.asp?u=webmaster&d=artsusa.org&n=General+Information+Staff&t=Web+and+Technology+Services) or call us at 202.371.2830 or toll free at 1.866.471.ARTS. 
