@@ -1,33 +1,55 @@
-> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2009-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090616125351id_/http%3A//www.capitoladvantage.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capwiz.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612030014id_/http%3A//corporate.cqrollcall.com/wmspage.cfm%3Fparm1%3D184) for the most accurate reproduction.*
 
-# Privacy Policy | Capitol Advantage
+# CQ-Roll Call | About Us - Privacy Policy
 
-Our family of companies is committed to protecting and respecting your privacy, subject to the privacy limitations inherent with e-mail communications and non-secure Web sites. This document outlines our privacy policy and explains what we do with the personal information that we collect from users of this site. Please read this statement to understand our views and practices regarding personal information and how they pertain to you as a user of our company’s Web site.
+## Privacy Policy
 
-We may make changes to this privacy policy periodically, so it is your obligation to check our Web site for any updates. Please also note that your continued use of the Web site will be deemed as your acceptance of any revisions to our privacy policy. If you have questions or concerns regarding this statement, you may contact our corporate office via e-mail at [privacy@capitoladvantage.com](mailto:privacy@capitoladvantage.com).
+#### Welcome to CQ-Roll Call Group's Web site
 
-Please read the following section to find answers to commonly asked questions on privacy issues that you may have as a user of our Web site:
+At CQ-Roll Call Group, we have measures in place to protect your privacy. We want to make sure you are comfortable exploring our sites and using our information. The following explains what information we collect about you, how we use it and what choices you have regarding this information. This policy applies to all information collected from or submitted this site. Other CQ-Roll Call Group sites may be covered by their own site-specific privacy policies.
 
-**What information can Capitol Advantage/The Roll Call Group  gather about you and how do we use it?**
+#### What we know about you 
 
-If you register with any of the Capitol Advantage/The Roll Call Group companies to inquire about or use any of the products or services available through their Web sites, you will be asked to submit certain information such as names and e-mail addresses. This information will be used to permit you to receive any information you may have requested from one or more of our companies and any additional communications that may be deemed appropriate in relation to your request. We will communicate via fax, e-mail, or postal mail.
+As with all Web sites, this site automatically recognizes your domain name, IP address, browser version, operating system and the referring site you passed through to reach our site. Any additional information you provide us, such as your name, organization, address, telephone number, e-mail address, interests and products you subscribe to is only collected upon your request. You must, for example, provide such information whenever you subscribe to a product, complete a request for a free trial or, in the case of a subscription site, when you submit a technical support request. 
 
-We also collect IP addresses to help us understand how our visitors access our sites; however, we only use this information to make our site easier to find and improve our users' online experiences.
+#### How we use "cookies" and why 
 
-**Will Capitol Advantage disclose any of your personal information?**
+Our site uses "cookies" to improve your navigation through the site and to help us make the site more useful to you. A "cookie" is a small text file on your computer's hard drive that our Web site uses to collect information about how you use our site. The cookie transmits this information back to our Web site each time you visit a page on our site, thus allowing us to identify our most popular pages, features and data. We can then use this information to improve our site and our products to more effectively meet your needs. In the case of our subscription sites, cookies are also used to restrict access to bona fide subscribers and to enable you to set up customized reports, lists and alerts that no other subscribers are permitted to see. 
 
-Capitol Advantage/The Roll Call Group  companies will not disclose any information about individual users. The only exceptions are as described in the privacy policy statement, in compliance with applicable laws or valid legal process, or to protect the rights or property of Capitol Advantage/The Roll Call Group.
+#### How we use what we learn 
 
-We do not give, rent, lend, or sell individual information to any third parties other than as described above.
+Information we collect is used to improve the content of our sites, to develop products and to provide you with information or support you've requested. Also, we compile and use this information so that we may keep you apprised of special offers (by CQ-Roll Call Group) that may be of interest to you. 
 
-**Will Capitol Advantage/The Roll Call Group  use your information for direct mail purposes? **
+#### What we tell others about you 
 
-Occasionally, Capitol Advantage/The Roll Call Group may send you messages regarding our products and services that you might be interested in. If you do not want to receive such messages, simply send an e-mail to [privacy@capitoladvantage.com](mailto:privacy@capitoladvantage.com?subject=do%20not%20send%20solicitations) with "do not send solicitations" in the subject line.
+We do not furnish to third parties the information that we gather or that you provide to us unless we are legally required to do so. In fact, we work hard to ensure that the information you give us remains confidential and known only by us. 
 
-**If you send us a message about the site, is it private?**
+#### Links to other sites 
 
-Our corporate Web site has a section that permits you to submit feedback about any subject, including Web content. Any submitted feedback becomes the property of Capitol Advantage/The Roll Call Group. We may use your feedback to contact you directly, or for Web site improvements or marketing purposes.
+This site contains links to other sites, including those produced by other organizations. CQ-Roll Call Group is not responsible for the privacy practices or the contents of any non-CQ-Roll Call Group site. 
 
-**What else should you know about your privacy?**
+#### Advertising 
 
-While we do our best to protect your personal information, Capitol Advantage/The Roll Call Group cannot ensure or warrant the security of any information that you transmit to us – be cautioned that you do so at your own risk. Please be careful and responsible whenever you are online.
+We accept advertising on our sites because the related revenue helps us bring you first-class journalism throughout each day. We use the services of Doubleclick for advertiser reporting. 
+
+#### Choices you have 
+
+If you wish to discontinue receiving communications from us at any time, please let us know by e-mailing, calling or writing us (see addresses below). 
+
+#### Any questions? 
+
+For more information about Internet privacy, you may find one of the following links helpful: 
+
+  * Center for Democracy and Technology ([www.cdt.org](http://www.cdt.org/)) 
+  * Electronic Frontiers Foundation (EFF) ([www.eff.org](http://www.eff.org/)) 
+  * Electronic Privacy Information Center (EPIC) ([www.epic.org](http://www.epic.org/)) 
+  * Federal Trade Commission (FTC) ([www.ftc.gov](http://www.ftc.gov/)) 
+  * Online Privacy Alliance ([www.privacyalliance.org](http://www.privacyalliance.org/)) 
+  * Privacy Rights Clearinghouse ([www.privacyrights.org](http://www.privacyrights.org/)).
+
+
+
+_Enjoy your visit!_
+
+  
+
