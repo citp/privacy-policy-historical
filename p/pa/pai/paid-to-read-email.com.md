@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paid-to-read-email.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212103249id_/http%3A//www.paid-to-read-email.com/privpolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paid-to-read-email.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612225715id_/http%3A//www.paid-to-read-email.com/privpolicy.php) for the most accurate reproduction.*
 
 # Paid To Read Email - Privacy Policy
 
