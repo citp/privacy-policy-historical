@@ -1,0 +1,184 @@
+<!--The following is the downloaded HTML source of the vividvideo.com privacy policy that was archived on 2010-06-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100612232501id_/http%3A//www.vividvideo.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+		<title>Vivid Video</title>
+		<link href="/css/css.css" rel="stylesheet" type="text/css">
+		<link type="text/css" href="/css/ui-lightness/jquery-ui-1.7.2.custom.css" rel="stylesheet">
+		<link type="text/css" href="/css/jquery.autocomplete.css" rel="stylesheet">	
+		<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+		<script type="text/javascript" src="/js/jquery-ui-1.7.2.custom.min.js"></script>
+		<script type="text/javascript" src="/js/jquery.autocomplete.pack.js"></script>
+		<script type="text/javascript" src="/js/swfobject.js"></script>
+		<script>
+			$(document).ready(function() {
+				$("[onLeftEmpty]").focus(function(){
+					if($(this).val()==$(this).attr("onLeftEmpty")) $(this).val("");
+				}).blur(function(){
+					if($(this).val()=="") $(this).val($(this).attr("onLeftEmpty"));
+				}).blur();
+				
+				if($("#postSearch").length>0)	$("#postSearch").autocomplete("/v/performerlist.php",{selectFirst:false,cacheLength:0,autoFill:false,scrollHeight:'100%'}).result(findValueCallback);
+
+				$('#tabs,#rightTabs').tabs();
+			});
+			var plays = 0;
+			$.get(
+				"/iplog.php?get=1",
+				function(msg){
+					plays = parseInt( msg );
+				}
+			);
+
+			function findValueCallback(event, data, formatted) {
+				if(document.form1.search.value!=document.form1.search.getAttribute("onLeftEmpty")){
+					if(data) window.location=data[1];
+					else window.location.href='/search/'+document.form1.search.value;
+				}
+				return false;
+			}
+
+			function createXMLHttpRequest() {
+				try { return new ActiveXObject("Msxml2.XMLHTTP"); } catch (e) {}
+				try { return new ActiveXObject("Microsoft.XMLHTTP"); } catch (e) {}
+				try { return new XMLHttpRequest(); } catch (e) {}
+				alert("XMLHttpRequest Not Supported");
+				return null;
+			}
+
+			function stateChanged() {
+			}
+			function switcher(flv,divID) {
+				if(divID=="") divID="featuredFLV";
+				xmlHttp = createXMLHttpRequest();
+				if( xmlHttp == null ) {
+					alert ("Browser does not support HTTP Request");
+					return;
+				}
+				var url = "/iplog.php";
+				xmlHttp.onreadystatechange=stateChanged;
+				xmlHttp.open("GET",url,true);
+				xmlHttp.send(null);
+				plays++;
+
+				var attributes = {};
+				var params = {};
+				params.wmode = 'transparent';
+				params.quality = 'best';
+				var flashvars = {};
+				flashvars.clipURL = flv;
+				flashvars.joinImg = '/images/joinImage.jpg';
+				flashvars.signupURL = 'https://secure.vivid.com/signup/signup.php?step=2&nats=MjAwNTU0LjEuMS4xLjEuMC4wLjA';
+				if( plays <= 5 ) {
+					swfobject.embedSWF("/swf/player.swf", divID, "640", "380", "9.0.0", "/swf/expressInstall.swf", flashvars, params, attributes);
+				} else {
+					$('#'+divID).html("<a href='https://secure.vivid.com/signup/signup.php?step=2&nats=MjAwNTU0LjEuMS4xLjEuMC4wLjA'><img src='/images/joinImage.jpg'></a>");
+				}
+			}
+		</script>	<link href="/css/styles.css" rel="stylesheet" type="text/css">
+	</head>
+	<body>
+	<div id="bgLink"><a target="_blank" href="http://secure.kendraexposed.com/track/MjAwNTU0LjEuMzEuODIuMC4wLjAuMC4w">&nbsp;</a></div>	<div class="maincontainer">
+		<!---->
+			<!-- top banner ad start -->
+		<div class="topbannerbox">
+			<iframe src="http://as.ad-411.com/i/20" frameborder="0" width="1044" height="125" scrolling="NO"></iframe>
+		</div>
+	<!-- top banner ad end -->		<div class="searchbox" id="search_mod">
+	<form name="form1" onsubmit="$('#postSearch').search();return false;" method="post" action="/search">
+		<input name="search" type="text" class="searchfield ac_input" id="postSearch" onleftempty="Search Vivid Video" value="" autocomplete="off">
+		<input type="submit" value="" class="searchbutt" alt="go">
+	</form>
+</div><br clear="all">		
+        <div class="logo-star">
+        	<a href="/" title="Vivid Video home"><img src="/images/logo_vv_star.png" alt="HOME"></a>
+        </div>
+
+		<div class="logorow-text">
+			<div class="logo-text">
+            	<a href="/" title="Vivid Video home"><img src="/images/logo_vv_text.png" alt="HOME"></a>
+            </div>
+			<div class="niche-icon">
+				<a href="/porn-niches/all" title="View Niches"><img src="/images/btn_niches.gif"></a>
+			</div>
+			<div class="home-icon">
+				<a href="/" title="Vivid Video home"><img src="/images/btn_home.gif"></a>
+			</div>
+		</div>
+		<div class="maincontainer2">
+
+			<!---- ---->
+			<div class="sideshadows">
+							<div class="mainleftcolumn-text"> 
+									
+								<div class="mainbodyleft-box4">
+									<center>
+<b>Privacy Statement for Vivid Entertainment, Inc.</b>
+</center>
+<br><br>
+
+Vivid Entertainment, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
+<br><br>
+We use your IP address to help diagnose problems with our server, and to administer our website. Your IP address is used to help identify you and to gather broad demographic information.
+<br><br>
+Our site's subscription form requires users to give us contact information (to include names and E-mail addresses), financial information (to include account or credit card numbers). We use customer contact information from the subscription form to send the user information about our company and promotional material from some of our partners. The customer's contact information is also used to contact the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+<br><br>
+This site contains links to other sites. Vivid Entertainment, Inc. is not responsible for the privacy practices or the content of other such websites. Selection of an ad banner or link redirects User to a third party. Transactions that occur between the User and the third party are strictly between the User and the third party and are not the responsibility of Vivid Entertainment, Inc. Because Vivid Entertainment, Inc. is not responsible for the availability of these outside resources or their privacy policy or content, User should direct any concerns regarding any external link to its site administrator or Webmaster.
+<br><br>
+Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (to include E-mail addresses), and financial information (to include account or credit card numbers). Contact information from the order form is used to send orders, information about our company, and promotional material from some of our partners to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below.
+<br><br>
+Financial information that is collected is used to check the users' qualifications and to bill the user for products and services ordered.
+<br><br>
+This site makes chat rooms, forums, message boards, and/or news groups. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+<br><br>
+To Opt Out of receiving future mailings and/or promotions:
+<br><br>
+You can send email to support@vividcash.com
+You can send mail to the following postal address:
+Consumer Protection Dept.
+5701 Lindero Canyon Road #2-200
+Westlake Village, CA 91362
+<br><br>
+
+<center>
+To Deactivate your membership:
+<br><br>
+Call the following telephone number: 1-888-205-0489 <br>
+Visit <a href="/support/">Vivid Support</a> <br>
+Send an e-mail to: vivid@cs.billingservices.com</center>
+								</div>		
+							</div>		
+
+			<br clear="all">
+
+			</div>
+<!---- ---->
+		</div>
+
+	</div>
+	<div class="footer">
+		<h3><a href="http://secure.kendraexposed.com/track/MjAwNTU0LjEuMzEuODIuMC4wLjAuMC4w" target="_blank">Kendra Exposed</a></h3>
+		We support the use of filtering software which prevents minors from accessing inappropriate material, for more information:<br>
+		<a rel="nofollow" href="http://webtrack.net" target="_blank">WebTrack</a>&nbsp;-&nbsp;
+		<a rel="nofollow" href="http://cyberpatrol.com" target="_blank">CyberPatrol</a>&nbsp;-&nbsp;
+		<a rel="nofollow" href="http://surfwatch.com" target="_blank">Surf Watch</a>&nbsp;-&nbsp;
+		<a rel="nofollow" href="http://solidoak.com/cysitter" target="_blank">CyberSitter</a>&nbsp;-&nbsp;
+		<a rel="nofollow" href="http://safesurf.com" target="_blank">Safe Surf</a>&nbsp;-&nbsp;
+		<a rel="nofollow" href="http://eff.org" target="_blank">EFF</a><br>
+		Copyright © <script type="text/javascript">document.write( new Date().getFullYear() );</script>2020 Vivid Entertainment. All Rights Reserved. Use of this Web site constitutes acceptance of Vivid's <a href="/terms/">Terms &amp; Condition</a> and <a href="/privacy/">Privacy Policy</a>.<br>
+		The terms "Vivid Girl" and "Vivid Girls" are registered trademarks of Vivid Entertainment, LLC.<br>
+		<a rel="nofollow" href="http://icra.org" target="_blank"><img src="/images/icra_logo.gif" border="0" height="12"></a>
+		<a href="/record-keep/">18 U.S.C. 2257 Record Keeping Requirements Compliance Statement</a>
+	</div>
+
+<script type="text/javascript">
+	document.write(unescape("%3Cscript src='" + (("https:" == document.location.protocol) ? "https://ssl." : "http://www.") + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	$(document).ready(function() {
+		var pageTracker = _gat._getTracker("UA-9863978-1");
+		pageTracker._trackPageview();
+	});
+</script>
+</body></html>
