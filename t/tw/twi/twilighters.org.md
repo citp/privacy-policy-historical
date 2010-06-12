@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227013632id_/http%3A//twilighters.org/twilighters-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twilighters.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612194434id_/http%3A//twilighters.org/site/twilighters-privacy-policy) for the most accurate reproduction.*
 
-# Twilighters.org Privacy Policy | Twilighters.org - Twilight Fansite For Obsessed Twilight Saga Fan
+# Twilighters.org Privacy Policy | Twilighters.org | Twilight Fansite For The Obsessed Twilight Saga Fan, Eclipse movie, New Moon Movie, Twilight Eclipse, Trailers, Posters, Cast, News, and MORE!
 
   
 **Privacy Policy for Twilighters.org**
@@ -15,7 +15,7 @@ Like many other Web sites, Twilighters.org makes use of log files. The informati
 **Cookies and Web Beacons**  
 Twilighters.org does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, and Commission Junction. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense, Womens Forum, and Commission Junction. 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on Twilighters.org send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
@@ -24,6 +24,3 @@ Twilighters.org has no access to or control over these cookies that are used by 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Twilighters.org’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-  
-
