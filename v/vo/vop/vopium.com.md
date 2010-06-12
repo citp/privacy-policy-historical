@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231141034id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vopium.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612150728id_/http%3A//vopium.com/privacy-policy) for the most accurate reproduction.*
 
 # Vopium privacy policy
 
@@ -115,7 +115,7 @@ Vopium shall take appropriate organisational and technical measures to protect t
 Vopium shall take appropriate technical measures to protect the confidentiality of the Communications Content via its Vopium Software and Vopium Service, with due observance of the applicable obligations and exceptions under the relevant legislation.
 
 **7\. Can this Privacy Statement be modified?**   
-Vopium reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [www.vopium.com/privacy-policy](https://web.archive.org/web/20091231141034id_/http%3A//vopium.com/privacy-policy). The revised Privacy Statement shall come into effect within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking ACCEPT You agree that the express acceptance by you, or your continued use of the Vopium Software or Vopium Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
+Vopium reserves the right to modify the provisions of this Privacy Statement if deemed necessary. We will inform you of these changes by publishing the revised Privacy Statement at [www.vopium.com/privacy-policy](https://web.archive.org/web/20100612150728id_/http%3A//vopium.com/privacy-policy). The revised Privacy Statement shall come into effect within thirty (30) days of such publishing, unless you expressly accept the revised statement earlier by clicking ACCEPT You agree that the express acceptance by you, or your continued use of the Vopium Software or Vopium Service after the notice period of thirty (30) days, shall constitute your acceptance of the Privacy Statement.
 
 **8\. What rights do you have and how can you contact Vopium?**   
 If you would like to exercise your right to view, correct, complete or remove your Personal Data, please contact Vopium at [delete@vopium.com](mailto:%20delete@vopium.com). This e-mail address is being protected from spam bots, you need JavaScript enabled to view it Vopium will fulfil your request within a reasonable period of time and upon verification of your identity, provided that Vopium will not contravene any applicable legislation by fulfilling your request.
