@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2009-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090318122444id_/http%3A//www.equifax.com/privacy_policy/en_us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the equifax.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612063545id_/http%3A//www.equifax.com/privacy_policy/en_us) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -192,7 +192,7 @@ We safeguard the privacy of information you provide us through online forms. For
 
 Except as stated in the "To Whom We Disclose The Information We Collect" section above, we restrict access to _personally identifiable information_ and _business organization identifiable information_ that is collected about you to only those who have a need to know that information in connection with the purposes for which it is collected and used.
 
-Additionally, we have security protocols and measures in place to protect the _personally identifiable information, business organization identifiable information_ and other information we maintain about you from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain data.
+Additionally, we have security protocols and measures in place to protect the _personally identifiable information, business organization identifiable information_ and other information we maintain about you from unauthorized access or alteration. These measures include internal and external firewalls, physical security and technological security measures, and encryption of certain data.  When _personally_ _identifiable information_ is disposed of, it is disposed of in a secure manner.
 
 You also have a role in protecting the security of information about you. For example, you should guard your password to the Personal Solutions Member Center and not permit unauthorized use of your account for Personal Solutions products. Additionally, you should close your browser when have finished viewing your information on the Equifax web site to protect the privacy of your individual or business organization information.
 
@@ -244,4 +244,4 @@ We want you to be fully informed about how we protect your privacy. We may chang
 
 If you have questions or comments about Equifax's online privacy policy and fair information practices, please e-mail us at [privacy@Equifax.com](mailto:privacy@Equifax.com "privacy@Equifax.com") or write to Chief Privacy Officer, Equifax Inc., 1550 Peachtree Street, NW, Atlanta, GA 30309. If you have specific questions about your individual credit file you may e-mail us at [individual.custserv@Equifax.com](mailto:individual.custserv@Equifax.com "individual.custserv@Equifax.com"). If you have specific questions about your Equifax business organization credit file you may go to the "Product Information Disclaimer" link located at the bottom of your business credit product page for contact information.
 
-Revised September 26, 2008.
+Revised June 26, 2009.
