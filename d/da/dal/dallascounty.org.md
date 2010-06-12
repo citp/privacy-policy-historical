@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2009-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090910053916id_/http%3A//www.dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dallascounty.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612202539id_/http%3A//dallascounty.org/privacypolicy.html) for the most accurate reproduction.*
 
 # Dallas County
 
@@ -60,6 +60,10 @@ In order to provide visitors with certain information, this website provides lin
 **Information Disclaimer**
 
 Information provided on this website is intended to allow the public immediate access to public information. While all attempts are made to provide accurate, current, and reliable information, the County recognizes the possibility of human and/or mechanical error. Therefore, the County, its employees, officers and agencies make no representations as to the accuracy, completeness or suitability of the information provided by this website, and deny any expressed or implied warranty as to the same. 
+
+**Language Translation Disclaimer**
+
+The information on Dallas County's web site is originally published in English. Sections of the web site use free translation software that allows for real-time translation of information into other languages. Translations from English may not always be accurate or precise. Dallas County does not warrant such translations and disclaims any responsibility, including all alleged direct and consequential damages, for inaccurate translations. Readers relying on precise information should check the original English versions.
 
 **Contact Information**
 
