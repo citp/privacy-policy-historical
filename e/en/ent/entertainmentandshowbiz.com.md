@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the entertainmentandshowbiz.com privacy policy that was archived on 2009-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091222223333id_/http%3A//www.entertainmentandshowbiz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainmentandshowbiz.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613013530id_/http%3A//www.entertainmentandshowbiz.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Entertainment and Showbiz!
+# Privacy Policy | Entertainment Biz!
 
 This privacy policy is applicable for **www.entertainmentandshowbiz.com** , which is run by **Saket Publishing**. entertainmentandshowbiz.com collects personal identifying information only when such information is knowingly provided from users during the activities including but not limited to putting some comments on the site or sending a feedback to us or to resister for free newsletter services.
 
