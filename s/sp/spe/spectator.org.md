@@ -1,17 +1,33 @@
-> *The following text is extracted and transformed from the spectator.org privacy policy that was archived on 2008-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080912061255id_/http%3A//www.spectator.org/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectator.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612194953id_/http%3A//spectator.org/privacy-policy) for the most accurate reproduction.*
 
-# The American Spectator
+# The American Spectator : Privacy Policy
 
-**Privacy Policy**
+##  Privacy Policy 
 
-The American Spectator website ([www.spectator.org](http://www.spectator.org/)) is owned and operated by The American Spectator. We recognize that visitors to our site may be concerned about the information they provide to us, and how we treat that information. This Privacy Policy addresses those concerns. By visiting The American Spectator, you are accepting the practices described in this Privacy Policy. 
+The American Spectator is committed to protecting the privacy of our online users. To better protect your privacy, we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. This policy is effective October 24, 2008, and applies to information gathered from http://spectator.org 
 
-**Normal website usage:**
+####  Will you rent, sell, or trade my e-mail address to a third party? 
 
-The American Spectator has a commitment to privacy. You can visit most pages of The American Spectator without telling us who you are and without revealing any personal information. The only information we collect from a normal website visit is the name of your ISP, the browser and type of machine you are using, the website that referred you to us, the pages you request and the date and time you request them. We use this information to generate statistics and measure site activity to improve the usefulness of the site to our visitors.
+Your e-mail address will be used by The American Spectator to e-mail news and offers that we believe will be of interest to you. Though we hope you gain value from the messages you receive, you can choose to opt-out of receiving further messages by following the instructions provided at the close of each e-mail. We also advertise on many other Internet and email outlets. Therefore you may see our advertisements in connection with other websites and email outlets. We will ensure that they offer you the ability to opt-out from their messages. 
 
-**Collection, use, and transfer of personally identifiable information:**
+We may from time to time send you special offers and advertisements for products or services offered by third parties. We will not disclose any of your personal information to such third parties when we do this. 
 
-The American Spectator may collect personally identifiable data about visitors when such data is voluntarily submitted to The American Spectator by either subscribing to The American Spectator magazine or to one of The American Spectator e-Newsletters. The American Spectator makes every effort to ensure the secure collection and transmission of sensitive user information using industry accepted data collection and encryption methodologies. 
+####  Do you share any other personal information with third parties? 
 
-The American Spectator reserves the right to exchanges its e-mail lists with other groups whose products or programs we think you would appreciate. You can ask that your name be omitted from such exchanges by sending an email to [amspec@spectator.org](mailto:amspec@spectator.org) with your request. 
+No, we will never share your personal information with a third party. However, we may share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information. 
+
+####  What are cookies? How do you use cookies? 
+
+Cookies are small pieces of information that your browser stores on your computer’s hard drive. Cookies do not hold any personal information. 
+
+We use cookies to ensure that you learn the status of a comment you are posting (whether it was posted successfully, or whether there was an error in your comment form). We do not use cookies in any other way. 
+
+####  Do you track site usage and traffic patterns? 
+
+Yes. By monitoring traffic patterns we learn which links and pages of the site are the most utilized. The American Spectator will then use this information to further develop the features and functionality of the site. 
+
+####  How will I know if your privacy policy changes? 
+
+If there are changes to our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
+
+Still have questions? Contact [AmSpec@spectator.org](mailto:AmSpec@spectator.org)
