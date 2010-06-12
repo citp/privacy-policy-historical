@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227113419id_/http%3A//www.fonts2u.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fonts2u.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612095324id_/http%3A//www.fonts2u.com/privacy.html) for the most accurate reproduction.*
 
-# Fonts2u.com
+# Fonts2u.com free fonts
 
 Please read the following to learn more about our privacy policy, and how we treat personally identifiable information collected from our visitors and users.
 
