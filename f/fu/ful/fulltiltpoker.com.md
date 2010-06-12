@@ -1,64 +1,125 @@
-> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219072938id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612131815id_/http%3A//www.fulltiltpoker.com/privacy-legal.php) for the most accurate reproduction.*
 
 # Online Poker at Full Tilt Poker - Legal Information: Privacy
 
-**Our Commitment To Privacy**
+## PRIVACY STATEMENT
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our home page and at every point where personally identifiable information may be requested.
+### 15 January 2010
 
-This notice applies to all information collected from or submitted to the following Fulltiltpoker.com ("FTP") web site or through downloading the game software and creating a Full Tilt Poker account. To make this notice easier to read we will use the term "our Web Site" to include Fulltiltpoker.com and our game software. Other FTP affiliate web sites may operate under their own privacy notices as provided at said sites.
+Please read this privacy statement carefully before submitting any personal information to us.
 
-Our Web Site contains links to other web sites operated by third parties. FTP is not responsible for the privacy practices or policies of such third party web sites and this Notice does not apply to those web sites.
+## OUR COMMITMENT TO PRIVACY
 
-**Application of This Notice**
+Your privacy is important to us. To better protect your privacy we provide this statement explaining our online information practices and the choices you can make about the way your information is collected and used. To make this statement easy to find, we make it available on our home page and at every point where personally identifiable information may be requested. 
 
-This Notice applies only to the information collected by FTP from the users of our Web Site. It does not apply to information collected by FTP in any other way, including offline.
+This statement (together with our terms of use [www.fulltiltpoker.com/terms.php](https://web.archive.org/terms.php) and any other documents referred to within them) applies to all personal information collected from or submitted to VANTAGE LIMITED (“ **we** ” or “ **us** ” or “ **our** ”) via our website at [www.FullTiltPoker.com](http://www.fulltiltpoker.com/) (“the Website”). 
 
-**The Information We Collect**
+We are registered under the Data Protection (Bailiwick of Guernsey) Law, 2001. For the purpose of the Data Protection (Bailiwick of Guernsey) Law, 2001 (“ **the Act** ”), the data controller is Vantage Limited of York House, Victoria Street, Alderney GY9 3TA. 
 
-Our Web Site is not set up to automatically collect personally identifiable information from each visitor to our Web Site. It does recognize the home server of visitors, but not e-mail addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to our Web Site. This information is used only for internal purposes by our technical support staff.
+## APPLICATION OF THIS NOTICE
 
-Our Web Site does track certain information about the visits to our Web Site. For example, we compile statistics that show the numbers and frequency of visitors to our Web Site and its individual pages. These aggregated statistics are used internally to improve our Web Site and for product development and marketing purposes generally. Those aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information. For example, we request information from you when you:
+This privacy statement applies only to the information collected by us from users of the Website. It does not apply to information collected by us in any other way, including any that is submitted to us offline. 
 
-  1. Log-on to certain areas of our Web Site, where you are prompted to provide us with your Login and password as a condition to gaining access to certain information, materials or services.
-  2. Register or sign-up to use a service.
-  3. Subscribe to a newsletter or desire to be added to our mailing lists for other products or services.
-  4. Place an order.
-  5. Participate in a sweepstakes or other promotional offer.
-  6. Provide feedback in an online survey.
+## THE INFORMATION WE COLLECT
+
+We may collect and process the following data about you: 
+
+  * Personal information provided when you register for an account and all content, materials and information submitted to or uploaded on the Website.
+  * Information that you provide if you enter a competition or promotion on the Website or when you report a problem with the Website. 
+  * Correspondence passing between you and us.
+  * Responses to any surveys that we use for research purposes, although you do not have to participate in such surveys.
+  * Details of transactions you carry out through the Website and of the processing of your account including details of your payment history, tournament fees and amounts that you have staked on games and the amounts that you have won or lost.
+  * Details of your visits to the Website including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own accounting purposes or otherwise and the resources that you access.
 
 
 
-In each of the instances above, we typically ask for your name, e-mail address, phone number, address, product preference information, FTP ID number and password, as well as other similar personal information that is needed to register or subscribe you to services or offers. On occasion, we may ask for additional information to enable us to provide you with access to and use of certain information, materials and services. In the case of newsletters or mailing lists, you will be able to "unsubscribe" to these mailings at any time.
+The Website is not set up to automatically collect personally identifiable information from each visitor to it. It does recognise the home server of visitors, but not email addresses. For example, we can tell which Internet Service Provider our visitors use, but not the names, addresses or other information about our visitors that would allow us to identify the particular visitors to the Website. This information is used for internal purposes by our technical support staff, our agents and sub-contractors. 
 
-**How We Use Information:**
+We also track certain information about the visits to the Website. For example, we compile statistics that show the numbers and frequency of visitors to the Website and its individual pages. These aggregated statistics are used internally to improve the Website and for product development and marketing purposes generally. These aggregated statistics may also be provided to advertisers and other third parties, but again, the statistics contain no personal information and cannot be used to gather such information. 
 
-FTP only uses your personal information for specific purposes. For example, you must be at least 18 years of age, or older than 18 years of age in those jurisdictions, territories, and locations where the minimum age for permissible use of the Web Site by you is greater than 18 years old. We use such information to verify age.
+## IP ADDRESSES AND COOKIES
 
-The personal information you provide to us when using our Web Site, such as your name, postal or e-mail address or telephone number will be kept confidential and used to support your customer relationship with FTP, and to notify you of special offers, updated information and new products and services from FTP, offers from third parties that we think may be of interest to you, or used by FTP or third parties for the purpose of conducting market research or surveys on behalf of FTP. Agents or contractors of FTP who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for FTP.
+We may collect information about your computer including, where available, your IP address, operating system and browser type, for system administration and to report aggregate information to our advertisers. This is statistical data about our users’ browsing actions and patterns, and does not identify any individual. 
 
-FTP may enhance or merge your information collected at its Web Site with data from third parties for purposes of marketing products or services to you.
+For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer’s hard drive. They help us to improve the Website and to deliver a better and more personalised service. They enable us: 
 
-With respect to network advertising companies (companies that manage and provide advertising for numerous unrelated companies), to the extent that FTP utilizes such advertising companies to provide advertisements on our Web Site, FTP may provide them with your log-in name and any demographic information about you that we collect. Those advertising companies may combine that data with non-personally identifiable data collected by the advertising company from your computer solely for the purpose of delivering on our Web Site advertisements that are targeted to you.
+  * To estimate our audience size and usage pattern.
+  * To store information about your preferences, and so allow us to customise the Website according to your individual interests.
+  * To speed up your searches.
+  * To recognise you when you return to the Website. 
 
-Circumstances may arise where we are required to disclose your personal information to third parties for purposes other than to support your customer relationship with FTP, such as in connection with a corporate divestiture or dissolution where we sell all or a portion of our business or assets (including our associated customer lists containing your personal information), or if disclosure is required by law or is pertinent to judicial or governmental investigations or proceedings.
 
-You can opt out of receiving further marketing from FTP at any time.
 
-We will send you information about our various products and services, or other products and services we feel may be of interest to you. Only FTP (or agents or contractors working on behalf of FTP and under confidentiality agreements) will send you these direct mailings. If you do not want to receive such mailings, simply tell us when you give us your personal information. Or, at any time you can easily opt out of receiving further marketing from FTP by emailing us at [announce@FullTiltPoker.com](mailto:announce@FullTiltPoker.com).
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of the Website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to the Website. 
 
-If you have signed up for Full Tilt Poker Academy and wish to be removed from the marketing mailing list simply email [unsubscribe@info.ftpacademy.com](mailto:unsubscribe@info.ftpacademy.com "unsubscribe@info.ftpacademy.com").
+Please note that our advertisers, sponsors and third party websites that you can link to from the Website may also use cookies, over which we have no control so you should review any policies applicable to such websites. 
 
-**Our Commitment to Data Security**
+## WHERE WE STORE YOUR PERSONAL DATA
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+The data that we collect from you will be initially stored on servers situated in Guernsey or an EEA state. Certain of your personal data will be transferred to and processed in Ireland and or the Kahnawake Mohawk Territory in Canada. From time to time your data may also be transferred to and processed on servers situated in other jurisdictions outside of Guernsey for the purposes set out below. Such processing may be performed by us or on our behalf, by our staff, agents and sub-contractors who may be located anywhere in the world. By submitting your personal data, you agree to this storing, transfer and processing. 
 
-**How You Can Access or Correct Your Information**
+We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy statement. 
 
-You can request a copy of the personally-identifiable information that FTP has collected about you via the Internet by contacting our Information Privacy Manager at the address below. You can also have factual inaccuracies in this information corrected by contacting this same person.
+Any payment transactions will be encrypted using SSL technology. Where you have chosen a password which enables you to access certain parts of the Website, you are responsible for keeping this password confidential and for preventing any unauthorised use of your account. We do not permit you to share your user name and password with any other person nor with multiple users on a network. 
 
-**How to Contact Us**
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to or uploaded on the Website, which takes place at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
 
-If you would like to contact us for any reason regarding our privacy practices, please e-mail us at the following address:
+## HOW WE USE INFORMATION
 
-[privacy@FullTiltPoker.com](mailto:privacy@FullTiltPoker.com)
+We will use your personal information (such as your name, postal or email address or telephone number) for specific purposes which may include:
+
+  * Verifying your identity and age. This is because we need to know that you are who you say you are and that you are at least 18 years of age, or of at least the minimum permitted age for participating in such activities if you live or reside in a jurisdiction that stipulates a minimum age restriction that is greater than 18 years;
+  * Making arrangements for you to engage in gaming (in the form of participating in poker tournaments or playing games of poker) with a person other than us in a place outside Alderney in accordance with the Alderney eGambling Regulations 2006 (“ **the Regulations** ”);
+  * Processing your payments from or due to you;
+  * Providing you with customer support;
+  * Statistical analysis and market research;
+  * Advertising and marketing activities. For example we may notify you of special offers and updated information regarding our various products and services and other products and services offered by carefully selected third parties if we feel they may be of interest to you. Such notification will be by email (unless you have opted out of such process) or by SMS text messaging (if you have opted in to such process) and for these purposes we may enhance or merge information collected from you on the Website with data obtained from third parties. 
+
+
+
+If you do not want to receive such notifications, simply tell us when you give us your personal information. Or, at any time, you can easily opt out of receiving further marketing from us or our carefully selected third parties by sending an email to [unsubscribe@FullTiltPoker.com](mailto:unsubscribe@FullTiltPoker.com). 
+
+We may be required to disclose your personal information to third parties for purposes other than to support your customer relationship with us, such as in connection with a sale of our company, business or assets (including our associated customer lists containing your personal information). We may be required to disclose your personal information if this is required by law or is pertinent to law enforcement agencies, judicial or governmental investigations or proceedings and the Alderney Gambling Control Commission (“the AGCC”) will have access your personal information at all times. 
+
+Our agents or sub-contractors who are given access to your personal information will be required to keep the information confidential and not use it for any other purpose than to carry out the services they are performing for us. 
+
+Third party content may from time to time appear on the Website or be accessible from the Website via links to other websites. If you follow a link to any of these websites, you leave the Website and enter sites that may or may not have their own privacy statements. We have not reviewed, do not monitor and are not responsible for the content on such websites or for the terms of their privacy statements. Please check these statements before you access or submit any personal data to these websites. 
+
+## HOW YOU CAN ACCESS, CORRECT OR ERASE YOUR INFORMATION
+
+You can request a copy of the personally-identifiable information that we have collected about you via the Website by contacting our Information Privacy Manager at the address below. 
+
+For the added security of your personal information, when you request a copy of the personally-identifiable information that we have collected about you via the Website you will be asked to provide us with proof of identification. 
+
+Any request for a copy of the personally-identifiable information that we have collected about you via the Website is subject to a fee of £10 to meet our costs in providing you with this information. 
+
+You can also have factual inaccuracies in the personal information that we hold about you corrected or you can have the personal information erased by contacting our Information Privacy Manager. 
+
+## CHANGES TO OUR PRIVACY POLICY
+
+We may amend or vary this statement at any time and with immediate effect by updating this web page and, whilst we will seek to notify you of such changes beforehand, we may not always be able to do so, so you should check this web page every time you visit the Website to review the then current privacy statement. 
+
+## GOVERNING LAW AND JURISDICTION
+
+This privacy statement shall be governed by, interpreted, and otherwise construed pursuant to and in accordance with Alderney law without giving effect to conflicts of laws principles. 
+
+Any disputes arising in connection with these terms of use may be referred to the AGCC in accordance with the relevant provisions of the Alderney eGambling Regulations 2006 but in respect of any disputes which are not or cannot be resolved by the AGCC and in respect of any other disputes or matters arising out of or concerning this privacy statement or its enforceability you irrevocably submit for our benefit to the exclusive jurisdiction of the Courts of Alderney. 
+
+## HOW TO CONTACT US
+
+If you would like to contact us for any reason regarding our privacy practices or to request a copy of the personally-identifiable information that we have collected about you via the Website please write to our Information Privacy Manager at [privacy@FullTiltPoker.com](mailto:privacy@FullTiltPoker.com). 
+
+If you would like to contact the AGCC, its contact details are:
+
+The Alderney Gambling Control Commission  
+St Anne’s House  
+Queen Elizabeth II Street  
+Alderney  
+Channel Islands  
+GY9 3TB
+
+Tel: +44 (0)1481 825500
+
+Fax: + 44 (0)1481 823978
+
+Web: [www.gamblingcontrol.org](http://www.gamblingcontrol.org/)
