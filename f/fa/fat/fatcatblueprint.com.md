@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fatcatblueprint.com privacy policy that was archived on 2009-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091203155833id_/http%3A//www.fatcatblueprint.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatcatblueprint.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612152308id_/http%3A//www.fatcatblueprint.com/privacy.html) for the most accurate reproduction.*
 
 # FatCat Blueprint - Privacy Policy
 
@@ -93,4 +93,4 @@ Where to Direct Questions About Our Privacy Policy: If you have any questions ab
 
 Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
 
-Last updated: December 1, 2009 for fatcatblueprint.com
+Last updated: December 21, 2009 for [FatCatBlueprint.com](http://www.fatcatblueprint.com/)
