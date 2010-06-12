@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2008-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081101140120id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iccwbo.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203900id_/http%3A//www.iccwbo.org/id987/index.html) for the most accurate reproduction.*
 
 # ICC - The world business organization
 
@@ -6,19 +6,19 @@ This site and its contents are subject to ICC's copyright. Unless stated otherwi
 
 No image may be downloaded from this site without prior permission unless specifically indicated.
 
- **Photo credits**
+**Photo credits**
 
-© 2007 Jupiterimages Corporation
+© 2010 Jupiterimages Corporation
 
-© 2007 Vincent Muracciole
+© 2010 Vincent Muracciole
 
-© [www.istockphoto.com](http://www.istockphoto.com/ "http://www.istockphoto.com/")
+© iStockphoto LP 2009 
 
 ICC, the ICC logo, CCI, the CCI logo, International Chamber of Commerce, World Business Organization, WBO, International Court of Arbitration, ICC International Court of Arbitration (including Spanish, French, German and Arabic translations), World Chambers Federation, WCF, World Chambers Network, WCN, Incoterms, DC-Pro are all ICC's trademarks, registered in several countries. 
 
 UCP 500, UCP 600, BASCAP, Business Action to Stop Counterfeiting and Piracy, BASIS, Business Action to Support the Information Society, World Business Awards,  World Chambers Congress, Institute of World Business Law, ICC eTerms, and PIDA are also trademarks of ICC. 
 
- **ICC website privacy statement**
+**ICC website privacy statement**
 
 This privacy statement was last updated on 29 June 2002.
 
@@ -36,7 +36,7 @@ Your privacy is important to the International Chamber of Commerce (ICC). We hav
 
 Questions regarding this statement should be directed to the ICC webmaster by emailing Click here to send a mail or writing to us at the following address:
 
- **International Chamber of Commerce** 38 Cours Albert 1er
+**International Chamber of Commerce** 38 Cours Albert 1er
 
 75008 Paris, France
 
@@ -46,17 +46,17 @@ Fax +33 1 49 53 28 59
 
 If you feel that ICC has not complied with the policies outlined in this privacy statement please contact us.
 
-  * [ _About ICC_](http://www.iccwbo.org/#about)
-  * [ _ICC’s privacy statement_](http://www.iccwbo.org/#statement)
-  * [ _What information is collected and how it is used?_](http://www.iccwbo.org/#how)
-  * [ _Choices regarding the use of your information_](http://www.iccwbo.org/#choices)
-  * [ _Security_](http://www.iccwbo.org/#security)
-  * [ _Third party services_](http://www.iccwbo.org/#thirdparty)
-  * [ _Notification of changes_](http://www.iccwbo.org/#changes)
+  * [_About ICC_](http://www.iccwbo.org/#about)
+  * [_ICC’s privacy statement_](http://www.iccwbo.org/#statement)
+  * [_What information is collected and how it is used?_](http://www.iccwbo.org/#how)
+  * [_Choices regarding the use of your information_](http://www.iccwbo.org/#choices)
+  * [_Security_](http://www.iccwbo.org/#security)
+  * [_Third party services_](http://www.iccwbo.org/#thirdparty)
+  * [_Notification of changes_](http://www.iccwbo.org/#changes)
 
 
 
-##  About ICC
+## About ICC
 
 The International Chamber of Commerce (ICC) is the world business organization, the only representative body that speaks with authority on behalf of enterprises from all sectors in every part of the world. ICC was founded in 1919. Today it groups thousands of member companies and associations from over 130 countries.
 
@@ -70,7 +70,7 @@ ICC is the sole owner of the information it gathers on its site. ICC will only s
 
 ## What information is collected and how it is used?
 
- ** _[ICC news alert service](http://www.iccwbo.org/id991/index.html)_**
+**_[ICC news alert service](http://www.iccwbo.org/id991/index.html)_**
      We collect contact information such as name and email address. This information is used to generate a newsletter for you each time the ICC website is updated with news. The information requested will solely be used for ICC's own purposes.
  ** _[Contact us](http://www.iccwbo.org/id107/index.html)_**
      We use email links located on the "contact us" page and other areas of the site to allow you to contact us directly with any questions or comments you may have. We read every message sent in and try to reply promptly to every one. This information is used to respond directly to your questions or comments. We may use your comments to improve the site and program, and we may either keep your comments on file or review and discard them. This information is shared with third parties only with your explicit permission.
@@ -91,7 +91,7 @@ However, if you choose to make a purchase in the Bookstore, we will request pers
 
 ## Choices regarding the use of your information
 
- **How to unsubscribe from the ICC news alert service**
+**How to unsubscribe from the ICC news alert service**
      To unsubscribe from receiving the ICC news alert, an unsubscribe link appears at the end of each email and when you click on it you will be transfered to a page where you can cancel your subscription.
  **How to access and update your information**
      Reasonable access to personally identifiable information about you will be provided within 30 days at no cost to you. If access cannot be provided within that timeframe, ICC will give you a date when the information will be provided. If for some reason access is denied, ICC will provide an explanation as to why access has been denied.
