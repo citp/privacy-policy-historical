@@ -1,207 +1,112 @@
-> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2009-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090312064311id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the educationplanner.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612191656id_/http%3A//www.aessuccess.org/about/pp.shtml) for the most accurate reproduction.*
 
 # American Education Services - Privacy Policy
 
-  * Section 1: AES' Commitment to Privacy Protection for Customers 
-  * Section 2: Who is an AES Customer?
-  * Section 3: Collection of Nonpublic Personal Information
-  * Section 4: Notice and Disclosure
-  * Section 5: Choice and Consent Concerning On-Line Availability of Information and Electronic Communications
-  * Section 6: Data Quality and Access
-  * Section 7: Data Security
-  * Section 8: Links to Other Websites
-  * Section 9: Contacts from AES
-  * Section 10: Changes to AES' Privacy Policy
-  * Section 11: How to Contact AES
+  * Section 1: Information We Collect and Share
+  * Section 2: Disclosure of Personal Information
+  * Section 3: Data Security
+  * Section 4: Online Privacy Practices
+  * Section 5: How to Contact AES
+  * Section 6: Changes to Our Privacy Policy
 
 
 
-**Section 1. AES' Commitment to Privacy Protection for Its Customers 1**
+The Pennsylvania Higher Education Assistance Agency, doing business as American Education Services (“AES” or “PHEAA”), is committed to safeguarding the privacy and confidentiality of your personal information. We are required by Federal law to tell you how we collect, share and protect your personal information. Please read this Privacy Policy carefully to understand what we do.
 
-American Education Services (AES), a division of the Pennsylvania Higher Education Assistance Agency (PHEAA), is committed to safeguarding the individual privacy rights of all of its customers. AES strongly believes that it has a responsibility to protect from disclosure to unauthorized parties the nonpublic, personal information (e.g., name, address, date of birth, Social Security Number, etc.) of its customers. Therefore, AES has adopted and implemented this privacy policy to protect your account and nonpublic personal information.
+This Privacy Policy applies to individuals whose loans have been made or are owned by AES, or whose loans are guaranteed by AES but owned by another entity. If your loans are serviced by AES, but owned by a lender other than AES we will comply with that lender's privacy policy with respect to personal information about you that we receive through our relationship with that lender.
 
-Return to Privacy Policy Menu
+**Section 1. Information We Collect and Share**
 
-**Section 2. Who is an AES Customer?**
+We collect and share personal information about you in order to identify you as our customer, to establish and manage customer accounts, to complete customer transactions, to provide information to you about our products and services, and to comply with legal and regulatory requirements. Examples of the types of personal information that we collect:
 
-This Privacy Policy applies only to a customer of AES. AES customers are those individuals whose loans have been made or are owned by AES. Individuals whose loans are only guaranteed by AES (i.e., where another entity owns and services the loans) are AES customers only with respect to the information collected and maintained by AES for the purposes of guaranteeing such loans.
-
-Individuals whose loans have only been originated and/or are serviced by AES for a lender other than AES are not AES customers. If your loans have been made or are owned by a lender other than AES, you must review that lender's privacy policy, as the lender's privacy policy applies to you.
-
-Return to Privacy Policy Menu
-
-**Section 3. Collection and Receipt of Nonpublic Personal Information**
-
-Since you are our customer, we collect and receive nonpublic personal information about you. This includes information such as your name, Social Security Number, birth date, assets, and income. We collect this information from the following sources:
-
-  * Information we receive from you or your representative on loan applications, promissory notes, correspondence, e-mail and other communications;
-  * Information we receive from you or your representative on the FAFSA (Free Application for Federal Student Aid) and other forms requesting financial aid;
-  * Information about you that we receive from your lender, business partners whom you have contacted for information or services, or the U.S. Department of Education concerning your transactions with us or them;
-  * Information received from schools you attend or previously attended, or to which you have applied for admission;
-  * Information received from credit reporting agencies and public records, used to verify your identity, to assess creditworthiness, or to better understand your need for products or services;
-  * Information received from other lenders or financial institutions when, with your consent, the lender seeks to fulfill a request you made of them; for example, if you apply for loan consolidation with another financial institution;
-  * Information that AES may automatically collect and store from all website customers. This would include the name of the domain and host from which the customer accessed the Internet; the Internet Protocol (IP) address of the computer the customer is using to access an AES website; the browser software the customer uses as well as the operating system; the date and time the customer accesses AES websites; and the Internet address of the site from which the customer linked directly to AES websites;
-  * Information obtained by AES via “session cookies” on its website to enhance the delivery of products, services, and information on AES websites. A cookie is a small file that AES transfers to customers' computer hard drives. Cookies also enable AES to ensure that only a customer's web browser may exchange information regarding a customer's account with AES' servers. Session cookies are temporary files that are erased when customers close all web browsers. AES' use of session cookies enables AES website customers to avoid the nuisance of being asked to provide the same information repeatedly while customers move from page to page on an AES website;
-  * Authentication information obtained by AES via “persistent” cookies. AES uses persistent cookies for customer protection, as part of its authentication technology. Persistent cookies assist AES in verifying the identity of a customer who is attempting to log into his/her account. AES also uses persistent cookies to better understand how AES customers use their websites and related products, and to recall any site preferences saved by a user. Persistent cookies created by AES do not contain any aforementioned nonpublic personal information.
-  * Information that may be obtained by AES' use of HTML-encoding (sometimes called pixel tags or clear GIFS) to record aggregate information about AES produced websites and e-mails. HTML-encoding e-mail enables AES to 1) send e-mail in a format certain customers may read, 2) to know which e-mails customers access and act upon, and 3) to better target the content of future e-mails or web pages. In addition, AES may track the aggregate number of e-mails read and whether any of the links in the e-mails or web pages were accessed.
+  * Your Social Security Number, name, contact information, birth date, assets, and income. 
+  * Your transaction history and account balances.
+  * Your credit history and credit scores.
 
 
+
+We collect personal information about you from sources that include, but are not limited to:
+
+  * Information we receive from you or your representative on applications, promissory notes, forms, and through other communications (for example, when you take out a loan, send us an email, or open an online account on our website).
+  * Information about your transactions with us or others, including lenders, schools, or the U.S. Department of Education (for example, when you make a payment or finish school).
+  * Information we receive from consumer credit reporting agencies or public records.
+
+
+
+We may share all of the information we collect, as described below.
 
 Return to Privacy Policy Menu
 
-**Section 4. Notice and Disclosure**
+**Section 2. Disclosure of Personal Information**
 
-AES is an originator, guarantor, lender, servicer, and secondary market of federal student loans as well as the state agency responsible for administering the Pennsylvania State Higher Education Assistance Grant Program, various other state and federal higher education financial aid programs, and alternative, private loan programs. As such, AES has very different relationships with its customers. It is important to note that AES may be required, depending upon its relationship with customers, to share information about the customer with authorized third parties, as described in this Section.
+All financial companies need to share their customers' personal information to run their everyday business. Below, we explain how and why we may share your personal information.
 
-The United States Department of Education has, for several years, required the disclosure of individuals' Social Security Numbers on applications and other Federal Family Education Loan Program (“FFELP”) required documents, pursuant to published regulations. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the United States Department of Education’s privacy policy:
+We do not disclose personal information about our customers or former customers, except as permitted or required by law. For example, AES shares your personal information in the delivery of our financial products and services to you in the following circumstances:
 
-<http://www.fafsa.ed.gov/secpriv.htm>
-
-In compliance with Department of Education requirements, and under AES' administration of FFELP, AES similarly is required to collect and disclose the Social Security Numbers of applicants for loans under FFELP.The primary use of this information is to verify customer identity, to determine customer program eligibility and benefits, to permit the servicing of customer financial aid, to certify customer attendance and status at an approved higher education institution. The disclosure of a customer's Social Security Number by a customer is mandatory for the customer to participate in FFELP.
-
-AES does not sell, trade, or disclose nonpublic personal information of its customers to any unauthorized third parties. However, AES is required to share your information in the delivery of AES’ financial products and services, in the following circumstances:
-
-  1. When you have authorized the disclosure of information in circumstances including but not limited to: certifications you have made on loan applications and promissory notes, the (FAFSA), and documents held by AES and its partners such as schools, lenders, servicers, United States Department of Education [including The National Student Loan Data System (NSLDS), which is the U.S. Department of Education's central database for student aid], and guarantors of customers’ financial aid.
-  2. As noted in Section 2 above, when AES acts as an originator and/or servicer of your loans, you do not become an AES customer; instead, you remain the customer of the lender from whom you obtained your loan(s) or the entity that holds your loan(s). In this instance, AES will adhere to your lender's privacy policy.
-  3. When AES needs to share your information to provide products or services that you requested; for example, as when an authorized credit check is performed.
-  4. When AES is required to disclose your information by order of court or subpoena, pursuant to state, local, federal, or international statute, regulation or mandate, and in cooperation with law enforcement agencies.
-  5. When AES shares information with consumer reporting agencies.
+  * When you have authorized the disclosure of information. 
+  * To provide products or services that you request. 
+  * As required by order of court or subpoena, pursuant to state, local, federal, or international statute, regulation or mandate, and in cooperation with law enforcement agencies. 
+  * With consumer reporting agencies. 
 
 
 
-Additionally, AES sometimes shares information with other companies that perform services, or produce goods and products, which AES does not. For example, we sometimes use outside companies to print documents, prepare statements, to perform software programming, or to provide loan collection support. When outside companies are used, AES provides them with only the information needed to perform that particular service. Before representatives of the outside company receive such information, we require that they sign an agreement to keep all nonpublic personal or proprietary information confidential. These outside companies may not use this information for their own purposes.
+Additionally, AES sometimes shares your personal information with nonaffiliated vendors that perform services on our behalf, for example, printing services, software programming, or loan collection support. AES provides these vendors with only the information needed to perform that particular service. Before representatives of these vendors receive such information, we require that they sign an agreement to keep all personal information confidential. These vendors may not use this information for their own purposes.
 
-In other instances, AES contracts with non-affiliated third parties to market AES products and services. In such instances, your information may be shared with a non-affiliated third-party, which may market the AES product to you. In such instances, the non- affiliated marketer will have agreed, via contract with AES, to keep your information confidential and will only use the information in the marketing of AES products and services.
+AES may share your information with nonaffiliated vendors that market AES products and services to you. Generally, we only provide these vendors with customer contact information, although we might provide limited account information in some circumstances, such as account balances or status, payment amount or transaction history. Such nonaffiliated marketers must agree via contract with AES to keep your information confidential and to use the information only to market AES products and services.
 
-Finally, consistent with student loan industry practice, AES shares customer information with industry aggregators for the benefit of students. Such industry aggregators include the National Student Clearinghouse2, ELM Resources3, and Meteor TM4.
+In compliance with United States Department of Education requirements under the Higher Education Act, AES is required to collect and disclose the Social Security Numbers of applicants for Federal student loans. The primary use of this information is to verify customer identity, determine program eligibility and benefits, permit the servicing of financial aid, and certify attendance and status at an approved higher education institution. Disclosure of your Social Security Number is mandatory for participation in Federal student loan programs under the Higher Education Act. For information on how the Department of Education treats the privacy of Social Security Numbers, please link to the following website to see the Department of Education’s privacy policy: <http://www.fafsa.ed.gov/secpriv.htm>.
 
-Consistent with the Children's Online Privacy Protection Act (COPPA), AES will not knowingly collect or retain information submitted to it by children under the age of thirteen. If AES learns that it unknowingly collected personally identifying information from children under 13 years of age, it will immediately take all reasonable measures to delete the information from its computer systems and all other data systems.
+Finally, consistent with student loan industry practice, AES shares customer information with industry aggregators for the benefit of students. Such industry aggregators include the National Student Clearinghouse1, ELM Resources2, and Meteor TM3.
 
-AES closely monitors and restricts its employees' access to customer account and personal information to only instances of business necessity.
+Consistent with the Children's Online Privacy Protection Act (COPPA), AES will not knowingly collect or retain information submitted by children under the age of thirteen. If AES learns that we unknowingly collected personally identifying information from children under 13 years of age, we will immediately take all reasonable measures to delete the information from our computer systems and all other data systems.
 
 Return to Privacy Policy Menu
 
-**Section 5. Choice, Consent and Opt-Out Concerning Availability of On-Line Information and Electronic Communications**
+**Section 3. Data Security**
 
-AES provides its customers access to customer specific information on AES websites, behind the security of a unique login process. This customer specific information includes but may not be limited to customers' individual account level information and customers' eligibility for financial aid. AES fully understands and wishes to fully serve its customers that do not desire to have personally identifying account and status information available on AES websites. Customers may “opt out” of having this information available on AES websites. “Opt-out” means that customers may request the deletion of their AES account information available to them on AES websites by completing one of the following actions:
+To protect your personal information from unauthorized access and use, we use security measures that comply with federal law and regulations. These measures include computer safeguards and secured files and buildings. We restrict access to nonpublic personal information about you to those employees who we have determined have a legitimate business need for the information in order to provide our products and services.
 
-  * Going to the AES/PHEAA website ([www.aessuccess.org](http://www.aessuccess.org/)) and entering your request via Account Access (the Block Account Access link is located under the Account Profile menu), or
-  * Sending an e-mail to [nettech@aessuccess.org](mailto:nettech@aessuccess.org), or 
-  * Sending a request by First Class Mail to:
+Return to Privacy Policy Menu
 
-**AES/PHEAA**  
-1200 North 7th Street  
-Harrisburg, Pennsylvania 17102-1444  
-ATTENTION: Privacy Policy
+**Section 4. Online Privacy Practices**
 
+AES protects the privacy of your personal information on our websites using the same standards and care that we utilize for all AES communications and transaction.
 
+AES does not automatically collect personal information from visitors to our websites. However, we may automatically collect and store certain data from all website visitors, for example, the name of the domain and host from which the visitor accessed the Internet, the Internet Protocol (IP) addresses of computers and browser software used to access an AES website, the date and time the visitor accesses AES websites, and the Internet address of the website from which a visitor links directly to an AES website. We may also use HTML encoding to record aggregate information about the usage of AES websites and whether emails that we send have been accessed or acted upon.
 
+AES uses cookies to enhance the delivery of products, services, and information on AES websites. A cookie is a small file that a website transfers to a visitor's computer hard drive to remind our website about the visitor when they return to our site. Cookies enable AES to protect your personal information by ensuring that only your web browser may exchange information regarding your account with AES' servers, and by automatically terminating an online session if you forget to log out. Cookies also assist AES in verifying your identity when you attempt to log into your AES online account, and help us to understand how you use our websites. You can set your browser to notify you before accepting a cookie, so that you can decide whether to accept or reject the cookie.
 
-Upon receipt of an Account Access request, e-mail, or letter via First Class Mail from a customer, AES will remove the customer's account information from AES websites but will continue to retain all of the information on AES computer systems as required by state and federal laws and regulations governing the customer's relationship with AES.
+AES provides links from its websites to other vendors and third parties. Because AES cannot guarantee how these third parties use or collect personally identifying information, you are encouraged to fully review the privacy statements of these other websites to determine whether or not your use of these websites comports with your desire to maintain the privacy of personally identifying information.
 
-AES reserves the right to not make data, information, products, or services available on its websites to all of its customers and to individual customers.
+Return to Privacy Policy Menu
 
-Unless specifically notified by the customer, AES will operate as though the customer consents to the account information being available on AES websites. Please review the sections on data security and AES' privacy commitment for explanations of the security utilized by AES to protect personal account information from unauthorized disclosure.
+**Section 5. How to Contact AES**
 
-AES will also, upon proper and legally binding authorization from its customers, release information to and accept direction for action from third parties authorized by the customer. Customers are solely responsible for maintaining their authorizations of third parties. AES will only revoke a third party's authority upon request from the customer. Finally, AES provides information to its customers via e-mail newsletters. Customers can choose to opt-out of receiving these e-mail newsletters and other informational e- mails at any time by performing one of the following actions:
+If you have questions, concerns, or if you desire additional information concerning the AES Privacy Policy, please contact AES by one of the following means:
 
-  * Using the unsubscribe form or by following the written instructions at the bottom of every e-mail AES sends,
-  * Sending an e-mail at [nettech@aessuccess.org](mailto:nettech@aessuccess.org) requesting to unsubscribe from emails, or
-  * Sending a request by First Class Mail to:
-
-**American Education Services**  
-Customer Service Division  
-1200 North 7th Street  
-Harrisburg, PA 17102-1444  
-Attention: Privacy Policy
-
+  * E-mail: [helpdesk@aessuccess.org](mailto:helpdesk@aessuccess.org)
+  * Telephone: 1-877-398-4237
 
 
 
 Return to Privacy Policy Menu
 
-**Section 6. Data Quality and Access**
+**Section 6. Changes to Our Privacy Policy**
 
-AES will take all reasonable steps to assure that the information about its customers is accurate, complete, and timely for the purpose for which it is intended to be used. AES will take reasonable measures to establish appropriate processes or mechanisms so that inaccuracies or errors in customers' information may be corrected timely by AES. For information on how to contact AES, refer to the How to Contact AES section of this AES Privacy Policy. AES will try to make these processes and mechanisms as simple and easy to use as possible, while providing assurances that the erroneous and inaccurate information has been corrected timely. AES allows its customers to update some data made available online after the customers have been properly authenticated through a unique and secure login process.
-
-The information contained on AES websites is subject to change without prior advance notice.
+This Privacy replaces all prior Privacy Policies issued by AES. We reserve the right to modify our Privacy Policy at any time. We will notify you if we make changes to our Privacy that significantly impact how we collect, use or protect your personal information.
 
 Return to Privacy Policy Menu
 
-**Section 7. Data Security**
+* * *
 
-Securing customers' nonpublic personal information is very important to AES. Therefore, AES has implemented several security measures to protect customers' personally identifying information from loss, misuse, or alteration. When customers send personally identifying information to AES via AES websites, AES requires that a secure session be established first, using Secure Socket Layer (SSL) technology. During a SSL session, data passed back and forth between the customer's computer and AES servers is secured through the use of public key cryptography. The customer's computer exchanges key information with AES servers to create a private conversation that only the customer's computer and AES servers may understand. To benefit from SSL technology, customers must use a browser with SSL capabilities. Please note that while using any AES website, customers will be notified upon entering and leaving a secured session, unless the setting is turned off on the customers' browser. After leaving a secured session, information transmitted to AES is not secure.
+1 The National Student Clearinghouse is a source for post-secondary student degree and enrollment verification. 
 
-For security purposes, AES uses special software programs to monitor web site traffic and to identify unauthorized attempts to upload or change information or otherwise to cause damage to AES websites. These programs do not collect personally identifying information about customers, but do enable AES to collect information allowing AES to identify website users attempting to tamper with AES websites. AES has policies in place against the misuse, misappropriation, unauthorized access, tampering, damage, destruction, or unlawful utilization of AES websites and computer systems and will seek the maximum enforcement of state, federal, and international criminal laws against any individual engaging in such activity. Additionally, AES will seek the maximum amount of civil damages available under the law for the unauthorized use and/or misuse of its websites and computer systems.
+2 The ELM Resources system provides students, schools and lenders with automated Federal Family Education Loan Program (FFELP) and alternative loan data, processing, and information.
 
-Please note that when customers send electronic mail messages (e-mail) to AES, the customers' messages will contain the customers' return e-mail address. Thus, AES may utilize customers' e-mail addresses in responding to customer inquiries and the content of customers' e-mail in formulating a response. AES may permanently record and store any substantive e-mail received from its customers.
+3 MeteorTM is a collaborative effort to provide financial aid professionals and students with online aggregated financial aid award information from various industry participants.
 
-Customer e-mail sent to AES is not necessarily secure against interception. Do not initiate communication with AES by e-mail if your communication will include nonpublic personal information like your Social Security Number, bank account number, or other personally identifying information that you wish to protect.
-
-Return to Privacy Policy Menu
-
-**Section 8. Links to Other Websites**
-
-AES does have links on its websites to other vendors and third parties. These links give customers the opportunity to explore opportunities with vendors or third parties having a relationship with AES. AES cannot guarantee how these third parties use or collect personally identifying information about the customer.
-
-Customers should be aware that other websites to which a customer links from AES websites may contain privacy policies, statements, promises, or provisions that differ from the AES Privacy Policy and customers are encouraged to fully review the privacy statements of other websites to determine whether or not the customers' use of the sites comports with the customers' desire to maintain the privacy of his/her personally identifying information. AES expressly forbids others to link to an AES website without gaining authorization from AES first. If you wish to link to an AES website, contact AES at:
-
-**Website Linking**  
-PHEAA   
-1200 North 7th Street  
-Harrisburg, PA 17102-1444
-
-[ecomm@aessuccess.org](mailto:ecomm@aessuccess.org)
-
-Return to Privacy Policy Menu
-
-**Section 9. Contacts from AES**
-
-AES will contact its customers via phone, e-mail, fax, and regular mail depending on the relationship between AES and the customer. The nature, method, and frequency of contact will all be driven by the relationship between the customer and AES. It is important to note that AES will reasonably accommodate customers' requests for a specific type of communication, except in instances involving matters with prescribed communication requirements.
-
-Return to Privacy Policy Menu
-
-**Section 10. Changes to AES' Privacy Policy**
-
-The AES Privacy Policy may be modified when necessary to conform to federal, state, local, and international laws and regulations, and at other times to conform to technological changes, court decisions, or changes in AES policy. Changes to the AES Privacy Policy will be notated here when made so that customers may be fully informed about the privacy protections afforded to customers by AES, enabling customers to make an informed decision concerning a customer's opt-out choices. It is recommended that customers check the AES Privacy Policy each time a customer visits an AES website.
+* * *
 
 **Originally Adopted** : February 2, 2001
 
-**Date Last Modified** : February 5, 2008
-
-**Section Modified** : Section 1 (AES' Commitment to Privacy Protection for Its Customers), addition of new Section 2 (Who is an AES Customer?), Section 4 (Notice and Disclosure), Section 6 (Data Quality and Access), Section 7 (data Security), Section 8 (Links to Other Websites), and Section 11 (How to Contact AES).
-
-The AES Privacy Policy was updated on February 5, 2008, and all previous versions of the AES Privacy Policy are replaced by this version.
-
-**Description of Modification** : Updates were made to clarify that this Privacy Policy applies only to AES customer and to more clearly describe who is an AES customer, to clarify that AES will take reasonable measures to correct inaccuracies with customer information.
-
-Return to Privacy Policy Menu
-
-**Section 11. How to Contact AES**
-
-AES will strive to keep customer account data accurate and up-to-date. If a customer ever believes that the customer's account information is not correct or incomplete, please feel free to contact AES using the contact information listed below. AES will investigate and correct any inaccuracies as quickly as possible. Should a customer have any questions, concerns, or desire additional information concerning the AES Privacy Policy please contact AES by one of the following means:
-
-E-mail: [nettech@aessuccess.org](mailto:nettech@aessuccess.org)
-
-or mail your inquiry to:
-
-**AES/PHEAA**   
-1200 North 7th Street   
-Harrisburg, PA 17102-1444  
-Attn: Privacy Policy
-
-Return to Privacy Policy Menu
-
-* * *
-
-1 For the purpose of this Policy, any reference to PHEAA or AES means PHEAA, an Agency of and on behalf of the Commonwealth of Pennsylvania.
-
-2 The National Student Clearinghouse is a source for post-secondary student degree and enrollment verification. The Clearinghouse helps colleges and universities improve efficiency, reduce costs and workload, and enhance the quality-of-service they provide to students and alumni, lending institutions, employers, and other organizations.
-
-3 The ELM Resources system provides students with automated Federal Family Education Loan Program (FFELP) and alternative loan data exchange, updates, funding, and information through the Internet.
-
-4 MeteorTM is the result of a collaborative effort to provide financial aid professionals and students with online aggregated financial aid award information from various industry participants. Meteor TM enables students to obtain detailed, real time student aid information directly from the web and enables the financial aid professional to supplement their counseling services.
-
-* * *
-
-Copyright © 2008 PHEAA
+**Date Last Modified** : April 1, 2010
