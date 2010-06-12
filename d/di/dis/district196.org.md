@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2007-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071109075924id_/http%3A//district196.org/PrivacyStatement.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the district196.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612200655id_/http%3A//district196.org/District/Includes/PrivacyStatement.html) for the most accurate reproduction.*
 
-# Welcome to Independent School District 196
-
-Untitled Document
+# Untitled Document
 
 **District 196 Privacy Statement**
 
@@ -43,7 +41,7 @@ Some information transmitted electronically is classified as private electronic 
 
   2. To another governmental agency to prevent and respond to unlawful intrusions into governmental electronic systems and other unlawful activities; and  
 
-  3. As otherwise provided by specific state and federal law requiring or expressly permitting the release of private data.
+  3. As otherwise provided by specific state and federal law requiring or expressly permitting the release of private data. 
 
 
 
@@ -59,10 +57,10 @@ To offer comments about the District 196 website, or about the information prese
 
 > > Tom Voigt  
 >  Information Systems Coordinator  
->  14445 Diamond Path West  
->  Rosemount, Minnesota 55068  
+>  3455 153rd St. W.,   
+>  Rosemount, MN 55068  
 >  Phone: 651.423.7797  
 >  Fax: 651.423.7787  
 >  Email: [tom.voigt@district196.org](mailto:tom.voigt@district196.org)
 
-> > 
+ 
