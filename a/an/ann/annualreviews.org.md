@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the annualreviews.org privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611044217id_/http%3A//annualreviews.org/about/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the annualreviews.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612165412id_/http%3A//www.annualreviews.org/about/privacy.aspx) for the most accurate reproduction.*
 
 # Annual Reviews - Privacy Policy
 
