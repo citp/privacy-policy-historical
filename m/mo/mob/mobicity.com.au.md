@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212184452id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobicity.com.au privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612041257id_/http%3A//www.mobicity.com.au/about/privacy.html) for the most accurate reproduction.*
 
 # Privacy | MobiCity
 
-AusCom Ltd trades as Mobicity and is the owner of this site. This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. 
+GloTech Ltd trades as MobiCity and is the owner of this site. This site and your data are transmitted via a 128-bit SSL secured link and stored in a secure database on our server. 
 
-AusCom Ltd recognises the importance of your privacy and understands your concerns about the security of your personal information. We are committed to protecting any personal information about you that we hold. 
+GloTech Ltd recognises the importance of your privacy and understands your concerns about the security of your personal information. We are committed to protecting any personal information about you that we hold. 
 
 This privacy policy details how we generally manage your personal information and safeguard your privacy. These guidelines are subject to change. Any such changes will be made to this page. The National Privacy Principles from 21 December 2001 most private sector organisations in Australia must by law comply with the National Privacy Principles subject to the Privacy Act 1988 (Cth) ("NPPs"). We are bound by the NPPs. 
 
@@ -12,13 +12,13 @@ Collecting personal information about you The kinds of personal information we h
 
 The kinds of personal information we collect and hold will depend upon the services you request from us. However, it may include: 
 
-Information you give us when you register your details with us on our website Information you give us when you register for a competition Information you give us when you communicate with or place an order from AusCom Ltd. We also collect some information from you when you use our website, www.mobicity.com.au and www.easymobiles.com.au. Your use of the facilities and services available through our websites will determine the amount and type of information which we collect about you. 
+Information you give us when you register your details with us on our website Information you give us when you register for a competition Information you give us when you communicate with or place an order from GloTech Ltd. We also collect some information from you when you use our website, www.mobicity.com.au and www.cameracity.com.au. Your use of the facilities and services available through our websites will determine the amount and type of information which we collect about you. 
 
 Some of this information will not be personal information because it will not reveal your identity. 
 
 The only personal information which we collect about you when you use our websites is what you tell us about yourself (for example, by completing an online form, subscribing to an online newsletter or placing an order), or information you provide to us when you send us an email. We may record your email address if you send us an email. 
 
-We do not disclose your personal information to third parties without your consent. As a matter of policy, we do not sell, rent or otherwise disclose lists of Easy Mobiles network users or other customers of AusCom Ltd and Easy Mobiles Pty Ltd. 
+We do not disclose your personal information to third parties without your consent. As a matter of policy, we do not sell, rent or otherwise disclose lists of MobiCity website users or other customers of GloTech Ltd. 
 
 Collection of anonymous information 
 
@@ -26,15 +26,15 @@ As most websites do, we track usage patterns on our website on an anonymous aggr
 
 Using and disclosing your personal information The purposes for which we collect and hold personal information and how we use it. We respect your privacy. 
 
-Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business. We do not sell or rent contact lists of our customers (including Easy Mobiles network users). 
+Any personal information which we collect about you will be used to provide the goods and services we normally provide in the course of our business. We do not sell or rent contact lists of our customers. 
 
 We may use your personal information to contact you to discuss other matters relating to your service; for example, to conduct a survey or to analyse your usage and recommend a more appropriate plan. 
 
-We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to privacy@easymobiles.com.au (attn: Privacy Officer) or in writing to the address at the bottom of this page and we will respect your request. 
+We may also use your personal information to provide you with information about other products and services offered by us. If you would prefer not to receive this information, please let us know by email to admin@stailsolutions.com.au (attn: Privacy Officer) or in writing to the address at the bottom of this page and we will respect your request. 
 
 Contracting out services and disclosures. 
 
-We may disclose your personal information to our service entities and contract out some of our functions (such as bulk mailing of Easy Mobiles subscriptions and telemarketing of subscription renewals) to external service providers. 
+We may disclose your personal information to our service entities and contract out some of our functions (such as bulk mailing of MobiCity and telemarketing of subscription renewals) to external service providers. 
 
 We may disclose your personal information to these external service providers but only so that they can provide the services that we have contracted out to them. 
 
@@ -46,7 +46,7 @@ Emails you receive from us regarding publications, products, events and educatio
 
 How we collect personal information from you 
 
-If you provide us or have provided us with your email address, we may send emails to you containing AusCom Ltd information, such as newsletters. 
+If you provide us or have provided us with your email address, we may send emails to you containing GloTech Ltd information, such as newsletters. 
 
 We may use an "email management system" to automate the management and dispatch of these emails. The system operates by inserting tracking codes in the emails that we send to you. 
 
@@ -64,16 +64,16 @@ Access to your personal information In most cases, you can gain access to person
 
 We will handle requests for access to your personal information in accordance with the NPPs. 
 
-We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to privacy@easymobiles.com.au or by writing to the address below. 
+We encourage all requests for access to your personal information to be directed to the Privacy Officer by email to admin@etailsolutions.com.au or by writing to the address below. 
 
 We will deal with all requests for access to personal information as quickly as possible. 
 
 Requests for a large amount of information, or information which is not currently in use, may require further time before a response can be given. 
 
-If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at privacy@easymobiles.com.au or contact us in writing at the following address: 
+If you would like to access details of the personal information held by Simply Mobiles Pty Ltd about you, please email the Privacy Officer at admin@etailsolutions.com.au or contact us in writing at the following address: 
 
 Attn: Privacy Officer  
-Easy Mobiles Pty Ltd  
+eTail Solutions Pty Ltd  
 Shop 1, 196 Wynnum Rd,  
 Norman Park,   
 Qld 4170
