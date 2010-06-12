@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the extremewealthpotentials.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619161031id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the extremewealthpotentials.com privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612203110id_/http%3A//extremewealthpotentials.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
