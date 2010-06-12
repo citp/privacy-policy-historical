@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2009-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090207085631id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathforum.org privacy policy that was archived on 2010-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100612201315id_/http%3A//mathforum.org/announce/privacy.html) for the most accurate reproduction.*
 
 # Math Forum: Privacy Policy
 
@@ -19,7 +19,7 @@ If you identify yourself by sending an email or by providing your email address 
 
   * We use personal identifying information from users in various ways to provide the educational services and support you seek. We use your email address in order to respond to your questions and submissions or to maintain your subscriptions. We also use email in order to identify who you are and make it easy for you to be a regular user of one of our mentored services.
   * From time to time we conduct surveys of users for the purpose of evaluating the use of our Web site, and we may use your information to contact you for more information.
-  * When we archive and publish solutions from the Problem of the Week services, we highlight the names of the students and schools with noteworthy submissions on our Web pages, and these may be read by the general public. Teachers who have registered for a Problem of the Week "teacher account" with us may also view information concerning the number and date of submissions entered by students from their school to the Problem of the Week projects. We publish selected questions and responses from Ask Dr. Math, Teacher2Teacher, and other services. This published material, available to the public, may include your name.
+  * When we archive and publish solutions from the Problem of the Week services, we publish the provided names of the students and schools with noteworthy submissions on our Web pages, and these may be read by the general public. Teachers who have registered for a Problem of the Week "teacher account" with us may also view information concerning the number and date of submissions entered by students from their school to the Problem of the Week projects. We publish selected questions and responses from Ask Dr. Math, Teacher2Teacher, and other services. Services such as Virtual Math Teams (VMT) enable public interaction and those interactions remain publicly available. This published material, available to the public, may include your name if you include it in your submissions. Researchers may study this data in order to understand online learning and instruction.
 
 
 
@@ -33,7 +33,7 @@ This site contains links to other sites. The Math Forum is not responsible for t
 
 ### Public Forums
 
-This site makes mailing lists, Web discussion forums, and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public, and that you should exercise caution when deciding to disclose your personal information. The Math Forum reserves the right to remove any posting that its editors consider inappropriate.
+This site makes mailing lists, Web discussion forums, live chats (VMT) and message boards available to its users. Please remember that any information that is disclosed in these areas becomes public, and that you should exercise caution when deciding to disclose your personal information. The Math Forum reserves the right to remove any posting that its editors consider inappropriate. The Math Forum may support researchers who study activity in the public forums if their research is governed by accountable Institutional Review Boards (IRBs).
 
 * * *
 
