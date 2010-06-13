@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2009-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091103172202id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworks.in privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613130221id_/http%3A//www.mathworks.in/company/aboutus/policies_statements) for the most accurate reproduction.*
 
-# The MathWorks India - Policies & Statements
+# MathWorks India - Policies & Statements
 
   * Privacy Policy
   * [Certifications and Representations](https://web.archive.org/company/aboutus/policies_statements/cert_rep.html)
