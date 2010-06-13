@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rdale.org privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207152648id_/http%3A//rdale.org/privacy.phtml%3Fsessionid%3D5c757a638d473650be98dd9012f08869) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rdale.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613055253id_/http%3A//rdale.org/privacy.phtml%3Fsessionid%3D5c37fa332c1da537e1ed991a95863162) for the most accurate reproduction.*
 
 # Robbinsdale School District
 
