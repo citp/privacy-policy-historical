@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2009-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090728103327id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coachfederation.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613182958id_/http%3A//www.coachfederation.org/about-icf/contact-icf/privacy-policy-for-icf) for the most accurate reproduction.*
 
 # International Coach Federation
 
-######    
-Advertisement
-
-######    
-Advertisement
-
 Privacy Policy for ICF
 
-The International Coach Federation (ICF) recognizes the importance of protecting our users' privacy. To that end we have created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices. 
+The International Coach Federation (ICF) recognizes the importance of protecting our users' privacy. To that end we have created the privacy statement and spam policy in order to demonstrate our commitment to privacy. 
+
+Information on how site content can and cannot be used is also listed below. 
 
 **What Information is Collected  **  
 ICF and its Web hosting company, acting as ICF's agent, collect and store technical information about your visit to our Web site. We use this information for statistical purposes to make our site more accessible to visitors and the information we collect is not provided to any other third party. Specifically, we may record: 
@@ -56,7 +52,22 @@ This site is controlled and operated by ICF from its offices within the United S
 **Site Content**  
 You may access, download and print materials on this Web site for your personal and non-commercial use. You may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from this Web site without first obtaining written consent from ICF. Furthermore, you may not use the materials found on this Web site on any other Web sites or in a networked environment without first obtaining written consent from ICF. 
 
-All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2008. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
+All materials on this site (as well as the organization and layout of the site) are owned and copyrighted by the International Coach Federation. © Copyright International Coach Federation (ICF) 1998 - 2010. All rights reserved. No reproduction, distribution, or transmission of the copyrighted materials at this site is permitted without the written permission of the ICF. 
+
+**Spam Policy**  
+All e-mail and electronic communications with members should adhere to the following principles. 
+
+1\. You should have a prior relationship with the person receiving your e-mail. (Someone giving you their business card is acceptable in this regard–it implies permission to get in contact. Similarly if someone has sent you an e-mail.) 
+
+2\. A valid "from" and "reply to" address must be included with each message. 
+
+3\. If you have a subscription list, you should send a confirmation e-mail that the person wishes to be on the list. 
+
+4\. There should always be a quick way to **unsubscribe** from any mail list. 
+
+5\. Any request to cease mailing from an individual or organization should be quickly honored. 
+
+6\. A complaint involving a breach of this policy may be considered a violation of the ICF Code of Ethics, and therefore referred to the Independent Review Board for their consideration. Should they find a breach occurred, remedies may be required. Sanctions may also be imposed such as suspending or terminating the coach's membership and/or credential with the ICF. 
 
 **Contacting the Web Site**  
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact the following: 
@@ -64,13 +75,6 @@ If you have any questions about this privacy statement, the practices of this si
 International Coach Federation  
 2365 Harrodsburg Rd, Suite A325  
 Lexington, KY 40504  
-Phone: 888-423-3131, 859-219-3580  
-Fax: 888-329-2423, 859-226-4411  
+Phone: 888.423.3131, +1.859.219.3580  
+Fax: 888.329.2423, +1.859.226.4411  
 [icfheadquarters@coachfederation.org](mailto:icfheadquarters@coachfederation.org)
-
-Upcoming Deadlines for ICF Awards
-
-The ICF offers several awards each year to honor individual members, chapters, and organizations that have demonstrated a remarkable commitment to advancing the art, science and practice of professional coaching. Applications for the 2009 ICF International Prism Award are due August 14. ICF Chapter Award applications are due August 21. ... 
-
-######    
-Advertisement
