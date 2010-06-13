@@ -1,28 +1,20 @@
-> *The following text is extracted and transformed from the translink.bc.ca privacy policy that was archived on 2009-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091210062014id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.bc.ca privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613213613id_/http%3A//www.translink.ca/en/Site-Info/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # TransLink.ca - Privacy Policy
 
 ## We Respect Your Privacy
 
-**South Coast British Columbia Transportation Authority** (Also known as **TransLink** )
+South Coast British Columbia Transportation Authority (also known as TransLink)
 
-Privacy on the TransLink Website
-
-What type of information does TransLink collect at its website?
-
-How does TransLink use this information?
-
-Cookies
-
-Children's Privacy
-
-Parents
-
-Updates
-
-Consent
-
-Questions and Concerns
+Privacy on the TransLink Website...   
+What type of information does TransLink collect at its website?...   
+How does TransLink use this information?...   
+Cookies...   
+Children's Privacy...   
+Parents...   
+Updates...   
+Consent...   
+Questions and Concerns...
 
 ##  Privacy on the TransLink Website
 
