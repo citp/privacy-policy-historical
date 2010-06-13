@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the dyn.com privacy policy that was archived on 2009-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090924015121id_/http%3A//dyn.com/about-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dyn.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613184101id_/http%3A//www.dyn.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Dynamic Network Services, Inc
+# Privacy Policy | dyn.com
 
-### PRIVACY POLICY FOR DYNAMICNETWORKSERVICES.COM
-
-#### Last updated 8/15/08
+Last updated 8/15/08
 
 It is the policy of Dynamic Network Services, Inc. ("Dyn") to protect and respect the privacy and personal information of those that use its services. Therefore, Dyn will not monitor, edit, or disclose the contents of your private communications or data to third parties unless required to do so by law or in the good faith belief that such action is necessary to:
 
@@ -22,7 +20,7 @@ Dyn will not give out your personal information to advertisers, business partner
 
 Any financial data collected from you shall be stored in encrypted form, and will be made available for future transactions immediately upon request, and stored only for as long as required by applicable financial regulations.
 
-You may contact Dyn at [hello@dynamicnetworkservices.com](mailto:hello@dynamicnetworkservices.com) to correct, update or remove personal information you have given us.
+You may contact Dyn at [hello@dyn.com](mailto:hello@dyn.com) to correct, update or remove personal information you have given us.
 
 While Dyn strives to protect your personal information and privacy, we cannot guarantee the security of any information you disclose online and, as such, your disclosure of such information at your own risk.
 
