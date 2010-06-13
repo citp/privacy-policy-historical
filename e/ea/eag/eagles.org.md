@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803100935id_/http%3A//www.eagles.org/about/Privacy-Policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eagles.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613052808id_/http%3A//www.eagles.org/about/Privacy-Policy.php) for the most accurate reproduction.*
 
 # American Eagle Foundation | Privacy Policy
 
-[Home](http://www.nestingeagles.com/home.php "Home") » [About](http://www.nestingeagles.com/about.php "About Us") » Privacy Policy
+[Home](http://flylikeaneagle.net/American-Eagle-Foundation.php "American Eagle Foundation") » [About](http://flylikeaneagle.net/about.php "About Us") » Privacy Policy
 
 Privacy Policy
 
