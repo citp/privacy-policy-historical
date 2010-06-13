@@ -1,76 +1,29 @@
-> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419044939id_/http%3A//www.freearticlesnow.com/pripolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freearticlesnow.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613184007id_/http%3A//www.freearticlesnow.com/help/privacy-policy) for the most accurate reproduction.*
 
-# Free Articles Now | Privacy Policy
+# Privacy Policy | FreeArticlesNow.com
 
-Your privacy is important to FreeArticlesNow.com and we take our responsibility seriously to protect the data that you provide us in the normal course of interacting with our site. Therefore, we have developed the comprehensive privacy policy below to help you better understand what data we collect and how we use it. 
+**General**. freearticlesnow places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which freearticlesnow collects, uses, and discloses the personal information provided by you as a result of the use of freearticlesnow's Web Site and the content, information and services provided through the Web Site by freearticlesnow.
 
-## Membership Information: 
+**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.freearticlesnow.COM AND/OR ANY OTHER SITE PROVIDED BY freearticlesnow (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. freearticlesnow reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by freearticlesnow will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](http://www.freearticlesnow.com/help/contact-us) if you have any questions about our privacy policy.
 
-Membership account information that you provide (such as your email address, address, phone number, passwords, credit card or payment information, etc.) is held in strict confidence and will not be sold or rented to 3rd parties, but will be used for the purposes of providing services described on this website. 
+**Collection and Use of Information**. In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
-## **Email Privacy:**
+**User Tracking**. This Site implements a user tracking feature, whereby the activities of each unique visitor to the Site are monitored. This is done regardless of whether the visitor has registered on the Site or is visiting the Site anonymously. If you do not register on this Site or fill in your personal details on any forms, you do remain anonymous and we do not discover your identity. If you do register on this Site, our use of user tracking enables us to identify your future and prior activities on the Site, including your activity before you registered. This inc-medias pages on our Site that you visited. The purpose of our user tracking is to analyze our visitors' actions in order to improve the user experience of visitors to our Site, as well as to better understand the priorities and interests of our potential customers and partners in order to better suit their needs and increase the efficiency of our sales and marketing processes.
 
-  * **Email Alert Subscription Forms**  
-FreeArticlesNow.com.com uses subscription forms for individuals to request information by subscribing to email alerts based on their categories of interest. We collect contact information (like your name and/or email address amoung other data) to provide you with the information that you requested. We do not sell or rent email addresses to any 3rd parties. 
+**Use of Cookies**. A "cookie" is a small text file transferred by a Web Site to a computer that is browsing the Web Site. However freearticlesnow doesnot use cookies to track you! 
 
-  * **Confirm OPT-IN**  
-We provide confirm opt-in opportunities for any email list(s) that you choose to receive. We use your email address to confirm your subscription and validity of the provided email address. Your reply to this email is necessary for completing your subscription to any FreeArticlesNow.com email list or newsletter. You can change the email address that you have subscribed by using our Manage Your Subscriptions form or you can unsubscribe with the email address you're currently subscribed with and then subscribe again with a new email address. 
+**Internet Protocol Addresses**. We collect the IP addresses of all visitors to our Site. We use your IP address in order to administer the Site, help diagnose problems with our server, to gather broad demographic information, and for the "User Tracking" described above.
 
-  * **Unsubscribe**  
-You can unsubscribe/opt-out for any or all email lists that you previously chose to receive. Emails sent to you includes the information necessary for removal from the list. 
+**Hyperlinks**. This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. freearticlesnow has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave the FreeArticlesNow.com Site via one of the links then you should read the privacy policy, if any, provided by the site that you have visited.
 
-  * **User/Member/Client Communications**  
-When you send email or other communications to us, we may retain those communications in order to process your requests and improve the quality of our services. 
+In order to assist in protecting the confidentiality of your personal information, freearticlesnow applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, freearticlesnow cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
+
+**3rd Party Based Advertising**.  
 
 
+  * Google, as a third party vendor, uses cookies to serve ads on FreeArticlesNow.com.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.   
 
 
-## **Personal Information and Other Data We Collect:**
 
-•  FreeArticlesNow.com collects personal information such as your name, email address, postal address, phone numbers, etc. when you register for various services we provide (example: Creating a membership account). We may combine this data with other FreeArticlesNow.com services or 3rd party data to provide a better user experience for you. 
-
-•  FreeArticlesNow.com uses cookies (a piece of data stored on the user's computer) and other technologies to provide you with a quality experience and to learn how you use our services so that we can continually innovate to improve our services. 
-
-•  FreeArticlesNow.com servers may record/log information automatically any time you interact with our site or use any of our products & services. This may include information such as your IP address, URL, browser type, domain name(s), access dates & times, operating system, country of origin, language type, page views and user sessions to help diagnose problems and/or deliver our services to you. 
-
-## **Uses:**
-
-•  We may use the personal information you provided to provide the services you requested and for our own research and analysis to operate and improve on the services and products that we deliver, as well as develop new services and products. 
-
-•  We may share the aggregated non-personal information with 3rd parties outside of FreeArticlesNow.com 
-
-•  We may share information with 3rd parties in limited circumstances when complying with legal process, preventing suspected fraud or imminent harm, and ensuring the security of our network and services. 
-
-•  We may use your postal and electronic address to send you items and/or information relevant to your use of our services. 
-
-•  We may conduct member and/or user survey's in order to improve our services. 
-
-## **Links:**
-
-•  This site contains links to other 3rd party sites and these sites are not covered under our privacy policy. We have made attempts to make sure these links are currently active but do not assure any responsibility for the content of these websites. We highly recommend that you review the privacy policies of these websites as well. 
-
-•  FreeArticlesNow.com may present links in a way that allows us to track whether these links have been followed. We use this information to improve the quality of our services. 
-
-## **Advertising Specific Terms & Conditions: **
-
-We use a combination of internal and 3rd party advertising companies to serve our ads on our website and in our emails, based on personal information. To track the effectiveness of the ads and provide a better user experience, these companies use information about your web visits to our website to serve relevant ads. Information collected and used may include IP address, geographical location, their cookie and and historical data previously collected. We will not provide any personal information to our advertisers when you interact with or view a targeted ad, however, by viewing or interacting with an ad, you are consenting to the possibility that the advertiser will assume you meet the targeting criteria used to display the ad(s). 
-
-## **Security Management and Data Security:**
-
-The FreeArticlesNow.com web site has reasonable security measures in place to protect the loss, misuse and alteration of the information under our control, including management procedures and specialized training for those who work directly with our databases. We take measures to protect against the unauthorized access of personal data, including physical security considerations of the stored data. We restrict access to personal data to FreeArticlesNow.com employees, contractors and agents who need to know that information in order to operate, innovate, and deliver our services. 
-
-## **Notification of Changes:**
-
-From time to time, FreeArticlesNow.com will occasionally update our Privacy Policy. If there are any material changes to how we use your personal information, we will notify via email and provide you the opportunity to opt-out prior to any substantial change that has been taken. However, if you have opted out of all communication from FreeArticlesNow.com you will not be contacted, nor will your personal information be used in this new manner. FreeArticlesNow.com encourages you to periodically review our privacy policy to be informed of how we are committed to protecting your privacy. 
-
-## **Your Choice:**
-
-You can decline to submit personal information for any of our services, in which case FreeArticlesNow.com may not be able to provide services to you. 
-
-## **Legal Disclaimer:**
-
-Though we make every effort to preserve your privacy, we may need to disclose personal information when required by law or in the good-faith belief that such action is necessary in order to conform to the edicts of the law or comply with a legal process served on our web site or to establish or exercise our legal rights or defend against legal claims. 
-
-## **Contacting this Web Site:**
-
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, you can contact: 
