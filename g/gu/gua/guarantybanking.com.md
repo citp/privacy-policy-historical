@@ -1,59 +1,31 @@
-> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617214104id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybanking.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613034834id_/http%3A//www.guarantybanking.com/privacy.aspx) for the most accurate reproduction.*
 
-# GuarantyBank | Privacy Policy
+# Privacy Policy | Guaranty Bank
 
-Guaranty Bank (which does business in Michigan and Georgia under the trade name “BestBank”) and its subsidiaries, collectively “Guaranty”, understands that we receive private, personal information about our customers that they expect will be treated confidentially (“Nonpublic Personal Information”). We believe that we have an affirmative and continuing obligation to respect and protect the privacy of all our customers by maintaining the confidentiality of this information. Guaranty has implemented this privacy policy (the “Policy”) to govern the management of our customer’s Nonpublic Personal Information, including information provided to us on our Internet websites.
+At Guaranty Bank, we understand that we receive private, personal information about you that you expect will be treated confidentially. We believe we have an affirmative and continuing obligation to respect and protect your privacy. We want you to know that we do not sell nonpublic personal information to third parties for any purpose. To help you better understand how we protect your personal information we are providing you with the following statement describing our practices and policies with respect to the privacy of customer information.
 
-## Basic Principles
+## Important Definitions
 
-We respect our current and former customer’s right to keep all personal information confidential and secure from fraud.
+We, our, or _us_ means Guaranty Bank (d/b/a BestBank in Michigan and Georgia) or one of its subsidiaries, including Shelter Mortgage Company, LLC and Guaranty Mortgage Services, LLC. _Nonpublic personal information_ means information about you that we collect in connection with providing a financial product or service to you. Nonpublic personal information does not include information that is available from public sources, such as telephone directories or public government records. An _affiliate_ is within the Guaranty Bank family of companies. An affiliate may include a company we own or control, a company that owns or controls us, and a company that is owned and controlled by the same company that owns or controls us. For example, Shelter Mortgage is an affiliate of Guaranty Bank; Guaranty Mortgage Services is an affiliate of Shelter Mortgage; and Guaranty Bank is an affiliate of Guaranty Mortgage Services. _A nonaffiliated third party is a company that is not an affiliate of ours._
 
-We collect and retain personal information only if allowed by law and do not sell Nonpublic Personal Information to any Nonaffiliated Third Parties (defined below) for any purpose
+## Information We Collect
 
-We only disclose Nonpublic Personal Information about a customer to Nonaffiliated Third Parties in limited circumstances as permitted by law.
+In order to serve our customers in their transactions with us, we collect and retain nonpublic personal information as permitted by law. We may collect nonpublic personal information about you from the following sources:
 
-We do not disclose account numbers to any Nonaffiliated Third Parties for telemarketing, direct mail marketing or electronic mail marketing.
-
-We have established standards and procedures to insure the security and confidentiality of customer records, to protect against any anticipated threats or hazards to the security or integrity of customer records, and to protect against unauthorized access to or use of customer records which could result in substantial harm or inconvenience to the customer.
-
-We educate and train our employees on the importance of confidentiality and customer privacy.
-
-## Types of Information Collected
-
-The following is a list of the types of Nonpublic Personal Information we may collect:
-
-  * Any information a customer provides to us on an application to obtain a loan, an account, a credit card, or other financial product or service.
-  * Account numbers, account balance information, payment history, overdraft history, and credit or debit card purchase information.
-  * The fact that an individual is, or has been, a customer of ours or has obtained a financial product or service from us.
-  * Any information about a customer that indicates that the individual is, or has been, a customer of ours.
-  * Any information that a customer provides to us or that we or our agent obtain in connection with collecting on or servicing a loan.
-  * Any information we collect through an Internet “cookie” (an information-collecting device from a Web server).
-  * Information from a consumer credit report.
+  * Information you provide to us on an application for an account, loan, or other financial product or service
+  * Information about your transactions with us, our affiliates, or others
+  * Information we receive from a credit reporting agency
 
 
 
-## Disclosure of Nonpublic Personal Information
+## Limitations on Information Sharing
 
-We may share Nonpublic Personal Information among Affiliates subject to federal and state laws. Affiliate means any company that controls, is controlled by, or is under common control with Guaranty.
+As noted earlier, Guaranty Bank does not sell nonpublic personal information to third parties for any purpose. We may share nonpublic personal information about you that we collect, as described above, to Guaranty affiliates and nonaffiliated third parties only as permitted by law, such as to process transactions you have requested, to respond to a subpoena or other legal process, or to protect against fraud.
 
-Affiliates include our subsidiaries: GN Mortgage LLC, Shelter Mortgage Company LLC, and GB Home Equity LLC and the various d/b/a’s used by these companies.
+## Service Providers/Joint Marketing Providers
 
-Nonpublic Personal Information may be shared with Nonaffiliated Third Parties as permitted by law. Nonaffiliated Third Party means any person except an Affiliate of ours and a person who is employed jointly by us and any company that is not our Affiliate.
+To provide you with products, services, and special offers that we believe may meet your financial needs, we may share nonpublic personal information that we collect, as described above, to nonaffiliated third parties that conduct marketing services on our behalf, or to inform you of financial products and services offered pursuant to a joint agreement between us and another financial institution, such as a credit card company or insurance company. We do not disclose personal information to affiliates or nonaffiliated third parties to market their own products and services to our customers. Therefore, you do not need to take any action to prevent this disclosure.
 
-All contracts we enter into with Nonaffiliated Third Parties pursuant to a joint marketing agreement shall contain a confidentiality provision prohibiting the disclosure and reuse of Nonpublic Personal Information.
+## How We Protect Your Information
 
-The Nonpublic Personal Information of former customers is treated in the same manner as the Nonpublic Personal Information of current customers.
-
-## Why Information is Shared
-
-We only share Nonpublic Personal Information when we believe such sharing will benefit our customers, within the limits set forth above. This includes sharing information in order to provide our customers with the best products and services possible, as well as in order to make our customers aware of new products and services that may be of interest to them.
-
-## Notice of Policy
-
-A notice of this Policy will be provided to:
-
-  1. All Guaranty customers no later than when a customer relationship is established and at least annually throughout the duration of the customer relationship.
-  2. All consumers (an individual who seeks to obtain a financial product or service from the financial institution, but had not yet established a customer relationship) if Guaranty is going to disclose his or her Nonpublic Personal Information with a Nonaffiliated Third Party. A consumer includes an individual who may provide information when inquiring about a service or product from Guaranty or an individual who uses a Guaranty Bank ATM.
-  3. All employees of Guaranty.
-
-
+We respect our customer’s right to keep all nonpublic personal information confidential and secure from fraud. We maintain strict procedures and policies to govern the management of your nonpublic personal information. All nonaffiliated third parties are legally obligated to maintain the confidentiality of the customer information we provide them and to use the information only for the purposes for which it was provided. Employee access to customer information is limited to those who have a business reason for knowing such information. We educate and train our employees on the importance of confidentiality and customer privacy. In the event you terminate your customer relationship with us, we will continue to protect the privacy of your nonpublic personal information in accordance with our Privacy Policy. If you have any questions regarding this Notice or our Privacy Policy, please call 1-800-235-4636.
