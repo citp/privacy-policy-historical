@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accesskollywood.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085619id_/http%3A//accesskollywood.com/index.php%3Fview%3Darticle%26catid%3D38%253Aextras%26id%3D157%253Aprivacy-policy%26option%3Dcom_content%26Itemid%3D60) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accesskollywood.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613224559id_/http%3A//accesskollywood.com/index.php%3Fview%3Darticle%26catid%3D38%253Aextras%26id%3D157%253Aprivacy-policy%26option%3Dcom_content%26Itemid%3D60) for the most accurate reproduction.*
 
 # Privacy Policy
 
