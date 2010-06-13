@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111130556id_/http%3A//www.wilx.com/unclassified/34218884.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilx.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613233730id_/http%3A//www.wilx.com/unclassified/34218884.html) for the most accurate reproduction.*
 
 # GRAY TELEVISION, INC. PRIVACY POLICY AND YOUR PRIVACY RIGHTS
 
@@ -78,4 +78,4 @@ Except to meet FCC, other regulatory and legal purposes, we will not use, distri
 
 If you have any questions or comments about this policy or our use of Personal Information, you may send an e-mail to lisa.bishop@gray.tv or send a letter to the following address: 
 
-Gray Television, Inc. Attn: Lisa Bishop Vice President Internet Operations & New Media 126 N. Washington Street Albany, GA 31701 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. Copyright © 2009 Gray Television, Inc. All Rights Reserved.
+Gray Television, Inc. Attn: Lisa Bishop Vice President Internet Operations & New Media 126 N. Washington Street Albany, GA 31701 We will use reasonable efforts to promptly investigate any complaint you may have regarding our use of Personal Information. Copyright © 2010 Gray Television, Inc. All Rights Reserved.
