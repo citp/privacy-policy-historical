@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thefunnystuff.net privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429174535id_/http%3A//www.thefunnystuff.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefunnystuff.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613125711id_/http%3A//www.funnieststuff.net/privacy.php) for the most accurate reproduction.*
 
-# Daily Email Newsletter - Funniest Video of the Day
+# Daily Email Newsletter | Funniest Video of the Day
 
 ## Information Collection and Use
 
@@ -26,7 +26,7 @@ Funniest Stuff is committed to protecting the integrity of our web site. We enco
 
 In addition, a member may not make any false or deceptive misrepresentations through Unsolicited Email or other advertising methods with respect to any and all compensation or products received from Funniest Stuff or with respect to compensation or products that potential members are likely to receive.
 
-If you feel like you may have received an unsolicited email from Funniest Stuff - please forward that to us at [abuse@thefunnystuff.net](mailto:%20abuse@thefunnystuff.net) to allow us to investigate. 
+If you feel like you may have received an unsolicited email from Funniest Stuff - please forward that to us at [abuse@funnieststuff.net](mailto:%20abuse@funnieststuff.net) to allow us to investigate. 
 
 ##  Privacy for Children and Minors 
 
@@ -37,6 +37,9 @@ Protecting the privacy of children is important to Funniest Stuff . For that rea
 A cookie is information that a website transfers to your computer for record-keeping purposes. Cookies are typically used to save a user's password so that the user does not have to re-enter their password each time they visit the same website. In addition, cookies can make the Internet more useful by storing information about your preferences on a particular website. The use of cookies is an industry standard, and most websites use them to provide useful features for their members. Most Internet browsers are initially set up to accept cookies. You can set your Internet browser to refuse cookies. However, you may not be able to take full advantage of a website if you do.
 
 Funniest Stuff may use cookies to make sure you don't see the same ad repeatedly and to deliver content specific to your interests and for statistical purposes. In the future, cookies may be used to save your password so you don't have to re-enter it each time you visit our website. Some of our advertisers or other partners may use cookies on our website, but we do not have access to or control over their cookies.
+
+In addition to the information collected by us and registration information submitted by you, we may employ both first-party and third-party cookies. A cookie is a piece of data stored on your hard drive containing activity-based information about you, and it is designed to facilitate the receipt of targeted and relevant advertisements. The cookie is not associated with your personally identifiable information.   
+One of our third-party cookie partners is Datran Media (for information on Datran Media's cookie program, please visit [www.datranmedia.com/aperture](http://www.datranmedia.com/aperture)). To opt out of Datran Media's cookie-based marketing program, [click here](http://rt.displaymarketplace.com/optout.html)
 
 ##  IP Address 
 
