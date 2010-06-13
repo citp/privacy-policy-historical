@@ -1,120 +1,142 @@
-<!--The following is the downloaded HTML source of the conyac.cc privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212121011id_/http%3A//www.conyac.cc/informations/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the conyac.cc privacy policy that was archived on 2010-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613184656id_/http%3A//www.conyac.cc/informations/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-    <meta http-equiv="Ccontent-Type" content="text/html; charset=UTF-8">
+    <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>CONYAC - Social Translation Service</title>
     <meta name="robots" content="ALL">
     <meta name="description" content="This service is provided by anydooR Inc. With a simple operation, you can request translations and translate someone's requests.">
     <meta name="keywords" content="cognac,multilingual,cheap,simple,translate,social,translation,request,english,japanese">
     <link rel="shortcut icon" href="/favicon.ico">
-    <script src="http://www.google.com/jsapi" type="text/javascript"></script>
-    <script type="text/javascript">google.load("language", "1");</script>
-    <script src="http://www.conyac.cc/javascripts/prototype.js?1258510223" type="text/javascript"></script>
-<script src="http://www.conyac.cc/javascripts/effects.js?1258510223" type="text/javascript"></script>
-<script src="http://www.conyac.cc/javascripts/dragdrop.js?1258510223" type="text/javascript"></script>
-<script src="http://www.conyac.cc/javascripts/controls.js?1258510223" type="text/javascript"></script>
-<script src="http://www.conyac.cc/javascripts/application.js?1258510223" type="text/javascript"></script> 
+    <script src="http://www.google.com/jsapi"></script>
     <!--[if lt IE 7.0]>
-    <script src="http://www.conyac.cc/javascripts/fixed.js?1258510223" type="text/javascript"></script> 
+    <script src="http://www.conyac.cc/javascripts/fixed.js?1275282368" type="text/javascript"></script> 
     <![endif]-->
-    <script src="http://www.conyac.cc/javascripts/textarearesizer.js?1258510223" type="text/javascript"></script> 
-    <script src="http://www.conyac.cc/javascripts/tooltip-v0.2.js?1258510223" type="text/javascript"></script> 
-    <script src="http://www.conyac.cc/javascripts/highslide/highslide.js?1258510223" type="text/javascript"></script> 
-    <script src="http://www.conyac.cc/javascripts/jquery.js?1258510223" type="text/javascript"></script>
+    <!--[if lt IE 7]>
+    <script src="http://www.conyac.cc/javascripts/unitpngfix.js?1275282368" type="text/javascript"></script>
+    <![endif]-->
+    <script src="http://www.conyac.cc/javascripts/highslide/highslide.js?1275282368" type="text/javascript"></script> 
+    <script src="http://www.conyac.cc/javascripts/jquery.js?1275282368" type="text/javascript"></script>
+    
+      <script type="text/javascript">
+      //<![CDATA[
+        window._auth_token_name = "#{request_forgery_protection_token}";
+        window._auth_token = "#{form_authenticity_token}";
+      //]]>
+      </script>
+    
+    <script src="http://www.conyac.cc/javascripts/application.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.elastic.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.textarearesizer.compressed.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.notifyBar.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.lazyload.mini.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.boxy.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/charCount.js?1275282368" type="text/javascript"></script>
+    <script src="http://www.conyac.cc/javascripts/jquery.prettyLoader.js?1275282368" type="text/javascript"></script>
+    <link href="http://www.conyac.cc/stylesheets/reset-min.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://www.conyac.cc/stylesheets/fonts-min.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://www.conyac.cc/stylesheets/main.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://www.conyac.cc/stylesheets/highslide/highslide.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://www.conyac.cc/stylesheets/boxy.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link href="http://www.conyac.cc/stylesheets/prettyLoader.css?1275282368" media="screen" rel="stylesheet" type="text/css">
+    <link media="only screen and (max-device-width: 480px)" href="/stylesheets/small-device.css" type="text/css" rel="stylesheet">
     <script type="text/javascript">
-      jQuery.noConflict();
-      var j$ = jQuery;
+    //<![CDATA[
+      $(document).ready(function(){
+        //highslide
+        hs.graphicsDir = '/images/highslide/';
+        //notifybar
+        
+        //loading
+        $.prettyLoader();
+        //$('a,:submit').click(function(event){$.prettyLoader.show();});
+        //lazyload
+        $("img").not('.no_lazy img').lazyload({
+          'placeholder' : "/images/spacer.gif",
+           'effect'       : "fadeIn"
+        });
+        //loading
+        //$.prettyLoader();
+        //$('a,:submit').click(function(event){$.prettyLoader.show();});
+        
+        //link @user, http://***
+        $('.linkable').each(function(){
+          var txt = $(this).text();
+          txt = txt.replace(/(http:\/\/[\x21-\x7e]+)/gi,'<a href="$1">$1</a>');
+          txt = txt.replace(/@(\w+)/g,'<b><a href="http://www.conyac.cc/users/$1">@$1</a></b>'); 
+          $(this).html(txt);
+        });
+        //alert
+        $('a.alert').click(function(event){
+          event.preventDefault();
+          Boxy.confirm('Are you sure to report?', function(){
+            javascript:window.location.href=event.target.href;
+          },{'title' : 'REPORT', 'closeable' : true, 'closeText': '[x]'});
+          return false;
+        });
+        $('a.confirm').click(function(event){
+          event.preventDefault();
+          Boxy.confirm('Are you sure?', function(){
+            javascript:window.location.href=event.target.href;
+          },{});
+          return false;
+        });
+      });
+      //preload
+      preload([
+        '/images/logo.gif',
+      ]);
+    //]]>
     </script>
     
-    <link href="http://www.conyac.cc/stylesheets/reset-min.css?1258510223" media="screen" rel="stylesheet" type="text/css">
-    <link href="http://www.conyac.cc/stylesheets/fonts-min.css?1258510223" media="screen" rel="stylesheet" type="text/css">
-    <link href="http://www.conyac.cc/stylesheets/main.css?1258510223" media="screen" rel="stylesheet" type="text/css">
-    <link href="http://www.conyac.cc/stylesheets/highslide/highslide.css?1258510223" media="screen" rel="stylesheet" type="text/css">
-<style type="text/css">
-  body{behavior: url("http://www.conyac.cc/stylesheets/csshover3.htc?1258510223");}
-.grippie {background:#EEEEEE url("http://www.conyac.cc/images/grippie.png?1258510223") no-repeat scroll center 2px;}
-#menu ul li a:hover, #menu ul li.selected a{background:url(http://www.conyac.cc/images/tri.gif?1258510223) no-repeat 5px bottom;}
-#wrapper{background:url(http://www.conyac.cc/images/logo.gif?1258510223) no-repeat 660px 5px;}
-#feedback {background:transparent url(http://www.conyac.cc/images/feedback.gif?1258510223) no-repeat scroll 0px 0px;}
-
-#account_login{background:transparent url(http://www.conyac.cc/images/user.gif?1258510223) no-repeat scroll 0px 7px;}
-#account_user{background:transparent url(http://www.conyac.cc/images/user.gif?1258510223) no-repeat scroll 0px 7px;}
-#account_setting{background:transparent url(http://www.conyac.cc/images/setting.gif?1258510223) no-repeat scroll 0px 7px;}
-#account_purchase{background:transparent url(http://www.conyac.cc/images/purchase.gif?1258510223) no-repeat scroll 0px 7px;}
-#account_logout{background:transparent url(http://www.conyac.cc/images/exit.gif?1258510223) no-repeat scroll 0px 7px;}
-#paid_info{background:url(http://www.conyac.cc/images/box_right_bottom.gif?1258510223) no-repeat right bottom;}
-#paid_info_mail{background:url(http://www.conyac.cc/images/paid_info_mail.gif?1258510223) no-repeat right bottom;}
-#paid_info_text{background:url(http://www.conyac.cc/images/paid_info_text.gif?1258510223) no-repeat right bottom;}
-#paid_info_private{background:url(http://www.conyac.cc/images/paid_info_private.gif?1258510223) no-repeat right bottom;}
-#point_info{background:url(http://www.conyac.cc/images/box_right_bottom.gif?1258510223) no-repeat right bottom;}
-#point_info_30{background:url(http://www.conyac.cc/images/point_info_30.gif?1258510223) no-repeat right bottom;}
-#point_info_50{background:url(http://www.conyac.cc/images/point_info_50.gif?1258510223) no-repeat right bottom;}
-#point_info_100{background:url(http://www.conyac.cc/images/point_info_100.gif?1258510223) no-repeat right bottom;}
-.information_success{background-image:url(http://www.conyac.cc/images/check.gif?1258510223);}
-.information_alert{background-image:url(http://www.conyac.cc/images/alert.gif?1258510223);}
-.errorExplanation{background:#FFDFE7 url(http://www.conyac.cc/images/alert.gif?1258510223) no-repeat 8px 8px;}
-
-
-</style>
 <script type="text/javascript">
-<!--
-Event.observe( window, "load", function(){
-       $$("*").findAll(function(node){
-         return node.getAttribute('title');
-       }).each(function(node){
-         new Tooltip(node,node.title);
-         node.removeAttribute("title");
-       });
-     });
-hs.graphicsDir = '/images/highslide/';
--->
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-8711154-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
 </script>
   </head>
   <body>
-    
     <div id="wrapper">
-      <div id="header">
-        <div id="tbar">
-          <ul id="account">
-  
-    <li id="account_login"><span><a href="/login">SignIn / SignUp</a></span></li>
-    
-    <li class="last">
-    
-      <a href="/informations/privacy_policy?locale=en" style="border:none;vertical-align:middle;"><img alt="Gb" src="http://www.conyac.cc/images/flag/gb.png?1258510223"></a>
-    
-      <a href="/informations/privacy_policy?locale=es" style="border:none;vertical-align:middle;"><img alt="Es" src="http://www.conyac.cc/images/flag/es.png?1258510223"></a>
-    
-      <a href="/informations/privacy_policy?locale=ja" style="border:none;vertical-align:middle;"><img alt="Jp" src="http://www.conyac.cc/images/flag/jp.png?1258510223"></a>
-    
-      <a href="/informations/privacy_policy?locale=ko" style="border:none;vertical-align:middle;"><img alt="Kr" src="http://www.conyac.cc/images/flag/kr.png?1258510223"></a>
-    
-      <a href="/informations/privacy_policy?locale=ru" style="border:none;vertical-align:middle;"><img alt="Ru" src="http://www.conyac.cc/images/flag/ru.png?1258510223"></a>
-    
-      <a href="/informations/privacy_policy?locale=zh" style="border:none;vertical-align:middle;"><img alt="Cn" src="http://www.conyac.cc/images/flag/cn.png?1258510223"></a>
-    
-    </li>
-  
-</ul>
-
-        </div>
-        <div id="menu">
-  <ul>
-    
-      <li><a href="/questions/new"><span>Ask</span></a></li>
-      <li><a href="/public"><span>Results</span></a></li>
-    
-    <li><a href="/help"><span>Guide</span></a></li>
-  </ul>
-</div>
-
-      </div><!-- header -->
-      <div id="content_wrapper">
-        <div style="clear:both;"></div>
+    <div id="header">
+      <div id="user-panel" class="clearfix">
+        <ul>
         
-
-        <h2 class="pageHeader">Privacy Policy</h2>
+          <li><a href="/login">SignIn / SignUp</a></li>
+          <li>
+            <form action="/informations/privacy_policy" method="get">
+              <select class="alt" id="locale" name="locale" onchange="this.form.submit();"><option value="en">English</option>
+<option value="es">español</option>
+<option value="ja">日本語</option>
+<option value="ko">한국어</option>
+<option value="ru">русский</option>
+<option value="zh">中文</option></select>
+            </form>
+          </li>
+        
+        </ul>
+      </div>
+      <div id="menu" class="clearfix">
+        <ul>
+          <li><a href="/" class="logo"><img alt="Spacer" height="44" src="http://www.conyac.cc/images/spacer.gif?1275282368" width="250"></a></li>
+          
+            <li><a href="/public">Finished Requests</a></li>
+            <li><a href="/login">SignIn / SignUp</a></li>
+          
+          <li><a href="/help">Guide</a></li>
+        </ul>
+      </div>
+    </div>
+    <div id="main" class="clearfix">
+      <h2 class="pageHeader">Privacy Policy</h2>
 <blockquote>
 <p>anydooR Inc. (hereinafter referred to as "Company") is obtaining the minimum information we need to operate the Social Translation Space Conyac (hereinafter referred to as the "Service") from people using this Service (hereinafter referred to as "User"). As the Company manages the Service, it treats and protects the User's personal information with the great care.</p>
 <blockquote>
@@ -201,32 +223,38 @@ hs.graphicsDir = '/images/highslide/';
 </blockquote>
 
 
-        <div style="clear:both;"></div>
-      </blockquote></blockquote></div><!-- main -->
-      <div id="footer">
-        <div id="policy">
-          <a href="/informations/terms_of_service" target="_blank">Terms of Service</a> |
-          <a href="/informations/privacy_policy" target="_blank">Privacy Policy</a> |
-          <a href="http://www.any-door.com" target="_blank">Company</a> | 
-          <a href="http://twitter.com/conyac_en">twitter</a> | 
-          
-          <a href="/help/contact" target="_blank">Contact</a> 
-        </div>
-        <div id="copyright">Copyright © 2009 anydooR . All rights reserved.</div>
-      </div><!-- footer  -->
-    </div><!-- wrapper -->
+    </blockquote></blockquote></div>
+    <div id="footer">
+      <div id="policy">
+        <a href="/informations/terms_of_service" target="_blank">Terms of Service</a> |
+        <a href="/informations/privacy_policy" target="_blank">Privacy Policy</a> |
+        <a href="http://www.any-door.com" target="_blank">Company</a> | 
+        <a href="http://twitter.com/conyac_en">twitter</a> | 
+        
+        <a href="/help/contact" target="_blank">Contact</a> 
+      </div>
+      <div id="copyright">Copyright © 2009 anydooR . All rights reserved.</div>
+    </div>
+    </div>
+<script type="text/javascript">
+var _sf_async_config={uid:7470,domain:"conyac.cc"};
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
 
-  <!--Start Google Analytics-->
-  <script type="text/javascript">
-  var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-  document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-  try {
-    var pageTracker = _gat._getTracker("UA-8711154-1");
-    pageTracker._trackPageview();
-    } catch(err) {}
-  </script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
-  <!--End Google Analytics-->
-
+</script>
   
 
-</body></html>
+<script language="javascript" type="text/javascript" src="https://s3.amazonaws.com/static.chartbeat.com/js/chartbeat.js"></script></body></html>
