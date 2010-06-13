@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2007-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20071212210636id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the best-prepaid-cell-phone-plans.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614012524id_/http%3A//www.best-prepaid-cell-phone-plans.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,6 +95,13 @@ YOUR CONSENT
 By using this site, you consent to the collection and use of this information by us. If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it.
 
   
+**Share this page:  **  
 
 
+What's This?
+
+| | | |   
+---|---|---|---|---  
+| | |   
+  
 [](http://www.sitesell.com/Shambhunath.html)
