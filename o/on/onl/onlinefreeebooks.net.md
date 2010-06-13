@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2009-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090129110057id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinefreeebooks.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613103351id_/http%3A//www.onlinefreeebooks.net/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy » OnlineFreeEBooks.net « the most imitated free ebook site
 
@@ -10,7 +10,7 @@
 **Use of this information**  
 3\. OnlineFreeeBooks.net uses this information to provide you with the service you have requested. For example, if you subscribe to any of our newspapers, we may use your e-mail address to send you a confirmation notice.  
 4\. We may also use the information to communicate with you about new features, products or services, or to improve the services that we offer by tailoring them to your needs.  
-5\. We may allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those ervices. OnlineFreeeBooks.net does not bear any responsibility for any actions or policies of third parties.
+5\. We may allow access to our database by third parties that provide us with services, such as technical maintenance or forums and job search software, but only for the purpose of and to the extent necessary to provide those services. OnlineFreeeBooks.net does not bear any responsibility for any actions or policies of third parties.
 
 **Cookies**  
 6\. OnlineFreeeBooks.net may use cookies to keep some information that are placed by a Web site in a storage place on your own computer. We use cookies to control the display of ads, to track usage patterns on the site, to deliver editorial content, and to record registration and personalization information. Our cookies may contain personally identifiable information and such cookies may be shared with our affiliated companies.  
@@ -18,7 +18,7 @@
 8\. If you don’t want cookies stored on your computers, your Web browser would likely include an option that allows you to not accept cookies. However, if you set your browser to refuse cookies, some portions of OnlineFreeeBooks.net may not function properly.
 
 **Ad Servers**  
-9\. To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense), Kontera, Chitika, Commission Junction, ClickBank etc. that place ads on our web site. As a result of your visit to our site, ad server companies, with the help of cookies, may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of each those websites. Privacy Policy of Google is available at http://www.google.com/privacy.html  
+9\. To try and bring you offers that are of interest to you, we have relationships with other companies like Google (www.google.com/adsense) that use the DART cookie enables, Chitika, etc. that place ads on our web site. As a result of your visit to our site, ad server companies, with the help of cookies, may collect information such as your domain type, your IP address and clickstream information. For further information, consult the privacy policy of each those websites. Privacy Policy of Google and how to opt out of the user of DART cookie is available at [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).  
 10\. While your individual information is protected as outlined above, we reserve the right to use aggregated anonymous data about our users as a group for any business purpose, such as analyzing usage trends and seeking compatible advertisers and partners.
 
 **Children**  
@@ -33,6 +33,3 @@
 
 **Contacting Us**  
 14\. This is the website of OnlineFreeeBooks.net. We can be reached via e-mail at freaky_irish [at] yahoo.com. Please replace [at] with @. If you feel that this site is not following its stated information policy, you may contact us at the above email address.
-
-**You might also be interested in reading:**  
-[commission junction](http://www.onlinefreeebooks.net/pdf-download/commission+junction/), [register](http://www.onlinefreeebooks.net/pdf-download/register/), [Most informative IP address site](http://www.onlinefreeebooks.net/pdf-download/Most+informative+IP+address+site/), [free ebooks sites](http://www.onlinefreeebooks.net/pdf-download/free+ebooks+sites/), [job](http://www.onlinefreeebooks.net/pdf-download/job/), [free e-books for 18 age group and above](http://www.onlinefreeebooks.net/pdf-download/free+e-books+for+18+age+group+and+above/), [Free ebook sites](http://www.onlinefreeebooks.net/pdf-download/Free+ebook+sites/), [commission junction tutorial in pdf books free download](http://www.onlinefreeebooks.net/pdf-download/commission+junction+tutorial+in+pdf+books+free+download/), [free ebooks on business policy](http://www.onlinefreeebooks.net/pdf-download/free+ebooks+on+business+policy/), [fishe c28eh64](http://www.onlinefreeebooks.net/pdf-download/fishe+c28eh64/)
