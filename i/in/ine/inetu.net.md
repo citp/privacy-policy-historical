@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028164956id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inetu.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613100135id_/http%3A//www.inetu.net/privacy.php) for the most accurate reproduction.*
 
-# INetU Managed Hosting - Privacy
+# Privacy Policy – INetU Managed Hosting
 
 INetU Managed Hosting is the sole owner of the information collected on www.inetu.net. INetU Managed Hosting collects personally identifiable information (PII) from our users at several different points on our Web site.
-
-## Contact Forms
 
 When you complete a contact form, we require that you provide certain personally identifiable information, including your name, company, address, and phone number. This information is necessary. It enables us to contact you.
 
@@ -34,13 +32,13 @@ We reserve the right to disclose your personally identifiable information as req
 
 We provide you the opportunity to "opt-out" of having your personally identifiable information used for certain purposes when we ask for this information. For example, when you complete an online inquiry form you have the opportunity to opt-out of receiving our newsletter or any other promotional materials.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@inetu.net](mailto:privacy@inetu.net?subject=Privacy%20Policy), or you may contact us at 610-266-7441 or 744 Roble Rd Suite 70 Allentown PA 18109 to opt-out. 
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [privacy@inetu.net](mailto:privacy@inetu.net), or you may contact us at 610-266-7441 or 744 Roble Rd Suite 70 Allentown PA 18109 to opt-out.
 
 As is true of most Web sites, we gather certain information automatically and store it in log files. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data.
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-We use two third-party tracking services, Google Analytics and Live Person. Both of these use cookies to track non-personally identifiable information about visitors to our site.
+We use two third-party tracking services, Google Analytics and Bold Chat. Both of these use cookies to track non-personally identifiable information about visitors to our site.
 
 We follow generally accepted industry standards to protect the personal information submitted to us both during transmission and once we receive it. INetU's facilities are monitored 24X7X365 using live CCTV systems. Our network is protected by best of breed technology including a secure firewall.
 
@@ -66,19 +64,17 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
 
-## Contact Us
-
-If you have any questions or suggestions regarding our privacy policy, please contact us by emailing us at privacy@inetu.net, or you may contact us at 610-266-7441 or mail:
+If you have any questions or suggestions regarding our privacy policy, please contact us by emailing us at [privacy@inetu.net](mailto:privacy@inetu.net), or you may contact us at 610-266-7441 or mail:
 
 744 Roble Rd  
 Suite 70  
-Allentown PA 18109
+Allentown PA 18109 
 
 INetU Managed Hosting is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the site www.inetu.net and client.inetu.net. Because this web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
 
 INetU Managed Hosting complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
 
-If you have questions or concerns regarding this statement, you should first contact INetU Managed Hosting: privacy@inetu.net, 610-266-7441, 744 Roble Rd Suite 70 Allentown PA 18109.
+If you have questions or concerns regarding this statement, you should first contact INetU Managed Hosting: [privacy@inetu.net](mailto:privacy@inetu.net), 610-266-7441, 744 Roble Rd Suite 70 Allentown PA 18109.
 
 INetU Managed Hosting will respond to your request to access or delete personal information within 30 days as is required under the EU Safe Harbor program.
 
