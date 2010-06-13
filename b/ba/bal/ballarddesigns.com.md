@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ballarddesigns.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/2611) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ballarddesigns.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/2611) for the most accurate reproduction.*
 
 # Your Privacy Rights - Privacy Policy - Ballard Designs
 
@@ -10,9 +10,9 @@ Ballard Designs respects your privacy and is a member of the Direct Marketing As
 
 Ballard Designs is part of the HSNi family of businesses.  HSNi is a retailing powerhouse that spans the full retail spectrum including television (HSN), ecommerce (hsn.com and catalogue websites), catalogues (Cornerstone Brands), and brick & mortar retail (Frontgate, Ballard Designs, The Territory Ahead). For a complete list of all of HSNi's businesses, please visit [www.hsni.com](http://www.hsni.com/). 
 
-At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all HSNi websites.  To read the entire Privacy Policy of Ballard Designs, please click _[here](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)_.
+At HSNi, we respect the privacy of our customers and the importance of the information they entrust to us.  We summarize below the basic information policies and practices in place on all HSNi websites.  To read the entire Privacy Policy of Ballard Designs, please click _[here](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)_.
 
-**Information we may collect ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                               **
+**Information we may collect ([read more](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                               **
 
 We may collect information that can identify you (“personal information”), such as your name, address, and email address, (i) when you (or other users) provide it to us when using our website or in some other manner, or (ii) from other HSNi businesses, from our business partners, and from other third parties.  We may combine the personal information that we receive from different sources. 
 
@@ -40,7 +40,7 @@ We may allow third-party advertising companies or ad networks to display adverti
 
 If you post information about yourself or others, or communicate with others using our website, please note that we cannot control who reads your postings or what they do with the information you provide.  We encourage you to use caution in posting personal information.
 
-**How we may use information we collect** **([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)) ** **                                           
+**How we may use information we collect** **([read more](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613)) ** **                                           
 **  
 We may use information to: ****
 
@@ -55,7 +55,7 @@ We may use information to: ****
 
 
 
-**With whom we may share information we collect ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))          
+**With whom we may share information we collect ([read more](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))          
 **  
 We will not share your personal information with others except as indicated below, or except when we inform you in advance and give you the opportunity to opt out.  We may share personal information with:
 
@@ -68,7 +68,7 @@ We will not share your personal information with others except as indicated belo
 
 We may share aggregated, non-personal information in any of the above situations and also with advertisers and others. 
 
-**Your choices ([read more](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                                                                        
+**Your choices ([read more](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613))                                                                                                        
 **  
 You may choose:
 
@@ -96,7 +96,7 @@ We take appropriate physical, electronic, and other security measures to help sa
 We may occasionally update our Privacy Policy to reflect changes in our practices and services.  If we make material changes in the way we collect, use, or share your personal information, we will notify you by sending you an email to the email address you most recently provided to us and/or by prominently posting notice of the changes on our website.
 
 **How to contact us**  
-If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20091212162758id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613), or our information practices, please contact us by email or postal mail below:
+If you have any questions about this summary, our [Privacy Policy](https://web.archive.org/web/20100613162413id_/http%3A//www.ballarddesigns.com/Customer-Service/Privacy-Policy/Your-Privacy-Rights/c/Customer-Service/Privacy/Full-Policy/c/2613), or our information practices, please contact us by email or postal mail below:
 
 ****Privacy Contact:****  
 Tracy Underwood  
