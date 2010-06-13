@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129075245id_/http%3A//www.knbr.com/pages/inner/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knbr.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613230006id_/http%3A//www.knbr.com/Pages/privacypolicy/tabid/1021/Default.aspx) for the most accurate reproduction.*
 
-# KNBR 680/1050 The Sports Leader: Privacy Policy
+# KNBR 680/1050: The Sports Leader
 
 **CUMULUS MEDIA PARTNERS LLC
 
