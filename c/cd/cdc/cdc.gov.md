@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cdc.gov privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219203818id_/http%3A//www.cdc.gov/doc.do%3Fid%3D0900f3ec80093c90) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdc.gov privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614013137id_/http%3A//www.cdc.gov/doc.do%3Fid%3D0900f3ec80093c90) for the most accurate reproduction.*
 
 # CDC - CDC Privacy Policy
 
