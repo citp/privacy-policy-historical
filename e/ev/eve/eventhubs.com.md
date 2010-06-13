@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212110500id_/http%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventhubs.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613145736id_/http%3A//www.eventhubs.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy -- EventHubs.com
 
@@ -13,3 +13,7 @@ Our Website typically collects two kinds of information about you: (a) informati
 (2) Non-Personal Information: Our definition of non-personal information is any information that does not personally identify you. Non-personal information can include certain personally identifiable information that has been de-identified; that is, information that has been rendered anonymous. We obtain non-personal information about you from information that you provide us, either separately or together with your personally identifiable information. We also automatically collect certain non-personal information from you when you access our Website. This information can include, among other things, IP addresses, the type of browser you are using (e.g., Internet Explorer, Firefox, Safari, etc.), the third party website from which your visit originated, the operating system you are using (e.g., Vista, Windows XP, Mac OS, etc.), the domain name of your Internet service provider (e.g., America Online, NetZero, etc.), the search terms you use on our Website, the specific web pages you visit, and the duration of your visits.
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not including** your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
+
+These companies may or may not use behavioral targeting and/or multi-site advertising to serve advertisements.
+
+You can opt out of of targeted advertising delivered by Network Advertising Initiative (NAI) member ad networks by [clicking here](http://www.networkadvertising.org/managing/opt_out.asp).
