@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the articlesbay.org privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524211648id_/http%3A//www.articlesbay.org/ppolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbay.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613101300id_/http%3A//articlesbay.org/ppolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy - ArticlesBay.org
 
@@ -24,7 +24,7 @@ ArticlesBay.org do everything possible to maintain strict content guidelines and
 
 ArticlesBay.org partners with various ads systems from time to time; this will not affect your service or rights in any manner. Language, banners, text, URL's, graphics displayed on these Ad systems are not owned or maintained by ArticlesBay.org therefore we are not responsible for any such content which displayed ads owned by these ad systems.
 
-Also we use **third-party advertising** (like [Google Adsense](http://www.quickonlinetips.com/archives/google-adsense/)) to serve ads when you visit our Web site pages. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to show ads based on their visit and interest in subject available on our site. If you would like to opt out of the DART cookie, check the method on [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
+Also we use **third-party advertising** (like [Google Adsense](https://www.google.com/adsense/)) to serve ads when you visit our Web site pages. Google, as a third party vendor, uses cookies to serve ads on our site. Google’s use of the DART cookie enables it to show ads based on their visit and interest in subject available on our site. If you would like to opt out of the DART cookie, check the method on [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
 
 Please note that these companies may use collected information (not including any of your personal details) about your visits to this and other web sites in order to provide advertisements of your interest. Looking for more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
@@ -34,4 +34,4 @@ ArticlesBay.org's privacy policy changes time to time and changes are posted on 
 
 ARTICLESBAY.ORG IS A FREE ARTICLES HOSTING WEBSITE, WE DO NOT PROVIDE OR SUPPORT ANY LEGAL CONSIQUENCES AND ANY PARTY IN ANY MANNER. IF YOU ARE NOT AGREE WITH OUR PRIVACY POLICY THEN WE REQUEST YOU NOT TO CREATE ACCOUNT OR POST ARTICLES OR POST COMMENTS ON ARTICLESBAY.ORG
 
-If you still have question about ArticlesBay.org's privacy policy then please [contact us](https://web.archive.org/web/20090524211648id_/http%3A//www.articlesbay.org/contact.html). 
+If you still have question about ArticlesBay.org's privacy policy then please [contact us](https://web.archive.org/web/20100613101300id_/http%3A//articlesbay.org/contact.html). 
