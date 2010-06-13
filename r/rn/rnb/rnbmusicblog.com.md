@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214021028id_/http%3A//www.rnbmusicblog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rnbmusicblog.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613123710id_/http%3A//www.rnbmusicblog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RnB Music Blog
 
@@ -24,6 +24,8 @@ DoubleClick DART Cookie
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
 Google Adsense  
 Chitika
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here http://www.networkadvertising.org/managing/opt_out.asp
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.rnbmusicblog.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
