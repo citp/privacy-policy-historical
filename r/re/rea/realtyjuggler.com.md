@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618144549id_/http%3A//www.realorganized.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyjuggler.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613034918id_/http%3A//www.realtyjuggler.com/privacy_policy.html) for the most accurate reproduction.*
 
-# RealOrganized, Inc. Privacy Policy
+# RealtyJuggler Privacy Policy
 
 RealOrganized, Inc. respects and is committed to protecting your privacy. This document describes our Privacy Policy. 
 
@@ -26,10 +26,10 @@ Our customers use RealOrganized, Inc. software and services to organize and stor
 All personally identifiable information RealOrganized, Inc. collects on a customer is available for viewing and editing by our customer by accessing their profile. You can edit or delete your Account Information at any time from our web site by signing in and changing your profile.
 
 **Data Retention**  
-RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by accessing their account and activating the appropriate control setting.
+RealOrganized, Inc. retains all sales and account information indefinitely. This information is used for accounting and tax purposes. Customer Private Information is retained for a minimum of six months after a subscription has been cancelled or deactivated. This is to permit reactivation of the account by the customer at a later date. Customer Private Information can be explicitly destroyed at any time by the customer by contacting RealOrganized, Inc. and requesting that your acocunt be deleted.
 
 **E-Mail**  
-We may send you an e-mail periodically about important upgrades to products that you own or have made enquiries about. We will not spam you with newsletters or other junk e-mail, nor do we share your information with anyone else. You can un-subscribe from these announcements by following the unsubscribe instructions in the e-mail. E-mail's which are considered essential for transacting business with RealOrganized, Inc. cannot be unsubscribed to. For example, notification of a purchase will always be sent to a customer. 
+We may send you an e-mail periodically about important upgrades to products that you own or have made enquiries about. E-mail's which are considered essential for transacting business with RealOrganized, Inc. cannot be unsubscribed to. For example, notification of a purchase will always be sent to a customer. RealOrganized, Inc. does not make available your Email address to third parties, except as required to complete a transaction.
 
 **Surveys & Contests **  
 From time-to-time our site requests information from users via surveys or contests.  Participation in these surveys or contests is voluntary.  Information collected may include contact information (such as name and shipping address), and demographic information (such as zip code and age).  Contact information will be used to notify the winners and award prizes.  Survey information will be used for purposes of monitoring or improving our products. 
@@ -50,7 +50,7 @@ If a user elects to use our referral service for informing a friend about our si
 RealOrganized, Inc. may update this policy. If it does, it will post changes on its web site.
 
 **Security**  
-The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/web/20090618144549id_/http%3A//www.realorganized.com/security_statement.html).
+The security of your information is important to us. For this reason, we have created an extensive security program to ensure that your information is secure. You can read more about it [here](https://web.archive.org/web/20100613034918id_/http%3A//www.realtyjuggler.com/security_statement.html).
 
 We invite you to contact us regarding this policy. You may contact us my mail at the following address:
 
@@ -60,9 +60,6 @@ Windsor, Colorado
 80528   
 USA
 
-You may contact us via e-mail at: [support@RealOrganized.com](mailto:support@RealOrganized.com) or via phone at: (800) 681-5089 (USA)
+You may contact us via our online HelpDesk or via phone at: (970) 672-3467
 
-Date Last Modified: Sept 26, 2006 
-
-© 2004-2009 RealOrganized, Inc. All rights reserved.  
-RealOrganized and RealtyJuggler are trademarks of RealOrganized, Inc.
+Date Last Modified: November 26, 2009 
