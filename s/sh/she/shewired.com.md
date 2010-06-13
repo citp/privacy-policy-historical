@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shewired.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231142804id_/http%3A//heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shewired.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613124742id_/http%3A//heremedia.com/legal/privacy_policy) for the most accurate reproduction.*
 
 # Here Media
 
@@ -51,4 +51,4 @@ Due to changes in legislation, best practices, or enhancements to functionality 
 
 Here Media, Inc    |    10990 Wilshire Boulevard, Penthouse    |    Los Angeles, CA 90024    |    Phone: (310) 806-4288    |    Fax: (310) 806-4268 
 
-©2009 HERE MEDIA, LLC
+©2010 HERE MEDIA, INC
