@@ -1,16 +1,7 @@
-> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228233640id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the football-lineups.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614001710id_/http%3A//www.football-lineups.com/main/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement - Football
 
-|   
----|---  
-|   
-|  |  |  |  |  |   
----|---|---|---|---  
-|  | [Home](https://web.archive.org/)| | [Tournaments](https://web.archive.org/tournaments/)| | [Countries](https://web.archive.org/country/)| | [Tactics](https://web.archive.org/tactic/4-3-1-2/)| | [Your 11](https://web.archive.org/my11/)| | [About](https://web.archive.org/about/)  
----|---|---|---|---|---|---|---|---|---|---  
-|  |  [](http://www.addthis.com/bookmark.php)  
-|  |  |  |   
 |  |  | 
 
 | |  |    
@@ -35,6 +26,4 @@ These companies may use information (not including your name, address, email add
 ---|---|---  
   
   
-|  |   
-|  |  |  |   
-| 
+| | 
