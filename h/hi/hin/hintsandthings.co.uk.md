@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2009-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091209030319id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hintsandthings.co.uk privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613120607id_/http%3A//www.hintsandthings.co.uk/Privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -16,7 +16,7 @@ Google's use of the DART cookie enables it to serve ads to your users based on t
 
 June Jackson
 
-Copyright © 2000-2009 Hints and Things  
+Copyright © 2000-2010 Hints and Things  
 All Rights Reserved.
 
 No portion of this site may be reproduced or redistributed without prior written permission from Hints and Things. All trademarks & copyrights throughout Hints and Things remain the property of their respective owners.
