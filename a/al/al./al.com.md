@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212090940id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the al.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614003505id_/http%3A//www.al.com/privacypolicy) for the most accurate reproduction.*
 
-# al.com: Privacy Policy
+# Privacy Policy - al.com
 
 Last Revised **January 8, 2008**
 
-**Kids and parents click here!**
+ **Kids and parents click here!**
 
 The following Privacy Policy summarizes the various ways that **Alabama Live LLC [al.com and gulflive.com]** (“Service Provider,” “we” or “our”) treats the information you provide while using **www.al.com** (“Website”). It is our goal to bring you information that is tailored to your individual needs and, at the same time, protect your privacy. 
 
@@ -66,18 +66,7 @@ Privacy Policy Coordinator
 **Birmingham, AL 35233**  
 **[Contact Us](https://web.archive.org/contactus)**
 
+
+
+
 al.com is an affiliate of Advance Internet. [Advance Internet](http://www.advanceinternet.com/) is a leading creator of local news and information web sites, created in alliance with over 36 newspapers owned and operated by [Advance Publications Inc.](http://www.advance.net/)
-
-
-|  |  |  |    
-  
-  
-  
-| **FROM OUR ADVERTISERS**  
----  
->>   
->>    
->>   
-  
-  
-
