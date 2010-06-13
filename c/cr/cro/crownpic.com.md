@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crownpic.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523085613id_/http%3A//crownpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crownpic.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613231031id_/http%3A//crownpic.com/info.php%3Fact%3Dprivacy_policy) for the most accurate reproduction.*
 
 # CROWNpic.com » More Information » Privacy Policy
 
