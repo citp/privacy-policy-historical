@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2009-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090914142747id_/http%3A//www.netshelter.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netshelter.net privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614001723id_/http%3A//www.netshelter.net/privacy) for the most accurate reproduction.*
 
 # NetShelter Technology Media
 
@@ -34,7 +34,7 @@ At some NetShelter properties, including this one, we collect personally-identif
 We may retain such information for up to two years.  Aggregate reports generated from such information may be kept longer.  
 **  
 ****Opt-Out**  
-NetShelter is a member of the Network Advertising Initiative, a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. To learn more about behavioral advertising in general, and to exercise your right to opt-out of this practice, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
+We partner with third parties for certain advertising services. These third parties may be members of the Network Advertising Initiative (NAI), a coalition of online advertising networks that provides an opportunity for consumers to opt-out of targeted advertising by member companies. To learn more about behavioral advertising in general, and to exercise your right to opt-out of this practice, [**click here**](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Please note that if you change your computer, change your internet browser (e.g. from Internet Explorer to Firefox), or delete all your cookies, you will need to renew your opt-out.  
 **  
