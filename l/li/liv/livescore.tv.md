@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livescore.tv privacy policy that was archived on 2009-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090621050255id_/http%3A//livescore.tv/default.dll%3Fpage%3Dpolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livescore.tv privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613230753id_/http%3A//livescore.tv/soccer/policy) for the most accurate reproduction.*
 
 # LiveScore.com - Soccer Live Scores
 
@@ -33,4 +33,4 @@ If you do not want the benefit of cookies, there is a simple procedure to manual
 
  **Third party ad serving**
 
-LiveScore Ltd also works with some other third parties that serve ads to this site (i.e. Doubleclick, Realmedia, 24/7, Zedo,...). We only choose to use ad serving solutions of companies whose Privacy Policy is in line with ours and if you would like to find out more about how they manage the privacy of information in conjunction with serving ads on this site, or if you have any additional questions about our dedication to consumer privacy, please contact us at [LiveScore Ltd.](https://web.archive.org/default.dll?page=contact)
+LiveScore Ltd also works with some other third parties that serve ads to this site (i.e. Doubleclick, Realmedia, 24/7, Zedo,...). We only choose to use ad serving solutions of companies whose Privacy Policy is in line with ours and if you would like to find out more about how they manage the privacy of information in conjunction with serving ads on this site, or if you have any additional questions about our dedication to consumer privacy, please contact us at [LiveScore Ltd.](https://web.archive.org/soccer/contact/)
