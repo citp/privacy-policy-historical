@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the scenetube.net privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111201113id_/http%3A//www.scenetube.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scenetube.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613174512id_/http%3A//www.scenetube.net/uncategorized/8062-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Scenetube.net - The Best Place To Share And Download !
+# Privacy Policy | Scenetube.net - Share & Download The Latest Releases!
+
+[Home](http://www.scenetube.net/ "Go to homepage") > [Miscellaneous](http://www.scenetube.net/category/uncategorized "View all posts in Miscellaneous") > Privacy Policy 
+
+## Privacy Policy
 
 Scenetube.net is committed to protecting your privacy. Scenetube.net does not sell, trade or rent your personal information to other companies. Scenetube.net will not collect any personal information about you except when you specifically and knowingly provide such information.  
 By using our Web site, you consent to the collection and use of this information by Scenetube.net. If we decide to change our privacy policy, we will post the changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. Currently, Scenetube.net may provide aggregate statistics about our traffic patterns, and related site information to reputable third-party vendors, but these statistics will include no personal identifying information.
@@ -15,4 +19,10 @@ Modification of Privacy Policy
 
 scenetube.net reserves the right, at any time, to modify, alter or update the Privacy Policy and you agree to be bound by such modifications, alterations or updates.
 
-**Share to your favourite sites :**
+[**Fast Download From Usenet;**](http://www.binverse.com/bnv/DownloadNow.cfm?ap_id=10928)
+
+[Privacy Policy](http://www.binverse.com/bnv/DownloadNow.cfm?ap_id=10928) is available on Usenet with over 800 Terabytes of Uploads to choose from.Download anything **At Unlimited Speed**. Signup process takes just 10 sec to go. 14 Days Free Trial is available !
+
+Tags: 
+
+Comments are closed. 
