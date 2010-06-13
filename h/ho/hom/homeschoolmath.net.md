@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2009-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090615064124id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the homeschoolmath.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613105919id_/http%3A//www.homeschoolmath.net/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy of www.homeschoolmath.net
+
+Subscribe to [Homeschool Math Newsletter](http://www.homeschoolmath.net/newsletter/) \- filled with math teaching information
+
+[May-June 2010 newsletter](http://www.homeschoolmath.net/newsletter/volume40-may-2010.htm)
 
 [Latest from my blog](http://homeschoolmath.blogspot.com/)  
 This is where you'll find the latest happenings, news, & ideas in math teaching 
 
-[Newsletter](http://www.homeschoolmath.net/newsletter/)  
-Subscribe or see the past volumes. Filled with math teaching information.  
-[May 2009 newsletter](http://www.homeschoolmath.net/newsletter/volume30-may-2009.htm)
-
 [Math teaching videos](http://www.youtube.com/user/mathmammoth/)  
 My videos at YouTube show you how to teach concepts.   
-[Subtracting integers video](http://www.youtube.com/watch?v=Va_CiPK49vU)
+[How to teach long division](http://www.youtube.com/watch?v=dj1p_U4jPL0)
 
 Hover your mouse above to open a menu of various worksheets you can generate for free! Advice, reviews, and resources to help you choose a math curriculum! Games you can play online, interactive tutorials, fun math websites and more. Arranged by topic/level for ease of use. Learn how to TEACH concepts or about general concerns in math education. 
 
@@ -24,11 +24,8 @@ A list of free message boards, math help websites, and online tutoring services.
 [My Amazon Store](http://astore.amazon.com/homeschoolmat-20)  
 See some math products I recommend. 
 
-I have two games on my site, plus links to many. 
+I have two games on my site, plus links to many.  | 
 
-|    |   
----|---  
-  
 The main activities of Homeschool Math website (www.homeschoolmath.net) is to offer free resources for mathematics teaching.
 
 You can access and browse Homeschool Math website without disclosing any of your personal information (such as name, address, telephone number, email address, or credit card information) nor do we collect information about our visitors from any public records. 
@@ -51,17 +48,12 @@ You can choose to disable or selectively turn off the third-party cookies in you
 
 To see Amazon's and Google's privacy policies, click here: [Amazon.com Privacy Notice](http://www.amazon.com/exec/obidos/tg/browse/-/468496/102-6533223-3461729) or [Google Ads Privacy Policy](http://www.google.com/privacy_ads.html). 
 
-The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20090615064124id_/http%3A//www.homeschoolmath.net/question.php).
+The website is owned and maintained by Maria Miller. If you have an enquiry or concern about our privacy policy, please [contact me here](https://web.archive.org/web/20100613105919id_/http%3A//www.homeschoolmath.net/question.php).
 
-** |    
-| 
+** | 
 
-[](http://www.1shoppingcart.com/app/?Clk=2813785)  
+[TenMarks: An affordable summer math program](http://www.shareasale.com/r.cfm?B=231313&U=435976&M=27183)
+
   
----  
-  
-[**Times Tales**](http://www.1shoppingcart.com/app/?Clk=2813785)
+[](http://www.1shoppingcart.com/app/?Clk=3558878)   
 
-Learn the upper times tables (6s, 7s, 8s, 9s) with fun **mnemonic stories.**
-
-**NEW!** Receive a [free trial download](http://www.triggermemorysystem.com/TrialDownload.html) of Times Tales PLUS a free Memory Trigger Ebook.
