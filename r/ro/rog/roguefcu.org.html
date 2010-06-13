@@ -1,501 +1,224 @@
-<!--The following is the downloaded HTML source of the roguefcu.org privacy policy that was archived on 2006-09-23.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20060923102547id_/http%3A//www.roguefcu.org/ASP/privacy.asp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the roguefcu.org privacy policy that was archived on 2010-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613023249id_/http%3A//roguefcu.org/privacy) for the most accurate reproduction.-->
 
-<html><head><script language="JavaScript">
-function display_secureform(pagename) {
-	myWindow = window.open(pagename, "Secure_Server", "toolbar=0,location=0,directories=0,status=1,menubar=0,scrollbars=1,resizable=no,copyhistory=0,width=500,height=375");
-}
-function display_printform(pagename) {
-	myWindow = window.open(pagename, "Secure_Server", "toolbar=1,location=0,directories=0,status=1,menubar=1,scrollbars=1,resizable=yes,copyhistory=0,width=640,height=420");
-}
-</script>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en" class="js"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Rogue FCU | Privacy Policy Disclosure</title>
+    <meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+    <meta name="description" content="Rogue Federal Credit Union - Medford, Oregon">
+    <meta name="keywords" content="financial institution, savings, checking, loans, rogue valley">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<link rel="shortcut icon" href="/sites/all/themes/rfcu/favicon.ico" type="image/x-icon">
+<style type="text/css" media="all">@import "/modules/node/node.css";</style>
+<style type="text/css" media="all">@import "/modules/system/defaults.css";</style>
+<style type="text/css" media="all">@import "/modules/system/system.css";</style>
+<style type="text/css" media="all">@import "/modules/user/user.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/cck/content.css";</style>
+<style type="text/css" media="all">@import "/sites/all/modules/date/date.css";</style>
+<style type="text/css" media="all">@import "/sites/all/themes/rfcu/style.css";</style>
+<script type="text/javascript" src="/misc/jquery.js"></script>
+<script type="text/javascript" src="/misc/drupal.js"></script>
+<script type="text/javascript" src="/sites/all/modules/roguefcu/roguefcu.js"></script>
+<script type="text/javascript" src="/sites/all/modules/spamspan/spamspan.compressed.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "googleanalytics": { "trackOutgoing": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|avi|csv|doc|exe|flv|gif|gz|jpe?g|js|mp(3|4|e?g)|mov|pdf|phps|png|ppt|rar|sit|tar|torrent|txt|wma|wmv|xls|xml|zip", "LegacyVersion": 0 }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "t": "t" } } });</script>
+  </head>
+  <body class="sidebars">
+    <div id="page-container">
 
- 
-
-	<title>Privacy Policy</title> 
-	<meta name="GENERATOR" content="Cavion Plus Branch Product">
-	<meta name="KEYWORDS" content="credit union,Federal Credit Union,on-line banking,online banking,PC banking,bank from home,home banking">
-	<link href="styles.css" rel="stylesheet" type="text/css">
-	  <script language="Javascript">
-	function makearray(n) {
-		this.length = n
-		for (var i = 1; i <= n; i++) {
-			this[i] = null;
-		}
-		return this;
-	}
-	
-	function IsIn(value,search) {
-		if(search.indexOf(value) != -1) {
-			return 1;
-		} else {
-			return 0;
-	   }
-	}
-	
-	function LeadZero(value) {
-		if ( value < 10) document.write('0');
-	}
-	
-	function putDate() {
-		var operators = 'dDmMyY%';
-		var value = '';
-		
-		var format = '%B %d, %Y';
-		var twoplace = 0;	// if 1 then use leading zeros
-		var today = new Date();
-		
-		// get the numbers 
-		weekday = today.getDay();
-		month = today.getMonth();
-		year=today.getYear();
-		date = today.getDate();
-		var days = new makearray(7);
-		days[0] = 'Sunday';
-		days[1] = 'Monday';
-		days[2] = 'Tuesday';
-		days[3] = 'Wednesday';
-		days[4] = 'Thursday';
-		days[5] = 'Friday';
-		days[6] = 'Saturday';
-		var months = new makearray(12);
-		months[0] = 'January';
-		months[1] = 'February';
-		months[2] = 'March';
-		months[3] = 'April';
-		months[4] = 'May';
-		months[5] = 'June';
-		months[6] = 'July';
-		months[7] = 'August';
-		months[8] = 'September';
-		months[9] = 'October';
-		months[10] = 'November';
-		months[11] = 'December';
-		var pos = 0;
-		while (pos < format.length) {
-			if( format.substring(pos,pos+1) != '%') 
-			{
-				document.write(format.substring(pos,pos+1));
-				pos++;
-				continue;
-			} else {
-				if (!IsIn(format.substring(pos,pos+1), operators))		{			document.write(format.substring(pos,pos+1));
-					pos++;
-					continue;
-				} else {
-					if ( format.substring(pos,pos+1) == '%') 			{
-						pos++; // look ahead
-						if (format.substring(pos,pos+1) == '%') 
-						{
-							document.write('%');
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'd') 
-						{
-							if(twoplace) LeadZero(date);
-							document.write(date);
-							pos++;
-							continue;
-						} else {				if (format.substring(pos,pos+1) == 'A') 
-						{					document.write(days[weekday]);
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'a') 
-						{
-							document.write(days[weekday].substring(0,3));
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'm') 
-						{
-							if(twoplace) LeadZero(month+1);
-							document.write(month+1);
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'B') 
-						{
-							document.write(months[month]);
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'b') 
-						{					document.write(months[month].substring(0,3));
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'y') 
-						{
-							document.write(year);
-							pos++;
-							continue;
-						} else {
-						if (format.substring(pos,pos+1) == 'Y') 
-						{
-						currentBrowser = navigator.userAgent;
-							if (currentBrowser.indexOf("MSIE") >= 0) {
-								document.write(year);
-							}
-							else {
-								document.write(1900 + year);
-							}
-							pos++;
-							continue;
-						} 
-			   pos++; // ignore the char 
-				}
-		} } } } } } } } } } }
-	}
-</script>
-</head>
-<body topmargin="0" leftmargin="0" marginheight="0" marginwidth="0" bgcolor="#FFFFFF" text="#000000" link="#007EA1" vlink="#00896C" alink="#81C5B7">
- <script type="text/javascript">
-function mmLoadMenus() {
-var LiteBgColor = "#FFFFFF";
-var BorderBgColor = "#FFFFFF";
-var menuBg = "#ffffff";
-var menuMainBg = "#00896C";
-var fontSize = 11;
-var fontNormalColor = "#FFFFFF";
-var fontLinkedColor = "#ffffff";
-var hoverMenuBg = "#007EA1";
-var borderWidth = 1;
-var iconSrc = "../images/arrows.gif";
-var fontFace = "Arial Bold, Helvetica, sans-serif";
-
-
-window.menu1003 = new Menu("Rates",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1003.childMenuIcon=iconSrc;menu1003.menuBorder=borderWidth;menu1003.menuLiteBgColor=LiteBgColor;menu1003.menuBorderBgColor=BorderBgColor;menu1003.bgColor=menuBg;menu1003.hideOnMouseOut=true;menu1003.addMenuItem("Saving/Certificate Rates","location='../ASP/rates_save.asp?';");menu1003.addMenuItem("Loan Rates","location='../ASP/Services/service_5_3.asp';");menu1003.addMenuItem("Mortgage Rates","location='../ASP/Services/service_5_4.asp';");menu1003.addMenuItem("Home Equity Rates","location='../ASP/Services/service_5_5.asp';");
-
-window.menu1012 = new Menu("Mortgage Loans",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1012.childMenuIcon=iconSrc;menu1012.menuBorder=borderWidth;menu1012.menuLiteBgColor=LiteBgColor;menu1012.menuBorderBgColor=BorderBgColor;menu1012.bgColor=menuBg;menu1012.hideOnMouseOut=true;menu1012.addMenuItem("Mortgage Consultant","location='../ASP/Products/product_3_4.asp';");window.menu1004 = new Menu("Products",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1004.childMenuIcon=iconSrc;menu1004.menuBorder=borderWidth;menu1004.menuLiteBgColor=LiteBgColor;menu1004.menuBorderBgColor=BorderBgColor;menu1004.bgColor=menuBg;menu1004.hideOnMouseOut=true;menu1004.addMenuItem("Savings","location='../ASP/Products/product_1.asp';");menu1004.addMenuItem("Checking","location='../ASP/Products/product_2.asp';");menu1004.addMenuItem("Consumer Loans","location='../ASP/Products/product_3.asp';");menu1004.addMenuItem(menu1012,"location='../ASP/Products/product_4.asp';");menu1004.addMenuItem("Visa Credit Cards","location='../ASP/Products/product_5.asp';");menu1004.addMenuItem("IRA","location='../ASP/Products/product_6.asp';");
-
-window.menu1015 = new Menu("24 Hour Services",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1015.childMenuIcon=iconSrc;menu1015.menuBorder=borderWidth;menu1015.menuLiteBgColor=LiteBgColor;menu1015.menuBorderBgColor=BorderBgColor;menu1015.bgColor=menuBg;menu1015.hideOnMouseOut=true;menu1015.addMenuItem("Call 24","location='../ASP/Services/service_1_2.asp';");window.menu1017 = new Menu("Convenience Services",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1017.childMenuIcon=iconSrc;menu1017.menuBorder=borderWidth;menu1017.menuLiteBgColor=LiteBgColor;menu1017.menuBorderBgColor=BorderBgColor;menu1017.bgColor=menuBg;menu1017.hideOnMouseOut=true;menu1017.addMenuItem("ATM's","location='../ASP/Services/service_3_1.asp';");menu1017.addMenuItem("Travelers Cheques","location='../ASP/Services/service_2_5.asp';");window.menu1164 = new Menu("Services",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1164.childMenuIcon=iconSrc;menu1164.menuBorder=borderWidth;menu1164.menuLiteBgColor=LiteBgColor;menu1164.menuBorderBgColor=BorderBgColor;menu1164.bgColor=menuBg;menu1164.hideOnMouseOut=true;menu1164.addMenuItem(menu1015,"location='../ASP/Services/service_1.asp';");menu1164.addMenuItem("Automated Services","location='../ASP/Services/service_2.asp';");menu1164.addMenuItem(menu1017,"location='../ASP/Services/service_3.asp';");menu1164.addMenuItem("Community Services","location='../ASP/Services/service_4.asp';");
-
-window.menu1127 = new Menu("Youth Programs",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1127.childMenuIcon=iconSrc;menu1127.menuBorder=borderWidth;menu1127.menuLiteBgColor=LiteBgColor;menu1127.menuBorderBgColor=BorderBgColor;menu1127.bgColor=menuBg;menu1127.hideOnMouseOut=true;menu1127.addMenuItem("Kitty Club Program","location='../asp/products/product_1_3.asp';");menu1127.addMenuItem("Middle School Program","location='../asp/products/product_1_2.asp';");menu1127.addMenuItem("High School Program","location='../asp/products/product_1_4.asp';");
-
-window.menu1159 = new Menu("Applications",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1159.childMenuIcon=iconSrc;menu1159.menuBorder=borderWidth;menu1159.menuLiteBgColor=LiteBgColor;menu1159.menuBorderBgColor=BorderBgColor;menu1159.bgColor=menuBg;menu1159.hideOnMouseOut=true;menu1159.addMenuItem("Consumer/Visa Application","location='../ASP/loan.asp';");menu1159.addMenuItem("Home Equity Application","location='../asp/homeequity.asp';");window.menu1106 = new Menu("Savings Calculators",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1106.childMenuIcon=iconSrc;menu1106.menuBorder=borderWidth;menu1106.menuLiteBgColor=LiteBgColor;menu1106.menuBorderBgColor=BorderBgColor;menu1106.bgColor=menuBg;menu1106.hideOnMouseOut=true;menu1106.addMenuItem("Single Deposit","location='../single.htm';");menu1106.addMenuItem("Multiple Deposit","location='../multiple.htm';");window.menu1107 = new Menu("Mortgage Calculators",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1107.childMenuIcon=iconSrc;menu1107.menuBorder=borderWidth;menu1107.menuLiteBgColor=LiteBgColor;menu1107.menuBorderBgColor=BorderBgColor;menu1107.bgColor=menuBg;menu1107.hideOnMouseOut=true;menu1107.addMenuItem("Bi-weekly","location='../biweekly.htm';");menu1107.addMenuItem("Refinance","location='../refinanc.htm';");menu1107.addMenuItem("Mortgage","location='../ASP/mortgcalc.asp';");window.menu1100 = new Menu("Calculators",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1100.childMenuIcon=iconSrc;menu1100.menuBorder=borderWidth;menu1100.menuLiteBgColor=LiteBgColor;menu1100.menuBorderBgColor=BorderBgColor;menu1100.bgColor=menuBg;menu1100.hideOnMouseOut=true;menu1100.addMenuItem("Loan Calculator","location='../ASP/loancalc.asp';");menu1100.addMenuItem(menu1106,"location='../savcalc.htm';");menu1100.addMenuItem(menu1107,"location='../mortgage.htm';");menu1100.addMenuItem("Calculator List","location='../listing.htm';");window.menu1125 = new Menu("Info Desk",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1125.childMenuIcon=iconSrc;menu1125.menuBorder=borderWidth;menu1125.menuLiteBgColor=LiteBgColor;menu1125.menuBorderBgColor=BorderBgColor;menu1125.bgColor=menuBg;menu1125.hideOnMouseOut=true;menu1125.addMenuItem("Fee Schedule","location='../ASP/cufees.asp';");menu1125.addMenuItem(menu1100,"location='../calculat.htm';");menu1125.addMenuItem("Privacy Policy","location='../ASP/privacy.asp';");window.menu1006 = new Menu("Online Services",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1006.childMenuIcon=iconSrc;menu1006.menuBorder=borderWidth;menu1006.menuLiteBgColor=LiteBgColor;menu1006.menuBorderBgColor=BorderBgColor;menu1006.bgColor=menuBg;menu1006.hideOnMouseOut=true;menu1006.addMenuItem("Internet Banking/Bill Pay","location='../ASP/Services/service_1_1.asp';");menu1006.addMenuItem(menu1159,"location='../asp/products/product_1_1.asp';");menu1006.addMenuItem("Check Reordering","location='../ASP/reorder.asp';");menu1006.addMenuItem(menu1125,"location='../ASP/infodesk.asp';");menu1006.addMenuItem("Search","location='../ASP/search.asp';");
-
-window.menu1007 = new Menu("About Us",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1007.childMenuIcon=iconSrc;menu1007.menuBorder=borderWidth;menu1007.menuLiteBgColor=LiteBgColor;menu1007.menuBorderBgColor=BorderBgColor;menu1007.bgColor=menuBg;menu1007.hideOnMouseOut=true;menu1007.addMenuItem("What's A Credit Union","location='../ASP/whatsacu.asp';");menu1007.addMenuItem("Our Mission","location='../ASP/mission.asp';");menu1007.addMenuItem("Membership","location='../ASP/membership.asp';");menu1007.addMenuItem("Newsletter","location='../ASP/newsletter.asp';");menu1007.addMenuItem("Locations","location='../ASP/location.asp';");
-
-window.menu1126 = new Menu("en Espanol",150,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);menu1126.childMenuIcon=iconSrc;menu1126.menuBorder=borderWidth;menu1126.menuLiteBgColor=LiteBgColor;menu1126.menuBorderBgColor=BorderBgColor;menu1126.bgColor=menuBg;menu1126.hideOnMouseOut=true;menu1126.addMenuItem("Internet Banking","window.open('../asp/1157_redirect.asp', 'New_Window', '');");menu1126.addMenuItem("Seminarios Educativos","location='../asp/services/service_1_5.asp';");
-window.memnu = new Menu("place",170,20,fontFace,fontSize,fontNormalColor, fontLinkedColor,menuMainBg,hoverMenuBg,"left","middle",3,0,1000,0,0,true,true,true,0,true,true);
-  memnu.writeMenus();}
-</script>
-<script type="text/javascript" src="../mm_menu.js"></script>
-<script type="text/javascript">mmLoadMenus();</script><span id="menuContainer"><div id="menuLayer0" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 87px;">
-  <div id="menuLite0" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 85px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg0" style="position: absolute; left: 1px; top: 1px; height: 84px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem0" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText0" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Saving/Certificate Rates&nbsp;</div>
-<div id="menuItemHilite0" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Saving/Certificate Rates&nbsp;</div></div><div id="menuItem1" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText1" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Loan Rates&nbsp;</div>
-<div id="menuItemHilite1" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Loan Rates&nbsp;</div></div><div id="menuItem2" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText2" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Mortgage Rates&nbsp;</div>
-<div id="menuItemHilite2" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Mortgage Rates&nbsp;</div></div><div id="menuItem3" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText3" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Home Equity Rates&nbsp;</div>
-<div id="menuItemHilite3" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Home Equity Rates&nbsp;</div></div>	  <div id="focusItem0" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
+      <div id="header">
+        <ul class="links secondary-links"><li class="first menu-1-1-40"><a href="/" title="Front Page" class="menu-1-1-40">Home</a></li>
+<li class="menu-1-2-40"><a href="/about/locations" title="Branch &amp; ATM Locations" class="menu-1-2-40">Locations</a></li>
+<li class="menu-1-3-40"><a href="/about/contact" class="menu-1-3-40">Contact Us</a></li>
+<li class="last menu-1-4-40"><a href="/espanol" class="menu-1-4-40">Español</a></li>
+</ul>        <a href="/" title="Home"><img src="/sites/all/themes/rfcu/logo.png" alt="Rogue Federal Credit Union" id="site-logo"></a>
+        <form action="/privacy" accept-charset="UTF-8" method="post" id="search-theme-form">
+<div><div id="search" class="container-inline"><div class="form-item" id="edit-search-theme-form-keys-wrapper">
+ <input type="text" maxlength="128" name="search_theme_form_keys" id="edit-search-theme-form-keys" size="15" value="" title="Enter the terms you wish to search for." class="form-text">
 </div>
-<div id="menuLayer1" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 24px;">
-  <div id="menuLite1" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 22px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg1" style="position: absolute; left: 1px; top: 1px; height: 21px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem4" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText4" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Mortgage Consultant&nbsp;</div>
-<div id="menuItemHilite4" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Mortgage Consultant&nbsp;</div></div>	  <div id="focusItem1" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
+<input type="submit" name="op" id="edit-submit" value="Search" class="form-submit">
+<input type="hidden" name="form_id" id="edit-search-theme-form" value="search_theme_form">
 </div>
-<div id="menuLayer2" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 129px;">
-  <div id="menuLite2" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 127px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg2" style="position: absolute; left: 1px; top: 1px; height: 126px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem5" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText5" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Savings&nbsp;</div>
-<div id="menuItemHilite5" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Savings&nbsp;</div></div><div id="menuItem6" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText6" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Checking&nbsp;</div>
-<div id="menuItemHilite6" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Checking&nbsp;</div></div><div id="menuItem7" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText7" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Consumer Loans&nbsp;</div>
-<div id="menuItemHilite7" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Consumer Loans&nbsp;</div></div><div id="menuItem8" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText8" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Mortgage Loans&nbsp;</div>
-<div id="menuItemHilite8" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Mortgage Loans&nbsp;</div><div id="childMenu8" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem9" style="position: absolute; left: 0px; top: 84px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText9" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Visa Credit Cards&nbsp;</div>
-<div id="menuItemHilite9" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Visa Credit Cards&nbsp;</div></div><div id="menuItem10" style="position: absolute; left: 0px; top: 105px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText10" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">IRA&nbsp;</div>
-<div id="menuItemHilite10" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">IRA&nbsp;</div></div>	  <div id="focusItem2" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer3" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 24px;">
-  <div id="menuLite3" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 22px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg3" style="position: absolute; left: 1px; top: 1px; height: 21px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem11" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText11" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Call 24&nbsp;</div>
-<div id="menuItemHilite11" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Call 24&nbsp;</div></div>	  <div id="focusItem3" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer4" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 45px;">
-  <div id="menuLite4" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg4" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem12" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText12" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">ATM's&nbsp;</div>
-<div id="menuItemHilite12" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">ATM's&nbsp;</div></div><div id="menuItem13" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText13" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Travelers Cheques&nbsp;</div>
-<div id="menuItemHilite13" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Travelers Cheques&nbsp;</div></div>	  <div id="focusItem4" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer5" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 87px;">
-  <div id="menuLite5" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 85px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg5" style="position: absolute; left: 1px; top: 1px; height: 84px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem14" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText14" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> 24 Hour Services&nbsp;</div>
-<div id="menuItemHilite14" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> 24 Hour Services&nbsp;</div><div id="childMenu14" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem15" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText15" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Automated Services&nbsp;</div>
-<div id="menuItemHilite15" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Automated Services&nbsp;</div></div><div id="menuItem16" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText16" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Convenience Services&nbsp;</div>
-<div id="menuItemHilite16" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Convenience Services&nbsp;</div><div id="childMenu16" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem17" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText17" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Community Services&nbsp;</div>
-<div id="menuItemHilite17" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Community Services&nbsp;</div></div>	  <div id="focusItem5" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer6" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 66px;">
-  <div id="menuLite6" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 64px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg6" style="position: absolute; left: 1px; top: 1px; height: 63px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem18" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText18" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Kitty Club Program&nbsp;</div>
-<div id="menuItemHilite18" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Kitty Club Program&nbsp;</div></div><div id="menuItem19" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText19" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Middle School Program&nbsp;</div>
-<div id="menuItemHilite19" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Middle School Program&nbsp;</div></div><div id="menuItem20" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText20" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">High School Program&nbsp;</div>
-<div id="menuItemHilite20" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">High School Program&nbsp;</div></div>	  <div id="focusItem6" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer7" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 45px;">
-  <div id="menuLite7" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg7" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem21" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText21" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Consumer/Visa Application&nbsp;</div>
-<div id="menuItemHilite21" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Consumer/Visa Application&nbsp;</div></div><div id="menuItem22" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText22" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Home Equity Application&nbsp;</div>
-<div id="menuItemHilite22" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Home Equity Application&nbsp;</div></div>	  <div id="focusItem7" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer8" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 45px;">
-  <div id="menuLite8" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg8" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem23" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText23" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Single Deposit&nbsp;</div>
-<div id="menuItemHilite23" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Single Deposit&nbsp;</div></div><div id="menuItem24" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText24" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Multiple Deposit&nbsp;</div>
-<div id="menuItemHilite24" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Multiple Deposit&nbsp;</div></div>	  <div id="focusItem8" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer9" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 66px;">
-  <div id="menuLite9" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 64px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg9" style="position: absolute; left: 1px; top: 1px; height: 63px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem25" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText25" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Bi-weekly&nbsp;</div>
-<div id="menuItemHilite25" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Bi-weekly&nbsp;</div></div><div id="menuItem26" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText26" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Refinance&nbsp;</div>
-<div id="menuItemHilite26" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Refinance&nbsp;</div></div><div id="menuItem27" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText27" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Mortgage&nbsp;</div>
-<div id="menuItemHilite27" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Mortgage&nbsp;</div></div>	  <div id="focusItem9" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer10" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 87px;">
-  <div id="menuLite10" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 85px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg10" style="position: absolute; left: 1px; top: 1px; height: 84px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem28" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText28" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Loan Calculator&nbsp;</div>
-<div id="menuItemHilite28" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Loan Calculator&nbsp;</div></div><div id="menuItem29" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText29" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Savings Calculators&nbsp;</div>
-<div id="menuItemHilite29" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Savings Calculators&nbsp;</div><div id="childMenu29" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem30" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText30" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Mortgage Calculators&nbsp;</div>
-<div id="menuItemHilite30" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Mortgage Calculators&nbsp;</div><div id="childMenu30" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem31" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText31" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Calculator List&nbsp;</div>
-<div id="menuItemHilite31" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Calculator List&nbsp;</div></div>	  <div id="focusItem10" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer11" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 66px;">
-  <div id="menuLite11" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 64px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg11" style="position: absolute; left: 1px; top: 1px; height: 63px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem32" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText32" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Fee Schedule&nbsp;</div>
-<div id="menuItemHilite32" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Fee Schedule&nbsp;</div></div><div id="menuItem33" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText33" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Calculators&nbsp;</div>
-<div id="menuItemHilite33" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Calculators&nbsp;</div><div id="childMenu33" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem34" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText34" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Privacy Policy&nbsp;</div>
-<div id="menuItemHilite34" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Privacy Policy&nbsp;</div></div>	  <div id="focusItem11" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer12" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 108px;">
-  <div id="menuLite12" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 106px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg12" style="position: absolute; left: 1px; top: 1px; height: 105px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem35" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText35" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Internet Banking/Bill Pay&nbsp;</div>
-<div id="menuItemHilite35" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Internet Banking/Bill Pay&nbsp;</div></div><div id="menuItem36" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText36" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Applications&nbsp;</div>
-<div id="menuItemHilite36" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Applications&nbsp;</div><div id="childMenu36" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem37" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText37" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Check Reordering&nbsp;</div>
-<div id="menuItemHilite37" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Check Reordering&nbsp;</div></div><div id="menuItem38" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText38" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;"> Info Desk&nbsp;</div>
-<div id="menuItemHilite38" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;"> Info Desk&nbsp;</div><div id="childMenu38" style="position: absolute; left: 139px; top: 6px;"><img src="../images/arrows.gif"></div>
-</div><div id="menuItem39" style="position: absolute; left: 0px; top: 84px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText39" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Search&nbsp;</div>
-<div id="menuItemHilite39" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Search&nbsp;</div></div>	  <div id="focusItem12" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer13" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 108px;">
-  <div id="menuLite13" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 106px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg13" style="position: absolute; left: 1px; top: 1px; height: 105px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem40" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText40" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">What's A Credit Union&nbsp;</div>
-<div id="menuItemHilite40" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">What's A Credit Union&nbsp;</div></div><div id="menuItem41" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText41" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Our Mission&nbsp;</div>
-<div id="menuItemHilite41" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Our Mission&nbsp;</div></div><div id="menuItem42" style="position: absolute; left: 0px; top: 42px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText42" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Membership&nbsp;</div>
-<div id="menuItemHilite42" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Membership&nbsp;</div></div><div id="menuItem43" style="position: absolute; left: 0px; top: 63px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText43" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Newsletter&nbsp;</div>
-<div id="menuItemHilite43" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Newsletter&nbsp;</div></div><div id="menuItem44" style="position: absolute; left: 0px; top: 84px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText44" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Locations&nbsp;</div>
-<div id="menuItemHilite44" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Locations&nbsp;</div></div>	  <div id="focusItem13" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer14" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(255, 255, 255); background-color: rgb(255, 255, 255); width: 154px; height: 45px;">
-  <div id="menuLite14" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 43px; width: 152px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg14" style="position: absolute; left: 1px; top: 1px; height: 42px; width: 151px; background-color: rgb(255, 255, 255);">
-<div id="menuItem45" style="position: absolute; left: 0px; top: 0px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText45" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Internet Banking&nbsp;</div>
-<div id="menuItemHilite45" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Internet Banking&nbsp;</div></div><div id="menuItem46" style="position: absolute; left: 0px; top: 21px; font-family: &quot;Arial Bold&quot;, Helvetica, sans-serif; font-size: 11px; width: 150px; height: 20px; background-color: rgb(0, 137, 108); visibility: inherit; cursor: pointer;"><div id="menuItemText46" style="position:absolute;left:4px;top:3.5px;color:#FFFFFF;">Seminarios Educativos&nbsp;</div>
-<div id="menuItemHilite46" style="position:absolute;left:4px;top:3.5px;color:#ffffff;visibility:hidden;">Seminarios Educativos&nbsp;</div></div>	  <div id="focusItem14" style="position: absolute; left: 0px; top: -30px;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-<div id="menuLayer15" style="position: absolute; z-index: 1; left: -300px; top: -300px; visibility: hidden; color: rgb(119, 119, 119); background-color: rgb(119, 119, 119); width: 174px; height: 3px;">
-  <div id="menuLite15" style="position: absolute; z-index: 1; left: 1px; top: 1px; height: 1px; width: 172px; background-color: rgb(255, 255, 255);" onmouseout="mouseoutMenu();">
-	 <div id="menuFg15" style="position: absolute; left: 1px; top: 1px; height: 0px; width: 171px; background-color: rgb(85, 85, 85);">
-	  <div id="focusItem15" style="position:absolute;left:0px;top:0px;visibility:hide;" onclick="onMenuItemAction(null,this);">&nbsp;</div>
-   </div>
-  </div>
-</div>
-</span>
+</div></form>
 
- <table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="100%">
-			<table width="100%" border="0" cellspacing="0" cellpadding="0">
-				<tbody><tr>
-					<td><a href="../asp/home.asp"><img src="../images/logo.gif" width="150" height="79" border="0"></a></td>
-					<td><img src="../asp/image.asp" width="220" height="79"></td>
-					<td width="100%" background="../images/top_stretch.gif" align="right"><img src="../images/building_line.gif" width="228" height="79"></td>
-				</tr>
-				<tr>
-					<td height="17" bgcolor="#00896C">
-						<img src="../images/green_underlogo.gif" width="150" height="1"><br>
-						<font color="#FFFFFF" size="1" face="Arial, Helvetica, sans-serif"><strong>Today is: <script language="Javascript">putDate();</script>February 19, 2020</strong></font></td>
-					<td width="100%" colspan="2">
-						<table width="100%" border="0" cellspacing="0" cellpadding="0">
-							<tbody><tr>
-								<td bgcolor="#007EA1" align="left" width="100%"><img src="../images/long_hotlinks.gif" width="433" height="17" border="0" usemap="#Map"></td>
-								<td align="right"><img src="../images/endcap.gif" width="18" height="17"></td>
-							</tr>
-						</tbody></table></td>
-				</tr>
-			</tbody></table></td>
-		<!--<td>
-			<table border="0" cellpadding="0" cellspacing="0">
-				<tr>
-					<td><a href="javascript:;" onclick="javascript:window.open('../secure.htm','SecureSite','height=200,width=400,location=no,menus=no,status=no,toolbars=no');"><img src="../images/IBanking.gif" border="0" width="150" height="16"></a></td>
-				</tr>
-				<tr>
-					<td><form id="iblogin" name="iblogin" action="https://s18.lanxtra.com/servlet/Teller" method="post" style="margin: 0px; padding: 0px;" target="ib" onsubmit="window.open('','ib','');">
-						<input type="hidden" name="request" value="1">
-						<input type="hidden" name="requestType" value="vhtml">
-						<input type="hidden" name="skinId" value="2"> 
-						<table border="0" cellpadding="0" cellspacing="0">
-							<tr>
-								<td><input type="text" size="20" name="memberNumber" value="Member Number" onfocus="this.value='';" style="margin: 2px; padding: 1px; font-family:Arial; font-size: 11px; height: 16px; border: 1px solid #007ea1; background: #ffffff; color: #000000;"></td>
-							</tr>
-							<tr>
-								<td><input type="password" size="20" name="pinNumber" value="12345678" onfocus="this.value='';" style="margin: 2px; padding: 1px; font-family:Arial; font-size: 11px; height: 16px; border: 1px solid #007ea1; background: #ffffff; color: #000000;"></td>
-							</tr>
-						</table></form></td>
-				</tr>
-				<tr>
-					<td><img src="../images/Login.gif" border="0" usemap="#FrontPageMap1"></a></td>
-				</tr>
-			</table></td>-->
-	</tr>
-</tbody></table>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tbody><tr>
-    <td bgcolor="#007EA1" align="center"><img src="../images/spacer.gif" width="5" height="5"></td>
-    <td width="100%" colspan="2"></td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-	<td bgcolor="#007EA1" align="center"><table><tbody><tr><td></td><td><form style="margin:0px;padding:0px;" action="../asp/search.asp" method="get"><input src="../images/search.gif" name="I1" type="image" border="0" width="42" height="14"></form></td><td valign="top"><input type="text" name="qu" size="10" maxlength="100" value=""></td></tr></tbody></table></td>
-    <td><img src="../images/spacer.gif" width="5" height="5"></td>
-    	<td width="100%" valign="top" align="left"><b>Privacy Policy</b></td>
-	    <td><img src="../images/spacer.gif" width="5" height="28"></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td><img src="../images/spacer.gif" width="150" height="1"></td>
+        <br class="clear">
+        <a href="http://www.facebook.com/RogueCreditUnion" title="Find us on Facebook">
+          <img src="/sites/all/themes/rfcu/img/facebook_icon.png" alt="Find us on Facebook" id="facebook-icon">
+        </a>
+        <ul class="links primary-links"><li class="first menu-1-1-2"><a href="/personal/index" title="Savings, checking, and loans for every stage of life" class="menu-1-1-2">Personal Services</a></li>
+<li class="menu-1-2-2"><a href="/business/index" title="Loans, deposits, and other services for businesses" class="menu-1-2-2">Business Services</a></li>
+<li class="menu-1-3-2"><a href="/personal/home_loans" class="menu-1-3-2">Home Loan Center</a></li>
+<li class="menu-1-4-2"><a href="/investment/index" title="Financial Planning &amp; Investing" class="menu-1-4-2">Investment &amp; Insurance</a></li>
+<li class="last menu-1-5-2"><a href="/about/index" title="Learn More About Your Credit Union" class="menu-1-5-2">About Rogue</a></li>
+</ul>      </div> <!-- /header -->
 
-    <td width="100%" colspan="4"></td>
-  </tr>
-</tbody></table>
+      <div id="buffer"></div>
+
+      <!-- Left block-->
+              <div id="sidebar-left" class="sidebar">
+          <div id="block-roguefcu-4" class="block block-roguefcu">
+
+  <h2>Quick Links</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/personal/loan_rates" title="Rates for Personal Loans">Loan Rates</a></li>
+<li class="leaf"><a href="/personal/savings_rates" title="Rates for Personal Savings Accounts">Savings Rates</a></li>
+<li class="leaf"><a href="/personal/home_equity_rates" title="Rates for Home Equity Loans">Home Equity Rates</a></li>
+<li class="leaf"><a href="/personal/mortgage_rates" title="Rates for Home Loans">Mortgage Rates</a></li>
+<li class="leaf"><a href="/personal/vehicle_auctions">Vehicle Auctions</a></li>
+<li class="leaf"><a href="/personal/youth">Youth Programs</a></li>
+<li class="leaf"><a href="/about/locations" title="Find a Branch or ATM Near You">Locations</a></li>
+<li class="leaf"><a href="/about/employment" title="Employment Opportunities at RFCU">Employment</a></li>
+
+</ul>
+</div>
+</div>
+
+        </div>
+            
+      <!-- CONTENT -->
+      <div id="center">
+                <h1>Privacy Policy Disclosure</h1>        
+            
+                        
+        <!-- Content -->
+        <div id="node-51" class="node clear-block">
 
 
-
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-	<tbody><tr>
-		<td width="150" valign="top">
-			<!--Navigation Start --><script language="javascript">function nulllink(){}function loi_swapimgrestore() {  var i,x,a=document.loi_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.osrc;i++) x.src=x.osrc;}function loi_findObj(n, d) {var p,i,x;if(!d) d=document;if((p=n.indexOf("?"))>0&&parent.frames.length) {d=parent.frames[n.substring(p+1)].document;n=n.substring(0,p);}if(!(x=d[n])&&d.all) x=d.all[n];for (i=0; !x&&i<d.forms.length; i++) x=d.forms[i][n];for(i=0; !x&&d.layers&&i<d.layers.length; i++) x=loi_findObj(n,d.layers[i].document);return x;}function loi_swapimage() {var i,j=0,x,a=loi_swapimage.arguments;document.loi_sr=new Array;for(i=0; i<(a.length-2); i+=3){if ((x=loi_findObj(a[i]))!=null){document.loi_sr[j++]=x;if(!x.osrc) x.osrc=x.src;x.src=a[i+2];}}}function loi_preloadimages(img) {var a=new Image(); a.src=img; return a; }</script><a href="../asp/home.asp" onmouseover="loi_swapimage('imagehome', '', '../images/homeh.gif');" onmouseout="loi_swapimgrestore();"><img name="imagehome" src="../images/homen.gif" border="0"></a><br><a href="../ASP/rates.asp" onmouseover="loi_swapimage('image1003', '', '../images/1003h.gif');MM_showMenu(window.menu1003,149,0,null,'image1003');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1003" src="../images/1003n.gif" border="0"></a><br><a href="../ASP/Products/products.asp" onmouseover="loi_swapimage('image1004', '', '../images/1004h.gif');MM_showMenu(window.menu1004,149,0,null,'image1004');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1004" src="../images/1004n.gif" border="0"></a><br><a href="../asp/products/product_1_5.asp" onmouseover="loi_swapimage('image1165', '', '../images/1165h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1165" src="../images/1165n.gif" border="0"></a><br><a href="../asp/services/service_1_6.asp" onmouseover="loi_swapimage('image1164', '', '../images/1164h.gif');MM_showMenu(window.menu1164,149,0,null,'image1164');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1164" src="../images/1164n.gif" border="0"></a><br><a href="../ASP/Services/service_1_4.asp" onmouseover="loi_swapimage('image1127', '', '../images/1127h.gif');MM_showMenu(window.menu1127,149,0,null,'image1127');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1127" src="../images/1127n.gif" border="0"></a><br><a href="../ASP/online.asp" onmouseover="loi_swapimage('image1006', '', '../images/1006h.gif');MM_showMenu(window.menu1006,149,0,null,'image1006');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1006" src="../images/1006n.gif" border="0"></a><br><a href="../ASP/Services/services.asp" onmouseover="loi_swapimage('image1005', '', '../images/1005h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1005" src="../images/1005n.gif" border="0"></a><br><a href="../ASP/Products/product_6_6.asp" onmouseover="loi_swapimage('image1147', '', '../images/1147h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1147" src="../images/1147n.gif" border="0"></a><br><a href="../ASP/aboutus.asp" onmouseover="loi_swapimage('image1007', '', '../images/1007h.gif');MM_showMenu(window.menu1007,149,0,null,'image1007');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1007" src="../images/1007n.gif" border="0"></a><br><a href="../ASP/Products/product_3_5.asp" onmouseover="loi_swapimage('image1148', '', '../images/1148h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1148" src="../images/1148n.gif" border="0"></a><br><a href="../asp/whatsnew.asp" onmouseover="loi_swapimage('image1155', '', '../images/1155h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1155" src="../images/1155n.gif" border="0"></a><br><a href="../ASP/contact.asp" onmouseover="loi_swapimage('image1118', '', '../images/1118h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1118" src="../images/1118n.gif" border="0"></a><br><a href="../ASP/Services/service_1_3.asp" onmouseover="loi_swapimage('image1126', '', '../images/1126h.gif');MM_showMenu(window.menu1126,149,0,null,'image1126');" onmouseout="loi_swapimgrestore();MM_startTimeout();"><img name="image1126" src="../images/1126n.gif" border="0"></a><br><a href="../ASP/sitemap.asp" onmouseover="loi_swapimage('image1117', '', '../images/1117h.gif');" onmouseout="loi_swapimgrestore();"><img name="image1117" src="../images/1117n.gif" border="0"></a><br><!--Navigation End -->
-			<img src="../images/btmbutton.gif" width="150" height="25">
-			<p></p></td>
-		<td><img src="../images/spacer.gif" width="5" height="10"></td>
-		<td width="100%" valign="top"><div class="dynbanner"></div>
-
-<div><font face="Arial"><font size="2">
-<div>
-<h1><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt"><font size="+0"><font face="Tahoma" color="#0080c0" size="4">ROGUE FEDERAL CREDIT UNION</font></font></span></h1>
-<h1><span style="FONT-SIZE: 10pt; mso-bidi-font-size: 12.0pt">
-<div class="Section1">
-<p align="center"><font face="Tahoma">PRIVACY POLICY DISCLOSURE</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Our Privacy Pledge.</font> At Rogue Federal Credit Union we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Rogue Federal Credit Union and our affiliate, Rogue Federal Member Financial Services, LLC. This notice explains what types of member information we collect and under what circumstances we may share it.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Member Information We Collect.</font> The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal and financial information about you (member information) which is "nonpublic." The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources:</font></p>
-<p><font face="Tahoma">&nbsp;<font color="#0080c0">Application Information.</font> We retain personal information we receive from you on any application you provide to us or our affiliate for membership, deposit account, EFT services, loans, financial planning, securities brokerage, insurance, or other Credit Union services. This information includes: name, address, e-mail address, social security number, birth date, phone number, employment and financial status, and credit history.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Your Transactions.</font> Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through Internet Banking, over the phone or at a branch we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information. Our affiliate may also provide us with reports on your securities and insurance transactions.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Credit Reports.</font> When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Online.</font> We may obtain information you provide online when you visit our website, www.roguefcu.org. This includes retaining information you provide us on any online application, Internet Banking transaction or information you send to us by e-mail.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Copyrights.</font> You should assume that everything on the Rogue Federal Credit Union site is copyrighted unless otherwise noted and that it must not be used except as provided with the express written consent of RFCU. Images of people, places, or other images displayed on the RFCU site are either the property of, or used with permission by, RFCU. Use of these images by you or other third parties is prohibited unless expressly permitted. Any unauthorized use of these images may violate copyright laws, trademark laws, the laws of privacy and publicity, and other applicable regulations and statutes.</font></p>
-<p><font face="Tahoma">Rogue Federal Credit Union has not reviewed all of the sites which are linked to the RFCU site, and the fact of such links does not indicate any approval or endorsement of any material contained on any linked site; your connection to any such linked site is at your own risk.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Member Information We Share.</font> In order to provide financial services to you, we share certain information about you with our affiliate and third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Sharing Information with Credit Union Affiliates.</font> Our wholly-owned affiliate, Rogue Federal Member Financial Services, LLC, provides financial services, including financial planning, securities brokerage, and insurance products and services. We may share personal information (such as name, address, and account number) and account information (such as type of accounts, account balances, and transaction history) with our affiliate so they can serve you more efficiently. Our affiliate maintains the same privacy standards as the Credit Union.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Sharing Information with Third Party Service Providers.</font> In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, financial planners, securities brokerage, and insurance companies, and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided:</font></p>
-<p><font face="Tahoma">- Personal information (name, address, and account number)</font></p>
-<p><font face="Tahoma">- Account information (type of accounts, account balances, and transaction history)</font></p>
-<p><font face="Tahoma">- Transaction information (dates, amounts, locations, and type of transaction)</font></p>
-<p><font face="Tahoma">We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our affiliate or other financial service providers, we control the member information used to make such offers.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Sharing Information as Legally Required or Permitted.</font> We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Our Confidentiality and Security Safeguards.</font> We maintain strict policies and security controls to assure that member information in our computer systems and files is protected. Our employees are permitted access to member information that they may need to perform their jobs and to provide service to you. Our employees have access to such member information as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has regular access to the Credit Union computer system and records storage. The Credit Union has established internal security controls, including physical, electronic, and procedural safeguards to protect the information you provide us and the information we collect about you. We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Online Privacy Protections.</font> At our website, <font color="#0000ff">www.roguefcu.org</font>, you may (when activated) apply for accounts and services and you may communicate with us via e-mail. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Internet Banking service relies on industry standard "Secure Sockets Layer" (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address and phone number, it will be obtained using a secure (SSL encryption) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. In the future, we may use "cookie" in order to help us identify you and to track your website visit. A "cookie" is a piece of information that our web server may store on your computer hard drive and retrieve later. The cookie would not request, require or collect any personal identity information and you remain anonymous. Your member information would not be accessed by or stored within a cookie in any way.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Protecting Children’s Information Privacy.</font> Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents.</font></p>
-<p><font face="Tahoma"><font color="#0080c0">Privacy Policy Inquiries.</font> If you have any questions about our privacy practices contact us by calling (541) 858-7328, 1 (800) 856-7328 or writing to us at Rogue Federal Credit Union, 1370 Center Drive, Medford, Oregon 97501.</font></p>
-<p><font face="Tahoma">June 2004</font></p></div></span></h1></div></font></font></div>
-</td>
-	</tr>
-</tbody></table>
-<table border="0" width="100%" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td><img src="../images/spacer.gif" width="150" height="1"></td>
-    <td><img src="../images/spacer.gif" width="5" height="1"></td>
-    <td colspan="3" width="100%" align="center"><font face="arial" size="2" color="#000000"><a href="../asp/home.asp">Home</a> | <a href="../asp/rates.asp">Rates</a> | <a href="../ASP/Products/products.asp">Products</a> | <a href="../ASP/Services/services.asp">Services</a> | <a href="../ASP/online.asp">Online Services</a> | <a href="../ASP/aboutus.asp">About Us</a> | <a href="../ASP/contact.asp">Contact Us</a> | <a href="../ASP/sitemap.asp">Sitemap</a>
-	<p align="center">&nbsp;</p></font></td>
-  </tr>
-  <tr>
-    <td align="center"><a href="../ASP/Products/product_1_1.asp"><img src="../images/blueapply.gif" border="0" width="108" height="46"></a></td>
-    <td><img src="../images/spacer.gif" width="5" height="1"></td>
-    <td width="33%" align="center"><img src="../images/BlueNCUA.gif" width="150" height="56"></td>
-	<td width="34%" align="center">
-				<font color="#000000" size="1" face="Arial, Helvetica, sans-serif"><font color="#000000" size="1" face="Arial, Helvetica, sans-serif"> <a href="../ASP/privacy.asp">Privacy Policy</a>
-						<br>
-						Design &amp; Hosting by <a href="http://www.cavionplus.com" target="_blank"><strong>Cavion&nbsp;Plus</strong></a>&nbsp;<sup><samp>SM</samp></sup>
-						<br>
-						<a href="javascript:;" onclick="javascript:window.open('http://www.cavionplus.com/asp/requirements.asp','sys','height=240,width=440');">Browser Requirements</a>
-						<br>
-						Copyright © 1998-2006 Cavion, LLC.  All Rights Reserved.</font></font></td>
-    <td width="33%" align="center"><img src="../images/EqualHousingnew.gif" width="125" height="90"></td>
-  </tr>
-</tbody></table>
-<map name="Map">
-	<area shape="rect" coords="-11,1,41,26" href="../ASP/rates.asp">
-	<area shape="rect" coords="44,3,128,39" href="https://s18.lanxtra.com/servlet/SLogin?template=/2/en/slogin.vm">
-	<area shape="rect" coords="132,1,212,27" href="https://s18.lanxtra.com/servlet/SLogin?template=/2/en/slogin.vm">
-	<area shape="rect" coords="222,1,278,25" href="../calculat.htm">
-	<area shape="rect" coords="283,1,343,20" href="../ASP/contact.asp">
-	<area shape="rect" coords="346,2,433,28" href="../ASP/Products/product_1_1.asp">
-</map>
-<map name="FrontPageMap1">
-	<area shape="RECT" coords="0, 0, 148, 12" href="javascript:document.forms.iblogin.submit();document.forms.iblogin.reset();">
-	<area shape="RECT" coords="3, 12, 81, 37" href="https://s18.lanxtra.com/internet/register.html">
-	<area shape="RECT" coords="85, 11, 148, 37" href="https://s18.lanxtra.com/internet/choice1.html">
-</map>
+  <div class="content">
+    <h3><span style="font-weight: bold">Our Privacy Pledge</span></h3>
+<p>
+At Rogue Federal Credit Union we respect the privacy of our members. We recognize the importance of maintaining the confidentiality of your personal financial information. This notice describes the privacy policy and practices followed by Rogue Federal Credit Union and our affiliate, Rogue Federal&nbsp;Credit Union Investment and Insurance Services.&nbsp;This notice explains what types of member information we collect and under what circumstances we may share it. 
+</p>
+<h3><span style="font-weight: bold">Member Information We Collect</span> </h3>
+<p>
+The Credit Union collects only relevant information about members that is needed to establish and maintain your account and services as the law allows or requires us to collect. We may collect personal and financial information about you (member information) which is "nonpublic." The member information we collect varies depending on the accounts and services you request and use. We collect information about you from the following sources: 
+</p>
+<p>
+<span style="font-weight: bold"><em>Application Information.</em></span> We retain personal information we receive from you on any application you provide to us or our affiliate for membership, deposit account, EFT services, loans, financial planning, securities brokerage, insurance, or other Credit Union services. This information includes: name, address, e-mail address, social security number, birth date, phone number, employment and financial status, and credit history. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Your Transactions.</em></span> Any time you make a transaction on one of your accounts, including ATM or card transactions, loan advances, transactions through Internet Banking, over the phone or at a branch we retain the transaction information, including: your account number, the date, amount, location of the transaction, and other pertinent information. Our affiliate may also provide us with reports on your securities and insurance transactions. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Credit Reports.</em></span> When we evaluate your application for an account or service, we may request a credit report about you from a consumer reporting agency. We retain the personal and credit history information about you and we may use it to evaluate future account service requests. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Online.</em></span> We may obtain information you provide online when you visit our website, www.roguefcu.org. This includes retaining information you provide us on any online application, Internet Banking transaction or information you send to us by e-mail. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Copyrights.</em></span> You should assume that everything on the Rogue Federal Credit Union site is copyrighted unless otherwise noted and that it must not be used except as provided with the express written consent of RFCU. Images of people, places, or other images displayed on the RFCU site are either the property of, or used with permission by, RFCU. Use of these images by you or other third parties is prohibited unless expressly permitted. Any unauthorized use of these images may violate copyright laws, trademark laws, the laws of privacy and publicity, and other applicable regulations and statutes. 
+</p>
+<p>
+Rogue Federal Credit Union has not reviewed all of the sites which are linked to the Rogue Federal&nbsp;site, and the fact of such links does not indicate any approval or endorsement of any material contained on any linked site; your connection to any such linked site is at your own risk. 
+</p>
+<h3><span style="font-weight: bold">Member Information We Share</span> </h3>
+<p>
+In order to provide financial services to you, we share certain information about you with our affiliate and third party service providers. However, we only share information to the extent necessary to service your account or offer new services to you. If we share your information, it is with the goal of bringing you quality services, more choices, and greater convenience. Information we may have about former members is generally only shared or disclosed if necessary to enforce or administer an account or as required by law. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Sharing Information with Credit Union Affiliates.</em></span> Our wholly-owned affiliate, Rogue Federal Member Financial Services, LLC, provides insurance products and services. We may share personal information (such as name, address, and account number) and account information (such as type of accounts, account balances, and transaction history) with our affiliate so they can serve you more efficiently. Our affiliate maintains the same privacy standards as the Credit Union. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Sharing Information with Third Party Service Providers.</em></span> In order for us to conduct our operations, including servicing your account or processing your transactions, we need to share information with our service providers, including: data processing companies, check, ATM and other payment processing companies, payment networks, loan service providers, insurance companies, collection agencies, credit reporting agencies, financial planners, securities brokerage, and insurance companies, and financial service providers with whom we have joint marketing agreements. These service providers act on our behalf and have agreed in writing to keep the member information we provide to them confidential. We share the following categories of information to third party service providers depending on the specific services provided: 
+</p>
+<ul>
+	<li>Personal information (name, address, and account number)</li>
+	<li>Account information (type of accounts, account balances, and transaction history)</li>
+	<li>Transaction information (dates, amounts, locations, and type of transaction)</li>
+</ul>
+<p>
+We do not sell member information nor share your account numbers with independent third party marketers offering their products and services. While we may assist in offering financial products and services of our affiliate or other financial service providers, we control the member information used to make such offers. 
+</p>
+<p>
+<span style="font-weight: bold"><em>Sharing Information as Legally Required or Permitted.</em></span> We may share any member information of yours in response to a lawful request issued by a court, government agency, or regulatory authority or as permitted by law in order to administer or enforce your account. We may also share our experience information about you with credit bureaus. Our reporting to credit bureaus is governed by the Fair Credit Reporting Act, which affords you the right to make sure that your credit bureau reports are accurate. 
+</p>
+<h3><span style="font-weight: bold">Our Confidentiality and Security Safeguards</span> </h3>
+<p>
+We maintain strict policies and security controls to assure that member information in our computer systems and files is protected. Our employees are permitted access to member information that they may need to perform their jobs and to provide service to you. Our employees have access to such member information as necessary to conduct a transaction or respond to your inquiries. All employees are trained to respect member privacy. No one except our employees has regular access to the Credit Union computer system and records storage. The Credit Union has established internal security controls, including physical, electronic, and procedural safeguards to protect the information you provide us and the information we collect about you. We will continue to review our internal security controls to safeguard your member information as we employ new technology in the future. 
+</p>
+<h3><span style="font-weight: bold">Online Privacy Protections</span></h3>
+<p>
+At our website, <a href="http://www.roguefcu.org">www.roguefcu.org</a>, you may (when activated) apply for accounts and services and you may communicate with us via e-mail. To protect the information you provide us online, we use multiple levels of security. The application information we accept online and our Internet Banking service relies on industry standard "Secure Sockets Layer" (SSL) encryption to secure your transaction information and communication. Generally, our e-mails are not secure. However, if we ask you to e-mail us information other than your name, address, e-mail address and phone number, it will be obtained using a secure (SSL encryption) e-mail form. When you visit our website, you can access site information, without revealing your personal identity. In the future, we may use a "cookie" in order to help us identify you and to track your website visit. A "cookie" is a piece of information that our web server may store on your computer hard drive and retrieve later. The cookie would not request, require or collect any personal identity information and you remain anonymous. Your member information would not be accessed by or stored within a cookie in any way. 
+</p>
+<h3><span style="font-weight: bold">Protecting Children’s Information Privacy</span></h3>
+<p>
+Our online financial services are not designed for or directed toward children. We do not knowingly solicit or collect data from children and we do not knowingly market to children online. We recognize that protecting children’s identities and online privacy is important and that responsibility rests with us and with parents. 
+</p>
+<h3><span style="font-weight: bold">Privacy Policy Inquiries</span></h3>
+<p>
+If you have any questions about our privacy practices contact us by calling (541) 858-7328, 1 (800) 856-7328 or writing to us at Rogue Federal Credit Union, 1370 Center Drive, Medford, Oregon 97501. 
+</p>
+<p>
+June 2007 
+</p>
+  </div>
 
 
- </body></html>
+</div>
+        <span class="clear"></span>
+              </div>
+
+      <!-- SIDEBAR -->
+              <div id="sidebar-right" class="sidebar">
+          <div id="block-block-1" class="block block-block">
+
+  <h2>Online Services</h2>
+
+  <div class="content"><div class="item-list">
+<ul>
+<li>
+<div style="font-size: large"><a href="https://s18.lanxtra.com/servlet/SLogin?template=/2/en/sloginsc.vm" target="_blank" onclick="javascript: pageTracker._trackPageview('/outgoing/internet_banking');">Internet Banking</a>
+</div>
+</li>
+<li><a href="https://webadmin.cavionplus.com/custom_apps/applications/cu0635/loanapp.asp?InstID=750" target="_blank">Apply for a Loan</a></li>
+<li><a href="https://webadmin.cavionplus.com/general_cu/applications/homeequityapp.asp?InstID=750&amp;Email=" target="_blank">Apply for a Home Equity</a></li>
+<li><a href="/framed/home_loan_application">Apply for a Home Loan</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div id="block-views-Current_News" class="block block-views">
+
+  <h2>Current News</h2>
+
+  <div class="content"><div class="view view-Current-News"><div class="view-content view-content-Current-News"><div class="item-list"><ul><li><div class="view-item view-item-Current-News"><div class="view-field view-data-node-title"><a href="/movies_park">Movies in the Park</a></div></div>
+</li><li><div class="view-item view-item-Current-News"><div class="view-field view-data-node-title"><a href="/debtinfocus">Debt in Focus</a></div></div>
+</li><li><div class="view-item view-item-Current-News"><div class="view-field view-data-node-title"><a href="/askgene_blog">AskGene Blog</a></div></div>
+</li><li><div class="view-item view-item-Current-News"><div class="view-field view-data-node-title"><a href="/building_hope">Building Hope</a></div></div>
+</li></ul></div></div><div class="more-link"><a href="/about/news">more</a></div></div>
+</div>
+</div>
+
+<div id="block-views-side_banner" class="block block-views">
+
+
+  <div class="content"><div class="view view-side-banner"><div class="view-content view-content-side-banner"><div id="node-478" class="node node-banner clear-block">
+
+<p align="center">
+<a href="/debtinfocus"><img src="/files/images/Resource_Page_logo_2.jpg" border="0" alt="" width="150" height="112"></a> 
+</p>
+
+</div>
+</div></div>
+</div>
+</div>
+
+        </div>
+      
+      <!-- FOOTER -->
+      <div id="footer"> 
+        <!-- Based on a design by G. Wolfgang -->
+                    <p>©2009 Rogue Federal Credit Union<br>
+<a href="/privacy">Privacy Policy</a>
+<span style="position: absolute; right: 0.5em; top: 0.5em;">Federally Insured By NCUA <img src="/sites/all/themes/rfcu/img/ncua.png" alt="NCUA Insured" style="vertical-align: middle;">&nbsp;&nbsp;<img src="/sites/all/themes/rfcu/img/equal_housing.png" alt="Equal Housing Lender" style="vertical-align: middle;">&nbsp;&nbsp;<a href="https://secure5.arcot.com/vpas/0392_001/i18n/en_US/index.html" class="external" target="_blank"><img src="/sites/all/themes/rfcu/img/verified_visa.png" alt="Verified by VISA" style="vertical-align: middle;"></a></span></p>
+              </div>
+    </div>
+    <script type="text/javascript" src="/sites/all/modules/google_analytics/googleanalytics.js"></script>
+<script type="text/javascript">var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">try{var pageTracker = _gat._getTracker("UA-11323817-1");pageTracker._trackPageview();} catch(err) {}</script>
+  
+
+
+</body></html>
