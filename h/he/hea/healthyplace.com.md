@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212085349id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy/menu-id-138) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthyplace.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613230612id_/http%3A//www.healthyplace.com/about-healthyplace/about-us/privacy-policy/menu-id-138) for the most accurate reproduction.*
 
-# HealthyPlace.com Privacy Statement
+# HealthyPlace.com Privacy Statement - HealthyPlace
 
 The Internet contains a wealth of information. Unfortunately, it may also contain personal details about you that you don’t want everyone to know. For example, your real name (lots of people on the Internet use aliases, alter egos or nicknames), street address, phone number, or e-mail address. Also, when you go online, sites you visit may be gathering information about you --- without your knowledge.
 
