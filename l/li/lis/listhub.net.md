@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the listhub.net privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206083547id_/http%3A//www.listhub.net/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the listhub.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613163623id_/http%3A//www.listhub.net/privacy_policy.html) for the most accurate reproduction.*
 
 # ListHub - The Listing Asset Management Network
 
