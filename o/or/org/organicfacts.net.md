@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617195025id_/http%3A//www.organicfacts.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613161249id_/http%3A//www.organicfacts.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Organic Facts - Privacy Policy
+# Privacy Policy
 
 Organicfacts.net is owned and operated by RuralTech Services. it offers store owners and businesses a service to reach customers. By virtue of this, we take and consider online privacy very seriously and strictly. This privacy policy is designed to inform our customers/visitors to our site how we collect and use the personal information you elect to provide to us. If you are a visitor to our site and you choose to register for our services or provide us with personal information you authorise us to use such information as set forth in this privacy policy. Organicfacts.net collects the information necessary to serve you better.
 
@@ -29,3 +29,6 @@ Changes
 We reserve the absolute right to change, amend, alter, edit, delete or add this privacy statement. In case of multiple sessions logging in by you, you are subject to two different provisions of the privacy policies, then the most recent one shall apply. Accepting the terms and conditions as well this privacy policy automatically binds you to the most recent privacy policy applicable.
 
 YOU ARE BOUND BY ALL THE RULES OF THE TERMS AND CONDITIONS AND THE PRIVACY POLICY IRRESPECTIVE OF WHETHER YOU HAVE READ THE SAME OR NOT. ACCESSING THIS SITE DEEMS THAT YOU HAVE READ AND UNDERSTOOD ALL THE CONTENTS OF THE TERMS OF USE, PRIVACY POLICY AND THE DISCLAIMER.
+
+  
+
