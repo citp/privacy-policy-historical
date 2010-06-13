@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212131537id_/http%3A//www.adicio.com/%3Fq%3Dnode/66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adicio.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614010630id_/http%3A//www.adicio.com/%3Fq%3Dnode/66) for the most accurate reproduction.*
 
 # Privacy Policy | Adicio Inc.
 
-Last Updated on 8/12/09  
+Last Updated on 2/12/10  
 [](http://www.truste.org/ivalidate.php?url=www.adicio.com&sealid=102)
 
 ## Overview
@@ -17,7 +17,7 @@ Adicio is a licensee of the TRUSTe Privacy Program.  TRUSTe is an independent, 
 
 If you have questions or concerns regarding this statement, you should first contact us via [privacy@adicio.com](mailto:privacy@adicio.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the website to resolve your concerns.
 
-Adicio complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union.
+Adicio complies with the EU Safe Harbor framework as set forth by the Department of Commerce regarding the collection, use, and retention of data from the European Union. Upon request and within 30 days, Adicio will grant individuals reasonable access to personal information that it holds about them. In addition, Adicio will take reasonable steps to permit individuals to correct, amend, or delete information that is demonstrated to be inaccurate or incomplete. Please contact [customersupport@adicio.com](mailto:customersupport@adicio.com) to change your personal information gathered on the Site. 
 
 ## Collection and Retention of Information
 
@@ -67,6 +67,12 @@ Widgets support functions that require that you disclose certain personally iden
 ### ShareThis™
 
 When you use ShareThis™ to bookmark and share our products and site, you will be taken to a third party site and note that their privacy policy governs the collection and use of the information collected on those sites. 
+
+### Third Party Advertisers
+
+The ads appearing on this Web site are delivered to users by Google AdSense, our advertising partner. We share Web site usage information about users with a reputable third party Google AdSense for the purpose of targeting our Internet banner advertisements on this site. 
+
+Google AdSense uses cookies and clear GIFs on this site, which allow it to recognize a user's cookie when a user visits this site. The information that Google AdSense collects and shares through this technology is not personally identifiable.
 
 ## Use of Cookies
 
