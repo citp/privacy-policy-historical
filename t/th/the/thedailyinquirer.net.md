@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201045616id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedailyinquirer.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613205933id_/http%3A//www.thedailyinquirer.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Daily Inquirer
 
@@ -25,4 +25,9 @@ Third parties such as our advertisers may also use cookies to serve ads to you b
 
 
 **Links**  
-This Web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. I encourage my users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+This web site contains links to other sites. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this web site.
+
+**Infolinks Clause**  
+These links are part of a [pay per click advertising](http://www.infolinks.com/Home.html) program called Infolinks. Infolinks is an In Text advertising service; they take my text and create links within it. If you hover your mouse over these double underlined links, you will see a small dialog box containing an advertisement related to the text. You can choose to move the mouse away and go on with your browsing, or to click on the box and visit the relevant ad. [Click here to learn more about Infolinks Double Underline Link Ads.](http://www.infolinks.com/opt-out.html?pid=20561&wsid=1)
+
+[blog comments powered by ](http://disqus.com/)
