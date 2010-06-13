@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626215125id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ehealthme.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613123053id_/http%3A//www.ehealthme.com/privacypolicy) for the most accurate reproduction.*
 
-# Privacy policy of eHealthMe - drug interactions and side effects analysis for YOU
+# Privacy policy of eHealthMe - real world drug outcomes
 
 ## Privacy Policy
 
@@ -68,7 +68,7 @@ Except as set forth in this Privacy Policy or as specifically agreed to by you, 
 
 **Disclosure Re Linked Sites**
 
-For your convenience there are links to Third Party Web sites operated by companies that are not affiliated with the eHealthMe web site and that do not have contracts to provide content or services through the eHealthMe web site. These links may be found referenced within content, or placed beside the names or logos of sponsors. eHealthMe does not disclose your Personal Information to these Third Party Websites without obtaining your consent. In addition, when you choose to purchase eHealthMe's paid services, you may be taken to PayPal to complete the transaction. eHealthMe does not endorse and is not responsible for the privacy practices of these sites and the personal information collected there is governed by these third parties' privacy practices. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other website to understand how that Third Party Web site collects and uses your Personally Identifiable Information 
+For your convenience there are links to Third Party Web sites operated by companies that are not affiliated with the eHealthMe web site and that do not have contracts to provide content or services through the eHealthMe web site. These links may be found referenced within content, or placed beside the names or logos of sponsors. eHealthMe does not disclose your Personal Information to these Third Party Websites without obtaining your consent. eHealthMe does not endorse and is not responsible for the privacy practices of these sites and the personal information collected there is governed by these third parties' privacy practices. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other website to understand how that Third Party Web site collects and uses your Personally Identifiable Information 
 
 **_Part 5: How eHealthMe Handles Privacy and Security Internally_**
 
