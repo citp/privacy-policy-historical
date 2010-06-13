@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2008-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080628053458id_/http%3A//www.teamcowboy.com/privacyPolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamcowboy.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614005833id_/http%3A//www.teamcowboy.com/privacyPolicy) for the most accurate reproduction.*
 
-# Team Cowboy - Privacy Policy
-
-Privacy Policy
+# Manage your sports team schedule for free with Team Cowboy - Organize your sports team - Privacy Policy
 
   
 Team Cowboy is committed to maintaining the privacy and security of the personal information of all visitors to this site to the fullest extent permitted by law. 
