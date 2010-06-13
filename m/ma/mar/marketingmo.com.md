@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603051548id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marketingmo.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613042853id_/http%3A//www.marketingmo.com/privacy-policy-and-security-statement) for the most accurate reproduction.*
 
-# Marketing M.O. Privacy Policy - Marketing M.O.
+# Marketing M.O. Privacy Policy | Marketing M.O.
 
 We understand that you care how information about you is stored and shared. In order to provide a safe, secure experience, we will make every effort to ensure that the information you give us remains private, and is used for the purposes described below.
 
