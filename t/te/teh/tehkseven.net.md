@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tehkseven.net privacy policy that was archived on 2009-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091208033439id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tehkseven.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613125619id_/http%3A//www.tehkseven.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,3 +21,6 @@ We also use third party advertisements on tehkseven.net to support our site. Som
 
 
 You can chose to disable or selectively turn off our cookies or third-party cookies in your browser settings, or by managing preferences in programs such as Norton Internet Security. However, this can affect how you are able to interact with our site as well as other websites. This could include the inability to login to services or programs, such as logging into forums or accounts.
+
+  
+
