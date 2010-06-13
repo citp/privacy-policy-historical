@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206235354id_/http%3A//www.esteelauder.com/customer_service/privacy.tmpl) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esteelauder.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613222913id_/http%3A//www.esteelauder.com/customer_service/privacy.tmpl) for the most accurate reproduction.*
 
 # Customer Service Privacy — Estée Lauder Official Site
 
@@ -13,6 +13,47 @@ Click on one of the links below to jump to the listed section:
 
 |   
 ---|---  
+|  |  |   
+---|---|---  
+| 
+
+**Information We Collect and How We Use It**
+
+**Use of Personal Information by Estée Lauder Online**
+
+  * Marketing Emails
+  * Communications to Serve You
+  * Customized Service
+  * [Special Events, Questionnaires, and Surveys](https://web.archive.org/customer_service/privacy.tmpl#Special_Events_Questionnaires_and_Surveys)
+  * Employment
+
+ **Technologies That Allow Us to Customize Your Experience on Our Site**
+  * Web Beacons and Tracking Links
+  * Cookies
+  * Coremetrics
+
+ **Information We Share and with Whom We Share It**
+  * Estée Lauder Companies
+  * Third Parties
+  * Business Transfers
+  * Compliance with Law and Fraud Protection
+
+ **Transfer of Data to Other Countries**
+
+ **Children's Privacy**
+
+ **How We Protect Personal Information**
+
+ **Updates to Our Privacy Policy**
+
+ **Your Choices**
+
+  * Updating Your Information
+  * Opt-Out and Managing Your Preferences
+
+ **Comments**
+|   
+|   
 |  |  |   
 |  |  |   
 **INFORMATION WE COLLECT AND HOW WE USE IT**  
