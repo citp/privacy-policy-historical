@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the feedest.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204131838id_/http%3A//www.feedest.com/article.cfm/storyID/1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedest.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613151045id_/http%3A//www.feedest.com/article.cfm/storyID/1) for the most accurate reproduction.*
 
 # feedest
 
