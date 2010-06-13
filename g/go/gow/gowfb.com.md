@@ -1,14 +1,21 @@
-> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207000016id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gowfb.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613232626id_/http%3A//www.gowfb.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - GoWFB.com
 
 ## Wholesale Furniture Brokers Policies and Procedures
 
-[Shipping](http://www.gowfb.com/shipping.php) |     |  [Privacy](http://www.gowfb.com/privacy.php) |     |  [Returns](http://www.gowfb.com/returnpolicy.php) |     |  [Conditions of Use](http://www.gowfb.com/terms.php) |     |  [Warranty](http://www.gowfb.com/warranty.php)  
----|---|---|---|---|---|---|---|---  
-[Delivery Options](http://www.gowfb.com/delivery.php) |    |  [Order Processing](http://www.gowfb.com/processing.php) |    |  [Disclaimer](http://www.gowfb.com/disclaimer.php) |    |  [Cancellation](http://www.gowfb.com/cancellation.php) |    |  [Claims](http://www.gowfb.com/claims.php)  
-  
-* * *
+  * [Shipping](http://www.gowfb.com/shipping.php)
+  * [Privacy](http://www.gowfb.com/privacy.php)
+  * [Returns](http://www.gowfb.com/returnpolicy.php)
+  * [Conditions of Use](http://www.gowfb.com/terms.php)
+  * [Warranty](http://www.gowfb.com/warranty.php)
+  * [Delivery Options](http://www.gowfb.com/delivery.php)
+  * [Order Processing](http://www.gowfb.com/processing.php)
+  * [Disclaimer](http://www.gowfb.com/disclaimer.php)
+  * [Cancellation](http://www.gowfb.com/cancellation.php)
+  * [Claims](http://www.gowfb.com/claims.php)
+
+
 
 Wholesale Furniture Brokers is committed to protecting your privacy and has implemented a verified P3P Privacy Policy. To learn more about P3P Privacy Policies, visit the [FAQ of P3P policies](http://www.w3.org/P3P/p3pfaq).
 
@@ -25,3 +32,10 @@ If you find any discrepancies in your personal information, you can contact us a
 **What happens when I submit an e-mail to Wholesale Furniture Brokers?**  
 We read every message that arrives and warrants a response. We try to respond as soon as possible to all emails. We keep e-mail addresses on file in a secure server for documentation and to make sure that we respond appropriately to you.  
 If you have any specific questions about the above information, please [contact us](http://www.gowfb.com/contact_us.php).
+
+[](http://www.gowfb.com/new-fathers-day-sale)
+
+[](https://www.mcafeesecure.com/RatingVerify?ref=www.gowfb.com)
+
+© 2010 Wholesale Furniture Brokers. All Rights Reserved.   
+
