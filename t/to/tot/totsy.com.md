@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2009-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091011083648id_/http%3A//www.totsy.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totsy.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613165803id_/http%3A//www.totsy.com/privacy.html) for the most accurate reproduction.*
 
-# Totsy.com. Exclusive access. Top brands. Great deals.
+# Privacy Policy | Totsy
 
 (valid as of September 1, 2009) 
 
