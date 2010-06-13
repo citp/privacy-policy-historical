@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602042601id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethiotube.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613203902id_/http%3A//www.ethiotube.net/privacy) for the most accurate reproduction.*
 
-# EthioTube - Broadcast Ethiopia | Ethiopian Videos | Ethiopian Comedy | Ethiopian Music | Ethiopian Film | Ethiopian Politics | Ethiopian News and more |
+# EthioTube - Broadcast Ethiopia. - Ethiopian Videos | Ethiopian Comedy | Ethiopian Music | Ethiopian Films | Ethiopian Politics | Ethiopian News and more |
 
 The use of this version of the "EthioTube - Broadcast Ethiopia" website and/or EthioTube - Broadcast Ethiopia software and any other related software, upgrades or updates and all related services and special offers provided by "EthioTube - Broadcast Ethiopia" are subject to the hereunder provisions of this Privacy Policy.:
 
