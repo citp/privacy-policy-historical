@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the filesuffix.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212121151id_/http%3A//www.filesuffix.com%3Fm%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the filesuffix.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613184759id_/http%3A//www.filesuffix.com%3Fm%3Dprivacy) for the most accurate reproduction.*
 
-# Filesuffix.com the filename extension database
+# Filesuffix.com - Privacy Policy
 
 At www.filesuffix.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.filesuffix.com and how it is used. 
 
