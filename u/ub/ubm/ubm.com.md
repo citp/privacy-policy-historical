@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220042620id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubm.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613041221id_/http%3A//www.ubm.com/ubm/sitetools/privacy) for the most accurate reproduction.*
 
-# United Business Media Limited - Privacy Statement
+# UBM - Privacy Statement
 
 ## Use of Information
 
