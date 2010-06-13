@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2009-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090803111109id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkutplus.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613122636id_/http%3A//www.orkutplus.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy » Orkut Plus!
+# Privacy Policy – Orkut Plus!
 
-We respect your privacy and are committed to safeguarding your privacy while you are online at [Orkut Plus!](http://orkutplus.net/) ([orkutplus.net](http://orkutplus.net/)) .
+We respect your privacy and are committed to safeguarding your privacy while you are online at [Orkut Plus!](http://www.orkutplus.net/) ([orkutplus.net](http://www.orkutplus.net/)) .
 
 The following discloses the information gathering and dissemination practices for this Web site.
 
@@ -45,4 +45,4 @@ You are strictly advised to read our [disclaimer](http://www.orkutplus.net/discl
 
 **Contact**
 
-If you have any questions or suggestions regarding our privacy policy, please use this [contact form](http://www.orkutplus.net/contact).
+If you have any questions or suggestions regarding our privacy policy, please use this [contact form](http://www.orkutplus.net/contact). 
