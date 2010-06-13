@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214181628id_/http%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoast.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614002508id_/http%3A//yoast.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yoast - Tweaking Websites
+
+You are here: [Home](http://yoast.com/) » Privacy Policy
 
 We at Yoast have created this privacy statement in order to show my commitment to my and your privacy. This page discloses the information gathering and dissemination practices for the website yoast.com.
 
