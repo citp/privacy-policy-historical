@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212090551id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freewpblogthemes.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000033id_/http%3A//www.freewpblogthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Wordpress Themes
 
@@ -24,6 +24,6 @@ We use outside ad companies to display ads on our site. These ads may contain co
 
 ##### Contact Information
 
-If users have any questions or suggestions regarding our privacy policy, do not hesitate to [contact](http://www.freewpblogthemes.com/contact/ "contact") us via [contact us](https://web.archive.org/contact/) page.
+If users have any questions or suggestions regarding our privacy policy, do not hesitate to contact us via [contact us](https://web.archive.org/contact/) page.
 
-Thank you all 
+Thank you all :)
