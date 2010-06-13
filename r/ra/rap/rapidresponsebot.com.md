@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapidresponsebot.com privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220120840id_/http%3A//rapidresponsebot.com/rrrbprivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidresponsebot.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614001631id_/http%3A//rapidresponsebot.com/rrrbprivacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for RapidResponsebot.com
 
