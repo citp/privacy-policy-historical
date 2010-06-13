@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2009-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091217180115id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spells4free.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613150246id_/http%3A//www.spells4free.com/privacy.php) for the most accurate reproduction.*
 
-# Spells 4 free - THE MAGICK PLACE TO BE - Love spells, wicca spells black magic spells voodoo spells
+# FREE LOVE SPELLS THAT WORK - VOODOO SPELLS BLACK MAGIC SPELLS magic spells wiccan spells
 
 **www.spells4free.com  
 **
