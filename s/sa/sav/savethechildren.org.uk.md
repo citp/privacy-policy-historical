@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2009-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090808163022id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savethechildren.org.uk privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613054438id_/http%3A//www.savethechildren.org.uk/en/141.htm) for the most accurate reproduction.*
 
-# Save the Children UK Privacy policy
+# Save the Children UK : Privacy policy
 
-Save the Children's processing of your personal data is governed by the Data Protection Act 1998. 
+Save the Children's processing of your personal data is governed by the Data Protection Act 1998.
 
 If you have any questions regarding our privacy statement, please contact:
 
@@ -16,16 +16,22 @@ Email: [dataprotection@savethechildren.org.uk](mailto:dataprotection@savethechil
 
 Save the Children and Save the Children Sales are registered with the Information Commissioner for the United Kingdom.
 
+## Emails terms of use
+
+Emails aren’t always secure, and they may be intercepted or changed after they’ve been sent. Save the Children doesn’t accept liability if this happens. The contents of emails reflect their author's views and not necessarily Save the Children's. This information emails is confidential, so if you’ve received one by mistake, please delete it without copying, using, or telling anyone about its contents. Emails are sent from Save the Children, registered charity England and Wales (213890), Scotland (SC039570) and registered in England and Wales under company number 178159, or from Save the Children (Sales) Ltd, registered company in London (875945).
+
 ## How do we collect information?
 
 When you contact Save the Children regarding our activities, register as a supporter, send or receive information or make a donation to us, you provide us with personal information.
 
 ## What information do we collect?
 
-**Financial information**  
+### Financial information
+
 In order to process financial transactions, we may ask you for your bank or credit card details. All online transactions will be encrypted using SSL (Secure Sockets Layer).
 
-**Personal information**  
+### Personal information
+
 When you supply information such as your name or email address to us, we are legally obliged by the Data Protection Act 1998 to ensure that we only use this information for the purpose for which it was requested, and to ensure that it is kept securely.
 
 ## What does providing your personal information mean?
@@ -64,9 +70,9 @@ You may request a copy of the personal information relating to you which is kept
 
 If any of your personal information changes or you find that our records are out of date, please email [supportercare@savethechildren.org.uk](mailto:supportercare@savethechildren.org.uk), or telephone 020 7012 6400 (or 00 44 20 7012 6400 if you are calling from outside the UK).
 
-## Children's data
+## Children’s data
 
-When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. You agree that any information you provide to us about yourself upon registration or at any time is true. See [Terms and Conditions](https://web.archive.org/en/133.htm "Terms and conditions") for more information. 
+When you register with us, you are stating that you are over 18 years of age or are a minor acting with parental consent. You agree that any information you provide to us about yourself upon registration or at any time is true. See Terms and Conditions for more information. 
 
 ## Confidentiality 
 
