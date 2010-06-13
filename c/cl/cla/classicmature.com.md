@@ -1,27 +1,19 @@
-> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417043130id_/http%3A//www.classicmature.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classicmature.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613103657id_/http%3A//www.classicmature.com/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **PRIVACY POLICY  
 Effective Date: 10-01-96 **
 
-**This website (the "Site") is owned by Level Ventures Limited, and OneSearch Services Limited.**
+**This website (the "Site") is owned by Digentrix Worldwide Media LLC.**
 
- **Level Ventures Limited  
-Amory Building, Suite 4207  
-Victoria Road  
-Basseterre, St. Kitts  
-St. Kitts and Nevis  
-East Caribbean **
+ **Digentrix Worldwide Media LLC  
+34 East Main Street #306  
+Smithtown , NY  11787 **
 
-**OneSearch Services Ltd.  
-Athinodorou, 3, Dasoupoli, Strovolos, P.C.  
-2025, Nicosia  
-Cyprus **
+**Your privacy is very important to Digentrix Worldwide Media LLC. The following Privacy Policy explains how we collect, use and safeguard the information you provide to us through the web site and its related features and functions.**
 
-**Your privacy is very important to Level Ventures Ltd. and One Search Services, Ltd. The following Privacy Policy explains how we collect, use and safeguard the information you provide to us through the web site and its related features and functions.**
-
-Level Ventures Ltd. and One Search Services, Ltd. ("Company" or "we"), the owner and operator of **www.classicmature.com** , its web site at **Classic Mature** , and associated computer functions (hereafter the "Site"), is committed to respecting and safeguarding your privacy online, as set forth in this Privacy Policy. This Privacy Policy sets forth the policies and practices of the Company with respect to information and other data that is received or gathered regarding visitors to, and members, subscribers and other users of, the Site and services provided by or related to the Site. The use of the terms "visitor", "member", "subscriber" and "Site user" shall, depending on your status shall mean and otherwise refer to you. The term "Third Party Program Participants" shall mean merchants, advertisers, promoters, content providers and others that the Company contracts with to provide goods and services via programs and Offers (as that term is defined below) available to Site users. 
+Digentrix Worldwide Media LLC ("Company" or "we"), the owner and operator of **www.classicmature.com** , its web site at **Classic Mature** , and associated computer functions (hereafter the "Site"), is committed to respecting and safeguarding your privacy online, as set forth in this Privacy Policy. This Privacy Policy sets forth the policies and practices of the Company with respect to information and other data that is received or gathered regarding visitors to, and members, subscribers and other users of, the Site and services provided by or related to the Site. The use of the terms "visitor", "member", "subscriber" and "Site user" shall, depending on your status shall mean and otherwise refer to you. The term "Third Party Program Participants" shall mean merchants, advertisers, promoters, content providers and others that the Company contracts with to provide goods and services via programs and Offers (as that term is defined below) available to Site users. 
 
 THIS DOCUMENT CONTAINS FOURTEEN (14) NUMBERED PARAGRAPHS. BEFORE YOU BEGIN OR CONTINUE TO USE THE SITE, OR ANY SERVICES OR FUNCTIONALITY PROVIDED BY OR THROUGH THE SITE, PLEASE CAREFULLY READ THIS PRIVACY POLICY. THIS PRIVACY POLICY CONTAINS IMPORTANT INFORMATION. IT IS ALSO VERY IMPORTANT THAT YOU FULLY UNDERSTAND OUR POLICY BECAUSE BY YOUR USE OR CONTINUED USE OF THIS SITE OR ANY OF ITS RELATED SERVICES YOU WILL BE EXPRESSLY SIGNIFYING THAT YOU AGREE TO THIS POLICY IN ITS ENTIRETY AND THAT YOU AGREE TO THE COLLECTION AND USE OF INFORMATION THAT YOU SUPPLY OR THAT IS COLLECTED ABOUT YOU, INCLUDING PERSONAL INFORMATION, AS DETAILED IN THIS POLICY STATEMENT. 
 
