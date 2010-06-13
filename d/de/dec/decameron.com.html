@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the decameron.com privacy policy that was archived on 2009-06-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090618033602id_/http%3A//decameron.com/Eng/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the decameron.com privacy policy that was archived on 2010-06-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100613051542id_/http%3A//www.decameron.com/eng/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/default.dwt" codeOutsideHTMLIsLocked="false" --><head>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
@@ -59,7 +59,289 @@ document.hotForm.cityText.focus();
 }
 //-->
 </script>
+<script language="javascript">
+<!--
+/* state = 1 - show element
+   state = 0 - hide element
+*/
+function toggleDiv(divID, state){
+    if(document.layers){ //netscape 4+
 
+       document.layers[divID].visibility = state ? "show" : "hide";
+       document.layers[divID].display = state ? "block" : "none";
+
+    } else if(document.getElementById) { //netscape 6 internetExplorer 5+
+
+        document.getElementById(divID).style.visibility = state ? "visible" : "hidden";
+        document.getElementById(divID).style.display = state ? "block" : "none";
+
+    } else {    //Internet Explorer 4
+
+        document.all[divID].style.visibility = state ? "visible" : "hidden";
+        document.all[divID].style.display = state ? "block" : "none";
+
+    }
+}
+
+    function isBrowserSupp() {
+        // Get the version of the browser
+        version =  parseFloat( navigator.appVersion );
+
+        if ( ( version >= 2.0 ) && ( version < 2.1 ) && ( navigator.appName.indexOf( "Netscape" ) != -1 ) ) {
+            return false;
+        } else {
+            return true;
+        }
+
+        return true;
+    }
+
+    function isLeapYear( yrStr ) {
+        var leapYear = false;
+        var year = parseInt( yrStr, 10 );
+        // every fourth year is a leap year
+        if ( year % 4 == 0 ) {
+            leapYear = true;
+            // unless it's a multiple of 100
+            if( year % 100 == 0 ) {
+                leapYear = false;
+                // unless it's a multiple of 400
+                if( year % 400 == 0 ) {
+                    leapYear=true;
+                }
+            }
+        }
+        return leapYear;
+    }
+
+    function getDaysInMonth( mthIdx, YrStr ) {
+        // all the rest have 31
+        var maxDays = 31
+        // expect Feb. (of course)
+        if( mthIdx == 1 ) {
+            if( isLeapYear( YrStr ) ) {
+                maxDays=29;
+            } else {
+                maxDays=28;
+            }
+        }
+
+        // thirty days hath...
+        if( mthIdx == 3 || mthIdx == 5 || mthIdx == 8 || mthIdx == 10 ) {
+            maxDays=30;
+        }
+        return maxDays;
+    }
+
+    function displayHotel(){
+        toggleDiv('hotelTable', 1);
+        toggleDiv('carTable', 0);
+        toggleDiv('flightTable', 0);
+
+        document.getElementById('air').checked=false;
+        document.getElementById('car').checked=false;
+        document.getElementById('hotel').checked=true;
+	}
+
+	function displayCar(){
+        toggleDiv('hotelTable', 0);
+        toggleDiv('carTable', 1);
+        toggleDiv('flightTable', 0);
+
+        document.getElementById('air').checked=false;
+        document.getElementById('car').checked=true;
+        document.getElementById('hotel').checked=false;
+
+	}
+
+
+	function displayFlight(){
+        toggleDiv('hotelTable', 0);
+        toggleDiv('carTable', 0);
+        toggleDiv('flightTable', 1);
+
+
+        document.getElementById('air').checked=true;
+        document.getElementById('car').checked=false;
+        document.getElementById('hotel').checked=false;
+	}
+
+    //the function which does some magic to the date fields
+    // return non-zero if it is the last day of the month
+    function adjustDate( mthIdx, Dt ) {
+        var value = 0;
+
+        var today = new Date()
+        var theYear = parseInt( today.getYear(), 10 )
+
+        if( mthIdx < today.getMonth() ) {
+            theYear = ( parseInt( today.getYear(), 10 ) + 1 )
+        }
+        if( theYear < 100 ) {
+            theYear = "19" + theYear
+        } else {
+            if( ( theYear - 100 ) < 10 ) {
+                theYear = "0" + ( theYear - 100 )
+            } else {
+                theYear = ( theYear - 100 ) + ""
+            }
+            theYear = "20" + theYear
+        }
+
+
+        var numDays = getDaysInMonth( mthIdx, theYear );
+
+        if( mthIdx == 1 ) {
+            if( Dt.options.selectedIndex + 1 < numDays ) {
+                return 0;
+            } else {
+                Dt.options.selectedIndex=numDays - 1;
+                //check for leap year
+                if( numDays == 29 ) {
+                    return 99;
+                } else {
+                    return 1;
+                }
+            }
+        }
+
+        if( Dt.options.selectedIndex + 1 < numDays ) {
+            value = 0;
+        } else {
+            if ( Dt.options.selectedIndex + 1 > numDays ) {
+                Dt.options.selectedIndex--;
+                value = 3;
+            } else {
+                //index is 31 or 30
+                value = 2;
+            }
+        }
+        return value;
+    }
+
+    //changes departure month when arrival month is changed
+    function amadChange( inM, inD, outM, outD ) {
+        if ( !isBrowserSupp() ) {
+            return;
+        }
+
+        var res = adjustDate( inM.options.selectedIndex, inD );
+        if( res != 0 ) {
+               outD.options.selectedIndex = 0;
+               if ( outM.options.selectedIndex == 11 ) {
+                    outM.options.selectedIndex = 0
+               } else {
+                    outM.options.selectedIndex=inM.options.selectedIndex + 1;
+                    outD.options.selectedIndex = 1;
+               }
+        } else {
+            outM.options.selectedIndex = inM.options.selectedIndex;
+            if (outD.options.selectedIndex <= inD.options.selectedIndex) {
+                outD.options.selectedIndex = inD.options.selectedIndex + 2;
+            }
+        }
+        return;
+    }
+
+
+    function dmddChange( outM, outD ) {
+        if ( !isBrowserSupp() ) {
+            return;
+        }
+
+        adjustDate( outM.options.selectedIndex, outD );
+        return;
+    }
+
+
+
+ function OpenWindow(file, name, width, height) {
+        OpenWindow(file, name, width, height, false);
+    }
+
+    function OpenWindow(file, name, width, height, showLeftTopScrollbar) {
+        var attr = "";
+        if(showLeftTopScrollbar) {
+            attr += "top=50,left=50,scrollbars=1,";
+        }
+        attr += "width=" + width + ",height=" + height + ",resizeable=1";
+        window.open(file, name, attr);
+    }
+
+   function loadDefaultDates() {
+        var airArrival = new Date();
+        var airDeparture = new Date();
+        var carArrival = new Date();
+        var carDeparture = new Date();
+        var hotelArrival = new Date();
+        var hotelDeparture = new Date();
+
+        var hotelAdvanceArrival = 21;
+        var hotelAdvanceDeparture = 23;
+        var carAdvanceArrival = 7;
+        var carAdvanceDeparture = 8;
+        var airAdvanceArrival = 14;
+        var airAdvanceDeparture = 15;
+
+        airArrival.setDate( airArrival.getDate() + airAdvanceArrival );
+        airDeparture.setDate( airDeparture.getDate() + airAdvanceDeparture );
+        carArrival.setDate( carArrival.getDate() + carAdvanceArrival );
+        carDeparture.setDate( carDeparture.getDate() + carAdvanceDeparture );
+        hotelArrival.setDate( hotelArrival.getDate() + hotelAdvanceArrival );
+        hotelDeparture.setDate( hotelDeparture.getDate() + hotelAdvanceDeparture );
+
+        document.forms['airForm'].departureMonth.value = airArrival.getMonth();
+        document.forms['airForm'].returnMonth.value = airDeparture.getMonth();
+        document.forms['airForm'].departureDay.value = airArrival.getDate();
+        document.forms['airForm'].returnDay.value = airDeparture.getDate();
+
+        document.forms['carForm'].pickUpMonth.value = carArrival.getMonth();
+        document.forms['carForm'].dropOffMonth.value = carDeparture.getMonth();
+        document.forms['carForm'].pickUpDay.value = carArrival.getDate();
+        document.forms['carForm'].dropOffDay.value = carDeparture.getDate();
+
+        document.forms['hotForm'].arrivalMonth.value = hotelArrival.getMonth();
+        document.forms['hotForm'].departureMonth.value = hotelDeparture.getMonth();
+        document.forms['hotForm'].arrivalDay.value = hotelArrival.getDate();
+        document.forms['hotForm'].departureDay.value = hotelDeparture.getDate();
+
+    }
+
+    function validateDepWindow(formName) {
+        if (document.forms[formName].tempDepTime[document.forms[formName].tempDepTime.selectedIndex].value==('M')) {
+            window.document.forms[formName].tripWindow.value='5';
+            window.document.forms[formName].departureTime.value='7AM';
+        } else if (document.forms[formName].tempDepTime[document.forms[formName].tempDepTime.selectedIndex].value==('A')) {
+            window.document.forms[formName].tripWindow.value='5';
+            window.document.forms[formName].departureTime.value='3PM';
+        } else if (document.forms[formName].tempDepTime[document.forms[formName].tempDepTime.selectedIndex].value==('E')) {
+            window.document.forms[formName].tripWindow.value='5';
+            window.document.forms[formName].departureTime.value='8PM';
+        } else if(document.forms[formName].tempDepTime[document.forms[formName].tempDepTime.selectedIndex].value==('ANT')) {
+            window.document.forms[formName].tripWindow.value='9';
+            window.document.forms[formName].departureTime.value='12PM';
+        } else {
+            window.document.forms[formName].tripWindow.value='5';
+            window.document.forms[formName].departureTime.value=document.forms[formName].tempDepTime.value;
+        }
+    }
+
+    function validateRetWindow(formName) {
+        if (document.forms[formName].tempRetTime[document.forms[formName].tempRetTime.selectedIndex].value==('M')) {
+            window.document.forms[formName].returnTime.value='7AM';
+        } else if (document.forms[formName].tempRetTime[document.forms[formName].tempRetTime.selectedIndex].value==('A')) {
+            window.document.forms[formName].returnTime.value='3PM';
+        } else if (document.forms[formName].tempRetTime[document.forms[formName].tempRetTime.selectedIndex].value==('E')) {
+            window.document.forms[formName].returnTime.value='8PM';
+        } else if(document.forms[formName].tempRetTime[document.forms[formName].tempRetTime.selectedIndex].value==('ANT')) {
+            window.document.forms[formName].returnTime.value='12PM';
+        } else {
+            window.document.forms[formName].returnTime.value=window.document.forms[formName].tempRetTime.value;
+        }
+	   }
+
+-->
+</script>
 <script langauage="javascript">
 <!--
 function update(themonth,theday){
@@ -213,6 +495,13 @@ else if (document.forms['hotForm'].city.value=="Panama City")
 else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['hotForm'].city.value!="Runaway Bay")
 {document.forms['hotForm'].destinationID.value=""}
 
+//if (document.forms['hotForm'].numberOfChildren.value!=0)
+//{document.forms['hotForm'].room\-0\-child\-0\-age.value="11";
+//document.forms['hotForm'].room\-0\-child\-1\-age.value="11";
+//document.forms['hotForm'].room\-0\-child\-2\-age.value="11";
+//document.forms['hotForm'].room\-0\-child\-3\-age.value="11";
+//}
+
     if (form.numberOfRooms.selectedIndex == 8) {
         window.location="http://travel.ian.com/index.jsp?pageName=groups&cid=249075";
         return false;
@@ -222,6 +511,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 -->
 </script>
 
+<!-- This section is getting added for the new booking mask -->
 <style>
 	A {color:#0C447D}
 	A:visited {color:#0C447D}
@@ -254,6 +544,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 	function show(idLayer,idParent){cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;cLayer.display='block';var d=document.Wiz;} function hide(idLayer,idParent){cLayer=bVer.dom?document.getElementById(idLayer).style:bVer.ie4?document.all[idLayer].style:bVer.ns4?idParent?document[idParent].document[idLayer]:document[idLayer]:0;cLayer.display='none';}
 	function mrd(i){if (i==1) {hide('hotrm2'); hide('hotrm3'); hide('rm1txt');}if (i==2) {show('hotrm2'); hide('hotrm3'); show('rm1txt');}if (i==3) {show('hotrm2'); show('hotrm3'); show('rm1txt');}} function SetPkgType(i){var PkgWithFlightSelectedVal = document.PkgFormWithFlight.CityID.value;var PkgNoFlightSelectedVal = document.PkgFormNoFlight.CityID.value;var optionIndex = 0;if (3==i){hide('PkgWithFlight');hide('PkgWithFlightCar');show('PkgNoFlight');if (PkgWithFlightSelectedVal.length > 0) {document.PkgFormNoFlight.CityID.value = PkgWithFlightSelectedVal;}}else if (5==i){hide('PkgWithFlight');hide('PkgNoFlight');show('PkgWithFlightCar');}else{hide('PkgNoFlight');hide('PkgWithFlightCar');show('PkgWithFlight');if (PkgNoFlightSelectedVal.length > 0) {document.PkgFormWithFlight.CityID.value = PkgNoFlightSelectedVal;}document.PkgFormWithFlight.PackageType.value = i;}document.PkgTypeFrm.PrevPkgType.value = i;}
 </script>
+<!-- End first booking mask section -->
 
 <!-- InstanceParam name="spanish_inner" type="boolean" value="true" --><!-- InstanceParam name="home_spanish button" type="boolean" value="false" -->
 
@@ -282,7 +573,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
                     <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
                     <td><a href="explorer.html"><img src="../images/layout/Menu_Explorer.gif" alt="Decameron Explorer" border="0" id="Image41" onmouseover="MM_swapImage('Image41','','../images/layout/Menu_Explorer2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
                     <td><img src="../images/layout/Menu_Bullet.jpg" border="0"></td>
-                    <td><script>var ThisUrl = document.URL; var ThisUrl = ThisUrl.toLowerCase(); var NewUrl =(ThisUrl.replace(/eng/, "esp")); document.write("<a href=" + NewUrl +">");</script><a href="https://web.archive.org/web/20090618033602id_/http%3a//decameron.com/esp/privacy.html">                      <img src="../images/layout/Menu_Spanish.gif" name="LanguageLink" border="0" id="LanguageLink" onmouseover="MM_swapImage('LanguageLink','','../images/layout/Menu_Spanish2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
+                    <td><script>var ThisUrl = document.URL; var ThisUrl = ThisUrl.toLowerCase(); var NewUrl =(ThisUrl.replace(/eng/, "esp")); document.write("<a href=" + NewUrl +">");</script><a href="https://web.archive.org/web/20100613051542id_/http%3a//www.decameron.com/esp/privacy.html">                      <img src="../images/layout/Menu_Spanish.gif" name="LanguageLink" border="0" id="LanguageLink" onmouseover="MM_swapImage('LanguageLink','','../images/layout/Menu_Spanish2.gif',1)" onmouseout="MM_swapImgRestore()"></a></td>
                 </tr>
             </tbody></table>
        	  </div>
@@ -290,8 +581,8 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
           </tr>
     </tbody></table>
   </div>
-    
-    <table cellpadding="1" cellspacing="0" bgcolor="#0C447D" style="margin-left:3px;">
+  
+<table cellpadding="1" cellspacing="0" bgcolor="#0C447D" style="margin-left:3px;">
 	<tbody><tr>
     	<td>
         	<table width="752" cellspacing="0" cellpadding="5" bgcolor="#D5E1EF" border="0">
@@ -442,13 +733,17 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
                                                             
 
                                                             <select class="text1C" name="CityID">
-
+<option value="87116">Boa Vista, Cape Verde</option>
+<option value="">-----------------------------------</option>
+<option value="3462809">Baru, Colombia</option>
 <option value="926">Cartagena, Colombia</option>
 <option value="6095009">Isla Palma, Colombia</option>
 <option value="2052">Leticia (Amazon), Colombia</option>
 <option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
 <option value="6024028">San Andrés Island, Colombia</option>
 <option value="3221">Santa Marta, Colombia</option>
+<option value="">-----------------------------------</option>
+<option value="85823">Mompiche, Ecuador</option>
 <option value="">-----------------------------------</option>
 <option value="6053732">Salinitas, El Salvador</option>
 <option value="">-----------------------------------</option>
@@ -493,7 +788,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                       <td>
 
-                                                            <font class="size11">Children (2-11)<br></font>
+                                                            <font class="size11">Children (3-11)<br></font>
 
                                                             <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -535,11 +830,11 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                 </tr>
 
-                                                
+                                      
 
-                                                </tbody></table>
+                          </tbody></table>
 
-                                          </form></div>
+                    </form></div>
 
                                           <div id="PkgNoFlight" style="display:none;">
 
@@ -570,29 +865,32 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
                                                             
 
                                                             <select class="text1C" name="CityID">
-
-                                                                                                                            <option value="926">Cartagena, Colombia</option>
-<option value="6095009">Isla Palma, Colombia</option>
-<option value="2052">Leticia (Amazon), Colombia</option>
-<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
-<option value="6024028">San Andrés Island, Colombia</option>
-<option value="3221">Santa Marta, Colombia</option>
-<option value="">-----------------------------------</option>
-<option value="6053732">Salinitas, El Salvador</option>
-<option value="">-----------------------------------</option>
-<option value="180106">Montego Bay, Jamaica</option>
-<option value="6062843">Runaway Bay, Jamaica</option>
-<option value="">-----------------------------------</option>
-<option value="178222">Guayabitos, Mexico</option>
-<option value="180016">Puerto Vallarta, Mexico</option>
-<option value="">-----------------------------------</option>
-<option value="305">Agadir, Morocco</option>
-<option value="6084756">Marrakech, Morocco</option>
-<option value="">-----------------------------------</option>
-<option value="6053253">Farallon, Panama</option>
-<option value="">-----------------------------------</option>
-<option value="6034881">La Somone, Senegal</option>
-
+                                                            <option value="87116">Boa Vista, Cape Verde</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="3462809">Baru, Colombia</option>
+                                                            <option value="926">Cartagena, Colombia</option>
+                                                            <option value="6095009">Isla Palma, Colombia</option>
+                                                            <option value="2052">Leticia (Amazon), Colombia</option>
+                                                            <option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+                                                            <option value="6024028">San Andrés Island, Colombia</option>
+                                                            <option value="3221">Santa Marta, Colombia</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="85823">Mompiche, Ecuador</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6053732">Salinitas, El Salvador</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="180106">Montego Bay, Jamaica</option>
+                                                            <option value="6062843">Runaway Bay, Jamaica</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="178222">Guayabitos, Mexico</option>
+                                                            <option value="180016">Puerto Vallarta, Mexico</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="305">Agadir, Morocco</option>
+                                                            <option value="6084756">Marrakech, Morocco</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6053253">Farallon, Panama</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6034881">La Somone, Senegal</option>
                                                             </select>
 
                                                             
@@ -651,7 +949,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                       <td>
 
-                                                            <font class="size11">Children (2-11)<br></font>
+                                                            <font class="size11">Children (3-11)<br></font>
 
                                                             <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -695,9 +993,9 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                 
 
-                                                </tbody></table>
+          </tbody></table>
 
-                                          </form></div>
+      </form></div>
 
                                           
 
@@ -774,29 +1072,32 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
                                                             
 
                                                             <select class="text1C" name="CityID">
-
-<option value="926">Cartagena, Colombia</option>
-<option value="6095009">Isla Palma, Colombia</option>
-<option value="2052">Leticia (Amazon), Colombia</option>
-<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
-<option value="6024028">San Andrés Island, Colombia</option>
-<option value="3221">Santa Marta, Colombia</option>
-<option value="">-----------------------------------</option>
-<option value="6053732">Salinitas, El Salvador</option>
-<option value="">-----------------------------------</option>
-<option value="180106">Montego Bay, Jamaica</option>
-<option value="6062843">Runaway Bay, Jamaica</option>
-<option value="">-----------------------------------</option>
-<option value="178222">Guayabitos, Mexico</option>
-<option value="180016">Puerto Vallarta, Mexico</option>
-<option value="">-----------------------------------</option>
-<option value="305">Agadir, Morocco</option>
-<option value="6084756">Marrakech, Morocco</option>
-<option value="">-----------------------------------</option>
-<option value="6053253">Farallon, Panama</option>
-<option value="">-----------------------------------</option>
-<option value="6034881">La Somone, Senegal</option>
-
+                                                            <option value="87116">Boa Vista, Cape Verde</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="3462809">Baru, Colombia</option>
+                                                            <option value="926">Cartagena, Colombia</option>
+                                                            <option value="6095009">Isla Palma, Colombia</option>
+                                                            <option value="2052">Leticia (Amazon), Colombia</option>
+                                                            <option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+                                                            <option value="6024028">San Andrés Island, Colombia</option>
+                                                            <option value="3221">Santa Marta, Colombia</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="85823">Mompiche, Ecuador</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6053732">Salinitas, El Salvador</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="180106">Montego Bay, Jamaica</option>
+                                                            <option value="6062843">Runaway Bay, Jamaica</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="178222">Guayabitos, Mexico</option>
+                                                            <option value="180016">Puerto Vallarta, Mexico</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="305">Agadir, Morocco</option>
+                                                            <option value="6084756">Marrakech, Morocco</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6053253">Farallon, Panama</option>
+                                                            <option value="">-----------------------------------</option>
+                                                            <option value="6034881">La Somone, Senegal</option>
                                                             </select>
 
                                                             
@@ -825,7 +1126,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                       <td>
 
-                                                            <font class="size11">Children (2-11)<br></font>
+                                                            <font class="size11">Children (3-11)<br></font>
 
                                                             <select class="size11select" name="NumChild"><option value="0" selected="">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -869,7 +1170,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                 
 
-                                                </tbody></table>
+</tbody></table>
 
                                           </form></div>
 
@@ -918,32 +1219,34 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
                                           <tbody><tr>
 
                                                 <td>
-
-                                                                                                              <select class="text1C" name="CityID">
-
-<option value="926">Cartagena, Colombia</option>
-<option value="6095009">Isla Palma, Colombia</option>
-<option value="2052">Leticia (Amazon), Colombia</option>
-<option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
-<option value="6024028">San Andrés Island, Colombia</option>
-<option value="3221">Santa Marta, Colombia</option>
-<option value="">-----------------------------------</option>
-<option value="6053732">Salinitas, El Salvador</option>
-<option value="">-----------------------------------</option>
-<option value="180106">Montego Bay, Jamaica</option>
-<option value="6062843">Runaway Bay, Jamaica</option>
-<option value="">-----------------------------------</option>
-<option value="178222">Guayabitos, Mexico</option>
-<option value="180016">Puerto Vallarta, Mexico</option>
-<option value="">-----------------------------------</option>
-<option value="305">Agadir, Morocco</option>
-<option value="6084756">Marrakech, Morocco</option>
-<option value="">-----------------------------------</option>
-<option value="6053253">Farallon, Panama</option>
-<option value="">-----------------------------------</option>
-<option value="6034881">La Somone, Senegal</option>
-
-                                                            </select>
+<select class="text1C" name="CityID">
+    <option value="87116">Boa Vista, Cape Verde</option>
+    <option value="">-----------------------------------</option>
+    <option value="3462809">Baru, Colombia</option>
+    <option value="926">Cartagena, Colombia</option>
+    <option value="6095009">Isla Palma, Colombia</option>
+    <option value="2052">Leticia (Amazon), Colombia</option>
+    <option value="6095015">Quindío (Panaca Coffee Region), Colombia</option>
+    <option value="6024028">San Andrés Island, Colombia</option>
+    <option value="3221">Santa Marta, Colombia</option>
+    <option value="">-----------------------------------</option>
+    <option value="85823">Mompiche, Ecuador</option>
+    <option value="">-----------------------------------</option>
+    <option value="6053732">Salinitas, El Salvador</option>
+    <option value="">-----------------------------------</option>
+    <option value="180106">Montego Bay, Jamaica</option>
+    <option value="6062843">Runaway Bay, Jamaica</option>
+    <option value="">-----------------------------------</option>
+    <option value="178222">Guayabitos, Mexico</option>
+    <option value="180016">Puerto Vallarta, Mexico</option>
+    <option value="">-----------------------------------</option>
+    <option value="305">Agadir, Morocco</option>
+    <option value="6084756">Marrakech, Morocco</option>
+    <option value="">-----------------------------------</option>
+    <option value="6053253">Farallon, Panama</option>
+    <option value="">-----------------------------------</option>
+    <option value="6034881">La Somone, Senegal</option>
+</select>
 
                                                 </td><td>
 
@@ -979,7 +1282,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                       <select class="size11select" name="NumAdult"><option value="1">1</option><option selected="" value="2">2</option><option value="3">3</option><option value="4">4</option></select> 
 
-                                                      <font class="size11">Children (2-11)</font>
+                                                      <font class="size11">Children (3-11)</font>
 
                                                       <select class="size11select" name="NumChild"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -1015,7 +1318,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                             <select class="size11select" name="NumAdult2"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
-                                                            <font class="size11"> Children (2-11)</font>
+                                                            <font class="size11"> Children (3-11)</font>
 
                                                             <select class="size11select" name="NumChild2"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -1041,7 +1344,7 @@ else if (document.forms['hotForm'].city.value!="Panama City" && document.forms['
 
                                                             <select class="size11select" name="NumAdult3"><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
-                                                            <font class="size11"> Children (2-11)</font>
+                                                            <font class="size11"> Children (3-11)</font>
 
                                                             <select class="size11select" name="NumChild3"><option value="0">0</option><option value="1">1</option><option value="2">2</option><option value="3">3</option><option value="4">4</option></select>
 
@@ -1198,5 +1501,17 @@ All of the information contained in this website, including the site design,  gr
           </tbody></table>
         </div>
 </div>
+
+<!-- Google Analytics code -->
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-11743086-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
 
 <!-- InstanceEnd --></body></html>
