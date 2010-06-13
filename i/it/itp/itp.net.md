@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itp.net privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923004909id_/http%3A//www.itp.net/utility/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itp.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613113249id_/http%3A//www.itp.net/utility/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Middle East Technology News Portal - ITP.net
 
