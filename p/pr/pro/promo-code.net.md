@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promo-code.net privacy policy that was archived on 2009-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090217130251id_/http%3A//www.promo-code.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promo-code.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613183524id_/http%3A//www.promo-code.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Promo-Code.net
 
