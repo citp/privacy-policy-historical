@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2009-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090530085845id_/http%3A//glance.net/site/support/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glance.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613102241id_/http%3A//www.glance.net/site/support/privacy.asp) for the most accurate reproduction.*
 
 # Glance - Glance Networks, Inc. - Privacy
 
