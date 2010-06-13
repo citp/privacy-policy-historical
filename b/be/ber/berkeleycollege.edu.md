@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berkeleycollege.edu privacy policy that was archived on 2009-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090618055722id_/http%3A//www.berkeleycollege.edu/Privacy_Policy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berkeleycollege.edu privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613231032id_/http%3A//www.berkeleycollege.edu/Privacy_Policy/index.htm) for the most accurate reproduction.*
 
 # Berkeley College - Internet Privacy Policy
 
