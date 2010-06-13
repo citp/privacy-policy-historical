@@ -1,41 +1,71 @@
-> *The following text is extracted and transformed from the 99ranch.com privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619054034id_/http%3A//www.99ranch.com/security_and_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 99ranch.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613154437id_/http%3A//www.99ranch.com/show_info.php%3Fpage_id%3D33) for the most accurate reproduction.*
 
 # SECURITY AND PRIVACY
 
-## SECURITY AND PRIVACY
+Welcome to www.99Ranch.com.  We recognize that privacy is very important to our customers and we are committed to protecting your privacy as a visitor to this website and as our customer.  We will not collect any personal information from you that you do not volunteer, and we are the sole owner of all information collected on this website.  We do not sell, share, or rent your personal information to any third parties, unless we have your express permission or under special circumstances. We value your trust very highly, and will work to protect the security, privacy and integrity of any personal information you provide to us and will only use it as we have described in our Privacy Policy.  By providing solicited or unsolicited personal information to us, you consent to our using such information, subject to applicable laws and the terms of this Privacy Policy. 
 
-Protecting Your Privacy
+**1\. What Personal Information We Collect**
 
-The security of your personal information is very important to us. We never sell or rent your personal information to any third parties under any circumstances. We value your trust very highly, and will work to protect the security, privacy and integrity of any personal information you provide to us and will only use it as we have described in our Privacy Policy.
+**1.1.   Voluntarily Provided Personal Information**
 
-## PRIVACY POLICY
+We receive and may store information you provide voluntarily to our website.  This information may include your name, age, phone number, mailing address, email address, and any information that can be linked to you. 
 
-Voluntarily Providing Information
+99 Ranch Market does not knowingly and intentionally collect personal information about children under the age of 13 without permission from their parents or legal guardian.  However, we cannot always determine the age of persons who access and use our website.  If a child under the age of 13 provides us with his/her personal information without parental or guidance consent, we strongly encourage the parent or guardian to contact us to have this information removed and to unsubscribe the child from future 99 Ranch Market marketing communications. 
 
-We collect personal information that you choose to provide voluntarily when using the 99 Ranch Market Web site. This information includes your name, address and phone number. 99 Ranch Market does not intentionally collect personal information about children under the age of 13.
+**1.2. ****  Automatically Collected Personal Information **
 
-We also collect certain technical information from your computer each time you request a page during a visit to 99 Ranch Market. This information may include your Internet Protocol (IP) address. We collect this information to enhance the quality of your experience during your visit to our site and will not sell or rent this information to any third parties.
+We also collect certain technical information from your computer each time you request a page during a visit to our website. This information may include your Internet Protocol (IP) address, your computer’s operating system, browser type and the address of a referring website.  We collect this information to enhance the quality of your experience during your visit to our website and for system administration, security, and troubleshooting purposes.  We will not sell, share or rent this information to any third parties. 
 
-Contacting 99 Ranch Market
+**1.3. ****  If You Contact Us By Email**
 
-Should you contact us by email, we will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our site.
+Should you contact us by email, we will use your email address to respond to your questions, suggestions, and/or requests for assistance in using our website.
 
-Other Times We May Collect Personal Information
+**1.4.   Personal Information Collected Via Surveys, Contests, Promotions **
 
-From time to time, 99 Ranch Market may conduct surveys, contests or promotions via our Web site, email, other media, or in 99 Ranch Market. If you choose to participate, we may request your name, email address, mailing address and other personal information. You also may provide us with certain information when you choose to contact us online. This information may include your name, address, email address, phone number, VIP card number, and the location of the 99 Ranch Market you visit. 99 Ranch Market also collects information from customers’ offline when you fill out a VIP application. The VIP card entitles you to join the 99 Ranch Market award program. We will never sell or rent such information to any third parties.
+From time to time, we may conduct surveys, contests or promotions via our website, email, other media, or in 99 Ranch Market stores. If you choose to participate, we may request your name, age, phone number, mailing address, email address and other personal information. You also may provide us with certain information when you choose to contact us online. This information may include your name, age, phone number, mailing address, email address, and the location of the 99 Ranch Market you visit. 
 
-Information we collect on 99 Ranch Market may be used to enhance your shopping experience in the following ways:
+**2\. How We Use Your Personal Information**
 
-*Register you as a VIP member of 99 Ranch Market.
+Information we collect on our website may be used to enhance your shopping experience in the following ways:
 
-*Respond to your customer-service inquiries or requests.
+*To respond to your customer-service inquiries or requests.  To improve customer services. 
 
-*Communicate special offers and featured items to you, if you choose to receive such notices.
+*To improve our website based on the information and feedback we receive from you. 
 
-We never sell or rent your personal information to any third parties under any circumstances. We will share personal customer information only with our agents, representatives and trusted service providers and contractors for limited purposes, including offering certain products and services in connection with our Web site; communicating to customers; enhancing and improving customers’ shopping experience. Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required by law.
+*To communicate special offers and featured items to you, if you choose to receive such notices.
 
-The security of your personal information is very important to us. Our web server is protected behind a firewall with the latest security patches, using a Microsoft SQL server to secure the data.
+*For market research, surveys, and similar purposes to help us understand trends and customer needs across product categories or customer groups.
 
-If you choose to receive periodic communications from us, 99 Ranch Market may from time to time send you email messages describing new item information, promotional offers, price changes, and product information updates. You can choose to stop receiving this email at any time. The only email message you will receive from 99 Ranch Market is to answer any other questions you may have about our company.
+*To evaluate your shopping experience, existing products, and services, or to create new items. 
 
-This Privacy Policy was posted on 99 Ranch Market on March 25, 2005. We reserve the right to change, modify or amend this policy at any time. If we make any significant change to this policy, we will post notice of the change on 99 Ranch Market for a period of at least six months after the change is implemented.
+*To enter you into contests, sweepstakes and promotions.
+
+*To send periodic emails, newsletters, articles, updates, related product or service information, if you choose to receive such notices. 
+
+*To prevent, investigate, or provide notice of fraud, unlawful or criminal activity; unauthorized use of, or access to, personal information, our website, or security systems; or to meet other legal obligations. 
+
+**3\. When and With Whom We Share Your Personal Information**
+
+We never sell, share or rent your personal information to any third parties without your prior consents or under special circumstances.  We will share personal customer information only with our agents, representatives and trusted service providers and contractors for customer support services, processing of personal information for 99 Ranch Market, and for limited purposes, including offering certain products and services in connection with our website; communicating to customers; enhancing and improving customers’ shopping experience. Aside from the purposes described above, we will never share your personal information with any other third parties unless we have your express permission or under special circumstances, such as when we believe in good faith that the disclosure is required by law, in response to their request for such information, or to assist in investigations of theft, fraud, or abuse.   
+
+**4\. How We Protect the Security of Your Personal Information**
+
+The security of your personal information is very important to us. Our web server is protected behind a firewall with the latest security patches to secure the data.
+
+**5\. You Can Decide What Marketing Communications You Receive From Us**
+
+If you choose to receive periodic communications from us, we may from time to time send you email messages describing new item information, promotional offers and related product or service information updates. You can choose to stop receiving this email at any time.  If at any time you would like to unsubscribe from receiving future emails, we include unsubscribe instructions at the bottom of each email.  The only email message you will receive from us is to answer any other questions you may have about our company.
+
+**6\. Third Party Links**
+
+We may include or offer third party products or services on our website for your convenience and information only.  These third party sites have separate and independent privacy policies.  Any personal information that you provide when accessing a third party website is subject to that third party’s privacy policy.  We are not responsible for information you provide directly to a third party. We have no responsibility or liability for the content and activities of these linked sites. 
+
+**7\. Terms and Conditions**
+
+Please visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website.  This Privacy Policy is a part of and is incorporated into our Terms and Conditions by reference. 
+
+**8\. Changes to Our Privacy Policy**
+
+We reserve the right to change, modify or amend our Privacy Policy at any time.  We encourage you to review this policy periodically.  If you have previously accepted one of our special offers or agreements, those applicable terms and your continued use will apply to our collection, use and disclosure of personal information.  In the case of a conflict, this Privacy Policy supersedes those prior policies or agreements.  If our practice in using and/or sharing personal information changes in the future, those changes will be reflected in this Privacy Policy.  You can determine the date this Privacy Policy was last updated by referring to the modification date found at the bottom of this Privacy Policy. 
+
+Last updated: May 29, 2009
