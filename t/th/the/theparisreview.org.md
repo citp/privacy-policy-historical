@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2009-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090507190328id_/http%3A//theparisreview.org/page.php/prmID/13) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theparisreview.org privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613083035id_/http%3A//www.theparisreview.org/page.php/prmID/13) for the most accurate reproduction.*
 
 # The Paris Review - Privacy Policy
 
