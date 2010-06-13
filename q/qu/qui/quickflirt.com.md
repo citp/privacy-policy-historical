@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212091141id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickflirt.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000002id_/http%3A//www.quickflirt.com/privacy.cfm) for the most accurate reproduction.*
 
-# Online Dating Community UK - Free Registration - QuickFlirt
+# Your privacy and safety at Quick Flirt Online Dating
 
 **QuickFlirt - PRIVACY POLICY**
 
-This website ("Site") is operated by Allegran Limited ("We"). We are registered in England and Wales under company number 04363830 and have our registered office at Northcliffe House, 2 Derry Street, London W8 5TT. Our VAT number is GB 243 571 174
+This website ("Site") is operated by Easy Date Holdings Ltd. ("We"). Registered Office: 23 Manor Place, Edinburgh EH3 7XE. Registered in Scotland no. SC368538 
 
 We are committed to protecting and respecting your privacy and this policy sets out the basis on which any personal data we collect from you through the Site, or that you provide to us via the Site, will be processed by us. Please read this statement carefully.
 
@@ -48,7 +48,7 @@ We may use information held about you in the following ways:
   * to share aggregated statistics relating to use of our web site with third parties such as our marketing and business partners to let you know about our service and those products and services of other companies we work with.
   * We may also contact you by post, fax, email or telephone.
   * We may pass the information we collect about you to other members of our group, including companies with which we have joint ventures or strategic alliances. We may also pass your information to carefully selected companies we work with who will use your information for marketing and advertising products and services which may be of interest to you.
-  * As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that Allegran Limited or its assets areacquired, this information will also be one of the transferred assets."
+  * As we continue to develop our business, we might sell or buy assets. In such transactions, the information we have collected about you will generally be one of the transferred business assets. Also in the unlikely event that Easy Date Holdings Ltd. or its assets areacquired, this information will also be one of the transferred assets."
 We may share information about you with: 
     * other companies in the same corporate group as us;
     * a buyer or prospective buyer of our business;
