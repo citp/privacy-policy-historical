@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2009-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091216063731id_/http%3A//twitgoo.com/a/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twitgoo.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613181355id_/http%3A//twitgoo.com/a/privacy) for the most accurate reproduction.*
 
-# Twitgoo
+# Twitgoo - Privacy Policy
 
-**Twitgoo Privacy Policy**
+## Twitgoo Privacy Policy 
 
 Effective as of March 1, 2009
 
@@ -83,3 +83,6 @@ Mail:
 PO Box 13003 
 
 Denver, CO 80201 
+
+|   
+---|---
