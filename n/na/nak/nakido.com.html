@@ -1,959 +1,286 @@
-<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2007-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20071215101951id_/http%3A//www.nakido.com/pv) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nakido.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614012626id_/http%3A//www.nakido.com/privacy) for the most accurate reproduction.-->
 
-<html><head>
-<title>Privacy Policy</title>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<title>Nakido | Privacy Policy</title>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta name="description" content="">
-<meta name="keywords" content="">
-
-
-<link href="/main.css" rel="stylesheet" type="text/css">
-<script src="/js/yahoo-dom-event.js" type="text/javascript"></script>
-<script src="/js/prototype.js" type="text/javascript"></script>
-<script src="/js/scriptaculous.js" type="text/javascript"></script>
-<script src="/js/AC_RunActiveContent.js" type="text/javascript"></script>
-<script src="/js/AC_ActiveX.js" type="text/javascript"></script>
-<script src="/js/cate_menu.js" type="text/javascript"></script><style type="text/css">
-.submenu{display: none;}
-</style>
-
-<script src="/js/dom-drag.js" type="text/javascript"></script>
-<script src="/js/notifytext.js" type="text/javascript"></script>
-<script src="/js/copy-code.js" type="text/javascript"></script>
-<script src="/js/autoTooltips.js" type="text/javascript"></script>
-
-
+<meta http-equiv="language" content="en">
+<link href="/css/1306.css" rel="stylesheet" type="text/css"><script type="text/javascript">if(top!=self)top.location.href=self.location.href;</script>
+<script src="/js/1306en-us.js" type="text/javascript"></script>
 <script type="text/javascript">
-function MM_swapImgRestore() { //v3.0
-  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
-}
+var vip = false;
+function InitFlag() {}
 
-function MM_preloadImages() { //v3.0
-  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
-    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
-    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
-}
-
-function MM_findObj(n, d) { //v4.01
-  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
-    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
-  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
-  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
-  if(!x && d.getElementById) x=d.getElementById(n); return x;
-}
-
-function MM_swapImage() { //v3.0
-  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
-   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
-}
-
-function set_cookie(n,v,t) {
- var now=new Date();
- var expire=new Date();
- expire.setTime(now.getTime()+t);
- document.cookie = n+'='+escape(v)+';expires='+expire.toGMTString();
-}
-
-function get_cookie(n) {
-var search = n+'='
-var returnvalue='';
-if (document.cookie.length > 0) {
-offset = document.cookie.indexOf(search)
-if (offset != -1) { // if cookie exists
-offset += search.length
-// set index of beginning of value
-end = document.cookie.indexOf(";", offset);
-// set index of end of cookie value
-if (end == -1)
-end = document.cookie.length;
-returnvalue=unescape(document.cookie.substring(offset, end))
-}
-}
-return returnvalue;
-}
-
-
-    if(!window.Nakido)window.Nakido={};
-    Nakido.version=0;
-    Nakido.uptime=0;
-    Nakido.connected=false;
-    Nakido.detected=false;
-    Nakido.downloads=new Array();
-    Nakido.download_count=0;
-
-    var c=get_cookie('version');
-    if(c)Nakido.version=parseInt(c);
-    c=get_cookie('connected');
-    if(c)Nakido.connected=true;
-    c=get_cookie('uptime');
-    if(c)Nakido.uptime=parseInt(c);
-    c=get_cookie('detected');
-    if(c)Nakido.detected=true;
-
-    var PLATFORM_OTHER    = 0;
-    var PLATFORM_WINDOWS  = 1;
-    var PLATFORM_LINUX    = 2;
-    var PLATFORM_MACOSX   = 3;
-    var PLATFORM_MAC      = 4;
-
-    // Default to windows
-    var gPlatform = PLATFORM_WINDOWS;
-
-    if (navigator.platform.indexOf("Win32") != -1)
-      gPlatform = PLATFORM_WINDOWS;
-    else if (navigator.platform.indexOf("Linux") != -1)
-      gPlatform = PLATFORM_LINUX;
-    else if (navigator.userAgent.indexOf("Mac OS X") != -1)
-      gPlatform = PLATFORM_MACOSX;
-    else if (navigator.userAgent.indexOf("MSIE 5.2") != -1)
-      gPlatform = PLATFORM_MACOSX;
-    else if (navigator.platform.indexOf("Mac") != -1)
-      gPlatform = PLATFORM_MAC;
-    else
-      gPlatform = PLATFORM_OTHER;
-
-    var displaydlg = false;
-    var displaydlgad = false;
-    var nakidoflagad = false;
-    var expired = new Date();
-    var dlurl;
-
-    function nakido_setstatus(v,c,u)
-    {
-        Nakido.version=v;
-        Nakido.connected=c;
-        Nakido.uptime=u;
-        Nakido.detected=true;
-        var now = new Date();
-        expired = new Date(now.getTime() + 10001);
-        set_cookie('version',v,10000);
-        set_cookie('connected',c,10000);
-        set_cookie('uptime',u,10000);
-        set_cookie('detected','true',10000);
-    }
-
-    function nakido_setdownloadprogress(f,r,s,p)
-    {
-        Nakido.downloads[f]=r+'#'+s+'#'+p+'#';
-        var now=new Date();
-        Nakido.downloads[f+'l']=new Date(now.getTime()+30000);
-    }
-
-    function TimedNakidoStatus()
-    {
-        GetNakidoStatus();
-        setTimeout('TimedNakidoStatus()', 5000);
-    }
-
-    function GetNakidoStatus()
-    {
-        var now = new Date();
-        var htmls=document.getElementsByTagName('head');
-        var js = document.getElementById('ndetect');
-        if (js) htmls[0].removeChild(js);
-        js=createjscript('ndetect','http://127.0.0.1:6666/ctrl/www' + '?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds());
-        htmls[0].appendChild(js);
-        UpdateNakidoStatus();
-        if(self.GetDLStatus&&Nakido.detected)GetDLStatus();
-        if(self.UpdateDLStatus)UpdateDLStatus();
-    }
-
-    function UpdateNakidoStatus()
-    {
-        var now = new Date();
-        if (Nakido.version >= 168 && expired > now)
-        {
-            Nakido.detected=true;
-            displaydlg = true;
-        }
-        else
-        {
-            Nakido.connected=false;
-            Nakido.version=0;
-            Nakido.uptime=0;
-            Nakido.detected=false;
-        }
-
-        var x = document.getElementById("detect");
-        if (x)
-        {
-            if (Nakido.detected)
-                x.src = '/images/top_bar/nakido_flag_detected.gif';
-            else
-                x.src = '/images/top_bar/no_nakido_flag_detected.gif';
-            x=null;
-        }
-
-        if (Nakido.detected){Close("popdivnakidoflag");}
-        else {if (!displaydlg){showPopDiv("popdivnakidoflag");displaydlg = true;}}
-
-        x=document.getElementById('nakido_version');if(x){if(Nakido.version>0){x.innerHTML=(Nakido.version/100).toFixed(2);}else{x.innerHTML='-';}}
-        x=document.getElementById('nakido_connected');if(x){if(Nakido.connected){x.innerHTML="Yes";}else{x.innerHTML="No";}}
-        x=document.getElementById('nakido_uptime');if(x){if(Nakido.uptime>0){x.innerHTML=gettime(Nakido.uptime);}else{x.innerHTML='-';}}
-    }
-
-    function gettime(seconds)
-    {
-        if (seconds < 60)
-            return seconds.toFixed(0) + 's';
-        else if (seconds < (60 * 60))
-            return (seconds/60).toFixed(0) + 'm ' + gettime(seconds%60);
-        return (seconds/60/60).toFixed(0) + 'h ' + gettime(seconds%3600);
-    }
-
-    function getsize(bytes)
-    {
-        if (bytes < 1024)
-            return bytes + ' Bytes';
-        else if (bytes < (1024 * 1024))
-            return (bytes/1024*100/100).toFixed(0) + ' KB';
-        else if (bytes < (1024 * 1024 * 1024))
-            return (bytes/1024/1024).toFixed(2) + ' MB';
-        else if (bytes < (1024 * 1024 * 1024 * 1024))
-            return (bytes/1024/1024/1024).toFixed(2) + ' GB';
-        return '';
-    }
-
-    function createjscript(id, src)
-    {
-        var js=document.createElement("script");
-        js.id=id;
-        js.src=src;
-        js.type='text/javascript';
-        return js;
-    }
-
-    function imgzoom(o) 
-    {
-	    if(event.ctrlKey) 
-        {
-		    var zoom = parseInt(o.style.zoom, 10) || 100;
-		    zoom -= event.wheelDelta / 12;
-		    if(zoom > 0) {
-			    o.style.zoom = zoom + '%';
-		    }
-		    return false;
-	    } else {
-		    return true;
-	    }
-    }
-
-    function PopAds()
-    {
-        if (!displaydlgad && (!nakidoflagad || !Nakido.detected))
-        {
-            showPopDiv("popdivad");
-            displaydlgad = true;
-        }
-    }
-
-  function SetClipboard(s)
-  {
-     if (!document.all) return; 
-     window.clipboardData.setData('Text',s);
-     window.status="The linking code was copied into clipboard.";
-  }
-
-  
-    function GetDLStatus()
-    {
-        for (var filekey in Nakido.downloads)
-        {
-            var now = new Date();
-            var t=30000;
-            if (filekey.length!=40||(Nakido.uptime>10&&Nakido.downloads[filekey+'l']&&Nakido.downloads[filekey+'l']>now))continue;
-            Nakido.downloads[filekey+'l']=new Date(now.getTime()+t);
-
-            var p;
-            var b=Nakido.downloads[filekey].split('#');
-            if(b)p=b[2];
-
-            var htmls=document.getElementsByTagName('head');
-            var js = document.getElementById('ndl'+filekey);
-            if (js) htmls[0].removeChild(js);
-            js=createjscript('ndl'+filekey,'http://127.0.0.1:6666/ctrl/GET/' + filekey + '?' + now.getFullYear() + now.getMonth() + now.getDay() + now.getHours() + now.getMinutes() + now.getSeconds());
-            htmls[0].appendChild(js);
-        }
-    }
-
-    function UpdateDLStatus()
-    {
-        for (var filekey in Nakido.downloads)
-        {
-            if (filekey.length!=40)continue;
-            var g=Nakido.downloads[filekey];
-            var p='0';
-            var b0='0';
-            var b1='0';
-            if(g&&g.length>=3)
-            {
-                var b=g.split('#');
-                if(b){ b0=b[0]; b1=b[1]; p=b[2]; }
-            }
-
-            var js=document.getElementById(filekey);
-            if(!js){}
-            else if(!Nakido.detected)
-            {
-                if (js) js.innerHTML = '<a href="/nakido.exe" onclick="return CheckNakidoExists(true);" ><b><font color=CC0000>No Nakido Flag Detected</font></b></a>';
-                js = document.getElementById(filekey + 'download_img');
-                if (js) js.width = 0;
-            }
-            else if(p=='0'&&b0=='0'&&b1=='0')
-            {
-                if (js) js.innerHTML = 'Searching...';
-                js=document.getElementById(filekey + 'download_img');
-                if (js) js.width = 0;
-            }
-            else if(p!='0'||b0!='0'||b1!='0')
-            {
-                js.innerHTML = '<b>' + p + '%</b>';
-                if (b1!='0')
-                {
-                    js.innerHTML += ' (' + getsize(b0) + '/' + getsize(b1) + ')';
-                    if (dlurl) js.innerHTML += ' [<a href="' + 'http://127.0.0.1:6666' + dlurl + '"><b>Save</b></a>]';
-                }
-
-                if (p=='100') if (document.getElementById('preview'))js.innerHTML += ' [<a href="javascript:void(0)" onclick="showpreview();"><b>Preview</b></a>]';
-
-                js=document.getElementById(filekey + 'download_img');
-                if (js) js.width = (p/100*200);
-            }
-        }
-    }
-
-    function doload()
-    {
-        setTimeout('PopAds()', 3000);
-        GetNakidoStatus();
-    }
-
-    function Down(id,action,e) 
-    { 
-	    if (e!=null && e.keyCode==27)
-	    {	
-	        Close(id);
-		    return;
-	    }
-	    var nakidoflagurl = '/nakido.exe';
-	    if (gPlatform == PLATFORM_MACOSX)
-	        nakidoflagurl = '/nakido.dmg';
-	    else if (gPlatform == PLATFORM_LINUX)
-	        nakidoflagurl = '/nakido.rpm';
-        switch (action) 
-        { 
-            case "nakidoflag": document.location.href=nakidoflagurl; break; 
-            case "nakidomember": document.location.href='/signup/membership/'; break; 
-            case "nakidovip": document.location.href='/signup/membership/'; break; 
-            case "help": document.location.href='/download'; break; 
-        }
-        Close(id);
-    } 
-    function Close(pop) 
-    { 
-        var p=document.getElementById(pop); 
-        if (p)
-            p.style.visibility="hidden"; 
-    } 
-      
-    function showPopDiv(pop)
-    {
-     var p=document.getElementById(pop);
-     if(p){
-        var dsocleft=ie? document.body.scrollLeft : pageXOffset;
-        var dsoctop=ie? document.body.scrollTop : pageYOffset;
-        var window_width=ieNOTopera? document.body.clientWidth : window.innerWidth-20;
-        var window_height=ieNOTopera? document.body.clientHeight : window.innerHeight;
-        p.style.left = (parseInt(dsocleft)+window_width-p.offsetWidth)/2;
-        p.style.top = (parseInt(dsoctop)+window_height-p.offsetHeight)/2;
-         p.style.visibility = "visible";
-         p.focus();
-        }
-    }
-
-    function CheckNakidoExists(pop)
-    {
-        if (!Nakido.detected)
-        {
-            if(pop)showPopDiv("popdivdl");
-            return false;
-        }
-        return true;
-    }
-
-    TimedNakidoStatus();
-
-var rpf=false
-function punchorflush(a)
+function UpdateStatus()
 {
-   rpf=false;
-   if(window.XMLHttpRequest)
-   {
-      rpf=new XMLHttpRequest();
-      if(rpf.overrideMimeType)
-      {
-         rpf.overrideMimeType('text/xml');
-      }
-   } else if(window.ActiveXObject)
-   {
-      try 
-      {
-         rpf=new ActiveXObject("Msxml2.XMLHTTP");
-      }
-      catch(e)
-      {
-         try
-         {
-            rpf=new ActiveXObject("Microsoft.XMLHTTP");
-         }
-         catch(e)
-         {
-         }
-       }
-    }
-    if(!rpf)
+    if(Nakido.detected&&init_flag)
     {
-       return false;
+        InitFlag();
+        init_flag=false;
     }
-    
-    rpf.onreadystatechange=opf;
-    rpf.open('GET',a,true);
-    rpf.send(null);
-    return false;
-}
-
-function punch(k)
-{
-    return punchorflush('/punch/' + k);
-}
-
-function flush(k)
-{
-    return punchorflush('/flush/' + k);
-}
-
-function opf()
-{
-   if(rpf.readyState==4)
-   {
-      if(rpf.status==200)
-      {
-        if(rpf.responseText)
-        {
-            var b=rpf.responseText.split('#');
-            var p=document.getElementById('punch'+b[0]);
-            if (b[1]!='-1'&&p)p.innerHTML=b[1];
-        }
-      }
-   }
-}
-
-var coins = 10000;
-
-function adclicked()
-{
-    if (setmessage)setmessage('msg_pop0', '#00FF00', 10000);
-    if (document.getElementById('coin')&&coins){
-        coins+=10;
-        new Effect.Shake(document.getElementById('coin'));
+    if(document.ul&&Nakido.ulm)
+    {
+        Nakido.mul=false;
+document.ul.action='http://'+uploadserver+'/upload/'+uploadid;
     }
+    setTimeout('UpdateStatus()', 1000);
 }
 
-function DoEffect()
+UpdateStatus();
+
+function doload()
 {
-    var i;
-    for (i = 0; i <= 0; i++) {
-        var j = document.getElementById('pulsate' + i);
-        if (j)
-            new Effect.Pulsate(j);
-    }
-
-    for (i = 0; i <= 0; i++) {
-        var j = document.getElementById('puff' + i);
-        if (j)
-            new Effect.Puff(j);
-    }
-
-    for (i = 0; i <= 0; i++) {
-        var j = document.getElementById('shake' + i);
-        if (j)
-            new Effect.Shake(j);
-    }
-setTimeout('DoEffect()',12000);
-}
-DoEffect();
-
-</script><script id="ndetect" src="http://127.0.0.1:6666/ctrl/www?202005164842" type="text/javascript"></script></head>
-
-<body topmargin="0" marginheight="0" marginwidth="0" onload="doload()">
-<script type="text/javascript">
-var msg_pop_obj = new Array(1);
-var msg_pop = new Array(1);
-msg_pop['msg_pop0']='<table border="0"><tr><td valign="middle"><b><nobr>+10</nobr></b></td><td height="16"><img src="/images/coin.gif" border="0" height="16" width="16"></td><td><nobr>: <font color="#444444"><b>Thank you for visiting our sponsor!</b></font></nobr></td></tr></table>';
-                            document.write('<div id="msg_pop0" style="position:absolute;visibility:hidden;">' + msg_pop['msg_pop0'] + '</div>');
-                            msg_pop_obj['msg_pop0']=ie? document.all.topmsg : document.getElementById? document.getElementById("msg_pop0") : document.topmsg;
-var ie=document.all;
-var ieNOTopera=document.all&&navigator.userAgent.indexOf("Opera")==-1;
-var mid;
-
-function positionit(){
-if(!msg_pop_obj[mid])return;
-var dsocleft=ie? document.body.scrollLeft : pageXOffset;
-var dsoctop=ie? document.body.scrollTop : pageYOffset;
-var window_width=ieNOTopera? document.body.clientWidth : window.innerWidth-20;
-var window_height=ieNOTopera? document.body.clientHeight : window.innerHeight;
-
-msg_pop_obj[mid].style.left=(parseInt(dsocleft)+window_width-msg_pop_obj[mid].offsetWidth)/2;
-msg_pop_obj[mid].style.top=(parseInt(dsoctop)+window_height-msg_pop_obj[mid].offsetHeight)/2;
-msg_pop_obj[mid].style.visibility = "visible";
-msg_pop_obj[mid].focus();
+    GetNakidoStatus();
 }
 
-function setmessage(msgid, bkclr, duration){
-if (mid!=''&&msg_pop_obj[mid])msg_pop_obj[mid].style.visibility='hidden';
-mid=msgid;
-if(!msg_pop_obj[mid])return;
-if (document.layers){
-msg_pop_obj[mid]=new Layer(window.innerWidth);
-msg_pop_obj[mid].bgColor=bkclr;
-if (document.layers)
-setTimeout("window.onresize=regenerate",400);
-msg_pop_obj[mid].document.write(msg_pop[mid]);
-msg_pop_obj[mid].document.close();
-positionit();
-msg_pop_obj[mid].visibility="show";
-if (duration!=0)
-setTimeout("msg_pop_obj[mid].visibility='hide';mid='';",duration);
-}
-else{
-positionit();
-msg_pop_obj[mid].style.backgroundColor=bkclr;
-msg_pop_obj[mid].style.visibility="visible";
-if (duration!=0)
-setTimeout("msg_pop_obj[mid].style.visibility='hidden';mid='';",duration);
-}
-setInterval('positionit()' ,100);
-}
+</script>
+</head>
 
-  
+<body onload="doload()">
+<div id="hdr_wpr">
+<div id="hdr_bg_wpr">
+<div id="hdr_menu">
 
-</script><div id="msg_pop0" style="position:absolute;visibility:hidden;"><table border="0"><tbody><tr><td valign="middle"><b><nobr>+10</nobr></b></td><td height="16"><img src="/images/coin.gif" border="0" height="16" width="16"></td><td><nobr>: <font color="#444444"><b>Thank you for visiting our sponsor!</b></font></nobr></td></tr></tbody></table></div>
+<div id="mdl_left"><span><a href="/" id="logo"></a></span><span id="slogan">File Sharing Made Easy!</span> <a href="javascript:void(0)" onclick="return clickreturnvalue()" onmouseover="dropdownmenu(this, event, menuLanguages, '150px')" onmouseout="delayhidemenu()" id="lang_slct">English (US)</a> 
+<div class="img_ctnr img_ic_arrow_dtn_16" style="margin-top:17px;"></div> 
+</div> 
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tbody><tr>
-    <td align="center" valign="top">
-      <table width="820" border="0" cellspacing="0" cellpadding="0">
-    <tbody><tr>
-      <td><table width="820" height="90" border="0" cellpadding="0" cellspacing="0">
+<div id="mdl_right">
+        <ul class="ul_float"> 
+<li><span class="bk_right br_right" style="padding-right:0;border:0;"><a href="/login">Login</a></span></li><li><span class="bk_right br_right"><a href="/signup">Sign Up</a></span></li>
+        </ul> 
+</div>
+</div>
+</div>
+</div>
 
-          <tbody><tr>
-            <td width="20" height="90"></td>
-            <td width="240" valign="top"><table width="240" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td width="240"><a href="/"><img src="/images/nakido_logo.gif" width="240" height="90" border="0"></a></td>
-                </tr>
-              </tbody></table>
-			  </td>
-            <td width="210" valign="top"><table width="200" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr><td><img src="/images/spacer.gif" height="13"></td></tr>
-                <tr><td class="small_text">Version: <b><a href="javascript:void(0)" title="Your version of Nakido Flag."><span id="nakido_version">-</span></a><a>/</a><a href="javascript:void(0)" title="Current version of Nakido Flag.">1.77</a></b></td></tr>
-                <tr><td class="small_text">Connected: <b><a href="javascript:void(0)" title="Check your internet connection or firewall if not connected."><span id="nakido_connected">No</span></a></b></td></tr>
-                <tr><td class="small_text">Uptime: <b><a href="javascript:void(0)" title="Current uptime of Nakido Flag."><span id="nakido_uptime">-</span></a></b></td></tr>
-              </tbody></table>
-			  </td>
-              <td width="330" valign="top" align="right">
-			  <table width="330" height="90" border="0" cellpadding="0" cellspacing="0">
-                <tbody><tr>
-                  <td height="50" align="right" valign="top">
-						<form name="searchForm" method="get" action="/search">
-						<table width="100%" height="100%" cellpadding="0" cellspacing="0">
-						  <tbody><tr><td height="12"><img src="/images/spacer.gif" height="12"></td>
-						</tr><tr><td valign="top">
-						<table width="170" cellpadding="0" cellspacing="0">
-						  <tbody><tr><td>
-							<input name="q" type="text" class="search_field" tabindex="10000" value="" maxlength="128"></td><td>
-							    <input type="image" src="/images/search_button.gif" align="middle">
-							</td>
-						  </tr></tbody></table></td></tr></tbody></table>
-						</form>
-				  </td>
-				  <td height="50" align="right" valign="middle">
-					<a href="/intl/"><img src="/images/top_menu/language.gif" width="140" height="50" border="0"></a></td>
-                </tr>
-                <tr>
-                  <td width="400" height="30" colspan="2" align="right" valign="bottom" class="small_text">
-                    <a href="/signup/membership/"><b>Sign up</b></a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="/login/">Login</a>&nbsp;&nbsp;
-                </td></tr>
-				<tr><td height="10" colspan="2"><img src="/images/spacer.gif" height="10"></td>
-				</tr>
-              </tbody></table>
+<div id="tab_wpr">
+  <div id="tab_btn_wpr">
 
-			  </td>
-            <td width="5"><img src="/images/spacer.gif" width="5" height="1"></td>
-          </tr>
-        </tbody></table>
-        </td>
-      </tr>
-	  <tr><td>
-	  <table cellpadding="0" cellspacing="0">
-	    <tbody><tr><td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-            <td width="40"><img src="/images/top_bar/top_bar_01.gif" width="40" height="60"></td>
-            <td width="247"><table width="247" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td width="200"><img src="/images/top_bar/top_bar_02.gif" width="247" height="24"></td>
-                </tr>
-                <tr>
-                  <td><img id="detect" src="/images/top_bar/no_nakido_flag_detected.gif" width="247" height="26" border="0"></td>
-                </tr>
-                <tr>
-                  <td><img src="/images/top_bar/top_bar_08.gif" width="247" height="10"></td>
-                </tr>
-            </tbody></table></td>
-            <td width="113"><img src="/images/top_bar/top_bar_05.gif" width="113" height="60"></td>
-            <td width="380"><table width="380" border="0" cellspacing="0" cellpadding="0">
-                <tbody><tr>
-                  <td><img src="/images/top_bar/top_bar_06.gif" width="380" height="24"></td>
-                </tr>
-                <tr>
-                  <td><table width="380" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td><a href="/download/" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image117','','/images/top_bar/get_nakido_button-over.gif',1)"><img src="/images/top_bar/get_nakido_button.gif" alt="" name="Image117" width="170" height="26" border="0"></a></td>
-                        <td><a href="/nakido.exe" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image118','','/images/top_bar/get_nakido_window-over.gif',1)"><img src="/images/top_bar/get_nakido_window.gif" name="Image118" width="70" height="26" border="0"></a></td>
-                        <td><a href="/nakido.dmg" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image119','','/images/top_bar/get_nakido_mac-over.gif',1)"><img src="/images/top_bar/get_nakido_mac.gif" name="Image119" width="70" height="26" border="0"></a></td>
-                        <td><a href="/download#linux" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('Image120','','/images/top_bar/get_nakido_linux-over.gif',1)"><img src="/images/top_bar/get_nakido_linux.gif" name="Image120" width="70" height="26" border="0"></a></td>
-                      </tr>
-                  </tbody></table></td>
-                </tr>
-                <tr>
-                  <td><img src="/images/top_bar/top_bar_10.gif" width="380" height="10"></td>
-                </tr>
-            </tbody></table></td>
-            <td width="20"><img src="/images/top_bar/top_bar_07.gif" width="20" height="60"></td>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-          </tr>
-        </tbody></table></td></tr><tr><td width="10"></td>
-          <td width="800" align="center" bgcolor="#666666">          </td>
-          <td width="10"></td>
-          </tr>
-				</tbody></table>			</td>
-		</tr>
-		<tr><td><table cellpadding="0" cellspacing="0">
-		  <tbody><tr><td><img src="/images/spacer.gif" width="10" height="1"></td><td bgcolor="#D5D5D5"><img src="/images/spacer.gif" width="10" height="1"></td>
-		<td width="800" height="30" align="center" bgcolor="#D5D5D5">
-        <div id="gNavDiv"><div class="tab">
-			    <div class="tabContent">
-			    <a href="/">Files</a>
-			    </div>
-			    </div><div class="tab">
-			    <div class="tabContent">
-			    <a href="/category">Categories</a>
-			    </div>
-			    </div><div class="tab">
-			    <div class="tabContent">
-			    <a href="/members">Members</a>
-			    </div>
-			    </div><div class="tab">
-			    <div class="tabContent">
-			    <a href="/download">Nakido Flag</a>
-			    </div>
-			    </div></div>
-		</td><td bgcolor="#D5D5D5"><img src="/images/spacer.gif" width="10" height="1"></td>
-		<td><img src="/images/spacer.gif" width="10" height="1"></td>
-		</tr></tbody></table>
-		</td></tr><!-- ads -->
-		<tr>
-			<td>
-				<table border="0" cellpadding="0" cellspacing="0" width="820"><tbody><tr><td width="10"></td><td bgcolor="#000000">
-				<iframe src="/ads?adHeadlineClr=FF9900&amp;adTextClr=000000&amp;adYourAdClr=000000&amp;adBgClr=000000&amp;adYourAdHere=0&amp;l=en&amp;c=US&amp;col=1&amp;row=1&amp;horz=0&amp;center=0&amp;width=800&amp;height=25&amp;leftmargin=0&amp;topmargin=0&amp;fontsizeHeadline=14&amp;ts=12_15_2007_6_19_50_PM_282395528" width="800" height="25" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
-                </td></tr>
-            <tr>
-		    <td width="10"></td>
-          <td align="center" bgcolor="#d7d7d7">
-          </td>
-          <td width="10"></td>
-          </tr>
-				</tbody></table>
-			</td>
-		</tr><!-- msg -->
-		<tr>
-			<td>
-				<table border="0" cellpadding="0" cellspacing="0" width="820">
-				
-            <tbody><tr>
-		    <td width="10"></td>
-          <td align="center" bgcolor="#d7d7d7">
-          </td>
-          <td width="10"></td>
-          </tr>
-				</tbody></table>
-			</td>
-		</tr>
-        <tr><td width="820" align="center" valign="top">        
-</td></tr><tr><td>
-	    <table width="820" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr><td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-            <td valign="top"><table width="800" border="0" cellpadding="0" cellspacing="0" bgcolor="#ffcccc">
-              <tbody><tr>
-                <td><img src="/images/privacy/pirvacy_main_image.jpg" width="800" height="130"></td>
+<div id="tab_menu">
+<ul id="cntr">
+<li><a href="/" title="Home">Home</a></li>
+<li><a href="/files">My Files</a></li>
 
-              </tr>
-              <tr>
-                <td><table width="800" border="0" cellspacing="0" cellpadding="20">
+<li><a href="/dl" rel="nofollow"><span>0</span> Downloading</a></li>
+<li><a href="/ul" rel="nofollow"><span>0</span> Uploading</a></li>
+<li><a href="/members">Members</a></li>
+</ul>
 
-                  <tbody><tr>
-                    <td><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                      <tbody><tr>
-                        <td width="500" align="left"><table width="100%" border="0" cellspacing="0" cellpadding="0">
-                          <tbody><tr>
+<form name="sq" method="get" action="/search">
+<div id="user_info">
+<fieldset class="search">
+<input name="q" type="text" value="" size="35" maxlength="128" class="box">
+<button class="btn" title="search">Search</button>
+</fieldset>
+</div>
+</form>
 
-                            <td align="left" class="normal_text">
-                              <p class="style12 style12"><span class="style16">Nakido Privacy Policy</span><br>
-                                <br>
+</div>
+</div>
+</div>
 
-                                  <strong>Nakido</strong> ("Nakido") recognizes that its customers, visitors, users, and others who use <a href="http://www.nakido.com">www.nakido.com</a> or other web sites owned or operated by Nakido (the " Nakido Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Nakido Sites. Nakido provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Nakido Sites.<br>
 
-                                  <br>
+<div id="dtc_bar_wpr">
+<div id="dtc_cnt_wpr">
+<div id="dtc_bg_middle">
+<div class="dtc_btn_wpr">
 
-                                This Privacy Policy is incorporated into and is subject to the <a href="http://www.nakido.com/ts">Nakido Terms of Use</a>. Your use of the Nakido Sites and any personal information you provide on the Nakido Sites remains subject to the terms of this Privacy Policy and our <a href="http://www.nakido.com/ts">Terms of Use</a>.<br>
-                                <br>
-                                Please note that any file, document, video, image, or other content posted at the direction of Users onto the Nakido Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.<br>
-                                <br>
+<ul class="mntr">
+<li class="mntr_left_edge"></li>
+<li id="ndetect_msg" class="detecting">Nakido Flag Detected</li>
+<li class="tick_cross"><span id="ndetect_img" class="img_ctnr img_detecting" style="width:46px; height:20px;"></span></li>
+<li id="ndetect_status" class="status_detecting">Version: <a href="javascript:void(0)" title="Your version of Nakido Flag."><span id="nakido_version">3.00</span></a><span style="color:#CCC;">/</span><a href="javascript:void(0)" title="Latest version of Nakido Flag.">3.00</a>&nbsp;&nbsp;
+Connected: <a href="javascript:void(0)" title="Check your internet connection or firewall if not connected."><span id="nakidoed">Yes</span></a><br>
+Uptime: <a href="javascript:void(0)" title="Current uptime of Nakido Flag."><span id="nakido_uptime">-</span></a></li>
+<li class="mntr_right_edge"></li>
+</ul>
 
-                                <br>
-                                <span class="style16">The Information Nakido Collects</span><br>
+<ul class="mntr_right">
+<li><a href="/nakido.exe" class="img_ctnr img_ctnr_bg_30" id="img_ndo_wdw_30"></a></li>
+<li><a href="/nakido.dmg" class="img_ctnr img_ctnr_bg_30" id="img_ndo_mac_30"></a></li>
+<li><a href="/flag?os=linux" class="img_ctnr img_ctnr_bg_30" id="img_ndo_lin_30"></a></li>
+</ul>
+<ul class="dl_ndo">
+<li class="dl_flag_btn">
+  <div id="dl_ndo_btn_wpr">
+<div id="dl_ndo_btn_wpr"> <a class="dl_ndo_btn" href="/flag"> 
+              <div class="img_ctnr img_g_btn_bg_24 img_ndo_dl_btn_24"></div> 
+              <span class="text">Download Nakido Flag</span></a></div> 
+</div></li>
+</ul>
 
-                                <strong>User Provided Information: </strong>You provide certain personally identifiable information (such as your name and email address) to Nakido when choosing to participate in various activities on the Nakido Sites such as uploading files, posting messages in our community or in the file comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
-                                </p><ul type="square" class="style12"><li><strong>Cookies Information:</strong> When you visit the Nakido Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Nakido uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Nakido Sites may not function properly if the ability to accept cookies is disabled.<br>
-                                    <br>
+</div>
+<div class="dtc_btn_wpr_right">
+
+</div>
+</div>
+
+</div>
+</div>
+
+<div id="cnt_main_wpr">
+<!--START OF LEFT CONTENT WRAPPER -->
+<div id="cnt_left_wpr">
+  	<div id="dl_ndo_page_top_wpr">
+        <div id="dl_ndo_page_img"> <img src="http://nkimg.com/images/big_ic/ic_terms_200.png"> </div>
+	</div>
+</div>
+<!--START OF LEFT CONTENT WRAPPER -->
+
+<!--START OF RIGHT CONTENT WRAPPER -->
+  <div id="cnt_rightspan_wpr">
+        <div class="ttl_1_grn">Privacy Policy</div>
+        <div class="hr_spr_l"></div>
+    <p>Nakido ("Nakido") recognizes that its customers, visitors, users, and others who use www.nakido.com or other web sites owned or operated by Nakido (the " Nakido Sites") (collectively or individually "Users") value their privacy. This Privacy Policy details important information regarding the use and disclosure of User information collected on the Nakido Sites. Nakido provides this Privacy Policy to help you make an informed decision about whether to use or continue using the Nakido Sites.</p>
+    <p>This Privacy Policy is incorporated into and is subject to the <a href="http://www.nakido.com/ts">Nakido Terms of Use</a>. Your use of the Nakido Sites and any personal information you provide on the Nakido Sites remains subject to the terms of this Privacy Policy and our <a href="http://www.nakido.com/ts">Terms of Use</a>.</p>
+    <p>Please note that any file, document, video, image, or other content posted at the direction of Users onto the Nakido Sites becomes published content and is not considered personally identifiable information subject to this Privacy Policy.</p>
+    <p><span class="nm_title_black">The Information Nakido Collects</span><br>
+      <strong>User Provided Information: </strong>You provide certain personally identifiable information (such as your name and email address) to Nakido when choosing to participate in various activities on the Nakido Sites such as uploading files, posting messages in our community or in the file comments section, entering contests or sweepstakes, taking advantage of promotions, responding to surveys, or subscribing to newsletters or other mailing lists.
+      </p><ul type="square" class="style12"><li><strong>Cookies Information:</strong> When you visit the Nakido Sites, we may send one or more cookies - a small text file containing a string of alphanumeric characters - to your computer that uniquely identifies your browser. Nakido uses both session cookies and persistent cookies. A persistent cookie remains after you close your browser. Persistent cookies may be used by your browser on subsequent visits to the site. Persistent cookies can be removed by following your web browser help file directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Nakido Sites may not function properly if the ability to accept cookies is disabled.<br>
+      <br>
                                 </li>
 
                                 <li><strong>Log File Information:</strong> When you use the Nakido Sites, our servers automatically record certain information that your web browser sends whenever you visit any website. These server logs may include information such as your web request, Internet Protocol ("IP") address, browser type, browser language, referring / exit pages and URLs, platform type, number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of your request, and one or more cookies that may uniquely identify your browser.<br>
 
                                   <br>
                                 </li><li><strong>Clear GIFs Information:</strong> When you use the Nakido Sites, we may employ "clear GIFs" (a.k.a. Web Beacons) which are used to track the online usage patterns of our Users anonymously (i.e., in a non-personally-identifiable manner). In addition, we may also use clear GIFs in HTML-based emails sent to our users to track which emails are opened by recipients.</li></ul>
+    <p></p>
 
-                                <span class="style12"><br>
-                                <span class="style16">The Way Nakido Uses Information</span><br>
-                                If you submit personally identifiable information to us through the Nakido Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Nakido Sites.<br>
-
-                                </span>
-                                <ul type="square" class="style12"><li>Any personal information or file content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload files or send messages through the Nakido Sites and other Users can contact you through messages and comments. Any files that you submit to the Nakido Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.</li><br>
+    <p><span class="nm_title_black">The Way Nakido Uses Information</span><br>
+    If you submit personally identifiable information to us through the Nakido Sites, then we use your personal information to operate, maintain, and provide to you the features and functionality of the Nakido Sites.<br>
+    </p><ul type="square" class="style12"><li>Any personal information or file content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your public profile page, etc.) becomes publicly available and can be collected and used by others. Your account name (not your email address) is displayed to other Users when you upload files or send messages through the Nakido Sites and other Users can contact you through messages and comments. Any files that you submit to the Nakido Sites may be redistributed through the internet and other media channels, and may be viewed by the general public.</li><br>
                                 <li>We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Nakido Site changes or for customer service purposes).</li><br>
 
                                 <li>We use both your personally identifiable information and certain non-personally-identifiable information (such as anonymous User usage data, cookies, IP addresses, browser type, etc.) to improve the quality and design of the Nakido Sites and to create new features, promotions, functionality, and services by storing, tracking, and analyzing User preferences and trends.</li><br>
                                 <li>We use cookies, clear gifs, and log file information to: (a) remember information so that you will not have to re-enter it during your visit or the next time you visit the Nakido Sites; (b) provide custom, personalized content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions, and status in promotions, sweepstakes, and contests.</li></ul>
-                                <span class="style12"><br>
-                                <span class="style16">When Nakido Discloses Information</span><br>
-
-                                We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.<br>
-                                </span>
-
-                                <ul type="square" class="style12"><li>We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li><br>
+    <p></p>
+    <p><span class="nm_title_black">When Nakido Discloses Information</span><br>
+    We provide personally identifiable information and non-personally-identifiable information to our subsidiaries, affiliated companies, or other businesses or persons for the purpose of processing such information on our behalf. We require that these parties agree to process such information in compliance with our privacy policy, and we use reasonable efforts to limit their use of such information and to use other appropriate confidentiality and security measures.<br>
+    </p><ul type="square" class="style12"><li>We do not share your personally identifiable information (such as name or email address) with other, third-party companies for their commercial or marketing use without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out.</li><br>
                                 <li>We do share non-personally-identifiable information (such as anonymous User usage data, referring / exit pages and URLs, platform types, number of clicks, etc.) with interested third-parties to assist them in understanding the usage patterns for certain content, services, advertisements, promotions, and/or functionality on the Nakido Sites.</li><br>
                                 <li>We may release personally identifiable information and/or non-personally-identifiable information if required to do so by law, or in the good-faith belief that such action is necessary to comply with state and federal laws (such as U.S. Copyright Law) or respond to a court order, subpoena, or search warrant.</li><br>
                                 <li>Nakido also reserves the right to disclose personally identifiable information and/or non-personally-identifiable information that Nakido believes, in good faith, is appropriate or necessary to enforce our <a href="http://www.nakido.com/ts">Terms of Use</a>, take precautions against liability, to investigate and defend itself against any third-party claims or allegations, to assist government enforcement agencies, to protect the security or integrity of our web site, and to protect the rights, property, or personal safety of Nakido, our Users or others.</li></ul>
+    <p></p>
+    <p><span class="nm_title_black">Your Choices</span><br>
+    You may, of course, decline to submit personally identifiable information through the Nakido Sites, in which case Nakido may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by logging in to your <a href="http://www.nakido.com/account">My Account page</a>. Please note that files uploaded by Users to the Nakido Sites cannot be removed and remain subject to our <a href="http://www.nakido.com/ts">Terms of Use</a>.<br>
+    <br>
+    To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
+    <br>
+    Please <a href="http://www.nakido.com/contact">contact Nakido</a> with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.<br>
+    <br>
+    </p>
+    <p><span class="nm_title_black">Third-party Advertisers, Links to Other Sites</span><br>
+    Nakido allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Nakido Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Nakido Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.<br>
+    <br>
+    Nakido does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Nakido to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Nakido Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.<br>
+    <br>
+    You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Nakido's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
+    <br>
+    </p>
 
-                                <span class="style12"><br>
+    <p><span class="nm_title_black">Our Commitment To Data Security</span><br>
+    Nakido uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Nakido and you do so at your own risk. Once we receive your transmission of information, Nakido makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br>
+    <br>
+    If Nakido learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Nakido may post a notice on the Nakido Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this <a href="http://www.nakido.com/contact">contact form</a>.<br>
+    <br>
+    </p>
+    <p><span class="nm_title_black">Our Commitment To Childrens' Privacy</span><br>
+    Protecting the privacy of young children is especially important. For that reason, Nakido does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Nakido Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Nakido Sites at any time or in any manner. If Nakido learns that personally identifiable information of persons under 13 years of age has been collected on the Nakido Sites without verified parental consent, then Nakido will take the appropriate steps to delete this information.<br><br>
+    </p>
+    <p><span class="nm_title_black">Special Note to International Users</span><br>
+    The Nakido Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Nakido Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Nakido Sites, which are governed by U.S. law, this Privacy Policy, and our <a href="http://www.nakido.com/ts">Terms of Use</a>, you are transferring your personal information to the United States and you consent to that transfer.<br><br>
+    </p>
 
-                                <span class="style16">Your Choices</span><br>
-                                You may, of course, decline to submit personally identifiable information through the Nakido Sites, in which case Nakido may not be able to provide certain services to you. You may update or correct your personal profile information and email preferences at any time by logging in to your <a href="http://www.nakido.com/account">My Account page</a>. Please note that files uploaded by Users to the Nakido Sites cannot be removed and remain subject to our <a href="http://www.nakido.com/ts">Terms of Use</a>.<br>
-                                <br>
-                                To protect your privacy and security, we take reasonable steps (such as requesting a unique password) to verify your identity before granting you profile access or making corrections. You are responsible for maintaining the secrecy of your unique password and account information at all times.<br>
+    <p><span class="nm_title_black">In the Event of Merger, Sale, or Bankruptcy</span><br>
+    In the event that Nakido is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.<br>
+    <br>
+    </p>
+    <p><span class="nm_title_black">Changes and updates to this Privacy Policy</span> <br>
+    This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Nakido Sites constitutes your agreement to this Privacy Policy and any future revisions.
+    <br><br>
+    For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.<br>
+    <br>
+    </p>
+    <p><span class="nm_title_black">Date Last Modified</span><br>
+    This Privacy Policy was last modified January 5, 2007.<br>
+    </p>
+    <p><span class="nm_title_black">Contact Information</span><br>
+     Please <a href="http://www.nakido.com/contact">contact Nakido</a> with any questions or comments about this Privacy.<br>
+    </p>
+</div>
+</div>
+<div id="ftr_index_wpr">
 
-                                <br>
+<div id="ftr_index_cnt_wpr">
+<div class="hr"></div>
 
-                                Please <a href="http://www.nakido.com/contact">contact Nakido</a> with any questions or comments about this Privacy Policy, your personal information, your consent, or your opt-in or opt-out.<br>
-                                <br>
-                                <br>
-                                <span class="style16">Third-party Advertisers, Links to Other Sites</span><br>
-                                Nakido allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Nakido Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Nakido Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript, or Web Beacons) to measure the effectiveness of their advertisements and to personalize the advertising content you see.<br>
+<ul>
+<li class="title">Site Links</li>
+<li><a href="/tour">Tour</a></li>
+<li><a href="/search">Search</a></li>
+<li><a href="/category">Categories</a></li>
+<li><a href="/latest">Latest Files</a></li>
+<li><a href="/popular">Popular Files</a></li>
+<li><a href="/members/rich">Richest</a></li>
+</ul>
 
-                                <br>
-                                Nakido does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent or except as part of a specific program or feature for which you will have the ability to opt-in or opt-out. However, please note that if an advertiser asks Nakido to show an advertisement to a certain audience (for example, men ages 18-34) or audience segment (for example, men ages 18-24 who have viewed certain channels of content) and you respond to that advertisement, the advertiser or ad-server may conclude that you fit the description of the audience they are trying to reach. The advertiser may also use information regarding your use of the Nakido Sites, such as the number of times you viewed an ad (but not any personally identifiable information), to determine which ads to deliver to you.<br>
-                                <br>
-                                You should consult the respective privacy policies of these third-party ad servers or ad networks (see links below) for more information on their practices and for instructions on how to opt-out of certain practices. Nakido's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.<br>
-                                <br>
-                                <br>
-                                <span class="style16">Our Commitment To Data Security</span><br>
+<ul>
+<li class="title">About Nakido</li>
+<li><a href="/about">About Us</a></li>
+<li><a href="/status">Status</a></li>
+<li><a href="/contact">Contact Us</a></li>
+<li><a href="/advertise">Advertise on Nakido</a></li>
+<li><a href="/guidelines">Community Guidelines</a></li>
+</ul>
 
-                                Nakido uses commercially reasonable physical, managerial, and technical safeguards to preserve the integrity and security of your personal information. We cannot, however, ensure or warrant the security of any information you transmit to Nakido and you do so at your own risk. Once we receive your transmission of information, Nakido makes commercially reasonable efforts to ensure the security of our systems. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.<br>
-                                <br>
-                                If Nakido learns of a security systems breach, then we may attempt to notify you electronically so that you can take appropriate protective steps. Nakido may post a notice on the Nakido Sites if a security breach occurs. Depending on where you live, you may have a legal right to receive notice of a security breach in writing. To receive a free written notice of a security breach (or to withdraw your consent from receiving electronic notice) you should notify us using this <a href="http://www.nakido.com/contact">contact form</a>.<br>
-                                <br>
-                                <strong><br>
-                                <span class="style16">Our Commitment To Childrens' Privacy</span></strong><br>
+<ul>
+<li class="title">Help</li>
+<li><a href="/faq">Frequent Questions</a></li>
+<li><a href="/languages">Submit a Translation</a></li>
+<li><a href="/bugreport">Report a Website Bug</a></li>
+<li><a href="/report/violation">Report a Violation</a></li>
+<li><a href="/help/dl">What is Download Manager</a></li>
+</ul>
 
-                                Protecting the privacy of young children is especially important. For that reason, Nakido does not knowingly collect or maintain personally identifiable information or non-personally-identifiable information on the Nakido Sites from persons under 13 years of age, and no part of our website is directed to persons under 13. If you are under 13 years of age, then please do not use or access the Nakido Sites at any time or in any manner. If Nakido learns that personally identifiable information of persons under 13 years of age has been collected on the Nakido Sites without verified parental consent, then Nakido will take the appropriate steps to delete this information.<br>
-                                <br>
-                                <br>
-                                <span class="style16">Special Note to International Users</span><br>
-                                The Nakido Sites are hosted in the United States and are intended for and directed to Users in the United States. If you are a User accessing the Nakido Sites from the European Union, Asia, or any other region with laws or regulations governing personal data collection, use, and disclosure, that differ from United States laws, please be advised that through your continued use of the Nakido Sites, which are governed by U.S. law, this Privacy Policy, and our <a href="#">Terms of Use</a>, you are transferring your personal information to the United States and you consent to that transfer.<br>
-                                <br>
+<ul>
+<li class="title">Nakido Flag</li>
+<li><a href="/flag">Download Nakido Flag</a></li>
+<li><a href="/help/flag">What is Nakido Flag</a></li>
+<li>&nbsp;</li>
+<li class="title">Nakido Coins</li>
+<li><a href="/coins">What is Nakido Coins</a></li>
+<li><a href="/redeem">Redeem Prize</a></li>
+</ul>
 
-                                <br>
-                                <span class="style16"><strong>In the Event of Merger, Sale, or Bankruptcy</strong></span><br>
-                                In the event that Nakido is acquired by or merged with a third party entity, we reserve the right, in any of these circumstances, to transfer or assign the information we have collected from our Users as part of such merger, acquisition, sale, or other change of control. In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, we may not be able to control how your personal information is treated, transferred, or used.<br>
-                                <br>
-                                <br>
-                                <span class="style16">Changes and updates to this Privacy Policy</span><br>
-                                This Privacy Policy may be revised periodically and this will be reflected by the "effective date" below. Please revisit this page to stay aware of any changes. In general, we only use your personal information in the manner described in the Privacy Policy in effect when we received the personal information you provided. Your continued use of the Nakido Sites constitutes your agreement to this Privacy Policy and any future revisions.<br>
+<ul style="border:none;">
+<li class="title">VIP Membership</li>
+<li><a href="/signup">Membership Comparison</a></li>
+<li><a href="/signup/vip">Sign Up VIP Membership</a></li>
+</ul>
 
-                                <br>
-                                For revisions to this Privacy Policy that may be materially less restrictive on our use or disclosure of the personal information you have already provided to us, we will attempt to obtain your consent before implementing such revisions with respect to such information.<br>
-                                <br>
-                                <br>
-                                <span class="style16">Date Last Modified</span><br>
-                                This Privacy Policy was last modified January 5, 2007.<br>
-                                <br>
+</div>
+<div class="ftr_cnt_wpr">
+<div class="hr"></div>
+<span class="copyright">
+22146 Online Members <span style="color:#CCCCCC;">|</span> 228 Uploading <span style="color:#CCCCCC;">|</span> 1597 Downloading <span style="color:#CCCCCC;">|</span> 3733845 Total Peers<br>
+Nakido © 2004-2009 <span style="color:#CCCCCC;">|</span> <a href="/ts">Terms of Service</a> | <a href="/privacy">Privacy Policy</a> | <a href="/eula">End User License Agreement</a></span>
+</div>
+</div>
+        
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-1603265-1");
+pageTracker._trackPageview();
 
-                                <br>
-                                <span class="style16">Contact Information</span><br>
-                                Please <a href="http://www.nakido.com/contact">contact Nakido</a> with any questions or comments about this Privacy.<br>
-                                <p></p>
-                                <br>
-                                </span></td>
-
-                          </tr>
-                        </tbody></table></td>
-                        </tr>
-                    </tbody></table></td>
-                  </tr>
-                </tbody></table></td>
-              </tr>
-            </tbody></table></td>
-
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-          </tr>
-        </tbody></table></td></tr><tr><td align="center"><table width="820" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-            <td width="800" height="110" align="center" valign="top" bgcolor="#efefef"><iframe src="/ads?type=adbritebanner&amp;id=341738" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe></td>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-          </tr>
-        </tbody></table>
-        </td></tr><tr><td><table width="100%" cellspacing="0" cellpadding="0">
-              <tbody><tr>
-                <td width="10" height="30"><img src="/images/spacer.gif" width="10" height="1"></td>
-                <td width="800" height="30" align="center" valign="middle" background="/images/big_banner_bg.gif" bgcolor="#666666">
-			    <table width="100%" cellpadding="0" cellspacing="0">
-			      <tbody><tr><td height="5"></td>
-			      </tr><tr><td align="center">
-			    <table height="100" cellpadding="5" cellspacing="0" class="ad_border_big">
-                  <tbody><tr valign="middle">
-                    <td width="330" align="center"><iframe src="/ads?adHeadlineClr=FFFF66&amp;adTextClr=FFFFFF&amp;adYourAdClr=CCCCCC&amp;adBgClr=666666&amp;adYourAdHere=1&amp;l=en&amp;c=US&amp;col=1&amp;row=1&amp;horz=0&amp;width=728&amp;height=10&amp;fontsizeHeadline=16&amp;fontsizeText=12&amp;b728x90=1&amp;ts=12_15_2007_6_19_50_PM_2045469236" width="728" height="90" frameborder="0" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no"></iframe>
-                    </td>
-                  </tr>
-                </tbody></table>
-			    </td>
-			      </tr>
-			    <tr><td height="5"></td>
-			    </tr></tbody></table>
-			    </td>
-                <td width="10" height="30"><img src="/images/spacer.gif" width="10" height="1"></td>
-              </tr>
-            </tbody></table></td>
-		    </tr><tr><td height="1"><table border="0" cellpadding="0" cellspacing="0" width="820"><tbody><tr>
-		</tr><tr><td align="center"><table width="820" border="0" cellspacing="0" cellpadding="0">
-          <tbody><tr>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-            <td width="800" height="50" valign="top" background="/images/bottom_bar/bottom_bar.gif"><table width="800" border="0" cellpadding="0" cellspacing="0" class="">
-                <tbody><tr><td><img src="/images/spacer.gif" width="1" height="10"></td></tr>
-                <tr><td align="center" valign="middle" class="small_text"><a href="http://www.nakido.com/download/">Download</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/about">About us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/contact">Contact Us</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/ts">Terms of Service</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/pv">Privacy Policy</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a href="http://www.nakido.com/why">FAQs</a>&nbsp;&nbsp;&nbsp;&nbsp;Copyright ©2007&nbsp;&nbsp;<a href="http://www.nakido.com">Nakido</a></td></tr>
-            </tbody></table></td>
-            <td width="10"><img src="/images/spacer.gif" width="10" height="1"></td>
-          </tr>
-        </tbody></table></td></tr>
-		</tbody></table>
-		</td></tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table><div name="popdivdl" id="popdivdl" onkeypress="Down('popdivdl','nakidoflag',event);" style="visibility:hidden;z-index:1;position:absolute;top:0px;left:0px;">
-	<table cellpadding="0" cellspacing="0" width="362" height="126">
-		<tbody><tr>
-			<td>
-				<table cellpadding="0" cellspacing="0" width="362" height="29" style=" BACKGROUND-IMAGE:URL('/images/popdlg/xptop.gif'); height:29px; width:362;"> <!--win top table-->
-					<tbody><tr>
-						<td style="color:#cc0000; font-family:verdana; font-size:12px;font-weight:bold; padding-left:4px;padding-top:1px">&nbsp;&nbsp;&nbsp;No Nakido Flag Detected</td>
-						<td width="21" style="padding-right:6px;"><img src="/images/popdlg/xpclose.gif" width="21" height="21" onclick="Close('popdivdl');"></td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-		<tr>
-			<td>
-				<table cellpadding="0" cellspacing="0" height="97">
-					<tbody><tr>
-
-						<td>
-							<table cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td>
-										<img src="/images/popdlg/xpleftclm.gif">
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-						<td valign="top">
-							<table width="356" cellpadding="0" cellspacing="0" background="/images/popdlg/db_bg_flag.gif" bgcolor="#cccccc">
-								<tbody><tr>
-									<td>
-										<table cellpadding="0" cellspacing="0" height="59">
-											<tbody><tr>
-												<td align="center" style="font-size:12px;  font-family:Arial; padding-left:30px; padding-right:15px;"><strong>Click OK to download a free Nakido Flag plugin for fast and unlimited download</strong></td>
-											</tr>
-
-										</tbody></table>
-									</td>
-								</tr><tr>
-									<td>
-										<table align="center" cellpadding="0" cellspacing="6" height="22">
-											<tbody><tr height="22">
-												<td></td>
-												<td>
-												</td><td><input type="button" value="OK" onclick="Down('popdivdl','nakidoflag');" style="font-size:11px;  font-family:Arial; height:23px; width:72px;" tabindex="1" id="Button1" name="Button1"></td>
-												<td>
-												</td><td></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-								<tr>
-									<td>
-										<table cellpadding="0" cellspacing="0" width="100%">
-											<tbody><tr bgcolor="#cccccc" style="height:1px;">
-												<td></td>
-											</tr>
-											<tr bgcolor="#ffffff" style="height:1px;">
-												<td></td>
-											</tr>
-											<tr bgcolor="#999999" style="height:1px;">
-												<td></td>
-											</tr>
-										</tbody></table>
-									</td>
-								</tr>
-						  </tbody></table>
-						</td>
-						<td>
-							<table cellpadding="0" cellspacing="0">
-								<tbody><tr>
-									<td>
-										<img src="/images/popdlg/xprightclm.gif">
-									</td>
-								</tr>
-							</tbody></table>
-						</td>
-					</tr>
-				</tbody></table>
-			</td>
-		</tr>
-	</tbody></table>
-</div><script>Drag.init(document.getElementById("popdivdl"));</script><script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
 </script>
 <script type="text/javascript">
-_uacct = "UA-1603265-1";
-urchinTracker();
-</script><script type="text/javascript" src="http://ads.adbrite.com/mb/text_group.php?sid=360705&amp;br=1&amp;dk=7469636b6574735f305f325f776562"></script></body></html>
+    GetNakidoStatus();
+</script>
+
+
+
+</body></html>
