@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2009-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090307015207id_/http%3A//www.superdrug.com/page/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the superdrug.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614001900id_/http%3A//www.superdrug.com/Help%2BInfo/Privacy-Policy/page/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy at Superdrug
 
@@ -6,7 +6,7 @@
 
 Superdrug Stores plc ( **we** and **us** ) are committed to protecting your privacy.
 
-This privacy policy (together with our [Terms & Conditions](http://www.superdrug.com/page/termsandconditions)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This privacy policy (together with our [Terms & Conditions](http://www.superdrug.com/Help+Info/Terms-and-Conditions/page/termsandconditions)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 ## Information we may collect from you
 
@@ -70,14 +70,14 @@ We may also disclose your personal information to third parties:
   * if you have indicated that you wish to be contacted by selected third parties with information about those third parties' goods and services;
   * in the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets;
   * if we or substantially all of our assets are acquired by a third party, in which case personal data held by us about our customers will be one of the transferred assets; or
-  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms & Conditions](http://www.superdrug.com/page/termsandconditions) or other agreements; or to protect our rights, property, or safety or those of our customers or other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * if we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms & Conditions](http://www.superdrug.com/Help+Info/Terms-and-Conditions/page/termsandconditions) or other agreements; or to protect our rights, property, or safety or those of our customers or other third parties. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
   
 
 
 ## Your rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by opting to 'unsubscribe' as directed within relevant communications we send to you. You can also exercise the right at any time by contacting us as shown in the [Contact Us](http://www.superdrug.com/page/contactus) section.
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking or un-checking (as directed) certain boxes on the forms we use to collect your data or by opting to 'unsubscribe' as directed within relevant communications we send to you. You can also exercise the right at any time by contacting us as shown in the [Contact Us](http://www.superdrug.com/Help+Info/Contact-Us/page/contactus) section.
 
 The Site may, from time to time, contain hyperlinks to and from internet sites operated by other organisations. If you follow a hyperlink to any of these sites, please note that they will have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to such sites.
 
@@ -87,7 +87,7 @@ You have the right under the Data Protection Act 1998 to request a copy of the p
 
 ## Contact us
 
-If you have any questions, comments or requests regarding this privacy policy, please feel free to [Contact Us](http://www.superdrug.com/page/contactus).
+If you have any questions, comments or requests regarding this privacy policy, please feel free to [Contact Us](http://www.superdrug.com/Help+Info/Contact-Us/page/contactus).
 
 ## Updates
 
