@@ -1,8 +1,28 @@
-> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2009-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090405032148id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the compatiblepartners.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613102558id_/http%3A//www.compatiblepartners.net/privacy/statement) for the most accurate reproduction.*
 
 # Compatible Partners - Privacy Policy
 
-This privacy statement discloses the privacy practices of Compatible Partners, a website owned and operated by eHarmony, Inc.
+[](http://www.truste.org/ivalidate.php?url=www.compatiblepartners.net&sealid=101)
+
+TRUSTe is an independent, non-profit organization whose mission is to build user trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of:
+
+1\. Any personally identifiable information of yours or third party personal identification is collected from you through the eHarmony, Inc. ("eHarmony") website;
+
+2\. The organization collecting the information;
+
+3\. How the information is used;
+
+4\. With whom the information may be shared;
+
+5\. What choices are available to you regarding collection, use and distribution of the information;
+
+6\. The kinds of security procedures that are in place to protect the loss, misuse or alteration of information under eHarmony's control; and
+
+7\. How you can correct any inaccuracies in the information.
+
+If you have questions or concerns regarding this statement, you should first contact the website by writing to eHarmony, Inc., P.O. Box 60157, Pasadena, California 91116 USA, or by sending an email to [privacy@eHarmony.com](mailto:privacy@eHarmony.com). If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe by clicking [here](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the website to resolve your concerns.
+
+This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
 **What Information We Collect**
 
