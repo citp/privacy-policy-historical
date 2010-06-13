@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130175017id_/http%3A//www.ofsted.gov.uk/Ofsted-home/Footer/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ofsted.gov.uk privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613151007id_/http%3A//www.ofsted.gov.uk/Ofsted-home/Footer/Privacy) for the most accurate reproduction.*
 
 # Privacy / Footer / Ofsted home / Ofsted - Ofsted
 
@@ -31,8 +31,8 @@ If you feel that Ofsted has not kept its promises to you about the way we handle
 _Richard McGowan_  
 _Head of Information Management_  
 _Ofsted_  
-_Alexandra House_  
-_33 Kinsgway_  
+_Aviation House_  
+_125 Kingsway_  
  _London, WC2B 6SE_
 
 [richard.mcgowan@ofsted.gov.uk](mailto:richard.mcgowan@ofsted.gov.uk)
@@ -65,6 +65,8 @@ Fax: 01625 524510
 
 ##  A window into Ofsted
 
-Find out the latest about inspection in our new free newsletter.
+Find out the latest about inspection in our free online newsletter.
+
+[ ](http://ofstednews.ofsted.gov.uk/)
 
 [Subscribe to our free newsletter](http://live.ofsted.gov.uk/newsletter/)
