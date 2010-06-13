@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529051313id_/http%3A//www.sutherlandglobal.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sutherlandglobal.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613164246id_/http%3A//sutherlandglobal.com/privacy.htm) for the most accurate reproduction.*
 
 # IT Outsourcing Solutions and Business Process Outsourcing : Privacy Policy
 
@@ -42,6 +42,10 @@ To protect your privacy, we have adopted the following principles:
 >  Access/Accuracy  
 >  To the extent that you do provide us with Personal Information, Sutherland wishes to maintain accurate Personal Information. Where we collect Personal Information from you on the Web, our goal is to provide a means of contacting Sutherland should you need to update or correct that Information. If for any reason those means are unavailable or inaccessible, you may send updates and corrections about your Personal Information to [security@suth.com](mailto:security@suth.com) and we will make reasonable efforts to incorporate the changes in your Personal Information that we hold as soon as practicable. 
 
+Safe Harbor   
+Sutherland Global Services complies with the U.S.-EU Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Sutherland Global Services has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.    
+To learn more about the Safe Harbor program, and to view the our certification, please visit [Safe Harbor Web Site ](http://www.export.gov/safeharbor/)
+
 Third Party Services  
 Third parties provide certain services available on [www.suth.com](http://www.suth.com/) on Sutherland's behalf. Sutherland may provide information, including Personal Information, that Sutherland collects on the Web to third-party service providers to help us deliver programs, products, information, and services. Service providers are also an important means by which Sutherland maintains its Web site and mailing lists. Sutherland will take reasonable steps to ensure that these third-party service providers are obligated to protect Personal Information on Sutherland's behalf. 
 
@@ -54,10 +58,6 @@ Commitment
 We are committed to privacy. Protecting your privacy online is an evolving area, and Sutherland's Web sites are constantly evolving to meet these demands. 
 
 If you have any comments or questions regarding our Online Privacy Policy, please contact us at [security@suth.com](mailto:security@suth.com) While we cannot guarantee privacy perfection, we will address any issue to the best of our abilities as soon as possible. 
-
-Safe Harbor  
-Sutherland has self-certified its adherence to the Safe Harbor principles on the [Safe Harbor Web site](http://www.export.gov/safeharbor/index.html)  
-
 
 Your Consent  
 By using this Web site, you consent to the terms of our Online Privacy Policy and to Sutherland's processing of Personal Information for the purposes given above as well as those explained where Sutherland collects Personal Information on the Web. Should the Online Privacy Policy change, we intend to take every reasonable step to ensure that these changes are brought to your attention by posting all changes prominently on our web site for a reasonable period of time.
