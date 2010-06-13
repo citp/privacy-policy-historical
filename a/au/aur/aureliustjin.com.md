@@ -1,33 +1,72 @@
-> *The following text is extracted and transformed from the aureliustjin.com privacy policy that was archived on 2009-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090216013001id_/http%3A//aureliustjin.com/tjin_privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aureliustjin.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614005227id_/http%3A//aureliustjin.com/legal/privacyPolicy.html) for the most accurate reproduction.*
 
-# TERMS AND CONDITIONS OF USE
+# Privacy Policy
 
-**WWW.AURELIUSTJIN.COM**
+**HOW WE PROTECT YOUR PRIVACY**
 
-**OUR PRIVACY POLICY**
+This privacy policy tells you how we collect, use, and protect your personal information. By visiting our website, you accept and agree to the terms and conditions of this privacy policy. In particular, you consent to our collection and use of your personal information as described in this privacy policy.
 
-www.aureliustjin.com is committed to protecting the privacy of our online visitors. We collect information from online visitors who ask to be on our newsletter mailing list and/or receive periodic email announcements. Anyone who wishes can choose to be removed from our mailing list at any time. 
+**MINORS**
 
-In addition, online visitors who wish to purchase a membership through our Web site must provide their name, email address, mailing address, phone number, and credit card number and expiration date. All credit card transactions occur over a secure connection. 
+We do not provide services or sell products to children. If you are below the age of 18, you may use our website only with the permission and active involvement of a parent or legal guardian. If you are a minor, please do not provide us or other website visitors with any personal information.
 
-All online visitor data collected by www.aureliustjin.com is protected against unauthorized access. We will not sell, trade, or give your personal information to other companies or organizations.
+**POLICY IS PART OF OUR TERMS AND CONDITIONS OF USE**
 
-**Children’s Privacy**
+Our privacy policy is part of, and subject to, our website's terms and conditions of use. You may view these terms and conditions on our website.
 
-We do not knowingly collect personal information from children under the age of 13. If we learn that we have personal information on a child under the age of 13, we will delete that information from our systems. www.aureliustjin.com encourages parents to go online with their kids. Here are a few tips to help make a child's online experience safer:
+**THE TYPE OF INFORMATION WE COLLECT FROM YOU**
 
-Teach kids never to give personal information, unless supervised by a parent or responsible adult. Includes name, address, phone, school, etc. 
+Like most places on the Internet, simply by visiting our website you automatically tell us certain information. This includes basic information such as your IP address, when you visited, the website from where you came prior to visiting us, the website where you go when you leave our website, your computer's operating system, and the type of web browser that you are using. Our website automatically records this basic information about you.
 
-Know the sites your kids are visiting and which sites are appropriate. 
+And like many other websites, we may use cookies. In plain English, this means information that our website's server transfers to your computer. This information can be used to track your session on our website. Cookies may also be used to customize our website content for you as an individual. If you are using one of the common Internet web browsers, you can set up your browser to either let you know when you receive a cookie or to deny cookie access to your computer.
 
-Look for Web site privacy policies. Know how your child's information is treated. 
+We may also collect any data that you provide us by posting it at our website or by e-mail. You can always choose not to provide us with information. However, if you do withhold information, we may deny you access to some or all of our website's services and features.
 
-Check out the FTC's site _<http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html>_[ ](http://www.ftc.gov/bcp/conline/edcams/kidzprivacy/index.html)for more tips on protecting children's privacy online. 
+Some transactions between you and our website may involve payment by credit card, debit card, checks, money orders, and/or third party online payment services. In such transactions, we will collect information related to the transaction as part of the course of doing business with you, including your billing address, telephone number, and other information related to the transaction.
 
-Contacting Us.
+**WHAT WE DO WITH YOUR INFORMATION**
 
-We can be reached by contacting:
+We use your information to operate our website's business activities. For example, we may use this data to contact you about changes to our website, new services, or special offers, resolve disputes, troubleshoot issues, and enforce our website's terms and conditions.
 
-www.aureliustjin.com
+As a general rule, we will not give your data to third parties without your permission. However, there are some important exceptions to this rule that are described in the following paragraphs.
 
-Contact: [http://www.1plus1support.com](http://www.1plus1support.com/)
+We may, in our sole discretion, provide information about you to law enforcement or other government officials for purposes of fraud investigations, alleged intellectual property infringement, or any other suspected illegal activity or matters that may expose us to legal liability.
+
+Although we do not disclose individually identifiable information, we may disclose aggregate data about our website's visitors to advertisers or other third parties for marketing and promotional purposes.
+
+From time to time, we may use third party suppliers to provide services on our website. If a supplier wants to collect information about you, you will be notified. However, you will never be required to give information to a third party supplier. We restrict the way third party suppliers can use your information. They are not allowed to sell or give your information to others.
+
+**USER NAMES AND PASSWORDS**
+
+Your access to parts of our website may be protected by a user name and a password. Do not give your password to anyone. If you enter a section of our website that requires a password, you should log out when you leave. As a safety precaution, you should also close out of your web browser completely and re-open it before viewing other parts of the Internet.
+
+**YOUR USE OF INFORMATION AND UNSOLICITED JUNK E-MAIL**
+
+If you obtain personally identifiable information about another website user, you are not allowed to disclose this information to anyone else without the consent of the user and our consent too.
+
+We hate junk e-mail (Spam). Information you obtain from our website about us or other site users cannot be used by you or others to send unsolicited commercial e-mail or to send unsolicited commercial communications via our website's posting or other communication systems. 
+
+**YOUR VOLUNTARY DISCLOSURE OF INFORMATION TO THIRD PARTIES WHO ARE NOT OUR SUPPLIERS**
+
+You may choose to provide personal information to website visitors or other third parties who are not our suppliers. Please use caution when doing so. The privacy policies and customs of these third parties determine what is done with your information.
+
+**AUTORESPONDERS**
+
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to support[at]unstoppableprofits.net, or sending us mail to the address listed below. 
+
+**POLICY CHANGES**
+
+The terms of this policy may change from time to time. If such changes are made, we will notify you by a notice posted on our website's home page of the changes that have been made. If you disagree with the changes that have been made, please contact us (by e-mail, using a website contact form, or in writing by mail), and any changes made to this policy will not apply to information we have collected from you prior to making the changes.
+
+If you are concerned about the topic covered by this policy, you should read it each time before you use our website. Any questions or concerns about this policy should be brought to our attention by sending an e-mail to support[at]unstoppableprofits.net and providing us with information relating to your concern.
+
+You may also mail your concerns to us at the following address:
+
+Unstoppable Profits Pty Ltd  
+PO Box 295  
+Rosebery, NSW 1445  
+Australia 
+
+This privacy policy was last updated on 03-31-2010.
+
+Copyright © 2008-2009 [Law Office of Michael E. Young PLLC](http://www.mikeyounglaw.com/), and licensed for use by the owner of this website at www.aureliustjin.com. All Rights Reserved. No portion of this document may be copied or used by anyone other than the licensee without the express written permission of the copyright owner.
