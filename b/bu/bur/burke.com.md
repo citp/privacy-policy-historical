@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207113843id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burke.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613074738id_/http%3A//www.burke.com/About/index.cfm%3Fpri%3D1) for the most accurate reproduction.*
 
 # Burke
 
