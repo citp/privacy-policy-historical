@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230032444id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebizq.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613191851id_/http%3A//www.ebizq.net/membership/privacy.html) for the most accurate reproduction.*
 
 # An SOA, BPM, Decision Management and Cloud Computing Guide for the Enterprise Community.
 
@@ -43,7 +43,7 @@ Please note that we review our privacy practices from time to time, and that suc
 
 
 
-ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Jessica Ann Mola](https://web.archive.org/company/feedback_form.html).
+ebizQ is very interested in what you have to say. To contribute an article, an opinion, or to become a blogger, please contact [Editorial Team](https://web.archive.org/company/feedback_form.html).
 
   * Virtual Conferences
   * Webinars
@@ -51,42 +51,34 @@ ebizQ is very interested in what you have to say. To contribute an article, an o
 
 
 
-### SOA in Action
+### BPM in Action
 
-Oct 28-29, 2009
+June 23, 2010
 
-**SOA is ready for the business. But is the business ready for SOA?**  
-Welcome to Service-Oriented Architecture, phase two. Six years after SOA first hit the mainstream, many organizations have achieved strong value, while some are struggling to realize business results from this increasingly popular approach to technology deployment. Some challenging hurdles remain in the "Increase SOA value to the business" journey[Register](https://web.archive.org/eventsv2/soainaction.html?homebox)
+**Business Process Management (BPM) is hitting its stride in 2010.**  
+Many enterprises who are investing in BPM are experiencing significant improvements in business operations, agility and overall business performance. But BPM doesn't operate in a vacuum. There are several related technologies that are converging with BPM to accelerate the business value that can be realized. [Register](http://www.ebizq.net/eventsv2/bpminaction2010.html)
 
 [View All Virtual Conferences](https://web.archive.org/eventsv2/conferences.html)
 
-### Understanding and Estimating the Business Value of Data Virtualization
+Date: **Jun 09, 2010**   
+Time: **14:30 PM ET- (18:30 GMT) **
 
-Date: **Nov 18, 2009**   
-Time: **12:00 PM ET- (17:00 GMT) **
+[REGISTER TODAY!](http://www.ebizq.net/webinars/12729.html#register)
 
-[REGISTER TODAY!](http://www.ebizq.net/webinars/11816.html#register)
+### Best Practices in Moving Processes to the Clouds
 
-### Oracle SOA Suite 11g: Enabling the Foundation for Next Generation Business Applications
+Date: **Apr 07, 2010**   
+Time: **13:00 PM ET- (17:00 GMT) **
 
-Date: **Nov 11, 2009**   
-Time: **11:00 AM ET- (16:00 GMT) **
-
-[REGISTER TODAY!](http://www.ebizq.net/webinars/11807.html#register)
+[REGISTER TODAY!](http://www.ebizq.net/webinars/12288.html#register)
 
 [View All Roundtables](https://web.archive.org/series/34.html)
 
-  * White Papers 
+  * Research Library 
   * Podcasts 
   * News 
 
 
-
-### [Archiving as a Means to Better CRM Application Growth](http://www.ebizq.net/white_papers/11012.html?related)
-
-Business-critical CRM applications, such as Siebel® CRM, represent an ongoing corporate investment, empowering new business initiatives, supporting...
-
-[Download Now](http://www.ebizq.net/white_papers/11012.html?related)
 
 ### Joe McKendrick: Part II of II: Designing Evolve-ability into SOA and IT Systems
 
@@ -126,14 +118,14 @@ Deepak Singh, President and CTO of Adeptia, joins ebizQ's Dennis Byron in a podc
 
 
 
-### Quick Guide: What is Enterprise 2.0?
-
-A lot of people are talking about Enterprise 2.0 as being the business application of Web 2.0 technology. However, there's still some debate on exactly what this technology entails, how it applies to today's business models, and which components bring true value. Some use the term Enterprise 2.0 exclusively to describe the use of social networking technologies in the enterprise, while others use it to describe a web economy platform, or the technological framework behind such a platform. Still others say that Enterprise 2.0 is all of these things. [Learn More](http://www.ebizq.net/topics/web_services/features/9124.html)
-
 ### Quick Guide: What is BPM?
 
-[Learn More](http://www.ebizq.net/topics/human_centric_bpm/features/9744.html)
+[Learn More](http://www.ebizq.net/topics/bpm/features/9744.html)
 
 ### Quick Guide: What is Event Processing?
 
-Smart event processing can help your company run smarter and faster. This comprehensive guide helps you research the basics of complex event processing (CEP) and learn how to get started on the right foot with your CEP project using EDA, RFID, SOA, SCADA and other relevant technologies. [Learn More](http://www.ebizq.net/topics/security_event_management/features/9313.html)
+Smart event processing can help your company run smarter and faster. This comprehensive guide helps you research the basics of complex event processing (CEP) and learn how to get started on the right foot with your CEP project using EDA, RFID, SOA, SCADA and other relevant technologies. [Learn More](http://www.ebizq.net/topics/cep/features/9313.html)
+
+### Quick Guide: What is Enterprise 2.0?
+
+A lot of people are talking about Enterprise 2.0 as being the business application of Web 2.0 technology. However, there's still some debate on exactly what this technology entails, how it applies to today's business models, and which components bring true value. Some use the term Enterprise 2.0 exclusively to describe the use of social networking technologies in the enterprise, while others use it to describe a web economy platform, or the technological framework behind such a platform. Still others say that Enterprise 2.0 is all of these things. [Learn More](http://www.ebizq.net/topics/web_services/features/9124.html)
