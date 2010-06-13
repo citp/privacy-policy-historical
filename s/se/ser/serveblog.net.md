@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serveblog.net privacy policy that was archived on 2009-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090220051100id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serveblog.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613120542id_/http%3A//www.no-ip.com/legal/privacy.php) for the most accurate reproduction.*
 
 # No-IP™ - Privacy Policy
 
@@ -66,8 +66,8 @@ If you have any additional questions or concerns about our privacy policy, pleas
 
 Vitalwerks Internet Solutions, LLC  
 c/o No-IP.com  
-9585 Prototype Ct. Suite A.  
-Reno, NV 89521  
+100 Washington St. Suite 250.  
+Reno, NV 89503  
 info@no-ip.com  
 775-853-1883 phone   
 775-853-1883 fax   
