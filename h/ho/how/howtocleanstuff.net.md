@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2009-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090730023258id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtocleanstuff.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613120757id_/http%3A//www.howtocleanstuff.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | How To Clean Stuff
 
-Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](https://web.archive.org/contact/) and we’d be happy to explain anything to you in plain English.
+Hi! The section below is our privacy statement. It tells you what information we collect about you and how we use it. It should be pretty easy to understand, but if you have any questions about it please contact us [here](https://web.archive.org/contact-us/) and we’d be happy to explain anything to you in plain English.
 
 The short version is: We collect only the information you freely give us, and we use it only to improve the site. We currently do not send out emails to our users unless specifically asked to, and we never sell your information to other companies. You will not be spammed by us!
 
@@ -10,10 +10,14 @@ The short version is: We collect only the information you freely give us, and we
 
 This is the web site of HowToCleanStuff.net.
 
-Our postal address is  
-6505 W. Park Blvd, ste 306, #315  
-Plano, TX 75093  
-You can contact us through [this form](https://web.archive.org/contact/)  
+Our postal address is
+
+6505 W. Park Blvd, ste 306, #315
+
+Plano, TX 75093
+
+You can contact us through [this form](https://web.archive.org/contact-us/)
+
 or by telephone at +1 210-748-7543
 
 For every visitor that comes to our Site, our server recognizes only the visitor’s domain name, but not the e-mail address.
