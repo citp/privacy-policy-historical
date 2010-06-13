@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the yemenhr.com privacy policy that was archived on 2009-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090429203751id_/http%3A//www.yemenhr.com/portal/myjobs/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yemenhr.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614000945id_/http%3A//www.yemenhr.com/webgate/privacy_policy) for the most accurate reproduction.*
 
-# Yemen HR - Jobs in Yemen
+# Yemen HR - Jobs in Yemen: Privacy Policy
+
+****
 
 Our privacy policy states that: “ _We will not collect any of your personal information unless you agree to provide them as requested in our forms. We will not disseminate your information to a third party unless it is permitted by you and only for the sake of job matching.  We will not sell, or share your personal information with any other third party outside the scope of our terms and conditions whatsoever_”
 
