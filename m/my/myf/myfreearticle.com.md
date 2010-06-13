@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212115150id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreearticle.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613221815id_/http%3A//www.myfreearticle.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | My Free Article Directory
+# Privacy Policy | Free Article Directory
 
-**MyFreeArticle.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for **MyFreeArticle.com**[ ](http://www.articlecity.com/).
+If you're new here, you may want to subscribe to my [RSS feed](http://www.myfreearticle.com/feed/). Thanks for visiting!
+
+ **MyFreeArticle.com** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for **MyFreeArticle.com**[ ](http://www.articlecity.com/).
 
 ### Information Automatically Logged
 
@@ -10,7 +12,7 @@ We use your IP address to help diagnose problems with our server and to administ
 
 ### Cookies
 
-Our Site uses cookies to keep track of your shopping cart, and to make sure you don’t see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site.
+Our Site uses cookies to keep track of your shopping cart, and to make sure you don’t see the same ad repeatedly. We also use cookies to deliver [content](http://www.myfreearticle.com/ "content") specific to your interests, to save your password so you don’t have to re-enter it each time you visit our site.
 
 ### Advertisers
 
@@ -29,7 +31,7 @@ We use this data to tailor our visitor’s experience at our site showing them c
 
 ### Order Forms
 
-Our site may, in some cases, use an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or credit card numbers).
+Our site may, in some cases, use an order form for customers to request information, products, and services. We collect contact information (like their email address), and financial information (like their account or [credit](http://www.thecarloan.info/ "credit") card numbers).
 
 Contact information from the order forms is used to ship purchases, information about our company, and to send promotional material from some of our partners to our customers. The customer’s contact information is also used to get in touch with the visitor when necessary.
 
@@ -66,11 +68,11 @@ This site contains links to other sites, **MyFreeArticle.com** is not responsibl
 
 ### Security
 
-This site has security measures in place to protect the loss, misuse, and alteration of the information under our control. These security measures include password protected directories through the use of .htaccess files and customized cgi programs to prevent access to specific areas of the web site.
+This site has security measures in [place](http://aldohas.com/products/travel3.html "place") to protect the loss, misuse, and alteration of the information under our control. These security measures include password protected directories through the use of .htaccess files and customized cgi programs to prevent access to specific areas of the web site.
 
 ### Children’s Guidelines
 
-We care about children and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
+We care about [children](http://aldohas.com/products/mom3.html "children") and understand that they have special privacy needs. Therefore, we have adopted the following privacy policy regarding children:
 
   1. We will NOT collect, use, or distribute to third parties personally identifiable information without prior verifiable parental consent.
   2. We will NOT give the child access to unmonitored chat rooms, message boards, email accounts, or other services that would give the child the ability to publicly post or otherwise distribute personally identifiable information without prior verifiable parental consent
@@ -82,7 +84,7 @@ We care about children and understand that they have special privacy needs. Ther
   5. We will provide the parent a description of the specific types of a personally identifiable information collected from their child upon request. We will allow the parent to refuse further use or future online collection of personally identifiable information and provide a way for a parent to obtain any personally identifiable information collected from their child.
   6. We will provide notice to children in age appropriate terms of what personally identifiable information is to be collected.
   7. We will NOT provide any links to Web sites that are unsuitable for children.
-  8. We will encourage children to get their parent’s permission before sharing personal information online.
+  8. We will encourage children to get their parent’s permission before sharing [personal](http://blog.aldohas.com/ "personal") information online.
 
 
 
@@ -98,4 +100,4 @@ This site gives users the following options for changing and modifying informati
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact:    admin[at]myfreearticle.com
 
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
+Popularity: unranked [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
