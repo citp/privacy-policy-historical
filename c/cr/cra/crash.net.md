@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2009-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crash.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Crash.Net
 
-[**MOTOGP**](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/motogp) »  [Smith column](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/MotoGP/blogs/54/1/smith_column.html) : [Highs and lows at Donington Park.](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/MotoGP/Blog/150488/1/54/highs_and_lows_at_donington_park.html) [[13]](https://web.archive.org/web/20090804092618id_/http%3A//www.crash.net/motogp/comments/150488/1/a/highs_and_lows_at_donington_park.html)
+[**Le Mans**](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/sportscars) »  [D-Brief](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/le+mans/blogs/61/1/d-brief.html) : [Le Mans in Mind](https://web.archive.org/web/20100613123608id_/http%3A//www.crash.net/le+mans/blog/160468/1/61/le_mans_in_mind.html)
 
-In his latest column for Crash.net, Bradley Smith reflects on the highs and lows of last weekend's British Grand Prix at Donington Park... 
+In his latest column, David Brabham continues to prepare for the 2010 Le Mans 24 Hours 
 
 Crash.Net has a firm commitment to the privacy of our members' personal information. The following discloses our information gathering and dissemination practices for this website.
 
