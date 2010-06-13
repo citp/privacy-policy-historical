@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2009-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091220021716id_/http%3A//www.maxon.net/about/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maxon.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613105533id_/http%3A//www.maxon.net/about/legal/privacy-policy.html) for the most accurate reproduction.*
 
-# MAXON - The makers of CINEMA 4D and BodyPaint 3D
+# MAXON: Privacy Policy
 
 **Online Privacy Practices**  
 At MAXON, we take great care to safeguard your privacy. The information that we collect from you will only be used lawfully, in accordance with the Data Protection Act 1998 and, as far as applicable, in accordance with the German data protection law (Bundesdatenschutzgesetz) in its valid version. We strictly adhere to the following guidelines to ensure that your details remain confidential. **
