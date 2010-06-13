@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2009-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090811010054id_/http%3A//www.outbacknow.com.au/index.php%3Fmodule%3Dpagesetter%26func%3Dviewpub%26tid%3D2%26pid%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outbacknow.com.au privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613154331id_/http%3A//www.outbacknow.com.au/index.php%3Fmodule%3Dpagesetter%26func%3Dviewpub%26tid%3D2%26pid%3D1) for the most accurate reproduction.*
 
 # Outback, Outback Now's Privacy Policy
 
