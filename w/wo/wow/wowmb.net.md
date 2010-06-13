@@ -1,36 +1,46 @@
-> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2009-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090221093716id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wowmb.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613084218id_/http%3A//www.wowmb.net/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # The Warlocks Den - Privacy Statement
 
-|  |    
+|  | 
+
+  
+
+
+  
+
+
+Please Register to Remove these Ads 
+
+  
 |  Top 5 Stats   
 ---  
 Latest Posts | Latest Forum News  
 | Thread |   |  Date, Time |  Posted By  
 ---|---|---|---  
- [Ok, should be fixed again...](http://wowmb.net/forums/f17/32524-ok_should_fixed_again_hopefully_good/) | [ ▼](http://wowmb.net/forums/f17/32524-ok_should_fixed_again_hopefully_good/) |  21-02, 02:32 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
- [How to push 7k+ dps](http://wowmb.net/forums/f99/32547-how_push_7k_dps/) | [ ▼](http://wowmb.net/forums/f99/32547-how_push_7k_dps/) |  21-02, 01:58 |  [levinho](http://wowmb.net/forums/members/levinho/)  
- [People really baffle me...](http://wowmb.net/forums/f12/32553-people_really_baffle_me_sometimes/) | [ ▼](http://wowmb.net/forums/f12/32553-people_really_baffle_me_sometimes/) |  21-02, 00:52 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
- [21/45/5 on 25 man Kel -...](http://wowmb.net/forums/f99/32556-21_45_5_25_man_kel_3368dps/) | [ ▼](http://wowmb.net/forums/f99/32556-21_45_5_25_man_kel_3368dps/) |  20-02, 23:53 |  [Koldfeat](http://wowmb.net/forums/members/koldfeat/)  
- [Raiding with non raiders!!!](http://wowmb.net/forums/f98/32554-raiding_non_raiders/) | [ ▼](http://wowmb.net/forums/f98/32554-raiding_non_raiders/) |  20-02, 22:10 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
- [What an amazing day!](http://wowmb.net/forums/f98/32555-what_amazing_day/) | [ ▼](http://wowmb.net/forums/f98/32555-what_amazing_day/) |  20-02, 22:10 |  [ _Akasha_](http://wowmb.net/forums/members/akasha/)  
- [New Affliction pet?](http://wowmb.net/forums/f16/32002-new_affliction_pet/) | [ ▼](http://wowmb.net/forums/f16/32002-new_affliction_pet/) |  20-02, 19:31 |  [Mort](http://wowmb.net/forums/members/mort/)  
- [PDF opening?](http://wowmb.net/forums/f17/32501-pdf_opening/) | [ ▼](http://wowmb.net/forums/f17/32501-pdf_opening/) |  20-02, 17:21 |  [XavronMG](http://wowmb.net/forums/members/xavronmg/)  
- [Re-Install Questions ??](http://wowmb.net/forums/f8/32527-re_install_questions/) | [ ▼](http://wowmb.net/forums/f8/32527-re_install_questions/) |  20-02, 16:52 |  [Derzerfetzer](http://wowmb.net/forums/members/derzerfetzer/)  
- [I need help with my DPS -...](http://wowmb.net/forums/f9/32007-i_need_help_my_dps_thread_2_post_patch_3_0_8_a/) | [ ▼](http://wowmb.net/forums/f9/32007-i_need_help_my_dps_thread_2_post_patch_3_0_8_a/) |  20-02, 15:46 |  [maylea](http://wowmb.net/forums/members/maylea/)  
-|  [No Ulduar attunement! Cyborg...](http://wowmb.net/forums/f71/32535-no_ulduar_attunement_cyborg_machines/) |  19-02  
+ [Cypher_BE wins the Banner...](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) | [ ▼](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) |  13-06, 04:29 |  [Cypher_BE](http://wowmb.net/forums/members/cypher_be/)  
+ [How to reset my profile?](http://wowmb.net/forums/f17/39253-how_reset_my_profile/) | [ ▼](http://wowmb.net/forums/f17/39253-how_reset_my_profile/) |  13-06, 04:09 |  [Cormanthor](http://wowmb.net/forums/members/cormanthor/)  
+ [Warlock's Den podcast?](http://wowmb.net/forums/f17/32146-warlocks_den_podcast/) | [ ▼](http://wowmb.net/forums/f17/32146-warlocks_den_podcast/) |  13-06, 03:31 |  [Screech](http://wowmb.net/forums/members/screech/)  
+ [Cataclysm Battlegrounds to be...](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) | [ ▼](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) |  13-06, 02:46 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
+ [ICC bosses, Afflic vs...](http://wowmb.net/forums/f138/37943-icc_bosses_afflic_vs_destruction/) | [ ▼](http://wowmb.net/forums/f138/37943-icc_bosses_afflic_vs_destruction/) |  13-06, 02:41 |  [Falcrist](http://wowmb.net/forums/members/falcrist/)  
+ [Engineering and tailoring as...](http://wowmb.net/forums/f10/39077-engineering_tailoring_demonology_lock/) | [ ▼](http://wowmb.net/forums/f10/39077-engineering_tailoring_demonology_lock/) |  13-06, 02:34 |  [Swiftxfox](http://wowmb.net/forums/members/swiftxfox/)  
+ [Love makes blind...?](http://wowmb.net/forums/f8/37414-love_makes_blind/) | [ ▼](http://wowmb.net/forums/f8/37414-love_makes_blind/) |  13-06, 02:05 |  [Aurelie](http://wowmb.net/forums/members/aurelie/)  
+ [helpful tips for my gears?](http://wowmb.net/forums/f22/39247-helpful_tips_my_gears/) | [ ▼](http://wowmb.net/forums/f22/39247-helpful_tips_my_gears/) |  13-06, 01:57 |  [Aurelie](http://wowmb.net/forums/members/aurelie/)  
+ [Warlocks on Akama...](http://wowmb.net/forums/f13/38889-warlocks_akama/) | [ ▼](http://wowmb.net/forums/f13/38889-warlocks_akama/) |  12-06, 23:49 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
+ [Den Members' Videos](http://wowmb.net/forums/f15/35799-den_members_videos/) | [ ▼](http://wowmb.net/forums/f15/35799-den_members_videos/) |  12-06, 21:09 |  [Supernex](http://wowmb.net/forums/members/supernex/)  
+|  [Cypher_BE wins the Banner...](http://wowmb.net/forums/f71/39250-cypher_wins_banner_contest/) |  12-06  
 ---|---  
- [Glyphs: Blizzard saying a lot...](http://wowmb.net/forums/f71/32534-glyphs_blizzard_saying_lot_little/) |  19-02  
- [Ulduar Under Development](http://wowmb.net/forums/f71/32502-ulduar_under_development/) |  17-02  
- [Blog Roll Tuesday!](http://wowmb.net/forums/f71/32492-blog_roll_tuesday/) |  17-02  
- [More information on dual specs](http://wowmb.net/forums/f71/32488-more_information_dual_specs/) |  17-02  
+ [Cataclysm Battlegrounds to be...](http://wowmb.net/forums/f71/39243-cataclysm_battlegrounds_region_wide/) |  11-06  
+ [More from Ghostcrawler on...](http://wowmb.net/forums/f71/39216-more_ghostcrawler_affliction_talent_trees_cataclysm/) |  09-06  
+ [Vote for the new Warlocks Den...](http://wowmb.net/forums/f71/39196-vote_new_warlocks_den_banner/) |  07-06  
+ [24 Hour Downtime for Selected...](http://wowmb.net/forums/f71/39189-24_hour_downtime_selected_realms/) |  07-06  
 Latest Blog Entries  
-|  [Raiding with non raiders!!!](http://wowmb.net/forums/blogs/darksumone/280-raiding_non_raiders.html) | [Darksumone](http://wowmb.net/forums/members/darksumone/)  
+|  [What is your's is now MINE](http://wowmb.net/forums/blogs/muhney/633-what_yours_now_mine.html) | [Muhney](http://wowmb.net/forums/members/muhney/)  
 ---|---  
- [What an amazing day!](http://wowmb.net/forums/blogs/saobuks/283-what_amazing_day.html) | [Saobuks](http://wowmb.net/forums/members/saobuks/)  
- [So close...](http://wowmb.net/forums/blogs/saobuks/282-so_close.html) | [Saobuks](http://wowmb.net/forums/members/saobuks/)  
- [On Raid Leading](http://wowmb.net/forums/blogs/kiralyn/281-raid_leading.html) | [Kiralyn](http://wowmb.net/forums/members/kiralyn/)  
- [Love is in the Air](http://wowmb.net/forums/blogs/warpy/279-love_air.html) | [Warpy](http://wowmb.net/forums/members/warpy/)  
+ [Guildless now](http://wowmb.net/forums/blogs/dieste/632-guildless_now.html) | [Dieste](http://wowmb.net/forums/members/dieste/)  
+ [Guild and Loremaster progress](http://wowmb.net/forums/blogs/dieste/631-guild_loremaster_progress.html) | [Dieste](http://wowmb.net/forums/members/dieste/)  
+ [LK Attempt 1](http://wowmb.net/forums/blogs/parsnup/630-lk_attempt_1.html) | [Parsnup](http://wowmb.net/forums/members/parsnup/)  
+ [Rhiadana: Not just a pretty...](http://wowmb.net/forums/blogs/bloodelfarmy/629-rhiadana_not_just_pretty_face.html) | [BloodElfArmy](http://wowmb.net/forums/members/bloodelfarmy/)  
   
 [](http://feeds.feedburner.com/TheWarlocksDen) [RSS Feed](http://feeds.feedburner.com/TheWarlocksDen)
 
