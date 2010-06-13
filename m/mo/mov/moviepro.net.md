@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moviepro.net privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212093306id_/http%3A//www.moviepro.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moviepro.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613163808id_/http%3A//www.moviepro.net/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ Our Site makes use of cookies, which is a common practice on the Internet. Cooki
 Certain information in being accumulated on the personal account of each registered user (e.g., list of downloads, e-mail/ICQ correspondence with the Administration, statistics, etc.). The Site Administration agrees not to abuse this data and not to disclose it (unless agreed with the user beforehand). 
 
 **Financial Information**  
-In order to pay for the Site Services, the user provides information on the method of payment (e.g., credit card details, etc.) to a payment transfer company that has a contract with {$rvars.sitename}. All details of your methods of payments are UNAVAILABLE to the Site Administration. Nevertheless, the Administration agrees to observe the security and non-dissemination of any other financial information on its users with all possible care (e.g., information on payments made). 
+In order to pay for the Site Services, the user provides information on the method of payment (e.g., credit card details, etc.) to a payment transfer company that has a contract with Moviepro (www.moviepro.net). All details of your methods of payments are UNAVAILABLE to the Site Administration. Nevertheless, the Administration agrees to observe the security and non-dissemination of any other financial information on its users with all possible care (e.g., information on payments made). 
