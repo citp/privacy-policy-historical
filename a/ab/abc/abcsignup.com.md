@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130063012id_/http%3A//www.abcsignup.com/home/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abcsignup.com privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613114901id_/http%3A//www.abcsignup.com/home/policy.aspx) for the most accurate reproduction.*
 
 # ABC Signup
 
@@ -7,10 +7,10 @@ Privacy Statement
 This privacy statement applies to the website of:
 
 JTC Technologies, LLC   
-4350 Brownsboro Road, Suite 209   
-Louisville KY 40207   
+6060 Dutchmans Lane, Suite 250   
+Louisville KY 40205   
 US   
-502-896-1127   
+502-454-2850   
 [jtctech@jtctech.com](mailto:jtctech@jtctech.com)
 
 We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. 
