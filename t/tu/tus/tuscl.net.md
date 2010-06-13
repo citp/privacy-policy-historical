@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218230956id_/http%3A//www.tuscl.net/b.php%3FAID%3D66) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tuscl.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613132339id_/http%3A//www.tuscl.net/b.php%3FAID%3D66) for the most accurate reproduction.*
 
-# The Ultimate Strip Club List: Privacy Policy Statement
+# Privacy Policy Statement
 
-[Write your own Article](https://web.archive.org/ae.php)This is the web site of The Ultimate Strip Club List. We can be contacted via [our contact page](http://www.tuscl.net/contact.php). 
+**Get 4 weeks free VIP!**[Write your own Article](https://web.archive.org/web/20100613132339id_/http%3A//www.tuscl.net/ae.php)
+
+This is the web site of The Ultimate Strip Club List. We can be contacted via [our contact page](http://www.tuscl.net/contact.php). 
 
 For each visitor to our Web page, our Web server automatically recognizes only the consumer's domain name, but not the e-mail address (where possible). 
 
@@ -15,4 +17,4 @@ With respect to cookies: We use cookies to store visitors preferences, record se
 If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.   
 Our privacy policy is simple. We don't share any of your information with anyone. We will use your email address to send you pertinent information about your membership at The Ultimate Strip Club List. That's about it. If you choose to publish your email on www.tuscl.com, then other members and non-members may have access to it.
 
-[Write your own Article](https://web.archive.org/ae.php)
+ **Get 4 weeks free VIP!**[Write your own Article](https://web.archive.org/web/20100613132339id_/http%3A//www.tuscl.net/ae.php)
