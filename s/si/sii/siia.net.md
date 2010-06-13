@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2009-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090911001755id_/http%3A//www.siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siia.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613212355id_/http%3A//siia.net/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D48%26Itemid%3D21) for the most accurate reproduction.*
 
 # Privacy Policy - SIIA: Software & Information Industry Association
 
 ##  Privacy Policy
 
-[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&format=pdf&option=com_content&Itemid=21 "PDF")[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&tmpl=component&print=1&page=&option=com_content&Itemid=21 "Print")[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cDovL3d3dy5zaWlhLm5ldC9pbmRleC5waHA/b3B0aW9uPWNvbV9jb250ZW50JnZpZXc9YXJ0aWNsZSZpZD00ODpwcml2YWN5LXBvbGljeSZjYXRpZD0xNDc6YWJvdXQtc2lpYS10ZW1wJkl0ZW1pZD0yMQ== "E-mail")
+[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&format=pdf&option=com_content&Itemid=21 "PDF")[](https://web.archive.org/index.php?view=article&catid=147%3Aabout-siia-temp&id=48%3Aprivacy-policy&tmpl=component&print=1&layout=default&page=&option=com_content&Itemid=21 "Print")[](https://web.archive.org/index.php?option=com_mailto&tmpl=component&link=aHR0cHM6Ly93d3cuc2lpYS5uZXQvaW5kZXgucGhwP29wdGlvbj1jb21fY29udGVudCZ2aWV3PWFydGljbGUmaWQ9NDg6cHJpdmFjeS1wb2xpY3kmY2F0aWQ9MTQ3OmFib3V0LXNpaWEtdGVtcCZJdGVtaWQ9MjE= "E-mail")
 
 SIIA respects the privacy of visitors to its Web site and its member companies. SIIA strongly believes that if electronic commerce and online activities are to flourish, consumers must be assured that information provided online is used responsibly and appropriately. To protect online privacy, SIIA has implemented the following policy.
 
