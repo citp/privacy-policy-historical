@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the totalhair.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219115146id_/http%3A//www.totalhair.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalhair.net privacy policy that was archived on 2010-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100613071455id_/http%3A//www.totalhair.net/privacy.php) for the most accurate reproduction.*
 
 # Hair Styles, Privacy Policy
 
