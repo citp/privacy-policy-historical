@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211180646id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbc.ca privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614222255id_/http%3A//www.cbc.ca/aboutcbc/discover/privacy.html) for the most accurate reproduction.*
 
 # CBC.ca - Privacy
 
@@ -126,7 +126,7 @@ If you have no problem accepting cookies, but wish to be informed of their appea
 
 Personal Information Protection and Electronic Documents Act Corporate Records and Information Management Procedures Corporate Retention Schedules.
 
-All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Meg Angevine in Ottawa at 150-6167.
+All questions related to the interpretation and application of this policy should be directed to the Privacy Coordinator, Meg Angevine in Ottawa at 150-6165 (or 613-288-6165).
 
 The ads appearing on this Web site are delivered to you by DoubleClick, our Web advertising partner. Information about your visits to this site, such as number of times you have viewed an ad (but not your name, address, or other personal information), is used to serve ads to you. For more information about DoubleClick, cookies, and how to "opt-out", please visit [http://www.doubleclick.net/us/corporate/privacy](http://www.doubleclick.com/us/about_doubleclick/privacy/)
 
