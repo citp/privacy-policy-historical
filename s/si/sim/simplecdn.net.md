@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simplecdn.net privacy policy that was archived on 2009-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091207063803id_/http%3A//simplecdn.net/news/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecdn.net privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614023745id_/http%3A//simplecdn.net/news/privacy) for the most accurate reproduction.*
 
 # News | SimpleCDN Privacy Policy | www.SimpleCDN.com
 
