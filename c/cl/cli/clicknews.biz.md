@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clicknews.biz privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524014714id_/http%3A//clicknews.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clicknews.biz privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195837id_/http%3A//clicknews.biz/privacy.php) for the most accurate reproduction.*
 
 # ClickNews.biz
 
