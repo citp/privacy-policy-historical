@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the delvenetworks.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214022953id_/http%3A//www.delvenetworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delvenetworks.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615001327id_/http%3A//www.delvenetworks.com/privacy) for the most accurate reproduction.*
 
 # Delve Networks | Online Video | Privacy Policy
 
 Last updated: March 1, 2008
 
-Please read this Privacy Policy carefully to understand how Delve Networks, Inc., its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Delve") uses and protects the information you provide. This privacy policy (the "Privacy Policy") applies to this World Wide Web site and any variations or successors to this website ([www.delvenetworks.com](https://web.archive.org/web/20091214022953id_/http%3A//www.delvenetworks.com/www.delvenetworks.com), the "Delve Site"), any Delve computer software downloadable or otherwise available from the Delve Site ("Delve Software") and any Delve services purchased or otherwise made available from the Delve Site ("Delve Services") (collectively, the "Delve Properties"). This Privacy Policy ("Privacy Policy") applies to all Users ("Users") of the Delve Properties. 
+Please read this Privacy Policy carefully to understand how Delve Networks, Inc., its subsidiary and affiliate corporations, successors, and assigns (collectively referred to as "Delve") uses and protects the information you provide. This privacy policy (the "Privacy Policy") applies to this World Wide Web site and any variations or successors to this website ([www.delvenetworks.com](https://web.archive.org/web/20100615001327id_/http%3A//www.delvenetworks.com/www.delvenetworks.com), the "Delve Site"), any Delve computer software downloadable or otherwise available from the Delve Site ("Delve Software") and any Delve services purchased or otherwise made available from the Delve Site ("Delve Services") (collectively, the "Delve Properties"). This Privacy Policy ("Privacy Policy") applies to all Users ("Users") of the Delve Properties. 
 
 1\. What Information Delve Collects From You
 
