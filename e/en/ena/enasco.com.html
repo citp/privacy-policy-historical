@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the enasco.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213035205id_/http%3A//www.enasco.com/page/policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enasco.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614103942id_/http%3A//www.enasco.com/page/policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 	<title>NASCO's Privacy Policy Statement
 	</title>
@@ -20,11 +20,7 @@
 	<!--  chrome menu -->
 	<script type="text/javascript" src="/javascripts/chrome.js"></script>
 	<link rel="stylesheet" type="text/css" href="/css/chromestyle.css">
-
-	<!--  ie6 -->
-    <link rel="stylesheet" type="text/css" href="/css/pushup.css">
-    <script type="text/javascript" src="/javascripts/pushup.js"></script>
-
+    
 	<!-- prototype javascript library -->	
 	<script type="text/javascript" src="/javascripts/prototype.js"></script>
 
@@ -46,7 +42,12 @@
 <body onload=" initLightbox();">
 
 
+
+
 <div id="container">
+
+
+
 
 
 
@@ -60,13 +61,22 @@
     
 	<a href="/"><img id="logo" src="/images/logo_2007.jpg" border="0" alt=""></a> 	
 	</div>
+    
+ 
+  
  
 	
 
-	
+		
+	    
+    
+    
     <span id="userlinks" style="float:left; margin-left:5px; margin-top:70px; margin-right:300px;">
-		<a href="/action/Login">Login</a>	| <a href="/action/Registration">Register</a> 
-			| <a href="/action/OrderStatus">Order Status</a> | <a href="/page/cust_service">Customer Service </a> | 1-800-558-9595</span>
+		<a id="login" href="/action/Login">Login</a>	| <a id="register" href="/action/Registration">Register</a> 
+			| <a id="order-status" href="/action/OrderStatus">Order Status</a> | <a href="/page/contact">Contact Us</a> | 1-800-558-9595</span>
+	
+    
+	
 	
 	
 </div>
@@ -78,14 +88,15 @@
          </li>
    
       <li><span class="divider divider-vert"></span></li>
-      <li><a class="item-primary" href="/artsandcrafts/">Arts &amp; Crafts</a>
+      <li><a class="item-primary" href="/artsandcrafts/">Arts &amp; Crafts</a></li>
    
          
    
-      </li><li><span class="divider divider-vert"></span></li>
-      <li><a class="item-primary" href="#">Education</a>
+      <li><span class="divider divider-vert"></span></li>
+      <li><a class="item-primary" href="/science/">Education</a>
    
          <ul style="width:192px;">
+         <li><a class="item-primary" href="/artsandcrafts/">Arts &amp; Crafts</a></li>
          <li><a href="/dissection/">Dissection Materials</a></li>
          <li><a href="/earlylearning/">Early Learning Essentials</a></li>
          <li><a href="/fcs/">Family &amp; Consumer Sciences</a></li>
@@ -96,14 +107,18 @@
          <li><a href="/projectsupplies/">Project Supplies</a></li>
          <li><a href="/reading/">Reading Resources</a></li>
          <li><a href="/science/">Science</a></li>
-         <li><a href="/specialeducation/">Special Education</a></li></ul>
-   
+         <li><a href="/specialeducation/">Special Education</a></li>
+         <li><a href="/farmandranch/Teaching+Aids/">Vocational Agriculture</a></li></ul>
+
       </li><li><span class="divider divider-vert"></span></li>
       <li><a class="item-primary" href="/farmandranch/">Farm Supplies / Ag Science</a>
+      <ul style="width:192px;">
+         <li><a href="/showing_grooming/">Showing &amp; Grooming</a></li>
+         <li><a href="/farmandranch/Teaching+Aids/">Vocational Agriculture</a></li></ul>
    
    
       </li><li><span class="divider divider-vert"></span></li>
-      <li><a class="item-primary" href="#">Health Training</a>
+      <li><a class="item-primary" href="/healtheducation/">Health Training</a>
    
          <ul style="width:192px;">
          <li><a href="/healtheducation/">Hands-On-Health</a></li>
@@ -111,15 +126,16 @@
          <li><a href="/nutrition/">Nutrition</a></li></ul>
          
        </li><li><span class="divider divider-vert"></span></li>
-      <li><a class="item-primary" href="/whirlpak/">Lab Sampling / Whirl-Pak®</a>
+      <li><a class="item-primary" href="/whirlpak/">Lab Sampling / Whirl-Pak®</a></li>
       
-      </li><li><span class="divider divider-vert"></span></li>
-      <li><a class="item-primary" href="/senioractivities/">Senior Activities</a>
+      <li><span class="divider divider-vert"></span></li>
+      <li><a class="item-primary" href="/senioractivities/">Senior Activities</a></li>
       
    
          
-   </li><li class="clear">&nbsp;</li></ul>
+   <li class="clear">&nbsp;</li></ul>
 </div>
+
 <!--  begin progressive search bar -->
 <div id="searchnav">
 	
@@ -128,10 +144,9 @@
 
 
 
-
 <form style="float: left;" action="/Search" method="GET" class="form-autocomplete" onsubmit="javascript: if (this.q.value == '' || this.q.value == 'Search term or Product #') { alert('Please enter a search keyword or product number.'); return false; }">
 	
-<label>Search</label>
+<!--<label>Search</label>
 
 <select id="catalog" name="catalog" onchange="this.form.q.value=''; this.form.q.focus();">
 <option value="">All Catalogs</option>
@@ -139,86 +154,108 @@
 
 	
 	
-	<option value="artsandcrafts">Arts &amp; Crafts Materials</option>
+	<option value="artsandcrafts" >Arts & Crafts Materials</option>
 
 	
 	
-	<option value="dissection">Dissection Materials</option>
+	<option value="clearance" >Clearance</option>
 
 	
 	
-	<option value="earlylearning">Early Learning</option>
+	<option value="dissection" >Dissection Materials</option>
 
 	
 	
-	<option value="fcs">Family &amp; Consumer Sciences</option>
+	<option value="earlylearning" >Early Learning</option>
 
 	
 	
-	<option value="farmandranch">Farm &amp; Ranch/Ag Sciences</option>
+	<option value="fcs" >Family & Consumer Sciences</option>
 
 	
 	
-	<option value="healtheducation">Hands-On-Health</option>
+	<option value="farmandranch" >Farm & Ranch/Ag Sciences</option>
 
 	
 	
-	<option value="healthcare">Health Care</option>
+	<option value="healtheducation" >Hands-On-Health</option>
 
 	
 	
-	<option value="math">Math</option>
+	<option value="healthcare" >Health Care</option>
 
 	
 	
-	<option value="nutrition">Nutrition</option>
+	<option value="math" >Math</option>
 
 	
 	
-	<option value="physicaleducation">Physical Ed &amp; Team Sports</option>
+	<option value="nutrition" >Nutrition</option>
 
 	
 	
-	<option value="projectsupplies">Project Supplies</option>
+	<option value="physicaleducation" >Physical Ed & Team Sports</option>
 
 	
 	
-	<option value="reading">Reading Resources</option>
+	<option value="projectsupplies" >Project Supplies</option>
 
 	
 	
-	<option value="science">Science</option>
+	<option value="reading" >Reading Resources</option>
 
 	
 	
-	<option value="senioractivities">Senior Activities</option>
+	<option value="science" >Science</option>
 
 	
 	
-	<option value="specialeducation">Special Education</option>
+	<option value="senioractivities" >Senior Activities</option>
 
 	
 	
-	<option value="whirlpak">Whirl-Pak®</option>
+	<option value="showing_grooming" >Showing & Grooming</option>
 
 	
 	
-	<option value="xenopus">Xenopus</option>
+	<option value="specialeducation" >Special Education</option>
 
-</select>
+	
+	
+	<option value="whirlpak" >Whirl-Pak®</option>
+
+	
+	
+	<option value="xenopus" >Xenopus</option>
+
+</select>-->
 
 
-<input style="color: #666;" id="q" type="text" name="q" value="Search term or Product #" size="36" onfocus="this.value=''; this.style.color='black'"> 
-	<input type="image" src="/images/go.gif" style="margin-bottom:-3px" alt="">
 
-<span id="basketSummary" style="padding-left: 15px; text-align: center; font-size: 10pt; font-weight: bold; position: relative; top: -5px;">
+<input style="color: #666; margin-left:10px;" id="q" type="text" name="q" value="Search term or Product #" size="36" onfocus="this.value=''; this.style.color='black'"> 
+	<input type="image" src="/images/go.gif" style="margin-bottom:-5px" alt="">
+
+<span id="basketSummary" style="padding-left: 10px; padding-right: 10px; text-align: center; font-size: 10pt; font-weight: bold;">
+
+<img src="/images/eorder.gif" height="24px" width="27px" alt="" style="vertical-align:top; padding-left:15p;">
+<a href="/action/QuickOrder?" style="color:#003366; font-size:12px; font-weight:bold;">Quick Order Form</a>
 </span>
+<img src="/images/estar.gif" height="24px" width="27px" alt="" style="vertical-align:top; padding-right:5px; padding-left:15p;"><a href="/page/subscription/opt-in2"><span style="color:#003366; font-size:12px; font-weight:bold; padding-right:10px;">Sign-up for Email Updates</span></a>
+
+
+<a href="/clearance?utm_source=Clearance&amp;utm_medium=Banner&amp;utm_campaign=TopMenuPos030310">
+				<img src="/images/clrH.gif" height="24" width="150" alt="Clearance" border="0" style="vertical-align:top;padding-left:5px;"></a>
 </form>
 
 </div>
 <!--  end progressive search bar -->
- 
+
 <div style="clear: left;"></div>
+
+
+
+
+
 
 
 
@@ -247,6 +284,8 @@
 	</table> -->
 
 	
+
+
 
 
 
@@ -375,7 +414,6 @@ a {text-decoration:none;}
 </div>
 <!-- end content -->
 
-
 <style>
  #footerlogoleft{float:left; margin:0px 0px 0px 16px;
  
@@ -391,35 +429,41 @@ a {text-decoration:none;}
 <div style="width:880px; margin:0px;">
 <br>
 <div id="ttopinfo">
-  <table width="860" align="center" border="0" cellspacing="10" cellpadding="5">
+  <table width="860" align="center" border="0" cellspacing="5" cellpadding="5">
     <tbody><tr>
-      <td width="177" id="tpinfo"><p class="tpinfo2">Shopping Help</p>
-        <p><a href="/page/search_help">Search Help</a><br>
+      <td width="166" id="tpinfo"><p class="tpinfo2">Shopping Help</p>
+        <p>
+          <a href="/page/bilingual">Bilingual Products</a><br>
           <a href="/page/howto">How to Place an Order</a><br>
+          <a href="/page/search_help">Search Help</a><br>
+          <a href="/page/summercamp/?utm_source=Summer%2BPrograms&amp;utm_medium=banner&amp;utm_campaign=summerprogramsFeb10">Program Supplies</a><br>
           <a href="/action/Registration">Register</a> or <a href="/action/Login">Login</a><br>
-          <a href="/action/OrderStatus">Check Order Status</a><br>
-          <a href="/page/bilingual">Bilingual Products</a></p></td>
-          
-      <td width="207" id="tpinfo"><p class="tpinfo2">Distributors-Dealers-Vendors</p>
-        <p><a href="/page/newprod_schedule">Sales Directors and Buyers</a><br>
-          <a href="/page/newprod">Got a New Product for Us?</a><br>
-          <a href="/pdfs/np040_00F.pdf">Second Source Form</a><br>
-          <a href="/pdfs/NP_049_05F.pdf">Supplier Guidelines</a><br>
-          <a href="/pdfs/2009_Routing_Guide.pdf">Shipping &amp; Routing Guide</a><br>
-        </p></td>
-      <td width="208" id="tpinfo"><p class="tpinfo2">Safe &amp; Secure Shopping</p>
-        <p><a href="/page/policy">Privacy Policy</a><br>
-          <a href="/page/shipping">Shipping &amp; Delivery</a><br>
-          <a href="/page/export">International Orders</a><br>
-          <a href="/page/purchase_order">Purchase Order</a><br>
-          <a href="/page/questions">Frequently Asked Questions</a><br>
+          <a href="/page/summercamp/?utm_source=Summer%2BPrograms&amp;utm_medium=banner&amp;utm_campaign=summerprogramsFeb10">Summer Camp</a>
           </p></td>
-      <td width="178" id="tpinfo"><p class="tpinfo2">Company Information</p>
+          
+      <td width="249" id="tpinfo"><p class="tpinfo2">Distributors-Dealers-Vendors</p>
+        <p>
+          <a href="/page/newprod">Got a New Product for Us?</a><br>
+          <a href="/page/purchase_order">Purchase Order Terms &amp; Conditions</a><br>
+          <a href="/page/newprod_schedule">Sales Directors and Buyers</a><br>
+          <a href="/pdfs/np040_00F.pdf" onclick="javascript: pageTracker._trackPageview('/purchasing/np040-00/'); ">Second Source Form</a><br>
+          <a href="/pdfs/NP_049_05F.pdf" onclick="javascript: pageTracker._trackPageview('/purchasing/np049-05/'); ">Supplier Guidelines</a><br>
+          <a href="/pdfs/2010_Routing_Guide.pdf">Shipping &amp; Routing Guide</a>
+        </p></td>
+      <td width="203" id="tpinfo"><p class="tpinfo2">Safe &amp; Secure Shopping</p>
+        <p><a href="/action/OrderStatus">Check Order Status</a><br>
+           <a href="/page/exp">Coupon Exceptions</a><br>
+           <a href="/page/questions">Frequently Asked Questions</a><br>
+           <a href="/page/export">International Orders</a><br>
+           <a href="/page/policy">Privacy Policy</a><br>
+           <a href="/page/shipping">Shipping &amp; Delivery</a>
+          </p></td>
+      <td width="177" id="tpinfo"><p class="tpinfo2">Company Information</p>
        <p><a href="/page/about_nasco_1">About Us</a><br>
-          <a href="/page/contact">Contact Information</a><br>
+          <a href="/page/cust_service">Customer Service</a><br>
           <a href="/page/store">Retail Stores</a><br>
           <a href="/page/request">Request a Catalog</a><br>
-          <a href="/page/directory">Site Directory</a><br>
+          <a href="/page/directory">Site Directory</a><br><br>
         </p></td>
     </tr>
     <tr>
@@ -428,14 +472,18 @@ a {text-decoration:none;}
 <area shape="rect" coords="149,8,328,31" href="/page/nascoguard_info" title="NascoGuard" alt="NascoGuard">
 <area shape="rect" coords="1,2,129,35" href="/page/foodrep" title="Life/form" alt="Life/form">
 </map></td>
-      <td id="tpinfo"><p class="tpinfo2">2009 Updates</p>
+      <td id="tpinfo"><p class="tpinfo2">2010 Updates</p>
         <p><a href="/page/ed_purchdept">Educational Purchasing<br>Department Essentials</a><br><br>
           
           </p></td>
-      <td id="tpinfo"><p><img src="/images/nasfeed.png" height="16" width="16" alt="" border="0">&nbsp;<a href="/page/directory#Syndication RSS Feeds">RSS - Syndication</a><br>
+      <td id="tpinfo"><p>
+      <img src="/images/facebook.png" height="16" width="16" alt="" border="0">&nbsp;<a href="//www.facebook.com/pages/Nasco-Arts-Crafts/255457652136" target="_blank">Find us on Facebook</a><br>
+      <img src="/images/twitter.png" height="16" width="16" alt="" border="0">&nbsp;<a href="//twitter.com/nascomodesto" target="_blank">Follow us on twitter</a><br>
+      <img src="/images/nasfeed.png" height="16" width="16" alt="" border="0">&nbsp;<a href="/page/directory#Syndication RSS Feeds">RSS - Syndication</a><br>
       <img src="/images/naswordpress.png" height="16" width="16" alt="" border="0">&nbsp;<a href="//enasco.wordpress.com/" target="_blank">Wordpress</a><br>
       <img src="/images/nasyoutube.png" height="16" width="16" alt="" border="0">&nbsp;<a href="//www.youtube.com/NascoVideos" target="_blank">YouTube</a><br>
-      <img src="/images/twitter.png" height="16" width="16" alt="" border="0">&nbsp;<a href="//twitter.com/NascoModesto" target="_blank">Follow us on twitter</a></p></td>
+      </p>
+      </td>
     </tr>
   </tbody></table>
 </div>
@@ -444,9 +492,11 @@ a {text-decoration:none;}
 <div id="footer" style="width:870px;">
 
 	<div style="margin: 0px; "> 
-	<div id="footerlogoleft" style=""><a href="//www.donorschoose.org/about/history.html?zone=0" target="_blank" style="border: medium none ;"><img src="/images/donorchooselogo.jpg"></a></div>
+
+	<div id="footerlogoleft"><a href="//www.donorschoose.org/teacher/index.html" target="_blank"><img src="/images/donorchooselogo.jpg" border="0"></a></div>
+
 	<div style="float: left; width: 605px;" align="center">Prices listed are U.S. Domestic prices only and apply to orders shipped within the United States.<br>
-	Orders from outside the United States may be charged additional distributor, customs, and shipping charges.<p class="style7" align="center">Customer Service1-800-558-9595 Copyright © 2009 			
+	Orders from outside the United States may be charged additional distributor, customs, and shipping charges.<p class="style7" align="center">Customer Service 1-800-558-9595 Copyright © 2010 			
 	Nasco</p>
 	</div>
 	
@@ -502,6 +552,15 @@ a {text-decoration:none;}
 <!-- google website optimiser conversion page script -->
 <!-- we count this page view as a conversion if the session is not new (i.e., no bounce!) -->
 
+<script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-3578582-9");
+pageTracker._trackPageview("/0819316492/goal");
+}catch(err){}</script>
 
 
 
