@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214183240id_/http%3A//www.seacoastonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seacoastonline.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003310id_/http%3A//www.seacoastonline.com/apps/pbcs.dll/misc%3Furl%3D/static/privacyPolicy.htm) for the most accurate reproduction.*
 
 # Seacoast Online -
 
