@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417005036id_/http%3A//emorywheel.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emorywheel.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614190307id_/http%3A//emorywheel.com/about/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | The Emory Wheel
 
@@ -15,8 +15,6 @@ Emorywheel.com does not share, sell, trade, rent or give to other parties any in
 Emorywheel.com does not “spam” users and it is not our policy to send unsolicited email. As a registered user, however, you are requesting and will receive an email update of headlines with links back to our website with the publication of each print edition of the Emory Wheel. 
 
 Emorywheel.com may contain links to other websites and is not responsible for the content or privacy practices of other sites. We suggest you consult these sites for their specific privacy policies. 
-
-Emorywheel.com uses a third party vendor to manage our classified advertising sales (Universal Advertising). This vendor collects more detailed information for processing classified advertising transactions. Universal Advertising’s privacy policy can be accessed at <http://www.universaladvertising.com/index.cfm> by selecting “privacy statement”. 
 
 If you have any questions or concerns regarding this policy, please contact us at <http://www.emorywheel.com/about/contact.php> and select “general comment” for your correspondence. 
 
