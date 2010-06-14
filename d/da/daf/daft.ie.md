@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214160656id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daft.ie privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615000255id_/http%3A//www.daft.ie/docs.daft%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Daft.ie : Information
 
