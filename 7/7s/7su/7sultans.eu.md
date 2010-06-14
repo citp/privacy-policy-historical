@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 7sultans.eu privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212124603id_/http%3A//www.7sultans.eu/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 7sultans.eu privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614065436id_/http%3A//www.7sultans.eu/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy at 7 Sultans Casino
 
