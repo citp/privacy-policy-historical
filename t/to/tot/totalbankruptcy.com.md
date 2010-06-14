@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2009-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091231022308id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totalbankruptcy.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614055713id_/http%3A//www.totalbankruptcy.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Total Bankruptcy Privacy Policy
 
-## Last Updated: October 2009
+## Last Updated: January 2010
 
 All of the information we obtain about you is stored securely on our servers and we use it only to identify the unaffiliated sponsoring lawyer or law firm in your geographical area and to connect you with them, as described in our [Terms and Conditions](https://web.archive.org/terms-conditions.aspx) to you, to allow unaffiliated sponsoring lawyers or law firms to evaluate your case and provide legal services to you and to provide ongoing communications to you in furtherance of these legal services, and as set forth below. Except as set forth below, we will not share your personal information with anyone else without your permission. Any third party to whom we provide your information must agree to keep your information confidential and not to share it with any other third party without your permission. We describe our information collection and disclosure practices in greater detail below.
 
@@ -67,4 +67,6 @@ This Web site contains links to other sites that are owned and operated by unaff
 
 ## Opt-Out Instructions
 
-If you choose not to receive our [bankruptcy](http://www.totalbankruptcy.com/ "bankruptcy information") newsletters and other communications about products and services we think may interest you, you may opt out by clicking the opt-out statement below and providing your e-mail address in the box provided and hitting submit. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.
+You may opt-out by clicking the below opt-out page link. This opt-out does not apply to communications we have with you to complete your order or provide the service you requested. Understand, however, that, by electing this option, you may limit the functionality of this Web site and the amount of information and services we can provide to you. You may revoke your opt-out option at any time by contacting us using the information provided above.
+
+To opt-out simply go to this [opt-out page](http://totalattorneys.totalunsubscribe.com/14ec0bc73db5b6f2950cf49e653447bc) and follow the instructions provided on that page to tell us which email address(es) you want unsubscribed.
