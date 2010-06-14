@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228225752id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantu.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614032941id_/http%3A//www.iwantu.com/privacy.love) for the most accurate reproduction.*
 
 # Adult Dating Personals - Iwantu.com Singles and Swingers Site
 
 Effective On: January 3rd, 2007 
 
-If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.IwantU.com](http://support.iwantu.com/&id=99333003)  
+If you feel that this company is not abiding by its posted privacy policy, you should first contact our customer service department at [http://support.IwantU.com](http://support.iwantu.com/)  
 
 
 ##  Information Collection and Use 
@@ -80,7 +80,7 @@ When our registration/order form asks users to enter sensitive information (such
 
 While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users' information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to your information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our customers' information is protected. Finally, the servers that we store personally identifiable information on are kept in a secure environment, behind a locked cage. 
 
-If you have any questions about the security at our website, you can send an visit [http://support.IwantU.com.](http://support.iwantu.com/&id=99333003)
+If you have any questions about the security at our website, you can send an visit [http://support.IwantU.com.](http://support.iwantu.com/)
 
 ##  **Special Offers**
 
@@ -96,11 +96,11 @@ If a user's personally identifiable information changes (such as their zip code)
 
 In order to cancel a membership, members need to fill out the Cancel Membership form from the Profile page. Once a cancellation is processed all information is deleted from the database and no further access is provided. 
 
-For handle or gender change, members need to visit [http://support.IwantU.com](http://support.iwantu.com/&id=99333003) with their request. 
+For handle or gender change, members need to visit [http://support.IwantU.com](http://support.iwantu.com/) with their request. 
 
 ##  **Choice/Opt-out**
 
-Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site during registration. If they wish not to receive our newsletter they can opt-out by unsubscribing during registration, by following the instructions contained in the email, by simply cancelling their membership or going to [http://support.IwantU.com](http://support.iwantu.com/&id=99333003). 
+Our users are given the opportunity to 'opt-out' of having their information used for purposes not directly related to our site during registration. If they wish not to receive our newsletter they can opt-out by unsubscribing during registration, by following the instructions contained in the email, by simply cancelling their membership or going to [http://support.IwantU.com](http://support.iwantu.com/). 
 
 Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether they should proceed with services that require an outside party, or not. 
 
