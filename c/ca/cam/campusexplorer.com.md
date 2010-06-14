@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204011324id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the campusexplorer.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614073050id_/http%3A//www.campusexplorer.com/company/legal/privacy) for the most accurate reproduction.*
 
-# College Search and Information Guide - Find Your Future | Campus Explorer
-
-## Privacy Policy
+# College Search and Information Guide - Find Your Future | Campus Explorer | Campus Explorer
 
 At Campus Explorer, Inc., we continue to develop technological enhancements for students, families, schools and our partners. We are committed to excellence in customer service, and your privacy is important to us. This is the Privacy Policy for all Campus Explorer, Inc. websites, including the website currently located at [www.campusexplorer.com](https://web.archive.org/) (collectively "Site" or "Sites"). We have prepared this Privacy Policy to explain how we collect, use, and protect Personal Information (defined below) and Non-Personal Information (defined below) when you use the Site and your choices for managing your information preferences. By using the Site, you signify your assent to this Privacy Policy and the Site's [Terms of Use](https://web.archive.org/company/legal/terms/).
 
