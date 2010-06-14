@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsarse.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212101800id_/http%3A//newsarse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsarse.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614071158id_/http%3A//newsarse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | newsarse.com
 
