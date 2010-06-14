@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pentaho.org privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215043821id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pentaho.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614182758id_/http%3A//community.pentaho.com/privacy) for the most accurate reproduction.*
 
 # Pentaho Commercial Open Source Business Intelligence Privacy
 
