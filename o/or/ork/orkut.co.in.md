@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the orkut.co.in privacy policy that was archived on 2009-05-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090524072904id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkut.co.in privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614091122id_/http%3A//www.orkut.com/Privacy.aspx) for the most accurate reproduction.*
 
-# 
+# orkut Privacy Notice
 
-**orkut Privacy Notice**
-
-February 18, 2009
+June 25, 2009
 
 The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we treat personal information when you use Google's products and services, including information provided when you use orkut. In addition, the following describes our additional privacy practices that are specific to orkut. If you are using Google Talk in conjunction with orkut, please refer to the [Google Talk Privacy Notice](http://www.google.com/talk/privacy.html) for information about our privacy practices that are specific to Talk.
 
@@ -14,6 +12,7 @@ The [Google Privacy Policy](http://www.google.com/privacy.html) describes how we
   * As an orkut member, you can create a profile or orkut community that includes personal information, such as your gender, age, occupation, hobbies, and interests, plus other content, such as photos. This information may be accessed and viewed by other orkut members, as determined by your privacy settings.
   * When you invite new members into your network or send messages through orkut, we collect and maintain information associated with those messages, including email addresses and content.
   * When you send and receive SMS messages to or from the orkut website, we collect and maintain information associated with those messages, such as the phone number, the wireless carrier associated with the phone number, the content of the message, and the date and time of the transaction.
+  * When you interact with an orkut feature, we may collect and maintain information about your activities linked to that feature. In the case of Promotions, we keep track of which promotions we have served to you, and if you interact with a Promotion we will also collect and maintain data relating to your clicks, your deletion of the promotion, and your forwarding of the promotion to your orkut friends.
 
 
 
