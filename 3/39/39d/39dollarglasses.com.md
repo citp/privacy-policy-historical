@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2009-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090419163817id_/http%3A//www.39dollarglasses.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 39dollarglasses.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614064333id_/http%3A//www.39dollarglasses.com/privacy_policy.html) for the most accurate reproduction.*
 
 # 39dollarglasses.com -- Privacy Policy
 
@@ -9,9 +9,9 @@
 
 **Does your website share information it receives?**
 
-We are committed to protecting your privacy. **We do not sell, trade, or otherwise distribute our customers� personal information to any third party.** We collect only the minimum amount of information required to complete your order. This includes your shipping and billing information; your contact information (phone number & email address); and your prescription information. If you were referred to us from another website we may share information about the time of and amount of your purchase. No one is given your name, mailing address, phone number, email address, or any identifiable personal information; no personal information about you is given from our website or company. 
+We are committed to protecting your privacy. **We do not sell, trade, or otherwise distribute our customers' personal information to any third party.** We collect only the minimum amount of information required to complete your order. This includes your shipping and billing information; your contact information (phone number & email address); and your prescription information. If you were referred to us from another website we may share information about the time of and amount of your purchase. No one is given your name, mailing address, phone number, email address, or any identifiable personal information; no personal information about you is given from our website or company. 
 
-**E�Mails**
+**E-Mails**
 
 If you provide our website with your e-mail address, you may receive e-mails from us including order confirmation, shipping confirmation for your order(s), and occasional promotions and specials. If you do not want to receive marketing or promotional e-mails from us, a link is provided on any internal marketing email we may send. 
 
@@ -27,11 +27,11 @@ We have installed all appropriate technological safeguards to keep all informati
 
 **Secure Sockets Layering (SSL)**
 
-Our website uses Secure Sockets Layering (SSL) technology, the industry standard, to encrypt credit card information, before it is carried over the web. As a result, your encrypted information is as safe and secure as placing an online order on our website is as safe as placing a phone order. Our SSL encryption is implemented and monitored 24 hours per day, 7 days per week, through **Thawte™**. 
+Our website uses Secure Sockets Layering (SSL) technology, the industry standard, to encrypt credit card information, before it is carried over the web. As a result, your encrypted information is as safe and secure as placing an online order on our website is as safe as placing a phone order. Our SSL encryption is implemented and monitored 24 hours per day, 7 days per week, through **Verisign™**. 
 
-**HackerSafe**
+**McAfee SECURE**
 
-We use ScanAlert™ HACKER SAFE security to preemptively test for any vulnerabilities every single day. Your information is secure. 
+We use McAfee SECURE™ to preemptively test for any vulnerabilities every single day. Your information is secure. 
 
 **Children's Protection**
 
