@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214185754id_/http%3A//windowssecrets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windowssecrets.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615004633id_/http%3A//www.windowssecrets.com/privacy) for the most accurate reproduction.*
 
-# Microsoft Windows XP, Vista, 7, Internet Explorer (IE), Firefox, Windows Update - Windows Secrets
+# Microsoft Windows XP, Vista, 7, Internet Explorer (IE), Firefox, Windows Update
 
 All subscribers to the Windows Secrets Newsletter and visitors to the WindowsSecrets.com Web site are covered by our Ironclad Privacy Policy:
 
