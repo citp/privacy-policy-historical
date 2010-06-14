@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the coolest-gadgets.com privacy policy that was archived on 2009-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091111005801id_/http%3A//www.coolest-gadgets.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolest-gadgets.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614200757id_/http%3A//www.coolest-gadgets.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement » Coolest Gadgets
 
-## Privacy Statement
+### [Privacy Statement](http://www.coolest-gadgets.com/privacy-statement/ "Permanent Link to Privacy Statement")
 
 We take privacy seriously and will never share private information with other companies or organisations.
 
