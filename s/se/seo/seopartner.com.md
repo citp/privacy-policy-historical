@@ -1,85 +1,105 @@
-> *The following text is extracted and transformed from the seopartner.com privacy policy that was archived on 2005-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20050205204959id_/http%3A//www.seopartner.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seopartner.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614061610id_/http%3A//www.superfastbusiness.com/privacy) for the most accurate reproduction.*
 
-# SEOPartner.com :: Privacy Policy
+# Business Profit - SuperFastBusiness
 
-The Internet is an amazing tool. It has the power to change the way we live, and we're starting to see that potential today. With only a few mouse-clicks, you can follow the news, look up facts, buy goods and services, and communicate with others from around the world. It's important to SEO Group, Inc. to help our customers retain their privacy when they take advantage of all the Internet has to offer. 
+****SuperFastBusiness Privacy Notice  
 
-We believe your business is no one else's. Your privacy is important to you…and to us. So we'll protect the information you share with us. To protect your privacy, SEO Group, Inc. follows different principles in accordance with worldwide practices for customer privacy and data protection.
 
-q       We won’t sell or give away your name, mail address, phone number, email address, credit card number or any other information to anyone. 
+our privacy commitment
 
-q       We’ll use state-of-the-art security measures to protect your information from unauthorized users. 
+If you are visiting this page you may have been directed from one of our group of websites.We have created this privacy statement in order to demonstrate our firm and continuing commitment to the privacy of personal information provided by those visiting and interacting with any website controlled by SuperFastBusiness. We hold the privacy of your personal information in the highest regard. The following discloses our information gathering and dissemination practices for these websites. SuperFastBusiness abides by the National Privacy Principles established under the Australian Privacy Amendment (Private Sector) Act, 2001.
 
-## NOTICE
+We recognise the importance of protecting your privacy and our policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using oursites. This policy will be continuously assessed against new technologies, business practices and our customers' needs.
 
-We will ask you when we need information that personally identifies you (personal information) or allows us to contact you. Generally, this information is requested when you create a Registration ID on the site or when you download free software, enter a contest, order email newsletters or join a limited-access premium site. We use your Personal Information for four primary purposes:
+What Information Do We Collect?
 
-q       To make the site easier for you to use by not having to enter information more than once. 
+When you visit these websites you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site.
 
-q       To help you quickly find software, services or information. 
+1\. Personal Information You Choose to Provide
 
-q       To help us create content most relevant to you. 
+Registration Information
 
-q       To alert you to product upgrades, special offers, updated information and other new services from SEO Group, Inc. 
+When you register for any of our products, services or newsletters you will provide us information about yourself.
 
-## CONSENT
+Credit Card Information
 
-If you choose not to register or provide personal information, you can still use most of SEOPartner.com. But you will not be able to access areas that require registration. 
+If you choose to avail of our services, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information:  
+-Name  
+-Mailing address  
+-Email address  
+-Credit card number  
+-Name on credit card  
+-Credit card billing address  
+-Business and home phone number
 
-If you decide to register, you will be able to select the kinds of information you want to receive from us by subscribing to various services, like our electronic newsletters. If you do not want us to communicate with you about other offers regarding SEO Group, Inc. products, programs, events, or services by email, postal mail, or telephone, you may select the option stating that you do not wish to receive marketing messages from SEO Group, Inc. 
+Email Information
 
-SEO Group, Inc. occasionally allows other companies to offer our registered customers information about their products and services, using postal mail only. If you do not want to receive these offers, you may select the option stating that you do not wish to receive marketing materials from third parties. 
+If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone.
 
-## ACCESS
+2\. Web Site Use Information
 
-We will provide you with the means to ensure that your personal information is correct and current. You may review and update this information at any time at the Visitor Center. There, you can:
+Similar to other commercial Web sites, our Web sites utilize a standard technology called "cookies" (see explanation below, "What Are Cookies?") and web server log files to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site.
 
-q       View and edit personal information you have already given us. 
+How Do We Use the Information That You Provide to Us?
 
-q       Tell us whether you want us to send you marketing information, or whether you want third parties to send you their offers by postal mail. 
+Broadly speaking, we use personal information for purposes of administering our business activities, providing the products and services you requested, to process your payment, , to monitor the use of the service, our marketing and promotional efforts and improve our content and service offerings, and customize our site's content, layout, services and for other lawful purposes. These uses improve our site and better tailor it to meet your needs.
 
-q       Sign up for electronic newsletters about our services and products. 
+Furthermore, such information may be shared with others on an aggregate basis. Personally identifiable information or business information will not be shared with parties except as required by law.
 
-q       Register. Once you register, you won't need to do it again. Wherever you go on SEOPartner.com, your information stays with you. 
+Occasionally, we may also use the information we collect to notify you about important changes to our Website, new services, and special offers we think you will find valuable. You may notify us at any time if you do not wish to receive these offers by emailing us at the link provided on the newsletter.
 
-## SECURITY
+  What Are Cookies?
 
-SEO Group, Inc. has taken strong measures to protect the security of your personal information and to ensure that your choices for its intended use are honored. We take strong precautions to protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+A cookie is a very small text document, which often includes an anonymous unique identifier. When you visit a Web site, that site's computer asks your computer for permission to store this file in a part of your hard drive specifically designated for cookies. Each Web site can send its own cookie to your browser if your browser's preferences allow it, but (to protect your privacy) your browser only permits a Web site to access the cookies it has already sent to you, not the cookies sent to you by other sites. Browsers are usually set to accept cookies. However, if you would prefer not to receive cookies, you may alter the configuration of your browser to refuse cookies. If you choose to have your browser refuse cookies, it is possible that some areas of our site will not function as effectively when viewed by the users. A cookie cannot retrieve any other data from your hard drive or pass on computer viruses.
 
-We guarantee your e-commerce transactions to be 100% safe and secure. When you place orders or access your personal account information, you're utilizing a secure server software SSL, which encrypts your personal information before it's sent over the Internet. SSL is one of the safest encryption technologies available.
+How Do We Use Information We Collect from Cookies?
 
-In addition, your transactions are guaranteed under the Fair Credit Billing Act. This Act states that your bank cannot hold you liable for more than $50.00 in fraudulent credit card charges. If your bank does hold you liable for $50.00 or less, we'll cover your liability provided the unauthorized, fraudulent use of your credit card resulted through no fault of your own and from purchases made from us over our secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.
+As you visit and browse our Web site, the site uses cookies to differentiate you from other users. In some cases, we also use cookies to prevent you from having to log in more than is necessary for security. Cookies, in conjunction with our Web server's log files, allow us to calculate the aggregate number of people visiting our Web site and which parts of the site are most popular. This helps us gather feedback to constantly improve our Web site and better serve our clients. Cookies do not allow us to gather any personal information about you and we do not intentionally store any personal information that your browser provided to us in your cookies.
 
-SEO Group, Inc. strictly protects the security of your personal information and honors your choices for its intended use. We carefully protect your data from loss, misuse, unauthorized access or disclosure, alteration, or destruction. 
+IP Addresses
 
-Your personal information is never shared outside the company without your permission, except under conditions explained above. Inside the company, data is stored in password-controlled servers with limited access. Your information may be stored and processed in United States or any other country where SEO Group, Inc., its subsidiaries, affiliates or agents are located.
+IP addresses are used by your computer every time you are connected to the Internet. Your IP address is a number that is used by computers on the network to identify your computer. IP addresses are automatically collected by our web server as part of demographic and profile data known as traffic data so that data (such as the Web pages you request) can be sent to you.
 
-You also have a significant role in protecting your information. No one can see or edit your personal information without knowing your user name and password, so do not share these with others.
+Sharing and Selling Information
 
-## NOTICE TO PARENTS
+We do not share, sell, lend or lease any of the information that uniquely identify a subscriber (such as email addresses or personal details) with anyone except to the extent it is necessary to process transactions or provide services that you have requested.
 
-Parents or guardians: we want to help you guard your children's privacy. We encourage you to talk to your children about safe and responsible use of their Personal Information while using the Internet. 
+How Can You Access and Correct Your Information?
 
-The SEO Group, Inc. site does not publish content that is targeted to children. However, if you are concerned about your children providing SEO Group, Inc. any personal information without your consent, SEO Group, Inc. offers a Kids account. It allows parents to give parental consent for the collection, use and sharing of children’s (ages 12 and under) personal information online. 
+You may request access to all your personally identifiable information that we collect online and maintain in our database by emailing us at the usual address.
 
-ENFORCEMENT
+What About Legally Compelled Disclosure of Information?  
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. We may also disclose account information when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Terms of Service or to protect the safety of our users and the Public.
 
-If for some reason you believe SEO Group, Inc. has not adhered to these principles, please notify us by email at privacy@seopartner.com, and we will do our best to determine and correct the problem promptly. Be certain the words Privacy Policy are in the Subject line.
+What About Other Web Sites Linked to Our Web Site?  
+We are not responsible for the practices employed by Web sites linked to or from our Web site or the information or content contained therein. Often links to other Web sites are provided solely as pointers to information on topics that may be useful to the users of our Web site.
 
-## ELECTRONIC PRODUCT REGISTRATION
+Please remember that when you use a link to go from our Website to another web site, our Privacy Policy is no longer in effect. Your browsing and interaction on any other web site, including web sites, which have a link on our Website, is subject to that Web site's own rules and policies. Please read over those rules and policies before proceeding.
 
-When you buy and install a new product, we may ask you to register your purchase electronically. When you do, we merge your registration information with any information you've already left with us (we call that information your personal profile). If you haven't previously registered with us, we create a personal profile for you from your product registration information. If you ever want to review or update that information, you can visit the Profile Center, click on Update Profile, and edit any of the Personal Information in your profile. If you haven't already created a Registration ID, we will ask you to do so. This ensures that only you can access your information.
+Your Consent
 
-## CUSTOMER PROFILES
+By using our Web site you consent to our collection and use of your personal information as described in this Privacy Policy. We reserve the right to amend this privacy policy at any time with or without notice.
 
-As mentioned above, every registered customer has a unique personal profile. Each profile is assigned a unique personal identification number, which helps us ensure that only you can access your profile.
+Our Commitment To Data Security:
 
-When you register, we create your profile, assign a personal identification number, then send this personal identification number back to your hard drive in the form of a cookie, which is a very small bit of code. This code is uniquely yours. It is your passport to seamless travel across SEOPartner.com, allowing you to download free software, order free newsletters, and visit premium sites without having to fill out registration forms with information you've already provided. Even if you switch computers, you won't have to re-register – just use your Registration ID to identify yourself. 
+Please note that your information will be stored and processed on our computers in Australia and the United States. The laws on holding personal data in Australia an the United States may be less stringent than the laws of your Country of residence or citizenship. To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-**WHAT WE DO WITH THE INFORMATION YOU SHARE**
+Choice/Opt-In/Opt-Out
 
-When you join us, you provide us with your contact information, including your name and email address. We use this information to send you updates about your order, questionnaires to measure your satisfaction with our service and announcements about new and exciting services that we offer. When you order from us, we ask for your credit card number and billing address. We use this information only to bill you for the product(s) you order at that time. For your convenience, we do save billing information in case you want to order from us again, but we don't use this information again without your permission.
+This site allows visitors to unsubscribe so that they will not receive future messages. After unsubscribing we will discontinue sending the particular messages as soon as technically feasible.
 
-We occasionally hire other companies to provide limited services on our behalf, including packaging, mailing and delivering purchases, answering customer questions about products or services, sending postal mail and processing event registration. We will only provide those companies the information they need to deliver the service, and they are prohibited from using that information for any other purpose.
+Surveys & Contests
 
-SEO Group, Inc. will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on SEO Group, Inc. or the site; (b) protect and defend the rights or property of SEO Group, Inc. and its family of Websites, and, (c) act in urgent circumstances to protect the personal safety of users of SEO Group, Inc., its Websites, or the public.
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. Information requested may include contact information (such as name and shipping address), and demographic information (such as zip code, age level). Contact information will be used to notify the winners and award prizes. Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site.
+
+A Special Note About Children
+
+Children are not eligible to use our services unsupervised and we ask that children (under the age of 18) do not submit any personal information to us. If you are a minor, you can use this service only in conjunction with permission and guidance from your parents or guardians.
+
+Acquisition or Changes in Ownership
+
+In the event that the web site (or a substantial portion of its assets) is acquired, your information would be considered part of those assets, and may be part of those assets that are transferred.
+
+Policy Modifications
+
+We may change this Privacy Policy from time to time. If/when changes are made to this privacy policy, we will email users who have given us permission to do so. We will post any changes here, so be sure to check back periodically. However, please be assured that if the Privacy Policy changes in the future, we will not use the personal information you have submitted to us under this Privacy Policy in a manner that is materially inconsistent with this Privacy Policy, without your prior consent.
