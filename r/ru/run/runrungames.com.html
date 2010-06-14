@@ -1,651 +1,15 @@
-<!--The following is the downloaded HTML source of the runrungames.com privacy policy that was archived on 2009-12-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091213121323id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the runrungames.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614111342id_/http%3A//www.runrungames.com/index.php%3Faction%3Dprivacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8" <="">
-
-<meta name="description" content="Play free online games,puzzle games,action games,Physics Games,Games for girls,Simulation Games,Racing Games and more.">
-
-<meta name="keywords" content="free games,online games,puzzle games,Action games,Physics Games,Games for girls,Simulation Games,Racing Games"> 
-
-<title>Privacy - Play Free Online Games at Runrungames.com </title>
-
-
-<script type="text/javascript" src="http://www.runrungames.com/js/swfobject.js"></script>
-<script type="text/javascript" src="http://www.runrungames.com/js/rating_update.js"></script>	 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8" <=""><meta name="description" content="Play free online games,puzzle games,action games,Physics Games,Games for girls,Simulation Games,Racing Games and more."><meta name="keywords" content="free games,online games,puzzle games,Action games,Physics Games,Games for girls,Simulation Games,Racing Games"> <title>Privacy - Play Free Online Games at Runrungames.com </title><script type="text/javascript" src="http://www.runrungames.com/js/swfobject.js"></script>	 
 <script src="http://www.runrungames.com/templates/st_boygames_tpl/arcade.js" type="text/javascript"></script>
-<script type="text/javascript">
-
-var http_request = false;
-
-
-
-  function show_hint ( p_hint_text, p_span ) {
-
-    document.getElementById(p_span).innerHTML = p_hint_text ;
-
-  }
-
-	function getList(f, t)
-	{
-		makePOSTRequest("http://www.runrungames.com/getList.php", "f="+f + "&t=" + t, "alist");
-	}
-	function makeAJAX(url, method, parameters, onSuccess,onFailed)
-	{
-		http_request = false;
-
-   		if (window.XMLHttpRequest) { // Mozilla, Safari,...
-
-    		http_request = new XMLHttpRequest();
-
-   			if (http_request.overrideMimeType) {
-
-    			http_request.overrideMimeType('text/xml');
-
-    		}
-
-    	} else if (window.ActiveXObject) { // IE
-
-    		try {
-
-    			http_request = new ActiveXObject("Msxml2.XMLHTTP");
-
-    		} catch (e) {
-
-    			try {
-
-    				http_request = new ActiveXObject("Microsoft.XMLHTTP");
-
-    			} catch (e) {}
-
-    		}
-
-    	}
-
-    	if (!http_request) {
-
-    		alert('Cannot create XMLHTTP instance');
-
-    		return false;
-
-    	}
-
-  
-
-    	http_request.onreadystatechange = function() {
-			
-			//alert(http_request.readyState);
-    		if (http_request.readyState == 4) {
-
-    		if (http_request.status == 200) {
-				onSuccess(http_request.responseText);
-    //alert(http_request.responseText);
-
-    //result = http_request.responseText;
-//alert(result);
-    //document.getElementById(SpanName).innerHTML = result;
-
-    //document.getElementById('status').innerHTML = 'Ready'; 
-
-    	} else {
-
-    		alert('There was a problem with the request.');
-
-   		}
-
-    	}
-
-    };
-
-    	http_request.open(method, url, true);
-		
-			http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-
-    		http_request.setRequestHeader("Content-length", parameters.length);
-
-    		http_request.setRequestHeader("Connection", "close");
-
-    		http_request.send(parameters);
-		
-    	
-	}
-  function makePOSTRequest(url, parameters, SpanName) {
-
-    http_request = false;
-
-    if (window.XMLHttpRequest) { // Mozilla, Safari,...
-
-    http_request = new XMLHttpRequest();
-
-    if (http_request.overrideMimeType) {
-
-    http_request.overrideMimeType('text/xml');
-
-    }
-
-    } else if (window.ActiveXObject) { // IE
-
-    try {
-
-    http_request = new ActiveXObject("Msxml2.XMLHTTP");
-
-    } catch (e) {
-
-    try {
-
-    http_request = new ActiveXObject("Microsoft.XMLHTTP");
-
-    } catch (e) {}
-
-    }
-
-    }
-
-    if (!http_request) {
-
-    alert('Cannot create XMLHTTP instance');
-
-    return false;
-
-    }
-
-  
-
-    http_request.onreadystatechange = function() {
-
-    if (http_request.readyState == 4) {
-
-    if (http_request.status == 200) {
-
-    //alert(http_request.responseText);
-
-    result = http_request.responseText;
-//alert(result);
-	if($(SpanName))
-	{
-		$(SpanName).innerHTML = result;
-	}
-    //document.getElementById(SpanName).innerHTML = result;
-
-    //document.getElementById('status').innerHTML = 'Ready'; 
-
-    } else {
-
-    alert('There was a problem with the request.');
-
-    }
-
-    }
-
-    };
-
-    http_request.open('POST', url, true);
-    http_request.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
-
-    http_request.setRequestHeader("Content-length", parameters.length);
-
-    http_request.setRequestHeader("Connection", "close");
-
-    http_request.send(parameters);
-
-  }
-
-
-
-
-
-  function Contact(obj,SpanName,DivName) {
-
-    var curDateTime = new Date(); //For IE 
-
-    var SpanName = SpanName; 
-
-
-
-
-
-    if(DivName == 'tf'){
-
-    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
-
-  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
-
-  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
-
-  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
-
-  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
-
-  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
-
-    
-
-    //alert (SpanName); 
-
-    makePOSTRequest('http://www.runrungames.com/index.php?action=tellafriendajax', poststr, SpanName);
-
-    }    
-
-    if(DivName == 'tfv'){
-
-    var poststr = "sendersname=" + encodeURI( document.getElementById("sendersname").value ) +
-
-  	  				"&sendersemail=" + encodeURI( document.getElementById("sendersemail").value ) +
-
-  	  				"&friendsemail=" + encodeURI( document.getElementById("friendsemail").value ) +
-
-  	  				"&about=" + encodeURI( document.getElementById("about").value ) +
-
-  	  				"&gamename=" + encodeURI( document.getElementById("gamename").value ) +
-
-  	  				"&verifycode=" + encodeURI( document.getElementById("tafverifycode").value ) +
-
-  					  "&gameid=" + encodeURI( document.getElementById("gameid").value );
-
-    
-
-    //alert (SpanName); 
-
-    makePOSTRequest('http://www.runrungames.com/index.php?action=tellafriendajax', poststr, SpanName);
-
-    }    
-
-
-
-    if(DivName == 'cf'){
-
-    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
-
-  	  				"&id=" + encodeURI( document.getElementById("id").value );
-
-    
-
-    //alert (SpanName); 
-
-    makePOSTRequest('http://www.runrungames.com/index.php?action=addcommentajax', poststr, SpanName);
-
-    }
-
-    if(DivName == 'cfv'){
-
-    var poststr = "newcomment=" + encodeURI( document.getElementById("newcomment").value ) +
-
-  	  				"&id=" + encodeURI( document.getElementById("id").value ) +
-
-  					"&verifycode=" + encodeURI( document.getElementById("cverifycode").value );
-
-    
-
-    //alert (SpanName); 
-
-    makePOSTRequest('http://www.runrungames.com/index.php?action=addcommentajax', poststr, SpanName);
-
-    }
-
-   
-	if($(DivName))
-	{
-		$(DivName).style.display = 'none';
-	}
-   // document.getElementById(DivName).style.display = 'none';
-
-  } 
-  function rateGame(type, gameid)
-  {
-	  var successHandler = function(res)
-	{
-    	eval("response="+ res);
-		alert(response.msg);
-		if(response.code == "1")
-		{
-			//window.location.reload(true);
-            var data = $('ratedata').innerHTML;
-            data = data.split(",");
-            var t = parseInt(data[0]);
-            var d = parseInt(data[1]);
-            t ++;
-            if(type == "digg")
-            {
-            	d ++;
-            }
-            var dp = d / t;
-            var bp = 1 - dp;
-            var dh = dp * 60;
-            var bh = bp * 60;
-            $('diggShow').style.height = dh  + "px";
-            $('diggShow').style.marginTop = bh + "px";
-            $('buryShow').style.height = bh + "px";
-            $('buryShow').style.marginTop = dh + "px";
-            dp = Math.round(dp * 10000) / 100;
-            bp = Math.round(bp * 10000) / 100; 
-            $('diggInfo').innerHTML = dp + "%[" + d + "]";
-            $('buryInfo').innerHTML = bp + "%[" + (t-d) + "]";
-            $('ratedata').innerHTML = t + "," + d;
-		}
-	}
-	var parameter = "";
-	//alert("http://www.runrungames.com/index.php?action=rategame&gameid=" + gameid + "&type=" + type);
-	//return;
-	makeAJAX("http://www.runrungames.com/index.php?action=rategame&gameid=" + gameid + "&type=" + type, "GET", parameter, successHandler);
-  }
-  function showWarning(title, msg)
-  {
-	  var alertObj = $('alertForm');
-	  $('alertTitle').innerHTML = title;
-	  $('alertContent').innerHTML = msg;
-	  var pos = getClientWH();
-	  var w = parseInt(alertObj.style.width);
-	  var h = parseInt(alertObj.style.height);
-	  alertObj.style.left = (pos.w - w)/2 + "px";
-	  alertObj.style.top = ((pos.h - h) / 2 + pos.st) + "px";
-	  pmwin("open", null, 'alertForm');
-  }
-  function getClientWH()
-  {
-	  var clientWidth = document.body.clientWidth;
-	  var clientHeight = document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight;
-	  var scrollTop = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop;
-	  return {w:clientWidth, h:clientHeight, st:scrollTop};
-  }
-  function sendPrivateMsg(e,uid,uname)
-  {
-	  var cursorPos = is_ie ? [event.clientX, event.clientY] : [e.clientX, e.clientY];
-	  var sendMsgForm = $('sendMsg');
-	  var clientPos = getClientWH();
-	  sendMsgForm.style.top = (cursorPos[1] + clientPos.st - 20) + 'px';
-	  sendMsgForm.style.left = (cursorPos[0] + 50) + 'px';
-	  $('tousername').value = uname;
-	  sendMsgForm.style.display = 'block';
-  }
-  function closeSendMsg()
-{
-	$('sendMsg').style.display = "none";
-}
-function makeFriend(userid)
-{
-	//alert(e);
-	
-	var successHandler = function(res)
-	{
-		//alert(res);
-		eval("response=" + res);
-		//var response = 
-		//alert(response.status);
-		//alert(response.status == "1");
-		if(response.status == "1")
-		{
-			alert(response.msg);
-		}
-		else
-		{
-			showWarning("Error Ocurrened", response.msg);
-		}
-	}
-	var parameter = "";
-	makeAJAX("http://www.runrungames.com/index.php?action=friendrequest&userid=" + userid, "GET", parameter, successHandler);
-}
-	function addComment()
-	{
-		if($("newcomment").value == "")
-		{
-			alert("blank comment is not allowed!");
-			return;
-		}
-		var commentDIV = $('commentlist');
-		//commentDIV.innerHTML = "<div style=\"text-align:center;\"><img src=\"./templates/st_boygames_tpl/images3/loading.gif\" /></div>";
-		var poststr = "newcomment=" + encodeURI( $("newcomment").value ) +
-
-  	  				"&id=" + encodeURI( $("id").value );
-		var successHandler = function(res)
-		{
-			if(res == "<center><b>Unable To Add Comment</b></center>")
-			{
-				alert("Unable To Add Comment");
-			}
-			else
-			{
-				commentDIV.innerHTML = res + commentDIV.innerHTML;
-				$("newcomment").value = "";
-			}
-		}
-		makeAJAX('http://www.runrungames.com/index.php?action=addcommentajax', "POST", poststr, successHandler);
-		
-	}
-	function addFavorite(url, parameters)
-	{
-		var successHandler = function(res)
-		{
-			alert(res);
-		}
-		makeAJAX(url, "GET", parameters, successHandler);
-	}
-
-var hiddenobj = new Array();
-var pmwinposition = new Array();
-function $(id) {
-	return document.getElementById(id);
-}
-var IMGDIR = "./templates/st_boygames_tpl/images3";
-var lang = new Array();
-var userAgent = navigator.userAgent.toLowerCase();
-var is_opera = userAgent.indexOf('opera') != -1 && opera.version();
-var is_moz = (navigator.product == 'Gecko') && userAgent.substr(userAgent.indexOf('firefox') + 8, 3);
-var is_ie = (userAgent.indexOf('msie') != -1 && !is_opera) && userAgent.substr(userAgent.indexOf('msie') + 5, 3);
-function _attachEvent(obj, evt, func) {
-	if(obj.addEventListener) {
-		obj.addEventListener(evt, func, false);
-	} else if(obj.attachEvent) {
-		obj.attachEvent("on" + evt, func);
-	}
-}
-function doane(event) {
-	e = event ? event : window.event;
-	if(is_ie) {
-		e.returnValue = false;
-		e.cancelBubble = true;
-	} else if(e) {
-		e.stopPropagation();
-		e.preventDefault();
-	}
-}
-function pmwin(action, param, objid) {
-	if(!objid)
-	{
-		objid = 'pmlayer';
-	}
-	var objs = document.getElementsByTagName("OBJECT");
-	if(action == 'open') {
-		for(i = 0;i < objs.length; i ++) {
-			if(objs[i].style.visibility != 'hidden') {
-				objs[i].setAttribute("oldvisibility", objs[i].style.visibility);
-				objs[i].style.visibility = 'hidden';
-			}
-		}
-		var clientWidth = document.body.clientWidth;
-		var clientHeight = document.documentElement.clientHeight ? document.documentElement.clientHeight : document.body.clientHeight;
-		var scrollTop = document.body.scrollTop ? document.body.scrollTop : document.documentElement.scrollTop;
-		var pmwidth = 800;
-		var pmheight = clientHeight * 0.9;
-		if(!$(objid)) {
-			div = document.createElement('div');
-			div.id = 'pmlayer';
-			div.style.width = pmwidth + 'px';
-			div.style.height = pmheight + 'px';
-            
-			div.style.left = ((clientWidth - pmwidth) / 2) + 'px';
-			div.style.position = 'absolute';
-			div.style.zIndex = '999';
-			$('append_parent').appendChild(div);
-			//alert(objid);
-			$(objid).innerHTML = '<div style="width: 800px; background: #666666; margin: 5px auto; text-align: left">' +
-				'<div style="width: 800px; height: ' + pmheight + 'px; padding: 1px; background: #FFFFFF; border: 1px solid #7597B8; position: relative; left: -6px; top: -3px">' +
-				'<div onmouseover="pmwindrag(this)" style="cursor: move; position: relative; left: 0px; top: 0px; width: 800px; height: 30px; margin-bottom: -30px;"></div>' +
-				'<a href="###" onclick="pmwin(\'close\')"><img style="position: absolute; right: 20px; top: 15px" src="' + IMGDIR +'/close.gif" title="close" /></a>' +
-				'<div id="pmwinmask" style="margin-top: 30px; position: absolute; width: 100%; height: 100%; display: none"></div><iframe id="pmframe" name="pmframe" style="width:' + pmwidth + 'px;height:100%" allowTransparency="true" frameborder="0"></iframe></div></div>';
-		}
-		$(objid).style.display = '';
-		//$('pmlayer').style.top = ((clientHeight - pmheight) / 2 + scrollTop) + 'px';
-		//$(objid).style.top = ((clientHeight - pmheight) / 2 + 0) + 'px';
-		
-		if(objid =='pmlayer')
-		{$(objid).style.top = ((clientHeight - pmheight) / 2 + scrollTop) + 'px';
-			if(!param) {
-				pmframe.location = './templates/st_boygames_tpl/viewprofile.php';
-			} else {
-				pmframe.location = './templates/st_boygames_tpl/viewprofile.php?' + param;
-			}	
-		}
-		
-	} else if(action == 'close') {
-		for(i = 0;i < objs.length; i ++) {
-			if(objs[i].attributes['oldvisibility']) {
-				objs[i].style.visibility = objs[i].attributes['oldvisibility'].nodeValue;
-				objs[i].removeAttribute('oldvisibility');
-			}
-		}
-		hiddenobj = new Array();
-		$(objid).style.display = 'none';
-	}
-}
-
-function closeAlert()
-{
-	pmwin("close",null, 'alertForm');
-}
-var pmwindragstart = new Array();
-function pmwindrag(obj, objid, maskid) {
-	if(!objid)
-	{
-		objid = 'pmlayer';
-	}
-	if(!maskid)
-	{
-		maskid = 'pmwinmask';
-	}
-	obj.onmousedown = function(e) {
-		if(is_ie) {
-			document.body.onselectstart = function() {
-				return false;
-			}
-		}
-		pmwindragstart = is_ie ? [event.clientX, event.clientY] : [e.clientX, e.clientY];
-		pmwindragstart[2] = parseInt($(objid).style.left);
-		pmwindragstart[3] = parseInt($(objid).style.top);
-		if(maskid)
-		$(maskid).style.display = '';
-		doane(e);
-	}
-	_attachEvent(document.body, 'mousemove', function(e) {
-		if(pmwindragstart[0]) {
-			var pmwindragnow = is_ie ? [event.clientX, event.clientY] : [e.clientX, e.clientY];
-			with($(objid)) {
-				//alert($(objid).style.left);
-				style.left = (pmwindragstart[2] + pmwindragnow[0] - pmwindragstart[0]) + 'px';
-				style.top = (pmwindragstart[3] + pmwindragnow[1] - pmwindragstart[1]) + 'px';
-			}
-			doane(e);
-		}
-	});
-	obj.onmouseup = function(e) {
-		if(is_ie) {
-			document.body.onselectstart = function() {
-				return true;
-			}
-		}
-		pmwindragstart = [];
-		if(maskid)
-		$(maskid).style.display = 'none';
-		doane(e);
-	}
-	obj.onmouseover = null;
-}
-function checkAndSendMsg()
-{
-	$subject = $('messagesubject').value;
-	$to = $('tousername').value;
-	$msgbody = $('messagebody').value;
-	if($subject == "")
-	{
-		$subject = 'Untiled';
-	}
-	if($to == "")
-	{
-		alert("contact username can't be empty!");
-		return;
-	}
-	if($msgbody == "")
-	{
-		alert("You must input some words!");
-		return false;
-	}
-	var handlerSuccess = function(res)
-	{
-		eval("response=" + res);
-		if(response.code != 1)
-		{
-			showWarning("Send Message Failed", response.message);
-		}
-		else
-		{
-			pmwin('close',null,'sendMsg');
-			alert(response.message);
-		}
-	}
-	var parameters = "messagesubject=" + $subject
-					+ "&tousername=" + $to
-					+ "&messagebody="+$msgbody;
-	makeAJAX("http://www.runrungames.com/index.php?action=sendmessage","POST", parameters, handlerSuccess);
-}
-function showPic(e, num)
-{
-	if(window.event)
-	{
-		e = window.event;
-	}
-	var obj = $("img" + num);
-	obj.style.position = "absolute";
-	var clientPos = getClientWH();
-	obj.style.top = (e.clientY + clientPos.st - 30) + "px";
-	obj.style.left = (e.clientX + 20) + "px";
-	$("img" + num).style.display = "block";
-}
-function hidePic(num)
-{
-	$("img" + num).style.display = "none";
-}// JavaScript Document</script>
-
-
-<link rel="stylesheet" href="http://www.runrungames.com/templates/st_boygames_tpl/newstyle.css" media="all">
+<script type="text/javascript">var base_url = "http://www.runrungames.com/";</script>
+<script type="text/javascript" src="http://www.runrungames.com/templates/st_boygames_tpl/common.js"></script><link rel="stylesheet" href="http://www.runrungames.com/templates/st_boygames_tpl/sstyle.css" media="all">
 </head>
-
 <body vlink="#F7DB16" alink="#F7DB16" link="#F7DB16">
-<div id="alertForm" style="width:300px;position:absolute;z-index:1000;left:10px;top:10px; overflow:visible;display:none;height:100px;">
-	<div style="width: 100%; background: #666666; margin: 5px auto; text-align: left">
-		<div style="width: 100%; height: 100%; padding: 1px; background:#F00; border: 1px solid #7597B8; position: relative; left: -6px; top: -3px">
-        	<div onmouseover="pmwindrag(this,'alertForm', 'alertMask')" style="cursor: move; position: relative; left: 0px; top: 0px; width: 90%; height: 30px; margin-bottom: -30px;  border-bottom:solid 1px #999; font-size:20px;font-weight:bolder;" id="alertTitle">title</div>
-            <a href="###" onclick="pmwin('close',null,'alertForm')"><img style="position: absolute; right: 20px; top: 15px" src="./templates/st_boygames_tpl/images3/close.gif" title="close"></a>
-            <div id="alertMask" style="margin-top: 30px; position: absolute; width: 100%; height: 100%; display: none"></div>	
-            <div id="alertContent" style="margin: 40px 10px 10px 10px; position:relative; width: 90%; height: 100%; font-size:14px; color:#FFF">sdfffffffffffffwefwe sdfwewefwe </div>
-        </div>
-    </div>
-</div>
-<div id="sendMsg">
-    	<div id="msgmask"></div>
-		<div class="msgformTitle" onmouseover="pmwindrag(this,'sendMsg', 'msgmask')">Send Message</div><a href="###" onclick="pmwin('close',null,'sendMsg')"><img style="position: absolute; right: 20px; top: 15px" src="./templates/st_boygames_tpl/images3/close.gif" title="close"></a>
-		<div class="msgformitem"><span class="msgformlabel">Title:</span><span class="msgformCtrl"><input name="messagesubject" id="messagesubject" type="text" size="30"></span></div>
-		<div class="msgformitem"><span class="msgformlabel">Contact:</span><span class="msgformCtrl"><input name="tousername" id="tousername" type="text" size="30"></span></div>
-		<div class="msgformitem"><span class="msgformlabel">Content:</span><span class="msgformCtrl"><textarea rows="5" cols="25" name="messagebody" id="messagebody"></textarea></span></div>
-        <div class="msgformitem" style="text-align:center"><input type="button" value="Send" onclick="checkAndSendMsg();"></div>
-</div>
-<div id="append_parent"></div>
-<table border="0" align="center" cellpadding="0" cellspacing="0" class="bg">
-  <tbody><tr>
-    <td bgcolor="#FFFFFF"><table width="790" border="0" cellpadding="0" cellspacing="0">
-      <tbody><tr>
-        <td height="125" width="100%" colspan="2" background="http://www.runrungames.com/templates/st_boygames_tpl/images3/top-3.png">
-        <a id="logoClick" href="http://www.runrungames.com/" title="Runrungames.com"></a>
-        <div class="loginForm">
+<div id="alertForm" style="width:300px;position:absolute;z-index:1000;left:10px;top:10px; overflow:visible;display:none;height:100px;"><div style="width: 100%; background: #666666; margin: 5px auto; text-align: left"><div style="width: 100%; height: 100%; padding: 1px; background:#F00; border: 1px solid #7597B8; position: relative; left: -6px; top: -3px"><div onmouseover="pmwindrag(this,'alertForm', 'alertMask')" style="cursor: move; position: relative; left: 0px; top: 0px; width: 90%; height: 30px; margin-bottom: -30px;  border-bottom:solid 1px #999; font-size:20px;font-weight:bolder;" id="alertTitle">title</div><a href="###" onclick="pmwin('close',null,'alertForm')"><img style="position: absolute; right: 20px; top: 15px" src="http://www.runrungames.com/templates/st_boygames_tpl/images3/close.gif" title="close"></a><div id="alertMask" style="margin-top: 30px; position: absolute; width: 100%; height: 100%; display: none"></div><div id="alertContent" style="margin: 40px 10px 10px 10px; position:relative; width: 90%; height: 100%; font-size:14px; color:#FFF"></div></div></div></div>
+<div id="sendMsg" style="display:none"><div id="msgmask"></div><div class="msgformTitle" onmouseover="pmwindrag(this,'sendMsg', 'msgmask')">Send Message</div><a href="###" onclick="pmwin('close',null,'sendMsg')"><img style="position: absolute; right: 20px; top: 15px" src="http://www.runrungames.com/templates/st_boygames_tpl/images3/close.gif" title="close"></a><div class="msgformitem"><span class="msgformlabel">Title:</span><span class="msgformCtrl"><input name="messagesubject" id="messagesubject" type="text" size="30"></span></div><div class="msgformitem"><span class="msgformlabel">Contact:</span><span class="msgformCtrl"><input name="tousername" id="tousername" type="text" size="30"></span></div><div class="msgformitem"><span class="msgformlabel">Content:</span><span class="msgformCtrl"><textarea rows="5" cols="25" name="messagebody" id="messagebody"></textarea></span></div><div class="msgformitem" style="text-align:center"><input type="button" value="Send" onclick="checkAndSendMsg();"></div></div><div id="append_parent"></div>
+<table border="0" align="center" cellpadding="0" cellspacing="0" class="bg"><tbody><tr><td bgcolor="#FFFFFF"><table width="790" border="0" cellpadding="0" cellspacing="0"><tbody><tr><td height="125" width="100%" colspan="2" class="toplogo"><a id="logoClick" href="http://www.runrungames.com/" title="Runrungames.com"></a><div class="loginForm">
          <table width="100%" border="0" cellpadding="0" cellspacing="0">
     <tbody><tr>
 		<td class="defaultText">
@@ -676,34 +40,13 @@ function hidePic(num)
 
                   </tbody></table>
 
-</div><div class="clear"></div>
-        </td>
-      </tr>
-      <tr>
-        <td height="53" colspan="2" background="http://www.runrungames.com/templates/st_boygames_tpl/images3/top-2.png">&nbsp;</td>
-      </tr>
-      <!-- nav bar -->
-<tr>
-	<td colspan="2">
-    	<div id="navbarindex">
-        	<div id="navbarhead"></div>
-            <div id="navbarcontent">
-            	<div class="navbar-item"><div style="float:left;width:10px;">&nbsp;</div><div class="navbar-item-content"><a href="http://www.runrungames.com/">Home</a></div></div>
-                <div class="navbar-item"><div style="float:left;width:10px;">&nbsp;</div><div class="navbar-item-content">
-								<a href="http://www.runrungames.com/games-download/">Download Games</a></div></div>
-               
-            </div>
-            <div id="searchForm">
+</div><div class="clear"></div></td></tr><tr><td height="" align="center" colspan="2" bgcolor="#D3FF20"></td></tr><!-- nav bar --><tr><td colspan="2"><div id="navbarindex"><div id="navbarhead"></div><div id="navbarcontent"><div class="navbar-item"><div style="float:left;width:10px;">&nbsp;</div><div class="navbar-item-content"><a href="http://www.runrungames.com/">Home</a></div></div><div class="navbar-item"><div style="float:left;width:10px;">&nbsp;</div><div class="navbar-item-content">
+								<a href="http://www.runrungames.com/games-download/">Download Games</a></div></div></div> <div id="searchForm">
             	<form name="searchbox" method="post" action="http://www.runrungames.com/">
                 	<input type="text" name="q" size="15">
                     <input type="submit" name="Submit" value="search">
             	</form>	
-            </div>
-        </div>
-    </td>
-</tr>
-<tr>
-        <td height="5" colspan="2"></td>
+            </div></div> </td></tr><tr><td height="5" colspan="2"></td>
       </tr>
 <!-- end navbar -->
       <tr>
@@ -734,11 +77,7 @@ the advertisers. </p>
         </div>
     </div>
     </td>
-</tr>      <tr>
-        <td height="5" colspan="2"></td>
-      </tr>
-      <tr>
-        <td colspan="2">
+</tr>      <tr><td height="5" colspan="2"></td></tr> <tr><td colspan="2">
         <!-- game list -->
         
 <div id="full-game-list">
@@ -753,47 +92,47 @@ the advertisers. </p>
                 	<a href="http://www.runrungames.com/gameslist/others/#full-game-list" class="listnonal">#</a>
             	</div>
                 <div id="full-game-content">
-                <div class="full-game-item"><a href="http://www.runrungames.com/games26/bridgecraft.html" title="Bridgecraft">Bridgecraft</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games12/atv-extreme.html" title="ATV Extreme">ATV Extreme</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games19/brave-beauty-warriors.html" title="Brave Beauty Warriors">Brave Beauty W...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games20/creative-handbag-design.html" title="Creative Handbag Design">Creative Handb...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games24/avatar-fortress-fight-2.html" title="Avatar Fortress Fight 2">Avatar Fortres...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games28/crush-the-castle.html" title="Crush The Castle">Crush The Castle</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games29/crush-the-castle-players-pack.html" title="Crush The Castle Players Pack">Crush The Cast...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games35/civiballs.html" title="Civiballs">Civiballs</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games36/civiballs-2.html" title="Civiballs 2">Civiballs 2</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games37/dynamic-systems.html" title="Dynamic Systems">Dynamic Systems</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games40/diner-dash.html" title="Diner Dash">Diner Dash</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games45/dressup-rush.html" title="Dressup Rush">Dressup Rush</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games49/beauty-resort.html" title="Beauty Resort">Beauty Resort</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games51/coconut-safari.html" title="Coconut Safari">Coconut Safari</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games52/age-of-castle.html" title="Age of Castle">Age of Castle</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games60/dreams.html" title="Dreams">Dreams</a></div>                	<div class="clear"></div>
+                <div class="full-game-item"><a href="http://www.runrungames.com/games26/bridgecraft.html" title="Bridgecraft">Bridgecraft</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games12/atv-extreme.html" title="ATV Extreme">ATV Extreme</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games19/brave-beauty-warriors.html" title="Brave Beauty Warriors">Brave Beauty W...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games20/creative-handbag-design.html" title="Creative Handbag Design">Creative Handb...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games24/avatar-fortress-fight-2.html" title="Avatar Fortress Fight 2">Avatar Fortres...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games28/crush-the-castle.html" title="Crush The Castle">Crush The Castle</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games29/crush-the-castle-players-pack.html" title="Crush The Castle Players Pack">Crush The Cast...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games35/civiballs.html" title="Civiballs">Civiballs</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games36/civiballs-2.html" title="Civiballs 2">Civiballs 2</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games37/dynamic-systems.html" title="Dynamic Systems">Dynamic Systems</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games40/diner-dash.html" title="Diner Dash">Diner Dash</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games45/dressup-rush.html" title="Dressup Rush">Dressup Rush</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games49/beauty-resort.html" title="Beauty Resort">Beauty Resort</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games51/coconut-safari.html" title="Coconut Safari">Coconut Safari</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games52/age-of-castle.html" title="Age of Castle">Age of Castle</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games60/dreams.html" title="Dreams">Dreams</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games67/beauty-studio.html" title="Beauty Studio">Beauty Studio</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games68/cover-orange.html" title="Cover Orange">Cover Orange</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games69/christmas-travel-fashion.html" title="Christmas Travel Fashion">Christmas Trav...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games71/beauty-rush-3xmas-poster.html" title="Beauty Rush 3-Xmas Poster">Beauty Rush 3-...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games74/cutie-trend-xmas-party.html" title="Cutie Trend Xmas Party">Cutie Trend Xm...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games80/arcuz.html" title="Arcuz">Arcuz</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games90/blocks-blocks-2.html" title="Blocks Blocks 2">Blocks Blocks 2</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games97/britney-spears.html" title="BRITNEY SPEARS">BRITNEY SPEARS</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games100/bar-salvation.html" title="Bar Salvation">Bar Salvation</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games101/beijing-opera-masks.html" title="Beijing Opera Masks">Beijing Opera ...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games104/cover-orange-2.html" title="Cover Orange 2">Cover Orange 2</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games106/busy-sushi-bar.html" title="Busy Sushi Bar">Busy Sushi Bar</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games109/bomb-escape.html" title="Bomb Escape">Bomb Escape</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games114/cake-making-line.html" title="Cake Making Line">Cake Making Line</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games115/blackjack-prison-break.html" title="Blackjack - Prison Break">Blackjack - Pr...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games116/chase-cherry-mio.html" title="Chase Cherry Mio">Chase Cherry Mio</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games125/cook-with-bobby.html" title="Cook With Bobby">Cook With Bobby</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games129/arbor-day-fashion.html" title="Arbor Day Fashion">Arbor Day Fash...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games130/cute-puppy-dress-up.html" title="Cute Puppy Dress Up">Cute Puppy Dre...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games133/champion-cheering-squad.html" title="Champion Cheering Squad">Champion Cheer...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games134/dogs.html" title="Dogs">Dogs</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games138/doras-magical-garden.html" title="Doras Magical Garden">Doras Magical ...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games142/beauty-rush-spot-the-difference.html" title="Beauty Rush - Spot The Difference">Beauty Rush - ...</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games144/chicken-mission.html" title="Chicken Mission">Chicken Mission</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games148/candy-slider.html" title="Candy Slider">Candy Slider</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games149/bricks-puzzle.html" title="Bricks Puzzle">Bricks Puzzle</a></div><div class="full-game-item"><a href="http://www.runrungames.com/games150/cutie-trend-suzie-the-party-queen.html" title="Cutie Trend - Suzie the Party Queen">Cutie Trend - ...</a></div>                	<div class="clear"></div>
                 </div>
             </div>
         	
-        </div>        
-        </td>
-      </tr>
-      <tr>
-        <td height="5" colspan="2"></td>
-      </tr>
-      <tr>
-        <!-- <td colspan="2" background="http://www.runrungames.com/templates/st_boygames_tpl/images3/b.png" width="790"></td> -->
-        <td colspan="2" align="center">
-        <div class="site_foot">
-        	<div class="site_link">
-            	<a href="http://www.runrungames.com/index.php?action=privacy">Privacy</a> - 
-        		<a href="http://www.runrungames.com/index.php?action=contactus">Contact us</a> -
-				<a href="http://www.runrungames.com/index.php?action=rss">Our RSS</a>
-<!-- 
-<a href="http://192.168.1.3/pv4/rss.php?type=newest_content&amp;limit=15" title="Click to see the Newest Content RSS Feed"><img src="http://192.168.1.3/pv4/images/newest-content-rss.jpg" border="0" alt="Click to see the Newest Content RSS Feed"></a>-
-<a href="http://192.168.1.3/pv4/rss.php?type=most_popular&amp;limit=15" title="Click to see the Most Popular Content RSS Feed"><img src="http://192.168.1.3/pv4/images/most-popular-rss.jpg" border="0" alt="Click to see the Most Popular Content RSS Feed"></a>-
-<a href="http://192.168.1.3/pv4/rss.php?type=random_content&amp;limit=15" title="Click to see the Random Content RSS Feed"><img src="http://192.168.1.3/pv4/images/random-content-rss.jpg" border="0" alt="Click to see the Random Content RSS Feed"></a>  - 
-<a href="http://192.168.1.3/pv4/index.php?action=rss" title="Click to see the More RSS Feeds"><img src="http://192.168.1.3/pv4/images/more-feeds-rss.jpg" border="0" alt="Click to see more RSS Feeds"></a>   
- -->
-
-            </div>
-        	<div class="site_copyright">©runrungames.com 2009. All rights reserved.</div>
-        </div>
-        <script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('7mke84vas3ky')</script>
-        </td>
-      </tr>
-    </tbody></table></td>
-  </tr>
-</tbody></table>
-
-
-
-
-
-
-
-
+        </div></td></tr><tr> <td height="5" colspan="2"></td></tr><tr>
+        <td colspan="2">
+        <!-- game list -->
+         <div id="myfs">
+	<div class="myfs-t">My Friends</div>
+    <div class="myfs-c">
+	    <div class="mfitem"><a href="http://www.gamesfree.ca" target="_blank" title="fun games">Games Free</a></div>
+    	<div class="mfitem"><a href="http://www.bubblebox.com/" target="_blank" title="free online games">Online Games</a></div>
+		<div class="mfitem"><a href="http://www.thespidermangames.com" target="_blank" title="spiderman games">Spiderman Games</a></div>
+		<div class="mfitem"><a href="http://www.smileygamer.com" target="_blank" title="fun games">Free Games</a></div>
+		<div class="mfitem"><a href="http://www.youplaytime.com" target="_blank" title="Parking Games">Play Free Games </a></div>
+		<div class="mfitem"><a href="http://www.gamebusted.com" target="_blank" title="Parking Games">Gamebusted</a></div>
+		<div class="mfitem"><a href="http://www.myfootballgames.co.uk" target="_blank" title="fun games">Soccer Games</a></div>
+		<div class="mfitem"><a href="http://www.mariogames1.com/" target="_blank" title="Mario Games">Mario Games</a></div>
+		<div class="mfitem"><a href="http://www.gamersenterprise.com/" target="_blank" title="free games">Free Games</a></div>
+		<div class="mfitem"><a href="http://www.freepuzzlegames.biz/" target="_blank" title="Puzzle Games">Puzzle Games</a></div>
+		<div class="mfitem"><a href="http://www.Dailymariogames.com/" target="_blank" title="Mario Games">Mario Games</a></div>
+		<div class="mfitem"><a href="http://www.fogclip.com" target="_blank" title="Fogclip Games">Fogclip Games</a></div>
+		<div class="mfitem"><a href="http://www.OnlineHelicopterGame.com" target="_blank" title="Helicopter Game">Helicopter Game</a></div>
+		<div class="mfitem"><a href="http://www.topmakeovergames.com/" target="_blank" title="Dress Up Games">Dress Up Games</a></div>
+		<div class="mfitem"><a href="http://www.wargamesonline.biz/" target="_blank" title="War Games">War Games</a></div>
+		<div class="mfitem"><a href="http://www.ornigo.com/" target="_blank" title="Free Flash Games">Free Flash Games</a></div>
+		<div class="mfitem"><a href="http://turbocargames.com/" target="_blank" title="Car Games">Car Games</a></div>
+		<div class="mfitem"><a href="http://www.freecookinggames.net/" target="_blank" title="cooking games">Cooking Games</a></div>
+		<div class="mfitem"><a href="http://www.share-games.com/" target="_blank" title="Download Games">Download Games</a></div>
+		<div class="mfitem"><a href="http://www.girlgamesplaza.com/" target="_blank" title="Girl Games">Girl Games</a></div>
+		<div class="mfitem"><a href="http://www.cargames60.com/" target="_blank" title="Car Games">Car Games</a></div>
+		<div class="mfitem"><a href="http://www.smileygamer.com/" target="_blank" title="Free Bejeweled games">Free Bejeweled games</a></div>
+	    <div class="mfitem"><a href="http://www.horse-games.org/" target="_blank" title="Horse Games">Horse Games</a></div>
+        <div class="mfitem"><a href="http://www.runrungames.com/index.php?action=contactus" target="_blank" title="Horse Games">Your link here</a></div>
+		 
+		       <div class="clear"></div>
+    </div>
+    <div class="myfs-b"></div>
+</div>         </td></tr><tr> <td height="5" colspan="2"></td> </tr><tr> <td colspan="2" align="center">
+        <div class="site_foot"><div class="site_link"><a href="http://www.runrungames.com/index.php?action=privacy">Privacy</a> - <a href="http://www.runrungames.com/index.php?action=contactus">Contact us</a> - <a href="http://www.runrungames.com/index.php?action=rss">Our RSS</a></div><div><a href="http://www.popgals.com/" target="_blank">Games For Girls</a>&nbsp;&nbsp;<a href="http://www.igirlsgames.com/" target="_blank">Girls Games</a> &nbsp;&nbsp;
+ <a href="http://www.hotgamesforgirls.com/" target="_blank">Games For Girls</a> &nbsp;&nbsp;</div><div class="site_copyright">©runrungames.com 2009. All rights reserved.</div></div>
+		<script type="text/javascript" src="http://widgets.amung.us/classic.js"></script><script type="text/javascript">WAU_classic('9g7p16l5yj74')</script></td></tr></tbody></table></td></tr></tbody></table>
 
 </body></html>
