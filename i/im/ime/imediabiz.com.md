@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2009-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090428130012id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imediabiz.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614214013id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/privacy_policy.php) for the most accurate reproduction.*
 
 # Hosting Australia - Cheap Web Hosting, Dedicated Server, Domain Name, and SSL Certificate :: Privacy Policy
 
@@ -11,7 +11,7 @@
 "Good services and very good customer support, thank you." **\- Keniten,IB -**  
 
 |   
-|  |    [Home](https://web.archive.org/web/20090428130012id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/ "Go to Home") » Privacy Policy  
+|  |    [Home](https://web.archive.org/web/20100614214013id_/http%3A//www.imediabiz.com/web-hosting-australia-indonesia/cheap-web-hosting/cheap-domain-name/ "Go to Home") » Privacy Policy  
 ---  
 | **Our Basic Privacy Policy**  
 ---  
