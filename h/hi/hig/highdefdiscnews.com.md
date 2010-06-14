@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highdefdiscnews.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214181241id_/http%3A//www.highdefdiscnews.com/%3Fpage_id%3D15511) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highdefdiscnews.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615001152id_/http%3A//www.highdefdiscnews.com/%3Fpage_id%3D15511) for the most accurate reproduction.*
 
 # Privacy | HighDefDiscNews
 
