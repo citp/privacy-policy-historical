@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014035439id_/http%3A//www.ubmasia.com/PrivacyPolicyStatement/tabid/119/language/en-US/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ubmasia.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614062619id_/http%3A//www.ubmasia.com/PrivacyPolicyStatement/tabid/119/language/en-US/Default.aspx) for the most accurate reproduction.*
 
 # UBM Asia > Privacy Policy Statement
 
