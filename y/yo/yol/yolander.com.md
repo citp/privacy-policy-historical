@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yolander.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213120007id_/http%3A//www.ezoi.net/privacy/%3Fd%3DYolander.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yolander.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614065652id_/http%3A//www.ezoi.net/privacy/%3Fd%3DYolander.com) for the most accurate reproduction.*
 
 # The eZOI Network Is Web sites and Domain Names » Privacy
 
