@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215032033id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplyswim.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614204042id_/http%3A//www.simplyswim.com/docs/Privacy.aspx) for the most accurate reproduction.*
 
 # Simply Swim - Privacy
 
 | 
-
-You are in: [Home](https://web.archive.org/) > [Help](https://web.archive.org/docs/CustomerServices.aspx) > Privacy Policy
 
 |  Simply Scuba Limited (Company Number 3053307) ("Simply Scuba, we or us") is committed to ensuring that your privacy is protected. This privacy policy explains how we use the information we collect about you, how you can instruct us if you prefer to limit the use of that information and procedures that we have in place to safeguard your privacy. We are notified under the Data Protection Act 1998 and ensure we comply with all protection the Act affords to you.  
   
@@ -22,7 +20,7 @@ You are in: [Home](https://web.archive.org/) > [Help](https://web.archive.org/do
   
 ##  Our use of cookies
 
-1  |  We use �cookies� on our websites to enhance your visit. This site relies on cookies being enabled to store criteria between pages. The only information stored within the cookie is an encrypted non personal identifier that is used to allow this. The cookie will be deleted automatically when you leave the site. These �cookies� are not used to store or gather any personal information about you or your activities.   
+1  |  We use "cookies" on our websites to enhance your visit. This site relies on cookies being enabled to store criteria between pages. The only information stored within the cookie is an encrypted non personal identifier that is used to allow this. The cookie will be deleted automatically when you leave the site. These "cookies" are not used to store or gather any personal information about you or your activities.   
 ---|---  
   
 ##  How we protect your information
@@ -51,7 +49,7 @@ You are in: [Home](https://web.archive.org/) > [Help](https://web.archive.org/do
 ---|---  
 2  |  Owing to the global nature of the Internet infrastructure, the information you provide may be transferred in transit to countries outside the European Economic Area that do not have similar protections in place regarding your data and its use as set out in this policy. However, we have taken the steps outlined above to try to improve the security of your information. By submitting your information you consent to these transfers.   
   
-##  How to contact Simply Swim
+##  How to contact Simply Scuba
 
 1  |  We welcome your views about our website and our privacy policy. If you would like to contact us with any queries or comments please send an e-mail to [customer.services@simplyscuba.com](mailto:customer.services@simplyscuba.com) or from the UK call us on 0844 567 7070 or internationally on +44 1227 282808.   
 ---|---  
