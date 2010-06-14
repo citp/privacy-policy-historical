@@ -1,68 +1,88 @@
-<!--The following is the downloaded HTML source of the acuvue.com privacy policy that was archived on 2009-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090420104235id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the acuvue.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-
 <link rel="stylesheet" href="/css/acuvue-global-styles.css" type="text/css">
 <link rel="stylesheet" href="/css/app_window.css" type="text/css">
 <link rel="stylesheet" href="/css/tout-styles.css" type="text/css">
-
-<script language="JavaScript" type="text/javascript" src="/js/swfobject.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/quicklinks-functions.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/app-functions.js"></script>
-<script language="JavaScript" type="text/javascript" src="/js/dcs1.js"></script>
-<script language="javascript" type="text/javascript">
+<link rel="stylesheet" href="/css/scrollpane.css" media="screen" type="text/css">
+<link rel="stylesheet" href="/css/main-navigation.css" media="screen" type="text/css">
+<link rel="stylesheet" href="/css/share-flyout.css" media="screen" type="text/css">
+<link rel="stylesheet" href="/css/flash-detection.css" media="screen" type="text/css">
+<script type="text/javascript" src="/js/swfobject.js"></script>
+<script type="text/javascript" src="/js/swfobject-2.2.js"></script>
+<script type="text/javascript" src="/js/quicklinks-functions.js"></script>
+<script type="text/javascript" src="/js/app-functions.js"></script>
+<script type="text/javascript" src="/js/dcs1.js"></script>
+<script type="text/javascript" src="/js/jquery-1.3.2.min.js"></script>
+<script type="text/javascript" src="/js/main-navigation.js"></script>
+<script type="text/javascript" src="/js/share-flyout.js"></script>
+<script type="text/javascript">
 <!--//
-function trackAssist(title){
-	//AUTOMATICALLY inserts the current page into the tracking script when called
-	//This was done to accomodate SSI's such as touts so that they could still be globally used
-	//USEAGE: <a href="path/to/page.html" onClick="trackAssist('/your/custom/title/');">LINK</a>
-	//alert("Tracking: "+location.href+", "+title); //FOR TESTING
-	dcsMultiTrack('DCS.dcsuri',location.href,'WT.ti',title);
-}
+	function trackAssist(title){
+		//AUTOMATICALLY inserts the current page into the tracking script when called
+		//This was done to accomodate SSI's such as touts so that they could still be globally used
+		//USEAGE: <a href="path/to/page.html" onClick="trackAssist('/your/custom/title/');">LINK</a>
+		//alert("Tracking: "+location.href+", "+title); //FOR TESTING
+		dcsMultiTrack('DCS.dcsuri',location.href,'WT.ti',title);
+	}
+	
+	<!--// Function for DCS TRACKING -->
+	function trackIt(currPage, customTitle){
+		dcsMultiTrack('DCS.dcsuri',currPage,'WT.ti',customTitle);
+	}
+	
+	function searchFunction(searchterm){
+		//alert("you searched for "+searchterm);
+		var curEnvironment = window.location.href;
+		location.href = curEnvironment.substr( curEnvironment.indexOf('htt'), curEnvironment.indexOf('//')+2 )+window.location.host+"/search/search?q="+searchterm+"&site=acuvuedotcom&proxystylesheet=acuvuedotcom&btnG=&entqr=0&proxycustom=&output=xml_no_dtd&sort=date:D:L:d1&client=default_frontend";
+	}
 //-->
-
-<!--// Function for DCS TRACKING -->
-<!--//
-function trackIt(currPage, customTitle){
-	dcsMultiTrack('DCS.dcsuri',currPage,'WT.ti',customTitle);
-}
-//-->
-
 </script>
-
-
+<!--// BELOW IS NEW FUNCTIONALITY, ADDED BY TODD M. OF VISTAKON IT //-->
+<!--// TO DETERMINE SERVER PATH FOR APP-FUNCTIONS //-->
+<script type="text/javascript" src="/js/serverPath.js"></script>
+<!--// BELOW IS NEW FUNCTIONALITY FOR GOOGLE SEARCH, ADDED BY TODD M. OF VISTAKON IT //-->
+<script type="text/javascript" src="/js/jquery.tools.min.js"></script>
 <title>ACUVUE® - Privacy Policy</title>
-
 <meta name="description" content="ACUVUE® is the leading provider of prescription contact lenses, including contacts that change or enhance your eye color. Get a Free Trial Pair Certificate at Acuvue.com">
-
+<script type="text/javascript">
+	/*
+	* 0 based index of which main item and sub item are selected in the left navigation
+	* Using null or an empty string in main will result in no selection for main or sub.
+	* Using null or an empty string in sub will result in no selection for sub, but a main selection can still be used
+	*/
+	_ActiveNavItem = {
+		mainIndex: null,
+		subIndex: null
+	}
+</script>
+<!--// PLEASE SPEC THE PAGE HEADER USING THE INLINE STYLE BELOW //-->
 <style type="text/css">
-#header{
+#header {
 	background:url("images/product-footer-header.jpg") top left no-repeat;
 	margin:0;
 	padding:0;
 	height: 185px !important;
 }
-td#content{
+td#content {
 	background:url("images/product-footer-header.jpg") top left no-repeat;
 	margin: 0;
 	padding-top: 10px;
 }
-div#main-content{
+div#main-content {
 	width: 700px;
 	padding: 0;
 	padding-top: 20px;
 }
-div#main-content h3#first-title-footer{
+div#main-content h3#first-title-footer {
 	margin-top: 15px;
-	*padding-top: 15px;
+ *padding-top: 15px;
 	_padding-top: 15px;
 }
 </style>
-</head>
-
+<style type="text/css" media="screen">#ql {visibility:hidden}#rg {visibility:hidden}#top-nav {visibility:hidden}</style></head>
 <body onresize="reposition();">
 <!--// BOF hidden DIV for FTC app //-->
 <!--// PLEASE LEAVE THESE IN PLACE FOR APP INTEGRATION //-->
@@ -70,329 +90,684 @@ div#main-content h3#first-title-footer{
 <div id="surround"></div>
 <div id="app"></div>
 <!--// EOF hidden DIVs for FTP //-->
-
 <table id="FRAME" cellpadding="0" cellspacing="0">
-	<tbody><tr>
-    <td rowspan="2" id="left-nav">
-    
-        <div id="left-nav-swf">
-        	Please ensure that you have the flash Player installed and Javascript enabled.
-        </div>
-		<script type="text/javascript">
-            // <![CDATA[
-            
-            var so = new SWFObject("swf/left.swf", "left navigation", "162", "574", "9", "#FFFFFF");
-		  	so.addParam("wmode", "transparent");
-			so.addVariable("xmlpath","xml/left.xml");
-			//# of the header to turn on, start with 0
-			//to turn on a subheader, make sure its correspoding header is on too
-			so.addVariable("onHeader","");
-			so.addVariable("onSubheader","");
-			//SubNav headers should be left blank if the main Headers are on, and vice versa
-			so.addVariable("onSubNavHeader","");
-			so.addVariable("onSubNavSubheader","");
-			//change the image for the bottom tout.
-			//if left blank, image will default to the path defined in xml
-			so.addVariable("toutImage","");
-			so.write("left-nav-swf");
-            
-            // ]]>
-			
-        </script>
-        
- 	</td>
-    </tr>
-    
-    
-	<tr>
-    <td id="content">
-    	
-            	<div id="ql"></div>
-                
+  <tbody><tr>
+    <td rowspan="2" id="left-nav"><div id="leftNavigation">
+  <div class="left-nav-content">
+    <div id="main-logo"><a href="/" id="navHome"><img src="/images/leftnav/logo_acuvue.gif" alt="Acuvue® Brand Contact Lenses - SEE WHAT COULD BE™" title="Acuvue® Brand Contact Lenses - SEE WHAT COULD BE™"></a></div>
+    <ul class="first-level">
+      <!-- The id's on the li elements are mainly for tracking purposes -->
+      <li class="acc-wrapper main-nav-item" id="navThinking"><a href="#" class="acc-trigger">THINKING</a>
+        <ul class="second-level acc-content">
+          <li class="has-sub" id="navWhyTry">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navLookYourBest"><a href="/thinking-why-try.htm#Look_your_best">Look your best</a></li>
+                  <li id="navPerformYourBest"><a href="/thinking-why-try.htm#Perform_your_best">Perform your best</a></li>
+                  <li id="navClearVisionAnyAge"><a href="/thinking-why-try.htm#Clear_vision_at_any_age">Clear vision at any age</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/thinking-why-try.htm">Why try contacts?</a></li>
+          <li class="has-sub" id="navMyths">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navFactVsFiction"><a href="/thinking-myths-facts.htm">Fact vs. Fiction</a></li>
+                  <li id="navFAQ"><a href="/thinking-myths-faq.htm">FAQs</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/thinking-myths-main.htm">Myths, fears &amp; facts</a></li>
+          <li class="has-sub" id="navWhoCanWear">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <!--
+                    <li class="has-sub" id="navTestYourEyesight">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navAstigmatism"><a href="/thinking-whocanwear-test.htm">The Astigmatism Test</a></li>
+                                    <li id="navSnellen"><a href="/thinking-whocanwear-snellen.htm">The Snellen Test</a></li>
+                                    <li id="navNearVision"><a href="/thinking-whocanwear-prevent.htm">The Near Vision Test</a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="/thinking-whocanwear-test.htm">Test your eyesight</a>
+                    </li>
+                    <li id="navTalkToParents"><a href="/thinking-whocanwear-parents.htm">Talking to your parents</a></li>
+                    <li id="navKidsandContacts" class="has-sub">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navChildReady"><a href="/thinking-whocanwear-child.htm">Is my child ready?</a></li>
+                                    <li id="navWhatToAskDoctor"><a href="/thinking-whocanwear-ask.htm">What to ask the eye doctor</a></li>
+                                </ul>	
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="/thinking-whocanwear-child.htm">Kids and contacts</a>
+                    </li>
+                    -->
+                  <li id="navJustForTeens"><a href="/thinking-teens.htm">Just for teens</a></li>
+                  <li id="navContactsForChild"><a href="/thinking-child.htm">Contacts for your child</a></li>
+                  <li id="navContactsForAdults"><a href="/adult-astig.htm">Contacts and adults</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/thinking-whocanwear.htm">Who can wear contacts?</a></li>
+          <li class="has-sub" id="navWhyAskForAcuvue">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navComfortHealth"><a href="/thinking-why-ask-comfort-convenience.htm">Comfort, health, affordability &amp; convenience</a></li>
+                  <li id="navInnovTechnology">
+			        <!-- <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navUniqueMaterial"><a href="/technologies-home.htm#UNIQUE_LENS_MATERIALS">Unique Lens Materials</a></li>
+                          <li id="navMoistureComfort"><a href="/technologies-home.htm#MOISTURE_AND_COMFORT">Moisture &amp; Comfort</a></li>
+                          <li id="navAdvancedLens"><a href="/technologies-home.htm#ADVANCED_LENS_DESIGN">Advanced Lens Design</a></li>
+                          <li id="navUVProtection"><a href="/technologies-home.htm#UV_PROTECTION">UV Protection</a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div> -->
+                    <a href="/technologies-home.htm">Innovative Technologies</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/thinking-why-ask.htm">Why ask for ACUVUE<span class="super">®</span>?</a></li>
+        </ul>
+      </li>
+      <li class="acc-wrapper main-nav-item" id="navBuying"><a href="#" class="acc-trigger">BUYING</a>
+        <ul class="second-level acc-content">
+          <li class="has-sub" id="navGetStarted">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navGetLenses"><a href="/buying-get-contacts.htm">Get your ACUVUE<span class="super">®</span> Brand<br>
+                    Contact Lenses</a></li>
+                  <li id="navTalkToEyeDoctor"><a href="/buying-talk-to-eye-doctor.htm">Talk to your eye doctor</a></li>
+                  <!--
+                    <li id="navTalkToParents"><a href="/buying-talk-to-parents.htm">Talk to your parents</a></li>
+                    <li id="navTalkToKids"><a href="/buying-talk-to-kids.htm">Talk to your kids</a></li>
+                    -->
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="buying-getting-started.htm">Getting started</a></li>
+          <li id="navLensAdvisor"><a href="javascript:buildLensAdvisorApp();">Lens Advisor</a></li>
+          <li id="navFindDoctor"><a href="/buying-home.htm">Find an eye doctor</a></li>
+          <li class="has-sub" id="navCostInsurance">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navAcuvueDirect"><a href="/acuvue-direct.htm">ACUVUE<span class="super">®</span> DIRECT<span class="super">™</span></a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/buying-cost-insurance.htm">Cost &amp; Insurance</a></li>
+          <li id="navGetRebateOffer">
+            <!--
+			<div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navGetRebateOffer"><a href="/pdf/MoneyBackGuar.pdf" target="_blank">Money Back Guarantee (pdf)</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+			-->
+            <a href="/buying-rebates.htm">Get your rebate</a></li>
+        </ul>
+      </li>
+      <li class="acc-wrapper main-nav-item" id="navWearing"><a href="#" class="acc-trigger">WEARING</a>
+        <ul class="second-level acc-content">
+          <li id="navOptimize"><a href="/wearing-optimize-vision.htm">Optimize your vision</a></li>
+          <li class="has-sub" id="navEyeHealth">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navChangingVisionNeeds"><a href="/wearing-eye-health-comfort.htm">Changing vision needs</a></li>
+                  <li id="navDryness"><a href="/wearing-eye-health-redness.htm">Help for red eyes and dryness</a></li>
+                  <!--
+                    <li class="has-sub" id="navEyeHealthComfort">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navChangingVisionNeeds"><a href="/wearing-eye-health-comfort.htm">Changing vision needs</a></li>
+                                    <li id="navDryness"><a href="/wearing-eye-health-redness.htm">Help for red eyes and dryness</a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>	
+                        </div>
+                        <a href="/wearing-eye-health-comfort.htm">Eye Health and Comfort</a>
+                    </li>
+                    -->
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/wearing-eye-health-comfort.htm">Eye health &amp; comfort</a></li>
+          <li class="has-sub" id="navWearandCare">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navCaringForLenses"><a href="/wearing-tips-lens-care.htm">Caring for your lenses</a></li>
+                  <li id="navApplyRemoveLens"><a href="/wearing-apply-remove.htm">Applying &amp; removing lenses</a></li>
+                  <li id="navMakeupTips"><a href="/wearing-tips-makeup.htm">Makeup tips</a></li>
+                  <li id="navTravelTips"><a href="/wearing-tips-travel.htm">Travel tips</a></li>
+                  <li id="navPatientGuide"><a href="/wearing-tips-guides.htm">Patient instruction guides</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/wearing-tips-lens-care.htm">Lens wearing &amp; care</a></li>
+          <li id="navAcuminder"><a href="https://www.acuvue.com/acuminder.htm">ACUMINDER<span class="super">™</span></a></li>
+        </ul>
+      </li>
+      <li class="acc-wrapper main-nav-item" id="navProducts"><a href="#" class="acc-trigger">PRODUCTS</a>
+        <ul class="second-level acc-content">
+          <li class="has-sub" id="navOverview">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <!--
+                    <li class="has-sub" id="navOasysBrand">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navWithHydraclear"><a href="/products-acuvue-oasys.htm?ProdId=3">ACUVUE<span class="super">&#174;</span> OASYS<span class="super">&#174;</span> <em>with HYDRACLEAR</em><span class="super">&#174;</span> <em>Plus</em></a></li>
+                                    <li id="navForAstigmatism"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4">ACUVUE<span class="super">&#174;</span> OASYS<span class="super">&#174;</span> <em>for ASTIGMATISM</em></a></li>
+                                    <li id="navForPresbiopia"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5">ACUVUE<span class="super">&#174;</span> OASYS<span class="super">&#174;</span> <em>for PRESBYOPIA</em></a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="#">ACUVUE<span class="super">&#174;</span> OASYS<span class="super">&#174;</span> Brand Family</a>
+                    </li>
+                    -->
+                  <li class="has-sub" id="navOasysBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navHydraclearLensDetails"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=2">Lens details</a></li>
+                          <li id="navHydraclearChartsGraphs"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navHydraclearAskAcuvue"><a href="/products-acuvue-oasys.htm?ProdId=3&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-oasys.htm?ProdId=3">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> with HYDRACLEAR<span class="super">®</span> <em>Plus</em></a></li>
+                  <li class="has-sub" id="navOasysBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navForAstigmatismLensDetails"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=2">Lens details</a></li>
+                          <li id="navForAstigmatismChartsGraphs"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navForAstigmatismAskAcuvue"><a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-oasys-for-astigmatism.htm?ProdId=4">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
+                  <li class="has-sub" id="navOasysBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navPresbyopiaLensDetails"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=2">Lens details</a></li>
+                          <li id="navPresbyopiaChartsGraphs"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navPresbyopiaAskAcuvue"><a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-oasys-for-presbyopia.htm?ProdId=5">ACUVUE<span class="super">®</span> OASYS<span class="super">®</span> <em>for PRESBYOPIA</em></a></li>
+                  <!--
+                    <li class="has-sub" id="nav1DayBrand">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navMoist"><a href="/products-acuvue-1day-moist.htm?ProdId=0"><em>1&#8226;DAY</em> ACUVUE<span class="super">&#174;</span> <em>MOIST</em><span class="super">&#174;</span></a></li>
+                                    <li id="nav1Day"><a href="/products-1day-acuvue.htm"><em>1&#8226;DAY</em> ACUVUE<span class="super">&#174;</span></a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="#"><em>1&#8226;DAY</em> ACUVUE<span class="super">&#174;</span> Brand<br />
+                        Family</a>
+                    </li>
+                    -->
+                  <li class="has-sub" id="nav1DayBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navMoistLensDetails"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=2">Lens details</a></li>
+                          <li id="navMoistChartsGraphs"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navMoistAskAcuvue"><a href="/products-acuvue-1day-moist.htm?ProdId=0&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-1day-moist.htm?ProdId=0"><em>1•DAY</em> ACUVUE<span class="super">®</span> <em>MOIST</em><span class="super">®</span></a></li>
+                  <li class="has-sub" id="nav1DayBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="nav1DayLensDetails"><a href="/products-1day-acuvue.htm?tabId=2">Lens details</a></li>
+                          <li id="nav1DayAskAcuvue"><a href="/products-1day-acuvue.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-1day-acuvue.htm"><em>1•DAY</em> ACUVUE<span class="super">®</span></a></li>
+                  <!--
+                    <li class="has-sub" id="navAdvanceBrand">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1">ACUVUE<span class="super">&#174;</span> ADVANCE<span class="super">&#174;</span> <em>with HYDRACLEAR</em><span class="super">&#174;</span></a></li>
+                                    <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2">ACUVUE<span class="super">&#174;</span> ADVANCE<span class="super">&#174;</span> <em>for ASTIGMATISM</em></a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="#">ACUVUE<span class="super">&#174;</span> ADVANCE<span class="super">&#174;</span> Brand</a>
+                    </li>
+                    -->
+                  <li class="has-sub" id="navAdvanceBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=2">Lens details</a></li>
+                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navWithHydraclear"><a href="/products-acuvue-advance.htm?ProdId=1&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-advance.htm?ProdId=1">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> with HYDRACLEAR<span class="super">®</span></a></li>
+                  <li class="has-sub" id="navAdvanceBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=2">Lens details</a></li>
+                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=3">Charts &amp; Graphs</a></li>
+                          <li id="navForAstigmatism"><a href="/products-acuvue-advance-astig.htm?ProdId=2&amp;tabId=4">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-advance-astig.htm?ProdId=2">ACUVUE<span class="super">®</span> ADVANCE<span class="super">®</span> <em>for ASTIGMATISM</em></a></li>
+                  <!--
+                    <li class="has-sub" id="nav2Brand">
+                        <div class="fourth-level">
+                            <div class="wrapper">
+                                <ul>
+                                    <li id="nav2"><a href="/products-acuvue-2.htm">ACUVUE<span class="super">&#174;</span> <em>2</em>&#8482;</a></li>
+                                    <li id="nav2Colours"><a href="/products-acuvue-2-colours.htm">ACUVUE<span class="super">&#174;</span> <em>2 COLOURS</em>&#8482;</a></li>
+                                </ul>
+                                <div class="rounded-bg"></div>
+                            </div>
+                        </div>
+                        <a href="#">ACUVUE<span class="super">&#174;</span> <em>2</em>&#8482; Brand Family</a>
+                    </li>
+                    -->
+                  <li class="has-sub" id="nav2Brand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="nav2LensDetails"><a href="/products-acuvue-2.htm?tabId=2">Lens details</a></li>
+                          <li id="nav2AskAcuvue"><a href="/products-acuvue-2.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-2.htm">ACUVUE<span class="super">®</span> <em>2</em>™</a></li>
+                  <li class="has-sub" id="nav2Brand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="nav2ColoursLensDetails"><a href="/products-acuvue-2-colours.htm?tabId=2">Lens details</a></li>
+                          <li id="nav2ColoursAskAcuvue"><a href="/products-acuvue-2-colours.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-2-colours.htm">ACUVUE<span class="super">®</span> <em>2 COLOURS</em>™</a></li>
+                  <li class="has-sub" id="navAcuvueBrand">
+                    <div class="fourth-level">
+                      <div class="wrapper">
+                        <ul>
+                          <li id="navBifocalLensDetails"><a href="/products-acuvue-bifocal.htm?tabId=2">Lens details</a></li>
+                          <li id="navBifocalAskAcuvue"><a href="/products-acuvue-bifocal.htm?tabId=3">Ask ACUVUE<span class="super">®</span></a></li>
+                        </ul>
+                        <div class="rounded-bg"></div>
+                      </div>
+                    </div>
+                    <a href="/products-acuvue-bifocal.htm">ACUVUE<span class="super">®</span> <em>BIFOCAL</em></a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/products-home.htm">Overview &amp; Products</a></li>
+        </ul>
+        <ul class="second-level acc-content">
+          <li class="has-sub" id="navAskAcuvue">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navTestimonials"><a href="/thinking-testimonials.htm">Testimonials</a></li>
+                </ul>
+                <div class="rounded-bg"></div>
+
+              </div>
+            </div>
+		   <a href="/products-ask-acuvue.htm">Ratings &amp; Reviews</a></li>
+		</ul>
+		<ul class="second-level acc-content">
+		   <li id="navOverview"><a href="javascript:buildLensAdvisorApp();">Lens Advisor</a></li>
+        </ul>
+      </li>
+      <li class="acc-wrapper main-nav-item" id="navResources"><a href="#" class="acc-trigger">RESOURCES</a>
+        <ul class="second-level acc-content">
+          <li id="navVisionPerformance"><a href="/vision-performance.htm">Vision &amp; Performance</a></li>
+          <li class="has-sub" id="navCommonProblems">
+            <div class="third-level">
+              <div class="wrapper">
+                <ul>
+                  <li id="navNearsightedness"><a href="/vision-myopia.htm">Nearsightedness</a></li>
+                  <li id="navFarsightedness"><a href="/vision-hyperopia.htm">Farsightedness</a></li>
+                  <li id="navAstigmatism"><a href="/vision-astigmatism.htm">Astigmatism</a>
+                  </li><li id="navPresbyopia"><a href="/vision-presbyopia.htm">Presbyopia</a>
+                  </li><li id="navAllergies"><a href="/vision-allergies.htm">Allergies</a>
+                </li></ul>
+                <div class="rounded-bg"></div>
+              </div>
+            </div>
+            <a href="/vision-common-problems.htm">Common Vision Problems</a></li>
+          <li id="navContactUs"><a href="/contact_us.htm">Contact us</a></li>
+        </ul>
+      </li>
+    </ul>
+    <div class="bottom-content">
+      <ul class="first-level">
+        <li class="main-nav-item" id="navRebates"><a href="/buying-rebates.htm">Rebates</a></li>
+        <li class="main-nav-item" id="navRebates"><a href="/events-promo.htm">Events &amp; Promotions</a></li>
+        <li class="main-nav-item" id="navSafeyInfo"><a href="/fair_balance.htm">Safety Information</a></li>
+      </ul>
+      <a class="nav-tout" href="javascript:buildAppWindow();" id="navProductTout_Acuvue_Oasys_Hydraclear"> <img class="tout-img" src="/images/leftnav/tout_img.gif" alt="ACUVUE® OASYS® with HYDRACLEAR™ Plus" title="Get your FREE* Trial Pair Certificate"></a> <a class="nav-tout" href="javascript:buildAppWindow();" id="navFreeTrialCertificate"> Get your <span class="bigger">FREE*</span><br>
+      Trial Pair Certificate <img src="/images/leftnav/cta_bg.gif" alt="Get your FREE* Trial Pair Certificate"></a></div>
+  </div>
+  <div class="rounded-bg"></div>
+</div>
+</td>
+  </tr>
+  <tr>
+    <td id="content"><div id="drop-menus-nohead">
         <script type="text/javascript">
-        // <![CDATA[
-			var so2 = new SWFObject("swf/quicklinks.swf", "quicklinksflash", "583", "222", "9", "#ffffff");
-			so2.addParam("wmode","transparent");
-			so2.addVariable("xmlpath","xml/quicklinks.xml");
-			so2.addVariable("hideURL","javascript:toggleQL();");
-			//set opacity for the black box 0-1
-			so2.addVariable("ql_fade","0.85");
-			so2.write("ql");
-			// ]]>
-         </script>
-           
+// <![CDATA[
+	var flashvars = {};
+		flashvars.ql_xmlpath = "/xml/quicklinks.xml";
+		flashvars.hideURL = "javascript:toggleQL();";
+		flashvars.ql_fade = "0.85";
+	var params = {};
+		params.menu = "false";
+		params.wmode = "transparent";
+		params.allowscriptaccess = "always";
+		params.bgcolor = "#FFFFFF";
+	var attributes = {};
+	swfobject.embedSWF("/swf/quicklinks.swf", "ql", "583", "222", "9.0.0", "/swf/expressInstall.swf", flashvars, params, attributes);
 
-
-              	<div id="top-nav">
-        	
-        </div>
-        
-        <script type="text/javascript">
-            // <![CDATA[
-            
-            var so3 = new SWFObject("swf/top.swf", "top navigation", "740", "46", "9", "#FFFFFF");
-			so3.addParam("wmode", "transparent");
-			so3.addVariable("xmlpath","xml/top.xml");
-			//if user is not logged in, just leave blank
-			so3.addVariable("username","");
-			so3.write("top-nav");
-            
-            // ]]>
-			
-        </script>
-                
-        <div id="main-content">
-    	
-        <div id="extra-components">
-    <script language="javascript" type="text/javascript">
-		/*function printContent(){	
-			alert("Content of page would print now...");
-		}*/
-		
-		function getStyle(oElm, strCssRule){
-			var strValue = "";
-			if(document.defaultView && document.defaultView.getComputedStyle){
-				strValue = document.defaultView.getComputedStyle(oElm, "").getPropertyValue(strCssRule);
-			}
-			else if(oElm.currentStyle){
-				strCssRule = strCssRule.replace(/\-(\w)/g, function (strMatch, p1){
-					return p1.toUpperCase();
-				});
-				strValue = oElm.currentStyle[strCssRule];
-			}
-			return strValue;
-		}
-
-		function changeFontSize(direction) {
-		   var container = document.getElementById("FRAME");
-		   var p = document.all ? document.all : document.getElementsByTagName('*');
-		   //alert(p.length);
-		   //var p = document.getElementsByTagName('p');
-		   
-			   for(count=0;count<p.length;count++) {
-			   //alert(p[count].tagName);
-			   	if (p[count].tagName.indexOf("HTML")!=-1 || p[count].tagName.indexOf("HEAD")!=-1 || p[count].tagName.indexOf("BODY")!=-1 || p[count].tagName.indexOf("SCRIPT")!=-1 || p[count].tagName.indexOf("LINK")!=-1 ||p[count].tagName.indexOf("META")!=-1 || p[count].tagName.indexOf("NOSCRIPT")!=-1 || p[count].tagName.indexOf("SUP")!=-1){
-					//DO NOTHING
-					//alert(p[count].tagName);
-				} else if (p[count].tagName.indexOf("H")!=-1 || p[count].tagName.indexOf("P")!=-1 || p[count].tagName.indexOf("A")!=-1 || p[count].tagName.indexOf("LI")!=-1){
-					//alert("setting "+p[count].tagName);
-					  if(p[count].currentStyle){
-					  		/* HANDLE IE STYLING */
-							var currFontSize = getStyle(p[count],"fontSize");
-							var currLineHeight = getStyle(p[count],"lineHeight");
-							//alert("current font size of "+p[count]+" is "+currFontSize)
-							//alert("current line height of "+p[count].tagName+" is "+currLineHeight);
-					  		if(currFontSize.indexOf("px")>0){
-								s = parseInt(currFontSize.replace("px",""));
-								if(currLineHeight=='normal'){
-									lh = 20;
-									} else {
-									lh = parseInt(currLineHeight.replace("px",""));
-									}
-							} else {
-								s = 12;
-								lh = 20;
-							}
-							//alert("the current size for "+p[count].tagName+" in IE is: "+p[count].currentStyle['fontSize']);
-						} else if (window.getComputedStyle){
-							/* HANDLE MOZILLA BASED BROWSERS */
-							s = parseInt(document.defaultView.getComputedStyle(p[count],null).getPropertyValue('font-size').replace("px",""));
-							lh = parseInt(document.defaultView.getComputedStyle(p[count],null).getPropertyValue('line-height').replace("px",""));
-						} else {
-							alert("can't get style!");
-						}
-					  
-						if(direction=='up'){
-							s += 1;
-							lh += 1;
-							} else {
-							s -= 1;
-							lh -= 1;
-							}
-					  if(s!=null){ p[count].style.fontSize = s+"px" };
-					  if(lh!=null && lh!=NaN){ p[count].style.lineHeight = lh+"px" };
-					  //alert("set "+p[i].innerHTML+" size to "+s+"px!");
-					} 
-				}
-			   		   
-		}
-	</script>
+	var flashvars = {};
+		flashvars.username = "";
+		flashvars.hideURL = "javascript:toggleRG();";
+		flashvars.rg_xmlpath = "/xml/regions.xml";
+		flashvars.rg_fade = "0.85";
+	swfobject.embedSWF("/swf/regions.swf", "rg", "183", "222", "9.0.0", "/swf/expressInstall.swf", flashvars, params, attributes);
+	
+	$(document).ready(function(){
+		$("#countries").jScrollPane();
+	});
+//]]>
+</script>
+<div id="drop-menus">
+  <div id="ql" style="visibility: visible;"></div>
+  <div id="rg" style="visibility: visible;">
+    <div class="rg">
+      <div class="hide"><a href="javascript:toggleRG();">HIDE</a></div>
+      <div id="countries">
+        <ul>
+          <li><a href="http://www.acuvue.com.ar">Argentina</a></li>
+          <li><a href="http://www.acuvue.com.au">Australia</a></li>
+          <li><a href="http://www.acuvue.at">Austria</a></li>
+          <li><a href="http://www.befle.acuvue.be">Belgium</a></li>
+          <li><a href="http://www.acuvue.com.br">Brazil</a></li>
+          <li><a href="http://www.acuvue.ca">Canada</a></li>
+          <li><a href="http://www.acuvue.cl">Chile</a></li>
+          <li><a href="http://www.jnjvisioncare.com.cn">China</a></li>
+          <li><a href="http://www.acuvue.com.co">Colombia</a></li>
+          <li><a href="http://www.acuvue.co.cr">Costa Rica</a></li>
+          <li><a href="http://www.acuvue.cz">Czech Republic</a></li>
+          <li><a href="http://www.acuvue.dk">Denmark</a></li>
+          <li><a href="http://www.acuvue.com.ec">Equador</a></li>
+          <li><a href="http://www.acuvue.com.sv">El Salvador</a></li>
+          <li><a href="http://www.acuvue.tm.se/fi">Finland</a></li>
+          <li><a href="http://www.acuvue.com.fr">France</a></li>
+          <li><a href="http://www.acuvue.de">Germany</a></li>
+          <li><a href="http://www.acuvue.com.gt">Guatemala</a></li>
+          <li><a href="http://www.acuvue.hn">Honduras</a></li>
+          <li><a href="http://www.acuvue.hu">Hungary</a></li>
+          <li><a href="http://www.acuvue.co.in">India</a></li>
+          <li><a href="http://www.acuvue.co.id">Indonesia</a></li>
+          <li><a href="http://www.acuvue.co.il">Israel</a></li>
+          <li><a href="http://www.acuvue.it">Italy</a></li>
+          <li><a href="http://acuvue.jnj.co.jp">Japan</a></li>
+          <li><a href="http://www.acuvue.co.kr">Korea</a></li>
+          <li><a href="http://www.acuvue.lu">Luxembourg</a></li>
+          <li><a href="http://www.acuvue.com.my">Malaysia</a></li>
+          <li><a href="http://www.acuvue.com.mx">Mexico</a></li>
+          <li><a href="http://www.acuvue.nl">Netherlands</a></li>
+          <li><a href="http://www.acuvue.co.nz">New Zealand</a></li>
+          <li><a href="http://www.acuvue.com.pa">Panama</a></li>
+          <li><a href="http://www.acuvue.com.py">Paraguay</a></li>
+          <li><a href="http://www.acuvue.com.pe">Peru</a></li>
+          <li><a href="http://www.acuvue.pl">Poland</a></li>
+          <li><a href="http://www.acuvue.com.pr">Puerto Rico</a></li>
+          <li><a href="http://www.acuvue.ru">Russia</a></li>
+          <li><a href="http://www.acuvue.com.sg">Singapore</a></li>
+          <li><a href="http://www.acuvue.co.za">South Africa</a></li>
+          <li><a href="http://www.acuvue.es">Spain</a></li>
+          <li><a href="http://www.acuvue.tm.se">Sweden</a></li>
+          <li><a href="http://www.acuvue.ch">Switzerland</a></li>
+          <li><a href="http://www.acuvue.com.tw">Taiwan</a></li>
+          <li><a href="http://www.acuvue.co.th">Thailand</a></li>
+          <li><a href="http://www.acuvue.co.uk">United Kingdom</a></li>
+          <li><a href="http://www.acuvue.com.uy">Uruguay</a></li>
+          <li><a href="http://www.acuvue.com.ve">Venezuela</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+      </div>
+      <div id="toolbar"><iframe src="/mystatus/header.do" name="toolbar" id="toolbar2" frameborder="0" border="0" scrolling="no" allowtransparency="true"></iframe></div>
+<div id="top-nav" style="visibility: visible;">
+	<div id="nav-flash"><a href="javascript:toggleQL();" class="answer-finder"></a><a href="javascript:toggleRG();" class="country-finder"></a></div>
+</div>
+<script type="text/javascript">
+// <![CDATA[
+	var flashvars = {};
+		flashvars.username = "";
+		flashvars.top_xmlpath = "/xml/top.xml";
+	var params = {};
+		params.menu = "false";
+		params.wmode = "transparent";
+		params.allowscriptaccess = "always";
+		params.bgcolor = "#FFFFFF";
+	var attributes = {};
+	swfobject.embedSWF("/swf/top-search.swf", "top-nav", "750", "46", "9.0.0", "/swf/expressInstall.swf", flashvars, params, attributes);
+// ]]>
+</script>
+<style type="text/css">
+div#toolbar{
+	width: 370px !important;
+	height: 45px;
+	border: none;
+	position: absolute;
+	z-index:50;
+}
+div#toolbar iframe{
+	width:370px;
+	height:45px;
+	margin:0;
+	padding:0;
+}
+td#header div#toolbar{
+	margin:15px 0 0 23px;
+}
+</style>
+      <div id="main-content">
+        <div id="extra-components-nohead">
 	<ul>
-        <li class="no-border"><a href="javascript:changeFontSize('down');" title="Decrease Font Size"><img src="images/ico-text-size-sm.gif" alt="Decrease Font Size"></a></li>
-		<li class="no-border"><a href="javascript:changeFontSize('up');" title="Increase Font Size"><img src="images/ico-text-size-lg.gif" alt="Increase Font Size"></a></li>
-		<!--<li class="no-border"><a href="#" title="Share"><img src="images/ico-share.gif" alt="Share" /></a></li>-->
-		<!--<li class="no-border"><a href="contact_us.htm" title="Contact Us"><img src="images/ico-email.gif" alt="Contact Us" /></a></li>-->
-        <li class="no-border"><a href="javascript:print()" title="Print"><img src="images/ico-print.gif" alt="Print"></a></li>
+		<li class="no-border"><a href="javascript:changeFontSize('down');" title="Decrease Font Size"><img src="/images/ico-text-size-sm.gif" alt="Decrease Font Size"></a></li>
+		<li class="no-border"><a href="javascript:changeFontSize('up');" title="Increase Font Size"><img src="/images/ico-text-size-lg.gif" alt="Increase Font Size"></a></li>
+		<li class="no-border print"><a href="javascript:print()" title="Print"><img src="/images/ico-print.gif" alt="Print"></a></li>
+		<li class="no-border"><a href="" onclick="showShareFlyout(this,-325,20,356,175); return false;" title="Share"><img src="/images/ico-email.gif" alt="Share"></a></li>
+		<!--<li class="no-border"><a href="#" title="Ask ACUVUE&#174;"><img src="/images/ico-share.gif" alt="Ask ACUVUE&#174;" /></a></li>-->
 	</ul>
+</div>
+
+        <h3 class="headline" id="first-title-footer">Privacy Policy</h3>
+        <a href="safe_harbor.htm" title="European Union Safe Harbor Privacy Policy">European Union Safe Harbor Privacy Policy</a><br>
+        <div class="body-comment">v 6.0</div>
+	
+        <h4 class="body-title">Welcome</h4>
+        <p class="body-text">Welcome to <a href="http://www.acuvue.com/">www.acuvue.com</a>! This site is owned by Johnson &amp; Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.</p>
+        <h4 class="body-title">Your Consent</h4>
+        <p class="body-text">By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.</p>
+        <h4 class="body-title">About Children</h4>
+        <p class="body-text">This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.</p>
+        <h4 class="body-title">Active Information Collection</h4>
+        <p class="body-text">Like many Web sites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via email, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, email address, phone number, and so on).</p>
+        <h4 class="body-title">Passive Information Collection</h4>
+        <p class="body-text">As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies.</p>
+        <p class="body-text">This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. Such information is not combined with personally identifiable information collected elsewhere on the site unless you have consented.</p>
+        <p class="body-text">A "cookie" is a bit of information that a Web site sends to your Web browser that helps the site remember information about you and your preferences.</p>
+        <p class="body-text">"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer.</p>
+        <p class="body-text">"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site’s server only knows that an unidentified visitor with your cookie has returned to the site.</p>
+        <p class="body-text">You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser.</p>
+        <p class="body-text">A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site.</p>
+        <p class="body-text">"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted.</p>
+        <p class="body-text">"Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors.</p>
+        <h4 class="body-title">Use and Disclosure of Information</h4>
+        <p class="body-text">Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it) for our marketing and research purposes, and for the purposes specified in this Privacy Policy.</p>
+        <p class="body-text">If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise.</p>
+        <p class="body-text">We may disclose your personally identifiable information to other Johnson &amp; Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, located in the United States and/or any other country, but only</p>
+        <ul class="test-list">
+          <li>
+            <p class="body-text">(i) to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions) in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;</p>
+          </li>
+          <li>
+            <p class="body-text">(ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy;</p>
+          </li>
+          <li>
+            <p class="body-text">(iii) where required by applicable laws, court orders, government regulations; or</p>
+          </li>
+          <li>
+            <p class="body-text">(iv) to provide products or services you have requested, when we have your permission. In addition, we will make full use of all information acquired through this site that is not in personally identifiable form.</p>
+          </li>
+        </ul>
+        <h4 class="body-title">Access,Correction and Deletion</h4>
+        <p class="body-text">To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession, or to delete information in our possession that you have previously submitted via this site upon request.</p>
+        <h4 class="body-title">Security</h4>
+        <p class="body-text">We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via email. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.</p>
+        <h4 class="body-title">Links to Other Web Sites</h4>
+        <p class="body-text">This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit.</p>
+        <h4 class="body-title">Other Terms</h4>
+        <p class="body-text">Your use of this site is subject to our <a href="legal_notice.htm" title="Legal Notice">Legal Notice</a>.</p>
+        <h4 class="body-title">How to Contact Us</h4>
+        <p class="body-text">If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please <a href="contact_us.htm" title="contact us">contact us</a>.</p>
+        <h4 class="body-title">Changes to This Privacy Policy</h4>
+        <p class="body-text">If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.</p>
+      </div></td>
+  </tr>
+  <tr>
+    <td colspan="3" id="footer"><div id="icons-list">
+  <div id="ecp-icon"><a href="http://www.jnjvisioncare.com" target="_blank"><img src="/images/spacer.gif" width="124" height="42" border="0"></a></div>
+  <div id="facebook-icon"><a href="http://www.facebook.com/acuvue" onclick="return externalLink('http://www.facebook.com/acuvue', this);"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
+  <div id="youtube-icon"><a href="http://www.youtube.com/acuvue" onclick="return externalLink('http://www.youtube.com/acuvue', this);"><img src="/images/spacer.gif" width="42" height="42" border="0"></a></div>
+  <div id="advamed">
+    <div id="advamed-icon"> <a href="http://www.advamed.org/MemberPortal/About/code" onclick="return externalLink('http://www.advamed.org/MemberPortal/About/code', this);"><img src="/images/spacer.gif" width="40" height="42" border="0"></a> </div>
+    <div id="advamed-text">We support the AdvaMed Code of Ethics on Interactions with Health Care Professionals.</div>
+  </div>
 </div>
 <br clear="all">
-        
-        <h3 class="headline" id="first-title-footer">Privacy Policy</h3>
-    	
-        <p class="body-comment">Last Updated: October 1, 2004</p>
-        
-        <h4 class="body-title">Welcome</h4>
-        
-        <p class="body-text">Welcome to <a href="http://www.acuvue.com/">www.acuvue.com</a>! This site is owned by Johnson &amp; Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.</p>
-        
-        <a href="safe_harbor.htm" title="European Union Safe Harbor Privacy Policy" class="body-link">European Union Safe Harbor Privacy Policy</a>
-        
-        <h4 class="body-title">Your Consent</h4>
-        
-      	<p class="body-text">By using this site, you agree with the terms of this Privacy Policy. Whenever you submit information via this site, you consent to the collection, use, and disclosure of that information in accordance with this Privacy Policy.</p>
-        
-        <h4 class="body-title">About Children</h4>
-        
-      	<p class="body-text">This site is not intended for children under the age of 13. We will not knowingly collect information from site visitors in this age group. We encourage parents to talk to their children about their use of the Internet and the information they disclose to Web sites.</p>
-
-        <h4 class="body-title">Active Information Collection</h4>
-                
-      	<p class="body-text">Like many Web sites, this site actively collects information from its visitors both by asking you specific questions and by permitting you to communicate directly with us via email, feedback forms, and/or chat rooms. Some of the information that you submit may be personally identifiable information (that is, information that can be uniquely identified with you, such as your full name, address, email address, phone number, and so on).</p>
-        
-        <h4 class="body-title">Passive Information Collection</h4> 
-        
-        <p class="body-text">As you navigate through this site, certain anonymous information can be passively collected (that is, gathered without your actively providing the information) using various technologies, such as cookies, Internet tags or web beacons, and navigational data collection (log files, server logs, clickstream). Your Internet browser automatically transmits to this site some of this anonymous information, such as the URL of the Web site you just came from and the Internet Protocol (IP) address and the browser version your computer is currently using. This site may also collect anonymous information from your computer through cookies and Internet tags or web beacons. You may set your browser to notify you when a cookie is sent or to refuse cookies altogether, but certain features of this site might not work without cookies.</p>   
-        
-        <p class="body-text">This site may use and combine such passively collected anonymous information to provide better service to site visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve the site for your use. Such information is not combined with personally identifiable information collected elsewhere on the site unless you have consented.</p>
-        
-        <p class="body-text">A "cookie" is a bit of information that a Web site sends to your Web browser that helps the site remember information about you and your preferences.</p>
-        
-        <p class="body-text">"Session" cookies are temporary bits of information that are used to improve navigation, block visitors from providing information where inappropriate (the site "remembers" previous entries of age or country of origin that were outside the specified parameters and blocks subsequent changes), and collect aggregate statistical information on the site. They are erased once you exit your Web browser or otherwise turn off your computer.</p>
-        
-        <p class="body-text">"Persistent" cookies are more permanent bits of information that are placed on the hard drive of your computer and stay there unless you delete the cookie. Persistent cookies store information on your computer for a number of purposes, such as retrieving certain information you have previously provided (such as passwords), helping to determine what areas of the Web site visitors find most valuable, and customizing the Web site based on your preferences on an ongoing basis. Persistent cookies placed by this site on your computer may hold personally identifiable information, but only if you have registered or have otherwise consented to the retention of personally identifiable information you have provided at the site. Otherwise, our site’s server only knows that an unidentified visitor with your cookie has returned to the site.</p>
-        
-        <p class="body-text">You can set your browser to accept all cookies, to reject all cookies, or to notify you whenever a cookie is offered so that you can decide each time whether to accept it. To learn more about cookies and how to specify your preferences, please search for "cookie" in the "Help" portion of your browser.</p>
-        
-        <p class="body-text">A site may use Internet Protocol (IP) addresses. An IP address is a number assigned to your computer by your Internet service provider so you can access the Internet and is generally considered to be non-personally identifiable information, because in most cases an IP address is dynamic (changing each time you connect to the Internet), rather than static (unique to a particular user's computer). The IP address can be used to diagnose problems with a server, report aggregate information, determine the fastest route for your computer to use in connecting to a site, and administer and improve the site.</p>
-        
-        <p class="body-text">"Internet tags" (also known as single-pixel GIFs, clear GIFs, invisible GIFs, and 1-by-1 GIFs) are smaller than cookies and tell the Web site server information such as the IP address and browser type related to the visitor's computer. Tags may be placed both on online advertisements that bring people to the site and on different pages of the site. Such tags indicate how many times a page is opened and which information is consulted.</p>
-        
-        <p class="body-text">"Navigational data" (log files, server logs, and clickstream data) are used for system management, to improve the content of the site, market research purposes, and to communicate information to visitors.</p>
-        
-        <h4 class="body-title">Use and Disclosure of Information</h4>
-        
-        <p class="body-text">Except as otherwise stated, we may use your information to improve the content of our site, to customize the site to your preferences, to communicate information to you (if you have requested it) for our marketing and research purposes, and for the purposes specified in this Privacy Policy.</p>
-        
-        <p class="body-text">If you provide personally identifiable information to this site, we may combine such information with other actively collected information unless we specify otherwise at the point of collection. We will take reasonable measures to prevent personally identifiable information from being combined with passively collected information, unless you consent otherwise.</p>
-        
-        <p class="body-text">We may disclose your personally identifiable information to other Johnson &amp; Johnson affiliates worldwide that agree to treat it in accordance with this Privacy Policy. In addition, we may disclose your personally identifiable information to third parties, located in the United States and/or any other country, but only</p>
-        
-        <ul class="test-list">
-        	<li><p class="body-text">(i) to contractors we use to support our business (e.g., fulfillment services, technical support, delivery services, and financial institutions) in which case we will require such third parties to agree to treat it in accordance with this Privacy Policy;</p></li>
-            <li><p class="body-text">(ii) in connection with the sale, assignment, or other transfer of the business of this site to which the information relates, in which case we will require any such buyer to agree to treat it in accordance with this Privacy Policy;</p></li>
-            <li><p class="body-text">(iii) where required by applicable laws, court orders, government regulations; or</p></li>
-            <li><p class="body-text">(iv) to provide products or services you have requested, when we have your permission. In addition, we will make full use of all information acquired through this site that is not in personally identifiable form.</p></li>
-        </ul>        
-        
-        <h4 class="body-title">Access and Correction</h4>
-        
-        <p class="body-text">To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site.</p>
-        
-        <h4 class="body-title">Security</h4>
-        
-      	<p class="body-text">We take reasonable steps to protect your personally identifiable information as you transmit your information from your computer to our site and to protect such information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction. You should keep in mind that no Internet transmission is ever 100% secure or error-free. In particular, email sent to or from this site may not be secure, and you should therefore take special care in deciding what information you send to us via email. Moreover, where you use passwords, ID numbers, or other special access features on this site, it is your responsibility to safeguard them.</p>
-		
-        <h4 class="body-title">Links to Other Web Sites</h4>
-        
-      	<p class="body-text">This site may contain links or references to other Web sites. Please be aware that we do not control other Web sites and that, in any case, this Privacy Policy does not apply to those Web sites. We encourage you to read the privacy policy of every Web site you visit.</p>
-        
-        <h4 class="body-title">Other Terms</h4>
-        
-        <p class="body-text">Your use of this site is subject to our <a href="legal_notice.htm" title="Legal Notice">Legal Notice</a>.</p>
-        
-        <h4 class="body-title">How to Contact Us</h4>
-        
-        <p class="body-text">If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please <a href="contact_us.htm" title="contact us">contact us</a>.</p>
-        
-        <h4 class="body-title">Changes to This Privacy Policy</h4>
-                
-        <p class="body-text">If this Privacy Policy changes, the revised policy will be posted on this site. Please check back periodically, and especially before you provide any personally identifiable information.</p>
-        </div>
-        </td>
-    </tr>
-    <tr>
-    <td>&nbsp;</td>
-    <td colspan="2" id="footer">
-    	
-        <script language="javascript" type="text/javascript">
-    <!--//
-	//document.write("<!--//"+document.title+"//-->");
-	var curPage = document.title;
-	if(curPage.indexOf("Contacts - ACUVUE")==-1){
-    document.write('<div id="mobile">');
-    document.write('<a href="http://m.acuvue.com">');
-    document.write('<p>');
-    document.write('<img src="/images/cellphone_icon.jpg" alt="Click here to view the ACUVUE&reg; Mobile website" />');
-    document.write('On a mobile phone or wireless device? <b>Click here for access</b>.');
-    document.write('</p>');
-    document.write('</a>');
-    document.write('</div>');
-	} else {
-	document.write("<!--// home page found //-->");
-	}
-    //-->
-</script><div id="mobile"><a href="http://m.acuvue.com"><p><img src="/images/cellphone_icon.jpg" alt="Click here to view the ACUVUE® Mobile website">On a mobile phone or wireless device? <b>Click here for access</b>.</p></a></div>
-    
-    <div id="footer-div">
-   
-    <p><span style="color:#0E1215">*Professional exam and fitting fees are not included.</span></p>
-    
-    <ul style="width:450px;">
-    		<li><a href="contact_us.htm" title="Contact Us">Contact Us</a></li>
-      	<li><a href="our_credo.htm" title="Credo">Our Credo</a></li>
-      	<li><a href="about_us.htm" title="About ACUVUE®">About Us</a></li>
-     	 <li><a href="press.htm" title="Press Room">Press Room</a></li>
-      	<li><a href="careers.htm" title="Careers">Careers</a></li>
-		<li><a href="site_map.htm" title="Site Map">Site Map</a></li>
-	    <li><a href="http://jnjvisioncare.com" target="_blank">For Eye Doctors</a></li>
-	</ul>
-	<ul style="width:430px;">
-	 	<li><a href="privacy_policy.htm" title="Privacy Policy">Privacy Policy</a></li>
-		<li><a href="legal_notice.htm" title="Legal">Legal</a></li>
-	 	<li><a href="safe_harbor.htm" title="Safe Harbor">Safe Harbor</a></li>
-      	<li><a href="fair_balance.htm" title="Important Safety Information">Important Safety Information</a></li>
-      	<li><a href="country_list.htm" title="Select your country">Select Country</a></li>
-	 	
-    </ul>
-    <p>© JJVCI 1996 - <script language="javascript">test= new Date();year = test.getFullYear();document.write(year);</script>2020
-    . All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States. ACUVUE<sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> <em>MOIST<sup>®</sup></em>, ACUVUE<sup>®</sup> ADVANCE<sup>®</sup>, ACUVUE<sup>®</sup> OASYS™, HYDRACLEAR<sup>®</sup>, ACUVUE<sup>®</sup> <em>2</em>™, ACUVUE<sup>®</sup> <em>2</em> COLOURS™, ACUMINDER™, and PUPIL INTELLIGENT DESIGN™ are trademarks of Johnson &amp; Johnson Vision Care, Inc.</p>
+<div id="footer-div">
+  <ul>
+    <li><a href="/contact_us.htm" title="Contact Us">Contact Us</a></li>
+    <li><a href="/our_credo.htm" title="Credo">Our Credo</a></li>
+    <li><a href="/about_us.htm" title="About ACUVUE®">About Us</a></li>
+    <li><a href="/press.htm" title="Press Room">Press Room</a></li>
+    <li><a href="/careers.htm" title="Careers">Careers</a></li>
+    <li><a href="/site_map.htm" title="Site Map">Site Map</a></li>
+    <li><a href="/privacy_policy.htm" title="Privacy Policy">Privacy Policy</a></li>
+    <li><a href="/legal_notice.htm" title="Legal">Legal</a></li>
+    <li><a href="/safe_harbor.htm" title="Safe Harbor">Safe Harbor</a> </li>
+    <li><a href="/fair_balance.htm" title="Important Safety Information">Important Safety Information</a></li>
+    <li><a href="/country_list.htm" title="Select your country">Select Country</a></li>
+  </ul>
 </div>
+<p style="font:10px Arial, Helvetica, sans-serif; text-align:center; color:#999999">*Professional exam and fitting fees are not included.<br>
+  © JJVCI 1996 - <script type="text/javascript">test= new Date();year = test.getFullYear();document.write(year);</script>2020
+  . 
+  All rights reserved. This site is published by JJVCI, which is solely responsible for its content. It is intended for use by residents of the United States. ACUVUE<sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> <em>MOIST</em><sup>®</sup>, <em>1•DAY</em> ACUVUE<sup>®</sup> TruEye<em>™</em>, ACUVUE<sup>®</sup> ADVANCE<sup>®</sup>, ACUVUE<sup>®</sup> OASYS<sup>®</sup>, HYDRACLEAR<sup>®</sup>, ACUVUE<sup>®</sup> <em>2</em>™, ACUVUE<sup>®</sup> <em>2 COLOURS</em>™, ACUMINDER™, and PUPIL INTELLIGENT DESIGN™<br>
+  are trademarks of Johnson &amp; Johnson Vision Care, Inc.</p>
+<script type="text/javascript" src="http://www.customerconversio.com/us/jjworld/acuvuesc09/sitecrm/sitecrm.aspx"></script>
 
-<script language="javascript" type="text/javascript">
-<!--// CODE TO INCLUDE CUSTOMER SATISFACTION - ADDED BY T. MARONEY OF VISTAKON IT //-->
-<!--// ADDED EXTRA FUNCTION TO NOT INCLUDE SURVEY ON PAGES WITH FORMS //-->
-<!--//
-var checkforms = document.forms.length; /*CHECK TO SEE IF ANY FORMS EXIST WITHIN THE PAGE*/
-if(checkforms<=0){ /*IF THERE ARE NO FORMS, INCLUDE THE SATISFACTION SURVEY SCRIPT*/
-	document.write('<script type="text/javascript" src="fsrscripts/triggerParams.js"><\/script>'); 
-	document.write('<script type="text/javascript" src="fsrscripts/stdLauncher.js"><\/script>');
-} else {/*OTHERWISE, IGNORE IT*/
-	/*alert("Form found!"); //ALERT TO INDICATE A FORM WAS FOUND*/
-};
-//-->
-</script><script type="text/javascript" src="fsrscripts/triggerParams.js"></script><script type="text/javascript" src="fsrscripts/stdLauncher.js"></script>
-        <!-- Date modified, etc. -->
-        <table width="100%" id="last-modified" cellspacing="0" cellpadding="0">
-            <tbody><tr>
-                <td width="100%" valign="top" class="footer">Date Modified: 01/12/09</td>
-            </tr>
-        </tbody></table>
-        	
-    </td>
-    </tr>
+      <!-- Date modified, etc. -->
+      <table width="100%" id="last-modified" cellspacing="0" cellpadding="0">
+        <tbody><tr>
+          <td width="100%" valign="top" class="footer">Date Modified:
+            
+            03/12/10</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
 </tbody></table>
-
+<script type="text/javascript" src="/js/jquery.cookies.js"></script>
+<script type="text/javascript" src="/js/flash-detection.js"></script>
+<script type="text/javascript" src="/js/jquery.scrollpane.js"></script>
+<script type="text/javascript" src="/js/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="/js/jquery.pngFix.js"></script>
 <!-- START OF SmartSource Data Collector TAG -->
 <!-- Copyright (c) 1996-2006 WebTrends Inc.  All rights reserved. -->
 <!-- $DateTime: 2006/03/01 12:51:54 $ -->
-
-<script src="js/dcs2.js" type="text/javascript" language="javascript"></script>
- 
+<script src="/js/dcs2.js" type="text/javascript"></script>
 <noscript>
-<IMG ALT="" BORDER="0" NAME="DCSIMG" WIDTH="1" HEIGHT="1" SRC="http://sdc.be.jnj.com/dcsf4xstd100004b397kpvfov_1k1j/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No">
+<img alt="" border="0" name="DCSIMG" width="1" height="1" src="http://sdc.be.jnj.com/dcsf4xstd100004b397kpvfov_1k1j/njs.gif?dcscfg=4&dcsuri=/nojavascript&amp;WT.js=No" />
 </noscript>
 <!-- END OF SmartSource Data Collector TAG -->
-
+<script type="text/javascript">
+	var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+	document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+	try {
+		var pageTracker = _gat._getTracker("UA-8099990-2");
+		pageTracker._trackPageview();
+	} catch(err) {}
+</script>
 
 
 </body></html>
