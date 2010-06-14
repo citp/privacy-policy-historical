@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greaterdebater.com privacy policy that was archived on 2009-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091017172628id_/http%3A//greaterdebater.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greaterdebater.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614042549id_/http%3A//greaterdebater.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GreaterDebater
 
