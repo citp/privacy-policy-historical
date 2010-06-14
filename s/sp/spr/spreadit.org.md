@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214203200id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreadit.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003430id_/http%3A//www.spreadit.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spreadit.org
 
