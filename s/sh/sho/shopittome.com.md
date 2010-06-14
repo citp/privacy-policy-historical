@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213095427id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopittome.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614170729id_/http%3A//www.shopittome.com/privacy) for the most accurate reproduction.*
 
-# Shop It To Me: Better than Sample Sales -- Free personal shopper for sales on clothing and accessories
+# Privacy Policy | Shop It To Me
 
 ##### Overview
 
@@ -58,3 +58,6 @@ If you have other questions or suggestions about our privacy policy please conta
 ##### Changes
 
 Shop It To Me reserves the right to change this policy at any time by notifying users through a notice posted on Shop It To Me.com or by email, of the existence of a new privacy policy or any updates. 
+
+  
+
