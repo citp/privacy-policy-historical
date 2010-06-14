@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the antsmagazine.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213001300id_/http%3A//www.antsmagazine.com/antsmagazinecom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antsmagazine.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614062816id_/http%3A//www.antsmagazine.com/antsmagazinecom-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AntsMagazine.Com
+
+## Privacy Policy
+
+[ ](http://www.google.com/reader/link?url=http://www.antsmagazine.com/antsmagazinecom-privacy-policy/&title=Privacy%20Policy&srcURL=http://worpdressapi.com/)
 
 ## Antsmagazine.com Privacy policy
 
@@ -45,5 +49,3 @@ Because publisher sites and laws across countries vary, we’re unable to sugges
 > We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html).
 
 You can find additional information in Appendix A of the [NAI Self-Regulatory principles for publishers](http://www.networkadvertising.org/pdfs/NAI_principles.pdf) (PDF). Please note that the NAI may change this sample language at any time.
-
-Popularity: 1% [[?](http://alexking.org/projects/wordpress/popularity-contest "What does this mean?")]
