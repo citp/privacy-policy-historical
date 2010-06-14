@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2008-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081014012317id_/http%3A//nzsale.co.nz/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzsale.co.nz privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614054404id_/http%3A//www.nzsale.co.nz/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# NZSALE - Privacy Policy
-
-Privacy Policy 
+# www.nzsale.co.nz
 
 nzsale.co.nz, referred to below as Nzsale, is an online retailer of consumer goods.
 
