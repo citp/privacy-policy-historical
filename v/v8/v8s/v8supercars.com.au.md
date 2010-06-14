@@ -1,122 +1,86 @@
-> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2009-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091028092519id_/http%3A//www.telstra.com.au/privacy/privacy_statement.html%3Fref%3DNet-Foot-Corp-Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the v8supercars.com.au privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614101337id_/http%3A//www.v8supercars.com.au/PrivacyPolicy/tabid/633/Default.aspx) for the most accurate reproduction.*
 
-# Privacy Statement - Telstra
+# Privacy Policy
 
-  
+#### Personal Information
 
+Personal information is information or an opinion (including information or an opinion forming part of a database) from which it is possible to determine your identity. Examples of personal information include your name, postal address, telephone number and email address.
 
-## Telstra Corporation Limited
+#### Our approach to privacy
 
-### Protecting your privacy
+V8SA respects the privacy of your personal information. We are bound by the National Privacy Principles ( **NPPs** ) as set out in the Privacy Act 1988 (Cth) (the **Privacy Act** ). This Privacy Statement explains our policy for dealing with personal information that we collect.
 
-We are committed to providing you with the highest levels of customer service. This includes protecting your privacy. 
+##### Collection of personal information
 
-Set out below is information that we are required to communicate to our customers. We recommend that you keep this information for future reference. 
+Generally, we will tell you why we are collecting personal information when we collect it and how we plan to use it or these things will be obvious when we collect the information. 
 
-### About us
+We collect personal information in a number of ways, including:
 
-We provide a range of telecommunication services, either through a particular division within Telstra or through one of our related companies - for example, the publisher of our directories. 
+directly from you, such as when you provide information to us by phone, email, in an application form or competition entry form, or through our website; and   
+when you provide information web page form submissions such as a Live Timing Subscription.
 
-### Your personal information
+As a general rule we do not collect sensitive information. However, if we do, it will usually be for the purposes of providing our goods and services and, where the law requires us to do so, we will seek your consent to collect it.
 
-Personal information held by us may include your name, date of birth, current and previous addresses, telephone or mobile phone number, email address, bank account or credit card details, occupation, driver's licence number and your Telstra PIN, username or password. We also hold details of your Telstra services (including their status), as well as certain details about your personal interests. 
+#### Use and disclosure of personal information
 
-If you choose not to provide certain personal information (e.g. your date of birth), we may not be able to provide you with the services you require, or the level of service on which we pride ourselves. 
+We may use your information to provide our services to you, to fulfil administrative functions associated with these services (for example processing payments) and to enter into contracts with you or third parties.
 
-Occasionally, you may need to provide personal information about other individuals to us (e.g. about your authorised representatives). If so, we rely on you to inform those individuals that you are providing their personal information to us and to advise them that we can be contacted for further information (see 'How to contact us' at the end of this brochure). 
+We may also use your contact information to notify you of important changes to our online shopping facility or to inform you of special promotions which may be of interest to you. Before we do so, we will provide you with an opportunity to give us permission to send you marketing or promotional material via an opt-in mechanism. That is, we will send you such material only if you elect to receive it or if it is provided to you in response to your request. You may also notify us at any time that you do not wish to receive marketing or promotional material by contacting us. Our contact details are set out below.
 
-### How we collect personal information
+We may also disclose your information to our related companies, V8 Supercar Events Pty Ltd and V8 Supercar Television Pty Ltd.
 
-We collect personal information in a number of ways, including: 
+You are not required to provide us with any personal information when visiting our website. However, sometimes we need to collect your information from our website to provide services that you request. For example, when you purchase a Live Timing Subscription.
 
-  
+We may disclose your information to our corporate sponsors and our service providers and contractors from time to time to help us to provide and market our services to you. If we do this we generally require these parties to protect your information in the same way we do.
 
+We may disclose your information to market research organisations. The information we disclose to market research organisations relates to sales, trading patterns and online navigation techniques and is provided in aggregated form. That is, the information provided does not identify you as an individual.
 
-  * directly from you, for example, when you provide information by phone, in application forms or other agreements, or when you submit your personal details through our websites (eg. during telstra.com registration); 
-  * from third parties such as our related companies, credit reporting agencies or your representatives; 
-  * from publicly available sources of information; 
-  * from the organisations identified under 'When we disclose your personal information'; 
-  * from our own records of how you use your Telstra services; 
-  * when you visit our websites. For more information on how our websites collect information please view [Telstra's Privacy Information](https://web.archive.org/web/20091028092519id_/http%3A//www.telstra.com.au/privacy/information.html); or 
-  * when legally required to do so - for example, under the Telecommunications (Service Provider - Identity Checks for Pre-paid Public Mobile Telecommunications Services) Determination 2000. 
+#### Exemptions
 
+Where appropriate we will handle personal information relying on the employer exemption relating to employee records and the related bodies corporate exemption in the Privacy Act.
 
+#### Security
 
-### How we use your personal information
+We use a variety of physical and electronic security measures including restricting physical access to our server, firewalls, the use of encryption technology during online transactions and secure databases to keep personal information secure from misuse, loss or unauthorised use or disclosure.
 
-Your personal information may be used to: 
+The Internet is not a secure environment. If you send us information, including your email address, it is sent at your own risk. While we strive to protect your personal information from misuse, loss and unauthorised access, we cannot guarantee the security of any information you transmit to us or receive from our online products or services. These activities are conducted at your own risk. Once we receive your transmission, we make our best effort to ensure its security.
 
-  * verify your identity; 
-  * assist you to subscribe to our services; 
-  * provide the services you require; 
-  * administer and manage those services, including charging, billing and collecting debts; 
-  * inform you of ways the services provided to you could be improved; 
-  * conduct appropriate checks for credit-worthiness and for fraud; 
-  * research and develop our services; 
-  * gain an understanding of your information and communication needs in order for us to provide you with a better service; and 
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems. 
+#### Cookies:-
 
+V8SCA and BigPond a may use 'cookies' on the V8 Supercar website. Cookies are an industry standard and most major web sites use them. A cookie is a small text file that our web sites may place on your computer. Usually, cookies are used as a means for the V8 Supercar website to remember your preferences. As such, cookies are designed to improve your experience of the V8 Supercar web sites.
 
+V8SCA and BigPond use [Neilsen//NetRatings](http://www.netratings.com/privacy.jsp?section=leg_scs) and [Omniture](http://www.omniture.com/global/privacy) to collate usage statistics on our website. This analysis is performed using data collected from the v8supercar.com.au website, that may include click through gateways that redirect some web page requests via Neilson//NetRatings' secure-au.imrworldwide.com domain. This analysis is used to improve the web experience of our users. No personally identifiable information is collected by Neilson//NetRatings or Omniture from the V8 Supercar web site.
 
-Also, your personal information is collected so that we, our related bodies and our dealers can promote and market services to you (including by way of direct mail, telemarketing, email, SMS and MMS messages). This is to keep you informed of products, services and special offers and may continue after you cease acquiring services from us. If you do not wish us, our related bodies or our dealers to contact you to promote and market products, services and special offers to you, please call 1800 039 059. 
+If you would like to opt-out of Neilson//NetRatings and [Omniture](http://www.omniture.com/global/privacy) anonymous user profiling, you can do so at the following pages at [following pages at Neilsen//NetRatings](http://www.netratings.com/privacy.jsp?section=leg_scs) and [Omniture.](http://www.omniture.com/global/privacy).
 
-### When we disclose your personal information
+Our Technology Partner BigPond may use one of the following organisations [Sensis MediaSmart® Sales](http://www.about.sensis.com.au/products/mediasmart.php) Sales and the [White Agency's](http://www.thewhiteagency.com.au/white.html) partner, DoubleClick to provide advertisement management and delivery across the V8 Supercar website. DoubleClick and Sensis use cookies for anonymous profiling purposes to tailor advertising to user's preferences. 
 
-In order to deliver the services you require, we may disclose your personal information to organisations outside of Telstra. Your personal information is disclosed to these organisations only in relation to us providing our services to you. 
+If you would like to opt-out of the DoubleClick anonymous profiling, [you can do so here](http://www.doubleclick.com/us/about_doubleclick/privacy/).
 
-### These organisations carry out our:
+If you would like to opt-out of the Sensis MediaSmart anonymous profiling, then [then do so here](http://ad.sensismediasmart.com.au/images/sensis/cookie/optout.html).
 
-  * customer enquiries; 
-  * mailing operations; 
-  * billing and debt-recovery functions; 
-  * information technology services; 
-  * installation, maintenance and repair services; 
-  * marketing, telemarketing and door-knocking services; 
-  * market research; and 
-  * website usage analysis. 
+Finally BigPond uses 24/7 Real Media to provide search engine and web site conversion reporting across the BigPond Channel websites. 24/7 Real Media uses cookies for anonymous profiling purposes. No personally identifiable information is collected by 24/7 Real Media from the V8 Supercar web sites. If you would like to opt-out of the 24/7 Real Media anonymous profiling, you can [so at the following page.](http://www.247realmedia.com/opt-out.html).
 
+**Important when deleting cookies**
 
+If you delete cookies from your computer’s web browser, you may remove your opt-out preference that you have set for the company’s listed above. The opt-out cookies set may also expire and may need to be refreshed by using the information set out on this page.
 
-We take reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. 
+#### Access to information
 
-### In addition, we may disclose your personal information to:
+You have a right to access most personal information we hold about you and if we deny access in some circumstances we will tell you why.
 
-  * your authorised representatives or your legal advisers (e.g. when requested by you to do so); 
-  * credit-reporting and fraud-checking agencies; 
-  * credit providers (for credit related purposes such as credit-worthiness, credit rating, credit provision and financing); 
-  * our dealers; 
-  * our related companies; 
-  * our professional advisers, including our accountants, auditors and lawyers; 
-  * other telecommunication and information service providers (for example, if you obtain services from other providers, we may need to disclose your personal information for billing purposes); 
-  * the manager of the Integrated Public Number Database. For more information on the Integrated Public Number Database please read [Telstra's Privacy Information](https://web.archive.org/web/20091028092519id_/http%3A//www.telstra.com.au/privacy/information.html); 
-  * government and regulatory authorities and other organisations, as required or authorised by law; and 
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions (e.g. securitisation). 
+Please contact our Privacy Compliance Officer to ask for access to your information or if you have a complaint concerning your information privacy.
 
+#### Contact details
 
+If you would like more information about our approach to privacy please contact us:
 
-### Help us to ensure we hold accurate information
+**V8 Supercars Australia**
 
-We take all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up-to-date. 
+**PO Box 607 Southport BC, QLD, 4215**
 
-However, the accuracy of that information depends to a large extent on the information you provide. That's why we recommend that you: 
+**Telephone: 61 07 5630 0364**
 
-  * let us know if there are any errors in your personal information; and 
-  * keep us up-to-date with changes to your personal information such as your name or address. If you are a subscriber to one of our online products or services, you may change your personal details by using the relevant facility on our websites. 
+**Facsimile: 61 07 5630 0338**
 
-
-
-### You can access your personal information
-
-You have a right to access your personal information, subject to some exceptions allowed by law. If you would like to do so, please let us know. You may be required to put your request in writing for security reasons. 
-
-We reserve the right to charge a fee for searching for and providing access to your information. 
-
-### How to contact us
-
-If you have any questions in relation to privacy, please contact us on **1800 039 059** between 9.00am and 5.00pm, Monday to Friday. Please note that this number is not for general service enquiries. Alternatively, you can write to [privacy@online.telstra.com.au](mailto:privacy@online.telstra.com.au)
-
-You may obtain further information on privacy matters by viewing [Privacy at Telstra](https://web.archive.org/web/20091028092519id_/http%3A//www.telstra.com.au/privacy/index.html). 
-
-Telstra Privacy Statement March 2008  
-Telstra Corporation Limited ABN 33 051 775 556  
-C011 03-08 P616244 131530
+**Privacy Compliance Officer: Adam Firth**
