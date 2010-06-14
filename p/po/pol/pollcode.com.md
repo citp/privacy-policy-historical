@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pollcode.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230221914id_/http%3A//pollcode.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pollcode.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615010545id_/http%3A//pollcode.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Pollcode.com
 
@@ -12,7 +12,7 @@ You may update any of the information you've previously provided us, by logging 
 
 If you do not wish to receive further communications from us, and want to remove your information from our service, please log in to your account and visit the "Update Account Info" page. From here, there is a link at the bottom of the page to permamently remove your Pollcode account: Log in from our main page: [http://pollcode.com/](http://www.pollcode.com/)
 
-Information submitted to us is ordinarily not released to third parties, however, we may release contact information to governmental agencies, courts, or other third-parties, if we believe you have or may have commited illegal activites, violated our [Terms of Service](https://web.archive.org/web/20091230221914id_/http%3A//pollcode.com/terms.html), the rights of third-parties, impaired in any respect the ability of Boardhost to operate our service properly, or endangered in any respect Boardhost or third-parties, or in the event that the information is subpoenaed or subject to other judicial or administrative process. 
+Information submitted to us is ordinarily not released to third parties, however, we may release contact information to governmental agencies, courts, or other third-parties, if we believe you have or may have commited illegal activites, violated our [Terms of Service](https://web.archive.org/web/20100615010545id_/http%3A//pollcode.com/terms.html), the rights of third-parties, impaired in any respect the ability of Boardhost to operate our service properly, or endangered in any respect Boardhost or third-parties, or in the event that the information is subpoenaed or subject to other judicial or administrative process. 
 
 **COOKIES AND ADVERTISING**
 
