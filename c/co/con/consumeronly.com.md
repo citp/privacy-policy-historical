@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the consumeronly.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213142009id_/http%3A//www.consumeronly.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumeronly.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614091338id_/http%3A//www.consumeronly.com/Privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy
+# Compare Prices on ConsumerOnly.com
 
-  |    
+|    
 At ConsumerOnly.com we appreciate your privacy and hope that you feel comfortable trusting us. ConsumerOnly.com provides a comparison shopping service that enables consumers to compare prices, products and stores when they shop online. We believe that you have a right to know what information we collect, how we intend to use that information, whom we intend to share it with, and what measures we take to keep that information secure. 
 
 ## Collecting Your Information
@@ -31,8 +31,6 @@ This Website Privacy Statement is effective as of the date listed below. Even if
 
 ## Questions?
 
-We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/web/20091213142009id_/http%3A//www.consumeronly.com/contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
+We welcome any questions or comments you have about our privacy practices. Please feel free to contact us at: [Feedback](https://web.archive.org/Contact.aspx). **Effective Date: Privacy Notice last modified April 5, 2009.**
 
-© 2009 ConsumerOnly.com 
-
-|  
+© 2010 ConsumerOnly.com 
