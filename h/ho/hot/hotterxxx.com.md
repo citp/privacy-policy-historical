@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotterxxx.com privacy policy that was archived on 2008-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081217152335id_/http%3A//www.hotterxxx.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotterxxx.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614064255id_/http%3A//www.hotterxxx.com/%3Fpage%3Dprivacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,11 +21,8 @@ This Privacy Policy covers our treatment of all personally identifiable informat
 
 **Information Sharing and Disclosure**
 
-  * We will send personally identifiable information about you to other companies or organizations when:
-    * We need to share your information to provide the product or service you have requested;   
-
-    * We need to send the information to companies who work on behalf of us to provide a product or service to you;   
-
+  * No personal information will be shared with third parties without the customer's permission.
+  * We will send personally identifiable information about you to other companies or organizations if:
     * We respond to subpoenas, court Orders or legal process; or   
 
     * We find that your actions on our web site violate our Terms of Use, if any.   
