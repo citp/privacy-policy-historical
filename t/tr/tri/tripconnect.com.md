@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2009-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090620201545id_/http%3A//www.tripconnect.com/tripconnect/info_privacypolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripconnect.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614061230id_/http%3A//www.tripconnect.com/tripconnect/info_privacypolicy.do) for the most accurate reproduction.*
 
-# TripConnect - Travel Reviews and Travel Advice on Destinations and Hotels
+# TripConnect - Travel advice on destinations and reviews of hotels
 
 [ ](http://www.truste.org/ivalidate.php?url=www.tripconnect.com&sealid=101)
 
