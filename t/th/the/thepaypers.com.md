@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403141507id_/http%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thepaypers.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614210233id_/http%3A//www.thepaypers.com/aboutus/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
-# The Paypers. Insights in payments.
+# The Paypers privacy policy and use of personal information
 
 Privacy Policy Data privacy
 
@@ -8,7 +8,7 @@ Information we collect may include personal data related to individuals such as 
 
 Sharing your data
 
-Because The Paypers sometimes operates with partners, we may occasionally use our contact base as a channel for those partners. Your data will not be transferred to them in such cases. We assure that we will not do so for content that is not within the scope of our professional activities. Moreover, if you receive such information, The Paypers will always ensure an opt-out possibility for further notifications.
+Because [ The Paypers](http://www.thepaypers.com/news) sometimes operates with partners, we may occasionally use our contact base as a channel for those partners. Your data will not be transferred to them in such cases. We assure that we will not do so for content that is not within the scope of our professional activities. Moreover, if you receive such information, The Paypers will always ensure an opt-out possibility for further notifications.
 
 Identification data
 
@@ -16,7 +16,7 @@ When you voluntarily supply us with your personal information such as your name,
 
 Browsing
 
-If you browse The Paypers website, you do so anonymously. We may use your IP address (the Internet address of your computer) to administer our website and to collect and distribute aggregate statistics about our visitors such as traffic patterns and related site information.
+If you browse [ The Paypers website](http://www.thepaypers.com/news), you do so anonymously. We may use your IP address (the Internet address of your computer) to administer our website and to collect and distribute aggregate statistics about our visitors such as traffic patterns and related site information.
 
 Cookies
 
