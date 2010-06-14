@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213113102id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ha.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614052302id_/http%3A//www.ha.com/c/privacy.zx) for the most accurate reproduction.*
 
 # Heritage Privacy Policy
 
-  
 Heritage Privacy Policy  
 Information that you provide us is held in confidence, except as herein noted. We do not sell your information to third parties nor do we provide it for any third party's general commercial usage. Certain anonymous information may be used in our archival files such as prices realized for specific items. We reserve the right to share information, when we deem appropriate, with third parties that are acting proper legal authority (e.g. subpoenas), including police and governmental agencies. We respond to credit references initiated by you or in the trade. In such instances, we generally will verify whether you are a known customer, the length of time you may have done business with us, your high credit, and whether your account is in good standing. 
 
