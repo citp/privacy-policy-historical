@@ -1,30 +1,77 @@
-<!--The following is the downloaded HTML source of the appboy.com privacy policy that was archived on 2009-12-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091212092648id_/http%3A//appboy.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the appboy.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614065628id_/http%3A//www.appboy.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:og="http://opengraphprotocol.org/schema/" xmlns:fb="http://developers.facebook.com/schema/"><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8">
 	<meta http-equiv="imagetoolbar" content="false">
 	<meta name="description" content="">
 	<meta name="keywords" content="">
 	<meta name="author" content="Lift Interactive">
 	<meta name="copyright" content="AppBoy">
-	<title>AppBoy</title>
-	<link rel="stylesheet" type="text/css" href="http://static.appboy.com/css/reset.css" media="all">
-	<link rel="stylesheet" type="text/css" href="http://static.appboy.com/css/screen.css" media="all">
-	<link rel="stylesheet" type="text/css" href="http://static.appboy.com/fancybox/jquery.fancybox.css" media="all">
+	<meta property="fb:admins" content="1630230002">
+    <meta property="og:site_name" content="AppBoy.com">
+    <meta property="og:description" content="Appboy is a social outlet for mobile app lovers. 
+             Got a great app or a unique idea? Get feedback and use our community to get the word out.">
 	
+	
+	<!--[if IE 6]>
+	<meta http-equiv="X-UA-Compatible" content="chrome=1">
+	<![endif]--> 
+	
+	<title>Appboy</title>
+	
+	<link rel="shortcut icon" type="image/x-icon" href="http://new-static.appboy.com/img/favicon.ico">
+	<link rel="apple-touch-icon" href="http://new-static.appboy.com/img/iPhoneIcon.png">
 	<link rel="alternate" type="application/rss+xml" title="new apps" href="/feeds/apps/">
     <link rel="alternate" type="application/rss+xml" title="new ideas" href="/feeds/ideas/">
-	
-	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
-	<script type="text/javascript" src="http://static.appboy.com/js/jquery.ifixpng.js"></script>
-	<script type="text/javascript" src="http://static.appboy.com/js/jquery.tooltip.js" charset="utf-8"></script>
-	<script type="text/javascript" src="http://static.appboy.com/fancybox/jquery.fancybox.js" charset="utf-8"></script>
+    
+	<link rel="stylesheet" type="text/css" href="http://new-static.appboy.com/css/screen.css" media="all">
+	<!--[if IE]>
+	<link rel="stylesheet" type="text/css" href="http://new-static.appboy.com/css/ie.css" media="all" />
+	<![endif]-->
+	<!--[if IE 7]>
+	  <link rel="stylesheet" type="text/css" media="screen" href="http://new-static.appboy.com/css/ie7.css" />
+	<![endif]-->
+	<!--[if IE 8]>
+	  <link rel="stylesheet" type="text/css" media="screen" href="http://new-static.appboy.com/css/ie8.css" />
+	<![endif]--> 
+
+	<script type="text/javascript" src="http://new-static.appboy.com/js/jquery.js"></script>
+	<script type="text/javascript" src="http://new-static.appboy.com/js/jquery.appboyplugins.js"></script>
+	<script type="text/javascript" src="http://new-static.appboy.com/js/jquery.cycle.all.min.js"></script>
+	<script type="text/javascript" src="http://new-static.appboy.com/v2-js/jquery.liftTools.js"></script>
+    <script type="text/javascript" src="http://platform.twitter.com/anywhere.js?id=hSCHliVOlM39EbA0WMgJNw&amp;v=1"></script>
 	
 	
 	
 	<script type="text/javascript" charset="utf-8">
 		$(document).ready(function(){
+			$('#main').wrapInner('<div id="main-top"/>');
+			$('#searchText').defaultText();
+			
+			$('#blog-button').hover(
+				function(){$(this).stop().animate({ top: "-23px" }, 250 );},
+				function(){$(this).stop().animate({ top: "-28px" }, 250 );});
+			
+			$('#twitter-button').hover(
+				function(){$(this).stop().animate({ top: "-45px" }, 250 );},
+				function(){$(this).stop().animate({ top: "-50px" }, 250 );});
+			
+			$('#facebook-button').hover(
+				function(){$(this).stop().animate({ top: "-2px" }, 250 );},
+				function(){$(this).stop().animate({ top: "-7px" }, 250 );});
+				
+			$("#search-text").val("Search AppBoy").focus(function(){
+				if ($(this).val() == "Search AppBoy") {
+				    $(this).val("");
+				}
+				})
+			.blur(function(){
+				if ($(this).val() == "") {
+				    $(this).val("Search AppBoy");
+				}
+			});
+			
 			//	add click functionality to top rated apps.
 			$('#top-rated-apps li').click(function(){
 				var href = $(this).find('a:first').attr('href');
@@ -40,11 +87,26 @@
 			//	add checkbox class to checkbox inputs
 			$('form input[type="checkbox"]').addClass('checkbox');
 			
+			//	js review validation
+			$('form.commentForm').submit(function(){
+				if($(this).find('#id_comment').val() == ""){
+					$(this).addClass('error');
+					return false;
+				}
+			});
+			
 			//	js comment validation
-			$('#add-comment form').submit(function(){
-				if($('#id_comment').val() == ""){
-					var e = $('<dd>').addClass('error').html("This field is required.");
-					$(this).find('dl').prepend(e);
+			$('form.reviewForm').submit(function(){
+				if($(this).find('#id_text').val() == ""){
+					$(this).addClass('error');
+					return false;
+				}
+			});
+			
+			//	js reply validation
+			$('form.commentForm').submit(function(){
+				if($(this).find('.id_comment').val() == ""){
+					$(this).addClass('error');
 					return false;
 				}
 			});
@@ -65,7 +127,7 @@
 					$(this).next().attr('value',$(this).attr('value'));
 				});
 				$(this).append($('<input>').addClass('fakeinput'));
-				$(this).append($('<img>').attr('src','http://static.appboy.com/img/btn-browse.jpg').attr('alt','Browse').addClass('fakebtn'));
+				$(this).append($('<img>').attr('src','http://new-static.appboy.com/img/btn-browse.jpg').attr('alt','Browse').addClass('fakebtn'));
 			});
 			
 			//	toggle toolbar search
@@ -88,7 +150,18 @@
 				'overlayShow': true,
 				'centerOnScroll': true,
 				'frameWidth': 400,
-				'frameHeight': 190,
+				'frameHeight': 280,
+				'hideOnContentClick': false
+			});
+			
+			//	devices model
+			$("a.notice-settings").fancybox({
+				'overlayOpacity': 0.5,
+				'overlayColor': '#000',
+				'overlayShow': true,
+				'centerOnScroll': true,
+				'frameWidth': 400,
+				'frameHeight': 210,
 				'hideOnContentClick': false
 			});
 			
@@ -101,7 +174,7 @@
 					}else{
 						$(this).addClass("selected");
 						$(this).find(":checkbox").attr("checked","checked");
-					}
+					};
 					return false;
 				}
 			);
@@ -109,43 +182,70 @@
 			//	external links
 			$("a[href*='http://']:not([href*='"+location.hostname+"'])").attr("target","_blank").addClass('ext');
 			
-			$('#blog-button').hover(
-				function(){$(this).animate({ top: "-23px" }, 250 );},
-				function(){$(this).animate({ top: "-28px" }, 250 );});
 			
-			$('#twitter-button').hover(
-				function(){$(this).animate({ top: "-45px" }, 250 );},
-				function(){$(this).animate({ top: "-50px" }, 250 );});
-			
-			$('#facebook-button').hover(
-				function(){$(this).animate({ top: "-2px" }, 250 );},
-				function(){$(this).animate({ top: "-7px" }, 250 );});
-				
-			$("#search-text").val("Search AppBoy").focus(function(){
-				if ($(this).val() == "Search AppBoy") {
-				    $(this).val("");
-				}
-				})
-			.blur(function(){
-				if ($(this).val() == "") {
-				    $(this).val("Search AppBoy");
-				}
-			});
 		});
 	</script>
-	<!--[if IE]>
-	<link rel="stylesheet" type="text/css" href="http://static.appboy.com/css/ie.css" media="all" />
-	<![endif]-->
+	
+	<script type="text/javascript">
+	  function onAnyWhereLoad(twitter) {
+	    // this is the callback function you specified in your initializer
+	    twitter.hovercards();
+	    twitter.linkifyUsers();
+	  };
+	</script>
 
 	
-</head>
+<script type="text/javascript" async="" src="https://i.kissmetrics.com/i.js"></script><script type="text/javascript" async="" src="https://s3.amazonaws.com/scripts.kissmetrics.com/9b4de731b7f8a778d5b5f688d7121616f48366dc.1.js"></script><script type="text/javascript" async="" src="//s3.buysellads.com/ac/bsa.js"></script></head>
 <body id="www-appboy-com" class="flatpage">
+
+  
+  <!-- kissmetrics start -->
+  <script type="text/javascript">
+    var _kmq = _kmq || [];
+    (function(){function _kms(u,d){if(navigator.appName.indexOf("Microsoft")==0 && d)document.write("<scr"+"ipt defer='defer' async='true' src='"+u+"'></scr"+"ipt>");else{var s=document.createElement('script');s.type='text/javascript';s.async=true;s.src=u;(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(s);}}_kms('https://i.kissmetrics.com/i.js');_kms('http'+('https:'==document.location.protocol ? 's://s3.amazonaws.com/' : '://')+'scripts.kissmetrics.com/9b4de731b7f8a778d5b5f688d7121616f48366dc.1.js',1);})();
+    
+    
+        _kmq.push(['identify', 'Guest']);
+    
+  
+    </script>
+  <!-- kissmetrics end -->
+  
+
+<!--[if IE 6]>
+<!-- Trying to give IE6 users a chance at viewing a nice Appboy -->
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"> </script>
+ 
+<div id="placeholder" class="chromeframe"></div>
+
+<script>
+ CFInstall.check({
+    node: "placeholder",
+    destination: "http://www.waikiki.com"
+  });
+</script>
+<!--[endif]----> 
+
+<!-- BuySellAds.com Ad Code -->
+<script type="text/javascript">
+(function(){
+  var bsa = document.createElement('script');
+	 bsa.type = 'text/javascript';
+	 bsa.async = true;
+	 bsa.src = '//s3.buysellads.com/ac/bsa.js';
+  (document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(bsa);
+})();
+</script>
+<!-- END BuySellAds.com Ad Code -->
+
+
+
 
 
 	<div id="main">
 		<div class="wrap" id="brand-wrap">
 			<div id="branding" class="col2">
-				<h1><a id="logo" href="/">AppBoy</a></h1>
+				<h1><a id="logo" href="/">Appboy</a></h1>
 				<ul id="nav">
 					
 						<li><a id="nav-join" href="/register/" class="">Join</a>
@@ -178,13 +278,12 @@
 				</ul>
 				
 			</div>
-			<div id="device-display">
-				
-				<ul>
-					<li>
-						<h2>Now browsing: </h2>
-						<p><a href="#device-model" class="model">Change settings »</a></p>
-					</li>
+			
+			<!-- Browsing Devices -->
+			<div id="device-settings">
+				<p>Browsing<br>
+				<a href="#device-model" id="change-setting" class="model">change settings</a></p>
+				<ul id="devices">
 					
 						<li><span class="device-android"></span></li>
 					
@@ -192,10 +291,13 @@
 					
 						<li><span class="device-pre"></span></li>
 					
+						<li><span class="device-ipad"></span></li>
+					
 						<li><span class="device-iphone"></span></li>
 					
 				</ul>
 			</div>
+			
 		
 		
 		</div>
@@ -214,24 +316,30 @@
 			</div> 
 			
 			<div class="wrap" id="standard-toolbar">
-				<div id="filter-details">
-				
+			
 				<!-- User Tools -->
 				
-					Do I know you? <a href="/login/" title="">Login</a> to continue or <a href="/register/" title="">Join</a> AppBoy » | <a href="#device-model" class="model" title=""> Change Phone</a>
+					<form class="connect-button" name="login" method="post" action="/social/facebook/login/"> 
+							<input type="image" onclick="facebookConnect(this.form);return false;" id="facebookFormButton" src="http://new-static.appboy.com/v2-img/icon-facebookconnect.jpg"> 
+							<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+						
+							<p id="auth"><a href="/login/" class="login">Login</a> or <a href="/register/" class="join">Join</a> <strong>Appboy</strong></p>
+					</form>
 				
 				
-				<form action="/search/" method="get" id="search-form">
-						<input id="search-text" name="q" value="Search AppBoy" type="text">
-						<input class="submit" type="submit" id="search-submit" value="Search">
+				<!-- Search -->
+				<form action="/search" method="get" id="searchForm">
+					<input id="searchText" name="q" value="Search AppBoy!" type="text">
+					<input class="submit" id="searchSubmit" type="submit" value="">
 				</form>
-								
-				</div>
+				<div class="clear"></div>
 				
 				<div id="device-model" style="display:none;">
 					<form action="/platform/select/" method="post">
-						<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="5d567429d7907527e40a30c7c8495a1d"></div>
+						<div style="display:none"><input type="hidden" name="csrfmiddlewaretoken" value="19864ae8c47e5d68b6188705cbf67903"></div>
 						<ul id="device-options">
+						
+                        
 	    				
 	                        <li id="device-android" class="selected">
 		                        <label for="platform-3">Android</label>
@@ -257,14 +365,23 @@
 		                    	<div class="clear"></div>
 		                    </li>
 	    				
+	                        <li id="device-ipad" class="selected">
+		                        <label for="platform-6">iPad</label>
+		                        <a class="checkbox-select" href="#">Select</a>
+		                        <a class="checkbox-deselect" href="#">Cancel</a>
+		                        <input type="checkbox" class="checkbox_replace" name="select-ipad" id="platform-6" checked="checked">
+		                    	<div class="clear"></div>
+		                    </li>
+	    				
 	                        <li id="device-iphone" class="selected">
-		                        <label for="platform-1">iPhone</label>
+		                        <label for="platform-1">iPhone / iPod Touch</label>
 		                        <a class="checkbox-select" href="#">Select</a>
 		                        <a class="checkbox-deselect" href="#">Cancel</a>
 		                        <input type="checkbox" class="checkbox_replace" name="select-iphone" id="platform-1" checked="checked">
 		                    	<div class="clear"></div>
 		                    </li>
 	    				
+                        
 	                        
 	    					<li class="saver"><input type="submit" class="submit" value="save"></li>
 						</ul>
@@ -282,90 +399,80 @@
 	<div class="wrap">
 		<div id="main-content" class="col2">
 			<div class="section">
-				<h2>Appboy’s Privacy Policy</h2>
+					<h2>Appboy’s Privacy Policy</h2>
 
-<p>Appboy’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Appboy, located at <a href="http://appboy.com">http://appboy.com</a> and its directly associated domains (collectively, “Appboy” or “Website”)<br>
-By using or accessing Appboy, you are accepting the practices described in this Privacy Policy.<br>
-The Information We Collect</p>
+	<p>Appboy’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Appboy, located at http://appboy.com and its directly associated domains (collectively, “Appboy” or “Website”)<br>By using or accessing Appboy, you are accepting the practices described in this Privacy Policy.<br>The Information We Collect</p>
 
-<p>When you visit Appboy you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.</p>
+	<p>When you visit Appboy you provide us with two types of information: personal information you knowingly choose to disclose that is collected by us and Web Site use information collected by us as you interact with our Web Site.</p>
 
-<p>When you register with Appboy, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, and any other personal or preference information that you provide to us.</p>
+	<p>When you register with Appboy, you provide us with certain personal information, such as your name, your email address, your telephone number, your address, your gender, and any other personal or preference information that you provide to us.</p>
 
-<p>When you enter Appboy, we collect your browser type and IP address. This information is gathered for all Appboy visitors. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Appboy. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.</p>
+	<p>When you enter Appboy, we collect your browser type and IP address. This information is gathered for all Appboy visitors. In addition, we store certain information from your browser using “cookies.” A cookie is a piece of data stored on the user’s computer tied to information about the user. We use session ID cookies to confirm that users are logged in. These cookies terminate once the user closes the browser. By default, we use a persistent cookie that stores your login ID (but not your password) to make it easier for you to login when you come back to Appboy. You can remove or block this cookie using the settings in your browser if you want to disable this convenience feature.</p>
 
-<p>When you use Appboy, you may set up your personal profile, form relationships, send messages, perform searches and queries, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.</p>
+	<p>When you use Appboy, you may set up your personal profile, form relationships, send messages, perform searches and queries, add applications, and transmit information through various channels. We collect this information so that we can provide you the service and offer personalized features. In most cases, we retain it so that, for instance, you can return to view prior messages you have sent or easily see your friend list. When you update information, we usually keep a backup copy of the prior version for a reasonable period of time to enable reversion to the prior version of that information.</p>
 
-<p>You post User Content (as defined in the Appboy <a href="/terms/">Terms of Use</a>) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.</p>
+	<p>You post User Content (as defined in the Appboy <a href="/terms/">Terms of Use</a>) on the Site at your own risk. Although we allow you to set privacy options that limit access to your pages, please be aware that no security measures are perfect or impenetrable. We cannot control the actions of other Users with whom you may choose to share your pages and information. Therefore, we cannot and do not guarantee that User Content you post on the Site will not be viewed by unauthorized persons. We are not responsible for circumvention of any privacy settings or security measures contained on the Site. You understand and acknowledge that, even after removal, copies of User Content may remain viewable in cached and archived pages or if other Users have copied or stored your User Content.</p>
 
-<p>Any improper collection or misuse of information provided on Appboy is a violation of the Appboy <a href="/terms/">Terms of Service</a> and should be reported through the form on our privacy help page.<br>
-If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend’s email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Appboy stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us through the form on our help page to request that we remove this information from our database.</p>
+	<p>Any improper collection or misuse of information provided on Appboy is a violation of the Appboy <a href="/terms/">Terms of Service</a> and should be reported through the form on our privacy help page.<br>If you choose to use our invitation service to tell a friend about our site, we will ask you for information needed to send the invitation, such as your friend’s email address. We will send your friend an email or instant message in your name inviting him or her to visit the site, and may send up to two reminders to them. Appboy stores this information to send invitations and reminders, to register a friend connection if your invitation is accepted, to allow you to see invitations you have sent, and to track the success of our referral program. Your friend may contact us through the form on our help page to request that we remove this information from our database.</p>
 
-<p>Appboy may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Appboy service through the operation of the service in order to provide you with more useful information and a more personalized experience.<br>
-By using Appboy, you are consenting to have your personal data transferred to and processed in the United States.</p>
+	<p>Appboy may also collect information about you from other sources, such as newspapers, blogs, instant messaging services, and other users of the Appboy service through the operation of the service in order to provide you with more useful information and a more personalized experience.<br>By using Appboy, you are consenting to have your personal data transferred to and processed in the United States.</p>
 
-<h3>Children Under Age 13</h3>
+	<h3>Children Under Age 13</h3>
 
-<p>Appboy does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for AppBoy or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Appboy. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through the form on our privacy help page.</p>
+	<p>Appboy does not knowingly collect or solicit personal information from anyone under the age of 13 or knowingly allow such persons to register. If you are under 13, please do not attempt to register for AppBoy or send any information about yourself to us, including your name, address, telephone number, or email address. No one under age 13 may provide any personal information to or on Appboy. In the event that we learn that we have collected personal information from a child under age 13 without verification of parental consent, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us through the form on our privacy help page.</p>
 
-<h3>Children Between the Ages of 13 and 18</h3>
+	<h3>Children Between the Ages of 13 and 18</h3>
 
-<p>We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.<br>
-Use of Information Obtained by Appboy</p>
+	<p>We recommend that minors 13 years of age or older ask their parents for permission before sending any information about themselves to anyone over the Internet.<br>Use of Information Obtained by Appboy</p>
 
-<p>When you register with Appboy, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people you enable yourself to connect with on Appboy. We may occasionally use your name and email address to send you notifications regarding new services offered by Appboy that we think you may find valuable.</p>
+	<p>When you register with Appboy, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people you enable yourself to connect with on Appboy. We may occasionally use your name and email address to send you notifications regarding new services offered by Appboy that we think you may find valuable.</p>
 
-<p>Profile information is used by Appboy primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings.<br>
-Profile information you submit to Appboy will be available to users of Appboy.</p>
+	<p>Profile information is used by Appboy primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings.<br>Profile information you submit to Appboy will be available to users of Appboy. </p>
 
-<p>Appboy may send you service-related announcements from time to time through the general operation of the service. For instance, if an Appboy member sends you a new message, you may receive an email alerting you to that fact.</p>
+	<p>Appboy may send you service-related announcements from time to time through the general operation of the service. For instance, if an Appboy member sends you a new message, you may receive an email alerting you to that fact.</p>
 
-<p>Generally, you may opt out of such emails from the Notifications page, though Appboy reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
+	<p>Generally, you may opt out of such emails from the Notifications page, though Appboy reserves the right to send you notices about your account even if you opt out of all voluntary email notifications.</p>
 
-<p>Appboy may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Appboy. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they’re more likely to be interesting to you.</p>
+	<p>Appboy may use information in your profile without identifying you as an individual to third parties. We do this for purposes such as aggregating how many people in a network like a band or movie and personalizing advertisements and promotions so that we can provide you Appboy. We believe this benefits you. You can know more about the world around you and, where there are advertisements, they’re more likely to be interesting to you.</p>
 
-<p>We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Appboy Platform developers and other users of Appboy, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile.</p>
+	<p>We may use information about you that we collect from other sources, including but not limited to newspapers and Internet sources such as blogs, instant messaging services, Appboy Platform developers and other users of Appboy, to supplement your profile. Where such information is used, we generally allow you to specify in your privacy settings that you do not want this to be done or to take other actions that limit the connection of this information to your profile.</p>
 
-<h3>Sharing Your Information with Third Parties</h3>
+	<h3>Sharing Your Information with Third Parties</h3>
 
-<p>Appboy is about sharing information with others while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends through Appboy. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:</p>
+	<p>Appboy is about sharing information with others while providing you with privacy settings that restrict other users from accessing your information. We allow you to choose the information you provide to friends through Appboy. Our network architecture and your privacy settings allow you to make informed choices about who has access to your information. We do not provide contact information to third party marketers without your permission. We share your information with third parties only in limited circumstances where we believe such sharing is 1) reasonably necessary to offer the service, 2) legally required or, 3) permitted by you. For example:</p>
 
-<ul>
-<li>Unlike most sites on the Web, Appboy limits access to site information by third party search engine “crawlers” (e.g. Google, Yahoo, <span class="caps">MSN</span>, Ask). Appboy takes action to block access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile (e.g. number of wall postings). </li>
-<li>We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Appboy, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Appboy-specified purposes. </li>
-<li>We occasionally provide demonstration accounts that allow non-users a glimpse into the Appboy world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse. </li>
-<li>We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Appboy service or using the Appboy name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies. </li>
-<li>We let you choose to share information with marketers or electronic commerce providers through on-site offers. </li>
-<li>We may offer stores or provide services jointly with other companies on Appboy. You can tell when another company is involved in any store or service provided on Appboy, and we may share customer information with that company in connection with your use of that store or service. </li>
-<li>Appboy Beacon is a means of sharing actions you have taken on third party sites, such as when you make a purchase or post a review, with your friends on Appboy. In order to provide you as a Appboy user with clear disclosure of the activity information being collected on third party sites and potentially shared with your friends on Appboy, we collect certain information from that site and present it to you after you have completed an action on that site. You have the choice to have Appboy discard that information, or to share it with your friends.  Like many other websites that interact with third party sites, we may receive some information even if you are logged out from Appboy, or that pertains to non-Appboy users, from those sites in conjunction with the technical operation of the system. In cases where Appboy receives information on users that are not logged in, or on non-Appboy users, we do not attempt to associate it with individual Appboy accounts and will discard it. </li>
-<li>If the ownership of all or substantially all of the Appboy business, or individual business units owned by Appboy, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.</li>
-</ul>
+	<ul>
+		<li>Unlike most sites on the Web, Appboy limits access to site information by third party search engine “crawlers” (e.g. Google, Yahoo, <span class="caps">MSN</span>, Ask). Appboy takes action to block access by these engines to personal information beyond your name, profile picture, and limited aggregated data about your profile (e.g. number of wall postings). </li>
+		<li>We may provide information to service providers to help us bring you the services we offer. Specifically, we may use third parties to facilitate our business, such as to host the service at a co-location facility for servers, to send out email updates about Appboy, to remove repetitive information from our user lists, to process payments for products or services, or to provide search results or links (including sponsored links). In connection with these offerings and business operations, our service providers may have access to your personal information for use for a limited time in connection with these business activities. Where we utilize third parties for the processing of any personal information, we implement reasonable contractual and technical protections limiting the use of that information to the Appboy-specified purposes. </li>
+		<li>We occasionally provide demonstration accounts that allow non-users a glimpse into the Appboy world. Such accounts have only limited capabilities (e.g., messaging is disabled) and passwords are changed regularly to limit possible misuse. </li>
+		<li>We may be required to disclose user information pursuant to lawful requests, such as subpoenas or court orders, or in compliance with applicable laws. We do not reveal information until we have a good faith belief that an information request by law enforcement or private litigants meets applicable legal standards. Additionally, we may share account or other information when we believe it is necessary to comply with law, to protect our interests or property, to prevent fraud or other illegal activity perpetrated through the Appboy service or using the Appboy name, or to prevent imminent bodily harm. This may include sharing information with other companies, lawyers, agents or government agencies. </li>
+		<li>We let you choose to share information with marketers or electronic commerce providers through on-site offers. </li>
+		<li>We may offer stores or provide services jointly with other companies on Appboy. You can tell when another company is involved in any store or service provided on Appboy, and we may share customer information with that company in connection with your use of that store or service. </li>
+		<li>Appboy Beacon is a means of sharing actions you have taken on third party sites, such as when you make a purchase or post a review, with your friends on Appboy. In order to provide you as a Appboy user with clear disclosure of the activity information being collected on third party sites and potentially shared with your friends on Appboy, we collect certain information from that site and present it to you after you have completed an action on that site. You have the choice to have Appboy discard that information, or to share it with your friends.  Like many other websites that interact with third party sites, we may receive some information even if you are logged out from Appboy, or that pertains to non-Appboy users, from those sites in conjunction with the technical operation of the system. In cases where Appboy receives information on users that are not logged in, or on non-Appboy users, we do not attempt to associate it with individual Appboy accounts and will discard it. </li>
+		<li>If the ownership of all or substantially all of the Appboy business, or individual business units owned by Appboy, Inc., were to change, your user information may be transferred to the new owner so the service can continue operations. In any such transfer of information, your user information would remain subject to the promises made in any pre-existing Privacy Policy.</li>
+	</ul>
 
-<p>When you use Appboy, certain information you post or share with third parties (e.g., a friend), such as personal information, comments, messages, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, or other items , this information may become publicly available.<br>
-Links</p>
+	<p>When you use Appboy, certain information you post or share with third parties (e.g., a friend), such as personal information, comments, messages, Marketplace listings or other information, may be shared with other users in accordance with the privacy settings you select. All such sharing of information is done at your own risk. Please keep in mind that if you disclose personal information in your profile or when posting comments, messages, or other items , this information may become publicly available.<br>Links</p>
 
-<p>Appboy may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Appboy.</p>
+	<p>Appboy may contain links to other websites. We are of course not responsible for the privacy practices of other web sites. We encourage our users to be aware when they leave our site to read the privacy statements of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by Appboy.</p>
 
-<h3>Third Party Advertising</h3>
+	<h3>Third Party Advertising</h3>
 
-<p>Advertisements that appear on Appboy are sometimes delivered (or “served”) directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Appboy does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Appboy unless you choose to share it with them.<br>
-This privacy policy covers the use of cookies by Appboy and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>
+	<p>Advertisements that appear on Appboy are sometimes delivered (or “served”) directly to users by third party advertisers. They automatically receive your IP address when this happens. These third party advertisers may also download cookies to your computer, or use other technologies such as JavaScript and “web beacons” (also known as “1×1 gifs”) to measure the effectiveness of their ads and to personalize advertising content. Doing this allows the advertising network to recognize your computer each time they send you an advertisement in order to measure the effectiveness of their ads and to personalize advertising content. In this way, they may compile information about where individuals using your computer or browser saw their advertisements and determine which advertisements are clicked. Appboy does not have access to or control of the cookies that may be placed by the third party advertisers. Third party advertisers have no access to your contact information stored on Appboy unless you choose to share it with them.<br>This privacy policy covers the use of cookies by Appboy and does not cover the use of cookies or other tracking technologies by any of its advertisers.</p>
 
-<h3>Changing or Removing Information</h3>
+	<h3>Changing or Removing Information</h3>
 
-<p>Access and control over most personal information on Appboy is readily available through the profile editing tools. Appboy users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Appboy account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Appboy.<br>
-Where you make use of the communication features of the service to share information with other individuals on Appboy, however, (e.g., sending a personal message to another Appboy user) you generally cannot remove such communications.<br>
-Security</p>
+	<p>Access and control over most personal information on Appboy is readily available through the profile editing tools. Appboy users may modify or delete any of their profile information at any time by logging into their account. Information will be updated immediately. Individuals who wish to deactivate their Appboy account may do so on the My Account page. Removed information may persist in backup copies for a reasonable period of time but will not be generally available to members of Appboy.<br>Where you make use of the communication features of the service to share information with other individuals on Appboy, however, (e.g., sending a personal message to another Appboy user) you generally cannot remove such communications.<br>Security</p>
 
-<p>Appboy takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about <span class="caps">SSL</span>, go to <a href="http://en.wikipedia.org/wiki/Secure_Sockets_Layer">http://en.wikipedia.org/wiki/Secure_Sockets_Layer</a>). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Appboy Web Site, please contact us through the form on our privacy help page.</p>
+	<p>Appboy takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (<span class="caps">SSL</span>). (To learn more about <span class="caps">SSL</span>, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Appboy Web Site, please contact us through the form on our privacy help page.</p>
 
-<h3>Terms of Use, Notices and Revisions</h3>
+	<h3>Terms of Use, Notices and Revisions</h3>
 
-<p>Your use of Appboy, and any disputes arising from it, is subject to this Privacy Policy as well as our <a href="/terms/">Terms of Use</a> and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
+	<p>Your use of Appboy, and any disputes arising from it, is subject to this Privacy Policy as well as our <a href="/terms/">Terms of Use</a> and all of its dispute resolution provisions including arbitration, limitation on damages and choice of law. We reserve the right to change our Privacy Policy and our Terms of Use at any time. Non-material changes and clarifications will take effect immediately, and material changes will take effect within 30 days of their posting on this site. If we make changes, we will post them and will indicate at the top of this page the policy’s new effective date. If we make material changes to this policy, we will notify you here, by email, or through notice on our home page. We encourage you to refer to this policy on an ongoing basis so that you understand our current privacy policy. Unless stated otherwise, our current privacy policy applies to all information that we have about you and your account.</p>
 
-<h3>Contacting the Web Site</h3>
+	<h3>Contacting the Web Site</h3>
 
-<p>If you have any questions about this privacy policy, please contact us here.</p>
+	<p>If you have any questions about this privacy policy, please contact us here.</p>
 			</div>
 		</div>
 
@@ -375,102 +482,67 @@ Security</p>
 	</div>
 
 		
-		<!-- Ads -->
-		<div id="iconwall" class="wrap">
-			<h3>Icon Wall</h3>
-			<script type="text/javascript">
-				Vertical1240002 = false;
-				ShowAdHereBanner1240002 = true;
-				RepeatAll1240002 = true;
-				NoFollowAll1240002 = false;
-				BannerStyles1240002 = new Array(
-				    "a{display:block;font-size:11px;color:#888;font-family:verdana,sans-serif;margin:0 4px 10px 0;text-align:center;text-decoration:none;overflow:hidden;}",
-				    "img{border:0;clear:right;}",
-				    "a.adhere{color:#666;font-weight:normal;font-size:11px;border:1px solid #121212;background:#1e1e1e;text-align:center;}",
-				    "a.adhere:hover{border:1px solid #121212;background:#1e1e1e;color:#454545;}"
-				);
-				document.write(unescape("%3Cscript src='"+document.location.protocol+"//s3.buysellads.com/1240002/1240002.js?v="+Date.parse(new Date())+"' type='text/javascript'%3E%3C/script%3E"));
-			</script><script src="https://s3.buysellads.com/1240002/1240002.js?v=1580389936000" type="text/javascript"></script>
-			<div style="clear:both"></div>
-			<p style="float:right;"><a href="http://buysellads.com/buy/detail/7626" title="" class="green" style="border:none;">Put Your App On »</a></p>
-		</div>
+		
 	</div>
 	
 	<!-- Footer -->
 	<div id="footer">
 		<div class="wrap">
-			<h2 style="display:none;">More Awesomeness</h2>
-			<div class="col2">
-				<div id="social">
-					<a href="http://blog.appboy.com" id="blog-button"><img src="http://static.appboy.com/img/footer-button-blog.png" alt="footer-button-blog" width="165" height="81"></a>
-					<a href="http://www.twitter.com/appboy" id="twitter-button"><img src="http://static.appboy.com/img/footer-button-twitter.png" alt="footer-button-twitter" width="173" height="104"></a>
-					<a href="http://www.facebook.com/pages/AppBoy/156124689277?v=wall&amp;ref=search" id="facebook-button"><img src="http://static.appboy.com/img/footer-button-facebook.png" alt="footer-button-facebook" width="166" height="99"></a>
-				</div>
-			</div>
-			<div id="footer-browse" class="col2">
-				<h3>Top 10 Categories</h3>
-				<div class="miniCol">
-					<ul>
-						
-							<li><span>1</span><a href="/store/category/books" title="">books</a></li>
-						
-							<li><span>2</span><a href="/store/category/sports" title="">sports</a></li>
-						
-							<li><span>3</span><a href="/store/category/productivity" title="">productivity</a></li>
-						
-							<li><span>4</span><a href="/store/category/games" title="">games</a></li>
-						
-							<li><span>5</span><a href="/store/category/education" title="">education</a></li>
-						
-					</ul>
-				</div>
-				<div class="miniCol last">
-					<ul>
-						
-							<li><span>6</span><a href="/store/category/navigation">navigation</a></li>
-					    
-							<li><span>7</span><a href="/store/category/entertainment">entertainment</a></li>
-					    
-							<li><span>8</span><a href="/store/category/business">business</a></li>
-					    
-							<li><span>9</span><a href="/store/category/utilities">utilities</a></li>
-					    
-							<li><span>10</span><a href="/store/category/travel">travel</a></li>
-					    
-					</ul>
-					<p><a href="/store/categories/" title="" class="green">View all »</a></p>
-				</div>
-			</div>
+			<ul id="footer-nav">
+				
+				<li><a href="/join/">Join</a></li>
+				
+				<li><a href="/apps/">Apps</a></li>
+				<li><a href="/ideas/">Ideas</a></li>
+				<li><a href="http://blog.appboy.com">Blog</a></li>
+			</ul>
+			
 			<div class="col">
-				<h3>Participate</h3>
+				<h2>View Apps By</h2>
 				<ul>
-					<li><a href="/register/" title="">Create your account</a></li>
-					<li><a href="/invite/" title="">Invite a Friend</a></li>
+					<li><a href="/store/categories/" title="">Categories</a></li>
 					<li><a href="/store/?sort=-date_posted" title="">Recent Apps</a></li>
-					<li><a href="/store/post/" title="">Submit an App</a></li>
-					<li><a href="/ideas/view/" title="">Vote on Ideas</a></li>
-					<li><a href="/ideas/post/" title="">Submit an Idea</a></li>
-					<!--<li><a href="/feedback/" title="">Give Feedback</a></li>-->
+					<li><a href="/store/?sort=-average_rating" title="">Top Rated</a></li>
 				</ul>
-			</div>	
-			<div class="col last">
-				<h3>General</h3>
+			</div>
+			
+			<div class="col">			
+				<h2>General</h2>
 				<ul>
 					<li><a href="/how-it-works/" title="">How does all this work?</a></li>
 					<li><a href="/developers/" title="">For Developers</a></li>
 					<li><a href="/advertise/" title="">Advertise with us</a></li>
+				</ul>
+				<ul>
 					<li><a href="/help/" title="">Help &amp; Support</a></li>
 					<li><a href="/privacy/" title="">Privacy Policy</a></li>
 					<li><a href="/terms/" title="">Terms of Use</a></li>
 				</ul>
 			</div>
-		</div>
-		<div class="wrap clear">
-		
 			
-			<p id="copyright">Copyright 2009 AppBoy Holdings Ltd.</p>
+			<div class="col">
+				<h2>Find Us Here</h2>
+				<ul id="social">
+					<li><a href="http://www.facebook.com/pages/AppBoy/156124689277?v=wall" id="facebook">Facebook</a></li>
+					<li><a href="http://www.twitter.com/appboy" id="twitter">Twitter</a></li>
+				</ul>
+			</div>
+			
+			<div class="clear"></div>
+			
+			<p id="copyright">Copyright 2010 AppBoy Holdings Ltd.</p>
+			
+			<!-- Ads -->
+			<div id="iconwall">
+				<h3>Icon Wall</h3>			
+				<!-- BuySellAds.com Zone Code -->
+				<div id="bsap_1240002" class="bsarocks bsap_c428b2734029c53d919cc1085a18c42d"></div>
+				<!-- END BuySellAds.com Zone Code -->
+				<div class="clear"></div>
+			</div>
 		</div>
-	</div>	
+	</div>
+	
 
 <script type="text/javascript" charset="utf-8">
 $(document).ready(function(){
@@ -492,23 +564,6 @@ $(document).ready(function(){
 	});
 });
 </script>
-<!--<script type="text/javascript">
-  var uservoiceJsHost = ("https:" == document.location.protocol) ? "https://uservoice.com" : "http://cdn.uservoice.com";
-  document.write(unescape("%3Cscript src='" + uservoiceJsHost + "/javascripts/widgets/tab.js' type='text/javascript'%3E%3C/script%3E"))
-</script>
-<script type="text/javascript">
-UserVoice.Tab.show({ 
-  key: 'appboy',
-  host: 'appboy.uservoice.com', 
-  forum: 'general', 
-  alignment: 'left',
-  background_color:'#000', 
-  text_color: 'white',
-  hover_color: '#3B9382',
-  lang: 'en'
-})
-</script>-->
-
 <script type="text/javascript" charset="utf-8">
 	var is_ssl = ("https:" == document.location.protocol);
 	var asset_host = is_ssl ? "https://s3.amazonaws.com/getsatisfaction.com/" : "http://s3.amazonaws.com/getsatisfaction.com/";
@@ -524,7 +579,6 @@ UserVoice.Tab.show({
 	feedback_widget_options.style = "idea";
 	var feedback_widget = new GSFN.feedback_widget(feedback_widget_options);
 </script>
-
 <script type="text/javascript">
 var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
 document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
@@ -534,6 +588,25 @@ try {
 var pageTracker = _gat._getTracker("UA-9986071-1");
 pageTracker._trackPageview();
 } catch(err) {}</script>
+
+
+<script src="http://static.ak.connect.facebook.com/js/api_lib/v0.4/FeatureLoader.js.php/en_US" type="text/javascript"></script>
+<script type="text/javascript">
+    FB_RequireFeatures(["XFBML"],
+        function() {
+            FB.Facebook.init("8c4926d58d9020790b1a54eb44cc7674", "/social/xd_receiver.htm")
+        }
+    );
+    function facebookConnect(form){
+        FB.Connect.requireSession();
+        FB.Facebook.get_sessionState().waitUntilReady(
+            function(){
+                form.submit();
+            }
+        );
+    }
+    _kmq.push(['record', 'Logged In With Facebook', {}]);
+</script>
 
 
 
