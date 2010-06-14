@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227154123id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uscollegesearch.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614080010id_/http%3A//www.uscollegesearch.org/us_college_search_privacy_policy.html) for the most accurate reproduction.*
 
 # Colleges and Universities at U.S. College Search
 
