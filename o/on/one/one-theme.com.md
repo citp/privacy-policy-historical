@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the one-theme.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214064445id_/http%3A//www.one-theme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the one-theme.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614050056id_/http%3A//www.one-theme.com/privacy) for the most accurate reproduction.*
 
 # One Theme Privacy
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20100614050056id_/http://www.one-theme.com/privacy/function.include)]: open_basedir restriction in effect. File(/home/one-theme/htdocs/includes/top.php) is not within the allowed path(s): (/home/onetheme:/usr/lib/php:/usr/php4/lib/php:/usr/local/lib/php:/usr/local/php4/lib/php:/tmp) in **/home/onetheme/public_html/privacy/index.php** on line **23**
+
+**Warning** : include(/home/one-theme/htdocs/includes/top.php) [[function.include](https://web.archive.org/web/20100614050056id_/http://www.one-theme.com/privacy/function.include)]: failed to open stream: Operation not permitted in **/home/onetheme/public_html/privacy/index.php** on line **23**
+
+**Warning** : include() [[function.include](https://web.archive.org/web/20100614050056id_/http://www.one-theme.com/privacy/function.include)]: Failed opening '/home/one-theme/htdocs/includes/top.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in **/home/onetheme/public_html/privacy/index.php** on line **23**
 
 **What information do we collect?**   
 We collect information from you when you register on our site or place an order.   
@@ -9,8 +15,8 @@ Like most websites, we use cookies and/or web beacons to enhance your experience
 
 **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:  
-• To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.  
-• To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
+â€¢ To process transactions Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.  
+â€¢ To send periodic emails The email address you provide for order processing, will only be used to send you information and updates pertaining to your order. 
 
 **Do we use cookies?**   
 Yes (Cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information. 
