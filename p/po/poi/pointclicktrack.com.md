@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pointclicktrack.com privacy policy that was archived on 2009-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090612014658id_/http%3A//pointclicktrack.com/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointclicktrack.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614193447id_/http%3A//www.pointclicktrack.com/index/privacy) for the most accurate reproduction.*
 
-# PointClickTrack.com - Privacy Policy
+# PointClickTrack - CPA Affiliate Network - BBB Accredited - Privacy Policy
 
 **Last Updated : January 22, 2009**
 
