@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mopvideo.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214120545id_/http%3A//www.mopvideo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mopvideo.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003223id_/http%3A//www.mopvideo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — MopVideo :: Watch Latest Top Free TV Shows and Movies Online!
+# Privacy Policy — Watch Latest TV Shows and Movies Online on Mopvideo
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
