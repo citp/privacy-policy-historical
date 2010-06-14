@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emediavitals.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214022112id_/http%3A//www.emediavitals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emediavitals.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615000525id_/http%3A//emediavitals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -27,12 +27,12 @@ Information from other sources:
 We also may periodically obtain information about you from partners and other sources, and combine that information with information we collected from you. Examples of information we may receive includes updated contact information and additional demographic information.
 
 Information collected automatically:  
-When you visit the Sites, we automatically collect and analyze certain information about your computer. This information includes but may not be limited to the IP address used to connect your computer to the Internet, information about your browser type and language, the date and time you are accessing our site, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address.
+When you visit the Sites, we automatically collect and analyze certain information about your computer. This information includes but may not be limited to the IP address used to connect your computer to the [Internet](https://web.archive.org/glossary/Internet/feed "Internet"), information about your browser type and language, the date and time you are accessing our site, the content of any undeleted cookies that your browser previously accepted from us, and the referring website address.
 
 Use of cookies and other technologies:  
 We use various technologies to collect information about your activities on our site.
 
-Cookies  
+[Cookies](https://web.archive.org/glossary/Cookies/feed "Cookies")  
 When you visit our Sites, we may assign your computer one or more "cookies." A cookie is a small text file that contains information that can later be read by us to facilitate your access to our Sites and personalize your online experience. For example, whenever you sign into our Sites, we will record your user ID in a cookie file on your computer. Cookies that EMEDIAVITALS.COM creates that are stored on the user’s hard drive do not store any personally identifiable information. If applicable, we may also record your password in this cookie file, if you checked the box entitled "Save this password for automatic sign-in." Also, through the use of a cookie, we may automatically collect information about your online activity on our site, such as the web pages you visit, the links you click, and the searches you conduct. Most browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. If you choose to decline cookies, please note that you may not be able to sign in or use some of the interactive features offered on our Sites.  
 Other Technologies  
 We may use standard Internet technology, such as Web beacons(also called clear GIFs or pixel tags) and other similar technologies, to deliver or communicate with cookies and track your use of our Sites. We also may include web beacons in e-mail messages or newsletters to determine whether messages have been opened and acted upon. The information we obtain in this manner enables us to customize the services we offer and measure the overall effectiveness of our online content, advertising campaigns, and the products and services we offer through the Sites.
@@ -55,7 +55,7 @@ In General. EMEDIAVITALS.COM uses the information we collect about you for the f
 • for the purposes for which you provided the information;  
 • to customize the advertising and content you see, including the display of targeted advertisements;  
 • to generate anonymous and/or aggregated reporting;  
-• to protect our rights and enforce our Terms of Service; and  
+• to protect our rights and enforce our [Terms](https://web.archive.org/glossary/Terms/feed "Terms") of Service; and  
 • to ensure the technical functioning of the Sites.
 
 Individuals having access to your personally identifiable information may include EMEDIAVITALS.COM employees, as well as agents and service providers who provide services on our behalf.
@@ -64,7 +64,7 @@ Also, we may share aggregated or anonymized information with our partners and ad
 
 In the event that you post personally identifiable information in discussion forums or other areas of the Sites allowing users to upload or post content, that information can be viewed by any user with access to those areas. We discourage users from posting personally identifiable information in this fashion, and any personally identifiable information you post to these areas is not covered by this Policy.
 
-4\. Choices About The User Of Your Information
+4\. Choices About The [User](https://web.archive.org/glossary/User/feed "User") Of Your Information
 
 EMEDIAVITALS.COM believes that it is important that individuals are given the opportunity to exercise choice with respect to how their personally identifiable information is collected and used. If we propose to use your personally identifiable information for any purposes other than those described in this Policy or any service-specific privacy notices, we will allow you a convenient way to opt-out of such further uses.
 
