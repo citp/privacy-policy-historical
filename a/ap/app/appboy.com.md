@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212092648id_/http%3A//appboy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appboy.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614065628id_/http%3A//www.appboy.com/privacy) for the most accurate reproduction.*
 
-# AppBoy
+# Appboy
 
 ## Appboy’s Privacy Policy
 
-Appboy’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Appboy, located at [http://appboy.com](http://appboy.com/) and its directly associated domains (collectively, “Appboy” or “Website”)  
+Appboy’s Privacy Policy is designed to help you understand how we collect and use the personal information you decide to share, and help you make informed decisions when using Appboy, located at http://appboy.com and its directly associated domains (collectively, “Appboy” or “Website”)  
 By using or accessing Appboy, you are accepting the practices described in this Privacy Policy.  
 The Information We Collect
 
@@ -36,7 +36,7 @@ Use of Information Obtained by Appboy
 When you register with Appboy, you create your own profile and privacy settings. Your profile information, as well as your name, email and photo, are displayed to people you enable yourself to connect with on Appboy. We may occasionally use your name and email address to send you notifications regarding new services offered by Appboy that we think you may find valuable.
 
 Profile information is used by Appboy primarily to be presented back to and edited by you when you access the service and to be presented to others permitted to view that information by your privacy settings.  
-Profile information you submit to Appboy will be available to users of Appboy.
+Profile information you submit to Appboy will be available to users of Appboy. 
 
 Appboy may send you service-related announcements from time to time through the general operation of the service. For instance, if an Appboy member sends you a new message, you may receive an email alerting you to that fact.
 
@@ -77,7 +77,7 @@ Access and control over most personal information on Appboy is readily available
 Where you make use of the communication features of the service to share information with other individuals on Appboy, however, (e.g., sending a personal message to another Appboy user) you generally cannot remove such communications.  
 Security
 
-Appboy takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to <http://en.wikipedia.org/wiki/Secure_Sockets_Layer>). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Appboy Web Site, please contact us through the form on our privacy help page.
+Appboy takes appropriate precautions to protect our users’ information. Your account information is located on a secured server behind a firewall. When you enter sensitive information (such as credit card number or your password), we encrypt that information using secure socket layer technology (SSL). (To learn more about SSL, go to http://en.wikipedia.org/wiki/Secure_Sockets_Layer). Because email and instant messaging are not recognized as secure communications, we request that you not send private information to us by email or instant messaging services. If you have any questions about the security of Appboy Web Site, please contact us through the form on our privacy help page.
 
 ### Terms of Use, Notices and Revisions
 
