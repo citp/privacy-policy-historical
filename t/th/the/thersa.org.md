@@ -1,11 +1,12 @@
-> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213115008id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thersa.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614210710id_/http%3A//www.thersa.org/privacy) for the most accurate reproduction.*
 
 # RSA - Privacy
 
 The RSA is committed to protecting and respecting your privacy online. This privacy policy is not intended to, and does not, create any contractual or other legal rights in or on behalf of any party.  
 
 
-**Privacy Policy**
+**  
+Privacy Policy**
 
 Please note that this Policy applies only to the RSA website. The RSA is not responsible for the privacy policies or practices of third party sites that may link from our site nor does it undertake to recommend any of those sites as places where goods or services may be purchased or offered.
 
@@ -31,4 +32,5 @@ this falling into the wrong hands. The user or subscriber is responsible for the
 
 **Contact details**
 
-Should you feel that your privacy or security is being compromised, or have any questions on this statement, please [contact the webmaster](http://rsa.build.squiz.co.ukwebmaster@rsa.org.uk/).
+Should you feel that your privacy or security is being compromised, or have any questions on this statement, please [contact the webmaster](mailto:webmaster@rsa.org.uk).  
+
