@@ -1,18 +1,12 @@
-> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2009-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090622034451id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the babynology.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614091702id_/http%3A//www.babynology.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement - Babynology.com
 
-  
-****
-
-**Baby Names  
-(Other Options) **
-
-**** | 
+**Privacy Statement**
 
 Babynology takes users privacy seriously and we ensuring that your privacy is respected and protected. Your are free to use our web site with directly providing any of your information. For more details on our Privacy Policy please read below : 
 
-Third Party Advertising - We use third-party advertising to serve ads on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+Third Party Advertising - We use third-party advertising to serve ads on our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please log on to networkadvertising.org website. 
 
 **Information We Collect and What We Do With It**
 
@@ -24,28 +18,3 @@ _Cookies_ \- Our site uses a feature of your browser to set a "cookie" on your c
 
 _Contact_ \- If you have questions about this Privacy Policy or anything else about Babynology, Contact us.  
 
-
-|  | **[Suggest A Name](https://web.archive.org/suggest-name.html)**  
----  
-  
-**[Baby Photo Contest](https://web.archive.org/photo_contest/index.html)**
-
-[](https://web.archive.org/photo_contest/index.html)  
-  
-List of My Names  
-  
-Immigrant Baby Names and the Ethnic Identity
-
-If you have immigrated from your home country and have finally arrived in your land of dreams and opportunities, an ethnic name which reflects your original culture just might pose a minor challenge or two. There is no harm in trying .... **[More..](https://web.archive.org/babyname-tips-part2.html)**  
-  
-  
-
-
-**[ Winner of Baby Photo Contest ](https://web.archive.org/photo_contest/MAISHA_29.html)**[ ](https://web.archive.org/photo_contest/MAISHA_29.html)
-
-[ ](https://web.archive.org/photo_contest/MAISHA_29.html)   
-**MAISHA**
-
-  
-  
-| 
