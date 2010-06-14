@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2009-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090403083440id_/http%3A//www.joycemeyer.org/Privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joycemeyer.org privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614235100id_/http%3A//www.joycemeyer.org/AboutUs/Privacy.htm) for the most accurate reproduction.*
 
 # Joyce Meyer Ministries — Privacy Policy
 
@@ -54,17 +54,10 @@ ______ |
 
 | 
 
-Online - [click here](https://web.archive.org/optout.htm)  
+Online - [Update Info/Unsubscribe Form](https://web.archive.org/AboutUs/contactus.htm)  
+            (select this form in the list)  
   
 ---|---|---  
-| 
-
-  *  
-
-| 
-
-Email - [webmaster@joycemeyer.org](mailto:webmaster@joycemeyer.org)  
-  
 | 
 
   *  
@@ -100,14 +93,14 @@ ____ |
 
 | 
 
-Email - [info@joycemeyer.org](mailto:info@joycemeyer.org)  
+Email - [joycemeyerinfo@joycemeyer.org](mailto:joycemeyerinfo@joycemeyer.org)  
   
 ---|---|---  
 | 
 
   *  
 
-| Letter-  
+| Letter -  
 | Joyce Meyer Ministries  
 | P.O. Box 655  
 | Fenton, MO 63026  
@@ -125,4 +118,4 @@ JMM reserves the right to make changes to this Privacy Policy without advance no
 
 **Contact Us**
 
-If you have any further questions regarding our Privacy Policy, please call us at 1-800-727-9673 or (636) 349-0303, or email us at [info@joycemeyer.org](mailto:info@joycemeyer.org).
+If you have any further questions regarding our Privacy Policy, please call us at 1-800-727-9673 or (636) 349-0303, or email us at [joycemeyerinfo@joycemeyer.org](mailto:joycemeyerinfo@joycemeyer.org).
