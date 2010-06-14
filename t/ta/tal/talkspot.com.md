@@ -1,52 +1,37 @@
-> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 1999-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/19991118195422id_/http%3A//talkspot.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspot.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614211312id_/http%3A//www.talkspot.com/aspx/blob2/blobpage.aspx/msgid/709820) for the most accurate reproduction.*
 
-# Talkspot - The Leader in Interactive Broadcasting
+# Privacy Policy: (HOME) Privacy Notice...
 
-|  **TalkSpot Privacy Policy**
+Privacy Notice   
+Updated May 17th 2010 
 
-We at Worldstream Communications, creators of TalkSpot, believe strongly in the right to privacy of all people on the Internet and specifically the rights of our audience. We have developed the following policy to protect our audience and inform everyone how we will use personal information. 
+**Our Commitment To Privacy  
+**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-Worldstream and TalkSpot's Key Privacy Points: 
+**The Information We Collect:  
+**  
+This notice applies to all information collected or submitted on the Talkspot.com website. It is possible to register to receive blog updates. The only personal information collected is: 
 
-  * We utilize "cookies" (i.e., small files saved on your computer that identify a particular computer on future visits) to make our site work better (among other things). One example is saving passwords to allow for quicker sign-in. You can opt to use Worldstream sites & TalkSpot without cookies (i.e., by turning off cookies on your browser), but the experience may be more difficult and/or some features may not work. 
-  * We collect general information about visits to our site. For example, we compile statistics to determine the number of daily visitors, the pages most frequently visited, and how long people stay at each page. We use this information to help us understand our users' needs and to develop services to serve those needs. We collect other personally identifying information only with your informed consent. We use this information for personalization, identification, communication and product improvement. You may update your personal information at any time by sending us an e-mail at [privacy@worldstream.com](mailto:privacy@worldstream.com) and providing appropriate verification of your identity for security purposes. Worldstream discards personal information after a period of two (2) years following your last use of TalkSpot (or such shorter period as Worldstream may deem appropriate). 
-  * We currently do not sell or redistribute your personal information to outside companies. In the future, we may share personal information with third parties for promotional purposes, but we will only do so with your prior consent. 
-  * You can always access to your personal profile by contacting us at [privacy@worldstream.com](mailto:privacy@worldstream.com) and providing appropriate verification of your identity for security purposes. 
-  * Those under 18 years of age need parental consent to provide personally identifiable information. 
-  * We reserve the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to (1) comply with legal process; (2) respond to any claims; or (3) protect the rights, property or personal safety of TalkSpot, Worldstream Communications, our users or the public. 
+Name  
+Email address 
 
+**The Way We Use Information:  
+**  
+Email addresses are used ONLY to email blog entries. Email addresses are never provided to third parties for any reason.
 
+**Our Commitment To Data Security  
+**  
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
 
-You should be aware that any information you disclose on message boards or chat rooms is publicly accessible, and that we are not responsible for any use of your information that may result. We retain the right to remove or block any message or information from or on any chat room or message board for any reason, including, without limitation, offensive or defamatory statements. 
+**Our Commitment To Children's Privacy:  
+**  
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
 
-In using TalkSpot, you may be asked to provide information (such as name, contact information, or other registration information) to TalkSpot, service providers, or other businesses you contact. Worldstream/TalkSpot and these entities may use this information to tailor their presentations to you, facilitate your movement through our site and services (including posting messages or chat), or communicate separately with you. We will not provide such personally identifiable information to companies outside Worldstream/TalkSpot without prior notice to you, and we prohibit the companies that get such information from selling or redistributing it without such prior notice. However, we are not responsible for any additional information you provide to these parties, and we encourage you to become familiar with their privacy policies before disclosing information to them. 
+**How You Can Access Or Correct Your Information**
 
-If you choose not to register with Worldstream/TalkSpot and provide personal information, you can still use many of our services. Unfortunately, you will not be able to access some areas within TalkSpot that require registration. 
+All mailings from this website include an "unsubscribe" link. If you would like to stop receiving emails from this website, click on the unsubscribe link. In a limited number of cases, such as with "lost password" requests, emails are sent without respect to whether or not you have unsubscribed from our email list. These emails are sent only in response to a request from an end-user.
 
-We also invite you to review and make any necessary corrections to your contact information. If you are having a problem as it pertains to this policy, please contact us at [privacy@worldstream.com.](mailto:privacy@worldstream.com.) If you do not want to receive any future communications from Worldstream, please contact us at [privacy@worldstream.com](mailto:privacy@worldstream.com). 
-
-We reserve the right to make adjustments to this policy, as we are all new to this brave world of the Internet. We will post changes here and encourage our audience to check periodically for updates. To give us feedback on our policy contact [privacy@worldstream.com](mailto:privacy@worldstream.com). 
-|  **TalkSpot Privacy Policy**
-
-We at Worldstream Communications, creators of TalkSpot, believe strongly in the right to privacy of all people on the Internet and specifically the rights of our audience. We have developed the following policy to protect our audience and inform everyone how we will use personal information. 
-
-Worldstream and TalkSpot's Key Privacy Points: 
-
-  * We utilize "cookies" (i.e., small files saved on your computer that identify a particular computer on future visits) to make our site work better (among other things). One example is saving passwords to allow for quicker sign-in. You can opt to use Worldstream sites & TalkSpot without cookies (i.e., by turning off cookies on your browser), but the experience may be more difficult and/or some features may not work. 
-  * We collect general information about visits to our site. For example, we compile statistics to determine the number of daily visitors, the pages most frequently visited, and how long people stay at each page. We use this information to help us understand our users' needs and to develop services to serve those needs. We collect other personally identifying information only with your informed consent. We use this information for personalization, identification, communication and product improvement. You may update your personal information at any time by sending us an e-mail at [privacy@worldstream.com](mailto:privacy@worldstream.com) and providing appropriate verification of your identity for security purposes. Worldstream discards personal information after a period of two (2) years following your last use of TalkSpot (or such shorter period as Worldstream may deem appropriate). 
-  * We currently do not sell or redistribute your personal information to outside companies. In the future, we may share personal information with third parties for promotional purposes, but we will only do so with your prior consent. 
-  * You can always access to your personal profile by contacting us at [privacy@worldstream.com](mailto:privacy@worldstream.com) and providing appropriate verification of your identity for security purposes. 
-  * Those under 18 years of age need parental consent to provide personally identifiable information. 
-  * We reserve the right to disclose your personal information if required to do so by law, or in the good faith belief that such action is reasonably necessary to (1) comply with legal process; (2) respond to any claims; or (3) protect the rights, property or personal safety of TalkSpot, Worldstream Communications, our users or the public. 
-
-
-
-You should be aware that any information you disclose on message boards or chat rooms is publicly accessible, and that we are not responsible for any use of your information that may result. We retain the right to remove or block any message or information from or on any chat room or message board for any reason, including, without limitation, offensive or defamatory statements. 
-
-In using TalkSpot, you may be asked to provide information (such as name, contact information, or other registration information) to TalkSpot, service providers, or other businesses you contact. Worldstream/TalkSpot and these entities may use this information to tailor their presentations to you, facilitate your movement through our site and services (including posting messages or chat), or communicate separately with you. We will not provide such personally identifiable information to companies outside Worldstream/TalkSpot without prior notice to you, and we prohibit the companies that get such information from selling or redistributing it without such prior notice. However, we are not responsible for any additional information you provide to these parties, and we encourage you to become familiar with their privacy policies before disclosing information to them. 
-
-If you choose not to register with Worldstream/TalkSpot and provide personal information, you can still use many of our services. Unfortunately, you will not be able to access some areas within TalkSpot that require registration. 
-
-We also invite you to review and make any necessary corrections to your contact information. If you are having a problem as it pertains to this policy, please contact us at [privacy@worldstream.com.](mailto:privacy@worldstream.com.) If you do not want to receive any future communications from Worldstream, please contact us at [privacy@worldstream.com](mailto:privacy@worldstream.com). 
-
-We reserve the right to make adjustments to this policy, as we are all new to this brave world of the Internet. We will post changes here and encourage our audience to check periodically for updates. To give us feedback on our policy contact [privacy@worldstream.com](mailto:privacy@worldstream.com). 
+**How To Contact Us  
+**  
+Should you have other questions or concerns about these privacy policies, please send us an email at customersupportATtalkspot.com. 
