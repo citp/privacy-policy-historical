@@ -1,41 +1,38 @@
-> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211220407id_/http%3A//www.leadforce1.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leadforce1.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614111535id_/http%3A//www.leadforce1.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D151%26Itemid%3D237) for the most accurate reproduction.*
 
-# LeadForce1 - Privacy Policy
-
-##### LeadForce1 Privacy Policy
+# Privacy Policy
 
 We help marketers better target their audience and avoid pricing models designed to increase the volume of communications. While MarketForceOne's (MarketForceOne Inc. owns LeadForce1) solutions are focused on improving marketing results and lowering costs, we are also reducing unwanted email, phone, and postal communications by as much as 50%.
 
 **Anti-Abuse**
 
-If you suspect a client of abusing our services, please contact us at  _[abuse@leadforce1.com](mailto:abuse@leadforce1.com)_. All complaints are investigated, and you will receive a response on the action we will take to resolve the issue. 
+If you suspect a client of abusing our services, please contact us at [ ](mailto://%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20var%20prefix%20=%20'mailto:';%20var%20suffix%20=%20'';%20var%20attribs%20=%20'';%20var%20path%20=%20'hr'%20+%20'ef'%20+%20'=';%20var%20addy60661%20=%20'abuse'%20+%20'@';%20addy60661%20=%20addy60661%20+%20'leadforce1'%20+%20'.'%20+%20'com';%20document.write\(%20'%3Ca%20'%20+%20path%20+%20'\\''%20+%20prefix%20+%20addy60661%20+%20suffix%20+%20'\\''%20+%20attribs%20+%20'%3E'%20\);%20document.write\(%20addy60661%20\);%20document.write\(%20'%3C\\/a%3E'%20\);%20//--%3E%20%3C/script%3E%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3Cspan%20style=\\'display:%20none;\\'%3E'%20\);%20//--%3E%20%3C/script%3EThis%20e-mail%20address%20is%20being%20protected%20from%20spambots.%20You%20need%20JavaScript%20enabled%20to%20view%20it%20%3Cscript%20language='JavaScript'%20type='text/javascript'%3E%20%3C!--%20document.write\(%20'%3C/'%20\);%20document.write\(%20'span%3E'%20\);%20//--%3E%20%3C/script%3E)[abuse@leadforce1.com](mailto:abuse@leadforce1.com) . All complaints are investigated, and you will receive a response on the action we will take to resolve the issue.
 
-**This policy describes how LeadForce1 uses and protects your personal information.** ****  
-
+**This policy describes how LeadForce1 uses and protects your personal information.**
 
 **Scope**
 
-This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.leadforce1.com](https://www.leadforce1.com/), or any MarketForceOne Inc. web sites (the "Sites") and applies generally to any affiliated web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy. 
+This privacy policy describes how we handle the personal information that you supply to us or concerning your use of our services available through [www.leadforce1.com,](https://web.archive.org/index.php) or any MarketForceOne Inc. web sites (the "Sites") and applies generally to any affiliated web sites. By accepting the Privacy Policy and the User Agreement in registration, you expressly consent to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-This Privacy Policy is effective on September 5, 2008 for any current users, and upon acceptance for all new users.  
-
+This Privacy Policy is effective on September 5, 2008 for any current users, and upon acceptance for all new users.
 
 **Collection**
 
-You can browse the Sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.  
-We may collect and store the following personal information: 
+You can browse the Sites without telling us who you are or revealing any personal information about yourself. Once you give us your personal information, you are not anonymous to us. If you choose to provide us with personal information, you consent to the transfer and storage of that information to our servers located in the United States.
+
+We may collect and store the following personal information:
 
   * email address, physical contact information, and (depending on the service used) sometimes financial information, such as credit card;
   * transactional information based on your activities on the Sites (such as purchases you make, purchase content, and searches conducted, all as they relate to your account or purchases);
   * billing and other information you provide;
   * correspondence through the Sites, and correspondence sent to us;
-  * computer sign-on data, statistics on page views, traffic to and from the Sites, and ad data, other information, including IP address and standard Web log information; and supplemental information from third parties. 
+  * computer sign-on data, statistics on page views, traffic to and from the Sites, and ad data, other information, including IP address and standard Web log information; and supplemental information from third parties.
 
 
 
 **Marketing**
 
-We don't sell or rent the personal information we collect from your using our Sites to third parties for their marketing purposes without your consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply "unsubscribe" located at the end of any marketing communication. 
+We don't sell or rent the personal information we collect from your using our Sites to third parties for their marketing purposes without your consent. We may combine your information with information we collect from other companies (such as demographic data) to improve and personalize our services. If you don't wish to receive marketing communications from us, simply "unsubscribe" located at the end of any marketing communication.
 
 **Use of Information**
 
@@ -53,17 +50,17 @@ Our primary purpose in collecting personal information is to provide you with a 
   * service providers under contract who help with our business operations;
   * other third parties to whom you explicitly ask us to send your information;
   * those serving apparently valid subpoenas;
-  * other business entities, should we plan to merge with, or be acquired by that business entity. 
+  * other business entities, should we plan to merge with, or be acquired by that business entity.
 
 
 
-Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information  without your consent except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
+Without limiting the above, in an effort to respect your privacy we will not otherwise disclose your personal information without your consent except when we believe in good faith that the disclosure of information is necessary to prevent imminent physical harm or financial loss or to report suspected illegal activity.
 
 **Cookies**
 
 We use "cookies" (small files placed on your hard drive) on certain pages of the Sites to help analyze our Web page flow, customize our services, measure promotional effectiveness, and promote trust and safety. We use cookies to provide services to you.
 
-A few important things you should know about cookies are that: 
+A few important things you should know about cookies are that:
 
   * We use cookies to help identify you and maintain your signed-in status.
   * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
@@ -71,7 +68,7 @@ A few important things you should know about cookies are that:
 
 
 
-Cookies allow:
+**Cookies allow:**
 
   * You to enter your password less frequently during your use of our Sites.
   * Us to provide information that is targeted to your interests.
@@ -103,4 +100,4 @@ In order to protect yourself from email that appears to be from LeadForce1, but 
 
 **General**
 
-We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect immediately after they are initially posted on the Site. 
+We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms automatically take effect immediately after they are initially posted on the Site.
