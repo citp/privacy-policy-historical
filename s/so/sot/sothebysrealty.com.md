@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2009-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090125092503id_/http%3A//www.sothebysrealty.com/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sothebysrealty.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614210242id_/http%3A//www.sothebysrealty.com/en/ServicesPrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Sotheby's International Realty® | Privacy Policy
 
 The policy set forth below is provided in English only to avoid any misinterpretations caused by a language translation. If necessary, please seek the proper advice, or please do not use this web site. 
 
-Sothebyâ€™s International Realty©
+Sotheby’s International Realty©
 
 PRIVACY STATEMENT
 
 Last modified June 9, 2008
 
-**Sothebyâ€™s International Realty Affiliates LLC** operates the web site at **www.sothebysrealty.com** (â€œSiteâ€). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have previously visited our Site. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user (â€œPersonal Informationâ€), and how we use aggregated information. 
+**Sotheby’s International Realty Affiliates LLC** operates the web site at **www.sothebysrealty.com** (“Site”). We respect the privacy of each user of the Site (referred to as "you" or "a user"), whether you are just beginning your real estate search or have previously visited our Site. This Privacy Statement gives you specific information about how we protect your privacy, how we treat information we collect on the Site that identifies an individual user (“Personal Information”), and how we use aggregated information. 
 
-**BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE.** We reserve the right to modify this Statement at any time by posting a notice on the Siteâ€™s home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes. 
+**BY REGISTERING FOR OR USING THE SITE, YOU SIGNIFY YOUR ACCEPTANCE OF THIS PRIVACY STATEMENT. IF YOU DO NOT AGREE TO THIS PRIVACY STATEMENT, YOU CANNOT USE THE SITE.** We reserve the right to modify this Statement at any time by posting a notice on the Site’s home page. (If we consider it appropriate, we may also provide additional notice of significant changes.) Your use of the Site after the date of the last modification listed at the beginning of this Privacy Statement indicates to us that you agree to the changes. 
 
 Location of Servers and Transfer of Information to the United States 
 
@@ -20,7 +20,7 @@ The Site is hosted by servers in the United States. If you are located outside o
 
 Scope of this Privacy Statement 
 
-This Privacy Statement applies to your use of this Site only. We do not own, operate or control the web sites of our Franchisees or sales associates. Accordingly, this Statement does not apply to a Franchiseeâ€™s or sales associateâ€™s web site or to a Franchiseeâ€™s or sales associateâ€™s collection, use, storage and disclosure of your Personal Information. 
+This Privacy Statement applies to your use of this Site only. We do not own, operate or control the web sites of our Franchisees or sales associates. Accordingly, this Statement does not apply to a Franchisee’s or sales associate’s web site or to a Franchisee’s or sales associate’s collection, use, storage and disclosure of your Personal Information. 
 
 1\. Collection and Use of Your Personal Information 
 
@@ -36,11 +36,11 @@ If you contact us, we collect Personal Information, which is retained or referre
 
 Refer a Listing to a Friend 
 
-If you choose to send a listing to a friend, you will be asked to provide the friendâ€™s name and email address in order to personalize the email and to send the email. We do not store this information, and the information is used only to send the one-time referral email. 
+If you choose to send a listing to a friend, you will be asked to provide the friend’s name and email address in order to personalize the email and to send the email. We do not store this information, and the information is used only to send the one-time referral email. 
 
 2\. Collection of Non-Personal Information 
 
-Even if you do not send us any Personal Information, we collect information about how you use our site (â€œNon-Personal Informationâ€). This information cannot be used to identify you personally and is explained in more detail below under â€œNon-Personal Informationâ€. 
+Even if you do not send us any Personal Information, we collect information about how you use our site (“Non-Personal Information”). This information cannot be used to identify you personally and is explained in more detail below under “Non-Personal Information”. 
 
 Cookies 
 
@@ -62,7 +62,7 @@ A. Third party vendors we engage to provide services on our behalf, such as host
 
 B. There may arise special circumstances where it is necessary for us to disclose and use Personal Information and Non-Personal Information, such as: to enforce this Privacy Statement or any other part of our [Terms of Use; ](http://www.sothebysrealty.com/ServicesTermsConditions.aspx) to protect our property or rights; to protect the safety of anyone; to investigate, prevent, or take action regarding illegal or improper activities; to carry out a merger or consolidation with another entity, a sale or transfer of some or all of our assets, or any similar transaction; or for other reasons we determine in good faith are necessary, appropriate, or required by law, such as when we respond to subpoenas, court orders, or other legal or administrative process. 
 
-The Site contains links to third-party web sites, including Sothebyâ€™s Auction House, our Franchisees, real estate industry organizations and community outreach organizations. If you hold your mouse over a link, it will indicate whether clicking the link will send you off our Site. When you click on those links, you will go to a third-party site where you will be subject to that siteâ€™s privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties. We remind you to be aware of when you leave our Site and enter a third-party web site, including one of our independent Franchisees, and again encourage you to read the privacy statement on any web site that collects your Personal Information. 
+The Site contains links to third-party web sites, including Sotheby’s Auction House, our Franchisees, real estate industry organizations and community outreach organizations. If you hold your mouse over a link, it will indicate whether clicking the link will send you off our Site. When you click on those links, you will go to a third-party site where you will be subject to that site’s privacy statement and we encourage you to read that policy statement. Please be aware that we are not responsible for the privacy practices of those other web sites and we expressly disclaim any liability for their actions, including actions relating to the use and disclosure of Personal Information by those third parties. We remind you to be aware of when you leave our Site and enter a third-party web site, including one of our independent Franchisees, and again encourage you to read the privacy statement on any web site that collects your Personal Information. 
 
 5\. Security 
 
@@ -70,20 +70,20 @@ Our hosting services maintains its systems in accordance with reasonable industr
 
 6\. Correction/Updating Personal Information 
 
-If your Personal Information changes or if you no longer wish to use the Site, you may correct or update your Personal Information or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, writing to customer service at **Sothebyâ€™s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054 or sending an email to realty.webmaster@sothebysrealty.com.**
+If your Personal Information changes or if you no longer wish to use the Site, you may correct or update your Personal Information or unsubscribe from any industry updates you have requested by modifying or deleting your profile on the Site, writing to customer service at **Sotheby’s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054 or sending an email to realty.webmaster@sothebysrealty.com.**
 
 7\. Children 
 
-This Site is not directed to children under the age of 13 (â€œChildrenâ€), and we do not knowingly collect any information, including Personal Information, from Children. 
+This Site is not directed to children under the age of 13 (“Children”), and we do not knowingly collect any information, including Personal Information, from Children. 
 
 8\. California Privacy Rights 
 
-Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third partiesâ€™ direct marketing purposes and (2) the names and addresses of all such third parties. 
+Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship (1) a list of categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties [including affiliates that are separate legal entities] during the immediately preceding calendar year for the third parties’ direct marketing purposes and (2) the names and addresses of all such third parties. 
 
-**To request the above information please contact us by writing to customer service at Sothebyâ€™s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054 or sending an email to realty.webmaster@sothebysrealty.com.**
+**To request the above information please contact us by writing to customer service at Sotheby’s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054 or sending an email to realty.webmaster@sothebysrealty.com.**
 
 We will respond to such requests within 30 days of receipt. Please note that we are only required to respond to each customer once per calendar year. 
 
 9\. Comments and Questions 
 
-If you have any questions or concerns about this Privacy Statement, please contact us by using the [â€œContact Usâ€](http://www.sothebysrealty.com/ServicesContactUs.aspx) feature or by postal mail at **Sothebyâ€™s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054.**
+If you have any questions or concerns about this Privacy Statement, please contact us by using the [“Contact Us”](http://www.sothebysrealty.com/ServicesContactUs.aspx) feature or by postal mail at **Sotheby’s International Realty Affiliates LLC, Attn: Interactive Marketing, 1 Campus Drive, Parsippany, NJ 07054.**
