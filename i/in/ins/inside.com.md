@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214072414id_/http%3A//paidcontent.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inside.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195931id_/http%3A//paidcontent.org/privacy) for the most accurate reproduction.*
 
-# | paidContent
+# Privacy Policy | paidContent
 
 **CONTENTNEXT MEDIA, INC -   PRIVACY POLICY EFFECTIVE DATE: April 1, 2009**
 
