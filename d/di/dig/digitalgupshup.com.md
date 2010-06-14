@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the digitalgupshup.com privacy policy that was archived on 2009-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091212215549id_/http%3A//www.digitalgupshup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalgupshup.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614114549id_/http%3A//www.digitalgupshup.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy
+# Privacy policy | Digital Gupshup
 
 **Privacy Policy for www.digitalgupshup.com**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.digitalgupshup.com/contact-us/ "contact us") by email at vijayraj.pokiri@gmail.com.
+If you require any more information or have any questions about our privacy policy, please feel free to [contact](http://www.digitalgupshup.com/contact-us/ "contact") us by email at vijayraj.pokiri@gmail.com.
 
 At www.digitalgupshup.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.digitalgupshup.com and how it is used.
 
