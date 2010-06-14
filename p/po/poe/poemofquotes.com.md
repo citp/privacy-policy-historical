@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2009-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090626002809id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poemofquotes.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614091130id_/http%3A//www.poemofquotes.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy to PoemofQuotes.com
 
@@ -15,5 +15,3 @@ We use cookies to store information, such as your username, when you visit our s
 We also use third party advertisements on PoemofQuotes.com. Some of these advertisers may use cookies and web beacons when they advertise on our site, which may include your IP address, your ISP, the browser you used to visit our site, and in some cases, whether you have Flash installed. The information is generally used for geotargetting purposes (showing ads relevant to your location) or showing certain ads based on specific sites visited (such as showing poetry ads to someone who frequents poetry sites). 
 
 You can choose to disable or turn off our cookies or third-party cookies within your browser settings or by managing your preferences in programs such as Norton Internet Security. However, this may effect your ability to search portions of our website as well as other sites. This includes inability to login to some services, such as logging into your members account. 
-
-[](http://www.addthis.com/bookmark.php)
