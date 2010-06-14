@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobone.net privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213114209id_/http%3A//mobone.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobone.net privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614060341id_/http%3A//www.mobone.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - mobone.net
 
