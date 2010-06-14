@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214082714id_/http%3A//www.demotix.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demotix.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614195829id_/http%3A//www.demotix.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Demotix.com
 
