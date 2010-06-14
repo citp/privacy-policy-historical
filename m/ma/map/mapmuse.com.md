@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mapmuse.com privacy policy that was archived on 2009-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091218012620id_/http%3A//find.mapmuse.com/re1/mmPrivacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mapmuse.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614074509id_/http%3A//find.mapmuse.com/re1/mmPrivacy.htm) for the most accurate reproduction.*
 
 # MapMuse - Privacy Policy
 
