@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213005229id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightscope.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614193442id_/http%3A//www.brightscope.com/privacy) for the most accurate reproduction.*
 
 # BrightScope Privacy Policy
 
@@ -150,6 +150,8 @@ Your data is yours. You can remove it anytime you want. When you request us to d
 "Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer's hard drive. BrightScope may set and access cookies on your computer to track and store preferential information about you. BrightScope may gather anonymous information about you through cookie technology on an aggregate level only. For example, BrightScope may assign a cookie to you, to limit the amount of times you see a particular BrightScope Offer or to help better determine which BrightScope Offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
 
 We encode our cookies so that only we can interpret the information stored in them.
+
+We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. BrightScope, or third party service providers acting on our behalf, may use Web beacons to help us analyze site usage and improve the Service.
 
