@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitechoice.org privacy policy that was archived on 2009-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090617181716id_/http%3A//elitechoice.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitechoice.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615015129id_/http%3A//elitechoice.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Elite Choice
 
@@ -34,7 +34,7 @@ Please note, we reserve the right to transfer your submitted information in the 
 
 **Cookies**
 
-We send “cookies” to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing user preferences in cookies and by tracking user trends - for example, we use cookies to allow you to automatically log in to the service after the first user session.
+We send “cookies” to your computer and use such cookies as described here. A cookie is a piece of data that identifies you as a unique user. We use cookies to improve the quality of our service and make the service easier to use for our members. We do this by storing user preferences in cookies and by tracking user trends – for example, we use cookies to allow you to automatically log in to the service after the first user session.
 
 Most browsers are initially set up to accept cookies. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. Be aware, however, that some parts of EliteChoice.org may not function properly if you refuse cookies.
 
