@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2009-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090420104235id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acuvue.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/privacy_policy.htm) for the most accurate reproduction.*
 
 # ACUVUE® - Privacy Policy
 
-Last Updated: October 1, 2004
+[European Union Safe Harbor Privacy Policy](https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/safe_harbor.htm "European Union Safe Harbor Privacy Policy")
+
+v 6.0
 
 #### Welcome
 
 Welcome to [www.acuvue.com](http://www.acuvue.com/)! This site is owned by Johnson & Johnson Vision Care, Inc. This Privacy Policy is designed to tell you about our practices regarding collection, use, and disclosure of information that you may provide via this site. Please be sure to read this entire Privacy Policy before using, or submitting information to this site. This site is intended for use by residents of the United States.
-
-[European Union Safe Harbor Privacy Policy](https://web.archive.org/web/20090420104235id_/http%3A//www.acuvue.com/safe_harbor.htm "European Union Safe Harbor Privacy Policy")
 
 #### Your Consent
 
@@ -61,9 +61,9 @@ We may disclose your personally identifiable information to other Johnson & John
 
 
 
-#### Access and Correction
+#### Access,Correction and Deletion
 
-To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession that you have previously submitted via this site.
+To keep your personally identifiable information accurate, current, and complete, please contact us as specified below. We will take reasonable steps to update or correct personally identifiable information in our possession, or to delete information in our possession that you have previously submitted via this site upon request.
 
 #### Security
 
@@ -75,11 +75,11 @@ This site may contain links or references to other Web sites. Please be aware th
 
 #### Other Terms
 
-Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20090420104235id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
+Your use of this site is subject to our [Legal Notice](https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/legal_notice.htm "Legal Notice").
 
 #### How to Contact Us
 
-If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please [contact us](https://web.archive.org/web/20090420104235id_/http%3A//www.acuvue.com/contact_us.htm "contact us").
+If you have any questions, comments or concerns about this Privacy Policy or the information practices of this site, please [contact us](https://web.archive.org/web/20100614085632id_/http%3A//www.acuvue.com/contact_us.htm "contact us").
 
 #### Changes to This Privacy Policy
 
