@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213005207id_/http%3A//www.fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fwi.co.uk privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614193153id_/http%3A//www.fwi.co.uk/staticpages/Privacypolicy) for the most accurate reproduction.*
 
 # FarmersWeekly - Privacy policy
 
