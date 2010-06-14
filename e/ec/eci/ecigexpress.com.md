@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230082429id_/http%3A//www.ecigexpress.com/shop/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecigexpress.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614110153id_/http%3A//www.ecigexpress.com/privacy) for the most accurate reproduction.*
 
-# Privacy Notice : Electronic Cigarette, e-Juice | ecigExpress
+# Privacy Notice : ecigexpress: Electronic Cigarettes | Electronic Cigarette Starter Kits | e-Juice | e-liquid
 
 ### Cookies
 
@@ -24,7 +24,7 @@ In order to use this Web site, you must first complete the registration form and
 
 ### Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change in your profile, or by [contacting ](http://www.ecigexpress.com/shop/index.php?main_page=contact_us)us.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or deactivate it by making the change in your profile, or by [contacting ](http://www.ecigexpress.com/index.php?main_page=contact_us)us.
 
 ### Surveys or Contests
 
@@ -36,7 +36,7 @@ We use this information to notify contest winner.
 
 ### Email
 
-**ecigExpress** members may receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by [contacting](http://www.ecigexpress.com/shop/index.php?main_page=contact_us) us. 
+**ecigExpress** members may receive periodic email notices that include exclusive special offers and information about sales, promotions, new releases, and other relevant information. If you no longer wish to receive these emails, you may opt out by [contacting](http://www.ecigexpress.com/index.php?main_page=contact_us) us. 
 
 ### Non-personal information
 
@@ -54,7 +54,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of online transmission or electronic storage is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our web site, you can email us at [contact us. ](http://www.ecigexpress.com/shop/index.php?main_page=contact_us)
+If you have any questions about security on our web site, you can email us at [contact us. ](http://www.ecigexpress.com/index.php?main_page=contact_us)
 
 ### Changes in this Privacy Statement
 
