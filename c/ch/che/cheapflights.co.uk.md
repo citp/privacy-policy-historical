@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227122833id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheapflights.co.uk privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614034531id_/http%3A//www.cheapflights.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **About Us**  
 This is a privacy policy for Cheapflights Limited.
 
-Cheapflights Limited is registered in England and Wales under company number 3914064. Its registered office is 49 Marylebone High Street, London W1U 5HJ.
+Cheapflights Limited is registered in England and Wales under company number 3914064. Its registered office is One Alfred Place, London WC1E 7EB.
 
 Our homepage is [www.cheapflights.co.uk](http://www.cheapflights.co.uk/).
 
@@ -14,8 +14,8 @@ Please contact us by [email](https://web.archive.org/help/feedback/) if you have
 Or by post at the following address:
 
 Content Editor  
-49 Marylebone High Street  
-London W1U 5HJ  
+One Alfred Place   
+London WC1E 7EB  
 United Kingdom
 
  **Validity  
@@ -68,4 +68,4 @@ Cheapflights uses cookies which tell us about how users navigate the site. We us
 
 We use the sharethis widget on this site to allow our users to tell their friends about the site, by allowing them to send a onetime email within the widget, inviting their friend to visit site.  We do not have access to any of the Personal Information collected within this widget.  We also use the sharethis widget to allow users to log into their third party social networking accounts and share a link to cheapflights with their friends.
 
-Last updated: September 2009
+Last updated: March 2010
