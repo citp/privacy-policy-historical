@@ -1,21 +1,26 @@
-> *The following text is extracted and transformed from the find-an-article.com privacy policy that was archived on 2009-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091027181038id_/http%3A//www.find-an-article.com/index.php%3Fpagedb%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the find-an-article.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614205224id_/http%3A//www.find-an-article.com/privacy) for the most accurate reproduction.*
 
-# privacy Find-an-Article.com | Free Web Content | Find-an-Article.com
+# Privacy Policy | Find-An-Article.com
 
-### Privacy Policy
+## Privacy Policy
 
-Find-an-Article.com will not obtain personally-identifying information about you when you visit our site, unless you choose to provide such information to us in quotes or communication with us. 
+**Your Privacy**  
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-No personally identifiable information is exchanged with any outside parties--read more below.
+**Google Adsense and the DoubleClick DART Cookie**  
+Google, as a third party advertisement vendor, uses cookies to serve ads on this site. The use of DART cookies by Google enables them to serve adverts to visitors that are based on their visits to this website as well as other sites on the internet.
 
-**Our Commitment to Your Privacy**
+To opt out of the DART cookies you may visit the Google ad and content network privacy policy at the following url <http://www.google.com/privacy_ads.html> Tracking of users through the DART cookie mechanisms are subject to Google’s own privacy policies.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on every page of our web site.
+Other Third Party ad servers or ad networks may also use cookies to track users activities on this website to measure advertisement effectiveness and other reasons that will be provided in their own privacy policies, Find-An-Article.com has no access or control over these cookies that may be used by third party advertisers. 
 
-**The Information We Collect**
+**Collection of Personal Information**  
+When visiting Find-An-Article.com, the IP address used to access the site will be logged along with the dates and times of access. This information is purely used to analyze trends, administer the site, track users movement and gather broad demographic information for internal use. Most importantly, any recorded IP addresses are not linked to personally identifiable information.
 
-This notice applies to all information collected or submitted on Find-an-Article.com. When you visit our web site, like when you visit most other web sites, certain anonymous information about your visit is automatically logged, which may include information about the type of browser you use, the server name and IP address through which you access the Internet (such as "Google.com" or "yahoo.com"), the date and time you access the site, the pages you access while at the our web site, and the Internet address of the web site, if any, from which you linked directly to the web site. This information is not personally identifiable. 
+**Links to third party Websites**  
+We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own. 
 
-**How We Use Information**
+**Changes to this Privacy Statement**  
+The contents of this statement may be altered at any time, at our discretion. 
 
-We use the information you provide about yourself when submitting an information request. We do not share this information with outside parties. We use return e-mail addresses to answer the e-mail we receive. Such addresses are not used for any other purpose and are not shared with outside parties. We use the anonymous browsing information collected automatically by our servers primarily to help us administer and improve our web site. We may also use non-identifying and aggregate information to better design our web site. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+If you have any questions regarding the privacy policy of Find-An-Article.com then you may contact us at dave at find-an-article.com 
