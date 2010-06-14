@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228192032id_/http%3A//www.totaltravel.com/about/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the totaltravel.com.au privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614173348id_/http%3A//www.totaltravel.com/about/policies) for the most accurate reproduction.*
 
-# totaltravel.com - About
+# totaltravel.com - Policies
 
 ## Scope 
 
@@ -31,11 +31,10 @@ This statement provides an overview of the full totaltravel.com Privacy and Secu
 
 ## Schedule of Policies
 
-  * [Advertiser Terms](https://web.archive.org/about/policies/advertiser-terms/)
   * [Competition Rules](https://web.archive.org/about/policies/competition-rules/)
-  * [Privacy Policy](https://web.archive.org/about/policies/privacy-policy/)
+  * [Privacy Policy](http://info.yahoo.com/privacy/au/yahoo/)
   * [Review Guidelines](https://web.archive.org/about/policies/review-guidelines/)
   * [Review Policy](https://web.archive.org/about/policies/review-policy/)
-  * [Terms of Use](https://web.archive.org/about/policies/terms-of-use/)
+  * [Terms of Use](http://au.docs.yahoo.com/info/terms/)
 
 
