@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tvbythenumbers.com privacy policy that was archived on 2009-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090923191312id_/http%3A//tvbythenumbers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvbythenumbers.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614061630id_/http%3A//tvbythenumbers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TV Ratings, Nielsen Ratings, Television Show Ratings | TVbytheNumbers.com
 
