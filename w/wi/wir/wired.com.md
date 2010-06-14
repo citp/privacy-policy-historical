@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wired.com privacy policy that was archived on 2009-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090627073107id_/http%3A//www.wired.com/services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wired.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614184841id_/http%3A//www.wired.com/services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
