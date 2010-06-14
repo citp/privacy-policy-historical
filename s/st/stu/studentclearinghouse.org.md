@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2009-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090130111406id_/http%3A//www.studentclearinghouse.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studentclearinghouse.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615004611id_/http%3A//www.studentclearinghouse.org/privacy.htm) for the most accurate reproduction.*
 
 # National Student Clearinghouse: Privacy Policy
 
@@ -31,7 +31,7 @@ We do not sell, rent, provide or otherwise share your individual information wit
 
 **Student Information Usage**
 
-For information on the Clearinghouse's compliance with the FTC Safeguarding Customer Information Policy and Gramm-Leach-Bliley (GLB), [click here](https://web.archive.org/web/20090130111406id_/http%3A//www.studentclearinghouse.org/studentinfo.htm). 
+For information on the Clearinghouse's compliance with the FTC Safeguarding Customer Information Policy and Gramm-Leach-Bliley (GLB), [click here](https://web.archive.org/web/20100615004611id_/http%3A//www.studentclearinghouse.org/studentinfo.htm). 
 
 ## Changes to Our Privacy Policy
 
@@ -39,4 +39,4 @@ Our privacy policy may change from time to time. Any changes will be noted here.
 
 ## Contacting the Clearinghouse
 
-If you would like to change information that you have provided to us, opt-out of future Clearinghouse mailings, or have questions about our privacy statement or Web site(s), e-mail us at [web-master@clearinghouse.org](mailto:web-master@clearinghouse.org)
+If you would like to change information that you have provided to us, opt-out of future Clearinghouse mailings, or have questions about our privacy statement or Web site(s), e-mail us at [web-master@clearinghouse.org](mailto:web-master@clearinghouse.org).
