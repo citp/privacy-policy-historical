@@ -1,393 +1,375 @@
-<!--The following is the downloaded HTML source of the 100hot.com privacy policy that was archived on 2007-05-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070517044949id_/http%3A//www.infospaceinc.com/about/legal_privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 100hot.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614190825id_/http%3A//www.infospaceinc.com/privacy.aspx) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"><html><head>
-	<title>About InfoSpace®, Privacy</title>
-	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<link rel="stylesheet" type="text/css" href="http://www.infospaceinc.com/include/style.css">
-<script type="text/javascript" language="JavaScript">
-<!--
-	var imgSrc = "http://www.infospaceinc.com/images/";
-//-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script type="text/javascript">
+/* Global */
+var IE7 = false;
+var IE6 = false;
+var MOZ = false;
+var OPR = false;
+var SAF = false;
+
+onPageLoad=function(){
+    browserSniff();
+    setTopLevelButtonState();
+    ieHover();
+}
+onPageUnload=function(){
+    IE7=IE6=MOZ=OPR=SAF=menuCount=topLevelWaitTime=subLevelWaitTime=navTimer=navTimerOn=false;
+    showMenu=hideMenu=hideMenus=startMenuTimer=stopMenuTimer=parseURLGetSiteSection=setTopLevelButtonState=false;
+    imgRoll=browserSniff=ieHoverWireEvents=ieHover=ie7CssFix=false;
+}
+
+/* Topnav Menu */
+var menuCount=6;
+var topLevelWaitTime=500; //in milliseconds
+var subLevelWaitTime=500; //in milliseconds
+var navTimer=null;
+var navTimerOn=false;
+
+showMenu=function(menuid){
+    if(IE7)ie7CssFix(menuid,true);
+    if(document.getElementById&&document.getElementById('menu'+menuid)){        
+        navTimerOn=true;
+        hideMenus();        
+        document.getElementById('menu'+menuid).style.visibility="visible";
+    }
+}
+hideMenu=function(menuid){
+    if(IE7)ie7CssFix(menuid,false);
+    if(document.getElementById&&document.getElementById('menu'+menuid)){
+        document.getElementById('menu'+menuid).style.visibility="hidden";
+        navTimer=null;
+    }
+}
+hideMenus=function(){    
+    if(navTimerOn){
+        stopMenuTimer();
+        for(var m=1;m<menuCount+1;m++){hideMenu(m);}
+    }
+}
+startMenuTimer=function(level){
+    if(document.getElementById&&navTimerOn==false&&navTimer==null){
+        if(level!=null&&level!='undefined'&&level>0){
+            navTimerOn=true;
+            switch(level){
+                case 1:navTimer=window.setInterval('hideMenus()',topLevelWaitTime);break;
+                default:navTimer=window.setInterval('hideMenus()',subLevelWaitTime);break;
+            }
+        }     
+    }
+}       
+stopMenuTimer=function(){
+    if(navTimer)window.clearInterval(navTimer);
+    navTimer=null;
+    navTimerOn=false;
+}
+parseURLGetSiteSection=function(){
+    var s=0;
+    if(top.location){
+        var url=top.location.href;
+        var section=[];
+        section.push('/ourstory/');
+        section.push('/consumerprod/');
+        section.push('/business/');
+        section.push('/shareholder.com/');
+        section.push('/shareholder.com/');
+        if(top.location.href.indexOf('openhire.com')>-1) section.push('openhire.com');
+        else section.push('/careers/');
+        for(var m=0;m<menuCount-1+1;m++){if(url.indexOf(section[m])>-1){s=m+1;break;}}
+    }
+    return s;
+}
+setTopLevelButtonState=function(){
+    if(document&&document.body){
+        switch(parseURLGetSiteSection()){
+            case 1:if(document.images&&document.images['menuImage1']){document.images['menuImage1'].src="images/infospace_top_ourstory_b.gif";}break;
+            case 2:if(document.images&&document.images['menuImage2']){document.images['menuImage2'].src="images/infospace_top_consumerprods_b.gif";}break;
+            case 3:if(document.images&&document.images['menuImage3']){document.images['menuImage3'].src="images/infospace_top_business_b.gif";}break;
+            case 4:if(document.images&&document.images['menuImage4']){document.images['menuImage4'].src="images/infospace_top_investor_b.gif";}break;
+            case 5:if(document.images&&document.images['menuImage5']){document.images['menuImage5'].src="images/infospace_top_pressroom_b.gif";}break;
+            case 6:if(document.images&&document.images['menuImage6']){document.images['menuImage6'].src="images/infospace_top_careers_b.gif";}break;
+            default:break;
+        }
+    }
+}
+imgRoll=function(obj,img,flag){var b=true;if(flag!=null&&flag!="undefined"){if(document&&document.body){var s=document.location+"";if(s.indexOf(flag)>-1)b=false;}}if(b)obj.src=img;}
+browserSniff=function(){if(document.images){if(navigator.userAgent.indexOf("Opera")!= -1){OPR=true;}else{if(document.all!=null&&document.getElementById!=null){if(navigator.appVersion.indexOf('MSIE 7')>0)IE7=true;else IE6=true;}else{MOZ=true;}}}if(navigator.userAgent.indexOf("Mac")!=-1){SAF=true;}}
+ieHoverWireEvents = function(node){
+   if (node.nodeName=="LI"){
+        node.onmouseover=function(){this.className+=" over";}
+        node.onmouseout=function(){this.className=this.className.replace(" over", "");}              
+        for (r=0; r<node.childNodes.length; r++){
+            node2 = node.childNodes[r];   
+            if (node2.nodeName=="UL"){
+                for (c=0; c<node2.childNodes.length; c++){
+                    node3 = node2.childNodes[c]; 
+                    if (node3.nodeName=="LI"){
+                        node3.onmouseover=function(){this.className+=" over";}
+                        node3.onmouseout=function(){this.className=this.className.replace(" over", "");}
+                    }
+                    node3=null;
+                }
+            }
+            node2=null;
+        }
+    }
+    node=null;
+}
+ieHover=function(){
+    if (IE6||IE7){         
+        var ulArr = new Array();
+        ulArr = document.getElementsByTagName("UL");
+        for (var a=0; a<ulArr.length; a++){
+            if(ulArr[a].className =="navmenu1"){
+                navRoot = ulArr[a];
+                for (var i=0; i<navRoot.childNodes.length; i++){            
+                    node = navRoot.childNodes[i];        
+                    ieHoverWireEvents(node);
+                    node=null;
+                }
+                navRoot=null;
+            }
+        } 
+        ulArr=null;       
+    }
+}
+ie7CssFix=function(menuid,over){
+    var ulArr = new Array();
+    ulArr = document.getElementsByTagName("UL");
+    for (var a=0; a<ulArr.length; a++){
+        if(ulArr[a].className =="navmenu2"){
+            for (var s=0; s<ulArr[a].childNodes.length; s++){
+                ulArr[a].style.borderBottom=(over)?"none":"1px solid #333333";
+                node = ulArr[a].childNodes[s];
+                if (node.nodeName=="LI"){
+                    if(over){
+                        node.style.display="none";                        
+                        node.style.border="1px solid #333333";
+                    }
+                    else{
+                        node.style.display="block";
+                        node.style.border="none";                        
+                    }                    
+                }
+                node=null;
+            }
+        } 
+    }
+    ulArr=null;
+}
 </script>
-<script type="text/javascript" language="JavaScript" src="http://www.infospaceinc.com/include/rollovers.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.infospaceinc.com/include/dynamicNav.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.infospaceinc.com/include/newwindow.js"></script>
-<script type="text/javascript" language="JavaScript" src="http://www.infospaceinc.com/include/utils.js"></script>
+<link rel="stylesheet" media="all" type="text/css" href="css/screen.css">
+<link id="faviconlink" rel="shortcut icon" type="image/x-icon" href="http://cdn.www.infospace.com.edgesuite.net/ispace/ws/favicon.ico/_iceUrlFlag=11?_IceUrl=true">
 <style type="text/css">
-			#menu01{left:188px;top:26px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_01_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_02_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_03_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_04_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_05_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu01_06_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu02{left:376px;top:26px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu02_01_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu02_02_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu02_03_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu02_04_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03{left:312px;top:26px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_01_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_02_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_03_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_04_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_05_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
-			#menu03_06_01{left:1px;top:1px;width:145px;z-index:1000;visibility:hidden;position:absolute;}
+body {background-image: url(images/infospace_global_bg.gif);}
+div#content ul li {background-image: url(images/infospace_global_bullet.gif);}
+div#content a.chevron:link, div#content a.chevron:active, div#content a.chevron:visited {background-image: url(images/infospace_red_bullet_arrow.gif);}
+div#content a.reverseChevron:link, div#content a.reverseChevron:active, div#content a.reverseChevron:visited {background-image: url(images/infospace_red_bullet_arrow_back.gif);}
+div#leftNav .menu ul.menu li, div#leftNav .menu ul.menu2 li {background-image: url(images/infospace_grey_bullet_arrow.gif);}
+div#content .template_content_bottom {background: url(images/infospace_content_faux_columns_right_bar.gif) top left repeat-y;}
+div#content .template_bio_bottom {background: url(images/infospace_content_faux_columns_left_bar.gif) top left repeat-y;}
+div#content .template_content_bottom_no_nav_with_right_bar {background: url(images/infospace_content_faux_columns_no_nav_right_bar.gif) top left repeat-y;}
+div#content .template_content_bottom .template_content_bottom_right {background: url(images/sidebarGradient.jpg) no-repeat;}
+div#content .bottom_corners_with_right_bar {background: url(images/infospace_bottom_right_bar.gif);}
+div#content .bottom_corners_with_left_bar {background: url(images/infospace_bottom_left_bar.gif);}
+div#content .bottom_corners_with_nav_no_right_bar {background: url(images/infospace_bottom_no_bar_with_nav.gif);}
+div#content .bottom_corners_wide {background: url(images/infospace_bottom_no_nav.gif);}
+div#leftNav .menu ul.menu li {background-image: url(images/infospace_grey_bullet_arrow.gif);}
+div.featureSection {background: #F0F0F0 url(images/feature2-right-box-top.gif) top left no-repeat;}
+#cellPhoneBG {background: url(images/insp_mobile_anim_backdrop.jpg) top left no-repeat;}
 </style>
-	<script language="JavaScript" type="text/javascript">
-	<!--
-		function onSubmit () {
-			with (document.contact_form) {
-				if (contact_name.value.length == 0) {
-					alert ("You must provide your name. Thank you.");
-					contact_name.focus ();
-					return false;
-				}
-				if (contact_name.value.length > 250) {
-					alert ("The name you provided it a tad too long. Please shorten it a bit. Thank you.");
-					contact_name.focus ();
-					return false;
-				}
-				
-				if (contact_email.value.length == 0) {
-					alert ("You must provide your e-mail address. Thank you.");
-					contact_email.focus ();
-					return false;
-				}
-				if (contact_email.value.length > 250) {
-					alert ("Your e-mail address is a tad too long. Please shorten it a bit. Thank you.");
-					contact_email.focus ();
-					return false;
-				}
-				
-				if (contact_subject.value.length == 0) {
-					alert ("You must supply a subject for your email. Thank you.");
-					contact_subject.focus ();
-					return false;
-				}
-				if (contact_subject.value.length > 250) {
-					alert ("Your email subject is too long. Please shorten it a bit. Thank you.");
-					contact_subject.focus ();
-					return false;
-				}
-				
-				if (contact_message.value.length == 0) {
-					alert ("You must supply a message for your email. Thank you..");
-					contact_message.focus ();
-					return false;
-				}
-				if (contact_message.value.length >= 1500) {
-					alert ("Your message is too long. Please shorten it a bit. Thank you.");
-					contact_message.focus ();
-					return false;
-				}
-				return true;
-			} // end with()
-		}
-		//-->
-	</script>
+
+<title>InfoSpace: Privacy Policy</title>
 </head>
-<body>
-<a name="top"></a>
-<table width="100%" border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top">
-	<td colspan="3"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="2" alt="" border="0"></td>
-</tr>
-<tr valign="top">
-	<td width="2"><img src="http://www.infospaceinc.com/images/trans.gif" width="2" height="1" alt="" border="0"></td>
-	<td width="178" style="background-image: url('http://www.infospaceinc.com/images/leftbg.gif'); background-repeat: repeat-y;">
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr valign="top">
-			<td><a href="http://www.infospaceinc.com/"><img src="http://www.infospaceinc.com/images/logo_infospaceinc.jpg" width="178" height="178" alt="InfoSpace" border="0"></a></td>
-		</tr>
-		<tr><td bgcolor="#FFFFFF"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="2" alt="" border="0"></td></tr>
-		<tr>
-			<td><table border="0" cellpadding="0" cellspacing="0">
-<tbody><tr valign="top"><td><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="20" alt="" border="0"></td></tr>
-<tr><td><a href="http://www.infospaceinc.com/about/"><img src="http://www.infospaceinc.com/images/sidenav/01_overview_off.gif" width="178" height="18" alt="Company Overview" border="0"></a></td></tr>
-<tr><td><a href="http://investor.infospaceinc.com/pressroom.cfm"><img src="http://www.infospaceinc.com/images/sidenav/01_pressroom_off.gif" width="178" height="18" alt="Press Room" border="0"></a></td></tr>
-<tr><td><a href="http://investor.infospaceinc.com/"><img src="http://www.infospaceinc.com/images/sidenav/01_investor_off.gif" width="178" height="18" alt="Investor Relations" border="0"></a></td></tr>
-<tr><td><a href="http://www.infospaceinc.com/about/careers.php"><img src="http://www.infospaceinc.com/images/sidenav/01_careers_off.gif" width="178" height="18" alt="Careers" border="0"></a></td></tr>
-<tr><td><a href="http://www.infospaceinc.com/about/legal.php"><img src="http://www.infospaceinc.com/images/sidenav/01_legal_on.gif" width="178" height="18" alt="Legal" border="0"></a></td></tr>
-<tr>
-	<td>
-		<table border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr valign="middle">
-			<td width="20" rowspan="5"><img src="http://www.infospaceinc.com/images/trans.gif" width="20" height="1" alt="" border="0"></td>
-			<td width="158" height="12"><a href="http://www.infospaceinc.com/about/legal_privacy.php" class="smalltextOn">&gt; Privacy Policy</a></td>
-		</tr>
-		<tr valign="middle"><td height="12"><a href="http://www.infospaceinc.com/about/legal_terms.php" class="smalltextOff">&gt; Terms of Use</a></td></tr>
-		<tr valign="middle"><td height="12"><a href="http://www.infospaceinc.com/about/legal_copyrights.php" class="smalltextOff">&gt; Copyrights</a></td></tr>
-		<tr valign="middle"><td height="12"><a href="http://www.infospaceinc.com/about/legal_trademarks.php" class="smalltextOff">&gt; Trademarks</a></td></tr>
-		<tr><td><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="7" alt="" border="0"></td></tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr><td><a href="http://www.infospaceinc.com/about/executiveleadership.php"><img src="http://www.infospaceinc.com/images/sidenav/01_executive_off.gif" width="178" height="18" alt="Executive Leadership" border="0"></a></td></tr>
-</tbody></table></td>
-		</tr>
-		</tbody></table>
-	</td>
-	<td>
-		<table width="100%" border="0" cellpadding="0" cellspacing="0">
-		<tbody><tr valign="top">
-			<td colspan="3" class="BGbarTop"><table width="582" border="0" cellpadding="0" cellspacing="0" style="background-image: url('http://www.infospaceinc.com/images/topbg.gif'); background-repeat: no-repeat;">
-<tbody><tr>
-	<td colspan="6"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="9" alt="" border="0"></td>
-	<td rowspan="3" bgcolor="#FFFFFF"><img src="http://www.infospaceinc.com/images/trans.gif" width="2" height="1" alt="" border="0"></td>
-</tr>
-<tr valign="top">
-	<td width="7"><img src="http://www.infospaceinc.com/images/trans.gif" width="7" height="1" alt="" border="0"></td>
-	<td width="124"><a href="http://www.infospaceinc.com/about/" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); }"><img name="image01" src="http://www.infospaceinc.com/images/topnav/01_aboutinfospace_off.gif" width="124" height="14" alt="About InfoSpace" border="0"></a></td>
-	<td width="65"><a href="http://www.infospaceinc.com/mobile/" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3); }"><img name="image03" src="http://www.infospaceinc.com/images/topnav/03_mobile_off.gif" width="65" height="14" alt="Mobile" border="0"></a></td>
-	<td width="143"><a href="http://www.infospaceinc.com/search/" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2); }"><img name="image02" src="http://www.infospaceinc.com/images/topnav/02_searchanddirectory_off.gif" width="143" height="14" alt="Search &amp; Directory" border="0"></a></td>
-	<td width="236" align="right" class="div"><a href="http://www.infospaceinc.com/index.php" class="smalltextOff">Home</a>&nbsp;|&nbsp;<a href="http://www.infospaceinc.com/sitemap/" class="smalltextOff">Site Map</a>&nbsp;|&nbsp;<a href="http://www.infospaceinc.com/contact/" class="smalltextOff">Contact Us</a></td>
-	<td width="5"><img src="http://www.infospaceinc.com/images/trans.gif" width="5" height="1" alt="" border="0"></td>
-</tr>
-<tr><td colspan="6"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="8" alt="" border="0"></td></tr>
-</tbody></table></td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="2" alt="" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="3" class="BGbarMiddle"><img src="http://www.infospaceinc.com/images/ph_about_01.jpg" width="580" height="145" alt="" border="0"><img src="http://www.infospaceinc.com/images/px_ffffff.gif" width="2" height="145" alt="" border="0"></td>
-		</tr>
-		<tr>
-			<td colspan="3"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="20" alt="" border="0"></td>
-		</tr>
-		<tr valign="top">
-			<td width="20"><img src="http://www.infospaceinc.com/images/trans.gif" width="20" height="1" alt="" border="0"></td>
-			<td>
-				<div><img src="http://www.infospaceinc.com/images/privacy/hd_privacypolicy.gif" width="201" height="35" alt="Privacy Policy" border="0"></div>
-				<div><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="15" alt="" border="0"></div>
-				<div class="h2">As a diversified technology and services company, InfoSpace, Inc. and its subsidiaries (collectively, "InfoSpace") recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure.</div>
-				<br>
-				<div>InfoSpace provides a broad mix of products and services through many different distribution channels. We provide search and directory products and services through our owned Web sites and the Web sites of our business partners (collectively, the "InfoSpace Sites"). Our mobile content and data products and services are primarily provided through the Web sites and handsets of our mobile operator and handset manufacturer partners. Additionally, we distribute some mobile products through other Web sites and point of purchase arrangements. We provide general information about the company, our products and services and communications regarding press releases, employment opportunities other company news through this Web site.</div>
-				<br>
-				<div>Please note that this policy only applies to our data collection and use practices for the InfoSpace Sites and our other products and services (collectively, with the InfoSpace Sites, the "InfoSpace Properties") and does not apply to the data collection and use practices of other companies or organizations whose products, services or Web sites you may use or gain access through the InfoSpace Properties. For information on the data collection and use practices of those third parties, please refer to their respective policies and procedures.</div>
-				<br>
-				<div><b>General Policy</b></div>
-				<div>Through the InfoSpace Properties and from third party sources, we collect both aggregate data and personal information. A general description of the types of information we collect and how we use that information is provided below. For more specific descriptions of the information we collect and use in connection with a particular InfoSpace Property, please review the privacy policy for that property located below:</div>
-				<ul>
-					<li><a href="http://www.infospace.com/home/about/corporate/privacy.htm" target="_blank">www.infospace.com/home/about/corporate/privacy.htm</a></li>
-					<li><a href="http://www.switchboard.com" target="_blank">www.switchboard.com</a></li>
-					<li><a href="http://www.dogpile.com/info.dogpl/search/help/privacy.htm" target="_blank">www.dogpile.com/info.dogpl/search/help/privacy.htm</a></li>
-					<li><a href="http://www.webcrawler.com/info.wbcrwl/search/help/privacy.htm" target="_blank">www.webcrawler.com/info.wbcrwl/search/help/privacy.htm</a></li>
-					<li><a href="http://www.metacrawler.com" target="_blank">www.metacrawler.com</a></li>
-					<li><a href="http://www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm" target="_blank">www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm</a></li>
-					<li><a href="http://www.webfetch.com/uk.webfetch/about/corporate/privacy.htm" target="_blank">www.webfetch.com/uk.webfetch/about/corporate/privacy.htm</a></li>
-					<li><a href="http://www.webcrawler.de/de.webs/search/help/datenschutzbestimmungen.htm" target="_blank">www.webcrawler.de/de.webs/search/help/datenschutzbestimmungen.htm</a></li>
-				</ul>
-				<div>For a more specific description of the information we collect and use from this Web site, please see the section below entitled "InfoSpace Corporate Web site."</div>
-				<br>
-				<div><b>Types of Information We Collect and Use</b></div>
-				<div>In general, we collect and use both anonymous and personal user information and aggregate access and use data. We collect this information and data from a variety of sources, including use and access to InfoSpace Sites and other InfoSpace Properties, user submissions, transactions and correspondence, employee and investor relationships and from third parties such as our business partners.</div>
-				<ul>
-					<li><b>Anonymous User Information.</b>  We collect anonymous (i.e. non-personally identifying) information that your browser and cell phone make available each time you visit an InfoSpace Site or use another InfoSpace Property, such as our mobile data and content services. The browser information includes your originating Internet Protocol (IP) address, browser type and operating system, the date and time of your visit, the duration and activity of your visit and the Uniform Resource Locator (URL) of the referring and exiting Web sites. We generally use log files to collect and store this anonymous user information. The cell phone information we collect includes type of handset, menu selection and other anonymous use information. Additionally, for our mobile gaming tournaments, we collect anonymous demographic data that includes age, sex, type, and number of repeat subscriptions. We use this information for a variety of purposes, including the administration and operation of our Web sites and other properties, designing and developing new products and services and generally improving the overall quality of your experience.</li>
-					<li><b>Personal User Information.</b>  In addition to the anonymous user information above, we may occasionally request from you or you may otherwise voluntarily provide us information that may identify you personally. InfoSpace receives personal user information through its different properties from a broad range of activities, including surveys, contests, personalization of directory services, public records services, user groups, tell-a-friend service, mobile data transmission services and general correspondence. Also, we may receive personal information from third party service providers as part of our search and directory and mobile products and services. Depending on the product or service used, the personal information we collect typically includes contact information (such as name, address, email address and telephone number), demographic information (such as age, gender, occupation and household income) and billing information (shipping and billing address, credit card information). When we request personal information from you, we will inform you of the type of information we need and the purpose of our use. Except as specifically described in this Privacy Policy and the associated privacy policies of our various properties, we will in general only use your personal information for the purpose it was collected.</li>
-					<li><b>Mobile User Information.</b>  As part of our mobile products and services, we receive personal information from wireless carriers and operators in order to provision the specific content and data services requested by individual cell phone users. All such personal information is acquired from either the wireless carrier's Web site or from the user's cell phone via the wireless carrier's network. This personal data is usually limited to the user's name and cell phone number. In certain cases, such as for gaming tournament prize fulfillment, the user's mailing address is also provided. The user must explicitly "opt in" through the wireless carrier in order for any of this information to be collected and its use is governed by this Privacy Policy and any policies or procedures of the user's wireless carrier. We only use personal information we receive as part of our mobile products and services for the purpose of providing those products and services to the wireless carriers and operators and their subscribers.</li>
-				</ul>
+<body onload="onPageLoad()" onunload="onPageUnload()">
+
+
+	<div id="main" align="center">
+		<div id="mainContent">
+			<div id="header">
+<div class="logo">
+<a href="/"><img src="images/infospace_top_logo.gif" width="102" height="110" border="0" alt="InfoSpace" title="InfoSpace"></a>
+</div><div class="menu">
+<div class="menuButton"><a onmouseover="showMenu(1)" onmouseout="startMenuTimer(1)" href="../ourstory/default.aspx" target="_self"><img name="menuImage1" title="Our Story" onmouseover="imgRoll(this, 'images/infospace_top_ourstory_b.gif', '/ourstory/');" onmouseout="imgRoll(this, 'images/infospace_top_ourstory_a.gif', '/ourstory/');" src="images/infospace_top_ourstory_a.gif" border="0" alt="Our Story" width="79" height="33"></a></div>
+<div class="menuButton"><a onmouseover="showMenu(2)" onmouseout="startMenuTimer(1)" href="../consumerprod/default.aspx" target="_self"><img name="menuImage2" title="Consumer Products" onmouseover="imgRoll(this, 'images/infospace_top_consumerprods_b.gif', '/consumerprod/');" onmouseout="imgRoll(this, 'images/infospace_top_consumerprods_a.gif', '/consumerprod/');" src="images/infospace_top_consumerprods_a.gif" border="0" alt="Consumer Products" width="141" height="33"></a></div>
+<div class="menuButton"><a onmouseover="showMenu(3)" onmouseout="startMenuTimer(1)" href="../business/default.aspx" target="_self"><img name="menuImage3" title="Business Solutions" onmouseover="imgRoll(this, 'images/infospace_top_business_b.gif', '/business/');" onmouseout="imgRoll(this, 'images/infospace_top_business_a.gif', '/business/');" src="images/infospace_top_business_a.gif" border="0" alt="Business Solutions" width="130" height="33"></a></div>
+<div class="menuButton"><a onmouseover="showMenu(4)" onmouseout="startMenuTimer(1)" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-IRHome" target="_self"><img name="menuImage4" title="Investor Center" onmouseover="imgRoll(this, 'images/infospace_top_investor_b.gif', '/investorcenter/');" onmouseout="imgRoll(this, 'images/infospace_top_investor_a.gif', '/investorcenter/');" src="images/infospace_top_investor_a.gif" border="0" alt="Investor Center" width="115" height="33"></a></div>
+<div class="menuButton"><a onmouseover="showMenu(5)" onmouseout="startMenuTimer(1)" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-newspress&amp;nyo=0" target="_self"><img name="menuImage5" title="Press Room" onmouseover="imgRoll(this, 'images/infospace_top_pressroom_b.gif', '/pressroom/');" onmouseout="imgRoll(this, 'images/infospace_top_pressroom_a.gif', '/pressroom/');" src="images/infospace_top_pressroom_a.gif" border="0" alt="Press Room" width="88" height="33"></a></div>
+<div class="menuButton"><a onmouseover="showMenu(6)" onmouseout="startMenuTimer(1)" href="../careers/default.aspx" target="_self"><img name="menuImage6" title="Careers" onmouseover="imgRoll(this, 'images/infospace_top_careers_b.gif', '/careers/');" onmouseout="imgRoll(this, 'images/infospace_top_careers_a.gif', '/careers/');" src="images/infospace_top_careers_a.gif" border="0" alt="Careers" width="69" height="33"></a></div>
+<span id="Header1_controlContentArea">
+<div class="topnavmenu">
+<div id="menu1">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="../ourstory/os_edge.aspx">Our Edge</a></li>
+<li><a class="tm" href="../ourstory/leadership.aspx">Our Leadership Team</a></li>
+</ul>
+</div>
+<div id="menu2">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="../consumerprod/wsb_dogpile.aspx">Dogpile</a></li>
+<li><a class="tm" href="../consumerprod/wsb_metacrawler.aspx">MetaCrawler</a></li>
+<li><a class="tm" href="../consumerprod/wsb_webcrawler.aspx">WebCrawler</a></li>
+<li><a class="tm" href="../consumerprod/wsb_webfetch.aspx">WebFetch</a></li>
+</ul>
+</div>
+<div id="menu3">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="../business/hp_privatelabelsearch.aspx">Private-Label Search</a></li>
+<li><a class="tm" href="../business/hp_privatelabelportal.aspx">Private-Label Portal</a></li>
+<li><a class="tm" href="../business/hp_dnserrorassistservice.aspx">DNS Error Assist Service</a></li>
+</ul>
+</div>
+<div id="menu4">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-faq">FAQ</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-reportsannual">Annual Reports</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-news&amp;nyo=0">Press Releases</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-calendar">Events &amp; Presentations</a></li>
+<!--<li><a class="tm" href="http://investor.infospaceinc.com/alerts.cfm">Email Alerts</a></li>-->
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-stockquote">Stock Quote &amp; Chart</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-stocklookup">Historical Price Lookup</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-stockcalculator">Current Stock Value</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-sec">SEC Filings</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-govhighlights">Corporate Governance</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-inforeq">Request Printed Materials</a></li>
+</ul>
+</div>
+<div id="menu5">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-newspress&amp;nyo=0">Press Releases</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-presscalendar">Calendar of Events</a></li>
+<li><a class="tm" href="http://investor.infospaceinc.com/phoenix.zhtml?c=119056&amp;p=irol-pressalerts">Email Alerts</a></li>
+</ul>
+</div>
+<div id="menu6">
+<ul id="navmenu" class="navmenu1" onmouseover="stopMenuTimer()" onmouseout="startMenuTimer(1)">
+<li><a class="tm" href="../careers/workingatinfospace.aspx">Working at InfoSpace</a></li>
+<li><a class="tm" href="../careers/benefits.aspx">Benefits</a></li>
+<li><a class="tm" href="http://hostedjobs.openhire.com/epostings/jobs/submit.cfm?company_id=15705">Available Positions</a></li>
+</ul>
+</div>
+</div>
+</span></div>
+</div>
+			<div id="contentArea">
+				<span id="ctl00_content_contentArea">
+					<div id="contentArea">
+						<div id="page-utility-links"><img src="images/infospace_icon_print.gif" alt="Print" onclick="window.print();"></div>
+						<div id="content" class="noNav">
+							<div class="template_content_top"><img style="float: left;" src="images/infospace_head_privacy_01.gif" title="Contact InfoSpace" alt="Contact InfoSpace"><img style="float: left;" src="images/infospace_head_contact_02.gif" alt=""><img style="float: right;" src="images/infospace_head_contact_05.gif" alt=""><img style="float: left; border: none;" src="images/infospace_head_contact_03_a.jpg" alt=""><img style="float: left;" src="images/infospace_head_contact_04.gif" alt=""></div>
+							<div class="template_content_bottom_no_nav">
+								<div class="template_content_left">
+	<div style="font-size: 10px; color: #000; font-weight:bold; padding-top:20px;">(Updated November 10th 2009)</div>
+	<p> <strong>As a diversified technology and services company, InfoSpace, Inc. and its subsidiaries (collectively, “InfoSpace”) recognize privacy as an important issue and have prepared this Privacy Policy to inform you of our data collection and use practices and confirm our commitment to keep your personal information secure.</strong> </p>
+	<p> InfoSpace is a leading developer of metasearch products and services to help people easily search and discover information on the World Wide Web.  InfoSpace uses its proprietary metasearch technology that combines the top results from the leading search engines to power a portfolio of branded Web sites and to provide this service and additional content to the Web sites of our distribution partners. We also provide general information about the company, our products and services and communications regarding press releases, employment opportunities other company news through this Web site. </p>
+	<p> Please note that this policy only applies to our data collection and use practices for the Web sites owned and operated by InfoSpace identified below (the “InfoSpace Sites”) and our other products and services (collectively, with the InfoSpace Sites, the “InfoSpace Network”) and does not apply to the data collection and use practices of other companies or organizations whose products, services or Web sites you may use or gain access to through the InfoSpace Network. For information on the data collection and use practices of those third parties, please refer to their respective policies and procedures. </p>
+	<h3>General Policy</h3>
+	<p> Through the InfoSpace Network and from third party sources, we collect both aggregate data and personal information. A general description of the types of information we collect and how we use that information is provided below. For more specific descriptions of the information we collect and use in connection with a particular InfoSpace Site, please review the privacy policy for that property located below: </p>
+	<ul>
+		<li><a href="http://support.infospace.com/privacy/">InfoSpace</a></li>
+		<li><a href="http://www.dogpile.com/dogpile/ws/privacy/rfcid=1234/rfcp=footer-right/_iceUrlFlag=11?_IceUrl=true">Dogpile</a>, <a href="http://www.metacrawler.com/metacrawler/ws/privacy/_iceUrlFlag=11?_IceUrl=true">Metacrawler</a>, <a href="http://www.webcrawler.com/webcrawler/ws/privacy/_iceUrlFlag=11?_IceUrl=true">Webcrawler</a>, and <a href="http://www.nation.com/about/privacy-policy.aspx">Nation</a></li>
+		<li><a href="http://www.infospace.com/_1_2PYSUMY02D7VHPR__canada/about/corporate/privacy.htm">InfoSpace (Canada)</a></li>
+		<li><a href="http://www.webfetch.com/webfetchukint/ws/privacy/_iceUrlFlag=11?_IceUrl=true">Webfetch (UK)</a></li>
+		<li><a href="http://www.webcrawler.de/webcrawlerde/ws/privacy/_iceUrlFlag=11?_IceUrl=true">Webcrawler (Germany)</a></li>
+		<li><a href="http://www.haggle.com/Home/Privacy">Haggle</a></li>
+		<li><a href="http://www.webposition.com/privacy.asp">WebPosition</a></li>
+	</ul>
+	<p> For a more specific description of the information we collect and use from this Web site, please see the section below entitled “InfoSpace Corporate Web Site.” </p>
+	<h3>Types of Information We Collect and Use</h3>
+	<p> In general, we collect and use both anonymous and personal user information and access and use data. We collect this information and data from a variety of sources, including access and use of the InfoSpace Sites or use of our products or services on another Web site in the InfoSpace Network, user submissions, transactions and correspondence, employee and investor relationships and from third parties such as our business partners. </p>
+	<ul>
+		<li><strong>Anonymous User Information.</strong> When you visit an InfoSpace Site or access or use our products or services on a Web site in the InfoSpace Network, our servers record the information that your browser automatically sends whenever visiting a website, including your web request, the Internet Protocol address and browser configuration of your computer, the date and time of your request, the Uniform Resource Locator (URL) of the referring and exiting Web sites one or more cookies that may uniquely identify your browser. We generally collect this anonymous (i.e. non–personally identifying) in server log files and use this information for a variety of purposes, including the administration and operation of our Web sites and other properties, identifying and preventing fraud and misuse of our Web sites, products and services, designing and developing new products and services and generally improving the overall quality of your experience.</li>
+		<li><strong>Personal User Information.</strong> In addition to the anonymous user information above, we may occasionally request from you or you may otherwise voluntarily provide us information that personally identifies you. InfoSpace receives personal user information through its different properties from a broad range of activities, including surveys, contests, registrations, tell–a–friend services and general correspondence. Also, we may receive personal information from third party distribution partners or service providers as part of providing our Web search products and services. Depending on the product or service used, the personal information we collect may include contact information (such as first and last name, mailing address, email address and telephone number), demographic information (such as age, gender, occupation and household income) and billing information (shipping and billing address, credit card information). When we request personal information from you, we will inform you of the type of information we need and the purpose of our use. Except as specifically described in this Privacy Policy and the associated privacy policies of our various properties, we will only use your personal information for the purpose it was collected.</li>
+	</ul>
+	<h3>Cookies</h3>
+	<p> When you visit an InfoSpace Site or use our products or services on another Web site in the InfoSpace Network, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer when you visit a Web site or use a service. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit or use. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web–based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user’s browser.  We use information collected from cookies and web beacons to track which pages our users view, which browsers they use and other information about user activity when visiting an InfoSpace Site or using our products and services. We may also use cookies to help us provide you with personalized features and preferences in a manner that is linked to personal user information you elect to share with us. We use action tags to compile statistics and other data about our users on an aggregate basis. </p>
+	<p> We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies. </p>
+	<p> On some InfoSpace Sites we engage third party advertisement networks that may place cookies on computers accessing and using those sites that collect non–personal information regarding the content accessed by the computer on those sites.  This information may be used by InfoSpace and its third party advertising network partners to identify and target related advertising to the user of such computer, when on Web sites within the third party’s advertising network of sites.  Some of these third party advertising networks may be members of the Network Advertising Initiative (“NAI”) and subject to the NAI Self–Regulatory Principles for Online Preference Marketing by Network Advertisers, available at <a href="http://www.networkadvertising.org">www.networkadvertising.org</a> (the “NAI Principles”). If you would like to opt–out from these services, you may go to the NAI Non–PII Opt–Out Page, located at <a href="http://www.networkadvertising.org/optout_nonppii.asp">http://www.networkadvertising.org/optout_nonppii.asp</a>, or the opt–out page of the particular third party advertising network identified in the cookie.  In addition, these companies may offer you a way to directly opt out of ad targeting based on their cookies by visiting their Web sites and following their opt out procedures. </p>
+	<h3>InfoSpace Corporate Web site</h3>
+	<p> As a general policy, no personal information is automatically collected from visitors to our corporate Web site, located at <a href="http://www.infospaceinc.com">www.infospaceinc.com</a>. However, certain anonymous information is recorded by the standard operation of our Web site servers as described above. InfoSpace will only know your email address and any other personal information through our corporate Web site if you voluntarily submit such information to us during a visit to contact us, request information or provide comments. Personally identifiable information you submit to us on this Web site may be stored on individual computers or in a centralized server location, and will be used solely for the purpose received. </p>
+	<h3>How We Use Your Personal Information</h3>
+	<p> In general, we only use your personal information for the purpose it was collected, including internally to serve you the Web sites, products and services you request, to enhance and extend our relationship with you, and to improve our products and services. We also use personal information for fulfillment and billing purposes, to complete transactions you have requested, to anticipate and resolve problems with our products and services, to respond to customer support inquiries, to create and inform you of new products and services, and to comply with applicable laws. </p>
+	<p> We may access, use, disclose and share any non–personally identifiable information and data we collect for any business purpose and with any third party in our sole discretion. We do not store and retain the Internet Protocol addresses we collect as part of our Web search products and services from the InfoSpace Sites and the Web sites of our distribution partners for longer than six months. </p>
+	<p> When you conduct a search on one of our InfoSpace Sites or Web sites within the InfoSpace Network through which we provide our metasearch services, we collect the search terms you submit, along with the information set forth above. We use this information to provide you with relevant search results, including results tailored to your geographic location based on the Internet Protocol address of your computer. This information is also used to maintain and improve the quality, security and integrity of our services and to detect and protect against security threats such as botnet attacks, click fraud and worms. </p>
+	<p> More detail about our use of certain types of information we collect is provided above in the section entitled “Types of Information We Collect and Use” and in the privacy policies specific to our different products and services, located as set forth above in the section “General Policy.” </p>
+	<h3>Inter–Company Transfers</h3>
+	<p> We may internally transfer the information we collect, including your personal information, to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified above, as well as for storage, processing or other business use as permitted under this Privacy Policy. By accessing or using an InfoSpace Site or other InfoSpace product or service you consent to the transfer of your personal information among these facilities, including those located outside of your country of residence. </p>
+	<h3>Sharing Information With Third Parties</h3>
+	<p> In general, we do not sell, rent or otherwise trade your personal information with third parties. However, we may disclose and share your personal information with third parties under the following limited circumstances: </p>
+	<ul>
+		<li>Consent. We have received your consent or permission.</li>
+		<li>Transaction Processing. As necessary to complete a requested transaction, such as verification of your credit card information.</li>
+		<li>Third Party Service Providers. Occasionally, we engage third parties to provide us with products and services, such as support, consulting, statistical analysis and marketing research that may require access to or use of your personal information. In such event, the third party will be obligated to maintain the privacy of any personal information disclosed or shared as part of its provision to us of the product to service and to only use such information for the limited purpose of providing the product or service.</li>
+		<li>Business Transfers. Information about our users and the access and use of the InfoSpace Sites and our products and services is one of our most important business assets. As such, information about our users, including personal information, may be disclosed and transferred as part of any merger or acquisition, creation of a separate business to provide InfoSpace products and services, the sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets.</li>
+		<li>Protection of InfoSpace; Compliance with Law. We will disclose personal information or remove, destroy or alter personal information in our possession or control when we believe it is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers or the public.</li>
+	</ul>
+	<p> We may use, disclose and share any anonymous, non–personally identifiable information and data we collect with any third party in our sole discretion. </p>
+	<h3>Third Party Information Collection and Use; Links</h3>
+	<p> The InfoSpace Sites and our products and services use and provide access to products, services and content of third parties (collectively, “Third Party Properties”), such as third party search results, directory listings, links and advertisements. Please be aware that we do not control and are not responsible for the information collection and use practices and policies of these third parties, and that by accessing or using Third Party Properties they may collect information regarding your use and access. In general, clicking on links on the InfoSpace Sites or as part of our products and services on our distribution partner’s Web sites, whether part of a search result, advertisement or other content, will allow the third party provider of the result, link or content to collect anonymous, non–personally identifiable information about your browser and activity. We encourage you to be aware when you use a Third Party Property or leave an InfoSpace Site and review any such third party’s data and information collection and use practices and policies with regard to their Web site, products or services. </p>
+	<h3>Information Storage and Security</h3>
+	<p> We have implemented and use a variety of industry accepted physical, electronic and managerial policies and procedures to safeguard and secure the information we collect to help prevent unauthorized access, disclosure, alteration or destruction and to maintain its accuracy and correct use. We generally store the information and data we collect on our own servers in a secure environment and restrict access to your personal information to employees and agents who need to know that information in order to provide you with access and use of the InfoSpace Sites and our products and services, operate and maintain the InfoSpace Sites and our distribution network and as otherwise set forth and in accordance with this Privacy Policy. While we have taken efforts to safeguard and secure your personal information, we cannot guarantee that your information may not be disclosed, altered or destroyed by accidental circumstances or by the unauthorized acts of others. </p>
+	<h3>Choice</h3>
+	<p> Typically you will have the choice of whether or not to provide us with personal information. However, you may not be able to access or use some features of the InfoSpace Sites and some of our other products and services if you chose not to provide us with the information required for those products and services. Unless the cost, burden or expense of such access is unwarranted, or the rights of a third party would be violated, we will provide you with the ability to access, correct, update and/or delete the personal information we collect and store from you. Mechanisms for accessing your personal information are either described in the specific privacy policies for the particular InfoSpace Site or other product or service you are using or you may contact us at the contact information provided below. </p>
+	<h3>Special Notification with respect to Children’s Privacy (Users under the Age of 13)</h3>
+	<p> In response to concerns about protecting children’s privacy online, Congress enacted the Children’s Online Privacy Protection Act of 1998 (“COPPA”), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT: </p>
+	<ul>
+		<li>Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or</li>
+		<li>Knowingly use or share personal information from users under 13 years of age with third parties; It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.</li>
+	</ul>
+	<p> Questions regarding children’s privacy should be directed to us at the contact information provided below. </p>
+	<h3>Safe Harbor</h3>
+	<p> We abide by the European Union (“EU”) Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self–certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <a href="http://www.export.gov/safeharbor/">http://www.export.gov/safeharbor/</a>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program. </p>
+	<ul>
+		<li><strong>Compliance with Applicable Law.</strong> We may disclose Personal Data to governmental authorities when required or reasonably requested to do so by such governmental authorities. This Privacy Policy does not apply to the extent that it is in conflict with any law that may be applicable to the Personal Data of a Data Subject.</li>
+		<li><strong>Safe Harbor Verification.</strong> InfoSpace verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. InfoSpace further verifies that its privacy policy conforms to the “Safe Harbor Principles” issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations.</li>
+	</ul>
+	<h3>Enforcement</h3>
+	<p> If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at <a href="http://www.ftc.gov/privacy/">http://www.ftc.gov/privacy/</a>. </p>
+	<h3>Changes to Our Privacy Policy</h3>
+	<p> We will change, amend and update this Privacy Policy and the privacy policies of the various InfoSpace Sites from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site or the Web site of the respective product or service and revise the “Last Updated” date of such policy. We reserve the right to change, amend and update this Privacy Policy, including all of our associated privacy policies, at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy and the policies of the InfoSpace Sites you may access or use on a regular basis to ensure you have reviewed and are familiar with the most current policy. </p>
+	<h3>Contacting Us</h3>
+	<p> For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please use the information or links below. </p>
+	<h3>VIA MAIL:</h3>
+	<pre>InfoSpace, Inc.
+Legal Department, Attn: Privacy Officer
+601 108th Avenue NE, Suite 1200
+Bellevue, Washington 98004 USA
+</pre>
+	<h3>CONTACT INFORMATION:</h3>
+	<p><a href="http://infospaceinc.com/contactus.aspx" class="chevron">Contact Us</a></p>
+</div>
+								<div class="template_content_right"></div>
+								<br style="clear: both;">
+								<br style="clear: both;">
+							</div>
+							<div class="bottom_corners_wide">
+						</div>
+					</div>
 				
-				<div><b>Cookies</b></div>
-				<div>When you visit an InfoSpace Site or use certain InfoSpace Properties, one or more cookies, web beacons or action tags may be sent to your computer or otherwise used in connection with your visit or use. A cookie is a small data file that is sent to your computer by a Web site when you visit. When stored on your computer, a cookie uniquely identifies your browser and records your preferences and other data about your visit. Cookies are also sometimes used to complete transactions requested by users. Web beacons, also known as web bugs, are small, graphic images that transparently reside on a Web site or other web-based service and are designed to allow the Web site or service owner to monitor who is visiting the Web site or using the service. Action tags assist in delivering cookies and embed a random identifying number on a user's browser. We use both session cookies and persistent cookies. For a session cookie, once you close your browser the cookie simply terminates. A persistent cookie stays stored on your hard drive for an extended period of time. You can change the settings on your browser to refuse or notify you prior to accepting cookies and to remove them from your computer. However, some features, products and services may not function properly without cookies.</div>
-				<br>
-				<div><b>InfoSpace Corporate Web site</b></div>
-				<div>As a general policy, no personal information is automatically collected from visitors to the corporate Web site, located at InfoSpaceinc.com. However, certain anonymous information is recorded by the standard operation of our Web site servers. This information is primarily used to provide an enhanced online experience for the visitor. Information tracked includes the type of browser being used by the visitor (e.g., Netscape, Internet Explorer), the type of operating system (e.g., Macintosh, Windows) in use by the visitor and the domain name of the visitor's Internet service provider (e.g., America Online, EarthLink). By having this information, we are able to automatically optimize the Web site for a particular visitor's computer. Other use of this information may include internal review of the number of visitors to this Web site.</div>
-				<br>
-				<div>InfoSpace only knows your email address and any other personal information through this Web site when you voluntarily submit the information during a visit to this Web site. Personally identifiable information you submit on this Web site may be stored on individual computers or in a centralized server location.</div>
-				<br>
-				<div><b>How We Use Your Personal Information</b></div>
-				<div>In general, we only use your personal information for the purpose it was collected, including internally to serve you the Web sites, products and services you request, to enhance and extend our relationship with you, and to improve our products and services. We also use personal information for fulfillment and billing purposes, to complete transactions you have requested, to anticipate and resolve problems with our products and services, to respond to customer support inquiries, to create and inform you of new products and services, and to comply with applicable laws. We use information collected from cookies and web beacons to track which pages our users view, which browsers they use and other information about user activity when visiting an InfoSpace Site or using an InfoSpace Property. We may also use cookies to help us provide you with personalized features and preferences in a manner that is linked to personal user information you may elect to share with us. We use action tags to compile statistics and other data about our users on an aggregate basis. More detail about our use of certain types of information we collect is provided above in the section entitled "Types of Information We Collect and Use" and in the privacy policies specific to our different products and services, located as set forth above in the section "General Policy."</div>
-				<br>
-				<div><b>Inter-Company Transfers</b></div>
-				<div>We may internally transfer the information we collect, including your personal information,to and from the United States and any other country in which we or our agents maintain facilities for the purposes identified above, as well as for storage, processing or other business use as permitted under this Privacy Policy. By accessing or using an InfoSpace Site or other InfoSpace Property you consent to the transfer of your personal information among these facilities, including those located outside of your country of residence.</div>
-				<br>
-				<div><b>Sharing Information With Third Parties</b></div>
-				<div>In general, we do not sell, rent or otherwise trade your personal information with third parties for compensation. However, we may disclose and share your personal information with third parties under the following limited circumstances:</div>
-				<ul>
-					<li><b>Consent.</b>  We have received your consent or permission.</li>
-					<li><b>Transaction Processing.</b>  As necessary to complete a requested transaction, such as verification of your credit card information.</li>
-					<li><b>Third Party Service Providers.</b>  Occasionally, we engage third parties to provide us with products and services, such as support, consulting, statistical analysis and marketing research, that may require access to or use of your personal information. In such event, the third party will be obligated to maintain the privacy of any personal information disclosed or shared as part of its provision to us of the product to service and to only use such information for the limited purpose of providing us with the product or service.</li>
-					<li><b>Business Transfers.</b>  Information about our users and the InfoSpace Properties is one of our most important business assets. As such, information about our users, including personal information, may be disclosed and transferred as part of any merger or acquisition, creation of a separate business to provide InfoSpace products and services, the sale or pledge of company assets, as well as in the event of an insolvency, bankruptcy or receivership in which personal information would be transferred as one of the business assets.</li>
-					<li><b>Protection of InfoSpace; Compliance with Law.</b>  We will disclose personal information or remove, destroy or alter personal information in our possession or control when we believe it is necessary to comply with legal process, respond to claims, or to protect the rights, property or safety of our company, its employees, customers or the public.</li>
-				</ul>
-				<div>We may use, disclose and share any anonymous, non-personally identifiable information and data we collect with any third party in our sole discretion.</div>
-				<br>
-				<div><b>Third Party Information Collection and Use; Links</b></div>
-				<div>The InfoSpace Properties use and provide access to products, services and content of third parties (collectively, "Third Party Properties"), such as third party search results, directory listings, links and advertisements. Please be aware that we do not control and are not responsible for the information collection and use practices and policies of these third parties, and that by accessing or using Third Party Properties they may collect information regarding your use and access. In general, links on the InfoSpace Sites and as part of other InfoSpace Properties, whether part of a listing, advertisement or other content, only collect anonymous, non-personally identifiable information about your browser and activity. However, we encourage you to be aware when you use a Third Party Property or leave an InfoSpace Property and review any third party's data and information collection and use practices and policies with regard to their own Web site, products or services.</div>
-				<br>
-				<div><b>Information Storage and Security</b></div>
-				<div>We have implemented and use a variety of industry accepted physical, electronic and managerial policies and procedures to safeguard and secure the information we collect to help prevent unauthorized access, disclosure, alteration or destruction and to maintain its accuracy and correct use. We generally store the information and data we collect on our own servers in a secure environment and restrict access to your personal information to employees and agents who need to know that information in order to provide you with access and use of the InfoSpace Sites or other InfoSpace Properties, operate and maintain the InfoSpace Properties and as otherwise set forth and in accordance with this Privacy Policy. While we have taken efforts to safeguard and secure your personal information, we cannot guarantee that your information may not be disclosed, altered or destroyed by accidental circumstances or by the unauthorized acts of others.</div>
-				<br>
-				<div><b>Choice</b></div>
-				<div>Typically you will have the choice of whether or not to provide us with personal information. However, you may not be able to access or use some features of the InfoSpace Sites and some of the other InfoSpace Properties if you chose not to provide us with the information required for those products and services. Unless the cost, burden or expense of such access is unwarranted, or the rights of a third party would be violated, we will provide you with the ability to access, correct, update and/or delete the personal information we collect and store from you. Mechanisms for accessing your personal information are either described in the specific privacy policies for the particular InfoSpace Site or other InfoSpace Property you are using or you may contact us at the information provided below.</div>
-				<br>
-				<div><b>Special Notification with respect to Children's Privacy (Users under the Age of 13)</b></div>
-				<div>In response to concerns about protecting children's privacy online, Congress enacted the Children's Online Privacy Protection Act of 1998 ("COPPA"), which sets forth rules and procedures governing the ways in which Web sites may collect, use and disclose any personal information for children under the age of 13. In accordance with InfoSpace policy and COPPA regulations, we DO NOT:</div>
-				<ul>
-					<li>Request or knowingly collect personally identifiable information online or offline contact information from users under 13 years of age; or</li>
-					<li>Knowingly use or share personal information from users under 13 years of age with third parties; It is possible that by fraud or deception we may receive information given to us or pertaining to children under 13. If we are notified of this, as soon as we verify the information, we will immediately delete the information from our servers.</li>
-				</ul>
-				<div>Questions regarding children's privacy should be directed to us at the contact information provided below.</div>
-				<br>
-				<div><b>Safe Harbor</b></div>
-				<div>We abide by the European Union ("EU") Safe Harbor framework as set forth by the Department of Commerce regarding collection, use, and retention of data from the EU. Our privacy practices with respect to personal data collected from individuals residing in the EU are self-certified to the Safe Harbor Program developed by the US Department of Commerce and the European Commission. For more information about the Safe Harbor Program, please go to <a href="http://www.export.gov/safeharbor/" target="_blank">http://www.export.gov/safeharbor/</a>. Terms that are capitalized below have the same meanings given to them as part of the Safe Harbor Program.</div>
-				<ul>
-					<li><b>Mobile Services.</b>  For mobile content and data services supplied through partner EU wireless carriers and operators, we receive Personal Data transferred by users in the EU to the US merely as a Data Processor on behalf of those partners. In this capacity, we act as the Data Processor and our carrier partners act as the Data Controllers. We do not own or control any of the Personal Data we process on behalf of our carrier partners. Processes performed by us on behalf of our carrier partners are pursuant to the instructions of the applicable partner. We may use the services of third party Data Processors to process Personal Data in accordance with purposes identified for such data by the applicable partner.</li>
-					<li><b>Compliance with Applicable Law.</b>  Notwithstanding the foregoing, we may disclose Personal Data to governmental authorities when required or reasonably requested to do so by such governmental authorities. This Privacy Policy does not apply to the extent that it is in conflict with any law that may be applicable to the Personal Data of a Data Subject. </li>
-					<li><b>Safe Harbor Verification.</b>  InfoSpace verifies that this Privacy Policy is accurate, comprehensive, and completely implemented, including implementation of appropriate employee training and other internal procedures. InfoSpace further verifies that its privacy policy conforms to the "Safe Harbor Principles" issued by the U.S. Department of Commerce on July 21, 2000, which concerns compliance with European Union privacy protection requirements by U.S. organizations. </li>
-				</ul>
-				<div><b>Enforcement</b></div>
-				<div>If you have any questions or concerns regarding our Privacy Policy, please direct them to us at the contact information provided below. We have instituted internal policies and procedures for handling such submissions and will respond to you in a timely manner. If you do not receive acknowledgement of your inquiry, or if it is not satisfactorily addressed, you may contact the Federal Trade Commission for further action on your complaint at <a href="http://www.ftc.gov/privacy/" target="_blank">http://www.ftc.gov/privacy/</a>.</div>
-				<br>
-				<div><b>Changes to Our Privacy Policy</b></div>
-				<div>We will change, amend and update this Privacy Policy and the privacy policies of the various InfoSpace Sites and other InfoSpace Properties from time to time to reflect changes in our privacy practices, technology, products and services, general business operations and industry. In the event of any such change, we will post a revised policy on this Web site or the Web site of the respective product or service and revise the "Last Updated" date of such policy. We reserve the right to change, amend and update this Privacy Policy, including all of our associated privacy policies, at any time in our sole and absolute discretion, and such changes will be effective upon posting of the revised policy. In the event of a material change in our information collection and use practices, we will provide more prominent notice of such change along with the revision to the effective date of the policy. You should check this Privacy Policy and the policies of the InfoSpace Sites and other InfoSpace Properties you may access or use on a regular basis to ensure you have reviewed and are familiar with the most current policy.</div>
-				<br>
-				<div><b>Contacting Us</b></div>
-<!--
-				<div>For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please contact us at:</div>
-				<br />
--->
-				<div>You may update or delete your White Pages listing by following the instructions in the <a href="http://www.infospace.com/home/white-pages/help.htm?show=2#White%20Pages" target="_blank">White Pages FAQ</a>; For any questions or concerns you may have regarding this Privacy Policy and our information and data collection and use practices, please complete the below form.</div>
-				<br>
-				<div><b>VIA MAIL:</b></div>
-				<div>InfoSpace, Inc.</div>
-				<div>Legal Department, Attn: Privacy Officer</div>
-				<div>601 108th Avenue NE, Suite 1200</div>
-				<div>Bellevue, Washington 98004 USA</div>
-				<br>
-				<div><b>VIA EMAIL CONTACT FORM:</b></div>
-<!--
-				<div><a href="mailto:privacy@InfoSpace.com">privacy@InfoSpace.com</a></div>
--->
-				<form name="contact_form" onsubmit="JavaScript:return onSubmit();" method="post" action="legal_contact_process.php">
-					<table cellpadding="0" cellspacing="0" border="0">
-						<tbody><tr>
-							<td height="15"><span class="Body-Text"> We welcome your feedback. However, due to the volume of mail,<br>not all messages will receive a response. <b>All fields required.</b></span><br><img alt="" width="1" height="10" src="http://a1040.g.akamai.net/f/1040/759/1h/pic.infospace.com/info.dogpl/pics/1pixel.gif"></td>
-						</tr>
-						<tr>
-							<td><span class="Body-Text"> Your Name: </span></td>
-						</tr>
-						<tr>
-							<td><input type="text" name="contact_name" size="45" value=""></td>
-						</tr>
-						<tr>
-							<td><span class="Body-Text"> Your Email Address: </span></td>
-						</tr>
-						<tr>
-							<td><input type="text" name="contact_email" size="45" value=""></td>
-						</tr>
-						<tr>
-							<td><span class="Body-Text"> Subject: </span></td>
-						</tr>
-						<tr>
-							<td><input type="text" name="contact_subject" size="45" value=""></td>
-						</tr>
-						<tr>
-							<td><span class="Body-Text"> Your Message: </span></td>
-						</tr>
-						<tr>
-							<td><textarea cols="34" rows="10" name="contact_message"></textarea></td>
-						</tr>
-						<tr>
-							<td><input type="submit" name="submit" value="Submit"></td>
-						</tr>
-					</tbody></table>
-				</form>
-				<br>
-				<div class="SmBodyText">Last revised: 2/11/2005</div>
-				<br><br>
-				<div><a href="#top"><img src="http://www.infospaceinc.com/images/arrow_top.gif" width="7" height="4" alt="" border="0"></a></div>
-				<div class="SmBodyText"><a href="#top">to top of page</a></div>
-				<br>
-			</td>
-			<td width="20"><img src="http://www.infospaceinc.com/images/trans.gif" width="20" height="1" alt="" border="0"></td>
-		</tr>
-		</tbody></table>
-	</td>
-</tr>
-<tr><td colspan="3"><img src="http://www.infospaceinc.com/images/trans.gif" width="1" height="2" alt="" border="0"></td></tr>
-<tr>
-	<td colspan="3" class="copyright" height="30" align="center"><a href="http://www.infospaceinc.com/about/legal_terms.php" class="smalltextOff">Terms of Use</a>&nbsp;|&nbsp;<a href="http://www.infospaceinc.com/about/legal_privacy.php" class="smalltextOn">Privacy Policy</a>&nbsp;|&nbsp;<a href="http://www.infospaceinc.com/about/legal_copyrights.php" class="smalltextOff">© 2007 InfoSpace, Inc. All Rights Reserved.</a></td>
-</tr></tbody></table>
-<div id="menu01">
-<div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_01" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_01_01 != 'undefined') { clearTimeout (subNavTimer01_01_01); } MM_toggleSubNav('menu01_01', 'menu01_01_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_01_01 = setTimeout('MM_toggleSubNav(\'menu01_01\', \'menu01_01_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/about/">Company Overview</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_02" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_02_01 != 'undefined') { clearTimeout (subNavTimer01_02_01); } MM_toggleSubNav('menu01_02', 'menu01_02_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_02_01 = setTimeout('MM_toggleSubNav(\'menu01_02\', \'menu01_02_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://investor.infospaceinc.com/pressroom.cfm">Press Room</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_03" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_03_01 != 'undefined') { clearTimeout (subNavTimer01_03_01); } MM_toggleSubNav('menu01_03', 'menu01_03_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_03_01 = setTimeout('MM_toggleSubNav(\'menu01_03\', \'menu01_03_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://investor.infospaceinc.com/">Investor Relations</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_04" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_04_01 != 'undefined') { clearTimeout (subNavTimer01_04_01); } MM_toggleSubNav('menu01_04', 'menu01_04_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_04_01 = setTimeout('MM_toggleSubNav(\'menu01_04\', \'menu01_04_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/about/careers.php">Careers</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_05" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_05_01 != 'undefined') { clearTimeout (subNavTimer01_05_01); } MM_toggleSubNav('menu01_05', 'menu01_05_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_05_01 = setTimeout('MM_toggleSubNav(\'menu01_05\', \'menu01_05_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/about/legal.php">Legal</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu01_06" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_06_01 != 'undefined') { clearTimeout (subNavTimer01_06_01); } MM_toggleSubNav('menu01_06', 'menu01_06_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_06_01 = setTimeout('MM_toggleSubNav(\'menu01_06\', \'menu01_06_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/about/executiveleadership.php">Executive Leadership</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(1); }" onmouseout="if (menuMouseOut) { menuMouseOut(1);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div></div>
-<div id="menu01_01_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_01_01 != 'undefined') { window.clearTimeout (subNavTimer01_01_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_01_01 = setTimeout('MM_toggleSubNav(\'menu01_01\', \'menu01_01_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/contact/">Locations</a></div>
+			</div>
+		</span></div>
+		<div id="footer">
+<div class="left">
+<div class="top"><img src="images/infospace_red_tplft_crnr.gif" alt="" width="10" height="10"></div>
+<div class="middle"><img src="images/clearpixel.gif" alt="" width="1" height="19"></div>
+<div class="bottom"><img src="images/infospace_red_btlft_crnr.gif" alt="" width="10" height="10"></div>
 </div>
-<div id="menu01_02_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_02_01 != 'undefined') { window.clearTimeout (subNavTimer01_02_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_02_01 = setTimeout('MM_toggleSubNav(\'menu01_02\', \'menu01_02_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/releases.cfm?PageSection=PressRoom">Press Releases</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/calendar.cfm?PageSection=PressRoom">Presentations &amp; Events</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/distlist.cfm?PageSection=PressRoom">Email Alerts</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/press_contactus.php">Contact Us</a></div>
+<div class="middle">
+<div class="left"></div>
+<div class="right"><a class="footer" href="../contactus.aspx">Contact Us</a> |  <a class="footer" href="../sitemap.aspx">Site Map</a> |  <a class="footer" href="../trademarks.aspx">Trademarks</a> |  <a class="footer" href="../terms.aspx">Terms of Use</a> |  <a class="footer" href="../privacy.aspx">Privacy Policy</a> |  <a class="footer" href="../copyrightip.aspx">Copyright / IP Policy</a> | <a class="footer" href="http://www.mercantila.com">Mercantila</a> | <a class="footer" href="http://www.haggle.com">Haggle</a> | © 2010 InfoSpace, Inc. All Rights Reserved</div>
 </div>
-<div id="menu01_03_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_03_01 != 'undefined') { window.clearTimeout (subNavTimer01_03_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_03_01 = setTimeout('MM_toggleSubNav(\'menu01_03\', \'menu01_03_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/edgar.cfm">SEC Filings</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/releases.cfm">Press Releases</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/annuals.cfm">Annual Reports</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/calendar.cfm">Presentations &amp; Events</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/stock.cfm">Stock Quote &amp; Chart</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/stockLookup.cfm">Historical Price Lookup</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/calculator.cfm">Calculator</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/docreq.cfm">Information Request</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/distlist.cfm">Email Alerts</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/faq.cfm">Investor FAQ</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://investor.infospaceinc.com/comment.cfm">Contact Investor Relations</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/investor_governance.php">Governance</a></div>
+<div class="right">
+<div class="top"><img src="images/infospace_red_tprght_crnr.gif" alt="" width="10" height="10"></div>
+<div class="middle"><img src="images/clearpixel.gif" alt="" width="1" height="19"></div>
+<div class="bottom"><img src="images/infospace_red_botrght_crnr.gif" alt="" width="10" height="10"></div>
 </div>
-<div id="menu01_04_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_04_01 != 'undefined') { window.clearTimeout (subNavTimer01_04_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_04_01 = setTimeout('MM_toggleSubNav(\'menu01_04\', \'menu01_04_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/careers_jobsearchUS.php">US Job Search &amp; Apply</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/careers_jobsearch.php">Europe Job Search &amp; Apply</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/careers_choose.php">Why Choose InfoSpace?</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/careers_benefits.php">Benefits</a></div>
+</div>
 	</div>
-<div id="menu01_05_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_05_01 != 'undefined') { window.clearTimeout (subNavTimer01_05_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_05_01 = setTimeout('MM_toggleSubNav(\'menu01_05\', \'menu01_05_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/legal_privacy.php">Privacy Policy</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/legal_terms.php">Terms of Use</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/legal_copyrights.php">Copyrights</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/legal_trademarks.php">Trademarks</a></div>
-</div>
-<div id="menu01_06_01" onmouseover="if (menuMouseOver) { menuMouseOver(1); if (typeof subNavTimer01_06_01 != 'undefined') { window.clearTimeout (subNavTimer01_06_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(1); subNavTimer01_06_01 = setTimeout('MM_toggleSubNav(\'menu01_06\', \'menu01_06_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/executiveleadership.php">Management</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/about/executiveleadership.php">Board of Directors</a></div>
-</div>
-<div id="menu02">
-<div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu02_01" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_01_01 != 'undefined') { clearTimeout (subNavTimer02_01_01); } MM_toggleSubNav('menu02_01', 'menu02_01_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_01_01 = setTimeout('MM_toggleSubNav(\'menu02_01\', \'menu02_01_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/search/metasearch.php">Metasearch Brands</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu02_02" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_02_01 != 'undefined') { clearTimeout (subNavTimer02_02_01); } MM_toggleSubNav('menu02_02', 'menu02_02_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_02_01 = setTimeout('MM_toggleSubNav(\'menu02_02\', \'menu02_02_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/search/privatelabel.php">Private-label Search</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu02_03" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_03_01 != 'undefined') { clearTimeout (subNavTimer02_03_01); } MM_toggleSubNav('menu02_03', 'menu02_03_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_03_01 = setTimeout('MM_toggleSubNav(\'menu02_03\', \'menu02_03_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/search/directory.php">Online Directory</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu02_04" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_04_01 != 'undefined') { clearTimeout (subNavTimer02_04_01); } MM_toggleSubNav('menu02_04', 'menu02_04_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_04_01 = setTimeout('MM_toggleSubNav(\'menu02_04\', \'menu02_04_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/findit/findit.php">InfoSpace Find It!</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(2); }" onmouseout="if (menuMouseOut) { menuMouseOut(2);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div></div>
-<div id="menu02_01_01" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_01_01 != 'undefined') { window.clearTimeout (subNavTimer02_01_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_01_01 = setTimeout('MM_toggleSubNav(\'menu02_01\', \'menu02_01_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu02_02_01" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_02_01 != 'undefined') { window.clearTimeout (subNavTimer02_02_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_02_01 = setTimeout('MM_toggleSubNav(\'menu02_02\', \'menu02_02_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu02_03_01" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_03_01 != 'undefined') { window.clearTimeout (subNavTimer02_03_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_03_01 = setTimeout('MM_toggleSubNav(\'menu02_03\', \'menu02_03_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu02_04_01" onmouseover="if (menuMouseOver) { menuMouseOver(2); if (typeof subNavTimer02_04_01 != 'undefined') { window.clearTimeout (subNavTimer02_04_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(2); subNavTimer02_04_01 = setTimeout('MM_toggleSubNav(\'menu02_04\', \'menu02_04_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/mobile.php">Mobile</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/online.php">Online</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/pressroom.php" target="_blank">Press Room</a></div>
-</div>
-<div id="menu03">
-<div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu03_01" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_01_01 != 'undefined') { clearTimeout (subNavTimer03_01_01); } MM_toggleSubNav('menu03_01', 'menu03_01_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_01_01 = setTimeout('MM_toggleSubNav(\'menu03_01\', \'menu03_01_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/mobile/ringtonesgraphics.php">Ringtones &amp; Graphics</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu03_04" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_04_01 != 'undefined') { clearTimeout (subNavTimer03_04_01); } MM_toggleSubNav('menu03_04', 'menu03_04_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_04_01 = setTimeout('MM_toggleSubNav(\'menu03_04\', \'menu03_04_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/mobile/portals.php">Portals</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu03_05" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_05_01 != 'undefined') { clearTimeout (subNavTimer03_05_01); } MM_toggleSubNav('menu03_05', 'menu03_05_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_05_01 = setTimeout('MM_toggleSubNav(\'menu03_05\', \'menu03_05_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/mobile/partners.php">Partners</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div id="menu03_06" class="subnavdiv" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_06_01 != 'undefined') { clearTimeout (subNavTimer03_06_01); } MM_toggleSubNav('menu03_06', 'menu03_06_01', 'show'); }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_06_01 = setTimeout('MM_toggleSubNav(\'menu03_06\', \'menu03_06_01\', \'hide\')', intHidMenuTimeout); }"><a href="http://www.infospaceinc.com/findit/findit.php">InfoSpace Find It!</a></div><div class="subnavspacer" onmouseover="if (menuMouseOver) { menuMouseOver(3); }" onmouseout="if (menuMouseOut) { menuMouseOut(3);} "><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div></div>
-<div id="menu03_01_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_01_01 != 'undefined') { window.clearTimeout (subNavTimer03_01_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_01_01 = setTimeout('MM_toggleSubNav(\'menu03_01\', \'menu03_01_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu03_02_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_02_01 != 'undefined') { window.clearTimeout (subNavTimer03_02_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_02_01 = setTimeout('MM_toggleSubNav(\'menu03_02\', \'menu03_02_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu03_03_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_03_01 != 'undefined') { window.clearTimeout (subNavTimer03_03_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_03_01 = setTimeout('MM_toggleSubNav(\'menu03_03\', \'menu03_03_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu03_04_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_04_01 != 'undefined') { window.clearTimeout (subNavTimer03_04_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_04_01 = setTimeout('MM_toggleSubNav(\'menu03_04\', \'menu03_04_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu03_05_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_05_01 != 'undefined') { window.clearTimeout (subNavTimer03_05_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_05_01 = setTimeout('MM_toggleSubNav(\'menu03_05\', \'menu03_05_01\', \'hide\')', intHidMenuTimeout); }">
-</div>
-<div id="menu03_06_01" onmouseover="if (menuMouseOver) { menuMouseOver(3); if (typeof subNavTimer03_06_01 != 'undefined') { window.clearTimeout (subNavTimer03_06_01);} }" onmouseout="if (menuMouseOut) { menuMouseOut(3); subNavTimer03_06_01 = setTimeout('MM_toggleSubNav(\'menu03_06\', \'menu03_06_01\', \'hide\')', intHidMenuTimeout); }">
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/mobile.php">Mobile</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/online.php">Online</a></div>
-	<div class="subnavspacer"><img src="http://www.infospaceinc.com/images/trans.gif" width="130" height="1" border="0" alt=""></div><div class="subnavdiv"><a href="http://www.infospaceinc.com/findit/pressroom.php" target="_blank">Press Room</a></div>
-</div>
-<script language="javascript" type="text/javascript">
-<!--
-	initNav(1);
-//-->
-</script>
 
 
-</body></html>
+</div></body></html>
