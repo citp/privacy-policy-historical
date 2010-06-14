@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aqwwiki.wikidot.com privacy policy that was archived on 2009-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091201132244id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aqwwiki.wikidot.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614050552id_/http%3A//www.wikidot.com/legal%3Aprivacy-policy) for the most accurate reproduction.*
 
 # Wikidot - Free and Pro Wiki Hosting: Privacy Policy
 
