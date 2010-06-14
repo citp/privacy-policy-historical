@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shopplanetblue.com privacy policy that was archived on 2009-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090322044115id_/http%3A//shopplanetblue.com/api/Index.cfm/cms.page/i/1491/t/PRIVACY%2520POLICY.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopplanetblue.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614204310id_/http%3A//shopplanetblue.com/index.php/privacy-policy) for the most accurate reproduction.*
 
-# Rich and Skinny Denim ~ Free People Clothing ~ Trina Turk Dresses ~ Mara Hoffman ~ Blue Life ~ Diane Von Furstenberg ~ Havaianas ~ Lauren Conrad Dress ~ Dolce Vita Shoes ~ Single Dress ~ Bohemian Dress
+# Privacy Policy
 
 Planet Blue is completely committed to protecting your privacy. The information you provide us during checkout is used to process orders and to assist us in delivering administration type emails.  Planet Blue utilizes every available technology to ensure that your confidential information remains secure.
 
