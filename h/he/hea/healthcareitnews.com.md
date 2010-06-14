@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227023524id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthcareitnews.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614035908id_/http%3A//www.healthcareitnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Healthcare IT News
 
@@ -26,7 +26,7 @@ If you choose to use our referral service to tell a friend about our site, we wi
 
 **Commenting Policy**
 
-Registered site users are encouraged to post comments on _Healthcare Finance News_ content including stories and blogs. Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or Web sites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
+Registered site users are encouraged to post comments on _Healthcare IT News_ content including stories and blogs. Comments should be editorial in nature, and should not be promoting or otherwise linking to third party products or Web sites. The use of all-caps, text markup or other methods of "shouting" are discouraged in the interest of maintaining a high-level, respectful forum for discussion.
 
 Comments may not:
 
@@ -51,6 +51,10 @@ Site administrators reserve the right to delete comments and/or block users who 
 **Promotions**
 
 We will occasionally send you information on products, services, special deals, and white papers. We allow you to opt-out of these types of communications.
+
+**Resource Central**
+
+By accessing a content asset in Resource Central, you agree to your contact information being supplied to the sponsor of that content asset. Only the information that you have supplied will be sent to the sponsor. Once you provide your contact information through Resource Central, your information will be supplied to that sponsor even if you have previously opted out of receiving information from MedTech sponsors.
 
 **Disclaimer**
 
