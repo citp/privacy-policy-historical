@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221023348id_/http%3A//www.f-secure.com/en_EMEA/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615003815id_/http%3A//www.f-secure.com/en_US/privacy.html) for the most accurate reproduction.*
 
 # F-Secure Legal Terms and Privacy
 
@@ -113,7 +113,7 @@ From time to time, we may disclose Personal Data relating to you to those Subcon
 
 Where our Clients’ Personal Data needs to be disclosed to our Subcontractors, We require, in our contracts with them, that they use such information solely for the purpose of providing services to F-Secure, and under the strict instructions of F-Secure, and with respect to that information, to act in a manner consistent with this Personal Data Policy, your agreements with us and the mandatory laws applicable to F-Secure. 
 
-To ensure better availability and provisioning of Services in various time zones and during different times of day, some of these entities are located in countries outside the EEA. Where personal data is transferred from EEA to outside EEA, F-Secure will safeguard the security and integrity of the transferred Personal Data by appropriate means as required by the law. We will do this by imposing appropriate technical and/or contractual safeguards with regard to relevant Subcontractors and F-Secure group companies (e.g. by using data transfer clauses approved by European Union).  
+To ensure better availability and provisioning of Services in various time zones and during different times of day, some of these entities are located in countries outside North America. Where personal data is transferred from North America to outside North America, F-Secure will safeguard the security and integrity of the transferred Personal Data by appropriate means as required by the law. We will do this by imposing appropriate technical and/or contractual safeguards with regard to relevant Subcontractors and F-Secure group companies (e.g. by using data transfer clauses approved by European Union).  
 
 From time to time, we disclose Personal Data to our distribution partners, from whom you have purchased the Services. We will share with these companies only such Personal Data that is necessarily needed by such distribution partners for purposes of undertaking their agreed activities, but not exceeding those listed above in section 4. The commercial parties to whom we transfer Personal Data are also bound by agreements and by legislation to safeguard the Personal Data. 
 
@@ -194,9 +194,9 @@ We will change or supplement this Personal Data Policy from time to time. We wil
 If you have any questions or concerns about the matters discussed in this Personal Data Policy, please contact:
 
 F-Secure Corporation  
-Tammasaarenkatu 7   
-PL 24,    
-00181 Helsinki   
-Tel. +358 9 2520 0700 
+100 Century Center Court  
+Suite 700,    
+San Jose, CA  95112  
+Tel. +888.432.8233
 
-Copyright © F-Secure 2009
+Copyright © F-Secure 2010
