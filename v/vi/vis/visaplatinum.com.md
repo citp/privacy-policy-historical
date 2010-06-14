@@ -1,36 +1,18 @@
-> *The following text is extracted and transformed from the visaplatinum.com privacy policy that was archived on 2009-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090630061710id_/http%3A//www.visa-asia.com/ap/sea/general/privacy/index.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the visaplatinum.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614032231id_/http%3A//www.visa-asia.com/ap/sea/general/privacy/index.shtml) for the most accurate reproduction.*
 
 # Visa Southeast Asia | Privacy Policy
 
-| [](http://www.visa.com/aboutvisa)  
----  
-[](https://web.archive.org/ap/sea/general/legal/index.shtml)  
-[](https://web.archive.org/ap/sea/general/privacy/index.shtml)  
-[](https://web.archive.org/ap/sea/general/hyperlink/index.shtml)  
-[](https://web.archive.org/ap/sea/general/copyright/index.shtml)  
-|  |   
-|  | Visa Inc. (“Visa”, “we”, “us” or “our”) wants you to feel secure when visiting the Visa AP website. Committed to protecting your privacy, Visa safeguards your personal information to maintain customer trust. 
+### Privacy Policy
 
-Visa respects the privacy of visitors of www.Visa-asia.com and its related sites (collectively the “Visa AP website”) by disclosing and explaining in this Privacy Policy (“Policy”) how Visa collects, uses and shares information about you from the Visa AP website and the choices that you can make about the way your information is collected, used and shared. Visa encourages you to read this Privacy Policy and those of all web sites you visit.  
   
----  
-|   
-| 01\. Sites covered by this Privacy Policy  
-| 02\. Types of information collected on the Visa AP website  
-| 03\. Why we collect your information  
-| 04\. How we collect information  
-| 05\. Who we share information with  
-| 06\. Your choices and opting out  
-| 07\. How to access and correct your personal information  
-| 08\. Children’s privacy  
-| 09\. Keeping your information secure  
-| 10\. Acceptance of policy  
-| 11\. Changes to statement  
-| 12\. Contacting us  
-01\. Sites covered by this Privacy Policy  
-This Privacy Policy applies to all services available on the Visa AP websites . Although this is a regional privacy policy, each sub-regional or country site may have rules and regulations that are not covered by this policy. We encourage you to read your sub-regional or country’s privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Privacy Policy. If you do not wish to agree to these terms, you should leave this web site.  
----  
-02\. Types of information collected on the Visa AP website  
+
+
+##### 01\. Sites covered by this Privacy Policy
+
+This Privacy Policy applies to all services available on the Visa AP websites . Although this is a regional privacy policy, each sub-regional or country site may have rules and regulations that are not covered by this policy. We encourage you to read your sub-regional or country’s privacy policy before using the site. By visiting this web site, you are agreeing in advance to the current and future terms of this Privacy Policy. If you do not wish to agree to these terms, you should leave this web site.
+
+##### 02\. Types of information collected on the Visa AP website
+
 There are two types of information collected on the Visa AP website: Personal Information and Non-Personal Information.  
 
   **Personal Information**  
@@ -41,10 +23,10 @@ Personal Information is information that identifies you as an individual, such a
  Once you choose to provide us with personal information, you can be assured it will be used only to support your relationship with Visa. We take seriously the trust you place in us and will not sell, rent or lease your personal information to others.
 
   **Non-Personal Information**  
-Non-Personal Information is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using the Visa AP website. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey.  
-  
----  
-03\. Why we collect your information  
+Non-Personal Information is information that does not identify you as an individual, such as your browser type, IP Address, the URL of the previous web site you visited, etc. Visa may automatically collect certain types of non-personal information from you when using the Visa AP website. We may also collect non-personal information that you voluntarily provide, such as information included in response to a questionnaire or survey.
+
+##### 03\. Why we collect your information
+
 Visa’s primary purpose in collecting personal information on the Visa AP website is to provide you with a safe and efficient experience and to provide you with services and features that better meet your needs or requests. We only collect information that we consider necessary for achieving this purpose. 
 
  Visa will collect your personal information for the following purposes:
@@ -56,11 +38,12 @@ Visa’s primary purpose in collecting personal information on the Visa AP websi
   * To contact you and send communications to you regarding promotions, announcements or offers relating to your Visa card.
 
 
-   
-Some of the personal information we collect is essential for us to be able to accurately identify who is using various Visa promotions and announcements and to communicate with you. Other types of personal information we collect help us to profile who are registered cardholders and what their interests are.  
-  
----  
-04\. How we collect information  
+ 
+
+Some of the personal information we collect is essential for us to be able to accurately identify who is using various Visa promotions and announcements and to communicate with you. Other types of personal information we collect help us to profile who are registered cardholders and what their interests are.
+
+##### 04\. How we collect information
+
 Visa collects data when you provide information to us or through the use of web technology.  
 
   **Information Collected Through You**  
@@ -79,10 +62,10 @@ The Visa AP website may use web beacons to serve advertising, enhance email adve
  Web beacons, also called clear GIFs (a common format for image files), are invisible files on web pages that you visit. If you visit a page on the Visa AP website that contains a web beacon, it communicates with your computer to determine, among other things, whether you have been to that page before or viewed a particular advertisement.
 
   **IP Address:**  
-The Visa AP website may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to the Visa AP website). When you visit a particular web page on the Visa AP website, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet.  
-  
----  
-05\. Who we share information with  
+The Visa AP website may collect IP addresses for the purposes of systems administration, server problem diagnosis and compiling aggregate information (such as how many visitors logged on to the Visa AP website). When you visit a particular web page on the Visa AP website, our servers log your IP address. An IP address is a number that is assigned to your computer automatically when you use the Internet.
+
+##### 05\. Who we share information with
+
 We take seriously the trust you place in us and will not sell, rent or lease your information to others. 
 
  Visa employs other companies and individuals (“agents”) to perform services on behalf of  Visa, such as administering sweepstakes and contests, sending emails, providing marketing assistance, web site management and analyzing data. Such agents will have access to personal and non-personal information only as necessary to perform their services for us and are not permitted to use it for any other purpose.
@@ -97,43 +80,46 @@ We take seriously the trust you place in us and will not sell, rent or lease you
 (b) protect or defend our legal rights or property, Visa or our users; or  
 (c) investigate, prevent or take action regarding illegal activities, suspected fraud,  
      situations involving potential threats to the physical safety of any person or  
-     violations of the terms and conditions of using the Visa AP website.  
-  
----  
-06\. Your choices and opting out  
+     violations of the terms and conditions of using the Visa AP website.
+
+##### 06\. Your choices and opting out
+
 Visa will contact you only if you elect to be contacted.  
 
  If you choose to receive email messages, Visa may periodically send you email messages describing updates, new features or promotional offers related to this web site. You can choose to stop receiving this email at any time. Simply follow the instructions included in your email or send a reply stating your request. 
 
  If you do not explicitly choose to receive informational emails, the only email messages you will receive from Visa will be in response to email inquiries that you send us. 
 
- At any time, you can “opt-out” of receiving direct mail and marketing material from Visa, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested changes.  
-  
----  
-07\. How to access and correct your personal information  
+ At any time, you can “opt-out” of receiving direct mail and marketing material from Visa, such as product and service updates, by following the instructions included in your email or by sending a reply stating your request, and we will make the requested changes.
+
+##### 07\. How to access and correct your personal information
+
 You may, in most circumstances, have access to personal information which Visa holds about you. 
 
- To modify or delete your personal information, simply follow the instructions included in your email or on the Visa AP website, or send a reply stating your request, and we will make the requested changes.  
-  
----  
-08\. Children’s privacy  
-The Visa AP website is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit.  
----  
-09\. Keeping your information secure  
-The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site.Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.  
----  
-10\. Acceptance of policy  
+ To modify or delete your personal information, simply follow the instructions included in your email or on the Visa AP website, or send a reply stating your request, and we will make the requested changes.
+
+##### 08\. Children’s privacy
+
+The Visa AP website is not intended for use by children. We do not knowingly collect information from children under the age of 13. If we learn that personal information on a child under the age of 13 is collected, we will delete that information from our systems. We encourage parents and guardians to be familiar with the web sites that their children visit.
+
+##### 09\. Keeping your information secure
+
+The security of your personal information is very important to us, and we are committed to protecting the information that we collect. We have security measures in place at our facilities to protect against the loss, misuse or alteration of information that Visa has collected from you at our web site.Unfortunately, no data transmission over the Internet or any wireless network can be guaranteed to be 100 percent secure. As a result, while we strive to protect your personal information, Visa cannot ensure or warrant the security of any information you transmit to us or from our online products or services, and you do so at your own risk.
+
+##### 10\. Acceptance of policy
+
 By visiting the Visa AP website, you are accepting the terms and conditions of this Privacy Policy, and we have the right to use your information as described in this Privacy Policy. We reserve the right to modify this Privacy Policy at any time. Your continued use of the Visa AP website after we either personally notify you or generally post such changes on the Visa AP website will constitute your acceptance of those changes.  
 
  This Privacy Policy applies only with respect to the information that we collect on the Visa AP website and not to any information that Visa collects through other methods or sources. 
 
- If for some reason you believe that Visa has not adhered to this Privacy Policy, please notify us at one of the addresses below.  
-  
----  
-11\. Changes to statement  
-Visa may modify or amend this Privacy Policy from time to time. In an effort to keep you informed of changes to this Privacy Policy, please note that the latest revision occurred in September 2004. Changes to this Privacy Policy will not affect our use of previously provided personal information.  
----  
-12\. Contacting us  
+ If for some reason you believe that Visa has not adhered to this Privacy Policy, please notify us at one of the addresses below.
+
+##### 11\. Changes to statement
+
+Visa may modify or amend this Privacy Policy from time to time. In an effort to keep you informed of changes to this Privacy Policy, please note that the latest revision occurred in September 2004. Changes to this Privacy Policy will not affect our use of previously provided personal information.
+
+##### 12\. Contacting us
+
 Please note that whenever you submit any information to us in connection with any Visa AP website-related services, you consent to Visa’s processing of this information in the United States as necessary to provide the services in which you are participating.  
 
  If you have any questions or comments about the Visa AP website’s Privacy Policy and/or the way it affects you, please feel free to contact us by:
@@ -147,7 +133,4 @@ Corporate Communications
 Visa Inc.  
 Robinson Road  
 P.O. Box 597  
-Singapore 901147  
-  
----  
-| 
+Singapore 901147
