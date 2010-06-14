@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2009-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090614041839id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uxbooth.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614073302id_/http%3A//www.uxbooth.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | UX Booth
 
@@ -21,24 +21,29 @@ You can chose to disable or selectively turn off our cookies or third-party cook
 
 This web site contains links to other sites. Please be aware that UXBooth.com is not responsible for the privacy practices, or content of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by this website.
 
-[Advertise with us](http://buysellads.com/buy/detail/1514/)
+[](http://www.extjs.com/signup/extjs.php?ref=uxb)
 
-#### Recent Reviews
+[](http://www.loop11.com/)
 
-#### Recent Posts
+[](http://www.hotgloo.com/?utm_source=uxbooth&utm_medium=banner&utm_campaign=banner052010)
 
-##### [How To Approach Categories and Navigation in Blogging](http://www.uxbooth.com/blog/how-to-approach-categories-and-navigation-in-blogging/ "Permanent Link to How To Approach Categories and Navigation in Blogging")
+### Latest Resources
 
-Why is it that when you’re creating a linking structure for a website you call it “navigation”, but when it’s for a blog it’s sometimes called “categories”?
+  * #### [Process: Early user research, simulation and evaluation](http://www.uxbooth.com/resources/process-early-user-research-simulation-and-evaluation/)
 
-[Read This Post »](http://www.uxbooth.com/blog/how-to-approach-categories-and-navigation-in-blogging/ "How To Approach Categories and Navigation in Blogging")
+“And if you don’t do this in an early stage, in a majority of the cases it simply is not possible to change it in a later stage. (…
 
-##### [8 Tips for Maintaining a User Friendly Site in One Hour a Month](http://www.uxbooth.com/blog/8-tips-for-maintaining-a-user-friendly-site-one-hour-a-month/ "Permanent Link to 8 Tips for Maintaining a User Friendly Site in One Hour a Month")
+  * #### [Use Shadowbox to show information without losing your customers attention](http://www.uxbooth.com/resources/use-shadowbox-to-show-information-without-losing-your-customers-attention/)
 
-By: [Redd Horrocks](http://www.uxbooth.com/author/reddhorrocks/ "Posts by Redd Horrocks")
+I was reading an article by Erin Jo Richey over at uxbooth.com on cart abandonment and I wanted to implement some of the ideas into my magento…
 
-Keeping a website maintained and usable can be done in as little as an hour a month. Check out these tips for keeping on top of your site.
+  * #### [The Golden Rules of Usable Web Design](http://www.uxbooth.com/resources/the-golden-rules-of-usable-web-design/)
 
-[Read This Post »](http://www.uxbooth.com/blog/8-tips-for-maintaining-a-user-friendly-site-one-hour-a-month/ "8 Tips for Maintaining a User Friendly Site in One Hour a Month")
+“The Golden Rules of Usable Web Design” by Theo Mandel, Ph.D. Presented in Denver, CO on May 19, 2010.
 
-[See More Blog Posts »](http://www.uxbooth.com/view/blog/)
+
+
+
+[Submit a resource](https://web.archive.org/new-resource/)
+
+### UX Booth Community
