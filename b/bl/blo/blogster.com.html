@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the blogster.com privacy policy that was archived on 2009-12-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091208155202id_/http%3A//www.blogster.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the blogster.com privacy policy that was archived on 2010-06-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100614101028id_/http%3A//www.blogster.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 	<script type="text/javascript">
@@ -18,7 +18,8 @@
 	<link rel="icon" type="image/ico" href="/style/blogster/favicon.ico">
 	<link rel="shortcut icon" type="image/ico" href="/style/blogster/favicon.ico">
 
-	
+
+
 	<!-- client libraries -->
 	<script type="text/javascript" src="/share/jquery.bpackage.jgz"></script>
 	<link rel="stylesheet" type="text/css" href="/share/jquery.bpackage.cssgz">
@@ -31,6 +32,7 @@
 </head>
 <body>
 
+<script type="text/javascript">var appbar = null;</script>
 
 <div id="container">
 	<div id="main" style="padding-top:6px;">
@@ -95,6 +97,8 @@ jQuery(document).ready(function(){
 				<li><a href="http://www.blogster.com/search">Search</a></li>
 				<li><a href="http://www.blogster.com/chat">Chat</a></li>
 				<li><a href="http://www.blogster.com/poll">Polls</a></li>
+				<li><a href="http://www.blogster.com/quiz">Quizzes</a></li>
+				<li><a href="http://www.blogster.com/more">More</a></li>
 			</ul>
 			
 			<form class="searchform" action="http://www.blogster.com/search" method="get">
@@ -129,7 +133,7 @@ function localDeleteNotify(id) {
 					function(json) {
 						if(json.data.length) {
 							jQuery('#global-notify').html(
-								"<div style=\"display:none;width:690px;\"><a style=\"font-size:9pt;color:inherit;\" href=\"" + json.data[0].url +"\">" + json.data[0].textShort + "</a> &bull; <a style=\"font-weight:normal;\" href=\"/my/notifications\">See All</a> &bull; <a style=\"font-weight:normal\" href=\"javascript:localDeleteNotify('" + json.data[0].id + "');\">Delete</a></div>"
+								"<div style=\"display:none;width:690px;\"><a style=\"font-size:9pt;color:inherit;\" href=\"" + json.data[0].url +"\">" + json.data[0].textShort + "</a> &bull; <a style=\"font-weight:normal;\" href=\"http://www.blogster.com/my/notifications\">See All</a> &bull; <a style=\"font-weight:normal\" href=\"javascript:localDeleteNotify('" + json.data[0].id + "');\">Delete</a></div>"
 							);
 							
 						} else {
@@ -152,7 +156,7 @@ function localDeleteNotify(id) {
 <span style="font-size:9pt">Welcome to Blogster!</span>			</div>
 			<div style="float:right">
 				
-		  	63,277 Blogster Users &nbsp;|&nbsp; 365,643 Posts
+		  	81,017 Blogster Users &nbsp;|&nbsp; 365,643 Posts
 		  	</div>
 		  </div>
 		  
@@ -162,7 +166,10 @@ function localDeleteNotify(id) {
 
 		<div id="main-content-top">&nbsp;</div>
 		<div id="main-content">
-			<div><!--
+			<div>
+				
+
+							<!--
 				<div class="inline-msg"><div class="warning">
 					<img src="/style/blogster/gfx/action/delete-16.png" alt="" style="vertical-align:-20%;margin-right:10px;cursor:pointer" />
 					This is a test of a cleaner looking notification bar using the "warning" style.
@@ -262,7 +269,7 @@ function localDeleteNotify(id) {
 <p>For any information, queries or complaints regarding the policy, the customer may contact BLOGSTER.COM by submitting the modification of personal information request form on the website.</p>
 		
 
-		<div id="clr-main">&nbsp;</div>
+		<div class="clr-main">&nbsp;</div>
 	</div>
 	<div id="main-content-bottom">&nbsp;</div>
 
@@ -280,7 +287,7 @@ function localDeleteNotify(id) {
 		<a href="http://www.blogster.com/sitemap">Sitemap</a>
 		<a href="http://www.blogster.com/advertise">Advertise</a>		
 		</p>
-		<p>© Copyright 2007-2009 Blogster.com</p><p>&nbsp;</p></div>
+		<p>© Copyright 2007-2010 Blogster.com</p><p>&nbsp;</p></div>
 	</div>
 </div>
 <script type="text/javascript">
