@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uniquephones.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215112319id_/http%3A//www.uniquephones.com/Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uniquephones.com privacy policy that was archived on 2010-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100614022608id_/http%3A//www.unlocking.com/Privacy-Policy.html) for the most accurate reproduction.*
 
-# Cell Phone Unlock Codes | UniquePhones
+# Cell Phone Unlock Codes | Unlocking.com - Trusted By Millions
 
-At UniquePhones, your personal information is important to us, and while we do our utmost to guard the information we collect, please read our privacy policy so you will understand how your information is collected and safeguarded.
+At Unlocking.com, your personal information is important to us, and while we do our utmost to guard the information we collect, please read our privacy policy so you will understand how your information is collected and safeguarded.
 
 Each visitor to our web page is automatically recognized by domain name, but not the email address (where possible). We do collect the domain names and email addresses (where possible) of our visitors. This includes web page visitors, those who post messages on our bulletin board, email addresses of people who communicate with us via email, chat in our chat areas, aggregate information on what pages you've accessed or visited, information volunteered by you (such as survey information, site registration, payment information from credit card and billing addresses).
 
@@ -27,8 +27,7 @@ Persons who supply us with the telephone numbers online will only receive teleph
 If you feel that this site is not following its stated information policy, you may contact us in writing.
 
 UniquePhones, Inc.  
-11th Floor  
-115 East 57th Street  
-New York, NY 10022
+80 Broad St  
+New York, NY 10004
 
-Our email address is [Mail@UniquePhones.com](mailto:Mail@UniquePhones.com)
+Our email address is [Mail@Unlocking.com](mailto:Mail@Unlocking.com)
