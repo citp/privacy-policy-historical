@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ayofoto.com privacy policy that was archived on 2009-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091206235854id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ayofoto.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615050524id_/http%3A//www.ayofoto.com/privacy) for the most accurate reproduction.*
 
 # AYOFOTO! : About
 
