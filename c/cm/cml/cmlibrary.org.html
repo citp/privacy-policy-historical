@@ -1,0 +1,458 @@
+<!--The following is the downloaded HTML source of the cmlibrary.org privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615040518id_/http%3A//plcmc.org/About_Us/policiesPrivacy.asp) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd"><html><head>
+<link rel="stylesheet" type="text/css" href="/plcmcStyle.css" title="plcmcStyle">
+<meta name="description" content="Charlotte Mecklenburg Library, CMLibrary, The Public Library of Charlotte &amp; Mecklenburg County: About Us: Privacy Policy">
+<meta name="keywords" content="Charlotte Mecklenburg Library, CMLibrary, The Public Library of Charlotte &amp; Mecklenburg County, PLCMC, Library, About Us, Privacy Policy">
+<title>CMLibrary: About Us: Privacy Policy</title>
+</head>
+
+
+
+<body onfocus="document.catalogForm.q.focus();">
+<!--OnLoad="document.catalogForm.q.focus();"-->
+
+<script language="javascript" type="text/javascript" src="/public/feedback.js"></script>
+
+<script language="javascript" type="text/javascript">
+<!--
+function submitTheForm()
+{
+	if (document.forms.catalogForm.q.value == "" || document.forms.catalogForm.q.value == "Search Catalog / Website -->")
+	{
+		alert("You must type a word or phrase into the text box prior to searching.");
+		return false;
+	}
+	else
+	{
+		if (document.forms.catalogForm.searchType[0].checked)
+		{
+			document.forms.catalogForm.target="_blank";
+			document.forms.catalogForm.action = "http://catalog.plcmc.org";
+			document.forms.catalogForm.submit();
+			return false;
+		}
+		else
+		{
+			document.forms.catalogForm.target="_self";
+			document.forms.catalogForm.action = "/searchresults.asp";
+			document.forms.catalogForm.submit();
+			return false;
+		}
+	}
+}
+
+function validatecomment(form){
+var alertTxt
+alertTxt = ""
+
+	var invalidChars = " /:,;"
+			
+	var emailErrors = 0
+
+	var badChar = ""
+			
+	for (i=0;i < invalidChars.length; i++){
+			
+		badChar = invalidChars.charAt(i)
+				
+		if (form.emailaddr.value.indexOf(badChar,0) != -1) {
+				
+			emailErrors = emailErrors + 1
+				
+		}
+			
+	}
+			
+	var atPos = form.emailaddr.value.indexOf("@",1)
+			
+	if (atPos == -1) {
+			
+		emailErrors = emailErrors + 1
+			
+	}
+
+	if (form.emailaddr.value.indexOf("@",atPos+1) != -1) {
+	
+	
+		emailErrors = emailErrors + 1
+			
+	}
+			
+	periodPos = form.emailaddr.value.indexOf(".",atPos)
+			
+	if (periodPos == -1) {
+			
+		emailErrors = emailErrors + 1
+			
+	}
+
+	if(periodPos+3 > form.emailaddr.value.length){
+			
+		emailErrors = emailErrors + 1
+			
+	}
+
+	if (form.emailaddr.value != "" && emailErrors != 0) {
+			
+		alertTxt = alertTxt + "You have entered an invalid email address.\n"
+
+	}
+	if(alertTxt != ""){
+	alert(alertTxt);
+	return false;
+	}
+	else{
+	callServer();
+	form.reset();
+	return true;
+	}
+
+}
+//-->
+</script>
+
+	<!-- *** PAGE COMMENT FORM *** -->
+<div id="feedback" style="position: absolute; z-index:-1;visibility: hidden; left:0; top:0;"><br>
+<form method="post" name="feedbackForm" action="javascript:void%200" onsubmit="return validatecomment(this)">
+<table width="500" style="background-color:#CCCCCC; border:solid gray 1px;" border="0" cellpadding="4" cellspacing="0">
+<tbody><tr>
+<td colspan="5" class="font12" style="border-bottom: solid gray 1px;"><b>Please send us your comments about this Web page:</b></td>
+<td align="right" style="border-bottom: solid gray 1px;"><a href="javascript:void(0)" onclick="hideLayer('feedback')"><b>X Close</b></a></td>
+</tr>
+<tr>
+<td width="50" class="font12"></td>
+<td width="50" class="font12" align="center">Excellent<br>5</td>
+<td width="50" class="font12" align="center">&nbsp;<br>4</td>
+<td width="50" class="font12" align="center">&nbsp;<br>3</td>
+<td width="50" class="font12" align="center">&nbsp;<br>2</td>
+<td width="50" class="font12" align="center">Poor<br>1</td>
+</tr>
+
+<tr class="bggrey01">
+<td class="font12"><nobr>Page Organization:</nobr></td>
+<td align="center"><input type="radio" name="findInfo" id="findInfo" value="5"></td>
+<td align="center"><input type="radio" name="findInfo" id="findInfo" value="4"></td>
+<td align="center"><input type="radio" name="findInfo" id="findInfo" value="3"></td>
+<td align="center"><input type="radio" name="findInfo" id="findInfo" value="2"></td>
+<td align="center"><input type="radio" name="findInfo" id="findInfo" value="1"></td>
+</tr>
+
+<tr class="bggrey02">
+<td class="font12"><nobr>Ease of Reading:</nobr></td>
+<td align="center"><input type="radio" name="easyRead" value="5"></td>
+<td align="center"><input type="radio" name="easyRead" value="4"></td>
+<td align="center"><input type="radio" name="easyRead" value="3"></td>
+<td align="center"><input type="radio" name="easyRead" value="2"></td>
+<td align="center"><input type="radio" name="easyRead" value="1"></td>
+</tr>
+<tr class="bggrey01">
+<td class="font12"><nobr>Overall satisfaction:</nobr></td>
+<td align="center"><input type="radio" name="overall" value="5"></td>
+<td align="center"><input type="radio" name="overall" value="4"></td>
+<td align="center"><input type="radio" name="overall" value="3"></td>
+<td align="center"><input type="radio" name="overall" value="2"></td>
+<td align="center"><input type="radio" name="overall" value="1"></td>
+</tr>
+
+<tr><td colspan="6" class="font12" style="border-bottom: solid gray 1px;"><br><b>We welcome your comments. Please let us know how can improve this page.</b></td></tr>
+
+<tr><td colspan="6" class="font12">Please enter name(optional): <input class="form02" type="text" name="name" size="40"><br><br>Please provide an email address(optional): <input class="form02" type="text" name="emailaddr" size="30">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td></tr>
+
+<tr><td colspan="6"><textarea class="form02" id="comments" name="comments" cols="75" rows="5"></textarea></td></tr>
+
+<tr>
+<td colspan="6" align="center">
+<input class="form02" type="submit" value="Send">
+<input type="hidden" name="pageName" id="pageName" value="/About_Us/policiesPrivacy.asp"><input type="hidden" name="pageReferer" id="pageReferer" value="http://plcmc.org/robots.txt">
+</td>
+</tr>
+</tbody></table>
+</form>
+</div>
+
+<table id="cml_outerTable" cellpadding="0" cellspacing="0" width="740">
+
+	<!-- *** LOGO / TRANSLATION LINKS *** -->
+	<tbody><tr style="background-color:#831216;">
+	<td>
+	<table id="header">
+		<tbody><tr>
+		<td valign="middle"><a href="/"><img border="0" hspace="0" vspace="0" src="/images/cml_header01.gif" alt="Charlotte Mecklenburg Library" width="340" height="40"></a></td>
+		<td class="font10grey" style="width:380px; text-align:right;" valign="middle">
+		<table border="0" width="100%" cellpadding="0" cellspacing="0">
+			<tbody><tr>
+			<td align="center" valign="middle"><br><a style="padding:15px 15px; border:2px solid #660000;" class="link14boldgold" href="/donatenow/" target="_blank">Donate Now!</a></td>
+
+			<td align="right">
+			<a class="link14boldlight" href="/about_us/librarybudgetinfo.asp">Budget Information</a><br>
+			<span class="font10light" style="margin-top:13px;"><strong>Donation Total: $411,249.28</strong></span><br>
+			<a class="link12boldlight" href="/about_us/get_involved/advocate.asp">Call to Action - Advocate for the Library!</a>
+			</td>
+			</tr>
+		</tbody></table>
+		</td>
+		</tr>
+	</tbody></table>
+	</td>
+	</tr>
+
+	<!-- *** SITE NAV *** -->
+	<tr>
+	<td>
+	<div class="menu">
+	<ul>
+		<li><a style="width:65px;" href="/catalog/">CATALOG
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="http://catalog.cmlibrary.org" target="_blank">Go to Catalog</a></li>
+			<li><a href="http://hip.plcmc.org/ipac20/ipac.jsp?profile=plcmc&amp;menu=account#focus" target="_blank">My Account</a></li>
+			<li><a href="http://hip.plcmc.org/ipac20/ipac.jsp?profile=plcmc&amp;menu=account&amp;submenu=itemsout#focus">Renew Items</a></li>
+			<li><a href="https://purchase.plcmc.net/fines/default.aspx" target="_blank">Pay Fines</a></li>
+			<li><a href="/catalog/getcard.asp">Get Library Card</a></li>
+			<li><a href="http://hip.plcmc.org/">Classic Catalog</a></li>
+			<li><a href="/catalog/">Catalog Resources</a></li>
+			<li><a href="/catalog/audiobookoptions.asp">Media Downloads</a></li>
+			<li><a href="/readers_club">Adult Book Reviews</a></li>
+			<li><a href="/bookhive/">Kid Book Reviews</a></li>
+ 		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:80px;" href="/locations/">LOCATIONS
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/locations/">Location List</a></li>
+			<li><a href="/locations/branchmap.asp">Location Map</a></li>
+			<li><a href="/locations/">Locations Near You</a></li>
+			<li><a href="/locations/closings.asp">Scheduled Closings</a></li>
+			<li><a href="/about_us/building.asp">Building Projects</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:120px;" href="/programs/">CLASSES / EVENTS
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/programs/">Programs / Events</a></li>
+			<li><a href="/novello/">Novello Festival</a></li>
+			<li><a href="/programs/gamingzone/">Gaming Zone</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:145px;" href="/online/"><nobr>RESEARCH / HOMEWORK</nobr>
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/online/">Resource Search</a></li>
+			<li><a href="/online/ask_a_librarian/">Ask a Librarian</a></li>
+			<li><a href="/Online/subject.asp?subject=8">Newspapers</a></li>
+			<li><a href="/Online/subject.asp?subject=4">Magazines</a></li>
+			<li><a href="http://www.cmstory.org" target="_blank">History / Genealogy</a></li>
+			<li><a href="/Online/subject.asp?subject=2">Children's Resources</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+		<li><a style="width:65px;" href="/services/">SERVICES
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+
+			<li><a href="/services/default.asp#literacy">Literacy</a></li>
+			<li><a href="/services/default.asp#outreach">Outreach</a></li>
+			<li><a href="/services/default.asp#ed">Education</a></li>
+			<li><a href="/services/default.asp#community">Community</a></li>
+			<li><a href="/services/default.asp#bus">Business / Careers</a></li>
+			<li><a href="/jobs/">Job Help</a></li>
+			<li><a href="/services/default.asp#tech">Technology</a></li>
+			<li><a href="/novello_press/">Novello Press</a></li>
+			<li><a href="/services/plcmcwebsites.asp">Library Websites</a></li>
+		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:45px;" href="/kids/">KIDS
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/kids/">Kids Resources</a></li>
+			<li><a href="/Programs/programListing.asp?ag=&amp;form_Age=Babies%20%280-1%29,Toddlers%20%281-3%29,Pre-school%20%283-5%29,Elementary%20%285-11%29&amp;dt=dr&amp;ds=&amp;de=&amp;df=list&amp;cn=0&amp;private=0">Kids Events</a></li>
+			<li><a href="http://www.storyplace.org" target="_blank">Stories / Activities</a></li>
+			<li><a href="/bookhive/">Kids Book Reviews</a></li>
+			<li><a href="http://www.getset4k.org" target="_blank">Prepare for Kindergarten</a></li>
+			<li><a href="http://www.readtomecharlotte.org" target="_blank">Learning Tools</a></li>
+ 		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:55px;" href="/teens/">TEENS
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/teens/">Teen Resources</a></li>
+			<li><a href="http://www.libraryloft.org" target="_blank">LibraryLoft Teen Site</a></li>
+			<li><a href="/readers_club/">Adult / Teen Book Reviews</a></li>
+ 		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:65px;" href="/about_us/"><nobr>ABOUT US</nobr>
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/about_us/mission.asp">Mission</a></li>
+			<li><a href="/about_us/policies.asp">Policies</a></li>
+			<li><a href="/about_us/organization.asp">Organization</a></li>
+			<li><a href="/about_us/librarybudgetinfo.asp">Budget</a></li>
+			<li><a href="/about_us/jobs.asp">Employment</a></li>
+			<li><a href="/about_us/hr.asp">Human Resources</a></li>
+			<li><a href="/about_us/in_the_news/">Library News</a></li>
+			<li><a href="/about_us/history.asp">Library History</a></li>
+			<li><a href="/about_us/get_involved/">Support Your Library</a></li>
+ 		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+
+		<li><a style="width:82px;" href="/online/ask_a_librarian/"><nobr>CONTACT US</nobr>
+		<!--[if IE 7]><!--></a><!--<![endif]-->
+		<!--[if lte IE 6]><table><tr><td><![endif]-->
+		<ul>
+			<li><a href="/online/ask_a_librarian/">Ask a Librarian</a></li>
+			<li><a href="/about_us/in_the_news/">Press Room</a></li>
+			<li><a href="/about_us/vendors.asp">For Vendors</a></li>
+
+ 		</ul>
+		<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+		</li>
+	</ul>
+	</div>
+	</td>
+	</tr>
+
+	<!-- *** CATALOG BAR *** -->
+	<tr>
+	<td id="cml_catnav" class="cml_font11boldlight" valign="middle">
+	<div>
+	<form name="catalogForm" id="cml_searchform" action="/" method="GET" onsubmit="return submitTheForm();">
+		<input type="text" class="form02" size="20" maxlength="100" name="q" value="Search Catalog / Website" onfocus="this.value='';">
+		<input type="radio" name="searchType" value="catalog" checked=""> Catalog&nbsp;
+		<input type="radio" name="searchType" value="website"> Website&nbsp;
+		<a style="padding:0px 2px; border:2px solid #333333;" class="link11header" href="#" onclick="pageTracker._trackPageview('/outgoing/HIP_Search'); submitTheForm();">SEARCH</a>&nbsp;&nbsp;
+		<a class="link11headerlight" href="http://hip.plcmc.org/ipac20/ipac.jsp?profile=plcmc&amp;menu=account#focus" onclick="javascript: pageTracker._trackPageview('/outgoing/HIP_myAccount');">My Account</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link11headerlight" href="/Catalog/getcard.asp">Get a Card</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link11headerlight" href="https://purchase.plcmc.net/fines/default.aspx" onclick="javascript: pageTracker._trackPageview('/outgoing/fines_and_fees');" target="_blank">Pay Fines</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link11headerlight" href="http://hip.cmlibrary.org">Classic Catalog</a>&nbsp;&nbsp;|&nbsp;&nbsp;<a class="link11headerlight" href="http://catalog.plcmc.org/accessible.ashx">Mobile</a>
+	</form>
+	</div>
+	</td>
+	</tr>
+
+	<!-- *** BREADCRUMB *** -->
+	<tr>
+	<td id="breadcrumb">
+	<a class="link10" href="/">Home</a>  &gt; <a class="link10" href="/About_Us/">About_Us</a> &gt; <script language="javascript" type="text/javascript">document.write(document.title)</script>CMLibrary: About Us: Privacy Policy
+
+	<!-- *** ALERTS *** -->
+
+	<hr class="red">
+	<strong class="font12red">
+	On June 19, Belmont Center, Carmel and Checkit Outlet libraries will close due to funding cuts. <a class="link12red" href="http://www.plcmc.org/about_us/in_the_news/releaseDetails.asp?id=459">Learn more</a>
+<hr class="red">
+On June 19, Beatties Ford Rd. closes temporarily to speed up renovation. <a class="link12red" href="http://www.plcmc.org/about_us/in_the_news/releaseDetails.asp?id=459">Learn more</a>
+
+
+	</strong>
+	<hr class="red">
+	</td>
+	</tr>
+
+	<!-- *** PAGE CONTENT OPENS *** -->
+	<tr>
+	<td>
+	<table id="contentarea" cellpadding="0" cellspacing="0" border="0">
+		<tbody><tr>
+		<td><img border="0" vspace="0" hspace="0" src="/images/shim01.gif" alt="" width="10" height="1"></td>
+
+		<td>
+		<table class="table02" cellpadding="10" cellspacing="0" border="0" width="720">
+			<tbody><tr>
+			<td class="font12" valign="top">
+
+	<h3>Privacy Policy</h3>
+	<p></p><hr><p></p>
+	The Library is committed to protecting the privacy of visitors to its web sites.  The following discloses our information gathering and dissemination practices:
+	<p>
+	</p><ul>
+		<li>When you visit the Library's web site, we collect and store only information to measure the number of visitors to different areas of our sites to assist us in making our sites more useful to you.  This information includes:
+		<ul>
+			<li> The address (IP) of your computer or internet provider
+			</li><li> The date and time you accessed our site
+			</li><li> The Internet address of the web site that referred you to our site.
+		</li></ul>
+		</li><li> We ask visitors to our site to provide their e-mail address, postal address and/or telephone number only when needed to assist in answering inquiries, providing information, participating in a contest or shipping requested materials and products.   If a user submitting their postal address, e-mail address or telephone number is suspected of being younger than 13 years of age, the Library will delete this information from our records in accordance with the Children's Online Privacy Protection Act (COPPA).<br><br>
+		</li><li> In accordance with Library Confidentiality Policy, we will not sell, lease, or otherwise distribute or disclose your e-mail address, postal address, phone number, borrower records or other personal information for non-library purposes to outside parties unless required by law.  <br><br>
+		</li><li> We will never disclose a child's personal information as fullname, address, etc. ("information that would facilitate or enable the physical or online locating and contacting of a specific individual")  without written approval from a parent or legal guardian. In accordance with Children's Online Privacy Protection Act (COPPA) we will only display on our sites a child's first name, last initial, location and/or age on our sites to announce contest winners and display user submitted comments. <br><br>
+		</li><li> The Library's web sites use "cookies" to allow you access to certain functions ( such as the on-line catalog and electronic resources, etc) within our sites. These cookie files do not capture any personal user information (such as e-mail address or user passwords).  Temporary cookie files are automatically deleted when you close your browser. <br><br>
+
+		</li><li>Photos and videos that appear on the library's websites may be gathered from public programs, events, and library spaces. Photos, images and videos submitted by users for online galleries or contests may also be used by the Library for promotional purposes. To ensure the privacy of individuals and children, images will not be identified using full names or personal identifying information without written approval from the photographed subject, parent or legal guardian. <br><br>
+
+		</li><li> All credit card transactions (gift shop purchase, non-resident library fees, etc) placed on our sites are protected using Secure Sockets Layer (SSL) software. This software encrypts the information you input for your safety.  In confirming order statuses, we reveal only the last four digits of your credit card number. In order to further to protect your information, always sign off and close the browser when finished using a shared or public computer.<br><br>
+
+		</li><li> Some Library web sites/pages contain links to external sites not maintained by the Library.  The Library cannot be responsible for your privacy when you disclose information to outside web sites.  It is your responsibility to protect your personal information.<br><br>
+
+		</li><li> From time to time, we may use visitor information for new unanticipated uses not previously disclosed in our privacy notice.  If our information practices do change, we will post the policy changes on our site to notify you and provide you with the ability to opt out of these new uses.  If you have any  concerns about how your information is used, please <a href="/About_Us/email.asp?id=1">contact the Web Services department</a>.<br><br>
+	</li></ul>
+	<p></p>
+
+	<p>
+	<strong>Related Documents:</strong>
+	</p><ul>
+		<li><a class="thinGoldLInk" href="policiesPac.asp">Guidelines for use of Public Access Computers</a></li>
+		<li><a class="thinGoldLInk" href="policiesInternet.asp">Internet Use Policy</a></li>
+		<li><a class="thinGoldLInk" href="policiesSafetyNet.asp">The Internet Safety Net: A Guide for Parents</a></li>
+	</ul>
+	<p></p>
+
+			</td>
+			</tr>
+		</tbody></table>
+				</td>
+
+		<td><img border="0" vspace="0" hspace="0" src="/images/shim01.gif" alt="" width="10" height="1"></td>
+		</tr>
+	</tbody></table>
+	</td>
+	</tr>
+
+	<tr>
+	<td id="footer">
+	<hr>
+	<a class="link10grey" href="/catalog/">CATALOG</a> | <a class="link10grey" href="/locations/">LOCATIONS</a> | <a class="link10grey" href="/programs/">CLASSES / EVENTS</a> | <a class="link10grey" href="/online/">RESEARCH / HOMEWORK</a> | <a class="link10grey" href="/services/">SERVICES</a> | <a class="link10grey" href="/kids/">KIDS</a> | <a class="link10grey" href="/teens/">TEENS</a> | <a class="link10grey" href="/about_us/">ABOUT US</a> | <a class="link10grey" href="/online/ask_a_librarian/">CONTACT US</a>
+	<br><br>
+	<a href="http://www.systranlinks.com/trans?lp=en_es&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">ESPAÑOL</a> | <a href="http://www.systranlinks.com/trans?lp=en_fr&amp;url=http%3A%2F%2Fplcmc.org%2F " class="link10">FRANÇAIS</a> | <a href="http://www.systranlinks.com/trans?lp=en_de&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">DEUTSCH</a> |  <a href="http://www.systranlinks.com/trans?lp=en_pt&amp;url=http%3A%2F%2Fplcmc.org%2F" class="link10">PORTUGUÊSE</a>&nbsp;&nbsp;&nbsp;Powered by SYSTRAN
+	<br><br>
+	<a href="http://www.facebook.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_facebook_16.png" alt="Facebook" width="16" height="16"></a>
+	<a href="http://twitter.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_twitter_16.png" alt="Twitter" width="16" height="16"></a>
+	<a href="http://youtube.com/cmlibrary" target="_blank"><img border="0" hspace="2" vspace="0" src="/images/icon_youtube_16.png" alt="YouTube" width="16" height="16"></a>
+	<a href="/programs/rsslist.asp"><img border="0" hspace="2" vspace="0" src="/images/icon_rss_16.png" alt="Get Library RSS Feeds" width="16" height="16"></a>
+	<a class="addthis_button" href="http://addthis.com/bookmark.php?v=250&amp;username=xa-4bc4924b35e747d4"><img src="http://s7.addthis.com/static/btn/sm-share-en.gif" width="83" height="16" alt="Bookmark and Share" style="border:0"></a><script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=xa-4bc4924b35e747d4"></script>
+	<br><br>
+	© 2010 Charlotte Mecklenburg Library | 310 N. Tryon Street, Charlotte, NC 28202 | 704.416.0100
+	<br>
+	<a class="link10" href="/Online/Ask_a_Librarian/default.asp">Contact Us</a> | <a href="javascript:void(0)" class="link10" onclick="showLayer('feedback');">Comment on this page</a> | <a class="link10" href="siteindex.asp">Site Index</a> | <a class="link10" href="/services/plcmcwebsites.asp">Library Websites</a> | <a class="link10" href="/About_Us/policiesPrivacy.asp">Privacy Notice</a> | <a class="link10" href="/About_Us/policiesinternetsafety.asp">Internet Safety</a>
+	</td>
+	</tr>
+</tbody></table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script><script src="https://ssl.google-analytics.com/ga.js" type="text/javascript"></script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-6024886-1");
+pageTracker._trackPageview();
+</script>
+
+
+</body></html>
