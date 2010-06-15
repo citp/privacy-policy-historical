@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the cricfeeds.com privacy policy that was archived on 2009-12-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091201164700id_/http%3A//www.cricfeeds.com/cricfeeds_privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the cricfeeds.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615025257id_/http%3A//cricfeeds.com/cricfeeds_privacypolicy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -224,17 +224,25 @@
 				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please check your confirm password');
 				$("#rpassword").focus();
 				setTimeout("$('#errormsges').hide('slow')",4000);
-			}
-			else if($("#topCategoryId").val()=='')
-			{
+			}else if($("#mobinumber").val()==""){
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter your contact mobile no.');
+				$("#mobinumber").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}else if($("#imid").val()==""){
+				$("#errormsges").addClass("errorcls");
+				$("#errormsges").show('slow');
+				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please enter your Instant Messenger ID.');
+				$("#imid").focus();
+				setTimeout("$('#errormsges').hide('slow')",4000);
+			}else if($("#topCategoryId").val()==''){
 				$("#errormsges").addClass("errorcls");
 				$("#errormsges").show('slow');
 				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please select what kind of site is it?');
 				$("#topCategoryId").focus();
 				setTimeout("$('#errormsges').hide('slow')",4000);
-			}
-			else if($("input[type='checkbox'][@name='iag']:checked").length==0)
-			{
+			}else if($("input[type='checkbox'][@name='iag']:checked").length==0){
 				$("#errormsges").addClass("errorcls");
 				$("#errormsges").show('slow');
 				$("#errormsges").html('<img src="images/cancel.png" border="0"  />Please agree terms and conditions.');
@@ -259,6 +267,8 @@
 					password:$("#password").val(),
 					rpassword:$("#rpassword").val(),
 					category:$("#topCategoryId").val(),
+					mobinum:$("#mobinumber").val(),
+					imid:$("#imid").val(),
 					agree:"1"
 					//captcha:$("#securityImageText").val()
 				},
@@ -365,6 +375,14 @@
     <td><input type="password" id="rpassword" name="rpassword" size="28">&nbsp;<span class="star">*</span></td>
   </tr>
   <tr>
+    <td class="cricfeeds_generaltext">Mobile number :</td>
+    <td><input type="text" id="mobinumber" name="mobinumber" size="28">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
+    <td class="cricfeeds_generaltext">IM ID :</td>
+    <td><input type="text" id="imid" name="imid" size="28">&nbsp;<span class="star">*</span></td>
+  </tr>
+  <tr>
     <td class="cricfeeds_generaltext">What kind of site is it? :</td>
     <td align="left"><select id="topCategoryId" name="topCategoryId">
                                                 <option value="">Select a Category</option>
@@ -459,10 +477,10 @@
       <div id="cricfeeds-home-headerlist">
         <ul id="cricfeeds-home-header">
          <!-- <li id="active"><a href="http://www.cricfeeds.com" id="current">Home</a></li>	-->
-          <li id="active"><a href="cricfeeds_quickdemo.html" id="current">CF platform</a></li>
-          <li><a href="http://cricket.cricfeeds.com">live demo</a></li>
+          <li id="active"><a href="cricfeeds_platform.html" id="current">CF platform</a></li>
+          <li><a href="http://live.cricfeeds.com">live demo</a></li>
           <li><a href="customers.html">customers</a></li>
-          <li><a href="cricfeeds_comingsoon.html">advertise</a></li>
+          <li><a href="support.php">Support</a></li>
           <li><a href="cricfeeds_aboutus.html">about us</a></li>
 	  <li><a href="cricfeeds_customer-service.html">Contact-us</a></li> 	
         </ul>
@@ -740,6 +758,8 @@ Cricfeeds.com collects personal information when you register with the web site.
         <li><a href="cricfeeds_faqs.html">FAQ's</a></li>
         <li style="color:#FFFFFF">|</li>
         <li><a href="cricfeeds_sitemap.html">Sitemap</a></li>
+		<li style="color:#FFFFFF">|</li>
+		<li><a href="support.php">Support</a></li>
       </ul>
     </div>
   </div>
