@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the officialpsds.com privacy policy that was archived on 2009-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091130191226id_/http%3A//www.officialpsds.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the officialpsds.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615172717id_/http%3A//www.officialpsds.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Official PSDs
 
