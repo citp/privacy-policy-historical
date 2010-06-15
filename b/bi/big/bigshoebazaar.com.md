@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bigshoebazaar.com privacy policy that was archived on 2009-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091230031058id_/http%3A//www.bigshoebazaar.com/policy/content.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigshoebazaar.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615053547id_/http%3A//www.bigshoebazaar.com/policy/content.aspx) for the most accurate reproduction.*
 
-# Buy/Shop Woodland, Lee Cooper, Red Tape, Adidas, Reebok, Nike, ID Shoes for Men, Women & Kids, Branded Athletic/Sports Shoes & Sandals On Sale, Discount Footwear Store Online
+# Shoes, Sandals, Slippers | Bigshoebazaaar.com
 
 **Privacy Policy**
 
