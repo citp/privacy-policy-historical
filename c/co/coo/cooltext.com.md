@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2009-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090505204614id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooltext.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615040545id_/http%3A//cooltext.com/Privacy) for the most accurate reproduction.*
 
 # Cool Text: Privacy Policy
 
@@ -20,7 +20,7 @@ Cool Text, as well as most sites on the Internet, use "cookies" to enhance your 
 
 If you do not want the benefit of cookies, there is a simple procedure to manually delete your cookies. Please consult your web browser's Help documentation for more information. 
 
-Cool Text uses a reputable third party to serve the advertisements that you see on the pages of our Web site.
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
 
 |    
 
