@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelspot.us privacy policy that was archived on 2009-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090602050021id_/http%3A//www.travelspot.us/travel/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelspot.us privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615080735id_/http%3A//www.travelspot.us/travel/privacy-policy.html) for the most accurate reproduction.*
 
 # TravelSpot.US Privacy Policy
 
