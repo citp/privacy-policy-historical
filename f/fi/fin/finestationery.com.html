@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the finestationery.com privacy policy that was archived on 2009-07-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090705080635id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the finestationery.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615082832id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en"><head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
@@ -17,24 +17,248 @@
 	
 
 
-	<link rel="SHORTCUT ICON" href="http://www.finestationery.com/fs-icon-20081103.ico">
+	<link rel="SHORTCUT ICON" href="/fs-icon-20081103.ico">
 
 				<title>Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards &amp;amp; more</title>
 			
 				<meta name="description" content="Fine Stationery offers premium wedding invitations, baby announcements, personalized stationery, holiday cards, baby shower invitations, save the date cards, moving cards, and birth announcements.">
 			
-		<link rel="stylesheet" type="text/css" href="/css/subModal.css?ds=20090429">
+	    <script type="text/javascript" src="/cached_media/wwwfinestationerycom_s_aboutus_privacycfm.js?20100609022342"></script>
 	
-		<script type="text/javascript" src="/js/subModal.js?ds=20090429"></script>
+        <link rel="stylesheet" type="text/css" href="/cached_media/wwwfinestationerycom_s_aboutus_privacycfm.css?20100609022342">
+    
+
+		    
+		<!--[if IE 7]
+	    
+	    <script type="text/javascript" src="/cached_media/wwwfinestationerycom_s_aboutus_privacycfmie7.js?19691231070000"></script>
 	
-</head>
+        <link rel="stylesheet" type="text/css" href="/cached_media/wwwfinestationerycom_s_aboutus_privacycfmie7.css?20100609022342" />
+    
+	    <![endif]-->
+			
+	    
+			
+			
+            
+    			
+            <script type="text/javascript"> <!--
+function init_form_customer_review_form_1(){
+                	
+                    jQuery("#customer_review_form_1").validate({
+                        
+                        submitHandler: function(form){
+                            jQuery(form).ajaxSubmit({
+                                dataType:'json',
+                                success:function(result){
+                                    
+                                    if(result['IS_VALID']){
+                                        setHUITPSuccessMessage && setHUITPSuccessMessage();
+                                    }else{
+                                        alert('There was an error processing the form. We apologize for the inconvenience.');
+                                    }
+                                }
+                            });
+                        }
+                    });
+                    
+                    
+                    jQuery('#id_review_comments').bind('keyup',function(){
+                        var current_length = this.value.length;
+                        var remaining_count = 2000-this.value.length;
+                        jQuery('#id_review_comments_length').val(''+Math.max(0, remaining_count));
+                        if(remaining_count < 0){
+                            jQuery(this).val(this.value.slice(0,2000));
+                        }
+                    });
+                }
+                
+                jQuery(document).ready(function(){
+                    init_form_customer_review_form_1();
+                });//--> </script>
+        
+			
+            <script type="text/javascript">
+                jQuery.validator.addMethod("datetime", function(value){
+                    if(value == '') return true;
+                    var match = value.match(/([0-9]{1,2})\/([0-9]{1,2})\/([0-9]{2,4})\s+([0-9]{1,2}):([0-9]{2})\s+(AM|PM)/);
+                    if(!match) return false;
+                    var date_str = ''+match[1]+'/'+match[2]+'/'+match[3];
+                    if(!Date.parse(date_str)) return false;
+                    var hours = parseInt(match[4]);
+                    if(hours > 23) return false;
+                    var minutes = parseInt(match[5]);
+                    if(minutes > 59) return false;
+                    return true;
+                }, 'Please enter a date and time in the format \"Month/Day/Year Hour:Minute AM/PM.\"');
+            </script>
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+				
+              
+			
+		
+			
+		
+			<script type="text/javascript"> <!--
+jQuery.validator.addMethod("textarea_nospam", function(value){
+                    return value.search(/http[sS]?:\/\//) == -1;
+                }, 'Please refrain from submitting URLs.');//--> </script>
+		
+	
+	    <script type="text/javascript"> <!--
+function setHUITPSuccessMessage(){
+	            jQuery('#huitp-sub-container .message').css('display','');
+	            jQuery('#huitp-sub-container #huitp-form-container').css('display','none');
+	            setTimeout(function(){
+	            	jQuery.unblockUI({
+	            		onUnblock:function(){
+	            			
+	        			    
+					            jQuery('#huitp-sub-container .message').css('display','none');
+					            jQuery('#huitp-sub-container #huitp-form-container').css('display','');
+					            jQuery('#customer_review_form_1').resetForm();
+				            
+	            		}
+	            	});
+	            }, 10000);
+	        }
+	
+	        function openHUITP(){
+	        	
+                var el = jQuery('#huitp-button');
+                if(el.attr('loaded') == 'false'){
+                    el.attr('loaded','true');
+                    return loadHUITP();
+                }
+	            jQuery.blockUI({
+	                fadeIn:200,
+	                fadeOut:200,
+	                css:{
+	                    top:'50%',
+	                    marginTop:'-230px',
+	                    marginLeft:'-282px',
+	                    left:'50%',
+	                    width:'564px',
+	                    border:'none',
+	                    cursor:'auto'
+	                },
+	                message: jQuery('#huitp-container')
+	            });
+	        }
+	        
+	        function loadHUITP(){
+	        	
+	        	jQuery.ajax({
+                    url:'/huitp_load.cfm',
+                    data: {
+                    	ord_id:0,
+                    	prod_id:0,
+                    	survey_id:3 },
+                    dataType: 'html',
+                    success: function(html){
+                        jQuery('#huitp-container').append(html);
+                        
+                        bindHUITP();
+                        init_form_customer_review_form_1();
+                        openHUITP();
+                    }
+	        	});
+	        }
+	        
+	        function closeHUITP(opts){
+	        	
+	            jQuery.unblockUI(opts);
+	            return false;
+	        }
+	        
+	        
+	        function bindHUITP(){
+                jQuery('#huitp-cancel-button').click(function(){
+                    return closeHUITP();
+                });
+                
+                jQuery('#huitp-top-close-button').click(function(){
+                    return closeHUITP();
+                });
+	        }
+	
+	        jQuery(document).ready(function(){
+	        	
+	        	jQuery('#huitp-button').click(function(){
+                    openHUITP();
+	        	});
+	        	
+	        	bindHUITP();
+	            
+	            
+	        	
+	        });//--> </script>
+		    
+	</head>
 <body id="CUSTOMERCARE">
+
+<!-- ClickTale Top part -->
+<script type="text/javascript">
+var WRInitTime=(new Date()).getTime();
+</script>
+<!-- ClickTale end of Top part -->
+<script type="text/javascript">
+_udn = ".finestationery.com";
+</script>
+<!-- Google Website Optimizer Control Script -->
+<script>
+function utmx_section(){}function utmx(){}
+(function(){var k='1481862442',d=document,l=d.location,c=d.cookie;function f(n){
+if(c){var i=c.indexOf(n+'=');if(i>-1){var j=c.indexOf(';',i);return c.substring(i+n.
+length+1,j<0?c.length:j)}}}var x=f('__utmx'),xx=f('__utmxx'),h=l.hash;
+d.write('<sc'+'ript src="'+
+'http'+(l.protocol=='https:'?'s://ssl':'://www')+'.google-analytics.com'
++'/siteopt.js?v=1&utmxkey='+k+'&utmx='+(x?x:'')+'&utmxx='+(xx?xx:'')+'&utmxtime='
++new Date().valueOf()+(h?'&utmxhash='+escape(h.substr(1)):'')+
+'" type="text/javascript" charset="utf-8"></sc'+'ript>')})();
+</script><script src="https://ssl.google-analytics.com/siteopt.js?v=1&amp;utmxkey=1481862442&amp;utmx=&amp;utmxx=&amp;utmxtime=1580352418534" type="text/javascript" charset="utf-8"></script>
+<!-- End of Google Website Optimizer Control Script -->
+
 
   
 	
 	<!-- BEGIN COREMETRICS SUPPORT -->
-	<script src="/coremetrics/v40/eluminate.js" type="text/javascript"></script>
-	<script src="/coremetrics/cmdatatagutils.js?refresh=11/6/2008" type="text/javascript"></script>
+    
 	<script type="text/javascript">
 	<!--
 		
@@ -43,15 +267,44 @@
 	//-->
 	</script>
 
+	<!-- BEGIN COREMETRICS SUPPORT -->
+	<script language="javascript1.1" type="text/javascript">
+	<!--
+	var cmJv="1.1";
+	//-->
+	</script>
+	<script language="javascript1.2" type="text/javascript">
+	<!--
+	var cmJv="1.2";
+	//-->
+	</script>
+	<script language="javascript1.3" type="text/javascript">
+	<!--
+	var cmJv="1.3";
+	//-->
+	</script>
+	<script language="javascript1.4" type="text/javascript">
+	<!--
+	var cmJv="1.4";
+	//-->
+	</script>
+	<script language="javascript1.5" type="text/javascript">
+	<!--
+	var cmJv="1.5";
+	//-->
+	</script>
 
-
-<script type="text/javascript">
-	_ajaxConfig = {
-					'_jsscriptFolder':'/com/ajaxcfc/core/js',
-					'debug':0};
-</script>
-
-
+    
+	<script type="text/javascript">
+	<!--
+		
+			cmSetProduction();
+		
+			cmCreateTechPropsTag('Help: FineStationery Privacy Policy', '6000000');
+		
+	//-->
+	</script>
+	<!-- END COREMETRICS -->
 
 	<script type="text/javascript">
 		<!--
@@ -64,27 +317,26 @@
 			try {
 			var pageTracker = _gat._getTracker("UA-6913916-1");
 			pageTracker._setDomainName(".finestationery.com");
-			pageTracker._trackPageview();
+			
+				pageTracker._trackPageview();
+			
 			} catch(err) {}
 		// -->
 	</script>
 
 
-
-<script type="text/javascript" src="/com/ajaxcfc/core/js/ajax.js"></script><script language="javascript" type="text/javascript" src="/com/ajaxcfc/core/js/engine.js"></script><script language="javascript" type="text/javascript" src="/com/ajaxcfc/core/js/util.js"></script><script language="javascript" type="text/javascript" src="/com/ajaxcfc/core/js/wddx.js"></script>
-
-
-
 <div id="pageHeader">
 	<div id="headerMasthead">
-		<h1><a href="http://www.finestationery.com/index.cfm?"><span>FineStationery.com</span></a></h1>
-		<div><span>Call Our Experts: 888.808.FINE</span></div>
-		<form id="searchform" action="http://www.finestationery.com/search/" method="get">
+		<h1><a href="http://www.finestationery.com/"><span>FineStationery.com</span></a></h1>
+		<form id="searchform" name="searchform" action="http://www.finestationery.com/search/" method="get">
 			<fieldset>
 				<input class="inputTxt clearDefaultText" name="q" onclick="this.value=''" value="Enter keyword, style or theme" maxlength="50">
-				<img class="inputBtn" src="/images/btn_hdr_search_0.gif" alt="search" onclick="window.location.href='/search/'+document.getElementById('searchform').q.value;">
+				<img class="inputBtn" src="/images/btn_hdr_search_0.gif" alt="search" onclick="window.location.href='/search/'+document.getElementById('searchform').q.value;" title="search">
 			</fieldset>
 		</form>
+	<script>utmx_section("ChatButton")</script>
+			<div id="headerMasthead_chat"><a href="#"><img src="/images/txt_call_our_experts.gif" alt="Call Our Experts: 888.808.FINE" title="Call Our Experts: 888.808.FINE"></a><span></span></div>
+	
 	</div>
 	
 	
@@ -95,620 +347,786 @@
 			<span id="nav0_welcome">Welcome! [<a href="http://www.finestationery.com/login.cfm?sourcePage=s_aboutus_privacy.cfm">Login</a>]<span>&nbsp;</span></span>
 			
 			<span id="nav0_nav">
-				<a href="http://www.finestationery.com/index.cfm?click=NavLink">Home</a><span> | </span><a href="http://www.finestationery.com/s_aboutus.cfm?">Customer Care</a><span> | </span><a href="http://www.finestationery.com/s_aboutus_tracking.cfm?myaccttopnav">My Account</a><span> | </span><a href="http://www.finestationery.com/mystationery.cfm?mydestopnav">Saved Designs</a><span> | </span><a href="http://www.finestationery.com/checkout_viewcart.cfm?">Shopping Bag</a></span>
+				<a href="http://www.finestationery.com/">Home</a>
+				<span> | </span>
+				<a href="http://www.finestationery.com/s_aboutus.cfm?">Customer Care</a>
+				<span> | </span>
+				<a href="http://www.finestationery.com/s_aboutus_tracking.cfm?myaccttopnav">My Account</a>
+				<span> | </span>
+				<a href="http://www.finestationery.com/mystationery.cfm?mydestopnav">Saved Designs</a>
+				<span> | </span>
+				<a href="http://www.finestationery.com/checkout_viewcart.cfm">Shopping Bag</a>
+			</span>
 			
 		</div>
 	</div>
-
-
 	
 	
-	
-	<div id="nav1_wrapper">
-		<ul id="nav1">	
-			
-			
-					<li id="nav1_wedding">
-						
-				
-						<a href="http://www.finestationery.com/shop/wedding.html"><span>Wedding</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/invitations.html"><span>Wedding Invitations</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/rehearsal-dinner-invitations.html"><span>Rehearsal Dinner</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/table-cards.html"><span>Table Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/bridal-shower-invitations.html"><span>Bridal Shower</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/marriage-announcements.html"><span>Marriage Announcements</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/programs.html"><span>Wedding Programs</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/engagement-party-invitations.html"><span>Engagement Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/bachelorette-party-invitations.html"><span>Bachelorette Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/luncheon-invitations.html"><span>Luncheon</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/anniversary-invitations-announcements.html"><span>Anniversary</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/response-cards.html"><span>Response Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/menu-cards.html"><span>Menu Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/place-cards.html"><span>Place Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/non-personalized-place-cards.html"><span>Non-Personalized Place Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/wedding/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_baby">
-						
-				
-						<a href="http://www.finestationery.com/shop/baby.html"><span>Baby</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/boy-birth-announcements.html"><span>Boy Announcements</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/girl-birth-announcements.html"><span>Girl Announcements</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/multiple-birth-announcements.html"><span>Multiple Births</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/photo-birth-announcements.html"><span>Photo Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/shower-invitations.html"><span>Baby Shower</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/sip-and-see-invitations.html"><span>Sip and See</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/baptism-christening-invitations.html"><span>Baptism / Christening</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/personalized-candy-wrappers.html"><span>Candy Wrappers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/calling-cards.html"><span>Baby Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/stationery.html"><span>Baby Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/personalized-wall-art.html"><span>Wall Art</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/boxed-stationery.html"><span>Boxed Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/luggage-id-tags.html"><span>Luggage / ID Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/baby/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_stationery">
-						
-				
-						<a href="http://www.finestationery.com/shop/stationery.html"><span>Stationery</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/letterhead.html"><span>Letterhead</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/note-cards.html"><span>Note Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/flat-cards.html"><span>Flat Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/childrens-stationery.html"><span>Children's Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/pet-stationery.html"><span>Pet Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/collegiate-stationery.html"><span>Collegiate</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/non-personalized-stationery.html"><span>Non-Personalized Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/adult-calling-cards.html"><span>Adult Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/childrens-calling-cards.html"><span>Children's Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/note-pads.html"><span>Note Pads</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/camp-stationery.html"><span>Camp Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/letter-sheets.html"><span>Letter Sheets</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/stationery/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_party">
-						
-				
-						<a href="http://www.finestationery.com/shop/party.html"><span>Party</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/invitations-whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/childrens-birthday-invitations.html"><span>Children's Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/adult-birthday-invitations.html"><span>Adult Birthday</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/theme-invitations.html"><span>Theme Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/barbecue-invitations.html"><span>Barbecues</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/formal-invitations.html"><span>Formal Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/informal-invitations.html"><span>Informal Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/graduation-invitations-announcements.html"><span>Graduation</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/ladies-night-invitations.html"><span>Ladies Night</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/cocktail-invitations.html"><span>Cocktails</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/beach-pool-party-invitations.html"><span>Beach and Pool Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/corporate-invitations.html"><span>Corporate Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/bar-mitzvah-bat-mizvah-invitations.html"><span>Bar/Bat Mitzvahs</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/sweet-sixteen-birthday-invitations.html"><span>Sweet 16</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/male-occasions-invitations.html"><span>Male Occasions</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/holy-communion-invitations-announcements.html"><span>Communion</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/confirmation-invitations-announcements.html"><span>Confirmation</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/baptism-christening-invitations.html"><span>Baptism / Christening</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/baby-shower-invitations.html"><span>Baby Showers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/wine-cheese-party-invitations.html"><span>Wine and Cheese</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/bridal-shower-invitations.html"><span>Bridal Showers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/holiday-invitations.html"><span>Holiday Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/new-years-invitations.html"><span>New Years Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/luncheon-invitations.html"><span>Luncheons</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/football-invitations.html"><span>Football Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/anniversary-invitations-announcements.html"><span>Anniversary</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/patriotic-political-invitations.html"><span>Patriotic &amp; Political</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/tropical-invitations.html"><span>Tropical</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/fiesta-invitations.html"><span>Fiestas</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/quinceanera-invitations.html"><span>Quinceanera</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/sports-invitations.html"><span>Sports</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/floral-invitations.html"><span>Floral</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/cigar-bar-invitations.html"><span>Cigar/Bar</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/partyware.html"><span>Partyware</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/personalized-partyware.html"><span>Personalized Partyware</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/clambake-invitations.html"><span>Clambake</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/retirement-invitations.html"><span>Retirement</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/tea-coffee-invitations.html"><span>Tea and Coffee</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/halloween-invitations.html"><span>Halloween</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/valentines-day-invitations.html"><span>Valentine's Day</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/mardi-gras-invitations.html"><span>Mardi Gras</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/st-patricks-day-invitations.html"><span>St. Patricks Day</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/party/clearance-invitations.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_corporate">
-						
-				
-						<a href="http://www.finestationery.com/shop/corporate.html"><span>Corporate</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-cards.html"><span>Business Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-invitations.html"><span>Corporate Events</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/letterhead-stationery.html"><span>Letterhead</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-announcements.html"><span>Announcements</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-holiday-cards.html"><span>Holiday Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/holiday-party-invitations.html"><span>Corporate Holiday Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/stationery.html"><span>Correspondence Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/calendar-cards.html"><span>Calendar Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/response-cards.html"><span>Response Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-gifts.html"><span>Corporate Gifts</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/business-programs.html"><span>Programs</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/corporate/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_holiday">
-						
-				
-						<a href="http://www.finestationery.com/shop/holiday.html"><span>Holiday</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/christmas-photo-cards.html"><span>Photo Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/christmas-digital-photo-cards.html"><span>Digital Photo Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/greeting-cards.html"><span>Greeting Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/party-invitations.html"><span>Holiday Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/rosh-hashanah-cards.html"><span>Rosh Hashanah</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/halloween-party-invitations.html"><span>Halloween</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/boxed-holiday-cards.html"><span>Boxed Holiday Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/boxed-christmas-photo-cards.html"><span>Boxed Photo Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/corporate-party-invitations.html"><span>Corporate Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/business-holiday-cards.html"><span>Corporate Holiday Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/stationery.html"><span>Holiday Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/christmas-cards.html"><span>Christmas Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/hanukkah-cards.html"><span>Hanukkah Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/new-years-party-invitations.html"><span>New Years Parties</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/wine-tags.html"><span>Wine Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/personalized-christmas-cookies.html"><span>Cookies</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/brunch-party-invitations.html"><span>Holiday Brunch</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/personalized-candy-wrappers.html"><span>Candy Wrappers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/gift-tags.html"><span>Gift Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/personalized-christmas-gift-wrap.html"><span>Gift Wrap</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/patriotic-invitations.html"><span>Patriotic Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/new-years-greeting-cards.html"><span>New Years Greetings</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/thanksgiving-invitations.html"><span>Thanksgiving</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/valentines-day-party-invitations.html"><span>Valentines</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/mardi-gras-party-invitations.html"><span>Mardi Gras</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/st-patricks-day-party-invitations.html"><span>St. Patrick's Day</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/passover-cards.html"><span>Passover Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/easter-party-invitations.html"><span>Easter</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/mothers-day-gifts.html"><span>Mother's Day</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/fathers-day-gifts.html"><span>Father's Day</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/fourth-of-july-party-invitations.html"><span>4th of July</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/holiday/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_moving">
-						
-				
-						<a href="http://www.finestationery.com/shop/moving.html"><span>Moving</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/announcements-cards.html"><span>Moving Announcements</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/housewarming-party-invitations.html"><span>Housewarming Party</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/open-house-invitations.html"><span>Open House Invitations</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/address-labels.html"><span>Address Labels</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/grand-opening-invitations-announcements.html"><span>Grand Opening</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/business-cards.html"><span>Business Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/realtor-gifts.html"><span>Realtor Gifts</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/adult-calling-cards.html"><span>Adult Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/childrens-calling-cards.html"><span>Children's Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/fill-in-moving-announcements-cards.html"><span>Fill-Ins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/holiday-moving-announcements.html"><span>Holiday Moving</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/moving/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_gifts">
-						
-				
-						<a href="http://www.finestationery.com/shop/gifts.html"><span>Gifts</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/for-her.html"><span>For Her</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/for-him.html"><span>For Him</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/for-teens.html"><span>For Teens</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/for-kids.html"><span>For Kids</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/for-babies.html"><span>For Babies</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/business-gifts.html"><span>Business Gifts</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/realtor-gifts.html"><span>Realtor Gifts</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/teacher-gifts.html"><span>Teacher Gifts</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/under-25.html"><span>Under $25</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/under-50.html"><span>Under $50</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/under-75.html"><span>Under $75</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/under-100.html"><span>Under $100</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/over-100.html"><span>Over $100</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-plates.html"><span>Personalized Plates</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-party-napkins.html"><span>Personalized Napkins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/recipe-cards.html"><span>Recipe Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/collegiate.html"><span>Collegiate</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-wall-art.html"><span>Wall Art</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/business-cards.html"><span>Business Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-journals-diaries.html"><span>Journals</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-guest-books.html"><span>Guest Books</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-paperweights.html"><span>Paperweights</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-tote-bags.html"><span>Tote Bags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-canvas-wall-art.html"><span>Canvas Wall Art</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/book-labels.html"><span>Book Labels</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-gift-bags.html"><span>Gift Bags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/note-pads.html"><span>Note Pads</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-post-it-notes.html"><span>Post-it Notes</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-place-mats.html"><span>Place Mats</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/enclosure-calling-cards.html"><span>Enclosure/Calling Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-cookies.html"><span>Cookies</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/boxed-stationery.html"><span>Boxed Stationery</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/luggage-id-tags.html"><span>Luggage Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-playing-cards.html"><span>Playing Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/personalized-coasters.html"><span>Coasters</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/gift-tags.html"><span>Gift Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/gifts/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-					<li id="nav1_more">
-						
-				
-						<a href="http://www.finestationery.com/shop/more.html"><span>More</span></a>
-						<ul>
-							<li class="nav2_shadow">&nbsp;</li>
-							<li class="nav2_vspace_top">&nbsp;</li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/whats-new.html"><span>What's New?</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/address-labels.html"><span>Address Labels</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/book-labels.html"><span>Book Labels</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-candy-wrappers.html"><span>Candy Wrappers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-coasters.html"><span>Coasters</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/collegiate.html"><span>Collegiate</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-cookies.html"><span>Cookies</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-cups.html"><span>Cups</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-gift-bags.html"><span>Gift Bags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/gift-tags.html"><span>Gift Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-guest-books.html"><span>Guest Books</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-journals-diaries.html"><span>Journals</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/luggage-tags.html"><span>Luggage Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-lunch-sacks.html"><span>Lunch Sacks</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/menu-cards.html"><span>Menu Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/miscellaneous.html"><span>Miscellaneous</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/multi-cultural-party-invitations.html"><span>Multi-Cultural</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/party-napkins.html"><span>Napkins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/note-pads.html"><span>Note Pads</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-paperweights.html"><span>Paperweights</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-party-napkins.html"><span>Personalized Napkins</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-plates.html"><span>Personalized Plates</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/pets.html"><span>Pets</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/place-cards.html"><span>Place Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-place-mats.html"><span>Place Mats</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/party-plates.html"><span>Plates</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/play-date-cards.html"><span>Play Date Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-playing-cards.html"><span>Playing Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-post-it-notes.html"><span>Post-it Notes</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/recipe-cards.html"><span>Recipe Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/sympathy-cards.html"><span>Sympathy</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/table-cards.html"><span>Table Cards</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-tote-bags.html"><span>Tote Bags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/personalized-wall-art.html"><span>Wall Art</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/wine-tags.html"><span>Wine Tags</span></a></li>
-							
-								<li><a href="http://www.finestationery.com/shop/more/clearance.html"><span>Clearance</span></a></li>
-							
-							<li class="nav2_vspace_bot">&nbsp;</li>
-						</ul>
-					</li>
-				
-		</ul>
-	</div><!-- close #nav1 -->	
-
-	
-	
-			<div id="huitp_nav">
-				<span id="huitp_nav0">
+<div id="nav1_wrapper">
+    <ul id="nav1">
+        
+                <li id="nav1_wedding">
+                    <a href="http://www.finestationery.com/shop/wedding.html" cat_parentid="2" selected_cat_id="0"><span>Wedding</span></a>
+                    
 					
-						<img src="/images/tab_HUITP_0.png" height="20" width="235" alt="Help Us Improve This Page" onclick="javascript:showPopWin('/CustomerReview.cfm?script_name=/s_aboutus_privacy.cfm&amp;useGeneralDomain=0', 550, 475, null);">
+	<ul style="width:222px">
+	    <li class="nav2_shadow" style="width:226px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:222px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/invitations.html"><span>Wedding Invitations</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/rehearsal-dinner-invitations.html"><span>Rehearsal Dinner</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/bridal-shower-invitations.html"><span>Bridal Shower</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/table-cards.html"><span>Table Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/marriage-announcements.html"><span>Marriage Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/programs.html"><span>Wedding Programs</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/engagement-party-invitations.html"><span>Engagement Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/bachelorette-party-invitations.html"><span>Bachelorette Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/luncheon-invitations.html"><span>Luncheon</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/anniversary-invitations-announcements.html"><span>Anniversary</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/response-cards.html"><span>Response Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/menu-cards.html"><span>Menu Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/place-cards.html"><span>Place Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/non-personalized-place-cards.html"><span>Non-Personalized Place Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/wedding/clearance.html"><span>Clearance</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_baby">
+                    <a href="http://www.finestationery.com/shop/baby.html" cat_parentid="3" selected_cat_id="0"><span>Baby</span></a>
+                    
 					
-				</span>
-			</div>
- 			
+	<ul style="width:222px">
+	    <li class="nav2_shadow" style="width:226px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:222px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/boy-birth-announcements.html"><span>Boy Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/girl-birth-announcements.html"><span>Girl Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/multiple-birth-announcements.html"><span>Multiple Births</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/photo-birth-announcements.html"><span>Photo Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/shower-invitations.html"><span>Baby Shower</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/sip-and-see-invitations.html"><span>Sip and See</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/baptism-christening-invitations.html"><span>Baptism / Christening</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/calling-cards.html"><span>Baby Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/stationery.html"><span>Baby Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/personalized-wall-art.html"><span>Wall Art</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/boxed-stationery.html"><span>Boxed Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/luggage-id-tags.html"><span>Luggage / ID Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/baby/clearance.html"><span>Clearance</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_stationery">
+                    <a href="http://www.finestationery.com/shop/stationery.html" cat_parentid="1" selected_cat_id="0"><span>Stationery</span></a>
+                    
+					
+	<ul style="width:222px">
+	    <li class="nav2_shadow" style="width:226px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:222px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/letterhead.html"><span>Letterhead</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/note-cards.html"><span>Note Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/flat-cards.html"><span>Flat Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/childrens-stationery.html"><span>Children's Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/thank-you-notes-cards.html"><span>Thank You Notes</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/pet-stationery.html"><span>Pet Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/collegiate-stationery.html"><span>Collegiate</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/non-personalized-stationery.html"><span>Non-Personalized Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/adult-calling-cards.html"><span>Adult Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/childrens-calling-cards.html"><span>Children's Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/note-pads.html"><span>Note Pads</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/camp-stationery.html"><span>Camp Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/letter-sheets.html"><span>Letter Sheets</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/stationery/clearance.html"><span>Clearance</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_party">
+                    <a href="http://www.finestationery.com/shop/party.html" cat_parentid="5" selected_cat_id="0"><span>Party</span></a>
+                    
+					
+	<ul style="width:442px">
+	    <li class="nav2_shadow" style="width:446px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:442px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/party/invitations-whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/football-invitations.html"><span>Football Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/childrens-birthday-invitations.html"><span>Children's Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/anniversary-invitations-announcements.html"><span>Anniversary</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/adult-birthday-invitations.html"><span>Adult Birthday</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/theme-invitations.html"><span>Theme Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/patriotic-political-invitations.html"><span>Patriotic &amp; Political</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/barbecue-invitations.html"><span>Barbecues</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/tropical-invitations.html"><span>Tropical</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/formal-invitations.html"><span>Formal Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/fiesta-invitations.html"><span>Fiestas</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/informal-invitations.html"><span>Informal Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/quinceanera-invitations.html"><span>Quinceanera</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/graduation-invitations-announcements.html"><span>Graduation</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/sports-invitations.html"><span>Sports</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/ladies-night-invitations.html"><span>Ladies Night</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/floral-invitations.html"><span>Floral</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/cocktail-invitations.html"><span>Cocktails</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/cigar-bar-invitations.html"><span>Cigar/Bar</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/beach-pool-party-invitations.html"><span>Beach and Pool Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/partyware.html"><span>Partyware</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/bar-mitzvah-bat-mizvah-invitations.html"><span>Bar/Bat Mitzvahs</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/personalized-partyware.html"><span>Personalized Partyware</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/corporate-invitations.html"><span>Corporate Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/fill-in-invitations.html"><span>Fill-Ins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/male-occasions-invitations.html"><span>Male Occasions</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/clambake-invitations.html"><span>Clambake</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/sweet-sixteen-birthday-invitations.html"><span>Sweet 16</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/retirement-invitations.html"><span>Retirement</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/holy-communion-invitations-announcements.html"><span>Communion</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/tea-coffee-invitations.html"><span>Tea and Coffee</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/confirmation-invitations-announcements.html"><span>Confirmation</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/halloween-invitations.html"><span>Halloween</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/baptism-christening-invitations.html"><span>Baptism / Christening</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/valentines-day-invitations.html"><span>Valentine's Day</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/baby-shower-invitations.html"><span>Baby Showers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/mardi-gras-invitations.html"><span>Mardi Gras</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/wine-cheese-party-invitations.html"><span>Wine and Cheese</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/st-patricks-day-invitations.html"><span>St. Patricks Day</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/bridal-shower-invitations.html"><span>Bridal Showers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/clearance-invitations.html"><span>Clearance</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/holiday-invitations.html"><span>Holiday Parties</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/new-years-invitations.html"><span>New Years Parties</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/party/luncheon-invitations.html"><span>Luncheons</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_corporate">
+                    <a href="http://www.finestationery.com/shop/corporate.html" cat_parentid="6" selected_cat_id="0"><span>Corporate</span></a>
+                    
+					
+	<ul style="width:442px">
+	    <li class="nav2_shadow" style="width:446px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:442px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-menu-cards.html"><span>Menu Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/save-the-date-cards-announcements.html"><span>Save the Date</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-place-cards.html"><span>Place Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-invitations.html"><span>Corporate Events</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-table-cards.html"><span>Table Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-announcements.html"><span>Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-paper-plates.html"><span>Paper Plates</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-moving-announcements.html"><span>Moving Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-melamine-plates.html"><span>Melamine Plates</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/response-cards.html"><span>Response Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-napkins.html"><span>Napkins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-programs.html"><span>Programs</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-gift-tags.html"><span>Gift Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-pocket-folders.html"><span>Pocket Folders</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/stationery.html"><span>Correspondence Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-gift-bags.html"><span>Gift Bags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-thank-you-cards.html"><span>Corporate Thank You Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-gift-enclosure-cards.html"><span>Gift Enclosure Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-cards.html"><span>Business Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-wine-tags.html"><span>Wine Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/letterhead-stationery.html"><span>Letterhead</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/employee-appreciation-cards.html"><span>Employee Appreciation Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/jotter-cards.html"><span>Jotter Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-gifts.html"><span>Corporate Gifts</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-address-labels.html"><span>Corporate Address Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/holiday-party-invitations.html"><span>Corporate Holiday Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-envelope-wrappers.html"><span>Corporate Envelope Wrappers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/business-holiday-cards.html"><span>Holiday Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-shipping-labels.html"><span>Corporate Shipping Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/calendar-cards.html"><span>Calendar Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-address-stamps.html"><span>Corporate Address Stamps</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/clearance.html"><span>Clearance</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-initial-stamps.html"><span>Corporate Initial Stamps</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/noteworthy-stamp-ink-refills.html"><span>Noteworthy Stamp Ink Refills</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/psa-stamp-ink-refills.html"><span>PSA Stamp Ink Refills</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-address-embossers.html"><span>Corporate Address Embossers</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-initial-embossers.html"><span>Corporate Initial Embossers</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-envelope-seals.html"><span>Corporate Envelope Seals</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/corporate/corporate-coasters.html"><span>Coasters</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_holiday">
+                    <a href="http://www.finestationery.com/shop/holiday.html" cat_parentid="4" selected_cat_id="0"><span>Holiday</span></a>
+                    
+					
+	<ul style="width:442px">
+	    <li class="nav2_shadow" style="width:446px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:442px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/new-years-party-invitations.html"><span>New Years Parties</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/fathers-day-gifts.html"><span>Father's Day</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/new-years-greeting-cards.html"><span>New Years Greetings</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/fourth-of-july-party-invitations.html"><span>4th of July</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/valentines-day-party-invitations.html"><span>Valentines</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/patriotic-invitations.html"><span>Patriotic Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/mardi-gras-party-invitations.html"><span>Mardi Gras</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/rosh-hashanah-cards.html"><span>Rosh Hashanah</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/st-patricks-day-party-invitations.html"><span>St. Patrick's Day</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/halloween-party-invitations.html"><span>Halloween</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/passover-cards.html"><span>Passover Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/thanksgiving-invitations.html"><span>Thanksgiving</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/easter-party-invitations.html"><span>Easter</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/hanukkah-cards.html"><span>Hanukkah Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/mothers-day-gifts.html"><span>Mother's Day</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/christmas-photo-cards.html"><span>Photo Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/clearance.html"><span>Clearance</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/christmas-digital-photo-cards.html"><span>Digital Photo Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/holiday-cards.html"><span>Holiday Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/party-invitations.html"><span>Holiday Parties</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/boxed-christmas-photo-cards.html"><span>Boxed Photo Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/boxed-holiday-cards.html"><span>Boxed Holiday Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/business-holiday-cards.html"><span>Corporate Holiday Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/corporate-party-invitations.html"><span>Corporate Parties</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/stationery.html"><span>Holiday Stationery</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/christmas-cards.html"><span>Christmas Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/brunch-party-invitations.html"><span>Holiday Brunch</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/personalized-christmas-gift-wrap.html"><span>Gift Wrap</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/wine-tags.html"><span>Wine Tags</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/personalized-christmas-cookies.html"><span>Cookies</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/holiday/gift-tags.html"><span>Gift Tags</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_moving">
+                    <a href="http://www.finestationery.com/shop/moving.html" cat_parentid="990" selected_cat_id="0"><span>Moving</span></a>
+                    
+					
+	<ul style="width:222px">
+	    <li class="nav2_shadow" style="width:226px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:222px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/announcements-cards.html"><span>Moving Announcements</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/housewarming-party-invitations.html"><span>Housewarming Party</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/open-house-invitations.html"><span>Open House Invitations</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/address-labels.html"><span>Address Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/grand-opening-invitations-announcements.html"><span>Grand Opening</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/business-cards.html"><span>Business Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/realtor-gifts.html"><span>Realtor Gifts</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/adult-calling-cards.html"><span>Adult Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/childrens-calling-cards.html"><span>Children's Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/fill-in-moving-announcements-cards.html"><span>Fill-Ins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/holiday-moving-announcements.html"><span>Holiday Moving</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/moving/clearance.html"><span>Clearance</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_gifts">
+                    <a href="http://www.finestationery.com/shop/gifts.html" cat_parentid="739" selected_cat_id="0"><span>Gifts</span></a>
+                    
+					
+	<ul style="width:442px">
+	    <li class="nav2_shadow" style="width:446px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:442px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-guest-books.html"><span>Guest Books</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-dad.html"><span>For Dad</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-paperweights.html"><span>Paperweights</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-her.html"><span>For Her</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-tote-bags.html"><span>Tote Bags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-him.html"><span>For Him</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-canvas-wall-art.html"><span>Canvas Wall Art</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-teens.html"><span>For Teens</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/book-labels.html"><span>Book Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-kids.html"><span>For Kids</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-gift-bags.html"><span>Gift Bags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/for-babies.html"><span>For Babies</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/note-pads.html"><span>Note Pads</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/business-gifts.html"><span>Business Gifts</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-post-it-notes.html"><span>Post-it Notes</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/realtor-gifts.html"><span>Realtor Gifts</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-place-mats.html"><span>Place Mats</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/teacher-gifts.html"><span>Teacher Gifts</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/enclosure-calling-cards.html"><span>Enclosure/Calling Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/under-25.html"><span>Under $25</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-cookies.html"><span>Cookies</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/under-50.html"><span>Under $50</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/boxed-stationery.html"><span>Boxed Stationery</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/under-75.html"><span>Under $75</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/luggage-id-tags.html"><span>Luggage Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/under-100.html"><span>Under $100</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-playing-cards.html"><span>Playing Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/over-100.html"><span>Over $100</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-coasters.html"><span>Coasters</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-plates.html"><span>Personalized Plates</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-party-napkins.html"><span>Personalized Napkins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/gift-tags.html"><span>Gift Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/clearance.html"><span>Clearance</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/recipe-cards.html"><span>Recipe Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/collegiate.html"><span>Collegiate</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-wall-art.html"><span>Wall Art</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/business-cards.html"><span>Business Cards</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/gifts/personalized-journals-diaries.html"><span>Journals</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+                <li id="nav1_more">
+                    <a href="http://www.finestationery.com/shop/more.html" cat_parentid="1042" selected_cat_id="0"><span>More</span></a>
+                    
+					
+	<ul style="width:442px">
+	    <li class="nav2_shadow" style="width:446px;">&nbsp;</li>
+	    <li class="nav2_vspace_top" style="width:442px;">&nbsp;</li>
+	    
+	            <li style=""><a href="http://www.finestationery.com/shop/more/whats-new.html"><span>What's New?</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-party-napkins.html"><span>Personalized Napkins</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/address-labels.html"><span>Address Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-plates.html"><span>Personalized Plates</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/beverage-tubs.html"><span>Beverage Tubs</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/pets.html"><span>Pets</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/book-labels.html"><span>Book Labels</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/place-cards.html"><span>Place Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/candles.html"><span>Candles</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-place-mats.html"><span>Place Mats</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-coasters.html"><span>Coasters</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/party-plates.html"><span>Plates</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/collegiate.html"><span>Collegiate</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/play-date-cards.html"><span>Play Date Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-cookies.html"><span>Cookies</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-playing-cards.html"><span>Playing Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-cups.html"><span>Cups</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-post-it-notes.html"><span>Post-it Notes</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-gift-bags.html"><span>Gift Bags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/recipe-cards.html"><span>Recipe Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/gift-tags.html"><span>Gift Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/serving-trays.html"><span>Serving Trays</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/gift-tag-stickers.html"><span>Gift Tag Stickers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-stamps-embossers.html"><span>Stamps &amp; Embossers</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-gift-wrap.html"><span>Gift Wrap</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/sympathy-cards.html"><span>Sympathy</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-guest-books.html"><span>Guest Books</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/table-cards.html"><span>Table Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-journals-diaries.html"><span>Journals</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-tote-bags.html"><span>Tote Bags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/luggage-tags.html"><span>Luggage Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-wall-art.html"><span>Wall Art</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-lunch-sacks.html"><span>Lunch Sacks</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/wine-tags.html"><span>Wine Tags</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/menu-cards.html"><span>Menu Cards</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/clearance.html"><span>Clearance</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/miscellaneous.html"><span>Miscellaneous</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/multi-cultural-party-invitations.html"><span>Multi-Cultural</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/party-napkins.html"><span>Napkins</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/note-pads.html"><span>Note Pads</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/pens.html"><span>Pens</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	            <li style=""><a href="http://www.finestationery.com/shop/more/personalized-paperweights.html"><span>Paperweights</span></a></li>
+	        
+	            <li><a href="#"><span>&nbsp;</span></a></li>
+	        
+	    <li class="nav2_vspace_bot">&nbsp;</li>
+	</ul>
+
+                </li>
+            
+    </ul>
+</div><!-- close #nav1 -->
+
+
+        
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+        <div id="huitp-container" style="display:none;"> </div> 
+	<div id="huitp_nav">
+		<span id="huitp_nav0">
+			<img id="huitp-button" loaded="false" src="/images/tab_HUITP_0.png" height="20" width="235" alt="Help Us Improve This Page" title="Help Us Improve This Page">
+		</span>
+	</div>
+
 
 </div><!-- close #pageHeader -->
 
@@ -716,7 +1134,7 @@
 
 
 
-<div id="pageContent">
+<div id="pageContent"> 
 	<p></p>
 	<div class="columnSet">
 
@@ -730,74 +1148,74 @@
 	<ul>
 		
 				<li class="first">	
-					<a href="/s_aboutus.cfm?"><span>Contact Us</span></a>
+					<a href="http://www.finestationery.com/s_aboutus.cfm?"><span>Contact Us</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_shipping.cfm?"><span>Shipping, Cancellations and Returns</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_shipping.cfm?"><span>Shipping, Cancellations and Returns</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_tracking.cfm?"><span>Account Information</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_tracking.cfm?"><span>Account Information</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_salestax.cfm?"><span>Ordering Information</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_salestax.cfm?"><span>Ordering Information</span></a>
 				</li> 
 				<li>	
-					<a class="expanded" href="/s_aboutus_privacy.cfm?"><span>Safety and Privacy </span></a>
+					<a class="expanded" href="http://www.finestationery.com/s_aboutus_privacy.cfm?"><span>Safety and Privacy </span></a>
 				 
 					<ul>
-						<li><a class="current" href="/s_aboutus_privacy.cfm?"><span>FineStationery Privacy Policy</span></a></li>
+						<li><a class="current" href="http://www.finestationery.com/s_aboutus_privacy.cfm?"><span>FineStationery Privacy Policy</span></a></li>
 				
 				
-				<li><a href="/s_aboutus_infocollect.cfm?"><span>Information We Collect</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_infocollect.cfm?"><span>Information We Collect</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_usecollect.cfm?"><span>How We Use Collected Information</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_usecollect.cfm?"><span>How We Use Collected Information</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_emailoptout2.cfm?"><span>Email Preference </span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_emailoptout2.cfm?"><span>Email Preference </span></a></li>
 			
 				
-				<li><a href="/s_aboutus_onlinesurveys.cfm?"><span>Online Surveys</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_onlinesurveys.cfm?"><span>Online Surveys</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_infostored.cfm?"><span>How your information is stored</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_infostored.cfm?"><span>How your information is stored</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_profile2.cfm?"><span>Update Your information</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_profile2.cfm?"><span>Update Your information</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_contacting.cfm?"><span>Contacting FineStationery.com</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_contacting.cfm?"><span>Contacting FineStationery.com</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_qualitycust.cfm?"><span>Quality Customer Experience</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_qualitycust.cfm?"><span>Quality Customer Experience</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_trademarks.cfm?"><span>Trademarks and Copyrights</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_trademarks.cfm?"><span>Trademarks and Copyrights</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_links.cfm?"><span>Links to other Websites and Services</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_links.cfm?"><span>Links to other Websites and Services</span></a></li>
 			
 				
-				<li><a href="/s_aboutus_applicable_law.cfm?"><span>Applicable Law</span></a></li>
+				<li><a href="http://www.finestationery.com/s_aboutus_applicable_law.cfm?"><span>Applicable Law</span></a></li>
 			
 					</ul></li> 
 				<li>	
-					<a href="/s_aboutus_our-fine-difference.cfm?"><span>New Visitors</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_our-fine-difference.cfm?"><span>New Visitors</span></a>
 				</li> 
 				<li>	
-					<a href="/s_cust_svc.cfm?"><span>Services</span></a>
+					<a href="http://www.finestationery.com/s_cust_svc.cfm?"><span>Services</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_faqs3.cfm?"><span>Frequently Asked Questions</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_faqs3.cfm?"><span>Frequently Asked Questions</span></a>
 				</li> 
 				<li>	
-					<a href="/s_pressrelease_contact.cfm?"><span>Press</span></a>
+					<a href="http://www.finestationery.com/s_pressrelease_contact.cfm?"><span>Press</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_photo_reqs.cfm?"><span>Digital Photo Upload</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_photo_reqs.cfm?"><span>Digital Photo Upload</span></a>
 				</li> 
 				<li>	
-					<a href="/s_aboutus_company.cfm?"><span>About Us</span></a>
+					<a href="http://www.finestationery.com/s_aboutus_company.cfm?"><span>About Us</span></a>
 				</li> 
 		
 	</ul>
@@ -983,18 +1401,9 @@
               on our website.
               <br>
               <br>
-              <b>ABOUT TRUSTe</b>
-              <br>
         <b>Privacy Confirmation</b>
               <br>
-        FineStationery.com is a licensee of the TRUSTe Privacy Program.
-        TRUSTe is an independent, non-profit organization whose mission
-        is to build users' trust and confidence in the Internet by promoting
-        the use of fair information practices. Because this website wants
-        to demonstrate its commitment to your privacy, it has agreed to
-        disclose its information practices and have its privacy practices
-        reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark,
-        this website has agreed to notify you of:        </p>
+        We agree to notify you of:        </p>
     <ol>
                 <li> What personally identifiable information of yours or third
                   party personally identifiable information that is collected
@@ -1015,93 +1424,31 @@
               first contact Customer Service at:            </p>
             <ul>
               <li>Phone: 1-888-808-FINE</li>
-              <li>Fax: 302-993-1200</li>
               <li>Email: <a href="MAILTO:customerservice@finestationery.com">customerservice@finestationery.com</a>.</li>
               <li>Postal Address: 201 West 14th Street, Suite 100, Wilmington, DE 19801</li>
         </ul>
-            If you do not receive acknowledgment of your inquiry or your inquiry
-              has not been satisfactorily addressed, you should then contact TRUSTe
-              at TRUSTe Watchdog: <a href="http://www.truste.org/consumers/watchdog_complaint.php">http://www.truste.org/consumers/watchdog_complaint.php</a>.
-              TRUSTe will then serve as a liaison with the Web site to resolve
-              your concerns.<br>
+<br>
             <br>
-            Privacy Policy last updated 04/04/2005.<p></p>
+            Privacy Policy last updated 12/15/2009.<p></p>
 		</div>
 		<!-- close .column2of2 -->
 	</div><!-- close .columnSet -->
 </div><!-- close #pageContent -->
 
 
-
 <script type="text/javascript">
-
-
-function onkeySubscribe()
-{
-	if(event.keyCode==13)
-	onSubscribe();
-}
-
-
-function onSubscribe()
-{	
-	var form = document.getElementById('EmailCaptureForm');
-	if(ValidateForm(form))
-	{		
-		
-		var emailAddress = form.EmailAddress.value;		
-		
-		//if(!echeck(emailAddress)){
-			//return;
-		//}
-		
-		DWREngine._execute('/com/Finestationery/customer.cfc', null, 'subscribe',
-			{
-				emailAddress:emailAddress,
-				scriptName:'/s_aboutus_privacy.cfm',
-				partnerID:0
-			},
-			function(result)
-			{
-				if(result=="00"){
-					alert('Invalid E-mail ID. \nPlease enter a valid E-mail ID before proceeding.');
-				}else if(result=="01"){
-					alert("Invalid symbol in E-mail ID. \nPlease enter a valid E-mail ID before proceeding.");
-				}else if(result=="02"){
-					alert("This address is already in our database. \nThank you for resubscribing to our email list.");
-				}else if(result=="03"){
-					leftpos4=0;
-					if(screen){
-						leftpos4=(screen.width - 429)/2
-					}
-					toppos4=0;
-					if(screen){
-						toppos4=(screen.height - 310)/2
-					}
-					
-					
-						window.open('/EmailCaptureThankYou.cfm','33402','height=306,width=306,left='+leftpos4+',top='+toppos4+',scrollbars=no,location=no');
-					
-				}
-			});				
-	}
-	return false;
-}
-
-
-
+	window.scriptName='/s_aboutus_privacy.cfm';
+	window.partnerID=0;
 </script>
 
 <div id="pageFooter">
 	<div id="footerPromotions">
 		
 		
-		<script type="text/javascript" src="/js/emailValidate.js?ds=20090429"></script>
-	
-				<form id="EmailCaptureForm" onsubmit="return false;" action="" method="post">
+				<form id="EmailCaptureForm" onsubmit="onSubscribe(); return false;" action="" method="post">
 				<fieldset>
 					<label for="footerEmailInput"><span>Join our email list and be the first to hear about new designs and special promotions.</span></label>
-					<input id="footerEmailInput" name="EmailAddress" maxlength="100" class="inputTxt clearDefaultText" value="Enter your email address" onclick="this.value=''" onkeypress="onkeySubscribe();">
+					<input id="footerEmailInput" name="EmailAddress" maxlength="100" class="inputTxt clearDefaultText" value="Enter your email address" onclick="this.value=''">
 					<input class="inputBtn" type="image" src="/images/btn_submit_0.gif" onclick="onSubscribe(); return false;">
 				</fieldset>
 				</form>
@@ -1109,23 +1456,23 @@ function onSubscribe()
 		<div id="footerBrands">
 			
 				<a id="footerBrand1" href="http://www.finestationery.com/shop/William-Arthur.html">
-					<img src="/images/logo_ftr_william_arthur.gif" alt="William Arthur">
+					<img src="/images/logo_ftr_william_arthur.gif" alt="William Arthur" title="William Arthur">
 				</a>
 			
-				<a id="footerBrand2" href="http://www.finestationery.com/shop/Stacy-Claire-Boyd.html">
-					<img src="/images/logo_ftr_scb.gif" alt="Stacy Claire Boyd">
+				<a id="footerBrand2" href="http://www.finestationery.com/shop/Checkerboard.html">
+					<img src="/images/logo_ftr_checkerboard.gif" alt="Checkerboard" title="Checkerboard">
 				</a>
 			
 				<a id="footerBrand3" href="http://www.finestationery.com/shop/Crane-and-Co.html">
-					<img src="/images/logo_ftr_crane.gif" alt="Crane &amp; Co.">
+					<img src="/images/logo_ftr_crane.gif" alt="Crane &amp; Co." title="Crane &amp; Co.">
 				</a>
 			
 				<a id="footerBrand4" href="http://www.finestationery.com/shop/kate-spade.html">
-					<img src="/images/logo_ftr_kate_spade.gif" alt="kate spade">
+					<img src="/images/logo_ftr_kate_spade.gif" alt="kate spade" title="kate spade">
 				</a>
 			
 				<a id="footerBrand5" href="http://www.finestationery.com/shop/Vera-Wang.html">
-					<img src="/images/logo_ftr_vera_wang.gif" alt="Vera Wang">
+					<img src="/images/logo_ftr_vera_wang.gif" alt="Vera Wang" title="Vera Wang">
 				</a>
 			
 		
@@ -1134,216 +1481,201 @@ function onSubscribe()
 				<select id="footerBrandSelect" size="1" onchange="location.href = this.value">
 					<option value="-1">Select a Brand...</option>
 					    
-					        <option value="/shop/Allie-Munroe.html">Allie Munroe</option>
+					        <option value="http://www.finestationery.com/shop/AKC.html">AKC</option>
 				      
-					        <option value="/shop/Anna-Griffin.html">Anna Griffin</option>
+					        <option value="http://www.finestationery.com/shop/Allie-Munroe.html">Allie Munroe</option>
 				      
-					        <option value="/shop/Baby-idesign.html">Baby idesign</option>
+					        <option value="http://www.finestationery.com/shop/Anna-Griffin.html">Anna Griffin</option>
 				      
-					        <option value="/shop/Bella-Adorna.html">Bella Adorna</option>
+					        <option value="http://www.finestationery.com/shop/Bella-Adorna.html">Bella Adorna</option>
 				      
-					        <option value="/shop/Bert-and-Harry.html">Bert &amp; Harry</option>
+					        <option value="http://www.finestationery.com/shop/Bert-and-Harry.html">Bert &amp; Harry</option>
 				      
-					        <option value="/shop/Birchcraft.html">Birchcraft</option>
+					        <option value="http://www.finestationery.com/shop/Birchcraft.html">Birchcraft</option>
 				      
-					        <option value="/shop/Blue-Mug-Designs.html">Blue Mug Designs</option>
+					        <option value="http://www.finestationery.com/shop/Boatman-Geller.html">Boatman Geller</option>
 				      
-					        <option value="/shop/Boatman-Geller.html">Boatman Geller</option>
+					        <option value="http://www.finestationery.com/shop/Bonnie-Marcus.html">Bonnie Marcus</option>
 				      
-					        <option value="/shop/Bonnie-Marcus.html">Bonnie Marcus</option>
+					        <option value="http://www.finestationery.com/shop/Bubbles-n-bows.html">Bubbles n' bows</option>
 				      
-					        <option value="/shop/Bubbles-n-bows.html">Bubbles n' bows</option>
+					        <option value="http://www.finestationery.com/shop/Cards-Creative.html">Cards Creative</option>
 				      
-					        <option value="/shop/Cards-Creative.html">Cards Creative</option>
+					        <option value="http://www.finestationery.com/shop/Carlson-Craft.html">Carlson Craft</option>
 				      
-					        <option value="/shop/Carlson-Craft.html">Carlson Craft</option>
+					        <option value="http://www.finestationery.com/shop/Caspari.html">Caspari</option>
 				      
-					        <option value="/shop/Caspari.html">Caspari</option>
+					        <option value="http://www.finestationery.com/shop/Checkerboard.html">Checkerboard</option>
 				      
-					        <option value="/shop/Chatsworth-Collection.html">Chatsworth Collection</option>
+					        <option value="http://www.finestationery.com/shop/Chloe-B.html">Chloë B.</option>
 				      
-					        <option value="/shop/Checkerboard.html">Checkerboard</option>
+					        <option value="http://www.finestationery.com/shop/Cid-Pear.html">Cid Pear</option>
 				      
-					        <option value="/shop/Chloe-B.html">Chloë B.</option>
+					        <option value="http://www.finestationery.com/shop/Cooper-and-Oliver.html">Cooper &amp; Oliver</option>
 				      
-					        <option value="/shop/Cid-Pear.html">Cid Pear</option>
+					        <option value="http://www.finestationery.com/shop/Crane-and-Co.html">Crane &amp; Co.</option>
 				      
-					        <option value="/shop/Crane-and-Co.html">Crane &amp; Co.</option>
+					        <option value="http://www.finestationery.com/shop/Cross-My-Heart.html">Cross - My - Heart</option>
 				      
-					        <option value="/shop/Cross-My-Heart.html">Cross - My - Heart</option>
+					        <option value="http://www.finestationery.com/shop/Devonshire-Paper.html">Devonshire Paper</option>
 				      
-					        <option value="/shop/Devonshire-Paper.html">Devonshire Paper</option>
+					        <option value="http://www.finestationery.com/shop/Doc-Milo.html">Doc Milo</option>
 				      
-					        <option value="/shop/Dinky-Designs.html">Dinky Designs</option>
+					        <option value="http://www.finestationery.com/shop/Elle-Alexandra.html">Elle Alexandra</option>
 				      
-					        <option value="/shop/Doc-Milo.html">Doc Milo</option>
+					        <option value="http://www.finestationery.com/shop/Ellie-Mims.html">Ellie Mim's</option>
 				      
-					        <option value="/shop/Elle-Alexandra.html">Elle Alexandra</option>
+					        <option value="http://www.finestationery.com/shop/Encore-Studios.html">Encore Studios</option>
 				      
-					        <option value="/shop/Ellie-Mims.html">Ellie Mim's</option>
+					        <option value="http://www.finestationery.com/shop/Family-Cards.html">Family Cards</option>
 				      
-					        <option value="/shop/Encore-Studios.html">Encore Studios</option>
+					        <option value="http://www.finestationery.com/shop/Fontaine-Maury.html">Fontaine Maury</option>
 				      
-					        <option value="/shop/Exquisite-Papers.html">Exquisite Papers</option>
+					        <option value="http://www.finestationery.com/shop/Four-Seasons.html">Four Seasons</option>
 				      
-					        <option value="/shop/Family-Cards.html">Family Cards</option>
+					        <option value="http://www.finestationery.com/shop/Gina-B-Designs.html">Gina B. Designs</option>
 				      
-					        <option value="/shop/Fontaine-Maury.html">Fontaine Maury</option>
+					        <option value="http://www.finestationery.com/shop/Glad-Tidings.html">Glad Tidings</option>
 				      
-					        <option value="/shop/Four-Seasons.html">Four Seasons</option>
+					        <option value="http://www.finestationery.com/shop/Graphic-Image.html">Graphic Image</option>
 				      
-					        <option value="/shop/Frederick-Beck.html">Frederick Beck</option>
+					        <option value="http://www.finestationery.com/shop/Greys-Greetings.html">Grey's Greetings</option>
 				      
-					        <option value="/shop/Gina-B-Designs.html">Gina B. Designs</option>
+					        <option value="http://www.finestationery.com/shop/Hoot-Studios.html">Hoot Studios</option>
 				      
-					        <option value="/shop/Glad-Tidings.html">Glad Tidings</option>
+					        <option value="http://www.finestationery.com/shop/idesign-and-co.html">idesign and co</option>
 				      
-					        <option value="/shop/Graphic-Image.html">Graphic Image</option>
+					        <option value="http://www.finestationery.com/shop/Indelible-Ink.html">Indelible Ink</option>
 				      
-					        <option value="/shop/Greys-Greetings.html">Grey's Greetings</option>
+					        <option value="http://www.finestationery.com/shop/InScribe-Disney.html">InScribe Disney</option>
 				      
-					        <option value="/shop/Hoot-Studios.html">Hoot Studios</option>
+					        <option value="http://www.finestationery.com/shop/Inviting-Company.html">Inviting Company</option>
 				      
-					        <option value="/shop/Indelible-Ink.html">Indelible Ink</option>
+					        <option value="http://www.finestationery.com/shop/Itty-Bitty.html">Itty Bitty</option>
 				      
-					        <option value="/shop/InScribe-Disney.html">InScribe Disney</option>
+					        <option value="http://www.finestationery.com/shop/Jasmine-and-Woo.html">Jasmine &amp; Woo</option>
 				      
-					        <option value="/shop/Inviting-Company.html">Inviting Company</option>
+					        <option value="http://www.finestationery.com/shop/Julia-D-Azar-Designs.html">Julia D. Azar Designs</option>
 				      
-					        <option value="/shop/Itty-Bitty.html">Itty Bitty</option>
+					        <option value="http://www.finestationery.com/shop/Karen-Adams.html">Karen Adams</option>
 				      
-					        <option value="/shop/Jasmine-and-Woo.html">Jasmine &amp; Woo</option>
+					        <option value="http://www.finestationery.com/shop/kate-spade.html">kate spade</option>
 				      
-					        <option value="/shop/Julia-D-Azar-Designs.html">Julia D. Azar Designs</option>
+					        <option value="http://www.finestationery.com/shop/Kemse-and-Company.html">Kemse &amp; Company</option>
 				      
-					        <option value="/shop/Karen-Adams.html">Karen Adams</option>
+					        <option value="http://www.finestationery.com/shop/Krepe-Kraft.html">Krepe Kraft</option>
 				      
-					        <option value="/shop/kate-spade.html">kate spade</option>
+					        <option value="http://www.finestationery.com/shop/Letters-from-Lilly.html">Letters from Lilly</option>
 				      
-					        <option value="/shop/Kemse-and-Company.html">Kemse &amp; Company</option>
+					        <option value="http://www.finestationery.com/shop/Lilly-Pulitzer.html">Lilly Pulitzer</option>
 				      
-					        <option value="/shop/Krepe-Kraft.html">Krepe Kraft</option>
+					        <option value="http://www.finestationery.com/shop/LuLu-and-Merie.html">LuLu &amp; Merie</option>
 				      
-					        <option value="/shop/KT-Original.html">KT Original</option>
+					        <option value="http://www.finestationery.com/shop/Luscious-Verde.html">Luscious Verde</option>
 				      
-					        <option value="/shop/Letters-from-Lilly.html">Letters from Lilly</option>
+					        <option value="http://www.finestationery.com/shop/Madison-Sloan.html">Madison Sloan</option>
 				      
-					        <option value="/shop/Lilly-Pulitzer.html">Lilly Pulitzer</option>
+					        <option value="http://www.finestationery.com/shop/Martha-Stewart.html">Martha Stewart</option>
 				      
-					        <option value="/shop/LuLu-and-Merie.html">LuLu &amp; Merie</option>
+					        <option value="http://www.finestationery.com/shop/McPhersons.html">McPhersons</option>
 				      
-					        <option value="/shop/Luscious-Verde.html">Luscious Verde</option>
+					        <option value="http://www.finestationery.com/shop/Me-and-Mine.html">Me &amp; Mine</option>
 				      
-					        <option value="/shop/Madison-Park.html">Madison Park</option>
+					        <option value="http://www.finestationery.com/shop/Me-O-My.html">Me-O-My</option>
 				      
-					        <option value="/shop/Mainio.html">Mainio</option>
+					        <option value="http://www.finestationery.com/shop/Meri-Meri.html">Meri Meri</option>
 				      
-					        <option value="/shop/Me-and-Mine.html">Me &amp; Mine</option>
+					        <option value="http://www.finestationery.com/shop/Monica-Maslack.html">Monica Maslack</option>
 				      
-					        <option value="/shop/Meri-Meri.html">Meri Meri</option>
+					        <option value="http://www.finestationery.com/shop/Notably-Inviting.html">Notably Inviting</option>
 				      
-					        <option value="/shop/Monica-Maslack.html">Monica Maslack</option>
+					        <option value="http://www.finestationery.com/shop/Noteworthy-Collection.html">Noteworthy Collection</option>
 				      
-					        <option value="/shop/Notably-Inviting.html">Notably Inviting</option>
+					        <option value="http://www.finestationery.com/shop/NWTF.html">NWTF</option>
 				      
-					        <option value="/shop/Noteworthy-Collection.html">Noteworthy Collection</option>
+					        <option value="http://www.finestationery.com/shop/Paper-Orchid.html">Paper Orchid </option>
 				      
-					        <option value="/shop/Odd-Balls.html">Odd Balls</option>
+					        <option value="http://www.finestationery.com/shop/Paper-Prince.html">Paper Prince</option>
 				      
-					        <option value="/shop/Paper-Orchid.html">Paper Orchid </option>
+					        <option value="http://www.finestationery.com/shop/Paper-So-Pretty.html">Paper So Pretty</option>
 				      
-					        <option value="/shop/Paper-Prince.html">Paper Prince</option>
+					        <option value="http://www.finestationery.com/shop/Pen-at-Hand.html">Pen at Hand</option>
 				      
-					        <option value="/shop/Paper-So-Pretty.html">Paper So Pretty</option>
+					        <option value="http://www.finestationery.com/shop/Periwinkle-Press.html">Periwinkle Press</option>
 				      
-					        <option value="/shop/Pen-at-Hand.html">Pen at Hand</option>
+					        <option value="http://www.finestationery.com/shop/Phizzies.html">Phizzies</option>
 				      
-					        <option value="/shop/Periwinkle-Press.html">Periwinkle Press</option>
+					        <option value="http://www.finestationery.com/shop/Picture-Perfect.html">Picture Perfect</option>
 				      
-					        <option value="/shop/Phizzies.html">Phizzies</option>
+					        <option value="http://www.finestationery.com/shop/PiPo-Press.html">PiPo Press</option>
 				      
-					        <option value="/shop/Picture-Perfect.html">Picture Perfect</option>
+					        <option value="http://www.finestationery.com/shop/Polka-Dot-Pear-Design.html">Polka Dot Pear Design</option>
 				      
-					        <option value="/shop/PiPo-Press.html">PiPo Press</option>
+					        <option value="http://www.finestationery.com/shop/Prentiss-Douthit.html">Prentiss Douthit</option>
 				      
-					        <option value="/shop/Polka-Dot-Pear-Design.html">Polka Dot Pear Design</option>
+					        <option value="http://www.finestationery.com/shop/PSA-Essentials.html">PSA Essentials</option>
 				      
-					        <option value="/shop/Prentiss-Douthit.html">Prentiss Douthit</option>
+					        <option value="http://www.finestationery.com/shop/Putnam-House.html">Putnam House</option>
 				      
-					        <option value="/shop/PSA-Essentials.html">PSA Essentials</option>
+					        <option value="http://www.finestationery.com/shop/Rita-Renning.html">Rita Renning</option>
 				      
-					        <option value="/shop/Putnam-House.html">Putnam House</option>
+					        <option value="http://www.finestationery.com/shop/SanLori-Designs.html">SanLori Designs</option>
 				      
-					        <option value="/shop/Rita-Renning.html">Rita Renning</option>
+					        <option value="http://www.finestationery.com/shop/Sarah-LeClere.html">Sarah LeClere</option>
 				      
-					        <option value="/shop/Robin-Maguire.html">Robin Maguire</option>
+					        <option value="http://www.finestationery.com/shop/Scribbling-Ink.html">Scribbling Ink</option>
 				      
-					        <option value="/shop/Robyn-Miller-Design.html">Robyn Miller Design</option>
+					        <option value="http://www.finestationery.com/shop/Signia-Fine-Papers.html">Signia Fine Papers</option>
 				      
-					        <option value="/shop/Royal-Imprints.html">Royal Imprints</option>
+					        <option value="http://www.finestationery.com/shop/Smudge-Ink.html">Smudge Ink</option>
 				      
-					        <option value="/shop/Rytex.html">Rytex</option>
+					        <option value="http://www.finestationery.com/shop/Squash-U.html">Squash U</option>
 				      
-					        <option value="/shop/SanLori-Designs.html">SanLori Designs</option>
+					        <option value="http://www.finestationery.com/shop/Starfish-and-Dreams.html">Starfish and Dreams </option>
 				      
-					        <option value="/shop/Sarah-LeClere.html">Sarah LeClere</option>
+					        <option value="http://www.finestationery.com/shop/Stevie-Streck-Designs.html">Stevie Streck Designs</option>
 				      
-					        <option value="/shop/Scribbling-Ink.html">Scribbling Ink</option>
+					        <option value="http://www.finestationery.com/shop/Stylart.html">Stylart</option>
 				      
-					        <option value="/shop/Signia-Fine-Papers.html">Signia Fine Papers</option>
+					        <option value="http://www.finestationery.com/shop/Take-Notice.html">Take Notice</option>
 				      
-					        <option value="/shop/simplyput.html">simplyput</option>
+					        <option value="http://www.finestationery.com/shop/The-Paper-Berry.html">The Paper Berry</option>
 				      
-					        <option value="/shop/Smudge-Ink.html">Smudge Ink</option>
+					        <option value="http://www.finestationery.com/shop/The-Paper-Menu.html">The Paper Menu</option>
 				      
-					        <option value="/shop/Squash-U.html">Squash U</option>
+					        <option value="http://www.finestationery.com/shop/Toccare-Design.html">Toccare Design</option>
 				      
-					        <option value="/shop/Stacy-Claire-Boyd.html">Stacy Claire Boyd</option>
+					        <option value="http://www.finestationery.com/shop/UBU.html">UBU</option>
 				      
-					        <option value="/shop/Starfish-and-Dreams.html">Starfish and Dreams </option>
+					        <option value="http://www.finestationery.com/shop/Up-With-Paper.html">Up With Paper </option>
 				      
-					        <option value="/shop/Stevie-Streck-Designs.html">Stevie Streck Designs</option>
+					        <option value="http://www.finestationery.com/shop/Vera-Bradley.html">Vera Bradley</option>
 				      
-					        <option value="/shop/Stylart.html">Stylart</option>
+					        <option value="http://www.finestationery.com/shop/Vera-Wang.html">Vera Wang</option>
 				      
-					        <option value="/shop/Sweet-Pea-Designs.html">Sweet Pea Designs</option>
+					        <option value="http://www.finestationery.com/shop/Vineyard-Vines.html">Vineyard Vines</option>
 				      
-					        <option value="/shop/Take-Notice.html">Take Notice</option>
+					        <option value="http://www.finestationery.com/shop/William-Arthur.html">William Arthur</option>
 				      
-					        <option value="/shop/The-Paper-Knot.html">The Paper Knot</option>
-				      
-					        <option value="/shop/The-Paper-Menu.html">The Paper Menu</option>
-				      
-					        <option value="/shop/The-Pet-Set.html">The Pet Set</option>
-				      
-					        <option value="/shop/Three-Designing-Women.html">Three Designing Women</option>
-				      
-					        <option value="/shop/Toccare-Design.html">Toccare Design</option>
-				      
-					        <option value="/shop/UBU.html">UBU</option>
-				      
-					        <option value="/shop/Up-With-Paper.html">Up With Paper </option>
-				      
-					        <option value="/shop/Vera-Bradley.html">Vera Bradley</option>
-				      
-					        <option value="/shop/Vera-Wang.html">Vera Wang</option>
-				      
-					        <option value="/shop/William-Arthur.html">William Arthur</option>
-				      
-					        <option value="/shop/Zabella-Designs.html">Zabella Designs</option>
+					        <option value="http://www.finestationery.com/shop/Zabella-Designs.html">Zabella Designs</option>
 				      
 				</select>
-				<a href="http://www.finestationery.com/ShopByVendor.cfm?click=viewall">View All 99 Brands</a>
+				<a href="http://www.finestationery.com/ShopByVendor.cfm?click=viewall">View All 89 Brands</a>
 			</div>
 			
 		</div>
 	</div><!-- close #footerPromotions -->
 
 	<div id="footerFooter">
-		<div id="footerContact"><span>1-888-808-3463<br>Our Stationery Consultants are here to assist you Monday-Friday 8 a.m. to 6 p.m. EST.</span></div>
-		<div id="footerNav"><a href="http://www.finestationery.com/s_customer_service.cfm?">Etiquette</a> | <a href="http://finestationery.blogspot.com/">Blog</a> | <a href="http://www.finestationery.com/s_aboutus_affiliate.cfm?">Affiliate Program</a> | <a href="http://www.finestationery.com/sitemap.cfm?">Site Map</a> | <a href="http://www.finestationery.com/s_aboutus_tracking.cfm?">Order Tracking</a> | <a href="http://www.finestationery.com/s_aboutus.cfm?">Customer Care</a> | <a href="http://www.finestationery.com/s_aboutus_company.cfm?">About Us</a> | <a href="http://www.finestationery.com/s_aboutus_privacy.cfm?">Privacy Policy</a> | <a href="http://www.finestationery.com/s_aboutus_shipping.cfm?">Shipping</a></div> 
+		<div id="footerFooterCorners">
+			<div id="footerContact"><span>1-888-808-3463<br>Our Stationery Consultants are here to assist you Monday-Friday 8 a.m. to 6 p.m. EST.</span></div>
+			<div id="footerNav"><a href="http://www.finestationery.com/s_customer_service.cfm?">Etiquette</a> | <a href="http://blog.finestationery.com/">Blog</a> | <a href="http://www.finestationery.com/s_aboutus_affiliate.cfm?">Affiliate Program</a> | <a href="http://www.finestationery.com/sitemap.cfm?">Site Map</a> | <a href="http://www.finestationery.com/s_aboutus_tracking.cfm?">Order Tracking</a> | <a href="http://www.finestationery.com/s_aboutus.cfm?">Customer Care</a> | <a href="http://www.finestationery.com/s_aboutus_company.cfm?">About Us</a> | <a href="http://www.finestationery.com/s_aboutus_privacy.cfm?">Privacy Policy</a> | <a href="http://www.finestationery.com/s_aboutus_shipping.cfm?">Shipping</a></div>
+		</div>
 
-		<div id="footerCopyright">©1999-2009 FineStationery.com. All Rights Reserved</div>
+
+
+
+		<div id="footerCopyright">©1999-2010 FineStationery.com. All Rights Reserved</div>
 	</div><!-- close #footerFooter -->
 </div>
 <!-- close #pageFooter -->
@@ -1355,7 +1687,7 @@ function onSubscribe()
 		var monetateT = new Date().getTime();
 		if (document.location.protocol == "http:" || document.location.protocol == "https:") { document.write(unescape("%3Cscript type='text/javascript' src='" + (document.location.protocol == "https:" ? "https://s" : "http://") + "b.monetate.net/js/1/a-6cbeca05/p/finestationery.com/" + Math.floor(monetateT / 3600000) + "'%3E%3C/script%3E")); }
 		// -->
-	</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-6cbeca05/p/finestationery.com/439589"></script>
+	</script><script type="text/javascript" src="https://sb.monetate.net/js/1/a-6cbeca05/p/finestationery.com/438986"></script>
 	<script type="text/javascript">
 		<!--
 		if (this.monetate) { monetate.a(); }
@@ -1372,5 +1704,68 @@ function onSubscribe()
 </script>
 
 
+<!-- ClickTale Bottom part -->
+<div id="ClickTaleDiv" style="display: none;"></div>
+<script type="text/javascript" src="/js/WRb.js"></script>
+<script type="text/javascript" src="/js/FetchFromWithCookies.js"></script>
+<script type="text/javascript">
+FetchFromWithCookies.setFromCookie("CFID");
+FetchFromWithCookies.setFromCookie("CFTOKEN");
+FetchFromWithCookies.setFromCookie("JSESSIONID");
+FetchFromWithCookies.setFromCookie("CURRENTACCOUNT");
+FetchFromWithCookies.setFromCookie("CUST_USERNAME");
+FetchFromWithCookies.setFromCookie("anon");
+// add similar line for each additional cookie variable
 
- <div id="popupMask"></div><div id="popupContainer"><div id="popupInner"><div id="popupTitleBar"><div id="popupTitle"></div><div id="popupControls"><img src="/images/btn_close_window_0.gif" onclick="hidePopWin(false);" id="popCloseBox" onmouseover="change_image(1)" onmouseout="change_image(2)"></div></div><iframe src="/blank.html" style="width:100%;height:100%;background-color:transparent;" scrolling="no" frameborder="0" allowtransparency="true" id="popupFrame" name="popupFrame" width="100%" height="100%"></iframe></div></div></body></html>
+ClickTaleFetchFrom = FetchFromWithCookies.constructFetchFromUrl();
+
+var ClickTaleSSL=1;
+if(typeof ClickTale=='function') ClickTale(37165,0.006,"www");
+</script>
+<!-- ClickTale end of Bottom part -->
+
+<!-- Bold Software Visitor Monitor HTML v2.00 (Website=FineStationery.com,ChatWindow=My Chat Window,ChatInvitation=- None -) -->
+<script language="JavaScript" type="text/javascript">
+document.write(unescape('%3Cscript language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/5147355212582478010/bc.vms2/vms.js"%3E%3C/script%3E'));
+</script><script language="JavaScript" type="text/javascript" src="https://vms.boldchat.com/aid/5147355212582478010/bc.vms2/vms.js"></script>
+
+<script language="JavaScript" type="text/javascript">
+try {
+  var pageViewer = _bcvm.getPageViewer("5147355212582478010");
+  pageViewer.setParameter("WebsiteDefID", "4436431363173708104");
+  pageViewer.setParameter("ChatWindowDefID", "5900933932856380062");
+  pageViewer.setParameter("ChatWidth", "640");
+  pageViewer.setParameter("ChatHeight", "480");
+  pageViewer.setParameter("WindowScheme", "http");
+  pageViewer.setParameter("VisitName", " anon");
+  pageViewer.setParameter("VisitPhone", "");
+  pageViewer.setParameter("VisitEmail", "anon");
+  pageViewer.setParameter("VisitRef", "");
+  pageViewer.setParameter("VisitInfo", "ia_archiver (+http://www.alexa.com/site/help/webmasters; crawler@alexa.com)");
+  pageViewer.setParameter("CustomUrl", "");
+  pageViewer.pageViewed();
+} catch(error) {}
+</script>
+
+<noscript>
+<a href="http://www.boldsoft.com" title="Live Chat" target="_blank"><img alt="Live Chat" src="https://vms.boldchat.com/aid/5147355212582478010/bc.vmi?wdid=4436431363173708104&amp;vr=&amp;vi=&amp;vn=&amp;vp=&amp;ve=&amp;curl=" border="0" width="1" height="1" /></a>
+</noscript>
+<!-- /Bold Software Visitor Monitor HTML v2.00 -->
+
+<!-- Google Website Optimizer Tracking Script -->
+<script type="text/javascript">
+if(typeof(_gat)!='object')document.write('<sc'+'ript src="http'+
+(document.location.protocol=='https:'?'s://ssl':'://www')+
+'.google-analytics.com/ga.js"></sc'+'ript>')</script><script src="https://ssl.google-analytics.com/ga.js"></script>
+<script type="text/javascript">
+try {
+var gwoTracker=_gat._getTracker("UA-6913916-5");
+gwoTracker._setDomainName(".finestationery.com");
+gwoTracker._trackPageview("/1481862442/test");
+}catch(err){}</script>
+<!-- End of Google Website Optimizer Tracking Script -->
+
+
+
+
+ </body></html>
