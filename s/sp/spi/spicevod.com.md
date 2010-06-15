@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417004719id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spicevod.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615233206id_/http%3A//www.spicevod.com/dispatcher/helpPrivacyPolicy%3FtheaterId%3D17982) for the most accurate reproduction.*
 
 # Spice Video On Demand
 
@@ -14,7 +14,7 @@ AEBN, Inc.
 Charlotte, NC 28217  
 Phone: 1.704.529.1600  
 Customer Service Department: 1.800.628.0241  
-billing@aebn.net 
+mailto:mailto:billing@aebn.net 
 
 **Cookies**
 
@@ -34,7 +34,7 @@ As an individual, you have the opportunity to limit the personal information you
 
 We provide you the opportunity to 'opt-out' of having your personally identifiable information used for certain purposes, when we ask for this information. For example, our Site's registration form requires users to give us contact information (such as username and email address). We use customer contact information from the registration form to send the user special offers and updates from AEBN. The customer's contact information is also used to contact the person when necessary. Users may opt-out of receiving future mailings by logging into user info and un-checking the "would you like to receive special offers and updates from us?" checkbox. In addition, if you purchase a product/service but do not wish to receive any additional marketing material from us, you can indicate your preference on our order form.
 
-If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at billing@aebn.net We offer an opportunity to opt-out of certain communications on our MY Account Section, or you may contact us at 704.529.1600, billing@aebn.net or 5300 Old Pineville Road Suite 160 Charlotte NC, 28217 to opt-out.
+If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at mailto:mailto:billing@aebn.net We offer an opportunity to opt-out of certain communications on our MY Account Section, or you may contact us at 704.529.1600, mailto:mailto:billing@aebn.net or 5300 Old Pineville Road Suite 160 Charlotte NC, 28217 to opt-out.
 
 Except as already set forth in this privacy policy, you will be notified when any third party that is not our agent/service provider collects your personal information, so you can make an informed choice as to whether or not to share your information with that party.
 
@@ -52,7 +52,7 @@ AEBN and SpiceTV.com, Inc. (?SpiceTV.com?) co-own the information collected on t
 
 **Access to Personally Identifiable Information**
 
-If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at billing@aebn.net by contacting us by telephone or postal using the information located at the top of this page.
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, delete or deactivate it by making the change on our member information page or by emailing our Customer Support at mailto:mailto:billing@aebn.net by contacting us by telephone or postal using the information located at the top of this page.
 
 **Downloadable Software**
 
@@ -70,7 +70,7 @@ We may use a third party service provider to conduct these surveys or contests; 
 
 If you choose to use our referral service to tell a friend about our Site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the Site. AEBN stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program.
 
-Your friend may contact us at billing@aebn.net to request that we remove this information from our database.
+Your friend may contact us at mailto:mailto:billing@aebn.net to request that we remove this information from our database.
 
 **Email**
 
@@ -104,7 +104,7 @@ The security of your personal information is important to us. When you enter sen
 
 We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Site, you can send email us at billing@aebn.net
+If you have any questions about security on our Site, you can send email us at mailto:mailto:billing@aebn.net
 
 **Changes in this Privacy Statement**
 
