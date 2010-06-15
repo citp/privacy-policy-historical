@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2009-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091224135902id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twu.ca privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615223428id_/http%3A//www.twu.ca/privacy) for the most accurate reproduction.*
 
 # TWU Website Privacy
 
 **Last Updated:  Jan 04, 2006**
 
-**Also see:[TWU privacy policy](https://web.archive.org/web/20091224135902id_/http://www.twu.ca/governance/policies/privacy.aspx)**
+**Also see:[TWU privacy policy](https://web.archive.org/web/20100615223428id_/http://www.twu.ca/governance/policies/privacy.aspx)**
 
 ## Introduction
 
