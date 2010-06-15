@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unmissions.org privacy policy that was archived on 2009-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091221221200id_/http%3A//www.unmissions.org/Default.aspx%3Ftabid%3D150%26ctl%3DPrivacy%26SkinSrc%3D%5BG%5DSkins/UN-Missions-Template-1/Innerpage%26language%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unmissions.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082849id_/http%3A//www.unmissions.org/Default.aspx%3Ftabid%3D150%26ctl%3DPrivacy%26SkinSrc%3D%5BG%5DSkins/UN-Missions-Template-1/Innerpage%26language%3Den-US) for the most accurate reproduction.*
 
 # UN Missions Home
 
