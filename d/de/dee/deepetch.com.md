@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deepetch.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214191101id_/http%3A//deepetch.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepetch.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615231921id_/http%3A//deepetch.com/privacy.php) for the most accurate reproduction.*
 
 # Deepetch.com | Privacy Policy | Clipping Paths, Masking, Retouch, Colour Correction & More
 
