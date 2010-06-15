@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2009-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091225081416id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wirelessemporium.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615081916id_/http%3A//www.wirelessemporium.com/privacy.asp) for the most accurate reproduction.*
 
 # Buy Cell Phone Accessories from WirelessEmporium – Cell phone Covers, Faceplates, Charms, Chargers, Batteries - Deep Discounts and Free Shipping
 
@@ -6,7 +6,7 @@
 ---  
 | 
 
-WirelessEmporium.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.WirelessEmporium.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.   
+[](http://clicktoverify.truste.com/pvr.php?page=validate&url=www.wirelessemporium.com&sealid=101) WirelessEmporium.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to enable individuals and organizations to establish trusting relationships based on respect for personal identity and information by promoting the use of fair information practices. This privacy statement covers the site www.WirelessEmporium.com. Because we want to demonstrate our commitment to our users' privacy, we have agreed to disclose our privacy practices and have them reviewed for compliance by TRUSTe.   
   
 ---  
   
@@ -34,5 +34,5 @@ Questions regarding the WirelessEmporium.com Privacy Policy may be sent to us vi
 
 **Wireless Emporium, Inc.**  
 Attn: Privacy Policy Compliance  
-4040 N. Palm St., Suite 401  
-Fullerton, CA 92835 
+1410 N. Batavia St.  
+Orange, CA 92867 
