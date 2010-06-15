@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the nextstop.com privacy policy that was archived on 2009-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091214161344id_/http%3A//www.nextstop.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the nextstop.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615223827id_/http%3A//www.nextstop.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head>
         <meta name="verify-v1" content="8veUUX7FD7DYsnEVdKN2DF/rsPHQkxgjOkE1WSfCJyw=">
         <meta name="y_key" content="2a501b5544dd35ed">
         <meta name="msvalidate.01" content="AE4845F4DD344C78A0E59DFD6B6F2D69">
@@ -10,8 +10,10 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             
         
+            
+        
     
-        <link rel="stylesheet" href="/static/css/bm_core_release-mobile-rc_r8394.css" type="text/css">
+        <link rel="stylesheet" href="/static/css/bm_core_release-bm85.4_r9697.css" type="text/css">
     
 
         <!--[if lte IE 6]>
@@ -28,7 +30,7 @@
 
         
     
-        <script type="text/javascript">google.load("jquery", "1.3.2");</script>
+        <script type="text/javascript">google.load("jquery", "1.4.2");</script>
     
 
 
@@ -75,10 +77,11 @@
             <li class="community"><a href="/community/">Community</a></li>
             
 
-            <li class="button-add">
-                
-    <div class="scalable-button left scalable-button-with-icon">
-        <a href="/card/new/" rel="nofollow"><div class="l"><div class="r">
+            
+                <li class="button-add">
+                    
+    <div class="scalable-button header-new-rec-button scalable-button-with-icon">
+        <a href="javascript:void(0);" rel="nofollow"><div class="l"><div class="r">
             
                 <span class="sprited-image scalable-button-icon button-icon-plus"></span><img src="/static/images/non-sprited/1/1x1-blank.png" class="sprited-image-blank-image scalable-button-icon button-icon-plus" alt="">
             
@@ -87,6 +90,7 @@
         </div></div></a>
     </div>
 </li>
+            
         </ul>
     </div>
 
@@ -101,32 +105,6 @@
         </form>
     </div><!-- /search -->
 </div></div><!-- /header -->
-
-<script type="text/javascript">
-
-    $(document).ready(function() {
-        $("#header_signin_link").click(function(event) {
-            BMAuth.authAndContinue(BMAuth.redirectToSelf, event.clientX, event.clientY, null, null, 'login');
-            return false;
-        });
-
-        $("#header_join_link").click(function(event) {
-            BMAuth.authAndContinue(BMAuth.redirectToProfile, event.clientX, event.clientY);
-            return false;
-        });
-
-        $("#header_signout_link").click(function() {
-            BMAuth.signOut();
-        });
-        
-        $("#header_search_submit").click(function() {
-            $("#header_search_form").submit();
-            
-            return false;
-        });
-    });
-    
-</script>
 
 
                 
@@ -333,8 +311,7 @@
             <ul class="secondary">
                 <li><a href="/widgets/setup/">Add nextstop to your site</a></li>
                 <li><a href="/api/">Developers</a></li>
-                <li class="last"><a href="/m2/">iPhone site</a></li>
-                
+                <li class="last"><a href="/m2/">iPhone/Android site</a></li>                
             </ul>
         </li>
         <li class="last">
@@ -371,7 +348,7 @@
         </p>
     </div>
 
-    <p class="copyright-notice">© Copyright 2009 nextstop.com</p>
+    <p class="copyright-notice">© Copyright 2010 nextstop.com</p>
 </div></div><!-- /footer -->
 
 <script type="text/javascript">
@@ -474,7 +451,7 @@
     <input type="checkbox" value="$keyword$" class="remove-tags"/>
     <a class="sprite-tag" href="javascript:void(0);">$keyword$</a>    
 </li>
-*/</script>
+*/</script>            
             
             
             
@@ -490,45 +467,87 @@
 
 
 
-<div id="_new_list_dialog" class="dialog hide dialog-300 new-list-dialog">
+
+
+
+<div id="_new_list_dialog2" class="dialog hide new-list-dialog2 dialog-955">
     <div class="dialog-top"></div>
 
     <div class="dialog-wrap">
         <div class="content">
             
-    <h4>Create a new guide</h4>
-
-    <div class="row row-first">
-        <p><label for="list_name">Title</label></p>
-        <input id="_new_list_dialog-title" class="new-list-dialog-title" name="list_name" value="">
+<div>
+    <div class="col-6">
+        <form id="_new_list_dialog2_form">
+            <h1>Create a new guide</h1>
+            <div class="dialog-section">
+                <span class="sprited-image tan-circle">1</span>
+                <div class="step-content">
+                    <h2 class="left">Choose a name for your guide</h2>
+                    <p class="error left"><label class="field-error-message" for="new-list-dialog-title"></label></p>
+                    <div class="row">
+                        <input type="text" name="list_name" value="" id="new-list-dialog-title" class="big-text guide-name-field">
+                        <p class="caption">Good names include a <strong>specific topic and location</strong>, like "Jukeboxes in San Francisco"</p>
+                    </div>
+                </div>
+            </div>
+            <div class="dialog-section">
+                <span class="sprited-image tan-circle">2</span>
+                <div class="step-content">
+                    <h2 class="left">Where is your guide located?</h2>
+                    <p class="error left"><label class="field-error-message" for="list-location-name-field"></label></p>
+                    <div class="row left full">
+                        <div class="location-type-block">
+                            <input type="text" name="list_location" class="big-text list-location-search">
+                            <input type="button" value="Lookup" class="list-location-button">
+                        </div>
+                        <div class="location-type-block no-list-location-block">
+                            <input type="checkbox" name="list_location_type" id="list-no-location-field" value="1">
+                            <label for="list-no-location-field" class="list-no-location-field-label">This guide doesn't have a location</label>
+                        </div>
+                    </div>
+                    <div class="row left list-location-display">
+                        <input type="hidden" id="list-location-name-field" value="">
+                        <p class="location-label">Current Location:</p> <p class="list-location-name">None</p>
+                    </div>
+                </div>
+            </div>
+            <div class="dialog-section">
+                <span class="sprited-image tan-circle">3</span>
+                <div class="step-content">
+                    <h2>Who can add to this guide?</h2>
+                    <p><input type="radio" name="list_collaboration" id="list-collab-open-option" checked="" value="1"> 
+                        <label for="list-collab-open-option">Everyone</label></p>
+                    <p><input type="radio" name="list_collaboration" id="list-collab-closed-option" value="0"> 
+                        <label for="list-collab-closed-option">Only you and people you choose to invite</label></p>
+                </div>
+            </div>
+        </form>
     </div>
-
-    <div class="row">
-        <p><label for="list_text">Description</label></p>
-        <textarea id="_new_list_dialog-description" class="new-list-dialog-description" name="list_text"></textarea>
-    </div>
-
-    <div class="hide">
-	    <div class="row">
-	        <p><label for="list_location">Location (optional)</label></p>
-	    </div>
-	    <div class="row">
-	        <div class="radio-area"><input id="_new_list_dialog-location-radio-world" type="radio" name="location_radio" class="location_radio _new_list_dialog-location-radio _new_list_dialog-location-radio-auto" value="auto" checked="checked"></div>
-	        Set automatically
-	    </div>
-	    <div class="row">
-	        <div class="radio-area"><input id="_new_list_dialog-location-radio-other" type="radio" name="location_radio" class="location_radio _new_list_dialog-location-radio _new_list_dialog-location-radio-other" value="other"></div>
-	        <input id="_new_list_dialog-location" class="new-list-dialog-location" name="list_location" value="" title="City and/or country">
-	    </div>
-    </div>
-        
-    <div class="row">
-        
-        <div class="dialog-button-container">
-            <input type="button" value="Save" id="_new_list_dialog_okbutton" class="small-form-button">
-            <input type="button" value="Cancel" id="_new_list_dialog_cancelbutton" class="small-form-button small-cancel-button">
+    <div class="col-3 col-last">
+        <div class="info-bar">
+            <h3>What makes a good guide?</h3>
+            <p>The best guides organize recommendations into interesting collections that 
+                        express your personality and the places that make a location unique.</p>
+            
+            <p class="guide-examples-header"><strong>For example:</strong></p>
+            <ul class="example-guide-list">
+                <li class="example-guide-list-item"><p><a href="/guide/USVJK86DyKA/hidden-san-francisco/" target="_blank">Hidden San Francisco</a></p></li>
+                <li class="example-guide-list-item"><p><a href="/guide/xaD41RM78CQ/hanoi-street-food/" target="_blank">Hanoi Street Food</a></p></li>
+                <li class="example-guide-list-item"><p><a href="/guide/z2K9YX7Dkz8/great-places-to-read-and-peoplewatch-in-paris/" target="_blank">Places to Peoplewatch in Paris</a></p></li>
+                <li class="example-guide-list-item"><p><a href="/guide/jRaGQ8lVzxs/best-breakfast-in-sydney/" target="_blank">Best Breakfast in Sydney</a></p></li>
+            </ul>
+            <p class="more-suggestions-link"><a href="/go/guide-ideas/" target="_blank">See more guide suggestions »</a></p>
         </div>
     </div>
+    <div class="col-9">
+        <div class="right">
+            <input type="submit" value="Create guide" id="_new_list_dialog2_okbutton" class="button-create">
+            <p class="right link-cancel"><a id="_new_list_dialog2_cancelbutton" href="javascript:void(0)">Cancel</a></p>
+            <p class="error-message small right hide">Oops, it looks like you're missing something that's required!</p>
+        </div>
+    </div>
+</div>
 
         </div>
 
@@ -540,16 +559,7 @@
 
     <script type="text/javascript">
         $(document).ready(function() {
-            var contestEid = "None";
-            
-            var dialog = new NewListDialog('_new_list_dialog',
-                                           false,
-                                           contestEid,
-                                           true);
-
-            NewListDialog['_new_list_dialog'] = dialog;
-
-            
+            NewListDialog2._init();
         });
     </script>
 
@@ -561,109 +571,608 @@
             
             
 
+    
 
 
-<div id="__bmauth_login_signup_dialog" class="dialog hide dialog-500">
+
+<div id="header-login-signup-dialog" class="dialog hide dialog-500">
     <div class="dialog-top"></div>
 
     <div class="dialog-wrap">
         <div class="content">
             
-    <div id="__bmauth_login_page" class="hide">
-        <h4>Sign into nextstop</h4>
-        <div class="row row-first">
-            <div class="col-2">
-                <div class="row row-first">
-                    <h5>nextstop users</h5>
-
-                    <div style="margin-bottom: 1em;">
-                        <p class="form-label">Email or Username</p>
-                        <p><input type="text" name="userstring" id="__bmauth_userstring" class="form-textfield"></p>
-                    </div>
+    
+<div class="login-signup-section">
+    <div id="header-login-signup-dialog_panels">
+        <div class="login-signup-panel ns-signup-panel hide" id="header-login-signup-dialog_signup-form">
+            <h2 class="header">Join nextstop</h2>
+            <a class="signup-fb-connect-btn" id="header-login-signup-dialog_signup-fb-connect-btn" href="javascript:void(0);">
+                <span class="sprited-image facebook-login-button"></span><img src="/static/images/non-sprited/1/1x1-blank.png" class="sprited-image-blank-image facebook-login-button" alt="">
+            </a>
                     
-                    <div>
-                        <p class="form-label">nextstop Password</p>
-                        <p><input type="password" name="password" id="__bmauth_password" class="form-textfield"></p>
-                        <p class="forgot-password-link"><a href="/login/forgot_password" class="action_link" rel="nofollow">Find lost password</a></p>                        
-                    </div>
-                </div>
-
-                <div class="row">
-                    <input id="__bmauth_signin_button" type="button" value="Sign in" class="form-button">
-                    <p class="error error-label" id="__bmauth_login_error_message">&nbsp;</p>
-                </div>
+            <div class="fb-connect-info-section" id="header-login-signup-dialog_connected-with-facebook">
+                <img class="fb-pic" id="header-login-signup-dialog_fb-pic-preview">
+                <p id="header-login-signup-dialog_fb-welcome-message" class="fb-welcome"></p>
             </div>
-            <div class="col-2 col-last">
-                <h5>Facebook users</h5>
-                <p>By logging into nextstop with your Facebook account, you can:</p>
-                <ul>
-                    <li>Connect with friends that use nextstop</li>
-                    <li>Publish and share your favorite places on facebook</li>
-                </ul>
-                <p class="center-text"><a id="__bmauth_fb_connect_button">
-                    <span class="sprited-image facebook-login-button"></span><img src="/static/images/non-sprited/1/1x1-blank.png" class="sprited-image-blank-image facebook-login-button" alt="">
-                </a></p>
+            <table class="row">
+                <tbody><tr>
+                    <td class="label-cell">
+                        <p class="label-text">name</p>
+                    </td>
+                    <td class="input-cell">
+                        <input name="name" type="text" value="" id="header-login-signup-dialog_name-input" class="input-box">
+                    </td>
+                    <td class="error-cell">
+                        <label class="inline-error" for="header-login-signup-dialog_name-input">&nbsp;</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="label-cell">
+                        <p class="label-text">email</p>
+                    </td>
+                    <td class="input-cell">
+                        <div>
+                            <input name="email" type="text" value="" id="header-login-signup-dialog_signup-email-input" class="input-box">
+                        </div>
+                    </td>
+                    <td class="error-cell">
+                        <label class="inline-error" for="header-login-signup-dialog_signup-email-input">&nbsp;</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td><div class="hate-spam">We hate spam &amp; won't share your email</div></td>
+                    <td></td>
+                </tr>
+                <tr id="header-login-signup-dialog_password-row">
+                    <td class="label-cell">
+                        <p class="label-text">password</p>
+                    </td>
+                    <td class="input-cell">
+                        <input name="password" type="password" id="header-login-signup-dialog_signup-password-input" class="input-box">
+                    </td>
+                    <td class="error-cell">
+                        <label class="inline-error" for="header-login-signup-dialog_signup-password-input">&nbsp;</label>
+                    </td>
+                </tr>
+                <tr>
+                    <td></td>
+                    <td>
+                        <div class="button-section">
+                            <input type="button" id="header-login-signup-dialog_signup-submit-btn" value="Join nextstop">
+                            
+                        </div>
+                    </td>
+                    <td>
+                        <p class="legal-notice">By creating an account, you agree to the nextstop <a href="/privacy/" target="_blank">Privacy Policy</a> and <a href="/terms/" target="_blank">Terms of Service</a></p>                        
+                    </td>
+                </tr>
+            </tbody></table>
+            <div class="alert-message">
+                <p class="switch-panel-msg">Already have a nextstop account?&nbsp;&nbsp;&nbsp;<a class="action-link" href="javascript:void(0);" id="header-login-signup-dialog_ns-signup-switch-to-login-link">Sign in »</a></p>
             </div>
         </div>
-        <div class="col-4 col-last center-text row">
-            <h5>Don't have either? <a id="__bmauth_sign_up_link" href="javascript:void(0);" rel="nofollow">Join nextstop »</a></h5>
-        </div>
-    </div>
+        
+        
+        <div class="login-signup-panel login-panel hide" id="header-login-signup-dialog_login">
+            <h2 class="header">Sign in to nextstop</h2>
 
-    <div id="__bmauth_signup_page" class="hide">
-        <h4>Join nextstop</h4>
-
-        <div class="col-4 col-last center-text">
-            <div class="info-message">
-                <p>Already have a nextstop or Facebook account? <b><a id="__bmauth_login_link" href="javascript:void(0);" rel="nofollow">Login »</a></b></p>
-            </div>
-        </div>
-
-        <h5>We only need these three things:</h5>
-        <div class="col-4 col-last">
-            <form id="__bmauth_signup_page_form" onsubmit="return false;">
-                <table width="100%">
+            <div class="col-3">
+                <table id="header-login-signup-dialog_login-form">
                     <tbody><tr>
-                        <td class="form-cell">
-                            <p class="form-label">Choose a public <b>username</b></p>
-                            <input type="text" name="username" id="__bmauth_username" class="form-textfield">
+                        <td class="label-cell">
+                            <p class="label-text">email</p>
                         </td>
-                        <td class="form-cell">
-                            <p><label class="error" for="__bmauth_username" generated="true"></label></p>
+                        <td class="input-cell">
+                            <div>
+                                <input name="email" type="text" value="" id="header-login-signup-dialog_login-email-input" class="input-box">
+                            </div>
                         </td>
                     </tr>
-
                     <tr>
+                        <td class="label-cell">
+                            <p class="label-text">password</p>
+                        </td>
                         <td>
-                            <p class="form-label">Your <b>email address</b></p>
-                            <input type="text" name="email" id="__bmauth_email" class="form-textfield">
-                        </td>
-                        <td class="form-cell">
-                            <p><label class="error" for="__bmauth_email" generated="true">&nbsp;</label></p>
+                            <input name="password" type="password" id="header-login-signup-dialog_login-password-input" class="input-box">
+                            <p class="error" id="header-login-signup-dialog_login-error"></p>
                         </td>
                     </tr>
-                    <tr><td colspan="2" class="form-cell"><p class="spam-notice">We hate spam and will never share your email</p></td></tr>
-
                     <tr>
-                        <td class="form-cell">
-                            <p class="form-label">Choose a <b>password</b></p>
-                            <input type="password" name="new_password" id="__bmauth_new_password" class="form-textfield">
-                        </td>
-                        <td class="form-cell">
-                            <p><label class="error" for="__bmauth_new_password" generated="true"></label></p>
-                        </td>
-                    </tr>
-                    
-                    <tr>
-                        <td class="form-cell">
-                            <input id="__bmauth_create_account_button" type="button" value="Create Account">
-                        </td>
-                        <td class="form-cell">
-                            <p class="legal-notice">By creating an account, you agree to the nextstop <a href="/privacy/" target="_blank">Privacy Policy</a> and <a href="/terms/" target="_blank">Terms of Service</a></p>
+                        <td></td>
+                        <td>
+                            <div class="button-section">
+                                <input class="main-button" type="button" id="header-login-signup-dialog_login-submit-btn" value="Sign in">
+                                <a href="/login/forgot_password/">Forgot your password?</a>
+                            </div>
                         </td>
                     </tr>
                 </tbody></table>
-            </form>
+                
+            </div>
+            <div class="col-1 col-last">
+                <h6 class="fb-login-message center-text">Or sign in with Facebook</h6>
+                <div class="fb-login-btn">
+                    <a id="header-login-signup-dialog_login-fb-connect-btn" href="javascript:void(0);">
+                        <span class="sprited-image facebook-login-button"></span><img src="/static/images/non-sprited/1/1x1-blank.png" class="sprited-image-blank-image facebook-login-button" alt="">
+                    </a>
+                </div>
+            </div>        
+    
+            <div class="row alert-message">
+                <p class="switch-panel-msg">No nextstop or Facebook account?&nbsp;&nbsp;&nbsp;<a href="javascript:void(0);" class="action-link" id="header-login-signup-dialog_switch-to-signup-link">Sign up »</a></p>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+        </div>
+
+    </div>
+
+    <div class="dialog-bottom"></div>
+</div>
+
+
+
+
+ 
+
+
+            
+            
+            
+
+    
+
+
+
+
+
+
+<div id="edit-card-dialog" class="dialog hide edit-card-dialog dialog-955">
+    <div class="dialog-top"></div>
+
+    <div class="dialog-wrap">
+        <div class="content">
+            
+<div id="new-card-form">
+    <div class="col-6">
+        <h1>Add a new recommendation</h1>
+		<div id="photo_suggestion_section" class="step row">
+            <span class="sprited-image tan-circle">1</span>
+            <div class="step-content">
+                <div class="step-header">
+                    <h2 class="photo-step-title left">
+                        Choose a photo
+                    </h2>
+                    <p class="error left"><label class="field-error-message" for="new-card-dialog-media-url"></label></p>
+                    <div id="photo_type_toggle" class="radial-selector-panel right">
+                        <ul>
+                            <li class="photo-tab select-photo-tab selected"><a href="javascript:void(0)" id="image_search_link">Search the web</a></li>
+                            <li class="photo-tab add-photo-tab"><a href="javascript:void(0)" id="upload_photo_link">Upload/Add URL</a></li>
+                        </ul>
+    				</div>
+    			</div>
+
+    			<div id="photo_suggestion_content">
+    				<div id="photo_search_section" class="row">
+    				    <div id="photo-suggestions-container">
+    					    <div class="alert-message no-results-message hide">Sorry! We couldn't find any photos for that search -- please try entering something else</div>
+    					    <div id="photosuggestions" class="bm_loader"></div>
+    					</div>
+                        <input id="new-card-dialog-media-url" type="hidden">
+
+                        <div class="photo-search-field left">
+                            <input id="image_search_textbox" type="text" class="defaultphotosearch" title="Enter photo search">
+    					    <input id="image_search_button" type="button" value="Search again"><br>
+    					</div>
+                    </div>
+
+    				<div id="photo_upload_section" class="row hide">
+    				    <div class="photo-add-box">
+        				    <div class="add-photo-option-row">
+        				        <div class="upload-photo-row">
+                                    <a href="javascript:void(0);" class="media-upload-link" id="edit-card-media-upload-link">Click to upload a file</a>
+                                    <div class="bm_loader_small image-upload-indicator invisible"></div>
+                                </div>
+        				        <div class="upload-photo-message hide">
+        				            <p>Image successfully uploaded</p>
+                                </div>
+                            </div>
+                            <div class="file-url-or-link row">- or -</div>
+                            <div class="add-photo-option-row">
+                                <label for="custom_media_url">Enter image URL:</label>
+                                <input id="custom_media_url" type="text" name="custom_media_url">
+                                <input id="custom_media_url_submit" value="Update image" type="button">
+                            </div>
+                        </div>
+    				</div>
+    			</div>
+    		</div>
+		</div>
+        <div class="step row row-last">
+            <span class="sprited-image tan-circle">2</span>
+    	    <div class="step-content">
+                <h2 class="rec-step-title left">
+                    Write a quick recommendation
+                </h2>
+                <p class="error left"><label class="field-error-message" for="edit-card-dialog-card-text"></label></p>
+                <p class="row">What makes this place special or unique?</p>
+                <div class="row">
+                    <textarea name="card_text" id="edit-card-dialog-card-text" class="card-text"></textarea>
+                    <div class="char-count-container">
+                        <p id="card_text_counter">250</p>
+                        <p>remaining characters</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <input id="edit-card-is-recommendation" type="checkbox" checked="">
+                    <label for="edit-card-is-recommendation">I'd recommend this place to a friend</label>
+                </div>
+
+        		<div class="category row">
+                    <p class="left" id="new-card-dialog-category">What kind of place is this?</p>
+                    <p class="error place-cat-error left"><label class="field-error-message" for="new-card-dialog-category"></label></p>
+                    <div class="row">
+                        <input type="radio" name="edit-card-categories" value="0" id="card-type-do-explore">
+                        <label for="card-type-do-explore">Do/explore</label>
+                        <input type="radio" name="edit-card-categories" value="1" id="card-type-eat-drink">
+                        <label for="card-type-eat-drink">Eat/Drink</label>
+                        <input type="radio" name="edit-card-categories" value="2" id="card-type-stay-sleep">
+                        <label for="card-type-stay-sleep">Stay/sleep</label>
+                        <input type="radio" name="edit-card-categories" value="3" id="card-type-shop-browse">
+                        <label for="card-type-shop-browse">Shop/browse</label>
+                        <input type="radio" name="edit-card-categories" value="4" id="card-type-other">
+                        <label for="card-type-other">Other</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-3 col-last">
+        <div class="card-photo-container empty">
+            <div class="card-photo-placeholder">
+            </div>
+            <div class="empty-photo-text">
+                <p>Please select a photo</p>
+            </div>
+            <div class="error-photo-text hide">
+                <p>Sorry, we're having trouble loading that photo</p>
+                <p class="bold">Please select a different photo</p>
+            </div>
+        </div>
+        <div class="row">
+            
+            <p class="dp-title"></p>
+            <p class="dp-phone"></p>
+            <p class="dp-address"></p>
+            <p id="dp-locations"></p>
+        </div>
+        <div id="attribution-section">
+            <p id="attribution-area" class="attribution-text">Local and image search results are provided by Google.</p>
+        </div>
+    </div>
+
+    <div class="submit-links row">
+        <input type="button" value="Save" id="new-card-dialog-save-button" class="right">
+        <p class="edit-card-dialog-close-link right"><a href="javascript:void(0)" id="edit-card-dialog-back-link">Cancel</a></p>
+        <p class="edit-card-dialog-delete-link right"><a href="javascript:void(0)" id="edit-card-dialog-delete-link">Delete Recommendation</a></p>
+        <p class="error-message small right hide">Oops, it looks like you're missing something that's required!</p>
+        <div class="bm_loader_small hide form-save-indicator"></div>
+    </div>
+</div> 
+
+        </div>
+
+    </div>
+
+    <div class="dialog-bottom"></div>
+</div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            EditCardDialog._init();
+        });
+    </script>
+
+
+ 
+
+
+
+            
+            
+
+    
+
+
+
+
+
+<div id="new-detail-page-dialog" class="dialog hide new-detail-page-dialog dialog-955">
+    <div class="dialog-top"></div>
+
+    <div class="dialog-wrap">
+        <div class="content">
+            
+<div id="new-dp-form">
+    <div class="col-4">
+        <h1>Create a new place</h1>
+        <p>Since you're adding a place we don't know, can you help<br> us with some basic details?</p>
+        <div class="new-detail-page-form">
+            <div class="row dialog-section">
+                <div class="label">Name</div>
+                <input type="text" id="detail-page-name">
+                <p class="inline error"><label class="field-error-message" for="detail-page-name"></label></p>
+            </div>
+            <div class="row dialog-section">
+                <div class="label">Location</div>
+                <input type="text" name="list_location" id="dp-location-search">
+                <input type="button" value="Lookup" id="dp-location-button">
+
+                <div class="row list-location-display">
+                    <input type="hidden" id="dp-location-name-field" value="">
+                    <strong>Current Location:</strong> <span id="dp-location-name">None</span>
+                    <p class="inline error"><label class="field-error-message" for="dp-location-name-field"></label></p>
+                </div>
+            </div>
+            <div class="row dialog-section">
+                <div class="label multiline">
+                    Address
+                    <p class="caption">(optional)</p>
+                </div>
+                <input type="text" name="list_location" id="list-address-field">
+                <input type="button" value="Update Map" id="list-location-update">
+            </div>
+        </div>
+    </div>
+    <div class="col-5 col-last">
+        <div class="map-control-row">
+            <p class="move-map-label">Move map to:</p>
+            <input id="new-_cd_dep_jump_to_text" type="text" title="San Francisco">
+            <input id="new-_cd_dep_jump_to_go_button" type="button" value="Go">
+            <p class="right remove-pin-link"><a id="new-dp-map-editor-remove-pin-link" href="javascript:void(0);">Remove pin</a></p>
+        </div>
+        <div id="new-dp-map-editor"></div>
+        <div class="new-map-changed-warning">
+            <div class="info-message">
+                <p class="center">When you save, we'll make the map look like this for everyone</p>
+            </div>
+        </div>
+    </div>
+    <div class="col-9 submit-button-row">
+        <div class="right">
+            <input type="submit" id="new-detail-page-dialog-next-button" class="right" value="Next »">
+            <a href="javascript:void(0)" id="new-detail-page-dialog-back-link" class="right"><p>Cancel</p></a>
+            <p class="error-message small right hide">Oops, it looks like you're missing something that's required!</p>
+        </div>
+    </div>
+</div>
+
+        </div>
+
+    </div>
+
+    <div class="dialog-bottom"></div>
+</div>
+
+
+    <script type="text/javascript">
+        $(document).ready(function() {
+            NewDetailPageDialog._init();
+        });
+    </script>
+
+
+ 
+
+
+
+            
+            
+
+    
+
+
+
+<div id="edit-dp-dialog" class="dialog hide dialog-955">
+    <div class="dialog-top"></div>
+
+    <div class="dialog-wrap">
+        <div class="content">
+            
+    <form id="edit-details-form" onsubmit="return false;">
+        <h4>Edit details for <span id="header-dp-name"></span></h4>
+        
+        <div class="col-5">
+            <input type="hidden" name="lat" id="_cd_dep_lat">
+            <input type="hidden" name="lng" id="_cd_dep_lng">
+            <input type="hidden" name="latlng_accuracy" id="_cd_dep_latlng_accuracy">
+            <input type="hidden" name="zoomLevel" id="_cd_dep_zoom_level">
+            <input type="hidden" name="mapType" id="_cd_dep_map_type">
+            <input type="hidden" name="eid" id="_cd_dep_dp_eid">
+            <input type="hidden" name="location_eid" id="_cd_dep_location_eid" value="">
+            <input type="hidden" name="map_changed_by_user" id="_cd_dep_map_changed_by_user">
+
+            <div class="form-row row-first">
+                <div class="form-field-label col-1">
+                    <h6>Name</h6>
+                </div>
+                        
+                <div class="col-4 col-last">
+                    <input class="text-field" id="_cd_dep_name" type="text" name="name">
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-field-label col-1">
+                    <h6>Location</h6>
+                </div>
+                <div class="col-4 col-last location-text-field">
+                    <span class="location-text" id="_cd_dep_location">
+                        United States - California - San Francisco
+                    </span>
+                    <a href="javascript:void(0)" id="dialog-edit-location-link">Edit&nbsp;location</a>
+                </div>
+            </div>
+           
+           <div class="form-row">
+                <div class="form-field-label col-1">
+                    <h6>Street Address</h6>
+                </div>
+                <div class="col-4 col-last">
+                    <input class="small-text-field" id="_cd_dep_address" type="text" name="address">
+                    <input type="button" id="_cd_update_map_button" value="Update Map">
+                </div>
+            </div>
+
+    
+            <div class="hide" id="_cd_dep_eng_info_section">
+                <div class="form-row">
+                    <div class="form-field-label col-1">
+                        <h6>English name</h6>
+                    </div>
+                    <div class="col-4 col-last">
+                        <input class="text-field" id="_cd_dep_alt_eng_name" type="text" name="alternate_english_name">
+                    </div>
+                </div>
+                
+                <div class="form-row">
+                    <div class="form-field-label col-1">
+                        <h6>English address</h6>
+                    </div>
+                    <div class="col-4 col-last">
+                        <input class="text-field" id="_cd_dep_alt_eng_address" type="text" name="alternate_english_address">
+                    </div>
+                </div>
+            </div>
+
+            <div id="_cd_dep_show_english_link_section" class="form-row">
+                <div class="col-1">
+                    &nbsp;
+                </div>
+                <div class="col-4 col-last">                    
+                    <div id="_cd_dep_show_english_link_label">
+                        <p>Is the name or address not in English?</p>
+                        <p><a href="javascript:void(0);" id="_cd_dep_show_english_link">Add an alternate English name or address</a></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div id="dp-map-editor"></div>
+                <div class="jump-to-control">
+                    <p class="right remove-pin-link"><a id="dp-map-editor-remove-pin-link" href="javascript:void(0);">remove pin</a></p>
+                    <p>
+                        Jump to:
+                        <input id="_cd_dep_jump_to_text" type="text" title="San Francisco">
+                        <input id="_cd_dep_jump_to_go_button" type="button" value="Go">
+                    </p>
+                </div>
+            </div>
+            
+            <div class="row hide" id="map-changed-warning">
+                <div class="info-message">
+                    <p class="center">When you save, we'll make the map look like this for everyone</p>
+                    <p class="center"><strong><a href="javascript:void(0);" id="undo-map-changes-link">Undo my changes</a></strong></p>
+                </div>
+            </div>
+     
+        </div>
+    
+        <div class="col-4 col-last">
+            <div class="form-row col-first row-first">
+                <p style="float: right;" class="error category_validation_error">(Required)</p>
+                <h6>Category (What kind of place is this?)</h6>
+                <div id="_cd_dep_category_fields"><p class="category-selectors">
+                    <span class="radio-label"><input type="radio" name="categories" value="0" id="_cd_dep_category_0"> Do/explore</span>
+                    <span class="radio-label"><input type="radio" name="categories" value="1" id="_cd_dep_category_1"> Eat/drink</span>
+                    <span class="radio-label"><input type="radio" name="categories" value="2" id="_cd_dep_category_2"> Stay/sleep</span>
+                    <span class="radio-label"><input type="radio" name="categories" value="3" id="_cd_dep_category_3"> Shop/browse</span>
+                    <span class="radio-label"><input type="radio" name="categories" value="4" id="_cd_dep_category_4"> Other</span>
+                </p></div>
+            </div>
+    
+            <div class="form-row">
+                <h6>Price</h6>
+                <div id="_cd_dep_price_fields"><p class="price-selectors">
+                    <span class="radio-label"><input type="radio" name="price_code" value="0" id="_cd_dep_price_0"> Free</span>
+                    <span class="radio-label"><input type="radio" name="price_code" value="1" id="_cd_dep_price_1"> Inexpensive</span>
+                    <span class="radio-label"><input type="radio" name="price_code" value="2" id="_cd_dep_price_2"> Mid-range</span>
+                    <span class="radio-label"><input type="radio" name="price_code" value="3" id="_cd_dep_price_3"> High-end</span>
+                </p></div>
+            </div>
+            
+            <div class="form-row">
+                <div class="form-field-label col-1 row-first">
+                    <h6>Phone</h6>
+                </div>
+                <div class="col-3 col-last row-first">
+                    <input class="small-text-field" id="_cd_dep_phone" type="text" name="phone">
+                </div>
+            </div>
+    
+            <div class="form-row">
+                <div class="form-field-label col-1">
+                    <h6>Website</h6>
+                </div>
+                <div class="col-3 col-last">
+                    <input class="small-text-field" id="_cd_dep_website" type="text" name="website">
+                </div>
+                <div class="col-4 col-last">
+                    <div id="dp-web-search-link">
+                        <a href="javascript:NewEditDetailsDialog.showWebSearch()">Search for website address</a>
+                    </div>
+                    <div id="dp-web-search-control">
+                        <input id="dp-web-search-query" type="text">
+                        <button id="dp-web-search-button">Search</button> 
+                        <div id="dp-web-search-attribution">Results provided by Google</div>
+                        <div id="dp-web-search-results"> </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="form-row">
+                <div class="form-field-label col-1">
+                    <h6>Hours</h6>
+                </div>
+                <div class="col-3 col-last">
+                    <textarea class="hours" id="_cd_dep_date_time_info" type="text" name="date_time_info"></textarea>
+                </div>
+            </div>
+
+            <div class="form-row">
+                <div class="form-field-label col-1">
+                    <h6>Keywords</h6>
+                </div>
+                <div class="col-3 col-last">
+                    <p class="edit-keyword-link-section">
+                        <a href="javascript:void(0);" id="dialog-edit-keyword-link">click to open keyword editor</a>
+                    </p>
+                </div>
+            </div>
+        </div>
+        
+        <div class="col-9">
+            
+        </div>
+
+    </form>
+    
+    <div class="col-9">
+        <div class="alert-message">
+            <p class="center warning">By clicking save you are editing this place as it appears in all recommendations — <strong>Please edit carefully!</strong></p>
+        </div>
+        
+        <div class="form-action-buttons">
+            <p style="float: left;" class="error category_validation_error">Please select a category for this place</p>
+
+            <input type="button" id="dp-editor-save" name="Save" value="Save changes">&nbsp;&nbsp;
+            <input type="button" id="dp-editor-cancel" name="Cancel" value="Cancel">
         </div>
     </div>
 
@@ -674,23 +1183,91 @@
     <div class="dialog-bottom"></div>
 </div>
 
- 
-
- 
 
     <script type="text/javascript">
         $(document).ready(function() {
-            var curUserName = "";
-            var sslPrefix = "https://www.nextstop.com";
-            var curUserProfileUrl = "";
-            
-            BMAuth.setup(curUserName, sslPrefix, curUserProfileUrl);
-            
-            $("#__bmauth_fb_connect_button").click(function() {
-                FBUtil.loginWithFacebook();
+            NewEditDetailsDialog._init();
+
+            $("#dialog-edit-keyword-link").click(function(event) {
+                var detailPage = NewEditDetailsDialog._detailPageInfo;
+                BMAuth.authAndContinue(function() {
+                    NewEditDetailsDialog.temporarilyHide(true);
+                    KeywordEditorDialog.display(detailPage.eid, detailPage.tags, onTagsChangedInDialog);
+                }, event.clientX, event.clientY, "Edit dp dialog - edit keywords");
             });
         });
     </script>
+
+
+
+    
+
+    
+
+
+
+<div id="location-editor-dialog" class="dialog hide dialog-500">
+    <div class="dialog-top"></div>
+
+    <div class="dialog-wrap">
+        <div class="content">
+            
+    <div id="location-editor-dialog" class="location-editor-dialog">
+        <h4>
+            Update location for <span id="loc-editor-dp-name">Existing information:</span>
+        </h4>
+        
+        <div>
+            <p><strong>Current location:</strong></p>
+            <p id="loc-editor-old-location"></p>
+        </div>
+        
+        <div style="margin-top:1em;color:black">            
+            <p><strong>New location:</strong></p>
+            <img class="left" style="display:none;padding:0.5em" id="loc-editor-loading" src="/static/images/loader_small.gif"> <p id="loc-editor-new-location">None</p>
+        </div>
+    
+        <div style="margin-top:2em" class="clear">
+            <h5>Lookup new location for this place:</h5>
+            <div>
+                <input type="text" id="loc-editor-textbox">
+                <input type="button" class="small-form-button" id="loc-editor-lookup-button" value="Lookup">
+            </div>
+            <p class="loc-editor-help">
+                (e.g. city, country)
+            </p>
+        </div>
+        
+        <div class="row">
+            <div class="right">
+                <input type="button" value="Save" id="loc-editor-ok-button" class="small-form-button">
+                <input type="button" value="Cancel" id="loc-editor-cancel-button" class="small-form-button small-cancel-button">
+            </div>
+        </div>
+    </div>
+
+
+        </div>
+
+    </div>
+
+    <div class="dialog-bottom"></div>
+</div>
+
+
+   <script type="text/javascript">
+        $(document).ready(function() {
+            EditLocationDialog._init(); 
+        });
+    </script>
+
+
+ 
+
+
+
+
+
 
             
 
@@ -816,7 +1393,7 @@
         
         
         
-            <script type="text/javascript" src="/static/js/bm_core_release-mobile-rc_r8394.js"></script>
+            <script type="text/javascript" src="/static/js/bm_core_release-bm85.4_r9697.js"></script>
         
 
     
@@ -833,15 +1410,39 @@
             var fbApiKey = "aaf39ffd14a79f9686054e0112b3b847";
             var googleAnalyticsAccount = "UA-5563124-3";
             var recaptchaKey = "6LfjLAQAAAAAAMwL6N1wqFR_C31nkKDODY-sXIea";
+            var rootUrl = "http://www.nextstop.com";
+            var worldLocEid = 'A4nP9exFegM';
             var messageQueue = [];
             var isGoogleVisitor = document.referrer != "" && document.referrer.match('\.google\.[^\/]+\/');
             var isFacebookSession = false;
+            var initialGAEvent = null;
+            
+                var locationName = '';
+            
 
             var pageParams = BMUtil.urlDecode(document.location.search.substr(1));
 
-            BMAuth.setCurrentUser("", 0);
-            BMAuth.didSignIn = !BMAuth.isUserSignedIn();
-            BMAuth.isAdmin = false;
+            BMAuth._init("", "https://www.nextstop.com",
+                        0, false);
+
+            var currentUserLat;
+            var currentUserLng;
+            
+            if (google.loader.ClientLocation) {
+                currentUserLat = google.loader.ClientLocation.latitude;
+                currentUserLng = google.loader.ClientLocation.longitude;        
+            }
+
+            
+            
+                
+            
+            var addRecBannerHtml = "\x0A    \x3Cdiv class\x3D\x27row add\x2Dcard\x2Dbanner header\x2Dadd\x2Drec\x2Dbanner hide\x27\x3E\x0A        \x3Ctable\x3E\x0A            \x3Ctr\x3E\x0A                \x3Ctd style\x3D\x27vertical\x2Dalign:center\x27\x3E\x0A                    \x0A                        \x3Ch3 class\x3D\x27prompt\x27\x3ESearch for the place you\x27re recommending: \x3C/h3\x3E\x0A                    \x0A                \x3C/td\x3E\x0A                \x3Ctd\x3E\x0A                    \x3Cdiv class\x3D\x27list\x2Dadd\x2Drecommendation\x2Dform\x27\x3E\x0A                        \x0A                        \x3Cinput type\x3D\x27hidden\x27 value\x3D\x27\x27 class\x3D\x27user\x2Dquery\x2Dfield\x27 id\x3D\x27header\x2Dadd\x2Drec\x2Dfield\x2Duser\x2Dquery\x27\x3E\x0A                        \x3Cinput type\x3D\x27text\x27 name\x3D\x27initial_card_name\x27 value\x3D\x27\x27 class\x3D\x27new\x2Dcard\x2Dname\x2Dfield\x27 id\x3D\x27header\x2Dadd\x2Drec\x2Dfield\x27\x3E\x0A                    \x3C/div\x3E\x0A                \x3C/td\x3E\x0A            \x3C/tr\x3E\x0A            \x3Ctr\x3E\x0A                \x3Ctd\x3E\x3C/td\x3E\x0A                \x3Ctd\x3E\x0A                    \x0A                    \x0A                        \x3Cp\x3Ee.g. \x22Eiffel Tower\x22 or \x22white house \x3Cstrong\x3Ein washington\x3C/strong\x3E\x22\x3C/p\x3E\x0A                    \x0A                \x3C/td\x3E\x0A            \x3C/tr\x3E\x0A        \x3C/table\x3E\x0A    \x3C/div\x3E\x0A";
+            var expandBanner = false;
+            if (window.location.search.match('expand_add_rec_banner=1')) {
+                expandBanner = true;
+            }
+            MainSiteHeader.init(addRecBannerHtml, expandBanner);
         </script>
                         
         
@@ -863,21 +1464,24 @@
                 }
                 
                 pageTracker = GAUtil.getTracker(googleAnalyticsAccount);
+                
 
                 GAUtil.trackPageview(pageTracker, pageParams);
 
+                if (initialGAEvent && pageTracker) {
+                    pageTracker._trackEvent(initialGAEvent.category, initialGAEvent.action, 
+                        initialGAEvent.label);
+                }
                 
                 if (BMUtil.isSet(pageParams.tkid)) {
                     var data = {tkid: pageParams.tkid};
                     $.get("/email_stat/visit/", data);
                 }
-                               
-                // GAUtil.trackTimeOnPage(pageTracker);
             });
         </script>
 
         
-            <div id="debug_info" style="display:none">
+            <div id="debug_info" style="&quot;display:none&quot;">
                 <!-- STATS: Total: %(total_time).2f Python: %(py_time).2f DB: %(db_time).2f Queries: %(num_queries)d Template: %(template_time).2f Solr (observed): %(solr_observed_time).2f  Solr (reported): %(solr_reported_time).2f -->
                 <div id="sql_log"></div>
             </div>
