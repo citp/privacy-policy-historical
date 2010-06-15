@@ -1,17 +1,8 @@
-> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2009-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090603030329id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eyeslipsface.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615225623id_/http%3A//www.eyeslipsface.com/privacy_policy) for the most accurate reproduction.*
 
-# elf Cosmetics | EyesLipsFace.com | Privacy Policy
+# Makeup and Cosmetics | elf Cosmetics | EyesLipsFace.com | Privacy Policy
 
-|   
----  
-   
-|  |   
----  
-|   
----  
-|   
----  
-|  www.EyesLipsFace.com (the "Site") is brought to you by JA Cosmetics Corp. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.   
+www.EyesLipsFace.com (the "Site") is brought to you by JA Cosmetics Corp. ("we"). This Privacy Policy describes the types of personal and non-personal information we collect on the Site, how we use such information and to whom and under what circumstances we may disclose it. By using the Site, you agree to the terms of this Privacy Policy. If you do not agree to the policy, please do not use the Site.   
 ---  
 **Collection of Information**  
   
@@ -50,8 +41,6 @@ The Site may contain links to third-party websites, which may have privacy polic
 We may change this privacy policy from time to time. When we do, we will post the change(s) on our website. If we change the policy in a material way, we will provide appropriate online notice to you.   
 **Your California Privacy Rights**  
 California law permits our customers who are California residents to request certain information about our disclosure of personal information to third parties for their direct marketing purposes during the preceding calendar year. This request is free and may be made once a year. To make such a request, please write to us at the following address:   
-**1350 Broadway Suite 1715 NY NY 10018 ATTN: Customer Service Department**  
+**10 West 33rd Street, Suite 802 New York,  NY 10001 ATTN: Customer Service Department**  
 **Contact Us**  
-If you have questions or concerns about this Privacy Policy, contact us at elfhelp@eyeslipsface.com   
-   
-| 
+If you have questions or concerns about this Privacy Policy, contact us at elfhelp@eyeslipsface.com 
