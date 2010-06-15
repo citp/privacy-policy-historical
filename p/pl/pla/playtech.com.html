@@ -1,312 +1,241 @@
-<!--The following is the downloaded HTML source of the playtech.com privacy policy that was archived on 2007-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20070426162545id_/http%3A//www.playtech.com/html/main.php%3Fpage%3D61) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the playtech.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615061806id_/http%3A//www.playtech.com/html/page/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<title>Playtech - The Source of Success</title>
-<link href="styles.css" rel="stylesheet" type="text/css">
-<script language="JavaScript" type="text/JavaScript" src="lightbox.js"></script>
-<script language="javaScript" type="text/javaScript" src="js/default.js"></script>
+<base href="http://www.playtech.com/html/">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Playtech - Source of Success</title>
+
+<link href="http://www.playtech.com/html/static/styles/main-menu.css" type="text/css" media="screen" rel="stylesheet">
+<link href="http://www.playtech.com/html/static/styles/styles-02252010.css" type="text/css" media="screen" rel="stylesheet">
+
+<link rel="shortcut icon" href="http://playtech.com/html/favicon.ico">
+
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery-1.4.min.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/home-gallery.js"></script>
 
 
-
-<script language="JavaScript" type="text/JavaScript">
-function newsDIVDo() {
-	document.getElementById('showall').style.display = 'none';
-	document.getElementById('allshow').style.display = '';
-}
-</script>
-<script language="JavaScript" type="text/JavaScript">
-
-function ChangePlatform() {
-	var platform = document.getElementById('platform').value;
-	
-	document.getElementById('platform_casino_1').style.display = 'none';
-	document.getElementById('platform_poker_1').style.display = 'none';
-	document.getElementById('platform_bingo_1').style.display = 'none';
-	document.getElementById('platform_casino_2').style.display = 'none';
-	document.getElementById('platform_poker_2').style.display = 'none';
-	document.getElementById('platform_bingo_2').style.display = 'none';
-	document.getElementById('platform_casino_3').style.display = 'none';
-	document.getElementById('platform_poker_3').style.display = 'none';
-	document.getElementById('platform_bingo_3').style.display = 'none';
-
-	document.getElementById('platform_' + platform + '_1').style.display = '';
-	document.getElementById('platform_' + platform + '_2').style.display = '';
-	document.getElementById('platform_' + platform + '_3').style.display = '';
-}
-
-function CloseMenuItem(input) {
-	if (input) {
-		document.getElementById(input).style.display = 'none';
-		document.getElementById(input + '_LI').className = '';
-	}
-}
-
-function OpenMenuItem(input) {
-	if (input) {
-		if (input == 'indexMenu') {
-			menuConnectorAdd = '00';
-		} else if (input == 'productsMenu') {
-			menuConnectorAdd = '01';
-		} else if (input == 'corporateMenu') {
-			menuConnectorAdd = '02';
-		} else if (input == 'investorMenu') {
-			menuConnectorAdd = '03';
-		} else if (input == 'newsMenu') {
-			menuConnectorAdd = '04';
-		} else if (input == 'contactsMenu') {
-			menuConnectorAdd = '05';
-		}
-
-		document.getElementById(input).style.display = '';
-		document.getElementById('menuConnector').className = 'menuConnector' + menuConnectorAdd;
-		document.getElementById(input + '_LI').className = 'menuActive';
-	}
-}
-
-function menu(input) {
-	if (input) {
-//		document.getElementById('indexMenu_LI').className = 'menuUnActive';
-/*
-		document.getElementById('submenuUL').className = 'submenuUL';
-*/
-		CloseMenuItem('indexMenu');
-		CloseMenuItem('productsMenu');
-		CloseMenuItem('corporateMenu');
-		CloseMenuItem('investorMenu');
-		CloseMenuItem('newsMenu');
-		CloseMenuItem('contactsMenu');
-		
-		OpenMenuItem(input);
-/*
-		if (document.getElementById(input).style.display == 'none') {
-
-			document.getElementById('productsMenu').style.display = 'none';
-			document.getElementById('corporateMenu').style.display = 'none';
-			document.getElementById('investorMenu').style.display = 'none';
-			document.getElementById('newsMenu').style.display = 'none';
-			document.getElementById('contactsMenu').style.display = 'none';
-			
-			document.getElementById(input).style.display = '';
-		} /*else {
-			document.getElementById(input).style.display = 'none';
-		}*/
-	}
-}
-
-function OpenMenuItem2(input) {
-	if (input) {
-		if (input == 'indexMenu') {
-			menuConnectorAdd = '00';
-		} else if (input == 'productsMenu') {
-			menuConnectorAdd = '01';
-		} else if (input == 'corporateMenu') {
-			menuConnectorAdd = '02';
-		} else if (input == 'investorMenu') {
-			menuConnectorAdd = '03';
-		} else if (input == 'newsMenu') {
-			menuConnectorAdd = '04';
-		} else if (input == 'contactsMenu') {
-			menuConnectorAdd = '05';
-		} else if (input == 'langMenu') {
-			menuConnectorAdd = '07';
-		}
-
-		document.getElementById(input).style.display = '';
-		document.getElementById('menuConnector').className = 'menuConnector' + menuConnectorAdd;
-		document.getElementById(input + '_LI').className = 'menuActive';
-	}
-}
-
-function menu2(input) {
-	if (input) {
-		CloseMenuItem('indexMenu');
-		CloseMenuItem('productsMenu');
-		CloseMenuItem('corporateMenu');
-		CloseMenuItem('investorMenu');
-		CloseMenuItem('newsMenu');
-		CloseMenuItem('contactsMenu');
-		CloseMenuItem('langMenu');
-		
-		OpenMenuItem2(input);
-	}
-}
-
-</script>
-
-
-
-  <script language="JavaScript" type="text/JavaScript">
-<!--
-	function MM_displayStatusMsg(msgStr) { //v1.0
-  		status=msgStr;
-  		document.MM_returnValue = true;
-	}
-//-->
-  </script>
-  <script language="JavaScript" type="text/JavaScript">
-<!--
-	function toggle_info(id) {
-		var el = document.getElementById('b' + id);
-		var prev_id;
-
-		prev_id = el.id;
-  		
-		while (el && prev_id == el.id) {
-			if (el.style.display == "") {
-				el.style.display = "none";
-			} else {
-				el.style.display = "";
-			}
-
-			prev_id = el.id;
-			el = el.nextSibling;
-		}
-	}
-//-->
-	</script>
-<script language="JavaScript" type="text/JavaScript">
-<!--
-function detailsSwitch(more, nomore, detail) {
-	if (more) {
-		document.getElementById(more).style.display = '';
-		document.getElementById(nomore).style.display = 'none';
-	}
-	if (detail) {
-		if (document.getElementById(detail).style.display == 'none') {
-			document.getElementById(detail).style.display = '';
-		} else {
-			document.getElementById(detail).style.display = 'none';
-		}
-	}
-}
-//-->
-</script>
-
-
-
-<style>
-#mainText, #secondText {
-	text-align: justify;
-}
-</style>
-
-
-<style>
-body {
-	background: url(images/heading_ee_2.jpg) left top no-repeat;
-}
-</style>
-	
+<!--[if lte IE 7]>
+		<link rel="stylesheet" href="http://www.playtech.com/html/static/styles/ie7.css" type="text/css" media="screen, projection" charset="utf-8" />
+<![endif]-->
+<!-- insic -->
 </head>
 
-<body onload="MM_preloadImages('images/lang/lang12_over.gif')">
-
-<div id="container">
-  <div id="headingContainer">
-    <div id="headingLogo"><a href="index.php"><img src="images/spacer.gif" alt="" width="350" height="90"></a></div>
-    <div id="langBar">
-      <a href="index.php" onmouseover="MM_swapImage('lang1','','images/lang/lang01_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang01.gif" name="lang1" id="lang1" border="0" alt=""></a>
-      <a href="main.php?page=70&amp;lang=de" onmouseover="MM_swapImage('lang2','','images/lang/lang02_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang02.gif" border="0" alt="" name="lang2" id="lang2"></a>
-      <a href="main.php?page=70&amp;lang=tr" onmouseover="MM_swapImage('lang3','','images/lang/lang03_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang03.gif" border="0" alt="" name="lang3" id="lang3"></a>
-      <a href="main.php?page=70&amp;lang=es-xm" onmouseover="MM_swapImage('lang4','','images/lang/lang04_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang04.gif" border="0" alt="" name="lang4" id="lang4"></a>
-      <a href="main.php?page=70&amp;lang=it" onmouseover="MM_swapImage('lang5','','images/lang/lang05_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang05.gif" border="0" alt="" name="lang5" id="lang5"></a>
-      <a href="main.php?page=70&amp;lang=fr" onmouseover="MM_swapImage('lang6','','images/lang/lang06_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang06.gif" border="0" alt="" name="lang6" id="lang6"></a>
-      <a href="main.php?page=70&amp;lang=nl" onmouseover="MM_swapImage('lang7','','images/lang/lang07_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang07.gif" border="0" alt="" name="lang7" id="lang7"></a>
-      <a href="main.php?page=70&amp;lang=ru" onmouseover="MM_swapImage('lang8','','images/lang/lang08_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang08.gif" border="0" alt="" name="lang8" id="lang8"></a>
-      <a href="main.php?page=70&amp;lang=ja" onmouseover="MM_swapImage('lang9','','images/lang/lang09_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang09.gif" border="0" alt="" name="lang9" id="lang9"></a>
-      <a href="main.php?page=70&amp;lang=ko" onmouseover="MM_swapImage('lang10','','images/lang/lang10_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang10.gif" border="0" alt="" name="lang10" id="lang10"></a>
-      <a href="main.php?page=70&amp;lang=zh-cn" onmouseover="MM_swapImage('lang11','','images/lang/lang11_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang11.gif" border="0" alt="" name="lang11" id="lang11"></a>
-      <a href="main.php?page=70&amp;lang=zh-tw" onmouseover="MM_swapImage('lang12','','images/lang/lang12_over.gif',1)" onmouseout="MM_swapImgRestore()"><img src="images/lang/lang12.gif" border="0" alt="" name="lang12" id="lang12"></a>
-    </div>
-  </div>
-  <div id="menuContainer">
-    <ul id="menu">
-      <li id="indexMenu_LI"><a href="index.php" onclick="javascript: menu('indexMenu');" onmouseover="javascript: menu('indexMenu');">home</a></li>
-      <li id="productsMenu_LI"><a href="main.php?page=10" onclick="javascript: menu('productsMenu');" onmouseover="javascript: menu('productsMenu');">products</a></li>
-      <li id="corporateMenu_LI"><a href="main.php?page=21" onclick="javascript: menu('corporateMenu');" onmouseover="javascript: menu('corporateMenu');">corporate</a></li>
-      <li id="investorMenu_LI"><a href="main.php?page=31" onclick="javascript: menu('investorMenu');" onmouseover="javascript: menu('investorMenu');">investor information</a></li>
-      <li id="newsMenu_LI"><a href="main.php?page=41" onclick="javascript: menu('newsMenu');" onmouseover="javascript: menu('newsMenu');">news &amp; events</a></li>
-      <li id="contactsMenu_LI"><a href="main.php?page=50" onclick="javascript: menu('contactsMenu');" onmouseover="javascript: menu('contactsMenu');">contact us</a></li>
-    </ul>
-  </div>
-  <div id="menuConnector" class="menuConnector"><img src="images/spacer.gif" width="8" height="8" alt=""></div>
-  <div id="indexMenu">
-    <ul class="submenuUL">
-      <li class="first"></li>
-    </ul>
-  </div>
-  <div id="productsMenu" style="display: none; ">
-    <ul class="submenuUL">
-      <li class="first"><a href="main.php?page=11">casino</a></li>
-      <li><a href="main.php?page=12">poker</a></li>
-      <li><a href="main.php?page=13">bingo</a></li>
-      <li><a href="main.php?page=14">mobile gaming</a></li>
-      <li><a href="main.php?page=15">kiosk</a></li>
-      <li><a href="main.php?page=16">arcade games</a></li>
-      <li><a href="main.php?page=17">live gaming</a></li>
-      <li><a href="main.php?page=18">videobet</a></li>
-    </ul>
-  </div>
-  <div id="corporateMenu" style="display: none; ">
-    <ul class="submenuUL">
-      <li class="first"><a href="main.php?page=21">who we are</a></li>
-      <li><a href="main.php?page=22">history</a></li>
-      <li><a href="main.php?page=23">fairness</a></li>
-      <li><a href="main.php?page=24">philosophy</a></li>
-    </ul>
-  </div>
-  <div id="investorMenu" style="display: none; ">
-    <ul class="submenuUL">
-      <li class="first"><a href="main.php?page=31">welcome</a></li>
-      <li><a href="main.php?page=32">stock price</a></li>
-      <li><a href="main.php?page=33">financial information</a>&nbsp;</li>
-      <li><a href="main.php?page=34">reg. announcements</a>&nbsp;</li>
-      <li><a href="main.php?page=35">board</a>&nbsp;</li>
-      <li><a href="main.php?page=36">newsletter</a>&nbsp;</li>
-    </ul>
-  </div>
-  <div id="newsMenu" style="display: none; ">
-    <ul class="submenuUL">
-      <li class="first"><a href="main.php?page=41">press releases</a></li>
-      <li><a href="main.php?page=42">events</a></li>
-    </ul>
-  </div>
-  <div id="contactsMenu" style="display: none; ">
-    <ul class="submenuUL">
-      <li class="first"><a href="main.php?page=51">sales inquiry</a></li>
-      <li><a href="main.php?page=52">player inquiry</a></li>
-    </ul>
-  </div>
-  <div id="sidebarContainer">
-    <div id="sidebarImageContainer"><img src="view.php?code=th31" alt=""></div>
-  </div>
-  <div id="mainContentContainer">
-    <div class="textboxContainer">
-      <div id="mainContentLeft"><img src="images/main_content_left.png" alt="" width="8" height="187" style="behavior: url('pngbehaviour.htc');"></div>
-      <div id="mainContentMiddle">
-        <div id="mainContentTop"><img src="images/main_content_top.png" alt="" width="513" height="30" style="behavior: url('pngbehaviour.htc');"></div>
-        <div id="mainContent">
-          <div id="mainText">
-    	    <h1>Privacy Policy</h1>
-    	    <p>This privacy policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Playtech.  If you have any requests concerning your personal information or any queries with regard to these practices please contact us at <a href="mailto:privacy@playtech.com">privacy@playtech.com</a>.<br><br><span style="font-weight: bold;">Information Collected</span><br>Every time you visit our website, move from page to page, read pages, or download content onto your computer, we learn which pages are visited and what content is downloaded. However, this is measured only in aggregate and not on an individual basis. <br><br>When you send us an e-mail or ask us to respond to you by e-mail, we learn your e-mail address and the information that you have included in the email form shown on our website.<br><br><span style="font-weight: bold;">Use of personal information</span><br>We use the aggregate statistical information to determine how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most popular so that we can improve our website and make it easier for you to access this information. We record the statistical information on the number of visitors to our website but no information about you in particular is kept or used. <br><br>In relation to the information we gain when you email us, we may use your e-mail address to acknowledge your comments and/or reply to your questions and we may store your communication and our reply in case we need to correspond at a later date. We will not provide your e-mail address to anyone. <br><br><span style="font-weight: bold;">Disclosures</span><br>We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf.<br><br><span style="font-weight: bold;">Internet-based transfers</span><br>Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis.  Therefore by browsing this website and communicating electronically with us, you acknowledge and agree to our processing of personal data this way.</p>
-          <div style="clear: both; "></div>
-        </div>
-      </div>
-      <div id="mainContentBottom"><img src="images/main_content_bottom.gif" alt="" width="513" height="26"></div>
-    </div>
-    <div id="mainContentRight"><img src="images/main_content_right.png" alt="" width="7" height="187" style="behavior: url('pngbehaviour.htc');"></div>
-    <div id="footerSpacer"><img src="images/spacer.gif" width="10" height="10" alt=""></div>
-  <div id="footerSpacer"><img src="images/spacer.gif" width="10" height="10" alt=""></div>  
-    <div id="footer">  
-      <div id="siteMap"><a href="sitemap.php">sitemap</a></div>  
-      <div id="disclaimer"><a href="main.php?page=61">privacy policy</a> | <a href="main.php?page=62">disclaimer</a></div> 
-    </div>
-  </div>
-  </div>
+<body>
+<div class="preload">
+	<img alt="playtech logo" src="http://www.playtech.com/html/static/images/playtech-logo.png">
+	<img alt="" src="http://www.playtech.com/html/static/images/playtech-logo.png">
+	<img alt="" src="http://www.playtech.com/html/static/images/menu/menu-sprite.png">
 </div>
+	<div id="wrapper">
 
+		<div id="header">
+
+			<div class="logo">
+				<h1><a href="home">Playtech - Source of Success</a></h1>
+			</div>
+
+			<div class="language">
+				<ul class="flagtip">
+			<!--		<li class="sw">
+                    <a href="static/uploads/pdf/Playtech_Brochure_Swedish.pdf" target="_blank"></a>
+                    <em>Sweden</em>
+                    </li>
+
+					<li class="nw">
+                    <a href="static/uploads/pdf/Playtech_Brochure_Norwegian.pdf" target="_blank"></a>
+                    <em>Norway</em>
+                    </li>
+
+					<li class="dm">
+                    <a href="static/uploads/pdf/Playtech_Brochure_Danish.pdf" target="_blank"></a>
+                    <em>Denmark</em>
+                    </li>
+					<li class="ch">
+                    <a href="ch/" ></a>
+                    <em>汉语</em>
+                    </li>
+
+					<li class="ko">
+                    <a href="ko/" ></a>
+                    <em>한국어</em>
+                    </li>
+
+					<li class="jp">
+                    <a href="jp/" ></a>
+                    <em>日本語</em>
+                    </li>
+
+					<li class="ru">
+                    <a href="ru/"></a>
+                    <em>Русский</em>
+                    </li>
+
+					<li class="nl">
+                    <a href="nl/" ></a>
+                    <em>Nederlands</em>
+                    </li> -->
+
+					<li class="fr">
+                    <a href="fr/"></a>
+                    <em>Français</em>
+                    </li>
+
+					<li class="it">
+                    <a href="it/"></a>
+                    <em>Italiano</em>
+                    </li>
+
+					<li class="es">
+                    <a href="es/"></a>
+                    <em>Español</em>
+                    </li>
+
+                    <li class="de">
+                    <a href="de/"></a>
+                    <em>Deutsch</em>
+                    </li>
+
+					<li class="en">
+                    <a href="/"></a>
+                    <em>English</em>
+                    </li>
+				</ul>
+			</div>
+
+
+
+			<div class="clientarea">
+				<p>››&nbsp;<a href="clientarea">Client area</a></p>
+			</div>
+
+			<div class="search">
+				<form action="home/search" method="post">
+					<p><input id="insic" type="text" name="insic" class="text-search" value="Site Search"></p>
+				</form>
+			</div>
+                <div id="menuWrap">
+                <!-- About > products> services> regulated markets > responsible gaming> investors> news > contact  -->
+				<ul class="menu" id="menu">
+				<li><a href="page/about" class="about"><span>About</span></a>
+                                </li>
+                                <li style="display:none;"><a href="page/history" style="display:none;">History</a></li>
+                <li><a href="page/products" class="products"><span>Products</span></a>
+                                </li>
+                                <li style="display:none;"><a href="page/sciplay" style="display:none;">Sciplay</a></li><li style="display:none;"><a href="page/casino" style="display:none;">Casino</a></li><li style="display:none;"><a href="page/poker" style="display:none;">Poker</a></li><li style="display:none;"><a href="page/live" style="display:none;">Live &amp; TV Gaming</a></li><li style="display:none;"><a href="page/bingo" style="display:none;">Bingo</a></li><li style="display:none;"><a href="page/mobile" style="display:none;">Mobile</a></li><li style="display:none;"><a href="page/fixed-odds" style="display:none;">Fixed Odds</a></li><li style="display:none;"><a href="page/asian" style="display:none;">Asian</a></li><li style="display:none;"><a href="page/progressive" style="display:none;">Progressive</a></li><li style="display:none;"><a href="page/sports-betting" style="display:none;">Sports Betting</a></li><li style="display:none;"><a href="page/videobet" style="display:none;">Videobet</a></li><li style="display:none;"><a href="page/ims" style="display:none;">IMS</a></li><li style="display:none;"><a href="page/cross-platform" style="display:none;">Cross-Platform</a></li><li style="display:none;"><a href="page/gts" style="display:none;">GTS</a></li>
+                <li><a href="page/services" class="services"><span>Services</span></a>
+                                </li>
+                                <li style="display:none;"><a href="page/customer-support" style="display:none;">Customer Support</a></li><li style="display:none;"><a href="page/financial-services" style="display:none;">Financial Services</a></li><li style="display:none;"><a href="page/fraud-prevention" style="display:none;">Fraud Prevention</a></li><li style="display:none;"><a href="page/hosting-services" style="display:none;">Hosting Services</a></li><li style="display:none;"><a href="page/payment-advisory-services" style="display:none;">Payment Advisory Services</a></li><li style="display:none;"><a href="page/poker-and-bingo-network-management" style="display:none;">Poker and Bingo Network Management</a></li><li style="display:none;"><a href="page/live-dealer-services" style="display:none;">Live Dealer Services</a></li><li style="display:none;"><a href="page/marketing-services" style="display:none;">Marketing Services</a></li>
+                <li><a href="page/regulated-markets" class="regulated-markets"><span>Regulated Markets</span></a>
+                                </li>
+                                
+                <li><a href="page/responsible-gaming" class="responsible-gaming"><span>Responsible Gaming</span></a>
+                                </li>
+                                
+				<li class="external"><a href="page/investors" class="investors"><span>Investors</span></a>
+                                </li>
+                                <li style="display:none;"><a href="page/board" style="display:none;">Board</a></li><li style="display:none;"><a href="page/upcoming-financial-releases" style="display:none;">Upcoming financial releases</a></li><li style="display:none;"><a href="page/corporate" style="display:none;">Corporate</a></li><li style="display:none;"><a href="page/stock-price" style="display:none;">Stock Price</a></li><li style="display:none;"><a href="page/regulatory-announcements" style="display:none;">Regulatory Announcements</a></li><li style="display:none;"><a href="page/rule-26" style="display:none;">Rule 26</a></li><li style="display:none;"><a href="page/financial-information" style="display:none;">Financial Information</a></li><li style="display:none;"><a href="page/newsletter" style="display:none;">Newsletter</a></li>
+				<li><a href="page/latest-news" class="latest-news"><span>News</span></a>
+                                </li>
+                        <li style="display: none;"><a style="display: none;" href="page/upcoming-events">Upcoming Events</a>
+                                </li>
+                        <li style="display: none;"><a style="display: none;" href="page/news-archive">Archives</a>
+                                </li>
+				<li><a href="page/sales-inquiry" class="contact"><span>Contact</span></a>
+                                </li>
+                        <li style="display: none;"><a style="display: none;" href="page/player-inquiry">Player Inquiry</a>
+                                </li>
+				     <li style="display:none;"><a href="page/financial-information/1076">Year 2010</a></li><li style="display:none;"><a href="page/financial-information/246">Year 2009</a></li><li style="display:none;"><a href="page/financial-information/236">Year 2008</a></li><li style="display:none;"><a href="page/financial-information/237">Year 2007</a></li><li style="display:none;"><a href="page/financial-information/238">Year 2006</a></li><li style="display:none;"><a href="page/financial-information/239">Year 2005</a></li>
+                                <li style="display:none;"><a href="page/regulatory-announcements/1057">Year 2010</a></li><li style="display:none;"><a href="page/regulatory-announcements/203">Year 2009</a></li><li style="display:none;"><a href="page/regulatory-announcements/26">Year 2008</a></li><li style="display:none;"><a href="page/regulatory-announcements/27">Year 2007</a></li><li style="display:none;"><a href="page/regulatory-announcements/47">Year 2006</a></li><li style="display:none;"><a href="page/regulatory-announcements/48">Year 2005</a></li>
+                </ul>
+                </div>
+
+		</div>
+
+		<div id="contentz">
+            <div id="content">
+                <div id="contents">
+
+                                <div class="left-navigation">
+                <ul><li class="activesub"><a>Privacy Policy</a></li></ul>
+            </div>
+            
+            <div class="page-content-top">
+            <div class="page-content-bot">
+            <div class="page-content">
+
+				<h2>Privacy Policy</h2><p>This privacy policy sets out the data processing practices carried out through the use of the Internet and any other electronic communications networks by Playtech. If you have any requests concerning your personal information or any queries with regard to these practices please contact us at <a href="mailto:privacy@playtech.com">privacy@playtech.com</a>. <br><br>Information Collected <br>Every time you visit our website, move from page to page, read pages, or download content onto your computer, we learn which pages are visited and what content is downloaded. However, this is measured only in aggregate and not on an individual basis. <br><br>When you send us an e-mail or ask us to respond to you by e-mail, we learn your e-mail address and the information that you have included in the email form shown on our website. <br><br>Use of personal information <br>We use the aggregate statistical information to determine how many people visit our website and which sections of the site are visited most frequently. This helps us to know what type of information is most popular so that we can improve our website and make it easier for you to access this information. We record the statistical information on the number of visitors to our website but no information about you in particular is kept or used. <br><br>In relation to the information we gain when you email us, we may use your e-mail address to acknowledge your comments and/or reply to your questions and we may store your communication and our reply in case we need to correspond at a later date. We will not provide your e-mail address to anyone. <br><br>Disclosures <br>We will only disclose personal information to other companies within our group of companies, government bodies and law enforcement agencies, successors in title to our business and suppliers we engage to process data on our behalf. <br><br>Internet-based transfers <br>Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore by browsing this website and communicating electronically with us, you acknowledge and agree to our processing of personal data this way. </p>
+
+			</div>
+            </div>
+            </div>
+
+			<div class="banner-column">
+
+			<div class="banner-page">
+
+                        
+			  <img src="http://www.playtech.com/html/static/uploads/banners/banner-privacy-policy.jpg" alt="" title="">
+
+                                
+			</div>
+
+			</div>
+
+                <div class="clear"></div>
+                </div>
+            </div>
+		</div>
+
+
+
+	</div>
+        <div id="footer">
+			<div class="icons">
+                 			</div>
+
+			<div class="links">
+				<div class="copy-text">
+					© Copyright 1999-2010 Playtech. All rights reserved
+				</div>
+				<div class="copy-links">
+					 <a href="page/sitemap">site map</a>|<a href="page/privacy-policy">privacy policy</a>|<a href="page/disclaimer">disclaimer</a>
+				</div>
+			</div>
+		</div>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.livequery.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.watermarkinput.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.corner.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.cycle.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.browser.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.validate.min.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/jquery.treeview.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/insic20100505.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/stock.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/src/adapter/shadowbox-base.js"></script>
+<script type="text/javascript" src="http://www.playtech.com/html/static/js/src/shadowbox.js"></script>
+<script type="text/javascript">
+
+Shadowbox.loadSkin('classic', 'http://www.playtech.com/html/static/js/src/skin');
+Shadowbox.loadLanguage('en', 'http://www.playtech.com/html/static/js/src/lang');
+Shadowbox.loadPlayer(['iframe'], 'http://www.playtech.com/html/static/js/src/player');
+
+window.onload = function(){
+
+    Shadowbox.init();
+};
+
+</script>
+
+	<div class="preload">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-euro-live.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-broadcast-gaming.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-playtech.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-ims.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-services.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-products.jpg">
+                <img alt="" src="http://www.playtech.com/html/static/images/banner-home-regulated-markets.jpg">
+        </div>
 
 
 </body></html>
