@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glenwooddentalgroup.com privacy policy that was archived on 2008-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080530042815id_/http%3A//glenwooddentalgroup.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glenwooddentalgroup.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615030359id_/http%3A//glenwooddentalgroup.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy
 
