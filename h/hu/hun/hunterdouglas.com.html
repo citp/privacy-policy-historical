@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2009-12-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091228155358id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the hunterdouglas.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615073314id_/http%3A//www.hunterdouglas.com/privacy-policy.jsp) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
   <meta http-equiv="content-type" content="text/html; charset=utf-8">
@@ -22,26 +22,16 @@
 <script type="text/javascript" src="/js/thickbox.js"></script>
 <script type="text/javascript" src="/js/hdg_js_utilities.js"></script><script type="text/javascript" src="/our-products-rebcook.jsp"></script>
 
-<script type="text/javascript">
+<script type="text/javascript" language="JavaScript">
 
 function baitWait(type, tid) {
-        if(!getCookie('baitWait')&&!getCookie('hook')&&!getCookie('baitOff')){
-                var d1 = new Date;
-                fixCookieDate (d1);
-            d1.setFullYear(d1.getFullYear()+1, d1.getMonth(),d1.getDate());
-            setCookie("baitWait",type+'='+tid,d1);
-	    setCookie("baitS",'true',d1);
-        }
+	var d1 = new Date;
+	var d2 = new Date(d1.getTime()+5400000);
+	fixCookieDate(d2);
+	if((!getCookie('37rebwt'))&&(!getCookie('37reboff'))&&(!getCookie('37rebfo'))) {
+		setCookie("37rebwt",type+'='+tid,d2);
+	}
 }
-
-function setBaitS(){
-        var d2 = new Date();
-        var d3 = new Date(d2.getTime()+5400000);
-        fixCookieDate (d3);
-    setCookie("baitS",'true',d3);
-}
-
-if (getCookie('baitWait') && getCookie('baitS')) setBaitS();
 
 
 </script>
@@ -316,9 +306,15 @@ function validateZip () {
   
   <span class="teaser_heading">The Hunter Douglas Advantage</span>
   <span class="teaser_copy">
-  Hunter Douglas offers the industry's largest collection of energy-efficient, custom-made window treatments. Designed and assembled in the U.S., and backed by a Lifetime Guarantee, our sheers, shades, honeycombs, blinds and shutters can be customized with lifting systems for added safety and convenience.<br>
-<a href="/starter-guide.jsp#/hda/">EXPLORE THE STARTER GUIDE</a>
-<a href="/child-safety.jsp">MORE ABOUT CHILD SAFETY</a>
+  Select a topic to learn more about the expertise provided by Hunter Douglas, the industry's largest manufacturer of custom-made window treatments: 
+<a href="starter-guide-advantage-energy-efficiency.jsp">Energy Efficiency</a>
+<a href="starter-guide-advantage-hunter-green.jsp">Hunter Green</a>
+<a href="starter-guide-advantage-quality-innovation.jsp">Quality &amp; Innovation</a>
+<a href="starter-guide-advantage-child-safety.jsp">Child Safety</a>
+<a href="starter-guide-advantage-dealer-experience.jsp">Dealer Experience</a>
+<a href="starter-guide-advantage-motorization.jsp">Motorization</a>
+<a href="starter-guide-advantage-lifetime-guarantee.jsp">Lifetime Guarantee</a>
+
   </span>
   
   
@@ -358,8 +354,8 @@ function validateZip () {
 
 <!--htdig_noindex--><div id="footer">
 <ul>
-<li id="footer_for"><a href="redir.jsp?u=http://dealers.hunterdouglas.com" target="_blank">FOR Dealers, Designers and Installers</a></li>
-<li id="footer_copyright"><a href="copyright.jsp">© 2009 Hunter Douglas. All rights reserved.</a></li>
+<li id="footer_for"><a href="https://my.hunterdouglas.com/" target="_blank">FOR Dealers, Designers and Installers</a></li>
+<li id="footer_copyright"><a href="copyright.jsp">© 2010 Hunter Douglas. All rights reserved.</a></li>
 	<li id="footer_terms"><a href="terms-of-use.jsp">Terms of Use</a></li>
 	<li id="footer_privacy"><a href="privacy-policy.jsp">Privacy Policy</a></li>
 
