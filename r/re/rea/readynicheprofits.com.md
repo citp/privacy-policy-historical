@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readynicheprofits.com privacy policy that was archived on 2009-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091014115700id_/http%3A//www.readynicheprofits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readynicheprofits.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615210356id_/http%3A//www.readynicheprofits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Ready Niche Profits
 
@@ -17,7 +17,7 @@ Note: the privacy practices set forth in this privacy policy are for this web si
 Participating Merchant Policies  
 
 
-Related services and offerings with links from this website and product, including our agents' sites, (GetResponse.com, Clickbank.com and others) have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  
+Related services and offerings with links from this website and product, including our agents' sites, (GetResponse.com, PayPal.com and others) have their own privacy statements that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in our services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.  
 
 
 Collection of Information  
