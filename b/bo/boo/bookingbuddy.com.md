@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2008-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081219013520id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookingbuddy.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615053655id_/http%3A//www.bookingbuddy.com/privacy.php) for the most accurate reproduction.*
 
 # BookingBuddy privacy policy
 
@@ -88,7 +88,7 @@ BookingBuddy.com subscribers may opt out of receiving future BookingBuddy.com co
 
   * Website: [http://www.bookingbuddy.com/sub/changesubscriptions.php](https://web.archive.org/sub/changesubscriptions.php "unsubscribe")
   * Email: [help@bookingbuddy.com](mailto:help@bookingbuddy.com)
-  * Mail: Smarter Travel Media LLC, Attn: BookingBuddy Customer Service, 465 Medford Street, Suite 400 Boston, MA 02129
+  * Mail: Smarter Travel Media LLC, Attn: BookingBuddy Customer Service, 500 Rutherford Ave, Second Floor, Boston, MA 02129
 
 
 
@@ -113,8 +113,8 @@ BookingBuddy.com is a product managed by Smarter Travel Media LLC. Smarter Trave
 As part of operations, BookingBuddy may sell, transfer or merge particular businesses and/or other assets to a third party. As part of such a transaction, personal information users have provided to BookingBuddy may be given to a third party. BookingBuddy attempts to comply with all legislative and judicial orders. These orders will take precedence over the details stated in the policy above. If you have any questions about this Privacy Policy or your dealings with BookingBuddy, please contact: 
 
 Smarter Travel Media LLC  
-465 Medford Street  
-Suite 400  
+500 Rutherford Avenue  
+Second Floor  
 Boston, MA 02129  
 617-886-5555  
 617-886-5501 (fax)  
