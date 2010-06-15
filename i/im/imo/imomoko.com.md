@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2009-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090411061754id_/http%3A//www.imomoko.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imomoko.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616003106id_/http%3A//www.imomoko.com/pages.php%3Fkb%3D7) for the most accurate reproduction.*
 
-# iMomoko.com
+# 
 
 Most View
 
@@ -12,13 +12,7 @@ L'EGERE White Multi Blemish Balm BB Cream
   
 | 
 
-DHC DEEP CLEASING OIL (L)  
-  
----|---  
-  
-| 
-
-L'EGERE Shiny Pearl Blemish Balm BB Cream  
+Vitacreme B12  
   
 ---|---  
   
@@ -30,7 +24,13 @@ DARIYA Maegami Fringe Holder Pink
   
 | 
 
-KISS ME Heroine Make Volume & Curl Mascara   
+NARIS UP Eggshell & Charcoal MASK  
+  
+---|---  
+  
+| 
+
+L'EGERE Shiny Pearl Blemish Balm BB Cream  
   
 ---|---  
   
@@ -77,3 +77,13 @@ Security:
 iMomoko.com will take all appropriate measures to assure the online security of transmissions to this web site. iMomoko.com web site and any data transmitted to or from it are protected by a secure socket layer (SSL) key, which encrypts the data. All data is stored on our servers in a secure, encrypted manner. Access to those servers is strictly limited to network administrators and other authorized personnel of iMomoko.com who have been trained to protect against loss, misuse, unauthorized access, disclosure, alteration or destruction of personal data under iMomoko.com control. We take pride in our technology and our security policies. 
 
 iMomoko.com reserves the right to amend this Privacy Policy at any time without notice. If we decide to change this Privacy Policy, we will post those changes here so that you will always know how we will use the information that is collected about you. 
+
+| | | | | |   
+---|---|---|---|---|---|---  
+| | | | | |   
+| | | | | |   
+| | | | | |   
+| | | | | |   
+| | | | | |   
+| | | | | |   
+| | | | | | 
