@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamerlimit.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214013433id_/http%3A//gamerlimit.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamerlimit.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615103450id_/http%3A//gamerlimit.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gamer Limit
 
