@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2009-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090523210333id_/http%3A//onecoach.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onecoach.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615173402id_/http%3A//onecoach.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ A client may withdraw his or her consent for collection, use and disclosure at a
 
 **2\. Accountability**
 
-OneCoach collects, at the time of your registration and your sign-on to its web site, certain �personal information� (information that personally identifies you) which may include, but is not limited to, your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses). 
+OneCoach collects, at the time of your registration and your sign-on to its web site, certain personal information (information that personally identifies you) which may include, but is not limited to, your name, email address, home or work address, telephone number, and information about your computer hardware and software (e.g., IP address, operating system, browser type, domain name, URL, access times, and referring web site addresses). 
 
 OneCoach has implemented this Privacy Policy to protect personal information received from its clients, and to respond to any inquiries. The Privacy Policy also provides that OneCoach will use appropriate contractual means to establish a comparable level of protection for personal information which is sent for processing by third parties on OneCoach's behalf. 
 
@@ -84,9 +84,9 @@ OneCoach will use commercially reasonable efforts to protect clients' personal i
 OneCoach will afford you a reasonable opportunity to review the personal information in your file, upon request to the Privacy Officer at info or by writing to: 
 
 OneCoach   
-512 Via de la Valle, Suite 210   
-San Diego, CA 92075   
-858-792-1250 
+5963 La Place Court, Suite 105   
+Carlsbad, CA 92008   
+760.904.5287 
 
 If OneCoach is not able to provide access to some aspect of a client's personal information, it will provide reasons for denying access such as; that by doing so would likely reveal personal information about a third party, or that it is onfidential commercial information or attorney-client privileged ommunications, or that the information relates to a breach of an agreement or a contravention of law, or that its disclosure could reasonably be expected to threaten the life or security of another individual. 
 
