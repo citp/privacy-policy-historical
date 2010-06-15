@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2009-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091026120240id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutraplanet.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615045333id_/http%3A//www.nutraplanet.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 At NutraPlanet, we recognize the importance of preserving and protecting your privacy. This document outlines the types of personal information we receive and collect when you use our web site and our services, as well as some of the steps we take to safeguard your information.
 
-To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at [customerservice@nutraplanet.com](mailto:customerservice@nutraplanet.com)
+To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at [support@nutraplanet.com](mailto:support@nutraplanet.com)
 
 **Contact Information**
 
@@ -14,7 +14,7 @@ Fayetteville, GA 30214
 
 phone: 770-460-1365
 
-support email: [customerservice@nutraplanet.com](mailto:customerservice@nutraplanet.com)
+support email: [support@nutraplanet.com](mailto:support@nutraplanet.com)
 
 **What Information Do We Collect?**
 
