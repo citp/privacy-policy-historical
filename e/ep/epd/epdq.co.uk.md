@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epdq.co.uk privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214205320id_/http%3A//www.barclaycard.co.uk/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epdq.co.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615193851id_/http%3A//www.barclaycard.co.uk/business/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Barclaycard Business
 
@@ -72,8 +72,9 @@ Please remember that internet communications are not secure unless the data bein
 
 Please do not send any personal information or anything about your account by standard email.
 
-Calls may be monitored or recorded for security and quality purposes. Calls made to 0800 numbers are free if made from a UK landline.
+**Call Charges:** Calls may be monitored or recorded for security and quality purposes. Calls made to 0800 numbers are free if made from a UK landline.  
+For BT business customers, calls to 0844 numbers will cost no more than 5p a minute, min call charge of 5.9p (current at April 2010). The price on non-BT phone lines may be different.
 
-For BT business customers, calls to 0844 numbers will cost no more than 5p a minute, min call charge of 5.9p (current at August 2009). The price on non-BT phone lines may be different.
+**Lending Code:** Barclaycard is a trading name of Barclays Bank PLC. Barclays Bank PLC subscribes to the Lending Code which is monitored and enforced by the Lending Standards Board. You can find out more about the Lending Code by visiting the [Lending Standards Board(This link opens in a new window)](http://www.lendingstandardsboard.org.uk/ "Lending Standards Board website.\(Opens in new window\)") website.
 
 By clicking on a link with this icon, you're leaving a Barclaycard site and entering a website that's owned and operated by a 3rd party, where you will be subject to their website's terms and conditions.
