@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2009-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091129115319id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beaumontenterprise.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615071827id_/http%3A//www.beaumontenterprise.com/policy/BeaumontPRIVACY.html) for the most accurate reproduction.*
 
 # Privacy policy | www.beaumontenterprise.com - Policy
 
