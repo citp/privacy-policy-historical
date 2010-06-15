@@ -1,23 +1,17 @@
-<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2009-06-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20090611162631id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the jazz.net privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615090249id_/http%3A//jazz.net/pub/privacy.jsp) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd"><html lang="en-US"><head>
+<!DOCTYPE html><html lang="en-US" class="dj_webkit dj_chrome dj_contentbox"><head>
 	
-
-
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=8">
-<script src="/_scripts/dojo/dojo.js"></script>
-<script src="/_scripts/util.js"></script>
-<script src="/_scripts/feeds.js"></script>
-<script src="/_scripts/views.js"></script>
-<link rel="stylesheet" type="text/css" href="/_scripts/dojo/resources/dojo.css">
-<link rel="stylesheet" type="text/css" href="/_scripts/dijit/themes/tundra/tundra.css">
+<script type="text/javascript" src="/dojo/dojo/dojo.js"></script>
+<script type="text/javascript" src="/_scripts/util.js"></script>
+<link rel="stylesheet" type="text/css" href="/dojo/dojo/resources/dojo.css">
+<link rel="stylesheet" type="text/css" href="/dojo/dijit/themes/tundra/tundra.css">
 <link rel="stylesheet" type="text/css" href="/_css/shared.css">
-<link rel="stylesheet" type="text/css" href="/_css/layouts.css">
 <link rel="stylesheet" type="text/css" href="/_css/styles.css" media="screen">
 <link rel="stylesheet" type="text/css" href="/_css/feeds.css">
-<link rel="stylesheet" type="text/css" href="/_css/views.css">
 <link rel="stylesheet" type="text/css" href="/_scripts/templates/NavBar.css">
 <link rel="stylesheet" type="text/css" href="/_css/print.css" media="print">
 <script type="text/javascript">
@@ -26,81 +20,49 @@
 		var href = location.href;
 		var path = location.pathname;
 		if (location.protocol == "https:") {
-			var paths = ["/library/", "/community/", "/blog"];
+			var paths = ["/projects/", "/library/", "/community/", "/blog"];
 			for (var i=0;i<paths.length;i++) {
 				if (path.indexOf(paths[i]) == 0) {
+					if (path.indexOf("/projects/") >= 0 && path.indexOf("/release-plan") >= 0) break;
 					location.replace("http" + href.substring(5));
 				}
 			}
-		}
-		else if (location.protocol == "http:") {
-			var paths = ["/projects/", "/downloads/"];
+		} else if (location.protocol == "http:") {
+			var paths = ["/downloads/"];
 			for (var i=0;i<paths.length;i++) {
 				if (path.indexOf(paths[i]) == 0) {
 					location.replace("https" + href.substring(4));
 				}
 			}
 		}
-		
+	
 	dojo.registerModulePath("jazz", "/_scripts");
 	dojo.registerModulePath("jazz.ui", "/_scripts");
 	dojo.registerModulePath("jazz.util", "/_scripts");
-	dojo.require("jazz.NavBar");
 	if (window.location.href.indexOf("debug=true") >= 0) {
 		var djConfig = {isDebug: true};
 		window.publicHostname = "jazz.net";
 	}
 </script>
 
-<title>Jazz Community Site - Privacy Policy</title>
 <link rel="stylesheet" type="text/css" href="/_css/docs.css">
-
-<style type="text/css">
-a {
-	text-decoration: none !important;
-}
- 
-a:hover {
-	text-decoration: underline !important;
-}
-
-a#home, 
-a#community,
-a#development {
-	display: none;
-}
-
-/*
- * The click through notice should only be displayed when you are prompted to
- * agree while logging in, not when viewing the document via a link.
- */
-#clickThroughNotice {
-	display: none;
-}
-
-</style>
+<title>Jazz Community Site - Privacy Policy</title>
 </head>
 
 
+<body class="tundra">
 
-<body>
-
-<div class="access"><a href="#content">Skip to main content</a></div>
-<div class="navbar">
-	<div id="navbar-left">
-		<div class="navbar-placeholder">
-			<a href="/" title="Home" alt="Home">Home</a>
-			<a href="/about/" title="About Jazz" alt="About Jazz">About Jazz</a>
-			<a href="/projects/" title="Projects" alt="Projects">Projects</a>
-			<a href="/downloads/" title="Downloads" alt="Downloads">Downloads</a>
-			<a href="/forums/" title="Forums" alt="Forums">Forums</a>
-			<a href="/library/" title="Library" alt="Library">Library</a>
-			<a hef="/community/" title="Community" alt="Community">Community</a>
+<div class="cs-page-wrapper">
+	<div class="access"><a href="#content">Skip to main content</a></div>
+	<div class="header-wrapper">
+		<div class="header-left">
+			<div class="navbar">
+				<div class="jazz-NavBar" id="navbar-left" widgetid="navbar-left"><div class="navbarItem home"><a class="homeLink navbarItem" href="http://jazz.net/" dojoattachpoint="home"><span></span>Home</a></div><a class="navbarItem jazznet-HoverMenu" href="/about/" id="jazz_HoverMenu_0" widgetid="jazz_HoverMenu_0">About Jazz<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/roles/" id="jazz_HoverMenu_1" widgetid="jazz_HoverMenu_1">Roles<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/projects/" id="jazz_HoverMenu_2" widgetid="jazz_HoverMenu_2">Projects<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/downloads/" id="jazz_HoverMenu_3" widgetid="jazz_HoverMenu_3">Downloads<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/forums/" id="jazz_HoverMenu_4" widgetid="jazz_HoverMenu_4">Forums<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/library/" id="jazz_HoverMenu_5" widgetid="jazz_HoverMenu_5">Library<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/development/" id="jazz_HoverMenu_6" widgetid="jazz_HoverMenu_6">Development<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a><a class="navbarItem jazznet-HoverMenu" href="/community/" id="jazz_HoverMenu_7" widgetid="jazz_HoverMenu_7">Community<img class="caret" src="https://web.archive.org/web/20101007140021/http://jazz.net/_scripts/graphics/HoverMenu/navbar-arrow.gif"><a></a></a></div>
+			</div>
 		</div>
-	</div>
-	<div class="navbar-right">
-	
-		<script type="text/javascript">
+		<div class="header-right">			
+			
+				<script type="text/javascript">
 	function checkEsc(event) {
 		event = event || window.event;
 		if (document.getElementById("login-float").style.display == "none") {
@@ -146,76 +108,83 @@ a#development {
 	<div class="login-float-content">
 		<div class="dupe-login-link" style="text-align: right;"><a href="#" onclick="cancelLogin(event)">Log In</a></div>
 		
-			<form class="LoginForm" name="LoginForm" action="https://jazz.net/auth/login" method="post">
-
+<form id="loginForm-8728" class="LoginForm" name="LoginForm" action="https://jazz.net/auth/login" method="post">
 	<table>
-		<tbody><tr class="error-row" style="display: none;"><td colspan="2" class="error-cell">
-			
-		</td></tr>
-		<tr><td class="label-col">User ID:</td><td class="field-col"><input class="text-field" type="text" name="username"></td></tr>
-		<tr><td class="label-col">Password:</td><td class="field-col"><input class="text-field" type="password" name="password"></td></tr>
-		<!--tr><td></td><td><input class="checkbox" type="checkbox" name="rememberMe" id="checkbox-5123" /> <label class="checkbox-label" for="checkbox-5123">Keep me logged in</label></td></tr-->
+		<tbody><tr id="errorRow-8728" class="error-row" style="display: none"><td colspan="2" class="error-cell" id="errorCell-8728"></td></tr>
+		<tr><td class="label-col">User ID:</td><td class="field-col"><input class="text-field" type="text" name="j_username"></td></tr>
+		<tr><td class="label-col">Password:</td><td class="field-col"><input class="text-field" type="password" name="j_password"></td></tr>
+		<!--tr><td></td><td><input class="checkbox" type="checkbox" name="rememberMe" id="checkbox-8728" /> <label class="checkbox-label" for="checkbox-8728">Keep me logged in</label></td></tr-->
 		<tr><td></td><td><input type="submit" value="Log In"><input class="login-cancel-button" type="button" value="Cancel" onclick="cancelLogin(event)"></td></tr>
 	</tbody></table>
-	<input type="hidden" name="redirectPage" value="https://web.archive.org/web/20090611162631id_/http%3A//jazz.net/pub/privacy.jsp">
-	<input type="hidden" name="field" value="header">
-	<script defer="" type="text/javascript">
-		var s = "?";
-		window.location.search.replace(
-			new RegExp("([^?=&]+)(=([^&]*))?", "g"),
-			function($0, $1, $2, $3) {
-				if ($1 != "errno") {
-					s = s + "&" + $1 + "=" + $3;
-				}
-			}
-		);
-		var href = window.location.href;
-		href = href.replace(/\?.*/, "");
-		
-		var forms = document.forms;
-		var first = true;
-		for (var i = 0; i < forms.length; i++) {
-			var form = forms[i];
-			if (form.name == "LoginForm") {
-				form.redirectPage.value = href + (s.length > 1 ? s : "");
-				if (first) {
-					form.field.value = "header"; 
-					first = false;
-				}
+	<p><input type="hidden" name="redirectPage" id="redirectPage-8728" value="https://web.archive.org/web/20100615090249id_/http%3A//jazz.net/pub/privacy.jsp"><input type="hidden" name="field" id="field-8728" value="header"></p>
+</form>
+<script type="text/javascript">
+(function() {
+	var loginFloat = dojo.byId("login-float");
+	var isFloat = dojo.isDescendant(dojo.byId("loginForm-8728"), loginFloat);
+	dojo.addOnLoad(function() {
+		if (isFloat) {
+			dojo.byId("field-8728").value = "header";
+		}
+		var s = location.search.substring(1);
+		var node = dojo.byId("redirectPage-8728");
+		if (!node.value || node.value == "") {
+			if (s.indexOf("errno") >= 0) {
+				s = dojo.queryToObject(location.search.substring(1));
+				delete s.errno;
+				s = dojo.objectToQuery(s);
+				node.value = window.location.href.replace(/\?.*/, "") + (s.length > 0 ? "?" + s : "");
+			} else {
+				node.value = window.location.href;
 			}
 		}
-	</script>
-</form>
-<p>Forgot your <a href="/pub/user/retrieve-userid.jsp">user ID</a> or <a href="/pub/user/password-reset-request.jsp">password</a>?</p>
-		
-		<script type="text/javascript">
-			
-		</script>
-	</div>
-</div>
+	});	
 	
+	var errno = null;
+	if (!errno) {
+		var loc = location.search.indexOf("errno=")+6;
+		if (loc >= 6 && location.search.length >= loc+1){
+			errno = location.search.substring(loc, loc+1)	
+		}
+	}
+	if (errno && (errno != 1 || !loginFloat || isFloat)) {
+		var d = (dojo.isIE && dojo.isIE <=7) ? "inline" : "table-row";
+		var wasFloat = (errno %2 == 1);
+		if (isFloat && wasFloat) showLogin();
+		if (isFloat == wasFloat) document.getElementById("errorRow-8728").style.display = d;
+		var message = "";
+		if (errno == 1 || errno == 2) {
+			message = "Invalid user ID or password.";
+		} else if (errno == 3 || errno == 4) {
+			message = "Your account has been locked due to repeated login attempts with an invalid password.  Wait 1 hour or <a href=\"/pub/user/password-reset-request.jsp\">reset your password</a>.";
+		} else if (errno == 5 || errno == 6) {
+			message = "Unable to log in due to a server error.";
+		}
+		if (message) document.getElementById("errorCell-8728").innerHTML = message;
+	}
+})();
+</script>
+<p>Forgot your <a href="/pub/user/retrieve-userid.jsp">user ID</a> or <a href="/pub/user/password-reset-request.jsp">password</a>?</p>
 	</div>
 </div>
-<div class="main-wrapper">
-	<div class="header-bar-short">
-		<div class="outer-wrapper">
-			<div class="inner-wrapper">
-				
-				<a href="/" title="Jazz.net Homepage"><img src="/_images/header/header-jazz.png" class="page-logo-web" alt="Jazz Community Site"><img src="/_images/header/header-jazz-BLK.png" alt="Jazz Community Site" class="page-logo-print"></a><span class="page-title-print">Jazz.net Homepage</span><a href="/" title="Jazz.net Homepage"><img class="page-title-web" src="/_images/header/header-comm-site.png" alt="Jazz.net Homepage"></a>
-			</div>
+			
 		</div>
 	</div>
-	<div class="content-area">
-		<div class="content-wrapper">
-	<div class="central-area no-left">
-		<div style="margin-left: 10px; margin-right: 10px">
-			<div class="doc-tools"> <a href="/pub/privacy.htm"><img src="/_images/print.gif" alt=""> Printable
-				version</a> </div>
-			
-
-
-<h2 class="titleL1">Jazz.net Privacy Policy</h2>
-<p>June 8, 2007</p>
+	<div class="main-wrapper">
+		<div class="header-bar-short">
+			<div class="outer-wrapper">
+				<div class="inner-wrapper">
+					
+					<a href="/" title="Jazz.net Homepage"><img src="/_images/header/header-jazz.png" class="page-logo-web" alt="Jazz Community Site"><img src="/_images/header/header-jazz-BLK.png" alt="Jazz Community Site" class="page-logo-print"></a><span class="page-title-print">Jazz.net Homepage</span><a href="/" title="Jazz.net Homepage"><img class="page-title-web" src="/_images/header/header-comm-site.png" alt="Jazz.net Homepage"></a>
+				</div>
+			</div>
+		</div>
+		<div class="content-area">
+			<div class="content-wrapper" id="content-wrapper">
+	<div class="central-area no-left no-sidebar">
+		
+<h1>Jazz.net Privacy Policy</h1>
+<p class="byline">June 8, 2007</p>
 
 <p>
 Your privacy is important to IBM. This statement discloses the information practices for IBM Web sites, including what type of information is gathered and tracked, how the information is used, and with whom the information is shared.</p>
@@ -226,7 +195,7 @@ International Business Machines Corporation abides by the Safe Harbor framework 
 <p>To return to the Site, please use the "Back" button on your browser or close this window.</p>
 
 
-<span class="titleL3">Personal Information</span>
+<h2 class="dotted-section">Personal Information</h2>
 <p>
 In general, you can visit IBM on the Internet without telling us who you are and without giving any personal information about yourself. There are times, however, when we or our partners may need information from you.</p>
 
@@ -234,45 +203,45 @@ In general, you can visit IBM on the Internet without telling us who you are and
 You may choose to give us personal information in a variety of situations. For example, you may want to give us information, such as your name and address or e-mail id, to correspond with you, to process an order, or to provide you with a subscription. You may give us your credit card details to buy something from us or a description of your education and work experience in connection with a job opening at IBM that you wish to be considered for. We intend to let you know how we will use such information before we collect it from you; if you tell us that you do not want us to use this information to make further contact with you beyond fulfilling your requests, we will respect your wishes. If you give us personal information about somebody else, such as a spouse or work colleague, we will assume that you have their permission to do so.</p>
 
 
-<span class="titleL3">Using and Sharing Personal Information</span>
+<h2 class="dotted-section">Using and Sharing Personal Information</h2>
 <p>
 The following paragraphs describe in more detail how IBM may use your personal information and with whom we may share it. Depending on the type of IBM Web site you are visiting, one or more of the paragraphs may apply. For example, if you order a product from an IBM Web site, your information will be handled as described in such paragraphs as Fulfilling Your Transaction Request and Marketing Use.</p>
 
 
-<span class="titleL3">Fulfilling Your Transaction Request</span>
+<h2 class="dotted-section">Fulfilling Your Transaction Request</h2>
 <p>
 If you request something from an IBM Web site, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information, with others, for instance, other parts of IBM, IBM's Business Partners, financial institutions, shipping companies, postal or government authorities (for example, Customs authorities) involved in fulfillment. In connection with a transaction we may also contact you as part of our customer satisfaction surveys or for market research purposes.</p>
 
 
-<span class="titleL3">Marketing Use</span>
+<h2 class="dotted-section">Marketing Use</h2>
 <p>
 The information you provide to IBM on certain IBM Web sites may also be used by IBM and selected third parties for marketing purposes. Before we use it, however, we will offer you the opportunity to choose whether or not to have your information used in this way.</p>
 
 
-<span class="titleL3">IBM Human Resources Web Sites (including Recruitment)</span>
+<h2 class="dotted-section">IBM Human Resources Web Sites (including Recruitment)</h2>
 <p>
 In connection with a job application or inquiry, whether advertised on an IBM Web site or otherwise, you may provide us with information about yourself, such as a resume or curriculum vitae. We may use this information throughout IBM and its related entities for the purpose of employment consideration or your inquiry. Except where you tell us not to, we will keep the information for future consideration.</p>
 
 
-<span class="titleL3">Information for Business Partners</span>
+<h2 class="dotted-section">Information for Business Partners</h2>
 <p>
 If you represent an IBM Business Partner, you may visit an IBM Web site intended specifically for IBM Business Partners. We may use information provided on that site to administer and develop our business relationship with you, the Business Partner you represent, and IBM Business Partners generally. For instance, this may involve using your information to send you details of IBM Business Partner programs. It may also include sharing certain information with other Business Partners (subject to any confidentiality obligations that may exist), or IBM customers or prospects. In connection with a particular transaction or program, we may also contact you as part of customer satisfaction surveys or for market research purposes.</p>
 
-<span class="titleL3">IBM Supplier Administration</span>
+<h2 class="dotted-section">IBM Supplier Administration</h2>
 <p>
 If you represent an IBM supplier, you may visit an IBM Web site intended specifically for use by IBM suppliers. We may use the information provided on that site in connection with entering into or performing a transaction with you. For example, this may include sharing information with other parts of IBM, IBM's Business Partners, customers, shipping companies, financial institutions, postal or government authorities involved in fulfillment. It may also be used to administer and develop our relationship with you, the supplier you represent and/or other IBM suppliers generally.</p>
 
 
-<span class="titleL3">IBM Discussion Forums and Chat Rooms</span>
+<h2 class="dotted-section">IBM Discussion Forums and Chat Rooms</h2>
 <p>
 If you participate in an IBM discussion forum or chat room, you should be aware that the information you provide there will be made broadly available to others, potentially inside or outside IBM, who have access to that discussion forum or chat room. Also, please recognize that individual forums and chat rooms may have additional rules and conditions. Each participant's opinion on a forum or chat room is his or her own and should not be considered as reflecting the opinion of IBM.</p>
 
 
-<span class="titleL3">Other IBM Web Site Notices</span>
+<h2 class="dotted-section">Other IBM Web Site Notices</h2>
 <p>
 In some cases, specific IBM Web sites may contain other notices about their use and the information practices applicable to those sites.</p>
 
-<span class="titleL3">Our Worldwide Practices</span>
+<h2 class="dotted-section">Our Worldwide Practices</h2>
 <p>
 IBM is a global organization, with legal entities, business processes, management structures, and technical systems that cross borders.</p>
 <p>
@@ -282,23 +251,23 @@ We may share your personal information within IBM and transfer it to countries i
 <p>
 Some countries may provide less legal protection for your information. In such countries IBM will still handle information in the manner we describe here.</p>
 
-<span class="titleL3">Information Security and Quality</span>
+<h2 class="dotted-section">Information Security and Quality</h2>
 <p>
 We intend to protect your personal information and to maintain its quality. We implement appropriate measures and processes, such as using encryption when transmitting certain sensitive information, to help us to keep your information secure and to maintain its quality.</p>
 
-<span class="titleL3">Supplementing Information</span>
+<h2 class="dotted-section">Supplementing Information</h2>
 <p>
 From time to time we may supplement information you give us via an IBM Web site with information from other sources, such as information validating your address or other available information about businesses. This is to help us maintain the accuracy of the information we collect and to help us provide a better service.</p>
 
-<span class="titleL3">Use of Suppliers</span>
+<h2 class="dotted-section">Use of Suppliers</h2>
 <p>
 In some cases IBM uses suppliers to collect, use, analyze and otherwise process information on its behalf. It is IBM's practice to require such suppliers to handle information in a manner consistent with IBM's policies.</p>
 
-<span class="titleL3">Mergers and Acquisitions</span>
+<h2 class="dotted-section">Mergers and Acquisitions</h2>
 <p>
 Circumstances may arise where, whether for strategic or other business reasons, IBM decides to sell, buy, merge or otherwise reorganise businesses in some countries. Such a transaction may involve the disclosure of personal information to prospective or actual purchasers, or receiving it from sellers. It is IBM's practice to seek appropriate protection for information in these types of transactions.</p>
 
-<span class="titleL3">Cookies, Web Beacons and Other Technologies</span>
+<h2 class="dotted-section">Cookies, Web Beacons and Other Technologies</h2>
 <p>
 We sometimes collect non-identifiable information from visits to our Web sites to help us provide better customer service. For example, we keep track of the domains from which people visit, and we also measure visitor activity on IBM Web sites, but we do so in ways that keep the information non-identifiable. This information is sometimes known as "clickstream data." IBM or others on IBM's behalf may use this data to analyze trends and statistics and to help us provide better customer service.</p>
 <p>
@@ -311,26 +280,26 @@ Some IBM Web sites also use Web beacon or other technologies to better tailor th
 If you turn off cookies, Web beacon and other technologies will still detect visits to these pages, but the notices they generate cannot be associated with other non-identifiable cookie information and are disregarded. For more information, please see <a href="http://www.ibm.com/privacy/us/cookies/index.html">"How to work with Cookies"</a>.</p>
 
 
-<span class="titleL3">Service Quality Monitoring</span>
+<h2 class="dotted-section">Service Quality Monitoring</h2>
 <p>
 Certain Web transactions may also involve you calling us or our calling you. Please be aware that it is IBM's general practice to monitor and in some cases record such calls for staff training or quality assurance purposes.</p>
 
-<span class="titleL3">Online Advertising</span>
+<h2 class="dotted-section">Online Advertising</h2>
 <p>
 Certain companies help us deliver interactive on-line advertising such as banner ads. These companies may collect and use information about customers to help us better understand the offers, promotions, and types of advertising that are most appealing to our customers. After it is collected the information is aggregated so it is not identifiable to a specific individual. If, however, you would prefer that these companies not collect such information, please visit www.networkadvertising.org and follow the "opt-out" instructions.</p>
 
-<span class="titleL3">Personalized URL Link</span>
+<h2 class="dotted-section">Personalized URL Link</h2>
 <p>
 On occasion, we may personalize and customize Web sites for certain visitors. If you visit one of these sites, you may find it customized with references to products and/or services that we believe may be of interest to you, based on your previous interactions with IBM and information you have provided to us. While you are visiting these Web sites, we may collect information about your visit to better tailor the site to your interests. An invitation to visit one of these Web sites is usually presented as a personalized URL in an e-mail, a notice on a Web site registration page, or as a response to you logging on to a certain Web site.</p>
 <p>
 If you choose to visit one of these Web sites, you are agreeing to let IBM collect information about your visits and also to its association with other information about you and your relationship with IBM. If you do not wish your information to be used in this way, do not accept the invitation to visit these sites.</p>
 
 
-<span class="titleL3">Disclosures Required By Law</span>
+<h2 class="dotted-section">Disclosures Required By Law</h2>
 <p>
 Please be aware that in certain circumstances, it is possible that personal information may be subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders.</p>
 
-<span class="titleL3">Privacy Technology</span>
+<h2 class="dotted-section">Privacy Technology</h2>
 <p>
 Technology will increasingly help give you more control over your personal information. It will also help organizations to manage their privacy practices and policies. As an information technology provider, IBM actively supports the development of privacy technologies to help achieve these goals and to help create greater trust and confidence in the way personal information is handled.</p>
 <p>
@@ -340,15 +309,15 @@ In addition IBM Tivoli Systems (<a href="http://www.ibm.com/software/tivoli/">ht
 <p>
 Other products and services are available which can assist you with the control of your personal information while navigating the Web. See <a href="http://www.privacyalliance.org/resources/rulesntools.shtml">http://www.privacyalliance.org/resources/rulesntools.shtml</a> for an overview of many privacy-related tools. Please note that IBM has not formally evaluated these tools.</p>
 
-<span class="titleL3">Links to Non-IBM Web Sites</span>
+<h2 class="dotted-section">Links to Non-IBM Web Sites</h2>
 <p>
 IBM Web sites may contain links to other Web sites. IBM is not responsible for the privacy practices or the content of those other Web sites.</p>
 
-<span class="titleL3">Notification of Changes</span>
+<h2 class="dotted-section">Notification of Changes</h2>
 <p>
 This privacy statement was last updated on June 7, 2007. A notice will be posted on our Web site home page for 30 days whenever this privacy statement is changed in a material way.</p>
 
-<span class="titleL3">Privacy Questions and Access</span>
+<h2 class="dotted-section">Privacy Questions and Access</h2>
 <p>
 If you have a question about this statement, you can send an email to the Jazz.net Web site coordinator at <a href="mailto:info@jazz.net">info@jazz.net</a>. You can also contact us at this address if you have a question about IBM's handling of your information.</p>
 
@@ -366,160 +335,225 @@ This Web site is maintained by the International Business Machines Corporation o
 Please use the Back button on your browser or close this window to return to the page where you were.
 </p>
 
-		</div>
 	</div>
-
-
-
-
-		</div>
-	</div>
-	<div class="content-area-bottom"></div>
-	<div class="footer">
-		<div class="index">
-			<table>
-				<tbody><tr>
-			
-						
-						<td style="width: 100px">
-						
-							<strong><a href="/about/">About Jazz</a></strong>
-						 
-									<div><a href="/about/about-jazz-vision.jsp">Vision</a></div>
-								 
-									<div><a href="/about/about-jazz-architecture.jsp">Architecture</a></div>
-								 
-									<div><a href="/community/">Community</a></div>
-								 
-									<div><a href="/about/about-jazz-products.jsp">Products</a></div>
-								
-						</td>
-					
-						
-						<td>
-						
-							<strong><a href="/projects/">Projects</a></strong>
-						 
-									<div><a href="/projects/rational-focal-point-for-project-management/">Rational Focal Point for Project Management</a></div>
-								 
-									<div><a href="/projects/rational-quality-manager/">Rational Quality Manager</a></div>
-								 
-									<div><a href="/projects/rational-requirements-composer/">Rational Requirements Composer</a></div>
-								 
-									<div><a href="/projects/rational-team-concert/">Rational Team Concert</a></div>
-								 
-									<div><a href="/projects/collaborative-alm/">Collaborative ALM</a></div>
-								 
-									<div><a href="/projects/jazz-foundation/">Jazz Foundation</a></div>
-								
-						</td>
-					
-						
-						<td>
-						
-							<strong><a href="/downloads/">Downloads</a></strong>
-						 
-									<div><a href="/downloads/rational-quality-manager/">Rational Quality Manager</a></div>
-								 
-									<div><a href="/downloads/rational-requirements-composer/">Rational Requirements Composer</a></div>
-								 
-									<div><a href="/downloads/rational-team-concert/">Rational Team Concert</a></div>
-								 
-									<div><a href="/downloads/jazz-foundation/">Jazz Foundation</a></div>
-								
-						</td>
-					
-						
-						<td>
-						
-							<strong><a href="/forums/">Forums</a></strong>
-						 
-									<div><a href="/forums/viewforum.php?f=6">Announcements</a></div>
-								 
-									<div><a href="/forums/index.php?c=9">Rational Focal Point for Project Management</a></div>
-								 
-									<div><a href="/forums/index.php?c=6">Rational Quality Manager and Rational Test Lab Manager</a></div>
-								 
-									<div><a href="/forums/index.php?c=7">Rational Requirements Composer</a></div>
-								 
-									<div><a href="/forums/index.php?c=2">Rational Team Concert</a></div>
-								 
-									<div><a href="/forums/index.php?c=4">Jazz Foundation</a></div>
-								 
-									<div><a href="/forums/index.php?c=3">Other</a></div>
-								
-						</td>
-					
-						
-						<td>
-						
-							<strong><a href="/library/">Library</a></strong>
-						 
-									<div><a href="/library/">All Media</a></div>
-								 
-									<div><a href="/library/#type=article">Articles</a></div>
-								 
-									<div><a href="/library/#type=documentation">Documentation</a></div>
-								 
-									<div><a href="/library/#type=podcast">Podcasts</a></div>
-								 
-									<div><a href="/library/#type=presentation">Presentations</a></div>
-								 
-									<div><a href="/library/#type=technote">Tech notes</a></div>
-								 
-									<div><a href="/library/#type=video">Videos</a></div>
-								
-						</td>
-					
-						
-						<td>
-						
-							<strong><a href="/community/">Community</a></strong>
-						 
-									<div><a href="/blog/">Jazz Team Blog</a></div>
-								 
-									<div><a href="/community/twitter/">Tweets about Jazz</a></div>
-								 
-									<div><a href="/community/events/events.jsp">Events</a></div>
-								 
-									<div><a href="/community/announcements/announcements.jsp">Announcements</a></div>
-								 
-									<div><a href="/community/news/news.jsp">In the News</a></div>
-								 
-									<div><a href="/community/ensemble/index.jsp">Business Partners</a></div>
-								 
-									<div><a href="/community/academic/">Academic and Open Source Users</a></div>
-								 
-									<div><a href="/community/eguide/">Rational Support eGuide</a></div>
-								
-						</td>
-					
-				</tr>
-			</tbody></table>
-		</div>
-		<div class="logos-and-links">
-			<div class="logos">
-			
-				<a href="http://www.eclipse.org"><img src="/_images/footer/BuiltOnEclipse_Logo.png" alt="Built on Eclipse" style="margin-left: 5px"></a>
+	
+	
+	
+	
 			</div>
-			<a href="http://www.ibm.com"><img src="/_images/footer/ibm_logo_sm.gif" alt="IBM"></a><a href="http://www.ibm.com/software/rational/"><img alt="IBM Rational Software" src="/_images/footer/rtl_logo_sm.gif"></a><a href="/legal/contact.jsp">Contact</a> | <a href="/pub/privacy.jsp">Privacy Policy</a> | <a href="/pub/terms.jsp">Terms of Use</a>
+		</div>
+		<div class="content-area-bottom"></div>
+		<div class="footer">
+			<div class="index">
+				<table>
+					<tbody><tr>
+				
+							
+							<td style="width: 100px">
+							
+								<strong><a href="/about/">About Jazz</a></strong>
+							 
+										<div><a href="/about/about-jazz-vision.jsp">Vision</a></div>
+									 
+										<div><a href="/about/about-jazz-architecture.jsp">Architecture</a></div>
+									 
+										<div><a href="/community/">Community</a></div>
+									 
+										<div><a href="/about/about-jazz-products.jsp">Products</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/roles/">Roles</a></strong>
+							 
+										<div><a href="/roles/#Developer">Developer</a></div>
+									 
+										<div><a href="/roles/#Test">Quality Professional</a></div>
+									 
+										<div><a href="/roles/#Analyst">Analyst</a></div>
+									 
+										<div><a href="/roles/#More">More Roles</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/projects/">Projects</a></strong>
+							 
+										<div><a href="/projects/rational-team-concert">Rational Team Concert</a></div>
+									 
+										<div><a href="/projects/rational-team-concert-z">Rational Team Concert for System z</a></div>
+									 
+										<div><a href="/projects/rational-team-concert-power">Rational Team Concert for Power Systems Software</a></div>
+									 
+										<div><a href="/projects/rational-change-management-express">Rational Change Management Express</a></div>
+									 
+										<div><a href="/projects/rational-quality-manager">Rational Quality Manager and Rational Test Lab Manager</a></div>
+									 
+										<div><a href="/projects/rational-requirements-composer">Rational Requirements Composer</a></div>
+									 
+										<div><a href="/projects/rational-project-conductor">Rational Project Conductor</a></div>
+									 
+										<div><a href="/projects/rational-insight">Rational Insight</a></div>
+									 
+										<div><a href="/projects/rational-build-forge">Rational Build Forge</a></div>
+									 
+										<div><a href="/projects/rational-asset-manager">Rational Asset Manager</a></div>
+									 
+										<div><a href="/projects/rational-workbench-for-clm">Rational Workbench for Collaborative Lifecycle Management</a></div>
+									 
+										<div><a href="/projects/jazz-foundation">Jazz Foundation</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/downloads/">Downloads</a></strong>
+							 
+										<div><a href="/downloads/rational-team-concert">Rational Team Concert</a></div>
+									 
+										<div><a href="/downloads/rational-team-concert-z">Rational Team Concert for System z</a></div>
+									 
+										<div><a href="/downloads/rational-team-concert-power">Rational Team Concert for Power Systems Software</a></div>
+									 
+										<div><a href="/downloads/rational-quality-manager">Rational Quality Manager and Rational Test Lab Manager</a></div>
+									 
+										<div><a href="/downloads/rational-requirements-composer">Rational Requirements Composer</a></div>
+									 
+										<div><a href="/downloads/rational-project-conductor">Rational Project Conductor</a></div>
+									 
+										<div><a href="/downloads/rational-insight">Rational Insight</a></div>
+									 
+										<div><a href="/downloads/rational-build-forge">Rational Build Forge</a></div>
+									 
+										<div><a href="/downloads/rational-asset-manager">Rational Asset Manager</a></div>
+									 
+										<div><a href="/downloads/jazz-foundation">Jazz Foundation</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/forums/">Forums</a></strong>
+							 
+										<div><a href="/forums/viewforum.php?f=6">Announcements</a></div>
+									 
+										<div><a href="/forums/index.php?c=2">Rational Team Concert</a></div>
+									 
+										<div><a href="/forums/index.php?c=6">Rational Quality Manager and Rational Test Lab Manager</a></div>
+									 
+										<div><a href="/forums/index.php?c=7">Rational Requirements Composer</a></div>
+									 
+										<div><a href="/forums/index.php?c=9">Rational Project Conductor</a></div>
+									 
+										<div><a href="/forums/index.php?c=8">Rational Insight</a></div>
+									 
+										<div><a href="/forums/index.php?c=10">Rational Build Forge</a></div>
+									 
+										<div><a href="/forums/index.php?c=11">Rational Asset Manager</a></div>
+									 
+										<div><a href="/forums/index.php?c=4">Jazz Foundation</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/library/">Library</a></strong>
+							 
+										<div><a href="/library/">All Media</a></div>
+									 
+										<div><a href="/library/#type=article">Articles</a></div>
+									 
+										<div><a href="/library/#type=documentation">Documentation</a></div>
+									 
+										<div><a href="/library/#type=podcast">Podcasts</a></div>
+									 
+										<div><a href="/library/#type=presentation">Presentations</a></div>
+									 
+										<div><a href="/library/#type=techtip">Tech Tips</a></div>
+									 
+										<div><a href="/library/#type=video">Videos</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/development/">Development</a></strong>
+							 
+										<div><a href="/development/">Submit a Bug</a></div>
+									 
+										<div><a href="/wiki/">Wiki</a></div>
+									 
+										<div><a href="/development/mailinglists/">Mailing Lists</a></div>
+									
+							</td>
+						
+							
+							<td>
+							
+								<strong><a href="/community/">Community</a></strong>
+							 
+										<div><a href="/blog/">Jazz Team Blog</a></div>
+									 
+										<div><a href="/community/twitter/">Tweets about Jazz</a></div>
+									 
+										<div><a href="/community/events/events.jsp">Events</a></div>
+									 
+										<div><a href="/community/announcements/announcements.jsp">Announcements</a></div>
+									 
+										<div><a href="/community/news/news.jsp">In the News</a></div>
+									 
+										<div><a href="/community/feedback/">Testimonials</a></div>
+									 
+										<div><a href="/community/ensemble/index.jsp">Business Partners</a></div>
+									 
+										<div><a href="/community/academic/">Academic Users</a></div>
+									 
+										<div><a href="/community/opensource">Open Source Users</a></div>
+									 
+										<div><a href="/community/eguide/">Rational Support eGuide</a></div>
+									
+							</td>
+						
+					</tr>
+				</tbody></table>
+			</div>
+			<div class="logos-and-links">
+				<div class="logos">
+				
+					<a href="http://www.eclipse.org"><img src="/_images/footer/BuiltOnEclipse_Logo.png" alt="Built on Eclipse" style="margin-left: 5px"></a>
+				</div>
+				<a href="http://www.ibm.com"><img src="/_images/footer/ibm_logo_sm.gif" alt="IBM"></a><a href="http://www.ibm.com/software/rational/"><img alt="IBM Rational Software" src="/_images/footer/rtl_logo_sm.gif"></a><a href="/legal/contact.jsp">Contact</a> | <a href="/pub/privacy.jsp">Privacy Policy</a> | <a href="/pub/terms.jsp">Terms of Use</a>
+			</div>
 		</div>
 	</div>
 </div>
-
+<script type="text/javascript" src="/dojo/dojo/jazznetdojo.js"></script>
+<script type="text/javascript" src="/_scripts/NavBar.js"></script>
 <script type="text/javascript">
-	new jazz.NavBar({options: "<?xml version=\"1.0\" encoding=\"UTF-8\"?><options>\n\t\n    <section>\n        <sectionLabel>About Jazz<\/sectionLabel>\n\t\t<sectionLink>\/about\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Vision<\/label>\n\t\t\t\t<href>\/about\/about-jazz-vision.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Architecture<\/label>\n\t\t\t\t<href>\/about\/about-jazz-architecture.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Community<\/label>\n\t\t\t\t<href>\/community\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Products<\/label>\n\t\t\t\t<href>\/about\/about-jazz-products.jsp<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n\t<\/section>\n\t\n    <section>\n        <sectionLabel>Projects<\/sectionLabel>\n\t\t<sectionLink>\/projects\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Rational Focal Point for Project Management<\/label>\n\t\t\t\t<href>\/projects\/rational-focal-point-for-project-management\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager<\/label>\n\t\t\t\t<href>\/projects\/rational-quality-manager\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/projects\/rational-requirements-composer\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/projects\/rational-team-concert\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>__separator__<\/label>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Collaborative ALM<\/label>\n\t\t\t\t<href>\/projects\/collaborative-alm\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/projects\/jazz-foundation\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n\t\n    <section>\n        <sectionLabel>Downloads<\/sectionLabel>\n\t\t<sectionLink>\/downloads\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager<\/label>\n\t\t\t\t<href>\/downloads\/rational-quality-manager\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/downloads\/rational-requirements-composer\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/downloads\/rational-team-concert\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>__separator__<\/label>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/downloads\/jazz-foundation\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n\t\n    <section>\n        <sectionLabel>Forums<\/sectionLabel>\n\t\t<sectionLink>\/forums\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Announcements<\/label>\n\t\t\t\t<href>\/forums\/viewforum.php?f=6<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Focal Point for Project Management<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=9<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Quality Manager and Rational Test Lab Manager<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=6<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Requirements Composer<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=7<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Team Concert<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=2<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Foundation<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=4<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Other<\/label>\n\t\t\t\t<href>\/forums\/index.php?c=3<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n\t<\/section>\n    <section>\n        <sectionLabel>Library<\/sectionLabel>\n\t\t<sectionLink>\/library\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>All Media<\/label>\n\t\t\t\t<href>\/library\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Articles<\/label>\n\t\t\t\t<href>\/library\/#type=article<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Documentation<\/label>\n\t\t\t\t<href>\/library\/#type=documentation<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Podcasts<\/label>\n\t\t\t\t<href>\/library\/#type=podcast<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Presentations<\/label>\n\t\t\t\t<href>\/library\/#type=presentation<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Tech notes<\/label>\n\t\t\t\t<href>\/library\/#type=technote<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Videos<\/label>\n\t\t\t\t<href>\/library\/#type=video<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n    <section>\n        <sectionLabel>Community<\/sectionLabel>\n\t\t<sectionLink>\/community\/<\/sectionLink>\n\t\t<pages>\n\t\t\t<page>\n\t\t\t\t<label>Jazz Team Blog<\/label>\n\t\t\t\t<href>\/blog\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Tweets about Jazz<\/label>\n\t\t\t\t<href>\/community\/twitter\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Events<\/label>\n\t\t\t\t<href>\/community\/events\/events.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Announcements<\/label>\n\t\t\t\t<href>\/community\/announcements\/announcements.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>In the News<\/label>\n\t\t\t\t<href>\/community\/news\/news.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Business Partners<\/label>\n\t\t\t\t<href>\/community\/ensemble\/index.jsp<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Academic and Open Source Users<\/label>\n\t\t\t\t<href>\/community\/academic\/<\/href>\n\t\t\t<\/page>\n\t\t\t<page>\n\t\t\t\t<label>Rational Support eGuide<\/label>\n\t\t\t\t<href>\/community\/eguide\/<\/href>\n\t\t\t<\/page>\n\t\t<\/pages>\n    <\/section>\n<\/options>"}, dojo.byId("navbar-left"));	
-	dojo.addOnLoad( function(){
-		dojo.addClass(document.body,"tundra");
+	dojo.require("jazz.NavBar");
+	dojo.require("dojox.analytics.Urchin");
+	new jazz.NavBar({options:"<?xml version=\"1.0\" encoding=\"UTF-8\"?><options><section><sectionLabel>About Jazz<\/sectionLabel><sectionLink>\/about\/<\/sectionLink><pages><page><label>Vision<\/label><href>\/about\/about-jazz-vision.jsp<\/href><\/page><page><label>Architecture<\/label><href>\/about\/about-jazz-architecture.jsp<\/href><\/page><page><label>Community<\/label><href>\/community\/<\/href><\/page><page><label>Products<\/label><href>\/about\/about-jazz-products.jsp<\/href><\/page><\/pages><\/section><section><sectionLabel>Roles<\/sectionLabel><sectionLink>\/roles\/<\/sectionLink><pages><page><label>Developer<\/label><href>\/roles\/#Developer<\/href><\/page><page><label>Quality Professional<\/label><href>\/roles\/#Test<\/href><\/page><page><label>Analyst<\/label><href>\/roles\/#Analyst<\/href><\/page><page><label>More Roles<\/label><href>\/roles\/#More<\/href><\/page><\/pages><\/section><section type=\"projects\"><sectionLabel>Projects<\/sectionLabel><sectionLink>\/projects\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/projects\/rational-team-concert<\/href><\/page><page><label>    Rational Team Concert for System z<\/label><href>\/projects\/rational-team-concert-z<\/href><\/page><page><label>    Rational Team Concert for Power Systems Software<\/label><href>\/projects\/rational-team-concert-power<\/href><\/page><page><label>    Rational Change Management Express<\/label><href>\/projects\/rational-change-management-express<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/projects\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/projects\/rational-requirements-composer<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/projects\/rational-project-conductor<\/href><\/page><page><label>Rational Insight<\/label><href>\/projects\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/projects\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/projects\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Rational Workbench for Collaborative Lifecycle Management<\/label><href>\/projects\/rational-workbench-for-clm<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/projects\/jazz-foundation<\/href><\/page><\/pages><\/section><section type=\"downloads\"><sectionLabel>Downloads<\/sectionLabel><sectionLink>\/downloads\/<\/sectionLink><pages><page><label>Rational Team Concert<\/label><href>\/downloads\/rational-team-concert<\/href><\/page><page><label>    Rational Team Concert for System z<\/label><href>\/downloads\/rational-team-concert-z<\/href><\/page><page><label>    Rational Team Concert for Power Systems Software<\/label><href>\/downloads\/rational-team-concert-power<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/downloads\/rational-quality-manager<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/downloads\/rational-requirements-composer<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/downloads\/rational-project-conductor<\/href><\/page><page><label>Rational Insight<\/label><href>\/downloads\/rational-insight<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/downloads\/rational-build-forge<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/downloads\/rational-asset-manager<\/href><\/page><page><label>__separator__<\/label><\/page><page><label>Jazz Foundation<\/label><href>\/downloads\/jazz-foundation<\/href><\/page><\/pages><\/section><section><sectionLabel>Forums<\/sectionLabel><sectionLink>\/forums\/<\/sectionLink><pages><page><label>Announcements<\/label><href>\/forums\/viewforum.php?f=6<\/href><\/page><page><label>Rational Team Concert<\/label><href>\/forums\/index.php?c=2<\/href><\/page><page><label>Rational Quality Manager and Rational Test Lab Manager<\/label><href>\/forums\/index.php?c=6<\/href><\/page><page><label>Rational Requirements Composer<\/label><href>\/forums\/index.php?c=7<\/href><\/page><page><label>Rational Project Conductor<\/label><href>\/forums\/index.php?c=9<\/href><\/page><page><label>Rational Insight<\/label><href>\/forums\/index.php?c=8<\/href><\/page><page><label>Rational Build Forge<\/label><href>\/forums\/index.php?c=10<\/href><\/page><page><label>Rational Asset Manager<\/label><href>\/forums\/index.php?c=11<\/href><\/page><page><label>Jazz Foundation<\/label><href>\/forums\/index.php?c=4<\/href><\/page><\/pages><\/section><section><sectionLabel>Library<\/sectionLabel><sectionLink>\/library\/<\/sectionLink><pages><page><label>All Media<\/label><href>\/library\/<\/href><\/page><page><label>Articles<\/label><href>\/library\/#type=article<\/href><\/page><page><label>Documentation<\/label><href>\/library\/#type=documentation<\/href><\/page><page><label>Podcasts<\/label><href>\/library\/#type=podcast<\/href><\/page><page><label>Presentations<\/label><href>\/library\/#type=presentation<\/href><\/page><page><label>Tech Tips<\/label><href>\/library\/#type=techtip<\/href><\/page><page><label>Videos<\/label><href>\/library\/#type=video<\/href><\/page><\/pages><\/section><section><sectionLabel>Development<\/sectionLabel><sectionLink>\/development\/<\/sectionLink><pages><page><label>Submit a Bug<\/label><href>\/development\/<\/href><\/page><page><label>Wiki<\/label><href>\/wiki\/<\/href><\/page><page><label>Mailing Lists<\/label><href>\/development\/mailinglists\/<\/href><\/page><\/pages><\/section><section><sectionLabel>Community<\/sectionLabel><sectionLink>\/community\/<\/sectionLink><pages><page><label>Jazz Team Blog<\/label><href>\/blog\/<\/href><\/page><page><label>Tweets about Jazz<\/label><href>\/community\/twitter\/<\/href><\/page><page><label>Events<\/label><href>\/community\/events\/events.jsp<\/href><\/page><page><label>Announcements<\/label><href>\/community\/announcements\/announcements.jsp<\/href><\/page><page><label>In the News<\/label><href>\/community\/news\/news.jsp<\/href><\/page><page><label>Testimonials<\/label><href>\/community\/feedback\/<\/href><\/page><page><label>Business Partners<\/label><href>\/community\/ensemble\/index.jsp<\/href><\/page><page><label>Academic Users<\/label><href>\/community\/academic\/<\/href><\/page><page><label>Open Source Users<\/label><href>\/community\/opensource<\/href><\/page><page><label>Rational Support eGuide<\/label><href>\/community\/eguide\/<\/href><\/page><\/pages><\/section><\/options>"},dojo.byId("navbar-left"));
+	dojo.addOnLoad(function(){
+		var tracker = new dojox.analytics.Urchin({
+			acct:"UA-10864409-1",
+			GAonLoad: function() {
+				var url = location.href;
+				var index = url.indexOf("jazz.net/");
+				if (index >= 0)	url = url.substring(index+8);
+				this.trackPageView(url);
+			}
+		});
+		dojo.subscribe("/dojo/hashchange", tracker, "GAonLoad");
 	});
-	var script = document.createElement("script");
-	script.type = "text/javascript";
-	script.language = "JavaScript1.2";
-	script.src = window.location.protocol + "//www.ibm.com/common/stats/stats.js";
-	var head = document.getElementsByTagName("head")[0];
-	head.appendChild(script);
 </script>
-<script src="/_scripts/Search.js"></script>
-<noscript><img src="http://stats.surfaid.ihost.com/crc/images/uc.GIF?1.20&amp;ibmwm&amp;ibmwm&amp;noscript" height="1" width="1" alt="" border="0" /></noscript>
+<script type="text/javascript" src="//www.ibm.com/common/stats/stats.js"></script>
 
 </body></html>
