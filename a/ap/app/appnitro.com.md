@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2009-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091226141910id_/http%3A//www.appnitro.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appnitro.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615043649id_/http%3A//www.appnitro.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Machform - PHP HTML Form Builder
 
@@ -12,6 +12,6 @@ If you sign up for our newsletter, your email address will be kept confidential,
 
 #### Personal Information
 
-During purchase process, we collect user information. This information is collected by our payment processor — [share-it! Digital River GmbH](http://www.shareit.com/), trusted e-commerce company that handles sales for thousands of software companies world-wide. They have their own [privacy policy](http://www.shareit.com/privacy_statement.html) and already known for their long-term reputation for professionalism and security. No personal information will ever be shared with another company.
+During purchase process, we collect user information. This information is collected by our payment processor — [FastSpring, LLC](http://www.fastspring.com/), trusted e-commerce company that handles sales for thousands of software companies world-wide. They have their own [privacy policy](http://www.fastspring.com/privacy.php) and already known for their long-term reputation for professionalism and security. No personal information will ever be shared with another company.
 
-We (Appnitro Software) do **not** know users' credit card numbers and other sensitive payment information — this data is only available to the secure service of **share-it! Digital River GmbH** during the purchase process and they deal with it safely.
+We (Appnitro Software) do **not** know users' credit card numbers and other sensitive payment information — this data is only available to the secure service of **FastSpring, LLC** during the purchase process and they deal with it safely.
