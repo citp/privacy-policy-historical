@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2009-07-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090705080635id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finestationery.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615082832id_/http%3A//www.finestationery.com/s_aboutus_privacy.cfm%3F) for the most accurate reproduction.*
 
 # Fine Stationery.com // Personalized Stationery, Wedding Invitations, Birth Announcements, Party Invitations, Moving Announcements, Cards &amp; more
 
@@ -55,12 +55,9 @@ If we change our privacy policy, we will post those changes on our website homep
 **Legal Disclaimer  
 ** Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law where we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our website. 
 
-**ABOUT TRUSTe**   
 **Privacy Confirmation**   
-FineStationery.com is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, non-profit organization whose mission is to build users' trust and confidence in the Internet by promoting the use of fair information practices. Because this website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. By displaying the TRUSTe trustmark, this website has agreed to notify you of: 
+We agree to notify you of: 
 
 If you have questions or concerns regarding this statement, you should first contact Customer Service at: 
 
-If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe at TRUSTe Watchdog: <http://www.truste.org/consumers/watchdog_complaint.php>. TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-Privacy Policy last updated 04/04/2005.
+Privacy Policy last updated 12/15/2009.
