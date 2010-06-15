@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2009-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091204205844id_/http%3A//www.italki.com/static/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the italki.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615023501id_/http%3A//www.italki.com/static/privacy.htm) for the most accurate reproduction.*
 
-# italki - Privacy Policy
+# Privacy Policy - italki
 
 This policy covers how italki.com, ("italki.com," "we," "us," or "our") treats personal information that it collects and receives on www.italki.com. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with questions or concerns.
 
