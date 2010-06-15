@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2009-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091228001454id_/http%3A//www.centraldispatch.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centraldispatch.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615140911id_/http%3A//www.centraldispatch.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for CentralDispatch | The Auto Industry's Vehicle Shipping Marketplace
 
