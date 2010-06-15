@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2009-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090611071812id_/http%3A//dma.org.uk/content/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615023845id_/http%3A//www.dma.org.uk/content/privacy.asp) for the most accurate reproduction.*
 
 # DMA: General Information - Privacy Policy
 
@@ -118,5 +118,24 @@ The DMA will notify all members of any changes it makes to its Privacy Policy. I
 
 Users have the right to ask the DMA, in writing, for a copy of all the personal data held about them upon payment of a fee ("subject access request") and to request that the DMA correct any inaccuracies in that information. 
 
-|  |    
+|  | 
+
+  
+
+
+  
+
+
+For more information please contact the DMA.  
+  
+**Phone:** 020 7291 3300  
+  
+**Email:** [ dma@dma.org.uk](mailto:dma@dma.org.uk "dma@dma.org.uk")
+
+[ ](http://www.mydm.co.uk/)  
+
+
+The DMA promotes direct marketing and informs consumers of the safeguards that exist, and promotes the DMA as their protector, contact point and regulator of best practice. 
+
+  
 
