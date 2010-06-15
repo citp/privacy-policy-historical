@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geosociety.org privacy policy that was archived on 2009-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091101125814id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geosociety.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615200705id_/http%3A//www.geosociety.org/privacy.htm) for the most accurate reproduction.*
 
 # Geological Society of America - Internet Privacy Policy
 
@@ -44,7 +44,7 @@ GSA uses this personal information for the purposes for which you provide it. Fo
 
 GSA collects e-mail address information from you when enter your e-mail address on this Site. GSA collects e-mail address information from you so that we may confirm and/or deliver your subscription; communicate with you regarding your order or registration; and alert you to other GSA programs and services that may be of interest to you. Often times, our "topical" programs are only advertised through e-mail. 
 
-You may "opt out" of receiving these e-mail notices at any time. To opt out of receiving email notices from us, please send either use the GSA Change of Address form at <http://rock.geosociety.org/address_change/login.aspx>, or send an e-mail to gsaservice@geosociety.org. Please provide your name and email address so that we can identify your email address in our database and record your request. 
+You may "opt out" of receiving these e-mail notices at any time. To opt out of receiving email notices from us, please send either use the GSA Change of Address form at <http://rock.geosociety.org/address_change/start.asp>, or send an e-mail to gsaservice@geosociety.org. Please provide your name and email address so that we can identify your email address in our database and record your request. 
 
 ### 2\. Information Sent to Us by Your Web Browser
 
@@ -80,7 +80,7 @@ This Site may contain links to other Web sites operated by GSA or one of its aff
 
 ##### Access to Personal Information
 
-If you would like to review, correct and update the personal information you have provided to us through this Site, please (a) visit our change of address Web page at <http://rock.geosociety.org/address_change/login.aspx>; (b) contact GSA Sales and Service at +1-888-443-4472, 303-357-1000 option 3, gsaservice@geosociety.org; or (c) contact us by postal mail at address below. We will use commercially reasonable efforts to comply with your request.
+If you would like to review, correct and update the personal information you have provided to us through this Site, please (a) visit our change of address Web page at <http://rock.geosociety.org/address_change/start.asp>; (b) contact GSA Sales and Service at +1-888-443-4472, 303-357-1000 option 3, gsaservice@geosociety.org; or (c) contact us by postal mail at address below. We will use commercially reasonable efforts to comply with your request.
 
 ##### Retention of Personal Information
 
