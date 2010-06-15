@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2009-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091219131816id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the estatesales.net privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615052649id_/http%3A//www.estatesales.net/privacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,8 +7,7 @@ At EstateSales.NET we care about providing you with tools and information to man
     
      
             EstateSales.NET
-            113 West Main St
-            Suite #8
+            111 N Missouri St
             Jackson, MO 63755
             E-mail: [support@EstateSales.NET](mailto:support@EstateSales.NET)
             Phone: (888) 653-8468 
