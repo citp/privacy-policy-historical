@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2009-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091227202058id_/http%3A//www.mycollegeoptions.org/Content/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mycollegeoptions.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615031930id_/http%3A//mycollegeoptions.org/Content/About/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy MyCollegeOptions.org
 
