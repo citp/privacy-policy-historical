@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215031211id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the personalizationmall.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615085910id_/http%3A//www.personalizationmall.com/StaticPage.aspx%3Fpageid%3D26) for the most accurate reproduction.*
 
 # Privacy Policy | PersonalizationMall.com
 
