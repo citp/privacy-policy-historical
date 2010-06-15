@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2009-04-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090423041517id_/http%3A//www.uswitch.com/corporatepages/information/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uswitch.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615064848id_/http%3A//www.uswitch.com/corporatepages/information/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy on uSwitch.com – switch online with confidence
 
@@ -22,11 +22,13 @@ If you enter a contest or another promotion, we will use the data so that we can
 
 If you have requested to be kept informed of services that we offer, we will contact you with these details.
 
+If during your visit to one of our insurance or energy calculators, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted to our quote engine onto one of our representatives. By indicating that you have read and understood this privacy policy, you are agreeing to allow uSwitch to pass on your personal data to the relevant supplier. If necessary the supplier might contact you to discuss your insurance or energy quotes. Without clicking 'continue' or 'Find Suppliers' you will be unable to complete the car insurance or energy quotation process. Our representatives or suppliers contact individuals by phone that start the car insurance or energy quote process but do not buy a policy or switch, in order to offer them competitive quotes or further assistance. They are only authorised to help you with this particular quote and only within a limited amount of time after you have used our service. They have agreed not to use your details for any other purpose.
+
 If while comparing loans with us you provide us with your phone number, name, address and postcode, we may pass these details - and the information you have submitted on the site - to one of our loans brokers. By entering this information you are agreeing for us to pass your personal data to our loans brokers and for them to contact you by phone or email to discuss your requirements. They will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
 If during your visit to our business energy service, you elected to continue by accepting the terms of our Privacy Policy, we may pass the details you submitted into our web form onto one of our representatives. By indicating you have read and understood this Privacy Policy you are agreeing for us to pass your personal data to one of these representatives and for them to contact you by phone or email to discuss your requirements and provide business energy quotations. Without clicking 'continue' you will be unable to complete the business energy web form process. The representatives will only contact you in relation to this enquiry for a limited time after you have used our service. They will not use your details for any other purpose.
 
-If during your visit to the energy calculator you opted in for our marketing and told us the month of your home insurance renewal you will be called by one of our representatives in order to help you with your home insurance enquiry. 
+If during your visit to the energy calculator you opted in for our marketing and told us the month of your home insurance renewal you will be called by one of our representatives in order to help you with your home insurance enquiry.
 
 We monitor traffic patterns and site usage. Under the Data Protection Act 1998 we follow strict security procedures in the storage and disclosure of information which you have given us, to prevent unauthorised access.
 
