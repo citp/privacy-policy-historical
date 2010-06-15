@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2009-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091106212517id_/http%3A//www.skinz.org/privacy.phtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skinz.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615035723id_/http%3A//www.skinz.org/privacy.phtml) for the most accurate reproduction.*
 
 # 
 
 Skinz.org has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this Web site: **Cookies/Third Party Cookies**  
 Please be aware that by using this website, any third parties may be placing and reading cookies on your user's browser, or using web beacons to collect information, in the course of ads being served on your website including but not limited to Google Adsense cookies. You can adjust these settings by going into your web browser and changing the cookies settings. In Internet Explorer this is under Tools, Internet Options, Privacy, Advanced and in Mozilla Firefox, it is located in Tools, Options, Privacy, Cookies.
 
-**www.skinz.org** and network sites. The www.skinz.org site, and network Web sites ("sites") are operated by Skinz.org located in New York. You can reach us with questions regarding this statement via e-mail at [pro@prourl.com](mailto:pro@prourl.com). 
+**skinz.org** and network sites. The skinz.org site, and network Web sites ("sites") are operated by Skinz.org located in New York. You can reach us with questions regarding this statement via e-mail at [pro@prourl.com](mailto:pro@prourl.com). 
 
 Your IP address is used only when you become a member as a backup identification tool for polls and other member services. 
 
 Our sites use cookies to make sure you don't see the same ad repeatedly. We also use cookies to deliver content specific to your interests, to save your password so you don't have to re-enter it each time you visit our sites, and for other purposes. These cookies are used soley for the sites, and the content contained is not distributed to third parties. 
 
-Our site's registration form requires users to give us contact information (name and e-mail address). We use customer contact information from the registration form to send the user information related to www.skinz.org only when requested by said user. The customer's contact information is also used to contact the visitor when necessary. Your e-mail address will never be given or sold to a third party and will only be viewed by Skinz.org. Your pager e-mail address will not be disclosed and will only be used for sending breaking news upon request. Other information you use will only be used to collect broad demographic information about our visitors. 
+Our site's registration form requires users to give us contact information (name and e-mail address). We use customer contact information from the registration form to send the user information related to skinz.org only when requested by said user. The customer's contact information is also used to contact the visitor when necessary. Your e-mail address will never be given or sold to a third party and will only be viewed by Skinz.org. Your pager e-mail address will not be disclosed and will only be used for sending breaking news upon request. Other information you use will only be used to collect broad demographic information about our visitors. 
 
 This site contains links to other sites. **Skinz.org** is not responsible for the privacy practices or the content of such Web sites. 
 
