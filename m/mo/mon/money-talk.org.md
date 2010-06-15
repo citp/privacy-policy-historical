@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the money-talk.org privacy policy that was archived on 2009-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090222103351id_/http%3A//www.money-talk.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the money-talk.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615041140id_/http%3A//www.money-talk.org/privacy.html) for the most accurate reproduction.*
 
 # Money Talk :: Privacy Policy
 
@@ -9,6 +9,14 @@ Money Talk is committed to protecting your privacy when you visit our Web site. 
 **Disclosure of Information**
 
 Money Talk will not sell, trade, or rent your personal information to others. We do not automatically log personal data nor do we link information automatically logged by other means with personal data about specific individuals. We may use IP addresses to compile and provide aggregate statistics about our visitors, traffic patterns, and administer the site. This statistical information may also be related to third parties, but these statistics will not include any personally identifying information, track user's movement, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information. For information about opting out of collection of anonymous information, please visit the following [link](http://www.networkadvertising.org/optout_nonppii.asp). We collect only the personal data that you may volunteer while using our services. We do not collect information about our visitors from other sources, such as public records or bodies, or private organizations. 
+
+**Cookies and Web Beacons**
+
+Money Talk does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize web page content based on visitors browser type or other information that the visitor sends via their browser. Advertising networks used by Money Talk may use additional cookies to collect anonymous information. For details about opting out of collection of anonymous information, please visit the following page: [NAI Cookie Opt-out](http://www.networkadvertising.org/optout_nonppii.asp). 
+
+**DoubleClick DART Cookie**
+
+Google, as a third party vendor, uses cookies to serve ads on Money Talk. Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following page: [Google Cookie Opt-out](http://www.google.com/privacy_ads.html).
 
 **External Web Sites**
 
