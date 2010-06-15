@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trib.com privacy policy that was archived on 2009-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091114045522id_/http%3A//www.trib.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trib.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615055535id_/http%3A//trib.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
