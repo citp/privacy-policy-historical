@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417051242id_/http%3A//secure.tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripcentral.ca privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615102356id_/http%3A//secure.tripcentral.ca/trip/INFO/WEBSITE/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
