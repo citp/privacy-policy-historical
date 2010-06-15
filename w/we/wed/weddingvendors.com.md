@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215144912id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weddingvendors.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615225502id_/http%3A//www.weddingvendors.com/about/privacy) for the most accurate reproduction.*
 
 # WeddingVendors.com: Privacy Policy
 
