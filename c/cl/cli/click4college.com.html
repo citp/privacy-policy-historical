@@ -1,0 +1,1025 @@
+<!--The following is the downloaded HTML source of the click4college.com privacy policy that was archived on 2010-06-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100615051217id_/http%3A//click4college.com/Privacy.aspx) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head><title>
+	Privacy Policy - click4college.com
+</title><meta name="keywords" content="click4college, career, school, major, program, education, American education system, USA education, US education, American education, US education system, USA education system, study in the us, study in the Canada, study in america, study usa, study canada, study us, study ca"><meta name="description"><link href="images/app/app_icon.ico" rel="SHORTCUT ICON"><link href="css/dev/main.css" type="text/css" rel="stylesheet"><link href="css/dev/auxiliar.css" type="text/css" rel="stylesheet"><link href="css/dev/pagecontent.css" type="text/css" rel="stylesheet"><link href="css/dev/simpletree.css" type="text/css" rel="stylesheet"><link rel="stylesheet" media="all" type="text/css" href="css/balloons.css">
+
+    <!--[if lte IE 8]>	
+	<style>
+	input[type=radio], label { *vertical-align:middle;    }
+    input[type=radio] { *vertical-align:middle; }
+	.survey .question .option input[type=radio], .survey .question .option label {vertical-align:middle;}
+    .survey .question .option input[type=radio] { margin:-1px;top:0px;overflow:hidden;    }
+    .modalBox .mbContentTitle {padding-top:10px;}
+	</style>
+    <![endif]-->
+    <!--[if lte IE 7]>	
+	<style>	
+    .survey .question .option input[type=radio] { margin:-2px;top:-1px;overflow:hidden;    }    
+	</style>
+    <![endif]-->
+    <!--[if lte IE 6]>	
+	<link href="/css/dev/ie6_override.css" rel="stylesheet" type="text/css" />
+    <![endif]--> 
+
+    <script type="text/javascript" src="scripts/jquery-1.3.2.min.js"></script>
+	<script type="text/javascript" src="scripts/simpletreemenu.js"></script>
+	<script type="text/javascript" src="scripts/sortable.js"></script>
+	<script type="text/javascript" src="scripts/sorttable.js"></script>
+	
+	
+    <script type="text/javascript" language="javascript" src="scripts/jquery.simpletip-1.3.1.min.js"></script>
+
+    <script type="text/javascript" language="javascript">             
+    
+    function initMenu() {
+        var pageName = "privacy";
+        var item = null;
+        //alert(pageName);
+        switch(pageName) {        
+            case "home" : item = "lnkHome";break;
+            case "degrees" : item = "lnkDegrees";break;
+            case "programs" : item = "lnkPrograms";break;
+            case "vs" : item = "lnkVS";break;
+            case "faq" : item = "lnkFAQ";break;            
+        }
+        if(item != null) {            
+            $("." + item).addClass("itemActive");
+            //$("." + item).parent().addClass("divItemActive");
+            //changeMenuImage($("." + item), "_on", "_off");
+        }
+    }
+    
+    function changeClass(pCtrlID, pClass){ 
+        var ctrl = document.getElementById(pCtrlID);
+        if(ctrl != null) {
+            ctrl.className = pClass;
+        }
+    }   
+    
+    function getQueryParam(id) {
+        var query = window.location.search.substr(1);        
+        if(query != "") {
+            var params = query.split("&");
+            for(var i=0;i<params.length;i++) {
+                var param = params[0].split("=");
+                if(param[0] == id) {
+                    return param[1] || "";                    
+                }
+            }
+        }
+        return "";
+    }
+            
+    function changeMenuImage(elem, val1, val2) {
+        var obj = $(elem).children("img");        
+        obj.attr("src", obj.attr("src").replace(val2, val1));
+    }
+    
+    $(document).ready(function() {    
+        initMenu();    
+        $(".c4cMenu a:not(.itemActive)").bind("mouseover", function() {                
+                changeMenuImage(this, "_on", "_off");
+            });             
+        $(".c4cMenu a:not(.itemActive)").bind("mouseout", function() {                
+                changeMenuImage(this, "_off", "_on");
+            }); 
+        //configTooltipBanners();  
+    });     
+    
+     function onsubmitMain() {       
+        return ("privacy" != "schools");
+    }  
+    
+    var __opacity = 1;
+    var __plus = false;
+    var __timer = 0;
+    var __blocked = false;
+    
+    function displaySurvey() {
+        if("privacy" != "home1") {
+            if(showSurvey != null) {
+                showSurvey();
+            }
+        }
+        else {
+            if(__blocked) return;
+            __blocked = true;
+            __timer = setInterval(function() {                                
+                    var elem = $(".cellCollegeSearchImage");
+                    if(__plus) {
+                        __opacity += 0.1;
+                    }
+                    else {
+                        __opacity -= 0.1;
+                    }
+                    __opacity = Math.round(__opacity*Math.pow(10,1))/Math.pow(10,1);
+                    elem.css({ opacity:__opacity});                    
+                    if(__opacity == 1) {
+                        clearInterval(__timer);
+                        __plus = false;
+                        __blocked = false;
+                    }
+                    else if(__opacity == 0.3) {
+                        __plus = true;
+                    }
+//                    var align = "top";
+//                    if(elem.css("vertical-align") == "top") {
+//                        align = "bottom";
+//                    }
+//                    else if(elem.css("vertical-align") == "middle") {
+//                        align = "bottom";
+//                    }
+//                    else if(elem.css("vertical-align") == "bottom") {
+//                        align = "top";
+//                    }
+//                    elem.css("vertical-align", align)
+                }, 150);
+        }
+        return false;
+    }  
+    
+    var __bannerRelPos = ["100", "-30"];
+    
+    function configTooltipBanners(selector) {  
+        //if(selector != null && $.browser.msie && $.browser.version == "6.0") return;      
+        var isOpera = (navigator.appName == "Opera");
+        var sBanners = ".fsTooltipBanner";
+        if(selector != null) {
+            sBanners = selector + " " + sBanners;
+        }
+        var banners = $(sBanners);
+        if(banners.length > 0) {
+            var j = 0;
+            banners.each(function() {
+                var pos = __bannerRelPos;
+                //var pos = $(this);
+                //var offset = [100, -30];
+                //if(isOpera && selector != null) {                 
+                //    pos[0] = "0";                         
+                //}
+                
+                var params = {                             
+                    content: getBannerTooltipContent($(this).find(".tooltipTableContainer").attr("innerHTML")),
+                    position: pos,
+                    showEffect:"none",
+                    hideEffect:"none"
+                };
+                
+                if(selector != null) {
+                    params.onShow = function() {   
+                        var $t = $(this.getTooltip());                    
+                        var $p = $t.offsetParent();
+                        var offs = 0;
+                        if($t.parent().hasClass("psContainerItemLast")) {
+                            offs = -260;
+                        }
+                        
+                        var ttPos = {
+                            left : (($.browser.opera ? 20 : 100) - $p.offset().left + offs).toString(),
+                            top : (-30 - $p.offset().top).toString()
+                        };
+                        if($.browser.safari) {                            
+                            //alert($(this.getTooltip()).closest("table").find(".tooltipTableContainer").length);
+                            if($t.closest("table").find(".tooltipTableContainer").length == 1) {
+                                ttPos.left = (200 - $p.offset().left + offs).toString();
+                            }
+                        }
+                        
+                        this.setPos(ttPos.left, ttPos.top);
+                        
+                        if($t.parent().hasClass("psContainerItem")) {                            
+                            $t.css({top:"auto", bottom:"0px"});
+                        }
+                    };
+                }
+                
+                $(this).parent().simpletip(params);
+                if(selector != null && selector == ".psContainer") {
+                    $(this).parent().addClass("psContainerItem");   
+                    if(j >= 2) {
+                        $(this).parent().addClass("psContainerItemLast");
+                    } 
+                }
+                j++;                
+            });
+            if(selector != null) {                                    
+                if($.browser.msie && $.browser.version == "6.0") {
+                    supersleight.run(true);
+                }
+            }
+        }                
+    }
+    
+    function getBannerTooltipContent(contentHTML) {
+        var html="";
+        html = "<div class='ttBanners'><table cellpadding='0' cellspacing='0'><tr><td class='ttTopLeft'></td><td class='ttTopMid'></td><td class='ttTopRight'></td></tr>";        
+        html += "<tr><td class='ttMid'></td><td class='ttContent'>" + contentHTML + "</td><td class='ttMid'></td></tr>";        
+        html += "<tr><td class='ttBottomLeft'></td><td class='ttTopMid'></td><td class='ttBottomRight'></td></tr></table><div class='ttArrow'></div></div>";        
+        return html;        
+    }    
+    
+    </script>
+
+</head>
+<body class="yui-skin-sam">
+    <form name="aspnetForm" method="post" action="Privacy.aspx" id="aspnetForm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTY1NDU2MTA1MmRkOHqr+w/kio3v8J6OK/e3Os8TOmQ=">
+
+        <div style="width: 100%;">
+            <table align="center" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td class="topMenuContainer">
+                        <table cellpadding="0" cellspacing="0" width="940" align="center">
+                            <tbody><tr>
+                                <td>
+                                    <table cellpadding="0" cellspacing="0" width="220" align="right" class="topMenu">
+                                        <tbody><tr>
+                                            <td>
+                                                <a href="about.aspx">About Us</a></td>
+                                            <td>
+                                                <a href="#" onclick="displaySurvey();">College Search</a></td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                    </td>
+                </tr>
+                <tr>
+                    
+                    <td class="homeContentBG" style="background-color: #dfdfbf; background-image: url(images/app/img_generic_bg.png);background-repeat: no-repeat; background-position: center top;">
+                    
+                    
+                        <table cellpadding="0" cellspacing="0" width="940" align="center">
+                            <tbody><tr><td>
+                                <table cellpadding="0" cellspacing="0" width="940" align="center">
+                                    <tbody><tr valign="top">
+                                        <td style="width: 391px;vertical-align:top; text-align: left; padding: 25px 0px 0px 33px;">
+                                            <a href="home.aspx" style="outline-width:0px;"><img src="images/app/img_logo2.png" alt="Click4College" style="border:0px;"></a>
+                                        </td>
+                                        <td style="padding-top:38px;vertical-align:top;">
+                                            <table cellpadding="0" cellspacing="0" class="menu c4cMenu" align="left">
+                                                <tbody><tr>
+                                                    <td style="padding-right:0px;">
+                                                        <a class="lnkHome" href="home.aspx"> 
+                                                            <img src="images/app/menu/img_home_off.png" class="mnuItemIgn" border="0" alt="Home"></a></td>
+                                                    <td style="padding-right:20px;">
+                                                        <a class="lnkDegrees" href="degrees.aspx">
+                                                            <img src="images/app/menu/img_degrees_off.png" class="mnuItemIgn" border="0" alt="Degrees"></a></td>
+                                                    <td>
+                                                        <a class="lnkPrograms" href="programs.aspx">
+                                                            <img src="images/app/menu/img_poi_off.png" class="mnuItemIgn" border="0" alt="Programs"></a></td>
+                                                    <td>
+                                                        <a class="lnkVS" href="vs.aspx">
+                                                            <img src="images/app/menu/img_cvo_off.png" class="mnuItemIgn" border="0" alt="Campus vs. Online"></a></td>
+                                                    <td style="width:auto; padding-right:0px;">
+                                                        <a class="lnkFAQ" href="faq.aspx" style="width:auto;">
+                                                            <img src="images/app/menu/img_faq_off.png" class="mnuItemIgn" border="0" alt="FAQ"></a></td>
+                                                </tr>
+                                            </tbody></table>
+                                        </td>
+                                    </tr>
+                                  </tbody></table>
+                              </td></tr>
+                            <tr>
+                                <td style="background-color: Transparent;padding-top:15px;">
+                                    
+<table border="0" cellpadding="0" cellspacing="0" width="100%" class="privacy contentPageI">
+    <tbody><tr valign="top">
+        <td class="cellContent">         
+            <table border="0" cellpadding="0" cellspacing="0" width="100%">
+                <tbody><tr>
+                    <td class="cellHeader">
+                        <img src="/images/app/img_privacypolicy_header.png" border="0" alt="">
+                    </td>
+                </tr>                  
+                <tr>
+                    <td align="left" class="cellContentText" style="padding-bottom:10px">
+<b>Click4College</b> is a user based site whose goal is to unite students with college success and opportunity. References in this Privacy Policy may, as the context requires, include Click4College.com, and any other subsidiaries or affiliates of Click4College (C4C). C4C provides access to information and services that ease the transition from high school to college which can make the college experience more enjoyable and cost friendly. We recognize the importance of protecting the privacy rights of our users. <br><br>
+
+This Privacy Policy applies only to personally identifiable information collected on this website and does not apply to any other information collected by C4C through other avenues. This Privacy Policy applies to the use and sharing of personally identifiable information collected on and after the date that this Privacy Policy is posted.<br><br>
+
+<span class="infoSubHeader">Minors - Children Under 17 Years of Age</span><br>
+We do not knowingly collect personally identifiable information online from children under the age of 17. If a child provides us with this type of information online, please contact us to have the account deactivated by sending an email to <a href="mailto:info@click4college.com">info@click4college.com</a>.<br><br>
+
+<span class="infoSubHeader">Amendments to Privacy Statement</span><br>
+Our world is constantly changing and as such, so does this Privacy Policy. From time to time, we may need to amend our Privacy Policy because of changes in the law, technology, our business, or our attempts to better serve user needs. If we decide to change our Privacy Policy, we will post the changes within the Privacy Policy itself, on the homepage, or in other appropriate locales. Although changes are rare, it is your responsibility as the user to stay abreast of changes we have made and posted.<br><br>
+
+<span class="infoSubHeader">Nature of Collection of Information</span><br>
+As a site that is designed to assist and aid you, the user, in the college process, it is completely up to you what information you disclose to us. If you choose not to provide necessary information, we may not be able to fully serve your needs but under no circumstances do we force information to be submitted. <br><br>
+
+We respect and acknowledge your privacy. Except as described in this privacy statement, your information collected by C4C.com will not be shared or disseminated to any private third party.<br><br>
+
+In accordance with our law abiding stance on cyber crime, we do reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Web site.<br><br>
+
+<span class="infoSubHeader">Paying for College section</span><br>
+College is not cheap, and in an attempt to ease that blow, we offer a variety of tools and services which provide access to current information on college costs. These include scholarship lists, financial aid assistance, education loan paperwork, and government agencies that might be able to help. We typically collect the following information when these tools are used: first and last name, address, telephone number, date of birth, gender, anticipated graduation date, family information, and social security number (optional). For more specific items like scholarships and financial aid forms, additional fields specific to the request might also be needed.<br><br>
+
+<span class="infoSubHeader">Security</span><br>
+We pride ourselves in our secure transmission of information from your computer to our servers. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. Once we receive your information, we take all necessary precautions to ensure its security on our systems and do so by immediately encrypting the information stored. When sensitive information such as credit card or social security numbers are transmitted, we use industry standard, SSL (secure socket layer) encryption.<br><br>
+
+                    
+                    
+                    
+      
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>    
+</tbody></table>
+
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        &nbsp;
+                    </td>
+                </tr>
+                <tr valign="top">
+                    <td class="contentFooter">
+                        <div>
+                            
+<div class="footerSeparatorContent" style="height:50px;"></div>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td class="footerContainer" style="background-color: #cccc99; border-top: solid 1px #666633; padding-left:0px;">
+                        <table align="center" class="footer">
+                            <tbody><tr valign="top">
+                                <td style="padding-left: 0px; padding-top: 15px;">
+                                    <table cellpadding="0" cellspacing="0" width="100%">                                        
+                                        
+                                        <tbody><tr>
+                                            <td>
+                                                <br>
+                                                <a href="mailto:Support@click4college.com" style="font-weight: bold; font-size: 11pt;">
+                                                    Support@click4college.com</a>&nbsp; for more information.
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-top: 5px;">
+                                                <a href="Terms.aspx">Terms and Conditions</a> | <a href="Privacy.aspx">Privacy Policy</a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding-top:27px;">
+                                                click4college.com Copyright © 2010 All Rights Reserved
+                                            </td>
+                                        </tr>
+                                    </tbody></table>
+                                </td>
+                                <td style="padding-bottom: 15px; text-align:left; padding-left: 20px;width:410px;">
+                                    
+                                    <table cellspacing="0" cellpadding="0" width="100%">
+                                        <tbody><tr>
+                                            <td style="padding-right: 5px; padding-top: 25px;">
+                                                <table cellspacing="0" cellpadding="0" class="footerMenu1">
+                                                <tbody><tr>
+                                                        <td><a href="home.aspx">Home</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="degrees.aspx">Degrees</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="programs.aspx">Programs of Interest</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="vs.aspx">Campus vs. Online</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="faq.aspx">FAQ</a></td>
+                                                    </tr>            
+                                                    
+                                                </tbody></table>
+                                            </td>
+                                            <td style="padding-left: 10px; padding-top: 25px;">
+                                                <table cellspacing="0" cellpadding="0" class="footerMenu2" align="left">
+                                                    <tbody><tr>
+                                                        <td><a href="resume.aspx">Build your Resume</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="search.aspx">Pick the Right School</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="tuition.aspx">Paying for College</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="rewards.aspx">Reaping the Rewards</a></td>
+                                                    </tr>
+                                                    <tr>
+                                                        <td><a href="about.aspx">About Us</a></td>
+                                                    </tr>                                        
+                                                </tbody></table>
+                                            </td>
+                                        </tr>                            
+                                    </tbody></table>
+                                </td>
+                            </tr>
+                        </tbody></table>
+                        <!-- Start Quantcast tag -->
+                        <script type="text/javascript">
+                            _qoptions = {
+                                qacct: "p-39KYvhQ-MFtSg"
+                            };
+                        </script>
+                        <script type="text/javascript" src="http://edge.quantserve.com/quant.js"></script>
+                        <noscript>
+                        <img src="http://pixel.quantserve.com/pixel/p-39KYvhQ-MFtSg.gif" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
+                        </noscript>
+                        <!-- End Quantcast tag -->
+
+                    </td>
+                </tr>
+            </tbody></table>
+        </div>
+        
+<link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/2.7.0/build/container/assets/skins/sam/container.css">
+<link rel="stylesheet" type="text/css" href="/css/dev/yui_override.css">
+<!-- Dependencies -->
+<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/yahoo-dom-event/yahoo-dom-event.js"></script>
+<script type="text/javascript" src="http://yui.yahooapis.com/2.7.0/build/container/container-min.js"></script>
+
+<div id="divPanelSurvey" style="display:none;">
+    <div class="bd">
+        <table cellpadding="0" cellspacing="0" class="modalBox">
+            <tbody><tr><td class="mbTopLeft"></td><td class="mbTopMid" style="width:390px;"></td><td class="mbTopRight"></td></tr>
+            <tr><td class="mbMid"></td><td class="mbContentTitle title">
+                        <table cellpadding="0" cellspacing="0"><tbody><tr>
+                            <td class="cellCollegeSearchImage"><img src="/images/app/img_survey_title.gif" alt="Survey" class="collegeSearchImage" style="margin-left:25px;"></td>
+                            <td style="padding-left:10px;padding-right:10px;" class="survey">
+                            
+                         
+                            <span id="lblSurveyResultsText" style="display:none;margin-left:20px;position:relative;top:-7px;"></span>
+                        </td></tr>
+                    </tbody></table>
+            </td><td class="mbMid"></td></tr>
+            <tr><td class="mbMid"></td><td class="mbContent">
+                <div class="surveyContainer">
+                <table style="width:100%;margin-bottom:20px;" class="survey">                    
+                    <!--Questions-->
+                    <tbody><tr id="rowSurveyQuestions" class="questions">
+                        <td class="cellSection">
+                            <table cellpadding="0" cellspacing="0" style="width:100%">                                                
+                                <tbody><tr><td class="questionsTitle">PLEASE ANSWER THE FOLLOWING QUESTIONS:</td></tr>
+                                <tr id="surveyQ1">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionFirst">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I am looking to pursue my Degree in an...</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%"><tbody><tr>
+                                                                    <td style="width:50%;"><input type="radio" id="rbSurveyQ1O1" value="1" class="rbSurveyQ1" name="rbSurveyQ1"><label for="rbSurveyQ1O1">Online setting</label></td>
+                                                                    <td><input type="radio" id="rbSurveyQ1O2" value="2" class="rbSurveyQ1" name="rbSurveyQ1"><label for="rbSurveyQ1O2">Campus setting</label></td>                                                                    
+                                                                </tr></tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ2">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">I am looking to for a...</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>                                                                        
+                                                                        <td style="width:50%;"><input type="radio" id="rbSurveyQ2O2" name="rbSurveyQ2" class="rbSurveyQ2" value="2"><label for="rbSurveyQ2O2">Undergraduate degree</label></td>
+                                                                        <td><input type="radio" id="rbSurveyQ2O1" name="rbSurveyQ2" class="rbSurveyQ2" value="1"><label for="rbSurveyQ2O1">Certificate</label></td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td style="width:50%;"><input type="radio" id="rbSurveyQ2O3" name="rbSurveyQ2" class="rbSurveyQ2" value="3"><label for="rbSurveyQ2O3">Graduate degree</label></td>
+                                                                        <td>&nbsp;</td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ3" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">Degree Level</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>                                                                        
+                                                                        <td style="width:50%;"><input type="radio" id="rbSurveyQ3O1" class="rbSurveyQ3" name="rbSurveyQ3" value="1"><label for="rbSurveyQ3O1">Associate's program</label></td>
+                                                                        <td><input type="radio" id="rbSurveyQ3O2" class="rbSurveyQ3" name="rbSurveyQ3" value="2"><label for="rbSurveyQ3O2">Bachelor's program</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ4" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">Degree Level</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%">
+                                                                    <tbody><tr>   
+                                                                        <td style="width:50%;"><input type="radio" id="rbSurveyQ4O1" class="rbSurveyQ4" name="rbSurveyQ4" value="3"><label for="rbSurveyQ4O1">Master's program</label></td>
+                                                                        <td><input type="radio" id="rbSurveyQ4O2" class="rbSurveyQ4" name="rbSurveyQ4" value="4"><label for="rbSurveyQ4O2">PHD program</label></td>
+                                                                    </tr>
+                                                                </tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>
+                                <tr id="surveyQ5" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional questionLast">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">Program of Interest</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                            <table cellspacing="0" cellpadding="0" width="98%"><tbody><tr><td style="width:50%;"><input type="radio" id="rbSurveyQ5O1" class="rbSurveyQ5" name="rbSurveyQ5" value="1"><label for="rbSurveyQ5O1">Business</label></td><td><input type="radio" id="rbSurveyQ5O2" class="rbSurveyQ5" name="rbSurveyQ5" value="2"><label for="rbSurveyQ5O2">Legal</label></td></tr><tr><td style="width:50%;"><input type="radio" id="rbSurveyQ5O3" class="rbSurveyQ5" name="rbSurveyQ5" value="3"><label for="rbSurveyQ5O3">Design</label></td><td><input type="radio" id="rbSurveyQ5O4" class="rbSurveyQ5" name="rbSurveyQ5" value="4"><label for="rbSurveyQ5O4">Education</label></td></tr><tr><td style="width:50%;"><input type="radio" id="rbSurveyQ5O5" class="rbSurveyQ5" name="rbSurveyQ5" value="5"><label for="rbSurveyQ5O5">Health &amp; Nursing</label></td><td><input type="radio" id="rbSurveyQ5O6" class="rbSurveyQ5" name="rbSurveyQ5" value="6"><label for="rbSurveyQ5O6">IT &amp; Engineering</label></td></tr></tbody></table>
+                                                            </td>
+                                                        </tr>                                            
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>   
+                                <tr id="surveyQ6" style="display:none;">
+                                    <td>
+                                        <table cellspacing="0" cellpadding="0" style="width:100%" class="question questionAdditional questionLast">
+                                            <tbody><tr>
+                                                <td class="empty">&nbsp;</td>
+                                                <td>
+                                                    <table cellspacing="0" cellpadding="0" style="width:100%">
+                                                        <tbody><tr><td class="header">Also search by ZipCode...</td></tr>
+                                                        <tr>
+                                                            <td class="option">
+                                                                <table cellspacing="0" cellpadding="0" width="98%"><tbody><tr>
+                                                                    <td style="width:18%;"><input type="radio" id="rbSurveyQ6O1" value="1" class="rbSurveyQ6" name="rbSurveyQ6"><label for="rbSurveyQ6O1">No</label></td>
+                                                                    <td style="width:18%;"><input type="radio" id="rbSurveyQ6O2" value="2" class="rbSurveyQ6" name="rbSurveyQ6"><label for="rbSurveyQ6O2">Yes</label></td>
+                                                                    <td>
+                                                                        <div id="divSurveyQ6O2" style="visibility:hidden;">
+                                                                            <input type="text" id="txtSurveyQ6" value="" maxlength="5" style="font-family:Arial;font-size:8pt;width:60px;">
+                                                                            <input type="button" id="btnSurveySearch" value="Search" style="width:70px;">
+                                                                        </div>    
+                                                                    </td>                                                                    
+                                                                </tr></tbody></table>
+                                                            </td>
+                                                        </tr>                                           
+                                                    </tbody></table>
+                                                </td>
+                                            </tr>
+                                        </tbody></table>
+                                    </td>
+                                </tr>   
+                                <tr id="surveyMatchBig">
+                                    <td class="matchBig">
+                                        <br>AND WE'LL MATCH <br> YOU WITH SCHOOLS<br> THAT FIT YOUR CRITERIA
+                                    </td>
+                                </tr>
+                                <tr id="surveyMatchSmall" style="display:none;">
+                                    <td class="matchSmall">
+                                        <br>Find the right school for you - <span style="font-style:italic;">right now!</span>
+                                    </td>
+                                </tr>
+                            </tbody></table>
+                        </td>
+                     </tr>     
+                     <!--Loading-->
+                     <tr id="rowSurveyLoading" style="display:none;">
+                        <td class="cellSection">
+                            <table cellpadding="0" cellspacing="0" style="width:100%">                                                
+                                <tbody><tr><td>Please be patient while we search for schools that best match your criteria.</td></tr>
+                                <tr><td class="loading"><img src="/images/app/loading.gif" width="72" height="72" alt="Loading"></td></tr>
+                            </tbody></table>
+                        </td>
+                     </tr>
+                     <!--Results-->
+                     <tr id="rowSurveyResults" style="display:none;">
+                        <td class="cellSectionResults">
+                            <table cellpadding="0" cellspacing="0" style="width:100%;">
+                                <tbody><tr><td><div class="resultsContainer" style="width:100%;"><div id="divSurveyResults" class="results rschools" style="width:100%;height:auto;"></div></div></td></tr>                                
+                            </tbody></table>
+                        </td>
+                     </tr>
+                </tbody></table>
+                    <div id="divSurveyStartOver" class="survey divSurveyStartOver"><input type="button" id="btnSurveyStartOver" value="Start Over" style="width:100px;"></div>
+                </div>
+            </td><td class="mbMid"></td></tr>
+            <tr><td class="mbBottomLeft"></td><td class="mbTopMid" style="width:390px;"></td><td class="mbBottomRight"></td></tr>
+            <tr><td colspan="3" style="text-align:center; padding-top:20px;"><img src="/images/app/img_tt_shadow.png"></td></tr>
+        </tbody></table>
+    </div>
+</div> 
+
+<script language="javascript" type="text/javascript">
+    var panelSurvey = null;
+    var isSearching = false;
+    var selectedOptionSurveyQ1 = "";
+    var selectedOptionSurveyQ2 = "";
+    var selectedOptionSurveyQ6 = "";
+
+    function initSurveyDialog(isStatic, context) {
+        //The second argument passed to the
+    //constructor is a configuration object:
+        if(isStatic == null) isStatic = false;
+        $("#divPanelSurvey").css("display", "");        
+        var params = {
+                width:"406px", 
+	            //height:"380px",	           	            	           	           
+	            close:true, 
+	            visible:false, 
+	            draggable:false
+	        };
+	    if(isStatic) {
+	        params.modal = false;
+	        params.close = false;
+	        params.context = [context, "tl", "tl", ["beforeShow", "windowResize"]];	   
+	        params.fixedcenter = false;
+	        params.constraintoviewport = false;    
+	    }	    
+	    else {
+	        params.modal = true;
+	        params.fixedcenter = true;
+	        params.constraintoviewport = true;
+	        params.underlay = "shadow";
+	        params.close = true;
+	    }
+	        
+        panelSurvey = new YAHOO.widget.Panel("divPanelSurvey", params);	
+    	
+	    initializeObjects();	
+	    panelSurvey.hideEvent.subscribe(clearSurvey);
+    }
+
+    function initializeObjects() {
+        selectedOptionSurveyQ1 = "";
+        selectedOptionSurveyQ2 = "";
+        selectedOptionSurveyQ6 = "";
+        $(".survey input[name='rbSurveyQ1'], .survey input[name='rbSurveyQ2'], .survey input[name='rbSurveyQ6']").click(reviewQuestions);    
+        $(".survey input[type=radio]").click(validateSelection);
+        //$("").click(validateSelection);
+        $("#btnSurveyStartOver").click(startOver);
+        $("#btnSurveySearch").click(validateSelection);
+        
+        $("#btnSurveySearch").click(function() {   
+            if(validateZipCode($("#txtSurveyQ6"))) {
+                validateSelection();
+            }
+        return false;
+        });   
+          
+        $("#txtSurveyQ6").keypress(function(e) {        
+		    var keynum;
+		    var keychar;
+
+		    if (window.event) { // IE
+			    keynum = event.keyCode;
+		    }
+		    else if (e.which) { // Netscape/Firefox/Opera
+			    keynum = e.which;
+		    }				
+		    if (keynum == 13) {
+			    $("#btnSurveySearch").click();
+			    return false;
+		    }
+	    });
+    }
+
+    function showSurvey(page, context) {
+        if(panelSurvey == null) {        
+            var isStatic = (page == "home");            
+            initSurveyDialog(isStatic, context);         
+            panelSurvey.render();       
+        }     
+        selectedOptionSurveyQ2 = "";
+        panelSurvey.show();
+    }
+
+    function hideSurvey() {
+        if(panelSurvey != null) {
+            panelSurvey.hide();                
+        }       
+    }
+
+    function validateSelection() {
+        var valid = false;
+        var radio = $("input[name='rbSurveyQ1']:checked");
+        if(radio.length == 0) return;
+        var isCampus = (radio.val() == "2");
+        var zipCodeValid = false;
+        
+        var useZipCode = false;
+        if(isCampus) {
+            radio = $("input[name='rbSurveyQ6']:checked");
+            if(radio.length == 0) return;
+            if(radio.val() == "2") {
+                useZipCode = true;
+                zipCodeValid = validateZipCode($("#txtSurveyQ6"));
+            }
+        }
+        
+        var isBtnSearch = ($(this).attr("id") == "btnSurveySearch");
+        var t0 = false;
+        
+        radio = $("input[name='rbSurveyQ2']:checked");        
+        if(radio.length > 0) t0 = true;
+        else if(radio.length == 0 && !isBtnSearch) return;
+        if(radio.val() == "1") {
+            valid = true;
+        }
+        else if(radio.val() == "2") {                
+            var t1 = false;
+            var t2 = false;
+            radio = $("input[name='rbSurveyQ3']:checked");
+            if(radio.length > 0) t1 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            radio = $("input[name='rbSurveyQ5']:checked");
+            if(radio.length > 0) t2 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            valid = (t1 && t2);
+        }
+        else if(radio.val() == "3") {    
+            var t1 = false;
+            var t2 = false;
+            radio = $("input[name='rbSurveyQ4']:checked");
+            if(radio.length > 0) t1 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            radio = $("input[name='rbSurveyQ5']:checked");
+            if(radio.length > 0) t2 = true;
+            else if(radio.length == 0 && !isBtnSearch) return;
+            valid = (t1 && t2);
+        }    
+        
+        valid = (valid && t0);                              
+        
+        if((valid && !useZipCode) || (valid && useZipCode && zipCodeValid && isBtnSearch)) {
+            beginSearchSchools();
+        }
+        else if(!valid && useZipCode && zipCodeValid && isBtnSearch) {
+            alert("You have not selected all required fields.");
+        }
+        else if(useZipCode && !zipCodeValid && isBtnSearch) {
+            alert("You must enter a valid 5 digit zip code.");
+            $("#txtSurveyQ6").focus();
+        }        
+    }    
+    
+    function beginSearchSchools() {
+        if(isSearching) return;
+        isSearching = true;
+        $("#rowSurveyQuestions").hide();
+        $("#rowSurveyLoading").show();
+        setTimeout(searchSchools, 500);
+    }
+    
+    function searchSchools() {                
+        var pSetting = $("input[name='rbSurveyQ1']:checked").val();
+        var type = $("input[name='rbSurveyQ2']:checked").val();
+        var pDegreeTypeID = "";
+        var pField = "0";
+        var pZipCode = "0";
+        if(type == "1") {
+            pDegreeTypeID = "5";
+        }
+        else if(type == "2") {
+            pDegreeTypeID = $("input[name='rbSurveyQ3']:checked").val();
+        }
+        else if(type == "3") {
+            pDegreeTypeID = $("input[name='rbSurveyQ4']:checked").val();
+        }
+        
+        if(type == "2" || type == "3") {
+            pField = $("input[name='rbSurveyQ5']:checked").val();
+        }
+        
+        if(($("input[name='rbSurveyQ1']:checked").val() == "2") && ($("input[name='rbSurveyQ6']:checked").val() == "2")) {
+            pZipCode = $("#txtSurveyQ6").val();
+        }
+        
+        
+        var data = "{pSetting:" + pSetting + ", pDegreeTypeID:" + pDegreeTypeID + ", pField:" + pField + ", pZipCode:" + pZipCode + "}";
+        //alert(data);
+	    $.ajax({
+		    type: "POST",
+		    url: "/services/service.asmx/SearchSchools",
+		    contentType: "application/json; charset=utf-8",				
+		    data: data,
+		    dataType: "json",
+		    success: handleSearchSchoolsOK,
+		    error: handleSearchSchoolsFail
+	    });
+    }
+
+    function handleSearchSchoolsOK(result) {
+        //alert("OK: " + result.HtmlResult);	
+        isSearching = false;
+        if(result.Success) {
+            setResult(result.HtmlResult, result.ItemsCount);
+            if(configTooltipBanners) {
+                configTooltipBanners("#divSurveyResults");
+            }
+        }
+        else {
+            setResult(result.ErrorMessage);                
+        }		    
+        $("#rowSurveyLoading").hide();
+        $("#rowSurveyResults").show();   
+        $("#divSurveyStartOver").show();
+    }
+	
+    function handleSearchSchoolsFail(xhr, result) {		   
+        isSearching = false;			    	    
+        //alert("Fail: " + xhr.responseText);
+        setResult("Fail: Unable to search schools, please try again later.");
+        $("#rowSurveyLoading").hide(); 
+        $("#rowSurveyResults").show();  
+        $("#divSurveyStartOver").show();          
+    }	
+	
+    function setResult(html, count) {
+        $("#divSurveyResults").attr("innerHTML", html);
+        var text = (count && count > 0) ? count.toString() + ((count > 1) ? " Results found!" : " Result found!") : "";
+        if(text == "") {
+            //$("#lblSurveyDescription").hide();
+            $("#lblSurveyResultsText").hide();
+        }
+        else {
+            //$("#lblSurveyDescription").hide();
+            $("#lblSurveyResultsText").show();
+        }
+        $("#lblSurveyResultsText").attr("innerHTML", text);
+        fixCloseButton();
+    }        
+
+    function reviewQuestions() {               
+        var op = $(this).attr("name");
+        if(op == "rbSurveyQ1") {
+            var val = $("input[name='rbSurveyQ1']:checked").val();    
+            if(val == selectedOptionSurveyQ1) return true;
+            selectedOptionSurveyQ1 = val;        
+            $("input[name='rbSurveyQ6']").attr("checked", false);            
+            
+            if(val == "1") {
+                $("#surveyQ6").hide();                
+                //$("#surveyMatchSmall").hide();
+                //$("#surveyMatchBig").show();
+            }
+            else if(val == "2") {                
+                $("#surveyQ6").show();                        
+                //$("#surveyMatchBig").hide();
+                //$("#surveyMatchSmall").show();
+            }
+        }
+        else if(op == "rbSurveyQ2") {
+            var val = $("input[name='rbSurveyQ2']:checked").val();    
+            if(val == selectedOptionSurveyQ2) return true;
+            selectedOptionSurveyQ2 = val;        
+            $("input[name='rbSurveyQ3']").attr("checked", false);
+            $("input[name='rbSurveyQ4']").attr("checked", false);
+            $("input[name='rbSurveyQ5']").attr("checked", false);
+             
+            if(val == "1") {
+                $("#surveyQ3").hide();
+                $("#surveyQ4").hide();
+                $("#surveyQ5").hide();
+                $("#surveyMatchSmall").hide();
+                $("#surveyMatchBig").show();
+            }
+            else if(val == "2") {
+                $("#surveyQ4").hide();
+                $("#surveyQ3").show();        
+                $("#surveyQ5").show();
+                $("#surveyMatchBig").hide();
+                $("#surveyMatchSmall").show();
+            }
+            else if(val == "3") {
+                $("#surveyQ3").hide();
+                $("#surveyQ4").show();        
+                $("#surveyQ5").show();
+                $("#surveyMatchBig").hide();
+                $("#surveyMatchSmall").show();
+            }        
+        }
+        else if(op == "rbSurveyQ6") {                    
+            var val = $("input[name='rbSurveyQ6']:checked").val();    
+            if(val == selectedOptionSurveyQ6) return true;
+            selectedOptionSurveyQ6 = val;        
+            $("input[name='txtSurveyQ6']").val("5");
+            
+            if(val == "1") {
+                $("#divSurveyQ6O2").css("visibility", "hidden");
+            }
+            else if(val == "2") {                
+                $("#divSurveyQ6O2").css("visibility", "visible");
+            }            
+        }
+    }        
+    
+    function startOver() {
+        clearSurvey();
+    }
+
+    function clearSurvey() {
+         $("#surveyQ3").hide();
+         $("#surveyQ4").hide();
+         $("#surveyQ5").hide();
+         $("#surveyQ6").hide();
+         $("#divSurveyQ6O2").css("visibility", "hidden");
+         $("#surveyMatchSmall").hide();
+         $("#surveyMatchBig").show(); 
+         $(".survey input[type=radio]").attr("checked", false);
+         $(".survey input[type=text]").val("");
+         $("#rowSurveyLoading").hide();
+         $("#rowSurveyResults").hide();
+         $("#divSurveyStartOver").hide();
+         $("#rowSurveyQuestions").show();   
+         setResult("");   
+         //$("#lblSurveyDescription").show();         
+         selectedOptionSurveyQ1 = "";
+         selectedOptionSurveyQ2 = "";
+         selectedOptionSurveyQ6 = "";
+         fixCloseButton();
+    }
+   
+    function fixCloseButton() {
+        $(".yui-skin-sam .container-close").css("position","absolute");
+    }
+    
+    function validateZipCode(elem) {
+        var zip = (typeof(elem)=="String") ? $("#" + elem) : $(elem);
+        if(zip != null) {
+            if(zip.val() == "" || zip.val().length != 5 || !isNumber(zip.val())) {                
+                zip.focus();
+            }
+            else {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    function isNumber(value) {
+      var check = true;          
+      //check that all characters are digits, ., -, or ""
+      for(var i=0;i < value.length;i++) {
+           var new_key = value.charAt(i); //cycle through characters               
+           if(((new_key < "0") || (new_key > "9")) && !(new_key == "")) {
+                check = false;
+                break;
+           }
+      }          
+      return check;
+    }
+
+</script>
+        <!--[if lte IE 6]>
+        <script type="text/javascript" language="javascript">
+        $(".c4cMenu img").each(function() {            
+                $(this).attr("src", $(this).attr("src").replace("/app/", "/app/ie6/").replace(".png",".gif"));
+            });
+        </script>
+	<script type="text/javascript" src="/scripts/supersleight.js"></script>	
+    <![endif]-->
+    </form>
+
+
+</body></html>
