@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2009-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091214180904id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roku.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615140331id_/http%3A//www.roku.com/about/privacy) for the most accurate reproduction.*
 
 # Roku | Roku Player Privacy Policy
 
@@ -60,4 +60,6 @@ We may amend this privacy policy at any time by posting the amended version on o
 
 ### Part VI. Contact Information
 
-If you have any questions regarding this privacy policy, please contact support. We will use commercially reasonable efforts to resolve disputes within 90 days.
+If you have any questions regarding this privacy policy, please contact support. We will use commercially reasonable efforts to resolve disputes within 90 days. 
+
+Roku is located at 12980 Saratoga Avenue, Saratoga, CA 95070
