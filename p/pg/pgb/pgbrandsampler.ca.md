@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the pgbrandsampler.ca privacy policy that was archived on 2009-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090619222159id_/http%3A//www.pg.com/privacy/english/privacy_statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgbrandsampler.ca privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616002421id_/http%3A//www.pg.com/privacy/english/privacy_statement.html) for the most accurate reproduction.*
 
 # P&G Privacy Statement
 
-|  Information We Collect
+| 
+
+## Information We Collect
 
 We may collect information about you from a variety of sources, including information we collect from you directly; information we collect about you when you visit our sites, use our services, or view our online advertisements; and information we collect about you from other sources (where permitted by law).
 
@@ -53,9 +55,11 @@ We may obtain information about you from other sources, including commercially a
 
 **All of the information we collect about you may be combined to help us tailor our communications to you and to develop world-class products and services of superior quality. ******
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  How We Use This Information
+| 
+
+## How We Use This Information
 
 **To provide offers, products and services.** We use the information we collect to provide the products and services you request, to tell you about other products and services offered by P&G, and to manage our sites and services.
 
@@ -75,9 +79,13 @@ The following are ways we may use the information we collect about you:
   * Determine the effectiveness of our advertising.
   * Enforce our Terms and Conditions and otherwise manage our business.
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Your Choices & Access to Your Information  
+| 
+
+## Your Choices & Access to Your Information
+
+  
 _Choices_  
 We give you choices about how we communicate with you. _Digital / Electronic Communications_ (examples: email, mobile).  
 We only send you promotional mobile or email messages if you explicitly ask to receive these. (You opt in).  
@@ -86,27 +94,27 @@ Where permitted by law, we may mail you unsolicited offers or product informatio
 
 You can stop receiving promotional postal mail from a particular P&G brand or group. Promotional postal mail may contain opt out instructions, and you can stop receiving promotional postal mail from a particular P&G brand or group (such as Every Day Solutions, Envie de Plus, Zin in Meer) by following those instructions.
 
-You can also stop receiving promotional email or postal communication from a particular P&G brand or group through this Privacy Statement. Please [click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to select your country and learn how to complete your request.
+You can also stop receiving promotional email or postal communication from a particular P&G brand or group through this Privacy Statement. Please [click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html "click here") to select your country and learn how to complete your request.
 
 **PLEASE NOTE:** If you choose to stop receiving promotional messages from us, we will honor your request. However, we will continue to send you service related communications and we may need to keep the information we have collected about you for record keeping, analysis or other reasons, to the extent permitted by law.
 
 _Access_  
 We take steps to keep your personal information accurate. You can view, correct or update the personal contact information you provide P&G. Some P&G programs provide access to view or update personal information online. Check where you registered to learn if you can view or update your information there.
 
-If information access and update is not available where you registered, [click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to select your country and learn how to access and update the personal information you provided P&G. P&G does not charge for this service and responds to reasonable requests in an appropriate timeframe. 
+If information access and update is not available where you registered, [click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html "click here") to select your country and learn how to access and update the personal information you provided P&G. P&G does not charge for this service and responds to reasonable requests in an appropriate timeframe. 
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Cookies, Web Beacons and other Technologies
+| 
+
+## Cookies, Web Beacons and other Technologies
 
 Cookies. A cookie is a small file placed on your computer when you visit a site that can be understood by the site that issued the cookie. We use cookies to monitor how our sites are used and to help personalize your online experience. For example, when you register on our sites, we may store a unique code in a cookie on your computer. The next time you come back to the site from that computer, our servers use the cookie to recognize you. We can then use the information you provided when you registered combined with your activities on our sites to provide you advertising and offers of interest.
 
 You can accept or decline cookies. Most browsers automatically accept cookies. To learn more about cookies, including how to refuse cookies on your computer, click these links: 
 
   * For Microsoft Internet Explorer: <http://www.microsoft.com/info/cookies.htm>
-  * For Netscape Navigator: <http://wp.netscape.com/legal_notices/cookies.html>
-  * For Mozilla Firefox: <http://www.mozilla.org/support/firefox/options#privacy>
-  * For Apple Safari: <http://www.apple.com/support/safari/>
+  * For Mozilla Firefox: <http://support.mozilla.com/en-US/kb/Options+window+-+Privacy+panel>
   * <http://www.allaboutcookies.org/cookies/>
 
 
@@ -127,9 +135,11 @@ Third-Party Advertising. We may allow third parties, including business partners
 
 How we use Cookies, Web Beacons and other Technologies. We use these technologies to provide you a richer and more personalized consumer experience. We do not store any of your personal information in cookies, web beacons or other technologies on your computer. For more detail see 
 
-_“How We Use This Information.” ___ |   
+_“How We Use This Information.” ___ |  Back to skip navigation menu   
 ---|---  
-|  Information Sharing
+| 
+
+## Information Sharing
 
 The success of our business depends on your trust, and we do not sell your personal information to marketers outside of P&G. We share your personal information only as described below and within P&G.
 
@@ -165,15 +175,19 @@ Other situations. We may disclose your personal information:
 
 Aggregated and non-personal information. We may share aggregated information that cannot identify you for general business analysis. For example, we may disclose the number of visitors to P&G sites or services.
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  User Generated Content
+| 
+
+## User Generated Content
 
 Some P&G sites enable users to submit their own content for contests, blogs, videos, and other functions. Please remember that any information you disclose becomes public information and you should exercise caution when deciding to disclose your personal, financial or other information in a submission. P&G cannot prevent such information from being used in a manner that may violate this Privacy Statement, the law, or your personal privacy and safety and is not responsible for the results of such postings. 
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Information Security
+| 
+
+## Information Security
 
 We are committed to keeping personal information secure. We have appropriate technical, administrative and physical procedures in place to protect personal information from loss, misuse or alteration.
 
@@ -183,19 +197,23 @@ When we provide your personal information to our third party service providers w
 
 When we collect or transmit sensitive information such as a credit card number, we use industry standard methods to protect that information.
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Information Transfer
+| 
+
+## Information Transfer
 
 Your personal information may be transferred to, stored, and processed in a country other than the one in which it was provided. This may include the US. When we do so, we transfer the information in compliance with applicable data protection laws.
 
 We take steps to protect personal information no matter what country it is stored in or transferred to. We have procedures and controls as appropriate to help ensure this.
 
-We adhere to the EU Data Privacy Directive and country data privacy laws, as well as the U.S. Department of Commerce [Safe Harbor Program](http://www.export.gov/safeharbor/).
+We adhere to the EU Data Privacy Directive and country data privacy laws, as well as the U.S. Department of Commerce [Safe Harbor Program](http://www.export.gov/safeharbor/ "Safe Harbor Program").
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Children's Online Privacy
+| 
+
+## Children's Online Privacy
 
 We believe it is important to provide added protection for children online. We encourage parents and guardians to spend time online with their children to participate in and monitor their online activity.
 
@@ -203,15 +221,17 @@ We do not intend to collect personal information from children under 13 online, 
 
 When we do collect personal information from children, we do so in compliance with applicable country children’s data protection laws.
 
-U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children’s Online Privacy Protection Act. [Click here](http://www.beinggirl.com/en_US/pages/privacy.jsp) to read that Privacy Statement.
+U.S. sites that collect information from children under the age of 13 are covered by a privacy statement that meets the requirements of the U.S. Children’s Online Privacy Protection Act. [Click here](http://www.beinggirl.com/en_US/pages/privacy.jsp "Click here") to read that Privacy Statement.
 
-[Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to find out how to obtain a copy of the information your child has provided P&G, to update the information or instruct us to no longer contact your child
+[Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html "Click here") to find out how to obtain a copy of the information your child has provided P&G, to update the information or instruct us to no longer contact your child
 
-|   
+|  Back to skip navigation menu   
 ---|---  
-|  Contact Us
+| 
 
-If you have questions or concerns regarding your privacy, please contact P&G directly. [Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html) to select your country and be linked to the correct address or e-mail address to use, or use the postal address below. Please feel free to use your native language when sending your questions or comments.
+## Contact Us
+
+If you have questions or concerns regarding your privacy, please contact P&G directly. [Click here](http://www.pg.com/privacy/contact_us/privacy_country_list.html "Click here") to select your country and be linked to the correct address or e-mail address to use, or use the postal address below. Please feel free to use your native language when sending your questions or comments.
 
 Otherwise, you can contact us at this address  
 **P &G Global Privacy Team**  
@@ -220,15 +240,15 @@ Otherwise, you can contact us at this address
 
 We are committed to working with you to obtain a fair resolution of any complaint or concern about privacy. We cooperate with country data protection authorities if they believe that a privacy problem has occurred.
 
-We participate in the U.S. Council of Better Business Bureau’s (BBB) Accredited Business Program. Further information about this program and its dispute resolution process is available at [www.bbb.org](http://www.bbbonline.org/)
+We participate in the U.S. Council of Better Business Bureau’s (BBB) Accredited Business Program. Further information about this program and its dispute resolution process is available at [www.bbb.org](http://www.bbbonline.org/ "www.bbb.org")
 
 For more information on how to help protect your computer, your personal information and your family online, visit our Personal Privacy Tips  
 <http://www.pg.com/yourprivacy/index.shtml>
 
-|   
+|  Back to skip navigation menu   
 ---|---  
   
-Changes to This Privacy Statement
+## Changes to This Privacy Statement
 
 We will post changes to this Privacy Statement and update the effective date when this Privacy Statement is updated. If we make any material changes to this Privacy Statement, we will notify you by sending an e-mail to the e-mail address you most recently provided us or by posting notice of the changes on this site.
 
@@ -241,9 +261,12 @@ Clarifies that within P&G, the information you provide to one P&G brand may now 
 No substantive changes were made to the Privacy Statement. This update was to: clarify and simplify the content to improve readability; remove reference to specific advertising partners; add information about how to manage cookies, and to indicate the addition of a children’s privacy statement for certain U.S. websites.
 
 **2002 Update**  
-No substantive changes were made to the Privacy Statement. This update was to: clarify that a company that purchases a P&G brand may obtain information about consumers who had signed up for that brand; add examples of the types of third parties that P&G may share information with if consumers give us consent, change the name of the advertising partner; and clarify children’s privacy to be in line with local law, and to provide a physical address for our corporate offices.   
+No substantive changes were made to the Privacy Statement. This update was to: clarify that a company that purchases a P&G brand may obtain information about consumers who had signed up for that brand; add examples of the types of third parties that P&G may share information with if consumers give us consent, change the name of the advertising partner; and clarify children’s privacy to be in line with local law, and to provide a physical address for our corporate offices. 
+
+Back to skip navigation menu   
   
-Country Specific Information  
+### Country Specific Information  
+  
 BELGIQUE
 
 Conformément à la Loi sur la Protection de la Vie Privée du 8 décembre 1992, vous disposez d'un droit d'accès et de rectification de vos données personnelles. Vous pouvez également vous opposer à leur traitement. Le responsable du traitement de vos données en Belgique est la société Procter & Gamble DCE (Belgium Distribution Division) sprl.
@@ -254,8 +277,9 @@ BELGIE
 
 Overeenkomstig de Wet op de Bescherming van de Persoonlijke Levensfeer van 8 december 1992, heeft u het recht tot toegang en tot verbetering van uw persoonlijke gegevens. U kan zich eveneens verzetten tegen het houden van uw persoonlijke gegevens. De verantwoordelijke voor de bewerking van uw gegevens in Belgïe is de venootschap Procter & Gamble DCE (Belgium Distribution Division) bvba.
 
-Wil u meer weten hierover, kan u contact opnemen met onze consumentendienst in Belgïe: **Consumentendienst, BP 81, 1090 Brussel.**  
-  
+Wil u meer weten hierover, kan u contact opnemen met onze consumentendienst in Belgïe: **Consumentendienst, BP 81, 1090 Brussel.**
+
+Back to skip navigation menu   
 CANADA
 
 Procter & Gamble Inc. complies with Canadian Federal and Provincial privacy laws and regulations including the Personal Information Protection and Electronic Documents Act.
@@ -266,9 +290,9 @@ Residents of Canada are notified that the personal information they provide to P
 
 If you need to contact Procter & Gamble Inc. regarding your personal information, then please write to the following address:
 
-**L. Bansil  
+**S. Valkonen  
 Privacy Officer  
-416-730-4092  
+416-730-4003  
 Procter & Gamble Inc.  
 4711 Yonge Street  
 North York, Ontario  
@@ -276,24 +300,29 @@ M2N 6K8
 
 E:mail privacyfeedbk.im@pg.com
 
-**  
-  
+**
+
+Back to skip navigation menu   
 FRANCE
 
-Conformément à la Loi "Informatique et Libertés" n° 78-17 du 6 janvier 1978, vous disposez d'un droit d'accès et de rectification aux informations qui vous concernent. Sauf avis contraire de votre part, nous garderons ces données pour vous faire éventuellement parvenir des informations sur nos produits ou ceux d'autres Sociétés. Ces données peuvent faire l'objet d'un transfert à l'étranger. 
+Les informations que vous nous communiquez sont utilisées à des fins de prospection et de fidélisation et/ou pour vous faire éventuellement parvenir des informations sur nos produits ou ceux d’autres sociétés. Elles pourront être temporairement transférées hors Union Européenne pour qualification, hébergement. 
 
-Pour exercer votre droit d'accès et de rectification contactez
+Vous disposez d’un droit d’accès, de rectification et d’opposition aux informations qui vous concernent. Pour exercer ce droit, contactez :
 
-**Procter & Gamble France SNC, Société en Nom Collectif au capital de 10 275 200 F, RCS Nanterrre n 391 543 576 - 96 avenue Charles de Gaulle, 92200 Neuilly sur Seine**  
-  
+**Procter & Gamble France SAS   
+163/165 quai Aulagnier - 92600 Asnières-sur-Seine  
+E-mail : frconsumers@custhelp.com**
+
+Back to skip navigation menu   
 GREECE
 
 Για περισσότερες πληροφορίες σχετικά με το ελληνικό νομικό πλαίσιο, μπορείτε να ανατρέξετε στον ν.2472/1997 και τις αποφάσεις της Αρχής Προστασίας Δεδομένων.
 
 **ΠΡΟΚΤΕΡ & ΓΚΑΜΠΛ ΕΛΛΑΣ ΕΠΕ  
 Λ.Συγγρού 165, 17 121 Νέα Σμύρνη  
-Υπηρεσία Καταναλωτών: 0800 –23000 (χωρίς χρέωση)**  
-  
+Υπηρεσία Καταναλωτών: 0800 –23000 (χωρίς χρέωση)**
+
+Back to skip navigation menu   
 ITALIA
 
 Ai sensi e per gli effetti del D.Lgs. 196/2003 sulla privacy, ti informiamo che, nel caso tu fornisca i tuoi dati navigando all'interno di questo sito, i dati medesimi potranno essere trattati, con mezzi elettronici,direttamente o anche attraverso terzi, per le seguenti finalita'
@@ -306,7 +335,9 @@ Ai sensi e per gli effetti del D.Lgs. 196/2003 sulla privacy, ti informiamo che,
 
 I dati potranno inoltre essere comunicati a societa' controllate, collegate e/o partecipate dalla The Procter & Gamble Company, o comunque facenti parte del gruppo Procter & Gamble in Italia e/o all'estero (anche paesi extra UE), nonche' a societa' terze che effettuino attivita' di trattamento dati per conto della Procter & Gamble stessa, fermi restando i livelli di sicurezza utilizzati per proteggerli ed i fini per i quali sono trattati.  
 In nessun caso i dati saranno ceduti a Societa' terze per fini commerciali diversi da quelli della Procter & Gamble e dei suoi marchi senza il tuo preventivo consenso.  
-In relazione al trattamento dei dati, potrai altresi' esercitare in qualunque momento i diritti previsti dall'art. 7 del D. Lgs. 196/2003, rivolgendoti a Procter & Gamble – Viale Cesare Pavese 385 – 00144 Roma  
+In relazione al trattamento dei dati, potrai altresi' esercitare in qualunque momento i diritti previsti dall'art. 7 del D. Lgs. 196/2003, rivolgendoti a Procter & Gamble – Viale Cesare Pavese 385 – 00144 Roma
+
+Back to skip navigation menu   
   
 KOREA
 
@@ -328,15 +359,16 @@ E - M A I L : vmsmile.im@pg.com
 13\. 개인정보 침해 관련 상담 및 신고  
 개인정보침해에 대한 신고, 상담이 필요하신 경우에는 정보통신부 산하 공공기관인 한국정보보호진흥원(KISA)에 개인정보침해신고센터로 문의하시기 바랍니다. 개인정보침해신고센터  
 전화 (02) 1336  
-URL : [http://www.1336.or.kr](http://www.1336.or.kr/)
+URL : [http://www.1336.or.kr](http://www.1336.or.kr/ "http://www.1336.or.kr")
 
 14\. 정책변경에 따른 공지의무  
 "P&G" 개인정보취급방침은 2001년 07월 01일에 제정되었으며 법령, 정책 또는 보안기술의 변경에 따라 내용의 추가, 삭제 및 수정이 있을 시에는 변경되는 개인정보취급방침을 시행하기 최소 10일전에 "P&G" 홈페이지를 통해 변경이유 및 내용 등을 공지하도록 하겠습니다. 
 
 개인정보취급방침 버전번호: V2.0  
 개인정보보호정책 시행일자 : 2008년 5월 1일  
-개인정보보호정책 최종변경일자 : 2008년 4월 21일  
-  
+개인정보보호정책 최종변경일자 : 2008년 4월 21일
+
+Back to skip navigation menu   
 NEDERLAND
 
 Overeenkomstig de Wet van 6 juli 2000 houdende regels inzake de bescherming van persoonsgegevens heeft u het recht tot toegang, verbetering en verzet van uw persoonlijke gegevens. De verantwoordelijke voor de bewerking van uw gegevens in Nederland is de venootschap Procter & Gamble Nederland B.V.
@@ -346,15 +378,16 @@ Indien u hierover meer informatie wilt, kunt u schrijven naar:
 T.a.v. Consumentenservice  
 Postbus 1345  
 3000 BH ROTTERDAM  
-email adres: pgconsumentnl.im@pg.com **  
-  
+email adres: pgconsumentnl.im@pg.com **
+
+Back to skip navigation menu   
 PORTUGAL
 
 Os seus dados pessoais serão recolhidos e inseridos pela **PROCTER & GAMBLE PORTUGAL – Produtos de Consumo, Higiene e Saúde, S.A.** (de ora em diante abreviadamente designada por P&G) num ficheiro automatizado para realização de actividades de marketing destinadas a pessoas com o seu perfil de consumo. O preenchimento dos dados é obrigatório. Caso pretenda vir a ter acesso aos seus dados ou deseje que os mesmos sejam rectificados, alterados ou eliminados deverá dirigir-se à P&G, Ed. Álvares Cabral, Quinta da Fonte, 2774-527 Paço de Arcos. Os dados recolhidos poderão ser transmitidos a outras empresas (designadamente, outras sociedades do grupo Procter & Gamble), sedeadas em Portugal ou no estrangeiro, para realização de actividades de marketing. Caso deseje opor-se a tal cedência deverá assinalar este campo [•]. Se não quiser que os seus dados pessoais sejam utilizados para receber outras comunicações de marketing, por favor assinale este campo[B1][B1] [•]. A recolha e o processamento de dados pessoais será sempre feita de acordo com a lei Portuguesa que seja aplicável e todas as autorizações que para o efeito se revelem necessárias serão previamente obtidas junto da Comissão Nacional de Protecção de Dados Pessoais. Nos termos legais, a P&G adoptou medidas para assegurar que os dados facultados sejam protegidos contra o acesso ou utilização por terceiros não autorizados. Todavia, a P&G chama a atenção para a existência de um risco residual de acesso não autorizado na internet. Para aceder à nossa "Declaração sobre Privacidade", por favor, 
 
-_clique aqui:_ [www.pg.com/privacy/portuguese/privacy_notice.html](http://www.pg.com/privacy/portuguese/privacy_notice.html)  
+_clique aqui:_ [www.pg.com/privacy/portuguese/privacy_notice.html](http://www.pg.com/privacy/portuguese/privacy_notice.html "www.pg.com/privacy/portuguese/privacy_notice.html") Back to skip navigation menu   
 SPAIN
 
 Sus datos serán incorporados a los ficheros de las compañías PROCTER & GAMBLE ESPAÑA, S.A. y ARBORA & AUSONIA, S.L.U. para informarle y pedir su opinión sobre ésta o nuevas ofertas relativas a los productos y servicios de las citadas sociedades y realizar estudios de mercado, a través de cualquier medio, incluso e-mail o SMS, así como para realizar tratamientos con el objeto de adecuar nuestras comunicaciones a su perfil particular. Asimismo, sus datos podrán ser utilizados por las empresas anteriormente indicadas para enviarle información relativa a terceras empresas relacionadas con los sectores de telecomunicaciones, ocio y gran consumo. Si desea acceder a sus datos, rectificarlos, cancelarlos, oponerse a su tratamiento o que los mismos no sean utilizados para ofrecerle información de las empresas anteriormente mencionadas o de terceras empresas, diríjase a PROCTER & GAMBLE ESPAÑA, S.A. (Avda. de Bruselas nº 24 28108 Alcobendas, Madrid) y ARBORA & AUSONIA, S.L.U. (Pg. dels Til.lers, 2-6, 08034 Barcelona).
 
- _Si no desea recibir mas información nuestra marque X en esta casilla_
+ _Si no desea recibir mas información nuestra marque X en esta casilla_ Back to skip navigation menu 
