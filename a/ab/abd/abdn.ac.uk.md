@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2009-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091119032029id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the abdn.ac.uk privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615054001id_/http%3A//www.abdn.ac.uk/site-information/privacy.php) for the most accurate reproduction.*
 
 # Privacy Statement [The University of Aberdeen]
 
@@ -84,6 +84,3 @@ The University of Aberdeen takes reasonable efforts to ensure that the contents 
 Users posting to web-based facilities on the University web site must abide by the University's _Code of Practice for the Publishing of Information in Electronic Format_ [ _[www.abdn.ac.uk/dit/policy.php](http://www.abdn.ac.uk/dit/policy.php)_ ]; postings deemed to be offensive will be removed.
 
 The University of Aberdeen website includes links to third party websites. These links are used to provide further information and are not intended as an endorsement of such websites and/or their content.
-
-  
-
