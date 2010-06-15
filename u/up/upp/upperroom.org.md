@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215144939id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upperroom.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615224313id_/http%3A//www.upperroom.org/privacy) for the most accurate reproduction.*
 
 # Upper Room | Privacy Policy
 
