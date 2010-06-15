@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timesofindia.com privacy policy that was archived on 2009-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090308093248id_/http%3A//in.indiatimes.com/policyterms/1554651.cms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesofindia.com privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615064551id_/http%3A//www.indiatimes.com/policyterms/1554651.cms) for the most accurate reproduction.*
 
 # Indiatimes - Terms of Use
 
