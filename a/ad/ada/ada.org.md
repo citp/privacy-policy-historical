@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2009-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090309065320id_/http%3A//www.ada.org/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ada.org privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615033806id_/http%3A//www.ada.org/legal/privacy.aspx) for the most accurate reproduction.*
 
-# ADA.org: Privacy Policy
+# ADA: American Dental Association - Privacy Policy
 
   * ADA Contact Information 
   * Information We May Collect About You
@@ -12,8 +12,7 @@
 
 
 
-  
-**ADA Contact Information**
+### ADA Contact Information 
 
 ADA.org is the web site of the American Dental Association (“ADA”). The ADA respects the privacy of our members and other users of our web site. This Privacy Policy addresses our use of information about you collected by virtue of your use of ADA.org. 
 
@@ -25,7 +24,7 @@ By e-mail [online@ada.org](mailto:online@ada.org)
 
 Return to Top
 
-**Information We May Collect About You**
+### Information We May Collect About You
 
 The information we collect via our Web site is used to improve the content of ADA.org and advance the ADA’s mission.
 
@@ -37,7 +36,7 @@ With respect to cookies: We use cookies for a number of purposes, including to a
 
 Return to Top
 
-**How We May Use Information We Collect**
+### How We May Use Information We Collect
 
 The ADA, its subsidiaries and affiliates may use your contact information to alert you to new information, products and services, events and other opportunities. From time to time, we may also make your contact information (but not your e-mail address) available to other reputable organizations whose products or services we think you might find interesting.
 
@@ -49,7 +48,7 @@ A particular ADA subsidiary or affiliate may have certain privacy policies even 
 
 Return to Top
 
-**Your Rights**
+### Your Rights
 
 To help us keep our promise to respect your privacy, it is important when you wish to exercise your rights that you contact us via any of the means listed in the first section of this Privacy Policy. 
 
@@ -63,17 +62,17 @@ You may also contact us if you believe your information is being used for purpos
 
 Return to Top
 
-**Children’s Privacy**
+### Children’s Privacy
 
 We are concerned about protecting children's privacy. We do not offer or sell products or services for purchase by children. If you are under 18 years of age, you may not purchase products or services from, and you should not provide information to, ADA.org. without the involvement of a parent or guardian. We do not collect online contact information without prior parental consent or parental notification, including an opportunity for the parent to prevent use of the information and participation in the activity. Without prior parental consent, online information will be used only to respond directly to the child's request and will not be used for other purposes. Nor without prior parental consent do we collect personally identifiable offline contact information, distribute to third parties any personally identifiable information or give the ability to publicly post or otherwise distribute personally identifiable contact information. We do not entice by the prospect of a special game, prize or other activity, to divulge more information than is needed to participate in the activity. 
 
 Return to Top
 
-**More About Our Privacy Practices**
+### More About Our Privacy Practices
 
 With respect to other web sites and servers: ADA.org contains links to other web sites. We have no control over and take no responsibility for the privacy practices or content of those sites. 
 
-The ADA does not partner with or have special relationships with ad server companies. However, we are running an advertising campaign pertaining to Direct Reimbursement on outside Web sites that link to ADA.org. The ADA utilizes transparent 1x1 pixel GIF files, provided by DoubleClick to help manage this online advertising. The information collected is anonymous and not personally identifiable. For more information about DoubleClick, including information about how to opt out of these technologies, go to http://www.doubleclick.net/us/corporate/privacy/.
+The ADA does not partner with or have special relationships with ad server companies. However, we are running an advertising campaign pertaining to Direct Reimbursement on outside Web sites that link to ADA.org. The ADA utilizes transparent 1x1 pixel GIF files, provided by DoubleClick to help manage this online advertising. The information collected is anonymous and not personally identifiable. For more information about DoubleClick, including information about how to opt out of these technologies, go to [http://www.doubleclick.net/us/corporate/privacy/](http://www.doubleclick.net/us/corporate/privacy).
 
 With respect to security: We use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and will notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. When users choose to make payments via credit cards, we submit the information needed to obtain payment to the appropriate clearinghouses. We do not store or reuse this credit card information, unless you have given your authorization for us to do so.
 
@@ -81,11 +80,10 @@ Note: Health information you may share via ADA.org is neither private nor confid
 
 Return to Top
 
-**Changes, Comments and Questions**
+### Changes, Comments and Questions
 
 If our information practices change at some time in the future we will post the policy changes to our Web site to notify you and allow you to opt out of new uses. The latest version of our Privacy Policy will always be available at ADA.org. If you are concerned about how your information may be used, please check back at our Web site periodically.
 
 We welcome your comments or questions about our Privacy Policy and privacy practices. If you feel that this site is not following its stated policy, please let us know.
 
-Return to Top  
-
+Return to Top
