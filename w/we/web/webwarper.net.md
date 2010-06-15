@@ -1,10 +1,14 @@
-> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2009-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090424082114id_/http%3A//webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwarper.net privacy policy that was archived on 2010-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100615170153id_/http%3A//www.webwarper.net/ww/0/wwgz/priv.htm) for the most accurate reproduction.*
 
 # WebWarper: Privacy Policy
 
 | |   
 ---|---  
-**Information**  
+| **[Created by  
+AlgART.net](http://webwarper.net/clicklog.pl/WWAdAlgART/algart.net/)  
+Bible, articles,  
+software**  
+ **Information**  
 | [ **What is  
 WebWarper?**](http://webwarper.net/ww/0/wwgz/description.htm)  
 | [ **Main Features**](http://webwarper.net/ww/0/wwgz/features.htm)  
