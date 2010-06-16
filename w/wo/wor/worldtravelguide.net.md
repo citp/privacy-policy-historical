@@ -1,69 +1,125 @@
-> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2009-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090529075937id_/http%3A//www.worldtravelguide.net/privacy.ehtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldtravelguide.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616165415id_/http%3A//www.worldtravelguide.net/privacy.ehtml) for the most accurate reproduction.*
 
 # Privacy Policy - World Travel Guide
 
-## 1\. Introduction
+We, Columbus Travel Media Limited, are committed to safeguarding your privacy. This privacy policy explains how we will treat any personal information you supply to us, or we collect from you on www.worldtravelguide.net or www.worldeventsguide.com the "Websites". Please read this policy carefully as it affects your legal rights. If you do not agree with this policy please do not use the Websites.
+
+## 1\. Information collected
 
 ### 1.1
 
-We are committed to protecting the privacy of visitors to the web site in accordance with the Data Protection Act 1998 (the "Act").
+We may collect and store information you provide on the Websites for the purposes of:  
+**1.1.1** purchasing or receiving our goods or services;  
+**1.1.2** registering for a password protected login for any of our services or facilities on the Websites;  
+**1.1.3** using the feedback facility;  
+**1.1.4** entering competitions, including any competitions organised and fulfilled by third parties;  
+**1.1.5** participating in surveys and research;  
+**1.1.6** completing enquiry forms;   
+**1.1.7** supplying us with information for publication on the Websites;  
+and   
+**1.1.8** any other communication you have with us for any other reason 
 
 ### 1.2
 
-This privacy policy explains how we may collect personal data and how we use the information we may collect about you.
+We may also collect and store information about your computer and about your visits to and use of the Websites (including your IP address, geographical location, browser type, referral source, length of visit and number of page views).
 
-## 2\. Information collected and retained by the Administrators
+## 2\. Use of Cookies
 
 ### 2.1
 
-We collect personal information about you from personal details provided by yourself in relation to the Services we offer to Users. We do not collect any sensitive personal information such as information on your racial or ethnic origins, political opinions, religious beliefs, trade union affiliations, sexual life, health or criminal history.
+We may gather information about your use of the Websites by using a cookie file. When used, these cookies are downloaded to your computer automatically. The cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive.
 
-## 3\. Use of information by the Administrators
+### 2.2
+
+When used, a session cookie will keep track of you whilst you navigate the Websites.
+
+### 2.3
+
+When used, a persistent cookie will enable the Websites to recognise you when you re-visit the Websites.
+
+### 2.4
+
+All computers have the ability to decline cookies. Please note, should you decline cookies, you may not be able to access certain areas of the Websites.
+
+### 2.5
+
+We use cookies to analyse the use of the Websites. This enables statistical and other reports to be produced about the use of the Websites but such reports will not identify you personally.
+
+### 2.6
+
+Our advertisers and third party suppliers whose websites can be accessed via the Websites also use cookies, over which we have no control. Such cookies (if used) will be downloaded once you click on an advertisement on the Websites or transfer to a third party's website.
+
+## 3\. Use of your Information
 
 ### 3.1
 
-We collect information which is necessary to:  
-**3.1.1** provide the Services to you;  
-**3.1.2** notify you of your Service order status; and  
-**3.1.3** carry out internal administration and analysis.
+We will use your information to:  
+**3.1.1** administer the Websites;  
+**3.1.2** enable us to provide, and you to use, the goods, services, and facilities on the Websites;  
+**3.1.3** deliver to you any goods purchased from us;  
+**3.1.4** send to you statements and invoices, and to collect from you payment, for goods, services or facilities purchased from us;  
+**3.1.5** send to you future marketing information regarding our goods, services, facilities and other features;  
+**3.1.6** send to you marketing and other commercial information about the goods or services offered by our commercial partners;  
+**3.1.7** allow our commercial partners to contact you directly with marketing and other commercial information about their goods or services;  
+**3.1.8** publishing information you have supplied to us on the Websites, where you have supplied such information to us for such purposes;  
+and   
+**3.1.9** enable us to deal with any complaints or queries raised by you.
 
 ### 3.2
 
-We can also use that information to enhance your visit to our web site by:  
-**3.2.1** telling you about new products, new services and special offers;  
-**3.2.2** tailoring your experience to your preferred choice of activities; and  
-**3.2.3** informing you of changes in our web site.
+Please contact us at [www.worldtravelguide.net/feedback.ehtml](http://www.worldtravelguide.net/feedback.ehtml) at any time if you do not want your information to be used in the manner set out in clauses 3.1.5 or 3.1.6 or 3.1.7 above. 
 
 ### 3.3
 
-By providing us with your personal information, you consent to us (and where relevant, our subsidiaries, affiliates and trusted partners) using (including collecting, storing and processing) your personal information. We will of course inform you of any changes to Privacy policy and you will have the opportunity to opt out of those changes which affect you.
+All our Websites financial transactions are handled through our payment service providers, RomanCart Limited ("Roman") SecureTrading Limited ("Secure"). You should only provide your personal information to Roman or Secure after reviewing their respective privacy policy (available through www.romancart.com or www.securetrading.com). We will share your information with Roman or Secure only to the extent necessary for the purposes of processing payments you make via the Websites. Roman and Secure are not permitted by us to use your information for any other purpose.
 
-## 4\. Accessing and amending your personal information
+## 4\. Sharing your information
 
-We will process your personal data for the purposes set out in clause 3 above. If however, you have any queries or requests in relation to Data Protection please notify our Data Protection Compliance Officer at: Media House, Azalea Drive, Swanley, Kent BR8 8HU, United Kingdom
+### 4.1
 
-## 5\. Disclosure to Third Parties
+We may disclose your information to any of our employees, officers, agents, suppliers or subcontractors insofar as reasonably necessary for the purposes as set out in this privacy policy.
+
+### 4.2
+
+In addition, we may disclose information about you:  
+**4.2.1** to the extent that we are required to do so by law;  
+**4.2.2** in connection with any legal proceedings or prospective legal proceedings;  
+**4.2.3** in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing credit risk);  
+or   
+**4.2.4** to the purchaser (or prospective purchaser) of any business or asset which we are (or are contemplating) selling.
+
+## 5\. Security of your information
 
 ### 5.1
 
-We may disclose your information to necessary third parties to enable us to provide you with the Services. By requesting us to provide you with the Services you consent to this disclosure.
+We will take reasonable technical and organisational precautions to prevent the loss, misuse or alteration of your personal information.
 
 ### 5.2
 
-We also reserve the right to access and disclose to third parties your information to comply with applicable laws including but not limited to disclosure in accordance with the Act, the Regulation of Investigatory Powers Act 2000 and lawful authority requests, to safeguard the proper operation of our systems and to protect ourselves and our clients.
+We do not accept any responsibility for the security of data sent over the internet.
 
-## 6\. Protection of personal information
+### 5.3
 
-We use our reasonable endeavours, to ensure proper storage and careful disclosure of your personal information in order that nothing improper happens to your private information. These security measures mean that we may occasionally have to ask you for proof of identity before we are able to disclose personal information to you.
+You are responsible for keeping your password and user details confidential.
 
-## 7\. External Web Sites
+## 6\. Miscellaneous
 
-This privacy policy only applies to this web site. The web site may contain links to external web sites, some of which are displayed within a World Travel Guide Website Service frame. Please note that we are not responsible for the privacy practices of other web sites. We recommend that you check the privacy policy of any other web sites you may visit through the web site. The inclusion of links to such web sites does not imply any endorsement of the material on such sites nor any association with their owners or operators. If you have any complaints relating to such sites, please contact them directly.
+### 6.1
 
-## 8\. Opt-In
+Where the context permits, the words "we", "our" and "us" are a reference to Columbus Travel Media Limited.
 
-If you tick an opt-in box the Administrators will provide your information to selected third parties. We or they may contact you by mail, telephone or e-mail to let you know about services and products which may be of interest to you. You have the right to ask for a copy of the information held by us about you in our records in return for the payment of a small fee. You also have the right to correct any inaccuracies in the information.
+### 6.2
 
-## 9\. Use of Cookies
+We may update this privacy policy from time to time and it is your responsibility to check to ensure you are aware of the contents of the most up to date policy at any given time.
 
-This website uses cookies. Cookies are small pieces of text that are written to your hard drive to store information about your use of the World Travel Guide Website Service. You have the right to refuse cookies (please see your web browser's help file for information on doing this), but by doing so you may disrupt the performance of the World Travel Guide Website Service or make it inoperable to you. 
+### 6.3
+
+You may instruct us to provide you with any personal information we hold about you. Provision of such information may be subject to the payment of a fee (currently fixed at £10.00).
+
+### 6.4
+
+he Websites contains links to other websites. We are not responsible for the privacy policies or practices of third party websites.
+
+##### Version 1  
+(December 2009)  
+
