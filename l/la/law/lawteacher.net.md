@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2009-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090821080725id_/http%3A//www.lawteacher.net/privacy.php%3Fsidenav_id%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawteacher.net privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616041330id_/http%3A//www.lawteacher.net/policies-and-contact-details/privacy-policy.php%3Fsidenav_id%3Dprivacy) for the most accurate reproduction.*
 
 # Law Teacher | Privacy Policy
 
@@ -87,3 +87,19 @@ Our websites may contain links to other sites outside the group. Academic Answer
 If you are unsure whether a website belongs to Academic Answers Limited or not, just email our enquiries email address, or give us a call.
 
 If you have any more questions about the way we handle data, please call or email us. If you have a more in-depth question, please email our enquiries address, marked for the attention of the legal department.
+
+### All policies and contact details
+
+  * [Complaints](http://www.lawteacher.net/policies-and-contact-details/complaints.php " Complaints")
+  * [Contact Us](http://www.lawteacher.net/policies-and-contact-details/contact-us.php " Contact Us")
+  * [Contact Us.LCK](http://www.lawteacher.net/policies-and-contact-details/contact-us.LCK.php " Contact Us.LCK")
+  * [Fair Use Policy](http://www.lawteacher.net/policies-and-contact-details/fair-use-policy.php " Fair Use Policy")
+  * [Feedback](http://www.lawteacher.net/policies-and-contact-details/feedback.php " Feedback")
+  * [Get Verified](http://www.lawteacher.net/policies-and-contact-details/get-verified.php " Get Verified")
+  * [Privacy Policy](http://www.lawteacher.net/policies-and-contact-details/privacy-policy.php " Privacy Policy")
+  * [Terms](http://www.lawteacher.net/policies-and-contact-details/terms.php " Terms")
+
+  
+
+
+[](http://www.lawteacher.net/bundles.php?utm_source=corner&utm_medium=onsite&utm_campaign=bundles&utm_nooverride=1)
