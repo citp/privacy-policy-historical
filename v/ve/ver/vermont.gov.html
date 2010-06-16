@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vermont.gov privacy policy that was archived on 2009-12-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20091210020512id_/http%3A//www.vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vermont.gov privacy policy that was archived on 2010-06-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20100616215853id_/http%3A//vermont.gov/portal/policies/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN"><html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 <title>Vermont.gov  - Policies - Privacy Policy</title>
@@ -15,11 +15,13 @@
 <link href="/styles/portal_print.css" rel="stylesheet" type="text/css" media="print">
 <link href="/styles/portal_text.css" rel="alternate stylesheet" type="text/css" title="text" media="screen">
 <script type="text/javascript" src="/js/utilities.js"></script>
+<script type="text/javascript" src="/js/search.js"></script>
 <link rel="alternate" type="application/rss+xml" title="Vermont.gov Press Releases" href="/portal/rss/feeds/news.php">
 <link rel="search" type="application/opensearchdescription+xml" href="http://www.vermont.gov/plugins/mozilla_search.xml" title="Vermont.gov Statewide Search">
 <script type="text/javascript">
 function clickclear(thisfield, defaulttext) { if (thisfield.value == defaulttext) { thisfield.value = ""; } }
 function clickrecall(thisfield, defaulttext) { if (thisfield.value == "") { thisfield.value = defaulttext; } }
+var RecaptchaOptions = { theme: 'clean' };
 </script>
 </head>
 <body>
@@ -27,36 +29,41 @@ function clickrecall(thisfield, defaulttext) { if (thisfield.value == "") { this
 <div id="pageContainer" style="">
 <div id="pageHeader">
 <div class="logoHeader">
-<a class="nohover" href="/portal/index.php"><img src="/images/portal/logo.gif" alt="Vermont dot gov" height="59" width="122" border="0"></a>
+<a class="nohover" href="http://www.vermont.gov/portal/index.php"><img src="/images/portal/logo.gif" alt="Vermont dot gov" height="59" width="122" border="0"></a>
 <h1><a class="nohover" href="/portal/index.php">Vermont.gov</a></h1>
+</div>
+<div id="myContainer">
+<p><b><i>my</i>Vermont.gov Account</b><br>
+<a href="/myvermont/">Not Logged In</a></p>
 </div>
 </div>
 <ul id="topNav">
-<li class="tagline"><a class="nohover" href="/portal/index.php">Vermont.gov - The Official State Website</a></li>
-<li class="item alerts"><a href="/portal/alerts/">Alerts</a></li>
-<li class="item"><a href="/portal/services/">Online Services</a></li>
-<li class="item"><a href="/portal/government/atoz.php">Agency A-Z</a></li>
-<li class="item"><a href="/portal/help/">Help &amp; FAQs</a></li>
+<li class="tagline"><a class="nohover" href="http://www.vermont.gov/portal/index.php">Vermont.gov - The Official State Website</a></li>
+<li class="item alerts"><a href="http://www.vermont.gov/portal/alerts/">Alerts</a></li>
+<li class="item"><a href="http://www.vermont.gov/portal/services/">Online Services</a></li>
+<li class="item"><a href="http://www.vermont.gov/portal/government/atoz.php">Agency A-Z</a></li>
+<li class="item"><a href="http://www.vermont.gov/portal/help/">Help &amp; FAQs</a></li>
 <li class="search">
 <form method="get" action="/portal/search.php" name="searchform">
 <label for="search"><input type="image" name="Start" value="Start" src="/images/portal/magnifying_glass.gif" id="Start" alt="Search" align="top"></label>
-<input type="text" size="16" name="q" value="Search Vermont Government" id="search" onfocus="clickclear(this, 'Search Vermont Government')" onblur="clickrecall(this,'Search Vermont Government')">
+<input type="text" size="16" name="q" value="Search Vermont Government" id="search" onfocus="clickclear(this, 'Search Vermont Government')" onblur="clickrecall(this,'Search Vermont Government')" onkeyup="searchSuggest();" autocomplete="off">
 <input type="image" name="Go" value="Go" src="/images/portal/go_search.gif" id="Go" alt="Run Search" align="top">
 <input type="submit" name="Go" id="goButton" value="Go">
+<div id="search_suggest"></div>
 </form>
 </li>
 </ul>
 <ul id="mainNav">
-<li class="single"><a href="/portal/government/">Government</a></li>
-<li class="single"><a href="/portal/residents/">Residents</a></li>
-<li class="single"><a href="/portal/business/">Business</a></li>
-<li class="double"><a href="/portal/agriculture/">Agriculture &amp;<br>Environment</a></li>
-<li class="double"><a href="/portal/travel/">Travel &amp;<br>Recreation</a></li>
-<li class="single"><a href="/portal/education/">Education</a></li>
-<li class="single"><a href="/portal/employment/">Employment</a></li>
-<li class="double"><a href="/portal/health/">Health &amp;<br>Human Services</a></li>
-<li class="single"><a href="/portal/safety/">Safety &amp; Security</a></li>
-<li class="single"><a href="/portal/vermont/">About Vermont</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/government/">Government</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/residents/">Residents</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/business/">Business</a></li>
+<li class="double"><a href="http://www.vermont.gov/portal/agriculture/">Agriculture &amp;<br>Environment</a></li>
+<li class="double"><a href="http://www.vermont.gov/portal/travel/">Travel &amp;<br>Recreation</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/education/">Education</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/employment/">Employment</a></li>
+<li class="double"><a href="http://www.vermont.gov/portal/health/">Health &amp;<br>Human Services</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/safety/">Safety &amp; Security</a></li>
+<li class="single"><a href="http://www.vermont.gov/portal/vermont/">About Vermont</a></li>
 </ul>
 <h1 id="pageTitle" style="background: #afc79b;">Policies</h1>
 <h1 id="printPageTitle">Policies</h1>
@@ -193,31 +200,31 @@ email: <a href="mailto:portal-feedback@vermont.nicusa.com">portal-feedback@vermo
 </div>
 <table class="content" cellpadding="1" cellspacing="1" border="0" summary="Footer Links">
 <tbody><tr>
-<td width="50"><a href="/portal/help/sitemap.php" class="footerLink">Site Map</a></td>
+<td width="50"><a href="http://www.vermont.gov/portal/help/sitemap.php" class="footerLink">Site Map</a></td>
 <td width="1">|</td>
-<td align="center" width="86"><a href="/portal/help/link.php" class="footerLink">Suggest a Link</a></td>
+<td align="center" width="86"><a href="http://www.vermont.gov/portal/help/link.php" class="footerLink">Suggest a Link</a></td>
 <td width="1">|</td>
-<td align="center" width="107"><a href="/portal/rss/" class="footerLink">Share &amp; Subscribe</a></td>
+<td align="center" width="107"><a href="http://www.vermont.gov/portal/rss/" class="footerLink">Share &amp; Subscribe</a></td>
 <td width="1">|</td>
-<td align="center" width="125"><a href="/portal/webmasters" class="footerLink">State Web Resources</a></td>
+<td align="center" width="125"><a href="http://www.vermont.gov/portal/webmasters" class="footerLink">State Web Resources</a></td>
 </tr>
 </tbody></table>
 <table class="content" cellpadding="1" cellspacing="1" border="0" summary="Footer Links" style="padding-top:0px;">
 <tbody><tr>
-<td width="104"><a href="/portal/help/about.php" class="footerLink">About Vermont.gov</a></td>
+<td width="104"><a href="http://www.vermont.gov/portal/help/about.php" class="footerLink">About Vermont.gov</a></td>
 <td width="1">|</td>
-<td align="center" width="48"><a href="/portal/policies/" class="footerLink">Policies</a></td>
+<td align="center" width="48"><a href="http://www.vermont.gov/portal/policies/" class="footerLink">Policies</a></td>
 <td width="1">|</td>
-<td align="center" width="64"><a href="/portal/policies/accessibility.php" class="footerLink">Accessibility</a></td>
+<td align="center" width="64"><a href="http://www.vermont.gov/portal/policies/accessibility.php" class="footerLink">Accessibility</a></td>
 <td width="1">|</td>
-<td align="center" width="38"><a href="/portal/policies/privacy.php" class="footerLink">Privacy</a></td>
+<td align="center" width="38"><a href="http://www.vermont.gov/portal/policies/privacy.php" class="footerLink">Privacy</a></td>
 <td width="1">|</td>
 <td align="right" width="72">Phone Help:</td>
 <td width="52"><a href="http://www.vermont211.org"><img src="/images/portal/211.gif" alt="211" border="0"></a></td>
 <td width="41"><a href="http://www.511vt.com"><img src="/images/portal/511.gif" alt="511" border="0"></a></td>
 </tr>
 </tbody></table>
-<span class="tagline">A Vermont Government Website&nbsp;&nbsp;&nbsp;Copyright 2009 State of Vermont</span>
+<span class="tagline">A Vermont Government Website&nbsp;&nbsp;&nbsp;Copyright 2010 State of Vermont</span>
 </div>
 </div>
 </div>
