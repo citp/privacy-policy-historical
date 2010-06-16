@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2009-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091211041804id_/http%3A//www.wfan.com/pages/119962.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wfan.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616063805id_/http%3A//www.wfan.com/pages/119962.php) for the most accurate reproduction.*
 
-# WFAN - The Fan - WFAN Privacy Policy
+# WFAN Privacy Policy - WFAN - The Fan
 
 TABLE OF CONTENTS
 
