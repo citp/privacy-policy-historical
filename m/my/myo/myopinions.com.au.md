@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2009-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myopinions.com.au privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - MyOpinions
 
@@ -17,7 +17,7 @@ The information you enter in the [Account Profile](https://web.archive.org/accou
 
 The information you provide is stored by us for as long as you remain a member.
 
-If you wish to access the information that we hold about you, you may view and update your details through the [Account section](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/Account/) of this website.
+If you wish to access the information that we hold about you, you may view and update your details through the [Account section](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/Account/) of this website.
 
 ##### How does MyOpinions use the information I provide?
 
@@ -53,9 +53,9 @@ In the event that we detect fraud or abuse of our program or our web site and co
 
 ##### What are cookies and why does MyOpinions use them?
 
-A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the web site that placed it there. Cookies are used by the MyOpinions web site to add functionality and security. The use of cookies in this way is wide-spread and commonly accepted by the Internet community.
+A cookie is a piece of data stored on a user's computer hard drive, containing information about that user. A cookie can only be accessed across the Internet by the web site that placed it there. Cookies are used by the MyOpinions web site to enable web site sign in, and to track the source of new members joining the web site. The use of cookies in this way is wide-spread and commonly accepted by the Internet community. MyOpinions does not use cookies for routing or for the tracking of user behaviour.
 
-You may choose to reject a cookie that the MyOpinions web site attempts to place on your computer, however you may then be limited in your use of some areas of the web site. 
+You may choose to reject a cookie that the MyOpinions web site attempts to place on your computer (by using the options and controls in your web browser software), however you may then be limited in your use of some areas of the web site. 
 
 ##### What happens to my personal information on other Web sites?
 
@@ -69,12 +69,12 @@ The widely accepted definition of "spam" is unsolicited commercial email, or in 
 
 Each email we send to you contains a link at the very bottom allowing you to unsubscribe.
 
-If you unsubscribe and cancel your membership, all rewards and prizes will be forfeited. A cancelled account cannot be restored. (For your safety, to cancel your account you must enter your password and confirm this action on the next screen.) [Cancel your account now](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/account/cancel.aspx).
+If you unsubscribe and cancel your membership, all rewards and prizes will be forfeited. A cancelled account cannot be restored. (For your safety, to cancel your account you must enter your password and confirm this action on the next screen.) [Cancel your account now](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/account/cancel.aspx).
 
-**If you have received unwanted email sent from MyOpinions,** or purporting to be sent from MyOpinions, please [contact MyOpinions](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/Help/Contact.aspx).
+**If you have received unwanted email sent from MyOpinions,** or purporting to be sent from MyOpinions, please [contact MyOpinions](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/Help/Contact.aspx).
 
-**If you have any questions** about the privacy practices of the MyOpinions web site or your dealings with MyOpinions Pty Ltd, please [contact MyOpinions](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
+**If you have any questions** about the privacy practices of the MyOpinions web site or your dealings with MyOpinions Pty Ltd, please [contact MyOpinions](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/Help/Contact.aspx). We are committed to being of service to you and resolving any issues that may arise.
 
 We may change this privacy policy from time to time. You should periodically refer to this policy here to review any changes.
 
-This privacy policy should be read in conjunction with the MyOpinions [Terms of Service](https://web.archive.org/web/20091016083633id_/http%3A//www.myopinions.com.au/Terms.aspx).
+This privacy policy should be read in conjunction with the MyOpinions [Terms of Service](https://web.archive.org/web/20100616180003id_/http%3A//www.myopinions.com.au/Terms.aspx).
