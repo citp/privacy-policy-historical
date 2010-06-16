@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213214717id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hootsuite.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616023557id_/http%3A//hootsuite.com/privacy) for the most accurate reproduction.*
 
 # HootSuite - Privacy Policy
 
@@ -41,5 +41,3 @@ Invoke may periodically update this policy. We will notify you about significant
 ## Questions
 
 Any questions about this Privacy Policy should be addressed to support at [invokemedia.com](http://www.invokemedia.com/) or by mail at: Invoke Media, 37 Dunlevy Ave., Vancouver, BC, Canada V6A 3A3
-
-[](http://mashable.com/owa/votes?v=227&c=46)
