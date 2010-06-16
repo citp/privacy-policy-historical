@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2009-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090417040416id_/http%3A//www.netbenefit.com/netbenefit/Privacy%2BPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netbenefit.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616053253id_/http%3A//www.netbenefit.com/netbenefit/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | NetBenefit
+# Privacy Policy | Web Hosting | NetBenefit
 
   1. INTRODUCTION
   2. WHAT PERSONAL DATA DO WE COLLECT?
@@ -98,4 +98,4 @@ c) in the context of a sale or merger of all or part of our business.
 
 
 
-[ ](https://web.archive.org/netbenefit/Get+a+Quote)
+[](https://web.archive.org/netbenefit/get-quote)
