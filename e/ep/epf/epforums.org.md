@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2009-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20090304173004id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epforums.org privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616080541id_/http%3A//www.emuparadise.org/privacy.php) for the most accurate reproduction.*
 
-# Emuparadise.org - N64, Playstation, Dreamcast, Snes, Genesis, Arcade, Nes, MAME...
+# Emuparadise.org - N64 Playstation Dreamcast SNES Genesis NES MAME ROMs ISOs
 
 **Emuparadise Privacy Policy:**
 
@@ -26,3 +26,7 @@ Spyware/Malware/Adware:
 \- Sometimes such an ad might creep in through our banner networks since it is very hard to control the exact and complete content being served by advertisers. However, if you notify the webmaster of such an experience you can be rest assured we will take care of it and ensure that the malicious ad code is prevented from showing up on Emuparadise. 
 
 We will make every effort to protect our users privacy while browsing this website. If you have any privacy related queries, feel free to email MasJ at Emuparadise.org. (Replace at with @ and remove the spaces) 
+
+Privacy Policy Update:
+
+_We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies,[click here](http://www.networkadvertising.org/managing/opt_out.asp)_
