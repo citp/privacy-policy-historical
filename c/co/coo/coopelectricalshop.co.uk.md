@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2009-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091213120737id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopelectricalshop.co.uk privacy policy that was archived on 2010-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100617011420id_/http%3A//www.coopelectricalshop.co.uk/content/content.asp%3Fid%3D71) for the most accurate reproduction.*
 
 # Coop Electrical Shop
 
@@ -65,7 +65,9 @@ If we decide to change our privacy policy, we will post the changes on this page
 
 _**Your rights to access your personal information**_
 
-You have a right to receive a copy of the personal data that we hold about you. We have the discretion to make a charge of £10 towards the cost of administration, although currently we do not charge for this service. To obtain a copy of the personal information we hold on you, please write to the above FREEPOST address or alternatively ring Customer Services on FREEPHONE 0800 0686 727 and ask for a Subject Access Request form.
+You have a right to receive a copy of the personal data that we hold about you. There will be a charge of £10 towards the cost of administration.
+
+To obtain a copy of the personal information we hold on you, please write to the above FREEPOST address or alternatively ring Customer Services on FREEPHONE 0800 0686 727 and ask for a Subject Access Request form. Alternatively, a form can be downloaded ([click here](http://10.1.14.91/Business%20Files/Estates/Data%20Protection/Subject%20Access%20Request%20Form.doc)). The form once completed, should be returned with a cheque for £10.00 made payable to "Co-operative Group Ltd"
 
   
 
