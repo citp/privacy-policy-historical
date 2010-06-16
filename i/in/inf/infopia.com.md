@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2009-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091215112336id_/http%3A//www.infopia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infopia.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616021705id_/http%3A//www.infopia.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Infopia
+# Infopia Privacy Policy - Customer Transaction Confidentiality | Ecommerce Shopping Cart Solutions - Ecommerce Store Hosting & Software
 
 ## Transact and Infopia Inc. Online Privacy and Security Policies
 
