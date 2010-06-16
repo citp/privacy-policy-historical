@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2008-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081218105119id_/http%3A//www.articlesbase.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the articlesbase.com privacy policy that was archived on 2010-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100616071152id_/http%3A//www.articlesbase.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ArticlesBase.com
 
-| 
-
 **General**. ArticlesBase places great importance in protecting your privacy. This Privacy Policy is designed to explain the manner in which ArticlesBase collects, uses, and discloses the personal information provided by you as a result of the use of ArticlesBase's Web Site and the content, information and services provided through the Web Site by ArticlesBase.
 
-**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ARTICLESBASE.COM AND/OR ANY OTHER SITE PROVIDED BY ArticlesBase (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. ArticlesBase reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by ArticlesBase will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](https://web.archive.org/contact-us.php) if you have any questions about our privacy policy.
+**Users' Consent**. BY ACCESSING THIS WEB SITE, THE WEB SITE LOCATED AT THE URL WWW.ARTICLESBASE.COM AND/OR ANY OTHER SITE PROVIDED BY ArticlesBase (COLLECTIVELY, THE "SITE"), YOU ARE SIGNIFYING, EXPRESSING AND PROVIDING YOUR CONSENT TO THE INFORMATION COLLECTION, INFORMATION USAGE, AND OTHER PROCEDURES DESCRIBED IN THE PRIVACY POLICY BELOW. ArticlesBase reserves the right to change this policy at any time, without notice, by posting a new privacy policy at this location. The collection, use and disclosure of your personal information by ArticlesBase will be governed by the version of this Policy in effect at that time. Please check this page periodically for any changes. Please [contact us](https://web.archive.org/contact-us) if you have any questions about our privacy policy.
 
 **Collection and Use of Information**. In order for you to access certain materials or pages (i.e. author signup, tell a friend, and the like) and to register as a user on this Site, this Site requires that you provide certain personal information, including, but not limited to, your name, phone number and e-mail address. We use this information in order to contact you to provide you with further information about our company and services, as well as for other commercial and/or internal purposes such as market research in order to better understand the demographics of our Site visitors and potential customers and partners. We may share this information with our authorized partners and/or with third parties who act for or on behalf of us, but we do not otherwise provide or sell any information gathered on this Site to outside vendors.
 
@@ -18,15 +16,18 @@
 
 **Hyperlinks**. This Site contains hyperlinks to other web sites. This privacy policy applies only to this Site and not to any other sites, including sites accessed by hyperlink from this Site. ArticlesBase has no responsibility, liability for, or control over those other web sites or Internet resources or their collection, use and disclosure of your personal information, nor has it any control over the privacy policies of any of these sites. When you leave the ArticleBase Site via one of the links then you should read the privacy policy, if any, provided by the site that you have visited.
 
-The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect..
+The applicable law and exclusive jurisdiction for settling any disputes in connection with the use of the Site shall be the laws and jurisdiction of the state of Israel according to the provisions of the then policy in effect.
 
-ArticlesBase will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at it's discretion in order to provide you with competent and effective service. 
+ArticlesBase will accumulate and process your personal information in the USA, Israel or, from time to time, in other locations at its discretion in order to provide you with competent and effective service. 
 
 In order to assist in protecting the confidentiality of your personal information, ArticlesBase applies security safeguards appropriate to the sensitivity of the information. However, in light of the nature of Internet technologies, security and privacy risks cannot be eliminated and, therefore, ArticlesBase cannot guarantee that your personal information will not be disclosed in ways not otherwise described in this Policy.
 
-|  | 
+**3rd Party Based Advertising**.  
 
-Submitting articles has become one of the most popular means of generating quality backlinks and targeted traffic to your website. **[Join us today - It's Free!](https://web.archive.org/author-signup.php)**
 
-|   
----|---|---
+  * Google, as a third party vendor, uses cookies to serve ads on ArticlesBase.com.
+  * Google's use of the DART cookie enables it to serve ads to users based on their visit to our site and other sites on the Internet.
+  * You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).   
+
+
+
